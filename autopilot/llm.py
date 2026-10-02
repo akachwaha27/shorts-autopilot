@@ -29,11 +29,14 @@ def list_models():
     r.raise_for_status()
     names = [m["name"].split("/", 1)[1] for m in r.json().get("models", [])
              if "generateContent" in m.get("supportedGenerationMethods", [])]
-    usable = [n for n in names if n.startswith("gemini") and not any(s in n for s in SKIP)]
-    flash = [n for n in usable if "flash" in n and "lite" not in n]
-    lite = [n for n in usable if "flash" in n and "lite" in n]
+    usable = [n for n in names if not any(s in n for s in SKIP)]
+    flash = [n for n in usable if n.startswith("gemini") and "flash" in n and "lite" not in n]
+    lite = [n for n in usable if n.startswith("gemini") and "flash" in n and "lite" in n]
+    gemma = [n for n in usable if n.startswith("gemma") and "it" in n.split("-")]  # instruction-tuned open models
     order = lambda xs: sorted(xs, key=lambda n: (_version(n), -len(n)), reverse=True)  # noqa: E731
-    models = order(flash) + order(lite)
+    # newest 3 Flash, newest 2 Lite, biggest Gemma: different capacity pools, so one is usually free
+    gemma = sorted(gemma, key=lambda n: (_version(n), max([int(x[:-1]) for x in re.findall(r"\d+b", n)] or [0])), reverse=True)
+    models = order(flash)[:3] + order(lite)[:2] + gemma[:1]
     if not models:
         raise RuntimeError(f"No usable Gemini model found. Available: {names[:20]}")
     return models
@@ -53,42 +56,41 @@ def _models():
     return _candidates
 
 
-def _next_model(reason):
+def _parse(text):
+    text = re.sub(r"^```(?:json)?|```$", "", text.strip()).strip()
+    try:
+        return json.loads(text)
+    except json.JSONDecodeError:
+        m = re.search(r"\{.*\}", text, re.S)  # models without JSON mode may add chatter
+        if m:
+            return json.loads(m.group(0))
+        raise
+
+
+def ask_json(prompt, temperature=0.7, passes=2):
+    """Try each candidate model once per pass; wait between passes."""
     global _idx
     models = _models()
-    _idx = (_idx + 1) % len(models)
-    print(f"Switching Gemini model -> {models[_idx]} ({reason})")
-
-
-def ask_json(prompt, temperature=0.7, attempts=8):
-    body = {
-        "contents": [{"role": "user", "parts": [{"text": prompt}]}],
-        "generationConfig": {"temperature": temperature, "responseMimeType": "application/json"},
-    }
-    last, busy_streak = None, 0
-    for attempt in range(attempts):
-        model = _models()[_idx]
-        try:
-            r = requests.post(f"{BASE}/models/{model}:generateContent",
-                              params={"key": config.GEMINI_API_KEY}, json=body, timeout=180)
-            if r.status_code == 404:
-                _next_model("not found")
-                continue
-            if r.status_code in (429, 500, 502, 503, 504):
-                last = RuntimeError(f"HTTP {r.status_code} from {model}: {r.text[:200]}")
-                busy_streak += 1
-                if busy_streak >= 2:  # this model is struggling; try another one
-                    _next_model(f"HTTP {r.status_code}")
-                    busy_streak = 0
-                time.sleep(min(15 * (attempt + 1), 90))
-                continue
-            if r.status_code >= 400:
-                raise RuntimeError(f"HTTP {r.status_code}: {r.text[:300]}")
-            data = r.json()
-            text = data["candidates"][0]["content"]["parts"][0]["text"]
-            text = re.sub(r"^```(?:json)?|```$", "", text.strip()).strip()
-            return json.loads(text)
-        except (KeyError, IndexError, json.JSONDecodeError, requests.RequestException) as e:
-            last = e  # empty/blocked/garbled answer or network blip: just retry
-            time.sleep(5)
-    raise RuntimeError(f"Gemini still unavailable after {attempts} tries: {last}")
+    last = None
+    for p in range(passes):
+        for _ in range(len(models)):
+            model = models[_idx]
+            gen = {"temperature": temperature}
+            if model.startswith("gemini"):
+                gen["responseMimeType"] = "application/json"
+            body = {"contents": [{"role": "user", "parts": [{"text": prompt}]}], "generationConfig": gen}
+            try:
+                r = requests.post(f"{BASE}/models/{model}:generateContent",
+                                  params={"key": config.GEMINI_API_KEY}, json=body, timeout=180)
+                if r.status_code >= 400:
+                    raise RuntimeError(f"HTTP {r.status_code} from {model}: {r.text[:160]}")
+                return _parse(r.json()["candidates"][0]["content"]["parts"][0]["text"])
+            except Exception as e:  # noqa: BLE001  (busy, rate-limited, retired, empty or garbled answer)
+                last = e
+                print(f"Gemini {model} failed: {str(e)[:120]}")
+                _idx = (_idx + 1) % len(models)
+                time.sleep(8)
+        if p < passes - 1:
+            print("All models busy; waiting 90s before another pass")
+            time.sleep(90)
+    raise RuntimeError(f"All Gemini models busy right now ({len(models)} tried x{passes}). Last: {last}")
