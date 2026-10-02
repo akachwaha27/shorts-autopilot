@@ -92,6 +92,14 @@ You don't need Meta app review, because you only post to accounts you own and yo
 3. **Draft mode (default, `TIKTOK_MODE=draft`):** each approved video lands in your TikTok inbox. Telegram sends you the caption. In the app, add a trending sound, paste the caption, turn on the AI-generated label and post. This works without TikTok's audit, and posting natively with a trending sound tends to get more reach.
 4. **Direct mode (`TIKTOK_MODE=direct`, needs the `video.publish` scope):** posts automatically, but until TikTok audits the app, posts are private-only and your account must be private. After the audit, set `TIKTOK_PRIVACY` to `PUBLIC_TO_EVERYONE`.
 
+### 7b. Your PC folder: videos, Excel and dashboard (optional)
+The bot keeps a permanent record of every video and every daily idea list in `archive/`, and refreshes YouTube views, likes and comments every 6 hours (Variable `STATS_EVERY_HOURS`). To copy all of it to your PC:
+
+1. Download `tools/sync_library.py` and run `python sync_library.py --setup`.
+2. Enter the folder to use. It schedules a daily Windows task (plus at sign-in, and as soon as possible if the PC was off) and runs the first sync.
+
+Your folder then holds `Videos/` (every published video named `<date> - <title>.mp4`), `Thumbnails/`, `Shorts Library.xlsx` (sheets: Videos, Daily Top 5 Ideas, Comments, Daily Totals) and `Dashboard.html`. Stored video files are kept on GitHub for 30 days (`KEEP_VIDEOS_DAYS`), so the PC must sync at least once in that window. Run `python sync_library.py` any time to sync now, or `--uninstall` to remove the task.
+
 ### 8. AI images (optional)
 1. Create a free Cloudflare account. In the dashboard go to **AI → Workers AI** and create an API token.
 2. Set `CF_ACCOUNT_ID` and `CF_API_TOKEN`.
@@ -129,6 +137,7 @@ Any platform you leave blank is skipped.
 | `YT_PRIVACY` | `private` | Set to `public` after the audit passes |
 | `TIKTOK_MODE` | `draft` | `draft` (finish in the TikTok app) or `direct` |
 | `TIKTOK_PRIVACY` | `SELF_ONLY` | Direct mode only; change after the TikTok audit |
+| `KEEP_VIDEOS_DAYS` | `30` | Days stored videos stay on GitHub before cleanup |
 | `TARGET_SECONDS` | `45` | Video length. Use `65` once you're close to TikTok Creator Rewards (it pays only for videos over 1 minute) |
 
 ### 10. Test it
