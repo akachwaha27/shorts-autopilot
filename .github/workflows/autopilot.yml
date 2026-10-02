@@ -12,7 +12,6 @@ on:
 
 permissions:
   contents: write              # commit state + store videos as Releases
-  models: read                 # free GitHub Models AI as a backup when Gemini is busy
 
 concurrency:
   group: autopilot             # never run two at once (shared state)

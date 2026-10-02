@@ -2,12 +2,11 @@
 
 Order (each is skipped if not configured):
   1. Google Gemini      - GEMINI_API_KEY      (Flash -> Flash-Lite -> Gemma)
-  2. GitHub Models      - built-in GITHUB_TOKEN in Actions, no extra key
-  3. Groq               - GROQ_API_KEY        (optional, free)
-  4. Cerebras           - CEREBRAS_API_KEY    (optional, free)
-  5. Mistral            - MISTRAL_API_KEY     (optional, free "Experiment" plan)
-  6. OpenRouter :free   - OPENROUTER_API_KEY  (optional, free; small daily cap, so later in line)
-  7. Cloudflare AI      - CF_ACCOUNT_ID + CF_API_TOKEN (optional, free)
+  2. Groq               - GROQ_API_KEY        (optional, free)
+  3. Cerebras           - CEREBRAS_API_KEY    (optional, free)
+  4. Mistral            - MISTRAL_API_KEY     (optional, free "Experiment" plan)
+  5. OpenRouter :free   - OPENROUTER_API_KEY  (optional, free; small daily cap, so later in line)
+  6. Cloudflare AI      - CF_ACCOUNT_ID + CF_API_TOKEN (optional, free)
 
 Model names are discovered from each provider's model list at runtime, so
 retired models don't break anything. Every call returns parsed JSON.
@@ -109,19 +108,6 @@ def _openai_call(url, key, model, prompt, temperature, extra_headers=None):
     return _parse(content)
 
 
-def _github_models():
-    preferred = ["openai/gpt-4.1-mini", "openai/gpt-4o-mini", "meta/llama-3.3-70b-instruct", "openai/gpt-4.1"]
-    try:
-        r = requests.get("https://models.github.ai/catalog/models", timeout=30,
-                         headers={"Authorization": f"Bearer {os.getenv('GH_TOKEN')}"})
-        r.raise_for_status()
-        ids = {m["id"] for m in r.json()}
-    except Exception as e:  # noqa: BLE001
-        print("GitHub Models catalog unavailable, using defaults:", str(e)[:100])
-        return preferred[:2]
-    return [p for p in preferred if p in ids][:2] or sorted(i for i in ids if "mini" in i and _ok_name(i))[:2]
-
-
 def _groq_models():
     r = requests.get("https://api.groq.com/openai/v1/models", timeout=30,
                      headers={"Authorization": f"Bearer {os.getenv('GROQ_API_KEY')}"})
@@ -181,9 +167,6 @@ def _build_plan():
                 found = ["gemini-2.5-flash", "gemini-2.5-flash-lite"]
             return pinned + [m for m in found if m not in pinned]
         add("Gemini", gem_list, _gemini_call)
-    if os.getenv("GH_TOKEN"):
-        add("GitHub Models", _github_models, lambda m, p, t: _openai_call(
-            "https://models.github.ai/inference/chat/completions", os.getenv("GH_TOKEN"), m, p, t))
     if os.getenv("GROQ_API_KEY"):
         add("Groq", _groq_models, lambda m, p, t: _openai_call(
             "https://api.groq.com/openai/v1/chat/completions", os.getenv("GROQ_API_KEY"), m, p, t))

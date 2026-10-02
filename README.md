@@ -22,7 +22,7 @@ If you never touch Telegram, it still runs every day on its own. Telegram just l
 |---|---|
 | Scheduler and server | GitHub Actions (cron) |
 | Trends | Google Trends RSS (no key), YouTube Data API (free quota) |
-| Script, safety review, titles, hashtags | Google Gemini (free), with automatic backups: GitHub Models (free, no key), and optional Groq / OpenRouter free tiers |
+| Script, safety review, titles, hashtags | Google Gemini (free), with automatic backups: Groq, Cerebras, Mistral and OpenRouter free tiers |
 | Voice | edge-tts (Microsoft neural voices) |
 | Visuals | Pixabay or Pexels stock video/photos (free license). Optional: FLUX AI images on Cloudflare Workers AI free tier |
 | Editing | FFmpeg |
@@ -50,14 +50,13 @@ Go to https://aistudio.google.com, click **Get API key**, and use it as `GEMINI_
 
 If Gemini is busy, the bot automatically tries other free AI services in this order:
 1. Gemini Flash, then Flash-Lite, then Gemma (same key)
-2. **GitHub Models**: free and built in, no key needed
-3. **Groq** (optional): free key at https://console.groq.com/keys, saved as `GROQ_API_KEY`
-4. **Cerebras** (optional): free key at https://cloud.cerebras.ai, saved as `CEREBRAS_API_KEY`
-5. **Mistral** (optional): free "Experiment" plan key at https://console.mistral.ai/api-keys, saved as `MISTRAL_API_KEY`
-6. **OpenRouter** (optional): free key at https://openrouter.ai/keys, saved as `OPENROUTER_API_KEY` (uses only `:free` models)
+2. **Groq** (optional): free key at https://console.groq.com/keys, saved as `GROQ_API_KEY`
+3. **Cerebras** (optional): free key at https://cloud.cerebras.ai, saved as `CEREBRAS_API_KEY`
+4. **Mistral** (optional): free "Experiment" plan key at https://console.mistral.ai/api-keys, saved as `MISTRAL_API_KEY`
+5. **OpenRouter** (optional): free key at https://openrouter.ai/keys, saved as `OPENROUTER_API_KEY` (uses only `:free` models)
 
 To see which services work, run the workflow with the command `aicheck`. The results arrive in Telegram.
-7. **Cloudflare Workers AI** (optional): uses `CF_ACCOUNT_ID` / `CF_API_TOKEN` if you set them for images
+6. **Cloudflare Workers AI** (optional): uses `CF_ACCOUNT_ID` / `CF_API_TOKEN` if you set them for images
 
 ### 4. YouTube (Google Cloud, free)
 1. Go to https://console.cloud.google.com, create a project, and enable **YouTube Data API v3**.
