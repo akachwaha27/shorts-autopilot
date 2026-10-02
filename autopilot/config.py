@@ -23,7 +23,7 @@ PIXABAY_API_KEY = env("PIXABAY_API_KEY")             # free stock video/photos (
 YT_CLIENT_ID = env("YT_CLIENT_ID")
 YT_CLIENT_SECRET = env("YT_CLIENT_SECRET")
 YT_REFRESH_TOKEN = env("YT_REFRESH_TOKEN")
-YT_PRIVACY = env("YT_PRIVACY", "public")             # private until your API project passes Google's audit
+YT_PRIVACY = env("YT_PRIVACY", "private")            # set Variable YT_PRIVACY=public after Google approves your API audit
 
 IG_USER_ID = env("IG_USER_ID")
 IG_ACCESS_TOKEN = env("IG_ACCESS_TOKEN")             # long-lived token

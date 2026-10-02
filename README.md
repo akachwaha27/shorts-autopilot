@@ -116,7 +116,7 @@ Any platform you leave blank is skipped.
 | `SELECT_TIMEOUT_HOURS` | `3` | How long it waits for your pick |
 | `REQUIRE_APPROVAL` | `true` | Send a preview before publishing |
 | `APPROVE_TIMEOUT_HOURS` | `2` | Auto-publish after this long. `0` means always wait for you |
-| `YT_PRIVACY` | `public` | Set to `private` until the audit passes |
+| `YT_PRIVACY` | `private` | Set to `public` after the audit passes |
 | `TIKTOK_PRIVACY` | `SELF_ONLY` | Change after the TikTok audit |
 
 ### 10. Test it
