@@ -4,8 +4,10 @@ Order (each is skipped if not configured):
   1. Google Gemini      - GEMINI_API_KEY      (Flash -> Flash-Lite -> Gemma)
   2. GitHub Models      - built-in GITHUB_TOKEN in Actions, no extra key
   3. Groq               - GROQ_API_KEY        (optional, free)
-  4. OpenRouter :free   - OPENROUTER_API_KEY  (optional, free)
-  5. Cloudflare AI      - CF_ACCOUNT_ID + CF_API_TOKEN (optional, free)
+  4. Cerebras           - CEREBRAS_API_KEY    (optional, free)
+  5. Mistral            - MISTRAL_API_KEY     (optional, free "Experiment" plan)
+  6. OpenRouter :free   - OPENROUTER_API_KEY  (optional, free; small daily cap, so later in line)
+  7. Cloudflare AI      - CF_ACCOUNT_ID + CF_API_TOKEN (optional, free)
 
 Model names are discovered from each provider's model list at runtime, so
 retired models don't break anything. Every call returns parsed JSON.
@@ -21,7 +23,8 @@ from . import config
 
 GEMINI = "https://generativelanguage.googleapis.com/v1beta"
 SKIP = ("image", "tts", "live", "audio", "embedding", "thinking", "exp", "preview", "8b",
-        "whisper", "guard", "vision", "coder", "embed", "rerank", "distil")
+        "whisper", "guard", "vision", "coder", "embed", "rerank", "distil", "moderation", "ocr",
+        "codestral", "devstral", "transcribe", "voxtral", "pixtral", "saba")
 JSON_HINT = "\n\nRespond with ONLY valid JSON. No markdown, no explanations."
 _plan = None  # list of (provider_name, model, call_fn)
 
@@ -110,6 +113,20 @@ def _groq_models():
     return sorted(ids, key=_size, reverse=True)[:2]
 
 
+def _rank(n):
+    """Bigger / higher-tier models first."""
+    n = n.lower()
+    tier = 300 if "large" in n else 200 if "medium" in n else 100 if "small" in n else 0
+    return _size(n) + tier + (5 if "latest" in n else 0)
+
+
+def _compat_models(base, key_env):
+    r = requests.get(f"{base}/models", timeout=30, headers={"Authorization": f"Bearer {os.getenv(key_env)}"})
+    r.raise_for_status()
+    ids = [m["id"] for m in r.json().get("data", []) if _ok_name(m["id"])]
+    return sorted(ids, key=_rank, reverse=True)[:2]
+
+
 def _openrouter_models():
     r = requests.get("https://openrouter.ai/api/v1/models", timeout=30)
     r.raise_for_status()
@@ -153,6 +170,11 @@ def _build_plan():
     if os.getenv("GROQ_API_KEY"):
         add("Groq", _groq_models, lambda m, p, t: _openai_call(
             "https://api.groq.com/openai/v1/chat/completions", os.getenv("GROQ_API_KEY"), m, p, t))
+    for name, key_env, base in (("Cerebras", "CEREBRAS_API_KEY", "https://api.cerebras.ai/v1"),
+                                ("Mistral", "MISTRAL_API_KEY", "https://api.mistral.ai/v1")):
+        if os.getenv(key_env):
+            add(name, lambda b=base, k=key_env: _compat_models(b, k),
+                lambda m, p, t, b=base, k=key_env: _openai_call(f"{b}/chat/completions", os.getenv(k), m, p, t))
     if os.getenv("OPENROUTER_API_KEY"):
         add("OpenRouter", _openrouter_models, lambda m, p, t: _openai_call(
             "https://openrouter.ai/api/v1/chat/completions", os.getenv("OPENROUTER_API_KEY"), m, p, t,
@@ -165,6 +187,19 @@ def _build_plan():
         raise RuntimeError("No AI provider configured. Add GEMINI_API_KEY (or GROQ_API_KEY / OPENROUTER_API_KEY).")
     print("AI fallback order:", [f"{p}:{m}" for p, m, _ in plan])
     return plan
+
+
+def health_check():
+    """Ping every configured provider/model once. Returns list of (provider, model, ok, detail)."""
+    out = []
+    for provider, model, call in _build_plan():
+        t0 = time.time()
+        try:
+            ans = call(model, 'Return this exact JSON: {"ok": true}', 0)
+            out.append((provider, model, bool(ans.get("ok")), f"{time.time() - t0:.1f}s"))
+        except Exception as e:  # noqa: BLE001
+            out.append((provider, model, False, str(e)[:90]))
+    return out
 
 
 def ask_json(prompt, temperature=0.7, passes=2):

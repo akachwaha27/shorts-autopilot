@@ -52,8 +52,12 @@ If Gemini is busy, the bot automatically tries other free AI services in this or
 1. Gemini Flash, then Flash-Lite, then Gemma (same key)
 2. **GitHub Models**: free and built in, no key needed
 3. **Groq** (optional): free key at https://console.groq.com/keys, saved as `GROQ_API_KEY`
-4. **OpenRouter** (optional): free key at https://openrouter.ai/keys, saved as `OPENROUTER_API_KEY` (uses only `:free` models)
-5. **Cloudflare Workers AI** (optional): uses `CF_ACCOUNT_ID` / `CF_API_TOKEN` if you set them for images
+4. **Cerebras** (optional): free key at https://cloud.cerebras.ai, saved as `CEREBRAS_API_KEY`
+5. **Mistral** (optional): free "Experiment" plan key at https://console.mistral.ai/api-keys, saved as `MISTRAL_API_KEY`
+6. **OpenRouter** (optional): free key at https://openrouter.ai/keys, saved as `OPENROUTER_API_KEY` (uses only `:free` models)
+
+To see which services work, run the workflow with the command `aicheck`. The results arrive in Telegram.
+7. **Cloudflare Workers AI** (optional): uses `CF_ACCOUNT_ID` / `CF_API_TOKEN` if you set them for images
 
 ### 4. YouTube (Google Cloud, free)
 1. Go to https://console.cloud.google.com, create a project, and enable **YouTube Data API v3**.

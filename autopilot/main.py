@@ -12,7 +12,7 @@ import time
 import traceback
 from datetime import timedelta
 
-from . import config, media, publish, state, storage, telegram, trends, writer
+from . import config, llm, media, publish, state, storage, telegram, trends, writer
 
 
 def esc(s):
@@ -266,6 +266,17 @@ def poll_once(st, wait=0):
             v["status"] = "queued"
 
 
+def cmd_aicheck():
+    results = llm.health_check()
+    lines = ["🩺 <b>AI services check</b>"]
+    for provider, model, ok, detail in results:
+        lines.append(f"{'✅' if ok else '❌'} {esc(provider)} · <code>{esc(model)}</code> · {esc(detail)}")
+    working = sum(1 for r in results if r[2])
+    lines.append(f"\n{working} of {len(results)} working. The bot uses the first working one automatically.")
+    print("\n".join(lines))
+    telegram.send("\n".join(lines))
+
+
 def cmd_test():
     topic = {"title": sys.argv[2] if len(sys.argv) > 2 else "Why octopuses have three hearts",
              "angle": "Quick, surprising biology facts"}
@@ -284,6 +295,8 @@ def main():
     try:
         if cmd == "test":
             return cmd_test()
+        if cmd == "aicheck":
+            return cmd_aicheck()
         st = state.load()
         try:
             {"trends": cmd_trends, "poll": cmd_poll}[cmd](st)
