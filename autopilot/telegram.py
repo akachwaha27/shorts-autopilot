@@ -8,12 +8,13 @@ from . import config
 API = "https://api.telegram.org/bot{token}/{method}"
 
 
-def _call(method, files=None, timeout=60, **params):
+def _call(method, files=None, **params):
+    """params go to Telegram as-is (including Telegram's own 'timeout' for getUpdates)."""
     url = API.format(token=config.TELEGRAM_BOT_TOKEN, method=method)
     if files:
         r = requests.post(url, data=params, files=files, timeout=600)
     else:
-        r = requests.post(url, json=params, timeout=timeout)
+        r = requests.post(url, json=params, timeout=60)
     data = r.json()
     if not data.get("ok"):
         raise RuntimeError(f"Telegram {method} failed: {data}")
