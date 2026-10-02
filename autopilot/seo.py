@@ -44,31 +44,55 @@ def autocomplete(q):
         return []
 
 
+def _ai_select(pkg, candidates):
+    """Let the AI keep only accurate tags (no brands, people, other games/shows, unrelated topics)."""
+    from . import llm
+    prompt = f"""You are a YouTube SEO expert. Pick the tags for this Short from REAL YouTube search suggestions.
+Video title: {pkg.get('title')}
+Main keyword: {pkg.get('primary_keyword')}
+Description: {pkg.get('description')}
+
+Candidate search phrases:
+{chr(10).join('- ' + c for c in candidates)}
+
+Choose 15-25 phrases that accurately describe THIS video (a viewer searching it would be happy to find this video).
+Exclude: brand names, real people, other games/shows/movies, misleading or unrelated phrases, "for kids" phrases.
+Order: most specific and most searched first. Return JSON {{"tags": ["..."]}} using phrases exactly as given."""
+    picked = llm.ask_json(prompt, temperature=0.0).get("tags", [])
+    allowed = set(candidates)
+    return [t.lower().strip() for t in picked if t and t.lower().strip() in allowed]
+
+
 def build_tags(pkg, limit_chars=490):
     title = re.sub(r"[^\w\s']", " ", pkg.get("title", ""))
     primary = (pkg.get("primary_keyword") or " ".join(_words(title)[:3])).lower().strip()
     desc = pkg.get("description", "")
     ai_tags = [t.lower().strip() for t in pkg.get("tags", []) if t]
-    context = set(_words(title)) | set(_words(desc)) | set(_words(primary))
+    context = set(_words(title)) | set(_words(desc)) | set(_words(primary)) | {w for t in ai_tags for w in _words(t)}
 
-    seeds = list(dict.fromkeys([primary, " ".join(_words(title)[:4])] + ai_tags[:4]))
+    seeds = list(dict.fromkeys([primary, " ".join(_words(title)[:4])] + ai_tags[:5]))
+    seeds += [f"{primary} {c}" for c in "abcdefghw"]  # widen: "funny cats a...", "funny cats w(hen)..."
     suggested = set()
-    for seed in seeds[:6]:
-        if seed:
+    for seed in seeds:
+        if seed.strip():
             suggested.update(s.lower().strip() for s in autocomplete(seed))
 
-    candidates = dict.fromkeys([primary] + ai_tags + sorted(suggested))
+    # loose pre-filter: must share a real topic word with the video
+    pool = [t for t in dict.fromkeys([primary] + ai_tags + sorted(suggested))
+            if _words(t) and len(t) <= 60 and len(_words(t)) <= 6 and (set(_words(t)) - MODIFIERS) & context]
+    try:
+        chosen = set(_ai_select(pkg, pool[:120])) | {primary} | set(ai_tags)
+    except Exception as e:  # noqa: BLE001
+        print("AI tag selection failed, using strict filter:", str(e)[:100])
+        chosen = {t for t in pool if not ((set(_words(t)) - MODIFIERS) - context)}
+
     title_l, desc_l = title.lower(), desc.lower()
     scored = []
-    for tag in candidates:
+    for tag in pool:
+        if tag not in chosen:
+            continue
         tw = _words(tag)
-        if not tw or len(tag) > 60 or len(tw) > 6:
-            continue
-        core = set(tw) - MODIFIERS
-        overlap = len(core & context)
-        # relevant only if it shares a real topic word AND has no unrelated topic words (names, brands, games...)
-        if overlap == 0 or core - context:
-            continue
+        overlap = len(set(tw) & context)
         score = overlap * 2
         score += 4 if tag in title_l else 0
         score += 2 if tag in desc_l else 0
@@ -89,5 +113,5 @@ def build_tags(pkg, limit_chars=490):
         out.append(tag)
         seen.add(key)
         total += cost
-    print(f"SEO tags ({total} chars): {out}")
+    print(f"SEO tags ({total} chars, {len(suggested)} suggestions seen): {out}")
     return out or ai_tags
