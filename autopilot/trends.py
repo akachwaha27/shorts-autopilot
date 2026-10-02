@@ -98,10 +98,16 @@ Hard rules - reject any topic that:
 Prefer evergreen-angle, curiosity-driven, family-friendly topics (science, tech, nature, food, travel, sports facts, how-tos).
 Turn a trend into a SAFE ANGLE, e.g. a trending game launch -> "5 facts about how game worlds are built".
 
+Formats: make exactly {config.RANKINGS_PER_DAY} of the topics "ranking" videos (a "Top 5" countdown with a clear,
+checkable measure, e.g. "Top 5 fastest animals on Earth"); the rest are "explainer" videos.
+
 Return JSON: {{"topics": [{{"title": "short catchy topic", "angle": "one sentence on the video idea",
-"trend_source": "which signal inspired it", "virality_score": 1-10, "why": "why it can go viral"}}]}}
+"format": "explainer" or "ranking", "trend_source": "which signal inspired it", "virality_score": 1-10,
+"why": "why it can go viral"}}]}}
 Sort by virality_score descending."""
     data = llm.ask_json(prompt, temperature=0.8)
     topics = data.get("topics", [])
     # second line of defence
+    for t in topics:
+        t["format"] = "ranking" if str(t.get("format", "")).lower().startswith("rank") else "explainer"
     return [t for t in topics if not BLOCKLIST.search(t["title"] + " " + t["angle"])][: config.TOPICS_PER_DAY]

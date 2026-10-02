@@ -48,6 +48,8 @@ jobs:
       REGION: ${{ vars.REGION }}
       LANGUAGE: ${{ vars.LANGUAGE }}
       VOICE: ${{ vars.VOICE }}
+      VOICES: ${{ vars.VOICES }}
+      RANKINGS_PER_DAY: ${{ vars.RANKINGS_PER_DAY }}
       VISUALS: ${{ vars.VISUALS }}
       GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
       MAX_VIDEOS_PER_DAY: ${{ vars.MAX_VIDEOS_PER_DAY }}

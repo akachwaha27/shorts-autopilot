@@ -23,8 +23,8 @@ If you never touch Telegram, it still runs every day on its own. Telegram just l
 | Scheduler and server | GitHub Actions (cron) |
 | Trends | Google Trends RSS (no key), YouTube Data API (free quota) |
 | Script, safety review, titles, hashtags | Google Gemini (free), with automatic backups: Groq, Cerebras, Mistral and OpenRouter free tiers |
-| Voice | edge-tts (Microsoft neural voices) |
-| Visuals | Pixabay or Pexels stock video/photos (free license). Optional: FLUX AI images on Cloudflare Workers AI free tier |
+| Voice | edge-tts: rotates through ~14 US/UK/AU/CA/IE neural voices so each video sounds different; Google gTTS as backup |
+| Visuals | Pixabay / Pexels (keys), NASA (no key, public domain, space and science scenes), Wikimedia Commons (no key, CC0/PD/CC BY only), optional Cloudflare AI images, animated gradient fallback. Source order is shuffled per video |
 | Editing | FFmpeg |
 | Storage | GitHub Releases on your repo |
 | Publishing | Official YouTube, Instagram Graph and TikTok Content Posting APIs |
@@ -119,8 +119,10 @@ Any platform you leave blank is skipped.
 | `NICHE` | general science/tech/nature/food/travel | What kinds of topics to prefer |
 | `REGION` | `US` | Trend country |
 | `LANGUAGE` | `en` | Language of the video |
-| `VOICE` | `en-US-AndrewMultilingualNeural` | Any edge-tts voice |
-| `VISUALS` | `pexels` | `pexels`, `ai` or `mixed` |
+| `VOICES` | built-in rotation | Comma-separated edge-tts voices to rotate through |
+| `VOICE` | `en-US-AndrewMultilingualNeural` | Fallback voice |
+| `RANKINGS_PER_DAY` | `2` | How many daily ideas are Top 5 countdowns |
+| `VISUALS` | `stock` | `stock`, `ai` or `mixed` |
 | `MAX_VIDEOS_PER_DAY` | `3` | Hard daily cap |
 | `AUTO_PICK_COUNT` | `2` | How many topics it picks if you don't reply |
 | `SELECT_TIMEOUT_HOURS` | `3` | How long it waits for your pick |
@@ -133,6 +135,12 @@ Any platform you leave blank is skipped.
 1. Go to **Actions → autopilot → Run workflow** and enter the command `test`. It renders one sample video and sends it to your Telegram without posting anywhere.
 2. Then run it with `trends` to get today's topic list right away.
 3. Change the time of the daily scan in the workflow file. The default is 11:53 UTC, which is 7:53 AM New York time during daylight saving time.
+
+## Video formats
+- **Explainer:** hook, facts, call to action.
+- **🏆 Top 5 countdown:** intro, then #5 down to #1 with a big gold rank badge and item name on screen, then an outro.
+
+By default 2 of the 5 daily ideas are countdowns (Variable `RANKINGS_PER_DAY`). Reply `3r` to turn topic 3 into a countdown, or `3e` to make it a normal explainer.
 
 ## Telegram commands
 - Tap 🎬 buttons, or reply `1,3`, to pick topics.

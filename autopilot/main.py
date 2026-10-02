@@ -38,11 +38,14 @@ def cmd_trends(st):
     st["batches"][bid] = {"topics": topics, "sent_at": state.iso(), "selected": [], "status": "waiting"}
     lines = [f"🔥 <b>Today's {len(topics)} trending video ideas</b> ({config.REGION})\n"]
     for i, t in enumerate(topics, 1):
-        lines.append(f"<b>{i}. {esc(t['title'])}</b>  ⭐{t.get('virality_score', '?')}/10\n"
+        badge = "🏆 " if t.get("format") == "ranking" else ""
+        lines.append(f"<b>{i}. {badge}{esc(t['title'])}</b>  ⭐{t.get('virality_score', '?')}/10\n"
                      f"   {esc(t['angle'])}\n   <i>Trend: {esc(t.get('trend_source', ''))}</i>\n")
     auto = (f"If you don't reply within {config.SELECT_TIMEOUT_HOURS:g}h I'll make the top "
             f"{config.AUTO_PICK_COUNT} automatically.")
-    lines.append(f"Tap topics below or reply like <code>1,3</code>. {auto}")
+    lines.append(f"Tap topics below or reply like <code>1,3</code>. 🏆 = Top 5 countdown. "
+                 f"Add <b>r</b> to make any topic a countdown (<code>2r</code>) or <b>e</b> for a normal "
+                 f"explainer (<code>4e</code>). {auto}")
     buttons = [[(f"🎬 {i}", f"pick:{bid}:{i - 1}") for i in range(1, len(topics) + 1)],
                [("⏭ Skip today", f"skip:{bid}")]]
     telegram.send("\n".join(lines), buttons)
@@ -53,7 +56,7 @@ def videos_today(st):
     return sum(1 for k in st["videos"] if k.startswith(today()))
 
 
-def queue_topic(st, bid, idx, by="you"):
+def queue_topic(st, bid, idx, by="you", fmt=None):
     batch = st["batches"].get(bid)
     if not batch or idx < 0 or idx >= len(batch["topics"]) or idx in batch["selected"]:
         return False
@@ -62,8 +65,12 @@ def queue_topic(st, bid, idx, by="you"):
         return False
     batch["selected"].append(idx)
     vid = f"{bid}-{idx + 1}"
-    st["videos"][vid] = {"topic": batch["topics"][idx], "status": "queued", "by": by, "updated": state.iso()}
-    telegram.send(f"✅ Queued #{idx + 1}: <b>{esc(batch['topics'][idx]['title'])}</b>. I'll send a preview when it's ready.")
+    topic = dict(batch["topics"][idx])
+    if fmt:
+        topic["format"] = fmt
+    st["videos"][vid] = {"topic": topic, "status": "queued", "by": by, "updated": state.iso()}
+    kind = "🏆 Top 5 countdown" if topic.get("format") == "ranking" else "explainer"
+    telegram.send(f"✅ Queued #{idx + 1} ({kind}): <b>{esc(topic['title'])}</b>. I'll send a preview when it's ready.")
     return True
 
 
@@ -105,13 +112,13 @@ def handle_updates(st, wait=0):
                 cmd_trends(st)
             elif re.match(r"^/?(publish|approve|post|yes|ok|reject|no|skip)\b", text):
                 decide_by_text(st, text, msg)
-            elif re.fullmatch(r"[\d,\s]+", text):
+            elif re.fullmatch(r"[\d,\sre]+", text) and re.search(r"\d", text):
                 bid = latest_waiting(st)
                 if not bid:
                     telegram.send("No open topic list right now. Send /now to fetch fresh trends.")
-                for n in re.findall(r"\d+", text):
+                for n, f in re.findall(r"(\d+)\s*([re]?)", text):
                     if bid:
-                        queue_topic(st, bid, int(n) - 1)
+                        queue_topic(st, bid, int(n) - 1, fmt={"r": "ranking", "e": "explainer"}.get(f))
             else:
                 telegram.send("Reply with topic numbers like <code>1,3</code>, <b>publish</b> / <b>reject</b> "
                               "for a preview, /status, or /now.")
@@ -171,7 +178,8 @@ def generate(st, vid):
         v["status"] = "failed"
         telegram.send(f"🛑 Dropped <b>{esc(v['topic']['title'])}</b>: safety review flagged {esc('; '.join(issues))}")
         return
-    path, credits = media.make_video(pkg, out)
+    path, credits = media.make_video(pkg, out, st.get("recent_voices", []))
+    st["recent_voices"] = (st.get("recent_voices", []) + [pkg.get("voice")])[-5:]
     pkg["full_description"] = writer.build_description(pkg, credits)
     v["package"] = pkg
     v["file"] = storage.store(path, f"videos-{vid[:10]}", f"{vid}.mp4")
@@ -278,8 +286,10 @@ def cmd_aicheck():
 
 
 def cmd_test():
-    topic = {"title": sys.argv[2] if len(sys.argv) > 2 else "Why octopuses have three hearts",
-             "angle": "Quick, surprising biology facts"}
+    fmt = os.getenv("TEST_FORMAT", "ranking")
+    topic = {"title": sys.argv[2] if len(sys.argv) > 2 else
+             ("Top 5 fastest animals on Earth" if fmt == "ranking" else "Why octopuses have three hearts"),
+             "angle": "Quick, surprising, accurate animal facts", "format": fmt}
     pkg = writer.write_package(topic)
     print("Review:", writer.review(pkg))
     path, credits = media.make_video(pkg, os.path.join(config.WORK_DIR, "test"))

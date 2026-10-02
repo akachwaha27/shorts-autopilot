@@ -45,9 +45,11 @@ NICHE = env("NICHE", "general interest: science, tech, nature, food, travel, spo
 REGION = env("REGION", "US")
 LANGUAGE = env("LANGUAGE", "en")
 GEMINI_MODEL = env("GEMINI_MODEL")                      # blank = auto-pick newest free Flash model
-VOICE = env("VOICE", "en-US-AndrewMultilingualNeural")
-VISUALS = env("VISUALS", "pexels")                   # pexels | ai (Cloudflare) | mixed
+VOICE = env("VOICE", "en-US-AndrewMultilingualNeural")  # fallback voice
+VOICES = env("VOICES")                               # optional comma-separated pool; blank = built-in rotation
+VISUALS = env("VISUALS", "stock")                    # stock | ai (Cloudflare) | mixed
 TOPICS_PER_DAY = env("TOPICS_PER_DAY", 5, int)
+RANKINGS_PER_DAY = env("RANKINGS_PER_DAY", 2, int)     # how many of the daily ideas are "Top 5" countdowns
 MAX_VIDEOS_PER_DAY = env("MAX_VIDEOS_PER_DAY", 3, int)
 AUTO_PICK_COUNT = env("AUTO_PICK_COUNT", 2, int)     # used if you don't reply
 SELECT_TIMEOUT_HOURS = env("SELECT_TIMEOUT_HOURS", 3, float)
