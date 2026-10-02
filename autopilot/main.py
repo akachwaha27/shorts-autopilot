@@ -24,6 +24,10 @@ def today():
 
 # ---------------------------------------------------------------- trends
 def cmd_trends(st):
+    tries = st.setdefault("trend_tries", {})
+    tries[today()] = {"n": tries.get(today(), {}).get("n", 0) + 1, "at": state.iso()}
+    for d in sorted(tries)[:-3]:
+        tries.pop(d)
     signals = trends.collect()
     topics = trends.pick_topics(signals, st.get("history", []))
     if not topics:
@@ -198,8 +202,26 @@ def do_publish(st, vid):
     telegram.send("\n".join(lines))
 
 
+def catch_up_trends(st):
+    """If today's topic list never arrived (e.g. Gemini was overloaded), retry later in the day."""
+    if today() in st["batches"] or state.now().hour < 12:  # daily scan runs ~11:53 UTC
+        return
+    t = st.get("trend_tries", {}).get(today())
+    if t and (t["n"] >= 3 or state.now() - state.parse(t["at"]) < timedelta(hours=1)):
+        return
+    print("Today's topic list is missing; retrying trends")
+    try:
+        cmd_trends(st)
+    except Exception as e:  # noqa: BLE001
+        traceback.print_exc()
+        n = st.get("trend_tries", {}).get(today(), {}).get("n", 1)
+        more = "I'll try again in about an hour." if n < 3 else "I'll try again tomorrow, or send /now."
+        telegram.send(f"⚠️ Couldn't build today's topic list yet ({esc(str(e)[:150])}). {more}")
+
+
 def cmd_poll(st):
     handle_updates(st)
+    catch_up_trends(st)
     auto_select(st)
     state.save(st)  # save choices before long work
     for vid, v in sorted(st["videos"].items()):
