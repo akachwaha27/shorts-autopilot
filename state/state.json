@@ -1,5 +1,5 @@
 {
-  "tg_offset": 40455495,
+  "tg_offset": 40455499,
   "batches": {
     "2026-10-02": {
       "topics": [
@@ -40,12 +40,201 @@
         }
       ],
       "sent_at": "2026-10-02T13:31:55.767975+00:00",
-      "selected": [],
+      "selected": [
+        0,
+        1
+      ],
       "status": "waiting"
     }
   },
-  "videos": {},
-  "history": [],
+  "videos": {
+    "2026-10-02-1": {
+      "topic": {
+        "title": "The Insane Sound Tech Inside the Vegas Sphere",
+        "angle": "Explaining how 167,000 hidden speakers use beamforming acoustics to deliver completely different audio tracks to adjacent seats.",
+        "trend_source": "metallica sphere",
+        "virality_score": 9.0,
+        "why": "The Sphere continues to draw massive visual fascination, and the counterintuitive physics of directed soundwaves sparks immediate wonder and high re-watch rates."
+      },
+      "status": "published",
+      "by": "you",
+      "updated": "2026-10-02T13:43:56.070470+00:00",
+      "package": {
+        "title": "How the Vegas Sphere sends different audio to every seat",
+        "description": "Discover the hidden acoustic technology inside the Vegas Sphere. Learn how 167,000 speakers use beamforming to deliver unique audio tracks to adjacent seats.",
+        "hashtags": [
+          "#shorts",
+          "#sounddesign",
+          "#audio",
+          "#technology"
+        ],
+        "scenes": [
+          {
+            "text": "Did you know you can sit next to someone in the Vegas Sphere and hear a completely different language?",
+            "stock_query": "concert arena lights",
+            "image_prompt": "Vertical 9:16 image of a massive glowing futuristic concert venue interior, vibrant neon lighting, no text, no people."
+          },
+          {
+            "text": "It sounds impossible, but it is all thanks to a hidden wall of one hundred sixty-seven thousand speakers.",
+            "stock_query": "speaker array wall",
+            "image_prompt": "Vertical 9:16 image of a massive wall covered in acoustic speaker panels, high-tech engineering, no text."
+          },
+          {
+            "text": "Behind the venue's massive LED screen, these speakers are arranged in a massive curved array.",
+            "stock_query": "led screen grid",
+            "image_prompt": "Vertical 9:16 image of high-resolution LED display panels glowing from behind a translucent mesh, no text."
+          },
+          {
+            "text": "They use advanced audio technology called beamforming to direct sound waves with pinpoint accuracy.",
+            "stock_query": "sound waves graphic",
+            "image_prompt": "Vertical 9:16 image of glowing blue sound wave lines propagating through space, abstract tech, no text."
+          },
+          {
+            "text": "Instead of bouncing around the room like a normal arena, the sound goes straight to your specific seat.",
+            "stock_query": "empty stadium seats",
+            "image_prompt": "Vertical 9:16 image of modern tiered auditorium seating in soft moody lighting, no text, no people."
+          },
+          {
+            "text": "This means multiple audio tracks can play simultaneously across the room without mixing together.",
+            "stock_query": "audio mixing console",
+            "image_prompt": "Vertical 9:16 image of a futuristic digital sound mixing board with glowing faders and dials, no text."
+          },
+          {
+            "text": "Follow for more amazing engineering facts.",
+            "stock_query": "futuristic portal",
+            "image_prompt": "Vertical 9:16 image of a glowing abstract geometric tunnel, minimalist tech aesthetic, no text."
+          }
+        ],
+        "key_facts": [
+          "The Vegas Sphere contains 167,000 speakers hidden behind its LED screen.",
+          "The venue uses beamforming acoustics to direct sound to specific locations.",
+          "Different audio tracks can be delivered to adjacent seats without mixing."
+        ],
+        "script": "Did you know you can sit next to someone in the Vegas Sphere and hear a completely different language? It sounds impossible, but it is all thanks to a hidden wall of one hundred sixty-seven thousand speakers. Behind the venue's massive LED screen, these speakers are arranged in a massive curved array. They use advanced audio technology called beamforming to direct sound waves with pinpoint accuracy. Instead of bouncing around the room like a normal arena, the sound goes straight to your specific seat. This means multiple audio tracks can play simultaneously across the room without mixing together. Follow for more amazing engineering facts.",
+        "full_description": "Discover the hidden acoustic technology inside the Vegas Sphere. Learn how 167,000 speakers use beamforming to deliver unique audio tracks to adjacent seats.\n\n#shorts #sounddesign #audio #technology\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance and reviewed for accuracy.\nVoiceover: AI-generated voice (Microsoft Edge neural text-to-speech).\nThis video contains AI-generated or AI-assisted content.\nStock footage/photos (Pexels/Pixabay Content License): Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-1275/; tommyvideo (Pixabay) https://pixabay.com/videos/id-5466/; livewallpaperdownload (Pixabay) https://pixabay.com/videos/id-356364/; blackmarketmusic (Pixabay) https://pixabay.com/videos/id-131058/; Pixabay (Pixabay) https://pixabay.com/videos/id-2709/; thekreativecompany (Pixabay) https://pixabay.com/videos/id-28525/; TheDigitalArtist (Pixabay) https://pixabay.com/videos/id-3269/\nTopic inspired by trending public interest; no third-party video footage or music was reused."
+      },
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-02",
+        "name": "2026-10-02-1.mp4"
+      },
+      "tg_msg": 20,
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/OTlr3fVeR48",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      }
+    },
+    "2026-10-02-2": {
+      "topic": {
+        "title": "The Reaction Time Paradox in Elite Tennis",
+        "angle": "Unpacking the neuroscience of how pro tennis returners react to 130 mph serves before their conscious brain actually sees the ball bounce.",
+        "trend_source": "novak djokovic",
+        "virality_score": 8.8,
+        "why": "Sports science explainers that break down human reaction limits vs. predictive brain processing tap directly into mainstream athletic curiosity."
+      },
+      "status": "published",
+      "by": "you",
+      "updated": "2026-10-02T13:44:01.900085+00:00",
+      "package": {
+        "title": "How tennis pros return 130 mph serves before seeing them",
+        "description": "Discover the fascinating neuroscience behind how elite tennis players return blistering 130 mph serves before their conscious brain even registers the bounce. Unpack the limits of human reaction time and anticipation.",
+        "hashtags": [
+          "#shorts",
+          "#tennis",
+          "#neuroscience",
+          "#sports"
+        ],
+        "scenes": [
+          {
+            "text": "How can a tennis pro return a one hundred thirty mile per hour serve when it takes the human brain longer than that just to blink?",
+            "stock_query": "tennis serve motion",
+            "image_prompt": "Vertical 9:16 image of a blurred tennis racket striking a tennis ball at high speed, dramatic stadium lighting, no text."
+          },
+          {
+            "text": "It sounds impossible because conscious visual processing is actually too slow for modern sports.",
+            "stock_query": "brain neuroscience glow",
+            "image_prompt": "Vertical 9:16 abstract digital art of human brain pathways firing with electrical signals, dark background, no text."
+          },
+          {
+            "text": "When a ball travels at that speed, it covers the distance across the net in under four hundred milliseconds.",
+            "stock_query": "tennis ball flight",
+            "image_prompt": "Vertical 9:16 motion blur of a tennis ball flying fast across a dark indoor court, no text."
+          },
+          {
+            "text": "Meanwhile, visual information takes about two hundred milliseconds just to reach your conscious awareness.",
+            "stock_query": "human eye close up",
+            "image_prompt": "Vertical 9:16 macro shot of a human eye reflecting a glowing tennis court, highly detailed, no text."
+          },
+          {
+            "text": "If players waited to actually see the ball bounce, they would still be swinging after it already hit the back fence.",
+            "stock_query": "tennis player missing",
+            "image_prompt": "Vertical 9:16 view of an empty tennis court with a ball hitting the back wall, dramatic lighting, no text."
+          },
+          {
+            "text": "Instead, elite returners bypass conscious thought entirely by relying on anticipatory non-conscious motion cues.",
+            "stock_query": "athlete focused eyes",
+            "image_prompt": "Vertical 9:16 close-up of a focused athlete's profile in athletic gear, intense concentration, no text."
+          },
+          {
+            "text": "They read the server tossing the ball, shoulder rotation, and racket angle long before contact is ever made.",
+            "stock_query": "tennis player posture",
+            "image_prompt": "Vertical 9:16 silhouette of a tennis player mid-serve against a sunset sky, elegant form, no text."
+          },
+          {
+            "text": "Their nervous system automates the response, proving that true athletic mastery happens before thinking even begins.",
+            "stock_query": "fast motion blur",
+            "image_prompt": "Vertical 9:16 abstract representation of speed and fluid muscle movement in blue and gold tones, no text."
+          },
+          {
+            "text": "Follow for more science behind elite athletic performance.",
+            "stock_query": "tap follow button",
+            "image_prompt": "Vertical 9:16 minimalist graphic design with a subtle follow icon on a clean background, no text."
+          }
+        ],
+        "key_facts": [
+          "A 130 mph serve crosses the tennis net in under 400 milliseconds.",
+          "Conscious visual processing in humans takes approximately 200 milliseconds.",
+          "Elite athletes use predictive cues like opponent body movement and racket angle to anticipate actions faster than conscious reaction allows."
+        ],
+        "script": "How can a tennis pro return a one hundred thirty mile per hour serve when it takes the human brain longer than that just to blink? It sounds impossible because conscious visual processing is actually too slow for modern sports. When a ball travels at that speed, it covers the distance across the net in under four hundred milliseconds. Meanwhile, visual information takes about two hundred milliseconds just to reach your conscious awareness. If players waited to actually see the ball bounce, they would still be swinging after it already hit the back fence. Instead, elite returners bypass conscious thought entirely by relying on anticipatory non-conscious motion cues. They read the server tossing the ball, shoulder rotation, and racket angle long before contact is ever made. Their nervous system automates the response, proving that true athletic mastery happens before thinking even begins. Follow for more science behind elite athletic performance.",
+        "full_description": "Discover the fascinating neuroscience behind how elite tennis players return blistering 130 mph serves before their conscious brain even registers the bounce. Unpack the limits of human reaction time and anticipation.\n\n#shorts #tennis #neuroscience #sports\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance and reviewed for accuracy.\nVoiceover: AI-generated voice (Microsoft Edge neural text-to-speech).\nThis video contains AI-generated or AI-assisted content.\nStock footage/photos (Pexels/Pixabay Content License): julientromeur (Pixabay) https://pixabay.com/videos/id-259142/; WhiteHatDesigner (Pixabay) https://pixabay.com/videos/id-330028/; tommyvideo (Pixabay) https://pixabay.com/videos/id-5602/; MoonpetalMedia (Pixabay) https://pixabay.com/videos/id-345717/; Coverr-Free-Footage (Pixabay) https://pixabay.com/videos/id-1651/; xat-ch (Pixabay) https://pixabay.com/videos/id-50109/; tommyvideo (Pixabay) https://pixabay.com/videos/id-5614/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-324706/; AsifJaved533 (Pixabay) https://pixabay.com/videos/id-122526/\nTopic inspired by trending public interest; no third-party video footage or music was reused."
+      },
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-02",
+        "name": "2026-10-02-2.mp4"
+      },
+      "tg_msg": 22,
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/qFS42mJp0gQ",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      }
+    }
+  },
+  "history": [
+    "The Insane Sound Tech Inside the Vegas Sphere",
+    "The Reaction Time Paradox in Elite Tennis"
+  ],
   "trend_tries": {
     "2026-10-02": {
       "n": 2,
