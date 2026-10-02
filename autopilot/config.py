@@ -54,6 +54,7 @@ SELECT_TIMEOUT_HOURS = env("SELECT_TIMEOUT_HOURS", 3, float)
 REQUIRE_APPROVAL = env("REQUIRE_APPROVAL", True, bool)
 APPROVE_TIMEOUT_HOURS = env("APPROVE_TIMEOUT_HOURS", 2, float)  # auto-publish if you stay silent
 TARGET_SECONDS = env("TARGET_SECONDS", 45, int)
+POLL_MINUTES = env("POLL_MINUTES", 12, float)        # how long each run stays online answering Telegram
 
 WIDTH, HEIGHT, FPS = 1080, 1920, 30
 STATE_FILE = env("STATE_FILE", "state/state.json")

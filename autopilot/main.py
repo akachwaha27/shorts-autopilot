@@ -8,6 +8,7 @@ import html
 import os
 import re
 import sys
+import time
 import traceback
 from datetime import timedelta
 
@@ -71,8 +72,8 @@ def latest_waiting(st):
     return max(waiting) if waiting else None
 
 
-def handle_updates(st):
-    ups = telegram.updates(st.get("tg_offset", 0))
+def handle_updates(st, wait=0):
+    ups = telegram.updates(st.get("tg_offset", 0), wait)
     for u in ups:
         st["tg_offset"] = u["update_id"] + 1
         cb = u.get("callback_query")
@@ -220,7 +221,20 @@ def catch_up_trends(st):
 
 
 def cmd_poll(st):
-    handle_updates(st)
+    """Stay online for POLL_MINUTES so Telegram replies are handled within seconds,
+    instead of depending on GitHub's (unreliable) schedule for every reply."""
+    deadline = time.time() + config.POLL_MINUTES * 60
+    first = True
+    while True:
+        poll_once(st, wait=0 if first else 25)
+        state.save(st)
+        first = False
+        if time.time() >= deadline:
+            break
+
+
+def poll_once(st, wait=0):
+    handle_updates(st, wait)
     catch_up_trends(st)
     auto_select(st)
     state.save(st)  # save choices before long work

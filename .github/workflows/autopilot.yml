@@ -3,7 +3,7 @@ name: autopilot
 on:
   schedule:
     - cron: "53 11 * * *"     # daily trend scan: 11:53 UTC = 7:53 AM New York (EDT). Change to suit you.
-    - cron: "*/20 * * * *"    # every 20 min: read Telegram, generate, publish
+    - cron: "4,24,44 * * * *" # ~every 20 min (off-peak minutes): stays online ~12 min answering Telegram
   workflow_dispatch:
     inputs:
       command:
@@ -56,6 +56,7 @@ jobs:
       APPROVE_TIMEOUT_HOURS: ${{ vars.APPROVE_TIMEOUT_HOURS }}
       YT_PRIVACY: ${{ vars.YT_PRIVACY }}
       TIKTOK_PRIVACY: ${{ vars.TIKTOK_PRIVACY }}
+      POLL_MINUTES: ${{ vars.POLL_MINUTES }}
     steps:
       - uses: actions/checkout@v4
 
