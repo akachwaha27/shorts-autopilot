@@ -22,7 +22,7 @@ If you never touch Telegram, it still runs every day on its own. Telegram just l
 |---|---|
 | Scheduler and server | GitHub Actions (cron) |
 | Trends | Google Trends RSS (no key), YouTube Data API (free quota) |
-| Script, safety review, titles, hashtags | Google Gemini API, free tier |
+| Script, safety review, titles, hashtags | Google Gemini (free), with automatic backups: GitHub Models (free, no key), and optional Groq / OpenRouter free tiers |
 | Voice | edge-tts (Microsoft neural voices) |
 | Visuals | Pixabay or Pexels stock video/photos (free license). Optional: FLUX AI images on Cloudflare Workers AI free tier |
 | Editing | FFmpeg |
@@ -45,8 +45,15 @@ Public repos get unlimited free Actions minutes. A private repo has about 2,000 
 2. Send your new bot any message.
 3. Open `https://api.telegram.org/bot<TOKEN>/getUpdates` in a browser. The number at `"chat":{"id":...}` is `TELEGRAM_CHAT_ID`.
 
-### 3. Gemini
+### 3. AI (Gemini + free backups)
 Go to https://aistudio.google.com, click **Get API key**, and use it as `GEMINI_API_KEY`.
+
+If Gemini is busy, the bot automatically tries other free AI services in this order:
+1. Gemini Flash, then Flash-Lite, then Gemma (same key)
+2. **GitHub Models**: free and built in, no key needed
+3. **Groq** (optional): free key at https://console.groq.com/keys, saved as `GROQ_API_KEY`
+4. **OpenRouter** (optional): free key at https://openrouter.ai/keys, saved as `OPENROUTER_API_KEY` (uses only `:free` models)
+5. **Cloudflare Workers AI** (optional): uses `CF_ACCOUNT_ID` / `CF_API_TOKEN` if you set them for images
 
 ### 4. YouTube (Google Cloud, free)
 1. Go to https://console.cloud.google.com, create a project, and enable **YouTube Data API v3**.

@@ -1,11 +1,17 @@
-"""Gemini (free tier) helper that always returns parsed JSON.
+"""Free AI text generation with automatic fallback across providers.
 
-Resilience:
-- If the configured model 404s (retired/renamed), discover current models.
-- If a model is overloaded (503/500) or rate-limited (429), wait and retry,
-  then fall back to the next available model (newer Flash first, then Lite).
+Order (each is skipped if not configured):
+  1. Google Gemini      - GEMINI_API_KEY      (Flash -> Flash-Lite -> Gemma)
+  2. GitHub Models      - built-in GITHUB_TOKEN in Actions, no extra key
+  3. Groq               - GROQ_API_KEY        (optional, free)
+  4. OpenRouter :free   - OPENROUTER_API_KEY  (optional, free)
+  5. Cloudflare AI      - CF_ACCOUNT_ID + CF_API_TOKEN (optional, free)
+
+Model names are discovered from each provider's model list at runtime, so
+retired models don't break anything. Every call returns parsed JSON.
 """
 import json
+import os
 import re
 import time
 
@@ -13,84 +19,173 @@ import requests
 
 from . import config
 
-BASE = "https://generativelanguage.googleapis.com/v1beta"
-SKIP = ("image", "tts", "live", "audio", "embedding", "thinking", "exp", "preview", "8b")
-_candidates = None  # ordered list of models to try
-_idx = 0
+GEMINI = "https://generativelanguage.googleapis.com/v1beta"
+SKIP = ("image", "tts", "live", "audio", "embedding", "thinking", "exp", "preview", "8b",
+        "whisper", "guard", "vision", "coder", "embed", "rerank", "distil")
+JSON_HINT = "\n\nRespond with ONLY valid JSON. No markdown, no explanations."
+_plan = None  # list of (provider_name, model, call_fn)
 
 
+# ---------------- helpers ----------------
 def _version(name):
     nums = re.findall(r"\d+(?:\.\d+)?", name)
     return float(nums[0]) if nums else 0.0
 
 
-def list_models():
-    r = requests.get(f"{BASE}/models", params={"key": config.GEMINI_API_KEY, "pageSize": 200}, timeout=30)
-    r.raise_for_status()
-    names = [m["name"].split("/", 1)[1] for m in r.json().get("models", [])
-             if "generateContent" in m.get("supportedGenerationMethods", [])]
-    usable = [n for n in names if not any(s in n for s in SKIP)]
-    flash = [n for n in usable if n.startswith("gemini") and "flash" in n and "lite" not in n]
-    lite = [n for n in usable if n.startswith("gemini") and "flash" in n and "lite" in n]
-    gemma = [n for n in usable if n.startswith("gemma") and "it" in n.split("-")]  # instruction-tuned open models
-    order = lambda xs: sorted(xs, key=lambda n: (_version(n), -len(n)), reverse=True)  # noqa: E731
-    # newest 3 Flash, newest 2 Lite, biggest Gemma: different capacity pools, so one is usually free
-    gemma = sorted(gemma, key=lambda n: (_version(n), max([int(x[:-1]) for x in re.findall(r"\d+b", n)] or [0])), reverse=True)
-    models = order(flash)[:3] + order(lite)[:2] + gemma[:1]
-    if not models:
-        raise RuntimeError(f"No usable Gemini model found. Available: {names[:20]}")
-    return models
-
-
-def _models():
-    global _candidates
-    if _candidates is None:
-        try:
-            found = list_models()
-        except Exception as e:  # noqa: BLE001
-            print("Model listing failed, using defaults:", e)
-            found = ["gemini-2.5-flash", "gemini-2.5-flash-lite"]
-        pinned = [config.GEMINI_MODEL] if config.GEMINI_MODEL else []
-        _candidates = pinned + [m for m in found if m not in pinned]
-        print("Gemini model order:", _candidates[:4])
-    return _candidates
+def _size(name):
+    sizes = [float(x) for x in re.findall(r"(\d+(?:\.\d+)?)b\b", name.lower())]
+    return max(sizes or [0])
 
 
 def _parse(text):
-    text = re.sub(r"^```(?:json)?|```$", "", text.strip()).strip()
+    text = re.sub(r"<think>.*?</think>", "", text or "", flags=re.S).strip()  # reasoning models
+    text = re.sub(r"^```(?:json)?|```$", "", text).strip()
     try:
         return json.loads(text)
     except json.JSONDecodeError:
-        m = re.search(r"\{.*\}", text, re.S)  # models without JSON mode may add chatter
+        m = re.search(r"\{.*\}", text, re.S)
         if m:
             return json.loads(m.group(0))
         raise
 
 
+def _ok_name(n):
+    return not any(s in n.lower() for s in SKIP)
+
+
+# ---------------- providers ----------------
+def _gemini_models():
+    r = requests.get(f"{GEMINI}/models", params={"key": config.GEMINI_API_KEY, "pageSize": 200}, timeout=30)
+    r.raise_for_status()
+    names = [m["name"].split("/", 1)[1] for m in r.json().get("models", [])
+             if "generateContent" in m.get("supportedGenerationMethods", []) and _ok_name(m["name"])]
+    order = lambda xs: sorted(xs, key=lambda n: (_version(n), -len(n)), reverse=True)  # noqa: E731
+    flash = order([n for n in names if n.startswith("gemini") and "flash" in n and "lite" not in n])[:3]
+    lite = order([n for n in names if n.startswith("gemini") and "flash" in n and "lite" in n])[:2]
+    gemma = sorted([n for n in names if n.startswith("gemma") and "it" in n.split("-")],
+                   key=lambda n: (_version(n), _size(n)), reverse=True)[:1]
+    return flash + lite + gemma
+
+
+def _gemini_call(model, prompt, temperature):
+    gen = {"temperature": temperature}
+    if model.startswith("gemini"):
+        gen["responseMimeType"] = "application/json"
+    r = requests.post(f"{GEMINI}/models/{model}:generateContent", params={"key": config.GEMINI_API_KEY},
+                      json={"contents": [{"role": "user", "parts": [{"text": prompt}]}], "generationConfig": gen},
+                      timeout=180)
+    if r.status_code >= 400:
+        raise RuntimeError(f"HTTP {r.status_code}: {r.text[:160]}")
+    return _parse(r.json()["candidates"][0]["content"]["parts"][0]["text"])
+
+
+def _openai_call(url, key, model, prompt, temperature, extra_headers=None):
+    headers = {"Authorization": f"Bearer {key}", "Content-Type": "application/json", **(extra_headers or {})}
+    r = requests.post(url, headers=headers, timeout=180, json={
+        "model": model, "temperature": temperature,
+        "messages": [{"role": "user", "content": prompt + JSON_HINT}]})
+    if r.status_code >= 400:
+        raise RuntimeError(f"HTTP {r.status_code}: {r.text[:160]}")
+    return _parse(r.json()["choices"][0]["message"]["content"])
+
+
+def _github_models():
+    preferred = ["openai/gpt-4.1-mini", "openai/gpt-4o-mini", "meta/llama-3.3-70b-instruct", "openai/gpt-4.1"]
+    try:
+        r = requests.get("https://models.github.ai/catalog/models", timeout=30,
+                         headers={"Authorization": f"Bearer {os.getenv('GH_TOKEN')}"})
+        r.raise_for_status()
+        ids = {m["id"] for m in r.json()}
+    except Exception as e:  # noqa: BLE001
+        print("GitHub Models catalog unavailable, using defaults:", str(e)[:100])
+        return preferred[:2]
+    return [p for p in preferred if p in ids][:2] or sorted(i for i in ids if "mini" in i and _ok_name(i))[:2]
+
+
+def _groq_models():
+    r = requests.get("https://api.groq.com/openai/v1/models", timeout=30,
+                     headers={"Authorization": f"Bearer {os.getenv('GROQ_API_KEY')}"})
+    r.raise_for_status()
+    ids = [m["id"] for m in r.json().get("data", []) if m.get("active", True) and _ok_name(m["id"])]
+    return sorted(ids, key=_size, reverse=True)[:2]
+
+
+def _openrouter_models():
+    r = requests.get("https://openrouter.ai/api/v1/models", timeout=30)
+    r.raise_for_status()
+    ids = [m["id"] for m in r.json().get("data", []) if m["id"].endswith(":free") and _ok_name(m["id"])]
+    return sorted(ids, key=_size, reverse=True)[:2]
+
+
+def _cloudflare_models():
+    r = requests.get(f"https://api.cloudflare.com/client/v4/accounts/{config.CF_ACCOUNT_ID}/ai/models/search",
+                     params={"task": "Text Generation", "per_page": 100}, timeout=30,
+                     headers={"Authorization": f"Bearer {config.CF_API_TOKEN}"})
+    r.raise_for_status()
+    ids = [m["name"] for m in r.json().get("result", []) if "instruct" in m["name"] and _ok_name(m["name"])]
+    return sorted(ids, key=_size, reverse=True)[:1]
+
+
+def _build_plan():
+    plan = []
+
+    def add(provider, lister, caller):
+        try:
+            for m in lister():
+                plan.append((provider, m, caller))
+        except Exception as e:  # noqa: BLE001
+            print(f"{provider}: could not list models ({str(e)[:100]})")
+
+    if config.GEMINI_API_KEY:
+        pinned = [config.GEMINI_MODEL] if config.GEMINI_MODEL else []
+
+        def gem_list():
+            try:
+                found = _gemini_models()
+            except Exception as e:  # noqa: BLE001
+                print("Gemini model list failed, using defaults:", str(e)[:100])
+                found = ["gemini-2.5-flash", "gemini-2.5-flash-lite"]
+            return pinned + [m for m in found if m not in pinned]
+        add("Gemini", gem_list, _gemini_call)
+    if os.getenv("GH_TOKEN"):
+        add("GitHub Models", _github_models, lambda m, p, t: _openai_call(
+            "https://models.github.ai/inference/chat/completions", os.getenv("GH_TOKEN"), m, p, t))
+    if os.getenv("GROQ_API_KEY"):
+        add("Groq", _groq_models, lambda m, p, t: _openai_call(
+            "https://api.groq.com/openai/v1/chat/completions", os.getenv("GROQ_API_KEY"), m, p, t))
+    if os.getenv("OPENROUTER_API_KEY"):
+        add("OpenRouter", _openrouter_models, lambda m, p, t: _openai_call(
+            "https://openrouter.ai/api/v1/chat/completions", os.getenv("OPENROUTER_API_KEY"), m, p, t,
+            {"X-Title": "Shorts Autopilot"}))
+    if config.CF_ACCOUNT_ID and config.CF_API_TOKEN:
+        add("Cloudflare", _cloudflare_models, lambda m, p, t: _openai_call(
+            f"https://api.cloudflare.com/client/v4/accounts/{config.CF_ACCOUNT_ID}/ai/v1/chat/completions",
+            config.CF_API_TOKEN, m, p, t))
+    if not plan:
+        raise RuntimeError("No AI provider configured. Add GEMINI_API_KEY (or GROQ_API_KEY / OPENROUTER_API_KEY).")
+    print("AI fallback order:", [f"{p}:{m}" for p, m, _ in plan])
+    return plan
+
+
 def ask_json(prompt, temperature=0.7, passes=2):
-    """Try each candidate model once per pass; wait between passes."""
-    global _idx
-    models = _models()
+    """Try every provider/model once per pass; the first good JSON answer wins."""
+    global _plan
+    if _plan is None:
+        _plan = _build_plan()
     last = None
     for p in range(passes):
-        for _ in range(len(models)):
-            model = models[_idx]
-            gen = {"temperature": temperature}
-            if model.startswith("gemini"):
-                gen["responseMimeType"] = "application/json"
-            body = {"contents": [{"role": "user", "parts": [{"text": prompt}]}], "generationConfig": gen}
+        for i, (provider, model, call) in enumerate(list(_plan)):
             try:
-                r = requests.post(f"{BASE}/models/{model}:generateContent",
-                                  params={"key": config.GEMINI_API_KEY}, json=body, timeout=180)
-                if r.status_code >= 400:
-                    raise RuntimeError(f"HTTP {r.status_code} from {model}: {r.text[:160]}")
-                return _parse(r.json()["candidates"][0]["content"]["parts"][0]["text"])
-            except Exception as e:  # noqa: BLE001  (busy, rate-limited, retired, empty or garbled answer)
-                last = e
-                print(f"Gemini {model} failed: {str(e)[:120]}")
-                _idx = (_idx + 1) % len(models)
-                time.sleep(8)
+                result = call(model, prompt, temperature)
+                if i:  # start with whatever worked for the rest of this run
+                    _plan.insert(0, _plan.pop(i))
+                    print(f"Now using {provider}:{model}")
+                return result
+            except Exception as e:  # noqa: BLE001
+                last = f"{provider}:{model} -> {str(e)[:120]}"
+                print("AI attempt failed:", last)
+                time.sleep(4)
         if p < passes - 1:
-            print("All models busy; waiting 90s before another pass")
-            time.sleep(90)
-    raise RuntimeError(f"All Gemini models busy right now ({len(models)} tried x{passes}). Last: {last}")
+            print("All AI providers busy; waiting 60s before another pass")
+            time.sleep(60)
+    raise RuntimeError(f"All free AI providers are busy right now. Last error: {last}")
