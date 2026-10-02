@@ -265,7 +265,7 @@ def write_excel(folder, videos, ideas, totals):
         if info.get("link"):
             return ("Posted", info["link"])
         st = info.get("status") or ""
-        return ("Not connected" if "skipped" in st else st[:60]) or ""
+        return ("Not connected" if (not st or "skipped" in st) else st[:60])
 
     def day(s):
         try:
@@ -404,7 +404,7 @@ h1{font-size:22px;margin:0}h2{font-size:15px;margin:0 0 2px}.sub{color:var(--ink
 .card{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:14px 16px}
 .tile .label{color:var(--ink2);font-size:13px}.tile .val{font-size:28px;font-weight:600;margin-top:2px}
 .tile.hero .val{font-size:48px;line-height:1.05}.tile .note{color:var(--muted);font-size:12px}
-.grid2{display:grid;grid-template-columns:repeat(auto-fit,minmax(380px,1fr));gap:12px;margin-bottom:12px}
+.grid2{display:grid;grid-template-columns:repeat(auto-fit,minmax(380px,1fr));gap:12px;margin-bottom:12px}.grid2>*,.tiles>*{min-width:0}
 @media (max-width:440px){.grid2{grid-template-columns:1fr}}
 svg text{fill:var(--muted);font-size:11px;font-variant-numeric:tabular-nums}svg .lab{fill:var(--ink2);font-size:12px}
 svg .val{fill:var(--ink);font-size:12px}
@@ -466,12 +466,12 @@ const inRange=d=>{if(!days)return true;const c=new Date();c.setDate(c.getDate()-
 function render(){
  const V=D.videos.filter(v=>inRange(v.date||''));
  const pub=V.filter(v=>v.status==='published');
- const sum=f=>pub.reduce((a,v)=>a+(v.stats[f]||0),0);
+ const has=pub.some(v=>v.stats.views!=null);const sum=f=>has?pub.reduce((a,v)=>a+(v.stats[f]||0),0):null;
  const ideaDays=Object.values(D.ideas).filter(b=>inRange(b.date));
  const ideasN=ideaDays.reduce((a,b)=>a+b.ideas.length,0),picked=ideaDays.reduce((a,b)=>a+b.ideas.filter(i=>i.picked).length,0);
  const T=document.getElementById('tiles');T.replaceChildren();
  const tile=(label,val,note,hero)=>T.append(el('div',{class:'card tile'+(hero?' hero':'')},el('div',{class:'label',text:label}),el('div',{class:'val',text:val}),note?el('div',{class:'note',text:note}):null));
- tile('YouTube views',fmtN(sum('views')),pub.some(v=>v.stats.privacy==='private')?'Private videos get no public views until the API audit passes':'',true);
+ tile('YouTube views',fmtN(sum('views')),!has?'Stats appear after the next check (every 6 hours)':pub.some(v=>v.stats.privacy==='private')?'Private videos get no public views until the API audit passes':'',true);
  tile('Videos published',String(pub.length),V.length-pub.length?`${V.length-pub.length} not published (skipped, failed or waiting)`:'');
  tile('Likes',fmtN(sum('likes')));tile('Comments',fmtN(sum('comments')));
  tile('Ideas sent',String(ideasN),ideasN?`${picked} picked (${Math.round(picked/ideasN*100)}%)`:'');
@@ -527,7 +527,7 @@ function ideasList(){const days=Object.keys(D.ideas).sort();const box=document.g
  b.ideas.forEach(i=>box.append(el('li',{},el('span',{text:i.title}),i.picked?el('span',{class:'tag',text:'picked'}):null,
   el('div',{class:'meta',text:[i.format,i.virality_score!=null?'score '+i.virality_score+'/10':'',i.why].filter(Boolean).join(' · ')}))))}
 const PLAT=['YouTube','Facebook','Instagram','TikTok'];
-function pstate(p){if(!p)return['Not connected','--muted'];if(p.link)return['Posted','--good'];const s=p.status||'';
+function pstate(p,priv){if(!p)return['Not connected','--muted'];if(p.link&&(priv==='private'||/^private/.test(p.status||'')))return['Uploaded (private)','--warn'];if(p.link)return['Posted','--good'];const s=p.status||'';
  if(s.includes('skipped'))return['Not connected','--muted'];if(s.includes('draft'))return['Draft in app','--warn'];if(s.includes('FAIL'))return['Failed','--crit'];return[s.slice(0,24),'--warn']}
 function table(V){const tb=document.querySelector('#vt tbody');tb.replaceChildren();
  const rows=[...V].sort((a,b)=>(b.uploaded||b.id).localeCompare(a.uploaded||a.id));
@@ -535,15 +535,15 @@ function table(V){const tb=document.querySelector('#vt tbody');tb.replaceChildre
  rows.forEach(v=>{const yt=(v.platforms.YouTube||{}).link;
   const img=v.thumb?el('img',{class:'thumb',src:v.thumb,alt:'',loading:'lazy'}):el('div',{class:'thumb'});
   const title=yt?el('a',{href:yt,target:'_blank',rel:'noopener',text:v.title}):el('span',{text:v.title});
-  const pl=el('div');PLAT.forEach(n=>{const[l,c]=pstate(v.platforms[n]);const d=el('span',{class:'dot'});d.style.background=css(c);pl.append(el('span',{class:'pill',title:(v.platforms[n]||{}).status||''},d,document.createTextNode(n+': '+l)))});
+  const pl=el('div');PLAT.forEach(n=>{const[l,c]=pstate(v.platforms[n],n==='YouTube'?v.stats.privacy:null);const d=el('span',{class:'dot'});d.style.background=css(c);pl.append(el('span',{class:'pill',title:(v.platforms[n]||{}).status||''},d,document.createTextNode(n+': '+l)))});
   const st=v.status!=='published'?el('div',{class:'sub',text:'Status: '+v.status}):null;
   tb.append(el('tr',{},el('td',{},img),el('td',{},title,st),el('td',{text:fmtT(v.uploaded)||v.date}),el('td',{text:v.format||''}),el('td',{},pl),
    el('td',{class:'n',text:fmtN(v.stats.views)}),el('td',{class:'n',text:fmtN(v.stats.likes)}),el('td',{class:'n',text:fmtN(v.stats.comments)}),
    el('td',{},v.file?el('a',{href:v.file,text:'Play'}):el('span',{class:'sub',text:'—'}))))})}
 function runs(){const box=document.getElementById('runs');box.replaceChildren();
  if(!D.runs.length){box.append(el('li',{class:'sub',text:'Could not reach GitHub during the last sync.'}));return}
- const last=D.runs.slice(0,8),bad=D.runs.filter(r=>r.conclusion==='failure').length;
- box.append(el('li',{class:'sub',text:`${D.runs.length-bad} of ${D.runs.length} recent runs succeeded.`}));
+ const last=D.runs.slice(0,8),done=D.runs.filter(r=>r.status==='completed'),ok=done.filter(r=>r.conclusion==='success').length;
+ box.append(el('li',{class:'sub',text:`${ok} of ${done.length} recent finished runs succeeded.`}));
  last.forEach(r=>{const[l,c]=r.conclusion==='success'?['Succeeded','--good']:r.conclusion==='failure'?['Failed','--crit']:r.status!=='completed'?['Running','--warn']:[r.conclusion||'–','--muted'];
   const d=el('span',{class:'dot'});d.style.background=css(c);box.append(el('li',{},d,document.createTextNode(' '+l+' · '+fmtT(r.started)+' · '+(r.event||'')+' '),el('a',{href:r.url,target:'_blank',rel:'noopener',text:'details'})))})}
 render();
