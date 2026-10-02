@@ -14,7 +14,7 @@ import time
 import traceback
 from datetime import timedelta
 
-from . import config, llm, media, publish, schedule, state, storage, telegram, trends, writer
+from . import config, library, llm, media, publish, schedule, state, storage, telegram, trends, writer
 
 FMT_LETTERS = {"r": "ranking", "s": "story", "f": "funny", "q": "quiz", "t": "tips", "e": "explainer"}
 MAX_REDOS = 5
@@ -368,6 +368,7 @@ def do_publish(st, vid):
         with open(srt_path, "w", encoding="utf-8") as f:
             f.write(v["srt"])
     desc = writer.build_description(pkg, v.get("credits", []), human_reviewed=v.get("approved_by") == "you")
+    v["description_full"] = desc
     slot = None
     if config.SCHEDULE_PUBLISH and not v.get("publish_now"):
         taken = [x.get("slot") for x in st["videos"].values() if x.get("slot")]
@@ -458,6 +459,10 @@ def cmd_poll(st):
 def poll_once(st, wait=0):
     handle_updates(st, wait)
     daily_housekeeping(st)
+    try:
+        library.refresh_stats()
+    except Exception as e:  # noqa: BLE001
+        print("stats refresh failed:", e)
     catch_up_trends(st)
     auto_select(st)
     state.save(st)  # save choices before long work
@@ -552,6 +557,10 @@ def main():
             return cmd_test(args)
         if cmd == "aicheck":
             return cmd_aicheck()
+        if cmd == "stats":
+            st = state.load()
+            library.refresh_stats(force=True)
+            return state.save(st)
         st = state.load()
         try:
             {"trends": cmd_trends, "poll": cmd_poll}[cmd](st)

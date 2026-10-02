@@ -21,18 +21,23 @@ def _yt_tags(tags):
 
 
 
-def youtube(path, title, description, tags, category="24", thumb=None, srt=None, comment=None, publish_at=None):
-    if not (config.YT_CLIENT_ID and config.YT_CLIENT_SECRET and config.YT_REFRESH_TOKEN):
-        return None, "skipped (not configured)"
+def yt_service():
+    """YouTube client for the owner's channel (refresh token from tools/get_youtube_token.py)."""
     from google.oauth2.credentials import Credentials
     from googleapiclient.discovery import build
-    from googleapiclient.errors import HttpError
-    from googleapiclient.http import MediaFileUpload
-
     # scopes=None: refresh with whatever the user granted (upload, plus force-ssl if they re-ran the token script)
     creds = Credentials(None, refresh_token=config.YT_REFRESH_TOKEN, client_id=config.YT_CLIENT_ID,
                         client_secret=config.YT_CLIENT_SECRET, token_uri="https://oauth2.googleapis.com/token")
-    yt = build("youtube", "v3", credentials=creds, cache_discovery=False)
+    return build("youtube", "v3", credentials=creds, cache_discovery=False)
+
+
+def youtube(path, title, description, tags, category="24", thumb=None, srt=None, comment=None, publish_at=None):
+    if not (config.YT_CLIENT_ID and config.YT_CLIENT_SECRET and config.YT_REFRESH_TOKEN):
+        return None, "skipped (not configured)"
+    from googleapiclient.errors import HttpError
+    from googleapiclient.http import MediaFileUpload
+
+    yt = yt_service()
     body = {
         "snippet": {"title": title[:100], "description": description[:4900],
                     "tags": _yt_tags(tags), "categoryId": str(category or "24"),

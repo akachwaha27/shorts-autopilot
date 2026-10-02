@@ -27,6 +27,11 @@ def load():
 
 def save(st):
     os.makedirs(os.path.dirname(config.STATE_FILE), exist_ok=True)
+    try:  # permanent archive first (state below is trimmed); never let it break a run
+        from . import library
+        library.record(st)
+    except Exception as e:  # noqa: BLE001
+        print("library update failed:", e)
     # keep the file small: last 60 history entries, last 7 batches
     st["history"] = st.get("history", [])[-60:]
     for k in sorted(st.get("batches", {}))[:-7]:
