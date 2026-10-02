@@ -41,15 +41,19 @@ def _size(name):
 
 
 def _parse(text):
+    """Pull the first JSON object out of a model reply, ignoring chatter around it."""
     text = re.sub(r"<think>.*?</think>", "", text or "", flags=re.S).strip()  # reasoning models
     text = re.sub(r"^```(?:json)?|```$", "", text).strip()
+    if not text:
+        raise ValueError("empty reply")
     try:
         return json.loads(text)
     except json.JSONDecodeError:
-        m = re.search(r"\{.*\}", text, re.S)
-        if m:
-            return json.loads(m.group(0))
-        raise
+        start = text.find("{")
+        if start < 0:
+            raise ValueError(f"no JSON in reply: {text[:80]!r}")
+        obj, _ = json.JSONDecoder().raw_decode(text[start:])  # stops at end of first object
+        return obj
 
 
 def _ok_name(n):
@@ -83,13 +87,26 @@ def _gemini_call(model, prompt, temperature):
 
 
 def _openai_call(url, key, model, prompt, temperature, extra_headers=None):
-    headers = {"Authorization": f"Bearer {key}", "Content-Type": "application/json", **(extra_headers or {})}
+    headers = {"Authorization": f"Bearer {key}", "Content-Type": "application/json",
+               "Accept": "application/json", **(extra_headers or {})}
     r = requests.post(url, headers=headers, timeout=180, json={
-        "model": model, "temperature": temperature,
+        "model": model, "temperature": temperature, "stream": False,
         "messages": [{"role": "user", "content": prompt + JSON_HINT}]})
     if r.status_code >= 400:
         raise RuntimeError(f"HTTP {r.status_code}: {r.text[:160]}")
-    return _parse(r.json()["choices"][0]["message"]["content"])
+    try:
+        data = r.json()
+    except ValueError:
+        raise RuntimeError(f"non-JSON response ({r.headers.get('content-type')}): {r.text[:120]!r}") from None
+    if "choices" not in data or not data["choices"]:
+        raise RuntimeError(f"no answer: {str(data.get('error', data))[:140]}")
+    msg = data["choices"][0].get("message") or {}
+    content = msg.get("content")
+    if isinstance(content, list):  # some APIs return content parts
+        content = "".join(p.get("text", "") for p in content if isinstance(p, dict))
+    if not content:
+        raise RuntimeError(f"empty reply (finish_reason={data['choices'][0].get('finish_reason')})")
+    return _parse(content)
 
 
 def _github_models():
