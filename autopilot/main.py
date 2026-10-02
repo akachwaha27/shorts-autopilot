@@ -211,13 +211,23 @@ def cmd_test():
 
 def main():
     cmd = sys.argv[1] if len(sys.argv) > 1 else "poll"
-    if cmd == "test":
-        return cmd_test()
-    st = state.load()
     try:
-        {"trends": cmd_trends, "poll": cmd_poll}[cmd](st)
-    finally:
-        state.save(st)
+        if cmd == "test":
+            return cmd_test()
+        st = state.load()
+        try:
+            {"trends": cmd_trends, "poll": cmd_poll}[cmd](st)
+        finally:
+            state.save(st)
+    except Exception as e:  # noqa: BLE001
+        traceback.print_exc()
+        msg = f"{type(e).__name__}: {e}"
+        print(f"::error title=autopilot {cmd} failed::{msg[:900]}")  # shows on the GitHub run page
+        try:
+            telegram.send(f"❌ <b>{esc(cmd)} run failed</b>\n<code>{esc(msg[:900])}</code>")
+        except Exception:  # noqa: BLE001
+            pass
+        sys.exit(1)
 
 
 if __name__ == "__main__":

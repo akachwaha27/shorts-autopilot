@@ -44,7 +44,7 @@ CF_API_TOKEN = env("CF_API_TOKEN")
 NICHE = env("NICHE", "general interest: science, tech, nature, food, travel, sports highlights, how-to")
 REGION = env("REGION", "US")
 LANGUAGE = env("LANGUAGE", "en")
-GEMINI_MODEL = env("GEMINI_MODEL", "gemini-2.5-flash")
+GEMINI_MODEL = env("GEMINI_MODEL")                      # blank = auto-pick newest free Flash model
 VOICE = env("VOICE", "en-US-AndrewMultilingualNeural")
 VISUALS = env("VISUALS", "pexels")                   # pexels | ai (Cloudflare) | mixed
 TOPICS_PER_DAY = env("TOPICS_PER_DAY", 5, int)
