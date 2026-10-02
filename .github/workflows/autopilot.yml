@@ -60,6 +60,10 @@ jobs:
       YT_PRIVACY: ${{ vars.YT_PRIVACY }}
       TIKTOK_PRIVACY: ${{ vars.TIKTOK_PRIVACY }}
       POLL_MINUTES: ${{ vars.POLL_MINUTES }}
+      SCHEDULE_PUBLISH: ${{ vars.SCHEDULE_PUBLISH }}
+      PUBLISH_TZ: ${{ vars.PUBLISH_TZ }}
+      PUBLISH_SLOTS_WEEKDAY: ${{ vars.PUBLISH_SLOTS_WEEKDAY }}
+      PUBLISH_SLOTS_WEEKEND: ${{ vars.PUBLISH_SLOTS_WEEKEND }}
     steps:
       - uses: actions/checkout@v4
 

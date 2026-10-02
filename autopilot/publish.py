@@ -21,7 +21,7 @@ def _yt_tags(tags):
 
 
 
-def youtube(path, title, description, tags, category="24", thumb=None, srt=None, comment=None):
+def youtube(path, title, description, tags, category="24", thumb=None, srt=None, comment=None, publish_at=None):
     if not (config.YT_CLIENT_ID and config.YT_CLIENT_SECRET and config.YT_REFRESH_TOKEN):
         return None, "skipped (not configured)"
     from google.oauth2.credentials import Credentials
@@ -40,13 +40,17 @@ def youtube(path, title, description, tags, category="24", thumb=None, srt=None,
         "status": {"privacyStatus": config.YT_PRIVACY, "selfDeclaredMadeForKids": False,
                    "containsSyntheticMedia": True},  # YouTube's altered/synthetic content disclosure
     }
+    scheduled = bool(publish_at and config.YT_PRIVACY == "public")
+    if scheduled:  # YouTube makes it public by itself at publishAt (must be uploaded as private)
+        body["status"]["privacyStatus"] = "private"
+        body["status"]["publishAt"] = publish_at
     req = yt.videos().insert(part="snippet,status", body=body,
                              media_body=MediaFileUpload(path, mimetype="video/mp4", resumable=True))
     resp = None
     while resp is None:
         _, resp = req.next_chunk()
     vid = resp["id"]
-    notes = [resp["status"].get("privacyStatus", "")]
+    notes = ["scheduled" if scheduled else resp["status"].get("privacyStatus", "")]
 
     def why(e):
         msg = str(getattr(e, "reason", "") or e)
@@ -162,10 +166,11 @@ def tiktok(path, caption):
     return "https://www.tiktok.com/ (check your profile)", f"{status}, privacy={config.TIKTOK_PRIVACY}"
 
 
-def publish_all(path, title, description, hashtags, tags=(), category="24", thumb=None, srt=None, comment=None):
+def publish_all(path, title, description, hashtags, tags=(), category="24", thumb=None, srt=None, comment=None,
+                publish_at=None):
     caption = f"{title}\n\n{description}"
     results = {}
-    for name, fn in (("YouTube", lambda: youtube(path, title, description, list(tags) or [h.lstrip("#") for h in hashtags], category, thumb, srt, comment)),
+    for name, fn in (("YouTube", lambda: youtube(path, title, description, list(tags) or [h.lstrip("#") for h in hashtags], category, thumb, srt, comment, publish_at)),
                      ("Instagram", lambda: instagram(path, caption)),
                      ("TikTok", lambda: tiktok(path, caption))):
         try:

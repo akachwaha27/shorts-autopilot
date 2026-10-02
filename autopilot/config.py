@@ -57,6 +57,11 @@ REQUIRE_APPROVAL = env("REQUIRE_APPROVAL", True, bool)
 APPROVE_TIMEOUT_HOURS = env("APPROVE_TIMEOUT_HOURS", 2, float)  # auto-publish if you stay silent
 TARGET_SECONDS = env("TARGET_SECONDS", 45, int)
 POLL_MINUTES = env("POLL_MINUTES", 12, float)        # how long each run stays online answering Telegram
+# Peak Shorts viewing slots (local time of your audience). Each approved video takes the next free slot.
+SCHEDULE_PUBLISH = env("SCHEDULE_PUBLISH", True, bool)
+PUBLISH_TZ = env("PUBLISH_TZ", "America/New_York")
+PUBLISH_SLOTS_WEEKDAY = env("PUBLISH_SLOTS_WEEKDAY", "12:15,15:15,19:15")
+PUBLISH_SLOTS_WEEKEND = env("PUBLISH_SLOTS_WEEKEND", "10:15,14:15,19:15")
 
 WIDTH, HEIGHT, FPS = 1080, 1920, 30
 STATE_FILE = env("STATE_FILE", "state/state.json")

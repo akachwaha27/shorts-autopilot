@@ -166,6 +166,16 @@ Each day's 5 ideas mix at least 4 formats. When picking, add a letter to change 
   - Uploading captions needs the `youtube.force-ssl` permission. Re-run `tools/get_youtube_token.py` once and replace `YT_REFRESH_TOKEN`.
 - The "🚀 posted" message shows `thumbnail ✅/⚠️` and `subtitles ✅/⚠️`, with the reason if YouTube refused.
 
+### Peak-time publishing
+When you reply `publish`, the video uploads right away but goes public at the **next free peak Shorts slot** (US Eastern by default):
+- **Weekdays:** 12:15 PM, 3:15 PM and 7:15 PM
+- **Weekends:** 10:15 AM, 2:15 PM and 7:15 PM
+
+That's just before the lunch, after-school/work and evening peaks. One video goes in each slot, so posts are spread out. YouTube itself flips the video to public at that time, so the bot doesn't need to be running.
+- `publish now` skips scheduling and posts immediately.
+- Variables to change it: `PUBLISH_TZ` (e.g. `Asia/Kolkata`), `PUBLISH_SLOTS_WEEKDAY`, `PUBLISH_SLOTS_WEEKEND`, and `SCHEDULE_PUBLISH=false` to turn scheduling off.
+- While uploads are still private (before Google's API audit), the bot tells you the best slot so you can set **Schedule** in YouTube Studio yourself.
+
 ### Tags and pinned comment
 - **Tags:** each video gets a main search keyword that appears in the title and the description's first line. Tags are then built from YouTube's own search suggestions (real searches) for that keyword. They are ranked by how closely they match the title and description, and fill about 450–490 of the 500 allowed characters.
   - Tags that would be misleading are removed. That means any tag with a topic word not in the video, such as another game, a brand or a celebrity.

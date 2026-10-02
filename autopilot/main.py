@@ -14,7 +14,7 @@ import time
 import traceback
 from datetime import timedelta
 
-from . import config, llm, media, publish, state, storage, telegram, trends, writer
+from . import config, llm, media, publish, schedule, state, storage, telegram, trends, writer
 
 FMT_LETTERS = {"r": "ranking", "s": "story", "f": "funny", "q": "quiz", "t": "tips", "e": "explainer"}
 MAX_REDOS = 5
@@ -96,7 +96,7 @@ def latest_waiting(st):
 HELP = (
     "<b>Commands</b>\n"
     "• <code>1,3</code> pick today's ideas (add s/f/q/r/t/e to change format, e.g. <code>2s</code>)\n"
-    "• <code>publish</code> · <code>skip</code> · <code>redo</code> · <code>voice</code> on a preview\n"
+    "• <code>publish</code> (next peak time) · <code>publish now</code> · <code>skip</code> · <code>redo</code> · <code>voice</code>\n"
     "• <code>change make it funnier</code> rewrite a preview with your notes\n"
     "• <code>title Your New Title</code> change just the title\n"
     "• <code>info</code> see title, description, tags\n"
@@ -214,8 +214,10 @@ def act(st, vid, action, arg):
         telegram.send(f"Video #{n} is {v['status'].replace('_', ' ')}, so I can't {action} it now.")
         return
     if action == "publish":
-        v.update(status="approved", approved_by="you", updated=state.iso())
-        telegram.send(f"👍 Publishing video #{n}: {esc(pkg.get('title', ''))}")
+        now_flag = arg.strip().lower().startswith("now")
+        v.update(status="approved", approved_by="you", updated=state.iso(), publish_now=now_flag)
+        when = "right now" if now_flag or not config.SCHEDULE_PUBLISH else "at the next peak time"
+        telegram.send(f"👍 Uploading video #{n} ({when}): {esc(pkg.get('title', ''))}")
     elif action == "skip":
         v.update(status="rejected", updated=state.iso())
         telegram.send(f"🗑 Skipped video #{n}.")
@@ -313,7 +315,8 @@ def render_and_preview(st, vid, pkg):
            "or reply directly to the video." if others else "")
     opts = telegram.send(
         f"👆 <b>Video #{n} is ready. What would you like to do?</b> Reply with:\n\n"
-        f"✅ <code>publish</code>: post it now\n"
+        f"✅ <code>publish</code>: upload it for the next peak viewing time "
+        f"(or <code>publish now</code> to post immediately)\n"
         f"✏️ <code>change</code> + your notes: rewrite it, e.g. <code>change make it funnier</code>, "
         f"<code>change shorter</code>, <code>change turn it into a quiz</code>\n"
         f"🔁 <code>redo</code>: a brand-new version (new script, footage and voice)\n"
@@ -365,10 +368,22 @@ def do_publish(st, vid):
         with open(srt_path, "w", encoding="utf-8") as f:
             f.write(v["srt"])
     desc = writer.build_description(pkg, v.get("credits", []), human_reviewed=v.get("approved_by") == "you")
+    slot = None
+    if config.SCHEDULE_PUBLISH and not v.get("publish_now"):
+        taken = [x.get("slot") for x in st["videos"].values() if x.get("slot")]
+        slot = schedule.next_slot(taken)
     results = publish.publish_all(path, pkg["title"], desc, pkg["hashtags"], pkg.get("tags", []),
-                                  pkg.get("category", "24"), thumb, srt_path, pkg.get("pinned_comment"))
+                                  pkg.get("category", "24"), thumb, srt_path, pkg.get("pinned_comment"),
+                                  slot.isoformat().replace("+00:00", "Z") if slot else None)
     v["status"], v["results"], v["updated"] = "published", {k: list(r) for k, r in results.items()}, state.iso()
-    lines = [f"🚀 <b>Video #{num(vid)} posted:</b> {esc(pkg['title'])}"]
+    if slot:
+        v["slot"] = slot.isoformat()
+    lines = [f"🚀 <b>Video #{num(vid)} uploaded:</b> {esc(pkg['title'])}"]
+    if slot and config.YT_PRIVACY == "public":
+        lines.append(f"📅 Goes public automatically at <b>{schedule.fmt_local(slot)}</b> (peak Shorts time).")
+    elif slot:
+        lines.append(f"📅 Uploaded as private (YouTube API audit pending). Best time to make it public: "
+                     f"<b>{schedule.fmt_local(slot)}</b>. Set it in YouTube Studio → Visibility → Schedule.")
     for name, (link, status) in results.items():
         icon = "✅" if link else ("➖" if "skipped" in status else "⚠️")
         lines.append(f"{icon} {name}: {esc(link or '')} {esc(status)}")
