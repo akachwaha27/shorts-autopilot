@@ -62,6 +62,8 @@ SCHEDULE_PUBLISH = env("SCHEDULE_PUBLISH", True, bool)
 PUBLISH_TZ = env("PUBLISH_TZ", "America/New_York")
 PUBLISH_SLOTS_WEEKDAY = env("PUBLISH_SLOTS_WEEKDAY", "12:15,15:15,19:15")
 PUBLISH_SLOTS_WEEKEND = env("PUBLISH_SLOTS_WEEKEND", "10:15,14:15,19:15")
+YT_DAILY_UPLOADS = env("YT_DAILY_UPLOADS", 4, int)   # ~2,100 quota units each; free quota is 10,000/day
+KEEP_VIDEOS_DAYS = env("KEEP_VIDEOS_DAYS", 14, int)  # delete stored video files older than this
 
 WIDTH, HEIGHT, FPS = 1080, 1920, 30
 STATE_FILE = env("STATE_FILE", "state/state.json")

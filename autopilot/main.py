@@ -376,6 +376,7 @@ def do_publish(st, vid):
                                   pkg.get("category", "24"), thumb, srt_path, pkg.get("pinned_comment"),
                                   slot.isoformat().replace("+00:00", "Z") if slot else None)
     v["status"], v["results"], v["updated"] = "published", {k: list(r) for k, r in results.items()}, state.iso()
+    v["uploaded_at"] = state.iso()
     if slot:
         v["slot"] = slot.isoformat()
     lines = [f"🚀 <b>Video #{num(vid)} uploaded:</b> {esc(pkg['title'])}"]
@@ -393,6 +394,28 @@ def do_publish(st, vid):
         lines.append(f"\n📌 I posted your expert comment. YouTube doesn't allow pinning by API, so tap once to pin it:\n"
                      f"https://studio.youtube.com/video/{vid_id}/comments\n<i>{esc(pkg['pinned_comment'])}</i>")
     telegram.send("\n".join(lines))
+
+
+def uploads_today(st):
+    """YouTube quota resets at midnight Pacific time."""
+    from zoneinfo import ZoneInfo
+    pt = ZoneInfo("America/Los_Angeles")
+    day = state.now().astimezone(pt).date()
+    return sum(1 for v in st["videos"].values()
+               if v.get("status") == "published" and v.get("uploaded_at")
+               and state.parse(v["uploaded_at"]).astimezone(pt).date() == day)
+
+
+def daily_housekeeping(st):
+    if st.get("cleanup_day") == today():
+        return
+    st["cleanup_day"] = today()
+    try:
+        removed = storage.cleanup(config.KEEP_VIDEOS_DAYS)
+        if removed:
+            print("Removed old video storage:", removed)
+    except Exception as e:  # noqa: BLE001
+        print("cleanup failed:", e)
 
 
 def catch_up_trends(st):
@@ -427,6 +450,7 @@ def cmd_poll(st):
 
 def poll_once(st, wait=0):
     handle_updates(st, wait)
+    daily_housekeeping(st)
     catch_up_trends(st)
     auto_select(st)
     state.save(st)  # save choices before long work
@@ -451,6 +475,13 @@ def poll_once(st, wait=0):
             if state.now() - state.parse(v["updated"]) >= timedelta(hours=config.APPROVE_TIMEOUT_HOURS):
                 v.update(status="approved", approved_by="auto")
         if v["status"] == "approved":
+            if uploads_today(st) >= config.YT_DAILY_UPLOADS:
+                if v.get("quota_note") != today():
+                    v["quota_note"] = today()
+                    telegram.send(f"⏳ Video #{num(vid)} is approved, but today's {config.YT_DAILY_UPLOADS} YouTube uploads "
+                                  "are used (free API quota). I'll upload it right after the quota resets at midnight "
+                                  "Pacific (3 AM ET); it still goes out at the next peak slot.")
+                continue
             try:
                 do_publish(st, vid)
             except Exception as e:  # noqa: BLE001

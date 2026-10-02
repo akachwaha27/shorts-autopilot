@@ -176,6 +176,20 @@ That's just before the lunch, after-school/work and evening peaks. One video goe
 - Variables to change it: `PUBLISH_TZ` (e.g. `Asia/Kolkata`), `PUBLISH_SLOTS_WEEKDAY`, `PUBLISH_SLOTS_WEEKEND`, and `SCHEDULE_PUBLISH=false` to turn scheduling off.
 - While uploads are still private (before Google's API audit), the bot tells you the best slot so you can set **Schedule** in YouTube Studio yourself.
 
+### Free-tier budget
+| Service | Free limit | Per video | Allows |
+|---|---|---|---|
+| YouTube API | 10,000 units/day | ~2,100 (upload 1,600 + captions 400 + thumbnail 50 + comment 50) | **max 4/day** |
+| Gemini (+ Groq/OpenRouter backups) | free tiers | ~5 calls | dozens/day |
+| Pixabay | 100 searches/min | ~20 | dozens/day |
+| Edge TTS voices | none | 1 | unlimited |
+| GitHub Actions (public repo) | unlimited | ~5 min | unlimited |
+
+- **Recommended: 3 videos/day.** One per peak slot keeps a quota buffer and stays clear of "mass-produced" signals.
+- Previews, redos and tests use **no** YouTube quota.
+- If 4 uploads already happened today (`YT_DAILY_UPLOADS`), approved videos wait until the quota resets at midnight Pacific.
+- Stored video files are deleted after 14 days (`KEEP_VIDEOS_DAYS`).
+
 ### Tags and pinned comment
 - **Tags:** each video gets a main search keyword that appears in the title and the description's first line. Tags are then built from YouTube's own search suggestions (real searches) for that keyword. They are ranked by how closely they match the title and description, and fill about 450–490 of the 500 allowed characters.
   - Tags that would be misleading are removed. That means any tag with a topic word not in the video, such as another game, a brand or a celebrity.

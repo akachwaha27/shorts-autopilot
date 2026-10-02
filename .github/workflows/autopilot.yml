@@ -64,6 +64,8 @@ jobs:
       PUBLISH_TZ: ${{ vars.PUBLISH_TZ }}
       PUBLISH_SLOTS_WEEKDAY: ${{ vars.PUBLISH_SLOTS_WEEKDAY }}
       PUBLISH_SLOTS_WEEKEND: ${{ vars.PUBLISH_SLOTS_WEEKEND }}
+      YT_DAILY_UPLOADS: ${{ vars.YT_DAILY_UPLOADS }}
+      KEEP_VIDEOS_DAYS: ${{ vars.KEEP_VIDEOS_DAYS }}
     steps:
       - uses: actions/checkout@v4
 

@@ -37,3 +37,23 @@ def fetch(ref, dest_dir):
         return ref["path"]
     _gh("release", "download", ref["tag"], "-p", ref["name"], "-D", dest_dir, "--clobber")
     return os.path.join(dest_dir, ref["name"])
+
+
+def cleanup(days):
+    """Delete stored video releases older than `days` (keeps the repo small). Returns tags removed."""
+    if not available():
+        return []
+    import json
+    from datetime import datetime, timedelta, timezone
+    out = _gh("release", "list", "--limit", "200", "--json", "tagName,createdAt", check=False).stdout or "[]"
+    cutoff = datetime.now(timezone.utc) - timedelta(days=days)
+    removed = []
+    for rel in json.loads(out):
+        tag = rel.get("tagName", "")
+        if not tag.startswith("videos-"):
+            continue
+        created = datetime.fromisoformat(rel["createdAt"].replace("Z", "+00:00"))
+        if created < cutoff:
+            _gh("release", "delete", tag, "--yes", "--cleanup-tag", check=False)
+            removed.append(tag)
+    return removed
