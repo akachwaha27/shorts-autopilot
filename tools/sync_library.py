@@ -55,7 +55,7 @@ def load_config():
 
 
 def setup():
-    default = os.path.join(os.path.expanduser("~"), "Documents", "Shorts Autopilot")
+    default = load_config().get("folder") or os.path.join(os.path.expanduser("~"), "Documents", "Shorts Autopilot")
     folder = input(f"Folder for your videos, Excel and dashboard [{default}]: ").strip().strip('"') or default
     folder = os.path.abspath(os.path.expandvars(os.path.expanduser(folder)))
     repo = input(f"GitHub repo [{REPO_DEFAULT}]: ").strip() or REPO_DEFAULT
@@ -222,6 +222,13 @@ def run_sync():
 
 
 # ------------------------------------------------------------------ Excel
+def _file_url(folder, path):
+    root = os.getenv("SYNC_LINK_ROOT")  # only used when building the files on another machine
+    if root:
+        path = root.rstrip("\\/") + "\\" + os.path.relpath(path, folder).replace("/", "\\")
+    return "file:///" + path.replace("\\", "/")
+
+
 def write_excel(folder, videos, ideas, totals):
     from openpyxl import Workbook
     from openpyxl.styles import Alignment, Font, PatternFill
@@ -288,9 +295,9 @@ def write_excel(folder, videos, ideas, totals):
             v.get("primary_keyword", ""), v.get("voice", ""), v.get("angle", ""), v.get("trend_source", ""),
             v.get("virality_score"), v.get("approved_by", ""), to_local(v.get("scheduled_for")),
             "\n".join(v.get("credits") or []),
-            (os.path.basename(v["_video_file"]), "file:///" + v["_video_file"].replace("\\", "/")) if v.get("_video_file")
+            (os.path.basename(v["_video_file"]), _file_url(folder, v["_video_file"])) if v.get("_video_file")
             else ("Not stored any more" if v.get("_video_file_missing") else ""),
-            (os.path.basename(v["_thumb_file"]), "file:///" + v["_thumb_file"].replace("\\", "/")) if v.get("_thumb_file") else "",
+            (os.path.basename(v["_thumb_file"]), _file_url(folder, v["_thumb_file"])) if v.get("_thumb_file") else "",
             vid,
         ])
     wb.active.title = "Videos"
