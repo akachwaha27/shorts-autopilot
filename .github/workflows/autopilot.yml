@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
     inputs:
       command:
-        description: "trends | poll | test | aicheck"
+        description: "trends | poll | aicheck | test [ranking|story|funny|quiz|tips|explainer]"
         default: "poll"
 
 permissions:

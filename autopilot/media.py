@@ -10,6 +10,7 @@ import asyncio
 import base64
 import html
 import json
+import math
 import os
 import random
 import re
@@ -120,7 +121,7 @@ def _clean(t):
     return re.sub(r"[{}\\]", "", str(t))
 
 
-def subtitles(words, scenes, bounds, title, path, group=3):
+def subtitles(words, scenes, bounds, hook_text, path, group=3):
     head = f"""[Script Info]
 ScriptType: v4.00+
 PlayResX: {W}
@@ -132,7 +133,7 @@ Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour,
 Style: Default,DejaVu Sans,86,&H00FFFFFF,&H00FFFFFF,&H00000000,&H64000000,1,0,0,0,100,100,0,0,1,6,3,2,80,80,620,1
 Style: Rank,DejaVu Sans,210,&H0000D7FF,&H0000D7FF,&H00000000,&H80000000,1,0,0,0,100,100,0,0,1,9,4,8,60,60,200,1
 Style: Label,DejaVu Sans,74,&H00FFFFFF,&H00FFFFFF,&H00000000,&HA0000000,1,0,0,0,100,100,0,0,3,10,0,8,90,90,450,1
-Style: Title,DejaVu Sans,78,&H0000D7FF,&H0000D7FF,&H00000000,&HA0000000,1,0,0,0,100,100,0,0,3,12,0,8,80,80,260,1
+Style: Title,DejaVu Sans,80,&H0000D7FF,&H0000D7FF,&H00000000,&HA0000000,1,0,0,0,100,100,0,0,3,12,0,8,80,80,260,1
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -143,15 +144,18 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
         end = words[i + group]["start"] if i + group < len(words) else chunk[-1]["end"] + 0.3
         text = _clean(" ".join(w["word"] for w in chunk).upper())
         lines.append(f"Dialogue: 0,{_ts(chunk[0]['start'])},{_ts(end)},Default,,0,0,0,,{text}")
-    pop = r"{\fad(120,80)\fscx135\fscy135\t(0,220,\fscx100\fscy100)}"
-    ranked = any(s.get("rank") for s in scenes)
-    for s, (a, b) in zip(scenes, bounds):
-        if s.get("rank"):
-            lines.append(f"Dialogue: 1,{_ts(a)},{_ts(b)},Rank,,0,0,0,,{pop}#{int(s['rank'])}")
-            if s.get("label"):
-                lines.append(f"Dialogue: 1,{_ts(a)},{_ts(b)},Label,,0,0,0,,{{\\fad(150,80)}}{_clean(s['label']).upper()}")
-    if ranked and bounds:  # title card over the intro
-        lines.append(f"Dialogue: 1,{_ts(0)},{_ts(bounds[0][1])},Title,,0,0,0,,{{\\fad(150,120)}}{_clean(title).upper()}")
+    for idx, (s, (a, b)) in enumerate(zip(scenes, bounds)):
+        badge, label = _clean(s.get("badge", "")), _clean(s.get("label", ""))
+        if badge:
+            size = r"\fs210" if len(badge) <= 3 else r"\fs130"
+            pop = r"{\fad(120,80)" + size + r"\fscx135\fscy135\t(0,220,\fscx100\fscy100)}"
+            lines.append(f"Dialogue: 1,{_ts(a)},{_ts(b)},Rank,,0,0,0,,{pop}{badge}")
+        if label and not (idx == 0 and hook_text and not badge):  # don't stack on the hook
+            margin = "" if badge else r"\pos(540,300)"
+            lines.append(f"Dialogue: 1,{_ts(a)},{_ts(b)},Label,,0,0,0,,{{\\fad(150,80){margin}}}{label.upper()}")
+        if idx == 0 and hook_text and not badge:
+            lines.append(f"Dialogue: 1,{_ts(0)},{_ts(b)},Title,,0,0,0,,"
+                         r"{\fad(100,120)\fscx120\fscy120\t(0,200,\fscx100\fscy100)}" + _clean(hook_text).upper())
     with open(path, "w", encoding="utf-8") as f:
         f.write(head + "\n".join(lines) + "\n")
     return path
@@ -394,14 +398,20 @@ def make_video(pkg, out_dir, recent_voices=()):
     total = duration(audio) + 0.6
     scenes = pkg["scenes"]
     bounds = scene_bounds(scenes, words, total)
-    ass = subtitles(words, scenes, bounds, pkg.get("title", ""), os.path.join(out_dir, "captions.ass"))
+    hook = pkg.get("hook_text") or (pkg.get("title", "") if pkg.get("format") == "ranking" else "")
+    ass = subtitles(words, scenes, bounds, hook, os.path.join(out_dir, "captions.ass"))
 
     used, credits, parts, plan = set(), [], [], source_plan()
     for i, (scene, (a, b)) in enumerate(zip(scenes, bounds)):
-        vis = get_visual(scene, i, out_dir, used, plan)
-        if vis["credit"] and vis["credit"] not in credits:
-            credits.append(vis["credit"])
-        parts.append(render_scene(vis, b - a, os.path.join(out_dir, f"part{i:02d}.mp4")))
+        dur = b - a
+        n = 1 if dur < 3.6 else min(3, math.ceil(dur / 3.2))  # a fresh shot roughly every 3 seconds
+        queries = scene.get("stock_queries") or [scene.get("stock_query", "")]
+        for k in range(n):
+            shot = dict(scene, stock_query=queries[k % len(queries)])
+            vis = get_visual(shot, f"{i}_{k}", out_dir, used, plan)
+            if vis["credit"] and vis["credit"] not in credits:
+                credits.append(vis["credit"])
+            parts.append(render_scene(vis, dur / n, os.path.join(out_dir, f"part{i:02d}_{k}.mp4")))
 
     concat = os.path.join(out_dir, "parts.txt")
     with open(concat, "w") as f:

@@ -81,7 +81,9 @@ def collect():
 
 def pick_topics(signals, history):
     lines = "\n".join(f'- [{s["source"]}] {s["title"]} ({s["signal"]}) {s["context"]}' for s in signals[:120])
-    prompt = f"""You are a careful short-form video strategist for a faceless channel.
+    prompt = f"""You are a YouTube Shorts growth strategist for a faceless, monetization-focused channel.
+You know what the Shorts algorithm rewards: a strong hook, high swipe-through and completion rate,
+rewatches/loops, comments and shares, and topics people are searching for right now.
 Niche preference: {config.NICHE}. Audience region: {config.REGION}. Language: {config.LANGUAGE}.
 
 Trending signals from the last 24-48h:
@@ -89,25 +91,32 @@ Trending signals from the last 24-48h:
 
 Recently covered (do NOT repeat): {", ".join(history[-30:]) or "none"}
 
-Choose exactly {config.TOPICS_PER_DAY} topics for ORIGINAL 30-60 second explainer/facts videos that ride these trends.
-Hard rules - reject any topic that:
-- involves politics, elections, government, war, crime, death, disasters, religion, health/medical or financial advice,
-  lawsuits, celebrity gossip/drama, or anything divisive or likely to offend;
-- would require using someone else's footage, music, or likeness, or naming private individuals;
-- makes claims that can't be verified from general knowledge.
-Prefer evergreen-angle, curiosity-driven, family-friendly topics (science, tech, nature, food, travel, sports facts, how-tos).
-Turn a trend into a SAFE ANGLE, e.g. a trending game launch -> "5 facts about how game worlds are built".
+Choose exactly {config.TOPICS_PER_DAY} ideas for ORIGINAL 30-50 second Shorts. Use the trends as inspiration
+(ride the curiosity around them with a SAFE ANGLE); if the trends are weak, use proven evergreen Shorts ideas.
+Mix FORMATS - use at least 4 different ones across the list, max 2 of the same:
+- "ranking": Top 5 countdown with a clear, checkable measure ("Top 5 fastest animals on Earth")
+- "story": original wholesome/mystery/twist mini story, clearly fiction (e.g. inspired by a trending holiday or event mood)
+- "funny": kind, family-friendly humor: relatable everyday situations, funny-but-true facts, absurd observations
+- "quiz": 3-question trivia challenge viewers play along with
+- "tips": quick, genuinely useful everyday tips/hacks (tech, home, cooking, travel, productivity)
+- "explainer": surprising "why/how" curiosity facts
+{f'Include at least {config.RANKINGS_PER_DAY} "ranking" ideas.' if config.RANKINGS_PER_DAY else ''}
 
-Formats: make exactly {config.RANKINGS_PER_DAY} of the topics "ranking" videos (a "Top 5" countdown with a clear,
-checkable measure, e.g. "Top 5 fastest animals on Earth"); the rest are "explainer" videos.
+Hard rules - reject any idea that:
+- involves politics, elections, government, war, crime, death, disasters, religion, health/medical or financial
+  advice, lawsuits, celebrity gossip/drama, real living people, or anything divisive, shocking or likely to offend;
+- would need someone else's footage, music, characters or likeness;
+- makes claims that can't be verified; or is aimed at young children.
+Every idea must be advertiser-friendly and suitable for a general 13+ audience.
 
-Return JSON: {{"topics": [{{"title": "short catchy topic", "angle": "one sentence on the video idea",
-"format": "explainer" or "ranking", "trend_source": "which signal inspired it", "virality_score": 1-10,
-"why": "why it can go viral"}}]}}
+Return JSON: {{"topics": [{{"title": "short catchy working title", "angle": "one sentence on the video idea",
+"format": "ranking|story|funny|quiz|tips|explainer", "trend_source": "which signal inspired it (or evergreen)",
+"virality_score": 1-10, "why": "why it can win in the Shorts feed"}}]}}
 Sort by virality_score descending."""
     data = llm.ask_json(prompt, temperature=0.8)
     topics = data.get("topics", [])
     # second line of defence
+    from .writer import fmt_of
     for t in topics:
-        t["format"] = "ranking" if str(t.get("format", "")).lower().startswith("rank") else "explainer"
+        t["format"] = fmt_of(t)
     return [t for t in topics if not BLOCKLIST.search(t["title"] + " " + t["angle"])][: config.TOPICS_PER_DAY]

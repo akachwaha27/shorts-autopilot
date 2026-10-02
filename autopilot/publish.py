@@ -8,7 +8,19 @@ from . import config
 
 
 # ---------------- YouTube ----------------
-def youtube(path, title, description, tags):
+def _yt_tags(tags):
+    """YouTube allows ~500 characters of tags in total."""
+    out, total = [], 0
+    for t in dict.fromkeys(t.lstrip("#").strip() for t in tags if t):
+        if total + len(t) + 2 > 480:
+            break
+        out.append(t)
+        total += len(t) + 2
+    return out
+
+
+
+def youtube(path, title, description, tags, category="24"):
     if not (config.YT_CLIENT_ID and config.YT_CLIENT_SECRET and config.YT_REFRESH_TOKEN):
         return None, "skipped (not configured)"
     from google.oauth2.credentials import Credentials
@@ -21,7 +33,7 @@ def youtube(path, title, description, tags):
     yt = build("youtube", "v3", credentials=creds, cache_discovery=False)
     body = {
         "snippet": {"title": title[:100], "description": description[:4900],
-                    "tags": [t.lstrip("#") for t in tags][:15], "categoryId": "27",
+                    "tags": _yt_tags(tags), "categoryId": str(category or "24"),
                     "defaultLanguage": config.LANGUAGE, "defaultAudioLanguage": config.LANGUAGE},
         "status": {"privacyStatus": config.YT_PRIVACY, "selfDeclaredMadeForKids": False,
                    "containsSyntheticMedia": True},  # YouTube's altered/synthetic content disclosure
@@ -117,10 +129,10 @@ def tiktok(path, caption):
     return "https://www.tiktok.com/ (check your profile)", f"{status}, privacy={config.TIKTOK_PRIVACY}"
 
 
-def publish_all(path, title, description, hashtags):
+def publish_all(path, title, description, hashtags, tags=(), category="24"):
     caption = f"{title}\n\n{description}"
     results = {}
-    for name, fn in (("YouTube", lambda: youtube(path, title, description, hashtags)),
+    for name, fn in (("YouTube", lambda: youtube(path, title, description, list(tags) + list(hashtags), category)),
                      ("Instagram", lambda: instagram(path, caption)),
                      ("TikTok", lambda: tiktok(path, caption))):
         try:

@@ -137,18 +137,53 @@ Any platform you leave blank is skipped.
 3. Change the time of the daily scan in the workflow file. The default is 11:53 UTC, which is 7:53 AM New York time during daylight saving time.
 
 ## Video formats
-- **Explainer:** hook, facts, call to action.
-- **🏆 Top 5 countdown:** intro, then #5 down to #1 with a big gold rank badge and item name on screen, then an outro.
+| | Format | What it is | YouTube category |
+|---|---|---|---|
+| 🏆 | ranking | Top 5 countdown, #5 to #1 with gold rank badges | Education |
+| 📖 | story | Original mini story with a twist, labeled as fiction | Entertainment |
+| 😂 | funny | Kind, family-friendly humor and relatable situations | Comedy |
+| ❓ | quiz | 3-question trivia with on-screen Q1/✓ answers | Entertainment |
+| 💡 | tips | Quick, safe everyday tips and hacks | Howto & Style |
+| 🔬 | explainer | Surprising "why/how" facts | Education |
 
-By default 2 of the 5 daily ideas are countdowns (Variable `RANKINGS_PER_DAY`). Reply `3r` to turn topic 3 into a countdown, or `3e` to make it a normal explainer.
+Each day's 5 ideas mix at least 4 formats. When picking, add a letter to change the format: `2s` story, `2f` funny, `2q` quiz, `2r` Top 5, `2t` tips, `2e` explainer.
+
+### Built for the Shorts algorithm
+- **Hook:** a hook line in the first second, plus on-screen hook text.
+- **Payoff:** promised early and delivered at the end.
+- **Pacing:** a new shot about every 3 seconds, with big word-by-word captions.
+- **Loop:** the ending flows back into the opening, which encourages rewatches.
+- **Comments:** each video ends with one specific question to drive comments.
+- **Titles:** at most 60 characters, keyword first, honest.
+- **Description:** a keyword-rich first line, 4 hashtags (`#shorts`, broad, niche, format), and 10-15 search tags.
+- **Category:** the correct YouTube category is set for each format.
+- **Variety:** voices, footage sources and formats rotate, so videos don't look mass-produced.
+
+### Monetization and YouTube compliance
+- **Original content:** every video has an original script, AI voice and licensed footage. Nothing is reuploaded.
+- **Labels:** AI content is labeled (`containsSyntheticMedia`), every source is credited, and fiction says it is fiction.
+- **Two safety layers:** a keyword blocklist plus an AI policy review that rejects anything political, violent, medical or financial, about real people, misleading, or not advertiser-friendly.
+- **Your review:** this is your strongest protection against YouTube's "inauthentic / mass-produced content" rules. Watch previews and reply `change`, `redo` or `skip` when something feels generic. Description text says "approved by the channel owner" only when you actually approved the video.
+- **Getting into the Partner Program:** you need to reach YouTube's Partner Program thresholds (for Shorts, currently around 1,000 subscribers plus 10M Shorts views in 90 days). Always check YouTube's current requirements.
 
 ## Telegram commands
-- Tap 🎬 buttons, or reply `1,3`, to pick topics.
-- `/now` fetches fresh trends immediately.
-- `/status` lists recent videos.
-- Reply **publish** or **reject** to a preview (or tap ✅ / ❌). With several previews waiting, reply directly to the video you mean, or send `publish all`.
+**Daily ideas:** tap a number or type `1,3` (add a format letter, e.g. `2s`). `/now` gets fresh ideas, `/status` lists recent videos, `/help` shows all commands.
 
-The bot replies within about 20 minutes, which is the poll interval. It isn't instant chat.
+**After every preview** the bot sends a "what next?" guide. You can reply with:
+
+| Reply | What happens |
+|---|---|
+| `publish` | Posts now to YouTube (plus Instagram/TikTok if connected) |
+| `change make it funnier` | Rewrites the video using your notes, e.g. `change shorter`, `change turn it into a quiz` |
+| `redo` | Makes a brand-new version: new script, footage and voice |
+| `voice` | Keeps the script, uses a different voice and fresh footage |
+| `title Your New Title` | Changes only the title |
+| `info` | Shows the full description, tags and credits |
+| `skip` | Throws the video away |
+
+**Several previews waiting:** add the video number (`publish 3`, `change 2 shorter`) or reply directly to the video. `publish all` and `skip all` also work.
+
+The bot is online about 12 minutes of every 20 and replies within seconds while it's on. If you stay silent, the preview auto-publishes after `APPROVE_TIMEOUT_HOURS`.
 
 ## Policy safeguards built in
 - **No reused content:** every video is a new script, voice and visuals. It never downloads or re-edits other creators' videos or music.
