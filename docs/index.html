@@ -25,9 +25,12 @@ original 30–60 second educational videos and uploads them to its owner's own Y
 </ul>
 
 <h2>Why it requests Google access</h2>
-<p>Shorts Autopilot asks for one Google permission, <code>https://www.googleapis.com/auth/youtube.upload</code>,
-used only to upload approved videos to the channel of the account that signed in. It does not read your email,
-contacts, files or any other Google data.</p>
+<p>Shorts Autopilot asks for two YouTube permissions, used only on the channel of the account that signed in (the owner):</p>
+<ul>
+  <li><code>youtube.upload</code>: upload the owner's approved videos and set their thumbnails.</li>
+  <li><code>youtube.force-ssl</code>: add a caption (subtitle) track to those videos and post one comment on them as the owner.</li>
+</ul>
+<p>It does not read email, contacts, files, watch history, analytics or any other Google data, and never accesses other users' channels.</p>
 
 <h2>Who can use it</h2>
 <p>Shorts Autopilot is used only by its owner for their own channel. No account or login is needed to read this page.</p>

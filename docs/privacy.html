@@ -19,18 +19,19 @@ stored and protected, and how you can revoke access. The app is a personal tool 
 
 <h2>1. Information the app accesses</h2>
 <ul>
-  <li><strong>Google user data:</strong> with your consent, the app requests the single OAuth scope
-  <code>https://www.googleapis.com/auth/youtube.upload</code>. This lets it upload videos to the YouTube channel of the
-  account that signed in. The app does not request or read your name, email address, contacts, files, watch history,
-  analytics, comments or any other Google data.</li>
+  <li><strong>Google user data:</strong> with the owner's consent, the app requests two OAuth scopes:
+  <code>https://www.googleapis.com/auth/youtube.upload</code> (upload the owner's approved videos and set their thumbnails) and
+  <code>https://www.googleapis.com/auth/youtube.force-ssl</code> (upload a caption track to those videos and post one comment on
+  them as the owner). These are used only on the owner's own channel. The app does not request or read email address, contacts,
+  files, watch history, analytics, other comments, or any other Google data.</li>
   <li><strong>OAuth tokens:</strong> Google issues an access token and a refresh token after you consent.</li>
   <li><strong>Public data:</strong> the app reads publicly available trend information (for example, YouTube's public
   "most popular" video list) to choose video topics. This is not personal data.</li>
 </ul>
 
 <h2>2. How the information is used</h2>
-<p>The <code>youtube.upload</code> permission is used only to upload videos that the owner has generated and approved,
-together with their title, description and tags. Tokens are used only to authenticate those uploads.
+<p>These permissions are used only to upload videos that the owner has generated and approved (with their title,
+description, tags, thumbnail and caption track) and to post one comment on each of those videos. Tokens are used only to authenticate those uploads.
 Google user data is not used for advertising, profiling, sale, or training AI models.</p>
 
 <h2>3. Storage and security</h2>
