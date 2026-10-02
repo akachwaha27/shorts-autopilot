@@ -25,8 +25,10 @@ YT_CLIENT_SECRET = env("YT_CLIENT_SECRET")
 YT_REFRESH_TOKEN = env("YT_REFRESH_TOKEN")
 YT_PRIVACY = env("YT_PRIVACY", "private")            # set Variable YT_PRIVACY=public after Google approves your API audit
 
+FB_PAGE_ID = env("FB_PAGE_ID")                       # Facebook Page that gets the Reels
+FB_PAGE_TOKEN = env("FB_PAGE_TOKEN")                 # Page token from tools/get_meta_token.py (doesn't expire)
 IG_USER_ID = env("IG_USER_ID")
-IG_ACCESS_TOKEN = env("IG_ACCESS_TOKEN")             # long-lived token
+IG_ACCESS_TOKEN = env("IG_ACCESS_TOKEN") or FB_PAGE_TOKEN  # the same Page token works for Instagram
 IG_GRAPH_HOST = env("IG_GRAPH_HOST", "graph.facebook.com")
 IG_API_VERSION = env("IG_API_VERSION", "v23.0")
 
@@ -34,7 +36,11 @@ TIKTOK_ACCESS_TOKEN = env("TIKTOK_ACCESS_TOKEN")
 TIKTOK_REFRESH_TOKEN = env("TIKTOK_REFRESH_TOKEN")
 TIKTOK_CLIENT_KEY = env("TIKTOK_CLIENT_KEY")
 TIKTOK_CLIENT_SECRET = env("TIKTOK_CLIENT_SECRET")
-TIKTOK_PRIVACY = env("TIKTOK_PRIVACY", "SELF_ONLY")  # unaudited apps may only post SELF_ONLY
+# draft = video lands in your TikTok inbox; you add a trending sound and tap Post (works without TikTok's audit).
+# direct = posts straight to your profile (until TikTok audits the app this is private-only, SELF_ONLY).
+TIKTOK_MODE = env("TIKTOK_MODE", "draft")
+TIKTOK_PRIVACY = env("TIKTOK_PRIVACY", "SELF_ONLY")  # direct mode only; unaudited apps may only post SELF_ONLY
+INSTAGRAM_HASHTAGS = env("INSTAGRAM_HASHTAGS", 5, int)  # Instagram allows at most 5 hashtags per post
 
 # --- Optional AI images (free tier) instead of stock footage ---
 CF_ACCOUNT_ID = env("CF_ACCOUNT_ID")

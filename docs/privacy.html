@@ -24,7 +24,13 @@ stored and protected, and how you can revoke access. The app is a personal tool 
   <code>https://www.googleapis.com/auth/youtube.force-ssl</code> (upload a caption track to those videos and post one comment on
   them as the owner). These are used only on the owner's own channel. The app does not request or read email address, contacts,
   files, watch history, analytics, other comments, or any other Google data.</li>
-  <li><strong>OAuth tokens:</strong> Google issues an access token and a refresh token after you consent.</li>
+  <li><strong>Meta (Facebook &amp; Instagram) data:</strong> with the owner's consent, the app uses a Page access token with
+  <code>pages_show_list</code>, <code>pages_read_engagement</code>, <code>pages_manage_posts</code>, <code>instagram_basic</code> and
+  <code>instagram_content_publish</code> only to publish the owner's approved Reels to the owner's own Facebook Page and Instagram
+  professional account. It does not read messages, followers, insights or other people's data.</li>
+  <li><strong>TikTok data:</strong> with the owner's consent, the app uses <code>user.info.basic</code> and <code>video.upload</code>
+  (and optionally <code>video.publish</code>) only to send the owner's approved videos to the owner's own TikTok account.</li>
+  <li><strong>OAuth tokens:</strong> Google, Meta and TikTok issue access/refresh tokens after the owner consents.</li>
   <li><strong>Public data:</strong> the app reads publicly available trend information (for example, YouTube's public
   "most popular" video list) to choose video topics. This is not personal data.</li>
 </ul>
@@ -46,8 +52,9 @@ platforms the owner chooses to publish on (YouTube, and optionally Instagram and
 <h2>5. Retention and deletion</h2>
 <p>The token is kept only while the automation is active. To delete it, the owner removes the secret from GitHub,
 and anyone can revoke the app's access at any time at
-<a href="https://myaccount.google.com/permissions">myaccount.google.com/permissions</a>, which immediately invalidates
-the token. Requests for deletion can be sent to ak.business427@gmail.com and are handled within 30 days.</p>
+<a href="https://myaccount.google.com/permissions">myaccount.google.com/permissions</a> (Google),
+Facebook Settings &rarr; Business integrations (Meta), or TikTok Settings &rarr; Security &rarr; Manage app permissions (TikTok),
+which invalidates the token. Requests for deletion can be sent to ak.business427@gmail.com and are handled within 30 days.</p>
 
 <h2>6. Google API Services User Data Policy</h2>
 <p>Shorts Autopilot's use and transfer of information received from Google APIs adheres to the

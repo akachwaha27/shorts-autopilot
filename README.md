@@ -11,7 +11,7 @@ You tap 1–3 ideas (or ignore it: after 3h it makes the top 2 itself)
               ─► voiceover + stock clips/AI images + captions ─► 1080×1920 MP4
               ─► stored in your repo's Releases ─► preview sent to Telegram [✅ Publish] [❌ Reject]
 You tap Publish (or ignore it: after 2h it publishes itself)
-              ─► YouTube Shorts + Instagram Reels + TikTok ─► "🚀 Posted" with links
+              ─► YouTube Shorts + Facebook Reels + Instagram Reels + TikTok ─► "🚀 Posted" with links
 ```
 
 If you never touch Telegram, it still runs every day on its own. Telegram just lets you steer it.
@@ -27,7 +27,7 @@ If you never touch Telegram, it still runs every day on its own. Telegram just l
 | Visuals | Pixabay / Pexels (keys), NASA (no key, public domain, space and science scenes), Wikimedia Commons (no key, CC0/PD/CC BY only), optional Cloudflare AI images, animated gradient fallback. Source order is shuffled per video |
 | Editing | FFmpeg |
 | Storage | GitHub Releases on your repo |
-| Publishing | Official YouTube, Instagram Graph and TikTok Content Posting APIs |
+| Publishing | Official YouTube, Facebook/Instagram Graph and TikTok Content Posting APIs |
 
 **About TikTok and Instagram trends:** neither platform offers a free trends API, and scraping them breaks their terms. As a stand-in, the bot uses the most-viewed YouTube Shorts from the last 48 hours. The same short-form trends usually show up on TikTok and Reels at about the same time.
 
@@ -78,21 +78,19 @@ To see which services work, run the workflow with the command `aicheck`. The res
 - **Pixabay:** create a free account at pixabay.com, then open https://pixabay.com/api/docs/. Your key appears in the "Parameters" section. Save it as `PIXABAY_API_KEY`.
 - **Pexels (optional):** if Pexels is issuing keys again, get one at https://www.pexels.com/api/ and save it as `PEXELS_API_KEY`. When both keys are set, Pexels is tried first and Pixabay fills the gaps.
 
-### 6. Instagram Reels (optional)
-1. Switch your Instagram account to **Creator** or **Business** and link it to a **Facebook Page**.
-2. At https://developers.facebook.com, create an app (type **Business**) and add the **Instagram** product.
-3. In **Graph API Explorer**, choose your app and request these permissions: `instagram_basic`, `instagram_content_publish`, `pages_show_list`, `pages_read_engagement`. Then generate a token.
-4. Exchange it for a long-lived token using the **Access Token Debugger** ("Extend").
-5. Call `GET /me/accounts?fields=access_token,instagram_business_account`.
-   - The Page `access_token` from a long-lived user token does not expire. Use it as `IG_ACCESS_TOKEN`.
-   - `instagram_business_account.id` is `IG_USER_ID`.
+### 6. Facebook Reels + Instagram Reels (optional, one setup for both)
+1. Make a **Facebook Page** for the channel. Switch Instagram to a **Creator** account and link it to that Page (Instagram → Settings → Accounts Center).
+2. At https://developers.facebook.com, create an app (type **Business**).
+3. In **Tools → Graph API Explorer**, pick your app and click **Get User Access Token** with `pages_show_list`, `pages_read_engagement`, `pages_manage_posts`, `business_management`, `instagram_basic` and `instagram_content_publish`. Approve it for your Page and Instagram account.
+4. Run `python tools/get_meta_token.py`. Paste the App ID, App secret and that token. It prints `FB_PAGE_ID`, `FB_PAGE_TOKEN` and `IG_USER_ID`. Save all three as Secrets. The Page token doesn't expire.
 
-You don't need app review, because you're only posting to your own account.
+You don't need Meta app review, because you only post to accounts you own and you're an admin of the app. Captions are shortened per platform: Instagram gets at most 5 hashtags (its limit), and every caption keeps the footage credits and AI disclosure.
 
 ### 7. TikTok (optional)
-1. At https://developers.tiktok.com, create an app and add **Login Kit** and **Content Posting API** (with Direct Post enabled). Add the scopes `user.info.basic` and `video.publish`.
+1. At https://developers.tiktok.com, create an app and add **Login Kit** and **Content Posting API**. Add the scopes `user.info.basic` and `video.upload`. Set the Redirect URI to `https://akachwaha27.github.io/shorts-autopilot/callback.html`, and use the site's privacy and terms pages for the app's links.
 2. Run `python tools/get_tiktok_token.py`. It prints `TIKTOK_CLIENT_KEY`, `TIKTOK_CLIENT_SECRET` and `TIKTOK_REFRESH_TOKEN`. Re-run it about once a year.
-3. Until TikTok audits your app, posts can only be **private** (`SELF_ONLY`). You can make each one public in the TikTok app. Apply for the audit in the developer portal, then set the Variable `TIKTOK_PRIVACY` to `PUBLIC_TO_EVERYONE`.
+3. **Draft mode (default, `TIKTOK_MODE=draft`):** each approved video lands in your TikTok inbox. Telegram sends you the caption. In the app, add a trending sound, paste the caption, turn on the AI-generated label and post. This works without TikTok's audit, and posting natively with a trending sound tends to get more reach.
+4. **Direct mode (`TIKTOK_MODE=direct`, needs the `video.publish` scope):** posts automatically, but until TikTok audits the app, posts are private-only and your account must be private. After the audit, set `TIKTOK_PRIVACY` to `PUBLIC_TO_EVERYONE`.
 
 ### 8. AI images (optional)
 1. Create a free Cloudflare account. In the dashboard go to **AI → Workers AI** and create an API token.
@@ -106,7 +104,7 @@ In the repo, go to **Settings → Secrets and variables → Actions**.
 - `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHAT_ID`
 - `GEMINI_API_KEY`, `YOUTUBE_API_KEY`, `PIXABAY_API_KEY` (and/or `PEXELS_API_KEY`)
 - `YT_CLIENT_ID`, `YT_CLIENT_SECRET`, `YT_REFRESH_TOKEN`
-- `IG_USER_ID`, `IG_ACCESS_TOKEN`
+- `FB_PAGE_ID`, `FB_PAGE_TOKEN`, `IG_USER_ID` (`IG_ACCESS_TOKEN` only if it differs from the Page token)
 - `TIKTOK_CLIENT_KEY`, `TIKTOK_CLIENT_SECRET`, `TIKTOK_REFRESH_TOKEN`
 - `CF_ACCOUNT_ID`, `CF_API_TOKEN`
 
@@ -129,7 +127,9 @@ Any platform you leave blank is skipped.
 | `REQUIRE_APPROVAL` | `true` | Send a preview before publishing |
 | `APPROVE_TIMEOUT_HOURS` | `2` | Auto-publish after this long. `0` means always wait for you |
 | `YT_PRIVACY` | `private` | Set to `public` after the audit passes |
-| `TIKTOK_PRIVACY` | `SELF_ONLY` | Change after the TikTok audit |
+| `TIKTOK_MODE` | `draft` | `draft` (finish in the TikTok app) or `direct` |
+| `TIKTOK_PRIVACY` | `SELF_ONLY` | Direct mode only; change after the TikTok audit |
+| `TARGET_SECONDS` | `45` | Video length. Use `65` once you're close to TikTok Creator Rewards (it pays only for videos over 1 minute) |
 
 ### 10. Test it
 1. Go to **Actions → autopilot → Run workflow** and enter the command `test`. It renders one sample video and sends it to your Telegram without posting anywhere.
@@ -210,7 +210,7 @@ That's just before the lunch, after-school/work and evening peaks. One video goe
 
 | Reply | What happens |
 |---|---|
-| `publish` | Posts now to YouTube (plus Instagram/TikTok if connected) |
+| `publish` | Posts now to YouTube (plus Facebook/Instagram/TikTok if connected) |
 | `change make it funnier` | Rewrites the video using your notes, e.g. `change shorter`, `change turn it into a quiz` |
 | `redo` | Makes a brand-new version: new script, footage and voice |
 | `voice` | Keeps the script, uses a different voice and fresh footage |

@@ -117,6 +117,63 @@ def instagram(path, caption):
     return link.get("permalink", f"media id {pub['id']}"), "published"
 
 
+# ---------------- Facebook Page Reels ----------------
+def facebook(path, caption, title=""):
+    if not (config.FB_PAGE_ID and config.FB_PAGE_TOKEN):
+        return None, "skipped (not configured)"
+    g = f"https://graph.facebook.com/{config.IG_API_VERSION}"
+    tok = config.FB_PAGE_TOKEN
+    r = requests.post(f"{g}/{config.FB_PAGE_ID}/video_reels", timeout=60,
+                      data={"upload_phase": "start", "access_token": tok}).json()
+    if "video_id" not in r:
+        raise RuntimeError(f"FB start failed: {r}")
+    vid = r["video_id"]
+    with open(path, "rb") as f:
+        up = requests.post(r.get("upload_url") or f"https://rupload.facebook.com/video-upload/{config.IG_API_VERSION}/{vid}",
+                           headers={"Authorization": f"OAuth {tok}", "offset": "0",
+                                    "file_size": str(os.path.getsize(path))}, data=f, timeout=600)
+    if up.status_code >= 300:
+        raise RuntimeError(f"FB upload failed: {up.text[:200]}")
+    fin = requests.post(f"{g}/{config.FB_PAGE_ID}/video_reels", timeout=60, data={
+        "upload_phase": "finish", "video_id": vid, "video_state": "PUBLISHED",
+        "title": title[:255], "description": caption[:2200], "access_token": tok}).json()
+    if not fin.get("success"):
+        raise RuntimeError(f"FB publish failed: {fin}")
+    state = "processing"
+    for _ in range(30):
+        s = requests.get(f"{g}/{vid}", params={"fields": "status", "access_token": tok}, timeout=30).json()
+        st = (s.get("status") or {})
+        state = st.get("video_status", state)
+        if state in ("ready", "error") or (st.get("publishing_phase") or {}).get("status") == "complete":
+            break
+        time.sleep(10)
+    if state == "error":
+        raise RuntimeError(f"FB processing error: {s}")
+    return f"https://www.facebook.com/reel/{vid}", "published"
+
+
+# ---------------- Captions per platform ----------------
+def social_caption(title, description, hashtags, platform):
+    """Short caption: title, the hook paragraph, credits/disclosure (required by the footage licenses), hashtags."""
+    body, _, credits = description.partition("— Credits & disclosure —")
+    first = next((p.strip() for p in body.split("\n\n") if p.strip() and not p.strip().startswith("#")), "")
+    tags = [h if h.startswith("#") else f"#{h}" for h in hashtags]
+    if platform == "instagram":
+        tags = tags[:config.INSTAGRAM_HASHTAGS]
+    elif platform == "tiktok":
+        tags = (tags + ["#fyp"])[:5]
+    else:
+        tags = tags[:3]
+    credit_lines = [l.strip() for l in credits.strip().splitlines() if l.strip()]
+    limit = 2150
+    tail = "\n\nCredits & AI disclosure:\n" + "\n".join(credit_lines) if credit_lines else ""
+    tag_line = "\n\n" + " ".join(tags)
+    room = limit - len(title) - len(tail) - len(tag_line) - 4
+    if len(first) > room:
+        first = first[:max(room - 1, 0)].rstrip() + "…"
+    return f"{title}\n\n{first}{tail}{tag_line}"[:limit]
+
+
 # ---------------- TikTok ----------------
 def _tiktok_token():
     if config.TIKTOK_REFRESH_TOKEN and config.TIKTOK_CLIENT_KEY and config.TIKTOK_CLIENT_SECRET:
@@ -129,17 +186,33 @@ def _tiktok_token():
     return config.TIKTOK_ACCESS_TOKEN
 
 
+def _tiktok_put(url, path, size):
+    with open(path, "rb") as f:
+        up = requests.put(url, data=f, timeout=600, headers={
+            "Content-Type": "video/mp4", "Content-Length": str(size),
+            "Content-Range": f"bytes 0-{size - 1}/{size}"})
+    if up.status_code >= 300:
+        raise RuntimeError(f"TikTok upload failed: {up.status_code} {up.text[:200]}")
+
+
 def tiktok(path, caption):
     token = _tiktok_token()
     if not token:
         return None, "skipped (not configured)"
     size = os.path.getsize(path)
     hdr = {"Authorization": f"Bearer {token}", "Content-Type": "application/json; charset=UTF-8"}
+    source = {"source": "FILE_UPLOAD", "video_size": size, "chunk_size": size, "total_chunk_count": 1}
+    if config.TIKTOK_MODE != "direct":  # draft: lands in the TikTok app inbox, you finish + post it there
+        r = requests.post("https://open.tiktokapis.com/v2/post/publish/inbox/video/init/", headers=hdr,
+                          json={"source_info": source}, timeout=60).json()
+        if r.get("error", {}).get("code") not in (None, "ok"):
+            raise RuntimeError(f"TikTok draft init failed: {r}")
+        _tiktok_put(r["data"]["upload_url"], path, size)
+        return None, "draft sent to your TikTok inbox"
     post_info = {"title": caption[:2200], "privacy_level": config.TIKTOK_PRIVACY,
                  "disable_comment": False, "disable_duet": False, "disable_stitch": False,
                  "is_aigc": True}  # TikTok "AI-generated content" label
-    body = {"post_info": post_info,
-            "source_info": {"source": "FILE_UPLOAD", "video_size": size, "chunk_size": size, "total_chunk_count": 1}}
+    body = {"post_info": post_info, "source_info": source}
     r = requests.post("https://open.tiktokapis.com/v2/post/publish/video/init/", headers=hdr, json=body, timeout=60).json()
     if r.get("error", {}).get("code") not in (None, "ok") and "is_aigc" in str(r):
         post_info.pop("is_aigc")
@@ -147,12 +220,7 @@ def tiktok(path, caption):
     if r.get("error", {}).get("code") not in (None, "ok"):
         raise RuntimeError(f"TikTok init failed: {r}")
     data = r["data"]
-    with open(path, "rb") as f:
-        up = requests.put(data["upload_url"], data=f, timeout=600, headers={
-            "Content-Type": "video/mp4", "Content-Length": str(size),
-            "Content-Range": f"bytes 0-{size - 1}/{size}"})
-    if up.status_code >= 300:
-        raise RuntimeError(f"TikTok upload failed: {up.status_code} {up.text}")
+    _tiktok_put(data["upload_url"], path, size)
     status = "processing"
     for _ in range(30):
         s = requests.post("https://open.tiktokapis.com/v2/post/publish/status/fetch/", headers=hdr,
@@ -168,11 +236,12 @@ def tiktok(path, caption):
 
 def publish_all(path, title, description, hashtags, tags=(), category="24", thumb=None, srt=None, comment=None,
                 publish_at=None):
-    caption = f"{title}\n\n{description}"
+    cap = {p: social_caption(title, description, hashtags, p) for p in ("instagram", "facebook", "tiktok")}
     results = {}
     for name, fn in (("YouTube", lambda: youtube(path, title, description, list(tags) or [h.lstrip("#") for h in hashtags], category, thumb, srt, comment, publish_at)),
-                     ("Instagram", lambda: instagram(path, caption)),
-                     ("TikTok", lambda: tiktok(path, caption))):
+                     ("Instagram", lambda: instagram(path, cap["instagram"])),
+                     ("Facebook", lambda: facebook(path, cap["facebook"], title)),
+                     ("TikTok", lambda: tiktok(path, cap["tiktok"]))):
         try:
             results[name] = fn()
         except Exception as e:  # noqa: BLE001

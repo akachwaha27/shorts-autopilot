@@ -1,8 +1,8 @@
 """Run ONCE to get a TikTok refresh token (valid ~1 year; re-run yearly).
 
 Prereqs: TikTok for Developers app with Login Kit + Content Posting API,
-scopes user.info.basic and video.publish, and a Redirect URI you control
-(any https page works, e.g. https://<your-github-username>.github.io/).
+scopes user.info.basic + video.upload (draft mode; add video.publish for direct mode),
+Redirect URI: https://akachwaha27.github.io/shorts-autopilot/callback.html
 
   python tools/get_tiktok_token.py
 Open the printed URL, approve, then paste the FULL URL you were redirected to.
@@ -14,13 +14,15 @@ import requests
 
 key = input("TikTok client key: ").strip()
 secret = input("TikTok client secret: ").strip()
-redirect = input("Redirect URI (exactly as registered): ").strip()
+redirect = input("Redirect URI [https://akachwaha27.github.io/shorts-autopilot/callback.html]: ").strip() \
+    or "https://akachwaha27.github.io/shorts-autopilot/callback.html"
+scope = "user.info.basic,video.upload" + (",video.publish" if input("Also allow direct posting? (y/N): ").strip().lower() == "y" else "")
 state = secrets.token_urlsafe(8)
 url = "https://www.tiktok.com/v2/auth/authorize/?" + urllib.parse.urlencode({
-    "client_key": key, "response_type": "code", "scope": "user.info.basic,video.publish",
+    "client_key": key, "response_type": "code", "scope": scope,
     "redirect_uri": redirect, "state": state})
 print("\nOpen this URL and approve:\n", url)
-back = input("\nPaste the full redirected URL: ").strip()
+back = input("\nPaste the full URL shown on the page you land on: ").strip()
 code = urllib.parse.parse_qs(urllib.parse.urlparse(back).query)["code"][0]
 r = requests.post("https://open.tiktokapis.com/v2/oauth/token/", data={
     "client_key": key, "client_secret": secret, "code": code,

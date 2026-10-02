@@ -387,7 +387,14 @@ def do_publish(st, vid):
                      f"<b>{schedule.fmt_local(slot)}</b>. Set it in YouTube Studio → Visibility → Schedule.")
     for name, (link, status) in results.items():
         icon = "✅" if link else ("➖" if "skipped" in status else "⚠️")
+        if "draft" in status and not link:
+            icon = "📥"
         lines.append(f"{icon} {name}: {esc(link or '')} {esc(status)}")
+    if "draft" in str((results.get("TikTok") or ("", ""))[1]):
+        tk = publish.social_caption(pkg["title"], desc, pkg["hashtags"], "tiktok")
+        lines.append("\n📱 <b>Finish on TikTok</b> (1 min): open TikTok → inbox notification → Edit → add a "
+                     "trending sound at low volume → paste the caption below → More options → turn on "
+                     f"<b>AI-generated content</b> → Post.\n<code>{esc(tk[:900])}</code>")
     yt_link = (results.get("YouTube") or (None, ""))[0]
     if yt_link and pkg.get("pinned_comment") and "comment ✅" in str(results["YouTube"][1]):
         vid_id = yt_link.rsplit("/", 1)[-1]
