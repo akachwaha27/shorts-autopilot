@@ -1,10 +1,10 @@
 """Permanent archive for the dashboard / Excel sync on your PC.
 
 state.json is trimmed to stay small (last 7 idea lists, last 30 videos). This module copies
-everything into library/ and never deletes it:
-  library/videos.json         one record per video: content, links, status, YouTube stats, latest comments
-  library/ideas.json          every daily idea list, with which ideas you picked
-  library/stats_history.json  daily channel totals (views, likes, comments) for trend charts
+everything into archive/ and never deletes it:
+  archive/videos.json         one record per video: content, links, status, YouTube stats, latest comments
+  archive/ideas.json          every daily idea list, with which ideas you picked
+  archive/stats_history.json  daily channel totals (views, likes, comments) for trend charts
 """
 import json
 import os

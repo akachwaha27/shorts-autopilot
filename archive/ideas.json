@@ -1,0 +1,53 @@
+{
+ "2026-10-02": {
+  "date": "2026-10-02",
+  "ideas": [
+   {
+    "angle": "Explain the science of cabin pressure physics and why carbonated beverages behave bizarrely in aircraft and deep-sea vessels.",
+    "format": "explainer",
+    "picked": true,
+    "rank": 1,
+    "title": "Why Soda Cans Explode at 30,000 Feet",
+    "trend_source": "mountain dew pitch black",
+    "video_id": "2026-10-02-1",
+    "virality_score": 9,
+    "why": "High-curiosity everyday science fact with strong visual hook potential and an unexpected conclusion that drives rewatches."
+   },
+   {
+    "angle": "Count down the 5 most insane engineering marvels installed on cruise ships, ranked by verifiable G-force and physical height over water.",
+    "format": "ranking",
+    "picked": true,
+    "rank": 2,
+    "title": "Top 5 Most Extreme Theme Park Rides on Giant Ships",
+    "trend_source": "cruise industry",
+    "video_id": "2026-10-02-2",
+    "virality_score": 9,
+    "why": "Visually stunning mega-engineering topic that appeals broadly to US travel and tech fans, driving high completion rates."
+   },
+   {
+    "angle": "Count down the 5 deepest spots in the world's oceans ranked precisely by measured depth in meters, featuring bizarre physical pressure facts.",
+    "format": "ranking",
+    "picked": true,
+    "rank": 3,
+    "title": "Top 5 Deepest Ocean Trenches on Earth",
+    "trend_source": "evergreen",
+    "video_id": "2026-10-02-3",
+    "virality_score": 8,
+    "why": "Deep-sea nature and ocean mystery content consistently hits massive swipe-through and retention metrics on US Shorts."
+   },
+   {
+    "angle": "Demonstrate three practical, verified travel hacks for packing and airport navigation that save time and avoid luggage fees.",
+    "format": "tips",
+    "picked": false,
+    "rank": 4,
+    "title": "3 Smart Travel Hacks Airlines Don't Advertise",
+    "trend_source": "cruise industry",
+    "video_id": null,
+    "virality_score": 7,
+    "why": "High utility drives high saves and shares among general travel-enthusiast audiences."
+   }
+  ],
+  "sent_at": "2026-10-02T17:00:12.299716+00:00",
+  "status": "waiting"
+ }
+}

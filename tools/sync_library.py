@@ -127,7 +127,7 @@ def safe_name(s, limit=90):
 
 
 def fetch_json(session, repo, name):
-    url = f"https://raw.githubusercontent.com/{repo}/main/library/{name}.json"
+    url = f"https://raw.githubusercontent.com/{repo}/main/archive/{name}.json"
     r = session.get(url, params={"t": int(time.time())}, timeout=60)
     if r.status_code == 404:
         return {}
