@@ -98,6 +98,8 @@ def handle_updates(st):
                 telegram.send("📋 <b>Recent videos</b>\n" + ("\n".join(rows) or "none yet"))
             elif text in ("/now", "/trends"):
                 cmd_trends(st)
+            elif re.match(r"^/?(publish|approve|post|yes|ok|reject|no|skip)\b", text):
+                decide_by_text(st, text, msg)
             elif re.fullmatch(r"[\d,\s]+", text):
                 bid = latest_waiting(st)
                 if not bid:
@@ -106,7 +108,36 @@ def handle_updates(st):
                     if bid:
                         queue_topic(st, bid, int(n) - 1)
             else:
-                telegram.send("Reply with topic numbers like <code>1,3</code>, or /status, or /now.")
+                telegram.send("Reply with topic numbers like <code>1,3</code>, <b>publish</b> / <b>reject</b> "
+                              "for a preview, /status, or /now.")
+
+
+def decide_by_text(st, text, msg):
+    """'publish' approves the waiting preview(s); reply to a preview to target that one.
+    'publish all' approves every waiting video; 'reject' does the opposite."""
+    approve = re.match(r"^/?(publish|approve|post|yes|ok)\b", text) is not None
+    waiting = [k for k, v in sorted(st["videos"].items()) if v["status"] == "awaiting_approval"]
+    if not waiting:
+        telegram.send("Nothing is waiting for approval right now. /status shows recent videos.")
+        return
+    reply_id = (msg.get("reply_to_message") or {}).get("message_id")
+    if reply_id:
+        targets = [k for k in waiting if st["videos"][k].get("tg_msg") == reply_id]
+    elif "all" in text or len(waiting) == 1:
+        targets = waiting
+    else:
+        targets = [waiting[-1]]  # most recent preview
+        others = len(waiting) - 1
+        telegram.send(f"Applying to the latest preview. {others} more waiting: reply to a video, "
+                      f"or send <b>{'publish' if approve else 'reject'} all</b>.")
+    if not targets:
+        telegram.send("That message isn't a video waiting for approval.")
+        return
+    for k in targets:
+        v = st["videos"][k]
+        v["status"] = "approved" if approve else "rejected"
+        v["updated"] = state.iso()
+        telegram.send(("👍 Publishing: " if approve else "🗑 Rejected: ") + esc(v["package"]["title"]))
 
 
 def auto_select(st):
@@ -145,8 +176,11 @@ def generate(st, vid):
         v["status"] = "awaiting_approval"
         auto = (f"\nAuto-publishes in {config.APPROVE_TIMEOUT_HOURS:g}h if you don't respond."
                 if config.APPROVE_TIMEOUT_HOURS > 0 else "")
-        telegram.send_video(path, f"🎥 <b>{esc(pkg['title'])}</b>\n{esc(' '.join(pkg['hashtags']))}{auto}",
-                            [[("✅ Publish", f"ok:{vid}"), ("❌ Reject", f"no:{vid}")]])
+        sent = telegram.send_video(
+            path, f"🎥 <b>{esc(pkg['title'])}</b>\n{esc(' '.join(pkg['hashtags']))}\n\n"
+                  f"Reply <b>publish</b> or <b>reject</b> (or tap a button).{auto}",
+            [[("✅ Publish", f"ok:{vid}"), ("❌ Reject", f"no:{vid}")]])
+        v["tg_msg"] = sent.get("message_id")
     else:
         v["status"] = "approved"
 

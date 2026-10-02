@@ -128,7 +128,7 @@ Any platform you leave blank is skipped.
 - Tap 🎬 buttons, or reply `1,3`, to pick topics.
 - `/now` fetches fresh trends immediately.
 - `/status` lists recent videos.
-- Use ✅ / ❌ on a preview to publish or reject it.
+- Reply **publish** or **reject** to a preview (or tap ✅ / ❌). With several previews waiting, reply directly to the video you mean, or send `publish all`.
 
 The bot replies within about 20 minutes, which is the poll interval. It isn't instant chat.
 
