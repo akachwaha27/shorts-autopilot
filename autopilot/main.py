@@ -257,7 +257,9 @@ def act(st, vid, action, arg):
             return
         desc = writer.build_description(pkg, v.get("credits", []))
         telegram.send(f"ℹ️ <b>Video #{n}</b> · {fmt_label(pkg.get('format'))} · 🎙 {esc(pkg.get('voice', ''))}\n\n"
-                      f"<b>Title:</b> {esc(pkg['title'])}\n<b>Tags:</b> {esc(', '.join(pkg.get('tags', [])))}\n\n"
+                      f"<b>Title:</b> {esc(pkg['title'])}\n<b>Main keyword:</b> {esc(pkg.get('primary_keyword', ''))}\n"
+                      f"<b>Tags:</b> {esc(', '.join(pkg.get('tags', [])))}\n"
+                      f"<b>Pinned comment:</b> {esc(pkg.get('pinned_comment', ''))}\n\n"
                       f"<b>Description:</b>\n{esc(desc)[:3000]}")
 
 
@@ -335,6 +337,11 @@ def generate(st, vid):
         telegram.send(f"🛑 Dropped video #{num(vid)} <b>{esc(v['topic']['title'])}</b>: the safety review flagged "
                       f"{esc('; '.join(map(str, issues))[:300])}. Pick another idea, or /now for new ones.")
         return
+    try:
+        from . import seo
+        pkg["tags"] = seo.build_tags(pkg)
+    except Exception as e:  # noqa: BLE001
+        print("tag optimizer failed:", e)
     if v["topic"]["title"] not in st["history"]:
         st["history"].append(v["topic"]["title"])
     render_and_preview(st, vid, pkg)
@@ -359,12 +366,17 @@ def do_publish(st, vid):
             f.write(v["srt"])
     desc = writer.build_description(pkg, v.get("credits", []), human_reviewed=v.get("approved_by") == "you")
     results = publish.publish_all(path, pkg["title"], desc, pkg["hashtags"], pkg.get("tags", []),
-                                  pkg.get("category", "24"), thumb, srt_path)
+                                  pkg.get("category", "24"), thumb, srt_path, pkg.get("pinned_comment"))
     v["status"], v["results"], v["updated"] = "published", {k: list(r) for k, r in results.items()}, state.iso()
     lines = [f"🚀 <b>Video #{num(vid)} posted:</b> {esc(pkg['title'])}"]
     for name, (link, status) in results.items():
         icon = "✅" if link else ("➖" if "skipped" in status else "⚠️")
         lines.append(f"{icon} {name}: {esc(link or '')} {esc(status)}")
+    yt_link = (results.get("YouTube") or (None, ""))[0]
+    if yt_link and pkg.get("pinned_comment") and "comment ✅" in str(results["YouTube"][1]):
+        vid_id = yt_link.rsplit("/", 1)[-1]
+        lines.append(f"\n📌 I posted your expert comment. YouTube doesn't allow pinning by API, so tap once to pin it:\n"
+                     f"https://studio.youtube.com/video/{vid_id}/comments\n<i>{esc(pkg['pinned_comment'])}</i>")
     telegram.send("\n".join(lines))
 
 
@@ -463,6 +475,8 @@ def cmd_test(args):
     topic = {"title": " ".join(args[1:]) or SAMPLES[fmt], "angle": "", "format": fmt}
     pkg = writer.write_package(topic)
     print("Review:", writer.review(pkg))
+    from . import seo
+    pkg["tags"] = seo.build_tags(pkg)
     path, credits = media.make_video(pkg, os.path.join(config.WORK_DIR, "test"))
     desc = writer.build_description(pkg, credits)
     print(pkg["title"], "\n", desc, "\n->", path)
@@ -471,7 +485,9 @@ def cmd_test(args):
         thumb = os.path.join(config.WORK_DIR, "test", "thumbnail.jpg")
         if os.path.exists(thumb):
             telegram.send_photo(thumb, "🖼 Thumbnail")
-        telegram.send(f"<b>Title:</b> {esc(pkg['title'])}\n<b>Tags:</b> {esc(', '.join(pkg.get('tags', [])))}\n\n"
+        telegram.send(f"<b>Title:</b> {esc(pkg['title'])}\n<b>Main keyword:</b> {esc(pkg.get('primary_keyword', ''))}\n"
+                      f"<b>Tags ({len(', '.join(pkg.get('tags', [])))} chars):</b> {esc(', '.join(pkg.get('tags', [])))}\n"
+                      f"<b>Pinned comment:</b> {esc(pkg.get('pinned_comment', ''))}\n\n"
                       f"<b>Description preview</b>\n\n{esc(desc)[:3200]}")
 
 

@@ -166,6 +166,12 @@ Each day's 5 ideas mix at least 4 formats. When picking, add a letter to change 
   - Uploading captions needs the `youtube.force-ssl` permission. Re-run `tools/get_youtube_token.py` once and replace `YT_REFRESH_TOKEN`.
 - The "🚀 posted" message shows `thumbnail ✅/⚠️` and `subtitles ✅/⚠️`, with the reason if YouTube refused.
 
+### Tags and pinned comment
+- **Tags:** each video gets a main search keyword that appears in the title and the description's first line. Tags are then built from YouTube's own search suggestions (real searches) for that keyword. They are ranked by how closely they match the title and description, and fill about 450–490 of the 500 allowed characters.
+  - Tags that would be misleading are removed. That means any tag with a topic word not in the video, such as another game, a brand or a celebrity.
+  - This follows what tag scorers like vidIQ reward, but their exact score isn't available to the bot. Check a few videos in the vidIQ extension and tell me what it flags.
+- **Pinned comment:** an expert-style first comment (a bonus fact, a "which would you pick", or a challenge) is posted automatically. YouTube's API can't pin comments, so the "posted" message gives you a one-tap Studio link to pin it. This needs the same re-login as subtitles.
+
 ### Monetization and YouTube compliance
 - **Original content:** every video has an original script, AI voice and licensed footage. Nothing is reuploaded.
 - **Labels:** AI content is labeled (`containsSyntheticMedia`), every source is credited, and fiction says it is fiction.

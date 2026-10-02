@@ -47,12 +47,18 @@ FOR EVERY SCENE ALSO GIVE:
 - "image_prompt": vivid AI image prompt, vertical 9:16, no text, no logos, no real people.
 
 METADATA (SEO for YouTube search and suggested):
-- "title": max 60 characters, main keyword in the first 3 words, curiosity-driven but honest
+- "primary_keyword": the exact 2-4 word phrase people type into YouTube search for this video (lowercase).
+- "title": max 60 characters, contains the primary_keyword (ideally in the first 3 words), curiosity-driven but honest
   (the video must deliver what the title promises). No ALL CAPS words. At most one emoji.
-- "description": line 1 = keyword-rich one-sentence summary (max 150 chars); line 2 = one more sentence of context.
+- "description": line 1 = one-sentence summary that contains the primary_keyword (max 150 chars);
+  line 2 = one more sentence using 1-2 related search phrases naturally (no keyword stuffing).
 - "thumbnail_text": 2-4 punchy words for the thumbnail (different from the title, high curiosity, no clickbait lies).
 - "hashtags": exactly 4: "#shorts", one broad topic hashtag, one niche hashtag, and "{{format_tag}}".
-- "tags": 10-15 search keywords/phrases people would type to find this (lowercase, no #).
+- "tags": 10-15 search keywords/phrases people would type to find this (lowercase, no #), most specific first,
+  each clearly about this video (no unrelated popular tags, no people's or brand names).
+- "pinned_comment": an expert creator's first comment (max 220 chars) that sparks replies: a bonus fact, a
+  "which one would you pick" choice, or a challenge tied to the video. Friendly, no links, no begging for
+  likes/subs, no spoilers for quizzes before people answer, at most 1 emoji.
 - "key_facts": every factual claim made (empty list for pure fiction)."""
 
 STRUCTURES = {
@@ -103,8 +109,8 @@ Language: {config.LANGUAGE}.
 {RETENTION_RULES.replace('{format_tag}', info['tag'])}
 
 Return JSON:
-{{"title": "...", "hook_text": "...", "thumbnail_text": "...", "description": "...", "hashtags": ["#shorts", "...", "...", "{info['tag']}"],
-  "tags": ["..."], "scenes": [{{"text": "narration", "badge": "", "label": "",
+{{"primary_keyword": "...", "title": "...", "hook_text": "...", "thumbnail_text": "...", "description": "...", "hashtags": ["#shorts", "...", "...", "{info['tag']}"],
+  "tags": ["..."], "pinned_comment": "...", "scenes": [{{"text": "narration", "badge": "", "label": "",
   "stock_queries": ["...", "..."], "image_prompt": "..."}}], "key_facts": ["..."]}}"""
     pkg = llm.ask_json(prompt, temperature=0.8 if fmt in ("story", "funny") else 0.7)
     pkg["format"] = fmt
@@ -140,6 +146,8 @@ def _normalize(pkg, fmt):
     pkg["hashtags"] = list(dict.fromkeys(tags))[:5]
     pkg["tags"] = [str(t).lstrip("#").strip() for t in pkg.get("tags", []) if t][:15]
     pkg["hook_text"] = str(pkg.get("hook_text") or "").strip()[:40]
+    pkg["primary_keyword"] = str(pkg.get("primary_keyword") or "").lower().strip()[:60]
+    pkg["pinned_comment"] = str(pkg.get("pinned_comment") or "").strip()[:500]
     pkg["thumbnail_text"] = str(pkg.get("thumbnail_text") or pkg["hook_text"]).strip()[:40]
     pkg["title"] = str(pkg.get("title", "")).strip()[:95]
     if fmt == "story" and "fictional" not in pkg.get("description", "").lower():

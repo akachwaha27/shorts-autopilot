@@ -12,15 +12,16 @@ def _yt_tags(tags):
     """YouTube allows ~500 characters of tags in total."""
     out, total = [], 0
     for t in dict.fromkeys(t.lstrip("#").strip() for t in tags if t):
-        if total + len(t) + 2 > 480:
+        cost = len(t) + (2 if " " in t else 0) + 1  # YouTube counts quotes on multi-word tags + comma
+        if total + cost > 495:
             break
         out.append(t)
-        total += len(t) + 2
+        total += cost
     return out
 
 
 
-def youtube(path, title, description, tags, category="24", thumb=None, srt=None):
+def youtube(path, title, description, tags, category="24", thumb=None, srt=None, comment=None):
     if not (config.YT_CLIENT_ID and config.YT_CLIENT_SECRET and config.YT_REFRESH_TOKEN):
         return None, "skipped (not configured)"
     from google.oauth2.credentials import Credentials
@@ -69,6 +70,13 @@ def youtube(path, title, description, tags, category="24", thumb=None, srt=None)
             notes.append("subtitles ✅")
         except HttpError as e:
             notes.append(f"subtitles ⚠️ {why(e)}")
+    if comment:
+        try:
+            yt.commentThreads().insert(part="snippet", body={"snippet": {"videoId": vid, "topLevelComment": {
+                "snippet": {"textOriginal": comment[:500]}}}}).execute()
+            notes.append("comment ✅")
+        except HttpError as e:
+            notes.append(f"comment ⚠️ {why(e)}")
     return f"https://youtube.com/shorts/{vid}", " · ".join(notes)
 
 
@@ -154,10 +162,10 @@ def tiktok(path, caption):
     return "https://www.tiktok.com/ (check your profile)", f"{status}, privacy={config.TIKTOK_PRIVACY}"
 
 
-def publish_all(path, title, description, hashtags, tags=(), category="24", thumb=None, srt=None):
+def publish_all(path, title, description, hashtags, tags=(), category="24", thumb=None, srt=None, comment=None):
     caption = f"{title}\n\n{description}"
     results = {}
-    for name, fn in (("YouTube", lambda: youtube(path, title, description, list(tags) + list(hashtags), category, thumb, srt)),
+    for name, fn in (("YouTube", lambda: youtube(path, title, description, list(tags) or [h.lstrip("#") for h in hashtags], category, thumb, srt, comment)),
                      ("Instagram", lambda: instagram(path, caption)),
                      ("TikTok", lambda: tiktok(path, caption))):
         try:
