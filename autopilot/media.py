@@ -120,6 +120,41 @@ def pexels_photo(query, path, used):
     return None
 
 
+def _pixabay(path, params):
+    r = requests.get(f"https://pixabay.com/api/{path}", timeout=30,
+                     params={"key": config.PIXABAY_API_KEY, "safesearch": "true", "per_page": 20, **params})
+    r.raise_for_status()
+    return r.json()
+
+
+def pixabay_video(query, path, used):
+    data = _pixabay("videos/", {"q": query[:100]})
+    hits = sorted(data.get("hits", []), key=lambda h: h["videos"].get("large", {}).get("height", 0) < h["videos"].get("large", {}).get("width", 1))
+    for v in hits:
+        key = f"pxb{v['id']}"
+        if key in used:
+            continue
+        files = [f for f in (v["videos"].get(s) for s in ("medium", "large", "small")) if f and f.get("url")]
+        if not files:
+            continue
+        used.add(key)
+        _download(files[0]["url"], path)
+        return {"kind": "video", "path": path, "credit": f'{v["user"]} (Pixabay) {v["pageURL"]}'}
+    return None
+
+
+def pixabay_photo(query, path, used):
+    data = _pixabay("", {"q": query[:100], "image_type": "photo", "orientation": "vertical"})
+    for p in data.get("hits", []):
+        key = f"pxb{p['id']}"
+        if key in used:
+            continue
+        used.add(key)
+        _download(p["largeImageURL"], path)
+        return {"kind": "image", "path": path, "credit": f'{p["user"]} (Pixabay) {p["pageURL"]}'}
+    return None
+
+
 def ai_image(prompt, path):
     url = (f"https://api.cloudflare.com/client/v4/accounts/{config.CF_ACCOUNT_ID}"
            "/ai/run/@cf/black-forest-labs/flux-1-schnell")
@@ -137,10 +172,16 @@ def get_visual(scene, i, out_dir, used):
     attempts = []
     if use_ai:
         attempts.append(lambda: ai_image(scene["image_prompt"], f"{out_dir}/s{i}.png"))
+    q = scene["stock_query"]
     if config.PEXELS_API_KEY:
-        attempts += [lambda: pexels_video(scene["stock_query"], f"{out_dir}/s{i}.mp4", used),
-                     lambda: pexels_photo(scene["stock_query"], f"{out_dir}/s{i}.jpg", used),
-                     lambda: pexels_video(scene["stock_query"].split()[0], f"{out_dir}/s{i}.mp4", used)]
+        attempts += [lambda: pexels_video(q, f"{out_dir}/s{i}.mp4", used),
+                     lambda: pexels_photo(q, f"{out_dir}/s{i}.jpg", used)]
+    if config.PIXABAY_API_KEY:
+        attempts += [lambda: pixabay_video(q, f"{out_dir}/s{i}.mp4", used),
+                     lambda: pixabay_photo(q, f"{out_dir}/s{i}.jpg", used),
+                     lambda: pixabay_video(q.split()[0], f"{out_dir}/s{i}.mp4", used)]
+    if config.PEXELS_API_KEY:
+        attempts.append(lambda: pexels_video(q.split()[0], f"{out_dir}/s{i}.mp4", used))
     if config.CF_ACCOUNT_ID and config.CF_API_TOKEN and not use_ai:
         attempts.append(lambda: ai_image(scene["image_prompt"], f"{out_dir}/s{i}.png"))
     for fn in attempts:
@@ -215,9 +256,9 @@ def make_video(pkg, out_dir):
             "-c:a", "aac", "-b:a", "160k", "-ar", "44100", "-t", f"{total:.2f}", "-movflags", "+faststart", final]
     run(cmd)
 
-    stock = [c for c in credits if "Pexels" in c]
-    other = [c for c in credits if "Pexels" not in c]
-    credit_lines = (["Stock footage/photos (Pexels License): " + "; ".join(stock)] if stock else []) + other
+    stock = [c for c in credits if "(Pexels)" in c or "(Pixabay)" in c]
+    other = [c for c in credits if c not in stock]
+    credit_lines = (["Stock footage/photos (Pexels/Pixabay Content License): " + "; ".join(stock)] if stock else []) + other
     with open(os.path.join(out_dir, "credits.json"), "w") as f:
         json.dump(credit_lines, f)
     return final, credit_lines

@@ -24,7 +24,7 @@ If you never touch Telegram, it still runs every day on its own. Telegram just l
 | Trends | Google Trends RSS (no key), YouTube Data API (free quota) |
 | Script, safety review, titles, hashtags | Google Gemini API, free tier |
 | Voice | edge-tts (Microsoft neural voices) |
-| Visuals | Pexels stock video/photos (free license). Optional: FLUX AI images on Cloudflare Workers AI free tier |
+| Visuals | Pixabay or Pexels stock video/photos (free license). Optional: FLUX AI images on Cloudflare Workers AI free tier |
 | Editing | FFmpeg |
 | Storage | GitHub Releases on your repo |
 | Publishing | Official YouTube, Instagram Graph and TikTok Content Posting APIs |
@@ -64,8 +64,9 @@ Go to https://aistudio.google.com, click **Get API key**, and use it as `GEMINI_
    - Submit the free audit form: https://support.google.com/youtube/contact/yt_api_form
    - After approval, set `YT_PRIVACY` to `public`.
 
-### 5. Pexels (stock footage)
-Get a free key at https://www.pexels.com/api/ and use it as `PEXELS_API_KEY`.
+### 5. Stock footage (Pixabay and/or Pexels)
+- **Pixabay:** create a free account at pixabay.com, then open https://pixabay.com/api/docs/. Your key appears in the "Parameters" section. Save it as `PIXABAY_API_KEY`.
+- **Pexels (optional):** if Pexels is issuing keys again, get one at https://www.pexels.com/api/ and save it as `PEXELS_API_KEY`. When both keys are set, Pexels is tried first and Pixabay fills the gaps.
 
 ### 6. Instagram Reels (optional)
 1. Switch your Instagram account to **Creator** or **Business** and link it to a **Facebook Page**.
@@ -93,7 +94,7 @@ In the repo, go to **Settings → Secrets and variables → Actions**.
 
 **Secrets:**
 - `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHAT_ID`
-- `GEMINI_API_KEY`, `YOUTUBE_API_KEY`, `PEXELS_API_KEY`
+- `GEMINI_API_KEY`, `YOUTUBE_API_KEY`, `PIXABAY_API_KEY` (and/or `PEXELS_API_KEY`)
 - `YT_CLIENT_ID`, `YT_CLIENT_SECRET`, `YT_REFRESH_TOKEN`
 - `IG_USER_ID`, `IG_ACCESS_TOKEN`
 - `TIKTOK_CLIENT_KEY`, `TIKTOK_CLIENT_SECRET`, `TIKTOK_REFRESH_TOKEN`
@@ -140,7 +141,7 @@ The bot replies within about 20 minutes, which is the poll interval. It isn't in
   - YouTube `containsSyntheticMedia = true`
   - TikTok `is_aigc` label
   - A credits and AI disclosure block in every description
-- **Credits:** Pexels creators are named with links, and the AI voice, AI images and any music are listed.
+- **Credits:** Pixabay/Pexels creators are named with links, and the AI voice, AI images and any music are listed.
 - **Honest metadata:** titles are reviewed for clickbait, with 3–5 relevant hashtags only.
 - **Music:** off by default. Only royalty-free tracks that you drop into `assets/music/` are ever used.
 
@@ -148,5 +149,5 @@ Fully automatic AI channels can still be judged "mass-produced" by YouTube's mon
 
 ## Good to know
 - GitHub pauses scheduled workflows after 60 days with no repo activity. The bot's daily state commits normally prevent this; if it ever pauses, click **Enable workflow**.
-- Free-tier limits (Gemini, Cloudflare, Pexels) change over time. 2–3 videos a day sits well inside them today.
+- Free-tier limits (Gemini, Cloudflare, Pixabay, Pexels) change over time. 2–3 videos a day sits well inside them today.
 - To change behavior, edit the prompts in `autopilot/writer.py` (script style) and `autopilot/trends.py` (topic choice).

@@ -16,7 +16,8 @@ TELEGRAM_BOT_TOKEN = env("TELEGRAM_BOT_TOKEN")
 TELEGRAM_CHAT_ID = env("TELEGRAM_CHAT_ID")          # your personal chat id
 GEMINI_API_KEY = env("GEMINI_API_KEY")
 YOUTUBE_API_KEY = env("YOUTUBE_API_KEY")             # for reading trends
-PEXELS_API_KEY = env("PEXELS_API_KEY")               # free stock video/photos
+PEXELS_API_KEY = env("PEXELS_API_KEY")               # free stock video/photos (optional)
+PIXABAY_API_KEY = env("PIXABAY_API_KEY")             # free stock video/photos (optional)
 
 # --- Publishing (any you leave blank is skipped) ---
 YT_CLIENT_ID = env("YT_CLIENT_ID")
