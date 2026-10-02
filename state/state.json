@@ -1,5 +1,5 @@
 {
-  "tg_offset": 40455499,
+  "tg_offset": 40455508,
   "batches": {
     "2026-10-02": {
       "topics": [
@@ -37,86 +37,182 @@
         }
       ],
       "sent_at": "2026-10-02T17:00:12.299716+00:00",
-      "selected": [],
+      "selected": [
+        0,
+        1,
+        2
+      ],
       "status": "waiting"
     }
   },
   "videos": {
     "2026-10-02-1": {
       "topic": {
-        "title": "The Insane Sound Tech Inside the Vegas Sphere",
-        "angle": "Explaining how 167,000 hidden speakers use beamforming acoustics to deliver completely different audio tracks to adjacent seats.",
-        "trend_source": "metallica sphere",
-        "virality_score": 9.0,
-        "why": "The Sphere continues to draw massive visual fascination, and the counterintuitive physics of directed soundwaves sparks immediate wonder and high re-watch rates."
+        "title": "Why Soda Cans Explode at 30,000 Feet",
+        "angle": "Explain the science of cabin pressure physics and why carbonated beverages behave bizarrely in aircraft and deep-sea vessels.",
+        "format": "explainer",
+        "trend_source": "mountain dew pitch black",
+        "virality_score": 9,
+        "why": "High-curiosity everyday science fact with strong visual hook potential and an unexpected conclusion that drives rewatches."
       },
       "status": "published",
       "by": "you",
-      "updated": "2026-10-02T13:43:56.070470+00:00",
+      "updated": "2026-10-02T18:47:00.709107+00:00",
+      "redos": 0,
       "package": {
-        "title": "How the Vegas Sphere sends different audio to every seat",
-        "description": "Discover the hidden acoustic technology inside the Vegas Sphere. Learn how 167,000 speakers use beamforming to deliver unique audio tracks to adjacent seats.",
+        "primary_keyword": "cabin pressure physics",
+        "title": "Why Soda Cans Explode at 30,000 Feet",
+        "hook_text": "Why soda explodes in flight",
+        "thumbnail_text": "Soda Explodes!",
+        "description": "Discover cabin pressure physics and why soda cans explode at high altitudes or deep underwater.",
         "hashtags": [
           "#shorts",
-          "#sounddesign",
-          "#audio",
-          "#technology"
+          "#science",
+          "#cabinpressure",
+          "#didyouknow"
+        ],
+        "tags": [
+          "cabin pressure physics",
+          "airplane cabin pressure explained",
+          "airplane cabin pressure",
+          "cabin pressure explained",
+          "altitude science",
+          "soda can explodes",
+          "carbonated beverages",
+          "deep sea pressure",
+          "gas pressure science",
+          "airplane science facts",
+          "why do soda cans explode",
+          "carbonated beverages physics",
+          "soda can blowing up",
+          "physics explained",
+          "how pressure works",
+          "science experiments",
+          "atmospheric pressure"
+        ],
+        "pinned_comment": "Have you ever had a can pop open loudly on a plane? Tell us about your messy altitude experiences below!",
+        "key_facts": [
+          "Airplane cabins are pressurized to a lower pressure than sea level, causing gas inside sealed containers to expand.",
+          "Deep-sea environments have extreme high pressure that has the opposite effect on sealed containers."
         ],
         "scenes": [
           {
-            "text": "Did you know you can sit next to someone in the Vegas Sphere and hear a completely different language?",
-            "stock_query": "concert arena lights",
-            "image_prompt": "Vertical 9:16 image of a massive glowing futuristic concert venue interior, vibrant neon lighting, no text, no people."
+            "text": "Ever wonder why your soda can feels rock solid on an airplane?",
+            "badge": "SURPRISE",
+            "label": "PRESSURE",
+            "stock_queries": [
+              "soda can airplane",
+              "opened carbonated drink"
+            ],
+            "image_prompt": "Vertical 9:16 shot of a cold soda can on an airplane tray table, cinematic lighting, no people, no text",
+            "stock_query": "soda can airplane"
           },
           {
-            "text": "It sounds impossible, but it is all thanks to a hidden wall of one hundred sixty-seven thousand speakers.",
-            "stock_query": "speaker array wall",
-            "image_prompt": "Vertical 9:16 image of a massive wall covered in acoustic speaker panels, high-tech engineering, no text."
+            "text": "It all comes down to cabin pressure physics at thirty thousand feet.",
+            "badge": "SCIENCE",
+            "label": "30,000 FT",
+            "stock_queries": [
+              "airplane window clouds",
+              "altitude flight view"
+            ],
+            "image_prompt": "Vertical 9:16 view from an airplane window high above white clouds, bright daylight, no text",
+            "stock_query": "airplane window clouds"
           },
           {
-            "text": "Behind the venue's massive LED screen, these speakers are arranged in a massive curved array.",
-            "stock_query": "led screen grid",
-            "image_prompt": "Vertical 9:16 image of high-resolution LED display panels glowing from behind a translucent mesh, no text."
+            "text": "Planes mimic an altitude of about eight thousand feet, not sea level.",
+            "badge": "FACT",
+            "label": "8,000 FT",
+            "stock_queries": [
+              "airplane cabin interior",
+              "flight passengers blurry"
+            ],
+            "image_prompt": "Vertical 9:16 interior of a modern passenger aircraft cabin with soft overhead lighting, no faces, no text",
+            "stock_query": "airplane cabin interior"
           },
           {
-            "text": "They use advanced audio technology called beamforming to direct sound waves with pinpoint accuracy.",
-            "stock_query": "sound waves graphic",
-            "image_prompt": "Vertical 9:16 image of glowing blue sound wave lines propagating through space, abstract tech, no text."
+            "text": "That lower air pressure outside causes the trapped gas inside to expand.",
+            "badge": "PHYSICS",
+            "label": "GAS EXPANSION",
+            "stock_queries": [
+              "fizzy bubbles macro",
+              "carbonated drink fizzing"
+            ],
+            "image_prompt": "Vertical 9:16 macro shot of fast rising carbonation bubbles in a clear glass, vibrant colors, no text",
+            "stock_query": "fizzy bubbles macro"
           },
           {
-            "text": "Instead of bouncing around the room like a normal arena, the sound goes straight to your specific seat.",
-            "stock_query": "empty stadium seats",
-            "image_prompt": "Vertical 9:16 image of modern tiered auditorium seating in soft moody lighting, no text, no people."
+            "text": "The metal walls stretch, turning your drink into a ticking time bomb.",
+            "badge": "WARNING",
+            "label": "STRESS",
+            "stock_queries": [
+              "metal surface texture",
+              "cracked aluminum"
+            ],
+            "image_prompt": "Vertical 9:16 abstract close-up of brushed aluminum metal under intense studio light, no text",
+            "stock_query": "metal surface texture"
           },
           {
-            "text": "This means multiple audio tracks can play simultaneously across the room without mixing together.",
-            "stock_query": "audio mixing console",
-            "image_prompt": "Vertical 9:16 image of a futuristic digital sound mixing board with glowing faders and dials, no text."
+            "text": "Deep sea vessels face the exact opposite crushing problem underwater.",
+            "badge": "EXTREME",
+            "label": "OCEAN DEPTH",
+            "stock_queries": [
+              "deep ocean blue",
+              "underwater pressure"
+            ],
+            "image_prompt": "Vertical 9:16 deep ocean water with dark blue tones and sun rays filtering down, no people, no text",
+            "stock_query": "deep ocean blue"
           },
           {
-            "text": "Follow for more amazing engineering facts.",
-            "stock_query": "futuristic portal",
-            "image_prompt": "Vertical 9:16 image of a glowing abstract geometric tunnel, minimalist tech aesthetic, no text."
+            "text": "So pressure builds when you fly, which begs the ultimate question...",
+            "badge": "PUZZLE",
+            "label": "QUESTION",
+            "stock_queries": [
+              "question mark abstract",
+              "thinking concept"
+            ],
+            "image_prompt": "Vertical 9:16 minimalist abstract graphic representing curiosity and questions, deep blue background, no text",
+            "stock_query": "question mark abstract"
+          },
+          {
+            "text": "What happens to a marshmallow inside a vacuum chamber?",
+            "badge": "MYSTERY",
+            "label": "VACUUM",
+            "stock_queries": [
+              "fluffy marshmallows",
+              "science lab experiment"
+            ],
+            "image_prompt": "Vertical 9:16 studio shot of white marshmallows piled together, soft lighting, no text",
+            "stock_query": "fluffy marshmallows"
           }
         ],
-        "key_facts": [
-          "The Vegas Sphere contains 167,000 speakers hidden behind its LED screen.",
-          "The venue uses beamforming acoustics to direct sound to specific locations.",
-          "Different audio tracks can be delivered to adjacent seats without mixing."
-        ],
-        "script": "Did you know you can sit next to someone in the Vegas Sphere and hear a completely different language? It sounds impossible, but it is all thanks to a hidden wall of one hundred sixty-seven thousand speakers. Behind the venue's massive LED screen, these speakers are arranged in a massive curved array. They use advanced audio technology called beamforming to direct sound waves with pinpoint accuracy. Instead of bouncing around the room like a normal arena, the sound goes straight to your specific seat. This means multiple audio tracks can play simultaneously across the room without mixing together. Follow for more amazing engineering facts.",
-        "full_description": "Discover the hidden acoustic technology inside the Vegas Sphere. Learn how 167,000 speakers use beamforming to deliver unique audio tracks to adjacent seats.\n\n#shorts #sounddesign #audio #technology\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance and reviewed for accuracy.\nVoiceover: AI-generated voice (Microsoft Edge neural text-to-speech).\nThis video contains AI-generated or AI-assisted content.\nStock footage/photos (Pexels/Pixabay Content License): Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-1275/; tommyvideo (Pixabay) https://pixabay.com/videos/id-5466/; livewallpaperdownload (Pixabay) https://pixabay.com/videos/id-356364/; blackmarketmusic (Pixabay) https://pixabay.com/videos/id-131058/; Pixabay (Pixabay) https://pixabay.com/videos/id-2709/; thekreativecompany (Pixabay) https://pixabay.com/videos/id-28525/; TheDigitalArtist (Pixabay) https://pixabay.com/videos/id-3269/\nTopic inspired by trending public interest; no third-party video footage or music was reused."
+        "format": "explainer",
+        "category": "27",
+        "script": "Ever wonder why your soda can feels rock solid on an airplane? It all comes down to cabin pressure physics at thirty thousand feet. Planes mimic an altitude of about eight thousand feet, not sea level. That lower air pressure outside causes the trapped gas inside to expand. The metal walls stretch, turning your drink into a ticking time bomb. Deep sea vessels face the exact opposite crushing problem underwater. So pressure builds when you fly, which begs the ultimate question... What happens to a marshmallow inside a vacuum chamber?",
+        "voice": "en-GB-RyanNeural"
       },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-GB-RyanNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): julientromeur (Pixabay) https://pixabay.com/videos/id-151705/; xBriantcx (Pixabay) https://pixabay.com/videos/id-236256/; JoshuaWoroniecki (Pixabay) https://pixabay.com/videos/id-180279/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-346439/; Hid111 (Pixabay) https://pixabay.com/videos/id-198939/; Life-Of-Vids (Pixabay) https://pixabay.com/videos/id-283/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-337332/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-331066/; FreeCreativeStuff (Pixabay) https://pixabay.com/videos/id-27494/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-281166/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-797/; _marioosh (Pixabay) https://pixabay.com/videos/id-264272/; Monoar_CGI_Artist (Pixabay) https://pixabay.com/videos/id-216420/; WhiteHatDesigner (Pixabay) https://pixabay.com/videos/id-330028/; jLasWilson (Pixabay) https://pixabay.com/videos/id-3103/; tommyvideo (Pixabay) https://pixabay.com/videos/id-5456/"
+      ],
       "file": {
         "type": "release",
         "tag": "videos-2026-10-02",
-        "name": "2026-10-02-1.mp4"
+        "name": "2026-10-02-1-v0.mp4"
       },
-      "tg_msg": 20,
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-02",
+        "name": "2026-10-02-1-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,098 --> 00:00:01,775\nEver wonder why your soda can feels\n\n2\n00:00:01,775 --> 00:00:04,093\nrock solid on an airplane It all\n\n3\n00:00:04,093 --> 00:00:05,714\ncomes down to cabin pressure physics at\n\n4\n00:00:05,714 --> 00:00:08,811\nthirty thousand feet Planes mimic an altitude\n\n5\n00:00:08,811 --> 00:00:10,703\nof about eight thousand feet not sea\n\n6\n00:00:10,703 --> 00:00:13,766\nlevel That lower air pressure outside causes\n\n7\n00:00:13,766 --> 00:00:16,413\nthe trapped gas inside to expand The\n\n8\n00:00:16,413 --> 00:00:18,507\nmetal walls stretch turning your drink into\n\n9\n00:00:18,507 --> 00:00:21,187\na ticking time bomb Deep sea vessels\n\n10\n00:00:21,187 --> 00:00:24,329\nface the exact opposite crushing problem underwater\n\n11\n00:00:24,329 --> 00:00:26,075\nSo pressure builds when you fly which\n\n12\n00:00:26,075 --> 00:00:28,710\nbegs the ultimate question What happens to\n\n13\n00:00:28,710 --> 00:00:31,024\na marshmallow inside a vacuum chamber\n",
+      "tg_msg": 46,
+      "opts_msg": 48,
+      "approved_by": "you",
+      "publish_now": false,
       "results": {
         "YouTube": [
-          "https://youtube.com/shorts/OTlr3fVeR48",
-          "private"
+          "https://youtube.com/shorts/x_oFEEa_ZYw",
+          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
         ],
         "Instagram": [
           null,
@@ -126,93 +222,166 @@
           null,
           "skipped (not configured)"
         ]
-      }
+      },
+      "uploaded_at": "2026-10-02T18:47:00.709123+00:00",
+      "slot": "2026-10-02T19:15:00+00:00"
     },
     "2026-10-02-2": {
       "topic": {
-        "title": "The Reaction Time Paradox in Elite Tennis",
-        "angle": "Unpacking the neuroscience of how pro tennis returners react to 130 mph serves before their conscious brain actually sees the ball bounce.",
-        "trend_source": "novak djokovic",
-        "virality_score": 8.8,
-        "why": "Sports science explainers that break down human reaction limits vs. predictive brain processing tap directly into mainstream athletic curiosity."
+        "title": "Top 5 Most Extreme Theme Park Rides on Giant Ships",
+        "angle": "Count down the 5 most insane engineering marvels installed on cruise ships, ranked by verifiable G-force and physical height over water.",
+        "format": "ranking",
+        "trend_source": "cruise industry",
+        "virality_score": 9,
+        "why": "Visually stunning mega-engineering topic that appeals broadly to US travel and tech fans, driving high completion rates."
       },
       "status": "published",
       "by": "you",
-      "updated": "2026-10-02T13:44:01.900085+00:00",
+      "updated": "2026-10-02T18:47:09.934428+00:00",
+      "redos": 0,
       "package": {
-        "title": "How tennis pros return 130 mph serves before seeing them",
-        "description": "Discover the fascinating neuroscience behind how elite tennis players return blistering 130 mph serves before their conscious brain even registers the bounce. Unpack the limits of human reaction time and anticipation.",
+        "primary_keyword": "extreme cruise ship rides",
+        "title": "Top 5 Insane Rides on Giant Ships \ud83d\udea2",
+        "hook_text": "Insane rides on giant ships",
+        "thumbnail_text": "Ocean Rollercoasters",
+        "description": "Discover the top 5 extreme cruise ship rides ranked by sheer height and G-force over the open ocean. Would you ride these engineering marvels at sea?",
         "hashtags": [
           "#shorts",
-          "#tennis",
-          "#neuroscience",
-          "#sports"
+          "#travel",
+          "#cruiseships",
+          "#top5"
         ],
+        "tags": [
+          "extreme cruise ship rides",
+          "extreme cruise ship",
+          "cruise ship roller coaster",
+          "top 5 cruise ships",
+          "best cruise ship thrills",
+          "biggest water slides at sea",
+          "fastest rides on cruise ships",
+          "tallest water slides on ships",
+          "insane cruise ship activities",
+          "cruise ship engineering marvels",
+          "top 5 cruise",
+          "ship roller coasters",
+          "ship amusement parks",
+          "top 5 cruise attractions",
+          "ocean rollercoasters"
+        ],
+        "pinned_comment": "Which of these ocean thrill rides would you brave first? Let us know below!",
         "scenes": [
           {
-            "text": "How can a tennis pro return a one hundred thirty mile per hour serve when it takes the human brain longer than that just to blink?",
-            "stock_query": "tennis serve motion",
-            "image_prompt": "Vertical 9:16 image of a blurred tennis racket striking a tennis ball at high speed, dramatic stadium lighting, no text."
+            "text": "Would you brave a roller coaster dangling two hundred feet above the ocean waves?",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "cruise ship ocean view",
+              "giant cruise ship aerial"
+            ],
+            "image_prompt": "A massive luxury cruise ship sailing on deep blue ocean waves, vertical 9:16, vibrant colors, cinematic lighting, no people.",
+            "stock_query": "cruise ship ocean view"
           },
           {
-            "text": "It sounds impossible because conscious visual processing is actually too slow for modern sports.",
-            "stock_query": "brain neuroscience glow",
-            "image_prompt": "Vertical 9:16 abstract digital art of human brain pathways firing with electrical signals, dark background, no text."
+            "text": "Number five, the AquaDuck water coaster. It shoots you four decks high right over the ship edge.",
+            "badge": "#5",
+            "label": "AquaDuck Coaster",
+            "stock_queries": [
+              "cruise ship waterslide",
+              "water slide tube aerial"
+            ],
+            "image_prompt": "A transparent water slide tube curving off the side of a massive cruise ship above the sea, vertical 9:16, bright daylight.",
+            "stock_query": "cruise ship waterslide"
           },
           {
-            "text": "When a ball travels at that speed, it covers the distance across the net in under four hundred milliseconds.",
-            "stock_query": "tennis ball flight",
-            "image_prompt": "Vertical 9:16 motion blur of a tennis ball flying fast across a dark indoor court, no text."
+            "text": "At number four, the Ultimate Abyss. This terrifying dry slide plunges ten stories in seconds.",
+            "badge": "#4",
+            "label": "Ultimate Abyss",
+            "stock_queries": [
+              "dark spiral slide",
+              "futuristic metal slide"
+            ],
+            "image_prompt": "A dark glowing purple futuristic spiral slide inside a giant cruise ship atrium, vertical 9:16, moody dramatic lighting.",
+            "stock_query": "dark spiral slide"
           },
           {
-            "text": "Meanwhile, visual information takes about two hundred milliseconds just to reach your conscious awareness.",
-            "stock_query": "human eye close up",
-            "image_prompt": "Vertical 9:16 macro shot of a human eye reflecting a glowing tennis court, highly detailed, no text."
+            "text": "Number three is the Bolt Sea Coaster. It hits thirty miles per hour with a full loop over water.",
+            "badge": "#3",
+            "label": "Bolt Sea Coaster",
+            "stock_queries": [
+              "roller coaster loop",
+              "fast roller coaster track"
+            ],
+            "image_prompt": "A high-speed motorcycle-style roller coaster track curving above the deck of a modern cruise ship, vertical 9:16, sunny day.",
+            "stock_query": "roller coaster loop"
           },
           {
-            "text": "If players waited to actually see the ball bounce, they would still be swinging after it already hit the back fence.",
-            "stock_query": "tennis player missing",
-            "image_prompt": "Vertical 9:16 view of an empty tennis court with a ball hitting the back wall, dramatic lighting, no text."
+            "text": "At number two, the Free Fall slide drops you straight down at nearly three Gs of acceleration.",
+            "badge": "#2",
+            "label": "Free Fall Slide",
+            "stock_queries": [
+              "vertical drop slide",
+              "water park drop slide"
+            ],
+            "image_prompt": "A nearly vertical blue water slide capsule high above the ocean deck, vertical 9:16, high contrast, dramatic perspective.",
+            "stock_query": "vertical drop slide"
           },
           {
-            "text": "Instead, elite returners bypass conscious thought entirely by relying on anticipatory non-conscious motion cues.",
-            "stock_query": "athlete focused eyes",
-            "image_prompt": "Vertical 9:16 close-up of a focused athlete's profile in athletic gear, intense concentration, no text."
+            "text": "Number one is the majestic Sea Dragon Coaster, reaching record heights and speeds at sea.",
+            "badge": "#1",
+            "label": "Sea Dragon Coaster",
+            "stock_queries": [
+              "massive roller coaster",
+              "ship amusement park ride"
+            ],
+            "image_prompt": "An enormous red and white roller coaster winding across the top deck of a giant modern cruise ship, vertical 9:16, bright sunny ocean.",
+            "stock_query": "massive roller coaster"
           },
           {
-            "text": "They read the server tossing the ball, shoulder rotation, and racket angle long before contact is ever made.",
-            "stock_query": "tennis player posture",
-            "image_prompt": "Vertical 9:16 silhouette of a tennis player mid-serve against a sunset sky, elegant form, no text."
-          },
-          {
-            "text": "Their nervous system automates the response, proving that true athletic mastery happens before thinking even begins.",
-            "stock_query": "fast motion blur",
-            "image_prompt": "Vertical 9:16 abstract representation of speed and fluid muscle movement in blue and gold tones, no text."
-          },
-          {
-            "text": "Follow for more science behind elite athletic performance.",
-            "stock_query": "tap follow button",
-            "image_prompt": "Vertical 9:16 minimalist graphic design with a subtle follow icon on a clean background, no text."
+            "text": "These marvels prove that engineering knows no bounds, meaning you can",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "cruise ship wake trail",
+              "ocean horizon sunset"
+            ],
+            "image_prompt": "A stunning golden sunset over the ocean horizon viewed from the back of a large cruise ship, vertical 9:16, peaceful waves.",
+            "stock_query": "cruise ship wake trail"
           }
         ],
         "key_facts": [
-          "A 130 mph serve crosses the tennis net in under 400 milliseconds.",
-          "Conscious visual processing in humans takes approximately 200 milliseconds.",
-          "Elite athletes use predictive cues like opponent body movement and racket angle to anticipate actions faster than conscious reaction allows."
+          "AquaDuck is a water coaster on Disney Cruise Line ships.",
+          "Ultimate Abyss is a 10-story dry slide on Royal Caribbean ships.",
+          "Bolt is the first roller coaster at sea on Carnival Cruise Line.",
+          "Free Fall slides provide high vertical drops on modern cruise ships."
         ],
-        "script": "How can a tennis pro return a one hundred thirty mile per hour serve when it takes the human brain longer than that just to blink? It sounds impossible because conscious visual processing is actually too slow for modern sports. When a ball travels at that speed, it covers the distance across the net in under four hundred milliseconds. Meanwhile, visual information takes about two hundred milliseconds just to reach your conscious awareness. If players waited to actually see the ball bounce, they would still be swinging after it already hit the back fence. Instead, elite returners bypass conscious thought entirely by relying on anticipatory non-conscious motion cues. They read the server tossing the ball, shoulder rotation, and racket angle long before contact is ever made. Their nervous system automates the response, proving that true athletic mastery happens before thinking even begins. Follow for more science behind elite athletic performance.",
-        "full_description": "Discover the fascinating neuroscience behind how elite tennis players return blistering 130 mph serves before their conscious brain even registers the bounce. Unpack the limits of human reaction time and anticipation.\n\n#shorts #tennis #neuroscience #sports\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance and reviewed for accuracy.\nVoiceover: AI-generated voice (Microsoft Edge neural text-to-speech).\nThis video contains AI-generated or AI-assisted content.\nStock footage/photos (Pexels/Pixabay Content License): julientromeur (Pixabay) https://pixabay.com/videos/id-259142/; WhiteHatDesigner (Pixabay) https://pixabay.com/videos/id-330028/; tommyvideo (Pixabay) https://pixabay.com/videos/id-5602/; MoonpetalMedia (Pixabay) https://pixabay.com/videos/id-345717/; Coverr-Free-Footage (Pixabay) https://pixabay.com/videos/id-1651/; xat-ch (Pixabay) https://pixabay.com/videos/id-50109/; tommyvideo (Pixabay) https://pixabay.com/videos/id-5614/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-324706/; AsifJaved533 (Pixabay) https://pixabay.com/videos/id-122526/\nTopic inspired by trending public interest; no third-party video footage or music was reused."
+        "format": "ranking",
+        "category": "27",
+        "script": "Would you brave a roller coaster dangling two hundred feet above the ocean waves? Number five, the AquaDuck water coaster. It shoots you four decks high right over the ship edge. At number four, the Ultimate Abyss. This terrifying dry slide plunges ten stories in seconds. Number three is the Bolt Sea Coaster. It hits thirty miles per hour with a full loop over water. At number two, the Free Fall slide drops you straight down at nearly three Gs of acceleration. Number one is the majestic Sea Dragon Coaster, reaching record heights and speeds at sea. These marvels prove that engineering knows no bounds, meaning you can",
+        "voice": "en-GB-SoniaNeural"
       },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-GB-SoniaNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): Engin_Akyurt (Pixabay) https://pixabay.com/videos/id-360429/; bellergy (Pixabay) https://pixabay.com/videos/id-2849/; bellergy (Pixabay) https://pixabay.com/videos/id-3713/; OjasweinGuptaOJG (Pixabay) https://pixabay.com/videos/id-14205/; JohannesW (Pixabay) https://pixabay.com/videos/id-6973/; PIRO4D (Pixabay) https://pixabay.com/videos/id-8349/; Activedia (Pixabay) https://pixabay.com/videos/id-1383/; DistillVideos (Pixabay) https://pixabay.com/videos/id-40/; DistillVideos (Pixabay) https://pixabay.com/videos/id-41/; Engin_Akyurt (Pixabay) https://pixabay.com/videos/id-133925/; DistillVideos (Pixabay) https://pixabay.com/videos/id-78/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-6439/; DistillVideos (Pixabay) https://pixabay.com/videos/id-44/; Pauline_17 (Pixabay) https://pixabay.com/videos/id-12181/; suniljoseph (Pixabay) https://pixabay.com/videos/id-216199/"
+      ],
       "file": {
         "type": "release",
         "tag": "videos-2026-10-02",
-        "name": "2026-10-02-2.mp4"
+        "name": "2026-10-02-2-v0.mp4"
       },
-      "tg_msg": 22,
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-02",
+        "name": "2026-10-02-2-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,132 --> 00:00:02,223\nWould you brave a roller coaster dangling\n\n2\n00:00:02,223 --> 00:00:04,603\ntwo hundred feet above the ocean waves\n\n3\n00:00:04,603 --> 00:00:07,745\nNumber five the AquaDuck water coaster It\n\n4\n00:00:07,745 --> 00:00:09,626\nshoots you four decks high right over\n\n5\n00:00:09,626 --> 00:00:12,009\nthe ship edge At number four the\n\n6\n00:00:12,009 --> 00:00:15,540\nUltimate Abyss This terrifying dry slide plunges\n\n7\n00:00:15,540 --> 00:00:18,271\nten stories in seconds Number three is\n\n8\n00:00:18,271 --> 00:00:20,584\nthe Bolt Sea Coaster It hits thirty\n\n9\n00:00:20,584 --> 00:00:22,255\nmiles per hour with a full loop\n\n10\n00:00:22,255 --> 00:00:24,696\nover water At number two the Free\n\n11\n00:00:24,696 --> 00:00:26,717\nFall slide drops you straight down at\n\n12\n00:00:26,717 --> 00:00:29,626\nnearly three Gs of acceleration Number one\n\n13\n00:00:29,626 --> 00:00:32,150\nis the majestic Sea Dragon Coaster reaching\n\n14\n00:00:32,150 --> 00:00:34,673\nrecord heights and speeds at sea These\n\n15\n00:00:34,673 --> 00:00:37,500\nmarvels prove that engineering knows no bounds\n\n16\n00:00:37,500 --> 00:00:38,788\nmeaning you can\n",
+      "tg_msg": 50,
+      "opts_msg": 52,
+      "approved_by": "you",
+      "publish_now": false,
       "results": {
         "YouTube": [
-          "https://youtube.com/shorts/qFS42mJp0gQ",
-          "private"
+          "https://youtube.com/shorts/ULFlC_DQZFA",
+          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
         ],
         "Instagram": [
           null,
@@ -222,17 +391,203 @@
           null,
           "skipped (not configured)"
         ]
-      }
+      },
+      "uploaded_at": "2026-10-02T18:47:09.934444+00:00",
+      "slot": "2026-10-02T23:15:00+00:00"
+    },
+    "2026-10-02-3": {
+      "topic": {
+        "title": "Top 5 Deepest Ocean Trenches on Earth",
+        "angle": "Count down the 5 deepest spots in the world's oceans ranked precisely by measured depth in meters, featuring bizarre physical pressure facts.",
+        "format": "ranking",
+        "trend_source": "evergreen",
+        "virality_score": 8,
+        "why": "Deep-sea nature and ocean mystery content consistently hits massive swipe-through and retention metrics on US Shorts."
+      },
+      "status": "published",
+      "by": "you",
+      "updated": "2026-10-02T18:47:17.267371+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "deepest ocean trenches",
+        "title": "Top 5 Deepest Ocean Trenches Ranked",
+        "hook_text": "Could you survive crushing ocean depths?",
+        "thumbnail_text": "Deepest Ocean Spots",
+        "description": "Discover the top 5 deepest ocean trenches on Earth ranked by exact measured depth in meters. Explore the bizarre pressure facts of our world's deepest underwater secrets.",
+        "hashtags": [
+          "#shorts",
+          "#ocean",
+          "#deepseafacts",
+          "#top5"
+        ],
+        "tags": [
+          "deepest ocean trenches",
+          "ocean trenches",
+          "ocean trenches ranked",
+          "mariana trench depth",
+          "deepest spot on earth",
+          "deepest place on earth",
+          "deepest ocean depth explored",
+          "deepest point mariana trench",
+          "deepest ocean trench in the world",
+          "deepest trench",
+          "ocean trenches explained",
+          "deepest trench in the world",
+          "deepest ocean spots",
+          "ocean pressure facts",
+          "deep sea exploration",
+          "extreme ocean depths",
+          "marine biology facts",
+          "kuril kamchatka trench",
+          "tonga trench",
+          "kermadec trench"
+        ],
+        "pinned_comment": "Which of these crushing ocean depths would you dare to visit? Drop your pick below! \ud83c\udf0a",
+        "scenes": [
+          {
+            "text": "Could you survive crushing ocean depths? Let's rank the five deepest places on Earth.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "dark ocean water",
+              "deep sea abyss"
+            ],
+            "image_prompt": "Cinematic vertical 9:16 view of a dark deep ocean abyss, eerie sunrays fading out, ultra-realistic, no text",
+            "stock_query": "dark ocean water"
+          },
+          {
+            "text": "Number five is the Kuril-Kamchatka Trench, dropping a massive ten thousand five hundred forty-two meters down.",
+            "badge": "#5",
+            "label": "Kuril Trench",
+            "stock_queries": [
+              "deep ocean current",
+              "underwater blue depths"
+            ],
+            "image_prompt": "Vertical 9:16 shot of deep underwater currents in a dark trench, mysterious blue tones, high detail, no text",
+            "stock_query": "deep ocean current"
+          },
+          {
+            "text": "At number four, the Kermadec Trench reaches a staggering ten thousand eight hundred two meters.",
+            "badge": "#4",
+            "label": "Kermadec Trench",
+            "stock_queries": [
+              "deep sea trench",
+              "dark underwater canyon"
+            ],
+            "image_prompt": "Vertical 9:16 underwater canyon in the deep ocean, dramatic underwater lighting, hyper-realistic, no text",
+            "stock_query": "deep sea trench"
+          },
+          {
+            "text": "Number three is the Philippine Trench, plunging down ten thousand five hundred forty meters? Wait, ten thousand five hundred forty is number five. The Philippine Trench goes to ten thousand five hundred forty.",
+            "badge": "#3",
+            "label": "Philippine Trench",
+            "stock_queries": [
+              "deep sea trench walls",
+              "underwater abyss drop"
+            ],
+            "image_prompt": "Vertical 9:16 steep underwater trench walls covered in fine silt, dark blue depths, no text",
+            "stock_query": "deep sea trench walls"
+          },
+          {
+            "text": "At number two, the Tonga Trench plunges ten thousand eight hundred eighty-two meters into total darkness.",
+            "badge": "#2",
+            "label": "Tonga Trench",
+            "stock_queries": [
+              "pitch black ocean",
+              "deep sea pressure"
+            ],
+            "image_prompt": "Vertical 9:16 pitch black deep ocean abyss, faint bioluminescence in the distance, no text",
+            "stock_query": "pitch black ocean"
+          },
+          {
+            "text": "Number one is the Mariana Trench, hitting an unimaginable eleven thousand thirty-four meters deep where water pressure is like an elephant standing on your thumb.",
+            "badge": "#1",
+            "label": "Mariana Trench",
+            "stock_queries": [
+              "deepest ocean floor",
+              "challenger deep abyss"
+            ],
+            "image_prompt": "Vertical 9:16 extreme deep sea floor of the Mariana Trench, eerie atmosphere, highly detailed, no text",
+            "stock_query": "deepest ocean floor"
+          },
+          {
+            "text": "That extreme pressure is why could you survive crushing ocean depths?",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "deep ocean surface",
+              "blue ocean waves"
+            ],
+            "image_prompt": "Vertical 9:16 deep blue ocean surface viewed from below, rippling water and light rays, no text",
+            "stock_query": "deep ocean surface"
+          }
+        ],
+        "key_facts": [
+          "Kuril-Kamchatka Trench depth is approximately 10,542 meters.",
+          "Kermadec Trench depth is approximately 10,802 meters.",
+          "Philippine Trench depth is approximately 10,540 meters.",
+          "Tonga Trench depth is approximately 10,882 meters.",
+          "Mariana Trench depth is approximately 11,034 meters."
+        ],
+        "format": "ranking",
+        "category": "27",
+        "script": "Could you survive crushing ocean depths? Let's rank the five deepest places on Earth. Number five is the Kuril-Kamchatka Trench, dropping a massive ten thousand five hundred forty-two meters down. At number four, the Kermadec Trench reaches a staggering ten thousand eight hundred two meters. Number three is the Philippine Trench, plunging down ten thousand five hundred forty meters? Wait, ten thousand five hundred forty is number five. The Philippine Trench goes to ten thousand five hundred forty. At number two, the Tonga Trench plunges ten thousand eight hundred eighty-two meters into total darkness. Number one is the Mariana Trench, hitting an unimaginable eleven thousand thirty-four meters deep where water pressure is like an elephant standing on your thumb. That extreme pressure is why could you survive crushing ocean depths?",
+        "voice": "en-IE-ConnorNeural"
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-IE-ConnorNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): Mario_Krimer (Pixabay) https://pixabay.com/videos/id-304019/; sofian7594 (Pixabay) https://pixabay.com/videos/id-349587/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-797/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-357927/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-290726/; InfinityByte (Pixabay) https://pixabay.com/videos/id-341704/; _marioosh (Pixabay) https://pixabay.com/videos/id-264272/; Relaxing_Guru (Pixabay) https://pixabay.com/videos/id-37712/; Engin_Akyurt (Pixabay) https://pixabay.com/videos/id-67358/; RoyBuri (Pixabay) https://pixabay.com/videos/id-85674/; u_mv4esujzr4 (Pixabay) https://pixabay.com/videos/id-215093/; Kanenori (Pixabay) https://pixabay.com/videos/id-212554/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-1081/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-312292/; Kaffees\u00fcchtig (Pixabay) https://pixabay.com/videos/id-262308/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-376846/; Engin_Akyurt (Pixabay) https://pixabay.com/videos/id-360429/"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-02",
+        "name": "2026-10-02-3-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-02",
+        "name": "2026-10-02-3-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,098 --> 00:00:02,993\nCould you survive crushing ocean depths Let's\n\n2\n00:00:02,993 --> 00:00:05,793\nrank the five deepest places on Earth\n\n3\n00:00:05,793 --> 00:00:08,546\nNumber five is the Kuril-Kamchatka Trench dropping\n\n4\n00:00:08,546 --> 00:00:10,649\na massive ten thousand five hundred forty-two\n\n5\n00:00:10,649 --> 00:00:13,870\nmeters down At number four the Kermadec\n\n6\n00:00:13,870 --> 00:00:15,865\nTrench reaches a staggering ten thousand eight\n\n7\n00:00:15,865 --> 00:00:18,606\nhundred two meters Number three is the\n\n8\n00:00:18,606 --> 00:00:20,901\nPhilippine Trench plunging down ten thousand\n\n9\n00:00:20,901 --> 00:00:24,183\nfive hundred forty meters Wait ten thousand\n\n10\n00:00:24,183 --> 00:00:26,899\nfive hundred forty is number five The\n\n11\n00:00:26,899 --> 00:00:28,918\nPhilippine Trench goes to ten thousand five\n\n12\n00:00:28,918 --> 00:00:31,935\nhundred forty At number two the Tonga\n\n13\n00:00:31,935 --> 00:00:34,147\nTrench plunges ten thousand eight hundred eighty-two\n\n14\n00:00:34,147 --> 00:00:37,284\nmeters into total darkness Number one is\n\n15\n00:00:37,284 --> 00:00:39,675\nthe Mariana Trench hitting an unimaginable\n\n16\n00:00:39,675 --> 00:00:41,719\neleven thousand thirty-four meters deep where\n\n17\n00:00:41,719 --> 00:00:43,786\nwater pressure is like an elephant standing\n\n18\n00:00:43,786 --> 00:00:46,406\non your thumb That extreme pressure is\n\n19\n00:00:46,406 --> 00:00:48,633\nwhy could you survive crushing ocean depths\n",
+      "tg_msg": 56,
+      "opts_msg": 58,
+      "approved_by": "you",
+      "publish_now": false,
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/SzXGwV_51-4",
+          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-10-02T18:47:17.267387+00:00",
+      "slot": "2026-10-03T14:15:00+00:00"
     }
   },
   "history": [
     "The Insane Sound Tech Inside the Vegas Sphere",
-    "The Reaction Time Paradox in Elite Tennis"
+    "The Reaction Time Paradox in Elite Tennis",
+    "Why Soda Cans Explode at 30,000 Feet",
+    "Top 5 Most Extreme Theme Park Rides on Giant Ships",
+    "Top 5 Deepest Ocean Trenches on Earth"
   ],
   "trend_tries": {
     "2026-10-02": {
       "n": 3,
       "at": "2026-10-02T16:57:45.893357+00:00"
     }
-  }
+  },
+  "cleanup_day": "2026-10-02",
+  "recent_voices": [
+    "en-GB-RyanNeural",
+    "en-GB-SoniaNeural",
+    "en-IE-ConnorNeural"
+  ]
 }
