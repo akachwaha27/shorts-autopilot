@@ -79,8 +79,10 @@ def setup():
     print("\nRunning the first sync...")
     subprocess.call([sys.executable, target])
     dash = os.path.join(folder, "Dashboard.html")
-    if os.path.exists(dash) and os.name == "nt":
-        os.startfile(dash)  # noqa: S606
+    if os.path.exists(dash) and os.name == "nt":  # a browser, even if .html opens in Notepad
+        if subprocess.call(f'start "" chrome "{dash}"', shell=True) and \
+                subprocess.call(f'start "" msedge "{dash}"', shell=True):
+            os.startfile(dash)  # noqa: S606
     print(f"\nDone. Everything lives in: {folder}")
 
 
