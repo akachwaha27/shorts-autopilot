@@ -93,7 +93,7 @@ You don't need Meta app review, because you only post to accounts you own and yo
 4. **Direct mode (`TIKTOK_MODE=direct`, needs the `video.publish` scope):** posts automatically, but until TikTok audits the app, posts are private-only and your account must be private. After the audit, set `TIKTOK_PRIVACY` to `PUBLIC_TO_EVERYONE`.
 
 ### 7b. Your PC folder: videos, Excel and dashboard (optional)
-The bot keeps a permanent record of every video and every daily idea list in `archive/`, and refreshes YouTube views, likes and comments every 6 hours (Variable `STATS_EVERY_HOURS`). To copy all of it to your PC:
+The bot keeps a permanent record of every video and every daily idea list in `archive/`, and refreshes YouTube views, likes and comments every 2 hours (Variable `STATS_EVERY_HOURS`). To copy all of it to your PC:
 
 1. Download `tools/sync_library.py` and run `python sync_library.py --setup`.
 2. Enter the folder to use. It schedules a daily Windows task (plus at sign-in, and as soon as possible if the PC was off) and runs the first sync.

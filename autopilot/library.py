@@ -149,6 +149,7 @@ def refresh_stats(force=False):
                 "comments": int(s.get("commentCount", 0)),
                 "privacy": item.get("status", {}).get("privacyStatus", ""),
                 "published_at": item.get("snippet", {}).get("publishedAt", ""),
+                "title": item.get("snippet", {}).get("title", ""),  # your current title, if you renamed it in Studio
                 "checked_at": state.iso(),
             }
             seen.add(item["id"])

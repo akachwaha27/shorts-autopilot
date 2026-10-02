@@ -70,7 +70,7 @@ PUBLISH_SLOTS_WEEKDAY = env("PUBLISH_SLOTS_WEEKDAY", "12:15,15:15,19:15")
 PUBLISH_SLOTS_WEEKEND = env("PUBLISH_SLOTS_WEEKEND", "10:15,14:15,19:15")
 YT_DAILY_UPLOADS = env("YT_DAILY_UPLOADS", 4, int)   # ~2,100 quota units each; free quota is 10,000/day
 KEEP_VIDEOS_DAYS = env("KEEP_VIDEOS_DAYS", 30, int)  # delete stored video files older than this (your PC sync keeps copies)
-STATS_EVERY_HOURS = env("STATS_EVERY_HOURS", 6, float)  # refresh YouTube views/likes/comments for the dashboard
+STATS_EVERY_HOURS = env("STATS_EVERY_HOURS", 2, float)  # refresh YouTube views/likes/comments for the dashboard
 LIBRARY_DIR = env("LIBRARY_DIR", "archive")  # permanent archive of every video + every daily idea list
 
 WIDTH, HEIGHT, FPS = 1080, 1920, 30

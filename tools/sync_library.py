@@ -191,6 +191,16 @@ def run_sync():
     vdir, tdir = os.path.join(folder, "Videos"), os.path.join(folder, "Thumbnails")
     os.makedirs(vdir, exist_ok=True)
     os.makedirs(tdir, exist_ok=True)
+    for v in videos.values():  # show the title as it is on YouTube now (you may have renamed it in Studio)
+        yt_title = (v.get("youtube_stats") or {}).get("title")
+        if yt_title and yt_title != v.get("title"):
+            v["original_title"], v["title"] = v.get("title"), yt_title
+    index_file = os.path.join(folder, "_app", "file_index.json")
+    try:
+        with open(index_file) as f:
+            index = json.load(f)
+    except (OSError, ValueError):
+        index = {}
     got, used = 0, set()
     for vid, v in sorted(videos.items()):
         base = f"{v.get('date', vid[:10])} - {safe_name(v.get('title'))}"
@@ -203,8 +213,12 @@ def run_sync():
         for key, d, ext, field in (("file", vdir, ".mp4", "_video_file"), ("thumb", tdir, ".jpg", "_thumb_file")):
             ref = v.get(key) or {}
             dest = os.path.join(d, base + ext)
+            prev = index.get(f"{vid}{ext}")
+            if prev and prev != dest and os.path.exists(prev) and not os.path.exists(dest):
+                os.replace(prev, dest)  # title changed: rename your copy to match
             if os.path.exists(dest):
                 v[field] = dest
+                index[f"{vid}{ext}"] = dest
                 continue
             if v.get("status") != "published" or ref.get("type") != "release":
                 continue
@@ -212,11 +226,15 @@ def run_sync():
             try:
                 if download(s, url, dest):
                     v[field] = dest
+                    index[f"{vid}{ext}"] = dest
                     got += key == "file"
                 else:
                     v[field + "_missing"] = True
             except Exception as e:  # noqa: BLE001
                 log(folder, f"download failed for {base}{ext}: {e}")
+    os.makedirs(os.path.dirname(index_file), exist_ok=True)
+    with open(index_file, "w") as f:
+        json.dump(index, f, indent=1, ensure_ascii=False)
     xlsx = write_excel(folder, videos, ideas, totals)
     write_dashboard(folder, videos, ideas, totals, runs, repo)
     log(folder, f"sync ok: {len(videos)} videos in library, {got} new downloaded, "
@@ -480,7 +498,7 @@ function render(){
  const ideasN=ideaDays.reduce((a,b)=>a+b.ideas.length,0),picked=ideaDays.reduce((a,b)=>a+b.ideas.filter(i=>i.picked).length,0);
  const T=document.getElementById('tiles');T.replaceChildren();
  const tile=(label,val,note,hero)=>T.append(el('div',{class:'card tile'+(hero?' hero':'')},el('div',{class:'label',text:label}),el('div',{class:'val',text:val}),note?el('div',{class:'note',text:note}):null));
- tile('YouTube views',fmtN(sum('views')),!has?'Stats appear after the next check (every 6 hours)':pub.some(v=>v.stats.privacy==='private')?'Private videos get no public views until the API audit passes':'',true);
+ tile('YouTube views',fmtN(sum('views')),!has?'Stats appear after the next check (every 2 hours)':pub.some(v=>v.stats.privacy==='private')?'Private videos get no public views until the API audit passes':'',true);
  tile('Videos published',String(pub.length),V.length-pub.length?`${V.length-pub.length} not published (skipped, failed or waiting)`:'');
  tile('Likes',fmtN(sum('likes')));tile('Comments',fmtN(sum('comments')));
  tile('Ideas sent',String(ideasN),ideasN?`${picked} picked (${Math.round(picked/ideasN*100)}%)`:'');
@@ -488,7 +506,7 @@ function render(){
 }
 function barsViews(pub){const box=document.getElementById('c-views');box.replaceChildren();
  const rows=pub.filter(v=>v.stats.views!=null).sort((a,b)=>b.stats.views-a.stats.views).slice(0,10);
- if(!rows.length){box.append(el('div',{class:'empty',text:'No YouTube stats yet. They refresh every 6 hours.'}));return}
+ if(!rows.length){box.append(el('div',{class:'empty',text:'No YouTube stats yet. They refresh every 2 hours.'}));return}
  const W=560,rowH=30,L=210,R=56,H=rows.length*rowH+8,max=Math.max(1,...rows.map(r=>r.stats.views));
  const s=sv('svg',{viewBox:`0 0 ${W} ${H}`,width:'100%',role:'img','aria-label':'YouTube views by video'});
  s.append(sv('line',{x1:L,x2:L,y1:0,y2:H,stroke:css('--axis'),'stroke-width':1}));
