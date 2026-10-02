@@ -1,0 +1,85 @@
+name: autopilot
+
+on:
+  schedule:
+    - cron: "53 11 * * *"     # daily trend scan: 11:53 UTC = 7:53 AM New York (EDT). Change to suit you.
+    - cron: "*/20 * * * *"    # every 20 min: read Telegram, generate, publish
+  workflow_dispatch:
+    inputs:
+      command:
+        description: "trends | poll | test"
+        default: "poll"
+
+permissions:
+  contents: write              # commit state + store videos as Releases
+
+concurrency:
+  group: autopilot             # never run two at once (shared state)
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+      TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+      PEXELS_API_KEY: ${{ secrets.PEXELS_API_KEY }}
+      YT_CLIENT_ID: ${{ secrets.YT_CLIENT_ID }}
+      YT_CLIENT_SECRET: ${{ secrets.YT_CLIENT_SECRET }}
+      YT_REFRESH_TOKEN: ${{ secrets.YT_REFRESH_TOKEN }}
+      IG_USER_ID: ${{ secrets.IG_USER_ID }}
+      IG_ACCESS_TOKEN: ${{ secrets.IG_ACCESS_TOKEN }}
+      TIKTOK_CLIENT_KEY: ${{ secrets.TIKTOK_CLIENT_KEY }}
+      TIKTOK_CLIENT_SECRET: ${{ secrets.TIKTOK_CLIENT_SECRET }}
+      TIKTOK_REFRESH_TOKEN: ${{ secrets.TIKTOK_REFRESH_TOKEN }}
+      CF_ACCOUNT_ID: ${{ secrets.CF_ACCOUNT_ID }}
+      CF_API_TOKEN: ${{ secrets.CF_API_TOKEN }}
+      # Behaviour: set these under Settings > Secrets and variables > Actions > Variables
+      NICHE: ${{ vars.NICHE }}
+      REGION: ${{ vars.REGION }}
+      LANGUAGE: ${{ vars.LANGUAGE }}
+      VOICE: ${{ vars.VOICE }}
+      VISUALS: ${{ vars.VISUALS }}
+      GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
+      MAX_VIDEOS_PER_DAY: ${{ vars.MAX_VIDEOS_PER_DAY }}
+      AUTO_PICK_COUNT: ${{ vars.AUTO_PICK_COUNT }}
+      SELECT_TIMEOUT_HOURS: ${{ vars.SELECT_TIMEOUT_HOURS }}
+      REQUIRE_APPROVAL: ${{ vars.REQUIRE_APPROVAL }}
+      APPROVE_TIMEOUT_HOURS: ${{ vars.APPROVE_TIMEOUT_HOURS }}
+      YT_PRIVACY: ${{ vars.YT_PRIVACY }}
+      TIKTOK_PRIVACY: ${{ vars.TIKTOK_PRIVACY }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Install FFmpeg + fonts (if missing)
+        run: |
+          if ! command -v ffmpeg >/dev/null || ! fc-list | grep -qi "DejaVu Sans"; then
+            sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg fonts-dejavu-core
+          fi
+
+      - run: pip install -q -r requirements.txt
+
+      - name: Run
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then CMD="${{ inputs.command }}";
+          elif [ "${{ github.event.schedule }}" = "53 11 * * *" ]; then CMD=trends;
+          else CMD=poll; fi
+          echo "Running: $CMD"
+          python -m autopilot.main "$CMD"
+
+      - name: Save state
+        if: always()
+        run: |
+          git config user.name "autopilot-bot"
+          git config user.email "autopilot-bot@users.noreply.github.com"
+          git add state/ || true
+          git diff --cached --quiet || (git commit -m "state update [skip ci]" && git pull --rebase && git push)

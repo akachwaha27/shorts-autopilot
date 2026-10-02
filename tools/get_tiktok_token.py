@@ -1,0 +1,30 @@
+"""Run ONCE to get a TikTok refresh token (valid ~1 year; re-run yearly).
+
+Prereqs: TikTok for Developers app with Login Kit + Content Posting API,
+scopes user.info.basic and video.publish, and a Redirect URI you control
+(any https page works, e.g. https://<your-github-username>.github.io/).
+
+  python tools/get_tiktok_token.py
+Open the printed URL, approve, then paste the FULL URL you were redirected to.
+"""
+import secrets
+import urllib.parse
+
+import requests
+
+key = input("TikTok client key: ").strip()
+secret = input("TikTok client secret: ").strip()
+redirect = input("Redirect URI (exactly as registered): ").strip()
+state = secrets.token_urlsafe(8)
+url = "https://www.tiktok.com/v2/auth/authorize/?" + urllib.parse.urlencode({
+    "client_key": key, "response_type": "code", "scope": "user.info.basic,video.publish",
+    "redirect_uri": redirect, "state": state})
+print("\nOpen this URL and approve:\n", url)
+back = input("\nPaste the full redirected URL: ").strip()
+code = urllib.parse.parse_qs(urllib.parse.urlparse(back).query)["code"][0]
+r = requests.post("https://open.tiktokapis.com/v2/oauth/token/", data={
+    "client_key": key, "client_secret": secret, "code": code,
+    "grant_type": "authorization_code", "redirect_uri": redirect}).json()
+print("\nTIKTOK_CLIENT_KEY    =", key)
+print("TIKTOK_CLIENT_SECRET =", secret)
+print("TIKTOK_REFRESH_TOKEN =", r.get("refresh_token"), "\n", r if "refresh_token" not in r else "")
