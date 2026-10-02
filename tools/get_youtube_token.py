@@ -10,7 +10,8 @@ import json
 from google_auth_oauthlib.flow import InstalledAppFlow
 
 flow = InstalledAppFlow.from_client_secrets_file(
-    "client_secret.json", scopes=["https://www.googleapis.com/auth/youtube.upload"])
+    "client_secret.json", scopes=["https://www.googleapis.com/auth/youtube.upload",
+                                  "https://www.googleapis.com/auth/youtube.force-ssl"])  # force-ssl: subtitles
 creds = flow.run_local_server(port=0, access_type="offline", prompt="consent")
 info = json.loads(creds.to_json())
 print("\nYT_CLIENT_ID     =", info["client_id"])

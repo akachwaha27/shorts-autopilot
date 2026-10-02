@@ -20,16 +20,17 @@ def _yt_tags(tags):
 
 
 
-def youtube(path, title, description, tags, category="24"):
+def youtube(path, title, description, tags, category="24", thumb=None, srt=None):
     if not (config.YT_CLIENT_ID and config.YT_CLIENT_SECRET and config.YT_REFRESH_TOKEN):
         return None, "skipped (not configured)"
     from google.oauth2.credentials import Credentials
     from googleapiclient.discovery import build
+    from googleapiclient.errors import HttpError
     from googleapiclient.http import MediaFileUpload
 
+    # scopes=None: refresh with whatever the user granted (upload, plus force-ssl if they re-ran the token script)
     creds = Credentials(None, refresh_token=config.YT_REFRESH_TOKEN, client_id=config.YT_CLIENT_ID,
-                        client_secret=config.YT_CLIENT_SECRET, token_uri="https://oauth2.googleapis.com/token",
-                        scopes=["https://www.googleapis.com/auth/youtube.upload"])
+                        client_secret=config.YT_CLIENT_SECRET, token_uri="https://oauth2.googleapis.com/token")
     yt = build("youtube", "v3", credentials=creds, cache_discovery=False)
     body = {
         "snippet": {"title": title[:100], "description": description[:4900],
@@ -44,7 +45,31 @@ def youtube(path, title, description, tags, category="24"):
     while resp is None:
         _, resp = req.next_chunk()
     vid = resp["id"]
-    return f"https://youtube.com/shorts/{vid}", resp["status"].get("privacyStatus", "")
+    notes = [resp["status"].get("privacyStatus", "")]
+
+    def why(e):
+        msg = str(getattr(e, "reason", "") or e)
+        if "permission" in msg.lower() or "verify" in msg.lower() or "forbidden" in msg.lower():
+            return "needs a verified channel (youtube.com/verify)"
+        if "insufficient" in msg.lower() or "scope" in msg.lower():
+            return "needs re-login with the token script"
+        return msg[:80]
+
+    if thumb and os.path.exists(thumb):
+        try:
+            yt.thumbnails().set(videoId=vid, media_body=MediaFileUpload(thumb, mimetype="image/jpeg")).execute()
+            notes.append("thumbnail ✅")
+        except HttpError as e:
+            notes.append(f"thumbnail ⚠️ {why(e)}")
+    if srt and os.path.exists(srt):
+        try:
+            yt.captions().insert(part="snippet", sync=False, body={"snippet": {
+                "videoId": vid, "language": config.LANGUAGE, "name": "Subtitles", "isDraft": False}},
+                media_body=MediaFileUpload(srt, mimetype="application/octet-stream")).execute()
+            notes.append("subtitles ✅")
+        except HttpError as e:
+            notes.append(f"subtitles ⚠️ {why(e)}")
+    return f"https://youtube.com/shorts/{vid}", " · ".join(notes)
 
 
 # ---------------- Instagram Reels ----------------
@@ -129,10 +154,10 @@ def tiktok(path, caption):
     return "https://www.tiktok.com/ (check your profile)", f"{status}, privacy={config.TIKTOK_PRIVACY}"
 
 
-def publish_all(path, title, description, hashtags, tags=(), category="24"):
+def publish_all(path, title, description, hashtags, tags=(), category="24", thumb=None, srt=None):
     caption = f"{title}\n\n{description}"
     results = {}
-    for name, fn in (("YouTube", lambda: youtube(path, title, description, list(tags) + list(hashtags), category)),
+    for name, fn in (("YouTube", lambda: youtube(path, title, description, list(tags) + list(hashtags), category, thumb, srt)),
                      ("Instagram", lambda: instagram(path, caption)),
                      ("TikTok", lambda: tiktok(path, caption))):
         try:

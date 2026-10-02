@@ -161,6 +161,33 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
     return path
 
 
+def _srt_ts(t):
+    t = max(t, 0)
+    h, rem = divmod(t, 3600)
+    m, sec = divmod(rem, 60)
+    return f"{int(h):02d}:{int(m):02d}:{int(sec):02d},{int(round((sec % 1) * 1000)) % 1000:03d}"
+
+
+def srt(words, path, max_words=7, max_chars=42):
+    """Readable closed-caption track (separate from the burned-in captions)."""
+    cues, cur = [], []
+    for w in words:
+        cur.append(w)
+        text = " ".join(x["word"] for x in cur)
+        if len(cur) >= max_words or len(text) >= max_chars or w["word"].rstrip().endswith((".", "?", "!")):
+            cues.append(cur)
+            cur = []
+    if cur:
+        cues.append(cur)
+    out = []
+    for i, c in enumerate(cues, 1):
+        end = cues[i][0]["start"] if i < len(cues) else c[-1]["end"] + 0.4
+        out.append(f"{i}\n{_srt_ts(c[0]['start'])} --> {_srt_ts(end)}\n{' '.join(x['word'] for x in c)}\n")
+    with open(path, "w", encoding="utf-8") as f:
+        f.write("\n".join(out))
+    return path
+
+
 def scene_bounds(scenes, words, total):
     """Start/end time of each scene, aligned to the actual spoken words."""
     counts = [max(len(s["text"].split()), 1) for s in scenes]
@@ -281,6 +308,10 @@ OK_LICENSE = re.compile(r"^(cc0|public domain|pd|cc by \d(\.\d)?|cc-by-\d(\.\d)?
 
 def _commons(query, base, used, kind):
     ftype = "video" if kind == "video" else "bitmap"
+    stop = {"with", "from", "that", "this", "into", "over", "under", "about", "close", "view", "shot", "background"}
+    keywords = [w for w in re.findall(r"[a-z]{4,}", query.lower()) if w not in stop]
+    if not keywords:
+        return None
     r = requests.get("https://commons.wikimedia.org/w/api.php", headers=UA, timeout=30, params={
         "action": "query", "format": "json", "generator": "search", "gsrnamespace": 6, "gsrlimit": 12,
         "gsrsearch": f"{query} filetype:{ftype}", "prop": "imageinfo",
@@ -292,15 +323,23 @@ def _commons(query, base, used, kind):
         lic = meta.get("LicenseShortName", {}).get("value", "")
         if f"wm{page['pageid']}" in used or not OK_LICENSE.match(lic.strip()):
             continue
+        name = page.get("title", "").lower()
+        if not any(w in name for w in keywords):  # Commons search is loose: require a real match
+            continue
         if kind == "video" and (info.get("size", 0) > 80 << 20 or info.get("duration", 99) < 3):
             continue
         if kind == "image" and info.get("width", 0) < 800:
             continue
         url = info.get("url") if kind == "video" else info.get("thumburl") or info.get("url")
         ext = os.path.splitext(url.split("?")[0])[1] or (".webm" if kind == "video" else ".jpg")
+        artist = html.unescape(re.sub(r"<[^>]+>", " ", meta.get("Artist", {}).get("value", "Unknown")))
+        artist = re.sub(r"\s+", " ", artist).strip()
+        if "all rights reserved" in artist.lower() or "copyright" in name:
+            continue
+        artist = (artist[:len(artist) // 2].strip() if artist[:len(artist) // 2] == artist[len(artist) // 2:].strip()
+                  else artist)[:60] or "Unknown"
         used.add(f"wm{page['pageid']}")
         _download(url, base + ext, headers=UA)
-        artist = html.unescape(re.sub(r"<[^>]+>", "", meta.get("Artist", {}).get("value", "Unknown"))).strip()[:60]
         return {"kind": kind, "path": base + ext,
                 "credit": f"{artist} / Wikimedia Commons ({lic}) {info.get('descriptionurl', '')}"}
 
@@ -331,9 +370,9 @@ def source_plan():
         providers.append((pexels_video, pexels_photo))
     if config.PIXABAY_API_KEY:
         providers.append((pixabay_video, pixabay_photo))
-    providers.append((commons_video, commons_photo))
     random.shuffle(providers)
-    return [(nasa_video, nasa_photo)] + providers  # NASA only answers for space scenes
+    # NASA only answers for space scenes; Commons last because its matches are looser
+    return [(nasa_video, nasa_photo)] + providers + [(commons_video, commons_photo)]
 
 
 def get_visual(scene, i, out_dir, used, plan):
@@ -402,6 +441,7 @@ def make_video(pkg, out_dir, recent_voices=()):
     ass = subtitles(words, scenes, bounds, hook, os.path.join(out_dir, "captions.ass"))
 
     used, credits, parts, plan = set(), [], [], source_plan()
+    first_shot = {}  # scene index -> its first clean (caption-free) shot, used for the thumbnail
     for i, (scene, (a, b)) in enumerate(zip(scenes, bounds)):
         dur = b - a
         n = 1 if dur < 3.6 else min(3, math.ceil(dur / 3.2))  # a fresh shot roughly every 3 seconds
@@ -412,6 +452,7 @@ def make_video(pkg, out_dir, recent_voices=()):
             if vis["credit"] and vis["credit"] not in credits:
                 credits.append(vis["credit"])
             parts.append(render_scene(vis, dur / n, os.path.join(out_dir, f"part{i:02d}_{k}.mp4")))
+            first_shot.setdefault(i, (parts[-1], vis["kind"]))
 
     concat = os.path.join(out_dir, "parts.txt")
     with open(concat, "w") as f:
@@ -429,6 +470,20 @@ def make_video(pkg, out_dir, recent_voices=()):
     cmd += ["-vf", f"ass={ass}", "-c:v", "libx264", "-preset", "medium", "-crf", "21", "-pix_fmt", "yuv420p",
             "-c:a", "aac", "-b:a", "160k", "-ar", "44100", "-t", f"{total:.2f}", "-movflags", "+faststart", final]
     run(cmd)
+
+    srt(words, os.path.join(out_dir, "captions.srt"))
+    try:
+        from . import thumbnail
+        top = next((i for i, sc in enumerate(scenes) if sc.get("badge") == "#1"), None)
+        # prefer a real footage shot: the #1 reveal for rankings, else the first scene with real footage
+        order = ([top] if top is not None else []) + [i for i in range(1, len(scenes))] + [0]
+        pick = next((i for i in order if first_shot.get(i, (0, "gradient"))[1] != "gradient"), order[0])
+        clip = first_shot[pick][0]
+        thumbnail.make(clip, min(0.6, duration(clip) / 2), pkg.get("thumbnail_text") or pkg.get("hook_text")
+                       or pkg["title"], os.path.join(out_dir, "thumbnail.jpg"), badge="#1" if top is not None else "",
+                       accent_index=random.randrange(4))
+    except Exception as e:  # noqa: BLE001
+        print("Thumbnail failed:", str(e)[:150])
 
     stock = [c for c in credits if "(Pexels)" in c or "(Pixabay)" in c]
     other = [c for c in credits if c not in stock]

@@ -41,6 +41,12 @@ def send_video(path, caption, buttons=None):
         return _call("sendVideo", files={"video": f}, **data)
 
 
+def send_photo(path, caption=""):
+    with open(path, "rb") as f:
+        return _call("sendPhoto", files={"photo": f}, chat_id=config.TELEGRAM_CHAT_ID,
+                     caption=caption[:1000], parse_mode="HTML")
+
+
 def updates(offset, wait=0):
     """wait > 0 long-polls: Telegram holds the request until a message arrives (max `wait` s)."""
     return _call("getUpdates", offset=offset, timeout=wait, allowed_updates=["message", "callback_query"])

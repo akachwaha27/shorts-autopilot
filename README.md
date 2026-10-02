@@ -159,6 +159,13 @@ Each day's 5 ideas mix at least 4 formats. When picking, add a letter to change 
 - **Category:** the correct YouTube category is set for each format.
 - **Variety:** voices, footage sources and formats rotate, so videos don't look mass-produced.
 
+### Thumbnails and subtitles
+- **Thumbnail:** every video gets a designed 1080×1920 thumbnail. It uses a vivid clean frame (the #1 reveal for countdowns) with 2–4 bold hook words in the upper third. It appears in your Telegram preview and is uploaded to YouTube.
+  - YouTube only accepts custom thumbnails from **verified channels**. Verify once, for free, at https://www.youtube.com/verify.
+- **Subtitles:** big captions are burned into the video. A separate closed-caption track (`.srt`) is also uploaded, which helps accessibility and search.
+  - Uploading captions needs the `youtube.force-ssl` permission. Re-run `tools/get_youtube_token.py` once and replace `YT_REFRESH_TOKEN`.
+- The "🚀 posted" message shows `thumbnail ✅/⚠️` and `subtitles ✅/⚠️`, with the reason if YouTube refused.
+
 ### Monetization and YouTube compliance
 - **Original content:** every video has an original script, AI voice and licensed footage. Nothing is reuploaded.
 - **Labels:** AI content is labeled (`containsSyntheticMedia`), every source is credited, and fiction says it is fiction.

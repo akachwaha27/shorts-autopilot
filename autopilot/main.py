@@ -282,7 +282,12 @@ def render_and_preview(st, vid, pkg):
     path, credits = media.make_video(pkg, out, avoid)
     st["recent_voices"] = (st.get("recent_voices", []) + [pkg.get("voice")])[-5:]
     v["package"], v["credits"] = pkg, credits
-    v["file"] = storage.store(path, f"videos-{vid[:10]}", f"{vid}-v{v.get('redos', 0)}.mp4")
+    tag, ver = f"videos-{vid[:10]}", f"{vid}-v{v.get('redos', 0)}"
+    v["file"] = storage.store(path, tag, f"{ver}.mp4")
+    thumb = os.path.join(out, "thumbnail.jpg")
+    v["thumb"] = storage.store(thumb, tag, f"{ver}-thumb.jpg") if os.path.exists(thumb) else None
+    srt_path = os.path.join(out, "captions.srt")
+    v["srt"] = open(srt_path, encoding="utf-8").read() if os.path.exists(srt_path) else None
     v["updated"] = state.iso()
     if not config.REQUIRE_APPROVAL:
         v["status"] = "approved"
@@ -294,6 +299,11 @@ def render_and_preview(st, vid, pkg):
     sent = telegram.send_video(path, caption, [[("✅ Publish", f"ok:{vid}"), ("🔁 Redo", f"redo:{vid}")],
                                                [("🎙 New voice", f"voice:{vid}"), ("⏭ Skip", f"no:{vid}")]])
     v["tg_msg"] = sent.get("message_id")
+    if os.path.exists(thumb):
+        try:
+            telegram.send_photo(thumb, f"🖼 Thumbnail for video #{n}")
+        except Exception as e:  # noqa: BLE001
+            print("thumbnail preview failed:", e)
     auto = (f"⏰ If you don't reply, it auto-publishes in {config.APPROVE_TIMEOUT_HOURS:g}h."
             if config.APPROVE_TIMEOUT_HOURS > 0 else "⏸ It will wait for your reply.")
     others = [k for k, x in st["videos"].items() if x["status"] == "awaiting_approval" and k != vid]
@@ -333,10 +343,23 @@ def generate(st, vid):
 def do_publish(st, vid):
     v = st["videos"][vid]
     pkg = v["package"]
-    path = storage.fetch(v["file"], os.path.join(config.WORK_DIR, "dl"))
+    dl = os.path.join(config.WORK_DIR, "dl")
+    path = storage.fetch(v["file"], dl)
+    thumb = None
+    if v.get("thumb"):
+        try:
+            thumb = storage.fetch(v["thumb"], dl)
+        except Exception as e:  # noqa: BLE001
+            print("thumbnail fetch failed:", e)
+    srt_path = None
+    if v.get("srt"):
+        srt_path = os.path.join(dl, f"{vid}.srt")
+        os.makedirs(dl, exist_ok=True)
+        with open(srt_path, "w", encoding="utf-8") as f:
+            f.write(v["srt"])
     desc = writer.build_description(pkg, v.get("credits", []), human_reviewed=v.get("approved_by") == "you")
     results = publish.publish_all(path, pkg["title"], desc, pkg["hashtags"], pkg.get("tags", []),
-                                  pkg.get("category", "24"))
+                                  pkg.get("category", "24"), thumb, srt_path)
     v["status"], v["results"], v["updated"] = "published", {k: list(r) for k, r in results.items()}, state.iso()
     lines = [f"🚀 <b>Video #{num(vid)} posted:</b> {esc(pkg['title'])}"]
     for name, (link, status) in results.items():
@@ -445,6 +468,9 @@ def cmd_test(args):
     print(pkg["title"], "\n", desc, "\n->", path)
     if config.TELEGRAM_BOT_TOKEN and config.TELEGRAM_CHAT_ID:
         telegram.send_video(path, f"🧪 Test ({fmt_label(fmt)}): <b>{esc(pkg['title'])}</b>\n🎙 {esc(pkg.get('voice'))}")
+        thumb = os.path.join(config.WORK_DIR, "test", "thumbnail.jpg")
+        if os.path.exists(thumb):
+            telegram.send_photo(thumb, "🖼 Thumbnail")
         telegram.send(f"<b>Title:</b> {esc(pkg['title'])}\n<b>Tags:</b> {esc(', '.join(pkg.get('tags', [])))}\n\n"
                       f"<b>Description preview</b>\n\n{esc(desc)[:3200]}")
 

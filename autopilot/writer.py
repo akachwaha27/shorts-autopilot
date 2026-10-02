@@ -50,6 +50,7 @@ METADATA (SEO for YouTube search and suggested):
 - "title": max 60 characters, main keyword in the first 3 words, curiosity-driven but honest
   (the video must deliver what the title promises). No ALL CAPS words. At most one emoji.
 - "description": line 1 = keyword-rich one-sentence summary (max 150 chars); line 2 = one more sentence of context.
+- "thumbnail_text": 2-4 punchy words for the thumbnail (different from the title, high curiosity, no clickbait lies).
 - "hashtags": exactly 4: "#shorts", one broad topic hashtag, one niche hashtag, and "{{format_tag}}".
 - "tags": 10-15 search keywords/phrases people would type to find this (lowercase, no #).
 - "key_facts": every factual claim made (empty list for pure fiction)."""
@@ -102,7 +103,7 @@ Language: {config.LANGUAGE}.
 {RETENTION_RULES.replace('{format_tag}', info['tag'])}
 
 Return JSON:
-{{"title": "...", "hook_text": "...", "description": "...", "hashtags": ["#shorts", "...", "...", "{info['tag']}"],
+{{"title": "...", "hook_text": "...", "thumbnail_text": "...", "description": "...", "hashtags": ["#shorts", "...", "...", "{info['tag']}"],
   "tags": ["..."], "scenes": [{{"text": "narration", "badge": "", "label": "",
   "stock_queries": ["...", "..."], "image_prompt": "..."}}], "key_facts": ["..."]}}"""
     pkg = llm.ask_json(prompt, temperature=0.8 if fmt in ("story", "funny") else 0.7)
@@ -139,6 +140,7 @@ def _normalize(pkg, fmt):
     pkg["hashtags"] = list(dict.fromkeys(tags))[:5]
     pkg["tags"] = [str(t).lstrip("#").strip() for t in pkg.get("tags", []) if t][:15]
     pkg["hook_text"] = str(pkg.get("hook_text") or "").strip()[:40]
+    pkg["thumbnail_text"] = str(pkg.get("thumbnail_text") or pkg["hook_text"]).strip()[:40]
     pkg["title"] = str(pkg.get("title", "")).strip()[:95]
     if fmt == "story" and "fictional" not in pkg.get("description", "").lower():
         pkg["description"] = pkg.get("description", "").rstrip() + "\nThis is an original fictional story."
