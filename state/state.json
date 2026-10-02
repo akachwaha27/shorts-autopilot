@@ -4,46 +4,40 @@
     "2026-10-02": {
       "topics": [
         {
-          "title": "The Insane Sound Tech Inside the Vegas Sphere",
-          "angle": "Explaining how 167,000 hidden speakers use beamforming acoustics to deliver completely different audio tracks to adjacent seats.",
-          "trend_source": "metallica sphere",
-          "virality_score": 9.0,
-          "why": "The Sphere continues to draw massive visual fascination, and the counterintuitive physics of directed soundwaves sparks immediate wonder and high re-watch rates."
+          "title": "Why Soda Cans Explode at 30,000 Feet",
+          "angle": "Explain the science of cabin pressure physics and why carbonated beverages behave bizarrely in aircraft and deep-sea vessels.",
+          "format": "explainer",
+          "trend_source": "mountain dew pitch black",
+          "virality_score": 9,
+          "why": "High-curiosity everyday science fact with strong visual hook potential and an unexpected conclusion that drives rewatches."
         },
         {
-          "title": "The Reaction Time Paradox in Elite Tennis",
-          "angle": "Unpacking the neuroscience of how pro tennis returners react to 130 mph serves before their conscious brain actually sees the ball bounce.",
-          "trend_source": "novak djokovic",
-          "virality_score": 8.8,
-          "why": "Sports science explainers that break down human reaction limits vs. predictive brain processing tap directly into mainstream athletic curiosity."
+          "title": "Top 5 Most Extreme Theme Park Rides on Giant Ships",
+          "angle": "Count down the 5 most insane engineering marvels installed on cruise ships, ranked by verifiable G-force and physical height over water.",
+          "format": "ranking",
+          "trend_source": "cruise industry",
+          "virality_score": 9,
+          "why": "Visually stunning mega-engineering topic that appeals broadly to US travel and tech fans, driving high completion rates."
         },
         {
-          "title": "Why Physics Would Instantly Crush Godzilla",
-          "angle": "Using the biological square-cube law to demonstrate why colossal creatures would collapse under their own bone weight and boil alive.",
-          "trend_source": "Godzilla Minus Zero - Official Trailer",
-          "virality_score": 8.6,
-          "why": "Leverages major movie trailer excitement to deliver a fun, high-energy physics explainer that appeals universally to general audiences."
+          "title": "Top 5 Deepest Ocean Trenches on Earth",
+          "angle": "Count down the 5 deepest spots in the world's oceans ranked precisely by measured depth in meters, featuring bizarre physical pressure facts.",
+          "format": "ranking",
+          "trend_source": "evergreen",
+          "virality_score": 8,
+          "why": "Deep-sea nature and ocean mystery content consistently hits massive swipe-through and retention metrics on US Shorts."
         },
         {
-          "title": "The Bizarre Science of Raining Animals",
-          "angle": "A meteorological breakdown of how tornadic waterspouts can vacuum entire schools of fish or frogs into clouds and deposit them miles inland.",
-          "trend_source": "Most Weird Rain In The World \ud83c\udf0e #shorts",
-          "virality_score": 8.3,
-          "why": "Sounds like an impossible myth, making viewers watch all the way through to see the verified atmospheric mechanics behind the phenomenon."
-        },
-        {
-          "title": "How Real Ground-Effect Vehicles Mimic Podracers",
-          "angle": "Exploring the aerodynamic 'wing-in-ground' effect that allows real hover-craft to glide inches above the surface at hundreds of miles per hour.",
-          "trend_source": "star wars galactic racer",
-          "virality_score": 8.0,
-          "why": "Translates gaming and sci-fi speed fantasies into cool, obscure real-world aerospace engineering and historical prototype vehicles."
+          "title": "3 Smart Travel Hacks Airlines Don't Advertise",
+          "angle": "Demonstrate three practical, verified travel hacks for packing and airport navigation that save time and avoid luggage fees.",
+          "format": "tips",
+          "trend_source": "cruise industry",
+          "virality_score": 7,
+          "why": "High utility drives high saves and shares among general travel-enthusiast audiences."
         }
       ],
-      "sent_at": "2026-10-02T13:31:55.767975+00:00",
-      "selected": [
-        0,
-        1
-      ],
+      "sent_at": "2026-10-02T17:00:12.299716+00:00",
+      "selected": [],
       "status": "waiting"
     }
   },
@@ -237,8 +231,8 @@
   ],
   "trend_tries": {
     "2026-10-02": {
-      "n": 2,
-      "at": "2026-10-02T13:31:46.003209+00:00"
+      "n": 3,
+      "at": "2026-10-02T16:57:45.893357+00:00"
     }
   }
 }
