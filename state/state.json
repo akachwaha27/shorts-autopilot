@@ -1,5 +1,5 @@
 {
-  "tg_offset": 40455508,
+  "tg_offset": 40455515,
   "batches": {
     "2026-10-02": {
       "topics": [
@@ -88,7 +88,10 @@
         }
       ],
       "sent_at": "2026-10-03T15:20:58.348241+00:00",
-      "selected": [],
+      "selected": [
+        0,
+        1
+      ],
       "status": "waiting"
     }
   },
@@ -616,6 +619,312 @@
       },
       "uploaded_at": "2026-10-02T18:47:17.267387+00:00",
       "slot": "2026-10-03T14:15:00+00:00"
+    },
+    "2026-10-03-1": {
+      "topic": {
+        "title": "Top 5 Places That Are Warmer Than Your Oven",
+        "angle": "A countdown of Earth's most surprisingly scorching environments, contrasting them against everyday household appliances for scale.",
+        "format": "ranking",
+        "trend_source": "General nature & science curiosity",
+        "virality_score": 9,
+        "why": "High-retention visual comparison right at the start grabs attention, with clear scaling that drives comments debating temperatures."
+      },
+      "status": "awaiting_approval",
+      "by": "you",
+      "updated": "2026-10-03T16:44:09.180095+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "places hotter than an oven",
+        "title": "Top 5 Places Warmer Than Your Oven \ud83d\udd25",
+        "hook_text": "Hotter than your oven",
+        "thumbnail_text": "Hotter Than An Oven!",
+        "description": "Discover the top 5 places warmer than your oven, from scorching deserts to boiling ground. Can you guess which spot beats a kitchen appliance?",
+        "hashtags": [
+          "#shorts",
+          "#science",
+          "#earthfacts",
+          "#top5"
+        ],
+        "tags": [
+          "places hotter than an oven",
+          "death valley heat",
+          "extreme hot weather",
+          "hottest place on earth",
+          "extreme temperatures on earth",
+          "extreme temperatures",
+          "extreme temperatures around the world",
+          "earths hottest spots",
+          "hot places",
+          "natural heat",
+          "science facts",
+          "extreme earth",
+          "geography facts",
+          "weather extremes",
+          "temperature comparisons"
+        ],
+        "pinned_comment": "Would you dare to visit the number one spot on this list? Let us know below! \ud83c\udf21\ufe0f",
+        "scenes": [
+          {
+            "text": "Your kitchen oven gets hot, but Earth has spots that completely destroy it.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "kitchen oven interior",
+              "extreme desert heat wave"
+            ],
+            "image_prompt": "Vertical 9:16 cinematic shot of a glowing hot kitchen oven interior, highly detailed, no people, no text",
+            "stock_query": "kitchen oven interior"
+          },
+          {
+            "text": "Number five, Death Valley hits a sizzling fifty six degrees Celsius in the shade.",
+            "badge": "#5",
+            "label": "Death Valley",
+            "stock_queries": [
+              "death valley desert",
+              "cracked desert floor heat"
+            ],
+            "image_prompt": "Vertical 9:16 aerial shot of cracked dry desert ground under a blinding sun, shimmering heat waves, no text",
+            "stock_query": "death valley desert"
+          },
+          {
+            "text": "At number four, the Lut Desert surface reaches a massive seventy degrees.",
+            "badge": "#4",
+            "label": "Lut Desert",
+            "stock_queries": [
+              "lut desert iran",
+              "hot sand dunes"
+            ],
+            "image_prompt": "Vertical 9:16 shot of massive sand dunes in a scorching desert landscape, intense sunlight, no text",
+            "stock_query": "lut desert iran"
+          },
+          {
+            "text": "Number three, Dallol in Ethiopia bubbles away at over one hundred degrees constantly.",
+            "badge": "#3",
+            "label": "Dallol Ethiopia",
+            "stock_queries": [
+              "dallol hydrothermal field",
+              "volcanic sulfur springs"
+            ],
+            "image_prompt": "Vertical 9:16 vibrant sulfur springs with boiling mineral water and steam, colorful landscape, no text",
+            "stock_query": "dallol hydrothermal field"
+          },
+          {
+            "text": "At number two, active lava flows reach a scorching one thousand two hundred degrees.",
+            "badge": "#2",
+            "label": "Active Lava Flows",
+            "stock_queries": [
+              "flowing lava river",
+              "molten magma glow"
+            ],
+            "image_prompt": "Vertical 9:16 glowing orange molten lava flowing in a dark volcanic field, high contrast, no text",
+            "stock_query": "flowing lava river"
+          },
+          {
+            "text": "Number one, the sun's outer corona is millions of degrees, making it the ultimate heat source. Because your kitchen oven gets hot...",
+            "badge": "#1",
+            "label": "The Sun",
+            "stock_queries": [
+              "sun surface solar flare",
+              "solar corona space"
+            ],
+            "image_prompt": "Vertical 9:16 dramatic solar flare erupting from the surface of the sun, deep space background, no text",
+            "stock_query": "sun surface solar flare"
+          },
+          {
+            "text": "Which of these scorching locations would you survive in for just one minute?",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "thermometer heat wave",
+              "sunlight flare horizon"
+            ],
+            "image_prompt": "Vertical 9:16 extreme heat haze over a desolate horizon, bright sunny day, no text",
+            "stock_query": "thermometer heat wave"
+          }
+        ],
+        "key_facts": [
+          "Death Valley air temperature has reached 56.7 degrees Celsius.",
+          "The Lut Desert surface temperature has been recorded up to 70 degrees Celsius.",
+          "Active basaltic lava flows typically reach temperatures around 1,200 degrees Celsius."
+        ],
+        "format": "ranking",
+        "category": "27",
+        "script": "Your kitchen oven gets hot, but Earth has spots that completely destroy it. Number five, Death Valley hits a sizzling fifty six degrees Celsius in the shade. At number four, the Lut Desert surface reaches a massive seventy degrees. Number three, Dallol in Ethiopia bubbles away at over one hundred degrees constantly. At number two, active lava flows reach a scorching one thousand two hundred degrees. Number one, the sun's outer corona is millions of degrees, making it the ultimate heat source. Because your kitchen oven gets hot... Which of these scorching locations would you survive in for just one minute?",
+        "voice": "en-US-AriaNeural"
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AriaNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-1261/; antonlukin (Pixabay) https://pixabay.com/videos/id-284568/; DistillVideos (Pixabay) https://pixabay.com/videos/id-2266/; AndersonCampos (Pixabay) https://pixabay.com/videos/id-38270/; Amirirani (Pixabay) https://pixabay.com/videos/id-70872/; 23974438 (Pixabay) https://pixabay.com/videos/id-92837/; RuslanSikunov (Pixabay) https://pixabay.com/videos/id-203923/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-322939/; asifsharif (Pixabay) https://pixabay.com/videos/id-326081/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-335012/; KlausHausmann (Pixabay) https://pixabay.com/videos/id-8625/; Mario_Krimer (Pixabay) https://pixabay.com/videos/id-370864/",
+        "NASA / GSFC: \"Solar Highlights of 2016/2017: Plasma Rain\" (public domain)",
+        "NASA / GSFC: \"The Sun\u2019s Mysteriously Hot Atmosphere\" (public domain)",
+        "NASA / GSFC: \"NASA's IRIS Spots Its Largest Solar Flare\" (public domain)"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-03",
+        "name": "2026-10-03-1-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-03",
+        "name": "2026-10-03-1-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,096 --> 00:00:02,068\nYour kitchen oven gets hot but Earth\n\n2\n00:00:02,068 --> 00:00:05,023\nhas spots that completely destroy it Number\n\n3\n00:00:05,023 --> 00:00:07,362\nfive Death Valley hits a sizzling fifty\n\n4\n00:00:07,362 --> 00:00:10,115\nsix degrees Celsius in the shade At\n\n5\n00:00:10,115 --> 00:00:12,420\nnumber four the Lut Desert surface reaches\n\n6\n00:00:12,420 --> 00:00:15,952\na massive seventy degrees Number three Dallol\n\n7\n00:00:15,952 --> 00:00:17,959\nin Ethiopia bubbles away at over one\n\n8\n00:00:17,959 --> 00:00:21,445\nhundred degrees constantly At number two active\n\n9\n00:00:21,445 --> 00:00:23,544\nlava flows reach a scorching one thousand\n\n10\n00:00:23,544 --> 00:00:26,709\ntwo hundred degrees Number one the sun's\n\n11\n00:00:26,709 --> 00:00:29,174\nouter corona is millions of degrees making\n\n12\n00:00:29,174 --> 00:00:31,732\nit the ultimate heat source Because your\n\n13\n00:00:31,732 --> 00:00:34,323\nkitchen oven gets hot Which of these\n\n14\n00:00:34,323 --> 00:00:36,399\nscorching locations would you survive in for\n\n15\n00:00:36,399 --> 00:00:37,648\njust one minute\n",
+      "tg_msg": 69,
+      "opts_msg": 71
+    },
+    "2026-10-03-2": {
+      "topic": {
+        "title": "Top 5 Everyday Objects Zoomed In 1,000x",
+        "angle": "A high-speed guessing countdown where viewers try to identify ultra-magnified household items before the reveal.",
+        "format": "ranking",
+        "trend_source": "YouTube Trending visual fascination (e.g. VisionQuest trailer breakdown style)",
+        "virality_score": 9,
+        "why": "Triggers immediate curiosity and encourages rewatches/pausing, heavily boosting completion rates."
+      },
+      "status": "awaiting_approval",
+      "by": "you",
+      "updated": "2026-10-03T16:45:39.084590+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "zoomed in 1000x",
+        "title": "Top 5 Everyday Objects Zoomed In 1,000x \ud83d\udd0d",
+        "hook_text": "Can you guess this?",
+        "thumbnail_text": "What is this?!",
+        "description": "Can you guess these everyday objects zoomed in 1,000x before the reveal? Test your eyes with these extreme macro microscope challenges.",
+        "hashtags": [
+          "#shorts",
+          "#science",
+          "#microscope",
+          "#top5"
+        ],
+        "tags": [
+          "zoomed in 1000x",
+          "everyday objects",
+          "extreme macro",
+          "zoomed objects",
+          "microscope view",
+          "guess the object",
+          "macro photography",
+          "close up everyday objects",
+          "objects under microscope",
+          "things that are zoomed in",
+          "zooming in with microscope",
+          "zooming into things with a microscope",
+          "micro world",
+          "science quiz",
+          "hidden details",
+          "top 5 countdown"
+        ],
+        "pinned_comment": "Which of these zoomed in objects fooled your eyes the most? Let me know below!",
+        "scenes": [
+          {
+            "text": "Can you guess what these everyday objects are zoomed in one thousand times?",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "extreme macro lens",
+              "science microscope view"
+            ],
+            "image_prompt": "Abstract futuristic scientific microscope lens close up, vertical 9:16, highly detailed, no text, no people.",
+            "stock_query": "extreme macro lens"
+          },
+          {
+            "text": "Number five. This bumpy colorful terrain is actually a grain of table salt.",
+            "badge": "#5",
+            "label": "Table Salt",
+            "stock_queries": [
+              "salt crystals macro",
+              "white salt grains"
+            ],
+            "image_prompt": "Crystalline mineral structures under macro lens, vertical 9:16, vibrant colors, no text, no people.",
+            "stock_query": "salt crystals macro"
+          },
+          {
+            "text": "At number four. Those woven fibers belong to a standard cotton bed sheet.",
+            "badge": "#4",
+            "label": "Cotton Sheet",
+            "stock_queries": [
+              "fabric texture macro",
+              "woven cotton threads"
+            ],
+            "image_prompt": "Close up microscopic view of woven textile fibers, vertical 9:16, high detail, no text, no people.",
+            "stock_query": "fabric texture macro"
+          },
+          {
+            "text": "Number three. This metallic forest is the sharp tip of a sewing needle.",
+            "badge": "#3",
+            "label": "Sewing Needle",
+            "stock_queries": [
+              "metal texture macro",
+              "steel needle tip"
+            ],
+            "image_prompt": "Polished steel metal surface extreme close up, vertical 9:16, abstract reflections, no text, no people.",
+            "stock_query": "metal texture macro"
+          },
+          {
+            "text": "At number two. Those golden tubes are the bristles on a plastic toothbrush.",
+            "badge": "#2",
+            "label": "Toothbrush",
+            "stock_queries": [
+              "plastic bristles macro",
+              "synthetic fibers close"
+            ],
+            "image_prompt": "Colorful synthetic plastic bristles under macro lens, vertical 9:16, bright lighting, no text, no people.",
+            "stock_query": "plastic bristles macro"
+          },
+          {
+            "text": "Number one. This sticky maze is the tiny hook side of velcro tape.",
+            "badge": "#1",
+            "label": "Velcro Tape",
+            "stock_queries": [
+              "velcro hooks macro",
+              "fabric fastener close"
+            ],
+            "image_prompt": "Synthetic hook and loop fastener microscopic view, vertical 9:16, complex geometry, no text, no people.",
+            "stock_query": "velcro hooks macro"
+          },
+          {
+            "text": "Did you guess them right? Let me know, because",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "magnifying glass close",
+              "scientific discovery"
+            ],
+            "image_prompt": "Glowing scientific laboratory background, vertical 9:16, futuristic aesthetic, no text, no people.",
+            "stock_query": "magnifying glass close"
+          }
+        ],
+        "key_facts": [
+          "Table salt forms cubic crystal structures visible under magnification.",
+          "Cotton bed sheets consist of tightly woven natural fibers.",
+          "Sewing needles appear blunt and rough when viewed under a microscope.",
+          "Toothbrush bristles are made of uniform extruded synthetic plastic.",
+          "Velcro uses a system of tiny molded plastic hooks."
+        ],
+        "format": "ranking",
+        "category": "27",
+        "script": "Can you guess what these everyday objects are zoomed in one thousand times? Number five. This bumpy colorful terrain is actually a grain of table salt. At number four. Those woven fibers belong to a standard cotton bed sheet. Number three. This metallic forest is the sharp tip of a sewing needle. At number two. Those golden tubes are the bristles on a plastic toothbrush. Number one. This sticky maze is the tiny hook side of velcro tape. Did you guess them right? Let me know, because",
+        "voice": "en-CA-LiamNeural"
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-CA-LiamNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-1083/; YRDesigns (Pixabay) https://pixabay.com/videos/id-290487/; IgorKocka (Pixabay) https://pixabay.com/videos/id-307057/; Ian5152 (Pixabay) https://pixabay.com/videos/id-275593/; StefWithAnF (Pixabay) https://pixabay.com/videos/id-48296/; tommyvideo (Pixabay) https://pixabay.com/videos/id-96066/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-340029/; DistillVideos (Pixabay) https://pixabay.com/videos/id-1111/; RoyBuri (Pixabay) https://pixabay.com/videos/id-85656/; Yaochenglei (Pixabay) https://pixabay.com/videos/id-117924/; Danil_Shostak (Pixabay) https://pixabay.com/videos/id-34855/; motionstock (Pixabay) https://pixabay.com/videos/id-111667/; tommyvideo (Pixabay) https://pixabay.com/videos/id-5393/; tommyvideo (Pixabay) https://pixabay.com/videos/id-5456/"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-03",
+        "name": "2026-10-03-2-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-03",
+        "name": "2026-10-03-2-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,096 --> 00:00:01,751\nCan you guess what these everyday objects\n\n2\n00:00:01,751 --> 00:00:04,363\nare zoomed in one thousand times Number\n\n3\n00:00:04,363 --> 00:00:07,419\nfive This bumpy colorful terrain is actually\n\n4\n00:00:07,419 --> 00:00:09,768\na grain of table salt At number\n\n5\n00:00:09,768 --> 00:00:12,546\nfour Those woven fibers belong to a\n\n6\n00:00:12,546 --> 00:00:16,319\nstandard cotton bed sheet Number three This\n\n7\n00:00:16,319 --> 00:00:17,847\nmetallic forest is the sharp tip of\n\n8\n00:00:17,847 --> 00:00:21,181\na sewing needle At number two Those\n\n9\n00:00:21,181 --> 00:00:22,523\ngolden tubes are the bristles on a\n\n10\n00:00:22,523 --> 00:00:26,493\nplastic toothbrush Number one This sticky maze\n\n11\n00:00:26,493 --> 00:00:27,940\nis the tiny hook side of velcro\n\n12\n00:00:27,940 --> 00:00:30,972\ntape Did you guess them right Let\n\n13\n00:00:30,972 --> 00:00:32,391\nme know because\n",
+      "tg_msg": 72,
+      "opts_msg": 74
     }
   },
   "history": [
@@ -623,7 +932,9 @@
     "The Reaction Time Paradox in Elite Tennis",
     "Why Soda Cans Explode at 30,000 Feet",
     "Top 5 Most Extreme Theme Park Rides on Giant Ships",
-    "Top 5 Deepest Ocean Trenches on Earth"
+    "Top 5 Deepest Ocean Trenches on Earth",
+    "Top 5 Places That Are Warmer Than Your Oven",
+    "Top 5 Everyday Objects Zoomed In 1,000x"
   ],
   "trend_tries": {
     "2026-10-02": {
@@ -639,6 +950,8 @@
   "recent_voices": [
     "en-GB-RyanNeural",
     "en-GB-SoniaNeural",
-    "en-IE-ConnorNeural"
+    "en-IE-ConnorNeural",
+    "en-US-AriaNeural",
+    "en-CA-LiamNeural"
   ]
 }
