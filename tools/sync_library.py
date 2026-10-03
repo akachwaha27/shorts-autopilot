@@ -213,9 +213,12 @@ def run_sync():
         for key, d, ext, field in (("file", vdir, ".mp4", "_video_file"), ("thumb", tdir, ".jpg", "_thumb_file")):
             ref = v.get(key) or {}
             dest = os.path.join(d, base + ext)
-            prev = index.get(f"{vid}{ext}")
-            if prev and prev != dest and os.path.exists(prev) and not os.path.exists(dest):
-                os.replace(prev, dest)  # title changed: rename your copy to match
+            olds = [index.get(f"{vid}{ext}")]
+            if v.get("original_title"):
+                olds.append(os.path.join(d, f"{v.get('date', vid[:10])} - {safe_name(v['original_title'])}{ext}"))
+            for prev in olds:
+                if prev and prev != dest and os.path.exists(prev) and not os.path.exists(dest):
+                    os.replace(prev, dest)  # title changed in Studio: rename your copy to match
             if os.path.exists(dest):
                 v[field] = dest
                 index[f"{vid}{ext}"] = dest
