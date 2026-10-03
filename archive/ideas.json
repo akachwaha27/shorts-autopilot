@@ -49,5 +49,67 @@
   ],
   "sent_at": "2026-10-02T17:00:12.299716+00:00",
   "status": "closed"
+ },
+ "2026-10-03": {
+  "date": "2026-10-03",
+  "ideas": [
+   {
+    "angle": "Counting down the world's fastest accelerating production electric vehicles by verified 0-60 mph speed using high-tech motion graphics.",
+    "format": "ranking",
+    "picked": false,
+    "rank": 1,
+    "title": "Top 5 Fastest Electric Cars on Earth",
+    "trend_source": "Google Trends - Gasoline / EV Sales Surge",
+    "video_id": null,
+    "virality_score": 9,
+    "why": "Capitalizes on the trending shift toward electric vehicles while delivering high visual intensity and a classic countdown structure that keeps retention high until #1."
+   },
+   {
+    "angle": "A fast-paced interactive quiz presenting three word-association brainteasers with a 5-second timer per question.",
+    "format": "quiz",
+    "picked": false,
+    "rank": 2,
+    "title": "3 Word Logic Puzzles Only 5% Can Solve",
+    "trend_source": "Google Trends - Connections Hints Today",
+    "video_id": null,
+    "virality_score": 9,
+    "why": "Leverages the massive daily search demand for brain games like Connections, driving comment section engagement as viewers post their final scores."
+   },
+   {
+    "angle": "An engaging physics breakdown showing how modern 3D-printed liquid lattice materials inside helmets disperse violent kinetic energy.",
+    "format": "explainer",
+    "picked": false,
+    "rank": 3,
+    "title": "How Football Helmets Survive 100 Gs of Force",
+    "trend_source": "Google Trends - Alabama vs Mississippi State",
+    "video_id": null,
+    "virality_score": 8,
+    "why": "Taps into peak football season interest by solving a genuine mystery of sports tech using clear visual science animations."
+   },
+   {
+    "angle": "Ranking Earth's most resilient animals by maximum verified lifespan, starting from 200-year-old bowhead whales up to biological immortality.",
+    "format": "ranking",
+    "picked": false,
+    "rank": 4,
+    "title": "Top 5 Longest-Living Creatures on Earth",
+    "trend_source": "Evergreen Nature",
+    "video_id": null,
+    "virality_score": 8,
+    "why": "Mind-blowing biology statistics perform exceptionally well on faceless channels, triggering rewatches and high share rates among nature fans."
+   },
+   {
+    "angle": "A quick screen-capture tutorial revealing powerful, lesser-known keyboard shortcuts for Windows and Mac that double daily workflow speed.",
+    "format": "tips",
+    "picked": false,
+    "rank": 5,
+    "title": "3 Hidden Computer Shortcuts You Need to Know",
+    "trend_source": "Evergreen Tech",
+    "video_id": null,
+    "virality_score": 8,
+    "why": "Delivers immediate, actionable value that prompts viewers to bookmark or save the Short, a strong positive signal for the YouTube algorithm."
+   }
+  ],
+  "sent_at": "2026-10-03T12:37:55.563608+00:00",
+  "status": "waiting"
  }
 }

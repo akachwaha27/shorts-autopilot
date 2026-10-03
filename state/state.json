@@ -43,6 +43,53 @@
         2
       ],
       "status": "closed"
+    },
+    "2026-10-03": {
+      "topics": [
+        {
+          "title": "Top 5 Fastest Electric Cars on Earth",
+          "angle": "Counting down the world's fastest accelerating production electric vehicles by verified 0-60 mph speed using high-tech motion graphics.",
+          "format": "ranking",
+          "trend_source": "Google Trends - Gasoline / EV Sales Surge",
+          "virality_score": 9,
+          "why": "Capitalizes on the trending shift toward electric vehicles while delivering high visual intensity and a classic countdown structure that keeps retention high until #1."
+        },
+        {
+          "title": "3 Word Logic Puzzles Only 5% Can Solve",
+          "angle": "A fast-paced interactive quiz presenting three word-association brainteasers with a 5-second timer per question.",
+          "format": "quiz",
+          "trend_source": "Google Trends - Connections Hints Today",
+          "virality_score": 9,
+          "why": "Leverages the massive daily search demand for brain games like Connections, driving comment section engagement as viewers post their final scores."
+        },
+        {
+          "title": "How Football Helmets Survive 100 Gs of Force",
+          "angle": "An engaging physics breakdown showing how modern 3D-printed liquid lattice materials inside helmets disperse violent kinetic energy.",
+          "format": "explainer",
+          "trend_source": "Google Trends - Alabama vs Mississippi State",
+          "virality_score": 8,
+          "why": "Taps into peak football season interest by solving a genuine mystery of sports tech using clear visual science animations."
+        },
+        {
+          "title": "Top 5 Longest-Living Creatures on Earth",
+          "angle": "Ranking Earth's most resilient animals by maximum verified lifespan, starting from 200-year-old bowhead whales up to biological immortality.",
+          "format": "ranking",
+          "trend_source": "Evergreen Nature",
+          "virality_score": 8,
+          "why": "Mind-blowing biology statistics perform exceptionally well on faceless channels, triggering rewatches and high share rates among nature fans."
+        },
+        {
+          "title": "3 Hidden Computer Shortcuts You Need to Know",
+          "angle": "A quick screen-capture tutorial revealing powerful, lesser-known keyboard shortcuts for Windows and Mac that double daily workflow speed.",
+          "format": "tips",
+          "trend_source": "Evergreen Tech",
+          "virality_score": 8,
+          "why": "Delivers immediate, actionable value that prompts viewers to bookmark or save the Short, a strong positive signal for the YouTube algorithm."
+        }
+      ],
+      "sent_at": "2026-10-03T12:37:55.563608+00:00",
+      "selected": [],
+      "status": "waiting"
     }
   },
   "videos": {
@@ -582,6 +629,10 @@
     "2026-10-02": {
       "n": 3,
       "at": "2026-10-02T16:57:45.893357+00:00"
+    },
+    "2026-10-03": {
+      "n": 1,
+      "at": "2026-10-03T12:37:21.747568+00:00"
     }
   },
   "cleanup_day": "2026-10-03",
