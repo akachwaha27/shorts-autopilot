@@ -155,8 +155,26 @@ def _normalize(pkg, fmt):
 
 
 def review(pkg):
-    """Independent pass: is this safe, advertiser-friendly and policy compliant?"""
-    prompt = f"""You are a strict YouTube content-policy and advertiser-friendliness reviewer.
+    """Independent pass: is this safe, advertiser-friendly, policy compliant and factually grounded?"""
+    evidence = ""
+    if config.FACT_CHECK:
+        try:
+            from . import factcheck
+            found = factcheck.gather(pkg)
+            pkg["fact_sources"] = found["sources"]
+            evidence = found["evidence"]
+        except Exception as e:  # noqa: BLE001
+            print("fact-check skipped:", str(e)[:150])
+    evidence_rules = f"""
+
+WIKIPEDIA EVIDENCE (article intros fetched for the claims above):
+{evidence}
+
+Fact-check rules: compare every FACT and every number/rank in the SCRIPT with this evidence.
+Reject (approved=false) and name the claim in "issues" if the evidence contradicts it (wrong number,
+wrong order, wrong name). A claim the evidence doesn't mention is fine only if it is common knowledge;
+reject surprising specific numbers that nothing supports. Small rounding ("about 11 km") is fine.""" if evidence else ""
+    prompt = f"""You are a strict YouTube content-policy, advertiser-friendliness and fact-check reviewer.
 Review this Short and return JSON {{"approved": true/false, "issues": ["..."],
 "fixed_title": "", "fixed_script_needed": true/false}}.
 
@@ -171,7 +189,7 @@ FORMAT: {pkg.get('format')}
 TITLE: {pkg['title']}
 DESCRIPTION: {pkg['description']}
 SCRIPT: {pkg['script']}
-FACTS: {pkg.get('key_facts')}"""
+FACTS: {pkg.get('key_facts')}{evidence_rules}"""
     verdict = llm.ask_json(prompt, temperature=0.0)
     if verdict.get("fixed_title"):
         pkg["title"] = str(verdict["fixed_title"])[:95]
