@@ -62,7 +62,7 @@ SELECT_TIMEOUT_HOURS = env("SELECT_TIMEOUT_HOURS", 3, float)
 REQUIRE_APPROVAL = env("REQUIRE_APPROVAL", True, bool)
 APPROVE_TIMEOUT_HOURS = env("APPROVE_TIMEOUT_HOURS", 2, float)  # auto-publish if you stay silent
 TARGET_SECONDS = env("TARGET_SECONDS", 45, int)
-FACT_CHECK = env("FACT_CHECK", True, bool)           # check script facts against Wikipedia before rendering
+FACT_CHECK = env("FACT_CHECK", False, bool)          # check script facts against Wikipedia before rendering (set var FACT_CHECK=true to enable)
 POLL_MINUTES = env("POLL_MINUTES", 12, float)        # how long each run stays online answering Telegram
 # Peak Shorts viewing slots (local time of your audience). Each approved video takes the next free slot.
 SCHEDULE_PUBLISH = env("SCHEDULE_PUBLISH", True, bool)
