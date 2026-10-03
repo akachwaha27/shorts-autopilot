@@ -92,7 +92,7 @@
         0,
         1
       ],
-      "status": "waiting"
+      "status": "closed"
     }
   },
   "videos": {
@@ -629,9 +629,9 @@
         "virality_score": 9,
         "why": "High-retention visual comparison right at the start grabs attention, with clear scaling that drives comments debating temperatures."
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "you",
-      "updated": "2026-10-03T16:44:09.180095+00:00",
+      "updated": "2026-10-03T19:24:29.765908+00:00",
       "redos": 0,
       "package": {
         "primary_keyword": "places hotter than an oven",
@@ -771,7 +771,29 @@
       },
       "srt": "1\n00:00:00,096 --> 00:00:02,068\nYour kitchen oven gets hot but Earth\n\n2\n00:00:02,068 --> 00:00:05,023\nhas spots that completely destroy it Number\n\n3\n00:00:05,023 --> 00:00:07,362\nfive Death Valley hits a sizzling fifty\n\n4\n00:00:07,362 --> 00:00:10,115\nsix degrees Celsius in the shade At\n\n5\n00:00:10,115 --> 00:00:12,420\nnumber four the Lut Desert surface reaches\n\n6\n00:00:12,420 --> 00:00:15,952\na massive seventy degrees Number three Dallol\n\n7\n00:00:15,952 --> 00:00:17,959\nin Ethiopia bubbles away at over one\n\n8\n00:00:17,959 --> 00:00:21,445\nhundred degrees constantly At number two active\n\n9\n00:00:21,445 --> 00:00:23,544\nlava flows reach a scorching one thousand\n\n10\n00:00:23,544 --> 00:00:26,709\ntwo hundred degrees Number one the sun's\n\n11\n00:00:26,709 --> 00:00:29,174\nouter corona is millions of degrees making\n\n12\n00:00:29,174 --> 00:00:31,732\nit the ultimate heat source Because your\n\n13\n00:00:31,732 --> 00:00:34,323\nkitchen oven gets hot Which of these\n\n14\n00:00:34,323 --> 00:00:36,399\nscorching locations would you survive in for\n\n15\n00:00:36,399 --> 00:00:37,648\njust one minute\n",
       "tg_msg": 69,
-      "opts_msg": 71
+      "opts_msg": 71,
+      "approved_by": "auto",
+      "description_full": "Discover the top 5 places warmer than your oven, from scorching deserts to boiling ground. Can you guess which spot beats a kitchen appliance?\n\n#shorts #science #earthfacts #top5\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AriaNeural).\nStock footage/photos (Pexels/Pixabay Content License): Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-1261/; antonlukin (Pixabay) https://pixabay.com/videos/id-284568/; DistillVideos (Pixabay) https://pixabay.com/videos/id-2266/; AndersonCampos (Pixabay) https://pixabay.com/videos/id-38270/; Amirirani (Pixabay) https://pixabay.com/videos/id-70872/; 23974438 (Pixabay) https://pixabay.com/videos/id-92837/; RuslanSikunov (Pixabay) https://pixabay.com/videos/id-203923/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-322939/; asifsharif (Pixabay) https://pixabay.com/videos/id-326081/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-335012/; KlausHausmann (Pixabay) https://pixabay.com/videos/id-8625/; Mario_Krimer (Pixabay) https://pixabay.com/videos/id-370864/\nNASA / GSFC: \"Solar Highlights of 2016/2017: Plasma Rain\" (public domain)\nNASA / GSFC: \"The Sun\u2019s Mysteriously Hot Atmosphere\" (public domain)\nNASA / GSFC: \"NASA's IRIS Spots Its Largest Solar Flare\" (public domain)\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/AlkNprbbJys",
+          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-10-03T19:24:29.765927+00:00",
+      "slot": "2026-10-03T23:15:00+00:00"
     },
     "2026-10-03-2": {
       "topic": {
@@ -782,9 +804,9 @@
         "virality_score": 9,
         "why": "Triggers immediate curiosity and encourages rewatches/pausing, heavily boosting completion rates."
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "you",
-      "updated": "2026-10-03T16:45:39.084590+00:00",
+      "updated": "2026-10-03T19:24:38.223049+00:00",
       "redos": 0,
       "package": {
         "primary_keyword": "zoomed in 1000x",
@@ -924,7 +946,29 @@
       },
       "srt": "1\n00:00:00,096 --> 00:00:01,751\nCan you guess what these everyday objects\n\n2\n00:00:01,751 --> 00:00:04,363\nare zoomed in one thousand times Number\n\n3\n00:00:04,363 --> 00:00:07,419\nfive This bumpy colorful terrain is actually\n\n4\n00:00:07,419 --> 00:00:09,768\na grain of table salt At number\n\n5\n00:00:09,768 --> 00:00:12,546\nfour Those woven fibers belong to a\n\n6\n00:00:12,546 --> 00:00:16,319\nstandard cotton bed sheet Number three This\n\n7\n00:00:16,319 --> 00:00:17,847\nmetallic forest is the sharp tip of\n\n8\n00:00:17,847 --> 00:00:21,181\na sewing needle At number two Those\n\n9\n00:00:21,181 --> 00:00:22,523\ngolden tubes are the bristles on a\n\n10\n00:00:22,523 --> 00:00:26,493\nplastic toothbrush Number one This sticky maze\n\n11\n00:00:26,493 --> 00:00:27,940\nis the tiny hook side of velcro\n\n12\n00:00:27,940 --> 00:00:30,972\ntape Did you guess them right Let\n\n13\n00:00:30,972 --> 00:00:32,391\nme know because\n",
       "tg_msg": 72,
-      "opts_msg": 74
+      "opts_msg": 74,
+      "approved_by": "auto",
+      "description_full": "Can you guess these everyday objects zoomed in 1,000x before the reveal? Test your eyes with these extreme macro microscope challenges.\n\n#shorts #science #microscope #top5\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-CA-LiamNeural).\nStock footage/photos (Pexels/Pixabay Content License): Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-1083/; YRDesigns (Pixabay) https://pixabay.com/videos/id-290487/; IgorKocka (Pixabay) https://pixabay.com/videos/id-307057/; Ian5152 (Pixabay) https://pixabay.com/videos/id-275593/; StefWithAnF (Pixabay) https://pixabay.com/videos/id-48296/; tommyvideo (Pixabay) https://pixabay.com/videos/id-96066/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-340029/; DistillVideos (Pixabay) https://pixabay.com/videos/id-1111/; RoyBuri (Pixabay) https://pixabay.com/videos/id-85656/; Yaochenglei (Pixabay) https://pixabay.com/videos/id-117924/; Danil_Shostak (Pixabay) https://pixabay.com/videos/id-34855/; motionstock (Pixabay) https://pixabay.com/videos/id-111667/; tommyvideo (Pixabay) https://pixabay.com/videos/id-5393/; tommyvideo (Pixabay) https://pixabay.com/videos/id-5456/\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/SSbnYalw2EE",
+          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-10-03T19:24:38.223066+00:00",
+      "slot": "2026-10-04T14:15:00+00:00"
     }
   },
   "history": [

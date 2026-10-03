@@ -83,7 +83,7 @@
   "voice": "en-GB-RyanNeural",
   "youtube_id": "x_oFEEa_ZYw",
   "youtube_stats": {
-   "checked_at": "2026-10-03T16:42:06.998099+00:00",
+   "checked_at": "2026-10-03T19:24:22.513084+00:00",
    "comments": 0,
    "likes": 0,
    "privacy": "private",
@@ -176,7 +176,7 @@
   "voice": "en-GB-SoniaNeural",
   "youtube_id": "ULFlC_DQZFA",
   "youtube_stats": {
-   "checked_at": "2026-10-03T16:42:06.998120+00:00",
+   "checked_at": "2026-10-03T19:24:22.513109+00:00",
    "comments": 0,
    "likes": 0,
    "privacy": "private",
@@ -275,18 +275,18 @@
   "voice": "en-IE-ConnorNeural",
   "youtube_id": "SzXGwV_51-4",
   "youtube_stats": {
-   "checked_at": "2026-10-03T16:42:06.998128+00:00",
+   "checked_at": "2026-10-03T19:24:22.513116+00:00",
    "comments": 0,
-   "likes": 0,
+   "likes": 1,
    "privacy": "public",
    "published_at": "2026-10-03T14:00:27Z",
    "title": "The 5 Deepest Places in the Ocean, Ranked 🌊",
-   "views": 0
+   "views": 9
   }
  },
  "2026-10-03-1": {
   "angle": "A countdown of Earth's most surprisingly scorching environments, contrasting them against everyday household appliances for scale.",
-  "approved_by": "",
+  "approved_by": "auto",
   "category": "27",
   "credits": [
    "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AriaNeural).",
@@ -318,12 +318,29 @@
    "Active basaltic lava flows typically reach temperatures around 1,200 degrees Celsius."
   ],
   "pinned_comment": "Would you dare to visit the number one spot on this list? Let us know below! 🌡️",
-  "platforms": {},
+  "platforms": {
+   "Facebook": {
+    "link": null,
+    "status": "skipped (not configured)"
+   },
+   "Instagram": {
+    "link": null,
+    "status": "skipped (not configured)"
+   },
+   "TikTok": {
+    "link": null,
+    "status": "skipped (not configured)"
+   },
+   "YouTube": {
+    "link": "https://youtube.com/shorts/AlkNprbbJys",
+    "status": "private · thumbnail ✅ · subtitles ✅ · comment ⚠️ needs a verified channel (youtube.com/verify)"
+   }
+  },
   "primary_keyword": "places hotter than an oven",
   "redos": 0,
-  "scheduled_for": "",
+  "scheduled_for": "2026-10-03T23:15:00+00:00",
   "script": "Your kitchen oven gets hot, but Earth has spots that completely destroy it. Number five, Death Valley hits a sizzling fifty six degrees Celsius in the shade. At number four, the Lut Desert surface reaches a massive seventy degrees. Number three, Dallol in Ethiopia bubbles away at over one hundred degrees constantly. At number two, active lava flows reach a scorching one thousand two hundred degrees. Number one, the sun's outer corona is millions of degrees, making it the ultimate heat source. Because your kitchen oven gets hot... Which of these scorching locations would you survive in for just one minute?",
-  "status": "awaiting_approval",
+  "status": "published",
   "subtitles_srt": "1\n00:00:00,096 --> 00:00:02,068\nYour kitchen oven gets hot but Earth\n\n2\n00:00:02,068 --> 00:00:05,023\nhas spots that completely destroy it Number\n\n3\n00:00:05,023 --> 00:00:07,362\nfive Death Valley hits a sizzling fifty\n\n4\n00:00:07,362 --> 00:00:10,115\nsix degrees Celsius in the shade At\n\n5\n00:00:10,115 --> 00:00:12,420\nnumber four the Lut Desert surface reaches\n\n6\n00:00:12,420 --> 00:00:15,952\na massive seventy degrees Number three Dallol\n\n7\n00:00:15,952 --> 00:00:17,959\nin Ethiopia bubbles away at over one\n\n8\n00:00:17,959 --> 00:00:21,445\nhundred degrees constantly At number two active\n\n9\n00:00:21,445 --> 00:00:23,544\nlava flows reach a scorching one thousand\n\n10\n00:00:23,544 --> 00:00:26,709\ntwo hundred degrees Number one the sun's\n\n11\n00:00:26,709 --> 00:00:29,174\nouter corona is millions of degrees making\n\n12\n00:00:29,174 --> 00:00:31,732\nit the ultimate heat source Because your\n\n13\n00:00:31,732 --> 00:00:34,323\nkitchen oven gets hot Which of these\n\n14\n00:00:34,323 --> 00:00:36,399\nscorching locations would you survive in for\n\n15\n00:00:36,399 --> 00:00:37,648\njust one minute\n",
   "tags": [
    "places hotter than an oven",
@@ -350,14 +367,15 @@
   "thumbnail_text": "Hotter Than An Oven!",
   "title": "Top 5 Places Warmer Than Your Oven 🔥",
   "trend_source": "General nature & science curiosity",
-  "updated": "2026-10-03T16:44:09.180095+00:00",
-  "uploaded_at": "",
+  "updated": "2026-10-03T19:24:29.765908+00:00",
+  "uploaded_at": "2026-10-03T19:24:29.765927+00:00",
   "virality_score": 9,
-  "voice": "en-US-AriaNeural"
+  "voice": "en-US-AriaNeural",
+  "youtube_id": "AlkNprbbJys"
  },
  "2026-10-03-2": {
   "angle": "A high-speed guessing countdown where viewers try to identify ultra-magnified household items before the reveal.",
-  "approved_by": "",
+  "approved_by": "auto",
   "category": "27",
   "credits": [
    "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-CA-LiamNeural).",
@@ -388,12 +406,29 @@
    "Velcro uses a system of tiny molded plastic hooks."
   ],
   "pinned_comment": "Which of these zoomed in objects fooled your eyes the most? Let me know below!",
-  "platforms": {},
+  "platforms": {
+   "Facebook": {
+    "link": null,
+    "status": "skipped (not configured)"
+   },
+   "Instagram": {
+    "link": null,
+    "status": "skipped (not configured)"
+   },
+   "TikTok": {
+    "link": null,
+    "status": "skipped (not configured)"
+   },
+   "YouTube": {
+    "link": "https://youtube.com/shorts/SSbnYalw2EE",
+    "status": "private · thumbnail ✅ · subtitles ✅ · comment ⚠️ needs a verified channel (youtube.com/verify)"
+   }
+  },
   "primary_keyword": "zoomed in 1000x",
   "redos": 0,
-  "scheduled_for": "",
+  "scheduled_for": "2026-10-04T14:15:00+00:00",
   "script": "Can you guess what these everyday objects are zoomed in one thousand times? Number five. This bumpy colorful terrain is actually a grain of table salt. At number four. Those woven fibers belong to a standard cotton bed sheet. Number three. This metallic forest is the sharp tip of a sewing needle. At number two. Those golden tubes are the bristles on a plastic toothbrush. Number one. This sticky maze is the tiny hook side of velcro tape. Did you guess them right? Let me know, because",
-  "status": "awaiting_approval",
+  "status": "published",
   "subtitles_srt": "1\n00:00:00,096 --> 00:00:01,751\nCan you guess what these everyday objects\n\n2\n00:00:01,751 --> 00:00:04,363\nare zoomed in one thousand times Number\n\n3\n00:00:04,363 --> 00:00:07,419\nfive This bumpy colorful terrain is actually\n\n4\n00:00:07,419 --> 00:00:09,768\na grain of table salt At number\n\n5\n00:00:09,768 --> 00:00:12,546\nfour Those woven fibers belong to a\n\n6\n00:00:12,546 --> 00:00:16,319\nstandard cotton bed sheet Number three This\n\n7\n00:00:16,319 --> 00:00:17,847\nmetallic forest is the sharp tip of\n\n8\n00:00:17,847 --> 00:00:21,181\na sewing needle At number two Those\n\n9\n00:00:21,181 --> 00:00:22,523\ngolden tubes are the bristles on a\n\n10\n00:00:22,523 --> 00:00:26,493\nplastic toothbrush Number one This sticky maze\n\n11\n00:00:26,493 --> 00:00:27,940\nis the tiny hook side of velcro\n\n12\n00:00:27,940 --> 00:00:30,972\ntape Did you guess them right Let\n\n13\n00:00:30,972 --> 00:00:32,391\nme know because\n",
   "tags": [
    "zoomed in 1000x",
@@ -421,9 +456,10 @@
   "thumbnail_text": "What is this?!",
   "title": "Top 5 Everyday Objects Zoomed In 1,000x 🔍",
   "trend_source": "YouTube Trending visual fascination (e.g. VisionQuest trailer breakdown style)",
-  "updated": "2026-10-03T16:45:39.084590+00:00",
-  "uploaded_at": "",
+  "updated": "2026-10-03T19:24:38.223049+00:00",
+  "uploaded_at": "2026-10-03T19:24:38.223066+00:00",
   "virality_score": 9,
-  "voice": "en-CA-LiamNeural"
+  "voice": "en-CA-LiamNeural",
+  "youtube_id": "SSbnYalw2EE"
  }
 }
