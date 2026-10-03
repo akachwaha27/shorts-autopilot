@@ -83,7 +83,7 @@
   "voice": "en-GB-RyanNeural",
   "youtube_id": "x_oFEEa_ZYw",
   "youtube_stats": {
-   "checked_at": "2026-10-03T19:24:22.513084+00:00",
+   "checked_at": "2026-10-03T22:14:10.572024+00:00",
    "comments": 0,
    "likes": 0,
    "privacy": "private",
@@ -176,7 +176,7 @@
   "voice": "en-GB-SoniaNeural",
   "youtube_id": "ULFlC_DQZFA",
   "youtube_stats": {
-   "checked_at": "2026-10-03T19:24:22.513109+00:00",
+   "checked_at": "2026-10-03T22:14:10.572038+00:00",
    "comments": 0,
    "likes": 0,
    "privacy": "private",
@@ -275,19 +275,20 @@
   "voice": "en-IE-ConnorNeural",
   "youtube_id": "SzXGwV_51-4",
   "youtube_stats": {
-   "checked_at": "2026-10-03T19:24:22.513116+00:00",
+   "checked_at": "2026-10-03T22:14:10.572043+00:00",
    "comments": 0,
    "likes": 1,
    "privacy": "public",
    "published_at": "2026-10-03T14:00:27Z",
    "title": "The 5 Deepest Places in the Ocean, Ranked 🌊",
-   "views": 9
+   "views": 12
   }
  },
  "2026-10-03-1": {
   "angle": "A countdown of Earth's most surprisingly scorching environments, contrasting them against everyday household appliances for scale.",
   "approved_by": "auto",
   "category": "27",
+  "comments_note": "<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=AlkNprbbJys",
   "credits": [
    "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AriaNeural).",
    "Stock footage/photos (Pexels/Pixabay Content License): Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-1261/; antonlukin (Pixabay) https://pixabay.com/videos/id-284568/; DistillVideos (Pixabay) https://pixabay.com/videos/id-2266/; AndersonCampos (Pixabay) https://pixabay.com/videos/id-38270/; Amirirani (Pixabay) https://pixabay.com/videos/id-70872/; 23974438 (Pixabay) https://pixabay.com/videos/id-92837/; RuslanSikunov (Pixabay) https://pixabay.com/videos/id-203923/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-322939/; asifsharif (Pixabay) https://pixabay.com/videos/id-326081/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-335012/; KlausHausmann (Pixabay) https://pixabay.com/videos/id-8625/; Mario_Krimer (Pixabay) https://pixabay.com/videos/id-370864/",
@@ -371,12 +372,22 @@
   "uploaded_at": "2026-10-03T19:24:29.765927+00:00",
   "virality_score": 9,
   "voice": "en-US-AriaNeural",
-  "youtube_id": "AlkNprbbJys"
+  "youtube_id": "AlkNprbbJys",
+  "youtube_stats": {
+   "checked_at": "2026-10-03T22:14:10.572047+00:00",
+   "comments": 0,
+   "likes": 0,
+   "privacy": "private",
+   "published_at": "2026-10-03T19:24:24Z",
+   "title": "Top 5 Places Warmer Than Your Oven 🔥",
+   "views": 0
+  }
  },
  "2026-10-03-2": {
   "angle": "A high-speed guessing countdown where viewers try to identify ultra-magnified household items before the reveal.",
   "approved_by": "auto",
   "category": "27",
+  "comments_note": "<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=SSbnYalw2EE",
   "credits": [
    "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-CA-LiamNeural).",
    "Stock footage/photos (Pexels/Pixabay Content License): Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-1083/; YRDesigns (Pixabay) https://pixabay.com/videos/id-290487/; IgorKocka (Pixabay) https://pixabay.com/videos/id-307057/; Ian5152 (Pixabay) https://pixabay.com/videos/id-275593/; StefWithAnF (Pixabay) https://pixabay.com/videos/id-48296/; tommyvideo (Pixabay) https://pixabay.com/videos/id-96066/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-340029/; DistillVideos (Pixabay) https://pixabay.com/videos/id-1111/; RoyBuri (Pixabay) https://pixabay.com/videos/id-85656/; Yaochenglei (Pixabay) https://pixabay.com/videos/id-117924/; Danil_Shostak (Pixabay) https://pixabay.com/videos/id-34855/; motionstock (Pixabay) https://pixabay.com/videos/id-111667/; tommyvideo (Pixabay) https://pixabay.com/videos/id-5393/; tommyvideo (Pixabay) https://pixabay.com/videos/id-5456/"
@@ -460,6 +471,15 @@
   "uploaded_at": "2026-10-03T19:24:38.223066+00:00",
   "virality_score": 9,
   "voice": "en-CA-LiamNeural",
-  "youtube_id": "SSbnYalw2EE"
+  "youtube_id": "SSbnYalw2EE",
+  "youtube_stats": {
+   "checked_at": "2026-10-03T22:14:10.572049+00:00",
+   "comments": 0,
+   "likes": 0,
+   "privacy": "private",
+   "published_at": "2026-10-03T19:24:32Z",
+   "title": "Top 5 Everyday Objects Zoomed In 1,000x 🔍",
+   "views": 0
+  }
  }
 }
