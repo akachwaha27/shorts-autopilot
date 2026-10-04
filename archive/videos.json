@@ -83,7 +83,7 @@
   "voice": "en-GB-RyanNeural",
   "youtube_id": "x_oFEEa_ZYw",
   "youtube_stats": {
-   "checked_at": "2026-10-04T17:01:14.140680+00:00",
+   "checked_at": "2026-10-04T19:55:49.939924+00:00",
    "comments": 0,
    "likes": 0,
    "privacy": "private",
@@ -176,13 +176,13 @@
   "voice": "en-GB-SoniaNeural",
   "youtube_id": "ULFlC_DQZFA",
   "youtube_stats": {
-   "checked_at": "2026-10-04T17:01:14.140705+00:00",
+   "checked_at": "2026-10-04T19:55:49.939943+00:00",
    "comments": 0,
    "likes": 0,
    "privacy": "public",
    "published_at": "2026-10-04T14:00:07Z",
    "title": "5 Cruise Ship Rides Built Over the Open Ocean 🚢",
-   "views": 1
+   "views": 8
   }
  },
  "2026-10-02-3": {
@@ -283,7 +283,7 @@
   "voice": "en-IE-ConnorNeural",
   "youtube_id": "SzXGwV_51-4",
   "youtube_stats": {
-   "checked_at": "2026-10-04T17:01:14.140711+00:00",
+   "checked_at": "2026-10-04T19:55:49.939950+00:00",
    "comments": 1,
    "likes": 1,
    "privacy": "public",
@@ -390,13 +390,13 @@
   "voice": "en-US-AriaNeural",
   "youtube_id": "AlkNprbbJys",
   "youtube_stats": {
-   "checked_at": "2026-10-04T17:01:14.140716+00:00",
+   "checked_at": "2026-10-04T19:55:49.939955+00:00",
    "comments": 1,
    "likes": 0,
    "privacy": "public",
    "published_at": "2026-10-04T05:57:11Z",
    "title": "5 of the Hottest Places, Ranked From Hot to Insane 🔥",
-   "views": 32
+   "views": 37
   }
  },
  "2026-10-03-2": {
@@ -500,7 +500,7 @@
  },
  "2026-10-04-1": {
   "angle": "Counting down the most mathematically impossible sports and physical records ever set that modern athletes cannot touch.",
-  "approved_by": "",
+  "approved_by": "auto",
   "category": "27",
   "credits": [
    "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AndrewMultilingualNeural).",
@@ -530,12 +530,29 @@
    "Glenn Hall played 502 consecutive complete hockey games without a mask."
   ],
   "pinned_comment": "Which of these legendary records do you think came closest to actually being broken today?",
-  "platforms": {},
+  "platforms": {
+   "Facebook": {
+    "link": null,
+    "status": "skipped (not configured)"
+   },
+   "Instagram": {
+    "link": null,
+    "status": "skipped (not configured)"
+   },
+   "TikTok": {
+    "link": null,
+    "status": "skipped (not configured)"
+   },
+   "YouTube": {
+    "link": "https://youtube.com/shorts/cwTfLWYr-vs",
+    "status": "private · thumbnail ✅ · subtitles ✅ · comment ⚠️ needs a verified channel (youtube.com/verify)"
+   }
+  },
   "primary_keyword": "unbreakable world records",
   "redos": 0,
-  "scheduled_for": "",
+  "scheduled_for": "2026-10-04T23:15:00+00:00",
   "script": "These legendary sports records are mathematically impossible to break today, making you wonder if Number five, Cy Young's five hundred eleven career wins. Pitchers today barely reach three hundred. At number four, Raswan's twenty-four hour tennis match. Modern endurance limits make this totally out of reach. Number three is Wilt Chamberlain's one hundred point game. Modern defenses trap scorers immediately now. At number two, Joe DiMaggio's fifty-six game hitting streak. Pitching analytics make this mental barrier permanent. Number one, Glenn Hall played five hundred two consecutive complete games as a hockey goalie without a mask. These legendary sports records are mathematically impossible to break today, making you wonder if",
-  "status": "awaiting_approval",
+  "status": "published",
   "subtitles_srt": "1\n00:00:00,092 --> 00:00:02,546\nThese legendary sports records are mathematically\n\n2\n00:00:02,546 --> 00:00:05,264\nimpossible to break today making you wonder\n\n3\n00:00:05,264 --> 00:00:07,511\nif Number five Cy Young's five hundred\n\n4\n00:00:07,511 --> 00:00:10,700\neleven career wins Pitchers today barely reach\n\n5\n00:00:10,700 --> 00:00:13,842\nthree hundred At number four Raswan's twenty-four\n\n6\n00:00:13,842 --> 00:00:16,789\nhour tennis match Modern endurance limits make\n\n7\n00:00:16,789 --> 00:00:19,289\nthis totally out of reach Number three\n\n8\n00:00:19,289 --> 00:00:21,491\nis Wilt Chamberlain's one hundred point game\n\n9\n00:00:21,491 --> 00:00:24,713\nModern defenses trap scorers immediately now\n\n10\n00:00:24,713 --> 00:00:27,511\nAt number two Joe DiMaggio's fifty-six game\n\n11\n00:00:27,511 --> 00:00:30,103\nhitting streak Pitching analytics make this\n\n12\n00:00:30,103 --> 00:00:33,165\nmental barrier permanent Number one Glenn Hall\n\n13\n00:00:33,165 --> 00:00:35,275\nplayed five hundred two consecutive complete\n\n14\n00:00:35,275 --> 00:00:37,179\ngames as a hockey goalie without a\n\n15\n00:00:37,179 --> 00:00:40,539\nmask These legendary sports records are mathematically\n\n16\n00:00:40,539 --> 00:00:43,028\nimpossible to break today making you wonder\n\n17\n00:00:43,028 --> 00:00:43,783\nif\n",
   "tags": [
    "unbreakable world records",
@@ -563,10 +580,11 @@
   "thumbnail_text": "Never Breaking",
   "title": "Top 5 Unbreakable Sports World Records",
   "trend_source": "lane johnson",
-  "updated": "2026-10-04T17:03:43.734590+00:00",
-  "uploaded_at": "",
+  "updated": "2026-10-04T19:56:00.640717+00:00",
+  "uploaded_at": "2026-10-04T19:56:00.640732+00:00",
   "virality_score": 9,
-  "voice": "en-US-AndrewMultilingualNeural"
+  "voice": "en-US-AndrewMultilingualNeural",
+  "youtube_id": "cwTfLWYr-vs"
  },
  "2026-10-04-2": {
   "angle": "A countdown of bizarre geographical anomalies where compasses spin, GPS fails, and electronics act completely wild.",
@@ -602,7 +620,7 @@
  },
  "2026-10-04-4": {
   "angle": "Quick, genuinely useful hidden settings in standard phone cameras that instantly upgrade everyday photos.",
-  "approved_by": "",
+  "approved_by": "auto",
   "category": "26",
   "credits": [
    "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-EmmaMultilingualNeural).",
@@ -631,12 +649,29 @@
    "Adjusting the exposure slider darkens highlights and makes colors more vibrant."
   ],
   "pinned_comment": "Which of these hidden settings are you going to try first? Let me know below!",
-  "platforms": {},
+  "platforms": {
+   "Facebook": {
+    "link": null,
+    "status": "skipped (not configured)"
+   },
+   "Instagram": {
+    "link": null,
+    "status": "skipped (not configured)"
+   },
+   "TikTok": {
+    "link": null,
+    "status": "skipped (not configured)"
+   },
+   "YouTube": {
+    "link": "https://youtube.com/shorts/wo3lD4_JXBI",
+    "status": "private · thumbnail ✅ · subtitles ✅ · comment ⚠️ needs a verified channel (youtube.com/verify)"
+   }
+  },
   "primary_keyword": "smartphone camera tricks",
   "redos": 0,
-  "scheduled_for": "",
+  "scheduled_for": "2026-10-05T16:15:00+00:00",
   "script": "Stop taking boring phone photos before changing these three hidden settings. Tip one. Turn on the grid lines to instantly nail your composition every single time. Tip two. Tap and hold your screen to lock focus so your subject never blurs. Tip three. Swipe down the exposure slider to make your colors pop like a pro camera. Try these right now, and you will never stop taking boring phone photos.",
-  "status": "awaiting_approval",
+  "status": "published",
   "subtitles_srt": "1\n00:00:00,092 --> 00:00:02,511\nStop taking boring phone photos before changing\n\n2\n00:00:02,511 --> 00:00:05,344\nthese three hidden settings Tip one Turn\n\n3\n00:00:05,344 --> 00:00:07,122\non the grid lines to instantly nail\n\n4\n00:00:07,122 --> 00:00:10,321\nyour composition every single time Tip two\n\n5\n00:00:10,321 --> 00:00:11,755\nTap and hold your screen to lock\n\n6\n00:00:11,755 --> 00:00:14,541\nfocus so your subject never blurs Tip\n\n7\n00:00:14,541 --> 00:00:17,053\nthree Swipe down the exposure slider to\n\n8\n00:00:17,053 --> 00:00:18,509\nmake your colors pop like a pro\n\n9\n00:00:18,509 --> 00:00:20,872\ncamera Try these right now and you\n\n10\n00:00:20,872 --> 00:00:23,542\nwill never stop taking boring phone photos\n",
   "tags": [
    "smartphone camera tricks",
@@ -667,9 +702,10 @@
   "thumbnail_text": "Hidden Camera Settings",
   "title": "Smartphone Camera Tricks You Never Knew",
   "trend_source": "evergreen",
-  "updated": "2026-10-04T17:05:03.063679+00:00",
-  "uploaded_at": "",
+  "updated": "2026-10-04T19:56:11.167114+00:00",
+  "uploaded_at": "2026-10-04T19:56:11.167131+00:00",
   "virality_score": 7,
-  "voice": "en-US-EmmaMultilingualNeural"
+  "voice": "en-US-EmmaMultilingualNeural",
+  "youtube_id": "wo3lD4_JXBI"
  }
 }
