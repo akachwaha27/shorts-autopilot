@@ -83,7 +83,7 @@
   "voice": "en-GB-RyanNeural",
   "youtube_id": "x_oFEEa_ZYw",
   "youtube_stats": {
-   "checked_at": "2026-10-04T00:44:13.984707+00:00",
+   "checked_at": "2026-10-04T06:22:13.150108+00:00",
    "comments": 0,
    "likes": 0,
    "privacy": "private",
@@ -176,7 +176,7 @@
   "voice": "en-GB-SoniaNeural",
   "youtube_id": "ULFlC_DQZFA",
   "youtube_stats": {
-   "checked_at": "2026-10-04T00:44:13.984732+00:00",
+   "checked_at": "2026-10-04T06:22:13.150133+00:00",
    "comments": 0,
    "likes": 0,
    "privacy": "private",
@@ -275,20 +275,19 @@
   "voice": "en-IE-ConnorNeural",
   "youtube_id": "SzXGwV_51-4",
   "youtube_stats": {
-   "checked_at": "2026-10-04T00:44:13.984739+00:00",
+   "checked_at": "2026-10-04T06:22:13.150141+00:00",
    "comments": 0,
    "likes": 1,
    "privacy": "public",
    "published_at": "2026-10-03T14:00:27Z",
    "title": "The 5 Deepest Places in the Ocean, Ranked 🌊",
-   "views": 14
+   "views": 17
   }
  },
  "2026-10-03-1": {
   "angle": "A countdown of Earth's most surprisingly scorching environments, contrasting them against everyday household appliances for scale.",
   "approved_by": "auto",
   "category": "27",
-  "comments_note": "<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=AlkNprbbJys",
   "credits": [
    "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AriaNeural).",
    "Stock footage/photos (Pexels/Pixabay Content License): Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-1261/; antonlukin (Pixabay) https://pixabay.com/videos/id-284568/; DistillVideos (Pixabay) https://pixabay.com/videos/id-2266/; AndersonCampos (Pixabay) https://pixabay.com/videos/id-38270/; Amirirani (Pixabay) https://pixabay.com/videos/id-70872/; 23974438 (Pixabay) https://pixabay.com/videos/id-92837/; RuslanSikunov (Pixabay) https://pixabay.com/videos/id-203923/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-322939/; asifsharif (Pixabay) https://pixabay.com/videos/id-326081/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-335012/; KlausHausmann (Pixabay) https://pixabay.com/videos/id-8625/; Mario_Krimer (Pixabay) https://pixabay.com/videos/id-370864/",
@@ -318,6 +317,7 @@
    "The Lut Desert surface temperature has been recorded up to 70 degrees Celsius.",
    "Active basaltic lava flows typically reach temperatures around 1,200 degrees Celsius."
   ],
+  "latest_comments": [],
   "pinned_comment": "Would you dare to visit the number one spot on this list? Let us know below! 🌡️",
   "platforms": {
    "Facebook": {
@@ -374,13 +374,13 @@
   "voice": "en-US-AriaNeural",
   "youtube_id": "AlkNprbbJys",
   "youtube_stats": {
-   "checked_at": "2026-10-04T00:44:13.984744+00:00",
+   "checked_at": "2026-10-04T06:22:13.150146+00:00",
    "comments": 0,
    "likes": 0,
-   "privacy": "private",
-   "published_at": "2026-10-03T19:24:24Z",
+   "privacy": "public",
+   "published_at": "2026-10-04T05:57:11Z",
    "title": "Top 5 Places Warmer Than Your Oven 🔥",
-   "views": 0
+   "views": 2
   }
  },
  "2026-10-03-2": {
