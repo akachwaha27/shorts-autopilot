@@ -111,5 +111,56 @@
   ],
   "sent_at": "2026-10-03T15:20:58.348241+00:00",
   "status": "closed"
+ },
+ "2026-10-04": {
+  "date": "2026-10-04",
+  "ideas": [
+   {
+    "angle": "Ranking the top 5 surprising facts about E85 fuel, performance, and everyday efficiency compared to regular gas.",
+    "format": "ranking",
+    "picked": false,
+    "rank": 1,
+    "title": "Top 5 E85 Fuel Facts Explained",
+    "trend_source": "e85",
+    "video_id": null,
+    "virality_score": 9,
+    "why": "Capitalizes on current gasoline and alternative fuel search interest while delivering fast-paced, high-retention factual data."
+   },
+   {
+    "angle": "Counting down the 5 most baffling architectural layouts on Earth that feel like stepping into a real-life video game map.",
+    "format": "ranking",
+    "picked": false,
+    "rank": 2,
+    "title": "Top 5 Most Extreme Maze-Like Buildings",
+    "trend_source": "RuneScape - Official 4th MMO Teaser Trailer",
+    "video_id": null,
+    "virality_score": 9,
+    "why": "Taps into the massive gaming and virtual world trend by translating the feeling of exploring complex maps into real-world architecture."
+   },
+   {
+    "angle": "Quick breakdown of 3 everyday tech accessories and how adjusting one small setting changes everything.",
+    "format": "tips",
+    "picked": false,
+    "rank": 3,
+    "title": "3 Tech Items You're Using Wrong",
+    "trend_source": "tech",
+    "video_id": null,
+    "virality_score": 8,
+    "why": "Drives high completion rates and comments as viewers check their own devices and argue about the settings in the chat."
+   },
+   {
+    "angle": "A mesmerizing look at the microscopic steam pressure physics that turns a hard kernel into a fluffy snack.",
+    "format": "explainer",
+    "picked": false,
+    "rank": 4,
+    "title": "Why Popcorn Really Pops in the Microwave",
+    "trend_source": "food",
+    "video_id": null,
+    "virality_score": 7,
+    "why": "Combines satisfying visual cues with a simple everyday science explainer that appeals to a broad general interest audience."
+   }
+  ],
+  "sent_at": "2026-10-04T12:33:52.134094+00:00",
+  "status": "waiting"
  }
 }

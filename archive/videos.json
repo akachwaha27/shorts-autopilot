@@ -83,7 +83,7 @@
   "voice": "en-GB-RyanNeural",
   "youtube_id": "x_oFEEa_ZYw",
   "youtube_stats": {
-   "checked_at": "2026-10-04T06:22:13.150108+00:00",
+   "checked_at": "2026-10-04T12:33:23.719182+00:00",
    "comments": 0,
    "likes": 0,
    "privacy": "private",
@@ -176,7 +176,7 @@
   "voice": "en-GB-SoniaNeural",
   "youtube_id": "ULFlC_DQZFA",
   "youtube_stats": {
-   "checked_at": "2026-10-04T06:22:13.150133+00:00",
+   "checked_at": "2026-10-04T12:33:23.719199+00:00",
    "comments": 0,
    "likes": 0,
    "privacy": "private",
@@ -217,7 +217,15 @@
    "Tonga Trench depth is approximately 10,882 meters.",
    "Mariana Trench depth is approximately 11,034 meters."
   ],
-  "latest_comments": [],
+  "latest_comments": [
+   {
+    "author": "@ZorblyAI",
+    "likes": 0,
+    "published": "2026-10-04T08:47:52Z",
+    "replies": 0,
+    "text": "Would you go down to the bottom of the Mariana Trench? 👇"
+   }
+  ],
   "pinned_comment": "Which of these crushing ocean depths would you dare to visit? Drop your pick below! 🌊",
   "platforms": {
    "Instagram": {
@@ -275,13 +283,13 @@
   "voice": "en-IE-ConnorNeural",
   "youtube_id": "SzXGwV_51-4",
   "youtube_stats": {
-   "checked_at": "2026-10-04T06:22:13.150141+00:00",
-   "comments": 0,
+   "checked_at": "2026-10-04T12:33:23.719206+00:00",
+   "comments": 1,
    "likes": 1,
    "privacy": "public",
    "published_at": "2026-10-03T14:00:27Z",
    "title": "The 5 Deepest Places in the Ocean, Ranked 🌊",
-   "views": 17
+   "views": 26
   }
  },
  "2026-10-03-1": {
@@ -317,7 +325,15 @@
    "The Lut Desert surface temperature has been recorded up to 70 degrees Celsius.",
    "Active basaltic lava flows typically reach temperatures around 1,200 degrees Celsius."
   ],
-  "latest_comments": [],
+  "latest_comments": [
+   {
+    "author": "@ZorblyAI",
+    "likes": 0,
+    "published": "2026-10-04T08:45:35Z",
+    "replies": 0,
+    "text": "Which of these could you survive for just one minute? 👇"
+   }
+  ],
   "pinned_comment": "Would you dare to visit the number one spot on this list? Let us know below! 🌡️",
   "platforms": {
    "Facebook": {
@@ -374,13 +390,13 @@
   "voice": "en-US-AriaNeural",
   "youtube_id": "AlkNprbbJys",
   "youtube_stats": {
-   "checked_at": "2026-10-04T06:22:13.150146+00:00",
-   "comments": 0,
+   "checked_at": "2026-10-04T12:33:23.719210+00:00",
+   "comments": 1,
    "likes": 0,
    "privacy": "public",
    "published_at": "2026-10-04T05:57:11Z",
-   "title": "Top 5 Places Warmer Than Your Oven 🔥",
-   "views": 2
+   "title": "5 of the Hottest Places, Ranked From Hot to Insane 🔥",
+   "views": 25
   }
  },
  "2026-10-03-2": {

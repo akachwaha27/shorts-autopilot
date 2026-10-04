@@ -93,6 +93,45 @@
         1
       ],
       "status": "closed"
+    },
+    "2026-10-04": {
+      "topics": [
+        {
+          "title": "Top 5 E85 Fuel Facts Explained",
+          "angle": "Ranking the top 5 surprising facts about E85 fuel, performance, and everyday efficiency compared to regular gas.",
+          "format": "ranking",
+          "trend_source": "e85",
+          "virality_score": 9,
+          "why": "Capitalizes on current gasoline and alternative fuel search interest while delivering fast-paced, high-retention factual data."
+        },
+        {
+          "title": "Top 5 Most Extreme Maze-Like Buildings",
+          "angle": "Counting down the 5 most baffling architectural layouts on Earth that feel like stepping into a real-life video game map.",
+          "format": "ranking",
+          "trend_source": "RuneScape - Official 4th MMO Teaser Trailer",
+          "virality_score": 9,
+          "why": "Taps into the massive gaming and virtual world trend by translating the feeling of exploring complex maps into real-world architecture."
+        },
+        {
+          "title": "3 Tech Items You're Using Wrong",
+          "angle": "Quick breakdown of 3 everyday tech accessories and how adjusting one small setting changes everything.",
+          "format": "tips",
+          "trend_source": "tech",
+          "virality_score": 8,
+          "why": "Drives high completion rates and comments as viewers check their own devices and argue about the settings in the chat."
+        },
+        {
+          "title": "Why Popcorn Really Pops in the Microwave",
+          "angle": "A mesmerizing look at the microscopic steam pressure physics that turns a hard kernel into a fluffy snack.",
+          "format": "explainer",
+          "trend_source": "food",
+          "virality_score": 7,
+          "why": "Combines satisfying visual cues with a simple everyday science explainer that appeals to a broad general interest audience."
+        }
+      ],
+      "sent_at": "2026-10-04T12:33:52.134094+00:00",
+      "selected": [],
+      "status": "waiting"
     }
   },
   "videos": {
@@ -988,6 +1027,10 @@
     "2026-10-03": {
       "n": 2,
       "at": "2026-10-03T15:20:29.848604+00:00"
+    },
+    "2026-10-04": {
+      "n": 1,
+      "at": "2026-10-04T12:33:24.250393+00:00"
     }
   },
   "cleanup_day": "2026-10-04",
