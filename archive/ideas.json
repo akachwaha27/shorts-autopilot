@@ -116,51 +116,51 @@
   "date": "2026-10-04",
   "ideas": [
    {
-    "angle": "Ranking the top 5 surprising facts about E85 fuel, performance, and everyday efficiency compared to regular gas.",
+    "angle": "Counting down the most mathematically impossible sports and physical records ever set that modern athletes cannot touch.",
     "format": "ranking",
     "picked": false,
     "rank": 1,
-    "title": "Top 5 E85 Fuel Facts Explained",
-    "trend_source": "e85",
+    "title": "Top 5 Unbreakable World Records That Will Never Be Broken",
+    "trend_source": "lane johnson",
     "video_id": null,
     "virality_score": 9,
-    "why": "Capitalizes on current gasoline and alternative fuel search interest while delivering fast-paced, high-retention factual data."
+    "why": "Sports rankings drive immense viewer retention and debate in the comments, directly boosting algorithm distribution."
    },
    {
-    "angle": "Counting down the 5 most baffling architectural layouts on Earth that feel like stepping into a real-life video game map.",
+    "angle": "A countdown of bizarre geographical anomalies where compasses spin, GPS fails, and electronics act completely wild.",
     "format": "ranking",
     "picked": false,
     "rank": 2,
-    "title": "Top 5 Most Extreme Maze-Like Buildings",
-    "trend_source": "RuneScape - Official 4th MMO Teaser Trailer",
+    "title": "Top 5 Places on Earth Where Technology Stops Working",
+    "trend_source": "bill gates",
     "video_id": null,
     "virality_score": 9,
-    "why": "Taps into the massive gaming and virtual world trend by translating the feeling of exploring complex maps into real-world architecture."
+    "why": "Combines tech curiosity with mystery, keeping average view duration extremely high as viewers wait for the #1 spot."
    },
    {
-    "angle": "Quick breakdown of 3 everyday tech accessories and how adjusting one small setting changes everything.",
-    "format": "tips",
+    "angle": "A fast-paced 3-question visual trivia challenge zooming into common household items at 500x magnification.",
+    "format": "quiz",
     "picked": false,
     "rank": 3,
-    "title": "3 Tech Items You're Using Wrong",
-    "trend_source": "tech",
+    "title": "Can You Guess These 3 Impossible Everyday Objects?",
+    "trend_source": "evergreen",
     "video_id": null,
     "virality_score": 8,
-    "why": "Drives high completion rates and comments as viewers check their own devices and argue about the settings in the chat."
+    "why": "Interactive quiz formats naturally trigger comments and looping re-watches as people try to guess the answers before time runs out."
    },
    {
-    "angle": "A mesmerizing look at the microscopic steam pressure physics that turns a hard kernel into a fluffy snack.",
-    "format": "explainer",
+    "angle": "Quick, genuinely useful hidden settings in standard phone cameras that instantly upgrade everyday photos.",
+    "format": "tips",
     "picked": false,
     "rank": 4,
-    "title": "Why Popcorn Really Pops in the Microwave",
-    "trend_source": "food",
+    "title": "3 Smartphone Camera Tricks You Didn't Know Existed",
+    "trend_source": "evergreen",
     "video_id": null,
     "virality_score": 7,
-    "why": "Combines satisfying visual cues with a simple everyday science explainer that appeals to a broad general interest audience."
+    "why": "Utility-driven content creates high bookmarking and sharing behaviors, signaling strong viewer value to the recommendation system."
    }
   ],
-  "sent_at": "2026-10-04T12:33:52.134094+00:00",
+  "sent_at": "2026-10-04T16:06:41.992805+00:00",
   "status": "waiting"
  }
 }
