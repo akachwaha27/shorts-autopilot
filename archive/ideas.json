@@ -116,51 +116,51 @@
   "date": "2026-10-04",
   "ideas": [
    {
-    "angle": "Counting down the most mathematically impossible sports and physical records ever set that modern athletes cannot touch.",
+    "angle": "Counting down the most fascinating geographical anomalies where compasses spin and navigation tools completely break down.",
     "format": "ranking",
     "picked": false,
     "rank": 1,
-    "title": "Top 5 Unbreakable World Records That Will Never Be Broken",
-    "trend_source": "lane johnson",
+    "title": "Top 5 Places on Earth Where GPS Simply Fails",
+    "trend_source": "Google Trends (general tech/exploration curiosity)",
     "video_id": null,
     "virality_score": 9,
-    "why": "Sports rankings drive immense viewer retention and debate in the comments, directly boosting algorithm distribution."
+    "why": "High completion rate due to countdown structure, strong visual curiosity, and a surprising payoff for each location."
    },
    {
-    "angle": "A countdown of bizarre geographical anomalies where compasses spin, GPS fails, and electronics act completely wild.",
+    "angle": "A fast-paced countdown of obscure smartphone and computer settings that secretly make your devices 10x faster.",
     "format": "ranking",
     "picked": false,
     "rank": 2,
-    "title": "Top 5 Places on Earth Where Technology Stops Working",
-    "trend_source": "bill gates",
+    "title": "Top 5 Everyday Tech Hacks You Will Use Today",
+    "trend_source": "Google Trends (tech interest)",
     "video_id": null,
     "virality_score": 9,
-    "why": "Combines tech curiosity with mystery, keeping average view duration extremely high as viewers wait for the #1 spot."
+    "why": "Drives massive saves and shares, which are core ranking signals for the YouTube Shorts algorithm."
    },
    {
-    "angle": "A fast-paced 3-question visual trivia challenge zooming into common household items at 500x magnification.",
-    "format": "quiz",
+    "angle": "Explaining the hidden physics and design history behind everyday takeaway coffee lids that prevent spills.",
+    "format": "explainer",
     "picked": false,
     "rank": 3,
-    "title": "Can You Guess These 3 Impossible Everyday Objects?",
-    "trend_source": "evergreen",
+    "title": "Why Modern Coffee Cups Are Secretly Genius Engineering",
+    "trend_source": "YouTube Trending (curiosity & design breakdowns)",
     "video_id": null,
     "virality_score": 8,
-    "why": "Interactive quiz formats naturally trigger comments and looping re-watches as people try to guess the answers before time runs out."
+    "why": "Transforms a mundane everyday object into a fascinating 'mind-blown' moment, holding attention right through to the end."
    },
    {
-    "angle": "Quick, genuinely useful hidden settings in standard phone cameras that instantly upgrade everyday photos.",
+    "angle": "Quick, highly visual demonstrations of hidden professional photography modes built into standard phone cameras.",
     "format": "tips",
     "picked": false,
     "rank": 4,
     "title": "3 Smartphone Camera Tricks You Didn't Know Existed",
-    "trend_source": "evergreen",
-    "video_id": null,
+    "trend_source": "Evergreen tech utility",
+    "video_id": "2026-10-04-4",
     "virality_score": 7,
-    "why": "Utility-driven content creates high bookmarking and sharing behaviors, signaling strong viewer value to the recommendation system."
+    "why": "Delivers immediate practical value, encouraging users to double-tap, save for later, and share with friends."
    }
   ],
-  "sent_at": "2026-10-04T16:06:41.992805+00:00",
+  "sent_at": "2026-10-04T17:05:12.979554+00:00",
   "status": "waiting"
  }
 }
