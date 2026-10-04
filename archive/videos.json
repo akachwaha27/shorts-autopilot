@@ -83,7 +83,7 @@
   "voice": "en-GB-RyanNeural",
   "youtube_id": "x_oFEEa_ZYw",
   "youtube_stats": {
-   "checked_at": "2026-10-04T19:55:49.939924+00:00",
+   "checked_at": "2026-10-04T22:45:20.963171+00:00",
    "comments": 0,
    "likes": 0,
    "privacy": "private",
@@ -176,13 +176,13 @@
   "voice": "en-GB-SoniaNeural",
   "youtube_id": "ULFlC_DQZFA",
   "youtube_stats": {
-   "checked_at": "2026-10-04T19:55:49.939943+00:00",
+   "checked_at": "2026-10-04T22:45:20.963192+00:00",
    "comments": 0,
    "likes": 0,
    "privacy": "public",
    "published_at": "2026-10-04T14:00:07Z",
    "title": "5 Cruise Ship Rides Built Over the Open Ocean 🚢",
-   "views": 8
+   "views": 20
   }
  },
  "2026-10-02-3": {
@@ -283,13 +283,13 @@
   "voice": "en-IE-ConnorNeural",
   "youtube_id": "SzXGwV_51-4",
   "youtube_stats": {
-   "checked_at": "2026-10-04T19:55:49.939950+00:00",
+   "checked_at": "2026-10-04T22:45:20.963200+00:00",
    "comments": 1,
    "likes": 1,
    "privacy": "public",
    "published_at": "2026-10-03T14:00:27Z",
    "title": "The 5 Deepest Places in the Ocean, Ranked 🌊",
-   "views": 26
+   "views": 27
   }
  },
  "2026-10-03-1": {
@@ -390,13 +390,13 @@
   "voice": "en-US-AriaNeural",
   "youtube_id": "AlkNprbbJys",
   "youtube_stats": {
-   "checked_at": "2026-10-04T19:55:49.939955+00:00",
+   "checked_at": "2026-10-04T22:45:20.963205+00:00",
    "comments": 1,
    "likes": 0,
    "privacy": "public",
    "published_at": "2026-10-04T05:57:11Z",
    "title": "5 of the Hottest Places, Ranked From Hot to Insane 🔥",
-   "views": 37
+   "views": 40
   }
  },
  "2026-10-03-2": {
@@ -502,6 +502,7 @@
   "angle": "Counting down the most mathematically impossible sports and physical records ever set that modern athletes cannot touch.",
   "approved_by": "auto",
   "category": "27",
+  "comments_note": "<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=cwTfLWYr-vs",
   "credits": [
    "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AndrewMultilingualNeural).",
    "Stock footage/photos (Pexels/Pixabay Content License): Shravan1991 (Pixabay) https://pixabay.com/videos/id-206294/; TIMETORELAXSCREENSAVER (Pixabay) https://pixabay.com/videos/id-183279/; tommyvideo (Pixabay) https://pixabay.com/videos/id-5614/; Trek_Jason (Pixabay) https://pixabay.com/videos/id-133206/; MabelAmber (Pixabay) https://pixabay.com/videos/id-27833/; akamariposa (Pixabay) https://pixabay.com/videos/id-218091/; Activedia (Pixabay) https://pixabay.com/videos/id-1687/; Kanenori (Pixabay) https://pixabay.com/videos/id-250395/; tommyvideo (Pixabay) https://pixabay.com/videos/id-5384/; tommyvideo (Pixabay) https://pixabay.com/videos/id-5368/; Yasir1120 (Pixabay) https://pixabay.com/videos/id-233390/; StuieStu (Pixabay) https://pixabay.com/videos/id-326686/; Kanenori (Pixabay) https://pixabay.com/videos/id-367164/; tommyvideo (Pixabay) https://pixabay.com/videos/id-5381/; Josh_Malic (Pixabay) https://pixabay.com/videos/id-37417/; klimkin (Pixabay) https://pixabay.com/videos/id-1860/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-6436/"
@@ -584,7 +585,16 @@
   "uploaded_at": "2026-10-04T19:56:00.640732+00:00",
   "virality_score": 9,
   "voice": "en-US-AndrewMultilingualNeural",
-  "youtube_id": "cwTfLWYr-vs"
+  "youtube_id": "cwTfLWYr-vs",
+  "youtube_stats": {
+   "checked_at": "2026-10-04T22:45:20.963210+00:00",
+   "comments": 0,
+   "likes": 0,
+   "privacy": "private",
+   "published_at": "2026-10-04T19:55:53Z",
+   "title": "Top 5 Unbreakable Sports World Records",
+   "views": 0
+  }
  },
  "2026-10-04-2": {
   "angle": "A countdown of bizarre geographical anomalies where compasses spin, GPS fails, and electronics act completely wild.",
@@ -622,6 +632,7 @@
   "angle": "Quick, genuinely useful hidden settings in standard phone cameras that instantly upgrade everyday photos.",
   "approved_by": "auto",
   "category": "26",
+  "comments_note": "<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=wo3lD4_JXBI",
   "credits": [
    "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-EmmaMultilingualNeural).",
    "Stock footage/photos (Pexels/Pixabay Content License): Eartvideos (Pixabay) https://pixabay.com/videos/id-150957/; FlickrVideos (Pixabay) https://pixabay.com/videos/id-245/; Engin_Akyurt (Pixabay) https://pixabay.com/videos/id-61298/; Nature-Stock-Footage (Pixabay) https://pixabay.com/videos/id-18390/; DistillVideos (Pixabay) https://pixabay.com/videos/id-1110/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-325368/; Natures_Embrace (Pixabay) https://pixabay.com/videos/id-202987/; bellergy (Pixabay) https://pixabay.com/videos/id-1844/; seyhmuskino (Pixabay) https://pixabay.com/videos/id-286637/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-691/"
@@ -706,6 +717,15 @@
   "uploaded_at": "2026-10-04T19:56:11.167131+00:00",
   "virality_score": 7,
   "voice": "en-US-EmmaMultilingualNeural",
-  "youtube_id": "wo3lD4_JXBI"
+  "youtube_id": "wo3lD4_JXBI",
+  "youtube_stats": {
+   "checked_at": "2026-10-04T22:45:20.963214+00:00",
+   "comments": 0,
+   "likes": 0,
+   "privacy": "private",
+   "published_at": "2026-10-04T19:56:03Z",
+   "title": "Smartphone Camera Tricks You Never Knew",
+   "views": 0
+  }
  }
 }
