@@ -169,44 +169,44 @@
    {
     "angle": "A humorous countdown of hilarious animals that somehow survive despite having zero common sense.",
     "format": "ranking",
-    "picked": false,
+    "picked": true,
     "rank": 1,
     "title": "Top 5 Animals With Absolute Zero Survival Instincts",
     "trend_source": "burmese python (invasive wildlife curiosity)",
-    "video_id": null,
+    "video_id": "2026-10-05-1",
     "virality_score": 9,
     "why": "Combines high-retention ranking format with laugh-out-loud relatable animal fails that drive comments and shares."
    },
    {
     "angle": "A hilarious look at the house rules families invent because no one actually reads the manual.",
     "format": "ranking",
-    "picked": false,
+    "picked": true,
     "rank": 2,
     "title": "Top 5 Board Game Rules Everyone Completely Makes Up",
     "trend_source": "This Card Game is Cursed / board game trends",
-    "video_id": null,
+    "video_id": "2026-10-05-2",
     "virality_score": 9,
     "why": "Highly relatable nostalgia that prompts viewers to tag friends in the comments, boosting the algorithm."
    },
    {
     "angle": "A mind-blowing countdown of common household items invented centuries before modern technology.",
     "format": "ranking",
-    "picked": false,
+    "picked": true,
     "rank": 3,
     "title": "Top 5 Everyday Objects That Are Way Older Than You Think",
     "trend_source": "RuneScape / gaming nostalgia",
-    "video_id": null,
+    "video_id": "2026-10-05-3",
     "virality_score": 8,
     "why": "Fascinating historical facts with a fast-paced countdown structure that encourages viewers to watch until the very end."
    },
    {
     "angle": "Quick, actionable smartphone adjustments that instantly improve battery life and privacy.",
     "format": "tips",
-    "picked": false,
+    "picked": true,
     "rank": 4,
     "title": "3 Tech Settings You Need to Change Immediately",
     "trend_source": "tech general interest",
-    "video_id": null,
+    "video_id": "2026-10-05-4",
     "virality_score": 8,
     "why": "High utility drives saves and shares, two metrics heavily rewarded by the Shorts algorithm."
    },
@@ -234,6 +234,6 @@
    }
   ],
   "sent_at": "2026-10-05T19:52:58.505372+00:00",
-  "status": "waiting"
+  "status": "closed"
  }
 }
