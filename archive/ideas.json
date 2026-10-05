@@ -162,5 +162,56 @@
   ],
   "sent_at": "2026-10-04T17:05:12.979554+00:00",
   "status": "closed"
+ },
+ "2026-10-05": {
+  "date": "2026-10-05",
+  "ideas": [
+   {
+    "angle": "A countdown of bizarre, harmless party tricks that require weird levels of dedication, showcasing why our brains love mastering pointless things.",
+    "format": "ranking",
+    "picked": false,
+    "rank": 1,
+    "title": "Top 5 Useless Talents That Actually Take Insane Skill",
+    "trend_source": "Ranking Best Useless Talents",
+    "video_id": null,
+    "virality_score": 9,
+    "why": "Rides a proven trending format while leaning into universally relatable human curiosity about quirky, harmless human abilities, ensuring high watch time."
+   },
+   {
+    "angle": "Counting down iconic game bugs that developers kept because players loved them so much.",
+    "format": "ranking",
+    "picked": false,
+    "rank": 2,
+    "title": "Top 5 Video Game Glitches That Turned Into Features",
+    "trend_source": "YouTube Trending Gaming / Minecraft trends",
+    "video_id": null,
+    "virality_score": 9,
+    "why": "Tapping into massive gaming communities on YouTube Shorts with a high-retention countdown structure that heavily rewards completion rate."
+   },
+   {
+    "angle": "Quick, highly practical digital and device shortcuts that save time and fix everyday tech annoyances.",
+    "format": "tips",
+    "picked": false,
+    "rank": 3,
+    "title": "3 Tech Hacks You Wish You Knew Sooner",
+    "trend_source": "chatgpt login",
+    "video_id": null,
+    "virality_score": 8,
+    "why": "Provides immediate, actionable value which drives saves, shares, and loop-backs—key metrics the Shorts algorithm aggressively rewards."
+   },
+   {
+    "angle": "Explaining the proportional theory of time perception with engaging visual analogies in under 45 seconds.",
+    "format": "explainer",
+    "picked": false,
+    "rank": 4,
+    "title": "Why Your Brain Thinks Time Speeds Up As You Age",
+    "trend_source": "evergreen science",
+    "video_id": null,
+    "virality_score": 8,
+    "why": "A deeply fascinating psychological concept that triggers instant curiosity, strong comment engagement, and high viewer retention."
+   }
+  ],
+  "sent_at": "2026-10-05T16:26:24.571970+00:00",
+  "status": "waiting"
  }
 }
