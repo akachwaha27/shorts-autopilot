@@ -167,51 +167,73 @@
   "date": "2026-10-05",
   "ideas": [
    {
-    "angle": "A countdown of bizarre, harmless party tricks that require weird levels of dedication, showcasing why our brains love mastering pointless things.",
+    "angle": "A humorous countdown of hilarious animals that somehow survive despite having zero common sense.",
     "format": "ranking",
     "picked": false,
     "rank": 1,
-    "title": "Top 5 Useless Talents That Actually Take Insane Skill",
-    "trend_source": "Ranking Best Useless Talents",
+    "title": "Top 5 Animals With Absolute Zero Survival Instincts",
+    "trend_source": "burmese python (invasive wildlife curiosity)",
     "video_id": null,
     "virality_score": 9,
-    "why": "Rides a proven trending format while leaning into universally relatable human curiosity about quirky, harmless human abilities, ensuring high watch time."
+    "why": "Combines high-retention ranking format with laugh-out-loud relatable animal fails that drive comments and shares."
    },
    {
-    "angle": "Counting down iconic game bugs that developers kept because players loved them so much.",
+    "angle": "A hilarious look at the house rules families invent because no one actually reads the manual.",
     "format": "ranking",
     "picked": false,
     "rank": 2,
-    "title": "Top 5 Video Game Glitches That Turned Into Features",
-    "trend_source": "YouTube Trending Gaming / Minecraft trends",
+    "title": "Top 5 Board Game Rules Everyone Completely Makes Up",
+    "trend_source": "This Card Game is Cursed / board game trends",
     "video_id": null,
     "virality_score": 9,
-    "why": "Tapping into massive gaming communities on YouTube Shorts with a high-retention countdown structure that heavily rewards completion rate."
+    "why": "Highly relatable nostalgia that prompts viewers to tag friends in the comments, boosting the algorithm."
    },
    {
-    "angle": "Quick, highly practical digital and device shortcuts that save time and fix everyday tech annoyances.",
-    "format": "tips",
+    "angle": "A mind-blowing countdown of common household items invented centuries before modern technology.",
+    "format": "ranking",
     "picked": false,
     "rank": 3,
-    "title": "3 Tech Hacks You Wish You Knew Sooner",
-    "trend_source": "chatgpt login",
+    "title": "Top 5 Everyday Objects That Are Way Older Than You Think",
+    "trend_source": "RuneScape / gaming nostalgia",
     "video_id": null,
     "virality_score": 8,
-    "why": "Provides immediate, actionable value which drives saves, shares, and loop-backs—key metrics the Shorts algorithm aggressively rewards."
+    "why": "Fascinating historical facts with a fast-paced countdown structure that encourages viewers to watch until the very end."
    },
    {
-    "angle": "Explaining the proportional theory of time perception with engaging visual analogies in under 45 seconds.",
-    "format": "explainer",
+    "angle": "Quick, actionable smartphone adjustments that instantly improve battery life and privacy.",
+    "format": "tips",
     "picked": false,
     "rank": 4,
-    "title": "Why Your Brain Thinks Time Speeds Up As You Age",
-    "trend_source": "evergreen science",
+    "title": "3 Tech Settings You Need to Change Immediately",
+    "trend_source": "tech general interest",
     "video_id": null,
     "virality_score": 8,
-    "why": "A deeply fascinating psychological concept that triggers instant curiosity, strong comment engagement, and high viewer retention."
+    "why": "High utility drives saves and shares, two metrics heavily rewarded by the Shorts algorithm."
+   },
+   {
+    "angle": "A fast-paced interactive quiz where viewers try to guess famous inventions from extreme close-up macro shots.",
+    "format": "quiz",
+    "picked": false,
+    "rank": 5,
+    "title": "Can You Guess the Invention? 3-Second Trivia Challenge",
+    "trend_source": "everyday objects zoomed in",
+    "video_id": null,
+    "virality_score": 7,
+    "why": "Interactive elements force viewers to pause and comment their answers, skyrocketing engagement signals."
+   },
+   {
+    "angle": "An engaging architectural explainer on how curved structures completely change wind resistance and energy efficiency.",
+    "format": "explainer",
+    "picked": false,
+    "rank": 6,
+    "title": "Why Modern Buildings Are Removing Straight Lines",
+    "trend_source": "science and tech general interest",
+    "video_id": null,
+    "virality_score": 7,
+    "why": "Visual curiosity paired with a counter-intuitive hook stops the swipe instantly."
    }
   ],
-  "sent_at": "2026-10-05T16:26:24.571970+00:00",
+  "sent_at": "2026-10-05T19:52:58.505372+00:00",
   "status": "waiting"
  }
 }

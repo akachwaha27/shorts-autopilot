@@ -136,39 +136,61 @@
     "2026-10-05": {
       "topics": [
         {
-          "title": "Top 5 Useless Talents That Actually Take Insane Skill",
-          "angle": "A countdown of bizarre, harmless party tricks that require weird levels of dedication, showcasing why our brains love mastering pointless things.",
+          "title": "Top 5 Animals With Absolute Zero Survival Instincts",
+          "angle": "A humorous countdown of hilarious animals that somehow survive despite having zero common sense.",
           "format": "ranking",
-          "trend_source": "Ranking Best Useless Talents",
+          "tone": "funny",
+          "trend_source": "burmese python (invasive wildlife curiosity)",
           "virality_score": 9,
-          "why": "Rides a proven trending format while leaning into universally relatable human curiosity about quirky, harmless human abilities, ensuring high watch time."
+          "why": "Combines high-retention ranking format with laugh-out-loud relatable animal fails that drive comments and shares."
         },
         {
-          "title": "Top 5 Video Game Glitches That Turned Into Features",
-          "angle": "Counting down iconic game bugs that developers kept because players loved them so much.",
+          "title": "Top 5 Board Game Rules Everyone Completely Makes Up",
+          "angle": "A hilarious look at the house rules families invent because no one actually reads the manual.",
           "format": "ranking",
-          "trend_source": "YouTube Trending Gaming / Minecraft trends",
+          "tone": "funny",
+          "trend_source": "This Card Game is Cursed / board game trends",
           "virality_score": 9,
-          "why": "Tapping into massive gaming communities on YouTube Shorts with a high-retention countdown structure that heavily rewards completion rate."
+          "why": "Highly relatable nostalgia that prompts viewers to tag friends in the comments, boosting the algorithm."
         },
         {
-          "title": "3 Tech Hacks You Wish You Knew Sooner",
-          "angle": "Quick, highly practical digital and device shortcuts that save time and fix everyday tech annoyances.",
+          "title": "Top 5 Everyday Objects That Are Way Older Than You Think",
+          "angle": "A mind-blowing countdown of common household items invented centuries before modern technology.",
+          "format": "ranking",
+          "tone": "normal",
+          "trend_source": "RuneScape / gaming nostalgia",
+          "virality_score": 8,
+          "why": "Fascinating historical facts with a fast-paced countdown structure that encourages viewers to watch until the very end."
+        },
+        {
+          "title": "3 Tech Settings You Need to Change Immediately",
+          "angle": "Quick, actionable smartphone adjustments that instantly improve battery life and privacy.",
           "format": "tips",
-          "trend_source": "chatgpt login",
+          "tone": "normal",
+          "trend_source": "tech general interest",
           "virality_score": 8,
-          "why": "Provides immediate, actionable value which drives saves, shares, and loop-backs\u2014key metrics the Shorts algorithm aggressively rewards."
+          "why": "High utility drives saves and shares, two metrics heavily rewarded by the Shorts algorithm."
         },
         {
-          "title": "Why Your Brain Thinks Time Speeds Up As You Age",
-          "angle": "Explaining the proportional theory of time perception with engaging visual analogies in under 45 seconds.",
+          "title": "Can You Guess the Invention? 3-Second Trivia Challenge",
+          "angle": "A fast-paced interactive quiz where viewers try to guess famous inventions from extreme close-up macro shots.",
+          "format": "quiz",
+          "tone": "normal",
+          "trend_source": "everyday objects zoomed in",
+          "virality_score": 7,
+          "why": "Interactive elements force viewers to pause and comment their answers, skyrocketing engagement signals."
+        },
+        {
+          "title": "Why Modern Buildings Are Removing Straight Lines",
+          "angle": "An engaging architectural explainer on how curved structures completely change wind resistance and energy efficiency.",
           "format": "explainer",
-          "trend_source": "evergreen science",
-          "virality_score": 8,
-          "why": "A deeply fascinating psychological concept that triggers instant curiosity, strong comment engagement, and high viewer retention."
+          "tone": "normal",
+          "trend_source": "science and tech general interest",
+          "virality_score": 7,
+          "why": "Visual curiosity paired with a counter-intuitive hook stops the swipe instantly."
         }
       ],
-      "sent_at": "2026-10-05T16:26:24.571970+00:00",
+      "sent_at": "2026-10-05T19:52:58.505372+00:00",
       "selected": [],
       "status": "waiting"
     }
@@ -1412,8 +1434,8 @@
       "at": "2026-10-04T17:05:09.332686+00:00"
     },
     "2026-10-05": {
-      "n": 1,
-      "at": "2026-10-05T16:22:50.770519+00:00"
+      "n": 2,
+      "at": "2026-10-05T19:52:38.289890+00:00"
     }
   },
   "cleanup_day": "2026-10-05",
