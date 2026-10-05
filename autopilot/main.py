@@ -52,7 +52,7 @@ def cmd_trends(st):
     st["batches"][bid] = {"topics": topics, "sent_at": state.iso(), "selected": [], "status": "waiting"}
     lines = [f"🔥 <b>Today's {len(topics)} video ideas</b> ({config.REGION})\n"]
     for i, t in enumerate(topics, 1):
-        lines.append(f"<b>{i}. {esc(t['title'])}</b>\n   {fmt_label(t.get('format'))} · ⭐{t.get('virality_score', '?')}/10\n"
+        lines.append(f"<b>{i}. {esc(t['title'])}</b>\n   {fmt_label(t.get('format'))}{' · 😂 funny' if t.get('tone') == 'funny' and t.get('format') != 'funny' else ''} · ⭐{t.get('virality_score', '?')}/10\n"
                      f"   {esc(t['angle'])}\n   <i>Inspired by: {esc(t.get('trend_source', ''))}</i>\n")
     lines.append(
         "<b>How to reply</b>\n"
@@ -265,6 +265,27 @@ def act(st, vid, action, arg):
                       f"<b>Description:</b>\n{esc(desc)[:3000]}")
 
 
+def auto_picks(topics, n):
+    """Top-n ideas, but always with a funny short AND a funny Top 5 in the mix when the list has them."""
+    n = min(n, len(topics))
+    picks = list(range(n))
+    is_funny = lambda t: t.get("tone") == "funny" or t.get("format") == "funny"  # noqa: E731
+    groups = [[i for i, t in enumerate(topics) if t.get("format") == "ranking" and is_funny(t)],
+              [i for i, t in enumerate(topics) if t.get("format") == "funny"],
+              [i for i, t in enumerate(topics) if is_funny(t)]]
+    keep = set()
+    for g in groups:
+        hit = next((i for i in picks if i in g), None)
+        if hit is not None:
+            keep.add(hit)
+        elif g:
+            swap = next((p for p in reversed(picks) if p not in keep), None)
+            if swap is not None:
+                picks[picks.index(swap)] = g[0]
+                keep.add(g[0])
+    return sorted(picks)
+
+
 def auto_select(st):
     for bid, b in st["batches"].items():
         if b["status"] != "waiting":
@@ -273,7 +294,7 @@ def auto_select(st):
         if age >= timedelta(hours=config.SELECT_TIMEOUT_HOURS):
             if not b["selected"]:
                 telegram.send(f"⏰ No reply, so I'm making the top {config.AUTO_PICK_COUNT} ideas.")
-                for i in range(min(config.AUTO_PICK_COUNT, len(b["topics"]))):
+                for i in auto_picks(b["topics"], config.AUTO_PICK_COUNT):
                     queue_topic(st, bid, i, by="auto")
             b["status"] = "closed"
 

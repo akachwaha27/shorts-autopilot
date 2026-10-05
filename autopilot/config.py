@@ -54,21 +54,22 @@ GEMINI_MODEL = env("GEMINI_MODEL")                      # blank = auto-pick newe
 VOICE = env("VOICE", "en-US-AndrewMultilingualNeural")  # fallback voice
 VOICES = env("VOICES")                               # optional comma-separated pool; blank = built-in rotation
 VISUALS = env("VISUALS", "stock")                    # stock | ai (Cloudflare) | mixed
-TOPICS_PER_DAY = env("TOPICS_PER_DAY", 5, int)
+TOPICS_PER_DAY = env("TOPICS_PER_DAY", 6, int)
 RANKINGS_PER_DAY = env("RANKINGS_PER_DAY", 2, int)     # how many of the daily ideas are "Top 5" countdowns
-MAX_VIDEOS_PER_DAY = env("MAX_VIDEOS_PER_DAY", 3, int)
-AUTO_PICK_COUNT = env("AUTO_PICK_COUNT", 2, int)     # used if you don't reply
+FUNNY_PER_DAY = env("FUNNY_PER_DAY", 2, int)           # min funny ideas a day (1 funny short + 1 funny Top 5); 1+ is always made
+MAX_VIDEOS_PER_DAY = env("MAX_VIDEOS_PER_DAY", 4, int)
+AUTO_PICK_COUNT = env("AUTO_PICK_COUNT", 4, int)     # used if you don't reply
 SELECT_TIMEOUT_HOURS = env("SELECT_TIMEOUT_HOURS", 3, float)
 REQUIRE_APPROVAL = env("REQUIRE_APPROVAL", True, bool)
 APPROVE_TIMEOUT_HOURS = env("APPROVE_TIMEOUT_HOURS", 2, float)  # auto-publish if you stay silent
-TARGET_SECONDS = env("TARGET_SECONDS", 45, int)
+TARGET_SECONDS = env("TARGET_SECONDS", 60, int)      # spoken length; videos land at ~55-65s
 FACT_CHECK = env("FACT_CHECK", False, bool)          # check script facts against Wikipedia before rendering (set var FACT_CHECK=true to enable)
 POLL_MINUTES = env("POLL_MINUTES", 12, float)        # how long each run stays online answering Telegram
 # Peak Shorts viewing slots (local time of your audience). Each approved video takes the next free slot.
 SCHEDULE_PUBLISH = env("SCHEDULE_PUBLISH", True, bool)
 PUBLISH_TZ = env("PUBLISH_TZ", "America/New_York")
-PUBLISH_SLOTS_WEEKDAY = env("PUBLISH_SLOTS_WEEKDAY", "12:15,15:15,19:15")
-PUBLISH_SLOTS_WEEKEND = env("PUBLISH_SLOTS_WEEKEND", "10:15,14:15,19:15")
+PUBLISH_SLOTS_WEEKDAY = env("PUBLISH_SLOTS_WEEKDAY", "12:15,15:15,19:15,21:15")
+PUBLISH_SLOTS_WEEKEND = env("PUBLISH_SLOTS_WEEKEND", "10:15,14:15,19:15,21:15")
 YT_DAILY_UPLOADS = env("YT_DAILY_UPLOADS", 4, int)   # ~2,100 quota units each; free quota is 10,000/day
 KEEP_VIDEOS_DAYS = env("KEEP_VIDEOS_DAYS", 30, int)  # delete stored video files older than this (your PC sync keeps copies)
 STATS_EVERY_HOURS = env("STATS_EVERY_HOURS", 2, float)  # refresh YouTube views/likes/comments for the dashboard

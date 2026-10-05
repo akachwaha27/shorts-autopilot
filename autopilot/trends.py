@@ -91,7 +91,7 @@ Trending signals from the last 24-48h:
 
 Recently covered (do NOT repeat): {", ".join(history[-30:]) or "none"}
 
-Choose exactly {config.TOPICS_PER_DAY} ideas for ORIGINAL 30-50 second Shorts. Use the trends as inspiration
+Choose exactly {config.TOPICS_PER_DAY} ideas for ORIGINAL Shorts of about one minute (55-65 seconds). Use the trends as inspiration
 (ride the curiosity around them with a SAFE ANGLE); if the trends are weak, use proven evergreen Shorts ideas.
 Mix FORMATS - use at least 4 different ones across the list, max 2 of the same:
 - "ranking": Top 5 countdown with a clear, checkable measure ("Top 5 fastest animals on Earth")
@@ -101,6 +101,11 @@ Mix FORMATS - use at least 4 different ones across the list, max 2 of the same:
 - "tips": quick, genuinely useful everyday tips/hacks (tech, home, cooking, travel, productivity)
 - "explainer": surprising "why/how" curiosity facts
 {f'Include at least {config.RANKINGS_PER_DAY} "ranking" ideas.' if config.RANKINGS_PER_DAY else ''}
+{f'''FUNNY IS REQUIRED: include at least {config.FUNNY_PER_DAY} ideas with "tone": "funny" - at least one "funny" format
+idea AND at least one FUNNY "ranking" (a Top 5 that is played for laughs, e.g. "Top 5 animals with ridiculous
+sleeping habits", "Top 5 inventions that made no sense", "Top 5 weirdest world records"). Funny ideas must be
+kind and family-friendly, and must not be pushed to the bottom: give them honest virality scores.''' if config.FUNNY_PER_DAY else ''}
+Every idea also gets "tone": "funny" (played for laughs) or "normal".
 
 Hard rules - reject any idea that:
 - involves politics, elections, government, war, crime, death, disasters, religion, health/medical or financial
@@ -110,7 +115,7 @@ Hard rules - reject any idea that:
 Every idea must be advertiser-friendly and suitable for a general 13+ audience.
 
 Return JSON: {{"topics": [{{"title": "short catchy working title", "angle": "one sentence on the video idea",
-"format": "ranking|story|funny|quiz|tips|explainer", "trend_source": "which signal inspired it (or evergreen)",
+"format": "ranking|story|funny|quiz|tips|explainer", "tone": "funny|normal", "trend_source": "which signal inspired it (or evergreen)",
 "virality_score": 1-10, "why": "why it can win in the Shorts feed"}}]}}
 Sort by virality_score descending."""
     data = llm.ask_json(prompt, temperature=0.8)
@@ -119,4 +124,5 @@ Sort by virality_score descending."""
     from .writer import fmt_of
     for t in topics:
         t["format"] = fmt_of(t)
+        t["tone"] = "funny" if t["format"] == "funny" or str(t.get("tone", "")).lower().startswith("fun") else "normal"
     return [t for t in topics if not BLOCKLIST.search(t["title"] + " " + t["angle"])][: config.TOPICS_PER_DAY]

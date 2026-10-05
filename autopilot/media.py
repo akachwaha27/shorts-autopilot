@@ -37,12 +37,15 @@ def duration(path):
 
 
 # =========================== Voice ===========================
+# Only the newest "Multilingual" neural voices: they have natural breathing, intonation and pacing.
+# The older voices (Jenny, Guy, Aria...) sound noticeably more robotic, so they're no longer in the rotation.
 VOICE_POOL = {
     "en": ["en-US-AndrewMultilingualNeural", "en-US-AvaMultilingualNeural", "en-US-BrianMultilingualNeural",
-           "en-US-EmmaMultilingualNeural", "en-US-ChristopherNeural", "en-US-JennyNeural", "en-US-GuyNeural",
-           "en-US-AriaNeural", "en-GB-RyanNeural", "en-GB-SoniaNeural", "en-AU-WilliamNeural",
-           "en-AU-NatashaNeural", "en-CA-LiamNeural", "en-IE-ConnorNeural"],
+           "en-US-EmmaMultilingualNeural", "en-AU-WilliamMultilingualNeural", "en-GB-AdaMultilingualNeural",
+           "en-GB-OllieMultilingualNeural", "en-US-SerenaMultilingualNeural", "en-US-SteffanMultilingualNeural"],
 }
+FALLBACK_VOICES = ["en-US-AndrewMultilingualNeural", "en-US-AvaMultilingualNeural",
+                   "en-US-BrianMultilingualNeural", "en-US-EmmaMultilingualNeural"]
 
 
 def voice_pool():
@@ -54,7 +57,7 @@ def voice_pool():
         import edge_tts
         live = {v["ShortName"] for v in asyncio.run(edge_tts.list_voices())}
         if pool:
-            pool = [v for v in pool if v in live] or pool
+            pool = [v for v in pool if v in live] or [v for v in FALLBACK_VOICES if v in live] or pool
         else:  # other languages: any neural voice for that language
             pool = sorted(v for v in live if v.lower().startswith(lang + "-"))[:12]
     except Exception as e:  # noqa: BLE001
@@ -93,16 +96,31 @@ def _estimate_words(text, total):
     return out
 
 
+def _speak(text, mp3, voice, rate):
+    words = []
+    asyncio.run(_edge(text, mp3, words, voice, f"{rate:+d}%", "+0Hz"))  # no pitch shift: it sounds robotic
+    if os.path.getsize(mp3) < 1000 or not words:
+        raise RuntimeError("empty audio")
+    return words
+
+
 def voiceover(text, out_dir, voice):
+    """Natural pace (+0..5%). If the read lands far from TARGET_SECONDS, re-read once at an adjusted pace
+    (kept within -8%..+10% so it never sounds slowed down or rushed)."""
     mp3 = os.path.join(out_dir, "voice.mp3")
-    rate = f"+{random.randint(4, 12)}%"
-    pitch = f"{random.choice(['-', '+'])}{random.randint(0, 3)}Hz"
+    target = config.TARGET_SECONDS
     for v in (voice, config.VOICE):
         try:
-            words = []
-            asyncio.run(_edge(text, mp3, words, v, rate, pitch))
-            if os.path.getsize(mp3) > 1000 and words:
-                return mp3, words, f"AI-generated voice (Microsoft Edge neural TTS, {v})"
+            rate = random.randint(0, 5)
+            words = _speak(text, mp3, v, rate)
+            got = duration(mp3)
+            if abs(got - target) > target * 0.08:
+                new = int(round((1 + rate / 100) * got / target * 100 - 100))
+                new = max(-8, min(10, new))
+                if new != rate:
+                    words = _speak(text, mp3, v, new)
+                    print(f"voice pace {rate:+d}% -> {new:+d}% ({got:.1f}s -> {duration(mp3):.1f}s, target {target}s)")
+            return mp3, words, f"AI-generated voice (Microsoft Edge neural TTS, {v})"
         except Exception as e:  # noqa: BLE001
             print(f"edge-tts voice {v} failed: {str(e)[:120]}")
     from gtts import gTTS  # backup engine

@@ -129,8 +129,8 @@ Any platform you leave blank is skipped.
 | `VOICE` | `en-US-AndrewMultilingualNeural` | Fallback voice |
 | `RANKINGS_PER_DAY` | `2` | How many daily ideas are Top 5 countdowns |
 | `VISUALS` | `stock` | `stock`, `ai` or `mixed` |
-| `MAX_VIDEOS_PER_DAY` | `3` | Hard daily cap |
-| `AUTO_PICK_COUNT` | `2` | How many topics it picks if you don't reply |
+| `MAX_VIDEOS_PER_DAY` | `4` (pinned in the workflow) | Hard daily cap. 4 is the max on the free 10,000-unit YouTube quota |
+| `AUTO_PICK_COUNT` | `4` (pinned in the workflow) | How many topics it picks if you don't reply (always includes a funny short and a funny Top 5 when listed) |
 | `SELECT_TIMEOUT_HOURS` | `3` | How long it waits for your pick |
 | `REQUIRE_APPROVAL` | `true` | Send a preview before publishing |
 | `APPROVE_TIMEOUT_HOURS` | `2` | Auto-publish after this long. `0` means always wait for you |
@@ -138,7 +138,7 @@ Any platform you leave blank is skipped.
 | `TIKTOK_MODE` | `draft` | `draft` (finish in the TikTok app) or `direct` |
 | `TIKTOK_PRIVACY` | `SELF_ONLY` | Direct mode only; change after the TikTok audit |
 | `KEEP_VIDEOS_DAYS` | `30` | Days stored videos stay on GitHub before cleanup |
-| `TARGET_SECONDS` | `45` | Video length. Use `65` once you're close to TikTok Creator Rewards (it pays only for videos over 1 minute) |
+| `TARGET_SECONDS` | `60` (pinned in the workflow) | Spoken length. Scripts are rewritten until they fit and the voice pace is adjusted, so videos land at ~55-65s |
 
 ### 10. Test it
 1. Go to **Actions → autopilot → Run workflow** and enter the command `test`. It renders one sample video and sends it to your Telegram without posting anywhere.

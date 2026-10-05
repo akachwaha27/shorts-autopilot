@@ -25,14 +25,34 @@ def fmt_of(topic):
     return next((k for k in FORMATS if f.startswith(k[:4])), "explainer")
 
 
+WORDS_PER_SECOND = 2.6  # natural edge-tts pace at +0..5% speed
+
+
+def target_words():
+    return int(config.TARGET_SECONDS * WORDS_PER_SECOND)
+
+
+FUNNY_TONE = """TONE: FUNNY. This one is played for laughs (still kind and family-friendly).
+Keep the format structure above, but every scene needs a joke: a playful observation, an exaggerated
+comparison, a deadpan aside or a callback to an earlier joke. Use setup -> punchline rhythm and land the
+biggest laugh on the final item / last scene. Facts stay true; the humor comes from how you tell them.
+Never mock real people or any group."""
+
 RETENTION_RULES = f"""SHORTS RETENTION RULES (follow strictly - you are writing for the YouTube Shorts algorithm):
 - The first sentence is the hook: max 12 words, creates curiosity or tension in the first second.
   Never start with greetings, "In this video", "Hey guys" or the channel name.
 - Promise a payoff early and deliver it near the end, so viewers stay to the last second.
-- Short, punchy spoken sentences (6-14 words). Conversational, energetic, no filler.
+- Write the way a real person talks to a friend, not like an article being read out:
+  contractions (it's, you'll, didn't), mixed sentence lengths (a few 3-5 word lines between longer ones),
+  natural asides ("honestly", "wait", "here's the thing", "okay, so"), and commas/full stops where a
+  speaker would breathe. Avoid stiff phrasing ("Furthermore", "In conclusion", "It is important to note").
+  Spell numbers the way you'd say them ("about eleven kilometers", "three hundred years"). No emojis,
+  hashtags, symbols or brackets in the narration - it is read aloud.
 - Make the last line flow naturally back into the first line so the Short loops seamlessly.
 - End by asking ONE specific question viewers can answer in the comments (drives comments), not "like and subscribe".
-- Total about {int(config.TARGET_SECONDS * 2.6)} spoken words ({config.TARGET_SECONDS} seconds).
+- LENGTH IS STRICT: the narration (all scene texts together) must be {target_words()} spoken words, give or take 10,
+  so the video runs about {config.TARGET_SECONDS} seconds. Fill time with real content (an extra detail per item,
+  a reaction, a quick comparison), never with padding or repetition.
 - "hook_text": 3-6 words shown on screen during the first scene (bold, curiosity-driven).
 
 CONTENT POLICY (YouTube monetization-safe, advertiser-friendly, general audience 13+):
@@ -95,9 +115,26 @@ Badges/labels optional: use label for one key number or term on screen when it h
 
 
 def write_package(topic):
+    """Writes the package and re-asks (max 2 times) until the narration is close to TARGET_SECONDS."""
+    want = target_words()
+    lo, hi = int(want * 0.88), int(want * 1.2)
+    pkg, note = None, ""
+    for _ in range(3):
+        pkg = _write_once(topic, note)
+        n = len(pkg["script"].split())
+        print(f"script length: {n} words (target {want}, ok {lo}-{hi})")
+        if lo <= n <= hi:
+            break
+        note = (f"LENGTH FIX: your last draft was {n} words but it MUST be about {want} words "
+                f"({config.TARGET_SECONDS} seconds). {'Add' if n < lo else 'Cut'} content to fit, keeping the same structure.")
+    return pkg
+
+
+def _write_once(topic, length_note=""):
     fmt = fmt_of(topic)
     info = FORMATS[fmt]
-    feedback = topic.get("feedback")
+    funny = fmt == "funny" or str(topic.get("tone", "")).lower() == "funny"
+    feedback = " ".join(x for x in (topic.get("feedback"), length_note) if x)
     prompt = f"""Write an ORIGINAL vertical YouTube Short package.
 Topic: {topic['title']}
 Angle: {topic.get('angle', '')}
@@ -105,6 +142,7 @@ Language: {config.LANGUAGE}.
 {f'CHANNEL OWNER FEEDBACK ON THE PREVIOUS VERSION - apply it: {feedback}' if feedback else ''}
 
 {STRUCTURES[fmt]}
+{FUNNY_TONE if funny else ''}
 
 {RETENTION_RULES.replace('{format_tag}', info['tag'])}
 
@@ -112,10 +150,13 @@ Return JSON:
 {{"primary_keyword": "...", "title": "...", "hook_text": "...", "thumbnail_text": "...", "description": "...", "hashtags": ["#shorts", "...", "...", "{info['tag']}"],
   "tags": ["..."], "pinned_comment": "...", "scenes": [{{"text": "narration", "badge": "", "label": "",
   "stock_queries": ["...", "..."], "image_prompt": "..."}}], "key_facts": ["..."]}}"""
-    pkg = llm.ask_json(prompt, temperature=0.8 if fmt in ("story", "funny") else 0.7)
+    pkg = llm.ask_json(prompt, temperature=0.85 if funny or fmt == "story" else 0.7)
     pkg["format"] = fmt
-    pkg["category"] = info["category"]
+    pkg["tone"] = "funny" if funny else "normal"
+    pkg["category"] = "23" if funny else info["category"]  # funny Top 5s go in Comedy
     _normalize(pkg, fmt)
+    if funny and "#funny" not in pkg["hashtags"]:
+        pkg["hashtags"] = (pkg["hashtags"][:4] + ["#funny"])
     pkg["script"] = " ".join(s["text"].strip() for s in pkg["scenes"])
     return pkg
 
