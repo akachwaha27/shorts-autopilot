@@ -248,8 +248,13 @@
         }
       ],
       "sent_at": "2026-10-06T17:32:58.849709+00:00",
-      "selected": [],
-      "status": "waiting"
+      "selected": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "status": "closed"
     }
   },
   "videos": {
@@ -2186,143 +2191,143 @@
     },
     "2026-10-06-1": {
       "topic": {
-        "title": "Top 5 Foods That Are Way Older Than You Think",
-        "angle": "Reveal the surprisingly ancient origins of everyday foods like chewing gum and popcorn using high-retention pacing.",
+        "title": "Top 5 Animals That Suck At Hiding",
+        "angle": "Counting down the most hilariously bad camouflage attempts in the animal kingdom, proving that confidence is everything.",
         "format": "ranking",
-        "tone": "normal",
+        "tone": "funny",
         "trend_source": "evergreen",
-        "virality_score": 9,
-        "why": "High-curiosity ranking lists with visual hooks and counterintuitive facts naturally drive high completion rates and loop rewatches."
+        "virality_score": 10,
+        "why": "Combines a high-retention Top 5 countdown format with instant visual comedy that appeals to a broad audience, driving massive comments and loops."
       },
-      "status": "published",
-      "by": "you",
-      "updated": "2026-10-06T16:23:21.977413+00:00",
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-06T21:06:03.869043+00:00",
       "redos": 0,
       "package": {
-        "primary_keyword": "foods older than you think",
-        "title": "Top 5 Foods That Are Way Older Than You Think",
-        "hook_text": "Ancient everyday snacks",
-        "thumbnail_text": "Shocking food history",
-        "description": "Discover five everyday foods older than you think, from ancient chewing gum to prehistoric popcorn.",
+        "primary_keyword": "top 5 animals",
+        "title": "Top 5 Animals That Fail At Camouflage",
+        "hook_text": "worst hiders ever",
+        "thumbnail_text": "Failed Hiding",
+        "description": "Watch these top 5 animals that suck at hiding and fail terribly at camouflage. See the funniest animal hiders in the wild.",
         "hashtags": [
           "#shorts",
-          "#history",
-          "#foodhistory",
-          "#top5"
+          "#animals",
+          "#funnyanimals",
+          "#top5",
+          "#funny"
         ],
         "tags": [
-          "foods older than you think",
-          "foods humans ate long ago",
-          "ancient foods still eaten today",
-          "ancient chewing gum",
-          "ancient foods",
-          "history snacks",
-          "strange food history",
-          "weird food facts",
-          "surprising food history",
-          "oldest foods in the world",
-          "history of everyday snacks",
-          "food facts",
-          "ancient recipes",
-          "historical foods",
-          "history of popcorn"
+          "top 5 animals",
+          "top 5 animals funny moments",
+          "top animal fails",
+          "top 5 animals funny",
+          "animals that suck at hiding",
+          "animal fails",
+          "funny animals",
+          "funny animals shorts",
+          "worst hiders",
+          "animal humor",
+          "nature laughs",
+          "bad camouflage",
+          "funny wildlife",
+          "wildlife moments"
         ],
-        "pinned_comment": "Which of these ancient snacks would you actually try today?",
+        "pinned_comment": "Which of these terrible hiders do you think gave up the easiest? Let me know below!",
         "scenes": [
           {
-            "text": "You won't believe how long humans have been eating these everyday foods. Wait until you see number one.",
+            "text": "Some animals rely on camouflage to survive, but these ones missed that memo completely.",
             "badge": "",
             "label": "",
             "stock_queries": [
-              "ancient kitchen ingredients",
-              "historical food display"
+              "forest wildlife hiding",
+              "confused animal looking"
             ],
-            "image_prompt": "Vertical 9:16 cinematic shot of ancient rustic food ingredients on a wooden table, warm dramatic lighting, no text, no people.",
-            "stock_query": "ancient kitchen ingredients"
+            "image_prompt": "Cinematic vertical 9:16 shot of a dense green jungle with dappled sunlight, no people, photorealistic",
+            "stock_query": "forest wildlife hiding"
           },
           {
-            "text": "Number five, chewing gum. Long before modern brands, people chewed birch bark pitch. Stone age folks used it to clean teeth and ease hunger over nine thousand years ago.",
+            "text": "Number five. The snowflake eel lives in bright yellow coral, yet boasts bold black leopard spots that scream look at me from across the reef.",
             "badge": "#5",
-            "label": "Chewing Gum",
+            "label": "Snowflake Eel",
             "stock_queries": [
-              "natural tree resin",
-              "forest tree bark"
+              "snowflake eel reef",
+              "moray eel swimming"
             ],
-            "image_prompt": "Vertical 9:16 close-up of natural tree resin on bark in a lush forest, soft sunlight, no text, no people.",
-            "stock_query": "natural tree resin"
+            "image_prompt": "Vertical 9:16 shot of a colorful coral reef underwater with clear blue water, no people",
+            "stock_query": "snowflake eel reef"
           },
           {
-            "text": "At number four, pretzels. Monks in early medieval Europe baked dough into the shape of folded arms praying, creating a portable snack that has survived over one thousand years.",
+            "text": "At number four, we have the giant panda. Black and white fur stands out against green bamboo like a tuxedo at a muddy playground.",
             "badge": "#4",
-            "label": "Pretzels",
+            "label": "Giant Panda",
             "stock_queries": [
-              "fresh baked pretzels",
-              "medieval bread loaf"
+              "giant panda eating",
+              "panda in bamboo"
             ],
-            "image_prompt": "Vertical 9:16 shot of freshly baked golden brown pretzels on parchment paper, rustic bakery setting, no text, no people.",
-            "stock_query": "fresh baked pretzels"
+            "image_prompt": "Vertical 9:16 shot of lush green bamboo forest in soft mist, no people",
+            "stock_query": "giant panda eating"
           },
           {
-            "text": "Number three, hot dogs. Ancient Babylonians stuffed spiced meat into animal intestines thousands of years ago, proving our love for handheld sausages is truly timeless.",
+            "text": "Number three. The ptarmigan turns stark white in winter, which is great until there is zero snow and it looks like a wandering marshmallow.",
             "badge": "#3",
-            "label": "Hot Dogs",
+            "label": "White Ptarmigan",
             "stock_queries": [
-              "grilled sausage food",
-              "rustic meat preparation"
+              "ptarmigan bird snow",
+              "alpine bird winter"
             ],
-            "image_prompt": "Vertical 9:16 shot of savory sausages grilling over hot coals, smoky atmosphere, no text, no people.",
-            "stock_query": "grilled sausage food"
+            "image_prompt": "Vertical 9:16 shot of rocky mountain slope with patches of melting snow, no people",
+            "stock_query": "ptarmigan bird snow"
           },
           {
-            "text": "At number two, popcorn. Ancient Peruvians didn't just eat corn. They popped it over hot sand thousands of years before movie theaters even existed.",
+            "text": "At number two, the peacock spider tries to hide on green leaves while flashing neon pink and electric blue like a tiny floating disco ball.",
             "badge": "#2",
-            "label": "Popcorn",
+            "label": "Peacock Spider",
             "stock_queries": [
-              "popped corn kernels",
-              "ancient corn cobs"
+              "jumping spider macro",
+              "colorful spider leaf"
             ],
-            "image_prompt": "Vertical 9:16 shot of fluffy white popcorn popping in a vintage iron pan, warm cinematic lighting, no text, no people.",
-            "stock_query": "popped corn kernels"
+            "image_prompt": "Vertical 9:16 macro shot of a vibrant green leaf surface with soft morning dew, no people",
+            "stock_query": "jumping spider macro"
           },
           {
-            "text": "Number one, chocolate. Ancient Mesoamericans brewed crushed cacao beans into a bitter, frothy drink nearly four thousand years ago, making our favorite treat way older than you think.",
+            "text": "Number one. The red panda thinks sitting in a bright green tree wearing fiery red fur is totally stealthy, but it is basically a walking stop sign.",
             "badge": "#1",
-            "label": "Chocolate",
+            "label": "Red Panda",
             "stock_queries": [
-              "raw cacao beans",
-              "dark chocolate chunks"
+              "red panda tree",
+              "red panda branch"
             ],
-            "image_prompt": "Vertical 9:16 shot of raw cacao beans and dark chocolate pieces on a dark stone surface, moody lighting, no text, no people.",
-            "stock_query": "raw cacao beans"
+            "image_prompt": "Vertical 9:16 shot of high tree branches with green leaves against a soft background, no people",
+            "stock_query": "red panda tree"
           },
           {
-            "text": "You won't believe how long humans have been eating these everyday foods. Wait until you see number one.",
+            "text": "Confidence is everything, because some animals rely on camouflage to survive, but...",
             "badge": "",
             "label": "",
             "stock_queries": [
-              "historical food display",
-              "ancient kitchen ingredients"
+              "funny animal face",
+              "wildlife looking around"
             ],
-            "image_prompt": "Vertical 9:16 cinematic shot of ancient rustic food ingredients on a wooden table, warm dramatic lighting, no text, no people.",
-            "stock_query": "historical food display"
+            "image_prompt": "Vertical 9:16 cinematic close-up of a whimsical forest clearing at sunset, no people",
+            "stock_query": "funny animal face"
           }
         ],
         "key_facts": [
-          "Birch bark pitch was used as chewing gum over 9,000 years ago.",
-          "Pretzels originated in early medieval Europe over 1,000 years ago.",
-          "Sausages in casings were made by ancient civilizations thousands of years ago.",
-          "Popcorn was made thousands of years ago in ancient Peru.",
-          "Mesoamericans consumed cacao preparations nearly 4,000 years ago."
+          "Snowflake eels have black leopard spots on a yellowish body.",
+          "Giant pandas have high contrast black and white fur.",
+          "Ptarmigans molt to white plumage in winter.",
+          "Peacock spiders display vibrant iridescent colors.",
+          "Red pandas possess reddish-brown fur."
         ],
         "format": "ranking",
-        "tone": "normal",
-        "category": "27",
-        "script": "You won't believe how long humans have been eating these everyday foods. Wait until you see number one. Number five, chewing gum. Long before modern brands, people chewed birch bark pitch. Stone age folks used it to clean teeth and ease hunger over nine thousand years ago. At number four, pretzels. Monks in early medieval Europe baked dough into the shape of folded arms praying, creating a portable snack that has survived over one thousand years. Number three, hot dogs. Ancient Babylonians stuffed spiced meat into animal intestines thousands of years ago, proving our love for handheld sausages is truly timeless. At number two, popcorn. Ancient Peruvians didn't just eat corn. They popped it over hot sand thousands of years before movie theaters even existed. Number one, chocolate. Ancient Mesoamericans brewed crushed cacao beans into a bitter, frothy drink nearly four thousand years ago, making our favorite treat way older than you think. You won't believe how long humans have been eating these everyday foods. Wait until you see number one.",
-        "voice": "en-US-EmmaMultilingualNeural"
+        "tone": "funny",
+        "category": "23",
+        "script": "Some animals rely on camouflage to survive, but these ones missed that memo completely. Number five. The snowflake eel lives in bright yellow coral, yet boasts bold black leopard spots that scream look at me from across the reef. At number four, we have the giant panda. Black and white fur stands out against green bamboo like a tuxedo at a muddy playground. Number three. The ptarmigan turns stark white in winter, which is great until there is zero snow and it looks like a wandering marshmallow. At number two, the peacock spider tries to hide on green leaves while flashing neon pink and electric blue like a tiny floating disco ball. Number one. The red panda thinks sitting in a bright green tree wearing fiery red fur is totally stealthy, but it is basically a walking stop sign. Confidence is everything, because some animals rely on camouflage to survive, but...",
+        "voice": "en-US-BrianMultilingualNeural"
       },
       "credits": [
-        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-EmmaMultilingualNeural).",
-        "Stock footage/photos (Pexels/Pixabay Content License): Dantegr\u00e1fico (Pixabay) https://pixabay.com/videos/id-123629/; PIRO4D (Pixabay) https://pixabay.com/videos/id-7549/; Motionwell (Pixabay) https://pixabay.com/videos/id-336603/; DistillVideos (Pixabay) https://pixabay.com/videos/id-23/; Osckar (Pixabay) https://pixabay.com/videos/id-1613/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-1261/; xBriantcx (Pixabay) https://pixabay.com/videos/id-238823/; asifsharif (Pixabay) https://pixabay.com/videos/id-326081/; shahfaisalkhan6676 (Pixabay) https://pixabay.com/videos/id-82789/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-597/; shahfaisalkhan6676 (Pixabay) https://pixabay.com/videos/id-82725/; allwarez (Pixabay) https://pixabay.com/videos/id-2700/; elioavila (Pixabay) https://pixabay.com/videos/id-268554/; groovelanddesigns (Pixabay) https://pixabay.com/videos/id-37441/; xBriantcx (Pixabay) https://pixabay.com/videos/id-236256/; Jb-004 (Pixabay) https://pixabay.com/videos/id-159429/; Pana68 (Pixabay) https://pixabay.com/videos/id-200157/; TBIT (Pixabay) https://pixabay.com/videos/id-1210/; muzammil7865 (Pixabay) https://pixabay.com/videos/id-149665/"
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-BrianMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): bijan6207 (Pixabay) https://pixabay.com/videos/id-214669/; moshehar (Pixabay) https://pixabay.com/videos/id-14869/; Mehul_photography_15 (Pixabay) https://pixabay.com/videos/id-173436/; MilanWulf (Pixabay) https://pixabay.com/videos/id-6837/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-1080/; viziter (Pixabay) https://pixabay.com/videos/id-54032/; JoshuaWoroniecki (Pixabay) https://pixabay.com/videos/id-272562/; RoyBuri (Pixabay) https://pixabay.com/videos/id-85698/; \u7d20\u541b (Pixabay) https://pixabay.com/videos/id-137015/; NickyPe (Pixabay) https://pixabay.com/videos/id-191159/; heimseiten_WebdesignKoeln (Pixabay) https://pixabay.com/videos/id-8558/; NguyenTham_NTB (Pixabay) https://pixabay.com/videos/id-327101/; BlenderTimer (Pixabay) https://pixabay.com/videos/id-206285/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-642/; FernandoChile (Pixabay) https://pixabay.com/videos/id-7795/; Yocchi09 (Pixabay) https://pixabay.com/videos/id-367162/; NickyPe (Pixabay) https://pixabay.com/videos/id-90290/; McPix22 (Pixabay) https://pixabay.com/videos/id-206623/; gustavo_belemmi (Pixabay) https://pixabay.com/videos/id-2879/; Shravan1991 (Pixabay) https://pixabay.com/videos/id-206294/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-305342/"
       ],
       "file": {
         "type": "release",
@@ -2334,170 +2339,161 @@
         "tag": "videos-2026-10-06",
         "name": "2026-10-06-1-v0-thumb.jpg"
       },
-      "srt": "1\n00:00:00,097 --> 00:00:01,857\nYou won't believe how long humans have\n\n2\n00:00:01,857 --> 00:00:04,624\nbeen eating these everyday foods Wait until\n\n3\n00:00:04,624 --> 00:00:07,063\nyou see number one Number five chewing\n\n4\n00:00:07,063 --> 00:00:09,915\ngum Long before modern brands people chewed\n\n5\n00:00:09,915 --> 00:00:12,658\nbirch bark pitch Stone age folks used\n\n6\n00:00:12,658 --> 00:00:14,393\nit to clean teeth and ease hunger\n\n7\n00:00:14,393 --> 00:00:16,760\nover nine thousand years ago At number\n\n8\n00:00:16,760 --> 00:00:19,794\nfour pretzels Monks in early medieval Europe\n\n9\n00:00:19,794 --> 00:00:21,468\nbaked dough into the shape of folded\n\n10\n00:00:21,468 --> 00:00:24,296\narms praying creating a portable snack that\n\n11\n00:00:24,296 --> 00:00:27,136\nhas survived over one thousand years Number\n\n12\n00:00:27,136 --> 00:00:30,097\nthree hot dogs Ancient Babylonians stuffed\n\n13\n00:00:30,097 --> 00:00:32,536\nspiced meat into animal intestines thousands\n\n14\n00:00:32,536 --> 00:00:34,721\nof years ago proving our love for\n\n15\n00:00:34,721 --> 00:00:37,998\nhandheld sausages is truly timeless At number\n\n16\n00:00:37,998 --> 00:00:41,080\ntwo popcorn Ancient Peruvians didn't just eat\n\n17\n00:00:41,080 --> 00:00:43,362\ncorn They popped it over hot sand\n\n18\n00:00:43,362 --> 00:00:45,765\nthousands of years before movie theaters even\n\n19\n00:00:45,765 --> 00:00:49,745\nexisted Number one chocolate Ancient Mesoamericans\n\n20\n00:00:49,745 --> 00:00:52,148\nbrewed crushed cacao beans into a bitter\n\n21\n00:00:52,148 --> 00:00:54,684\nfrothy drink nearly four thousand years ago\n\n22\n00:00:54,684 --> 00:00:56,505\nmaking our favorite treat way older than\n\n23\n00:00:56,505 --> 00:00:58,580\nyou think You won't believe how long\n\n24\n00:00:58,580 --> 00:01:01,383\nhumans have been eating these everyday foods\n\n25\n00:01:01,383 --> 00:01:03,337\nWait until you see number one\n",
-      "tg_msg": 133,
-      "opts_msg": 135,
-      "approved_by": "you",
-      "publish_now": false,
-      "description_full": "Discover five everyday foods older than you think, from ancient chewing gum to prehistoric popcorn.\n\n#shorts #history #foodhistory #top5\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review and approved by the channel owner.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-EmmaMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): Dantegr\u00e1fico (Pixabay) https://pixabay.com/videos/id-123629/; PIRO4D (Pixabay) https://pixabay.com/videos/id-7549/; Motionwell (Pixabay) https://pixabay.com/videos/id-336603/; DistillVideos (Pixabay) https://pixabay.com/videos/id-23/; Osckar (Pixabay) https://pixabay.com/videos/id-1613/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-1261/; xBriantcx (Pixabay) https://pixabay.com/videos/id-238823/; asifsharif (Pixabay) https://pixabay.com/videos/id-326081/; shahfaisalkhan6676 (Pixabay) https://pixabay.com/videos/id-82789/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-597/; shahfaisalkhan6676 (Pixabay) https://pixabay.com/videos/id-82725/; allwarez (Pixabay) https://pixabay.com/videos/id-2700/; elioavila (Pixabay) https://pixabay.com/videos/id-268554/; groovelanddesigns (Pixabay) https://pixabay.com/videos/id-37441/; xBriantcx (Pixabay) https://pixabay.com/videos/id-236256/; Jb-004 (Pixabay) https://pixabay.com/videos/id-159429/; Pana68 (Pixabay) https://pixabay.com/videos/id-200157/; TBIT (Pixabay) https://pixabay.com/videos/id-1210/; muzammil7865 (Pixabay) https://pixabay.com/videos/id-149665/\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/Adve1NXjcl0",
-          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-06T16:23:21.977430+00:00",
-      "slot": "2026-10-07T01:15:00+00:00"
+      "srt": "1\n00:00:00,095 --> 00:00:03,628\nSome animals rely on camouflage to survive\n\n2\n00:00:03,628 --> 00:00:06,617\nbut these ones missed that memo completely\n\n3\n00:00:06,617 --> 00:00:09,429\nNumber five The snowflake eel lives in\n\n4\n00:00:09,429 --> 00:00:12,731\nbright yellow coral yet boasts bold black\n\n5\n00:00:12,731 --> 00:00:14,783\nleopard spots that scream look at me\n\n6\n00:00:14,783 --> 00:00:17,305\nfrom across the reef At number four\n\n7\n00:00:17,305 --> 00:00:19,660\nwe have the giant panda Black and\n\n8\n00:00:19,660 --> 00:00:22,296\nwhite fur stands out against green bamboo\n\n9\n00:00:22,296 --> 00:00:24,986\nlike a tuxedo at a muddy playground\n\n10\n00:00:24,986 --> 00:00:27,948\nNumber three The ptarmigan turns stark white\n\n11\n00:00:27,948 --> 00:00:30,435\nin winter which is great until there\n\n12\n00:00:30,435 --> 00:00:32,174\nis zero snow and it looks like\n\n13\n00:00:32,174 --> 00:00:35,380\na wandering marshmallow At number two the\n\n14\n00:00:35,380 --> 00:00:37,704\npeacock spider tries to hide on green\n\n15\n00:00:37,704 --> 00:00:40,815\nleaves while flashing neon pink and electric\n\n16\n00:00:40,815 --> 00:00:43,927\nblue like a tiny floating disco ball\n\n17\n00:00:43,927 --> 00:00:46,535\nNumber one The red panda thinks sitting\n\n18\n00:00:46,535 --> 00:00:48,546\nin a bright green tree wearing fiery\n\n19\n00:00:48,546 --> 00:00:51,182\nred fur is totally stealthy but it\n\n20\n00:00:51,182 --> 00:00:54,198\nis basically a walking stop sign Confidence\n\n21\n00:00:54,198 --> 00:00:56,712\nis everything because some animals rely on\n\n22\n00:00:56,712 --> 00:00:59,395\ncamouflage to survive but\n",
+      "tg_msg": 148,
+      "opts_msg": 150
     },
     "2026-10-06-2": {
       "topic": {
-        "title": "Top 5 Excuses People Give When They're Late",
-        "angle": "A lighthearted, highly relatable countdown of the most absurd yet common reasons people give for running behind schedule.",
+        "title": "Top 5 Space Events Happening This Month",
+        "angle": "A countdown of the most incredible upcoming cosmic events visible from Earth that you shouldn't miss.",
         "format": "ranking",
-        "tone": "funny",
-        "trend_source": "united airlines",
+        "tone": "normal",
+        "trend_source": "crescent moon jupiter",
         "virality_score": 9,
-        "why": "Combines a trending travel/delay theme with universal humor, triggering massive comment sections and shares from tagged friends."
+        "why": "Capitalizes on active search interest in astronomy events like Jupiter and the moon while delivering high-value, visually engaging space facts."
       },
       "status": "awaiting_approval",
-      "by": "you",
-      "updated": "2026-10-06T16:23:02.906130+00:00",
+      "by": "auto",
+      "updated": "2026-10-06T21:08:14.824026+00:00",
       "redos": 0,
       "package": {
-        "primary_keyword": "reasons for being late",
-        "title": "Top 5 Excuses People Give When They're Late",
-        "hook_text": "Why are you always late?",
-        "thumbnail_text": "Always late?",
-        "description": "Discover the top 5 excuses people give when they are late for everything. Find out the funniest reasons people run behind schedule.",
+        "primary_keyword": "top 5 space events",
+        "title": "Top 5 Space Events This Month You Cannot Miss",
+        "hook_text": "CRAZY SPACE EVENTS",
+        "thumbnail_text": "DON'T MISS THIS",
+        "description": "Discover the top 5 space events happening this month that are easily visible from your backyard right now. Get ready for some incredible cosmic sights.",
         "hashtags": [
           "#shorts",
-          "#comedy",
-          "#relatable",
-          "#top5",
-          "#funny"
+          "#space",
+          "#astronomy",
+          "#top5"
         ],
         "tags": [
-          "reasons for being late",
-          "why am i always late to work",
-          "why am i always running late",
-          "excuses for being late to work",
-          "why am i always late to everything",
-          "top 5 excuses",
-          "why am i always late",
-          "excuses for being late",
-          "excuses for being late to class",
-          "excuses for being late to school",
-          "funny excuses for being late",
-          "running late humor",
-          "funny short videos",
-          "late to work excuses",
-          "relatable late habits",
-          "funny time management",
-          "daily struggles humor",
-          "lateness excuses"
+          "top 5 space events",
+          "space events this month",
+          "space events happening this month",
+          "night sky events",
+          "stargazing tips",
+          "astronomy events",
+          "stargazing guide",
+          "space events this year",
+          "top 5 astronomical events in 2025",
+          "upcoming space events",
+          "meteor showers",
+          "cosmos tonight",
+          "visible planets",
+          "planet conjunction"
         ],
-        "pinned_comment": "Which one of these do you secretly use every single week? Let me know below! \ud83d\udd52",
+        "pinned_comment": "Which of these cosmic sights are you hoping to catch through your telescope this month? Let me know below!",
         "scenes": [
           {
-            "text": "Why are you always running behind schedule? Here are the top five excuses people give when they are late.",
+            "text": "You seriously won't believe what our night sky is about to do this month.",
             "badge": "",
             "label": "",
             "stock_queries": [
-              "person looking at watch",
-              "running late clock"
+              "stargazing night sky",
+              "milky way timelapse"
             ],
-            "image_prompt": "Vertical 9:16 image of a person staring frantically at a wall clock in a modern hallway, cinematic lighting, no text.",
-            "stock_query": "person looking at watch"
+            "image_prompt": "Vertical 9:16 cinematic shot of a starry night sky with the Milky Way arching over a silhouette of mountains, no text, highly detailed.",
+            "stock_query": "stargazing night sky"
           },
           {
-            "text": "Number five, I lost my keys. They vanished into another dimension and only reappeared after twenty minutes of frantic cushion stabbing.",
+            "text": "Number five, the brilliant Venus and Jupiter close encounter lights up dawn. You can spot this stunning pair shining brightly together just before sunrise without any telescope at all.",
             "badge": "#5",
-            "label": "Lost Keys",
+            "label": "Planet Conjunction",
             "stock_queries": [
-              "searching for keys",
-              "couch cushions mess"
+              "bright planets conjunction",
+              "sunrise over horizon"
             ],
-            "image_prompt": "Vertical 9:16 image of hands frantically rummaging between couch cushions, warm indoor lighting, no text.",
-            "stock_query": "searching for keys"
+            "image_prompt": "Vertical 9:16 view of two extremely bright planets glowing close together in the twilight sky before dawn, no text.",
+            "stock_query": "bright planets conjunction"
           },
           {
-            "text": "At number four, traffic was surprisingly terrible. Yes, on the exact same route you have driven every single day since two thousand nineteen.",
+            "text": "At number four, the Lyrid meteor shower peak arrives mid-month. Find a dark spot away from city lights, kick back, and you might catch up to twenty shooting stars every single hour.",
             "badge": "#4",
-            "label": "Bad Traffic",
+            "label": "Meteor Shower",
             "stock_queries": [
-              "traffic jam red lights",
-              "cars backed up road"
+              "shooting star streak",
+              "perseid meteor shower"
             ],
-            "image_prompt": "Vertical 9:16 image of a long line of cars stuck in red taillight traffic during twilight, no text.",
-            "stock_query": "traffic jam red lights"
+            "image_prompt": "Vertical 9:16 image of a bright shooting star streak cutting across a dark night sky filled with stars, no text.",
+            "stock_query": "shooting star streak"
           },
           {
-            "text": "Number three, my phone died. Which is fascinating because it was at ninety nine percent right before you picked it up to doomscroll.",
+            "text": "Number three brings us a gorgeous crescent moon near Mars. Wait until dusk settles, and you will see the red planet glowing with a distinct amber hue right beside our lunar neighbor.",
             "badge": "#3",
-            "label": "Dead Phone",
+            "label": "Moon And Mars",
             "stock_queries": [
-              "dead smartphone screen",
-              "charging phone cable"
+              "crescent moon close up",
+              "red planet mars"
             ],
-            "image_prompt": "Vertical 9:16 image of a black smartphone screen with a low battery icon, minimalist setting, no text.",
-            "stock_query": "dead smartphone screen"
+            "image_prompt": "Vertical 9:16 shot of a slim crescent moon glowing next to a distinct reddish planet in the twilight sky, no text.",
+            "stock_query": "crescent moon close up"
           },
           {
-            "text": "At number two, I couldn't find my other shoe. Because apparently, footwear grows tiny legs and hides in the dark laundry basket.",
+            "text": "At number two, Saturn rings reach optimal tilt. Grab even a basic backyard telescope, and you will clearly see those iconic gas giant rings popping into crisp and stunning focus.",
             "badge": "#2",
-            "label": "Missing Shoe",
+            "label": "Saturn Rings View",
             "stock_queries": [
-              "single sneaker floor",
-              "messy laundry room"
+              "telescope view saturn",
+              "ringed planet space"
             ],
-            "image_prompt": "Vertical 9:16 image of a single colorful sneaker sitting alone on a wooden floor, no text.",
-            "stock_query": "single sneaker floor"
+            "image_prompt": "Vertical 9:16 image of the planet Saturn with its prominent rings clearly visible against deep black space, no text.",
+            "stock_query": "telescope view saturn"
           },
           {
-            "text": "Number one, I was about to walk out the door and then disaster struck. You suddenly remembered you needed to start an entire kitchen renovation.",
+            "text": "And the absolute best at number one, a rare total lunar eclipse turns the moon blood red. For over an hour, the entire lunar disk glows in deep copper, and you seriously won't believe your eyes when you look up.",
             "badge": "#1",
-            "label": "Last Minute Tasks",
+            "label": "Total Lunar Eclipse",
             "stock_queries": [
-              "messy kitchen counter",
-              "cleaning frantically home"
+              "blood moon eclipse",
+              "total lunar eclipse"
             ],
-            "image_prompt": "Vertical 9:16 image of a cluttered kitchen counter with scattered coffee mugs and dish soap, no text.",
-            "stock_query": "messy kitchen counter"
+            "image_prompt": "Vertical 9:16 dramatic shot of a total lunar eclipse with the moon glowing a deep fiery red color, no text.",
+            "stock_query": "blood moon eclipse"
           },
           {
-            "text": "Honestly, we all do it. Now tell me, why are you always running behind schedule?",
+            "text": "So grab your jacket tonight because you seriously won't believe",
             "badge": "",
             "label": "",
             "stock_queries": [
-              "laughing person indoors",
-              "smiling at camera"
+              "person looking at stars",
+              "astronomer with telescope"
             ],
-            "image_prompt": "Vertical 9:16 image of a friendly person smiling and shrugging in a brightly lit room, no text.",
-            "stock_query": "laughing person indoors"
+            "image_prompt": "Vertical 9:16 view of an observatory dome opening up under a vast starry sky, no text.",
+            "stock_query": "person looking at stars"
           }
         ],
-        "key_facts": [],
+        "key_facts": [
+          "Venus and Jupiter can appear in close conjunction in the morning sky.",
+          "The Lyrid meteor shower peaks in mid-April with up to twenty meteors per hour.",
+          "The crescent moon frequently appears near planets like Mars.",
+          "Saturn can be viewed with basic backyard telescopes.",
+          "Total lunar eclipses cause the moon to turn a deep copper or red color."
+        ],
         "format": "ranking",
-        "tone": "funny",
-        "category": "23",
-        "script": "Why are you always running behind schedule? Here are the top five excuses people give when they are late. Number five, I lost my keys. They vanished into another dimension and only reappeared after twenty minutes of frantic cushion stabbing. At number four, traffic was surprisingly terrible. Yes, on the exact same route you have driven every single day since two thousand nineteen. Number three, my phone died. Which is fascinating because it was at ninety nine percent right before you picked it up to doomscroll. At number two, I couldn't find my other shoe. Because apparently, footwear grows tiny legs and hides in the dark laundry basket. Number one, I was about to walk out the door and then disaster struck. You suddenly remembered you needed to start an entire kitchen renovation. Honestly, we all do it. Now tell me, why are you always running behind schedule?",
-        "voice": "en-US-AvaMultilingualNeural"
+        "tone": "normal",
+        "category": "27",
+        "script": "You seriously won't believe what our night sky is about to do this month. Number five, the brilliant Venus and Jupiter close encounter lights up dawn. You can spot this stunning pair shining brightly together just before sunrise without any telescope at all. At number four, the Lyrid meteor shower peak arrives mid-month. Find a dark spot away from city lights, kick back, and you might catch up to twenty shooting stars every single hour. Number three brings us a gorgeous crescent moon near Mars. Wait until dusk settles, and you will see the red planet glowing with a distinct amber hue right beside our lunar neighbor. At number two, Saturn rings reach optimal tilt. Grab even a basic backyard telescope, and you will clearly see those iconic gas giant rings popping into crisp and stunning focus. And the absolute best at number one, a rare total lunar eclipse turns the moon blood red. For over an hour, the entire lunar disk glows in deep copper, and you seriously won't believe your eyes when you look up. So grab your jacket tonight because you seriously won't believe",
+        "voice": "en-AU-WilliamMultilingualNeural"
       },
       "credits": [
-        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AvaMultilingualNeural).",
-        "Stock footage/photos (Pexels/Pixabay Content License): AttilaPergel (Pixabay) https://pixabay.com/videos/id-119283/; Shravan1991 (Pixabay) https://pixabay.com/videos/id-206294/; BillKnowsStuff (Pixabay) https://pixabay.com/videos/id-132622/; fvonderaa (Pixabay) https://pixabay.com/videos/id-185888/; Coverr-Free-Footage (Pixabay) https://pixabay.com/videos/id-3174/; Life-Of-Vids (Pixabay) https://pixabay.com/videos/id-2326/; u_hy97sitse3 (Pixabay) https://pixabay.com/videos/id-176533/; Life-Of-Vids (Pixabay) https://pixabay.com/videos/id-2347/; DistillVideos (Pixabay) https://pixabay.com/videos/id-1110/; aghyadnajjar (Pixabay) https://pixabay.com/videos/id-44082/; Natures_Embrace (Pixabay) https://pixabay.com/videos/id-202987/; Matthias_Groeneveld (Pixabay) https://pixabay.com/videos/id-282995/; Engin_Akyurt (Pixabay) https://pixabay.com/videos/id-67358/; NicholasDeloitteMedia (Pixabay) https://pixabay.com/videos/id-7924/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-1261/; Dx21 (Pixabay) https://pixabay.com/videos/id-131163/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-10853/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-445/; TonyDias7 (Pixabay) https://pixabay.com/videos/id-318654/; DistillVideos (Pixabay) https://pixabay.com/videos/id-40/"
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-AU-WilliamMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): ZT_OSCAR (Pixabay) https://pixabay.com/videos/id-283666/; Kanenori (Pixabay) https://pixabay.com/videos/id-285663/; Osckar (Pixabay) https://pixabay.com/videos/id-2118/; BlenderTimer (Pixabay) https://pixabay.com/photos/water-ocean-underwater-sea-sky-6061472/; TBIT (Pixabay) https://pixabay.com/videos/id-1175/; xBriantcx (Pixabay) https://pixabay.com/videos/id-247208/",
+        "NASA / JPL: \"What's Up: May 2026 Skywatching Tips from NASA\" (public domain)",
+        "NASA / JPL: \"What's Up: August 2020 Skywatching Tips from NASA\" (public domain)",
+        "NASA / JSC: \"Lunar Observations taken by the STS-130 Crew\" (public domain)",
+        "NASA / JPL: \"How Do Sounds on Mars Differ from Sounds on Earth?\" (public domain)",
+        "NASA / JPL: \"Flying Past Pluto Animation\" (public domain)",
+        "NASA / JPL: \"What's Up: October 2026 Skywatching Tips from NASA\" (public domain)",
+        "NASA / KSC: \"KSC-04-S-00195\" (public domain)",
+        "NASA / JPL: \"Peeking over Saturn Shoulder\" (public domain)",
+        "NASA / JPL: \"What's Up: May 2021 Skywatching Tips from NASA\" (public domain)",
+        "NASA / HQ: \"Total Lunar Eclipse\" (public domain)",
+        "NASA / KSC: \"Full Moon at KSC\" (public domain)",
+        "NASA / KSC: \"KSC-05-S-00277\" (public domain)",
+        "NASA / JPL: \"NASA Telescopes Reveal an Invisible Infrared Universe\" (public domain)"
       ],
       "file": {
         "type": "release",
@@ -2509,9 +2505,320 @@
         "tag": "videos-2026-10-06",
         "name": "2026-10-06-2-v0-thumb.jpg"
       },
-      "srt": "1\n00:00:00,095 --> 00:00:02,840\nWhy are you always running behind schedule\n\n2\n00:00:02,840 --> 00:00:04,837\nHere are the top five excuses people\n\n3\n00:00:04,837 --> 00:00:07,255\ngive when they are late Number five\n\n4\n00:00:07,255 --> 00:00:10,258\nI lost my keys They vanished into\n\n5\n00:00:10,258 --> 00:00:13,342\nanother dimension and only reappeared after\n\n6\n00:00:13,342 --> 00:00:16,712\ntwenty minutes of frantic cushion stabbing\n\n7\n00:00:16,712 --> 00:00:20,557\nAt number four traffic was surprisingly terrible\n\n8\n00:00:20,557 --> 00:00:22,568\nYes on the exact same route you\n\n9\n00:00:22,568 --> 00:00:24,755\nhave driven every single day since two\n\n10\n00:00:24,755 --> 00:00:28,465\nthousand nineteen Number three my phone died\n\n11\n00:00:28,465 --> 00:00:30,747\nWhich is fascinating because it was at\n\n12\n00:00:30,747 --> 00:00:32,758\nninety nine percent right before you picked\n\n13\n00:00:32,758 --> 00:00:35,462\nit up to doomscroll At number two\n\n14\n00:00:35,462 --> 00:00:37,785\nI couldn't find my other shoe Because\n\n15\n00:00:37,785 --> 00:00:41,957\napparently footwear grows tiny legs and hides\n\n16\n00:00:41,957 --> 00:00:45,054\nin the dark laundry basket Number one\n\n17\n00:00:45,054 --> 00:00:46,196\nI was about to walk out the\n\n18\n00:00:46,196 --> 00:00:49,524\ndoor and then disaster struck You suddenly\n\n19\n00:00:49,524 --> 00:00:51,617\nremembered you needed to start an entire\n\n20\n00:00:51,617 --> 00:00:55,136\nkitchen renovation Honestly we all do it\n\n21\n00:00:55,136 --> 00:00:57,554\nNow tell me why are you always\n\n22\n00:00:57,554 --> 00:00:59,259\nrunning behind schedule\n",
-      "tg_msg": 137,
-      "opts_msg": 139
+      "srt": "1\n00:00:00,050 --> 00:00:01,997\nYou seriously won't believe what our night\n\n2\n00:00:01,997 --> 00:00:03,860\nsky is about to do this month\n\n3\n00:00:03,860 --> 00:00:06,745\nNumber five the brilliant Venus and Jupiter close\n\n4\n00:00:06,745 --> 00:00:09,161\nencounter lights up dawn You can spot\n\n5\n00:00:09,161 --> 00:00:11,156\nthis stunning pair shining brightly together\n\n6\n00:00:11,156 --> 00:00:13,379\njust before sunrise without any telescope at\n\n7\n00:00:13,379 --> 00:00:16,024\nall At number four the Lyrid meteor\n\n8\n00:00:16,024 --> 00:00:18,512\nshower peak arrives mid-month Find a dark\n\n9\n00:00:18,512 --> 00:00:20,951\nspot away from city lights kick back\n\n10\n00:00:20,951 --> 00:00:22,093\nand you might catch up to twenty\n\n11\n00:00:22,093 --> 00:00:24,870\nshooting stars every single hour Number three\n\n12\n00:00:24,870 --> 00:00:26,576\nbrings us a gorgeous crescent moon near\n\n13\n00:00:26,576 --> 00:00:29,305\nMars Wait until dusk settles and you\n\n14\n00:00:29,305 --> 00:00:30,855\nwill see the red planet glowing with\n\n15\n00:00:30,855 --> 00:00:32,802\na distinct amber hue right beside our\n\n16\n00:00:32,802 --> 00:00:35,675\nlunar neighbor At number two Saturn rings\n\n17\n00:00:35,675 --> 00:00:38,127\nreach optimal tilt Grab even a basic\n\n18\n00:00:38,127 --> 00:00:40,302\nbackyard telescope and you will clearly see\n\n19\n00:00:40,302 --> 00:00:42,406\nthose iconic gas giant rings popping into\n\n20\n00:00:42,406 --> 00:00:45,014\ncrisp and stunning focus And the absolute\n\n21\n00:00:45,014 --> 00:00:47,021\nbest at number one a rare total\n\n22\n00:00:47,021 --> 00:00:49,377\nlunar eclipse turns the moon blood red\n\n23\n00:00:49,377 --> 00:00:51,408\nFor over an hour the entire lunar\n\n24\n00:00:51,408 --> 00:00:53,367\ndisk glows in deep copper and you\n\n25\n00:00:53,367 --> 00:00:55,098\nseriously won't believe your eyes when you\n\n26\n00:00:55,098 --> 00:00:57,274\nlook up So grab your jacket tonight\n\n27\n00:00:57,274 --> 00:00:59,440\nbecause you seriously won't believe\n",
+      "tg_msg": 151,
+      "opts_msg": 153
+    },
+    "2026-10-06-3": {
+      "topic": {
+        "title": "Top 5 Most Absurd Smartphone Glitches Ever",
+        "angle": "A countdown of the weirdest, funniest bugs and error messages users have ever encountered on their phones.",
+        "format": "ranking",
+        "tone": "funny",
+        "trend_source": "downdetector",
+        "virality_score": 9,
+        "why": "Rides the trending wave of app outages and technical glitches with lighthearted, relatable humor that everyone who owns a phone can connect with."
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-06T21:10:23.129762+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "smartphone glitches",
+        "title": "Top 5 most absurd smartphone glitches ever",
+        "hook_text": "Phones losing their minds",
+        "thumbnail_text": "Phone Glitches",
+        "description": "Discover the top 5 most absurd smartphone glitches ever caught on camera. You won't believe these hilarious phone errors exist.",
+        "hashtags": [
+          "#shorts",
+          "#tech",
+          "#smartphoneglitches",
+          "#top5",
+          "#funny"
+        ],
+        "tags": [
+          "smartphone glitches",
+          "weird phone",
+          "top 5 glitches",
+          "mobile glitches",
+          "weird phone sounds",
+          "funny phone bugs",
+          "weird phone errors",
+          "phone freeze funny",
+          "weird phone behavior",
+          "hilarious software bugs",
+          "glitch cell phone",
+          "weirdest phone calls",
+          "tech fails",
+          "funny technology",
+          "smartphone errors"
+        ],
+        "pinned_comment": "Which of these smartphone glitches would make you throw your phone right out the window?",
+        "scenes": [
+          {
+            "text": "Your phone is spying on you, and honestly, it's just really confused about what it's doing.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "confused person looking at phone",
+              "glitching smartphone screen"
+            ],
+            "image_prompt": "Vertical 9:16 abstract digital glitch on a smartphone screen, vibrant neon colors, no text, no people.",
+            "stock_query": "confused person looking at phone"
+          },
+          {
+            "text": "Number five, the infinite app drawer spiral. Your apps just dance in circles like they joined a conga line.",
+            "badge": "#5",
+            "label": "App Conga Line",
+            "stock_queries": [
+              "spinning phone icons",
+              "chaotic app menu"
+            ],
+            "image_prompt": "Vertical 9:16 image of glowing app icons spinning in a chaotic circle on a dark background, no text.",
+            "stock_query": "spinning phone icons"
+          },
+          {
+            "text": "At number four, the ghost touch typing. It texts your boss pure gibberish while you sleep. Thanks a lot, artificial intelligence.",
+            "badge": "#4",
+            "label": "Ghost Typing",
+            "stock_queries": [
+              "typing on smartphone fast",
+              "person sleeping with phone"
+            ],
+            "image_prompt": "Vertical 9:16 image of random letters floating above a glowing smartphone keyboard in the dark, no text.",
+            "stock_query": "typing on smartphone fast"
+          },
+          {
+            "text": "Number three, the upside down world. Your screen flips and refuses to change back, forcing you to read everything like a bat.",
+            "badge": "#3",
+            "label": "Inverted Screen",
+            "stock_queries": [
+              "upside down smartphone",
+              "confused user looking down"
+            ],
+            "image_prompt": "Vertical 9:16 image of a smartphone displaying an upside down user interface, surreal lighting, no text.",
+            "stock_query": "upside down smartphone"
+          },
+          {
+            "text": "At number two, the billion percent battery. It claims your phone can power a small city for a decade before dying instantly.",
+            "badge": "#2",
+            "label": "Infinite Battery",
+            "stock_queries": [
+              "battery charging icon",
+              "smartphone battery low"
+            ],
+            "image_prompt": "Vertical 9:16 image of a futuristic battery indicator showing an absurd percentage, glowing cyan, no text.",
+            "stock_query": "battery charging icon"
+          },
+          {
+            "text": "Number one, the wallpaper inception. Your camera shows your home screen inside your home screen forever, creating a portal to nowhere.",
+            "badge": "#1",
+            "label": "Wallpaper Inception",
+            "stock_queries": [
+              "infinite mirror effect",
+              "tunnel vision abstract"
+            ],
+            "image_prompt": "Vertical 9:16 image of an infinite recursive screen tunnel effect on a mobile display, highly detailed, no text.",
+            "stock_query": "infinite mirror effect"
+          },
+          {
+            "text": "Seriously, it is amazing that your phone is spying on you, and honestly, it's just really confused.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "laughing person holding phone",
+              "glitching tech abstract"
+            ],
+            "image_prompt": "Vertical 9:16 image of a smartphone sparking with friendly colorful digital static, fun and quirky, no text.",
+            "stock_query": "laughing person holding phone"
+          }
+        ],
+        "key_facts": [
+          "Some smartphones experience UI rendering loops where icons spin.",
+          "Ghost touches can register unintended inputs.",
+          "Orientation sensors can occasionally invert the display permanently until rebooted.",
+          "Battery percentage indicators can glitch to display incorrect high values.",
+          "Camera preview loops can create visual inception effects."
+        ],
+        "format": "ranking",
+        "tone": "funny",
+        "category": "23",
+        "script": "Your phone is spying on you, and honestly, it's just really confused about what it's doing. Number five, the infinite app drawer spiral. Your apps just dance in circles like they joined a conga line. At number four, the ghost touch typing. It texts your boss pure gibberish while you sleep. Thanks a lot, artificial intelligence. Number three, the upside down world. Your screen flips and refuses to change back, forcing you to read everything like a bat. At number two, the billion percent battery. It claims your phone can power a small city for a decade before dying instantly. Number one, the wallpaper inception. Your camera shows your home screen inside your home screen forever, creating a portal to nowhere. Seriously, it is amazing that your phone is spying on you, and honestly, it's just really confused.",
+        "voice": "en-US-EmmaMultilingualNeural"
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-EmmaMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): mephala1980 (Pixabay) https://pixabay.com/videos/id-38084/; DistillVideos (Pixabay) https://pixabay.com/videos/id-1110/; TheDigitalArtist (Pixabay) https://pixabay.com/videos/id-3264/; MozoMozo (Pixabay) https://pixabay.com/videos/id-171178/; Activedia (Pixabay) https://pixabay.com/videos/id-1360/; Coverr-Free-Footage (Pixabay) https://pixabay.com/videos/id-1656/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-729/; Eartvideos (Pixabay) https://pixabay.com/videos/id-150957/; Eartvideos (Pixabay) https://pixabay.com/videos/id-150959/; Kanenori (Pixabay) https://pixabay.com/videos/id-327359/; Natures_Embrace (Pixabay) https://pixabay.com/videos/id-202987/; YRDesigns (Pixabay) https://pixabay.com/videos/id-290480/; tarinul_amin (Pixabay) https://pixabay.com/videos/id-181424/; YRDesigns (Pixabay) https://pixabay.com/videos/id-290478/; TheDigitalArtist (Pixabay) https://pixabay.com/videos/id-1063/; Activedia (Pixabay) https://pixabay.com/videos/id-1372/; Payne_Backgrounds (Pixabay) https://pixabay.com/videos/id-108095/; Stuck1 (Pixabay) https://pixabay.com/videos/id-32938/; RostislavUzunov (Pixabay) https://pixabay.com/videos/id-237500/; Engin_Akyurt (Pixabay) https://pixabay.com/videos/id-61298/"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-06",
+        "name": "2026-10-06-3-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-06",
+        "name": "2026-10-06-3-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,109 --> 00:00:02,052\nYour phone is spying on you and\n\n2\n00:00:02,052 --> 00:00:04,823\nhonestly it's just really confused about what\n\n3\n00:00:04,823 --> 00:00:07,690\nit's doing Number five the infinite app\n\n4\n00:00:07,690 --> 00:00:10,516\ndrawer spiral Your apps just dance in\n\n5\n00:00:10,516 --> 00:00:13,166\ncircles like they joined a conga line\n\n6\n00:00:13,166 --> 00:00:16,250\nAt number four the ghost touch typing\n\n7\n00:00:16,250 --> 00:00:18,356\nIt texts your boss pure gibberish while\n\n8\n00:00:18,356 --> 00:00:22,622\nyou sleep Thanks a lot artificial intelligence\n\n9\n00:00:22,622 --> 00:00:25,340\nNumber three the upside down world Your\n\n10\n00:00:25,340 --> 00:00:28,356\nscreen flips and refuses to change back\n\n11\n00:00:28,356 --> 00:00:30,312\nforcing you to read everything like a\n\n12\n00:00:30,312 --> 00:00:33,179\nbat At number two the billion percent\n\n13\n00:00:33,179 --> 00:00:35,802\nbattery It claims your phone can power\n\n14\n00:00:35,802 --> 00:00:37,826\na small city for a decade before\n\n15\n00:00:37,826 --> 00:00:42,541\ndying instantly Number one the wallpaper inception\n\n16\n00:00:42,541 --> 00:00:44,905\nYour camera shows your home screen inside\n\n17\n00:00:44,905 --> 00:00:47,609\nyour home screen forever creating a portal\n\n18\n00:00:47,609 --> 00:00:50,951\nto nowhere Seriously it is amazing that\n\n19\n00:00:50,951 --> 00:00:53,003\nyour phone is spying on you and\n\n20\n00:00:53,003 --> 00:00:55,903\nhonestly it's just really confused\n",
+      "tg_msg": 154,
+      "opts_msg": 156
+    },
+    "2026-10-06-4": {
+      "topic": {
+        "title": "Top 5 Historic Sports Comebacks",
+        "angle": "Counting down the most unbelievable final-minute turnarounds in sports history that shocked the world.",
+        "format": "ranking",
+        "tone": "normal",
+        "trend_source": "alabama vs georgia",
+        "virality_score": 8,
+        "why": "Taps into high-intensity sports excitement and anticipation surrounding big matchups, keeping viewers hooked until the very last second."
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-06T21:13:35.696760+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "historic sports comebacks",
+        "title": "Top 5 Historic Sports Comebacks You Won't Believe",
+        "hook_text": "Impossible Final Minute Turnarounds",
+        "thumbnail_text": "Last Second Shock",
+        "description": "Discover the most historic sports comebacks with unbelievable final-minute turnarounds that shocked the world. Which final-minute win shocked you most?",
+        "hashtags": [
+          "#shorts",
+          "#sports",
+          "#comebacks",
+          "#top5"
+        ],
+        "tags": [
+          "historic sports comebacks",
+          "top comebacks in sports history",
+          "epic sports moments",
+          "historic sports moments",
+          "greatest sports comebacks",
+          "best sports comebacks ever",
+          "unbelievable sports moments",
+          "unbelievable sports comebacks",
+          "biggest sports comebacks of all time",
+          "greatest sports comebacks of all time",
+          "best sports comebacks",
+          "great sports comebacks",
+          "crazy sports finishes",
+          "biggest comebacks ever",
+          "final minute turnarounds",
+          "unbelievable sports endings",
+          "top 5 sports"
+        ],
+        "pinned_comment": "Which of these final-minute turnarounds made your jaw drop the most? Let me know below!",
+        "scenes": [
+          {
+            "text": "Some wins are totally impossible, until they actually happen right before your eyes.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "stadium crowd cheering",
+              "scoreboard clock ticking"
+            ],
+            "image_prompt": "Vertical 9:16 cinematic shot of a brightly lit empty sports stadium under dramatic night sky, no text, no logos, no people.",
+            "stock_query": "stadium crowd cheering"
+          },
+          {
+            "text": "Number five, the nineteen ninety nine European football miracle. Two goals in injury time shocked the entire stadium.",
+            "badge": "#5",
+            "label": "Football Miracle",
+            "stock_queries": [
+              "soccer net shaking",
+              "referee looking at watch"
+            ],
+            "image_prompt": "Vertical 9:16 close up of a glowing green soccer goal net on a misty pitch at night, no text, no logos.",
+            "stock_query": "soccer net shaking"
+          },
+          {
+            "text": "At number four, the two thousand seventeen football championship comeback. Overcoming a twenty eight three deficit in the second half.",
+            "badge": "#4",
+            "label": "Championship Comeback",
+            "stock_queries": [
+              "american football field",
+              "stadium lights glowing"
+            ],
+            "image_prompt": "Vertical 9:16 wide shot of glowing American football goalposts under heavy stadium floodlights, no text, no logos.",
+            "stock_query": "american football field"
+          },
+          {
+            "text": "Number three, the two thousand ten tennis marathon. Saving five match points before completing an insane five set victory.",
+            "badge": "#3",
+            "label": "Tennis Marathon",
+            "stock_queries": [
+              "tennis court lines",
+              "tennis net close up"
+            ],
+            "image_prompt": "Vertical 9:16 shot of a worn clay tennis court surface with crisp white boundary lines, no text, no logos.",
+            "stock_query": "tennis court lines"
+          },
+          {
+            "text": "At number two, the nineteen ninety two basketball playoff stunner. Overcoming a twenty point deficit with just minutes left.",
+            "badge": "#2",
+            "label": "Playoff Stunner",
+            "stock_queries": [
+              "indoor basketball court",
+              "basketball hoop net"
+            ],
+            "image_prompt": "Vertical 9:16 angle looking up at a gleaming indoor basketball hoop and glass backboard, no text, no logos.",
+            "stock_query": "indoor basketball court"
+          },
+          {
+            "text": "Number one, the two thousand four baseball championship sweep reversal. Overcoming three losses to win four straight and make history.",
+            "badge": "#1",
+            "label": "Sweep Reversal",
+            "stock_queries": [
+              "baseball diamond dirt",
+              "baseball stadium seats"
+            ],
+            "image_prompt": "Vertical 9:16 shot of pristine baseball home plate and brushed infield dirt, no text, no logos.",
+            "stock_query": "baseball diamond dirt"
+          },
+          {
+            "text": "History proves that some wins are totally impossible, until they actually happen right before your eyes.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "trophy gleaming",
+              "confetti falling stadium"
+            ],
+            "image_prompt": "Vertical 9:16 shot of a golden sports trophy gleaming under a spotlight against a dark background, no text, no logos.",
+            "stock_query": "trophy gleaming"
+          }
+        ],
+        "key_facts": [
+          "The 1999 European football final featured two goals scored in injury time.",
+          "The 2017 football championship featured a 28-3 second half comeback.",
+          "The 2010 tennis match featured saving five match points in a five-set victory.",
+          "The 1992 basketball playoff game involved erasing a 20-point deficit in the final minutes.",
+          "The 2004 baseball series featured a recovery from a 3-0 deficit to win four straight games."
+        ],
+        "format": "ranking",
+        "tone": "normal",
+        "category": "27",
+        "script": "Some wins are totally impossible, until they actually happen right before your eyes. Number five, the nineteen ninety nine European football miracle. Two goals in injury time shocked the entire stadium. At number four, the two thousand seventeen football championship comeback. Overcoming a twenty eight three deficit in the second half. Number three, the two thousand ten tennis marathon. Saving five match points before completing an insane five set victory. At number two, the nineteen ninety two basketball playoff stunner. Overcoming a twenty point deficit with just minutes left. Number one, the two thousand four baseball championship sweep reversal. Overcoming three losses to win four straight and make history. History proves that some wins are totally impossible, until they actually happen right before your eyes.",
+        "voice": "en-US-AvaMultilingualNeural"
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AvaMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): Coverr-Free-Footage (Pixabay) https://pixabay.com/videos/id-1643/; xBriantcx (Pixabay) https://pixabay.com/videos/id-236256/; Matthias_Groeneveld (Pixabay) https://pixabay.com/videos/id-202759/; AttilaPergel (Pixabay) https://pixabay.com/videos/id-119283/; Matthias_Groeneveld (Pixabay) https://pixabay.com/videos/id-202760/; tommyvideo (Pixabay) https://pixabay.com/videos/id-5606/; TIMETORELAXSCREENSAVER (Pixabay) https://pixabay.com/videos/id-183279/; tommyvideo (Pixabay) https://pixabay.com/videos/id-5613/; akamariposa (Pixabay) https://pixabay.com/videos/id-218091/; choxyltd (Pixabay) https://pixabay.com/videos/id-189018/; agus252 (Pixabay) https://pixabay.com/videos/id-131155/; tommyvideo (Pixabay) https://pixabay.com/videos/id-5368/; tommyvideo (Pixabay) https://pixabay.com/videos/id-5384/; tommyvideo (Pixabay) https://pixabay.com/videos/id-5587/; tommyvideo (Pixabay) https://pixabay.com/videos/id-5614/; Trek_Jason (Pixabay) https://pixabay.com/videos/id-133206/; lursumr (Pixabay) https://pixabay.com/videos/id-273687/; Exceptional_3D (Pixabay) https://pixabay.com/videos/id-123268/; DistillVideos (Pixabay) https://pixabay.com/videos/id-78/; Herekitty (Pixabay) https://pixabay.com/videos/id-298512/"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-06",
+        "name": "2026-10-06-4-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-06",
+        "name": "2026-10-06-4-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,095 --> 00:00:03,016\nSome wins are totally impossible until they\n\n2\n00:00:03,016 --> 00:00:06,005\nactually happen right before your eyes Number\n\n3\n00:00:06,005 --> 00:00:09,062\nfive the nineteen ninety nine European football\n\n4\n00:00:09,062 --> 00:00:12,228\nmiracle Two goals in injury time shocked\n\n5\n00:00:12,228 --> 00:00:15,245\nthe entire stadium At number four the\n\n6\n00:00:15,245 --> 00:00:17,758\ntwo thousand seventeen football championship\n\n7\n00:00:17,758 --> 00:00:21,033\ncomeback Overcoming a twenty eight three deficit\n\n8\n00:00:21,033 --> 00:00:23,777\nin the second half Number three the\n\n9\n00:00:23,777 --> 00:00:27,296\ntwo thousand ten tennis marathon Saving five\n\n10\n00:00:27,296 --> 00:00:30,068\nmatch points before completing an insane five\n\n11\n00:00:30,068 --> 00:00:33,261\nset victory At number two the nineteen\n\n12\n00:00:33,261 --> 00:00:36,590\nninety two basketball playoff stunner Overcoming\n\n13\n00:00:36,590 --> 00:00:38,981\na twenty point deficit with just minutes\n\n14\n00:00:38,981 --> 00:00:42,242\nleft Number one the two thousand four\n\n15\n00:00:42,242 --> 00:00:45,584\nbaseball championship sweep reversal Overcoming\n\n16\n00:00:45,584 --> 00:00:47,989\nthree losses to win four straight and\n\n17\n00:00:47,989 --> 00:00:51,345\nmake history History proves that some wins\n\n18\n00:00:51,345 --> 00:00:54,144\nare totally impossible until they actually\n\n19\n00:00:54,144 --> 00:00:56,242\nhappen right before your eyes\n",
+      "tg_msg": 157,
+      "opts_msg": 159
     }
   },
   "history": [
@@ -2529,7 +2836,11 @@
     "Top 5 Everyday Objects That Are Way Older Than You Think",
     "3 Tech Settings You Need to Change Immediately",
     "Top 5 Foods That Are Way Older Than You Think",
-    "Top 5 Excuses People Give When They're Late"
+    "Top 5 Excuses People Give When They're Late",
+    "Top 5 Animals That Suck At Hiding",
+    "Top 5 Space Events Happening This Month",
+    "Top 5 Most Absurd Smartphone Glitches Ever",
+    "Top 5 Historic Sports Comebacks"
   ],
   "trend_tries": {
     "2026-10-04": {
@@ -2547,9 +2858,9 @@
   },
   "cleanup_day": "2026-10-06",
   "recent_voices": [
-    "en-AU-WilliamMultilingualNeural",
-    "en-US-AndrewMultilingualNeural",
+    "en-US-AvaMultilingualNeural",
     "en-US-BrianMultilingualNeural",
+    "en-AU-WilliamMultilingualNeural",
     "en-US-EmmaMultilingualNeural",
     "en-US-AvaMultilingualNeural"
   ]

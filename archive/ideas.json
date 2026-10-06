@@ -242,44 +242,44 @@
    {
     "angle": "Counting down the most hilariously bad camouflage attempts in the animal kingdom, proving that confidence is everything.",
     "format": "ranking",
-    "picked": false,
+    "picked": true,
     "rank": 1,
     "title": "Top 5 Animals That Suck At Hiding",
     "trend_source": "evergreen",
-    "video_id": null,
+    "video_id": "2026-10-06-1",
     "virality_score": 10,
     "why": "Combines a high-retention Top 5 countdown format with instant visual comedy that appeals to a broad audience, driving massive comments and loops."
    },
    {
     "angle": "A countdown of the most incredible upcoming cosmic events visible from Earth that you shouldn't miss.",
     "format": "ranking",
-    "picked": false,
+    "picked": true,
     "rank": 2,
     "title": "Top 5 Space Events Happening This Month",
     "trend_source": "crescent moon jupiter",
-    "video_id": null,
+    "video_id": "2026-10-06-2",
     "virality_score": 9,
     "why": "Capitalizes on active search interest in astronomy events like Jupiter and the moon while delivering high-value, visually engaging space facts."
    },
    {
     "angle": "A countdown of the weirdest, funniest bugs and error messages users have ever encountered on their phones.",
     "format": "ranking",
-    "picked": false,
+    "picked": true,
     "rank": 3,
     "title": "Top 5 Most Absurd Smartphone Glitches Ever",
     "trend_source": "downdetector",
-    "video_id": null,
+    "video_id": "2026-10-06-3",
     "virality_score": 9,
     "why": "Rides the trending wave of app outages and technical glitches with lighthearted, relatable humor that everyone who owns a phone can connect with."
    },
    {
     "angle": "Counting down the most unbelievable final-minute turnarounds in sports history that shocked the world.",
     "format": "ranking",
-    "picked": false,
+    "picked": true,
     "rank": 4,
     "title": "Top 5 Historic Sports Comebacks",
     "trend_source": "alabama vs georgia",
-    "video_id": null,
+    "video_id": "2026-10-06-4",
     "virality_score": 8,
     "why": "Taps into high-intensity sports excitement and anticipation surrounding big matchups, keeping viewers hooked until the very last second."
    },
@@ -296,6 +296,6 @@
    }
   ],
   "sent_at": "2026-10-06T17:32:58.849709+00:00",
-  "status": "waiting"
+  "status": "closed"
  }
 }
