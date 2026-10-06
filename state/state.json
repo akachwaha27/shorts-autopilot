@@ -202,65 +202,53 @@
     "2026-10-06": {
       "topics": [
         {
-          "title": "Top 5 Foods That Are Way Older Than You Think",
-          "angle": "Reveal the surprisingly ancient origins of everyday foods like chewing gum and popcorn using high-retention pacing.",
-          "format": "ranking",
-          "tone": "normal",
-          "trend_source": "evergreen",
-          "virality_score": 9,
-          "why": "High-curiosity ranking lists with visual hooks and counterintuitive facts naturally drive high completion rates and loop rewatches."
-        },
-        {
-          "title": "Top 5 Excuses People Give When They're Late",
-          "angle": "A lighthearted, highly relatable countdown of the most absurd yet common reasons people give for running behind schedule.",
-          "format": "ranking",
-          "tone": "funny",
-          "trend_source": "united airlines",
-          "virality_score": 9,
-          "why": "Combines a trending travel/delay theme with universal humor, triggering massive comment sections and shares from tagged friends."
-        },
-        {
-          "title": "3 Smartphone Hidden Settings You Never Knew Existed",
-          "angle": "Quick, highly actionable tech tips that make phones faster and smarter in under 60 seconds.",
-          "format": "tips",
-          "tone": "normal",
-          "trend_source": "evergreen",
-          "virality_score": 8,
-          "why": "Tech utility content generates strong save and share metrics, which the YouTube Shorts algorithm heavily rewards for sustained reach."
-        },
-        {
-          "title": "Top 5 Worst Board Game Rules Everyone Invents",
-          "angle": "A comedic countdown of the imaginary rules families swear by when playing classic board games.",
+          "title": "Top 5 Animals That Suck At Hiding",
+          "angle": "Counting down the most hilariously bad camouflage attempts in the animal kingdom, proving that confidence is everything.",
           "format": "ranking",
           "tone": "funny",
           "trend_source": "evergreen",
-          "virality_score": 8,
-          "why": "Nostalgic, family-friendly humor with built-in relatability that drives comments (\"My family always does this!\")."
+          "virality_score": 10,
+          "why": "Combines a high-retention Top 5 countdown format with instant visual comedy that appeals to a broad audience, driving massive comments and loops."
         },
         {
-          "title": "Can You Guess These 3 Optical Illusions?",
-          "angle": "An interactive 3-question visual challenge where viewers have 3 seconds per round to guess the correct pattern before the reveal.",
-          "format": "quiz",
+          "title": "Top 5 Space Events Happening This Month",
+          "angle": "A countdown of the most incredible upcoming cosmic events visible from Earth that you shouldn't miss.",
+          "format": "ranking",
           "tone": "normal",
-          "trend_source": "evergreen",
-          "virality_score": 8,
-          "why": "Quiz formats force viewers to pause and replay to check their answers, maximizing engagement time and loop potential."
+          "trend_source": "crescent moon jupiter",
+          "virality_score": 9,
+          "why": "Capitalizes on active search interest in astronomy events like Jupiter and the moon while delivering high-value, visually engaging space facts."
         },
         {
-          "title": "Why Fast Food Drive-Thrus Are Designed This Way",
-          "angle": "A fascinating quick explainer on the psychological and architectural tricks behind fast-food layout design.",
+          "title": "Top 5 Most Absurd Smartphone Glitches Ever",
+          "angle": "A countdown of the weirdest, funniest bugs and error messages users have ever encountered on their phones.",
+          "format": "ranking",
+          "tone": "funny",
+          "trend_source": "downdetector",
+          "virality_score": 9,
+          "why": "Rides the trending wave of app outages and technical glitches with lighthearted, relatable humor that everyone who owns a phone can connect with."
+        },
+        {
+          "title": "Top 5 Historic Sports Comebacks",
+          "angle": "Counting down the most unbelievable final-minute turnarounds in sports history that shocked the world.",
+          "format": "ranking",
+          "tone": "normal",
+          "trend_source": "alabama vs georgia",
+          "virality_score": 8,
+          "why": "Taps into high-intensity sports excitement and anticipation surrounding big matchups, keeping viewers hooked until the very last second."
+        },
+        {
+          "title": "Why Do Cats Knock Things Off Tables?",
+          "angle": "Explaining the surprising evolutionary and psychological reasons behind cats' weirdest household habits.",
           "format": "explainer",
           "tone": "normal",
-          "trend_source": "mcdonalds monopoly",
-          "virality_score": 7,
-          "why": "Rides the public interest wave of fast-food giants while answering a satisfying 'why' question that keeps retention high."
+          "trend_source": "evergreen",
+          "virality_score": 8,
+          "why": "Pet psychology is an evergreen curiosity driver that triggers immediate sharing among animal lovers and casual scrollers alike."
         }
       ],
-      "sent_at": "2026-10-06T16:16:30.685965+00:00",
-      "selected": [
-        0,
-        1
-      ],
+      "sent_at": "2026-10-06T17:32:58.849709+00:00",
+      "selected": [],
       "status": "waiting"
     }
   },
@@ -2553,8 +2541,8 @@
       "at": "2026-10-05T19:52:38.289890+00:00"
     },
     "2026-10-06": {
-      "n": 1,
-      "at": "2026-10-06T16:16:07.531288+00:00"
+      "n": 2,
+      "at": "2026-10-06T17:32:08.921034+00:00"
     }
   },
   "cleanup_day": "2026-10-06",
