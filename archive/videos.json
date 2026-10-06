@@ -91,13 +91,13 @@
   "voice": "en-GB-RyanNeural",
   "youtube_id": "x_oFEEa_ZYw",
   "youtube_stats": {
-   "checked_at": "2026-10-05T22:46:48.637629+00:00",
+   "checked_at": "2026-10-06T02:42:28.161186+00:00",
    "comments": 1,
-   "likes": 4,
+   "likes": 5,
    "privacy": "public",
    "published_at": "2026-10-04T23:00:35Z",
    "title": "What Happens to a Soda Can at 30,000 Feet ✈️",
-   "views": 602
+   "views": 683
   }
  },
  "2026-10-02-2": {
@@ -192,7 +192,7 @@
   "voice": "en-GB-SoniaNeural",
   "youtube_id": "ULFlC_DQZFA",
   "youtube_stats": {
-   "checked_at": "2026-10-05T22:46:48.637652+00:00",
+   "checked_at": "2026-10-06T02:42:28.161207+00:00",
    "comments": 1,
    "likes": 1,
    "privacy": "public",
@@ -299,7 +299,7 @@
   "voice": "en-IE-ConnorNeural",
   "youtube_id": "SzXGwV_51-4",
   "youtube_stats": {
-   "checked_at": "2026-10-05T22:46:48.637658+00:00",
+   "checked_at": "2026-10-06T02:42:28.161212+00:00",
    "comments": 1,
    "likes": 1,
    "privacy": "public",
@@ -406,13 +406,13 @@
   "voice": "en-US-AriaNeural",
   "youtube_id": "AlkNprbbJys",
   "youtube_stats": {
-   "checked_at": "2026-10-05T22:46:48.637663+00:00",
+   "checked_at": "2026-10-06T02:42:28.161216+00:00",
    "comments": 1,
    "likes": 0,
    "privacy": "public",
    "published_at": "2026-10-04T05:57:11Z",
    "title": "5 of the Hottest Places, Ranked From Hot to Insane 🔥",
-   "views": 50
+   "views": 56
   }
  },
  "2026-10-03-2": {
@@ -603,7 +603,7 @@
   "voice": "en-US-AndrewMultilingualNeural",
   "youtube_id": "cwTfLWYr-vs",
   "youtube_stats": {
-   "checked_at": "2026-10-05T22:46:48.637666+00:00",
+   "checked_at": "2026-10-06T02:42:28.161219+00:00",
    "comments": 0,
    "likes": 0,
    "privacy": "private",
@@ -735,7 +735,7 @@
   "voice": "en-US-EmmaMultilingualNeural",
   "youtube_id": "wo3lD4_JXBI",
   "youtube_stats": {
-   "checked_at": "2026-10-05T22:46:48.637671+00:00",
+   "checked_at": "2026-10-06T02:42:28.161223+00:00",
    "comments": 0,
    "likes": 0,
    "privacy": "private",
@@ -748,6 +748,7 @@
   "angle": "A humorous countdown of hilarious animals that somehow survive despite having zero common sense.",
   "approved_by": "you",
   "category": "23",
+  "comments_note": "<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=zpVz53oUng8",
   "credits": [
    "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AvaMultilingualNeural).",
    "Stock footage/photos (Pexels/Pixabay Content License): Solarselle77 (Pixabay) https://pixabay.com/videos/id-311938/; deeanaarts (Pixabay) https://pixabay.com/videos/id-272801/; Luiz-Jorge-Artista (Pixabay) https://pixabay.com/videos/id-3017/; bijan6207 (Pixabay) https://pixabay.com/videos/id-214669/; TRAPHITHO (Pixabay) https://pixabay.com/videos/id-22083/; JoshuaWoroniecki (Pixabay) https://pixabay.com/videos/id-272562/; Macb3t (Pixabay) https://pixabay.com/videos/id-16160/; 素君 (Pixabay) https://pixabay.com/videos/id-137015/; Engin_Akyurt (Pixabay) https://pixabay.com/videos/id-232641/; Mujibarsk_786 (Pixabay) https://pixabay.com/videos/id-183638/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-1080/; NickyPe (Pixabay) https://pixabay.com/videos/id-87155/; Eaktas06 (Pixabay) https://pixabay.com/videos/id-171255/; ghasoub (Pixabay) https://pixabay.com/videos/id-152798/; DavidClode (Pixabay) https://pixabay.com/videos/id-304418/; Motionwell (Pixabay) https://pixabay.com/videos/id-336603/; j7126 (Pixabay) https://pixabay.com/videos/id-177369/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-1438/; bijan6207 (Pixabay) https://pixabay.com/videos/id-213564/; Alexas_Fotos (Pixabay) https://pixabay.com/videos/id-3723/"
@@ -834,12 +835,22 @@
   "uploaded_at": "2026-10-05T23:05:40.472842+00:00",
   "virality_score": 9,
   "voice": "en-US-AvaMultilingualNeural",
-  "youtube_id": "zpVz53oUng8"
+  "youtube_id": "zpVz53oUng8",
+  "youtube_stats": {
+   "checked_at": "2026-10-06T02:42:28.161225+00:00",
+   "comments": 0,
+   "likes": 0,
+   "privacy": "private",
+   "published_at": "2026-10-05T23:05:35Z",
+   "title": "Top 5 Animals With Absolute Zero Survival Instincts",
+   "views": 0
+  }
  },
  "2026-10-05-2": {
   "angle": "A hilarious look at the house rules families invent because no one actually reads the manual.",
   "approved_by": "you",
   "category": "23",
+  "comments_note": "<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=YnklFormw-k",
   "credits": [
    "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-AU-WilliamMultilingualNeural).",
    "Stock footage/photos (Pexels/Pixabay Content License): OrcaTec (Pixabay) https://pixabay.com/videos/id-19600/; iddea_photo (Pixabay) https://pixabay.com/videos/id-253998/; OrcaTec (Pixabay) https://pixabay.com/videos/id-19459/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-1306/; TRAPHITHO (Pixabay) https://pixabay.com/videos/id-27889/; Kaffeesüchtig (Pixabay) https://pixabay.com/videos/id-275052/; AndyOlsha (Pixabay) https://pixabay.com/videos/id-89985/; tommyvideo (Pixabay) https://pixabay.com/videos/id-5393/; OrcaTec (Pixabay) https://pixabay.com/videos/id-19598/; 8385 (Pixabay) https://pixabay.com/videos/id-632/; Coverr-Free-Footage (Pixabay) https://pixabay.com/videos/id-1651/; tommyvideo (Pixabay) https://pixabay.com/videos/id-96200/; Graufilter (Pixabay) https://pixabay.com/videos/id-32384/; MixailMixail (Pixabay) https://pixabay.com/videos/id-4216/; Graufilter (Pixabay) https://pixabay.com/videos/id-32386/; franganillo (Pixabay) https://pixabay.com/videos/id-41948/; Thomas-Ritter (Pixabay) https://pixabay.com/videos/id-7118/; KlausHausmann (Pixabay) https://pixabay.com/videos/id-8625/; Kanenori (Pixabay) https://pixabay.com/videos/id-250395/; Talha_Rajpoot0786 (Pixabay) https://pixabay.com/videos/id-216098/; AlexKopeykin (Pixabay) https://pixabay.com/videos/id-42695/"
@@ -924,12 +935,22 @@
   "uploaded_at": "2026-10-05T23:05:48.607476+00:00",
   "virality_score": 9,
   "voice": "en-AU-WilliamMultilingualNeural",
-  "youtube_id": "YnklFormw-k"
+  "youtube_id": "YnklFormw-k",
+  "youtube_stats": {
+   "checked_at": "2026-10-06T02:42:28.161228+00:00",
+   "comments": 0,
+   "likes": 0,
+   "privacy": "private",
+   "published_at": "2026-10-05T23:05:43Z",
+   "title": "Top 5 Board Game Rules Everyone Completely Makes Up",
+   "views": 0
+  }
  },
  "2026-10-05-3": {
   "angle": "A mind-blowing countdown of common household items invented centuries before modern technology.",
   "approved_by": "you",
   "category": "27",
+  "comments_note": "<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=APj9byFXpkE",
   "credits": [
    "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AndrewMultilingualNeural).",
    "Stock footage/photos (Pexels/Pixabay Content License): engrahmad2653 (Pixabay) https://pixabay.com/videos/id-296958/; choxyltd (Pixabay) https://pixabay.com/videos/id-189018/; Motionwell (Pixabay) https://pixabay.com/videos/id-336603/; LotusMind6688 (Pixabay) https://pixabay.com/videos/id-364514/; Osckar (Pixabay) https://pixabay.com/videos/id-1613/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-295629/; xat-ch (Pixabay) https://pixabay.com/videos/id-183271/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-323882/; SkyScapeDrone (Pixabay) https://pixabay.com/videos/id-236235/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-367638/; SkyScapeDrone (Pixabay) https://pixabay.com/videos/id-236233/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-369192/; DangrafArt (Pixabay) https://pixabay.com/videos/id-203845/; antoinedes (Pixabay) https://pixabay.com/videos/id-37655/; asifsharif (Pixabay) https://pixabay.com/videos/id-326081/; Danil_Shostak (Pixabay) https://pixabay.com/videos/id-34855/; Mario_Krimer (Pixabay) https://pixabay.com/videos/id-233867/; geralt (Pixabay) https://pixabay.com/videos/id-545/; SoyKhaler (Pixabay) https://pixabay.com/videos/id-126558/"
@@ -1014,12 +1035,22 @@
   "uploaded_at": "2026-10-05T23:05:55.401181+00:00",
   "virality_score": 8,
   "voice": "en-US-AndrewMultilingualNeural",
-  "youtube_id": "APj9byFXpkE"
+  "youtube_id": "APj9byFXpkE",
+  "youtube_stats": {
+   "checked_at": "2026-10-06T02:42:28.161230+00:00",
+   "comments": 0,
+   "likes": 0,
+   "privacy": "private",
+   "published_at": "2026-10-05T23:05:50Z",
+   "title": "Top 5 Everyday Objects Older Than You Think",
+   "views": 0
+  }
  },
  "2026-10-05-4": {
   "angle": "Quick, actionable smartphone adjustments that instantly improve battery life and privacy.",
   "approved_by": "you",
   "category": "26",
+  "comments_note": "<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=jbjlNcYG7EY",
   "credits": [
    "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-BrianMultilingualNeural).",
    "Stock footage/photos (Pexels/Pixabay Content License): mephala1980 (Pixabay) https://pixabay.com/videos/id-38084/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-345076/; JonathanSlatterMusic (Pixabay) https://pixabay.com/videos/id-348444/; DistillVideos (Pixabay) https://pixabay.com/videos/id-1110/; MozoMozo (Pixabay) https://pixabay.com/videos/id-171178/; seyhmuskino (Pixabay) https://pixabay.com/videos/id-286637/; DistillVideos (Pixabay) https://pixabay.com/videos/id-21/; Mabelle-Elise (Pixabay) https://pixabay.com/videos/id-174262/; Nico_NCO (Pixabay) https://pixabay.com/videos/id-16423/; Natures_Embrace (Pixabay) https://pixabay.com/videos/id-202987/; Kanenori (Pixabay) https://pixabay.com/videos/id-283431/; Amorn_mimi (Pixabay) https://pixabay.com/videos/id-183448/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-910/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-341/; Life-Of-Vids (Pixabay) https://pixabay.com/videos/id-1623/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-780/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-1196/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-1229/; EnchantedStudios (Pixabay) https://pixabay.com/videos/id-197974/; Eartvideos (Pixabay) https://pixabay.com/videos/id-150957/; PIRO4D (Pixabay) https://pixabay.com/videos/id-6358/"
@@ -1101,6 +1132,15 @@
   "uploaded_at": "2026-10-05T23:06:02.875648+00:00",
   "virality_score": 8,
   "voice": "en-US-BrianMultilingualNeural",
-  "youtube_id": "jbjlNcYG7EY"
+  "youtube_id": "jbjlNcYG7EY",
+  "youtube_stats": {
+   "checked_at": "2026-10-06T02:42:28.161233+00:00",
+   "comments": 0,
+   "likes": 0,
+   "privacy": "private",
+   "published_at": "2026-10-05T23:05:57Z",
+   "title": "3 Tech Settings You Need to Change Immediately 📱",
+   "views": 0
+  }
  }
 }
