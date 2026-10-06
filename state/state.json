@@ -1,5 +1,5 @@
 {
-  "tg_offset": 40455533,
+  "tg_offset": 40455537,
   "batches": {
     "2026-10-02": {
       "topics": [
@@ -198,6 +198,70 @@
         3
       ],
       "status": "closed"
+    },
+    "2026-10-06": {
+      "topics": [
+        {
+          "title": "Top 5 Foods That Are Way Older Than You Think",
+          "angle": "Reveal the surprisingly ancient origins of everyday foods like chewing gum and popcorn using high-retention pacing.",
+          "format": "ranking",
+          "tone": "normal",
+          "trend_source": "evergreen",
+          "virality_score": 9,
+          "why": "High-curiosity ranking lists with visual hooks and counterintuitive facts naturally drive high completion rates and loop rewatches."
+        },
+        {
+          "title": "Top 5 Excuses People Give When They're Late",
+          "angle": "A lighthearted, highly relatable countdown of the most absurd yet common reasons people give for running behind schedule.",
+          "format": "ranking",
+          "tone": "funny",
+          "trend_source": "united airlines",
+          "virality_score": 9,
+          "why": "Combines a trending travel/delay theme with universal humor, triggering massive comment sections and shares from tagged friends."
+        },
+        {
+          "title": "3 Smartphone Hidden Settings You Never Knew Existed",
+          "angle": "Quick, highly actionable tech tips that make phones faster and smarter in under 60 seconds.",
+          "format": "tips",
+          "tone": "normal",
+          "trend_source": "evergreen",
+          "virality_score": 8,
+          "why": "Tech utility content generates strong save and share metrics, which the YouTube Shorts algorithm heavily rewards for sustained reach."
+        },
+        {
+          "title": "Top 5 Worst Board Game Rules Everyone Invents",
+          "angle": "A comedic countdown of the imaginary rules families swear by when playing classic board games.",
+          "format": "ranking",
+          "tone": "funny",
+          "trend_source": "evergreen",
+          "virality_score": 8,
+          "why": "Nostalgic, family-friendly humor with built-in relatability that drives comments (\"My family always does this!\")."
+        },
+        {
+          "title": "Can You Guess These 3 Optical Illusions?",
+          "angle": "An interactive 3-question visual challenge where viewers have 3 seconds per round to guess the correct pattern before the reveal.",
+          "format": "quiz",
+          "tone": "normal",
+          "trend_source": "evergreen",
+          "virality_score": 8,
+          "why": "Quiz formats force viewers to pause and replay to check their answers, maximizing engagement time and loop potential."
+        },
+        {
+          "title": "Why Fast Food Drive-Thrus Are Designed This Way",
+          "angle": "A fascinating quick explainer on the psychological and architectural tricks behind fast-food layout design.",
+          "format": "explainer",
+          "tone": "normal",
+          "trend_source": "mcdonalds monopoly",
+          "virality_score": 7,
+          "why": "Rides the public interest wave of fast-food giants while answering a satisfying 'why' question that keeps retention high."
+        }
+      ],
+      "sent_at": "2026-10-06T16:16:30.685965+00:00",
+      "selected": [
+        0,
+        1
+      ],
+      "status": "waiting"
     }
   },
   "videos": {
@@ -2131,6 +2195,335 @@
       },
       "uploaded_at": "2026-10-05T23:06:02.875648+00:00",
       "slot": "2026-10-06T23:15:00+00:00"
+    },
+    "2026-10-06-1": {
+      "topic": {
+        "title": "Top 5 Foods That Are Way Older Than You Think",
+        "angle": "Reveal the surprisingly ancient origins of everyday foods like chewing gum and popcorn using high-retention pacing.",
+        "format": "ranking",
+        "tone": "normal",
+        "trend_source": "evergreen",
+        "virality_score": 9,
+        "why": "High-curiosity ranking lists with visual hooks and counterintuitive facts naturally drive high completion rates and loop rewatches."
+      },
+      "status": "published",
+      "by": "you",
+      "updated": "2026-10-06T16:23:21.977413+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "foods older than you think",
+        "title": "Top 5 Foods That Are Way Older Than You Think",
+        "hook_text": "Ancient everyday snacks",
+        "thumbnail_text": "Shocking food history",
+        "description": "Discover five everyday foods older than you think, from ancient chewing gum to prehistoric popcorn.",
+        "hashtags": [
+          "#shorts",
+          "#history",
+          "#foodhistory",
+          "#top5"
+        ],
+        "tags": [
+          "foods older than you think",
+          "foods humans ate long ago",
+          "ancient foods still eaten today",
+          "ancient chewing gum",
+          "ancient foods",
+          "history snacks",
+          "strange food history",
+          "weird food facts",
+          "surprising food history",
+          "oldest foods in the world",
+          "history of everyday snacks",
+          "food facts",
+          "ancient recipes",
+          "historical foods",
+          "history of popcorn"
+        ],
+        "pinned_comment": "Which of these ancient snacks would you actually try today?",
+        "scenes": [
+          {
+            "text": "You won't believe how long humans have been eating these everyday foods. Wait until you see number one.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "ancient kitchen ingredients",
+              "historical food display"
+            ],
+            "image_prompt": "Vertical 9:16 cinematic shot of ancient rustic food ingredients on a wooden table, warm dramatic lighting, no text, no people.",
+            "stock_query": "ancient kitchen ingredients"
+          },
+          {
+            "text": "Number five, chewing gum. Long before modern brands, people chewed birch bark pitch. Stone age folks used it to clean teeth and ease hunger over nine thousand years ago.",
+            "badge": "#5",
+            "label": "Chewing Gum",
+            "stock_queries": [
+              "natural tree resin",
+              "forest tree bark"
+            ],
+            "image_prompt": "Vertical 9:16 close-up of natural tree resin on bark in a lush forest, soft sunlight, no text, no people.",
+            "stock_query": "natural tree resin"
+          },
+          {
+            "text": "At number four, pretzels. Monks in early medieval Europe baked dough into the shape of folded arms praying, creating a portable snack that has survived over one thousand years.",
+            "badge": "#4",
+            "label": "Pretzels",
+            "stock_queries": [
+              "fresh baked pretzels",
+              "medieval bread loaf"
+            ],
+            "image_prompt": "Vertical 9:16 shot of freshly baked golden brown pretzels on parchment paper, rustic bakery setting, no text, no people.",
+            "stock_query": "fresh baked pretzels"
+          },
+          {
+            "text": "Number three, hot dogs. Ancient Babylonians stuffed spiced meat into animal intestines thousands of years ago, proving our love for handheld sausages is truly timeless.",
+            "badge": "#3",
+            "label": "Hot Dogs",
+            "stock_queries": [
+              "grilled sausage food",
+              "rustic meat preparation"
+            ],
+            "image_prompt": "Vertical 9:16 shot of savory sausages grilling over hot coals, smoky atmosphere, no text, no people.",
+            "stock_query": "grilled sausage food"
+          },
+          {
+            "text": "At number two, popcorn. Ancient Peruvians didn't just eat corn. They popped it over hot sand thousands of years before movie theaters even existed.",
+            "badge": "#2",
+            "label": "Popcorn",
+            "stock_queries": [
+              "popped corn kernels",
+              "ancient corn cobs"
+            ],
+            "image_prompt": "Vertical 9:16 shot of fluffy white popcorn popping in a vintage iron pan, warm cinematic lighting, no text, no people.",
+            "stock_query": "popped corn kernels"
+          },
+          {
+            "text": "Number one, chocolate. Ancient Mesoamericans brewed crushed cacao beans into a bitter, frothy drink nearly four thousand years ago, making our favorite treat way older than you think.",
+            "badge": "#1",
+            "label": "Chocolate",
+            "stock_queries": [
+              "raw cacao beans",
+              "dark chocolate chunks"
+            ],
+            "image_prompt": "Vertical 9:16 shot of raw cacao beans and dark chocolate pieces on a dark stone surface, moody lighting, no text, no people.",
+            "stock_query": "raw cacao beans"
+          },
+          {
+            "text": "You won't believe how long humans have been eating these everyday foods. Wait until you see number one.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "historical food display",
+              "ancient kitchen ingredients"
+            ],
+            "image_prompt": "Vertical 9:16 cinematic shot of ancient rustic food ingredients on a wooden table, warm dramatic lighting, no text, no people.",
+            "stock_query": "historical food display"
+          }
+        ],
+        "key_facts": [
+          "Birch bark pitch was used as chewing gum over 9,000 years ago.",
+          "Pretzels originated in early medieval Europe over 1,000 years ago.",
+          "Sausages in casings were made by ancient civilizations thousands of years ago.",
+          "Popcorn was made thousands of years ago in ancient Peru.",
+          "Mesoamericans consumed cacao preparations nearly 4,000 years ago."
+        ],
+        "format": "ranking",
+        "tone": "normal",
+        "category": "27",
+        "script": "You won't believe how long humans have been eating these everyday foods. Wait until you see number one. Number five, chewing gum. Long before modern brands, people chewed birch bark pitch. Stone age folks used it to clean teeth and ease hunger over nine thousand years ago. At number four, pretzels. Monks in early medieval Europe baked dough into the shape of folded arms praying, creating a portable snack that has survived over one thousand years. Number three, hot dogs. Ancient Babylonians stuffed spiced meat into animal intestines thousands of years ago, proving our love for handheld sausages is truly timeless. At number two, popcorn. Ancient Peruvians didn't just eat corn. They popped it over hot sand thousands of years before movie theaters even existed. Number one, chocolate. Ancient Mesoamericans brewed crushed cacao beans into a bitter, frothy drink nearly four thousand years ago, making our favorite treat way older than you think. You won't believe how long humans have been eating these everyday foods. Wait until you see number one.",
+        "voice": "en-US-EmmaMultilingualNeural"
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-EmmaMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): Dantegr\u00e1fico (Pixabay) https://pixabay.com/videos/id-123629/; PIRO4D (Pixabay) https://pixabay.com/videos/id-7549/; Motionwell (Pixabay) https://pixabay.com/videos/id-336603/; DistillVideos (Pixabay) https://pixabay.com/videos/id-23/; Osckar (Pixabay) https://pixabay.com/videos/id-1613/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-1261/; xBriantcx (Pixabay) https://pixabay.com/videos/id-238823/; asifsharif (Pixabay) https://pixabay.com/videos/id-326081/; shahfaisalkhan6676 (Pixabay) https://pixabay.com/videos/id-82789/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-597/; shahfaisalkhan6676 (Pixabay) https://pixabay.com/videos/id-82725/; allwarez (Pixabay) https://pixabay.com/videos/id-2700/; elioavila (Pixabay) https://pixabay.com/videos/id-268554/; groovelanddesigns (Pixabay) https://pixabay.com/videos/id-37441/; xBriantcx (Pixabay) https://pixabay.com/videos/id-236256/; Jb-004 (Pixabay) https://pixabay.com/videos/id-159429/; Pana68 (Pixabay) https://pixabay.com/videos/id-200157/; TBIT (Pixabay) https://pixabay.com/videos/id-1210/; muzammil7865 (Pixabay) https://pixabay.com/videos/id-149665/"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-06",
+        "name": "2026-10-06-1-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-06",
+        "name": "2026-10-06-1-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,097 --> 00:00:01,857\nYou won't believe how long humans have\n\n2\n00:00:01,857 --> 00:00:04,624\nbeen eating these everyday foods Wait until\n\n3\n00:00:04,624 --> 00:00:07,063\nyou see number one Number five chewing\n\n4\n00:00:07,063 --> 00:00:09,915\ngum Long before modern brands people chewed\n\n5\n00:00:09,915 --> 00:00:12,658\nbirch bark pitch Stone age folks used\n\n6\n00:00:12,658 --> 00:00:14,393\nit to clean teeth and ease hunger\n\n7\n00:00:14,393 --> 00:00:16,760\nover nine thousand years ago At number\n\n8\n00:00:16,760 --> 00:00:19,794\nfour pretzels Monks in early medieval Europe\n\n9\n00:00:19,794 --> 00:00:21,468\nbaked dough into the shape of folded\n\n10\n00:00:21,468 --> 00:00:24,296\narms praying creating a portable snack that\n\n11\n00:00:24,296 --> 00:00:27,136\nhas survived over one thousand years Number\n\n12\n00:00:27,136 --> 00:00:30,097\nthree hot dogs Ancient Babylonians stuffed\n\n13\n00:00:30,097 --> 00:00:32,536\nspiced meat into animal intestines thousands\n\n14\n00:00:32,536 --> 00:00:34,721\nof years ago proving our love for\n\n15\n00:00:34,721 --> 00:00:37,998\nhandheld sausages is truly timeless At number\n\n16\n00:00:37,998 --> 00:00:41,080\ntwo popcorn Ancient Peruvians didn't just eat\n\n17\n00:00:41,080 --> 00:00:43,362\ncorn They popped it over hot sand\n\n18\n00:00:43,362 --> 00:00:45,765\nthousands of years before movie theaters even\n\n19\n00:00:45,765 --> 00:00:49,745\nexisted Number one chocolate Ancient Mesoamericans\n\n20\n00:00:49,745 --> 00:00:52,148\nbrewed crushed cacao beans into a bitter\n\n21\n00:00:52,148 --> 00:00:54,684\nfrothy drink nearly four thousand years ago\n\n22\n00:00:54,684 --> 00:00:56,505\nmaking our favorite treat way older than\n\n23\n00:00:56,505 --> 00:00:58,580\nyou think You won't believe how long\n\n24\n00:00:58,580 --> 00:01:01,383\nhumans have been eating these everyday foods\n\n25\n00:01:01,383 --> 00:01:03,337\nWait until you see number one\n",
+      "tg_msg": 133,
+      "opts_msg": 135,
+      "approved_by": "you",
+      "publish_now": false,
+      "description_full": "Discover five everyday foods older than you think, from ancient chewing gum to prehistoric popcorn.\n\n#shorts #history #foodhistory #top5\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review and approved by the channel owner.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-EmmaMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): Dantegr\u00e1fico (Pixabay) https://pixabay.com/videos/id-123629/; PIRO4D (Pixabay) https://pixabay.com/videos/id-7549/; Motionwell (Pixabay) https://pixabay.com/videos/id-336603/; DistillVideos (Pixabay) https://pixabay.com/videos/id-23/; Osckar (Pixabay) https://pixabay.com/videos/id-1613/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-1261/; xBriantcx (Pixabay) https://pixabay.com/videos/id-238823/; asifsharif (Pixabay) https://pixabay.com/videos/id-326081/; shahfaisalkhan6676 (Pixabay) https://pixabay.com/videos/id-82789/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-597/; shahfaisalkhan6676 (Pixabay) https://pixabay.com/videos/id-82725/; allwarez (Pixabay) https://pixabay.com/videos/id-2700/; elioavila (Pixabay) https://pixabay.com/videos/id-268554/; groovelanddesigns (Pixabay) https://pixabay.com/videos/id-37441/; xBriantcx (Pixabay) https://pixabay.com/videos/id-236256/; Jb-004 (Pixabay) https://pixabay.com/videos/id-159429/; Pana68 (Pixabay) https://pixabay.com/videos/id-200157/; TBIT (Pixabay) https://pixabay.com/videos/id-1210/; muzammil7865 (Pixabay) https://pixabay.com/videos/id-149665/\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/Adve1NXjcl0",
+          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-10-06T16:23:21.977430+00:00",
+      "slot": "2026-10-07T01:15:00+00:00"
+    },
+    "2026-10-06-2": {
+      "topic": {
+        "title": "Top 5 Excuses People Give When They're Late",
+        "angle": "A lighthearted, highly relatable countdown of the most absurd yet common reasons people give for running behind schedule.",
+        "format": "ranking",
+        "tone": "funny",
+        "trend_source": "united airlines",
+        "virality_score": 9,
+        "why": "Combines a trending travel/delay theme with universal humor, triggering massive comment sections and shares from tagged friends."
+      },
+      "status": "awaiting_approval",
+      "by": "you",
+      "updated": "2026-10-06T16:23:02.906130+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "reasons for being late",
+        "title": "Top 5 Excuses People Give When They're Late",
+        "hook_text": "Why are you always late?",
+        "thumbnail_text": "Always late?",
+        "description": "Discover the top 5 excuses people give when they are late for everything. Find out the funniest reasons people run behind schedule.",
+        "hashtags": [
+          "#shorts",
+          "#comedy",
+          "#relatable",
+          "#top5",
+          "#funny"
+        ],
+        "tags": [
+          "reasons for being late",
+          "why am i always late to work",
+          "why am i always running late",
+          "excuses for being late to work",
+          "why am i always late to everything",
+          "top 5 excuses",
+          "why am i always late",
+          "excuses for being late",
+          "excuses for being late to class",
+          "excuses for being late to school",
+          "funny excuses for being late",
+          "running late humor",
+          "funny short videos",
+          "late to work excuses",
+          "relatable late habits",
+          "funny time management",
+          "daily struggles humor",
+          "lateness excuses"
+        ],
+        "pinned_comment": "Which one of these do you secretly use every single week? Let me know below! \ud83d\udd52",
+        "scenes": [
+          {
+            "text": "Why are you always running behind schedule? Here are the top five excuses people give when they are late.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "person looking at watch",
+              "running late clock"
+            ],
+            "image_prompt": "Vertical 9:16 image of a person staring frantically at a wall clock in a modern hallway, cinematic lighting, no text.",
+            "stock_query": "person looking at watch"
+          },
+          {
+            "text": "Number five, I lost my keys. They vanished into another dimension and only reappeared after twenty minutes of frantic cushion stabbing.",
+            "badge": "#5",
+            "label": "Lost Keys",
+            "stock_queries": [
+              "searching for keys",
+              "couch cushions mess"
+            ],
+            "image_prompt": "Vertical 9:16 image of hands frantically rummaging between couch cushions, warm indoor lighting, no text.",
+            "stock_query": "searching for keys"
+          },
+          {
+            "text": "At number four, traffic was surprisingly terrible. Yes, on the exact same route you have driven every single day since two thousand nineteen.",
+            "badge": "#4",
+            "label": "Bad Traffic",
+            "stock_queries": [
+              "traffic jam red lights",
+              "cars backed up road"
+            ],
+            "image_prompt": "Vertical 9:16 image of a long line of cars stuck in red taillight traffic during twilight, no text.",
+            "stock_query": "traffic jam red lights"
+          },
+          {
+            "text": "Number three, my phone died. Which is fascinating because it was at ninety nine percent right before you picked it up to doomscroll.",
+            "badge": "#3",
+            "label": "Dead Phone",
+            "stock_queries": [
+              "dead smartphone screen",
+              "charging phone cable"
+            ],
+            "image_prompt": "Vertical 9:16 image of a black smartphone screen with a low battery icon, minimalist setting, no text.",
+            "stock_query": "dead smartphone screen"
+          },
+          {
+            "text": "At number two, I couldn't find my other shoe. Because apparently, footwear grows tiny legs and hides in the dark laundry basket.",
+            "badge": "#2",
+            "label": "Missing Shoe",
+            "stock_queries": [
+              "single sneaker floor",
+              "messy laundry room"
+            ],
+            "image_prompt": "Vertical 9:16 image of a single colorful sneaker sitting alone on a wooden floor, no text.",
+            "stock_query": "single sneaker floor"
+          },
+          {
+            "text": "Number one, I was about to walk out the door and then disaster struck. You suddenly remembered you needed to start an entire kitchen renovation.",
+            "badge": "#1",
+            "label": "Last Minute Tasks",
+            "stock_queries": [
+              "messy kitchen counter",
+              "cleaning frantically home"
+            ],
+            "image_prompt": "Vertical 9:16 image of a cluttered kitchen counter with scattered coffee mugs and dish soap, no text.",
+            "stock_query": "messy kitchen counter"
+          },
+          {
+            "text": "Honestly, we all do it. Now tell me, why are you always running behind schedule?",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "laughing person indoors",
+              "smiling at camera"
+            ],
+            "image_prompt": "Vertical 9:16 image of a friendly person smiling and shrugging in a brightly lit room, no text.",
+            "stock_query": "laughing person indoors"
+          }
+        ],
+        "key_facts": [],
+        "format": "ranking",
+        "tone": "funny",
+        "category": "23",
+        "script": "Why are you always running behind schedule? Here are the top five excuses people give when they are late. Number five, I lost my keys. They vanished into another dimension and only reappeared after twenty minutes of frantic cushion stabbing. At number four, traffic was surprisingly terrible. Yes, on the exact same route you have driven every single day since two thousand nineteen. Number three, my phone died. Which is fascinating because it was at ninety nine percent right before you picked it up to doomscroll. At number two, I couldn't find my other shoe. Because apparently, footwear grows tiny legs and hides in the dark laundry basket. Number one, I was about to walk out the door and then disaster struck. You suddenly remembered you needed to start an entire kitchen renovation. Honestly, we all do it. Now tell me, why are you always running behind schedule?",
+        "voice": "en-US-AvaMultilingualNeural"
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AvaMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): AttilaPergel (Pixabay) https://pixabay.com/videos/id-119283/; Shravan1991 (Pixabay) https://pixabay.com/videos/id-206294/; BillKnowsStuff (Pixabay) https://pixabay.com/videos/id-132622/; fvonderaa (Pixabay) https://pixabay.com/videos/id-185888/; Coverr-Free-Footage (Pixabay) https://pixabay.com/videos/id-3174/; Life-Of-Vids (Pixabay) https://pixabay.com/videos/id-2326/; u_hy97sitse3 (Pixabay) https://pixabay.com/videos/id-176533/; Life-Of-Vids (Pixabay) https://pixabay.com/videos/id-2347/; DistillVideos (Pixabay) https://pixabay.com/videos/id-1110/; aghyadnajjar (Pixabay) https://pixabay.com/videos/id-44082/; Natures_Embrace (Pixabay) https://pixabay.com/videos/id-202987/; Matthias_Groeneveld (Pixabay) https://pixabay.com/videos/id-282995/; Engin_Akyurt (Pixabay) https://pixabay.com/videos/id-67358/; NicholasDeloitteMedia (Pixabay) https://pixabay.com/videos/id-7924/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-1261/; Dx21 (Pixabay) https://pixabay.com/videos/id-131163/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-10853/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-445/; TonyDias7 (Pixabay) https://pixabay.com/videos/id-318654/; DistillVideos (Pixabay) https://pixabay.com/videos/id-40/"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-06",
+        "name": "2026-10-06-2-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-06",
+        "name": "2026-10-06-2-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,095 --> 00:00:02,840\nWhy are you always running behind schedule\n\n2\n00:00:02,840 --> 00:00:04,837\nHere are the top five excuses people\n\n3\n00:00:04,837 --> 00:00:07,255\ngive when they are late Number five\n\n4\n00:00:07,255 --> 00:00:10,258\nI lost my keys They vanished into\n\n5\n00:00:10,258 --> 00:00:13,342\nanother dimension and only reappeared after\n\n6\n00:00:13,342 --> 00:00:16,712\ntwenty minutes of frantic cushion stabbing\n\n7\n00:00:16,712 --> 00:00:20,557\nAt number four traffic was surprisingly terrible\n\n8\n00:00:20,557 --> 00:00:22,568\nYes on the exact same route you\n\n9\n00:00:22,568 --> 00:00:24,755\nhave driven every single day since two\n\n10\n00:00:24,755 --> 00:00:28,465\nthousand nineteen Number three my phone died\n\n11\n00:00:28,465 --> 00:00:30,747\nWhich is fascinating because it was at\n\n12\n00:00:30,747 --> 00:00:32,758\nninety nine percent right before you picked\n\n13\n00:00:32,758 --> 00:00:35,462\nit up to doomscroll At number two\n\n14\n00:00:35,462 --> 00:00:37,785\nI couldn't find my other shoe Because\n\n15\n00:00:37,785 --> 00:00:41,957\napparently footwear grows tiny legs and hides\n\n16\n00:00:41,957 --> 00:00:45,054\nin the dark laundry basket Number one\n\n17\n00:00:45,054 --> 00:00:46,196\nI was about to walk out the\n\n18\n00:00:46,196 --> 00:00:49,524\ndoor and then disaster struck You suddenly\n\n19\n00:00:49,524 --> 00:00:51,617\nremembered you needed to start an entire\n\n20\n00:00:51,617 --> 00:00:55,136\nkitchen renovation Honestly we all do it\n\n21\n00:00:55,136 --> 00:00:57,554\nNow tell me why are you always\n\n22\n00:00:57,554 --> 00:00:59,259\nrunning behind schedule\n",
+      "tg_msg": 137,
+      "opts_msg": 139
     }
   },
   "history": [
@@ -2146,13 +2539,11 @@
     "Top 5 Animals With Absolute Zero Survival Instincts",
     "Top 5 Board Game Rules Everyone Completely Makes Up",
     "Top 5 Everyday Objects That Are Way Older Than You Think",
-    "3 Tech Settings You Need to Change Immediately"
+    "3 Tech Settings You Need to Change Immediately",
+    "Top 5 Foods That Are Way Older Than You Think",
+    "Top 5 Excuses People Give When They're Late"
   ],
   "trend_tries": {
-    "2026-10-03": {
-      "n": 2,
-      "at": "2026-10-03T15:20:29.848604+00:00"
-    },
     "2026-10-04": {
       "n": 3,
       "at": "2026-10-04T17:05:09.332686+00:00"
@@ -2160,14 +2551,18 @@
     "2026-10-05": {
       "n": 2,
       "at": "2026-10-05T19:52:38.289890+00:00"
+    },
+    "2026-10-06": {
+      "n": 1,
+      "at": "2026-10-06T16:16:07.531288+00:00"
     }
   },
   "cleanup_day": "2026-10-06",
   "recent_voices": [
-    "en-US-EmmaMultilingualNeural",
-    "en-US-AvaMultilingualNeural",
     "en-AU-WilliamMultilingualNeural",
     "en-US-AndrewMultilingualNeural",
-    "en-US-BrianMultilingualNeural"
+    "en-US-BrianMultilingualNeural",
+    "en-US-EmmaMultilingualNeural",
+    "en-US-AvaMultilingualNeural"
   ]
 }

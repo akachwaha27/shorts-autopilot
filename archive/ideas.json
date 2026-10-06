@@ -235,5 +235,78 @@
   ],
   "sent_at": "2026-10-05T19:52:58.505372+00:00",
   "status": "closed"
+ },
+ "2026-10-06": {
+  "date": "2026-10-06",
+  "ideas": [
+   {
+    "angle": "Reveal the surprisingly ancient origins of everyday foods like chewing gum and popcorn using high-retention pacing.",
+    "format": "ranking",
+    "picked": true,
+    "rank": 1,
+    "title": "Top 5 Foods That Are Way Older Than You Think",
+    "trend_source": "evergreen",
+    "video_id": "2026-10-06-1",
+    "virality_score": 9,
+    "why": "High-curiosity ranking lists with visual hooks and counterintuitive facts naturally drive high completion rates and loop rewatches."
+   },
+   {
+    "angle": "A lighthearted, highly relatable countdown of the most absurd yet common reasons people give for running behind schedule.",
+    "format": "ranking",
+    "picked": true,
+    "rank": 2,
+    "title": "Top 5 Excuses People Give When They're Late",
+    "trend_source": "united airlines",
+    "video_id": "2026-10-06-2",
+    "virality_score": 9,
+    "why": "Combines a trending travel/delay theme with universal humor, triggering massive comment sections and shares from tagged friends."
+   },
+   {
+    "angle": "Quick, highly actionable tech tips that make phones faster and smarter in under 60 seconds.",
+    "format": "tips",
+    "picked": false,
+    "rank": 3,
+    "title": "3 Smartphone Hidden Settings You Never Knew Existed",
+    "trend_source": "evergreen",
+    "video_id": null,
+    "virality_score": 8,
+    "why": "Tech utility content generates strong save and share metrics, which the YouTube Shorts algorithm heavily rewards for sustained reach."
+   },
+   {
+    "angle": "A comedic countdown of the imaginary rules families swear by when playing classic board games.",
+    "format": "ranking",
+    "picked": false,
+    "rank": 4,
+    "title": "Top 5 Worst Board Game Rules Everyone Invents",
+    "trend_source": "evergreen",
+    "video_id": null,
+    "virality_score": 8,
+    "why": "Nostalgic, family-friendly humor with built-in relatability that drives comments (\"My family always does this!\")."
+   },
+   {
+    "angle": "An interactive 3-question visual challenge where viewers have 3 seconds per round to guess the correct pattern before the reveal.",
+    "format": "quiz",
+    "picked": false,
+    "rank": 5,
+    "title": "Can You Guess These 3 Optical Illusions?",
+    "trend_source": "evergreen",
+    "video_id": null,
+    "virality_score": 8,
+    "why": "Quiz formats force viewers to pause and replay to check their answers, maximizing engagement time and loop potential."
+   },
+   {
+    "angle": "A fascinating quick explainer on the psychological and architectural tricks behind fast-food layout design.",
+    "format": "explainer",
+    "picked": false,
+    "rank": 6,
+    "title": "Why Fast Food Drive-Thrus Are Designed This Way",
+    "trend_source": "mcdonalds monopoly",
+    "video_id": null,
+    "virality_score": 7,
+    "why": "Rides the public interest wave of fast-food giants while answering a satisfying 'why' question that keeps retention high."
+   }
+  ],
+  "sent_at": "2026-10-06T16:16:30.685965+00:00",
+  "status": "waiting"
  }
 }
