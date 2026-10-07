@@ -255,6 +255,67 @@
         3
       ],
       "status": "closed"
+    },
+    "2026-10-07": {
+      "topics": [
+        {
+          "title": "Top 5 Ridiculous Inventions That Completely Failed",
+          "angle": "Counting down the most absurd, hilarious gadgets people actually tried to sell throughout history.",
+          "format": "ranking",
+          "tone": "funny",
+          "trend_source": "Artificial review / tech satire",
+          "virality_score": 9,
+          "why": "Combines a popular ranking format with lighthearted humor about tech absurdity, driving high watch time and comments tagging friends."
+        },
+        {
+          "title": "Top 5 Weirdest Animal Sleeping Habits",
+          "angle": "A humorous look at bizarre ways different animals fall asleep, from floating to locking their knees.",
+          "format": "ranking",
+          "tone": "funny",
+          "trend_source": "cute dog vs dangerous dog short trend",
+          "virality_score": 9,
+          "why": "Animal content paired with funny observations creates massive appeal, great loop potential, and high share rates."
+        },
+        {
+          "title": "Top 5 Space Mysteries Science Still Can't Explain",
+          "angle": "Exploring mind-bending cosmic phenomena that continue to baffle modern astronomers.",
+          "format": "ranking",
+          "tone": "normal",
+          "trend_source": "ARC Raiders / sci-fi gaming trend",
+          "virality_score": 8,
+          "why": "Sci-fi and space themes tap into strong algorithmic curiosity, keeping viewers hooked until the final reveal."
+        },
+        {
+          "title": "3 Smartphone Hidden Settings You Aren't Using",
+          "angle": "Quick, practical tech tweaks that instantly make your phone faster and battery last longer.",
+          "format": "tips",
+          "tone": "normal",
+          "trend_source": "Tech trends / general interest",
+          "virality_score": 8,
+          "why": "Utility-focused tech tips have incredible retention because viewers pause or rewatch to follow the steps."
+        },
+        {
+          "title": "Can You Guess These 3 Everyday Objects Zoomed In 1,000x?",
+          "angle": "An interactive guessing game challenging viewers to identify common household items under a microscope.",
+          "format": "quiz",
+          "tone": "normal",
+          "trend_source": "Evergreen quiz trend",
+          "virality_score": 7,
+          "why": "Quiz videos naturally spike comment sections and boost engagement as users guess the answers in real time."
+        },
+        {
+          "title": "Why Do Cats Actually Purr? The Real Science",
+          "angle": "Explaining the surprising physics and hidden biological reasons behind why cats purr.",
+          "format": "explainer",
+          "tone": "normal",
+          "trend_source": "General interest science",
+          "virality_score": 7,
+          "why": "Fascinating animal science facts satisfy viewer curiosity quickly and maintain high completion rates."
+        }
+      ],
+      "sent_at": "2026-10-07T13:54:07.340734+00:00",
+      "selected": [],
+      "status": "waiting"
     }
   },
   "videos": {
@@ -2931,10 +2992,6 @@
     "Top 5 Historic Sports Comebacks"
   ],
   "trend_tries": {
-    "2026-10-04": {
-      "n": 3,
-      "at": "2026-10-04T17:05:09.332686+00:00"
-    },
     "2026-10-05": {
       "n": 2,
       "at": "2026-10-05T19:52:38.289890+00:00"
@@ -2942,6 +2999,10 @@
     "2026-10-06": {
       "n": 2,
       "at": "2026-10-06T17:32:08.921034+00:00"
+    },
+    "2026-10-07": {
+      "n": 1,
+      "at": "2026-10-07T13:53:26.598292+00:00"
     }
   },
   "cleanup_day": "2026-10-07",

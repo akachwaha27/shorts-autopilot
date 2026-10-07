@@ -297,5 +297,78 @@
   ],
   "sent_at": "2026-10-06T17:32:58.849709+00:00",
   "status": "closed"
+ },
+ "2026-10-07": {
+  "date": "2026-10-07",
+  "ideas": [
+   {
+    "angle": "Counting down the most absurd, hilarious gadgets people actually tried to sell throughout history.",
+    "format": "ranking",
+    "picked": false,
+    "rank": 1,
+    "title": "Top 5 Ridiculous Inventions That Completely Failed",
+    "trend_source": "Artificial review / tech satire",
+    "video_id": null,
+    "virality_score": 9,
+    "why": "Combines a popular ranking format with lighthearted humor about tech absurdity, driving high watch time and comments tagging friends."
+   },
+   {
+    "angle": "A humorous look at bizarre ways different animals fall asleep, from floating to locking their knees.",
+    "format": "ranking",
+    "picked": false,
+    "rank": 2,
+    "title": "Top 5 Weirdest Animal Sleeping Habits",
+    "trend_source": "cute dog vs dangerous dog short trend",
+    "video_id": null,
+    "virality_score": 9,
+    "why": "Animal content paired with funny observations creates massive appeal, great loop potential, and high share rates."
+   },
+   {
+    "angle": "Exploring mind-bending cosmic phenomena that continue to baffle modern astronomers.",
+    "format": "ranking",
+    "picked": false,
+    "rank": 3,
+    "title": "Top 5 Space Mysteries Science Still Can't Explain",
+    "trend_source": "ARC Raiders / sci-fi gaming trend",
+    "video_id": null,
+    "virality_score": 8,
+    "why": "Sci-fi and space themes tap into strong algorithmic curiosity, keeping viewers hooked until the final reveal."
+   },
+   {
+    "angle": "Quick, practical tech tweaks that instantly make your phone faster and battery last longer.",
+    "format": "tips",
+    "picked": false,
+    "rank": 4,
+    "title": "3 Smartphone Hidden Settings You Aren't Using",
+    "trend_source": "Tech trends / general interest",
+    "video_id": null,
+    "virality_score": 8,
+    "why": "Utility-focused tech tips have incredible retention because viewers pause or rewatch to follow the steps."
+   },
+   {
+    "angle": "An interactive guessing game challenging viewers to identify common household items under a microscope.",
+    "format": "quiz",
+    "picked": false,
+    "rank": 5,
+    "title": "Can You Guess These 3 Everyday Objects Zoomed In 1,000x?",
+    "trend_source": "Evergreen quiz trend",
+    "video_id": null,
+    "virality_score": 7,
+    "why": "Quiz videos naturally spike comment sections and boost engagement as users guess the answers in real time."
+   },
+   {
+    "angle": "Explaining the surprising physics and hidden biological reasons behind why cats purr.",
+    "format": "explainer",
+    "picked": false,
+    "rank": 6,
+    "title": "Why Do Cats Actually Purr? The Real Science",
+    "trend_source": "General interest science",
+    "video_id": null,
+    "virality_score": 7,
+    "why": "Fascinating animal science facts satisfy viewer curiosity quickly and maintain high completion rates."
+   }
+  ],
+  "sent_at": "2026-10-07T13:54:07.340734+00:00",
+  "status": "waiting"
  }
 }
