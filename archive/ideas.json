@@ -302,73 +302,73 @@
   "date": "2026-10-07",
   "ideas": [
    {
-    "angle": "Counting down the most absurd, hilarious gadgets people actually tried to sell throughout history.",
+    "angle": "Counting down everyday foods and condiments that humans have been enjoying for thousands of years longer than expected.",
     "format": "ranking",
     "picked": false,
     "rank": 1,
-    "title": "Top 5 Ridiculous Inventions That Completely Failed",
-    "trend_source": "Artificial review / tech satire",
+    "title": "Top 5 Foods That Are Way Older Than You Think",
+    "trend_source": "evergreen",
     "video_id": null,
-    "virality_score": 9,
-    "why": "Combines a popular ranking format with lighthearted humor about tech absurdity, driving high watch time and comments tagging friends."
+    "virality_score": 10,
+    "why": "Leverages curiosity and surprise, driving high completion rates and comments from viewers guessing the dates."
    },
    {
-    "angle": "A humorous look at bizarre ways different animals fall asleep, from floating to locking their knees.",
+    "angle": "A humorous countdown of bizarre historical gadgets that completely missed the mark.",
     "format": "ranking",
     "picked": false,
     "rank": 2,
-    "title": "Top 5 Weirdest Animal Sleeping Habits",
-    "trend_source": "cute dog vs dangerous dog short trend",
+    "title": "Top 5 Absurd Inventions That Made Zero Sense",
+    "trend_source": "INFINITE MONEY GLITCH FOUND / gaming clicker trends",
     "video_id": null,
     "virality_score": 9,
-    "why": "Animal content paired with funny observations creates massive appeal, great loop potential, and high share rates."
+    "why": "Combines comedy with a structured ranking format, guaranteeing strong watch time and humorous comments."
    },
    {
-    "angle": "Exploring mind-bending cosmic phenomena that continue to baffle modern astronomers.",
-    "format": "ranking",
-    "picked": false,
-    "rank": 3,
-    "title": "Top 5 Space Mysteries Science Still Can't Explain",
-    "trend_source": "ARC Raiders / sci-fi gaming trend",
-    "video_id": null,
-    "virality_score": 8,
-    "why": "Sci-fi and space themes tap into strong algorithmic curiosity, keeping viewers hooked until the final reveal."
-   },
-   {
-    "angle": "Quick, practical tech tweaks that instantly make your phone faster and battery last longer.",
+    "angle": "Quick, highly actionable smartphone settings that instantly improve battery life and privacy.",
     "format": "tips",
     "picked": false,
-    "rank": 4,
-    "title": "3 Smartphone Hidden Settings You Aren't Using",
-    "trend_source": "Tech trends / general interest",
-    "video_id": null,
-    "virality_score": 8,
-    "why": "Utility-focused tech tips have incredible retention because viewers pause or rewatch to follow the steps."
+    "rank": 3,
+    "title": "3 Tech Settings You Need to Change Immediately",
+    "trend_source": "jordan hurts contract / tech interest",
+    "video_id": "2026-10-05-4",
+    "virality_score": 9,
+    "why": "Delivers immediate practical value, prompting saves and shares which heavily boost the algorithm."
    },
    {
-    "angle": "An interactive guessing game challenging viewers to identify common household items under a microscope.",
-    "format": "quiz",
-    "picked": false,
-    "rank": 5,
-    "title": "Can You Guess These 3 Everyday Objects Zoomed In 1,000x?",
-    "trend_source": "Evergreen quiz trend",
-    "video_id": null,
-    "virality_score": 7,
-    "why": "Quiz videos naturally spike comment sections and boost engagement as users guess the answers in real time."
-   },
-   {
-    "angle": "Explaining the surprising physics and hidden biological reasons behind why cats purr.",
+    "angle": "An engaging, fast-paced explanation of pressure physics using simple everyday analogies.",
     "format": "explainer",
     "picked": false,
+    "rank": 4,
+    "title": "Why Soda Cans Explode at High Altitudes",
+    "trend_source": "ARC Raiders / gaming & physics hype",
+    "video_id": null,
+    "virality_score": 8,
+    "why": "Satisfies viewer curiosity quickly with strong visual pacing, keeping retention high through the middle mark."
+   },
+   {
+    "angle": "A lighthearted, funny countdown of goofy animal behaviors that make you wonder how they survive.",
+    "format": "ranking",
+    "picked": false,
+    "rank": 5,
+    "title": "Top 5 Animals With Absolute Zero Survival Instincts",
+    "trend_source": "CaseOh gaming / funny animal trends",
+    "video_id": "2026-10-05-1",
+    "virality_score": 8,
+    "why": "Family-friendly humor combined with cute/funny animal tropes drives high engagement and replays."
+   },
+   {
+    "angle": "A short, wholesome fictional mystery story about an office coffee mug that keeps moving on its own.",
+    "format": "story",
+    "picked": false,
     "rank": 6,
-    "title": "Why Do Cats Actually Purr? The Real Science",
-    "trend_source": "General interest science",
+    "title": "The Mystery of the Missing Coffee Cup",
+    "trend_source": "evergreen mini-story",
     "video_id": null,
     "virality_score": 7,
-    "why": "Fascinating animal science facts satisfy viewer curiosity quickly and maintain high completion rates."
+    "why": "Narrative pacing naturally pulls viewers to the very end to see the harmless punchline twist."
    }
   ],
-  "sent_at": "2026-10-07T13:54:07.340734+00:00",
+  "sent_at": "2026-10-07T18:05:17.073822+00:00",
   "status": "waiting"
  }
 }
