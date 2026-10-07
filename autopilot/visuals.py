@@ -280,10 +280,16 @@ def _sources():
     return src + [_nasa_images, _commons_photos]
 
 
-def candidates(query, used):
-    """All on-topic candidates for one search: tagged with one of the must-keywords, not used before."""
+VIDEO_SOURCES = ("_pexels_videos", "_pixabay_videos")
+
+
+def candidates(query, used, kind=None):
+    """All on-topic candidates for one search: tagged with one of the must-keywords, not used before.
+    kind="video" / "image" limits which libraries are searched."""
     found, seen = [], set()
     for fn in _sources():
+        if kind and (fn.__name__ in VIDEO_SOURCES) != (kind == "video"):
+            continue
         try:
             items = fn(query["q"])
         except Exception as e:  # noqa: BLE001
@@ -367,14 +373,16 @@ def pick(pkg, i, n, out_dir, used):
     chosen = []
     queries = list(sp["queries"]) + [{"q": b, "must": [w for w in b.split() if w.lower() not in STOP][-1:]}
                                      for b in pkg.get("broll", [])]
-    for q in queries:
-        if len(chosen) >= n:
-            break
-        cands = [c for c in candidates(q, used) if c["id"] not in {x["id"] for x in chosen}]
-        for c in verify(sp["subject"], line, cands, n - len(chosen)):
-            used.add(c["id"])
-            c["subject"] = sp["subject"]
-            chosen.append(c)
+    # moving footage first: try every search for VIDEO clips; still photos only if no video exists
+    for kind, qs in (("video", queries), ("image", sp["queries"])):
+        for q in qs:
+            if len(chosen) >= n or (kind == "image" and chosen):
+                break
+            cands = [c for c in candidates(q, used, kind) if c["id"] not in {x["id"] for x in chosen}]
+            for c in verify(sp["subject"], line, cands, n - len(chosen)):
+                used.add(c["id"])
+                c["subject"] = sp["subject"]
+                chosen.append(c)
     shots = []
     for k, c in enumerate(chosen):
         try:

@@ -52,7 +52,10 @@ Return JSON: {{"searches": [{{"q": "2-3 words", "must": ["dog"]}}]}}"""
     for q in qs:
         q["q"] = str(q["q"])[:50]
         q["must"] = [str(m) for m in (q.get("must") or [])][:3] or [w for w in q["q"].split() if w in ANIMAL_WORDS][:1] or [q["q"].split()[0]]
-    return qs[:12]
+    qs = qs[:10]
+    for animal in ("cat", "dog", "goat"):  # Pixabay tags many genuinely silly clips "funny"
+        qs.append({"q": f"funny {animal}", "must": [animal]})
+    return qs
 
 
 def _candidates(q, seen):
@@ -173,7 +176,7 @@ def find(topic, work, need=7):
     qs = _queries(topic)
     for q in qs:
         pool += _candidates(q, seen)[:4]
-        if len(pool) >= 30:
+        if len(pool) >= 40:
             break
     _note(f"{len(pool)} candidate clips from searches: " + ", ".join(q["q"] for q in qs))
     rated, batch, strips = [], [], 0
@@ -194,7 +197,10 @@ def find(topic, work, need=7):
         except Exception as e:  # noqa: BLE001
             _note(f"clip rating failed: {str(e)[:200]}")
     _note(f"{strips} previews made, {len(rated)} rated: " + "; ".join(f"{c['funny']:.0f} {c.get('desc', '')[:40]}" for c in rated[:12]))
-    rated = [c for c in rated if c["funny"] >= config.CLIP_MIN_FUNNY]
+    uniq = {}
+    for c in rated:  # the same clip can come back twice from the AI; keep one
+        uniq.setdefault(c["id"], c)
+    rated = [c for c in uniq.values() if c["funny"] >= config.CLIP_MIN_FUNNY]
     rated.sort(key=lambda c: c["funny"], reverse=True)
     with_sound = [c for c in rated if c.get("has_audio")]
     if config.CLIP_ORIGINAL_AUDIO and len(with_sound) >= 5:  # clips have their own sound: just rank them
@@ -211,7 +217,7 @@ def find(topic, work, need=7):
         return "none", []
     top5 = sorted(chosen[:5], key=lambda c: c["funny"])  # #5 (least funny) ... #1 (funniest)
     extra = chosen[5:7]
-    intro = extra[0] if extra else top5[-1]
+    intro = extra[0] if extra else top5[-1]  # (a ranked clip is only reused if there are no spares)
     outro = extra[1] if len(extra) > 1 else top5[-2]
     order = [intro] + top5 + [outro]
     for k, c in enumerate(order):
