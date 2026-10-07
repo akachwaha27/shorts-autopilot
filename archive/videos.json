@@ -91,7 +91,7 @@
   "voice": "en-GB-RyanNeural",
   "youtube_id": "x_oFEEa_ZYw",
   "youtube_stats": {
-   "checked_at": "2026-10-07T13:53:24.863729+00:00",
+   "checked_at": "2026-10-07T19:44:53.233411+00:00",
    "comments": 1,
    "likes": 5,
    "privacy": "public",
@@ -192,7 +192,7 @@
   "voice": "en-GB-SoniaNeural",
   "youtube_id": "ULFlC_DQZFA",
   "youtube_stats": {
-   "checked_at": "2026-10-07T13:53:24.863788+00:00",
+   "checked_at": "2026-10-07T19:44:53.233430+00:00",
    "comments": 1,
    "likes": 1,
    "privacy": "public",
@@ -299,7 +299,7 @@
   "voice": "en-IE-ConnorNeural",
   "youtube_id": "SzXGwV_51-4",
   "youtube_stats": {
-   "checked_at": "2026-10-07T13:53:24.863794+00:00",
+   "checked_at": "2026-10-07T19:44:53.233438+00:00",
    "comments": 1,
    "likes": 1,
    "privacy": "public",
@@ -406,7 +406,7 @@
   "voice": "en-US-AriaNeural",
   "youtube_id": "AlkNprbbJys",
   "youtube_stats": {
-   "checked_at": "2026-10-07T13:53:24.863799+00:00",
+   "checked_at": "2026-10-07T19:44:53.233443+00:00",
    "comments": 1,
    "likes": 0,
    "privacy": "public",
@@ -611,13 +611,13 @@
   "voice": "en-US-AndrewMultilingualNeural",
   "youtube_id": "cwTfLWYr-vs",
   "youtube_stats": {
-   "checked_at": "2026-10-07T13:53:24.863803+00:00",
+   "checked_at": "2026-10-07T19:44:53.233447+00:00",
    "comments": 1,
    "likes": 0,
    "privacy": "public",
    "published_at": "2026-10-06T20:45:38Z",
    "title": "5 Sports Records That May Never Be Broken 🏆",
-   "views": 15
+   "views": 17
   }
  },
  "2026-10-04-2": {
@@ -751,13 +751,13 @@
   "voice": "en-US-EmmaMultilingualNeural",
   "youtube_id": "wo3lD4_JXBI",
   "youtube_stats": {
-   "checked_at": "2026-10-07T13:53:24.863807+00:00",
+   "checked_at": "2026-10-07T19:44:53.233452+00:00",
    "comments": 1,
    "likes": 0,
    "privacy": "public",
    "published_at": "2026-10-06T19:45:06Z",
    "title": "Hidden Phone Camera Tricks for Better Photos 📸",
-   "views": 113
+   "views": 132
   }
  },
  "2026-10-05-1": {
@@ -861,13 +861,13 @@
   "voice": "en-US-AvaMultilingualNeural",
   "youtube_id": "zpVz53oUng8",
   "youtube_stats": {
-   "checked_at": "2026-10-07T13:53:24.863810+00:00",
+   "checked_at": "2026-10-07T19:44:53.233456+00:00",
    "comments": 1,
    "likes": 0,
    "privacy": "public",
    "published_at": "2026-10-07T00:30:05Z",
    "title": "5 Animals With Zero Survival Instincts 😂",
-   "views": 20
+   "views": 22
   }
  },
  "2026-10-05-2": {
@@ -969,13 +969,13 @@
   "voice": "en-AU-WilliamMultilingualNeural",
   "youtube_id": "YnklFormw-k",
   "youtube_stats": {
-   "checked_at": "2026-10-07T13:53:24.863814+00:00",
+   "checked_at": "2026-10-07T19:44:53.233459+00:00",
    "comments": 1,
    "likes": 0,
    "privacy": "public",
    "published_at": "2026-10-06T23:00:20Z",
    "title": "5 Board Game Rules You've Probably Been Playing Wrong 🎲",
-   "views": 14
+   "views": 15
   }
  },
  "2026-10-05-3": {
@@ -1077,7 +1077,7 @@
   "voice": "en-US-AndrewMultilingualNeural",
   "youtube_id": "APj9byFXpkE",
   "youtube_stats": {
-   "checked_at": "2026-10-07T13:53:24.863817+00:00",
+   "checked_at": "2026-10-07T19:44:53.233463+00:00",
    "comments": 1,
    "likes": 0,
    "privacy": "public",
@@ -1182,13 +1182,13 @@
   "voice": "en-US-BrianMultilingualNeural",
   "youtube_id": "jbjlNcYG7EY",
   "youtube_stats": {
-   "checked_at": "2026-10-07T13:53:24.863821+00:00",
+   "checked_at": "2026-10-07T19:44:53.233467+00:00",
    "comments": 1,
    "likes": 0,
    "privacy": "public",
    "published_at": "2026-10-06T16:00:12Z",
    "title": "3 Phone Settings Worth Changing Today 📱",
-   "views": 11
+   "views": 13
   }
  },
  "2026-10-06-1": {
@@ -1280,7 +1280,7 @@
   "voice": "en-US-BrianMultilingualNeural",
   "youtube_id": "R9g9KGmMp4Q",
   "youtube_stats": {
-   "checked_at": "2026-10-07T13:53:24.863825+00:00",
+   "checked_at": "2026-10-07T19:44:53.233470+00:00",
    "comments": 0,
    "likes": 0,
    "privacy": "private",
@@ -1293,7 +1293,6 @@
   "angle": "A countdown of the most incredible upcoming cosmic events visible from Earth that you shouldn't miss.",
   "approved_by": "auto",
   "category": "27",
-  "comments_note": "<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=YkmLIkMsEp4",
   "credits": [
    "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-AU-WilliamMultilingualNeural).",
    "Stock footage/photos (Pexels/Pixabay Content License): ZT_OSCAR (Pixabay) https://pixabay.com/videos/id-283666/; Kanenori (Pixabay) https://pixabay.com/videos/id-285663/; Osckar (Pixabay) https://pixabay.com/videos/id-2118/; BlenderTimer (Pixabay) https://pixabay.com/photos/water-ocean-underwater-sea-sky-6061472/; TBIT (Pixabay) https://pixabay.com/videos/id-1175/; xBriantcx (Pixabay) https://pixabay.com/videos/id-247208/",
@@ -1335,6 +1334,7 @@
    "Saturn can be viewed with basic backyard telescopes.",
    "Total lunar eclipses cause the moon to turn a deep copper or red color."
   ],
+  "latest_comments": [],
   "pinned_comment": "Which of these cosmic sights are you hoping to catch through your telescope this month? Let me know below!",
   "platforms": {
    "Facebook": {
@@ -1390,20 +1390,19 @@
   "voice": "en-AU-WilliamMultilingualNeural",
   "youtube_id": "YkmLIkMsEp4",
   "youtube_stats": {
-   "checked_at": "2026-10-07T13:53:24.863828+00:00",
+   "checked_at": "2026-10-07T19:44:53.233474+00:00",
    "comments": 0,
    "likes": 0,
-   "privacy": "private",
-   "published_at": "2026-10-07T00:33:12Z",
+   "privacy": "public",
+   "published_at": "2026-10-07T16:00:12Z",
    "title": "5 Space Events You Can See This Month 🔭",
-   "views": 0
+   "views": 4
   }
  },
  "2026-10-06-3": {
   "angle": "A countdown of the weirdest, funniest bugs and error messages users have ever encountered on their phones.",
   "approved_by": "auto",
   "category": "23",
-  "comments_note": "<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=ia9-sh44BqQ",
   "credits": [
    "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-EmmaMultilingualNeural).",
    "Stock footage/photos (Pexels/Pixabay Content License): mephala1980 (Pixabay) https://pixabay.com/videos/id-38084/; DistillVideos (Pixabay) https://pixabay.com/videos/id-1110/; TheDigitalArtist (Pixabay) https://pixabay.com/videos/id-3264/; MozoMozo (Pixabay) https://pixabay.com/videos/id-171178/; Activedia (Pixabay) https://pixabay.com/videos/id-1360/; Coverr-Free-Footage (Pixabay) https://pixabay.com/videos/id-1656/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-729/; Eartvideos (Pixabay) https://pixabay.com/videos/id-150957/; Eartvideos (Pixabay) https://pixabay.com/videos/id-150959/; Kanenori (Pixabay) https://pixabay.com/videos/id-327359/; Natures_Embrace (Pixabay) https://pixabay.com/videos/id-202987/; YRDesigns (Pixabay) https://pixabay.com/videos/id-290480/; tarinul_amin (Pixabay) https://pixabay.com/videos/id-181424/; YRDesigns (Pixabay) https://pixabay.com/videos/id-290478/; TheDigitalArtist (Pixabay) https://pixabay.com/videos/id-1063/; Activedia (Pixabay) https://pixabay.com/videos/id-1372/; Payne_Backgrounds (Pixabay) https://pixabay.com/videos/id-108095/; Stuck1 (Pixabay) https://pixabay.com/videos/id-32938/; RostislavUzunov (Pixabay) https://pixabay.com/videos/id-237500/; Engin_Akyurt (Pixabay) https://pixabay.com/videos/id-61298/"
@@ -1433,6 +1432,7 @@
    "Battery percentage indicators can glitch to display incorrect high values.",
    "Camera preview loops can create visual inception effects."
   ],
+  "latest_comments": [],
   "pinned_comment": "Which of these smartphone glitches would make you throw your phone right out the window?",
   "platforms": {
    "Facebook": {
@@ -1489,11 +1489,11 @@
   "voice": "en-US-EmmaMultilingualNeural",
   "youtube_id": "ia9-sh44BqQ",
   "youtube_stats": {
-   "checked_at": "2026-10-07T13:53:24.863831+00:00",
+   "checked_at": "2026-10-07T19:44:53.233477+00:00",
    "comments": 0,
    "likes": 0,
-   "privacy": "private",
-   "published_at": "2026-10-07T00:33:20Z",
+   "privacy": "public",
+   "published_at": "2026-10-07T18:00:16Z",
    "title": "5 Hilarious Smartphone Glitches Caught on Camera 📱",
    "views": 0
   }
@@ -1589,7 +1589,7 @@
   "voice": "en-US-AvaMultilingualNeural",
   "youtube_id": "2w1Pp_h0BNU",
   "youtube_stats": {
-   "checked_at": "2026-10-07T13:53:24.863834+00:00",
+   "checked_at": "2026-10-07T19:44:53.233480+00:00",
    "comments": 0,
    "likes": 0,
    "privacy": "private",
