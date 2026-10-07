@@ -52,10 +52,12 @@ Return JSON: {{"searches": [{{"q": "2-3 words", "must": ["dog"]}}]}}"""
     for q in qs:
         q["q"] = str(q["q"])[:50]
         q["must"] = [str(m) for m in (q.get("must") or [])][:3] or [w for w in q["q"].split() if w in ANIMAL_WORDS][:1] or [q["q"].split()[0]]
-    qs = qs[:10]
-    for animal in ("cat", "dog", "goat"):  # Pixabay tags many genuinely silly clips "funny"
-        qs.append({"q": f"funny {animal}", "must": [animal]})
-    return qs
+    # Stock libraries tag their genuinely silly clips "funny"/"playful"; these searches find far more of them
+    # than very specific ideas like "otter juggling rock" (which mostly return a still otter).
+    fixed = [{"q": f"funny {a}", "must": [a]} for a in
+             ("cat", "dog", "goat", "monkey", "parrot", "duck", "puppy", "kitten", "chicken", "pig", "squirrel", "llama")]
+    fixed += [{"q": q, "must": [q.split()[-1]]} for q in ("playful dog", "playful cat", "jumping goat")]
+    return qs[:5] + fixed
 
 
 def _candidates(q, seen):
@@ -175,8 +177,12 @@ def find(topic, work, need=7):
     seen, pool = set(), []
     qs = _queries(topic)
     for q in qs:
-        pool += _candidates(q, seen)[:4]
-        if len(pool) >= 40:
+        found = _candidates(q, seen)
+        # clips tagged funny / playful / an action first
+        found.sort(key=lambda c: -len(_words(c["text"]) & {"funny", "playful", "jump", "jumping", "dance", "dancing",
+                                                           "play", "playing", "silly", "crazy", "fun", "run", "running"}))
+        pool += found[:4]
+        if len(pool) >= 60:
             break
     _note(f"{len(pool)} candidate clips from searches: " + ", ".join(q["q"] for q in qs))
     rated, batch, strips = [], [], 0
@@ -201,6 +207,8 @@ def find(topic, work, need=7):
     for c in rated:  # the same clip can come back twice from the AI; keep one
         uniq.setdefault(c["id"], c)
     rated = [c for c in uniq.values() if c["funny"] >= config.CLIP_MIN_FUNNY]
+    if len(rated) < 5:  # a thin day: allow "mildly funny" (one point lower) rather than giving up
+        rated = [c for c in uniq.values() if c["funny"] >= config.CLIP_MIN_FUNNY - 1]
     rated.sort(key=lambda c: c["funny"], reverse=True)
     with_sound = [c for c in rated if c.get("has_audio")]
     if config.CLIP_ORIGINAL_AUDIO and len(with_sound) >= 5:  # clips have their own sound: just rank them
