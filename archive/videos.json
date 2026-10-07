@@ -91,7 +91,7 @@
   "voice": "en-GB-RyanNeural",
   "youtube_id": "x_oFEEa_ZYw",
   "youtube_stats": {
-   "checked_at": "2026-10-06T21:02:57.343072+00:00",
+   "checked_at": "2026-10-07T00:33:01.992787+00:00",
    "comments": 1,
    "likes": 5,
    "privacy": "public",
@@ -192,7 +192,7 @@
   "voice": "en-GB-SoniaNeural",
   "youtube_id": "ULFlC_DQZFA",
   "youtube_stats": {
-   "checked_at": "2026-10-06T21:02:57.343094+00:00",
+   "checked_at": "2026-10-07T00:33:01.992804+00:00",
    "comments": 1,
    "likes": 1,
    "privacy": "public",
@@ -299,7 +299,7 @@
   "voice": "en-IE-ConnorNeural",
   "youtube_id": "SzXGwV_51-4",
   "youtube_stats": {
-   "checked_at": "2026-10-06T21:02:57.343101+00:00",
+   "checked_at": "2026-10-07T00:33:01.992811+00:00",
    "comments": 1,
    "likes": 1,
    "privacy": "public",
@@ -406,13 +406,13 @@
   "voice": "en-US-AriaNeural",
   "youtube_id": "AlkNprbbJys",
   "youtube_stats": {
-   "checked_at": "2026-10-06T21:02:57.343105+00:00",
+   "checked_at": "2026-10-07T00:33:01.992816+00:00",
    "comments": 1,
    "likes": 0,
    "privacy": "public",
    "published_at": "2026-10-04T05:57:11Z",
    "title": "5 of the Hottest Places, Ranked From Hot to Insane 🔥",
-   "views": 59
+   "views": 60
   }
  },
  "2026-10-03-2": {
@@ -603,13 +603,13 @@
   "voice": "en-US-AndrewMultilingualNeural",
   "youtube_id": "cwTfLWYr-vs",
   "youtube_stats": {
-   "checked_at": "2026-10-06T21:02:57.343109+00:00",
+   "checked_at": "2026-10-07T00:33:01.992820+00:00",
    "comments": 0,
    "likes": 0,
    "privacy": "public",
    "published_at": "2026-10-06T20:45:38Z",
    "title": "5 Sports Records That May Never Be Broken 🏆",
-   "views": 2
+   "views": 10
   }
  },
  "2026-10-04-2": {
@@ -735,20 +735,19 @@
   "voice": "en-US-EmmaMultilingualNeural",
   "youtube_id": "wo3lD4_JXBI",
   "youtube_stats": {
-   "checked_at": "2026-10-06T21:02:57.343113+00:00",
+   "checked_at": "2026-10-07T00:33:01.992825+00:00",
    "comments": 0,
    "likes": 0,
    "privacy": "public",
    "published_at": "2026-10-06T19:45:06Z",
    "title": "Hidden Phone Camera Tricks for Better Photos 📸",
-   "views": 8
+   "views": 56
   }
  },
  "2026-10-05-1": {
   "angle": "A humorous countdown of hilarious animals that somehow survive despite having zero common sense.",
   "approved_by": "you",
   "category": "23",
-  "comments_note": "<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=zpVz53oUng8",
   "credits": [
    "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AvaMultilingualNeural).",
    "Stock footage/photos (Pexels/Pixabay Content License): Solarselle77 (Pixabay) https://pixabay.com/videos/id-311938/; deeanaarts (Pixabay) https://pixabay.com/videos/id-272801/; Luiz-Jorge-Artista (Pixabay) https://pixabay.com/videos/id-3017/; bijan6207 (Pixabay) https://pixabay.com/videos/id-214669/; TRAPHITHO (Pixabay) https://pixabay.com/videos/id-22083/; JoshuaWoroniecki (Pixabay) https://pixabay.com/videos/id-272562/; Macb3t (Pixabay) https://pixabay.com/videos/id-16160/; 素君 (Pixabay) https://pixabay.com/videos/id-137015/; Engin_Akyurt (Pixabay) https://pixabay.com/videos/id-232641/; Mujibarsk_786 (Pixabay) https://pixabay.com/videos/id-183638/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-1080/; NickyPe (Pixabay) https://pixabay.com/videos/id-87155/; Eaktas06 (Pixabay) https://pixabay.com/videos/id-171255/; ghasoub (Pixabay) https://pixabay.com/videos/id-152798/; DavidClode (Pixabay) https://pixabay.com/videos/id-304418/; Motionwell (Pixabay) https://pixabay.com/videos/id-336603/; j7126 (Pixabay) https://pixabay.com/videos/id-177369/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-1438/; bijan6207 (Pixabay) https://pixabay.com/videos/id-213564/; Alexas_Fotos (Pixabay) https://pixabay.com/videos/id-3723/"
@@ -778,6 +777,7 @@
    "Secretary birds hunt venomous snakes by stomping on them with long legs.",
    "Koalas have remarkably smooth brains and typically only eat fresh eucalyptus leaves attached to branches."
   ],
+  "latest_comments": [],
   "pinned_comment": "Which of these brainless buddies do you think is winging it the most in the wild? Let us know below! 🐾",
   "platforms": {
    "Facebook": {
@@ -837,11 +837,11 @@
   "voice": "en-US-AvaMultilingualNeural",
   "youtube_id": "zpVz53oUng8",
   "youtube_stats": {
-   "checked_at": "2026-10-06T21:02:57.343117+00:00",
+   "checked_at": "2026-10-07T00:33:01.992828+00:00",
    "comments": 0,
    "likes": 0,
-   "privacy": "private",
-   "published_at": "2026-10-05T23:05:35Z",
+   "privacy": "public",
+   "published_at": "2026-10-07T00:30:05Z",
    "title": "5 Animals With Zero Survival Instincts 😂",
    "views": 0
   }
@@ -850,7 +850,6 @@
   "angle": "A hilarious look at the house rules families invent because no one actually reads the manual.",
   "approved_by": "you",
   "category": "23",
-  "comments_note": "<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=YnklFormw-k",
   "credits": [
    "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-AU-WilliamMultilingualNeural).",
    "Stock footage/photos (Pexels/Pixabay Content License): OrcaTec (Pixabay) https://pixabay.com/videos/id-19600/; iddea_photo (Pixabay) https://pixabay.com/videos/id-253998/; OrcaTec (Pixabay) https://pixabay.com/videos/id-19459/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-1306/; TRAPHITHO (Pixabay) https://pixabay.com/videos/id-27889/; Kaffeesüchtig (Pixabay) https://pixabay.com/videos/id-275052/; AndyOlsha (Pixabay) https://pixabay.com/videos/id-89985/; tommyvideo (Pixabay) https://pixabay.com/videos/id-5393/; OrcaTec (Pixabay) https://pixabay.com/videos/id-19598/; 8385 (Pixabay) https://pixabay.com/videos/id-632/; Coverr-Free-Footage (Pixabay) https://pixabay.com/videos/id-1651/; tommyvideo (Pixabay) https://pixabay.com/videos/id-96200/; Graufilter (Pixabay) https://pixabay.com/videos/id-32384/; MixailMixail (Pixabay) https://pixabay.com/videos/id-4216/; Graufilter (Pixabay) https://pixabay.com/videos/id-32386/; franganillo (Pixabay) https://pixabay.com/videos/id-41948/; Thomas-Ritter (Pixabay) https://pixabay.com/videos/id-7118/; KlausHausmann (Pixabay) https://pixabay.com/videos/id-8625/; Kanenori (Pixabay) https://pixabay.com/videos/id-250395/; Talha_Rajpoot0786 (Pixabay) https://pixabay.com/videos/id-216098/; AlexKopeykin (Pixabay) https://pixabay.com/videos/id-42695/"
@@ -880,6 +879,7 @@
    "In Clue, you do not lose a turn for a wrong suggestion.",
    "In Scrabble, you cannot use proper nouns."
   ],
+  "latest_comments": [],
   "pinned_comment": "Which fake rule has caused the biggest fight in your family game nights? Let me know below!",
   "platforms": {
    "Facebook": {
@@ -937,13 +937,13 @@
   "voice": "en-AU-WilliamMultilingualNeural",
   "youtube_id": "YnklFormw-k",
   "youtube_stats": {
-   "checked_at": "2026-10-06T21:02:57.343121+00:00",
+   "checked_at": "2026-10-07T00:33:01.992832+00:00",
    "comments": 0,
    "likes": 0,
-   "privacy": "private",
-   "published_at": "2026-10-05T23:05:43Z",
+   "privacy": "public",
+   "published_at": "2026-10-06T23:00:20Z",
    "title": "5 Board Game Rules You've Probably Been Playing Wrong 🎲",
-   "views": 0
+   "views": 1
   }
  },
  "2026-10-05-3": {
@@ -1037,13 +1037,13 @@
   "voice": "en-US-AndrewMultilingualNeural",
   "youtube_id": "APj9byFXpkE",
   "youtube_stats": {
-   "checked_at": "2026-10-06T21:02:57.343125+00:00",
+   "checked_at": "2026-10-07T00:33:01.992836+00:00",
    "comments": 0,
    "likes": 0,
    "privacy": "public",
    "published_at": "2026-10-06T17:30:01Z",
    "title": "5 Everyday Objects Way Older Than You Think 🏺",
-   "views": 0
+   "views": 3
   }
  },
  "2026-10-05-4": {
@@ -1134,18 +1134,18 @@
   "voice": "en-US-BrianMultilingualNeural",
   "youtube_id": "jbjlNcYG7EY",
   "youtube_stats": {
-   "checked_at": "2026-10-06T21:02:57.343128+00:00",
+   "checked_at": "2026-10-07T00:33:01.992839+00:00",
    "comments": 0,
    "likes": 0,
    "privacy": "public",
    "published_at": "2026-10-06T16:00:12Z",
    "title": "3 Phone Settings Worth Changing Today 📱",
-   "views": 4
+   "views": 6
   }
  },
  "2026-10-06-1": {
   "angle": "Counting down the most hilariously bad camouflage attempts in the animal kingdom, proving that confidence is everything.",
-  "approved_by": "",
+  "approved_by": "auto",
   "category": "23",
   "comments_note": "<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=Adve1NXjcl0",
   "credits": [
@@ -1178,12 +1178,29 @@
    "Red pandas possess reddish-brown fur."
   ],
   "pinned_comment": "Which of these terrible hiders do you think gave up the easiest? Let me know below!",
-  "platforms": {},
+  "platforms": {
+   "Facebook": {
+    "link": null,
+    "status": "skipped (not configured)"
+   },
+   "Instagram": {
+    "link": null,
+    "status": "skipped (not configured)"
+   },
+   "TikTok": {
+    "link": null,
+    "status": "skipped (not configured)"
+   },
+   "YouTube": {
+    "link": "https://youtube.com/shorts/R9g9KGmMp4Q",
+    "status": "private · thumbnail ✅ · subtitles ✅ · comment ⚠️ needs a verified channel (youtube.com/verify)"
+   }
+  },
   "primary_keyword": "top 5 animals",
   "redos": 0,
-  "scheduled_for": "",
+  "scheduled_for": "2026-10-07T01:15:00+00:00",
   "script": "Some animals rely on camouflage to survive, but these ones missed that memo completely. Number five. The snowflake eel lives in bright yellow coral, yet boasts bold black leopard spots that scream look at me from across the reef. At number four, we have the giant panda. Black and white fur stands out against green bamboo like a tuxedo at a muddy playground. Number three. The ptarmigan turns stark white in winter, which is great until there is zero snow and it looks like a wandering marshmallow. At number two, the peacock spider tries to hide on green leaves while flashing neon pink and electric blue like a tiny floating disco ball. Number one. The red panda thinks sitting in a bright green tree wearing fiery red fur is totally stealthy, but it is basically a walking stop sign. Confidence is everything, because some animals rely on camouflage to survive, but...",
-  "status": "awaiting_approval",
+  "status": "published",
   "subtitles_srt": "1\n00:00:00,095 --> 00:00:03,628\nSome animals rely on camouflage to survive\n\n2\n00:00:03,628 --> 00:00:06,617\nbut these ones missed that memo completely\n\n3\n00:00:06,617 --> 00:00:09,429\nNumber five The snowflake eel lives in\n\n4\n00:00:09,429 --> 00:00:12,731\nbright yellow coral yet boasts bold black\n\n5\n00:00:12,731 --> 00:00:14,783\nleopard spots that scream look at me\n\n6\n00:00:14,783 --> 00:00:17,305\nfrom across the reef At number four\n\n7\n00:00:17,305 --> 00:00:19,660\nwe have the giant panda Black and\n\n8\n00:00:19,660 --> 00:00:22,296\nwhite fur stands out against green bamboo\n\n9\n00:00:22,296 --> 00:00:24,986\nlike a tuxedo at a muddy playground\n\n10\n00:00:24,986 --> 00:00:27,948\nNumber three The ptarmigan turns stark white\n\n11\n00:00:27,948 --> 00:00:30,435\nin winter which is great until there\n\n12\n00:00:30,435 --> 00:00:32,174\nis zero snow and it looks like\n\n13\n00:00:32,174 --> 00:00:35,380\na wandering marshmallow At number two the\n\n14\n00:00:35,380 --> 00:00:37,704\npeacock spider tries to hide on green\n\n15\n00:00:37,704 --> 00:00:40,815\nleaves while flashing neon pink and electric\n\n16\n00:00:40,815 --> 00:00:43,927\nblue like a tiny floating disco ball\n\n17\n00:00:43,927 --> 00:00:46,535\nNumber one The red panda thinks sitting\n\n18\n00:00:46,535 --> 00:00:48,546\nin a bright green tree wearing fiery\n\n19\n00:00:48,546 --> 00:00:51,182\nred fur is totally stealthy but it\n\n20\n00:00:51,182 --> 00:00:54,198\nis basically a walking stop sign Confidence\n\n21\n00:00:54,198 --> 00:00:56,712\nis everything because some animals rely on\n\n22\n00:00:56,712 --> 00:00:59,395\ncamouflage to survive but\n",
   "tags": [
    "top 5 animals",
@@ -1209,13 +1226,13 @@
   "thumbnail_text": "Failed Hiding",
   "title": "Top 5 Animals That Fail At Camouflage",
   "trend_source": "evergreen",
-  "updated": "2026-10-06T21:06:03.869043+00:00",
-  "uploaded_at": "",
+  "updated": "2026-10-07T00:33:10.498712+00:00",
+  "uploaded_at": "2026-10-07T00:33:10.498726+00:00",
   "virality_score": 10,
   "voice": "en-US-BrianMultilingualNeural",
-  "youtube_id": "Adve1NXjcl0",
+  "youtube_id": "R9g9KGmMp4Q",
   "youtube_stats": {
-   "checked_at": "2026-10-06T21:02:57.343131+00:00",
+   "checked_at": "2026-10-07T00:33:01.992843+00:00",
    "comments": 0,
    "likes": 0,
    "privacy": "private",
@@ -1226,7 +1243,7 @@
  },
  "2026-10-06-2": {
   "angle": "A countdown of the most incredible upcoming cosmic events visible from Earth that you shouldn't miss.",
-  "approved_by": "",
+  "approved_by": "auto",
   "category": "27",
   "credits": [
    "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-AU-WilliamMultilingualNeural).",
@@ -1270,12 +1287,29 @@
    "Total lunar eclipses cause the moon to turn a deep copper or red color."
   ],
   "pinned_comment": "Which of these cosmic sights are you hoping to catch through your telescope this month? Let me know below!",
-  "platforms": {},
+  "platforms": {
+   "Facebook": {
+    "link": null,
+    "status": "skipped (not configured)"
+   },
+   "Instagram": {
+    "link": null,
+    "status": "skipped (not configured)"
+   },
+   "TikTok": {
+    "link": null,
+    "status": "skipped (not configured)"
+   },
+   "YouTube": {
+    "link": "https://youtube.com/shorts/YkmLIkMsEp4",
+    "status": "private · thumbnail ✅ · subtitles ✅ · comment ⚠️ needs a verified channel (youtube.com/verify)"
+   }
+  },
   "primary_keyword": "top 5 space events",
   "redos": 0,
-  "scheduled_for": "",
+  "scheduled_for": "2026-10-07T16:15:00+00:00",
   "script": "You seriously won't believe what our night sky is about to do this month. Number five, the brilliant Venus and Jupiter close encounter lights up dawn. You can spot this stunning pair shining brightly together just before sunrise without any telescope at all. At number four, the Lyrid meteor shower peak arrives mid-month. Find a dark spot away from city lights, kick back, and you might catch up to twenty shooting stars every single hour. Number three brings us a gorgeous crescent moon near Mars. Wait until dusk settles, and you will see the red planet glowing with a distinct amber hue right beside our lunar neighbor. At number two, Saturn rings reach optimal tilt. Grab even a basic backyard telescope, and you will clearly see those iconic gas giant rings popping into crisp and stunning focus. And the absolute best at number one, a rare total lunar eclipse turns the moon blood red. For over an hour, the entire lunar disk glows in deep copper, and you seriously won't believe your eyes when you look up. So grab your jacket tonight because you seriously won't believe",
-  "status": "awaiting_approval",
+  "status": "published",
   "subtitles_srt": "1\n00:00:00,050 --> 00:00:01,997\nYou seriously won't believe what our night\n\n2\n00:00:01,997 --> 00:00:03,860\nsky is about to do this month\n\n3\n00:00:03,860 --> 00:00:06,745\nNumber five the brilliant Venus and Jupiter close\n\n4\n00:00:06,745 --> 00:00:09,161\nencounter lights up dawn You can spot\n\n5\n00:00:09,161 --> 00:00:11,156\nthis stunning pair shining brightly together\n\n6\n00:00:11,156 --> 00:00:13,379\njust before sunrise without any telescope at\n\n7\n00:00:13,379 --> 00:00:16,024\nall At number four the Lyrid meteor\n\n8\n00:00:16,024 --> 00:00:18,512\nshower peak arrives mid-month Find a dark\n\n9\n00:00:18,512 --> 00:00:20,951\nspot away from city lights kick back\n\n10\n00:00:20,951 --> 00:00:22,093\nand you might catch up to twenty\n\n11\n00:00:22,093 --> 00:00:24,870\nshooting stars every single hour Number three\n\n12\n00:00:24,870 --> 00:00:26,576\nbrings us a gorgeous crescent moon near\n\n13\n00:00:26,576 --> 00:00:29,305\nMars Wait until dusk settles and you\n\n14\n00:00:29,305 --> 00:00:30,855\nwill see the red planet glowing with\n\n15\n00:00:30,855 --> 00:00:32,802\na distinct amber hue right beside our\n\n16\n00:00:32,802 --> 00:00:35,675\nlunar neighbor At number two Saturn rings\n\n17\n00:00:35,675 --> 00:00:38,127\nreach optimal tilt Grab even a basic\n\n18\n00:00:38,127 --> 00:00:40,302\nbackyard telescope and you will clearly see\n\n19\n00:00:40,302 --> 00:00:42,406\nthose iconic gas giant rings popping into\n\n20\n00:00:42,406 --> 00:00:45,014\ncrisp and stunning focus And the absolute\n\n21\n00:00:45,014 --> 00:00:47,021\nbest at number one a rare total\n\n22\n00:00:47,021 --> 00:00:49,377\nlunar eclipse turns the moon blood red\n\n23\n00:00:49,377 --> 00:00:51,408\nFor over an hour the entire lunar\n\n24\n00:00:51,408 --> 00:00:53,367\ndisk glows in deep copper and you\n\n25\n00:00:53,367 --> 00:00:55,098\nseriously won't believe your eyes when you\n\n26\n00:00:55,098 --> 00:00:57,274\nlook up So grab your jacket tonight\n\n27\n00:00:57,274 --> 00:00:59,440\nbecause you seriously won't believe\n",
   "tags": [
    "top 5 space events",
@@ -1301,14 +1335,15 @@
   "thumbnail_text": "DON'T MISS THIS",
   "title": "Top 5 Space Events This Month You Cannot Miss",
   "trend_source": "crescent moon jupiter",
-  "updated": "2026-10-06T21:08:14.824026+00:00",
-  "uploaded_at": "",
+  "updated": "2026-10-07T00:33:18.498333+00:00",
+  "uploaded_at": "2026-10-07T00:33:18.498345+00:00",
   "virality_score": 9,
-  "voice": "en-AU-WilliamMultilingualNeural"
+  "voice": "en-AU-WilliamMultilingualNeural",
+  "youtube_id": "YkmLIkMsEp4"
  },
  "2026-10-06-3": {
   "angle": "A countdown of the weirdest, funniest bugs and error messages users have ever encountered on their phones.",
-  "approved_by": "",
+  "approved_by": "auto",
   "category": "23",
   "credits": [
    "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-EmmaMultilingualNeural).",
@@ -1340,12 +1375,29 @@
    "Camera preview loops can create visual inception effects."
   ],
   "pinned_comment": "Which of these smartphone glitches would make you throw your phone right out the window?",
-  "platforms": {},
+  "platforms": {
+   "Facebook": {
+    "link": null,
+    "status": "skipped (not configured)"
+   },
+   "Instagram": {
+    "link": null,
+    "status": "skipped (not configured)"
+   },
+   "TikTok": {
+    "link": null,
+    "status": "skipped (not configured)"
+   },
+   "YouTube": {
+    "link": "https://youtube.com/shorts/ia9-sh44BqQ",
+    "status": "private · thumbnail ✅ · subtitles ✅ · comment ⚠️ needs a verified channel (youtube.com/verify)"
+   }
+  },
   "primary_keyword": "smartphone glitches",
   "redos": 0,
-  "scheduled_for": "",
+  "scheduled_for": "2026-10-07T19:15:00+00:00",
   "script": "Your phone is spying on you, and honestly, it's just really confused about what it's doing. Number five, the infinite app drawer spiral. Your apps just dance in circles like they joined a conga line. At number four, the ghost touch typing. It texts your boss pure gibberish while you sleep. Thanks a lot, artificial intelligence. Number three, the upside down world. Your screen flips and refuses to change back, forcing you to read everything like a bat. At number two, the billion percent battery. It claims your phone can power a small city for a decade before dying instantly. Number one, the wallpaper inception. Your camera shows your home screen inside your home screen forever, creating a portal to nowhere. Seriously, it is amazing that your phone is spying on you, and honestly, it's just really confused.",
-  "status": "awaiting_approval",
+  "status": "published",
   "subtitles_srt": "1\n00:00:00,109 --> 00:00:02,052\nYour phone is spying on you and\n\n2\n00:00:02,052 --> 00:00:04,823\nhonestly it's just really confused about what\n\n3\n00:00:04,823 --> 00:00:07,690\nit's doing Number five the infinite app\n\n4\n00:00:07,690 --> 00:00:10,516\ndrawer spiral Your apps just dance in\n\n5\n00:00:10,516 --> 00:00:13,166\ncircles like they joined a conga line\n\n6\n00:00:13,166 --> 00:00:16,250\nAt number four the ghost touch typing\n\n7\n00:00:16,250 --> 00:00:18,356\nIt texts your boss pure gibberish while\n\n8\n00:00:18,356 --> 00:00:22,622\nyou sleep Thanks a lot artificial intelligence\n\n9\n00:00:22,622 --> 00:00:25,340\nNumber three the upside down world Your\n\n10\n00:00:25,340 --> 00:00:28,356\nscreen flips and refuses to change back\n\n11\n00:00:28,356 --> 00:00:30,312\nforcing you to read everything like a\n\n12\n00:00:30,312 --> 00:00:33,179\nbat At number two the billion percent\n\n13\n00:00:33,179 --> 00:00:35,802\nbattery It claims your phone can power\n\n14\n00:00:35,802 --> 00:00:37,826\na small city for a decade before\n\n15\n00:00:37,826 --> 00:00:42,541\ndying instantly Number one the wallpaper inception\n\n16\n00:00:42,541 --> 00:00:44,905\nYour camera shows your home screen inside\n\n17\n00:00:44,905 --> 00:00:47,609\nyour home screen forever creating a portal\n\n18\n00:00:47,609 --> 00:00:50,951\nto nowhere Seriously it is amazing that\n\n19\n00:00:50,951 --> 00:00:53,003\nyour phone is spying on you and\n\n20\n00:00:53,003 --> 00:00:55,903\nhonestly it's just really confused\n",
   "tags": [
    "smartphone glitches",
@@ -1372,14 +1424,15 @@
   "thumbnail_text": "Phone Glitches",
   "title": "Top 5 most absurd smartphone glitches ever",
   "trend_source": "downdetector",
-  "updated": "2026-10-06T21:10:23.129762+00:00",
-  "uploaded_at": "",
+  "updated": "2026-10-07T00:33:28.353622+00:00",
+  "uploaded_at": "2026-10-07T00:33:28.353637+00:00",
   "virality_score": 9,
-  "voice": "en-US-EmmaMultilingualNeural"
+  "voice": "en-US-EmmaMultilingualNeural",
+  "youtube_id": "ia9-sh44BqQ"
  },
  "2026-10-06-4": {
   "angle": "Counting down the most unbelievable final-minute turnarounds in sports history that shocked the world.",
-  "approved_by": "",
+  "approved_by": "auto",
   "category": "27",
   "credits": [
    "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AvaMultilingualNeural).",
@@ -1410,12 +1463,29 @@
    "The 2004 baseball series featured a recovery from a 3-0 deficit to win four straight games."
   ],
   "pinned_comment": "Which of these final-minute turnarounds made your jaw drop the most? Let me know below!",
-  "platforms": {},
+  "platforms": {
+   "Facebook": {
+    "link": null,
+    "status": "skipped (not configured)"
+   },
+   "Instagram": {
+    "link": null,
+    "status": "skipped (not configured)"
+   },
+   "TikTok": {
+    "link": null,
+    "status": "skipped (not configured)"
+   },
+   "YouTube": {
+    "link": "https://youtube.com/shorts/2w1Pp_h0BNU",
+    "status": "private · thumbnail ✅ · subtitles ✅ · comment ⚠️ needs a verified channel (youtube.com/verify)"
+   }
+  },
   "primary_keyword": "historic sports comebacks",
   "redos": 0,
-  "scheduled_for": "",
+  "scheduled_for": "2026-10-07T23:15:00+00:00",
   "script": "Some wins are totally impossible, until they actually happen right before your eyes. Number five, the nineteen ninety nine European football miracle. Two goals in injury time shocked the entire stadium. At number four, the two thousand seventeen football championship comeback. Overcoming a twenty eight three deficit in the second half. Number three, the two thousand ten tennis marathon. Saving five match points before completing an insane five set victory. At number two, the nineteen ninety two basketball playoff stunner. Overcoming a twenty point deficit with just minutes left. Number one, the two thousand four baseball championship sweep reversal. Overcoming three losses to win four straight and make history. History proves that some wins are totally impossible, until they actually happen right before your eyes.",
-  "status": "awaiting_approval",
+  "status": "published",
   "subtitles_srt": "1\n00:00:00,095 --> 00:00:03,016\nSome wins are totally impossible until they\n\n2\n00:00:03,016 --> 00:00:06,005\nactually happen right before your eyes Number\n\n3\n00:00:06,005 --> 00:00:09,062\nfive the nineteen ninety nine European football\n\n4\n00:00:09,062 --> 00:00:12,228\nmiracle Two goals in injury time shocked\n\n5\n00:00:12,228 --> 00:00:15,245\nthe entire stadium At number four the\n\n6\n00:00:15,245 --> 00:00:17,758\ntwo thousand seventeen football championship\n\n7\n00:00:17,758 --> 00:00:21,033\ncomeback Overcoming a twenty eight three deficit\n\n8\n00:00:21,033 --> 00:00:23,777\nin the second half Number three the\n\n9\n00:00:23,777 --> 00:00:27,296\ntwo thousand ten tennis marathon Saving five\n\n10\n00:00:27,296 --> 00:00:30,068\nmatch points before completing an insane five\n\n11\n00:00:30,068 --> 00:00:33,261\nset victory At number two the nineteen\n\n12\n00:00:33,261 --> 00:00:36,590\nninety two basketball playoff stunner Overcoming\n\n13\n00:00:36,590 --> 00:00:38,981\na twenty point deficit with just minutes\n\n14\n00:00:38,981 --> 00:00:42,242\nleft Number one the two thousand four\n\n15\n00:00:42,242 --> 00:00:45,584\nbaseball championship sweep reversal Overcoming\n\n16\n00:00:45,584 --> 00:00:47,989\nthree losses to win four straight and\n\n17\n00:00:47,989 --> 00:00:51,345\nmake history History proves that some wins\n\n18\n00:00:51,345 --> 00:00:54,144\nare totally impossible until they actually\n\n19\n00:00:54,144 --> 00:00:56,242\nhappen right before your eyes\n",
   "tags": [
    "historic sports comebacks",
@@ -1444,9 +1514,10 @@
   "thumbnail_text": "Last Second Shock",
   "title": "Top 5 Historic Sports Comebacks You Won't Believe",
   "trend_source": "alabama vs georgia",
-  "updated": "2026-10-06T21:13:35.696760+00:00",
-  "uploaded_at": "",
+  "updated": "2026-10-07T00:33:35.638063+00:00",
+  "uploaded_at": "2026-10-07T00:33:35.638076+00:00",
   "virality_score": 8,
-  "voice": "en-US-AvaMultilingualNeural"
+  "voice": "en-US-AvaMultilingualNeural",
+  "youtube_id": "2w1Pp_h0BNU"
  }
 }
