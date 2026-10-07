@@ -60,7 +60,7 @@ VISUAL_CHECK = env("VISUAL_CHECK", True, bool)            # Gemini looks at ever
 VISUAL_MIN_SCORE = env("VISUAL_MIN_SCORE", 6, float)      # 0-10: how clearly a clip must show the subject
 CLIPS_PER_DAY = env("CLIPS_PER_DAY", 0, int)             # daily "funniest animal moments" ideas (off: free stock clips are rarely truly funny)
 CLIP_MIN_FUNNY = env("CLIP_MIN_FUNNY", 5, float)         # 0-10: how funny AI must rate a clip to use it
-CLIP_ORIGINAL_AUDIO = env("CLIP_ORIGINAL_AUDIO", True, bool)  # clips with their own sound: rank them, no voiceover
+CLIP_ORIGINAL_AUDIO = env("CLIP_ORIGINAL_AUDIO", False, bool)  # true = clips with their own sound get no voiceover (not monetizable: reused content)
 CLIP_MAX_SECONDS = env("CLIP_MAX_SECONDS", 10, float)     # longest each clip plays in the no-voiceover version
 TOPICS_PER_DAY = env("TOPICS_PER_DAY", 6, int)
 RANKINGS_PER_DAY = env("RANKINGS_PER_DAY", 2, int)     # how many of the daily ideas are "Top 5" countdowns

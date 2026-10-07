@@ -419,7 +419,44 @@ PALETTES = [("0x0b1d51", "0x6a1b9a", "0x00897b"), ("0x1a237e", "0xc2185b", "0xff
             ("0x004d40", "0x1565c0", "0x7b1fa2"), ("0x3e2723", "0xbf360c", "0xf9a825")]
 
 
+FONT = "/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf"
+
+
+def render_remix(c, dur, out, teaser=False):
+    """Edited version of a licensed clip: punch-in on the funniest moment, then an instant replay in slow
+    motion with a zoom and a REPLAY tag. The whole clip stays visible on a blurred copy of itself."""
+    full = duration(c["path"])
+    peak = float(c.get("peak") or full / 2)
+    layout = (f"split[a][b];[a]scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},boxblur=24:2,"
+              f"eq=brightness=-0.08[bg];[b]scale={W}:{H}:force_original_aspect_ratio=decrease[fg];"
+              f"[bg][fg]overlay=(W-w)/2:(H-h)/2,fps={FPS},setsar=1")
+    enc = ["-an", "-c:v", "libx264", "-preset", "veryfast", "-crf", "21", "-pix_fmt", "yuv420p"]
+    if teaser or dur < 4:  # short slot: just the funniest moment, zoomed in a little
+        start = max(0.0, min(peak - dur / 2, full - dur))
+        run(["ffmpeg", "-y", "-ss", f"{start:.2f}", "-stream_loop", "-1", "-i", c["path"], "-t", f"{dur:.3f}",
+             "-vf", f"crop=iw/1.12:ih/1.12,{layout}"] + enc + [out])
+        return out
+    replay = min(3.0, dur * 0.35)          # screen time of the slow-motion replay
+    main = dur - replay
+    start = max(0.0, min(peak - main * 0.6, full - main))  # lead up to the moment, then the moment itself
+    a, b = out + ".a.mp4", out + ".b.mp4"
+    run(["ffmpeg", "-y", "-ss", f"{start:.2f}", "-stream_loop", "-1", "-i", c["path"], "-t", f"{main:.3f}",
+         "-vf", layout] + enc + [a])
+    src = replay / 2                        # half-speed: this much real footage fills the replay slot
+    rs = max(0.0, min(peak - src / 2, full - src))
+    tag = (f"drawtext=fontfile={FONT}:text='REPLAY':fontcolor=white:fontsize=64:box=1:boxcolor=0xE53935@0.9:"
+           f"boxborderw=18:x=(w-text_w)/2:y=h*0.80")
+    run(["ffmpeg", "-y", "-ss", f"{rs:.2f}", "-stream_loop", "-1", "-i", c["path"], "-t", f"{src:.3f}",
+         "-vf", f"setpts=2*PTS,crop=iw/1.35:ih/1.35,{layout},{tag}", "-t", f"{replay:.3f}"] + enc + [b])
+    with open(out + ".txt", "w") as f:
+        f.write(f"file '{os.path.abspath(a)}'\nfile '{os.path.abspath(b)}'\n")
+    run(["ffmpeg", "-y", "-f", "concat", "-safe", "0", "-i", out + ".txt", "-c", "copy", out])
+    return out
+
+
 def render_scene(vis, dur, out):
+    if vis["kind"] == "remix":
+        return render_remix(vis["clip"], dur, out, teaser=bool(vis["clip"].get("teaser")))
     common = ["-t", f"{dur:.3f}", "-r", str(FPS), "-an", "-c:v", "libx264", "-preset", "veryfast",
               "-crf", "22", "-pix_fmt", "yuv420p", out]
     if vis["kind"] == "video":
@@ -533,7 +570,7 @@ def make_video(pkg, out_dir, recent_voices=()):
             if not os.path.exists(c.get("path") or ""):
                 c["path"] = os.path.join(out_dir, f"clip{i}.mp4")
                 _download(c["url"], c["path"])
-            shots = [{"kind": "video", "path": c["path"], "credit": c["credit"], "checked": True, "center": True}]
+            shots = [{"kind": "remix", "clip": c, "path": c["path"], "credit": c["credit"], "checked": True}]
         elif config.VISUALS == "ai":
             shots = [get_visual(dict(scene), f"{i}_{k}", out_dir, used, plan) for k in range(n)]
         else:

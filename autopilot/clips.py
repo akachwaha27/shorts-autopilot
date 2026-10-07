@@ -91,6 +91,11 @@ def _candidates(q, seen):
                                 "credit": f'{v["user"]["name"]} (Pexels) {v["url"]}'})
         except Exception as e:  # noqa: BLE001
             print(f"  pexels clips failed for '{q['q']}': {str(e)[:100]}")
+    for fn in (_commons_videos, _archive_videos):
+        try:
+            out += fn(q["q"])
+        except Exception as e:  # noqa: BLE001
+            print(f"  {fn.__name__} failed for '{q['q']}': {str(e)[:100]}")
     keep = []
     for c in out:
         if c["id"] in seen or not _mentions(_words(c["text"]), q["must"]):
@@ -98,6 +103,59 @@ def _candidates(q, seen):
         seen.add(c["id"])
         keep.append(c)
     return keep
+
+
+OPEN_LICENSE = re.compile(r"^(cc0|public domain|pd|cc by \d(\.\d)?|cc-by-\d(\.\d)?)$", re.I)  # no -SA / -ND / -NC
+
+
+def _commons_videos(q):
+    """Wikimedia Commons videos under CC0 / public domain / CC BY (remixing allowed, credit required)."""
+    import html
+    r = requests.get("https://commons.wikimedia.org/w/api.php", headers=UA, timeout=30, params={
+        "action": "query", "format": "json", "generator": "search", "gsrnamespace": 6, "gsrlimit": 20,
+        "gsrsearch": f"{q} filetype:video", "prop": "imageinfo", "iiprop": "url|size|extmetadata"})
+    r.raise_for_status()
+    out = []
+    for page in (r.json().get("query", {}).get("pages", {}) or {}).values():
+        info = (page.get("imageinfo") or [{}])[0]
+        meta = info.get("extmetadata", {})
+        lic = meta.get("LicenseShortName", {}).get("value", "").strip()
+        dur = float(info.get("duration") or 0)  # 0 = unknown; measured after the preview download
+        if not OPEN_LICENSE.match(lic) or (dur and not 3 <= dur <= 60) or info.get("size", 0) > 40 << 20:
+            continue
+        artist = re.sub(r"\s+", " ", html.unescape(re.sub(r"<[^>]+>", " ", meta.get("Artist", {}).get("value", "Unknown")))).strip()
+        out.append({"id": f"wmv{page['pageid']}", "text": page.get("title", "").replace("_", " ") + " "
+                    + re.sub(r"<[^>]+>", " ", meta.get("ImageDescription", {}).get("value", ""))[:200],
+                    "preview": info["url"], "url": info["url"], "duration": dur,
+                    "credit": f"{artist[:60] or 'Unknown'} / Wikimedia Commons ({lic}) {info.get('descriptionurl', '')}"})
+    return out
+
+
+def _archive_videos(q):
+    """Internet Archive videos marked public domain or CC BY (remixing allowed, credit required)."""
+    r = requests.get("https://archive.org/advancedsearch.php", timeout=30, params={
+        "q": f'({q}) AND mediatype:movies AND (licenseurl:*publicdomain* OR licenseurl:*licenses/by/*)',
+        "fl[]": ["identifier", "title", "creator", "licenseurl", "subject"], "rows": 15, "output": "json"})
+    r.raise_for_status()
+    out = []
+    for d in r.json().get("response", {}).get("docs", [])[:8]:
+        ident = d["identifier"]
+        try:
+            files = requests.get(f"https://archive.org/metadata/{ident}/files", timeout=30).json().get("result", [])
+        except Exception:  # noqa: BLE001
+            continue
+        vids = [f for f in files if str(f.get("name", "")).lower().endswith(".mp4")
+                and 3 <= float(f.get("length") or 0) <= 60 and int(f.get("size") or 0) < 60 << 20]
+        if not vids:
+            continue
+        f = min(vids, key=lambda f: int(f.get("size") or 0))
+        lic = "public domain" if "publicdomain" in d.get("licenseurl", "") else "CC BY"
+        creator = d.get("creator") if isinstance(d.get("creator"), str) else ", ".join(d.get("creator") or []) or "Unknown"
+        subj = d.get("subject") if isinstance(d.get("subject"), str) else " ".join(d.get("subject") or [])
+        url = f"https://archive.org/download/{ident}/{requests.utils.quote(f['name'])}"
+        out.append({"id": f"ia{ident}", "text": f"{d.get('title', '')} {subj}", "preview": url, "url": url,
+                    "duration": float(f["length"]), "credit": f"{creator[:60]} / Internet Archive ({lic}) https://archive.org/details/{ident}"})
+    return out
 
 
 def _strip(c, work):
@@ -111,7 +169,11 @@ def _strip(c, work):
             return None
         with open(src, "wb") as f:
             f.write(r.content)
-        d = max(1.0, float(c.get("duration") or 6))
+        from .media import duration as probe
+        d = max(1.0, probe(src))
+        if not 3 <= d <= 60:
+            return None
+        c["duration"] = d
         frames = []
         for k, t in enumerate((0.2, 0.5, 0.8)):
             fp = os.path.join(work, f"{c['id']}_f{k}.jpg")
@@ -149,8 +211,8 @@ For each clip: describe in max 15 words what the animal actually DOES (be concre
 and lands clumsily"); give "animal"; rate "funny" 0-10 (10 = surprising, laugh-out-loud action; 5 = cute
 and a bit silly; 1 = animal just standing or walking). Set "ok": false for visible text, captions,
 watermarks or logos, people's faces as the main subject, injured or distressed animals, or anything not
-family-friendly.
-Return JSON: {{"clips": [{{"image": 0, "does": "...", "animal": "...", "funny": 7, "ok": true}}]}}"""
+family-friendly. "peak": which of the 3 frames (0, 1 or 2) is closest to the funniest moment.
+Return JSON: {{"clips": [{{"image": 0, "does": "...", "animal": "...", "funny": 7, "peak": 1, "ok": true}}]}}"""
     res = llm.ask_vision_json(prompt, imgs)
     out = []
     for r in res.get("clips") or []:
@@ -159,8 +221,12 @@ Return JSON: {{"clips": [{{"image": 0, "does": "...", "animal": "...", "funny": 
         except (KeyError, ValueError, IndexError, TypeError):
             continue
         if r.get("ok", True):
+            try:
+                peak = min(2, max(0, int(r.get("peak", 1))))
+            except (TypeError, ValueError):
+                peak = 1
             c.update(desc=str(r.get("does", ""))[:120], animal=str(r.get("animal", ""))[:30],
-                     funny=float(r.get("funny", 0)))
+                     funny=float(r.get("funny", 0)), peak=float(c.get("duration") or 6) * (0.2, 0.5, 0.8)[peak])
             out.append(c)
     return out
 
@@ -214,7 +280,7 @@ def find(topic, work, need=7):
     if config.CLIP_ORIGINAL_AUDIO and len(with_sound) >= 5:  # clips have their own sound: just rank them
         top5 = sorted(_variety(with_sound, 5), key=lambda c: c["funny"])
         for k, c in enumerate(top5):
-            c["path"] = os.path.join(work, f"clip{k}_{c['id']}.mp4")
+            c["path"] = os.path.join(work, f"clip_{c['id']}.mp4")
             if not os.path.exists(c["path"]):
                 download(c)
         print("funny clips (original sound, no voiceover):", [(c["funny"], c["desc"]) for c in top5])
@@ -225,11 +291,11 @@ def find(topic, work, need=7):
         return "none", []
     top5 = sorted(chosen[:5], key=lambda c: c["funny"])  # #5 (least funny) ... #1 (funniest)
     extra = chosen[5:7]
-    intro = extra[0] if extra else top5[-1]  # (a ranked clip is only reused if there are no spares)
-    outro = extra[1] if len(extra) > 1 else top5[-2]
+    intro = dict(top5[-1], teaser=True)  # open on a 2-second teaser of the #1 moment (hook)
+    outro = extra[0] if extra else top5[-2]
     order = [intro] + top5 + [outro]
     for k, c in enumerate(order):
-        c["path"] = os.path.join(work, f"clip{k}_{c['id']}.mp4")
+        c["path"] = os.path.join(work, f"clip_{c['id']}.mp4")
         if not os.path.exists(c["path"]):
             download(c)
     print("funny clips chosen (with voiceover):", [(c["funny"], c["desc"]) for c in order])
@@ -237,7 +303,8 @@ def find(topic, work, need=7):
 
 
 def _public(c):
-    return {k: c.get(k) for k in ("id", "url", "path", "credit", "desc", "animal", "funny", "duration", "has_audio")}
+    return {k: c.get(k) for k in ("id", "url", "path", "credit", "desc", "animal", "funny", "duration", "has_audio",
+                                  "peak", "teaser")}
 
 
 def _variety(rated, n):
@@ -254,12 +321,13 @@ def _variety(rated, n):
 
 def download(c):
     from .media import _download
-    _download(c["url"], c["path"])
+    _download(c["url"], c["path"], headers=UA)
     return c["path"]
 
 
 def notes(clips):
-    names = ["INTRO clip"] + [f"#{n} clip" for n in range(5, 0, -1)] + ["OUTRO clip"]
+    names = ["INTRO (a quick teaser of the #1 moment - tease it, don't spoil it)"] + \
+            [f"#{n} clip" for n in range(5, 0, -1)] + ["OUTRO clip"]
     return "\n".join(f"- {names[k]}: {c['desc']}" for k, c in enumerate(clips))
 
 
