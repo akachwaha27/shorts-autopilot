@@ -14,7 +14,7 @@ import time
 import traceback
 from datetime import timedelta
 
-from . import config, library, llm, media, publish, schedule, state, storage, telegram, trends, writer
+from . import config, library, llm, media, publish, schedule, state, storage, telegram, trends, visuals, writer
 
 FMT_LETTERS = {"r": "ranking", "s": "story", "f": "funny", "q": "quiz", "t": "tips", "e": "explainer"}
 MAX_REDOS = 5
@@ -320,7 +320,8 @@ def render_and_preview(st, vid, pkg):
     v["status"] = "awaiting_approval"
     n = num(vid)
     caption = (f"🎥 <b>Video #{n}</b> · {fmt_label(pkg.get('format'))}\n<b>{esc(pkg['title'])}</b>\n"
-               f"{esc(' '.join(pkg['hashtags']))}\n🎙 {esc(pkg.get('voice', ''))}")
+               f"{esc(' '.join(pkg['hashtags']))}\n🎙 {esc(pkg.get('voice', ''))}"
+               + (f"\n{esc(visuals.report(pkg))}" if visuals.report(pkg) else ""))
     sent = telegram.send_video(path, caption, [[("✅ Publish", f"ok:{vid}"), ("🔁 Redo", f"redo:{vid}")],
                                                [("🎙 New voice", f"voice:{vid}"), ("⏭ Skip", f"no:{vid}")]])
     v["tg_msg"] = sent.get("message_id")
@@ -366,6 +367,10 @@ def generate(st, vid):
         pkg["tags"] = seo.build_tags(pkg)
     except Exception as e:  # noqa: BLE001
         print("tag optimizer failed:", e)
+    try:  # look at the top Shorts on this topic, then plan footage that shows what each line talks about
+        visuals.plan(pkg, v["topic"], visuals.research(v["topic"], st))
+    except Exception as e:  # noqa: BLE001
+        print("shot planning failed, using the writer's searches:", e)
     if v["topic"]["title"] not in st["history"]:
         st["history"].append(v["topic"]["title"])
     render_and_preview(st, vid, pkg)
@@ -556,11 +561,13 @@ def cmd_test(args):
     print("Review:", writer.review(pkg))
     from . import seo
     pkg["tags"] = seo.build_tags(pkg)
+    visuals.plan(pkg, topic, visuals.research(topic))
     path, credits = media.make_video(pkg, os.path.join(config.WORK_DIR, "test"))
     desc = writer.build_description(pkg, credits)
     print(pkg["title"], "\n", desc, "\n->", path)
     if config.TELEGRAM_BOT_TOKEN and config.TELEGRAM_CHAT_ID:
-        telegram.send_video(path, f"🧪 Test ({fmt_label(fmt)}): <b>{esc(pkg['title'])}</b>\n🎙 {esc(pkg.get('voice'))}")
+        telegram.send_video(path, f"🧪 Test ({fmt_label(fmt)}): <b>{esc(pkg['title'])}</b>\n🎙 {esc(pkg.get('voice'))}\n"
+                                  f"{esc(visuals.report(pkg))}\n🎬 {esc(pkg.get('visual_style', ''))}")
         thumb = os.path.join(config.WORK_DIR, "test", "thumbnail.jpg")
         if os.path.exists(thumb):
             telegram.send_photo(thumb, "🖼 Thumbnail")

@@ -100,6 +100,9 @@ The bot keeps a permanent record of every video and every daily idea list in `ar
 
 Your folder then holds `Videos/` (every published video named `<date> - <title>.mp4`), `Thumbnails/`, `Shorts Library.xlsx` (sheets: Videos, Daily Top 5 Ideas, Comments, Daily Totals) and `Dashboard.html`. Stored video files are kept on GitHub for 30 days (`KEEP_VIDEOS_DAYS`), so the PC must sync at least once in that window. Run `python sync_library.py` any time to sync now, or `--uninstall` to remove the task.
 
+### How footage is chosen
+Before rendering, the bot looks at the thumbnails and titles of the top Shorts on the same topic (YouTube search, max `VISUAL_SEARCHES_PER_DAY` = 6/day, 100 quota units each). An AI editor then writes a shot list: for every line, the subject that must be on screen and searches from specific to broad. Candidates from Pexels, Pixabay, NASA (photos, space scenes only) and Wikimedia must be tagged with the subject, and Gemini looks at each preview frame and keeps only clips scoring at least `VISUAL_MIN_SCORE` (6/10). Clips are never picked at random to fill time; a scene with no match reuses the last good shot (or an AI image if Cloudflare is set). The Telegram preview shows how many shots were checked. Turn off with `VISUAL_RESEARCH=false` / `VISUAL_CHECK=false`.
+
 ### 8. AI images (optional)
 1. Create a free Cloudflare account. In the dashboard go to **AI → Workers AI** and create an API token.
 2. Set `CF_ACCOUNT_ID` and `CF_API_TOKEN`.

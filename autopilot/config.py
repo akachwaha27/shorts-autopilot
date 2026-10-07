@@ -54,6 +54,10 @@ GEMINI_MODEL = env("GEMINI_MODEL")                      # blank = auto-pick newe
 VOICE = env("VOICE", "en-US-AndrewMultilingualNeural")  # fallback voice
 VOICES = env("VOICES")                               # optional comma-separated pool; blank = built-in rotation
 VISUALS = env("VISUALS", "stock")                    # stock | ai (Cloudflare) | mixed
+VISUAL_RESEARCH = env("VISUAL_RESEARCH", True, bool)      # look at the top Shorts on each topic before choosing footage
+VISUAL_SEARCHES_PER_DAY = env("VISUAL_SEARCHES_PER_DAY", 6, int)  # 100 YouTube quota units each; keeps uploads safe
+VISUAL_CHECK = env("VISUAL_CHECK", True, bool)            # Gemini looks at every candidate clip before it's used
+VISUAL_MIN_SCORE = env("VISUAL_MIN_SCORE", 6, float)      # 0-10: how clearly a clip must show the subject
 TOPICS_PER_DAY = env("TOPICS_PER_DAY", 6, int)
 RANKINGS_PER_DAY = env("RANKINGS_PER_DAY", 2, int)     # how many of the daily ideas are "Top 5" countdowns
 FUNNY_PER_DAY = env("FUNNY_PER_DAY", 2, int)           # min funny ideas a day (1 funny short + 1 funny Top 5); 1+ is always made

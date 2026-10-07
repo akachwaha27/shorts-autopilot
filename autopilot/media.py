@@ -397,13 +397,10 @@ def get_visual(scene, i, out_dir, used, plan):
     base = os.path.join(out_dir, f"s{i}")
     q = scene.get("stock_query") or scene.get("label") or "abstract background"
     has_ai = bool(config.CF_ACCOUNT_ID and config.CF_API_TOKEN)
-    use_ai = has_ai and (config.VISUALS == "ai" or (config.VISUALS == "mixed" and i % 2 == 1))
+    use_ai = has_ai and config.VISUALS in ("ai", "mixed")  # only called for AI shots (stock goes through visuals.pick)
     attempts = [lambda: ai_image(scene.get("image_prompt", q), base)] if use_ai else []
     for vid, pic in plan:  # video first, then photo, from each provider in this video's order
         attempts += [lambda f=vid: f(q, base, used), lambda f=pic: f(q, base, used)]
-    short = q.split()[0] if q.split() else q
-    for vid, pic in plan[1:]:  # broader one-word search as a second chance
-        attempts.append(lambda f=vid: f(short, base, used))
     if has_ai and not use_ai:
         attempts.append(lambda: ai_image(scene.get("image_prompt", q), base))
     for fn in attempts:
@@ -426,7 +423,8 @@ def render_scene(vis, dur, out):
     common = ["-t", f"{dur:.3f}", "-r", str(FPS), "-an", "-c:v", "libx264", "-preset", "veryfast",
               "-crf", "22", "-pix_fmt", "yuv420p", out]
     if vis["kind"] == "video":
-        run(["ffmpeg", "-y", "-stream_loop", "-1", "-i", vis["path"], "-vf", f"{FILL},fps={FPS}"] + common)
+        start = ["-ss", f"{min(duration(vis['path']) / 2, 4):.2f}"] if vis.get("offset") else []
+        run(["ffmpeg", "-y", "-stream_loop", "-1"] + start + ["-i", vis["path"], "-vf", f"{FILL},fps={FPS}"] + common)
     elif vis["kind"] == "image":
         frames = int(dur * FPS) + 1
         z = random.choice(["min(1+0.0009*on,1.15)", "max(1.15-0.0009*on,1)"])
@@ -460,17 +458,36 @@ def make_video(pkg, out_dir, recent_voices=()):
 
     used, credits, parts, plan = set(), [], [], source_plan()
     first_shot = {}  # scene index -> its first clean (caption-free) shot, used for the thumbnail
+    report = {"shots": 0, "checked": 0, "unchecked": 0, "filler": 0}
+    last_good = None  # most recent on-topic shot, reused (another part of it) when a scene finds nothing
     for i, (scene, (a, b)) in enumerate(zip(scenes, bounds)):
         dur = b - a
         n = 1 if dur < 3.6 else min(3, math.ceil(dur / 3.2))  # a fresh shot roughly every 3 seconds
-        queries = scene.get("stock_queries") or [scene.get("stock_query", "")]
-        for k in range(n):
-            shot = dict(scene, stock_query=queries[k % len(queries)])
-            vis = get_visual(shot, f"{i}_{k}", out_dir, used, plan)
-            if vis["credit"] and vis["credit"] not in credits:
+        if config.VISUALS == "ai":
+            shots = [get_visual(dict(scene), f"{i}_{k}", out_dir, used, plan) for k in range(n)]
+        else:
+            from . import visuals
+            shots = visuals.pick(pkg, i, n, out_dir, used)
+            if config.VISUALS == "mixed" and len(shots) > 1 and config.CF_ACCOUNT_ID and config.CF_API_TOKEN:
+                shots[1] = get_visual(dict(scene), f"{i}_1ai", out_dir, used, [])  # AI image for variety
+            if not shots:  # nothing on-topic exists: AI image if available, else keep showing the last good shot
+                if config.CF_ACCOUNT_ID and config.CF_API_TOKEN:
+                    shots = [get_visual(dict(scene, stock_query=""), f"{i}_ai", out_dir, set(), [])]
+                elif last_good:
+                    shots = [dict(last_good, offset=True)]
+                else:
+                    shots = [{"kind": "gradient", "path": None, "credit": None}]
+                report["filler"] += 1
+        for k, vis in enumerate(shots):
+            if vis.get("credit") and vis["credit"] not in credits:
                 credits.append(vis["credit"])
-            parts.append(render_scene(vis, dur / n, os.path.join(out_dir, f"part{i:02d}_{k}.mp4")))
+            report["shots"] += 1
+            report["checked" if vis.get("checked") else "unchecked"] += 1 if vis["kind"] != "gradient" else 0
+            parts.append(render_scene(vis, dur / len(shots), os.path.join(out_dir, f"part{i:02d}_{k}.mp4")))
             first_shot.setdefault(i, (parts[-1], vis["kind"]))
+            if vis["kind"] != "gradient" and not vis.get("offset"):
+                last_good = vis
+    pkg["visual_report"] = report
 
     concat = os.path.join(out_dir, "parts.txt")
     with open(concat, "w") as f:

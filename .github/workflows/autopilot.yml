@@ -53,6 +53,10 @@ jobs:
       VOICES: ""
       RANKINGS_PER_DAY: ${{ vars.RANKINGS_PER_DAY }}
       VISUALS: ${{ vars.VISUALS }}
+      VISUAL_RESEARCH: ${{ vars.VISUAL_RESEARCH }}
+      VISUAL_SEARCHES_PER_DAY: ${{ vars.VISUAL_SEARCHES_PER_DAY }}
+      VISUAL_CHECK: ${{ vars.VISUAL_CHECK }}
+      VISUAL_MIN_SCORE: ${{ vars.VISUAL_MIN_SCORE }}
       GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
       MAX_VIDEOS_PER_DAY: "4"
       AUTO_PICK_COUNT: "4"

@@ -62,8 +62,9 @@ CONTENT POLICY (YouTube monetization-safe, advertiser-friendly, general audience
 - Not aimed at young children (no "for kids" content).
 
 FOR EVERY SCENE ALSO GIVE:
-- "stock_queries": 2 different 2-4 word searches for generic stock footage of that moment
-  (concrete, visual nouns; no brands, logos or people's names). A new shot appears every ~3 seconds.
+- "stock_queries": 2 different 2-4 word searches for stock footage that LITERALLY shows what this line talks
+  about (the named animal, object, place, food or action - e.g. "red panda tree", "scrabble tiles"), never a mood
+  or metaphor ("confused person", "chaos"). Plain nouns only; no brands, logos, people's or event names.
 - "image_prompt": vivid AI image prompt, vertical 9:16, no text, no logos, no real people.
 
 METADATA (SEO for YouTube search and suggested):
