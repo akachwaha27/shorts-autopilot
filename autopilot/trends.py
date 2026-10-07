@@ -79,7 +79,78 @@ def collect():
     return safe
 
 
+GENERIC = {"top", "5", "3", "why", "how", "what", "the", "a", "an", "of", "in", "on", "at", "to", "for", "and", "or",
+           "you", "your", "are", "is", "that", "this", "these", "they", "do", "does", "can", "will", "way", "than",
+           "think", "ever", "most", "really", "actually", "secretly", "didn", "t", "know", "need", "s", "with", "from",
+           "about", "things", "thing", "every", "everyone", "completely", "absolute", "insane", "crazy", "weird", "weirdest",
+           "funniest", "best", "worst", "facts", "fact", "ranked", "ranking", "explained", "it", "its", "has", "have"}
+
+
+def _key(title):
+    words = re.findall(r"[a-z0-9]+", title.lower().replace(",", ""))
+    out = set()
+    for w in words:
+        if w in GENERIC:
+            continue
+        for suf in ("ies", "es", "s"):
+            if len(w) > 4 and w.endswith(suf):
+                w = w[: -len(suf)] + ("y" if suf == "ies" else "")
+                break
+        out.add(w)
+    return out
+
+
+def is_repeat(title, past_keys):
+    """Same idea reworded? True when most of the meaningful words match an earlier idea."""
+    k = _key(title)
+    if not k:
+        return False
+    for pk in past_keys:
+        if not pk:
+            continue
+        common = len(k & pk)
+        ratio = common / min(len(k), len(pk))
+        if k == pk or (common >= 3 and ratio >= 0.6) or (common >= 2 and ratio >= 0.75):
+            return True
+    return False
+
+
+def past_ideas(history=()):
+    """Every idea ever sent to you or made into a video (permanent archive + recent state)."""
+    from . import library
+    titles = list(history)
+    for day, b in sorted(library.load("ideas").items()):
+        titles += [i.get("title", "") for i in b.get("ideas", [])]
+    for v in library.load("videos").values():
+        titles += [v.get("title", ""), v.get("idea_title", "")]
+    seen, out = set(), []
+    for t in titles:
+        if t and t.lower() not in seen:
+            seen.add(t.lower())
+            out.append(t)
+    return out
+
+
 def pick_topics(signals, history):
+    past = past_ideas(history)
+    past_keys = [_key(t) for t in past]
+    topics, rejected = [], []
+    for attempt in range(2):  # second pass asks for replacements if any idea was a repeat
+        need = config.TOPICS_PER_DAY - len(topics)
+        fresh = _ask_topics(signals, past + [t["title"] for t in topics] + rejected, need if attempt else None)
+        for t in fresh:
+            if is_repeat(t["title"], past_keys + [_key(x["title"]) for x in topics]):
+                print("skipping repeated idea:", t["title"])
+                rejected.append(t["title"])
+            elif len(topics) < config.TOPICS_PER_DAY:
+                topics.append(t)
+        if len(topics) >= config.TOPICS_PER_DAY:
+            break
+    topics.sort(key=lambda t: t.get("virality_score", 0) or 0, reverse=True)
+    return topics
+
+
+def _ask_topics(signals, covered, count=None):
     lines = "\n".join(f'- [{s["source"]}] {s["title"]} ({s["signal"]}) {s["context"]}' for s in signals[:120])
     prompt = f"""You are a YouTube Shorts growth strategist for a faceless, monetization-focused channel.
 You know what the Shorts algorithm rewards: a strong hook, high swipe-through and completion rate,
@@ -89,9 +160,12 @@ Niche preference: {config.NICHE}. Audience region: {config.REGION}. Language: {c
 Trending signals from the last 24-48h:
 {lines}
 
-Recently covered (do NOT repeat): {", ".join(history[-30:]) or "none"}
+ALREADY USED - every idea below was sent before. Do NOT repeat any of them, reword them, or pick the same subject
+with a different title (e.g. if "Why soda cans explode at 30,000 feet" is listed, no soda-can-at-altitude idea at all).
+Pick genuinely NEW subjects:
+{chr(10).join('- ' + t for t in covered[-250:]) or 'none'}
 
-Choose exactly {config.TOPICS_PER_DAY} ideas for ORIGINAL Shorts of about one minute (55-65 seconds). Use the trends as inspiration
+Choose exactly {count or config.TOPICS_PER_DAY} ideas for ORIGINAL Shorts of about one minute (55-65 seconds). Use the trends as inspiration
 (ride the curiosity around them with a SAFE ANGLE); if the trends are weak, use proven evergreen Shorts ideas.
 Mix FORMATS - use at least 4 different ones across the list, max 2 of the same:
 - "ranking": Top 5 countdown with a clear, checkable measure ("Top 5 fastest animals on Earth")
