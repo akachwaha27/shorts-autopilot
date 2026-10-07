@@ -103,6 +103,9 @@ Your folder then holds `Videos/` (every published video named `<date> - <title>.
 ### How footage is chosen
 Before rendering, the bot looks at the thumbnails and titles of the top Shorts on the same topic (YouTube search, max `VISUAL_SEARCHES_PER_DAY` = 6/day, 100 quota units each). An AI editor then writes a shot list: for every line, the subject that must be on screen and searches from specific to broad. Candidates from Pexels, Pixabay, NASA (photos, space scenes only) and Wikimedia must be tagged with the subject, and Gemini looks at each preview frame and keeps only clips scoring at least `VISUAL_MIN_SCORE` (6/10). Clips are never picked at random to fill time; a scene with no match reuses the last good shot (or an AI image if Cloudflare is set). The Telegram preview shows how many shots were checked. Turn off with `VISUAL_RESEARCH=false` / `VISUAL_CHECK=false`.
 
+### Funny animal clip rankings (format letter `c`)
+One idea a day (`CLIPS_PER_DAY`) is a "Ranking the funniest animal moments" video built only from free Pixabay/Pexels clips. The bot searches for animals doing funny things, Gemini watches three frames of each candidate and rates how funny it is, and the five funniest become #5 to #1. If those clips have their own sound (`CLIP_ORIGINAL_AUDIO=true`), the video simply plays them with their original sound and on-screen ranks, with no voiceover. If they're silent, the bot adds funny commentary about exactly what happens in each clip. No clips from YouTube, TikTok or other creators are ever used.
+
 ### 8. AI images (optional)
 1. Create a free Cloudflare account. In the dashboard go to **AI → Workers AI** and create an API token.
 2. Set `CF_ACCOUNT_ID` and `CF_API_TOKEN`.

@@ -1,6 +1,6 @@
 """Scripts + metadata for six Shorts formats, tuned for retention and YouTube policy.
 
-Formats: ranking, story, funny, quiz, tips, explainer.
+Formats: ranking, story, funny, quiz, tips, explainer, clips (funny animal clips ranking).
 Each scene may carry on-screen overlays:
   badge  - big text at top ("#5", "Q1", "✓", "TIP 2")
   label  - smaller text under the badge (item name, question, answer)
@@ -17,6 +17,7 @@ FORMATS = {
     "quiz": {"emoji": "❓", "name": "Quiz", "category": "24", "tag": "#quiz"},
     "tips": {"emoji": "💡", "name": "Quick tips", "category": "26", "tag": "#lifehacks"},
     "explainer": {"emoji": "🔬", "name": "Explainer", "category": "27", "tag": "#didyouknow"},
+    "clips": {"emoji": "🐐", "name": "Funny animal clips ranking", "category": "15", "tag": "#funnyanimals"},
 }
 
 
@@ -109,6 +110,14 @@ Questions get harder each round. Answers must be unambiguous and verifiable.""",
 6-8 scenes: intro, then 3-5 tips (badge "TIP 1", "TIP 2", ...; label = tip in 2-5 words), then outro.
 Only safe, legal, genuinely useful everyday tips (home, tech, travel, cooking, productivity, organizing).
 No health, medical, financial or dangerous advice.""",
+    "clips": """FORMAT: "Ranking the funniest animal moments" - funny commentary over real clips.
+The footage is ALREADY CHOSEN (listed below): exactly 7 scenes in this order: intro clip, #5, #4, #3, #2, #1,
+outro clip. Narrate exactly what happens in each clip - never describe anything the clip doesn't show.
+Intro: a hook that promises the funniest moment at number one. Ranked scenes: start with the number
+("Number five...", "At number four..."), then react like a friend watching with you: a playful
+observation, exaggerated comparison or deadpan aside, then a punchline. badge "#5" ... "#1"; label = a funny
+2-4 word name for the moment ("The Belly Flop"). Outro: ask which one made them laugh most.
+Title starts with "Ranking the" or "Top 5". Kind humor: laugh WITH the animals, never at their pain.""",
     "explainer": """FORMAT: curiosity explainer.
 6-9 scenes: a surprising question or fact, then a clear explanation building to an "aha" payoff.
 Badges/labels optional: use label for one key number or term on screen when it helps.""",
@@ -134,7 +143,7 @@ def write_package(topic):
 def _write_once(topic, length_note=""):
     fmt = fmt_of(topic)
     info = FORMATS[fmt]
-    funny = fmt == "funny" or str(topic.get("tone", "")).lower() == "funny"
+    funny = fmt in ("funny", "clips") or str(topic.get("tone", "")).lower() == "funny"
     feedback = " ".join(x for x in (topic.get("feedback"), length_note) if x)
     prompt = f"""Write an ORIGINAL vertical YouTube Short package.
 Topic: {topic['title']}
@@ -143,6 +152,7 @@ Language: {config.LANGUAGE}.
 {f'CHANNEL OWNER FEEDBACK ON THE PREVIOUS VERSION - apply it: {feedback}' if feedback else ''}
 
 {STRUCTURES[fmt]}
+{('THE CLIPS, in scene order:' + chr(10) + topic['clip_notes']) if topic.get('clip_notes') else ''}
 {FUNNY_TONE if funny else ''}
 
 {RETENTION_RULES.replace('{format_tag}', info['tag'])}
@@ -154,7 +164,7 @@ Return JSON:
     pkg = llm.ask_json(prompt, temperature=0.85 if funny or fmt == "story" else 0.7)
     pkg["format"] = fmt
     pkg["tone"] = "funny" if funny else "normal"
-    pkg["category"] = "23" if funny else info["category"]  # funny Top 5s go in Comedy
+    pkg["category"] = info["category"] if fmt == "clips" else "23" if funny else info["category"]  # funny Top 5s go in Comedy
     _normalize(pkg, fmt)
     if funny and "#funny" not in pkg["hashtags"]:
         pkg["hashtags"] = (pkg["hashtags"][:4] + ["#funny"])
@@ -170,7 +180,7 @@ def _normalize(pkg, fmt):
         s["stock_query"] = s["stock_queries"][0]
         s["badge"] = str(s.get("badge") or "").strip()[:8]
         s["label"] = str(s.get("label") or "").strip()[:60]
-    if fmt == "ranking":  # make sure the countdown badges exist even if the model slipped
+    if fmt in ("ranking", "clips"):  # make sure the countdown badges exist even if the model slipped
         ranked = [s for s in scenes if s["badge"].startswith("#")]
         if len(ranked) < 3 and len(scenes) >= 7:
             for n, s in zip(range(5, 0, -1), scenes[1:6]):

@@ -100,7 +100,11 @@ Mix FORMATS - use at least 4 different ones across the list, max 2 of the same:
 - "quiz": 3-question trivia challenge viewers play along with
 - "tips": quick, genuinely useful everyday tips/hacks (tech, home, cooking, travel, productivity)
 - "explainer": surprising "why/how" curiosity facts
+- "clips": "Ranking the funniest animal moments" - real free stock clips of animals doing funny things
+  (dogs, cats, goats, ducks, parrots, monkeys...), ranked #5 to #1. Keep it about ANIMALS only (one animal
+  type or animals in general), e.g. "Ranking the funniest goat moments", "Top 5 funniest dog reactions"
 {f'Include at least {config.RANKINGS_PER_DAY} "ranking" ideas.' if config.RANKINGS_PER_DAY else ''}
+{f'Include exactly {config.CLIPS_PER_DAY} "clips" idea(s) (tone "funny").' if config.CLIPS_PER_DAY else ''}
 {f'''FUNNY IS REQUIRED: include at least {config.FUNNY_PER_DAY} ideas with "tone": "funny" - at least one "funny" format
 idea AND at least one FUNNY "ranking" (a Top 5 that is played for laughs, e.g. "Top 5 animals with ridiculous
 sleeping habits", "Top 5 inventions that made no sense", "Top 5 weirdest world records"). Funny ideas must be
@@ -115,7 +119,7 @@ Hard rules - reject any idea that:
 Every idea must be advertiser-friendly and suitable for a general 13+ audience.
 
 Return JSON: {{"topics": [{{"title": "short catchy working title", "angle": "one sentence on the video idea",
-"format": "ranking|story|funny|quiz|tips|explainer", "tone": "funny|normal", "trend_source": "which signal inspired it (or evergreen)",
+"format": "ranking|story|funny|quiz|tips|explainer|clips", "tone": "funny|normal", "trend_source": "which signal inspired it (or evergreen)",
 "virality_score": 1-10, "why": "why it can win in the Shorts feed"}}]}}
 Sort by virality_score descending."""
     data = llm.ask_json(prompt, temperature=0.8)

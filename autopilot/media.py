@@ -423,7 +423,11 @@ def render_scene(vis, dur, out):
     common = ["-t", f"{dur:.3f}", "-r", str(FPS), "-an", "-c:v", "libx264", "-preset", "veryfast",
               "-crf", "22", "-pix_fmt", "yuv420p", out]
     if vis["kind"] == "video":
-        start = ["-ss", f"{min(duration(vis['path']) / 2, 4):.2f}"] if vis.get("offset") else []
+        start = []
+        if vis.get("offset"):
+            start = ["-ss", f"{min(duration(vis['path']) / 2, 4):.2f}"]
+        elif vis.get("center"):  # show the middle of the clip, where the action usually is
+            start = ["-ss", f"{max(0.0, (duration(vis['path']) - dur) / 2):.2f}"]
         run(["ffmpeg", "-y", "-stream_loop", "-1"] + start + ["-i", vis["path"], "-vf", f"{FILL},fps={FPS}"] + common)
     elif vis["kind"] == "image":
         frames = int(dur * FPS) + 1
@@ -444,8 +448,69 @@ def pick_music():
     return os.path.join(folder, random.choice(tracks)) if tracks else None
 
 
+def make_clip_ranking(pkg, out_dir):
+    """Funny clips that have their own sound: play #5 ... #1 with the original audio and on-screen ranks,
+    no voiceover. Each clip is shown whole on a blurred copy of itself so nothing is cropped away."""
+    os.makedirs(out_dir, exist_ok=True)
+    scenes, parts, bounds, t = pkg["scenes"], [], [], 0.0
+    for i, scene in enumerate(scenes):
+        c = scene["clip"]
+        if not os.path.exists(c.get("path") or ""):
+            c["path"] = os.path.join(out_dir, f"clip{i}.mp4")
+            _download(c["url"], c["path"])
+        full = duration(c["path"])
+        dur = min(full, config.CLIP_MAX_SECONDS)
+        start = max(0.0, (full - dur) / 2)  # the middle, where the action usually is
+        out = os.path.join(out_dir, f"part{i:02d}.mp4")
+        probe = subprocess.run(["ffprobe", "-v", "error", "-select_streams", "a", "-show_entries", "stream=index",
+                                "-of", "csv=p=0", c["path"]], capture_output=True, text=True)
+        audio = ("[0:a]aresample=44100,aformat=channel_layouts=stereo,loudnorm=I=-16:TP=-1.5:LRA=11[a0];"
+                 "[a0][1:a]amix=inputs=2:duration=longest:normalize=0[a]") if probe.stdout.strip() else "[1:a]anull[a]"
+        vf = (f"[0:v]split[a][b];[a]scale={W}:{H}:force_original_aspect_ratio=increase,crop={W}:{H},boxblur=24:2,"
+              f"eq=brightness=-0.08[bg];[b]scale={W}:{H}:force_original_aspect_ratio=decrease[fg];"
+              f"[bg][fg]overlay=(W-w)/2:(H-h)/2,fps={FPS},setsar=1[v]")
+        run(["ffmpeg", "-y", "-ss", f"{start:.2f}", "-t", f"{dur:.2f}", "-i", c["path"], "-f", "lavfi", "-t", f"{dur:.2f}",
+             "-i", "anullsrc=r=44100:cl=stereo", "-filter_complex",
+             vf + ";" + audio,
+             "-map", "[v]", "-map", "[a]", "-t", f"{dur:.2f}", "-c:v", "libx264", "-preset", "veryfast", "-crf", "21",
+             "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "160k", out])
+        parts.append(out)
+        bounds.append((t, t + dur))
+        t += dur
+    ass = subtitles([], scenes, bounds, "", os.path.join(out_dir, "captions.ass"))
+    extra = []
+    if pkg.get("hook_text"):
+        extra.append(f"Dialogue: 2,{_ts(0)},{_ts(min(2.8, t))},Default,,0,0,0,,{{\\fad(100,150)}}{_clean(pkg['hook_text']).upper()}")
+    if pkg.get("end_text"):
+        extra.append(f"Dialogue: 2,{_ts(max(0, t - 3.2))},{_ts(t)},Default,,0,0,0,,{{\\fad(150,100)}}{_clean(pkg['end_text']).upper()}")
+    with open(ass, "a", encoding="utf-8") as f:
+        f.write("\n".join(extra) + "\n")
+    concat = os.path.join(out_dir, "parts.txt")
+    with open(concat, "w") as f:
+        f.writelines(f"file '{os.path.abspath(p)}'\n" for p in parts)
+    final = os.path.join(out_dir, "final.mp4")
+    run(["ffmpeg", "-y", "-f", "concat", "-safe", "0", "-i", concat, "-vf", f"ass={ass}", "-c:v", "libx264",
+         "-preset", "medium", "-crf", "21", "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "160k", "-ar", "44100",
+         "-movflags", "+faststart", final])
+    pkg["voice"] = "none (original clip sound)"
+    pkg["visual_report"] = {"shots": len(parts), "checked": len(parts), "unchecked": 0, "filler": 0}
+    try:
+        from . import thumbnail
+        thumbnail.make(parts[-1], min(1.0, bounds[-1][1] - bounds[-1][0]) / 2, pkg.get("thumbnail_text") or pkg["title"],
+                       os.path.join(out_dir, "thumbnail.jpg"), badge="#1", accent_index=random.randrange(4))
+    except Exception as e:  # noqa: BLE001
+        print("Thumbnail failed:", str(e)[:150])
+    credits = ["Audio: original sound of the clips (no voiceover).",
+               "Stock footage (Pexels/Pixabay Content License): " + "; ".join(s["clip"]["credit"] for s in scenes)]
+    with open(os.path.join(out_dir, "credits.json"), "w") as f:
+        json.dump(credits, f)
+    return final, credits
+
+
 def make_video(pkg, out_dir, recent_voices=()):
     """Builds final.mp4. Sets pkg['voice']. Returns (path, credit_lines)."""
+    if pkg.get("clip_audio"):
+        return make_clip_ranking(pkg, out_dir)
     os.makedirs(out_dir, exist_ok=True)
     voice = pick_voice(list(recent_voices))
     audio, words, voice_credit = voiceover(pkg["script"], out_dir, voice)
@@ -463,7 +528,13 @@ def make_video(pkg, out_dir, recent_voices=()):
     for i, (scene, (a, b)) in enumerate(zip(scenes, bounds)):
         dur = b - a
         n = 1 if dur < 3.6 else min(3, math.ceil(dur / 3.2))  # a fresh shot roughly every 3 seconds
-        if config.VISUALS == "ai":
+        if scene.get("clip"):  # funny-clips format: this scene's clip was chosen (and watched) beforehand
+            c = scene["clip"]
+            if not os.path.exists(c.get("path") or ""):
+                c["path"] = os.path.join(out_dir, f"clip{i}.mp4")
+                _download(c["url"], c["path"])
+            shots = [{"kind": "video", "path": c["path"], "credit": c["credit"], "checked": True, "center": True}]
+        elif config.VISUALS == "ai":
             shots = [get_visual(dict(scene), f"{i}_{k}", out_dir, used, plan) for k in range(n)]
         else:
             from . import visuals

@@ -16,7 +16,7 @@ from datetime import timedelta
 
 from . import config, library, llm, media, publish, schedule, state, storage, telegram, trends, visuals, writer
 
-FMT_LETTERS = {"r": "ranking", "s": "story", "f": "funny", "q": "quiz", "t": "tips", "e": "explainer"}
+FMT_LETTERS = {"r": "ranking", "s": "story", "f": "funny", "q": "quiz", "t": "tips", "e": "explainer", "c": "clips"}
 MAX_REDOS = 5
 
 
@@ -58,7 +58,8 @@ def cmd_trends(st):
         "<b>How to reply</b>\n"
         "• Tap a number below, or type <code>1,3</code>\n"
         "• Change the format by adding a letter: <code>2s</code> = 📖 story, <code>2f</code> = 😂 funny, "
-        "<code>2q</code> = ❓ quiz, <code>2r</code> = 🏆 Top 5, <code>2t</code> = 💡 tips, <code>2e</code> = 🔬 explainer\n"
+        "<code>2q</code> = ❓ quiz, <code>2r</code> = 🏆 Top 5, <code>2t</code> = 💡 tips, <code>2e</code> = 🔬 explainer, "
+        "<code>2c</code> = 🐐 funny animal clips\n"
         f"• No reply in {config.SELECT_TIMEOUT_HOURS:g}h → I'll make the top {config.AUTO_PICK_COUNT}.")
     buttons = [[(f"🎬 {i}", f"pick:{bid}:{i - 1}") for i in range(1, len(topics) + 1)],
                [("⏭ Skip today", f"skip:{bid}")]]
@@ -352,8 +353,21 @@ def render_and_preview(st, vid, pkg):
 def generate(st, vid):
     v = st["videos"][vid]
     ok, issues, pkg = False, [], None
+    found, mode = [], "none"
+    if writer.fmt_of(v["topic"]) == "clips":  # footage first: find and watch real funny animal clips
+        from . import clips
+        mode, found = clips.find(v["topic"], os.path.join(config.WORK_DIR, "clips", vid))
+        if mode == "narrate":
+            v["topic"]["clip_notes"] = clips.notes(found)
+        elif mode == "none":  # not enough good clips today: make it a funny Top 5 with normal footage instead
+            v["topic"].update(format="ranking", tone="funny")
+            telegram.send(f"ℹ️ Couldn't find 5 funny enough free clips for <b>{esc(v['topic']['title'])}</b>, "
+                          "so it's being made as a funny Top 5 with regular footage.")
     for _ in range(2):
-        pkg = writer.write_package(v["topic"])
+        if mode == "audio":  # clips have their own sound: on-screen ranking, no script to write
+            pkg = clips.package(v["topic"], found)
+        else:
+            pkg = writer.write_package(v["topic"])
         ok, issues = writer.review(pkg)
         if ok:
             break
@@ -367,8 +381,14 @@ def generate(st, vid):
         pkg["tags"] = seo.build_tags(pkg)
     except Exception as e:  # noqa: BLE001
         print("tag optimizer failed:", e)
+    if found and mode == "narrate":  # attach the chosen clip to each scene (intro, #5..#1, outro)
+        pkg["clips"] = found
+        for scene, c in zip(pkg["scenes"], found):
+            scene["clip"] = c
+        pkg["visual_style"] = "free stock clips of animals doing funny things, rated by AI"
     try:  # look at the top Shorts on this topic, then plan footage that shows what each line talks about
-        visuals.plan(pkg, v["topic"], visuals.research(v["topic"], st))
+        if not found:
+            visuals.plan(pkg, v["topic"], visuals.research(v["topic"], st))
     except Exception as e:  # noqa: BLE001
         print("shot planning failed, using the writer's searches:", e)
     if v["topic"]["title"] not in st["history"]:
@@ -551,6 +571,7 @@ SAMPLES = {
     "quiz": "Only 1 in 10 people know these space facts",
     "tips": "Phone tricks most people never use",
     "explainer": "Why octopuses have three hearts",
+    "clips": "Ranking the funniest animal moments",
 }
 
 
@@ -558,11 +579,23 @@ def cmd_test(args):
     os.environ["FOOTAGE_NOTICES"] = "1"
     fmt = writer.fmt_of({"format": args[0]}) if args else random.choice(list(SAMPLES))
     topic = {"title": " ".join(args[1:]) or SAMPLES[fmt], "angle": "", "format": fmt}
-    pkg = writer.write_package(topic)
+    found, mode = [], "none"
+    if fmt == "clips":
+        from . import clips
+        mode, found = clips.find(topic, os.path.join(config.WORK_DIR, "test_clips"))
+        topic["clip_notes"] = clips.notes(found) if mode == "narrate" else ""
+        print(f"::notice title=clips mode::{mode} ({len(found)} clips)")
+        for c in found:
+            print(f"::notice title=clip {c['funny']:.0f}/10 sound={c.get('has_audio')}::{c['desc']} ({c['credit'][:60]})")
+    pkg = clips.package(topic, found) if mode == "audio" else writer.write_package(topic)
     print("Review:", writer.review(pkg))
     from . import seo
     pkg["tags"] = seo.build_tags(pkg)
-    visuals.plan(pkg, topic, visuals.research(topic))
+    if mode == "narrate":
+        for scene, c in zip(pkg["scenes"], found):
+            scene["clip"] = c
+    elif mode == "none":
+        visuals.plan(pkg, topic, visuals.research(topic))
     path, credits = media.make_video(pkg, os.path.join(config.WORK_DIR, "test"))
     desc = writer.build_description(pkg, credits)
     print(pkg["title"], "\n", desc, "\n->", path)
