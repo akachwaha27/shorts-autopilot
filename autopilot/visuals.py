@@ -381,6 +381,9 @@ def pick(pkg, i, n, out_dir, used):
             shots.append(_download(c, os.path.join(out_dir, f"s{i}_{k}")))
         except Exception as e:  # noqa: BLE001
             print(f"  download failed ({c['id']}): {str(e)[:100]}")
+    if os.getenv("GITHUB_ACTIONS") and os.getenv("FOOTAGE_NOTICES"):
+        for c in chosen:
+            print(f"::notice title=scene {i} pick::{c.get('score', '-')}/10 {c['text'][:80]} ({c['credit'][:60]})")
     print(f"scene {i}: {len(shots)}/{n} shots for '{sp['subject']}'"
           + (f" ({sum(s['checked'] for s in shots)} checked by AI)" if shots else ""))
     return shots

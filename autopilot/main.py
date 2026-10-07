@@ -555,6 +555,7 @@ SAMPLES = {
 
 
 def cmd_test(args):
+    os.environ["FOOTAGE_NOTICES"] = "1"
     fmt = writer.fmt_of({"format": args[0]}) if args else random.choice(list(SAMPLES))
     topic = {"title": " ".join(args[1:]) or SAMPLES[fmt], "angle": "", "format": fmt}
     pkg = writer.write_package(topic)
@@ -565,6 +566,10 @@ def cmd_test(args):
     path, credits = media.make_video(pkg, os.path.join(config.WORK_DIR, "test"))
     desc = writer.build_description(pkg, credits)
     print(pkg["title"], "\n", desc, "\n->", path)
+    # footage summary as run annotations (readable on the GitHub run page and via the API)
+    print(f"::notice title=footage::{visuals.report(pkg)} | style: {pkg.get('visual_style', '')}")
+    for i, sp in enumerate(pkg.get("shot_plan") or []):
+        print(f"::notice title=scene {i}::{sp['subject']} <- " + ", ".join(q['q'] for q in sp['queries']))
     if config.TELEGRAM_BOT_TOKEN and config.TELEGRAM_CHAT_ID:
         telegram.send_video(path, f"🧪 Test ({fmt_label(fmt)}): <b>{esc(pkg['title'])}</b>\n🎙 {esc(pkg.get('voice'))}\n"
                                   f"{esc(visuals.report(pkg))}\n🎬 {esc(pkg.get('visual_style', ''))}")
