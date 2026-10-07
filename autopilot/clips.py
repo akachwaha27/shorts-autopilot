@@ -22,6 +22,15 @@ ANIMAL_WORDS = ("dog", "puppy", "cat", "kitten", "goat", "duck", "parrot", "bird
                 "panda", "raccoon", "fox", "chicken", "goose", "turtle", "frog", "giraffe", "elephant", "kangaroo")
 
 
+_fails = 0
+
+
+def _note(msg):
+    print(msg)
+    if os.getenv("FOOTAGE_NOTICES"):
+        print(f"::notice title=clips::{msg[:300]}")
+
+
 def _queries(topic):
     prompt = f"""You help make a funny YouTube Short that ranks the funniest animal moments.
 Topic: {topic['title']}. Idea: {topic.get('angle', '')}
@@ -110,7 +119,9 @@ def _strip(c, work):
         with open(out, "rb") as f:
             return f.read()
     except Exception as e:  # noqa: BLE001
-        print(f"  preview failed for {c['id']}: {str(e)[:100]}")
+        global _fails
+        _fails += 1
+        (_note if _fails <= 2 else print)(f"preview failed for {c['id']}: {str(e)[:150]}")
         return None
 
 
@@ -159,27 +170,30 @@ def find(topic, work, need=7):
         return "none", []
     os.makedirs(work, exist_ok=True)
     seen, pool = set(), []
-    for q in _queries(topic):
+    qs = _queries(topic)
+    for q in qs:
         pool += _candidates(q, seen)[:4]
         if len(pool) >= 30:
             break
-    print(f"funny clips: {len(pool)} candidates")
-    rated, batch = [], []
+    _note(f"{len(pool)} candidate clips from searches: " + ", ".join(q["q"] for q in qs))
+    rated, batch, strips = [], [], 0
     for c in pool:
         b = _strip(c, work)
         if b:
+            strips += 1
             batch.append((c, b))
         if len(batch) == 6:
             try:
                 rated += _rate(batch)
             except Exception as e:  # noqa: BLE001
-                print("  clip rating failed:", str(e)[:100])
+                _note(f"clip rating failed: {str(e)[:200]}")
             batch = []
     if batch:
         try:
             rated += _rate(batch)
         except Exception as e:  # noqa: BLE001
-            print("  clip rating failed:", str(e)[:100])
+            _note(f"clip rating failed: {str(e)[:200]}")
+    _note(f"{strips} previews made, {len(rated)} rated: " + "; ".join(f"{c['funny']:.0f} {c.get('desc', '')[:40]}" for c in rated[:12]))
     rated = [c for c in rated if c["funny"] >= config.CLIP_MIN_FUNNY]
     rated.sort(key=lambda c: c["funny"], reverse=True)
     with_sound = [c for c in rated if c.get("has_audio")]

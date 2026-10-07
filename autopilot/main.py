@@ -585,6 +585,8 @@ def cmd_test(args):
         mode, found = clips.find(topic, os.path.join(config.WORK_DIR, "test_clips"))
         topic["clip_notes"] = clips.notes(found) if mode == "narrate" else ""
         print(f"::notice title=clips mode::{mode} ({len(found)} clips)")
+        if mode == "none":
+            topic.update(format="ranking", tone="funny")
         for c in found:
             print(f"::notice title=clip {c['funny']:.0f}/10 sound={c.get('has_audio')}::{c['desc']} ({c['credit'][:60]})")
     pkg = clips.package(topic, found) if mode == "audio" else writer.write_package(topic)
@@ -623,6 +625,14 @@ def main():
             return cmd_test(args)
         if cmd == "aicheck":
             return cmd_aicheck()
+        if cmd == "clipsfind":  # quick check of the funny-clip search, no video
+            os.environ["FOOTAGE_NOTICES"] = "1"
+            from . import clips
+            mode, found = clips.find({"title": " ".join(args) or "Ranking the funniest animal moments"},
+                                     os.path.join(config.WORK_DIR, "clipsfind"))
+            for c in found:
+                print(f"::notice title=clip {c['funny']:.0f}/10 sound={c.get('has_audio')}::{c['desc']} ({c['credit'][:60]})")
+            return print(f"::notice title=clips mode::{mode} ({len(found)} clips)")
         if cmd == "stats":
             st = state.load()
             library.refresh_stats(force=True)
