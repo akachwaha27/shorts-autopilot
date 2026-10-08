@@ -206,7 +206,7 @@
     "rank": 4,
     "title": "3 Tech Settings You Need to Change Immediately",
     "trend_source": "tech general interest",
-    "video_id": "2026-10-05-4",
+    "video_id": "2026-10-07-3",
     "virality_score": 8,
     "why": "High utility drives saves and shares, two metrics heavily rewarded by the Shorts algorithm."
    },
@@ -304,44 +304,44 @@
    {
     "angle": "Counting down everyday foods and condiments that humans have been enjoying for thousands of years longer than expected.",
     "format": "ranking",
-    "picked": false,
+    "picked": true,
     "rank": 1,
     "title": "Top 5 Foods That Are Way Older Than You Think",
     "trend_source": "evergreen",
-    "video_id": null,
+    "video_id": "2026-10-07-1",
     "virality_score": 10,
     "why": "Leverages curiosity and surprise, driving high completion rates and comments from viewers guessing the dates."
    },
    {
     "angle": "A humorous countdown of bizarre historical gadgets that completely missed the mark.",
     "format": "ranking",
-    "picked": false,
+    "picked": true,
     "rank": 2,
     "title": "Top 5 Absurd Inventions That Made Zero Sense",
     "trend_source": "INFINITE MONEY GLITCH FOUND / gaming clicker trends",
-    "video_id": null,
+    "video_id": "2026-10-07-2",
     "virality_score": 9,
     "why": "Combines comedy with a structured ranking format, guaranteeing strong watch time and humorous comments."
    },
    {
     "angle": "Quick, highly actionable smartphone settings that instantly improve battery life and privacy.",
     "format": "tips",
-    "picked": false,
+    "picked": true,
     "rank": 3,
     "title": "3 Tech Settings You Need to Change Immediately",
     "trend_source": "jordan hurts contract / tech interest",
-    "video_id": "2026-10-05-4",
+    "video_id": "2026-10-07-3",
     "virality_score": 9,
     "why": "Delivers immediate practical value, prompting saves and shares which heavily boost the algorithm."
    },
    {
     "angle": "An engaging, fast-paced explanation of pressure physics using simple everyday analogies.",
     "format": "explainer",
-    "picked": false,
+    "picked": true,
     "rank": 4,
     "title": "Why Soda Cans Explode at High Altitudes",
     "trend_source": "ARC Raiders / gaming & physics hype",
-    "video_id": null,
+    "video_id": "2026-10-07-4",
     "virality_score": 8,
     "why": "Satisfies viewer curiosity quickly with strong visual pacing, keeping retention high through the middle mark."
    },
@@ -369,6 +369,6 @@
    }
   ],
   "sent_at": "2026-10-07T18:05:17.073822+00:00",
-  "status": "waiting"
+  "status": "closed"
  }
 }

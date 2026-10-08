@@ -314,8 +314,13 @@
         }
       ],
       "sent_at": "2026-10-07T18:05:17.073822+00:00",
-      "selected": [],
-      "status": "waiting"
+      "selected": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "status": "closed"
     }
   },
   "videos": {
@@ -2968,6 +2973,1429 @@
       },
       "uploaded_at": "2026-10-07T00:33:35.638076+00:00",
       "slot": "2026-10-07T23:15:00+00:00"
+    },
+    "2026-10-07-1": {
+      "topic": {
+        "title": "Top 5 Foods That Are Way Older Than You Think",
+        "angle": "Counting down everyday foods and condiments that humans have been enjoying for thousands of years longer than expected.",
+        "format": "ranking",
+        "tone": "normal",
+        "trend_source": "evergreen",
+        "virality_score": 10,
+        "why": "Leverages curiosity and surprise, driving high completion rates and comments from viewers guessing the dates."
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-08T00:06:11.039141+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "foods older than you think",
+        "title": "Top 5 Foods That Are Way Older Than You Think",
+        "hook_text": "Ancient foods you still eat",
+        "thumbnail_text": "Shocking Ancient Foods",
+        "description": "Discover top 5 foods that are way older than you think, from prehistoric soup to ancient condiments. Learn the surprising history behind your daily snacks.",
+        "hashtags": [
+          "#shorts",
+          "#foodhistory",
+          "#ancienthistory",
+          "#top5"
+        ],
+        "tags": [
+          "foods older than you think",
+          "foods humans ate thousands of years ago",
+          "oldest foods in the world",
+          "oldest fast food in the world",
+          "ancient foods still eaten today",
+          "oldest food recipes in the world",
+          "eating the oldest food in the world",
+          "surprising food history facts",
+          "ancient foods",
+          "food history weird",
+          "food of early humans",
+          "strange food history",
+          "top 5 food facts",
+          "bizarre food history",
+          "history of everyday foods",
+          "ancient cooking discoveries",
+          "ancient condiments and snacks"
+        ],
+        "pinned_comment": "Which of these ancient foods surprised you the most? Drop your answer below and let us know what you usually snack on!",
+        "scenes": [
+          {
+            "text": "You won't believe how old your favorite foods actually are. We are counting down five everyday items humans have enjoyed for millennia. Let us dive right in.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "ancient kitchen ingredients",
+              "historical food display"
+            ],
+            "image_prompt": "Cinematic vertical 9:16 image of rustic ancient clay bowls filled with various seeds and spices on stone table, warm lighting, macro shot, no text",
+            "stock_query": "ancient kitchen ingredients"
+          },
+          {
+            "text": "Number five is chocolate. Mesoamericans were brewing and enjoying a bitter cacao drink over three thousand years ago, long before it became sweet candy.",
+            "badge": "#5",
+            "label": "Chocolate",
+            "stock_queries": [
+              "raw cacao beans",
+              "chocolate beans heap"
+            ],
+            "image_prompt": "Cinematic vertical 9:16 image of raw cacao pods and dark chocolate chunks scattered on a dark wooden surface, dramatic lighting, no text",
+            "stock_query": "raw cacao beans"
+          },
+          {
+            "text": "At number four, we have cheese. Archaeological pottery proves humans were making cheese over seven thousand years ago, starting right around the dawn of agriculture.",
+            "badge": "#4",
+            "label": "Cheese",
+            "stock_queries": [
+              "aged cheese wheel",
+              "cutting yellow cheese"
+            ],
+            "image_prompt": "Cinematic vertical 9:16 image of a rustic wheel of aged cheese with a knife resting on a wooden board, warm morning light, no text",
+            "stock_query": "aged cheese wheel"
+          },
+          {
+            "text": "Number three is bread. Residue on ancient stones shows people were baking flour and water flatbreads nearly fourteen thousand years ago, before we even farmed grain.",
+            "badge": "#3",
+            "label": "Bread",
+            "stock_queries": [
+              "fresh baked loaf",
+              "rustic artisan bread"
+            ],
+            "image_prompt": "Cinematic vertical 9:16 image of a crusty loaf of artisan bread resting on a floured wooden counter, soft natural window light, no text",
+            "stock_query": "fresh baked loaf"
+          },
+          {
+            "text": "At number two is popcorn. Fossilized corn cobs prove that indigenous groups in the Americas were popping kernels over six thousand years ago. That is a seriously old snack.",
+            "badge": "#2",
+            "label": "Popcorn",
+            "stock_queries": [
+              "fresh popped popcorn",
+              "corn kernels bowl"
+            ],
+            "image_prompt": "Cinematic vertical 9:16 image of a wooden bowl overflowing with fluffy white popcorn, cozy atmosphere, macro detail, no text",
+            "stock_query": "fresh popped popcorn"
+          },
+          {
+            "text": "Number one is soup. Boiling water in crude vessels with meat and plants has been happening for at least twenty thousand years, making it our oldest cooked meal ever.",
+            "badge": "#1",
+            "label": "Soup",
+            "stock_queries": [
+              "hot soup pot",
+              "steaming broth bowl"
+            ],
+            "image_prompt": "Cinematic vertical 9:16 image of a steaming ceramic bowl of rich broth with herbs on a rustic table, steam rising gently, no text",
+            "stock_query": "hot soup pot"
+          },
+          {
+            "text": "History tastes amazing, right? You won't believe how old your favorite foods actually are.",
+            "badge": "",
+            "label": "Outro",
+            "stock_queries": [
+              "diverse ancient food",
+              "historical meal spread"
+            ],
+            "image_prompt": "Cinematic vertical 9:16 image of a gorgeous spread of ancient grains, fruits, and clay cookware on a stone counter, beautiful composition, no text",
+            "stock_query": "diverse ancient food"
+          }
+        ],
+        "key_facts": [
+          "Cacao was consumed as a drink in Mesoamerica over 3,000 years ago.",
+          "Cheese making dates back over 7,000 years based on archaeological pottery evidence.",
+          "Flatbread baking dates back nearly 14,000 years, predating systematic agriculture.",
+          "Popcorn was made by indigenous peoples in the Americas over 6,000 years ago.",
+          "Soup cooking in vessels dates back at least 20,000 years."
+        ],
+        "format": "ranking",
+        "tone": "normal",
+        "category": "27",
+        "script": "You won't believe how old your favorite foods actually are. We are counting down five everyday items humans have enjoyed for millennia. Let us dive right in. Number five is chocolate. Mesoamericans were brewing and enjoying a bitter cacao drink over three thousand years ago, long before it became sweet candy. At number four, we have cheese. Archaeological pottery proves humans were making cheese over seven thousand years ago, starting right around the dawn of agriculture. Number three is bread. Residue on ancient stones shows people were baking flour and water flatbreads nearly fourteen thousand years ago, before we even farmed grain. At number two is popcorn. Fossilized corn cobs prove that indigenous groups in the Americas were popping kernels over six thousand years ago. That is a seriously old snack. Number one is soup. Boiling water in crude vessels with meat and plants has been happening for at least twenty thousand years, making it our oldest cooked meal ever. History tastes amazing, right? You won't believe how old your favorite foods actually are.",
+        "shot_plan": [
+          {
+            "subject": "assorted everyday food items on a table",
+            "queries": [
+              {
+                "q": "variety of food",
+                "must": [
+                  "food"
+                ]
+              },
+              {
+                "q": "grocery items",
+                "must": [
+                  "grocery"
+                ]
+              },
+              {
+                "q": "kitchen table",
+                "must": [
+                  "table"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "dark chocolate bar and cocoa beans",
+            "queries": [
+              {
+                "q": "chocolate bar",
+                "must": [
+                  "chocolate"
+                ]
+              },
+              {
+                "q": "cocoa beans",
+                "must": [
+                  "cocoa"
+                ]
+              },
+              {
+                "q": "dark chocolate",
+                "must": [
+                  "candy"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "wheel of cheese being sliced with a knife",
+            "queries": [
+              {
+                "q": "cheese wheel",
+                "must": [
+                  "cheese"
+                ]
+              },
+              {
+                "q": "cutting cheese",
+                "must": [
+                  "knife"
+                ]
+              },
+              {
+                "q": "dairy food",
+                "must": [
+                  "dairy"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "freshly baked loaf of bread on a wooden board",
+            "queries": [
+              {
+                "q": "loaf of bread",
+                "must": [
+                  "bread"
+                ]
+              },
+              {
+                "q": "baking bread",
+                "must": [
+                  "bakery"
+                ]
+              },
+              {
+                "q": "sliced bread",
+                "must": [
+                  "food"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "bowl of freshly popped popcorn",
+            "queries": [
+              {
+                "q": "popcorn bowl",
+                "must": [
+                  "popcorn"
+                ]
+              },
+              {
+                "q": "popped corn",
+                "must": [
+                  "snack"
+                ]
+              },
+              {
+                "q": "butter popcorn",
+                "must": [
+                  "bowl"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "steaming hot bowl of soup with a spoon",
+            "queries": [
+              {
+                "q": "bowl of soup",
+                "must": [
+                  "soup"
+                ]
+              },
+              {
+                "q": "hot soup",
+                "must": [
+                  "bowl"
+                ]
+              },
+              {
+                "q": "steaming meal",
+                "must": [
+                  "food"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "delicious assortment of various foods",
+            "queries": [
+              {
+                "q": "delicious food",
+                "must": [
+                  "food"
+                ]
+              },
+              {
+                "q": "gourmet meal",
+                "must": [
+                  "meal"
+                ]
+              },
+              {
+                "q": "cooking ingredients",
+                "must": [
+                  "kitchen"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "food",
+          "kitchen",
+          "history"
+        ],
+        "visual_style": "Fast-paced educational countdown showing appetizing close-up food footage with clean modern text overlays",
+        "visual_refs": [
+          "5 Foods That Make You Look And Feel Older Than You Are",
+          "Arizona man, 110 years-old, credits long life and health to 5 foods",
+          "PAYING CELEBRITIES TO GUESS MY AGE AT COACHELLA #shorts",
+          "Is this the Oldest Man in the World? \ud83e\udd2f\ud83d\udd75\ud83c\udffb\u200d\u2640\ufe0f #shorts",
+          "How old were you at age 11? #tall #tallfamily",
+          "the boy doesn&#39;t believe in age doesn&#39;t matter\ud83d\ude2d"
+        ],
+        "voice": "en-US-BrianMultilingualNeural",
+        "visual_report": {
+          "shots": 16,
+          "checked": 16,
+          "unchecked": 0,
+          "filler": 1
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-BrianMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): Coverr-Free-Footage (Pixabay) https://pixabay.com/videos/id-1019/; Ri_Ya (Pixabay) https://pixabay.com/videos/id-165976/; GreenCardShow (Pixabay) https://pixabay.com/videos/id-11323/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-308450/; AlexKopeykin (Pixabay) https://pixabay.com/videos/id-63067/; Dimi_Tri (Pixabay) https://pixabay.com/videos/id-329392/; AlexKopeykin (Pixabay) https://pixabay.com/videos/id-63066/; Vogue0987 (Pixabay) https://pixabay.com/videos/id-301691/; jeffjacobs1990 (Pixabay) https://pixabay.com/videos/id-93090/; groovelanddesigns (Pixabay) https://pixabay.com/videos/id-37441/; livesmart (Pixabay) https://pixabay.com/videos/id-163383/; flutie8211 (Pixabay) https://pixabay.com/videos/id-372554/; XiaosKitchen (Pixabay) https://pixabay.com/videos/id-11700/; kurt_BID (Pixabay) https://pixabay.com/videos/id-227128/; xBriantcx (Pixabay) https://pixabay.com/videos/id-238823/"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-07",
+        "name": "2026-10-07-1-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-07",
+        "name": "2026-10-07-1-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,068 --> 00:00:01,727\nYou won't believe how old your favorite\n\n2\n00:00:01,727 --> 00:00:04,159\nfoods actually are We are counting down\n\n3\n00:00:04,159 --> 00:00:06,557\nfive everyday items humans have enjoyed for\n\n4\n00:00:06,557 --> 00:00:09,148\nmillennia Let us dive right in Number\n\n5\n00:00:09,148 --> 00:00:12,057\nfive is chocolate Mesoamericans were brewing\n\n6\n00:00:12,057 --> 00:00:13,909\nand enjoying a bitter cacao drink over\n\n7\n00:00:13,909 --> 00:00:16,307\nthree thousand years ago long before it\n\n8\n00:00:16,307 --> 00:00:18,641\nbecame sweet candy At number four we\n\n9\n00:00:18,641 --> 00:00:21,466\nhave cheese Archaeological pottery proves humans\n\n10\n00:00:21,466 --> 00:00:23,432\nwere making cheese over seven thousand years\n\n11\n00:00:23,432 --> 00:00:25,773\nago starting right around the dawn of\n\n12\n00:00:25,773 --> 00:00:29,091\nagriculture Number three is bread Residue on\n\n13\n00:00:29,091 --> 00:00:31,500\nancient stones shows people were baking flour\n\n14\n00:00:31,500 --> 00:00:33,500\nand water flatbreads nearly fourteen thousand\n\n15\n00:00:33,500 --> 00:00:36,107\nyears ago before we even farmed grain\n\n16\n00:00:36,107 --> 00:00:38,943\nAt number two is popcorn Fossilized corn\n\n17\n00:00:38,943 --> 00:00:41,080\ncobs prove that indigenous groups in the\n\n18\n00:00:41,080 --> 00:00:43,409\nAmericas were popping kernels over six thousand\n\n19\n00:00:43,409 --> 00:00:45,500\nyears ago That is a seriously old\n\n20\n00:00:45,500 --> 00:00:48,648\nsnack Number one is soup Boiling water\n\n21\n00:00:48,648 --> 00:00:50,455\nin crude vessels with meat and plants\n\n22\n00:00:50,455 --> 00:00:52,114\nhas been happening for at least twenty\n\n23\n00:00:52,114 --> 00:00:54,455\nthousand years making it our oldest cooked\n\n24\n00:00:54,455 --> 00:00:57,705\nmeal ever History tastes amazing right You\n\n25\n00:00:57,705 --> 00:00:59,625\nwon't believe how old your favorite foods\n\n26\n00:00:59,625 --> 00:01:00,775\nactually are\n",
+      "tg_msg": 186,
+      "opts_msg": 188
+    },
+    "2026-10-07-2": {
+      "topic": {
+        "title": "Top 5 Absurd Inventions That Made Zero Sense",
+        "angle": "A humorous countdown of bizarre historical gadgets that completely missed the mark.",
+        "format": "ranking",
+        "tone": "funny",
+        "trend_source": "INFINITE MONEY GLITCH FOUND / gaming clicker trends",
+        "virality_score": 9,
+        "why": "Combines comedy with a structured ranking format, guaranteeing strong watch time and humorous comments."
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-08T00:11:20.364417+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "absurd inventions",
+        "title": "Top 5 Absurd Inventions That Made Zero Sense",
+        "hook_text": "Worst inventions ever made",
+        "thumbnail_text": "Bizarre Gadgets",
+        "description": "Discover the top five absurd inventions from history that completely missed the mark with zero sense. These weird historical gadgets will leave you speechless.",
+        "hashtags": [
+          "#shorts",
+          "#history",
+          "#weirdhistory",
+          "#top5",
+          "#funny"
+        ],
+        "tags": [
+          "absurd inventions",
+          "funny history facts",
+          "weird history facts",
+          "strange history facts",
+          "weird historical facts",
+          "the most absurd inventions in history",
+          "weird historical gadgets",
+          "bizarre history",
+          "useless inventions",
+          "weird historical weapons",
+          "useless inventions shorts",
+          "history you didn't know",
+          "crazy historical inventions",
+          "absurd things",
+          "stupid human inventions",
+          "top 5 history",
+          "strange gadgets",
+          "strange history",
+          "weird inventions"
+        ],
+        "pinned_comment": "Which of these bizarre gadgets would you actually try to use for just one day?",
+        "scenes": [
+          {
+            "text": "Some history inventions make you wonder if the creators lost their minds entirely, and these five are the absolute peak.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "vintage blueprints",
+              "old factory machinery"
+            ],
+            "image_prompt": "Vertical 9:16 shot of ancient patent blueprints scattered on an old wooden desk, cinematic lighting, no text, no people.",
+            "stock_query": "vintage blueprints"
+          },
+          {
+            "text": "Number five, the electric baby brush. Because nothing says soothing your crying infant quite like a buzzing motorized hairbrush on their tiny head.",
+            "badge": "#5",
+            "label": "Electric Baby Brush",
+            "stock_queries": [
+              "vintage hairbrush",
+              "old baby rattle"
+            ],
+            "image_prompt": "Vertical 9:16 shot of a strange antique motorized hairbrush resting on a lace blanket, soft vintage lighting, no people.",
+            "stock_query": "vintage hairbrush"
+          },
+          {
+            "text": "At number four, the radio hat. It was a straw hat with a massive antenna, weighing nearly three pounds, just so you could listen to static on the go.",
+            "badge": "#4",
+            "label": "Radio Hat",
+            "stock_queries": [
+              "vintage straw hat",
+              "old radio antenna"
+            ],
+            "image_prompt": "Vertical 9:16 shot of an old straw boater hat with a wire antenna attached to the brim, retro style, no people.",
+            "stock_query": "vintage straw hat"
+          },
+          {
+            "text": "Number three is the butter fork. Someone looked at a knife, which was already working fine, and decided we needed a tiny rake for our dairy.",
+            "badge": "#3",
+            "label": "Butter Fork",
+            "stock_queries": [
+              "silver butter knife",
+              "antique silverware fork"
+            ],
+            "image_prompt": "Vertical 9:16 shot of ornate antique silverware resting on a dark velvet background, dramatic lighting, no people.",
+            "stock_query": "silver butter knife"
+          },
+          {
+            "text": "At number two, the TV glasses. They were mirror spectacles letting you watch television while lying flat, assuming you enjoyed severe neck strain.",
+            "badge": "#2",
+            "label": "TV Glasses",
+            "stock_queries": [
+              "vintage eyeglasses",
+              "old television set"
+            ],
+            "image_prompt": "Vertical 9:16 shot of strange metal prism spectacles resting on a vintage wooden table, cinematic look, no people.",
+            "stock_query": "vintage eyeglasses"
+          },
+          {
+            "text": "Number one, the alarm clock gun. It was a rigged pistol tied to your alarm that literally shot you awake. Because some history inventions make you...",
+            "badge": "#1",
+            "label": "Alarm Clock Gun",
+            "stock_queries": [
+              "antique pistol",
+              "vintage alarm clock"
+            ],
+            "image_prompt": "Vertical 9:16 shot of a rusty old wind-up alarm clock next to a vintage pocket pistol, moody shadows, no people.",
+            "stock_query": "antique pistol"
+          },
+          {
+            "text": "Some history inventions make you wonder if the creators lost their minds entirely, and these five are the absolute peak.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "old workshop tools",
+              "vintage patent office"
+            ],
+            "image_prompt": "Vertical 9:16 shot of vintage workshop gears and antique tools on a workbench, warm lighting, no people.",
+            "stock_query": "old workshop tools"
+          }
+        ],
+        "key_facts": [
+          "The radio hat was a portable radio built into a straw boater hat in the nineteen twenties.",
+          "The butter fork was a nineteenth-century utensil meant for curling butter.",
+          "The alarm clock gun was patented to wake people up by firing a blank cartridge."
+        ],
+        "format": "ranking",
+        "tone": "funny",
+        "category": "23",
+        "script": "Some history inventions make you wonder if the creators lost their minds entirely, and these five are the absolute peak. Number five, the electric baby brush. Because nothing says soothing your crying infant quite like a buzzing motorized hairbrush on their tiny head. At number four, the radio hat. It was a straw hat with a massive antenna, weighing nearly three pounds, just so you could listen to static on the go. Number three is the butter fork. Someone looked at a knife, which was already working fine, and decided we needed a tiny rake for our dairy. At number two, the TV glasses. They were mirror spectacles letting you watch television while lying flat, assuming you enjoyed severe neck strain. Number one, the alarm clock gun. It was a rigged pistol tied to your alarm that literally shot you awake. Because some history inventions make you... Some history inventions make you wonder if the creators lost their minds entirely, and these five are the absolute peak.",
+        "shot_plan": [
+          {
+            "subject": "vintage oddities",
+            "queries": [
+              {
+                "q": "antique gadget",
+                "must": [
+                  "antique"
+                ]
+              },
+              {
+                "q": "weird invention",
+                "must": [
+                  "invention"
+                ]
+              },
+              {
+                "q": "vintage object",
+                "must": [
+                  "vintage"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "electric hairbrush",
+            "queries": [
+              {
+                "q": "hairbrush",
+                "must": [
+                  "hairbrush"
+                ]
+              },
+              {
+                "q": "electric brush",
+                "must": [
+                  "brush"
+                ]
+              },
+              {
+                "q": "baby care",
+                "must": [
+                  "baby"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "radio hat",
+            "queries": [
+              {
+                "q": "radio hat",
+                "must": [
+                  "hat"
+                ]
+              },
+              {
+                "q": "vintage radio",
+                "must": [
+                  "radio"
+                ]
+              },
+              {
+                "q": "straw hat",
+                "must": [
+                  "hat"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "butter knife",
+            "queries": [
+              {
+                "q": "butter knife",
+                "must": [
+                  "knife"
+                ]
+              },
+              {
+                "q": "silver fork",
+                "must": [
+                  "fork"
+                ]
+              },
+              {
+                "q": "butter dish",
+                "must": [
+                  "butter"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "eyeglasses",
+            "queries": [
+              {
+                "q": "eyeglasses",
+                "must": [
+                  "eyeglasses"
+                ]
+              },
+              {
+                "q": "vintage glasses",
+                "must": [
+                  "glasses"
+                ]
+              },
+              {
+                "q": "mirror",
+                "must": [
+                  "mirror"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "alarm clock",
+            "queries": [
+              {
+                "q": "alarm clock",
+                "must": [
+                  "clock"
+                ]
+              },
+              {
+                "q": "pistol",
+                "must": [
+                  "pistol"
+                ]
+              },
+              {
+                "q": "vintage clock",
+                "must": [
+                  "clock"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "vintage oddities",
+            "queries": [
+              {
+                "q": "antique gadget",
+                "must": [
+                  "antique"
+                ]
+              },
+              {
+                "q": "weird invention",
+                "must": [
+                  "invention"
+                ]
+              },
+              {
+                "q": "vintage object",
+                "must": [
+                  "vintage"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "vintage gadget",
+          "weird invention",
+          "antique device"
+        ],
+        "visual_style": "Fast-paced humorous countdown of bizarre historical gadgets using absurd close-up stock footage.",
+        "visual_refs": [
+          "I&#39;ve invented literally everything.",
+          "Japans weirdest inventions that make sense.",
+          "these glasses help you do ONE thing",
+          "Why hasn&#39;t Apple invented this yet?!",
+          "These Genius Inventions Should Exist Everywhere! \ud83e\udd2f",
+          "KIDS WHO BECAME INVENTORS!"
+        ],
+        "voice": "en-AU-WilliamMultilingualNeural",
+        "visual_report": {
+          "shots": 14,
+          "checked": 14,
+          "unchecked": 0,
+          "filler": 3
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-AU-WilliamMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-380557/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-1260/; wastedgeneration (Pixabay) https://pixabay.com/videos/id-15629/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-346861/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-346879/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-347344/; ha11ok (Pixabay) https://pixabay.com/videos/id-21222/; ha11ok (Pixabay) https://pixabay.com/videos/id-21223/; PIRO4D (Pixabay) https://pixabay.com/videos/id-8503/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-312467/; wowfactorfilms (Pixabay) https://pixabay.com/videos/id-28544/"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-07",
+        "name": "2026-10-07-2-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-07",
+        "name": "2026-10-07-2-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,050 --> 00:00:02,231\nSome history inventions make you wonder if\n\n2\n00:00:02,231 --> 00:00:04,824\nthe creators lost their minds entirely and\n\n3\n00:00:04,824 --> 00:00:07,537\nthese five are the absolute peak Number\n\n4\n00:00:07,537 --> 00:00:10,968\nfive the electric baby brush Because nothing\n\n5\n00:00:10,968 --> 00:00:13,268\nsays soothing your crying infant quite like\n\n6\n00:00:13,268 --> 00:00:15,476\na buzzing motorized hairbrush on their tiny\n\n7\n00:00:15,476 --> 00:00:18,773\nhead At number four the radio hat\n\n8\n00:00:18,773 --> 00:00:20,037\nIt was a straw hat with a\n\n9\n00:00:20,037 --> 00:00:23,055\nmassive antenna weighing nearly three pounds\n\n10\n00:00:23,055 --> 00:00:24,585\njust so you could listen to static\n\n11\n00:00:24,585 --> 00:00:26,699\non the go Number three is the\n\n12\n00:00:26,699 --> 00:00:29,345\nbutter fork Someone looked at a knife\n\n13\n00:00:29,345 --> 00:00:31,991\nwhich was already working fine and decided\n\n14\n00:00:31,991 --> 00:00:33,494\nwe needed a tiny rake for our\n\n15\n00:00:33,494 --> 00:00:37,178\ndairy At number two the TV glasses\n\n16\n00:00:37,178 --> 00:00:39,106\nThey were mirror spectacles letting you watch\n\n17\n00:00:39,106 --> 00:00:42,018\ntelevision while lying flat assuming you enjoyed\n\n18\n00:00:42,018 --> 00:00:45,289\nsevere neck strain Number one the alarm\n\n19\n00:00:45,289 --> 00:00:47,444\nclock gun It was a rigged pistol\n\n20\n00:00:47,444 --> 00:00:49,438\ntied to your alarm that literally shot\n\n21\n00:00:49,438 --> 00:00:52,404\nyou awake Because some history inventions make\n\n22\n00:00:52,404 --> 00:00:55,156\nyou Some history inventions make you wonder\n\n23\n00:00:55,156 --> 00:00:57,710\nif the creators lost their minds entirely\n\n24\n00:00:57,710 --> 00:01:00,237\nand these five are the absolute peak\n",
+      "tg_msg": 189,
+      "opts_msg": 191
+    },
+    "2026-10-07-3": {
+      "topic": {
+        "title": "3 Tech Settings You Need to Change Immediately",
+        "angle": "Quick, highly actionable smartphone settings that instantly improve battery life and privacy.",
+        "format": "tips",
+        "tone": "normal",
+        "trend_source": "jordan hurts contract / tech interest",
+        "virality_score": 9,
+        "why": "Delivers immediate practical value, prompting saves and shares which heavily boost the algorithm."
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-08T00:15:56.964128+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "phone settings to change",
+        "title": "Change These 3 Phone Settings Right Now",
+        "hook_text": "Stop draining your battery!",
+        "thumbnail_text": "Change These Now",
+        "description": "Change these three phone settings to instantly improve your battery life and protect your privacy.",
+        "hashtags": [
+          "#shorts",
+          "#tech",
+          "#smartphone",
+          "#lifehacks"
+        ],
+        "tags": [
+          "phone settings to change",
+          "stop battery drain iphone",
+          "stop battery drain android",
+          "improve battery life iphone",
+          "improve battery life android",
+          "tech life hacks",
+          "stop battery drain",
+          "fix battery drain",
+          "smartphone privacy",
+          "smartphone security tips",
+          "phone battery tips",
+          "improve battery life",
+          "hidden phone features",
+          "smartphone privacy tips",
+          "tech tricks",
+          "iphone settings",
+          "android settings",
+          "privacy settings",
+          "phone optimization"
+        ],
+        "pinned_comment": "Which of these three settings did you turn off first?",
+        "scenes": [
+          {
+            "text": "Your phone is secretly draining battery and tracking you all day long, so you need to fix this right now.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "smartphone screen close up",
+              "person holding smartphone"
+            ],
+            "image_prompt": "Vertical 9:16 image of a glowing smartphone screen in a dark room, minimalist tech aesthetic, no people, no text",
+            "stock_query": "smartphone screen close up"
+          },
+          {
+            "text": "Tip one, disable significant locations. Your device literally keeps a log of every single place you visit.",
+            "badge": "TIP 1",
+            "label": "Location Tracking",
+            "stock_queries": [
+              "phone gps map",
+              "digital map navigation"
+            ],
+            "image_prompt": "Vertical 9:16 image of a digital map interface on a device screen showing location pins, clean minimal design, no text",
+            "stock_query": "phone gps map"
+          },
+          {
+            "text": "Go into your privacy settings, find location services, scroll down to system services, and turn off significant locations.",
+            "badge": "TIP 1",
+            "label": "Location Tracking",
+            "stock_queries": [
+              "tapping phone screen",
+              "scrolling smartphone"
+            ],
+            "image_prompt": "Vertical 9:16 image of a hand interacting with a smartphone menu interface, clean studio lighting, no text",
+            "stock_query": "tapping phone screen"
+          },
+          {
+            "text": "Tip two, turn off background app refresh. Apps update constantly in the background, killing your battery life.",
+            "badge": "TIP 2",
+            "label": "Background Refresh",
+            "stock_queries": [
+              "smartphone battery icon",
+              "charging smartphone"
+            ],
+            "image_prompt": "Vertical 9:16 image of a smartphone displaying battery percentage and power settings, clean minimalist style, no text",
+            "stock_query": "smartphone battery icon"
+          },
+          {
+            "text": "Limit it to only your essential messaging apps, and watch how much longer your daily charge actually lasts.",
+            "badge": "TIP 2",
+            "label": "Background Refresh",
+            "stock_queries": [
+              "modern smartphone",
+              "tech gadget close up"
+            ],
+            "image_prompt": "Vertical 9:16 image of a modern smartphone resting on a wooden desk, sleek design, no text",
+            "stock_query": "modern smartphone"
+          },
+          {
+            "text": "Tip three, restrict ad tracking. Companies build profiles on you based on your habits, but you can block them.",
+            "badge": "TIP 3",
+            "label": "Ad Tracking",
+            "stock_queries": [
+              "digital privacy shield",
+              "secure lock icon"
+            ],
+            "image_prompt": "Vertical 9:16 image of abstract digital security and data protection graphics, blue tones, no text",
+            "stock_query": "digital privacy shield"
+          },
+          {
+            "text": "Head into your privacy settings, look for tracking, and toggle off apps requesting to track you.",
+            "badge": "TIP 3",
+            "label": "Ad Tracking",
+            "stock_queries": [
+              "settings menu screen",
+              "smartphone interface"
+            ],
+            "image_prompt": "Vertical 9:16 image of a phone settings menu with toggle switches, clean user interface design, no text",
+            "stock_query": "settings menu screen"
+          },
+          {
+            "text": "Do these three things today, and remember that your phone is secretly draining battery and tracking you all day long.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "smartphone on table",
+              "modern technology"
+            ],
+            "image_prompt": "Vertical 9:16 image of a sleek smartphone on a clean surface, minimalist tech setup, no text",
+            "stock_query": "smartphone on table"
+          }
+        ],
+        "key_facts": [
+          "Significant locations track places a user visits.",
+          "Background app refresh allows apps to update content while not in use.",
+          "Ad tracking permits apps to monitor user activity across other apps and websites."
+        ],
+        "format": "tips",
+        "tone": "normal",
+        "category": "26",
+        "script": "Your phone is secretly draining battery and tracking you all day long, so you need to fix this right now. Tip one, disable significant locations. Your device literally keeps a log of every single place you visit. Go into your privacy settings, find location services, scroll down to system services, and turn off significant locations. Tip two, turn off background app refresh. Apps update constantly in the background, killing your battery life. Limit it to only your essential messaging apps, and watch how much longer your daily charge actually lasts. Tip three, restrict ad tracking. Companies build profiles on you based on your habits, but you can block them. Head into your privacy settings, look for tracking, and toggle off apps requesting to track you. Do these three things today, and remember that your phone is secretly draining battery and tracking you all day long.",
+        "shot_plan": [
+          {
+            "subject": "smartphone charging",
+            "queries": [
+              {
+                "q": "smartphone charging",
+                "must": [
+                  "smartphone"
+                ]
+              },
+              {
+                "q": "mobile device",
+                "must": [
+                  "device"
+                ]
+              },
+              {
+                "q": "phone battery",
+                "must": [
+                  "battery"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "smartphone map",
+            "queries": [
+              {
+                "q": "smartphone map",
+                "must": [
+                  "map"
+                ]
+              },
+              {
+                "q": "gps navigation",
+                "must": [
+                  "navigation"
+                ]
+              },
+              {
+                "q": "location pin",
+                "must": [
+                  "location"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "settings menu",
+            "queries": [
+              {
+                "q": "settings menu",
+                "must": [
+                  "settings"
+                ]
+              },
+              {
+                "q": "privacy settings",
+                "must": [
+                  "privacy"
+                ]
+              },
+              {
+                "q": "toggle switch",
+                "must": [
+                  "switch"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "smartphone battery",
+            "queries": [
+              {
+                "q": "smartphone battery",
+                "must": [
+                  "battery"
+                ]
+              },
+              {
+                "q": "low battery",
+                "must": [
+                  "low"
+                ]
+              },
+              {
+                "q": "phone screen",
+                "must": [
+                  "screen"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "messaging app",
+            "queries": [
+              {
+                "q": "messaging app",
+                "must": [
+                  "messaging"
+                ]
+              },
+              {
+                "q": "chat screen",
+                "must": [
+                  "chat"
+                ]
+              },
+              {
+                "q": "smartphone",
+                "must": [
+                  "smartphone"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "digital security",
+            "queries": [
+              {
+                "q": "digital security",
+                "must": [
+                  "security"
+                ]
+              },
+              {
+                "q": "data privacy",
+                "must": [
+                  "privacy"
+                ]
+              },
+              {
+                "q": "lock icon",
+                "must": [
+                  "lock"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "privacy menu",
+            "queries": [
+              {
+                "q": "privacy menu",
+                "must": [
+                  "menu"
+                ]
+              },
+              {
+                "q": "toggle switch",
+                "must": [
+                  "switch"
+                ]
+              },
+              {
+                "q": "smartphone",
+                "must": [
+                  "smartphone"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "smartphone screen",
+            "queries": [
+              {
+                "q": "smartphone screen",
+                "must": [
+                  "screen"
+                ]
+              },
+              {
+                "q": "mobile phone",
+                "must": [
+                  "phone"
+                ]
+              },
+              {
+                "q": "settings",
+                "must": [
+                  "settings"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "smartphone",
+          "settings menu",
+          "mobile display"
+        ],
+        "visual_style": "Close-up over-the-shoulder smartphone screen recordings demonstrating settings menus and toggle switches with clean minimalist tech aesthetics.",
+        "visual_refs": [
+          "WHAT THE TECH? iPhone settings to change now",
+          "Your iPhone Messages ARE NOT Private Until You Change THIS Setting",
+          "3 iPhone Settings You Need to Change Now!\ud83d\ude32#tech #shortsfeed #shorts #iphone #youtubesearch",
+          "8 Hidden iPhone Privacy Settings You Should Turn Off Today",
+          "3 Settings You Need to Change On POCO F7 #shorts #foryou #tech #tips #pocof7",
+          "iOS 27 Has A Hidden Thing In Settings"
+        ],
+        "voice": "en-US-EmmaMultilingualNeural",
+        "visual_report": {
+          "shots": 18,
+          "checked": 18,
+          "unchecked": 0,
+          "filler": 1
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-EmmaMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): aghyadnajjar (Pixabay) https://pixabay.com/videos/id-44082/; pixzel_studio (Pixabay) https://pixabay.com/videos/id-376765/; DistillVideos (Pixabay) https://pixabay.com/videos/id-1110/; conolan (Pixabay) https://pixabay.com/videos/id-29879/; pixzel_studio (Pixabay) https://pixabay.com/videos/id-376990/; YRDesigns (Pixabay) https://pixabay.com/videos/id-290480/; unique_content (Pixabay) https://pixabay.com/videos/id-304948/; SYG_Anime (Pixabay) https://pixabay.com/videos/id-270587/; wattana1stockphoto (Pixabay) https://pixabay.com/videos/id-115465/; Natures_Embrace (Pixabay) https://pixabay.com/videos/id-202987/; TBIT (Pixabay) https://pixabay.com/videos/id-2176/; TBIT (Pixabay) https://pixabay.com/videos/id-2181/; TBIT (Pixabay) https://pixabay.com/videos/id-2182/; nicknickkey (Pixabay) https://pixabay.com/videos/id-264007/; Coverr-Free-Footage (Pixabay) https://pixabay.com/videos/id-3180/; Coverr-Free-Footage (Pixabay) https://pixabay.com/videos/id-3176/; Coverr-Free-Footage (Pixabay) https://pixabay.com/videos/id-3172/"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-07",
+        "name": "2026-10-07-3-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-07",
+        "name": "2026-10-07-3-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,095 --> 00:00:02,378\nYour phone is secretly draining battery and\n\n2\n00:00:02,378 --> 00:00:04,470\ntracking you all day long so you\n\n3\n00:00:04,470 --> 00:00:06,658\nneed to fix this right now Tip\n\n4\n00:00:06,658 --> 00:00:10,679\none disable significant locations Your device\n\n5\n00:00:10,679 --> 00:00:12,989\nliterally keeps a log of every single\n\n6\n00:00:12,989 --> 00:00:15,625\nplace you visit Go into your privacy\n\n7\n00:00:15,625 --> 00:00:18,573\nsettings find location services scroll down\n\n8\n00:00:18,573 --> 00:00:21,630\nto system services and turn off significant\n\n9\n00:00:21,630 --> 00:00:25,149\nlocations Tip two turn off background app\n\n10\n00:00:25,149 --> 00:00:28,913\nrefresh Apps update constantly in the background\n\n11\n00:00:28,913 --> 00:00:31,522\nkilling your battery life Limit it to\n\n12\n00:00:31,522 --> 00:00:34,321\nonly your essential messaging apps and watch\n\n13\n00:00:34,321 --> 00:00:36,617\nhow much longer your daily charge actually\n\n14\n00:00:36,617 --> 00:00:41,046\nlasts Tip three restrict ad tracking Companies\n\n15\n00:00:41,046 --> 00:00:42,976\nbuild profiles on you based on your\n\n16\n00:00:42,976 --> 00:00:45,693\nhabits but you can block them Head\n\n17\n00:00:45,693 --> 00:00:48,872\ninto your privacy settings look for tracking\n\n18\n00:00:48,872 --> 00:00:51,128\nand toggle off apps requesting to track\n\n19\n00:00:51,128 --> 00:00:53,899\nyou Do these three things today and\n\n20\n00:00:53,899 --> 00:00:56,128\nremember that your phone is secretly draining\n\n21\n00:00:56,128 --> 00:00:58,729\nbattery and tracking you all day long\n",
+      "tg_msg": 192,
+      "opts_msg": 194
+    },
+    "2026-10-07-4": {
+      "topic": {
+        "title": "Why Soda Cans Explode at High Altitudes",
+        "angle": "An engaging, fast-paced explanation of pressure physics using simple everyday analogies.",
+        "format": "explainer",
+        "tone": "normal",
+        "trend_source": "ARC Raiders / gaming & physics hype",
+        "virality_score": 8,
+        "why": "Satisfies viewer curiosity quickly with strong visual pacing, keeping retention high through the middle mark."
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-08T00:20:29.882078+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "why soda cans explode",
+        "title": "Why Soda Cans Explode at High Altitudes \u2708\ufe0f",
+        "hook_text": "Soda Cans Explode!",
+        "thumbnail_text": "High Altitude Soda",
+        "description": "Discover why soda cans explode at high altitudes and how air pressure affects carbonation. Learn the surprising physics of airplane cabins today.",
+        "hashtags": [
+          "#shorts",
+          "#science",
+          "#altitude",
+          "#didyouknow"
+        ],
+        "tags": [
+          "why soda cans explode",
+          "air pressure physics experiment",
+          "airplane cabin pressure explained",
+          "air pressure physics",
+          "high altitude pressure",
+          "airplane cabin pressure",
+          "soda can explode",
+          "why do cans explode in the freezer",
+          "high altitude science",
+          "altitude sickness soda",
+          "can soda explode on planes",
+          "science experiments at home",
+          "atmospheric pressure explained",
+          "soda can blowing up",
+          "can of soda exploding",
+          "how pressure works",
+          "carbonation physics"
+        ],
+        "pinned_comment": "Have you ever actually had a soda can burst open on a flight or up in the mountains? Tell us what happened!",
+        "scenes": [
+          {
+            "text": "Ever wonder why your soda can feels ready to pop when you are flying high above the clouds?",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "airplane window clouds",
+              "soda can close up"
+            ],
+            "image_prompt": "Vertical 9:16 cinematic view of airplane wing above fluffy white clouds at sunset, no text, no people.",
+            "stock_query": "airplane window clouds"
+          },
+          {
+            "text": "Here is the thing, it is all about invisible air pressure pushing from both the inside and the outside.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "blue sky atmosphere",
+              "wind blowing trees"
+            ],
+            "image_prompt": "Vertical 9:16 abstract visualization of atmospheric layers and invisible air pressure waves, no text, no people.",
+            "stock_query": "blue sky atmosphere"
+          },
+          {
+            "text": "Down on the ground, thick air pushes hard against the metal aluminum walls to keep everything stable.",
+            "badge": "KEY FACT",
+            "label": "Sea Level",
+            "stock_queries": [
+              "city street sidewalk",
+              "aluminum soda can"
+            ],
+            "image_prompt": "Vertical 9:16 close up of a shiny aluminum soda can sitting on a bright sunny park bench, no text, no people.",
+            "stock_query": "city street sidewalk"
+          },
+          {
+            "text": "But as you climb way up into the sky, the surrounding air gets much thinner and weaker.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "mountain peak clouds",
+              "airplane wing view"
+            ],
+            "image_prompt": "Vertical 9:16 dramatic snowy mountain peak reaching high into a thin blue sky, no text, no people.",
+            "stock_query": "mountain peak clouds"
+          },
+          {
+            "text": "Suddenly, the trapped gas bubbles inside your drink start expanding like crazy because they have no resistance.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "fizzing soda bubbles",
+              "carbonated drink glass"
+            ],
+            "image_prompt": "Vertical 9:16 macro shot of tiny carbonation bubbles rising fast inside a dark fizzy liquid, no text, no people.",
+            "stock_query": "fizzing soda bubbles"
+          },
+          {
+            "text": "The metal stretches, the top bulges outward, and honestly, it is just waiting for a tiny crack to burst open.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "metal surface texture",
+              "bent aluminum can"
+            ],
+            "image_prompt": "Vertical 9:16 extreme close up of strained metallic aluminum surface under tension, no text, no people.",
+            "stock_query": "metal surface texture"
+          },
+          {
+            "text": "That is why opening a warm soda after a flight always turns into a sticky surprise.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "spilling liquid splash",
+              "airplane interior seat"
+            ],
+            "image_prompt": "Vertical 9:16 motion capture of dark soda splashing and spraying outwards against a neutral background, no text, no people.",
+            "stock_query": "spilling liquid splash"
+          },
+          {
+            "text": "Would you dare open a shaken can at thirty thousand feet, or would you just hand it back?",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "airplane aisle cabin",
+              "holding soda can"
+            ],
+            "image_prompt": "Vertical 9:16 passenger hand holding an aluminum soda can inside a modern airplane cabin, no text, no people.",
+            "stock_query": "airplane aisle cabin"
+          }
+        ],
+        "key_facts": [
+          "Air pressure decreases as altitude increases.",
+          "Lower external pressure causes gas inside sealed containers to expand.",
+          "Changes in atmospheric pressure can make carbonated beverage cans bulge or burst."
+        ],
+        "format": "explainer",
+        "tone": "normal",
+        "category": "27",
+        "script": "Ever wonder why your soda can feels ready to pop when you are flying high above the clouds? Here is the thing, it is all about invisible air pressure pushing from both the inside and the outside. Down on the ground, thick air pushes hard against the metal aluminum walls to keep everything stable. But as you climb way up into the sky, the surrounding air gets much thinner and weaker. Suddenly, the trapped gas bubbles inside your drink start expanding like crazy because they have no resistance. The metal stretches, the top bulges outward, and honestly, it is just waiting for a tiny crack to burst open. That is why opening a warm soda after a flight always turns into a sticky surprise. Would you dare open a shaken can at thirty thousand feet, or would you just hand it back?",
+        "shot_plan": [
+          {
+            "subject": "airplane window",
+            "queries": [
+              {
+                "q": "airplane window cloud",
+                "must": [
+                  "airplane",
+                  "window"
+                ]
+              },
+              {
+                "q": "airplane sky",
+                "must": [
+                  "airplane"
+                ]
+              },
+              {
+                "q": "clouds flight",
+                "must": [
+                  "clouds"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "air pressure",
+            "queries": [
+              {
+                "q": "air pressure",
+                "must": [
+                  "pressure"
+                ]
+              },
+              {
+                "q": "wind tunnel",
+                "must": [
+                  "wind"
+                ]
+              },
+              {
+                "q": "atmosphere sky",
+                "must": [
+                  "atmosphere"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "soda can",
+            "queries": [
+              {
+                "q": "soda can",
+                "must": [
+                  "soda"
+                ]
+              },
+              {
+                "q": "aluminum can",
+                "must": [
+                  "aluminum"
+                ]
+              },
+              {
+                "q": "\u996e\u6599 can",
+                "must": [
+                  "can"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "sky",
+            "queries": [
+              {
+                "q": "sky clouds",
+                "must": [
+                  "sky"
+                ]
+              },
+              {
+                "q": "altitude flight",
+                "must": [
+                  "altitude"
+                ]
+              },
+              {
+                "q": "atmosphere",
+                "must": [
+                  "atmosphere"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "bubbles",
+            "queries": [
+              {
+                "q": "carbonation bubbles",
+                "must": [
+                  "bubbles"
+                ]
+              },
+              {
+                "q": "fizzy drink",
+                "must": [
+                  "fizzy"
+                ]
+              },
+              {
+                "q": "gas liquid",
+                "must": [
+                  "gas"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "explosion",
+            "queries": [
+              {
+                "q": "soda explosion",
+                "must": [
+                  "explosion"
+                ]
+              },
+              {
+                "q": "bursting can",
+                "must": [
+                  "bursting"
+                ]
+              },
+              {
+                "q": "spray fountain",
+                "must": [
+                  "spray"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "soda can",
+            "queries": [
+              {
+                "q": "opening soda",
+                "must": [
+                  "opening"
+                ]
+              },
+              {
+                "q": "soda can",
+                "must": [
+                  "soda"
+                ]
+              },
+              {
+                "q": "beverage can",
+                "must": [
+                  "beverage"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "shaken soda",
+            "queries": [
+              {
+                "q": "shaken soda",
+                "must": [
+                  "shaken"
+                ]
+              },
+              {
+                "q": "fizzy explosion",
+                "must": [
+                  "explosion"
+                ]
+              },
+              {
+                "q": "soda can",
+                "must": [
+                  "soda"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "soda can",
+          "airplane window",
+          "explosion"
+        ],
+        "visual_style": "Fast-paced physics breakdown using extreme close-ups of soda cans and dramatic pressure experiments",
+        "visual_refs": [
+          "Why don&#39;t soda cans explode on planes?",
+          "This Is How You Defuse A Shaken Soda Can \ud83d\ude2e",
+          "Can Crush Explained  #science",
+          "Ranking The Craziest Soda Explosion \ud83e\udd2f\ud83d\ude80",
+          "\u201cComparing explosions: Mentos vs. Coke and Pepsi!\u201d \ud83d\udd25 #experiment #cokevsmentos"
+        ],
+        "voice": "en-US-AndrewMultilingualNeural",
+        "visual_report": {
+          "shots": 15,
+          "checked": 15,
+          "unchecked": 0,
+          "filler": 2
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AndrewMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): ChristianBodhi (Pixabay) https://pixabay.com/videos/id-21526/; PabloMay (Pixabay) https://pixabay.com/videos/id-140382/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-346439/; bellergy (Pixabay) https://pixabay.com/videos/id-92112/; u_d12xryvlbe (Pixabay) https://pixabay.com/videos/id-219843/; Jacques_Barrette (Pixabay) https://pixabay.com/videos/id-9153/; mycuppatea (Pixabay) https://pixabay.com/videos/id-374073/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-339323/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-339343/; AiVreaSaStii (Pixabay) https://pixabay.com/videos/id-138114/; olenchic (Pixabay) https://pixabay.com/videos/id-211718/; TallerdelosVideos (Pixabay) https://pixabay.com/videos/id-118545/; Hideaki_AnimeTH (Pixabay) https://pixabay.com/videos/id-342903/"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-07",
+        "name": "2026-10-07-4-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-07",
+        "name": "2026-10-07-4-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,109 --> 00:00:02,908\nEver wonder why your soda can feels\n\n2\n00:00:02,908 --> 00:00:04,755\nready to pop when you are flying\n\n3\n00:00:04,755 --> 00:00:07,228\nhigh above the clouds Here is the\n\n4\n00:00:07,228 --> 00:00:10,054\nthing it is all about invisible air\n\n5\n00:00:10,054 --> 00:00:12,731\npressure pushing from both the inside and\n\n6\n00:00:12,731 --> 00:00:15,842\nthe outside Down on the ground thick\n\n7\n00:00:15,842 --> 00:00:18,505\nair pushes hard against the metal aluminum\n\n8\n00:00:18,505 --> 00:00:21,508\nwalls to keep everything stable But as\n\n9\n00:00:21,508 --> 00:00:23,641\nyou climb way up into the sky\n\n10\n00:00:23,641 --> 00:00:26,209\nthe surrounding air gets much thinner and\n\n11\n00:00:26,209 --> 00:00:30,245\nweaker Suddenly the trapped gas bubbles inside\n\n12\n00:00:30,245 --> 00:00:33,003\nyour drink start expanding like crazy because\n\n13\n00:00:33,003 --> 00:00:36,562\nthey have no resistance The metal stretches\n\n14\n00:00:36,562 --> 00:00:39,606\nthe top bulges outward and honestly it\n\n15\n00:00:39,606 --> 00:00:41,685\nis just waiting for a tiny crack\n\n16\n00:00:41,685 --> 00:00:43,777\nto burst open That is why opening\n\n17\n00:00:43,777 --> 00:00:46,671\na warm soda after a flight always\n\n18\n00:00:46,671 --> 00:00:49,552\nturns into a sticky surprise Would you\n\n19\n00:00:49,552 --> 00:00:51,739\ndare open a shaken can at thirty\n\n20\n00:00:51,739 --> 00:00:53,845\nthousand feet or would you just hand\n\n21\n00:00:53,845 --> 00:00:54,775\nit back\n",
+      "tg_msg": 195,
+      "opts_msg": 197
     }
   },
   "history": [
@@ -2989,7 +4417,9 @@
     "Top 5 Animals That Suck At Hiding",
     "Top 5 Space Events Happening This Month",
     "Top 5 Most Absurd Smartphone Glitches Ever",
-    "Top 5 Historic Sports Comebacks"
+    "Top 5 Historic Sports Comebacks",
+    "Top 5 Absurd Inventions That Made Zero Sense",
+    "Why Soda Cans Explode at High Altitudes"
   ],
   "trend_tries": {
     "2026-10-05": {
@@ -3005,12 +4435,15 @@
       "at": "2026-10-07T18:04:54.615102+00:00"
     }
   },
-  "cleanup_day": "2026-10-07",
+  "cleanup_day": "2026-10-08",
   "recent_voices": [
     "en-US-AvaMultilingualNeural",
     "en-US-BrianMultilingualNeural",
     "en-AU-WilliamMultilingualNeural",
     "en-US-EmmaMultilingualNeural",
-    "en-US-AvaMultilingualNeural"
-  ]
+    "en-US-AndrewMultilingualNeural"
+  ],
+  "visual_searches": {
+    "2026-10-08": 4
+  }
 }
