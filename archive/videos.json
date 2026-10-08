@@ -91,7 +91,7 @@
   "voice": "en-GB-RyanNeural",
   "youtube_id": "x_oFEEa_ZYw",
   "youtube_stats": {
-   "checked_at": "2026-10-08T05:02:33.771392+00:00",
+   "checked_at": "2026-10-08T11:54:29.705255+00:00",
    "comments": 1,
    "likes": 5,
    "privacy": "public",
@@ -192,13 +192,13 @@
   "voice": "en-GB-SoniaNeural",
   "youtube_id": "ULFlC_DQZFA",
   "youtube_stats": {
-   "checked_at": "2026-10-08T05:02:33.771418+00:00",
+   "checked_at": "2026-10-08T11:54:29.705278+00:00",
    "comments": 1,
    "likes": 1,
    "privacy": "public",
    "published_at": "2026-10-04T14:00:07Z",
    "title": "5 Cruise Ship Rides Built Over the Open Ocean 🚢",
-   "views": 195
+   "views": 194
   }
  },
  "2026-10-02-3": {
@@ -299,7 +299,7 @@
   "voice": "en-IE-ConnorNeural",
   "youtube_id": "SzXGwV_51-4",
   "youtube_stats": {
-   "checked_at": "2026-10-08T05:02:33.771423+00:00",
+   "checked_at": "2026-10-08T11:54:29.705286+00:00",
    "comments": 1,
    "likes": 1,
    "privacy": "public",
@@ -406,7 +406,7 @@
   "voice": "en-US-AriaNeural",
   "youtube_id": "AlkNprbbJys",
   "youtube_stats": {
-   "checked_at": "2026-10-08T05:02:33.771427+00:00",
+   "checked_at": "2026-10-08T11:54:29.705291+00:00",
    "comments": 1,
    "likes": 0,
    "privacy": "public",
@@ -611,13 +611,13 @@
   "voice": "en-US-AndrewMultilingualNeural",
   "youtube_id": "cwTfLWYr-vs",
   "youtube_stats": {
-   "checked_at": "2026-10-08T05:02:33.771430+00:00",
+   "checked_at": "2026-10-08T11:54:29.705295+00:00",
    "comments": 1,
    "likes": 0,
    "privacy": "public",
    "published_at": "2026-10-06T20:45:38Z",
    "title": "5 Sports Records That May Never Be Broken 🏆",
-   "views": 20
+   "views": 24
   }
  },
  "2026-10-04-2": {
@@ -751,13 +751,13 @@
   "voice": "en-US-EmmaMultilingualNeural",
   "youtube_id": "wo3lD4_JXBI",
   "youtube_stats": {
-   "checked_at": "2026-10-08T05:02:33.771434+00:00",
+   "checked_at": "2026-10-08T11:54:29.705300+00:00",
    "comments": 1,
    "likes": 0,
    "privacy": "public",
    "published_at": "2026-10-06T19:45:06Z",
    "title": "Hidden Phone Camera Tricks for Better Photos 📸",
-   "views": 177
+   "views": 205
   }
  },
  "2026-10-05-1": {
@@ -861,13 +861,13 @@
   "voice": "en-US-AvaMultilingualNeural",
   "youtube_id": "zpVz53oUng8",
   "youtube_stats": {
-   "checked_at": "2026-10-08T05:02:33.771437+00:00",
+   "checked_at": "2026-10-08T11:54:29.705304+00:00",
    "comments": 1,
    "likes": 1,
    "privacy": "public",
    "published_at": "2026-10-07T00:30:05Z",
    "title": "5 Animals With Zero Survival Instincts 😂",
-   "views": 25
+   "views": 29
   }
  },
  "2026-10-05-2": {
@@ -969,13 +969,13 @@
   "voice": "en-AU-WilliamMultilingualNeural",
   "youtube_id": "YnklFormw-k",
   "youtube_stats": {
-   "checked_at": "2026-10-08T05:02:33.771440+00:00",
+   "checked_at": "2026-10-08T11:54:29.705308+00:00",
    "comments": 1,
    "likes": 0,
    "privacy": "public",
    "published_at": "2026-10-06T23:00:20Z",
    "title": "5 Board Game Rules You've Probably Been Playing Wrong 🎲",
-   "views": 20
+   "views": 23
   }
  },
  "2026-10-05-3": {
@@ -1077,13 +1077,13 @@
   "voice": "en-US-AndrewMultilingualNeural",
   "youtube_id": "APj9byFXpkE",
   "youtube_stats": {
-   "checked_at": "2026-10-08T05:02:33.771443+00:00",
+   "checked_at": "2026-10-08T11:54:29.705311+00:00",
    "comments": 1,
    "likes": 0,
    "privacy": "public",
    "published_at": "2026-10-06T17:30:01Z",
    "title": "5 Everyday Objects Way Older Than You Think 🏺",
-   "views": 8
+   "views": 12
   }
  },
  "2026-10-05-4": {
@@ -1182,13 +1182,13 @@
   "voice": "en-US-BrianMultilingualNeural",
   "youtube_id": "jbjlNcYG7EY",
   "youtube_stats": {
-   "checked_at": "2026-10-08T05:02:33.771446+00:00",
+   "checked_at": "2026-10-08T11:54:29.705315+00:00",
    "comments": 1,
    "likes": 0,
    "privacy": "public",
    "published_at": "2026-10-06T16:00:12Z",
    "title": "3 Phone Settings Worth Changing Today 📱",
-   "views": 16
+   "views": 18
   }
  },
  "2026-10-06-1": {
@@ -1224,7 +1224,15 @@
    "Peacock spiders display vibrant iridescent colors.",
    "Red pandas possess reddish-brown fur."
   ],
-  "latest_comments": [],
+  "latest_comments": [
+   {
+    "author": "@martinsimpson9293",
+    "likes": 0,
+    "published": "2026-10-08T05:19:58Z",
+    "replies": 0,
+    "text": "Maybe it's because some of them have predators that are color blind. Orange stands out in green grass but tigers are camouflaged because gazelles can't see orange. It all looks green to them."
+   }
+  ],
   "pinned_comment": "Which of these terrible hiders do you think gave up the easiest? Let me know below!",
   "platforms": {
    "Facebook": {
@@ -1280,13 +1288,13 @@
   "voice": "en-US-BrianMultilingualNeural",
   "youtube_id": "R9g9KGmMp4Q",
   "youtube_stats": {
-   "checked_at": "2026-10-08T05:02:33.771449+00:00",
-   "comments": 0,
-   "likes": 14,
+   "checked_at": "2026-10-08T11:54:29.705318+00:00",
+   "comments": 1,
+   "likes": 15,
    "privacy": "public",
    "published_at": "2026-10-07T23:00:15Z",
    "title": "5 Animals That Are Hilariously Bad at Hiding 🙈",
-   "views": 420
+   "views": 623
   }
  },
  "2026-10-06-2": {
@@ -1390,13 +1398,13 @@
   "voice": "en-AU-WilliamMultilingualNeural",
   "youtube_id": "YkmLIkMsEp4",
   "youtube_stats": {
-   "checked_at": "2026-10-08T05:02:33.771452+00:00",
+   "checked_at": "2026-10-08T11:54:29.705322+00:00",
    "comments": 0,
-   "likes": 0,
+   "likes": 2,
    "privacy": "public",
    "published_at": "2026-10-07T16:00:12Z",
    "title": "5 Space Events You Can See This Month 🔭",
-   "views": 14
+   "views": 29
   }
  },
  "2026-10-06-3": {
@@ -1489,13 +1497,13 @@
   "voice": "en-US-EmmaMultilingualNeural",
   "youtube_id": "ia9-sh44BqQ",
   "youtube_stats": {
-   "checked_at": "2026-10-08T05:02:33.771454+00:00",
+   "checked_at": "2026-10-08T11:54:29.705326+00:00",
    "comments": 0,
    "likes": 0,
    "privacy": "public",
    "published_at": "2026-10-07T18:00:16Z",
    "title": "5 Hilarious Smartphone Glitches Caught on Camera 📱",
-   "views": 4
+   "views": 8
   }
  },
  "2026-10-06-4": {
@@ -1589,19 +1597,20 @@
   "voice": "en-US-AvaMultilingualNeural",
   "youtube_id": "2w1Pp_h0BNU",
   "youtube_stats": {
-   "checked_at": "2026-10-08T05:02:33.771457+00:00",
+   "checked_at": "2026-10-08T11:54:29.705330+00:00",
    "comments": 0,
    "likes": 0,
    "privacy": "public",
    "published_at": "2026-10-07T20:00:02Z",
    "title": "5 Sports Comebacks Nobody Saw Coming 🏆",
-   "views": 9
+   "views": 10
   }
  },
  "2026-10-07-1": {
   "angle": "Counting down everyday foods and condiments that humans have been enjoying for thousands of years longer than expected.",
   "approved_by": "auto",
   "category": "27",
+  "comments_note": "<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=8-m5sDXRGiI",
   "credits": [
    "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-BrianMultilingualNeural).",
    "Stock footage/photos (Pexels/Pixabay Content License): Coverr-Free-Footage (Pixabay) https://pixabay.com/videos/id-1019/; Ri_Ya (Pixabay) https://pixabay.com/videos/id-165976/; GreenCardShow (Pixabay) https://pixabay.com/videos/id-11323/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-308450/; AlexKopeykin (Pixabay) https://pixabay.com/videos/id-63067/; Dimi_Tri (Pixabay) https://pixabay.com/videos/id-329392/; AlexKopeykin (Pixabay) https://pixabay.com/videos/id-63066/; Vogue0987 (Pixabay) https://pixabay.com/videos/id-301691/; jeffjacobs1990 (Pixabay) https://pixabay.com/videos/id-93090/; groovelanddesigns (Pixabay) https://pixabay.com/videos/id-37441/; livesmart (Pixabay) https://pixabay.com/videos/id-163383/; flutie8211 (Pixabay) https://pixabay.com/videos/id-372554/; XiaosKitchen (Pixabay) https://pixabay.com/videos/id-11700/; kurt_BID (Pixabay) https://pixabay.com/videos/id-227128/; xBriantcx (Pixabay) https://pixabay.com/videos/id-238823/"
@@ -1686,12 +1695,22 @@
   "uploaded_at": "2026-10-08T05:02:42.209461+00:00",
   "virality_score": 10,
   "voice": "en-US-BrianMultilingualNeural",
-  "youtube_id": "8-m5sDXRGiI"
+  "youtube_id": "8-m5sDXRGiI",
+  "youtube_stats": {
+   "checked_at": "2026-10-08T11:54:29.705333+00:00",
+   "comments": 0,
+   "likes": 0,
+   "privacy": "private",
+   "published_at": "2026-10-08T05:02:37Z",
+   "title": "Top 5 Foods That Are Way Older Than You Think",
+   "views": 0
+  }
  },
  "2026-10-07-2": {
   "angle": "A humorous countdown of bizarre historical gadgets that completely missed the mark.",
   "approved_by": "auto",
   "category": "23",
+  "comments_note": "<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=04AOiSkzigU",
   "credits": [
    "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-AU-WilliamMultilingualNeural).",
    "Stock footage/photos (Pexels/Pixabay Content License): doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-380557/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-1260/; wastedgeneration (Pixabay) https://pixabay.com/videos/id-15629/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-346861/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-346879/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-347344/; ha11ok (Pixabay) https://pixabay.com/videos/id-21222/; ha11ok (Pixabay) https://pixabay.com/videos/id-21223/; PIRO4D (Pixabay) https://pixabay.com/videos/id-8503/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-312467/; wowfactorfilms (Pixabay) https://pixabay.com/videos/id-28544/"
@@ -1777,12 +1796,22 @@
   "uploaded_at": "2026-10-08T05:02:51.379543+00:00",
   "virality_score": 9,
   "voice": "en-AU-WilliamMultilingualNeural",
-  "youtube_id": "04AOiSkzigU"
+  "youtube_id": "04AOiSkzigU",
+  "youtube_stats": {
+   "checked_at": "2026-10-08T11:54:29.705337+00:00",
+   "comments": 0,
+   "likes": 0,
+   "privacy": "private",
+   "published_at": "2026-10-08T05:02:44Z",
+   "title": "Top 5 Absurd Inventions That Made Zero Sense",
+   "views": 0
+  }
  },
  "2026-10-07-3": {
   "angle": "Quick, highly actionable smartphone settings that instantly improve battery life and privacy.",
   "approved_by": "auto",
   "category": "26",
+  "comments_note": "<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=-ldudQtKvi0",
   "credits": [
    "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-EmmaMultilingualNeural).",
    "Stock footage/photos (Pexels/Pixabay Content License): aghyadnajjar (Pixabay) https://pixabay.com/videos/id-44082/; pixzel_studio (Pixabay) https://pixabay.com/videos/id-376765/; DistillVideos (Pixabay) https://pixabay.com/videos/id-1110/; conolan (Pixabay) https://pixabay.com/videos/id-29879/; pixzel_studio (Pixabay) https://pixabay.com/videos/id-376990/; YRDesigns (Pixabay) https://pixabay.com/videos/id-290480/; unique_content (Pixabay) https://pixabay.com/videos/id-304948/; SYG_Anime (Pixabay) https://pixabay.com/videos/id-270587/; wattana1stockphoto (Pixabay) https://pixabay.com/videos/id-115465/; Natures_Embrace (Pixabay) https://pixabay.com/videos/id-202987/; TBIT (Pixabay) https://pixabay.com/videos/id-2176/; TBIT (Pixabay) https://pixabay.com/videos/id-2181/; TBIT (Pixabay) https://pixabay.com/videos/id-2182/; nicknickkey (Pixabay) https://pixabay.com/videos/id-264007/; Coverr-Free-Footage (Pixabay) https://pixabay.com/videos/id-3180/; Coverr-Free-Footage (Pixabay) https://pixabay.com/videos/id-3176/; Coverr-Free-Footage (Pixabay) https://pixabay.com/videos/id-3172/"
@@ -1867,12 +1896,22 @@
   "uploaded_at": "2026-10-08T05:02:59.039176+00:00",
   "virality_score": 9,
   "voice": "en-US-EmmaMultilingualNeural",
-  "youtube_id": "-ldudQtKvi0"
+  "youtube_id": "-ldudQtKvi0",
+  "youtube_stats": {
+   "checked_at": "2026-10-08T11:54:29.705340+00:00",
+   "comments": 0,
+   "likes": 0,
+   "privacy": "private",
+   "published_at": "2026-10-08T05:02:54Z",
+   "title": "Change These 3 Phone Settings Right Now",
+   "views": 0
+  }
  },
  "2026-10-07-4": {
   "angle": "An engaging, fast-paced explanation of pressure physics using simple everyday analogies.",
   "approved_by": "auto",
   "category": "27",
+  "comments_note": "<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=buUNlCkiqLM",
   "credits": [
    "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AndrewMultilingualNeural).",
    "Stock footage/photos (Pexels/Pixabay Content License): ChristianBodhi (Pixabay) https://pixabay.com/videos/id-21526/; PabloMay (Pixabay) https://pixabay.com/videos/id-140382/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-346439/; bellergy (Pixabay) https://pixabay.com/videos/id-92112/; u_d12xryvlbe (Pixabay) https://pixabay.com/videos/id-219843/; Jacques_Barrette (Pixabay) https://pixabay.com/videos/id-9153/; mycuppatea (Pixabay) https://pixabay.com/videos/id-374073/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-339323/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-339343/; AiVreaSaStii (Pixabay) https://pixabay.com/videos/id-138114/; olenchic (Pixabay) https://pixabay.com/videos/id-211718/; TallerdelosVideos (Pixabay) https://pixabay.com/videos/id-118545/; Hideaki_AnimeTH (Pixabay) https://pixabay.com/videos/id-342903/"
@@ -1955,6 +1994,15 @@
   "uploaded_at": "2026-10-08T05:03:06.477039+00:00",
   "virality_score": 8,
   "voice": "en-US-AndrewMultilingualNeural",
-  "youtube_id": "buUNlCkiqLM"
+  "youtube_id": "buUNlCkiqLM",
+  "youtube_stats": {
+   "checked_at": "2026-10-08T11:54:29.705343+00:00",
+   "comments": 0,
+   "likes": 0,
+   "privacy": "private",
+   "published_at": "2026-10-08T05:03:01Z",
+   "title": "Why Soda Cans Explode at High Altitudes ✈️",
+   "views": 0
+  }
  }
 }
