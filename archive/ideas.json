@@ -370,5 +370,56 @@
   ],
   "sent_at": "2026-10-07T18:05:17.073822+00:00",
   "status": "closed"
+ },
+ "2026-10-08": {
+  "date": "2026-10-08",
+  "ideas": [
+   {
+    "angle": "Quick, practical, and non-obvious tweaks to phone settings that improve privacy and battery life instantly.",
+    "format": "tips",
+    "picked": false,
+    "rank": 1,
+    "title": "3 Smartphone Hacks You’ve Been Ignoring",
+    "trend_source": "Google Trends (Tech/Smartphone interest)",
+    "video_id": null,
+    "virality_score": 9,
+    "why": "Highly shareable utility content that encourages users to save the video to try the hacks later, boosting rewatch metrics."
+   },
+   {
+    "angle": "A ranking of historical or obscure inventions that were designed for 'solving' problems that didn't exist, presented with dry, lighthearted humor.",
+    "format": "ranking",
+    "picked": false,
+    "rank": 2,
+    "title": "Top 5 Inventions That Are Borderline Useless",
+    "trend_source": "evergreen",
+    "video_id": null,
+    "virality_score": 8,
+    "why": "Humorous ranking formats perform exceptionally well because they encourage viewers to tag friends and debate which invention is the most absurd."
+   },
+   {
+    "angle": "A short explainer on the secret engineering behind why modern structures sway instead of snapping during high winds.",
+    "format": "explainer",
+    "picked": false,
+    "rank": 3,
+    "title": "How Modern Bridges Handle Extreme Weather",
+    "trend_source": "Google Trends (Engineering/Architecture interest)",
+    "video_id": null,
+    "virality_score": 7,
+    "why": "Visual 'how-it-works' content satisfies intellectual curiosity and works well with fast-paced, high-quality stock footage animations."
+   },
+   {
+    "angle": "A fictional mini-story about a hiker who finds an ancient, overgrown path that seems to loop back on itself, keeping the ending open to interpretation.",
+    "format": "story",
+    "picked": false,
+    "rank": 4,
+    "title": "The Mystery of the Vanishing Forest Path",
+    "trend_source": "evergreen",
+    "video_id": null,
+    "virality_score": 7,
+    "why": "Short, atmospheric mystery stories drive high rewatchability as viewers scan the background for clues or details they might have missed."
+   }
+  ],
+  "sent_at": "2026-10-08T18:07:57.780207+00:00",
+  "status": "waiting"
  }
 }
