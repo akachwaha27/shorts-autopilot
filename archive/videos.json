@@ -91,7 +91,7 @@
   "voice": "en-GB-RyanNeural",
   "youtube_id": "x_oFEEa_ZYw",
   "youtube_stats": {
-   "checked_at": "2026-10-09T03:04:33.206836+00:00",
+   "checked_at": "2026-10-09T10:23:14.334426+00:00",
    "comments": 1,
    "likes": 5,
    "privacy": "public",
@@ -192,7 +192,7 @@
   "voice": "en-GB-SoniaNeural",
   "youtube_id": "ULFlC_DQZFA",
   "youtube_stats": {
-   "checked_at": "2026-10-09T03:04:33.206858+00:00",
+   "checked_at": "2026-10-09T10:23:14.334450+00:00",
    "comments": 1,
    "likes": 1,
    "privacy": "public",
@@ -299,7 +299,7 @@
   "voice": "en-IE-ConnorNeural",
   "youtube_id": "SzXGwV_51-4",
   "youtube_stats": {
-   "checked_at": "2026-10-09T03:04:33.206865+00:00",
+   "checked_at": "2026-10-09T10:23:14.334458+00:00",
    "comments": 1,
    "likes": 1,
    "privacy": "public",
@@ -406,7 +406,7 @@
   "voice": "en-US-AriaNeural",
   "youtube_id": "AlkNprbbJys",
   "youtube_stats": {
-   "checked_at": "2026-10-09T03:04:33.206870+00:00",
+   "checked_at": "2026-10-09T10:23:14.334463+00:00",
    "comments": 1,
    "likes": 0,
    "privacy": "public",
@@ -611,7 +611,7 @@
   "voice": "en-US-AndrewMultilingualNeural",
   "youtube_id": "cwTfLWYr-vs",
   "youtube_stats": {
-   "checked_at": "2026-10-09T03:04:33.206874+00:00",
+   "checked_at": "2026-10-09T10:23:14.334467+00:00",
    "comments": 1,
    "likes": 0,
    "privacy": "public",
@@ -751,13 +751,13 @@
   "voice": "en-US-EmmaMultilingualNeural",
   "youtube_id": "wo3lD4_JXBI",
   "youtube_stats": {
-   "checked_at": "2026-10-09T03:04:33.206879+00:00",
+   "checked_at": "2026-10-09T10:23:14.334472+00:00",
    "comments": 1,
    "likes": 1,
    "privacy": "public",
    "published_at": "2026-10-06T19:45:06Z",
    "title": "Hidden Phone Camera Tricks for Better Photos 📸",
-   "views": 268
+   "views": 270
   }
  },
  "2026-10-05-1": {
@@ -861,13 +861,13 @@
   "voice": "en-US-AvaMultilingualNeural",
   "youtube_id": "zpVz53oUng8",
   "youtube_stats": {
-   "checked_at": "2026-10-09T03:04:33.206883+00:00",
+   "checked_at": "2026-10-09T10:23:14.334477+00:00",
    "comments": 1,
    "likes": 1,
    "privacy": "public",
    "published_at": "2026-10-07T00:30:05Z",
    "title": "5 Animals With Zero Survival Instincts 😂",
-   "views": 67
+   "views": 69
   }
  },
  "2026-10-05-2": {
@@ -969,7 +969,7 @@
   "voice": "en-AU-WilliamMultilingualNeural",
   "youtube_id": "YnklFormw-k",
   "youtube_stats": {
-   "checked_at": "2026-10-09T03:04:33.206886+00:00",
+   "checked_at": "2026-10-09T10:23:14.334481+00:00",
    "comments": 1,
    "likes": 0,
    "privacy": "public",
@@ -1077,7 +1077,7 @@
   "voice": "en-US-AndrewMultilingualNeural",
   "youtube_id": "APj9byFXpkE",
   "youtube_stats": {
-   "checked_at": "2026-10-09T03:04:33.206890+00:00",
+   "checked_at": "2026-10-09T10:23:14.334485+00:00",
    "comments": 1,
    "likes": 0,
    "privacy": "public",
@@ -1182,7 +1182,7 @@
   "voice": "en-US-BrianMultilingualNeural",
   "youtube_id": "jbjlNcYG7EY",
   "youtube_stats": {
-   "checked_at": "2026-10-09T03:04:33.206894+00:00",
+   "checked_at": "2026-10-09T10:23:14.334489+00:00",
    "comments": 1,
    "likes": 0,
    "privacy": "public",
@@ -1225,6 +1225,13 @@
    "Red pandas possess reddish-brown fur."
   ],
   "latest_comments": [
+   {
+    "author": "@ZorblyAI",
+    "likes": 0,
+    "published": "2026-10-09T03:26:46Z",
+    "replies": 0,
+    "text": "Which animal was the worst at hiding? 👇"
+   },
    {
     "author": "@martinsimpson9293",
     "likes": 0,
@@ -1288,13 +1295,13 @@
   "voice": "en-US-BrianMultilingualNeural",
   "youtube_id": "R9g9KGmMp4Q",
   "youtube_stats": {
-   "checked_at": "2026-10-09T03:04:33.206897+00:00",
-   "comments": 1,
+   "checked_at": "2026-10-09T10:23:14.334494+00:00",
+   "comments": 2,
    "likes": 16,
    "privacy": "public",
    "published_at": "2026-10-07T23:00:15Z",
    "title": "5 Animals That Are Hilariously Bad at Hiding 🙈",
-   "views": 632
+   "views": 633
   }
  },
  "2026-10-06-2": {
@@ -1342,7 +1349,15 @@
    "Saturn can be viewed with basic backyard telescopes.",
    "Total lunar eclipses cause the moon to turn a deep copper or red color."
   ],
-  "latest_comments": [],
+  "latest_comments": [
+   {
+    "author": "@ZorblyAI",
+    "likes": 0,
+    "published": "2026-10-09T03:26:14Z",
+    "replies": 0,
+    "text": "Which sky event are you going out to watch? 👇"
+   }
+  ],
   "pinned_comment": "Which of these cosmic sights are you hoping to catch through your telescope this month? Let me know below!",
   "platforms": {
    "Facebook": {
@@ -1398,13 +1413,13 @@
   "voice": "en-AU-WilliamMultilingualNeural",
   "youtube_id": "YkmLIkMsEp4",
   "youtube_stats": {
-   "checked_at": "2026-10-09T03:04:33.206901+00:00",
-   "comments": 0,
+   "checked_at": "2026-10-09T10:23:14.334498+00:00",
+   "comments": 1,
    "likes": 2,
    "privacy": "public",
    "published_at": "2026-10-07T16:00:12Z",
    "title": "5 Space Events You Can See This Month 🔭",
-   "views": 32
+   "views": 34
   }
  },
  "2026-10-06-3": {
@@ -1440,7 +1455,15 @@
    "Battery percentage indicators can glitch to display incorrect high values.",
    "Camera preview loops can create visual inception effects."
   ],
-  "latest_comments": [],
+  "latest_comments": [
+   {
+    "author": "@ZorblyAI",
+    "likes": 0,
+    "published": "2026-10-09T03:25:50Z",
+    "replies": 0,
+    "text": "Has your phone ever glitched like this? 👇"
+   }
+  ],
   "pinned_comment": "Which of these smartphone glitches would make you throw your phone right out the window?",
   "platforms": {
    "Facebook": {
@@ -1497,13 +1520,13 @@
   "voice": "en-US-EmmaMultilingualNeural",
   "youtube_id": "ia9-sh44BqQ",
   "youtube_stats": {
-   "checked_at": "2026-10-09T03:04:33.206905+00:00",
-   "comments": 0,
+   "checked_at": "2026-10-09T10:23:14.334502+00:00",
+   "comments": 1,
    "likes": 0,
    "privacy": "public",
    "published_at": "2026-10-07T18:00:16Z",
    "title": "5 Hilarious Smartphone Glitches Caught on Camera 📱",
-   "views": 14
+   "views": 15
   }
  },
  "2026-10-06-4": {
@@ -1538,7 +1561,15 @@
    "The 1992 basketball playoff game involved erasing a 20-point deficit in the final minutes.",
    "The 2004 baseball series featured a recovery from a 3-0 deficit to win four straight games."
   ],
-  "latest_comments": [],
+  "latest_comments": [
+   {
+    "author": "@ZorblyAI",
+    "likes": 0,
+    "published": "2026-10-09T03:24:59Z",
+    "replies": 0,
+    "text": "What's the greatest comeback you've ever watched? 👇"
+   }
+  ],
   "pinned_comment": "Which of these final-minute turnarounds made your jaw drop the most? Let me know below!",
   "platforms": {
    "Facebook": {
@@ -1597,13 +1628,13 @@
   "voice": "en-US-AvaMultilingualNeural",
   "youtube_id": "2w1Pp_h0BNU",
   "youtube_stats": {
-   "checked_at": "2026-10-09T03:04:33.206909+00:00",
-   "comments": 0,
+   "checked_at": "2026-10-09T10:23:14.334507+00:00",
+   "comments": 1,
    "likes": 0,
    "privacy": "public",
    "published_at": "2026-10-07T20:00:02Z",
    "title": "5 Sports Comebacks Nobody Saw Coming 🏆",
-   "views": 14
+   "views": 16
   }
  },
  "2026-10-07-1": {
@@ -1697,7 +1728,7 @@
   "voice": "en-US-BrianMultilingualNeural",
   "youtube_id": "8-m5sDXRGiI",
   "youtube_stats": {
-   "checked_at": "2026-10-09T03:04:33.206913+00:00",
+   "checked_at": "2026-10-09T10:23:14.334511+00:00",
    "comments": 0,
    "likes": 0,
    "privacy": "private",
@@ -1798,7 +1829,7 @@
   "voice": "en-AU-WilliamMultilingualNeural",
   "youtube_id": "04AOiSkzigU",
   "youtube_stats": {
-   "checked_at": "2026-10-09T03:04:33.206916+00:00",
+   "checked_at": "2026-10-09T10:23:14.334516+00:00",
    "comments": 0,
    "likes": 0,
    "privacy": "private",
@@ -1898,7 +1929,7 @@
   "voice": "en-US-EmmaMultilingualNeural",
   "youtube_id": "-ldudQtKvi0",
   "youtube_stats": {
-   "checked_at": "2026-10-09T03:04:33.206920+00:00",
+   "checked_at": "2026-10-09T10:23:14.334520+00:00",
    "comments": 0,
    "likes": 0,
    "privacy": "private",
@@ -1996,7 +2027,7 @@
   "voice": "en-US-AndrewMultilingualNeural",
   "youtube_id": "buUNlCkiqLM",
   "youtube_stats": {
-   "checked_at": "2026-10-09T03:04:33.206923+00:00",
+   "checked_at": "2026-10-09T10:23:14.334524+00:00",
    "comments": 0,
    "likes": 0,
    "privacy": "private",
@@ -2009,6 +2040,7 @@
   "angle": "Quick, practical, and non-obvious tweaks to phone settings that improve privacy and battery life instantly.",
   "approved_by": "auto",
   "category": "26",
+  "comments_note": "<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=8odIh7xZybM",
   "credits": [
    "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AvaMultilingualNeural).",
    "Stock footage/photos (Pexels/Pixabay Content License): Natures_Embrace (Pixabay) https://pixabay.com/videos/id-202987/; Amorn_mimi (Pixabay) https://pixabay.com/videos/id-183448/; elchao (Pixabay) https://pixabay.com/videos/id-735/; elchao (Pixabay) https://pixabay.com/videos/id-736/; Coverr-Free-Footage (Pixabay) https://pixabay.com/videos/id-3176/; olenchic (Pixabay) https://pixabay.com/videos/id-337123/; olenchic (Pixabay) https://pixabay.com/videos/id-337142/; ZshanAfzal (Pixabay) https://pixabay.com/videos/id-162036/; Coverr-Free-Footage (Pixabay) https://pixabay.com/videos/id-3180/; Coverr-Free-Footage (Pixabay) https://pixabay.com/videos/id-3172/; Coverr-Free-Footage (Pixabay) https://pixabay.com/videos/id-3168/; MrWashingt0n (Pixabay) https://pixabay.com/videos/id-344225/; aghyadnajjar (Pixabay) https://pixabay.com/videos/id-44082/; mephala1980 (Pixabay) https://pixabay.com/videos/id-38084/; DistillVideos (Pixabay) https://pixabay.com/videos/id-1110/; mywald (Pixabay) https://pixabay.com/videos/id-119817/"
@@ -2089,12 +2121,22 @@
   "uploaded_at": "2026-10-09T03:04:47.222773+00:00",
   "virality_score": 9,
   "voice": "en-US-AvaMultilingualNeural",
-  "youtube_id": "8odIh7xZybM"
+  "youtube_id": "8odIh7xZybM",
+  "youtube_stats": {
+   "checked_at": "2026-10-09T10:23:14.334528+00:00",
+   "comments": 0,
+   "likes": 0,
+   "privacy": "private",
+   "published_at": "2026-10-09T03:04:36Z",
+   "title": "3 Smartphone Privacy & Battery Hacks",
+   "views": 0
+  }
  },
  "2026-10-08-2": {
   "angle": "A ranking of historical or obscure inventions that were designed for 'solving' problems that didn't exist, presented with dry, lighthearted humor.",
   "approved_by": "auto",
   "category": "23",
+  "comments_note": "<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=aJOWnBIAr4I",
   "credits": [
    "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-AU-WilliamMultilingualNeural).",
    "Stock footage/photos (Pexels/Pixabay Content License): AlexKopeykin (Pixabay) https://pixabay.com/videos/id-115792/; Pexels (Pixabay) https://pixabay.com/videos/id-3576/; pauldaley1977 (Pixabay) https://pixabay.com/videos/id-46106/; MAURICIO_BR (Pixabay) https://pixabay.com/videos/id-299217/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-368211/"
@@ -2183,12 +2225,22 @@
   "uploaded_at": "2026-10-09T03:04:56.633876+00:00",
   "virality_score": 8,
   "voice": "en-AU-WilliamMultilingualNeural",
-  "youtube_id": "aJOWnBIAr4I"
+  "youtube_id": "aJOWnBIAr4I",
+  "youtube_stats": {
+   "checked_at": "2026-10-09T10:23:14.334533+00:00",
+   "comments": 0,
+   "likes": 0,
+   "privacy": "private",
+   "published_at": "2026-10-09T03:04:49Z",
+   "title": "5 Useless Inventions That Solved Zero Problems 🤦",
+   "views": 0
+  }
  },
  "2026-10-08-3": {
   "angle": "A short explainer on the secret engineering behind why modern structures sway instead of snapping during high winds.",
   "approved_by": "auto",
   "category": "27",
+  "comments_note": "<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=UhvuH9iVjms",
   "credits": [
    "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-BrianMultilingualNeural).",
    "Stock footage/photos (Pexels/Pixabay Content License): youshaac (Pixabay) https://pixabay.com/videos/id-64919/; WN79 (Pixabay) https://pixabay.com/videos/id-167083/; WN79 (Pixabay) https://pixabay.com/videos/id-165003/; Oleh_1977 (Pixabay) https://pixabay.com/videos/id-251932/; tmeier1964 (Pixabay) https://pixabay.com/videos/id-109756/; dlabiebrzy (Pixabay) https://pixabay.com/videos/id-53583/; huunghidt (Pixabay) https://pixabay.com/videos/id-34427/; acresoffilm (Pixabay) https://pixabay.com/videos/id-320067/; jeremy888 (Pixabay) https://pixabay.com/videos/id-126802/; gammeholton84 (Pixabay) https://pixabay.com/videos/id-110924/"
@@ -2270,12 +2322,22 @@
   "uploaded_at": "2026-10-09T03:05:03.444539+00:00",
   "virality_score": 7,
   "voice": "en-US-BrianMultilingualNeural",
-  "youtube_id": "UhvuH9iVjms"
+  "youtube_id": "UhvuH9iVjms",
+  "youtube_stats": {
+   "checked_at": "2026-10-09T10:23:14.334536+00:00",
+   "comments": 0,
+   "likes": 0,
+   "privacy": "private",
+   "published_at": "2026-10-09T03:04:58Z",
+   "title": "Why Giant Bridges Are Built to Sway in the Wind 🌉",
+   "views": 0
+  }
  },
  "2026-10-08-4": {
   "angle": "A fictional mini-story about a hiker who finds an ancient, overgrown path that seems to loop back on itself, keeping the ending open to interpretation.",
   "approved_by": "auto",
   "category": "24",
+  "comments_note": "<HttpError 403 when requesting https://youtube.googleapis.com/youtube/v3/commentThreads?part=snippet&videoId=9khiknYA6c0",
   "credits": [
    "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AvaMultilingualNeural).",
    "Stock footage/photos (Pexels/Pixabay Content License): redzy (Pixabay) https://pixabay.com/videos/id-183968/; kykr (Pixabay) https://pixabay.com/videos/id-347289/; thenickmurphy (Pixabay) https://pixabay.com/videos/id-44163/; caelan (Pixabay) https://pixabay.com/videos/id-46347/; caelan (Pixabay) https://pixabay.com/videos/id-46349/; Matthias_Groeneveld (Pixabay) https://pixabay.com/videos/id-220358/; elchao (Pixabay) https://pixabay.com/videos/id-736/; elchao (Pixabay) https://pixabay.com/videos/id-735/; Coverr-Free-Footage (Pixabay) https://pixabay.com/videos/id-3168/; Matthias_Groeneveld (Pixabay) https://pixabay.com/videos/id-260318/; Matthias_Groeneveld (Pixabay) https://pixabay.com/videos/id-260309/; Matthias_Groeneveld (Pixabay) https://pixabay.com/videos/id-258794/; Matthias_Groeneveld (Pixabay) https://pixabay.com/videos/id-167776/; tarlamu (Pixabay) https://pixabay.com/videos/id-33237/"
@@ -2353,6 +2415,15 @@
   "uploaded_at": "2026-10-09T03:05:10.788428+00:00",
   "virality_score": 7,
   "voice": "en-US-AvaMultilingualNeural",
-  "youtube_id": "9khiknYA6c0"
+  "youtube_id": "9khiknYA6c0",
+  "youtube_stats": {
+   "checked_at": "2026-10-09T10:23:14.334540+00:00",
+   "comments": 0,
+   "likes": 0,
+   "privacy": "private",
+   "published_at": "2026-10-09T03:05:05Z",
+   "title": "The Mystery of the Forest Path That Vanished 🌲",
+   "views": 0
+  }
  }
 }
