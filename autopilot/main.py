@@ -62,7 +62,9 @@ def cmd_trends(st):
     if not topics:
         telegram.send("⚠️ No safe trending topics found today. I'll try again tomorrow.")
         return
-    bid = today()
+    bid, k = today(), 2
+    while bid in st["batches"]:  # a second list on the same day gets its own id (never overwrites the first)
+        bid, k = f"{today()}-{k}", k + 1
     st["batches"][bid] = {"topics": topics, "sent_at": state.iso(), "selected": [], "status": "waiting"}
     lines = [f"🔥 <b>Today's {len(topics)} video ideas</b> ({config.REGION})\n"]
     for i, t in enumerate(topics, 1):
