@@ -179,7 +179,10 @@ Return JSON: {{"repeats": [{{"index": 0, "same_as": "the earlier title"}}]}}"""
         print("repeat check unavailable:", str(e)[:120])
         return set()
     out = set()
-    for r in res.get("repeats") or []:
+    items = res if isinstance(res, list) else (res.get("repeats") or [])
+    for r in items:
+        if not isinstance(r, dict):
+            continue
         try:
             i = int(r["index"])
         except (KeyError, TypeError, ValueError):
@@ -263,7 +266,8 @@ Return JSON: {{"topics": [{{"title": "short catchy working title", "angle": "one
 "virality_score": 1-10, "why": "why it can win in the Shorts feed"}}]}}
 Sort by virality_score descending."""
     data = llm.ask_json(prompt, temperature=0.8)
-    topics = data.get("topics", [])
+    topics = data if isinstance(data, list) else data.get("topics", [])
+    topics = [t for t in topics if isinstance(t, dict) and t.get("title")]
     # second line of defence
     from .writer import fmt_of
     for t in topics:
