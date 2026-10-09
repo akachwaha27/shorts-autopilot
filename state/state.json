@@ -1,49 +1,6 @@
 {
   "tg_offset": 40455537,
   "batches": {
-    "2026-10-02": {
-      "topics": [
-        {
-          "title": "Why Soda Cans Explode at 30,000 Feet",
-          "angle": "Explain the science of cabin pressure physics and why carbonated beverages behave bizarrely in aircraft and deep-sea vessels.",
-          "format": "explainer",
-          "trend_source": "mountain dew pitch black",
-          "virality_score": 9,
-          "why": "High-curiosity everyday science fact with strong visual hook potential and an unexpected conclusion that drives rewatches."
-        },
-        {
-          "title": "Top 5 Most Extreme Theme Park Rides on Giant Ships",
-          "angle": "Count down the 5 most insane engineering marvels installed on cruise ships, ranked by verifiable G-force and physical height over water.",
-          "format": "ranking",
-          "trend_source": "cruise industry",
-          "virality_score": 9,
-          "why": "Visually stunning mega-engineering topic that appeals broadly to US travel and tech fans, driving high completion rates."
-        },
-        {
-          "title": "Top 5 Deepest Ocean Trenches on Earth",
-          "angle": "Count down the 5 deepest spots in the world's oceans ranked precisely by measured depth in meters, featuring bizarre physical pressure facts.",
-          "format": "ranking",
-          "trend_source": "evergreen",
-          "virality_score": 8,
-          "why": "Deep-sea nature and ocean mystery content consistently hits massive swipe-through and retention metrics on US Shorts."
-        },
-        {
-          "title": "3 Smart Travel Hacks Airlines Don't Advertise",
-          "angle": "Demonstrate three practical, verified travel hacks for packing and airport navigation that save time and avoid luggage fees.",
-          "format": "tips",
-          "trend_source": "cruise industry",
-          "virality_score": 7,
-          "why": "High utility drives high saves and shares among general travel-enthusiast audiences."
-        }
-      ],
-      "sent_at": "2026-10-02T17:00:12.299716+00:00",
-      "selected": [
-        0,
-        1,
-        2
-      ],
-      "status": "closed"
-    },
     "2026-10-03": {
       "topics": [
         {
@@ -369,6 +326,67 @@
         3
       ],
       "status": "closed"
+    },
+    "2026-10-09": {
+      "topics": [
+        {
+          "title": "Top 5 Weirdest Ways Animals Sleep \ud83d\ude34",
+          "angle": "Animal-facts rankings stay evergreen and the funny-reaction outliers today (snake scare short at 166x its channel median) show light, surprising animal moments travel; a countdown with a 12-second-nap payoff keeps people to the end.",
+          "format": "ranking",
+          "tone": "normal",
+          "virality_score": 7,
+          "trend_source": "She Wasn't Scared\u2026 Until She Saw the SNAKE (166x median); Things thrown into a Volcano (list format)",
+          "plan_id": "P2026-10-09-01"
+        },
+        {
+          "title": "5 Funny Town Names With Wild Backstories",
+          "angle": "Today's top breakouts are light comedy (166x and 55x their channel medians), and a funny Top 5 with real, verifiable punchlines gives that laugh with a comment-bait payoff ('which address would you pick').",
+          "format": "funny",
+          "tone": "funny",
+          "virality_score": 8,
+          "trend_source": "She Wasn't Scared\u2026 Until She Saw the SNAKE (166x); She's STILL Dancing Macarena (55.5x); The List formula",
+          "plan_id": "P2026-10-09-02"
+        },
+        {
+          "title": "The Great Rubber Duck Escape of 1992 \ud83e\udd86",
+          "angle": "Question-led 'how did this happen' Shorts are breaking out today (How Was This Scene Actually Shot? at 41x median), and this true, kid-safe story answers a big curiosity gap with a single playful image.",
+          "format": "story",
+          "tone": "normal",
+          "virality_score": 8,
+          "trend_source": "How Was This Koyla Scene Actually Shot? (41.2x, The Question); Bid for Island Survival",
+          "plan_id": "P2026-10-09-03"
+        },
+        {
+          "title": "3 School Facts That Are Actually False",
+          "angle": "'Wrong Knowledge you Got from School' is a recurring breakout theme in today's feed, and quiz countdowns make viewers stay to check their answer and post their score.",
+          "format": "quiz",
+          "tone": "normal",
+          "virality_score": 8,
+          "trend_source": "Wrong Knowledge you Got for School - Part 1; Si dices el mismo jugador\u2026 PIERDES! (2.3x, game/quiz format)",
+          "plan_id": "P2026-10-09-04"
+        },
+        {
+          "title": "3 Memory Tricks to Remember Anything",
+          "angle": "School-life and 'wrong knowledge from school' Shorts are surfacing in today's outliers, and a useful study-hack list with a direct-address hook gives viewers a reason to save and share.",
+          "format": "tips",
+          "tone": "normal",
+          "virality_score": 7,
+          "trend_source": "Wrong Knowledge you Got for School - Part 1; INDIAN MOMS THINGS (school life, 5.4x)",
+          "plan_id": "P2026-10-09-05"
+        },
+        {
+          "title": "Is That Really What I Sound Like?",
+          "angle": "'The Question' formula is driving one of today's biggest outliers (How Was This Scene Actually Shot? at 41x), and this answers a question almost everyone has asked themselves, with a 'never heard your own voice' impossible-claim hook.",
+          "format": "explainer",
+          "tone": "normal",
+          "virality_score": 8,
+          "trend_source": "How Was This Koyla Scene Actually Shot? (41.2x, The Question)",
+          "plan_id": "P2026-10-09-06"
+        }
+      ],
+      "sent_at": "2026-10-09T14:52:29.922247+00:00",
+      "selected": [],
+      "status": "waiting"
     }
   },
   "videos": {
@@ -5955,10 +5973,6 @@
     "The Mystery of the Vanishing Forest Path"
   ],
   "trend_tries": {
-    "2026-10-06": {
-      "n": 2,
-      "at": "2026-10-06T17:32:08.921034+00:00"
-    },
     "2026-10-07": {
       "n": 2,
       "at": "2026-10-07T18:04:54.615102+00:00"
@@ -5966,6 +5980,10 @@
     "2026-10-08": {
       "n": 2,
       "at": "2026-10-08T18:06:17.583783+00:00"
+    },
+    "2026-10-09": {
+      "n": 1,
+      "at": "2026-10-09T14:52:29.225857+00:00"
     }
   },
   "cleanup_day": "2026-10-09",
