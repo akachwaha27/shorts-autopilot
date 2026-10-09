@@ -625,6 +625,11 @@ def main():
             return cmd_test(args)
         if cmd == "aicheck":
             return cmd_aicheck()
+        if cmd == "ideascheck":  # dry run of today's idea picking: nothing is sent or saved
+            st = state.load()
+            for t in trends.pick_topics(trends.collect(), st.get("history", [])):
+                print(f"::notice title=idea ({t.get('format')})::{t['title']}")
+            return
         if cmd == "clipsfind":  # quick check of the funny-clip search, no video
             os.environ["FOOTAGE_NOTICES"] = "1"
             from . import clips

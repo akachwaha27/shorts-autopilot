@@ -115,10 +115,33 @@ def is_repeat(title, past_keys):
     return False
 
 
+def channel_titles(limit=500):
+    """Titles of every video already on your YouTube channel (incl. private and ones made outside the bot)."""
+    if not (config.YT_CLIENT_ID and config.YT_CLIENT_SECRET and config.YT_REFRESH_TOKEN):
+        return []
+    try:
+        from . import publish
+        yt = publish.yt_service()
+        ch = yt.channels().list(part="contentDetails", mine=True).execute().get("items", [])
+        uploads = ch[0]["contentDetails"]["relatedPlaylists"]["uploads"] if ch else None
+        titles, token = [], None
+        while uploads and len(titles) < limit:
+            r = yt.playlistItems().list(part="snippet", playlistId=uploads, maxResults=50, pageToken=token).execute()
+            titles += [i["snippet"]["title"] for i in r.get("items", [])]
+            token = r.get("nextPageToken")
+            if not token:
+                break
+        print(f"channel: {len(titles)} existing video titles")
+        return titles
+    except Exception as e:  # noqa: BLE001
+        print("could not read channel titles:", str(e)[:150])
+        return []
+
+
 def past_ideas(history=()):
-    """Every idea ever sent to you or made into a video (permanent archive + recent state)."""
+    """Every idea ever sent to you or made into a video (permanent archive + recent state + your channel)."""
     from . import library
-    titles = list(history)
+    titles = list(history) + channel_titles()
     for day, b in sorted(library.load("ideas").items()):
         titles += [i.get("title", "") for i in b.get("ideas", [])]
     for v in library.load("videos").values():
@@ -131,16 +154,59 @@ def past_ideas(history=()):
     return out
 
 
+def same_subject(candidates, past):
+    """AI check for repeats that use different words (e.g. 'useless inventions' vs 'absurd inventions',
+    'phone hacks' vs 'phone camera tricks'). Returns the set of candidate indexes that repeat a past idea."""
+    if not candidates or not past:
+        return set()
+    old = "\n".join(f"- {t}" for t in past[-300:])
+    new = "\n".join(f"{i}. {t['title']} - {t.get('angle', '')}" for i, t in enumerate(candidates))
+    prompt = f"""A YouTube Shorts channel must never repeat itself. Earlier ideas and videos:
+{old}
+
+New candidate ideas:
+{new}
+
+A candidate is a REPEAT if a viewer would feel it's the same video again: the same main subject or premise as
+any earlier item, even with different wording or a different number of items (e.g. "useless inventions" =
+"absurd inventions"; "phone hacks you ignore" = "smartphone tricks you didn't know"; "foods older than you
+think" = "foods that are ancient"). A clearly different subject in the same format is NOT a repeat.
+Also flag two candidates that repeat EACH OTHER (flag the second one).
+Return JSON: {{"repeats": [{{"index": 0, "same_as": "the earlier title"}}]}}"""
+    try:
+        res = llm.ask_json(prompt, temperature=0)
+    except Exception as e:  # noqa: BLE001
+        print("repeat check unavailable:", str(e)[:120])
+        return set()
+    out = set()
+    for r in res.get("repeats") or []:
+        try:
+            i = int(r["index"])
+        except (KeyError, TypeError, ValueError):
+            continue
+        if 0 <= i < len(candidates):
+            print(f"skipping repeated idea: {candidates[i]['title']} (same as: {r.get('same_as', '?')})")
+            out.add(i)
+    return out
+
+
 def pick_topics(signals, history):
     past = past_ideas(history)
     past_keys = [_key(t) for t in past]
     topics, rejected = [], []
-    for attempt in range(2):  # second pass asks for replacements if any idea was a repeat
+    for attempt in range(3):  # later passes ask for replacements for any repeats
         need = config.TOPICS_PER_DAY - len(topics)
         fresh = _ask_topics(signals, past + [t["title"] for t in topics] + rejected, need if attempt else None)
+        word_ok = []
         for t in fresh:
-            if is_repeat(t["title"], past_keys + [_key(x["title"]) for x in topics]):
+            if is_repeat(t["title"], past_keys + [_key(x["title"]) for x in topics + word_ok]):
                 print("skipping repeated idea:", t["title"])
+                rejected.append(t["title"])
+            else:
+                word_ok.append(t)
+        dupes = same_subject(word_ok, past + [t["title"] for t in topics])
+        for i, t in enumerate(word_ok):
+            if i in dupes:
                 rejected.append(t["title"])
             elif len(topics) < config.TOPICS_PER_DAY:
                 topics.append(t)
@@ -162,7 +228,7 @@ Trending signals from the last 24-48h:
 
 ALREADY USED - every idea below was sent before. Do NOT repeat any of them, reword them, or pick the same subject
 with a different title (e.g. if "Why soda cans explode at 30,000 feet" is listed, no soda-can-at-altitude idea at all).
-Pick genuinely NEW subjects:
+Pick genuinely NEW subjects, and vary the themes (don't keep coming back to phones, tech settings or inventions):
 {chr(10).join('- ' + t for t in covered[-250:]) or 'none'}
 
 Choose exactly {count or config.TOPICS_PER_DAY} ideas for ORIGINAL Shorts of about one minute (55-65 seconds). Use the trends as inspiration
