@@ -362,8 +362,13 @@
         }
       ],
       "sent_at": "2026-10-08T18:07:57.780207+00:00",
-      "selected": [],
-      "status": "waiting"
+      "selected": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "status": "closed"
     }
   },
   "videos": {
@@ -4527,6 +4532,1311 @@
       },
       "uploaded_at": "2026-10-08T05:03:06.477039+00:00",
       "slot": "2026-10-09T01:15:00+00:00"
+    },
+    "2026-10-08-1": {
+      "topic": {
+        "title": "3 Smartphone Hacks You\u2019ve Been Ignoring",
+        "angle": "Quick, practical, and non-obvious tweaks to phone settings that improve privacy and battery life instantly.",
+        "format": "tips",
+        "tone": "normal",
+        "trend_source": "Google Trends (Tech/Smartphone interest)",
+        "virality_score": 9,
+        "why": "Highly shareable utility content that encourages users to save the video to try the hacks later, boosting rewatch metrics."
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-08T23:38:22.475676+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "smartphone privacy hacks",
+        "title": "3 Smartphone Privacy & Battery Hacks",
+        "hook_text": "YOUR PHONE IS SPYING",
+        "thumbnail_text": "CHANGE THIS SETTING",
+        "description": "Discover 3 smart smartphone privacy hacks and battery tweaks you need to change right now. Stop hidden tracking and save your battery instantly.",
+        "hashtags": [
+          "#shorts",
+          "#techhacks",
+          "#privacy",
+          "#lifehacks"
+        ],
+        "tags": [
+          "smartphone privacy hacks",
+          "battery life tips",
+          "stop phone tracking",
+          "hidden phone features",
+          "smartphone hacks",
+          "battery saving tips",
+          "block phone tracking",
+          "secret phone features",
+          "smartphone security and privacy",
+          "save phone battery",
+          "phone settings to change",
+          "android privacy settings",
+          "tech tips",
+          "iphone tricks",
+          "digital privacy"
+        ],
+        "pinned_comment": "Which of these three settings were you already using? Let me know in the comments down below!",
+        "scenes": [
+          {
+            "text": "Your phone is secretly tracking your every single move right now, but you can fix it in seconds.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "person holding smartphone",
+              "scrolling phone screen"
+            ],
+            "image_prompt": "Vertical 9:16 image of a modern smartphone resting on a wooden desk, glowing screen, moody lighting, highly detailed, no text.",
+            "stock_query": "person holding smartphone"
+          },
+          {
+            "text": "Tip one. Turn off significant locations. Open privacy settings, go to location services, and scroll down to system services. You will find a map logging everywhere you go. Turn that off immediately.",
+            "badge": "TIP 1",
+            "label": "Disable Significant Locations",
+            "stock_queries": [
+              "phone settings menu",
+              "finger tapping screen"
+            ],
+            "image_prompt": "Vertical 9:16 close up of a smartphone display showing settings menus, clean interface, soft focus background, no text.",
+            "stock_query": "phone settings menu"
+          },
+          {
+            "text": "This stops your device from building a permanent diary of your daily travel patterns. It is honestly creepy how detailed it gets if you leave it running.",
+            "badge": "TIP 1",
+            "label": "Disable Significant Locations",
+            "stock_queries": [
+              "digital map app",
+              "gps navigation screen"
+            ],
+            "image_prompt": "Vertical 9:16 abstract digital map lines glowing on a dark surface, futuristic technology, sleek design, no text.",
+            "stock_query": "digital map app"
+          },
+          {
+            "text": "Tip two. Limit ad tracking. Head into your privacy settings and restrict apps from tracking your activity across other websites. This cuts down data collection and saves battery.",
+            "badge": "TIP 2",
+            "label": "Limit Ad Tracking",
+            "stock_queries": [
+              "toggling switch button",
+              "phone screen tap"
+            ],
+            "image_prompt": "Vertical 9:16 macro shot of a hand interacting with a smartphone interface, clean minimal background, no text.",
+            "stock_query": "toggling switch button"
+          },
+          {
+            "text": "Tip three. Clear background app refresh. Many apps run silently while you are not using them. Turning this off for nonessential apps gives you hours of extra battery life every single week.",
+            "badge": "TIP 3",
+            "label": "Stop Background Refresh",
+            "stock_queries": [
+              "battery percentage icon",
+              "phone battery charging"
+            ],
+            "image_prompt": "Vertical 9:16 sleek modern smartphone showing a battery charging icon, glowing effect, dark minimalist background, no text.",
+            "stock_query": "battery percentage icon"
+          },
+          {
+            "text": "Try these tweaks right now, and tell me in the comments which one shocked you the most, because",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "person using phone",
+              "typing on smartphone"
+            ],
+            "image_prompt": "Vertical 9:16 person sitting at a desk looking at a smartphone, warm ambient lighting, cozy atmosphere, no text.",
+            "stock_query": "person using phone"
+          }
+        ],
+        "key_facts": [
+          "Disabling significant locations in smartphone settings stops the device from logging frequent travel patterns.",
+          "Restricting app tracking reduces data collection and saves battery life.",
+          "Turning off background app refresh for nonessential apps extends daily battery performance."
+        ],
+        "format": "tips",
+        "tone": "normal",
+        "category": "26",
+        "script": "Your phone is secretly tracking your every single move right now, but you can fix it in seconds. Tip one. Turn off significant locations. Open privacy settings, go to location services, and scroll down to system services. You will find a map logging everywhere you go. Turn that off immediately. This stops your device from building a permanent diary of your daily travel patterns. It is honestly creepy how detailed it gets if you leave it running. Tip two. Limit ad tracking. Head into your privacy settings and restrict apps from tracking your activity across other websites. This cuts down data collection and saves battery. Tip three. Clear background app refresh. Many apps run silently while you are not using them. Turning this off for nonessential apps gives you hours of extra battery life every single week. Try these tweaks right now, and tell me in the comments which one shocked you the most, because",
+        "shot_plan": [
+          {
+            "subject": "smartphone",
+            "queries": [
+              {
+                "q": "smartphone screen",
+                "must": [
+                  "smartphone"
+                ]
+              },
+              {
+                "q": "mobile phone",
+                "must": [
+                  "phone"
+                ]
+              },
+              {
+                "q": "hand smartphone",
+                "must": [
+                  "hand"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "smartphone",
+            "queries": [
+              {
+                "q": "iphone screen",
+                "must": [
+                  "smartphone"
+                ]
+              },
+              {
+                "q": "phone settings",
+                "must": [
+                  "settings"
+                ]
+              },
+              {
+                "q": "mobile menu",
+                "must": [
+                  "menu"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "map",
+            "queries": [
+              {
+                "q": "map navigation",
+                "must": [
+                  "map"
+                ]
+              },
+              {
+                "q": "gps navigation",
+                "must": [
+                  "gps"
+                ]
+              },
+              {
+                "q": "location map",
+                "must": [
+                  "location"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "smartphone",
+            "queries": [
+              {
+                "q": "privacy settings",
+                "must": [
+                  "privacy"
+                ]
+              },
+              {
+                "q": "app interface",
+                "must": [
+                  "screen"
+                ]
+              },
+              {
+                "q": "smartphone screen",
+                "must": [
+                  "smartphone"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "smartphone",
+            "queries": [
+              {
+                "q": "battery charging",
+                "must": [
+                  "battery"
+                ]
+              },
+              {
+                "q": "phone battery",
+                "must": [
+                  "smartphone"
+                ]
+              },
+              {
+                "q": "power saving",
+                "must": [
+                  "power"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "smartphone",
+            "queries": [
+              {
+                "q": "smartphone screen",
+                "must": [
+                  "smartphone"
+                ]
+              },
+              {
+                "q": "person typing",
+                "must": [
+                  "person"
+                ]
+              },
+              {
+                "q": "mobile phone",
+                "must": [
+                  "phone"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "smartphone",
+          "screen",
+          "settings"
+        ],
+        "visual_style": "clean smartphone screen recordings and close-up hand interactions demonstrating tech tips and settings tweaks.",
+        "visual_refs": [
+          "Phone hack if you have strict parents #shorts by ig - moodestpost",
+          "How to turn off screen limit in any iPhone",
+          "How to Reduce Your Screen Time",
+          "3 SIGNS YOUR PHONE WAS HACKED!\ud83e\udd2f",
+          "Set time limit for apps on iphone #iphonetricks #iphonetrick #iphonehacks #iphone",
+          "Hide iPhone Apps using Screen Time | How To\ud83e\udd2f\ud83d\ude31"
+        ],
+        "voice": "en-US-AvaMultilingualNeural",
+        "visual_report": {
+          "shots": 16,
+          "checked": 16,
+          "unchecked": 0,
+          "filler": 0
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AvaMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): Natures_Embrace (Pixabay) https://pixabay.com/videos/id-202987/; Amorn_mimi (Pixabay) https://pixabay.com/videos/id-183448/; elchao (Pixabay) https://pixabay.com/videos/id-735/; elchao (Pixabay) https://pixabay.com/videos/id-736/; Coverr-Free-Footage (Pixabay) https://pixabay.com/videos/id-3176/; olenchic (Pixabay) https://pixabay.com/videos/id-337123/; olenchic (Pixabay) https://pixabay.com/videos/id-337142/; ZshanAfzal (Pixabay) https://pixabay.com/videos/id-162036/; Coverr-Free-Footage (Pixabay) https://pixabay.com/videos/id-3180/; Coverr-Free-Footage (Pixabay) https://pixabay.com/videos/id-3172/; Coverr-Free-Footage (Pixabay) https://pixabay.com/videos/id-3168/; MrWashingt0n (Pixabay) https://pixabay.com/videos/id-344225/; aghyadnajjar (Pixabay) https://pixabay.com/videos/id-44082/; mephala1980 (Pixabay) https://pixabay.com/videos/id-38084/; DistillVideos (Pixabay) https://pixabay.com/videos/id-1110/; mywald (Pixabay) https://pixabay.com/videos/id-119817/"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-08",
+        "name": "2026-10-08-1-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-08",
+        "name": "2026-10-08-1-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,092 --> 00:00:02,605\nYour phone is secretly tracking your every\n\n2\n00:00:02,605 --> 00:00:04,776\nsingle move right now but you can\n\n3\n00:00:04,776 --> 00:00:07,618\nfix it in seconds Tip one Turn\n\n4\n00:00:07,618 --> 00:00:11,211\noff significant locations Open privacy settings\n\n5\n00:00:11,211 --> 00:00:13,895\ngo to location services and scroll down\n\n6\n00:00:13,895 --> 00:00:16,171\nto system services You will find a\n\n7\n00:00:16,171 --> 00:00:18,921\nmap logging everywhere you go Turn that\n\n8\n00:00:18,921 --> 00:00:21,605\noff immediately This stops your device from\n\n9\n00:00:21,605 --> 00:00:23,842\nbuilding a permanent diary of your daily\n\n10\n00:00:23,842 --> 00:00:26,684\ntravel patterns It is honestly creepy how\n\n11\n00:00:26,684 --> 00:00:28,145\ndetailed it gets if you leave it\n\n12\n00:00:28,145 --> 00:00:31,947\nrunning Tip two Limit ad tracking Head\n\n13\n00:00:31,947 --> 00:00:34,421\ninto your privacy settings and restrict apps\n\n14\n00:00:34,421 --> 00:00:37,618\nfrom tracking your activity across other websites\n\n15\n00:00:37,618 --> 00:00:40,053\nThis cuts down data collection and saves\n\n16\n00:00:40,053 --> 00:00:44,303\nbattery Tip three Clear background app refresh\n\n17\n00:00:44,303 --> 00:00:46,329\nMany apps run silently while you are\n\n18\n00:00:46,329 --> 00:00:48,434\nnot using them Turning this off for\n\n19\n00:00:48,434 --> 00:00:51,145\nnonessential apps gives you hours of extra\n\n20\n00:00:51,145 --> 00:00:54,105\nbattery life every single week Try these\n\n21\n00:00:54,105 --> 00:00:56,026\ntweaks right now and tell me in\n\n22\n00:00:56,026 --> 00:00:57,697\nthe comments which one shocked you the\n\n23\n00:00:57,697 --> 00:00:59,058\nmost because\n",
+      "tg_msg": 209,
+      "opts_msg": 211
+    },
+    "2026-10-08-2": {
+      "topic": {
+        "title": "Top 5 Inventions That Are Borderline Useless",
+        "angle": "A ranking of historical or obscure inventions that were designed for 'solving' problems that didn't exist, presented with dry, lighthearted humor.",
+        "format": "ranking",
+        "tone": "funny",
+        "trend_source": "evergreen",
+        "virality_score": 8,
+        "why": "Humorous ranking formats perform exceptionally well because they encourage viewers to tag friends and debate which invention is the most absurd."
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-08T23:53:03.040776+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "useless inventions",
+        "title": "Top 5 Useless Inventions That Solved Nothing",
+        "hook_text": "History's Worst Inventions",
+        "thumbnail_text": "Total Failures",
+        "description": "Discover history's top five most useless inventions designed to solve problems that didn't exist. Find out which bizarre creation takes the crown for total absurdity.",
+        "hashtags": [
+          "#shorts",
+          "#history",
+          "#uselessinventions",
+          "#top5",
+          "#funny"
+        ],
+        "tags": [
+          "useless inventions",
+          "top 10 most useless inventions",
+          "bizarre history facts",
+          "funny historical facts",
+          "top useless inventions",
+          "top 10 useless inventions",
+          "most useless inventions ever",
+          "most useless inventions ever made",
+          "weird patents",
+          "history facts",
+          "bizarre history",
+          "funny historical",
+          "useless inventions shorts",
+          "extremely useless inventions",
+          "strange history facts",
+          "funny historical inventions",
+          "useless designs",
+          "weirdest patents",
+          "stupid human inventions",
+          "odd gadgets"
+        ],
+        "pinned_comment": "Which of these totally useless inventions would you actually try out just for fun? Let me know below!",
+        "key_facts": [
+          "The TV hat was invented in nineteen sixty-three as a portable television headset.",
+          "The motorized ice cream cone used a battery-powered motor to spin the scoop.",
+          "The baby cage was patented in nineteen twenty-two for high-rise apartment ventilation.",
+          "The reigns for walkers were a nineteenth-century harness for leading pedestrians.",
+          "The Tokyo umbrella tie was a plastic necktie that doubled as a tiny umbrella."
+        ],
+        "scenes": [
+          {
+            "text": "Some inventors solve actual problems. These people solved absolutely nothing.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "vintage workshop gears",
+              "old dusty blueprint"
+            ],
+            "image_prompt": "Vertical 9:16 cinematic shot of a cluttered nineteenth century inventor workshop with dusty blueprints and weird mechanical contraptions, no text, no people.",
+            "stock_query": "vintage workshop gears"
+          },
+          {
+            "text": "Number five, the TV hat from nineteen sixty-three. It strapped a tiny screen directly to your face, so you could look miserable anywhere.",
+            "badge": "#5",
+            "label": "The TV Hat",
+            "stock_queries": [
+              "vintage television screen",
+              "old helmet device"
+            ],
+            "image_prompt": "Vertical 9:16 photo of a bizarre vintage helmet with a small television screen attached in front, retro sixties style, no text, no people.",
+            "stock_query": "vintage television screen"
+          },
+          {
+            "text": "At number four, reigns for walkers. Because apparently, nineteenth century pedestrians needed to be leashed like unruly dogs.",
+            "badge": "#4",
+            "label": "Walker Reigns",
+            "stock_queries": [
+              "leather belt strap",
+              "vintage leather harness"
+            ],
+            "image_prompt": "Vertical 9:16 image of a strange vintage leather harness and straps resting on a wooden table, sepia tone, no text, no people.",
+            "stock_query": "leather belt strap"
+          },
+          {
+            "text": "Number three, the motorized ice cream cone. Why waste energy licking when a tiny motor can aggressively spin vanilla into your nose.",
+            "badge": "#3",
+            "label": "Motorized Cone",
+            "stock_queries": [
+              "ice cream cone",
+              "small electric motor"
+            ],
+            "image_prompt": "Vertical 9:16 macro shot of a waffle ice cream cone with mechanical metal gears attached to the base, bright lighting, no text.",
+            "stock_query": "ice cream cone"
+          },
+          {
+            "text": "At number two, the baby cage. Patented in nineteen twenty-two, it hung babies outside apartment windows for fresh air. Truly terrifying.",
+            "badge": "#2",
+            "label": "The Baby Cage",
+            "stock_queries": [
+              "wire metal cage",
+              "apartment building exterior"
+            ],
+            "image_prompt": "Vertical 9:16 view of a vintage wire mesh cage hanging outside a brick apartment window high above the street, overcast day, no text.",
+            "stock_query": "wire metal cage"
+          },
+          {
+            "text": "Number one, the umbrella necktie. It was a normal silk tie that unfolded into a tiny rain shield. Because getting soaked is clearly better than looking slightly foolish.",
+            "badge": "#1",
+            "label": "Umbrella Necktie",
+            "stock_queries": [
+              "folded silk tie",
+              "miniature umbrella"
+            ],
+            "image_prompt": "Vertical 9:16 close up of a strange fabric necktie with tiny ribs like an umbrella, hanging on a wooden coat rack, no text, no people.",
+            "stock_query": "folded silk tie"
+          },
+          {
+            "text": "Which means some inventors solve actual problems, so maybe stick to normal umbrellas.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "black umbrella rain",
+              "wet city street"
+            ],
+            "image_prompt": "Vertical 9:16 shot of a classic black umbrella opening up against a rainy backdrop, cinematic lighting, no text, no people.",
+            "stock_query": "black umbrella rain"
+          }
+        ],
+        "format": "ranking",
+        "tone": "funny",
+        "category": "23",
+        "script": "Some inventors solve actual problems. These people solved absolutely nothing. Number five, the TV hat from nineteen sixty-three. It strapped a tiny screen directly to your face, so you could look miserable anywhere. At number four, reigns for walkers. Because apparently, nineteenth century pedestrians needed to be leashed like unruly dogs. Number three, the motorized ice cream cone. Why waste energy licking when a tiny motor can aggressively spin vanilla into your nose. At number two, the baby cage. Patented in nineteen twenty-two, it hung babies outside apartment windows for fresh air. Truly terrifying. Number one, the umbrella necktie. It was a normal silk tie that unfolded into a tiny rain shield. Because getting soaked is clearly better than looking slightly foolish. Which means some inventors solve actual problems, so maybe stick to normal umbrellas.",
+        "shot_plan": [
+          {
+            "subject": "inventor working at desk",
+            "queries": [
+              {
+                "q": "inventor workshop",
+                "must": [
+                  "workshop"
+                ]
+              },
+              {
+                "q": "vintage workshop",
+                "must": [
+                  "inventor"
+                ]
+              },
+              {
+                "q": "gears turning",
+                "must": [
+                  "gears"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "person wearing television on head",
+            "queries": [
+              {
+                "q": "vintage television",
+                "must": [
+                  "television"
+                ]
+              },
+              {
+                "q": "retro headset",
+                "must": [
+                  "headset"
+                ]
+              },
+              {
+                "q": "old television",
+                "must": [
+                  "screen"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "person walking with leash harness",
+            "queries": [
+              {
+                "q": "walking harness",
+                "must": [
+                  "harness"
+                ]
+              },
+              {
+                "q": "pedestrian walking",
+                "must": [
+                  "pedestrian"
+                ]
+              },
+              {
+                "q": "historic street walking",
+                "must": [
+                  "street"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "motorized ice cream cone spinning",
+            "queries": [
+              {
+                "q": "ice cream cone",
+                "must": [
+                  "cone"
+                ]
+              },
+              {
+                "q": "spinning ice cream",
+                "must": [
+                  "spinning"
+                ]
+              },
+              {
+                "q": "eating ice cream",
+                "must": [
+                  "icecream"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "baby cage hanging outside window",
+            "queries": [
+              {
+                "q": "baby window",
+                "must": [
+                  "window"
+                ]
+              },
+              {
+                "q": "infant crib",
+                "must": [
+                  "infant"
+                ]
+              },
+              {
+                "q": "apartment building exterior",
+                "must": [
+                  "building"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "umbrella inside a necktie",
+            "queries": [
+              {
+                "q": "umbrella opening",
+                "must": [
+                  "umbrella"
+                ]
+              },
+              {
+                "q": "silk necktie",
+                "must": [
+                  "necktie"
+                ]
+              },
+              {
+                "q": "folding umbrella",
+                "must": [
+                  "folding"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "opened umbrella in rain",
+            "queries": [
+              {
+                "q": "umbrella rain",
+                "must": [
+                  "rain"
+                ]
+              },
+              {
+                "q": "person umbrella",
+                "must": [
+                  "umbrella"
+                ]
+              },
+              {
+                "q": "rain storm",
+                "must": [
+                  "storm"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "vintage invention",
+          "weird gadget",
+          "antique mechanism"
+        ],
+        "visual_style": "Fast-paced vertical compilation showing quirky vintage and modern gadgets with dry humorous narration and bold labels.",
+        "visual_refs": [
+          "5 ILLEGAL gadgets that will get you ARRESTED",
+          "Best life hacks for sale  #shorts #gadgets #amazon #satisfying #kitchenhacks  #bathroom #inventions",
+          "This new mechanic could change everything in Rocket League",
+          "Best camping gear in 2021#shorts #campinggear",
+          "CRAZY SKINCARE HACK!\ud83d\ude31 (follow for more!\ud83d\udc97) #skincare #skincareroutine #beauty #skincaretips #skin",
+          "Top 25 Star Wars Characters with The Most Potential #starwars #starwarslegends #shorts"
+        ],
+        "voice": "en-AU-WilliamMultilingualNeural",
+        "visual_report": {
+          "shots": 9,
+          "checked": 9,
+          "unchecked": 0,
+          "filler": 4
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-AU-WilliamMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): AlexKopeykin (Pixabay) https://pixabay.com/videos/id-115792/; Pexels (Pixabay) https://pixabay.com/videos/id-3576/; pauldaley1977 (Pixabay) https://pixabay.com/videos/id-46106/; MAURICIO_BR (Pixabay) https://pixabay.com/videos/id-299217/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-368211/"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-08",
+        "name": "2026-10-08-2-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-08",
+        "name": "2026-10-08-2-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,050 --> 00:00:03,352\nSome inventors solve actual problems These\n\n2\n00:00:03,352 --> 00:00:07,142\npeople solved absolutely nothing Number five\n\n3\n00:00:07,142 --> 00:00:10,064\nthe TV hat from nineteen sixty-three It\n\n4\n00:00:10,064 --> 00:00:11,952\nstrapped a tiny screen directly to your\n\n5\n00:00:11,952 --> 00:00:15,104\nface so you could look miserable anywhere\n\n6\n00:00:15,104 --> 00:00:18,406\nAt number four reigns for walkers Because\n\n7\n00:00:18,406 --> 00:00:21,341\napparently nineteenth century pedestrians needed\n\n8\n00:00:21,341 --> 00:00:24,167\nto be leashed like unruly dogs Number\n\n9\n00:00:24,167 --> 00:00:27,591\nthree the motorized ice cream cone Why\n\n10\n00:00:27,591 --> 00:00:29,697\nwaste energy licking when a tiny motor\n\n11\n00:00:29,697 --> 00:00:32,645\ncan aggressively spin vanilla into your nose\n\n12\n00:00:32,645 --> 00:00:35,865\nAt number two the baby cage Patented\n\n13\n00:00:35,865 --> 00:00:38,963\nin nineteen twenty-two it hung babies outside\n\n14\n00:00:38,963 --> 00:00:42,876\napartment windows for fresh air Truly terrifying\n\n15\n00:00:42,876 --> 00:00:46,110\nNumber one the umbrella necktie It was\n\n16\n00:00:46,110 --> 00:00:48,447\na normal silk tie that unfolded into\n\n17\n00:00:48,447 --> 00:00:51,178\na tiny rain shield Because getting soaked\n\n18\n00:00:51,178 --> 00:00:54,180\nis clearly better than looking slightly foolish\n\n19\n00:00:54,180 --> 00:00:57,265\nWhich means some inventors solve actual problems\n\n20\n00:00:57,265 --> 00:00:59,757\nso maybe stick to normal umbrellas\n",
+      "tg_msg": 212,
+      "opts_msg": 214
+    },
+    "2026-10-08-3": {
+      "topic": {
+        "title": "How Modern Bridges Handle Extreme Weather",
+        "angle": "A short explainer on the secret engineering behind why modern structures sway instead of snapping during high winds.",
+        "format": "explainer",
+        "tone": "normal",
+        "trend_source": "Google Trends (Engineering/Architecture interest)",
+        "virality_score": 7,
+        "why": "Visual 'how-it-works' content satisfies intellectual curiosity and works well with fast-paced, high-quality stock footage animations."
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-09T00:04:39.388998+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "how modern bridges survive high winds",
+        "title": "Why Modern Bridges Are Designed to Sway in the Wind",
+        "hook_text": "Why do giant bridges sway?",
+        "thumbnail_text": "Why Bridges Sway",
+        "description": "Discover how modern bridges survive high winds by bending instead of snapping. Learn the secret engineering behind massive suspension bridges.",
+        "hashtags": [
+          "#shorts",
+          "#engineering",
+          "#bridges",
+          "#didyouknow"
+        ],
+        "tags": [
+          "how modern bridges survive high winds",
+          "suspension bridge in high winds",
+          "wind tunnel testing",
+          "bridge in high winds",
+          "modern bridge design",
+          "suspension bridge design",
+          "bridge engineering",
+          "cable stayed bridge design",
+          "modern bridge construction",
+          "civil engineering secrets",
+          "extreme weather architecture",
+          "why bridges move",
+          "why bridges are strong",
+          "bridge physics",
+          "why bridges sway",
+          "skyscraper swaying",
+          "how do bridges work"
+        ],
+        "pinned_comment": "Would you feel brave enough to drive across a massive bridge while it's swaying in a storm? Let us know below!",
+        "scenes": [
+          {
+            "text": "Why do giant bridges sway so much in heavy winds? Honestly, it looks terrifying.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "suspension bridge swaying",
+              "bridge in storm"
+            ],
+            "image_prompt": "Vertical 9:16 photo of a massive suspension bridge deck swaying slightly in heavy fog, no text, no people.",
+            "stock_query": "suspension bridge swaying"
+          },
+          {
+            "text": "You might think a bridge needs to be totally rigid, but wait, here is the surprising truth.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "steel bridge structure",
+              "metal beams closeup"
+            ],
+            "image_prompt": "Vertical 9:16 closeup of heavy steel bridge trusses and bolts under tension, no text, no people.",
+            "stock_query": "steel bridge structure"
+          },
+          {
+            "text": "If a massive structure cannot bend, it will simply snap under pressure. That is basic physics.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "breaking metal rod",
+              "bending steel beam"
+            ],
+            "image_prompt": "Vertical 9:16 cinematic shot of structural steel architecture curving against a cloudy sky, no text, no people.",
+            "stock_query": "breaking metal rod"
+          },
+          {
+            "text": "Modern engineers actually design these steel roadways to flex up to several feet.",
+            "badge": "KEY STAT",
+            "label": "Flexes over ten feet",
+            "stock_queries": [
+              "bridge traffic passing",
+              "highway bridge sideways"
+            ],
+            "image_prompt": "Vertical 9:16 wide shot of a modern cable stayed bridge with cars driving across, no text, no people.",
+            "stock_query": "bridge traffic passing"
+          },
+          {
+            "text": "Aerodynamic gaps and special dampers absorb all that kinetic energy before disaster strikes.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "wind tunnel test",
+              "shock absorber mechanism"
+            ],
+            "image_prompt": "Vertical 9:16 view of massive hydraulic dampers inside a bridge tower, no text, no people.",
+            "stock_query": "wind tunnel test"
+          },
+          {
+            "text": "So flexibility keeps them safe, which brings us to the real question.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "bridge tower sunset",
+              "suspension cables curve"
+            ],
+            "image_prompt": "Vertical 9:16 dramatic angle looking up at huge suspension bridge cables against the sunset, no text, no people.",
+            "stock_query": "bridge tower sunset"
+          },
+          {
+            "text": "What other rigid structures secretly use flexible designs to survive storms?",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "skyscraper in wind",
+              "tall building architecture"
+            ],
+            "image_prompt": "Vertical 9:16 view looking straight up a skyscraper touching the clouds, no text, no people.",
+            "stock_query": "skyscraper in wind"
+          }
+        ],
+        "key_facts": [
+          "Modern bridges are engineered to flex and sway in high winds to prevent catastrophic snapping.",
+          "Engineers use aerodynamic shapes and hydraulic dampers to absorb kinetic energy from storms."
+        ],
+        "format": "explainer",
+        "tone": "normal",
+        "category": "27",
+        "script": "Why do giant bridges sway so much in heavy winds? Honestly, it looks terrifying. You might think a bridge needs to be totally rigid, but wait, here is the surprising truth. If a massive structure cannot bend, it will simply snap under pressure. That is basic physics. Modern engineers actually design these steel roadways to flex up to several feet. Aerodynamic gaps and special dampers absorb all that kinetic energy before disaster strikes. So flexibility keeps them safe, which brings us to the real question. What other rigid structures secretly use flexible designs to survive storms?",
+        "shot_plan": [
+          {
+            "subject": "suspension bridge swaying in wind",
+            "queries": [
+              {
+                "q": "suspension bridge wind",
+                "must": [
+                  "bridge"
+                ]
+              },
+              {
+                "q": "bridge cable",
+                "must": [
+                  "cable"
+                ]
+              },
+              {
+                "q": "bridge traffic",
+                "must": [
+                  "bridge"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "rigid steel structure",
+            "queries": [
+              {
+                "q": "steel beam",
+                "must": [
+                  "steel"
+                ]
+              },
+              {
+                "q": "metal construction",
+                "must": [
+                  "metal"
+                ]
+              },
+              {
+                "q": "skyscraper frame",
+                "must": [
+                  "building"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "metal bending under pressure",
+            "queries": [
+              {
+                "q": "bending metal",
+                "must": [
+                  "metal"
+                ]
+              },
+              {
+                "q": "steel rod",
+                "must": [
+                  "steel"
+                ]
+              },
+              {
+                "q": "stress test",
+                "must": [
+                  "test"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "highway bridge roadway",
+            "queries": [
+              {
+                "q": "highway bridge",
+                "must": [
+                  "highway"
+                ]
+              },
+              {
+                "q": "roadway asphalt",
+                "must": [
+                  "road"
+                ]
+              },
+              {
+                "q": "bridge deck",
+                "must": [
+                  "bridge"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "bridge damper mechanism",
+            "queries": [
+              {
+                "q": "mechanical damper",
+                "must": [
+                  "mechanism"
+                ]
+              },
+              {
+                "q": "industrial spring",
+                "must": [
+                  "spring"
+                ]
+              },
+              {
+                "q": "engineering piston",
+                "must": [
+                  "piston"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "modern bridge architecture",
+            "queries": [
+              {
+                "q": "cable stayed bridge",
+                "must": [
+                  "bridge"
+                ]
+              },
+              {
+                "q": "architectural structure",
+                "must": [
+                  "architecture"
+                ]
+              },
+              {
+                "q": "modern bridge",
+                "must": [
+                  "bridge"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "tall skyscraper tower",
+            "queries": [
+              {
+                "q": "tall skyscraper",
+                "must": [
+                  "skyscraper"
+                ]
+              },
+              {
+                "q": "tall tower",
+                "must": [
+                  "tower"
+                ]
+              },
+              {
+                "q": "wind turbine",
+                "must": [
+                  "turbine"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "suspension bridge",
+          "steel bridge",
+          "bridge architecture"
+        ],
+        "visual_style": "Cinematic and clear stock footage of suspension bridges, steel structures, and architectural engineering features.",
+        "visual_refs": [],
+        "voice": "en-US-BrianMultilingualNeural",
+        "visual_report": {
+          "shots": 11,
+          "checked": 11,
+          "unchecked": 0,
+          "filler": 1
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-BrianMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): youshaac (Pixabay) https://pixabay.com/videos/id-64919/; WN79 (Pixabay) https://pixabay.com/videos/id-167083/; WN79 (Pixabay) https://pixabay.com/videos/id-165003/; Oleh_1977 (Pixabay) https://pixabay.com/videos/id-251932/; tmeier1964 (Pixabay) https://pixabay.com/videos/id-109756/; dlabiebrzy (Pixabay) https://pixabay.com/videos/id-53583/; huunghidt (Pixabay) https://pixabay.com/videos/id-34427/; acresoffilm (Pixabay) https://pixabay.com/videos/id-320067/; jeremy888 (Pixabay) https://pixabay.com/videos/id-126802/; gammeholton84 (Pixabay) https://pixabay.com/videos/id-110924/"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-08",
+        "name": "2026-10-08-3-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-08",
+        "name": "2026-10-08-3-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,109 --> 00:00:02,418\nWhy do giant bridges sway so much\n\n2\n00:00:02,418 --> 00:00:06,277\nin heavy winds Honestly it looks terrifying\n\n3\n00:00:06,277 --> 00:00:07,731\nYou might think a bridge needs to\n\n4\n00:00:07,731 --> 00:00:10,734\nbe totally rigid but wait here is\n\n5\n00:00:10,734 --> 00:00:13,678\nthe surprising truth If a massive structure\n\n6\n00:00:13,678 --> 00:00:16,613\ncannot bend it will simply snap under\n\n7\n00:00:16,613 --> 00:00:20,910\npressure That is basic physics Modern engineers\n\n8\n00:00:20,910 --> 00:00:23,818\nactually design these steel roadways to flex\n\n9\n00:00:23,818 --> 00:00:26,875\nup to several feet Aerodynamic gaps and\n\n10\n00:00:26,875 --> 00:00:30,041\nspecial dampers absorb all that kinetic energy\n\n11\n00:00:30,041 --> 00:00:33,302\nbefore disaster strikes So flexibility keeps\n\n12\n00:00:33,302 --> 00:00:35,136\nthem safe which brings us to the\n\n13\n00:00:35,136 --> 00:00:38,859\nreal question What other rigid structures secretly\n\n14\n00:00:38,859 --> 00:00:42,112\nuse flexible designs to survive storms\n",
+      "tg_msg": 215,
+      "opts_msg": 217
+    },
+    "2026-10-08-4": {
+      "topic": {
+        "title": "The Mystery of the Vanishing Forest Path",
+        "angle": "A fictional mini-story about a hiker who finds an ancient, overgrown path that seems to loop back on itself, keeping the ending open to interpretation.",
+        "format": "story",
+        "tone": "normal",
+        "trend_source": "evergreen",
+        "virality_score": 7,
+        "why": "Short, atmospheric mystery stories drive high rewatchability as viewers scan the background for clues or details they might have missed."
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-09T00:14:12.750467+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "vanishing forest path",
+        "title": "The Mystery of the Vanishing Forest Path",
+        "hook_text": "The path just vanished.",
+        "thumbnail_text": "Where did it go?",
+        "description": "Join me as I explore the mystery of the vanishing forest path in the woods today. This is an original fictional story.",
+        "hashtags": [
+          "#shorts",
+          "#mystery",
+          "#forestpath",
+          "#storytime"
+        ],
+        "tags": [
+          "vanishing forest path",
+          "vanishing forest",
+          "hiker gets lost short",
+          "forest mystery",
+          "forest mystery stories",
+          "mysterious forest stories",
+          "mysterious forest disappearances",
+          "short story audio",
+          "woods looping path",
+          "forest mystery story",
+          "hiking mystery short",
+          "original fiction story",
+          "spooky forest narrative",
+          "woods mystery narration",
+          "mysterious walking trail",
+          "hiker goes missing"
+        ],
+        "pinned_comment": "Would you keep walking down that path or turn back immediately? Let us know below!",
+        "key_facts": [],
+        "scenes": [
+          {
+            "text": "That old trail wasn't on any map. I stepped onto the ancient, overgrown path deep in the woods, looking for a shortcut back to camp.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "overgrown forest trail",
+              "hiker in woods"
+            ],
+            "image_prompt": "Vertical 9:16 view of a mossy, ancient hiking trail winding into a dense, mysterious forest with tall trees, moody lighting, no text",
+            "stock_query": "overgrown forest trail"
+          },
+          {
+            "text": "At first, it was peaceful, just the sound of leaves crunching under my boots. But then I noticed the exact same carved stone marker for the third time.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "mossy stone marker",
+              "forest footsteps"
+            ],
+            "image_prompt": "Vertical 9:16 close up of a weathered moss-covered stone marker beside a dirt path in a dark forest, atmospheric lighting, no text",
+            "stock_query": "mossy stone marker"
+          },
+          {
+            "text": "Wait, here is the strange part. The daylight didn't fade, but the shadows all pointed backward, stretching toward the afternoon sun instead of away from it.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "sunlight through trees",
+              "forest shadows"
+            ],
+            "image_prompt": "Vertical 9:16 shot of bright sunbeams piercing through tall pine trees with unusual shadows on the forest floor, no text",
+            "stock_query": "sunlight through trees"
+          },
+          {
+            "text": "I checked my phone to call my friend for help, but the screen was completely blank, not even a single battery bar or emergency signal.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "blank smartphone screen",
+              "hiker holding phone"
+            ],
+            "image_prompt": "Vertical 9:16 shot of a hand holding a modern smartphone with a completely black blank screen in a woodland setting, no text",
+            "stock_query": "blank smartphone screen"
+          },
+          {
+            "text": "Okay, so I tried turning around and walking in the opposite direction, hoping to retrace my steps out of the quiet valley.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "walking away woods",
+              "forest trail direction"
+            ],
+            "image_prompt": "Vertical 9:16 view from behind of a person walking away down a narrow winding dirt path through thick green trees, no text",
+            "stock_query": "walking away woods"
+          },
+          {
+            "text": "Instead, the trees slowly parted to reveal that exact same old stone marker sitting right in front of me again.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "stone marker path",
+              "forest trees opening"
+            ],
+            "image_prompt": "Vertical 9:16 view of a mossy stone marker standing in the middle of a branching woodland trail, mysterious mood, no text",
+            "stock_query": "stone marker path"
+          },
+          {
+            "text": "That old trail wasn't on any map.",
+            "badge": "THE END",
+            "label": "",
+            "stock_queries": [
+              "ancient forest path",
+              "deep woods trail"
+            ],
+            "image_prompt": "Vertical 9:16 wide shot of an endless winding forest path disappearing into heavy fog between ancient tree trunks, no text",
+            "stock_query": "ancient forest path"
+          }
+        ],
+        "format": "story",
+        "tone": "normal",
+        "category": "24",
+        "script": "That old trail wasn't on any map. I stepped onto the ancient, overgrown path deep in the woods, looking for a shortcut back to camp. At first, it was peaceful, just the sound of leaves crunching under my boots. But then I noticed the exact same carved stone marker for the third time. Wait, here is the strange part. The daylight didn't fade, but the shadows all pointed backward, stretching toward the afternoon sun instead of away from it. I checked my phone to call my friend for help, but the screen was completely blank, not even a single battery bar or emergency signal. Okay, so I tried turning around and walking in the opposite direction, hoping to retrace my steps out of the quiet valley. Instead, the trees slowly parted to reveal that exact same old stone marker sitting right in front of me again. That old trail wasn't on any map.",
+        "shot_plan": [
+          {
+            "subject": "overgrown forest path",
+            "queries": [
+              {
+                "q": "overgrown forest path",
+                "must": [
+                  "path"
+                ]
+              },
+              {
+                "q": "ancient woods trail",
+                "must": [
+                  "woods"
+                ]
+              },
+              {
+                "q": "forest trail",
+                "must": [
+                  "forest"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "carved stone marker in woods",
+            "queries": [
+              {
+                "q": "carved stone marker",
+                "must": [
+                  "stone"
+                ]
+              },
+              {
+                "q": "ancient boundary stone",
+                "must": [
+                  "marker"
+                ]
+              },
+              {
+                "q": "mossy rock forest",
+                "must": [
+                  "rock"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "backward shadows in forest",
+            "queries": [
+              {
+                "q": "shadows stretching backward",
+                "must": [
+                  "shadows"
+                ]
+              },
+              {
+                "q": "sunlight through trees",
+                "must": [
+                  "sunlight"
+                ]
+              },
+              {
+                "q": "forest sunbeams",
+                "must": [
+                  "sunbeams"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "blank smartphone screen",
+            "queries": [
+              {
+                "q": "blank smartphone screen",
+                "must": [
+                  "smartphone"
+                ]
+              },
+              {
+                "q": "black phone display",
+                "must": [
+                  "phone"
+                ]
+              },
+              {
+                "q": "holding device",
+                "must": [
+                  "device"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "hiker walking backward",
+            "queries": [
+              {
+                "q": "walking opposite direction",
+                "must": [
+                  "walking"
+                ]
+              },
+              {
+                "q": "hiker in valley",
+                "must": [
+                  "hiker"
+                ]
+              },
+              {
+                "q": "person walking trail",
+                "must": [
+                  "person"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "stone marker in front of trees",
+            "queries": [
+              {
+                "q": "stone marker",
+                "must": [
+                  "marker"
+                ]
+              },
+              {
+                "q": "ancient rock",
+                "must": [
+                  "rock"
+                ]
+              },
+              {
+                "q": "forest trees",
+                "must": [
+                  "trees"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "old trail on map",
+            "queries": [
+              {
+                "q": "old trail map",
+                "must": [
+                  "map"
+                ]
+              },
+              {
+                "q": "vintage paper map",
+                "must": [
+                  "paper"
+                ]
+              },
+              {
+                "q": "topographic map",
+                "must": [
+                  "topographic"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "dark forest path",
+          "misty woods",
+          "ancient trees"
+        ],
+        "visual_style": "Cinematic mystery mini-story with dark fantasy woods, mysterious markers, and disorienting loops in vibrant 3D animation style.",
+        "visual_refs": [
+          "Mira and the Vanishing Trail: The Animals Are Disappearing... (Part 1)",
+          "THE VANISHING PATHS OF ELDERWOOD: A MYSTERY\u2026",
+          "The Vanishing Path",
+          "The Vanishing Path \u2013 Part 1 | The Man Who Never Left the Forest   #creepy  #darkstories",
+          "The Mystery of the Vanishing Bell \u2013 Episode 2: Clues in the Yard | The Bell&#39;s Trail",
+          "The Mystery of the Vanishing Bell \u2013 Episode 3: The Forest Path  #ForestMystery #TrueStoryKids"
+        ],
+        "voice": "en-US-AvaMultilingualNeural",
+        "visual_report": {
+          "shots": 15,
+          "checked": 15,
+          "unchecked": 0,
+          "filler": 1
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AvaMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): redzy (Pixabay) https://pixabay.com/videos/id-183968/; kykr (Pixabay) https://pixabay.com/videos/id-347289/; thenickmurphy (Pixabay) https://pixabay.com/videos/id-44163/; caelan (Pixabay) https://pixabay.com/videos/id-46347/; caelan (Pixabay) https://pixabay.com/videos/id-46349/; Matthias_Groeneveld (Pixabay) https://pixabay.com/videos/id-220358/; elchao (Pixabay) https://pixabay.com/videos/id-736/; elchao (Pixabay) https://pixabay.com/videos/id-735/; Coverr-Free-Footage (Pixabay) https://pixabay.com/videos/id-3168/; Matthias_Groeneveld (Pixabay) https://pixabay.com/videos/id-260318/; Matthias_Groeneveld (Pixabay) https://pixabay.com/videos/id-260309/; Matthias_Groeneveld (Pixabay) https://pixabay.com/videos/id-258794/; Matthias_Groeneveld (Pixabay) https://pixabay.com/videos/id-167776/; tarlamu (Pixabay) https://pixabay.com/videos/id-33237/"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-08",
+        "name": "2026-10-08-4-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-08",
+        "name": "2026-10-08-4-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,109 --> 00:00:03,043\nThat old trail wasn't on any map\n\n2\n00:00:03,043 --> 00:00:06,182\nI stepped onto the ancient overgrown path\n\n3\n00:00:06,182 --> 00:00:08,030\ndeep in the woods looking for a\n\n4\n00:00:08,030 --> 00:00:11,223\nshortcut back to camp At first it\n\n5\n00:00:11,223 --> 00:00:13,682\nwas peaceful just the sound of leaves\n\n6\n00:00:13,682 --> 00:00:15,978\ncrunching under my boots But then I\n\n7\n00:00:15,978 --> 00:00:18,614\nnoticed the exact same carved stone marker\n\n8\n00:00:18,614 --> 00:00:21,168\nfor the third time Wait here is\n\n9\n00:00:21,168 --> 00:00:24,429\nthe strange part The daylight didn't fade\n\n10\n00:00:24,429 --> 00:00:27,486\nbut the shadows all pointed backward stretching\n\n11\n00:00:27,486 --> 00:00:29,810\ntoward the afternoon sun instead of away\n\n12\n00:00:29,810 --> 00:00:31,875\nfrom it I checked my phone to\n\n13\n00:00:31,875 --> 00:00:33,736\ncall my friend for help but the\n\n14\n00:00:33,736 --> 00:00:36,671\nscreen was completely blank not even a\n\n15\n00:00:36,671 --> 00:00:40,217\nsingle battery bar or emergency signal Okay\n\n16\n00:00:40,217 --> 00:00:42,473\nso I tried turning around and walking\n\n17\n00:00:42,473 --> 00:00:45,122\nin the opposite direction hoping to retrace\n\n18\n00:00:45,122 --> 00:00:47,473\nmy steps out of the quiet valley\n\n19\n00:00:47,473 --> 00:00:50,883\nInstead the trees slowly parted to reveal\n\n20\n00:00:50,883 --> 00:00:53,736\nthat exact same old stone marker sitting\n\n21\n00:00:53,736 --> 00:00:55,883\nright in front of me again That\n\n22\n00:00:55,883 --> 00:00:58,702\nold trail wasn't on any map\n",
+      "tg_msg": 218,
+      "opts_msg": 220
     }
   },
   "history": [
@@ -4550,7 +5860,11 @@
     "Top 5 Most Absurd Smartphone Glitches Ever",
     "Top 5 Historic Sports Comebacks",
     "Top 5 Absurd Inventions That Made Zero Sense",
-    "Why Soda Cans Explode at High Altitudes"
+    "Why Soda Cans Explode at High Altitudes",
+    "3 Smartphone Hacks You\u2019ve Been Ignoring",
+    "Top 5 Inventions That Are Borderline Useless",
+    "How Modern Bridges Handle Extreme Weather",
+    "The Mystery of the Vanishing Forest Path"
   ],
   "trend_tries": {
     "2026-10-06": {
@@ -4568,13 +5882,13 @@
   },
   "cleanup_day": "2026-10-08",
   "recent_voices": [
+    "en-US-AndrewMultilingualNeural",
     "en-US-AvaMultilingualNeural",
-    "en-US-BrianMultilingualNeural",
     "en-AU-WilliamMultilingualNeural",
-    "en-US-EmmaMultilingualNeural",
-    "en-US-AndrewMultilingualNeural"
+    "en-US-BrianMultilingualNeural",
+    "en-US-AvaMultilingualNeural"
   ],
   "visual_searches": {
-    "2026-10-08": 4
+    "2026-10-09": 1
   }
 }
