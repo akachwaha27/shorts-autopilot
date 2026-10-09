@@ -43,8 +43,22 @@ def cmd_trends(st):
     tries[today()] = {"n": tries.get(today(), {}).get("n", 0) + 1, "at": state.iso()}
     for d in sorted(tries)[:-3]:
         tries.pop(d)
-    signals = trends.collect()
-    topics = trends.pick_topics(signals, st.get("history", []))
+    from . import plan
+    sheet = []
+    past = trends.past_ideas(st.get("history", []), include_plan=False)
+    past_keys = [trends._key(t) for t in past]
+    for r in plan.ready(config.TOPICS_PER_DAY * 2):  # rows Claude researched + scripted this morning
+        if trends.is_repeat(r["title"], past_keys + [trends._key(t["title"]) for t in sheet]):
+            print("content plan row repeats an earlier idea, skipping:", r["title"])
+            continue
+        sheet.append(plan.topic_of(r))
+        if len(sheet) >= config.TOPICS_PER_DAY:
+            break
+    topics = list(sheet)
+    if len(topics) < config.TOPICS_PER_DAY:  # top up with the bot's own ideas
+        signals = trends.collect()
+        topics += trends.pick_topics(signals, st.get("history", []), n=config.TOPICS_PER_DAY - len(topics),
+                                     extra_past=[t["title"] for t in topics])
     if not topics:
         telegram.send("⚠️ No safe trending topics found today. I'll try again tomorrow.")
         return
@@ -52,8 +66,10 @@ def cmd_trends(st):
     st["batches"][bid] = {"topics": topics, "sent_at": state.iso(), "selected": [], "status": "waiting"}
     lines = [f"🔥 <b>Today's {len(topics)} video ideas</b> ({config.REGION})\n"]
     for i, t in enumerate(topics, 1):
-        lines.append(f"<b>{i}. {esc(t['title'])}</b>\n   {fmt_label(t.get('format'))}{' · 😂 funny' if t.get('tone') == 'funny' and t.get('format') != 'funny' else ''} · ⭐{t.get('virality_score', '?')}/10\n"
+        lines.append(f"<b>{i}. {esc(t['title'])}</b>{' 📋' if t.get('plan_id') else ''}\n   {fmt_label(t.get('format'))}{' · 😂 funny' if t.get('tone') == 'funny' and t.get('format') != 'funny' else ''} · ⭐{t.get('virality_score', '?')}/10\n"
                      f"   {esc(t['angle'])}\n   <i>Inspired by: {esc(t.get('trend_source', ''))}</i>\n")
+    if sheet:
+        lines.append(f"📋 = from your content plan sheet (researched + scripted by Claude this morning).\n")
     lines.append(
         "<b>How to reply</b>\n"
         "• Tap a number below, or type <code>1,3</code>\n"
@@ -363,9 +379,15 @@ def generate(st, vid):
             v["topic"].update(format="ranking", tone="funny")
             telegram.send(f"ℹ️ Couldn't find 5 funny enough free clips for <b>{esc(v['topic']['title'])}</b>, "
                           "so it's being made as a funny Top 5 with regular footage.")
+    row = None
+    if v["topic"].get("plan_id"):  # from the content plan sheet: Claude already wrote the script
+        from . import plan
+        row = next((r for r in plan.rows() if r["id"] == v["topic"]["plan_id"]), None)
     for _ in range(2):
         if mode == "audio":  # clips have their own sound: on-screen ranking, no script to write
             pkg = clips.package(v["topic"], found)
+        elif row:
+            pkg = writer.from_plan(v["topic"], row)
         else:
             pkg = writer.write_package(v["topic"])
         ok, issues = writer.review(pkg)
@@ -474,7 +496,7 @@ def daily_housekeeping(st):
 
 def catch_up_trends(st):
     """If today's idea list never arrived (e.g. AI was overloaded), retry later in the day."""
-    if today() in st["batches"] or state.now().hour < 12:  # daily scan runs ~11:53 UTC
+    if today() in st["batches"] or state.now().hour < 15:  # daily list goes out ~14:17 UTC (after the 9 AM ET sheet)
         return
     t = st.get("trend_tries", {}).get(today())
     if t and (t["n"] >= 3 or state.now() - state.parse(t["at"]) < timedelta(hours=1)):
@@ -509,6 +531,12 @@ def poll_once(st, wait=0):
         library.refresh_stats()
     except Exception as e:  # noqa: BLE001
         print("stats refresh failed:", e)
+    if state.now().hour >= 11 and st.get("signals_day") != today():  # for the 9 AM ET research task
+        st["signals_day"] = today()
+        try:
+            trends.viral_signals()
+        except Exception as e:  # noqa: BLE001
+            print("viral signals failed:", e)
     catch_up_trends(st)
     auto_select(st)
     state.save(st)  # save choices before long work

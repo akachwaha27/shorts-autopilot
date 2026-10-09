@@ -5,7 +5,7 @@ Keeps a folder on your PC up to date with everything the bot makes:
   <your folder>/
     Videos/                     every published video, named "<date> - <title>.mp4"
     Thumbnails/                 the matching thumbnails
-    Shorts Library.xlsx         sheets: Videos, Daily Top 5 Ideas, Comments, Daily Totals
+    Shorts Library.xlsx         sheets: Content Plan, Videos, Daily Top 5 Ideas, Comments, Daily Totals
     Dashboard.html              open in your browser to monitor everything
     _app/                       this script, its settings and a log
 
@@ -137,6 +137,23 @@ def fetch_json(session, repo, name):
     return r.json()
 
 
+def fetch_plan(session, repo):
+    """The content plan sheet (content/plan.csv) merged with each row's status (content/status.json)."""
+    import csv
+    import io
+    base = f"https://raw.githubusercontent.com/{repo}/main/content"
+    r = session.get(f"{base}/plan.csv", params={"t": int(time.time())}, timeout=60)
+    if r.status_code != 200:
+        return []
+    rows = [x for x in csv.DictReader(io.StringIO(r.content.decode("utf-8-sig"))) if (x.get("id") or "").strip()]
+    st = session.get(f"{base}/status.json", params={"t": int(time.time())}, timeout=60)
+    status = st.json() if st.status_code == 200 else {}
+    for x in rows:
+        info = status.get(x["id"], {})
+        x["status"], x["youtube"], x["published"] = info.get("status", "Ready"), info.get("youtube", ""), info.get("published", "")
+    return rows
+
+
 def download(session, url, dest):
     tmp = dest + ".part"
     with session.get(url, stream=True, timeout=300) as r:
@@ -186,6 +203,7 @@ def run_sync():
     videos = fetch_json(s, repo, "videos")
     ideas = fetch_json(s, repo, "ideas")
     totals = fetch_json(s, repo, "stats_history")
+    content_plan = fetch_plan(s, repo)
     runs = recent_runs(s, repo)
 
     vdir, tdir = os.path.join(folder, "Videos"), os.path.join(folder, "Thumbnails")
@@ -238,7 +256,7 @@ def run_sync():
     os.makedirs(os.path.dirname(index_file), exist_ok=True)
     with open(index_file, "w") as f:
         json.dump(index, f, indent=1, ensure_ascii=False)
-    xlsx = write_excel(folder, videos, ideas, totals)
+    xlsx = write_excel(folder, videos, ideas, totals, content_plan)
     write_dashboard(folder, videos, ideas, totals, runs, repo)
     log(folder, f"sync ok: {len(videos)} videos in library, {got} new downloaded, "
                 f"{sum(len(b.get('ideas', [])) for b in ideas.values())} ideas, Excel -> {os.path.basename(xlsx)}")
@@ -252,7 +270,7 @@ def _file_url(folder, path):
     return "file:///" + path.replace("\\", "/")
 
 
-def write_excel(folder, videos, ideas, totals):
+def write_excel(folder, videos, ideas, totals, content_plan=()):
     from openpyxl import Workbook
     from openpyxl.styles import Alignment, Font, PatternFill
     from openpyxl.utils import get_column_letter
@@ -369,6 +387,24 @@ def write_excel(folder, videos, ideas, totals):
         ("Date", 11, "day"), ("Videos on YouTube", 12, "int"), ("Total views", 12, "int"),
         ("Total likes", 12, "int"), ("Total comments", 12, "int"),
     ], trows)
+
+    order = {"Ready": 0, "Sent": 1, "Making": 2, "Preview": 3, "Approved": 4, "Published": 5}
+    prows = [[day(x.get("added")), x.get("status", ""), x.get("format", ""), x.get("title", ""),
+              ("Open on YouTube", x["youtube"]) if x.get("youtube") else "", day(x.get("published")) if x.get("published") else "",
+              x.get("hook", ""), x.get("script", ""), x.get("on_screen", ""), x.get("footage", ""),
+              x.get("thumbnail_text", ""), x.get("description", ""), x.get("hashtags", ""), x.get("tags", ""),
+              x.get("pinned_comment", ""), x.get("hook_score", ""), x.get("title_score", ""), x.get("virality_score", ""),
+              x.get("why_it_works", ""), x.get("inspired_by", ""), x.get("sources", ""), x.get("id", "")]
+             for x in sorted(content_plan, key=lambda x: (order.get(x.get("status"), 9), x.get("added", "")))]
+    ws = wb.create_sheet("Content Plan", 0)  # first tab
+    sheet(ws, [
+        ("Added", 11, "day"), ("Status", 11, ""), ("Format", 11, ""), ("Title", 40, "wrap"), ("YouTube", 16, ""),
+        ("Published", 11, "day"), ("Hook", 40, "wrap"), ("Script", 70, "wrap"), ("On-screen text", 30, "wrap"),
+        ("Footage", 30, "wrap"), ("Thumbnail text", 18, "wrap"), ("Description", 50, "wrap"), ("Hashtags", 24, "wrap"),
+        ("Tags", 40, "wrap"), ("Pinned comment", 36, "wrap"), ("Hook score", 9, ""), ("Title score", 9, ""),
+        ("Virality", 9, ""), ("Why it works", 40, "wrap"), ("Inspired by", 30, "wrap"), ("Sources", 40, "wrap"), ("ID", 16, ""),
+    ], prows)
+    wb.active = 0
 
     out = os.path.join(folder, "Shorts Library.xlsx")
     fd, tmp = tempfile.mkstemp(suffix=".xlsx", dir=folder)

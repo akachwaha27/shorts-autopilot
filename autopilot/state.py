@@ -32,6 +32,11 @@ def save(st):
         library.record(st)
     except Exception as e:  # noqa: BLE001
         print("library update failed:", e)
+    try:  # mark content-plan rows Sent / Making / Preview / Published ...
+        from . import plan
+        plan.sync(st)
+    except Exception as e:  # noqa: BLE001
+        print("content plan update failed:", e)
     # keep the file small: last 60 history entries, last 7 batches
     st["history"] = st.get("history", [])[-60:]
     for k in sorted(st.get("batches", {}))[:-7]:

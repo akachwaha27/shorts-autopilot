@@ -1,4 +1,6 @@
 """Collect trending signals and turn them into 5 safe, original video ideas."""
+import json
+import os
 import re
 import xml.etree.ElementTree as ET
 from datetime import timedelta
@@ -72,6 +74,69 @@ def youtube_trending():
     return out
 
 
+SIGNALS = os.path.join("content", "viral_signals.json")
+
+
+def viral_signals():
+    """Today's most-viewed Shorts (48h), each scored by how far it beat its OWN channel's median views
+    (method from youtube-agent-skill's swipe.py). Saved for the 9 AM Claude research task; ~160 quota units."""
+    if not config.YOUTUBE_API_KEY:
+        return None
+    import statistics
+    import sys
+    sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "tools"))
+    from yt_skill.swipe import classify
+    base, key = "https://www.googleapis.com/youtube/v3", config.YOUTUBE_API_KEY
+    after = (state.now() - timedelta(hours=48)).strftime("%Y-%m-%dT%H:%M:%SZ")
+    r = requests.get(f"{base}/search", timeout=30, params={
+        "part": "snippet", "q": "#shorts", "type": "video", "videoDuration": "short", "order": "viewCount",
+        "publishedAfter": after, "regionCode": config.REGION, "relevanceLanguage": config.LANGUAGE,
+        "maxResults": 50, "key": key}).json()
+    items = [i for i in r.get("items", []) if i.get("id", {}).get("videoId")]
+    ids = [i["id"]["videoId"] for i in items]
+    stats = {}
+    for k in range(0, len(ids), 50):
+        for v in requests.get(f"{base}/videos", timeout=30, params={"part": "statistics", "id": ",".join(ids[k:k + 50]),
+                                                                    "key": key}).json().get("items", []):
+            stats[v["id"]] = int(v.get("statistics", {}).get("viewCount", 0))
+    chans = sorted({i["snippet"]["channelId"] for i in items})
+    uploads = {}
+    for k in range(0, len(chans), 50):
+        for c in requests.get(f"{base}/channels", timeout=30, params={"part": "contentDetails,statistics",
+                                                                      "id": ",".join(chans[k:k + 50]), "key": key}).json().get("items", []):
+            uploads[c["id"]] = c["contentDetails"]["relatedPlaylists"]["uploads"]
+    medians = {}
+    for cid, pl in uploads.items():
+        try:
+            vids = [x["contentDetails"]["videoId"] for x in requests.get(f"{base}/playlistItems", timeout=30, params={
+                "part": "contentDetails", "playlistId": pl, "maxResults": 12, "key": key}).json().get("items", [])]
+            views = [int(v.get("statistics", {}).get("viewCount", 0)) for v in requests.get(
+                f"{base}/videos", timeout=30, params={"part": "statistics", "id": ",".join(vids), "key": key}).json().get("items", [])]
+            if len(views) >= 4:
+                medians[cid] = statistics.median(views)
+        except Exception:  # noqa: BLE001
+            continue
+    out = []
+    for i in items:
+        sn, vid = i["snippet"], i["id"]["videoId"]
+        if BLOCKLIST.search(f'{sn.get("title", "")} {sn.get("description", "")}'):
+            continue
+        views, med = stats.get(vid, 0), medians.get(sn["channelId"])
+        out.append({"title": sn.get("title", ""), "channel": sn.get("channelTitle", ""), "views": views,
+                    "channel_median": int(med) if med else None,
+                    "multiple": round(views / med, 1) if med else None,
+                    "formula": classify(sn.get("title", "")), "url": f"https://www.youtube.com/shorts/{vid}"})
+    out.sort(key=lambda x: (x["multiple"] or 0, x["views"]), reverse=True)
+    data = {"date": state.now().date().isoformat(), "region": config.REGION,
+            "note": "multiple = views / that channel's median views (>= 2 means it broke out)",
+            "shorts": out, "google_trends": [{"title": t["title"], "context": t["context"]} for t in google_trends()]}
+    os.makedirs(os.path.dirname(SIGNALS), exist_ok=True)
+    with open(SIGNALS, "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=1, ensure_ascii=False)
+    print(f"viral signals: {len(out)} Shorts, {sum(1 for x in out if (x['multiple'] or 0) >= 2)} outliers")
+    return data
+
+
 def collect():
     raw = google_trends() + youtube_trending()
     safe = [t for t in raw if not BLOCKLIST.search(f'{t["title"]} {t["context"]}')]
@@ -138,10 +203,14 @@ def channel_titles(limit=500):
         return []
 
 
-def past_ideas(history=()):
-    """Every idea ever sent to you or made into a video (permanent archive + recent state + your channel)."""
+def past_ideas(history=(), include_plan=True):
+    """Every idea ever sent to you or made into a video (permanent archive + recent state + your channel),
+    plus every row of the content plan sheet (so the bot's own ideas never duplicate the sheet)."""
     from . import library
     titles = list(history) + channel_titles()
+    if include_plan:
+        from . import plan
+        titles += [r["title"] for r in plan.rows()]
     for day, b in sorted(library.load("ideas").items()):
         titles += [i.get("title", "") for i in b.get("ideas", [])]
     for v in library.load("videos").values():
@@ -193,13 +262,14 @@ Return JSON: {{"repeats": [{{"index": 0, "same_as": "the earlier title"}}]}}"""
     return out
 
 
-def pick_topics(signals, history):
-    past = past_ideas(history)
+def pick_topics(signals, history, n=None, extra_past=()):
+    want = n or config.TOPICS_PER_DAY
+    past = past_ideas(history) + list(extra_past)
     past_keys = [_key(t) for t in past]
     topics, rejected = [], []
     for attempt in range(4):  # later passes ask for replacements for any repeats
-        need = config.TOPICS_PER_DAY - len(topics)
-        fresh = _ask_topics(signals, past + [t["title"] for t in topics] + rejected, need if attempt else None)
+        need = want - len(topics)
+        fresh = _ask_topics(signals, past + [t["title"] for t in topics] + rejected, need if attempt or n else None)
         word_ok = []
         for t in fresh:
             if is_repeat(t["title"], past_keys + [_key(x["title"]) for x in topics + word_ok]):
@@ -211,9 +281,9 @@ def pick_topics(signals, history):
         for i, t in enumerate(word_ok):
             if i in dupes:
                 rejected.append(t["title"])
-            elif len(topics) < config.TOPICS_PER_DAY:
+            elif len(topics) < want:
                 topics.append(t)
-        if len(topics) >= config.TOPICS_PER_DAY:
+        if len(topics) >= want:
             break
     topics.sort(key=lambda t: t.get("virality_score", 0) or 0, reverse=True)
     return topics

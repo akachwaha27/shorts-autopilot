@@ -172,6 +172,51 @@ Return JSON:
     return pkg
 
 
+def from_plan(topic, row):
+    """Package for a row of the content plan: Claude already wrote and scored the script; keep it word for word."""
+    fmt = fmt_of(topic)
+    info = FORMATS[fmt]
+    funny = fmt in ("funny", "clips") or str(topic.get("tone", "")).lower() == "funny"
+    feedback = topic.get("feedback", "")
+    prompt = f"""Turn this approved YouTube Short into the production JSON. The NARRATION MUST STAY WORD FOR WORD
+(only fix obvious typos); split it into scenes at the line breaks / natural beats (6-9 scenes).
+{f'CHANNEL OWNER FEEDBACK - apply it, you may rewrite lines to do so: {feedback}' if feedback else ''}
+
+Title: {row.get('title', '')}
+Thumbnail text: {row.get('thumbnail_text', '')}
+Hook (first line): {row.get('hook', '')}
+Script:
+{row.get('script', '')}
+
+On-screen text per beat: {row.get('on_screen', '')}
+Footage ideas per beat: {row.get('footage', '')}
+Description: {row.get('description', '')}
+Hashtags: {row.get('hashtags', '')}
+Tags: {row.get('tags', '')}
+Pinned comment: {row.get('pinned_comment', '')}
+
+{STRUCTURES[fmt]}
+
+Rules for the JSON: keep the title, thumbnail_text, description, hashtags (exactly 4, first "#shorts"), tags and
+pinned_comment as given unless they break YouTube rules. For EVERY scene give "badge"/"label" (from the
+on-screen text, per the format rules), "stock_queries" (2 searches for footage that LITERALLY shows what the
+line talks about - plain nouns, no brands or names) and "image_prompt". "hook_text": 3-6 words for the first
+scene. "primary_keyword": 2-4 words people search. "key_facts": every factual claim.
+
+Return JSON:
+{{"primary_keyword": "...", "title": "...", "hook_text": "...", "thumbnail_text": "...", "description": "...", "hashtags": ["#shorts", "...", "...", "{info['tag']}"],
+  "tags": ["..."], "pinned_comment": "...", "scenes": [{{"text": "narration", "badge": "", "label": "",
+  "stock_queries": ["...", "..."], "image_prompt": "..."}}], "key_facts": ["..."]}}"""
+    pkg = llm.ask_json(prompt, temperature=0.3)
+    pkg["format"] = fmt
+    pkg["tone"] = "funny" if funny else "normal"
+    pkg["category"] = info["category"] if fmt == "clips" else "23" if funny else info["category"]
+    _normalize(pkg, fmt)
+    pkg["script"] = " ".join(s["text"].strip() for s in pkg["scenes"])
+    pkg["plan_id"] = row.get("id")
+    return pkg
+
+
 def _normalize(pkg, fmt):
     scenes = [s for s in pkg.get("scenes", []) if str(s.get("text", "")).strip()]
     for s in scenes:
