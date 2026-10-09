@@ -172,6 +172,11 @@ Return JSON:
     return pkg
 
 
+TRUE_STORY = """FORMAT: true story, narrated (researched by Claude, with sources).
+6-8 scenes following the script's beats. Real events only - keep every fact exactly as written. Badges/labels
+empty except the last scene may use badge "THE END" - optional. Do NOT call it fictional."""
+
+
 def from_plan(topic, row):
     """Package for a row of the content plan: Claude already wrote and scored the script; keep it word for word."""
     fmt = fmt_of(topic)
@@ -194,8 +199,10 @@ Description: {row.get('description', '')}
 Hashtags: {row.get('hashtags', '')}
 Tags: {row.get('tags', '')}
 Pinned comment: {row.get('pinned_comment', '')}
+Opening on-screen text for the first 2 seconds (use it as "hook_text"): {row.get('opening_text', '')}
+Thumbnail brief: {row.get('thumbnail_brief', '')}
 
-{STRUCTURES[fmt]}
+{TRUE_STORY if fmt == "story" and row.get('sources') else STRUCTURES[fmt]}
 
 Rules for the JSON: keep the title, thumbnail_text, description, hashtags (exactly 4, first "#shorts"), tags and
 pinned_comment as given unless they break YouTube rules. For EVERY scene give "badge"/"label" (from the
@@ -208,10 +215,15 @@ Return JSON:
   "tags": ["..."], "pinned_comment": "...", "scenes": [{{"text": "narration", "badge": "", "label": "",
   "stock_queries": ["...", "..."], "image_prompt": "..."}}], "key_facts": ["..."]}}"""
     pkg = llm.ask_json(prompt, temperature=0.3)
+    if row.get("opening_text"):
+        pkg["hook_text"] = "".join(c for c in row["opening_text"] if ord(c) <= 0x2FFF).strip()  # no emoji in rendered text
     pkg["format"] = fmt
     pkg["tone"] = "funny" if funny else "normal"
     pkg["category"] = info["category"] if fmt == "clips" else "23" if funny else info["category"]
     _normalize(pkg, fmt)
+    if fmt == "story" and row.get("sources"):  # researched true story: never label it fiction
+        pkg["description"] = pkg.get("description", "").replace("\nThis is an original fictional story.", "").replace(
+            "This is an original fictional story.", "").rstrip()
     pkg["script"] = " ".join(s["text"].strip() for s in pkg["scenes"])
     pkg["plan_id"] = row.get("id")
     return pkg

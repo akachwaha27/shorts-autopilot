@@ -444,7 +444,10 @@ def write_excel(folder, videos, ideas, totals, content_plan=()):
               x.get("hook", ""), x.get("script", ""), x.get("on_screen", ""), x.get("footage", ""),
               x.get("thumbnail_text", ""), x.get("description", ""), x.get("hashtags", ""), x.get("tags", ""),
               x.get("pinned_comment", ""), x.get("hook_score", ""), x.get("title_score", ""), x.get("virality_score", ""),
-              x.get("why_it_works", ""), x.get("inspired_by", ""), x.get("sources", ""), x.get("id", "")]
+              x.get("why_it_works", ""), x.get("inspired_by", ""), x.get("sources", ""),
+              x.get("runtime", ""), x.get("opening_text", ""), x.get("hook_runner_up", ""), x.get("title_options", ""),
+              x.get("thumbnail_brief", ""), x.get("search_queries", ""), x.get("comment_replies", ""),
+              x.get("loop_point", ""), x.get("plan_promise", ""), x.get("id", "")]
              for x in sorted(content_plan, key=lambda x: (order.get(x.get("status"), 9), x.get("added", "")))]
     ws = wb.create_sheet("Content Plan", 0)  # first tab
     sheet(ws, [
@@ -452,7 +455,10 @@ def write_excel(folder, videos, ideas, totals, content_plan=()):
         ("Published", 11, "day"), ("Hook", 40, "wrap"), ("Script", 70, "wrap"), ("On-screen text", 30, "wrap"),
         ("Footage", 30, "wrap"), ("Thumbnail text", 18, "wrap"), ("Description", 50, "wrap"), ("Hashtags", 24, "wrap"),
         ("Tags", 40, "wrap"), ("Pinned comment", 36, "wrap"), ("Hook score", 9, ""), ("Title score", 9, ""),
-        ("Virality", 9, ""), ("Why it works", 40, "wrap"), ("Inspired by", 30, "wrap"), ("Sources", 40, "wrap"), ("ID", 16, ""),
+        ("Virality", 9, ""), ("Why it works", 40, "wrap"), ("Inspired by", 30, "wrap"), ("Sources", 40, "wrap"),
+        ("Runtime", 12, "wrap"), ("Opening text", 18, "wrap"), ("Runner-up hook", 40, "wrap"), ("Title options", 40, "wrap"),
+        ("Thumbnail brief", 50, "wrap"), ("Search queries", 30, "wrap"), ("Comment replies", 45, "wrap"),
+        ("Loop point", 30, "wrap"), ("Promise", 36, "wrap"), ("ID", 16, ""),
     ], prows)
     wb.active = 0
 

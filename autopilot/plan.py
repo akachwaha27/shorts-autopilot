@@ -15,7 +15,10 @@ PLAN = os.path.join("content", "plan.csv")
 STATUS = os.path.join("content", "status.json")
 COLUMNS = ["id", "added", "format", "title", "thumbnail_text", "hook", "hook_score", "title_score", "script",
            "on_screen", "footage", "description", "hashtags", "tags", "pinned_comment", "virality_score",
-           "why_it_works", "inspired_by", "sources"]
+           "why_it_works", "inspired_by", "sources",
+           # added by the youtube-agent-skill pass (yt-script, yt-shorts, yt-package, yt-seo, yt-comment, yt-plan)
+           "hook_runner_up", "runtime", "opening_text", "loop_point", "title_options", "thumbnail_brief",
+           "search_queries", "comment_replies", "plan_promise"]
 VIDEO_STATUS = {"queued": "Making", "generating": "Making", "revoice": "Making", "awaiting_approval": "Preview",
                 "approved": "Approved", "published": "Published", "rejected": "Skipped", "failed": "Failed"}
 
