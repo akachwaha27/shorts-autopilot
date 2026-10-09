@@ -385,8 +385,13 @@
         }
       ],
       "sent_at": "2026-10-09T14:52:29.922247+00:00",
-      "selected": [],
-      "status": "waiting"
+      "selected": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "status": "closed"
     }
   },
   "videos": {
@@ -5943,6 +5948,1109 @@
       },
       "uploaded_at": "2026-10-09T03:05:10.788428+00:00",
       "slot": "2026-10-10T01:15:00+00:00"
+    },
+    "2026-10-09-1": {
+      "topic": {
+        "title": "Top 5 Weirdest Ways Animals Sleep \ud83d\ude34",
+        "angle": "Animal-facts rankings stay evergreen and the funny-reaction outliers today (snake scare short at 166x its channel median) show light, surprising animal moments travel; a countdown with a 12-second-nap payoff keeps people to the end.",
+        "format": "ranking",
+        "tone": "normal",
+        "virality_score": 7,
+        "trend_source": "She Wasn't Scared\u2026 Until She Saw the SNAKE (166x median); Things thrown into a Volcano (list format)",
+        "plan_id": "P2026-10-09-01"
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-09T22:01:38.184446+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "weird animal sleep",
+        "title": "Top 5 Weirdest Ways Animals Sleep \ud83d\ude34",
+        "hook_text": "Nap champions?",
+        "thumbnail_text": "NAP GOALS?",
+        "description": "The weirdest ways animals sleep: sea otters holding paws, birds that nap mid-flight and elephants sleeping standing up. Here are 5 animals with the strangest sleep habits, counted down to number one.\n\nIn this Short: sea otters, sperm whales, the common swift, frigatebirds and wild African elephants, and how each one gets its rest.\n\nSources:\nhttps://www.sciencedaily.com/releases/2016/08/160803111738.htm\nhttps://www.sciencedaily.com/releases/2017/03/170302115731.htm\nhttps://www.nationalgeographic.com/photography/article/sperm-whales-nap-sleeping-photography-spd",
+        "hashtags": [
+          "#shorts",
+          "#animals",
+          "#sleep",
+          "#top5"
+        ],
+        "tags": [
+          "weird animal sleep",
+          "sea otters holding hands while sleeping",
+          "why do sea otters hold hands while sleeping",
+          "sea otters holding hands",
+          "animals that sleep standing up",
+          "sperm whales sleeping vertically",
+          "how long animals sleep",
+          "how animals sleep shorts",
+          "common swift 10 months flight",
+          "frigatebird sleeps while flying",
+          "how animals sleep",
+          "funny animal facts",
+          "animal sleep habits",
+          "how long do elephants sleep",
+          "animal facts",
+          "top 5 animals"
+        ],
+        "pinned_comment": "Bonus fact: frigatebirds can sleep with just one half of their brain at a time, so one eye stays open to watch where they're flying. Which animal surprised you most?",
+        "scenes": [
+          {
+            "text": "You think you sleep badly? Wait until you see how these five animals do it. We're counting down to the strangest sleeper on the planet.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "tired person yawning in bed",
+              "night sky countdown timer"
+            ],
+            "image_prompt": "Cinematic shot of a person tossing and turning in bed with an alarm clock glowing at night, dramatic atmospheric lighting, photorealistic 8k.",
+            "stock_query": "tired person yawning in bed"
+          },
+          {
+            "text": "Number five: sea otters. They float on their backs and often hold paws, so they don't drift apart.",
+            "badge": "#5",
+            "label": "Sea Otters",
+            "stock_queries": [
+              "sea otters floating on back",
+              "two sea otters holding paws water"
+            ],
+            "image_prompt": "Two sea otters floating peacefully on their backs in clear blue ocean water holding paws, sunlight glinting on wet fur, National Geographic wildlife photography style.",
+            "stock_query": "sea otters floating on back"
+          },
+          {
+            "text": "Number four: sperm whales. They nap upright, like giant floating pillars, for just ten to fifteen minutes.",
+            "badge": "#4",
+            "label": "Sperm Whales",
+            "stock_queries": [
+              "sperm whale sleeping vertically",
+              "pod of whales drifting upright underwater"
+            ],
+            "image_prompt": "Underwater wide shot of massive sperm whales sleeping suspended vertically in crystal clear deep ocean waters, sun rays piercing through the surface, eerie and serene nature photography.",
+            "stock_query": "sperm whale sleeping vertically"
+          },
+          {
+            "text": "Number three: the common swift. This bird can stay airborne for about ten months straight, and scientists think it naps up there.",
+            "badge": "#3",
+            "label": "Common Swift",
+            "stock_queries": [
+              "swift bird flying in sky",
+              "swifts flying in flock at sunset"
+            ],
+            "image_prompt": "A common swift gliding effortlessly through high altitude clouds at golden hour sunset, wings outstretched, cinematic avian macro shot.",
+            "stock_query": "swift bird flying in sky"
+          },
+          {
+            "text": "Number two: frigatebirds. Researchers caught them sleeping mid-flight, in bursts of about twelve seconds. That adds up to less than an hour a day.",
+            "badge": "#2",
+            "label": "Frigatebirds",
+            "stock_queries": [
+              "frigatebird soaring ocean",
+              "frigatebird silhouette against clouds"
+            ],
+            "image_prompt": "A majestic frigatebird soaring over open ocean waves against dramatic overcast skies, wide wingspan, hyper-realistic telephoto wildlife photography.",
+            "stock_query": "frigatebird soaring ocean"
+          },
+          {
+            "text": "Number one: wild African elephants. A study found they sleep only about two hours a day, mostly standing up. So the strangest sleeper of all? The giant that barely sleeps.",
+            "badge": "#1",
+            "label": "African Elephants",
+            "stock_queries": [
+              "african elephant standing still dusk savanna",
+              "elephant herd standing resting night"
+            ],
+            "image_prompt": "A massive wild African bull elephant standing motionless at twilight on the savanna, silhouette against a deep purple and orange dusk horizon, ultra-detailed documentary photograph.",
+            "stock_query": "african elephant standing still dusk savanna"
+          },
+          {
+            "text": "Which one sleeps most like you? Comment below. And next time you think you sleep badly, wait until you see how these five animals do it.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "exhausted person resting head on pillow",
+              "person yawning stretching morning"
+            ],
+            "image_prompt": "Cozy bedroom setting with an exhausted person laughing and hugging a plush pillow, warm ambient morning light, authentic relatable lifestyle photography.",
+            "stock_query": "exhausted person resting head on pillow"
+          }
+        ],
+        "key_facts": [
+          "Sea otters often hold paws while sleeping on their backs to keep from drifting apart in water currents.",
+          "Sperm whales nap vertically in the water column for short bursts lasting only 10 to 15 minutes.",
+          "Common swifts can remain continuously airborne for up to 10 months without landing, likely sleeping while gliding.",
+          "Frigatebirds sleep during flight in micro-naps of roughly 12 seconds, totaling under an hour of sleep per day.",
+          "Wild African elephants sleep for only about two hours per day on average, predominantly while standing up."
+        ],
+        "format": "ranking",
+        "tone": "normal",
+        "category": "27",
+        "script": "You think you sleep badly? Wait until you see how these five animals do it. We're counting down to the strangest sleeper on the planet. Number five: sea otters. They float on their backs and often hold paws, so they don't drift apart. Number four: sperm whales. They nap upright, like giant floating pillars, for just ten to fifteen minutes. Number three: the common swift. This bird can stay airborne for about ten months straight, and scientists think it naps up there. Number two: frigatebirds. Researchers caught them sleeping mid-flight, in bursts of about twelve seconds. That adds up to less than an hour a day. Number one: wild African elephants. A study found they sleep only about two hours a day, mostly standing up. So the strangest sleeper of all? The giant that barely sleeps. Which one sleeps most like you? Comment below. And next time you think you sleep badly, wait until you see how these five animals do it.",
+        "plan_id": "P2026-10-09-01",
+        "shot_plan": [
+          {
+            "subject": "sleeping animals",
+            "queries": [
+              {
+                "q": "sleeping animal",
+                "must": [
+                  "animal"
+                ]
+              },
+              {
+                "q": "sleepy wildlife",
+                "must": [
+                  "sleep"
+                ]
+              },
+              {
+                "q": "animal resting",
+                "must": [
+                  "wildlife"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "sea otters",
+            "queries": [
+              {
+                "q": "sea otter",
+                "must": [
+                  "otter"
+                ]
+              },
+              {
+                "q": "otters floating",
+                "must": [
+                  "sea"
+                ]
+              },
+              {
+                "q": "marine mammal",
+                "must": [
+                  "animal"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "sperm whales",
+            "queries": [
+              {
+                "q": "sperm whale",
+                "must": [
+                  "whale"
+                ]
+              },
+              {
+                "q": "whale underwater",
+                "must": [
+                  "ocean"
+                ]
+              },
+              {
+                "q": "giant whale",
+                "must": [
+                  "marine"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "common swift bird",
+            "queries": [
+              {
+                "q": "common swift",
+                "must": [
+                  "swift"
+                ]
+              },
+              {
+                "q": "bird flying",
+                "must": [
+                  "bird"
+                ]
+              },
+              {
+                "q": "avian flight",
+                "must": [
+                  "sky"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "frigatebirds",
+            "queries": [
+              {
+                "q": "frigatebird",
+                "must": [
+                  "frigatebird"
+                ]
+              },
+              {
+                "q": "seabird flying",
+                "must": [
+                  "bird"
+                ]
+              },
+              {
+                "q": "bird soaring",
+                "must": [
+                  "wing"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "African elephants",
+            "queries": [
+              {
+                "q": "african elephant",
+                "must": [
+                  "elephant"
+                ]
+              },
+              {
+                "q": "elephant standing",
+                "must": [
+                  "wildlife"
+                ]
+              },
+              {
+                "q": "giant animal",
+                "must": [
+                  "savanna"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "sleeping animals",
+            "queries": [
+              {
+                "q": "sleeping animal",
+                "must": [
+                  "animal"
+                ]
+              },
+              {
+                "q": "resting wildlife",
+                "must": [
+                  "sleep"
+                ]
+              },
+              {
+                "q": "cute animal",
+                "must": [
+                  "wildlife"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "animal",
+          "sleep",
+          "wildlife"
+        ],
+        "visual_style": "Viewers expect fast-paced, countdown-style animal facts featuring high-definition, close-up stock footage of wild animals in their natural habitats with clear on-screen labels.",
+        "visual_refs": [
+          "Does your dog sleep like this? #dog #labrador #sleepy",
+          "Sleeping with a bunny!!",
+          "DOG SLEEP \ud83d\ude31",
+          "Cat Sleeping Positions and their Meaning. #cats #catlovers #catfacts #catvideos",
+          "Ranking The Funniest Sleeping Pranks #shorts #Sleeping #prank  #usa  #uk",
+          "Gaming \uff1e Sleep"
+        ],
+        "voice": "en-US-AndrewMultilingualNeural",
+        "visual_report": {
+          "shots": 18,
+          "checked": 18,
+          "unchecked": 0,
+          "filler": 0
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AndrewMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): BlenderTimer (Pixabay) https://pixabay.com/videos/id-218645/; kieutruongphoto (Pixabay) https://pixabay.com/videos/id-35693/; kieutruongphoto (Pixabay) https://pixabay.com/videos/id-35733/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-327054/; brigachtal (Pixabay) https://pixabay.com/videos/id-3342/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-376846/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-370723/; Osckar (Pixabay) https://pixabay.com/videos/id-117702/; flutie8211 (Pixabay) https://pixabay.com/videos/id-365634/; gavinllo (Pixabay) https://pixabay.com/videos/id-126215/; gavinllo (Pixabay) https://pixabay.com/videos/id-126210/; gavinllo (Pixabay) https://pixabay.com/videos/id-126214/; Bernard_Townsend (Pixabay) https://pixabay.com/videos/id-127621/; jodywhiteley (Pixabay) https://pixabay.com/videos/id-174490/; nathan-osman (Pixabay) https://pixabay.com/videos/id-6712/",
+        "Alexis Lours / Wikimedia Commons (CC BY 4.0) https://commons.wikimedia.org/wiki/File:Common_Swift_2025_07_18_01.jpg",
+        "Alexis Lours / Wikimedia Commons (CC BY 4.0) https://commons.wikimedia.org/wiki/File:Common_Swift_2025_07_18_02.jpg",
+        "Alexis Lours / Wikimedia Commons (CC BY 4.0) https://commons.wikimedia.org/wiki/File:Common_swift_2024_04_21.jpg"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-09",
+        "name": "2026-10-09-1-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-09",
+        "name": "2026-10-09-1-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,100 --> 00:00:02,325\nYou think you sleep badly Wait until\n\n2\n00:00:02,325 --> 00:00:04,300\nyou see how these five animals do\n\n3\n00:00:04,300 --> 00:00:06,787\nit We're counting down to the strangest\n\n4\n00:00:06,787 --> 00:00:09,688\nsleeper on the planet Number five sea\n\n5\n00:00:09,688 --> 00:00:12,312\notters They float on their backs and\n\n6\n00:00:12,312 --> 00:00:14,738\noften hold paws so they don't drift\n\n7\n00:00:14,738 --> 00:00:18,350\napart Number four sperm whales They nap\n\n8\n00:00:18,350 --> 00:00:21,113\nupright like giant floating pillars for just\n\n9\n00:00:21,113 --> 00:00:24,400\nten to fifteen minutes Number three the\n\n10\n00:00:24,400 --> 00:00:26,975\ncommon swift This bird can stay airborne\n\n11\n00:00:26,975 --> 00:00:29,462\nfor about ten months straight and scientists\n\n12\n00:00:29,462 --> 00:00:31,812\nthink it naps up there Number two\n\n13\n00:00:31,812 --> 00:00:34,938\nfrigatebirds Researchers caught them sleeping\n\n14\n00:00:34,938 --> 00:00:38,175\nmid-flight in bursts of about twelve seconds\n\n15\n00:00:38,175 --> 00:00:39,312\nThat adds up to less than an\n\n16\n00:00:39,312 --> 00:00:42,325\nhour a day Number one wild African\n\n17\n00:00:42,325 --> 00:00:44,875\nelephants A study found they sleep only\n\n18\n00:00:44,875 --> 00:00:47,362\nabout two hours a day mostly standing\n\n19\n00:00:47,362 --> 00:00:50,188\nup So the strangest sleeper of all\n\n20\n00:00:50,188 --> 00:00:52,763\nThe giant that barely sleeps Which one\n\n21\n00:00:52,763 --> 00:00:55,375\nsleeps most like you Comment below And\n\n22\n00:00:55,375 --> 00:00:57,200\nnext time you think you sleep badly\n\n23\n00:00:57,200 --> 00:00:59,612\nwait until you see how these five\n\n24\n00:00:59,612 --> 00:01:00,825\nanimals do it\n",
+      "tg_msg": 232,
+      "opts_msg": 234
+    },
+    "2026-10-09-2": {
+      "topic": {
+        "title": "5 Funny Town Names With Wild Backstories",
+        "angle": "Today's top breakouts are light comedy (166x and 55x their channel medians), and a funny Top 5 with real, verifiable punchlines gives that laugh with a comment-bait payoff ('which address would you pick').",
+        "format": "funny",
+        "tone": "funny",
+        "virality_score": 8,
+        "trend_source": "She Wasn't Scared\u2026 Until She Saw the SNAKE (166x); She's STILL Dancing Macarena (55.5x); The List formula",
+        "plan_id": "P2026-10-09-02"
+      },
+      "status": "failed",
+      "by": "auto",
+      "updated": "2026-10-09T21:48:36.326022+00:00",
+      "redos": 0
+    },
+    "2026-10-09-3": {
+      "topic": {
+        "title": "The Great Rubber Duck Escape of 1992 \ud83e\udd86",
+        "angle": "Question-led 'how did this happen' Shorts are breaking out today (How Was This Scene Actually Shot? at 41x median), and this true, kid-safe story answers a big curiosity gap with a single playful image.",
+        "format": "story",
+        "tone": "normal",
+        "virality_score": 8,
+        "trend_source": "How Was This Koyla Scene Actually Shot? (41.2x, The Question); Bid for Island Survival",
+        "plan_id": "P2026-10-09-03"
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-09T22:12:09.826638+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "rubber ducks ocean currents",
+        "title": "The Great Rubber Duck Escape of 1992 \ud83e\udd86",
+        "hook_text": "True story",
+        "thumbnail_text": "LOST AT SEA",
+        "description": "In 1992, 28,800 bath toys, including rubber ducks, were lost at sea in the Pacific, and scientists used them to track ocean currents. This is the true story of the Friendly Floatees.\n\nIn this Short: the storm, the toys, the first ones washing up in Alaska, and how beachcombers' sightings helped map the currents.\n\nThis is a true story.\n\nSources:\nhttps://britishseafishing.co.uk/the-friendly-floatees/\nhttps://knowledgestew.substack.com/p/the-great-rubber-ducky-journey\nhttps://www.greenworldwide.com/?p=2167",
+        "hashtags": [
+          "#shorts",
+          "#ocean",
+          "#truestory",
+          "#science",
+          "#storytime"
+        ],
+        "tags": [
+          "rubber ducks ocean currents",
+          "1992 rubber ducks lost at sea",
+          "rubber ducks lost at sea",
+          "29000 rubber ducks lost at sea",
+          "friendly floatees",
+          "lost cargo ship toys",
+          "friendly floatees spill",
+          "rubber duck story",
+          "true story shorts",
+          "28800 rubber ducks",
+          "north pacific gyre",
+          "ocean currents explained",
+          "ocean science",
+          "weird history",
+          "curtis ebbesmeyer"
+        ],
+        "pinned_comment": "Bonus fact: the toys were called Friendly Floatees, and collectors still hunt for faded ones that wash up. If you found one, would you keep it or give it to a scientist?",
+        "scenes": [
+          {
+            "text": "A storm knocked twenty-eight thousand eight hundred bath toys off a ship, and they ended up teaching you how the ocean moves. Here's how they became a science experiment.",
+            "badge": "28,800 t",
+            "label": "Ducks \u2192 science",
+            "stock_queries": [
+              "yellow rubber duck floating on water",
+              "pile of rubber ducks"
+            ],
+            "image_prompt": "A single yellow rubber duck floating on choppy ocean water, macro lens, cinematic lighting, 8k",
+            "stock_query": "yellow rubber duck floating on water"
+          },
+          {
+            "text": "It's January, nineteen ninety-two. A cargo ship from Hong Kong hits a storm in the North Pacific. Containers tumble into the sea, and one is full of plastic toys.",
+            "badge": "January ",
+            "label": "Storm, North Pacific \ud83c\udf0a",
+            "stock_queries": [
+              "cargo ship in a stormy ocean with big waves",
+              "shipping containers on a cargo ship"
+            ],
+            "image_prompt": "A massive cargo ship battling huge ocean waves during a severe storm at night, cinematic drama, highly detailed",
+            "stock_query": "cargo ship in a stormy ocean with big waves"
+          },
+          {
+            "text": "Yellow ducks, blue turtles, red beavers and green frogs. The box breaks, and they float away.",
+            "badge": "One cont",
+            "label": "Ducks, turtles, beavers, frogs",
+            "stock_queries": [
+              "colorful plastic bath toys",
+              "rubber ducks drifting on the ocean"
+            ],
+            "image_prompt": "Colorful plastic bath toys including yellow ducks and blue turtles floating on ocean waves, bright daylight",
+            "stock_query": "colorful plastic bath toys"
+          },
+          {
+            "text": "Ten months later, the first ones wash up in Alaska. Ocean scientist Curtis Ebbesmeyer gets curious.",
+            "badge": "~10 mont",
+            "label": "Curtis Ebbesmeyer, ocean scientist",
+            "stock_queries": [
+              "rocky beach in alaska",
+              "scientist looking at a map"
+            ],
+            "image_prompt": "An ocean scientist studying a large world map and current charts in a bright research office",
+            "stock_query": "rocky beach in alaska"
+          },
+          {
+            "text": "He asks beachcombers to report every toy. Each sighting shows where the currents carried them.",
+            "badge": "Report e",
+            "label": "Mapping the currents",
+            "stock_queries": [
+              "person walking on a beach collecting things",
+              "ocean current map animation"
+            ],
+            "image_prompt": "A person walking along a sandy beach looking down for washed-up items, wide angle landscape",
+            "stock_query": "person walking on a beach collecting things"
+          },
+          {
+            "text": "Some circled the North Pacific in a giant loop of current, and some may have drifted into the Arctic ice.",
+            "badge": "The Nort",
+            "label": "Toys mapped the ocean",
+            "stock_queries": [
+              "swirling ocean water from above",
+              "arctic sea ice"
+            ],
+            "image_prompt": "Swirling deep blue ocean water currents viewed from high above, satellite perspective",
+            "stock_query": "swirling ocean water from above"
+          },
+          {
+            "text": "So a lost box of bath toys helped map how the ocean moves. Found one on the beach? What would you name it? Tell me below.",
+            "badge": "Toys map",
+            "label": "Name your duck \ud83d\udc47",
+            "stock_queries": [
+              "person holding a rubber duck on a beach",
+              "yellow rubber duck on sand"
+            ],
+            "image_prompt": "A yellow rubber duck resting on a sandy beach with ocean waves in the background, close up",
+            "stock_query": "person holding a rubber duck on a beach"
+          },
+          {
+            "text": "Because a storm knocked twenty-eight thousand eight hundred bath toys off a ship\u2026",
+            "badge": "THE END",
+            "label": "28,800 toys\u2026",
+            "stock_queries": [
+              "yellow rubber duck floating on water",
+              "pile of rubber ducks"
+            ],
+            "image_prompt": "A group of yellow rubber ducks bobbing gently together in calm blue water, bright cinematic lighting",
+            "stock_query": "yellow rubber duck floating on water"
+          }
+        ],
+        "key_facts": [
+          "28,800 bath toys were knocked off a cargo ship in January 1992",
+          "The incident happened in the North Pacific Ocean",
+          "Toys included yellow ducks, blue turtles, red beavers and green frogs",
+          "The first toys washed up in Alaska about ten months later",
+          "Ocean scientist Curtis Ebbesmeyer tracked the toys to map ocean currents",
+          "Some toys circled the North Pacific gyre while others drifted toward Arctic ice"
+        ],
+        "format": "story",
+        "tone": "normal",
+        "category": "24",
+        "script": "A storm knocked twenty-eight thousand eight hundred bath toys off a ship, and they ended up teaching you how the ocean moves. Here's how they became a science experiment. It's January, nineteen ninety-two. A cargo ship from Hong Kong hits a storm in the North Pacific. Containers tumble into the sea, and one is full of plastic toys. Yellow ducks, blue turtles, red beavers and green frogs. The box breaks, and they float away. Ten months later, the first ones wash up in Alaska. Ocean scientist Curtis Ebbesmeyer gets curious. He asks beachcombers to report every toy. Each sighting shows where the currents carried them. Some circled the North Pacific in a giant loop of current, and some may have drifted into the Arctic ice. So a lost box of bath toys helped map how the ocean moves. Found one on the beach? What would you name it? Tell me below. Because a storm knocked twenty-eight thousand eight hundred bath toys off a ship\u2026",
+        "plan_id": "P2026-10-09-03",
+        "shot_plan": [
+          {
+            "subject": "rubber duck floating on water",
+            "queries": [
+              {
+                "q": "rubber duck",
+                "must": [
+                  "duck"
+                ]
+              },
+              {
+                "q": "bath toy",
+                "must": [
+                  "toy"
+                ]
+              },
+              {
+                "q": "yellow duck",
+                "must": [
+                  "yellow"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "cargo ship in a rough ocean storm",
+            "queries": [
+              {
+                "q": "cargo ship storm",
+                "must": [
+                  "ship"
+                ]
+              },
+              {
+                "q": "container ship ocean",
+                "must": [
+                  "container"
+                ]
+              },
+              {
+                "q": "rough sea waves",
+                "must": [
+                  "waves"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "plastic bath toys floating in water",
+            "queries": [
+              {
+                "q": "plastic bath toys",
+                "must": [
+                  "toys"
+                ]
+              },
+              {
+                "q": "rubber duck turtle",
+                "must": [
+                  "duck"
+                ]
+              },
+              {
+                "q": "bathtub toys",
+                "must": [
+                  "water"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "scientist studying maps at a desk",
+            "queries": [
+              {
+                "q": "scientist studying map",
+                "must": [
+                  "scientist"
+                ]
+              },
+              {
+                "q": "ocean researcher",
+                "must": [
+                  "researcher"
+                ]
+              },
+              {
+                "q": "scientific research desk",
+                "must": [
+                  "map"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "person walking on a sandy beach",
+            "queries": [
+              {
+                "q": "beachcomber walking sand",
+                "must": [
+                  "beach"
+                ]
+              },
+              {
+                "q": "person beach shore",
+                "must": [
+                  "sand"
+                ]
+              },
+              {
+                "q": "searching beach",
+                "must": [
+                  "shore"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "ocean waves and arctic ice",
+            "queries": [
+              {
+                "q": "arctic ocean ice",
+                "must": [
+                  "ice"
+                ]
+              },
+              {
+                "q": "ocean currents map",
+                "must": [
+                  "currents"
+                ]
+              },
+              {
+                "q": "sea water waves",
+                "must": [
+                  "ocean"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "rubber duck on sandy beach",
+            "queries": [
+              {
+                "q": "duck on beach",
+                "must": [
+                  "duck"
+                ]
+              },
+              {
+                "q": "toy on sand",
+                "must": [
+                  "sand"
+                ]
+              },
+              {
+                "q": "rubber duck shore",
+                "must": [
+                  "beach"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "cargo ship on the ocean",
+            "queries": [
+              {
+                "q": "cargo ship sea",
+                "must": [
+                  "ship"
+                ]
+              },
+              {
+                "q": "container ship ocean",
+                "must": [
+                  "container"
+                ]
+              },
+              {
+                "q": "ship on water",
+                "must": [
+                  "water"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "rubber duck",
+          "ocean waves",
+          "cargo ship"
+        ],
+        "visual_style": "Bright, high-contrast close-up stock footage of yellow rubber ducks and ocean scenes with punchy on-screen captions.",
+        "visual_refs": [
+          "When Thousands of Rubber Ducks Were Accidentally Dumped into the Ocean",
+          "When 28,800 Rubber Duckies Fell Into The Pacific Ocean (Cool Weird Awesome 691)",
+          "The Secret Lives of Rubber Ducks",
+          "The epic journey of the plastic ducks",
+          "Rubber Ducks",
+          "Bathtub Rubber Duck - Find The Rubber Duck Morphs #shorts #roblox #morphs #rubberduck"
+        ],
+        "voice": "en-US-BrianMultilingualNeural",
+        "visual_report": {
+          "shots": 13,
+          "checked": 13,
+          "unchecked": 0,
+          "filler": 1
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-BrianMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): overjupiter (Pixabay) https://pixabay.com/videos/id-33221/; Bellahu123 (Pixabay) https://pixabay.com/videos/id-46819/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-365003/; LAWJR (Pixabay) https://pixabay.com/photos/rubber-duck-game-amusement-fair-4338351/; Matthias_Groeneveld (Pixabay) https://pixabay.com/videos/id-181704/; Coverr-Free-Footage (Pixabay) https://pixabay.com/videos/id-4722/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-344400/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-325655/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-336377/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-344719/",
+        "Joe Mabel / Wikimedia Commons (CC BY 4.0) https://commons.wikimedia.org/wiki/File:Alki_Beach_-_man_with_duck_float_01.jpg",
+        "Joe Mabel / Wikimedia Commons (CC BY 4.0) https://commons.wikimedia.org/wiki/File:Alki_Beach_-_man_with_duck_float_02.jpg"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-09",
+        "name": "2026-10-09-3-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-09",
+        "name": "2026-10-09-3-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,083 --> 00:00:01,917\nA storm knocked twenty-eight thousand eight\n\n2\n00:00:01,917 --> 00:00:03,881\nhundred bath toys off a ship and\n\n3\n00:00:03,881 --> 00:00:05,250\nthey ended up teaching you how the\n\n4\n00:00:05,250 --> 00:00:07,857\nocean moves Here's how they became a\n\n5\n00:00:07,857 --> 00:00:12,274\nscience experiment It's January nineteen ninety-two\n\n6\n00:00:12,274 --> 00:00:14,071\nA cargo ship from Hong Kong hits\n\n7\n00:00:14,071 --> 00:00:16,655\na storm in the North Pacific Containers\n\n8\n00:00:16,655 --> 00:00:18,988\ntumble into the sea and one is\n\n9\n00:00:18,988 --> 00:00:22,036\nfull of plastic toys Yellow ducks blue\n\n10\n00:00:22,036 --> 00:00:24,988\nturtles red beavers and green frogs The\n\n11\n00:00:24,988 --> 00:00:27,440\nbox breaks and they float away Ten\n\n12\n00:00:27,440 --> 00:00:29,440\nmonths later the first ones wash up\n\n13\n00:00:29,440 --> 00:00:32,548\nin Alaska Ocean scientist Curtis Ebbesmeyer\n\n14\n00:00:32,548 --> 00:00:35,560\ngets curious He asks beachcombers to report\n\n15\n00:00:35,560 --> 00:00:38,095\nevery toy Each sighting shows where the\n\n16\n00:00:38,095 --> 00:00:40,655\ncurrents carried them Some circled the North\n\n17\n00:00:40,655 --> 00:00:42,833\nPacific in a giant loop of current\n\n18\n00:00:42,833 --> 00:00:44,369\nand some may have drifted into the\n\n19\n00:00:44,369 --> 00:00:46,572\nArctic ice So a lost box of\n\n20\n00:00:46,572 --> 00:00:48,489\nbath toys helped map how the ocean\n\n21\n00:00:48,489 --> 00:00:51,131\nmoves Found one on the beach What\n\n22\n00:00:51,131 --> 00:00:53,548\nwould you name it Tell me below\n\n23\n00:00:53,548 --> 00:00:55,810\nBecause a storm knocked twenty-eight thousand\n\n24\n00:00:55,810 --> 00:00:58,031\neight hundred bath toys off a ship\n",
+      "tg_msg": 236,
+      "opts_msg": 238
+    },
+    "2026-10-09-4": {
+      "topic": {
+        "title": "3 School Facts That Are Actually False",
+        "angle": "'Wrong Knowledge you Got from School' is a recurring breakout theme in today's feed, and quiz countdowns make viewers stay to check their answer and post their score.",
+        "format": "quiz",
+        "tone": "normal",
+        "virality_score": 8,
+        "trend_source": "Wrong Knowledge you Got for School - Part 1; Si dices el mismo jugador\u2026 PIERDES! (2.3x, game/quiz format)",
+        "plan_id": "P2026-10-09-04"
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-09T22:17:31.564112+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "common myths debunked",
+        "title": "3 School Facts That Are Actually False",
+        "hook_text": "Quick quiz",
+        "thumbnail_text": "REAL OR MYTH?",
+        "description": "Common myths debunked in a quick true-or-false quiz: the goldfish 3-second memory, seeing the Great Wall of China from space, and bulls hating red. How many did you get right?\n\nIn this Short: three school 'facts', a 3-second countdown for each, and what the science actually says.\n\nSources:\nhttps://www.livescience.com/goldfish-memory.html\nhttps://www.skyatnightmagazine.com/space-science/can-you-see-great-wall-china-from-space\nhttps://wonderopolis.org/wonder/do-bulls-hate-the-color-red",
+        "hashtags": [
+          "#shorts",
+          "#quiz",
+          "#trueorfalse",
+          "#myths"
+        ],
+        "tags": [
+          "common myths debunked",
+          "great wall of china visible from space",
+          "great wall of china seen from space",
+          "common myths",
+          "do bulls hate red",
+          "true or false quiz",
+          "do bulls really hate red",
+          "goldfish 3 second memory",
+          "goldfish 3 second memory myth",
+          "true or false quizzes",
+          "myths you learned in school",
+          "common misconceptions",
+          "science myths",
+          "facts that are wrong",
+          "can you pass this quiz"
+        ],
+        "pinned_comment": "Bonus: astronauts say that from orbit, city lights and big highways are far easier to spot than the Great Wall. Which of these myths fooled you the longest?",
+        "scenes": [
+          {
+            "text": "Three facts you probably still believe, and you have three seconds to guess which are false. Say true or false out loud before the timer runs out.",
+            "badge": "Intro",
+            "label": "3 School Facts",
+            "stock_queries": [
+              "student raising hand in a classroom",
+              "countdown timer graphic"
+            ],
+            "image_prompt": "A modern classroom with a student raising their hand, bright cinematic lighting, 4k resolution",
+            "stock_query": "student raising hand in a classroom"
+          },
+          {
+            "text": "Fact one: goldfish only remember things for three seconds. Three, two, one.",
+            "badge": "Q1",
+            "label": "Goldfish Memory",
+            "stock_queries": [
+              "goldfish swimming in a bowl",
+              "countdown timer"
+            ],
+            "image_prompt": "A close-up shot of an orange goldfish swimming in a clean glass bowl with green plants",
+            "stock_query": "goldfish swimming in a bowl"
+          },
+          {
+            "text": "False! Scientists have trained goldfish to respond to sounds and remember them for months.",
+            "badge": "\u2713",
+            "label": "False: Months!",
+            "stock_queries": [
+              "goldfish swimming toward a person hand",
+              "goldfish in fishbowl"
+            ],
+            "image_prompt": "A goldfish swimming near the edge of a glass bowl, macro photography, vivid orange color",
+            "stock_query": "goldfish swimming toward a person hand"
+          },
+          {
+            "text": "Fact two: you can see the Great Wall of China from space with your bare eyes. Three, two, one.",
+            "badge": "Q2",
+            "label": "Great Wall From Space",
+            "stock_queries": [
+              "great wall of china winding over hills",
+              "countdown timer"
+            ],
+            "image_prompt": "An aerial view of the Great Wall of China winding across green mountain ridges at sunset",
+            "stock_query": "great wall of china winding over hills"
+          },
+          {
+            "text": "False again! From orbit it's very hard to spot, because it's narrow and the same color as the land around it.",
+            "badge": "\u2713",
+            "label": "False: Too Narrow",
+            "stock_queries": [
+              "earth seen from space at night",
+              "satellite view of earth"
+            ],
+            "image_prompt": "Planet Earth viewed from space showing continents and atmosphere, cinematic style",
+            "stock_query": "earth seen from space at night"
+          },
+          {
+            "text": "Fact three: bulls get angry when they see the color red. Three, two, one.",
+            "badge": "Q3",
+            "label": "Bulls Hate Red",
+            "stock_queries": [
+              "bull standing in a field",
+              "countdown timer"
+            ],
+            "image_prompt": "A strong black bull standing in a green grassy field, natural daylight",
+            "stock_query": "bull standing in a field"
+          },
+          {
+            "text": "Also false! Bulls can't see red the way you do. It's the cape's movement that gets their attention.",
+            "badge": "\u2713",
+            "label": "False: Movement",
+            "stock_queries": [
+              "cattle walking and moving in a field",
+              "bull in a pasture"
+            ],
+            "image_prompt": "Close-up of a bull looking directly at the camera in a sunny pasture",
+            "stock_query": "cattle walking and moving in a field"
+          },
+          {
+            "text": "So the answer: all three are false. How many did you get right? Zero, one, two or three? Be honest in the comments. Here's another round: three facts you probably still believe\u2026",
+            "badge": "Score",
+            "label": "What's Your Score?",
+            "stock_queries": [
+              "person counting on fingers",
+              "student raising hand in a classroom"
+            ],
+            "image_prompt": "A person holding up fingers to count, clean studio background, bright lighting",
+            "stock_query": "person counting on fingers"
+          }
+        ],
+        "key_facts": [
+          "Goldfish can remember things for months, not just three seconds.",
+          "The Great Wall of China is very difficult to see from space with the naked eye because it is narrow and blends with the landscape.",
+          "Bulls cannot see red the way humans do; they react to the movement of the cape rather than its color."
+        ],
+        "format": "quiz",
+        "tone": "normal",
+        "category": "24",
+        "script": "Three facts you probably still believe, and you have three seconds to guess which are false. Say true or false out loud before the timer runs out. Fact one: goldfish only remember things for three seconds. Three, two, one. False! Scientists have trained goldfish to respond to sounds and remember them for months. Fact two: you can see the Great Wall of China from space with your bare eyes. Three, two, one. False again! From orbit it's very hard to spot, because it's narrow and the same color as the land around it. Fact three: bulls get angry when they see the color red. Three, two, one. Also false! Bulls can't see red the way you do. It's the cape's movement that gets their attention. So the answer: all three are false. How many did you get right? Zero, one, two or three? Be honest in the comments. Here's another round: three facts you probably still believe\u2026",
+        "plan_id": "P2026-10-09-04",
+        "shot_plan": [
+          {
+            "subject": "classroom quiz countdown timer",
+            "queries": [
+              {
+                "q": "countdown timer",
+                "must": [
+                  "timer"
+                ]
+              },
+              {
+                "q": "quiz show clock",
+                "must": [
+                  "clock"
+                ]
+              },
+              {
+                "q": "digital timer",
+                "must": [
+                  "digital"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "goldfish swimming in a bowl",
+            "queries": [
+              {
+                "q": "goldfish swimming",
+                "must": [
+                  "goldfish"
+                ]
+              },
+              {
+                "q": "fish bowl",
+                "must": [
+                  "fish"
+                ]
+              },
+              {
+                "q": "aquarium tank",
+                "must": [
+                  "aquarium"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "goldfish in tank close up",
+            "queries": [
+              {
+                "q": "goldfish close up",
+                "must": [
+                  "goldfish"
+                ]
+              },
+              {
+                "q": "swimming fish",
+                "must": [
+                  "fish"
+                ]
+              },
+              {
+                "q": "fish tank",
+                "must": [
+                  "tank"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "Great Wall of China aerial view",
+            "queries": [
+              {
+                "q": "Great Wall of China",
+                "must": [
+                  "wall"
+                ]
+              },
+              {
+                "q": "china wall aerial",
+                "must": [
+                  "china"
+                ]
+              },
+              {
+                "q": "ancient wall landscape",
+                "must": [
+                  "landscape"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "earth from space satellite view",
+            "queries": [
+              {
+                "q": "earth from space",
+                "must": [
+                  "earth"
+                ]
+              },
+              {
+                "q": "satellite view",
+                "must": [
+                  "satellite"
+                ]
+              },
+              {
+                "q": "orbit view planet",
+                "must": [
+                  "orbit"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "bull in a field",
+            "queries": [
+              {
+                "q": "bull in field",
+                "must": [
+                  "bull"
+                ]
+              },
+              {
+                "q": "charging bull",
+                "must": [
+                  "animal"
+                ]
+              },
+              {
+                "q": "farm bull",
+                "must": [
+                  "farm"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "matador waving red cape",
+            "queries": [
+              {
+                "q": "matador red cape",
+                "must": [
+                  "matador"
+                ]
+              },
+              {
+                "q": "bullfight cape",
+                "must": [
+                  "cape"
+                ]
+              },
+              {
+                "q": "bull arena",
+                "must": [
+                  "arena"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "question mark on chalkboard",
+            "queries": [
+              {
+                "q": "question mark chalkboard",
+                "must": [
+                  "chalkboard"
+                ]
+              },
+              {
+                "q": "school blackboard",
+                "must": [
+                  "blackboard"
+                ]
+              },
+              {
+                "q": "quiz question mark",
+                "must": [
+                  "question"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "school classroom",
+          "student desk",
+          "textbook pages"
+        ],
+        "visual_style": "Fast-paced trivia countdowns featuring bold on-screen labels, countdown timers, and direct close-up stock footage of everyday subjects to test common misconceptions.",
+        "visual_refs": [
+          "7 School Facts That Are 100% FAKE \ud83d\ude31 Part 24",
+          "7 School Facts That Are 100% FAKE \ud83d\ude31 Part 25",
+          "10 &#39;Facts&#39; That Are Totally Made Up",
+          "7 School Facts That Are 100% FAKE \ud83d\ude31 Part 23",
+          "Could You Survive Without Bones? \ud83e\udd2f",
+          "5 Facts That Sound Fake But Are True #Shorts"
+        ],
+        "voice": "en-US-EmmaMultilingualNeural",
+        "visual_report": {
+          "shots": 19,
+          "checked": 19,
+          "unchecked": 0,
+          "filler": 0
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-EmmaMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): McZerrill (Pixabay) https://pixabay.com/videos/id-6713/; olenchic (Pixabay) https://pixabay.com/videos/id-170063/; PIRO4D (Pixabay) https://pixabay.com/videos/id-7374/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-330530/; Herekitty (Pixabay) https://pixabay.com/videos/id-302500/; yuvi7078 (Pixabay) https://pixabay.com/videos/id-227756/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-10861/; D-GM (Pixabay) https://pixabay.com/videos/id-199127/; TungArt7 (Pixabay) https://pixabay.com/videos/id-267748/; flutie8211 (Pixabay) https://pixabay.com/videos/id-361360/; ScienceStuff (Pixabay) https://pixabay.com/videos/id-372471/; Nerd_Nonsense (Pixabay) https://pixabay.com/videos/id-201404/; vkhima (Pixabay) https://pixabay.com/videos/id-24072/; brigachtal (Pixabay) https://pixabay.com/videos/id-3355/; JOHN_EGO (Pixabay) https://pixabay.com/videos/id-80623/; memyselfaneye (Pixabay) https://pixabay.com/photos/torero-bullfighter-arena-bullfight-389344/; geralt (Pixabay) https://pixabay.com/photos/school-board-empty-slate-916678/; congerdesign (Pixabay) https://pixabay.com/photos/school-old-wood-slate-teaching-543041/; Fotorech (Pixabay) https://pixabay.com/photos/blackboard-school-frame-green-2640979/"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-09",
+        "name": "2026-10-09-4-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-09",
+        "name": "2026-10-09-4-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,091 --> 00:00:02,552\nThree facts you probably still believe and\n\n2\n00:00:02,552 --> 00:00:04,362\nyou have three seconds to guess which\n\n3\n00:00:04,362 --> 00:00:06,940\nare false Say true or false out\n\n4\n00:00:06,940 --> 00:00:09,557\nloud before the timer runs out Fact\n\n5\n00:00:09,557 --> 00:00:12,643\none goldfish only remember things for three\n\n6\n00:00:12,643 --> 00:00:16,888\nseconds Three two one False Scientists have\n\n7\n00:00:16,888 --> 00:00:19,310\ntrained goldfish to respond to sounds and\n\n8\n00:00:19,310 --> 00:00:22,513\nremember them for months Fact two you\n\n9\n00:00:22,513 --> 00:00:24,154\ncan see the Great Wall of China\n\n10\n00:00:24,154 --> 00:00:26,549\nfrom space with your bare eyes Three\n\n11\n00:00:26,549 --> 00:00:29,583\ntwo one False again From orbit it's\n\n12\n00:00:29,583 --> 00:00:32,044\nvery hard to spot because it's narrow\n\n13\n00:00:32,044 --> 00:00:33,607\nand the same color as the land\n\n14\n00:00:33,607 --> 00:00:36,797\naround it Fact three bulls get angry\n\n15\n00:00:36,797 --> 00:00:38,828\nwhen they see the color red Three\n\n16\n00:00:38,828 --> 00:00:42,044\ntwo one Also false Bulls can't see\n\n17\n00:00:42,044 --> 00:00:43,854\nred the way you do It's the\n\n18\n00:00:43,854 --> 00:00:46,719\ncape's movement that gets their attention So\n\n19\n00:00:46,719 --> 00:00:49,557\nthe answer all three are false How\n\n20\n00:00:49,557 --> 00:00:51,888\nmany did you get right Zero one\n\n21\n00:00:51,888 --> 00:00:53,893\ntwo or three Be honest in the\n\n22\n00:00:53,893 --> 00:00:57,331\ncomments Here's another round three facts you\n\n23\n00:00:57,331 --> 00:00:59,085\nprobably still believe\n",
+      "tg_msg": 239,
+      "opts_msg": 241
     }
   },
   "history": [
@@ -5970,7 +7078,10 @@
     "3 Smartphone Hacks You\u2019ve Been Ignoring",
     "Top 5 Inventions That Are Borderline Useless",
     "How Modern Bridges Handle Extreme Weather",
-    "The Mystery of the Vanishing Forest Path"
+    "The Mystery of the Vanishing Forest Path",
+    "Top 5 Weirdest Ways Animals Sleep \ud83d\ude34",
+    "The Great Rubber Duck Escape of 1992 \ud83e\udd86",
+    "3 School Facts That Are Actually False"
   ],
   "trend_tries": {
     "2026-10-07": {
@@ -5988,14 +7099,14 @@
   },
   "cleanup_day": "2026-10-09",
   "recent_voices": [
-    "en-US-AndrewMultilingualNeural",
-    "en-US-AvaMultilingualNeural",
-    "en-AU-WilliamMultilingualNeural",
     "en-US-BrianMultilingualNeural",
-    "en-US-AvaMultilingualNeural"
+    "en-US-AvaMultilingualNeural",
+    "en-US-AndrewMultilingualNeural",
+    "en-US-BrianMultilingualNeural",
+    "en-US-EmmaMultilingualNeural"
   ],
   "visual_searches": {
-    "2026-10-09": 1
+    "2026-10-09": 4
   },
   "signals_day": "2026-10-09"
 }

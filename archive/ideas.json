@@ -428,44 +428,44 @@
    {
     "angle": "Animal-facts rankings stay evergreen and the funny-reaction outliers today (snake scare short at 166x its channel median) show light, surprising animal moments travel; a countdown with a 12-second-nap payoff keeps people to the end.",
     "format": "ranking",
-    "picked": false,
+    "picked": true,
     "rank": 1,
     "title": "Top 5 Weirdest Ways Animals Sleep 😴",
     "trend_source": "She Wasn't Scared… Until She Saw the SNAKE (166x median); Things thrown into a Volcano (list format)",
-    "video_id": null,
+    "video_id": "2026-10-09-1",
     "virality_score": 7,
     "why": ""
    },
    {
     "angle": "Today's top breakouts are light comedy (166x and 55x their channel medians), and a funny Top 5 with real, verifiable punchlines gives that laugh with a comment-bait payoff ('which address would you pick').",
     "format": "funny",
-    "picked": false,
+    "picked": true,
     "rank": 2,
     "title": "5 Funny Town Names With Wild Backstories",
     "trend_source": "She Wasn't Scared… Until She Saw the SNAKE (166x); She's STILL Dancing Macarena (55.5x); The List formula",
-    "video_id": null,
+    "video_id": "2026-10-09-2",
     "virality_score": 8,
     "why": ""
    },
    {
     "angle": "Question-led 'how did this happen' Shorts are breaking out today (How Was This Scene Actually Shot? at 41x median), and this true, kid-safe story answers a big curiosity gap with a single playful image.",
     "format": "story",
-    "picked": false,
+    "picked": true,
     "rank": 3,
     "title": "The Great Rubber Duck Escape of 1992 🦆",
     "trend_source": "How Was This Koyla Scene Actually Shot? (41.2x, The Question); Bid for Island Survival",
-    "video_id": null,
+    "video_id": "2026-10-09-3",
     "virality_score": 8,
     "why": ""
    },
    {
     "angle": "'Wrong Knowledge you Got from School' is a recurring breakout theme in today's feed, and quiz countdowns make viewers stay to check their answer and post their score.",
     "format": "quiz",
-    "picked": false,
+    "picked": true,
     "rank": 4,
     "title": "3 School Facts That Are Actually False",
     "trend_source": "Wrong Knowledge you Got for School - Part 1; Si dices el mismo jugador… PIERDES! (2.3x, game/quiz format)",
-    "video_id": null,
+    "video_id": "2026-10-09-4",
     "virality_score": 8,
     "why": ""
    },
@@ -493,6 +493,6 @@
    }
   ],
   "sent_at": "2026-10-09T14:52:29.922247+00:00",
-  "status": "waiting"
+  "status": "closed"
  }
 }
