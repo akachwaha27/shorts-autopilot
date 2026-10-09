@@ -3,10 +3,10 @@
 Keeps a folder on your PC up to date with everything the bot makes:
 
   <your folder>/
-    Videos/                     every published video, named "<date> - <title>.mp4"
+    Videos/                     every published video, named "ZorblyAI - <date> - <title>.mp4"
     Thumbnails/                 the matching thumbnails
-    Shorts Library.xlsx         sheets: Content Plan, Videos, Daily Top 5 Ideas, Comments, Daily Totals
-    Dashboard.html              open in your browser to monitor everything
+    ZorblyAI Shorts Library.xlsx  sheets: Content Plan, Videos, Daily Top 5 Ideas, Comments, Daily Totals
+    ZorblyAI Dashboard.html     open in your browser to monitor everything
     _app/                       this script, its settings and a log
 
 First time (once):   python sync_library.py --setup
@@ -28,6 +28,29 @@ import time
 
 REPO_DEFAULT = "akachwaha27/shorts-autopilot"
 TASK_NAME = "Shorts Autopilot Sync"
+PREFIX = "ZorblyAI"                         # every file made for the channel starts with this
+XLSX = f"{PREFIX} Shorts Library.xlsx"
+DASH = f"{PREFIX} Dashboard.html"
+# files created earlier without the prefix: renamed on the next sync (paths relative to K:\Youtube Automation)
+ROOT_RENAMES = [
+    ("Guides & Diagrams/Architecture diagram.png", "Guides & Diagrams/ZorblyAI Architecture diagram.png"),
+    ("Guides & Diagrams/User flow diagram.png", "Guides & Diagrams/ZorblyAI User flow diagram.png"),
+    ("Guides & Diagrams/Bot code on GitHub.url", "Guides & Diagrams/ZorblyAI Bot code on GitHub.url"),
+    ("Guides & Diagrams/Cross-posting & Monetization Setup.url", "Guides & Diagrams/ZorblyAI Cross-posting & Monetization Setup.url"),
+    ("Setup Tools/get_youtube_token.py", "Setup Tools/ZorblyAI_get_youtube_token.py"),
+    ("Setup Tools/get_meta_token.py", "Setup Tools/ZorblyAI_get_meta_token.py"),
+    ("Setup Tools/get_tiktok_token.py", "Setup Tools/ZorblyAI_get_tiktok_token.py"),
+    ("YouTube API Audit/Evidence checklist.txt", "YouTube API Audit/ZorblyAI Evidence checklist.txt"),
+    ("YouTube API Audit/Privacy Policy (printed).pdf", "YouTube API Audit/ZorblyAI Privacy Policy (printed).pdf"),
+    ("YouTube API Audit/Privacy page screenshot.png", "YouTube API Audit/ZorblyAI Privacy page screenshot.png"),
+    ("YouTube API Audit/Terms page screenshot.png", "YouTube API Audit/ZorblyAI Terms page screenshot.png"),
+    ("YouTube API Audit/Project 1 - Conditional Evidence.pdf", "YouTube API Audit/ZorblyAI Project 1 - Conditional Evidence.pdf"),
+] + [(f"YouTube API Audit/Evidence pages/evidence-0{i}.png", f"YouTube API Audit/Evidence pages/ZorblyAI evidence-0{i}.png")
+     for i in range(1, 9)]
+# old launchers, removed once their ZorblyAI-named replacements exist
+REPLACED = [("Open Dashboard.bat", "ZorblyAI Open Dashboard.bat"),
+            ("Turn on daily auto-update.bat", "ZorblyAI Turn on daily auto-update.bat"),
+            ("README - Start here.txt", "ZorblyAI README - Start here.txt")]
 HERE = os.path.dirname(os.path.abspath(__file__))
 CONFIG_FILE = os.path.join(HERE, "sync_config.json")
 DEPS = {"requests": "requests", "openpyxl": "openpyxl"}
@@ -78,7 +101,7 @@ def setup():
         print("Not on Windows: schedule this yourself, e.g. cron:", f"{sys.executable} {target}")
     print("\nRunning the first sync...")
     subprocess.call([sys.executable, target])
-    dash = os.path.join(folder, "Dashboard.html")
+    dash = os.path.join(folder, DASH)
     if os.path.exists(dash) and os.name == "nt":  # a browser, even if .html opens in Notepad
         if subprocess.call(f'start "" chrome "{dash}"', shell=True) and \
                 subprocess.call(f'start "" msedge "{dash}"', shell=True):
@@ -189,12 +212,38 @@ def to_local(iso):
         return None
 
 
+def migrate_names(folder):
+    """Give files made before the naming rule the ZorblyAI prefix (rename only; never overwrites)."""
+    moves = [(os.path.join(folder, "Shorts Library.xlsx"), os.path.join(folder, XLSX)),
+             (os.path.join(folder, "Dashboard.html"), os.path.join(folder, DASH))]
+    root = os.path.dirname(folder) if os.path.basename(folder.rstrip("\\/")).lower() == "library" else None
+    if root:
+        moves += [(os.path.join(root, *a.split("/")), os.path.join(root, *b.split("/"))) for a, b in ROOT_RENAMES]
+    for old, new in moves:
+        try:
+            if os.path.exists(old) and not os.path.exists(new):
+                os.replace(old, new)
+                log(folder, f"renamed {os.path.basename(old)} -> {os.path.basename(new)}")
+        except OSError as e:
+            log(folder, f"could not rename {old}: {e}")
+    if root:
+        for old, new in REPLACED:
+            o, n = os.path.join(root, old), os.path.join(root, new)
+            try:
+                if os.path.exists(o) and os.path.exists(n):
+                    os.remove(o)
+                    log(folder, f"removed old {old} (replaced by {new})")
+            except OSError as e:
+                log(folder, f"could not remove {old}: {e}")
+
+
 def run_sync():
     cfg = load_config()
     folder = cfg.get("folder")
     if not folder:
         raise SystemExit("Not set up yet. Run:  python sync_library.py --setup")
     repo = cfg.get("repo", REPO_DEFAULT)
+    migrate_names(folder)
     ensure_deps()
     import requests
     s = requests.Session()
@@ -221,19 +270,20 @@ def run_sync():
         index = {}
     got, used = 0, set()
     for vid, v in sorted(videos.items()):
-        base = f"{v.get('date', vid[:10])} - {safe_name(v.get('title'))}"
+        base = f"{PREFIX} - {v.get('date', vid[:10])} - {safe_name(v.get('title'))}"
         n = 2
         while base.lower() in used:  # same title twice on one day
-            base = f"{v.get('date', vid[:10])} - {safe_name(v.get('title'))} ({n})"
+            base = f"{PREFIX} - {v.get('date', vid[:10])} - {safe_name(v.get('title'))} ({n})"
             n += 1
         used.add(base.lower())
         v["_video_file"] = v["_thumb_file"] = ""
         for key, d, ext, field in (("file", vdir, ".mp4", "_video_file"), ("thumb", tdir, ".jpg", "_thumb_file")):
             ref = v.get(key) or {}
             dest = os.path.join(d, base + ext)
-            olds = [index.get(f"{vid}{ext}")]
+            olds = [index.get(f"{vid}{ext}"), os.path.join(d, base[len(PREFIX) + 3:] + ext)]  # + pre-prefix name
             if v.get("original_title"):
                 olds.append(os.path.join(d, f"{v.get('date', vid[:10])} - {safe_name(v['original_title'])}{ext}"))
+                olds.append(os.path.join(d, f"{PREFIX} - {v.get('date', vid[:10])} - {safe_name(v['original_title'])}{ext}"))
             for prev in olds:
                 if prev and prev != dest and os.path.exists(prev) and not os.path.exists(dest):
                     os.replace(prev, dest)  # title changed in Studio: rename your copy to match
@@ -406,7 +456,7 @@ def write_excel(folder, videos, ideas, totals, content_plan=()):
     ], prows)
     wb.active = 0
 
-    out = os.path.join(folder, "Shorts Library.xlsx")
+    out = os.path.join(folder, XLSX)
     fd, tmp = tempfile.mkstemp(suffix=".xlsx", dir=folder)
     os.close(fd)
     wb.save(tmp)
@@ -416,7 +466,7 @@ def write_excel(folder, videos, ideas, totals, content_plan=()):
             return out
         except PermissionError:  # open in Excel
             time.sleep(5)
-    alt = os.path.join(folder, "Shorts Library (latest - close Excel to update the main file).xlsx")
+    alt = os.path.join(folder, f"{PREFIX} Shorts Library (latest - close Excel to update the main file).xlsx")
     try:
         os.replace(tmp, alt)
     except PermissionError:
@@ -441,10 +491,10 @@ def write_dashboard(folder, videos, ideas, totals, runs, repo):
             "stats_checked": totals.get("_last_run")}
     blob = json.dumps(data, ensure_ascii=False).replace("</", "<\\/")
     page = DASHBOARD.replace("__DATA__", blob).replace("__REPO__", html.escape(repo))
-    tmp = os.path.join(folder, "Dashboard.html.tmp")
+    tmp = os.path.join(folder, DASH + ".tmp")
     with open(tmp, "w", encoding="utf-8") as f:
         f.write(page)
-    os.replace(tmp, os.path.join(folder, "Dashboard.html"))
+    os.replace(tmp, os.path.join(folder, DASH))
 
 
 DASHBOARD = r"""<!doctype html>
