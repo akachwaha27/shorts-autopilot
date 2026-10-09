@@ -216,7 +216,7 @@ Return JSON:
   "stock_queries": ["...", "..."], "image_prompt": "..."}}], "key_facts": ["..."]}}"""
     pkg = llm.ask_json(prompt, temperature=0.3)
     if row.get("opening_text"):
-        pkg["hook_text"] = "".join(c for c in row["opening_text"] if ord(c) <= 0x2FFF).strip()  # no emoji in rendered text
+        pkg["hook_text"] = "".join(c for c in row["opening_text"] if ord(c) < 0x2100).strip()  # no emoji in rendered text
     pkg["format"] = fmt
     pkg["tone"] = "funny" if funny else "normal"
     pkg["category"] = info["category"] if fmt == "clips" else "23" if funny else info["category"]
