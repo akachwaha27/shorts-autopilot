@@ -197,7 +197,7 @@ def pick_topics(signals, history):
     past = past_ideas(history)
     past_keys = [_key(t) for t in past]
     topics, rejected = [], []
-    for attempt in range(3):  # later passes ask for replacements for any repeats
+    for attempt in range(4):  # later passes ask for replacements for any repeats
         need = config.TOPICS_PER_DAY - len(topics)
         fresh = _ask_topics(signals, past + [t["title"] for t in topics] + rejected, need if attempt else None)
         word_ok = []
