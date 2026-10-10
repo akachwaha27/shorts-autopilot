@@ -567,5 +567,78 @@
   ],
   "sent_at": "2026-10-10T18:14:05.775959+00:00",
   "status": "waiting"
+ },
+ "2026-10-10-2": {
+  "date": "2026-10-10-2",
+  "ideas": [
+   {
+    "angle": "The Question formula drives today's biggest explainer-style outlier (How Was This Scene Actually Shot? at 41.2x), and a 'how was this actually done' puzzle with a flip answer matches the setup-then-reveal shape shared by the top five.",
+    "format": "explainer",
+    "picked": false,
+    "rank": 1,
+    "title": "How They Put Ships in Bottles Since 1784",
+    "trend_source": "How Was This Koyla Scene Actually Shot? (41.2x, The Question)",
+    "video_id": null,
+    "virality_score": 8,
+    "why": ""
+   },
+   {
+    "angle": "Light, family-friendly comedy dominates today's outliers (166.2x and 55.5x their channel medians), and a funny Top 5 with a 'judgy fish' payoff keeps that tone in our faceless style.",
+    "format": "funny",
+    "picked": false,
+    "rank": 2,
+    "title": "Top 5 Funniest Real Animal Names 😂",
+    "trend_source": "She Wasn't Scared... Until She Saw the SNAKE (166.2x); She's STILL Dancing Macarena (55.5x)",
+    "video_id": null,
+    "virality_score": 8,
+    "why": ""
+   },
+   {
+    "angle": "Countdowns with a twist ending fit the setup-then-reveal shape shared by today's top outliers (166.2x, 55.5x, 41.2x), and the 'try to say it' challenge invites comments and rewatches.",
+    "format": "ranking",
+    "picked": false,
+    "rank": 3,
+    "title": "Top 5 Longest Words in English",
+    "trend_source": "She Wasn't Scared... Until She Saw the SNAKE (166.2x); She's STILL Dancing Macarena (55.5x); How Was This Koyla Scene Actually Shot? (41.2x, The Question)",
+    "video_id": null,
+    "virality_score": 7,
+    "why": ""
+   },
+   {
+    "angle": "'Wrong knowledge you got from school' is a recurring breakout theme in today's feed, and a 3-second guess-then-reveal quiz uses the same setup-then-flip shape as the top outliers.",
+    "format": "quiz",
+    "picked": false,
+    "rank": 4,
+    "title": "Is a Banana a Berry? 3-Second Quiz",
+    "trend_source": "Wrong Knowledge you Got for School - Part 1; She Wasn't Scared... Until She Saw the SNAKE (166.2x); She's STILL Dancing Macarena (55.5x)",
+    "video_id": null,
+    "virality_score": 7,
+    "why": ""
+   },
+   {
+    "angle": "The surprise 'until' flip in today's top outlier (166.2x) maps onto a true story where a mistake becomes a treat everyone knows.",
+    "format": "story",
+    "picked": false,
+    "rank": 5,
+    "title": "How an 11-Year-Old Invented the Popsicle",
+    "trend_source": "She Wasn't Scared... Until She Saw the SNAKE (166.2x); She's STILL Dancing Macarena (55.5x)",
+    "video_id": null,
+    "virality_score": 7,
+    "why": ""
+   },
+   {
+    "angle": "Practical how-to Shorts get saved and shared, and a 'you don't need muscles' reveal gives the tips the same expectation-then-flip shape as today's top outliers.",
+    "format": "tips",
+    "picked": false,
+    "rank": 6,
+    "title": "3 Tricks to Open a Stuck Jar Lid",
+    "trend_source": "She Wasn't Scared... Until She Saw the SNAKE (166.2x); She's STILL Dancing Macarena (55.5x)",
+    "video_id": null,
+    "virality_score": 6,
+    "why": ""
+   }
+  ],
+  "sent_at": "2026-10-10T18:37:57.460850+00:00",
+  "status": "waiting"
  }
 }

@@ -1,45 +1,6 @@
 {
   "tg_offset": 40455537,
   "batches": {
-    "2026-10-04": {
-      "topics": [
-        {
-          "title": "Top 5 Places on Earth Where GPS Simply Fails",
-          "angle": "Counting down the most fascinating geographical anomalies where compasses spin and navigation tools completely break down.",
-          "format": "ranking",
-          "trend_source": "Google Trends (general tech/exploration curiosity)",
-          "virality_score": 9,
-          "why": "High completion rate due to countdown structure, strong visual curiosity, and a surprising payoff for each location."
-        },
-        {
-          "title": "Top 5 Everyday Tech Hacks You Will Use Today",
-          "angle": "A fast-paced countdown of obscure smartphone and computer settings that secretly make your devices 10x faster.",
-          "format": "ranking",
-          "trend_source": "Google Trends (tech interest)",
-          "virality_score": 9,
-          "why": "Drives massive saves and shares, which are core ranking signals for the YouTube Shorts algorithm."
-        },
-        {
-          "title": "Why Modern Coffee Cups Are Secretly Genius Engineering",
-          "angle": "Explaining the hidden physics and design history behind everyday takeaway coffee lids that prevent spills.",
-          "format": "explainer",
-          "trend_source": "YouTube Trending (curiosity & design breakdowns)",
-          "virality_score": 8,
-          "why": "Transforms a mundane everyday object into a fascinating 'mind-blown' moment, holding attention right through to the end."
-        },
-        {
-          "title": "3 Smartphone Camera Tricks You Didn't Know Existed",
-          "angle": "Quick, highly visual demonstrations of hidden professional photography modes built into standard phone cameras.",
-          "format": "tips",
-          "trend_source": "Evergreen tech utility",
-          "virality_score": 7,
-          "why": "Delivers immediate practical value, encouraging users to double-tap, save for later, and share with friends."
-        }
-      ],
-      "sent_at": "2026-10-04T17:05:12.979554+00:00",
-      "selected": [],
-      "status": "closed"
-    },
     "2026-10-05": {
       "topics": [
         {
@@ -401,6 +362,67 @@
         }
       ],
       "sent_at": "2026-10-10T18:14:05.775959+00:00",
+      "selected": [],
+      "status": "waiting"
+    },
+    "2026-10-10-2": {
+      "topics": [
+        {
+          "title": "How They Put Ships in Bottles Since 1784",
+          "angle": "The Question formula drives today's biggest explainer-style outlier (How Was This Scene Actually Shot? at 41.2x), and a 'how was this actually done' puzzle with a flip answer matches the setup-then-reveal shape shared by the top five.",
+          "format": "explainer",
+          "tone": "normal",
+          "virality_score": 8,
+          "trend_source": "How Was This Koyla Scene Actually Shot? (41.2x, The Question)",
+          "plan_id": "P2026-10-10-01"
+        },
+        {
+          "title": "Top 5 Funniest Real Animal Names \ud83d\ude02",
+          "angle": "Light, family-friendly comedy dominates today's outliers (166.2x and 55.5x their channel medians), and a funny Top 5 with a 'judgy fish' payoff keeps that tone in our faceless style.",
+          "format": "funny",
+          "tone": "funny",
+          "virality_score": 8,
+          "trend_source": "She Wasn't Scared... Until She Saw the SNAKE (166.2x); She's STILL Dancing Macarena (55.5x)",
+          "plan_id": "P2026-10-10-02"
+        },
+        {
+          "title": "Top 5 Longest Words in English",
+          "angle": "Countdowns with a twist ending fit the setup-then-reveal shape shared by today's top outliers (166.2x, 55.5x, 41.2x), and the 'try to say it' challenge invites comments and rewatches.",
+          "format": "ranking",
+          "tone": "normal",
+          "virality_score": 7,
+          "trend_source": "She Wasn't Scared... Until She Saw the SNAKE (166.2x); She's STILL Dancing Macarena (55.5x); How Was This Koyla Scene Actually Shot? (41.2x, The Question)",
+          "plan_id": "P2026-10-10-03"
+        },
+        {
+          "title": "Is a Banana a Berry? 3-Second Quiz",
+          "angle": "'Wrong knowledge you got from school' is a recurring breakout theme in today's feed, and a 3-second guess-then-reveal quiz uses the same setup-then-flip shape as the top outliers.",
+          "format": "quiz",
+          "tone": "normal",
+          "virality_score": 7,
+          "trend_source": "Wrong Knowledge you Got for School - Part 1; She Wasn't Scared... Until She Saw the SNAKE (166.2x); She's STILL Dancing Macarena (55.5x)",
+          "plan_id": "P2026-10-10-04"
+        },
+        {
+          "title": "How an 11-Year-Old Invented the Popsicle",
+          "angle": "The surprise 'until' flip in today's top outlier (166.2x) maps onto a true story where a mistake becomes a treat everyone knows.",
+          "format": "story",
+          "tone": "normal",
+          "virality_score": 7,
+          "trend_source": "She Wasn't Scared... Until She Saw the SNAKE (166.2x); She's STILL Dancing Macarena (55.5x)",
+          "plan_id": "P2026-10-10-05"
+        },
+        {
+          "title": "3 Tricks to Open a Stuck Jar Lid",
+          "angle": "Practical how-to Shorts get saved and shared, and a 'you don't need muscles' reveal gives the tips the same expectation-then-flip shape as today's top outliers.",
+          "format": "tips",
+          "tone": "normal",
+          "virality_score": 6,
+          "trend_source": "She Wasn't Scared... Until She Saw the SNAKE (166.2x); She's STILL Dancing Macarena (55.5x)",
+          "plan_id": "P2026-10-10-06"
+        }
+      ],
+      "sent_at": "2026-10-10T18:37:57.460850+00:00",
       "selected": [],
       "status": "waiting"
     }
@@ -7170,8 +7192,8 @@
       "at": "2026-10-09T14:52:29.225857+00:00"
     },
     "2026-10-10": {
-      "n": 1,
-      "at": "2026-10-10T18:14:05.259998+00:00"
+      "n": 2,
+      "at": "2026-10-10T18:37:56.672071+00:00"
     }
   },
   "cleanup_day": "2026-10-10",
