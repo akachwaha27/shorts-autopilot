@@ -362,8 +362,13 @@
         }
       ],
       "sent_at": "2026-10-10T18:14:05.775959+00:00",
-      "selected": [],
-      "status": "waiting"
+      "selected": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "status": "closed"
     },
     "2026-10-10-2": {
       "topics": [
@@ -424,7 +429,7 @@
       ],
       "sent_at": "2026-10-10T18:37:57.460850+00:00",
       "selected": [],
-      "status": "waiting"
+      "status": "closed"
     }
   },
   "videos": {
@@ -7150,6 +7155,1415 @@
       },
       "uploaded_at": "2026-10-10T01:14:15.978410+00:00",
       "slot": "2026-10-10T23:15:00+00:00"
+    },
+    "2026-10-10-1": {
+      "topic": {
+        "title": "5 Peppers That Make Jalape\u00f1os Look Mild",
+        "angle": "Food and eating challenges are all over today's outliers (UNO food and bite challenge, Pasta challenge, 40 MOMO), and a countdown with a giant-number payoff (2.7 million) keeps people to number one.",
+        "format": "ranking",
+        "tone": "normal",
+        "virality_score": 8,
+        "trend_source": "Hostel girls- Pasta challenge! (2.0x); UNO FOOD AND BITE CHALLENGE; 40 MOMO (The List)",
+        "plan_id": "P2026-10-09-07"
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-10T22:00:35.391128+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "hottest peppers ranked",
+        "title": "Top 5 Peppers That Make Jalape\u00f1os Look Mild",
+        "hook_text": "Hot? Think again",
+        "thumbnail_text": "2.7 MILLION?!",
+        "description": "The hottest peppers in the world ranked by Scoville heat, from the habanero to Pepper X, the hottest pepper in the world according to Guinness. Admire them, don't eat them!\n\nIn this Short: habanero, ghost pepper, Trinidad Moruga Scorpion, Carolina Reaper and Pepper X, compared with a jalape\u00f1o.\n\nSources:\nhttps://en.wikipedia.org/wiki/Hottest_chili_pepper\nhttps://en.wikipedia.org/wiki/Pepper_X\nhttps://accuweather.com/en/weather-news/guinness-world-records-declares-pepper-x-as-worlds-new-hottest-chili-pepper/1588288",
+        "hashtags": [
+          "#shorts",
+          "#peppers",
+          "#spicy",
+          "#top5"
+        ],
+        "tags": [
+          "hottest peppers ranked",
+          "hottest pepper in the world",
+          "carolina reaper scoville scale",
+          "carolina reaper vs ghost pepper",
+          "carolina reaper",
+          "hot peppers ranked",
+          "carolina reaper pepper",
+          "scoville scale peppers",
+          "all peppers scoville scale",
+          "hottest pepper in the world 2025",
+          "hottest pepper in the world pepper x",
+          "hottest pepper in the world comparison",
+          "top 5 peppers",
+          "trinidad moruga scorpion",
+          "scoville scale",
+          "scoville scale explained",
+          "scoville scale comparison",
+          "pepper x"
+        ],
+        "pinned_comment": "Bonus fact: chili heat comes from a chemical called capsaicin, and birds barely feel it at all, which helps them spread pepper seeds. Hottest thing you've ever tried?",
+        "scenes": [
+          {
+            "text": "You think jalape\u00f1os are hot? The pepper at number one is hundreds of times hotter. Let's count down five peppers that make a jalape\u00f1o look mild. Pepper heat is measured in Scoville units, and a jalape\u00f1o is only a few thousand.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "green jalapeno peppers cutting board",
+              "row colorful chili peppers"
+            ],
+            "image_prompt": "Cinematic vertical macro shot of fresh glossy green jalape\u00f1o peppers on a dark rustic wooden cutting board, soft studio lighting, ultra-realistic food photography, 9:16 aspect ratio",
+            "stock_query": "green jalapeno peppers cutting board"
+          },
+          {
+            "text": "Number five: the habanero. Up to around three hundred fifty thousand. Already way too much for most people.",
+            "badge": "#5",
+            "label": "Habanero",
+            "stock_queries": [
+              "orange habanero peppers",
+              "person fanning mouth spicy"
+            ],
+            "image_prompt": "Vibrant vertical close-up of glossy bright orange habanero peppers grouped together on a dark textured slate background, dramatic warm lighting, 8k resolution, 9:16 aspect ratio",
+            "stock_query": "orange habanero peppers"
+          },
+          {
+            "text": "Number four: the ghost pepper. Around one million. It was the first pepper ever measured over a million.",
+            "badge": "#4",
+            "label": "Ghost Pepper",
+            "stock_queries": [
+              "red ghost chili peppers",
+              "spicy hot food reaction"
+            ],
+            "image_prompt": "Vertical macro photography of wrinkled red Bhut Jolokia ghost peppers lying on dark charred wood, subtle smoky atmosphere, cinematic shallow depth of field, 9:16 aspect ratio",
+            "stock_query": "red ghost chili peppers"
+          },
+          {
+            "text": "Number three: the Trinidad Moruga Scorpion. Around one point two million, with a little stinger-like tail.",
+            "badge": "#3",
+            "label": "Trinidad Moruga Scorpion",
+            "stock_queries": [
+              "red scorpion chili pepper",
+              "hot chili pepper macro"
+            ],
+            "image_prompt": "Detailed vertical extreme close-up of a deep crimson Trinidad Moruga Scorpion chili pepper showing textured bumpy skin and pointed stinger tail, dark moody lighting, 9:16 aspect ratio",
+            "stock_query": "red scorpion chili pepper"
+          },
+          {
+            "text": "Number two: the Carolina Reaper. About one point six million. It held the world record for about ten years.",
+            "badge": "#2",
+            "label": "Carolina Reaper",
+            "stock_queries": [
+              "red carolina reaper pepper",
+              "spicy hot chili harvest"
+            ],
+            "image_prompt": "Vertical dramatic shot of a gnarly bright red Carolina Reaper chili pepper with its signature tail, perched against a dark stone surface with faint rising heat haze, 9:16 aspect ratio",
+            "stock_query": "red carolina reaper pepper"
+          },
+          {
+            "text": "Number one: Pepper X. About two point seven million. That's the hottest pepper in the world, according to Guinness.",
+            "badge": "#1",
+            "label": "Pepper X",
+            "stock_queries": [
+              "yellow green wrinkled chili pepper",
+              "extreme hot chili pepper"
+            ],
+            "image_prompt": "Vertical macro shot of a heavily wrinkled greenish-yellow superhot pepper glowing under intense studio rim light against a pitch-black background, ultra detailed texture, 9:16 aspect ratio",
+            "stock_query": "yellow green wrinkled chili pepper"
+          },
+          {
+            "text": "Please, admire these with your eyes, not your mouth. What's the hottest thing you've ever eaten? Tell me below. And if you think jalape\u00f1os are hot\u2026",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "person drinking glass of milk",
+              "sliced green jalapeno pepper"
+            ],
+            "image_prompt": "Vertical cinematic shot of a person desperately holding a cold glass of milk with condensation, sitting at a wooden kitchen counter, humorous culinary scene, 9:16 aspect ratio",
+            "stock_query": "person drinking glass of milk"
+          }
+        ],
+        "key_facts": [
+          "Pepper heat is measured in Scoville heat units (SHU).",
+          "A standard jalape\u00f1o pepper measures only a few thousand Scoville units.",
+          "The habanero reaches up to around 350,000 Scoville units.",
+          "The ghost pepper measures around 1,000,000 Scoville units and was the first pepper measured over one million.",
+          "The Trinidad Moruga Scorpion measures around 1,200,000 Scoville units and features a distinct stinger-like tail.",
+          "The Carolina Reaper measures about 1,600,000 Scoville units and held the Guinness World Record for approximately ten years.",
+          "Pepper X measures approximately 2,700,000 Scoville units and is currently recognized by Guinness World Records as the hottest pepper in the world."
+        ],
+        "format": "ranking",
+        "tone": "normal",
+        "category": "27",
+        "script": "You think jalape\u00f1os are hot? The pepper at number one is hundreds of times hotter. Let's count down five peppers that make a jalape\u00f1o look mild. Pepper heat is measured in Scoville units, and a jalape\u00f1o is only a few thousand. Number five: the habanero. Up to around three hundred fifty thousand. Already way too much for most people. Number four: the ghost pepper. Around one million. It was the first pepper ever measured over a million. Number three: the Trinidad Moruga Scorpion. Around one point two million, with a little stinger-like tail. Number two: the Carolina Reaper. About one point six million. It held the world record for about ten years. Number one: Pepper X. About two point seven million. That's the hottest pepper in the world, according to Guinness. Please, admire these with your eyes, not your mouth. What's the hottest thing you've ever eaten? Tell me below. And if you think jalape\u00f1os are hot\u2026",
+        "plan_id": "P2026-10-09-07",
+        "shot_plan": [
+          {
+            "subject": "jalapeno pepper",
+            "queries": [
+              {
+                "q": "jalapeno pepper",
+                "must": [
+                  "jalapeno"
+                ]
+              },
+              {
+                "q": "green chili",
+                "must": [
+                  "chili"
+                ]
+              },
+              {
+                "q": "spicy pepper",
+                "must": [
+                  "pepper"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "habanero pepper",
+            "queries": [
+              {
+                "q": "habanero pepper",
+                "must": [
+                  "habanero"
+                ]
+              },
+              {
+                "q": "orange chili",
+                "must": [
+                  "orange"
+                ]
+              },
+              {
+                "q": "spicy pepper",
+                "must": [
+                  "pepper"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "ghost pepper",
+            "queries": [
+              {
+                "q": "ghost pepper",
+                "must": [
+                  "ghost"
+                ]
+              },
+              {
+                "q": "bhut jolokia",
+                "must": [
+                  "jolokia"
+                ]
+              },
+              {
+                "q": "red chili",
+                "must": [
+                  "red"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "trinidad moruga scorpion pepper",
+            "queries": [
+              {
+                "q": "scorpion pepper",
+                "must": [
+                  "scorpion"
+                ]
+              },
+              {
+                "q": "red hot pepper",
+                "must": [
+                  "pepper"
+                ]
+              },
+              {
+                "q": "spicy pod",
+                "must": [
+                  "pod"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "carolina reaper pepper",
+            "queries": [
+              {
+                "q": "carolina reaper",
+                "must": [
+                  "reaper"
+                ]
+              },
+              {
+                "q": "wrinkled red pepper",
+                "must": [
+                  "red"
+                ]
+              },
+              {
+                "q": "hot chili",
+                "must": [
+                  "chili"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "pepper x",
+            "queries": [
+              {
+                "q": "pepper x",
+                "must": [
+                  "pepper"
+                ]
+              },
+              {
+                "q": "extremely hot pepper",
+                "must": [
+                  "hot"
+                ]
+              },
+              {
+                "q": "wrinkled chili",
+                "must": [
+                  "chili"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "hot peppers display",
+            "queries": [
+              {
+                "q": "assorted hot peppers",
+                "must": [
+                  "peppers"
+                ]
+              },
+              {
+                "q": "spicy food",
+                "must": [
+                  "food"
+                ]
+              },
+              {
+                "q": "chili display",
+                "must": [
+                  "chili"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "chili pepper",
+          "spicy food",
+          "hot sauce"
+        ],
+        "visual_style": "Fast-paced culinary countdown featuring high-contrast macro shots of extremely spicy peppers and vibrant cooking preparations on wooden or dark slate surfaces.",
+        "visual_refs": [
+          "How to Control the Heat of Your Jalape\u00f1os",
+          "Too Many Jalape\u00f1os? 10 Easy Ways to Use Them!",
+          "How to pick out spicy jalape\u00f1os \ufffc #mrcilantroseaoning #food #cooking",
+          "Pickled Jalape\u00f1os that make your booty burn!!",
+          "Best Stuffed Jalapeno Recipe - Bake at 425F",
+          "Mexican Blistered Peppers (Chiles Toreados)"
+        ],
+        "voice": "en-US-AndrewMultilingualNeural",
+        "visual_report": {
+          "shots": 15,
+          "checked": 15,
+          "unchecked": 0,
+          "filler": 0
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AndrewMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): XiaosKitchen (Pixabay) https://pixabay.com/videos/id-11612/; hat3m (Pixabay) https://pixabay.com/photos/yellow-habanero-pepper-plant-4394115/; hat3m (Pixabay) https://pixabay.com/photos/yellow-habanero-pepper-plant-4394121/; moonbhuyan (Pixabay) https://pixabay.com/photos/chili-pepper-ghost-pepper-plant-7433965/; alvinmatt (Pixabay) https://pixabay.com/photos/plant-ghost-pepper-heat-garden-3726306/; moonbhuyan (Pixabay) https://pixabay.com/photos/chili-pepper-ghost-pepper-7425570/; igorszloch (Pixabay) https://pixabay.com/photos/spicy-peppers-habanero-red-scorpion-2043552/; FreeCreativeStuff (Pixabay) https://pixabay.com/videos/id-27530/; FreeCreativeStuff (Pixabay) https://pixabay.com/videos/id-27529/; Engin_Akyurt (Pixabay) https://pixabay.com/videos/id-61669/; julientromeur (Pixabay) https://pixabay.com/videos/id-142683/; FreeCreativeStuff (Pixabay) https://pixabay.com/videos/id-27506/; muzammil7865 (Pixabay) https://pixabay.com/videos/id-149665/; XiaosKitchen (Pixabay) https://pixabay.com/videos/id-11623/",
+        "The original uploader was Fir0002 at English Wikipedia . / Wikimedia Commons (CC BY 2.5) https://commons.wikimedia.org/wiki/File:Habanero_closeup_edit2.jpg"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-10",
+        "name": "2026-10-10-1-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-10",
+        "name": "2026-10-10-1-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,097 --> 00:00:02,269\nYou think jalape\u00f1os are hot The pepper\n\n2\n00:00:02,269 --> 00:00:03,920\nat number one is hundreds of times\n\n3\n00:00:03,920 --> 00:00:06,201\nhotter Let's count down five peppers that\n\n4\n00:00:06,201 --> 00:00:08,883\nmake a jalape\u00f1o look mild Pepper heat\n\n5\n00:00:08,883 --> 00:00:11,092\nis measured in Scoville units and a\n\n6\n00:00:11,092 --> 00:00:14,041\njalape\u00f1o is only a few thousand Number\n\n7\n00:00:14,041 --> 00:00:17,099\nfive the habanero Up to around three\n\n8\n00:00:17,099 --> 00:00:19,393\nhundred fifty thousand Already way too much\n\n9\n00:00:19,393 --> 00:00:22,184\nfor most people Number four the ghost\n\n10\n00:00:22,184 --> 00:00:24,551\npepper Around one million It was the\n\n11\n00:00:24,551 --> 00:00:27,609\nfirst pepper ever measured over a million\n\n12\n00:00:27,609 --> 00:00:31,432\nNumber three the Trinidad Moruga Scorpion Around\n\n13\n00:00:31,432 --> 00:00:33,519\none point two million with a little\n\n14\n00:00:33,519 --> 00:00:37,427\nstinger-like tail Number two the Carolina Reaper\n\n15\n00:00:37,427 --> 00:00:39,697\nAbout one point six million It held\n\n16\n00:00:39,697 --> 00:00:42,391\nthe world record for about ten years\n\n17\n00:00:42,391 --> 00:00:45,291\nNumber one Pepper X About two point\n\n18\n00:00:45,291 --> 00:00:47,633\nseven million That's the hottest pepper in\n\n19\n00:00:47,633 --> 00:00:51,299\nthe world according to Guinness Please admire\n\n20\n00:00:51,299 --> 00:00:53,580\nthese with your eyes not your mouth\n\n21\n00:00:53,580 --> 00:00:55,667\nWhat's the hottest thing you've ever eaten\n\n22\n00:00:55,667 --> 00:00:57,184\nTell me below And if you think\n\n23\n00:00:57,184 --> 00:00:58,810\njalape\u00f1os are hot\n",
+      "tg_msg": 257,
+      "opts_msg": 259
+    },
+    "2026-10-10-2": {
+      "topic": {
+        "title": "Top 5 Funniest Real Sports on Earth",
+        "angle": "Light, kind comedy dominates today's breakouts (snake-scare short at 166x, Macarena challenge at 55x), and silly-but-true sports deliver that laugh with real facts and an easy 'which would you win' comment prompt.",
+        "format": "funny",
+        "tone": "funny",
+        "virality_score": 8,
+        "trend_source": "She Wasn't Scared\u2026 Until She Saw the SNAKE (166x); She's STILL Dancing Macarena (55.5x); Bid for Island Survival",
+        "plan_id": "P2026-10-09-08"
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-10T22:06:52.839447+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "weird sports",
+        "title": "Top 5 Funniest Real Sports on Earth",
+        "hook_text": "These are REAL sports",
+        "thumbnail_text": "WORLD CHAMPS?!",
+        "description": "Funny, weird sports from around the world that actually exist, with real world championships: extreme ironing, underwater hockey, toe wrestling, bog snorkelling and gurning.\n\nIn this Short: 5 funny real sports counted down to the silliest, with when and where each one started.\n\nSources:\nhttps://en.wikipedia.org/wiki/Toe_wrestling\nhttps://en.wikipedia.org/wiki/Underwater_hockey\nhttps://www.guinnessworldrecords.com/world-records/758640-longest-running-gurning-world-championships",
+        "hashtags": [
+          "#shorts",
+          "#funny",
+          "#sports",
+          "#weirdfacts"
+        ],
+        "tags": [
+          "weird sports",
+          "weird sports around the world",
+          "strange sports around the world",
+          "toe wrestling",
+          "bog snorkelling",
+          "funny sports shorts",
+          "toe wrestling championship",
+          "bog snorkelling championships",
+          "strangest sports around the world",
+          "real sports that sound fake",
+          "funny sports",
+          "funny sports videos",
+          "funny sports moments",
+          "weird british sports",
+          "weird english sports",
+          "bog snorkelling wales",
+          "extreme ironing",
+          "underwater hockey",
+          "world championships",
+          "weird sports that exist"
+        ],
+        "pinned_comment": "Bonus: underwater hockey is also called Octopush in the UK. If you invented a silly sport, what would it be called?",
+        "scenes": [
+          {
+            "text": "You could become a world champion at one of these five ridiculous sports. All real, counting down to the silliest.",
+            "badge": "",
+            "label": "Counting down",
+            "stock_queries": [
+              "crowd cheering event",
+              "sports trophy competition"
+            ],
+            "image_prompt": "A golden winner's trophy positioned proudly on a rustic table in front of a cheering crowd at an outdoor quirky festival, wide shot, bright sunny day, comedic documentary aesthetic.",
+            "stock_query": "crowd cheering event"
+          },
+          {
+            "text": "Number five: extreme ironing. Ironing clothes on mountains, underwater, anywhere. It started in England in nineteen ninety-seven.",
+            "badge": "",
+            "label": "Extreme ironing",
+            "stock_queries": [
+              "mountain cliff ironing board",
+              "extreme outdoor ironing"
+            ],
+            "image_prompt": "A humorous scene of a hiker in full mountain climbing gear casually pressing a collared shirt on an ironing board atop a jagged rocky mountain peak, crisp daylight, photorealistic.",
+            "stock_query": "mountain cliff ironing board"
+          },
+          {
+            "text": "Number four: underwater hockey. Players with snorkels push a puck along the bottom of a pool. Divers invented it in the nineteen-fifties to stay fit in winter.",
+            "badge": "",
+            "label": "Underwater hockey",
+            "stock_queries": [
+              "swimmers underwater pool snorkel",
+              "underwater hockey game"
+            ],
+            "image_prompt": "Underwater shot of snorkelers swimming along the tiled floor of a clear swimming pool, pushing a miniature puck with small handheld sticks, bubbles rising, cinematic lighting.",
+            "stock_query": "swimmers underwater pool snorkel"
+          },
+          {
+            "text": "Number three: toe wrestling. Two people lock toes and try to pin the other foot down. An English village made it up in the seventies, so England could finally be world champions at something.",
+            "badge": "",
+            "label": "Toe wrestling",
+            "stock_queries": [
+              "bare feet toe wrestling",
+              "english village festival"
+            ],
+            "image_prompt": "Close-up macro shot of two bare feet interlocked by the big toes on a small wooden match frame, intense dramatic sports atmosphere, shallow depth of field.",
+            "stock_query": "bare feet toe wrestling"
+          },
+          {
+            "text": "Number two: bog snorkeling. Two lengths of a muddy trench in Wales, with flippers, and no normal swimming strokes.",
+            "badge": "",
+            "label": "Bog snorkeling",
+            "stock_queries": [
+              "person swimming muddy trench",
+              "bog snorkeling flippers"
+            ],
+            "image_prompt": "A competitor wearing brightly colored swim goggles, snorkel, and diving flippers propelling through a narrow dark peat bog trench in the countryside, water splashing, humorous action shot.",
+            "stock_query": "person swimming muddy trench"
+          },
+          {
+            "text": "Number one: gurning. A world championship for pulling the funniest face, at a fair that dates back to twelve sixty-seven.",
+            "badge": "",
+            "label": "Gurning",
+            "stock_queries": [
+              "person making funny distorted face",
+              "traditional village fair festival"
+            ],
+            "image_prompt": "A close-up shot of a friendly competitor pulling an exaggerated comical distorted face framed through a traditional horse leather collar at a vintage English fair, warm lighting, comic portrait.",
+            "stock_query": "person making funny distorted face"
+          },
+          {
+            "text": "So the silliest sport on Earth? Making faces, for a trophy. Which one would you win? Tell me below. Because you could become a world champion\u2026",
+            "badge": "",
+            "label": "Which would you win?",
+            "stock_queries": [
+              "gold trophy champion",
+              "person laughing celebration"
+            ],
+            "image_prompt": "A smiling champion proudly raising an ornate gold sports trophy overhead with confetti falling outdoors, humorous and triumphant victory celebration.",
+            "stock_query": "gold trophy champion"
+          }
+        ],
+        "key_facts": [
+          "Extreme ironing originated in England in 1997.",
+          "Underwater hockey was invented in the 1950s by divers to maintain fitness during winter.",
+          "Toe wrestling was created in an English village during the 1970s.",
+          "Bog snorkeling requires participants to navigate a muddy peat trench in Wales using only flippers without conventional swim strokes.",
+          "The World Gurning Championships occur at the Egremont Crab Fair, an event established in 1267."
+        ],
+        "format": "funny",
+        "tone": "funny",
+        "category": "23",
+        "script": "You could become a world champion at one of these five ridiculous sports. All real, counting down to the silliest. Number five: extreme ironing. Ironing clothes on mountains, underwater, anywhere. It started in England in nineteen ninety-seven. Number four: underwater hockey. Players with snorkels push a puck along the bottom of a pool. Divers invented it in the nineteen-fifties to stay fit in winter. Number three: toe wrestling. Two people lock toes and try to pin the other foot down. An English village made it up in the seventies, so England could finally be world champions at something. Number two: bog snorkeling. Two lengths of a muddy trench in Wales, with flippers, and no normal swimming strokes. Number one: gurning. A world championship for pulling the funniest face, at a fair that dates back to twelve sixty-seven. So the silliest sport on Earth? Making faces, for a trophy. Which one would you win? Tell me below. Because you could become a world champion\u2026",
+        "plan_id": "P2026-10-09-08",
+        "shot_plan": [
+          {
+            "subject": "sports trophy",
+            "queries": [
+              {
+                "q": "sports trophy",
+                "must": [
+                  "trophy"
+                ]
+              },
+              {
+                "q": "winner podium",
+                "must": [
+                  "podium"
+                ]
+              },
+              {
+                "q": "athlete celebration",
+                "must": [
+                  "athlete"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "ironing clothes mountain",
+            "queries": [
+              {
+                "q": "extreme ironing",
+                "must": [
+                  "ironing"
+                ]
+              },
+              {
+                "q": "mountain ironing",
+                "must": [
+                  "mountain"
+                ]
+              },
+              {
+                "q": "ironing clothes",
+                "must": [
+                  "clothes"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "underwater hockey",
+            "queries": [
+              {
+                "q": "underwater hockey",
+                "must": [
+                  "hockey"
+                ]
+              },
+              {
+                "q": "swimming pool game",
+                "must": [
+                  "pool"
+                ]
+              },
+              {
+                "q": "snorkeling underwater",
+                "must": [
+                  "snorkeling"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "toe wrestling",
+            "queries": [
+              {
+                "q": "toe wrestling",
+                "must": [
+                  "wrestling"
+                ]
+              },
+              {
+                "q": "feet sports",
+                "must": [
+                  "feet"
+                ]
+              },
+              {
+                "q": "wrestling match",
+                "must": [
+                  "match"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "bog snorkeling",
+            "queries": [
+              {
+                "q": "bog snorkeling",
+                "must": [
+                  "snorkeling"
+                ]
+              },
+              {
+                "q": "muddy trench swimming",
+                "must": [
+                  "mud"
+                ]
+              },
+              {
+                "q": "swimming flippers",
+                "must": [
+                  "flippers"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "funny face gurning",
+            "queries": [
+              {
+                "q": "funny face competition",
+                "must": [
+                  "face"
+                ]
+              },
+              {
+                "q": "facial expression",
+                "must": [
+                  "expression"
+                ]
+              },
+              {
+                "q": "smiling person",
+                "must": [
+                  "person"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "world champion trophy",
+            "queries": [
+              {
+                "q": "world champion trophy",
+                "must": [
+                  "champion"
+                ]
+              },
+              {
+                "q": "sports trophy",
+                "must": [
+                  "trophy"
+                ]
+              },
+              {
+                "q": "winner celebration",
+                "must": [
+                  "winner"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "sports",
+          "athlete",
+          "competition"
+        ],
+        "visual_style": "Viewers expect upbeat, humorous short-form sports clips featuring bizarre competitions, quirky athletes, and fast-paced editing with clear text labels.",
+        "visual_refs": [
+          "The Weirdest Sport You\u2019ll Ever See \ud83e\udd74 (@n/a)",
+          "First EVER Professional Kids Sport!",
+          "Air-Male \ud83c\udfc8 \u2709\ufe0f #football #funny #blue42 #sports #comedyskit",
+          "\u201cEasiest\u201d sports in the world #sports #easy #learning #espn #shorts #youtubeshorts #sambrum",
+          "TOP 5 FUNNIEST KIKE HERNANDEZ MOMENTS\ud83e\udd23 #kikehernandez #dodgers #sports #top5 #mlb",
+          "INSANE FOOTBALL FIGHT\ud83d\ude31\u203c\ufe0f #detroit #football #explore #viral #footballshorts #youthcongress #fight"
+        ],
+        "voice": "en-AU-WilliamMultilingualNeural",
+        "visual_report": {
+          "shots": 13,
+          "checked": 13,
+          "unchecked": 0,
+          "filler": 4
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-AU-WilliamMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): tommyvideo (Pixabay) https://pixabay.com/videos/id-5159/; kwarteng1288 (Pixabay) https://pixabay.com/videos/id-239586/; julientromeur (Pixabay) https://pixabay.com/videos/id-33329/; RyanMcGuire (Pixabay) https://pixabay.com/photos/man-stress-male-face-adult-young-742766/; RyanMcGuire (Pixabay) https://pixabay.com/photos/man-silly-expression-funny-crazy-869215/; Deedster (Pixabay) https://pixabay.com/photos/cat-funny-silly-goofy-face-animal-2093639/; kwarteng1288 (Pixabay) https://pixabay.com/videos/id-239585/; 8385 (Pixabay) https://pixabay.com/videos/id-666/; ColorfulBackground (Pixabay) https://pixabay.com/videos/id-161887/"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-10",
+        "name": "2026-10-10-2-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-10",
+        "name": "2026-10-10-2-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,050 --> 00:00:01,717\nYou could become a world champion at\n\n2\n00:00:01,717 --> 00:00:04,168\none of these five ridiculous sports All\n\n3\n00:00:04,168 --> 00:00:06,949\nreal counting down to the silliest Number\n\n4\n00:00:06,949 --> 00:00:10,908\nfive extreme ironing Ironing clothes on mountains\n\n5\n00:00:10,908 --> 00:00:14,082\nunderwater anywhere It started in England in\n\n6\n00:00:14,082 --> 00:00:17,207\nnineteen ninety-seven Number four underwater\n\n7\n00:00:17,207 --> 00:00:19,731\nhockey Players with snorkels push a puck\n\n8\n00:00:19,731 --> 00:00:21,802\nalong the bottom of a pool Divers\n\n9\n00:00:21,802 --> 00:00:23,886\ninvented it in the nineteen-fifties to stay\n\n10\n00:00:23,886 --> 00:00:27,378\nfit in winter Number three toe wrestling\n\n11\n00:00:27,378 --> 00:00:29,131\nTwo people lock toes and try to\n\n12\n00:00:29,131 --> 00:00:31,251\npin the other foot down An English\n\n13\n00:00:31,251 --> 00:00:33,016\nvillage made it up in the seventies\n\n14\n00:00:33,016 --> 00:00:35,246\nso England could finally be world champions\n\n15\n00:00:35,246 --> 00:00:38,788\nat something Number two bog snorkeling Two\n\n16\n00:00:38,788 --> 00:00:40,614\nlengths of a muddy trench in Wales\n\n17\n00:00:40,614 --> 00:00:43,432\nwith flippers and no normal swimming strokes\n\n18\n00:00:43,432 --> 00:00:46,643\nNumber one gurning A world championship for\n\n19\n00:00:46,643 --> 00:00:48,641\npulling the funniest face at a fair\n\n20\n00:00:48,641 --> 00:00:51,055\nthat dates back to twelve sixty-seven So\n\n21\n00:00:51,055 --> 00:00:54,082\nthe silliest sport on Earth Making faces\n\n22\n00:00:54,082 --> 00:00:56,190\nfor a trophy Which one would you\n\n23\n00:00:56,190 --> 00:00:58,996\nwin Tell me below Because you could\n\n24\n00:00:58,996 --> 00:01:00,781\nbecome a world champion\n",
+      "tg_msg": 260,
+      "opts_msg": 262
+    },
+    "2026-10-10-3": {
+      "topic": {
+        "title": "The Cave Found by 4 Teenagers in 1940",
+        "angle": "'How was this actually done/found?' curiosity is driving one of today's top outliers (How Was This Scene Actually Shot? at 41x), and a real discovery story with kids, a dog and a secret cave fits that hook for a family audience.",
+        "format": "story",
+        "tone": "normal",
+        "virality_score": 7,
+        "trend_source": "How Was This Koyla Scene Actually Shot? (41.2x, The Question); Tudo Que D\u00e1 Pra Desenhar (3.1x, drawing)",
+        "plan_id": "P2026-10-09-09"
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-10T22:14:37.335217+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "lascaux cave discovery",
+        "title": "The Cave Found by 4 Teenagers in 1940",
+        "hook_text": "True story, 1940",
+        "thumbnail_text": "WALLS OF ART",
+        "description": "Who discovered Lascaux? In 1940, four teenagers in France found cave paintings around 17,000 years old. This is the true story of the Lascaux cave discovery, and why the real cave is closed today.\n\nIn this Short: Marcel and his dog Robot, the first look at the painted walls, and why visitors now see replicas.\n\nThis is a true story.\n\nSources:\nhttps://en.wikipedia.org/wiki/Lascaux\nhttps://www.historytoday.com/node/53687\nhttps://catherinewilsongarry.substack.com/p/four-boys-and-a-dog-called-robot",
+        "hashtags": [
+          "#shorts",
+          "#history",
+          "#truestory",
+          "#art",
+          "#storytime"
+        ],
+        "tags": [
+          "lascaux cave discovery",
+          "stone age art lascaux cave paintings",
+          "lascaux cave",
+          "lascaux cave art",
+          "prehistoric cave art",
+          "lascaux caves france",
+          "lascaux cave paintings",
+          "history of cave paintings",
+          "17000 year old paintings",
+          "oldest cave art",
+          "prehistoric rock art",
+          "lascaux cave original",
+          "true story shorts",
+          "cave paintings france",
+          "robot the dog lascaux",
+          "how lascaux was discovered",
+          "ancient art",
+          "marcel ravidat",
+          "history shorts",
+          "archaeology discoveries"
+        ],
+        "pinned_comment": "Bonus fact: one of the most famous images in Lascaux is a huge painted bull more than five meters long. What would you put on a wall for the future?",
+        "scenes": [
+          {
+            "text": "What would you do if you found a hole in the ground with seventeen-thousand-year-old paintings inside? In nineteen-forty, four teenagers in France actually did. Here's what happened.",
+            "badge": "",
+            "label": "17,000-year-old art?",
+            "stock_queries": [
+              "entrance small cave forest",
+              "french countryside hills woods"
+            ],
+            "image_prompt": "Cinematic shot of a narrow mysterious hole opening into the ground among tree roots in a lush French woodland forest, soft morning light, 1940 atmosphere, photorealistic documentary style.",
+            "stock_query": "entrance small cave forest"
+          },
+          {
+            "text": "It's September, near the village of Montignac. Teenager Marcel finds a hole. The story goes, his dog Robot led him there.",
+            "badge": "",
+            "label": "Marcel + his dog Robot",
+            "stock_queries": [
+              "small french village rural",
+              "dog sniffing woods ground"
+            ],
+            "image_prompt": "A 1940s French teenage boy standing with his small dog sniffing around overgrown brush and rocks near a hidden hole in the ground, rural Montignac landscape, cinematic period photography.",
+            "stock_query": "small french village rural"
+          },
+          {
+            "text": "Days later, he returns with three friends and a lamp. They squeeze down into the dark.",
+            "badge": "",
+            "label": "3 friends + 1 lamp",
+            "stock_queries": [
+              "old oil lamp glowing",
+              "narrow cave passage dark"
+            ],
+            "image_prompt": "Four teenage boys in 1940s vintage work clothes crawling through a narrow dark limestone cave passage, holding a single glowing vintage oil lamp, dramatic shadows, realistic historical recreation.",
+            "stock_query": "old oil lamp glowing"
+          },
+          {
+            "text": "The walls are covered in hundreds of painted animals. Horses, bulls, deer, in red, yellow and black. They'd found Lascaux, with paintings around seventeen thousand years old.",
+            "badge": "",
+            "label": "Walls full of animals",
+            "stock_queries": [
+              "prehistoric cave paintings horses bulls",
+              "wide view painted cave ceiling"
+            ],
+            "image_prompt": "Immense natural limestone cave cavern illuminated by warm lamp light, prehistoric Paleolithic cave paintings of running bulls and horses in ochre, charcoal, and red pigments, stunning detail, authentic Lascaux style.",
+            "stock_query": "prehistoric cave paintings horses bulls"
+          },
+          {
+            "text": "Soon, crowds of visitors came. But all that breath and body heat started damaging the paintings.",
+            "badge": "",
+            "label": "Breath + heat = damage",
+            "stock_queries": [
+              "tourists walking museum interior",
+              "close up ancient cave wall"
+            ],
+            "image_prompt": "Mid-20th century crowds of tourists walking inside a dimly lit ancient stone cavern, visible condensation and humidity on ancient painted rock walls, archival documentary aesthetic.",
+            "stock_query": "tourists walking museum interior"
+          },
+          {
+            "text": "So in nineteen sixty-three, the cave was closed to the public. Today, visitors see exact replicas instead.",
+            "badge": "",
+            "label": "Closed in 1963",
+            "stock_queries": [
+              "closed locked gate cave entrance",
+              "visitors modern museum replica cave"
+            ],
+            "image_prompt": "Heavy sealed locked iron gate guarding the dark entrance of a historic cave in France, surrounded by dense green forest, dramatic atmospheric lighting, modern documentary look.",
+            "stock_query": "closed locked gate cave entrance"
+          },
+          {
+            "text": "Four teens, one lamp, and one of the greatest art discoveries ever. What would you paint for people seventeen thousand years from now? Tell me below. And what would you do if you found a hole in the ground\u2026",
+            "badge": "THE END",
+            "label": "What would YOU paint?",
+            "stock_queries": [
+              "flickering lamp light rock wall",
+              "entrance small cave forest ground"
+            ],
+            "image_prompt": "Close-up of ancient prehistoric rock art warmly illuminated by a single flickering oil lamp, fading softly into dark limestone textures, contemplative and epic archaeological mood.",
+            "stock_query": "flickering lamp light rock wall"
+          }
+        ],
+        "key_facts": [
+          "In September 1940, four teenagers discovered the Lascaux cave near Montignac, France.",
+          "Marcel Ravidat initially found the hole, reportedly guided by his dog Robot.",
+          "He returned with three friends and a lamp to squeeze inside and explore.",
+          "The cave walls were adorned with hundreds of paintings of animals such as horses, bulls, and deer in red, yellow, and black pigments.",
+          "The paintings at Lascaux date back approximately 17,000 years.",
+          "Carbon dioxide, heat, and humidity from crowds of visitors began damaging the paintings.",
+          "Lascaux was permanently closed to the public in 1963 to preserve the artwork.",
+          "Modern visitors view exact replicas of the cave instead."
+        ],
+        "format": "story",
+        "tone": "normal",
+        "category": "24",
+        "script": "What would you do if you found a hole in the ground with seventeen-thousand-year-old paintings inside? In nineteen-forty, four teenagers in France actually did. Here's what happened. It's September, near the village of Montignac. Teenager Marcel finds a hole. The story goes, his dog Robot led him there. Days later, he returns with three friends and a lamp. They squeeze down into the dark. The walls are covered in hundreds of painted animals. Horses, bulls, deer, in red, yellow and black. They'd found Lascaux, with paintings around seventeen thousand years old. Soon, crowds of visitors came. But all that breath and body heat started damaging the paintings. So in nineteen sixty-three, the cave was closed to the public. Today, visitors see exact replicas instead. Four teens, one lamp, and one of the greatest art discoveries ever. What would you paint for people seventeen thousand years from now? Tell me below. And what would you do if you found a hole in the ground\u2026",
+        "plan_id": "P2026-10-09-09",
+        "shot_plan": [
+          {
+            "subject": "hole in the ground with ancient paintings",
+            "queries": [
+              {
+                "q": "cave painting art",
+                "must": [
+                  "painting"
+                ]
+              },
+              {
+                "q": "hole in ground",
+                "must": [
+                  "hole"
+                ]
+              },
+              {
+                "q": "ancient cave art",
+                "must": [
+                  "cave"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "teenager with a dog near a forest hole",
+            "queries": [
+              {
+                "q": "boy with dog",
+                "must": [
+                  "dog"
+                ]
+              },
+              {
+                "q": "forest hole",
+                "must": [
+                  "forest"
+                ]
+              },
+              {
+                "q": "teenager outdoors",
+                "must": [
+                  "teenager"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "friends entering a dark cave with a lamp",
+            "queries": [
+              {
+                "q": "lantern in cave",
+                "must": [
+                  "lantern"
+                ]
+              },
+              {
+                "q": "exploring dark cave",
+                "must": [
+                  "cave"
+                ]
+              },
+              {
+                "q": "people with lamp",
+                "must": [
+                  "lamp"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "cave walls covered in animal paintings",
+            "queries": [
+              {
+                "q": "prehistoric animal paintings",
+                "must": [
+                  "paintings"
+                ]
+              },
+              {
+                "q": "cave wall art",
+                "must": [
+                  "art"
+                ]
+              },
+              {
+                "q": "ancient rock art",
+                "must": [
+                  "rock"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "crowds of tourists visiting a cave",
+            "queries": [
+              {
+                "q": "tourists in cave",
+                "must": [
+                  "tourists"
+                ]
+              },
+              {
+                "q": "crowd of visitors",
+                "must": [
+                  "crowd"
+                ]
+              },
+              {
+                "q": "people sightseeing",
+                "must": [
+                  "people"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "closed cave entrance with a barrier",
+            "queries": [
+              {
+                "q": "locked cave door",
+                "must": [
+                  "door"
+                ]
+              },
+              {
+                "q": "closed sign cave",
+                "must": [
+                  "closed"
+                ]
+              },
+              {
+                "q": "barrier at entrance",
+                "must": [
+                  "barrier"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "person painting or holding a lamp in a cave",
+            "queries": [
+              {
+                "q": "hand holding lantern",
+                "must": [
+                  "hand"
+                ]
+              },
+              {
+                "q": "painting on rock",
+                "must": [
+                  "painting"
+                ]
+              },
+              {
+                "q": "cave explorer",
+                "must": [
+                  "explorer"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "cave entrance",
+          "ancient art",
+          "underground cavern"
+        ],
+        "visual_style": "Cinematic historical documentary style featuring young explorers, ancient cave art, and mysterious underground discoveries.",
+        "visual_refs": [
+          "4 Teenagers and a Dog Found This Cave in 1940 #shorts",
+          "The 4 Teenagers Who Discovered Lascaux \u2014 A 21,000 Year Old Cave",
+          "Four Boys Found 20,000 Years Old Cave #shorts",
+          "Teenagers Discover the Ancient Lascaux Caves in 1940 | A Game-Changer in History!",
+          "Four Teenagers Found a 17,000-Year-Old Painted Cave in 1940. It Is Sealed Shut Now",
+          "4 Boys Who Discovered a 20,000-Year-Old Cave"
+        ],
+        "voice": "en-US-EmmaMultilingualNeural",
+        "visual_report": {
+          "shots": 11,
+          "checked": 11,
+          "unchecked": 0,
+          "filler": 2
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-EmmaMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): KlausHausmann (Pixabay) https://pixabay.com/photos/stone-age-painting-wall-painting-2115388/; KlausHausmann (Pixabay) https://pixabay.com/photos/stone-age-painting-wall-painting-2115390/; janeb13 (Pixabay) https://pixabay.com/photos/bison-cave-of-altamira-1171794/; Sunriseforever (Pixabay) https://pixabay.com/photos/boy-forest-dog-pet-2944727/; Sunriseforever (Pixabay) https://pixabay.com/photos/boy-forest-dog-pet-2944728/; cocoparisienne (Pixabay) https://pixabay.com/photos/climb-climbing-sport-abseil-climber-1934252/; EstudioWebDoce (Pixabay) https://pixabay.com/photos/cave-paintings-prehistory-museum-1024963/; PDPhotos (Pixabay) https://pixabay.com/photos/cave-painting-wall-painting-usa-3699/; AttilaPergel (Pixabay) https://pixabay.com/videos/id-212638/"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-10",
+        "name": "2026-10-10-3-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-10",
+        "name": "2026-10-10-3-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,087 --> 00:00:01,374\nWhat would you do if you found\n\n2\n00:00:01,374 --> 00:00:03,874\na hole in the ground with seventeen-thousand-year-old\n\n3\n00:00:03,874 --> 00:00:07,376\npaintings inside In nineteen-forty four teenagers\n\n4\n00:00:07,376 --> 00:00:10,470\nin France actually did Here's what happened\n\n5\n00:00:10,470 --> 00:00:13,478\nIt's September near the village of Montignac\n\n6\n00:00:13,478 --> 00:00:16,188\nTeenager Marcel finds a hole The story\n\n7\n00:00:16,188 --> 00:00:18,614\ngoes his dog Robot led him there\n\n8\n00:00:18,614 --> 00:00:20,903\nDays later he returns with three friends\n\n9\n00:00:20,903 --> 00:00:23,094\nand a lamp They squeeze down into\n\n10\n00:00:23,094 --> 00:00:25,173\nthe dark The walls are covered in\n\n11\n00:00:25,173 --> 00:00:28,527\nhundreds of painted animals Horses bulls deer\n\n12\n00:00:28,527 --> 00:00:30,854\nin red yellow and black They'd found\n\n13\n00:00:30,854 --> 00:00:33,738\nLascaux with paintings around seventeen thousand\n\n14\n00:00:33,738 --> 00:00:37,017\nyears old Soon crowds of visitors came\n\n15\n00:00:37,017 --> 00:00:38,713\nBut all that breath and body heat\n\n16\n00:00:38,713 --> 00:00:41,696\nstarted damaging the paintings So in nineteen\n\n17\n00:00:41,696 --> 00:00:43,898\nsixty-three the cave was closed to the\n\n18\n00:00:43,898 --> 00:00:48,007\npublic Today visitors see exact replicas instead\n\n19\n00:00:48,007 --> 00:00:49,988\nFour teens one lamp and one of\n\n20\n00:00:49,988 --> 00:00:52,611\nthe greatest art discoveries ever What would\n\n21\n00:00:52,611 --> 00:00:54,913\nyou paint for people seventeen thousand years\n\n22\n00:00:54,913 --> 00:00:57,426\nfrom now Tell me below And what\n\n23\n00:00:57,426 --> 00:00:58,552\nwould you do if you found a\n\n24\n00:00:58,552 --> 00:00:59,992\nhole in the ground\n",
+      "tg_msg": 263,
+      "opts_msg": 265
+    },
+    "2026-10-10-4": {
+      "topic": {
+        "title": "A Cloud vs 100 Elephants: Which Is Heavier?",
+        "angle": "Choice-game Shorts are breaking out today (\u00bfQu\u00e9 eliges en Minecraft? at 3.9x, 'Si dices el mismo jugador\u2026 PIERDES!' at 2.3x), and a 3-second pick-one quiz with surprising ties keeps people answering and posting scores.",
+        "format": "quiz",
+        "tone": "normal",
+        "virality_score": 8,
+        "trend_source": "\u00bfQu\u00e9 eliges en Minecraft? (3.9x); Si dices el mismo jugador\u2026 PIERDES! (2.3x); Bid for Island Survival",
+        "plan_id": "P2026-10-09-10"
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-10T22:19:37.733941+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "which weighs more",
+        "title": "A Cloud vs 100 Elephants: Which Is Heavier?",
+        "hook_text": "Guess before it's gone",
+        "thumbnail_text": "GUESS FAST!",
+        "description": "How much does a cloud weigh? About as much as 100 elephants. Try this 'which weighs more' quiz with 3 tricky questions: a cloud, the weight of a blue whale tongue, and the Eiffel Tower.\n\nIn this Short: three 3-second questions, with the surprising answer and the science behind each one.\n\nSources:\nhttps://www.usgs.gov/water-science-school/science/how-much-does-a-cloud-weigh\nhttps://www.guinnessworldrecords.com/world-records/83817-heaviest-tongue\nhttps://interestingengineering.com/culture/the-eiffel-tower-grow-taller-each-summer",
+        "hashtags": [
+          "#shorts",
+          "#quiz",
+          "#funfacts",
+          "#trivia"
+        ],
+        "tags": [
+          "which weighs more",
+          "100 elephant",
+          "the eiffel tower grows taller in summer because of",
+          "which one weighs more",
+          "blue whale tongue weight",
+          "how much does a cloud weigh",
+          "eiffel tower grows 6 inches in summer",
+          "how much cloud weight",
+          "eiffel tower in summer",
+          "eiffel tower expands in summer",
+          "which weighs more quiz",
+          "eiffel tower grows in summer",
+          "tricky questions",
+          "3 second quiz",
+          "science trivia",
+          "can you pass this quiz"
+        ],
+        "pinned_comment": "Bonus question: what do you think weighs more, all the ants on Earth or all the wild birds? Guess first, then look it up!",
+        "scenes": [
+          {
+            "text": "Which weighs more, a fluffy cloud or a hundred elephants? You've got three seconds.",
+            "badge": "QUIZ",
+            "label": "1 Cloud \ud83c\udd9a 100 Elephants",
+            "stock_queries": [
+              "cumulus cloud blue sky",
+              "herd of elephants savanna"
+            ],
+            "image_prompt": "Split screen comparison showing a massive fluffy white cumulus cloud in a bright blue sky on the left and a large herd of elephants walking across the savannah on the right, high detail cinematic lighting.",
+            "stock_query": "cumulus cloud blue sky"
+          },
+          {
+            "text": "Three questions, three seconds each. Say your answer out loud. Three, two, one.",
+            "badge": "Q1",
+            "label": "Cloud \ud83c\udd9a 100 Elephants?",
+            "stock_queries": [
+              "stopwatch countdown timer",
+              "digital timer clock"
+            ],
+            "image_prompt": "Graphic 3D glowing countdown timer showing numbers 3, 2, 1 against a vibrant quiz show background with neon blue and yellow lighting.",
+            "stock_query": "stopwatch countdown timer"
+          },
+          {
+            "text": "It's basically a tie! A typical puffy cloud holds around a million pounds of water. It only floats because all that water is spread out in tiny droplets over a huge space.",
+            "badge": "\u2713",
+            "label": "Basically a Tie!",
+            "stock_queries": [
+              "cumulus clouds timelapse",
+              "cloud water vapor sky"
+            ],
+            "image_prompt": "Cinematic wide-angle view of a colossal puffy white cumulus cloud floating over a vast green landscape, with glowing visual diagrams showing microscopic water droplets dispersed in the air.",
+            "stock_query": "cumulus clouds timelapse"
+          },
+          {
+            "text": "Question two. What weighs more: a blue whale's tongue, or an elephant? Three, two, one.",
+            "badge": "Q2",
+            "label": "Whale Tongue \ud83c\udd9a Elephant?",
+            "stock_queries": [
+              "blue whale underwater",
+              "african elephant walking"
+            ],
+            "image_prompt": "Split screen visual with a majestic blue whale gliding through deep blue ocean water on the left side and an enormous African bull elephant standing in golden grass on the right side.",
+            "stock_query": "blue whale underwater"
+          },
+          {
+            "text": "Another tie! A blue whale's tongue can weigh about as much as a whole elephant.",
+            "badge": "\u2713",
+            "label": "Another Tie!",
+            "stock_queries": [
+              "blue whale surfacing ocean",
+              "large male elephant portrait"
+            ],
+            "image_prompt": "Giant blue whale surfacing and breaching in deep turquoise ocean water with water splashing, balanced alongside a large majestic elephant on a conceptual weight balance scale.",
+            "stock_query": "blue whale surfacing ocean"
+          },
+          {
+            "text": "Question three. When is the Eiffel Tower taller: in summer or in winter? Three, two, one.",
+            "badge": "Q3",
+            "label": "Tower Taller: Summer or Winter?",
+            "stock_queries": [
+              "metal lattice tower sunny day",
+              "metal lattice tower winter snow"
+            ],
+            "image_prompt": "Split comparison of an iconic wrought-iron lattice tower standing under bright summer sunshine on one side and frosted with winter snow on the other side.",
+            "stock_query": "metal lattice tower sunny day"
+          },
+          {
+            "text": "Summer! The iron expands in the heat, so the tower can grow by several centimeters.",
+            "badge": "\u2713",
+            "label": "Summer!",
+            "stock_queries": [
+              "metal tower sunny sky",
+              "sun shining on steel architecture"
+            ],
+            "image_prompt": "Close-up cinematic low angle of an intricate wrought-iron tower glowing under a blazing summer sun with thermal heat shimmer and expanding metal framework.",
+            "stock_query": "metal tower sunny sky"
+          },
+          {
+            "text": "So: two ties and a growing tower. How many did you get right? Zero, one, two or all three? Tell me in the comments. Okay, next round. Which weighs more, a fluffy cloud or a hundred elephants?",
+            "badge": "SCORE",
+            "label": "Your Score? \ud83d\udc47",
+            "stock_queries": [
+              "person typing smartphone screen",
+              "fluffy white cumulus cloud"
+            ],
+            "image_prompt": "Bright dynamic quiz end screen showing three score cards marked with checkmarks, a speech bubble prompting comments, and a seamless loop back to a fluffy cumulus cloud.",
+            "stock_query": "person typing smartphone screen"
+          }
+        ],
+        "key_facts": [
+          "A typical cumulus cloud contains about 500,000 kilograms (1 million pounds) of water droplets.",
+          "Clouds float because their total mass is spread out across billions of microscopic droplets over a vast volume of air.",
+          "A blue whale's tongue can weigh around 2.7 metric tons (6,000 pounds), which is comparable to the weight of an adult Asian elephant.",
+          "Thermal expansion causes the iron in the Eiffel Tower to expand and make the structure up to 15 centimeters taller during hot summer months."
+        ],
+        "format": "quiz",
+        "tone": "normal",
+        "category": "24",
+        "script": "Which weighs more, a fluffy cloud or a hundred elephants? You've got three seconds. Three questions, three seconds each. Say your answer out loud. Three, two, one. It's basically a tie! A typical puffy cloud holds around a million pounds of water. It only floats because all that water is spread out in tiny droplets over a huge space. Question two. What weighs more: a blue whale's tongue, or an elephant? Three, two, one. Another tie! A blue whale's tongue can weigh about as much as a whole elephant. Question three. When is the Eiffel Tower taller: in summer or in winter? Three, two, one. Summer! The iron expands in the heat, so the tower can grow by several centimeters. So: two ties and a growing tower. How many did you get right? Zero, one, two or all three? Tell me in the comments. Okay, next round. Which weighs more, a fluffy cloud or a hundred elephants?",
+        "plan_id": "P2026-10-09-10",
+        "shot_plan": [
+          {
+            "subject": "fluffy cloud and elephants side by side",
+            "queries": [
+              {
+                "q": "cloud elephant comparison",
+                "must": [
+                  "cloud",
+                  "elephant"
+                ]
+              },
+              {
+                "q": "fluffy cloud",
+                "must": [
+                  "cloud"
+                ]
+              },
+              {
+                "q": "elephant herd",
+                "must": [
+                  "elephant"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "countdown timer on screen",
+            "queries": [
+              {
+                "q": "countdown timer",
+                "must": [
+                  "timer"
+                ]
+              },
+              {
+                "q": "clock countdown",
+                "must": [
+                  "clock"
+                ]
+              },
+              {
+                "q": "stopwatch timer",
+                "must": [
+                  "stopwatch"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "puffy cloud with water droplets",
+            "queries": [
+              {
+                "q": "cumulus cloud rain",
+                "must": [
+                  "cloud",
+                  "rain"
+                ]
+              },
+              {
+                "q": "water droplets",
+                "must": [
+                  "water"
+                ]
+              },
+              {
+                "q": "puffy cloud",
+                "must": [
+                  "cloud"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "blue whale tongue and elephant",
+            "queries": [
+              {
+                "q": "blue whale mouth",
+                "must": [
+                  "whale"
+                ]
+              },
+              {
+                "q": "blue whale",
+                "must": [
+                  "whale"
+                ]
+              },
+              {
+                "q": "elephant head",
+                "must": [
+                  "elephant"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "blue whale breaching",
+            "queries": [
+              {
+                "q": "blue whale ocean",
+                "must": [
+                  "whale"
+                ]
+              },
+              {
+                "q": "whale breaching",
+                "must": [
+                  "whale"
+                ]
+              },
+              {
+                "q": "ocean animal",
+                "must": [
+                  "ocean"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "Eiffel Tower in summer",
+            "queries": [
+              {
+                "q": "Eiffel Tower summer",
+                "must": [
+                  "tower"
+                ]
+              },
+              {
+                "q": "Paris Eiffel Tower",
+                "must": [
+                  "tower"
+                ]
+              },
+              {
+                "q": "Eiffel Tower",
+                "must": [
+                  "tower"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "Eiffel Tower iron structure close up",
+            "queries": [
+              {
+                "q": "Eiffel Tower iron",
+                "must": [
+                  "tower"
+                ]
+              },
+              {
+                "q": "metal structure",
+                "must": [
+                  "metal"
+                ]
+              },
+              {
+                "q": "tower architecture",
+                "must": [
+                  "architecture"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "fluffy cloud and elephants",
+            "queries": [
+              {
+                "q": "cloud elephant comparison",
+                "must": [
+                  "cloud",
+                  "elephant"
+                ]
+              },
+              {
+                "q": "fluffy cloud",
+                "must": [
+                  "cloud"
+                ]
+              },
+              {
+                "q": "elephant herd",
+                "must": [
+                  "elephant"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "cloud",
+          "elephant",
+          "sky"
+        ],
+        "visual_style": "Fast-paced trivia shorts featuring high-contrast comparison shots of natural phenomena and animals with clean on-screen text overlays.",
+        "visual_refs": [
+          "How Can a Cloud Be Heavier Than 100 Elephants? (Science Explained)",
+          "&quot;100 Elephants vs 1 Cloud \u2014 Who&#39;s Heavier?&quot;",
+          "Cloud vs Elephant: Which Is Heavier? \u2601\ufe0f\ud83d\udc18 #shorts",
+          "\u2601\ufe0f The Cloud Above You Is Heavier Than 100 Elephants! \ud83e\udd2f",
+          "A Cloud Can Weigh More Than 100 Elephants \u2601\ufe0f #facts #shorts #didyouknow",
+          "How Heavy Is a Cloud? \u2601\ufe0f\ud83d\udc18 As Heavy as 100 Elephants! \ud83d\ude31 | Fun Facts for Kids #shortsfeed"
+        ],
+        "voice": "en-US-AndrewMultilingualNeural",
+        "visual_report": {
+          "shots": 17,
+          "checked": 16,
+          "unchecked": 0,
+          "filler": 1
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AndrewMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): olenchic (Pixabay) https://pixabay.com/videos/id-170063/; PIRO4D (Pixabay) https://pixabay.com/videos/id-7374/; NdumisoMvelase10 (Pixabay) https://pixabay.com/videos/id-263557/; NdumisoMvelase10 (Pixabay) https://pixabay.com/videos/id-258395/; Engin_Akyurt (Pixabay) https://pixabay.com/videos/id-263100/; gavinllo (Pixabay) https://pixabay.com/videos/id-126215/; gavinllo (Pixabay) https://pixabay.com/videos/id-126216/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-370723/; Osckar (Pixabay) https://pixabay.com/videos/id-117702/; glorydays2012pro (Pixabay) https://pixabay.com/videos/id-8133/; SAHN_VIT (Pixabay) https://pixabay.com/videos/id-21800/; Engin_Akyurt (Pixabay) https://pixabay.com/videos/id-19970/; Peggy_Marco (Pixabay) https://pixabay.com/videos/id-1532/; Pauline_17 (Pixabay) https://pixabay.com/videos/id-10715/; Jacques_Barrette (Pixabay) https://pixabay.com/videos/id-9151/; u_134iwnc6v7 (Pixabay) https://pixabay.com/videos/id-219323/"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-10",
+        "name": "2026-10-10-4-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-10",
+        "name": "2026-10-10-4-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,096 --> 00:00:02,596\nWhich weighs more a fluffy cloud or\n\n2\n00:00:02,596 --> 00:00:05,733\na hundred elephants You've got three seconds\n\n3\n00:00:05,733 --> 00:00:08,606\nThree questions three seconds each Say your\n\n4\n00:00:08,606 --> 00:00:11,130\nanswer out loud Three two one It's\n\n5\n00:00:11,130 --> 00:00:13,930\nbasically a tie A typical puffy cloud\n\n6\n00:00:13,930 --> 00:00:16,262\nholds around a million pounds of water\n\n7\n00:00:16,262 --> 00:00:18,317\nIt only floats because all that water\n\n8\n00:00:18,317 --> 00:00:20,613\nis spread out in tiny droplets over\n\n9\n00:00:20,613 --> 00:00:23,498\na huge space Question two What weighs\n\n10\n00:00:23,498 --> 00:00:26,046\nmore a blue whale's tongue or an\n\n11\n00:00:26,046 --> 00:00:29,255\nelephant Three two one Another tie A\n\n12\n00:00:29,255 --> 00:00:31,334\nblue whale's tongue can weigh about as\n\n13\n00:00:31,334 --> 00:00:34,014\nmuch as a whole elephant Question three\n\n14\n00:00:34,014 --> 00:00:36,142\nWhen is the Eiffel Tower taller in\n\n15\n00:00:36,142 --> 00:00:39,171\nsummer or in winter Three two one\n\n16\n00:00:39,171 --> 00:00:41,947\nSummer The iron expands in the heat\n\n17\n00:00:41,947 --> 00:00:43,762\nso the tower can grow by several\n\n18\n00:00:43,762 --> 00:00:46,935\ncentimeters So two ties and a growing\n\n19\n00:00:46,935 --> 00:00:49,062\ntower How many did you get right\n\n20\n00:00:49,062 --> 00:00:51,707\nZero one two or all three Tell\n\n21\n00:00:51,707 --> 00:00:54,195\nme in the comments Okay next round\n\n22\n00:00:54,195 --> 00:00:56,755\nWhich weighs more a fluffy cloud or\n\n23\n00:00:56,755 --> 00:00:58,092\na hundred elephants\n",
+      "tg_msg": 266,
+      "opts_msg": 268
     }
   },
   "history": [
@@ -7180,7 +8594,11 @@
     "The Mystery of the Vanishing Forest Path",
     "Top 5 Weirdest Ways Animals Sleep \ud83d\ude34",
     "The Great Rubber Duck Escape of 1992 \ud83e\udd86",
-    "3 School Facts That Are Actually False"
+    "3 School Facts That Are Actually False",
+    "5 Peppers That Make Jalape\u00f1os Look Mild",
+    "Top 5 Funniest Real Sports on Earth",
+    "The Cave Found by 4 Teenagers in 1940",
+    "A Cloud vs 100 Elephants: Which Is Heavier?"
   ],
   "trend_tries": {
     "2026-10-08": {
@@ -7198,14 +8616,14 @@
   },
   "cleanup_day": "2026-10-10",
   "recent_voices": [
-    "en-US-BrianMultilingualNeural",
-    "en-US-AvaMultilingualNeural",
+    "en-US-EmmaMultilingualNeural",
     "en-US-AndrewMultilingualNeural",
-    "en-US-BrianMultilingualNeural",
-    "en-US-EmmaMultilingualNeural"
+    "en-AU-WilliamMultilingualNeural",
+    "en-US-EmmaMultilingualNeural",
+    "en-US-AndrewMultilingualNeural"
   ],
   "visual_searches": {
-    "2026-10-09": 4
+    "2026-10-10": 4
   },
   "signals_day": "2026-10-10"
 }
