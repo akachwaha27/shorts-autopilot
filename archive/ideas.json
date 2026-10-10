@@ -494,5 +494,78 @@
   ],
   "sent_at": "2026-10-09T14:52:29.922247+00:00",
   "status": "closed"
+ },
+ "2026-10-10": {
+  "date": "2026-10-10",
+  "ideas": [
+   {
+    "angle": "Food and eating challenges are all over today's outliers (UNO food and bite challenge, Pasta challenge, 40 MOMO), and a countdown with a giant-number payoff (2.7 million) keeps people to number one.",
+    "format": "ranking",
+    "picked": false,
+    "rank": 1,
+    "title": "5 Peppers That Make Jalapeños Look Mild",
+    "trend_source": "Hostel girls- Pasta challenge! (2.0x); UNO FOOD AND BITE CHALLENGE; 40 MOMO (The List)",
+    "video_id": null,
+    "virality_score": 8,
+    "why": ""
+   },
+   {
+    "angle": "Light, kind comedy dominates today's breakouts (snake-scare short at 166x, Macarena challenge at 55x), and silly-but-true sports deliver that laugh with real facts and an easy 'which would you win' comment prompt.",
+    "format": "funny",
+    "picked": false,
+    "rank": 2,
+    "title": "Top 5 Funniest Real Sports on Earth",
+    "trend_source": "She Wasn't Scared… Until She Saw the SNAKE (166x); She's STILL Dancing Macarena (55.5x); Bid for Island Survival",
+    "video_id": null,
+    "virality_score": 8,
+    "why": ""
+   },
+   {
+    "angle": "'How was this actually done/found?' curiosity is driving one of today's top outliers (How Was This Scene Actually Shot? at 41x), and a real discovery story with kids, a dog and a secret cave fits that hook for a family audience.",
+    "format": "story",
+    "picked": false,
+    "rank": 3,
+    "title": "The Cave Found by 4 Teenagers in 1940",
+    "trend_source": "How Was This Koyla Scene Actually Shot? (41.2x, The Question); Tudo Que Dá Pra Desenhar (3.1x, drawing)",
+    "video_id": null,
+    "virality_score": 7,
+    "why": ""
+   },
+   {
+    "angle": "Choice-game Shorts are breaking out today (¿Qué eliges en Minecraft? at 3.9x, 'Si dices el mismo jugador… PIERDES!' at 2.3x), and a 3-second pick-one quiz with surprising ties keeps people answering and posting scores.",
+    "format": "quiz",
+    "picked": false,
+    "rank": 4,
+    "title": "A Cloud vs 100 Elephants: Which Is Heavier?",
+    "trend_source": "¿Qué eliges en Minecraft? (3.9x); Si dices el mismo jugador… PIERDES! (2.3x); Bid for Island Survival",
+    "video_id": null,
+    "virality_score": 8,
+    "why": ""
+   },
+   {
+    "angle": "Food and kitchen moments keep surfacing in today's outliers (Pasta challenge, UNO food challenge, maggi training at 20.7x), and a quick everyday fix with a funny goggles payoff gives viewers a reason to save and share.",
+    "format": "tips",
+    "picked": false,
+    "rank": 5,
+    "title": "3 Tricks to Cut Onions Without Crying",
+    "trend_source": "maggi khane ki trening (20.7x); Hostel girls- Pasta challenge! (2.0x)",
+    "video_id": null,
+    "virality_score": 7,
+    "why": ""
+   },
+   {
+    "angle": "'The Question' formula is behind one of today's biggest breakouts (How Was This Scene Actually Shot? at 41x), and this answers an everyday question with a surprising myth-flip that drives comments.",
+    "format": "explainer",
+    "picked": false,
+    "rank": 6,
+    "title": "Wrinkly Fingers Explained in 60 Seconds",
+    "trend_source": "How Was This Koyla Scene Actually Shot? (41.2x, The Question); Wrong Knowledge you Got for School",
+    "video_id": null,
+    "virality_score": 8,
+    "why": ""
+   }
+  ],
+  "sent_at": "2026-10-10T18:14:05.775959+00:00",
+  "status": "waiting"
  }
 }

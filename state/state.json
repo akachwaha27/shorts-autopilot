@@ -1,56 +1,6 @@
 {
   "tg_offset": 40455537,
   "batches": {
-    "2026-10-03": {
-      "topics": [
-        {
-          "title": "Top 5 Places That Are Warmer Than Your Oven",
-          "angle": "A countdown of Earth's most surprisingly scorching environments, contrasting them against everyday household appliances for scale.",
-          "format": "ranking",
-          "trend_source": "General nature & science curiosity",
-          "virality_score": 9,
-          "why": "High-retention visual comparison right at the start grabs attention, with clear scaling that drives comments debating temperatures."
-        },
-        {
-          "title": "Top 5 Everyday Objects Zoomed In 1,000x",
-          "angle": "A high-speed guessing countdown where viewers try to identify ultra-magnified household items before the reveal.",
-          "format": "ranking",
-          "trend_source": "YouTube Trending visual fascination (e.g. VisionQuest trailer breakdown style)",
-          "virality_score": 9,
-          "why": "Triggers immediate curiosity and encourages rewatches/pausing, heavily boosting completion rates."
-        },
-        {
-          "title": "3 Tech Features You Didn't Know Your Phone Had",
-          "angle": "Quick, highly practical hidden accessibility and productivity settings built straight into modern smartphones.",
-          "format": "tips",
-          "trend_source": "General tech interest",
-          "virality_score": 8,
-          "why": "Incentivizes high shares and saves, which the algorithm heavily rewards for utility-based short-form content."
-        },
-        {
-          "title": "Can You Pass This 3-Second Science Quiz?",
-          "angle": "A fast-paced trivia challenge testing common physics and natural science misconceptions with countdown timers.",
-          "format": "quiz",
-          "trend_source": "General science interest",
-          "virality_score": 8,
-          "why": "Interactive format prompts viewers to comment their scores and reply to other users, maximizing engagement metrics."
-        },
-        {
-          "title": "Why Modern Video Game Physics Are Getting Scarily Realistic",
-          "angle": "A quick explainer breaking down how game engines simulate real-world fluid dynamics and lighting in real time.",
-          "format": "explainer",
-          "trend_source": "Gaming trends (Minecraft/modding trending signals)",
-          "virality_score": 7,
-          "why": "Taps into the massive gaming audience demographic on Shorts by explaining a complex tech concept in under 45 seconds."
-        }
-      ],
-      "sent_at": "2026-10-03T15:20:58.348241+00:00",
-      "selected": [
-        0,
-        1
-      ],
-      "status": "closed"
-    },
     "2026-10-04": {
       "topics": [
         {
@@ -392,6 +342,67 @@
         3
       ],
       "status": "closed"
+    },
+    "2026-10-10": {
+      "topics": [
+        {
+          "title": "5 Peppers That Make Jalape\u00f1os Look Mild",
+          "angle": "Food and eating challenges are all over today's outliers (UNO food and bite challenge, Pasta challenge, 40 MOMO), and a countdown with a giant-number payoff (2.7 million) keeps people to number one.",
+          "format": "ranking",
+          "tone": "normal",
+          "virality_score": 8,
+          "trend_source": "Hostel girls- Pasta challenge! (2.0x); UNO FOOD AND BITE CHALLENGE; 40 MOMO (The List)",
+          "plan_id": "P2026-10-09-07"
+        },
+        {
+          "title": "Top 5 Funniest Real Sports on Earth",
+          "angle": "Light, kind comedy dominates today's breakouts (snake-scare short at 166x, Macarena challenge at 55x), and silly-but-true sports deliver that laugh with real facts and an easy 'which would you win' comment prompt.",
+          "format": "funny",
+          "tone": "funny",
+          "virality_score": 8,
+          "trend_source": "She Wasn't Scared\u2026 Until She Saw the SNAKE (166x); She's STILL Dancing Macarena (55.5x); Bid for Island Survival",
+          "plan_id": "P2026-10-09-08"
+        },
+        {
+          "title": "The Cave Found by 4 Teenagers in 1940",
+          "angle": "'How was this actually done/found?' curiosity is driving one of today's top outliers (How Was This Scene Actually Shot? at 41x), and a real discovery story with kids, a dog and a secret cave fits that hook for a family audience.",
+          "format": "story",
+          "tone": "normal",
+          "virality_score": 7,
+          "trend_source": "How Was This Koyla Scene Actually Shot? (41.2x, The Question); Tudo Que D\u00e1 Pra Desenhar (3.1x, drawing)",
+          "plan_id": "P2026-10-09-09"
+        },
+        {
+          "title": "A Cloud vs 100 Elephants: Which Is Heavier?",
+          "angle": "Choice-game Shorts are breaking out today (\u00bfQu\u00e9 eliges en Minecraft? at 3.9x, 'Si dices el mismo jugador\u2026 PIERDES!' at 2.3x), and a 3-second pick-one quiz with surprising ties keeps people answering and posting scores.",
+          "format": "quiz",
+          "tone": "normal",
+          "virality_score": 8,
+          "trend_source": "\u00bfQu\u00e9 eliges en Minecraft? (3.9x); Si dices el mismo jugador\u2026 PIERDES! (2.3x); Bid for Island Survival",
+          "plan_id": "P2026-10-09-10"
+        },
+        {
+          "title": "3 Tricks to Cut Onions Without Crying",
+          "angle": "Food and kitchen moments keep surfacing in today's outliers (Pasta challenge, UNO food challenge, maggi training at 20.7x), and a quick everyday fix with a funny goggles payoff gives viewers a reason to save and share.",
+          "format": "tips",
+          "tone": "normal",
+          "virality_score": 7,
+          "trend_source": "maggi khane ki trening (20.7x); Hostel girls- Pasta challenge! (2.0x)",
+          "plan_id": "P2026-10-09-11"
+        },
+        {
+          "title": "Wrinkly Fingers Explained in 60 Seconds",
+          "angle": "'The Question' formula is behind one of today's biggest breakouts (How Was This Scene Actually Shot? at 41x), and this answers an everyday question with a surprising myth-flip that drives comments.",
+          "format": "explainer",
+          "tone": "normal",
+          "virality_score": 8,
+          "trend_source": "How Was This Koyla Scene Actually Shot? (41.2x, The Question); Wrong Knowledge you Got for School",
+          "plan_id": "P2026-10-09-12"
+        }
+      ],
+      "sent_at": "2026-10-10T18:14:05.775959+00:00",
+      "selected": [],
+      "status": "waiting"
     }
   },
   "videos": {
@@ -7150,10 +7161,6 @@
     "3 School Facts That Are Actually False"
   ],
   "trend_tries": {
-    "2026-10-07": {
-      "n": 2,
-      "at": "2026-10-07T18:04:54.615102+00:00"
-    },
     "2026-10-08": {
       "n": 2,
       "at": "2026-10-08T18:06:17.583783+00:00"
@@ -7161,6 +7168,10 @@
     "2026-10-09": {
       "n": 1,
       "at": "2026-10-09T14:52:29.225857+00:00"
+    },
+    "2026-10-10": {
+      "n": 1,
+      "at": "2026-10-10T18:14:05.259998+00:00"
     }
   },
   "cleanup_day": "2026-10-10",
