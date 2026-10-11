@@ -90,6 +90,12 @@ KEEP_VIDEOS_DAYS = env("KEEP_VIDEOS_DAYS", 30, int)  # delete stored video files
 STATS_EVERY_HOURS = env("STATS_EVERY_HOURS", 2, float)  # refresh YouTube views/likes/comments for the dashboard
 LIBRARY_DIR = env("LIBRARY_DIR", "archive")  # permanent archive of every video + every daily idea list
 
+# --- Look of the finished video ---
+XFADE_SECONDS = env("XFADE_SECONDS", 0.25, float)     # soft crossfade between shots; 0 = hard cuts
+PROGRESS_BAR = env("PROGRESS_BAR", True, bool)       # thin bar across the top that fills as the Short plays
+PROGRESS_BAR_COLOR = env("PROGRESS_BAR_COLOR", "0xFFC107")  # Zorbly yellow
+PROGRESS_BAR_HEIGHT = env("PROGRESS_BAR_HEIGHT", 10, int)
+
 WIDTH, HEIGHT, FPS = 1080, 1920, 30
 STATE_FILE = env("STATE_FILE", "state/state.json")
 WORK_DIR = env("WORK_DIR", "work")

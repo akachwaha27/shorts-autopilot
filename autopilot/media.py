@@ -511,6 +511,36 @@ def render_scene(vis, dur, out):
     return out
 
 
+def look_graph(src, ass, total):
+    """Captions plus (optionally) a thin bar across the top that fills left to right over the whole Short.
+    Reads stream [src], writes [v]."""
+    if not config.PROGRESS_BAR or total <= 0:
+        return f"[{src}]ass={ass}[v]"
+    h = max(2, int(config.PROGRESS_BAR_HEIGHT))
+    return (f"[{src}]ass={ass}[cap];color=c={config.PROGRESS_BAR_COLOR}:s={W}x{h}:r={FPS}:d={total + 1:.2f}[bar];"
+            f"[cap][bar]overlay=x='-w+w*t/{total:.3f}':y=0:eof_action=pass[v]")
+
+
+def xfade_graph(durs, first_input=0):
+    """filter_complex chain that crossfades the parts into one stream, labelled [vx].
+
+    Each part (except the last) must be rendered XFADE_SECONDS longer than its slot. The next part
+    starts at exactly the same moment it would with a hard cut, so captions and voice stay in sync;
+    the extra tail of the previous shot is what fades out underneath it."""
+    xf = config.XFADE_SECONDS
+    norm = f"fps={FPS},format=yuv420p,setsar=1,settb=AVTB"
+    graph = [f"[{first_input + k}:v]{norm}[p{k}]" for k in range(len(durs))]
+    prev, start = "p0", 0.0
+    for k in range(1, len(durs)):
+        start += durs[k - 1]
+        d = max(0.04, min(xf, durs[k - 1] * 0.4, durs[k] * 0.4))
+        out = f"x{k}"
+        graph.append(f"[{prev}][p{k}]xfade=transition=fade:duration={d:.3f}:offset={start:.3f}[{out}]")
+        prev = out
+    graph.append(f"[{prev}]null[vx]")
+    return ";".join(graph)
+
+
 def pick_music():
     folder = "assets/music"
     tracks = [f for f in os.listdir(folder) if f.lower().endswith((".mp3", ".m4a", ".wav"))] if os.path.isdir(folder) else []
@@ -558,8 +588,8 @@ def make_clip_ranking(pkg, out_dir):
     with open(concat, "w") as f:
         f.writelines(f"file '{os.path.abspath(p)}'\n" for p in parts)
     final = os.path.join(out_dir, "final.mp4")
-    run(["ffmpeg", "-y", "-f", "concat", "-safe", "0", "-i", concat, "-vf", f"ass={ass}", "-c:v", "libx264",
-         "-preset", "medium", "-crf", "21", "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "160k", "-ar", "44100",
+    run(["ffmpeg", "-y", "-f", "concat", "-safe", "0", "-i", concat, "-filter_complex", look_graph("0:v", ass, t),
+         "-map", "[v]", "-map", "0:a", "-c:v", "libx264", "-preset", "medium", "-crf", "21", "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "160k", "-ar", "44100",
          "-movflags", "+faststart", final])
     pkg["voice"] = "none (original clip sound)"
     pkg["visual_report"] = {"shots": len(parts), "checked": len(parts), "unchecked": 0, "filler": 0}
@@ -591,6 +621,8 @@ def make_video(pkg, out_dir, recent_voices=()):
     ass = subtitles(words, scenes, bounds, hook, os.path.join(out_dir, "captions.ass"))
 
     used, credits, parts, plan = set(), [], [], source_plan()
+    slots = []  # on-screen time of each part (without the crossfade tail)
+    tail = max(0.0, config.XFADE_SECONDS)
     first_shot = {}  # scene index -> its first clean (caption-free) shot, used for the thumbnail
     report = {"shots": 0, "checked": 0, "unchecked": 0, "filler": 0, "ai": 0}
     last_good = None  # most recent on-topic shot, reused (another part of it) when a scene finds nothing
@@ -637,28 +669,48 @@ def make_video(pkg, out_dir, recent_voices=()):
                 credits.append(vis["credit"])
             report["shots"] += 1
             report["checked" if vis.get("checked") else "unchecked"] += 1 if vis["kind"] != "gradient" else 0
-            parts.append(render_scene(vis, dur / len(shots), os.path.join(out_dir, f"part{i:02d}_{k}.mp4")))
+            slots.append(dur / len(shots))
+            parts.append(render_scene(vis, slots[-1] + tail, os.path.join(out_dir, f"part{i:02d}_{k}.mp4")))
             first_shot.setdefault(i, (parts[-1], vis["kind"]))
             if vis["kind"] != "gradient" and not vis.get("offset"):
                 last_good = vis
     pkg["visual_report"] = report
 
-    concat = os.path.join(out_dir, "parts.txt")
-    with open(concat, "w") as f:
-        f.writelines(f"file '{os.path.abspath(p)}'\n" for p in parts)
-
     final = os.path.join(out_dir, "final.mp4")
     music = pick_music()
-    cmd = ["ffmpeg", "-y", "-f", "concat", "-safe", "0", "-i", concat, "-i", audio]
-    if music:
-        cmd += ["-stream_loop", "-1", "-i", music, "-filter_complex",
-                "[2:a]volume=0.10[m];[1:a][m]amix=inputs=2:duration=first:dropout_transition=0[a]",
-                "-map", "0:v", "-map", "[a]"]
-    else:
-        cmd += ["-map", "0:v", "-map", "1:a"]
-    cmd += ["-vf", f"ass={ass}", "-c:v", "libx264", "-preset", "medium", "-crf", "21", "-pix_fmt", "yuv420p",
-            "-c:a", "aac", "-b:a", "160k", "-ar", "44100", "-t", f"{total:.2f}", "-movflags", "+faststart", final]
-    run(cmd)
+    enc = ["-c:v", "libx264", "-preset", "medium", "-crf", "21", "-pix_fmt", "yuv420p",
+           "-c:a", "aac", "-b:a", "160k", "-ar", "44100", "-t", f"{total:.2f}", "-movflags", "+faststart", final]
+
+    def audio_graph(a_in):
+        if music:
+            return [f"[{a_in + 1}:a]volume=0.10[m];[{a_in}:a][m]amix=inputs=2:duration=first:dropout_transition=0[a]"]
+        return [f"[{a_in}:a]anull[a]"]
+
+    music_in = ["-stream_loop", "-1", "-i", music] if music else []
+    done = False
+    if tail > 0 and len(parts) > 1:  # one pass: crossfade the shots, captions, progress bar, voice + music
+        try:
+            cmd = ["ffmpeg", "-y"]
+            for p in parts:
+                cmd += ["-i", p]
+            cmd += ["-i", audio] + music_in
+            graph = ";".join([xfade_graph(slots), look_graph("vx", ass, total)] + audio_graph(len(parts)))
+            run(cmd + ["-filter_complex", graph, "-map", "[v]", "-map", "[a]"] + enc)
+            done = True
+        except Exception as e:  # noqa: BLE001 - never lose a video over a transition
+            print("Crossfade render failed, using hard cuts:", str(e)[-300:])
+    if not done:  # hard cuts; each part carries a crossfade tail, so trim it to its slot
+        cmd = ["ffmpeg", "-y"]
+        for p in parts:
+            cmd += ["-i", p]
+        cmd += ["-i", audio] + music_in
+        norm = f"fps={FPS},format=yuv420p,setsar=1"
+        edges = [round(sum(slots[:k]) * FPS) for k in range(len(slots) + 1)]  # whole frames, no drift
+        cut = ";".join([f"[{k}:v]{norm},trim=end_frame={max(1, edges[k + 1] - edges[k])},setpts=PTS-STARTPTS[c{k}]"
+                        for k in range(len(slots))]
+                       + ["".join(f"[c{k}]" for k in range(len(parts))) + f"concat=n={len(parts)}:v=1:a=0[vc]"])
+        graph = ";".join([cut, look_graph("vc", ass, total)] + audio_graph(len(parts)))
+        run(cmd + ["-filter_complex", graph, "-map", "[v]", "-map", "[a]"] + enc)
 
     srt(words, os.path.join(out_dir, "captions.srt"))
     try:

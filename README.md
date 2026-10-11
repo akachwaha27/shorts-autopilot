@@ -92,6 +92,11 @@ You don't need Meta app review, because you only post to accounts you own and yo
 3. **Draft mode (default, `TIKTOK_MODE=draft`):** each approved video lands in your TikTok inbox. Telegram sends you the caption. In the app, add a trending sound, paste the caption, turn on the AI-generated label and post. This works without TikTok's audit, and posting natively with a trending sound tends to get more reach.
 4. **Direct mode (`TIKTOK_MODE=direct`, needs the `video.publish` scope):** posts automatically, but until TikTok audits the app, posts are private-only and your account must be private. After the audit, set `TIKTOK_PRIVACY` to `PUBLIC_TO_EVERYONE`.
 
+### 7a. Live dashboard (phone or any browser)
+Open **https://akachwaha27.github.io/shorts-autopilot/dashboard.html**. It reads the repo's own files every time you open it
+(content plan with today's Ready rows, each row's status, views/likes/comments, every video, and the latest GitHub Actions runs),
+so nothing needs to sync and your PC can stay off. Tap **Refresh** to reload. GitHub caches the files for up to 5 minutes.
+
 ### 7b. Your PC folder: videos, Excel and dashboard (optional)
 The bot keeps a permanent record of every video and every daily idea list in `archive/`, and refreshes YouTube views, likes and comments every 2 hours (Variable `STATS_EVERY_HOURS`). To copy all of it to your PC:
 
@@ -147,6 +152,9 @@ Any platform you leave blank is skipped.
 | `TIKTOK_MODE` | `draft` | `draft` (finish in the TikTok app) or `direct` |
 | `TIKTOK_PRIVACY` | `SELF_ONLY` | Direct mode only; change after the TikTok audit |
 | `KEEP_VIDEOS_DAYS` | `30` | Days stored videos stay on GitHub before cleanup |
+| `XFADE_SECONDS` | `0.25` | Soft crossfade between shots. `0` = hard cuts. Voice and captions stay in sync either way |
+| `PROGRESS_BAR` | `true` | Thin bar across the top of the video that fills as it plays |
+| `PROGRESS_BAR_COLOR` | `0xFFC107` | Bar colour (hex). `PROGRESS_BAR_HEIGHT` sets its thickness in pixels (default `10`) |
 | `TARGET_SECONDS` | `60` (pinned in the workflow) | Spoken length. Scripts are rewritten until they fit and the voice pace is adjusted, so videos land at ~55-65s |
 
 ### 10. Test it
