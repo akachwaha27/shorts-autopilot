@@ -57,6 +57,10 @@ jobs:
       VISUAL_SEARCHES_PER_DAY: ${{ vars.VISUAL_SEARCHES_PER_DAY }}
       VISUAL_CHECK: ${{ vars.VISUAL_CHECK }}
       VISUAL_MIN_SCORE: ${{ vars.VISUAL_MIN_SCORE }}
+      XFADE_SECONDS: ${{ vars.XFADE_SECONDS }}
+      PROGRESS_BAR: ${{ vars.PROGRESS_BAR }}
+      PROGRESS_BAR_COLOR: ${{ vars.PROGRESS_BAR_COLOR }}
+      PROGRESS_BAR_HEIGHT: ${{ vars.PROGRESS_BAR_HEIGHT }}
       CLIPS_PER_DAY: ${{ vars.CLIPS_PER_DAY }}
       FAL_KEY: ${{ secrets.FAL_KEY }}
       FAL_VIDEO_MODEL: ${{ vars.FAL_VIDEO_MODEL }}
