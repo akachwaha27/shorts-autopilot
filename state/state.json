@@ -1,72 +1,6 @@
 {
   "tg_offset": 40455537,
   "batches": {
-    "2026-10-05": {
-      "topics": [
-        {
-          "title": "Top 5 Animals With Absolute Zero Survival Instincts",
-          "angle": "A humorous countdown of hilarious animals that somehow survive despite having zero common sense.",
-          "format": "ranking",
-          "tone": "funny",
-          "trend_source": "burmese python (invasive wildlife curiosity)",
-          "virality_score": 9,
-          "why": "Combines high-retention ranking format with laugh-out-loud relatable animal fails that drive comments and shares."
-        },
-        {
-          "title": "Top 5 Board Game Rules Everyone Completely Makes Up",
-          "angle": "A hilarious look at the house rules families invent because no one actually reads the manual.",
-          "format": "ranking",
-          "tone": "funny",
-          "trend_source": "This Card Game is Cursed / board game trends",
-          "virality_score": 9,
-          "why": "Highly relatable nostalgia that prompts viewers to tag friends in the comments, boosting the algorithm."
-        },
-        {
-          "title": "Top 5 Everyday Objects That Are Way Older Than You Think",
-          "angle": "A mind-blowing countdown of common household items invented centuries before modern technology.",
-          "format": "ranking",
-          "tone": "normal",
-          "trend_source": "RuneScape / gaming nostalgia",
-          "virality_score": 8,
-          "why": "Fascinating historical facts with a fast-paced countdown structure that encourages viewers to watch until the very end."
-        },
-        {
-          "title": "3 Tech Settings You Need to Change Immediately",
-          "angle": "Quick, actionable smartphone adjustments that instantly improve battery life and privacy.",
-          "format": "tips",
-          "tone": "normal",
-          "trend_source": "tech general interest",
-          "virality_score": 8,
-          "why": "High utility drives saves and shares, two metrics heavily rewarded by the Shorts algorithm."
-        },
-        {
-          "title": "Can You Guess the Invention? 3-Second Trivia Challenge",
-          "angle": "A fast-paced interactive quiz where viewers try to guess famous inventions from extreme close-up macro shots.",
-          "format": "quiz",
-          "tone": "normal",
-          "trend_source": "everyday objects zoomed in",
-          "virality_score": 7,
-          "why": "Interactive elements force viewers to pause and comment their answers, skyrocketing engagement signals."
-        },
-        {
-          "title": "Why Modern Buildings Are Removing Straight Lines",
-          "angle": "An engaging architectural explainer on how curved structures completely change wind resistance and energy efficiency.",
-          "format": "explainer",
-          "tone": "normal",
-          "trend_source": "science and tech general interest",
-          "virality_score": 7,
-          "why": "Visual curiosity paired with a counter-intuitive hook stops the swipe instantly."
-        }
-      ],
-      "sent_at": "2026-10-05T19:52:58.505372+00:00",
-      "selected": [
-        0,
-        1,
-        2,
-        3
-      ],
-      "status": "closed"
-    },
     "2026-10-06": {
       "topics": [
         {
@@ -430,6 +364,67 @@
       "sent_at": "2026-10-10T18:37:57.460850+00:00",
       "selected": [],
       "status": "closed"
+    },
+    "2026-10-11": {
+      "topics": [
+        {
+          "title": "Top 5 Animals That Became Real Mayors \ud83d\udc36",
+          "angle": "It pairs today's top outlier pattern (a funny, wholesome animal-and-people moment that pays off in seconds, like the 123x and 15x hummingbird Shorts) with the ranking formula the 14x 'calificando' Short used.",
+          "format": "funny",
+          "tone": "funny",
+          "virality_score": 8,
+          "trend_source": "He Removed ALL the Pink... Then She Caught Him (123.4x); When a Wild Hummingbird Trusts a Human Hand (15.0x); CALIFICANDO MEJORES BEBEDORES RAPIDOS (14.1x)",
+          "plan_id": "P2026-10-11-01"
+        },
+        {
+          "title": "How a Dog Saved the 1966 World Cup \u26bd",
+          "angle": "A short, kind animal-hero moment is the same shape as the 15x hummingbird and 123x reveal outliers: an ordinary scene that flips into something surprising in one beat.",
+          "format": "story",
+          "tone": "normal",
+          "virality_score": 8,
+          "trend_source": "When a Wild Hummingbird Trusts a Human Hand (15.0x); He Removed ALL the Pink... Then She Caught Him (123.4x)",
+          "plan_id": "P2026-10-11-02"
+        },
+        {
+          "title": "Top 5 Strangest Animal Drinking Tricks",
+          "angle": "The 15x hummingbird Short shows wild-animal close-ups are breaking out today, and the 14x ranking Short shows a countdown keeps people watching to number one.",
+          "format": "ranking",
+          "tone": "normal",
+          "virality_score": 7,
+          "trend_source": "When a Wild Hummingbird Trusts a Human Hand (15.0x); CALIFICANDO MEJORES BEBEDORES RAPIDOS (14.1x)",
+          "plan_id": "P2026-10-11-03"
+        },
+        {
+          "title": "Jack-o'-Lantern History in 60 Seconds",
+          "angle": "Halloween content is breaking out right now (the 2.2x Halloween candy Short and the 3.5x costume Short), and an origin twist gives it the same flip-the-expectation shape as today's top outliers.",
+          "format": "explainer",
+          "tone": "normal",
+          "virality_score": 7,
+          "trend_source": "ESTOS DULCES de HALLOWEEN PREDICEN EL FUTURO (2.2x); Christen Made One More ICONIC COSTUME! (3.5x)",
+          "plan_id": "P2026-10-11-04"
+        },
+        {
+          "title": "Which Is Bigger? 3-Second Size Quiz \ud83c\udf0d",
+          "angle": "Quick-answer challenge formats keep viewers to the end like the 3.7x 'Try Not to Laugh Challenge', and a 'your map is wrong' flip gives it the expectation-reversal the top outliers share.",
+          "format": "quiz",
+          "tone": "normal",
+          "virality_score": 7,
+          "trend_source": "Try Not to Laugh Challenge 248 (3.7x); He Removed ALL the Pink... Then She Caught Him (123.4x)",
+          "plan_id": "P2026-10-11-05"
+        },
+        {
+          "title": "3 Tricks to Find North When You're Lost",
+          "angle": "Practical, save-worthy Shorts hold viewers to the end, and today's outliers reward one surprising, easy-to-show payoff, here a stick that tells you east from west.",
+          "format": "tips",
+          "tone": "normal",
+          "virality_score": 6,
+          "trend_source": "This is How Polyester Buttons are Made in Indian Factories (3.5x) (show-how-it-works format)",
+          "plan_id": "P2026-10-11-06"
+        }
+      ],
+      "sent_at": "2026-10-11T18:26:49.691602+00:00",
+      "selected": [],
+      "status": "waiting"
     }
   },
   "videos": {
@@ -8340,10 +8335,6 @@
     "A Cloud vs 100 Elephants: Which Is Heavier?"
   ],
   "trend_tries": {
-    "2026-10-08": {
-      "n": 2,
-      "at": "2026-10-08T18:06:17.583783+00:00"
-    },
     "2026-10-09": {
       "n": 1,
       "at": "2026-10-09T14:52:29.225857+00:00"
@@ -8351,6 +8342,10 @@
     "2026-10-10": {
       "n": 2,
       "at": "2026-10-10T18:37:56.672071+00:00"
+    },
+    "2026-10-11": {
+      "n": 1,
+      "at": "2026-10-11T18:26:49.205656+00:00"
     }
   },
   "cleanup_day": "2026-10-11",
