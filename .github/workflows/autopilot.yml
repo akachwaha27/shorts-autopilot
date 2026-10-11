@@ -58,6 +58,11 @@ jobs:
       VISUAL_CHECK: ${{ vars.VISUAL_CHECK }}
       VISUAL_MIN_SCORE: ${{ vars.VISUAL_MIN_SCORE }}
       CLIPS_PER_DAY: ${{ vars.CLIPS_PER_DAY }}
+      FAL_KEY: ${{ secrets.FAL_KEY }}
+      FAL_VIDEO_MODEL: ${{ vars.FAL_VIDEO_MODEL }}
+      FAL_DAILY_BUDGET_USD: ${{ vars.FAL_DAILY_BUDGET_USD }}
+      FAL_MAX_CLIPS_PER_VIDEO: ${{ vars.FAL_MAX_CLIPS_PER_VIDEO }}
+      FAL_FOR_STORIES: ${{ vars.FAL_FOR_STORIES }}
       CLIP_ORIGINAL_AUDIO: ${{ vars.CLIP_ORIGINAL_AUDIO }}
       CLIP_MAX_SECONDS: ${{ vars.CLIP_MAX_SECONDS }}
       GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}

@@ -328,8 +328,12 @@ Narration for this shot: "{line}"
 The shot must clearly show: {subject}
 Images 0-{len(imgs) - 1} are preview frames of candidate clips. Score each 0-10:
 10 = clearly shows exactly that subject; 6 = clearly the right subject, generic angle; 3 = loosely related;
-0 = unrelated. Score 0 for anything with visible text, captions, watermarks, logos or brand names,
-recognizable famous people, violence or anything not family-friendly.
+0 = unrelated. A viewer must instantly connect the picture to the words being spoken - a different
+object of the same category is a 3 (e.g. green chillies when the line is about the Carolina Reaper,
+a random bird for "frigatebird"), and a cooked dish is a 3 when the line is about the raw ingredient.
+Score 0 for cartoons, mascots, costumes, illustrations or CGI (unless the narration is about those), and for
+anything with visible text, captions, watermarks, logos or brand names, recognizable famous people,
+violence or anything not family-friendly.
 Return JSON: {{"scores": [{{"image": 0, "score": 7}}]}}"""
     try:
         res = llm.ask_vision_json(prompt, imgs)
@@ -403,6 +407,7 @@ def report(pkg):
         return ""
     return (f"🎞 Footage: {r['checked']}/{r['shots']} shots checked on-topic by AI"
             + (f", {r['unchecked']} matched by tags only" if r.get("unchecked") else "")
+            + (f", {r['ai']} AI-generated (fal.ai)" if r.get("ai") else "")
             + (f", {r['filler']} scene(s) with no matching footage" if r.get("filler") else ""))
 
 

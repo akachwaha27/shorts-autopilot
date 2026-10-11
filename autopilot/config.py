@@ -57,7 +57,14 @@ VISUALS = env("VISUALS", "stock")                    # stock | ai (Cloudflare) |
 VISUAL_RESEARCH = env("VISUAL_RESEARCH", True, bool)      # look at the top Shorts on each topic before choosing footage
 VISUAL_SEARCHES_PER_DAY = env("VISUAL_SEARCHES_PER_DAY", 6, int)  # 100 YouTube quota units each; keeps uploads safe
 VISUAL_CHECK = env("VISUAL_CHECK", True, bool)            # Gemini looks at every candidate clip before it's used
-VISUAL_MIN_SCORE = env("VISUAL_MIN_SCORE", 6, float)      # 0-10: how clearly a clip must show the subject
+VISUAL_MIN_SCORE = env("VISUAL_MIN_SCORE", 7, float)      # 0-10: how clearly a clip must show the subject
+# fal.ai AI video clips (paid): used where stock footage can't show the line's subject
+FAL_KEY = env("FAL_KEY")                                   # GitHub secret; blank = never used
+FAL_VIDEO_MODEL = env("FAL_VIDEO_MODEL", "fal-ai/veo3.1/lite")  # Google Veo 3.1 Lite, 9:16, no audio
+FAL_PRICE_PER_SECOND = env("FAL_PRICE_PER_SECOND", 0.05, float)  # used for budget tracking (set a bit high)
+FAL_DAILY_BUDGET_USD = env("FAL_DAILY_BUDGET_USD", 3.0, float)   # hard stop for the day
+FAL_MAX_CLIPS_PER_VIDEO = env("FAL_MAX_CLIPS_PER_VIDEO", 6, int)
+FAL_FOR_STORIES = env("FAL_FOR_STORIES", True, bool)      # story videos: AI clips first (stock rarely fits a story)
 CLIPS_PER_DAY = env("CLIPS_PER_DAY", 0, int)             # daily "funniest animal moments" ideas (off: free stock clips are rarely truly funny)
 CLIP_MIN_FUNNY = env("CLIP_MIN_FUNNY", 5, float)         # 0-10: how funny AI must rate a clip to use it
 CLIP_ORIGINAL_AUDIO = env("CLIP_ORIGINAL_AUDIO", False, bool)  # true = clips with their own sound get no voiceover (not monetizable: reused content)

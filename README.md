@@ -221,6 +221,21 @@ That's just before the lunch, after-school/work and evening peaks. One video goe
 - **Your review:** this is your strongest protection against YouTube's "inauthentic / mass-produced content" rules. Watch previews and reply `change`, `redo` or `skip` when something feels generic. Description text says "approved by the channel owner" only when you actually approved the video.
 - **Getting into the Partner Program:** you need to reach YouTube's Partner Program thresholds (for Shorts, currently around 1,000 subscribers plus 10M Shorts views in 90 days). Always check YouTube's current requirements.
 
+## AI video clips with fal.ai (optional, paid)
+
+Stock sites can't film every line ("four teenagers find a cave in 1940", "toe wrestling"). When a scene has no
+stock clip that the AI check scores 7/10 or higher, the bot asks fal.ai (Google Veo 3.1 Lite, vertical, no audio)
+to generate a 4-8 second clip of exactly that line. Story videos use AI clips first.
+
+1. Sign up at https://fal.ai, open **Billing**, add credit (e.g. $10).
+2. **Dashboard → API Keys → Create key**, copy it.
+3. GitHub repo → Settings → Secrets and variables → Actions → **New repository secret** `FAL_KEY` → paste.
+
+Cost is roughly $0.03-0.05 per second of clip (about $0.15-0.40 per scene). Limits (GitHub Variables):
+`FAL_DAILY_BUDGET_USD` (default 3), `FAL_MAX_CLIPS_PER_VIDEO` (default 6), `FAL_FOR_STORIES` (default true),
+`FAL_VIDEO_MODEL` (default `fal-ai/veo3.1/lite`). Without `FAL_KEY` nothing changes. AI clips are credited in the
+description and uploads are flagged as altered/synthetic content.
+
 ## Telegram commands
 **Daily ideas:** tap a number or type `1,3` (add a format letter, e.g. `2s`). `/now` gets fresh ideas, `/status` lists recent videos, `/help` shows all commands.
 

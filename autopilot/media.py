@@ -206,14 +206,46 @@ def srt(words, path, max_words=7, max_chars=42):
     return path
 
 
+def _norm(w):
+    return re.sub(r"[^a-z0-9]", "", str(w).lower().replace("ñ", "n").replace("é", "e"))
+
+
 def scene_bounds(scenes, words, total):
-    """Start/end time of each scene, aligned to the actual spoken words."""
-    counts = [max(len(s["text"].split()), 1) for s in scenes]
-    tot, cum, starts = sum(counts), 0, []
-    for c in counts:
-        idx = min(int(round(cum / tot * len(words))), len(words) - 1) if words else 0
-        starts.append(0.0 if cum == 0 or not words else words[idx]["start"])
-        cum += c
+    """Start/end time of each scene, taken from the moment its first word is actually spoken.
+    Scene text and the voice's word timings are aligned token by token (difflib), so numbers, hyphens or
+    words the voice splits/merges can't push the visuals out of sync with the narration."""
+    import difflib
+    toks, owner = [], []
+    for i, s in enumerate(scenes):
+        for w in s["text"].split():
+            n = _norm(w)
+            if n:
+                toks.append(n)
+                owner.append(i)
+    spoken = [_norm(w["word"]) for w in words]
+    if not words or not toks:  # no timing data: fall back to proportional split
+        n = len(scenes)
+        return [(total * i / n, total * (i + 1) / n) for i in range(n)]
+    mapping = {}
+    for a, b, size in difflib.SequenceMatcher(None, toks, spoken, autojunk=False).get_matching_blocks():
+        for k in range(size):
+            mapping[a + k] = b + k
+    starts = []
+    for i in range(len(scenes)):
+        idxs = [k for k, o in enumerate(owner) if o == i]
+        t = None
+        for k in idxs[:6]:  # first scene word the voice actually said (allow a few unmatched words)
+            if k in mapping:
+                b = mapping[k]
+                t = words[b]["start"] - sum(1 for j in idxs if j < k) * 0.3  # back up for skipped leading words
+                break
+        if t is None:  # nothing matched: interpolate from the token position
+            pos = idxs[0] if idxs else 0
+            t = words[min(int(pos / max(len(toks), 1) * len(words)), len(words) - 1)]["start"]
+        starts.append(max(0.0, t))
+    starts[0] = 0.0
+    for i in range(1, len(starts)):  # keep order
+        starts[i] = max(starts[i], starts[i - 1] + 0.5)
     ends = starts[1:] + [total]
     return [(a, max(b, a + 0.8)) for a, b in zip(starts, ends)]
 
@@ -560,7 +592,7 @@ def make_video(pkg, out_dir, recent_voices=()):
 
     used, credits, parts, plan = set(), [], [], source_plan()
     first_shot = {}  # scene index -> its first clean (caption-free) shot, used for the thumbnail
-    report = {"shots": 0, "checked": 0, "unchecked": 0, "filler": 0}
+    report = {"shots": 0, "checked": 0, "unchecked": 0, "filler": 0, "ai": 0}
     last_good = None  # most recent on-topic shot, reused (another part of it) when a scene finds nothing
     for i, (scene, (a, b)) in enumerate(zip(scenes, bounds)):
         dur = b - a
@@ -574,8 +606,22 @@ def make_video(pkg, out_dir, recent_voices=()):
         elif config.VISUALS == "ai":
             shots = [get_visual(dict(scene), f"{i}_{k}", out_dir, used, plan) for k in range(n)]
         else:
-            from . import visuals
-            shots = visuals.pick(pkg, i, n, out_dir, used)
+            from . import aivideo, visuals
+            plan_i = (pkg.get("shot_plan") or [])[i] if i < len(pkg.get("shot_plan") or []) else {}
+            subject = plan_i.get("subject") or scene.get("text", "")[:120]
+            want_ai = aivideo.available() and report["ai"] < config.FAL_MAX_CLIPS_PER_VIDEO
+            shots = []
+            if want_ai and config.FAL_FOR_STORIES and pkg.get("format") == "story":  # stories: AI first
+                clip = aivideo.generate(aivideo.prompt_for(scene, subject, pkg.get("visual_style", "")), dur,
+                                        os.path.join(out_dir, f"ai{i}.mp4"))
+                shots = [clip] if clip else []
+            if not shots:
+                shots = visuals.pick(pkg, i, n, out_dir, used)
+            if not shots and want_ai:  # stock has nothing that shows it: generate the shot
+                clip = aivideo.generate(aivideo.prompt_for(scene, subject, pkg.get("visual_style", "")), dur,
+                                        os.path.join(out_dir, f"ai{i}.mp4"))
+                shots = [clip] if clip else []
+            report["ai"] += sum(1 for x in shots if x.get("ai"))
             if config.VISUALS == "mixed" and len(shots) > 1 and config.CF_ACCOUNT_ID and config.CF_API_TOKEN:
                 shots[1] = get_visual(dict(scene), f"{i}_1ai", out_dir, used, [])  # AI image for variety
             if not shots:  # nothing on-topic exists: AI image if available, else keep showing the last good shot
