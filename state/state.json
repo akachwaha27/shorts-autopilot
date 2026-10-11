@@ -433,355 +433,6 @@
     }
   },
   "videos": {
-    "2026-10-02-1": {
-      "topic": {
-        "title": "Why Soda Cans Explode at 30,000 Feet",
-        "angle": "Explain the science of cabin pressure physics and why carbonated beverages behave bizarrely in aircraft and deep-sea vessels.",
-        "format": "explainer",
-        "trend_source": "mountain dew pitch black",
-        "virality_score": 9,
-        "why": "High-curiosity everyday science fact with strong visual hook potential and an unexpected conclusion that drives rewatches."
-      },
-      "status": "published",
-      "by": "you",
-      "updated": "2026-10-02T18:47:00.709107+00:00",
-      "redos": 0,
-      "package": {
-        "primary_keyword": "cabin pressure physics",
-        "title": "Why Soda Cans Explode at 30,000 Feet",
-        "hook_text": "Why soda explodes in flight",
-        "thumbnail_text": "Soda Explodes!",
-        "description": "Discover cabin pressure physics and why soda cans explode at high altitudes or deep underwater.",
-        "hashtags": [
-          "#shorts",
-          "#science",
-          "#cabinpressure",
-          "#didyouknow"
-        ],
-        "tags": [
-          "cabin pressure physics",
-          "airplane cabin pressure explained",
-          "airplane cabin pressure",
-          "cabin pressure explained",
-          "altitude science",
-          "soda can explodes",
-          "carbonated beverages",
-          "deep sea pressure",
-          "gas pressure science",
-          "airplane science facts",
-          "why do soda cans explode",
-          "carbonated beverages physics",
-          "soda can blowing up",
-          "physics explained",
-          "how pressure works",
-          "science experiments",
-          "atmospheric pressure"
-        ],
-        "pinned_comment": "Have you ever had a can pop open loudly on a plane? Tell us about your messy altitude experiences below!",
-        "key_facts": [
-          "Airplane cabins are pressurized to a lower pressure than sea level, causing gas inside sealed containers to expand.",
-          "Deep-sea environments have extreme high pressure that has the opposite effect on sealed containers."
-        ],
-        "scenes": [
-          {
-            "text": "Ever wonder why your soda can feels rock solid on an airplane?",
-            "badge": "SURPRISE",
-            "label": "PRESSURE",
-            "stock_queries": [
-              "soda can airplane",
-              "opened carbonated drink"
-            ],
-            "image_prompt": "Vertical 9:16 shot of a cold soda can on an airplane tray table, cinematic lighting, no people, no text",
-            "stock_query": "soda can airplane"
-          },
-          {
-            "text": "It all comes down to cabin pressure physics at thirty thousand feet.",
-            "badge": "SCIENCE",
-            "label": "30,000 FT",
-            "stock_queries": [
-              "airplane window clouds",
-              "altitude flight view"
-            ],
-            "image_prompt": "Vertical 9:16 view from an airplane window high above white clouds, bright daylight, no text",
-            "stock_query": "airplane window clouds"
-          },
-          {
-            "text": "Planes mimic an altitude of about eight thousand feet, not sea level.",
-            "badge": "FACT",
-            "label": "8,000 FT",
-            "stock_queries": [
-              "airplane cabin interior",
-              "flight passengers blurry"
-            ],
-            "image_prompt": "Vertical 9:16 interior of a modern passenger aircraft cabin with soft overhead lighting, no faces, no text",
-            "stock_query": "airplane cabin interior"
-          },
-          {
-            "text": "That lower air pressure outside causes the trapped gas inside to expand.",
-            "badge": "PHYSICS",
-            "label": "GAS EXPANSION",
-            "stock_queries": [
-              "fizzy bubbles macro",
-              "carbonated drink fizzing"
-            ],
-            "image_prompt": "Vertical 9:16 macro shot of fast rising carbonation bubbles in a clear glass, vibrant colors, no text",
-            "stock_query": "fizzy bubbles macro"
-          },
-          {
-            "text": "The metal walls stretch, turning your drink into a ticking time bomb.",
-            "badge": "WARNING",
-            "label": "STRESS",
-            "stock_queries": [
-              "metal surface texture",
-              "cracked aluminum"
-            ],
-            "image_prompt": "Vertical 9:16 abstract close-up of brushed aluminum metal under intense studio light, no text",
-            "stock_query": "metal surface texture"
-          },
-          {
-            "text": "Deep sea vessels face the exact opposite crushing problem underwater.",
-            "badge": "EXTREME",
-            "label": "OCEAN DEPTH",
-            "stock_queries": [
-              "deep ocean blue",
-              "underwater pressure"
-            ],
-            "image_prompt": "Vertical 9:16 deep ocean water with dark blue tones and sun rays filtering down, no people, no text",
-            "stock_query": "deep ocean blue"
-          },
-          {
-            "text": "So pressure builds when you fly, which begs the ultimate question...",
-            "badge": "PUZZLE",
-            "label": "QUESTION",
-            "stock_queries": [
-              "question mark abstract",
-              "thinking concept"
-            ],
-            "image_prompt": "Vertical 9:16 minimalist abstract graphic representing curiosity and questions, deep blue background, no text",
-            "stock_query": "question mark abstract"
-          },
-          {
-            "text": "What happens to a marshmallow inside a vacuum chamber?",
-            "badge": "MYSTERY",
-            "label": "VACUUM",
-            "stock_queries": [
-              "fluffy marshmallows",
-              "science lab experiment"
-            ],
-            "image_prompt": "Vertical 9:16 studio shot of white marshmallows piled together, soft lighting, no text",
-            "stock_query": "fluffy marshmallows"
-          }
-        ],
-        "format": "explainer",
-        "category": "27",
-        "script": "Ever wonder why your soda can feels rock solid on an airplane? It all comes down to cabin pressure physics at thirty thousand feet. Planes mimic an altitude of about eight thousand feet, not sea level. That lower air pressure outside causes the trapped gas inside to expand. The metal walls stretch, turning your drink into a ticking time bomb. Deep sea vessels face the exact opposite crushing problem underwater. So pressure builds when you fly, which begs the ultimate question... What happens to a marshmallow inside a vacuum chamber?",
-        "voice": "en-GB-RyanNeural"
-      },
-      "credits": [
-        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-GB-RyanNeural).",
-        "Stock footage/photos (Pexels/Pixabay Content License): julientromeur (Pixabay) https://pixabay.com/videos/id-151705/; xBriantcx (Pixabay) https://pixabay.com/videos/id-236256/; JoshuaWoroniecki (Pixabay) https://pixabay.com/videos/id-180279/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-346439/; Hid111 (Pixabay) https://pixabay.com/videos/id-198939/; Life-Of-Vids (Pixabay) https://pixabay.com/videos/id-283/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-337332/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-331066/; FreeCreativeStuff (Pixabay) https://pixabay.com/videos/id-27494/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-281166/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-797/; _marioosh (Pixabay) https://pixabay.com/videos/id-264272/; Monoar_CGI_Artist (Pixabay) https://pixabay.com/videos/id-216420/; WhiteHatDesigner (Pixabay) https://pixabay.com/videos/id-330028/; jLasWilson (Pixabay) https://pixabay.com/videos/id-3103/; tommyvideo (Pixabay) https://pixabay.com/videos/id-5456/"
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-02",
-        "name": "2026-10-02-1-v0.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-02",
-        "name": "2026-10-02-1-v0-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,098 --> 00:00:01,775\nEver wonder why your soda can feels\n\n2\n00:00:01,775 --> 00:00:04,093\nrock solid on an airplane It all\n\n3\n00:00:04,093 --> 00:00:05,714\ncomes down to cabin pressure physics at\n\n4\n00:00:05,714 --> 00:00:08,811\nthirty thousand feet Planes mimic an altitude\n\n5\n00:00:08,811 --> 00:00:10,703\nof about eight thousand feet not sea\n\n6\n00:00:10,703 --> 00:00:13,766\nlevel That lower air pressure outside causes\n\n7\n00:00:13,766 --> 00:00:16,413\nthe trapped gas inside to expand The\n\n8\n00:00:16,413 --> 00:00:18,507\nmetal walls stretch turning your drink into\n\n9\n00:00:18,507 --> 00:00:21,187\na ticking time bomb Deep sea vessels\n\n10\n00:00:21,187 --> 00:00:24,329\nface the exact opposite crushing problem underwater\n\n11\n00:00:24,329 --> 00:00:26,075\nSo pressure builds when you fly which\n\n12\n00:00:26,075 --> 00:00:28,710\nbegs the ultimate question What happens to\n\n13\n00:00:28,710 --> 00:00:31,024\na marshmallow inside a vacuum chamber\n",
-      "tg_msg": 46,
-      "opts_msg": 48,
-      "approved_by": "you",
-      "publish_now": false,
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/x_oFEEa_ZYw",
-          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-02T18:47:00.709123+00:00",
-      "slot": "2026-10-02T19:15:00+00:00"
-    },
-    "2026-10-02-2": {
-      "topic": {
-        "title": "Top 5 Most Extreme Theme Park Rides on Giant Ships",
-        "angle": "Count down the 5 most insane engineering marvels installed on cruise ships, ranked by verifiable G-force and physical height over water.",
-        "format": "ranking",
-        "trend_source": "cruise industry",
-        "virality_score": 9,
-        "why": "Visually stunning mega-engineering topic that appeals broadly to US travel and tech fans, driving high completion rates."
-      },
-      "status": "published",
-      "by": "you",
-      "updated": "2026-10-02T18:47:09.934428+00:00",
-      "redos": 0,
-      "package": {
-        "primary_keyword": "extreme cruise ship rides",
-        "title": "Top 5 Insane Rides on Giant Ships \ud83d\udea2",
-        "hook_text": "Insane rides on giant ships",
-        "thumbnail_text": "Ocean Rollercoasters",
-        "description": "Discover the top 5 extreme cruise ship rides ranked by sheer height and G-force over the open ocean. Would you ride these engineering marvels at sea?",
-        "hashtags": [
-          "#shorts",
-          "#travel",
-          "#cruiseships",
-          "#top5"
-        ],
-        "tags": [
-          "extreme cruise ship rides",
-          "extreme cruise ship",
-          "cruise ship roller coaster",
-          "top 5 cruise ships",
-          "best cruise ship thrills",
-          "biggest water slides at sea",
-          "fastest rides on cruise ships",
-          "tallest water slides on ships",
-          "insane cruise ship activities",
-          "cruise ship engineering marvels",
-          "top 5 cruise",
-          "ship roller coasters",
-          "ship amusement parks",
-          "top 5 cruise attractions",
-          "ocean rollercoasters"
-        ],
-        "pinned_comment": "Which of these ocean thrill rides would you brave first? Let us know below!",
-        "scenes": [
-          {
-            "text": "Would you brave a roller coaster dangling two hundred feet above the ocean waves?",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "cruise ship ocean view",
-              "giant cruise ship aerial"
-            ],
-            "image_prompt": "A massive luxury cruise ship sailing on deep blue ocean waves, vertical 9:16, vibrant colors, cinematic lighting, no people.",
-            "stock_query": "cruise ship ocean view"
-          },
-          {
-            "text": "Number five, the AquaDuck water coaster. It shoots you four decks high right over the ship edge.",
-            "badge": "#5",
-            "label": "AquaDuck Coaster",
-            "stock_queries": [
-              "cruise ship waterslide",
-              "water slide tube aerial"
-            ],
-            "image_prompt": "A transparent water slide tube curving off the side of a massive cruise ship above the sea, vertical 9:16, bright daylight.",
-            "stock_query": "cruise ship waterslide"
-          },
-          {
-            "text": "At number four, the Ultimate Abyss. This terrifying dry slide plunges ten stories in seconds.",
-            "badge": "#4",
-            "label": "Ultimate Abyss",
-            "stock_queries": [
-              "dark spiral slide",
-              "futuristic metal slide"
-            ],
-            "image_prompt": "A dark glowing purple futuristic spiral slide inside a giant cruise ship atrium, vertical 9:16, moody dramatic lighting.",
-            "stock_query": "dark spiral slide"
-          },
-          {
-            "text": "Number three is the Bolt Sea Coaster. It hits thirty miles per hour with a full loop over water.",
-            "badge": "#3",
-            "label": "Bolt Sea Coaster",
-            "stock_queries": [
-              "roller coaster loop",
-              "fast roller coaster track"
-            ],
-            "image_prompt": "A high-speed motorcycle-style roller coaster track curving above the deck of a modern cruise ship, vertical 9:16, sunny day.",
-            "stock_query": "roller coaster loop"
-          },
-          {
-            "text": "At number two, the Free Fall slide drops you straight down at nearly three Gs of acceleration.",
-            "badge": "#2",
-            "label": "Free Fall Slide",
-            "stock_queries": [
-              "vertical drop slide",
-              "water park drop slide"
-            ],
-            "image_prompt": "A nearly vertical blue water slide capsule high above the ocean deck, vertical 9:16, high contrast, dramatic perspective.",
-            "stock_query": "vertical drop slide"
-          },
-          {
-            "text": "Number one is the majestic Sea Dragon Coaster, reaching record heights and speeds at sea.",
-            "badge": "#1",
-            "label": "Sea Dragon Coaster",
-            "stock_queries": [
-              "massive roller coaster",
-              "ship amusement park ride"
-            ],
-            "image_prompt": "An enormous red and white roller coaster winding across the top deck of a giant modern cruise ship, vertical 9:16, bright sunny ocean.",
-            "stock_query": "massive roller coaster"
-          },
-          {
-            "text": "These marvels prove that engineering knows no bounds, meaning you can",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "cruise ship wake trail",
-              "ocean horizon sunset"
-            ],
-            "image_prompt": "A stunning golden sunset over the ocean horizon viewed from the back of a large cruise ship, vertical 9:16, peaceful waves.",
-            "stock_query": "cruise ship wake trail"
-          }
-        ],
-        "key_facts": [
-          "AquaDuck is a water coaster on Disney Cruise Line ships.",
-          "Ultimate Abyss is a 10-story dry slide on Royal Caribbean ships.",
-          "Bolt is the first roller coaster at sea on Carnival Cruise Line.",
-          "Free Fall slides provide high vertical drops on modern cruise ships."
-        ],
-        "format": "ranking",
-        "category": "27",
-        "script": "Would you brave a roller coaster dangling two hundred feet above the ocean waves? Number five, the AquaDuck water coaster. It shoots you four decks high right over the ship edge. At number four, the Ultimate Abyss. This terrifying dry slide plunges ten stories in seconds. Number three is the Bolt Sea Coaster. It hits thirty miles per hour with a full loop over water. At number two, the Free Fall slide drops you straight down at nearly three Gs of acceleration. Number one is the majestic Sea Dragon Coaster, reaching record heights and speeds at sea. These marvels prove that engineering knows no bounds, meaning you can",
-        "voice": "en-GB-SoniaNeural"
-      },
-      "credits": [
-        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-GB-SoniaNeural).",
-        "Stock footage/photos (Pexels/Pixabay Content License): Engin_Akyurt (Pixabay) https://pixabay.com/videos/id-360429/; bellergy (Pixabay) https://pixabay.com/videos/id-2849/; bellergy (Pixabay) https://pixabay.com/videos/id-3713/; OjasweinGuptaOJG (Pixabay) https://pixabay.com/videos/id-14205/; JohannesW (Pixabay) https://pixabay.com/videos/id-6973/; PIRO4D (Pixabay) https://pixabay.com/videos/id-8349/; Activedia (Pixabay) https://pixabay.com/videos/id-1383/; DistillVideos (Pixabay) https://pixabay.com/videos/id-40/; DistillVideos (Pixabay) https://pixabay.com/videos/id-41/; Engin_Akyurt (Pixabay) https://pixabay.com/videos/id-133925/; DistillVideos (Pixabay) https://pixabay.com/videos/id-78/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-6439/; DistillVideos (Pixabay) https://pixabay.com/videos/id-44/; Pauline_17 (Pixabay) https://pixabay.com/videos/id-12181/; suniljoseph (Pixabay) https://pixabay.com/videos/id-216199/"
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-02",
-        "name": "2026-10-02-2-v0.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-02",
-        "name": "2026-10-02-2-v0-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,132 --> 00:00:02,223\nWould you brave a roller coaster dangling\n\n2\n00:00:02,223 --> 00:00:04,603\ntwo hundred feet above the ocean waves\n\n3\n00:00:04,603 --> 00:00:07,745\nNumber five the AquaDuck water coaster It\n\n4\n00:00:07,745 --> 00:00:09,626\nshoots you four decks high right over\n\n5\n00:00:09,626 --> 00:00:12,009\nthe ship edge At number four the\n\n6\n00:00:12,009 --> 00:00:15,540\nUltimate Abyss This terrifying dry slide plunges\n\n7\n00:00:15,540 --> 00:00:18,271\nten stories in seconds Number three is\n\n8\n00:00:18,271 --> 00:00:20,584\nthe Bolt Sea Coaster It hits thirty\n\n9\n00:00:20,584 --> 00:00:22,255\nmiles per hour with a full loop\n\n10\n00:00:22,255 --> 00:00:24,696\nover water At number two the Free\n\n11\n00:00:24,696 --> 00:00:26,717\nFall slide drops you straight down at\n\n12\n00:00:26,717 --> 00:00:29,626\nnearly three Gs of acceleration Number one\n\n13\n00:00:29,626 --> 00:00:32,150\nis the majestic Sea Dragon Coaster reaching\n\n14\n00:00:32,150 --> 00:00:34,673\nrecord heights and speeds at sea These\n\n15\n00:00:34,673 --> 00:00:37,500\nmarvels prove that engineering knows no bounds\n\n16\n00:00:37,500 --> 00:00:38,788\nmeaning you can\n",
-      "tg_msg": 50,
-      "opts_msg": 52,
-      "approved_by": "you",
-      "publish_now": false,
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/ULFlC_DQZFA",
-          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-02T18:47:09.934444+00:00",
-      "slot": "2026-10-02T23:15:00+00:00"
-    },
     "2026-10-02-3": {
       "topic": {
         "title": "Top 5 Deepest Ocean Trenches on Earth",
@@ -7166,9 +6817,9 @@
         "trend_source": "Hostel girls- Pasta challenge! (2.0x); UNO FOOD AND BITE CHALLENGE; 40 MOMO (The List)",
         "plan_id": "P2026-10-09-07"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "auto",
-      "updated": "2026-10-10T22:00:35.391128+00:00",
+      "updated": "2026-10-11T00:41:19.727687+00:00",
       "redos": 0,
       "package": {
         "primary_keyword": "hottest peppers ranked",
@@ -7498,7 +7149,29 @@
       },
       "srt": "1\n00:00:00,097 --> 00:00:02,269\nYou think jalape\u00f1os are hot The pepper\n\n2\n00:00:02,269 --> 00:00:03,920\nat number one is hundreds of times\n\n3\n00:00:03,920 --> 00:00:06,201\nhotter Let's count down five peppers that\n\n4\n00:00:06,201 --> 00:00:08,883\nmake a jalape\u00f1o look mild Pepper heat\n\n5\n00:00:08,883 --> 00:00:11,092\nis measured in Scoville units and a\n\n6\n00:00:11,092 --> 00:00:14,041\njalape\u00f1o is only a few thousand Number\n\n7\n00:00:14,041 --> 00:00:17,099\nfive the habanero Up to around three\n\n8\n00:00:17,099 --> 00:00:19,393\nhundred fifty thousand Already way too much\n\n9\n00:00:19,393 --> 00:00:22,184\nfor most people Number four the ghost\n\n10\n00:00:22,184 --> 00:00:24,551\npepper Around one million It was the\n\n11\n00:00:24,551 --> 00:00:27,609\nfirst pepper ever measured over a million\n\n12\n00:00:27,609 --> 00:00:31,432\nNumber three the Trinidad Moruga Scorpion Around\n\n13\n00:00:31,432 --> 00:00:33,519\none point two million with a little\n\n14\n00:00:33,519 --> 00:00:37,427\nstinger-like tail Number two the Carolina Reaper\n\n15\n00:00:37,427 --> 00:00:39,697\nAbout one point six million It held\n\n16\n00:00:39,697 --> 00:00:42,391\nthe world record for about ten years\n\n17\n00:00:42,391 --> 00:00:45,291\nNumber one Pepper X About two point\n\n18\n00:00:45,291 --> 00:00:47,633\nseven million That's the hottest pepper in\n\n19\n00:00:47,633 --> 00:00:51,299\nthe world according to Guinness Please admire\n\n20\n00:00:51,299 --> 00:00:53,580\nthese with your eyes not your mouth\n\n21\n00:00:53,580 --> 00:00:55,667\nWhat's the hottest thing you've ever eaten\n\n22\n00:00:55,667 --> 00:00:57,184\nTell me below And if you think\n\n23\n00:00:57,184 --> 00:00:58,810\njalape\u00f1os are hot\n",
       "tg_msg": 257,
-      "opts_msg": 259
+      "opts_msg": 259,
+      "approved_by": "auto",
+      "description_full": "The hottest peppers in the world ranked by Scoville heat, from the habanero to Pepper X, the hottest pepper in the world according to Guinness. Admire them, don't eat them!\n\nIn this Short: habanero, ghost pepper, Trinidad Moruga Scorpion, Carolina Reaper and Pepper X, compared with a jalape\u00f1o.\n\nSources:\nhttps://en.wikipedia.org/wiki/Hottest_chili_pepper\nhttps://en.wikipedia.org/wiki/Pepper_X\nhttps://accuweather.com/en/weather-news/guinness-world-records-declares-pepper-x-as-worlds-new-hottest-chili-pepper/1588288\n\n#shorts #peppers #spicy #top5\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AndrewMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): XiaosKitchen (Pixabay) https://pixabay.com/videos/id-11612/; hat3m (Pixabay) https://pixabay.com/photos/yellow-habanero-pepper-plant-4394115/; hat3m (Pixabay) https://pixabay.com/photos/yellow-habanero-pepper-plant-4394121/; moonbhuyan (Pixabay) https://pixabay.com/photos/chili-pepper-ghost-pepper-plant-7433965/; alvinmatt (Pixabay) https://pixabay.com/photos/plant-ghost-pepper-heat-garden-3726306/; moonbhuyan (Pixabay) https://pixabay.com/photos/chili-pepper-ghost-pepper-7425570/; igorszloch (Pixabay) https://pixabay.com/photos/spicy-peppers-habanero-red-scorpion-2043552/; FreeCreativeStuff (Pixabay) https://pixabay.com/videos/id-27530/; FreeCreativeStuff (Pixabay) https://pixabay.com/videos/id-27529/; Engin_Akyurt (Pixabay) https://pixabay.com/videos/id-61669/; julientromeur (Pixabay) https://pixabay.com/videos/id-142683/; FreeCreativeStuff (Pixabay) https://pixabay.com/videos/id-27506/; muzammil7865 (Pixabay) https://pixabay.com/videos/id-149665/; XiaosKitchen (Pixabay) https://pixabay.com/videos/id-11623/\nThe original uploader was Fir0002 at English Wikipedia . / Wikimedia Commons (CC BY 2.5) https://commons.wikimedia.org/wiki/File:Habanero_closeup_edit2.jpg\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/I7bPB2haF54",
+          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-10-11T00:41:19.727705+00:00",
+      "slot": "2026-10-11T01:15:00+00:00"
     },
     "2026-10-10-2": {
       "topic": {
@@ -7510,9 +7183,9 @@
         "trend_source": "She Wasn't Scared\u2026 Until She Saw the SNAKE (166x); She's STILL Dancing Macarena (55.5x); Bid for Island Survival",
         "plan_id": "P2026-10-09-08"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "auto",
-      "updated": "2026-10-10T22:06:52.839447+00:00",
+      "updated": "2026-10-11T00:41:27.123131+00:00",
       "redos": 0,
       "package": {
         "primary_keyword": "weird sports",
@@ -7841,7 +7514,29 @@
       },
       "srt": "1\n00:00:00,050 --> 00:00:01,717\nYou could become a world champion at\n\n2\n00:00:01,717 --> 00:00:04,168\none of these five ridiculous sports All\n\n3\n00:00:04,168 --> 00:00:06,949\nreal counting down to the silliest Number\n\n4\n00:00:06,949 --> 00:00:10,908\nfive extreme ironing Ironing clothes on mountains\n\n5\n00:00:10,908 --> 00:00:14,082\nunderwater anywhere It started in England in\n\n6\n00:00:14,082 --> 00:00:17,207\nnineteen ninety-seven Number four underwater\n\n7\n00:00:17,207 --> 00:00:19,731\nhockey Players with snorkels push a puck\n\n8\n00:00:19,731 --> 00:00:21,802\nalong the bottom of a pool Divers\n\n9\n00:00:21,802 --> 00:00:23,886\ninvented it in the nineteen-fifties to stay\n\n10\n00:00:23,886 --> 00:00:27,378\nfit in winter Number three toe wrestling\n\n11\n00:00:27,378 --> 00:00:29,131\nTwo people lock toes and try to\n\n12\n00:00:29,131 --> 00:00:31,251\npin the other foot down An English\n\n13\n00:00:31,251 --> 00:00:33,016\nvillage made it up in the seventies\n\n14\n00:00:33,016 --> 00:00:35,246\nso England could finally be world champions\n\n15\n00:00:35,246 --> 00:00:38,788\nat something Number two bog snorkeling Two\n\n16\n00:00:38,788 --> 00:00:40,614\nlengths of a muddy trench in Wales\n\n17\n00:00:40,614 --> 00:00:43,432\nwith flippers and no normal swimming strokes\n\n18\n00:00:43,432 --> 00:00:46,643\nNumber one gurning A world championship for\n\n19\n00:00:46,643 --> 00:00:48,641\npulling the funniest face at a fair\n\n20\n00:00:48,641 --> 00:00:51,055\nthat dates back to twelve sixty-seven So\n\n21\n00:00:51,055 --> 00:00:54,082\nthe silliest sport on Earth Making faces\n\n22\n00:00:54,082 --> 00:00:56,190\nfor a trophy Which one would you\n\n23\n00:00:56,190 --> 00:00:58,996\nwin Tell me below Because you could\n\n24\n00:00:58,996 --> 00:01:00,781\nbecome a world champion\n",
       "tg_msg": 260,
-      "opts_msg": 262
+      "opts_msg": 262,
+      "approved_by": "auto",
+      "description_full": "Funny, weird sports from around the world that actually exist, with real world championships: extreme ironing, underwater hockey, toe wrestling, bog snorkelling and gurning.\n\nIn this Short: 5 funny real sports counted down to the silliest, with when and where each one started.\n\nSources:\nhttps://en.wikipedia.org/wiki/Toe_wrestling\nhttps://en.wikipedia.org/wiki/Underwater_hockey\nhttps://www.guinnessworldrecords.com/world-records/758640-longest-running-gurning-world-championships\n\n#shorts #funny #sports #weirdfacts\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-AU-WilliamMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): tommyvideo (Pixabay) https://pixabay.com/videos/id-5159/; kwarteng1288 (Pixabay) https://pixabay.com/videos/id-239586/; julientromeur (Pixabay) https://pixabay.com/videos/id-33329/; RyanMcGuire (Pixabay) https://pixabay.com/photos/man-stress-male-face-adult-young-742766/; RyanMcGuire (Pixabay) https://pixabay.com/photos/man-silly-expression-funny-crazy-869215/; Deedster (Pixabay) https://pixabay.com/photos/cat-funny-silly-goofy-face-animal-2093639/; kwarteng1288 (Pixabay) https://pixabay.com/videos/id-239585/; 8385 (Pixabay) https://pixabay.com/videos/id-666/; ColorfulBackground (Pixabay) https://pixabay.com/videos/id-161887/\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/xVrAUuxdl8M",
+          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-10-11T00:41:27.123150+00:00",
+      "slot": "2026-10-11T14:15:00+00:00"
     },
     "2026-10-10-3": {
       "topic": {
@@ -7853,9 +7548,9 @@
         "trend_source": "How Was This Koyla Scene Actually Shot? (41.2x, The Question); Tudo Que D\u00e1 Pra Desenhar (3.1x, drawing)",
         "plan_id": "P2026-10-09-09"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "auto",
-      "updated": "2026-10-10T22:14:37.335217+00:00",
+      "updated": "2026-10-11T00:41:37.954674+00:00",
       "redos": 0,
       "package": {
         "primary_keyword": "lascaux cave discovery",
@@ -8188,7 +7883,29 @@
       },
       "srt": "1\n00:00:00,087 --> 00:00:01,374\nWhat would you do if you found\n\n2\n00:00:01,374 --> 00:00:03,874\na hole in the ground with seventeen-thousand-year-old\n\n3\n00:00:03,874 --> 00:00:07,376\npaintings inside In nineteen-forty four teenagers\n\n4\n00:00:07,376 --> 00:00:10,470\nin France actually did Here's what happened\n\n5\n00:00:10,470 --> 00:00:13,478\nIt's September near the village of Montignac\n\n6\n00:00:13,478 --> 00:00:16,188\nTeenager Marcel finds a hole The story\n\n7\n00:00:16,188 --> 00:00:18,614\ngoes his dog Robot led him there\n\n8\n00:00:18,614 --> 00:00:20,903\nDays later he returns with three friends\n\n9\n00:00:20,903 --> 00:00:23,094\nand a lamp They squeeze down into\n\n10\n00:00:23,094 --> 00:00:25,173\nthe dark The walls are covered in\n\n11\n00:00:25,173 --> 00:00:28,527\nhundreds of painted animals Horses bulls deer\n\n12\n00:00:28,527 --> 00:00:30,854\nin red yellow and black They'd found\n\n13\n00:00:30,854 --> 00:00:33,738\nLascaux with paintings around seventeen thousand\n\n14\n00:00:33,738 --> 00:00:37,017\nyears old Soon crowds of visitors came\n\n15\n00:00:37,017 --> 00:00:38,713\nBut all that breath and body heat\n\n16\n00:00:38,713 --> 00:00:41,696\nstarted damaging the paintings So in nineteen\n\n17\n00:00:41,696 --> 00:00:43,898\nsixty-three the cave was closed to the\n\n18\n00:00:43,898 --> 00:00:48,007\npublic Today visitors see exact replicas instead\n\n19\n00:00:48,007 --> 00:00:49,988\nFour teens one lamp and one of\n\n20\n00:00:49,988 --> 00:00:52,611\nthe greatest art discoveries ever What would\n\n21\n00:00:52,611 --> 00:00:54,913\nyou paint for people seventeen thousand years\n\n22\n00:00:54,913 --> 00:00:57,426\nfrom now Tell me below And what\n\n23\n00:00:57,426 --> 00:00:58,552\nwould you do if you found a\n\n24\n00:00:58,552 --> 00:00:59,992\nhole in the ground\n",
       "tg_msg": 263,
-      "opts_msg": 265
+      "opts_msg": 265,
+      "approved_by": "auto",
+      "description_full": "Who discovered Lascaux? In 1940, four teenagers in France found cave paintings around 17,000 years old. This is the true story of the Lascaux cave discovery, and why the real cave is closed today.\n\nIn this Short: Marcel and his dog Robot, the first look at the painted walls, and why visitors now see replicas.\n\nThis is a true story.\n\nSources:\nhttps://en.wikipedia.org/wiki/Lascaux\nhttps://www.historytoday.com/node/53687\nhttps://catherinewilsongarry.substack.com/p/four-boys-and-a-dog-called-robot\n\n#shorts #history #truestory #art #storytime\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-EmmaMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): KlausHausmann (Pixabay) https://pixabay.com/photos/stone-age-painting-wall-painting-2115388/; KlausHausmann (Pixabay) https://pixabay.com/photos/stone-age-painting-wall-painting-2115390/; janeb13 (Pixabay) https://pixabay.com/photos/bison-cave-of-altamira-1171794/; Sunriseforever (Pixabay) https://pixabay.com/photos/boy-forest-dog-pet-2944727/; Sunriseforever (Pixabay) https://pixabay.com/photos/boy-forest-dog-pet-2944728/; cocoparisienne (Pixabay) https://pixabay.com/photos/climb-climbing-sport-abseil-climber-1934252/; EstudioWebDoce (Pixabay) https://pixabay.com/photos/cave-paintings-prehistory-museum-1024963/; PDPhotos (Pixabay) https://pixabay.com/photos/cave-painting-wall-painting-usa-3699/; AttilaPergel (Pixabay) https://pixabay.com/videos/id-212638/\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/CdPtrswO4Ps",
+          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-10-11T00:41:37.954695+00:00",
+      "slot": "2026-10-11T18:15:00+00:00"
     },
     "2026-10-10-4": {
       "topic": {
@@ -8200,9 +7917,9 @@
         "trend_source": "\u00bfQu\u00e9 eliges en Minecraft? (3.9x); Si dices el mismo jugador\u2026 PIERDES! (2.3x); Bid for Island Survival",
         "plan_id": "P2026-10-09-10"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "auto",
-      "updated": "2026-10-10T22:19:37.733941+00:00",
+      "updated": "2026-10-11T00:41:45.211246+00:00",
       "redos": 0,
       "package": {
         "primary_keyword": "which weighs more",
@@ -8563,7 +8280,29 @@
       },
       "srt": "1\n00:00:00,096 --> 00:00:02,596\nWhich weighs more a fluffy cloud or\n\n2\n00:00:02,596 --> 00:00:05,733\na hundred elephants You've got three seconds\n\n3\n00:00:05,733 --> 00:00:08,606\nThree questions three seconds each Say your\n\n4\n00:00:08,606 --> 00:00:11,130\nanswer out loud Three two one It's\n\n5\n00:00:11,130 --> 00:00:13,930\nbasically a tie A typical puffy cloud\n\n6\n00:00:13,930 --> 00:00:16,262\nholds around a million pounds of water\n\n7\n00:00:16,262 --> 00:00:18,317\nIt only floats because all that water\n\n8\n00:00:18,317 --> 00:00:20,613\nis spread out in tiny droplets over\n\n9\n00:00:20,613 --> 00:00:23,498\na huge space Question two What weighs\n\n10\n00:00:23,498 --> 00:00:26,046\nmore a blue whale's tongue or an\n\n11\n00:00:26,046 --> 00:00:29,255\nelephant Three two one Another tie A\n\n12\n00:00:29,255 --> 00:00:31,334\nblue whale's tongue can weigh about as\n\n13\n00:00:31,334 --> 00:00:34,014\nmuch as a whole elephant Question three\n\n14\n00:00:34,014 --> 00:00:36,142\nWhen is the Eiffel Tower taller in\n\n15\n00:00:36,142 --> 00:00:39,171\nsummer or in winter Three two one\n\n16\n00:00:39,171 --> 00:00:41,947\nSummer The iron expands in the heat\n\n17\n00:00:41,947 --> 00:00:43,762\nso the tower can grow by several\n\n18\n00:00:43,762 --> 00:00:46,935\ncentimeters So two ties and a growing\n\n19\n00:00:46,935 --> 00:00:49,062\ntower How many did you get right\n\n20\n00:00:49,062 --> 00:00:51,707\nZero one two or all three Tell\n\n21\n00:00:51,707 --> 00:00:54,195\nme in the comments Okay next round\n\n22\n00:00:54,195 --> 00:00:56,755\nWhich weighs more a fluffy cloud or\n\n23\n00:00:56,755 --> 00:00:58,092\na hundred elephants\n",
       "tg_msg": 266,
-      "opts_msg": 268
+      "opts_msg": 268,
+      "approved_by": "auto",
+      "description_full": "How much does a cloud weigh? About as much as 100 elephants. Try this 'which weighs more' quiz with 3 tricky questions: a cloud, the weight of a blue whale tongue, and the Eiffel Tower.\n\nIn this Short: three 3-second questions, with the surprising answer and the science behind each one.\n\nSources:\nhttps://www.usgs.gov/water-science-school/science/how-much-does-a-cloud-weigh\nhttps://www.guinnessworldrecords.com/world-records/83817-heaviest-tongue\nhttps://interestingengineering.com/culture/the-eiffel-tower-grow-taller-each-summer\n\n#shorts #quiz #funfacts #trivia\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AndrewMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): olenchic (Pixabay) https://pixabay.com/videos/id-170063/; PIRO4D (Pixabay) https://pixabay.com/videos/id-7374/; NdumisoMvelase10 (Pixabay) https://pixabay.com/videos/id-263557/; NdumisoMvelase10 (Pixabay) https://pixabay.com/videos/id-258395/; Engin_Akyurt (Pixabay) https://pixabay.com/videos/id-263100/; gavinllo (Pixabay) https://pixabay.com/videos/id-126215/; gavinllo (Pixabay) https://pixabay.com/videos/id-126216/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-370723/; Osckar (Pixabay) https://pixabay.com/videos/id-117702/; glorydays2012pro (Pixabay) https://pixabay.com/videos/id-8133/; SAHN_VIT (Pixabay) https://pixabay.com/videos/id-21800/; Engin_Akyurt (Pixabay) https://pixabay.com/videos/id-19970/; Peggy_Marco (Pixabay) https://pixabay.com/videos/id-1532/; Pauline_17 (Pixabay) https://pixabay.com/videos/id-10715/; Jacques_Barrette (Pixabay) https://pixabay.com/videos/id-9151/; u_134iwnc6v7 (Pixabay) https://pixabay.com/videos/id-219323/\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/tOyKlBmNW9c",
+          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-10-11T00:41:45.211264+00:00",
+      "slot": "2026-10-11T23:15:00+00:00"
     }
   },
   "history": [
@@ -8614,7 +8353,7 @@
       "at": "2026-10-10T18:37:56.672071+00:00"
     }
   },
-  "cleanup_day": "2026-10-10",
+  "cleanup_day": "2026-10-11",
   "recent_voices": [
     "en-US-EmmaMultilingualNeural",
     "en-US-AndrewMultilingualNeural",
