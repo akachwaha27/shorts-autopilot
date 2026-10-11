@@ -1,63 +1,6 @@
 {
   "tg_offset": 40455537,
   "batches": {
-    "2026-10-06": {
-      "topics": [
-        {
-          "title": "Top 5 Animals That Suck At Hiding",
-          "angle": "Counting down the most hilariously bad camouflage attempts in the animal kingdom, proving that confidence is everything.",
-          "format": "ranking",
-          "tone": "funny",
-          "trend_source": "evergreen",
-          "virality_score": 10,
-          "why": "Combines a high-retention Top 5 countdown format with instant visual comedy that appeals to a broad audience, driving massive comments and loops."
-        },
-        {
-          "title": "Top 5 Space Events Happening This Month",
-          "angle": "A countdown of the most incredible upcoming cosmic events visible from Earth that you shouldn't miss.",
-          "format": "ranking",
-          "tone": "normal",
-          "trend_source": "crescent moon jupiter",
-          "virality_score": 9,
-          "why": "Capitalizes on active search interest in astronomy events like Jupiter and the moon while delivering high-value, visually engaging space facts."
-        },
-        {
-          "title": "Top 5 Most Absurd Smartphone Glitches Ever",
-          "angle": "A countdown of the weirdest, funniest bugs and error messages users have ever encountered on their phones.",
-          "format": "ranking",
-          "tone": "funny",
-          "trend_source": "downdetector",
-          "virality_score": 9,
-          "why": "Rides the trending wave of app outages and technical glitches with lighthearted, relatable humor that everyone who owns a phone can connect with."
-        },
-        {
-          "title": "Top 5 Historic Sports Comebacks",
-          "angle": "Counting down the most unbelievable final-minute turnarounds in sports history that shocked the world.",
-          "format": "ranking",
-          "tone": "normal",
-          "trend_source": "alabama vs georgia",
-          "virality_score": 8,
-          "why": "Taps into high-intensity sports excitement and anticipation surrounding big matchups, keeping viewers hooked until the very last second."
-        },
-        {
-          "title": "Why Do Cats Knock Things Off Tables?",
-          "angle": "Explaining the surprising evolutionary and psychological reasons behind cats' weirdest household habits.",
-          "format": "explainer",
-          "tone": "normal",
-          "trend_source": "evergreen",
-          "virality_score": 8,
-          "why": "Pet psychology is an evergreen curiosity driver that triggers immediate sharing among animal lovers and casual scrollers alike."
-        }
-      ],
-      "sent_at": "2026-10-06T17:32:58.849709+00:00",
-      "selected": [
-        0,
-        1,
-        2,
-        3
-      ],
-      "status": "closed"
-    },
     "2026-10-07": {
       "topics": [
         {
@@ -423,6 +366,67 @@
         }
       ],
       "sent_at": "2026-10-11T18:26:49.691602+00:00",
+      "selected": [],
+      "status": "waiting"
+    },
+    "2026-10-11-2": {
+      "topics": [
+        {
+          "title": "Can You Guess These 3 Impossible Optical Illusions?",
+          "angle": "A fast-paced interactive quiz challenging viewers to spot the hidden pattern before the 3-second timer runs out.",
+          "format": "quiz",
+          "tone": "normal",
+          "trend_source": "evergreen",
+          "virality_score": 9,
+          "why": "Interactive quiz formats naturally boost completion rates and force users to pause or rewatch, sending strong signals to the algorithm."
+        },
+        {
+          "title": "Top 5 Animals That Built Homes Better Than Architects",
+          "angle": "A countdown of incredible animal builders like weaver birds and beavers whose architectural feats rival human engineering.",
+          "format": "ranking",
+          "tone": "normal",
+          "trend_source": "evergreen science & nature",
+          "virality_score": 9,
+          "why": "High visual curiosity, strong retention from countdown structure, and broad general-interest appeal suitable for all ages."
+        },
+        {
+          "title": "Why Do Airplane Windows Have That Tiny Hole?",
+          "angle": "An engaging explainer breaking down the clever physics behind tiny cabin pressure relief holes in aircraft windows.",
+          "format": "explainer",
+          "tone": "normal",
+          "trend_source": "evergreen",
+          "virality_score": 8,
+          "why": "Instantly captures curiosity for anyone who has ever traveled, satisfying the human desire to understand everyday mysteries."
+        },
+        {
+          "title": "3 Hidden Wi-Fi Speed Hacks Nobody Tells You About",
+          "angle": "Quick, practical tech adjustments you can make right now to instantly optimize your home internet connection.",
+          "format": "tips",
+          "tone": "normal",
+          "trend_source": "evergreen",
+          "virality_score": 8,
+          "why": "Utility-driven content gets saved and shared heavily, creating stable long-term algorithm momentum."
+        },
+        {
+          "title": "Top 5 Worst Excuses Pets Give Without Speaking",
+          "angle": "A humorous look at the hilarious 'guilty faces' pets make when they get caught doing something they shouldn't.",
+          "format": "ranking",
+          "tone": "funny",
+          "trend_source": "evergreen animal humor",
+          "virality_score": 8,
+          "why": "Relatable humor and cute pet visuals naturally drive comments, shares, and high replay value."
+        },
+        {
+          "title": "3 Kitchen Hacks That Actually Save You 10 Hours a Week",
+          "angle": "Quick, genuinely useful time-saving tricks for food prep and kitchen cleanup that viewers can test immediately.",
+          "format": "tips",
+          "tone": "normal",
+          "trend_source": "evergreen food & how-to",
+          "virality_score": 8,
+          "why": "Practical utility drives high save rates and strong algorithmic reward for instructional content."
+        }
+      ],
+      "sent_at": "2026-10-11T18:56:58.770605+00:00",
       "selected": [],
       "status": "waiting"
     }
@@ -8344,8 +8348,8 @@
       "at": "2026-10-10T18:37:56.672071+00:00"
     },
     "2026-10-11": {
-      "n": 1,
-      "at": "2026-10-11T18:26:49.205656+00:00"
+      "n": 2,
+      "at": "2026-10-11T18:56:30.183272+00:00"
     }
   },
   "cleanup_day": "2026-10-11",

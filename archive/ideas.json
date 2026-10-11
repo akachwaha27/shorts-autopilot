@@ -713,5 +713,78 @@
   ],
   "sent_at": "2026-10-11T18:26:49.691602+00:00",
   "status": "waiting"
+ },
+ "2026-10-11-2": {
+  "date": "2026-10-11-2",
+  "ideas": [
+   {
+    "angle": "A fast-paced interactive quiz challenging viewers to spot the hidden pattern before the 3-second timer runs out.",
+    "format": "quiz",
+    "picked": false,
+    "rank": 1,
+    "title": "Can You Guess These 3 Impossible Optical Illusions?",
+    "trend_source": "evergreen",
+    "video_id": null,
+    "virality_score": 9,
+    "why": "Interactive quiz formats naturally boost completion rates and force users to pause or rewatch, sending strong signals to the algorithm."
+   },
+   {
+    "angle": "A countdown of incredible animal builders like weaver birds and beavers whose architectural feats rival human engineering.",
+    "format": "ranking",
+    "picked": false,
+    "rank": 2,
+    "title": "Top 5 Animals That Built Homes Better Than Architects",
+    "trend_source": "evergreen science & nature",
+    "video_id": null,
+    "virality_score": 9,
+    "why": "High visual curiosity, strong retention from countdown structure, and broad general-interest appeal suitable for all ages."
+   },
+   {
+    "angle": "An engaging explainer breaking down the clever physics behind tiny cabin pressure relief holes in aircraft windows.",
+    "format": "explainer",
+    "picked": false,
+    "rank": 3,
+    "title": "Why Do Airplane Windows Have That Tiny Hole?",
+    "trend_source": "evergreen",
+    "video_id": null,
+    "virality_score": 8,
+    "why": "Instantly captures curiosity for anyone who has ever traveled, satisfying the human desire to understand everyday mysteries."
+   },
+   {
+    "angle": "Quick, practical tech adjustments you can make right now to instantly optimize your home internet connection.",
+    "format": "tips",
+    "picked": false,
+    "rank": 4,
+    "title": "3 Hidden Wi-Fi Speed Hacks Nobody Tells You About",
+    "trend_source": "evergreen",
+    "video_id": null,
+    "virality_score": 8,
+    "why": "Utility-driven content gets saved and shared heavily, creating stable long-term algorithm momentum."
+   },
+   {
+    "angle": "A humorous look at the hilarious 'guilty faces' pets make when they get caught doing something they shouldn't.",
+    "format": "ranking",
+    "picked": false,
+    "rank": 5,
+    "title": "Top 5 Worst Excuses Pets Give Without Speaking",
+    "trend_source": "evergreen animal humor",
+    "video_id": null,
+    "virality_score": 8,
+    "why": "Relatable humor and cute pet visuals naturally drive comments, shares, and high replay value."
+   },
+   {
+    "angle": "Quick, genuinely useful time-saving tricks for food prep and kitchen cleanup that viewers can test immediately.",
+    "format": "tips",
+    "picked": false,
+    "rank": 6,
+    "title": "3 Kitchen Hacks That Actually Save You 10 Hours a Week",
+    "trend_source": "evergreen food & how-to",
+    "video_id": null,
+    "virality_score": 8,
+    "why": "Practical utility drives high save rates and strong algorithmic reward for instructional content."
+   }
+  ],
+  "sent_at": "2026-10-11T18:56:58.770605+00:00",
+  "status": "waiting"
  }
 }
