@@ -437,705 +437,6 @@
     }
   },
   "videos": {
-    "2026-10-02-3": {
-      "topic": {
-        "title": "Top 5 Deepest Ocean Trenches on Earth",
-        "angle": "Count down the 5 deepest spots in the world's oceans ranked precisely by measured depth in meters, featuring bizarre physical pressure facts.",
-        "format": "ranking",
-        "trend_source": "evergreen",
-        "virality_score": 8,
-        "why": "Deep-sea nature and ocean mystery content consistently hits massive swipe-through and retention metrics on US Shorts."
-      },
-      "status": "published",
-      "by": "you",
-      "updated": "2026-10-02T18:47:17.267371+00:00",
-      "redos": 0,
-      "package": {
-        "primary_keyword": "deepest ocean trenches",
-        "title": "Top 5 Deepest Ocean Trenches Ranked",
-        "hook_text": "Could you survive crushing ocean depths?",
-        "thumbnail_text": "Deepest Ocean Spots",
-        "description": "Discover the top 5 deepest ocean trenches on Earth ranked by exact measured depth in meters. Explore the bizarre pressure facts of our world's deepest underwater secrets.",
-        "hashtags": [
-          "#shorts",
-          "#ocean",
-          "#deepseafacts",
-          "#top5"
-        ],
-        "tags": [
-          "deepest ocean trenches",
-          "ocean trenches",
-          "ocean trenches ranked",
-          "mariana trench depth",
-          "deepest spot on earth",
-          "deepest place on earth",
-          "deepest ocean depth explored",
-          "deepest point mariana trench",
-          "deepest ocean trench in the world",
-          "deepest trench",
-          "ocean trenches explained",
-          "deepest trench in the world",
-          "deepest ocean spots",
-          "ocean pressure facts",
-          "deep sea exploration",
-          "extreme ocean depths",
-          "marine biology facts",
-          "kuril kamchatka trench",
-          "tonga trench",
-          "kermadec trench"
-        ],
-        "pinned_comment": "Which of these crushing ocean depths would you dare to visit? Drop your pick below! \ud83c\udf0a",
-        "scenes": [
-          {
-            "text": "Could you survive crushing ocean depths? Let's rank the five deepest places on Earth.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "dark ocean water",
-              "deep sea abyss"
-            ],
-            "image_prompt": "Cinematic vertical 9:16 view of a dark deep ocean abyss, eerie sunrays fading out, ultra-realistic, no text",
-            "stock_query": "dark ocean water"
-          },
-          {
-            "text": "Number five is the Kuril-Kamchatka Trench, dropping a massive ten thousand five hundred forty-two meters down.",
-            "badge": "#5",
-            "label": "Kuril Trench",
-            "stock_queries": [
-              "deep ocean current",
-              "underwater blue depths"
-            ],
-            "image_prompt": "Vertical 9:16 shot of deep underwater currents in a dark trench, mysterious blue tones, high detail, no text",
-            "stock_query": "deep ocean current"
-          },
-          {
-            "text": "At number four, the Kermadec Trench reaches a staggering ten thousand eight hundred two meters.",
-            "badge": "#4",
-            "label": "Kermadec Trench",
-            "stock_queries": [
-              "deep sea trench",
-              "dark underwater canyon"
-            ],
-            "image_prompt": "Vertical 9:16 underwater canyon in the deep ocean, dramatic underwater lighting, hyper-realistic, no text",
-            "stock_query": "deep sea trench"
-          },
-          {
-            "text": "Number three is the Philippine Trench, plunging down ten thousand five hundred forty meters? Wait, ten thousand five hundred forty is number five. The Philippine Trench goes to ten thousand five hundred forty.",
-            "badge": "#3",
-            "label": "Philippine Trench",
-            "stock_queries": [
-              "deep sea trench walls",
-              "underwater abyss drop"
-            ],
-            "image_prompt": "Vertical 9:16 steep underwater trench walls covered in fine silt, dark blue depths, no text",
-            "stock_query": "deep sea trench walls"
-          },
-          {
-            "text": "At number two, the Tonga Trench plunges ten thousand eight hundred eighty-two meters into total darkness.",
-            "badge": "#2",
-            "label": "Tonga Trench",
-            "stock_queries": [
-              "pitch black ocean",
-              "deep sea pressure"
-            ],
-            "image_prompt": "Vertical 9:16 pitch black deep ocean abyss, faint bioluminescence in the distance, no text",
-            "stock_query": "pitch black ocean"
-          },
-          {
-            "text": "Number one is the Mariana Trench, hitting an unimaginable eleven thousand thirty-four meters deep where water pressure is like an elephant standing on your thumb.",
-            "badge": "#1",
-            "label": "Mariana Trench",
-            "stock_queries": [
-              "deepest ocean floor",
-              "challenger deep abyss"
-            ],
-            "image_prompt": "Vertical 9:16 extreme deep sea floor of the Mariana Trench, eerie atmosphere, highly detailed, no text",
-            "stock_query": "deepest ocean floor"
-          },
-          {
-            "text": "That extreme pressure is why could you survive crushing ocean depths?",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "deep ocean surface",
-              "blue ocean waves"
-            ],
-            "image_prompt": "Vertical 9:16 deep blue ocean surface viewed from below, rippling water and light rays, no text",
-            "stock_query": "deep ocean surface"
-          }
-        ],
-        "key_facts": [
-          "Kuril-Kamchatka Trench depth is approximately 10,542 meters.",
-          "Kermadec Trench depth is approximately 10,802 meters.",
-          "Philippine Trench depth is approximately 10,540 meters.",
-          "Tonga Trench depth is approximately 10,882 meters.",
-          "Mariana Trench depth is approximately 11,034 meters."
-        ],
-        "format": "ranking",
-        "category": "27",
-        "script": "Could you survive crushing ocean depths? Let's rank the five deepest places on Earth. Number five is the Kuril-Kamchatka Trench, dropping a massive ten thousand five hundred forty-two meters down. At number four, the Kermadec Trench reaches a staggering ten thousand eight hundred two meters. Number three is the Philippine Trench, plunging down ten thousand five hundred forty meters? Wait, ten thousand five hundred forty is number five. The Philippine Trench goes to ten thousand five hundred forty. At number two, the Tonga Trench plunges ten thousand eight hundred eighty-two meters into total darkness. Number one is the Mariana Trench, hitting an unimaginable eleven thousand thirty-four meters deep where water pressure is like an elephant standing on your thumb. That extreme pressure is why could you survive crushing ocean depths?",
-        "voice": "en-IE-ConnorNeural"
-      },
-      "credits": [
-        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-IE-ConnorNeural).",
-        "Stock footage/photos (Pexels/Pixabay Content License): Mario_Krimer (Pixabay) https://pixabay.com/videos/id-304019/; sofian7594 (Pixabay) https://pixabay.com/videos/id-349587/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-797/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-357927/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-290726/; InfinityByte (Pixabay) https://pixabay.com/videos/id-341704/; _marioosh (Pixabay) https://pixabay.com/videos/id-264272/; Relaxing_Guru (Pixabay) https://pixabay.com/videos/id-37712/; Engin_Akyurt (Pixabay) https://pixabay.com/videos/id-67358/; RoyBuri (Pixabay) https://pixabay.com/videos/id-85674/; u_mv4esujzr4 (Pixabay) https://pixabay.com/videos/id-215093/; Kanenori (Pixabay) https://pixabay.com/videos/id-212554/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-1081/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-312292/; Kaffees\u00fcchtig (Pixabay) https://pixabay.com/videos/id-262308/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-376846/; Engin_Akyurt (Pixabay) https://pixabay.com/videos/id-360429/"
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-02",
-        "name": "2026-10-02-3-v0.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-02",
-        "name": "2026-10-02-3-v0-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,098 --> 00:00:02,993\nCould you survive crushing ocean depths Let's\n\n2\n00:00:02,993 --> 00:00:05,793\nrank the five deepest places on Earth\n\n3\n00:00:05,793 --> 00:00:08,546\nNumber five is the Kuril-Kamchatka Trench dropping\n\n4\n00:00:08,546 --> 00:00:10,649\na massive ten thousand five hundred forty-two\n\n5\n00:00:10,649 --> 00:00:13,870\nmeters down At number four the Kermadec\n\n6\n00:00:13,870 --> 00:00:15,865\nTrench reaches a staggering ten thousand eight\n\n7\n00:00:15,865 --> 00:00:18,606\nhundred two meters Number three is the\n\n8\n00:00:18,606 --> 00:00:20,901\nPhilippine Trench plunging down ten thousand\n\n9\n00:00:20,901 --> 00:00:24,183\nfive hundred forty meters Wait ten thousand\n\n10\n00:00:24,183 --> 00:00:26,899\nfive hundred forty is number five The\n\n11\n00:00:26,899 --> 00:00:28,918\nPhilippine Trench goes to ten thousand five\n\n12\n00:00:28,918 --> 00:00:31,935\nhundred forty At number two the Tonga\n\n13\n00:00:31,935 --> 00:00:34,147\nTrench plunges ten thousand eight hundred eighty-two\n\n14\n00:00:34,147 --> 00:00:37,284\nmeters into total darkness Number one is\n\n15\n00:00:37,284 --> 00:00:39,675\nthe Mariana Trench hitting an unimaginable\n\n16\n00:00:39,675 --> 00:00:41,719\neleven thousand thirty-four meters deep where\n\n17\n00:00:41,719 --> 00:00:43,786\nwater pressure is like an elephant standing\n\n18\n00:00:43,786 --> 00:00:46,406\non your thumb That extreme pressure is\n\n19\n00:00:46,406 --> 00:00:48,633\nwhy could you survive crushing ocean depths\n",
-      "tg_msg": 56,
-      "opts_msg": 58,
-      "approved_by": "you",
-      "publish_now": false,
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/SzXGwV_51-4",
-          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-02T18:47:17.267387+00:00",
-      "slot": "2026-10-03T14:15:00+00:00"
-    },
-    "2026-10-03-1": {
-      "topic": {
-        "title": "Top 5 Places That Are Warmer Than Your Oven",
-        "angle": "A countdown of Earth's most surprisingly scorching environments, contrasting them against everyday household appliances for scale.",
-        "format": "ranking",
-        "trend_source": "General nature & science curiosity",
-        "virality_score": 9,
-        "why": "High-retention visual comparison right at the start grabs attention, with clear scaling that drives comments debating temperatures."
-      },
-      "status": "published",
-      "by": "you",
-      "updated": "2026-10-03T19:24:29.765908+00:00",
-      "redos": 0,
-      "package": {
-        "primary_keyword": "places hotter than an oven",
-        "title": "Top 5 Places Warmer Than Your Oven \ud83d\udd25",
-        "hook_text": "Hotter than your oven",
-        "thumbnail_text": "Hotter Than An Oven!",
-        "description": "Discover the top 5 places warmer than your oven, from scorching deserts to boiling ground. Can you guess which spot beats a kitchen appliance?",
-        "hashtags": [
-          "#shorts",
-          "#science",
-          "#earthfacts",
-          "#top5"
-        ],
-        "tags": [
-          "places hotter than an oven",
-          "death valley heat",
-          "extreme hot weather",
-          "hottest place on earth",
-          "extreme temperatures on earth",
-          "extreme temperatures",
-          "extreme temperatures around the world",
-          "earths hottest spots",
-          "hot places",
-          "natural heat",
-          "science facts",
-          "extreme earth",
-          "geography facts",
-          "weather extremes",
-          "temperature comparisons"
-        ],
-        "pinned_comment": "Would you dare to visit the number one spot on this list? Let us know below! \ud83c\udf21\ufe0f",
-        "scenes": [
-          {
-            "text": "Your kitchen oven gets hot, but Earth has spots that completely destroy it.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "kitchen oven interior",
-              "extreme desert heat wave"
-            ],
-            "image_prompt": "Vertical 9:16 cinematic shot of a glowing hot kitchen oven interior, highly detailed, no people, no text",
-            "stock_query": "kitchen oven interior"
-          },
-          {
-            "text": "Number five, Death Valley hits a sizzling fifty six degrees Celsius in the shade.",
-            "badge": "#5",
-            "label": "Death Valley",
-            "stock_queries": [
-              "death valley desert",
-              "cracked desert floor heat"
-            ],
-            "image_prompt": "Vertical 9:16 aerial shot of cracked dry desert ground under a blinding sun, shimmering heat waves, no text",
-            "stock_query": "death valley desert"
-          },
-          {
-            "text": "At number four, the Lut Desert surface reaches a massive seventy degrees.",
-            "badge": "#4",
-            "label": "Lut Desert",
-            "stock_queries": [
-              "lut desert iran",
-              "hot sand dunes"
-            ],
-            "image_prompt": "Vertical 9:16 shot of massive sand dunes in a scorching desert landscape, intense sunlight, no text",
-            "stock_query": "lut desert iran"
-          },
-          {
-            "text": "Number three, Dallol in Ethiopia bubbles away at over one hundred degrees constantly.",
-            "badge": "#3",
-            "label": "Dallol Ethiopia",
-            "stock_queries": [
-              "dallol hydrothermal field",
-              "volcanic sulfur springs"
-            ],
-            "image_prompt": "Vertical 9:16 vibrant sulfur springs with boiling mineral water and steam, colorful landscape, no text",
-            "stock_query": "dallol hydrothermal field"
-          },
-          {
-            "text": "At number two, active lava flows reach a scorching one thousand two hundred degrees.",
-            "badge": "#2",
-            "label": "Active Lava Flows",
-            "stock_queries": [
-              "flowing lava river",
-              "molten magma glow"
-            ],
-            "image_prompt": "Vertical 9:16 glowing orange molten lava flowing in a dark volcanic field, high contrast, no text",
-            "stock_query": "flowing lava river"
-          },
-          {
-            "text": "Number one, the sun's outer corona is millions of degrees, making it the ultimate heat source. Because your kitchen oven gets hot...",
-            "badge": "#1",
-            "label": "The Sun",
-            "stock_queries": [
-              "sun surface solar flare",
-              "solar corona space"
-            ],
-            "image_prompt": "Vertical 9:16 dramatic solar flare erupting from the surface of the sun, deep space background, no text",
-            "stock_query": "sun surface solar flare"
-          },
-          {
-            "text": "Which of these scorching locations would you survive in for just one minute?",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "thermometer heat wave",
-              "sunlight flare horizon"
-            ],
-            "image_prompt": "Vertical 9:16 extreme heat haze over a desolate horizon, bright sunny day, no text",
-            "stock_query": "thermometer heat wave"
-          }
-        ],
-        "key_facts": [
-          "Death Valley air temperature has reached 56.7 degrees Celsius.",
-          "The Lut Desert surface temperature has been recorded up to 70 degrees Celsius.",
-          "Active basaltic lava flows typically reach temperatures around 1,200 degrees Celsius."
-        ],
-        "format": "ranking",
-        "category": "27",
-        "script": "Your kitchen oven gets hot, but Earth has spots that completely destroy it. Number five, Death Valley hits a sizzling fifty six degrees Celsius in the shade. At number four, the Lut Desert surface reaches a massive seventy degrees. Number three, Dallol in Ethiopia bubbles away at over one hundred degrees constantly. At number two, active lava flows reach a scorching one thousand two hundred degrees. Number one, the sun's outer corona is millions of degrees, making it the ultimate heat source. Because your kitchen oven gets hot... Which of these scorching locations would you survive in for just one minute?",
-        "voice": "en-US-AriaNeural"
-      },
-      "credits": [
-        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AriaNeural).",
-        "Stock footage/photos (Pexels/Pixabay Content License): Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-1261/; antonlukin (Pixabay) https://pixabay.com/videos/id-284568/; DistillVideos (Pixabay) https://pixabay.com/videos/id-2266/; AndersonCampos (Pixabay) https://pixabay.com/videos/id-38270/; Amirirani (Pixabay) https://pixabay.com/videos/id-70872/; 23974438 (Pixabay) https://pixabay.com/videos/id-92837/; RuslanSikunov (Pixabay) https://pixabay.com/videos/id-203923/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-322939/; asifsharif (Pixabay) https://pixabay.com/videos/id-326081/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-335012/; KlausHausmann (Pixabay) https://pixabay.com/videos/id-8625/; Mario_Krimer (Pixabay) https://pixabay.com/videos/id-370864/",
-        "NASA / GSFC: \"Solar Highlights of 2016/2017: Plasma Rain\" (public domain)",
-        "NASA / GSFC: \"The Sun\u2019s Mysteriously Hot Atmosphere\" (public domain)",
-        "NASA / GSFC: \"NASA's IRIS Spots Its Largest Solar Flare\" (public domain)"
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-03",
-        "name": "2026-10-03-1-v0.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-03",
-        "name": "2026-10-03-1-v0-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,096 --> 00:00:02,068\nYour kitchen oven gets hot but Earth\n\n2\n00:00:02,068 --> 00:00:05,023\nhas spots that completely destroy it Number\n\n3\n00:00:05,023 --> 00:00:07,362\nfive Death Valley hits a sizzling fifty\n\n4\n00:00:07,362 --> 00:00:10,115\nsix degrees Celsius in the shade At\n\n5\n00:00:10,115 --> 00:00:12,420\nnumber four the Lut Desert surface reaches\n\n6\n00:00:12,420 --> 00:00:15,952\na massive seventy degrees Number three Dallol\n\n7\n00:00:15,952 --> 00:00:17,959\nin Ethiopia bubbles away at over one\n\n8\n00:00:17,959 --> 00:00:21,445\nhundred degrees constantly At number two active\n\n9\n00:00:21,445 --> 00:00:23,544\nlava flows reach a scorching one thousand\n\n10\n00:00:23,544 --> 00:00:26,709\ntwo hundred degrees Number one the sun's\n\n11\n00:00:26,709 --> 00:00:29,174\nouter corona is millions of degrees making\n\n12\n00:00:29,174 --> 00:00:31,732\nit the ultimate heat source Because your\n\n13\n00:00:31,732 --> 00:00:34,323\nkitchen oven gets hot Which of these\n\n14\n00:00:34,323 --> 00:00:36,399\nscorching locations would you survive in for\n\n15\n00:00:36,399 --> 00:00:37,648\njust one minute\n",
-      "tg_msg": 69,
-      "opts_msg": 71,
-      "approved_by": "auto",
-      "description_full": "Discover the top 5 places warmer than your oven, from scorching deserts to boiling ground. Can you guess which spot beats a kitchen appliance?\n\n#shorts #science #earthfacts #top5\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AriaNeural).\nStock footage/photos (Pexels/Pixabay Content License): Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-1261/; antonlukin (Pixabay) https://pixabay.com/videos/id-284568/; DistillVideos (Pixabay) https://pixabay.com/videos/id-2266/; AndersonCampos (Pixabay) https://pixabay.com/videos/id-38270/; Amirirani (Pixabay) https://pixabay.com/videos/id-70872/; 23974438 (Pixabay) https://pixabay.com/videos/id-92837/; RuslanSikunov (Pixabay) https://pixabay.com/videos/id-203923/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-322939/; asifsharif (Pixabay) https://pixabay.com/videos/id-326081/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-335012/; KlausHausmann (Pixabay) https://pixabay.com/videos/id-8625/; Mario_Krimer (Pixabay) https://pixabay.com/videos/id-370864/\nNASA / GSFC: \"Solar Highlights of 2016/2017: Plasma Rain\" (public domain)\nNASA / GSFC: \"The Sun\u2019s Mysteriously Hot Atmosphere\" (public domain)\nNASA / GSFC: \"NASA's IRIS Spots Its Largest Solar Flare\" (public domain)\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/AlkNprbbJys",
-          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-03T19:24:29.765927+00:00",
-      "slot": "2026-10-03T23:15:00+00:00"
-    },
-    "2026-10-03-2": {
-      "topic": {
-        "title": "Top 5 Everyday Objects Zoomed In 1,000x",
-        "angle": "A high-speed guessing countdown where viewers try to identify ultra-magnified household items before the reveal.",
-        "format": "ranking",
-        "trend_source": "YouTube Trending visual fascination (e.g. VisionQuest trailer breakdown style)",
-        "virality_score": 9,
-        "why": "Triggers immediate curiosity and encourages rewatches/pausing, heavily boosting completion rates."
-      },
-      "status": "published",
-      "by": "you",
-      "updated": "2026-10-03T19:24:38.223049+00:00",
-      "redos": 0,
-      "package": {
-        "primary_keyword": "zoomed in 1000x",
-        "title": "Top 5 Everyday Objects Zoomed In 1,000x \ud83d\udd0d",
-        "hook_text": "Can you guess this?",
-        "thumbnail_text": "What is this?!",
-        "description": "Can you guess these everyday objects zoomed in 1,000x before the reveal? Test your eyes with these extreme macro microscope challenges.",
-        "hashtags": [
-          "#shorts",
-          "#science",
-          "#microscope",
-          "#top5"
-        ],
-        "tags": [
-          "zoomed in 1000x",
-          "everyday objects",
-          "extreme macro",
-          "zoomed objects",
-          "microscope view",
-          "guess the object",
-          "macro photography",
-          "close up everyday objects",
-          "objects under microscope",
-          "things that are zoomed in",
-          "zooming in with microscope",
-          "zooming into things with a microscope",
-          "micro world",
-          "science quiz",
-          "hidden details",
-          "top 5 countdown"
-        ],
-        "pinned_comment": "Which of these zoomed in objects fooled your eyes the most? Let me know below!",
-        "scenes": [
-          {
-            "text": "Can you guess what these everyday objects are zoomed in one thousand times?",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "extreme macro lens",
-              "science microscope view"
-            ],
-            "image_prompt": "Abstract futuristic scientific microscope lens close up, vertical 9:16, highly detailed, no text, no people.",
-            "stock_query": "extreme macro lens"
-          },
-          {
-            "text": "Number five. This bumpy colorful terrain is actually a grain of table salt.",
-            "badge": "#5",
-            "label": "Table Salt",
-            "stock_queries": [
-              "salt crystals macro",
-              "white salt grains"
-            ],
-            "image_prompt": "Crystalline mineral structures under macro lens, vertical 9:16, vibrant colors, no text, no people.",
-            "stock_query": "salt crystals macro"
-          },
-          {
-            "text": "At number four. Those woven fibers belong to a standard cotton bed sheet.",
-            "badge": "#4",
-            "label": "Cotton Sheet",
-            "stock_queries": [
-              "fabric texture macro",
-              "woven cotton threads"
-            ],
-            "image_prompt": "Close up microscopic view of woven textile fibers, vertical 9:16, high detail, no text, no people.",
-            "stock_query": "fabric texture macro"
-          },
-          {
-            "text": "Number three. This metallic forest is the sharp tip of a sewing needle.",
-            "badge": "#3",
-            "label": "Sewing Needle",
-            "stock_queries": [
-              "metal texture macro",
-              "steel needle tip"
-            ],
-            "image_prompt": "Polished steel metal surface extreme close up, vertical 9:16, abstract reflections, no text, no people.",
-            "stock_query": "metal texture macro"
-          },
-          {
-            "text": "At number two. Those golden tubes are the bristles on a plastic toothbrush.",
-            "badge": "#2",
-            "label": "Toothbrush",
-            "stock_queries": [
-              "plastic bristles macro",
-              "synthetic fibers close"
-            ],
-            "image_prompt": "Colorful synthetic plastic bristles under macro lens, vertical 9:16, bright lighting, no text, no people.",
-            "stock_query": "plastic bristles macro"
-          },
-          {
-            "text": "Number one. This sticky maze is the tiny hook side of velcro tape.",
-            "badge": "#1",
-            "label": "Velcro Tape",
-            "stock_queries": [
-              "velcro hooks macro",
-              "fabric fastener close"
-            ],
-            "image_prompt": "Synthetic hook and loop fastener microscopic view, vertical 9:16, complex geometry, no text, no people.",
-            "stock_query": "velcro hooks macro"
-          },
-          {
-            "text": "Did you guess them right? Let me know, because",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "magnifying glass close",
-              "scientific discovery"
-            ],
-            "image_prompt": "Glowing scientific laboratory background, vertical 9:16, futuristic aesthetic, no text, no people.",
-            "stock_query": "magnifying glass close"
-          }
-        ],
-        "key_facts": [
-          "Table salt forms cubic crystal structures visible under magnification.",
-          "Cotton bed sheets consist of tightly woven natural fibers.",
-          "Sewing needles appear blunt and rough when viewed under a microscope.",
-          "Toothbrush bristles are made of uniform extruded synthetic plastic.",
-          "Velcro uses a system of tiny molded plastic hooks."
-        ],
-        "format": "ranking",
-        "category": "27",
-        "script": "Can you guess what these everyday objects are zoomed in one thousand times? Number five. This bumpy colorful terrain is actually a grain of table salt. At number four. Those woven fibers belong to a standard cotton bed sheet. Number three. This metallic forest is the sharp tip of a sewing needle. At number two. Those golden tubes are the bristles on a plastic toothbrush. Number one. This sticky maze is the tiny hook side of velcro tape. Did you guess them right? Let me know, because",
-        "voice": "en-CA-LiamNeural"
-      },
-      "credits": [
-        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-CA-LiamNeural).",
-        "Stock footage/photos (Pexels/Pixabay Content License): Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-1083/; YRDesigns (Pixabay) https://pixabay.com/videos/id-290487/; IgorKocka (Pixabay) https://pixabay.com/videos/id-307057/; Ian5152 (Pixabay) https://pixabay.com/videos/id-275593/; StefWithAnF (Pixabay) https://pixabay.com/videos/id-48296/; tommyvideo (Pixabay) https://pixabay.com/videos/id-96066/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-340029/; DistillVideos (Pixabay) https://pixabay.com/videos/id-1111/; RoyBuri (Pixabay) https://pixabay.com/videos/id-85656/; Yaochenglei (Pixabay) https://pixabay.com/videos/id-117924/; Danil_Shostak (Pixabay) https://pixabay.com/videos/id-34855/; motionstock (Pixabay) https://pixabay.com/videos/id-111667/; tommyvideo (Pixabay) https://pixabay.com/videos/id-5393/; tommyvideo (Pixabay) https://pixabay.com/videos/id-5456/"
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-03",
-        "name": "2026-10-03-2-v0.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-03",
-        "name": "2026-10-03-2-v0-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,096 --> 00:00:01,751\nCan you guess what these everyday objects\n\n2\n00:00:01,751 --> 00:00:04,363\nare zoomed in one thousand times Number\n\n3\n00:00:04,363 --> 00:00:07,419\nfive This bumpy colorful terrain is actually\n\n4\n00:00:07,419 --> 00:00:09,768\na grain of table salt At number\n\n5\n00:00:09,768 --> 00:00:12,546\nfour Those woven fibers belong to a\n\n6\n00:00:12,546 --> 00:00:16,319\nstandard cotton bed sheet Number three This\n\n7\n00:00:16,319 --> 00:00:17,847\nmetallic forest is the sharp tip of\n\n8\n00:00:17,847 --> 00:00:21,181\na sewing needle At number two Those\n\n9\n00:00:21,181 --> 00:00:22,523\ngolden tubes are the bristles on a\n\n10\n00:00:22,523 --> 00:00:26,493\nplastic toothbrush Number one This sticky maze\n\n11\n00:00:26,493 --> 00:00:27,940\nis the tiny hook side of velcro\n\n12\n00:00:27,940 --> 00:00:30,972\ntape Did you guess them right Let\n\n13\n00:00:30,972 --> 00:00:32,391\nme know because\n",
-      "tg_msg": 72,
-      "opts_msg": 74,
-      "approved_by": "auto",
-      "description_full": "Can you guess these everyday objects zoomed in 1,000x before the reveal? Test your eyes with these extreme macro microscope challenges.\n\n#shorts #science #microscope #top5\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-CA-LiamNeural).\nStock footage/photos (Pexels/Pixabay Content License): Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-1083/; YRDesigns (Pixabay) https://pixabay.com/videos/id-290487/; IgorKocka (Pixabay) https://pixabay.com/videos/id-307057/; Ian5152 (Pixabay) https://pixabay.com/videos/id-275593/; StefWithAnF (Pixabay) https://pixabay.com/videos/id-48296/; tommyvideo (Pixabay) https://pixabay.com/videos/id-96066/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-340029/; DistillVideos (Pixabay) https://pixabay.com/videos/id-1111/; RoyBuri (Pixabay) https://pixabay.com/videos/id-85656/; Yaochenglei (Pixabay) https://pixabay.com/videos/id-117924/; Danil_Shostak (Pixabay) https://pixabay.com/videos/id-34855/; motionstock (Pixabay) https://pixabay.com/videos/id-111667/; tommyvideo (Pixabay) https://pixabay.com/videos/id-5393/; tommyvideo (Pixabay) https://pixabay.com/videos/id-5456/\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/SSbnYalw2EE",
-          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-03T19:24:38.223066+00:00",
-      "slot": "2026-10-04T14:15:00+00:00"
-    },
-    "2026-10-04-1": {
-      "topic": {
-        "title": "Top 5 Unbreakable World Records That Will Never Be Broken",
-        "angle": "Counting down the most mathematically impossible sports and physical records ever set that modern athletes cannot touch.",
-        "format": "ranking",
-        "trend_source": "lane johnson",
-        "virality_score": 9,
-        "why": "Sports rankings drive immense viewer retention and debate in the comments, directly boosting algorithm distribution."
-      },
-      "status": "published",
-      "by": "you",
-      "updated": "2026-10-04T19:56:00.640717+00:00",
-      "redos": 0,
-      "package": {
-        "primary_keyword": "unbreakable world records",
-        "title": "Top 5 Unbreakable Sports World Records",
-        "hook_text": "Records nobody can break",
-        "thumbnail_text": "Never Breaking",
-        "description": "Discover the top 5 unbreakable world records in sports history that modern athletes will never touch. These mathematically impossible feats stand alone forever.",
-        "hashtags": [
-          "#shorts",
-          "#sports",
-          "#worldrecords",
-          "#top5"
-        ],
-        "tags": [
-          "unbreakable world records",
-          "unbreakable world records in sports",
-          "greatest world records in sports history",
-          "greatest world records",
-          "unbreakable records in sports",
-          "world records that will never be broken",
-          "top 5 records",
-          "impossible sports moments",
-          "unbreakable records in nba",
-          "unbreakable olympic records",
-          "sports history",
-          "impossible feats",
-          "top 5 sports facts",
-          "impossible sports records",
-          "legendary records",
-          "athletic achievements"
-        ],
-        "pinned_comment": "Which of these legendary records do you think came closest to actually being broken today?",
-        "scenes": [
-          {
-            "text": "These legendary sports records are mathematically impossible to break today, making you wonder if",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "athlete running stadium",
-              "trophy glowing light"
-            ],
-            "image_prompt": "Cinematic vertical 9:16 shot of a glowing championship trophy on an empty dark stadium stage, dramatic lighting, high quality, no text.",
-            "stock_query": "athlete running stadium"
-          },
-          {
-            "text": "Number five, Cy Young's five hundred eleven career wins. Pitchers today barely reach three hundred.",
-            "badge": "#5",
-            "label": "Cy Young Wins",
-            "stock_queries": [
-              "baseball pitcher throwing",
-              "vintage baseball stadium"
-            ],
-            "image_prompt": "Vertical 9:16 shot of a vintage baseball on a pitcher mound under stadium lights, realistic, no text.",
-            "stock_query": "baseball pitcher throwing"
-          },
-          {
-            "text": "At number four, Raswan's twenty-four hour tennis match. Modern endurance limits make this totally out of reach.",
-            "badge": "#4",
-            "label": "Longest Tennis Match",
-            "stock_queries": [
-              "tennis court night",
-              "tennis racket swing"
-            ],
-            "image_prompt": "Vertical 9:16 shot of a tennis racket resting on a clay court under dramatic night floodlights, no text.",
-            "stock_query": "tennis court night"
-          },
-          {
-            "text": "Number three is Wilt Chamberlain's one hundred point game. Modern defenses trap scorers immediately now.",
-            "badge": "#3",
-            "label": "Wilt 100 Points",
-            "stock_queries": [
-              "basketball hoop net",
-              "indoor basketball court"
-            ],
-            "image_prompt": "Vertical 9:16 shot of a basketball hoop and net glowing indoors under dramatic gym lighting, no text.",
-            "stock_query": "basketball hoop net"
-          },
-          {
-            "text": "At number two, Joe DiMaggio's fifty-six game hitting streak. Pitching analytics make this mental barrier permanent.",
-            "badge": "#2",
-            "label": "Hitting Streak",
-            "stock_queries": [
-              "baseball bat resting",
-              "baseball field green"
-            ],
-            "image_prompt": "Vertical 9:16 shot of a wooden baseball bat leaning against a home plate on a bright green field, no text.",
-            "stock_query": "baseball bat resting"
-          },
-          {
-            "text": "Number one, Glenn Hall played five hundred two consecutive complete games as a hockey goalie without a mask.",
-            "badge": "#1",
-            "label": "Goalie Iron Man Streak",
-            "stock_queries": [
-              "hockey puck ice",
-              "hockey rink empty"
-            ],
-            "image_prompt": "Vertical 9:16 shot of an old fashioned hockey goalie mask resting on smooth white ice, no text.",
-            "stock_query": "hockey puck ice"
-          },
-          {
-            "text": "These legendary sports records are mathematically impossible to break today, making you wonder if",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "finish line ribbon",
-              "stadium lights glowing"
-            ],
-            "image_prompt": "Vertical 9:16 cinematic shot of a finish line tape stretching across a running track, golden hour light, no text.",
-            "stock_query": "finish line ribbon"
-          }
-        ],
-        "key_facts": [
-          "Cy Young holds the record for 511 career pitching wins.",
-          "Wilt Chamberlain scored 100 points in a single NBA game.",
-          "Joe DiMaggio had a 56-game hitting streak in baseball.",
-          "Glenn Hall played 502 consecutive complete hockey games without a mask."
-        ],
-        "format": "ranking",
-        "category": "27",
-        "script": "These legendary sports records are mathematically impossible to break today, making you wonder if Number five, Cy Young's five hundred eleven career wins. Pitchers today barely reach three hundred. At number four, Raswan's twenty-four hour tennis match. Modern endurance limits make this totally out of reach. Number three is Wilt Chamberlain's one hundred point game. Modern defenses trap scorers immediately now. At number two, Joe DiMaggio's fifty-six game hitting streak. Pitching analytics make this mental barrier permanent. Number one, Glenn Hall played five hundred two consecutive complete games as a hockey goalie without a mask. These legendary sports records are mathematically impossible to break today, making you wonder if",
-        "voice": "en-US-AndrewMultilingualNeural"
-      },
-      "credits": [
-        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AndrewMultilingualNeural).",
-        "Stock footage/photos (Pexels/Pixabay Content License): Shravan1991 (Pixabay) https://pixabay.com/videos/id-206294/; TIMETORELAXSCREENSAVER (Pixabay) https://pixabay.com/videos/id-183279/; tommyvideo (Pixabay) https://pixabay.com/videos/id-5614/; Trek_Jason (Pixabay) https://pixabay.com/videos/id-133206/; MabelAmber (Pixabay) https://pixabay.com/videos/id-27833/; akamariposa (Pixabay) https://pixabay.com/videos/id-218091/; Activedia (Pixabay) https://pixabay.com/videos/id-1687/; Kanenori (Pixabay) https://pixabay.com/videos/id-250395/; tommyvideo (Pixabay) https://pixabay.com/videos/id-5384/; tommyvideo (Pixabay) https://pixabay.com/videos/id-5368/; Yasir1120 (Pixabay) https://pixabay.com/videos/id-233390/; StuieStu (Pixabay) https://pixabay.com/videos/id-326686/; Kanenori (Pixabay) https://pixabay.com/videos/id-367164/; tommyvideo (Pixabay) https://pixabay.com/videos/id-5381/; Josh_Malic (Pixabay) https://pixabay.com/videos/id-37417/; klimkin (Pixabay) https://pixabay.com/videos/id-1860/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-6436/"
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-04",
-        "name": "2026-10-04-1-v0.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-04",
-        "name": "2026-10-04-1-v0-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,092 --> 00:00:02,546\nThese legendary sports records are mathematically\n\n2\n00:00:02,546 --> 00:00:05,264\nimpossible to break today making you wonder\n\n3\n00:00:05,264 --> 00:00:07,511\nif Number five Cy Young's five hundred\n\n4\n00:00:07,511 --> 00:00:10,700\neleven career wins Pitchers today barely reach\n\n5\n00:00:10,700 --> 00:00:13,842\nthree hundred At number four Raswan's twenty-four\n\n6\n00:00:13,842 --> 00:00:16,789\nhour tennis match Modern endurance limits make\n\n7\n00:00:16,789 --> 00:00:19,289\nthis totally out of reach Number three\n\n8\n00:00:19,289 --> 00:00:21,491\nis Wilt Chamberlain's one hundred point game\n\n9\n00:00:21,491 --> 00:00:24,713\nModern defenses trap scorers immediately now\n\n10\n00:00:24,713 --> 00:00:27,511\nAt number two Joe DiMaggio's fifty-six game\n\n11\n00:00:27,511 --> 00:00:30,103\nhitting streak Pitching analytics make this\n\n12\n00:00:30,103 --> 00:00:33,165\nmental barrier permanent Number one Glenn Hall\n\n13\n00:00:33,165 --> 00:00:35,275\nplayed five hundred two consecutive complete\n\n14\n00:00:35,275 --> 00:00:37,179\ngames as a hockey goalie without a\n\n15\n00:00:37,179 --> 00:00:40,539\nmask These legendary sports records are mathematically\n\n16\n00:00:40,539 --> 00:00:43,028\nimpossible to break today making you wonder\n\n17\n00:00:43,028 --> 00:00:43,783\nif\n",
-      "tg_msg": 85,
-      "opts_msg": 87,
-      "approved_by": "auto",
-      "description_full": "Discover the top 5 unbreakable world records in sports history that modern athletes will never touch. These mathematically impossible feats stand alone forever.\n\n#shorts #sports #worldrecords #top5\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AndrewMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): Shravan1991 (Pixabay) https://pixabay.com/videos/id-206294/; TIMETORELAXSCREENSAVER (Pixabay) https://pixabay.com/videos/id-183279/; tommyvideo (Pixabay) https://pixabay.com/videos/id-5614/; Trek_Jason (Pixabay) https://pixabay.com/videos/id-133206/; MabelAmber (Pixabay) https://pixabay.com/videos/id-27833/; akamariposa (Pixabay) https://pixabay.com/videos/id-218091/; Activedia (Pixabay) https://pixabay.com/videos/id-1687/; Kanenori (Pixabay) https://pixabay.com/videos/id-250395/; tommyvideo (Pixabay) https://pixabay.com/videos/id-5384/; tommyvideo (Pixabay) https://pixabay.com/videos/id-5368/; Yasir1120 (Pixabay) https://pixabay.com/videos/id-233390/; StuieStu (Pixabay) https://pixabay.com/videos/id-326686/; Kanenori (Pixabay) https://pixabay.com/videos/id-367164/; tommyvideo (Pixabay) https://pixabay.com/videos/id-5381/; Josh_Malic (Pixabay) https://pixabay.com/videos/id-37417/; klimkin (Pixabay) https://pixabay.com/videos/id-1860/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-6436/\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/cwTfLWYr-vs",
-          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-04T19:56:00.640732+00:00",
-      "slot": "2026-10-04T23:15:00+00:00"
-    },
     "2026-10-04-2": {
       "topic": {
         "title": "Top 5 Places on Earth Where Technology Stops Working",
@@ -8318,9 +7619,9 @@
         "trend_source": "He Removed ALL the Pink... Then She Caught Him (123.4x); When a Wild Hummingbird Trusts a Human Hand (15.0x); CALIFICANDO MEJORES BEBEDORES RAPIDOS (14.1x)",
         "plan_id": "P2026-10-11-01"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "auto",
-      "updated": "2026-10-11T22:39:49.202090+00:00",
+      "updated": "2026-10-12T01:45:27.685789+00:00",
       "redos": 0,
       "package": {
         "primary_keyword": "real animal mayors",
@@ -8683,7 +7984,29 @@
       },
       "srt": "1\n00:00:00,068 --> 00:00:01,625\nYou can't vote twice for mayor but\n\n2\n00:00:01,625 --> 00:00:03,011\nin the town at number one you\n\n3\n00:00:03,011 --> 00:00:06,334\ncan Here are five animal mayors Real\n\n4\n00:00:06,334 --> 00:00:09,568\ntowns real animals counted down Number five\n\n5\n00:00:09,568 --> 00:00:12,705\nSunol, California In nineteen eighty-one a\n\n6\n00:00:12,705 --> 00:00:15,409\ndog named Bosco beat two humans He\n\n7\n00:00:15,409 --> 00:00:17,170\nserved about thirteen years and got a\n\n8\n00:00:17,170 --> 00:00:21,034\nstatue Number four Cormorant Minnesota A fluffy\n\n9\n00:00:21,034 --> 00:00:23,330\ndog named Duke won with twelve write-in\n\n10\n00:00:23,330 --> 00:00:26,898\nvotes Then they re-elected him Twice Number\n\n11\n00:00:26,898 --> 00:00:30,545\nthree Idyllwild, California A golden retriever\n\n12\n00:00:30,545 --> 00:00:32,966\nnamed Max beat fourteen dogs and two\n\n13\n00:00:32,966 --> 00:00:36,966\ncats Number two Talkeetna, Alaska Stubbs the\n\n14\n00:00:36,966 --> 00:00:39,193\ncat was honorary mayor for almost twenty\n\n15\n00:00:39,193 --> 00:00:42,455\nyears His office The general store Number\n\n16\n00:00:42,455 --> 00:00:45,670\none Rabbit Hash, Kentucky where dogs have been\n\n17\n00:00:45,670 --> 00:00:48,648\nmayor since nineteen ninety-eight It's a fundraiser\n\n18\n00:00:48,648 --> 00:00:50,193\nand you can vote as many times\n\n19\n00:00:50,193 --> 00:00:52,523\nas you like In twenty twenty-four a\n\n20\n00:00:52,523 --> 00:00:55,193\ncoonhound named Boone won with over fourteen\n\n21\n00:00:55,193 --> 00:00:57,614\nthousand votes Five towns really picked a\n\n22\n00:00:57,614 --> 00:00:59,716\nmayor with paws Which pet would you\n\n23\n00:00:59,716 --> 00:01:01,909\nelect as mayor Just remember the golden\n\n24\n00:01:01,909 --> 00:01:04,002\nrule of animal elections\n",
       "tg_msg": 288,
-      "opts_msg": 290
+      "opts_msg": 290,
+      "approved_by": "auto",
+      "description_full": "These are real animal mayors: a dog mayor in Kentucky, a cat mayor in Alaska, and three more towns that put a pet in charge. Top 5 animal mayors in the USA, counted down.\n\nIn this Short: Bosco of Sunol, Duke of Cormorant, Max of Idyllwild, Stubbs the cat mayor of Talkeetna, and the dog mayors of Rabbit Hash, Kentucky.\n\nSources:\nhttps://en.wikipedia.org/wiki/Bosco_Ramos\nhttps://www.fox13news.com/news/a-dog-from-minnesota-was-elected-mayor\nhttps://en.wikipedia.org/wiki/Mayor_Max_II\n\n#shorts #funny #animals #dogs\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AvaMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): planet_fox (Pixabay) https://pixabay.com/photos/ballot-box-democracy-politics-poll-4933481/; fotshot (Pixabay) https://pixabay.com/photos/dog-statue-edinburgh-scotland-435167/; jelena2810 (Pixabay) https://pixabay.com/videos/id-280600/; WizArto (Pixabay) https://pixabay.com/videos/id-167957/; u_5zxqd0533a (Pixabay) https://pixabay.com/videos/id-156318/; PriismaDesign (Pixabay) https://pixabay.com/videos/id-243334/; Nick_the_Photographer (Pixabay) https://pixabay.com/videos/id-133963/; Nick_the_Photographer (Pixabay) https://pixabay.com/videos/id-133959/; livingdeadgirl (Pixabay) https://pixabay.com/photos/dog-dog-outside-senior-dog-old-dog-5239152/; Acmecanine (Pixabay) https://pixabay.com/photos/blue-tick-coonhound-dog-pet-canine-4795526/\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/WqyJkb8mjVQ",
+          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-10-12T01:45:27.685806+00:00",
+      "slot": "2026-10-12T16:15:00+00:00"
     },
     "2026-10-11-2": {
       "topic": {
@@ -8695,9 +8018,9 @@
         "trend_source": "When a Wild Hummingbird Trusts a Human Hand (15.0x); He Removed ALL the Pink... Then She Caught Him (123.4x)",
         "plan_id": "P2026-10-11-02"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "auto",
-      "updated": "2026-10-11T22:47:43.823801+00:00",
+      "updated": "2026-10-12T01:45:36.259286+00:00",
       "redos": 0,
       "package": {
         "primary_keyword": "1966 world cup stolen",
@@ -9062,7 +8385,29 @@
       },
       "srt": "1\n00:00:00,071 --> 00:00:02,060\nYou know the World Cup trophy In\n\n2\n00:00:02,060 --> 00:00:04,536\nnineteen sixty-six it was stolen but a\n\n3\n00:00:04,536 --> 00:00:06,869\ndog found it before the police did\n\n4\n00:00:06,869 --> 00:00:08,857\nHere's how a dog named Pickles saved\n\n5\n00:00:08,857 --> 00:00:13,214\nthe World Cup March nineteen sixty-six England\n\n6\n00:00:13,214 --> 00:00:15,381\nis about to host the World Cup\n\n7\n00:00:15,381 --> 00:00:17,310\nThe golden trophy is on show at\n\n8\n00:00:17,310 --> 00:00:19,976\nan exhibition in London Then one Sunday\n\n9\n00:00:19,976 --> 00:00:22,536\nit vanishes Police search and the whole\n\n10\n00:00:22,536 --> 00:00:24,738\ncountry wonders where it went About a\n\n11\n00:00:24,738 --> 00:00:26,976\nweek later a black and white collie\n\n12\n00:00:26,976 --> 00:00:29,119\nnamed Pickles is out on a walk\n\n13\n00:00:29,119 --> 00:00:30,798\nHe sniffs at a hedge and finds\n\n14\n00:00:30,798 --> 00:00:33,833\na bundle wrapped in newspaper Inside The\n\n15\n00:00:33,833 --> 00:00:36,738\nWorld Cup trophy Pickles becomes a national\n\n16\n00:00:36,738 --> 00:00:40,095\nhero overnight That summer England wins the\n\n17\n00:00:40,095 --> 00:00:42,667\ntournament and Pickles gets invited to the\n\n18\n00:00:42,667 --> 00:00:45,238\ncelebration dinner His collar and medal are\n\n19\n00:00:45,238 --> 00:00:48,204\nnow in England's National Football Museum So\n\n20\n00:00:48,204 --> 00:00:49,715\nthe World Cup was saved by a\n\n21\n00:00:49,715 --> 00:00:51,857\ndog's nose What's the best thing your\n\n22\n00:00:51,857 --> 00:00:54,072\ndog has ever found And if anyone\n\n23\n00:00:54,072 --> 00:00:56,286\nasks what a dog's nose can do\n\n24\n00:00:56,286 --> 00:00:57,520\njust say this\n",
       "tg_msg": 291,
-      "opts_msg": 293
+      "opts_msg": 293,
+      "approved_by": "auto",
+      "description_full": "In 1966 the World Cup trophy was stolen in London, and a dog named Pickles found it under a hedge. Here's how Pickles the dog saved the 1966 World Cup.\n\nIn this Short: the stolen World Cup trophy, the week-long search, and the collie who found it wrapped in newspaper.\n\nThis is a true story.\n\nSources:\nhttps://nationalfootballmuseum.com/news/thank-you-pickles-50-years-since-a-dog-saved-the-world-cup/\nhttps://historyrevealed.com/period/20th-century/jules-rimet-trophy-football-world-cup-stolen-lost-found-pickles\nhttps://www.ripleys.com/stories/pickles-world-cup\n\n#shorts #truestory #dogs #worldcup #storytime\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-BrianMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): brixiv (Pixabay) https://pixabay.com/videos/id-171030/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-327638/; Coverr-Free-Footage (Pixabay) https://pixabay.com/videos/id-3166/; selenagallag (Pixabay) https://pixabay.com/photos/medals-military-war-hero-courage-2662694/; Engin_Akyurt (Pixabay) https://pixabay.com/videos/id-57179/; AndyFaeth (Pixabay) https://pixabay.com/videos/id-45144/\nGraphique38 / Wikimedia Commons (CC BY 4.0) https://commons.wikimedia.org/wiki/File:Kanysh_Satpayev_exhibition_hall,_Ertis_Museum_Pavlodar.jpg\nAIOLIAN 2025 / Wikimedia Commons (CC0) https://commons.wikimedia.org/wiki/File:SZ_Shenzhen_Futian_Shennan_Middle_Road_Shenzhen_Museum_Ancient_Art_Museum_exhibition_hall_06_March_2025_R12S_01.jpg\nJukka Kuusisto / Wikimedia Commons (CC BY 4.0) https://commons.wikimedia.org/wiki/File:Championship_party_of_Tampereen_Pallo-Veikot_in_October_1994_(JOKAJUK2D_M-4).tif\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/qLWMWGIfHXI",
+          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-10-12T01:45:36.259300+00:00",
+      "slot": "2026-10-12T19:15:00+00:00"
     },
     "2026-10-11-3": {
       "topic": {
@@ -9074,9 +8419,9 @@
         "trend_source": "When a Wild Hummingbird Trusts a Human Hand (15.0x); CALIFICANDO MEJORES BEBEDORES RAPIDOS (14.1x)",
         "plan_id": "P2026-10-11-03"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "auto",
-      "updated": "2026-10-11T22:52:45.101408+00:00",
+      "updated": "2026-10-12T01:45:47.453321+00:00",
       "redos": 0,
       "package": {
         "primary_keyword": "how animals drink water",
@@ -9411,7 +8756,29 @@
       },
       "srt": "1\n00:00:00,050 --> 00:00:01,950\nYou'd never guess how these five animals\n\n2\n00:00:01,950 --> 00:00:04,175\ndrink but number one barely drinks at\n\n3\n00:00:04,175 --> 00:00:07,287\nall Let's count down the weirdest drinkers\n\n4\n00:00:07,287 --> 00:00:10,375\nNumber five the cat Its tongue barely\n\n5\n00:00:10,375 --> 00:00:12,338\ntouches the water It flicks up a\n\n6\n00:00:12,338 --> 00:00:14,575\ntiny column and snaps its mouth shut\n\n7\n00:00:14,575 --> 00:00:17,387\nabout four times a second Number four\n\n8\n00:00:17,387 --> 00:00:19,750\nthe dog It curls its tongue backward\n\n9\n00:00:19,750 --> 00:00:21,850\ninto a little ladle Then it yanks\n\n10\n00:00:21,850 --> 00:00:24,113\nback so fast the water shoots up\n\n11\n00:00:24,113 --> 00:00:27,375\nNumber three the hummingbird Its tongue works\n\n12\n00:00:27,375 --> 00:00:29,725\nlike a tiny spring-loaded pump It can\n\n13\n00:00:29,725 --> 00:00:31,850\nlick up to twenty times a second\n\n14\n00:00:31,850 --> 00:00:34,675\nNumber two the thorny devil a spiky\n\n15\n00:00:34,675 --> 00:00:37,163\nAustralian lizard that drinks through its skin\n\n16\n00:00:37,163 --> 00:00:39,625\nTiny channels between its scales carry water\n\n17\n00:00:39,625 --> 00:00:42,425\nto its mouth Number one the kangaroo\n\n18\n00:00:42,425 --> 00:00:45,975\nrat It rarely if ever drinks water\n\n19\n00:00:45,975 --> 00:00:47,225\nIt gets what it needs from the\n\n20\n00:00:47,225 --> 00:00:49,550\ndry seeds it eats So the weirdest\n\n21\n00:00:49,550 --> 00:00:51,850\ndrinker is the one that hardly drinks\n\n22\n00:00:51,850 --> 00:00:53,388\nWhich one would you want to watch\n\n23\n00:00:53,388 --> 00:00:56,188\nin slow motion Watch them again and\n\n24\n00:00:56,188 --> 00:00:57,188\nremember\n",
       "tg_msg": 294,
-      "opts_msg": 296
+      "opts_msg": 296,
+      "approved_by": "auto",
+      "description_full": "How do animals drink water? Top 5 strangest animal drinking tricks, from how cats drink water and how dogs drink to a lizard that drinks through its skin.\n\nIn this Short: the cat's tongue trick, the dog's tongue ladle, the hummingbird's tongue pump, the thorny devil, and the kangaroo rat.\n\nSources:\nhttps://www.sciencedaily.com/releases/2010/11/101111141806.htm\nhttps://news.vt.edu/articles/2015/12/121515-engineering-dogresearch.html\nhttps://www.livescience.com/51904-hummingbird-tongue-pump.html\n\n#shorts #animals #animalfacts #science #top5\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-AU-WilliamMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): flutie8211 (Pixabay) https://pixabay.com/videos/id-365405/; flutie8211 (Pixabay) https://pixabay.com/videos/id-362477/; flutie8211 (Pixabay) https://pixabay.com/videos/id-359868/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-327635/; Engin_Akyurt (Pixabay) https://pixabay.com/videos/id-300349/; Dx21 (Pixabay) https://pixabay.com/videos/id-129725/; Coverr-Free-Footage (Pixabay) https://pixabay.com/videos/id-5630/; Coverr-Free-Footage (Pixabay) https://pixabay.com/videos/id-5631/; dmclausen (Pixabay) https://pixabay.com/videos/id-17508/; dmclausen (Pixabay) https://pixabay.com/videos/id-17507/; ZacharyCrespin (Pixabay) https://pixabay.com/videos/id-110462/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-334203/; InOldNews (Pixabay) https://pixabay.com/videos/id-342098/; MikoEP (Pixabay) https://pixabay.com/videos/id-264362/; MikoEP (Pixabay) https://pixabay.com/videos/id-264371/; MikoEP (Pixabay) https://pixabay.com/videos/id-264349/\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/tDqrDTc7iVQ",
+          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-10-12T01:45:47.453337+00:00",
+      "slot": "2026-10-12T23:15:00+00:00"
     },
     "2026-10-11-4": {
       "topic": {
@@ -9423,9 +8790,9 @@
         "trend_source": "ESTOS DULCES de HALLOWEEN PREDICEN EL FUTURO (2.2x); Christen Made One More ICONIC COSTUME! (3.5x)",
         "plan_id": "P2026-10-11-04"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "auto",
-      "updated": "2026-10-11T22:57:51.397810+00:00",
+      "updated": "2026-10-12T01:45:59.888819+00:00",
       "redos": 0,
       "package": {
         "primary_keyword": "jack o lantern history",
@@ -9750,7 +9117,29 @@
       },
       "srt": "1\n00:00:00,100 --> 00:00:02,212\nBefore you carve your pumpkin you should\n\n2\n00:00:02,212 --> 00:00:05,188\nknow why the first jack-o'-lanterns were turnips\n\n3\n00:00:05,188 --> 00:00:07,800\nHere's how Halloween's famous decoration swapped\n\n4\n00:00:07,800 --> 00:00:11,250\nvegetables Long ago in Ireland people carved\n\n5\n00:00:11,250 --> 00:00:14,613\nfaces into big turnips and potatoes Scotland\n\n6\n00:00:14,613 --> 00:00:16,975\nused turnips too and in England large\n\n7\n00:00:16,975 --> 00:00:19,225\nbeets They put a light inside and\n\n8\n00:00:19,225 --> 00:00:21,288\nset them by windows and doors to\n\n9\n00:00:21,288 --> 00:00:24,725\nscare away wandering spirits Picture a small\n\n10\n00:00:24,725 --> 00:00:27,238\nwrinkly turnip face glowing at you Way\n\n11\n00:00:27,238 --> 00:00:29,725\ncreepier than a pumpkin The name comes\n\n12\n00:00:29,725 --> 00:00:31,812\nfrom an Irish folktale about a trickster\n\n13\n00:00:31,812 --> 00:00:34,525\ncalled Stingy Jack His ghostly light was\n\n14\n00:00:34,525 --> 00:00:36,862\nJack of the Lantern later shortened to\n\n15\n00:00:36,862 --> 00:00:39,688\njack-o'-lantern Then families from Ireland\n\n16\n00:00:39,688 --> 00:00:42,388\nScotland and England moved to America There\n\n17\n00:00:42,388 --> 00:00:44,425\nthey found pumpkins which are native to\n\n18\n00:00:44,425 --> 00:00:47,663\nthe Americas Bigger hollow and way easier\n\n19\n00:00:47,663 --> 00:00:49,962\nto carve than a rock-hard turnip So\n\n20\n00:00:49,962 --> 00:00:52,237\nyour jack-o'-lantern is a pumpkin because it\n\n21\n00:00:52,237 --> 00:00:54,325\nwas an upgrade Would you dare carve\n\n22\n00:00:54,325 --> 00:00:57,000\na turnip this year Either way here's\n\n23\n00:00:57,000 --> 00:00:59,487\nthe one thing to remember this October\n",
       "tg_msg": 297,
-      "opts_msg": 299
+      "opts_msg": 299,
+      "approved_by": "auto",
+      "description_full": "Jack-o'-lantern history in 60 seconds: why do we carve pumpkins on Halloween when the first jack-o'-lanterns were carved from turnips? The turnip jack-o'-lantern started in Ireland.\n\nIn this Short: turnip and potato lanterns in Ireland and Scotland, beets in England, the Stingy Jack folktale, and the switch to pumpkins in America.\n\nSources:\nhttps://www.history.com/news/history-of-the-jack-o-lantern-irish-origins\nhttps://www.tastingtable.com/1065566/the-foods-people-carved-for-halloween-long-before-pumpkins\nhttps://m.csmonitor.com/USA/2011/1031/Jack-o-lanterns-and-more-five-symbols-in-the-history-of-Halloween/Jack-o-lanterns\n\n#shorts #halloween #history #pumpkin #didyouknow\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-EmmaMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): gate74 (Pixabay) https://pixabay.com/photos/turnip-blue-red-vegetable-food-2546876/; Renee_Olmsted_Photography (Pixabay) https://pixabay.com/photos/root-vegetable-white-turnip-turnips-3129065/; Kmeel_com (Pixabay) https://pixabay.com/videos/id-137362/; Kmeel_com (Pixabay) https://pixabay.com/videos/id-137364/; redzy (Pixabay) https://pixabay.com/videos/id-186966/; Joe_hackney (Pixabay) https://pixabay.com/videos/id-117192/; Joe_hackney (Pixabay) https://pixabay.com/videos/id-169806/; C1superstar (Pixabay) https://pixabay.com/videos/id-311952/; MoonpetalMedia (Pixabay) https://pixabay.com/videos/id-372013/; MoonpetalMedia (Pixabay) https://pixabay.com/videos/id-372032/; 3632036 (Pixabay) https://pixabay.com/videos/id-30864/; MoonpetalMedia (Pixabay) https://pixabay.com/videos/id-366637/; MoonpetalMedia (Pixabay) https://pixabay.com/videos/id-366632/; stux (Pixabay) https://pixabay.com/photos/turnip-brassica-rapa-subsp-5231857/; 4421146 (Pixabay) https://pixabay.com/photos/turnip-giant-huge-nature-organic-5061201/\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/wmibrCZc5_4",
+          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-10-12T01:45:59.888835+00:00",
+      "slot": "2026-10-13T01:15:00+00:00"
     }
   },
   "history": [
@@ -9805,7 +9194,7 @@
       "at": "2026-10-11T18:56:30.183272+00:00"
     }
   },
-  "cleanup_day": "2026-10-11",
+  "cleanup_day": "2026-10-12",
   "recent_voices": [
     "en-US-AndrewMultilingualNeural",
     "en-US-AvaMultilingualNeural",

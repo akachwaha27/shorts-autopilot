@@ -112,28 +112,36 @@
   "updated": "2026-10-10T21:51:23.568026+00:00"
  },
  "P2026-10-11-01": {
+  "published": "2026-10-12",
   "sent": "2026-10-11",
-  "status": "Preview",
-  "updated": "2026-10-11T22:39:56.207050+00:00",
-  "video_id": "2026-10-11-1"
+  "status": "Published",
+  "updated": "2026-10-12T01:45:28.422217+00:00",
+  "video_id": "2026-10-11-1",
+  "youtube": "https://youtube.com/shorts/WqyJkb8mjVQ"
  },
  "P2026-10-11-02": {
+  "published": "2026-10-12",
   "sent": "2026-10-11",
-  "status": "Preview",
-  "updated": "2026-10-11T22:47:50.400685+00:00",
-  "video_id": "2026-10-11-2"
+  "status": "Published",
+  "updated": "2026-10-12T01:45:36.877156+00:00",
+  "video_id": "2026-10-11-2",
+  "youtube": "https://youtube.com/shorts/qLWMWGIfHXI"
  },
  "P2026-10-11-03": {
+  "published": "2026-10-12",
   "sent": "2026-10-11",
-  "status": "Preview",
-  "updated": "2026-10-11T22:52:51.259365+00:00",
-  "video_id": "2026-10-11-3"
+  "status": "Published",
+  "updated": "2026-10-12T01:45:48.078945+00:00",
+  "video_id": "2026-10-11-3",
+  "youtube": "https://youtube.com/shorts/tDqrDTc7iVQ"
  },
  "P2026-10-11-04": {
+  "published": "2026-10-12",
   "sent": "2026-10-11",
-  "status": "Preview",
-  "updated": "2026-10-11T22:57:57.476957+00:00",
-  "video_id": "2026-10-11-4"
+  "status": "Published",
+  "updated": "2026-10-12T01:46:00.505891+00:00",
+  "video_id": "2026-10-11-4",
+  "youtube": "https://youtube.com/shorts/wmibrCZc5_4"
  },
  "P2026-10-11-05": {
   "sent": "2026-10-11",
