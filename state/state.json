@@ -1,72 +1,6 @@
 {
   "tg_offset": 40455537,
   "batches": {
-    "2026-10-07": {
-      "topics": [
-        {
-          "title": "Top 5 Foods That Are Way Older Than You Think",
-          "angle": "Counting down everyday foods and condiments that humans have been enjoying for thousands of years longer than expected.",
-          "format": "ranking",
-          "tone": "normal",
-          "trend_source": "evergreen",
-          "virality_score": 10,
-          "why": "Leverages curiosity and surprise, driving high completion rates and comments from viewers guessing the dates."
-        },
-        {
-          "title": "Top 5 Absurd Inventions That Made Zero Sense",
-          "angle": "A humorous countdown of bizarre historical gadgets that completely missed the mark.",
-          "format": "ranking",
-          "tone": "funny",
-          "trend_source": "INFINITE MONEY GLITCH FOUND / gaming clicker trends",
-          "virality_score": 9,
-          "why": "Combines comedy with a structured ranking format, guaranteeing strong watch time and humorous comments."
-        },
-        {
-          "title": "3 Tech Settings You Need to Change Immediately",
-          "angle": "Quick, highly actionable smartphone settings that instantly improve battery life and privacy.",
-          "format": "tips",
-          "tone": "normal",
-          "trend_source": "jordan hurts contract / tech interest",
-          "virality_score": 9,
-          "why": "Delivers immediate practical value, prompting saves and shares which heavily boost the algorithm."
-        },
-        {
-          "title": "Why Soda Cans Explode at High Altitudes",
-          "angle": "An engaging, fast-paced explanation of pressure physics using simple everyday analogies.",
-          "format": "explainer",
-          "tone": "normal",
-          "trend_source": "ARC Raiders / gaming & physics hype",
-          "virality_score": 8,
-          "why": "Satisfies viewer curiosity quickly with strong visual pacing, keeping retention high through the middle mark."
-        },
-        {
-          "title": "Top 5 Animals With Absolute Zero Survival Instincts",
-          "angle": "A lighthearted, funny countdown of goofy animal behaviors that make you wonder how they survive.",
-          "format": "ranking",
-          "tone": "funny",
-          "trend_source": "CaseOh gaming / funny animal trends",
-          "virality_score": 8,
-          "why": "Family-friendly humor combined with cute/funny animal tropes drives high engagement and replays."
-        },
-        {
-          "title": "The Mystery of the Missing Coffee Cup",
-          "angle": "A short, wholesome fictional mystery story about an office coffee mug that keeps moving on its own.",
-          "format": "story",
-          "tone": "normal",
-          "trend_source": "evergreen mini-story",
-          "virality_score": 7,
-          "why": "Narrative pacing naturally pulls viewers to the very end to see the harmless punchline twist."
-        }
-      ],
-      "sent_at": "2026-10-07T18:05:17.073822+00:00",
-      "selected": [
-        0,
-        1,
-        2,
-        3
-      ],
-      "status": "closed"
-    },
     "2026-10-08": {
       "topics": [
         {
@@ -434,6 +368,67 @@
       "sent_at": "2026-10-11T18:56:58.770605+00:00",
       "selected": [],
       "status": "closed"
+    },
+    "2026-10-12": {
+      "topics": [
+        {
+          "title": "Top 5 Animals With Built-In Armor",
+          "angle": "The 9.2x 'Bulletproof Arapaima Monster Fish' and the 283.7x 'Secret Cooling Trick' outliers both withhold one surprising physical ability and pay it off on screen, and this countdown saves the piranha-proof fish for number one.",
+          "format": "ranking",
+          "tone": "normal",
+          "virality_score": 8,
+          "trend_source": "The Bulletproof Arapaima Monster Fish (Xfacto, 9.2x); The Last Runner Knew a Secret Cooling Trick (SnipeFlex, 283.7x)",
+          "plan_id": "P2026-10-12-01"
+        },
+        {
+          "title": "Top 5 Funniest Real Jobs From History \ud83d\ude02",
+          "angle": "Light, kind comedy keeps breaking out (the 22.8x mystery-box game and 10.9x 'Guess Who the Pro Is' both hide a surprising answer until the end), and the pea-shooting knocker-upper is a true payoff held for number one.",
+          "format": "funny",
+          "tone": "funny",
+          "virality_score": 8,
+          "trend_source": "Games kotak misteri kedelai (Mata Panda, 22.8x); Guess Who the Pro Is (ywddxwls, 10.9x)",
+          "plan_id": "P2026-10-12-02"
+        },
+        {
+          "title": "Quick Weather Quiz: 2 Fakes, 1 Real",
+          "angle": "Guessing games are breaking out (10.9x 'Guess Who the Pro Is', 22.8x mystery-box game), and a three-second real-or-fake call gives viewers the same play-along reason to stay to the answer.",
+          "format": "quiz",
+          "tone": "normal",
+          "virality_score": 7,
+          "trend_source": "Guess Who the Pro Is (ywddxwls, 10.9x); Games kotak misteri kedelai (Mata Panda, 22.8x)",
+          "plan_id": "P2026-10-12-03"
+        },
+        {
+          "title": "The Eiffel Tower Had a 20-Year Expiry Date",
+          "angle": "The 10.0x 'This is How Polyester Buttons are Made' and 283.7x 'Secret Cooling Trick' outliers both reveal the hidden reason behind something familiar, and this true story reveals the hidden job that saved the Eiffel Tower.",
+          "format": "story",
+          "tone": "normal",
+          "virality_score": 7,
+          "trend_source": "This is How Polyester Buttons are Made (Abhishek Ashra, 10.0x); The Last Runner Knew a Secret Cooling Trick (SnipeFlex, 283.7x)",
+          "plan_id": "P2026-10-12-04"
+        },
+        {
+          "title": "How Do They Get Graphite Inside Pencils?",
+          "angle": "'This is How Polyester Buttons are Made' hit 10.0x its channel median with a simple how-it's-made reveal, and pencils give the same satisfying process footage with a myth-busting twist.",
+          "format": "explainer",
+          "tone": "normal",
+          "virality_score": 6,
+          "trend_source": "This is How Polyester Buttons are Made in Indian Factories (Abhishek Ashra, 10.0x)",
+          "plan_id": "P2026-10-12-05"
+        },
+        {
+          "title": "Why Your Paper Plane Nosedives (3 Fixes)",
+          "angle": "The 283.7x 'Secret Cooling Trick' outlier shows one hidden trick paying off on screen, and a tiny wing curl that fixes a nosedive is the same kind of quick, visible payoff people save and try.",
+          "format": "tips",
+          "tone": "normal",
+          "virality_score": 6,
+          "trend_source": "The Last Runner Knew a Secret Cooling Trick (SnipeFlex, 283.7x)",
+          "plan_id": "P2026-10-12-06"
+        }
+      ],
+      "sent_at": "2026-10-12T18:12:29.203270+00:00",
+      "selected": [],
+      "status": "waiting"
     }
   },
   "videos": {
@@ -9181,10 +9176,6 @@
     "Jack-o'-Lantern History in 60 Seconds"
   ],
   "trend_tries": {
-    "2026-10-09": {
-      "n": 1,
-      "at": "2026-10-09T14:52:29.225857+00:00"
-    },
     "2026-10-10": {
       "n": 2,
       "at": "2026-10-10T18:37:56.672071+00:00"
@@ -9192,6 +9183,10 @@
     "2026-10-11": {
       "n": 2,
       "at": "2026-10-11T18:56:30.183272+00:00"
+    },
+    "2026-10-12": {
+      "n": 1,
+      "at": "2026-10-12T18:12:28.488954+00:00"
     }
   },
   "cleanup_day": "2026-10-12",
@@ -9205,5 +9200,5 @@
   "visual_searches": {
     "2026-10-11": 4
   },
-  "signals_day": "2026-10-11"
+  "signals_day": "2026-10-12"
 }
