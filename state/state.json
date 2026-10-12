@@ -1,54 +1,6 @@
 {
   "tg_offset": 40455537,
   "batches": {
-    "2026-10-08": {
-      "topics": [
-        {
-          "title": "3 Smartphone Hacks You\u2019ve Been Ignoring",
-          "angle": "Quick, practical, and non-obvious tweaks to phone settings that improve privacy and battery life instantly.",
-          "format": "tips",
-          "tone": "normal",
-          "trend_source": "Google Trends (Tech/Smartphone interest)",
-          "virality_score": 9,
-          "why": "Highly shareable utility content that encourages users to save the video to try the hacks later, boosting rewatch metrics."
-        },
-        {
-          "title": "Top 5 Inventions That Are Borderline Useless",
-          "angle": "A ranking of historical or obscure inventions that were designed for 'solving' problems that didn't exist, presented with dry, lighthearted humor.",
-          "format": "ranking",
-          "tone": "funny",
-          "trend_source": "evergreen",
-          "virality_score": 8,
-          "why": "Humorous ranking formats perform exceptionally well because they encourage viewers to tag friends and debate which invention is the most absurd."
-        },
-        {
-          "title": "How Modern Bridges Handle Extreme Weather",
-          "angle": "A short explainer on the secret engineering behind why modern structures sway instead of snapping during high winds.",
-          "format": "explainer",
-          "tone": "normal",
-          "trend_source": "Google Trends (Engineering/Architecture interest)",
-          "virality_score": 7,
-          "why": "Visual 'how-it-works' content satisfies intellectual curiosity and works well with fast-paced, high-quality stock footage animations."
-        },
-        {
-          "title": "The Mystery of the Vanishing Forest Path",
-          "angle": "A fictional mini-story about a hiker who finds an ancient, overgrown path that seems to loop back on itself, keeping the ending open to interpretation.",
-          "format": "story",
-          "tone": "normal",
-          "trend_source": "evergreen",
-          "virality_score": 7,
-          "why": "Short, atmospheric mystery stories drive high rewatchability as viewers scan the background for clues or details they might have missed."
-        }
-      ],
-      "sent_at": "2026-10-08T18:07:57.780207+00:00",
-      "selected": [
-        0,
-        1,
-        2,
-        3
-      ],
-      "status": "closed"
-    },
     "2026-10-09": {
       "topics": [
         {
@@ -427,6 +379,67 @@
         }
       ],
       "sent_at": "2026-10-12T18:12:29.203270+00:00",
+      "selected": [],
+      "status": "waiting"
+    },
+    "2026-10-12-2": {
+      "topics": [
+        {
+          "title": "Top 5 Animals With The Most Ridiculous Excuses For Sleeping",
+          "angle": "Counting down five animals that sleep in the most absurd, hilarious positions and places imaginable.",
+          "format": "ranking",
+          "tone": "funny",
+          "trend_source": "evergreen",
+          "virality_score": 9,
+          "why": "High loop potential, universally loved cute animal content paired with unexpected, funny narrative humor."
+        },
+        {
+          "title": "Can You Guess These 3 Mind-Bending Physics Illusions?",
+          "angle": "A fast-paced visual guessing game challenging viewers on whether rolling objects are going uphill or downhill.",
+          "format": "quiz",
+          "tone": "normal",
+          "trend_source": "evergreen",
+          "virality_score": 9,
+          "why": "Drives massive comment section engagement as viewers argue about the answer, boosting algorithmic distribution."
+        },
+        {
+          "title": "Top 5 Foods That Smell Terrible But Taste Incredible",
+          "angle": "Ranking the top 5 culinary ingredients that have an awful aroma but are the secret weapon of world-class chefs.",
+          "format": "ranking",
+          "tone": "normal",
+          "trend_source": "evergreen",
+          "virality_score": 8,
+          "why": "Taps into food curiosity and general interest, creating immediate debate in comments about favorite flavors."
+        },
+        {
+          "title": "Top 5 Worst Design Fails In Everyday Architecture",
+          "angle": "Ranking the most hilariously impractical design blunders found in everyday public spaces.",
+          "format": "ranking",
+          "tone": "funny",
+          "trend_source": "evergreen",
+          "virality_score": 8,
+          "why": "Relatable frustration humor triggers high shares and strong viewer retention through quick visual punchlines."
+        },
+        {
+          "title": "3 Brilliant Travel Packing Secrets Hotels Secretly Use",
+          "angle": "Revealing three genius, space-saving packing tricks used by professional hotel staff and flight crews.",
+          "format": "tips",
+          "tone": "normal",
+          "trend_source": "evergreen",
+          "virality_score": 8,
+          "why": "High utility and practical value encourage viewers to save and share the short with friends and family."
+        },
+        {
+          "title": "Why Your Brain Thinks Time Speeds Up As You Age",
+          "angle": "Explaining the fascinating mathematical and psychological reason why years feel shorter the older we get.",
+          "format": "explainer",
+          "tone": "normal",
+          "trend_source": "evergreen",
+          "virality_score": 7,
+          "why": "Universal philosophical question that sparks strong curiosity, keeping average view duration high to the very last second."
+        }
+      ],
+      "sent_at": "2026-10-12T22:09:47.241919+00:00",
       "selected": [],
       "status": "waiting"
     }
@@ -9185,8 +9198,8 @@
       "at": "2026-10-11T18:56:30.183272+00:00"
     },
     "2026-10-12": {
-      "n": 1,
-      "at": "2026-10-12T18:12:28.488954+00:00"
+      "n": 2,
+      "at": "2026-10-12T22:09:18.547091+00:00"
     }
   },
   "cleanup_day": "2026-10-12",

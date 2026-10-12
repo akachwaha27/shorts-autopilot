@@ -859,5 +859,78 @@
   ],
   "sent_at": "2026-10-12T18:12:29.203270+00:00",
   "status": "waiting"
+ },
+ "2026-10-12-2": {
+  "date": "2026-10-12-2",
+  "ideas": [
+   {
+    "angle": "Counting down five animals that sleep in the most absurd, hilarious positions and places imaginable.",
+    "format": "ranking",
+    "picked": false,
+    "rank": 1,
+    "title": "Top 5 Animals With The Most Ridiculous Excuses For Sleeping",
+    "trend_source": "evergreen",
+    "video_id": null,
+    "virality_score": 9,
+    "why": "High loop potential, universally loved cute animal content paired with unexpected, funny narrative humor."
+   },
+   {
+    "angle": "A fast-paced visual guessing game challenging viewers on whether rolling objects are going uphill or downhill.",
+    "format": "quiz",
+    "picked": false,
+    "rank": 2,
+    "title": "Can You Guess These 3 Mind-Bending Physics Illusions?",
+    "trend_source": "evergreen",
+    "video_id": null,
+    "virality_score": 9,
+    "why": "Drives massive comment section engagement as viewers argue about the answer, boosting algorithmic distribution."
+   },
+   {
+    "angle": "Ranking the top 5 culinary ingredients that have an awful aroma but are the secret weapon of world-class chefs.",
+    "format": "ranking",
+    "picked": false,
+    "rank": 3,
+    "title": "Top 5 Foods That Smell Terrible But Taste Incredible",
+    "trend_source": "evergreen",
+    "video_id": null,
+    "virality_score": 8,
+    "why": "Taps into food curiosity and general interest, creating immediate debate in comments about favorite flavors."
+   },
+   {
+    "angle": "Ranking the most hilariously impractical design blunders found in everyday public spaces.",
+    "format": "ranking",
+    "picked": false,
+    "rank": 4,
+    "title": "Top 5 Worst Design Fails In Everyday Architecture",
+    "trend_source": "evergreen",
+    "video_id": null,
+    "virality_score": 8,
+    "why": "Relatable frustration humor triggers high shares and strong viewer retention through quick visual punchlines."
+   },
+   {
+    "angle": "Revealing three genius, space-saving packing tricks used by professional hotel staff and flight crews.",
+    "format": "tips",
+    "picked": false,
+    "rank": 5,
+    "title": "3 Brilliant Travel Packing Secrets Hotels Secretly Use",
+    "trend_source": "evergreen",
+    "video_id": null,
+    "virality_score": 8,
+    "why": "High utility and practical value encourage viewers to save and share the short with friends and family."
+   },
+   {
+    "angle": "Explaining the fascinating mathematical and psychological reason why years feel shorter the older we get.",
+    "format": "explainer",
+    "picked": false,
+    "rank": 6,
+    "title": "Why Your Brain Thinks Time Speeds Up As You Age",
+    "trend_source": "evergreen",
+    "video_id": null,
+    "virality_score": 7,
+    "why": "Universal philosophical question that sparks strong curiosity, keeping average view duration high to the very last second."
+   }
+  ],
+  "sent_at": "2026-10-12T22:09:47.241919+00:00",
+  "status": "waiting"
  }
 }
