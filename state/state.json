@@ -445,525 +445,16 @@
         }
       ],
       "sent_at": "2026-10-12T22:09:47.241919+00:00",
-      "selected": [],
-      "status": "waiting"
+      "selected": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "status": "closed"
     }
   },
   "videos": {
-    "2026-10-04-4": {
-      "topic": {
-        "title": "3 Smartphone Camera Tricks You Didn't Know Existed",
-        "angle": "Quick, genuinely useful hidden settings in standard phone cameras that instantly upgrade everyday photos.",
-        "format": "tips",
-        "trend_source": "evergreen",
-        "virality_score": 7,
-        "why": "Utility-driven content creates high bookmarking and sharing behaviors, signaling strong viewer value to the recommendation system."
-      },
-      "status": "published",
-      "by": "you",
-      "updated": "2026-10-04T19:56:11.167114+00:00",
-      "redos": 0,
-      "package": {
-        "primary_keyword": "smartphone camera tricks",
-        "title": "Smartphone Camera Tricks You Never Knew",
-        "hook_text": "Stop taking boring phone photos",
-        "thumbnail_text": "Hidden Camera Settings",
-        "description": "Discover hidden smartphone camera tricks that instantly upgrade your everyday photos without any extra apps. Learn these secret settings today.",
-        "hashtags": [
-          "#shorts",
-          "#photography",
-          "#techhacks",
-          "#lifehacks"
-        ],
-        "tags": [
-          "smartphone camera tricks",
-          "phone camera tips and tricks",
-          "smartphone camera tips and tricks",
-          "android camera tricks",
-          "phone photography tips",
-          "better phone photography",
-          "take better phone photos",
-          "smartphone photography tricks",
-          "camera hacks",
-          "best phone photos",
-          "easy photo tips",
-          "better phone photos",
-          "android camera tips",
-          "iphone camera tricks",
-          "hidden phone features",
-          "hidden camera settings",
-          "improve phone pictures",
-          "smartphone tips",
-          "photography lifehacks"
-        ],
-        "pinned_comment": "Which of these hidden settings are you going to try first? Let me know below!",
-        "scenes": [
-          {
-            "text": "Stop taking boring phone photos before changing these three hidden settings.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "person holding smartphone",
-              "taking photo outdoors"
-            ],
-            "image_prompt": "Vertical 9:16 image of a person holding a smartphone outdoors, bright natural lighting, modern aesthetic, highly detailed, no people faces visible, no text.",
-            "stock_query": "person holding smartphone"
-          },
-          {
-            "text": "Tip one. Turn on the grid lines to instantly nail your composition every single time.",
-            "badge": "TIP 1",
-            "label": "Grid Lines",
-            "stock_queries": [
-              "phone camera grid",
-              "framing a shot"
-            ],
-            "image_prompt": "Vertical 9:16 smartphone camera screen showing a clean composition grid overlay, minimalist style, bright and crisp, no text, no logos.",
-            "stock_query": "phone camera grid"
-          },
-          {
-            "text": "Tip two. Tap and hold your screen to lock focus so your subject never blurs.",
-            "badge": "TIP 2",
-            "label": "Focus Lock",
-            "stock_queries": [
-              "touch screen focus",
-              "macro photography leaf"
-            ],
-            "image_prompt": "Vertical 9:16 macro shot of a green leaf with a glowing focus reticle on the smartphone screen, crisp details, natural light, no text.",
-            "stock_query": "touch screen focus"
-          },
-          {
-            "text": "Tip three. Swipe down the exposure slider to make your colors pop like a pro camera.",
-            "badge": "TIP 3",
-            "label": "Exposure Slider",
-            "stock_queries": [
-              "adjusting phone exposure",
-              "sunset sky phone"
-            ],
-            "image_prompt": "Vertical 9:16 beautiful sunset sky captured on a smartphone screen with the exposure slider adjustment icon visible, vibrant colors, no text.",
-            "stock_query": "adjusting phone exposure"
-          },
-          {
-            "text": "Try these right now, and you will never stop taking boring phone photos.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "scrolling phone gallery",
-              "stunning nature photo"
-            ],
-            "image_prompt": "Vertical 9:16 clean modern smartphone displaying a stunning photo gallery, vibrant colors, soft lighting, no text, no logos.",
-            "stock_query": "scrolling phone gallery"
-          }
-        ],
-        "key_facts": [
-          "Enabling grid lines helps with photo composition.",
-          "Tapping and holding the screen locks focus on a smartphone camera.",
-          "Adjusting the exposure slider darkens highlights and makes colors more vibrant."
-        ],
-        "format": "tips",
-        "category": "26",
-        "script": "Stop taking boring phone photos before changing these three hidden settings. Tip one. Turn on the grid lines to instantly nail your composition every single time. Tip two. Tap and hold your screen to lock focus so your subject never blurs. Tip three. Swipe down the exposure slider to make your colors pop like a pro camera. Try these right now, and you will never stop taking boring phone photos.",
-        "voice": "en-US-EmmaMultilingualNeural"
-      },
-      "credits": [
-        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-EmmaMultilingualNeural).",
-        "Stock footage/photos (Pexels/Pixabay Content License): Eartvideos (Pixabay) https://pixabay.com/videos/id-150957/; FlickrVideos (Pixabay) https://pixabay.com/videos/id-245/; Engin_Akyurt (Pixabay) https://pixabay.com/videos/id-61298/; Nature-Stock-Footage (Pixabay) https://pixabay.com/videos/id-18390/; DistillVideos (Pixabay) https://pixabay.com/videos/id-1110/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-325368/; Natures_Embrace (Pixabay) https://pixabay.com/videos/id-202987/; bellergy (Pixabay) https://pixabay.com/videos/id-1844/; seyhmuskino (Pixabay) https://pixabay.com/videos/id-286637/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-691/"
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-04",
-        "name": "2026-10-04-4-v0.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-04",
-        "name": "2026-10-04-4-v0-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,092 --> 00:00:02,511\nStop taking boring phone photos before changing\n\n2\n00:00:02,511 --> 00:00:05,344\nthese three hidden settings Tip one Turn\n\n3\n00:00:05,344 --> 00:00:07,122\non the grid lines to instantly nail\n\n4\n00:00:07,122 --> 00:00:10,321\nyour composition every single time Tip two\n\n5\n00:00:10,321 --> 00:00:11,755\nTap and hold your screen to lock\n\n6\n00:00:11,755 --> 00:00:14,541\nfocus so your subject never blurs Tip\n\n7\n00:00:14,541 --> 00:00:17,053\nthree Swipe down the exposure slider to\n\n8\n00:00:17,053 --> 00:00:18,509\nmake your colors pop like a pro\n\n9\n00:00:18,509 --> 00:00:20,872\ncamera Try these right now and you\n\n10\n00:00:20,872 --> 00:00:23,542\nwill never stop taking boring phone photos\n",
-      "tg_msg": 90,
-      "opts_msg": 92,
-      "approved_by": "auto",
-      "description_full": "Discover hidden smartphone camera tricks that instantly upgrade your everyday photos without any extra apps. Learn these secret settings today.\n\n#shorts #photography #techhacks #lifehacks\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-EmmaMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): Eartvideos (Pixabay) https://pixabay.com/videos/id-150957/; FlickrVideos (Pixabay) https://pixabay.com/videos/id-245/; Engin_Akyurt (Pixabay) https://pixabay.com/videos/id-61298/; Nature-Stock-Footage (Pixabay) https://pixabay.com/videos/id-18390/; DistillVideos (Pixabay) https://pixabay.com/videos/id-1110/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-325368/; Natures_Embrace (Pixabay) https://pixabay.com/videos/id-202987/; bellergy (Pixabay) https://pixabay.com/videos/id-1844/; seyhmuskino (Pixabay) https://pixabay.com/videos/id-286637/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-691/\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/wo3lD4_JXBI",
-          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-04T19:56:11.167131+00:00",
-      "slot": "2026-10-05T16:15:00+00:00"
-    },
-    "2026-10-05-1": {
-      "topic": {
-        "title": "Top 5 Animals With Absolute Zero Survival Instincts",
-        "angle": "A humorous countdown of hilarious animals that somehow survive despite having zero common sense.",
-        "format": "ranking",
-        "tone": "funny",
-        "trend_source": "burmese python (invasive wildlife curiosity)",
-        "virality_score": 9,
-        "why": "Combines high-retention ranking format with laugh-out-loud relatable animal fails that drive comments and shares."
-      },
-      "status": "published",
-      "by": "auto",
-      "updated": "2026-10-05T23:05:40.472826+00:00",
-      "redos": 0,
-      "package": {
-        "primary_keyword": "animals with no survival instincts",
-        "title": "Top 5 Animals With Absolute Zero Survival Instincts",
-        "hook_text": "Zero Survival Instincts",
-        "thumbnail_text": "Brain Cell Not Found",
-        "description": "Discover the top 5 animals with absolute zero survival instincts that somehow still exist today. These hilarious creatures defy logic every single day.",
-        "hashtags": [
-          "#shorts",
-          "#animals",
-          "#funnyanimals",
-          "#top5",
-          "#funny"
-        ],
-        "tags": [
-          "animals with no survival instincts",
-          "top 5 animals",
-          "dumb animals",
-          "funny animals",
-          "stupid animals",
-          "animal with no fear",
-          "funny animals shorts",
-          "stupid animals shorts",
-          "funny animals compilation",
-          "stupid animals compilation",
-          "funny animal facts",
-          "goofy animals",
-          "animal comedy",
-          "wildlife humor",
-          "clumsy animals",
-          "nature is funny",
-          "strange animals",
-          "evolutionary failures"
-        ],
-        "pinned_comment": "Which of these brainless buddies do you think is winging it the most in the wild? Let us know below! \ud83d\udc3e",
-        "scenes": [
-          {
-            "text": "These creatures have absolute zero survival instincts and honestly, it is a miracle they are still here.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "funny wildlife moments",
-              "confused wild animal"
-            ],
-            "image_prompt": "A comical and cute wild animal looking completely clueless in a sunny forest, vertical 9:16, photorealistic, no text.",
-            "stock_query": "funny wildlife moments"
-          },
-          {
-            "text": "Number five, the kakapo. This flightless parrot tries to mate with trees and freezes like a furry statue when startled, hoping nobody notices. Spoiler, everybody notices.",
-            "badge": "#5",
-            "label": "Kakapo",
-            "stock_queries": [
-              "green parrot bird",
-              "funny fat bird"
-            ],
-            "image_prompt": "A chubby bright green kakapo parrot sitting on a mossy branch looking delightfully goofy, vertical 9:16, photorealistic, no text.",
-            "stock_query": "green parrot bird"
-          },
-          {
-            "text": "At number four, we have the panda bear. They eat bamboo, which provides almost zero energy, meaning they spend half their day napping and accidentally rolling off logs.",
-            "badge": "#4",
-            "label": "Giant Panda",
-            "stock_queries": [
-              "giant panda eating",
-              "lazy panda rolling"
-            ],
-            "image_prompt": "A clumsy giant panda sitting and munching on bamboo shoots with green leaves everywhere, vertical 9:16, photorealistic, no text.",
-            "stock_query": "giant panda eating"
-          },
-          {
-            "text": "Number three goes to the sloth. They literally mistake their own arms for tree branches and fall out of the canopy on a regular basis. Gravity is their greatest enemy.",
-            "badge": "#3",
-            "label": "Three-toed Sloth",
-            "stock_queries": [
-              "cute sloth hanging",
-              "sloth in jungle tree"
-            ],
-            "image_prompt": "A slow moving three toed sloth hanging lazily from a high tropical jungle vine, vertical 9:16, photorealistic, no text.",
-            "stock_query": "cute sloth hanging"
-          },
-          {
-            "text": "At number two, the secretary bird. They hunt venomous snakes by stomping on them, but they also trip over tall grass like toddlers running in oversized shoes.",
-            "badge": "#2",
-            "label": "Secretary Bird",
-            "stock_queries": [
-              "secretary bird walking",
-              "funny long legged bird"
-            ],
-            "image_prompt": "A tall secretary bird with dramatic crest feathers walking through dry African savanna grass, vertical 9:16, photorealistic, no text.",
-            "stock_query": "secretary bird walking"
-          },
-          {
-            "text": "And number one, the koala. They possess such a smooth brain they cannot recognize plucked eucalyptus leaves as food unless attached to a branch. Peak confusion.",
-            "badge": "#1",
-            "label": "Koala",
-            "stock_queries": [
-              "koala bear eucalyptus",
-              "sleepy koala tree"
-            ],
-            "image_prompt": "A fluffy koala hugging a smooth eucalyptus tree trunk with a sleepy expression, vertical 9:16, photorealistic, no text.",
-            "stock_query": "koala bear eucalyptus"
-          },
-          {
-            "text": "These creatures have absolute zero survival instincts, proving that sometimes you can just vibe your way through evolution.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "funny animal compilation",
-              "confused cute animal"
-            ],
-            "image_prompt": "A collection of cute and silly wild animals looking directly at the camera with funny expressions, vertical 9:16, photorealistic, no text.",
-            "stock_query": "funny animal compilation"
-          }
-        ],
-        "key_facts": [
-          "Kakapos are flightless parrots known for freezing when startled and poor mating behaviors.",
-          "Giant pandas eat a diet of bamboo which is low in nutrients, requiring them to eat large amounts and rest frequently.",
-          "Sloths have very low metabolic rates and occasionally misidentify their own limbs for branches, leading to falls.",
-          "Secretary birds hunt venomous snakes by stomping on them with long legs.",
-          "Koalas have remarkably smooth brains and typically only eat fresh eucalyptus leaves attached to branches."
-        ],
-        "format": "ranking",
-        "tone": "funny",
-        "category": "23",
-        "script": "These creatures have absolute zero survival instincts and honestly, it is a miracle they are still here. Number five, the kakapo. This flightless parrot tries to mate with trees and freezes like a furry statue when startled, hoping nobody notices. Spoiler, everybody notices. At number four, we have the panda bear. They eat bamboo, which provides almost zero energy, meaning they spend half their day napping and accidentally rolling off logs. Number three goes to the sloth. They literally mistake their own arms for tree branches and fall out of the canopy on a regular basis. Gravity is their greatest enemy. At number two, the secretary bird. They hunt venomous snakes by stomping on them, but they also trip over tall grass like toddlers running in oversized shoes. And number one, the koala. They possess such a smooth brain they cannot recognize plucked eucalyptus leaves as food unless attached to a branch. Peak confusion. These creatures have absolute zero survival instincts, proving that sometimes you can just vibe your way through evolution.",
-        "voice": "en-US-AvaMultilingualNeural"
-      },
-      "credits": [
-        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AvaMultilingualNeural).",
-        "Stock footage/photos (Pexels/Pixabay Content License): Solarselle77 (Pixabay) https://pixabay.com/videos/id-311938/; deeanaarts (Pixabay) https://pixabay.com/videos/id-272801/; Luiz-Jorge-Artista (Pixabay) https://pixabay.com/videos/id-3017/; bijan6207 (Pixabay) https://pixabay.com/videos/id-214669/; TRAPHITHO (Pixabay) https://pixabay.com/videos/id-22083/; JoshuaWoroniecki (Pixabay) https://pixabay.com/videos/id-272562/; Macb3t (Pixabay) https://pixabay.com/videos/id-16160/; \u7d20\u541b (Pixabay) https://pixabay.com/videos/id-137015/; Engin_Akyurt (Pixabay) https://pixabay.com/videos/id-232641/; Mujibarsk_786 (Pixabay) https://pixabay.com/videos/id-183638/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-1080/; NickyPe (Pixabay) https://pixabay.com/videos/id-87155/; Eaktas06 (Pixabay) https://pixabay.com/videos/id-171255/; ghasoub (Pixabay) https://pixabay.com/videos/id-152798/; DavidClode (Pixabay) https://pixabay.com/videos/id-304418/; Motionwell (Pixabay) https://pixabay.com/videos/id-336603/; j7126 (Pixabay) https://pixabay.com/videos/id-177369/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-1438/; bijan6207 (Pixabay) https://pixabay.com/videos/id-213564/; Alexas_Fotos (Pixabay) https://pixabay.com/videos/id-3723/"
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-05",
-        "name": "2026-10-05-1-v0.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-05",
-        "name": "2026-10-05-1-v0-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,084 --> 00:00:02,308\nThese creatures have absolute zero survival\n\n2\n00:00:02,308 --> 00:00:04,964\ninstincts and honestly it is a miracle\n\n3\n00:00:04,964 --> 00:00:07,248\nthey are still here Number five the\n\n4\n00:00:07,248 --> 00:00:10,000\nkakapo This flightless parrot tries to mate\n\n5\n00:00:10,000 --> 00:00:12,103\nwith trees and freezes like a furry\n\n6\n00:00:12,103 --> 00:00:15,481\nstatue when startled hoping nobody notices\n\n7\n00:00:15,481 --> 00:00:19,087\nSpoiler everybody notices At number four we\n\n8\n00:00:19,087 --> 00:00:21,635\nhave the panda bear They eat bamboo\n\n9\n00:00:21,635 --> 00:00:23,954\nwhich provides almost zero energy meaning they\n\n10\n00:00:23,954 --> 00:00:26,310\nspend half their day napping and accidentally\n\n11\n00:00:26,310 --> 00:00:28,870\nrolling off logs Number three goes to\n\n12\n00:00:28,870 --> 00:00:31,226\nthe sloth They literally mistake their own\n\n13\n00:00:31,226 --> 00:00:33,486\narms for tree branches and fall out\n\n14\n00:00:33,486 --> 00:00:35,721\nof the canopy on a regular basis\n\n15\n00:00:35,721 --> 00:00:38,558\nGravity is their greatest enemy At number\n\n16\n00:00:38,558 --> 00:00:41,526\ntwo the secretary bird They hunt venomous\n\n17\n00:00:41,526 --> 00:00:43,570\nsnakes by stomping on them but they\n\n18\n00:00:43,570 --> 00:00:45,793\nalso trip over tall grass like toddlers\n\n19\n00:00:45,793 --> 00:00:48,534\nrunning in oversized shoes And number one\n\n20\n00:00:48,534 --> 00:00:50,853\nthe koala They possess such a smooth\n\n21\n00:00:50,853 --> 00:00:53,305\nbrain they cannot recognize plucked eucalyptus\n\n22\n00:00:53,305 --> 00:00:55,276\nleaves as food unless attached to a\n\n23\n00:00:55,276 --> 00:00:58,425\nbranch Peak confusion These creatures have\n\n24\n00:00:58,425 --> 00:01:01,154\nabsolute zero survival instincts proving that\n\n25\n00:01:01,154 --> 00:01:03,161\nsometimes you can just vibe your way\n\n26\n00:01:03,161 --> 00:01:04,450\nthrough evolution\n",
-      "tg_msg": 110,
-      "opts_msg": 112,
-      "approved_by": "you",
-      "publish_now": false,
-      "description_full": "Discover the top 5 animals with absolute zero survival instincts that somehow still exist today. These hilarious creatures defy logic every single day.\n\n#shorts #animals #funnyanimals #top5 #funny\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review and approved by the channel owner.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AvaMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): Solarselle77 (Pixabay) https://pixabay.com/videos/id-311938/; deeanaarts (Pixabay) https://pixabay.com/videos/id-272801/; Luiz-Jorge-Artista (Pixabay) https://pixabay.com/videos/id-3017/; bijan6207 (Pixabay) https://pixabay.com/videos/id-214669/; TRAPHITHO (Pixabay) https://pixabay.com/videos/id-22083/; JoshuaWoroniecki (Pixabay) https://pixabay.com/videos/id-272562/; Macb3t (Pixabay) https://pixabay.com/videos/id-16160/; \u7d20\u541b (Pixabay) https://pixabay.com/videos/id-137015/; Engin_Akyurt (Pixabay) https://pixabay.com/videos/id-232641/; Mujibarsk_786 (Pixabay) https://pixabay.com/videos/id-183638/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-1080/; NickyPe (Pixabay) https://pixabay.com/videos/id-87155/; Eaktas06 (Pixabay) https://pixabay.com/videos/id-171255/; ghasoub (Pixabay) https://pixabay.com/videos/id-152798/; DavidClode (Pixabay) https://pixabay.com/videos/id-304418/; Motionwell (Pixabay) https://pixabay.com/videos/id-336603/; j7126 (Pixabay) https://pixabay.com/videos/id-177369/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-1438/; bijan6207 (Pixabay) https://pixabay.com/videos/id-213564/; Alexas_Fotos (Pixabay) https://pixabay.com/videos/id-3723/\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/zpVz53oUng8",
-          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-05T23:05:40.472842+00:00",
-      "slot": "2026-10-06T01:15:00+00:00"
-    },
-    "2026-10-05-2": {
-      "topic": {
-        "title": "Top 5 Board Game Rules Everyone Completely Makes Up",
-        "angle": "A hilarious look at the house rules families invent because no one actually reads the manual.",
-        "format": "ranking",
-        "tone": "funny",
-        "trend_source": "This Card Game is Cursed / board game trends",
-        "virality_score": 9,
-        "why": "Highly relatable nostalgia that prompts viewers to tag friends in the comments, boosting the algorithm."
-      },
-      "status": "published",
-      "by": "auto",
-      "updated": "2026-10-05T23:05:48.607460+00:00",
-      "redos": 0,
-      "package": {
-        "primary_keyword": "board game rules",
-        "title": "Top 5 Board Game Rules Everyone Completely Makes Up",
-        "hook_text": "You're playing it wrong",
-        "thumbnail_text": "Rules You Invented",
-        "description": "These common board game rules are actually fake and were likely invented by your family.",
-        "hashtags": [
-          "#shorts",
-          "#boardgames",
-          "#tabletop",
-          "#top5",
-          "#funny"
-        ],
-        "tags": [
-          "board game rules",
-          "board game house rules",
-          "board game night",
-          "board game night ideas",
-          "board game rules funny",
-          "how to play board games",
-          "board game night snacks",
-          "explaining board game rules",
-          "family board game rules",
-          "common board game mistakes",
-          "house rules",
-          "monopoly rules",
-          "board game nightmare",
-          "game night fails",
-          "board game myths",
-          "tabletop games"
-        ],
-        "pinned_comment": "Which fake rule has caused the biggest fight in your family game nights? Let me know below!",
-        "key_facts": [
-          "Monopoly does not have a rule for putting money on Free Parking.",
-          "In Sorry, you cannot slide into your own color.",
-          "In Uno, you cannot stack draw cards unless house rules specify.",
-          "In Clue, you do not lose a turn for a wrong suggestion.",
-          "In Scrabble, you cannot use proper nouns."
-        ],
-        "scenes": [
-          {
-            "text": "You're playing it wrong, and honestly, your family probably invented half the rules. Let's look at the top five board game myths.",
-            "badge": "",
-            "label": "Intro",
-            "stock_queries": [
-              "messy board game",
-              "frustrated family playing"
-            ],
-            "image_prompt": "A messy table with various colorful board game pieces scattered about, high detail, cinematic lighting, 9:16 vertical.",
-            "stock_query": "messy board game"
-          },
-          {
-            "text": "Number five. In Scrabble, you can't play proper nouns. No, your cat's name is not a valid word, no matter how many points it's worth.",
-            "badge": "#5",
-            "label": "Proper Nouns",
-            "stock_queries": [
-              "scrabble board",
-              "scrabble tiles"
-            ],
-            "image_prompt": "A close up of wooden letter tiles on a board, focusing on a made up word, soft studio lighting, 9:16 vertical.",
-            "stock_query": "scrabble board"
-          },
-          {
-            "text": "At number four, Clue. You don't lose a turn for a wrong suggestion. You just keep guessing until you inevitably lose the game anyway.",
-            "badge": "#4",
-            "label": "Clue Suggestions",
-            "stock_queries": [
-              "detective board game",
-              "magnifying glass"
-            ],
-            "image_prompt": "A vintage style detective board game with colorful plastic weapons and cards, dark moody atmosphere, 9:16 vertical.",
-            "stock_query": "detective board game"
-          },
-          {
-            "text": "Number three. In Uno, stacking draw cards is illegal. Yes, I know it's fun to ruin your sister's life, but the manual says no.",
-            "badge": "#3",
-            "label": "Uno Stacking",
-            "stock_queries": [
-              "colorful card game",
-              "playing cards"
-            ],
-            "image_prompt": "A hand holding colorful playing cards against a blurred background, vibrant colors, 9:16 vertical.",
-            "stock_query": "colorful card game"
-          },
-          {
-            "text": "At number two, Sorry. You cannot slide into your own color. It's like trying to high five yourself, just don't do it.",
-            "badge": "#2",
-            "label": "Sorry Slides",
-            "stock_queries": [
-              "board game pieces",
-              "colorful game tokens"
-            ],
-            "image_prompt": "Plastic game tokens lined up on a vibrant game board path, macro photography, 9:16 vertical.",
-            "stock_query": "board game pieces"
-          },
-          {
-            "text": "Number one. In Monopoly, there is no money for landing on Free Parking. That rule was invented solely to make games last three weeks.",
-            "badge": "#1",
-            "label": "Free Parking",
-            "stock_queries": [
-              "monopoly money",
-              "board game cash"
-            ],
-            "image_prompt": "Stacks of colorful paper money from a board game on a wooden table, sharp focus, 9:16 vertical.",
-            "stock_query": "monopoly money"
-          },
-          {
-            "text": "We all make up rules to keep the peace, but let's be real, you're playing it wrong, and honestly, your family probably invented half the rules.",
-            "badge": "",
-            "label": "Outro",
-            "stock_queries": [
-              "game night laughter",
-              "board game box"
-            ],
-            "image_prompt": "A joyful, chaotic game night scene with blurred background and glowing string lights, 9:16 vertical.",
-            "stock_query": "game night laughter"
-          }
-        ],
-        "format": "ranking",
-        "tone": "funny",
-        "category": "23",
-        "script": "You're playing it wrong, and honestly, your family probably invented half the rules. Let's look at the top five board game myths. Number five. In Scrabble, you can't play proper nouns. No, your cat's name is not a valid word, no matter how many points it's worth. At number four, Clue. You don't lose a turn for a wrong suggestion. You just keep guessing until you inevitably lose the game anyway. Number three. In Uno, stacking draw cards is illegal. Yes, I know it's fun to ruin your sister's life, but the manual says no. At number two, Sorry. You cannot slide into your own color. It's like trying to high five yourself, just don't do it. Number one. In Monopoly, there is no money for landing on Free Parking. That rule was invented solely to make games last three weeks. We all make up rules to keep the peace, but let's be real, you're playing it wrong, and honestly, your family probably invented half the rules.",
-        "voice": "en-AU-WilliamMultilingualNeural"
-      },
-      "credits": [
-        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-AU-WilliamMultilingualNeural).",
-        "Stock footage/photos (Pexels/Pixabay Content License): OrcaTec (Pixabay) https://pixabay.com/videos/id-19600/; iddea_photo (Pixabay) https://pixabay.com/videos/id-253998/; OrcaTec (Pixabay) https://pixabay.com/videos/id-19459/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-1306/; TRAPHITHO (Pixabay) https://pixabay.com/videos/id-27889/; Kaffees\u00fcchtig (Pixabay) https://pixabay.com/videos/id-275052/; AndyOlsha (Pixabay) https://pixabay.com/videos/id-89985/; tommyvideo (Pixabay) https://pixabay.com/videos/id-5393/; OrcaTec (Pixabay) https://pixabay.com/videos/id-19598/; 8385 (Pixabay) https://pixabay.com/videos/id-632/; Coverr-Free-Footage (Pixabay) https://pixabay.com/videos/id-1651/; tommyvideo (Pixabay) https://pixabay.com/videos/id-96200/; Graufilter (Pixabay) https://pixabay.com/videos/id-32384/; MixailMixail (Pixabay) https://pixabay.com/videos/id-4216/; Graufilter (Pixabay) https://pixabay.com/videos/id-32386/; franganillo (Pixabay) https://pixabay.com/videos/id-41948/; Thomas-Ritter (Pixabay) https://pixabay.com/videos/id-7118/; KlausHausmann (Pixabay) https://pixabay.com/videos/id-8625/; Kanenori (Pixabay) https://pixabay.com/videos/id-250395/; Talha_Rajpoot0786 (Pixabay) https://pixabay.com/videos/id-216098/; AlexKopeykin (Pixabay) https://pixabay.com/videos/id-42695/"
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-05",
-        "name": "2026-10-05-2-v0.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-05",
-        "name": "2026-10-05-2-v0-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,050 --> 00:00:02,538\nYou're playing it wrong and honestly your\n\n2\n00:00:02,538 --> 00:00:05,575\nfamily probably invented half the rules Let's\n\n3\n00:00:05,575 --> 00:00:07,037\nlook at the top five board game\n\n4\n00:00:07,037 --> 00:00:10,550\nmyths Number five In Scrabble you can't\n\n5\n00:00:10,550 --> 00:00:13,438\nplay proper nouns No your cat's name\n\n6\n00:00:13,438 --> 00:00:15,350\nis not a valid word no matter\n\n7\n00:00:15,350 --> 00:00:17,512\nhow many points it's worth At number\n\n8\n00:00:17,512 --> 00:00:20,200\nfour Clue You don't lose a turn\n\n9\n00:00:20,200 --> 00:00:22,488\nfor a wrong suggestion You just keep\n\n10\n00:00:22,488 --> 00:00:24,625\nguessing until you inevitably lose the game\n\n11\n00:00:24,625 --> 00:00:28,387\nanyway Number three In Uno stacking draw\n\n12\n00:00:28,387 --> 00:00:30,975\ncards is illegal Yes I know it's\n\n13\n00:00:30,975 --> 00:00:33,013\nfun to ruin your sister's life but\n\n14\n00:00:33,013 --> 00:00:35,663\nthe manual says no At number two\n\n15\n00:00:35,663 --> 00:00:38,450\nSorry You cannot slide into your own\n\n16\n00:00:38,450 --> 00:00:40,612\ncolor It's like trying to high five\n\n17\n00:00:40,612 --> 00:00:43,812\nyourself just don't do it Number one\n\n18\n00:00:43,812 --> 00:00:45,763\nIn Monopoly there is no money for\n\n19\n00:00:45,763 --> 00:00:48,275\nlanding on Free Parking That rule was\n\n20\n00:00:48,275 --> 00:00:50,450\ninvented solely to make games last three\n\n21\n00:00:50,450 --> 00:00:52,487\nweeks We all make up rules to\n\n22\n00:00:52,487 --> 00:00:54,612\nkeep the peace but let's be real\n\n23\n00:00:54,612 --> 00:00:56,950\nyou're playing it wrong and honestly your\n\n24\n00:00:56,950 --> 00:00:59,550\nfamily probably invented half the rules\n",
-      "tg_msg": 113,
-      "opts_msg": 115,
-      "approved_by": "you",
-      "publish_now": false,
-      "description_full": "These common board game rules are actually fake and were likely invented by your family.\n\n#shorts #boardgames #tabletop #top5 #funny\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review and approved by the channel owner.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-AU-WilliamMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): OrcaTec (Pixabay) https://pixabay.com/videos/id-19600/; iddea_photo (Pixabay) https://pixabay.com/videos/id-253998/; OrcaTec (Pixabay) https://pixabay.com/videos/id-19459/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-1306/; TRAPHITHO (Pixabay) https://pixabay.com/videos/id-27889/; Kaffees\u00fcchtig (Pixabay) https://pixabay.com/videos/id-275052/; AndyOlsha (Pixabay) https://pixabay.com/videos/id-89985/; tommyvideo (Pixabay) https://pixabay.com/videos/id-5393/; OrcaTec (Pixabay) https://pixabay.com/videos/id-19598/; 8385 (Pixabay) https://pixabay.com/videos/id-632/; Coverr-Free-Footage (Pixabay) https://pixabay.com/videos/id-1651/; tommyvideo (Pixabay) https://pixabay.com/videos/id-96200/; Graufilter (Pixabay) https://pixabay.com/videos/id-32384/; MixailMixail (Pixabay) https://pixabay.com/videos/id-4216/; Graufilter (Pixabay) https://pixabay.com/videos/id-32386/; franganillo (Pixabay) https://pixabay.com/videos/id-41948/; Thomas-Ritter (Pixabay) https://pixabay.com/videos/id-7118/; KlausHausmann (Pixabay) https://pixabay.com/videos/id-8625/; Kanenori (Pixabay) https://pixabay.com/videos/id-250395/; Talha_Rajpoot0786 (Pixabay) https://pixabay.com/videos/id-216098/; AlexKopeykin (Pixabay) https://pixabay.com/videos/id-42695/\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/YnklFormw-k",
-          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-05T23:05:48.607476+00:00",
-      "slot": "2026-10-06T16:15:00+00:00"
-    },
     "2026-10-05-3": {
       "topic": {
         "title": "Top 5 Everyday Objects That Are Way Older Than You Think",
@@ -9150,9 +8641,9 @@
         "trend_source": "The Bulletproof Arapaima Monster Fish (Xfacto, 9.2x); The Last Runner Knew a Secret Cooling Trick (SnipeFlex, 283.7x)",
         "plan_id": "P2026-10-12-01"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "auto",
-      "updated": "2026-10-13T00:55:20.261398+00:00",
+      "updated": "2026-10-13T07:55:24.167051+00:00",
       "redos": 0,
       "package": {
         "primary_keyword": "armored animals",
@@ -9481,7 +8972,29 @@
       },
       "srt": "1\n00:00:00,150 --> 00:00:03,157\nBefore you meet the Amazon fish piranhas\n\n2\n00:00:03,157 --> 00:00:05,600\ncan't bite, you need to see the\n\n3\n00:00:05,600 --> 00:00:07,604\nother four armored animals.\n\n4\n00:00:07,604 --> 00:00:10,423\nHere are five animals that grow their\n\n5\n00:00:10,423 --> 00:00:11,237\nown armor.\n\n6\n00:00:11,237 --> 00:00:14,119\nNumber five, the three-banded armadillo.\n\n7\n00:00:14,119 --> 00:00:16,875\nIt's one of only two armadillos that\n\n8\n00:00:16,875 --> 00:00:19,193\ncan roll into a complete ball.\n\n9\n00:00:19,193 --> 00:00:21,134\nNumber four, the pangolin.\n\n10\n00:00:21,134 --> 00:00:24,329\nIts overlapping scales are made of keratin,\n\n11\n00:00:24,329 --> 00:00:26,960\nthe same stuff as your fingernails.\n\n12\n00:00:26,960 --> 00:00:28,839\nNumber three, the chiton.\n\n13\n00:00:28,839 --> 00:00:31,658\nThis sea mollusk has hundreds of tiny\n\n14\n00:00:31,658 --> 00:00:33,663\neyes built into its armor.\n\n15\n00:00:33,663 --> 00:00:36,105\nNumber two, the scaly-foot snail.\n\n16\n00:00:36,105 --> 00:00:38,799\nIt lives by deep-sea vents, and its\n\n17\n00:00:38,799 --> 00:00:41,305\nshell is coated in iron minerals.\n\n18\n00:00:41,305 --> 00:00:43,184\nNumber one, the arapaima.\n\n19\n00:00:43,184 --> 00:00:46,378\nThis giant Amazon fish swims with piranhas,\n\n20\n00:00:46,378 --> 00:00:49,197\nand their teeth can't get through its\n\n21\n00:00:49,197 --> 00:00:49,761\nscales.\n\n22\n00:00:49,761 --> 00:00:52,016\nA hard outer layer sits on a\n\n23\n00:00:52,016 --> 00:00:55,023\ntough, bendy one underneath, so the bite\n\n24\n00:00:55,023 --> 00:00:56,589\nnever breaks through.\n\n25\n00:00:56,589 --> 00:00:59,596\nThat's the fish piranhas can't bite, and\n\n26\n00:00:59,596 --> 00:01:01,788\nengineers study it for armor.\n\n27\n00:01:01,788 --> 00:01:04,419\nWhich of these five would you want\n\n28\n00:01:04,419 --> 00:01:06,423\nyour phone case made from?\n\n29\n00:01:06,423 --> 00:01:09,117\nTell me, then meet that Amazon fish\n\n30\n00:01:09,117 --> 00:01:09,968\nagain.\n",
       "tg_msg": 311,
-      "opts_msg": 313
+      "opts_msg": 313,
+      "approved_by": "auto",
+      "description_full": "Meet five armored animals, from the armadillo and pangolin to the arapaima, the Amazon fish piranhas can't bite through. Here are the top five animals with built-in armor, ranked.\n\nIn this Short: armadillos, pangolins, chitons, the iron-shelled scaly-foot snail and the piranha-proof arapaima.\n\nSources:\nhttps://jacobsschool.ucsd.edu/news/release/2876\nhttps://news.mit.edu/2010/snail-shell\nhttps://news.mit.edu/2015/sea-creature-armor-plating-transparent-ceramic-eyes-1119\n\n#shorts #animals #animalfacts #top5\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Google Text-to-Speech).\nStock footage/photos (Pexels/Pixabay Content License): NickyPe (Pixabay) https://pixabay.com/videos/id-118756/; BuchArena (Pixabay) https://pixabay.com/photos/armadillo-shell-armor-ball-grass-10493409/; BuchArena (Pixabay) https://pixabay.com/photos/armadillo-animal-defense-landscape-10493411/; MasaStojanovic (Pixabay) https://pixabay.com/photos/armadillo-nature-animals-8615359/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-1433/; happypixel19 (Pixabay) https://pixabay.com/photos/water-nature-lake-wildlife-pool-3303030/\nMatt Knoth / Wikimedia Commons (CC BY 2.0) https://commons.wikimedia.org/wiki/File:Tonicella_lineata_1.jpg\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/VK6y39YO_0o",
+          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-10-13T07:55:24.167068+00:00",
+      "slot": "2026-10-13T16:15:00+00:00"
     },
     "2026-10-12-2": {
       "topic": {
@@ -9493,9 +9006,9 @@
         "trend_source": "Games kotak misteri kedelai (Mata Panda, 22.8x); Guess Who the Pro Is (ywddxwls, 10.9x)",
         "plan_id": "P2026-10-12-02"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "auto",
-      "updated": "2026-10-13T01:02:13.906743+00:00",
+      "updated": "2026-10-13T07:55:31.325836+00:00",
       "redos": 0,
       "package": {
         "primary_keyword": "funny jobs from history",
@@ -9826,7 +9339,29 @@
       },
       "srt": "1\n00:00:00,150 --> 00:00:03,537\nYou'd never guess that before alarm clocks,\n\n2\n00:00:03,537 --> 00:00:06,261\nsomeone got paid to shoot peas at\n\n3\n00:00:06,261 --> 00:00:07,257\nyour window.\n\n4\n00:00:07,257 --> 00:00:10,180\nHere are five real jobs from history\n\n5\n00:00:10,180 --> 00:00:11,774\nthat sound made up.\n\n6\n00:00:11,774 --> 00:00:13,700\nNumber five, ice cutter.\n\n7\n00:00:13,700 --> 00:00:17,087\nBefore fridges, crews sawed giant blocks of\n\n8\n00:00:17,087 --> 00:00:19,811\nice from frozen lakes to keep for\n\n9\n00:00:19,811 --> 00:00:20,408\nsummer.\n\n10\n00:00:20,408 --> 00:00:22,202\nNumber four, pinsetter.\n\n11\n00:00:22,202 --> 00:00:24,991\nBowling alleys paid kids to sit at\n\n12\n00:00:24,991 --> 00:00:27,449\nthe end of the lane and reset\n\n13\n00:00:27,449 --> 00:00:28,977\nevery pin by hand.\n\n14\n00:00:28,977 --> 00:00:31,501\nDodging bowling balls came free.\n\n15\n00:00:31,501 --> 00:00:33,161\nNumber three, lector.\n\n16\n00:00:33,161 --> 00:00:36,549\nIn cigar factories, workers paid someone to\n\n17\n00:00:36,549 --> 00:00:39,803\nread newspapers and novels out loud while\n\n18\n00:00:39,803 --> 00:00:40,800\nthey rolled.\n\n19\n00:00:40,800 --> 00:00:42,261\nA human audiobook.\n\n20\n00:00:42,261 --> 00:00:44,121\nNumber two, swan upper.\n\n21\n00:00:44,121 --> 00:00:47,641\nEvery summer on England's River Thames, crews\n\n22\n00:00:47,641 --> 00:00:50,763\nrow along counting swans and shout \"All\n\n23\n00:00:50,763 --> 00:00:53,420\nup!\" And yes, that still happens.\n\n24\n00:00:53,420 --> 00:00:55,412\nNumber one, knocker-upper.\n\n25\n00:00:55,412 --> 00:00:58,932\nIn industrial Britain, they tapped on windows\n\n26\n00:00:58,932 --> 00:01:01,722\nwith long poles to wake people for\n\n27\n00:01:01,722 --> 00:01:02,187\nwork.\n\n28\n00:01:02,187 --> 00:01:05,375\nOne London woman, Mary Smith, shot dried\n\n29\n00:01:05,375 --> 00:01:07,634\npeas through a tube instead.\n\n30\n00:01:07,634 --> 00:01:10,423\nWhich of these five jobs would you\n\n31\n00:01:10,423 --> 00:01:12,150\nactually sign up for?\n\n32\n00:01:12,150 --> 00:01:12,482\nMe?\n\n33\n00:01:12,482 --> 00:01:14,364\nI'd want the peas.\n",
       "tg_msg": 314,
-      "opts_msg": 316
+      "opts_msg": 316,
+      "approved_by": "auto",
+      "description_full": "Five funny jobs from history that sound fake but were real, from ice cutters and pinsetters to the knocker upper who woke people before alarm clocks. Which of these weird old jobs would you take?\n\nIn this Short: ice cutters, pinsetters, cigar factory lectors, swan uppers and the pea-shooting knocker-upper.\n\nSources:\nhttps://en.wikipedia.org/wiki/Mary_Smith_(knocker_upper)\nhttps://en.wikipedia.org/wiki/Pinsetter\nhttps://www.mentalfloss.com/article/71485/lectores-who-read-cubas-cigar-rollers\n\n#shorts #history #funnyfacts #jobs #funny\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Google Text-to-Speech).\nBenjamin J. DeLong / Wikimedia Commons (CC BY 2.0) https://commons.wikimedia.org/wiki/File:5-pin_bowling_pins_(4177654894).jpg\nThe Library of Congress / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:Havana_--_Cigar_factory_LOC_15556540835.jpg\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/1_ZcE3komso",
+          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-10-13T07:55:31.325854+00:00",
+      "slot": "2026-10-13T19:15:00+00:00"
     },
     "2026-10-12-3": {
       "topic": {
@@ -9838,9 +9373,9 @@
         "trend_source": "Guess Who the Pro Is (ywddxwls, 10.9x); Games kotak misteri kedelai (Mata Panda, 22.8x)",
         "plan_id": "P2026-10-12-03"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "auto",
-      "updated": "2026-10-13T01:07:09.482065+00:00",
+      "updated": "2026-10-13T07:55:40.054940+00:00",
       "redos": 0,
       "package": {
         "primary_keyword": "weather quiz",
@@ -10202,7 +9737,29 @@
       },
       "srt": "1\n00:00:00,150 --> 00:00:03,539\nWhy do you believe lightning never strikes\n\n2\n00:00:03,539 --> 00:00:05,301\nthe same place twice?\n\n3\n00:00:05,301 --> 00:00:06,453\nReal or fake?\n\n4\n00:00:06,453 --> 00:00:09,638\nThree weather facts, three seconds each.\n\n5\n00:00:09,638 --> 00:00:11,400\nCall it before I do.\n\n6\n00:00:11,400 --> 00:00:14,789\nFact one, lightning never strikes the same\n\n7\n00:00:14,789 --> 00:00:15,805\nplace twice.\n\n8\n00:00:15,805 --> 00:00:17,161\nThree, two, one.\n\n9\n00:00:17,161 --> 00:00:17,635\nFake!\n\n10\n00:00:17,635 --> 00:00:20,685\nTall, pointy things get hit again and\n\n11\n00:00:20,685 --> 00:00:21,227\nagain.\n\n12\n00:00:21,227 --> 00:00:24,684\nThe Empire State Building gets struck about\n\n13\n00:00:24,684 --> 00:00:26,785\ntwenty-three times a year.\n\n14\n00:00:26,785 --> 00:00:29,902\nFact two, lightning is hotter than the\n\n15\n00:00:29,902 --> 00:00:31,529\nsurface of the sun.\n\n16\n00:00:31,529 --> 00:00:32,884\nThree, two, one.\n\n17\n00:00:32,884 --> 00:00:33,359\nReal!\n\n18\n00:00:33,359 --> 00:00:35,663\nA bolt can heat the air to\n\n19\n00:00:35,663 --> 00:00:38,780\nabout fifty thousand degrees Fahrenheit.\n\n20\n00:00:38,780 --> 00:00:42,033\nThat's around five times hotter than the\n\n21\n00:00:42,033 --> 00:00:43,186\nsun's surface.\n\n22\n00:00:43,186 --> 00:00:45,761\nFact three, it can be too cold\n\n23\n00:00:45,761 --> 00:00:46,506\nto snow.\n\n24\n00:00:46,506 --> 00:00:47,862\nThree, two, one.\n\n25\n00:00:47,862 --> 00:00:48,336\nFake!\n\n26\n00:00:48,336 --> 00:00:51,318\nIt can snow when it's bitterly cold,\n\n27\n00:00:51,318 --> 00:00:54,097\nbut cold air holds less water, so\n\n28\n00:00:54,097 --> 00:00:55,656\nyou get less snow.\n\n29\n00:00:55,656 --> 00:00:58,705\nSo there's your answer key: two fakes\n\n30\n00:00:58,705 --> 00:00:59,858\nand one real.\n\n31\n00:00:59,858 --> 00:01:02,636\nHow many did you get right, zero,\n\n32\n00:01:02,636 --> 00:01:04,195\none, two or three?\n\n33\n00:01:04,195 --> 00:01:06,838\nAnd if you missed fact one, ask\n\n34\n00:01:06,838 --> 00:01:08,404\nyourself again.\n",
       "tg_msg": 317,
-      "opts_msg": 319
+      "opts_msg": 319,
+      "approved_by": "auto",
+      "description_full": "Can you beat this weather quiz? Three real or fake weather facts, including does lightning strike the same place twice and is it ever too cold to snow.\n\nIn this Short: a three-question real or fake quiz on lightning, the sun and snow.\n\nSources:\nhttps://www.weather.gov/safety/lightning-myths\nhttps://www.weather.gov/safety/lightning-temperature\nhttps://www.popsci.com/can-it-be-too-cold-to-snow/\n\n#shorts #quiz #weather #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Google Text-to-Speech).\nStock footage/photos (Pexels/Pixabay Content License): Mohamed_hassan (Pixabay) https://pixabay.com/videos/id-198748/; Relaxing_Guru (Pixabay) https://pixabay.com/videos/id-31342/; Luis_Humanoide (Pixabay) https://pixabay.com/videos/id-28067/; adege (Pixabay) https://pixabay.com/videos/id-125192/; Kang_Saif (Pixabay) https://pixabay.com/videos/id-174163/; Placidplace (Pixabay) https://pixabay.com/videos/id-118586/; Placidplace (Pixabay) https://pixabay.com/videos/id-154200/; eikira (Pixabay) https://pixabay.com/videos/id-2172/; UniverseUnique (Pixabay) https://pixabay.com/videos/id-188306/; UniverseUnique (Pixabay) https://pixabay.com/videos/id-191253/; iwsky (Pixabay) https://pixabay.com/videos/id-273068/; iwsky (Pixabay) https://pixabay.com/videos/id-273062/; Kanenori (Pixabay) https://pixabay.com/videos/id-266009/; NickyPe (Pixabay) https://pixabay.com/videos/id-139777/; invisiblepower (Pixabay) https://pixabay.com/videos/id-7328/; BeezeeStock (Pixabay) https://pixabay.com/videos/id-241200/\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/HH4QlwPb6Uw",
+          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-10-13T07:55:40.054958+00:00",
+      "slot": "2026-10-13T23:15:00+00:00"
     },
     "2026-10-12-4": {
       "topic": {
@@ -10546,6 +10103,1399 @@
         "name": "2026-10-12-4-v0-thumb.jpg"
       },
       "srt": "1\n00:00:00,150 --> 00:00:03,027\nBefore you visit Paris, you should know\n\n2\n00:00:03,027 --> 00:00:05,719\nthe Eiffel Tower had an expiry date.\n\n3\n00:00:05,719 --> 00:00:08,351\nHere's how it almost came down, and\n\n4\n00:00:08,351 --> 00:00:09,453\nwhat saved it.\n\n5\n00:00:09,453 --> 00:00:12,207\nThe tower opened for the World's Fair\n\n6\n00:00:12,207 --> 00:00:13,920\nin eighteen eighty-nine.\n\n7\n00:00:13,920 --> 00:00:16,736\nBut Gustave Eiffel's deal only let him\n\n8\n00:00:16,736 --> 00:00:19,000\nuse the land for twenty years.\n\n9\n00:00:19,000 --> 00:00:21,754\nAfter that, Paris could take it down.\n\n10\n00:00:21,754 --> 00:00:24,264\nSo Eiffel needed a reason to keep\n\n11\n00:00:24,264 --> 00:00:24,570\nit.\n\n12\n00:00:24,570 --> 00:00:25,426\nHis answer?\n\n13\n00:00:25,426 --> 00:00:26,039\nScience.\n\n14\n00:00:26,039 --> 00:00:29,466\nHe backed weather and air resistance experiments\n\n15\n00:00:29,466 --> 00:00:30,200\nup there.\n\n16\n00:00:30,200 --> 00:00:33,322\nThen in eighteen ninety-eight, a Morse code\n\n17\n00:00:33,322 --> 00:00:36,076\nradio message was sent from the tower\n\n18\n00:00:36,076 --> 00:00:37,055\nacross Paris.\n\n19\n00:00:37,055 --> 00:00:40,237\nSuddenly, the city's tallest structure looked\n\n20\n00:00:40,237 --> 00:00:42,502\nlike the perfect giant antenna.\n\n21\n00:00:42,502 --> 00:00:45,256\nArmy radio tests from the top reached\n\n22\n00:00:45,256 --> 00:00:46,725\nfarther and farther.\n\n23\n00:00:46,725 --> 00:00:49,969\nBy nineteen-oh-nine, a permanent radio station\n\n24\n00:00:49,969 --> 00:00:51,560\nsat right beneath it.\n\n25\n00:00:51,560 --> 00:00:54,865\nSo in nineteen-ten, Eiffel's deal was extended\n\n26\n00:00:54,865 --> 00:00:56,150\nby seventy years.\n\n27\n00:00:56,150 --> 00:00:58,843\nThat's how the tower beat its expiry\n\n28\n00:00:58,843 --> 00:01:00,863\ndate: it became an antenna.\n\n29\n00:01:00,863 --> 00:01:03,555\nDid you know the Eiffel Tower almost\n\n30\n00:01:03,555 --> 00:01:05,208\ncame down, yes or no?\n\n31\n00:01:05,208 --> 00:01:08,295\nIf you said no, here's your reminder.\n"
+    },
+    "2026-10-12-2-1": {
+      "topic": {
+        "title": "Top 5 Animals With The Most Ridiculous Excuses For Sleeping",
+        "angle": "Counting down five animals that sleep in the most absurd, hilarious positions and places imaginable.",
+        "format": "ranking",
+        "tone": "funny",
+        "trend_source": "evergreen",
+        "virality_score": 9,
+        "why": "High loop potential, universally loved cute animal content paired with unexpected, funny narrative humor."
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-13T07:33:30.860372+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "weird animal sleeping habits",
+        "title": "Top 5 Weird Animal Sleeping Habits \ud83d\ude34",
+        "hook_text": "Animals With Weirdest Sleep Habits",
+        "thumbnail_text": "Impossible Sleeping Positions",
+        "description": "Discover the weird animal sleeping habits that look too ridiculous to be real.\nFrom whales sleeping upright to birds napping in flight, animal sleep facts never cease to amaze.",
+        "hashtags": [
+          "#shorts",
+          "#wildlife",
+          "#animalsleep",
+          "#top5",
+          "#funny"
+        ],
+        "tags": [
+          "weird animal sleeping habits",
+          "weird animal facts",
+          "funny animal facts",
+          "how sea animals sleep",
+          "sleeping habits of animals",
+          "common swift flying while sleeping",
+          "sea otters holding hands",
+          "flamingo sleeping one leg",
+          "sperm whale sleeping vertical",
+          "animals sleeping in weird positions",
+          "how animals sleep",
+          "amazing animal facts",
+          "strange animal facts",
+          "interesting animal facts",
+          "how animals sleep at night",
+          "how animals sleep underwater",
+          "how animals sleep in the ocean"
+        ],
+        "pinned_comment": "Which of these five sleeping positions best describes your weekend nap? Tell us in the comments! \ud83d\udc47",
+        "scenes": [
+          {
+            "text": "Nature gave these creatures ridiculous ways to take a nap. Seriously, wait until you see number one.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "sleeping animals",
+              "wildlife resting"
+            ],
+            "image_prompt": "A comical wide angle view of various wild animals looking sleepy in a lush forest meadow, soft golden sunrise light, 9:16 vertical orientation",
+            "stock_query": "sleeping animals"
+          },
+          {
+            "text": "Number five, sea otters. Otters hold hands while snoozing so currents do not float them away. It is adorable, tactical clinginess.",
+            "badge": "#5",
+            "label": "Sea Otter",
+            "stock_queries": [
+              "sea otter floating",
+              "otters holding hands"
+            ],
+            "image_prompt": "Two fluffy sea otters floating on their backs in calm ocean water holding paws while asleep, crisp cinematic lighting, 9:16 vertical orientation",
+            "stock_query": "sea otter floating"
+          },
+          {
+            "text": "At number four, flamingos. They lock one leg joint and sleep standing on a single stick. Apparently, using two legs takes too much effort.",
+            "badge": "#4",
+            "label": "Flamingo",
+            "stock_queries": [
+              "flamingo sleeping",
+              "flamingos in water"
+            ],
+            "image_prompt": "A bright pink flamingo balanced asleep on one skinny leg with its head tucked under its wing in shallow blue water, 9:16 vertical orientation",
+            "stock_query": "flamingo sleeping"
+          },
+          {
+            "text": "Number three, giraffes. With six-foot necks, beds are useless. So they twist completely around and use their own butt as a pillow.",
+            "badge": "#3",
+            "label": "Giraffe",
+            "stock_queries": [
+              "giraffe sleeping",
+              "giraffe savannah resting"
+            ],
+            "image_prompt": "An adult giraffe curled up on the African savannah grass, long neck curved backward resting its head on its hip, 9:16 vertical orientation",
+            "stock_query": "giraffe sleeping"
+          },
+          {
+            "text": "At number two, sperm whales. Entire pods nap completely motionless, bobbing straight up and down like giant floating pickles. Honestly, it looks surreal.",
+            "badge": "#2",
+            "label": "Sperm Whale",
+            "stock_queries": [
+              "sperm whale pod",
+              "whale sleeping vertical"
+            ],
+            "image_prompt": "A pod of giant sperm whales vertically suspended motionless in deep dark blue open ocean water, rays of sunlight piercing down, 9:16 vertical orientation",
+            "stock_query": "sperm whale pod"
+          },
+          {
+            "text": "And number one, the common swift. They stay airborne for ten months straight, taking micro-naps while gliding through the clouds. Ultimate aerial flex.",
+            "badge": "#1",
+            "label": "Common Swift",
+            "stock_queries": [
+              "swift bird flying",
+              "flock of swifts"
+            ],
+            "image_prompt": "A sleek dark common swift bird gliding effortlessly high above dramatic cumulus sunset clouds, dreamlike atmosphere, 9:16 vertical orientation",
+            "stock_query": "swift bird flying"
+          },
+          {
+            "text": "Which ridiculous sleeping position best describes your Sunday afternoon? Drop your pick below, because honestly...",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "tired domestic cat",
+              "sleepy pet yawning"
+            ],
+            "image_prompt": "A funny domestic cat sleeping in a totally contorted twisted position upside down on a couch, warm ambient lighting, 9:16 vertical orientation",
+            "stock_query": "tired domestic cat"
+          }
+        ],
+        "key_facts": [
+          "Sea otters hold paws while sleeping to prevent ocean currents from drifting them apart.",
+          "Flamingos sleep standing on one leg by engaging a passive locking mechanism in their joints.",
+          "Giraffes sleep only around thirty minutes a day and curve their long necks around to rest on their own rumps.",
+          "Sperm whales take power naps suspended completely vertically in the water column.",
+          "Common swifts can remain continuously airborne for ten months, sleeping while gliding in midair."
+        ],
+        "format": "ranking",
+        "tone": "funny",
+        "category": "23",
+        "script": "Nature gave these creatures ridiculous ways to take a nap. Seriously, wait until you see number one. Number five, sea otters. Otters hold hands while snoozing so currents do not float them away. It is adorable, tactical clinginess. At number four, flamingos. They lock one leg joint and sleep standing on a single stick. Apparently, using two legs takes too much effort. Number three, giraffes. With six-foot necks, beds are useless. So they twist completely around and use their own butt as a pillow. At number two, sperm whales. Entire pods nap completely motionless, bobbing straight up and down like giant floating pickles. Honestly, it looks surreal. And number one, the common swift. They stay airborne for ten months straight, taking micro-naps while gliding through the clouds. Ultimate aerial flex. Which ridiculous sleeping position best describes your Sunday afternoon? Drop your pick below, because honestly...",
+        "shot_plan": [
+          {
+            "subject": "variety of animals sleeping in unusual poses",
+            "queries": [
+              {
+                "q": "sleeping animal",
+                "must": [
+                  "sleeping"
+                ]
+              },
+              {
+                "q": "funny wildlife",
+                "must": [
+                  "wildlife"
+                ]
+              },
+              {
+                "q": "animal nap",
+                "must": [
+                  "animal"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "sea otters holding hands while floating on water",
+            "queries": [
+              {
+                "q": "sea otters floating",
+                "must": [
+                  "otter"
+                ]
+              },
+              {
+                "q": "otter holding hands",
+                "must": [
+                  "otters"
+                ]
+              },
+              {
+                "q": "cute sea otter",
+                "must": [
+                  "sea"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "flamingo sleeping standing on one leg",
+            "queries": [
+              {
+                "q": "flamingo standing one leg",
+                "must": [
+                  "flamingo"
+                ]
+              },
+              {
+                "q": "sleeping flamingo",
+                "must": [
+                  "bird"
+                ]
+              },
+              {
+                "q": "pink flamingo",
+                "must": [
+                  "pink"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "giraffe sleeping with its neck twisted back resting on its body",
+            "queries": [
+              {
+                "q": "giraffe sleeping",
+                "must": [
+                  "giraffe"
+                ]
+              },
+              {
+                "q": "resting giraffe",
+                "must": [
+                  "neck"
+                ]
+              },
+              {
+                "q": "safari animal",
+                "must": [
+                  "animal"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "sperm whales vertical in the water column resting",
+            "queries": [
+              {
+                "q": "sperm whale vertical",
+                "must": [
+                  "whale"
+                ]
+              },
+              {
+                "q": "whales sleeping underwater",
+                "must": [
+                  "sperm"
+                ]
+              },
+              {
+                "q": "ocean mammal",
+                "must": [
+                  "ocean"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "common swift bird flying in the sky clouds",
+            "queries": [
+              {
+                "q": "common swift flying",
+                "must": [
+                  "swift"
+                ]
+              },
+              {
+                "q": "bird flight sky",
+                "must": [
+                  "bird"
+                ]
+              },
+              {
+                "q": "flying bird clouds",
+                "must": [
+                  "sky"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "sloth or cat sleeping deeply in a lazy pose",
+            "queries": [
+              {
+                "q": "lazy sleeping cat",
+                "must": [
+                  "cat"
+                ]
+              },
+              {
+                "q": "sleeping sloth",
+                "must": [
+                  "sloth"
+                ]
+              },
+              {
+                "q": "animal resting",
+                "must": [
+                  "resting"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "animal sleeping",
+          "wildlife nap",
+          "funny animal"
+        ],
+        "visual_style": "Close-up, humorous wildlife footage of animals in bizarre sleeping positions with natural outdoor and aquatic settings",
+        "visual_refs": [
+          "\ud83e\udd23 Dusty Dubs Animal Voiceover Mashup 176",
+          "paw enforcement 2 \ud83c\udfa5: @lilochipie #shorts",
+          "Pat-A-Cake Cats",
+          "Mashup 124 \ud83c\udfa5: analee_artworks (IG) / @tansuyegen380 / @gravedancerarkinsaw / unknown #shorts",
+          "\ud83e\udd8e Hilarious Reptile/Amphibian Voiceover Compilation #dustydubs #voiceover #shorts",
+          "RanKinG tHe FuNNiesT TalKinG DoGs \ud83d\udc36\ud83d\udcc8"
+        ],
+        "voice": "gTTS",
+        "visual_report": {
+          "shots": 12,
+          "checked": 12,
+          "unchecked": 0,
+          "filler": 0,
+          "ai": 0
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Google Text-to-Speech).",
+        "Stock footage/photos (Pexels/Pixabay Content License): BlenderTimer (Pixabay) https://pixabay.com/videos/id-218645/; Bru-nO (Pixabay) https://pixabay.com/photos/flamingo-bird-water-bird-pink-4489777/; luctheo (Pixabay) https://pixabay.com/photos/flamingo-pink-bird-animals-zoo-763894/; Ben_Kerckx (Pixabay) https://pixabay.com/photos/flamingo-animal-bird-pink-mates-1304216/; paulbr75 (Pixabay) https://pixabay.com/photos/baby-giraffe-animal-cute-giraffe-2239312/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-376846/; TheOtherKev (Pixabay) https://pixabay.com/photos/swift-swift-in-flight-swift-flying-5241406/; TheOtherKev (Pixabay) https://pixabay.com/photos/swift-european-swift-black-bird-5248648/; kieutruongphoto (Pixabay) https://pixabay.com/videos/id-35733/; kieutruongphoto (Pixabay) https://pixabay.com/videos/id-35693/; Bernard_Townsend (Pixabay) https://pixabay.com/videos/id-127621/",
+        "Mike Baird from Morro Bay, USA / Wikimedia Commons (CC BY 2.0) https://commons.wikimedia.org/wiki/File:A_newborn_baby_Sea_Otter,_Enhydra_lutris,_Morro_Bay.jpg"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-12",
+        "name": "2026-10-12-2-1-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-12",
+        "name": "2026-10-12-2-1-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,150 --> 00:00:03,481\nNature gave these creatures ridiculous ways\n\n2\n00:00:03,481 --> 00:00:04,747\nto take a nap.\n\n3\n00:00:04,747 --> 00:00:08,011\nSeriously, wait until you see number one.\n\n4\n00:00:08,011 --> 00:00:09,943\nNumber five, sea otters.\n\n5\n00:00:09,943 --> 00:00:13,407\nOtters hold hands while snoozing so currents\n\n6\n00:00:13,407 --> 00:00:15,339\ndo not float them away.\n\n7\n00:00:15,339 --> 00:00:18,137\nIt is adorable, tactical clinginess.\n\n8\n00:00:18,137 --> 00:00:20,202\nAt number four, flamingos.\n\n9\n00:00:20,202 --> 00:00:22,933\nThey lock one leg joint and sleep\n\n10\n00:00:22,933 --> 00:00:25,132\nstanding on a single stick.\n\n11\n00:00:25,132 --> 00:00:28,396\nApparently, using two legs takes too much\n\n12\n00:00:28,396 --> 00:00:28,996\neffort.\n\n13\n00:00:28,996 --> 00:00:30,794\nNumber three, giraffes.\n\n14\n00:00:30,794 --> 00:00:33,792\nWith six-foot necks, beds are useless.\n\n15\n00:00:33,792 --> 00:00:36,923\nSo they twist completely around and use\n\n16\n00:00:36,923 --> 00:00:39,188\ntheir own butt as a pillow.\n\n17\n00:00:39,188 --> 00:00:41,453\nAt number two, sperm whales.\n\n18\n00:00:41,453 --> 00:00:44,984\nEntire pods nap completely motionless, bobbing\n\n19\n00:00:44,984 --> 00:00:48,182\nstraight up and down like giant floating\n\n20\n00:00:48,182 --> 00:00:48,848\npickles.\n\n21\n00:00:48,848 --> 00:00:50,980\nHonestly, it looks surreal.\n\n22\n00:00:50,980 --> 00:00:53,644\nAnd number one, the common swift.\n\n23\n00:00:53,644 --> 00:00:57,042\nThey stay airborne for ten months straight,\n\n24\n00:00:57,042 --> 00:01:00,373\ntaking micro-naps while gliding through the\n\n25\n00:01:00,373 --> 00:01:00,972\nclouds.\n\n26\n00:01:00,972 --> 00:01:02,638\nUltimate aerial flex.\n\n27\n00:01:02,638 --> 00:01:06,368\nWhich ridiculous sleeping position best describes\n\n28\n00:01:06,368 --> 00:01:08,100\nyour Sunday afternoon?\n\n29\n00:01:08,100 --> 00:01:11,611\nDrop your pick below, because honestly...\n",
+      "tg_msg": 327,
+      "opts_msg": 329
+    },
+    "2026-10-12-2-2": {
+      "topic": {
+        "title": "Can You Guess These 3 Mind-Bending Physics Illusions?",
+        "angle": "A fast-paced visual guessing game challenging viewers on whether rolling objects are going uphill or downhill.",
+        "format": "quiz",
+        "tone": "normal",
+        "trend_source": "evergreen",
+        "virality_score": 9,
+        "why": "Drives massive comment section engagement as viewers argue about the answer, boosting algorithmic distribution."
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-13T07:40:42.581189+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "physics illusions",
+        "title": "Can You Solve These 3 Physics Illusions? \ud83e\udde0",
+        "hook_text": "Uphill or downhill?",
+        "thumbnail_text": "Mind Bending Physics",
+        "description": "Test your brain with three fast-paced physics illusions where rolling objects seem to defy gravity. Can you get all three right before the timer runs out?",
+        "hashtags": [
+          "#shorts",
+          "#science",
+          "#physics",
+          "#quiz"
+        ],
+        "tags": [
+          "physics illusions",
+          "mind bending science",
+          "gravity illusion experiment",
+          "gravity hill optical illusion",
+          "physics quiz",
+          "uphill downhill",
+          "gravity illusion",
+          "mind blowing science",
+          "anti gravity illusion",
+          "gravity hill illusion",
+          "physical optical illusions",
+          "uphill downhill illusion",
+          "physics quizzes",
+          "physics phenomenon",
+          "visual quiz",
+          "science trivia",
+          "physics puzzles",
+          "optical illusions",
+          "science experiments",
+          "challenge your brain",
+          "how do illusions work"
+        ],
+        "pinned_comment": "Which illusion tricked your brain the hardest? Let me know your score in the comments below!",
+        "key_facts": [
+          "Double cone rolling objects can appear to roll uphill due to the rising angle of the V-shaped tracks lowering its center of gravity.",
+          "Water running uphill on special tracks is an illusion created by the sloping frame of the structure relative to the horizontal water level."
+        ],
+        "scenes": [
+          {
+            "text": "Only a few people get all three right, so let us test your brain with three fast-paced physics illusions. Uphill or downhill?",
+            "badge": "Intro",
+            "label": "Physics Illusions Quiz",
+            "stock_queries": [
+              "rolling wooden ball",
+              "wooden incline track"
+            ],
+            "image_prompt": "Vertical 9:16 image of a wooden physics track on a table, dramatic lighting, no text, no people.",
+            "stock_query": "rolling wooden ball"
+          },
+          {
+            "text": "Q1. Is this wooden ball rolling uphill or downhill? Look closely at the tracks and make your choice. Three, two, one.",
+            "badge": "Q1",
+            "label": "Rolling Ball Illusion",
+            "stock_queries": [
+              "wooden ball rolling",
+              "angled wooden ramp"
+            ],
+            "image_prompt": "Vertical 9:16 image of a wooden ball resting on a slanted wooden rail, studio light, no text.",
+            "stock_query": "wooden ball rolling"
+          },
+          {
+            "text": "It is actually rolling downhill. Even though the tracks spread apart, the actual center of gravity drops lower the further it goes.",
+            "badge": "\u2713",
+            "label": "Downhill",
+            "stock_queries": [
+              "ball rolling down",
+              "wooden rail closeup"
+            ],
+            "image_prompt": "Vertical 9:16 image of a double cone rolling along a diverging wooden track, no text.",
+            "stock_query": "ball rolling down"
+          },
+          {
+            "text": "Q2. Does this heavy steel cylinder roll uphill or downhill on these metal rails? Trust your eyes and decide right now. Three, two, one.",
+            "badge": "Q2",
+            "label": "Steel Cylinder Trick",
+            "stock_queries": [
+              "metal cylinder rolling",
+              "steel railway tracks"
+            ],
+            "image_prompt": "Vertical 9:16 image of a steel cylinder on metal rails, sharp focus, no text.",
+            "stock_query": "metal cylinder rolling"
+          },
+          {
+            "text": "It is going uphill. The rails widen and slope upward, but the cylinder's low center of mass lets it climb against our expectations.",
+            "badge": "\u2713",
+            "label": "Uphill",
+            "stock_queries": [
+              "metal roller up",
+              "steel rails incline"
+            ],
+            "image_prompt": "Vertical 9:16 image of a metallic roller on an ascending V track, clean background, no text.",
+            "stock_query": "metal roller up"
+          },
+          {
+            "text": "Q3. Here is the hardest one. Is this flowing water moving uphill or downhill across the wooden board? Think fast. Three, two, one.",
+            "badge": "Q3",
+            "label": "Water Flow Puzzle",
+            "stock_queries": [
+              "water flowing wood",
+              "wooden channel stream"
+            ],
+            "image_prompt": "Vertical 9:16 image of water flowing down a wooden channel, macro shot, no text.",
+            "stock_query": "water flowing wood"
+          },
+          {
+            "text": "It is rolling downhill. The entire wooden frame is tilted, tricking your brain into thinking the water defies gravity.",
+            "badge": "\u2713",
+            "label": "Downhill",
+            "stock_queries": [
+              "water stream channel",
+              "wooden water trough"
+            ],
+            "image_prompt": "Vertical 9:16 image of water moving through a tilted wooden sluice, dramatic contrast, no text.",
+            "stock_query": "water stream channel"
+          },
+          {
+            "text": "That was tough. Drop your score in the comments and let us know if...",
+            "badge": "Score",
+            "label": "Comment Your Score",
+            "stock_queries": [
+              "question mark sign",
+              "neon question mark"
+            ],
+            "image_prompt": "Vertical 9:16 image of a glowing question mark in a dark room, minimalist style, no text.",
+            "stock_query": "question mark sign"
+          }
+        ],
+        "format": "quiz",
+        "tone": "normal",
+        "category": "24",
+        "script": "Only a few people get all three right, so let us test your brain with three fast-paced physics illusions. Uphill or downhill? Q1. Is this wooden ball rolling uphill or downhill? Look closely at the tracks and make your choice. Three, two, one. It is actually rolling downhill. Even though the tracks spread apart, the actual center of gravity drops lower the further it goes. Q2. Does this heavy steel cylinder roll uphill or downhill on these metal rails? Trust your eyes and decide right now. Three, two, one. It is going uphill. The rails widen and slope upward, but the cylinder's low center of mass lets it climb against our expectations. Q3. Here is the hardest one. Is this flowing water moving uphill or downhill across the wooden board? Think fast. Three, two, one. It is rolling downhill. The entire wooden frame is tilted, tricking your brain into thinking the water defies gravity. That was tough. Drop your score in the comments and let us know if...",
+        "shot_plan": [
+          {
+            "subject": "physics illusion quiz graphic and puzzle intro",
+            "queries": [
+              {
+                "q": "physics illusion",
+                "must": [
+                  "physics"
+                ]
+              },
+              {
+                "q": "optical illusion",
+                "must": [
+                  "illusion"
+                ]
+              },
+              {
+                "q": "puzzle challenge",
+                "must": [
+                  "puzzle"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "wooden ball rolling on tracks",
+            "queries": [
+              {
+                "q": "wooden ball rolling",
+                "must": [
+                  "ball"
+                ]
+              },
+              {
+                "q": "ball track",
+                "must": [
+                  "track"
+                ]
+              },
+              {
+                "q": "rolling sphere",
+                "must": [
+                  "sphere"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "wooden ball rolling downhill on diverging tracks",
+            "queries": [
+              {
+                "q": "ball rolling downhill",
+                "must": [
+                  "downhill"
+                ]
+              },
+              {
+                "q": "wooden tracks",
+                "must": [
+                  "wood"
+                ]
+              },
+              {
+                "q": "gravity physics track",
+                "must": [
+                  "gravity"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "heavy steel cylinder on metal rails",
+            "queries": [
+              {
+                "q": "steel cylinder metal rails",
+                "must": [
+                  "cylinder"
+                ]
+              },
+              {
+                "q": "metal rails",
+                "must": [
+                  "rails"
+                ]
+              },
+              {
+                "q": "rolling cylinder",
+                "must": [
+                  "metal"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "steel cylinder moving uphill on rails",
+            "queries": [
+              {
+                "q": "cylinder going uphill",
+                "must": [
+                  "uphill"
+                ]
+              },
+              {
+                "q": "metal rail physics",
+                "must": [
+                  "rails"
+                ]
+              },
+              {
+                "q": "cylinder rolling",
+                "must": [
+                  "cylinder"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "flowing water on a tilted wooden board",
+            "queries": [
+              {
+                "q": "flowing water wooden board",
+                "must": [
+                  "water"
+                ]
+              },
+              {
+                "q": "water puzzle board",
+                "must": [
+                  "board"
+                ]
+              },
+              {
+                "q": "water stream wood",
+                "must": [
+                  "stream"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "water flowing downhill on tilted wooden frame",
+            "queries": [
+              {
+                "q": "water flowing downhill",
+                "must": [
+                  "downhill"
+                ]
+              },
+              {
+                "q": "water stream physics",
+                "must": [
+                  "water"
+                ]
+              },
+              {
+                "q": "tilted wooden board",
+                "must": [
+                  "wood"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "comments section score prompt graphic",
+            "queries": [
+              {
+                "q": "comment score",
+                "must": [
+                  "comment"
+                ]
+              },
+              {
+                "q": "score screen",
+                "must": [
+                  "score"
+                ]
+              },
+              {
+                "q": "social media comments",
+                "must": [
+                  "social"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "physics puzzle",
+          "optical illusion",
+          "rolling ball"
+        ],
+        "visual_style": "Viewers expect fast-paced, highly visual physics puzzles featuring rolling objects, optical illusions, and clear challenge prompts in vertical format.",
+        "visual_refs": [
+          "10 Mind Blowing Optical Illusions",
+          "An illusion image that can tests you are stressed or not... #everyminute #health",
+          "Only 7% of people can see this illusion",
+          "This Optical Illusion Will Trick Your Mind",
+          "Can You Trust Your Ears? (Audio Illusions)",
+          "Most Mind-Blowing Illusions #shorts #illusion"
+        ],
+        "voice": "gTTS",
+        "visual_report": {
+          "shots": 9,
+          "checked": 4,
+          "unchecked": 0,
+          "filler": 6,
+          "ai": 0
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Google Text-to-Speech).",
+        "Stock footage/photos (Pexels/Pixabay Content License): choxyltd (Pixabay) https://pixabay.com/videos/id-223625/; 44276297 (Pixabay) https://pixabay.com/videos/id-217293/; BayBank (Pixabay) https://pixabay.com/videos/id-324247/"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-12",
+        "name": "2026-10-12-2-2-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-12",
+        "name": "2026-10-12-2-2-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,150 --> 00:00:02,672\nOnly a few people get all three\n\n2\n00:00:02,672 --> 00:00:05,259\nright, so let us test your brain\n\n3\n00:00:05,259 --> 00:00:08,234\nwith three fast-paced physics illusions.\n\n4\n00:00:08,234 --> 00:00:09,722\nUphill or downhill?\n\n5\n00:00:09,722 --> 00:00:10,045\nQ1.\n\n6\n00:00:10,045 --> 00:00:12,956\nIs this wooden ball rolling uphill or\n\n7\n00:00:12,956 --> 00:00:13,667\ndownhill?\n\n8\n00:00:13,667 --> 00:00:16,448\nLook closely at the tracks and make\n\n9\n00:00:16,448 --> 00:00:17,418\nyour choice.\n\n10\n00:00:17,418 --> 00:00:18,712\nThree, two, one.\n\n11\n00:00:18,712 --> 00:00:21,169\nIt is actually rolling downhill.\n\n12\n00:00:21,169 --> 00:00:24,274\nEven though the tracks spread apart, the\n\n13\n00:00:24,274 --> 00:00:27,378\nactual center of gravity drops lower the\n\n14\n00:00:27,378 --> 00:00:28,672\nfurther it goes.\n\n15\n00:00:28,672 --> 00:00:28,995\nQ2.\n\n16\n00:00:28,995 --> 00:00:32,229\nDoes this heavy steel cylinder roll uphill\n\n17\n00:00:32,229 --> 00:00:34,816\nor downhill on these metal rails?\n\n18\n00:00:34,816 --> 00:00:37,726\nTrust your eyes and decide right now.\n\n19\n00:00:37,726 --> 00:00:39,020\nThree, two, one.\n\n20\n00:00:39,020 --> 00:00:40,572\nIt is going uphill.\n\n21\n00:00:40,572 --> 00:00:43,482\nThe rails widen and slope upward, but\n\n22\n00:00:43,482 --> 00:00:46,457\nthe cylinder's low center of mass lets\n\n23\n00:00:46,457 --> 00:00:49,044\nit climb against our expectations.\n\n24\n00:00:49,044 --> 00:00:49,368\nQ3.\n\n25\n00:00:49,368 --> 00:00:51,308\nHere is the hardest one.\n\n26\n00:00:51,308 --> 00:00:54,283\nIs this flowing water moving uphill or\n\n27\n00:00:54,283 --> 00:00:56,805\ndownhill across the wooden board?\n\n28\n00:00:56,805 --> 00:00:57,711\nThink fast.\n\n29\n00:00:57,711 --> 00:00:59,004\nThree, two, one.\n\n30\n00:00:59,004 --> 00:01:00,815\nIt is rolling downhill.\n\n31\n00:01:00,815 --> 00:01:04,113\nThe entire wooden frame is tilted, tricking\n\n32\n00:01:04,113 --> 00:01:07,283\nyour brain into thinking the water defies\n\n33\n00:01:07,283 --> 00:01:07,929\ngravity.\n\n34\n00:01:07,929 --> 00:01:09,158\nThat was tough.\n\n35\n00:01:09,158 --> 00:01:11,939\nDrop your score in the comments and\n\n36\n00:01:11,939 --> 00:01:13,717\nlet us know if...\n",
+      "tg_msg": 330,
+      "opts_msg": 332
+    },
+    "2026-10-12-2-3": {
+      "topic": {
+        "title": "Top 5 Foods That Smell Terrible But Taste Incredible",
+        "angle": "Ranking the top 5 culinary ingredients that have an awful aroma but are the secret weapon of world-class chefs.",
+        "format": "ranking",
+        "tone": "normal",
+        "trend_source": "evergreen",
+        "virality_score": 8,
+        "why": "Taps into food curiosity and general interest, creating immediate debate in comments about favorite flavors."
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-13T07:46:40.335454+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "foods that smell terrible",
+        "title": "Top 5 Foods That Smell Terrible But Taste Incredible",
+        "hook_text": "smells awful, tastes amazing",
+        "thumbnail_text": "worst smell best taste",
+        "description": "Discover the top 5 foods that smell terrible but taste incredible, used by world-class chefs to boost flavor. Learn which stinky ingredients are actually culinary gold.",
+        "hashtags": [
+          "#shorts",
+          "#food",
+          "#cooking",
+          "#top5"
+        ],
+        "tags": [
+          "foods that smell terrible",
+          "weird food facts",
+          "smells bad tastes good",
+          "stinky foods that taste good",
+          "secret chef",
+          "stinky foods",
+          "gross food facts",
+          "chef's secret ingredient",
+          "fish sauce cooking",
+          "stinky foods ranking",
+          "secret chef ingredients",
+          "truffle oil",
+          "durian fruit",
+          "food science",
+          "stinky cheese",
+          "culinary secrets"
+        ],
+        "pinned_comment": "Which of these stinky ingredients do you secretly use in your own kitchen at home? Let me know below!",
+        "scenes": [
+          {
+            "text": "Some of the best ingredients in the world actually smell completely disgusting, until you taste them.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "chef cooking kitchen",
+              "stinky food reaction"
+            ],
+            "image_prompt": "Vertical 9:16, a close-up shot of a gourmet kitchen counter with various fresh ingredients, soft cinematic lighting, food photography, no text.",
+            "stock_query": "chef cooking kitchen"
+          },
+          {
+            "text": "Number five is fish sauce. It smells like a wet beach on a hot day, but it adds incredible savory depth to stir fries.",
+            "badge": "#5",
+            "label": "Fish Sauce",
+            "stock_queries": [
+              "pouring fish sauce",
+              "asian stir fry"
+            ],
+            "image_prompt": "Vertical 9:16, dark glass bottle of amber fish sauce pouring over a sizzling wok of noodles, steam rising, high contrast, no text.",
+            "stock_query": "pouring fish sauce"
+          },
+          {
+            "text": "At number four we have durian. This spiky fruit smells like gym socks, yet the inside is sweet and creamy like custard.",
+            "badge": "#4",
+            "label": "Durian Fruit",
+            "stock_queries": [
+              "durian fruit open",
+              "exotic fruit market"
+            ],
+            "image_prompt": "Vertical 9:16, a fresh spiky durian fruit cut open on a wooden table revealing creamy yellow flesh, vibrant colors, no text.",
+            "stock_query": "durian fruit open"
+          },
+          {
+            "text": "Number three is truffle oil. It smells like strong gas or rubber, but a single drop makes pasta taste insanely luxurious.",
+            "badge": "#3",
+            "label": "Truffle Oil",
+            "stock_queries": [
+              "truffle oil bottle",
+              "pasta dish gourmet"
+            ],
+            "image_prompt": "Vertical 9:16, drizzling golden oil from a small glass bottle over a creamy plate of gourmet mushroom pasta, close up, no text.",
+            "stock_query": "truffle oil bottle"
+          },
+          {
+            "text": "At number two, blue cheese. It smells like old laundry, but melts into a rich sauce that hits every single taste bud.",
+            "badge": "#2",
+            "label": "Blue Cheese",
+            "stock_queries": [
+              "blue cheese wedge",
+              "melting cheese macro"
+            ],
+            "image_prompt": "Vertical 9:16, a wedge of marbled blue cheese with blue veins on a rustic cutting board, moody lighting, no text.",
+            "stock_query": "blue cheese wedge"
+          },
+          {
+            "text": "Number one is fermented shrimp paste. It smells overwhelmingly strong, but it is the secret weapon behind world class curry.",
+            "badge": "#1",
+            "label": "Shrimp Paste",
+            "stock_queries": [
+              "shrimp paste jar",
+              "thai curry paste"
+            ],
+            "image_prompt": "Vertical 9:16, traditional dark fermented shrimp paste in a small clay bowl next to fresh spices, overhead shot, no text.",
+            "stock_query": "shrimp paste jar"
+          },
+          {
+            "text": "So would you brave the stench to try them, or do some foods that smell terrible just stay off your plate?",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "person smelling food",
+              "gourmet meal plate"
+            ],
+            "image_prompt": "Vertical 9:16, a beautifully plated gourmet dish under warm restaurant spotlights, shallow depth of field, no text.",
+            "stock_query": "person smelling food"
+          }
+        ],
+        "key_facts": [
+          "Fish sauce provides savory depth to Asian dishes despite its pungent aroma.",
+          "Durian is known for a strong aroma contrasted by a creamy, sweet texture.",
+          "Truffle oil adds a distinct earthy flavor to pasta and other dishes.",
+          "Blue cheese has a strong aroma due to cultures used in its aging process.",
+          "Fermented shrimp paste is a common flavor base in Southeast Asian cooking."
+        ],
+        "format": "ranking",
+        "tone": "normal",
+        "category": "27",
+        "script": "Some of the best ingredients in the world actually smell completely disgusting, until you taste them. Number five is fish sauce. It smells like a wet beach on a hot day, but it adds incredible savory depth to stir fries. At number four we have durian. This spiky fruit smells like gym socks, yet the inside is sweet and creamy like custard. Number three is truffle oil. It smells like strong gas or rubber, but a single drop makes pasta taste insanely luxurious. At number two, blue cheese. It smells like old laundry, but melts into a rich sauce that hits every single taste bud. Number one is fermented shrimp paste. It smells overwhelmingly strong, but it is the secret weapon behind world class curry. So would you brave the stench to try them, or do some foods that smell terrible just stay off your plate?",
+        "shot_plan": [
+          {
+            "subject": "gourmet food preparation",
+            "queries": [
+              {
+                "q": "chef cooking meal",
+                "must": [
+                  "chef"
+                ]
+              },
+              {
+                "q": "delicious gourmet food",
+                "must": [
+                  "food"
+                ]
+              },
+              {
+                "q": "kitchen cooking",
+                "must": [
+                  "kitchen"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "fish sauce bottle and stir fry",
+            "queries": [
+              {
+                "q": "fish sauce bottle",
+                "must": [
+                  "sauce"
+                ]
+              },
+              {
+                "q": "stir fry pan",
+                "must": [
+                  "stirfry"
+                ]
+              },
+              {
+                "q": "cooking wok",
+                "must": [
+                  "wok"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "durian fruit cut open",
+            "queries": [
+              {
+                "q": "durian fruit cut",
+                "must": [
+                  "durian"
+                ]
+              },
+              {
+                "q": "tropical fruit",
+                "must": [
+                  "fruit"
+                ]
+              },
+              {
+                "q": "exotic fruit sliced",
+                "must": [
+                  "slice"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "truffle oil drizzled on pasta",
+            "queries": [
+              {
+                "q": "truffle oil bottle",
+                "must": [
+                  "oil"
+                ]
+              },
+              {
+                "q": "pasta dish gourmet",
+                "must": [
+                  "pasta"
+                ]
+              },
+              {
+                "q": "italian food plate",
+                "must": [
+                  "food"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "blue cheese wedge on board",
+            "queries": [
+              {
+                "q": "blue cheese wedge",
+                "must": [
+                  "cheese"
+                ]
+              },
+              {
+                "q": "gourmet cheese platter",
+                "must": [
+                  "platter"
+                ]
+              },
+              {
+                "q": "cheeseboard close up",
+                "must": [
+                  "board"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "fermented shrimp paste in a bowl",
+            "queries": [
+              {
+                "q": "shrimp paste bowl",
+                "must": [
+                  "paste"
+                ]
+              },
+              {
+                "q": "asian curry dish",
+                "must": [
+                  "curry"
+                ]
+              },
+              {
+                "q": "spicy curry bowl",
+                "must": [
+                  "bowl"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "delicious plated gourmet dishes",
+            "queries": [
+              {
+                "q": "gourmet meal plate",
+                "must": [
+                  "meal"
+                ]
+              },
+              {
+                "q": "restaurant food table",
+                "must": [
+                  "restaurant"
+                ]
+              },
+              {
+                "q": "delicious food close up",
+                "must": [
+                  "food"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "gourmet kitchen cooking",
+          "chef preparing food",
+          "restaurant kitchen close up"
+        ],
+        "visual_style": "Fast-paced, mouth-watering food close-ups showing unusual ingredients transforming into delicious gourmet dishes.",
+        "visual_refs": [],
+        "voice": "gTTS",
+        "visual_report": {
+          "shots": 15,
+          "checked": 15,
+          "unchecked": 0,
+          "filler": 3,
+          "ai": 0
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Google Text-to-Speech).",
+        "Stock footage/photos (Pexels/Pixabay Content License): GreenCardShow (Pixabay) https://pixabay.com/videos/id-11291/; XiaosKitchen (Pixabay) https://pixabay.com/videos/id-11657/; XiaosKitchen (Pixabay) https://pixabay.com/videos/id-11643/; truthseeker08 (Pixabay) https://pixabay.com/photos/tropical-fruit-durian-tropical-3596787/; najibzamri (Pixabay) https://pixabay.com/photos/durian-fruit-food-produce-healthy-6579894/; PDPhotos (Pixabay) https://pixabay.com/photos/danish-blue-cheese-blue-mold-mould-3553/; PDPhotos (Pixabay) https://pixabay.com/photos/shropshire-blue-cheese-blue-mold-3534/; PDPhotos (Pixabay) https://pixabay.com/photos/cabrales-cheese-blue-mold-mould-3499/; XiaosKitchen (Pixabay) https://pixabay.com/videos/id-11631/; XiaosKitchen (Pixabay) https://pixabay.com/videos/id-11714/; XiaosKitchen (Pixabay) https://pixabay.com/videos/id-11686/",
+        "Carlquist, Sherwin John, 1930-2021 / Wikimedia Commons (CC BY 4.0) https://commons.wikimedia.org/wiki/File:(Durian_fruit_cut_open,_Bangkok,_Thailand)_-_DPLA_-_ccf52c1d4ea285fbe5fd580a8930c214.jpg"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-12",
+        "name": "2026-10-12-2-3-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-12",
+        "name": "2026-10-12-2-3-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,150 --> 00:00:02,831\nSome of the best ingredients in the\n\n2\n00:00:02,831 --> 00:00:05,885\nworld actually smell completely disgusting,\n\n3\n00:00:05,885 --> 00:00:07,506\nuntil you taste them.\n\n4\n00:00:07,506 --> 00:00:09,501\nNumber five is fish sauce.\n\n5\n00:00:09,501 --> 00:00:11,808\nIt smells like a wet beach on\n\n6\n00:00:11,808 --> 00:00:14,364\na hot day, but it adds incredible\n\n7\n00:00:14,364 --> 00:00:16,421\nsavory depth to stir fries.\n\n8\n00:00:16,421 --> 00:00:18,728\nAt number four we have durian.\n\n9\n00:00:18,728 --> 00:00:21,658\nThis spiky fruit smells like gym socks,\n\n10\n00:00:21,658 --> 00:00:24,277\nyet the inside is sweet and creamy\n\n11\n00:00:24,277 --> 00:00:25,274\nlike custard.\n\n12\n00:00:25,274 --> 00:00:27,394\nNumber three is truffle oil.\n\n13\n00:00:27,394 --> 00:00:30,137\nIt smells like strong gas or rubber,\n\n14\n00:00:30,137 --> 00:00:32,817\nbut a single drop makes pasta taste\n\n15\n00:00:32,817 --> 00:00:34,189\ninsanely luxurious.\n\n16\n00:00:34,189 --> 00:00:36,246\nAt number two, blue cheese.\n\n17\n00:00:36,246 --> 00:00:39,052\nIt smells like old laundry, but melts\n\n18\n00:00:39,052 --> 00:00:41,608\ninto a rich sauce that hits every\n\n19\n00:00:41,608 --> 00:00:42,917\nsingle taste bud.\n\n20\n00:00:42,917 --> 00:00:45,660\nNumber one is fermented shrimp paste.\n\n21\n00:00:45,660 --> 00:00:48,777\nIt smells overwhelmingly strong, but it is\n\n22\n00:00:48,777 --> 00:00:51,957\nthe secret weapon behind world class curry.\n\n23\n00:00:51,957 --> 00:00:54,450\nSo would you brave the stench to\n\n24\n00:00:54,450 --> 00:00:56,882\ntry them, or do some foods that\n\n25\n00:00:56,882 --> 00:01:00,224\nsmell terrible just stay off your plate?\n",
+      "tg_msg": 333,
+      "opts_msg": 335
+    },
+    "2026-10-12-2-4": {
+      "topic": {
+        "title": "Top 5 Worst Design Fails In Everyday Architecture",
+        "angle": "Ranking the most hilariously impractical design blunders found in everyday public spaces.",
+        "format": "ranking",
+        "tone": "funny",
+        "trend_source": "evergreen",
+        "virality_score": 8,
+        "why": "Relatable frustration humor triggers high shares and strong viewer retention through quick visual punchlines."
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-13T07:55:09.324855+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "worst design fails",
+        "title": "Top 5 Worst Design Fails In Everyday Architecture",
+        "hook_text": "Architects Messed Up Big Time",
+        "thumbnail_text": "Awful Architecture Fails",
+        "description": "Discover the top five worst design fails in everyday architecture that make no sense at all. Can you guess which hilarious blunder takes the number one spot?",
+        "hashtags": [
+          "#shorts",
+          "#architecture",
+          "#designfails",
+          "#top5",
+          "#funny"
+        ],
+        "tags": [
+          "worst design fails",
+          "worst design fails funny",
+          "worst building design fails",
+          "worst design fails of all time",
+          "bad design fails",
+          "hilarious design fails",
+          "worst design fails ever",
+          "funny architecture fails",
+          "worst design fails compilation",
+          "bad design",
+          "architecture fails",
+          "funny architecture",
+          "public space fails",
+          "hilarious design blunders",
+          "architect fails",
+          "useless stairs",
+          "weird buildings",
+          "design mistakes",
+          "impractical design"
+        ],
+        "pinned_comment": "Which of these architectural disasters would you refuse to use in real life?",
+        "key_facts": [
+          "Some public staircases lead directly into solid walls.",
+          "Certain balconies are built without any doors leading out to them.",
+          "Some glass doors open straight into a drop with no balcony.",
+          "Certain bathroom stalls feature transparent glass walls.",
+          "Some public ramps have stairs built right in the middle of them."
+        ],
+        "scenes": [
+          {
+            "text": "Some buildings look amazing until you actually try using them, because architects totally forgot how humans work.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "modern office building",
+              "architect blueprints"
+            ],
+            "image_prompt": "A minimalist modern building facade with strange architectural features, vertical 9:16, no text",
+            "stock_query": "modern office building"
+          },
+          {
+            "text": "Number five, the staircase to nowhere. It climbs twenty steps just to end abruptly against a blank brick wall. Perfect for practicing your silent mime walk.",
+            "badge": "#5",
+            "label": "Staircase to Nowhere",
+            "stock_queries": [
+              "indoor staircase",
+              "brick wall"
+            ],
+            "image_prompt": "A concrete staircase leading directly into a solid brick wall inside a building, vertical 9:16, no text",
+            "stock_query": "indoor staircase"
+          },
+          {
+            "text": "At number four, we have doors to the abyss. You turn the handle, step outside, and immediately plummet three stories because there is no balcony attached.",
+            "badge": "#4",
+            "label": "Door to Abyss",
+            "stock_queries": [
+              "second story door",
+              "building exterior wall"
+            ],
+            "image_prompt": "A second floor exterior door with no balcony or railing outside, vertical 9:16, no text",
+            "stock_query": "second story door"
+          },
+          {
+            "text": "Number three goes to the phantom balcony. It has a fancy railing and double glass doors, except the builders forgot to install any doors that actually open.",
+            "badge": "#3",
+            "label": "Phantom Balcony",
+            "stock_queries": [
+              "apartment building balcony",
+              "glass window facade"
+            ],
+            "image_prompt": "A small decorative balcony on an apartment building with sealed glass doors, vertical 9:16, no text",
+            "stock_query": "apartment building balcony"
+          },
+          {
+            "text": "At number two, the see through bathroom stall. Because nothing says privacy quite like sharing your entire office routine with total strangers through transparent glass.",
+            "badge": "#2",
+            "label": "Glass Stall",
+            "stock_queries": [
+              "modern public restroom",
+              "glass partition"
+            ],
+            "image_prompt": "A public restroom with transparent glass partition walls, vertical 9:16, no text",
+            "stock_query": "modern public restroom"
+          },
+          {
+            "text": "Number one is the wheelchair ramp with stairs. Someone installed four steps right in the middle of a steep accessibility ramp, creating an ultimate obstacle course.",
+            "badge": "#1",
+            "label": "Ramp with Stairs",
+            "stock_queries": [
+              "concrete ramp",
+              "outdoor steps"
+            ],
+            "image_prompt": "A concrete wheelchair ramp with a set of stairs built right in the middle of it, vertical 9:16, no text",
+            "stock_query": "concrete ramp"
+          },
+          {
+            "text": "Some buildings look amazing until you actually try using them, because",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "funny architecture",
+              "confused pedestrian"
+            ],
+            "image_prompt": "A quirky modern building exterior with unusual proportions, vertical 9:16, no text",
+            "stock_query": "funny architecture"
+          }
+        ],
+        "format": "ranking",
+        "tone": "funny",
+        "category": "23",
+        "script": "Some buildings look amazing until you actually try using them, because architects totally forgot how humans work. Number five, the staircase to nowhere. It climbs twenty steps just to end abruptly against a blank brick wall. Perfect for practicing your silent mime walk. At number four, we have doors to the abyss. You turn the handle, step outside, and immediately plummet three stories because there is no balcony attached. Number three goes to the phantom balcony. It has a fancy railing and double glass doors, except the builders forgot to install any doors that actually open. At number two, the see through bathroom stall. Because nothing says privacy quite like sharing your entire office routine with total strangers through transparent glass. Number one is the wheelchair ramp with stairs. Someone installed four steps right in the middle of a steep accessibility ramp, creating an ultimate obstacle course. Some buildings look amazing until you actually try using them, because",
+        "shot_plan": [
+          {
+            "subject": "unusual or complex modern building exterior",
+            "queries": [
+              {
+                "q": "abstract architecture facade",
+                "must": [
+                  "facade",
+                  "building"
+                ]
+              },
+              {
+                "q": "unusual modern architecture",
+                "must": [
+                  "architecture"
+                ]
+              },
+              {
+                "q": "curved skyscraper exterior",
+                "must": [
+                  "skyscraper"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "staircase ending directly into a wall",
+            "queries": [
+              {
+                "q": "staircase brick wall",
+                "must": [
+                  "staircase",
+                  "wall"
+                ]
+              },
+              {
+                "q": "concrete stairs dead end",
+                "must": [
+                  "stairs"
+                ]
+              },
+              {
+                "q": "indoor concrete staircase",
+                "must": [
+                  "staircase"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "exterior door on an upper floor without a balcony",
+            "queries": [
+              {
+                "q": "door facade wall",
+                "must": [
+                  "door",
+                  "facade"
+                ]
+              },
+              {
+                "q": "exterior door building wall",
+                "must": [
+                  "door",
+                  "wall"
+                ]
+              },
+              {
+                "q": "building wall second floor",
+                "must": [
+                  "building"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "decorative exterior balcony with sealed glass windows",
+            "queries": [
+              {
+                "q": "apartment balcony railing",
+                "must": [
+                  "balcony"
+                ]
+              },
+              {
+                "q": "building facade balcony",
+                "must": [
+                  "balcony",
+                  "facade"
+                ]
+              },
+              {
+                "q": "exterior metal railing",
+                "must": [
+                  "railing"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "transparent glass bathroom stall partition",
+            "queries": [
+              {
+                "q": "glass toilet partition",
+                "must": [
+                  "toilet",
+                  "glass"
+                ]
+              },
+              {
+                "q": "glass bathroom door",
+                "must": [
+                  "bathroom"
+                ]
+              },
+              {
+                "q": "modern public restroom",
+                "must": [
+                  "restroom"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "wheelchair access ramp paired with steps",
+            "queries": [
+              {
+                "q": "wheelchair ramp stairs",
+                "must": [
+                  "ramp",
+                  "stairs"
+                ]
+              },
+              {
+                "q": "concrete accessibility ramp",
+                "must": [
+                  "ramp"
+                ]
+              },
+              {
+                "q": "pedestrian walkway steps",
+                "must": [
+                  "step"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "dramatic wide angle shot of a bizarre skyscraper facade",
+            "queries": [
+              {
+                "q": "futuristic building facade",
+                "must": [
+                  "facade"
+                ]
+              },
+              {
+                "q": "unusual glass skyscraper",
+                "must": [
+                  "skyscraper"
+                ]
+              },
+              {
+                "q": "modern city architecture",
+                "must": [
+                  "architecture"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "modern architecture building",
+          "city sidewalk concrete",
+          "urban architecture facade"
+        ],
+        "visual_style": "Crisp outdoor and indoor shots of real-world architectural anomalies, strange building facades, and awkward public infrastructure.",
+        "visual_refs": [],
+        "voice": "gTTS",
+        "visual_report": {
+          "shots": 12,
+          "checked": 12,
+          "unchecked": 0,
+          "filler": 2,
+          "ai": 0
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Google Text-to-Speech).",
+        "Stock footage/photos (Pexels/Pixabay Content License): TungArt7 (Pixabay) https://pixabay.com/videos/id-272519/; Life-Of-Vids (Pixabay) https://pixabay.com/videos/id-2334/; KM007_ (Pixabay) https://pixabay.com/videos/id-91744/; ekk814 (Pixabay) https://pixabay.com/photos/stair-wall-white-house-interior-1743963/; ekk814 (Pixabay) https://pixabay.com/photos/stair-wall-white-house-interior-1743959/; dimitrisvetsikas1969 (Pixabay) https://pixabay.com/photos/house-window-door-architecture-3214744/; caelan (Pixabay) https://pixabay.com/videos/id-30121/; caelan (Pixabay) https://pixabay.com/videos/id-48686/; blackmarketmusic (Pixabay) https://pixabay.com/videos/id-141189/; TungArt7 (Pixabay) https://pixabay.com/videos/id-272516/"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-12",
+        "name": "2026-10-12-2-4-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-12",
+        "name": "2026-10-12-2-4-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,150 --> 00:00:03,424\nSome buildings look amazing until you actually\n\n2\n00:00:03,424 --> 00:00:06,395\ntry using them, because architects totally\n\n3\n00:00:06,395 --> 00:00:08,092\nforgot how humans work.\n\n4\n00:00:08,092 --> 00:00:10,820\nNumber five, the staircase to nowhere.\n\n5\n00:00:10,820 --> 00:00:13,367\nIt climbs twenty steps just to end\n\n6\n00:00:13,367 --> 00:00:15,974\nabruptly against a blank brick wall.\n\n7\n00:00:15,974 --> 00:00:19,187\nPerfect for practicing your silent mime walk.\n\n8\n00:00:19,187 --> 00:00:21,612\nAt number four, we have doors to\n\n9\n00:00:21,612 --> 00:00:22,400\nthe abyss.\n\n10\n00:00:22,400 --> 00:00:25,189\nYou turn the handle, step outside, and\n\n11\n00:00:25,189 --> 00:00:28,463\nimmediately plummet three stories because there\n\n12\n00:00:28,463 --> 00:00:30,161\nis no balcony attached.\n\n13\n00:00:30,161 --> 00:00:33,131\nNumber three goes to the phantom balcony.\n\n14\n00:00:33,131 --> 00:00:35,617\nIt has a fancy railing and double\n\n15\n00:00:35,617 --> 00:00:38,649\nglass doors, except the builders forgot to\n\n16\n00:00:38,649 --> 00:00:41,316\ninstall any doors that actually open.\n\n17\n00:00:41,316 --> 00:00:44,166\nAt number two, the see through bathroom\n\n18\n00:00:44,166 --> 00:00:44,651\nstall.\n\n19\n00:00:44,651 --> 00:00:47,985\nBecause nothing says privacy quite like sharing\n\n20\n00:00:47,985 --> 00:00:51,320\nyour entire office routine with total strangers\n\n21\n00:00:51,320 --> 00:00:53,139\nthrough transparent glass.\n\n22\n00:00:53,139 --> 00:00:55,928\nNumber one is the wheelchair ramp with\n\n23\n00:00:55,928 --> 00:00:56,473\nstairs.\n\n24\n00:00:56,473 --> 00:00:59,444\nSomeone installed four steps right in the\n\n25\n00:00:59,444 --> 00:01:02,718\nmiddle of a steep accessibility ramp, creating\n\n26\n00:01:02,718 --> 00:01:04,719\nan ultimate obstacle course.\n\n27\n00:01:04,719 --> 00:01:07,992\nSome buildings look amazing until you actually\n\n28\n00:01:07,992 --> 00:01:10,035\ntry using them, because\n",
+      "tg_msg": 336,
+      "opts_msg": 338
     }
   },
   "history": [
@@ -10588,7 +11538,11 @@
     "Top 5 Animals With Built-In Armor",
     "Top 5 Funniest Real Jobs From History \ud83d\ude02",
     "Quick Weather Quiz: 2 Fakes, 1 Real",
-    "The Eiffel Tower Had a 20-Year Expiry Date"
+    "The Eiffel Tower Had a 20-Year Expiry Date",
+    "Top 5 Animals With The Most Ridiculous Excuses For Sleeping",
+    "Can You Guess These 3 Mind-Bending Physics Illusions?",
+    "Top 5 Foods That Smell Terrible But Taste Incredible",
+    "Top 5 Worst Design Fails In Everyday Architecture"
   ],
   "trend_tries": {
     "2026-10-10": {
@@ -10606,14 +11560,14 @@
   },
   "cleanup_day": "2026-10-13",
   "recent_voices": [
-    "en-US-EmmaMultilingualNeural",
+    "gTTS",
     "gTTS",
     "gTTS",
     "gTTS",
     "gTTS"
   ],
   "visual_searches": {
-    "2026-10-13": 4
+    "2026-10-13": 6
   },
   "signals_day": "2026-10-12"
 }

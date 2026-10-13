@@ -866,44 +866,44 @@
    {
     "angle": "Counting down five animals that sleep in the most absurd, hilarious positions and places imaginable.",
     "format": "ranking",
-    "picked": false,
+    "picked": true,
     "rank": 1,
     "title": "Top 5 Animals With The Most Ridiculous Excuses For Sleeping",
     "trend_source": "evergreen",
-    "video_id": null,
+    "video_id": "2026-10-12-2-1",
     "virality_score": 9,
     "why": "High loop potential, universally loved cute animal content paired with unexpected, funny narrative humor."
    },
    {
     "angle": "A fast-paced visual guessing game challenging viewers on whether rolling objects are going uphill or downhill.",
     "format": "quiz",
-    "picked": false,
+    "picked": true,
     "rank": 2,
     "title": "Can You Guess These 3 Mind-Bending Physics Illusions?",
     "trend_source": "evergreen",
-    "video_id": null,
+    "video_id": "2026-10-12-2-2",
     "virality_score": 9,
     "why": "Drives massive comment section engagement as viewers argue about the answer, boosting algorithmic distribution."
    },
    {
     "angle": "Ranking the top 5 culinary ingredients that have an awful aroma but are the secret weapon of world-class chefs.",
     "format": "ranking",
-    "picked": false,
+    "picked": true,
     "rank": 3,
     "title": "Top 5 Foods That Smell Terrible But Taste Incredible",
     "trend_source": "evergreen",
-    "video_id": null,
+    "video_id": "2026-10-12-2-3",
     "virality_score": 8,
     "why": "Taps into food curiosity and general interest, creating immediate debate in comments about favorite flavors."
    },
    {
     "angle": "Ranking the most hilariously impractical design blunders found in everyday public spaces.",
     "format": "ranking",
-    "picked": false,
+    "picked": true,
     "rank": 4,
     "title": "Top 5 Worst Design Fails In Everyday Architecture",
     "trend_source": "evergreen",
-    "video_id": null,
+    "video_id": "2026-10-12-2-4",
     "virality_score": 8,
     "why": "Relatable frustration humor triggers high shares and strong viewer retention through quick visual punchlines."
    },
@@ -931,6 +931,6 @@
    }
   ],
   "sent_at": "2026-10-12T22:09:47.241919+00:00",
-  "status": "waiting"
+  "status": "closed"
  }
 }
