@@ -1,72 +1,6 @@
 {
   "tg_offset": 40455537,
   "batches": {
-    "2026-10-10": {
-      "topics": [
-        {
-          "title": "5 Peppers That Make Jalape\u00f1os Look Mild",
-          "angle": "Food and eating challenges are all over today's outliers (UNO food and bite challenge, Pasta challenge, 40 MOMO), and a countdown with a giant-number payoff (2.7 million) keeps people to number one.",
-          "format": "ranking",
-          "tone": "normal",
-          "virality_score": 8,
-          "trend_source": "Hostel girls- Pasta challenge! (2.0x); UNO FOOD AND BITE CHALLENGE; 40 MOMO (The List)",
-          "plan_id": "P2026-10-09-07"
-        },
-        {
-          "title": "Top 5 Funniest Real Sports on Earth",
-          "angle": "Light, kind comedy dominates today's breakouts (snake-scare short at 166x, Macarena challenge at 55x), and silly-but-true sports deliver that laugh with real facts and an easy 'which would you win' comment prompt.",
-          "format": "funny",
-          "tone": "funny",
-          "virality_score": 8,
-          "trend_source": "She Wasn't Scared\u2026 Until She Saw the SNAKE (166x); She's STILL Dancing Macarena (55.5x); Bid for Island Survival",
-          "plan_id": "P2026-10-09-08"
-        },
-        {
-          "title": "The Cave Found by 4 Teenagers in 1940",
-          "angle": "'How was this actually done/found?' curiosity is driving one of today's top outliers (How Was This Scene Actually Shot? at 41x), and a real discovery story with kids, a dog and a secret cave fits that hook for a family audience.",
-          "format": "story",
-          "tone": "normal",
-          "virality_score": 7,
-          "trend_source": "How Was This Koyla Scene Actually Shot? (41.2x, The Question); Tudo Que D\u00e1 Pra Desenhar (3.1x, drawing)",
-          "plan_id": "P2026-10-09-09"
-        },
-        {
-          "title": "A Cloud vs 100 Elephants: Which Is Heavier?",
-          "angle": "Choice-game Shorts are breaking out today (\u00bfQu\u00e9 eliges en Minecraft? at 3.9x, 'Si dices el mismo jugador\u2026 PIERDES!' at 2.3x), and a 3-second pick-one quiz with surprising ties keeps people answering and posting scores.",
-          "format": "quiz",
-          "tone": "normal",
-          "virality_score": 8,
-          "trend_source": "\u00bfQu\u00e9 eliges en Minecraft? (3.9x); Si dices el mismo jugador\u2026 PIERDES! (2.3x); Bid for Island Survival",
-          "plan_id": "P2026-10-09-10"
-        },
-        {
-          "title": "3 Tricks to Cut Onions Without Crying",
-          "angle": "Food and kitchen moments keep surfacing in today's outliers (Pasta challenge, UNO food challenge, maggi training at 20.7x), and a quick everyday fix with a funny goggles payoff gives viewers a reason to save and share.",
-          "format": "tips",
-          "tone": "normal",
-          "virality_score": 7,
-          "trend_source": "maggi khane ki trening (20.7x); Hostel girls- Pasta challenge! (2.0x)",
-          "plan_id": "P2026-10-09-11"
-        },
-        {
-          "title": "Wrinkly Fingers Explained in 60 Seconds",
-          "angle": "'The Question' formula is behind one of today's biggest breakouts (How Was This Scene Actually Shot? at 41x), and this answers an everyday question with a surprising myth-flip that drives comments.",
-          "format": "explainer",
-          "tone": "normal",
-          "virality_score": 8,
-          "trend_source": "How Was This Koyla Scene Actually Shot? (41.2x, The Question); Wrong Knowledge you Got for School",
-          "plan_id": "P2026-10-09-12"
-        }
-      ],
-      "sent_at": "2026-10-10T18:14:05.775959+00:00",
-      "selected": [
-        0,
-        1,
-        2,
-        3
-      ],
-      "status": "closed"
-    },
     "2026-10-10-2": {
       "topics": [
         {
@@ -445,6 +379,67 @@
         }
       ],
       "sent_at": "2026-10-13T15:09:39.142841+00:00",
+      "selected": [],
+      "status": "waiting"
+    },
+    "2026-10-13-2": {
+      "topics": [
+        {
+          "title": "Top 5 Animals That Completely Forgot How to Climb",
+          "angle": "A funny, family-friendly countdown of wild animals whose climbing attempts go hilariously wrong.",
+          "format": "ranking",
+          "tone": "funny",
+          "trend_source": "evergreen",
+          "virality_score": 9,
+          "why": "Combines a popular 'ranking' format with comedy and cute animal content, driving high rewatches and share rates."
+        },
+        {
+          "title": "Top 5 Animals That Completely Forgot How to Swim",
+          "angle": "Ranking hilarious land animals that are shockingly bad and awkward in water, played purely for laughs.",
+          "format": "ranking",
+          "tone": "funny",
+          "trend_source": "evergreen",
+          "virality_score": 9,
+          "why": "Animal humor combined with a Top 5 ranking format drives massive replay loops, high watch time, and frequent comment section debates."
+        },
+        {
+          "title": "Top 5 Animals That Completely Forgot How to Jump",
+          "angle": "A lighthearted countdown of creatures that are hilariously terrible at getting off the ground.",
+          "format": "ranking",
+          "tone": "funny",
+          "trend_source": "evergreen",
+          "virality_score": 9,
+          "why": "High comedic value combined with animal content drives massive comment engagement and loop rates."
+        },
+        {
+          "title": "Top 5 Deepest Swimming Pools on Earth",
+          "angle": "A jaw-dropping countdown of extreme man-made diving pools that plunge down like bottomless vertical tunnels.",
+          "format": "ranking",
+          "tone": "normal",
+          "trend_source": "evergreen",
+          "virality_score": 8,
+          "why": "Visual scale and height/depth fear-of-missing-out keeps retention high all the way to the number one spot."
+        },
+        {
+          "title": "Top 5 Deepest Underwater Canyons on Earth",
+          "angle": "A breathtaking visual and statistical ranking of the most colossal underwater drops on the planet.",
+          "format": "ranking",
+          "tone": "normal",
+          "trend_source": "evergreen",
+          "virality_score": 7,
+          "why": "Fascinating science and nature facts drive strong curiosity and keep average view duration high."
+        },
+        {
+          "title": "Ranking the Funniest Cat Reactions to Invisible Doors",
+          "angle": "A lighthearted countdown of cats getting thoroughly confused by harmless household tricks.",
+          "format": "clips",
+          "tone": "funny",
+          "trend_source": "evergreen",
+          "virality_score": 7,
+          "why": "Cat clips have massive built-in audience appeal, and a ranked format adds structure that encourages full completion."
+        }
+      ],
+      "sent_at": "2026-10-13T20:22:05.013168+00:00",
       "selected": [],
       "status": "waiting"
     }
@@ -11398,8 +11393,8 @@
       "at": "2026-10-12T22:09:18.547091+00:00"
     },
     "2026-10-13": {
-      "n": 1,
-      "at": "2026-10-13T15:09:38.428056+00:00"
+      "n": 2,
+      "at": "2026-10-13T20:21:33.560536+00:00"
     }
   },
   "cleanup_day": "2026-10-13",

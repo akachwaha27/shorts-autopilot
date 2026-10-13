@@ -1005,5 +1005,78 @@
   ],
   "sent_at": "2026-10-13T15:09:39.142841+00:00",
   "status": "waiting"
+ },
+ "2026-10-13-2": {
+  "date": "2026-10-13-2",
+  "ideas": [
+   {
+    "angle": "A funny, family-friendly countdown of wild animals whose climbing attempts go hilariously wrong.",
+    "format": "ranking",
+    "picked": false,
+    "rank": 1,
+    "title": "Top 5 Animals That Completely Forgot How to Climb",
+    "trend_source": "evergreen",
+    "video_id": null,
+    "virality_score": 9,
+    "why": "Combines a popular 'ranking' format with comedy and cute animal content, driving high rewatches and share rates."
+   },
+   {
+    "angle": "Ranking hilarious land animals that are shockingly bad and awkward in water, played purely for laughs.",
+    "format": "ranking",
+    "picked": false,
+    "rank": 2,
+    "title": "Top 5 Animals That Completely Forgot How to Swim",
+    "trend_source": "evergreen",
+    "video_id": null,
+    "virality_score": 9,
+    "why": "Animal humor combined with a Top 5 ranking format drives massive replay loops, high watch time, and frequent comment section debates."
+   },
+   {
+    "angle": "A lighthearted countdown of creatures that are hilariously terrible at getting off the ground.",
+    "format": "ranking",
+    "picked": false,
+    "rank": 3,
+    "title": "Top 5 Animals That Completely Forgot How to Jump",
+    "trend_source": "evergreen",
+    "video_id": null,
+    "virality_score": 9,
+    "why": "High comedic value combined with animal content drives massive comment engagement and loop rates."
+   },
+   {
+    "angle": "A jaw-dropping countdown of extreme man-made diving pools that plunge down like bottomless vertical tunnels.",
+    "format": "ranking",
+    "picked": false,
+    "rank": 4,
+    "title": "Top 5 Deepest Swimming Pools on Earth",
+    "trend_source": "evergreen",
+    "video_id": null,
+    "virality_score": 8,
+    "why": "Visual scale and height/depth fear-of-missing-out keeps retention high all the way to the number one spot."
+   },
+   {
+    "angle": "A breathtaking visual and statistical ranking of the most colossal underwater drops on the planet.",
+    "format": "ranking",
+    "picked": false,
+    "rank": 5,
+    "title": "Top 5 Deepest Underwater Canyons on Earth",
+    "trend_source": "evergreen",
+    "video_id": null,
+    "virality_score": 7,
+    "why": "Fascinating science and nature facts drive strong curiosity and keep average view duration high."
+   },
+   {
+    "angle": "A lighthearted countdown of cats getting thoroughly confused by harmless household tricks.",
+    "format": "clips",
+    "picked": false,
+    "rank": 6,
+    "title": "Ranking the Funniest Cat Reactions to Invisible Doors",
+    "trend_source": "evergreen",
+    "video_id": null,
+    "virality_score": 7,
+    "why": "Cat clips have massive built-in audience appeal, and a ranked format adds structure that encourages full completion."
+   }
+  ],
+  "sent_at": "2026-10-13T20:22:05.013168+00:00",
+  "status": "waiting"
  }
 }
