@@ -379,8 +379,13 @@
         }
       ],
       "sent_at": "2026-10-13T15:09:39.142841+00:00",
-      "selected": [],
-      "status": "waiting"
+      "selected": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "status": "closed"
     },
     "2026-10-13-2": {
       "topics": [
@@ -11335,6 +11340,1384 @@
       "opts_msg": 338,
       "approved_by": "auto",
       "quota_note": "2026-10-13"
+    },
+    "2026-10-13-1": {
+      "topic": {
+        "title": "Top 5 Animals That Live the Longest",
+        "angle": "The top outliers (1873.3x, 74.0x, 59.4x) all name a setup and make you stay for one visible payoff, and this countdown holds the 'might never die' jellyfish back for number one while the 27.7x 'Why Bighorn Sheep Smash Their Heads' proves animal-ability curiosity is breaking out right now.",
+        "format": "ranking",
+        "tone": "normal",
+        "virality_score": 8,
+        "trend_source": "Why Bighorn Sheep Smash Their Heads Together (Events Untold, 27.7x, The Stack); Pinkchyu ROASTS Goth Girl With SAVAGE Comeback! (DarkRa, 1873.3x); Papi arruina el pastel + novio al rescate = CAOS (Latina Mami, 74.0x, The Stack); BOYS' FIRST STEP TO MANHOOD (Baccha Mat Bolna, 59.4x)",
+        "plan_id": "P2026-10-13-01"
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-13T20:54:57.103426+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "longest living animals",
+        "title": "Top 5 Animals That Live the Longest",
+        "hook_text": "IMMORTAL? MAYBE.",
+        "thumbnail_text": "BORN IN 1499",
+        "description": "These are the longest living animals on Earth, from a tortoise of about 194 to Ming the clam, the oldest animal in the world ever aged at 507 years. Number one is the immortal jellyfish, which can restart its own life.\n\nIn this Short: Jonathan the tortoise, the bowhead whale, the Greenland shark, Ming the clam and the immortal jellyfish.\n\nSources:\nhttps://www.cnn.com/2026/10/09/science/jonathan-tortoise-longevity-genetics\nhttps://www.gi.alaska.edu/alaska-science-forum/bowhead-whales-may-be-worlds-oldest-mammals\nhttps://maritime-executive.com/article/greenland-shark-nearly-four-hundred-years-old",
+        "hashtags": [
+          "#shorts",
+          "#animals",
+          "#animalfacts",
+          "#nature",
+          "#top5"
+        ],
+        "tags": [
+          "longest living animals",
+          "oldest animal in the world",
+          "longest living animal on earth",
+          "oldest living animal in the world",
+          "greenland shark",
+          "immortal jellyfish",
+          "greenland shark age",
+          "longest living creature on earth",
+          "longest living animals comparison",
+          "top 5 animals",
+          "turritopsis dohrnii",
+          "bowhead whale",
+          "ming the clam",
+          "jonathan the tortoise",
+          "ocean quahog",
+          "animal facts",
+          "oldest tortoise",
+          "animal lifespan"
+        ],
+        "pinned_comment": "Bonus fact: the Greenland shark doesn't grow up fast either, the study found females may not mature until they're at least about 134. Which animal surprised you most?",
+        "scenes": [
+          {
+            "text": "Before you meet the jellyfish that might never die, you need to see the four other animals that live for centuries. Here are the five longest-living animals on Earth.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "jellyfish glowing in dark water",
+              "ancient giant tortoise walking"
+            ],
+            "image_prompt": "Cinematic macro shot of a glowing transparent jellyfish in dark blue deep ocean water, high contrast lighting.",
+            "stock_query": "jellyfish glowing in dark water"
+          },
+          {
+            "text": "Number five, Jonathan the giant tortoise. He's thought to be about one hundred ninety-four years old.",
+            "badge": "#5",
+            "label": "Jonathan the Tortoise",
+            "stock_queries": [
+              "giant tortoise walking on grass",
+              "wrinkled tortoise face close up"
+            ],
+            "image_prompt": "Close-up of a very old, wrinkled giant tortoise chewing on green grass in sunlight.",
+            "stock_query": "giant tortoise walking on grass"
+          },
+          {
+            "text": "Number four, the bowhead whale. One had an old harpoon tip inside it, and scientists estimated another was about two hundred eleven.",
+            "badge": "#4",
+            "label": "Bowhead Whale",
+            "stock_queries": [
+              "bowhead whale surfacing arctic ice",
+              "whale tail in icy water"
+            ],
+            "image_prompt": "A massive bowhead whale surfacing near sheets of Arctic ice in cold gray water.",
+            "stock_query": "bowhead whale surfacing arctic ice"
+          },
+          {
+            "text": "Number three, the Greenland shark. It grows about one centimeter a year, and the oldest one tested was estimated at nearly four hundred.",
+            "badge": "#3",
+            "label": "Greenland Shark",
+            "stock_queries": [
+              "greenland shark swimming deep ocean",
+              "measuring tape and shark silhouette"
+            ],
+            "image_prompt": "A large, slow Greenland shark gliding through dark, cold, deep ocean water.",
+            "stock_query": "greenland shark swimming deep ocean"
+          },
+          {
+            "text": "Number two, a clam named Ming. Its shell rings showed it was born around fourteen ninety-nine, making it five hundred seven.",
+            "badge": "#2",
+            "label": "Ming the Clam",
+            "stock_queries": [
+              "ocean clam shell on wet sand",
+              "macro growth rings on clam shell"
+            ],
+            "image_prompt": "Macro photography showing the growth rings on an old ocean clam shell resting on wet sand.",
+            "stock_query": "ocean clam shell on wet sand"
+          },
+          {
+            "text": "Number one, the immortal jellyfish. When it's hurt or starving, it can turn back into a baby polyp and start its life over. That's the jellyfish that might never die, unless something eats it first.",
+            "badge": "#1",
+            "label": "Immortal Jellyfish",
+            "stock_queries": [
+              "tiny transparent jellyfish pulsing",
+              "jellyfish drifting toward camera"
+            ],
+            "image_prompt": "Macro shot of a tiny transparent immortal jellyfish pulsing and drifting toward the camera in dark water.",
+            "stock_query": "tiny transparent jellyfish pulsing"
+          },
+          {
+            "text": "Which of these five would you want as a pet? Tell me, then go meet that jellyfish again.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "child hand next to tortoise",
+              "jellyfish in dark water"
+            ],
+            "image_prompt": "A cute giant tortoise walking on grass with soft cinematic lighting, peaceful nature scene.",
+            "stock_query": "child hand next to tortoise"
+          }
+        ],
+        "key_facts": [
+          "Jonathan the giant tortoise is thought to be about 194 years old.",
+          "A bowhead whale was estimated to be about 211 years old.",
+          "The Greenland shark grows about 1 cm a year, with the oldest tested estimated at nearly 400.",
+          "Ming the clam was born around 1499, making it 507 years old.",
+          "The immortal jellyfish can turn back into a baby polyp when hurt or starving."
+        ],
+        "format": "ranking",
+        "tone": "normal",
+        "category": "27",
+        "script": "Before you meet the jellyfish that might never die, you need to see the four other animals that live for centuries. Here are the five longest-living animals on Earth. Number five, Jonathan the giant tortoise. He's thought to be about one hundred ninety-four years old. Number four, the bowhead whale. One had an old harpoon tip inside it, and scientists estimated another was about two hundred eleven. Number three, the Greenland shark. It grows about one centimeter a year, and the oldest one tested was estimated at nearly four hundred. Number two, a clam named Ming. Its shell rings showed it was born around fourteen ninety-nine, making it five hundred seven. Number one, the immortal jellyfish. When it's hurt or starving, it can turn back into a baby polyp and start its life over. That's the jellyfish that might never die, unless something eats it first. Which of these five would you want as a pet? Tell me, then go meet that jellyfish again.",
+        "plan_id": "P2026-10-13-01",
+        "shot_plan": [
+          {
+            "subject": "jellyfish swimming in the ocean",
+            "queries": [
+              {
+                "q": "jellyfish ocean swimming",
+                "must": [
+                  "jellyfish"
+                ]
+              },
+              {
+                "q": "deep sea jellyfish",
+                "must": [
+                  "jellyfish"
+                ]
+              },
+              {
+                "q": "medusa jellyfish",
+                "must": [
+                  "jellyfish"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "giant tortoise walking on grass",
+            "queries": [
+              {
+                "q": "giant tortoise walking",
+                "must": [
+                  "tortoise"
+                ]
+              },
+              {
+                "q": "aldabra tortoise grass",
+                "must": [
+                  "tortoise"
+                ]
+              },
+              {
+                "q": "galapagos tortoise",
+                "must": [
+                  "tortoise"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "bowhead whale swimming in arctic water",
+            "queries": [
+              {
+                "q": "bowhead whale arctic",
+                "must": [
+                  "whale"
+                ]
+              },
+              {
+                "q": "whale swimming ocean",
+                "must": [
+                  "whale"
+                ]
+              },
+              {
+                "q": "whale underwater",
+                "must": [
+                  "whale"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "Greenland shark swimming underwater",
+            "queries": [
+              {
+                "q": "greenland shark underwater",
+                "must": [
+                  "shark"
+                ]
+              },
+              {
+                "q": "deep sea shark",
+                "must": [
+                  "shark"
+                ]
+              },
+              {
+                "q": "arctic shark swimming",
+                "must": [
+                  "shark"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "clam shell on ocean floor",
+            "queries": [
+              {
+                "q": "ocean clam shell",
+                "must": [
+                  "clam"
+                ]
+              },
+              {
+                "q": "sea clam underwater",
+                "must": [
+                  "clam"
+                ]
+              },
+              {
+                "q": "mollusk shell ocean",
+                "must": [
+                  "shell"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "immortal jellyfish glowing in water",
+            "queries": [
+              {
+                "q": "immortal jellyfish glowing",
+                "must": [
+                  "jellyfish"
+                ]
+              },
+              {
+                "q": "small jellyfish swimming",
+                "must": [
+                  "jellyfish"
+                ]
+              },
+              {
+                "q": "transparent jellyfish",
+                "must": [
+                  "jellyfish"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "jellyfish swimming in dark water",
+            "queries": [
+              {
+                "q": "jellyfish dark water",
+                "must": [
+                  "jellyfish"
+                ]
+              },
+              {
+                "q": "floating jellyfish",
+                "must": [
+                  "jellyfish"
+                ]
+              },
+              {
+                "q": "ocean jellyfish",
+                "must": [
+                  "jellyfish"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "wildlife nature",
+          "ocean sea",
+          "animal documentary"
+        ],
+        "visual_style": "Viewers expect to see actual footage of each long-living animal mentioned alongside clear on-screen labels.",
+        "visual_refs": [],
+        "voice": "en-US-AndrewMultilingualNeural",
+        "visual_report": {
+          "shots": 12,
+          "checked": 12,
+          "unchecked": 0,
+          "filler": 1,
+          "ai": 0
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AndrewMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-379545/; needvid (Pixabay) https://pixabay.com/videos/id-15063/; moshehar (Pixabay) https://pixabay.com/videos/id-13823/; needvid (Pixabay) https://pixabay.com/videos/id-15728/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-376846/; waiguobox (Pixabay) https://pixabay.com/videos/id-161946/; Codevionix (Pixabay) https://pixabay.com/videos/id-345424/; ArteOfTheSol (Pixabay) https://pixabay.com/videos/id-147384/; Islamicprince_77 (Pixabay) https://pixabay.com/videos/id-247497/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-334192/; ChristianBodhi (Pixabay) https://pixabay.com/videos/id-213616/"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-13",
+        "name": "2026-10-13-1-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-13",
+        "name": "2026-10-13-1-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,096 --> 00:00:01,875\nBefore you meet the jellyfish that might\n\n2\n00:00:01,875 --> 00:00:03,654\nnever die you need to see the\n\n3\n00:00:03,654 --> 00:00:06,695\nfour other animals that live for centuries\n\n4\n00:00:06,695 --> 00:00:08,738\nHere are the five longest-living animals on\n\n5\n00:00:08,738 --> 00:00:12,728\nEarth Number five Jonathan the giant tortoise\n\n6\n00:00:12,728 --> 00:00:14,026\nHe's thought to be about one hundred\n\n7\n00:00:14,026 --> 00:00:16,851\nninety-four years old Number four the bowhead\n\n8\n00:00:16,851 --> 00:00:19,303\nwhale One had an old harpoon tip\n\n9\n00:00:19,303 --> 00:00:21,863\ninside it and scientists estimated another\n\n10\n00:00:21,863 --> 00:00:24,700\nwas about two hundred eleven Number three\n\n11\n00:00:24,700 --> 00:00:27,007\nthe Greenland shark It grows about one\n\n12\n00:00:27,007 --> 00:00:29,351\ncentimeter a year and the oldest one\n\n13\n00:00:29,351 --> 00:00:32,200\ntested was estimated at nearly four hundred\n\n14\n00:00:32,200 --> 00:00:34,675\nNumber two a clam named Ming Its\n\n15\n00:00:34,675 --> 00:00:36,550\nshell rings showed it was born around\n\n16\n00:00:36,550 --> 00:00:39,026\nfourteen ninety-nine making it five hundred\n\n17\n00:00:39,026 --> 00:00:42,548\nseven Number one the immortal jellyfish When\n\n18\n00:00:42,548 --> 00:00:44,760\nit's hurt or starving it can turn\n\n19\n00:00:44,760 --> 00:00:46,803\nback into a baby polyp and start\n\n20\n00:00:46,803 --> 00:00:49,123\nits life over That's the jellyfish that\n\n21\n00:00:49,123 --> 00:00:51,791\nmight never die unless something eats it\n\n22\n00:00:51,791 --> 00:00:53,990\nfirst Which of these five would you\n\n23\n00:00:53,990 --> 00:00:55,901\nwant as a pet Tell me then\n\n24\n00:00:55,901 --> 00:00:58,080\ngo meet that jellyfish again\n",
+      "tg_msg": 353,
+      "opts_msg": 355
+    },
+    "2026-10-13-2": {
+      "topic": {
+        "title": "Top 5 Funniest Fashion Fails in History",
+        "angle": "Kind comedy is today's biggest breakout (1873.3x, 74.0x and 59.4x are all reaction-style funny Shorts), and this countdown uses the same setup-then-payoff shape, saving the shoe a king had to limit by law for number one.",
+        "format": "funny",
+        "tone": "funny",
+        "virality_score": 7,
+        "trend_source": "Pinkchyu ROASTS Goth Girl With SAVAGE Comeback! (DarkRa, 1873.3x); Papi arruina el pastel + novio al rescate = CAOS (Latina Mami, 74.0x, The Stack); BOYS' FIRST STEP TO MANHOOD (Baccha Mat Bolna, 59.4x)",
+        "plan_id": "P2026-10-13-02"
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-13T21:06:48.976877+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "funny fashion history",
+        "title": "Top 5 Funniest Fashion Fails in History",
+        "hook_text": "HISTORY'S WORST TRENDS",
+        "thumbnail_text": "ILLEGAL SHOES?",
+        "description": "Five funny fashion trends in history that people really wore, from giant ruffs and towering wigs to weird historical fashion like platform shoes over 18 inches tall. Number one is the pointy medieval shoes a king limited by law in 1463.\n\nIn this Short: ruff collars, panniers, macaroni wigs, chopines and poulaines.\n\nSources:\nhttps://getty.edu/news/uncomfortable-shoes-of-the-middle-ages\nhttps://getty.edu/news/uncomfortable-shoes-of-the-middle-ages\nhttps://fashionhistory.fitnyc.edu/chopines/",
+        "hashtags": [
+          "#shorts",
+          "#funny",
+          "#history",
+          "#fashionhistory"
+        ],
+        "tags": [
+          "funny fashion history",
+          "weird fashion trends in history",
+          "funny fashion",
+          "medieval shoes",
+          "weird fashion trends",
+          "weird history fashion",
+          "funny fashion trends",
+          "weird historical fashion",
+          "pointy shoes",
+          "fashion history",
+          "ruff collar",
+          "macaroni wig",
+          "yankee doodle macaroni",
+          "history facts",
+          "chopines",
+          "panniers",
+          "poulaines",
+          "crakows"
+        ],
+        "pinned_comment": "Bonus fact: some people stuffed the toes of their pointy shoes with moss or horsehair just to keep them stiff. Which trend should make a comeback?",
+        "scenes": [
+          {
+            "text": "Before you laugh at your own old outfits, see the shoes an English king had to limit. Here are the five funniest fashion fails in history.",
+            "badge": "",
+            "label": "5 real fashion fails",
+            "stock_queries": [
+              "pointed medieval shoe close up",
+              "museum art gallery portraits"
+            ],
+            "image_prompt": "Close-up of a long pointed medieval style shoe alongside a slow pan across old portraits in a museum gallery.",
+            "stock_query": "pointed medieval shoe close up"
+          },
+          {
+            "text": "Number five, the giant ruff. These starched collars stuck out about nine inches, like wearing a frilly dinner plate.",
+            "badge": "",
+            "label": "A collar like a plate",
+            "stock_queries": [
+              "portrait painting ruff collar",
+              "stack of white dinner plates"
+            ],
+            "image_prompt": "Portrait painting of a person in a huge white ruff collar with a stack of white dinner plates beside a lace collar.",
+            "stock_query": "portrait painting ruff collar"
+          },
+          {
+            "text": "Number four, panniers. These hoops made skirts so wide, some had hinges to fold up for doorways.",
+            "badge": "",
+            "label": "Folding skirts for doors",
+            "stock_queries": [
+              "wide dress museum mannequin",
+              "narrow old wooden doorway"
+            ],
+            "image_prompt": "Museum mannequin in a very wide 18th century gown standing in front of a narrow old wooden doorway in a historic house.",
+            "stock_query": "wide dress museum mannequin"
+          },
+          {
+            "text": "Number three, macaroni wigs. Cartoonists drew these powdered wigs nearly half the wearer's size. And yes, that's the macaroni in Yankee Doodle, the fashion, not the pasta.",
+            "badge": "",
+            "label": "Not the pasta",
+            "stock_queries": [
+              "tall white powdered wig",
+              "bowl of macaroni pasta"
+            ],
+            "image_prompt": "Tall white powdered wig on a stand next to an old engraving-style drawing and a bowl of macaroni pasta.",
+            "stock_query": "tall white powdered wig"
+          },
+          {
+            "text": "Number two, chopines. These Italian platform shoes could be over eighteen inches tall.",
+            "badge": "",
+            "label": "Over 18 inches tall",
+            "stock_queries": [
+              "venice canal old buildings",
+              "person walking on stilts"
+            ],
+            "image_prompt": "Venice canal lined with old buildings and a person wearing extremely tall platform shoes.",
+            "stock_query": "venice canal old buildings"
+          },
+          {
+            "text": "Number one, poulaines, shoes with toes so long they were stuffed with moss or horsehair. In fourteen sixty-three, King Edward the Fourth limited anyone who wasn't a noble to toes of two inches. That's the shoe a king had to limit by law.",
+            "badge": "",
+            "label": "A shoe law. Really.",
+            "stock_queries": [
+              "pointed leather shoe straw",
+              "old parchment scroll wax seal"
+            ],
+            "image_prompt": "Pointed leather shoe tip filled with straw next to an old parchment scroll with a red wax seal and a ruler measuring the toe.",
+            "stock_query": "pointed leather shoe straw"
+          },
+          {
+            "text": "Which of these five would you dare to wear to school? Tell me, then go see those shoes again.",
+            "badge": "",
+            "label": "Back to the shoes",
+            "stock_queries": [
+              "empty school hallway lockers",
+              "long pointed medieval shoe"
+            ],
+            "image_prompt": "Empty school hallway with lockers transitioning to a slow pan along a long pointed shoe.",
+            "stock_query": "empty school hallway lockers"
+          }
+        ],
+        "key_facts": [
+          "Giant ruff collars stuck out about nine inches like a dinner plate.",
+          "Panniers were hoops that made skirts so wide they needed hinges for doorways.",
+          "Macaroni wigs were powdered wigs drawn by cartoonists nearly half the wearer's size.",
+          "The macaroni in Yankee Doodle refers to the fashion trend, not pasta.",
+          "Chopines were Italian platform shoes over eighteen inches tall.",
+          "Poulaines were medieval shoes with extremely long toes stuffed with moss or horsehair.",
+          "In 1463, King Edward the Fourth limited non-nobles to shoe toes of two inches by law."
+        ],
+        "format": "funny",
+        "tone": "funny",
+        "category": "23",
+        "script": "Before you laugh at your own old outfits, see the shoes an English king had to limit. Here are the five funniest fashion fails in history. Number five, the giant ruff. These starched collars stuck out about nine inches, like wearing a frilly dinner plate. Number four, panniers. These hoops made skirts so wide, some had hinges to fold up for doorways. Number three, macaroni wigs. Cartoonists drew these powdered wigs nearly half the wearer's size. And yes, that's the macaroni in Yankee Doodle, the fashion, not the pasta. Number two, chopines. These Italian platform shoes could be over eighteen inches tall. Number one, poulaines, shoes with toes so long they were stuffed with moss or horsehair. In fourteen sixty-three, King Edward the Fourth limited anyone who wasn't a noble to toes of two inches. That's the shoe a king had to limit by law. Which of these five would you dare to wear to school? Tell me, then go see those shoes again.",
+        "plan_id": "P2026-10-13-02",
+        "shot_plan": [
+          {
+            "subject": "antique royal shoes",
+            "queries": [
+              {
+                "q": "historical shoes",
+                "must": [
+                  "shoes"
+                ]
+              },
+              {
+                "q": "vintage footwear",
+                "must": [
+                  "footwear"
+                ]
+              },
+              {
+                "q": "antique shoe",
+                "must": [
+                  "shoe"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "large Elizabethan collar ruff",
+            "queries": [
+              {
+                "q": "elizabethan collar ruff",
+                "must": [
+                  "collar"
+                ]
+              },
+              {
+                "q": "lace ruff neck",
+                "must": [
+                  "lace"
+                ]
+              },
+              {
+                "q": "historical collar",
+                "must": [
+                  "collar"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "wide historical dress panniers",
+            "queries": [
+              {
+                "q": "wide historical dress",
+                "must": [
+                  "dress"
+                ]
+              },
+              {
+                "q": "antique gown",
+                "must": [
+                  "gown"
+                ]
+              },
+              {
+                "q": "historical skirt",
+                "must": [
+                  "skirt"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "tall powdered wig",
+            "queries": [
+              {
+                "q": "powdered wig",
+                "must": [
+                  "wig"
+                ]
+              },
+              {
+                "q": "historical wig",
+                "must": [
+                  "wig"
+                ]
+              },
+              {
+                "q": "colonial wig",
+                "must": [
+                  "wig"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "tall platform shoes chopines",
+            "queries": [
+              {
+                "q": "platform shoes antique",
+                "must": [
+                  "shoes"
+                ]
+              },
+              {
+                "q": "tall shoes",
+                "must": [
+                  "shoes"
+                ]
+              },
+              {
+                "q": "vintage footwear",
+                "must": [
+                  "footwear"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "medieval pointy shoes poulaines",
+            "queries": [
+              {
+                "q": "medieval shoes",
+                "must": [
+                  "shoes"
+                ]
+              },
+              {
+                "q": "pointed medieval shoe",
+                "must": [
+                  "shoe"
+                ]
+              },
+              {
+                "q": "vintage leather shoe",
+                "must": [
+                  "shoe"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "antique ornate shoes display",
+            "queries": [
+              {
+                "q": "museum shoes exhibit",
+                "must": [
+                  "shoes"
+                ]
+              },
+              {
+                "q": "antique shoes display",
+                "must": [
+                  "shoes"
+                ]
+              },
+              {
+                "q": "vintage shoe rack",
+                "must": [
+                  "shoe"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "historical clothing",
+          "antique fashion",
+          "vintage costume"
+        ],
+        "visual_style": "Fast-paced historical comedy with dynamic stock footage of historical clothing items and humorous close-ups.",
+        "visual_refs": [],
+        "voice": "en-US-AvaMultilingualNeural",
+        "visual_report": {
+          "shots": 10,
+          "checked": 10,
+          "unchecked": 0,
+          "filler": 2,
+          "ai": 0
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AvaMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): Leo_65 (Pixabay) https://pixabay.com/photos/shoe-leather-middle-ages-old-shoes-2742146/; Tama66 (Pixabay) https://pixabay.com/photos/woman-baroque-gorgeous-historical-2711842/; sabinevanerp (Pixabay) https://pixabay.com/photos/shoe-klompschoen-over-shoe-museum-2901942/",
+        "\u041b\u0430\u043f\u043e\u0442\u044c / Wikimedia Commons (CC0) https://commons.wikimedia.org/wiki/File:Shoes_-_15c_-_Ryazan_Kremlin_Museum.jpg",
+        "Creator/Contributor: Dielman, F. (Frederick), 1847-1935 (art / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:The_Widow_(Boston_Public_Library).jpg",
+        "Surrey County Council, David Williams, 2017-09-13 16:37:35 / Wikimedia Commons (CC BY 2.0) https://commons.wikimedia.org/wiki/File:Post_medieval,_Leather_shoe_(FindID_856913).jpg",
+        "Daderot / Wikimedia Commons (CC0) https://commons.wikimedia.org/wiki/File:Chinese_shoes,_Manchu,_late_19th_century_AD_-_Bata_Shoe_Museum_-_DSC00069.JPG",
+        "Daderot / Wikimedia Commons (CC0) https://commons.wikimedia.org/wiki/File:English_ceramic_shoes,_Bristolware,_1768_-_Bata_Shoe_Museum_-_DSC00280.JPG"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-13",
+        "name": "2026-10-13-2-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-13",
+        "name": "2026-10-13-2-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,088 --> 00:00:01,587\nBefore you laugh at your own old\n\n2\n00:00:01,587 --> 00:00:04,287\noutfits see the shoes an English king\n\n3\n00:00:04,287 --> 00:00:06,500\nhad to limit Here are the five\n\n4\n00:00:06,500 --> 00:00:09,713\nfunniest fashion fails in history Number five\n\n5\n00:00:09,713 --> 00:00:12,338\nthe giant ruff These starched collars stuck\n\n6\n00:00:12,338 --> 00:00:14,525\nout about nine inches like wearing a\n\n7\n00:00:14,525 --> 00:00:18,363\nfrilly dinner plate Number four panniers These\n\n8\n00:00:18,363 --> 00:00:20,900\nhoops made skirts so wide some had\n\n9\n00:00:20,900 --> 00:00:23,312\nhinges to fold up for doorways Number\n\n10\n00:00:23,312 --> 00:00:27,075\nthree macaroni wigs Cartoonists drew these\n\n11\n00:00:27,075 --> 00:00:30,188\npowdered wigs nearly half the wearer's size\n\n12\n00:00:30,188 --> 00:00:32,575\nAnd yes that's the macaroni in Yankee\n\n13\n00:00:32,575 --> 00:00:35,250\nDoodle the fashion not the pasta Number\n\n14\n00:00:35,250 --> 00:00:38,675\ntwo chopines These Italian platform shoes could\n\n15\n00:00:38,675 --> 00:00:41,862\nbe over eighteen inches tall Number one\n\n16\n00:00:41,862 --> 00:00:44,413\npoulaines shoes with toes so long they\n\n17\n00:00:44,413 --> 00:00:46,925\nwere stuffed with moss or horsehair In\n\n18\n00:00:46,925 --> 00:00:49,650\nfourteen sixty-three King Edward the Fourth\n\n19\n00:00:49,650 --> 00:00:51,575\nlimited anyone who wasn't a noble to\n\n20\n00:00:51,575 --> 00:00:54,237\ntoes of two inches That's the shoe\n\n21\n00:00:54,237 --> 00:00:56,263\na king had to limit by law\n\n22\n00:00:56,263 --> 00:00:57,913\nWhich of these five would you dare\n\n23\n00:00:57,913 --> 00:01:00,200\nto wear to school Tell me then\n\n24\n00:01:00,200 --> 00:01:02,000\ngo see those shoes again\n",
+      "tg_msg": 356,
+      "opts_msg": 358
+    },
+    "2026-10-13-3": {
+      "topic": {
+        "title": "How Mapmakers Invented a Town in 1925",
+        "angle": "The 38.0x 'He pretended to be blind' and 1873.3x roast both hang on a reveal that flips the setup, and this true story has the same flip: a fake town built as a trap turns real.",
+        "format": "story",
+        "tone": "normal",
+        "virality_score": 7,
+        "trend_source": "He pretended to be blind (Film Explorer, 38.0x); Pinkchyu ROASTS Goth Girl With SAVAGE Comeback! (DarkRa, 1873.3x)",
+        "plan_id": "P2026-10-13-03"
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-13T21:14:44.071259+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "agloe new york",
+        "title": "How Mapmakers Invented a Town in 1925",
+        "hook_text": "MAPMAKERS LIED ON PURPOSE",
+        "thumbnail_text": "NEVER EXISTED",
+        "description": "Agloe, New York was a fake town on a map, made up by mapmakers as a copyright trap to catch copycats. This is how that paper town ended up becoming real.\n\nIn this Short: the 1920s map trap, the fishing lodge that took the name, and how Agloe ended up in a US government database.\n\nThis is a true story.\n\nSources:\nhttps://en.wikipedia.org/wiki/Agloe,_New_York\nhttps://www.amusingplanet.com/2017/03/agloe-fake-town-that-became-real_19.html",
+        "hashtags": [
+          "#shorts",
+          "#truestory",
+          "#history",
+          "#maps",
+          "#storytime"
+        ],
+        "tags": [
+          "agloe new york",
+          "fake towns",
+          "paper towns",
+          "fake towns in america",
+          "agloe",
+          "map trap",
+          "true story",
+          "copyright trap",
+          "roscoe new york",
+          "fake town on map",
+          "trap street",
+          "map history",
+          "history facts",
+          "catskills"
+        ],
+        "pinned_comment": "Bonus fact: fake places like Agloe are called 'paper towns', and mapmakers used them to prove someone copied their work. Would you ever visit a town that started as a trap?",
+        "scenes": [
+          {
+            "text": "Before you trust your map, you should know about Agloe, the town that was never supposed to exist. This is the true story of a fake town that became real.",
+            "badge": "A town t",
+            "label": "True story",
+            "stock_queries": [
+              "old paper road map unfolding",
+              "vintage road map close up"
+            ],
+            "image_prompt": "An old paper road map unfolding on a rustic wooden table under warm lighting",
+            "stock_query": "old paper road map unfolding"
+          },
+          {
+            "text": "In the nineteen-twenties, two mapmakers wanted to catch copycats. So they invented a tiny town on a New York dirt road.",
+            "badge": "1920s ma",
+            "label": "A fake dot on the map",
+            "stock_queries": [
+              "vintage drafting desk with pens",
+              "drawing lines on paper map"
+            ],
+            "image_prompt": "A vintage drafting desk with old fountain pens, rulers, and a half-drawn map",
+            "stock_query": "vintage drafting desk with pens"
+          },
+          {
+            "text": "They named it Agloe, from their initials. If Agloe showed up on another map, it was copied. Here's the twist.",
+            "badge": "O.G.L. +",
+            "label": "The copycat trap",
+            "stock_queries": [
+              "magnifying glass on map",
+              "finger pointing at map location"
+            ],
+            "image_prompt": "A magnifying glass sliding over a vintage map highlighting a tiny printed town name",
+            "stock_query": "magnifying glass on map"
+          },
+          {
+            "text": "Around nineteen-thirty, a nearby fishing lodge took the name for real. The story goes that Agloe later turned up on a rival company's map.",
+            "badge": "The twis",
+            "label": "Agloe Lodge: real!",
+            "stock_queries": [
+              "rustic wooden lodge by stream",
+              "two road maps side by side"
+            ],
+            "image_prompt": "A rustic wooden fishing lodge beside a quiet stream in a green forest",
+            "stock_query": "rustic wooden lodge by stream"
+          },
+          {
+            "text": "The rival said the name was now in real county records. The trap caught nothing, because the fake town had turned real.",
+            "badge": "On a riv",
+            "label": "Real county records",
+            "stock_queries": [
+              "old filing cabinet paper records",
+              "empty mousetrap on wooden floor"
+            ],
+            "image_prompt": "An old metal filing cabinet filled with dusty paper records and historical documents",
+            "stock_query": "old filing cabinet paper records"
+          },
+          {
+            "text": "In twenty-fourteen, Agloe even landed in a US government database. So that's Agloe, the fake town people made real by believing the map.",
+            "badge": "The trap",
+            "label": "In a government database",
+            "stock_queries": [
+              "computer screen data scrolling",
+              "digital map interface screen"
+            ],
+            "image_prompt": "A computer screen scrolling through a long database list of geographical place names",
+            "stock_query": "computer screen data scrolling"
+          },
+          {
+            "text": "If you could invent one fake town, what would you name it? Tell me, and next time you open a map, think of Agloe.",
+            "badge": "Fake tow",
+            "label": "THE END",
+            "stock_queries": [
+              "hand opening folded road map",
+              "sunset over country crossroads"
+            ],
+            "image_prompt": "A hand opening a crisp folded road map outdoors against a bright sunset background",
+            "stock_query": "hand opening folded road map"
+          }
+        ],
+        "key_facts": [
+          "Agloe was invented in the 1920s by two mapmakers as a copyright trap.",
+          "The name Agloe was created from the initials of the mapmakers.",
+          "Around 1930, a real fishing lodge took the name Agloe.",
+          "A rival company included Agloe on their map because it appeared in real county records.",
+          "In 2014, Agloe appeared in a US government database."
+        ],
+        "format": "story",
+        "tone": "normal",
+        "category": "24",
+        "script": "Before you trust your map, you should know about Agloe, the town that was never supposed to exist. This is the true story of a fake town that became real. In the nineteen-twenties, two mapmakers wanted to catch copycats. So they invented a tiny town on a New York dirt road. They named it Agloe, from their initials. If Agloe showed up on another map, it was copied. Here's the twist. Around nineteen-thirty, a nearby fishing lodge took the name for real. The story goes that Agloe later turned up on a rival company's map. The rival said the name was now in real county records. The trap caught nothing, because the fake town had turned real. In twenty-fourteen, Agloe even landed in a US government database. So that's Agloe, the fake town people made real by believing the map. If you could invent one fake town, what would you name it? Tell me, and next time you open a map, think of Agloe.",
+        "plan_id": "P2026-10-13-03",
+        "shot_plan": [
+          {
+            "subject": "vintage map",
+            "queries": [
+              {
+                "q": "vintage folded map",
+                "must": [
+                  "map"
+                ]
+              },
+              {
+                "q": "old paper map",
+                "must": [
+                  "map"
+                ]
+              },
+              {
+                "q": "atlas page",
+                "must": [
+                  "atlas"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "cartographer drafting",
+            "queries": [
+              {
+                "q": "person drawing map",
+                "must": [
+                  "map"
+                ]
+              },
+              {
+                "q": "dirt road countryside",
+                "must": [
+                  "road"
+                ]
+              },
+              {
+                "q": "vintage compass",
+                "must": [
+                  "compass"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "initials written on paper",
+            "queries": [
+              {
+                "q": "writing initials",
+                "must": [
+                  "writing"
+                ]
+              },
+              {
+                "q": "handwriting on paper",
+                "must": [
+                  "paper"
+                ]
+              },
+              {
+                "q": "map markers",
+                "must": [
+                  "map"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "fishing lodge building",
+            "queries": [
+              {
+                "q": "wooden fishing lodge",
+                "must": [
+                  "lodge"
+                ]
+              },
+              {
+                "q": "country cabin exterior",
+                "must": [
+                  "cabin"
+                ]
+              },
+              {
+                "q": "lake fishing cabin",
+                "must": [
+                  "cabin"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "official government records folder",
+            "queries": [
+              {
+                "q": "paper document records",
+                "must": [
+                  "document"
+                ]
+              },
+              {
+                "q": "archive folders",
+                "must": [
+                  "folder"
+                ]
+              },
+              {
+                "q": "old county map",
+                "must": [
+                  "map"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "computer screen database",
+            "queries": [
+              {
+                "q": "digital database screen",
+                "must": [
+                  "screen"
+                ]
+              },
+              {
+                "q": "computer data display",
+                "must": [
+                  "computer"
+                ]
+              },
+              {
+                "q": "modern map interface",
+                "must": [
+                  "map"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "open road map",
+            "queries": [
+              {
+                "q": "folding roadmap",
+                "must": [
+                  "map"
+                ]
+              },
+              {
+                "q": "travel planner map",
+                "must": [
+                  "map"
+                ]
+              },
+              {
+                "q": "road trip map",
+                "must": [
+                  "map"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "vintage map",
+          "cartography compass",
+          "country road"
+        ],
+        "visual_style": "A fast-paced historical narrative driven by literal stock footage of maps, cartography tools, and countryside locations matching the voiceover.",
+        "visual_refs": [],
+        "voice": "en-AU-WilliamMultilingualNeural",
+        "visual_report": {
+          "shots": 12,
+          "checked": 12,
+          "unchecked": 0,
+          "filler": 3,
+          "ai": 0
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-AU-WilliamMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): caelan (Pixabay) https://pixabay.com/videos/id-30090/; tarlamu (Pixabay) https://pixabay.com/videos/id-33237/; caelan (Pixabay) https://pixabay.com/videos/id-30088/; Coverr-Free-Footage (Pixabay) https://pixabay.com/videos/id-1046/; HolgersFotografie (Pixabay) https://pixabay.com/videos/id-13053/; max_bbb (Pixabay) https://pixabay.com/videos/id-15650/; Joe_hackney (Pixabay) https://pixabay.com/videos/id-147171/; AndersonCampos (Pixabay) https://pixabay.com/videos/id-131471/; caelan (Pixabay) https://pixabay.com/videos/id-30089/"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-13",
+        "name": "2026-10-13-3-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-13",
+        "name": "2026-10-13-3-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,050 --> 00:00:02,074\nBefore you trust your map you should\n\n2\n00:00:02,074 --> 00:00:04,112\nknow about Agloe the town that was\n\n3\n00:00:04,112 --> 00:00:06,504\nnever supposed to exist This is the\n\n4\n00:00:06,504 --> 00:00:08,379\ntrue story of a fake town that\n\n5\n00:00:08,379 --> 00:00:12,061\nbecame real In the nineteen-twenties two mapmakers\n\n6\n00:00:12,061 --> 00:00:14,873\nwanted to catch copycats So they invented\n\n7\n00:00:14,873 --> 00:00:16,613\na tiny town on a New York\n\n8\n00:00:16,613 --> 00:00:19,466\ndirt road They named it Agloe from\n\n9\n00:00:19,466 --> 00:00:21,871\ntheir initials If Agloe showed up on\n\n10\n00:00:21,871 --> 00:00:24,724\nanother map it was copied Here's the\n\n11\n00:00:24,724 --> 00:00:28,229\ntwist Around nineteen-thirty a nearby fishing\n\n12\n00:00:28,229 --> 00:00:30,363\nlodge took the name for real The\n\n13\n00:00:30,363 --> 00:00:32,618\nstory goes that Agloe later turned up\n\n14\n00:00:32,618 --> 00:00:35,050\non a rival company's map The rival\n\n15\n00:00:35,050 --> 00:00:36,830\nsaid the name was now in real\n\n16\n00:00:36,830 --> 00:00:39,968\ncounty records The trap caught nothing because\n\n17\n00:00:39,968 --> 00:00:42,251\nthe fake town had turned real In\n\n18\n00:00:42,251 --> 00:00:45,376\ntwenty-fourteen Agloe even landed in a US\n\n19\n00:00:45,376 --> 00:00:48,651\ngovernment database So that's Agloe the fake\n\n20\n00:00:48,651 --> 00:00:50,634\ntown people made real by believing the\n\n21\n00:00:50,634 --> 00:00:52,930\nmap If you could invent one fake\n\n22\n00:00:52,930 --> 00:00:55,295\ntown what would you name it Tell\n\n23\n00:00:55,295 --> 00:00:57,020\nme and next time you open a\n\n24\n00:00:57,020 --> 00:00:59,010\nmap think of Agloe\n",
+      "tg_msg": 359,
+      "opts_msg": 361
+    },
+    "2026-10-13-4": {
+      "topic": {
+        "title": "3-Second Space Quiz: Can You Spot the Myth?",
+        "angle": "Guess-the-outcome games are breaking out (11.1x 'Who Can Build The Better Nachos With $20?', 9.1x 'Guess Devil Aphmau's REAL Reaction!'), and this quiz makes viewers commit to an answer before each three-second reveal.",
+        "format": "quiz",
+        "tone": "normal",
+        "virality_score": 7,
+        "trend_source": "Who Can Build The Better Nachos With $20? (Makeshift Project, 11.1x); Guess Devil Aphmau's REAL Reaction! (GOLDCRAFT STUDIOS, 9.1x)",
+        "plan_id": "P2026-10-13-04"
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-13T21:20:20.682533+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "space quiz",
+        "title": "3-Second Space Quiz: Can You Spot the Myth?",
+        "hook_text": "MYTH OR TRUTH?",
+        "thumbnail_text": "1 IS FAKE",
+        "description": "Can you spot the myth in this 3-second space quiz? Find out if a day on Venus is longer than its year, if you can see the Great Wall of China from space, and how long Moon footprints last.\n\nIn this Short: three space facts, three seconds each, and one myth almost everyone believes.\n\nSources:\nhttps://www.theweathernetwork.com/en/news/science/space/how-long-is-the-solar-systems-longest-day-venus-has-the-answer\nhttps://www.universetoday.com/25364/can-you-see-the-great-wall-of-china-from-space/\nhttps://www.space.com/35352-eugene-cernan-moon-legacy-footprints.html",
+        "hashtags": [
+          "#shorts",
+          "#space",
+          "#quiz",
+          "#sciencefacts"
+        ],
+        "tags": [
+          "space quiz",
+          "great wall of china from space",
+          "why is venus day longer than year",
+          "space facts",
+          "the great wall from space",
+          "space quiz questions and answers",
+          "can you see the great wall from space",
+          "space questions quiz",
+          "space exploration quiz",
+          "space and astronomy quiz",
+          "moon footprints",
+          "true or false quiz",
+          "space trivia arg",
+          "space myths",
+          "science quiz",
+          "venus rotation",
+          "apollo footprints"
+        ],
+        "pinned_comment": "Bonus fact: Venus also spins backwards compared to most planets, so the Sun there rises in the west. Which fact did you get wrong?",
+        "scenes": [
+          {
+            "text": "Before you scroll, can you spot which of these three space facts is fake? Three facts, three seconds each, and one is a myth.",
+            "badge": "INTRO",
+            "label": "1 of these is FAKE",
+            "stock_queries": [
+              "starfield rotating slowly",
+              "earth from space orbit"
+            ],
+            "image_prompt": "Cinematic deep space starfield slowly rotating with Earth visible in the corner, high quality, photorealistic.",
+            "stock_query": "starfield rotating slowly"
+          },
+          {
+            "text": "Fact one. A day on Venus is longer than its whole year. Three, two, one.",
+            "badge": "Q1",
+            "label": "Venus: day > year?",
+            "stock_queries": [
+              "venus planet rotating",
+              "countdown timer 3 seconds"
+            ],
+            "image_prompt": "Yellow cloudy planet Venus rotating in the dark void of space, large countdown numbers overlaid, realistic.",
+            "stock_query": "venus planet rotating"
+          },
+          {
+            "text": "True. Venus takes about two hundred forty-three Earth days to spin once, but only about two hundred twenty-five to circle the Sun.",
+            "badge": "\u2713",
+            "label": "TRUE: 243 vs 225 days",
+            "stock_queries": [
+              "planet orbiting the sun",
+              "spinning planet animation"
+            ],
+            "image_prompt": "Animated rocky planet orbiting around a bright Sun with orbital paths visible, scientific visualization style.",
+            "stock_query": "planet orbiting the sun"
+          },
+          {
+            "text": "Fact two. You can see the Great Wall of China from space with your bare eyes. Three, two, one.",
+            "badge": "Q2",
+            "label": "Great Wall from space?",
+            "stock_queries": [
+              "great wall of china mountains",
+              "earth orbit view"
+            ],
+            "image_prompt": "The Great Wall of China winding across green mountain ridges under bright daylight, aerial drone view.",
+            "stock_query": "great wall of china mountains"
+          },
+          {
+            "text": "Fake. Astronauts say it's too narrow and blends into the land around it.",
+            "badge": "\u2713",
+            "label": "FAKE: too narrow",
+            "stock_queries": [
+              "earth from space window",
+              "great wall red x mark"
+            ],
+            "image_prompt": "Planet Earth viewed from a space station window with a bold red X graphic overlaid, cinematic lighting.",
+            "stock_query": "earth from space window"
+          },
+          {
+            "text": "Fact three. Astronaut footprints on the Moon could last millions of years. Three, two, one.",
+            "badge": "Q3",
+            "label": "Moon footprints forever?",
+            "stock_queries": [
+              "moon surface crater",
+              "countdown numbers"
+            ],
+            "image_prompt": "Grey dusty lunar surface under harsh space sunlight with countdown numbers floating in the dark sky.",
+            "stock_query": "moon surface crater"
+          },
+          {
+            "text": "True. The Moon has no wind or rain to wipe them away.",
+            "badge": "\u2713",
+            "label": "TRUE: no wind, no rain",
+            "stock_queries": [
+              "boot print in moon dust",
+              "apollo moon surface"
+            ],
+            "image_prompt": "Close-up of a crisp human boot print pressed into grey lunar dust on the Moon, high detail.",
+            "stock_query": "boot print in moon dust"
+          },
+          {
+            "text": "So the fake was the Great Wall, the myth almost everybody grew up believing. Which one fooled you, Venus, the Wall, or the footprints? Tell me, then try the next round before you scroll.",
+            "badge": "OUTRO",
+            "label": "Which one got you?",
+            "stock_queries": [
+              "venus and moon side by side",
+              "starfield zooming forward"
+            ],
+            "image_prompt": "Planets Venus, Earth, and the Moon floating side by side in a starfield, cinematic composition, vibrant colors.",
+            "stock_query": "venus and moon side by side"
+          }
+        ],
+        "key_facts": [
+          "A day on Venus is longer than its year (243 Earth days to spin once versus 225 to orbit the Sun).",
+          "The Great Wall of China cannot be seen from space with the naked eye because it is too narrow.",
+          "Astronaut footprints on the Moon can last millions of years due to the lack of wind and rain."
+        ],
+        "format": "quiz",
+        "tone": "normal",
+        "category": "24",
+        "script": "Before you scroll, can you spot which of these three space facts is fake? Three facts, three seconds each, and one is a myth. Fact one. A day on Venus is longer than its whole year. Three, two, one. True. Venus takes about two hundred forty-three Earth days to spin once, but only about two hundred twenty-five to circle the Sun. Fact two. You can see the Great Wall of China from space with your bare eyes. Three, two, one. Fake. Astronauts say it's too narrow and blends into the land around it. Fact three. Astronaut footprints on the Moon could last millions of years. Three, two, one. True. The Moon has no wind or rain to wipe them away. So the fake was the Great Wall, the myth almost everybody grew up believing. Which one fooled you, Venus, the Wall, or the footprints? Tell me, then try the next round before you scroll.",
+        "plan_id": "P2026-10-13-04",
+        "shot_plan": [
+          {
+            "subject": "planet Earth floating in dark space",
+            "queries": [
+              {
+                "q": "planet Earth space",
+                "must": [
+                  "earth"
+                ]
+              },
+              {
+                "q": "rotating globe space",
+                "must": [
+                  "globe"
+                ]
+              },
+              {
+                "q": "earth view from space",
+                "must": [
+                  "space"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "planet Venus glowing in space",
+            "queries": [
+              {
+                "q": "planet Venus space",
+                "must": [
+                  "venus"
+                ]
+              },
+              {
+                "q": "bright planet space",
+                "must": [
+                  "planet"
+                ]
+              },
+              {
+                "q": "spinning planet",
+                "must": [
+                  "sphere"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "sun and orbiting planet",
+            "queries": [
+              {
+                "q": "sun orbit space",
+                "must": [
+                  "sun"
+                ]
+              },
+              {
+                "q": "solar system orbit",
+                "must": [
+                  "orbit"
+                ]
+              },
+              {
+                "q": "planet rotation",
+                "must": [
+                  "rotation"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "Great Wall of China winding across mountains",
+            "queries": [
+              {
+                "q": "Great Wall China",
+                "must": [
+                  "wall"
+                ]
+              },
+              {
+                "q": "China mountains wall",
+                "must": [
+                  "china"
+                ]
+              },
+              {
+                "q": "ancient stone wall",
+                "must": [
+                  "stone"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "astronaut looking down at Earth from window",
+            "queries": [
+              {
+                "q": "astronaut space station window",
+                "must": [
+                  "astronaut"
+                ]
+              },
+              {
+                "q": "earth from window",
+                "must": [
+                  "window"
+                ]
+              },
+              {
+                "q": "person in spacesuit",
+                "must": [
+                  "spacesuit"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "footprint in grey Moon dust",
+            "queries": [
+              {
+                "q": "Moon footprint lunar",
+                "must": [
+                  "footprint"
+                ]
+              },
+              {
+                "q": "lunar dust surface",
+                "must": [
+                  "moon"
+                ]
+              },
+              {
+                "q": "boot print soil",
+                "must": [
+                  "dust"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "cratered surface of the Moon in black space",
+            "queries": [
+              {
+                "q": "Moon surface craters",
+                "must": [
+                  "moon"
+                ]
+              },
+              {
+                "q": "lunar surface craters",
+                "must": [
+                  "crater"
+                ]
+              },
+              {
+                "q": "grey rock surface",
+                "must": [
+                  "rock"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "astronaut walking on lunar surface",
+            "queries": [
+              {
+                "q": "astronaut Moon surface",
+                "must": [
+                  "astronaut"
+                ]
+              },
+              {
+                "q": "space exploration Moon",
+                "must": [
+                  "moon"
+                ]
+              },
+              {
+                "q": "lunar landing",
+                "must": [
+                  "landing"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "deep space stars",
+          "planet Earth",
+          "galaxy spinning"
+        ],
+        "visual_style": "Fast-paced space trivia clips with clear visual prompts and countdown timers for guessing game engagement.",
+        "visual_refs": [],
+        "voice": "en-US-AndrewMultilingualNeural",
+        "visual_report": {
+          "shots": 15,
+          "checked": 15,
+          "unchecked": 0,
+          "filler": 0,
+          "ai": 0
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AndrewMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): Nerd_Nonsense (Pixabay) https://pixabay.com/videos/id-201404/; Osckar (Pixabay) https://pixabay.com/videos/id-2118/; PIRO4D (Pixabay) https://pixabay.com/videos/id-4788/; olenchic (Pixabay) https://pixabay.com/videos/id-144423/; olenchic (Pixabay) https://pixabay.com/videos/id-144478/; MisterMist (Pixabay) https://pixabay.com/videos/id-66949/; D-GM (Pixabay) https://pixabay.com/videos/id-199127/; TungArt7 (Pixabay) https://pixabay.com/videos/id-267748/; flutie8211 (Pixabay) https://pixabay.com/videos/id-361360/; AdisResic (Pixabay) https://pixabay.com/videos/id-218784/; Positive_Hedgehog (Pixabay) https://pixabay.com/videos/id-279585/; 8385 (Pixabay) https://pixabay.com/videos/id-10063/; WikiImages (Pixabay) https://pixabay.com/photos/astronaut-spaceman-spacesuit-11118/",
+        "NASA Johnson Space Center / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:Close-up_view_of_astronauts_foot_and_footprint_in_lunar_soil_(as11-40-5880).jpg",
+        "NASA Johnson Space Center / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:Astronaut_Alan_Bean_deploys_Lunar_Surface_Magnetometer_on_lunar_surface_(as12-46-6813).jpg"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-13",
+        "name": "2026-10-13-4-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-13",
+        "name": "2026-10-13-4-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,094 --> 00:00:02,272\nBefore you scroll can you spot which\n\n2\n00:00:02,272 --> 00:00:04,597\nof these three space facts is fake\n\n3\n00:00:04,597 --> 00:00:07,863\nThree facts three seconds each and one\n\n4\n00:00:07,863 --> 00:00:10,363\nis a myth Fact one A day\n\n5\n00:00:10,363 --> 00:00:12,769\non Venus is longer than its whole\n\n6\n00:00:12,769 --> 00:00:16,532\nyear Three two one True Venus takes\n\n7\n00:00:16,532 --> 00:00:19,274\nabout two hundred forty-three Earth days to\n\n8\n00:00:19,274 --> 00:00:21,922\nspin once but only about two hundred\n\n9\n00:00:21,922 --> 00:00:23,642\ntwenty-five to circle the Sun.\n\n10\n00:00:23,642 --> 00:00:25,901\nFact two You can see the Great\n\n11\n00:00:25,901 --> 00:00:27,661\nWall of China from space with your\n\n12\n00:00:27,661 --> 00:00:32,003\nbare eyes Three two one Fake Astronauts\n\n13\n00:00:32,003 --> 00:00:34,368\nsay it's too narrow and blends into\n\n14\n00:00:34,368 --> 00:00:37,473\nthe land around it Fact three Astronaut\n\n15\n00:00:37,473 --> 00:00:40,376\nfootprints on the Moon could last millions\n\n16\n00:00:40,376 --> 00:00:43,844\nof years Three two one True The\n\n17\n00:00:43,844 --> 00:00:46,452\nMoon has no wind or rain to\n\n18\n00:00:46,452 --> 00:00:48,414\nwipe them away So the fake was\n\n19\n00:00:48,414 --> 00:00:51,210\nthe Great Wall the myth almost everybody\n\n20\n00:00:51,210 --> 00:00:54,032\ngrew up believing Which one fooled you\n\n21\n00:00:54,032 --> 00:00:57,379\nVenus the Wall or the footprints Tell\n\n22\n00:00:57,379 --> 00:00:59,651\nme then try the next round before\n\n23\n00:00:59,651 --> 00:01:00,669\nyou scroll\n",
+      "tg_msg": 362,
+      "opts_msg": 364
     }
   },
   "history": [
@@ -11381,7 +12764,11 @@
     "Top 5 Animals With The Most Ridiculous Excuses For Sleeping",
     "Can You Guess These 3 Mind-Bending Physics Illusions?",
     "Top 5 Foods That Smell Terrible But Taste Incredible",
-    "Top 5 Worst Design Fails In Everyday Architecture"
+    "Top 5 Worst Design Fails In Everyday Architecture",
+    "Top 5 Animals That Live the Longest",
+    "Top 5 Funniest Fashion Fails in History",
+    "How Mapmakers Invented a Town in 1925",
+    "3-Second Space Quiz: Can You Spot the Myth?"
   ],
   "trend_tries": {
     "2026-10-11": {
@@ -11400,10 +12787,10 @@
   "cleanup_day": "2026-10-13",
   "recent_voices": [
     "gTTS",
-    "gTTS",
-    "gTTS",
-    "gTTS",
-    "gTTS"
+    "en-US-AndrewMultilingualNeural",
+    "en-US-AvaMultilingualNeural",
+    "en-AU-WilliamMultilingualNeural",
+    "en-US-AndrewMultilingualNeural"
   ],
   "visual_searches": {
     "2026-10-13": 6
