@@ -379,8 +379,13 @@
         }
       ],
       "sent_at": "2026-10-12T18:12:29.203270+00:00",
-      "selected": [],
-      "status": "waiting"
+      "selected": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "status": "closed"
     },
     "2026-10-12-2": {
       "topics": [
@@ -445,20 +450,6 @@
     }
   },
   "videos": {
-    "2026-10-04-2": {
-      "topic": {
-        "title": "Top 5 Places on Earth Where Technology Stops Working",
-        "angle": "A countdown of bizarre geographical anomalies where compasses spin, GPS fails, and electronics act completely wild.",
-        "format": "ranking",
-        "trend_source": "bill gates",
-        "virality_score": 9,
-        "why": "Combines tech curiosity with mystery, keeping average view duration extremely high as viewers wait for the #1 spot."
-      },
-      "status": "failed",
-      "by": "you",
-      "updated": "2026-10-04T17:01:11.582095+00:00",
-      "redos": 0
-    },
     "2026-10-04-4": {
       "topic": {
         "title": "3 Smartphone Camera Tricks You Didn't Know Existed",
@@ -9148,6 +9139,1413 @@
       },
       "uploaded_at": "2026-10-12T01:45:59.888835+00:00",
       "slot": "2026-10-13T01:15:00+00:00"
+    },
+    "2026-10-12-1": {
+      "topic": {
+        "title": "Top 5 Animals With Built-In Armor",
+        "angle": "The 9.2x 'Bulletproof Arapaima Monster Fish' and the 283.7x 'Secret Cooling Trick' outliers both withhold one surprising physical ability and pay it off on screen, and this countdown saves the piranha-proof fish for number one.",
+        "format": "ranking",
+        "tone": "normal",
+        "virality_score": 8,
+        "trend_source": "The Bulletproof Arapaima Monster Fish (Xfacto, 9.2x); The Last Runner Knew a Secret Cooling Trick (SnipeFlex, 283.7x)",
+        "plan_id": "P2026-10-12-01"
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-13T00:55:20.261398+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "armored animals",
+        "title": "Top 5 Animals With Built-In Armor",
+        "hook_text": "NATURE'S TANKS",
+        "thumbnail_text": "PIRANHA PROOF?",
+        "description": "Meet five armored animals, from the armadillo and pangolin to the arapaima, the Amazon fish piranhas can't bite through. Here are the top five animals with built-in armor, ranked.\n\nIn this Short: armadillos, pangolins, chitons, the iron-shelled scaly-foot snail and the piranha-proof arapaima.\n\nSources:\nhttps://jacobsschool.ucsd.edu/news/release/2876\nhttps://news.mit.edu/2010/snail-shell\nhttps://news.mit.edu/2015/sea-creature-armor-plating-transparent-ceramic-eyes-1119",
+        "hashtags": [
+          "#shorts",
+          "#animals",
+          "#animalfacts",
+          "#top5"
+        ],
+        "tags": [
+          "armored animals",
+          "armadillos animals with armor",
+          "top 5 animals",
+          "scaly-foot snail",
+          "arapaima scales",
+          "arapaima piranha",
+          "animals with armor",
+          "amazing armored animals",
+          "arapaima",
+          "piranha proof fish",
+          "three-banded armadillo",
+          "armoured animals",
+          "iron snail",
+          "animal facts",
+          "pangolin scales",
+          "chiton",
+          "pangolin"
+        ],
+        "pinned_comment": "Bonus fact: the scaly-foot snail even has iron-coated scales on its foot, not just its shell. Which animal surprised you most, the snail or the arapaima?",
+        "scenes": [
+          {
+            "text": "Before you meet the Amazon fish piranhas can't bite, you need to see the other four armored animals. Here are five animals that grow their own armor.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "arapaima underwater swimming",
+              "armored animal montage"
+            ],
+            "image_prompt": "Cinematic wide shot of a massive arapaima fish swimming through murky green freshwater of the Amazon river, showing textured armor-like scales, dramatic lighting, photorealistic nature documentary style.",
+            "stock_query": "arapaima underwater swimming"
+          },
+          {
+            "text": "Number five, the three-banded armadillo. It's one of only two armadillos that can roll into a complete ball.",
+            "badge": "#5",
+            "label": "Three-banded armadillo",
+            "stock_queries": [
+              "three banded armadillo walking",
+              "armadillo rolling into a ball"
+            ],
+            "image_prompt": "Close-up shot of a three-banded armadillo curling into a tight, perfect armored sphere on dry dusty soil, detailed shell plates, realistic wildlife photography.",
+            "stock_query": "three banded armadillo walking"
+          },
+          {
+            "text": "Number four, the pangolin. Its overlapping scales are made of keratin, the same stuff as your fingernails.",
+            "badge": "#4",
+            "label": "Pangolin",
+            "stock_queries": [
+              "pangolin walking grassland",
+              "pangolin scales close up"
+            ],
+            "image_prompt": "Macro detailed view of thick, overlapping keratin scales of a pangolin walking across dry savanna grass, warm sunset light highlighting scale texture, National Geographic style.",
+            "stock_query": "pangolin walking grassland"
+          },
+          {
+            "text": "Number three, the chiton. This sea mollusk has hundreds of tiny eyes built into its armor.",
+            "badge": "#3",
+            "label": "Chiton",
+            "stock_queries": [
+              "chiton mollusk tide pool rock",
+              "chiton shell macro"
+            ],
+            "image_prompt": "Macro high-detail photograph of a marine chiton clinging tightly to a wet coastal rock in a tide pool, showing interlocking shell valves with microscopic crystal eye structures.",
+            "stock_query": "chiton mollusk tide pool rock"
+          },
+          {
+            "text": "Number two, the scaly-foot snail. It lives by deep-sea vents, and its shell is coated in iron minerals.",
+            "badge": "#2",
+            "label": "Scaly-foot snail",
+            "stock_queries": [
+              "hydrothermal vent ocean floor",
+              "scaly foot snail deep sea"
+            ],
+            "image_prompt": "Deep-sea hydrothermal vent scene with dark mineral plumes, focusing on a scaly-foot snail with a metallic, black iron-sulfide coated shell resting on volcanic basalt rock, dramatic submersible lighting.",
+            "stock_query": "hydrothermal vent ocean floor"
+          },
+          {
+            "text": "Number one, the arapaima. This giant Amazon fish swims with piranhas, and their teeth can't get through its scales. A hard outer layer sits on a tough, bendy one underneath, so the bite never breaks through.",
+            "badge": "#1",
+            "label": "Arapaima",
+            "stock_queries": [
+              "arapaima river close up",
+              "piranha swimming teeth"
+            ],
+            "image_prompt": "Extreme close-up of the thick, iridescent armored scales of a giant arapaima underwater, with a sharp piranha visible blurred in the background, showing complex dual-layer composite scale texture.",
+            "stock_query": "arapaima river close up"
+          },
+          {
+            "text": "That's the fish piranhas can't bite, and engineers study it for armor. Which of these five would you want your phone case made from? Tell me, then meet that Amazon fish again.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "scientist inspecting material laboratory",
+              "arapaima turning camera"
+            ],
+            "image_prompt": "A modern materials laboratory table with bio-inspired flexible composite armor prototypes next to a heavy-duty rugged smartphone case, illuminated under clean studio lighting.",
+            "stock_query": "scientist inspecting material laboratory"
+          }
+        ],
+        "key_facts": [
+          "Arapaima scales resist piranha bites due to a hard mineralized outer layer over a flexible collagen-fiber inner layer.",
+          "The three-banded armadillo is one of only two armadillo species that can roll completely into a sealed ball.",
+          "Pangolin scales are composed of keratin, the same protein found in human fingernails.",
+          "Chitons possess shell plates embedded with hundreds of microscopic eyes made of aragonite mineral.",
+          "The scaly-foot snail inhabits hydrothermal vents and incorporates iron sulfides into its shell armor.",
+          "Engineers study arapaima scales to design lightweight, flexible bio-inspired body armor."
+        ],
+        "format": "ranking",
+        "tone": "normal",
+        "category": "27",
+        "script": "Before you meet the Amazon fish piranhas can't bite, you need to see the other four armored animals. Here are five animals that grow their own armor. Number five, the three-banded armadillo. It's one of only two armadillos that can roll into a complete ball. Number four, the pangolin. Its overlapping scales are made of keratin, the same stuff as your fingernails. Number three, the chiton. This sea mollusk has hundreds of tiny eyes built into its armor. Number two, the scaly-foot snail. It lives by deep-sea vents, and its shell is coated in iron minerals. Number one, the arapaima. This giant Amazon fish swims with piranhas, and their teeth can't get through its scales. A hard outer layer sits on a tough, bendy one underneath, so the bite never breaks through. That's the fish piranhas can't bite, and engineers study it for armor. Which of these five would you want your phone case made from? Tell me, then meet that Amazon fish again.",
+        "plan_id": "P2026-10-12-01",
+        "shot_plan": [
+          {
+            "subject": "arapaima fish swimming",
+            "queries": [
+              {
+                "q": "arapaima fish swimming",
+                "must": [
+                  "arapaima"
+                ]
+              },
+              {
+                "q": "amazon river fish",
+                "must": [
+                  "fish"
+                ]
+              },
+              {
+                "q": "giant river fish",
+                "must": [
+                  "river"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "three-banded armadillo rolling into ball",
+            "queries": [
+              {
+                "q": "three-banded armadillo rolling",
+                "must": [
+                  "armadillo"
+                ]
+              },
+              {
+                "q": "armadillo rolling ball",
+                "must": [
+                  "ball"
+                ]
+              },
+              {
+                "q": "armadillo animal",
+                "must": [
+                  "animal"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "pangolin scales close up",
+            "queries": [
+              {
+                "q": "pangolin scales",
+                "must": [
+                  "pangolin"
+                ]
+              },
+              {
+                "q": "pangolin animal",
+                "must": [
+                  "scales"
+                ]
+              },
+              {
+                "q": "wild pangolin",
+                "must": [
+                  "animal"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "chiton sea mollusk",
+            "queries": [
+              {
+                "q": "chiton sea mollusk",
+                "must": [
+                  "chiton"
+                ]
+              },
+              {
+                "q": "sea snail mollusk",
+                "must": [
+                  "mollusk"
+                ]
+              },
+              {
+                "q": "ocean creature shell",
+                "must": [
+                  "sea"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "scaly foot snail deep sea",
+            "queries": [
+              {
+                "q": "scaly foot snail",
+                "must": [
+                  "snail"
+                ]
+              },
+              {
+                "q": "deep sea hydrothermal vent",
+                "must": [
+                  "vent"
+                ]
+              },
+              {
+                "q": "hydrothermal snail shell",
+                "must": [
+                  "shell"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "arapaima fish scales close up",
+            "queries": [
+              {
+                "q": "arapaima fish scales",
+                "must": [
+                  "arapaima"
+                ]
+              },
+              {
+                "q": "amazon fish teeth",
+                "must": [
+                  "fish"
+                ]
+              },
+              {
+                "q": "piranha fish river",
+                "must": [
+                  "piranha"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "arapaima fish swimming in amazon",
+            "queries": [
+              {
+                "q": "arapaima swimming river",
+                "must": [
+                  "arapaima"
+                ]
+              },
+              {
+                "q": "amazon river monster",
+                "must": [
+                  "amazon"
+                ]
+              },
+              {
+                "q": "river fish swimming",
+                "must": [
+                  "fish"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "wildlife",
+          "animal",
+          "nature"
+        ],
+        "visual_style": "Fast-paced wildlife documentary short featuring fascinating animals with natural armor, close-ups, and dramatic countdowns.",
+        "visual_refs": [
+          "TOP 5 ANIMALS WITH NATURAL ARMOR \ud83d\udee1\ufe0f | NATURE\u2019S LIVING TANKS",
+          "5 Animals With the Strongest Armor",
+          "Top 5 Animals With Built-In Armor \ud83e\uddbe (You Won&#39;t Believe #1)",
+          "Top 5 Animals With Built-In Armor.#facts #animals #shorts  #wildlife #viralvideo",
+          "5 Animals With Armor-Like Skin You Won&#39;t Believe!",
+          "The Animal with Built-in Arctic Armor!| Top 5 Mind-Blowing Musk Ox Facts"
+        ],
+        "voice": "gTTS",
+        "visual_report": {
+          "shots": 9,
+          "checked": 9,
+          "unchecked": 0,
+          "filler": 2,
+          "ai": 0
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Google Text-to-Speech).",
+        "Stock footage/photos (Pexels/Pixabay Content License): NickyPe (Pixabay) https://pixabay.com/videos/id-118756/; BuchArena (Pixabay) https://pixabay.com/photos/armadillo-shell-armor-ball-grass-10493409/; BuchArena (Pixabay) https://pixabay.com/photos/armadillo-animal-defense-landscape-10493411/; MasaStojanovic (Pixabay) https://pixabay.com/photos/armadillo-nature-animals-8615359/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-1433/; happypixel19 (Pixabay) https://pixabay.com/photos/water-nature-lake-wildlife-pool-3303030/",
+        "Matt Knoth / Wikimedia Commons (CC BY 2.0) https://commons.wikimedia.org/wiki/File:Tonicella_lineata_1.jpg"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-12",
+        "name": "2026-10-12-1-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-12",
+        "name": "2026-10-12-1-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,150 --> 00:00:03,157\nBefore you meet the Amazon fish piranhas\n\n2\n00:00:03,157 --> 00:00:05,600\ncan't bite, you need to see the\n\n3\n00:00:05,600 --> 00:00:07,604\nother four armored animals.\n\n4\n00:00:07,604 --> 00:00:10,423\nHere are five animals that grow their\n\n5\n00:00:10,423 --> 00:00:11,237\nown armor.\n\n6\n00:00:11,237 --> 00:00:14,119\nNumber five, the three-banded armadillo.\n\n7\n00:00:14,119 --> 00:00:16,875\nIt's one of only two armadillos that\n\n8\n00:00:16,875 --> 00:00:19,193\ncan roll into a complete ball.\n\n9\n00:00:19,193 --> 00:00:21,134\nNumber four, the pangolin.\n\n10\n00:00:21,134 --> 00:00:24,329\nIts overlapping scales are made of keratin,\n\n11\n00:00:24,329 --> 00:00:26,960\nthe same stuff as your fingernails.\n\n12\n00:00:26,960 --> 00:00:28,839\nNumber three, the chiton.\n\n13\n00:00:28,839 --> 00:00:31,658\nThis sea mollusk has hundreds of tiny\n\n14\n00:00:31,658 --> 00:00:33,663\neyes built into its armor.\n\n15\n00:00:33,663 --> 00:00:36,105\nNumber two, the scaly-foot snail.\n\n16\n00:00:36,105 --> 00:00:38,799\nIt lives by deep-sea vents, and its\n\n17\n00:00:38,799 --> 00:00:41,305\nshell is coated in iron minerals.\n\n18\n00:00:41,305 --> 00:00:43,184\nNumber one, the arapaima.\n\n19\n00:00:43,184 --> 00:00:46,378\nThis giant Amazon fish swims with piranhas,\n\n20\n00:00:46,378 --> 00:00:49,197\nand their teeth can't get through its\n\n21\n00:00:49,197 --> 00:00:49,761\nscales.\n\n22\n00:00:49,761 --> 00:00:52,016\nA hard outer layer sits on a\n\n23\n00:00:52,016 --> 00:00:55,023\ntough, bendy one underneath, so the bite\n\n24\n00:00:55,023 --> 00:00:56,589\nnever breaks through.\n\n25\n00:00:56,589 --> 00:00:59,596\nThat's the fish piranhas can't bite, and\n\n26\n00:00:59,596 --> 00:01:01,788\nengineers study it for armor.\n\n27\n00:01:01,788 --> 00:01:04,419\nWhich of these five would you want\n\n28\n00:01:04,419 --> 00:01:06,423\nyour phone case made from?\n\n29\n00:01:06,423 --> 00:01:09,117\nTell me, then meet that Amazon fish\n\n30\n00:01:09,117 --> 00:01:09,968\nagain.\n",
+      "tg_msg": 311,
+      "opts_msg": 313
+    },
+    "2026-10-12-2": {
+      "topic": {
+        "title": "Top 5 Funniest Real Jobs From History \ud83d\ude02",
+        "angle": "Light, kind comedy keeps breaking out (the 22.8x mystery-box game and 10.9x 'Guess Who the Pro Is' both hide a surprising answer until the end), and the pea-shooting knocker-upper is a true payoff held for number one.",
+        "format": "funny",
+        "tone": "funny",
+        "virality_score": 8,
+        "trend_source": "Games kotak misteri kedelai (Mata Panda, 22.8x); Guess Who the Pro Is (ywddxwls, 10.9x)",
+        "plan_id": "P2026-10-12-02"
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-13T01:02:13.906743+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "funny jobs from history",
+        "title": "Top 5 Funniest Real Jobs From History \ud83d\ude02",
+        "hook_text": "WEIRDEST JOB EVER?",
+        "thumbnail_text": "PAID FOR THIS?",
+        "description": "Five funny jobs from history that sound fake but were real, from ice cutters and pinsetters to the knocker upper who woke people before alarm clocks. Which of these weird old jobs would you take?\n\nIn this Short: ice cutters, pinsetters, cigar factory lectors, swan uppers and the pea-shooting knocker-upper.\n\nSources:\nhttps://en.wikipedia.org/wiki/Mary_Smith_(knocker_upper)\nhttps://en.wikipedia.org/wiki/Pinsetter\nhttps://www.mentalfloss.com/article/71485/lectores-who-read-cubas-cigar-rollers",
+        "hashtags": [
+          "#shorts",
+          "#history",
+          "#funnyfacts",
+          "#jobs",
+          "#funny"
+        ],
+        "tags": [
+          "funny jobs from history",
+          "mary smith knocker upper",
+          "funny jobs",
+          "knocker upper",
+          "funny facts about history",
+          "weird old jobs",
+          "jobs that no longer exist",
+          "weird jobs",
+          "funny jobs in the world",
+          "funny things in history",
+          "weird jobs around the world",
+          "cigar factory reader",
+          "swan upping",
+          "ice cutting",
+          "history facts",
+          "ice harvesting",
+          "bowling pinsetter",
+          "lector",
+          "pinsetter"
+        ],
+        "pinned_comment": "Bonus fact: before automatic machines, pinsetters were often kids working the back of the lane. Which job would you pick: ice cutter, pinsetter, lector, swan upper or knocker-upper?",
+        "scenes": [
+          {
+            "text": "You'd never guess that before alarm clocks, someone got paid to shoot peas at your window.\nHere are five real jobs from history that sound made up.",
+            "badge": "Paid to ",
+            "label": "5 real jobs. Sound fake.",
+            "stock_queries": [
+              "old fashioned bedroom window dawn",
+              "vintage historical work photos"
+            ],
+            "image_prompt": "An old-fashioned bedroom window at dawn with curtains drawn, vintage style illustration.",
+            "stock_query": "old fashioned bedroom window dawn"
+          },
+          {
+            "text": "Number five, ice cutter.\nBefore fridges, crews sawed giant blocks of ice from frozen lakes to keep for summer.",
+            "badge": "#5 Ice c",
+            "label": "Saving winter for summer",
+            "stock_queries": [
+              "frozen lake snowy shoreline",
+              "workers sawing ice blocks historical"
+            ],
+            "image_prompt": "Workers sawing large ice blocks on a frozen lake, archival style historical photo.",
+            "stock_query": "frozen lake snowy shoreline"
+          },
+          {
+            "text": "Number four, pinsetter.\nBowling alleys paid kids to sit at the end of the lane and reset every pin by hand.\nDodging bowling balls came free.",
+            "badge": "#4 Pinse",
+            "label": "Dodgeball, but a job",
+            "stock_queries": [
+              "vintage bowling alley lane",
+              "bowling pins knocked down slow motion"
+            ],
+            "image_prompt": "A vintage bowling alley lane with wooden pins and bowling ball rolling toward them.",
+            "stock_query": "vintage bowling alley lane"
+          },
+          {
+            "text": "Number three, lector.\nIn cigar factories, workers paid someone to read newspapers and novels out loud while they rolled.\nA human audiobook.",
+            "badge": "#3 Lecto",
+            "label": "Human audiobook",
+            "stock_queries": [
+              "hand rolled cigars wooden table",
+              "person reading book aloud warm room"
+            ],
+            "image_prompt": "Rows of hand-rolled cigars on a wooden table in a traditional factory.",
+            "stock_query": "hand rolled cigars wooden table"
+          },
+          {
+            "text": "Number two, swan upper.\nEvery summer on England's River Thames, crews row along counting swans and shout \"All up!\"\nAnd yes, that still happens.",
+            "badge": "#2 Swan ",
+            "label": "Still happens today",
+            "stock_queries": [
+              "white swans gliding calm river",
+              "traditional wooden rowing boats river"
+            ],
+            "image_prompt": "White swans gliding on a calm river with traditional wooden rowing boats.",
+            "stock_query": "white swans gliding calm river"
+          },
+          {
+            "text": "Number one, knocker-upper.\nIn industrial Britain, they tapped on windows with long poles to wake people for work.\nOne London woman, Mary Smith, shot dried peas through a tube instead.",
+            "badge": "#1 Knock",
+            "label": "Mary Smith's pea shooter",
+            "stock_queries": [
+              "cobbled street old brick houses sunrise",
+              "wooden pole tapping window pane"
+            ],
+            "image_prompt": "A cobbled street of old brick terraced houses before sunrise with a long wooden pole.",
+            "stock_query": "cobbled street old brick houses sunrise"
+          },
+          {
+            "text": "Which of these five jobs would you actually sign up for?\nMe? I'd want the peas.",
+            "badge": "Which jo",
+            "label": "Team peas",
+            "stock_queries": [
+              "alarm clock dried peas",
+              "bedroom window dawn light"
+            ],
+            "image_prompt": "An alarm clock replaced by a handful of dried peas near a bedroom window at dawn.",
+            "stock_query": "alarm clock dried peas"
+          }
+        ],
+        "key_facts": [
+          "Ice cutters harvested giant blocks of ice from frozen lakes before refrigerators.",
+          "Pinsetters were people who manually reset bowling pins and dodged bowling balls.",
+          "Lectores read books and newspapers aloud to cigar rollers in factories.",
+          "Swan uppers count swans on England's River Thames and shout All up.",
+          "Knocker-uppers woke people up for work using long poles or pea shooters."
+        ],
+        "format": "funny",
+        "tone": "funny",
+        "category": "23",
+        "script": "You'd never guess that before alarm clocks, someone got paid to shoot peas at your window.\nHere are five real jobs from history that sound made up. Number five, ice cutter.\nBefore fridges, crews sawed giant blocks of ice from frozen lakes to keep for summer. Number four, pinsetter.\nBowling alleys paid kids to sit at the end of the lane and reset every pin by hand.\nDodging bowling balls came free. Number three, lector.\nIn cigar factories, workers paid someone to read newspapers and novels out loud while they rolled.\nA human audiobook. Number two, swan upper.\nEvery summer on England's River Thames, crews row along counting swans and shout \"All up!\"\nAnd yes, that still happens. Number one, knocker-upper.\nIn industrial Britain, they tapped on windows with long poles to wake people for work.\nOne London woman, Mary Smith, shot dried peas through a tube instead. Which of these five jobs would you actually sign up for?\nMe? I'd want the peas.",
+        "plan_id": "P2026-10-12-02",
+        "shot_plan": [
+          {
+            "subject": "alarm clock and green peas on a windowsill",
+            "queries": [
+              {
+                "q": "alarm clock",
+                "must": [
+                  "clock"
+                ]
+              },
+              {
+                "q": "green peas",
+                "must": [
+                  "peas"
+                ]
+              },
+              {
+                "q": "window sill",
+                "must": [
+                  "window"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "frozen lake ice block cutting",
+            "queries": [
+              {
+                "q": "ice cutter",
+                "must": [
+                  "ice"
+                ]
+              },
+              {
+                "q": "frozen lake",
+                "must": [
+                  "lake"
+                ]
+              },
+              {
+                "q": "winter snow",
+                "must": [
+                  "snow"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "bowling alley pinsetter",
+            "queries": [
+              {
+                "q": "bowling pins",
+                "must": [
+                  "bowling"
+                ]
+              },
+              {
+                "q": "bowling ball",
+                "must": [
+                  "ball"
+                ]
+              },
+              {
+                "q": "bowling alley",
+                "must": [
+                  "alley"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "person reading newspaper in factory",
+            "queries": [
+              {
+                "q": "reading newspaper",
+                "must": [
+                  "newspaper"
+                ]
+              },
+              {
+                "q": "factory worker",
+                "must": [
+                  "factory"
+                ]
+              },
+              {
+                "q": "cigar factory",
+                "must": [
+                  "cigar"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "swans swimming on river thames",
+            "queries": [
+              {
+                "q": "swans river",
+                "must": [
+                  "swan"
+                ]
+              },
+              {
+                "q": "rowing boat",
+                "must": [
+                  "boat"
+                ]
+              },
+              {
+                "q": "river thames",
+                "must": [
+                  "river"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "woman shooting peas with tube at window",
+            "queries": [
+              {
+                "q": "pea shooter",
+                "must": [
+                  "tube"
+                ]
+              },
+              {
+                "q": "window tapping",
+                "must": [
+                  "window"
+                ]
+              },
+              {
+                "q": "historic london",
+                "must": [
+                  "historic"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "person pointing at green peas",
+            "queries": [
+              {
+                "q": "green peas",
+                "must": [
+                  "peas"
+                ]
+              },
+              {
+                "q": "healthy food",
+                "must": [
+                  "food"
+                ]
+              },
+              {
+                "q": "pointing finger",
+                "must": [
+                  "finger"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "history",
+          "antique",
+          "vintage"
+        ],
+        "visual_style": "Engaging historical curiosity with funny, literal stock footage close-ups of bizarre jobs and everyday objects.",
+        "visual_refs": [
+          "guardian angels (or anxiety?) make killing so spicy \ud83d\ude25",
+          "This was the moment Gunther realized he&#39;s in the ring with THE Goldberg.\ud83d\ude24",
+          "5 Facts You DIDN&#39;T Know About Your Cat - Puss in Boots: The Last Wish",
+          "kindergarteners GO crazy \ud83e\udd2a Leo is now streaming on Netflix!",
+          "What Is Laughter? \ud83d\ude02",
+          "Chasing Illumination\u2019s new guy \ud83e\udd86 #MigrationMovie #Minions #Illumination #Shorts"
+        ],
+        "voice": "gTTS",
+        "visual_report": {
+          "shots": 7,
+          "checked": 5,
+          "unchecked": 0,
+          "filler": 5,
+          "ai": 0
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Google Text-to-Speech).",
+        "Benjamin J. DeLong / Wikimedia Commons (CC BY 2.0) https://commons.wikimedia.org/wiki/File:5-pin_bowling_pins_(4177654894).jpg",
+        "The Library of Congress / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:Havana_--_Cigar_factory_LOC_15556540835.jpg"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-12",
+        "name": "2026-10-12-2-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-12",
+        "name": "2026-10-12-2-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,150 --> 00:00:03,537\nYou'd never guess that before alarm clocks,\n\n2\n00:00:03,537 --> 00:00:06,261\nsomeone got paid to shoot peas at\n\n3\n00:00:06,261 --> 00:00:07,257\nyour window.\n\n4\n00:00:07,257 --> 00:00:10,180\nHere are five real jobs from history\n\n5\n00:00:10,180 --> 00:00:11,774\nthat sound made up.\n\n6\n00:00:11,774 --> 00:00:13,700\nNumber five, ice cutter.\n\n7\n00:00:13,700 --> 00:00:17,087\nBefore fridges, crews sawed giant blocks of\n\n8\n00:00:17,087 --> 00:00:19,811\nice from frozen lakes to keep for\n\n9\n00:00:19,811 --> 00:00:20,408\nsummer.\n\n10\n00:00:20,408 --> 00:00:22,202\nNumber four, pinsetter.\n\n11\n00:00:22,202 --> 00:00:24,991\nBowling alleys paid kids to sit at\n\n12\n00:00:24,991 --> 00:00:27,449\nthe end of the lane and reset\n\n13\n00:00:27,449 --> 00:00:28,977\nevery pin by hand.\n\n14\n00:00:28,977 --> 00:00:31,501\nDodging bowling balls came free.\n\n15\n00:00:31,501 --> 00:00:33,161\nNumber three, lector.\n\n16\n00:00:33,161 --> 00:00:36,549\nIn cigar factories, workers paid someone to\n\n17\n00:00:36,549 --> 00:00:39,803\nread newspapers and novels out loud while\n\n18\n00:00:39,803 --> 00:00:40,800\nthey rolled.\n\n19\n00:00:40,800 --> 00:00:42,261\nA human audiobook.\n\n20\n00:00:42,261 --> 00:00:44,121\nNumber two, swan upper.\n\n21\n00:00:44,121 --> 00:00:47,641\nEvery summer on England's River Thames, crews\n\n22\n00:00:47,641 --> 00:00:50,763\nrow along counting swans and shout \"All\n\n23\n00:00:50,763 --> 00:00:53,420\nup!\" And yes, that still happens.\n\n24\n00:00:53,420 --> 00:00:55,412\nNumber one, knocker-upper.\n\n25\n00:00:55,412 --> 00:00:58,932\nIn industrial Britain, they tapped on windows\n\n26\n00:00:58,932 --> 00:01:01,722\nwith long poles to wake people for\n\n27\n00:01:01,722 --> 00:01:02,187\nwork.\n\n28\n00:01:02,187 --> 00:01:05,375\nOne London woman, Mary Smith, shot dried\n\n29\n00:01:05,375 --> 00:01:07,634\npeas through a tube instead.\n\n30\n00:01:07,634 --> 00:01:10,423\nWhich of these five jobs would you\n\n31\n00:01:10,423 --> 00:01:12,150\nactually sign up for?\n\n32\n00:01:12,150 --> 00:01:12,482\nMe?\n\n33\n00:01:12,482 --> 00:01:14,364\nI'd want the peas.\n",
+      "tg_msg": 314,
+      "opts_msg": 316
+    },
+    "2026-10-12-3": {
+      "topic": {
+        "title": "Quick Weather Quiz: 2 Fakes, 1 Real",
+        "angle": "Guessing games are breaking out (10.9x 'Guess Who the Pro Is', 22.8x mystery-box game), and a three-second real-or-fake call gives viewers the same play-along reason to stay to the answer.",
+        "format": "quiz",
+        "tone": "normal",
+        "virality_score": 7,
+        "trend_source": "Guess Who the Pro Is (ywddxwls, 10.9x); Games kotak misteri kedelai (Mata Panda, 22.8x)",
+        "plan_id": "P2026-10-12-03"
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-13T01:07:09.482065+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "weather quiz",
+        "title": "Quick Weather Quiz: 2 Fakes, 1 Real",
+        "hook_text": "3 SECONDS EACH",
+        "thumbnail_text": "3-SECOND TEST",
+        "description": "Can you beat this weather quiz? Three real or fake weather facts, including does lightning strike the same place twice and is it ever too cold to snow.\n\nIn this Short: a three-question real or fake quiz on lightning, the sun and snow.\n\nSources:\nhttps://www.weather.gov/safety/lightning-myths\nhttps://www.weather.gov/safety/lightning-temperature\nhttps://www.popsci.com/can-it-be-too-cold-to-snow/",
+        "hashtags": [
+          "#shorts",
+          "#quiz",
+          "#weather",
+          "#science"
+        ],
+        "tags": [
+          "weather quiz",
+          "does lightning strike the same place twice",
+          "lightning doesn't strike the same place twice",
+          "lightning striking the same place twice",
+          "real or fake",
+          "weather facts",
+          "too cold to snow",
+          "lightning hotter than the sun",
+          "empire state building lightning",
+          "weather quiz game",
+          "cool weather facts",
+          "extreme weather quiz",
+          "extreme weather facts",
+          "interesting weather facts",
+          "quick quizzes",
+          "weather quizzes",
+          "snow facts",
+          "science quiz",
+          "weather myths",
+          "lightning facts"
+        ],
+        "pinned_comment": "Bonus fact: you can often hear thunder from about ten miles away. Which one fooled you: the lightning myth, the sun fact, or the snow one?",
+        "scenes": [
+          {
+            "text": "Why do you believe lightning never strikes the same place twice? Real or fake? Three weather facts, three seconds each. Call it before I do.",
+            "badge": "Q1",
+            "label": "Real or fake?",
+            "stock_queries": [
+              "lightning bolt city skyline night",
+              "countdown timer stormy clouds"
+            ],
+            "image_prompt": "Cinematic shot of a bright lightning bolt striking a dark city skyline during a thunderstorm",
+            "stock_query": "lightning bolt city skyline night"
+          },
+          {
+            "text": "Fact one, lightning never strikes the same place twice. Three, two, one.",
+            "badge": "Q1",
+            "label": "Fact 1: Never strikes twice?",
+            "stock_queries": [
+              "lightning striking tower",
+              "ticking stopwatch close up"
+            ],
+            "image_prompt": "Close up of a ticking stopwatch with dark stormy clouds blurred in the background",
+            "stock_query": "lightning striking tower"
+          },
+          {
+            "text": "Fake! Tall, pointy things get hit again and again. The Empire State Building gets struck about twenty-three times a year.",
+            "badge": "\u2713",
+            "label": "FAKE",
+            "stock_queries": [
+              "lightning hitting antenna slow motion",
+              "empire state building stormy sky"
+            ],
+            "image_prompt": "Dramatic slow motion footage of lightning repeatedly striking the tip of a tall skyscraper",
+            "stock_query": "lightning hitting antenna slow motion"
+          },
+          {
+            "text": "Fact two, lightning is hotter than the surface of the sun. Three, two, one.",
+            "badge": "Q2",
+            "label": "Fact 2: Hotter than the sun?",
+            "stock_queries": [
+              "lightning bolt sun comparison",
+              "ticking stopwatch"
+            ],
+            "image_prompt": "Bright lightning flash side by side with a glowing graphic of the sun in deep space",
+            "stock_query": "lightning bolt sun comparison"
+          },
+          {
+            "text": "Real! A bolt can heat the air to about fifty thousand degrees Fahrenheit. That's around five times hotter than the sun's surface.",
+            "badge": "\u2713",
+            "label": "REAL: 50,000 F",
+            "stock_queries": [
+              "sun surface plasma glow",
+              "lightning flash slow motion"
+            ],
+            "image_prompt": "Intense plasma activity on the sun's surface transitioning into a blinding lightning flash",
+            "stock_query": "sun surface plasma glow"
+          },
+          {
+            "text": "Fact three, it can be too cold to snow. Three, two, one.",
+            "badge": "Q3",
+            "label": "Fact 3: Too cold to snow?",
+            "stock_queries": [
+              "light snow falling frozen landscape",
+              "ticking stopwatch"
+            ],
+            "image_prompt": "Gentle snow falling over a cold and frozen winter landscape with a ticking timer overlay",
+            "stock_query": "light snow falling frozen landscape"
+          },
+          {
+            "text": "Fake! It can snow when it's bitterly cold, but cold air holds less water, so you get less snow.",
+            "badge": "\u2713",
+            "label": "FAKE: drier air",
+            "stock_queries": [
+              "dry snow blowing frozen ground",
+              "cold winter snowstorm"
+            ],
+            "image_prompt": "Fine dry snow blowing across a frozen, icy ground under an overcast winter sky",
+            "stock_query": "dry snow blowing frozen ground"
+          },
+          {
+            "text": "So there's your answer key: two fakes and one real. How many did you get right, zero, one, two or three? And if you missed fact one, ask yourself again.",
+            "badge": "SCORE",
+            "label": "Your score?",
+            "stock_queries": [
+              "scoreboard graphic storm clouds",
+              "person thinking notepad"
+            ],
+            "image_prompt": "A scoreboard graphic floating over stormy clouds with question marks and text",
+            "stock_query": "scoreboard graphic storm clouds"
+          }
+        ],
+        "key_facts": [
+          "The Empire State Building gets struck by lightning about twenty-three times a year.",
+          "Lightning can heat the air to about fifty thousand degrees Fahrenheit, which is around five times hotter than the sun's surface.",
+          "It cannot literally be too cold to snow, but very cold air holds less moisture so snowfall amounts are lower."
+        ],
+        "format": "quiz",
+        "tone": "normal",
+        "category": "24",
+        "script": "Why do you believe lightning never strikes the same place twice? Real or fake? Three weather facts, three seconds each. Call it before I do. Fact one, lightning never strikes the same place twice. Three, two, one. Fake! Tall, pointy things get hit again and again. The Empire State Building gets struck about twenty-three times a year. Fact two, lightning is hotter than the surface of the sun. Three, two, one. Real! A bolt can heat the air to about fifty thousand degrees Fahrenheit. That's around five times hotter than the sun's surface. Fact three, it can be too cold to snow. Three, two, one. Fake! It can snow when it's bitterly cold, but cold air holds less water, so you get less snow. So there's your answer key: two fakes and one real. How many did you get right, zero, one, two or three? And if you missed fact one, ask yourself again.",
+        "plan_id": "P2026-10-12-03",
+        "shot_plan": [
+          {
+            "subject": "lightning strike",
+            "queries": [
+              {
+                "q": "lightning strike storm",
+                "must": [
+                  "lightning"
+                ]
+              },
+              {
+                "q": "bolt of lightning",
+                "must": [
+                  "lightning"
+                ]
+              },
+              {
+                "q": "thunderstorm sky",
+                "must": [
+                  "storm"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "lightning strike",
+            "queries": [
+              {
+                "q": "lightning strike ground",
+                "must": [
+                  "lightning"
+                ]
+              },
+              {
+                "q": "lightning flash",
+                "must": [
+                  "lightning"
+                ]
+              },
+              {
+                "q": "storm lightning",
+                "must": [
+                  "storm"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "skyscraper lightning",
+            "queries": [
+              {
+                "q": "skyscraper lightning strike",
+                "must": [
+                  "skyscraper"
+                ]
+              },
+              {
+                "q": "tall building lightning",
+                "must": [
+                  "building"
+                ]
+              },
+              {
+                "q": "city lightning storm",
+                "must": [
+                  "city"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "sun surface flare",
+            "queries": [
+              {
+                "q": "sun surface flare",
+                "must": [
+                  "sun"
+                ]
+              },
+              {
+                "q": "solar flare space",
+                "must": [
+                  "solar"
+                ]
+              },
+              {
+                "q": "star surface",
+                "must": [
+                  "star"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "sun flare close up",
+            "queries": [
+              {
+                "q": "sun surface close up",
+                "must": [
+                  "sun"
+                ]
+              },
+              {
+                "q": "solar explosion",
+                "must": [
+                  "solar"
+                ]
+              },
+              {
+                "q": "fiery sun",
+                "must": [
+                  "sun"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "heavy snowfall",
+            "queries": [
+              {
+                "q": "heavy snowfall winter",
+                "must": [
+                  "snow"
+                ]
+              },
+              {
+                "q": "snowstorm weather",
+                "must": [
+                  "snowstorm"
+                ]
+              },
+              {
+                "q": "falling snow",
+                "must": [
+                  "snow"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "cold winter snow",
+            "queries": [
+              {
+                "q": "cold winter landscape",
+                "must": [
+                  "winter"
+                ]
+              },
+              {
+                "q": "snowy weather",
+                "must": [
+                  "snow"
+                ]
+              },
+              {
+                "q": "frosty winter",
+                "must": [
+                  "frost"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "question mark sign",
+            "queries": [
+              {
+                "q": "question mark sign",
+                "must": [
+                  "question"
+                ]
+              },
+              {
+                "q": "quiz question symbol",
+                "must": [
+                  "quiz"
+                ]
+              },
+              {
+                "q": "thinking person",
+                "must": [
+                  "thinking"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "lightning bolt",
+          "sun surface",
+          "snowfall"
+        ],
+        "visual_style": "Engaging real-or-fake quiz videos featuring fast-paced trivia, bold on-screen labels, and clear close-up subjects.",
+        "visual_refs": [
+          "Let\u2019s Play REAL or CAKE?",
+          "2-Year-Old vs. Country Flags Quiz @GrowingGenius-Riley",
+          "This is not just a quiz\u2026 it\u2019s a mind game! \ud83c\udfad\ud83e\udde0 #shorts",
+          "Sometimes the \ud83e\ude78 just hits harder in the afternoon! #periods #womanhood #girlproblems",
+          "How to Tell If a Diamond is REAL or FAKE using the DOT TEST",
+          "\ud83d\udc5b Seriously, my fave tip 4 wearing cute outfits on my period #menstruation #periodtips"
+        ],
+        "voice": "gTTS",
+        "visual_report": {
+          "shots": 16,
+          "checked": 16,
+          "unchecked": 0,
+          "filler": 0,
+          "ai": 0
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Google Text-to-Speech).",
+        "Stock footage/photos (Pexels/Pixabay Content License): Mohamed_hassan (Pixabay) https://pixabay.com/videos/id-198748/; Relaxing_Guru (Pixabay) https://pixabay.com/videos/id-31342/; Luis_Humanoide (Pixabay) https://pixabay.com/videos/id-28067/; adege (Pixabay) https://pixabay.com/videos/id-125192/; Kang_Saif (Pixabay) https://pixabay.com/videos/id-174163/; Placidplace (Pixabay) https://pixabay.com/videos/id-118586/; Placidplace (Pixabay) https://pixabay.com/videos/id-154200/; eikira (Pixabay) https://pixabay.com/videos/id-2172/; UniverseUnique (Pixabay) https://pixabay.com/videos/id-188306/; UniverseUnique (Pixabay) https://pixabay.com/videos/id-191253/; iwsky (Pixabay) https://pixabay.com/videos/id-273068/; iwsky (Pixabay) https://pixabay.com/videos/id-273062/; Kanenori (Pixabay) https://pixabay.com/videos/id-266009/; NickyPe (Pixabay) https://pixabay.com/videos/id-139777/; invisiblepower (Pixabay) https://pixabay.com/videos/id-7328/; BeezeeStock (Pixabay) https://pixabay.com/videos/id-241200/"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-12",
+        "name": "2026-10-12-3-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-12",
+        "name": "2026-10-12-3-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,150 --> 00:00:03,539\nWhy do you believe lightning never strikes\n\n2\n00:00:03,539 --> 00:00:05,301\nthe same place twice?\n\n3\n00:00:05,301 --> 00:00:06,453\nReal or fake?\n\n4\n00:00:06,453 --> 00:00:09,638\nThree weather facts, three seconds each.\n\n5\n00:00:09,638 --> 00:00:11,400\nCall it before I do.\n\n6\n00:00:11,400 --> 00:00:14,789\nFact one, lightning never strikes the same\n\n7\n00:00:14,789 --> 00:00:15,805\nplace twice.\n\n8\n00:00:15,805 --> 00:00:17,161\nThree, two, one.\n\n9\n00:00:17,161 --> 00:00:17,635\nFake!\n\n10\n00:00:17,635 --> 00:00:20,685\nTall, pointy things get hit again and\n\n11\n00:00:20,685 --> 00:00:21,227\nagain.\n\n12\n00:00:21,227 --> 00:00:24,684\nThe Empire State Building gets struck about\n\n13\n00:00:24,684 --> 00:00:26,785\ntwenty-three times a year.\n\n14\n00:00:26,785 --> 00:00:29,902\nFact two, lightning is hotter than the\n\n15\n00:00:29,902 --> 00:00:31,529\nsurface of the sun.\n\n16\n00:00:31,529 --> 00:00:32,884\nThree, two, one.\n\n17\n00:00:32,884 --> 00:00:33,359\nReal!\n\n18\n00:00:33,359 --> 00:00:35,663\nA bolt can heat the air to\n\n19\n00:00:35,663 --> 00:00:38,780\nabout fifty thousand degrees Fahrenheit.\n\n20\n00:00:38,780 --> 00:00:42,033\nThat's around five times hotter than the\n\n21\n00:00:42,033 --> 00:00:43,186\nsun's surface.\n\n22\n00:00:43,186 --> 00:00:45,761\nFact three, it can be too cold\n\n23\n00:00:45,761 --> 00:00:46,506\nto snow.\n\n24\n00:00:46,506 --> 00:00:47,862\nThree, two, one.\n\n25\n00:00:47,862 --> 00:00:48,336\nFake!\n\n26\n00:00:48,336 --> 00:00:51,318\nIt can snow when it's bitterly cold,\n\n27\n00:00:51,318 --> 00:00:54,097\nbut cold air holds less water, so\n\n28\n00:00:54,097 --> 00:00:55,656\nyou get less snow.\n\n29\n00:00:55,656 --> 00:00:58,705\nSo there's your answer key: two fakes\n\n30\n00:00:58,705 --> 00:00:59,858\nand one real.\n\n31\n00:00:59,858 --> 00:01:02,636\nHow many did you get right, zero,\n\n32\n00:01:02,636 --> 00:01:04,195\none, two or three?\n\n33\n00:01:04,195 --> 00:01:06,838\nAnd if you missed fact one, ask\n\n34\n00:01:06,838 --> 00:01:08,404\nyourself again.\n",
+      "tg_msg": 317,
+      "opts_msg": 319
+    },
+    "2026-10-12-4": {
+      "topic": {
+        "title": "The Eiffel Tower Had a 20-Year Expiry Date",
+        "angle": "The 10.0x 'This is How Polyester Buttons are Made' and 283.7x 'Secret Cooling Trick' outliers both reveal the hidden reason behind something familiar, and this true story reveals the hidden job that saved the Eiffel Tower.",
+        "format": "story",
+        "tone": "normal",
+        "virality_score": 7,
+        "trend_source": "This is How Polyester Buttons are Made (Abhishek Ashra, 10.0x); The Last Runner Knew a Secret Cooling Trick (SnipeFlex, 283.7x)",
+        "plan_id": "P2026-10-12-04"
+      },
+      "status": "failed",
+      "by": "auto",
+      "updated": "2026-10-13T01:12:34.405253+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "eiffel tower history",
+        "title": "Why the Eiffel Tower Almost Got Demolished",
+        "hook_text": "BUILT TO DISAPPEAR?",
+        "thumbnail_text": "SAVED BY RADIO",
+        "description": "Why is the Eiffel Tower still standing? It was almost taken down after a 20-year deal ran out, and the Eiffel Tower radio experiments are what saved it.\n\nIn this Short: the tower's 1889 opening, its 20-year land deal, and how radio tests turned it into an antenna Paris wanted to keep.\n\nThis is a true story.\n\nSources:\nhttps://www.toureiffel.paris/en/news/130-years/how-did-radio-save-tower\nhttps://www.history.com/articles/eiffel-tower-survival\nhttps://www.toureiffel.paris/en/the-monument/eiffel-tower-and-science",
+        "hashtags": [
+          "#shorts",
+          "#history",
+          "#eiffeltower",
+          "#paris",
+          "#storytime"
+        ],
+        "tags": [
+          "eiffel tower history",
+          "eiffel tower",
+          "eiffel tower radio",
+          "why is the eiffel tower still standing",
+          "eiffel tower building history",
+          "eiffel tower almost demolished",
+          "eiffel tower being built",
+          "how high is the eiffel tower",
+          "1889 worlds fair",
+          "eiffel tower antenna",
+          "paris history",
+          "gustave eiffel",
+          "exposition universelle"
+        ],
+        "pinned_comment": "Bonus fact: the very first radio contact from the tower, in eighteen ninety-eight, reached the Pantheon about four kilometers away. What other landmark do you think has a secret second job?",
+        "scenes": [
+          {
+            "text": "Before you visit Paris, you should know the Eiffel Tower had an expiry date. Here's how it almost came down, and what saved it.",
+            "badge": "It had a",
+            "label": "It had an expiry date",
+            "stock_queries": [
+              "Eiffel Tower at golden hour",
+              "slow tilt up Eiffel Tower iron lattice"
+            ],
+            "image_prompt": "Cinematic shot of the Eiffel Tower at golden hour from the Champ de Mars, slow tilt up the iron lattice.",
+            "stock_query": "Eiffel Tower at golden hour"
+          },
+          {
+            "text": "The tower opened for the World's Fair in eighteen eighty-nine. But Gustave Eiffel's deal only let him use the land for twenty years. After that, Paris could take it down.",
+            "badge": "Opened: ",
+            "label": "Opened: 1889",
+            "stock_queries": [
+              "vintage postcard Eiffel Tower fairgrounds",
+              "old paper contract calendar page"
+            ],
+            "image_prompt": "Vintage photo style shot of the Eiffel Tower with old fairgrounds and an old paper contract.",
+            "stock_query": "vintage postcard Eiffel Tower fairgrounds"
+          },
+          {
+            "text": "So Eiffel needed a reason to keep it. His answer? Science. He backed weather and air resistance experiments up there.",
+            "badge": "Science!",
+            "label": "Science!",
+            "stock_queries": [
+              "close up old scientific instruments",
+              "weather vane spinning wind gauge"
+            ],
+            "image_prompt": "Close-up of old scientific instruments with a weather vane spinning in the wind.",
+            "stock_query": "close up old scientific instruments"
+          },
+          {
+            "text": "Then in eighteen ninety-eight, a Morse code radio message was sent from the tower across Paris. Suddenly, the city's tallest structure looked like the perfect giant antenna.",
+            "badge": "1898: ra",
+            "label": "1898: radio message",
+            "stock_queries": [
+              "old telegraph key tapping Morse code",
+              "radio antenna wires against sky"
+            ],
+            "image_prompt": "Old telegraph key tapping Morse code with radio antenna wires against the sky at the tower's top.",
+            "stock_query": "old telegraph key tapping Morse code"
+          },
+          {
+            "text": "Army radio tests from the top reached farther and farther. By nineteen-oh-nine, a permanent radio station sat right beneath it.",
+            "badge": "Signals ",
+            "label": "Signals went farther",
+            "stock_queries": [
+              "radio waves graphic over map",
+              "old radio equipment vintage room"
+            ],
+            "image_prompt": "Radio waves graphic spreading over a map of Paris with old radio equipment in a vintage room.",
+            "stock_query": "radio waves graphic over map"
+          },
+          {
+            "text": "So in nineteen-ten, Eiffel's deal was extended by seventy years. That's how the tower beat its expiry date: it became an antenna.",
+            "badge": "1910: +7",
+            "label": "1910: +70 years",
+            "stock_queries": [
+              "calendar pages flipping forward",
+              "Eiffel Tower lit up at night"
+            ],
+            "image_prompt": "Calendar pages flipping forward through decades with the Eiffel Tower lit up at night.",
+            "stock_query": "calendar pages flipping forward"
+          },
+          {
+            "text": "Did you know the Eiffel Tower almost came down, yes or no? If you said no, here's your reminder.",
+            "badge": "Your rem",
+            "label": "Your reminder",
+            "stock_queries": [
+              "tourists walking toward tower",
+              "Eiffel Tower golden hour"
+            ],
+            "image_prompt": "Tourists walking toward the tower, shot from behind at golden hour.",
+            "stock_query": "tourists walking toward tower"
+          }
+        ],
+        "key_facts": [
+          "The Eiffel Tower opened for the World's Fair in 1889.",
+          "Gustave Eiffel's deal only let him use the land for 20 years before Paris could take it down.",
+          "Eiffel used scientific experiments, weather tests, and air resistance studies to justify keeping the tower.",
+          "In 1898, a Morse code radio message was sent from the tower across Paris.",
+          "Army radio tests from the top reached farther and farther, turning the tower into a giant antenna.",
+          "By 1909, a permanent radio station sat beneath the tower.",
+          "In 1910, Eiffel's deal was extended by 70 years because of its utility as a radio antenna."
+        ],
+        "format": "story",
+        "tone": "normal",
+        "category": "24",
+        "script": "Before you visit Paris, you should know the Eiffel Tower had an expiry date. Here's how it almost came down, and what saved it. The tower opened for the World's Fair in eighteen eighty-nine. But Gustave Eiffel's deal only let him use the land for twenty years. After that, Paris could take it down. So Eiffel needed a reason to keep it. His answer? Science. He backed weather and air resistance experiments up there. Then in eighteen ninety-eight, a Morse code radio message was sent from the tower across Paris. Suddenly, the city's tallest structure looked like the perfect giant antenna. Army radio tests from the top reached farther and farther. By nineteen-oh-nine, a permanent radio station sat right beneath it. So in nineteen-ten, Eiffel's deal was extended by seventy years. That's how the tower beat its expiry date: it became an antenna. Did you know the Eiffel Tower almost came down, yes or no? If you said no, here's your reminder.",
+        "plan_id": "P2026-10-12-04",
+        "shot_plan": [
+          {
+            "subject": "eiffel tower",
+            "queries": [
+              {
+                "q": "eiffel tower paris",
+                "must": [
+                  "tower"
+                ]
+              },
+              {
+                "q": "paris landmark",
+                "must": [
+                  "landmark"
+                ]
+              },
+              {
+                "q": "famous tower",
+                "must": [
+                  "tower"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "vintage world fair architecture",
+            "queries": [
+              {
+                "q": "world fair building",
+                "must": [
+                  "building"
+                ]
+              },
+              {
+                "q": "historical exhibition",
+                "must": [
+                  "exhibition"
+                ]
+              },
+              {
+                "q": "vintage architecture",
+                "must": [
+                  "architecture"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "scientific instruments and laboratory",
+            "queries": [
+              {
+                "q": "scientific experiment",
+                "must": [
+                  "experiment"
+                ]
+              },
+              {
+                "q": "weather instruments",
+                "must": [
+                  "weather"
+                ]
+              },
+              {
+                "q": "laboratory equipment",
+                "must": [
+                  "laboratory"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "vintage radio transmitter and antenna",
+            "queries": [
+              {
+                "q": "radio antenna",
+                "must": [
+                  "antenna"
+                ]
+              },
+              {
+                "q": "morse code telegraph",
+                "must": [
+                  "telegraph"
+                ]
+              },
+              {
+                "q": "vintage radio",
+                "must": [
+                  "radio"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "radio station equipment",
+            "queries": [
+              {
+                "q": "radio station",
+                "must": [
+                  "station"
+                ]
+              },
+              {
+                "q": "broadcast equipment",
+                "must": [
+                  "broadcast"
+                ]
+              },
+              {
+                "q": "communication tower",
+                "must": [
+                  "communication"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "radio tower transmitter",
+            "queries": [
+              {
+                "q": "tall antenna",
+                "must": [
+                  "antenna"
+                ]
+              },
+              {
+                "q": "radio transmitter",
+                "must": [
+                  "transmitter"
+                ]
+              },
+              {
+                "q": "metal structure",
+                "must": [
+                  "structure"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "eiffel tower daytime view",
+            "queries": [
+              {
+                "q": "eiffel tower paris",
+                "must": [
+                  "tower"
+                ]
+              },
+              {
+                "q": "paris france",
+                "must": [
+                  "paris"
+                ]
+              },
+              {
+                "q": "landmark architecture",
+                "must": [
+                  "architecture"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "eiffel tower",
+          "paris street",
+          "vintage radio"
+        ],
+        "visual_style": "Cinematic historical footage and close-ups of the Eiffel Tower, vintage Parisian streetscapes, and early radio technology.",
+        "visual_refs": [
+          "The Eiffel Tower Had a 20-Year Expiration Date",
+          "The Eiffel Tower was supposed to be demolished in 20 Years",
+          "The Eiffel Tower Was Built With an Expiration Date \ud83d\uddfc\u23f3",
+          "The Eiffel Tower Was Built to Be Destroyed",
+          "The Eiffel Tower was supposed to be destroyed! \ud83d\ude31",
+          "The Eiffel Tower Was Almost Torn Down"
+        ],
+        "voice": "gTTS",
+        "visual_report": {
+          "shots": 16,
+          "checked": 16,
+          "unchecked": 0,
+          "filler": 0,
+          "ai": 0
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Google Text-to-Speech).",
+        "Stock footage/photos (Pexels/Pixabay Content License): yxlab (Pixabay) https://pixabay.com/videos/id-213812/; Alexandra_Koch (Pixabay) https://pixabay.com/videos/id-213745/; TatianaTz (Pixabay) https://pixabay.com/videos/id-225025/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-376592/; UniverseUnique (Pixabay) https://pixabay.com/videos/id-226198/; flutie8211 (Pixabay) https://pixabay.com/videos/id-372553/; InspiredImages (Pixabay) https://pixabay.com/videos/id-3013/; Sertmidia (Pixabay) https://pixabay.com/videos/id-171435/; TatianaTz (Pixabay) https://pixabay.com/videos/id-248701/; TatianaTz (Pixabay) https://pixabay.com/videos/id-269992/; TatianaTz (Pixabay) https://pixabay.com/videos/id-300040/",
+        "Aussie~mobs / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:Administration_Building_-_Chicago%27s_World_Fair_1893.jpg",
+        "William Henry Jackson / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:View_North_West_from_Manufacturers_Building,_William_Henry_Jackson,_1893.jpg",
+        "William Henry Jackson / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:Woman%27s_Building,_William_Henry_Jackson,_1893.jpg",
+        "Fil22plm / Wikimedia Commons (CC BY 4.0) https://commons.wikimedia.org/wiki/File:Morse_electromagnetic_telegraph.jpg",
+        "acopbc / Wikimedia Commons (CC0) https://commons.wikimedia.org/wiki/File:Radio_tower,_Japan;_May_2016_(01).jpg"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-12",
+        "name": "2026-10-12-4-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-12",
+        "name": "2026-10-12-4-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,150 --> 00:00:03,027\nBefore you visit Paris, you should know\n\n2\n00:00:03,027 --> 00:00:05,719\nthe Eiffel Tower had an expiry date.\n\n3\n00:00:05,719 --> 00:00:08,351\nHere's how it almost came down, and\n\n4\n00:00:08,351 --> 00:00:09,453\nwhat saved it.\n\n5\n00:00:09,453 --> 00:00:12,207\nThe tower opened for the World's Fair\n\n6\n00:00:12,207 --> 00:00:13,920\nin eighteen eighty-nine.\n\n7\n00:00:13,920 --> 00:00:16,736\nBut Gustave Eiffel's deal only let him\n\n8\n00:00:16,736 --> 00:00:19,000\nuse the land for twenty years.\n\n9\n00:00:19,000 --> 00:00:21,754\nAfter that, Paris could take it down.\n\n10\n00:00:21,754 --> 00:00:24,264\nSo Eiffel needed a reason to keep\n\n11\n00:00:24,264 --> 00:00:24,570\nit.\n\n12\n00:00:24,570 --> 00:00:25,426\nHis answer?\n\n13\n00:00:25,426 --> 00:00:26,039\nScience.\n\n14\n00:00:26,039 --> 00:00:29,466\nHe backed weather and air resistance experiments\n\n15\n00:00:29,466 --> 00:00:30,200\nup there.\n\n16\n00:00:30,200 --> 00:00:33,322\nThen in eighteen ninety-eight, a Morse code\n\n17\n00:00:33,322 --> 00:00:36,076\nradio message was sent from the tower\n\n18\n00:00:36,076 --> 00:00:37,055\nacross Paris.\n\n19\n00:00:37,055 --> 00:00:40,237\nSuddenly, the city's tallest structure looked\n\n20\n00:00:40,237 --> 00:00:42,502\nlike the perfect giant antenna.\n\n21\n00:00:42,502 --> 00:00:45,256\nArmy radio tests from the top reached\n\n22\n00:00:45,256 --> 00:00:46,725\nfarther and farther.\n\n23\n00:00:46,725 --> 00:00:49,969\nBy nineteen-oh-nine, a permanent radio station\n\n24\n00:00:49,969 --> 00:00:51,560\nsat right beneath it.\n\n25\n00:00:51,560 --> 00:00:54,865\nSo in nineteen-ten, Eiffel's deal was extended\n\n26\n00:00:54,865 --> 00:00:56,150\nby seventy years.\n\n27\n00:00:56,150 --> 00:00:58,843\nThat's how the tower beat its expiry\n\n28\n00:00:58,843 --> 00:01:00,863\ndate: it became an antenna.\n\n29\n00:01:00,863 --> 00:01:03,555\nDid you know the Eiffel Tower almost\n\n30\n00:01:03,555 --> 00:01:05,208\ncame down, yes or no?\n\n31\n00:01:05,208 --> 00:01:08,295\nIf you said no, here's your reminder.\n"
     }
   },
   "history": [
@@ -9186,7 +10584,11 @@
     "Top 5 Animals That Became Real Mayors \ud83d\udc36",
     "How a Dog Saved the 1966 World Cup \u26bd",
     "Top 5 Strangest Animal Drinking Tricks",
-    "Jack-o'-Lantern History in 60 Seconds"
+    "Jack-o'-Lantern History in 60 Seconds",
+    "Top 5 Animals With Built-In Armor",
+    "Top 5 Funniest Real Jobs From History \ud83d\ude02",
+    "Quick Weather Quiz: 2 Fakes, 1 Real",
+    "The Eiffel Tower Had a 20-Year Expiry Date"
   ],
   "trend_tries": {
     "2026-10-10": {
@@ -9202,16 +10604,16 @@
       "at": "2026-10-12T22:09:18.547091+00:00"
     }
   },
-  "cleanup_day": "2026-10-12",
+  "cleanup_day": "2026-10-13",
   "recent_voices": [
-    "en-US-AndrewMultilingualNeural",
-    "en-US-AvaMultilingualNeural",
-    "en-US-BrianMultilingualNeural",
-    "en-AU-WilliamMultilingualNeural",
-    "en-US-EmmaMultilingualNeural"
+    "en-US-EmmaMultilingualNeural",
+    "gTTS",
+    "gTTS",
+    "gTTS",
+    "gTTS"
   ],
   "visual_searches": {
-    "2026-10-11": 4
+    "2026-10-13": 4
   },
   "signals_day": "2026-10-12"
 }
