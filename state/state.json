@@ -1,72 +1,6 @@
 {
   "tg_offset": 40455537,
   "batches": {
-    "2026-10-09": {
-      "topics": [
-        {
-          "title": "Top 5 Weirdest Ways Animals Sleep \ud83d\ude34",
-          "angle": "Animal-facts rankings stay evergreen and the funny-reaction outliers today (snake scare short at 166x its channel median) show light, surprising animal moments travel; a countdown with a 12-second-nap payoff keeps people to the end.",
-          "format": "ranking",
-          "tone": "normal",
-          "virality_score": 7,
-          "trend_source": "She Wasn't Scared\u2026 Until She Saw the SNAKE (166x median); Things thrown into a Volcano (list format)",
-          "plan_id": "P2026-10-09-01"
-        },
-        {
-          "title": "5 Funny Town Names With Wild Backstories",
-          "angle": "Today's top breakouts are light comedy (166x and 55x their channel medians), and a funny Top 5 with real, verifiable punchlines gives that laugh with a comment-bait payoff ('which address would you pick').",
-          "format": "funny",
-          "tone": "funny",
-          "virality_score": 8,
-          "trend_source": "She Wasn't Scared\u2026 Until She Saw the SNAKE (166x); She's STILL Dancing Macarena (55.5x); The List formula",
-          "plan_id": "P2026-10-09-02"
-        },
-        {
-          "title": "The Great Rubber Duck Escape of 1992 \ud83e\udd86",
-          "angle": "Question-led 'how did this happen' Shorts are breaking out today (How Was This Scene Actually Shot? at 41x median), and this true, kid-safe story answers a big curiosity gap with a single playful image.",
-          "format": "story",
-          "tone": "normal",
-          "virality_score": 8,
-          "trend_source": "How Was This Koyla Scene Actually Shot? (41.2x, The Question); Bid for Island Survival",
-          "plan_id": "P2026-10-09-03"
-        },
-        {
-          "title": "3 School Facts That Are Actually False",
-          "angle": "'Wrong Knowledge you Got from School' is a recurring breakout theme in today's feed, and quiz countdowns make viewers stay to check their answer and post their score.",
-          "format": "quiz",
-          "tone": "normal",
-          "virality_score": 8,
-          "trend_source": "Wrong Knowledge you Got for School - Part 1; Si dices el mismo jugador\u2026 PIERDES! (2.3x, game/quiz format)",
-          "plan_id": "P2026-10-09-04"
-        },
-        {
-          "title": "3 Memory Tricks to Remember Anything",
-          "angle": "School-life and 'wrong knowledge from school' Shorts are surfacing in today's outliers, and a useful study-hack list with a direct-address hook gives viewers a reason to save and share.",
-          "format": "tips",
-          "tone": "normal",
-          "virality_score": 7,
-          "trend_source": "Wrong Knowledge you Got for School - Part 1; INDIAN MOMS THINGS (school life, 5.4x)",
-          "plan_id": "P2026-10-09-05"
-        },
-        {
-          "title": "Is That Really What I Sound Like?",
-          "angle": "'The Question' formula is driving one of today's biggest outliers (How Was This Scene Actually Shot? at 41x), and this answers a question almost everyone has asked themselves, with a 'never heard your own voice' impossible-claim hook.",
-          "format": "explainer",
-          "tone": "normal",
-          "virality_score": 8,
-          "trend_source": "How Was This Koyla Scene Actually Shot? (41.2x, The Question)",
-          "plan_id": "P2026-10-09-06"
-        }
-      ],
-      "sent_at": "2026-10-09T14:52:29.922247+00:00",
-      "selected": [
-        0,
-        1,
-        2,
-        3
-      ],
-      "status": "closed"
-    },
     "2026-10-10": {
       "topics": [
         {
@@ -452,188 +386,70 @@
         3
       ],
       "status": "closed"
+    },
+    "2026-10-13": {
+      "topics": [
+        {
+          "title": "Top 5 Animals That Live the Longest",
+          "angle": "The top outliers (1873.3x, 74.0x, 59.4x) all name a setup and make you stay for one visible payoff, and this countdown holds the 'might never die' jellyfish back for number one while the 27.7x 'Why Bighorn Sheep Smash Their Heads' proves animal-ability curiosity is breaking out right now.",
+          "format": "ranking",
+          "tone": "normal",
+          "virality_score": 8,
+          "trend_source": "Why Bighorn Sheep Smash Their Heads Together (Events Untold, 27.7x, The Stack); Pinkchyu ROASTS Goth Girl With SAVAGE Comeback! (DarkRa, 1873.3x); Papi arruina el pastel + novio al rescate = CAOS (Latina Mami, 74.0x, The Stack); BOYS' FIRST STEP TO MANHOOD (Baccha Mat Bolna, 59.4x)",
+          "plan_id": "P2026-10-13-01"
+        },
+        {
+          "title": "Top 5 Funniest Fashion Fails in History",
+          "angle": "Kind comedy is today's biggest breakout (1873.3x, 74.0x and 59.4x are all reaction-style funny Shorts), and this countdown uses the same setup-then-payoff shape, saving the shoe a king had to limit by law for number one.",
+          "format": "funny",
+          "tone": "funny",
+          "virality_score": 7,
+          "trend_source": "Pinkchyu ROASTS Goth Girl With SAVAGE Comeback! (DarkRa, 1873.3x); Papi arruina el pastel + novio al rescate = CAOS (Latina Mami, 74.0x, The Stack); BOYS' FIRST STEP TO MANHOOD (Baccha Mat Bolna, 59.4x)",
+          "plan_id": "P2026-10-13-02"
+        },
+        {
+          "title": "How Mapmakers Invented a Town in 1925",
+          "angle": "The 38.0x 'He pretended to be blind' and 1873.3x roast both hang on a reveal that flips the setup, and this true story has the same flip: a fake town built as a trap turns real.",
+          "format": "story",
+          "tone": "normal",
+          "virality_score": 7,
+          "trend_source": "He pretended to be blind (Film Explorer, 38.0x); Pinkchyu ROASTS Goth Girl With SAVAGE Comeback! (DarkRa, 1873.3x)",
+          "plan_id": "P2026-10-13-03"
+        },
+        {
+          "title": "3-Second Space Quiz: Can You Spot the Myth?",
+          "angle": "Guess-the-outcome games are breaking out (11.1x 'Who Can Build The Better Nachos With $20?', 9.1x 'Guess Devil Aphmau's REAL Reaction!'), and this quiz makes viewers commit to an answer before each three-second reveal.",
+          "format": "quiz",
+          "tone": "normal",
+          "virality_score": 7,
+          "trend_source": "Who Can Build The Better Nachos With $20? (Makeshift Project, 11.1x); Guess Devil Aphmau's REAL Reaction! (GOLDCRAFT STUDIOS, 9.1x)",
+          "plan_id": "P2026-10-13-04"
+        },
+        {
+          "title": "3 Tricks So Eggs Slip Out of the Shell",
+          "angle": "Simple 'one trick changes the result' Shorts keep breaking out (8.8x 'Best trick to make bangles colourful'), and this one pays off with a visible clean peel on screen.",
+          "format": "tips",
+          "tone": "normal",
+          "virality_score": 6,
+          "trend_source": "Best trick to make bangles colourful (Radhika Maroo, 8.8x)",
+          "plan_id": "P2026-10-13-05"
+        },
+        {
+          "title": "Why Are Bubbles Always Round? 1 Simple Rule",
+          "angle": "The 27.7x 'Why Bighorn Sheep Smash Their Heads Together' shows a single 'why does this happen?' question breaking out today, and this explainer asks one everyday why and answers it in the payoff.",
+          "format": "explainer",
+          "tone": "normal",
+          "virality_score": 6,
+          "trend_source": "Why Bighorn Sheep Smash Their Heads Together (Events Untold, 27.7x, The Stack)",
+          "plan_id": "P2026-10-13-06"
+        }
+      ],
+      "sent_at": "2026-10-13T15:09:39.142841+00:00",
+      "selected": [],
+      "status": "waiting"
     }
   },
   "videos": {
-    "2026-10-05-3": {
-      "topic": {
-        "title": "Top 5 Everyday Objects That Are Way Older Than You Think",
-        "angle": "A mind-blowing countdown of common household items invented centuries before modern technology.",
-        "format": "ranking",
-        "tone": "normal",
-        "trend_source": "RuneScape / gaming nostalgia",
-        "virality_score": 8,
-        "why": "Fascinating historical facts with a fast-paced countdown structure that encourages viewers to watch until the very end."
-      },
-      "status": "published",
-      "by": "auto",
-      "updated": "2026-10-05T23:05:55.401166+00:00",
-      "redos": 0,
-      "package": {
-        "primary_keyword": "everyday objects older than you think",
-        "title": "Top 5 Everyday Objects Older Than You Think",
-        "hook_text": "Ancient household items",
-        "thumbnail_text": "Ancient ordinary things",
-        "description": "Discover top 5 everyday objects older than you think in this mind-blowing history countdown. See which common household items existed centuries ago.",
-        "hashtags": [
-          "#shorts",
-          "#history",
-          "#ancienthistory",
-          "#top5"
-        ],
-        "tags": [
-          "everyday objects older than you think",
-          "things that are older than you think",
-          "things invented long ago",
-          "old inventions still used",
-          "history facts",
-          "ancient items",
-          "ancient inventions",
-          "history facts shorts",
-          "historical inventions",
-          "history facts you didn't know",
-          "top 5 history facts",
-          "mind blowing history",
-          "ancient everyday items",
-          "household items history",
-          "surprising history facts",
-          "ancient tools",
-          "ancient technology"
-        ],
-        "pinned_comment": "Which of these ancient inventions surprised you the most? Drop your answer below!",
-        "scenes": [
-          {
-            "text": "You use these every single day, but they are shockingly ancient.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "modern household items",
-              "close up everyday objects"
-            ],
-            "image_prompt": "Cinematic vertical 9:16 shot of modern household items glowing softly on a wooden table, mysterious lighting, no text, no people.",
-            "stock_query": "modern household items"
-          },
-          {
-            "text": "Number five, chewing gum. Long before modern brands, ancient people chewed birch bark tar over nine thousand years ago, because honestly, people always needed fresh breath.",
-            "badge": "#5",
-            "label": "Chewing Gum",
-            "stock_queries": [
-              "natural tree resin",
-              "ancient forest trees"
-            ],
-            "image_prompt": "Vertical 9:16 image of amber tree resin dropping from a bark, macro photography, natural lighting, no text.",
-            "stock_query": "natural tree resin"
-          },
-          {
-            "text": "At number four, flush toilets. You might think indoor plumbing is a modern luxury, but the Minoans built advanced flushing systems nearly four thousand years ago.",
-            "badge": "#4",
-            "label": "Flush Toilets",
-            "stock_queries": [
-              "ancient stone ruins",
-              "historical architecture"
-            ],
-            "image_prompt": "Vertical 9:16 shot of ancient carved stone architecture and drainage channels, historical site, dramatic lighting, no text.",
-            "stock_query": "ancient stone ruins"
-          },
-          {
-            "text": "Number three, sunglasses. Inuit hunters carved bone goggles with tiny slits to block blinding snow glare over eight hundred years ago. Pretty genius.",
-            "badge": "#3",
-            "label": "Sunglasses",
-            "stock_queries": [
-              "snowy mountain peak",
-              "winter glacier landscape"
-            ],
-            "image_prompt": "Vertical 9:16 cinematic landscape of bright snowy mountains reflecting harsh sunlight, winter atmosphere, no text.",
-            "stock_query": "snowy mountain peak"
-          },
-          {
-            "text": "At number two, pregnancy tests. Ancient Egyptians peed on barley and wheat seeds to check for pregnancy as early as fifteen hundred before common era, and it actually worked.",
-            "badge": "#2",
-            "label": "Pregnancy Tests",
-            "stock_queries": [
-              "wheat grain seeds",
-              "ancient Egyptian grain"
-            ],
-            "image_prompt": "Vertical 9:16 macro shot of golden wheat grains and seeds scattered on ancient linen fabric, warm lighting, no text.",
-            "stock_query": "wheat grain seeds"
-          },
-          {
-            "text": "Number one, the alarm clock. Plato used a complex water clock with connected vessels to whistle loudly at dawn four centuries before Christ, proving you use these every single day.",
-            "badge": "#1",
-            "label": "Alarm Clock",
-            "stock_queries": [
-              "flowing water clock",
-              "ancient hourglass mechanism"
-            ],
-            "image_prompt": "Vertical 9:16 image of an intricate ancient water clock mechanism dripping water in a stone room, moody lighting, no text.",
-            "stock_query": "flowing water clock"
-          },
-          {
-            "text": "Which everyday object shocked you the most? Let me know in the comments.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "question mark glowing",
-              "curious person thinking"
-            ],
-            "image_prompt": "Vertical 9:16 abstract background with glowing particles and a subtle question mark silhouette, dark background, no text.",
-            "stock_query": "question mark glowing"
-          }
-        ],
-        "key_facts": [
-          "Birch bark tar was chewed over 9,000 years ago.",
-          "The Minoans built flushing systems nearly 4,000 years ago.",
-          "Inuit hunters used bone snow goggles over 800 years ago.",
-          "Ancient Egyptians tested pregnancy using wheat and barley around 1500 BCE.",
-          "Plato utilized a water-based alarm mechanism in ancient Greece."
-        ],
-        "format": "ranking",
-        "tone": "normal",
-        "category": "27",
-        "script": "You use these every single day, but they are shockingly ancient. Number five, chewing gum. Long before modern brands, ancient people chewed birch bark tar over nine thousand years ago, because honestly, people always needed fresh breath. At number four, flush toilets. You might think indoor plumbing is a modern luxury, but the Minoans built advanced flushing systems nearly four thousand years ago. Number three, sunglasses. Inuit hunters carved bone goggles with tiny slits to block blinding snow glare over eight hundred years ago. Pretty genius. At number two, pregnancy tests. Ancient Egyptians peed on barley and wheat seeds to check for pregnancy as early as fifteen hundred before common era, and it actually worked. Number one, the alarm clock. Plato used a complex water clock with connected vessels to whistle loudly at dawn four centuries before Christ, proving you use these every single day. Which everyday object shocked you the most? Let me know in the comments.",
-        "voice": "en-US-AndrewMultilingualNeural"
-      },
-      "credits": [
-        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AndrewMultilingualNeural).",
-        "Stock footage/photos (Pexels/Pixabay Content License): engrahmad2653 (Pixabay) https://pixabay.com/videos/id-296958/; choxyltd (Pixabay) https://pixabay.com/videos/id-189018/; Motionwell (Pixabay) https://pixabay.com/videos/id-336603/; LotusMind6688 (Pixabay) https://pixabay.com/videos/id-364514/; Osckar (Pixabay) https://pixabay.com/videos/id-1613/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-295629/; xat-ch (Pixabay) https://pixabay.com/videos/id-183271/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-323882/; SkyScapeDrone (Pixabay) https://pixabay.com/videos/id-236235/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-367638/; SkyScapeDrone (Pixabay) https://pixabay.com/videos/id-236233/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-369192/; DangrafArt (Pixabay) https://pixabay.com/videos/id-203845/; antoinedes (Pixabay) https://pixabay.com/videos/id-37655/; asifsharif (Pixabay) https://pixabay.com/videos/id-326081/; Danil_Shostak (Pixabay) https://pixabay.com/videos/id-34855/; Mario_Krimer (Pixabay) https://pixabay.com/videos/id-233867/; geralt (Pixabay) https://pixabay.com/videos/id-545/; SoyKhaler (Pixabay) https://pixabay.com/videos/id-126558/"
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-05",
-        "name": "2026-10-05-3-v0.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-05",
-        "name": "2026-10-05-3-v0-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,091 --> 00:00:02,375\nYou use these every single day but\n\n2\n00:00:02,375 --> 00:00:05,125\nthey are shockingly ancient Number five chewing\n\n3\n00:00:05,125 --> 00:00:08,352\ngum Long before modern brands ancient people\n\n4\n00:00:08,352 --> 00:00:10,409\nchewed birch bark tar over nine thousand\n\n5\n00:00:10,409 --> 00:00:13,500\nyears ago because honestly people always needed\n\n6\n00:00:13,500 --> 00:00:16,602\nfresh breath At number four flush toilets\n\n7\n00:00:16,602 --> 00:00:18,057\nYou might think indoor plumbing is a\n\n8\n00:00:18,057 --> 00:00:20,920\nmodern luxury but the Minoans built advanced\n\n9\n00:00:20,920 --> 00:00:23,352\nflushing systems nearly four thousand years\n\n10\n00:00:23,352 --> 00:00:27,261\nago Number three sunglasses Inuit hunters carved\n\n11\n00:00:27,261 --> 00:00:29,750\nbone goggles with tiny slits to block\n\n12\n00:00:29,750 --> 00:00:32,216\nblinding snow glare over eight hundred years\n\n13\n00:00:32,216 --> 00:00:35,500\nago Pretty genius At number two pregnancy\n\n14\n00:00:35,500 --> 00:00:38,511\ntests Ancient Egyptians peed on barley and\n\n15\n00:00:38,511 --> 00:00:40,886\nwheat seeds to check for pregnancy as\n\n16\n00:00:40,886 --> 00:00:43,580\nearly as fifteen hundred before common era\n\n17\n00:00:43,580 --> 00:00:45,682\nand it actually worked Number one the\n\n18\n00:00:45,682 --> 00:00:48,330\nalarm clock Plato used a complex water\n\n19\n00:00:48,330 --> 00:00:50,977\nclock with connected vessels to whistle loudly\n\n20\n00:00:50,977 --> 00:00:54,159\nat dawn four centuries before Christ proving\n\n21\n00:00:54,159 --> 00:00:56,807\nyou use these every single day Which\n\n22\n00:00:56,807 --> 00:00:59,193\neveryday object shocked you the most Let\n\n23\n00:00:59,193 --> 00:01:00,639\nme know in the comments\n",
-      "tg_msg": 116,
-      "opts_msg": 118,
-      "approved_by": "you",
-      "publish_now": false,
-      "description_full": "Discover top 5 everyday objects older than you think in this mind-blowing history countdown. See which common household items existed centuries ago.\n\n#shorts #history #ancienthistory #top5\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review and approved by the channel owner.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AndrewMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): engrahmad2653 (Pixabay) https://pixabay.com/videos/id-296958/; choxyltd (Pixabay) https://pixabay.com/videos/id-189018/; Motionwell (Pixabay) https://pixabay.com/videos/id-336603/; LotusMind6688 (Pixabay) https://pixabay.com/videos/id-364514/; Osckar (Pixabay) https://pixabay.com/videos/id-1613/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-295629/; xat-ch (Pixabay) https://pixabay.com/videos/id-183271/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-323882/; SkyScapeDrone (Pixabay) https://pixabay.com/videos/id-236235/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-367638/; SkyScapeDrone (Pixabay) https://pixabay.com/videos/id-236233/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-369192/; DangrafArt (Pixabay) https://pixabay.com/videos/id-203845/; antoinedes (Pixabay) https://pixabay.com/videos/id-37655/; asifsharif (Pixabay) https://pixabay.com/videos/id-326081/; Danil_Shostak (Pixabay) https://pixabay.com/videos/id-34855/; Mario_Krimer (Pixabay) https://pixabay.com/videos/id-233867/; geralt (Pixabay) https://pixabay.com/videos/id-545/; SoyKhaler (Pixabay) https://pixabay.com/videos/id-126558/\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/APj9byFXpkE",
-          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-05T23:05:55.401181+00:00",
-      "slot": "2026-10-06T19:15:00+00:00"
-    },
     "2026-10-05-4": {
       "topic": {
         "title": "3 Tech Settings You Need to Change Immediately",
@@ -10114,9 +9930,9 @@
         "virality_score": 9,
         "why": "High loop potential, universally loved cute animal content paired with unexpected, funny narrative humor."
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "auto",
-      "updated": "2026-10-13T07:33:30.860372+00:00",
+      "updated": "2026-10-13T15:09:50.834252+00:00",
       "redos": 0,
       "package": {
         "primary_keyword": "weird animal sleeping habits",
@@ -10444,7 +10260,29 @@
       },
       "srt": "1\n00:00:00,150 --> 00:00:03,481\nNature gave these creatures ridiculous ways\n\n2\n00:00:03,481 --> 00:00:04,747\nto take a nap.\n\n3\n00:00:04,747 --> 00:00:08,011\nSeriously, wait until you see number one.\n\n4\n00:00:08,011 --> 00:00:09,943\nNumber five, sea otters.\n\n5\n00:00:09,943 --> 00:00:13,407\nOtters hold hands while snoozing so currents\n\n6\n00:00:13,407 --> 00:00:15,339\ndo not float them away.\n\n7\n00:00:15,339 --> 00:00:18,137\nIt is adorable, tactical clinginess.\n\n8\n00:00:18,137 --> 00:00:20,202\nAt number four, flamingos.\n\n9\n00:00:20,202 --> 00:00:22,933\nThey lock one leg joint and sleep\n\n10\n00:00:22,933 --> 00:00:25,132\nstanding on a single stick.\n\n11\n00:00:25,132 --> 00:00:28,396\nApparently, using two legs takes too much\n\n12\n00:00:28,396 --> 00:00:28,996\neffort.\n\n13\n00:00:28,996 --> 00:00:30,794\nNumber three, giraffes.\n\n14\n00:00:30,794 --> 00:00:33,792\nWith six-foot necks, beds are useless.\n\n15\n00:00:33,792 --> 00:00:36,923\nSo they twist completely around and use\n\n16\n00:00:36,923 --> 00:00:39,188\ntheir own butt as a pillow.\n\n17\n00:00:39,188 --> 00:00:41,453\nAt number two, sperm whales.\n\n18\n00:00:41,453 --> 00:00:44,984\nEntire pods nap completely motionless, bobbing\n\n19\n00:00:44,984 --> 00:00:48,182\nstraight up and down like giant floating\n\n20\n00:00:48,182 --> 00:00:48,848\npickles.\n\n21\n00:00:48,848 --> 00:00:50,980\nHonestly, it looks surreal.\n\n22\n00:00:50,980 --> 00:00:53,644\nAnd number one, the common swift.\n\n23\n00:00:53,644 --> 00:00:57,042\nThey stay airborne for ten months straight,\n\n24\n00:00:57,042 --> 00:01:00,373\ntaking micro-naps while gliding through the\n\n25\n00:01:00,373 --> 00:01:00,972\nclouds.\n\n26\n00:01:00,972 --> 00:01:02,638\nUltimate aerial flex.\n\n27\n00:01:02,638 --> 00:01:06,368\nWhich ridiculous sleeping position best describes\n\n28\n00:01:06,368 --> 00:01:08,100\nyour Sunday afternoon?\n\n29\n00:01:08,100 --> 00:01:11,611\nDrop your pick below, because honestly...\n",
       "tg_msg": 327,
-      "opts_msg": 329
+      "opts_msg": 329,
+      "approved_by": "auto",
+      "description_full": "Discover the weird animal sleeping habits that look too ridiculous to be real.\nFrom whales sleeping upright to birds napping in flight, animal sleep facts never cease to amaze.\n\n#shorts #wildlife #animalsleep #top5 #funny\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Google Text-to-Speech).\nStock footage/photos (Pexels/Pixabay Content License): BlenderTimer (Pixabay) https://pixabay.com/videos/id-218645/; Bru-nO (Pixabay) https://pixabay.com/photos/flamingo-bird-water-bird-pink-4489777/; luctheo (Pixabay) https://pixabay.com/photos/flamingo-pink-bird-animals-zoo-763894/; Ben_Kerckx (Pixabay) https://pixabay.com/photos/flamingo-animal-bird-pink-mates-1304216/; paulbr75 (Pixabay) https://pixabay.com/photos/baby-giraffe-animal-cute-giraffe-2239312/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-376846/; TheOtherKev (Pixabay) https://pixabay.com/photos/swift-swift-in-flight-swift-flying-5241406/; TheOtherKev (Pixabay) https://pixabay.com/photos/swift-european-swift-black-bird-5248648/; kieutruongphoto (Pixabay) https://pixabay.com/videos/id-35733/; kieutruongphoto (Pixabay) https://pixabay.com/videos/id-35693/; Bernard_Townsend (Pixabay) https://pixabay.com/videos/id-127621/\nMike Baird from Morro Bay, USA / Wikimedia Commons (CC BY 2.0) https://commons.wikimedia.org/wiki/File:A_newborn_baby_Sea_Otter,_Enhydra_lutris,_Morro_Bay.jpg\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/PiQwoHN2ySM",
+          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-10-13T15:09:50.834267+00:00",
+      "slot": "2026-10-14T01:15:00+00:00"
     },
     "2026-10-12-2-2": {
       "topic": {
@@ -10456,7 +10294,7 @@
         "virality_score": 9,
         "why": "Drives massive comment section engagement as viewers argue about the answer, boosting algorithmic distribution."
       },
-      "status": "awaiting_approval",
+      "status": "approved",
       "by": "auto",
       "updated": "2026-10-13T07:40:42.581189+00:00",
       "redos": 0,
@@ -10819,7 +10657,9 @@
       },
       "srt": "1\n00:00:00,150 --> 00:00:02,672\nOnly a few people get all three\n\n2\n00:00:02,672 --> 00:00:05,259\nright, so let us test your brain\n\n3\n00:00:05,259 --> 00:00:08,234\nwith three fast-paced physics illusions.\n\n4\n00:00:08,234 --> 00:00:09,722\nUphill or downhill?\n\n5\n00:00:09,722 --> 00:00:10,045\nQ1.\n\n6\n00:00:10,045 --> 00:00:12,956\nIs this wooden ball rolling uphill or\n\n7\n00:00:12,956 --> 00:00:13,667\ndownhill?\n\n8\n00:00:13,667 --> 00:00:16,448\nLook closely at the tracks and make\n\n9\n00:00:16,448 --> 00:00:17,418\nyour choice.\n\n10\n00:00:17,418 --> 00:00:18,712\nThree, two, one.\n\n11\n00:00:18,712 --> 00:00:21,169\nIt is actually rolling downhill.\n\n12\n00:00:21,169 --> 00:00:24,274\nEven though the tracks spread apart, the\n\n13\n00:00:24,274 --> 00:00:27,378\nactual center of gravity drops lower the\n\n14\n00:00:27,378 --> 00:00:28,672\nfurther it goes.\n\n15\n00:00:28,672 --> 00:00:28,995\nQ2.\n\n16\n00:00:28,995 --> 00:00:32,229\nDoes this heavy steel cylinder roll uphill\n\n17\n00:00:32,229 --> 00:00:34,816\nor downhill on these metal rails?\n\n18\n00:00:34,816 --> 00:00:37,726\nTrust your eyes and decide right now.\n\n19\n00:00:37,726 --> 00:00:39,020\nThree, two, one.\n\n20\n00:00:39,020 --> 00:00:40,572\nIt is going uphill.\n\n21\n00:00:40,572 --> 00:00:43,482\nThe rails widen and slope upward, but\n\n22\n00:00:43,482 --> 00:00:46,457\nthe cylinder's low center of mass lets\n\n23\n00:00:46,457 --> 00:00:49,044\nit climb against our expectations.\n\n24\n00:00:49,044 --> 00:00:49,368\nQ3.\n\n25\n00:00:49,368 --> 00:00:51,308\nHere is the hardest one.\n\n26\n00:00:51,308 --> 00:00:54,283\nIs this flowing water moving uphill or\n\n27\n00:00:54,283 --> 00:00:56,805\ndownhill across the wooden board?\n\n28\n00:00:56,805 --> 00:00:57,711\nThink fast.\n\n29\n00:00:57,711 --> 00:00:59,004\nThree, two, one.\n\n30\n00:00:59,004 --> 00:01:00,815\nIt is rolling downhill.\n\n31\n00:01:00,815 --> 00:01:04,113\nThe entire wooden frame is tilted, tricking\n\n32\n00:01:04,113 --> 00:01:07,283\nyour brain into thinking the water defies\n\n33\n00:01:07,283 --> 00:01:07,929\ngravity.\n\n34\n00:01:07,929 --> 00:01:09,158\nThat was tough.\n\n35\n00:01:09,158 --> 00:01:11,939\nDrop your score in the comments and\n\n36\n00:01:11,939 --> 00:01:13,717\nlet us know if...\n",
       "tg_msg": 330,
-      "opts_msg": 332
+      "opts_msg": 332,
+      "approved_by": "auto",
+      "quota_note": "2026-10-13"
     },
     "2026-10-12-2-3": {
       "topic": {
@@ -10831,7 +10671,7 @@
         "virality_score": 8,
         "why": "Taps into food curiosity and general interest, creating immediate debate in comments about favorite flavors."
       },
-      "status": "awaiting_approval",
+      "status": "approved",
       "by": "auto",
       "updated": "2026-10-13T07:46:40.335454+00:00",
       "redos": 0,
@@ -11152,7 +10992,9 @@
       },
       "srt": "1\n00:00:00,150 --> 00:00:02,831\nSome of the best ingredients in the\n\n2\n00:00:02,831 --> 00:00:05,885\nworld actually smell completely disgusting,\n\n3\n00:00:05,885 --> 00:00:07,506\nuntil you taste them.\n\n4\n00:00:07,506 --> 00:00:09,501\nNumber five is fish sauce.\n\n5\n00:00:09,501 --> 00:00:11,808\nIt smells like a wet beach on\n\n6\n00:00:11,808 --> 00:00:14,364\na hot day, but it adds incredible\n\n7\n00:00:14,364 --> 00:00:16,421\nsavory depth to stir fries.\n\n8\n00:00:16,421 --> 00:00:18,728\nAt number four we have durian.\n\n9\n00:00:18,728 --> 00:00:21,658\nThis spiky fruit smells like gym socks,\n\n10\n00:00:21,658 --> 00:00:24,277\nyet the inside is sweet and creamy\n\n11\n00:00:24,277 --> 00:00:25,274\nlike custard.\n\n12\n00:00:25,274 --> 00:00:27,394\nNumber three is truffle oil.\n\n13\n00:00:27,394 --> 00:00:30,137\nIt smells like strong gas or rubber,\n\n14\n00:00:30,137 --> 00:00:32,817\nbut a single drop makes pasta taste\n\n15\n00:00:32,817 --> 00:00:34,189\ninsanely luxurious.\n\n16\n00:00:34,189 --> 00:00:36,246\nAt number two, blue cheese.\n\n17\n00:00:36,246 --> 00:00:39,052\nIt smells like old laundry, but melts\n\n18\n00:00:39,052 --> 00:00:41,608\ninto a rich sauce that hits every\n\n19\n00:00:41,608 --> 00:00:42,917\nsingle taste bud.\n\n20\n00:00:42,917 --> 00:00:45,660\nNumber one is fermented shrimp paste.\n\n21\n00:00:45,660 --> 00:00:48,777\nIt smells overwhelmingly strong, but it is\n\n22\n00:00:48,777 --> 00:00:51,957\nthe secret weapon behind world class curry.\n\n23\n00:00:51,957 --> 00:00:54,450\nSo would you brave the stench to\n\n24\n00:00:54,450 --> 00:00:56,882\ntry them, or do some foods that\n\n25\n00:00:56,882 --> 00:01:00,224\nsmell terrible just stay off your plate?\n",
       "tg_msg": 333,
-      "opts_msg": 335
+      "opts_msg": 335,
+      "approved_by": "auto",
+      "quota_note": "2026-10-13"
     },
     "2026-10-12-2-4": {
       "topic": {
@@ -11164,7 +11006,7 @@
         "virality_score": 8,
         "why": "Relatable frustration humor triggers high shares and strong viewer retention through quick visual punchlines."
       },
-      "status": "awaiting_approval",
+      "status": "approved",
       "by": "auto",
       "updated": "2026-10-13T07:55:09.324855+00:00",
       "redos": 0,
@@ -11495,7 +11337,9 @@
       },
       "srt": "1\n00:00:00,150 --> 00:00:03,424\nSome buildings look amazing until you actually\n\n2\n00:00:03,424 --> 00:00:06,395\ntry using them, because architects totally\n\n3\n00:00:06,395 --> 00:00:08,092\nforgot how humans work.\n\n4\n00:00:08,092 --> 00:00:10,820\nNumber five, the staircase to nowhere.\n\n5\n00:00:10,820 --> 00:00:13,367\nIt climbs twenty steps just to end\n\n6\n00:00:13,367 --> 00:00:15,974\nabruptly against a blank brick wall.\n\n7\n00:00:15,974 --> 00:00:19,187\nPerfect for practicing your silent mime walk.\n\n8\n00:00:19,187 --> 00:00:21,612\nAt number four, we have doors to\n\n9\n00:00:21,612 --> 00:00:22,400\nthe abyss.\n\n10\n00:00:22,400 --> 00:00:25,189\nYou turn the handle, step outside, and\n\n11\n00:00:25,189 --> 00:00:28,463\nimmediately plummet three stories because there\n\n12\n00:00:28,463 --> 00:00:30,161\nis no balcony attached.\n\n13\n00:00:30,161 --> 00:00:33,131\nNumber three goes to the phantom balcony.\n\n14\n00:00:33,131 --> 00:00:35,617\nIt has a fancy railing and double\n\n15\n00:00:35,617 --> 00:00:38,649\nglass doors, except the builders forgot to\n\n16\n00:00:38,649 --> 00:00:41,316\ninstall any doors that actually open.\n\n17\n00:00:41,316 --> 00:00:44,166\nAt number two, the see through bathroom\n\n18\n00:00:44,166 --> 00:00:44,651\nstall.\n\n19\n00:00:44,651 --> 00:00:47,985\nBecause nothing says privacy quite like sharing\n\n20\n00:00:47,985 --> 00:00:51,320\nyour entire office routine with total strangers\n\n21\n00:00:51,320 --> 00:00:53,139\nthrough transparent glass.\n\n22\n00:00:53,139 --> 00:00:55,928\nNumber one is the wheelchair ramp with\n\n23\n00:00:55,928 --> 00:00:56,473\nstairs.\n\n24\n00:00:56,473 --> 00:00:59,444\nSomeone installed four steps right in the\n\n25\n00:00:59,444 --> 00:01:02,718\nmiddle of a steep accessibility ramp, creating\n\n26\n00:01:02,718 --> 00:01:04,719\nan ultimate obstacle course.\n\n27\n00:01:04,719 --> 00:01:07,992\nSome buildings look amazing until you actually\n\n28\n00:01:07,992 --> 00:01:10,035\ntry using them, because\n",
       "tg_msg": 336,
-      "opts_msg": 338
+      "opts_msg": 338,
+      "approved_by": "auto",
+      "quota_note": "2026-10-13"
     }
   },
   "history": [
@@ -11545,10 +11389,6 @@
     "Top 5 Worst Design Fails In Everyday Architecture"
   ],
   "trend_tries": {
-    "2026-10-10": {
-      "n": 2,
-      "at": "2026-10-10T18:37:56.672071+00:00"
-    },
     "2026-10-11": {
       "n": 2,
       "at": "2026-10-11T18:56:30.183272+00:00"
@@ -11556,6 +11396,10 @@
     "2026-10-12": {
       "n": 2,
       "at": "2026-10-12T22:09:18.547091+00:00"
+    },
+    "2026-10-13": {
+      "n": 1,
+      "at": "2026-10-13T15:09:38.428056+00:00"
     }
   },
   "cleanup_day": "2026-10-13",
@@ -11569,5 +11413,5 @@
   "visual_searches": {
     "2026-10-13": 6
   },
-  "signals_day": "2026-10-12"
+  "signals_day": "2026-10-13"
 }
