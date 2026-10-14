@@ -450,723 +450,6 @@
     }
   },
   "videos": {
-    "2026-10-05-4": {
-      "topic": {
-        "title": "3 Tech Settings You Need to Change Immediately",
-        "angle": "Quick, actionable smartphone adjustments that instantly improve battery life and privacy.",
-        "format": "tips",
-        "tone": "normal",
-        "trend_source": "tech general interest",
-        "virality_score": 8,
-        "why": "High utility drives saves and shares, two metrics heavily rewarded by the Shorts algorithm."
-      },
-      "status": "published",
-      "by": "auto",
-      "updated": "2026-10-05T23:06:02.875635+00:00",
-      "redos": 0,
-      "package": {
-        "primary_keyword": "tech settings to change",
-        "title": "3 Tech Settings You Need to Change Immediately \ud83d\udcf1",
-        "hook_text": "Secret Phone Settings",
-        "thumbnail_text": "Change These Now",
-        "description": "Discover three essential tech settings you need to change immediately to boost your smartphone battery and privacy. Stop letting your phone track every move and drain power all day.",
-        "hashtags": [
-          "#shorts",
-          "#techhacks",
-          "#smartphonetips",
-          "#lifehacks"
-        ],
-        "tags": [
-          "tech settings to change",
-          "stop battery drain iphone",
-          "stop battery drain android",
-          "stop battery drain",
-          "speed up your phone",
-          "phone privacy settings",
-          "smartphone battery life hacks",
-          "fix battery drain",
-          "save phone battery",
-          "everyday life hacks",
-          "tech tips and tricks",
-          "iphone hidden settings",
-          "phone optimization tips",
-          "android privacy settings",
-          "fix battery draining fast",
-          "smartphone settings"
-        ],
-        "pinned_comment": "Which of these three settings was your phone still leaving on by default?",
-        "scenes": [
-          {
-            "text": "Your phone is secretly draining battery and tracking you right now, unless you change these three settings.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "person holding smartphone",
-              "dark phone screen glow"
-            ],
-            "image_prompt": "Vertical 9:16 cinematic close-up of a modern smartphone resting on a dark wooden desk with a subtle glow, no text, no logos.",
-            "stock_query": "person holding smartphone"
-          },
-          {
-            "text": "Tip one, turn off background app refresh. Honestly, most apps don't need to update their content while you are not using them.",
-            "badge": "TIP 1",
-            "label": "Background App Refresh",
-            "stock_queries": [
-              "scrolling phone screen",
-              "mobile apps menu"
-            ],
-            "image_prompt": "Vertical 9:16 abstract close-up of digital application icons glowing on a modern smartphone screen, clean minimalist design, no text.",
-            "stock_query": "scrolling phone screen"
-          },
-          {
-            "text": "Just go to your general settings and limit it to only your essential messaging apps to save massive amounts of battery.",
-            "badge": "TIP 1",
-            "label": "Background App Refresh",
-            "stock_queries": [
-              "settings menu scroll",
-              "finger tapping phone"
-            ],
-            "image_prompt": "Vertical 9:16 shot of a finger tapping through a clean minimalist settings menu on a sleek mobile device, soft lighting, no text.",
-            "stock_query": "settings menu scroll"
-          },
-          {
-            "text": "Tip two, restrict precise location. Do weather apps really need your exact GPS coordinates down to the single meter? Nope.",
-            "badge": "TIP 2",
-            "label": "Precise Location",
-            "stock_queries": [
-              "map on smartphone screen",
-              "gps pin on phone"
-            ],
-            "image_prompt": "Vertical 9:16 digital map interface glowing softly on a smartphone screen in a dimly lit room, high tech aesthetic, no text.",
-            "stock_query": "map on smartphone screen"
-          },
-          {
-            "text": "Switch them to approximate location instead. It keeps your privacy intact without breaking any of your maps or local searches.",
-            "badge": "TIP 2",
-            "label": "Precise Location",
-            "stock_queries": [
-              "location permissions menu",
-              "privacy settings toggle"
-            ],
-            "image_prompt": "Vertical 9:16 close-up of privacy permission toggles on a smartphone display, sleek modern interface design, no text.",
-            "stock_query": "location permissions menu"
-          },
-          {
-            "text": "Tip three, disable Wi-Fi and Bluetooth auto connections in your control center, because leaving those open creates security risks.",
-            "badge": "TIP 3",
-            "label": "Wireless Controls",
-            "stock_queries": [
-              "wifi symbol glowing",
-              "bluetooth icon on screen"
-            ],
-            "image_prompt": "Vertical 9:16 abstract glowing wireless and bluetooth connection symbols floating over a dark background, no text.",
-            "stock_query": "wifi symbol glowing"
-          },
-          {
-            "text": "Make sure you turn them completely off in the main settings menu. Your phone is secretly draining battery and tracking you right now.",
-            "badge": "TIP 3",
-            "label": "Wireless Controls",
-            "stock_queries": [
-              "flipping phone over",
-              "smartphone on table"
-            ],
-            "image_prompt": "Vertical 9:16 minimalist flat lay of a smartphone resting on a clean white surface, soft shadows, no text or logos.",
-            "stock_query": "flipping phone over"
-          }
-        ],
-        "key_facts": [
-          "Disabling background app refresh can reduce battery drain.",
-          "Using approximate location instead of precise GPS improves user privacy.",
-          "Disabling wireless features from the main settings menu instead of the quick toggle prevents unwanted connections."
-        ],
-        "format": "tips",
-        "tone": "normal",
-        "category": "26",
-        "script": "Your phone is secretly draining battery and tracking you right now, unless you change these three settings. Tip one, turn off background app refresh. Honestly, most apps don't need to update their content while you are not using them. Just go to your general settings and limit it to only your essential messaging apps to save massive amounts of battery. Tip two, restrict precise location. Do weather apps really need your exact GPS coordinates down to the single meter? Nope. Switch them to approximate location instead. It keeps your privacy intact without breaking any of your maps or local searches. Tip three, disable Wi-Fi and Bluetooth auto connections in your control center, because leaving those open creates security risks. Make sure you turn them completely off in the main settings menu. Your phone is secretly draining battery and tracking you right now.",
-        "voice": "en-US-BrianMultilingualNeural"
-      },
-      "credits": [
-        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-BrianMultilingualNeural).",
-        "Stock footage/photos (Pexels/Pixabay Content License): mephala1980 (Pixabay) https://pixabay.com/videos/id-38084/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-345076/; JonathanSlatterMusic (Pixabay) https://pixabay.com/videos/id-348444/; DistillVideos (Pixabay) https://pixabay.com/videos/id-1110/; MozoMozo (Pixabay) https://pixabay.com/videos/id-171178/; seyhmuskino (Pixabay) https://pixabay.com/videos/id-286637/; DistillVideos (Pixabay) https://pixabay.com/videos/id-21/; Mabelle-Elise (Pixabay) https://pixabay.com/videos/id-174262/; Nico_NCO (Pixabay) https://pixabay.com/videos/id-16423/; Natures_Embrace (Pixabay) https://pixabay.com/videos/id-202987/; Kanenori (Pixabay) https://pixabay.com/videos/id-283431/; Amorn_mimi (Pixabay) https://pixabay.com/videos/id-183448/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-910/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-341/; Life-Of-Vids (Pixabay) https://pixabay.com/videos/id-1623/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-780/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-1196/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-1229/; EnchantedStudios (Pixabay) https://pixabay.com/videos/id-197974/; Eartvideos (Pixabay) https://pixabay.com/videos/id-150957/; PIRO4D (Pixabay) https://pixabay.com/videos/id-6358/"
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-05",
-        "name": "2026-10-05-4-v0.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-05",
-        "name": "2026-10-05-4-v0-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,082 --> 00:00:02,486\nYour phone is secretly draining battery and\n\n2\n00:00:02,486 --> 00:00:05,041\ntracking you right now unless you change\n\n3\n00:00:05,041 --> 00:00:08,152\nthese three settings Tip one turn off\n\n4\n00:00:08,152 --> 00:00:11,753\nbackground app refresh Honestly most apps don't\n\n5\n00:00:11,753 --> 00:00:13,723\nneed to update their content while you\n\n6\n00:00:13,723 --> 00:00:15,734\nare not using them Just go to\n\n7\n00:00:15,734 --> 00:00:17,582\nyour general settings and limit it to\n\n8\n00:00:17,582 --> 00:00:20,054\nonly your essential messaging apps to save\n\n9\n00:00:20,054 --> 00:00:23,573\nmassive amounts of battery Tip two restrict\n\n10\n00:00:23,573 --> 00:00:26,889\nprecise location Do weather apps really need\n\n11\n00:00:26,889 --> 00:00:29,375\nyour exact GPS coordinates down to the\n\n12\n00:00:29,375 --> 00:00:32,989\nsingle meter Nope Switch them to approximate\n\n13\n00:00:32,989 --> 00:00:36,286\nlocation instead It keeps your privacy intact\n\n14\n00:00:36,286 --> 00:00:38,487\nwithout breaking any of your maps or\n\n15\n00:00:38,487 --> 00:00:42,269\nlocal searches Tip three disable Wi-Fi and\n\n16\n00:00:42,269 --> 00:00:44,620\nBluetooth auto connections in your control\n\n17\n00:00:44,620 --> 00:00:47,989\ncenter because leaving those open creates security\n\n18\n00:00:47,989 --> 00:00:50,870\nrisks Make sure you turn them completely\n\n19\n00:00:50,870 --> 00:00:53,288\noff in the main settings menu Your\n\n20\n00:00:53,288 --> 00:00:56,182\nphone is secretly draining battery and tracking\n\n21\n00:00:56,182 --> 00:00:57,397\nyou right now\n",
-      "tg_msg": 120,
-      "opts_msg": 122,
-      "approved_by": "you",
-      "publish_now": false,
-      "description_full": "Discover three essential tech settings you need to change immediately to boost your smartphone battery and privacy. Stop letting your phone track every move and drain power all day.\n\n#shorts #techhacks #smartphonetips #lifehacks\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review and approved by the channel owner.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-BrianMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): mephala1980 (Pixabay) https://pixabay.com/videos/id-38084/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-345076/; JonathanSlatterMusic (Pixabay) https://pixabay.com/videos/id-348444/; DistillVideos (Pixabay) https://pixabay.com/videos/id-1110/; MozoMozo (Pixabay) https://pixabay.com/videos/id-171178/; seyhmuskino (Pixabay) https://pixabay.com/videos/id-286637/; DistillVideos (Pixabay) https://pixabay.com/videos/id-21/; Mabelle-Elise (Pixabay) https://pixabay.com/videos/id-174262/; Nico_NCO (Pixabay) https://pixabay.com/videos/id-16423/; Natures_Embrace (Pixabay) https://pixabay.com/videos/id-202987/; Kanenori (Pixabay) https://pixabay.com/videos/id-283431/; Amorn_mimi (Pixabay) https://pixabay.com/videos/id-183448/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-910/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-341/; Life-Of-Vids (Pixabay) https://pixabay.com/videos/id-1623/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-780/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-1196/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-1229/; EnchantedStudios (Pixabay) https://pixabay.com/videos/id-197974/; Eartvideos (Pixabay) https://pixabay.com/videos/id-150957/; PIRO4D (Pixabay) https://pixabay.com/videos/id-6358/\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/jbjlNcYG7EY",
-          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-05T23:06:02.875648+00:00",
-      "slot": "2026-10-06T23:15:00+00:00"
-    },
-    "2026-10-06-1": {
-      "topic": {
-        "title": "Top 5 Animals That Suck At Hiding",
-        "angle": "Counting down the most hilariously bad camouflage attempts in the animal kingdom, proving that confidence is everything.",
-        "format": "ranking",
-        "tone": "funny",
-        "trend_source": "evergreen",
-        "virality_score": 10,
-        "why": "Combines a high-retention Top 5 countdown format with instant visual comedy that appeals to a broad audience, driving massive comments and loops."
-      },
-      "status": "published",
-      "by": "auto",
-      "updated": "2026-10-07T00:33:10.498712+00:00",
-      "redos": 0,
-      "package": {
-        "primary_keyword": "top 5 animals",
-        "title": "Top 5 Animals That Fail At Camouflage",
-        "hook_text": "worst hiders ever",
-        "thumbnail_text": "Failed Hiding",
-        "description": "Watch these top 5 animals that suck at hiding and fail terribly at camouflage. See the funniest animal hiders in the wild.",
-        "hashtags": [
-          "#shorts",
-          "#animals",
-          "#funnyanimals",
-          "#top5",
-          "#funny"
-        ],
-        "tags": [
-          "top 5 animals",
-          "top 5 animals funny moments",
-          "top animal fails",
-          "top 5 animals funny",
-          "animals that suck at hiding",
-          "animal fails",
-          "funny animals",
-          "funny animals shorts",
-          "worst hiders",
-          "animal humor",
-          "nature laughs",
-          "bad camouflage",
-          "funny wildlife",
-          "wildlife moments"
-        ],
-        "pinned_comment": "Which of these terrible hiders do you think gave up the easiest? Let me know below!",
-        "scenes": [
-          {
-            "text": "Some animals rely on camouflage to survive, but these ones missed that memo completely.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "forest wildlife hiding",
-              "confused animal looking"
-            ],
-            "image_prompt": "Cinematic vertical 9:16 shot of a dense green jungle with dappled sunlight, no people, photorealistic",
-            "stock_query": "forest wildlife hiding"
-          },
-          {
-            "text": "Number five. The snowflake eel lives in bright yellow coral, yet boasts bold black leopard spots that scream look at me from across the reef.",
-            "badge": "#5",
-            "label": "Snowflake Eel",
-            "stock_queries": [
-              "snowflake eel reef",
-              "moray eel swimming"
-            ],
-            "image_prompt": "Vertical 9:16 shot of a colorful coral reef underwater with clear blue water, no people",
-            "stock_query": "snowflake eel reef"
-          },
-          {
-            "text": "At number four, we have the giant panda. Black and white fur stands out against green bamboo like a tuxedo at a muddy playground.",
-            "badge": "#4",
-            "label": "Giant Panda",
-            "stock_queries": [
-              "giant panda eating",
-              "panda in bamboo"
-            ],
-            "image_prompt": "Vertical 9:16 shot of lush green bamboo forest in soft mist, no people",
-            "stock_query": "giant panda eating"
-          },
-          {
-            "text": "Number three. The ptarmigan turns stark white in winter, which is great until there is zero snow and it looks like a wandering marshmallow.",
-            "badge": "#3",
-            "label": "White Ptarmigan",
-            "stock_queries": [
-              "ptarmigan bird snow",
-              "alpine bird winter"
-            ],
-            "image_prompt": "Vertical 9:16 shot of rocky mountain slope with patches of melting snow, no people",
-            "stock_query": "ptarmigan bird snow"
-          },
-          {
-            "text": "At number two, the peacock spider tries to hide on green leaves while flashing neon pink and electric blue like a tiny floating disco ball.",
-            "badge": "#2",
-            "label": "Peacock Spider",
-            "stock_queries": [
-              "jumping spider macro",
-              "colorful spider leaf"
-            ],
-            "image_prompt": "Vertical 9:16 macro shot of a vibrant green leaf surface with soft morning dew, no people",
-            "stock_query": "jumping spider macro"
-          },
-          {
-            "text": "Number one. The red panda thinks sitting in a bright green tree wearing fiery red fur is totally stealthy, but it is basically a walking stop sign.",
-            "badge": "#1",
-            "label": "Red Panda",
-            "stock_queries": [
-              "red panda tree",
-              "red panda branch"
-            ],
-            "image_prompt": "Vertical 9:16 shot of high tree branches with green leaves against a soft background, no people",
-            "stock_query": "red panda tree"
-          },
-          {
-            "text": "Confidence is everything, because some animals rely on camouflage to survive, but...",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "funny animal face",
-              "wildlife looking around"
-            ],
-            "image_prompt": "Vertical 9:16 cinematic close-up of a whimsical forest clearing at sunset, no people",
-            "stock_query": "funny animal face"
-          }
-        ],
-        "key_facts": [
-          "Snowflake eels have black leopard spots on a yellowish body.",
-          "Giant pandas have high contrast black and white fur.",
-          "Ptarmigans molt to white plumage in winter.",
-          "Peacock spiders display vibrant iridescent colors.",
-          "Red pandas possess reddish-brown fur."
-        ],
-        "format": "ranking",
-        "tone": "funny",
-        "category": "23",
-        "script": "Some animals rely on camouflage to survive, but these ones missed that memo completely. Number five. The snowflake eel lives in bright yellow coral, yet boasts bold black leopard spots that scream look at me from across the reef. At number four, we have the giant panda. Black and white fur stands out against green bamboo like a tuxedo at a muddy playground. Number three. The ptarmigan turns stark white in winter, which is great until there is zero snow and it looks like a wandering marshmallow. At number two, the peacock spider tries to hide on green leaves while flashing neon pink and electric blue like a tiny floating disco ball. Number one. The red panda thinks sitting in a bright green tree wearing fiery red fur is totally stealthy, but it is basically a walking stop sign. Confidence is everything, because some animals rely on camouflage to survive, but...",
-        "voice": "en-US-BrianMultilingualNeural"
-      },
-      "credits": [
-        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-BrianMultilingualNeural).",
-        "Stock footage/photos (Pexels/Pixabay Content License): bijan6207 (Pixabay) https://pixabay.com/videos/id-214669/; moshehar (Pixabay) https://pixabay.com/videos/id-14869/; Mehul_photography_15 (Pixabay) https://pixabay.com/videos/id-173436/; MilanWulf (Pixabay) https://pixabay.com/videos/id-6837/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-1080/; viziter (Pixabay) https://pixabay.com/videos/id-54032/; JoshuaWoroniecki (Pixabay) https://pixabay.com/videos/id-272562/; RoyBuri (Pixabay) https://pixabay.com/videos/id-85698/; \u7d20\u541b (Pixabay) https://pixabay.com/videos/id-137015/; NickyPe (Pixabay) https://pixabay.com/videos/id-191159/; heimseiten_WebdesignKoeln (Pixabay) https://pixabay.com/videos/id-8558/; NguyenTham_NTB (Pixabay) https://pixabay.com/videos/id-327101/; BlenderTimer (Pixabay) https://pixabay.com/videos/id-206285/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-642/; FernandoChile (Pixabay) https://pixabay.com/videos/id-7795/; Yocchi09 (Pixabay) https://pixabay.com/videos/id-367162/; NickyPe (Pixabay) https://pixabay.com/videos/id-90290/; McPix22 (Pixabay) https://pixabay.com/videos/id-206623/; gustavo_belemmi (Pixabay) https://pixabay.com/videos/id-2879/; Shravan1991 (Pixabay) https://pixabay.com/videos/id-206294/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-305342/"
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-06",
-        "name": "2026-10-06-1-v0.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-06",
-        "name": "2026-10-06-1-v0-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,095 --> 00:00:03,628\nSome animals rely on camouflage to survive\n\n2\n00:00:03,628 --> 00:00:06,617\nbut these ones missed that memo completely\n\n3\n00:00:06,617 --> 00:00:09,429\nNumber five The snowflake eel lives in\n\n4\n00:00:09,429 --> 00:00:12,731\nbright yellow coral yet boasts bold black\n\n5\n00:00:12,731 --> 00:00:14,783\nleopard spots that scream look at me\n\n6\n00:00:14,783 --> 00:00:17,305\nfrom across the reef At number four\n\n7\n00:00:17,305 --> 00:00:19,660\nwe have the giant panda Black and\n\n8\n00:00:19,660 --> 00:00:22,296\nwhite fur stands out against green bamboo\n\n9\n00:00:22,296 --> 00:00:24,986\nlike a tuxedo at a muddy playground\n\n10\n00:00:24,986 --> 00:00:27,948\nNumber three The ptarmigan turns stark white\n\n11\n00:00:27,948 --> 00:00:30,435\nin winter which is great until there\n\n12\n00:00:30,435 --> 00:00:32,174\nis zero snow and it looks like\n\n13\n00:00:32,174 --> 00:00:35,380\na wandering marshmallow At number two the\n\n14\n00:00:35,380 --> 00:00:37,704\npeacock spider tries to hide on green\n\n15\n00:00:37,704 --> 00:00:40,815\nleaves while flashing neon pink and electric\n\n16\n00:00:40,815 --> 00:00:43,927\nblue like a tiny floating disco ball\n\n17\n00:00:43,927 --> 00:00:46,535\nNumber one The red panda thinks sitting\n\n18\n00:00:46,535 --> 00:00:48,546\nin a bright green tree wearing fiery\n\n19\n00:00:48,546 --> 00:00:51,182\nred fur is totally stealthy but it\n\n20\n00:00:51,182 --> 00:00:54,198\nis basically a walking stop sign Confidence\n\n21\n00:00:54,198 --> 00:00:56,712\nis everything because some animals rely on\n\n22\n00:00:56,712 --> 00:00:59,395\ncamouflage to survive but\n",
-      "tg_msg": 148,
-      "opts_msg": 150,
-      "approved_by": "auto",
-      "description_full": "Watch these top 5 animals that suck at hiding and fail terribly at camouflage. See the funniest animal hiders in the wild.\n\n#shorts #animals #funnyanimals #top5 #funny\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-BrianMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): bijan6207 (Pixabay) https://pixabay.com/videos/id-214669/; moshehar (Pixabay) https://pixabay.com/videos/id-14869/; Mehul_photography_15 (Pixabay) https://pixabay.com/videos/id-173436/; MilanWulf (Pixabay) https://pixabay.com/videos/id-6837/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-1080/; viziter (Pixabay) https://pixabay.com/videos/id-54032/; JoshuaWoroniecki (Pixabay) https://pixabay.com/videos/id-272562/; RoyBuri (Pixabay) https://pixabay.com/videos/id-85698/; \u7d20\u541b (Pixabay) https://pixabay.com/videos/id-137015/; NickyPe (Pixabay) https://pixabay.com/videos/id-191159/; heimseiten_WebdesignKoeln (Pixabay) https://pixabay.com/videos/id-8558/; NguyenTham_NTB (Pixabay) https://pixabay.com/videos/id-327101/; BlenderTimer (Pixabay) https://pixabay.com/videos/id-206285/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-642/; FernandoChile (Pixabay) https://pixabay.com/videos/id-7795/; Yocchi09 (Pixabay) https://pixabay.com/videos/id-367162/; NickyPe (Pixabay) https://pixabay.com/videos/id-90290/; McPix22 (Pixabay) https://pixabay.com/videos/id-206623/; gustavo_belemmi (Pixabay) https://pixabay.com/videos/id-2879/; Shravan1991 (Pixabay) https://pixabay.com/videos/id-206294/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-305342/\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/R9g9KGmMp4Q",
-          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-07T00:33:10.498726+00:00",
-      "slot": "2026-10-07T01:15:00+00:00"
-    },
-    "2026-10-06-2": {
-      "topic": {
-        "title": "Top 5 Space Events Happening This Month",
-        "angle": "A countdown of the most incredible upcoming cosmic events visible from Earth that you shouldn't miss.",
-        "format": "ranking",
-        "tone": "normal",
-        "trend_source": "crescent moon jupiter",
-        "virality_score": 9,
-        "why": "Capitalizes on active search interest in astronomy events like Jupiter and the moon while delivering high-value, visually engaging space facts."
-      },
-      "status": "published",
-      "by": "auto",
-      "updated": "2026-10-07T00:33:18.498333+00:00",
-      "redos": 0,
-      "package": {
-        "primary_keyword": "top 5 space events",
-        "title": "Top 5 Space Events This Month You Cannot Miss",
-        "hook_text": "CRAZY SPACE EVENTS",
-        "thumbnail_text": "DON'T MISS THIS",
-        "description": "Discover the top 5 space events happening this month that are easily visible from your backyard right now. Get ready for some incredible cosmic sights.",
-        "hashtags": [
-          "#shorts",
-          "#space",
-          "#astronomy",
-          "#top5"
-        ],
-        "tags": [
-          "top 5 space events",
-          "space events this month",
-          "space events happening this month",
-          "night sky events",
-          "stargazing tips",
-          "astronomy events",
-          "stargazing guide",
-          "space events this year",
-          "top 5 astronomical events in 2025",
-          "upcoming space events",
-          "meteor showers",
-          "cosmos tonight",
-          "visible planets",
-          "planet conjunction"
-        ],
-        "pinned_comment": "Which of these cosmic sights are you hoping to catch through your telescope this month? Let me know below!",
-        "scenes": [
-          {
-            "text": "You seriously won't believe what our night sky is about to do this month.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "stargazing night sky",
-              "milky way timelapse"
-            ],
-            "image_prompt": "Vertical 9:16 cinematic shot of a starry night sky with the Milky Way arching over a silhouette of mountains, no text, highly detailed.",
-            "stock_query": "stargazing night sky"
-          },
-          {
-            "text": "Number five, the brilliant Venus and Jupiter close encounter lights up dawn. You can spot this stunning pair shining brightly together just before sunrise without any telescope at all.",
-            "badge": "#5",
-            "label": "Planet Conjunction",
-            "stock_queries": [
-              "bright planets conjunction",
-              "sunrise over horizon"
-            ],
-            "image_prompt": "Vertical 9:16 view of two extremely bright planets glowing close together in the twilight sky before dawn, no text.",
-            "stock_query": "bright planets conjunction"
-          },
-          {
-            "text": "At number four, the Lyrid meteor shower peak arrives mid-month. Find a dark spot away from city lights, kick back, and you might catch up to twenty shooting stars every single hour.",
-            "badge": "#4",
-            "label": "Meteor Shower",
-            "stock_queries": [
-              "shooting star streak",
-              "perseid meteor shower"
-            ],
-            "image_prompt": "Vertical 9:16 image of a bright shooting star streak cutting across a dark night sky filled with stars, no text.",
-            "stock_query": "shooting star streak"
-          },
-          {
-            "text": "Number three brings us a gorgeous crescent moon near Mars. Wait until dusk settles, and you will see the red planet glowing with a distinct amber hue right beside our lunar neighbor.",
-            "badge": "#3",
-            "label": "Moon And Mars",
-            "stock_queries": [
-              "crescent moon close up",
-              "red planet mars"
-            ],
-            "image_prompt": "Vertical 9:16 shot of a slim crescent moon glowing next to a distinct reddish planet in the twilight sky, no text.",
-            "stock_query": "crescent moon close up"
-          },
-          {
-            "text": "At number two, Saturn rings reach optimal tilt. Grab even a basic backyard telescope, and you will clearly see those iconic gas giant rings popping into crisp and stunning focus.",
-            "badge": "#2",
-            "label": "Saturn Rings View",
-            "stock_queries": [
-              "telescope view saturn",
-              "ringed planet space"
-            ],
-            "image_prompt": "Vertical 9:16 image of the planet Saturn with its prominent rings clearly visible against deep black space, no text.",
-            "stock_query": "telescope view saturn"
-          },
-          {
-            "text": "And the absolute best at number one, a rare total lunar eclipse turns the moon blood red. For over an hour, the entire lunar disk glows in deep copper, and you seriously won't believe your eyes when you look up.",
-            "badge": "#1",
-            "label": "Total Lunar Eclipse",
-            "stock_queries": [
-              "blood moon eclipse",
-              "total lunar eclipse"
-            ],
-            "image_prompt": "Vertical 9:16 dramatic shot of a total lunar eclipse with the moon glowing a deep fiery red color, no text.",
-            "stock_query": "blood moon eclipse"
-          },
-          {
-            "text": "So grab your jacket tonight because you seriously won't believe",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "person looking at stars",
-              "astronomer with telescope"
-            ],
-            "image_prompt": "Vertical 9:16 view of an observatory dome opening up under a vast starry sky, no text.",
-            "stock_query": "person looking at stars"
-          }
-        ],
-        "key_facts": [
-          "Venus and Jupiter can appear in close conjunction in the morning sky.",
-          "The Lyrid meteor shower peaks in mid-April with up to twenty meteors per hour.",
-          "The crescent moon frequently appears near planets like Mars.",
-          "Saturn can be viewed with basic backyard telescopes.",
-          "Total lunar eclipses cause the moon to turn a deep copper or red color."
-        ],
-        "format": "ranking",
-        "tone": "normal",
-        "category": "27",
-        "script": "You seriously won't believe what our night sky is about to do this month. Number five, the brilliant Venus and Jupiter close encounter lights up dawn. You can spot this stunning pair shining brightly together just before sunrise without any telescope at all. At number four, the Lyrid meteor shower peak arrives mid-month. Find a dark spot away from city lights, kick back, and you might catch up to twenty shooting stars every single hour. Number three brings us a gorgeous crescent moon near Mars. Wait until dusk settles, and you will see the red planet glowing with a distinct amber hue right beside our lunar neighbor. At number two, Saturn rings reach optimal tilt. Grab even a basic backyard telescope, and you will clearly see those iconic gas giant rings popping into crisp and stunning focus. And the absolute best at number one, a rare total lunar eclipse turns the moon blood red. For over an hour, the entire lunar disk glows in deep copper, and you seriously won't believe your eyes when you look up. So grab your jacket tonight because you seriously won't believe",
-        "voice": "en-AU-WilliamMultilingualNeural"
-      },
-      "credits": [
-        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-AU-WilliamMultilingualNeural).",
-        "Stock footage/photos (Pexels/Pixabay Content License): ZT_OSCAR (Pixabay) https://pixabay.com/videos/id-283666/; Kanenori (Pixabay) https://pixabay.com/videos/id-285663/; Osckar (Pixabay) https://pixabay.com/videos/id-2118/; BlenderTimer (Pixabay) https://pixabay.com/photos/water-ocean-underwater-sea-sky-6061472/; TBIT (Pixabay) https://pixabay.com/videos/id-1175/; xBriantcx (Pixabay) https://pixabay.com/videos/id-247208/",
-        "NASA / JPL: \"What's Up: May 2026 Skywatching Tips from NASA\" (public domain)",
-        "NASA / JPL: \"What's Up: August 2020 Skywatching Tips from NASA\" (public domain)",
-        "NASA / JSC: \"Lunar Observations taken by the STS-130 Crew\" (public domain)",
-        "NASA / JPL: \"How Do Sounds on Mars Differ from Sounds on Earth?\" (public domain)",
-        "NASA / JPL: \"Flying Past Pluto Animation\" (public domain)",
-        "NASA / JPL: \"What's Up: October 2026 Skywatching Tips from NASA\" (public domain)",
-        "NASA / KSC: \"KSC-04-S-00195\" (public domain)",
-        "NASA / JPL: \"Peeking over Saturn Shoulder\" (public domain)",
-        "NASA / JPL: \"What's Up: May 2021 Skywatching Tips from NASA\" (public domain)",
-        "NASA / HQ: \"Total Lunar Eclipse\" (public domain)",
-        "NASA / KSC: \"Full Moon at KSC\" (public domain)",
-        "NASA / KSC: \"KSC-05-S-00277\" (public domain)",
-        "NASA / JPL: \"NASA Telescopes Reveal an Invisible Infrared Universe\" (public domain)"
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-06",
-        "name": "2026-10-06-2-v0.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-06",
-        "name": "2026-10-06-2-v0-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,050 --> 00:00:01,997\nYou seriously won't believe what our night\n\n2\n00:00:01,997 --> 00:00:03,860\nsky is about to do this month\n\n3\n00:00:03,860 --> 00:00:06,745\nNumber five the brilliant Venus and Jupiter close\n\n4\n00:00:06,745 --> 00:00:09,161\nencounter lights up dawn You can spot\n\n5\n00:00:09,161 --> 00:00:11,156\nthis stunning pair shining brightly together\n\n6\n00:00:11,156 --> 00:00:13,379\njust before sunrise without any telescope at\n\n7\n00:00:13,379 --> 00:00:16,024\nall At number four the Lyrid meteor\n\n8\n00:00:16,024 --> 00:00:18,512\nshower peak arrives mid-month Find a dark\n\n9\n00:00:18,512 --> 00:00:20,951\nspot away from city lights kick back\n\n10\n00:00:20,951 --> 00:00:22,093\nand you might catch up to twenty\n\n11\n00:00:22,093 --> 00:00:24,870\nshooting stars every single hour Number three\n\n12\n00:00:24,870 --> 00:00:26,576\nbrings us a gorgeous crescent moon near\n\n13\n00:00:26,576 --> 00:00:29,305\nMars Wait until dusk settles and you\n\n14\n00:00:29,305 --> 00:00:30,855\nwill see the red planet glowing with\n\n15\n00:00:30,855 --> 00:00:32,802\na distinct amber hue right beside our\n\n16\n00:00:32,802 --> 00:00:35,675\nlunar neighbor At number two Saturn rings\n\n17\n00:00:35,675 --> 00:00:38,127\nreach optimal tilt Grab even a basic\n\n18\n00:00:38,127 --> 00:00:40,302\nbackyard telescope and you will clearly see\n\n19\n00:00:40,302 --> 00:00:42,406\nthose iconic gas giant rings popping into\n\n20\n00:00:42,406 --> 00:00:45,014\ncrisp and stunning focus And the absolute\n\n21\n00:00:45,014 --> 00:00:47,021\nbest at number one a rare total\n\n22\n00:00:47,021 --> 00:00:49,377\nlunar eclipse turns the moon blood red\n\n23\n00:00:49,377 --> 00:00:51,408\nFor over an hour the entire lunar\n\n24\n00:00:51,408 --> 00:00:53,367\ndisk glows in deep copper and you\n\n25\n00:00:53,367 --> 00:00:55,098\nseriously won't believe your eyes when you\n\n26\n00:00:55,098 --> 00:00:57,274\nlook up So grab your jacket tonight\n\n27\n00:00:57,274 --> 00:00:59,440\nbecause you seriously won't believe\n",
-      "tg_msg": 151,
-      "opts_msg": 153,
-      "approved_by": "auto",
-      "description_full": "Discover the top 5 space events happening this month that are easily visible from your backyard right now. Get ready for some incredible cosmic sights.\n\n#shorts #space #astronomy #top5\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-AU-WilliamMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): ZT_OSCAR (Pixabay) https://pixabay.com/videos/id-283666/; Kanenori (Pixabay) https://pixabay.com/videos/id-285663/; Osckar (Pixabay) https://pixabay.com/videos/id-2118/; BlenderTimer (Pixabay) https://pixabay.com/photos/water-ocean-underwater-sea-sky-6061472/; TBIT (Pixabay) https://pixabay.com/videos/id-1175/; xBriantcx (Pixabay) https://pixabay.com/videos/id-247208/\nNASA / JPL: \"What's Up: May 2026 Skywatching Tips from NASA\" (public domain)\nNASA / JPL: \"What's Up: August 2020 Skywatching Tips from NASA\" (public domain)\nNASA / JSC: \"Lunar Observations taken by the STS-130 Crew\" (public domain)\nNASA / JPL: \"How Do Sounds on Mars Differ from Sounds on Earth?\" (public domain)\nNASA / JPL: \"Flying Past Pluto Animation\" (public domain)\nNASA / JPL: \"What's Up: October 2026 Skywatching Tips from NASA\" (public domain)\nNASA / KSC: \"KSC-04-S-00195\" (public domain)\nNASA / JPL: \"Peeking over Saturn Shoulder\" (public domain)\nNASA / JPL: \"What's Up: May 2021 Skywatching Tips from NASA\" (public domain)\nNASA / HQ: \"Total Lunar Eclipse\" (public domain)\nNASA / KSC: \"Full Moon at KSC\" (public domain)\nNASA / KSC: \"KSC-05-S-00277\" (public domain)\nNASA / JPL: \"NASA Telescopes Reveal an Invisible Infrared Universe\" (public domain)\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/YkmLIkMsEp4",
-          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-07T00:33:18.498345+00:00",
-      "slot": "2026-10-07T16:15:00+00:00"
-    },
-    "2026-10-06-3": {
-      "topic": {
-        "title": "Top 5 Most Absurd Smartphone Glitches Ever",
-        "angle": "A countdown of the weirdest, funniest bugs and error messages users have ever encountered on their phones.",
-        "format": "ranking",
-        "tone": "funny",
-        "trend_source": "downdetector",
-        "virality_score": 9,
-        "why": "Rides the trending wave of app outages and technical glitches with lighthearted, relatable humor that everyone who owns a phone can connect with."
-      },
-      "status": "published",
-      "by": "auto",
-      "updated": "2026-10-07T00:33:28.353622+00:00",
-      "redos": 0,
-      "package": {
-        "primary_keyword": "smartphone glitches",
-        "title": "Top 5 most absurd smartphone glitches ever",
-        "hook_text": "Phones losing their minds",
-        "thumbnail_text": "Phone Glitches",
-        "description": "Discover the top 5 most absurd smartphone glitches ever caught on camera. You won't believe these hilarious phone errors exist.",
-        "hashtags": [
-          "#shorts",
-          "#tech",
-          "#smartphoneglitches",
-          "#top5",
-          "#funny"
-        ],
-        "tags": [
-          "smartphone glitches",
-          "weird phone",
-          "top 5 glitches",
-          "mobile glitches",
-          "weird phone sounds",
-          "funny phone bugs",
-          "weird phone errors",
-          "phone freeze funny",
-          "weird phone behavior",
-          "hilarious software bugs",
-          "glitch cell phone",
-          "weirdest phone calls",
-          "tech fails",
-          "funny technology",
-          "smartphone errors"
-        ],
-        "pinned_comment": "Which of these smartphone glitches would make you throw your phone right out the window?",
-        "scenes": [
-          {
-            "text": "Your phone is spying on you, and honestly, it's just really confused about what it's doing.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "confused person looking at phone",
-              "glitching smartphone screen"
-            ],
-            "image_prompt": "Vertical 9:16 abstract digital glitch on a smartphone screen, vibrant neon colors, no text, no people.",
-            "stock_query": "confused person looking at phone"
-          },
-          {
-            "text": "Number five, the infinite app drawer spiral. Your apps just dance in circles like they joined a conga line.",
-            "badge": "#5",
-            "label": "App Conga Line",
-            "stock_queries": [
-              "spinning phone icons",
-              "chaotic app menu"
-            ],
-            "image_prompt": "Vertical 9:16 image of glowing app icons spinning in a chaotic circle on a dark background, no text.",
-            "stock_query": "spinning phone icons"
-          },
-          {
-            "text": "At number four, the ghost touch typing. It texts your boss pure gibberish while you sleep. Thanks a lot, artificial intelligence.",
-            "badge": "#4",
-            "label": "Ghost Typing",
-            "stock_queries": [
-              "typing on smartphone fast",
-              "person sleeping with phone"
-            ],
-            "image_prompt": "Vertical 9:16 image of random letters floating above a glowing smartphone keyboard in the dark, no text.",
-            "stock_query": "typing on smartphone fast"
-          },
-          {
-            "text": "Number three, the upside down world. Your screen flips and refuses to change back, forcing you to read everything like a bat.",
-            "badge": "#3",
-            "label": "Inverted Screen",
-            "stock_queries": [
-              "upside down smartphone",
-              "confused user looking down"
-            ],
-            "image_prompt": "Vertical 9:16 image of a smartphone displaying an upside down user interface, surreal lighting, no text.",
-            "stock_query": "upside down smartphone"
-          },
-          {
-            "text": "At number two, the billion percent battery. It claims your phone can power a small city for a decade before dying instantly.",
-            "badge": "#2",
-            "label": "Infinite Battery",
-            "stock_queries": [
-              "battery charging icon",
-              "smartphone battery low"
-            ],
-            "image_prompt": "Vertical 9:16 image of a futuristic battery indicator showing an absurd percentage, glowing cyan, no text.",
-            "stock_query": "battery charging icon"
-          },
-          {
-            "text": "Number one, the wallpaper inception. Your camera shows your home screen inside your home screen forever, creating a portal to nowhere.",
-            "badge": "#1",
-            "label": "Wallpaper Inception",
-            "stock_queries": [
-              "infinite mirror effect",
-              "tunnel vision abstract"
-            ],
-            "image_prompt": "Vertical 9:16 image of an infinite recursive screen tunnel effect on a mobile display, highly detailed, no text.",
-            "stock_query": "infinite mirror effect"
-          },
-          {
-            "text": "Seriously, it is amazing that your phone is spying on you, and honestly, it's just really confused.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "laughing person holding phone",
-              "glitching tech abstract"
-            ],
-            "image_prompt": "Vertical 9:16 image of a smartphone sparking with friendly colorful digital static, fun and quirky, no text.",
-            "stock_query": "laughing person holding phone"
-          }
-        ],
-        "key_facts": [
-          "Some smartphones experience UI rendering loops where icons spin.",
-          "Ghost touches can register unintended inputs.",
-          "Orientation sensors can occasionally invert the display permanently until rebooted.",
-          "Battery percentage indicators can glitch to display incorrect high values.",
-          "Camera preview loops can create visual inception effects."
-        ],
-        "format": "ranking",
-        "tone": "funny",
-        "category": "23",
-        "script": "Your phone is spying on you, and honestly, it's just really confused about what it's doing. Number five, the infinite app drawer spiral. Your apps just dance in circles like they joined a conga line. At number four, the ghost touch typing. It texts your boss pure gibberish while you sleep. Thanks a lot, artificial intelligence. Number three, the upside down world. Your screen flips and refuses to change back, forcing you to read everything like a bat. At number two, the billion percent battery. It claims your phone can power a small city for a decade before dying instantly. Number one, the wallpaper inception. Your camera shows your home screen inside your home screen forever, creating a portal to nowhere. Seriously, it is amazing that your phone is spying on you, and honestly, it's just really confused.",
-        "voice": "en-US-EmmaMultilingualNeural"
-      },
-      "credits": [
-        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-EmmaMultilingualNeural).",
-        "Stock footage/photos (Pexels/Pixabay Content License): mephala1980 (Pixabay) https://pixabay.com/videos/id-38084/; DistillVideos (Pixabay) https://pixabay.com/videos/id-1110/; TheDigitalArtist (Pixabay) https://pixabay.com/videos/id-3264/; MozoMozo (Pixabay) https://pixabay.com/videos/id-171178/; Activedia (Pixabay) https://pixabay.com/videos/id-1360/; Coverr-Free-Footage (Pixabay) https://pixabay.com/videos/id-1656/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-729/; Eartvideos (Pixabay) https://pixabay.com/videos/id-150957/; Eartvideos (Pixabay) https://pixabay.com/videos/id-150959/; Kanenori (Pixabay) https://pixabay.com/videos/id-327359/; Natures_Embrace (Pixabay) https://pixabay.com/videos/id-202987/; YRDesigns (Pixabay) https://pixabay.com/videos/id-290480/; tarinul_amin (Pixabay) https://pixabay.com/videos/id-181424/; YRDesigns (Pixabay) https://pixabay.com/videos/id-290478/; TheDigitalArtist (Pixabay) https://pixabay.com/videos/id-1063/; Activedia (Pixabay) https://pixabay.com/videos/id-1372/; Payne_Backgrounds (Pixabay) https://pixabay.com/videos/id-108095/; Stuck1 (Pixabay) https://pixabay.com/videos/id-32938/; RostislavUzunov (Pixabay) https://pixabay.com/videos/id-237500/; Engin_Akyurt (Pixabay) https://pixabay.com/videos/id-61298/"
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-06",
-        "name": "2026-10-06-3-v0.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-06",
-        "name": "2026-10-06-3-v0-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,109 --> 00:00:02,052\nYour phone is spying on you and\n\n2\n00:00:02,052 --> 00:00:04,823\nhonestly it's just really confused about what\n\n3\n00:00:04,823 --> 00:00:07,690\nit's doing Number five the infinite app\n\n4\n00:00:07,690 --> 00:00:10,516\ndrawer spiral Your apps just dance in\n\n5\n00:00:10,516 --> 00:00:13,166\ncircles like they joined a conga line\n\n6\n00:00:13,166 --> 00:00:16,250\nAt number four the ghost touch typing\n\n7\n00:00:16,250 --> 00:00:18,356\nIt texts your boss pure gibberish while\n\n8\n00:00:18,356 --> 00:00:22,622\nyou sleep Thanks a lot artificial intelligence\n\n9\n00:00:22,622 --> 00:00:25,340\nNumber three the upside down world Your\n\n10\n00:00:25,340 --> 00:00:28,356\nscreen flips and refuses to change back\n\n11\n00:00:28,356 --> 00:00:30,312\nforcing you to read everything like a\n\n12\n00:00:30,312 --> 00:00:33,179\nbat At number two the billion percent\n\n13\n00:00:33,179 --> 00:00:35,802\nbattery It claims your phone can power\n\n14\n00:00:35,802 --> 00:00:37,826\na small city for a decade before\n\n15\n00:00:37,826 --> 00:00:42,541\ndying instantly Number one the wallpaper inception\n\n16\n00:00:42,541 --> 00:00:44,905\nYour camera shows your home screen inside\n\n17\n00:00:44,905 --> 00:00:47,609\nyour home screen forever creating a portal\n\n18\n00:00:47,609 --> 00:00:50,951\nto nowhere Seriously it is amazing that\n\n19\n00:00:50,951 --> 00:00:53,003\nyour phone is spying on you and\n\n20\n00:00:53,003 --> 00:00:55,903\nhonestly it's just really confused\n",
-      "tg_msg": 154,
-      "opts_msg": 156,
-      "approved_by": "auto",
-      "description_full": "Discover the top 5 most absurd smartphone glitches ever caught on camera. You won't believe these hilarious phone errors exist.\n\n#shorts #tech #smartphoneglitches #top5 #funny\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-EmmaMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): mephala1980 (Pixabay) https://pixabay.com/videos/id-38084/; DistillVideos (Pixabay) https://pixabay.com/videos/id-1110/; TheDigitalArtist (Pixabay) https://pixabay.com/videos/id-3264/; MozoMozo (Pixabay) https://pixabay.com/videos/id-171178/; Activedia (Pixabay) https://pixabay.com/videos/id-1360/; Coverr-Free-Footage (Pixabay) https://pixabay.com/videos/id-1656/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-729/; Eartvideos (Pixabay) https://pixabay.com/videos/id-150957/; Eartvideos (Pixabay) https://pixabay.com/videos/id-150959/; Kanenori (Pixabay) https://pixabay.com/videos/id-327359/; Natures_Embrace (Pixabay) https://pixabay.com/videos/id-202987/; YRDesigns (Pixabay) https://pixabay.com/videos/id-290480/; tarinul_amin (Pixabay) https://pixabay.com/videos/id-181424/; YRDesigns (Pixabay) https://pixabay.com/videos/id-290478/; TheDigitalArtist (Pixabay) https://pixabay.com/videos/id-1063/; Activedia (Pixabay) https://pixabay.com/videos/id-1372/; Payne_Backgrounds (Pixabay) https://pixabay.com/videos/id-108095/; Stuck1 (Pixabay) https://pixabay.com/videos/id-32938/; RostislavUzunov (Pixabay) https://pixabay.com/videos/id-237500/; Engin_Akyurt (Pixabay) https://pixabay.com/videos/id-61298/\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/ia9-sh44BqQ",
-          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-07T00:33:28.353637+00:00",
-      "slot": "2026-10-07T19:15:00+00:00"
-    },
     "2026-10-06-4": {
       "topic": {
         "title": "Top 5 Historic Sports Comebacks",
@@ -10294,9 +9577,9 @@
         "virality_score": 9,
         "why": "Drives massive comment section engagement as viewers argue about the answer, boosting algorithmic distribution."
       },
-      "status": "approved",
+      "status": "published",
       "by": "auto",
-      "updated": "2026-10-13T07:40:42.581189+00:00",
+      "updated": "2026-10-14T09:01:14.641774+00:00",
       "redos": 0,
       "package": {
         "primary_keyword": "physics illusions",
@@ -10659,7 +9942,28 @@
       "tg_msg": 330,
       "opts_msg": 332,
       "approved_by": "auto",
-      "quota_note": "2026-10-14"
+      "quota_note": "2026-10-14",
+      "description_full": "Test your brain with three fast-paced physics illusions where rolling objects seem to defy gravity. Can you get all three right before the timer runs out?\n\n#shorts #science #physics #quiz\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Google Text-to-Speech).\nStock footage/photos (Pexels/Pixabay Content License): choxyltd (Pixabay) https://pixabay.com/videos/id-223625/; 44276297 (Pixabay) https://pixabay.com/videos/id-217293/; BayBank (Pixabay) https://pixabay.com/videos/id-324247/\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/BBkpO9DoDg8",
+          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-10-14T09:01:14.641790+00:00",
+      "slot": "2026-10-14T16:15:00+00:00"
     },
     "2026-10-12-2-3": {
       "topic": {
@@ -10671,9 +9975,9 @@
         "virality_score": 8,
         "why": "Taps into food curiosity and general interest, creating immediate debate in comments about favorite flavors."
       },
-      "status": "approved",
+      "status": "published",
       "by": "auto",
-      "updated": "2026-10-13T07:46:40.335454+00:00",
+      "updated": "2026-10-14T09:01:24.488608+00:00",
       "redos": 0,
       "package": {
         "primary_keyword": "foods that smell terrible",
@@ -10994,7 +10298,28 @@
       "tg_msg": 333,
       "opts_msg": 335,
       "approved_by": "auto",
-      "quota_note": "2026-10-14"
+      "quota_note": "2026-10-14",
+      "description_full": "Discover the top 5 foods that smell terrible but taste incredible, used by world-class chefs to boost flavor. Learn which stinky ingredients are actually culinary gold.\n\n#shorts #food #cooking #top5\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Google Text-to-Speech).\nStock footage/photos (Pexels/Pixabay Content License): GreenCardShow (Pixabay) https://pixabay.com/videos/id-11291/; XiaosKitchen (Pixabay) https://pixabay.com/videos/id-11657/; XiaosKitchen (Pixabay) https://pixabay.com/videos/id-11643/; truthseeker08 (Pixabay) https://pixabay.com/photos/tropical-fruit-durian-tropical-3596787/; najibzamri (Pixabay) https://pixabay.com/photos/durian-fruit-food-produce-healthy-6579894/; PDPhotos (Pixabay) https://pixabay.com/photos/danish-blue-cheese-blue-mold-mould-3553/; PDPhotos (Pixabay) https://pixabay.com/photos/shropshire-blue-cheese-blue-mold-3534/; PDPhotos (Pixabay) https://pixabay.com/photos/cabrales-cheese-blue-mold-mould-3499/; XiaosKitchen (Pixabay) https://pixabay.com/videos/id-11631/; XiaosKitchen (Pixabay) https://pixabay.com/videos/id-11714/; XiaosKitchen (Pixabay) https://pixabay.com/videos/id-11686/\nCarlquist, Sherwin John, 1930-2021 / Wikimedia Commons (CC BY 4.0) https://commons.wikimedia.org/wiki/File:(Durian_fruit_cut_open,_Bangkok,_Thailand)_-_DPLA_-_ccf52c1d4ea285fbe5fd580a8930c214.jpg\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/0zeLz09aoaM",
+          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-10-14T09:01:24.488623+00:00",
+      "slot": "2026-10-14T19:15:00+00:00"
     },
     "2026-10-12-2-4": {
       "topic": {
@@ -11006,9 +10331,9 @@
         "virality_score": 8,
         "why": "Relatable frustration humor triggers high shares and strong viewer retention through quick visual punchlines."
       },
-      "status": "approved",
+      "status": "published",
       "by": "auto",
-      "updated": "2026-10-13T07:55:09.324855+00:00",
+      "updated": "2026-10-14T09:01:32.301232+00:00",
       "redos": 0,
       "package": {
         "primary_keyword": "worst design fails",
@@ -11339,7 +10664,28 @@
       "tg_msg": 336,
       "opts_msg": 338,
       "approved_by": "auto",
-      "quota_note": "2026-10-14"
+      "quota_note": "2026-10-14",
+      "description_full": "Discover the top five worst design fails in everyday architecture that make no sense at all. Can you guess which hilarious blunder takes the number one spot?\n\n#shorts #architecture #designfails #top5 #funny\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Google Text-to-Speech).\nStock footage/photos (Pexels/Pixabay Content License): TungArt7 (Pixabay) https://pixabay.com/videos/id-272519/; Life-Of-Vids (Pixabay) https://pixabay.com/videos/id-2334/; KM007_ (Pixabay) https://pixabay.com/videos/id-91744/; ekk814 (Pixabay) https://pixabay.com/photos/stair-wall-white-house-interior-1743963/; ekk814 (Pixabay) https://pixabay.com/photos/stair-wall-white-house-interior-1743959/; dimitrisvetsikas1969 (Pixabay) https://pixabay.com/photos/house-window-door-architecture-3214744/; caelan (Pixabay) https://pixabay.com/videos/id-30121/; caelan (Pixabay) https://pixabay.com/videos/id-48686/; blackmarketmusic (Pixabay) https://pixabay.com/videos/id-141189/; TungArt7 (Pixabay) https://pixabay.com/videos/id-272516/\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/clqJFEMO-kw",
+          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-10-14T09:01:32.301246+00:00",
+      "slot": "2026-10-14T23:15:00+00:00"
     },
     "2026-10-13-1": {
       "topic": {
@@ -11351,9 +10697,9 @@
         "trend_source": "Why Bighorn Sheep Smash Their Heads Together (Events Untold, 27.7x, The Stack); Pinkchyu ROASTS Goth Girl With SAVAGE Comeback! (DarkRa, 1873.3x); Papi arruina el pastel + novio al rescate = CAOS (Latina Mami, 74.0x, The Stack); BOYS' FIRST STEP TO MANHOOD (Baccha Mat Bolna, 59.4x)",
         "plan_id": "P2026-10-13-01"
       },
-      "status": "approved",
+      "status": "published",
       "by": "auto",
-      "updated": "2026-10-13T20:54:57.103426+00:00",
+      "updated": "2026-10-14T09:01:45.719725+00:00",
       "redos": 0,
       "package": {
         "primary_keyword": "longest living animals",
@@ -11677,7 +11023,28 @@
       "tg_msg": 353,
       "opts_msg": 355,
       "approved_by": "auto",
-      "quota_note": "2026-10-14"
+      "quota_note": "2026-10-14",
+      "description_full": "These are the longest living animals on Earth, from a tortoise of about 194 to Ming the clam, the oldest animal in the world ever aged at 507 years. Number one is the immortal jellyfish, which can restart its own life.\n\nIn this Short: Jonathan the tortoise, the bowhead whale, the Greenland shark, Ming the clam and the immortal jellyfish.\n\nSources:\nhttps://www.cnn.com/2026/10/09/science/jonathan-tortoise-longevity-genetics\nhttps://www.gi.alaska.edu/alaska-science-forum/bowhead-whales-may-be-worlds-oldest-mammals\nhttps://maritime-executive.com/article/greenland-shark-nearly-four-hundred-years-old\n\n#shorts #animals #animalfacts #nature #top5\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AndrewMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-379545/; needvid (Pixabay) https://pixabay.com/videos/id-15063/; moshehar (Pixabay) https://pixabay.com/videos/id-13823/; needvid (Pixabay) https://pixabay.com/videos/id-15728/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-376846/; waiguobox (Pixabay) https://pixabay.com/videos/id-161946/; Codevionix (Pixabay) https://pixabay.com/videos/id-345424/; ArteOfTheSol (Pixabay) https://pixabay.com/videos/id-147384/; Islamicprince_77 (Pixabay) https://pixabay.com/videos/id-247497/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-334192/; ChristianBodhi (Pixabay) https://pixabay.com/videos/id-213616/\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/x3r6h3Bj1TI",
+          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-10-14T09:01:45.719739+00:00",
+      "slot": "2026-10-15T01:15:00+00:00"
     },
     "2026-10-13-2": {
       "topic": {
