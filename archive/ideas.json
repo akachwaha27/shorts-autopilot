@@ -1078,5 +1078,67 @@
   ],
   "sent_at": "2026-10-13T20:22:05.013168+00:00",
   "status": "closed"
+ },
+ "2026-10-14": {
+  "date": "2026-10-14",
+  "ideas": [
+   {
+    "angle": "Kind animal comedy dominates the top outliers (58.8x and 47.0x funny/relatable Shorts) and Google Trends has 'montana snow today' riding on a dog with 'zero chill' about the first snow, so a funny snow-day countdown rides the moment.",
+    "format": "ranking",
+    "picked": false,
+    "rank": 1,
+    "title": "Top 5 Animals That Go Wild for Snow ❄️",
+    "trend_source": "Google Trends: montana snow today ('Dog has zero chill about Montana's first snow'); FOSFORITO EN SALSA (CAMILO AGUILLON, 58.8x, kind comedy)",
+    "video_id": null,
+    "virality_score": 8,
+    "why": ""
+   },
+   {
+    "angle": "Light, kind comedy is the shared thread in today's top outliers (58.8x 'FOSFORITO EN SALSA', 47.0x relatable edit), and the 3.6x List title shows a numbered list still breaks out, so a funny countdown of silly-sounding real words fits both.",
+    "format": "funny",
+    "picked": false,
+    "rank": 2,
+    "title": "5 Real English Words That Sound Made Up",
+    "trend_source": "FOSFORITO EN SALSA (CAMILO AGUILLON, 58.8x); 3 Youtubers Que Hicieron Doblaje (DavidG, 3.6x, The List)",
+    "video_id": null,
+    "virality_score": 7,
+    "why": ""
+   },
+   {
+    "angle": "The 4.3x 'Why the MiG-25 Carried 260 Liters of Alcohol' proves a 'why does this odd design exist' Question with a specific number is breaking out, and this asks why a golf ball carries 300-plus dents.",
+    "format": "explainer",
+    "picked": false,
+    "rank": 3,
+    "title": "Why Golf Balls Have 300+ Dimples",
+    "trend_source": "Why the MiG-25 Carried 260 Liters of Alcohol (OddFrame, 4.3x, The Question)",
+    "video_id": null,
+    "virality_score": 6,
+    "why": ""
+   },
+   {
+    "angle": "The 5.4x 'How much for this un-opened rare Coca Cola?' shows a familiar everyday brand plus a curious backstory question breaking out, and Play-Doh's secret first job is that same nostalgic-object hook as a true story.",
+    "format": "story",
+    "picked": false,
+    "rank": 4,
+    "title": "Play-Doh Was Wallpaper Cleaner for 20 Years",
+    "trend_source": "How much for this un-opened rare Coca Cola? (Dylan Ayres, 5.4x, The Question)",
+    "video_id": null,
+    "virality_score": 6,
+    "why": ""
+   },
+   {
+    "angle": "The 2.8x 'Electric vehicle milk tea holder, a boon for cyclists' shows a small practical everyday fix breaking out, and this gives three quick fixes for a problem almost every home has.",
+    "format": "tips",
+    "picked": false,
+    "rank": 5,
+    "title": "Squeaky Door? 3 Fixes That Actually Last",
+    "trend_source": "Electric vehicle milk tea holder, a boon for cyclists (Juanl, 2.8x)",
+    "video_id": null,
+    "virality_score": 5,
+    "why": ""
+   }
+  ],
+  "sent_at": "2026-10-14T18:40:04.828411+00:00",
+  "status": "waiting"
  }
 }

@@ -1,67 +1,6 @@
 {
   "tg_offset": 40455537,
   "batches": {
-    "2026-10-10-2": {
-      "topics": [
-        {
-          "title": "How They Put Ships in Bottles Since 1784",
-          "angle": "The Question formula drives today's biggest explainer-style outlier (How Was This Scene Actually Shot? at 41.2x), and a 'how was this actually done' puzzle with a flip answer matches the setup-then-reveal shape shared by the top five.",
-          "format": "explainer",
-          "tone": "normal",
-          "virality_score": 8,
-          "trend_source": "How Was This Koyla Scene Actually Shot? (41.2x, The Question)",
-          "plan_id": "P2026-10-10-01"
-        },
-        {
-          "title": "Top 5 Funniest Real Animal Names \ud83d\ude02",
-          "angle": "Light, family-friendly comedy dominates today's outliers (166.2x and 55.5x their channel medians), and a funny Top 5 with a 'judgy fish' payoff keeps that tone in our faceless style.",
-          "format": "funny",
-          "tone": "funny",
-          "virality_score": 8,
-          "trend_source": "She Wasn't Scared... Until She Saw the SNAKE (166.2x); She's STILL Dancing Macarena (55.5x)",
-          "plan_id": "P2026-10-10-02"
-        },
-        {
-          "title": "Top 5 Longest Words in English",
-          "angle": "Countdowns with a twist ending fit the setup-then-reveal shape shared by today's top outliers (166.2x, 55.5x, 41.2x), and the 'try to say it' challenge invites comments and rewatches.",
-          "format": "ranking",
-          "tone": "normal",
-          "virality_score": 7,
-          "trend_source": "She Wasn't Scared... Until She Saw the SNAKE (166.2x); She's STILL Dancing Macarena (55.5x); How Was This Koyla Scene Actually Shot? (41.2x, The Question)",
-          "plan_id": "P2026-10-10-03"
-        },
-        {
-          "title": "Is a Banana a Berry? 3-Second Quiz",
-          "angle": "'Wrong knowledge you got from school' is a recurring breakout theme in today's feed, and a 3-second guess-then-reveal quiz uses the same setup-then-flip shape as the top outliers.",
-          "format": "quiz",
-          "tone": "normal",
-          "virality_score": 7,
-          "trend_source": "Wrong Knowledge you Got for School - Part 1; She Wasn't Scared... Until She Saw the SNAKE (166.2x); She's STILL Dancing Macarena (55.5x)",
-          "plan_id": "P2026-10-10-04"
-        },
-        {
-          "title": "How an 11-Year-Old Invented the Popsicle",
-          "angle": "The surprise 'until' flip in today's top outlier (166.2x) maps onto a true story where a mistake becomes a treat everyone knows.",
-          "format": "story",
-          "tone": "normal",
-          "virality_score": 7,
-          "trend_source": "She Wasn't Scared... Until She Saw the SNAKE (166.2x); She's STILL Dancing Macarena (55.5x)",
-          "plan_id": "P2026-10-10-05"
-        },
-        {
-          "title": "3 Tricks to Open a Stuck Jar Lid",
-          "angle": "Practical how-to Shorts get saved and shared, and a 'you don't need muscles' reveal gives the tips the same expectation-then-flip shape as today's top outliers.",
-          "format": "tips",
-          "tone": "normal",
-          "virality_score": 6,
-          "trend_source": "She Wasn't Scared... Until She Saw the SNAKE (166.2x); She's STILL Dancing Macarena (55.5x)",
-          "plan_id": "P2026-10-10-06"
-        }
-      ],
-      "sent_at": "2026-10-10T18:37:57.460850+00:00",
-      "selected": [],
-      "status": "closed"
-    },
     "2026-10-11": {
       "topics": [
         {
@@ -447,6 +386,58 @@
       "sent_at": "2026-10-13T20:22:05.013168+00:00",
       "selected": [],
       "status": "closed"
+    },
+    "2026-10-14": {
+      "topics": [
+        {
+          "title": "Top 5 Animals That Go Wild for Snow \u2744\ufe0f",
+          "angle": "Kind animal comedy dominates the top outliers (58.8x and 47.0x funny/relatable Shorts) and Google Trends has 'montana snow today' riding on a dog with 'zero chill' about the first snow, so a funny snow-day countdown rides the moment.",
+          "format": "ranking",
+          "tone": "normal",
+          "virality_score": 8,
+          "trend_source": "Google Trends: montana snow today ('Dog has zero chill about Montana's first snow'); FOSFORITO EN SALSA (CAMILO AGUILLON, 58.8x, kind comedy)",
+          "plan_id": "P2026-10-14-01"
+        },
+        {
+          "title": "5 Real English Words That Sound Made Up",
+          "angle": "Light, kind comedy is the shared thread in today's top outliers (58.8x 'FOSFORITO EN SALSA', 47.0x relatable edit), and the 3.6x List title shows a numbered list still breaks out, so a funny countdown of silly-sounding real words fits both.",
+          "format": "funny",
+          "tone": "funny",
+          "virality_score": 7,
+          "trend_source": "FOSFORITO EN SALSA (CAMILO AGUILLON, 58.8x); 3 Youtubers Que Hicieron Doblaje (DavidG, 3.6x, The List)",
+          "plan_id": "P2026-10-14-02"
+        },
+        {
+          "title": "Why Golf Balls Have 300+ Dimples",
+          "angle": "The 4.3x 'Why the MiG-25 Carried 260 Liters of Alcohol' proves a 'why does this odd design exist' Question with a specific number is breaking out, and this asks why a golf ball carries 300-plus dents.",
+          "format": "explainer",
+          "tone": "normal",
+          "virality_score": 6,
+          "trend_source": "Why the MiG-25 Carried 260 Liters of Alcohol (OddFrame, 4.3x, The Question)",
+          "plan_id": "P2026-10-14-04"
+        },
+        {
+          "title": "Play-Doh Was Wallpaper Cleaner for 20 Years",
+          "angle": "The 5.4x 'How much for this un-opened rare Coca Cola?' shows a familiar everyday brand plus a curious backstory question breaking out, and Play-Doh's secret first job is that same nostalgic-object hook as a true story.",
+          "format": "story",
+          "tone": "normal",
+          "virality_score": 6,
+          "trend_source": "How much for this un-opened rare Coca Cola? (Dylan Ayres, 5.4x, The Question)",
+          "plan_id": "P2026-10-14-05"
+        },
+        {
+          "title": "Squeaky Door? 3 Fixes That Actually Last",
+          "angle": "The 2.8x 'Electric vehicle milk tea holder, a boon for cyclists' shows a small practical everyday fix breaking out, and this gives three quick fixes for a problem almost every home has.",
+          "format": "tips",
+          "tone": "normal",
+          "virality_score": 5,
+          "trend_source": "Electric vehicle milk tea holder, a boon for cyclists (Juanl, 2.8x)",
+          "plan_id": "P2026-10-14-06"
+        }
+      ],
+      "sent_at": "2026-10-14T18:40:04.828411+00:00",
+      "selected": [],
+      "status": "waiting"
     }
   },
   "videos": {
@@ -12146,10 +12137,6 @@
     "3-Second Space Quiz: Can You Spot the Myth?"
   ],
   "trend_tries": {
-    "2026-10-11": {
-      "n": 2,
-      "at": "2026-10-11T18:56:30.183272+00:00"
-    },
     "2026-10-12": {
       "n": 2,
       "at": "2026-10-12T22:09:18.547091+00:00"
@@ -12157,6 +12144,10 @@
     "2026-10-13": {
       "n": 2,
       "at": "2026-10-13T20:21:33.560536+00:00"
+    },
+    "2026-10-14": {
+      "n": 1,
+      "at": "2026-10-14T18:39:42.718450+00:00"
     }
   },
   "cleanup_day": "2026-10-14",
