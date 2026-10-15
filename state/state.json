@@ -436,8 +436,13 @@
         }
       ],
       "sent_at": "2026-10-15T18:19:32.659254+00:00",
-      "selected": [],
-      "status": "waiting"
+      "selected": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "status": "closed"
     }
   },
   "videos": {
@@ -12259,6 +12264,1443 @@
       "opts_msg": 402,
       "approved_by": "auto",
       "quota_note": "2026-10-15"
+    },
+    "2026-10-15-1": {
+      "topic": {
+        "title": "The Sleep Jump Up to 70% of People Get",
+        "angle": "The 179.2x breakout 'Dreams are getting too real' shows the falling-asleep, half-dream moment is hugely relatable, and this explains the jolt almost everyone has felt.",
+        "format": "explainer",
+        "tone": "normal",
+        "virality_score": 8,
+        "trend_source": "Uh oh\u2026 Dreams are getting too real \ud83d\udcad\ud83e\udd23 (179.2x)",
+        "plan_id": "P2026-10-15-01"
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-15T21:50:56.774355+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "hypnic jerk",
+        "title": "The Sleep Jump Up to 70% of People Get",
+        "hook_text": "THAT MIDNIGHT JOLT",
+        "thumbnail_text": "BRAIN SAYS FALL",
+        "description": "Why do I jerk awake when falling asleep? That sudden sleep jump is a hypnic jerk, which up to 70% of people get, and it often comes with a falling feeling before sleep.\n\nIn this Short: what a hypnic jerk is, why your brain might think you're falling, and what makes them happen more.\n\nSources:\nhttps://sleep.com/sleep-health/hypnic-jerks\nhttps://www.medicalnewstoday.com/articles/324666.php",
+        "hashtags": [
+          "#shorts",
+          "#sleep",
+          "#science",
+          "#didyouknow"
+        ],
+        "tags": [
+          "hypnic jerk",
+          "sleep jump",
+          "why do i jerk awake when falling asleep",
+          "falling feeling before sleep",
+          "hypnic jerk explained",
+          "why hypnic jerk happens",
+          "jolt awake falling asleep",
+          "body twitch falling asleep",
+          "why do we twitch in our sleep",
+          "jolting awake when trying to fall asleep",
+          "sleep starts",
+          "hypnic jerk causes",
+          "sleep startle",
+          "jolt while sleeping",
+          "brain facts",
+          "sleep twitch",
+          "sleep science",
+          "science explained"
+        ],
+        "pinned_comment": "Bonus fact: some people get hypnic jerks almost every night, while most of us only get them now and then. Do you feel the jump, the falling, or both?",
+        "scenes": [
+          {
+            "text": "Why does your body jump right before you fall asleep, and what is your brain actually doing?",
+            "badge": "THE SLEE",
+            "label": "",
+            "stock_queries": [
+              "person twitching in bed asleep",
+              "sleeping person jerking awake"
+            ],
+            "image_prompt": "Cinematic side angle of a person in bed suddenly jolting awake in a dark navy bedroom, blankets rustling upwards, soft cool rim lighting, hyperrealistic photography",
+            "stock_query": "person twitching in bed asleep"
+          },
+          {
+            "text": "Here's what happens in that split second. That sudden jolt has a name, it's called a hypnic jerk. Sleep experts say up to seventy percent of people get them.",
+            "badge": "",
+            "label": "HYPNIC JERK (70%)",
+            "stock_queries": [
+              "digital clock midnight dark bedroom",
+              "commuter train passengers sleeping"
+            ],
+            "image_prompt": "Glowing red digital bedside alarm clock in a shadowy bedroom beside a sleeping silhouette, atmospheric cinematic night photography",
+            "stock_query": "digital clock midnight dark bedroom"
+          },
+          {
+            "text": "As you drift off, your muscles relax, all at once. One idea is that your brain misreads all that relaxing as falling.",
+            "badge": "",
+            "label": "BRAIN: FALLING!",
+            "stock_queries": [
+              "human hand relaxing falling limp",
+              "brain neural activity glowing animation"
+            ],
+            "image_prompt": "High-tech 3D rendering of human brain neural pathways firing bright electric signals against a dark moody backdrop, scientific visualization",
+            "stock_query": "human hand relaxing falling limp"
+          },
+          {
+            "text": "So it fires your muscles to catch you. That's why it often comes with a quick falling feeling.",
+            "badge": "",
+            "label": "MUSCLES FIRE",
+            "stock_queries": [
+              "point of view falling through clouds",
+              "person leg twitch in bed"
+            ],
+            "image_prompt": "First-person point of view tumbling downward through misty dark night clouds into an abyss, disorienting dreamlike visual, ultra-detailed render",
+            "stock_query": "point of view falling through clouds"
+          },
+          {
+            "text": "Another idea goes back to our tree-sleeping ancestors, where a slip meant a real fall. Scientists say that one's still a guess, though.",
+            "badge": "TREE ANC",
+            "label": "",
+            "stock_queries": [
+              "chimpanzee sleeping tree branch jungle",
+              "primate resting tree canopy"
+            ],
+            "image_prompt": "Wild chimpanzee asleep on a thick wooden tree branch high in a jungle canopy under pale moonlight, cinematic wildlife photography",
+            "stock_query": "chimpanzee sleeping tree branch jungle"
+          },
+          {
+            "text": "Stress, caffeine and too little sleep can make them happen more. And for most people, they're harmless.",
+            "badge": "",
+            "label": "STRESS & CAFFEINE",
+            "stock_queries": [
+              "exhausted person drinking coffee desk",
+              "person sleeping peacefully morning light"
+            ],
+            "image_prompt": "Steaming mug of dark coffee on a wooden desk next to a tired person with face in hands, dramatic warm desk lamp illumination, cinematic composition",
+            "stock_query": "exhausted person drinking coffee desk"
+          },
+          {
+            "text": "So that's what your brain is doing, it thinks you're falling, and it tries to catch you. Which do you get more, the jump or the falling feeling? Because tonight, right before you drift off, it might happen again.",
+            "badge": "JUMP OR ",
+            "label": "",
+            "stock_queries": [
+              "person sitting up bed confused night",
+              "dark bedroom curtains blowing breeze"
+            ],
+            "image_prompt": "Silhouette of a person sitting upright in bed in a dark moonlit bedroom, thoughtful expression, translucent curtains swaying in night air, cinematic realism",
+            "stock_query": "person sitting up bed confused night"
+          }
+        ],
+        "key_facts": [
+          "The sudden jolt before falling asleep is called a hypnic jerk.",
+          "Up to 70% of people experience hypnic jerks.",
+          "During sleep onset, muscles relax rapidly, which the brain may misread as falling.",
+          "The brain sends an emergency motor signal to contract muscles to catch the body.",
+          "Hypnic jerks are frequently accompanied by a sudden falling sensation.",
+          "An evolutionary hypothesis links hypnic jerks to tree-dwelling primate ancestors preventing falls.",
+          "Factors like stress, caffeine intake, and sleep deprivation increase the frequency of hypnic jerks.",
+          "Hypnic jerks are generally benign and harmless for most people."
+        ],
+        "format": "explainer",
+        "tone": "normal",
+        "category": "27",
+        "script": "Why does your body jump right before you fall asleep, and what is your brain actually doing? Here's what happens in that split second. That sudden jolt has a name, it's called a hypnic jerk. Sleep experts say up to seventy percent of people get them. As you drift off, your muscles relax, all at once. One idea is that your brain misreads all that relaxing as falling. So it fires your muscles to catch you. That's why it often comes with a quick falling feeling. Another idea goes back to our tree-sleeping ancestors, where a slip meant a real fall. Scientists say that one's still a guess, though. Stress, caffeine and too little sleep can make them happen more. And for most people, they're harmless. So that's what your brain is doing, it thinks you're falling, and it tries to catch you. Which do you get more, the jump or the falling feeling? Because tonight, right before you drift off, it might happen again.",
+        "plan_id": "P2026-10-15-01",
+        "shot_plan": [
+          {
+            "subject": "person lying in bed trying to sleep",
+            "queries": [
+              {
+                "q": "person sleeping in bed",
+                "must": [
+                  "bed"
+                ]
+              },
+              {
+                "q": "woman trying to sleep",
+                "must": [
+                  "sleep"
+                ]
+              },
+              {
+                "q": "person in bed at night",
+                "must": [
+                  "night"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "person suddenly waking up startled in bed",
+            "queries": [
+              {
+                "q": "waking up startled",
+                "must": [
+                  "bed"
+                ]
+              },
+              {
+                "q": "person waking up suddenly",
+                "must": [
+                  "sleep"
+                ]
+              },
+              {
+                "q": "person waking up in bed",
+                "must": [
+                  "waking"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "brain scan diagram glowing",
+            "queries": [
+              {
+                "q": "brain scan animation",
+                "must": [
+                  "brain"
+                ]
+              },
+              {
+                "q": "neurology brain scan",
+                "must": [
+                  "neurology"
+                ]
+              },
+              {
+                "q": "human brain model",
+                "must": [
+                  "head"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "human muscle movement close up",
+            "queries": [
+              {
+                "q": "muscle spasm close up",
+                "must": [
+                  "muscle"
+                ]
+              },
+              {
+                "q": "human leg twitch",
+                "must": [
+                  "leg"
+                ]
+              },
+              {
+                "q": "muscle contraction",
+                "must": [
+                  "body"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "branch in a tree forest",
+            "queries": [
+              {
+                "q": "tree branch in forest",
+                "must": [
+                  "tree"
+                ]
+              },
+              {
+                "q": "branch in canopy",
+                "must": [
+                  "forest"
+                ]
+              },
+              {
+                "q": "tree trunk in woods",
+                "must": [
+                  "woods"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "person rubbing temples with headache stress",
+            "queries": [
+              {
+                "q": "person stressed holding head",
+                "must": [
+                  "stress"
+                ]
+              },
+              {
+                "q": "person with headache in bed",
+                "must": [
+                  "headache"
+                ]
+              },
+              {
+                "q": "tired person rubbing eyes",
+                "must": [
+                  "tired"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "person closing eyes to sleep in bed",
+            "queries": [
+              {
+                "q": "person falling asleep in bed",
+                "must": [
+                  "sleep"
+                ]
+              },
+              {
+                "q": "woman closing eyes on pillow",
+                "must": [
+                  "pillow"
+                ]
+              },
+              {
+                "q": "person in bed at night",
+                "must": [
+                  "bed"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "bed",
+          "pillow",
+          "sleep"
+        ],
+        "visual_style": "Viewers expect engaging, scientific yet relatable health facts about sleep phenomena with close-up footage of people in bed and anatomical diagrams.",
+        "visual_refs": [
+          "SHOCKING! Why 70% of People JUMP Awake When Falling Asleep! #shorts",
+          "Why Your Body Jumps Before Sleep \ud83d\ude34\u26a1#health #sleep #facts",
+          "Why Do You REALLY Jump Awake as You Fall Asleep? #shorts",
+          "Why Do You Feel Like You&#39;re Falling When You Fall Asleep? #health #shorts #neuroscience",
+          "What Are Hypnic Jerks + Why Do They Happen? | Dr. Ian Smith",
+          "Why Body Jerks in Sleep \ud83d\ude34\u26a1 #didyouknow #facts #brain #shorts #ytshorts #sleepfacts #trending #viral"
+        ],
+        "voice": "en-US-BrianMultilingualNeural",
+        "visual_report": {
+          "shots": 11,
+          "checked": 11,
+          "unchecked": 0,
+          "filler": 0,
+          "ai": 0
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-BrianMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-729/; ghasoub (Pixabay) https://pixabay.com/videos/id-151295/; manbob86 (Pixabay) https://pixabay.com/photos/break-sleeping-cute-girl-baby-4491221/; David_SMC (Pixabay) https://pixabay.com/videos/id-201906/; scottwebb (Pixabay) https://pixabay.com/photos/training-rmuscles-back-shoulders-828741/; Engin_Akyurt (Pixabay) https://pixabay.com/photos/weight-dumbbell-strength-arm-force-8246973/; caelan (Pixabay) https://pixabay.com/videos/id-29171/; TheMarcKnight (Pixabay) https://pixabay.com/videos/id-31471/; Pexels (Pixabay) https://pixabay.com/photos/adult-annoyed-blur-burnout-1850268/; ghasoub (Pixabay) https://pixabay.com/videos/id-151297/; sun4real (Pixabay) https://pixabay.com/videos/id-200882/"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-15",
+        "name": "2026-10-15-1-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-15",
+        "name": "2026-10-15-1-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,095 --> 00:00:01,984\nWhy does your body jump right before\n\n2\n00:00:01,984 --> 00:00:04,090\nyou fall asleep and what is your\n\n3\n00:00:04,090 --> 00:00:07,011\nbrain actually doing Here's what happens in\n\n4\n00:00:07,011 --> 00:00:09,796\nthat split second That sudden jolt has\n\n5\n00:00:09,796 --> 00:00:12,378\na name it's called a hypnic jerk\n\n6\n00:00:12,378 --> 00:00:15,122\nSleep experts say up to seventy percent\n\n7\n00:00:15,122 --> 00:00:17,228\nof people get them As you drift\n\n8\n00:00:17,228 --> 00:00:20,217\noff your muscles relax all at once\n\n9\n00:00:20,217 --> 00:00:22,677\nOne idea is that your brain misreads\n\n10\n00:00:22,677 --> 00:00:25,229\nall that relaxing as falling So it\n\n11\n00:00:25,229 --> 00:00:27,894\nfires your muscles to catch you That's\n\n12\n00:00:27,894 --> 00:00:29,620\nwhy it often comes with a quick\n\n13\n00:00:29,620 --> 00:00:32,541\nfalling feeling Another idea goes back to\n\n14\n00:00:32,541 --> 00:00:35,611\nour tree-sleeping ancestors where a slip meant\n\n15\n00:00:35,611 --> 00:00:38,353\na real fall Scientists say that one's\n\n16\n00:00:38,353 --> 00:00:41,427\nstill a guess though Stress caffeine and\n\n17\n00:00:41,427 --> 00:00:43,274\ntoo little sleep can make them happen\n\n18\n00:00:43,274 --> 00:00:46,669\nmore And for most people they're harmless\n\n19\n00:00:46,669 --> 00:00:48,585\nSo that's what your brain is doing\n\n20\n00:00:48,585 --> 00:00:50,691\nit thinks you're falling and it tries\n\n21\n00:00:50,691 --> 00:00:52,554\nto catch you Which do you get\n\n22\n00:00:52,554 --> 00:00:55,377\nmore the jump or the falling feeling\n\n23\n00:00:55,377 --> 00:00:57,701\nBecause tonight right before you drift off\n\n24\n00:00:57,701 --> 00:00:59,187\nit might happen again\n",
+      "tg_msg": 420,
+      "opts_msg": 422
+    },
+    "2026-10-15-2": {
+      "topic": {
+        "title": "Top 5 Animals That Play Dead Like Pros",
+        "angle": "The 43.4x 'Mama terkecoh' (mom gets fooled) breakout shows being tricked is a top pull, and this counts down the animals that fool predators best.",
+        "format": "ranking",
+        "tone": "normal",
+        "virality_score": 7,
+        "trend_source": "Mama terkecoh dengan perbuatan baik Arkan (43.4x)",
+        "plan_id": "P2026-10-15-02"
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-15T21:56:27.588084+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "animals that play dead",
+        "title": "Top 5 Animals That Play Dead Like Pros",
+        "hook_text": "OSCAR-WORTHY ANIMALS",
+        "thumbnail_text": "BEST FAKER?",
+        "description": "Five animals that play dead like pros, counted down to the champion. Meet a hognose snake playing dead that flips back over, and an opossum playing dead so well it even smells the part.\n\nIn this Short: a pebble-like beetle, a peeking frog, an ambush fish, the hognose snake and the Virginia opossum.\n\nSources:\nhttps://a-z-animals.com/blog/animals-that-fake-their-own-death/\nhttps://rondeauprovincialpark.ca/species-of-the-day-eastern-hog-nosed-snake/",
+        "hashtags": [
+          "#shorts",
+          "#animals",
+          "#top5",
+          "#nature"
+        ],
+        "tags": [
+          "animals that play dead",
+          "play dead",
+          "hognose snake playing dead",
+          "playing dead",
+          "animal fake death",
+          "top 5 animals",
+          "opossum playing dead",
+          "opossum thanatosis",
+          "eastern hognose snake",
+          "death feigning beetle",
+          "thanatosis",
+          "animal facts",
+          "playing possum",
+          "livingstone's cichlid"
+        ],
+        "pinned_comment": "Bonus fact: the opossum isn't choosing to act, scientists say the trance kicks in automatically when it's scared. Which faker would fool you?",
+        "scenes": [
+          {
+            "text": "Why would an animal play dead, and which one never stops acting even when you flip it?\nHere are the five best fakers in nature.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "snake lying belly up",
+              "wildlife lying still"
+            ],
+            "image_prompt": "Cinematic macro shot of an eastern hognose snake lying belly-up on a forest floor with its tongue dangling, dramatic natural lighting.",
+            "stock_query": "snake lying belly up"
+          },
+          {
+            "text": "Number five, the death-feigning beetle.\nIt tucks in its legs and looks just like a pebble.",
+            "badge": "#5",
+            "label": "DEATH-FEIGNING BEETLE",
+            "stock_queries": [
+              "black beetle on soil",
+              "beetle with tucked legs"
+            ],
+            "image_prompt": "Close-up of a small dark death-feigning beetle with legs tucked in tightly, resting among tiny pebbles on dry soil.",
+            "stock_query": "black beetle on soil"
+          },
+          {
+            "text": "Number four, a tiny frog from Brazil.\nIt flips over, shuts its eyes, then peeks to see if you're gone.",
+            "badge": "#4",
+            "label": "BRAZILIAN FROG",
+            "stock_queries": [
+              "small frog on leaf",
+              "frog playing dead"
+            ],
+            "image_prompt": "Macro photography of a tiny brown Brazilian frog lying on its back on green rainforest leaf litter, one eye slightly open peeking.",
+            "stock_query": "small frog on leaf"
+          },
+          {
+            "text": "Number three, Livingstone's cichlid, an African lake fish.\nIt lies on its side looking dead, and when small fish come close, it strikes.",
+            "badge": "#3",
+            "label": "LIVINGSTONE'S CICHLID",
+            "stock_queries": [
+              "cichlid fish swimming",
+              "fish lying on sand"
+            ],
+            "image_prompt": "Underwater view of a colorful cichlid fish lying motionless on its side on a sandy African lake bottom, waiting to ambush.",
+            "stock_query": "cichlid fish swimming"
+          },
+          {
+            "text": "Number two, the eastern hognose snake.\nIt rolls over, tongue out, and if you flip it upright, it rolls right back.",
+            "badge": "#2",
+            "label": "HOGNOSE SNAKE",
+            "stock_queries": [
+              "hognose snake tongue out",
+              "snake playing dead"
+            ],
+            "image_prompt": "Detailed shot of an eastern hognose snake lying on its back in green grass with its mouth open and tongue sticking out.",
+            "stock_query": "hognose snake tongue out"
+          },
+          {
+            "text": "Number one, the Virginia opossum.\nIt goes stiff, tongue out, and even gives off a stinky smell, sometimes for hours.\nAnd it's not even trying, it happens automatically.\nSo the snake never quits when flipped, but the possum wins, it even smells the part.",
+            "badge": "#1",
+            "label": "VIRGINIA OPOSSUM",
+            "stock_queries": [
+              "opossum playing dead",
+              "opossum standing at night"
+            ],
+            "image_prompt": "Close-up of a Virginia opossum lying stiff on its side in tall grass, mouth open and eyes glazed over in fake death.",
+            "stock_query": "opossum playing dead"
+          },
+          {
+            "text": "Which of these would fool you best?\nNext time an animal lies perfectly still, ask yourself.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "curious fox sniffing",
+              "animal in tall grass"
+            ],
+            "image_prompt": "Wide shot of a wild animal lying motionless in tall grass during golden hour, with a slow cinematic push-in toward the subject.",
+            "stock_query": "curious fox sniffing"
+          }
+        ],
+        "key_facts": [
+          "Death-feigning beetles tuck in their legs and resemble pebbles to avoid predators.",
+          "A specific tiny frog from Brazil flips over and peeks while playing dead.",
+          "Livingstone's cichlid lies on its side pretending to be dead to ambush prey.",
+          "The eastern hognose snake rolls back over if flipped upright while playing dead.",
+          "The Virginia opossum goes stiff, sticks its tongue out, and releases a foul odor automatically when threatened."
+        ],
+        "format": "ranking",
+        "tone": "normal",
+        "category": "27",
+        "script": "Why would an animal play dead, and which one never stops acting even when you flip it?\nHere are the five best fakers in nature. Number five, the death-feigning beetle.\nIt tucks in its legs and looks just like a pebble. Number four, a tiny frog from Brazil.\nIt flips over, shuts its eyes, then peeks to see if you're gone. Number three, Livingstone's cichlid, an African lake fish.\nIt lies on its side looking dead, and when small fish come close, it strikes. Number two, the eastern hognose snake.\nIt rolls over, tongue out, and if you flip it upright, it rolls right back. Number one, the Virginia opossum.\nIt goes stiff, tongue out, and even gives off a stinky smell, sometimes for hours.\nAnd it's not even trying, it happens automatically.\nSo the snake never quits when flipped, but the possum wins, it even smells the part. Which of these would fool you best?\nNext time an animal lies perfectly still, ask yourself.",
+        "plan_id": "P2026-10-15-02",
+        "shot_plan": [
+          {
+            "subject": "animal playing dead",
+            "queries": [
+              {
+                "q": "animal playing dead",
+                "must": [
+                  "animal"
+                ]
+              },
+              {
+                "q": "wildlife defense mechanism",
+                "must": [
+                  "wildlife"
+                ]
+              },
+              {
+                "q": "animal behavior",
+                "must": [
+                  "behavior"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "death-feigning beetle",
+            "queries": [
+              {
+                "q": "death-feigning beetle",
+                "must": [
+                  "beetle"
+                ]
+              },
+              {
+                "q": "black beetle",
+                "must": [
+                  "insect"
+                ]
+              },
+              {
+                "q": "small bug",
+                "must": [
+                  "bug"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "brazilian frog",
+            "queries": [
+              {
+                "q": "brazilian frog",
+                "must": [
+                  "frog"
+                ]
+              },
+              {
+                "q": "small toad",
+                "must": [
+                  "toad"
+                ]
+              },
+              {
+                "q": "amphibian",
+                "must": [
+                  "amphibian"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "livingstone cichlid fish",
+            "queries": [
+              {
+                "q": "african cichlid",
+                "must": [
+                  "cichlid"
+                ]
+              },
+              {
+                "q": "lake fish",
+                "must": [
+                  "fish"
+                ]
+              },
+              {
+                "q": "swimming fish",
+                "must": [
+                  "water"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "eastern hognose snake",
+            "queries": [
+              {
+                "q": "hognose snake",
+                "must": [
+                  "snake"
+                ]
+              },
+              {
+                "q": "playing dead snake",
+                "must": [
+                  "reptile"
+                ]
+              },
+              {
+                "q": "snake belly",
+                "must": [
+                  "animal"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "virginia opossum",
+            "queries": [
+              {
+                "q": "virginia opossum",
+                "must": [
+                  "opossum"
+                ]
+              },
+              {
+                "q": "playing dead possum",
+                "must": [
+                  "possum"
+                ]
+              },
+              {
+                "q": "wild marsupial",
+                "must": [
+                  "marsupial"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "animal resting motionless",
+            "queries": [
+              {
+                "q": "animal resting",
+                "must": [
+                  "animal"
+                ]
+              },
+              {
+                "q": "still wildlife",
+                "must": [
+                  "wildlife"
+                ]
+              },
+              {
+                "q": "hidden animal",
+                "must": [
+                  "nature"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "animal",
+          "wildlife",
+          "nature"
+        ],
+        "visual_style": "Cinematic close-up macro and wildlife stock footage showcasing animals playing dead in nature",
+        "visual_refs": [
+          "This Actor Has Incredible Talent \u2764\ud83d\udd2b",
+          "Spot The Fake Animal For $10,000",
+          "Guess the Animal",
+          "Dead Rails PT2 #shorts #short #roblox #funny #robloxmemes",
+          "Some Snakes Eat Themselves \ud83d\ude28",
+          "Disney and Pixar&#39;s Toy Story 5 | Bonnie&#39;s Coming | In Cinemas Now"
+        ],
+        "voice": "en-US-EmmaMultilingualNeural",
+        "visual_report": {
+          "shots": 11,
+          "checked": 11,
+          "unchecked": 0,
+          "filler": 2,
+          "ai": 0
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-EmmaMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): chris_muschard (Pixabay) https://pixabay.com/videos/id-129459/; Eaktas06 (Pixabay) https://pixabay.com/videos/id-171254/; Eaktas06 (Pixabay) https://pixabay.com/videos/id-111135/; PublicDomainImages (Pixabay) https://pixabay.com/photos/virginiana-didelphis-animal-opossum-387202/; MountainDweller (Pixabay) https://pixabay.com/videos/id-234409/; TRAPHITHO (Pixabay) https://pixabay.com/videos/id-16230/; MabelAmber (Pixabay) https://pixabay.com/videos/id-133189/",
+        "Lauren McLaurin / Wikimedia Commons (CC BY 4.0) https://commons.wikimedia.org/wiki/File:Didelphis_virginiana_189957925.jpg",
+        "PookieFugglestein / Wikimedia Commons (CC0) https://commons.wikimedia.org/wiki/File:Virginia_opossum_during_daytime.jpg"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-15",
+        "name": "2026-10-15-2-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-15",
+        "name": "2026-10-15-2-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,100 --> 00:00:02,312\nWhy would an animal play dead and\n\n2\n00:00:02,312 --> 00:00:04,350\nwhich one never stops acting even when\n\n3\n00:00:04,350 --> 00:00:06,300\nyou flip it Here are the five\n\n4\n00:00:06,300 --> 00:00:09,200\nbest fakers in nature Number five the\n\n5\n00:00:09,200 --> 00:00:11,975\ndeath-feigning beetle It tucks in its legs\n\n6\n00:00:11,975 --> 00:00:14,088\nand looks just like a pebble Number\n\n7\n00:00:14,088 --> 00:00:16,812\nfour a tiny frog from Brazil It\n\n8\n00:00:16,812 --> 00:00:19,450\nflips over shuts its eyes then peeks\n\n9\n00:00:19,450 --> 00:00:21,675\nto see if you're gone Number three\n\n10\n00:00:21,675 --> 00:00:24,925\nLivingstone's cichlid an African lake fish\n\n11\n00:00:24,925 --> 00:00:27,175\nIt lies on its side looking dead\n\n12\n00:00:27,175 --> 00:00:29,188\nand when small fish come close it\n\n13\n00:00:29,188 --> 00:00:33,112\nstrikes Number two the eastern hognose snake\n\n14\n00:00:33,112 --> 00:00:35,125\nIt rolls over tongue out and if\n\n15\n00:00:35,125 --> 00:00:37,000\nyou flip it upright it rolls right\n\n16\n00:00:37,000 --> 00:00:40,413\nback Number one the Virginia opossum It\n\n17\n00:00:40,413 --> 00:00:42,725\ngoes stiff tongue out and even gives\n\n18\n00:00:42,725 --> 00:00:45,837\noff a stinky smell sometimes for hours\n\n19\n00:00:45,837 --> 00:00:47,888\nAnd it's not even trying it happens\n\n20\n00:00:47,888 --> 00:00:50,712\nautomatically So the snake never quits when\n\n21\n00:00:50,712 --> 00:00:53,275\nflipped but the possum wins it even\n\n22\n00:00:53,275 --> 00:00:55,413\nsmells the part Which of these would\n\n23\n00:00:55,413 --> 00:00:57,862\nfool you best Next time an animal\n\n24\n00:00:57,862 --> 00:01:00,900\nlies perfectly still ask yourself\n",
+      "tg_msg": 423,
+      "opts_msg": 425
+    },
+    "2026-10-15-3": {
+      "topic": {
+        "title": "Top 5 Funniest Ways to Say It's Pouring",
+        "angle": "The 179.2x 'Dreams are getting too real' and 25.0x 'Bella, I thought you were serious!' breakouts show a silly, kind twist on something everyday wins, and this puts that twist on a phrase everyone says.",
+        "format": "funny",
+        "tone": "funny",
+        "virality_score": 7,
+        "trend_source": "Uh oh\u2026 Dreams are getting too real (179.2x); Bella, I thought you were serious! (25.0x)",
+        "plan_id": "P2026-10-15-03"
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-15T22:02:07.911366+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "funny rain idioms",
+        "title": "Top 5 Funniest Ways to Say It's Pouring",
+        "hook_text": "TROLL WEATHER ALERT",
+        "thumbnail_text": "SHE-TROLLS?!",
+        "description": "Funny ways to say it's raining, from raining cats and dogs in other languages to raining she-trolls in Norway. These five funny rain idioms are real, and they get weirder as we go.\n\nIn this Short: Czech, Greek, Danish, Welsh and Norwegian ways to say it's pouring.\n\nSources:\nhttps://en.wikipedia.org/wiki/Raining_cats_and_dogs\nhttps://www.kwintessential.co.uk/blog/raining-cats-and-dogs",
+        "hashtags": [
+          "#shorts",
+          "#funny",
+          "#languages",
+          "#idioms"
+        ],
+        "tags": [
+          "funny rain idioms",
+          "raining cats and dogs",
+          "raining cats and dogs in other languages",
+          "it's pouring",
+          "rain idioms",
+          "raining she-trolls",
+          "raining old ladies and sticks",
+          "funny idioms",
+          "funniest idioms",
+          "rain idioms and phrases",
+          "raining chair legs",
+          "idioms around the world",
+          "fun idioms",
+          "welsh idioms",
+          "language facts",
+          "norwegian idioms",
+          "raining wheelbarrows"
+        ],
+        "pinned_comment": "Bonus fact: in Danish it rains shoemakers' apprentices, and in Norway it can even snow kittens. What does your language say when it's pouring?",
+        "scenes": [
+          {
+            "text": "Before you say it's raining cats and dogs again, hear what actually falls from the sky in Norway. Here are the five funniest ways other languages say it's pouring.",
+            "badge": "NORWAY",
+            "label": "NOT CATS & DOGS",
+            "stock_queries": [
+              "heavy rain pouring on city street",
+              "people running with umbrellas in rain"
+            ],
+            "image_prompt": "Cinematic shot of heavy rain pouring down on a city street with pedestrians holding umbrellas",
+            "stock_query": "heavy rain pouring on city street"
+          },
+          {
+            "text": "Number five, Czech. They say it's raining wheelbarrows. Imagine checking the weather and getting a garden cart on your head.",
+            "badge": "#5",
+            "label": "CZECH",
+            "stock_queries": [
+              "old wooden wheelbarrow in garden",
+              "prague old town rooftops in rain"
+            ],
+            "image_prompt": "An old wooden wheelbarrow sitting in a cobblestone courtyard during a heavy rain shower",
+            "stock_query": "old wooden wheelbarrow in garden"
+          },
+          {
+            "text": "Number four, Greek. It's raining chair legs, so bring an umbrella, and maybe some glue.",
+            "badge": "#4",
+            "label": "GREEK",
+            "stock_queries": [
+              "rainy street in athens",
+              "pile of wooden chairs in the rain"
+            ],
+            "image_prompt": "A wet street in Athens with a weathered pile of wooden chairs getting soaked in the rain",
+            "stock_query": "rainy street in athens"
+          },
+          {
+            "text": "Number three, Danish. It's raining shoemakers' apprentices, little shoe helpers falling from the clouds.",
+            "badge": "#3",
+            "label": "DANISH",
+            "stock_queries": [
+              "rain falling on copenhagen houses",
+              "old shoemaker workshop with tools"
+            ],
+            "image_prompt": "Colorful historical houses in Copenhagen during a moody rainstorm",
+            "stock_query": "rain falling on copenhagen houses"
+          },
+          {
+            "text": "Number two, Welsh. It's raining old ladies and sticks. Don't worry, they brought their walking sticks for the landing.",
+            "badge": "#2",
+            "label": "WELSH",
+            "stock_queries": [
+              "rain clouds over green welsh hills",
+              "elderly woman with walking stick umbrella"
+            ],
+            "image_prompt": "Dark rain clouds rolling over lush green hills in the Welsh countryside",
+            "stock_query": "rain clouds over green welsh hills"
+          },
+          {
+            "text": "Number one, Norwegian. It's raining she-trolls. That's right, in Norway a big storm means lady trolls tumbling out of the sky.",
+            "badge": "#1",
+            "label": "NORWEGIAN",
+            "stock_queries": [
+              "norwegian fjord under dark storm clouds",
+              "troll statue carved wooden norway"
+            ],
+            "image_prompt": "A dramatic Norwegian fjord underneath heavy, dark storm clouds and lightning",
+            "stock_query": "norwegian fjord under dark storm clouds"
+          },
+          {
+            "text": "So that's what falls in Norway, trolls, and suddenly cats and dogs sound pretty calm.",
+            "badge": "STORM",
+            "label": "TROLLS",
+            "stock_queries": [
+              "lightning storm over mountains",
+              "cat and dog sitting by rainy window"
+            ],
+            "image_prompt": "A domestic cat and dog sitting calmly together looking out a window at heavy rain",
+            "stock_query": "lightning storm over mountains"
+          },
+          {
+            "text": "What does your language say when it's pouring? Tell me in the comments, because next time the sky opens up, think twice.",
+            "badge": "COMMENTS",
+            "label": "YOUR LANGUAGE?",
+            "stock_queries": [
+              "person typing on phone rain outside",
+              "rain clouds parting sunlight"
+            ],
+            "image_prompt": "A person typing a comment on a smartphone while rain streaks down the windowpane",
+            "stock_query": "person typing on phone rain outside"
+          }
+        ],
+        "key_facts": [
+          "In Czech, the idiom for heavy rain translates to raining wheelbarrows.",
+          "In Greek, the idiom for heavy rain translates to raining chair legs.",
+          "In Danish, the idiom for heavy rain translates to raining shoemakers' apprentices.",
+          "In Welsh, the idiom for heavy rain translates to raining old ladies and sticks.",
+          "In Norwegian, the idiom for heavy rain translates to raining she-trolls."
+        ],
+        "format": "funny",
+        "tone": "funny",
+        "category": "23",
+        "script": "Before you say it's raining cats and dogs again, hear what actually falls from the sky in Norway. Here are the five funniest ways other languages say it's pouring. Number five, Czech. They say it's raining wheelbarrows. Imagine checking the weather and getting a garden cart on your head. Number four, Greek. It's raining chair legs, so bring an umbrella, and maybe some glue. Number three, Danish. It's raining shoemakers' apprentices, little shoe helpers falling from the clouds. Number two, Welsh. It's raining old ladies and sticks. Don't worry, they brought their walking sticks for the landing. Number one, Norwegian. It's raining she-trolls. That's right, in Norway a big storm means lady trolls tumbling out of the sky. So that's what falls in Norway, trolls, and suddenly cats and dogs sound pretty calm. What does your language say when it's pouring? Tell me in the comments, because next time the sky opens up, think twice.",
+        "plan_id": "P2026-10-15-03",
+        "shot_plan": [
+          {
+            "subject": "rain falling from the sky",
+            "queries": [
+              {
+                "q": "heavy rain storm",
+                "must": [
+                  "rain"
+                ]
+              },
+              {
+                "q": "rain falling",
+                "must": [
+                  "storm"
+                ]
+              },
+              {
+                "q": "weather rain",
+                "must": [
+                  "sky"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "wheelbarrow",
+            "queries": [
+              {
+                "q": "garden wheelbarrow",
+                "must": [
+                  "wheelbarrow"
+                ]
+              },
+              {
+                "q": "empty wheelbarrow",
+                "must": [
+                  "cart"
+                ]
+              },
+              {
+                "q": "metal wheelbarrow",
+                "must": [
+                  "tool"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "chair legs",
+            "queries": [
+              {
+                "q": "wooden chair leg",
+                "must": [
+                  "chair"
+                ]
+              },
+              {
+                "q": "broken chair",
+                "must": [
+                  "furniture"
+                ]
+              },
+              {
+                "q": "chair parts",
+                "must": [
+                  "leg"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "shoe maker tools",
+            "queries": [
+              {
+                "q": "shoemaker workshop",
+                "must": [
+                  "shoe"
+                ]
+              },
+              {
+                "q": "leather shoes",
+                "must": [
+                  "boot"
+                ]
+              },
+              {
+                "q": "shoe repair",
+                "must": [
+                  "maker"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "walking sticks",
+            "queries": [
+              {
+                "q": "wooden walking stick",
+                "must": [
+                  "cane"
+                ]
+              },
+              {
+                "q": "elderly walking stick",
+                "must": [
+                  "stick"
+                ]
+              },
+              {
+                "q": "hiking stick",
+                "must": [
+                  "pole"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "norwegian mountain troll statue",
+            "queries": [
+              {
+                "q": "troll statue",
+                "must": [
+                  "troll"
+                ]
+              },
+              {
+                "q": "norway troll",
+                "must": [
+                  "statue"
+                ]
+              },
+              {
+                "q": "mythical troll",
+                "must": [
+                  "monster"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "stormy sky",
+            "queries": [
+              {
+                "q": "dark storm clouds",
+                "must": [
+                  "cloud"
+                ]
+              },
+              {
+                "q": "lightning storm",
+                "must": [
+                  "storm"
+                ]
+              },
+              {
+                "q": "heavy rain",
+                "must": [
+                  "sky"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "person speaking to camera",
+            "queries": [
+              {
+                "q": "person talking",
+                "must": [
+                  "person"
+                ]
+              },
+              {
+                "q": "speaking face",
+                "must": [
+                  "face"
+                ]
+              },
+              {
+                "q": "person smiling",
+                "must": [
+                  "human"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "rain",
+          "storm",
+          "sky"
+        ],
+        "visual_style": "Fast-paced humorous linguistic trivia shorts featuring whimsical surreal stock footage of bizarre objects falling from the sky with dynamic text overlays.",
+        "visual_refs": [
+          "It&#39;s Raining It&#39;s Pouring Nursery Rhyme with LYRICS",
+          "How to pour cereal correctly... #shorts #shortsfeed #youtubeshorts #cringe #lifehack #comedy #funny",
+          "Ducks often stand still in rain. Likely to save energy and stay warm, but we have our own theory",
+          "What should you do during a thunderstorm?",
+          "He played a prank on TSA #pranks #viralreel #comedy",
+          "When There&#39;s A Thunderstorm At Night #Shorts"
+        ],
+        "voice": "en-US-AvaMultilingualNeural",
+        "visual_report": {
+          "shots": 14,
+          "checked": 14,
+          "unchecked": 0,
+          "filler": 0,
+          "ai": 0
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AvaMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): Kali_msr040 (Pixabay) https://pixabay.com/videos/id-311710/; nguyenduocmtv (Pixabay) https://pixabay.com/videos/id-176663/; Amazighe93 (Pixabay) https://pixabay.com/videos/id-125756/; AlexKopeykin (Pixabay) https://pixabay.com/videos/id-67460/; PublicDomainPictures (Pixabay) https://pixabay.com/photos/brown-carving-chair-furniture-2254/; Silberfuchs (Pixabay) https://pixabay.com/photos/chair-wood-furniture-to-sit-643246/; maxmann (Pixabay) https://pixabay.com/photos/cobbler-shoe-shoemaker-craft-2060668/; digihanger (Pixabay) https://pixabay.com/photos/walking-stick-cane-man-artwork-102368/; stevepb (Pixabay) https://pixabay.com/photos/hand-walking-stick-arm-elderly-588982/; JamesDeMers (Pixabay) https://pixabay.com/photos/cane-walking-stick-gold-cap-stick-54997/; blakey17 (Pixabay) https://pixabay.com/photos/norwegian-troll-statue-holiday-210334/; Macb3t (Pixabay) https://pixabay.com/videos/id-16160/; 104paul (Pixabay) https://pixabay.com/videos/id-38125/; u_8xb1uluuyn (Pixabay) https://pixabay.com/videos/id-297986/"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-15",
+        "name": "2026-10-15-3-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-15",
+        "name": "2026-10-15-3-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,087 --> 00:00:01,869\nBefore you say it's raining cats and\n\n2\n00:00:01,869 --> 00:00:04,319\ndogs again hear what actually falls from\n\n3\n00:00:04,319 --> 00:00:06,411\nthe sky in Norway Here are the\n\n4\n00:00:06,411 --> 00:00:08,837\nfive funniest ways other languages say it's\n\n5\n00:00:08,837 --> 00:00:12,054\npouring Number five Czech They say it's\n\n6\n00:00:12,054 --> 00:00:15,285\nraining wheelbarrows Imagine checking the weather\n\n7\n00:00:15,285 --> 00:00:16,683\nand getting a garden cart on your\n\n8\n00:00:16,683 --> 00:00:20,012\nhead Number four Greek It's raining chair\n\n9\n00:00:20,012 --> 00:00:22,401\nlegs so bring an umbrella and maybe\n\n10\n00:00:22,401 --> 00:00:26,139\nsome glue Number three Danish It's raining\n\n11\n00:00:26,139 --> 00:00:28,886\nshoemakers' apprentices little shoe helpers\n\n12\n00:00:28,886 --> 00:00:32,302\nfalling from the clouds Number two Welsh\n\n13\n00:00:32,302 --> 00:00:35,000\nIt's raining old ladies and sticks Don't\n\n14\n00:00:35,000 --> 00:00:36,795\nworry they brought their walking sticks for\n\n15\n00:00:36,795 --> 00:00:40,285\nthe landing Number one Norwegian It's raining\n\n16\n00:00:40,285 --> 00:00:43,317\nshe-trolls That's right in Norway a big\n\n17\n00:00:43,317 --> 00:00:45,755\nstorm means lady trolls tumbling out of\n\n18\n00:00:45,755 --> 00:00:47,661\nthe sky So that's what falls in\n\n19\n00:00:47,661 --> 00:00:50,458\nNorway trolls and suddenly cats and dogs\n\n20\n00:00:50,458 --> 00:00:52,587\nsound pretty calm What does your language\n\n21\n00:00:52,587 --> 00:00:55,012\nsay when it's pouring Tell me in\n\n22\n00:00:55,012 --> 00:00:57,203\nthe comments because next time the sky\n\n23\n00:00:57,203 --> 00:00:59,373\nopens up think twice\n",
+      "tg_msg": 426,
+      "opts_msg": 428
+    },
+    "2026-10-15-4": {
+      "topic": {
+        "title": "Can You Name These 3 Baby Animals?",
+        "angle": "The 1.5x 'Computer Mouse \u274c Real Mouse \u2705' and 179.2x 'Dreams are getting too real' outliers show quick, playful surprises win, and this is a three-second guessing game with cute, surprising answers.",
+        "format": "quiz",
+        "tone": "normal",
+        "virality_score": 6,
+        "trend_source": "Computer Mouse \u274c Real Mouse \u2705 (1.5x); Uh oh\u2026 Dreams are getting too real (179.2x)",
+        "plan_id": "P2026-10-15-04"
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-15T22:08:39.688364+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "baby animal quiz",
+        "title": "Can You Name These 3 Baby Animals?",
+        "hook_text": "GUESS THESE NAMES",
+        "thumbnail_text": "PORCUPETTE?",
+        "description": "Baby animal names quiz: can you name 3 baby animals in 3 seconds each? Find out what a baby echidna is called, plus the real names for a baby porcupine and a baby puffin.\n\nIn this Short: a 3-second baby animal quiz with porcupines, puffins and echidnas.\n\nSources:\nhttps://www.wndu.com/content/news/Baby-porcupine-is-1st-of-its-species-born-at-Brookfield-Zoo-487898941.html\nhttps://columbusaudubon.org/whats-a-puffling/\nhttps://www.discoverwildlife.com/wildlife/mammals/echidna-puggle",
+        "hashtags": [
+          "#shorts",
+          "#quiz",
+          "#animals",
+          "#trivia"
+        ],
+        "tags": [
+          "baby animal quiz",
+          "baby animal names quiz",
+          "baby animal names",
+          "baby echidna",
+          "baby animal trivia",
+          "baby echidna puggle",
+          "guess the baby animal quiz",
+          "baby animals guess",
+          "baby animal guessing game",
+          "puggle",
+          "baby puffin",
+          "animal quiz",
+          "baby porcupine",
+          "cute baby animals",
+          "what is a baby echidna called",
+          "animal trivia",
+          "puffling",
+          "porcupette"
+        ],
+        "pinned_comment": "Bonus fact: a newborn puggle hatches from an egg about ten days after it's laid, right inside mom's pouch. Which name did you get wrong?",
+        "scenes": [
+          {
+            "text": "What do you call a baby porcupine? You have three seconds before I tell you.",
+            "badge": "Q1",
+            "label": "Baby Porcupine",
+            "stock_queries": [
+              "baby porcupine close up",
+              "cute baby porcupine walking"
+            ],
+            "image_prompt": "Close-up of a tiny baby porcupine on a mossy log with soft quills, cinematic lighting, 4k",
+            "stock_query": "baby porcupine close up"
+          },
+          {
+            "text": "It's a porcupette! Its quills are soft when it's born, and they harden after a few days.",
+            "badge": "\u2713",
+            "label": "Porcupette",
+            "stock_queries": [
+              "porcupine quills close up",
+              "baby porcupine eating"
+            ],
+            "image_prompt": "Macro shot of soft baby porcupine quills, highly detailed, photorealistic, 8k",
+            "stock_query": "porcupine quills close up"
+          },
+          {
+            "text": "Number two, a baby puffin. Three, two, one.",
+            "badge": "Q2",
+            "label": "Baby Puffin",
+            "stock_queries": [
+              "baby puffin chick",
+              "puffin in burrow"
+            ],
+            "image_prompt": "A fluffy grey baby puffin chick sitting in a dirt burrow, wildlife photography",
+            "stock_query": "baby puffin chick"
+          },
+          {
+            "text": "It's a puffling! A little fuzzball whose parents are those clown-faced seabirds.",
+            "badge": "\u2713",
+            "label": "Puffling",
+            "stock_queries": [
+              "atlantic puffin colorful beak",
+              "fluffy puffin chick"
+            ],
+            "image_prompt": "Adult Atlantic puffins with bright colorful beaks standing on a green cliffside",
+            "stock_query": "atlantic puffin colorful beak"
+          },
+          {
+            "text": "Number three, a baby echidna. Three, two, one.",
+            "badge": "Q3",
+            "label": "Baby Echidna",
+            "stock_queries": [
+              "echidna in Australian bush",
+              "echidna sniffing ground"
+            ],
+            "image_prompt": "An echidna walking through the Australian bush, natural habitat, wildlife",
+            "stock_query": "echidna in Australian bush"
+          },
+          {
+            "text": "It's a puggle! And yes, it hatches from an egg, because echidnas are mammals that lay eggs, just like the platypus.",
+            "badge": "\u2713",
+            "label": "Puggle",
+            "stock_queries": [
+              "platypus swimming underwater",
+              "newborn animal in hands"
+            ],
+            "image_prompt": "A platypus swimming in clear blue river water, wildlife photography",
+            "stock_query": "platypus swimming underwater"
+          },
+          {
+            "text": "A new puggle weighs just one or two grams, and it's tiny, blind and hairless.",
+            "badge": "Fact",
+            "label": "Tiny & Hairless",
+            "stock_queries": [
+              "tiny newborn animal",
+              "caretaker holding small animal"
+            ],
+            "image_prompt": "A tiny newborn wild animal resting safely in a caretaker's hands, soft focus background",
+            "stock_query": "tiny newborn animal"
+          },
+          {
+            "text": "So now you know, porcupette, puffling and puggle, and they're all real. How many did you get, one, two or all three? Now go test a friend and ask them this.",
+            "badge": "Score",
+            "label": "How many?",
+            "stock_queries": [
+              "friends laughing at phone",
+              "person counting on fingers"
+            ],
+            "image_prompt": "Two friends laughing and looking at a smartphone together, bright indoor lighting",
+            "stock_query": "friends laughing at phone"
+          }
+        ],
+        "key_facts": [
+          "A baby porcupine is called a porcupette and its quills harden after birth.",
+          "A baby puffin is called a puffling.",
+          "A baby echidna is called a puggle and hatches from an egg.",
+          "Echidnas and platypuses are mammals that lay eggs.",
+          "A newborn puggle weighs 1-2 grams and is blind and hairless."
+        ],
+        "format": "quiz",
+        "tone": "normal",
+        "category": "24",
+        "script": "What do you call a baby porcupine? You have three seconds before I tell you. It's a porcupette! Its quills are soft when it's born, and they harden after a few days. Number two, a baby puffin. Three, two, one. It's a puffling! A little fuzzball whose parents are those clown-faced seabirds. Number three, a baby echidna. Three, two, one. It's a puggle! And yes, it hatches from an egg, because echidnas are mammals that lay eggs, just like the platypus. A new puggle weighs just one or two grams, and it's tiny, blind and hairless. So now you know, porcupette, puffling and puggle, and they're all real. How many did you get, one, two or all three? Now go test a friend and ask them this.",
+        "plan_id": "P2026-10-15-04",
+        "shot_plan": [
+          {
+            "subject": "baby porcupine",
+            "queries": [
+              {
+                "q": "baby porcupine",
+                "must": [
+                  "porcupine"
+                ]
+              },
+              {
+                "q": "porcupine baby",
+                "must": [
+                  "animal"
+                ]
+              },
+              {
+                "q": "cute porcupine",
+                "must": [
+                  "wildlife"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "porcupette quills",
+            "queries": [
+              {
+                "q": "porcupine quills",
+                "must": [
+                  "porcupine"
+                ]
+              },
+              {
+                "q": "baby porcupine walking",
+                "must": [
+                  "porcupine"
+                ]
+              },
+              {
+                "q": "porcupine spikes",
+                "must": [
+                  "animal"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "baby puffin",
+            "queries": [
+              {
+                "q": "baby puffin",
+                "must": [
+                  "puffin"
+                ]
+              },
+              {
+                "q": "puffin chick",
+                "must": [
+                  "bird"
+                ]
+              },
+              {
+                "q": "cute puffin",
+                "must": [
+                  "seabird"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "puffling bird",
+            "queries": [
+              {
+                "q": "puffin chick fuzzy",
+                "must": [
+                  "puffin"
+                ]
+              },
+              {
+                "q": "puffin bird",
+                "must": [
+                  "bird"
+                ]
+              },
+              {
+                "q": "seabird chick",
+                "must": [
+                  "seabird"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "baby echidna",
+            "queries": [
+              {
+                "q": "baby echidna",
+                "must": [
+                  "echidna"
+                ]
+              },
+              {
+                "q": "echidna puggle",
+                "must": [
+                  "animal"
+                ]
+              },
+              {
+                "q": "baby animal spike",
+                "must": [
+                  "wildlife"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "puggle echidna",
+            "queries": [
+              {
+                "q": "echidna baby close up",
+                "must": [
+                  "echidna"
+                ]
+              },
+              {
+                "q": "baby platypus",
+                "must": [
+                  "mammal"
+                ]
+              },
+              {
+                "q": "australian animal baby",
+                "must": [
+                  "animal"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "tiny hairless baby echidna",
+            "queries": [
+              {
+                "q": "newborn animal",
+                "must": [
+                  "newborn"
+                ]
+              },
+              {
+                "q": "hairless baby animal",
+                "must": [
+                  "animal"
+                ]
+              },
+              {
+                "q": "tiny baby animal",
+                "must": [
+                  "baby"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "cute baby animals together",
+            "queries": [
+              {
+                "q": "cute baby animals",
+                "must": [
+                  "animals"
+                ]
+              },
+              {
+                "q": "wildlife babies",
+                "must": [
+                  "wildlife"
+                ]
+              },
+              {
+                "q": "baby animal compilation",
+                "must": [
+                  "cute"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "baby animal",
+          "cute wildlife",
+          "animal close up"
+        ],
+        "visual_style": "Bright, playful and fast-paced stock footage of cute baby animals with clean typography and an engaging guessing game format.",
+        "visual_refs": [
+          "Can You Name These 3 Baby Animals? \ud83d\udc30\ud83e\udd89\ud83d\udc31",
+          "Can You Name ALL These Baby Animals? Animal Babies Quiz Part 9 Age 3+",
+          "How many Baby Animals can you name?! \ud83e\udd81\ud83d\udc18 #challange #shorts",
+          "Can You Guess these Baby Animals In Just 3 Seconds?",
+          "Baby Animals | What Is Each Baby Called? | Ages 3-7",
+          "Top 50 Animals with Their Baby Names | Important for Exam #animalshorts #englishlearning #gkshorts"
+        ],
+        "voice": "en-US-BrianMultilingualNeural",
+        "visual_report": {
+          "shots": 11,
+          "checked": 8,
+          "unchecked": 0,
+          "filler": 5,
+          "ai": 0
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-BrianMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): Alexas_Fotos (Pixabay) https://pixabay.com/photos/squirrel-chipmunk-baby-newborn-5455395/; Alexas_Fotos (Pixabay) https://pixabay.com/photos/newborn-squirrel-squirrel-5549974/; NickyPe (Pixabay) https://pixabay.com/videos/id-120511/; YanaHD (Pixabay) https://pixabay.com/videos/id-211114/; BlenderTimer (Pixabay) https://pixabay.com/videos/id-218645/",
+        "USFWS - Pacific Region / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:USFWS_Hawaiian_petrel_chick_in_its_old_burrow_on_the_mountain._Photo_credit-_Andre_Raine-Kaua%27i_Endangered_Seabird_Recovery_Project_(22723128466).jpg"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-15",
+        "name": "2026-10-15-4-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-15",
+        "name": "2026-10-15-4-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,082 --> 00:00:02,351\nWhat do you call a baby porcupine\n\n2\n00:00:02,351 --> 00:00:04,361\nYou have three seconds before I tell\n\n3\n00:00:04,361 --> 00:00:07,224\nyou It's a porcupette Its quills are\n\n4\n00:00:07,224 --> 00:00:09,765\nsoft when it's born and they harden\n\n5\n00:00:09,765 --> 00:00:12,609\nafter a few days Number two a\n\n6\n00:00:12,609 --> 00:00:15,691\nbaby puffin Three two one It's a\n\n7\n00:00:15,691 --> 00:00:18,845\npuffling A little fuzzball whose parents are\n\n8\n00:00:18,845 --> 00:00:22,677\nthose clown-faced seabirds Number three a baby\n\n9\n00:00:22,677 --> 00:00:26,386\nechidna Three two one It's a puggle\n\n10\n00:00:26,386 --> 00:00:28,668\nAnd yes it hatches from an egg\n\n11\n00:00:28,668 --> 00:00:31,467\nbecause echidnas are mammals that lay eggs\n\n12\n00:00:31,467 --> 00:00:33,872\njust like the platypus A new puggle\n\n13\n00:00:33,872 --> 00:00:36,250\nweighs just one or two grams and\n\n14\n00:00:36,250 --> 00:00:39,631\nit's tiny blind and hairless So now\n\n15\n00:00:39,631 --> 00:00:42,090\nyou know porcupette puffling and puggle and\n\n16\n00:00:42,090 --> 00:00:44,090\nthey're all real How many did you\n\n17\n00:00:44,090 --> 00:00:46,738\nget one two or all three Now\n\n18\n00:00:46,738 --> 00:00:48,559\ngo test a friend and ask them\n\n19\n00:00:48,559 --> 00:00:49,380\nthis\n",
+      "tg_msg": 429,
+      "opts_msg": 431
     }
   },
   "history": [
@@ -12313,7 +13755,11 @@
     "Top 5 Animals That Go Wild for Snow \u2744\ufe0f",
     "5 Real English Words That Sound Made Up",
     "Why Golf Balls Have 300+ Dimples",
-    "Play-Doh Was Wallpaper Cleaner for 20 Years"
+    "Play-Doh Was Wallpaper Cleaner for 20 Years",
+    "The Sleep Jump Up to 70% of People Get",
+    "Top 5 Animals That Play Dead Like Pros",
+    "Top 5 Funniest Ways to Say It's Pouring",
+    "Can You Name These 3 Baby Animals?"
   ],
   "trend_tries": {
     "2026-10-13": {
@@ -12331,14 +13777,14 @@
   },
   "cleanup_day": "2026-10-15",
   "recent_voices": [
-    "en-US-AndrewMultilingualNeural",
-    "en-US-EmmaMultilingualNeural",
+    "en-AU-WilliamMultilingualNeural",
     "en-US-BrianMultilingualNeural",
+    "en-US-EmmaMultilingualNeural",
     "en-US-AvaMultilingualNeural",
-    "en-AU-WilliamMultilingualNeural"
+    "en-US-BrianMultilingualNeural"
   ],
   "visual_searches": {
-    "2026-10-14": 4
+    "2026-10-15": 4
   },
   "signals_day": "2026-10-15"
 }

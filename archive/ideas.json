@@ -1147,44 +1147,44 @@
    {
     "angle": "The 179.2x breakout 'Dreams are getting too real' shows the falling-asleep, half-dream moment is hugely relatable, and this explains the jolt almost everyone has felt.",
     "format": "explainer",
-    "picked": false,
+    "picked": true,
     "rank": 1,
     "title": "The Sleep Jump Up to 70% of People Get",
     "trend_source": "Uh oh… Dreams are getting too real 💭🤣 (179.2x)",
-    "video_id": null,
+    "video_id": "2026-10-15-1",
     "virality_score": 8,
     "why": ""
    },
    {
     "angle": "The 43.4x 'Mama terkecoh' (mom gets fooled) breakout shows being tricked is a top pull, and this counts down the animals that fool predators best.",
     "format": "ranking",
-    "picked": false,
+    "picked": true,
     "rank": 2,
     "title": "Top 5 Animals That Play Dead Like Pros",
     "trend_source": "Mama terkecoh dengan perbuatan baik Arkan (43.4x)",
-    "video_id": null,
+    "video_id": "2026-10-15-2",
     "virality_score": 7,
     "why": ""
    },
    {
     "angle": "The 179.2x 'Dreams are getting too real' and 25.0x 'Bella, I thought you were serious!' breakouts show a silly, kind twist on something everyday wins, and this puts that twist on a phrase everyone says.",
     "format": "funny",
-    "picked": false,
+    "picked": true,
     "rank": 3,
     "title": "Top 5 Funniest Ways to Say It's Pouring",
     "trend_source": "Uh oh… Dreams are getting too real (179.2x); Bella, I thought you were serious! (25.0x)",
-    "video_id": null,
+    "video_id": "2026-10-15-3",
     "virality_score": 7,
     "why": ""
    },
    {
     "angle": "The 1.5x 'Computer Mouse ❌ Real Mouse ✅' and 179.2x 'Dreams are getting too real' outliers show quick, playful surprises win, and this is a three-second guessing game with cute, surprising answers.",
     "format": "quiz",
-    "picked": false,
+    "picked": true,
     "rank": 4,
     "title": "Can You Name These 3 Baby Animals?",
     "trend_source": "Computer Mouse ❌ Real Mouse ✅ (1.5x); Uh oh… Dreams are getting too real (179.2x)",
-    "video_id": null,
+    "video_id": "2026-10-15-4",
     "virality_score": 6,
     "why": ""
    },
@@ -1212,6 +1212,6 @@
    }
   ],
   "sent_at": "2026-10-15T18:19:32.659254+00:00",
-  "status": "waiting"
+  "status": "closed"
  }
 }
