@@ -1,72 +1,6 @@
 {
   "tg_offset": 40455537,
   "batches": {
-    "2026-10-11": {
-      "topics": [
-        {
-          "title": "Top 5 Animals That Became Real Mayors \ud83d\udc36",
-          "angle": "It pairs today's top outlier pattern (a funny, wholesome animal-and-people moment that pays off in seconds, like the 123x and 15x hummingbird Shorts) with the ranking formula the 14x 'calificando' Short used.",
-          "format": "funny",
-          "tone": "funny",
-          "virality_score": 8,
-          "trend_source": "He Removed ALL the Pink... Then She Caught Him (123.4x); When a Wild Hummingbird Trusts a Human Hand (15.0x); CALIFICANDO MEJORES BEBEDORES RAPIDOS (14.1x)",
-          "plan_id": "P2026-10-11-01"
-        },
-        {
-          "title": "How a Dog Saved the 1966 World Cup \u26bd",
-          "angle": "A short, kind animal-hero moment is the same shape as the 15x hummingbird and 123x reveal outliers: an ordinary scene that flips into something surprising in one beat.",
-          "format": "story",
-          "tone": "normal",
-          "virality_score": 8,
-          "trend_source": "When a Wild Hummingbird Trusts a Human Hand (15.0x); He Removed ALL the Pink... Then She Caught Him (123.4x)",
-          "plan_id": "P2026-10-11-02"
-        },
-        {
-          "title": "Top 5 Strangest Animal Drinking Tricks",
-          "angle": "The 15x hummingbird Short shows wild-animal close-ups are breaking out today, and the 14x ranking Short shows a countdown keeps people watching to number one.",
-          "format": "ranking",
-          "tone": "normal",
-          "virality_score": 7,
-          "trend_source": "When a Wild Hummingbird Trusts a Human Hand (15.0x); CALIFICANDO MEJORES BEBEDORES RAPIDOS (14.1x)",
-          "plan_id": "P2026-10-11-03"
-        },
-        {
-          "title": "Jack-o'-Lantern History in 60 Seconds",
-          "angle": "Halloween content is breaking out right now (the 2.2x Halloween candy Short and the 3.5x costume Short), and an origin twist gives it the same flip-the-expectation shape as today's top outliers.",
-          "format": "explainer",
-          "tone": "normal",
-          "virality_score": 7,
-          "trend_source": "ESTOS DULCES de HALLOWEEN PREDICEN EL FUTURO (2.2x); Christen Made One More ICONIC COSTUME! (3.5x)",
-          "plan_id": "P2026-10-11-04"
-        },
-        {
-          "title": "Which Is Bigger? 3-Second Size Quiz \ud83c\udf0d",
-          "angle": "Quick-answer challenge formats keep viewers to the end like the 3.7x 'Try Not to Laugh Challenge', and a 'your map is wrong' flip gives it the expectation-reversal the top outliers share.",
-          "format": "quiz",
-          "tone": "normal",
-          "virality_score": 7,
-          "trend_source": "Try Not to Laugh Challenge 248 (3.7x); He Removed ALL the Pink... Then She Caught Him (123.4x)",
-          "plan_id": "P2026-10-11-05"
-        },
-        {
-          "title": "3 Tricks to Find North When You're Lost",
-          "angle": "Practical, save-worthy Shorts hold viewers to the end, and today's outliers reward one surprising, easy-to-show payoff, here a stick that tells you east from west.",
-          "format": "tips",
-          "tone": "normal",
-          "virality_score": 6,
-          "trend_source": "This is How Polyester Buttons are Made in Indian Factories (3.5x) (show-how-it-works format)",
-          "plan_id": "P2026-10-11-06"
-        }
-      ],
-      "sent_at": "2026-10-11T18:26:49.691602+00:00",
-      "selected": [
-        0,
-        1,
-        2,
-        3
-      ],
-      "status": "closed"
-    },
     "2026-10-11-2": {
       "topics": [
         {
@@ -443,6 +377,67 @@
         3
       ],
       "status": "closed"
+    },
+    "2026-10-15": {
+      "topics": [
+        {
+          "title": "The Sleep Jump Up to 70% of People Get",
+          "angle": "The 179.2x breakout 'Dreams are getting too real' shows the falling-asleep, half-dream moment is hugely relatable, and this explains the jolt almost everyone has felt.",
+          "format": "explainer",
+          "tone": "normal",
+          "virality_score": 8,
+          "trend_source": "Uh oh\u2026 Dreams are getting too real \ud83d\udcad\ud83e\udd23 (179.2x)",
+          "plan_id": "P2026-10-15-01"
+        },
+        {
+          "title": "Top 5 Animals That Play Dead Like Pros",
+          "angle": "The 43.4x 'Mama terkecoh' (mom gets fooled) breakout shows being tricked is a top pull, and this counts down the animals that fool predators best.",
+          "format": "ranking",
+          "tone": "normal",
+          "virality_score": 7,
+          "trend_source": "Mama terkecoh dengan perbuatan baik Arkan (43.4x)",
+          "plan_id": "P2026-10-15-02"
+        },
+        {
+          "title": "Top 5 Funniest Ways to Say It's Pouring",
+          "angle": "The 179.2x 'Dreams are getting too real' and 25.0x 'Bella, I thought you were serious!' breakouts show a silly, kind twist on something everyday wins, and this puts that twist on a phrase everyone says.",
+          "format": "funny",
+          "tone": "funny",
+          "virality_score": 7,
+          "trend_source": "Uh oh\u2026 Dreams are getting too real (179.2x); Bella, I thought you were serious! (25.0x)",
+          "plan_id": "P2026-10-15-03"
+        },
+        {
+          "title": "Can You Name These 3 Baby Animals?",
+          "angle": "The 1.5x 'Computer Mouse \u274c Real Mouse \u2705' and 179.2x 'Dreams are getting too real' outliers show quick, playful surprises win, and this is a three-second guessing game with cute, surprising answers.",
+          "format": "quiz",
+          "tone": "normal",
+          "virality_score": 6,
+          "trend_source": "Computer Mouse \u274c Real Mouse \u2705 (1.5x); Uh oh\u2026 Dreams are getting too real (179.2x)",
+          "plan_id": "P2026-10-15-04"
+        },
+        {
+          "title": "How a Dog Walk Invented Velcro in 1941",
+          "angle": "The 21.3x 'O DESAFIO MAIS DIFICIL...' and 43.4x mom-fooled breakouts show an everyday object plus a surprising backstory pulls viewers, and this reveals the dog walk behind the strap on their shoes.",
+          "format": "story",
+          "tone": "normal",
+          "virality_score": 6,
+          "trend_source": "O DESAFIO MAIS DIFICIL QUE JA FIZ COM MEU CARRO! (21.3x); Mama terkecoh dengan perbuatan baik Arkan (43.4x)",
+          "plan_id": "P2026-10-15-05"
+        },
+        {
+          "title": "Why Your Skipping Stone Sinks (3 Fixes)",
+          "angle": "The 29.4x 'Unstoppable Water Ninja Speed Run' breakout shows a simple water challenge pulls big views, and this turns skipping stones into a beatable challenge with three quick fixes.",
+          "format": "tips",
+          "tone": "normal",
+          "virality_score": 5,
+          "trend_source": "Unstoppable Water Ninja Speed Run (29.4x)",
+          "plan_id": "P2026-10-15-06"
+        }
+      ],
+      "sent_at": "2026-10-15T18:19:32.659254+00:00",
+      "selected": [],
+      "status": "waiting"
     }
   },
   "videos": {
@@ -12321,10 +12316,6 @@
     "Play-Doh Was Wallpaper Cleaner for 20 Years"
   ],
   "trend_tries": {
-    "2026-10-12": {
-      "n": 2,
-      "at": "2026-10-12T22:09:18.547091+00:00"
-    },
     "2026-10-13": {
       "n": 2,
       "at": "2026-10-13T20:21:33.560536+00:00"
@@ -12332,6 +12323,10 @@
     "2026-10-14": {
       "n": 1,
       "at": "2026-10-14T18:39:42.718450+00:00"
+    },
+    "2026-10-15": {
+      "n": 1,
+      "at": "2026-10-15T18:19:31.703333+00:00"
     }
   },
   "cleanup_day": "2026-10-15",
