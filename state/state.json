@@ -441,365 +441,16 @@
         }
       ],
       "sent_at": "2026-10-16T17:52:34.381154+00:00",
-      "selected": [],
-      "status": "waiting"
+      "selected": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "status": "closed"
     }
   },
   "videos": {
-    "2026-10-08-4": {
-      "topic": {
-        "title": "The Mystery of the Vanishing Forest Path",
-        "angle": "A fictional mini-story about a hiker who finds an ancient, overgrown path that seems to loop back on itself, keeping the ending open to interpretation.",
-        "format": "story",
-        "tone": "normal",
-        "trend_source": "evergreen",
-        "virality_score": 7,
-        "why": "Short, atmospheric mystery stories drive high rewatchability as viewers scan the background for clues or details they might have missed."
-      },
-      "status": "published",
-      "by": "auto",
-      "updated": "2026-10-09T03:05:10.788411+00:00",
-      "redos": 0,
-      "package": {
-        "primary_keyword": "vanishing forest path",
-        "title": "The Mystery of the Vanishing Forest Path",
-        "hook_text": "The path just vanished.",
-        "thumbnail_text": "Where did it go?",
-        "description": "Join me as I explore the mystery of the vanishing forest path in the woods today. This is an original fictional story.",
-        "hashtags": [
-          "#shorts",
-          "#mystery",
-          "#forestpath",
-          "#storytime"
-        ],
-        "tags": [
-          "vanishing forest path",
-          "vanishing forest",
-          "hiker gets lost short",
-          "forest mystery",
-          "forest mystery stories",
-          "mysterious forest stories",
-          "mysterious forest disappearances",
-          "short story audio",
-          "woods looping path",
-          "forest mystery story",
-          "hiking mystery short",
-          "original fiction story",
-          "spooky forest narrative",
-          "woods mystery narration",
-          "mysterious walking trail",
-          "hiker goes missing"
-        ],
-        "pinned_comment": "Would you keep walking down that path or turn back immediately? Let us know below!",
-        "key_facts": [],
-        "scenes": [
-          {
-            "text": "That old trail wasn't on any map. I stepped onto the ancient, overgrown path deep in the woods, looking for a shortcut back to camp.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "overgrown forest trail",
-              "hiker in woods"
-            ],
-            "image_prompt": "Vertical 9:16 view of a mossy, ancient hiking trail winding into a dense, mysterious forest with tall trees, moody lighting, no text",
-            "stock_query": "overgrown forest trail"
-          },
-          {
-            "text": "At first, it was peaceful, just the sound of leaves crunching under my boots. But then I noticed the exact same carved stone marker for the third time.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "mossy stone marker",
-              "forest footsteps"
-            ],
-            "image_prompt": "Vertical 9:16 close up of a weathered moss-covered stone marker beside a dirt path in a dark forest, atmospheric lighting, no text",
-            "stock_query": "mossy stone marker"
-          },
-          {
-            "text": "Wait, here is the strange part. The daylight didn't fade, but the shadows all pointed backward, stretching toward the afternoon sun instead of away from it.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "sunlight through trees",
-              "forest shadows"
-            ],
-            "image_prompt": "Vertical 9:16 shot of bright sunbeams piercing through tall pine trees with unusual shadows on the forest floor, no text",
-            "stock_query": "sunlight through trees"
-          },
-          {
-            "text": "I checked my phone to call my friend for help, but the screen was completely blank, not even a single battery bar or emergency signal.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "blank smartphone screen",
-              "hiker holding phone"
-            ],
-            "image_prompt": "Vertical 9:16 shot of a hand holding a modern smartphone with a completely black blank screen in a woodland setting, no text",
-            "stock_query": "blank smartphone screen"
-          },
-          {
-            "text": "Okay, so I tried turning around and walking in the opposite direction, hoping to retrace my steps out of the quiet valley.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "walking away woods",
-              "forest trail direction"
-            ],
-            "image_prompt": "Vertical 9:16 view from behind of a person walking away down a narrow winding dirt path through thick green trees, no text",
-            "stock_query": "walking away woods"
-          },
-          {
-            "text": "Instead, the trees slowly parted to reveal that exact same old stone marker sitting right in front of me again.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "stone marker path",
-              "forest trees opening"
-            ],
-            "image_prompt": "Vertical 9:16 view of a mossy stone marker standing in the middle of a branching woodland trail, mysterious mood, no text",
-            "stock_query": "stone marker path"
-          },
-          {
-            "text": "That old trail wasn't on any map.",
-            "badge": "THE END",
-            "label": "",
-            "stock_queries": [
-              "ancient forest path",
-              "deep woods trail"
-            ],
-            "image_prompt": "Vertical 9:16 wide shot of an endless winding forest path disappearing into heavy fog between ancient tree trunks, no text",
-            "stock_query": "ancient forest path"
-          }
-        ],
-        "format": "story",
-        "tone": "normal",
-        "category": "24",
-        "script": "That old trail wasn't on any map. I stepped onto the ancient, overgrown path deep in the woods, looking for a shortcut back to camp. At first, it was peaceful, just the sound of leaves crunching under my boots. But then I noticed the exact same carved stone marker for the third time. Wait, here is the strange part. The daylight didn't fade, but the shadows all pointed backward, stretching toward the afternoon sun instead of away from it. I checked my phone to call my friend for help, but the screen was completely blank, not even a single battery bar or emergency signal. Okay, so I tried turning around and walking in the opposite direction, hoping to retrace my steps out of the quiet valley. Instead, the trees slowly parted to reveal that exact same old stone marker sitting right in front of me again. That old trail wasn't on any map.",
-        "shot_plan": [
-          {
-            "subject": "overgrown forest path",
-            "queries": [
-              {
-                "q": "overgrown forest path",
-                "must": [
-                  "path"
-                ]
-              },
-              {
-                "q": "ancient woods trail",
-                "must": [
-                  "woods"
-                ]
-              },
-              {
-                "q": "forest trail",
-                "must": [
-                  "forest"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "carved stone marker in woods",
-            "queries": [
-              {
-                "q": "carved stone marker",
-                "must": [
-                  "stone"
-                ]
-              },
-              {
-                "q": "ancient boundary stone",
-                "must": [
-                  "marker"
-                ]
-              },
-              {
-                "q": "mossy rock forest",
-                "must": [
-                  "rock"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "backward shadows in forest",
-            "queries": [
-              {
-                "q": "shadows stretching backward",
-                "must": [
-                  "shadows"
-                ]
-              },
-              {
-                "q": "sunlight through trees",
-                "must": [
-                  "sunlight"
-                ]
-              },
-              {
-                "q": "forest sunbeams",
-                "must": [
-                  "sunbeams"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "blank smartphone screen",
-            "queries": [
-              {
-                "q": "blank smartphone screen",
-                "must": [
-                  "smartphone"
-                ]
-              },
-              {
-                "q": "black phone display",
-                "must": [
-                  "phone"
-                ]
-              },
-              {
-                "q": "holding device",
-                "must": [
-                  "device"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "hiker walking backward",
-            "queries": [
-              {
-                "q": "walking opposite direction",
-                "must": [
-                  "walking"
-                ]
-              },
-              {
-                "q": "hiker in valley",
-                "must": [
-                  "hiker"
-                ]
-              },
-              {
-                "q": "person walking trail",
-                "must": [
-                  "person"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "stone marker in front of trees",
-            "queries": [
-              {
-                "q": "stone marker",
-                "must": [
-                  "marker"
-                ]
-              },
-              {
-                "q": "ancient rock",
-                "must": [
-                  "rock"
-                ]
-              },
-              {
-                "q": "forest trees",
-                "must": [
-                  "trees"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "old trail on map",
-            "queries": [
-              {
-                "q": "old trail map",
-                "must": [
-                  "map"
-                ]
-              },
-              {
-                "q": "vintage paper map",
-                "must": [
-                  "paper"
-                ]
-              },
-              {
-                "q": "topographic map",
-                "must": [
-                  "topographic"
-                ]
-              }
-            ]
-          }
-        ],
-        "broll": [
-          "dark forest path",
-          "misty woods",
-          "ancient trees"
-        ],
-        "visual_style": "Cinematic mystery mini-story with dark fantasy woods, mysterious markers, and disorienting loops in vibrant 3D animation style.",
-        "visual_refs": [
-          "Mira and the Vanishing Trail: The Animals Are Disappearing... (Part 1)",
-          "THE VANISHING PATHS OF ELDERWOOD: A MYSTERY\u2026",
-          "The Vanishing Path",
-          "The Vanishing Path \u2013 Part 1 | The Man Who Never Left the Forest   #creepy  #darkstories",
-          "The Mystery of the Vanishing Bell \u2013 Episode 2: Clues in the Yard | The Bell&#39;s Trail",
-          "The Mystery of the Vanishing Bell \u2013 Episode 3: The Forest Path  #ForestMystery #TrueStoryKids"
-        ],
-        "voice": "en-US-AvaMultilingualNeural",
-        "visual_report": {
-          "shots": 15,
-          "checked": 15,
-          "unchecked": 0,
-          "filler": 1
-        }
-      },
-      "credits": [
-        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AvaMultilingualNeural).",
-        "Stock footage/photos (Pexels/Pixabay Content License): redzy (Pixabay) https://pixabay.com/videos/id-183968/; kykr (Pixabay) https://pixabay.com/videos/id-347289/; thenickmurphy (Pixabay) https://pixabay.com/videos/id-44163/; caelan (Pixabay) https://pixabay.com/videos/id-46347/; caelan (Pixabay) https://pixabay.com/videos/id-46349/; Matthias_Groeneveld (Pixabay) https://pixabay.com/videos/id-220358/; elchao (Pixabay) https://pixabay.com/videos/id-736/; elchao (Pixabay) https://pixabay.com/videos/id-735/; Coverr-Free-Footage (Pixabay) https://pixabay.com/videos/id-3168/; Matthias_Groeneveld (Pixabay) https://pixabay.com/videos/id-260318/; Matthias_Groeneveld (Pixabay) https://pixabay.com/videos/id-260309/; Matthias_Groeneveld (Pixabay) https://pixabay.com/videos/id-258794/; Matthias_Groeneveld (Pixabay) https://pixabay.com/videos/id-167776/; tarlamu (Pixabay) https://pixabay.com/videos/id-33237/"
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-08",
-        "name": "2026-10-08-4-v0.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-08",
-        "name": "2026-10-08-4-v0-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,109 --> 00:00:03,043\nThat old trail wasn't on any map\n\n2\n00:00:03,043 --> 00:00:06,182\nI stepped onto the ancient overgrown path\n\n3\n00:00:06,182 --> 00:00:08,030\ndeep in the woods looking for a\n\n4\n00:00:08,030 --> 00:00:11,223\nshortcut back to camp At first it\n\n5\n00:00:11,223 --> 00:00:13,682\nwas peaceful just the sound of leaves\n\n6\n00:00:13,682 --> 00:00:15,978\ncrunching under my boots But then I\n\n7\n00:00:15,978 --> 00:00:18,614\nnoticed the exact same carved stone marker\n\n8\n00:00:18,614 --> 00:00:21,168\nfor the third time Wait here is\n\n9\n00:00:21,168 --> 00:00:24,429\nthe strange part The daylight didn't fade\n\n10\n00:00:24,429 --> 00:00:27,486\nbut the shadows all pointed backward stretching\n\n11\n00:00:27,486 --> 00:00:29,810\ntoward the afternoon sun instead of away\n\n12\n00:00:29,810 --> 00:00:31,875\nfrom it I checked my phone to\n\n13\n00:00:31,875 --> 00:00:33,736\ncall my friend for help but the\n\n14\n00:00:33,736 --> 00:00:36,671\nscreen was completely blank not even a\n\n15\n00:00:36,671 --> 00:00:40,217\nsingle battery bar or emergency signal Okay\n\n16\n00:00:40,217 --> 00:00:42,473\nso I tried turning around and walking\n\n17\n00:00:42,473 --> 00:00:45,122\nin the opposite direction hoping to retrace\n\n18\n00:00:45,122 --> 00:00:47,473\nmy steps out of the quiet valley\n\n19\n00:00:47,473 --> 00:00:50,883\nInstead the trees slowly parted to reveal\n\n20\n00:00:50,883 --> 00:00:53,736\nthat exact same old stone marker sitting\n\n21\n00:00:53,736 --> 00:00:55,883\nright in front of me again That\n\n22\n00:00:55,883 --> 00:00:58,702\nold trail wasn't on any map\n",
-      "tg_msg": 218,
-      "opts_msg": 220,
-      "approved_by": "auto",
-      "description_full": "Join me as I explore the mystery of the vanishing forest path in the woods today. This is an original fictional story.\n\n#shorts #mystery #forestpath #storytime\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AvaMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): redzy (Pixabay) https://pixabay.com/videos/id-183968/; kykr (Pixabay) https://pixabay.com/videos/id-347289/; thenickmurphy (Pixabay) https://pixabay.com/videos/id-44163/; caelan (Pixabay) https://pixabay.com/videos/id-46347/; caelan (Pixabay) https://pixabay.com/videos/id-46349/; Matthias_Groeneveld (Pixabay) https://pixabay.com/videos/id-220358/; elchao (Pixabay) https://pixabay.com/videos/id-736/; elchao (Pixabay) https://pixabay.com/videos/id-735/; Coverr-Free-Footage (Pixabay) https://pixabay.com/videos/id-3168/; Matthias_Groeneveld (Pixabay) https://pixabay.com/videos/id-260318/; Matthias_Groeneveld (Pixabay) https://pixabay.com/videos/id-260309/; Matthias_Groeneveld (Pixabay) https://pixabay.com/videos/id-258794/; Matthias_Groeneveld (Pixabay) https://pixabay.com/videos/id-167776/; tarlamu (Pixabay) https://pixabay.com/videos/id-33237/\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/9khiknYA6c0",
-          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-09T03:05:10.788428+00:00",
-      "slot": "2026-10-10T01:15:00+00:00"
-    },
     "2026-10-09-1": {
       "topic": {
         "title": "Top 5 Weirdest Ways Animals Sleep \ud83d\ude34",
@@ -12361,6 +12012,1091 @@
       "opts_msg": 431,
       "approved_by": "auto",
       "quota_note": "2026-10-16"
+    },
+    "2026-10-16-1": {
+      "topic": {
+        "title": "Can You Do These 3 Body Tricks?",
+        "angle": "Today's biggest outlier, 'Can u Do this ! #physics' at 356.4x its channel median, is a try-it-yourself challenge, and this turns that dare into three body tricks anyone can test in seconds.",
+        "format": "quiz",
+        "tone": "normal",
+        "virality_score": 8,
+        "trend_source": "Can u Do this ! #physics #shorts (356.4x, The Question)",
+        "plan_id": "P2026-10-16-01"
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-16T23:12:05.598841+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "body tricks",
+        "title": "Can You Do These 3 Body Tricks?",
+        "hook_text": "TRY IT NOW",
+        "thumbnail_text": "BET YOU CAN'T",
+        "description": "Can you do these 3 body tricks? Try the ring finger trick, the foot and number six trick, and the tongue rolling test, then find out why most body tricks you can't do aren't your fault.\n\nIn this Short: the stuck ring finger, the foot that flips direction, and why tongue rolling isn't just genes.\n\nSources:\nhttps://scienceinsights.org/why-cant-i-move-my-ring-finger-independently/\nhttps://archive.imascientist.org.uk/zincn11-zone/question/why-is-it-when-you-rotate-your-foot-clock-wise-and-draw-a-six-in-the-air-with-your-finger-it-then-goes-aticlockwise.html\nhttps://udel.edu/~mcdonald/mythtongueroll.html",
+        "hashtags": [
+          "#shorts",
+          "#challenge",
+          "#bodytricks",
+          "#science",
+          "#quiz"
+        ],
+        "tags": [
+          "body tricks",
+          "why can't i move my ring finger independently",
+          "ring finger trick",
+          "why can't i lift my ring finger",
+          "why can't you move your ring finger",
+          "body tricks challenge",
+          "body tricks you can't do",
+          "foot clockwise number six",
+          "easy body tricks",
+          "body tips and tricks",
+          "cool body tricks you can do",
+          "weird body tricks you can do",
+          "body tricks you can do at home",
+          "tongue rolling",
+          "foot trick draw 6",
+          "is tongue rolling genetic",
+          "brain tricks",
+          "body challenge",
+          "try this challenge"
+        ],
+        "pinned_comment": "Bonus fact: the scientist who first called tongue rolling a simple gene later said he was embarrassed it was still in textbooks. Which trick beat you, one, two or three?",
+        "scenes": [
+          {
+            "text": "Can you do these three body tricks? Lots of people fail at least one, and there's a real reason why. Try each one right now.",
+            "badge": "CHALLENG",
+            "label": "Can you do them?",
+            "stock_queries": [
+              "person looking at hands puzzled",
+              "hands resting on table"
+            ],
+            "image_prompt": "First-person POV of someone looking at their own open hands resting on a clean wooden table, cinematic lighting, vertical framing",
+            "stock_query": "person looking at hands puzzled"
+          },
+          {
+            "text": "Trick one. Hand flat on a table, middle finger folded under. Now lift just your ring finger.",
+            "badge": "TRICK 1",
+            "label": "Lift your ring finger",
+            "stock_queries": [
+              "hand flat middle finger folded",
+              "finger lifting attempt table"
+            ],
+            "image_prompt": "Extreme close-up of a human hand flat on a wooden desk with middle finger tucked under palm, trying to lift ring finger, vertical framing",
+            "stock_query": "hand flat middle finger folded"
+          },
+          {
+            "text": "Stuck? Little tendon bridges tie it to its neighbors, so it can't lift alone.",
+            "badge": "THE REAS",
+            "label": "Tendon bridges",
+            "stock_queries": [
+              "hand anatomy tendons diagram",
+              "medical animation hand tendons"
+            ],
+            "image_prompt": "Anatomical visualization of human hand tendons connecting the ring finger to adjacent fingers, glowing fiber lines, dark background, vertical framing",
+            "stock_query": "hand anatomy tendons diagram"
+          },
+          {
+            "text": "Trick two. Circle your right foot clockwise. Keep going, and draw a six in the air with your right hand.",
+            "badge": "TRICK 2",
+            "label": "Foot clockwise, draw a 6",
+            "stock_queries": [
+              "foot circling air",
+              "hand drawing number six"
+            ],
+            "image_prompt": "Person sitting on a chair circling their right foot in the air while drawing the number 6 with their right index finger, split action focus, vertical framing",
+            "stock_query": "foot circling air"
+          },
+          {
+            "text": "Did your foot flip? For lots of people, it does. Scientists aren't sure why, but one idea is your brain links plans for limbs on the same side.",
+            "badge": "THE REAS",
+            "label": "Same-side brain link",
+            "stock_queries": [
+              "glowing brain neural pathways",
+              "brain motor cortex animation"
+            ],
+            "image_prompt": "Stylized glowing brain illustration showing neural signals firing down to the right side of the body, high-tech science aesthetic, vertical framing",
+            "stock_query": "glowing brain neural pathways"
+          },
+          {
+            "text": "Trick three. Roll your tongue into a U. Roughly sixty-five to eighty-one percent of people can.",
+            "badge": "TRICK 3",
+            "label": "Roll your tongue",
+            "stock_queries": [
+              "person rolling tongue U shape",
+              "face close up tongue roll"
+            ],
+            "image_prompt": "Close-up portrait of a cheerful person effortlessly rolling their tongue into a U-tube shape, bright natural lighting, vertical framing",
+            "stock_query": "person rolling tongue U shape"
+          },
+          {
+            "text": "Textbooks called it a simple gene, but identical twins don't always match.",
+            "badge": "THE REAS",
+            "label": "Not just simple genetics",
+            "stock_queries": [
+              "identical twins side by side",
+              "dna double helix strand"
+            ],
+            "image_prompt": "Side-by-side shot of identical twins where one successfully rolls their tongue and the other tries and smiles, bright studio lighting, vertical framing",
+            "stock_query": "identical twins side by side"
+          },
+          {
+            "text": "So now you know why your finger sticks, your foot flips, and your tongue might not roll. Which trick beat you? Tell me in the comments. Now ask a friend the same thing.",
+            "badge": "RESULTS",
+            "label": "Which trick beat you?",
+            "stock_queries": [
+              "person laughing shrugging camera",
+              "friends trying hand tricks table"
+            ],
+            "image_prompt": "Two friends sitting across a table laughing while testing funny hand and foot tricks together, cozy modern cafe setting, vertical framing",
+            "stock_query": "person laughing shrugging camera"
+          }
+        ],
+        "key_facts": [
+          "The ring finger cannot easily lift independently when the middle finger is bent due to connecting fibrous tendon bands (juncturae tendinum).",
+          "Circling the right foot clockwise while drawing a number six with the right hand often causes the foot to involuntarily reverse direction due to ipsilateral motor coordination in the brain.",
+          "Between 65% and 81% of people can roll their tongue into a U shape.",
+          "Tongue rolling is not governed by a single dominant gene, as evidenced by identical twins who do not always share the trait."
+        ],
+        "format": "quiz",
+        "tone": "normal",
+        "category": "24",
+        "script": "Can you do these three body tricks? Lots of people fail at least one, and there's a real reason why. Try each one right now. Trick one. Hand flat on a table, middle finger folded under. Now lift just your ring finger. Stuck? Little tendon bridges tie it to its neighbors, so it can't lift alone. Trick two. Circle your right foot clockwise. Keep going, and draw a six in the air with your right hand. Did your foot flip? For lots of people, it does. Scientists aren't sure why, but one idea is your brain links plans for limbs on the same side. Trick three. Roll your tongue into a U. Roughly sixty-five to eighty-one percent of people can. Textbooks called it a simple gene, but identical twins don't always match. So now you know why your finger sticks, your foot flips, and your tongue might not roll. Which trick beat you? Tell me in the comments. Now ask a friend the same thing.",
+        "plan_id": "P2026-10-16-01",
+        "shot_plan": [
+          {
+            "subject": "person testing body trick",
+            "queries": [
+              {
+                "q": "person testing",
+                "must": [
+                  "person"
+                ]
+              },
+              {
+                "q": "hand challenge",
+                "must": [
+                  "hand"
+                ]
+              },
+              {
+                "q": "body test",
+                "must": [
+                  "body"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "hand flat on table with finger folded",
+            "queries": [
+              {
+                "q": "hand on table",
+                "must": [
+                  "hand",
+                  "table"
+                ]
+              },
+              {
+                "q": "folded finger",
+                "must": [
+                  "finger"
+                ]
+              },
+              {
+                "q": "hand flat",
+                "must": [
+                  "hand"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "hand tendon anatomy",
+            "queries": [
+              {
+                "q": "hand tendon",
+                "must": [
+                  "tendon"
+                ]
+              },
+              {
+                "q": "finger anatomy",
+                "must": [
+                  "finger"
+                ]
+              },
+              {
+                "q": "human hand bones",
+                "must": [
+                  "hand"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "rotating foot clockwise and drawing six",
+            "queries": [
+              {
+                "q": "foot rotating clockwise",
+                "must": [
+                  "foot"
+                ]
+              },
+              {
+                "q": "drawing six",
+                "must": [
+                  "hand"
+                ]
+              },
+              {
+                "q": "foot circle",
+                "must": [
+                  "foot"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "brain hemisphere connection diagram",
+            "queries": [
+              {
+                "q": "brain connection diagram",
+                "must": [
+                  "brain"
+                ]
+              },
+              {
+                "q": "neurology scan",
+                "must": [
+                  "brain"
+                ]
+              },
+              {
+                "q": "human brain",
+                "must": [
+                  "brain"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "tongue rolling into u shape",
+            "queries": [
+              {
+                "q": "tongue rolling",
+                "must": [
+                  "tongue"
+                ]
+              },
+              {
+                "q": "tongue shape",
+                "must": [
+                  "tongue"
+                ]
+              },
+              {
+                "q": "mouth close up",
+                "must": [
+                  "mouth"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "identical twins smiling",
+            "queries": [
+              {
+                "q": "identical twins",
+                "must": [
+                  "twins"
+                ]
+              },
+              {
+                "q": "twin sisters",
+                "must": [
+                  "twins"
+                ]
+              },
+              {
+                "q": "dna helix",
+                "must": [
+                  "dna"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "person asking friend a question",
+            "queries": [
+              {
+                "q": "friends talking",
+                "must": [
+                  "friends"
+                ]
+              },
+              {
+                "q": "person smiling",
+                "must": [
+                  "person"
+                ]
+              },
+              {
+                "q": "people interacting",
+                "must": [
+                  "people"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "human hand",
+          "anatomical diagram",
+          "person testing"
+        ],
+        "visual_style": "Fast-paced try-it-yourself body challenge videos featuring close-up demonstrations of physical quirks and hands-on anatomy tests",
+        "visual_refs": [
+          "Awesome Body Tricks! #shorts",
+          "Try this fun body trick with your friends \ud83e\udd78 #shorts #tricks",
+          "3 BODY TRICKS THAT WILL CHANGE YOUR LIFE! #Shorts",
+          "*Only 3% Can Do These 3 Moves - Are You Unique?*`#quiztime #bodytricks #challenge`",
+          "3 BODY MAGIC TRICKS anyone can do! \ud83d\ude31\u2728#trick #magic #secret #opticalillussion #tutorial #shorts",
+          "3 weird party tricks with my body"
+        ],
+        "voice": "en-AU-WilliamMultilingualNeural",
+        "visual_report": {
+          "shots": 10,
+          "checked": 8,
+          "unchecked": 0,
+          "filler": 4,
+          "ai": 0
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-AU-WilliamMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): F1Digitals (Pixabay) https://pixabay.com/videos/id-4212/; F1Digitals (Pixabay) https://pixabay.com/videos/id-4363/; WhiteHatDesigner (Pixabay) https://pixabay.com/videos/id-330028/; williamboateng (Pixabay) https://pixabay.com/photos/twins-smile-beauty-african-twins-7609702/; aghyadnajjar (Pixabay) https://pixabay.com/videos/id-41820/",
+        "Unknown / Wikimedia Commons (CC BY 4.0) https://commons.wikimedia.org/wiki/File:Muscles_and_tendons_of_the_hand;_two_figures_of_pointing_%C3%A9co_Wellcome_L0072459.jpg"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-16",
+        "name": "2026-10-16-1-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-16",
+        "name": "2026-10-16-1-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,050 --> 00:00:02,315\nCan you do these three body tricks\n\n2\n00:00:02,315 --> 00:00:04,382\nLots of people fail at least one\n\n3\n00:00:04,382 --> 00:00:06,548\nand there's a real reason why Try\n\n4\n00:00:06,548 --> 00:00:09,493\neach one right now Trick one Hand\n\n5\n00:00:09,493 --> 00:00:11,770\nflat on a table middle finger folded\n\n6\n00:00:11,770 --> 00:00:14,703\nunder Now lift just your ring finger\n\n7\n00:00:14,703 --> 00:00:17,315\nStuck Little tendon bridges tie it to\n\n8\n00:00:17,315 --> 00:00:19,815\nits neighbors so it can't lift alone\n\n9\n00:00:19,815 --> 00:00:23,218\nTrick two Circle your right foot clockwise\n\n10\n00:00:23,218 --> 00:00:25,062\nKeep going and draw a six in\n\n11\n00:00:25,062 --> 00:00:26,906\nthe air with your right hand Did\n\n12\n00:00:26,906 --> 00:00:29,406\nyour foot flip For lots of people\n\n13\n00:00:29,406 --> 00:00:32,439\nit does Scientists aren't sure why but\n\n14\n00:00:32,439 --> 00:00:34,270\none idea is your brain links plans\n\n15\n00:00:34,270 --> 00:00:36,275\nfor limbs on the same side Trick\n\n16\n00:00:36,275 --> 00:00:38,676\nthree Roll your tongue into a U\n\n17\n00:00:38,676 --> 00:00:40,991\nRoughly sixty-five to eighty-one percent of\n\n18\n00:00:40,991 --> 00:00:43,342\npeople can Textbooks called it a simple\n\n19\n00:00:43,342 --> 00:00:46,634\ngene but identical twins don't always match\n\n20\n00:00:46,634 --> 00:00:48,107\nSo now you know why your finger\n\n21\n00:00:48,107 --> 00:00:50,397\nsticks your foot flips and your tongue\n\n22\n00:00:50,397 --> 00:00:53,119\nmight not roll Which trick beat you\n\n23\n00:00:53,119 --> 00:00:55,446\nTell me in the comments Now ask\n\n24\n00:00:55,446 --> 00:00:57,133\na friend the same thing\n",
+      "tg_msg": 450,
+      "opts_msg": 452
+    },
+    "2026-10-16-2": {
+      "topic": {
+        "title": "The 5 Weirdest Things NASA Ever Flew",
+        "angle": "Funny disbelief titles are breaking out today ('I can't believe this is a real sport' at 64.7x), and this countdown packs five true 'wait, really?' moments into space history.",
+        "format": "funny",
+        "tone": "funny",
+        "virality_score": 7,
+        "trend_source": "I can't believe this is a real sport (64.7x); Can u Do this ! (356.4x)",
+        "plan_id": "P2026-10-16-02"
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-16T23:22:24.117607+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "weird things in space",
+        "title": "The 5 Weirdest Things NASA Ever Flew",
+        "hook_text": "SMUGGLED SNACK ALERT",
+        "thumbnail_text": "NOT APPROVED",
+        "description": "The weirdest things ever taken to space by NASA, from golf balls on the Moon to the first dinosaur in space. Number one is the corned beef sandwich an astronaut smuggled into space in 1965.\n\nIn this Short: a feather on the Moon, space tortillas, a dinosaur in orbit, lunar golf balls and the sandwich nobody approved.\n\nSources:\nhttps://www.nasa.gov/missions/gemini/contraband-corned-beef-and-the-early-days-of-space-biology-the-gemini-iii-mission/\nhttps://nssdc.gsfc.nasa.gov/planetary/lunar/apollo_15_feather_drop.html\nhttps://www.clickondetroit.com/sports/2021/02/05/out-of-this-world-shepard-puts-golf-on-moon-50-years-ago/",
+        "hashtags": [
+          "#shorts",
+          "#space",
+          "#nasa",
+          "#funnyfacts",
+          "#funny"
+        ],
+        "tags": [
+          "weird things in space",
+          "corned beef sandwich space",
+          "nasa",
+          "funny things in space",
+          "weirdest thing in space",
+          "weird things about space",
+          "first dinosaur in space",
+          "weirdest things taken to space",
+          "things astronauts took to space",
+          "weird stuff in space",
+          "weird objects in space",
+          "strange things in space",
+          "unusual things in space",
+          "apollo 14 golf",
+          "apollo 15 feather",
+          "funny space facts",
+          "hammer and feather drop",
+          "space facts",
+          "golf on the moon",
+          "gemini 3 sandwich",
+          "tortillas in space"
+        ],
+        "pinned_comment": "Bonus fact: astronauts switched to tortillas because floating crumbs can get into equipment. So what would YOU sneak into space? Pick one snack.",
+        "scenes": [
+          {
+            "text": "What's the weirdest thing NASA ever flew? Nobody approved number one, but it went up anyway. Here are five real ones, counted down.",
+            "badge": "",
+            "label": "NOT APPROVED",
+            "stock_queries": [
+              "rocket launch sky",
+              "astronaut floating inside spaceship"
+            ],
+            "image_prompt": "Cinematic vertical shot of a rocket launching into orbit, framed dramatically with atmospheric smoke and fiery thrusters.",
+            "stock_query": "rocket launch sky"
+          },
+          {
+            "text": "Number five, a feather. On the Moon, an astronaut dropped a hammer and a feather together. With no air, they landed at the exact same moment. Take that, gravity.",
+            "badge": "",
+            "label": "TIE!",
+            "stock_queries": [
+              "falling feather slow motion",
+              "hammer dropping dust"
+            ],
+            "image_prompt": "A metal geological hammer and a single white falcon feather hitting the gray lunar dust simultaneously in crisp vacuum lighting.",
+            "stock_query": "falling feather slow motion"
+          },
+          {
+            "text": "Number four, tortillas. Floating bread crumbs can drift into equipment, so tortillas have been a space staple since nineteen eighty-five.",
+            "badge": "",
+            "label": "NO CRUMBS",
+            "stock_queries": [
+              "flour tortillas stack",
+              "floating bread crumbs"
+            ],
+            "image_prompt": "A stack of soft flour tortillas floating weightlessly inside a high-tech modern spacecraft cockpit with Earth outside the window.",
+            "stock_query": "flour tortillas stack"
+          },
+          {
+            "text": "Number three, a dinosaur. That same year, bones from a dinosaur called Maiasaura rode a shuttle into orbit.",
+            "badge": "",
+            "label": "DINO IN ORBIT",
+            "stock_queries": [
+              "dinosaur fossil bones",
+              "space shuttle orbiting earth"
+            ],
+            "image_prompt": "Ancient fossilized dinosaur bone fragment secured inside a clear specimen container floating against a spacecraft viewport showing planet Earth.",
+            "stock_query": "dinosaur fossil bones"
+          },
+          {
+            "text": "Number two, golf balls. In nineteen seventy-one, an astronaut golfed on the Moon, and the balls went only about twenty-four and forty yards.",
+            "badge": "",
+            "label": "LUNAR GOLF",
+            "stock_queries": [
+              "golf ball sand crater",
+              "golfer swing slow motion"
+            ],
+            "image_prompt": "A dimpled white golf ball sitting in fine powdery gray lunar soil next to a deep astronaut bootprint on the Moon.",
+            "stock_query": "golf ball sand crater"
+          },
+          {
+            "text": "Number one, a corned beef sandwich. In nineteen sixty-five, an astronaut smuggled one aboard, and it got stashed before the crumbs floated off. Basically, a sneaky packed lunch.",
+            "badge": "",
+            "label": "SMUGGLED LUNCH",
+            "stock_queries": [
+              "corned beef sandwich rye",
+              "spacesuit pocket close up"
+            ],
+            "image_prompt": "A classic corned beef sandwich on rye bread floating comically inside a vintage 1960s space capsule control room with tiny crumbs drifting nearby.",
+            "stock_query": "corned beef sandwich rye"
+          },
+          {
+            "text": "What would you sneak into space? Tell me in the comments. Now you'll know the answer to the big question.",
+            "badge": "",
+            "label": "NOW YOU KNOW",
+            "stock_queries": [
+              "space helmet visor reflection",
+              "rocket flying clouds"
+            ],
+            "image_prompt": "An astronaut helmet reflecting a bright starry universe and a question mark glowing subtly in the visor reflection.",
+            "stock_query": "space helmet visor reflection"
+          }
+        ],
+        "key_facts": [
+          "An astronaut dropped a hammer and feather on the Moon, landing simultaneously due to the vacuum.",
+          "NASA has used tortillas instead of bread since 1985 to prevent crumbs from damaging equipment.",
+          "Fossil bones of a Maiasaura dinosaur flew to orbit aboard a space shuttle in 1985.",
+          "Astronaut Alan Shepard hit two golf balls on the Moon in 1971, which traveled around 24 and 40 yards.",
+          "Astronaut John Young smuggled a corned beef sandwich aboard Gemini 3 in 1965."
+        ],
+        "format": "funny",
+        "tone": "funny",
+        "category": "23",
+        "script": "What's the weirdest thing NASA ever flew? Nobody approved number one, but it went up anyway. Here are five real ones, counted down. Number five, a feather. On the Moon, an astronaut dropped a hammer and a feather together. With no air, they landed at the exact same moment. Take that, gravity. Number four, tortillas. Floating bread crumbs can drift into equipment, so tortillas have been a space staple since nineteen eighty-five. Number three, a dinosaur. That same year, bones from a dinosaur called Maiasaura rode a shuttle into orbit. Number two, golf balls. In nineteen seventy-one, an astronaut golfed on the Moon, and the balls went only about twenty-four and forty yards. Number one, a corned beef sandwich. In nineteen sixty-five, an astronaut smuggled one aboard, and it got stashed before the crumbs floated off. Basically, a sneaky packed lunch. What would you sneak into space? Tell me in the comments. Now you'll know the answer to the big question.",
+        "plan_id": "P2026-10-16-02",
+        "shot_plan": [
+          {
+            "subject": "space shuttle launch",
+            "queries": [
+              {
+                "q": "space shuttle launch",
+                "must": [
+                  "shuttle"
+                ]
+              },
+              {
+                "q": "rocket takeoff",
+                "must": [
+                  "rocket"
+                ]
+              },
+              {
+                "q": "nasa rocket",
+                "must": [
+                  "nasa"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "feather dropping on the moon surface",
+            "queries": [
+              {
+                "q": "feather dropping surface",
+                "must": [
+                  "feather"
+                ]
+              },
+              {
+                "q": "moon surface",
+                "must": [
+                  "moon"
+                ]
+              },
+              {
+                "q": "lunar surface",
+                "must": [
+                  "lunar"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "tortillas floating in zero gravity",
+            "queries": [
+              {
+                "q": "tortilla space",
+                "must": [
+                  "tortilla"
+                ]
+              },
+              {
+                "q": "space food",
+                "must": [
+                  "food"
+                ]
+              },
+              {
+                "q": "zero gravity floating",
+                "must": [
+                  "gravity"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "dinosaur fossil bones",
+            "queries": [
+              {
+                "q": "dinosaur fossil bones",
+                "must": [
+                  "dinosaur"
+                ]
+              },
+              {
+                "q": "museum fossil",
+                "must": [
+                  "fossil"
+                ]
+              },
+              {
+                "q": "bones skeleton",
+                "must": [
+                  "bones"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "golf balls on the moon",
+            "queries": [
+              {
+                "q": "golf ball moon",
+                "must": [
+                  "golf"
+                ]
+              },
+              {
+                "q": "lunar golf",
+                "must": [
+                  "lunar"
+                ]
+              },
+              {
+                "q": "golf club swing",
+                "must": [
+                  "swing"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "corned beef sandwich",
+            "queries": [
+              {
+                "q": "corned beef sandwich",
+                "must": [
+                  "sandwich"
+                ]
+              },
+              {
+                "q": "meat sandwich",
+                "must": [
+                  "meat"
+                ]
+              },
+              {
+                "q": "packed lunch",
+                "must": [
+                  "lunch"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "astronaut floating inside space station",
+            "queries": [
+              {
+                "q": "astronaut floating",
+                "must": [
+                  "astronaut"
+                ]
+              },
+              {
+                "q": "space station interior",
+                "must": [
+                  "station"
+                ]
+              },
+              {
+                "q": "orbit view",
+                "must": [
+                  "orbit"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "space shuttle launch",
+          "astronaut in orbit",
+          "moon surface"
+        ],
+        "visual_style": "Fast-paced vertical space documentary featuring real archival footage, dramatic countdown labels, and surprising quirky historical artifacts.",
+        "visual_refs": [
+          "Strangest Things Found In Space",
+          "Astronauts left some weird stuff on The Moon!",
+          "Strange Object Floating In Space \ud83d\ude27 (not what you think)",
+          "The Most TERRIFYING Space Photo #space #nasa #science",
+          "Top 5 STRANGEST Items Flown Into Space... #shorts #top #subscribe",
+          "The Plane That Accidentally Flew Into Space \ud83d\ude28 (EXPLAINED)"
+        ],
+        "voice": "en-US-AndrewMultilingualNeural",
+        "visual_report": {
+          "shots": 11,
+          "checked": 11,
+          "unchecked": 0,
+          "filler": 2,
+          "ai": 0
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AndrewMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): NASA-Imagery (Pixabay) https://pixabay.com/videos/id-235/; NASA-Imagery (Pixabay) https://pixabay.com/videos/id-228/; NASA-Imagery (Pixabay) https://pixabay.com/videos/id-8/; kykr (Pixabay) https://pixabay.com/videos/id-347276/; shahfaisalkhan6676 (Pixabay) https://pixabay.com/videos/id-82787/; shahfaisalkhan6676 (Pixabay) https://pixabay.com/videos/id-82786/",
+        "NASA / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:ISS-50_Peggy_Whitson_with_a_%27space_cheeseburger%27.jpg",
+        "NASA / JSC: \"Hadfield floats near CTBs\" (public domain)",
+        "NASA / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:Leland_Melvin_floating_in_Airlock.jpg"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-16",
+        "name": "2026-10-16-2-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-16",
+        "name": "2026-10-16-2-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,095 --> 00:00:02,619\nWhat's the weirdest thing NASA ever flew\n\n2\n00:00:02,619 --> 00:00:04,440\nNobody approved number one but it went\n\n3\n00:00:04,440 --> 00:00:07,048\nup anyway Here are five real ones\n\n4\n00:00:07,048 --> 00:00:10,048\ncounted down Number five a feather On\n\n5\n00:00:10,048 --> 00:00:12,952\nthe Moon an astronaut dropped a hammer\n\n6\n00:00:12,952 --> 00:00:15,357\nand a feather together With no air\n\n7\n00:00:15,357 --> 00:00:17,429\nthey landed at the exact same moment\n\n8\n00:00:17,429 --> 00:00:21,012\nTake that gravity Number four tortillas Floating\n\n9\n00:00:21,012 --> 00:00:23,881\nbread crumbs can drift into equipment so\n\n10\n00:00:23,881 --> 00:00:25,631\ntortillas have been a space staple since\n\n11\n00:00:25,631 --> 00:00:29,190\nnineteen eighty-five Number three a dinosaur\n\n12\n00:00:29,190 --> 00:00:31,500\nThat same year bones from a dinosaur\n\n13\n00:00:31,500 --> 00:00:34,786\ncalled Maiasaura rode a shuttle into orbit\n\n14\n00:00:34,786 --> 00:00:37,976\nNumber two golf balls In nineteen seventy-one\n\n15\n00:00:37,976 --> 00:00:40,048\nan astronaut golfed on the Moon and\n\n16\n00:00:40,048 --> 00:00:41,786\nthe balls went only about twenty-four and\n\n17\n00:00:41,786 --> 00:00:44,524\nforty yards Number one a corned beef\n\n18\n00:00:44,524 --> 00:00:47,798\nsandwich In nineteen sixty-five an astronaut\n\n19\n00:00:47,798 --> 00:00:50,214\nsmuggled one aboard and it got stashed\n\n20\n00:00:50,214 --> 00:00:52,857\nbefore the crumbs floated off Basically a\n\n21\n00:00:52,857 --> 00:00:55,083\nsneaky packed lunch What would you sneak\n\n22\n00:00:55,083 --> 00:00:57,560\ninto space Tell me in the comments\n\n23\n00:00:57,560 --> 00:00:58,667\nNow you'll know the answer to the\n\n24\n00:00:58,667 --> 00:00:59,769\nbig question\n",
+      "tg_msg": 453,
+      "opts_msg": 455
+    },
+    "2026-10-16-3": {
+      "topic": {
+        "title": "Top 5 Loudest Animals on Earth \ud83d\udd0a",
+        "angle": "The 356.4x 'Can u Do this !' outlier wins on one question the viewer wants to answer, and 'What's the loudest animal?' is that kind of instant guessing game, paid off with a surprise number one.",
+        "format": "ranking",
+        "tone": "normal",
+        "virality_score": 7,
+        "trend_source": "Can u Do this ! #physics #shorts (356.4x, The Question)",
+        "plan_id": "P2026-10-16-03"
+      },
+      "status": "failed",
+      "by": "auto",
+      "updated": "2026-10-16T23:00:34.869869+00:00",
+      "redos": 0
+    },
+    "2026-10-16-4": {
+      "topic": {
+        "title": "Wobbly Table? 3 Fixes (One Is Pure Math)",
+        "angle": "The 356.4x 'Can u Do this ! #physics' outlier shows a quick physics-style trick viewers can try instantly does huge numbers, and turning a wobbly table is a try-it-now trick with real math behind it.",
+        "format": "tips",
+        "tone": "normal",
+        "virality_score": 6,
+        "trend_source": "Can u Do this ! #physics #shorts (356.4x, The Question)",
+        "plan_id": "P2026-10-16-04"
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-16T23:31:49.547759+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "fix wobbly table",
+        "title": "Wobbly Table? 3 Fixes (One Is Pure Math)",
+        "hook_text": "NO TOOLS NEEDED",
+        "thumbnail_text": "JUST ROTATE",
+        "description": "How to fix a wobbly table in seconds with 3 easy fixes. The best one is a math trick: just rotate the table and it stops wobbling.\n\nIn this Short: checking the floor, adjusting the feet, and the wobbly table math trick that mathematicians proved works.\n\nSources:\nhttps://www.scientificamerican.com/article/strange-but-true-turning\nhttps://www.smithsonianmag.com/smart-news/foolproof-way-fix-wobbly-table-180953264/",
+        "hashtags": [
+          "#shorts",
+          "#lifehacks",
+          "#math",
+          "#diy"
+        ],
+        "tags": [
+          "fix wobbly table",
+          "wobbly table",
+          "wobbly table theorem",
+          "fix uneven table legs",
+          "fix wobbly table legs",
+          "how to fix wobbly coffee table",
+          "how to fix wobbly dining table",
+          "wobbly table math",
+          "fix shaky table",
+          "wobbly table legs",
+          "stop table wobbling",
+          "adjustable table feet",
+          "home hacks",
+          "math tricks",
+          "rotate table",
+          "uneven floor",
+          "table wobbles"
+        ],
+        "pinned_comment": "Bonus fact: the proof only needs the floor to slope less than about thirty-five degrees anywhere, so almost any normal floor qualifies. Did the turning trick work for you?",
+        "scenes": [
+          {
+            "text": "Why does your table wobble? Stop wasting napkins, math actually found a better fix. Here are three fixes, weirdest last.",
+            "badge": "",
+            "label": "Wobbly Table Solutions",
+            "stock_queries": [
+              "wobbly cafe table coffee cup shaking",
+              "folded napkins under table leg"
+            ],
+            "image_prompt": "Close-up shot of a ceramic coffee cup rattling and spilling slightly on an unstable, rocking cafe table, folded paper napkins crumpled nearby on the floor, warm cafe lighting, realistic 4k photography",
+            "stock_query": "wobbly cafe table coffee cup shaking"
+          },
+          {
+            "text": "Fix one, check the floor. Slide the table a little and see if the wobble disappears. Often it's the floor that's uneven, not the table.",
+            "badge": "TIP 1",
+            "label": "Slide Along Floor",
+            "stock_queries": [
+              "person sliding wooden table",
+              "uneven wooden floor boards"
+            ],
+            "image_prompt": "Low angle view of wooden table legs being gently slid across an uneven rustic hardwood floor, showing slight gaps between planks, natural indoor daylight",
+            "stock_query": "person sliding wooden table"
+          },
+          {
+            "text": "Fix two, check the feet. Lots of tables have little screw-in feet underneath. Twist the short one out until all four legs touch.",
+            "badge": "TIP 2",
+            "label": "Adjust Screw Feet",
+            "stock_queries": [
+              "adjustable screw foot table leg",
+              "hand twisting threaded furniture foot"
+            ],
+            "image_prompt": "Close-up shot of human fingers twisting a black threaded leveling foot at the base of a metal table leg, bringing it flush against the floor, crisp focus",
+            "stock_query": "adjustable screw foot table leg"
+          },
+          {
+            "text": "Fix three, the math trick. Slowly turn the table around its middle.",
+            "badge": "TIP 3",
+            "label": "Rotate The Table",
+            "stock_queries": [
+              "overhead view rotating square table",
+              "person turning small square table"
+            ],
+            "image_prompt": "Top-down birds-eye shot of a square wooden bistro table being rotated clockwise on an uneven textured floor, subtle motion blur indicating smooth circular rotation",
+            "stock_query": "overhead view rotating square table"
+          },
+          {
+            "text": "Mathematicians proved that on a smooth, gently uneven floor, a square table with equal legs finds a spot where all four touch.",
+            "badge": "TIP 3",
+            "label": "Proven Table Theorem",
+            "stock_queries": [
+              "geometry diagram table floor chalkboard",
+              "3d graphic square table four legs"
+            ],
+            "image_prompt": "Clean graphic visualization showing a four-legged square table resting stably on a gently undulating surface with geometric vector guides illustrating contact points, bright minimal studio setting",
+            "stock_query": "geometry diagram table floor chalkboard"
+          },
+          {
+            "text": "Usually within a quarter turn, because the hovering leg has to touch down somewhere. It won't be perfectly level, and tile edges break it, but the rocking stops.",
+            "badge": "TIP 3",
+            "label": "Within Quarter Turn",
+            "stock_queries": [
+              "table leg touching floor surface",
+              "steady coffee cup sitting still"
+            ],
+            "image_prompt": "Side profile macro shot of a table foot smoothly making solid contact with an uneven floor surface, stabilizing completely without wobbling, warm ambient light",
+            "stock_query": "table leg touching floor surface"
+          },
+          {
+            "text": "So skip the napkin: check the floor, fix the feet, or just turn it. Ever tried the turning trick? Tell me if it worked. Next time your coffee rattles, you'll know what to ask.",
+            "badge": "",
+            "label": "Try The Rotation",
+            "stock_queries": [
+              "person enjoying coffee at steady table",
+              "calm cafe table cup still"
+            ],
+            "image_prompt": "Satisfying medium shot of a patron peacefully sipping from a completely stable ceramic mug at a sturdy cafe table, bright cozy cafe interior in soft background",
+            "stock_query": "person enjoying coffee at steady table"
+          }
+        ],
+        "key_facts": [
+          "Wobbling is frequently caused by uneven floor contours rather than flawed table legs.",
+          "Many commercial and home tables feature built-in adjustable threaded screw feet.",
+          "Mathematical topology proofs demonstrate that rotating a square four-legged table on a continuously uneven floor guarantees a state where all four legs touch simultaneously.",
+          "A stable contact orientation occurs within a 90-degree (quarter turn) rotation.",
+          "Abrupt discontinuities like sharp tile thresholds or steps violate the theorem's continuity premise.",
+          "A rotation-stabilized table may rest at a slight incline, but rocking motion is eliminated."
+        ],
+        "format": "tips",
+        "tone": "normal",
+        "category": "26",
+        "script": "Why does your table wobble? Stop wasting napkins, math actually found a better fix. Here are three fixes, weirdest last. Fix one, check the floor. Slide the table a little and see if the wobble disappears. Often it's the floor that's uneven, not the table. Fix two, check the feet. Lots of tables have little screw-in feet underneath. Twist the short one out until all four legs touch. Fix three, the math trick. Slowly turn the table around its middle. Mathematicians proved that on a smooth, gently uneven floor, a square table with equal legs finds a spot where all four touch. Usually within a quarter turn, because the hovering leg has to touch down somewhere. It won't be perfectly level, and tile edges break it, but the rocking stops. So skip the napkin: check the floor, fix the feet, or just turn it. Ever tried the turning trick? Tell me if it worked. Next time your coffee rattles, you'll know what to ask.",
+        "plan_id": "P2026-10-16-04",
+        "shot_plan": [
+          {
+            "subject": "wobbly table",
+            "queries": [
+              {
+                "q": "wobbly table",
+                "must": [
+                  "table"
+                ]
+              },
+              {
+                "q": "shaky table",
+                "must": [
+                  "table"
+                ]
+              },
+              {
+                "q": "furniture",
+                "must": [
+                  "furniture"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "wooden floor",
+            "queries": [
+              {
+                "q": "wooden floor",
+                "must": [
+                  "floor"
+                ]
+              },
+              {
+                "q": "uneven floor",
+                "must": [
+                  "floor"
+                ]
+              },
+              {
+                "q": "room",
+                "must": [
+                  "room"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "table leg",
+            "queries": [
+              {
+                "q": "table leg",
+                "must": [
+                  "leg"
+                ]
+              },
+              {
+                "q": "screw foot",
+                "must": [
+                  "screw"
+                ]
+              },
+              {
+                "q": "furniture hardware",
+                "must": [
+                  "hardware"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "rotating table",
+            "queries": [
+              {
+                "q": "rotating table",
+                "must": [
+                  "table"
+                ]
+              },
+              {
+                "q": "turning table",
+                "must": [
+                  "table"
+                ]
+              },
+              {
+                "q": "furniture rotation",
+                "must": [
+                  "furniture"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "mathematical formula",
+            "queries": [
+              {
+                "q": "mathematical formula",
+                "must": [
+                  "formula"
+                ]
+              },
+              {
+                "q": "math equation",
+                "must": [
+                  "equation"
+                ]
+              },
+              {
+                "q": "chalkboard",
+                "must": [
+                  "chalkboard"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "table corner",
+            "queries": [
+              {
+                "q": "table corner",
+                "must": [
+                  "table"
+                ]
+              },
+              {
+                "q": "tile floor",
+                "must": [
+                  "tile"
+                ]
+              },
+              {
+                "q": "floor surface",
+                "must": [
+                  "surface"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "coffee cup",
+            "queries": [
+              {
+                "q": "coffee cup",
+                "must": [
+                  "cup"
+                ]
+              },
+              {
+                "q": "coffee mug",
+                "must": [
+                  "mug"
+                ]
+              },
+              {
+                "q": "drink",
+                "must": [
+                  "drink"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "table",
+          "floor",
+          "math"
+        ],
+        "visual_style": "Clean, educational close-up stock footage demonstrating a physics and math trick with real-world objects.",
+        "visual_refs": [
+          "If you think that you\u2019re not good at math, YOU need to watch this! #Shorts #math #motivation",
+          "How North Koreans Learn Math - Yeonmi Park",
+          "She Can&#39;t Do Basic Math",
+          "Why Asians are so Good at Math...\ud83e\udd13#shorts",
+          "How Math Changes Over Time",
+          "3 \u091a\u0940\u091c\u0947 \u091c\u094b Maths \u0915\u094b \u0938\u0941\u0927\u093e\u0930 \u0926\u0947\u0902\u0917\u0940 \ud83d\udd25 Gagan Pratap Sir #maths #ssc #exam"
+        ],
+        "voice": "en-US-AvaMultilingualNeural",
+        "visual_report": {
+          "shots": 14,
+          "checked": 13,
+          "unchecked": 0,
+          "filler": 3,
+          "ai": 0
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AvaMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): MoonpetalMedia (Pixabay) https://pixabay.com/videos/id-372569/; LadislavBur (Pixabay) https://pixabay.com/videos/id-43731/; SYG_Anime (Pixabay) https://pixabay.com/videos/id-267787/; olenchic (Pixabay) https://pixabay.com/videos/id-362437/; Artur_nntt (Pixabay) https://pixabay.com/videos/id-88751/; Artur_nntt (Pixabay) https://pixabay.com/videos/id-88748/; Ekoanug (Pixabay) https://pixabay.com/photos/corner-table-table-wood-5262488/; Engin_Akyurt (Pixabay) https://pixabay.com/photos/table-corner-macro-wood-wooden-2591704/; kelvinreislavras (Pixabay) https://pixabay.com/videos/id-31673/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-322244/; jeffjacobs1990 (Pixabay) https://pixabay.com/videos/id-27230/"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-16",
+        "name": "2026-10-16-4-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-16",
+        "name": "2026-10-16-4-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,098 --> 00:00:02,475\nWhy does your table wobble Stop wasting\n\n2\n00:00:02,475 --> 00:00:05,858\nnapkins math actually found a better fix\n\n3\n00:00:05,858 --> 00:00:08,922\nHere are three fixes weirdest last Fix\n\n4\n00:00:08,922 --> 00:00:11,520\none check the floor Slide the table\n\n5\n00:00:11,520 --> 00:00:13,199\na little and see if the wobble\n\n6\n00:00:13,199 --> 00:00:16,630\ndisappears Often it's the floor that's uneven\n\n7\n00:00:16,630 --> 00:00:18,763\nnot the table Fix two check the\n\n8\n00:00:18,763 --> 00:00:21,238\nfeet Lots of tables have little screw-in\n\n9\n00:00:21,238 --> 00:00:23,726\nfeet underneath Twist the short one out\n\n10\n00:00:23,726 --> 00:00:26,483\nuntil all four legs touch Fix three\n\n11\n00:00:26,483 --> 00:00:29,179\nthe math trick Slowly turn the table\n\n12\n00:00:29,179 --> 00:00:31,863\naround its middle Mathematicians proved that\n\n13\n00:00:31,863 --> 00:00:34,767\non a smooth gently uneven floor a\n\n14\n00:00:34,767 --> 00:00:37,181\nsquare table with equal legs finds a\n\n15\n00:00:37,181 --> 00:00:39,902\nspot where all four touch Usually within\n\n16\n00:00:39,902 --> 00:00:41,801\na quarter turn because the hovering leg\n\n17\n00:00:41,801 --> 00:00:43,897\nhas to touch down somewhere It won't\n\n18\n00:00:43,897 --> 00:00:46,532\nbe perfectly level and tile edges break\n\n19\n00:00:46,532 --> 00:00:49,093\nit but the rocking stops So skip\n\n20\n00:00:49,093 --> 00:00:51,373\nthe napkin check the floor fix the\n\n21\n00:00:51,373 --> 00:00:54,020\nfeet or just turn it Ever tried\n\n22\n00:00:54,020 --> 00:00:55,711\nthe turning trick Tell me if it\n\n23\n00:00:55,711 --> 00:00:58,480\nworked Next time your coffee rattles you'll\n\n24\n00:00:58,480 --> 00:00:59,750\nknow what to ask\n",
+      "tg_msg": 457,
+      "opts_msg": 459
     }
   },
   "history": [
@@ -12419,7 +13155,10 @@
     "The Sleep Jump Up to 70% of People Get",
     "Top 5 Animals That Play Dead Like Pros",
     "Top 5 Funniest Ways to Say It's Pouring",
-    "Can You Name These 3 Baby Animals?"
+    "Can You Name These 3 Baby Animals?",
+    "Can You Do These 3 Body Tricks?",
+    "The 5 Weirdest Things NASA Ever Flew",
+    "Wobbly Table? 3 Fixes (One Is Pure Math)"
   ],
   "trend_tries": {
     "2026-10-14": {
@@ -12437,14 +13176,14 @@
   },
   "cleanup_day": "2026-10-16",
   "recent_voices": [
-    "en-AU-WilliamMultilingualNeural",
-    "en-US-BrianMultilingualNeural",
-    "en-US-EmmaMultilingualNeural",
     "en-US-AvaMultilingualNeural",
-    "en-US-BrianMultilingualNeural"
+    "en-US-BrianMultilingualNeural",
+    "en-AU-WilliamMultilingualNeural",
+    "en-US-AndrewMultilingualNeural",
+    "en-US-AvaMultilingualNeural"
   ],
   "visual_searches": {
-    "2026-10-15": 4
+    "2026-10-16": 3
   },
   "signals_day": "2026-10-16"
 }
