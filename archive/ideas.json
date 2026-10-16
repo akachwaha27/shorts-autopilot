@@ -1213,5 +1213,78 @@
   ],
   "sent_at": "2026-10-15T18:19:32.659254+00:00",
   "status": "closed"
+ },
+ "2026-10-16": {
+  "date": "2026-10-16",
+  "ideas": [
+   {
+    "angle": "Today's biggest outlier, 'Can u Do this ! #physics' at 356.4x its channel median, is a try-it-yourself challenge, and this turns that dare into three body tricks anyone can test in seconds.",
+    "format": "quiz",
+    "picked": false,
+    "rank": 1,
+    "title": "Can You Do These 3 Body Tricks?",
+    "trend_source": "Can u Do this ! #physics #shorts (356.4x, The Question)",
+    "video_id": null,
+    "virality_score": 8,
+    "why": ""
+   },
+   {
+    "angle": "Funny disbelief titles are breaking out today ('I can't believe this is a real sport' at 64.7x), and this countdown packs five true 'wait, really?' moments into space history.",
+    "format": "funny",
+    "picked": false,
+    "rank": 2,
+    "title": "The 5 Weirdest Things NASA Ever Flew",
+    "trend_source": "I can't believe this is a real sport (64.7x); Can u Do this ! (356.4x)",
+    "video_id": null,
+    "virality_score": 7,
+    "why": ""
+   },
+   {
+    "angle": "The 356.4x 'Can u Do this !' outlier wins on one question the viewer wants to answer, and 'What's the loudest animal?' is that kind of instant guessing game, paid off with a surprise number one.",
+    "format": "ranking",
+    "picked": false,
+    "rank": 3,
+    "title": "Top 5 Loudest Animals on Earth 🔊",
+    "trend_source": "Can u Do this ! #physics #shorts (356.4x, The Question)",
+    "video_id": null,
+    "virality_score": 7,
+    "why": ""
+   },
+   {
+    "angle": "The 356.4x 'Can u Do this ! #physics' outlier shows a quick physics-style trick viewers can try instantly does huge numbers, and turning a wobbly table is a try-it-now trick with real math behind it.",
+    "format": "tips",
+    "picked": false,
+    "rank": 4,
+    "title": "Wobbly Table? 3 Fixes (One Is Pure Math)",
+    "trend_source": "Can u Do this ! #physics #shorts (356.4x, The Question)",
+    "video_id": null,
+    "virality_score": 6,
+    "why": ""
+   },
+   {
+    "angle": "The 356.4x 'Can u Do this !' outlier wins with one question you want answered right now, and 'Why do leaves change color?' is the question people are asking this month, answered with a twist.",
+    "format": "explainer",
+    "picked": false,
+    "rank": 5,
+    "title": "Why Leaves Change Color in 60 Seconds",
+    "trend_source": "Can u Do this ! #physics #shorts (356.4x, The Question); fall season",
+    "video_id": null,
+    "virality_score": 6,
+    "why": ""
+   },
+   {
+    "angle": "The 356.4x 'Can u Do this !' outlier proves a single question the viewer can't answer yet carries a Short, and 'Why is the Hollywood sign missing four letters?' is that question with a true, surprising answer.",
+    "format": "story",
+    "picked": false,
+    "rank": 6,
+    "title": "Why the Hollywood Sign Lost 4 Letters",
+    "trend_source": "Can u Do this ! #physics #shorts (356.4x, The Question)",
+    "video_id": null,
+    "virality_score": 5,
+    "why": ""
+   }
+  ],
+  "sent_at": "2026-10-16T17:52:34.381154+00:00",
+  "status": "waiting"
  }
 }

@@ -1,67 +1,6 @@
 {
   "tg_offset": 40455537,
   "batches": {
-    "2026-10-11-2": {
-      "topics": [
-        {
-          "title": "Can You Guess These 3 Impossible Optical Illusions?",
-          "angle": "A fast-paced interactive quiz challenging viewers to spot the hidden pattern before the 3-second timer runs out.",
-          "format": "quiz",
-          "tone": "normal",
-          "trend_source": "evergreen",
-          "virality_score": 9,
-          "why": "Interactive quiz formats naturally boost completion rates and force users to pause or rewatch, sending strong signals to the algorithm."
-        },
-        {
-          "title": "Top 5 Animals That Built Homes Better Than Architects",
-          "angle": "A countdown of incredible animal builders like weaver birds and beavers whose architectural feats rival human engineering.",
-          "format": "ranking",
-          "tone": "normal",
-          "trend_source": "evergreen science & nature",
-          "virality_score": 9,
-          "why": "High visual curiosity, strong retention from countdown structure, and broad general-interest appeal suitable for all ages."
-        },
-        {
-          "title": "Why Do Airplane Windows Have That Tiny Hole?",
-          "angle": "An engaging explainer breaking down the clever physics behind tiny cabin pressure relief holes in aircraft windows.",
-          "format": "explainer",
-          "tone": "normal",
-          "trend_source": "evergreen",
-          "virality_score": 8,
-          "why": "Instantly captures curiosity for anyone who has ever traveled, satisfying the human desire to understand everyday mysteries."
-        },
-        {
-          "title": "3 Hidden Wi-Fi Speed Hacks Nobody Tells You About",
-          "angle": "Quick, practical tech adjustments you can make right now to instantly optimize your home internet connection.",
-          "format": "tips",
-          "tone": "normal",
-          "trend_source": "evergreen",
-          "virality_score": 8,
-          "why": "Utility-driven content gets saved and shared heavily, creating stable long-term algorithm momentum."
-        },
-        {
-          "title": "Top 5 Worst Excuses Pets Give Without Speaking",
-          "angle": "A humorous look at the hilarious 'guilty faces' pets make when they get caught doing something they shouldn't.",
-          "format": "ranking",
-          "tone": "funny",
-          "trend_source": "evergreen animal humor",
-          "virality_score": 8,
-          "why": "Relatable humor and cute pet visuals naturally drive comments, shares, and high replay value."
-        },
-        {
-          "title": "3 Kitchen Hacks That Actually Save You 10 Hours a Week",
-          "angle": "Quick, genuinely useful time-saving tricks for food prep and kitchen cleanup that viewers can test immediately.",
-          "format": "tips",
-          "tone": "normal",
-          "trend_source": "evergreen food & how-to",
-          "virality_score": 8,
-          "why": "Practical utility drives high save rates and strong algorithmic reward for instructional content."
-        }
-      ],
-      "sent_at": "2026-10-11T18:56:58.770605+00:00",
-      "selected": [],
-      "status": "closed"
-    },
     "2026-10-12": {
       "topics": [
         {
@@ -443,6 +382,67 @@
         3
       ],
       "status": "closed"
+    },
+    "2026-10-16": {
+      "topics": [
+        {
+          "title": "Can You Do These 3 Body Tricks?",
+          "angle": "Today's biggest outlier, 'Can u Do this ! #physics' at 356.4x its channel median, is a try-it-yourself challenge, and this turns that dare into three body tricks anyone can test in seconds.",
+          "format": "quiz",
+          "tone": "normal",
+          "virality_score": 8,
+          "trend_source": "Can u Do this ! #physics #shorts (356.4x, The Question)",
+          "plan_id": "P2026-10-16-01"
+        },
+        {
+          "title": "The 5 Weirdest Things NASA Ever Flew",
+          "angle": "Funny disbelief titles are breaking out today ('I can't believe this is a real sport' at 64.7x), and this countdown packs five true 'wait, really?' moments into space history.",
+          "format": "funny",
+          "tone": "funny",
+          "virality_score": 7,
+          "trend_source": "I can't believe this is a real sport (64.7x); Can u Do this ! (356.4x)",
+          "plan_id": "P2026-10-16-02"
+        },
+        {
+          "title": "Top 5 Loudest Animals on Earth \ud83d\udd0a",
+          "angle": "The 356.4x 'Can u Do this !' outlier wins on one question the viewer wants to answer, and 'What's the loudest animal?' is that kind of instant guessing game, paid off with a surprise number one.",
+          "format": "ranking",
+          "tone": "normal",
+          "virality_score": 7,
+          "trend_source": "Can u Do this ! #physics #shorts (356.4x, The Question)",
+          "plan_id": "P2026-10-16-03"
+        },
+        {
+          "title": "Wobbly Table? 3 Fixes (One Is Pure Math)",
+          "angle": "The 356.4x 'Can u Do this ! #physics' outlier shows a quick physics-style trick viewers can try instantly does huge numbers, and turning a wobbly table is a try-it-now trick with real math behind it.",
+          "format": "tips",
+          "tone": "normal",
+          "virality_score": 6,
+          "trend_source": "Can u Do this ! #physics #shorts (356.4x, The Question)",
+          "plan_id": "P2026-10-16-04"
+        },
+        {
+          "title": "Why Leaves Change Color in 60 Seconds",
+          "angle": "The 356.4x 'Can u Do this !' outlier wins with one question you want answered right now, and 'Why do leaves change color?' is the question people are asking this month, answered with a twist.",
+          "format": "explainer",
+          "tone": "normal",
+          "virality_score": 6,
+          "trend_source": "Can u Do this ! #physics #shorts (356.4x, The Question); fall season",
+          "plan_id": "P2026-10-16-05"
+        },
+        {
+          "title": "Why the Hollywood Sign Lost 4 Letters",
+          "angle": "The 356.4x 'Can u Do this !' outlier proves a single question the viewer can't answer yet carries a Short, and 'Why is the Hollywood sign missing four letters?' is that question with a true, surprising answer.",
+          "format": "story",
+          "tone": "normal",
+          "virality_score": 5,
+          "trend_source": "Can u Do this ! #physics #shorts (356.4x, The Question)",
+          "plan_id": "P2026-10-16-06"
+        }
+      ],
+      "sent_at": "2026-10-16T17:52:34.381154+00:00",
+      "selected": [],
+      "status": "waiting"
     }
   },
   "videos": {
@@ -12422,10 +12422,6 @@
     "Can You Name These 3 Baby Animals?"
   ],
   "trend_tries": {
-    "2026-10-13": {
-      "n": 2,
-      "at": "2026-10-13T20:21:33.560536+00:00"
-    },
     "2026-10-14": {
       "n": 1,
       "at": "2026-10-14T18:39:42.718450+00:00"
@@ -12433,6 +12429,10 @@
     "2026-10-15": {
       "n": 1,
       "at": "2026-10-15T18:19:31.703333+00:00"
+    },
+    "2026-10-16": {
+      "n": 1,
+      "at": "2026-10-16T17:52:33.722906+00:00"
     }
   },
   "cleanup_day": "2026-10-16",
