@@ -1286,5 +1286,78 @@
   ],
   "sent_at": "2026-10-16T17:52:34.381154+00:00",
   "status": "closed"
+ },
+ "2026-10-17": {
+  "date": "2026-10-17",
+  "ideas": [
+   {
+    "angle": "Today's top outlier, 'The Sweetest Friendship in the World!' at 1830.6x its channel median, shows an odd-couple friendship is the strongest emotional hook in the feed, and a Top 5 countdown of real animal partners gives that pull a faceless, stock-footage shape.",
+    "format": "ranking",
+    "picked": false,
+    "rank": 1,
+    "title": "5 Animal Partners That Make No Sense",
+    "trend_source": "The Sweetest Friendship in the World! 🌸 #shorts (1830.6x, Unclassified); what would you do? #shorts (14.5x, The Question)",
+    "video_id": null,
+    "virality_score": 8,
+    "why": ""
+   },
+   {
+    "angle": "Kind, laugh-out-loud comedy is all over today's outliers ('WHEN A KID GETS A NEW CYCLE' at 13.1x, 'what would you do?' at 14.5x, 'Try Not To Laugh Life Hacks' at 2.6x), and a Top 5 of foods whose names lie gives that gag a fact payoff every beat.",
+    "format": "funny",
+    "picked": false,
+    "rank": 2,
+    "title": "Top 5 Foods With Names That Lie 😂",
+    "trend_source": "what would you do? #shorts #comedy #funny (14.5x, The Question); WHEN A KID GETS A NEW CYCLE (13.1x); Try Not To Laugh Life Hacks (2.6x)",
+    "video_id": null,
+    "virality_score": 8,
+    "why": ""
+   },
+   {
+    "angle": "'what would you do?' (14.5x) and 'How many will we do right?' are both The Question, the only formula today's outliers matched, and a three-second color quiz puts a question the viewer has to answer in every beat.",
+    "format": "quiz",
+    "picked": false,
+    "rank": 3,
+    "title": "What Color Is the Sun? 3-Second Quiz",
+    "trend_source": "what would you do? #shorts #comedy #funny (14.5x, The Question); How many will we do right? 😳🤣🔥 #shorts (1.4x, The Question)",
+    "video_id": null,
+    "virality_score": 7,
+    "why": ""
+   },
+   {
+    "angle": "'Didi ke Popcorn khatam ho gaye!' broke out at 8.3x on a popcorn moment, and 'what would you do?' (14.5x) shows a question opener carries; 'why does popcorn pop' answers a question everyone has with a visual slow-motion payoff.",
+    "format": "explainer",
+    "picked": false,
+    "rank": 4,
+    "title": "How Popcorn Pops: 135 PSI Inside One Kernel",
+    "trend_source": "Didi ke Popcorn khatam ho gaye! 🍿😭 Mumma ka jugaad #shorts (8.3x, Unclassified); what would you do? (14.5x, The Question)",
+    "video_id": null,
+    "virality_score": 6,
+    "why": ""
+   },
+   {
+    "angle": "Today's outliers reward one surprising everyday moment ('Magical Rubber' at 2.0x, 'WHEN A KID GETS A NEW CYCLE' at 13.1x), and a dropped spring that turns into a toy is that moment, told as a true story with a sold-out payoff.",
+    "format": "story",
+    "picked": false,
+    "rank": 5,
+    "title": "How a 1943 Accident Became the Slinky",
+    "trend_source": "Magical Rubber 🪄😱 (2.0x); WHEN A KID GETS A NEW CYCLE 😂 (13.1x, The Question)",
+    "video_id": null,
+    "virality_score": 6,
+    "why": ""
+   },
+   {
+    "angle": "'Try Not To Laugh Life Hacks' broke out at 2.6x and 'Didi ke Popcorn... Mumma ka jugaad' at 8.3x on a quick kitchen fix, and a three-trick stale-bread rescue is a hack every viewer can try tonight.",
+    "format": "tips",
+    "picked": false,
+    "rank": 6,
+    "title": "How to Soften Stale Bread: 3 Easy Tricks",
+    "trend_source": "Try Not To Laugh Life Hacks #shorts (2.6x); Didi ke Popcorn khatam ho gaye! Mumma ka jugaad (8.3x)",
+    "video_id": null,
+    "virality_score": 5,
+    "why": ""
+   }
+  ],
+  "sent_at": "2026-10-17T16:30:09.652760+00:00",
+  "status": "waiting"
  }
 }
