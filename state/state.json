@@ -11255,7 +11255,7 @@
       "tg_msg": 423,
       "opts_msg": 425,
       "approved_by": "auto",
-      "quota_note": "2026-10-16"
+      "quota_note": "2026-10-17"
     },
     "2026-10-15-3": {
       "topic": {
@@ -11632,7 +11632,7 @@
       "tg_msg": 426,
       "opts_msg": 428,
       "approved_by": "auto",
-      "quota_note": "2026-10-16"
+      "quota_note": "2026-10-17"
     },
     "2026-10-15-4": {
       "topic": {
@@ -12011,7 +12011,7 @@
       "tg_msg": 429,
       "opts_msg": 431,
       "approved_by": "auto",
-      "quota_note": "2026-10-16"
+      "quota_note": "2026-10-17"
     },
     "2026-10-16-1": {
       "topic": {
@@ -12023,7 +12023,7 @@
         "trend_source": "Can u Do this ! #physics #shorts (356.4x, The Question)",
         "plan_id": "P2026-10-16-01"
       },
-      "status": "awaiting_approval",
+      "status": "approved",
       "by": "auto",
       "updated": "2026-10-16T23:12:05.598841+00:00",
       "redos": 0,
@@ -12390,7 +12390,9 @@
       },
       "srt": "1\n00:00:00,050 --> 00:00:02,315\nCan you do these three body tricks\n\n2\n00:00:02,315 --> 00:00:04,382\nLots of people fail at least one\n\n3\n00:00:04,382 --> 00:00:06,548\nand there's a real reason why Try\n\n4\n00:00:06,548 --> 00:00:09,493\neach one right now Trick one Hand\n\n5\n00:00:09,493 --> 00:00:11,770\nflat on a table middle finger folded\n\n6\n00:00:11,770 --> 00:00:14,703\nunder Now lift just your ring finger\n\n7\n00:00:14,703 --> 00:00:17,315\nStuck Little tendon bridges tie it to\n\n8\n00:00:17,315 --> 00:00:19,815\nits neighbors so it can't lift alone\n\n9\n00:00:19,815 --> 00:00:23,218\nTrick two Circle your right foot clockwise\n\n10\n00:00:23,218 --> 00:00:25,062\nKeep going and draw a six in\n\n11\n00:00:25,062 --> 00:00:26,906\nthe air with your right hand Did\n\n12\n00:00:26,906 --> 00:00:29,406\nyour foot flip For lots of people\n\n13\n00:00:29,406 --> 00:00:32,439\nit does Scientists aren't sure why but\n\n14\n00:00:32,439 --> 00:00:34,270\none idea is your brain links plans\n\n15\n00:00:34,270 --> 00:00:36,275\nfor limbs on the same side Trick\n\n16\n00:00:36,275 --> 00:00:38,676\nthree Roll your tongue into a U\n\n17\n00:00:38,676 --> 00:00:40,991\nRoughly sixty-five to eighty-one percent of\n\n18\n00:00:40,991 --> 00:00:43,342\npeople can Textbooks called it a simple\n\n19\n00:00:43,342 --> 00:00:46,634\ngene but identical twins don't always match\n\n20\n00:00:46,634 --> 00:00:48,107\nSo now you know why your finger\n\n21\n00:00:48,107 --> 00:00:50,397\nsticks your foot flips and your tongue\n\n22\n00:00:50,397 --> 00:00:53,119\nmight not roll Which trick beat you\n\n23\n00:00:53,119 --> 00:00:55,446\nTell me in the comments Now ask\n\n24\n00:00:55,446 --> 00:00:57,133\na friend the same thing\n",
       "tg_msg": 450,
-      "opts_msg": 452
+      "opts_msg": 452,
+      "approved_by": "auto",
+      "quota_note": "2026-10-17"
     },
     "2026-10-16-2": {
       "topic": {
@@ -13174,7 +13176,7 @@
       "at": "2026-10-16T17:52:33.722906+00:00"
     }
   },
-  "cleanup_day": "2026-10-16",
+  "cleanup_day": "2026-10-17",
   "recent_voices": [
     "en-US-AvaMultilingualNeural",
     "en-US-BrianMultilingualNeural",
