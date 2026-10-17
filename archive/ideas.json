@@ -1359,5 +1359,78 @@
   ],
   "sent_at": "2026-10-17T16:30:09.652760+00:00",
   "status": "waiting"
+ },
+ "2026-10-17-2": {
+  "date": "2026-10-17-2",
+  "ideas": [
+   {
+    "angle": "A comedic countdown of the five most notorious animal thieves on Earth caught red-handed snatching sunglasses, wallets, and whole snacks from unsuspecting tourists.",
+    "format": "ranking",
+    "picked": false,
+    "rank": 1,
+    "title": "Top 5 Animals That Are Certified Pickpockets 🦝",
+    "trend_source": "YouTube Shorts animal mischief & comedy trends",
+    "video_id": null,
+    "virality_score": 9.3,
+    "why": "Hilarious stock-clip friendly animal behavior creates instant watch time, high rewatch loops, and heavy comment section tagging of friends who act like food thieves."
+   },
+   {
+    "angle": "How Japanese rail engineers solved the deafening sonic booms of high-speed trains exploding out of tunnels by copying the precise aerodynamic beak of a diving river bird.",
+    "format": "explainer",
+    "picked": false,
+    "rank": 2,
+    "title": "Why Bullet Trains Are Shaped Like a Kingfisher 🚄",
+    "trend_source": "YouTube Trending tech breakdowns & engineering fascinations",
+    "video_id": null,
+    "virality_score": 9.1,
+    "why": "Biomimicry creates high visual curiosity in the opening 2 seconds, delivering a satisfying STEM 'aha' moment that earns massive saves and shares."
+   },
+   {
+    "angle": "Breaking down the absurd, universal panic humans experience when a stranger holds a door open from 40 feet away, forcing an involuntary half-jog shuffle.",
+    "format": "funny",
+    "picked": false,
+    "rank": 3,
+    "title": "The Awkward Physics of the Courtesy Jog 🏃‍♂️",
+    "trend_source": "Evergreen relatable human quirks & behavioral comedy",
+    "video_id": null,
+    "virality_score": 8.8,
+    "why": "Extreme relatability fuels immediate swipe-stopping recognition and drives hundreds of comments from viewers admitting they do this every single week."
+   },
+   {
+    "angle": "Ranking the five most extreme mountain-top sports arenas on the planet where visiting teams literally require oxygen tanks on the sidelines just to finish the game.",
+    "format": "ranking",
+    "picked": false,
+    "rank": 4,
+    "title": "Top 5 Highest Altitude Stadiums on Earth ⚽",
+    "trend_source": "[Google Trends] Barca, Bayern Munich & international football match buzz",
+    "video_id": null,
+    "virality_score": 8.6,
+    "why": "Sports trivia combined with extreme geography triggers strong debate among soccer and sports fans over the unfair home-field advantage of high-altitude pitches."
+   },
+   {
+    "angle": "A fast-paced interactive challenge testing whether viewers can tell absurd, real-life creatures from completely fabricated animal names before the 3-second buzzer.",
+    "format": "quiz",
+    "picked": false,
+    "rank": 5,
+    "title": "Real Animal or Made Up? 3-Second Creature Quiz 🦎",
+    "trend_source": "YouTube Shorts interactive trivia & oddity trends",
+    "video_id": null,
+    "virality_score": 8.4,
+    "why": "Interactive gamification forces completion rate as viewers play along, and the rapid pace encourages leaving comments bragging about scoring 3 out of 3."
+   },
+   {
+    "angle": "Three actionable, chemistry-backed produce hacks that double the shelf life of berries, herbs, and greens by manipulating moisture and ethylene gas.",
+    "format": "tips",
+    "picked": false,
+    "rank": 6,
+    "title": "3 Food Science Hacks to Keep Groceries Fresh Longer 🥦",
+    "trend_source": "[Google Trends] Ina Garten & seasonal fall meal prep searches",
+    "video_id": null,
+    "virality_score": 8.2,
+    "why": "Grocery waste is an active pain point for American households; practical kitchen hacks generate high bookmark and share ratios."
+   }
+  ],
+  "sent_at": "2026-10-17T17:15:00.323226+00:00",
+  "status": "waiting"
  }
 }
