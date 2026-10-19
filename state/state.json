@@ -1,63 +1,6 @@
 {
   "tg_offset": 40455537,
   "batches": {
-    "2026-10-14": {
-      "topics": [
-        {
-          "title": "Top 5 Animals That Go Wild for Snow \u2744\ufe0f",
-          "angle": "Kind animal comedy dominates the top outliers (58.8x and 47.0x funny/relatable Shorts) and Google Trends has 'montana snow today' riding on a dog with 'zero chill' about the first snow, so a funny snow-day countdown rides the moment.",
-          "format": "ranking",
-          "tone": "normal",
-          "virality_score": 8,
-          "trend_source": "Google Trends: montana snow today ('Dog has zero chill about Montana's first snow'); FOSFORITO EN SALSA (CAMILO AGUILLON, 58.8x, kind comedy)",
-          "plan_id": "P2026-10-14-01"
-        },
-        {
-          "title": "5 Real English Words That Sound Made Up",
-          "angle": "Light, kind comedy is the shared thread in today's top outliers (58.8x 'FOSFORITO EN SALSA', 47.0x relatable edit), and the 3.6x List title shows a numbered list still breaks out, so a funny countdown of silly-sounding real words fits both.",
-          "format": "funny",
-          "tone": "funny",
-          "virality_score": 7,
-          "trend_source": "FOSFORITO EN SALSA (CAMILO AGUILLON, 58.8x); 3 Youtubers Que Hicieron Doblaje (DavidG, 3.6x, The List)",
-          "plan_id": "P2026-10-14-02"
-        },
-        {
-          "title": "Why Golf Balls Have 300+ Dimples",
-          "angle": "The 4.3x 'Why the MiG-25 Carried 260 Liters of Alcohol' proves a 'why does this odd design exist' Question with a specific number is breaking out, and this asks why a golf ball carries 300-plus dents.",
-          "format": "explainer",
-          "tone": "normal",
-          "virality_score": 6,
-          "trend_source": "Why the MiG-25 Carried 260 Liters of Alcohol (OddFrame, 4.3x, The Question)",
-          "plan_id": "P2026-10-14-04"
-        },
-        {
-          "title": "Play-Doh Was Wallpaper Cleaner for 20 Years",
-          "angle": "The 5.4x 'How much for this un-opened rare Coca Cola?' shows a familiar everyday brand plus a curious backstory question breaking out, and Play-Doh's secret first job is that same nostalgic-object hook as a true story.",
-          "format": "story",
-          "tone": "normal",
-          "virality_score": 6,
-          "trend_source": "How much for this un-opened rare Coca Cola? (Dylan Ayres, 5.4x, The Question)",
-          "plan_id": "P2026-10-14-05"
-        },
-        {
-          "title": "Squeaky Door? 3 Fixes That Actually Last",
-          "angle": "The 2.8x 'Electric vehicle milk tea holder, a boon for cyclists' shows a small practical everyday fix breaking out, and this gives three quick fixes for a problem almost every home has.",
-          "format": "tips",
-          "tone": "normal",
-          "virality_score": 5,
-          "trend_source": "Electric vehicle milk tea holder, a boon for cyclists (Juanl, 2.8x)",
-          "plan_id": "P2026-10-14-06"
-        }
-      ],
-      "sent_at": "2026-10-14T18:40:04.828411+00:00",
-      "selected": [
-        0,
-        1,
-        2,
-        3
-      ],
-      "status": "closed"
-    },
     "2026-10-15": {
       "topics": [
         {
@@ -441,6 +384,40 @@
         }
       ],
       "sent_at": "2026-10-19T16:32:17.195942+00:00",
+      "selected": [],
+      "status": "waiting"
+    },
+    "2026-10-19-2": {
+      "topics": [
+        {
+          "title": "Top 5 Useless Kitchen Gadgets That Seemed Like a Good Idea",
+          "angle": "Rank five bizarre culinary inventions that promised to revolutionize cooking but ended up in the back of the drawer.",
+          "format": "ranking",
+          "tone": "funny",
+          "trend_source": "evergreen",
+          "virality_score": 9,
+          "why": "Relatable and humorous everyday observations drive shares and comment sections filled with personal experiences."
+        },
+        {
+          "title": "Top 5 Most Bizarre Natural Architecture Miracles",
+          "angle": "Explore five incredible structures built entirely by animals that rival modern human engineering.",
+          "format": "ranking",
+          "tone": "normal",
+          "trend_source": "evergreen",
+          "virality_score": 8,
+          "why": "Visually striking nature facts create strong curiosity hooks in the first two seconds."
+        },
+        {
+          "title": "Why Modern Movie Popcorn Always Tastes Better",
+          "angle": "Explain the surprising chemical and secret ingredient reasons why cinema popcorn hits different than homemade.",
+          "format": "explainer",
+          "tone": "normal",
+          "trend_source": "evergreen",
+          "virality_score": 8,
+          "why": "Satisfies everyday curiosity about a universally beloved snack with a fast-paced narrative structure."
+        }
+      ],
+      "sent_at": "2026-10-19T20:00:45.899176+00:00",
       "selected": [],
       "status": "waiting"
     }
@@ -12166,8 +12143,8 @@
       "at": "2026-10-18T17:24:29.907365+00:00"
     },
     "2026-10-19": {
-      "n": 1,
-      "at": "2026-10-19T16:32:16.299914+00:00"
+      "n": 2,
+      "at": "2026-10-19T19:58:02.271521+00:00"
     }
   },
   "cleanup_day": "2026-10-19",

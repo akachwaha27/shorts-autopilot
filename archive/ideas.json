@@ -1578,5 +1578,45 @@
   ],
   "sent_at": "2026-10-19T16:32:17.195942+00:00",
   "status": "waiting"
+ },
+ "2026-10-19-2": {
+  "date": "2026-10-19-2",
+  "ideas": [
+   {
+    "angle": "Rank five bizarre culinary inventions that promised to revolutionize cooking but ended up in the back of the drawer.",
+    "format": "ranking",
+    "picked": false,
+    "rank": 1,
+    "title": "Top 5 Useless Kitchen Gadgets That Seemed Like a Good Idea",
+    "trend_source": "evergreen",
+    "video_id": null,
+    "virality_score": 9,
+    "why": "Relatable and humorous everyday observations drive shares and comment sections filled with personal experiences."
+   },
+   {
+    "angle": "Explore five incredible structures built entirely by animals that rival modern human engineering.",
+    "format": "ranking",
+    "picked": false,
+    "rank": 2,
+    "title": "Top 5 Most Bizarre Natural Architecture Miracles",
+    "trend_source": "evergreen",
+    "video_id": null,
+    "virality_score": 8,
+    "why": "Visually striking nature facts create strong curiosity hooks in the first two seconds."
+   },
+   {
+    "angle": "Explain the surprising chemical and secret ingredient reasons why cinema popcorn hits different than homemade.",
+    "format": "explainer",
+    "picked": false,
+    "rank": 3,
+    "title": "Why Modern Movie Popcorn Always Tastes Better",
+    "trend_source": "evergreen",
+    "video_id": null,
+    "virality_score": 8,
+    "why": "Satisfies everyday curiosity about a universally beloved snack with a fast-paced narrative structure."
+   }
+  ],
+  "sent_at": "2026-10-19T20:00:45.899176+00:00",
+  "status": "waiting"
  }
 }
