@@ -1505,5 +1505,78 @@
   ],
   "sent_at": "2026-10-18T17:25:47.124796+00:00",
   "status": "closed"
+ },
+ "2026-10-19": {
+  "date": "2026-10-19",
+  "ideas": [
+   {
+    "angle": "Today's top outlier is a ranking (Rank Villa, 182.4x) and the next two (soap noodles 97.3x, snake chain 77.2x) are 'looks like one thing, is actually another' reveals, and five real places that look fake is that reveal told as a ranking.",
+    "format": "ranking",
+    "picked": false,
+    "rank": 1,
+    "title": "Top 5 Real Places That Look Photoshopped",
+    "trend_source": "Funniest Relatable Moments | Rank Villa (182.4x, Unclassified - a ranking); I Made Soap Noodles For My Boyfriend! (97.3x, Unclassified - looks like one thing, is another); Realistic snake scale chain transformation (77.2x, Unclassified - visual transformation)",
+    "video_id": null,
+    "virality_score": 8,
+    "why": ""
+   },
+   {
+    "angle": "The day's biggest outlier, 'Funniest Relatable Moments' (182.4x), is a funny ranking, and 'Real end twist' (6.1x) saves the punchline for last, so this counts down funny real museums to the one that collects bad art.",
+    "format": "funny",
+    "picked": false,
+    "rank": 2,
+    "title": "Top 5 Funniest Real Museums 😂",
+    "trend_source": "Funniest Relatable Moments | Rank Villa (182.4x, Unclassified - a ranking); Real end twist (6.1x, Unclassified - payoff saved for the end)",
+    "video_id": null,
+    "virality_score": 8,
+    "why": ""
+   },
+   {
+    "angle": "'Real end twist' (6.1x) and the soap-noodle reveal (97.3x) both hold the answer to the last beat, and a signal heard once, with a still-open explanation at the end, is that unresolved-payoff shape told as a true story.",
+    "format": "story",
+    "picked": false,
+    "rank": 3,
+    "title": "The Space Signal Heard Once in 1977",
+    "trend_source": "Real end twist (6.1x, Unclassified - payoff saved for the end); I Made Soap Noodles For My Boyfriend! (97.3x, Unclassified - looks like one thing, is another)",
+    "video_id": null,
+    "virality_score": 7,
+    "why": ""
+   },
+   {
+    "angle": "'Desi Vs Electric cotton candy maker' (2.4x) and the soap-noodle reveal (97.3x) both play on food not being what you assume, and a three-question food origin quiz turns that into a game viewers score themselves on.",
+    "format": "quiz",
+    "picked": false,
+    "rank": 4,
+    "title": "Guess Where These 3 Foods Were Invented",
+    "trend_source": "I Made Soap Noodles For My Boyfriend! (97.3x, Unclassified - looks like one thing, is another); Desi Vs Electric cotton candy maker! (2.4x, The Comparison)",
+    "video_id": null,
+    "virality_score": 7,
+    "why": ""
+   },
+   {
+    "angle": "'Funniest Relatable Moments' (182.4x) and 'sahi kiya na maine' (50.5x) both win on everyday relatable moments, and the lumpy fitted-sheet ball is one nearly everyone recognizes, with a before-and-after payoff.",
+    "format": "tips",
+    "picked": false,
+    "rank": 5,
+    "title": "How to Fold a Fitted Sheet in 3 Steps",
+    "trend_source": "Funniest Relatable Moments | Rank Villa (182.4x, Unclassified - a ranking); sahi kiya na maine (50.5x, Unclassified - relatable everyday moment)",
+    "video_id": null,
+    "virality_score": 7,
+    "why": ""
+   },
+   {
+    "angle": "The soap-noodle video (97.3x) wins on food that isn't what it seems, and fresh pineapple quietly breaking down proteins on your tongue is a true version of that surprise with a gelatin payoff.",
+    "format": "explainer",
+    "picked": false,
+    "rank": 6,
+    "title": "Why Pineapple Tingles Your Tongue: 1 Enzyme",
+    "trend_source": "I Made Soap Noodles For My Boyfriend! (97.3x, Unclassified - looks like one thing, is another)",
+    "video_id": null,
+    "virality_score": 7,
+    "why": ""
+   }
+  ],
+  "sent_at": "2026-10-19T16:32:17.195942+00:00",
+  "status": "waiting"
  }
 }

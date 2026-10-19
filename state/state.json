@@ -1,67 +1,6 @@
 {
   "tg_offset": 40455537,
   "batches": {
-    "2026-10-13-2": {
-      "topics": [
-        {
-          "title": "Top 5 Animals That Completely Forgot How to Climb",
-          "angle": "A funny, family-friendly countdown of wild animals whose climbing attempts go hilariously wrong.",
-          "format": "ranking",
-          "tone": "funny",
-          "trend_source": "evergreen",
-          "virality_score": 9,
-          "why": "Combines a popular 'ranking' format with comedy and cute animal content, driving high rewatches and share rates."
-        },
-        {
-          "title": "Top 5 Animals That Completely Forgot How to Swim",
-          "angle": "Ranking hilarious land animals that are shockingly bad and awkward in water, played purely for laughs.",
-          "format": "ranking",
-          "tone": "funny",
-          "trend_source": "evergreen",
-          "virality_score": 9,
-          "why": "Animal humor combined with a Top 5 ranking format drives massive replay loops, high watch time, and frequent comment section debates."
-        },
-        {
-          "title": "Top 5 Animals That Completely Forgot How to Jump",
-          "angle": "A lighthearted countdown of creatures that are hilariously terrible at getting off the ground.",
-          "format": "ranking",
-          "tone": "funny",
-          "trend_source": "evergreen",
-          "virality_score": 9,
-          "why": "High comedic value combined with animal content drives massive comment engagement and loop rates."
-        },
-        {
-          "title": "Top 5 Deepest Swimming Pools on Earth",
-          "angle": "A jaw-dropping countdown of extreme man-made diving pools that plunge down like bottomless vertical tunnels.",
-          "format": "ranking",
-          "tone": "normal",
-          "trend_source": "evergreen",
-          "virality_score": 8,
-          "why": "Visual scale and height/depth fear-of-missing-out keeps retention high all the way to the number one spot."
-        },
-        {
-          "title": "Top 5 Deepest Underwater Canyons on Earth",
-          "angle": "A breathtaking visual and statistical ranking of the most colossal underwater drops on the planet.",
-          "format": "ranking",
-          "tone": "normal",
-          "trend_source": "evergreen",
-          "virality_score": 7,
-          "why": "Fascinating science and nature facts drive strong curiosity and keep average view duration high."
-        },
-        {
-          "title": "Ranking the Funniest Cat Reactions to Invisible Doors",
-          "angle": "A lighthearted countdown of cats getting thoroughly confused by harmless household tricks.",
-          "format": "clips",
-          "tone": "funny",
-          "trend_source": "evergreen",
-          "virality_score": 7,
-          "why": "Cat clips have massive built-in audience appeal, and a ranked format adds structure that encourages full completion."
-        }
-      ],
-      "sent_at": "2026-10-13T20:22:05.013168+00:00",
-      "selected": [],
-      "status": "closed"
-    },
     "2026-10-14": {
       "topics": [
         {
@@ -443,6 +382,67 @@
         5
       ],
       "status": "closed"
+    },
+    "2026-10-19": {
+      "topics": [
+        {
+          "title": "Top 5 Real Places That Look Photoshopped",
+          "angle": "Today's top outlier is a ranking (Rank Villa, 182.4x) and the next two (soap noodles 97.3x, snake chain 77.2x) are 'looks like one thing, is actually another' reveals, and five real places that look fake is that reveal told as a ranking.",
+          "format": "ranking",
+          "tone": "normal",
+          "virality_score": 8,
+          "trend_source": "Funniest Relatable Moments | Rank Villa (182.4x, Unclassified - a ranking); I Made Soap Noodles For My Boyfriend! (97.3x, Unclassified - looks like one thing, is another); Realistic snake scale chain transformation (77.2x, Unclassified - visual transformation)",
+          "plan_id": "P2026-10-19-01"
+        },
+        {
+          "title": "Top 5 Funniest Real Museums \ud83d\ude02",
+          "angle": "The day's biggest outlier, 'Funniest Relatable Moments' (182.4x), is a funny ranking, and 'Real end twist' (6.1x) saves the punchline for last, so this counts down funny real museums to the one that collects bad art.",
+          "format": "funny",
+          "tone": "funny",
+          "virality_score": 8,
+          "trend_source": "Funniest Relatable Moments | Rank Villa (182.4x, Unclassified - a ranking); Real end twist (6.1x, Unclassified - payoff saved for the end)",
+          "plan_id": "P2026-10-19-02"
+        },
+        {
+          "title": "The Space Signal Heard Once in 1977",
+          "angle": "'Real end twist' (6.1x) and the soap-noodle reveal (97.3x) both hold the answer to the last beat, and a signal heard once, with a still-open explanation at the end, is that unresolved-payoff shape told as a true story.",
+          "format": "story",
+          "tone": "normal",
+          "virality_score": 7,
+          "trend_source": "Real end twist (6.1x, Unclassified - payoff saved for the end); I Made Soap Noodles For My Boyfriend! (97.3x, Unclassified - looks like one thing, is another)",
+          "plan_id": "P2026-10-19-03"
+        },
+        {
+          "title": "Guess Where These 3 Foods Were Invented",
+          "angle": "'Desi Vs Electric cotton candy maker' (2.4x) and the soap-noodle reveal (97.3x) both play on food not being what you assume, and a three-question food origin quiz turns that into a game viewers score themselves on.",
+          "format": "quiz",
+          "tone": "normal",
+          "virality_score": 7,
+          "trend_source": "I Made Soap Noodles For My Boyfriend! (97.3x, Unclassified - looks like one thing, is another); Desi Vs Electric cotton candy maker! (2.4x, The Comparison)",
+          "plan_id": "P2026-10-19-04"
+        },
+        {
+          "title": "How to Fold a Fitted Sheet in 3 Steps",
+          "angle": "'Funniest Relatable Moments' (182.4x) and 'sahi kiya na maine' (50.5x) both win on everyday relatable moments, and the lumpy fitted-sheet ball is one nearly everyone recognizes, with a before-and-after payoff.",
+          "format": "tips",
+          "tone": "normal",
+          "virality_score": 7,
+          "trend_source": "Funniest Relatable Moments | Rank Villa (182.4x, Unclassified - a ranking); sahi kiya na maine (50.5x, Unclassified - relatable everyday moment)",
+          "plan_id": "P2026-10-19-05"
+        },
+        {
+          "title": "Why Pineapple Tingles Your Tongue: 1 Enzyme",
+          "angle": "The soap-noodle video (97.3x) wins on food that isn't what it seems, and fresh pineapple quietly breaking down proteins on your tongue is a true version of that surprise with a gelatin payoff.",
+          "format": "explainer",
+          "tone": "normal",
+          "virality_score": 7,
+          "trend_source": "I Made Soap Noodles For My Boyfriend! (97.3x, Unclassified - looks like one thing, is another)",
+          "plan_id": "P2026-10-19-06"
+        }
+      ],
+      "sent_at": "2026-10-19T16:32:17.195942+00:00",
+      "selected": [],
+      "status": "waiting"
     }
   },
   "videos": {
@@ -12157,10 +12157,6 @@
     "Top 5 Animals That Are Hilariously Terrible at Fighting"
   ],
   "trend_tries": {
-    "2026-10-16": {
-      "n": 1,
-      "at": "2026-10-16T17:52:33.722906+00:00"
-    },
     "2026-10-17": {
       "n": 2,
       "at": "2026-10-17T17:12:09.259649+00:00"
@@ -12168,6 +12164,10 @@
     "2026-10-18": {
       "n": 1,
       "at": "2026-10-18T17:24:29.907365+00:00"
+    },
+    "2026-10-19": {
+      "n": 1,
+      "at": "2026-10-19T16:32:16.299914+00:00"
     }
   },
   "cleanup_day": "2026-10-19",
@@ -12181,5 +12181,5 @@
   "visual_searches": {
     "2026-10-18": 4
   },
-  "signals_day": "2026-10-18"
+  "signals_day": "2026-10-19"
 }
