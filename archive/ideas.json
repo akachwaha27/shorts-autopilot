@@ -1691,5 +1691,45 @@
   ],
   "sent_at": "2026-10-20T15:10:57.735289+00:00",
   "status": "waiting"
+ },
+ "2026-10-20-2": {
+  "date": "2026-10-20-2",
+  "ideas": [
+   {
+    "angle": "Counting down five animals whose instinctual reactions to minor inconveniences are hilariously dramatic and completely counterproductive.",
+    "format": "ranking",
+    "picked": false,
+    "rank": 1,
+    "title": "Top 5 Animals That Chose Chaos Over Survival",
+    "trend_source": "YouTube Trending comedy and animal shorts",
+    "video_id": null,
+    "virality_score": 10,
+    "why": "Combines a top-5 ranking structure with high-humor animal behavior, ensuring massive loop rates, high retention, and strong comment section engagement."
+   },
+   {
+    "angle": "Explaining the hidden architectural engineering that traps crowd noise inside modern arenas to make games sound ten times louder.",
+    "format": "explainer",
+    "picked": false,
+    "rank": 2,
+    "title": "Why Modern Stadiums Are Built Like Giant Acoustic Instruments",
+    "trend_source": "psg - barcelona",
+    "video_id": null,
+    "virality_score": 8,
+    "why": "Satisfies viewer curiosity about massive live events using fast-paced visual pacing and a compelling hook."
+   },
+   {
+    "angle": "A lighthearted, fictionalized mini-story about a quaint village that allegedly packed up its bakery to avoid a stubborn hill.",
+    "format": "story",
+    "picked": false,
+    "rank": 3,
+    "title": "The Mystery of the Town That Moved Two Miles Overnight",
+    "trend_source": "evergreen",
+    "video_id": null,
+    "virality_score": 7,
+    "why": "Strong storytelling hook creates instant intrigue, keeping swipe-through rates high as viewers wait for the punchline twist."
+   }
+  ],
+  "sent_at": "2026-10-20T18:35:34.309169+00:00",
+  "status": "waiting"
  }
 }
