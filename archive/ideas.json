@@ -1618,5 +1618,78 @@
   ],
   "sent_at": "2026-10-19T20:00:45.899176+00:00",
   "status": "closed"
+ },
+ "2026-10-20": {
+  "date": "2026-10-20",
+  "ideas": [
+   {
+    "angle": "Zack D. Films' ancient-gadget explainer \"How Plato's Alarm Clock Worked\" is pulling about 247,000 views per hour this week, and a desert ice house is the same clever-old-mechanism curiosity with a clear 3D cutaway payoff.",
+    "format": "animated",
+    "picked": false,
+    "rank": 1,
+    "title": "How Desert Ice Houses Worked 2,400 Years Ago",
+    "trend_source": "title shape of How Plato's Alarm Clock Worked (247,000 views/h); also How Electrical Outlets Work (372,500 views/h)",
+    "video_id": null,
+    "virality_score": 8,
+    "why": ""
+   },
+   {
+    "angle": "The baby sea turtle rescue Short (30.4x its channel median) shows how far animal-parenting care spreads, and a countdown ending on a dad who gives birth turns that warmth into a ranking with a twist.",
+    "format": "ranking",
+    "picked": false,
+    "rank": 2,
+    "title": "Top 5 Animal Dads (#1 Gets Pregnant)",
+    "trend_source": "He Saved These Baby Sea Turtles (30.4x, Unclassified - one caring moment with baby animals)",
+    "video_id": null,
+    "virality_score": 8,
+    "why": ""
+   },
+   {
+    "angle": "The top outliers (up to 219x their channel medians) are single surprising moments with a big reaction, and cube-shaped poop is a true, kind, laugh-out-loud surprise with a real science payoff.",
+    "format": "funny",
+    "picked": false,
+    "rank": 3,
+    "title": "Why Wombat Poop Is a Cube: 1 Weird Gut",
+    "trend_source": "Don't miss the End (2.0x, funny reveal) and the one-moment structure shared by today's top outliers (219.3x, 34.5x, 30.4x)",
+    "video_id": null,
+    "virality_score": 8,
+    "why": ""
+   },
+   {
+    "angle": "Today's top outliers (219x, 34x, 30x) are one-moment discoveries with a reveal, and a beach walk that turns up a note from 1886 is a true, gentle discovery with a record-breaking payoff.",
+    "format": "story",
+    "picked": false,
+    "rank": 4,
+    "title": "The 131-Year-Old Message in a Bottle 🍾",
+    "trend_source": "He Saved These Baby Sea Turtles (30.4x) and the one-moment-reveal structure of today's top outliers",
+    "video_id": null,
+    "virality_score": 7,
+    "why": ""
+   },
+   {
+    "angle": "Today's top outliers win on one quick reveal, and a real-or-fake quiz where every \"fake-sounding\" fruit turns out to be real gives viewers a three-second guess and a twist they want to test on friends.",
+    "format": "quiz",
+    "picked": false,
+    "rank": 5,
+    "title": "3 Fruits That Taste Like Dessert: Real or Fake?",
+    "trend_source": "I Tested Clickbait Shorts (Part 5) (2.4x, I Tried It - testing whether something too good to be true is real)",
+    "video_id": null,
+    "virality_score": 6,
+    "why": ""
+   },
+   {
+    "angle": "Today's outliers reward one quick, clear payoff, and a fix you can test in the next five minutes, plus a myth-bust of a famous hack, gives viewers a reason to save and share it.",
+    "format": "tips",
+    "picked": false,
+    "rank": 6,
+    "title": "Chill a Warm Can Fast: 3 Tricks, 1 Myth",
+    "trend_source": "I Tested Clickbait Shorts (Part 5) (2.4x, I Tried It - testing whether a viral hack is real)",
+    "video_id": null,
+    "virality_score": 6,
+    "why": ""
+   }
+  ],
+  "sent_at": "2026-10-20T15:10:57.735289+00:00",
+  "status": "waiting"
  }
 }

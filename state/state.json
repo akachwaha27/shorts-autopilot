@@ -1,72 +1,6 @@
 {
   "tg_offset": 40455537,
   "batches": {
-    "2026-10-15": {
-      "topics": [
-        {
-          "title": "The Sleep Jump Up to 70% of People Get",
-          "angle": "The 179.2x breakout 'Dreams are getting too real' shows the falling-asleep, half-dream moment is hugely relatable, and this explains the jolt almost everyone has felt.",
-          "format": "explainer",
-          "tone": "normal",
-          "virality_score": 8,
-          "trend_source": "Uh oh\u2026 Dreams are getting too real \ud83d\udcad\ud83e\udd23 (179.2x)",
-          "plan_id": "P2026-10-15-01"
-        },
-        {
-          "title": "Top 5 Animals That Play Dead Like Pros",
-          "angle": "The 43.4x 'Mama terkecoh' (mom gets fooled) breakout shows being tricked is a top pull, and this counts down the animals that fool predators best.",
-          "format": "ranking",
-          "tone": "normal",
-          "virality_score": 7,
-          "trend_source": "Mama terkecoh dengan perbuatan baik Arkan (43.4x)",
-          "plan_id": "P2026-10-15-02"
-        },
-        {
-          "title": "Top 5 Funniest Ways to Say It's Pouring",
-          "angle": "The 179.2x 'Dreams are getting too real' and 25.0x 'Bella, I thought you were serious!' breakouts show a silly, kind twist on something everyday wins, and this puts that twist on a phrase everyone says.",
-          "format": "funny",
-          "tone": "funny",
-          "virality_score": 7,
-          "trend_source": "Uh oh\u2026 Dreams are getting too real (179.2x); Bella, I thought you were serious! (25.0x)",
-          "plan_id": "P2026-10-15-03"
-        },
-        {
-          "title": "Can You Name These 3 Baby Animals?",
-          "angle": "The 1.5x 'Computer Mouse \u274c Real Mouse \u2705' and 179.2x 'Dreams are getting too real' outliers show quick, playful surprises win, and this is a three-second guessing game with cute, surprising answers.",
-          "format": "quiz",
-          "tone": "normal",
-          "virality_score": 6,
-          "trend_source": "Computer Mouse \u274c Real Mouse \u2705 (1.5x); Uh oh\u2026 Dreams are getting too real (179.2x)",
-          "plan_id": "P2026-10-15-04"
-        },
-        {
-          "title": "How a Dog Walk Invented Velcro in 1941",
-          "angle": "The 21.3x 'O DESAFIO MAIS DIFICIL...' and 43.4x mom-fooled breakouts show an everyday object plus a surprising backstory pulls viewers, and this reveals the dog walk behind the strap on their shoes.",
-          "format": "story",
-          "tone": "normal",
-          "virality_score": 6,
-          "trend_source": "O DESAFIO MAIS DIFICIL QUE JA FIZ COM MEU CARRO! (21.3x); Mama terkecoh dengan perbuatan baik Arkan (43.4x)",
-          "plan_id": "P2026-10-15-05"
-        },
-        {
-          "title": "Why Your Skipping Stone Sinks (3 Fixes)",
-          "angle": "The 29.4x 'Unstoppable Water Ninja Speed Run' breakout shows a simple water challenge pulls big views, and this turns skipping stones into a beatable challenge with three quick fixes.",
-          "format": "tips",
-          "tone": "normal",
-          "virality_score": 5,
-          "trend_source": "Unstoppable Water Ninja Speed Run (29.4x)",
-          "plan_id": "P2026-10-15-06"
-        }
-      ],
-      "sent_at": "2026-10-15T18:19:32.659254+00:00",
-      "selected": [
-        0,
-        1,
-        2,
-        3
-      ],
-      "status": "closed"
-    },
     "2026-10-16": {
       "topics": [
         {
@@ -429,6 +363,67 @@
         2
       ],
       "status": "closed"
+    },
+    "2026-10-20": {
+      "topics": [
+        {
+          "title": "How Desert Ice Houses Worked 2,400 Years Ago",
+          "angle": "Zack D. Films' ancient-gadget explainer \"How Plato's Alarm Clock Worked\" is pulling about 247,000 views per hour this week, and a desert ice house is the same clever-old-mechanism curiosity with a clear 3D cutaway payoff.",
+          "format": "animated",
+          "tone": "normal",
+          "virality_score": 8,
+          "trend_source": "title shape of How Plato's Alarm Clock Worked (247,000 views/h); also How Electrical Outlets Work (372,500 views/h)",
+          "plan_id": "P2026-10-20-01"
+        },
+        {
+          "title": "Top 5 Animal Dads (#1 Gets Pregnant)",
+          "angle": "The baby sea turtle rescue Short (30.4x its channel median) shows how far animal-parenting care spreads, and a countdown ending on a dad who gives birth turns that warmth into a ranking with a twist.",
+          "format": "ranking",
+          "tone": "normal",
+          "virality_score": 8,
+          "trend_source": "He Saved These Baby Sea Turtles (30.4x, Unclassified - one caring moment with baby animals)",
+          "plan_id": "P2026-10-20-02"
+        },
+        {
+          "title": "Why Wombat Poop Is a Cube: 1 Weird Gut",
+          "angle": "The top outliers (up to 219x their channel medians) are single surprising moments with a big reaction, and cube-shaped poop is a true, kind, laugh-out-loud surprise with a real science payoff.",
+          "format": "funny",
+          "tone": "funny",
+          "virality_score": 8,
+          "trend_source": "Don't miss the End (2.0x, funny reveal) and the one-moment structure shared by today's top outliers (219.3x, 34.5x, 30.4x)",
+          "plan_id": "P2026-10-20-03"
+        },
+        {
+          "title": "The 131-Year-Old Message in a Bottle \ud83c\udf7e",
+          "angle": "Today's top outliers (219x, 34x, 30x) are one-moment discoveries with a reveal, and a beach walk that turns up a note from 1886 is a true, gentle discovery with a record-breaking payoff.",
+          "format": "story",
+          "tone": "normal",
+          "virality_score": 7,
+          "trend_source": "He Saved These Baby Sea Turtles (30.4x) and the one-moment-reveal structure of today's top outliers",
+          "plan_id": "P2026-10-20-04"
+        },
+        {
+          "title": "3 Fruits That Taste Like Dessert: Real or Fake?",
+          "angle": "Today's top outliers win on one quick reveal, and a real-or-fake quiz where every \"fake-sounding\" fruit turns out to be real gives viewers a three-second guess and a twist they want to test on friends.",
+          "format": "quiz",
+          "tone": "normal",
+          "virality_score": 6,
+          "trend_source": "I Tested Clickbait Shorts (Part 5) (2.4x, I Tried It - testing whether something too good to be true is real)",
+          "plan_id": "P2026-10-20-05"
+        },
+        {
+          "title": "Chill a Warm Can Fast: 3 Tricks, 1 Myth",
+          "angle": "Today's outliers reward one quick, clear payoff, and a fix you can test in the next five minutes, plus a myth-bust of a famous hack, gives viewers a reason to save and share it.",
+          "format": "tips",
+          "tone": "normal",
+          "virality_score": 6,
+          "trend_source": "I Tested Clickbait Shorts (Part 5) (2.4x, I Tried It - testing whether a viral hack is real)",
+          "plan_id": "P2026-10-20-06"
+        }
+      ],
+      "sent_at": "2026-10-20T15:10:57.735289+00:00",
+      "selected": [],
+      "status": "waiting"
     }
   },
   "videos": {
@@ -13215,10 +13210,6 @@
     "Why Modern Movie Popcorn Always Tastes Better"
   ],
   "trend_tries": {
-    "2026-10-17": {
-      "n": 2,
-      "at": "2026-10-17T17:12:09.259649+00:00"
-    },
     "2026-10-18": {
       "n": 1,
       "at": "2026-10-18T17:24:29.907365+00:00"
@@ -13226,6 +13217,10 @@
     "2026-10-19": {
       "n": 2,
       "at": "2026-10-19T19:58:02.271521+00:00"
+    },
+    "2026-10-20": {
+      "n": 1,
+      "at": "2026-10-20T15:10:57.034620+00:00"
     }
   },
   "cleanup_day": "2026-10-20",
@@ -13239,5 +13234,5 @@
   "visual_searches": {
     "2026-10-20": 3
   },
-  "signals_day": "2026-10-19"
+  "signals_day": "2026-10-20"
 }
