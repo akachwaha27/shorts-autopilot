@@ -1,7 +1,8 @@
-"""AI video clips via fal.ai (default model: ByteDance Seedance 2.5, vertical 9:16, no audio).
+"""AI video clips via fal.ai (default model: MiniMax H3 Max Turbo, vertical 9:16; clip audio is dropped).
 
-Also works with Google Veo 3.1 Lite (FAL_VIDEO_MODEL=fal-ai/veo3.1/lite): the two take different
-duration formats and options, so the request is built per model family.
+Also works with ByteDance Seedance (FAL_VIDEO_MODEL=bytedance/seedance-2.5/us/text-to-video) and Google Veo 3.1
+Lite (fal-ai/veo3.1/lite): each family takes different duration formats and options, so the request is built
+per model family.
 
 Used only where stock footage can't show what the line is about (e.g. "toe wrestling", "four teenagers
 find a cave in 1940"), and for story videos if FAL_FOR_STORIES is on. Every clip is credited as
@@ -57,8 +58,21 @@ def _is_seedance(model):
     return "seedance" in (model or "").lower()
 
 
+def _is_minimax(model):
+    return "minimax" in (model or "").lower()
+
+
+def _resolution(model):
+    r = (config.FAL_RESOLUTION or "").strip()
+    if _is_minimax(model):  # MiniMax takes 480P / 768P / 1080P
+        return {"480p": "480P", "720p": "768P", "768p": "768P", "1080p": "1080P"}.get(r.lower(), "768P")
+    return r.lower() or ("480p" if _is_seedance(model) else "720p")
+
+
 def _seconds_option(want, model=None):
-    """Veo 3.1 Lite takes 4s / 6s / 8s; Seedance 2.5 takes any whole second from 4 to 30."""
+    """Veo 3.1 Lite takes 4s / 6s / 8s; Seedance 2.5 takes any whole second from 4 to 30; MiniMax 1-15 s."""
+    if _is_minimax(model or config.FAL_VIDEO_MODEL):
+        return max(2, min(15, int(-(-want // 1))))
     if _is_seedance(model or config.FAL_VIDEO_MODEL):
         return max(4, min(30, int(-(-want // 1))))  # round up to a whole second
     for s in (4, 6, 8):
@@ -75,16 +89,21 @@ def price_per_second(model=None):
     model = model or config.FAL_VIDEO_MODEL
     if config.FAL_PRICE_PER_SECOND:
         return config.FAL_PRICE_PER_SECOND
+    if _is_minimax(model):  # fal list price for H3 Max Turbo, Oct 2026 (set FAL_PRICE_PER_SECOND if it changes)
+        return 0.0325 if "1080" in _resolution(model) else 0.01625
     if _is_seedance(model):  # fal bills Seedance by video tokens = height x width x fps x seconds / 1024
-        tokens = _PIXELS.get(config.FAL_RESOLUTION, _PIXELS["720p"]) * 24 / 1024
+        tokens = _PIXELS.get(_resolution(model), _PIXELS["720p"]) * 24 / 1024
         return round(tokens / 1000 * config.FAL_SEEDANCE_PRICE_PER_1K_TOKENS, 3)
     return 0.05
 
 
 def _body(prompt, secs, model):
+    if _is_minimax(model):
+        return {"prompt": prompt[:1800], "aspect_ratio": "9:16", "duration": secs,
+                "resolution": _resolution(model), "prompt_expansion_mode": "balanced"}
     if _is_seedance(model):  # no negative_prompt field: the "no text/logos" rules live in the prompt
         return {"prompt": prompt[:1800], "aspect_ratio": "9:16", "duration": str(secs),
-                "resolution": config.FAL_RESOLUTION, "generate_audio": False}
+                "resolution": _resolution(model), "generate_audio": False}
     return {"prompt": prompt[:1800], "aspect_ratio": "9:16", "duration": f"{secs}s", "resolution": "720p",
             "generate_audio": False,
             "negative_prompt": "text, captions, subtitles, watermark, logo, cartoon, deformed hands, blurry"}
@@ -94,7 +113,7 @@ def model_label(model=None):
     """'bytedance/seedance-2.5/us/text-to-video' -> 'seedance-2.5'; 'fal-ai/veo3.1/lite' -> 'veo3.1'."""
     parts = [p for p in (model or config.FAL_VIDEO_MODEL).split("/") if p]
     for p in parts:
-        if p.startswith(("seedance", "veo", "kling", "wan", "sora")):
+        if p.startswith(("seedance", "veo", "kling", "wan", "sora", "h3")):
             return p
     return parts[-2] if len(parts) > 1 else (parts[0] if parts else "fal.ai")
 
