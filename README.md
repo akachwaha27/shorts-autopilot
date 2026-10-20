@@ -232,17 +232,20 @@ That's just before the lunch, after-school/work and evening peaks. One video goe
 ## AI video clips with fal.ai (optional, paid)
 
 Stock sites can't film every line ("four teenagers find a cave in 1940", "toe wrestling"). When a scene has no
-stock clip that the AI check scores 7/10 or higher, the bot asks fal.ai (Google Veo 3.1 Lite, vertical, no audio)
-to generate a 4-8 second clip of exactly that line. Story videos use AI clips first.
+stock clip that the AI check scores 7/10 or higher, the bot asks fal.ai (ByteDance Seedance 2.5 by default,
+vertical, no audio) to generate a 4-30 second clip of exactly that line. Story videos use AI clips first.
 
 1. Sign up at https://fal.ai, open **Billing**, add credit (e.g. $10).
 2. **Dashboard → API Keys → Create key**, copy it.
 3. GitHub repo → Settings → Secrets and variables → Actions → **New repository secret** `FAL_KEY` → paste.
 
-Cost is roughly $0.03-0.05 per second of clip (about $0.15-0.40 per scene). Limits (GitHub Variables):
+Cost: Seedance 2.5 is billed by video tokens (height x width x 24 fps x seconds / 1024 at $0.0214 per 1,000),
+so about **$0.46 per second at 720p** and about $0.21 at 480p - a 5-second scene is roughly $2.30 at 720p.
+Veo 3.1 Lite (`FAL_VIDEO_MODEL=fal-ai/veo3.1/lite`) is about $0.05 per second. Limits (GitHub Variables):
 `FAL_DAILY_BUDGET_USD` (default 3), `FAL_MAX_CLIPS_PER_VIDEO` (default 6), `FAL_FOR_STORIES` (default true),
-`FAL_VIDEO_MODEL` (default `fal-ai/veo3.1/lite`). Without `FAL_KEY` nothing changes. AI clips are credited in the
-description and uploads are flagged as altered/synthetic content.
+`FAL_VIDEO_MODEL` (default `bytedance/seedance-2.5/us/text-to-video`), `FAL_RESOLUTION` (default `720p`),
+`FAL_PRICE_PER_SECOND` (blank = estimated from the model and resolution). Without `FAL_KEY` nothing changes.
+AI clips are credited in the description and uploads are flagged as altered/synthetic content.
 
 ## Telegram commands
 **Daily ideas:** tap a number or type `1,3` (add a format letter, e.g. `2s`). `/now` gets fresh ideas, `/status` lists recent videos, `/help` shows all commands.

@@ -60,8 +60,10 @@ VISUAL_CHECK = env("VISUAL_CHECK", True, bool)            # Gemini looks at ever
 VISUAL_MIN_SCORE = env("VISUAL_MIN_SCORE", 7, float)      # 0-10: how clearly a clip must show the subject
 # fal.ai AI video clips (paid): used where stock footage can't show the line's subject
 FAL_KEY = env("FAL_KEY")                                   # GitHub secret; blank = never used
-FAL_VIDEO_MODEL = env("FAL_VIDEO_MODEL", "fal-ai/veo3.1/lite")  # Google Veo 3.1 Lite, 9:16, no audio
-FAL_PRICE_PER_SECOND = env("FAL_PRICE_PER_SECOND", 0.05, float)  # used for budget tracking (set a bit high)
+FAL_VIDEO_MODEL = env("FAL_VIDEO_MODEL", "bytedance/seedance-2.5/us/text-to-video")  # Seedance 2.5, 9:16, no audio
+FAL_RESOLUTION = env("FAL_RESOLUTION", "720p")              # 480p / 720p / 1080p (Seedance price scales with pixels)
+FAL_PRICE_PER_SECOND = env("FAL_PRICE_PER_SECOND", None, float)  # budget tracking; blank = estimated per model
+FAL_SEEDANCE_PRICE_PER_1K_TOKENS = env("FAL_SEEDANCE_PRICE_PER_1K_TOKENS", 0.0214, float)  # fal list price, Oct 2026
 FAL_DAILY_BUDGET_USD = env("FAL_DAILY_BUDGET_USD", 3.0, float)   # hard stop for the day
 FAL_MAX_CLIPS_PER_VIDEO = env("FAL_MAX_CLIPS_PER_VIDEO", 6, int)
 FAL_FOR_STORIES = env("FAL_FOR_STORIES", True, bool)      # story videos: AI clips first (stock rarely fits a story)
