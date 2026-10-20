@@ -356,8 +356,13 @@
         }
       ],
       "sent_at": "2026-10-20T15:10:57.735289+00:00",
-      "selected": [],
-      "status": "waiting"
+      "selected": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "status": "closed"
     },
     "2026-10-20-2": {
       "topics": [
@@ -1135,362 +1140,6 @@
         "name": "2026-10-12-4-v0-thumb.jpg"
       },
       "srt": "1\n00:00:00,150 --> 00:00:03,027\nBefore you visit Paris, you should know\n\n2\n00:00:03,027 --> 00:00:05,719\nthe Eiffel Tower had an expiry date.\n\n3\n00:00:05,719 --> 00:00:08,351\nHere's how it almost came down, and\n\n4\n00:00:08,351 --> 00:00:09,453\nwhat saved it.\n\n5\n00:00:09,453 --> 00:00:12,207\nThe tower opened for the World's Fair\n\n6\n00:00:12,207 --> 00:00:13,920\nin eighteen eighty-nine.\n\n7\n00:00:13,920 --> 00:00:16,736\nBut Gustave Eiffel's deal only let him\n\n8\n00:00:16,736 --> 00:00:19,000\nuse the land for twenty years.\n\n9\n00:00:19,000 --> 00:00:21,754\nAfter that, Paris could take it down.\n\n10\n00:00:21,754 --> 00:00:24,264\nSo Eiffel needed a reason to keep\n\n11\n00:00:24,264 --> 00:00:24,570\nit.\n\n12\n00:00:24,570 --> 00:00:25,426\nHis answer?\n\n13\n00:00:25,426 --> 00:00:26,039\nScience.\n\n14\n00:00:26,039 --> 00:00:29,466\nHe backed weather and air resistance experiments\n\n15\n00:00:29,466 --> 00:00:30,200\nup there.\n\n16\n00:00:30,200 --> 00:00:33,322\nThen in eighteen ninety-eight, a Morse code\n\n17\n00:00:33,322 --> 00:00:36,076\nradio message was sent from the tower\n\n18\n00:00:36,076 --> 00:00:37,055\nacross Paris.\n\n19\n00:00:37,055 --> 00:00:40,237\nSuddenly, the city's tallest structure looked\n\n20\n00:00:40,237 --> 00:00:42,502\nlike the perfect giant antenna.\n\n21\n00:00:42,502 --> 00:00:45,256\nArmy radio tests from the top reached\n\n22\n00:00:45,256 --> 00:00:46,725\nfarther and farther.\n\n23\n00:00:46,725 --> 00:00:49,969\nBy nineteen-oh-nine, a permanent radio station\n\n24\n00:00:49,969 --> 00:00:51,560\nsat right beneath it.\n\n25\n00:00:51,560 --> 00:00:54,865\nSo in nineteen-ten, Eiffel's deal was extended\n\n26\n00:00:54,865 --> 00:00:56,150\nby seventy years.\n\n27\n00:00:56,150 --> 00:00:58,843\nThat's how the tower beat its expiry\n\n28\n00:00:58,843 --> 00:01:00,863\ndate: it became an antenna.\n\n29\n00:01:00,863 --> 00:01:03,555\nDid you know the Eiffel Tower almost\n\n30\n00:01:03,555 --> 00:01:05,208\ncame down, yes or no?\n\n31\n00:01:05,208 --> 00:01:08,295\nIf you said no, here's your reminder.\n"
-    },
-    "2026-10-12-2-3": {
-      "topic": {
-        "title": "Top 5 Foods That Smell Terrible But Taste Incredible",
-        "angle": "Ranking the top 5 culinary ingredients that have an awful aroma but are the secret weapon of world-class chefs.",
-        "format": "ranking",
-        "tone": "normal",
-        "trend_source": "evergreen",
-        "virality_score": 8,
-        "why": "Taps into food curiosity and general interest, creating immediate debate in comments about favorite flavors."
-      },
-      "status": "published",
-      "by": "auto",
-      "updated": "2026-10-14T09:01:24.488608+00:00",
-      "redos": 0,
-      "package": {
-        "primary_keyword": "foods that smell terrible",
-        "title": "Top 5 Foods That Smell Terrible But Taste Incredible",
-        "hook_text": "smells awful, tastes amazing",
-        "thumbnail_text": "worst smell best taste",
-        "description": "Discover the top 5 foods that smell terrible but taste incredible, used by world-class chefs to boost flavor. Learn which stinky ingredients are actually culinary gold.",
-        "hashtags": [
-          "#shorts",
-          "#food",
-          "#cooking",
-          "#top5"
-        ],
-        "tags": [
-          "foods that smell terrible",
-          "weird food facts",
-          "smells bad tastes good",
-          "stinky foods that taste good",
-          "secret chef",
-          "stinky foods",
-          "gross food facts",
-          "chef's secret ingredient",
-          "fish sauce cooking",
-          "stinky foods ranking",
-          "secret chef ingredients",
-          "truffle oil",
-          "durian fruit",
-          "food science",
-          "stinky cheese",
-          "culinary secrets"
-        ],
-        "pinned_comment": "Which of these stinky ingredients do you secretly use in your own kitchen at home? Let me know below!",
-        "scenes": [
-          {
-            "text": "Some of the best ingredients in the world actually smell completely disgusting, until you taste them.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "chef cooking kitchen",
-              "stinky food reaction"
-            ],
-            "image_prompt": "Vertical 9:16, a close-up shot of a gourmet kitchen counter with various fresh ingredients, soft cinematic lighting, food photography, no text.",
-            "stock_query": "chef cooking kitchen"
-          },
-          {
-            "text": "Number five is fish sauce. It smells like a wet beach on a hot day, but it adds incredible savory depth to stir fries.",
-            "badge": "#5",
-            "label": "Fish Sauce",
-            "stock_queries": [
-              "pouring fish sauce",
-              "asian stir fry"
-            ],
-            "image_prompt": "Vertical 9:16, dark glass bottle of amber fish sauce pouring over a sizzling wok of noodles, steam rising, high contrast, no text.",
-            "stock_query": "pouring fish sauce"
-          },
-          {
-            "text": "At number four we have durian. This spiky fruit smells like gym socks, yet the inside is sweet and creamy like custard.",
-            "badge": "#4",
-            "label": "Durian Fruit",
-            "stock_queries": [
-              "durian fruit open",
-              "exotic fruit market"
-            ],
-            "image_prompt": "Vertical 9:16, a fresh spiky durian fruit cut open on a wooden table revealing creamy yellow flesh, vibrant colors, no text.",
-            "stock_query": "durian fruit open"
-          },
-          {
-            "text": "Number three is truffle oil. It smells like strong gas or rubber, but a single drop makes pasta taste insanely luxurious.",
-            "badge": "#3",
-            "label": "Truffle Oil",
-            "stock_queries": [
-              "truffle oil bottle",
-              "pasta dish gourmet"
-            ],
-            "image_prompt": "Vertical 9:16, drizzling golden oil from a small glass bottle over a creamy plate of gourmet mushroom pasta, close up, no text.",
-            "stock_query": "truffle oil bottle"
-          },
-          {
-            "text": "At number two, blue cheese. It smells like old laundry, but melts into a rich sauce that hits every single taste bud.",
-            "badge": "#2",
-            "label": "Blue Cheese",
-            "stock_queries": [
-              "blue cheese wedge",
-              "melting cheese macro"
-            ],
-            "image_prompt": "Vertical 9:16, a wedge of marbled blue cheese with blue veins on a rustic cutting board, moody lighting, no text.",
-            "stock_query": "blue cheese wedge"
-          },
-          {
-            "text": "Number one is fermented shrimp paste. It smells overwhelmingly strong, but it is the secret weapon behind world class curry.",
-            "badge": "#1",
-            "label": "Shrimp Paste",
-            "stock_queries": [
-              "shrimp paste jar",
-              "thai curry paste"
-            ],
-            "image_prompt": "Vertical 9:16, traditional dark fermented shrimp paste in a small clay bowl next to fresh spices, overhead shot, no text.",
-            "stock_query": "shrimp paste jar"
-          },
-          {
-            "text": "So would you brave the stench to try them, or do some foods that smell terrible just stay off your plate?",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "person smelling food",
-              "gourmet meal plate"
-            ],
-            "image_prompt": "Vertical 9:16, a beautifully plated gourmet dish under warm restaurant spotlights, shallow depth of field, no text.",
-            "stock_query": "person smelling food"
-          }
-        ],
-        "key_facts": [
-          "Fish sauce provides savory depth to Asian dishes despite its pungent aroma.",
-          "Durian is known for a strong aroma contrasted by a creamy, sweet texture.",
-          "Truffle oil adds a distinct earthy flavor to pasta and other dishes.",
-          "Blue cheese has a strong aroma due to cultures used in its aging process.",
-          "Fermented shrimp paste is a common flavor base in Southeast Asian cooking."
-        ],
-        "format": "ranking",
-        "tone": "normal",
-        "category": "27",
-        "script": "Some of the best ingredients in the world actually smell completely disgusting, until you taste them. Number five is fish sauce. It smells like a wet beach on a hot day, but it adds incredible savory depth to stir fries. At number four we have durian. This spiky fruit smells like gym socks, yet the inside is sweet and creamy like custard. Number three is truffle oil. It smells like strong gas or rubber, but a single drop makes pasta taste insanely luxurious. At number two, blue cheese. It smells like old laundry, but melts into a rich sauce that hits every single taste bud. Number one is fermented shrimp paste. It smells overwhelmingly strong, but it is the secret weapon behind world class curry. So would you brave the stench to try them, or do some foods that smell terrible just stay off your plate?",
-        "shot_plan": [
-          {
-            "subject": "gourmet food preparation",
-            "queries": [
-              {
-                "q": "chef cooking meal",
-                "must": [
-                  "chef"
-                ]
-              },
-              {
-                "q": "delicious gourmet food",
-                "must": [
-                  "food"
-                ]
-              },
-              {
-                "q": "kitchen cooking",
-                "must": [
-                  "kitchen"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "fish sauce bottle and stir fry",
-            "queries": [
-              {
-                "q": "fish sauce bottle",
-                "must": [
-                  "sauce"
-                ]
-              },
-              {
-                "q": "stir fry pan",
-                "must": [
-                  "stirfry"
-                ]
-              },
-              {
-                "q": "cooking wok",
-                "must": [
-                  "wok"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "durian fruit cut open",
-            "queries": [
-              {
-                "q": "durian fruit cut",
-                "must": [
-                  "durian"
-                ]
-              },
-              {
-                "q": "tropical fruit",
-                "must": [
-                  "fruit"
-                ]
-              },
-              {
-                "q": "exotic fruit sliced",
-                "must": [
-                  "slice"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "truffle oil drizzled on pasta",
-            "queries": [
-              {
-                "q": "truffle oil bottle",
-                "must": [
-                  "oil"
-                ]
-              },
-              {
-                "q": "pasta dish gourmet",
-                "must": [
-                  "pasta"
-                ]
-              },
-              {
-                "q": "italian food plate",
-                "must": [
-                  "food"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "blue cheese wedge on board",
-            "queries": [
-              {
-                "q": "blue cheese wedge",
-                "must": [
-                  "cheese"
-                ]
-              },
-              {
-                "q": "gourmet cheese platter",
-                "must": [
-                  "platter"
-                ]
-              },
-              {
-                "q": "cheeseboard close up",
-                "must": [
-                  "board"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "fermented shrimp paste in a bowl",
-            "queries": [
-              {
-                "q": "shrimp paste bowl",
-                "must": [
-                  "paste"
-                ]
-              },
-              {
-                "q": "asian curry dish",
-                "must": [
-                  "curry"
-                ]
-              },
-              {
-                "q": "spicy curry bowl",
-                "must": [
-                  "bowl"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "delicious plated gourmet dishes",
-            "queries": [
-              {
-                "q": "gourmet meal plate",
-                "must": [
-                  "meal"
-                ]
-              },
-              {
-                "q": "restaurant food table",
-                "must": [
-                  "restaurant"
-                ]
-              },
-              {
-                "q": "delicious food close up",
-                "must": [
-                  "food"
-                ]
-              }
-            ]
-          }
-        ],
-        "broll": [
-          "gourmet kitchen cooking",
-          "chef preparing food",
-          "restaurant kitchen close up"
-        ],
-        "visual_style": "Fast-paced, mouth-watering food close-ups showing unusual ingredients transforming into delicious gourmet dishes.",
-        "visual_refs": [],
-        "voice": "gTTS",
-        "visual_report": {
-          "shots": 15,
-          "checked": 15,
-          "unchecked": 0,
-          "filler": 3,
-          "ai": 0
-        }
-      },
-      "credits": [
-        "Voiceover: AI-generated voice (Google Text-to-Speech).",
-        "Stock footage/photos (Pexels/Pixabay Content License): GreenCardShow (Pixabay) https://pixabay.com/videos/id-11291/; XiaosKitchen (Pixabay) https://pixabay.com/videos/id-11657/; XiaosKitchen (Pixabay) https://pixabay.com/videos/id-11643/; truthseeker08 (Pixabay) https://pixabay.com/photos/tropical-fruit-durian-tropical-3596787/; najibzamri (Pixabay) https://pixabay.com/photos/durian-fruit-food-produce-healthy-6579894/; PDPhotos (Pixabay) https://pixabay.com/photos/danish-blue-cheese-blue-mold-mould-3553/; PDPhotos (Pixabay) https://pixabay.com/photos/shropshire-blue-cheese-blue-mold-3534/; PDPhotos (Pixabay) https://pixabay.com/photos/cabrales-cheese-blue-mold-mould-3499/; XiaosKitchen (Pixabay) https://pixabay.com/videos/id-11631/; XiaosKitchen (Pixabay) https://pixabay.com/videos/id-11714/; XiaosKitchen (Pixabay) https://pixabay.com/videos/id-11686/",
-        "Carlquist, Sherwin John, 1930-2021 / Wikimedia Commons (CC BY 4.0) https://commons.wikimedia.org/wiki/File:(Durian_fruit_cut_open,_Bangkok,_Thailand)_-_DPLA_-_ccf52c1d4ea285fbe5fd580a8930c214.jpg"
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-12",
-        "name": "2026-10-12-2-3-v0.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-12",
-        "name": "2026-10-12-2-3-v0-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,150 --> 00:00:02,831\nSome of the best ingredients in the\n\n2\n00:00:02,831 --> 00:00:05,885\nworld actually smell completely disgusting,\n\n3\n00:00:05,885 --> 00:00:07,506\nuntil you taste them.\n\n4\n00:00:07,506 --> 00:00:09,501\nNumber five is fish sauce.\n\n5\n00:00:09,501 --> 00:00:11,808\nIt smells like a wet beach on\n\n6\n00:00:11,808 --> 00:00:14,364\na hot day, but it adds incredible\n\n7\n00:00:14,364 --> 00:00:16,421\nsavory depth to stir fries.\n\n8\n00:00:16,421 --> 00:00:18,728\nAt number four we have durian.\n\n9\n00:00:18,728 --> 00:00:21,658\nThis spiky fruit smells like gym socks,\n\n10\n00:00:21,658 --> 00:00:24,277\nyet the inside is sweet and creamy\n\n11\n00:00:24,277 --> 00:00:25,274\nlike custard.\n\n12\n00:00:25,274 --> 00:00:27,394\nNumber three is truffle oil.\n\n13\n00:00:27,394 --> 00:00:30,137\nIt smells like strong gas or rubber,\n\n14\n00:00:30,137 --> 00:00:32,817\nbut a single drop makes pasta taste\n\n15\n00:00:32,817 --> 00:00:34,189\ninsanely luxurious.\n\n16\n00:00:34,189 --> 00:00:36,246\nAt number two, blue cheese.\n\n17\n00:00:36,246 --> 00:00:39,052\nIt smells like old laundry, but melts\n\n18\n00:00:39,052 --> 00:00:41,608\ninto a rich sauce that hits every\n\n19\n00:00:41,608 --> 00:00:42,917\nsingle taste bud.\n\n20\n00:00:42,917 --> 00:00:45,660\nNumber one is fermented shrimp paste.\n\n21\n00:00:45,660 --> 00:00:48,777\nIt smells overwhelmingly strong, but it is\n\n22\n00:00:48,777 --> 00:00:51,957\nthe secret weapon behind world class curry.\n\n23\n00:00:51,957 --> 00:00:54,450\nSo would you brave the stench to\n\n24\n00:00:54,450 --> 00:00:56,882\ntry them, or do some foods that\n\n25\n00:00:56,882 --> 00:01:00,224\nsmell terrible just stay off your plate?\n",
-      "tg_msg": 333,
-      "opts_msg": 335,
-      "approved_by": "auto",
-      "quota_note": "2026-10-14",
-      "description_full": "Discover the top 5 foods that smell terrible but taste incredible, used by world-class chefs to boost flavor. Learn which stinky ingredients are actually culinary gold.\n\n#shorts #food #cooking #top5\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Google Text-to-Speech).\nStock footage/photos (Pexels/Pixabay Content License): GreenCardShow (Pixabay) https://pixabay.com/videos/id-11291/; XiaosKitchen (Pixabay) https://pixabay.com/videos/id-11657/; XiaosKitchen (Pixabay) https://pixabay.com/videos/id-11643/; truthseeker08 (Pixabay) https://pixabay.com/photos/tropical-fruit-durian-tropical-3596787/; najibzamri (Pixabay) https://pixabay.com/photos/durian-fruit-food-produce-healthy-6579894/; PDPhotos (Pixabay) https://pixabay.com/photos/danish-blue-cheese-blue-mold-mould-3553/; PDPhotos (Pixabay) https://pixabay.com/photos/shropshire-blue-cheese-blue-mold-3534/; PDPhotos (Pixabay) https://pixabay.com/photos/cabrales-cheese-blue-mold-mould-3499/; XiaosKitchen (Pixabay) https://pixabay.com/videos/id-11631/; XiaosKitchen (Pixabay) https://pixabay.com/videos/id-11714/; XiaosKitchen (Pixabay) https://pixabay.com/videos/id-11686/\nCarlquist, Sherwin John, 1930-2021 / Wikimedia Commons (CC BY 4.0) https://commons.wikimedia.org/wiki/File:(Durian_fruit_cut_open,_Bangkok,_Thailand)_-_DPLA_-_ccf52c1d4ea285fbe5fd580a8930c214.jpg\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/0zeLz09aoaM",
-          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-14T09:01:24.488623+00:00",
-      "slot": "2026-10-14T19:15:00+00:00"
     },
     "2026-10-12-2-4": {
       "topic": {
@@ -13113,12 +12762,899 @@
       "opts_msg": 566,
       "approved_by": "auto",
       "quota_note": "2026-10-20"
+    },
+    "2026-10-20-1": {
+      "topic": {
+        "title": "How Desert Ice Houses Worked 2,400 Years Ago",
+        "angle": "Zack D. Films' ancient-gadget explainer \"How Plato's Alarm Clock Worked\" is pulling about 247,000 views per hour this week, and a desert ice house is the same clever-old-mechanism curiosity with a clear 3D cutaway payoff.",
+        "format": "animated",
+        "tone": "normal",
+        "virality_score": 8,
+        "trend_source": "title shape of How Plato's Alarm Clock Worked (247,000 views/h); also How Electrical Outlets Work (372,500 views/h)",
+        "plan_id": "P2026-10-20-01"
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-20T19:40:25.061651+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "ancient ice house",
+        "title": "How Desert Ice Houses Worked 2,400 Years Ago",
+        "hook_text": "2,400-YEAR-OLD FRIDGE",
+        "thumbnail_text": "NO FREEZER",
+        "description": "How did ancient people make ice in the desert without electricity? A yakhchal was an ancient Persian ice house: shaded pools froze on clear winter nights, and a giant thick-walled cone stored the ice all summer.\n\nIn this Short: the shade wall, the night-sky freezing trick, and how the cone kept ice cold through a desert summer.\n\nSources:\nhttps://en.wikipedia.org/wiki/Yakhch%C4%81l\nhttps://www.birdsoutsidemywindow.org/2021/01/06/how-to-make-ice-in-the-desert/\nhttps://www.historicmysteries.com/yakhchal/",
+        "hashtags": [
+          "#shorts",
+          "#history",
+          "#howitworks",
+          "#engineering"
+        ],
+        "tags": [
+          "ancient ice house",
+          "how did ancient people make ice",
+          "desert ice house",
+          "persian ice house",
+          "how ancient people make ice",
+          "how ancient people made ice",
+          "yakhchal ancient refrigerators",
+          "yakhchal ice",
+          "old ice house",
+          "yakhchal how it works",
+          "yakhchal",
+          "ice in the desert",
+          "3d animation explained",
+          "yakhchal iran",
+          "yakhchal inside",
+          "yakhch\u0101l",
+          "radiative cooling",
+          "ancient engineering",
+          "ancient refrigerator",
+          "qanat",
+          "how it worked"
+        ],
+        "pinned_comment": "Bonus fact: the walls were made of a special mortar mixed with sand, clay, lime, ash, egg whites and even goat hair. What ancient invention should we animate next?",
+        "scenes": [
+          {
+            "text": "How did people make ice in the desert, long before freezers?",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "desert landscape heat shimmer",
+              "ancient desert architecture"
+            ],
+            "image_prompt": "3D animated wide shot of a sun-baked clay-colored desert at noon with heat shimmer, featuring a tall cone-shaped mudbrick building and an adjoining long adobe wall under a bright sky, stylized clean render",
+            "shot": "3D animated wide shot of a sun-baked clay-colored desert at noon, a tall cone-shaped clay building and a long tall wall beside it, heat shimmer, slow camera push-in toward the cone",
+            "stock_query": "desert landscape heat shimmer"
+          },
+          {
+            "text": "In ancient Persia, water flowed from underground channels into shallow pools.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "underground water channel",
+              "shallow water pool"
+            ],
+            "image_prompt": "3D cutaway cross-section of desert ground showing an underground stone aqueduct channel flowing upward into long shallow rectangular reflection pools adjacent to a tall mudbrick wall",
+            "shot": "3D cross-section cutaway of the ground: a narrow underground tunnel carries water up into long shallow pools that sit beside the tall wall, camera tracks along the flowing water",
+            "stock_query": "underground water channel"
+          },
+          {
+            "text": "A tall wall kept those pools in shade.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "sun shadow movement wall",
+              "tall adobe wall shadow"
+            ],
+            "image_prompt": "3D time-lapse architectural view from a side angle showing the bright sun moving overhead while a massive tall clay wall casts a deep cool shadow across shallow pools beside a conical structure",
+            "shot": "3D time-lapse from a side angle: the sun arcs across the sky while the tall wall's shadow stays over the shallow pools beside the cone",
+            "stock_query": "sun shadow movement wall"
+          },
+          {
+            "text": "On clear winter nights, the water radiated its heat to the sky and froze.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "water freezing into ice",
+              "night sky desert stars"
+            ],
+            "image_prompt": "3D close-up nighttime shot under a dark starry sky, glowing subtle heat waves rising upward from still pool water as a thin crystalline layer of ice rapidly spreads across the surface",
+            "shot": "3D night shot under a clear starry sky: soft wavy heat lines rise from the pools up to the sky, then a thin sheet of ice spreads across the water, low close-up angle",
+            "stock_query": "water freezing into ice"
+          },
+          {
+            "text": "Workers stacked the ice inside a giant, thick-walled cone.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "workers carrying heavy blocks",
+              "ancient doorway clay building"
+            ],
+            "image_prompt": "3D render of stylized faceless clay workers cutting rectangular blue ice blocks from shallow outdoor basins and carrying them through an arched entry into a massive clay cone structure",
+            "shot": "3D shot of simple faceless clay-style workers cutting the pool ice into blocks and carrying them through a doorway into the giant cone, camera follows them in",
+            "stock_query": "workers carrying heavy blocks"
+          },
+          {
+            "text": "Warm air escaped out the top, while cold air sank to a deep pit.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "ventilation airflow diagram",
+              "thermal convection arrows"
+            ],
+            "image_prompt": "3D cross-section architectural cutaway of a giant adobe cone, showing red air arrows rising up through a top ventilation vent and blue cold air arrows sinking into a subterranean ice storage pit",
+            "shot": "3D cross-section cutaway of the cone: red arrows of warm air rise out of an opening at the top while blue arrows of cold air sink into a deep pit stacked with ice blocks, slow orbit",
+            "stock_query": "ventilation airflow diagram"
+          },
+          {
+            "text": "Packed in straw, the ice lasted all summer, no electricity needed.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "ice blocks insulated straw",
+              "subterranean pit storage"
+            ],
+            "image_prompt": "3D detailed cutaway of an underground chamber showing stacked glowing blue ice blocks separated by thick layers of dry golden straw, perfectly frozen despite scorching desert heat on the surface",
+            "shot": "3D cutaway of the deep pit: ice blocks layered with straw, the desert outside turns to blazing summer sun, the ice stays frozen, slow pull-back",
+            "stock_query": "ice blocks insulated straw"
+          },
+          {
+            "text": "So if anyone ever asks you",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "desert panorama ancient structure",
+              "clay building desert noon"
+            ],
+            "image_prompt": "3D camera view pulling backward out of the ancient conical clay building to reveal the complete sun-drenched desert scene, matching the opening angle with the tall shade wall in frame",
+            "shot": "3D camera pulls back out of the cone to the same wide desert shot as the opening, the tall cone and wall in frame, ready to loop",
+            "stock_query": "desert panorama ancient structure"
+          }
+        ],
+        "key_facts": [
+          "Ancient Persians engineered ice houses known as yakhchals over 2,400 years ago without electricity.",
+          "Water was channeled from underground aqueducts (qanats) into long, shallow outdoor basins.",
+          "A massive, tall adobe wall shielded the shallow pools from solar radiation throughout the day.",
+          "Through radiative cooling, the water shed heat directly into the clear, dry night sky and froze during winter nights.",
+          "Ice blocks were harvested and moved into an enormous, thick-walled mudbrick cone.",
+          "Thermal convection allowed warm air to escape through a top apex vent while cold, dense air sank into a deep subterranean pit.",
+          "Layered with insulating straw, stored ice remained frozen through extreme desert summer heat."
+        ],
+        "visual_bible": "Stylized warm-toned 3D architectural animation featuring clay and adobe desert structures, luminous cyan ice, and faceless clay-textured workers under realistic atmospheric desert lighting.",
+        "format": "animated",
+        "tone": "normal",
+        "category": "27",
+        "script": "How did people make ice in the desert, long before freezers? In ancient Persia, water flowed from underground channels into shallow pools. A tall wall kept those pools in shade. On clear winter nights, the water radiated its heat to the sky and froze. Workers stacked the ice inside a giant, thick-walled cone. Warm air escaped out the top, while cold air sank to a deep pit. Packed in straw, the ice lasted all summer, no electricity needed. So if anyone ever asks you",
+        "plan_id": "P2026-10-20-01",
+        "voice": "en-US-AvaMultilingualNeural",
+        "animated_estimate": 0.57,
+        "visual_report": {
+          "shots": 9,
+          "checked": 8,
+          "unchecked": 0,
+          "filler": 6,
+          "ai": 0
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AvaMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): Natalia_Kollegova (Pixabay) https://pixabay.com/photos/icicles-snow-winter-spring-drops-3157278/; Natalia_Kollegova (Pixabay) https://pixabay.com/photos/icicles-snow-winter-spring-drops-3157500/",
+        "SuSanA Secretariat / Wikimedia Commons (CC BY 2.0) https://commons.wikimedia.org/wiki/File:Fetching_water_from_spring_water_channel_(4361656507).jpg"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-20",
+        "name": "2026-10-20-1-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-20",
+        "name": "2026-10-20-1-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,087 --> 00:00:01,337\nHow did people make ice in the\n\n2\n00:00:01,337 --> 00:00:04,978\ndesert long before freezers In ancient Persia\n\n3\n00:00:04,978 --> 00:00:06,935\nwater flowed from underground channels into\n\n4\n00:00:06,935 --> 00:00:09,239\nshallow pools A tall wall kept those\n\n5\n00:00:09,239 --> 00:00:11,870\npools in shade On clear winter nights\n\n6\n00:00:11,870 --> 00:00:13,522\nthe water radiated its heat to the\n\n7\n00:00:13,522 --> 00:00:16,250\nsky and froze Workers stacked the ice\n\n8\n00:00:16,250 --> 00:00:19,576\ninside a giant thick-walled cone Warm air\n\n9\n00:00:19,576 --> 00:00:21,696\nescaped out the top while cold air\n\n10\n00:00:21,696 --> 00:00:23,641\nsank to a deep pit Packed in\n\n11\n00:00:23,641 --> 00:00:26,283\nstraw the ice lasted all summer no\n\n12\n00:00:26,283 --> 00:00:29,413\nelectricity needed So if anyone ever asks\n\n13\n00:00:29,413 --> 00:00:30,074\nyou\n",
+      "tg_msg": 602,
+      "opts_msg": 604
+    },
+    "2026-10-20-2": {
+      "topic": {
+        "title": "Top 5 Animal Dads (#1 Gets Pregnant)",
+        "angle": "The baby sea turtle rescue Short (30.4x its channel median) shows how far animal-parenting care spreads, and a countdown ending on a dad who gives birth turns that warmth into a ranking with a twist.",
+        "format": "ranking",
+        "tone": "normal",
+        "virality_score": 8,
+        "trend_source": "He Saved These Baby Sea Turtles (30.4x, Unclassified - one caring moment with baby animals)",
+        "plan_id": "P2026-10-20-02"
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-20T20:04:47.216881+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "best animal dads",
+        "title": "Top 5 Animal Dads (#1 Gets Pregnant)",
+        "hook_text": "NATURE'S BEST FATHERS",
+        "thumbnail_text": "HE GIVES BIRTH",
+        "description": "These animal dads do all the work, from the male seahorse that gives birth to the emperor penguin that goes up to 67 days without eating. Here are the best animal fathers in nature, counted down from five to one.\n\nIn this Short: the giant water bug, the smooth guardian frog, the greater rhea, the emperor penguin and the seahorse.\n\nSources:\nhttps://popsci.com/environment/animal-fathers-egg-care\nhttps://dipsy.pbs.org/wgbh/nova/seahorse/superdads.html\nhttps://www.calacademy.org/explore-science/amazing-animal-dads",
+        "hashtags": [
+          "#shorts",
+          "#animals",
+          "#nature",
+          "#top5"
+        ],
+        "tags": [
+          "best animal dads",
+          "animal dads",
+          "best animal fathers",
+          "male seahorse gives birth",
+          "emperor penguin father egg",
+          "emperor penguin dad",
+          "emperor penguin father",
+          "seahorse male pregnancy",
+          "seahorse pregnancy and birth",
+          "giant water bug",
+          "smooth guardian frog",
+          "male seahorse giving birth to babies",
+          "good animal dads",
+          "seahorse pregnant",
+          "seahorse pregnancy",
+          "best animal parents",
+          "animal dads and their babies",
+          "greater rhea",
+          "father's day animals",
+          "animal dads protecting their babies"
+        ],
+        "pinned_comment": "Bonus fact: a male seahorse's pouch even supplies his babies with calcium for their tiny skeletons. Which of these five dads would you want raising you?",
+        "scenes": [
+          {
+            "text": "You think your dad works hard? These five dads never get a day off, and number one gives birth. Let's count down.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "father child beach sunset silhouette",
+              "wild animals parenting wilderness"
+            ],
+            "image_prompt": "Cinematic wide shot of a calm ocean shoreline at sunset, warm golden glow reflecting on wet sand, dramatic atmospheric lighting, high detail, 8k documentary style",
+            "stock_query": "father child beach sunset silhouette"
+          },
+          {
+            "text": "Number five, the giant water bug. Mom lays a hundred or more eggs on his back, and he carries them until they hatch.",
+            "badge": "#5",
+            "label": "Giant Water Bug",
+            "stock_queries": [
+              "giant water bug eggs back macro",
+              "aquatic insect freshwater pond"
+            ],
+            "image_prompt": "Extreme macro photography of a male giant water bug submerged in clear freshwater pond, tightly packed golden eggs glued completely across its back, natural underwater lighting, crisp focus",
+            "stock_query": "giant water bug eggs back macro"
+          },
+          {
+            "text": "Number four, the smooth guardian frog. He guards the eggs, then gives the tadpoles a piggyback ride to a pool.",
+            "badge": "#4",
+            "label": "Smooth Guardian Frog",
+            "stock_queries": [
+              "small tropical frog rainforest leaf",
+              "frog carrying tadpoles back"
+            ],
+            "image_prompt": "Detailed close-up of a small brown smooth guardian frog perched on a vibrant wet rainforest leaf, carrying tiny moist tadpoles nestled on its back, soft tropical daylight, wildlife macro",
+            "stock_query": "small tropical frog rainforest leaf"
+          },
+          {
+            "text": "Number three, the greater rhea. He sits on up to sixty eggs from several moms, then babysits the chicks for months.",
+            "badge": "#3",
+            "label": "Greater Rhea",
+            "stock_queries": [
+              "greater rhea chicks grassland",
+              "rhea bird nest savanna"
+            ],
+            "image_prompt": "A tall male greater rhea bird attentively walking across open South American grassland with dozens of small striped chicks following closely behind, golden hour sunlight, sharp wildlife photography",
+            "stock_query": "greater rhea chicks grassland"
+          },
+          {
+            "text": "Number two, the emperor penguin. He keeps one egg warm on his feet for up to sixty-seven days, without eating.",
+            "badge": "#2",
+            "label": "Emperor Penguin",
+            "stock_queries": [
+              "emperor penguin egg feet antarctica",
+              "penguin colony blizzard winter"
+            ],
+            "image_prompt": "Close-up eye-level view of a stoic male emperor penguin standing firmly on Antarctic pack ice, carefully balancing a single large egg on top of his black feet under a warm feathered brood pouch, blowing snow in the background",
+            "stock_query": "emperor penguin egg feet antarctica"
+          },
+          {
+            "text": "Number one, the seahorse. Mom gives her eggs to dad, he carries them in a belly pouch, and then he gives birth.",
+            "badge": "#1",
+            "label": "Seahorse",
+            "stock_queries": [
+              "pregnant male seahorse coral reef",
+              "seahorse giving birth underwater"
+            ],
+            "image_prompt": "Vibrant macro underwater shot of an orange male seahorse anchored to bright green seagrass, its swollen brood pouch prominently displayed in profile with tiny translucent baby seahorses emerging into clear blue water",
+            "stock_query": "pregnant male seahorse coral reef"
+          },
+          {
+            "text": "So yes, the dad who gives birth is a seahorse. Which of these dads would you want raising you? Tell me in the comments. Now go show this to your dad, and ask him:",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "baby seahorses swimming ocean",
+              "emperor penguin chick parent ice"
+            ],
+            "image_prompt": "Touching wildlife portrait of a fluffy emperor penguin chick leaning gently against its father's chest plumage on vast Antarctic sea ice, soft polar daylight, cinematic depth of field",
+            "stock_query": "baby seahorses swimming ocean"
+          }
+        ],
+        "key_facts": [
+          "Female giant water bugs lay 100 or more eggs on the male's back, which he carries and aerates until hatching.",
+          "Male smooth guardian frogs protect clutches on land and carry hatched tadpoles on their backs to water pools.",
+          "Male greater rheas incubate up to 60 eggs gathered from multiple females and rear the chicks alone for several months.",
+          "Male emperor penguins fast for up to 67 consecutive days while keeping an egg warm on their feet through the Antarctic winter.",
+          "Male seahorses have a specialized brood pouch where they fertilize, carry, and give birth to hundreds of live fry."
+        ],
+        "format": "ranking",
+        "tone": "normal",
+        "category": "27",
+        "script": "You think your dad works hard? These five dads never get a day off, and number one gives birth. Let's count down. Number five, the giant water bug. Mom lays a hundred or more eggs on his back, and he carries them until they hatch. Number four, the smooth guardian frog. He guards the eggs, then gives the tadpoles a piggyback ride to a pool. Number three, the greater rhea. He sits on up to sixty eggs from several moms, then babysits the chicks for months. Number two, the emperor penguin. He keeps one egg warm on his feet for up to sixty-seven days, without eating. Number one, the seahorse. Mom gives her eggs to dad, he carries them in a belly pouch, and then he gives birth. So yes, the dad who gives birth is a seahorse. Which of these dads would you want raising you? Tell me in the comments. Now go show this to your dad, and ask him:",
+        "plan_id": "P2026-10-20-02",
+        "shot_plan": [
+          {
+            "subject": "seahorse swimming in the ocean",
+            "queries": [
+              {
+                "q": "seahorse underwater ocean",
+                "must": [
+                  "seahorse"
+                ]
+              },
+              {
+                "q": "marine life swimming",
+                "must": [
+                  "ocean"
+                ]
+              },
+              {
+                "q": "underwater fish",
+                "must": [
+                  "fish"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "giant water bug carrying eggs",
+            "queries": [
+              {
+                "q": "giant water bug",
+                "must": [
+                  "bug"
+                ]
+              },
+              {
+                "q": "water insect",
+                "must": [
+                  "insect"
+                ]
+              },
+              {
+                "q": "pond bug",
+                "must": [
+                  "pond"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "smooth guardian frog with tadpoles",
+            "queries": [
+              {
+                "q": "guardian frog tadpoles",
+                "must": [
+                  "frog"
+                ]
+              },
+              {
+                "q": "frog carrying tadpoles",
+                "must": [
+                  "tadpole"
+                ]
+              },
+              {
+                "q": "amphibian in pond",
+                "must": [
+                  "amphibian"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "greater rhea bird sitting on eggs",
+            "queries": [
+              {
+                "q": "greater rhea bird",
+                "must": [
+                  "rhea"
+                ]
+              },
+              {
+                "q": "large flightless bird",
+                "must": [
+                  "bird"
+                ]
+              },
+              {
+                "q": "bird on nest",
+                "must": [
+                  "nest"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "emperor penguin with egg on feet",
+            "queries": [
+              {
+                "q": "emperor penguin egg",
+                "must": [
+                  "penguin"
+                ]
+              },
+              {
+                "q": "penguin in snow",
+                "must": [
+                  "snow"
+                ]
+              },
+              {
+                "q": "antarctic bird",
+                "must": [
+                  "antarctic"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "seahorse giving birth underwater",
+            "queries": [
+              {
+                "q": "seahorse giving birth",
+                "must": [
+                  "seahorse"
+                ]
+              },
+              {
+                "q": "seahorse pouch",
+                "must": [
+                  "pouch"
+                ]
+              },
+              {
+                "q": "underwater seahorse",
+                "must": [
+                  "underwater"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "seahorse swimming near coral reef",
+            "queries": [
+              {
+                "q": "seahorse coral reef",
+                "must": [
+                  "seahorse"
+                ]
+              },
+              {
+                "q": "coral reef marine life",
+                "must": [
+                  "coral"
+                ]
+              },
+              {
+                "q": "ocean fish",
+                "must": [
+                  "fish"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "wildlife",
+          "animal",
+          "nature"
+        ],
+        "visual_style": "Fast-paced wildlife countdown with bold on-screen labels, engaging nature footage, and a surprising twist ending.",
+        "visual_refs": [
+          "Can a Dad Get Pregnant? (And He&#39;s Not Even the Weirdest Parent)",
+          "She\u2019s PREGNANT?!?\ud83d\ude31\ud83e\udd23 #matthewraymond #shorts #ashortaday",
+          "\ud83d\udc9bCubs meet dad lion for 1st time\ud83e\udd70 #lion #cubs #animals #shorts",
+          "I guess men can get pregnant! \ud83e\udec3#SummerOnShorts",
+          "Best friends #baby #pregnant #pregnancy #bigsis #siblings #moms #shorts #family #sister",
+          "Is Carly Pregnant?! \ud83c\udf7c | iCarly #Shorts"
+        ],
+        "voice": "en-US-EmmaMultilingualNeural",
+        "visual_report": {
+          "shots": 11,
+          "checked": 11,
+          "unchecked": 0,
+          "filler": 2,
+          "ai": 0
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-EmmaMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): 49666880 (Pixabay) https://pixabay.com/videos/id-270925/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-310639/; MoonpetalMedia (Pixabay) https://pixabay.com/videos/id-369686/; MabelAmber (Pixabay) https://pixabay.com/photos/greater-rhea-common-rhea-bird-3196337/; MemoryCatcher (Pixabay) https://pixabay.com/photos/emperor-penguins-baby-penguin-birds-429128/; MemoryCatcher (Pixabay) https://pixabay.com/photos/penguins-emperor-penguins-baby-429134/; MemoryCatcher (Pixabay) https://pixabay.com/photos/penguin-baby-antarctic-life-animal-429125/; MoonpetalMedia (Pixabay) https://pixabay.com/videos/id-358613/",
+        "photo taken by flickr user noisecollusion / Wikimedia Commons (CC BY 2.0) https://commons.wikimedia.org/wiki/File:Toe-Biter.jpg"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-20",
+        "name": "2026-10-20-2-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-20",
+        "name": "2026-10-20-2-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,095 --> 00:00:02,432\nYou think your dad works hard These\n\n2\n00:00:02,432 --> 00:00:04,688\nfive dads never get a day off\n\n3\n00:00:04,688 --> 00:00:07,188\nand number one gives birth Let's count\n\n4\n00:00:07,188 --> 00:00:10,774\ndown Number five the giant water bug\n\n5\n00:00:10,774 --> 00:00:12,595\nMom lays a hundred or more eggs\n\n6\n00:00:12,595 --> 00:00:14,606\non his back and he carries them\n\n7\n00:00:14,606 --> 00:00:17,622\nuntil they hatch Number four the smooth\n\n8\n00:00:17,622 --> 00:00:20,883\nguardian frog He guards the eggs then\n\n9\n00:00:20,883 --> 00:00:23,043\ngives the tadpoles a piggyback ride to\n\n10\n00:00:23,043 --> 00:00:26,467\na pool Number three the greater rhea\n\n11\n00:00:26,467 --> 00:00:28,166\nHe sits on up to sixty eggs\n\n12\n00:00:28,166 --> 00:00:31,019\nfrom several moms then babysits the chicks\n\n13\n00:00:31,019 --> 00:00:34,620\nfor months Number two the emperor penguin\n\n14\n00:00:34,620 --> 00:00:36,332\nHe keeps one egg warm on his\n\n15\n00:00:36,332 --> 00:00:38,954\nfeet for up to sixty-seven days without\n\n16\n00:00:38,954 --> 00:00:42,989\neating Number one the seahorse Mom gives\n\n17\n00:00:42,989 --> 00:00:45,136\nher eggs to dad he carries them\n\n18\n00:00:45,136 --> 00:00:46,902\nin a belly pouch and then he\n\n19\n00:00:46,902 --> 00:00:49,715\ngives birth So yes the dad who\n\n20\n00:00:49,715 --> 00:00:52,283\ngives birth is a seahorse Which of\n\n21\n00:00:52,283 --> 00:00:54,728\nthese dads would you want raising you\n\n22\n00:00:54,728 --> 00:00:56,997\nTell me in the comments Now go\n\n23\n00:00:56,997 --> 00:00:58,927\nshow this to your dad and ask\n\n24\n00:00:58,927 --> 00:00:59,626\nhim\n",
+      "tg_msg": 605,
+      "opts_msg": 607
+    },
+    "2026-10-20-3": {
+      "topic": {
+        "title": "Why Wombat Poop Is a Cube: 1 Weird Gut",
+        "angle": "The top outliers (up to 219x their channel medians) are single surprising moments with a big reaction, and cube-shaped poop is a true, kind, laugh-out-loud surprise with a real science payoff.",
+        "format": "funny",
+        "tone": "funny",
+        "virality_score": 8,
+        "trend_source": "Don't miss the End (2.0x, funny reveal) and the one-moment structure shared by today's top outliers (219.3x, 34.5x, 30.4x)",
+        "plan_id": "P2026-10-20-03"
+      },
+      "status": "failed",
+      "by": "auto",
+      "updated": "2026-10-20T19:22:02.862587+00:00",
+      "redos": 0
+    },
+    "2026-10-20-4": {
+      "topic": {
+        "title": "The 131-Year-Old Message in a Bottle \ud83c\udf7e",
+        "angle": "Today's top outliers (219x, 34x, 30x) are one-moment discoveries with a reveal, and a beach walk that turns up a note from 1886 is a true, gentle discovery with a record-breaking payoff.",
+        "format": "story",
+        "tone": "normal",
+        "virality_score": 7,
+        "trend_source": "He Saved These Baby Sea Turtles (30.4x) and the one-moment-reveal structure of today's top outliers",
+        "plan_id": "P2026-10-20-04"
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-20T20:17:46.298138+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "oldest message in a bottle",
+        "title": "The 131-Year-Old Message in a Bottle \ud83c\udf7e",
+        "hook_text": "FOUND ON A BEACH",
+        "thumbnail_text": "NOTE FROM 1886",
+        "description": "The oldest message in a bottle ever found was thrown from the German ship Paula in 1886 and found on a beach in Western Australia in 2018. This message in a bottle spent 131 years lost before anyone read it.\n\nIn this Short: how the bottle was found, what the note said, and why German captains threw thousands of bottles into the sea.\n\nThis is a true story.\n\nSources:\nhttps://guinnessworldrecords.com/world-records/oldest-message-in-a-bottle\nhttps://www.nationalgeographic.com/history/article/oldest-message-in-a-bottle-australia-german-spd\nhttps://wgbh.org/news/2018-03-07/oldest-known-message-in-a-bottle-found-in-australia",
+        "hashtags": [
+          "#shorts",
+          "#truestory",
+          "#history",
+          "#ocean",
+          "#storytime"
+        ],
+        "tags": [
+          "oldest message in a bottle",
+          "message in a bottle",
+          "oldest message in a bottle found",
+          "message in a bottle found on beach",
+          "message in a bottle found",
+          "wedge island",
+          "wedge island wa",
+          "true story",
+          "wedge island bottle",
+          "german drift bottle",
+          "guinness world record",
+          "1886 message in a bottle",
+          "ocean currents experiment",
+          "paula ship",
+          "history facts"
+        ],
+        "pinned_comment": "Bonus fact: of all the bottles from that German experiment, 662 other messages had been found and returned before this one. What would you write in yours?",
+        "scenes": [
+          {
+            "text": "This bottle spent over one hundred thirty-one years lost before anyone read its message. Here's the true story of the oldest message in a bottle ever found.",
+            "badge": "131 YEAR",
+            "label": "Oldest ever found",
+            "stock_queries": [
+              "old glass bottle on beach",
+              "message in a bottle"
+            ],
+            "image_prompt": "Cinematic close-up of an old glass bottle half buried in beach sand with waves in the background",
+            "stock_query": "old glass bottle on beach"
+          },
+          {
+            "text": "In January twenty eighteen, a family's car got stuck in the sand near Wedge Island, in Western Australia. While they waited, they went for a walk, picking up trash.",
+            "badge": "Australi",
+            "label": "A beach walk",
+            "stock_queries": [
+              "car stuck in beach sand",
+              "people walking on sandy beach"
+            ],
+            "image_prompt": "Car tires spinning in soft beach sand with no people visible",
+            "stock_query": "car stuck in beach sand"
+          },
+          {
+            "text": "One old bottle looked nice enough to keep. Inside was a rolled-up piece of paper.",
+            "badge": "An old b",
+            "label": "A note inside",
+            "stock_queries": [
+              "picking up glass bottle from sand",
+              "rolled paper inside glass bottle"
+            ],
+            "image_prompt": "Close-up of a rolled paper inside an old glass bottle on the sand",
+            "stock_query": "picking up glass bottle from sand"
+          },
+          {
+            "text": "It was a printed German form, dated June twelfth, eighteen eighty-six. It came from a German sailing ship called the Paula.",
+            "badge": "Dated 18",
+            "label": "Ship: the Paula",
+            "stock_queries": [
+              "old paper document unrolling",
+              "tall sailing ship on ocean"
+            ],
+            "image_prompt": "Rolled-up old paper being gently unrolled on a wooden table, hands only",
+            "stock_query": "old paper document unrolling"
+          },
+          {
+            "text": "German captains threw thousands of these overboard to study ocean currents. Museum experts checked the captain's handwriting against the ship's logbook, and it matched.",
+            "badge": "A scienc",
+            "label": "Handwriting matched",
+            "stock_queries": [
+              "bottle bobbing on ocean waves",
+              "old handwriting document logbook"
+            ],
+            "image_prompt": "Old handwritten document with faded ink under macro lens lighting",
+            "stock_query": "bottle bobbing on ocean waves"
+          },
+          {
+            "text": "So yes, it drifted, or sat buried in sand, for over one hundred thirty-one years.",
+            "badge": "131 year",
+            "label": "Time passed",
+            "stock_queries": [
+              "ocean waves washing over sand",
+              "ancient glass bottle on beach"
+            ],
+            "image_prompt": "Ocean waves washing over sand at sunset with an old bottle half submerged",
+            "stock_query": "ocean waves washing over sand"
+          },
+          {
+            "text": "What would you write in a message in a bottle? Tell me in the comments. It might end up just like this one.",
+            "badge": "What wou",
+            "label": "Just like this one",
+            "stock_queries": [
+              "writing a letter on paper",
+              "bottle drifting away on sea"
+            ],
+            "image_prompt": "Pen writing on a small piece of paper by hand, warm lighting",
+            "stock_query": "writing a letter on paper"
+          }
+        ],
+        "key_facts": [
+          "The bottle spent over 131 years lost before being read.",
+          "It is the oldest message in a bottle ever found.",
+          "Found in January 2018 near Wedge Island, Western Australia.",
+          "Discovered by a family whose car got stuck in the sand.",
+          "Inside was a printed German form dated June 12, 1886.",
+          "The ship it came from was a German sailing ship named the Paula.",
+          "German captains threw thousands of bottles overboard to study ocean currents.",
+          "Museum experts verified the captain's handwriting against the ship's logbook."
+        ],
+        "format": "story",
+        "tone": "normal",
+        "category": "24",
+        "script": "This bottle spent over one hundred thirty-one years lost before anyone read its message. Here's the true story of the oldest message in a bottle ever found. In January twenty eighteen, a family's car got stuck in the sand near Wedge Island, in Western Australia. While they waited, they went for a walk, picking up trash. One old bottle looked nice enough to keep. Inside was a rolled-up piece of paper. It was a printed German form, dated June twelfth, eighteen eighty-six. It came from a German sailing ship called the Paula. German captains threw thousands of these overboard to study ocean currents. Museum experts checked the captain's handwriting against the ship's logbook, and it matched. So yes, it drifted, or sat buried in sand, for over one hundred thirty-one years. What would you write in a message in a bottle? Tell me in the comments. It might end up just like this one.",
+        "plan_id": "P2026-10-20-04",
+        "shot_plan": [
+          {
+            "subject": "glass bottle in sand",
+            "queries": [
+              {
+                "q": "glass bottle beach",
+                "must": [
+                  "bottle"
+                ]
+              },
+              {
+                "q": "message in bottle",
+                "must": [
+                  "bottle"
+                ]
+              },
+              {
+                "q": "vintage bottle",
+                "must": [
+                  "bottle"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "car stuck in sand on beach",
+            "queries": [
+              {
+                "q": "car stuck sand",
+                "must": [
+                  "car"
+                ]
+              },
+              {
+                "q": "beach walking trash",
+                "must": [
+                  "beach"
+                ]
+              },
+              {
+                "q": "coastal sand dune",
+                "must": [
+                  "sand"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "rolled paper note inside glass bottle",
+            "queries": [
+              {
+                "q": "scroll inside bottle",
+                "must": [
+                  "bottle"
+                ]
+              },
+              {
+                "q": "paper note bottle",
+                "must": [
+                  "paper"
+                ]
+              },
+              {
+                "q": "rolled paper",
+                "must": [
+                  "paper"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "historic sailing ship on ocean",
+            "queries": [
+              {
+                "q": "historic sailing ship",
+                "must": [
+                  "ship"
+                ]
+              },
+              {
+                "q": "vintage sailing boat",
+                "must": [
+                  "ship"
+                ]
+              },
+              {
+                "q": "antique document paper",
+                "must": [
+                  "paper"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "handwriting with fountain pen on paper",
+            "queries": [
+              {
+                "q": "handwriting paper ink",
+                "must": [
+                  "handwriting"
+                ]
+              },
+              {
+                "q": "vintage manuscript",
+                "must": [
+                  "paper"
+                ]
+              },
+              {
+                "q": "fountain pen writing",
+                "must": [
+                  "pen"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "glass bottle buried in sand on beach",
+            "queries": [
+              {
+                "q": "bottle in sand",
+                "must": [
+                  "bottle"
+                ]
+              },
+              {
+                "q": "sandy beach waves",
+                "must": [
+                  "beach"
+                ]
+              },
+              {
+                "q": "ocean tide sand",
+                "must": [
+                  "sand"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "glass bottle on shoreline at sunset",
+            "queries": [
+              {
+                "q": "bottle shoreline sunset",
+                "must": [
+                  "bottle"
+                ]
+              },
+              {
+                "q": "message bottle beach",
+                "must": [
+                  "beach"
+                ]
+              },
+              {
+                "q": "glass bottle ocean",
+                "must": [
+                  "bottle"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "glass bottle",
+          "sandy beach",
+          "ocean waves"
+        ],
+        "visual_style": "Viewers expect to see vibrant, close-up stock footage of coastal landscapes, glass bottles on sandy beaches, historical documents, and ocean currents.",
+        "visual_refs": [
+          "Bath Song KARAOKE! @CoComelon for Kids | Sing Along With Me! | Moonbug Kids Songs"
+        ],
+        "voice": "en-US-AndrewMultilingualNeural",
+        "visual_report": {
+          "shots": 15,
+          "checked": 15,
+          "unchecked": 0,
+          "filler": 2,
+          "ai": 0
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AndrewMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): MoonpetalMedia (Pixabay) https://pixabay.com/videos/id-342401/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-342450/; MoonpetalMedia (Pixabay) https://pixabay.com/videos/id-360214/; NoName_13 (Pixabay) https://pixabay.com/photos/bottle-message-beach-1694868/; Atlantios (Pixabay) https://pixabay.com/photos/message-in-a-bottle-sea-wreck-3437294/; enzol (Pixabay) https://pixabay.com/photos/schooner-vintage-sailing-sail-ship-487800/; Matyze (Pixabay) https://pixabay.com/photos/pirates-sailing-ship-frigate-ship-587988/; JoannaWhittaker (Pixabay) https://pixabay.com/photos/ship-tallship-tall-ship-sea-sail-2523650/; hudsoncrafted (Pixabay) https://pixabay.com/photos/merry-christmas-pen-handwriting-3481061/; Joa70 (Pixabay) https://pixabay.com/photos/fountain-pen-write-handwriting-5898439/; 2211438 (Pixabay) https://pixabay.com/photos/old-handwriting-write-old-script-1277562/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-341562/; Positive_Hedgehog (Pixabay) https://pixabay.com/videos/id-279394/"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-20",
+        "name": "2026-10-20-4-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-20",
+        "name": "2026-10-20-4-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,109 --> 00:00:02,554\nThis bottle spent over one hundred thirty-one\n\n2\n00:00:02,554 --> 00:00:06,019\nyears lost before anyone read its message\n\n3\n00:00:06,019 --> 00:00:08,207\nHere's the true story of the oldest\n\n4\n00:00:08,207 --> 00:00:10,951\nmessage in a bottle ever found In\n\n5\n00:00:10,951 --> 00:00:13,736\nJanuary twenty eighteen a family's car got\n\n6\n00:00:13,736 --> 00:00:16,019\nstuck in the sand near Wedge Island\n\n7\n00:00:16,019 --> 00:00:18,723\nin Western Australia While they waited they\n\n8\n00:00:18,723 --> 00:00:21,590\nwent for a walk picking up trash\n\n9\n00:00:21,590 --> 00:00:23,302\nOne old bottle looked nice enough to\n\n10\n00:00:23,302 --> 00:00:25,679\nkeep Inside was a rolled-up piece of\n\n11\n00:00:25,679 --> 00:00:28,696\npaper It was a printed German form\n\n12\n00:00:28,696 --> 00:00:32,405\ndated June twelfth eighteen eighty-six It came\n\n13\n00:00:32,405 --> 00:00:34,198\nfrom a German sailing ship called the\n\n14\n00:00:34,198 --> 00:00:37,568\nPaula German captains threw thousands of these\n\n15\n00:00:37,568 --> 00:00:41,413\noverboard to study ocean currents Museum experts\n\n16\n00:00:41,413 --> 00:00:43,682\nchecked the captain's handwriting against the\n\n17\n00:00:43,682 --> 00:00:47,310\nship's logbook and it matched So yes\n\n18\n00:00:47,310 --> 00:00:50,448\nit drifted or sat buried in sand\n\n19\n00:00:50,448 --> 00:00:52,948\nfor over one hundred thirty-one years What\n\n20\n00:00:52,948 --> 00:00:54,062\nwould you write in a message in\n\n21\n00:00:54,062 --> 00:00:56,495\na bottle Tell me in the comments\n\n22\n00:00:56,495 --> 00:00:57,554\nIt might end up just like this\n\n23\n00:00:57,554 --> 00:00:58,226\none\n",
+      "tg_msg": 609,
+      "opts_msg": 611
     }
   },
   "history": [
-    "Top 5 Excuses People Give When They're Late",
-    "Top 5 Animals That Suck At Hiding",
-    "Top 5 Space Events Happening This Month",
     "Top 5 Most Absurd Smartphone Glitches Ever",
     "Top 5 Historic Sports Comebacks",
     "Top 5 Absurd Inventions That Made Zero Sense",
@@ -13175,7 +13711,10 @@
     "Guess Where These 3 Foods Were Invented",
     "Top 5 Useless Kitchen Gadgets That Seemed Like a Good Idea",
     "Top 5 Most Bizarre Natural Architecture Miracles",
-    "Why Modern Movie Popcorn Always Tastes Better"
+    "Why Modern Movie Popcorn Always Tastes Better",
+    "How Desert Ice Houses Worked 2,400 Years Ago",
+    "Top 5 Animal Dads (#1 Gets Pregnant)",
+    "The 131-Year-Old Message in a Bottle \ud83c\udf7e"
   ],
   "trend_tries": {
     "2026-10-18": {
@@ -13193,14 +13732,14 @@
   },
   "cleanup_day": "2026-10-20",
   "recent_voices": [
-    "en-US-AvaMultilingualNeural",
-    "en-US-AndrewMultilingualNeural",
-    "en-US-EmmaMultilingualNeural",
     "en-US-BrianMultilingualNeural",
-    "en-AU-WilliamMultilingualNeural"
+    "en-AU-WilliamMultilingualNeural",
+    "en-US-AvaMultilingualNeural",
+    "en-US-EmmaMultilingualNeural",
+    "en-US-AndrewMultilingualNeural"
   ],
   "visual_searches": {
-    "2026-10-20": 3
+    "2026-10-20": 5
   },
   "signals_day": "2026-10-20"
 }

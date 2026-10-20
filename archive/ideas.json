@@ -1625,44 +1625,44 @@
    {
     "angle": "Zack D. Films' ancient-gadget explainer \"How Plato's Alarm Clock Worked\" is pulling about 247,000 views per hour this week, and a desert ice house is the same clever-old-mechanism curiosity with a clear 3D cutaway payoff.",
     "format": "animated",
-    "picked": false,
+    "picked": true,
     "rank": 1,
     "title": "How Desert Ice Houses Worked 2,400 Years Ago",
     "trend_source": "title shape of How Plato's Alarm Clock Worked (247,000 views/h); also How Electrical Outlets Work (372,500 views/h)",
-    "video_id": null,
+    "video_id": "2026-10-20-1",
     "virality_score": 8,
     "why": ""
    },
    {
     "angle": "The baby sea turtle rescue Short (30.4x its channel median) shows how far animal-parenting care spreads, and a countdown ending on a dad who gives birth turns that warmth into a ranking with a twist.",
     "format": "ranking",
-    "picked": false,
+    "picked": true,
     "rank": 2,
     "title": "Top 5 Animal Dads (#1 Gets Pregnant)",
     "trend_source": "He Saved These Baby Sea Turtles (30.4x, Unclassified - one caring moment with baby animals)",
-    "video_id": null,
+    "video_id": "2026-10-20-2",
     "virality_score": 8,
     "why": ""
    },
    {
     "angle": "The top outliers (up to 219x their channel medians) are single surprising moments with a big reaction, and cube-shaped poop is a true, kind, laugh-out-loud surprise with a real science payoff.",
     "format": "funny",
-    "picked": false,
+    "picked": true,
     "rank": 3,
     "title": "Why Wombat Poop Is a Cube: 1 Weird Gut",
     "trend_source": "Don't miss the End (2.0x, funny reveal) and the one-moment structure shared by today's top outliers (219.3x, 34.5x, 30.4x)",
-    "video_id": null,
+    "video_id": "2026-10-20-3",
     "virality_score": 8,
     "why": ""
    },
    {
     "angle": "Today's top outliers (219x, 34x, 30x) are one-moment discoveries with a reveal, and a beach walk that turns up a note from 1886 is a true, gentle discovery with a record-breaking payoff.",
     "format": "story",
-    "picked": false,
+    "picked": true,
     "rank": 4,
     "title": "The 131-Year-Old Message in a Bottle 🍾",
     "trend_source": "He Saved These Baby Sea Turtles (30.4x) and the one-moment-reveal structure of today's top outliers",
-    "video_id": null,
+    "video_id": "2026-10-20-4",
     "virality_score": 7,
     "why": ""
    },
@@ -1690,7 +1690,7 @@
    }
   ],
   "sent_at": "2026-10-20T15:10:57.735289+00:00",
-  "status": "waiting"
+  "status": "closed"
  },
  "2026-10-20-2": {
   "date": "2026-10-20-2",
