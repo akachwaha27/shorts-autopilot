@@ -161,17 +161,69 @@ def generate(prompt, seconds, out_path):
         return None
 
 
-ANIMATED_STYLE = ("Vertical 9:16 educational 3D animated explainer shot. Stylized clay-like 3D render with soft global "
-                  "illumination, warm saturated colors, clean simple shapes, smooth confident camera moves, clear "
-                  "cutaway cross-section views when showing how something works inside. Family-friendly. No text, "
-                  "captions, subtitles, numbers, watermarks, logos, brand names or real people.")
+ANIMATED_STYLE = ("Stylized clay-like 3D animation, soft global illumination, warm saturated colors, clean simple "
+                  "shapes, smooth slow camera move, cutaway cross-section view when the inside matters. Vertical 9:16. "
+                  "No text, captions, numbers, watermarks, logos, brand names or real people.")
 
 
-def animated_prompt(scene, pkg):
-    """One shot of a 3D animated explainer. Every shot repeats the same style block so the video looks like one piece."""
+def animated_prompt(scene, pkg, note=""):
+    """One shot of a 3D animated explainer. The shot comes first (models weight the start of the prompt most),
+    then the shared look of the whole video so every shot matches, then the fixed style."""
     shot = str(scene.get("shot") or scene.get("image_prompt") or scene.get("text", "")).strip()
-    return (f"{ANIMATED_STYLE} Topic: {pkg.get('title', '')[:90]}. Shot: {shot[:600]} "
-            f"(this shot illustrates the line: \"{scene.get('text', '')[:200]}\").")
+    bible = str(pkg.get("visual_bible") or "").strip()
+    return (f"{shot[:500]}. This shot must clearly show what this line says: \"{scene.get('text', '')[:200]}\". "
+            f"{('Fix from the last attempt: ' + note[:200] + '. ') if note else ''}"
+            f"{('Same world in every shot: ' + bible[:300] + '. ') if bible else ''}{ANIMATED_STYLE}")
+
+
+def _frame(path, at=0.5):
+    """JPEG bytes of one frame (at this fraction of the clip), for the vision check."""
+    import subprocess
+    try:
+        d = float(subprocess.run(["ffprobe", "-v", "error", "-show_entries", "format=duration", "-of",
+                                  "default=nw=1:nk=1", path], capture_output=True, text=True).stdout.strip() or 4)
+        out = subprocess.run(["ffmpeg", "-v", "error", "-ss", f"{d * at:.2f}", "-i", path, "-frames:v", "1",
+                              "-vf", "scale=360:-2", "-f", "image2", "-c:v", "mjpeg", "pipe:1"], capture_output=True)
+        return out.stdout or None
+    except Exception:  # noqa: BLE001
+        return None
+
+
+def check_shots(scenes, clips, min_score=6):
+    """Gemini looks at the middle frame of every AI shot and scores how clearly it shows its line (0-10).
+    Returns {scene index: note} for the shots that should be redrawn (empty if the check is unavailable)."""
+    from . import llm
+    if not llm.vision_available():
+        return {}
+    idx = [i for i, c in enumerate(clips) if c]
+    imgs = [_frame(clips[i]["path"]) for i in idx]
+    keep = [(i, b) for i, b in zip(idx, imgs) if b]
+    if not keep:
+        return {}
+    lines = "\n".join(f"Image {k}: \"{scenes[i].get('text', '')[:200]}\" (planned shot: "
+                      f"{str(scenes[i].get('shot', ''))[:160]})" for k, (i, _) in enumerate(keep))
+    prompt = f"""You check the shots of a 3D animated explainer YouTube Short. Each image is the middle frame of one shot;
+the narration spoken over it is listed below. Score each 0-10 for how clearly a viewer would connect the picture
+to the words being spoken: 10 = shows exactly what the line describes; 6 = right subject, a bit generic;
+3 = loosely related or a different object; 0 = unrelated, broken, distorted, or has visible text/logos/real people.
+{lines}
+Return JSON: {{"shots": [{{"image": 0, "score": 7, "fix": "what must change, in under 15 words"}}]}}"""
+    try:
+        res = llm.ask_vision_json(prompt, [b for _, b in keep])
+    except Exception as e:  # noqa: BLE001
+        print("3D shot check unavailable:", str(e)[:120])
+        return {}
+    bad = {}
+    for s in res.get("shots") or []:
+        try:
+            i = keep[int(s["image"])][0]
+            score = float(s["score"])
+        except (KeyError, ValueError, IndexError, TypeError):
+            continue
+        print(f"::notice title=3D shot {i} {score:.0f}/10::{scenes[i].get('text', '')[:80]} | {s.get('fix', '')}")
+        if score < min_score:
+            bad[i] = str(s.get("fix") or "show exactly what the line says")
+    return bad
 
 
 def estimate(durations, model=None):

@@ -125,7 +125,9 @@ Title starts with "Ranking the" or "Top 5". Kind humor: laugh WITH the animals, 
 surprising fact or question; the rest walks through HOW it works, step by step, ending on the payoff and
 flowing back into line 1. No badges; labels empty. For EVERY scene also give "shot": one vivid, literal
 description of the 3D animated shot for that beat (subject, action, camera move, cutaway/cross-section view
-when the inside matters). Shots must be drawable without text, logos or real people.""",
+when the inside matters). Shots must be drawable without text, logos or real people.
+Also give "visual_bible": ONE sentence fixing the look shared by every shot (setting, the main object and its
+colors/materials, the people's simple outfits, time of day), so all shots look like one film.""",
     "explainer": """FORMAT: curiosity explainer.
 6-9 scenes: a surprising question or fact, then a clear explanation building to an "aha" payoff.
 Badges/labels optional: use label for one key number or term on screen when it helps.""",
@@ -168,7 +170,7 @@ Language: {config.LANGUAGE}.
 Return JSON:
 {{"primary_keyword": "...", "title": "...", "hook_text": "...", "thumbnail_text": "...", "description": "...", "hashtags": ["#shorts", "...", "...", "{info['tag']}"],
   "tags": ["..."], "pinned_comment": "...", "scenes": [{{"text": "narration", "badge": "", "label": "",
-  "stock_queries": ["...", "..."], "image_prompt": "..."}}], "key_facts": ["..."]}}"""
+  "stock_queries": ["...", "..."], "image_prompt": "..."{', "shot": "..."' if fmt == "animated" else ''}}}], "key_facts": ["..."]{', "visual_bible": "..."' if fmt == "animated" else ''}}}"""
     pkg = llm.ask_json(prompt, temperature=0.85 if funny or fmt == "story" else 0.7)
     pkg["format"] = fmt
     pkg["tone"] = "funny" if funny else "normal"
@@ -222,7 +224,7 @@ scene. "primary_keyword": 2-4 words people search. "key_facts": every factual cl
 Return JSON:
 {{"primary_keyword": "...", "title": "...", "hook_text": "...", "thumbnail_text": "...", "description": "...", "hashtags": ["#shorts", "...", "...", "{info['tag']}"],
   "tags": ["..."], "pinned_comment": "...", "scenes": [{{"text": "narration", "badge": "", "label": "",
-  "stock_queries": ["...", "..."], "image_prompt": "..."{', "shot": "..."' if fmt == "animated" else ''}}}], "key_facts": ["..."]}}"""
+  "stock_queries": ["...", "..."], "image_prompt": "..."{', "shot": "..."' if fmt == "animated" else ''}}}], "key_facts": ["..."]{', "visual_bible": "..."' if fmt == "animated" else ''}}}"""
     pkg = llm.ask_json(prompt, temperature=0.3)
     if row.get("opening_text"):
         pkg["hook_text"] = "".join(c for c in row["opening_text"] if ord(c) < 0x2100).strip()  # no emoji in rendered text

@@ -114,7 +114,7 @@ def voiceover(text, out_dir, voice, target=None):
             rate = random.randint(0, 5)
             words = _speak(text, mp3, v, rate)
             got = duration(mp3)
-            if abs(got - target) > target * 0.08:
+            if target > 0 and abs(got - target) > target * 0.08:
                 new = int(round((1 + rate / 100) * got / target * 100 - 100))
                 new = max(-8, min(10, new))
                 if new != rate:
@@ -615,7 +615,7 @@ def make_video(pkg, out_dir, recent_voices=()):
         return make_clip_ranking(pkg, out_dir)
     os.makedirs(out_dir, exist_ok=True)
     voice = pick_voice(list(recent_voices))
-    target = ANIMATED_SECONDS if pkg.get("format") == "animated" else None  # 3D explainers run ~30 s, brisk
+    target = -1 if pkg.get("format") == "animated" else None  # 3D explainers: natural pace, no stretching
     audio, words, voice_credit = voiceover(pkg["script"], out_dir, voice, target)
     pkg["voice"] = voice if "Edge" in voice_credit else "gTTS"
     total = duration(audio) + 0.6
@@ -639,7 +639,20 @@ def make_video(pkg, out_dir, recent_voices=()):
         jobs = [(aivideo.animated_prompt(sc, pkg), b - a, os.path.join(out_dir, f"ai{i}.mp4"))
                 for i, (sc, (a, b)) in enumerate(zip(scenes, bounds))]
         os.makedirs(out_dir, exist_ok=True)
-        ai_shots = dict(enumerate(aivideo.generate_many(jobs)))
+        for i, j in enumerate(jobs):
+            print(f"::notice title=3D shot {i} prompt::{j[0][:300]}")
+        clips = aivideo.generate_many(jobs)
+        redo = aivideo.check_shots(scenes, clips)  # shots that don't show their line get one redraw
+        redo = {i: n for i, n in redo.items()
+                if aivideo.spent_today() + aivideo.estimate([jobs[i][1]]) <= config.FAL_DAILY_BUDGET_USD}
+        if redo:
+            again = aivideo.generate_many([(aivideo.animated_prompt(scenes[i], pkg, n), jobs[i][1],
+                                            os.path.join(out_dir, f"ai{i}b.mp4")) for i, n in redo.items()])
+            for i, c in zip(redo, again):
+                if c:
+                    clips[i] = c
+            print(f"3D animated: redrew {len(redo)} shot(s) that didn't match their line")
+        ai_shots = dict(enumerate(clips))
         print(f"3D animated: {sum(1 for x in ai_shots.values() if x)}/{len(jobs)} shots generated")
 
     used, credits, parts, plan = set(), [], [], source_plan()
