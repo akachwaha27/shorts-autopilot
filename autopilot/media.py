@@ -633,6 +633,14 @@ def make_video(pkg, out_dir, recent_voices=()):
                   f"(or FAL_KEY is missing): using stock footage instead")
             animated = False
         pkg["animated_estimate"] = cost
+    ai_shots = {}
+    if animated:  # all shots at once, in parallel; the scene loop below just picks them up
+        from . import aivideo
+        jobs = [(aivideo.animated_prompt(sc, pkg), b - a, os.path.join(out_dir, f"ai{i}.mp4"))
+                for i, (sc, (a, b)) in enumerate(zip(scenes, bounds))]
+        os.makedirs(out_dir, exist_ok=True)
+        ai_shots = dict(enumerate(aivideo.generate_many(jobs)))
+        print(f"3D animated: {sum(1 for x in ai_shots.values() if x)}/{len(jobs)} shots generated")
 
     used, credits, parts, plan = set(), [], [], source_plan()
     slots = []  # on-screen time of each part (without the crossfade tail)
@@ -657,9 +665,8 @@ def make_video(pkg, out_dir, recent_voices=()):
             subject = plan_i.get("subject") or scene.get("text", "")[:120]
             want_ai = aivideo.available() and report["ai"] < config.FAL_MAX_CLIPS_PER_VIDEO
             shots = []
-            if animated:  # 3D animated explainer: every scene is its own Seedance shot in one fixed style
-                clip = aivideo.generate(aivideo.animated_prompt(scene, pkg), dur, os.path.join(out_dir, f"ai{i}.mp4"))
-                shots = [clip] if clip else []
+            if animated:  # 3D animated explainer: every scene is its own Seedance shot (made in parallel above)
+                shots = [ai_shots[i]] if ai_shots.get(i) else []
             elif want_ai and config.FAL_FOR_STORIES and pkg.get("format") == "story":  # stories: AI first
                 clip = aivideo.generate(aivideo.prompt_for(scene, subject, pkg.get("visual_style", "")), dur,
                                         os.path.join(out_dir, f"ai{i}.mp4"))

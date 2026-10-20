@@ -10,13 +10,16 @@ Spending is capped per video (FAL_MAX_CLIPS_PER_VIDEO) and per day (FAL_DAILY_BU
 """
 import json
 import os
+import threading
 import time
+from concurrent.futures import ThreadPoolExecutor
 
 import requests
 
 from . import config, state
 
 USAGE = os.path.join("state", "fal_usage.json")
+_LOCK = threading.Lock()  # clips are generated in parallel; keep the spend log consistent
 
 
 def available():
@@ -36,6 +39,11 @@ def spent_today():
 
 
 def _add_cost(usd):
+    with _LOCK:
+        _add_cost_locked(usd)
+
+
+def _add_cost_locked(usd):
     u = _usage()
     day = state.now().date().isoformat()
     u = {d: v for d, v in u.items() if d >= day[:8]}  # keep this month only
@@ -150,6 +158,15 @@ def animated_prompt(scene, pkg):
 def estimate(durations, model=None):
     """USD for one AI clip per scene of these lengths (each rounded up to what the model will bill)."""
     return round(sum(_seconds_option(d, model) for d in durations) * price_per_second(model), 2)
+
+
+def generate_many(jobs, workers=10):
+    """jobs: [(prompt, seconds, out_path)]. Submits them all to fal at once and waits for every one, so a
+    9-shot video takes about as long as its slowest shot instead of the sum. Returns results in order (None = failed)."""
+    if not jobs:
+        return []
+    with ThreadPoolExecutor(max_workers=min(workers, len(jobs))) as pool:
+        return list(pool.map(lambda j: generate(*j), jobs))
 
 
 def prompt_for(scene, subject, style=""):
