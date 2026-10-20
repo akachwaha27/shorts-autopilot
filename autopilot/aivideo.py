@@ -171,7 +171,8 @@ def animated_prompt(scene, pkg, note=""):
     then the shared look of the whole video so every shot matches, then the fixed style."""
     shot = str(scene.get("shot") or scene.get("image_prompt") or scene.get("text", "")).strip()
     bible = str(pkg.get("visual_bible") or "").strip()
-    return (f"{shot[:500]}. This shot must clearly show what this line says: \"{scene.get('text', '')[:200]}\". "
+    # never quote the narration: video models paint quoted sentences into the picture as subtitles
+    return (f"{shot[:500]}. Pure picture, no words anywhere in the frame. "
             f"{('Fix from the last attempt: ' + note[:200] + '. ') if note else ''}"
             f"{('Same world in every shot: ' + bible[:300] + '. ') if bible else ''}{ANIMATED_STYLE}")
 
@@ -205,7 +206,8 @@ def check_shots(scenes, clips, min_score=6):
     prompt = f"""You check the shots of a 3D animated explainer YouTube Short. Each image is the middle frame of one shot;
 the narration spoken over it is listed below. Score each 0-10 for how clearly a viewer would connect the picture
 to the words being spoken: 10 = shows exactly what the line describes; 6 = right subject, a bit generic;
-3 = loosely related or a different object; 0 = unrelated, broken, distorted, or has visible text/logos/real people.
+3 = loosely related or a different object; 0 = unrelated, broken, distorted, real people, or ANY written words,
+letters, subtitles, captions or logos anywhere in the frame (even small or blurry ones).
 {lines}
 Return JSON: {{"shots": [{{"image": 0, "score": 7, "fix": "what must change, in under 15 words"}}]}}"""
     try:

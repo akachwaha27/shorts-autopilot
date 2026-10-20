@@ -104,14 +104,14 @@ def _speak(text, mp3, voice, rate):
     return words
 
 
-def voiceover(text, out_dir, voice, target=None):
+def voiceover(text, out_dir, voice, target=None, rate=None):
     """Natural pace (+0..5%). If the read lands far from TARGET_SECONDS, re-read once at an adjusted pace
     (kept within -8%..+10% so it never sounds slowed down or rushed)."""
     mp3 = os.path.join(out_dir, "voice.mp3")
     target = target or config.TARGET_SECONDS
     for v in (voice, config.VOICE):
         try:
-            rate = random.randint(0, 5)
+            rate = rate if rate is not None else random.randint(0, 5)
             words = _speak(text, mp3, v, rate)
             got = duration(mp3)
             if target > 0 and abs(got - target) > target * 0.08:
@@ -606,7 +606,7 @@ def make_clip_ranking(pkg, out_dir):
     return final, credits
 
 
-ANIMATED_SECONDS = 30
+ANIMATED_RATE = int(os.getenv("ANIMATED_VOICE_RATE") or 15)  # % faster than normal speech (~170 words a minute)
 
 
 def make_video(pkg, out_dir, recent_voices=()):
@@ -615,8 +615,9 @@ def make_video(pkg, out_dir, recent_voices=()):
         return make_clip_ranking(pkg, out_dir)
     os.makedirs(out_dir, exist_ok=True)
     voice = pick_voice(list(recent_voices))
-    target = -1 if pkg.get("format") == "animated" else None  # 3D explainers: natural pace, no stretching
-    audio, words, voice_credit = voiceover(pkg["script"], out_dir, voice, target)
+    animated_pace = pkg.get("format") == "animated"  # 3D explainers: brisk fixed pace, like the genre
+    audio, words, voice_credit = voiceover(pkg["script"], out_dir, voice, -1 if animated_pace else None,
+                                           rate=ANIMATED_RATE if animated_pace else None)
     pkg["voice"] = voice if "Edge" in voice_credit else "gTTS"
     total = duration(audio) + 0.6
     scenes = pkg["scenes"]
