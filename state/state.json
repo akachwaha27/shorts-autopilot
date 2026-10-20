@@ -396,7 +396,7 @@
       ],
       "sent_at": "2026-10-20T18:35:34.309169+00:00",
       "selected": [],
-      "status": "waiting"
+      "status": "closed"
     }
   },
   "videos": {
@@ -12773,7 +12773,7 @@
         "trend_source": "title shape of How Plato's Alarm Clock Worked (247,000 views/h); also How Electrical Outlets Work (372,500 views/h)",
         "plan_id": "P2026-10-20-01"
       },
-      "status": "awaiting_approval",
+      "status": "approved",
       "by": "auto",
       "updated": "2026-10-20T19:40:25.061651+00:00",
       "redos": 0,
@@ -12953,7 +12953,9 @@
       },
       "srt": "1\n00:00:00,087 --> 00:00:01,337\nHow did people make ice in the\n\n2\n00:00:01,337 --> 00:00:04,978\ndesert long before freezers In ancient Persia\n\n3\n00:00:04,978 --> 00:00:06,935\nwater flowed from underground channels into\n\n4\n00:00:06,935 --> 00:00:09,239\nshallow pools A tall wall kept those\n\n5\n00:00:09,239 --> 00:00:11,870\npools in shade On clear winter nights\n\n6\n00:00:11,870 --> 00:00:13,522\nthe water radiated its heat to the\n\n7\n00:00:13,522 --> 00:00:16,250\nsky and froze Workers stacked the ice\n\n8\n00:00:16,250 --> 00:00:19,576\ninside a giant thick-walled cone Warm air\n\n9\n00:00:19,576 --> 00:00:21,696\nescaped out the top while cold air\n\n10\n00:00:21,696 --> 00:00:23,641\nsank to a deep pit Packed in\n\n11\n00:00:23,641 --> 00:00:26,283\nstraw the ice lasted all summer no\n\n12\n00:00:26,283 --> 00:00:29,413\nelectricity needed So if anyone ever asks\n\n13\n00:00:29,413 --> 00:00:30,074\nyou\n",
       "tg_msg": 602,
-      "opts_msg": 604
+      "opts_msg": 604,
+      "approved_by": "auto",
+      "quota_note": "2026-10-20"
     },
     "2026-10-20-2": {
       "topic": {
@@ -12965,7 +12967,7 @@
         "trend_source": "He Saved These Baby Sea Turtles (30.4x, Unclassified - one caring moment with baby animals)",
         "plan_id": "P2026-10-20-02"
       },
-      "status": "awaiting_approval",
+      "status": "approved",
       "by": "auto",
       "updated": "2026-10-20T20:04:47.216881+00:00",
       "redos": 0,
@@ -13298,7 +13300,9 @@
       },
       "srt": "1\n00:00:00,095 --> 00:00:02,432\nYou think your dad works hard These\n\n2\n00:00:02,432 --> 00:00:04,688\nfive dads never get a day off\n\n3\n00:00:04,688 --> 00:00:07,188\nand number one gives birth Let's count\n\n4\n00:00:07,188 --> 00:00:10,774\ndown Number five the giant water bug\n\n5\n00:00:10,774 --> 00:00:12,595\nMom lays a hundred or more eggs\n\n6\n00:00:12,595 --> 00:00:14,606\non his back and he carries them\n\n7\n00:00:14,606 --> 00:00:17,622\nuntil they hatch Number four the smooth\n\n8\n00:00:17,622 --> 00:00:20,883\nguardian frog He guards the eggs then\n\n9\n00:00:20,883 --> 00:00:23,043\ngives the tadpoles a piggyback ride to\n\n10\n00:00:23,043 --> 00:00:26,467\na pool Number three the greater rhea\n\n11\n00:00:26,467 --> 00:00:28,166\nHe sits on up to sixty eggs\n\n12\n00:00:28,166 --> 00:00:31,019\nfrom several moms then babysits the chicks\n\n13\n00:00:31,019 --> 00:00:34,620\nfor months Number two the emperor penguin\n\n14\n00:00:34,620 --> 00:00:36,332\nHe keeps one egg warm on his\n\n15\n00:00:36,332 --> 00:00:38,954\nfeet for up to sixty-seven days without\n\n16\n00:00:38,954 --> 00:00:42,989\neating Number one the seahorse Mom gives\n\n17\n00:00:42,989 --> 00:00:45,136\nher eggs to dad he carries them\n\n18\n00:00:45,136 --> 00:00:46,902\nin a belly pouch and then he\n\n19\n00:00:46,902 --> 00:00:49,715\ngives birth So yes the dad who\n\n20\n00:00:49,715 --> 00:00:52,283\ngives birth is a seahorse Which of\n\n21\n00:00:52,283 --> 00:00:54,728\nthese dads would you want raising you\n\n22\n00:00:54,728 --> 00:00:56,997\nTell me in the comments Now go\n\n23\n00:00:56,997 --> 00:00:58,927\nshow this to your dad and ask\n\n24\n00:00:58,927 --> 00:00:59,626\nhim\n",
       "tg_msg": 605,
-      "opts_msg": 607
+      "opts_msg": 607,
+      "approved_by": "auto",
+      "quota_note": "2026-10-20"
     },
     "2026-10-20-3": {
       "topic": {
@@ -13325,7 +13329,7 @@
         "trend_source": "He Saved These Baby Sea Turtles (30.4x) and the one-moment-reveal structure of today's top outliers",
         "plan_id": "P2026-10-20-04"
       },
-      "status": "awaiting_approval",
+      "status": "approved",
       "by": "auto",
       "updated": "2026-10-20T20:17:46.298138+00:00",
       "redos": 0,
@@ -13651,7 +13655,9 @@
       },
       "srt": "1\n00:00:00,109 --> 00:00:02,554\nThis bottle spent over one hundred thirty-one\n\n2\n00:00:02,554 --> 00:00:06,019\nyears lost before anyone read its message\n\n3\n00:00:06,019 --> 00:00:08,207\nHere's the true story of the oldest\n\n4\n00:00:08,207 --> 00:00:10,951\nmessage in a bottle ever found In\n\n5\n00:00:10,951 --> 00:00:13,736\nJanuary twenty eighteen a family's car got\n\n6\n00:00:13,736 --> 00:00:16,019\nstuck in the sand near Wedge Island\n\n7\n00:00:16,019 --> 00:00:18,723\nin Western Australia While they waited they\n\n8\n00:00:18,723 --> 00:00:21,590\nwent for a walk picking up trash\n\n9\n00:00:21,590 --> 00:00:23,302\nOne old bottle looked nice enough to\n\n10\n00:00:23,302 --> 00:00:25,679\nkeep Inside was a rolled-up piece of\n\n11\n00:00:25,679 --> 00:00:28,696\npaper It was a printed German form\n\n12\n00:00:28,696 --> 00:00:32,405\ndated June twelfth eighteen eighty-six It came\n\n13\n00:00:32,405 --> 00:00:34,198\nfrom a German sailing ship called the\n\n14\n00:00:34,198 --> 00:00:37,568\nPaula German captains threw thousands of these\n\n15\n00:00:37,568 --> 00:00:41,413\noverboard to study ocean currents Museum experts\n\n16\n00:00:41,413 --> 00:00:43,682\nchecked the captain's handwriting against the\n\n17\n00:00:43,682 --> 00:00:47,310\nship's logbook and it matched So yes\n\n18\n00:00:47,310 --> 00:00:50,448\nit drifted or sat buried in sand\n\n19\n00:00:50,448 --> 00:00:52,948\nfor over one hundred thirty-one years What\n\n20\n00:00:52,948 --> 00:00:54,062\nwould you write in a message in\n\n21\n00:00:54,062 --> 00:00:56,495\na bottle Tell me in the comments\n\n22\n00:00:56,495 --> 00:00:57,554\nIt might end up just like this\n\n23\n00:00:57,554 --> 00:00:58,226\none\n",
       "tg_msg": 609,
-      "opts_msg": 611
+      "opts_msg": 611,
+      "approved_by": "auto",
+      "quota_note": "2026-10-20"
     }
   },
   "history": [
