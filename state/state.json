@@ -423,8 +423,12 @@
         }
       ],
       "sent_at": "2026-10-19T20:00:45.899176+00:00",
-      "selected": [],
-      "status": "waiting"
+      "selected": [
+        0,
+        1,
+        2
+      ],
+      "status": "closed"
     }
   },
   "videos": {
@@ -11728,7 +11732,7 @@
       "tg_msg": 518,
       "opts_msg": 520,
       "approved_by": "auto",
-      "quota_note": "2026-10-19"
+      "quota_note": "2026-10-20"
     },
     "2026-10-18-6": {
       "topic": {
@@ -12073,7 +12077,7 @@
       "tg_msg": 521,
       "opts_msg": 523,
       "approved_by": "auto",
-      "quota_note": "2026-10-19"
+      "quota_note": "2026-10-20"
     },
     "2026-10-19-1": {
       "topic": {
@@ -12085,7 +12089,7 @@
         "trend_source": "Funniest Relatable Moments | Rank Villa (182.4x, Unclassified - a ranking); I Made Soap Noodles For My Boyfriend! (97.3x, Unclassified - looks like one thing, is another); Realistic snake scale chain transformation (77.2x, Unclassified - visual transformation)",
         "plan_id": "P2026-10-19-01"
       },
-      "status": "awaiting_approval",
+      "status": "approved",
       "by": "auto",
       "updated": "2026-10-19T21:27:32.823153+00:00",
       "redos": 0,
@@ -12418,7 +12422,9 @@
       },
       "srt": "1\n00:00:00,088 --> 00:00:02,188\nBefore you call these five places fake\n\n2\n00:00:02,188 --> 00:00:04,275\nknow this you can visit every one\n\n3\n00:00:04,275 --> 00:00:05,812\nof them and number one is in\n\n4\n00:00:05,812 --> 00:00:09,412\nBolivia Five real places that look photoshopped\n\n5\n00:00:09,412 --> 00:00:12,100\nNumber five the Giant's Causeway in Northern\n\n6\n00:00:12,100 --> 00:00:15,225\nIreland Forty thousand stone columns mostly\n\n7\n00:00:15,225 --> 00:00:18,637\nsix-sided made by cooling lava Number four\n\n8\n00:00:18,637 --> 00:00:21,663\nthe rainbow mountains of Zhangye China Minerals\n\n9\n00:00:21,663 --> 00:00:24,175\nlike iron stained the rock in stripes\n\n10\n00:00:24,175 --> 00:00:27,262\nNumber three Lake Hillier in Australia It's\n\n11\n00:00:27,262 --> 00:00:30,137\nbubble-gum pink and scientists think salt-loving\n\n12\n00:00:30,137 --> 00:00:32,062\nalgae are why Pour some in a\n\n13\n00:00:32,062 --> 00:00:35,250\nglass and it's still pink Number two\n\n14\n00:00:35,250 --> 00:00:37,925\nCa\u00f1o Cristales in Colombia the river of\n\n15\n00:00:37,925 --> 00:00:40,700\nfive colors A red water plant blooms\n\n16\n00:00:40,700 --> 00:00:42,875\nwhen the light is just right Number\n\n17\n00:00:42,875 --> 00:00:45,275\none Salar de Uyuni the biggest salt\n\n18\n00:00:45,275 --> 00:00:47,888\nflat on Earth After the rains a\n\n19\n00:00:47,888 --> 00:00:49,700\nthin layer of water turns it into\n\n20\n00:00:49,700 --> 00:00:52,000\na giant mirror So number one is\n\n21\n00:00:52,000 --> 00:00:53,950\nwhere you walk on the sky Which\n\n22\n00:00:53,950 --> 00:00:56,087\nwould you visit first Tell me in\n\n23\n00:00:56,087 --> 00:00:58,413\nthe comments And if one still looks\n\n24\n00:00:58,413 --> 00:01:00,487\nedited remember this\n",
       "tg_msg": 542,
-      "opts_msg": 544
+      "opts_msg": 544,
+      "approved_by": "auto",
+      "quota_note": "2026-10-20"
     },
     "2026-10-19-2": {
       "topic": {
@@ -12430,7 +12436,7 @@
         "trend_source": "Funniest Relatable Moments | Rank Villa (182.4x, Unclassified - a ranking); Real end twist (6.1x, Unclassified - payoff saved for the end)",
         "plan_id": "P2026-10-19-02"
       },
-      "status": "awaiting_approval",
+      "status": "approved",
       "by": "auto",
       "updated": "2026-10-19T21:36:49.964604+00:00",
       "redos": 0,
@@ -12800,7 +12806,9 @@
       },
       "srt": "1\n00:00:00,074 --> 00:00:02,500\nBefore you laugh know this all five\n\n2\n00:00:02,500 --> 00:00:04,608\nof these museums are real and number\n\n3\n00:00:04,608 --> 00:00:06,973\none only collects bad art The five\n\n4\n00:00:06,973 --> 00:00:10,184\nfunniest real museums counting down Number\n\n5\n00:00:10,184 --> 00:00:14,436\nfive a pencil sharpener museum in Logan, Ohio\n\n6\n00:00:14,436 --> 00:00:17,157\nAbout three thousand four hundred sharpeners\n\n7\n00:00:17,157 --> 00:00:20,368\nfrom one man's retirement hobby Number four\n\n8\n00:00:20,368 --> 00:00:23,480\nthe National Mustard Museum in Wisconsin Over\n\n9\n00:00:23,480 --> 00:00:25,944\nfive thousand six hundred mustards from more\n\n10\n00:00:25,944 --> 00:00:28,811\nthan sixty countries Number three the SPAM\n\n11\n00:00:28,811 --> 00:00:32,047\nMuseum in Minnesota Guides called Spambassadors\n\n12\n00:00:32,047 --> 00:00:35,735\nhand out samples called Spamples Number two\n\n13\n00:00:35,735 --> 00:00:38,346\na toilet museum in New Delhi India\n\n14\n00:00:38,346 --> 00:00:41,569\nAbout forty-five hundred years of toilet history\n\n15\n00:00:41,569 --> 00:00:44,375\nFlush with facts Number one the Museum\n\n16\n00:00:44,375 --> 00:00:46,631\nof Bad Art in Boston Its first\n\n17\n00:00:46,631 --> 00:00:49,008\npainting was found in the trash Its\n\n18\n00:00:49,008 --> 00:00:51,887\nmotto Art too bad to be ignored\n\n19\n00:00:51,887 --> 00:00:53,885\nNine out of ten paintings sent in\n\n20\n00:00:53,885 --> 00:00:56,140\nget turned away So number one is\n\n21\n00:00:56,140 --> 00:00:58,126\nthe museum that's proud of its worst\n\n22\n00:00:58,126 --> 00:01:00,895\nart Which would you visit first Tell\n\n23\n00:01:00,895 --> 00:01:02,953\nme in the comments And before you\n\n24\n00:01:02,953 --> 00:01:04,554\nlaugh remember this\n",
       "tg_msg": 545,
-      "opts_msg": 547
+      "opts_msg": 547,
+      "approved_by": "auto",
+      "quota_note": "2026-10-20"
     },
     "2026-10-19-3": {
       "topic": {
@@ -12812,7 +12820,7 @@
         "trend_source": "Real end twist (6.1x, Unclassified - payoff saved for the end); I Made Soap Noodles For My Boyfriend! (97.3x, Unclassified - looks like one thing, is another)",
         "plan_id": "P2026-10-19-03"
       },
-      "status": "awaiting_approval",
+      "status": "approved",
       "by": "auto",
       "updated": "2026-10-19T21:47:23.334610+00:00",
       "redos": 0,
@@ -13145,7 +13153,9 @@
       },
       "srt": "1\n00:00:00,072 --> 00:00:01,322\nYou could listen to the sky for\n\n2\n00:00:01,322 --> 00:00:03,197\nalmost fifty years and never hear it\n\n3\n00:00:03,197 --> 00:00:06,250\nagain but in nineteen seventy-seven Ohio's\n\n4\n00:00:06,250 --> 00:00:08,269\nBig Ear did This is the true\n\n5\n00:00:08,269 --> 00:00:11,274\nstory of the Wow signal August fifteenth\n\n6\n00:00:11,274 --> 00:00:14,918\nnineteen seventy-seven Big Ear a radio telescope\n\n7\n00:00:14,918 --> 00:00:17,825\nis scanning space It didn't move Earth's\n\n8\n00:00:17,825 --> 00:00:19,952\nspin swept the sky past it It\n\n9\n00:00:19,952 --> 00:00:22,188\ncaught a strong sharp signal from the\n\n10\n00:00:22,188 --> 00:00:25,409\ndirection of Sagittarius It lasted seventy-two\n\n11\n00:00:25,409 --> 00:00:28,065\nseconds exactly as long as one spot\n\n12\n00:00:28,065 --> 00:00:30,228\nof sky stays in view The printout\n\n13\n00:00:30,228 --> 00:00:33,834\nshowed a strange code six E Q\n\n14\n00:00:33,834 --> 00:00:37,620\nU J five Letters meant extra strong\n\n15\n00:00:37,620 --> 00:00:39,627\nAn astronomer circled it in red ink\n\n16\n00:00:39,627 --> 00:00:43,341\nand wrote Wow Telescopes went back again\n\n17\n00:00:43,341 --> 00:00:47,404\nand again Nothing In twenty twenty-four scientists\n\n18\n00:00:47,404 --> 00:00:49,688\nsuggested a magnetar flare may have made\n\n19\n00:00:49,688 --> 00:00:52,368\na hydrogen cloud flash It's still just\n\n20\n00:00:52,368 --> 00:00:55,168\nan idea So that's the Wow signal\n\n21\n00:00:55,168 --> 00:00:58,991\nseventy-two seconds one word no repeat Nature\n\n22\n00:00:58,991 --> 00:01:00,805\nor something else Tell me in the\n\n23\n00:01:00,805 --> 00:01:03,077\ncomments Because we're still listening and\n\n24\n00:01:03,077 --> 00:01:04,715\nso far nothing\n",
       "tg_msg": 548,
-      "opts_msg": 550
+      "opts_msg": 550,
+      "approved_by": "auto",
+      "quota_note": "2026-10-20"
     },
     "2026-10-19-4": {
       "topic": {
@@ -13157,7 +13167,7 @@
         "trend_source": "I Made Soap Noodles For My Boyfriend! (97.3x, Unclassified - looks like one thing, is another); Desi Vs Electric cotton candy maker! (2.4x, The Comparison)",
         "plan_id": "P2026-10-19-04"
       },
-      "status": "awaiting_approval",
+      "status": "approved",
       "by": "auto",
       "updated": "2026-10-19T21:55:38.107074+00:00",
       "redos": 0,
@@ -13521,13 +13531,1032 @@
       },
       "srt": "1\n00:00:00,098 --> 00:00:02,181\nBefore you guess Hawaii where was Hawaiian\n\n2\n00:00:02,181 --> 00:00:05,441\npizza invented You've got three seconds Three\n\n3\n00:00:05,441 --> 00:00:09,265\nfamous foods three seconds each Keep score\n\n4\n00:00:09,265 --> 00:00:12,120\nThree two one Canada A restaurant in\n\n5\n00:00:12,120 --> 00:00:14,755\nChatham Ontario came up with it in\n\n6\n00:00:14,755 --> 00:00:17,230\nthe nineteen sixties It was named after\n\n7\n00:00:17,230 --> 00:00:20,037\nthe brand of canned pineapple they used\n\n8\n00:00:20,037 --> 00:00:23,186\nQuestion two Where were fortune cookies invented\n\n9\n00:00:23,186 --> 00:00:26,507\nThree two one California They're usually traced\n\n10\n00:00:26,507 --> 00:00:28,456\nthere and one family links them to\n\n11\n00:00:28,456 --> 00:00:30,907\na Japanese cracker They were barely known\n\n12\n00:00:30,907 --> 00:00:33,517\nin China until the late nineteen eighties\n\n13\n00:00:33,517 --> 00:00:36,042\nQuestion three Is German chocolate cake from\n\n14\n00:00:36,042 --> 00:00:39,706\nGermany Three two one Nope The recipe\n\n15\n00:00:39,706 --> 00:00:41,998\nran in a Dallas newspaper in nineteen\n\n16\n00:00:41,998 --> 00:00:45,098\nfifty-seven It's named after Samuel German\n\n17\n00:00:45,098 --> 00:00:47,071\nwho made a sweet baking chocolate in\n\n18\n00:00:47,071 --> 00:00:50,846\neighteen fifty-two So Canada California and\n\n19\n00:00:50,846 --> 00:00:52,733\nTexas and not one is from where\n\n20\n00:00:52,733 --> 00:00:54,902\nit sounds How many did you get\n\n21\n00:00:54,902 --> 00:00:57,978\nzero one two or all three Tell\n\n22\n00:00:57,978 --> 00:00:59,681\nme in the comments Now test a\n\n23\n00:00:59,681 --> 00:01:02,226\nfriend and don't let them say Hawaii\n",
       "tg_msg": 551,
-      "opts_msg": 553
+      "opts_msg": 553,
+      "approved_by": "auto",
+      "quota_note": "2026-10-20"
+    },
+    "2026-10-19-2-1": {
+      "topic": {
+        "title": "Top 5 Useless Kitchen Gadgets That Seemed Like a Good Idea",
+        "angle": "Rank five bizarre culinary inventions that promised to revolutionize cooking but ended up in the back of the drawer.",
+        "format": "ranking",
+        "tone": "funny",
+        "trend_source": "evergreen",
+        "virality_score": 9,
+        "why": "Relatable and humorous everyday observations drive shares and comment sections filled with personal experiences."
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-20T00:34:52.376154+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "useless kitchen gadgets",
+        "title": "Top 5 Useless Kitchen Gadgets We All Bought",
+        "hook_text": "Worst Kitchen Inventions Ever",
+        "thumbnail_text": "Total Kitchen Waste!",
+        "description": "Counting down the top 5 useless kitchen gadgets that seemed brilliant on TV but ended up forgotten in the junk drawer.\nDiscover the funniest kitchen fails and bizarre cooking tools you definitely do not need.",
+        "hashtags": [
+          "#shorts",
+          "#kitchengadgets",
+          "#cookingfails",
+          "#top5",
+          "#funny"
+        ],
+        "tags": [
+          "useless kitchen gadgets",
+          "kitchen tools review",
+          "worst kitchen gadgets",
+          "funny kitchen gadgets",
+          "kitchen gadgets review",
+          "cooking gadgets review",
+          "as seen on tv kitchen",
+          "weird kitchen tools",
+          "kitchen utensils review",
+          "useless inventions food",
+          "kitchen accessories review",
+          "funny kitchen tools",
+          "kitchen drawer junk",
+          "gadgets you do not need",
+          "useless cooking inventions",
+          "egg cuber",
+          "banana slicer",
+          "dumbest inventions"
+        ],
+        "pinned_comment": "Be honest: what is the most useless kitchen gadget sitting in your drawer right now? \ud83e\udd51",
+        "scenes": [
+          {
+            "text": "Your kitchen drawer is secretly a tragic graveyard of ridiculous cooking gadgets.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "messy kitchen drawer",
+              "cluttered utensils"
+            ],
+            "image_prompt": "Vertical 9:16 macro photograph of an overflowing kitchen junk drawer stuffed with mismatched plastic gadgets, odd peelers, and a tangle of whisks, dramatic warm kitchen lighting, hyper-realistic, photorealistic.",
+            "stock_query": "messy kitchen drawer"
+          },
+          {
+            "text": "Number five, the avocado slicer. It promises safe slicing, but it'll mostly just crush delicate fruit into sad green paste while taking three times longer than a knife.",
+            "badge": "#5",
+            "label": "Avocado Slicer",
+            "stock_queries": [
+              "avocado slicer",
+              "cutting avocado"
+            ],
+            "image_prompt": "Vertical 9:16 close-up shot of a plastic avocado three-in-one tool mashed into a bruised avocado on a rustic wooden cutting board, messy green avocado pulp, bright culinary studio lighting.",
+            "stock_query": "avocado slicer"
+          },
+          {
+            "text": "At number four, multi-blade herb scissors. Ten stainless blades designed to chop cilantro, which honestly just weld wet parsley into the steel gaps forever.",
+            "badge": "#4",
+            "label": "Herb Scissors",
+            "stock_queries": [
+              "herb scissors",
+              "chopping parsley"
+            ],
+            "image_prompt": "Vertical 9:16 shot of multi-blade herb scissors heavily jammed with wet green herbs between five metal blades, resting next to fresh cilantro on a white marble kitchen counter.",
+            "stock_query": "herb scissors"
+          },
+          {
+            "text": "Number three, the plastic banana slicer. It's a tool so aggressively specific it only functions if your fruit matches the exact curvature engineered at the plastic factory.",
+            "badge": "#3",
+            "label": "Banana Slicer",
+            "stock_queries": [
+              "banana slicer",
+              "sliced banana"
+            ],
+            "image_prompt": "Vertical 9:16 high-angle shot of a bright yellow plastic banana-shaped slicer resting over an unpeeled mismatched curved banana on a modern kitchen island, vibrant colors, crisp focus.",
+            "stock_query": "banana slicer"
+          },
+          {
+            "text": "Coming in at number two, the motorized ice cream cone. For anyone who looked at licking a frozen scoop and decided their tongue needed battery-powered assistance.",
+            "badge": "#2",
+            "label": "Motorized Cone",
+            "stock_queries": [
+              "ice cream cone",
+              "spinning gadget"
+            ],
+            "image_prompt": "Vertical 9:16 studio shot of a battery-operated plastic ice cream cone gadget with melting pink strawberry ice cream swirling on top, whimsical pastel kitchen background.",
+            "stock_query": "ice cream cone"
+          },
+          {
+            "text": "And at number one, the egg cuber. Because throughout human history, humanity's biggest complaint about hardboiled eggs was clearly their utter lack of sharp right angles.",
+            "badge": "#1",
+            "label": "Egg Cuber",
+            "stock_queries": [
+              "boiled egg",
+              "square egg"
+            ],
+            "image_prompt": "Vertical 9:16 crisp macro shot of a perfectly cube-shaped hardboiled egg sitting on a pristine black slate plate next to an open clear plastic square egg press mold, minimalist food photography.",
+            "stock_query": "boiled egg"
+          },
+          {
+            "text": "Which useless gadget are you guilty of buying? Drop your confession below, because...",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "kitchen drawer",
+              "pantry shelf"
+            ],
+            "image_prompt": "Vertical 9:16 cinematic shot of an open kitchen drawer revealing strange, colorful novelty gadgets bathed in soft evening sunlight, shallow depth of field.",
+            "stock_query": "kitchen drawer"
+          }
+        ],
+        "key_facts": [
+          "Commercial three-in-one avocado tools frequently crush overly ripe avocados instead of slicing cleanly.",
+          "Multi-blade herb shears are known for packing shredded wet leaves tightly between the parallel blades.",
+          "Rigid plastic banana slicers are molded to a single fixed curve that does not fit naturally shaped bananas.",
+          "Motorized rotating ice cream cones were sold in the early 2000s as battery-operated novelty eating devices.",
+          "The egg cuber is a mechanical square mold designed to press warm peeled hardboiled eggs into cubes."
+        ],
+        "format": "ranking",
+        "tone": "funny",
+        "category": "23",
+        "script": "Your kitchen drawer is secretly a tragic graveyard of ridiculous cooking gadgets. Number five, the avocado slicer. It promises safe slicing, but it'll mostly just crush delicate fruit into sad green paste while taking three times longer than a knife. At number four, multi-blade herb scissors. Ten stainless blades designed to chop cilantro, which honestly just weld wet parsley into the steel gaps forever. Number three, the plastic banana slicer. It's a tool so aggressively specific it only functions if your fruit matches the exact curvature engineered at the plastic factory. Coming in at number two, the motorized ice cream cone. For anyone who looked at licking a frozen scoop and decided their tongue needed battery-powered assistance. And at number one, the egg cuber. Because throughout human history, humanity's biggest complaint about hardboiled eggs was clearly their utter lack of sharp right angles. Which useless gadget are you guilty of buying? Drop your confession below, because...",
+        "shot_plan": [
+          {
+            "subject": "kitchen drawer",
+            "queries": [
+              {
+                "q": "kitchen drawer",
+                "must": [
+                  "drawer"
+                ]
+              },
+              {
+                "q": "kitchen utensil drawer",
+                "must": [
+                  "kitchen"
+                ]
+              },
+              {
+                "q": "open drawer",
+                "must": [
+                  "drawer"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "avocado slicer",
+            "queries": [
+              {
+                "q": "avocado slicer",
+                "must": [
+                  "avocado"
+                ]
+              },
+              {
+                "q": "slicing avocado",
+                "must": [
+                  "avocado"
+                ]
+              },
+              {
+                "q": "avocado tool",
+                "must": [
+                  "avocado"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "herb scissors",
+            "queries": [
+              {
+                "q": "herb scissors",
+                "must": [
+                  "scissors"
+                ]
+              },
+              {
+                "q": "cutting herbs",
+                "must": [
+                  "herbs"
+                ]
+              },
+              {
+                "q": "kitchen scissors",
+                "must": [
+                  "scissors"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "banana slicer",
+            "queries": [
+              {
+                "q": "banana slicer",
+                "must": [
+                  "banana"
+                ]
+              },
+              {
+                "q": "slicing banana",
+                "must": [
+                  "banana"
+                ]
+              },
+              {
+                "q": "banana tool",
+                "must": [
+                  "banana"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "motorized ice cream cone",
+            "queries": [
+              {
+                "q": "ice cream cone",
+                "must": [
+                  "cone"
+                ]
+              },
+              {
+                "q": "eating ice cream",
+                "must": [
+                  "cream"
+                ]
+              },
+              {
+                "q": "ice cream scoop",
+                "must": [
+                  "ice"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "egg cuber",
+            "queries": [
+              {
+                "q": "hardboiled egg",
+                "must": [
+                  "egg"
+                ]
+              },
+              {
+                "q": "peeling egg",
+                "must": [
+                  "egg"
+                ]
+              },
+              {
+                "q": "boiled egg",
+                "must": [
+                  "egg"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "kitchen counter",
+            "queries": [
+              {
+                "q": "kitchen counter",
+                "must": [
+                  "kitchen"
+                ]
+              },
+              {
+                "q": "cooking utensils",
+                "must": [
+                  "utensils"
+                ]
+              },
+              {
+                "q": "kitchen gadgets",
+                "must": [
+                  "kitchen"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "kitchen",
+          "gadget",
+          "cooking"
+        ],
+        "visual_style": "Fast-paced, humorous close-up shots of bizarre kitchen gadgets and food preparation in a brightly lit modern kitchen setting.",
+        "visual_refs": [
+          "Kitchen Tools I LOVE Anyway",
+          "what TOP 3 MOST USELESS items look like :]",
+          "Top 5 3D Printed Kitchen Hacks",
+          "top 5 kitchen tools for your home kitchen",
+          "Kitchen Appliances Worth Buying For Over $100",
+          "I&#39;ve invented literally everything."
+        ],
+        "voice": "en-US-EmmaMultilingualNeural",
+        "visual_report": {
+          "shots": 9,
+          "checked": 9,
+          "unchecked": 0,
+          "filler": 4,
+          "ai": 0
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-EmmaMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): Pezibear (Pixabay) https://pixabay.com/photos/cutlery-cooking-utensils-kitchen-6767900/; Pezibear (Pixabay) https://pixabay.com/photos/utensils-cutlery-kitchen-6771802/; stux (Pixabay) https://pixabay.com/photos/spices-chervil-lemon-balm-chives-2419055/; xBriantcx (Pixabay) https://pixabay.com/videos/id-254753/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-1261/"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-19",
+        "name": "2026-10-19-2-1-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-19",
+        "name": "2026-10-19-2-1-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,086 --> 00:00:02,230\nYour kitchen drawer is secretly a tragic\n\n2\n00:00:02,230 --> 00:00:05,355\ngraveyard of ridiculous cooking gadgets Number\n\n3\n00:00:05,355 --> 00:00:08,407\nfive the avocado slicer It promises safe\n\n4\n00:00:08,407 --> 00:00:11,140\nslicing but it'll mostly just crush delicate\n\n5\n00:00:11,140 --> 00:00:13,309\nfruit into sad green paste while taking\n\n6\n00:00:13,309 --> 00:00:15,490\nthree times longer than a knife At\n\n7\n00:00:15,490 --> 00:00:18,946\nnumber four multi-blade herb scissors Ten stainless\n\n8\n00:00:18,946 --> 00:00:21,789\nblades designed to chop cilantro which honestly\n\n9\n00:00:21,789 --> 00:00:23,664\njust weld wet parsley into the steel\n\n10\n00:00:23,664 --> 00:00:26,924\ngaps forever Number three the plastic banana\n\n11\n00:00:26,924 --> 00:00:30,037\nslicer It's a tool so aggressively specific\n\n12\n00:00:30,037 --> 00:00:32,071\nit only functions if your fruit matches\n\n13\n00:00:32,071 --> 00:00:34,387\nthe exact curvature engineered at the plastic\n\n14\n00:00:34,387 --> 00:00:36,961\nfactory Coming in at number two the\n\n15\n00:00:36,961 --> 00:00:39,694\nmotorized ice cream cone For anyone who\n\n16\n00:00:39,694 --> 00:00:41,752\nlooked at licking a frozen scoop and\n\n17\n00:00:41,752 --> 00:00:43,787\ndecided their tongue needed battery-powered\n\n18\n00:00:43,787 --> 00:00:46,176\nassistance And at number one the egg\n\n19\n00:00:46,176 --> 00:00:49,608\ncuber Because throughout human history humanity's\n\n20\n00:00:49,608 --> 00:00:51,789\nbiggest complaint about hardboiled eggs was\n\n21\n00:00:51,789 --> 00:00:53,701\nclearly their utter lack of sharp right\n\n22\n00:00:53,701 --> 00:00:56,434\nangles Which useless gadget are you guilty\n\n23\n00:00:56,434 --> 00:01:00,008\nof buying Drop your confession below because\n",
+      "tg_msg": 558,
+      "opts_msg": 560
+    },
+    "2026-10-19-2-2": {
+      "topic": {
+        "title": "Top 5 Most Bizarre Natural Architecture Miracles",
+        "angle": "Explore five incredible structures built entirely by animals that rival modern human engineering.",
+        "format": "ranking",
+        "tone": "normal",
+        "trend_source": "evergreen",
+        "virality_score": 8,
+        "why": "Visually striking nature facts create strong curiosity hooks in the first two seconds."
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-20T00:44:30.869707+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "animal architecture",
+        "title": "Top 5 Animal Architecture Wonders in Nature",
+        "hook_text": "Built without human hands",
+        "thumbnail_text": "Built By Animals",
+        "description": "Discover five incredible animal architecture miracles built by nature that rival modern human engineering.\nExplore massive beaver dams, skyscraper termite mounds, and bird apartment complexes.",
+        "hashtags": [
+          "#shorts",
+          "#nature",
+          "#animalarchitecture",
+          "#top5"
+        ],
+        "tags": [
+          "animal architecture",
+          "sociable weaver bird nest",
+          "termite mounds",
+          "sociable weaver nest",
+          "beaver dam visible from space",
+          "animal engineering",
+          "magnetic termite mounds",
+          "top 10 animal architects",
+          "weaver ants nest",
+          "bizarre nature facts",
+          "animal buildings",
+          "compass termites",
+          "wildlife builders",
+          "nature documentary",
+          "natural architecture",
+          "animal megastructures"
+        ],
+        "pinned_comment": "Could human architects ever match this termite mega-city without machines? Which structure blew your mind most?",
+        "scenes": [
+          {
+            "text": "Humans spend billions on engineering, but tiny creatures built mega-structures first. Wait until you see the ancient metropolis that covers an entire country.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "macro ant leaf",
+              "forest canopy drone"
+            ],
+            "image_prompt": "Cinematic vertical macro shot of wild green jungle canopy with sunlight filtering through leaves, photorealistic, 9:16 aspect ratio",
+            "stock_query": "macro ant leaf"
+          },
+          {
+            "text": "Number five, Weaver Ants. They form living chains with their bodies to bend thick leaves, then use their own larvae as glue guns to stitch waterproof pavilions.",
+            "badge": "#5",
+            "label": "Weaver Ants",
+            "stock_queries": [
+              "weaver ants nest",
+              "green tree ants"
+            ],
+            "image_prompt": "Extreme macro photography of green weaver ants pulling tropical leaves together with silk in a lush rainforest, vertical 9:16, detailed textures",
+            "stock_query": "weaver ants nest"
+          },
+          {
+            "text": "At number four, Sociable Weavers. These tiny birds build colossal communal hay apartments weighing over a ton, housing hundreds of families for over a century.",
+            "badge": "#4",
+            "label": "Sociable Weavers",
+            "stock_queries": [
+              "sociable weaver nest",
+              "huge bird nest"
+            ],
+            "image_prompt": "Gigantic woven hay bird nest engulfing a dry acacia tree in the Kalahari desert, sociable weaver birds flying around it, vertical 9:16",
+            "stock_query": "sociable weaver nest"
+          },
+          {
+            "text": "Number three, Compass Termites. They construct flat, blade-like wedges strictly aligned north to south, creating nature's most precise passive air conditioning system.",
+            "badge": "#3",
+            "label": "Compass Termites",
+            "stock_queries": [
+              "magnetic termite mounds",
+              "australian outback mounds"
+            ],
+            "image_prompt": "Tall thin magnetic termite mounds rising like gravestones in the golden grassy plains of Northern Australia, vertical 9:16, dramatic sunset lighting",
+            "stock_query": "magnetic termite mounds"
+          },
+          {
+            "text": "At number two, the Wood Buffalo Beaver Dam. Stretching over eight hundred fifty meters across Canadian wetlands, it's so massive you can spot it from space.",
+            "badge": "#2",
+            "label": "Giant Beaver Dam",
+            "stock_queries": [
+              "beaver dam river",
+              "aerial boreal forest"
+            ],
+            "image_prompt": "High altitude aerial view of an enormous curving beaver dam spanning a pristine boreal wetland in Northern Canada, lush green wilderness, vertical 9:16",
+            "stock_query": "beaver dam river"
+          },
+          {
+            "text": "And number one, the Brazilian Termite Metropolis. Two hundred million mounds, built over four thousand years, spanning an area as big as Great Britain.",
+            "badge": "#1",
+            "label": "Termite Metropolis",
+            "stock_queries": [
+              "caatinga termite mounds",
+              "dry forest aerial"
+            ],
+            "image_prompt": "Wide angle landscape of endless ancient earthen conical mounds dotting the dry Brazilian caatinga scrubland stretching to the horizon, vertical 9:16",
+            "stock_query": "caatinga termite mounds"
+          },
+          {
+            "text": "Which of these animal architects surprised you the most? Tell me below, because...",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "aerial forest landscape",
+              "sunset savannah wildlife"
+            ],
+            "image_prompt": "A breathtaking cinematic vista of diverse wild landscapes at golden hour, misty wilderness, vertical 9:16, hyperrealistic",
+            "stock_query": "aerial forest landscape"
+          }
+        ],
+        "key_facts": [
+          "Weaver ants pull leaves together using worker chains and glue them with larval silk.",
+          "Sociable weaver communal nests can weigh over a ton and last for over one hundred years.",
+          "Compass termite mounds are aligned north to south to regulate internal temperature through passive solar heating.",
+          "The Wood Buffalo beaver dam in Alberta, Canada measures approximately eight hundred fifty meters long and is visible from satellite imagery.",
+          "The Syntermes dirus termite mound complex in northeastern Brazil contains around two hundred million mounds, covers roughly the area of Great Britain, and dates back up to four thousand years."
+        ],
+        "format": "ranking",
+        "tone": "normal",
+        "category": "27",
+        "script": "Humans spend billions on engineering, but tiny creatures built mega-structures first. Wait until you see the ancient metropolis that covers an entire country. Number five, Weaver Ants. They form living chains with their bodies to bend thick leaves, then use their own larvae as glue guns to stitch waterproof pavilions. At number four, Sociable Weavers. These tiny birds build colossal communal hay apartments weighing over a ton, housing hundreds of families for over a century. Number three, Compass Termites. They construct flat, blade-like wedges strictly aligned north to south, creating nature's most precise passive air conditioning system. At number two, the Wood Buffalo Beaver Dam. Stretching over eight hundred fifty meters across Canadian wetlands, it's so massive you can spot it from space. And number one, the Brazilian Termite Metropolis. Two hundred million mounds, built over four thousand years, spanning an area as big as Great Britain. Which of these animal architects surprised you the most? Tell me below, because...",
+        "shot_plan": [
+          {
+            "subject": "modern human bridge construction alongside a massive anthill",
+            "queries": [
+              {
+                "q": "construction bridge",
+                "must": [
+                  "bridge"
+                ]
+              },
+              {
+                "q": "skyscraper building",
+                "must": [
+                  "building"
+                ]
+              },
+              {
+                "q": "anthill mound",
+                "must": [
+                  "anthill"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "weaver ants bending leaves and stitching with larvae",
+            "queries": [
+              {
+                "q": "weaver ant leaf",
+                "must": [
+                  "ant"
+                ]
+              },
+              {
+                "q": "insect macro",
+                "must": [
+                  "insect"
+                ]
+              },
+              {
+                "q": "green leaf",
+                "must": [
+                  "leaf"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "sociable weaver bird massive communal nest on tree",
+            "queries": [
+              {
+                "q": "weaver bird nest",
+                "must": [
+                  "nest"
+                ]
+              },
+              {
+                "q": "bird colony",
+                "must": [
+                  "bird"
+                ]
+              },
+              {
+                "q": "tree branches",
+                "must": [
+                  "tree"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "compass termite mounds in outback landscape",
+            "queries": [
+              {
+                "q": "termite mound",
+                "must": [
+                  "mound"
+                ]
+              },
+              {
+                "q": "termite architecture",
+                "must": [
+                  "termite"
+                ]
+              },
+              {
+                "q": "desert landscape",
+                "must": [
+                  "desert"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "giant beaver dam in canadian river wetland",
+            "queries": [
+              {
+                "q": "beaver dam",
+                "must": [
+                  "dam"
+                ]
+              },
+              {
+                "q": "beaver lodge",
+                "must": [
+                  "beaver"
+                ]
+              },
+              {
+                "q": "river wetland",
+                "must": [
+                  "river"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "vast brazilian termite mounds aerial view",
+            "queries": [
+              {
+                "q": "termite mounds aerial",
+                "must": [
+                  "aerial"
+                ]
+              },
+              {
+                "q": "landscape field",
+                "must": [
+                  "field"
+                ]
+              },
+              {
+                "q": "dirt mounds",
+                "must": [
+                  "mounds"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "diverse animal architects looking at camera",
+            "queries": [
+              {
+                "q": "wildlife animal",
+                "must": [
+                  "animal"
+                ]
+              },
+              {
+                "q": "nature landscape",
+                "must": [
+                  "nature"
+                ]
+              },
+              {
+                "q": "close up animal",
+                "must": [
+                  "close"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "nature",
+          "wildlife",
+          "architecture"
+        ],
+        "visual_style": "cinematic macro and aerial documentary footage of intricate animal architecture and natural wonders against grand landscapes",
+        "visual_refs": [
+          "Miracle Floating Pillar Architecture in Lepakshi Temple",
+          "&quot;5 Most Mysterious Places on Earth That Science Can\u2019t Explain!&quot;",
+          "&quot;Top 7 Wonders of the World - Must-See Landmarks \ud83c\udf0d&quot; #wondersoftheworld #top10vision",
+          "Miracle Architecture",
+          "What the 7 Wonders of the World Might Look Like Today #history #world #country",
+          "China&#39;s Craziest Rides &amp; Engineering Wonders! \ud83c\udde8\ud83c\uddf3\ud83e\udd2f #shorts"
+        ],
+        "voice": "en-US-BrianMultilingualNeural",
+        "visual_report": {
+          "shots": 7,
+          "checked": 6,
+          "unchecked": 0,
+          "filler": 4,
+          "ai": 0
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-BrianMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): robertwaghorn (Pixabay) https://pixabay.com/photos/green-ant-building-nest-2837657/; hbieser (Pixabay) https://pixabay.com/photos/termite-mounds-ants-landscape-695209/; Graham-H (Pixabay) https://pixabay.com/photos/beaver-dam-nature-water-castor-2397083/"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-19",
+        "name": "2026-10-19-2-2-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-19",
+        "name": "2026-10-19-2-2-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,080 --> 00:00:03,114\nHumans spend billions on engineering but tiny\n\n2\n00:00:03,114 --> 00:00:05,830\ncreatures built mega-structures first Wait\n\n3\n00:00:05,830 --> 00:00:08,000\nuntil you see the ancient metropolis that\n\n4\n00:00:08,000 --> 00:00:10,807\ncovers an entire country Number five Weaver\n\n5\n00:00:10,807 --> 00:00:13,011\nAnts They form living chains with their\n\n6\n00:00:13,011 --> 00:00:15,375\nbodies to bend thick leaves then use\n\n7\n00:00:15,375 --> 00:00:16,966\ntheir own larvae as glue guns to\n\n8\n00:00:16,966 --> 00:00:19,515\nstitch waterproof pavilions At number four\n\n9\n00:00:19,515 --> 00:00:22,511\nSociable Weavers These tiny birds build colossal\n\n10\n00:00:22,511 --> 00:00:25,114\ncommunal hay apartments weighing over a ton\n\n11\n00:00:25,114 --> 00:00:26,841\nhousing hundreds of families for over a\n\n12\n00:00:26,841 --> 00:00:30,114\ncentury Number three Compass Termites They\n\n13\n00:00:30,114 --> 00:00:33,114\nconstruct flat blade-like wedges strictly aligned\n\n14\n00:00:33,114 --> 00:00:35,909\nnorth to south creating nature's most precise\n\n15\n00:00:35,909 --> 00:00:38,727\npassive air conditioning system At number two\n\n16\n00:00:38,727 --> 00:00:41,398\nthe Wood Buffalo Beaver Dam Stretching over\n\n17\n00:00:41,398 --> 00:00:43,341\neight hundred fifty meters across Canadian\n\n18\n00:00:43,341 --> 00:00:45,739\nwetlands it's so massive you can spot\n\n19\n00:00:45,739 --> 00:00:47,909\nit from space And number one the\n\n20\n00:00:47,909 --> 00:00:50,614\nBrazilian Termite Metropolis Two hundred million\n\n21\n00:00:50,614 --> 00:00:53,932\nmounds built over four thousand years spanning\n\n22\n00:00:53,932 --> 00:00:55,989\nan area as big as Great Britain\n\n23\n00:00:55,989 --> 00:00:58,205\nWhich of these animal architects surprised\n\n24\n00:00:58,205 --> 00:01:00,809\nyou the most Tell me below because\n",
+      "tg_msg": 561,
+      "opts_msg": 563
+    },
+    "2026-10-19-2-3": {
+      "topic": {
+        "title": "Why Modern Movie Popcorn Always Tastes Better",
+        "angle": "Explain the surprising chemical and secret ingredient reasons why cinema popcorn hits different than homemade.",
+        "format": "explainer",
+        "tone": "normal",
+        "trend_source": "evergreen",
+        "virality_score": 8,
+        "why": "Satisfies everyday curiosity about a universally beloved snack with a fast-paced narrative structure."
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-20T00:50:00.227908+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "why movie popcorn tastes better",
+        "title": "Why Movie Theater Popcorn Tastes Better",
+        "hook_text": "Why movie popcorn hits different",
+        "thumbnail_text": "Secret Movie Popcorn",
+        "description": "Discover why movie theater popcorn tastes so much better than homemade snacks with this surprising science breakdown.",
+        "hashtags": [
+          "#shorts",
+          "#foodscience",
+          "#movietheater",
+          "#didyouknow"
+        ],
+        "tags": [
+          "why movie popcorn tastes better",
+          "movie theater popcorn",
+          "why movie theater popcorn taste so good",
+          "movie theater popcorn secret",
+          "movie theater popcorn secret ingredient",
+          "food science facts",
+          "how is movie popcorn made",
+          "movie theater popcorn hack",
+          "movie theater popcorn trick",
+          "why movie popcorn is so good",
+          "cinema popcorn",
+          "how is popcorn made",
+          "butter flavored oil",
+          "theater popcorn recipe",
+          "popcorn machine science",
+          "why popcorn tastes different",
+          "flavacol seasoning"
+        ],
+        "pinned_comment": "Have you ever tried making it with this secret ingredient at home? Let us know what happened! \ud83d\udc47",
+        "key_facts": [
+          "Movie theaters use Flavacol, a fine salt containing artificial butter flavor and yellow food dyes, to season popcorn.",
+          "The oil used in commercial popcorn machines is often coconut oil containing beta carotene.",
+          "Commercial poppers use high pressure and heat to coat every kernel evenly while popping."
+        ],
+        "scenes": [
+          {
+            "text": "Why does movie theater popcorn taste so much better than whatever you make at home?",
+            "badge": "surprisi",
+            "label": "THE MYSTERY",
+            "stock_queries": [
+              "movie theater popcorn",
+              "bucket of popcorn"
+            ],
+            "image_prompt": "vertical 9:16 shot of a glowing red popcorn machine in a dark cinema lobby, fresh golden kernels popping inside, cinematic lighting, no text, no people",
+            "stock_query": "movie theater popcorn"
+          },
+          {
+            "text": "Honestly, it is not just the butter. In fact, most places use a secret weapon called flavacol.",
+            "badge": "secret i",
+            "label": "FLAVACOL",
+            "stock_queries": [
+              "yellow seasoning powder",
+              "spoonful of salt"
+            ],
+            "image_prompt": "vertical 9:16 close up of fine yellow seasoning salt being poured into a shiny metal popcorn kettle, vibrant colors, no text, no people",
+            "stock_query": "yellow seasoning powder"
+          },
+          {
+            "text": "It is an ultra fine salt that sticks to every single square millimeter of the corn.",
+            "badge": "fine tex",
+            "label": "MICRO SALT",
+            "stock_queries": [
+              "salt falling down",
+              "fine yellow powder"
+            ],
+            "image_prompt": "vertical 9:16 macro shot of tiny golden salt crystals dusting freshly popped fluffy white corn, high contrast, no text, no people",
+            "stock_query": "salt falling down"
+          },
+          {
+            "text": "Plus, they pop the kernels in special coconut oil that gives it that distinct yellow color and rich aroma.",
+            "badge": "oil type",
+            "label": "COCONUT OIL",
+            "stock_queries": [
+              "liquid coconut oil",
+              "pouring cooking oil"
+            ],
+            "image_prompt": "vertical 9:16 shot of golden cooking oil melting in a hot stainless steel kettle, steam rising softly, no text, no people",
+            "stock_query": "liquid coconut oil"
+          },
+          {
+            "text": "Wait, here is the kicker. That artificial butter flavor is actually just a chemical called diacetyl.",
+            "badge": "science ",
+            "label": "DIACETYL",
+            "stock_queries": [
+              "chemistry beaker",
+              "science laboratory"
+            ],
+            "image_prompt": "vertical 9:16 abstract close up of golden butter droplets swirling in warm melted oil, smooth motion, no text, no people",
+            "stock_query": "chemistry beaker"
+          },
+          {
+            "text": "Your brain associates that exact smell with a fun night out at the cinema, making it impossible to resist.",
+            "badge": "psycholo",
+            "label": "BRAIN HACK",
+            "stock_queries": [
+              "cinema seat",
+              "movie theater auditorium"
+            ],
+            "image_prompt": "vertical 9:16 wide shot of glowing cinema screen casting warm light on empty red velvet theater seats, cozy atmosphere, no text, no people",
+            "stock_query": "cinema seat"
+          },
+          {
+            "text": "So, would you ever buy a tub of this special salt for your next movie night at home?",
+            "badge": "question",
+            "label": "YOU DECIDE",
+            "stock_queries": [
+              "popcorn bowl",
+              "eating snacks"
+            ],
+            "image_prompt": "vertical 9:16 cozy living room setting with a large ceramic bowl filled with fluffy golden popcorn on a wooden table, warm lamp light, no text, no people",
+            "stock_query": "popcorn bowl"
+          }
+        ],
+        "format": "explainer",
+        "tone": "normal",
+        "category": "27",
+        "script": "Why does movie theater popcorn taste so much better than whatever you make at home? Honestly, it is not just the butter. In fact, most places use a secret weapon called flavacol. It is an ultra fine salt that sticks to every single square millimeter of the corn. Plus, they pop the kernels in special coconut oil that gives it that distinct yellow color and rich aroma. Wait, here is the kicker. That artificial butter flavor is actually just a chemical called diacetyl. Your brain associates that exact smell with a fun night out at the cinema, making it impossible to resist. So, would you ever buy a tub of this special salt for your next movie night at home?",
+        "shot_plan": [
+          {
+            "subject": "movie theater popcorn",
+            "queries": [
+              {
+                "q": "movie theater popcorn",
+                "must": [
+                  "popcorn"
+                ]
+              },
+              {
+                "q": "cinema popcorn",
+                "must": [
+                  "popcorn"
+                ]
+              },
+              {
+                "q": "butter popcorn",
+                "must": [
+                  "snack"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "flavacol seasoning",
+            "queries": [
+              {
+                "q": "seasoning salt",
+                "must": [
+                  "salt"
+                ]
+              },
+              {
+                "q": "yellow powder",
+                "must": [
+                  "powder"
+                ]
+              },
+              {
+                "q": "fine salt",
+                "must": [
+                  "salt"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "salt grains",
+            "queries": [
+              {
+                "q": "salt crystals",
+                "must": [
+                  "salt"
+                ]
+              },
+              {
+                "q": "grains of salt",
+                "must": [
+                  "salt"
+                ]
+              },
+              {
+                "q": "white powder",
+                "must": [
+                  "powder"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "coconut oil",
+            "queries": [
+              {
+                "q": "coconut oil",
+                "must": [
+                  "oil"
+                ]
+              },
+              {
+                "q": "cooking oil",
+                "must": [
+                  "oil"
+                ]
+              },
+              {
+                "q": "liquid oil",
+                "must": [
+                  "oil"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "chemical bottle",
+            "queries": [
+              {
+                "q": "chemical bottle",
+                "must": [
+                  "bottle"
+                ]
+              },
+              {
+                "q": "flavor extract",
+                "must": [
+                  "bottle"
+                ]
+              },
+              {
+                "q": "liquid dropper",
+                "must": [
+                  "dropper"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "movie theater",
+            "queries": [
+              {
+                "q": "cinema auditorium",
+                "must": [
+                  "theater"
+                ]
+              },
+              {
+                "q": "movie theater",
+                "must": [
+                  "theater"
+                ]
+              },
+              {
+                "q": "cinema seats",
+                "must": [
+                  "seat"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "bowl of popcorn",
+            "queries": [
+              {
+                "q": "bowl of popcorn",
+                "must": [
+                  "popcorn"
+                ]
+              },
+              {
+                "q": "popcorn bowl",
+                "must": [
+                  "bowl"
+                ]
+              },
+              {
+                "q": "snack bowl",
+                "must": [
+                  "snack"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "popcorn",
+          "butter",
+          "kitchen"
+        ],
+        "visual_style": "High-contrast macro close-ups of food preparation, popcorn popping, and ingredients with dynamic kitchen lighting.",
+        "visual_refs": [
+          "Why does your popcorn never taste like movie theater popcorn? #food #business #history",
+          "The Secret to Movie Theater Popcorn\ud83c\udf7f",
+          "HOW MOVIE THEATER POPCORN IS ACTUALLY MADE?!?!",
+          "Why Movie Popcorn Tastes So Good \ud83d\ude32",
+          "Movie Theater Popcorn",
+          "Is this what makes movie theater popcorn so good?!"
+        ],
+        "voice": "en-AU-WilliamMultilingualNeural",
+        "visual_report": {
+          "shots": 11,
+          "checked": 11,
+          "unchecked": 0,
+          "filler": 1,
+          "ai": 0
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-AU-WilliamMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): Vogue0987 (Pixabay) https://pixabay.com/videos/id-301691/; jeffjacobs1990 (Pixabay) https://pixabay.com/videos/id-93090/; asraf222999 (Pixabay) https://pixabay.com/videos/id-264458/; analogicus (Pixabay) https://pixabay.com/photos/pharmacy-antique-old-chemicals-3377670/; cozmicphotos (Pixabay) https://pixabay.com/photos/bottle-container-drink-glass-3374615/; EnchantedStudios (Pixabay) https://pixabay.com/videos/id-197970/; Openly (Pixabay) https://pixabay.com/videos/id-366525/; LaDoncella (Pixabay) https://pixabay.com/videos/id-246231/; u_dtemfv9uhm (Pixabay) https://pixabay.com/videos/id-190117/",
+        "McSquare1337 / Wikimedia Commons (CC0) https://commons.wikimedia.org/wiki/File:Salt_Cubes.jpg"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-19",
+        "name": "2026-10-19-2-3-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-19",
+        "name": "2026-10-19-2-3-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,050 --> 00:00:02,414\nWhy does movie theater popcorn taste so\n\n2\n00:00:02,414 --> 00:00:03,963\nmuch better than whatever you make at\n\n3\n00:00:03,963 --> 00:00:06,762\nhome Honestly it is not just the\n\n4\n00:00:06,762 --> 00:00:09,656\nbutter In fact most places use a\n\n5\n00:00:09,656 --> 00:00:12,305\nsecret weapon called flavacol It is an\n\n6\n00:00:12,305 --> 00:00:14,439\nultra fine salt that sticks to every\n\n7\n00:00:14,439 --> 00:00:17,509\nsingle square millimeter of the corn Plus\n\n8\n00:00:17,509 --> 00:00:19,479\nthey pop the kernels in special coconut\n\n9\n00:00:19,479 --> 00:00:21,327\noil that gives it that distinct yellow\n\n10\n00:00:21,327 --> 00:00:24,574\ncolor and rich aroma Wait here is\n\n11\n00:00:24,574 --> 00:00:27,373\nthe kicker That artificial butter flavor is\n\n12\n00:00:27,373 --> 00:00:30,444\nactually just a chemical called diacetyl Your\n\n13\n00:00:30,444 --> 00:00:32,672\nbrain associates that exact smell with a\n\n14\n00:00:32,672 --> 00:00:34,887\nfun night out at the cinema making\n\n15\n00:00:34,887 --> 00:00:37,998\nit impossible to resist So would you\n\n16\n00:00:37,998 --> 00:00:39,507\never buy a tub of this special\n\n17\n00:00:39,507 --> 00:00:40,987\nsalt for your next movie night at\n\n18\n00:00:40,987 --> 00:00:41,849\nhome\n",
+      "tg_msg": 564,
+      "opts_msg": 566
     }
   },
   "history": [
-    "Top 5 Everyday Objects That Are Way Older Than You Think",
-    "3 Tech Settings You Need to Change Immediately",
-    "Top 5 Foods That Are Way Older Than You Think",
     "Top 5 Excuses People Give When They're Late",
     "Top 5 Animals That Suck At Hiding",
     "Top 5 Space Events Happening This Month",
@@ -13584,7 +14613,10 @@
     "Top 5 Real Places That Look Photoshopped",
     "Top 5 Funniest Real Museums \ud83d\ude02",
     "The Space Signal Heard Once in 1977",
-    "Guess Where These 3 Foods Were Invented"
+    "Guess Where These 3 Foods Were Invented",
+    "Top 5 Useless Kitchen Gadgets That Seemed Like a Good Idea",
+    "Top 5 Most Bizarre Natural Architecture Miracles",
+    "Why Modern Movie Popcorn Always Tastes Better"
   ],
   "trend_tries": {
     "2026-10-17": {
@@ -13600,16 +14632,16 @@
       "at": "2026-10-19T19:58:02.271521+00:00"
     }
   },
-  "cleanup_day": "2026-10-19",
+  "cleanup_day": "2026-10-20",
   "recent_voices": [
-    "en-AU-WilliamMultilingualNeural",
+    "en-US-AvaMultilingualNeural",
+    "en-US-AndrewMultilingualNeural",
     "en-US-EmmaMultilingualNeural",
     "en-US-BrianMultilingualNeural",
-    "en-US-AvaMultilingualNeural",
-    "en-US-AndrewMultilingualNeural"
+    "en-AU-WilliamMultilingualNeural"
   ],
   "visual_searches": {
-    "2026-10-19": 4
+    "2026-10-20": 3
   },
   "signals_day": "2026-10-19"
 }
