@@ -432,738 +432,6 @@
     }
   },
   "videos": {
-    "2026-10-12-1": {
-      "topic": {
-        "title": "Top 5 Animals With Built-In Armor",
-        "angle": "The 9.2x 'Bulletproof Arapaima Monster Fish' and the 283.7x 'Secret Cooling Trick' outliers both withhold one surprising physical ability and pay it off on screen, and this countdown saves the piranha-proof fish for number one.",
-        "format": "ranking",
-        "tone": "normal",
-        "virality_score": 8,
-        "trend_source": "The Bulletproof Arapaima Monster Fish (Xfacto, 9.2x); The Last Runner Knew a Secret Cooling Trick (SnipeFlex, 283.7x)",
-        "plan_id": "P2026-10-12-01"
-      },
-      "status": "published",
-      "by": "auto",
-      "updated": "2026-10-13T07:55:24.167051+00:00",
-      "redos": 0,
-      "package": {
-        "primary_keyword": "armored animals",
-        "title": "Top 5 Animals With Built-In Armor",
-        "hook_text": "NATURE'S TANKS",
-        "thumbnail_text": "PIRANHA PROOF?",
-        "description": "Meet five armored animals, from the armadillo and pangolin to the arapaima, the Amazon fish piranhas can't bite through. Here are the top five animals with built-in armor, ranked.\n\nIn this Short: armadillos, pangolins, chitons, the iron-shelled scaly-foot snail and the piranha-proof arapaima.\n\nSources:\nhttps://jacobsschool.ucsd.edu/news/release/2876\nhttps://news.mit.edu/2010/snail-shell\nhttps://news.mit.edu/2015/sea-creature-armor-plating-transparent-ceramic-eyes-1119",
-        "hashtags": [
-          "#shorts",
-          "#animals",
-          "#animalfacts",
-          "#top5"
-        ],
-        "tags": [
-          "armored animals",
-          "armadillos animals with armor",
-          "top 5 animals",
-          "scaly-foot snail",
-          "arapaima scales",
-          "arapaima piranha",
-          "animals with armor",
-          "amazing armored animals",
-          "arapaima",
-          "piranha proof fish",
-          "three-banded armadillo",
-          "armoured animals",
-          "iron snail",
-          "animal facts",
-          "pangolin scales",
-          "chiton",
-          "pangolin"
-        ],
-        "pinned_comment": "Bonus fact: the scaly-foot snail even has iron-coated scales on its foot, not just its shell. Which animal surprised you most, the snail or the arapaima?",
-        "scenes": [
-          {
-            "text": "Before you meet the Amazon fish piranhas can't bite, you need to see the other four armored animals. Here are five animals that grow their own armor.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "arapaima underwater swimming",
-              "armored animal montage"
-            ],
-            "image_prompt": "Cinematic wide shot of a massive arapaima fish swimming through murky green freshwater of the Amazon river, showing textured armor-like scales, dramatic lighting, photorealistic nature documentary style.",
-            "stock_query": "arapaima underwater swimming"
-          },
-          {
-            "text": "Number five, the three-banded armadillo. It's one of only two armadillos that can roll into a complete ball.",
-            "badge": "#5",
-            "label": "Three-banded armadillo",
-            "stock_queries": [
-              "three banded armadillo walking",
-              "armadillo rolling into a ball"
-            ],
-            "image_prompt": "Close-up shot of a three-banded armadillo curling into a tight, perfect armored sphere on dry dusty soil, detailed shell plates, realistic wildlife photography.",
-            "stock_query": "three banded armadillo walking"
-          },
-          {
-            "text": "Number four, the pangolin. Its overlapping scales are made of keratin, the same stuff as your fingernails.",
-            "badge": "#4",
-            "label": "Pangolin",
-            "stock_queries": [
-              "pangolin walking grassland",
-              "pangolin scales close up"
-            ],
-            "image_prompt": "Macro detailed view of thick, overlapping keratin scales of a pangolin walking across dry savanna grass, warm sunset light highlighting scale texture, National Geographic style.",
-            "stock_query": "pangolin walking grassland"
-          },
-          {
-            "text": "Number three, the chiton. This sea mollusk has hundreds of tiny eyes built into its armor.",
-            "badge": "#3",
-            "label": "Chiton",
-            "stock_queries": [
-              "chiton mollusk tide pool rock",
-              "chiton shell macro"
-            ],
-            "image_prompt": "Macro high-detail photograph of a marine chiton clinging tightly to a wet coastal rock in a tide pool, showing interlocking shell valves with microscopic crystal eye structures.",
-            "stock_query": "chiton mollusk tide pool rock"
-          },
-          {
-            "text": "Number two, the scaly-foot snail. It lives by deep-sea vents, and its shell is coated in iron minerals.",
-            "badge": "#2",
-            "label": "Scaly-foot snail",
-            "stock_queries": [
-              "hydrothermal vent ocean floor",
-              "scaly foot snail deep sea"
-            ],
-            "image_prompt": "Deep-sea hydrothermal vent scene with dark mineral plumes, focusing on a scaly-foot snail with a metallic, black iron-sulfide coated shell resting on volcanic basalt rock, dramatic submersible lighting.",
-            "stock_query": "hydrothermal vent ocean floor"
-          },
-          {
-            "text": "Number one, the arapaima. This giant Amazon fish swims with piranhas, and their teeth can't get through its scales. A hard outer layer sits on a tough, bendy one underneath, so the bite never breaks through.",
-            "badge": "#1",
-            "label": "Arapaima",
-            "stock_queries": [
-              "arapaima river close up",
-              "piranha swimming teeth"
-            ],
-            "image_prompt": "Extreme close-up of the thick, iridescent armored scales of a giant arapaima underwater, with a sharp piranha visible blurred in the background, showing complex dual-layer composite scale texture.",
-            "stock_query": "arapaima river close up"
-          },
-          {
-            "text": "That's the fish piranhas can't bite, and engineers study it for armor. Which of these five would you want your phone case made from? Tell me, then meet that Amazon fish again.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "scientist inspecting material laboratory",
-              "arapaima turning camera"
-            ],
-            "image_prompt": "A modern materials laboratory table with bio-inspired flexible composite armor prototypes next to a heavy-duty rugged smartphone case, illuminated under clean studio lighting.",
-            "stock_query": "scientist inspecting material laboratory"
-          }
-        ],
-        "key_facts": [
-          "Arapaima scales resist piranha bites due to a hard mineralized outer layer over a flexible collagen-fiber inner layer.",
-          "The three-banded armadillo is one of only two armadillo species that can roll completely into a sealed ball.",
-          "Pangolin scales are composed of keratin, the same protein found in human fingernails.",
-          "Chitons possess shell plates embedded with hundreds of microscopic eyes made of aragonite mineral.",
-          "The scaly-foot snail inhabits hydrothermal vents and incorporates iron sulfides into its shell armor.",
-          "Engineers study arapaima scales to design lightweight, flexible bio-inspired body armor."
-        ],
-        "format": "ranking",
-        "tone": "normal",
-        "category": "27",
-        "script": "Before you meet the Amazon fish piranhas can't bite, you need to see the other four armored animals. Here are five animals that grow their own armor. Number five, the three-banded armadillo. It's one of only two armadillos that can roll into a complete ball. Number four, the pangolin. Its overlapping scales are made of keratin, the same stuff as your fingernails. Number three, the chiton. This sea mollusk has hundreds of tiny eyes built into its armor. Number two, the scaly-foot snail. It lives by deep-sea vents, and its shell is coated in iron minerals. Number one, the arapaima. This giant Amazon fish swims with piranhas, and their teeth can't get through its scales. A hard outer layer sits on a tough, bendy one underneath, so the bite never breaks through. That's the fish piranhas can't bite, and engineers study it for armor. Which of these five would you want your phone case made from? Tell me, then meet that Amazon fish again.",
-        "plan_id": "P2026-10-12-01",
-        "shot_plan": [
-          {
-            "subject": "arapaima fish swimming",
-            "queries": [
-              {
-                "q": "arapaima fish swimming",
-                "must": [
-                  "arapaima"
-                ]
-              },
-              {
-                "q": "amazon river fish",
-                "must": [
-                  "fish"
-                ]
-              },
-              {
-                "q": "giant river fish",
-                "must": [
-                  "river"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "three-banded armadillo rolling into ball",
-            "queries": [
-              {
-                "q": "three-banded armadillo rolling",
-                "must": [
-                  "armadillo"
-                ]
-              },
-              {
-                "q": "armadillo rolling ball",
-                "must": [
-                  "ball"
-                ]
-              },
-              {
-                "q": "armadillo animal",
-                "must": [
-                  "animal"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "pangolin scales close up",
-            "queries": [
-              {
-                "q": "pangolin scales",
-                "must": [
-                  "pangolin"
-                ]
-              },
-              {
-                "q": "pangolin animal",
-                "must": [
-                  "scales"
-                ]
-              },
-              {
-                "q": "wild pangolin",
-                "must": [
-                  "animal"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "chiton sea mollusk",
-            "queries": [
-              {
-                "q": "chiton sea mollusk",
-                "must": [
-                  "chiton"
-                ]
-              },
-              {
-                "q": "sea snail mollusk",
-                "must": [
-                  "mollusk"
-                ]
-              },
-              {
-                "q": "ocean creature shell",
-                "must": [
-                  "sea"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "scaly foot snail deep sea",
-            "queries": [
-              {
-                "q": "scaly foot snail",
-                "must": [
-                  "snail"
-                ]
-              },
-              {
-                "q": "deep sea hydrothermal vent",
-                "must": [
-                  "vent"
-                ]
-              },
-              {
-                "q": "hydrothermal snail shell",
-                "must": [
-                  "shell"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "arapaima fish scales close up",
-            "queries": [
-              {
-                "q": "arapaima fish scales",
-                "must": [
-                  "arapaima"
-                ]
-              },
-              {
-                "q": "amazon fish teeth",
-                "must": [
-                  "fish"
-                ]
-              },
-              {
-                "q": "piranha fish river",
-                "must": [
-                  "piranha"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "arapaima fish swimming in amazon",
-            "queries": [
-              {
-                "q": "arapaima swimming river",
-                "must": [
-                  "arapaima"
-                ]
-              },
-              {
-                "q": "amazon river monster",
-                "must": [
-                  "amazon"
-                ]
-              },
-              {
-                "q": "river fish swimming",
-                "must": [
-                  "fish"
-                ]
-              }
-            ]
-          }
-        ],
-        "broll": [
-          "wildlife",
-          "animal",
-          "nature"
-        ],
-        "visual_style": "Fast-paced wildlife documentary short featuring fascinating animals with natural armor, close-ups, and dramatic countdowns.",
-        "visual_refs": [
-          "TOP 5 ANIMALS WITH NATURAL ARMOR \ud83d\udee1\ufe0f | NATURE\u2019S LIVING TANKS",
-          "5 Animals With the Strongest Armor",
-          "Top 5 Animals With Built-In Armor \ud83e\uddbe (You Won&#39;t Believe #1)",
-          "Top 5 Animals With Built-In Armor.#facts #animals #shorts  #wildlife #viralvideo",
-          "5 Animals With Armor-Like Skin You Won&#39;t Believe!",
-          "The Animal with Built-in Arctic Armor!| Top 5 Mind-Blowing Musk Ox Facts"
-        ],
-        "voice": "gTTS",
-        "visual_report": {
-          "shots": 9,
-          "checked": 9,
-          "unchecked": 0,
-          "filler": 2,
-          "ai": 0
-        }
-      },
-      "credits": [
-        "Voiceover: AI-generated voice (Google Text-to-Speech).",
-        "Stock footage/photos (Pexels/Pixabay Content License): NickyPe (Pixabay) https://pixabay.com/videos/id-118756/; BuchArena (Pixabay) https://pixabay.com/photos/armadillo-shell-armor-ball-grass-10493409/; BuchArena (Pixabay) https://pixabay.com/photos/armadillo-animal-defense-landscape-10493411/; MasaStojanovic (Pixabay) https://pixabay.com/photos/armadillo-nature-animals-8615359/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-1433/; happypixel19 (Pixabay) https://pixabay.com/photos/water-nature-lake-wildlife-pool-3303030/",
-        "Matt Knoth / Wikimedia Commons (CC BY 2.0) https://commons.wikimedia.org/wiki/File:Tonicella_lineata_1.jpg"
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-12",
-        "name": "2026-10-12-1-v0.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-12",
-        "name": "2026-10-12-1-v0-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,150 --> 00:00:03,157\nBefore you meet the Amazon fish piranhas\n\n2\n00:00:03,157 --> 00:00:05,600\ncan't bite, you need to see the\n\n3\n00:00:05,600 --> 00:00:07,604\nother four armored animals.\n\n4\n00:00:07,604 --> 00:00:10,423\nHere are five animals that grow their\n\n5\n00:00:10,423 --> 00:00:11,237\nown armor.\n\n6\n00:00:11,237 --> 00:00:14,119\nNumber five, the three-banded armadillo.\n\n7\n00:00:14,119 --> 00:00:16,875\nIt's one of only two armadillos that\n\n8\n00:00:16,875 --> 00:00:19,193\ncan roll into a complete ball.\n\n9\n00:00:19,193 --> 00:00:21,134\nNumber four, the pangolin.\n\n10\n00:00:21,134 --> 00:00:24,329\nIts overlapping scales are made of keratin,\n\n11\n00:00:24,329 --> 00:00:26,960\nthe same stuff as your fingernails.\n\n12\n00:00:26,960 --> 00:00:28,839\nNumber three, the chiton.\n\n13\n00:00:28,839 --> 00:00:31,658\nThis sea mollusk has hundreds of tiny\n\n14\n00:00:31,658 --> 00:00:33,663\neyes built into its armor.\n\n15\n00:00:33,663 --> 00:00:36,105\nNumber two, the scaly-foot snail.\n\n16\n00:00:36,105 --> 00:00:38,799\nIt lives by deep-sea vents, and its\n\n17\n00:00:38,799 --> 00:00:41,305\nshell is coated in iron minerals.\n\n18\n00:00:41,305 --> 00:00:43,184\nNumber one, the arapaima.\n\n19\n00:00:43,184 --> 00:00:46,378\nThis giant Amazon fish swims with piranhas,\n\n20\n00:00:46,378 --> 00:00:49,197\nand their teeth can't get through its\n\n21\n00:00:49,197 --> 00:00:49,761\nscales.\n\n22\n00:00:49,761 --> 00:00:52,016\nA hard outer layer sits on a\n\n23\n00:00:52,016 --> 00:00:55,023\ntough, bendy one underneath, so the bite\n\n24\n00:00:55,023 --> 00:00:56,589\nnever breaks through.\n\n25\n00:00:56,589 --> 00:00:59,596\nThat's the fish piranhas can't bite, and\n\n26\n00:00:59,596 --> 00:01:01,788\nengineers study it for armor.\n\n27\n00:01:01,788 --> 00:01:04,419\nWhich of these five would you want\n\n28\n00:01:04,419 --> 00:01:06,423\nyour phone case made from?\n\n29\n00:01:06,423 --> 00:01:09,117\nTell me, then meet that Amazon fish\n\n30\n00:01:09,117 --> 00:01:09,968\nagain.\n",
-      "tg_msg": 311,
-      "opts_msg": 313,
-      "approved_by": "auto",
-      "description_full": "Meet five armored animals, from the armadillo and pangolin to the arapaima, the Amazon fish piranhas can't bite through. Here are the top five animals with built-in armor, ranked.\n\nIn this Short: armadillos, pangolins, chitons, the iron-shelled scaly-foot snail and the piranha-proof arapaima.\n\nSources:\nhttps://jacobsschool.ucsd.edu/news/release/2876\nhttps://news.mit.edu/2010/snail-shell\nhttps://news.mit.edu/2015/sea-creature-armor-plating-transparent-ceramic-eyes-1119\n\n#shorts #animals #animalfacts #top5\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Google Text-to-Speech).\nStock footage/photos (Pexels/Pixabay Content License): NickyPe (Pixabay) https://pixabay.com/videos/id-118756/; BuchArena (Pixabay) https://pixabay.com/photos/armadillo-shell-armor-ball-grass-10493409/; BuchArena (Pixabay) https://pixabay.com/photos/armadillo-animal-defense-landscape-10493411/; MasaStojanovic (Pixabay) https://pixabay.com/photos/armadillo-nature-animals-8615359/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-1433/; happypixel19 (Pixabay) https://pixabay.com/photos/water-nature-lake-wildlife-pool-3303030/\nMatt Knoth / Wikimedia Commons (CC BY 2.0) https://commons.wikimedia.org/wiki/File:Tonicella_lineata_1.jpg\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/VK6y39YO_0o",
-          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-13T07:55:24.167068+00:00",
-      "slot": "2026-10-13T16:15:00+00:00"
-    },
-    "2026-10-12-2": {
-      "topic": {
-        "title": "Top 5 Funniest Real Jobs From History \ud83d\ude02",
-        "angle": "Light, kind comedy keeps breaking out (the 22.8x mystery-box game and 10.9x 'Guess Who the Pro Is' both hide a surprising answer until the end), and the pea-shooting knocker-upper is a true payoff held for number one.",
-        "format": "funny",
-        "tone": "funny",
-        "virality_score": 8,
-        "trend_source": "Games kotak misteri kedelai (Mata Panda, 22.8x); Guess Who the Pro Is (ywddxwls, 10.9x)",
-        "plan_id": "P2026-10-12-02"
-      },
-      "status": "published",
-      "by": "auto",
-      "updated": "2026-10-13T07:55:31.325836+00:00",
-      "redos": 0,
-      "package": {
-        "primary_keyword": "funny jobs from history",
-        "title": "Top 5 Funniest Real Jobs From History \ud83d\ude02",
-        "hook_text": "WEIRDEST JOB EVER?",
-        "thumbnail_text": "PAID FOR THIS?",
-        "description": "Five funny jobs from history that sound fake but were real, from ice cutters and pinsetters to the knocker upper who woke people before alarm clocks. Which of these weird old jobs would you take?\n\nIn this Short: ice cutters, pinsetters, cigar factory lectors, swan uppers and the pea-shooting knocker-upper.\n\nSources:\nhttps://en.wikipedia.org/wiki/Mary_Smith_(knocker_upper)\nhttps://en.wikipedia.org/wiki/Pinsetter\nhttps://www.mentalfloss.com/article/71485/lectores-who-read-cubas-cigar-rollers",
-        "hashtags": [
-          "#shorts",
-          "#history",
-          "#funnyfacts",
-          "#jobs",
-          "#funny"
-        ],
-        "tags": [
-          "funny jobs from history",
-          "mary smith knocker upper",
-          "funny jobs",
-          "knocker upper",
-          "funny facts about history",
-          "weird old jobs",
-          "jobs that no longer exist",
-          "weird jobs",
-          "funny jobs in the world",
-          "funny things in history",
-          "weird jobs around the world",
-          "cigar factory reader",
-          "swan upping",
-          "ice cutting",
-          "history facts",
-          "ice harvesting",
-          "bowling pinsetter",
-          "lector",
-          "pinsetter"
-        ],
-        "pinned_comment": "Bonus fact: before automatic machines, pinsetters were often kids working the back of the lane. Which job would you pick: ice cutter, pinsetter, lector, swan upper or knocker-upper?",
-        "scenes": [
-          {
-            "text": "You'd never guess that before alarm clocks, someone got paid to shoot peas at your window.\nHere are five real jobs from history that sound made up.",
-            "badge": "Paid to ",
-            "label": "5 real jobs. Sound fake.",
-            "stock_queries": [
-              "old fashioned bedroom window dawn",
-              "vintage historical work photos"
-            ],
-            "image_prompt": "An old-fashioned bedroom window at dawn with curtains drawn, vintage style illustration.",
-            "stock_query": "old fashioned bedroom window dawn"
-          },
-          {
-            "text": "Number five, ice cutter.\nBefore fridges, crews sawed giant blocks of ice from frozen lakes to keep for summer.",
-            "badge": "#5 Ice c",
-            "label": "Saving winter for summer",
-            "stock_queries": [
-              "frozen lake snowy shoreline",
-              "workers sawing ice blocks historical"
-            ],
-            "image_prompt": "Workers sawing large ice blocks on a frozen lake, archival style historical photo.",
-            "stock_query": "frozen lake snowy shoreline"
-          },
-          {
-            "text": "Number four, pinsetter.\nBowling alleys paid kids to sit at the end of the lane and reset every pin by hand.\nDodging bowling balls came free.",
-            "badge": "#4 Pinse",
-            "label": "Dodgeball, but a job",
-            "stock_queries": [
-              "vintage bowling alley lane",
-              "bowling pins knocked down slow motion"
-            ],
-            "image_prompt": "A vintage bowling alley lane with wooden pins and bowling ball rolling toward them.",
-            "stock_query": "vintage bowling alley lane"
-          },
-          {
-            "text": "Number three, lector.\nIn cigar factories, workers paid someone to read newspapers and novels out loud while they rolled.\nA human audiobook.",
-            "badge": "#3 Lecto",
-            "label": "Human audiobook",
-            "stock_queries": [
-              "hand rolled cigars wooden table",
-              "person reading book aloud warm room"
-            ],
-            "image_prompt": "Rows of hand-rolled cigars on a wooden table in a traditional factory.",
-            "stock_query": "hand rolled cigars wooden table"
-          },
-          {
-            "text": "Number two, swan upper.\nEvery summer on England's River Thames, crews row along counting swans and shout \"All up!\"\nAnd yes, that still happens.",
-            "badge": "#2 Swan ",
-            "label": "Still happens today",
-            "stock_queries": [
-              "white swans gliding calm river",
-              "traditional wooden rowing boats river"
-            ],
-            "image_prompt": "White swans gliding on a calm river with traditional wooden rowing boats.",
-            "stock_query": "white swans gliding calm river"
-          },
-          {
-            "text": "Number one, knocker-upper.\nIn industrial Britain, they tapped on windows with long poles to wake people for work.\nOne London woman, Mary Smith, shot dried peas through a tube instead.",
-            "badge": "#1 Knock",
-            "label": "Mary Smith's pea shooter",
-            "stock_queries": [
-              "cobbled street old brick houses sunrise",
-              "wooden pole tapping window pane"
-            ],
-            "image_prompt": "A cobbled street of old brick terraced houses before sunrise with a long wooden pole.",
-            "stock_query": "cobbled street old brick houses sunrise"
-          },
-          {
-            "text": "Which of these five jobs would you actually sign up for?\nMe? I'd want the peas.",
-            "badge": "Which jo",
-            "label": "Team peas",
-            "stock_queries": [
-              "alarm clock dried peas",
-              "bedroom window dawn light"
-            ],
-            "image_prompt": "An alarm clock replaced by a handful of dried peas near a bedroom window at dawn.",
-            "stock_query": "alarm clock dried peas"
-          }
-        ],
-        "key_facts": [
-          "Ice cutters harvested giant blocks of ice from frozen lakes before refrigerators.",
-          "Pinsetters were people who manually reset bowling pins and dodged bowling balls.",
-          "Lectores read books and newspapers aloud to cigar rollers in factories.",
-          "Swan uppers count swans on England's River Thames and shout All up.",
-          "Knocker-uppers woke people up for work using long poles or pea shooters."
-        ],
-        "format": "funny",
-        "tone": "funny",
-        "category": "23",
-        "script": "You'd never guess that before alarm clocks, someone got paid to shoot peas at your window.\nHere are five real jobs from history that sound made up. Number five, ice cutter.\nBefore fridges, crews sawed giant blocks of ice from frozen lakes to keep for summer. Number four, pinsetter.\nBowling alleys paid kids to sit at the end of the lane and reset every pin by hand.\nDodging bowling balls came free. Number three, lector.\nIn cigar factories, workers paid someone to read newspapers and novels out loud while they rolled.\nA human audiobook. Number two, swan upper.\nEvery summer on England's River Thames, crews row along counting swans and shout \"All up!\"\nAnd yes, that still happens. Number one, knocker-upper.\nIn industrial Britain, they tapped on windows with long poles to wake people for work.\nOne London woman, Mary Smith, shot dried peas through a tube instead. Which of these five jobs would you actually sign up for?\nMe? I'd want the peas.",
-        "plan_id": "P2026-10-12-02",
-        "shot_plan": [
-          {
-            "subject": "alarm clock and green peas on a windowsill",
-            "queries": [
-              {
-                "q": "alarm clock",
-                "must": [
-                  "clock"
-                ]
-              },
-              {
-                "q": "green peas",
-                "must": [
-                  "peas"
-                ]
-              },
-              {
-                "q": "window sill",
-                "must": [
-                  "window"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "frozen lake ice block cutting",
-            "queries": [
-              {
-                "q": "ice cutter",
-                "must": [
-                  "ice"
-                ]
-              },
-              {
-                "q": "frozen lake",
-                "must": [
-                  "lake"
-                ]
-              },
-              {
-                "q": "winter snow",
-                "must": [
-                  "snow"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "bowling alley pinsetter",
-            "queries": [
-              {
-                "q": "bowling pins",
-                "must": [
-                  "bowling"
-                ]
-              },
-              {
-                "q": "bowling ball",
-                "must": [
-                  "ball"
-                ]
-              },
-              {
-                "q": "bowling alley",
-                "must": [
-                  "alley"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "person reading newspaper in factory",
-            "queries": [
-              {
-                "q": "reading newspaper",
-                "must": [
-                  "newspaper"
-                ]
-              },
-              {
-                "q": "factory worker",
-                "must": [
-                  "factory"
-                ]
-              },
-              {
-                "q": "cigar factory",
-                "must": [
-                  "cigar"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "swans swimming on river thames",
-            "queries": [
-              {
-                "q": "swans river",
-                "must": [
-                  "swan"
-                ]
-              },
-              {
-                "q": "rowing boat",
-                "must": [
-                  "boat"
-                ]
-              },
-              {
-                "q": "river thames",
-                "must": [
-                  "river"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "woman shooting peas with tube at window",
-            "queries": [
-              {
-                "q": "pea shooter",
-                "must": [
-                  "tube"
-                ]
-              },
-              {
-                "q": "window tapping",
-                "must": [
-                  "window"
-                ]
-              },
-              {
-                "q": "historic london",
-                "must": [
-                  "historic"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "person pointing at green peas",
-            "queries": [
-              {
-                "q": "green peas",
-                "must": [
-                  "peas"
-                ]
-              },
-              {
-                "q": "healthy food",
-                "must": [
-                  "food"
-                ]
-              },
-              {
-                "q": "pointing finger",
-                "must": [
-                  "finger"
-                ]
-              }
-            ]
-          }
-        ],
-        "broll": [
-          "history",
-          "antique",
-          "vintage"
-        ],
-        "visual_style": "Engaging historical curiosity with funny, literal stock footage close-ups of bizarre jobs and everyday objects.",
-        "visual_refs": [
-          "guardian angels (or anxiety?) make killing so spicy \ud83d\ude25",
-          "This was the moment Gunther realized he&#39;s in the ring with THE Goldberg.\ud83d\ude24",
-          "5 Facts You DIDN&#39;T Know About Your Cat - Puss in Boots: The Last Wish",
-          "kindergarteners GO crazy \ud83e\udd2a Leo is now streaming on Netflix!",
-          "What Is Laughter? \ud83d\ude02",
-          "Chasing Illumination\u2019s new guy \ud83e\udd86 #MigrationMovie #Minions #Illumination #Shorts"
-        ],
-        "voice": "gTTS",
-        "visual_report": {
-          "shots": 7,
-          "checked": 5,
-          "unchecked": 0,
-          "filler": 5,
-          "ai": 0
-        }
-      },
-      "credits": [
-        "Voiceover: AI-generated voice (Google Text-to-Speech).",
-        "Benjamin J. DeLong / Wikimedia Commons (CC BY 2.0) https://commons.wikimedia.org/wiki/File:5-pin_bowling_pins_(4177654894).jpg",
-        "The Library of Congress / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:Havana_--_Cigar_factory_LOC_15556540835.jpg"
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-12",
-        "name": "2026-10-12-2-v0.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-12",
-        "name": "2026-10-12-2-v0-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,150 --> 00:00:03,537\nYou'd never guess that before alarm clocks,\n\n2\n00:00:03,537 --> 00:00:06,261\nsomeone got paid to shoot peas at\n\n3\n00:00:06,261 --> 00:00:07,257\nyour window.\n\n4\n00:00:07,257 --> 00:00:10,180\nHere are five real jobs from history\n\n5\n00:00:10,180 --> 00:00:11,774\nthat sound made up.\n\n6\n00:00:11,774 --> 00:00:13,700\nNumber five, ice cutter.\n\n7\n00:00:13,700 --> 00:00:17,087\nBefore fridges, crews sawed giant blocks of\n\n8\n00:00:17,087 --> 00:00:19,811\nice from frozen lakes to keep for\n\n9\n00:00:19,811 --> 00:00:20,408\nsummer.\n\n10\n00:00:20,408 --> 00:00:22,202\nNumber four, pinsetter.\n\n11\n00:00:22,202 --> 00:00:24,991\nBowling alleys paid kids to sit at\n\n12\n00:00:24,991 --> 00:00:27,449\nthe end of the lane and reset\n\n13\n00:00:27,449 --> 00:00:28,977\nevery pin by hand.\n\n14\n00:00:28,977 --> 00:00:31,501\nDodging bowling balls came free.\n\n15\n00:00:31,501 --> 00:00:33,161\nNumber three, lector.\n\n16\n00:00:33,161 --> 00:00:36,549\nIn cigar factories, workers paid someone to\n\n17\n00:00:36,549 --> 00:00:39,803\nread newspapers and novels out loud while\n\n18\n00:00:39,803 --> 00:00:40,800\nthey rolled.\n\n19\n00:00:40,800 --> 00:00:42,261\nA human audiobook.\n\n20\n00:00:42,261 --> 00:00:44,121\nNumber two, swan upper.\n\n21\n00:00:44,121 --> 00:00:47,641\nEvery summer on England's River Thames, crews\n\n22\n00:00:47,641 --> 00:00:50,763\nrow along counting swans and shout \"All\n\n23\n00:00:50,763 --> 00:00:53,420\nup!\" And yes, that still happens.\n\n24\n00:00:53,420 --> 00:00:55,412\nNumber one, knocker-upper.\n\n25\n00:00:55,412 --> 00:00:58,932\nIn industrial Britain, they tapped on windows\n\n26\n00:00:58,932 --> 00:01:01,722\nwith long poles to wake people for\n\n27\n00:01:01,722 --> 00:01:02,187\nwork.\n\n28\n00:01:02,187 --> 00:01:05,375\nOne London woman, Mary Smith, shot dried\n\n29\n00:01:05,375 --> 00:01:07,634\npeas through a tube instead.\n\n30\n00:01:07,634 --> 00:01:10,423\nWhich of these five jobs would you\n\n31\n00:01:10,423 --> 00:01:12,150\nactually sign up for?\n\n32\n00:01:12,150 --> 00:01:12,482\nMe?\n\n33\n00:01:12,482 --> 00:01:14,364\nI'd want the peas.\n",
-      "tg_msg": 314,
-      "opts_msg": 316,
-      "approved_by": "auto",
-      "description_full": "Five funny jobs from history that sound fake but were real, from ice cutters and pinsetters to the knocker upper who woke people before alarm clocks. Which of these weird old jobs would you take?\n\nIn this Short: ice cutters, pinsetters, cigar factory lectors, swan uppers and the pea-shooting knocker-upper.\n\nSources:\nhttps://en.wikipedia.org/wiki/Mary_Smith_(knocker_upper)\nhttps://en.wikipedia.org/wiki/Pinsetter\nhttps://www.mentalfloss.com/article/71485/lectores-who-read-cubas-cigar-rollers\n\n#shorts #history #funnyfacts #jobs #funny\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Google Text-to-Speech).\nBenjamin J. DeLong / Wikimedia Commons (CC BY 2.0) https://commons.wikimedia.org/wiki/File:5-pin_bowling_pins_(4177654894).jpg\nThe Library of Congress / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:Havana_--_Cigar_factory_LOC_15556540835.jpg\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/1_ZcE3komso",
-          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-13T07:55:31.325854+00:00",
-      "slot": "2026-10-13T19:15:00+00:00"
-    },
     "2026-10-12-3": {
       "topic": {
         "title": "Quick Weather Quiz: 2 Fakes, 1 Real",
@@ -1904,768 +1172,6 @@
         "name": "2026-10-12-4-v0-thumb.jpg"
       },
       "srt": "1\n00:00:00,150 --> 00:00:03,027\nBefore you visit Paris, you should know\n\n2\n00:00:03,027 --> 00:00:05,719\nthe Eiffel Tower had an expiry date.\n\n3\n00:00:05,719 --> 00:00:08,351\nHere's how it almost came down, and\n\n4\n00:00:08,351 --> 00:00:09,453\nwhat saved it.\n\n5\n00:00:09,453 --> 00:00:12,207\nThe tower opened for the World's Fair\n\n6\n00:00:12,207 --> 00:00:13,920\nin eighteen eighty-nine.\n\n7\n00:00:13,920 --> 00:00:16,736\nBut Gustave Eiffel's deal only let him\n\n8\n00:00:16,736 --> 00:00:19,000\nuse the land for twenty years.\n\n9\n00:00:19,000 --> 00:00:21,754\nAfter that, Paris could take it down.\n\n10\n00:00:21,754 --> 00:00:24,264\nSo Eiffel needed a reason to keep\n\n11\n00:00:24,264 --> 00:00:24,570\nit.\n\n12\n00:00:24,570 --> 00:00:25,426\nHis answer?\n\n13\n00:00:25,426 --> 00:00:26,039\nScience.\n\n14\n00:00:26,039 --> 00:00:29,466\nHe backed weather and air resistance experiments\n\n15\n00:00:29,466 --> 00:00:30,200\nup there.\n\n16\n00:00:30,200 --> 00:00:33,322\nThen in eighteen ninety-eight, a Morse code\n\n17\n00:00:33,322 --> 00:00:36,076\nradio message was sent from the tower\n\n18\n00:00:36,076 --> 00:00:37,055\nacross Paris.\n\n19\n00:00:37,055 --> 00:00:40,237\nSuddenly, the city's tallest structure looked\n\n20\n00:00:40,237 --> 00:00:42,502\nlike the perfect giant antenna.\n\n21\n00:00:42,502 --> 00:00:45,256\nArmy radio tests from the top reached\n\n22\n00:00:45,256 --> 00:00:46,725\nfarther and farther.\n\n23\n00:00:46,725 --> 00:00:49,969\nBy nineteen-oh-nine, a permanent radio station\n\n24\n00:00:49,969 --> 00:00:51,560\nsat right beneath it.\n\n25\n00:00:51,560 --> 00:00:54,865\nSo in nineteen-ten, Eiffel's deal was extended\n\n26\n00:00:54,865 --> 00:00:56,150\nby seventy years.\n\n27\n00:00:56,150 --> 00:00:58,843\nThat's how the tower beat its expiry\n\n28\n00:00:58,843 --> 00:01:00,863\ndate: it became an antenna.\n\n29\n00:01:00,863 --> 00:01:03,555\nDid you know the Eiffel Tower almost\n\n30\n00:01:03,555 --> 00:01:05,208\ncame down, yes or no?\n\n31\n00:01:05,208 --> 00:01:08,295\nIf you said no, here's your reminder.\n"
-    },
-    "2026-10-12-2-1": {
-      "topic": {
-        "title": "Top 5 Animals With The Most Ridiculous Excuses For Sleeping",
-        "angle": "Counting down five animals that sleep in the most absurd, hilarious positions and places imaginable.",
-        "format": "ranking",
-        "tone": "funny",
-        "trend_source": "evergreen",
-        "virality_score": 9,
-        "why": "High loop potential, universally loved cute animal content paired with unexpected, funny narrative humor."
-      },
-      "status": "published",
-      "by": "auto",
-      "updated": "2026-10-13T15:09:50.834252+00:00",
-      "redos": 0,
-      "package": {
-        "primary_keyword": "weird animal sleeping habits",
-        "title": "Top 5 Weird Animal Sleeping Habits \ud83d\ude34",
-        "hook_text": "Animals With Weirdest Sleep Habits",
-        "thumbnail_text": "Impossible Sleeping Positions",
-        "description": "Discover the weird animal sleeping habits that look too ridiculous to be real.\nFrom whales sleeping upright to birds napping in flight, animal sleep facts never cease to amaze.",
-        "hashtags": [
-          "#shorts",
-          "#wildlife",
-          "#animalsleep",
-          "#top5",
-          "#funny"
-        ],
-        "tags": [
-          "weird animal sleeping habits",
-          "weird animal facts",
-          "funny animal facts",
-          "how sea animals sleep",
-          "sleeping habits of animals",
-          "common swift flying while sleeping",
-          "sea otters holding hands",
-          "flamingo sleeping one leg",
-          "sperm whale sleeping vertical",
-          "animals sleeping in weird positions",
-          "how animals sleep",
-          "amazing animal facts",
-          "strange animal facts",
-          "interesting animal facts",
-          "how animals sleep at night",
-          "how animals sleep underwater",
-          "how animals sleep in the ocean"
-        ],
-        "pinned_comment": "Which of these five sleeping positions best describes your weekend nap? Tell us in the comments! \ud83d\udc47",
-        "scenes": [
-          {
-            "text": "Nature gave these creatures ridiculous ways to take a nap. Seriously, wait until you see number one.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "sleeping animals",
-              "wildlife resting"
-            ],
-            "image_prompt": "A comical wide angle view of various wild animals looking sleepy in a lush forest meadow, soft golden sunrise light, 9:16 vertical orientation",
-            "stock_query": "sleeping animals"
-          },
-          {
-            "text": "Number five, sea otters. Otters hold hands while snoozing so currents do not float them away. It is adorable, tactical clinginess.",
-            "badge": "#5",
-            "label": "Sea Otter",
-            "stock_queries": [
-              "sea otter floating",
-              "otters holding hands"
-            ],
-            "image_prompt": "Two fluffy sea otters floating on their backs in calm ocean water holding paws while asleep, crisp cinematic lighting, 9:16 vertical orientation",
-            "stock_query": "sea otter floating"
-          },
-          {
-            "text": "At number four, flamingos. They lock one leg joint and sleep standing on a single stick. Apparently, using two legs takes too much effort.",
-            "badge": "#4",
-            "label": "Flamingo",
-            "stock_queries": [
-              "flamingo sleeping",
-              "flamingos in water"
-            ],
-            "image_prompt": "A bright pink flamingo balanced asleep on one skinny leg with its head tucked under its wing in shallow blue water, 9:16 vertical orientation",
-            "stock_query": "flamingo sleeping"
-          },
-          {
-            "text": "Number three, giraffes. With six-foot necks, beds are useless. So they twist completely around and use their own butt as a pillow.",
-            "badge": "#3",
-            "label": "Giraffe",
-            "stock_queries": [
-              "giraffe sleeping",
-              "giraffe savannah resting"
-            ],
-            "image_prompt": "An adult giraffe curled up on the African savannah grass, long neck curved backward resting its head on its hip, 9:16 vertical orientation",
-            "stock_query": "giraffe sleeping"
-          },
-          {
-            "text": "At number two, sperm whales. Entire pods nap completely motionless, bobbing straight up and down like giant floating pickles. Honestly, it looks surreal.",
-            "badge": "#2",
-            "label": "Sperm Whale",
-            "stock_queries": [
-              "sperm whale pod",
-              "whale sleeping vertical"
-            ],
-            "image_prompt": "A pod of giant sperm whales vertically suspended motionless in deep dark blue open ocean water, rays of sunlight piercing down, 9:16 vertical orientation",
-            "stock_query": "sperm whale pod"
-          },
-          {
-            "text": "And number one, the common swift. They stay airborne for ten months straight, taking micro-naps while gliding through the clouds. Ultimate aerial flex.",
-            "badge": "#1",
-            "label": "Common Swift",
-            "stock_queries": [
-              "swift bird flying",
-              "flock of swifts"
-            ],
-            "image_prompt": "A sleek dark common swift bird gliding effortlessly high above dramatic cumulus sunset clouds, dreamlike atmosphere, 9:16 vertical orientation",
-            "stock_query": "swift bird flying"
-          },
-          {
-            "text": "Which ridiculous sleeping position best describes your Sunday afternoon? Drop your pick below, because honestly...",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "tired domestic cat",
-              "sleepy pet yawning"
-            ],
-            "image_prompt": "A funny domestic cat sleeping in a totally contorted twisted position upside down on a couch, warm ambient lighting, 9:16 vertical orientation",
-            "stock_query": "tired domestic cat"
-          }
-        ],
-        "key_facts": [
-          "Sea otters hold paws while sleeping to prevent ocean currents from drifting them apart.",
-          "Flamingos sleep standing on one leg by engaging a passive locking mechanism in their joints.",
-          "Giraffes sleep only around thirty minutes a day and curve their long necks around to rest on their own rumps.",
-          "Sperm whales take power naps suspended completely vertically in the water column.",
-          "Common swifts can remain continuously airborne for ten months, sleeping while gliding in midair."
-        ],
-        "format": "ranking",
-        "tone": "funny",
-        "category": "23",
-        "script": "Nature gave these creatures ridiculous ways to take a nap. Seriously, wait until you see number one. Number five, sea otters. Otters hold hands while snoozing so currents do not float them away. It is adorable, tactical clinginess. At number four, flamingos. They lock one leg joint and sleep standing on a single stick. Apparently, using two legs takes too much effort. Number three, giraffes. With six-foot necks, beds are useless. So they twist completely around and use their own butt as a pillow. At number two, sperm whales. Entire pods nap completely motionless, bobbing straight up and down like giant floating pickles. Honestly, it looks surreal. And number one, the common swift. They stay airborne for ten months straight, taking micro-naps while gliding through the clouds. Ultimate aerial flex. Which ridiculous sleeping position best describes your Sunday afternoon? Drop your pick below, because honestly...",
-        "shot_plan": [
-          {
-            "subject": "variety of animals sleeping in unusual poses",
-            "queries": [
-              {
-                "q": "sleeping animal",
-                "must": [
-                  "sleeping"
-                ]
-              },
-              {
-                "q": "funny wildlife",
-                "must": [
-                  "wildlife"
-                ]
-              },
-              {
-                "q": "animal nap",
-                "must": [
-                  "animal"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "sea otters holding hands while floating on water",
-            "queries": [
-              {
-                "q": "sea otters floating",
-                "must": [
-                  "otter"
-                ]
-              },
-              {
-                "q": "otter holding hands",
-                "must": [
-                  "otters"
-                ]
-              },
-              {
-                "q": "cute sea otter",
-                "must": [
-                  "sea"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "flamingo sleeping standing on one leg",
-            "queries": [
-              {
-                "q": "flamingo standing one leg",
-                "must": [
-                  "flamingo"
-                ]
-              },
-              {
-                "q": "sleeping flamingo",
-                "must": [
-                  "bird"
-                ]
-              },
-              {
-                "q": "pink flamingo",
-                "must": [
-                  "pink"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "giraffe sleeping with its neck twisted back resting on its body",
-            "queries": [
-              {
-                "q": "giraffe sleeping",
-                "must": [
-                  "giraffe"
-                ]
-              },
-              {
-                "q": "resting giraffe",
-                "must": [
-                  "neck"
-                ]
-              },
-              {
-                "q": "safari animal",
-                "must": [
-                  "animal"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "sperm whales vertical in the water column resting",
-            "queries": [
-              {
-                "q": "sperm whale vertical",
-                "must": [
-                  "whale"
-                ]
-              },
-              {
-                "q": "whales sleeping underwater",
-                "must": [
-                  "sperm"
-                ]
-              },
-              {
-                "q": "ocean mammal",
-                "must": [
-                  "ocean"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "common swift bird flying in the sky clouds",
-            "queries": [
-              {
-                "q": "common swift flying",
-                "must": [
-                  "swift"
-                ]
-              },
-              {
-                "q": "bird flight sky",
-                "must": [
-                  "bird"
-                ]
-              },
-              {
-                "q": "flying bird clouds",
-                "must": [
-                  "sky"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "sloth or cat sleeping deeply in a lazy pose",
-            "queries": [
-              {
-                "q": "lazy sleeping cat",
-                "must": [
-                  "cat"
-                ]
-              },
-              {
-                "q": "sleeping sloth",
-                "must": [
-                  "sloth"
-                ]
-              },
-              {
-                "q": "animal resting",
-                "must": [
-                  "resting"
-                ]
-              }
-            ]
-          }
-        ],
-        "broll": [
-          "animal sleeping",
-          "wildlife nap",
-          "funny animal"
-        ],
-        "visual_style": "Close-up, humorous wildlife footage of animals in bizarre sleeping positions with natural outdoor and aquatic settings",
-        "visual_refs": [
-          "\ud83e\udd23 Dusty Dubs Animal Voiceover Mashup 176",
-          "paw enforcement 2 \ud83c\udfa5: @lilochipie #shorts",
-          "Pat-A-Cake Cats",
-          "Mashup 124 \ud83c\udfa5: analee_artworks (IG) / @tansuyegen380 / @gravedancerarkinsaw / unknown #shorts",
-          "\ud83e\udd8e Hilarious Reptile/Amphibian Voiceover Compilation #dustydubs #voiceover #shorts",
-          "RanKinG tHe FuNNiesT TalKinG DoGs \ud83d\udc36\ud83d\udcc8"
-        ],
-        "voice": "gTTS",
-        "visual_report": {
-          "shots": 12,
-          "checked": 12,
-          "unchecked": 0,
-          "filler": 0,
-          "ai": 0
-        }
-      },
-      "credits": [
-        "Voiceover: AI-generated voice (Google Text-to-Speech).",
-        "Stock footage/photos (Pexels/Pixabay Content License): BlenderTimer (Pixabay) https://pixabay.com/videos/id-218645/; Bru-nO (Pixabay) https://pixabay.com/photos/flamingo-bird-water-bird-pink-4489777/; luctheo (Pixabay) https://pixabay.com/photos/flamingo-pink-bird-animals-zoo-763894/; Ben_Kerckx (Pixabay) https://pixabay.com/photos/flamingo-animal-bird-pink-mates-1304216/; paulbr75 (Pixabay) https://pixabay.com/photos/baby-giraffe-animal-cute-giraffe-2239312/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-376846/; TheOtherKev (Pixabay) https://pixabay.com/photos/swift-swift-in-flight-swift-flying-5241406/; TheOtherKev (Pixabay) https://pixabay.com/photos/swift-european-swift-black-bird-5248648/; kieutruongphoto (Pixabay) https://pixabay.com/videos/id-35733/; kieutruongphoto (Pixabay) https://pixabay.com/videos/id-35693/; Bernard_Townsend (Pixabay) https://pixabay.com/videos/id-127621/",
-        "Mike Baird from Morro Bay, USA / Wikimedia Commons (CC BY 2.0) https://commons.wikimedia.org/wiki/File:A_newborn_baby_Sea_Otter,_Enhydra_lutris,_Morro_Bay.jpg"
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-12",
-        "name": "2026-10-12-2-1-v0.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-12",
-        "name": "2026-10-12-2-1-v0-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,150 --> 00:00:03,481\nNature gave these creatures ridiculous ways\n\n2\n00:00:03,481 --> 00:00:04,747\nto take a nap.\n\n3\n00:00:04,747 --> 00:00:08,011\nSeriously, wait until you see number one.\n\n4\n00:00:08,011 --> 00:00:09,943\nNumber five, sea otters.\n\n5\n00:00:09,943 --> 00:00:13,407\nOtters hold hands while snoozing so currents\n\n6\n00:00:13,407 --> 00:00:15,339\ndo not float them away.\n\n7\n00:00:15,339 --> 00:00:18,137\nIt is adorable, tactical clinginess.\n\n8\n00:00:18,137 --> 00:00:20,202\nAt number four, flamingos.\n\n9\n00:00:20,202 --> 00:00:22,933\nThey lock one leg joint and sleep\n\n10\n00:00:22,933 --> 00:00:25,132\nstanding on a single stick.\n\n11\n00:00:25,132 --> 00:00:28,396\nApparently, using two legs takes too much\n\n12\n00:00:28,396 --> 00:00:28,996\neffort.\n\n13\n00:00:28,996 --> 00:00:30,794\nNumber three, giraffes.\n\n14\n00:00:30,794 --> 00:00:33,792\nWith six-foot necks, beds are useless.\n\n15\n00:00:33,792 --> 00:00:36,923\nSo they twist completely around and use\n\n16\n00:00:36,923 --> 00:00:39,188\ntheir own butt as a pillow.\n\n17\n00:00:39,188 --> 00:00:41,453\nAt number two, sperm whales.\n\n18\n00:00:41,453 --> 00:00:44,984\nEntire pods nap completely motionless, bobbing\n\n19\n00:00:44,984 --> 00:00:48,182\nstraight up and down like giant floating\n\n20\n00:00:48,182 --> 00:00:48,848\npickles.\n\n21\n00:00:48,848 --> 00:00:50,980\nHonestly, it looks surreal.\n\n22\n00:00:50,980 --> 00:00:53,644\nAnd number one, the common swift.\n\n23\n00:00:53,644 --> 00:00:57,042\nThey stay airborne for ten months straight,\n\n24\n00:00:57,042 --> 00:01:00,373\ntaking micro-naps while gliding through the\n\n25\n00:01:00,373 --> 00:01:00,972\nclouds.\n\n26\n00:01:00,972 --> 00:01:02,638\nUltimate aerial flex.\n\n27\n00:01:02,638 --> 00:01:06,368\nWhich ridiculous sleeping position best describes\n\n28\n00:01:06,368 --> 00:01:08,100\nyour Sunday afternoon?\n\n29\n00:01:08,100 --> 00:01:11,611\nDrop your pick below, because honestly...\n",
-      "tg_msg": 327,
-      "opts_msg": 329,
-      "approved_by": "auto",
-      "description_full": "Discover the weird animal sleeping habits that look too ridiculous to be real.\nFrom whales sleeping upright to birds napping in flight, animal sleep facts never cease to amaze.\n\n#shorts #wildlife #animalsleep #top5 #funny\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Google Text-to-Speech).\nStock footage/photos (Pexels/Pixabay Content License): BlenderTimer (Pixabay) https://pixabay.com/videos/id-218645/; Bru-nO (Pixabay) https://pixabay.com/photos/flamingo-bird-water-bird-pink-4489777/; luctheo (Pixabay) https://pixabay.com/photos/flamingo-pink-bird-animals-zoo-763894/; Ben_Kerckx (Pixabay) https://pixabay.com/photos/flamingo-animal-bird-pink-mates-1304216/; paulbr75 (Pixabay) https://pixabay.com/photos/baby-giraffe-animal-cute-giraffe-2239312/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-376846/; TheOtherKev (Pixabay) https://pixabay.com/photos/swift-swift-in-flight-swift-flying-5241406/; TheOtherKev (Pixabay) https://pixabay.com/photos/swift-european-swift-black-bird-5248648/; kieutruongphoto (Pixabay) https://pixabay.com/videos/id-35733/; kieutruongphoto (Pixabay) https://pixabay.com/videos/id-35693/; Bernard_Townsend (Pixabay) https://pixabay.com/videos/id-127621/\nMike Baird from Morro Bay, USA / Wikimedia Commons (CC BY 2.0) https://commons.wikimedia.org/wiki/File:A_newborn_baby_Sea_Otter,_Enhydra_lutris,_Morro_Bay.jpg\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/PiQwoHN2ySM",
-          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-13T15:09:50.834267+00:00",
-      "slot": "2026-10-14T01:15:00+00:00"
-    },
-    "2026-10-12-2-2": {
-      "topic": {
-        "title": "Can You Guess These 3 Mind-Bending Physics Illusions?",
-        "angle": "A fast-paced visual guessing game challenging viewers on whether rolling objects are going uphill or downhill.",
-        "format": "quiz",
-        "tone": "normal",
-        "trend_source": "evergreen",
-        "virality_score": 9,
-        "why": "Drives massive comment section engagement as viewers argue about the answer, boosting algorithmic distribution."
-      },
-      "status": "published",
-      "by": "auto",
-      "updated": "2026-10-14T09:01:14.641774+00:00",
-      "redos": 0,
-      "package": {
-        "primary_keyword": "physics illusions",
-        "title": "Can You Solve These 3 Physics Illusions? \ud83e\udde0",
-        "hook_text": "Uphill or downhill?",
-        "thumbnail_text": "Mind Bending Physics",
-        "description": "Test your brain with three fast-paced physics illusions where rolling objects seem to defy gravity. Can you get all three right before the timer runs out?",
-        "hashtags": [
-          "#shorts",
-          "#science",
-          "#physics",
-          "#quiz"
-        ],
-        "tags": [
-          "physics illusions",
-          "mind bending science",
-          "gravity illusion experiment",
-          "gravity hill optical illusion",
-          "physics quiz",
-          "uphill downhill",
-          "gravity illusion",
-          "mind blowing science",
-          "anti gravity illusion",
-          "gravity hill illusion",
-          "physical optical illusions",
-          "uphill downhill illusion",
-          "physics quizzes",
-          "physics phenomenon",
-          "visual quiz",
-          "science trivia",
-          "physics puzzles",
-          "optical illusions",
-          "science experiments",
-          "challenge your brain",
-          "how do illusions work"
-        ],
-        "pinned_comment": "Which illusion tricked your brain the hardest? Let me know your score in the comments below!",
-        "key_facts": [
-          "Double cone rolling objects can appear to roll uphill due to the rising angle of the V-shaped tracks lowering its center of gravity.",
-          "Water running uphill on special tracks is an illusion created by the sloping frame of the structure relative to the horizontal water level."
-        ],
-        "scenes": [
-          {
-            "text": "Only a few people get all three right, so let us test your brain with three fast-paced physics illusions. Uphill or downhill?",
-            "badge": "Intro",
-            "label": "Physics Illusions Quiz",
-            "stock_queries": [
-              "rolling wooden ball",
-              "wooden incline track"
-            ],
-            "image_prompt": "Vertical 9:16 image of a wooden physics track on a table, dramatic lighting, no text, no people.",
-            "stock_query": "rolling wooden ball"
-          },
-          {
-            "text": "Q1. Is this wooden ball rolling uphill or downhill? Look closely at the tracks and make your choice. Three, two, one.",
-            "badge": "Q1",
-            "label": "Rolling Ball Illusion",
-            "stock_queries": [
-              "wooden ball rolling",
-              "angled wooden ramp"
-            ],
-            "image_prompt": "Vertical 9:16 image of a wooden ball resting on a slanted wooden rail, studio light, no text.",
-            "stock_query": "wooden ball rolling"
-          },
-          {
-            "text": "It is actually rolling downhill. Even though the tracks spread apart, the actual center of gravity drops lower the further it goes.",
-            "badge": "\u2713",
-            "label": "Downhill",
-            "stock_queries": [
-              "ball rolling down",
-              "wooden rail closeup"
-            ],
-            "image_prompt": "Vertical 9:16 image of a double cone rolling along a diverging wooden track, no text.",
-            "stock_query": "ball rolling down"
-          },
-          {
-            "text": "Q2. Does this heavy steel cylinder roll uphill or downhill on these metal rails? Trust your eyes and decide right now. Three, two, one.",
-            "badge": "Q2",
-            "label": "Steel Cylinder Trick",
-            "stock_queries": [
-              "metal cylinder rolling",
-              "steel railway tracks"
-            ],
-            "image_prompt": "Vertical 9:16 image of a steel cylinder on metal rails, sharp focus, no text.",
-            "stock_query": "metal cylinder rolling"
-          },
-          {
-            "text": "It is going uphill. The rails widen and slope upward, but the cylinder's low center of mass lets it climb against our expectations.",
-            "badge": "\u2713",
-            "label": "Uphill",
-            "stock_queries": [
-              "metal roller up",
-              "steel rails incline"
-            ],
-            "image_prompt": "Vertical 9:16 image of a metallic roller on an ascending V track, clean background, no text.",
-            "stock_query": "metal roller up"
-          },
-          {
-            "text": "Q3. Here is the hardest one. Is this flowing water moving uphill or downhill across the wooden board? Think fast. Three, two, one.",
-            "badge": "Q3",
-            "label": "Water Flow Puzzle",
-            "stock_queries": [
-              "water flowing wood",
-              "wooden channel stream"
-            ],
-            "image_prompt": "Vertical 9:16 image of water flowing down a wooden channel, macro shot, no text.",
-            "stock_query": "water flowing wood"
-          },
-          {
-            "text": "It is rolling downhill. The entire wooden frame is tilted, tricking your brain into thinking the water defies gravity.",
-            "badge": "\u2713",
-            "label": "Downhill",
-            "stock_queries": [
-              "water stream channel",
-              "wooden water trough"
-            ],
-            "image_prompt": "Vertical 9:16 image of water moving through a tilted wooden sluice, dramatic contrast, no text.",
-            "stock_query": "water stream channel"
-          },
-          {
-            "text": "That was tough. Drop your score in the comments and let us know if...",
-            "badge": "Score",
-            "label": "Comment Your Score",
-            "stock_queries": [
-              "question mark sign",
-              "neon question mark"
-            ],
-            "image_prompt": "Vertical 9:16 image of a glowing question mark in a dark room, minimalist style, no text.",
-            "stock_query": "question mark sign"
-          }
-        ],
-        "format": "quiz",
-        "tone": "normal",
-        "category": "24",
-        "script": "Only a few people get all three right, so let us test your brain with three fast-paced physics illusions. Uphill or downhill? Q1. Is this wooden ball rolling uphill or downhill? Look closely at the tracks and make your choice. Three, two, one. It is actually rolling downhill. Even though the tracks spread apart, the actual center of gravity drops lower the further it goes. Q2. Does this heavy steel cylinder roll uphill or downhill on these metal rails? Trust your eyes and decide right now. Three, two, one. It is going uphill. The rails widen and slope upward, but the cylinder's low center of mass lets it climb against our expectations. Q3. Here is the hardest one. Is this flowing water moving uphill or downhill across the wooden board? Think fast. Three, two, one. It is rolling downhill. The entire wooden frame is tilted, tricking your brain into thinking the water defies gravity. That was tough. Drop your score in the comments and let us know if...",
-        "shot_plan": [
-          {
-            "subject": "physics illusion quiz graphic and puzzle intro",
-            "queries": [
-              {
-                "q": "physics illusion",
-                "must": [
-                  "physics"
-                ]
-              },
-              {
-                "q": "optical illusion",
-                "must": [
-                  "illusion"
-                ]
-              },
-              {
-                "q": "puzzle challenge",
-                "must": [
-                  "puzzle"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "wooden ball rolling on tracks",
-            "queries": [
-              {
-                "q": "wooden ball rolling",
-                "must": [
-                  "ball"
-                ]
-              },
-              {
-                "q": "ball track",
-                "must": [
-                  "track"
-                ]
-              },
-              {
-                "q": "rolling sphere",
-                "must": [
-                  "sphere"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "wooden ball rolling downhill on diverging tracks",
-            "queries": [
-              {
-                "q": "ball rolling downhill",
-                "must": [
-                  "downhill"
-                ]
-              },
-              {
-                "q": "wooden tracks",
-                "must": [
-                  "wood"
-                ]
-              },
-              {
-                "q": "gravity physics track",
-                "must": [
-                  "gravity"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "heavy steel cylinder on metal rails",
-            "queries": [
-              {
-                "q": "steel cylinder metal rails",
-                "must": [
-                  "cylinder"
-                ]
-              },
-              {
-                "q": "metal rails",
-                "must": [
-                  "rails"
-                ]
-              },
-              {
-                "q": "rolling cylinder",
-                "must": [
-                  "metal"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "steel cylinder moving uphill on rails",
-            "queries": [
-              {
-                "q": "cylinder going uphill",
-                "must": [
-                  "uphill"
-                ]
-              },
-              {
-                "q": "metal rail physics",
-                "must": [
-                  "rails"
-                ]
-              },
-              {
-                "q": "cylinder rolling",
-                "must": [
-                  "cylinder"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "flowing water on a tilted wooden board",
-            "queries": [
-              {
-                "q": "flowing water wooden board",
-                "must": [
-                  "water"
-                ]
-              },
-              {
-                "q": "water puzzle board",
-                "must": [
-                  "board"
-                ]
-              },
-              {
-                "q": "water stream wood",
-                "must": [
-                  "stream"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "water flowing downhill on tilted wooden frame",
-            "queries": [
-              {
-                "q": "water flowing downhill",
-                "must": [
-                  "downhill"
-                ]
-              },
-              {
-                "q": "water stream physics",
-                "must": [
-                  "water"
-                ]
-              },
-              {
-                "q": "tilted wooden board",
-                "must": [
-                  "wood"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "comments section score prompt graphic",
-            "queries": [
-              {
-                "q": "comment score",
-                "must": [
-                  "comment"
-                ]
-              },
-              {
-                "q": "score screen",
-                "must": [
-                  "score"
-                ]
-              },
-              {
-                "q": "social media comments",
-                "must": [
-                  "social"
-                ]
-              }
-            ]
-          }
-        ],
-        "broll": [
-          "physics puzzle",
-          "optical illusion",
-          "rolling ball"
-        ],
-        "visual_style": "Viewers expect fast-paced, highly visual physics puzzles featuring rolling objects, optical illusions, and clear challenge prompts in vertical format.",
-        "visual_refs": [
-          "10 Mind Blowing Optical Illusions",
-          "An illusion image that can tests you are stressed or not... #everyminute #health",
-          "Only 7% of people can see this illusion",
-          "This Optical Illusion Will Trick Your Mind",
-          "Can You Trust Your Ears? (Audio Illusions)",
-          "Most Mind-Blowing Illusions #shorts #illusion"
-        ],
-        "voice": "gTTS",
-        "visual_report": {
-          "shots": 9,
-          "checked": 4,
-          "unchecked": 0,
-          "filler": 6,
-          "ai": 0
-        }
-      },
-      "credits": [
-        "Voiceover: AI-generated voice (Google Text-to-Speech).",
-        "Stock footage/photos (Pexels/Pixabay Content License): choxyltd (Pixabay) https://pixabay.com/videos/id-223625/; 44276297 (Pixabay) https://pixabay.com/videos/id-217293/; BayBank (Pixabay) https://pixabay.com/videos/id-324247/"
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-12",
-        "name": "2026-10-12-2-2-v0.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-12",
-        "name": "2026-10-12-2-2-v0-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,150 --> 00:00:02,672\nOnly a few people get all three\n\n2\n00:00:02,672 --> 00:00:05,259\nright, so let us test your brain\n\n3\n00:00:05,259 --> 00:00:08,234\nwith three fast-paced physics illusions.\n\n4\n00:00:08,234 --> 00:00:09,722\nUphill or downhill?\n\n5\n00:00:09,722 --> 00:00:10,045\nQ1.\n\n6\n00:00:10,045 --> 00:00:12,956\nIs this wooden ball rolling uphill or\n\n7\n00:00:12,956 --> 00:00:13,667\ndownhill?\n\n8\n00:00:13,667 --> 00:00:16,448\nLook closely at the tracks and make\n\n9\n00:00:16,448 --> 00:00:17,418\nyour choice.\n\n10\n00:00:17,418 --> 00:00:18,712\nThree, two, one.\n\n11\n00:00:18,712 --> 00:00:21,169\nIt is actually rolling downhill.\n\n12\n00:00:21,169 --> 00:00:24,274\nEven though the tracks spread apart, the\n\n13\n00:00:24,274 --> 00:00:27,378\nactual center of gravity drops lower the\n\n14\n00:00:27,378 --> 00:00:28,672\nfurther it goes.\n\n15\n00:00:28,672 --> 00:00:28,995\nQ2.\n\n16\n00:00:28,995 --> 00:00:32,229\nDoes this heavy steel cylinder roll uphill\n\n17\n00:00:32,229 --> 00:00:34,816\nor downhill on these metal rails?\n\n18\n00:00:34,816 --> 00:00:37,726\nTrust your eyes and decide right now.\n\n19\n00:00:37,726 --> 00:00:39,020\nThree, two, one.\n\n20\n00:00:39,020 --> 00:00:40,572\nIt is going uphill.\n\n21\n00:00:40,572 --> 00:00:43,482\nThe rails widen and slope upward, but\n\n22\n00:00:43,482 --> 00:00:46,457\nthe cylinder's low center of mass lets\n\n23\n00:00:46,457 --> 00:00:49,044\nit climb against our expectations.\n\n24\n00:00:49,044 --> 00:00:49,368\nQ3.\n\n25\n00:00:49,368 --> 00:00:51,308\nHere is the hardest one.\n\n26\n00:00:51,308 --> 00:00:54,283\nIs this flowing water moving uphill or\n\n27\n00:00:54,283 --> 00:00:56,805\ndownhill across the wooden board?\n\n28\n00:00:56,805 --> 00:00:57,711\nThink fast.\n\n29\n00:00:57,711 --> 00:00:59,004\nThree, two, one.\n\n30\n00:00:59,004 --> 00:01:00,815\nIt is rolling downhill.\n\n31\n00:01:00,815 --> 00:01:04,113\nThe entire wooden frame is tilted, tricking\n\n32\n00:01:04,113 --> 00:01:07,283\nyour brain into thinking the water defies\n\n33\n00:01:07,283 --> 00:01:07,929\ngravity.\n\n34\n00:01:07,929 --> 00:01:09,158\nThat was tough.\n\n35\n00:01:09,158 --> 00:01:11,939\nDrop your score in the comments and\n\n36\n00:01:11,939 --> 00:01:13,717\nlet us know if...\n",
-      "tg_msg": 330,
-      "opts_msg": 332,
-      "approved_by": "auto",
-      "quota_note": "2026-10-14",
-      "description_full": "Test your brain with three fast-paced physics illusions where rolling objects seem to defy gravity. Can you get all three right before the timer runs out?\n\n#shorts #science #physics #quiz\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Google Text-to-Speech).\nStock footage/photos (Pexels/Pixabay Content License): choxyltd (Pixabay) https://pixabay.com/videos/id-223625/; 44276297 (Pixabay) https://pixabay.com/videos/id-217293/; BayBank (Pixabay) https://pixabay.com/videos/id-324247/\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/BBkpO9DoDg8",
-          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-14T09:01:14.641790+00:00",
-      "slot": "2026-10-14T16:15:00+00:00"
     },
     "2026-10-12-2-3": {
       "topic": {
@@ -11400,9 +9906,9 @@
         "trend_source": "Why Do Golfers Pour Sand After Every Shot? (25.5x, The Question); Who has the BEST MODEL FACE (8.4x, The Superlative)",
         "plan_id": "P2026-10-18-04"
       },
-      "status": "approved",
+      "status": "published",
       "by": "auto",
-      "updated": "2026-10-18T22:09:56.888445+00:00",
+      "updated": "2026-10-20T10:09:42.293672+00:00",
       "redos": 0,
       "package": {
         "primary_keyword": "biggest desert in the world",
@@ -11732,7 +10238,28 @@
       "tg_msg": 518,
       "opts_msg": 520,
       "approved_by": "auto",
-      "quota_note": "2026-10-20"
+      "quota_note": "2026-10-20",
+      "description_full": "What is the biggest desert in the world? It isn't the Sahara: here are the top 5 biggest deserts on Earth, and the largest desert, Antarctica, is freezing.\n\nIn this Short: a countdown of the five largest deserts by area, from the Gobi and the Arabian Desert to the Sahara, the Arctic and Antarctica.\n\nSources:\nhttps://www.worldatlas.com/articles/10-largest-deserts-in-the-world.html\nhttps://www.antarctica.gov.au/about-antarctica/weather-and-climate/weather/\n\n#shorts #geography #desert #top5\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AvaMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-329116/; spalla67 (Pixabay) https://pixabay.com/videos/id-53906/; santosjesus90 (Pixabay) https://pixabay.com/videos/id-185273/; Berkopasa19 (Pixabay) https://pixabay.com/videos/id-377552/; antonlukin (Pixabay) https://pixabay.com/videos/id-284568/; KarenRaven (Pixabay) https://pixabay.com/videos/id-326869/; antonlukin (Pixabay) https://pixabay.com/videos/id-284566/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-311900/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-338846/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-289849/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-369879/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-302381/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-276927/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-291733/; Afzaal0001 (Pixabay) https://pixabay.com/videos/id-230003/; TungArt7 (Pixabay) https://pixabay.com/videos/id-213424/; Afzaal0001 (Pixabay) https://pixabay.com/videos/id-213351/; kastaniubrunn (Pixabay) https://pixabay.com/videos/id-47614/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-367638/\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/IGf26egrEOw",
+          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-10-20T10:09:42.293691+00:00",
+      "slot": "2026-10-20T16:15:00+00:00"
     },
     "2026-10-18-6": {
       "topic": {
@@ -11744,9 +10271,9 @@
         "virality_score": 9.5,
         "why": "High visual comedy drives strong completion rates; viewers immediately rewatch the funniest clips and debate in the comments about red pandas and giraffes."
       },
-      "status": "approved",
+      "status": "published",
       "by": "auto",
-      "updated": "2026-10-18T22:15:40.558468+00:00",
+      "updated": "2026-10-20T10:09:50.606599+00:00",
       "redos": 0,
       "package": {
         "primary_keyword": "animals terrible at fighting",
@@ -12077,7 +10604,28 @@
       "tg_msg": 521,
       "opts_msg": 523,
       "approved_by": "auto",
-      "quota_note": "2026-10-20"
+      "quota_note": "2026-10-20",
+      "description_full": "Discover the top 5 animals terrible at fighting whose brawls look like awkward hugs.\nFrom slap-fighting marmots to slow-motion sloths, these funny animal fights will make your day.\n\n#shorts #animals #funnyanimals #top5 #funny\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-AU-WilliamMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): Eaktas06 (Pixabay) https://pixabay.com/videos/id-110806/; Zethian (Pixabay) https://pixabay.com/videos/id-27400/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-327059/; Yocchi09 (Pixabay) https://pixabay.com/videos/id-367162/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-326962/; md579 (Pixabay) https://pixabay.com/videos/id-80024/; hbieser (Pixabay) https://pixabay.com/videos/id-245673/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-327056/; Alexas_Fotos (Pixabay) https://pixabay.com/videos/id-279940/; Alexas_Fotos (Pixabay) https://pixabay.com/videos/id-279905/; Alexas_Fotos (Pixabay) https://pixabay.com/videos/id-279691/\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/-s_IC198uJA",
+          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-10-20T10:09:50.606615+00:00",
+      "slot": "2026-10-20T19:15:00+00:00"
     },
     "2026-10-19-1": {
       "topic": {
@@ -12089,9 +10637,9 @@
         "trend_source": "Funniest Relatable Moments | Rank Villa (182.4x, Unclassified - a ranking); I Made Soap Noodles For My Boyfriend! (97.3x, Unclassified - looks like one thing, is another); Realistic snake scale chain transformation (77.2x, Unclassified - visual transformation)",
         "plan_id": "P2026-10-19-01"
       },
-      "status": "approved",
+      "status": "published",
       "by": "auto",
-      "updated": "2026-10-19T21:27:32.823153+00:00",
+      "updated": "2026-10-20T10:09:59.421078+00:00",
       "redos": 0,
       "package": {
         "primary_keyword": "places that look photoshopped",
@@ -12424,7 +10972,28 @@
       "tg_msg": 542,
       "opts_msg": 544,
       "approved_by": "auto",
-      "quota_note": "2026-10-20"
+      "quota_note": "2026-10-20",
+      "description_full": "These are five real places that look photoshopped: Lake Hillier the pink lake, Ca\u00f1o Cristales the river of five colors, the Giant's Causeway, the Zhangye rainbow mountains and Salar de Uyuni, the salt flat mirror. They look fake, but every one is a real place on Earth.\n\nIn this Short: why each place looks unreal, counting down to the salt flat that turns into a mirror.\n\nSources:\nhttps://en.wikipedia.org/wiki/Giant%27s_Causeway\nhttps://www.worldatlas.com/articles/why-is-lake-hillier-pink.html\nhttps://www.discovery.com/exploration/salar-de-uyuni-is-the-world-s-largest-natural-mirror\n\n#shorts #nature #travel #top5\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-EmmaMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): antonlukin (Pixabay) https://pixabay.com/videos/id-128689/; antonlukin (Pixabay) https://pixabay.com/videos/id-128114/; antonlukin (Pixabay) https://pixabay.com/videos/id-128192/; hhach (Pixabay) https://pixabay.com/photos/northern-ireland-giants-causeway-3801174/; falco (Pixabay) https://pixabay.com/photos/giants-causeway-northern-ireland-1182945/; MonicaVolpin (Pixabay) https://pixabay.com/photos/giants-causeway-basalt-columns-7227160/; ucuzucuyorum (Pixabay) https://pixabay.com/videos/id-132691/; ChristianBodhi (Pixabay) https://pixabay.com/videos/id-108056/; AttilaPergel (Pixabay) https://pixabay.com/videos/id-225408/; Osckar (Pixabay) https://pixabay.com/videos/id-1613/; MAdrian78 (Pixabay) https://pixabay.com/videos/id-371424/\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/dK85Mmhek4c",
+          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-10-20T10:09:59.421095+00:00",
+      "slot": "2026-10-20T23:15:00+00:00"
     },
     "2026-10-19-2": {
       "topic": {
@@ -12436,9 +11005,9 @@
         "trend_source": "Funniest Relatable Moments | Rank Villa (182.4x, Unclassified - a ranking); Real end twist (6.1x, Unclassified - payoff saved for the end)",
         "plan_id": "P2026-10-19-02"
       },
-      "status": "approved",
+      "status": "published",
       "by": "auto",
-      "updated": "2026-10-19T21:36:49.964604+00:00",
+      "updated": "2026-10-20T10:10:06.801560+00:00",
       "redos": 0,
       "package": {
         "primary_keyword": "funniest real museums",
@@ -12808,7 +11377,28 @@
       "tg_msg": 545,
       "opts_msg": 547,
       "approved_by": "auto",
-      "quota_note": "2026-10-20"
+      "quota_note": "2026-10-20",
+      "description_full": "These are the five funniest real museums: a pencil sharpener museum, the National Mustard Museum, the SPAM Museum, a toilet museum and the Museum of Bad Art. All five weird museums are real, and number one only collects art too bad to be ignored.\n\nIn this Short: five real museums you can look up, counting down to the one that's proud of its worst paintings.\n\nSources:\nhttps://en.wikipedia.org/wiki/Museum_of_Bad_Art\nhttps://en.wikipedia.org/wiki/National_Mustard_Museum\nhttps://en.wikipedia.org/wiki/Pencil_Sharpener_Museum\n\n#shorts #funny #museum #funfacts\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-BrianMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): StockSnap (Pixabay) https://pixabay.com/photos/man-painting-paint-museum-artist-2590655/; AsiaCultureCenter (Pixabay) https://pixabay.com/photos/gwangju-national-asian-culture-center-7642897/; stanbalik (Pixabay) https://pixabay.com/photos/shelf-store-shop-canadian-mustard-4499973/; Expatsiam (Pixabay) https://pixabay.com/videos/id-31960/; aitoff (Pixabay) https://pixabay.com/photos/water-closet-toilet-wc-lavatory-1333454/; Alexas_Fotos (Pixabay) https://pixabay.com/photos/gallery-women-pictures-despair-2932005/; Alexas_Fotos (Pixabay) https://pixabay.com/photos/gallery-pictures-peace-war-2931180/\nK\u00fcrschner ( talk ) 13:32, 24 August 2008 (UTC) / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:Manchester_library_historic_toilet.jpg\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/ytjYpA_knPA",
+          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-10-20T10:10:06.801580+00:00",
+      "slot": "2026-10-21T01:15:00+00:00"
     },
     "2026-10-19-3": {
       "topic": {
