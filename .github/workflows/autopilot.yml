@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
     inputs:
       command:
-        description: "trends | poll | stats | aicheck | test [ranking|story|funny|quiz|tips|explainer]"
+        description: "trends | poll | stats | aicheck | test [ranking|story|funny|quiz|tips|explainer|animated]"
         default: "poll"
 
 permissions:
@@ -67,6 +67,7 @@ jobs:
       FAL_DAILY_BUDGET_USD: ${{ vars.FAL_DAILY_BUDGET_USD }}
       FAL_MAX_CLIPS_PER_VIDEO: ${{ vars.FAL_MAX_CLIPS_PER_VIDEO }}
       FAL_FOR_STORIES: ${{ vars.FAL_FOR_STORIES }}
+      FAL_RESOLUTION: ${{ vars.FAL_RESOLUTION }}
       CLIP_ORIGINAL_AUDIO: ${{ vars.CLIP_ORIGINAL_AUDIO }}
       CLIP_MAX_SECONDS: ${{ vars.CLIP_MAX_SECONDS }}
       GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}

@@ -104,11 +104,11 @@ def _speak(text, mp3, voice, rate):
     return words
 
 
-def voiceover(text, out_dir, voice):
+def voiceover(text, out_dir, voice, target=None):
     """Natural pace (+0..5%). If the read lands far from TARGET_SECONDS, re-read once at an adjusted pace
     (kept within -8%..+10% so it never sounds slowed down or rushed)."""
     mp3 = os.path.join(out_dir, "voice.mp3")
-    target = config.TARGET_SECONDS
+    target = target or config.TARGET_SECONDS
     for v in (voice, config.VOICE):
         try:
             rate = random.randint(0, 5)
@@ -606,19 +606,33 @@ def make_clip_ranking(pkg, out_dir):
     return final, credits
 
 
+ANIMATED_SECONDS = 30
+
+
 def make_video(pkg, out_dir, recent_voices=()):
     """Builds final.mp4. Sets pkg['voice']. Returns (path, credit_lines)."""
     if pkg.get("clip_audio"):
         return make_clip_ranking(pkg, out_dir)
     os.makedirs(out_dir, exist_ok=True)
     voice = pick_voice(list(recent_voices))
-    audio, words, voice_credit = voiceover(pkg["script"], out_dir, voice)
+    target = ANIMATED_SECONDS if pkg.get("format") == "animated" else None  # 3D explainers run ~30 s, brisk
+    audio, words, voice_credit = voiceover(pkg["script"], out_dir, voice, target)
     pkg["voice"] = voice if "Edge" in voice_credit else "gTTS"
     total = duration(audio) + 0.6
     scenes = pkg["scenes"]
     bounds = scene_bounds(scenes, words, total)
     hook = pkg.get("hook_text") or (pkg.get("title", "") if pkg.get("format") == "ranking" else "")
-    ass = subtitles(words, scenes, bounds, hook, os.path.join(out_dir, "captions.ass"))
+    animated = pkg.get("format") == "animated"
+    ass = subtitles(words, scenes, bounds, hook, os.path.join(out_dir, "captions.ass"), group=2 if animated else 3)
+    if animated:  # all-AI 3D video: only start if today's budget covers every scene, else use stock footage
+        from . import aivideo
+        cost = aivideo.estimate([b - a for a, b in bounds])
+        left = config.FAL_DAILY_BUDGET_USD - aivideo.spent_today()
+        if not aivideo.available() or cost > left:
+            print(f"3D animated video needs ~${cost:.2f} of AI clips but only ${max(0, left):.2f} is left today "
+                  f"(or FAL_KEY is missing): using stock footage instead")
+            animated = False
+        pkg["animated_estimate"] = cost
 
     used, credits, parts, plan = set(), [], [], source_plan()
     slots = []  # on-screen time of each part (without the crossfade tail)
@@ -643,7 +657,10 @@ def make_video(pkg, out_dir, recent_voices=()):
             subject = plan_i.get("subject") or scene.get("text", "")[:120]
             want_ai = aivideo.available() and report["ai"] < config.FAL_MAX_CLIPS_PER_VIDEO
             shots = []
-            if want_ai and config.FAL_FOR_STORIES and pkg.get("format") == "story":  # stories: AI first
+            if animated:  # 3D animated explainer: every scene is its own Seedance shot in one fixed style
+                clip = aivideo.generate(aivideo.animated_prompt(scene, pkg), dur, os.path.join(out_dir, f"ai{i}.mp4"))
+                shots = [clip] if clip else []
+            elif want_ai and config.FAL_FOR_STORIES and pkg.get("format") == "story":  # stories: AI first
                 clip = aivideo.generate(aivideo.prompt_for(scene, subject, pkg.get("visual_style", "")), dur,
                                         os.path.join(out_dir, f"ai{i}.mp4"))
                 shots = [clip] if clip else []

@@ -16,7 +16,7 @@ from datetime import timedelta
 
 from . import config, library, llm, media, publish, schedule, state, storage, telegram, trends, visuals, writer
 
-FMT_LETTERS = {"r": "ranking", "s": "story", "f": "funny", "q": "quiz", "t": "tips", "e": "explainer", "c": "clips"}
+FMT_LETTERS = {"r": "ranking", "s": "story", "f": "funny", "q": "quiz", "t": "tips", "e": "explainer", "c": "clips", "a": "animated"}
 MAX_REDOS = 5
 
 
@@ -77,7 +77,7 @@ def cmd_trends(st):
         "• Tap a number below, or type <code>1,3</code>\n"
         "• Change the format by adding a letter: <code>2s</code> = 📖 story, <code>2f</code> = 😂 funny, "
         "<code>2q</code> = ❓ quiz, <code>2r</code> = 🏆 Top 5, <code>2t</code> = 💡 tips, <code>2e</code> = 🔬 explainer, "
-        "<code>2c</code> = 🐐 funny animal clips\n"
+        "<code>2c</code> = 🐐 funny animal clips, <code>2a</code> = 🎬 3D animated\n"
         f"• No reply in {config.SELECT_TIMEOUT_HOURS:g}h → I'll make the top {config.AUTO_PICK_COUNT}.")
     buttons = [[(f"🎬 {i}", f"pick:{bid}:{i - 1}") for i in range(1, len(topics) + 1)],
                [("⏭ Skip today", f"skip:{bid}")]]
@@ -411,7 +411,7 @@ def generate(st, vid):
             scene["clip"] = c
         pkg["visual_style"] = "free stock clips of animals doing funny things, rated by AI"
     try:  # look at the top Shorts on this topic, then plan footage that shows what each line talks about
-        if not found:
+        if not found and pkg.get("format") != "animated":  # 3D animated videos draw every shot with AI instead
             visuals.plan(pkg, v["topic"], visuals.research(v["topic"], st))
     except Exception as e:  # noqa: BLE001
         print("shot planning failed, using the writer's searches:", e)
@@ -602,6 +602,7 @@ SAMPLES = {
     "tips": "Phone tricks most people never use",
     "explainer": "Why octopuses have three hearts",
     "clips": "Ranking the funniest animal moments",
+    "animated": "How ancient Persians kept ice frozen all summer in the desert",
 }
 
 

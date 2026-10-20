@@ -134,6 +134,24 @@ def generate(prompt, seconds, out_path):
         return None
 
 
+ANIMATED_STYLE = ("Vertical 9:16 educational 3D animated explainer shot. Stylized clay-like 3D render with soft global "
+                  "illumination, warm saturated colors, clean simple shapes, smooth confident camera moves, clear "
+                  "cutaway cross-section views when showing how something works inside. Family-friendly. No text, "
+                  "captions, subtitles, numbers, watermarks, logos, brand names or real people.")
+
+
+def animated_prompt(scene, pkg):
+    """One shot of a 3D animated explainer. Every shot repeats the same style block so the video looks like one piece."""
+    shot = str(scene.get("shot") or scene.get("image_prompt") or scene.get("text", "")).strip()
+    return (f"{ANIMATED_STYLE} Topic: {pkg.get('title', '')[:90]}. Shot: {shot[:600]} "
+            f"(this shot illustrates the line: \"{scene.get('text', '')[:200]}\").")
+
+
+def estimate(durations, model=None):
+    """USD for one AI clip per scene of these lengths (each rounded up to what the model will bill)."""
+    return round(sum(_seconds_option(d, model) for d in durations) * price_per_second(model), 2)
+
+
 def prompt_for(scene, subject, style=""):
     """A literal, filmable description of the shot (Veo and Seedance follow plain visual descriptions best)."""
     return (f"Vertical 9:16 realistic video. {subject}. Context: {scene.get('text', '')[:220]} "

@@ -1,6 +1,7 @@
 """Scripts + metadata for six Shorts formats, tuned for retention and YouTube policy.
 
-Formats: ranking, story, funny, quiz, tips, explainer, clips (funny animal clips ranking).
+Formats: ranking, story, funny, quiz, tips, explainer, clips (funny animal clips ranking),
+animated (30-second "how it works" explainer drawn entirely as 3D animation by Seedance on fal.ai).
 Each scene may carry on-screen overlays:
   badge  - big text at top ("#5", "Q1", "✓", "TIP 2")
   label  - smaller text under the badge (item name, question, answer)
@@ -18,6 +19,7 @@ FORMATS = {
     "tips": {"emoji": "💡", "name": "Quick tips", "category": "26", "tag": "#lifehacks"},
     "explainer": {"emoji": "🔬", "name": "Explainer", "category": "27", "tag": "#didyouknow"},
     "clips": {"emoji": "🐐", "name": "Funny animal clips ranking", "category": "15", "tag": "#funnyanimals"},
+    "animated": {"emoji": "🎬", "name": "3D animated explainer", "category": "27", "tag": "#howitworks"},
 }
 
 
@@ -118,6 +120,12 @@ Intro: a hook that promises the funniest moment at number one. Ranked scenes: st
 observation, exaggerated comparison or deadpan aside, then a punchline. badge "#5" ... "#1"; label = a funny
 2-4 word name for the moment ("The Belly Flop"). Outro: ask which one made them laugh most.
 Title starts with "Ranking the" or "Top 5". Kind humor: laugh WITH the animals, never at their pain.""",
+    "animated": """FORMAT: 3D animated "how it works" explainer, about 30 seconds (70-85 spoken words).
+7-10 scenes of 2-4 seconds each, one step of the mechanism or story per scene, in order. Line 1 states the
+surprising fact or question; the rest walks through HOW it works, step by step, ending on the payoff and
+flowing back into line 1. No badges; labels empty. For EVERY scene also give "shot": one vivid, literal
+description of the 3D animated shot for that beat (subject, action, camera move, cutaway/cross-section view
+when the inside matters). Shots must be drawable without text, logos or real people.""",
     "explainer": """FORMAT: curiosity explainer.
 6-9 scenes: a surprising question or fact, then a clear explanation building to an "aha" payoff.
 Badges/labels optional: use label for one key number or term on screen when it helps.""",
@@ -126,7 +134,7 @@ Badges/labels optional: use label for one key number or term on screen when it h
 
 def write_package(topic):
     """Writes the package and re-asks (max 2 times) until the narration is close to TARGET_SECONDS."""
-    want = target_words()
+    want = 78 if fmt_of(topic) == "animated" else target_words()  # 3D animated explainers run ~30 s
     lo, hi = int(want * 0.88), int(want * 1.2)
     pkg, note = None, ""
     for _ in range(3):
@@ -136,7 +144,7 @@ def write_package(topic):
         if lo <= n <= hi:
             break
         note = (f"LENGTH FIX: your last draft was {n} words but it MUST be about {want} words "
-                f"({config.TARGET_SECONDS} seconds). {'Add' if n < lo else 'Cut'} content to fit, keeping the same structure.")
+                f"({round(want / WORDS_PER_SECOND)} seconds). {'Add' if n < lo else 'Cut'} content to fit, keeping the same structure.")
     return pkg
 
 
@@ -155,7 +163,7 @@ Language: {config.LANGUAGE}.
 {('THE CLIPS, in scene order:' + chr(10) + topic['clip_notes']) if topic.get('clip_notes') else ''}
 {FUNNY_TONE if funny else ''}
 
-{RETENTION_RULES.replace('{format_tag}', info['tag'])}
+{RETENTION_RULES.replace('{format_tag}', info['tag']) if fmt != "animated" else RETENTION_RULES.replace('{format_tag}', info['tag']).replace(f"must be {target_words()} spoken words", "must be about 78 spoken words").replace(f"about {config.TARGET_SECONDS} seconds", "about 30 seconds")}
 
 Return JSON:
 {{"primary_keyword": "...", "title": "...", "hook_text": "...", "thumbnail_text": "...", "description": "...", "hashtags": ["#shorts", "...", "...", "{info['tag']}"],
@@ -200,6 +208,7 @@ Hashtags: {row.get('hashtags', '')}
 Tags: {row.get('tags', '')}
 Pinned comment: {row.get('pinned_comment', '')}
 Opening on-screen text for the first 2 seconds (use it as "hook_text"): {row.get('opening_text', '')}
+{'3D shot per beat (copy each into that scene as "shot", in order): ' + row.get('footage', '') if fmt == "animated" else ''}
 Thumbnail brief: {row.get('thumbnail_brief', '')}
 
 {TRUE_STORY if fmt == "story" and row.get('sources') else STRUCTURES[fmt]}
@@ -213,7 +222,7 @@ scene. "primary_keyword": 2-4 words people search. "key_facts": every factual cl
 Return JSON:
 {{"primary_keyword": "...", "title": "...", "hook_text": "...", "thumbnail_text": "...", "description": "...", "hashtags": ["#shorts", "...", "...", "{info['tag']}"],
   "tags": ["..."], "pinned_comment": "...", "scenes": [{{"text": "narration", "badge": "", "label": "",
-  "stock_queries": ["...", "..."], "image_prompt": "..."}}], "key_facts": ["..."]}}"""
+  "stock_queries": ["...", "..."], "image_prompt": "..."{', "shot": "..."' if fmt == "animated" else ''}}}], "key_facts": ["..."]}}"""
     pkg = llm.ask_json(prompt, temperature=0.3)
     if row.get("opening_text"):
         pkg["hook_text"] = "".join(c for c in row["opening_text"] if ord(c) < 0x2100).strip()  # no emoji in rendered text
@@ -224,6 +233,11 @@ Return JSON:
     if fmt == "story" and row.get("sources"):  # researched true story: never label it fiction
         pkg["description"] = pkg.get("description", "").replace("\nThis is an original fictional story.", "").replace(
             "This is an original fictional story.", "").rstrip()
+    if fmt == "animated":  # keep Claude's shot list even if the model dropped or merged some
+        shots = [x.strip() for x in (row.get("footage") or "").split("\n") if x.strip()]
+        for i, s in enumerate(pkg["scenes"]):
+            if not str(s.get("shot") or "").strip() and i < len(shots):
+                s["shot"] = shots[i]
     pkg["script"] = " ".join(s["text"].strip() for s in pkg["scenes"])
     pkg["plan_id"] = row.get("id")
     return pkg

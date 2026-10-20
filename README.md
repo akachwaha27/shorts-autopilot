@@ -247,6 +247,14 @@ Veo 3.1 Lite (`FAL_VIDEO_MODEL=fal-ai/veo3.1/lite`) is about $0.05 per second. L
 `FAL_PRICE_PER_SECOND` (blank = estimated from the model and resolution). Without `FAL_KEY` nothing changes.
 AI clips are credited in the description and uploads are flagged as altered/synthetic content.
 
+## 3D animated explainers (format `animated`)
+
+A ~30-second "how it works" Short drawn entirely as 3D animation: each scene is its own Seedance 2.5 shot in
+one fixed clay-like 3D style (see `ANIMATED_STYLE` in `autopilot/aivideo.py`), with the usual voice, 2-word
+pop-up captions and music. The content plan writes one per day; in Telegram you can also turn any idea into
+one with the letter `a` (e.g. `2a`). It needs `FAL_KEY`; one video costs about $6-8 at 480p, and if the day's
+`FAL_DAILY_BUDGET_USD` (default 10) can't cover every scene the bot makes it with stock footage instead.
+
 ## Telegram commands
 **Daily ideas:** tap a number or type `1,3` (add a format letter, e.g. `2s`). `/now` gets fresh ideas, `/status` lists recent videos, `/help` shows all commands.
 
