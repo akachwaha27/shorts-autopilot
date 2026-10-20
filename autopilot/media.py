@@ -673,7 +673,7 @@ def make_video(pkg, out_dir, recent_voices=()):
                 shots = [clip] if clip else []
             if not shots:
                 shots = visuals.pick(pkg, i, n, out_dir, used)
-            if not shots and want_ai:  # stock has nothing that shows it: generate the shot
+            if not shots and want_ai and not animated:  # stock has nothing that shows it: generate the shot
                 clip = aivideo.generate(aivideo.prompt_for(scene, subject, pkg.get("visual_style", "")), dur,
                                         os.path.join(out_dir, f"ai{i}.mp4"))
                 shots = [clip] if clip else []
