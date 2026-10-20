@@ -243,7 +243,7 @@ Cost: Seedance 2.5 is billed by video tokens (height x width x 24 fps x seconds 
 so about **$0.46 per second at 720p** and about $0.21 at 480p - a 5-second scene is roughly $2.30 at 720p.
 Veo 3.1 Lite (`FAL_VIDEO_MODEL=fal-ai/veo3.1/lite`) is about $0.05 per second. Limits (GitHub Variables):
 `FAL_DAILY_BUDGET_USD` (default 3), `FAL_MAX_CLIPS_PER_VIDEO` (default 6), `FAL_FOR_STORIES` (default true),
-`FAL_VIDEO_MODEL` (default `bytedance/seedance-2.5/us/text-to-video`), `FAL_RESOLUTION` (default `720p`),
+`FAL_VIDEO_MODEL` (default `bytedance/seedance-2.5/us/text-to-video`), `FAL_RESOLUTION` (default `480p`, the cheapest; `720p` is sharper),
 `FAL_PRICE_PER_SECOND` (blank = estimated from the model and resolution). Without `FAL_KEY` nothing changes.
 AI clips are credited in the description and uploads are flagged as altered/synthetic content.
 
