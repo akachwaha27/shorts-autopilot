@@ -11357,7 +11357,7 @@
       "tg_msg": 548,
       "opts_msg": 550,
       "approved_by": "auto",
-      "quota_note": "2026-10-20"
+      "quota_note": "2026-10-21"
     },
     "2026-10-19-4": {
       "topic": {
@@ -11735,7 +11735,7 @@
       "tg_msg": 551,
       "opts_msg": 553,
       "approved_by": "auto",
-      "quota_note": "2026-10-20"
+      "quota_note": "2026-10-21"
     },
     "2026-10-19-2-1": {
       "topic": {
@@ -12079,7 +12079,7 @@
       "tg_msg": 558,
       "opts_msg": 560,
       "approved_by": "auto",
-      "quota_note": "2026-10-20"
+      "quota_note": "2026-10-21"
     },
     "2026-10-19-2-2": {
       "topic": {
@@ -12420,7 +12420,7 @@
       "tg_msg": 561,
       "opts_msg": 563,
       "approved_by": "auto",
-      "quota_note": "2026-10-20"
+      "quota_note": "2026-10-21"
     },
     "2026-10-19-2-3": {
       "topic": {
@@ -12761,7 +12761,7 @@
       "tg_msg": 564,
       "opts_msg": 566,
       "approved_by": "auto",
-      "quota_note": "2026-10-20"
+      "quota_note": "2026-10-21"
     },
     "2026-10-20-1": {
       "topic": {
@@ -12955,7 +12955,7 @@
       "tg_msg": 602,
       "opts_msg": 604,
       "approved_by": "auto",
-      "quota_note": "2026-10-20"
+      "quota_note": "2026-10-21"
     },
     "2026-10-20-2": {
       "topic": {
@@ -13302,7 +13302,7 @@
       "tg_msg": 605,
       "opts_msg": 607,
       "approved_by": "auto",
-      "quota_note": "2026-10-20"
+      "quota_note": "2026-10-21"
     },
     "2026-10-20-3": {
       "topic": {
@@ -13657,7 +13657,7 @@
       "tg_msg": 609,
       "opts_msg": 611,
       "approved_by": "auto",
-      "quota_note": "2026-10-20"
+      "quota_note": "2026-10-21"
     }
   },
   "history": [
@@ -13736,7 +13736,7 @@
       "at": "2026-10-20T18:28:45.469801+00:00"
     }
   },
-  "cleanup_day": "2026-10-20",
+  "cleanup_day": "2026-10-21",
   "recent_voices": [
     "en-US-BrianMultilingualNeural",
     "en-AU-WilliamMultilingualNeural",
