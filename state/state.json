@@ -1,72 +1,6 @@
 {
   "tg_offset": 40455537,
   "batches": {
-    "2026-10-17": {
-      "topics": [
-        {
-          "title": "5 Animal Partners That Make No Sense",
-          "angle": "Today's top outlier, 'The Sweetest Friendship in the World!' at 1830.6x its channel median, shows an odd-couple friendship is the strongest emotional hook in the feed, and a Top 5 countdown of real animal partners gives that pull a faceless, stock-footage shape.",
-          "format": "ranking",
-          "tone": "normal",
-          "virality_score": 8,
-          "trend_source": "The Sweetest Friendship in the World! \ud83c\udf38 #shorts (1830.6x, Unclassified); what would you do? #shorts (14.5x, The Question)",
-          "plan_id": "P2026-10-17-01"
-        },
-        {
-          "title": "Top 5 Foods With Names That Lie \ud83d\ude02",
-          "angle": "Kind, laugh-out-loud comedy is all over today's outliers ('WHEN A KID GETS A NEW CYCLE' at 13.1x, 'what would you do?' at 14.5x, 'Try Not To Laugh Life Hacks' at 2.6x), and a Top 5 of foods whose names lie gives that gag a fact payoff every beat.",
-          "format": "funny",
-          "tone": "funny",
-          "virality_score": 8,
-          "trend_source": "what would you do? #shorts #comedy #funny (14.5x, The Question); WHEN A KID GETS A NEW CYCLE (13.1x); Try Not To Laugh Life Hacks (2.6x)",
-          "plan_id": "P2026-10-17-02"
-        },
-        {
-          "title": "What Color Is the Sun? 3-Second Quiz",
-          "angle": "'what would you do?' (14.5x) and 'How many will we do right?' are both The Question, the only formula today's outliers matched, and a three-second color quiz puts a question the viewer has to answer in every beat.",
-          "format": "quiz",
-          "tone": "normal",
-          "virality_score": 7,
-          "trend_source": "what would you do? #shorts #comedy #funny (14.5x, The Question); How many will we do right? \ud83d\ude33\ud83e\udd23\ud83d\udd25 #shorts (1.4x, The Question)",
-          "plan_id": "P2026-10-17-03"
-        },
-        {
-          "title": "How Popcorn Pops: 135 PSI Inside One Kernel",
-          "angle": "'Didi ke Popcorn khatam ho gaye!' broke out at 8.3x on a popcorn moment, and 'what would you do?' (14.5x) shows a question opener carries; 'why does popcorn pop' answers a question everyone has with a visual slow-motion payoff.",
-          "format": "explainer",
-          "tone": "normal",
-          "virality_score": 6,
-          "trend_source": "Didi ke Popcorn khatam ho gaye! \ud83c\udf7f\ud83d\ude2d Mumma ka jugaad #shorts (8.3x, Unclassified); what would you do? (14.5x, The Question)",
-          "plan_id": "P2026-10-17-04"
-        },
-        {
-          "title": "How a 1943 Accident Became the Slinky",
-          "angle": "Today's outliers reward one surprising everyday moment ('Magical Rubber' at 2.0x, 'WHEN A KID GETS A NEW CYCLE' at 13.1x), and a dropped spring that turns into a toy is that moment, told as a true story with a sold-out payoff.",
-          "format": "story",
-          "tone": "normal",
-          "virality_score": 6,
-          "trend_source": "Magical Rubber \ud83e\ude84\ud83d\ude31 (2.0x); WHEN A KID GETS A NEW CYCLE \ud83d\ude02 (13.1x, The Question)",
-          "plan_id": "P2026-10-17-05"
-        },
-        {
-          "title": "How to Soften Stale Bread: 3 Easy Tricks",
-          "angle": "'Try Not To Laugh Life Hacks' broke out at 2.6x and 'Didi ke Popcorn... Mumma ka jugaad' at 8.3x on a quick kitchen fix, and a three-trick stale-bread rescue is a hack every viewer can try tonight.",
-          "format": "tips",
-          "tone": "normal",
-          "virality_score": 5,
-          "trend_source": "Try Not To Laugh Life Hacks #shorts (2.6x); Didi ke Popcorn khatam ho gaye! Mumma ka jugaad (8.3x)",
-          "plan_id": "P2026-10-17-06"
-        }
-      ],
-      "sent_at": "2026-10-17T16:30:09.652760+00:00",
-      "selected": [
-        0,
-        1,
-        2,
-        3
-      ],
-      "status": "closed"
-    },
     "2026-10-17-2": {
       "topics": [
         {
@@ -397,6 +331,67 @@
       "sent_at": "2026-10-20T18:35:34.309169+00:00",
       "selected": [],
       "status": "closed"
+    },
+    "2026-10-21": {
+      "topics": [
+        {
+          "title": "How 2,000-Year-Old Concrete Seals Cracks",
+          "angle": "Zack D. Films' \"How Electrical Outlets Work\" is pulling about 259,144 views per hour this week (43M views in 3 days) and \"How Plato's Alarm Clock Worked\" about 58,500/h, so a clever-old-mechanism \"How X Works\" with a cross-section payoff is the winning shape.",
+          "format": "animated",
+          "tone": "normal",
+          "virality_score": 8,
+          "trend_source": "title shape of How Electrical Outlets Work (259,144 views/h); also How Plato's Alarm Clock Worked (58,538 views/h)",
+          "plan_id": "P2026-10-21-01"
+        },
+        {
+          "title": "Top 5 Animals That Climb Sheer Walls",
+          "angle": "Today's US Shorts list has \"Cat Climbing On Straight Wall For Her Kittens\" at 16.7x its channel median (18.3M views), and a ranked countdown of animals scaling vertical walls delivers that same one-image impossible-climb payoff five times.",
+          "format": "ranking",
+          "tone": "normal",
+          "virality_score": 7,
+          "trend_source": "Cat Climbing On Straight Wall For Her Kittens (16.7x); Fastest Stationery to cut Paper (49.5x, superlative ranking hook)",
+          "plan_id": "P2026-10-21-02"
+        },
+        {
+          "title": "Dogs Kick Grass After Pooping: 1 Reason",
+          "angle": "Kind, wordless pet comedy dominates today's outliers (133.3x and 17.3x funny Shorts, 16.7x cat on a wall), and a relatable dog habit with a true twist explanation is the faceless, family-friendly version of that.",
+          "format": "funny",
+          "tone": "funny",
+          "virality_score": 8,
+          "trend_source": "She knew exactly where to put them (133.3x); Which one made you laugh? (17.3x); Cat Climbing On Straight Wall For Her Kittens (16.7x)",
+          "plan_id": "P2026-10-21-03"
+        },
+        {
+          "title": "The Bank Built From the Mail in 1916",
+          "angle": "Today's top outliers win on one absurd, instantly visual setup (1,679.8x \"fruit trick\", 49.5x \"Fastest Stationery\"), and \"a town mailed itself a bank\" is that one-image absurdity with a true, sourced payoff.",
+          "format": "story",
+          "tone": "normal",
+          "virality_score": 7,
+          "trend_source": "Haaland Fooled EVERYONE With This Fruit Trick (1,679.8x); Fastest Stationery to cut Paper (49.5x)",
+          "plan_id": "P2026-10-21-04"
+        },
+        {
+          "title": "Can You Beat This 3-Second Heat Quiz?",
+          "angle": "Today's 17.3x \"Which one made you laugh?\" shows a direct question that invites a comment answer still wins, and a 3-second hotter-or-not quiz with a surprising final answer gives every viewer a score to post.",
+          "format": "quiz",
+          "tone": "normal",
+          "virality_score": 7,
+          "trend_source": "Which one made you laugh? (17.3x); Is bar navratri pr ye hua chamatkar (4.8x, The Question)",
+          "plan_id": "P2026-10-21-05"
+        },
+        {
+          "title": "Why the Ocean Is Salty in 60 Seconds",
+          "angle": "Zack D. Films' \"Why\" and \"How\" questions dominate this week (\"How Electrical Outlets Work\" ~259,000 views/h, \"Could You Move Mount Everest To America?\" ~682,000 views/h), and \"why is the ocean salty\" is the same everyday-mystery question kids and adults actually search.",
+          "format": "explainer",
+          "tone": "normal",
+          "virality_score": 6,
+          "trend_source": "Could You Move Mount Everest To America? (682,152 views/h, Zack D. Films); How Electrical Outlets Work (259,144 views/h)",
+          "plan_id": "P2026-10-21-06"
+        }
+      ],
+      "sent_at": "2026-10-21T15:36:22.346017+00:00",
+      "selected": [],
+      "status": "waiting"
     }
   },
   "videos": {
@@ -12341,10 +12336,6 @@
     "The 131-Year-Old Message in a Bottle \ud83c\udf7e"
   ],
   "trend_tries": {
-    "2026-10-18": {
-      "n": 1,
-      "at": "2026-10-18T17:24:29.907365+00:00"
-    },
     "2026-10-19": {
       "n": 2,
       "at": "2026-10-19T19:58:02.271521+00:00"
@@ -12352,6 +12343,10 @@
     "2026-10-20": {
       "n": 2,
       "at": "2026-10-20T18:28:45.469801+00:00"
+    },
+    "2026-10-21": {
+      "n": 1,
+      "at": "2026-10-21T15:36:21.723257+00:00"
     }
   },
   "cleanup_day": "2026-10-21",
@@ -12365,5 +12360,5 @@
   "visual_searches": {
     "2026-10-20": 5
   },
-  "signals_day": "2026-10-20"
+  "signals_day": "2026-10-21"
 }
