@@ -1,67 +1,6 @@
 {
   "tg_offset": 40455537,
   "batches": {
-    "2026-10-17-2": {
-      "topics": [
-        {
-          "title": "Top 5 Animals That Are Certified Pickpockets \ud83e\udd9d",
-          "angle": "A comedic countdown of the five most notorious animal thieves on Earth caught red-handed snatching sunglasses, wallets, and whole snacks from unsuspecting tourists.",
-          "format": "ranking",
-          "tone": "funny",
-          "trend_source": "YouTube Shorts animal mischief & comedy trends",
-          "virality_score": 9.3,
-          "why": "Hilarious stock-clip friendly animal behavior creates instant watch time, high rewatch loops, and heavy comment section tagging of friends who act like food thieves."
-        },
-        {
-          "title": "Why Bullet Trains Are Shaped Like a Kingfisher \ud83d\ude84",
-          "angle": "How Japanese rail engineers solved the deafening sonic booms of high-speed trains exploding out of tunnels by copying the precise aerodynamic beak of a diving river bird.",
-          "format": "explainer",
-          "tone": "normal",
-          "trend_source": "YouTube Trending tech breakdowns & engineering fascinations",
-          "virality_score": 9.1,
-          "why": "Biomimicry creates high visual curiosity in the opening 2 seconds, delivering a satisfying STEM 'aha' moment that earns massive saves and shares."
-        },
-        {
-          "title": "The Awkward Physics of the Courtesy Jog \ud83c\udfc3\u200d\u2642\ufe0f",
-          "angle": "Breaking down the absurd, universal panic humans experience when a stranger holds a door open from 40 feet away, forcing an involuntary half-jog shuffle.",
-          "format": "funny",
-          "tone": "funny",
-          "trend_source": "Evergreen relatable human quirks & behavioral comedy",
-          "virality_score": 8.8,
-          "why": "Extreme relatability fuels immediate swipe-stopping recognition and drives hundreds of comments from viewers admitting they do this every single week."
-        },
-        {
-          "title": "Top 5 Highest Altitude Stadiums on Earth \u26bd",
-          "angle": "Ranking the five most extreme mountain-top sports arenas on the planet where visiting teams literally require oxygen tanks on the sidelines just to finish the game.",
-          "format": "ranking",
-          "tone": "normal",
-          "trend_source": "[Google Trends] Barca, Bayern Munich & international football match buzz",
-          "virality_score": 8.6,
-          "why": "Sports trivia combined with extreme geography triggers strong debate among soccer and sports fans over the unfair home-field advantage of high-altitude pitches."
-        },
-        {
-          "title": "Real Animal or Made Up? 3-Second Creature Quiz \ud83e\udd8e",
-          "angle": "A fast-paced interactive challenge testing whether viewers can tell absurd, real-life creatures from completely fabricated animal names before the 3-second buzzer.",
-          "format": "quiz",
-          "tone": "normal",
-          "trend_source": "YouTube Shorts interactive trivia & oddity trends",
-          "virality_score": 8.4,
-          "why": "Interactive gamification forces completion rate as viewers play along, and the rapid pace encourages leaving comments bragging about scoring 3 out of 3."
-        },
-        {
-          "title": "3 Food Science Hacks to Keep Groceries Fresh Longer \ud83e\udd66",
-          "angle": "Three actionable, chemistry-backed produce hacks that double the shelf life of berries, herbs, and greens by manipulating moisture and ethylene gas.",
-          "format": "tips",
-          "tone": "normal",
-          "trend_source": "[Google Trends] Ina Garten & seasonal fall meal prep searches",
-          "virality_score": 8.2,
-          "why": "Grocery waste is an active pain point for American households; practical kitchen hacks generate high bookmark and share ratios."
-        }
-      ],
-      "sent_at": "2026-10-17T17:15:00.323226+00:00",
-      "selected": [],
-      "status": "closed"
-    },
     "2026-10-18": {
       "topics": [
         {
@@ -390,6 +329,49 @@
         }
       ],
       "sent_at": "2026-10-21T15:36:22.346017+00:00",
+      "selected": [],
+      "status": "waiting"
+    },
+    "2026-10-21-2": {
+      "topics": [
+        {
+          "title": "Top 5 Animals That Completely Forgot How to Fly",
+          "angle": "Ranking birds that traded the sky for absolute chaos on the ground, delivering hilarious physical comedy.",
+          "format": "ranking",
+          "tone": "funny",
+          "trend_source": "YouTube Trending Animal/Gaming comedy trends",
+          "virality_score": 9,
+          "why": "Combines a top 5 ranking format with wholesome, funny animal visuals that drive high completion and replay rates."
+        },
+        {
+          "title": "Top 5 Worst Design Fails in Ancient Castles",
+          "angle": "Ranking medieval architectural blunders that would never pass modern building inspections.",
+          "format": "ranking",
+          "tone": "funny",
+          "trend_source": "Google Trends historical curiosity patterns",
+          "virality_score": 8,
+          "why": "Humorous historical commentary keeps retention high through clever pacing and relatable design frustrations."
+        },
+        {
+          "title": "Why Modern Skyscrapers Are Built Like Giant Tuning Forks",
+          "angle": "Explaining the hidden giant pendulums swinging inside supertall skyscrapers to keep them from snapping in the wind.",
+          "format": "explainer",
+          "tone": "normal",
+          "trend_source": "Google Trends architecture and structural engineering interest",
+          "virality_score": 7,
+          "why": "Mind-blowing real-world engineering facts capture immediate curiosity within the first two seconds."
+        },
+        {
+          "title": "The Mystery of the Town That Got Lost in the Mail",
+          "angle": "A short storytelling narrative about a cartography typo that accidentally put a ghost town on thousands of official maps.",
+          "format": "story",
+          "tone": "normal",
+          "trend_source": "Evergreen mystery curiosity",
+          "virality_score": 7,
+          "why": "A quirky narrative structure hooks viewers instantly and maintains a steady tension until the final punchline."
+        }
+      ],
+      "sent_at": "2026-10-21T18:41:11.690753+00:00",
       "selected": [],
       "status": "waiting"
     }
@@ -12345,8 +12327,8 @@
       "at": "2026-10-20T18:28:45.469801+00:00"
     },
     "2026-10-21": {
-      "n": 1,
-      "at": "2026-10-21T15:36:21.723257+00:00"
+      "n": 2,
+      "at": "2026-10-21T18:40:25.898636+00:00"
     }
   },
   "cleanup_day": "2026-10-21",

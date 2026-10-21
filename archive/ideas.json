@@ -1804,5 +1804,56 @@
   ],
   "sent_at": "2026-10-21T15:36:22.346017+00:00",
   "status": "waiting"
+ },
+ "2026-10-21-2": {
+  "date": "2026-10-21-2",
+  "ideas": [
+   {
+    "angle": "Ranking birds that traded the sky for absolute chaos on the ground, delivering hilarious physical comedy.",
+    "format": "ranking",
+    "picked": false,
+    "rank": 1,
+    "title": "Top 5 Animals That Completely Forgot How to Fly",
+    "trend_source": "YouTube Trending Animal/Gaming comedy trends",
+    "video_id": null,
+    "virality_score": 9,
+    "why": "Combines a top 5 ranking format with wholesome, funny animal visuals that drive high completion and replay rates."
+   },
+   {
+    "angle": "Ranking medieval architectural blunders that would never pass modern building inspections.",
+    "format": "ranking",
+    "picked": false,
+    "rank": 2,
+    "title": "Top 5 Worst Design Fails in Ancient Castles",
+    "trend_source": "Google Trends historical curiosity patterns",
+    "video_id": null,
+    "virality_score": 8,
+    "why": "Humorous historical commentary keeps retention high through clever pacing and relatable design frustrations."
+   },
+   {
+    "angle": "Explaining the hidden giant pendulums swinging inside supertall skyscrapers to keep them from snapping in the wind.",
+    "format": "explainer",
+    "picked": false,
+    "rank": 3,
+    "title": "Why Modern Skyscrapers Are Built Like Giant Tuning Forks",
+    "trend_source": "Google Trends architecture and structural engineering interest",
+    "video_id": null,
+    "virality_score": 7,
+    "why": "Mind-blowing real-world engineering facts capture immediate curiosity within the first two seconds."
+   },
+   {
+    "angle": "A short storytelling narrative about a cartography typo that accidentally put a ghost town on thousands of official maps.",
+    "format": "story",
+    "picked": false,
+    "rank": 4,
+    "title": "The Mystery of the Town That Got Lost in the Mail",
+    "trend_source": "Evergreen mystery curiosity",
+    "video_id": null,
+    "virality_score": 7,
+    "why": "A quirky narrative structure hooks viewers instantly and maintains a steady tension until the final punchline."
+   }
+  ],
+  "sent_at": "2026-10-21T18:41:11.690753+00:00",
+  "status": "waiting"
  }
 }
