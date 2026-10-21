@@ -329,8 +329,13 @@
         }
       ],
       "sent_at": "2026-10-21T15:36:22.346017+00:00",
-      "selected": [],
-      "status": "waiting"
+      "selected": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "status": "closed"
     },
     "2026-10-21-2": {
       "topics": [
@@ -12253,13 +12258,1231 @@
       "opts_msg": 611,
       "approved_by": "auto",
       "quota_note": "2026-10-21"
+    },
+    "2026-10-21-1": {
+      "topic": {
+        "title": "How 2,000-Year-Old Concrete Seals Cracks",
+        "angle": "Zack D. Films' \"How Electrical Outlets Work\" is pulling about 259,144 views per hour this week (43M views in 3 days) and \"How Plato's Alarm Clock Worked\" about 58,500/h, so a clever-old-mechanism \"How X Works\" with a cross-section payoff is the winning shape.",
+        "format": "animated",
+        "tone": "normal",
+        "virality_score": 8,
+        "trend_source": "title shape of How Electrical Outlets Work (259,144 views/h); also How Plato's Alarm Clock Worked (58,538 views/h)",
+        "plan_id": "P2026-10-21-01"
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-21T19:45:12.138735+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "roman concrete",
+        "title": "How 2,000-Year-Old Concrete Seals Cracks",
+        "hook_text": "2,000-YEAR-OLD SELF-REPAIR",
+        "thumbnail_text": "NO REPAIRS NEEDED",
+        "description": "Ancient Roman concrete was self-healing concrete, and here's how Roman concrete works. Hot-mixed quicklime left white lime lumps inside, and when a crack hits one, water turns the lime back into stone and seals it.\n\nIn this Short: the hot-mixing trick, the white lumps everyone thought were mistakes, and how a crack seals itself in about two weeks.\n\nSources:\nhttps://www.sci.news/archaeology/ancient-roman-concrete-mystery-11553.html\nhttps://www.dezeen.com/2023/01/17/self-healing-roman-concrete-mit-harvard/amp/\nhttps://www.designboom.com/architecture/ancient-roman-concrete-durable-mit-self-healing-abilities-01-09-2023/",
+        "hashtags": [
+          "#shorts",
+          "#history",
+          "#engineering",
+          "#howitworks"
+        ],
+        "tags": [
+          "roman concrete",
+          "self-healing concrete",
+          "ancient roman concrete",
+          "roman concrete hot mixing",
+          "roman concrete self healing",
+          "roman concrete explained",
+          "was roman concrete better",
+          "how roman concrete was made",
+          "how roman concrete works",
+          "mit roman concrete study",
+          "ancient roman cement",
+          "roman concrete recipe",
+          "roman concrete secret",
+          "roman empire concrete",
+          "how the romans made concrete",
+          "why roman concrete is so strong",
+          "hot mixing quicklime",
+          "3d animation explained",
+          "roman cement"
+        ],
+        "pinned_comment": "Bonus fact: the samples in the study came from the city wall of Privernum, an ancient city near Rome. What ancient invention should we animate next?",
+        "visual_bible": "A cohesive stylized 3D animation juxtaposing modern cool-gray concrete sidewalk slabs with warm, sunlit sand-colored ancient Roman mortar walls featuring chalky white lime clasts and clear cross-section cutaways under soft cinematic sunlight.",
+        "key_facts": [
+          "Roman builders hot-mixed quicklime with volcanic ash and water.",
+          "The intense heat of hot-mixing left small, brittle white lime clasts inside the concrete.",
+          "Historically, researchers assumed these lime clasts were the result of poor or sloppy mixing.",
+          "When cracks propagate through Roman concrete, they naturally travel directly through the weaker lime clasts.",
+          "Infiltrating rainwater dissolves calcium from the exposed lime clasts, forming a calcium-saturated solution.",
+          "The calcium solution recrystallizes into solid calcium carbonate (limestone), sealing the crack.",
+          "Laboratory tests demonstrated these cracks self-healed within approximately two weeks."
+        ],
+        "scenes": [
+          {
+            "text": "Your sidewalk cracks and stays cracked. Roman concrete could fix itself. How?",
+            "badge": "",
+            "label": "SELF-FIXING CONCRETE?",
+            "stock_queries": [
+              "cracked concrete sidewalk",
+              "ancient roman concrete wall"
+            ],
+            "image_prompt": "3D render split perspective showing a modern cracked gray concrete slab next to a towering ancient Roman sandstone concrete wall bathed in warm sunlight, highly detailed texture, cinematic lighting",
+            "shot": "3D animated close-up of a gray modern sidewalk slab splitting with a jagged crack, then the camera pulls back and pans to an old sand-colored Roman stone-and-concrete wall standing beside it in warm sunlight",
+            "stock_query": "cracked concrete sidewalk"
+          },
+          {
+            "text": "Builders mixed hot quicklime into volcanic ash and water.",
+            "badge": "",
+            "label": "Hot lime + ash",
+            "stock_queries": [
+              "mixing mortar trough",
+              "quicklime powder reaction"
+            ],
+            "image_prompt": "3D animated close-up of white quicklime lumps being shoveled into gray volcanic ash and water inside a rustic wooden trough, steam rising dynamically, ancient Roman construction setting",
+            "shot": "3D animated scene in front of the same Roman wall: a wooden trough where a shovel tips glowing white quicklime chunks into gray volcanic ash and water, steam curling up, slow camera push-in",
+            "stock_query": "mixing mortar trough"
+          },
+          {
+            "text": "The heat left tiny white lumps of lime inside.",
+            "badge": "",
+            "label": "Tiny white lumps",
+            "stock_queries": [
+              "concrete cross section cutaway",
+              "porous mineral inclusion"
+            ],
+            "image_prompt": "3D cutaway cross-section of freshly poured concrete, interior glowing warm orange with thermal heat, tiny distinct chalky white lime clasts embedded throughout the aggregate",
+            "shot": "3D cross-section cutaway of the freshly poured wall: the gray concrete interior glows warm orange with heat, and small chalky white lumps form and freeze in place throughout, camera slowly orbits the cutaway",
+            "stock_query": "concrete cross section cutaway"
+          },
+          {
+            "text": "People thought those lumps were sloppy mixing.",
+            "badge": "",
+            "label": "\"A mistake\"?",
+            "stock_queries": [
+              "concrete interior macro",
+              "stone texture flaw"
+            ],
+            "image_prompt": "3D architectural cross-section of cooled gray Roman concrete, focused on small brittle white lime lumps illuminated by a gentle soft glow, clean macro detail",
+            "shot": "3D cutaway of the same wall interior, cooled and gray, with the white lumps highlighted by a soft pulse of light; a question-mark-shaped crack of dust drifts past, camera holds steady",
+            "stock_query": "concrete interior macro"
+          },
+          {
+            "text": "But a crack runs right into a lump.",
+            "badge": "",
+            "label": "Crack hits a lump",
+            "stock_queries": [
+              "hairline crack in concrete",
+              "fracture propagating stone"
+            ],
+            "image_prompt": "3D macro interior view of concrete as a thin dark fracture creeps along and terminates directly inside a chalky white lime inclusion, sharp focus on fracture tip",
+            "shot": "3D cross-section view: a thin dark hairline crack creeps through the wall interior and runs straight into one of the white lumps, camera tracks along the crack tip",
+            "stock_query": "hairline crack in concrete"
+          },
+          {
+            "text": "Rainwater seeps in and dissolves some of the lime.",
+            "badge": "",
+            "label": "Water gets in",
+            "stock_queries": [
+              "water seeping through crack",
+              "mineral dissolving in water"
+            ],
+            "image_prompt": "3D cutaway diagram of translucent blue water seeping down a narrow fissure in concrete, swirling around a white lime lump and turning into a cloudy milky white liquid",
+            "shot": "3D cutaway: blue raindrops land on the wall surface and blue water trickles down into the crack, swirling around the white lump as it slowly dissolves and clouds the water white",
+            "stock_query": "water seeping through crack"
+          },
+          {
+            "text": "That calcium-rich water hardens into stone and seals the crack.",
+            "badge": "",
+            "label": "Crack sealed",
+            "stock_queries": [
+              "calcite crystals forming",
+              "mineral crystallization macro"
+            ],
+            "image_prompt": "3D macro visualization of cloudy mineral solution crystallizing into glittering pale calcite crystals within a concrete fissure, fully bridging and closing the gap",
+            "shot": "3D macro cutaway: the cloudy white water inside the crack crystallizes into glittering pale stone that fills the gap from both sides until the crack disappears, camera slowly pushes in",
+            "stock_query": "calcite crystals forming"
+          },
+          {
+            "text": "In lab tests, cracks like this healed in about two weeks.",
+            "badge": "",
+            "label": "Healed in 2 weeks",
+            "stock_queries": [
+              "scientific laboratory testing",
+              "calendar days passing"
+            ],
+            "image_prompt": "3D render of a concrete sample in a clean modern laboratory lighting setup, split view showing self-healing progression beneath an animated calendar page transition",
+            "shot": "3D animated scene: the same cracked wall section shown in a split view, a small calendar flipping fourteen pages above it while the crack fills in, clean bright lab lighting",
+            "stock_query": "scientific laboratory testing"
+          },
+          {
+            "text": "That's the old Roman trick, while your sidewalk...",
+            "badge": "",
+            "label": "Meanwhile...",
+            "stock_queries": [
+              "broken sidewalk pavement",
+              "damaged asphalt road"
+            ],
+            "image_prompt": "3D wide shot panning from an intact ancient Roman concrete monument in golden sunlight back to a dull, fractured gray modern sidewalk with a permanent open split",
+            "shot": "3D animated wide shot: camera pulls back from the healed Roman wall and pans to the cracked gray sidewalk slab from the first shot, the crack still wide open, ending on the crack",
+            "stock_query": "broken sidewalk pavement"
+          }
+        ],
+        "format": "animated",
+        "tone": "normal",
+        "category": "27",
+        "script": "Your sidewalk cracks and stays cracked. Roman concrete could fix itself. How? Builders mixed hot quicklime into volcanic ash and water. The heat left tiny white lumps of lime inside. People thought those lumps were sloppy mixing. But a crack runs right into a lump. Rainwater seeps in and dissolves some of the lime. That calcium-rich water hardens into stone and seals the crack. In lab tests, cracks like this healed in about two weeks. That's the old Roman trick, while your sidewalk...",
+        "plan_id": "P2026-10-21-01",
+        "voice": "en-AU-WilliamMultilingualNeural",
+        "animated_estimate": 0.54,
+        "visual_report": {
+          "shots": 9,
+          "checked": 9,
+          "unchecked": 0,
+          "filler": 6,
+          "ai": 0
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-AU-WilliamMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): TaniaRose (Pixabay) https://pixabay.com/photos/crack-concrete-break-broken-3364707/; KIMDAEJEUNG (Pixabay) https://pixabay.com/videos/id-185461/",
+        "Achim Hering / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:Secondary_efflorescence_2_of_2.jpg"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-21",
+        "name": "2026-10-21-1-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-21",
+        "name": "2026-10-21-1-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,050 --> 00:00:02,680\nYour sidewalk cracks and stays cracked Roman\n\n2\n00:00:02,680 --> 00:00:05,702\nconcrete could fix itself How Builders mixed\n\n3\n00:00:05,702 --> 00:00:08,159\nhot quicklime into volcanic ash and water\n\n4\n00:00:08,159 --> 00:00:09,670\nThe heat left tiny white lumps of\n\n5\n00:00:09,670 --> 00:00:11,974\nlime inside People thought those lumps were\n\n6\n00:00:11,974 --> 00:00:14,202\nsloppy mixing But a crack runs right\n\n7\n00:00:14,202 --> 00:00:16,289\ninto a lump Rainwater seeps in and\n\n8\n00:00:16,289 --> 00:00:18,528\ndissolves some of the lime That calcium-rich\n\n9\n00:00:18,528 --> 00:00:20,474\nwater hardens into stone and seals the\n\n10\n00:00:20,474 --> 00:00:22,778\ncrack In lab tests cracks like this\n\n11\n00:00:22,778 --> 00:00:24,767\nhealed in about two weeks That's the\n\n12\n00:00:24,767 --> 00:00:27,124\nold Roman trick while your sidewalk\n",
+      "tg_msg": 638,
+      "opts_msg": 640
+    },
+    "2026-10-21-2": {
+      "topic": {
+        "title": "Top 5 Animals That Climb Sheer Walls",
+        "angle": "Today's US Shorts list has \"Cat Climbing On Straight Wall For Her Kittens\" at 16.7x its channel median (18.3M views), and a ranked countdown of animals scaling vertical walls delivers that same one-image impossible-climb payoff five times.",
+        "format": "ranking",
+        "tone": "normal",
+        "virality_score": 7,
+        "trend_source": "Cat Climbing On Straight Wall For Her Kittens (16.7x); Fastest Stationery to cut Paper (49.5x, superlative ranking hook)",
+        "plan_id": "P2026-10-21-02"
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-21T19:59:07.180145+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "animals that climb walls",
+        "title": "Top 5 Animals That Climb Sheer Walls",
+        "hook_text": "GRAVITY? NEVER HEARD",
+        "thumbnail_text": "NO ROPES",
+        "description": "These are the top 5 animals that climb walls, from a snail that hangs upside down to an Alpine ibex climbing a dam in Italy. See how geckos climb walls, how tree frogs stick and how goats grip sheer rock.\n\nIn this Short: snail slime, tree frog toe pads, mountain goat hooves, gecko hairs, and the Alpine ibex on Italy's Cingino dam.\n\nSources:\nhttps://www.atlasobscura.com/articles/5879\nhttps://newsarchive.berkeley.edu/news/media/releases/2000/06/07_gecko.html\nhttps://www.nps.gov/places/along-the-way-15.htm",
+        "hashtags": [
+          "#shorts",
+          "#animals",
+          "#top5",
+          "#wildlife"
+        ],
+        "tags": [
+          "animals that climb walls",
+          "top 5 animals",
+          "tree frog toe pads",
+          "alpine ibex",
+          "alpine ibex dam",
+          "cingino dam goats",
+          "wall climbing goats",
+          "animals climbing walls",
+          "mountain goat hooves",
+          "how geckos climb walls",
+          "snail climbing upside down",
+          "animals that can climb",
+          "ibex climbing dam",
+          "gecko feet",
+          "animal facts",
+          "wildlife facts"
+        ],
+        "pinned_comment": "Bonus fact: one gecko hair can lift about the weight of an ant. Which animal do you think would win a wall-climbing race?",
+        "scenes": [
+          {
+            "text": "Could you climb a wall with no ropes? These five animals never need them. Here are five wall climbers, counted down to the one that climbs a dam.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "sheer rock cliff climbing",
+              "vertical wall drone shot"
+            ],
+            "image_prompt": "Low-angle view of a sheer rock wall with a rope dangling, camera tilting up the cliff",
+            "stock_query": "sheer rock cliff climbing"
+          },
+          {
+            "text": "Number five, the garden snail. Its slime works like glue, so it can even hang upside down.",
+            "badge": "#5",
+            "label": "Garden Snail",
+            "stock_queries": [
+              "snail crawling on glass",
+              "garden snail macro"
+            ],
+            "image_prompt": "Macro shot of a garden snail gliding up a vertical glass pane, slime trail glistening",
+            "stock_query": "snail crawling on glass"
+          },
+          {
+            "text": "Number four, the tree frog. Its toe pads use tiny bumps and a thin film of mucus, like sticky wet rubber.",
+            "badge": "#4",
+            "label": "Tree Frog",
+            "stock_queries": [
+              "tree frog on leaf",
+              "frog clinging to glass"
+            ],
+            "image_prompt": "Close-up of a green tree frog clinging to a vertical leaf or window",
+            "stock_query": "tree frog on leaf"
+          },
+          {
+            "text": "Number three, the mountain goat. Split hooves with soft, grippy pads, like built-in climbing shoes.",
+            "badge": "#3",
+            "label": "Mountain Goat",
+            "stock_queries": [
+              "mountain goat on cliff",
+              "goat hooves rocky ledge"
+            ],
+            "image_prompt": "Mountain goat walking along a steep rocky cliff face",
+            "stock_query": "mountain goat on cliff"
+          },
+          {
+            "text": "Number two, the gecko. About two million tiny hairs on its toes let it walk across a ceiling.",
+            "badge": "#2",
+            "label": "Gecko",
+            "stock_queries": [
+              "gecko walking on ceiling",
+              "gecko foot macro"
+            ],
+            "image_prompt": "Gecko walking upside down across a ceiling or glass, macro of its toe pads",
+            "stock_query": "gecko walking on ceiling"
+          },
+          {
+            "text": "Number one, the Alpine ibex. In northern Italy, these wild goats climb an almost vertical dam wall. Why? To lick salty minerals off the stones, because grass alone doesn't give them enough.",
+            "badge": "#1",
+            "label": "Alpine Ibex",
+            "stock_queries": [
+              "alpine ibex dam wall",
+              "ibex licking stones"
+            ],
+            "image_prompt": "Alpine ibex standing on the near-vertical stone face of a dam high above a lake, licking the surface",
+            "stock_query": "alpine ibex dam wall"
+          },
+          {
+            "text": "So the best climber here isn't the stickiest. It's a goat with a salt craving. Which would you rather climb like, the gecko or the goat? Now picture yourself halfway up that dam wall.",
+            "badge": "",
+            "label": "Outro",
+            "stock_queries": [
+              "tall dam wall drop",
+              "vertical drop drone shot"
+            ],
+            "image_prompt": "Slow tilt down a tall dam wall from the top, looking at the steep drop",
+            "stock_query": "tall dam wall drop"
+          }
+        ],
+        "key_facts": [
+          "Garden snail slime works like glue allowing it to hang upside down",
+          "Tree frog toe pads use tiny bumps and mucus like sticky wet rubber",
+          "Mountain goats have split hooves with soft grippy pads",
+          "Geckos have about two million tiny hairs on their toes",
+          "Alpine ibex climb nearly vertical dam walls in Italy to lick salty minerals"
+        ],
+        "format": "ranking",
+        "tone": "normal",
+        "category": "27",
+        "script": "Could you climb a wall with no ropes? These five animals never need them. Here are five wall climbers, counted down to the one that climbs a dam. Number five, the garden snail. Its slime works like glue, so it can even hang upside down. Number four, the tree frog. Its toe pads use tiny bumps and a thin film of mucus, like sticky wet rubber. Number three, the mountain goat. Split hooves with soft, grippy pads, like built-in climbing shoes. Number two, the gecko. About two million tiny hairs on its toes let it walk across a ceiling. Number one, the Alpine ibex. In northern Italy, these wild goats climb an almost vertical dam wall. Why? To lick salty minerals off the stones, because grass alone doesn't give them enough. So the best climber here isn't the stickiest. It's a goat with a salt craving. Which would you rather climb like, the gecko or the goat? Now picture yourself halfway up that dam wall.",
+        "plan_id": "P2026-10-21-02",
+        "shot_plan": [
+          {
+            "subject": "steep cliff wall",
+            "queries": [
+              {
+                "q": "steep mountain cliff",
+                "must": [
+                  "cliff"
+                ]
+              },
+              {
+                "q": "rocky vertical wall",
+                "must": [
+                  "rock"
+                ]
+              },
+              {
+                "q": "mountain peak",
+                "must": [
+                  "mountain"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "garden snail on wall",
+            "queries": [
+              {
+                "q": "garden snail crawling",
+                "must": [
+                  "snail"
+                ]
+              },
+              {
+                "q": "snail on leaf",
+                "must": [
+                  "snail"
+                ]
+              },
+              {
+                "q": "slow snail",
+                "must": [
+                  "snail"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "tree frog on glass",
+            "queries": [
+              {
+                "q": "tree frog close up",
+                "must": [
+                  "frog"
+                ]
+              },
+              {
+                "q": "green frog on leaf",
+                "must": [
+                  "frog"
+                ]
+              },
+              {
+                "q": "amphibian",
+                "must": [
+                  "amphibian"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "mountain goat hooves",
+            "queries": [
+              {
+                "q": "mountain goat hooves",
+                "must": [
+                  "goat"
+                ]
+              },
+              {
+                "q": "mountain goat walking",
+                "must": [
+                  "goat"
+                ]
+              },
+              {
+                "q": "wild goat",
+                "must": [
+                  "goat"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "gecko on ceiling",
+            "queries": [
+              {
+                "q": "gecko on glass",
+                "must": [
+                  "gecko"
+                ]
+              },
+              {
+                "q": "lizard close up",
+                "must": [
+                  "lizard"
+                ]
+              },
+              {
+                "q": "reptile feet",
+                "must": [
+                  "reptile"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "alpine ibex climbing dam",
+            "queries": [
+              {
+                "q": "alpine ibex climbing dam",
+                "must": [
+                  "ibex"
+                ]
+              },
+              {
+                "q": "ibex on steep rock",
+                "must": [
+                  "ibex"
+                ]
+              },
+              {
+                "q": "mountain goat cliff",
+                "must": [
+                  "goat"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "mountain goat on high cliff",
+            "queries": [
+              {
+                "q": "mountain goat high cliff",
+                "must": [
+                  "goat"
+                ]
+              },
+              {
+                "q": "goat on mountain ridge",
+                "must": [
+                  "goat"
+                ]
+              },
+              {
+                "q": "cliff edge",
+                "must": [
+                  "cliff"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "mountain landscape",
+          "cliff rock",
+          "wild animal"
+        ],
+        "visual_style": "Fast-paced vertical wildlife countdown with high-contrast close-ups of animals scaling sheer vertical surfaces and dramatic nature cinematography",
+        "visual_refs": [
+          "Top 5 Amazing Animal Climbers",
+          "\ud83e\udd2f Goats That Defy Gravity!  #shorts #facts",
+          "How Goats Can Climb Mountains \ud83d\udc10",
+          "The incredible ibex defies gravity and climbs a dam | Forces of Nature with Brian Cox - BBC",
+          "How do goats climb walls? \ud83d\udc10",
+          "The most polite mountain goat EVER \u2764\ufe0f #shorts"
+        ],
+        "voice": "en-US-AvaMultilingualNeural",
+        "visual_report": {
+          "shots": 12,
+          "checked": 12,
+          "unchecked": 0,
+          "filler": 2,
+          "ai": 0
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AvaMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): Solarselle77 (Pixabay) https://pixabay.com/videos/id-327049/; Tiems (Pixabay) https://pixabay.com/videos/id-300272/; LadislavBur (Pixabay) https://pixabay.com/videos/id-181120/; moshehar (Pixabay) https://pixabay.com/videos/id-15302/; moshehar (Pixabay) https://pixabay.com/videos/id-15301/; NickyPe (Pixabay) https://pixabay.com/videos/id-85105/; Lois0002 (Pixabay) https://pixabay.com/photos/ibex-mountain-wild-goat-cliff-8209432/",
+        "Basile Morin / Wikimedia Commons (CC BY 4.0) https://commons.wikimedia.org/wiki/File:Hemidactylus_frenatus_mating,_ventral_view.jpg",
+        "GlacierNPS / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:Mountain_Goat_(42593632365).jpg",
+        "GlacierNPS / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:Mountain_Goat_(42593636255).jpg"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-21",
+        "name": "2026-10-21-2-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-21",
+        "name": "2026-10-21-2-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,061 --> 00:00:01,471\nCould you climb a wall with no\n\n2\n00:00:01,471 --> 00:00:04,951\nropes These five animals never need them\n\n3\n00:00:04,951 --> 00:00:07,169\nHere are five wall climbers counted down\n\n4\n00:00:07,169 --> 00:00:08,873\nto the one that climbs a dam\n\n5\n00:00:08,873 --> 00:00:11,471\nNumber five the garden snail Its slime\n\n6\n00:00:11,471 --> 00:00:13,468\nworks like glue so it can even\n\n7\n00:00:13,468 --> 00:00:16,274\nhang upside down Number four the tree\n\n8\n00:00:16,274 --> 00:00:19,130\nfrog Its toe pads use tiny bumps\n\n9\n00:00:19,130 --> 00:00:21,250\nand a thin film of mucus like\n\n10\n00:00:21,250 --> 00:00:24,032\nsticky wet rubber Number three the mountain\n\n11\n00:00:24,032 --> 00:00:27,488\ngoat Split hooves with soft grippy pads\n\n12\n00:00:27,488 --> 00:00:30,355\nlike built-in climbing shoes Number two the\n\n13\n00:00:30,355 --> 00:00:33,333\ngecko About two million tiny hairs on\n\n14\n00:00:33,333 --> 00:00:35,184\nits toes let it walk across a\n\n15\n00:00:35,184 --> 00:00:38,652\nceiling Number one the Alpine ibex In\n\n16\n00:00:38,652 --> 00:00:41,495\nnorthern Italy these wild goats climb an\n\n17\n00:00:41,495 --> 00:00:44,498\nalmost vertical dam wall Why To lick\n\n18\n00:00:44,498 --> 00:00:47,096\nsalty minerals off the stones because grass\n\n19\n00:00:47,096 --> 00:00:49,277\nalone doesn't give them enough So the\n\n20\n00:00:49,277 --> 00:00:52,034\nbest climber here isn't the stickiest It's\n\n21\n00:00:52,034 --> 00:00:54,056\na goat with a salt craving Which\n\n22\n00:00:54,056 --> 00:00:56,164\nwould you rather climb like the gecko\n\n23\n00:00:56,164 --> 00:00:58,713\nor the goat Now picture yourself halfway\n\n24\n00:00:58,713 --> 00:01:00,118\nup that dam wall\n",
+      "tg_msg": 641,
+      "opts_msg": 643
+    },
+    "2026-10-21-3": {
+      "topic": {
+        "title": "Dogs Kick Grass After Pooping: 1 Reason",
+        "angle": "Kind, wordless pet comedy dominates today's outliers (133.3x and 17.3x funny Shorts, 16.7x cat on a wall), and a relatable dog habit with a true twist explanation is the faceless, family-friendly version of that.",
+        "format": "funny",
+        "tone": "funny",
+        "virality_score": 8,
+        "trend_source": "She knew exactly where to put them (133.3x); Which one made you laugh? (17.3x); Cat Climbing On Straight Wall For Her Kittens (16.7x)",
+        "plan_id": "P2026-10-21-03"
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-21T20:11:19.156848+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "why do dogs kick grass after pooping",
+        "title": "Why Dogs Kick Grass After Pooping",
+        "hook_text": "THE POST-POOP KICK",
+        "thumbnail_text": "NOT BURYING IT",
+        "description": "Why do dogs kick grass after pooping? Dog kicking grass isn't about burying it: dogs have scent glands in their paws, so every kick leaves a scent message and a scuff mark for other dogs.\n\nIn this Short: the poop that stays put, the scent glands between dogs' toes, and the neighborhood notice board theory.\n\nSources:\nhttps://vcahospitals.com/resources/behavior-dog/why-dogs-kick-grass-after-nature-calls\nhttps://www.whole-dog-journal.com/behavior/why-do-dogs-kick-grass/\nhttps://www.dogster.com/lifestyle/why-do-dogs-kick-after-they-poop/",
+        "hashtags": [
+          "#shorts",
+          "#dogs",
+          "#funny",
+          "#animalfacts"
+        ],
+        "tags": [
+          "why do dogs kick grass after pooping",
+          "dog kicking grass after pooping",
+          "why do dogs kick after they poop",
+          "dog kicking grass",
+          "dog kicking after pooping",
+          "why dogs kick dirt after pooping",
+          "why dogs scratch the ground after pooping",
+          "dog scent glands",
+          "dog kicking up grass",
+          "why do dogs kick their back legs",
+          "dog scratching ground after pooping",
+          "dog scent glands paws",
+          "funny dog facts",
+          "dog facts",
+          "dog behavior",
+          "puppy behavior"
+        ],
+        "pinned_comment": "Bonus fact: those paw glands are also why dog feet can smell a bit like corn chips. Does your dog do the big kick or skip it?",
+        "scenes": [
+          {
+            "text": "You've probably thought your dog was burying its poop. It never was.\nHere's what that dramatic grass-kicking dance is really about.",
+            "badge": "",
+            "label": "NOT A COVER-UP",
+            "stock_queries": [
+              "dog kicking grass in park slow motion",
+              "dog back paws scraping grass"
+            ],
+            "image_prompt": "Close-up of a dog in a park kicking grass backward with its hind legs in slow motion, daylight, photorealistic",
+            "stock_query": "dog kicking grass in park slow motion"
+          },
+          {
+            "text": "First, look at the evidence. The poop usually stays right where it landed. Not exactly a cover-up.",
+            "badge": "",
+            "label": "Poop: still there",
+            "stock_queries": [
+              "dog trotting away from grass patch",
+              "owner looking at dog on walk"
+            ],
+            "image_prompt": "Dog proudly trotting away from a patch of grass while the owner looks on, sunny day, clear focus",
+            "stock_query": "dog trotting away from grass patch"
+          },
+          {
+            "text": "Now look at the feet. Dogs have scent glands in their paws and between their toes.",
+            "badge": "",
+            "label": "Scent glands in paws",
+            "stock_queries": [
+              "macro shot dog paw pads",
+              "dog paws close up fur"
+            ],
+            "image_prompt": "Macro shot of a dog's paw pads and the fur between its toes, highly detailed animal anatomy photography",
+            "stock_query": "macro shot dog paw pads"
+          },
+          {
+            "text": "Every kick rubs that scent into the ground, like signing their name with their feet.\nAnd the torn-up grass? That's the bold print. A big scuff mark other dogs can't miss.",
+            "badge": "",
+            "label": "Signing their name",
+            "stock_queries": [
+              "dog scraping paws ground dirt",
+              "torn up patch of lawn scuff marks"
+            ],
+            "image_prompt": "Dog scraping its paws on the ground with dirt flying up, outdoor daylight lighting",
+            "stock_query": "dog scraping paws ground dirt"
+          },
+          {
+            "text": "Some experts think it marks territory. Others think it's more like a neighborhood notice board: who was here, and when.\nScientists still don't know exactly what the message says. Probably not \"sorry about your lawn.\"",
+            "badge": "",
+            "label": "Territory or notice board?",
+            "stock_queries": [
+              "another dog sniffing scuffed grass",
+              "owner shaking head at lawn"
+            ],
+            "image_prompt": "Another dog sniffing the scuffed grass curiously in a neighborhood park, natural lighting",
+            "stock_query": "another dog sniffing scuffed grass"
+          },
+          {
+            "text": "So that big kick isn't cleanup. It's your dog posting a note for every dog in the neighborhood.",
+            "badge": "",
+            "label": "It's a message",
+            "stock_queries": [
+              "happy dog wagging tail on walk",
+              "dog tilting head at camera"
+            ],
+            "image_prompt": "Happy dog wagging its tail on a walk, looking directly at the camera with a cheerful expression",
+            "stock_query": "happy dog wagging tail on walk"
+          },
+          {
+            "text": "What's the funniest thing your dog does after a walk?\nAnd next time you see the kick, remember what you probably thought.",
+            "badge": "",
+            "label": "Remember...",
+            "stock_queries": [
+              "dog tilting head close up",
+              "dog kicking grass slow motion"
+            ],
+            "image_prompt": "Dog tilting its head inquisitively at the camera, soft blurred background, cinematic lighting",
+            "stock_query": "dog tilting head close up"
+          }
+        ],
+        "key_facts": [
+          "Dogs do not kick grass to bury their poop.",
+          "Dogs have scent glands in their paws and between their toes.",
+          "Kicking grass rubs scent into the ground and leaves a visual scuff mark for other dogs."
+        ],
+        "format": "funny",
+        "tone": "funny",
+        "category": "23",
+        "script": "You've probably thought your dog was burying its poop. It never was.\nHere's what that dramatic grass-kicking dance is really about. First, look at the evidence. The poop usually stays right where it landed. Not exactly a cover-up. Now look at the feet. Dogs have scent glands in their paws and between their toes. Every kick rubs that scent into the ground, like signing their name with their feet.\nAnd the torn-up grass? That's the bold print. A big scuff mark other dogs can't miss. Some experts think it marks territory. Others think it's more like a neighborhood notice board: who was here, and when.\nScientists still don't know exactly what the message says. Probably not \"sorry about your lawn.\" So that big kick isn't cleanup. It's your dog posting a note for every dog in the neighborhood. What's the funniest thing your dog does after a walk?\nAnd next time you see the kick, remember what you probably thought.",
+        "plan_id": "P2026-10-21-03",
+        "shot_plan": [
+          {
+            "subject": "dog kicking grass outside",
+            "queries": [
+              {
+                "q": "dog kicking grass",
+                "must": [
+                  "dog"
+                ]
+              },
+              {
+                "q": "dog outdoor lawn",
+                "must": [
+                  "grass"
+                ]
+              },
+              {
+                "q": "dog animal pet",
+                "must": [
+                  "animal"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "dog poop on lawn",
+            "queries": [
+              {
+                "q": "dog poop grass",
+                "must": [
+                  "grass"
+                ]
+              },
+              {
+                "q": "dog lawn backyard",
+                "must": [
+                  "lawn"
+                ]
+              },
+              {
+                "q": "dog outdoors",
+                "must": [
+                  "dog"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "dog paw close up",
+            "queries": [
+              {
+                "q": "dog paw",
+                "must": [
+                  "paw"
+                ]
+              },
+              {
+                "q": "dog foot close",
+                "must": [
+                  "dog"
+                ]
+              },
+              {
+                "q": "animal paw",
+                "must": [
+                  "animal"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "dog scratching grass with paws",
+            "queries": [
+              {
+                "q": "dog scratching ground",
+                "must": [
+                  "dog"
+                ]
+              },
+              {
+                "q": "dog kicking dirt",
+                "must": [
+                  "dirt"
+                ]
+              },
+              {
+                "q": "dog grass",
+                "must": [
+                  "grass"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "dog sniffing ground",
+            "queries": [
+              {
+                "q": "dog sniffing grass",
+                "must": [
+                  "dog"
+                ]
+              },
+              {
+                "q": "dog smelling ground",
+                "must": [
+                  "ground"
+                ]
+              },
+              {
+                "q": "dog outdoor park",
+                "must": [
+                  "park"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "dog walking on grass",
+            "queries": [
+              {
+                "q": "dog walking lawn",
+                "must": [
+                  "dog"
+                ]
+              },
+              {
+                "q": "dog field",
+                "must": [
+                  "field"
+                ]
+              },
+              {
+                "q": "dog grass",
+                "must": [
+                  "grass"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "happy dog looking at camera",
+            "queries": [
+              {
+                "q": "happy dog portrait",
+                "must": [
+                  "dog"
+                ]
+              },
+              {
+                "q": "dog looking camera",
+                "must": [
+                  "dog"
+                ]
+              },
+              {
+                "q": "cute puppy",
+                "must": [
+                  "puppy"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "dog",
+          "grass",
+          "lawn"
+        ],
+        "visual_style": "Engaging, lighthearted pet psychology short featuring real dogs in grassy outdoor settings with clear visual evidence of the grass-kicking habit.",
+        "visual_refs": [
+          "Why Dogs Kick Up Grass After Marking",
+          "The Surprising Reason Dogs Kick Grass After Peeing! \ud83d\udc15\ud83d\udebd",
+          "Why Dogs Kick Grass After Pooping (It\u2019s Not What You Think)",
+          "\ud83d\udca9\ud83d\udca9 Why Dogs Kick Grass After Pooping #shorts #dog #dogfacts",
+          "Why Dogs Kick the Ground After They Poop",
+          "Why my dog kicks the grass\u2026.    #italianmastiff #canecorso #dog #canecorsoitaliano #guarddog"
+        ],
+        "voice": "en-US-BrianMultilingualNeural",
+        "visual_report": {
+          "shots": 9,
+          "checked": 8,
+          "unchecked": 0,
+          "filler": 1,
+          "ai": 0
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-BrianMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): 19934763 (Pixabay) https://pixabay.com/photos/dog-grass-defecating-pooping-5928690/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-339563/; flutie8211 (Pixabay) https://pixabay.com/videos/id-377924/; AndyFaeth (Pixabay) https://pixabay.com/videos/id-45144/; u_urqhiwwe29 (Pixabay) https://pixabay.com/videos/id-157990/; jeffreygustin77 (Pixabay) https://pixabay.com/videos/id-98821/; Edward_Everidge (Pixabay) https://pixabay.com/videos/id-109817/; moshehar (Pixabay) https://pixabay.com/videos/id-237988/"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-21",
+        "name": "2026-10-21-3-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-21",
+        "name": "2026-10-21-3-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,062 --> 00:00:02,163\nYou've probably thought your dog was burying\n\n2\n00:00:02,163 --> 00:00:04,987\nits poop It never was Here's what\n\n3\n00:00:04,987 --> 00:00:07,375\nthat dramatic grass-kicking dance is really\n\n4\n00:00:07,375 --> 00:00:10,412\nabout First look at the evidence The\n\n5\n00:00:10,412 --> 00:00:13,250\npoop usually stays right where it landed\n\n6\n00:00:13,250 --> 00:00:15,950\nNot exactly a cover-up Now look at\n\n7\n00:00:15,950 --> 00:00:18,425\nthe feet Dogs have scent glands in\n\n8\n00:00:18,425 --> 00:00:21,025\ntheir paws and between their toes Every\n\n9\n00:00:21,025 --> 00:00:23,637\nkick rubs that scent into the ground\n\n10\n00:00:23,637 --> 00:00:25,938\nlike signing their name with their feet\n\n11\n00:00:25,938 --> 00:00:28,337\nAnd the torn-up grass That's the bold\n\n12\n00:00:28,337 --> 00:00:30,837\nprint A big scuff mark other dogs\n\n13\n00:00:30,837 --> 00:00:33,688\ncan't miss Some experts think it marks\n\n14\n00:00:33,688 --> 00:00:36,100\nterritory Others think it's more like a\n\n15\n00:00:36,100 --> 00:00:38,700\nneighborhood notice board who was here and\n\n16\n00:00:38,700 --> 00:00:41,650\nwhen Scientists still don't know exactly what\n\n17\n00:00:41,650 --> 00:00:44,638\nthe message says Probably not sorry about\n\n18\n00:00:44,638 --> 00:00:46,925\nyour lawn So that big kick isn't\n\n19\n00:00:46,925 --> 00:00:49,462\ncleanup It's your dog posting a note\n\n20\n00:00:49,462 --> 00:00:51,788\nfor every dog in the neighborhood What's\n\n21\n00:00:51,788 --> 00:00:53,675\nthe funniest thing your dog does after\n\n22\n00:00:53,675 --> 00:00:55,575\na walk And next time you see\n\n23\n00:00:55,575 --> 00:00:58,175\nthe kick remember what you probably thought\n",
+      "tg_msg": 644,
+      "opts_msg": 646
+    },
+    "2026-10-21-4": {
+      "topic": {
+        "title": "The Bank Built From the Mail in 1916",
+        "angle": "Today's top outliers win on one absurd, instantly visual setup (1,679.8x \"fruit trick\", 49.5x \"Fastest Stationery\"), and \"a town mailed itself a bank\" is that one-image absurdity with a true, sourced payoff.",
+        "format": "story",
+        "tone": "normal",
+        "virality_score": 7,
+        "trend_source": "Haaland Fooled EVERYONE With This Fruit Trick (1,679.8x); Fastest Stationery to cut Paper (49.5x)",
+        "plan_id": "P2026-10-21-04"
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-21T20:28:10.964630+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "bank of vernal",
+        "title": "The Bank Built From the Mail in 1916",
+        "hook_text": "SHIPPED BY POST",
+        "thumbnail_text": "BRICK BY BRICK",
+        "description": "In 1916, the Bank of Vernal in Utah had its brick front mailed brick by brick, because parcel post was cheaper than freight. Here is the true story of the parcel post bank and how it changed post office rules.\n\nIn this Short: the 427-mile brick journey, the disputed brick count, and the 200-pound limit that came too late.\n\nThis is a true story.\n\nSources:\nhttps://www.ksl.com/article/32424611\nhttps://about.usps.com:443/who/profile/history/pdf/bank-of-vernal.pdf\nhttps://www.almanac.com/bank-mailed-its-bricks-true-postal-history-story",
+        "hashtags": [
+          "#shorts",
+          "#history",
+          "#truestory",
+          "#funfacts",
+          "#storytime"
+        ],
+        "tags": [
+          "bank of vernal",
+          "parcel post bank",
+          "bricks sent through the mail",
+          "strangest things ever mailed",
+          "vernal utah",
+          "bricks in the mail",
+          "true story",
+          "parcel post 1916",
+          "post office history",
+          "bank mailed brick by brick",
+          "usps history",
+          "utah history",
+          "weird history"
+        ],
+        "pinned_comment": "Bonus fact: the building later became a Zions Bank branch on Main Street in Vernal. What's the biggest thing you think you could mail today?",
+        "scenes": [
+          {
+            "text": "How would you get a bank built when shipping bricks cost a fortune? This town mailed them.",
+            "badge": "MAILED A",
+            "label": "MAILED A BANK?!",
+            "stock_queries": [
+              "red bricks stack",
+              "vintage post office counter"
+            ],
+            "image_prompt": "Tight close-up of a red brick next to vintage parcels on a wooden post office counter, sepia tone.",
+            "stock_query": "red bricks stack"
+          },
+          {
+            "text": "This is the true story of a bank that came by mail. It's nineteen-sixteen in Vernal, Utah, a town with no railroad of its own.",
+            "badge": "A true s",
+            "label": "A true story",
+            "stock_queries": [
+              "old western town main street",
+              "vintage train desert"
+            ],
+            "image_prompt": "Old western small-town main street in Vernal Utah, sepia tone historical building.",
+            "stock_query": "old western town main street"
+          },
+          {
+            "text": "A businessman wants a fancy brick front, but the bricks are hundreds of miles away. Freight costs a fortune. The new parcel post service costs about half.",
+            "badge": "Mail = h",
+            "label": "Mail = half the price",
+            "stock_queries": [
+              "laying red bricks",
+              "package scale vintage"
+            ],
+            "image_prompt": "Bricklayer laying red bricks on a building front, historic style.",
+            "stock_query": "laying red bricks"
+          },
+          {
+            "text": "So the bricks get packed into small packages and mailed. They ride trains, wagons and ferryboats, four hundred and twenty-seven miles.",
+            "badge": "427 mile",
+            "label": "427 miles",
+            "stock_queries": [
+              "steam train bridge",
+              "horse drawn wagon dirt road"
+            ],
+            "image_prompt": "Old steam train crossing a bridge, followed by a horse-drawn wagon on a dirt road.",
+            "stock_query": "steam train bridge"
+          },
+          {
+            "text": "Most reports say eighty thousand bricks. A postal historian says about fifteen thousand. Either way, the post office is buried in bricks, and the postmaster complains to Washington.",
+            "badge": "Post off",
+            "label": "Post office buried",
+            "stock_queries": [
+              "pile of red bricks",
+              "vintage telegraph desk"
+            ],
+            "image_prompt": "Close-up of a large pile of red bricks outside an old post office.",
+            "stock_query": "pile of red bricks"
+          },
+          {
+            "text": "Soon, a new rule: two hundred pounds a day, max, from one sender to one person. Too late. The bank goes up, and it's still standing today.",
+            "badge": "Still st",
+            "label": "Still standing today",
+            "stock_queries": [
+              "historic brick bank building",
+              "red bricks tall pile"
+            ],
+            "image_prompt": "Historic brick bank building facade on a small-town main street, sunny day.",
+            "stock_query": "historic brick bank building"
+          },
+          {
+            "text": "What's the weirdest thing you've ever gotten in the mail? So if you ever need a building delivered, ask yourself...",
+            "badge": "Need a b",
+            "label": "Need a building?",
+            "stock_queries": [
+              "mail carrier door",
+              "vintage mail package"
+            ],
+            "image_prompt": "Mail carrier handing a large wrapped package to someone at a vintage wooden door.",
+            "stock_query": "mail carrier door"
+          }
+        ],
+        "key_facts": [
+          "The Bank of Vernal in Vernal, Utah was built in 1916.",
+          "Bricks were shipped through the parcel post mail service because freight costs were too high.",
+          "The bricks traveled 427 miles via trains, wagons, and ferryboats.",
+          "Estimates of the number of bricks range from 15,000 to 80,000.",
+          "The massive volume of mailed bricks caused the postmaster to complain, leading to a new rule capping shipments at 200 pounds a day per sender.",
+          "The brick bank building is still standing today."
+        ],
+        "format": "story",
+        "tone": "normal",
+        "category": "24",
+        "script": "How would you get a bank built when shipping bricks cost a fortune? This town mailed them. This is the true story of a bank that came by mail. It's nineteen-sixteen in Vernal, Utah, a town with no railroad of its own. A businessman wants a fancy brick front, but the bricks are hundreds of miles away. Freight costs a fortune. The new parcel post service costs about half. So the bricks get packed into small packages and mailed. They ride trains, wagons and ferryboats, four hundred and twenty-seven miles. Most reports say eighty thousand bricks. A postal historian says about fifteen thousand. Either way, the post office is buried in bricks, and the postmaster complains to Washington. Soon, a new rule: two hundred pounds a day, max, from one sender to one person. Too late. The bank goes up, and it's still standing today. What's the weirdest thing you've ever gotten in the mail? So if you ever need a building delivered, ask yourself...",
+        "plan_id": "P2026-10-21-04",
+        "shot_plan": [
+          {
+            "subject": "brick and mail",
+            "queries": [
+              {
+                "q": "red brick",
+                "must": [
+                  "brick"
+                ]
+              },
+              {
+                "q": "postal mail package",
+                "must": [
+                  "mail"
+                ]
+              },
+              {
+                "q": "shipping box",
+                "must": [
+                  "package"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "small town street",
+            "queries": [
+              {
+                "q": "historic town",
+                "must": [
+                  "town"
+                ]
+              },
+              {
+                "q": "old street",
+                "must": [
+                  "street"
+                ]
+              },
+              {
+                "q": "vintage building",
+                "must": [
+                  "building"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "stack of bricks",
+            "queries": [
+              {
+                "q": "clay bricks",
+                "must": [
+                  "brick"
+                ]
+              },
+              {
+                "q": "postal service",
+                "must": [
+                  "postal"
+                ]
+              },
+              {
+                "q": "parcel package",
+                "must": [
+                  "package"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "train and wagon",
+            "queries": [
+              {
+                "q": "cargo train",
+                "must": [
+                  "train"
+                ]
+              },
+              {
+                "q": "horse wagon",
+                "must": [
+                  "wagon"
+                ]
+              },
+              {
+                "q": "ferry boat",
+                "must": [
+                  "boat"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "post office interior",
+            "queries": [
+              {
+                "q": "post office counter",
+                "must": [
+                  "office"
+                ]
+              },
+              {
+                "q": "postal clerk",
+                "must": [
+                  "postal"
+                ]
+              },
+              {
+                "q": "piled boxes",
+                "must": [
+                  "boxes"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "brick bank building",
+            "queries": [
+              {
+                "q": "brick bank",
+                "must": [
+                  "bank"
+                ]
+              },
+              {
+                "q": "brick architecture",
+                "must": [
+                  "architecture"
+                ]
+              },
+              {
+                "q": "historic facade",
+                "must": [
+                  "facade"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "mailbox and package",
+            "queries": [
+              {
+                "q": "postal mailbox",
+                "must": [
+                  "mailbox"
+                ]
+              },
+              {
+                "q": "delivered package",
+                "must": [
+                  "package"
+                ]
+              },
+              {
+                "q": "mail delivery",
+                "must": [
+                  "mail"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "brick",
+          "mail",
+          "bank"
+        ],
+        "visual_style": "Cinematic historical storytelling featuring vintage stock footage of bricks, mail delivery, and small-town architecture.",
+        "visual_refs": [
+          "He Built an Entire Bank Through the MAIL! \ud83e\uddf1\u2709\ufe0f",
+          "The Bank That Was Built Through the Mail",
+          "In 1916, a bank in Utah got the bricks for its front by mail. The Bank of Vernal was putting up a ne",
+          "This Bank Was Built From Bricks Sent by Mail (Utah, 1916) #shorts",
+          "The Bank Built With Bricks Sent Through the Mail #history #facts #didyouknow",
+          "He Mailed 15,000 Bricks to Build a Bank"
+        ],
+        "voice": "en-AU-WilliamMultilingualNeural",
+        "visual_report": {
+          "shots": 10,
+          "checked": 10,
+          "unchecked": 0,
+          "filler": 3,
+          "ai": 0
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-AU-WilliamMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): Ken1843 (Pixabay) https://pixabay.com/photos/postal-box-brick-mail-5405830/; Etadly (Pixabay) https://pixabay.com/photos/mailbox-postal-service-6835849/; julhen1981 (Pixabay) https://pixabay.com/videos/id-24745/; ChristianBodhi (Pixabay) https://pixabay.com/videos/id-216951/; flutie8211 (Pixabay) https://pixabay.com/videos/id-356984/; Zain_Mustaghfir (Pixabay) https://pixabay.com/photos/clay-brick-maker-worker-man-labor-6778557/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-330502/"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-21",
+        "name": "2026-10-21-4-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-21",
+        "name": "2026-10-21-4-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,050 --> 00:00:01,350\nHow would you get a bank built\n\n2\n00:00:01,350 --> 00:00:03,812\nwhen shipping bricks cost a fortune This\n\n3\n00:00:03,812 --> 00:00:05,812\ntown mailed them This is the true\n\n4\n00:00:05,812 --> 00:00:07,388\nstory of a bank that came by\n\n5\n00:00:07,388 --> 00:00:11,100\nmail It's nineteen-sixteen in Vernal Utah a\n\n6\n00:00:11,100 --> 00:00:13,238\ntown with no railroad of its own\n\n7\n00:00:13,238 --> 00:00:15,600\nA businessman wants a fancy brick front\n\n8\n00:00:15,600 --> 00:00:17,012\nbut the bricks are hundreds of miles\n\n9\n00:00:17,012 --> 00:00:20,075\naway Freight costs a fortune The new\n\n10\n00:00:20,075 --> 00:00:22,900\nparcel post service costs about half So\n\n11\n00:00:22,900 --> 00:00:24,950\nthe bricks get packed into small packages\n\n12\n00:00:24,950 --> 00:00:28,062\nand mailed They ride trains wagons and\n\n13\n00:00:28,062 --> 00:00:31,062\nferryboats four hundred and twenty-seven miles\n\n14\n00:00:31,062 --> 00:00:33,837\nMost reports say eighty thousand bricks A\n\n15\n00:00:33,837 --> 00:00:36,763\npostal historian says about fifteen thousand\n\n16\n00:00:36,763 --> 00:00:38,888\nEither way the post office is buried\n\n17\n00:00:38,888 --> 00:00:41,138\nin bricks and the postmaster complains to\n\n18\n00:00:41,138 --> 00:00:44,400\nWashington Soon a new rule two hundred\n\n19\n00:00:44,400 --> 00:00:46,825\npounds a day max from one sender\n\n20\n00:00:46,825 --> 00:00:49,450\nto one person Too late The bank\n\n21\n00:00:49,450 --> 00:00:52,087\ngoes up and it's still standing today\n\n22\n00:00:52,087 --> 00:00:54,087\nWhat's the weirdest thing you've ever gotten\n\n23\n00:00:54,087 --> 00:00:55,775\nin the mail So if you ever\n\n24\n00:00:55,775 --> 00:00:58,425\nneed a building delivered ask yourself\n",
+      "tg_msg": 647,
+      "opts_msg": 649
     }
   },
   "history": [
-    "Top 5 Most Absurd Smartphone Glitches Ever",
-    "Top 5 Historic Sports Comebacks",
-    "Top 5 Absurd Inventions That Made Zero Sense",
-    "Why Soda Cans Explode at High Altitudes",
     "3 Smartphone Hacks You\u2019ve Been Ignoring",
     "Top 5 Inventions That Are Borderline Useless",
     "How Modern Bridges Handle Extreme Weather",
@@ -12315,7 +13538,11 @@
     "Why Modern Movie Popcorn Always Tastes Better",
     "How Desert Ice Houses Worked 2,400 Years Ago",
     "Top 5 Animal Dads (#1 Gets Pregnant)",
-    "The 131-Year-Old Message in a Bottle \ud83c\udf7e"
+    "The 131-Year-Old Message in a Bottle \ud83c\udf7e",
+    "How 2,000-Year-Old Concrete Seals Cracks",
+    "Top 5 Animals That Climb Sheer Walls",
+    "Dogs Kick Grass After Pooping: 1 Reason",
+    "The Bank Built From the Mail in 1916"
   ],
   "trend_tries": {
     "2026-10-19": {
@@ -12333,14 +13560,14 @@
   },
   "cleanup_day": "2026-10-21",
   "recent_voices": [
-    "en-US-BrianMultilingualNeural",
+    "en-US-AndrewMultilingualNeural",
     "en-AU-WilliamMultilingualNeural",
     "en-US-AvaMultilingualNeural",
-    "en-US-EmmaMultilingualNeural",
-    "en-US-AndrewMultilingualNeural"
+    "en-US-BrianMultilingualNeural",
+    "en-AU-WilliamMultilingualNeural"
   ],
   "visual_searches": {
-    "2026-10-20": 5
+    "2026-10-21": 3
   },
   "signals_day": "2026-10-21"
 }

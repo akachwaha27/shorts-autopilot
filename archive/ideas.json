@@ -1738,44 +1738,44 @@
    {
     "angle": "Zack D. Films' \"How Electrical Outlets Work\" is pulling about 259,144 views per hour this week (43M views in 3 days) and \"How Plato's Alarm Clock Worked\" about 58,500/h, so a clever-old-mechanism \"How X Works\" with a cross-section payoff is the winning shape.",
     "format": "animated",
-    "picked": false,
+    "picked": true,
     "rank": 1,
     "title": "How 2,000-Year-Old Concrete Seals Cracks",
     "trend_source": "title shape of How Electrical Outlets Work (259,144 views/h); also How Plato's Alarm Clock Worked (58,538 views/h)",
-    "video_id": null,
+    "video_id": "2026-10-21-1",
     "virality_score": 8,
     "why": ""
    },
    {
     "angle": "Today's US Shorts list has \"Cat Climbing On Straight Wall For Her Kittens\" at 16.7x its channel median (18.3M views), and a ranked countdown of animals scaling vertical walls delivers that same one-image impossible-climb payoff five times.",
     "format": "ranking",
-    "picked": false,
+    "picked": true,
     "rank": 2,
     "title": "Top 5 Animals That Climb Sheer Walls",
     "trend_source": "Cat Climbing On Straight Wall For Her Kittens (16.7x); Fastest Stationery to cut Paper (49.5x, superlative ranking hook)",
-    "video_id": null,
+    "video_id": "2026-10-21-2",
     "virality_score": 7,
     "why": ""
    },
    {
     "angle": "Kind, wordless pet comedy dominates today's outliers (133.3x and 17.3x funny Shorts, 16.7x cat on a wall), and a relatable dog habit with a true twist explanation is the faceless, family-friendly version of that.",
     "format": "funny",
-    "picked": false,
+    "picked": true,
     "rank": 3,
     "title": "Dogs Kick Grass After Pooping: 1 Reason",
     "trend_source": "She knew exactly where to put them (133.3x); Which one made you laugh? (17.3x); Cat Climbing On Straight Wall For Her Kittens (16.7x)",
-    "video_id": null,
+    "video_id": "2026-10-21-3",
     "virality_score": 8,
     "why": ""
    },
    {
     "angle": "Today's top outliers win on one absurd, instantly visual setup (1,679.8x \"fruit trick\", 49.5x \"Fastest Stationery\"), and \"a town mailed itself a bank\" is that one-image absurdity with a true, sourced payoff.",
     "format": "story",
-    "picked": false,
+    "picked": true,
     "rank": 4,
     "title": "The Bank Built From the Mail in 1916",
     "trend_source": "Haaland Fooled EVERYONE With This Fruit Trick (1,679.8x); Fastest Stationery to cut Paper (49.5x)",
-    "video_id": null,
+    "video_id": "2026-10-21-4",
     "virality_score": 7,
     "why": ""
    },
@@ -1803,7 +1803,7 @@
    }
   ],
   "sent_at": "2026-10-21T15:36:22.346017+00:00",
-  "status": "waiting"
+  "status": "closed"
  },
  "2026-10-21-2": {
   "date": "2026-10-21-2",
