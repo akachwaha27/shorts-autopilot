@@ -382,1489 +382,6 @@
     }
   },
   "videos": {
-    "2026-10-13-2": {
-      "topic": {
-        "title": "Top 5 Funniest Fashion Fails in History",
-        "angle": "Kind comedy is today's biggest breakout (1873.3x, 74.0x and 59.4x are all reaction-style funny Shorts), and this countdown uses the same setup-then-payoff shape, saving the shoe a king had to limit by law for number one.",
-        "format": "funny",
-        "tone": "funny",
-        "virality_score": 7,
-        "trend_source": "Pinkchyu ROASTS Goth Girl With SAVAGE Comeback! (DarkRa, 1873.3x); Papi arruina el pastel + novio al rescate = CAOS (Latina Mami, 74.0x, The Stack); BOYS' FIRST STEP TO MANHOOD (Baccha Mat Bolna, 59.4x)",
-        "plan_id": "P2026-10-13-02"
-      },
-      "status": "published",
-      "by": "auto",
-      "updated": "2026-10-15T09:38:01.069001+00:00",
-      "redos": 0,
-      "package": {
-        "primary_keyword": "funny fashion history",
-        "title": "Top 5 Funniest Fashion Fails in History",
-        "hook_text": "HISTORY'S WORST TRENDS",
-        "thumbnail_text": "ILLEGAL SHOES?",
-        "description": "Five funny fashion trends in history that people really wore, from giant ruffs and towering wigs to weird historical fashion like platform shoes over 18 inches tall. Number one is the pointy medieval shoes a king limited by law in 1463.\n\nIn this Short: ruff collars, panniers, macaroni wigs, chopines and poulaines.\n\nSources:\nhttps://getty.edu/news/uncomfortable-shoes-of-the-middle-ages\nhttps://getty.edu/news/uncomfortable-shoes-of-the-middle-ages\nhttps://fashionhistory.fitnyc.edu/chopines/",
-        "hashtags": [
-          "#shorts",
-          "#funny",
-          "#history",
-          "#fashionhistory"
-        ],
-        "tags": [
-          "funny fashion history",
-          "weird fashion trends in history",
-          "funny fashion",
-          "medieval shoes",
-          "weird fashion trends",
-          "weird history fashion",
-          "funny fashion trends",
-          "weird historical fashion",
-          "pointy shoes",
-          "fashion history",
-          "ruff collar",
-          "macaroni wig",
-          "yankee doodle macaroni",
-          "history facts",
-          "chopines",
-          "panniers",
-          "poulaines",
-          "crakows"
-        ],
-        "pinned_comment": "Bonus fact: some people stuffed the toes of their pointy shoes with moss or horsehair just to keep them stiff. Which trend should make a comeback?",
-        "scenes": [
-          {
-            "text": "Before you laugh at your own old outfits, see the shoes an English king had to limit. Here are the five funniest fashion fails in history.",
-            "badge": "",
-            "label": "5 real fashion fails",
-            "stock_queries": [
-              "pointed medieval shoe close up",
-              "museum art gallery portraits"
-            ],
-            "image_prompt": "Close-up of a long pointed medieval style shoe alongside a slow pan across old portraits in a museum gallery.",
-            "stock_query": "pointed medieval shoe close up"
-          },
-          {
-            "text": "Number five, the giant ruff. These starched collars stuck out about nine inches, like wearing a frilly dinner plate.",
-            "badge": "",
-            "label": "A collar like a plate",
-            "stock_queries": [
-              "portrait painting ruff collar",
-              "stack of white dinner plates"
-            ],
-            "image_prompt": "Portrait painting of a person in a huge white ruff collar with a stack of white dinner plates beside a lace collar.",
-            "stock_query": "portrait painting ruff collar"
-          },
-          {
-            "text": "Number four, panniers. These hoops made skirts so wide, some had hinges to fold up for doorways.",
-            "badge": "",
-            "label": "Folding skirts for doors",
-            "stock_queries": [
-              "wide dress museum mannequin",
-              "narrow old wooden doorway"
-            ],
-            "image_prompt": "Museum mannequin in a very wide 18th century gown standing in front of a narrow old wooden doorway in a historic house.",
-            "stock_query": "wide dress museum mannequin"
-          },
-          {
-            "text": "Number three, macaroni wigs. Cartoonists drew these powdered wigs nearly half the wearer's size. And yes, that's the macaroni in Yankee Doodle, the fashion, not the pasta.",
-            "badge": "",
-            "label": "Not the pasta",
-            "stock_queries": [
-              "tall white powdered wig",
-              "bowl of macaroni pasta"
-            ],
-            "image_prompt": "Tall white powdered wig on a stand next to an old engraving-style drawing and a bowl of macaroni pasta.",
-            "stock_query": "tall white powdered wig"
-          },
-          {
-            "text": "Number two, chopines. These Italian platform shoes could be over eighteen inches tall.",
-            "badge": "",
-            "label": "Over 18 inches tall",
-            "stock_queries": [
-              "venice canal old buildings",
-              "person walking on stilts"
-            ],
-            "image_prompt": "Venice canal lined with old buildings and a person wearing extremely tall platform shoes.",
-            "stock_query": "venice canal old buildings"
-          },
-          {
-            "text": "Number one, poulaines, shoes with toes so long they were stuffed with moss or horsehair. In fourteen sixty-three, King Edward the Fourth limited anyone who wasn't a noble to toes of two inches. That's the shoe a king had to limit by law.",
-            "badge": "",
-            "label": "A shoe law. Really.",
-            "stock_queries": [
-              "pointed leather shoe straw",
-              "old parchment scroll wax seal"
-            ],
-            "image_prompt": "Pointed leather shoe tip filled with straw next to an old parchment scroll with a red wax seal and a ruler measuring the toe.",
-            "stock_query": "pointed leather shoe straw"
-          },
-          {
-            "text": "Which of these five would you dare to wear to school? Tell me, then go see those shoes again.",
-            "badge": "",
-            "label": "Back to the shoes",
-            "stock_queries": [
-              "empty school hallway lockers",
-              "long pointed medieval shoe"
-            ],
-            "image_prompt": "Empty school hallway with lockers transitioning to a slow pan along a long pointed shoe.",
-            "stock_query": "empty school hallway lockers"
-          }
-        ],
-        "key_facts": [
-          "Giant ruff collars stuck out about nine inches like a dinner plate.",
-          "Panniers were hoops that made skirts so wide they needed hinges for doorways.",
-          "Macaroni wigs were powdered wigs drawn by cartoonists nearly half the wearer's size.",
-          "The macaroni in Yankee Doodle refers to the fashion trend, not pasta.",
-          "Chopines were Italian platform shoes over eighteen inches tall.",
-          "Poulaines were medieval shoes with extremely long toes stuffed with moss or horsehair.",
-          "In 1463, King Edward the Fourth limited non-nobles to shoe toes of two inches by law."
-        ],
-        "format": "funny",
-        "tone": "funny",
-        "category": "23",
-        "script": "Before you laugh at your own old outfits, see the shoes an English king had to limit. Here are the five funniest fashion fails in history. Number five, the giant ruff. These starched collars stuck out about nine inches, like wearing a frilly dinner plate. Number four, panniers. These hoops made skirts so wide, some had hinges to fold up for doorways. Number three, macaroni wigs. Cartoonists drew these powdered wigs nearly half the wearer's size. And yes, that's the macaroni in Yankee Doodle, the fashion, not the pasta. Number two, chopines. These Italian platform shoes could be over eighteen inches tall. Number one, poulaines, shoes with toes so long they were stuffed with moss or horsehair. In fourteen sixty-three, King Edward the Fourth limited anyone who wasn't a noble to toes of two inches. That's the shoe a king had to limit by law. Which of these five would you dare to wear to school? Tell me, then go see those shoes again.",
-        "plan_id": "P2026-10-13-02",
-        "shot_plan": [
-          {
-            "subject": "antique royal shoes",
-            "queries": [
-              {
-                "q": "historical shoes",
-                "must": [
-                  "shoes"
-                ]
-              },
-              {
-                "q": "vintage footwear",
-                "must": [
-                  "footwear"
-                ]
-              },
-              {
-                "q": "antique shoe",
-                "must": [
-                  "shoe"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "large Elizabethan collar ruff",
-            "queries": [
-              {
-                "q": "elizabethan collar ruff",
-                "must": [
-                  "collar"
-                ]
-              },
-              {
-                "q": "lace ruff neck",
-                "must": [
-                  "lace"
-                ]
-              },
-              {
-                "q": "historical collar",
-                "must": [
-                  "collar"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "wide historical dress panniers",
-            "queries": [
-              {
-                "q": "wide historical dress",
-                "must": [
-                  "dress"
-                ]
-              },
-              {
-                "q": "antique gown",
-                "must": [
-                  "gown"
-                ]
-              },
-              {
-                "q": "historical skirt",
-                "must": [
-                  "skirt"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "tall powdered wig",
-            "queries": [
-              {
-                "q": "powdered wig",
-                "must": [
-                  "wig"
-                ]
-              },
-              {
-                "q": "historical wig",
-                "must": [
-                  "wig"
-                ]
-              },
-              {
-                "q": "colonial wig",
-                "must": [
-                  "wig"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "tall platform shoes chopines",
-            "queries": [
-              {
-                "q": "platform shoes antique",
-                "must": [
-                  "shoes"
-                ]
-              },
-              {
-                "q": "tall shoes",
-                "must": [
-                  "shoes"
-                ]
-              },
-              {
-                "q": "vintage footwear",
-                "must": [
-                  "footwear"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "medieval pointy shoes poulaines",
-            "queries": [
-              {
-                "q": "medieval shoes",
-                "must": [
-                  "shoes"
-                ]
-              },
-              {
-                "q": "pointed medieval shoe",
-                "must": [
-                  "shoe"
-                ]
-              },
-              {
-                "q": "vintage leather shoe",
-                "must": [
-                  "shoe"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "antique ornate shoes display",
-            "queries": [
-              {
-                "q": "museum shoes exhibit",
-                "must": [
-                  "shoes"
-                ]
-              },
-              {
-                "q": "antique shoes display",
-                "must": [
-                  "shoes"
-                ]
-              },
-              {
-                "q": "vintage shoe rack",
-                "must": [
-                  "shoe"
-                ]
-              }
-            ]
-          }
-        ],
-        "broll": [
-          "historical clothing",
-          "antique fashion",
-          "vintage costume"
-        ],
-        "visual_style": "Fast-paced historical comedy with dynamic stock footage of historical clothing items and humorous close-ups.",
-        "visual_refs": [],
-        "voice": "en-US-AvaMultilingualNeural",
-        "visual_report": {
-          "shots": 10,
-          "checked": 10,
-          "unchecked": 0,
-          "filler": 2,
-          "ai": 0
-        }
-      },
-      "credits": [
-        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AvaMultilingualNeural).",
-        "Stock footage/photos (Pexels/Pixabay Content License): Leo_65 (Pixabay) https://pixabay.com/photos/shoe-leather-middle-ages-old-shoes-2742146/; Tama66 (Pixabay) https://pixabay.com/photos/woman-baroque-gorgeous-historical-2711842/; sabinevanerp (Pixabay) https://pixabay.com/photos/shoe-klompschoen-over-shoe-museum-2901942/",
-        "\u041b\u0430\u043f\u043e\u0442\u044c / Wikimedia Commons (CC0) https://commons.wikimedia.org/wiki/File:Shoes_-_15c_-_Ryazan_Kremlin_Museum.jpg",
-        "Creator/Contributor: Dielman, F. (Frederick), 1847-1935 (art / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:The_Widow_(Boston_Public_Library).jpg",
-        "Surrey County Council, David Williams, 2017-09-13 16:37:35 / Wikimedia Commons (CC BY 2.0) https://commons.wikimedia.org/wiki/File:Post_medieval,_Leather_shoe_(FindID_856913).jpg",
-        "Daderot / Wikimedia Commons (CC0) https://commons.wikimedia.org/wiki/File:Chinese_shoes,_Manchu,_late_19th_century_AD_-_Bata_Shoe_Museum_-_DSC00069.JPG",
-        "Daderot / Wikimedia Commons (CC0) https://commons.wikimedia.org/wiki/File:English_ceramic_shoes,_Bristolware,_1768_-_Bata_Shoe_Museum_-_DSC00280.JPG"
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-13",
-        "name": "2026-10-13-2-v0.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-13",
-        "name": "2026-10-13-2-v0-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,088 --> 00:00:01,587\nBefore you laugh at your own old\n\n2\n00:00:01,587 --> 00:00:04,287\noutfits see the shoes an English king\n\n3\n00:00:04,287 --> 00:00:06,500\nhad to limit Here are the five\n\n4\n00:00:06,500 --> 00:00:09,713\nfunniest fashion fails in history Number five\n\n5\n00:00:09,713 --> 00:00:12,338\nthe giant ruff These starched collars stuck\n\n6\n00:00:12,338 --> 00:00:14,525\nout about nine inches like wearing a\n\n7\n00:00:14,525 --> 00:00:18,363\nfrilly dinner plate Number four panniers These\n\n8\n00:00:18,363 --> 00:00:20,900\nhoops made skirts so wide some had\n\n9\n00:00:20,900 --> 00:00:23,312\nhinges to fold up for doorways Number\n\n10\n00:00:23,312 --> 00:00:27,075\nthree macaroni wigs Cartoonists drew these\n\n11\n00:00:27,075 --> 00:00:30,188\npowdered wigs nearly half the wearer's size\n\n12\n00:00:30,188 --> 00:00:32,575\nAnd yes that's the macaroni in Yankee\n\n13\n00:00:32,575 --> 00:00:35,250\nDoodle the fashion not the pasta Number\n\n14\n00:00:35,250 --> 00:00:38,675\ntwo chopines These Italian platform shoes could\n\n15\n00:00:38,675 --> 00:00:41,862\nbe over eighteen inches tall Number one\n\n16\n00:00:41,862 --> 00:00:44,413\npoulaines shoes with toes so long they\n\n17\n00:00:44,413 --> 00:00:46,925\nwere stuffed with moss or horsehair In\n\n18\n00:00:46,925 --> 00:00:49,650\nfourteen sixty-three King Edward the Fourth\n\n19\n00:00:49,650 --> 00:00:51,575\nlimited anyone who wasn't a noble to\n\n20\n00:00:51,575 --> 00:00:54,237\ntoes of two inches That's the shoe\n\n21\n00:00:54,237 --> 00:00:56,263\na king had to limit by law\n\n22\n00:00:56,263 --> 00:00:57,913\nWhich of these five would you dare\n\n23\n00:00:57,913 --> 00:01:00,200\nto wear to school Tell me then\n\n24\n00:01:00,200 --> 00:01:02,000\ngo see those shoes again\n",
-      "tg_msg": 356,
-      "opts_msg": 358,
-      "approved_by": "auto",
-      "quota_note": "2026-10-15",
-      "description_full": "Five funny fashion trends in history that people really wore, from giant ruffs and towering wigs to weird historical fashion like platform shoes over 18 inches tall. Number one is the pointy medieval shoes a king limited by law in 1463.\n\nIn this Short: ruff collars, panniers, macaroni wigs, chopines and poulaines.\n\nSources:\nhttps://getty.edu/news/uncomfortable-shoes-of-the-middle-ages\nhttps://getty.edu/news/uncomfortable-shoes-of-the-middle-ages\nhttps://fashionhistory.fitnyc.edu/chopines/\n\n#shorts #funny #history #fashionhistory\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AvaMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): Leo_65 (Pixabay) https://pixabay.com/photos/shoe-leather-middle-ages-old-shoes-2742146/; Tama66 (Pixabay) https://pixabay.com/photos/woman-baroque-gorgeous-historical-2711842/; sabinevanerp (Pixabay) https://pixabay.com/photos/shoe-klompschoen-over-shoe-museum-2901942/\n\u041b\u0430\u043f\u043e\u0442\u044c / Wikimedia Commons (CC0) https://commons.wikimedia.org/wiki/File:Shoes_-_15c_-_Ryazan_Kremlin_Museum.jpg\nCreator/Contributor: Dielman, F. (Frederick), 1847-1935 (art / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:The_Widow_(Boston_Public_Library).jpg\nSurrey County Council, David Williams, 2017-09-13 16:37:35 / Wikimedia Commons (CC BY 2.0) https://commons.wikimedia.org/wiki/File:Post_medieval,_Leather_shoe_(FindID_856913).jpg\nDaderot / Wikimedia Commons (CC0) https://commons.wikimedia.org/wiki/File:Chinese_shoes,_Manchu,_late_19th_century_AD_-_Bata_Shoe_Museum_-_DSC00069.JPG\nDaderot / Wikimedia Commons (CC0) https://commons.wikimedia.org/wiki/File:English_ceramic_shoes,_Bristolware,_1768_-_Bata_Shoe_Museum_-_DSC00280.JPG\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/68PEaxYWh5w",
-          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-15T09:38:01.069019+00:00",
-      "slot": "2026-10-15T16:15:00+00:00"
-    },
-    "2026-10-13-3": {
-      "topic": {
-        "title": "How Mapmakers Invented a Town in 1925",
-        "angle": "The 38.0x 'He pretended to be blind' and 1873.3x roast both hang on a reveal that flips the setup, and this true story has the same flip: a fake town built as a trap turns real.",
-        "format": "story",
-        "tone": "normal",
-        "virality_score": 7,
-        "trend_source": "He pretended to be blind (Film Explorer, 38.0x); Pinkchyu ROASTS Goth Girl With SAVAGE Comeback! (DarkRa, 1873.3x)",
-        "plan_id": "P2026-10-13-03"
-      },
-      "status": "published",
-      "by": "auto",
-      "updated": "2026-10-15T09:38:11.113448+00:00",
-      "redos": 0,
-      "package": {
-        "primary_keyword": "agloe new york",
-        "title": "How Mapmakers Invented a Town in 1925",
-        "hook_text": "MAPMAKERS LIED ON PURPOSE",
-        "thumbnail_text": "NEVER EXISTED",
-        "description": "Agloe, New York was a fake town on a map, made up by mapmakers as a copyright trap to catch copycats. This is how that paper town ended up becoming real.\n\nIn this Short: the 1920s map trap, the fishing lodge that took the name, and how Agloe ended up in a US government database.\n\nThis is a true story.\n\nSources:\nhttps://en.wikipedia.org/wiki/Agloe,_New_York\nhttps://www.amusingplanet.com/2017/03/agloe-fake-town-that-became-real_19.html",
-        "hashtags": [
-          "#shorts",
-          "#truestory",
-          "#history",
-          "#maps",
-          "#storytime"
-        ],
-        "tags": [
-          "agloe new york",
-          "fake towns",
-          "paper towns",
-          "fake towns in america",
-          "agloe",
-          "map trap",
-          "true story",
-          "copyright trap",
-          "roscoe new york",
-          "fake town on map",
-          "trap street",
-          "map history",
-          "history facts",
-          "catskills"
-        ],
-        "pinned_comment": "Bonus fact: fake places like Agloe are called 'paper towns', and mapmakers used them to prove someone copied their work. Would you ever visit a town that started as a trap?",
-        "scenes": [
-          {
-            "text": "Before you trust your map, you should know about Agloe, the town that was never supposed to exist. This is the true story of a fake town that became real.",
-            "badge": "A town t",
-            "label": "True story",
-            "stock_queries": [
-              "old paper road map unfolding",
-              "vintage road map close up"
-            ],
-            "image_prompt": "An old paper road map unfolding on a rustic wooden table under warm lighting",
-            "stock_query": "old paper road map unfolding"
-          },
-          {
-            "text": "In the nineteen-twenties, two mapmakers wanted to catch copycats. So they invented a tiny town on a New York dirt road.",
-            "badge": "1920s ma",
-            "label": "A fake dot on the map",
-            "stock_queries": [
-              "vintage drafting desk with pens",
-              "drawing lines on paper map"
-            ],
-            "image_prompt": "A vintage drafting desk with old fountain pens, rulers, and a half-drawn map",
-            "stock_query": "vintage drafting desk with pens"
-          },
-          {
-            "text": "They named it Agloe, from their initials. If Agloe showed up on another map, it was copied. Here's the twist.",
-            "badge": "O.G.L. +",
-            "label": "The copycat trap",
-            "stock_queries": [
-              "magnifying glass on map",
-              "finger pointing at map location"
-            ],
-            "image_prompt": "A magnifying glass sliding over a vintage map highlighting a tiny printed town name",
-            "stock_query": "magnifying glass on map"
-          },
-          {
-            "text": "Around nineteen-thirty, a nearby fishing lodge took the name for real. The story goes that Agloe later turned up on a rival company's map.",
-            "badge": "The twis",
-            "label": "Agloe Lodge: real!",
-            "stock_queries": [
-              "rustic wooden lodge by stream",
-              "two road maps side by side"
-            ],
-            "image_prompt": "A rustic wooden fishing lodge beside a quiet stream in a green forest",
-            "stock_query": "rustic wooden lodge by stream"
-          },
-          {
-            "text": "The rival said the name was now in real county records. The trap caught nothing, because the fake town had turned real.",
-            "badge": "On a riv",
-            "label": "Real county records",
-            "stock_queries": [
-              "old filing cabinet paper records",
-              "empty mousetrap on wooden floor"
-            ],
-            "image_prompt": "An old metal filing cabinet filled with dusty paper records and historical documents",
-            "stock_query": "old filing cabinet paper records"
-          },
-          {
-            "text": "In twenty-fourteen, Agloe even landed in a US government database. So that's Agloe, the fake town people made real by believing the map.",
-            "badge": "The trap",
-            "label": "In a government database",
-            "stock_queries": [
-              "computer screen data scrolling",
-              "digital map interface screen"
-            ],
-            "image_prompt": "A computer screen scrolling through a long database list of geographical place names",
-            "stock_query": "computer screen data scrolling"
-          },
-          {
-            "text": "If you could invent one fake town, what would you name it? Tell me, and next time you open a map, think of Agloe.",
-            "badge": "Fake tow",
-            "label": "THE END",
-            "stock_queries": [
-              "hand opening folded road map",
-              "sunset over country crossroads"
-            ],
-            "image_prompt": "A hand opening a crisp folded road map outdoors against a bright sunset background",
-            "stock_query": "hand opening folded road map"
-          }
-        ],
-        "key_facts": [
-          "Agloe was invented in the 1920s by two mapmakers as a copyright trap.",
-          "The name Agloe was created from the initials of the mapmakers.",
-          "Around 1930, a real fishing lodge took the name Agloe.",
-          "A rival company included Agloe on their map because it appeared in real county records.",
-          "In 2014, Agloe appeared in a US government database."
-        ],
-        "format": "story",
-        "tone": "normal",
-        "category": "24",
-        "script": "Before you trust your map, you should know about Agloe, the town that was never supposed to exist. This is the true story of a fake town that became real. In the nineteen-twenties, two mapmakers wanted to catch copycats. So they invented a tiny town on a New York dirt road. They named it Agloe, from their initials. If Agloe showed up on another map, it was copied. Here's the twist. Around nineteen-thirty, a nearby fishing lodge took the name for real. The story goes that Agloe later turned up on a rival company's map. The rival said the name was now in real county records. The trap caught nothing, because the fake town had turned real. In twenty-fourteen, Agloe even landed in a US government database. So that's Agloe, the fake town people made real by believing the map. If you could invent one fake town, what would you name it? Tell me, and next time you open a map, think of Agloe.",
-        "plan_id": "P2026-10-13-03",
-        "shot_plan": [
-          {
-            "subject": "vintage map",
-            "queries": [
-              {
-                "q": "vintage folded map",
-                "must": [
-                  "map"
-                ]
-              },
-              {
-                "q": "old paper map",
-                "must": [
-                  "map"
-                ]
-              },
-              {
-                "q": "atlas page",
-                "must": [
-                  "atlas"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "cartographer drafting",
-            "queries": [
-              {
-                "q": "person drawing map",
-                "must": [
-                  "map"
-                ]
-              },
-              {
-                "q": "dirt road countryside",
-                "must": [
-                  "road"
-                ]
-              },
-              {
-                "q": "vintage compass",
-                "must": [
-                  "compass"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "initials written on paper",
-            "queries": [
-              {
-                "q": "writing initials",
-                "must": [
-                  "writing"
-                ]
-              },
-              {
-                "q": "handwriting on paper",
-                "must": [
-                  "paper"
-                ]
-              },
-              {
-                "q": "map markers",
-                "must": [
-                  "map"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "fishing lodge building",
-            "queries": [
-              {
-                "q": "wooden fishing lodge",
-                "must": [
-                  "lodge"
-                ]
-              },
-              {
-                "q": "country cabin exterior",
-                "must": [
-                  "cabin"
-                ]
-              },
-              {
-                "q": "lake fishing cabin",
-                "must": [
-                  "cabin"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "official government records folder",
-            "queries": [
-              {
-                "q": "paper document records",
-                "must": [
-                  "document"
-                ]
-              },
-              {
-                "q": "archive folders",
-                "must": [
-                  "folder"
-                ]
-              },
-              {
-                "q": "old county map",
-                "must": [
-                  "map"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "computer screen database",
-            "queries": [
-              {
-                "q": "digital database screen",
-                "must": [
-                  "screen"
-                ]
-              },
-              {
-                "q": "computer data display",
-                "must": [
-                  "computer"
-                ]
-              },
-              {
-                "q": "modern map interface",
-                "must": [
-                  "map"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "open road map",
-            "queries": [
-              {
-                "q": "folding roadmap",
-                "must": [
-                  "map"
-                ]
-              },
-              {
-                "q": "travel planner map",
-                "must": [
-                  "map"
-                ]
-              },
-              {
-                "q": "road trip map",
-                "must": [
-                  "map"
-                ]
-              }
-            ]
-          }
-        ],
-        "broll": [
-          "vintage map",
-          "cartography compass",
-          "country road"
-        ],
-        "visual_style": "A fast-paced historical narrative driven by literal stock footage of maps, cartography tools, and countryside locations matching the voiceover.",
-        "visual_refs": [],
-        "voice": "en-AU-WilliamMultilingualNeural",
-        "visual_report": {
-          "shots": 12,
-          "checked": 12,
-          "unchecked": 0,
-          "filler": 3,
-          "ai": 0
-        }
-      },
-      "credits": [
-        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-AU-WilliamMultilingualNeural).",
-        "Stock footage/photos (Pexels/Pixabay Content License): caelan (Pixabay) https://pixabay.com/videos/id-30090/; tarlamu (Pixabay) https://pixabay.com/videos/id-33237/; caelan (Pixabay) https://pixabay.com/videos/id-30088/; Coverr-Free-Footage (Pixabay) https://pixabay.com/videos/id-1046/; HolgersFotografie (Pixabay) https://pixabay.com/videos/id-13053/; max_bbb (Pixabay) https://pixabay.com/videos/id-15650/; Joe_hackney (Pixabay) https://pixabay.com/videos/id-147171/; AndersonCampos (Pixabay) https://pixabay.com/videos/id-131471/; caelan (Pixabay) https://pixabay.com/videos/id-30089/"
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-13",
-        "name": "2026-10-13-3-v0.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-13",
-        "name": "2026-10-13-3-v0-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,050 --> 00:00:02,074\nBefore you trust your map you should\n\n2\n00:00:02,074 --> 00:00:04,112\nknow about Agloe the town that was\n\n3\n00:00:04,112 --> 00:00:06,504\nnever supposed to exist This is the\n\n4\n00:00:06,504 --> 00:00:08,379\ntrue story of a fake town that\n\n5\n00:00:08,379 --> 00:00:12,061\nbecame real In the nineteen-twenties two mapmakers\n\n6\n00:00:12,061 --> 00:00:14,873\nwanted to catch copycats So they invented\n\n7\n00:00:14,873 --> 00:00:16,613\na tiny town on a New York\n\n8\n00:00:16,613 --> 00:00:19,466\ndirt road They named it Agloe from\n\n9\n00:00:19,466 --> 00:00:21,871\ntheir initials If Agloe showed up on\n\n10\n00:00:21,871 --> 00:00:24,724\nanother map it was copied Here's the\n\n11\n00:00:24,724 --> 00:00:28,229\ntwist Around nineteen-thirty a nearby fishing\n\n12\n00:00:28,229 --> 00:00:30,363\nlodge took the name for real The\n\n13\n00:00:30,363 --> 00:00:32,618\nstory goes that Agloe later turned up\n\n14\n00:00:32,618 --> 00:00:35,050\non a rival company's map The rival\n\n15\n00:00:35,050 --> 00:00:36,830\nsaid the name was now in real\n\n16\n00:00:36,830 --> 00:00:39,968\ncounty records The trap caught nothing because\n\n17\n00:00:39,968 --> 00:00:42,251\nthe fake town had turned real In\n\n18\n00:00:42,251 --> 00:00:45,376\ntwenty-fourteen Agloe even landed in a US\n\n19\n00:00:45,376 --> 00:00:48,651\ngovernment database So that's Agloe the fake\n\n20\n00:00:48,651 --> 00:00:50,634\ntown people made real by believing the\n\n21\n00:00:50,634 --> 00:00:52,930\nmap If you could invent one fake\n\n22\n00:00:52,930 --> 00:00:55,295\ntown what would you name it Tell\n\n23\n00:00:55,295 --> 00:00:57,020\nme and next time you open a\n\n24\n00:00:57,020 --> 00:00:59,010\nmap think of Agloe\n",
-      "tg_msg": 359,
-      "opts_msg": 361,
-      "approved_by": "auto",
-      "quota_note": "2026-10-15",
-      "description_full": "Agloe, New York was a fake town on a map, made up by mapmakers as a copyright trap to catch copycats. This is how that paper town ended up becoming real.\n\nIn this Short: the 1920s map trap, the fishing lodge that took the name, and how Agloe ended up in a US government database.\n\nThis is a true story.\n\nSources:\nhttps://en.wikipedia.org/wiki/Agloe,_New_York\nhttps://www.amusingplanet.com/2017/03/agloe-fake-town-that-became-real_19.html\n\n#shorts #truestory #history #maps #storytime\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-AU-WilliamMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): caelan (Pixabay) https://pixabay.com/videos/id-30090/; tarlamu (Pixabay) https://pixabay.com/videos/id-33237/; caelan (Pixabay) https://pixabay.com/videos/id-30088/; Coverr-Free-Footage (Pixabay) https://pixabay.com/videos/id-1046/; HolgersFotografie (Pixabay) https://pixabay.com/videos/id-13053/; max_bbb (Pixabay) https://pixabay.com/videos/id-15650/; Joe_hackney (Pixabay) https://pixabay.com/videos/id-147171/; AndersonCampos (Pixabay) https://pixabay.com/videos/id-131471/; caelan (Pixabay) https://pixabay.com/videos/id-30089/\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/H96soBANFcs",
-          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-15T09:38:11.113465+00:00",
-      "slot": "2026-10-15T19:15:00+00:00"
-    },
-    "2026-10-13-4": {
-      "topic": {
-        "title": "3-Second Space Quiz: Can You Spot the Myth?",
-        "angle": "Guess-the-outcome games are breaking out (11.1x 'Who Can Build The Better Nachos With $20?', 9.1x 'Guess Devil Aphmau's REAL Reaction!'), and this quiz makes viewers commit to an answer before each three-second reveal.",
-        "format": "quiz",
-        "tone": "normal",
-        "virality_score": 7,
-        "trend_source": "Who Can Build The Better Nachos With $20? (Makeshift Project, 11.1x); Guess Devil Aphmau's REAL Reaction! (GOLDCRAFT STUDIOS, 9.1x)",
-        "plan_id": "P2026-10-13-04"
-      },
-      "status": "published",
-      "by": "auto",
-      "updated": "2026-10-15T09:38:20.627290+00:00",
-      "redos": 0,
-      "package": {
-        "primary_keyword": "space quiz",
-        "title": "3-Second Space Quiz: Can You Spot the Myth?",
-        "hook_text": "MYTH OR TRUTH?",
-        "thumbnail_text": "1 IS FAKE",
-        "description": "Can you spot the myth in this 3-second space quiz? Find out if a day on Venus is longer than its year, if you can see the Great Wall of China from space, and how long Moon footprints last.\n\nIn this Short: three space facts, three seconds each, and one myth almost everyone believes.\n\nSources:\nhttps://www.theweathernetwork.com/en/news/science/space/how-long-is-the-solar-systems-longest-day-venus-has-the-answer\nhttps://www.universetoday.com/25364/can-you-see-the-great-wall-of-china-from-space/\nhttps://www.space.com/35352-eugene-cernan-moon-legacy-footprints.html",
-        "hashtags": [
-          "#shorts",
-          "#space",
-          "#quiz",
-          "#sciencefacts"
-        ],
-        "tags": [
-          "space quiz",
-          "great wall of china from space",
-          "why is venus day longer than year",
-          "space facts",
-          "the great wall from space",
-          "space quiz questions and answers",
-          "can you see the great wall from space",
-          "space questions quiz",
-          "space exploration quiz",
-          "space and astronomy quiz",
-          "moon footprints",
-          "true or false quiz",
-          "space trivia arg",
-          "space myths",
-          "science quiz",
-          "venus rotation",
-          "apollo footprints"
-        ],
-        "pinned_comment": "Bonus fact: Venus also spins backwards compared to most planets, so the Sun there rises in the west. Which fact did you get wrong?",
-        "scenes": [
-          {
-            "text": "Before you scroll, can you spot which of these three space facts is fake? Three facts, three seconds each, and one is a myth.",
-            "badge": "INTRO",
-            "label": "1 of these is FAKE",
-            "stock_queries": [
-              "starfield rotating slowly",
-              "earth from space orbit"
-            ],
-            "image_prompt": "Cinematic deep space starfield slowly rotating with Earth visible in the corner, high quality, photorealistic.",
-            "stock_query": "starfield rotating slowly"
-          },
-          {
-            "text": "Fact one. A day on Venus is longer than its whole year. Three, two, one.",
-            "badge": "Q1",
-            "label": "Venus: day > year?",
-            "stock_queries": [
-              "venus planet rotating",
-              "countdown timer 3 seconds"
-            ],
-            "image_prompt": "Yellow cloudy planet Venus rotating in the dark void of space, large countdown numbers overlaid, realistic.",
-            "stock_query": "venus planet rotating"
-          },
-          {
-            "text": "True. Venus takes about two hundred forty-three Earth days to spin once, but only about two hundred twenty-five to circle the Sun.",
-            "badge": "\u2713",
-            "label": "TRUE: 243 vs 225 days",
-            "stock_queries": [
-              "planet orbiting the sun",
-              "spinning planet animation"
-            ],
-            "image_prompt": "Animated rocky planet orbiting around a bright Sun with orbital paths visible, scientific visualization style.",
-            "stock_query": "planet orbiting the sun"
-          },
-          {
-            "text": "Fact two. You can see the Great Wall of China from space with your bare eyes. Three, two, one.",
-            "badge": "Q2",
-            "label": "Great Wall from space?",
-            "stock_queries": [
-              "great wall of china mountains",
-              "earth orbit view"
-            ],
-            "image_prompt": "The Great Wall of China winding across green mountain ridges under bright daylight, aerial drone view.",
-            "stock_query": "great wall of china mountains"
-          },
-          {
-            "text": "Fake. Astronauts say it's too narrow and blends into the land around it.",
-            "badge": "\u2713",
-            "label": "FAKE: too narrow",
-            "stock_queries": [
-              "earth from space window",
-              "great wall red x mark"
-            ],
-            "image_prompt": "Planet Earth viewed from a space station window with a bold red X graphic overlaid, cinematic lighting.",
-            "stock_query": "earth from space window"
-          },
-          {
-            "text": "Fact three. Astronaut footprints on the Moon could last millions of years. Three, two, one.",
-            "badge": "Q3",
-            "label": "Moon footprints forever?",
-            "stock_queries": [
-              "moon surface crater",
-              "countdown numbers"
-            ],
-            "image_prompt": "Grey dusty lunar surface under harsh space sunlight with countdown numbers floating in the dark sky.",
-            "stock_query": "moon surface crater"
-          },
-          {
-            "text": "True. The Moon has no wind or rain to wipe them away.",
-            "badge": "\u2713",
-            "label": "TRUE: no wind, no rain",
-            "stock_queries": [
-              "boot print in moon dust",
-              "apollo moon surface"
-            ],
-            "image_prompt": "Close-up of a crisp human boot print pressed into grey lunar dust on the Moon, high detail.",
-            "stock_query": "boot print in moon dust"
-          },
-          {
-            "text": "So the fake was the Great Wall, the myth almost everybody grew up believing. Which one fooled you, Venus, the Wall, or the footprints? Tell me, then try the next round before you scroll.",
-            "badge": "OUTRO",
-            "label": "Which one got you?",
-            "stock_queries": [
-              "venus and moon side by side",
-              "starfield zooming forward"
-            ],
-            "image_prompt": "Planets Venus, Earth, and the Moon floating side by side in a starfield, cinematic composition, vibrant colors.",
-            "stock_query": "venus and moon side by side"
-          }
-        ],
-        "key_facts": [
-          "A day on Venus is longer than its year (243 Earth days to spin once versus 225 to orbit the Sun).",
-          "The Great Wall of China cannot be seen from space with the naked eye because it is too narrow.",
-          "Astronaut footprints on the Moon can last millions of years due to the lack of wind and rain."
-        ],
-        "format": "quiz",
-        "tone": "normal",
-        "category": "24",
-        "script": "Before you scroll, can you spot which of these three space facts is fake? Three facts, three seconds each, and one is a myth. Fact one. A day on Venus is longer than its whole year. Three, two, one. True. Venus takes about two hundred forty-three Earth days to spin once, but only about two hundred twenty-five to circle the Sun. Fact two. You can see the Great Wall of China from space with your bare eyes. Three, two, one. Fake. Astronauts say it's too narrow and blends into the land around it. Fact three. Astronaut footprints on the Moon could last millions of years. Three, two, one. True. The Moon has no wind or rain to wipe them away. So the fake was the Great Wall, the myth almost everybody grew up believing. Which one fooled you, Venus, the Wall, or the footprints? Tell me, then try the next round before you scroll.",
-        "plan_id": "P2026-10-13-04",
-        "shot_plan": [
-          {
-            "subject": "planet Earth floating in dark space",
-            "queries": [
-              {
-                "q": "planet Earth space",
-                "must": [
-                  "earth"
-                ]
-              },
-              {
-                "q": "rotating globe space",
-                "must": [
-                  "globe"
-                ]
-              },
-              {
-                "q": "earth view from space",
-                "must": [
-                  "space"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "planet Venus glowing in space",
-            "queries": [
-              {
-                "q": "planet Venus space",
-                "must": [
-                  "venus"
-                ]
-              },
-              {
-                "q": "bright planet space",
-                "must": [
-                  "planet"
-                ]
-              },
-              {
-                "q": "spinning planet",
-                "must": [
-                  "sphere"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "sun and orbiting planet",
-            "queries": [
-              {
-                "q": "sun orbit space",
-                "must": [
-                  "sun"
-                ]
-              },
-              {
-                "q": "solar system orbit",
-                "must": [
-                  "orbit"
-                ]
-              },
-              {
-                "q": "planet rotation",
-                "must": [
-                  "rotation"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "Great Wall of China winding across mountains",
-            "queries": [
-              {
-                "q": "Great Wall China",
-                "must": [
-                  "wall"
-                ]
-              },
-              {
-                "q": "China mountains wall",
-                "must": [
-                  "china"
-                ]
-              },
-              {
-                "q": "ancient stone wall",
-                "must": [
-                  "stone"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "astronaut looking down at Earth from window",
-            "queries": [
-              {
-                "q": "astronaut space station window",
-                "must": [
-                  "astronaut"
-                ]
-              },
-              {
-                "q": "earth from window",
-                "must": [
-                  "window"
-                ]
-              },
-              {
-                "q": "person in spacesuit",
-                "must": [
-                  "spacesuit"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "footprint in grey Moon dust",
-            "queries": [
-              {
-                "q": "Moon footprint lunar",
-                "must": [
-                  "footprint"
-                ]
-              },
-              {
-                "q": "lunar dust surface",
-                "must": [
-                  "moon"
-                ]
-              },
-              {
-                "q": "boot print soil",
-                "must": [
-                  "dust"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "cratered surface of the Moon in black space",
-            "queries": [
-              {
-                "q": "Moon surface craters",
-                "must": [
-                  "moon"
-                ]
-              },
-              {
-                "q": "lunar surface craters",
-                "must": [
-                  "crater"
-                ]
-              },
-              {
-                "q": "grey rock surface",
-                "must": [
-                  "rock"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "astronaut walking on lunar surface",
-            "queries": [
-              {
-                "q": "astronaut Moon surface",
-                "must": [
-                  "astronaut"
-                ]
-              },
-              {
-                "q": "space exploration Moon",
-                "must": [
-                  "moon"
-                ]
-              },
-              {
-                "q": "lunar landing",
-                "must": [
-                  "landing"
-                ]
-              }
-            ]
-          }
-        ],
-        "broll": [
-          "deep space stars",
-          "planet Earth",
-          "galaxy spinning"
-        ],
-        "visual_style": "Fast-paced space trivia clips with clear visual prompts and countdown timers for guessing game engagement.",
-        "visual_refs": [],
-        "voice": "en-US-AndrewMultilingualNeural",
-        "visual_report": {
-          "shots": 15,
-          "checked": 15,
-          "unchecked": 0,
-          "filler": 0,
-          "ai": 0
-        }
-      },
-      "credits": [
-        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AndrewMultilingualNeural).",
-        "Stock footage/photos (Pexels/Pixabay Content License): Nerd_Nonsense (Pixabay) https://pixabay.com/videos/id-201404/; Osckar (Pixabay) https://pixabay.com/videos/id-2118/; PIRO4D (Pixabay) https://pixabay.com/videos/id-4788/; olenchic (Pixabay) https://pixabay.com/videos/id-144423/; olenchic (Pixabay) https://pixabay.com/videos/id-144478/; MisterMist (Pixabay) https://pixabay.com/videos/id-66949/; D-GM (Pixabay) https://pixabay.com/videos/id-199127/; TungArt7 (Pixabay) https://pixabay.com/videos/id-267748/; flutie8211 (Pixabay) https://pixabay.com/videos/id-361360/; AdisResic (Pixabay) https://pixabay.com/videos/id-218784/; Positive_Hedgehog (Pixabay) https://pixabay.com/videos/id-279585/; 8385 (Pixabay) https://pixabay.com/videos/id-10063/; WikiImages (Pixabay) https://pixabay.com/photos/astronaut-spaceman-spacesuit-11118/",
-        "NASA Johnson Space Center / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:Close-up_view_of_astronauts_foot_and_footprint_in_lunar_soil_(as11-40-5880).jpg",
-        "NASA Johnson Space Center / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:Astronaut_Alan_Bean_deploys_Lunar_Surface_Magnetometer_on_lunar_surface_(as12-46-6813).jpg"
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-13",
-        "name": "2026-10-13-4-v0.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-13",
-        "name": "2026-10-13-4-v0-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,094 --> 00:00:02,272\nBefore you scroll can you spot which\n\n2\n00:00:02,272 --> 00:00:04,597\nof these three space facts is fake\n\n3\n00:00:04,597 --> 00:00:07,863\nThree facts three seconds each and one\n\n4\n00:00:07,863 --> 00:00:10,363\nis a myth Fact one A day\n\n5\n00:00:10,363 --> 00:00:12,769\non Venus is longer than its whole\n\n6\n00:00:12,769 --> 00:00:16,532\nyear Three two one True Venus takes\n\n7\n00:00:16,532 --> 00:00:19,274\nabout two hundred forty-three Earth days to\n\n8\n00:00:19,274 --> 00:00:21,922\nspin once but only about two hundred\n\n9\n00:00:21,922 --> 00:00:23,642\ntwenty-five to circle the Sun.\n\n10\n00:00:23,642 --> 00:00:25,901\nFact two You can see the Great\n\n11\n00:00:25,901 --> 00:00:27,661\nWall of China from space with your\n\n12\n00:00:27,661 --> 00:00:32,003\nbare eyes Three two one Fake Astronauts\n\n13\n00:00:32,003 --> 00:00:34,368\nsay it's too narrow and blends into\n\n14\n00:00:34,368 --> 00:00:37,473\nthe land around it Fact three Astronaut\n\n15\n00:00:37,473 --> 00:00:40,376\nfootprints on the Moon could last millions\n\n16\n00:00:40,376 --> 00:00:43,844\nof years Three two one True The\n\n17\n00:00:43,844 --> 00:00:46,452\nMoon has no wind or rain to\n\n18\n00:00:46,452 --> 00:00:48,414\nwipe them away So the fake was\n\n19\n00:00:48,414 --> 00:00:51,210\nthe Great Wall the myth almost everybody\n\n20\n00:00:51,210 --> 00:00:54,032\ngrew up believing Which one fooled you\n\n21\n00:00:54,032 --> 00:00:57,379\nVenus the Wall or the footprints Tell\n\n22\n00:00:57,379 --> 00:00:59,651\nme then try the next round before\n\n23\n00:00:59,651 --> 00:01:00,669\nyou scroll\n",
-      "tg_msg": 362,
-      "opts_msg": 364,
-      "approved_by": "auto",
-      "quota_note": "2026-10-15",
-      "description_full": "Can you spot the myth in this 3-second space quiz? Find out if a day on Venus is longer than its year, if you can see the Great Wall of China from space, and how long Moon footprints last.\n\nIn this Short: three space facts, three seconds each, and one myth almost everyone believes.\n\nSources:\nhttps://www.theweathernetwork.com/en/news/science/space/how-long-is-the-solar-systems-longest-day-venus-has-the-answer\nhttps://www.universetoday.com/25364/can-you-see-the-great-wall-of-china-from-space/\nhttps://www.space.com/35352-eugene-cernan-moon-legacy-footprints.html\n\n#shorts #space #quiz #sciencefacts\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AndrewMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): Nerd_Nonsense (Pixabay) https://pixabay.com/videos/id-201404/; Osckar (Pixabay) https://pixabay.com/videos/id-2118/; PIRO4D (Pixabay) https://pixabay.com/videos/id-4788/; olenchic (Pixabay) https://pixabay.com/videos/id-144423/; olenchic (Pixabay) https://pixabay.com/videos/id-144478/; MisterMist (Pixabay) https://pixabay.com/videos/id-66949/; D-GM (Pixabay) https://pixabay.com/videos/id-199127/; TungArt7 (Pixabay) https://pixabay.com/videos/id-267748/; flutie8211 (Pixabay) https://pixabay.com/videos/id-361360/; AdisResic (Pixabay) https://pixabay.com/videos/id-218784/; Positive_Hedgehog (Pixabay) https://pixabay.com/videos/id-279585/; 8385 (Pixabay) https://pixabay.com/videos/id-10063/; WikiImages (Pixabay) https://pixabay.com/photos/astronaut-spaceman-spacesuit-11118/\nNASA Johnson Space Center / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:Close-up_view_of_astronauts_foot_and_footprint_in_lunar_soil_(as11-40-5880).jpg\nNASA Johnson Space Center / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:Astronaut_Alan_Bean_deploys_Lunar_Surface_Magnetometer_on_lunar_surface_(as12-46-6813).jpg\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/ecEH58wBopc",
-          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-15T09:38:20.627308+00:00",
-      "slot": "2026-10-15T23:15:00+00:00"
-    },
-    "2026-10-14-1": {
-      "topic": {
-        "title": "Top 5 Animals That Go Wild for Snow \u2744\ufe0f",
-        "angle": "Kind animal comedy dominates the top outliers (58.8x and 47.0x funny/relatable Shorts) and Google Trends has 'montana snow today' riding on a dog with 'zero chill' about the first snow, so a funny snow-day countdown rides the moment.",
-        "format": "ranking",
-        "tone": "normal",
-        "virality_score": 8,
-        "trend_source": "Google Trends: montana snow today ('Dog has zero chill about Montana's first snow'); FOSFORITO EN SALSA (CAMILO AGUILLON, 58.8x, kind comedy)",
-        "plan_id": "P2026-10-14-01"
-      },
-      "status": "published",
-      "by": "auto",
-      "updated": "2026-10-15T09:38:30.993835+00:00",
-      "redos": 0,
-      "package": {
-        "primary_keyword": "animals playing in snow",
-        "title": "Top 5 Animals That Go Wild for Snow \u2744\ufe0f",
-        "hook_text": "ZOOMIES, BUT WILD",
-        "thumbnail_text": "PANDA SOMERSAULTS",
-        "description": "These animals that love snow treat a snow day like a playground, from otters belly-sliding to a crow snowboarding on a lid. Here are the top 5 snow animals playing in snow, counted down to the panda that somersaulted through a blizzard.\n\nIn this Short: river otters, a hooded crow, Japanese snow monkeys, the red fox and a giant panda.\n\nSources:\nhttps://northernwoodlands.org/outside_story/article/sliding-shenanigans\nhttps://audubon.org/news/crow-snowboards-rooftop-proving-yet-again-corvids-are-smarty-pants\nhttps://www.mentalfloss.com/article/55874/9-reasons-love-amazing-snow-monkey",
-        "hashtags": [
-          "#shorts",
-          "#animals",
-          "#snow",
-          "#animalfacts",
-          "#top5"
-        ],
-        "tags": [
-          "animals playing in snow",
-          "snow animals",
-          "otters sliding in snow",
-          "zoo animals playing in snow",
-          "cute animals playing in snow",
-          "winter animals playing in the snow",
-          "top 5 animals",
-          "animals that love snow",
-          "hooded crow",
-          "snow monkeys",
-          "red fox mousing",
-          "giant panda snow",
-          "crow snowboarding",
-          "fox diving in snow",
-          "river otter sliding",
-          "panda rolling in snow",
-          "animal facts",
-          "japanese macaque"
-        ],
-        "pinned_comment": "Bonus fact: in one study, red foxes' snow dives worked far more often when they leapt facing roughly north. Which animal would you build a snowman with?",
-        "scenes": [
-          {
-            "text": "You think your dog loves snow, but you've never seen a fox dive headfirst into it, and that's only number two. Let's count down five animals that treat snow like a playground.",
-            "badge": "INTRO",
-            "label": "Snow Animals",
-            "stock_queries": [
-              "dog running in snow",
-              "snowy forest landscape"
-            ],
-            "image_prompt": "cinematic wide shot of a snowy pine forest with fresh powder falling gently at sunrise",
-            "stock_query": "dog running in snow"
-          },
-          {
-            "text": "Number five, river otters. They belly-slide down snowy hills, and one study saw three otters slide the same rock sixteen times in six minutes.",
-            "badge": "#5",
-            "label": "RIVER OTTERS",
-            "stock_queries": [
-              "river otter in snow",
-              "otter sliding on snow"
-            ],
-            "image_prompt": "cute river otter sliding on its belly down a snowy riverbank",
-            "stock_query": "river otter in snow"
-          },
-          {
-            "text": "Number four, a snowboarding crow. A hooded crow was filmed riding a jar lid down a snowy roof.",
-            "badge": "#4",
-            "label": "SNOWBOARDING CROW",
-            "stock_queries": [
-              "crow on snowy roof",
-              "snow sliding off roof"
-            ],
-            "image_prompt": "black crow perched on a snowy rooftop in winter holding a jar lid",
-            "stock_query": "crow on snowy roof"
-          },
-          {
-            "text": "Number three, snow monkeys. In Japan, they soak in hot springs and roll snowballs for fun.",
-            "badge": "#3",
-            "label": "SNOW MONKEYS",
-            "stock_queries": [
-              "snow monkeys in hot spring",
-              "macaque playing with snow"
-            ],
-            "image_prompt": "Japanese macaques relaxing in a steaming hot spring surrounded by deep white snow",
-            "stock_query": "snow monkeys in hot spring"
-          },
-          {
-            "text": "Number two, the red fox. It hears mice under the snow, leaps up, and dives in nose first. Scientists think it may use Earth's magnetic field to aim.",
-            "badge": "#2",
-            "label": "RED FOX",
-            "stock_queries": [
-              "red fox in snow",
-              "fox diving into snow"
-            ],
-            "image_prompt": "red fox leaping dramatically headfirst into deep fluffy snow in a sunny field",
-            "stock_query": "red fox in snow"
-          },
-          {
-            "text": "Number one, the giant panda. In a twenty-sixteen blizzard, a panda at the National Zoo rolled and somersaulted through the snow.",
-            "badge": "#1",
-            "label": "GIANT PANDA",
-            "stock_queries": [
-              "giant panda in snow",
-              "panda rolling in snow"
-            ],
-            "image_prompt": "giant panda joyfully somersaulting and rolling in fresh deep snow at a zoo",
-            "stock_query": "giant panda in snow"
-          },
-          {
-            "text": "So the panda wins the snow day. Which animal would you play in the snow with? Because after that panda, your dog has competition.",
-            "badge": "OUTRO",
-            "label": "Snow Day Winner",
-            "stock_queries": [
-              "dog playing in snow",
-              "kids playing in snow"
-            ],
-            "image_prompt": "happy dog zooming in circles in a backyard covered in fresh white snow",
-            "stock_query": "dog playing in snow"
-          }
-        ],
-        "key_facts": [
-          "River otters belly-slide down snowy hills and were observed sliding the same rock 16 times in 6 minutes.",
-          "A hooded crow was filmed riding a jar lid down a snowy roof like a snowboard.",
-          "Japanese snow monkeys soak in hot springs and roll snowballs for fun.",
-          "Red foxes dive headfirst into snow to catch mice and may use Earth's magnetic field to aim.",
-          "A giant panda at the National Zoo rolled and somersaulted through snow during a 2016 blizzard."
-        ],
-        "format": "ranking",
-        "tone": "normal",
-        "category": "27",
-        "script": "You think your dog loves snow, but you've never seen a fox dive headfirst into it, and that's only number two. Let's count down five animals that treat snow like a playground. Number five, river otters. They belly-slide down snowy hills, and one study saw three otters slide the same rock sixteen times in six minutes. Number four, a snowboarding crow. A hooded crow was filmed riding a jar lid down a snowy roof. Number three, snow monkeys. In Japan, they soak in hot springs and roll snowballs for fun. Number two, the red fox. It hears mice under the snow, leaps up, and dives in nose first. Scientists think it may use Earth's magnetic field to aim. Number one, the giant panda. In a twenty-sixteen blizzard, a panda at the National Zoo rolled and somersaulted through the snow. So the panda wins the snow day. Which animal would you play in the snow with? Because after that panda, your dog has competition.",
-        "plan_id": "P2026-10-14-01",
-        "shot_plan": [
-          {
-            "subject": "fox diving headfirst into snow",
-            "queries": [
-              {
-                "q": "fox diving snow",
-                "must": [
-                  "fox"
-                ]
-              },
-              {
-                "q": "red fox winter",
-                "must": [
-                  "snow"
-                ]
-              },
-              {
-                "q": "wild fox snow",
-                "must": [
-                  "animal"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "river otters sliding down snowy hill",
-            "queries": [
-              {
-                "q": "river otters snow",
-                "must": [
-                  "otter"
-                ]
-              },
-              {
-                "q": "otters sliding snow",
-                "must": [
-                  "snow"
-                ]
-              },
-              {
-                "q": "playful otter winter",
-                "must": [
-                  "animal"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "crow on roof in snow",
-            "queries": [
-              {
-                "q": "crow snow roof",
-                "must": [
-                  "crow"
-                ]
-              },
-              {
-                "q": "bird snow winter",
-                "must": [
-                  "snow"
-                ]
-              },
-              {
-                "q": "hooded crow snow",
-                "must": [
-                  "bird"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "snow monkeys in hot spring",
-            "queries": [
-              {
-                "q": "snow monkeys hot spring",
-                "must": [
-                  "monkey"
-                ]
-              },
-              {
-                "q": "japanese macaque snow",
-                "must": [
-                  "snow"
-                ]
-              },
-              {
-                "q": "monkey winter japan",
-                "must": [
-                  "primate"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "red fox hunting in snow",
-            "queries": [
-              {
-                "q": "red fox snow jump",
-                "must": [
-                  "fox"
-                ]
-              },
-              {
-                "q": "fox hunting snow",
-                "must": [
-                  "snow"
-                ]
-              },
-              {
-                "q": "wild fox winter",
-                "must": [
-                  "animal"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "giant panda rolling in snow",
-            "queries": [
-              {
-                "q": "giant panda snow",
-                "must": [
-                  "panda"
-                ]
-              },
-              {
-                "q": "panda playing snow",
-                "must": [
-                  "snow"
-                ]
-              },
-              {
-                "q": "panda winter zoo",
-                "must": [
-                  "bear"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "dog playing in snow",
-            "queries": [
-              {
-                "q": "dog playing snow",
-                "must": [
-                  "dog"
-                ]
-              },
-              {
-                "q": "puppy snow winter",
-                "must": [
-                  "snow"
-                ]
-              },
-              {
-                "q": "dog snow day",
-                "must": [
-                  "pet"
-                ]
-              }
-            ]
-          }
-        ],
-        "broll": [
-          "snow animal",
-          "winter wildlife",
-          "snow play"
-        ],
-        "visual_style": "High-energy vertical stock footage of funny and playful animals enjoying the snow with bold on-screen titles.",
-        "visual_refs": [
-          "Different Animals In Snow Ranked",
-          "Snow Animal #shorts #viral #animal",
-          "Top 5 Best Snow Leopards You&#39;ll Ever See",
-          "\ud83d\udc3b\u200d\u2744\ufe0fTop 5 Snow Masters!",
-          "Barely 100 Amur Leopards Left on Earth \ud83d\udc06 #shorts",
-          "Ranking Dogs In Snow Moments"
-        ],
-        "voice": "en-US-EmmaMultilingualNeural",
-        "visual_report": {
-          "shots": 13,
-          "checked": 13,
-          "unchecked": 0,
-          "filler": 1,
-          "ai": 0
-        }
-      },
-      "credits": [
-        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-EmmaMultilingualNeural).",
-        "Stock footage/photos (Pexels/Pixabay Content License): Solarselle77 (Pixabay) https://pixabay.com/videos/id-305344/; flutie8211 (Pixabay) https://pixabay.com/videos/id-333483/; koshinuke_mcfly (Pixabay) https://pixabay.com/photos/monkey-mammals-wild-animals-natural-3132624/; drayda (Pixabay) https://pixabay.com/videos/id-300839/; drayda (Pixabay) https://pixabay.com/videos/id-300841/; MrWashingt0n (Pixabay) https://pixabay.com/videos/id-276422/",
-        "U.S. Fish and Wildlife Service - Midwest Region / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:River_otters_in_the_snow_(54342012280).jpg",
-        "\u767d\u58eb \u674e / Wikimedia Commons (CC BY 2.0) https://commons.wikimedia.org/wiki/File:Snow_Monkey_in_Hot_Spring_(32650593112).jpg",
-        "Neal Herbert / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:Hunting_fox,_Hayden_Valley_(0202c123-2947-4e65-b79a-6a47e6477217).jpg",
-        "Neal Herbert / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:Hunting_fox,_Hayden_Valley_(0d30e6c3-e128-46db-b34d-e4e112abad07).jpg",
-        "Neal Herbert / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:Leaping_Fox,_Hayden_Valley_(6e8ac3ea-382a-46f9-b2e9-1bb3cbfe5ab0).jpg",
-        "Unknown author Unknown author / Wikimedia Commons (CC0) https://commons.wikimedia.org/wiki/File:NZP-20091222-189MM-000002.jpg"
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-14",
-        "name": "2026-10-14-1-v0.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-14",
-        "name": "2026-10-14-1-v0-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,100 --> 00:00:02,062\nYou think your dog loves snow but\n\n2\n00:00:02,062 --> 00:00:04,075\nyou've never seen a fox dive headfirst\n\n3\n00:00:04,075 --> 00:00:06,575\ninto it and that's only number two\n\n4\n00:00:06,575 --> 00:00:08,713\nLet's count down five animals that treat\n\n5\n00:00:08,713 --> 00:00:11,537\nsnow like a playground Number five river\n\n6\n00:00:11,537 --> 00:00:14,875\notters They belly-slide down snowy hills and\n\n7\n00:00:14,875 --> 00:00:16,775\none study saw three otters slide the\n\n8\n00:00:16,775 --> 00:00:19,637\nsame rock sixteen times in six minutes\n\n9\n00:00:19,637 --> 00:00:22,500\nNumber four a snowboarding crow A hooded\n\n10\n00:00:22,500 --> 00:00:24,250\ncrow was filmed riding a jar lid\n\n11\n00:00:24,250 --> 00:00:27,000\ndown a snowy roof Number three snow\n\n12\n00:00:27,000 --> 00:00:29,600\nmonkeys In Japan they soak in hot\n\n13\n00:00:29,600 --> 00:00:32,400\nsprings and roll snowballs for fun Number\n\n14\n00:00:32,400 --> 00:00:35,000\ntwo the red fox It hears mice\n\n15\n00:00:35,000 --> 00:00:37,388\nunder the snow leaps up and dives\n\n16\n00:00:37,388 --> 00:00:40,062\nin nose first Scientists think it may\n\n17\n00:00:40,062 --> 00:00:42,800\nuse Earth's magnetic field to aim Number\n\n18\n00:00:42,800 --> 00:00:45,600\none the giant panda In a twenty-sixteen\n\n19\n00:00:45,600 --> 00:00:47,987\nblizzard a panda at the National Zoo\n\n20\n00:00:47,987 --> 00:00:50,575\nrolled and somersaulted through the snow So\n\n21\n00:00:50,575 --> 00:00:52,900\nthe panda wins the snow day Which\n\n22\n00:00:52,900 --> 00:00:54,350\nanimal would you play in the snow\n\n23\n00:00:54,350 --> 00:00:57,125\nwith Because after that panda your dog\n\n24\n00:00:57,125 --> 00:00:58,587\nhas competition\n",
-      "tg_msg": 391,
-      "opts_msg": 393,
-      "approved_by": "auto",
-      "quota_note": "2026-10-15",
-      "description_full": "These animals that love snow treat a snow day like a playground, from otters belly-sliding to a crow snowboarding on a lid. Here are the top 5 snow animals playing in snow, counted down to the panda that somersaulted through a blizzard.\n\nIn this Short: river otters, a hooded crow, Japanese snow monkeys, the red fox and a giant panda.\n\nSources:\nhttps://northernwoodlands.org/outside_story/article/sliding-shenanigans\nhttps://audubon.org/news/crow-snowboards-rooftop-proving-yet-again-corvids-are-smarty-pants\nhttps://www.mentalfloss.com/article/55874/9-reasons-love-amazing-snow-monkey\n\n#shorts #animals #snow #animalfacts #top5\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-EmmaMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): Solarselle77 (Pixabay) https://pixabay.com/videos/id-305344/; flutie8211 (Pixabay) https://pixabay.com/videos/id-333483/; koshinuke_mcfly (Pixabay) https://pixabay.com/photos/monkey-mammals-wild-animals-natural-3132624/; drayda (Pixabay) https://pixabay.com/videos/id-300839/; drayda (Pixabay) https://pixabay.com/videos/id-300841/; MrWashingt0n (Pixabay) https://pixabay.com/videos/id-276422/\nU.S. Fish and Wildlife Service - Midwest Region / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:River_otters_in_the_snow_(54342012280).jpg\n\u767d\u58eb \u674e / Wikimedia Commons (CC BY 2.0) https://commons.wikimedia.org/wiki/File:Snow_Monkey_in_Hot_Spring_(32650593112).jpg\nNeal Herbert / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:Hunting_fox,_Hayden_Valley_(0202c123-2947-4e65-b79a-6a47e6477217).jpg\nNeal Herbert / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:Hunting_fox,_Hayden_Valley_(0d30e6c3-e128-46db-b34d-e4e112abad07).jpg\nNeal Herbert / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:Leaping_Fox,_Hayden_Valley_(6e8ac3ea-382a-46f9-b2e9-1bb3cbfe5ab0).jpg\nUnknown author Unknown author / Wikimedia Commons (CC0) https://commons.wikimedia.org/wiki/File:NZP-20091222-189MM-000002.jpg\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/1SVXScItRsY",
-          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-15T09:38:30.993852+00:00",
-      "slot": "2026-10-16T01:15:00+00:00"
-    },
     "2026-10-14-2": {
       "topic": {
         "title": "5 Real English Words That Sound Made Up",
@@ -9906,9 +8423,9 @@
         "trend_source": "I Made Soap Noodles For My Boyfriend! (97.3x, Unclassified - looks like one thing, is another); Desi Vs Electric cotton candy maker! (2.4x, The Comparison)",
         "plan_id": "P2026-10-19-04"
       },
-      "status": "approved",
+      "status": "published",
       "by": "auto",
-      "updated": "2026-10-19T21:55:38.107074+00:00",
+      "updated": "2026-10-22T11:12:07.252314+00:00",
       "redos": 0,
       "package": {
         "primary_keyword": "food origins quiz",
@@ -10272,7 +8789,28 @@
       "tg_msg": 551,
       "opts_msg": 553,
       "approved_by": "auto",
-      "quota_note": "2026-10-22"
+      "quota_note": "2026-10-22",
+      "description_full": "Where was Hawaiian pizza invented? This 3-second food origins quiz covers where Hawaiian pizza, fortune cookies and German chocolate cake were really invented, and none of these foods come from where their names suggest.\n\nIn this Short: three food origin questions, three seconds each, with the real answers.\n\nSources:\nhttps://thecanadianencyclopedia.ca/en/article/hawaiian-pizza\nhttps://www.snopes.com/fact-check/inscrutable-cookie/\nhttps://www.saturdayeveningpost.com/2018/12/in-a-word-german-chocolate-cake-isnt/\n\n#shorts #quiz #food #funfacts\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AndrewMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): kurt_BID (Pixabay) https://pixabay.com/videos/id-227127/; Citor3 (Pixabay) https://pixabay.com/videos/id-17177/; neelam279 (Pixabay) https://pixabay.com/photos/fortune-cookie-cookie-cute-8531636/; padrinan (Pixabay) https://pixabay.com/photos/chinese-cookie-dessert-fortune-3087576/; meltdown61 (Pixabay) https://pixabay.com/photos/japanese-rice-crackers-snack-2718371/; StruffelProductions (Pixabay) https://pixabay.com/videos/id-12669/; geralt (Pixabay) https://pixabay.com/photos/hand-keep-globe-earth-continents-1030565/\nKimberly Vardeman / Wikimedia Commons (CC BY 2.0) https://commons.wikimedia.org/wiki/File:German_Chocolate_Cake,_April_2008.jpg\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/O8VifnBW1K4",
+          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-10-22T11:12:07.252325+00:00",
+      "slot": "2026-10-22T16:15:00+00:00"
     },
     "2026-10-19-2-1": {
       "topic": {
@@ -11373,9 +9911,9 @@
         "trend_source": "title shape of How Plato's Alarm Clock Worked (247,000 views/h); also How Electrical Outlets Work (372,500 views/h)",
         "plan_id": "P2026-10-20-01"
       },
-      "status": "approved",
+      "status": "published",
       "by": "auto",
-      "updated": "2026-10-20T19:40:25.061651+00:00",
+      "updated": "2026-10-22T11:12:14.354516+00:00",
       "redos": 0,
       "package": {
         "primary_keyword": "ancient ice house",
@@ -11555,7 +10093,28 @@
       "tg_msg": 602,
       "opts_msg": 604,
       "approved_by": "auto",
-      "quota_note": "2026-10-22"
+      "quota_note": "2026-10-22",
+      "description_full": "How did ancient people make ice in the desert without electricity? A yakhchal was an ancient Persian ice house: shaded pools froze on clear winter nights, and a giant thick-walled cone stored the ice all summer.\n\nIn this Short: the shade wall, the night-sky freezing trick, and how the cone kept ice cold through a desert summer.\n\nSources:\nhttps://en.wikipedia.org/wiki/Yakhch%C4%81l\nhttps://www.birdsoutsidemywindow.org/2021/01/06/how-to-make-ice-in-the-desert/\nhttps://www.historicmysteries.com/yakhchal/\n\n#shorts #history #howitworks #engineering\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AvaMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): Natalia_Kollegova (Pixabay) https://pixabay.com/photos/icicles-snow-winter-spring-drops-3157278/; Natalia_Kollegova (Pixabay) https://pixabay.com/photos/icicles-snow-winter-spring-drops-3157500/\nSuSanA Secretariat / Wikimedia Commons (CC BY 2.0) https://commons.wikimedia.org/wiki/File:Fetching_water_from_spring_water_channel_(4361656507).jpg\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/qQzbL3b15fk",
+          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-10-22T11:12:14.354528+00:00",
+      "slot": "2026-10-22T19:15:00+00:00"
     },
     "2026-10-20-2": {
       "topic": {
@@ -11567,9 +10126,9 @@
         "trend_source": "He Saved These Baby Sea Turtles (30.4x, Unclassified - one caring moment with baby animals)",
         "plan_id": "P2026-10-20-02"
       },
-      "status": "approved",
+      "status": "published",
       "by": "auto",
-      "updated": "2026-10-20T20:04:47.216881+00:00",
+      "updated": "2026-10-22T11:12:18.776874+00:00",
       "redos": 0,
       "package": {
         "primary_keyword": "best animal dads",
@@ -11902,7 +10461,28 @@
       "tg_msg": 605,
       "opts_msg": 607,
       "approved_by": "auto",
-      "quota_note": "2026-10-22"
+      "quota_note": "2026-10-22",
+      "description_full": "These animal dads do all the work, from the male seahorse that gives birth to the emperor penguin that goes up to 67 days without eating. Here are the best animal fathers in nature, counted down from five to one.\n\nIn this Short: the giant water bug, the smooth guardian frog, the greater rhea, the emperor penguin and the seahorse.\n\nSources:\nhttps://popsci.com/environment/animal-fathers-egg-care\nhttps://dipsy.pbs.org/wgbh/nova/seahorse/superdads.html\nhttps://www.calacademy.org/explore-science/amazing-animal-dads\n\n#shorts #animals #nature #top5\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-EmmaMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): 49666880 (Pixabay) https://pixabay.com/videos/id-270925/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-310639/; MoonpetalMedia (Pixabay) https://pixabay.com/videos/id-369686/; MabelAmber (Pixabay) https://pixabay.com/photos/greater-rhea-common-rhea-bird-3196337/; MemoryCatcher (Pixabay) https://pixabay.com/photos/emperor-penguins-baby-penguin-birds-429128/; MemoryCatcher (Pixabay) https://pixabay.com/photos/penguins-emperor-penguins-baby-429134/; MemoryCatcher (Pixabay) https://pixabay.com/photos/penguin-baby-antarctic-life-animal-429125/; MoonpetalMedia (Pixabay) https://pixabay.com/videos/id-358613/\nphoto taken by flickr user noisecollusion / Wikimedia Commons (CC BY 2.0) https://commons.wikimedia.org/wiki/File:Toe-Biter.jpg\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/G2o5xiTxi2g",
+          "private \u00b7 thumbnail \u26a0\ufe0f The thumbnail can't be set for the specified video. The request might not be pro \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-10-22T11:12:18.776885+00:00",
+      "slot": "2026-10-22T23:15:00+00:00"
     },
     "2026-10-20-3": {
       "topic": {
@@ -11929,9 +10509,9 @@
         "trend_source": "He Saved These Baby Sea Turtles (30.4x) and the one-moment-reveal structure of today's top outliers",
         "plan_id": "P2026-10-20-04"
       },
-      "status": "approved",
+      "status": "published",
       "by": "auto",
-      "updated": "2026-10-20T20:17:46.298138+00:00",
+      "updated": "2026-10-22T11:12:26.417478+00:00",
       "redos": 0,
       "package": {
         "primary_keyword": "oldest message in a bottle",
@@ -12257,7 +10837,28 @@
       "tg_msg": 609,
       "opts_msg": 611,
       "approved_by": "auto",
-      "quota_note": "2026-10-22"
+      "quota_note": "2026-10-22",
+      "description_full": "The oldest message in a bottle ever found was thrown from the German ship Paula in 1886 and found on a beach in Western Australia in 2018. This message in a bottle spent 131 years lost before anyone read it.\n\nIn this Short: how the bottle was found, what the note said, and why German captains threw thousands of bottles into the sea.\n\nThis is a true story.\n\nSources:\nhttps://guinnessworldrecords.com/world-records/oldest-message-in-a-bottle\nhttps://www.nationalgeographic.com/history/article/oldest-message-in-a-bottle-australia-german-spd\nhttps://wgbh.org/news/2018-03-07/oldest-known-message-in-a-bottle-found-in-australia\n\n#shorts #truestory #history #ocean #storytime\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AndrewMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): MoonpetalMedia (Pixabay) https://pixabay.com/videos/id-342401/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-342450/; MoonpetalMedia (Pixabay) https://pixabay.com/videos/id-360214/; NoName_13 (Pixabay) https://pixabay.com/photos/bottle-message-beach-1694868/; Atlantios (Pixabay) https://pixabay.com/photos/message-in-a-bottle-sea-wreck-3437294/; enzol (Pixabay) https://pixabay.com/photos/schooner-vintage-sailing-sail-ship-487800/; Matyze (Pixabay) https://pixabay.com/photos/pirates-sailing-ship-frigate-ship-587988/; JoannaWhittaker (Pixabay) https://pixabay.com/photos/ship-tallship-tall-ship-sea-sail-2523650/; hudsoncrafted (Pixabay) https://pixabay.com/photos/merry-christmas-pen-handwriting-3481061/; Joa70 (Pixabay) https://pixabay.com/photos/fountain-pen-write-handwriting-5898439/; 2211438 (Pixabay) https://pixabay.com/photos/old-handwriting-write-old-script-1277562/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-341562/; Positive_Hedgehog (Pixabay) https://pixabay.com/videos/id-279394/\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/vEVi6cht6MY",
+          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-10-22T11:12:26.417487+00:00",
+      "slot": "2026-10-23T01:15:00+00:00"
     },
     "2026-10-21-1": {
       "topic": {
@@ -13577,5 +12178,5 @@
   "visual_searches": {
     "2026-10-21": 3
   },
-  "signals_day": "2026-10-21"
+  "signals_day": "2026-10-22"
 }
