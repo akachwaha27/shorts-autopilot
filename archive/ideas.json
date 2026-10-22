@@ -1855,5 +1855,78 @@
   ],
   "sent_at": "2026-10-21T18:41:11.690753+00:00",
   "status": "closed"
+ },
+ "2026-10-22": {
+  "date": "2026-10-22",
+  "ideas": [
+   {
+    "angle": "Zack D. Films' \"How Electrical Outlets Work\" is pulling about 194,376 views per hour (47.9M views in 4 days, breakout score 4.25) - the top non-tech \"How [everyday object] Works\" this week - and a click pen gives the same see-inside-a-thing-you-touch-daily payoff with a cross-section.",
+    "format": "animated",
+    "picked": false,
+    "rank": 1,
+    "title": "How A Click Pen Works in 2 Clicks",
+    "trend_source": "title shape of How Electrical Outlets Work (194,376 views/h); also How Plato's Alarm Clock Worked (42,752 views/h)",
+    "video_id": null,
+    "virality_score": 8,
+    "why": ""
+   },
+   {
+    "angle": "Today's US Shorts outliers are dominated by funny situational setups - \"LIVE THEATER goes WRONG!\" at 11.5x and \"Funny Experiment\" at 3.1x their channel medians - and a real cat experiment with a silly reveal is that same funny-experiment shape, faceless and family-friendly.",
+    "format": "funny",
+    "picked": false,
+    "rank": 2,
+    "title": "30 Cats vs a Square Made of Nothing 😂",
+    "trend_source": "Funny Experiment 😂 (3.1x); LIVE THEATER goes WRONG! (11.5x)",
+    "video_id": null,
+    "virality_score": 8,
+    "why": ""
+   },
+   {
+    "angle": "\"Welcome to Earth 210 million years ago\" is at 2.5x its channel median today and Zack D. Films' \"Could You Move Mount Everest To America?\" is pulling about 92,292 views/h, so a ranked trip to impossible places with a myth-busting #1 fits the take-you-somewhere-unreal shape.",
+    "format": "ranking",
+    "picked": false,
+    "rank": 3,
+    "title": "Top 5 Hottest Planets (#1 Isn't Closest)",
+    "trend_source": "Welcome to Earth 210 million years ago and see dinosaurs (2.5x); Could You Move Mount Everest To America? (Zack D. Films, 92,292 views/h)",
+    "video_id": null,
+    "virality_score": 7,
+    "why": ""
+   },
+   {
+    "angle": "\"They Trying To Make 100% Perfect Circle But Failed\" is at 2.2x its channel median today (3.9M views, The Statistic formula), and this is the real-world version of that same chase for perfect roundness, with a scale comparison anyone can picture.",
+    "format": "explainer",
+    "picked": false,
+    "rank": 4,
+    "title": "This 1 kg Ball Is the Roundest Ever Made",
+    "trend_source": "They Trying To Make 100% Perfect Circle But Failed (2.2x, The Statistic)",
+    "video_id": null,
+    "virality_score": 7,
+    "why": ""
+   },
+   {
+    "angle": "Today's biggest outliers (\"Majuu mamuh behind the door\" at 34.6x, \"wait for the end\" at 6.2x) all state one odd, concrete situation in plain words and hold back the outcome, and \"a tree that owns its land\" is exactly that kind of single strange setup with a payoff at the end.",
+    "format": "story",
+    "picked": false,
+    "rank": 5,
+    "title": "Why This Tree Owns 8 Feet of Land",
+    "trend_source": "Majuu mamuh behind the door (34.6x); wait for the end 😱 (6.2x)",
+    "video_id": null,
+    "virality_score": 6,
+    "why": ""
+   },
+   {
+    "angle": "\"Who invented maths & physics??\" is at 5.9x its channel median today - a playful question about things everyone uses - and a 3-second name-it quiz on everyday objects turns that curiosity into comment-bait with a score viewers can post.",
+    "format": "quiz",
+    "picked": false,
+    "rank": 6,
+    "title": "Guess the Real Names of 3 Tiny Things",
+    "trend_source": "Who invented maths & physics?? (5.9x)",
+    "video_id": null,
+    "virality_score": 6,
+    "why": ""
+   }
+  ],
+  "sent_at": "2026-10-22T15:55:12.716328+00:00",
+  "status": "waiting"
  }
 }

@@ -1,72 +1,6 @@
 {
   "tg_offset": 40455537,
   "batches": {
-    "2026-10-18": {
-      "topics": [
-        {
-          "title": "Why New Baseballs Get 30 Seconds of Mud",
-          "angle": "Today's only big classified outlier, 'Why Do Golfers Pour Sand After Every Shot?' (25.5x, The Question), asks why a sport does a strange ritual, and this is the same shape on a ritual almost nobody has explained.",
-          "format": "explainer",
-          "tone": "normal",
-          "virality_score": 8,
-          "trend_source": "Why Do Golfers Pour Sand After Every Shot? #youtubeshorts #shorts (25.5x, The Question)",
-          "plan_id": "P2026-10-18-01"
-        },
-        {
-          "title": "Top 5 Words Brits and Americans Mix Up \ud83d\ude02",
-          "angle": "The top outliers today, like 'Jugadu Student in School Ram Leela' (418.1x) and 'So THAT'S why she was on the ceiling' (60.0x), are kind, relatable comedy built on one everyday mix-up, and this is that in word form with a countdown.",
-          "format": "funny",
-          "tone": "funny",
-          "virality_score": 7,
-          "trend_source": "Jugadu Student in School Ram Leela (418.1x, Unclassified); So THAT'S why she was on the ceiling... (60.0x, Unclassified)",
-          "plan_id": "P2026-10-18-02"
-        },
-        {
-          "title": "Top 5 Biggest Deserts (#1 Is Freezing)",
-          "angle": "'Why Do Golfers Pour Sand After Every Shot?' (25.5x, The Question) shows a simple why-question about something familiar beats raw spectacle, and 'biggest desert isn't the Sahara' turns that into a countdown with a twist at number one.",
-          "format": "ranking",
-          "tone": "normal",
-          "virality_score": 7,
-          "trend_source": "Why Do Golfers Pour Sand After Every Shot? (25.5x, The Question); Who has the BEST MODEL FACE (8.4x, The Superlative)",
-          "plan_id": "P2026-10-18-04"
-        },
-        {
-          "title": "Shoelaces Keep Untying? 2 Fixes",
-          "angle": "'Why Do Golfers Pour Sand After Every Shot?' (25.5x, The Question) proves a why-question about an everyday annoyance pulls views, and nearly everyone has had a shoelace come untied.",
-          "format": "tips",
-          "tone": "normal",
-          "virality_score": 6,
-          "trend_source": "Why Do Golfers Pour Sand After Every Shot? (25.5x, The Question)",
-          "plan_id": "P2026-10-18-05"
-        },
-        {
-          "title": "1 Stone Coin Sank. It Still Counted",
-          "angle": "'So THAT'S why she was on the ceiling' (60.0x) and 'Can You Really Turn an Eggshell Into a Candle?!' (4.4x) both promise a reveal that sounds impossible, and money that sank but still counted is that impossible-sounding payoff, told as a true story.",
-          "format": "story",
-          "tone": "normal",
-          "virality_score": 6,
-          "trend_source": "So THAT'S why she was on the ceiling... (60.0x, Unclassified); Can You Really Turn an Eggshell Into a Candle?! (4.4x, The Question)",
-          "plan_id": "P2026-10-18-06"
-        },
-        {
-          "title": "Top 5 Animals That Are Hilariously Terrible at Fighting",
-          "angle": "A countdown of wild creatures whose aggressive territorial brawls look more like awkward toddler hugs and slow-motion slaps than actual combat.",
-          "format": "ranking",
-          "tone": "funny",
-          "trend_source": "evergreen",
-          "virality_score": 9.5,
-          "why": "High visual comedy drives strong completion rates; viewers immediately rewatch the funniest clips and debate in the comments about red pandas and giraffes."
-        }
-      ],
-      "sent_at": "2026-10-18T17:25:47.124796+00:00",
-      "selected": [
-        0,
-        1,
-        2,
-        5
-      ],
-      "status": "closed"
-    },
     "2026-10-19": {
       "topics": [
         {
@@ -379,6 +313,67 @@
       "sent_at": "2026-10-21T18:41:11.690753+00:00",
       "selected": [],
       "status": "closed"
+    },
+    "2026-10-22": {
+      "topics": [
+        {
+          "title": "How A Click Pen Works in 2 Clicks",
+          "angle": "Zack D. Films' \"How Electrical Outlets Work\" is pulling about 194,376 views per hour (47.9M views in 4 days, breakout score 4.25) - the top non-tech \"How [everyday object] Works\" this week - and a click pen gives the same see-inside-a-thing-you-touch-daily payoff with a cross-section.",
+          "format": "animated",
+          "tone": "normal",
+          "virality_score": 8,
+          "trend_source": "title shape of How Electrical Outlets Work (194,376 views/h); also How Plato's Alarm Clock Worked (42,752 views/h)",
+          "plan_id": "P2026-10-22-01"
+        },
+        {
+          "title": "30 Cats vs a Square Made of Nothing \ud83d\ude02",
+          "angle": "Today's US Shorts outliers are dominated by funny situational setups - \"LIVE THEATER goes WRONG!\" at 11.5x and \"Funny Experiment\" at 3.1x their channel medians - and a real cat experiment with a silly reveal is that same funny-experiment shape, faceless and family-friendly.",
+          "format": "funny",
+          "tone": "funny",
+          "virality_score": 8,
+          "trend_source": "Funny Experiment \ud83d\ude02 (3.1x); LIVE THEATER goes WRONG! (11.5x)",
+          "plan_id": "P2026-10-22-02"
+        },
+        {
+          "title": "Top 5 Hottest Planets (#1 Isn't Closest)",
+          "angle": "\"Welcome to Earth 210 million years ago\" is at 2.5x its channel median today and Zack D. Films' \"Could You Move Mount Everest To America?\" is pulling about 92,292 views/h, so a ranked trip to impossible places with a myth-busting #1 fits the take-you-somewhere-unreal shape.",
+          "format": "ranking",
+          "tone": "normal",
+          "virality_score": 7,
+          "trend_source": "Welcome to Earth 210 million years ago and see dinosaurs (2.5x); Could You Move Mount Everest To America? (Zack D. Films, 92,292 views/h)",
+          "plan_id": "P2026-10-22-03"
+        },
+        {
+          "title": "This 1 kg Ball Is the Roundest Ever Made",
+          "angle": "\"They Trying To Make 100% Perfect Circle But Failed\" is at 2.2x its channel median today (3.9M views, The Statistic formula), and this is the real-world version of that same chase for perfect roundness, with a scale comparison anyone can picture.",
+          "format": "explainer",
+          "tone": "normal",
+          "virality_score": 7,
+          "trend_source": "They Trying To Make 100% Perfect Circle But Failed (2.2x, The Statistic)",
+          "plan_id": "P2026-10-22-04"
+        },
+        {
+          "title": "Why This Tree Owns 8 Feet of Land",
+          "angle": "Today's biggest outliers (\"Majuu mamuh behind the door\" at 34.6x, \"wait for the end\" at 6.2x) all state one odd, concrete situation in plain words and hold back the outcome, and \"a tree that owns its land\" is exactly that kind of single strange setup with a payoff at the end.",
+          "format": "story",
+          "tone": "normal",
+          "virality_score": 6,
+          "trend_source": "Majuu mamuh behind the door (34.6x); wait for the end \ud83d\ude31 (6.2x)",
+          "plan_id": "P2026-10-22-05"
+        },
+        {
+          "title": "Guess the Real Names of 3 Tiny Things",
+          "angle": "\"Who invented maths & physics??\" is at 5.9x its channel median today - a playful question about things everyone uses - and a 3-second name-it quiz on everyday objects turns that curiosity into comment-bait with a score viewers can post.",
+          "format": "quiz",
+          "tone": "normal",
+          "virality_score": 6,
+          "trend_source": "Who invented maths & physics?? (5.9x)",
+          "plan_id": "P2026-10-22-06"
+        }
+      ],
+      "sent_at": "2026-10-22T15:55:12.716328+00:00",
+      "selected": [],
+      "status": "waiting"
     }
   },
   "videos": {
@@ -12154,10 +12149,6 @@
     "The Bank Built From the Mail in 1916"
   ],
   "trend_tries": {
-    "2026-10-19": {
-      "n": 2,
-      "at": "2026-10-19T19:58:02.271521+00:00"
-    },
     "2026-10-20": {
       "n": 2,
       "at": "2026-10-20T18:28:45.469801+00:00"
@@ -12165,6 +12156,10 @@
     "2026-10-21": {
       "n": 2,
       "at": "2026-10-21T18:40:25.898636+00:00"
+    },
+    "2026-10-22": {
+      "n": 1,
+      "at": "2026-10-22T15:55:11.963086+00:00"
     }
   },
   "cleanup_day": "2026-10-22",
