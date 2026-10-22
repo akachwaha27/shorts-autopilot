@@ -10272,7 +10272,7 @@
       "tg_msg": 551,
       "opts_msg": 553,
       "approved_by": "auto",
-      "quota_note": "2026-10-21"
+      "quota_note": "2026-10-22"
     },
     "2026-10-19-2-1": {
       "topic": {
@@ -11555,7 +11555,7 @@
       "tg_msg": 602,
       "opts_msg": 604,
       "approved_by": "auto",
-      "quota_note": "2026-10-21"
+      "quota_note": "2026-10-22"
     },
     "2026-10-20-2": {
       "topic": {
@@ -11902,7 +11902,7 @@
       "tg_msg": 605,
       "opts_msg": 607,
       "approved_by": "auto",
-      "quota_note": "2026-10-21"
+      "quota_note": "2026-10-22"
     },
     "2026-10-20-3": {
       "topic": {
@@ -12257,7 +12257,7 @@
       "tg_msg": 609,
       "opts_msg": 611,
       "approved_by": "auto",
-      "quota_note": "2026-10-21"
+      "quota_note": "2026-10-22"
     },
     "2026-10-21-1": {
       "topic": {
@@ -12461,7 +12461,7 @@
       "tg_msg": 638,
       "opts_msg": 640,
       "approved_by": "auto",
-      "quota_note": "2026-10-21"
+      "quota_note": "2026-10-22"
     },
     "2026-10-21-2": {
       "topic": {
@@ -12806,7 +12806,7 @@
       "tg_msg": 641,
       "opts_msg": 643,
       "approved_by": "auto",
-      "quota_note": "2026-10-21"
+      "quota_note": "2026-10-22"
     },
     "2026-10-21-3": {
       "topic": {
@@ -13146,7 +13146,7 @@
       "tg_msg": 644,
       "opts_msg": 646,
       "approved_by": "auto",
-      "quota_note": "2026-10-21"
+      "quota_note": "2026-10-22"
     },
     "2026-10-21-4": {
       "topic": {
@@ -13487,7 +13487,7 @@
       "tg_msg": 647,
       "opts_msg": 649,
       "approved_by": "auto",
-      "quota_note": "2026-10-21"
+      "quota_note": "2026-10-22"
     }
   },
   "history": [
@@ -13566,7 +13566,7 @@
       "at": "2026-10-21T18:40:25.898636+00:00"
     }
   },
-  "cleanup_day": "2026-10-21",
+  "cleanup_day": "2026-10-22",
   "recent_voices": [
     "en-US-AndrewMultilingualNeural",
     "en-AU-WilliamMultilingualNeural",
