@@ -1928,5 +1928,23 @@
   ],
   "sent_at": "2026-10-22T15:55:12.716328+00:00",
   "status": "waiting"
+ },
+ "2026-10-22-2": {
+  "date": "2026-10-22-2",
+  "ideas": [
+   {
+    "angle": "Explaining the hidden physics and engineering behind standard cup lids, straw grooves, and bottom rims.",
+    "format": "explainer",
+    "picked": false,
+    "rank": 1,
+    "title": "Why Fast Food Cups Are Secretly Masterpieces",
+    "trend_source": "evergreen",
+    "video_id": null,
+    "virality_score": 9,
+    "why": "Satisfies everyday curiosity about ordinary objects, keeping retention high through the very last second."
+   }
+  ],
+  "sent_at": "2026-10-22T18:38:00.852932+00:00",
+  "status": "waiting"
  }
 }
