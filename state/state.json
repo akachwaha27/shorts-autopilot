@@ -328,7 +328,7 @@
       ],
       "sent_at": "2026-10-22T18:38:00.852932+00:00",
       "selected": [],
-      "status": "waiting"
+      "status": "closed"
     }
   },
   "videos": {
@@ -12050,7 +12050,7 @@
         "trend_source": "title shape of How Electrical Outlets Work (194,376 views/h); also How Plato's Alarm Clock Worked (42,752 views/h)",
         "plan_id": "P2026-10-22-01"
       },
-      "status": "awaiting_approval",
+      "status": "approved",
       "by": "auto",
       "updated": "2026-10-22T19:55:12.633589+00:00",
       "redos": 0,
@@ -12226,7 +12226,9 @@
       },
       "srt": "1\n00:00:00,076 --> 00:00:01,826\nYou've clicked a pen thousands of times\n\n2\n00:00:01,826 --> 00:00:03,533\nbut you've never seen what spins inside\n\n3\n00:00:03,533 --> 00:00:05,478\nit Your thumb pushes a plunger with\n\n4\n00:00:05,478 --> 00:00:07,630\ntiny teeth They press a little crown\n\n5\n00:00:07,630 --> 00:00:09,685\nwith slanted teeth called a cam The\n\n6\n00:00:09,685 --> 00:00:12,228\nslants twist it one step Let go\n\n7\n00:00:12,228 --> 00:00:13,467\nand the spring lifts it onto a\n\n8\n00:00:13,467 --> 00:00:16,152\nledge Tip locked out Click again and\n\n9\n00:00:16,152 --> 00:00:17,598\nit slips off the ledge and twists\n\n10\n00:00:17,598 --> 00:00:19,946\nonce more Now it misses the ledge\n\n11\n00:00:19,946 --> 00:00:21,696\nand the spring pulls the tip in\n\n12\n00:00:21,696 --> 00:00:24,324\nTwo twists one spring every single click\n",
       "tg_msg": 678,
-      "opts_msg": 680
+      "opts_msg": 680,
+      "approved_by": "auto",
+      "quota_note": "2026-10-22"
     },
     "2026-10-22-2": {
       "topic": {
@@ -12238,7 +12240,7 @@
         "trend_source": "Funny Experiment \ud83d\ude02 (3.1x); LIVE THEATER goes WRONG! (11.5x)",
         "plan_id": "P2026-10-22-02"
       },
-      "status": "awaiting_approval",
+      "status": "approved",
       "by": "auto",
       "updated": "2026-10-22T20:11:01.866443+00:00",
       "redos": 0,
@@ -12566,7 +12568,9 @@
       },
       "srt": "1\n00:00:00,098 --> 00:00:01,618\nYou think if I fits I sits\n\n2\n00:00:01,618 --> 00:00:03,897\nis a joke Scientists tested it on\n\n3\n00:00:03,897 --> 00:00:06,973\nthirty cats Here's the silliest serious cat\n\n4\n00:00:06,973 --> 00:00:10,172\nexperiment ever In twenty twenty-one researchers\n\n5\n00:00:10,172 --> 00:00:11,814\nasked cat owners to run a test\n\n6\n00:00:11,814 --> 00:00:13,873\nat home Owners cut out four paper\n\n7\n00:00:13,873 --> 00:00:16,422\nshapes that look like little Pac-Men Taped\n\n8\n00:00:16,422 --> 00:00:18,799\nto the floor their mouths line up\n\n9\n00:00:18,799 --> 00:00:20,882\nso your brain sees a square that\n\n10\n00:00:20,882 --> 00:00:23,211\nisn't there Owners also taped down a\n\n11\n00:00:23,211 --> 00:00:26,152\nreal square and the same Pac-Men facing\n\n12\n00:00:26,152 --> 00:00:27,831\nthe wrong way And so they wouldn't\n\n13\n00:00:27,831 --> 00:00:29,914\ngive the cats hints the owners wore\n\n14\n00:00:29,914 --> 00:00:33,934\nsunglasses Indoors For science Hundreds signed\n\n15\n00:00:33,934 --> 00:00:36,556\nup but only thirty cats finished because\n\n16\n00:00:36,556 --> 00:00:38,971\nwell cats So did the cats fall\n\n17\n00:00:38,971 --> 00:00:41,507\nfor it Yes They sat inside the\n\n18\n00:00:41,507 --> 00:00:43,603\nfake square about as often as the\n\n19\n00:00:43,603 --> 00:00:45,882\nreal one So if I fits I\n\n20\n00:00:45,882 --> 00:00:47,855\nsits works even when there's nothing to\n\n21\n00:00:47,855 --> 00:00:49,620\nfit in Would your cat sit in\n\n22\n00:00:49,620 --> 00:00:52,500\nthe paper square or ignore it completely\n\n23\n00:00:52,500 --> 00:00:53,971\nTry it then tell me if you\n\n24\n00:00:53,971 --> 00:00:55,535\nstill think it's a joke\n",
       "tg_msg": 681,
-      "opts_msg": 683
+      "opts_msg": 683,
+      "approved_by": "auto",
+      "quota_note": "2026-10-22"
     },
     "2026-10-22-3": {
       "topic": {
@@ -12578,7 +12582,7 @@
         "trend_source": "Welcome to Earth 210 million years ago and see dinosaurs (2.5x); Could You Move Mount Everest To America? (Zack D. Films, 92,292 views/h)",
         "plan_id": "P2026-10-22-03"
       },
-      "status": "awaiting_approval",
+      "status": "approved",
       "by": "auto",
       "updated": "2026-10-22T20:18:14.228485+00:00",
       "redos": 0,
@@ -12909,7 +12913,9 @@
       },
       "srt": "1\n00:00:00,050 --> 00:00:02,688\nYou'd guess Mercury is the hottest planet\n\n2\n00:00:02,688 --> 00:00:05,425\nYou'd be wrong and here's why Let's\n\n3\n00:00:05,425 --> 00:00:07,450\nrank the five hottest planets by average\n\n4\n00:00:07,450 --> 00:00:11,475\ntemperature counting down Number five Jupiter\n\n5\n00:00:11,475 --> 00:00:13,700\nat about minus one hundred sixty-six degrees\n\n6\n00:00:13,700 --> 00:00:17,238\nFahrenheit Bring a big coat Number four\n\n7\n00:00:17,238 --> 00:00:20,975\nMars at around minus eighty-five Sunny but\n\n8\n00:00:20,975 --> 00:00:24,212\nfreezing Number three Earth at a comfy\n\n9\n00:00:24,212 --> 00:00:28,688\nfifty-nine degrees Lucky us Number two Mercury\n\n10\n00:00:28,688 --> 00:00:30,988\nat about three hundred thirty-three degrees\n\n11\n00:00:30,988 --> 00:00:32,562\neven though it's the closest planet to\n\n12\n00:00:32,562 --> 00:00:34,975\nthe sun It has almost no air\n\n13\n00:00:34,975 --> 00:00:36,688\nso its heat escapes straight out into\n\n14\n00:00:36,688 --> 00:00:40,038\nspace Number one Venus at about eight\n\n15\n00:00:40,038 --> 00:00:43,062\nhundred sixty-seven degrees That's why Mercury\n\n16\n00:00:43,062 --> 00:00:45,375\nloses Venus is wrapped in a thick\n\n17\n00:00:45,375 --> 00:00:47,250\nblanket of air and clouds that traps\n\n18\n00:00:47,250 --> 00:00:49,050\nthe heat It gets hot enough to\n\n19\n00:00:49,050 --> 00:00:51,562\nmelt lead Which of these five planets\n\n20\n00:00:51,562 --> 00:00:53,288\nwould you visit first if you had\n\n21\n00:00:53,288 --> 00:00:55,050\nto pick one So the next time\n\n22\n00:00:55,050 --> 00:00:57,775\nsomeone tells you Mercury's the hottest planet\n",
       "tg_msg": 684,
-      "opts_msg": 686
+      "opts_msg": 686,
+      "approved_by": "auto",
+      "quota_note": "2026-10-22"
     },
     "2026-10-22-4": {
       "topic": {
@@ -12921,7 +12927,7 @@
         "trend_source": "They Trying To Make 100% Perfect Circle But Failed (2.2x, The Statistic)",
         "plan_id": "P2026-10-22-04"
       },
-      "status": "awaiting_approval",
+      "status": "approved",
       "by": "auto",
       "updated": "2026-10-22T20:33:03.179574+00:00",
       "redos": 0,
@@ -13184,7 +13190,9 @@
       },
       "srt": "1\n00:00:00,106 --> 00:00:02,221\nYou've never touched anything as round as\n\n2\n00:00:02,221 --> 00:00:06,396\nthis one-kilogram ball Almost nobody has Here's\n\n3\n00:00:06,396 --> 00:00:08,098\nwhat makes it the roundest thing ever\n\n4\n00:00:08,098 --> 00:00:10,891\nmade and why it exists It's about\n\n5\n00:00:10,891 --> 00:00:12,872\nthe size of a softball made of\n\n6\n00:00:12,872 --> 00:00:16,090\nsuper pure silicon A master lens maker\n\n7\n00:00:16,090 --> 00:00:18,910\nshaped it by hand Then lasers measured\n\n8\n00:00:18,910 --> 00:00:20,372\nits width all the way down to\n\n9\n00:00:20,372 --> 00:00:23,178\nthe nanometer Now picture this ball blown\n\n10\n00:00:23,178 --> 00:00:25,173\nup to the size of Earth Its\n\n11\n00:00:25,173 --> 00:00:27,846\ntallest mountain and its deepest ocean would\n\n12\n00:00:27,846 --> 00:00:30,426\nbe just three to five meters apart\n\n13\n00:00:30,426 --> 00:00:32,952\nThat's about a two-story house across a\n\n14\n00:00:32,952 --> 00:00:35,891\nwhole planet So why build it To\n\n15\n00:00:35,891 --> 00:00:38,604\ncount atoms Because it's so round and\n\n16\n00:00:38,604 --> 00:00:41,596\nso pure scientists could measure it exactly\n\n17\n00:00:41,596 --> 00:00:43,165\nand work out how many atoms are\n\n18\n00:00:43,165 --> 00:00:46,543\ninside That count helped redefine the kilogram\n\n19\n00:00:46,543 --> 00:00:49,508\nin twenty-nineteen Each sphere cost around\n\n20\n00:00:49,508 --> 00:00:52,473\nthree million dollars So if someone handed\n\n21\n00:00:52,473 --> 00:00:54,721\nyou one would you hold it or\n\n22\n00:00:54,721 --> 00:00:57,527\nbe too scared to touch it Honestly\n\n23\n00:00:57,527 --> 00:00:59,348\nI'd be too scared to touch it\n\n24\n00:00:59,348 --> 00:01:00,014\nand\n",
       "tg_msg": 687,
-      "opts_msg": 689
+      "opts_msg": 689,
+      "approved_by": "auto",
+      "quota_note": "2026-10-22"
     }
   },
   "history": [
