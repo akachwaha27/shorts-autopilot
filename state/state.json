@@ -306,8 +306,13 @@
         }
       ],
       "sent_at": "2026-10-22T15:55:12.716328+00:00",
-      "selected": [],
-      "status": "waiting"
+      "selected": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "status": "closed"
     },
     "2026-10-22-2": {
       "topics": [
@@ -12034,13 +12039,1155 @@
       "opts_msg": 649,
       "approved_by": "auto",
       "quota_note": "2026-10-22"
+    },
+    "2026-10-22-1": {
+      "topic": {
+        "title": "How A Click Pen Works in 2 Clicks",
+        "angle": "Zack D. Films' \"How Electrical Outlets Work\" is pulling about 194,376 views per hour (47.9M views in 4 days, breakout score 4.25) - the top non-tech \"How [everyday object] Works\" this week - and a click pen gives the same see-inside-a-thing-you-touch-daily payoff with a cross-section.",
+        "format": "animated",
+        "tone": "normal",
+        "virality_score": 8,
+        "trend_source": "title shape of How Electrical Outlets Work (194,376 views/h); also How Plato's Alarm Clock Worked (42,752 views/h)",
+        "plan_id": "P2026-10-22-01"
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-22T19:55:12.633589+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "how a click pen works",
+        "title": "How A Click Pen Works in 2 Clicks",
+        "hook_text": "TWIST, LOCK, RELEASE",
+        "thumbnail_text": "TINY SPINNING CROWN",
+        "description": "Here's how a click pen works, step by step inside the barrel. The retractable pen mechanism is just a plunger, a tiny rotating cam and a spring, and this click pen mechanism locks the tip out on one click and pulls it back in on the next.\n\nIn this Short: the toothed plunger, the crown-shaped cam that twists a step each click, the ledge that locks the tip out, and the gap that lets it retract.\n\nSources:\nhttps://en.wikipedia.org/wiki/Retractable_pen\nhttps://benlauengr.commons.gc.cuny.edu/?p=106\nhttps://makezine.com/article/craft/retractable-pen-work/",
+        "hashtags": [
+          "#shorts",
+          "#howitworks",
+          "#engineering",
+          "#3danimation"
+        ],
+        "tags": [
+          "how a click pen works",
+          "click pen",
+          "click pen mechanism",
+          "retractable pen mechanism",
+          "retractable click pen mechanism",
+          "how a retractable ballpoint pen works",
+          "retractable pen",
+          "ball pen click mechanism",
+          "retractable ballpoint pen",
+          "how retractable pen works",
+          "clicky pen mechanism",
+          "rotating cam",
+          "push button pen",
+          "ballpoint pen inside",
+          "3d animation explained",
+          "pen spring",
+          "how things work",
+          "everyday engineering"
+        ],
+        "pinned_comment": "Bonus fact: the designer of one famous click pen says it took a team of sixty-six people to design. Do you click your pen when you're thinking, or is that just us?",
+        "visual_bible": "A minimalist white studio desktop setting featuring a translucent royal-blue plastic retractable ballpoint pen with precision-molded white internal cam parts and a polished steel spring, rendered in crisp 3D technical animation under soft studio lighting.",
+        "key_facts": [
+          "A retractable click pen operates using a plunger, a crown-shaped rotating cam, and a spring.",
+          "The plunger has straight teeth that mesh with slanted teeth on the cam.",
+          "The angled teeth force the cam to rotate a step each time the plunger presses down.",
+          "Releasing the plunger allows the spring to push the cam onto an internal barrel ledge, locking the pen tip out.",
+          "A second click forces the cam off the ledge and twists it into alignment with vertical channels.",
+          "The spring pulls the ink cartridge and tip back inside the barrel when aligned with the channels.",
+          "A full extend-and-retract cycle takes two clicks and two cam rotations."
+        ],
+        "scenes": [
+          {
+            "text": "You've clicked a pen thousands of times, but you've never seen what spins inside it.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "clicking ballpoint pen",
+              "retractable pen close up"
+            ],
+            "image_prompt": "3D render close-up of a sleek translucent blue ballpoint pen resting on a bright white desk, soft studio lighting, subtle transparent plastic showing faint mechanical shapes inside, photorealistic 8k octane render",
+            "shot": "3D animated close-up of a translucent blue click pen lying on a clean white desk; a cartoon thumb presses the button and the camera pushes in until the plastic barrel turns see-through",
+            "stock_query": "clicking ballpoint pen"
+          },
+          {
+            "text": "Your thumb pushes a plunger with tiny teeth.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "pen plunger mechanism teeth",
+              "retractable pen internal parts"
+            ],
+            "image_prompt": "3D technical cross-section of the top section of a translucent blue pen, showing an internal white plastic plunger sliding downward with sharp jagged teeth along its lower rim, crisp architectural lighting",
+            "shot": "3D animated cross-section of the same translucent pen's top half: the plunger slides down and its jagged bottom edge of small teeth catches the light, slow camera dolly along the barrel",
+            "stock_query": "pen plunger mechanism teeth"
+          },
+          {
+            "text": "They press a little crown with slanted teeth, called a cam.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "rotating cam crown pen",
+              "interlocking plastic gear teeth"
+            ],
+            "image_prompt": "Extreme macro 3D cutaway inside a clear pen barrel, showing the straight teeth of a plunger meeting the angled triangular teeth of a small white crown-shaped cam, cinematic depth of field",
+            "shot": "3D animated cutaway inside the same barrel: the plunger's teeth meet a small white crown-shaped cam with slanted teeth, extreme close-up, camera orbiting slowly around the two parts",
+            "stock_query": "rotating cam crown pen"
+          },
+          {
+            "text": "The slants twist it one step.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "rotating plastic cam mechanism",
+              "slanted gear sliding rotation"
+            ],
+            "image_prompt": "Macro 3D animation render of the white crown cam sliding against the angled teeth of the plunger and twisting diagonally, a subtle glowing cyan motion trail highlighting the rotational twist, isolated technical view",
+            "shot": "3D animated macro of the same cam: the slanted teeth slide against each other and the crown visibly rotates one notch, a soft glow tracing the twist, camera locked off",
+            "stock_query": "rotating plastic cam mechanism"
+          },
+          {
+            "text": "Let go, and the spring lifts it onto a ledge. Tip locked out.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "ballpoint pen spring mechanism",
+              "pen tip locked extended"
+            ],
+            "image_prompt": "Full lengthwise 3D cross-section of the translucent pen, showing the metal spring expanding upward to secure the white cam onto an internal barrel ridge while the ballpoint tip protrudes from the front",
+            "shot": "3D animated cross-section of the whole same pen: the thumb lifts, the coiled metal spring near the tip expands and pushes the cam up until it rests on a small ridge inside the barrel while the ballpoint tip pokes out of the bottom",
+            "stock_query": "ballpoint pen spring mechanism"
+          },
+          {
+            "text": "Click again, and it slips off the ledge and twists once more.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "pen click release mechanism",
+              "cam slipping off ledge"
+            ],
+            "image_prompt": "Close-up 3D engineering cutaway inside the pen barrel, the crown cam being pushed down off the locking ridge and rotating another notch into an open track, dynamic motion blur, hyper-detailed rendering",
+            "shot": "3D animated cutaway of the same cam on its ridge: the thumb presses again, the cam drops off the ridge and twists another notch, slow-motion, camera circling",
+            "stock_query": "pen click release mechanism"
+          },
+          {
+            "text": "Now it misses the ledge, and the spring pulls the tip in.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "retracting pen cartridge spring",
+              "pen tip retracting inside"
+            ],
+            "image_prompt": "3D cross-section view showing the pen cartridge sliding backward as the cam glides through vertical barrel grooves, with the coiled spring retracting the metal ballpoint tip completely inside the barrel",
+            "shot": "3D animated cross-section of the same pen: the cam now lines up with a gap between ridges, the spring stretches out and slides the ink cartridge and tip back inside the barrel, camera pulling back along the pen",
+            "stock_query": "retracting pen cartridge spring"
+          },
+          {
+            "text": "Two twists, one spring, every single click.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "translucent click pen desktop",
+              "blue ballpoint pen isolated"
+            ],
+            "image_prompt": "Wide 3D render of the translucent royal-blue click pen lying peacefully on the clean white desk, fading from a cutaway view back to glossy solid blue plastic, pristine product commercial lighting",
+            "shot": "3D animated wide shot of the same translucent blue pen on the white desk, the cutaway fading back to solid plastic as the thumb hovers over the button again, gentle camera push-in",
+            "stock_query": "translucent click pen desktop"
+          }
+        ],
+        "format": "animated",
+        "tone": "normal",
+        "category": "27",
+        "script": "You've clicked a pen thousands of times, but you've never seen what spins inside it. Your thumb pushes a plunger with tiny teeth. They press a little crown with slanted teeth, called a cam. The slants twist it one step. Let go, and the spring lifts it onto a ledge. Tip locked out. Click again, and it slips off the ledge and twists once more. Now it misses the ledge, and the spring pulls the tip in. Two twists, one spring, every single click.",
+        "plan_id": "P2026-10-22-01",
+        "voice": "en-US-EmmaMultilingualNeural",
+        "animated_estimate": 0.47,
+        "visual_report": {
+          "shots": 9,
+          "checked": 6,
+          "unchecked": 0,
+          "filler": 6,
+          "ai": 0
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-EmmaMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): TungArt7 (Pixabay) https://pixabay.com/videos/id-212001/; Danil_Shostak (Pixabay) https://pixabay.com/videos/id-34855/; TungArt7 (Pixabay) https://pixabay.com/videos/id-212000/"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-22",
+        "name": "2026-10-22-1-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-22",
+        "name": "2026-10-22-1-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,076 --> 00:00:01,826\nYou've clicked a pen thousands of times\n\n2\n00:00:01,826 --> 00:00:03,533\nbut you've never seen what spins inside\n\n3\n00:00:03,533 --> 00:00:05,478\nit Your thumb pushes a plunger with\n\n4\n00:00:05,478 --> 00:00:07,630\ntiny teeth They press a little crown\n\n5\n00:00:07,630 --> 00:00:09,685\nwith slanted teeth called a cam The\n\n6\n00:00:09,685 --> 00:00:12,228\nslants twist it one step Let go\n\n7\n00:00:12,228 --> 00:00:13,467\nand the spring lifts it onto a\n\n8\n00:00:13,467 --> 00:00:16,152\nledge Tip locked out Click again and\n\n9\n00:00:16,152 --> 00:00:17,598\nit slips off the ledge and twists\n\n10\n00:00:17,598 --> 00:00:19,946\nonce more Now it misses the ledge\n\n11\n00:00:19,946 --> 00:00:21,696\nand the spring pulls the tip in\n\n12\n00:00:21,696 --> 00:00:24,324\nTwo twists one spring every single click\n",
+      "tg_msg": 678,
+      "opts_msg": 680
+    },
+    "2026-10-22-2": {
+      "topic": {
+        "title": "30 Cats vs a Square Made of Nothing \ud83d\ude02",
+        "angle": "Today's US Shorts outliers are dominated by funny situational setups - \"LIVE THEATER goes WRONG!\" at 11.5x and \"Funny Experiment\" at 3.1x their channel medians - and a real cat experiment with a silly reveal is that same funny-experiment shape, faceless and family-friendly.",
+        "format": "funny",
+        "tone": "funny",
+        "virality_score": 8,
+        "trend_source": "Funny Experiment \ud83d\ude02 (3.1x); LIVE THEATER goes WRONG! (11.5x)",
+        "plan_id": "P2026-10-22-02"
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-22T20:11:01.866443+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "cats sit in squares",
+        "title": "30 Cats vs a Square Made of Nothing \ud83d\ude02",
+        "hook_text": "SCIENCE CHECKED THIS",
+        "thumbnail_text": "IT'S NOT REAL",
+        "description": "Cats sit in squares that aren't even there, and a 2021 cat study tested it. In this \"if I fits I sits\" experiment, 30 cats were shown a fake square made of paper Pac-Man shapes - an optical illusion - next to a real one.\n\nIn this Short: the paper Pac-Man illusion, the owners in sunglasses, and what the cats actually did.\n\nSources:\nhttps://www.npr.org/2021/05/10/994262792/cats-take-if-i-fits-i-sits-seriously-even-if-the-space-is-just-an-illusion\nhttps://www.bps.org.uk/research-digest/cats-sit-squares",
+        "hashtags": [
+          "#shorts",
+          "#cats",
+          "#funnycats",
+          "#science",
+          "#funny"
+        ],
+        "tags": [
+          "cats sit in squares",
+          "if i fits i sits",
+          "cats optical illusion",
+          "why do cats sit in boxes",
+          "cat illusions",
+          "cat square on floor",
+          "cats sitting in squares",
+          "cat study 2021",
+          "cat tape square",
+          "funny cat science",
+          "cat square illusion",
+          "cat behavior",
+          "kanizsa square",
+          "cat experiment",
+          "cats and boxes"
+        ],
+        "pinned_comment": "Bonus fact: the owners filmed their cats for six days to get these results. Have you ever caught your cat sitting in a square of tape, paper or sunlight?",
+        "scenes": [
+          {
+            "text": "You think \"if I fits, I sits\" is a joke? Scientists tested it on thirty cats. Here's the silliest serious cat experiment ever.",
+            "badge": "",
+            "label": "IF I FITS, I SITS",
+            "stock_queries": [
+              "cat squeezing small cardboard box",
+              "cat sitting taped square floor"
+            ],
+            "image_prompt": "A funny orange tabby cat squeezing its chubby body into an impossibly tiny cardboard box on a living room floor, looking determined and proud, warm indoor lighting, photorealistic.",
+            "stock_query": "cat squeezing small cardboard box"
+          },
+          {
+            "text": "In twenty twenty-one, researchers asked cat owners to run a test at home. Owners cut out four paper shapes that look like little Pac-Men.",
+            "badge": "",
+            "label": "4 PAPER PAC-MEN",
+            "stock_queries": [
+              "hands cutting black paper scissors",
+              "person crafting paper shapes table"
+            ],
+            "image_prompt": "Close-up of human hands carefully using craft scissors to cut out circular black paper shapes with triangular notches like Pac-Man on a wooden table, photorealistic.",
+            "stock_query": "hands cutting black paper scissors"
+          },
+          {
+            "text": "Taped to the floor, their mouths line up, so your brain sees a square that isn't there. Owners also taped down a real square, and the same Pac-Men facing the wrong way.",
+            "badge": "",
+            "label": "SQUARE NOT THERE",
+            "stock_queries": [
+              "optical illusion paper shapes floor",
+              "tape outline square wooden floor"
+            ],
+            "image_prompt": "Top-down overhead view of a light wooden floor displaying a Kanizsa square illusion made of four black cutout paper shapes facing inward, crisp geometric visual effect, photorealistic.",
+            "stock_query": "optical illusion paper shapes floor"
+          },
+          {
+            "text": "And so they wouldn't give the cats hints, the owners wore sunglasses. Indoors. For science.",
+            "badge": "",
+            "label": "SUNGLASSES INDOORS",
+            "stock_queries": [
+              "person wearing dark sunglasses indoors",
+              "funny person sunglasses living room couch"
+            ],
+            "image_prompt": "A person sitting on a living room couch wearing pitch black sunglasses indoors with a serious deadpan expression, while a curious cat watches from the rug, humorous domestic scene, photorealistic.",
+            "stock_query": "person wearing dark sunglasses indoors"
+          },
+          {
+            "text": "Hundreds signed up, but only thirty cats finished, because, well, cats.",
+            "badge": "",
+            "label": "ONLY 30 FINISHED",
+            "stock_queries": [
+              "cat walking away from camera dismissive",
+              "lazy cat sleeping floor ignoring camera"
+            ],
+            "image_prompt": "A domestic cat nonchalantly walking away down a hallway with its tail up, ignoring an experiment setup entirely, humorous and candid pet photography, photorealistic.",
+            "stock_query": "cat walking away from camera dismissive"
+          },
+          {
+            "text": "So, did the cats fall for it? Yes. They sat inside the fake square about as often as the real one.",
+            "badge": "",
+            "label": "YES THEY DID",
+            "stock_queries": [
+              "cat sitting inside taped square floor",
+              "cat loafing on marked wooden floor"
+            ],
+            "image_prompt": "A smug tuxedo cat loafing comfortably right in the empty center of four black paper corner cutouts forming an invisible optical illusion square on a hardwood floor, photorealistic.",
+            "stock_query": "cat sitting inside taped square floor"
+          },
+          {
+            "text": "So \"if I fits, I sits\" works even when there's nothing to fit in. Would your cat sit in the paper square, or ignore it completely? Try it, then tell me if you still think it's a joke.",
+            "badge": "",
+            "label": "STILL A JOKE?",
+            "stock_queries": [
+              "cat staring directly camera curious",
+              "cat sitting inside small basket"
+            ],
+            "image_prompt": "A funny domestic cat tilting its head inquisitively and staring directly into the camera lens with wide eyes, sitting on a colorful home carpet, charming and playful, photorealistic.",
+            "stock_query": "cat staring directly camera curious"
+          }
+        ],
+        "key_facts": [
+          "In 2021, researchers published a citizen science experiment testing domestic cats with the Kanizsa square visual illusion.",
+          "The illusion uses four circular shapes with wedges removed resembling Pac-Man, arranged so human and animal brains perceive a phantom square contour.",
+          "Cat owners were instructed to wear sunglasses indoors during trials to avoid involuntary eye-gaze cueing.",
+          "Hundreds of owners enrolled, but only 30 cats completed all daily testing protocols.",
+          "Cats chose to sit inside the illusory Kanizsa square just as frequently as inside an actual taped square outline."
+        ],
+        "format": "funny",
+        "tone": "funny",
+        "category": "23",
+        "script": "You think \"if I fits, I sits\" is a joke? Scientists tested it on thirty cats. Here's the silliest serious cat experiment ever. In twenty twenty-one, researchers asked cat owners to run a test at home. Owners cut out four paper shapes that look like little Pac-Men. Taped to the floor, their mouths line up, so your brain sees a square that isn't there. Owners also taped down a real square, and the same Pac-Men facing the wrong way. And so they wouldn't give the cats hints, the owners wore sunglasses. Indoors. For science. Hundreds signed up, but only thirty cats finished, because, well, cats. So, did the cats fall for it? Yes. They sat inside the fake square about as often as the real one. So \"if I fits, I sits\" works even when there's nothing to fit in. Would your cat sit in the paper square, or ignore it completely? Try it, then tell me if you still think it's a joke.",
+        "plan_id": "P2026-10-22-02",
+        "shot_plan": [
+          {
+            "subject": "cat sitting inside a tight box",
+            "queries": [
+              {
+                "q": "cat sitting box",
+                "must": [
+                  "cat"
+                ]
+              },
+              {
+                "q": "kitten box",
+                "must": [
+                  "kitten"
+                ]
+              },
+              {
+                "q": "pet cardboard",
+                "must": [
+                  "cardboard"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "person cutting paper shapes with scissors",
+            "queries": [
+              {
+                "q": "cutting paper scissors",
+                "must": [
+                  "scissors"
+                ]
+              },
+              {
+                "q": "paper craft",
+                "must": [
+                  "paper"
+                ]
+              },
+              {
+                "q": "crafting hands",
+                "must": [
+                  "hands"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "square taped on the floor",
+            "queries": [
+              {
+                "q": "square tape floor",
+                "must": [
+                  "tape"
+                ]
+              },
+              {
+                "q": "floor tape lines",
+                "must": [
+                  "floor"
+                ]
+              },
+              {
+                "q": "masking tape geometric",
+                "must": [
+                  "geometric"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "person wearing sunglasses indoors",
+            "queries": [
+              {
+                "q": "sunglasses indoors room",
+                "must": [
+                  "sunglasses"
+                ]
+              },
+              {
+                "q": "wearing shades inside",
+                "must": [
+                  "shades"
+                ]
+              },
+              {
+                "q": "person glasses",
+                "must": [
+                  "person"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "multiple cats walking around a room",
+            "queries": [
+              {
+                "q": "multiple cats room",
+                "must": [
+                  "cats"
+                ]
+              },
+              {
+                "q": "group of kittens",
+                "must": [
+                  "kittens"
+                ]
+              },
+              {
+                "q": "pets walking",
+                "must": [
+                  "pets"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "cat sitting inside a square on the floor",
+            "queries": [
+              {
+                "q": "cat sitting square floor",
+                "must": [
+                  "cat"
+                ]
+              },
+              {
+                "q": "kitten floor shape",
+                "must": [
+                  "kitten"
+                ]
+              },
+              {
+                "q": "pet sitting inside outline",
+                "must": [
+                  "outline"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "curious cat looking up at camera",
+            "queries": [
+              {
+                "q": "curious cat looking",
+                "must": [
+                  "cat"
+                ]
+              },
+              {
+                "q": "kitten staring camera",
+                "must": [
+                  "kitten"
+                ]
+              },
+              {
+                "q": "cute pet face",
+                "must": [
+                  "pet"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "cat",
+          "kitten",
+          "pet"
+        ],
+        "visual_style": "Bright, cute, and humorous vertical stock footage featuring real cats in home settings with clear visual experiments.",
+        "visual_refs": [
+          "The internet&#39;s favourite Poem #shorts",
+          "\ud83d\udc94 #cat #cats",
+          "\ud83e\udd72\ud83e\udd72\ud83e\udd72 #cat #cats",
+          "There was no trace of Sonya&#39;s pranks \ud83d\udc3e #cat #cats",
+          "Love Story\ud83d\udc99 #cat #cats",
+          "\ud83e\udd79 #cat  #cats"
+        ],
+        "voice": "en-US-AndrewMultilingualNeural",
+        "visual_report": {
+          "shots": 10,
+          "checked": 10,
+          "unchecked": 0,
+          "filler": 3,
+          "ai": 0
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AndrewMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): Solarselle77 (Pixabay) https://pixabay.com/videos/id-305341/; vincentvan (Pixabay) https://pixabay.com/photos/hands-cutting-scissors-paper-craft-85783/; Johanna84 (Pixabay) https://pixabay.com/photos/cut-paper-scissors-hand-a4-shred-174860/; Philipp_Stegmann (Pixabay) https://pixabay.com/photos/model-man-sunglasses-cool-view-395573/; Dx21 (Pixabay) https://pixabay.com/videos/id-131987/; Kmeel_com (Pixabay) https://pixabay.com/videos/id-67979/; JawadAliKhan (Pixabay) https://pixabay.com/videos/id-143890/"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-22",
+        "name": "2026-10-22-2-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-22",
+        "name": "2026-10-22-2-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,098 --> 00:00:01,618\nYou think if I fits I sits\n\n2\n00:00:01,618 --> 00:00:03,897\nis a joke Scientists tested it on\n\n3\n00:00:03,897 --> 00:00:06,973\nthirty cats Here's the silliest serious cat\n\n4\n00:00:06,973 --> 00:00:10,172\nexperiment ever In twenty twenty-one researchers\n\n5\n00:00:10,172 --> 00:00:11,814\nasked cat owners to run a test\n\n6\n00:00:11,814 --> 00:00:13,873\nat home Owners cut out four paper\n\n7\n00:00:13,873 --> 00:00:16,422\nshapes that look like little Pac-Men Taped\n\n8\n00:00:16,422 --> 00:00:18,799\nto the floor their mouths line up\n\n9\n00:00:18,799 --> 00:00:20,882\nso your brain sees a square that\n\n10\n00:00:20,882 --> 00:00:23,211\nisn't there Owners also taped down a\n\n11\n00:00:23,211 --> 00:00:26,152\nreal square and the same Pac-Men facing\n\n12\n00:00:26,152 --> 00:00:27,831\nthe wrong way And so they wouldn't\n\n13\n00:00:27,831 --> 00:00:29,914\ngive the cats hints the owners wore\n\n14\n00:00:29,914 --> 00:00:33,934\nsunglasses Indoors For science Hundreds signed\n\n15\n00:00:33,934 --> 00:00:36,556\nup but only thirty cats finished because\n\n16\n00:00:36,556 --> 00:00:38,971\nwell cats So did the cats fall\n\n17\n00:00:38,971 --> 00:00:41,507\nfor it Yes They sat inside the\n\n18\n00:00:41,507 --> 00:00:43,603\nfake square about as often as the\n\n19\n00:00:43,603 --> 00:00:45,882\nreal one So if I fits I\n\n20\n00:00:45,882 --> 00:00:47,855\nsits works even when there's nothing to\n\n21\n00:00:47,855 --> 00:00:49,620\nfit in Would your cat sit in\n\n22\n00:00:49,620 --> 00:00:52,500\nthe paper square or ignore it completely\n\n23\n00:00:52,500 --> 00:00:53,971\nTry it then tell me if you\n\n24\n00:00:53,971 --> 00:00:55,535\nstill think it's a joke\n",
+      "tg_msg": 681,
+      "opts_msg": 683
+    },
+    "2026-10-22-3": {
+      "topic": {
+        "title": "Top 5 Hottest Planets (#1 Isn't Closest)",
+        "angle": "\"Welcome to Earth 210 million years ago\" is at 2.5x its channel median today and Zack D. Films' \"Could You Move Mount Everest To America?\" is pulling about 92,292 views/h, so a ranked trip to impossible places with a myth-busting #1 fits the take-you-somewhere-unreal shape.",
+        "format": "ranking",
+        "tone": "normal",
+        "virality_score": 7,
+        "trend_source": "Welcome to Earth 210 million years ago and see dinosaurs (2.5x); Could You Move Mount Everest To America? (Zack D. Films, 92,292 views/h)",
+        "plan_id": "P2026-10-22-03"
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-22T20:18:14.228485+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "hottest planet in the solar system",
+        "title": "Top 5 Hottest Planets (#1 Isn't Closest)",
+        "hook_text": "NEAR SUN, NOT #1",
+        "thumbnail_text": "NOT MERCURY",
+        "description": "These are the top 5 hottest planets in our solar system, ranked by average temperature. Here's why Venus is the hottest planet, not Mercury, even though Mercury is closest to the sun.\n\nIn this Short: Jupiter, Mars, Earth, Mercury and Venus, and why Venus beats Mercury.\n\nSources:\nhttps://science.nasa.gov/solar-system/temperatures-across-our-solar-system\nhttps://universetoday.com/35664/temperature-of-the-planets/",
+        "hashtags": [
+          "#shorts",
+          "#space",
+          "#top5",
+          "#planets"
+        ],
+        "tags": [
+          "hottest planet in the solar system",
+          "hottest planet",
+          "top 5 hottest planets",
+          "hottest planet in our solar system",
+          "why is venus the hottest planet in the solar system",
+          "which is the hottest planet in the solar system",
+          "venus vs mercury",
+          "why is venus the hottest planet",
+          "solar system facts",
+          "venus greenhouse effect",
+          "space facts",
+          "venus temperature",
+          "planet temperatures",
+          "mercury temperature"
+        ],
+        "pinned_comment": "Bonus fact: Venus is hotter than Mercury even though it's almost twice as far from the sun. Which planet would you visit first if you could pick?",
+        "scenes": [
+          {
+            "text": "You'd guess Mercury is the hottest planet. You'd be wrong, and here's why. Let's rank the five hottest planets by average temperature, counting down.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "solar system planets",
+              "mercury planet space"
+            ],
+            "image_prompt": "Animated view of the solar system with Mercury close to a bright sun",
+            "stock_query": "solar system planets"
+          },
+          {
+            "text": "Number five, Jupiter, at about minus one hundred sixty-six degrees Fahrenheit. Bring a big coat.",
+            "badge": "#5",
+            "label": "Jupiter: -166\u00b0F",
+            "stock_queries": [
+              "jupiter planet rotating",
+              "gas giant storm"
+            ],
+            "image_prompt": "Rotating view of Jupiter with its colorful stripes and Great Red Spot",
+            "stock_query": "jupiter planet rotating"
+          },
+          {
+            "text": "Number four, Mars, at around minus eighty-five. Sunny, but freezing.",
+            "badge": "#4",
+            "label": "Mars: -85\u00b0F",
+            "stock_queries": [
+              "mars surface red dust",
+              "martian landscape"
+            ],
+            "image_prompt": "Red dusty Martian landscape under a pale sky",
+            "stock_query": "mars surface red dust"
+          },
+          {
+            "text": "Number three, Earth, at a comfy fifty-nine degrees. Lucky us.",
+            "badge": "#3",
+            "label": "Earth: 59\u00b0F",
+            "stock_queries": [
+              "earth from space",
+              "planet earth rotating"
+            ],
+            "image_prompt": "Earth from space, slowly turning, with blue oceans and white clouds",
+            "stock_query": "earth from space"
+          },
+          {
+            "text": "Number two, Mercury, at about three hundred thirty-three degrees, even though it's the closest planet to the sun. It has almost no air, so its heat escapes straight out into space.",
+            "badge": "#2",
+            "label": "Mercury: 333\u00b0F",
+            "stock_queries": [
+              "mercury cratered surface",
+              "hot rocky planet"
+            ],
+            "image_prompt": "Gray cratered surface of Mercury with the sun blazing on the horizon",
+            "stock_query": "mercury cratered surface"
+          },
+          {
+            "text": "Number one, Venus, at about eight hundred sixty-seven degrees. That's why Mercury loses. Venus is wrapped in a thick blanket of air and clouds that traps the heat. It gets hot enough to melt lead.",
+            "badge": "#1",
+            "label": "Venus: 867\u00b0F",
+            "stock_queries": [
+              "venus thick clouds",
+              "melting metal"
+            ],
+            "image_prompt": "Thick swirling yellow clouds covering a planet, close up",
+            "stock_query": "venus thick clouds"
+          },
+          {
+            "text": "Which of these five planets would you visit first, if you had to pick one? So the next time someone tells you Mercury's the hottest planet...",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "planets in space",
+              "inner solar system"
+            ],
+            "image_prompt": "Four planets slowly rotating side by side in space",
+            "stock_query": "planets in space"
+          }
+        ],
+        "key_facts": [
+          "Jupiter average temperature is about minus one hundred sixty-six degrees Fahrenheit.",
+          "Mars average temperature is around minus eighty-five degrees Fahrenheit.",
+          "Earth average temperature is fifty-nine degrees Fahrenheit.",
+          "Mercury average temperature is about three hundred thirty-three degrees Fahrenheit.",
+          "Mercury is the closest planet to the sun.",
+          "Mercury has almost no atmosphere, allowing heat to escape into space.",
+          "Venus average temperature is about eight hundred sixty-seven degrees Fahrenheit.",
+          "Venus is the hottest planet because its thick atmosphere and clouds trap heat.",
+          "Venus is hot enough to melt lead."
+        ],
+        "format": "ranking",
+        "tone": "normal",
+        "category": "27",
+        "script": "You'd guess Mercury is the hottest planet. You'd be wrong, and here's why. Let's rank the five hottest planets by average temperature, counting down. Number five, Jupiter, at about minus one hundred sixty-six degrees Fahrenheit. Bring a big coat. Number four, Mars, at around minus eighty-five. Sunny, but freezing. Number three, Earth, at a comfy fifty-nine degrees. Lucky us. Number two, Mercury, at about three hundred thirty-three degrees, even though it's the closest planet to the sun. It has almost no air, so its heat escapes straight out into space. Number one, Venus, at about eight hundred sixty-seven degrees. That's why Mercury loses. Venus is wrapped in a thick blanket of air and clouds that traps the heat. It gets hot enough to melt lead. Which of these five planets would you visit first, if you had to pick one? So the next time someone tells you Mercury's the hottest planet...",
+        "plan_id": "P2026-10-22-03",
+        "shot_plan": [
+          {
+            "subject": "planet Mercury",
+            "queries": [
+              {
+                "q": "planet Mercury close-up",
+                "must": [
+                  "planet",
+                  "Mercury"
+                ]
+              },
+              {
+                "q": "Mercury in space",
+                "must": [
+                  "space"
+                ]
+              },
+              {
+                "q": "planet rotation",
+                "must": [
+                  "planet"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "planet Jupiter",
+            "queries": [
+              {
+                "q": "planet Jupiter storm",
+                "must": [
+                  "Jupiter"
+                ]
+              },
+              {
+                "q": "Jupiter in space",
+                "must": [
+                  "space"
+                ]
+              },
+              {
+                "q": "gas giant planet",
+                "must": [
+                  "planet"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "planet Mars",
+            "queries": [
+              {
+                "q": "planet Mars surface",
+                "must": [
+                  "Mars"
+                ]
+              },
+              {
+                "q": "Mars red planet",
+                "must": [
+                  "planet"
+                ]
+              },
+              {
+                "q": "Mars in space",
+                "must": [
+                  "space"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "planet Earth",
+            "queries": [
+              {
+                "q": "planet Earth from space",
+                "must": [
+                  "Earth"
+                ]
+              },
+              {
+                "q": "Earth rotation",
+                "must": [
+                  "planet"
+                ]
+              },
+              {
+                "q": "blue marble Earth",
+                "must": [
+                  "space"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "planet Mercury",
+            "queries": [
+              {
+                "q": "Mercury crater surface",
+                "must": [
+                  "Mercury"
+                ]
+              },
+              {
+                "q": "planet Mercury close-up",
+                "must": [
+                  "planet"
+                ]
+              },
+              {
+                "q": "sun and Mercury",
+                "must": [
+                  "sun"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "planet Venus",
+            "queries": [
+              {
+                "q": "planet Venus clouds",
+                "must": [
+                  "Venus"
+                ]
+              },
+              {
+                "q": "Venus atmosphere",
+                "must": [
+                  "planet"
+                ]
+              },
+              {
+                "q": "volcanic planet surface",
+                "must": [
+                  "planet"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "solar system planets",
+            "queries": [
+              {
+                "q": "solar system planets",
+                "must": [
+                  "planets"
+                ]
+              },
+              {
+                "q": "planets in space",
+                "must": [
+                  "space"
+                ]
+              },
+              {
+                "q": "rotating planets",
+                "must": [
+                  "planet"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "galaxy",
+          "stars",
+          "planet"
+        ],
+        "visual_style": "Cinematic 3D space visualisations of planets with vibrant cosmic backgrounds, close-up planetary textures, and clean temperature rating overlays.",
+        "visual_refs": [
+          "What&#39;s the Hottest Planet in the Solar System?",
+          "YOU can see the planet JUPITER tonight! #space #astro #astronomy",
+          "Young Planets #planethumans",
+          "What planets looked like 4b years ago \ud83d\udc41\ufe0f\ud83d\udc41\ufe0f",
+          "The Largest Planet In The Universe",
+          "How Big is Earth Compared to the Sun? \ud83c\udf0d"
+        ],
+        "voice": "en-AU-WilliamMultilingualNeural",
+        "visual_report": {
+          "shots": 16,
+          "checked": 16,
+          "unchecked": 0,
+          "filler": 0,
+          "ai": 0
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-AU-WilliamMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): Photoman61 (Pixabay) https://pixabay.com/videos/id-25795/; AlexanderPhoto (Pixabay) https://pixabay.com/videos/id-90730/; CalfisArt (Pixabay) https://pixabay.com/videos/id-226216/; ChristianBodhi (Pixabay) https://pixabay.com/videos/id-44276/; UniverseUnique (Pixabay) https://pixabay.com/videos/id-160398/; BrunoMagic (Pixabay) https://pixabay.com/videos/id-185082/; UniverseUnique (Pixabay) https://pixabay.com/videos/id-191254/; UniverseUnique (Pixabay) https://pixabay.com/videos/id-184344/; ScienceStuff (Pixabay) https://pixabay.com/videos/id-372471/; Nerd_Nonsense (Pixabay) https://pixabay.com/videos/id-201404/; olenchic (Pixabay) https://pixabay.com/videos/id-224142/; 8385 (Pixabay) https://pixabay.com/videos/id-4138/; olenchic (Pixabay) https://pixabay.com/videos/id-144423/; olenchic (Pixabay) https://pixabay.com/videos/id-144478/; olenchic (Pixabay) https://pixabay.com/videos/id-227584/; u_wpdpofjc5q (Pixabay) https://pixabay.com/videos/id-168193/"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-22",
+        "name": "2026-10-22-3-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-22",
+        "name": "2026-10-22-3-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,050 --> 00:00:02,688\nYou'd guess Mercury is the hottest planet\n\n2\n00:00:02,688 --> 00:00:05,425\nYou'd be wrong and here's why Let's\n\n3\n00:00:05,425 --> 00:00:07,450\nrank the five hottest planets by average\n\n4\n00:00:07,450 --> 00:00:11,475\ntemperature counting down Number five Jupiter\n\n5\n00:00:11,475 --> 00:00:13,700\nat about minus one hundred sixty-six degrees\n\n6\n00:00:13,700 --> 00:00:17,238\nFahrenheit Bring a big coat Number four\n\n7\n00:00:17,238 --> 00:00:20,975\nMars at around minus eighty-five Sunny but\n\n8\n00:00:20,975 --> 00:00:24,212\nfreezing Number three Earth at a comfy\n\n9\n00:00:24,212 --> 00:00:28,688\nfifty-nine degrees Lucky us Number two Mercury\n\n10\n00:00:28,688 --> 00:00:30,988\nat about three hundred thirty-three degrees\n\n11\n00:00:30,988 --> 00:00:32,562\neven though it's the closest planet to\n\n12\n00:00:32,562 --> 00:00:34,975\nthe sun It has almost no air\n\n13\n00:00:34,975 --> 00:00:36,688\nso its heat escapes straight out into\n\n14\n00:00:36,688 --> 00:00:40,038\nspace Number one Venus at about eight\n\n15\n00:00:40,038 --> 00:00:43,062\nhundred sixty-seven degrees That's why Mercury\n\n16\n00:00:43,062 --> 00:00:45,375\nloses Venus is wrapped in a thick\n\n17\n00:00:45,375 --> 00:00:47,250\nblanket of air and clouds that traps\n\n18\n00:00:47,250 --> 00:00:49,050\nthe heat It gets hot enough to\n\n19\n00:00:49,050 --> 00:00:51,562\nmelt lead Which of these five planets\n\n20\n00:00:51,562 --> 00:00:53,288\nwould you visit first if you had\n\n21\n00:00:53,288 --> 00:00:55,050\nto pick one So the next time\n\n22\n00:00:55,050 --> 00:00:57,775\nsomeone tells you Mercury's the hottest planet\n",
+      "tg_msg": 684,
+      "opts_msg": 686
+    },
+    "2026-10-22-4": {
+      "topic": {
+        "title": "This 1 kg Ball Is the Roundest Ever Made",
+        "angle": "\"They Trying To Make 100% Perfect Circle But Failed\" is at 2.2x its channel median today (3.9M views, The Statistic formula), and this is the real-world version of that same chase for perfect roundness, with a scale comparison anyone can picture.",
+        "format": "explainer",
+        "tone": "normal",
+        "virality_score": 7,
+        "trend_source": "They Trying To Make 100% Perfect Circle But Failed (2.2x, The Statistic)",
+        "plan_id": "P2026-10-22-04"
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-22T20:33:03.179574+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "roundest object ever made",
+        "title": "This 1 kg Ball Is the Roundest Ever Made",
+        "hook_text": "SMOOTHER THAN A PLANET",
+        "thumbnail_text": "SMOOTHER THAN EARTH",
+        "description": "This is the roundest object ever made: a 1 kg silicon sphere so round that, scaled up to the size of Earth, its tallest mountain and deepest ocean would be only 3 to 5 meters apart. Scientists used these perfect silicon spheres to count atoms and redefine the kilogram.\n\nIn this Short: how round it really is, who shaped it, and why counting its atoms changed the kilogram.\n\nSources:\nhttps://www.nist.gov/node/1338241\nhttps://lede-v2.nautil.us/the-most-symmetrical-objects-in-the-world-234951",
+        "hashtags": [
+          "#shorts",
+          "#science",
+          "#physics",
+          "#engineering",
+          "#didyouknow"
+        ],
+        "tags": [
+          "roundest object ever made",
+          "1 kg ball",
+          "roundest object ever",
+          "avogadro silicon sphere",
+          "roundest object on earth",
+          "roundest ball in the world",
+          "roundest object in the world",
+          "roundest ball",
+          "avogadro project",
+          "silicon sphere",
+          "silicon 28 sphere",
+          "most perfect sphere",
+          "nist silicon sphere",
+          "science facts",
+          "avogadro constant",
+          "kilogram redefinition",
+          "redefining the kilogram",
+          "how the kilogram is defined"
+        ],
+        "pinned_comment": "Bonus fact: scientists count atoms in these balls to get Avogadro's number, about six hundred two sextillion atoms per mole. What's the most precise thing you've ever had to measure?",
+        "scenes": [
+          {
+            "text": "You've never touched anything as round as this one-kilogram ball. Almost nobody has. Here's what makes it the roundest thing ever made, and why it exists.",
+            "badge": "ROUNDEST",
+            "label": "Roundest ever made",
+            "stock_queries": [
+              "metallic sphere rotating dark background",
+              "reflective ball on lab table"
+            ],
+            "image_prompt": "Cinematic macro shot of a perfect reflective silicon sphere on a dark lab table, soft studio lighting, highly detailed surface reflection.",
+            "stock_query": "metallic sphere rotating dark background"
+          },
+          {
+            "text": "It's about the size of a softball, made of super pure silicon. A master lens maker shaped it by hand. Then lasers measured its width all the way down to the nanometer.",
+            "badge": "MADE BY ",
+            "label": "Softball-sized silicon",
+            "stock_queries": [
+              "craftsman polishing glass lens",
+              "laser beams in dark laboratory"
+            ],
+            "image_prompt": "Close up of a craftsman polishing a glass lens by hand on a spinning wheel in a workshop with dramatic lighting.",
+            "stock_query": "craftsman polishing glass lens"
+          },
+          {
+            "text": "Now picture this ball blown up to the size of Earth. Its tallest mountain and its deepest ocean would be just three to five meters apart. That's about a two-story house, across a whole planet.",
+            "badge": "EARTH SI",
+            "label": "Mountains: 3-5 meters",
+            "stock_queries": [
+              "zoom out from sphere to planet earth",
+              "two story house street view"
+            ],
+            "image_prompt": "Digital illustration of planet Earth from space highlighting mountains and oceans scaled to microscopic heights.",
+            "stock_query": "zoom out from sphere to planet earth"
+          },
+          {
+            "text": "So why build it? To count atoms. Because it's so round and so pure, scientists could measure it exactly and work out how many atoms are inside. That count helped redefine the kilogram in twenty-nineteen.",
+            "badge": "COUNT AT",
+            "label": "New kilogram 2019",
+            "stock_queries": [
+              "atoms crystal grid animation",
+              "scientist in lab clean room"
+            ],
+            "image_prompt": "Abstract animation of atoms arranged in a neat glowing crystal grid structure inside a laboratory.",
+            "stock_query": "atoms crystal grid animation"
+          },
+          {
+            "text": "Each sphere cost around three million dollars. So if someone handed you one, would you hold it, or be too scared to touch it? Honestly, I'd be too scared to touch it, and...",
+            "badge": "THREE MI",
+            "label": "Hold it or not",
+            "stock_queries": [
+              "stack of dollar bills glowing sphere",
+              "hands in white gloves holding ball"
+            ],
+            "image_prompt": "Person wearing white cotton gloves cautiously reaching out to touch a gleaming mirror-like sphere.",
+            "stock_query": "stack of dollar bills glowing sphere"
+          }
+        ],
+        "key_facts": [
+          "The sphere weighs one kilogram and is made of super pure silicon.",
+          "It was shaped by hand by a master lens maker and measured with lasers down to the nanometer.",
+          "If scaled to the size of Earth, its tallest mountain and deepest ocean would be only 3 to 5 meters apart.",
+          "Each sphere cost around three million dollars.",
+          "Counting the atoms inside the sphere helped redefine the kilogram in 2019."
+        ],
+        "format": "explainer",
+        "tone": "normal",
+        "category": "27",
+        "script": "You've never touched anything as round as this one-kilogram ball. Almost nobody has. Here's what makes it the roundest thing ever made, and why it exists. It's about the size of a softball, made of super pure silicon. A master lens maker shaped it by hand. Then lasers measured its width all the way down to the nanometer. Now picture this ball blown up to the size of Earth. Its tallest mountain and its deepest ocean would be just three to five meters apart. That's about a two-story house, across a whole planet. So why build it? To count atoms. Because it's so round and so pure, scientists could measure it exactly and work out how many atoms are inside. That count helped redefine the kilogram in twenty-nineteen. Each sphere cost around three million dollars. So if someone handed you one, would you hold it, or be too scared to touch it? Honestly, I'd be too scared to touch it, and...",
+        "plan_id": "P2026-10-22-04",
+        "shot_plan": [
+          {
+            "subject": "polished metal sphere",
+            "queries": [
+              {
+                "q": "metal ball",
+                "must": [
+                  "ball"
+                ]
+              },
+              {
+                "q": "chrome sphere",
+                "must": [
+                  "sphere"
+                ]
+              },
+              {
+                "q": "polished sphere",
+                "must": [
+                  "object"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "silicon sphere and laser measurement",
+            "queries": [
+              {
+                "q": "silicon crystal",
+                "must": [
+                  "silicon"
+                ]
+              },
+              {
+                "q": "laser measurement",
+                "must": [
+                  "laser"
+                ]
+              },
+              {
+                "q": "lens maker",
+                "must": [
+                  "lens"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "planet earth and mountains",
+            "queries": [
+              {
+                "q": "planet earth",
+                "must": [
+                  "earth"
+                ]
+              },
+              {
+                "q": "mountain range",
+                "must": [
+                  "mountain"
+                ]
+              },
+              {
+                "q": "deep ocean",
+                "must": [
+                  "ocean"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "scientific laboratory and atoms",
+            "queries": [
+              {
+                "q": "science laboratory",
+                "must": [
+                  "laboratory"
+                ]
+              },
+              {
+                "q": "atoms model",
+                "must": [
+                  "atoms"
+                ]
+              },
+              {
+                "q": "precision scale",
+                "must": [
+                  "scale"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "person holding sphere hesitantly",
+            "queries": [
+              {
+                "q": "holding ball",
+                "must": [
+                  "holding"
+                ]
+              },
+              {
+                "q": "hands culing",
+                "must": [
+                  "hands"
+                ]
+              },
+              {
+                "q": "person hesitation",
+                "must": [
+                  "person"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "steel ball",
+          "precision instrument",
+          "laboratory"
+        ],
+        "visual_style": "Cinematic macro close-ups and clean studio visuals demonstrating extreme precision, spheres, and scientific scale comparisons.",
+        "visual_refs": [
+          "World&#39;s Roundest Object",
+          "Pancakes vs 0.1 KG, 1 KG &amp; 10 KG Steel Ball \ud83e\udd2f",
+          "He Kicked A Rock Into A Perfect Sphere\ud83d\ude28\ud83e\udea8",
+          "I Made a Perfect Japanese Dirt Ball",
+          "Metal ball vs. pastel tower (1 kg \u2192 1000 kg)",
+          "Ball vs Tower: 1 kg to 10 tons #shorts"
+        ],
+        "voice": "en-US-EmmaMultilingualNeural",
+        "visual_report": {
+          "shots": 7,
+          "checked": 5,
+          "unchecked": 0,
+          "filler": 3,
+          "ai": 0
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-EmmaMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): Witizia (Pixabay) https://pixabay.com/photos/pyrenees-mountains-snow-landscape-351266/; dimitrisvetsikas1969 (Pixabay) https://pixabay.com/photos/atomium-brussels-travel-landmark-3590775/; dimitrisvetsikas1969 (Pixabay) https://pixabay.com/photos/atomium-brussels-travel-landmark-3606469/; dimitrisvetsikas1969 (Pixabay) https://pixabay.com/photos/atomium-building-sphere-ball-6915775/"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-22",
+        "name": "2026-10-22-4-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-22",
+        "name": "2026-10-22-4-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,106 --> 00:00:02,221\nYou've never touched anything as round as\n\n2\n00:00:02,221 --> 00:00:06,396\nthis one-kilogram ball Almost nobody has Here's\n\n3\n00:00:06,396 --> 00:00:08,098\nwhat makes it the roundest thing ever\n\n4\n00:00:08,098 --> 00:00:10,891\nmade and why it exists It's about\n\n5\n00:00:10,891 --> 00:00:12,872\nthe size of a softball made of\n\n6\n00:00:12,872 --> 00:00:16,090\nsuper pure silicon A master lens maker\n\n7\n00:00:16,090 --> 00:00:18,910\nshaped it by hand Then lasers measured\n\n8\n00:00:18,910 --> 00:00:20,372\nits width all the way down to\n\n9\n00:00:20,372 --> 00:00:23,178\nthe nanometer Now picture this ball blown\n\n10\n00:00:23,178 --> 00:00:25,173\nup to the size of Earth Its\n\n11\n00:00:25,173 --> 00:00:27,846\ntallest mountain and its deepest ocean would\n\n12\n00:00:27,846 --> 00:00:30,426\nbe just three to five meters apart\n\n13\n00:00:30,426 --> 00:00:32,952\nThat's about a two-story house across a\n\n14\n00:00:32,952 --> 00:00:35,891\nwhole planet So why build it To\n\n15\n00:00:35,891 --> 00:00:38,604\ncount atoms Because it's so round and\n\n16\n00:00:38,604 --> 00:00:41,596\nso pure scientists could measure it exactly\n\n17\n00:00:41,596 --> 00:00:43,165\nand work out how many atoms are\n\n18\n00:00:43,165 --> 00:00:46,543\ninside That count helped redefine the kilogram\n\n19\n00:00:46,543 --> 00:00:49,508\nin twenty-nineteen Each sphere cost around\n\n20\n00:00:49,508 --> 00:00:52,473\nthree million dollars So if someone handed\n\n21\n00:00:52,473 --> 00:00:54,721\nyou one would you hold it or\n\n22\n00:00:54,721 --> 00:00:57,527\nbe too scared to touch it Honestly\n\n23\n00:00:57,527 --> 00:00:59,348\nI'd be too scared to touch it\n\n24\n00:00:59,348 --> 00:01:00,014\nand\n",
+      "tg_msg": 687,
+      "opts_msg": 689
     }
   },
   "history": [
-    "3 Smartphone Hacks You\u2019ve Been Ignoring",
-    "Top 5 Inventions That Are Borderline Useless",
-    "How Modern Bridges Handle Extreme Weather",
-    "The Mystery of the Vanishing Forest Path",
     "Top 5 Weirdest Ways Animals Sleep \ud83d\ude34",
     "The Great Rubber Duck Escape of 1992 \ud83e\udd86",
     "3 School Facts That Are Actually False",
@@ -12096,7 +13243,11 @@
     "How 2,000-Year-Old Concrete Seals Cracks",
     "Top 5 Animals That Climb Sheer Walls",
     "Dogs Kick Grass After Pooping: 1 Reason",
-    "The Bank Built From the Mail in 1916"
+    "The Bank Built From the Mail in 1916",
+    "How A Click Pen Works in 2 Clicks",
+    "30 Cats vs a Square Made of Nothing \ud83d\ude02",
+    "Top 5 Hottest Planets (#1 Isn't Closest)",
+    "This 1 kg Ball Is the Roundest Ever Made"
   ],
   "trend_tries": {
     "2026-10-20": {
@@ -12114,14 +13265,14 @@
   },
   "cleanup_day": "2026-10-22",
   "recent_voices": [
+    "en-AU-WilliamMultilingualNeural",
+    "en-US-EmmaMultilingualNeural",
     "en-US-AndrewMultilingualNeural",
     "en-AU-WilliamMultilingualNeural",
-    "en-US-AvaMultilingualNeural",
-    "en-US-BrianMultilingualNeural",
-    "en-AU-WilliamMultilingualNeural"
+    "en-US-EmmaMultilingualNeural"
   ],
   "visual_searches": {
-    "2026-10-21": 3
+    "2026-10-22": 3
   },
   "signals_day": "2026-10-22"
 }
