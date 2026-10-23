@@ -1,72 +1,6 @@
 {
   "tg_offset": 40455537,
   "batches": {
-    "2026-10-20": {
-      "topics": [
-        {
-          "title": "How Desert Ice Houses Worked 2,400 Years Ago",
-          "angle": "Zack D. Films' ancient-gadget explainer \"How Plato's Alarm Clock Worked\" is pulling about 247,000 views per hour this week, and a desert ice house is the same clever-old-mechanism curiosity with a clear 3D cutaway payoff.",
-          "format": "animated",
-          "tone": "normal",
-          "virality_score": 8,
-          "trend_source": "title shape of How Plato's Alarm Clock Worked (247,000 views/h); also How Electrical Outlets Work (372,500 views/h)",
-          "plan_id": "P2026-10-20-01"
-        },
-        {
-          "title": "Top 5 Animal Dads (#1 Gets Pregnant)",
-          "angle": "The baby sea turtle rescue Short (30.4x its channel median) shows how far animal-parenting care spreads, and a countdown ending on a dad who gives birth turns that warmth into a ranking with a twist.",
-          "format": "ranking",
-          "tone": "normal",
-          "virality_score": 8,
-          "trend_source": "He Saved These Baby Sea Turtles (30.4x, Unclassified - one caring moment with baby animals)",
-          "plan_id": "P2026-10-20-02"
-        },
-        {
-          "title": "Why Wombat Poop Is a Cube: 1 Weird Gut",
-          "angle": "The top outliers (up to 219x their channel medians) are single surprising moments with a big reaction, and cube-shaped poop is a true, kind, laugh-out-loud surprise with a real science payoff.",
-          "format": "funny",
-          "tone": "funny",
-          "virality_score": 8,
-          "trend_source": "Don't miss the End (2.0x, funny reveal) and the one-moment structure shared by today's top outliers (219.3x, 34.5x, 30.4x)",
-          "plan_id": "P2026-10-20-03"
-        },
-        {
-          "title": "The 131-Year-Old Message in a Bottle \ud83c\udf7e",
-          "angle": "Today's top outliers (219x, 34x, 30x) are one-moment discoveries with a reveal, and a beach walk that turns up a note from 1886 is a true, gentle discovery with a record-breaking payoff.",
-          "format": "story",
-          "tone": "normal",
-          "virality_score": 7,
-          "trend_source": "He Saved These Baby Sea Turtles (30.4x) and the one-moment-reveal structure of today's top outliers",
-          "plan_id": "P2026-10-20-04"
-        },
-        {
-          "title": "3 Fruits That Taste Like Dessert: Real or Fake?",
-          "angle": "Today's top outliers win on one quick reveal, and a real-or-fake quiz where every \"fake-sounding\" fruit turns out to be real gives viewers a three-second guess and a twist they want to test on friends.",
-          "format": "quiz",
-          "tone": "normal",
-          "virality_score": 6,
-          "trend_source": "I Tested Clickbait Shorts (Part 5) (2.4x, I Tried It - testing whether something too good to be true is real)",
-          "plan_id": "P2026-10-20-05"
-        },
-        {
-          "title": "Chill a Warm Can Fast: 3 Tricks, 1 Myth",
-          "angle": "Today's outliers reward one quick, clear payoff, and a fix you can test in the next five minutes, plus a myth-bust of a famous hack, gives viewers a reason to save and share it.",
-          "format": "tips",
-          "tone": "normal",
-          "virality_score": 6,
-          "trend_source": "I Tested Clickbait Shorts (Part 5) (2.4x, I Tried It - testing whether a viral hack is real)",
-          "plan_id": "P2026-10-20-06"
-        }
-      ],
-      "sent_at": "2026-10-20T15:10:57.735289+00:00",
-      "selected": [
-        0,
-        1,
-        2,
-        3
-      ],
-      "status": "closed"
-    },
     "2026-10-20-2": {
       "topics": [
         {
@@ -350,6 +284,58 @@
         }
       ],
       "sent_at": "2026-10-23T16:31:33.594095+00:00",
+      "selected": [],
+      "status": "waiting"
+    },
+    "2026-10-23-2": {
+      "topics": [
+        {
+          "title": "Top 5 Animals That Hold Ridiculous Grudges",
+          "angle": "A comedic countdown of animals with photographic memory for vengeance, from crows teaching their offspring to hate specific humans to camels holding grudges for years.",
+          "format": "ranking",
+          "tone": "funny",
+          "trend_source": "evergreen",
+          "virality_score": 9,
+          "why": "High comment bait as viewers tag friends and share personal run-ins with vengeful birds or pets; rapid comedic pacing guarantees high completion rates."
+        },
+        {
+          "title": "Why You Sprint Up the Basement Stairs Like a Prey Animal",
+          "angle": "A relatable comedic breakdown of the universal human instinct to sprint full speed up the stairs the instant you turn off the basement light.",
+          "format": "funny",
+          "tone": "funny",
+          "trend_source": "Halloween On Goober Street\u2026 / evergreen",
+          "virality_score": 9,
+          "why": "Massive universal relatability drives immediate shares and comment debates ('I thought I was the only one'), keeping retention above 85%."
+        },
+        {
+          "title": "Why Ultra-Thin Glass Bends Without Cracking",
+          "angle": "A fast-paced materials science explainer breaking down how chemical strengthening and tapering glass thinner than human hair allows folding screens to flex thousands of times.",
+          "format": "explainer",
+          "tone": "normal",
+          "trend_source": "iphone duo internal display break",
+          "virality_score": 8,
+          "why": "Capitalizes on massive trending curiosity surrounding foldable displays and screen durability with satisfying macro science visuals that prevent swipe-away."
+        },
+        {
+          "title": "Top 5 Rarest Cloud Formations on Earth",
+          "angle": "A breathtaking visual ranking of atmospheric anomalies, from breaking ocean-wave Kelvin-Helmholtz clouds to the 600-mile Morning Glory roll cloud.",
+          "format": "ranking",
+          "tone": "normal",
+          "trend_source": "evergreen",
+          "virality_score": 8,
+          "why": "Incredible visuals create immediate visual curiosity in the first frame, driving high swipe-through rate and curiosity to see which cloud takes #1."
+        },
+        {
+          "title": "3 Acoustic Tricks to Stop Room Echo Instantly",
+          "angle": "Three quick, science-backed home hacks using book spacing, rug placement, and corner diffusion to eliminate hollow mic echo without expensive foam panels.",
+          "format": "tips",
+          "tone": "normal",
+          "trend_source": "evergreen",
+          "virality_score": 8,
+          "why": "Solves an everyday problem for remote workers and creators; practical utility generates high save and share metrics, which strongly signals quality to the Shorts algorithm."
+        }
+      ],
+      "sent_at": "2026-10-23T18:30:01.886844+00:00",
       "selected": [],
       "status": "waiting"
     }
@@ -11907,8 +11893,8 @@
       "at": "2026-10-22T18:33:56.560632+00:00"
     },
     "2026-10-23": {
-      "n": 1,
-      "at": "2026-10-23T16:30:04.219741+00:00"
+      "n": 2,
+      "at": "2026-10-23T18:23:33.393942+00:00"
     }
   },
   "cleanup_day": "2026-10-23",

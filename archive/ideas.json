@@ -2019,5 +2019,67 @@
   ],
   "sent_at": "2026-10-23T16:31:33.594095+00:00",
   "status": "waiting"
+ },
+ "2026-10-23-2": {
+  "date": "2026-10-23-2",
+  "ideas": [
+   {
+    "angle": "A comedic countdown of animals with photographic memory for vengeance, from crows teaching their offspring to hate specific humans to camels holding grudges for years.",
+    "format": "ranking",
+    "picked": false,
+    "rank": 1,
+    "title": "Top 5 Animals That Hold Ridiculous Grudges",
+    "trend_source": "evergreen",
+    "video_id": null,
+    "virality_score": 9,
+    "why": "High comment bait as viewers tag friends and share personal run-ins with vengeful birds or pets; rapid comedic pacing guarantees high completion rates."
+   },
+   {
+    "angle": "A relatable comedic breakdown of the universal human instinct to sprint full speed up the stairs the instant you turn off the basement light.",
+    "format": "funny",
+    "picked": false,
+    "rank": 2,
+    "title": "Why You Sprint Up the Basement Stairs Like a Prey Animal",
+    "trend_source": "Halloween On Goober Street… / evergreen",
+    "video_id": null,
+    "virality_score": 9,
+    "why": "Massive universal relatability drives immediate shares and comment debates ('I thought I was the only one'), keeping retention above 85%."
+   },
+   {
+    "angle": "A fast-paced materials science explainer breaking down how chemical strengthening and tapering glass thinner than human hair allows folding screens to flex thousands of times.",
+    "format": "explainer",
+    "picked": false,
+    "rank": 3,
+    "title": "Why Ultra-Thin Glass Bends Without Cracking",
+    "trend_source": "iphone duo internal display break",
+    "video_id": null,
+    "virality_score": 8,
+    "why": "Capitalizes on massive trending curiosity surrounding foldable displays and screen durability with satisfying macro science visuals that prevent swipe-away."
+   },
+   {
+    "angle": "A breathtaking visual ranking of atmospheric anomalies, from breaking ocean-wave Kelvin-Helmholtz clouds to the 600-mile Morning Glory roll cloud.",
+    "format": "ranking",
+    "picked": false,
+    "rank": 4,
+    "title": "Top 5 Rarest Cloud Formations on Earth",
+    "trend_source": "evergreen",
+    "video_id": null,
+    "virality_score": 8,
+    "why": "Incredible visuals create immediate visual curiosity in the first frame, driving high swipe-through rate and curiosity to see which cloud takes #1."
+   },
+   {
+    "angle": "Three quick, science-backed home hacks using book spacing, rug placement, and corner diffusion to eliminate hollow mic echo without expensive foam panels.",
+    "format": "tips",
+    "picked": false,
+    "rank": 5,
+    "title": "3 Acoustic Tricks to Stop Room Echo Instantly",
+    "trend_source": "evergreen",
+    "video_id": null,
+    "virality_score": 8,
+    "why": "Solves an everyday problem for remote workers and creators; practical utility generates high save and share metrics, which strongly signals quality to the Shorts algorithm."
+   }
+  ],
+  "sent_at": "2026-10-23T18:30:01.886844+00:00",
+  "status": "waiting"
  }
 }
