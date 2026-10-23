@@ -332,1473 +332,6 @@
     }
   },
   "videos": {
-    "2026-10-14-2": {
-      "topic": {
-        "title": "5 Real English Words That Sound Made Up",
-        "angle": "Light, kind comedy is the shared thread in today's top outliers (58.8x 'FOSFORITO EN SALSA', 47.0x relatable edit), and the 3.6x List title shows a numbered list still breaks out, so a funny countdown of silly-sounding real words fits both.",
-        "format": "funny",
-        "tone": "funny",
-        "virality_score": 7,
-        "trend_source": "FOSFORITO EN SALSA (CAMILO AGUILLON, 58.8x); 3 Youtubers Que Hicieron Doblaje (DavidG, 3.6x, The List)",
-        "plan_id": "P2026-10-14-02"
-      },
-      "status": "published",
-      "by": "auto",
-      "updated": "2026-10-16T09:17:21.074812+00:00",
-      "redos": 0,
-      "package": {
-        "primary_keyword": "funny english words",
-        "title": "5 Real English Words That Sound Made Up",
-        "hook_text": "IS THIS EVEN ENGLISH?",
-        "thumbnail_text": "BUMFUZZLED?",
-        "description": "These real words sound fake, but every one is in the dictionary. Here are five funny English words, weird words like bumfuzzle and flibbertigibbet, and what they really mean.\n\nIn this Short: lollygag, kerfuffle, cattywampus, bumfuzzle and flibbertigibbet, counted down.\n\nSources:\nhttps://www.merriam-webster.com/dictionary/Lollygag\nhttps://www.etymonline.com/word/kerfuffle\nhttps://uselessetymology.com/2017/12/02/the-etymology-of-cattywampus/",
-        "hashtags": [
-          "#shorts",
-          "#words",
-          "#english",
-          "#funnywords",
-          "#funny"
-        ],
-        "tags": [
-          "funny english words",
-          "weird words",
-          "weird words in english",
-          "real words that sound fake",
-          "fun english words",
-          "weird words to say",
-          "strange english words",
-          "lollygag",
-          "kerfuffle",
-          "funny words",
-          "top 5 words",
-          "word origins",
-          "english vocabulary",
-          "bumfuzzle",
-          "cattywampus",
-          "flibbertigibbet",
-          "catawampus",
-          "bumfuzzled"
-        ],
-        "pinned_comment": "Bonus fact: kerfuffle comes from an old Scottish word, curfuffle, which meant a state of disorder. What's the funniest real word you know?",
-        "scenes": [
-          {
-            "text": "You've been saying confused, but there's a funnier real word, and you'll never stop using it. Here are five real English words that sound completely made up.",
-            "badge": "A funnie",
-            "label": "5 real words",
-            "stock_queries": [
-              "person scratching head",
-              "old dictionary pages"
-            ],
-            "image_prompt": "Close up of an old open dictionary with a magnifying glass on a wooden table, bright studio lighting",
-            "stock_query": "person scratching head"
-          },
-          {
-            "text": "Number five, lollygag. It means to goof off and waste time, and it's been around since at least eighteen sixty-two.",
-            "badge": "LOLLYGAG",
-            "label": "Goofing off",
-            "stock_queries": [
-              "teen lounging on couch",
-              "clock ticking on wall"
-            ],
-            "image_prompt": "A lazy afternoon living room scene with a person lying on a couch relaxing",
-            "stock_query": "teen lounging on couch"
-          },
-          {
-            "text": "Number four, kerfuffle. It's a big fuss over something small, and it comes from an old Scottish word, curfuffle.",
-            "badge": "KERFUFFL",
-            "label": "Big fuss",
-            "stock_queries": [
-              "crowd of pigeons flapping",
-              "kids making a mess"
-            ],
-            "image_prompt": "A humorous bustling scene of chaos in a bright room with pillows everywhere",
-            "stock_query": "crowd of pigeons flapping"
-          },
-          {
-            "text": "Number three, cattywampus. It means crooked, or sitting at a weird angle, and funny enough, it mostly has nothing to do with cats.",
-            "badge": "CATTYWAM",
-            "label": "Crooked angle",
-            "stock_queries": [
-              "crooked picture frame",
-              "leaning wooden fence"
-            ],
-            "image_prompt": "A crooked picture frame hanging on a pastel colored wall",
-            "stock_query": "crooked picture frame"
-          },
-          {
-            "text": "Number two, bumfuzzle. It's a real word for confused, and you'll mostly hear it in the southern United States.",
-            "badge": "BUMFUZZL",
-            "label": "Confused",
-            "stock_queries": [
-              "person looking at map",
-              "puzzled cat tilting head"
-            ],
-            "image_prompt": "A funny close up of a cute cat tilting its head in confusion",
-            "stock_query": "person looking at map"
-          },
-          {
-            "text": "Number one, flibbertigibbet. It means a silly, flighty, chatty person, and Shakespeare used it in King Lear.",
-            "badge": "FLIBBERT",
-            "label": "Shakespeare",
-            "stock_queries": [
-              "chatty friends laughing",
-              "old theater stage"
-            ],
-            "image_prompt": "Vintage theater stage with dramatic red velvet curtains and soft lighting",
-            "stock_query": "chatty friends laughing"
-          },
-          {
-            "text": "So that's your funnier word, next time you're confused, just say you're bumfuzzled. Which of these five are you sneaking into a sentence today? Try bumfuzzle first, because once you've said it, you'll never go back to saying confused.",
-            "badge": "Start wi",
-            "label": "Try it today",
-            "stock_queries": [
-              "person shrugging smiling",
-              "person laughing reading"
-            ],
-            "image_prompt": "A cheerful person smiling and shrugging in a bright modern kitchen",
-            "stock_query": "person shrugging smiling"
-          }
-        ],
-        "key_facts": [
-          "Lollygag means to goof off and waste time and dates back to at least 1862.",
-          "Kerfuffle means a big fuss over something small and derives from the old Scottish word curfuffle.",
-          "Cattywampus means crooked or sitting at a weird angle and is unrelated to cats.",
-          "Bumfuzzle is a real word meaning confused, commonly used in the southern United States.",
-          "Flibbertigibbet means a silly, flighty, chatty person and was used by Shakespeare in King Lear."
-        ],
-        "format": "funny",
-        "tone": "funny",
-        "category": "23",
-        "script": "You've been saying confused, but there's a funnier real word, and you'll never stop using it. Here are five real English words that sound completely made up. Number five, lollygag. It means to goof off and waste time, and it's been around since at least eighteen sixty-two. Number four, kerfuffle. It's a big fuss over something small, and it comes from an old Scottish word, curfuffle. Number three, cattywampus. It means crooked, or sitting at a weird angle, and funny enough, it mostly has nothing to do with cats. Number two, bumfuzzle. It's a real word for confused, and you'll mostly hear it in the southern United States. Number one, flibbertigibbet. It means a silly, flighty, chatty person, and Shakespeare used it in King Lear. So that's your funnier word, next time you're confused, just say you're bumfuzzled. Which of these five are you sneaking into a sentence today? Try bumfuzzle first, because once you've said it, you'll never go back to saying confused.",
-        "plan_id": "P2026-10-14-02",
-        "shot_plan": [
-          {
-            "subject": "question mark sign",
-            "queries": [
-              {
-                "q": "question mark sign",
-                "must": [
-                  "sign"
-                ]
-              },
-              {
-                "q": "neon question mark",
-                "must": [
-                  "mark"
-                ]
-              },
-              {
-                "q": "alphabet blocks",
-                "must": [
-                  "blocks"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "person relaxing on hammock",
-            "queries": [
-              {
-                "q": "person relaxing hammock",
-                "must": [
-                  "hammock"
-                ]
-              },
-              {
-                "q": "lazy dog sleeping",
-                "must": [
-                  "dog"
-                ]
-              },
-              {
-                "q": "hammock relaxing",
-                "must": [
-                  "hammock"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "arguing crowd",
-            "queries": [
-              {
-                "q": "arguing crowd",
-                "must": [
-                  "crowd"
-                ]
-              },
-              {
-                "q": "dispute argument",
-                "must": [
-                  "dispute"
-                ]
-              },
-              {
-                "q": "messy desk",
-                "must": [
-                  "desk"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "crooked picture frame",
-            "queries": [
-              {
-                "q": "crooked picture frame",
-                "must": [
-                  "frame"
-                ]
-              },
-              {
-                "q": "leaning tower",
-                "must": [
-                  "tower"
-                ]
-              },
-              {
-                "q": "cat sleeping",
-                "must": [
-                  "cat"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "confused tourist holding map",
-            "queries": [
-              {
-                "q": "confused tourist map",
-                "must": [
-                  "map"
-                ]
-              },
-              {
-                "q": "lost person street",
-                "must": [
-                  "street"
-                ]
-              },
-              {
-                "q": "compass direction",
-                "must": [
-                  "compass"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "talking person",
-            "queries": [
-              {
-                "q": "talking person",
-                "must": [
-                  "person"
-                ]
-              },
-              {
-                "q": "vintage book",
-                "must": [
-                  "book"
-                ]
-              },
-              {
-                "q": "antique library",
-                "must": [
-                  "library"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "person speaking to camera",
-            "queries": [
-              {
-                "q": "person speaking camera",
-                "must": [
-                  "camera"
-                ]
-              },
-              {
-                "q": "smiling person",
-                "must": [
-                  "person"
-                ]
-              },
-              {
-                "q": "notebook pen",
-                "must": [
-                  "pen"
-                ]
-              }
-            ]
-          }
-        ],
-        "broll": [
-          "dictionary",
-          "notepad",
-          "bookshelf"
-        ],
-        "visual_style": "Bright, engaging vocabulary countdown with high-contrast text labels and quirky, real-world visual demonstrations of uncommon words.",
-        "visual_refs": [
-          "5 words that sound made up that we use all the time",
-          "5 Rare English Words That Make You Sound Smarter!",
-          "5 unusual English words that sound funny but are actually real! \ud83e\udd2f",
-          "\ud83d\udc4f 5 Words That Make You Sound Native \u2014 Praising &amp; Complimenting | EnglishDrops",
-          "Words That Sound Funny: Mispronouncing Compound Words!",
-          "\ud83d\udca5 5 Powerful English Words to Sound Smart &amp; Confident | English with Donnie Jackson"
-        ],
-        "voice": "en-US-BrianMultilingualNeural",
-        "visual_report": {
-          "shots": 10,
-          "checked": 10,
-          "unchecked": 0,
-          "filler": 3,
-          "ai": 0
-        }
-      },
-      "credits": [
-        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-BrianMultilingualNeural).",
-        "Stock footage/photos (Pexels/Pixabay Content License): FreeAseets01 (Pixabay) https://pixabay.com/videos/id-278986/; UUzukiii (Pixabay) https://pixabay.com/videos/id-192556/; ChristianBodhi (Pixabay) https://pixabay.com/videos/id-72720/; ddong8496 (Pixabay) https://pixabay.com/videos/id-176776/; Peggy_Marco (Pixabay) https://pixabay.com/videos/id-63257/; Mohamed_hassan (Pixabay) https://pixabay.com/videos/id-289876/; Sang_Soi (Pixabay) https://pixabay.com/videos/id-140807/"
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-14",
-        "name": "2026-10-14-2-v0.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-14",
-        "name": "2026-10-14-2-v0-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,061 --> 00:00:02,169\nYou've been saying confused but there's a\n\n2\n00:00:02,169 --> 00:00:04,730\nfunnier real word and you'll never stop\n\n3\n00:00:04,730 --> 00:00:07,255\nusing it Here are five real English\n\n4\n00:00:07,255 --> 00:00:09,939\nwords that sound completely made up Number\n\n5\n00:00:09,939 --> 00:00:12,930\nfive lollygag It means to goof off\n\n6\n00:00:12,930 --> 00:00:14,891\nand waste time and it's been around\n\n7\n00:00:14,891 --> 00:00:18,248\nsince at least eighteen sixty-two Number four\n\n8\n00:00:18,248 --> 00:00:20,736\nkerfuffle It's a big fuss over something\n\n9\n00:00:20,736 --> 00:00:22,673\nsmall and it comes from an old\n\n10\n00:00:22,673 --> 00:00:27,182\nScottish word curfuffle Number three cattywampus\n\n11\n00:00:27,182 --> 00:00:28,739\nIt means crooked or sitting at a\n\n12\n00:00:28,739 --> 00:00:30,736\nweird angle and funny enough it mostly\n\n13\n00:00:30,736 --> 00:00:32,733\nhas nothing to do with cats Number\n\n14\n00:00:32,733 --> 00:00:35,565\ntwo bumfuzzle It's a real word for\n\n15\n00:00:35,565 --> 00:00:38,089\nconfused and you'll mostly hear it in\n\n16\n00:00:38,089 --> 00:00:42,342\nthe southern United States Number one flibbertigibbet\n\n17\n00:00:42,342 --> 00:00:45,773\nIt means a silly flighty chatty person\n\n18\n00:00:45,773 --> 00:00:48,162\nand Shakespeare used it in King Lear\n\n19\n00:00:48,162 --> 00:00:50,503\nSo that's your funnier word next time\n\n20\n00:00:50,503 --> 00:00:53,468\nyou're confused just say you're bumfuzzled\n\n21\n00:00:53,468 --> 00:00:55,208\nWhich of these five are you sneaking\n\n22\n00:00:55,208 --> 00:00:58,076\ninto a sentence today Try bumfuzzle first\n\n23\n00:00:58,076 --> 00:00:59,706\nbecause once you've said it you'll never\n\n24\n00:00:59,706 --> 00:01:01,625\ngo back to saying confused\n",
-      "tg_msg": 394,
-      "opts_msg": 396,
-      "approved_by": "auto",
-      "quota_note": "2026-10-16",
-      "description_full": "These real words sound fake, but every one is in the dictionary. Here are five funny English words, weird words like bumfuzzle and flibbertigibbet, and what they really mean.\n\nIn this Short: lollygag, kerfuffle, cattywampus, bumfuzzle and flibbertigibbet, counted down.\n\nSources:\nhttps://www.merriam-webster.com/dictionary/Lollygag\nhttps://www.etymonline.com/word/kerfuffle\nhttps://uselessetymology.com/2017/12/02/the-etymology-of-cattywampus/\n\n#shorts #words #english #funnywords #funny\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-BrianMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): FreeAseets01 (Pixabay) https://pixabay.com/videos/id-278986/; UUzukiii (Pixabay) https://pixabay.com/videos/id-192556/; ChristianBodhi (Pixabay) https://pixabay.com/videos/id-72720/; ddong8496 (Pixabay) https://pixabay.com/videos/id-176776/; Peggy_Marco (Pixabay) https://pixabay.com/videos/id-63257/; Mohamed_hassan (Pixabay) https://pixabay.com/videos/id-289876/; Sang_Soi (Pixabay) https://pixabay.com/videos/id-140807/\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/0MEHf8oV31c",
-          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-16T09:17:21.074824+00:00",
-      "slot": "2026-10-16T16:15:00+00:00"
-    },
-    "2026-10-14-3": {
-      "topic": {
-        "title": "Why Golf Balls Have 300+ Dimples",
-        "angle": "The 4.3x 'Why the MiG-25 Carried 260 Liters of Alcohol' proves a 'why does this odd design exist' Question with a specific number is breaking out, and this asks why a golf ball carries 300-plus dents.",
-        "format": "explainer",
-        "tone": "normal",
-        "virality_score": 6,
-        "trend_source": "Why the MiG-25 Carried 260 Liters of Alcohol (OddFrame, 4.3x, The Question)",
-        "plan_id": "P2026-10-14-04"
-      },
-      "status": "published",
-      "by": "auto",
-      "updated": "2026-10-16T09:17:29.793465+00:00",
-      "redos": 0,
-      "package": {
-        "primary_keyword": "why golf balls have dimples",
-        "title": "Why Golf Balls Have 300+ Dimples",
-        "hook_text": "DENTS ON PURPOSE",
-        "thumbnail_text": "TWICE THE DISTANCE",
-        "description": "Why do golf balls have dimples, and how many dimples on a golf ball are there? Most have 300 to 500 golf ball dimples, and they cut drag and add lift so the ball flies about twice as far as a smooth one.\n\nIn this Short: how a smooth ball drags, what the dimples do to the air, and why beat-up balls flew farther.\n\nSources:\nhttps://mentalfloss.com/article/650345/why-golf-balls-have-dimples\nhttps://www.scienceabc.com/sports/golf-balls-dimpled-reason-speed-air-aerodynamic-drag.html",
-        "hashtags": [
-          "#shorts",
-          "#science",
-          "#golf",
-          "#physics",
-          "#didyouknow"
-        ],
-        "tags": [
-          "why golf balls have dimples",
-          "how many dimples on a golf ball",
-          "golf ball dimples",
-          "golf ball physics",
-          "golf ball no dimples",
-          "golf ball aerodynamics",
-          "golf ball flight physics",
-          "golf ball without dimples",
-          "how golf ball dimples work",
-          "smooth golf ball",
-          "dimpled golf ball",
-          "golf science",
-          "drag and lift",
-          "sports science",
-          "physics explained"
-        ],
-        "pinned_comment": "Bonus fact: some golf balls use hexagon-shaped dimples instead of round ones to cut drag even more. How many dimples do you think your ball has?",
-        "scenes": [
-          {
-            "text": "Why does a golf ball have dimples? You'd never guess the reason until you see the air.",
-            "badge": "Why the ",
-            "label": "Why the dimples?",
-            "stock_queries": [
-              "golf ball on a tee in slow motion",
-              "macro golf ball"
-            ],
-            "image_prompt": "Extreme macro shot of a white golf ball on a tee with soft morning light.",
-            "stock_query": "golf ball on a tee in slow motion"
-          },
-          {
-            "text": "Here's how tiny dents make it fly farther. A typical golf ball has three hundred to five hundred dimples.",
-            "badge": "300 to 5",
-            "label": "300 to 500 dimples",
-            "stock_queries": [
-              "extreme close up of golf ball dimples",
-              "golfer swinging on a sunny course"
-            ],
-            "image_prompt": "Close-up of a golfer swinging a club on a bright green course.",
-            "stock_query": "extreme close up of golf ball dimples"
-          },
-          {
-            "text": "Now picture a perfectly smooth ball flying through the air. The air peels off its back early and leaves a big, messy wake.",
-            "badge": "Imagine ",
-            "label": "Imagine it smooth",
-            "stock_queries": [
-              "smooth white ball rolling on a table",
-              "smoke trails flowing around a ball"
-            ],
-            "image_prompt": "A perfectly smooth white sphere with wind tunnel smoke flowing over it.",
-            "stock_query": "smooth white ball rolling on a table"
-          },
-          {
-            "text": "That wake works like a brake. Dimples stir up a thin layer of air that hugs the ball longer.",
-            "badge": "Wake = b",
-            "label": "Wake = brake",
-            "stock_queries": [
-              "car brake lights on a road",
-              "swirling smoke streams in slow motion"
-            ],
-            "image_prompt": "Swirling air current visualization around a dimpled golf ball in a wind tunnel.",
-            "stock_query": "car brake lights on a road"
-          },
-          {
-            "text": "So the wake shrinks, and there's less drag. Add backspin, and the dimples help with lift too.",
-            "badge": "Smaller ",
-            "label": "Smaller wake, less drag",
-            "stock_queries": [
-              "golf ball flying against a blue sky",
-              "golf ball spinning in slow motion"
-            ],
-            "image_prompt": "A golf ball spinning rapidly through the air against a clear blue sky.",
-            "stock_query": "golf ball flying against a blue sky"
-          },
-          {
-            "text": "Fun part, early golfers noticed their beat-up, nicked balls flew farther than smooth new ones.",
-            "badge": "Beat-up ",
-            "label": "Beat-up balls flew farther",
-            "stock_queries": [
-              "old scuffed golf balls in a wooden box",
-              "vintage golf equipment"
-            ],
-            "image_prompt": "A collection of old, scuffed vintage golf balls sitting inside a wooden container.",
-            "stock_query": "old scuffed golf balls in a wooden box"
-          },
-          {
-            "text": "So that's the reason, the dents help the air hold on, and a dimpled ball can fly about twice as far as a smooth one.",
-            "badge": "About 2x",
-            "label": "About 2x the distance",
-            "stock_queries": [
-              "golf ball landing far down a green fairway",
-              "golf ball flight path"
-            ],
-            "image_prompt": "A golf ball landing on a lush green fairway from a long distance shot.",
-            "stock_query": "golf ball landing far down a green fairway"
-          },
-          {
-            "text": "How many dimples do you think are on a golf ball? Go count one, and next time someone asks why a golf ball has dimples, you'll know.",
-            "badge": "How many",
-            "label": "How many on yours?",
-            "stock_queries": [
-              "hand holding a golf ball up to the light",
-              "bucket of golf balls at a driving range"
-            ],
-            "image_prompt": "A person holding a golf ball up close to inspect the pattern under bright light.",
-            "stock_query": "hand holding a golf ball up to the light"
-          }
-        ],
-        "key_facts": [
-          "A typical golf ball has 300 to 500 dimples.",
-          "Smooth balls experience more aerodynamic drag because air peels off early.",
-          "Dimples create a thin layer of air that hugs the ball longer, reducing the wake.",
-          "Dimples combined with backspin generate additional lift.",
-          "A dimpled golf ball can fly about twice as far as a smooth one."
-        ],
-        "format": "explainer",
-        "tone": "normal",
-        "category": "27",
-        "script": "Why does a golf ball have dimples? You'd never guess the reason until you see the air. Here's how tiny dents make it fly farther. A typical golf ball has three hundred to five hundred dimples. Now picture a perfectly smooth ball flying through the air. The air peels off its back early and leaves a big, messy wake. That wake works like a brake. Dimples stir up a thin layer of air that hugs the ball longer. So the wake shrinks, and there's less drag. Add backspin, and the dimples help with lift too. Fun part, early golfers noticed their beat-up, nicked balls flew farther than smooth new ones. So that's the reason, the dents help the air hold on, and a dimpled ball can fly about twice as far as a smooth one. How many dimples do you think are on a golf ball? Go count one, and next time someone asks why a golf ball has dimples, you'll know.",
-        "plan_id": "P2026-10-14-04",
-        "shot_plan": [
-          {
-            "subject": "golf ball on tee",
-            "queries": [
-              {
-                "q": "golf ball tee",
-                "must": [
-                  "golf",
-                  "ball"
-                ]
-              },
-              {
-                "q": "golf ball close up",
-                "must": [
-                  "ball"
-                ]
-              },
-              {
-                "q": "golf tee",
-                "must": [
-                  "tee"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "golf ball dimples texture",
-            "queries": [
-              {
-                "q": "golf ball dimples",
-                "must": [
-                  "dimples"
-                ]
-              },
-              {
-                "q": "golf ball texture",
-                "must": [
-                  "ball"
-                ]
-              },
-              {
-                "q": "white golf ball",
-                "must": [
-                  "golf"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "smooth sphere in wind tunnel",
-            "queries": [
-              {
-                "q": "smooth ball airflow",
-                "must": [
-                  "sphere"
-                ]
-              },
-              {
-                "q": "wind tunnel physics",
-                "must": [
-                  "wind"
-                ]
-              },
-              {
-                "q": "fluid dynamics",
-                "must": [
-                  "air"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "airflow around golf ball",
-            "queries": [
-              {
-                "q": "golf ball aerodynamics",
-                "must": [
-                  "aerodynamics"
-                ]
-              },
-              {
-                "q": "airflow simulation",
-                "must": [
-                  "airflow"
-                ]
-              },
-              {
-                "q": "wind tunnel test",
-                "must": [
-                  "tunnel"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "golf ball drag and lift",
-            "queries": [
-              {
-                "q": "golf ball flight",
-                "must": [
-                  "flight"
-                ]
-              },
-              {
-                "q": "ball spin physics",
-                "must": [
-                  "spin"
-                ]
-              },
-              {
-                "q": "physics simulation",
-                "must": [
-                  "physics"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "old worn golf ball",
-            "queries": [
-              {
-                "q": "vintage golf ball",
-                "must": [
-                  "vintage"
-                ]
-              },
-              {
-                "q": "dirty golf ball",
-                "must": [
-                  "ball"
-                ]
-              },
-              {
-                "q": "worn golf equipment",
-                "must": [
-                  "equipment"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "golf ball flying through air",
-            "queries": [
-              {
-                "q": "golf ball driving",
-                "must": [
-                  "driving"
-                ]
-              },
-              {
-                "q": "golf shot in air",
-                "must": [
-                  "shot"
-                ]
-              },
-              {
-                "q": "golf swing outdoor",
-                "must": [
-                  "swing"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "person holding golf ball",
-            "queries": [
-              {
-                "q": "holding golf ball",
-                "must": [
-                  "holding"
-                ]
-              },
-              {
-                "q": "hand with golf ball",
-                "must": [
-                  "hand"
-                ]
-              },
-              {
-                "q": "golf ball grass",
-                "must": [
-                  "grass"
-                ]
-              }
-            ]
-          }
-        ],
-        "broll": [
-          "golf ball",
-          "aerodynamics",
-          "golf course"
-        ],
-        "visual_style": "Clean close-up stock footage of golf balls and aerodynamics physics illustrations with bright outdoor grass settings.",
-        "visual_refs": [
-          "Why Do Golf Balls Have Dimples?",
-          "Science Of Why Golf Balls Have Dimples",
-          "Why Do Golf Balls Have Dimples?",
-          "Why Golf Balls Have Dimples \ud83e\udd28",
-          "Why Golf Balls have Dimples \ud83e\udd14",
-          "Why Golf Balls Have Dimples | Ansys Everyday Engineering"
-        ],
-        "voice": "en-US-AvaMultilingualNeural",
-        "visual_report": {
-          "shots": 10,
-          "checked": 10,
-          "unchecked": 0,
-          "filler": 3,
-          "ai": 0
-        }
-      },
-      "credits": [
-        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AvaMultilingualNeural).",
-        "Stock footage/photos (Pexels/Pixabay Content License): stevemontroy (Pixabay) https://pixabay.com/videos/id-18528/; tommyvideo (Pixabay) https://pixabay.com/videos/id-5379/; Hans (Pixabay) https://pixabay.com/photos/golf-balls-golf-balls-white-broken-113106/; lovepixs (Pixabay) https://pixabay.com/photos/old-cracked-golf-golf-ball-ball-1464436/; ClickerHappy (Pixabay) https://pixabay.com/photos/golf-golfing-golfer-putting-sport-384565/; julientromeur (Pixabay) https://pixabay.com/videos/id-173900/",
-        "Logan M Diel / Wikimedia Commons (CC0) https://commons.wikimedia.org/wiki/File:Golf_ball_in_dirt,_sep_6_2026.jpg"
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-14",
-        "name": "2026-10-14-3-v0.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-14",
-        "name": "2026-10-14-3-v0-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,095 --> 00:00:02,405\nWhy does a golf ball have dimples\n\n2\n00:00:02,405 --> 00:00:04,198\nYou'd never guess the reason until you\n\n3\n00:00:04,198 --> 00:00:06,793\nsee the air Here's how tiny dents\n\n4\n00:00:06,793 --> 00:00:09,361\nmake it fly farther A typical golf\n\n5\n00:00:09,361 --> 00:00:11,658\nball has three hundred to five hundred\n\n6\n00:00:11,658 --> 00:00:15,258\ndimples Now picture a perfectly smooth ball\n\n7\n00:00:15,258 --> 00:00:17,446\nflying through the air The air peels\n\n8\n00:00:17,446 --> 00:00:19,524\noff its back early and leaves a\n\n9\n00:00:19,524 --> 00:00:22,622\nbig messy wake That wake works like\n\n10\n00:00:22,622 --> 00:00:25,136\na brake Dimples stir up a thin\n\n11\n00:00:25,136 --> 00:00:26,916\nlayer of air that hugs the ball\n\n12\n00:00:26,916 --> 00:00:29,592\nlonger So the wake shrinks and there's\n\n13\n00:00:29,592 --> 00:00:32,405\nless drag Add backspin and the dimples\n\n14\n00:00:32,405 --> 00:00:35,408\nhelp with lift too Fun part early\n\n15\n00:00:35,408 --> 00:00:38,139\ngolfers noticed their beat-up nicked balls\n\n16\n00:00:38,139 --> 00:00:41,114\nflew farther than smooth new ones So\n\n17\n00:00:41,114 --> 00:00:42,799\nthat's the reason the dents help the\n\n18\n00:00:42,799 --> 00:00:44,647\nair hold on and a dimpled ball\n\n19\n00:00:44,647 --> 00:00:46,318\ncan fly about twice as far as\n\n20\n00:00:46,318 --> 00:00:48,587\na smooth one How many dimples do\n\n21\n00:00:48,587 --> 00:00:50,435\nyou think are on a golf ball\n\n22\n00:00:50,435 --> 00:00:52,514\nGo count one and next time someone\n\n23\n00:00:52,514 --> 00:00:54,620\nasks why a golf ball has dimples\n\n24\n00:00:54,620 --> 00:00:55,604\nyou'll know\n",
-      "tg_msg": 397,
-      "opts_msg": 399,
-      "approved_by": "auto",
-      "quota_note": "2026-10-16",
-      "description_full": "Why do golf balls have dimples, and how many dimples on a golf ball are there? Most have 300 to 500 golf ball dimples, and they cut drag and add lift so the ball flies about twice as far as a smooth one.\n\nIn this Short: how a smooth ball drags, what the dimples do to the air, and why beat-up balls flew farther.\n\nSources:\nhttps://mentalfloss.com/article/650345/why-golf-balls-have-dimples\nhttps://www.scienceabc.com/sports/golf-balls-dimpled-reason-speed-air-aerodynamic-drag.html\n\n#shorts #science #golf #physics #didyouknow\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AvaMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): stevemontroy (Pixabay) https://pixabay.com/videos/id-18528/; tommyvideo (Pixabay) https://pixabay.com/videos/id-5379/; Hans (Pixabay) https://pixabay.com/photos/golf-balls-golf-balls-white-broken-113106/; lovepixs (Pixabay) https://pixabay.com/photos/old-cracked-golf-golf-ball-ball-1464436/; ClickerHappy (Pixabay) https://pixabay.com/photos/golf-golfing-golfer-putting-sport-384565/; julientromeur (Pixabay) https://pixabay.com/videos/id-173900/\nLogan M Diel / Wikimedia Commons (CC0) https://commons.wikimedia.org/wiki/File:Golf_ball_in_dirt,_sep_6_2026.jpg\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/IKrlhRAWDWc",
-          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-16T09:17:29.793480+00:00",
-      "slot": "2026-10-16T19:15:00+00:00"
-    },
-    "2026-10-14-4": {
-      "topic": {
-        "title": "Play-Doh Was Wallpaper Cleaner for 20 Years",
-        "angle": "The 5.4x 'How much for this un-opened rare Coca Cola?' shows a familiar everyday brand plus a curious backstory question breaking out, and Play-Doh's secret first job is that same nostalgic-object hook as a true story.",
-        "format": "story",
-        "tone": "normal",
-        "virality_score": 6,
-        "trend_source": "How much for this un-opened rare Coca Cola? (Dylan Ayres, 5.4x, The Question)",
-        "plan_id": "P2026-10-14-05"
-      },
-      "status": "published",
-      "by": "auto",
-      "updated": "2026-10-16T09:17:37.732988+00:00",
-      "redos": 0,
-      "package": {
-        "primary_keyword": "play doh history",
-        "title": "Play-Doh Was Wallpaper Cleaner for 20 Years",
-        "hook_text": "NOT BORN A TOY",
-        "thumbnail_text": "NOT A TOY?",
-        "description": "Play-Doh history in under a minute: Play-Doh was a wallpaper cleaner for about 20 years before it became a toy. Here's who invented Play-Doh as a toy, and the teacher who gave it its second life.\n\nIn this Short: coal soot, Kutol's wallpaper cleaner, and how teacher Kay Zufall helped turn it into Play-Doh.\n\nThis is a true story.\n\nSources:\nhttps://www.museumofplay.org/blog/the-history-of-play-doh-good-clean-fun/\nhttps://greatpatent.com/play-doh-was-a-wallpaper-cleaner-dying-with-the-coal-furnace",
-        "hashtags": [
-          "#shorts",
-          "#history",
-          "#toys",
-          "#truestory",
-          "#storytime"
-        ],
-        "tags": [
-          "play doh history",
-          "play doh was originally wallpaper cleaner",
-          "play doh",
-          "who invented play doh",
-          "wallpaper cleaner",
-          "play doh story",
-          "play doh wallpaper cleaner",
-          "play doh origin",
-          "kay zufall",
-          "true story",
-          "history of playdough",
-          "toy history",
-          "joe mcvicker",
-          "history facts",
-          "invention stories",
-          "kutol",
-          "playdoh"
-        ],
-        "pinned_comment": "Bonus fact: by 1957, just a couple of years after its toy debut, Play-Doh came in red, yellow and blue. Which color did you always grab first?",
-        "scenes": [
-          {
-            "text": "You've squished it, but you've never known Play-Doh started out cleaning soot off walls in Cincinnati. Here's how a wall cleaner became a famous toy.",
-            "badge": "Made for",
-            "label": "Made for walls, not kids",
-            "stock_queries": [
-              "child hands squishing modeling clay",
-              "vintage dirty wallpaper"
-            ],
-            "image_prompt": "Close-up of a child's hands squishing colorful modeling dough next to an old dirty wallpaper background, realistic, cinematic lighting",
-            "stock_query": "child hands squishing modeling clay"
-          },
-          {
-            "text": "In the nineteen-thirties, many homes burned coal, which left sooty grime on wallpaper. So a Cincinnati soap company called Kutol sold a doughy putty you'd roll over walls to lift the dirt.",
-            "badge": "1930s co",
-            "label": "1930s coal soot",
-            "stock_queries": [
-              "old coal furnace in basement",
-              "hands rolling putty on wallpaper"
-            ],
-            "image_prompt": "An old coal stove glowing in a vintage room with hands rolling a putty cleaner across patterned wallpaper",
-            "stock_query": "old coal furnace in basement"
-          },
-          {
-            "text": "It was a wall cleaner for about twenty years. But after World War Two, families switched to oil and gas heat. Less soot, fewer dirty walls, and sales slid.",
-            "badge": "~20 year",
-            "label": "~20 years of cleaning",
-            "stock_queries": [
-              "old calendar pages flipping",
-              "modern gas furnace flame"
-            ],
-            "image_prompt": "Vintage calendar pages flipping quickly in a dimly lit room, followed by a close-up of a blue gas furnace flame",
-            "stock_query": "old calendar pages flipping"
-          },
-          {
-            "text": "Then a nursery school teacher named Kay Zufall had her class make crafts with it. She told her brother-in-law, Joe McVicker, who ran the company, to sell it as a toy.",
-            "badge": "Teacher ",
-            "label": "Teacher Kay Zufall",
-            "stock_queries": [
-              "kindergarten classroom crafts",
-              "old soap factory interior"
-            ],
-            "image_prompt": "Children in a mid-century classroom making crafts with soft clay, retro style photography",
-            "stock_query": "kindergarten classroom crafts"
-          },
-          {
-            "text": "In the mid nineteen-fifties, it got a new name, Play-Doh. So that's the twist, the toy in your hands was made to clean walls.",
-            "badge": "PLAY-DOH",
-            "label": "PLAY-DOH is born",
-            "stock_queries": [
-              "vintage toy factory production line",
-              "colorful tubs of modeling dough"
-            ],
-            "image_prompt": "Vintage factory production line stacking colorful tubs of modeling dough with retro packaging",
-            "stock_query": "vintage toy factory production line"
-          },
-          {
-            "text": "What's the best thing you've made out of Play-Doh? So next time you squish it, think of a sooty wall in Cincinnati.",
-            "badge": "THE END",
-            "label": "THE END",
-            "stock_queries": [
-              "kids showing clay sculptures",
-              "hands pressing colorful dough"
-            ],
-            "image_prompt": "Proud kids showing colorful clay sculptures on a wooden table, macro shot, warm lighting",
-            "stock_query": "kids showing clay sculptures"
-          }
-        ],
-        "key_facts": [
-          "Play-Doh started out cleaning soot off walls in Cincinnati",
-          "In the 1930s, Kutol sold a doughy putty to clean wallpaper",
-          "It was a wall cleaner for about twenty years",
-          "After World War Two, homes switched to oil and gas heat, leading to sliding sales",
-          "Teacher Kay Zufall had her class make crafts with it and suggested selling it as a toy",
-          "Joe McVicker ran the company",
-          "It was renamed Play-Doh in the mid-1950s"
-        ],
-        "format": "story",
-        "tone": "normal",
-        "category": "24",
-        "script": "You've squished it, but you've never known Play-Doh started out cleaning soot off walls in Cincinnati. Here's how a wall cleaner became a famous toy. In the nineteen-thirties, many homes burned coal, which left sooty grime on wallpaper. So a Cincinnati soap company called Kutol sold a doughy putty you'd roll over walls to lift the dirt. It was a wall cleaner for about twenty years. But after World War Two, families switched to oil and gas heat. Less soot, fewer dirty walls, and sales slid. Then a nursery school teacher named Kay Zufall had her class make crafts with it. She told her brother-in-law, Joe McVicker, who ran the company, to sell it as a toy. In the mid nineteen-fifties, it got a new name, Play-Doh. So that's the twist, the toy in your hands was made to clean walls. What's the best thing you've made out of Play-Doh? So next time you squish it, think of a sooty wall in Cincinnati.",
-        "plan_id": "P2026-10-14-05",
-        "shot_plan": [
-          {
-            "subject": "modeling clay being squished by hands",
-            "queries": [
-              {
-                "q": "modeling clay",
-                "must": [
-                  "clay"
-                ]
-              },
-              {
-                "q": "play dough hands",
-                "must": [
-                  "dough"
-                ]
-              },
-              {
-                "q": "squishing clay",
-                "must": [
-                  "hands"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "sooty dirty wallpaper in a room",
-            "queries": [
-              {
-                "q": "dirty wallpaper",
-                "must": [
-                  "wallpaper"
-                ]
-              },
-              {
-                "q": "soot wall",
-                "must": [
-                  "soot"
-                ]
-              },
-              {
-                "q": "vintage wall",
-                "must": [
-                  "wall"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "vintage residential home furnace",
-            "queries": [
-              {
-                "q": "home furnace",
-                "must": [
-                  "furnace"
-                ]
-              },
-              {
-                "q": "coal heating",
-                "must": [
-                  "coal"
-                ]
-              },
-              {
-                "q": "basement boiler",
-                "must": [
-                  "boiler"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "elementary school classroom with children crafting",
-            "queries": [
-              {
-                "q": "school classroom",
-                "must": [
-                  "classroom"
-                ]
-              },
-              {
-                "q": "teacher desk",
-                "must": [
-                  "teacher"
-                ]
-              },
-              {
-                "q": "school children crafts",
-                "must": [
-                  "children"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "colorful modeling dough jars on a table",
-            "queries": [
-              {
-                "q": "colorful dough",
-                "must": [
-                  "dough"
-                ]
-              },
-              {
-                "q": "modeling clay jars",
-                "must": [
-                  "clay"
-                ]
-              },
-              {
-                "q": "toy container",
-                "must": [
-                  "container"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "hands playing and sculpting with colorful dough",
-            "queries": [
-              {
-                "q": "sculpting clay",
-                "must": [
-                  "clay"
-                ]
-              },
-              {
-                "q": "playing dough",
-                "must": [
-                  "dough"
-                ]
-              },
-              {
-                "q": "hands shaping",
-                "must": [
-                  "hands"
-                ]
-              }
-            ]
-          }
-        ],
-        "broll": [
-          "wallpaper",
-          "putty",
-          "factory"
-        ],
-        "visual_style": "Fast-paced documentary shorts combining historical curiosity and everyday objects with vintage aesthetics and clear stock visuals.",
-        "visual_refs": [
-          "Play-Doh Was a Wallpaper Cleaner for 20 Years",
-          "Play Doh Started as a Wall Cleaner Nobody Needed #businesshistory",
-          "This Wallpaper Cleaner Became Play Doh",
-          "Play-Doh Was a Wallpaper Cleaner | Izzy Tech Facts",
-          "Play-Doh was first sold in the 1930s as a wallpaper cleaner that removed coal soot from walls.",
-          "PLAY-DOH was first sold to clean wallpaper"
-        ],
-        "voice": "en-AU-WilliamMultilingualNeural",
-        "visual_report": {
-          "shots": 8,
-          "checked": 7,
-          "unchecked": 0,
-          "filler": 3,
-          "ai": 0
-        }
-      },
-      "credits": [
-        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-AU-WilliamMultilingualNeural).",
-        "Stock footage/photos (Pexels/Pixabay Content License): Joe_hackney (Pixabay) https://pixabay.com/videos/id-136334/; AlexKopeykin (Pixabay) https://pixabay.com/videos/id-106705/; AlexKopeykin (Pixabay) https://pixabay.com/videos/id-106699/; u_1hbl77nf3n (Pixabay) https://pixabay.com/videos/id-185023/",
-        "Unknown / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:GAS_FIRED_BOILER,_BASEMENT_-_Hamilton_Field,_Double_Non-Commmissioned_Officers%27_Quarters_Type_A,_San_Jose_Drive,_Novato,_Marin_County,_CA_HABS_CAL,21-NOVA,1BQ-6.tif"
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-14",
-        "name": "2026-10-14-4-v0.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-14",
-        "name": "2026-10-14-4-v0-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,050 --> 00:00:02,102\nYou've squished it but you've never known\n\n2\n00:00:02,102 --> 00:00:04,534\nPlay-Doh started out cleaning soot off walls\n\n3\n00:00:04,534 --> 00:00:07,088\nin Cincinnati Here's how a wall cleaner\n\n4\n00:00:07,088 --> 00:00:10,322\nbecame a famous toy In the nineteen-thirties\n\n5\n00:00:10,322 --> 00:00:12,903\nmany homes burned coal which left sooty\n\n6\n00:00:12,903 --> 00:00:15,743\ngrime on wallpaper So a Cincinnati soap\n\n7\n00:00:15,743 --> 00:00:18,039\ncompany called Kutol sold a doughy putty\n\n8\n00:00:18,039 --> 00:00:19,615\nyou'd roll over walls to lift the\n\n9\n00:00:19,615 --> 00:00:21,640\ndirt It was a wall cleaner for\n\n10\n00:00:21,640 --> 00:00:24,004\nabout twenty years But after World War\n\n11\n00:00:24,004 --> 00:00:26,680\nTwo families switched to oil and gas\n\n12\n00:00:26,680 --> 00:00:29,996\nheat Less soot fewer dirty walls and\n\n13\n00:00:29,996 --> 00:00:32,781\nsales slid Then a nursery school teacher\n\n14\n00:00:32,781 --> 00:00:34,873\nnamed Kay Zufall had her class make\n\n15\n00:00:34,873 --> 00:00:37,659\ncrafts with it She told her brother-in-law\n\n16\n00:00:37,659 --> 00:00:40,159\nJoe McVicker who ran the company to\n\n17\n00:00:40,159 --> 00:00:41,911\nsell it as a toy In the\n\n18\n00:00:41,911 --> 00:00:44,792\nmid nineteen-fifties it got a new name\n\n19\n00:00:44,792 --> 00:00:47,659\nPlay-Doh So that's the twist the toy\n\n20\n00:00:47,659 --> 00:00:49,153\nin your hands was made to clean\n\n21\n00:00:49,153 --> 00:00:51,857\nwalls What's the best thing you've made\n\n22\n00:00:51,857 --> 00:00:53,949\nout of Play-Doh So next time you\n\n23\n00:00:53,949 --> 00:00:56,123\nsquish it think of a sooty wall\n\n24\n00:00:56,123 --> 00:00:57,461\nin Cincinnati\n",
-      "tg_msg": 400,
-      "opts_msg": 402,
-      "approved_by": "auto",
-      "quota_note": "2026-10-16",
-      "description_full": "Play-Doh history in under a minute: Play-Doh was a wallpaper cleaner for about 20 years before it became a toy. Here's who invented Play-Doh as a toy, and the teacher who gave it its second life.\n\nIn this Short: coal soot, Kutol's wallpaper cleaner, and how teacher Kay Zufall helped turn it into Play-Doh.\n\nThis is a true story.\n\nSources:\nhttps://www.museumofplay.org/blog/the-history-of-play-doh-good-clean-fun/\nhttps://greatpatent.com/play-doh-was-a-wallpaper-cleaner-dying-with-the-coal-furnace\n\n#shorts #history #toys #truestory #storytime\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-AU-WilliamMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): Joe_hackney (Pixabay) https://pixabay.com/videos/id-136334/; AlexKopeykin (Pixabay) https://pixabay.com/videos/id-106705/; AlexKopeykin (Pixabay) https://pixabay.com/videos/id-106699/; u_1hbl77nf3n (Pixabay) https://pixabay.com/videos/id-185023/\nUnknown / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:GAS_FIRED_BOILER,_BASEMENT_-_Hamilton_Field,_Double_Non-Commmissioned_Officers%27_Quarters_Type_A,_San_Jose_Drive,_Novato,_Marin_County,_CA_HABS_CAL,21-NOVA,1BQ-6.tif\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/pa6-dUDshj4",
-          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-16T09:17:37.733001+00:00",
-      "slot": "2026-10-16T23:15:00+00:00"
-    },
-    "2026-10-15-1": {
-      "topic": {
-        "title": "The Sleep Jump Up to 70% of People Get",
-        "angle": "The 179.2x breakout 'Dreams are getting too real' shows the falling-asleep, half-dream moment is hugely relatable, and this explains the jolt almost everyone has felt.",
-        "format": "explainer",
-        "tone": "normal",
-        "virality_score": 8,
-        "trend_source": "Uh oh\u2026 Dreams are getting too real \ud83d\udcad\ud83e\udd23 (179.2x)",
-        "plan_id": "P2026-10-15-01"
-      },
-      "status": "published",
-      "by": "auto",
-      "updated": "2026-10-16T09:17:45.925839+00:00",
-      "redos": 0,
-      "package": {
-        "primary_keyword": "hypnic jerk",
-        "title": "The Sleep Jump Up to 70% of People Get",
-        "hook_text": "THAT MIDNIGHT JOLT",
-        "thumbnail_text": "BRAIN SAYS FALL",
-        "description": "Why do I jerk awake when falling asleep? That sudden sleep jump is a hypnic jerk, which up to 70% of people get, and it often comes with a falling feeling before sleep.\n\nIn this Short: what a hypnic jerk is, why your brain might think you're falling, and what makes them happen more.\n\nSources:\nhttps://sleep.com/sleep-health/hypnic-jerks\nhttps://www.medicalnewstoday.com/articles/324666.php",
-        "hashtags": [
-          "#shorts",
-          "#sleep",
-          "#science",
-          "#didyouknow"
-        ],
-        "tags": [
-          "hypnic jerk",
-          "sleep jump",
-          "why do i jerk awake when falling asleep",
-          "falling feeling before sleep",
-          "hypnic jerk explained",
-          "why hypnic jerk happens",
-          "jolt awake falling asleep",
-          "body twitch falling asleep",
-          "why do we twitch in our sleep",
-          "jolting awake when trying to fall asleep",
-          "sleep starts",
-          "hypnic jerk causes",
-          "sleep startle",
-          "jolt while sleeping",
-          "brain facts",
-          "sleep twitch",
-          "sleep science",
-          "science explained"
-        ],
-        "pinned_comment": "Bonus fact: some people get hypnic jerks almost every night, while most of us only get them now and then. Do you feel the jump, the falling, or both?",
-        "scenes": [
-          {
-            "text": "Why does your body jump right before you fall asleep, and what is your brain actually doing?",
-            "badge": "THE SLEE",
-            "label": "",
-            "stock_queries": [
-              "person twitching in bed asleep",
-              "sleeping person jerking awake"
-            ],
-            "image_prompt": "Cinematic side angle of a person in bed suddenly jolting awake in a dark navy bedroom, blankets rustling upwards, soft cool rim lighting, hyperrealistic photography",
-            "stock_query": "person twitching in bed asleep"
-          },
-          {
-            "text": "Here's what happens in that split second. That sudden jolt has a name, it's called a hypnic jerk. Sleep experts say up to seventy percent of people get them.",
-            "badge": "",
-            "label": "HYPNIC JERK (70%)",
-            "stock_queries": [
-              "digital clock midnight dark bedroom",
-              "commuter train passengers sleeping"
-            ],
-            "image_prompt": "Glowing red digital bedside alarm clock in a shadowy bedroom beside a sleeping silhouette, atmospheric cinematic night photography",
-            "stock_query": "digital clock midnight dark bedroom"
-          },
-          {
-            "text": "As you drift off, your muscles relax, all at once. One idea is that your brain misreads all that relaxing as falling.",
-            "badge": "",
-            "label": "BRAIN: FALLING!",
-            "stock_queries": [
-              "human hand relaxing falling limp",
-              "brain neural activity glowing animation"
-            ],
-            "image_prompt": "High-tech 3D rendering of human brain neural pathways firing bright electric signals against a dark moody backdrop, scientific visualization",
-            "stock_query": "human hand relaxing falling limp"
-          },
-          {
-            "text": "So it fires your muscles to catch you. That's why it often comes with a quick falling feeling.",
-            "badge": "",
-            "label": "MUSCLES FIRE",
-            "stock_queries": [
-              "point of view falling through clouds",
-              "person leg twitch in bed"
-            ],
-            "image_prompt": "First-person point of view tumbling downward through misty dark night clouds into an abyss, disorienting dreamlike visual, ultra-detailed render",
-            "stock_query": "point of view falling through clouds"
-          },
-          {
-            "text": "Another idea goes back to our tree-sleeping ancestors, where a slip meant a real fall. Scientists say that one's still a guess, though.",
-            "badge": "TREE ANC",
-            "label": "",
-            "stock_queries": [
-              "chimpanzee sleeping tree branch jungle",
-              "primate resting tree canopy"
-            ],
-            "image_prompt": "Wild chimpanzee asleep on a thick wooden tree branch high in a jungle canopy under pale moonlight, cinematic wildlife photography",
-            "stock_query": "chimpanzee sleeping tree branch jungle"
-          },
-          {
-            "text": "Stress, caffeine and too little sleep can make them happen more. And for most people, they're harmless.",
-            "badge": "",
-            "label": "STRESS & CAFFEINE",
-            "stock_queries": [
-              "exhausted person drinking coffee desk",
-              "person sleeping peacefully morning light"
-            ],
-            "image_prompt": "Steaming mug of dark coffee on a wooden desk next to a tired person with face in hands, dramatic warm desk lamp illumination, cinematic composition",
-            "stock_query": "exhausted person drinking coffee desk"
-          },
-          {
-            "text": "So that's what your brain is doing, it thinks you're falling, and it tries to catch you. Which do you get more, the jump or the falling feeling? Because tonight, right before you drift off, it might happen again.",
-            "badge": "JUMP OR ",
-            "label": "",
-            "stock_queries": [
-              "person sitting up bed confused night",
-              "dark bedroom curtains blowing breeze"
-            ],
-            "image_prompt": "Silhouette of a person sitting upright in bed in a dark moonlit bedroom, thoughtful expression, translucent curtains swaying in night air, cinematic realism",
-            "stock_query": "person sitting up bed confused night"
-          }
-        ],
-        "key_facts": [
-          "The sudden jolt before falling asleep is called a hypnic jerk.",
-          "Up to 70% of people experience hypnic jerks.",
-          "During sleep onset, muscles relax rapidly, which the brain may misread as falling.",
-          "The brain sends an emergency motor signal to contract muscles to catch the body.",
-          "Hypnic jerks are frequently accompanied by a sudden falling sensation.",
-          "An evolutionary hypothesis links hypnic jerks to tree-dwelling primate ancestors preventing falls.",
-          "Factors like stress, caffeine intake, and sleep deprivation increase the frequency of hypnic jerks.",
-          "Hypnic jerks are generally benign and harmless for most people."
-        ],
-        "format": "explainer",
-        "tone": "normal",
-        "category": "27",
-        "script": "Why does your body jump right before you fall asleep, and what is your brain actually doing? Here's what happens in that split second. That sudden jolt has a name, it's called a hypnic jerk. Sleep experts say up to seventy percent of people get them. As you drift off, your muscles relax, all at once. One idea is that your brain misreads all that relaxing as falling. So it fires your muscles to catch you. That's why it often comes with a quick falling feeling. Another idea goes back to our tree-sleeping ancestors, where a slip meant a real fall. Scientists say that one's still a guess, though. Stress, caffeine and too little sleep can make them happen more. And for most people, they're harmless. So that's what your brain is doing, it thinks you're falling, and it tries to catch you. Which do you get more, the jump or the falling feeling? Because tonight, right before you drift off, it might happen again.",
-        "plan_id": "P2026-10-15-01",
-        "shot_plan": [
-          {
-            "subject": "person lying in bed trying to sleep",
-            "queries": [
-              {
-                "q": "person sleeping in bed",
-                "must": [
-                  "bed"
-                ]
-              },
-              {
-                "q": "woman trying to sleep",
-                "must": [
-                  "sleep"
-                ]
-              },
-              {
-                "q": "person in bed at night",
-                "must": [
-                  "night"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "person suddenly waking up startled in bed",
-            "queries": [
-              {
-                "q": "waking up startled",
-                "must": [
-                  "bed"
-                ]
-              },
-              {
-                "q": "person waking up suddenly",
-                "must": [
-                  "sleep"
-                ]
-              },
-              {
-                "q": "person waking up in bed",
-                "must": [
-                  "waking"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "brain scan diagram glowing",
-            "queries": [
-              {
-                "q": "brain scan animation",
-                "must": [
-                  "brain"
-                ]
-              },
-              {
-                "q": "neurology brain scan",
-                "must": [
-                  "neurology"
-                ]
-              },
-              {
-                "q": "human brain model",
-                "must": [
-                  "head"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "human muscle movement close up",
-            "queries": [
-              {
-                "q": "muscle spasm close up",
-                "must": [
-                  "muscle"
-                ]
-              },
-              {
-                "q": "human leg twitch",
-                "must": [
-                  "leg"
-                ]
-              },
-              {
-                "q": "muscle contraction",
-                "must": [
-                  "body"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "branch in a tree forest",
-            "queries": [
-              {
-                "q": "tree branch in forest",
-                "must": [
-                  "tree"
-                ]
-              },
-              {
-                "q": "branch in canopy",
-                "must": [
-                  "forest"
-                ]
-              },
-              {
-                "q": "tree trunk in woods",
-                "must": [
-                  "woods"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "person rubbing temples with headache stress",
-            "queries": [
-              {
-                "q": "person stressed holding head",
-                "must": [
-                  "stress"
-                ]
-              },
-              {
-                "q": "person with headache in bed",
-                "must": [
-                  "headache"
-                ]
-              },
-              {
-                "q": "tired person rubbing eyes",
-                "must": [
-                  "tired"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "person closing eyes to sleep in bed",
-            "queries": [
-              {
-                "q": "person falling asleep in bed",
-                "must": [
-                  "sleep"
-                ]
-              },
-              {
-                "q": "woman closing eyes on pillow",
-                "must": [
-                  "pillow"
-                ]
-              },
-              {
-                "q": "person in bed at night",
-                "must": [
-                  "bed"
-                ]
-              }
-            ]
-          }
-        ],
-        "broll": [
-          "bed",
-          "pillow",
-          "sleep"
-        ],
-        "visual_style": "Viewers expect engaging, scientific yet relatable health facts about sleep phenomena with close-up footage of people in bed and anatomical diagrams.",
-        "visual_refs": [
-          "SHOCKING! Why 70% of People JUMP Awake When Falling Asleep! #shorts",
-          "Why Your Body Jumps Before Sleep \ud83d\ude34\u26a1#health #sleep #facts",
-          "Why Do You REALLY Jump Awake as You Fall Asleep? #shorts",
-          "Why Do You Feel Like You&#39;re Falling When You Fall Asleep? #health #shorts #neuroscience",
-          "What Are Hypnic Jerks + Why Do They Happen? | Dr. Ian Smith",
-          "Why Body Jerks in Sleep \ud83d\ude34\u26a1 #didyouknow #facts #brain #shorts #ytshorts #sleepfacts #trending #viral"
-        ],
-        "voice": "en-US-BrianMultilingualNeural",
-        "visual_report": {
-          "shots": 11,
-          "checked": 11,
-          "unchecked": 0,
-          "filler": 0,
-          "ai": 0
-        }
-      },
-      "credits": [
-        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-BrianMultilingualNeural).",
-        "Stock footage/photos (Pexels/Pixabay Content License): Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-729/; ghasoub (Pixabay) https://pixabay.com/videos/id-151295/; manbob86 (Pixabay) https://pixabay.com/photos/break-sleeping-cute-girl-baby-4491221/; David_SMC (Pixabay) https://pixabay.com/videos/id-201906/; scottwebb (Pixabay) https://pixabay.com/photos/training-rmuscles-back-shoulders-828741/; Engin_Akyurt (Pixabay) https://pixabay.com/photos/weight-dumbbell-strength-arm-force-8246973/; caelan (Pixabay) https://pixabay.com/videos/id-29171/; TheMarcKnight (Pixabay) https://pixabay.com/videos/id-31471/; Pexels (Pixabay) https://pixabay.com/photos/adult-annoyed-blur-burnout-1850268/; ghasoub (Pixabay) https://pixabay.com/videos/id-151297/; sun4real (Pixabay) https://pixabay.com/videos/id-200882/"
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-15",
-        "name": "2026-10-15-1-v0.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-15",
-        "name": "2026-10-15-1-v0-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,095 --> 00:00:01,984\nWhy does your body jump right before\n\n2\n00:00:01,984 --> 00:00:04,090\nyou fall asleep and what is your\n\n3\n00:00:04,090 --> 00:00:07,011\nbrain actually doing Here's what happens in\n\n4\n00:00:07,011 --> 00:00:09,796\nthat split second That sudden jolt has\n\n5\n00:00:09,796 --> 00:00:12,378\na name it's called a hypnic jerk\n\n6\n00:00:12,378 --> 00:00:15,122\nSleep experts say up to seventy percent\n\n7\n00:00:15,122 --> 00:00:17,228\nof people get them As you drift\n\n8\n00:00:17,228 --> 00:00:20,217\noff your muscles relax all at once\n\n9\n00:00:20,217 --> 00:00:22,677\nOne idea is that your brain misreads\n\n10\n00:00:22,677 --> 00:00:25,229\nall that relaxing as falling So it\n\n11\n00:00:25,229 --> 00:00:27,894\nfires your muscles to catch you That's\n\n12\n00:00:27,894 --> 00:00:29,620\nwhy it often comes with a quick\n\n13\n00:00:29,620 --> 00:00:32,541\nfalling feeling Another idea goes back to\n\n14\n00:00:32,541 --> 00:00:35,611\nour tree-sleeping ancestors where a slip meant\n\n15\n00:00:35,611 --> 00:00:38,353\na real fall Scientists say that one's\n\n16\n00:00:38,353 --> 00:00:41,427\nstill a guess though Stress caffeine and\n\n17\n00:00:41,427 --> 00:00:43,274\ntoo little sleep can make them happen\n\n18\n00:00:43,274 --> 00:00:46,669\nmore And for most people they're harmless\n\n19\n00:00:46,669 --> 00:00:48,585\nSo that's what your brain is doing\n\n20\n00:00:48,585 --> 00:00:50,691\nit thinks you're falling and it tries\n\n21\n00:00:50,691 --> 00:00:52,554\nto catch you Which do you get\n\n22\n00:00:52,554 --> 00:00:55,377\nmore the jump or the falling feeling\n\n23\n00:00:55,377 --> 00:00:57,701\nBecause tonight right before you drift off\n\n24\n00:00:57,701 --> 00:00:59,187\nit might happen again\n",
-      "tg_msg": 420,
-      "opts_msg": 422,
-      "approved_by": "auto",
-      "quota_note": "2026-10-16",
-      "description_full": "Why do I jerk awake when falling asleep? That sudden sleep jump is a hypnic jerk, which up to 70% of people get, and it often comes with a falling feeling before sleep.\n\nIn this Short: what a hypnic jerk is, why your brain might think you're falling, and what makes them happen more.\n\nSources:\nhttps://sleep.com/sleep-health/hypnic-jerks\nhttps://www.medicalnewstoday.com/articles/324666.php\n\n#shorts #sleep #science #didyouknow\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-BrianMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-729/; ghasoub (Pixabay) https://pixabay.com/videos/id-151295/; manbob86 (Pixabay) https://pixabay.com/photos/break-sleeping-cute-girl-baby-4491221/; David_SMC (Pixabay) https://pixabay.com/videos/id-201906/; scottwebb (Pixabay) https://pixabay.com/photos/training-rmuscles-back-shoulders-828741/; Engin_Akyurt (Pixabay) https://pixabay.com/photos/weight-dumbbell-strength-arm-force-8246973/; caelan (Pixabay) https://pixabay.com/videos/id-29171/; TheMarcKnight (Pixabay) https://pixabay.com/videos/id-31471/; Pexels (Pixabay) https://pixabay.com/photos/adult-annoyed-blur-burnout-1850268/; ghasoub (Pixabay) https://pixabay.com/videos/id-151297/; sun4real (Pixabay) https://pixabay.com/videos/id-200882/\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/jnNackISbTM",
-          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-16T09:17:45.925854+00:00",
-      "slot": "2026-10-17T01:15:00+00:00"
-    },
     "2026-10-15-2": {
       "topic": {
         "title": "Top 5 Animals That Play Dead Like Pros",
@@ -10820,9 +9353,9 @@
         "trend_source": "title shape of How Electrical Outlets Work (259,144 views/h); also How Plato's Alarm Clock Worked (58,538 views/h)",
         "plan_id": "P2026-10-21-01"
       },
-      "status": "approved",
+      "status": "published",
       "by": "auto",
-      "updated": "2026-10-21T19:45:12.138735+00:00",
+      "updated": "2026-10-23T11:49:06.063014+00:00",
       "redos": 0,
       "package": {
         "primary_keyword": "roman concrete",
@@ -11012,7 +9545,28 @@
       "tg_msg": 638,
       "opts_msg": 640,
       "approved_by": "auto",
-      "quota_note": "2026-10-23"
+      "quota_note": "2026-10-23",
+      "description_full": "Ancient Roman concrete was self-healing concrete, and here's how Roman concrete works. Hot-mixed quicklime left white lime lumps inside, and when a crack hits one, water turns the lime back into stone and seals it.\n\nIn this Short: the hot-mixing trick, the white lumps everyone thought were mistakes, and how a crack seals itself in about two weeks.\n\nSources:\nhttps://www.sci.news/archaeology/ancient-roman-concrete-mystery-11553.html\nhttps://www.dezeen.com/2023/01/17/self-healing-roman-concrete-mit-harvard/amp/\nhttps://www.designboom.com/architecture/ancient-roman-concrete-durable-mit-self-healing-abilities-01-09-2023/\n\n#shorts #history #engineering #howitworks\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-AU-WilliamMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): TaniaRose (Pixabay) https://pixabay.com/photos/crack-concrete-break-broken-3364707/; KIMDAEJEUNG (Pixabay) https://pixabay.com/videos/id-185461/\nAchim Hering / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:Secondary_efflorescence_2_of_2.jpg\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/BbzFi7MQBtk",
+          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-10-23T11:49:06.063028+00:00",
+      "slot": "2026-10-23T16:15:00+00:00"
     },
     "2026-10-21-2": {
       "topic": {
@@ -11024,9 +9578,9 @@
         "trend_source": "Cat Climbing On Straight Wall For Her Kittens (16.7x); Fastest Stationery to cut Paper (49.5x, superlative ranking hook)",
         "plan_id": "P2026-10-21-02"
       },
-      "status": "approved",
+      "status": "published",
       "by": "auto",
-      "updated": "2026-10-21T19:59:07.180145+00:00",
+      "updated": "2026-10-23T11:49:16.618988+00:00",
       "redos": 0,
       "package": {
         "primary_keyword": "animals that climb walls",
@@ -11357,7 +9911,28 @@
       "tg_msg": 641,
       "opts_msg": 643,
       "approved_by": "auto",
-      "quota_note": "2026-10-23"
+      "quota_note": "2026-10-23",
+      "description_full": "These are the top 5 animals that climb walls, from a snail that hangs upside down to an Alpine ibex climbing a dam in Italy. See how geckos climb walls, how tree frogs stick and how goats grip sheer rock.\n\nIn this Short: snail slime, tree frog toe pads, mountain goat hooves, gecko hairs, and the Alpine ibex on Italy's Cingino dam.\n\nSources:\nhttps://www.atlasobscura.com/articles/5879\nhttps://newsarchive.berkeley.edu/news/media/releases/2000/06/07_gecko.html\nhttps://www.nps.gov/places/along-the-way-15.htm\n\n#shorts #animals #top5 #wildlife\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AvaMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): Solarselle77 (Pixabay) https://pixabay.com/videos/id-327049/; Tiems (Pixabay) https://pixabay.com/videos/id-300272/; LadislavBur (Pixabay) https://pixabay.com/videos/id-181120/; moshehar (Pixabay) https://pixabay.com/videos/id-15302/; moshehar (Pixabay) https://pixabay.com/videos/id-15301/; NickyPe (Pixabay) https://pixabay.com/videos/id-85105/; Lois0002 (Pixabay) https://pixabay.com/photos/ibex-mountain-wild-goat-cliff-8209432/\nBasile Morin / Wikimedia Commons (CC BY 4.0) https://commons.wikimedia.org/wiki/File:Hemidactylus_frenatus_mating,_ventral_view.jpg\nGlacierNPS / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:Mountain_Goat_(42593632365).jpg\nGlacierNPS / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:Mountain_Goat_(42593636255).jpg\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/O6t4QR7DgC0",
+          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-10-23T11:49:16.619002+00:00",
+      "slot": "2026-10-23T19:15:00+00:00"
     },
     "2026-10-21-3": {
       "topic": {
@@ -11369,9 +9944,9 @@
         "trend_source": "She knew exactly where to put them (133.3x); Which one made you laugh? (17.3x); Cat Climbing On Straight Wall For Her Kittens (16.7x)",
         "plan_id": "P2026-10-21-03"
       },
-      "status": "approved",
+      "status": "published",
       "by": "auto",
-      "updated": "2026-10-21T20:11:19.156848+00:00",
+      "updated": "2026-10-23T11:49:26.791566+00:00",
       "redos": 0,
       "package": {
         "primary_keyword": "why do dogs kick grass after pooping",
@@ -11697,7 +10272,28 @@
       "tg_msg": 644,
       "opts_msg": 646,
       "approved_by": "auto",
-      "quota_note": "2026-10-23"
+      "quota_note": "2026-10-23",
+      "description_full": "Why do dogs kick grass after pooping? Dog kicking grass isn't about burying it: dogs have scent glands in their paws, so every kick leaves a scent message and a scuff mark for other dogs.\n\nIn this Short: the poop that stays put, the scent glands between dogs' toes, and the neighborhood notice board theory.\n\nSources:\nhttps://vcahospitals.com/resources/behavior-dog/why-dogs-kick-grass-after-nature-calls\nhttps://www.whole-dog-journal.com/behavior/why-do-dogs-kick-grass/\nhttps://www.dogster.com/lifestyle/why-do-dogs-kick-after-they-poop/\n\n#shorts #dogs #funny #animalfacts\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-BrianMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): 19934763 (Pixabay) https://pixabay.com/photos/dog-grass-defecating-pooping-5928690/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-339563/; flutie8211 (Pixabay) https://pixabay.com/videos/id-377924/; AndyFaeth (Pixabay) https://pixabay.com/videos/id-45144/; u_urqhiwwe29 (Pixabay) https://pixabay.com/videos/id-157990/; jeffreygustin77 (Pixabay) https://pixabay.com/videos/id-98821/; Edward_Everidge (Pixabay) https://pixabay.com/videos/id-109817/; moshehar (Pixabay) https://pixabay.com/videos/id-237988/\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/1n9RX5iZVpg",
+          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-10-23T11:49:26.791578+00:00",
+      "slot": "2026-10-23T23:15:00+00:00"
     },
     "2026-10-21-4": {
       "topic": {
@@ -11709,9 +10305,9 @@
         "trend_source": "Haaland Fooled EVERYONE With This Fruit Trick (1,679.8x); Fastest Stationery to cut Paper (49.5x)",
         "plan_id": "P2026-10-21-04"
       },
-      "status": "approved",
+      "status": "published",
       "by": "auto",
-      "updated": "2026-10-21T20:28:10.964630+00:00",
+      "updated": "2026-10-23T11:49:34.244686+00:00",
       "redos": 0,
       "package": {
         "primary_keyword": "bank of vernal",
@@ -12038,7 +10634,28 @@
       "tg_msg": 647,
       "opts_msg": 649,
       "approved_by": "auto",
-      "quota_note": "2026-10-23"
+      "quota_note": "2026-10-23",
+      "description_full": "In 1916, the Bank of Vernal in Utah had its brick front mailed brick by brick, because parcel post was cheaper than freight. Here is the true story of the parcel post bank and how it changed post office rules.\n\nIn this Short: the 427-mile brick journey, the disputed brick count, and the 200-pound limit that came too late.\n\nThis is a true story.\n\nSources:\nhttps://www.ksl.com/article/32424611\nhttps://about.usps.com:443/who/profile/history/pdf/bank-of-vernal.pdf\nhttps://www.almanac.com/bank-mailed-its-bricks-true-postal-history-story\n\n#shorts #history #truestory #funfacts #storytime\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-AU-WilliamMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): Ken1843 (Pixabay) https://pixabay.com/photos/postal-box-brick-mail-5405830/; Etadly (Pixabay) https://pixabay.com/photos/mailbox-postal-service-6835849/; julhen1981 (Pixabay) https://pixabay.com/videos/id-24745/; ChristianBodhi (Pixabay) https://pixabay.com/videos/id-216951/; flutie8211 (Pixabay) https://pixabay.com/videos/id-356984/; Zain_Mustaghfir (Pixabay) https://pixabay.com/photos/clay-brick-maker-worker-man-labor-6778557/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-330502/\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/7LTRWLZqMs0",
+          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-10-23T11:49:34.244699+00:00",
+      "slot": "2026-10-24T01:15:00+00:00"
     },
     "2026-10-22-1": {
       "topic": {
@@ -13282,5 +11899,5 @@
   "visual_searches": {
     "2026-10-22": 3
   },
-  "signals_day": "2026-10-22"
+  "signals_day": "2026-10-23"
 }
