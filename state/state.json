@@ -342,7 +342,7 @@
       ],
       "sent_at": "2026-10-23T18:30:01.886844+00:00",
       "selected": [],
-      "status": "waiting"
+      "status": "closed"
     }
   },
   "videos": {
@@ -11835,7 +11835,7 @@
         "trend_source": "title shape of How Electrical Outlets Work (238,769 views/h); also How Plato's Alarm Clock Worked (30,404 views/h)",
         "plan_id": "P2026-10-23-01"
       },
-      "status": "awaiting_approval",
+      "status": "approved",
       "by": "auto",
       "updated": "2026-10-23T20:18:13.789632+00:00",
       "redos": 0,
@@ -12023,7 +12023,9 @@
       },
       "srt": "1\n00:00:00,076 --> 00:00:01,891\nYou can't pour water uphill but you\n\n2\n00:00:01,891 --> 00:00:04,391\ncould with a two-thousand-year-old screw How\n\n3\n00:00:04,391 --> 00:00:06,587\nIt's a spiral sealed inside a tube\n\n4\n00:00:06,587 --> 00:00:08,717\ntilted into a river Turn it and\n\n5\n00:00:08,717 --> 00:00:10,761\nthe bottom scoops a pocket of water\n\n6\n00:00:10,761 --> 00:00:12,533\nThe water rolls to the lowest point\n\n7\n00:00:12,533 --> 00:00:14,065\nof its turn But as the screw\n\n8\n00:00:14,065 --> 00:00:16,815\nspins that low point creeps upward So\n\n9\n00:00:16,815 --> 00:00:19,359\nthe water climbs pocket after pocket Too\n\n10\n00:00:19,359 --> 00:00:21,641\nsteep and it spills back down At\n\n11\n00:00:21,641 --> 00:00:23,380\nthe top every turn pours out a\n\n12\n00:00:23,380 --> 00:00:25,880\nsplash Plants still use giant ones because\n\n13\n00:00:25,880 --> 00:00:26,911\neven now\n",
       "tg_msg": 715,
-      "opts_msg": 717
+      "opts_msg": 717,
+      "approved_by": "auto",
+      "quota_note": "2026-10-23"
     },
     "2026-10-23-2": {
       "topic": {
@@ -12035,7 +12037,7 @@
         "trend_source": "How Electrical Outlets Work (58,949x median, The Question); superlative-plus-twist shape of 'Could You Move Mount Everest To America?' (Zack D. Films, breakout 2.11)",
         "plan_id": "P2026-10-23-02"
       },
-      "status": "awaiting_approval",
+      "status": "approved",
       "by": "auto",
       "updated": "2026-10-23T20:29:50.763915+00:00",
       "redos": 0,
@@ -12369,7 +12371,9 @@
       },
       "srt": "1\n00:00:00,109 --> 00:00:02,473\nYou'd guess the cheetah is the fastest\n\n2\n00:00:02,473 --> 00:00:04,959\nanimal on Earth You'd be wrong and\n\n3\n00:00:04,959 --> 00:00:07,255\nnumber one isn't even on land Here\n\n4\n00:00:07,255 --> 00:00:10,584\nare the five fastest animals ever clocked\n\n5\n00:00:10,584 --> 00:00:12,500\nfrom the ground to the sky Number\n\n6\n00:00:12,500 --> 00:00:15,693\nfive the pronghorn This North American runner\n\n7\n00:00:15,693 --> 00:00:19,103\nhits about fifty-five miles an hour Number\n\n8\n00:00:19,103 --> 00:00:22,785\nfour the cheetah Its fastest reliably measured\n\n9\n00:00:22,785 --> 00:00:26,033\nsprint is about sixty-five miles an hour\n\n10\n00:00:26,033 --> 00:00:29,375\nNumber three the free-tailed bat Scientists\n\n11\n00:00:29,375 --> 00:00:31,073\ntracked it at about a hundred miles\n\n12\n00:00:31,073 --> 00:00:34,266\nan hour flying level Number two the\n\n13\n00:00:34,266 --> 00:00:36,549\ngolden eagle In a dive it can\n\n14\n00:00:36,549 --> 00:00:38,832\ntop one hundred fifty miles an hour\n\n15\n00:00:38,832 --> 00:00:41,984\nNumber one the peregrine falcon It tucks\n\n16\n00:00:41,984 --> 00:00:44,511\nits wings into a teardrop and dives\n\n17\n00:00:44,511 --> 00:00:46,155\nat about two hundred forty miles an\n\n18\n00:00:46,155 --> 00:00:49,076\nhour So the fastest animal on Earth\n\n19\n00:00:49,076 --> 00:00:50,693\nisn't a runner at all It's a\n\n20\n00:00:50,693 --> 00:00:52,894\nbird that falls with style Which of\n\n21\n00:00:52,894 --> 00:00:54,484\nthese five do you think you could\n\n22\n00:00:54,484 --> 00:00:56,304\nbeat in a race And if you\n\n23\n00:00:56,304 --> 00:00:58,376\nstill picked the cheetah\n",
       "tg_msg": 718,
-      "opts_msg": 720
+      "opts_msg": 720,
+      "approved_by": "auto",
+      "quota_note": "2026-10-23"
     },
     "2026-10-23-3": {
       "topic": {
@@ -12381,7 +12385,7 @@
         "trend_source": "How Electrical Outlets Work (58,949x median, The Question); 'I NEED TO WIN' (233.6x median, comedy)",
         "plan_id": "P2026-10-23-03"
       },
-      "status": "awaiting_approval",
+      "status": "approved",
       "by": "auto",
       "updated": "2026-10-23T20:37:20.036122+00:00",
       "redos": 0,
@@ -12745,7 +12749,9 @@
       },
       "srt": "1\n00:00:00,095 --> 00:00:01,848\nYou know a pack of wolves but\n\n2\n00:00:01,848 --> 00:00:03,302\ndid you know a group of hippos\n\n3\n00:00:03,302 --> 00:00:06,209\nis called a bloat It gets sillier\n\n4\n00:00:06,209 --> 00:00:08,057\nHere are five real names for groups\n\n5\n00:00:08,057 --> 00:00:11,318\nof animals counted down to the funniest\n\n6\n00:00:11,318 --> 00:00:14,008\nNumber five a bloat of hippos When\n\n7\n00:00:14,008 --> 00:00:15,367\nyou weigh as much as a car\n\n8\n00:00:15,367 --> 00:00:17,255\nand nap in a river all day\n\n9\n00:00:17,255 --> 00:00:20,000\nyou've earned it Number four a tower\n\n10\n00:00:20,000 --> 00:00:23,288\nof giraffes Honestly that's less a name\n\n11\n00:00:23,288 --> 00:00:26,087\nand more a description Number three a\n\n12\n00:00:26,087 --> 00:00:28,818\ncrash of rhinos That sounds less like\n\n13\n00:00:28,818 --> 00:00:31,046\na group and more like a warning\n\n14\n00:00:31,046 --> 00:00:34,416\nNumber two a prickle of porcupines Group\n\n15\n00:00:34,416 --> 00:00:36,929\nhugs are not on the schedule Number\n\n16\n00:00:36,929 --> 00:00:40,231\none a business of ferrets Picture them\n\n17\n00:00:40,231 --> 00:00:43,016\nin tiny ties holding a very serious\n\n18\n00:00:43,016 --> 00:00:45,951\nmeeting about snacks So that's five real\n\n19\n00:00:45,951 --> 00:00:48,315\ngroup names and every one sounds like\n\n20\n00:00:48,315 --> 00:00:50,299\nsomeone had way too much fun writing\n\n21\n00:00:50,299 --> 00:00:52,514\nthe dictionary If you got to name\n\n22\n00:00:52,514 --> 00:00:54,402\na group of cats what would you\n\n23\n00:00:54,402 --> 00:00:56,481\ncall it And next time you see\n\n24\n00:00:56,481 --> 00:00:58,036\na pack of wolves\n",
       "tg_msg": 721,
-      "opts_msg": 723
+      "opts_msg": 723,
+      "approved_by": "auto",
+      "quota_note": "2026-10-23"
     },
     "2026-10-23-4": {
       "topic": {
@@ -12757,7 +12763,7 @@
         "trend_source": "mystery-with-a-mechanism shape of How They Filmed An Invisible Man In Snow (Zack D. Films, breakout 2.11); How Electrical Outlets Work (58,949x median)",
         "plan_id": "P2026-10-23-04"
       },
-      "status": "awaiting_approval",
+      "status": "approved",
       "by": "auto",
       "updated": "2026-10-23T20:43:25.226387+00:00",
       "redos": 0,
@@ -13052,7 +13058,9 @@
       },
       "srt": "1\n00:00:00,050 --> 00:00:02,638\nYou'd think rocks can't move by themselves\n\n2\n00:00:02,638 --> 00:00:04,875\nIn Death Valley they left tracks hundreds\n\n3\n00:00:04,875 --> 00:00:07,062\nof feet long Here's the true story\n\n4\n00:00:07,062 --> 00:00:09,713\nof how scientists finally caught them moving\n\n5\n00:00:09,713 --> 00:00:12,175\nOn a dry flat lakebed called Racetrack\n\n6\n00:00:12,175 --> 00:00:14,025\nPlaya rocks sit at the end of\n\n7\n00:00:14,025 --> 00:00:17,500\nlong wandering trails Nobody had ever seen\n\n8\n00:00:17,500 --> 00:00:20,900\none move Since the nineteen-forties scientists\n\n9\n00:00:20,900 --> 00:00:24,887\nwondered what pushed them Wind Mud Something\n\n10\n00:00:24,887 --> 00:00:27,438\nstranger So a team of researchers fitted\n\n11\n00:00:27,438 --> 00:00:29,750\nfifteen rocks with GPS trackers and set\n\n12\n00:00:29,750 --> 00:00:31,812\nup cameras They thought they might be\n\n13\n00:00:31,812 --> 00:00:34,800\nwaiting for years In December twenty-thirteen\n\n14\n00:00:34,800 --> 00:00:36,638\nrain made a shallow pond there and\n\n15\n00:00:36,638 --> 00:00:39,275\nit froze overnight In the sun the\n\n16\n00:00:39,275 --> 00:00:41,312\nice cracked into huge panels thinner than\n\n17\n00:00:41,312 --> 00:00:43,337\na phone A light breeze pushed the\n\n18\n00:00:43,337 --> 00:00:45,362\npanels and they shoved the rocks along\n\n19\n00:00:45,362 --> 00:00:47,337\na few inches per second So the\n\n20\n00:00:47,337 --> 00:00:50,125\nrocks never moved themselves Thin ice and\n\n21\n00:00:50,125 --> 00:00:52,250\na light wind did the pushing Would\n\n22\n00:00:52,250 --> 00:00:54,025\nyou have guessed ice in one of\n\n23\n00:00:54,025 --> 00:00:56,188\nthe hottest places on Earth Because for\n\n24\n00:00:56,188 --> 00:00:58,788\na long time everyone just figured\n",
       "tg_msg": 724,
-      "opts_msg": 726
+      "opts_msg": 726,
+      "approved_by": "auto",
+      "quota_note": "2026-10-23"
     }
   },
   "history": [
