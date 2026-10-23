@@ -284,8 +284,13 @@
         }
       ],
       "sent_at": "2026-10-23T16:31:33.594095+00:00",
-      "selected": [],
-      "status": "waiting"
+      "selected": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "status": "closed"
     },
     "2026-10-23-2": {
       "topics": [
@@ -11819,13 +11824,1238 @@
       "opts_msg": 689,
       "approved_by": "auto",
       "quota_note": "2026-10-23"
+    },
+    "2026-10-23-1": {
+      "topic": {
+        "title": "How Archimedes' Screw Works (2,200 Years Old)",
+        "angle": "Zack D. Films' 'How Electrical Outlets Work' is pulling about 238,769 views per hour (52.5M views in 5 days, breakout 4.35, and 58,949x the median in today's viral signals via a 3D-animation copycat), and 'How Plato's Alarm Clock Worked' (30,404 views/h) shows the ancient-invention version of the same see-inside 'How X Works' shape.",
+        "format": "animated",
+        "tone": "normal",
+        "virality_score": 8,
+        "trend_source": "title shape of How Electrical Outlets Work (238,769 views/h); also How Plato's Alarm Clock Worked (30,404 views/h)",
+        "plan_id": "P2026-10-23-01"
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-23T20:18:13.789632+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "archimedes screw",
+        "title": "How Archimedes' Screw Works (2,200 Years Old)",
+        "hook_text": "NO MOTOR, NO PUMP",
+        "thumbnail_text": "NO PUMP NEEDED",
+        "description": "Here's how an Archimedes screw works, step by step inside the tube. This ancient water pump lifts water uphill with no motor: each turn of the spiral traps a pocket of water and carries it up.\n\nIn this Short: the spiral inside the tube, the scooped pocket, why the water's low point climbs as it turns, why too steep a tilt spills it, and where these screws are still used.\n\nSources:\nhttps://www.scientificamerican.com/article/lift-water-with-an-archimedes-screw\nhttps://www.sciencebuddies.org/stem-activities/build-archimedes-screw\nhttps://greekreporter.com/2025/03/29/archimedes-screw-ancient-greek-invention-used-today/",
+        "hashtags": [
+          "#shorts",
+          "#howitworks",
+          "#archimedes",
+          "#3danimation"
+        ],
+        "tags": [
+          "archimedes screw",
+          "archimedes screw water pump",
+          "archimedes",
+          "screw pump animation",
+          "archimedes screw pump",
+          "archimedes screw water",
+          "how archimedes screw work",
+          "archimedes screw animation",
+          "archimedes screw explained",
+          "screw pump working animation",
+          "archimedes screw water lifter",
+          "ancient water pump",
+          "screw pump",
+          "archimedes screw working",
+          "archimedes screw principle",
+          "archimedes screw explanation",
+          "3d animation explained",
+          "how to lift water uphill",
+          "ancient greek inventions"
+        ],
+        "pinned_comment": "Bonus fact: some modern Archimedes screws run in reverse, letting water fall down them to spin a generator. If you had to lift water without a motor, how would you do it?",
+        "visual_bible": "Sunny daytime setting featuring a rustic wooden Archimedes screw tube with clear water elements set alongside a calm blue river with warm earth tones and realistic materials.",
+        "scenes": [
+          {
+            "text": "You can't pour water uphill, but you could with a two-thousand-year-old screw. How?",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "ancient water pump river",
+              "wooden screw mechanism river"
+            ],
+            "image_prompt": "3D render of a tilted ancient wooden cylinder tube resting in a flowing river on a sunny day, clear blue water, hyper-realistic, 8k",
+            "shot": "3D animated wide shot of a tilted wooden tube with its bottom end dipped in a calm blue river under a sunny sky, a wooden crank handle at the top end, slow camera push-in",
+            "stock_query": "ancient water pump river"
+          },
+          {
+            "text": "It's a spiral sealed inside a tube, tilted into a river.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "spiral screw inside pipe cross section",
+              "transparent tube spiral helical mechanism"
+            ],
+            "image_prompt": "3D cutaway animation of a transparent cylinder revealing an internal wooden helical spiral blade wrapped around a center axis, technical illustration, 8k",
+            "shot": "3D animated cutaway of the same wooden tube turning see-through to reveal a thick wooden spiral wound around a central shaft inside, camera gliding along the tube from bottom to top",
+            "stock_query": "spiral screw inside pipe cross section"
+          },
+          {
+            "text": "Turn it, and the bottom scoops a pocket of water.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "screw scooping water underwater",
+              "water intake tube close up"
+            ],
+            "image_prompt": "3D macro underwater shot of the base of a rotating wooden spiral scooping a clear pocket of water into its chamber, ray-traced lighting",
+            "shot": "3D animated close-up of the same tube's bottom end underwater: the crank turns, the lowest blade of the spiral dips and scoops a small pocket of bright blue water, camera locked off",
+            "stock_query": "screw scooping water underwater"
+          },
+          {
+            "text": "The water rolls to the lowest point of its turn.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "water sitting in curved blade",
+              "cross section water pocket"
+            ],
+            "image_prompt": "3D cross-section macro view of a single turn of an Archimedes screw with water gathered naturally at the lowest bottom curve, crisp details",
+            "shot": "3D animated cross-section macro of one turn of the same spiral: the blue water pocket settles in the lowest curve of the blade like a marble in a bowl, slow orbit",
+            "stock_query": "water sitting in curved blade"
+          },
+          {
+            "text": "But as the screw spins, that low point creeps upward.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "rotating spiral helix movement",
+              "mechanical screw motion diagram"
+            ],
+            "image_prompt": "3D diagram cross section showing a spiral blade rotating with a highlighted glowing point marking upward movement along the axis, cinematic render",
+            "shot": "3D animated cross-section of the same spiral rotating: a glowing marker on the lowest point of the curve slides steadily up the tube as the screw turns, camera tracking upward with it",
+            "stock_query": "rotating spiral helix movement"
+          },
+          {
+            "text": "So the water climbs, pocket after pocket.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "water pockets ascending spiral pipe",
+              "archimedes screw full length cross section"
+            ],
+            "image_prompt": "Full cutaway 3D view of an Archimedes screw tube showing several distinct chambers of blue water ascending like steps along the spiral, photorealistic render",
+            "shot": "3D animated full-length cutaway of the same tube: a staircase of separate blue water pockets rises turn by turn, each resting on the blade beneath it, camera slowly pulling back",
+            "stock_query": "water pockets ascending spiral pipe"
+          },
+          {
+            "text": "Too steep, and it spills back down.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "water leaking down spiral pipe",
+              "spilling water inclined plane"
+            ],
+            "image_prompt": "3D cross-section demonstration of an overly steep Archimedes screw where trapped water overflows the blade edge and splashes downward, dynamic fluids",
+            "shot": "3D animated comparison of the same tube tilted much steeper: the blue pockets slosh over the blades and slide back down to the river, camera side-on",
+            "stock_query": "water leaking down spiral pipe"
+          },
+          {
+            "text": "At the top, every turn pours out a splash.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "water pouring from wooden pipe",
+              "water splash wooden trough"
+            ],
+            "image_prompt": "Close-up 3D animation of water discharging from the top opening of an ancient wooden screw into a wooden channel, splash droplets frozen in time",
+            "shot": "3D animated close-up of the same tube's top end: with each turn of the crank a splash of blue water pours into a wooden trough, slow-motion droplets",
+            "stock_query": "water pouring from wooden pipe"
+          },
+          {
+            "text": "Plants still use giant ones, because even now,",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "modern archimedes screw pump concrete",
+              "industrial water treatment screw"
+            ],
+            "image_prompt": "Industrial large steel Archimedes screw operating in a modern concrete wastewater treatment canal dissolving into an ancient wooden design, cinematic lighting",
+            "shot": "3D animated wide shot dissolving from the same wooden screw to a huge modern steel screw turning in a concrete channel, then back to the calm river and the tilted wooden tube, gentle push-in",
+            "stock_query": "modern archimedes screw pump concrete"
+          }
+        ],
+        "key_facts": [
+          "An Archimedes screw lifts liquid uphill without a pressurized motor.",
+          "It consists of a helical spiral enclosed tightly within a cylinder placed at an incline.",
+          "Rotating the screw scoops a isolated pocket of water at the base.",
+          "Gravity keeps the water at the lowest point of each turn, which physically shifts upward as the screw rotates.",
+          "If the angle of tilt is too steep, the water slips over the blades and fails to rise.",
+          "Modern wastewater treatment and drainage plants still utilize large Archimedes screws today."
+        ],
+        "format": "animated",
+        "tone": "normal",
+        "category": "27",
+        "script": "You can't pour water uphill, but you could with a two-thousand-year-old screw. How? It's a spiral sealed inside a tube, tilted into a river. Turn it, and the bottom scoops a pocket of water. The water rolls to the lowest point of its turn. But as the screw spins, that low point creeps upward. So the water climbs, pocket after pocket. Too steep, and it spills back down. At the top, every turn pours out a splash. Plants still use giant ones, because even now,",
+        "plan_id": "P2026-10-23-01",
+        "voice": "en-US-AvaMultilingualNeural",
+        "animated_estimate": 0.52,
+        "visual_report": {
+          "shots": 9,
+          "checked": 2,
+          "unchecked": 0,
+          "filler": 7,
+          "ai": 0
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AvaMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): Antranias (Pixabay) https://pixabay.com/photos/cattle-trough-cow-trough-potions-239495/; 2427999 (Pixabay) https://pixabay.com/videos/id-10447/"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-23",
+        "name": "2026-10-23-1-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-23",
+        "name": "2026-10-23-1-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,076 --> 00:00:01,891\nYou can't pour water uphill but you\n\n2\n00:00:01,891 --> 00:00:04,391\ncould with a two-thousand-year-old screw How\n\n3\n00:00:04,391 --> 00:00:06,587\nIt's a spiral sealed inside a tube\n\n4\n00:00:06,587 --> 00:00:08,717\ntilted into a river Turn it and\n\n5\n00:00:08,717 --> 00:00:10,761\nthe bottom scoops a pocket of water\n\n6\n00:00:10,761 --> 00:00:12,533\nThe water rolls to the lowest point\n\n7\n00:00:12,533 --> 00:00:14,065\nof its turn But as the screw\n\n8\n00:00:14,065 --> 00:00:16,815\nspins that low point creeps upward So\n\n9\n00:00:16,815 --> 00:00:19,359\nthe water climbs pocket after pocket Too\n\n10\n00:00:19,359 --> 00:00:21,641\nsteep and it spills back down At\n\n11\n00:00:21,641 --> 00:00:23,380\nthe top every turn pours out a\n\n12\n00:00:23,380 --> 00:00:25,880\nsplash Plants still use giant ones because\n\n13\n00:00:25,880 --> 00:00:26,911\neven now\n",
+      "tg_msg": 715,
+      "opts_msg": 717
+    },
+    "2026-10-23-2": {
+      "topic": {
+        "title": "Top 5 Fastest Animals (#1 Isn't on Land)",
+        "angle": "Today's top outliers are all one-question, one-payoff curiosity ('How Electrical Outlets Work', 58,949x its channel median), and a 'fastest animal' countdown answers a question people already ask, with a surprise twist at number one.",
+        "format": "ranking",
+        "tone": "normal",
+        "virality_score": 8,
+        "trend_source": "How Electrical Outlets Work (58,949x median, The Question); superlative-plus-twist shape of 'Could You Move Mount Everest To America?' (Zack D. Films, breakout 2.11)",
+        "plan_id": "P2026-10-23-02"
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-23T20:29:50.763915+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "fastest animals on earth",
+        "title": "Top 5 Fastest Animals (#1 Isn't on Land)",
+        "hook_text": "FASTER THAN A CAR",
+        "thumbnail_text": "NOT THE CHEETAH",
+        "description": "These are the top 5 fastest animals on Earth, ranked by measured top speed. The fastest animal in the world isn't the cheetah: it's a falcon diving at about 240 mph.\n\nIn this Short: the pronghorn, the cheetah, the free-tailed bat, the golden eagle and the peregrine falcon, counted down from slowest to fastest.\n\nSources:\nhttps://en.wikipedia.org/wiki/Fastest_animals\nhttps://en.wikipedia.org/wiki/List_of_birds_by_flight_speed",
+        "hashtags": [
+          "#shorts",
+          "#animals",
+          "#fastestanimal",
+          "#top5"
+        ],
+        "tags": [
+          "fastest animals on earth",
+          "top 5 fastest animals",
+          "fastest animals",
+          "fastest animal in the world",
+          "peregrine falcon speed dive",
+          "fastest land animal on earth",
+          "top 5 fastest animal on land",
+          "top 5 fastest animals in the world",
+          "peregrine falcon speed",
+          "fastest animals on land",
+          "free-tailed bat",
+          "mexican free-tailed bat",
+          "fastest creature on earth",
+          "fastest animals comparison",
+          "fastest animals on the planet",
+          "golden eagle dive",
+          "animal speed ranking",
+          "peregrine falcon dive"
+        ],
+        "pinned_comment": "Bonus fact: the pronghorn can't beat a cheetah's sprint, but it can keep running fast for miles while the cheetah tires in under a minute. Which animal do you think should've made the list?",
+        "scenes": [
+          {
+            "text": "You'd guess the cheetah is the fastest animal on Earth. You'd be wrong, and number one isn't even on land. Here are the five fastest animals ever clocked, from the ground to the sky.",
+            "badge": "5 fastes",
+            "label": "Animal Rankings",
+            "stock_queries": [
+              "cheetah sprinting across grassland",
+              "aerial view of open prairie at sunrise"
+            ],
+            "image_prompt": "Cinematic wide shot of a cheetah sprinting across dry grassland in slow motion, bright sunny day",
+            "stock_query": "cheetah sprinting across grassland"
+          },
+          {
+            "text": "Number five, the pronghorn. This North American runner hits about fifty-five miles an hour.",
+            "badge": "#5",
+            "label": "Pronghorn",
+            "stock_queries": [
+              "pronghorn antelope running",
+              "pronghorn in open plains"
+            ],
+            "image_prompt": "Close-up shot of a pronghorn antelope running fast across open plains, natural lighting",
+            "stock_query": "pronghorn antelope running"
+          },
+          {
+            "text": "Number four, the cheetah. Its fastest reliably measured sprint is about sixty-five miles an hour.",
+            "badge": "#4",
+            "label": "Cheetah",
+            "stock_queries": [
+              "cheetah running full speed",
+              "cheetah side tracking shot"
+            ],
+            "image_prompt": "Action tracking shot of a cheetah running at full speed across the savanna, dynamic camera angle",
+            "stock_query": "cheetah running full speed"
+          },
+          {
+            "text": "Number three, the free-tailed bat. Scientists tracked it at about a hundred miles an hour, flying level.",
+            "badge": "#3",
+            "label": "Free-tailed bat",
+            "stock_queries": [
+              "bats streaming out of cave",
+              "bats flying at dusk"
+            ],
+            "image_prompt": "A large swarm of free-tailed bats streaming out of a dark cave opening at dusk",
+            "stock_query": "bats streaming out of cave"
+          },
+          {
+            "text": "Number two, the golden eagle. In a dive, it can top one hundred fifty miles an hour.",
+            "badge": "#2",
+            "label": "Golden eagle",
+            "stock_queries": [
+              "golden eagle soaring mountains",
+              "golden eagle flying"
+            ],
+            "image_prompt": "Majestic golden eagle soaring high over snow-capped mountain peaks, sunny afternoon",
+            "stock_query": "golden eagle soaring mountains"
+          },
+          {
+            "text": "Number one, the peregrine falcon. It tucks its wings into a teardrop and dives at about two hundred forty miles an hour.",
+            "badge": "#1",
+            "label": "Peregrine falcon",
+            "stock_queries": [
+              "peregrine falcon diving",
+              "falcon perched on rock"
+            ],
+            "image_prompt": "A peregrine falcon tucking its wings and diving rapidly through the open sky",
+            "stock_query": "peregrine falcon diving"
+          },
+          {
+            "text": "So the fastest animal on Earth isn't a runner at all. It's a bird that falls with style. Which of these five do you think you could beat in a race? And if you still picked the cheetah,",
+            "badge": "Bonus",
+            "label": "Outro",
+            "stock_queries": [
+              "person running on track",
+              "cheetah resting looking at camera"
+            ],
+            "image_prompt": "A cheetah resting peacefully in the grass and looking directly at the camera",
+            "stock_query": "person running on track"
+          }
+        ],
+        "key_facts": [
+          "The pronghorn runs at about 55 mph.",
+          "The cheetah sprints at about 65 mph.",
+          "The free-tailed bat flies level at about 100 mph.",
+          "The golden eagle dives at over 150 mph.",
+          "The peregrine falcon dives at about 240 mph."
+        ],
+        "format": "ranking",
+        "tone": "normal",
+        "category": "27",
+        "script": "You'd guess the cheetah is the fastest animal on Earth. You'd be wrong, and number one isn't even on land. Here are the five fastest animals ever clocked, from the ground to the sky. Number five, the pronghorn. This North American runner hits about fifty-five miles an hour. Number four, the cheetah. Its fastest reliably measured sprint is about sixty-five miles an hour. Number three, the free-tailed bat. Scientists tracked it at about a hundred miles an hour, flying level. Number two, the golden eagle. In a dive, it can top one hundred fifty miles an hour. Number one, the peregrine falcon. It tucks its wings into a teardrop and dives at about two hundred forty miles an hour. So the fastest animal on Earth isn't a runner at all. It's a bird that falls with style. Which of these five do you think you could beat in a race? And if you still picked the cheetah,",
+        "plan_id": "P2026-10-23-02",
+        "shot_plan": [
+          {
+            "subject": "cheetah running fast on grass",
+            "queries": [
+              {
+                "q": "cheetah running sprint",
+                "must": [
+                  "cheetah"
+                ]
+              },
+              {
+                "q": "fast animal",
+                "must": [
+                  "animal"
+                ]
+              },
+              {
+                "q": "wildlife running",
+                "must": [
+                  "wildlife"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "pronghorn walking in grassland",
+            "queries": [
+              {
+                "q": "pronghorn animal",
+                "must": [
+                  "pronghorn"
+                ]
+              },
+              {
+                "q": "north american mammal",
+                "must": [
+                  "mammal"
+                ]
+              },
+              {
+                "q": "grassland animal",
+                "must": [
+                  "grassland"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "cheetah running fast",
+            "queries": [
+              {
+                "q": "cheetah sprint",
+                "must": [
+                  "cheetah"
+                ]
+              },
+              {
+                "q": "fast cheetah",
+                "must": [
+                  "cheetah"
+                ]
+              },
+              {
+                "q": "running big cat",
+                "must": [
+                  "cat"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "bat flying in sky",
+            "queries": [
+              {
+                "q": "free-tailed bat flying",
+                "must": [
+                  "bat"
+                ]
+              },
+              {
+                "q": "bat in flight",
+                "must": [
+                  "bat"
+                ]
+              },
+              {
+                "q": "flying mammal",
+                "must": [
+                  "mammal"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "golden eagle diving from sky",
+            "queries": [
+              {
+                "q": "golden eagle dive",
+                "must": [
+                  "eagle"
+                ]
+              },
+              {
+                "q": "eagle in flight",
+                "must": [
+                  "eagle"
+                ]
+              },
+              {
+                "q": "bird of prey",
+                "must": [
+                  "bird"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "peregrine falcon diving rapidly",
+            "queries": [
+              {
+                "q": "peregrine falcon dive",
+                "must": [
+                  "falcon"
+                ]
+              },
+              {
+                "q": "falcon in flight",
+                "must": [
+                  "falcon"
+                ]
+              },
+              {
+                "q": "fast bird",
+                "must": [
+                  "bird"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "peregrine falcon flying in sky",
+            "queries": [
+              {
+                "q": "peregrine falcon flying",
+                "must": [
+                  "falcon"
+                ]
+              },
+              {
+                "q": "bird flying",
+                "must": [
+                  "bird"
+                ]
+              },
+              {
+                "q": "aerial wildlife",
+                "must": [
+                  "wildlife"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "wildlife",
+          "animal sprint",
+          "nature speed"
+        ],
+        "visual_style": "dynamic wildlife countdowns featuring fast animals with clear speed rankings and surprising facts",
+        "visual_refs": [
+          "Top 4 FASTEST Animals on Earth That Don\u2019t Even Need Wheels #pets #animals #speed",
+          "Top 10 Fastest Land Animals in the World part 1 #short #animalquiz #wildlife #wildanimals",
+          "&quot;Top 5 Fastest Animals in the World You Must Know \ud83e\udd2f\ud83d\ude31&quot;",
+          "Top 10 fastest land animals on earth",
+          "The Fastest Land Animals Ranked\u2026 #1 Isn&#39;t Even Close #shorts",
+          "Fastest animal on earth"
+        ],
+        "voice": "en-US-AndrewMultilingualNeural",
+        "visual_report": {
+          "shots": 9,
+          "checked": 9,
+          "unchecked": 0,
+          "filler": 0,
+          "ai": 0
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AndrewMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): Solarselle77 (Pixabay) https://pixabay.com/videos/id-307555/; mdherren (Pixabay) https://pixabay.com/videos/id-43293/; Sonic_Art (Pixabay) https://pixabay.com/photos/cheetah-running-speed-wildlife-10194007/; DrZoltan (Pixabay) https://pixabay.com/photos/cheetah-africa-namibia-cat-run-2859581/; BuchArena (Pixabay) https://pixabay.com/photos/cheetah-run-speed-savannah-10493645/",
+        "U.S. Fish and Wildlife Service - Midwest Region / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:Bat_in_flight_(53718452025).jpg",
+        "USFWS Mountain-Prairie / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:Rough-Legged_Hawk_on_Seedskadee_NWR_(22988829524).jpg",
+        "Caleb Putnam / Wikimedia Commons (CC BY 2.0) https://commons.wikimedia.org/wiki/File:Peregrine_Falcon_in_dive,_Miller_Beach,_Indiana,_September_29,_2012_(8039548991).jpg",
+        "Tony Hisgett from Birmingham, UK / Wikimedia Commons (CC BY 2.0) https://commons.wikimedia.org/wiki/File:Peregrine_Falcon_(5696218357).jpg"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-23",
+        "name": "2026-10-23-2-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-23",
+        "name": "2026-10-23-2-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,109 --> 00:00:02,473\nYou'd guess the cheetah is the fastest\n\n2\n00:00:02,473 --> 00:00:04,959\nanimal on Earth You'd be wrong and\n\n3\n00:00:04,959 --> 00:00:07,255\nnumber one isn't even on land Here\n\n4\n00:00:07,255 --> 00:00:10,584\nare the five fastest animals ever clocked\n\n5\n00:00:10,584 --> 00:00:12,500\nfrom the ground to the sky Number\n\n6\n00:00:12,500 --> 00:00:15,693\nfive the pronghorn This North American runner\n\n7\n00:00:15,693 --> 00:00:19,103\nhits about fifty-five miles an hour Number\n\n8\n00:00:19,103 --> 00:00:22,785\nfour the cheetah Its fastest reliably measured\n\n9\n00:00:22,785 --> 00:00:26,033\nsprint is about sixty-five miles an hour\n\n10\n00:00:26,033 --> 00:00:29,375\nNumber three the free-tailed bat Scientists\n\n11\n00:00:29,375 --> 00:00:31,073\ntracked it at about a hundred miles\n\n12\n00:00:31,073 --> 00:00:34,266\nan hour flying level Number two the\n\n13\n00:00:34,266 --> 00:00:36,549\ngolden eagle In a dive it can\n\n14\n00:00:36,549 --> 00:00:38,832\ntop one hundred fifty miles an hour\n\n15\n00:00:38,832 --> 00:00:41,984\nNumber one the peregrine falcon It tucks\n\n16\n00:00:41,984 --> 00:00:44,511\nits wings into a teardrop and dives\n\n17\n00:00:44,511 --> 00:00:46,155\nat about two hundred forty miles an\n\n18\n00:00:46,155 --> 00:00:49,076\nhour So the fastest animal on Earth\n\n19\n00:00:49,076 --> 00:00:50,693\nisn't a runner at all It's a\n\n20\n00:00:50,693 --> 00:00:52,894\nbird that falls with style Which of\n\n21\n00:00:52,894 --> 00:00:54,484\nthese five do you think you could\n\n22\n00:00:54,484 --> 00:00:56,304\nbeat in a race And if you\n\n23\n00:00:56,304 --> 00:00:58,376\nstill picked the cheetah\n",
+      "tg_msg": 718,
+      "opts_msg": 720
+    },
+    "2026-10-23-3": {
+      "topic": {
+        "title": "Top 5 Funniest Animal Group Names \ud83d\ude02",
+        "angle": "Today's breakout titles lean on one surprising answer to a simple question ('How Electrical Outlets Work', 58,949x median), and a funny countdown of real-but-fake-sounding names gives five of those surprises in thirty seconds, family-friendly.",
+        "format": "funny",
+        "tone": "funny",
+        "virality_score": 7,
+        "trend_source": "How Electrical Outlets Work (58,949x median, The Question); 'I NEED TO WIN' (233.6x median, comedy)",
+        "plan_id": "P2026-10-23-03"
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-23T20:37:20.036122+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "funny animal group names",
+        "title": "Top 5 Funniest Animal Group Names \ud83d\ude02",
+        "hook_text": "THESE ARE REAL",
+        "thumbnail_text": "SERIOUS BUSINESS",
+        "description": "These funny animal group names are all real: the top 5 funniest collective nouns for animals. From a bloat of hippos to what a group of ferrets is called, here's the countdown.\n\nIn this Short: a bloat of hippos, a tower of giraffes, a crash of rhinos, a prickle of porcupines and a business of ferrets.\n\nSources:\nhttps://www.dictionary.com/e/strange-animal-groups-listicle/\nhttps://a-z-animals.com/articles/groups-of-animal-names-the-big-list-of-collective-nouns/\nhttps://www.grammar-monster.com/list_of_collective_nouns_for_animals.htm",
+        "hashtags": [
+          "#shorts",
+          "#funny",
+          "#animals",
+          "#funfacts"
+        ],
+        "tags": [
+          "funny animal group names",
+          "animal group names",
+          "collective nouns for animals",
+          "collective nouns for groups of animals",
+          "group of ferrets",
+          "collective name of animals",
+          "animal group names in english",
+          "animals and their group names",
+          "bloat of hippos",
+          "crash of rhinos",
+          "collective nouns",
+          "tower of giraffes",
+          "funny animal facts",
+          "business of ferrets",
+          "prickle of porcupines",
+          "group of hippos called",
+          "what is a group of animals called"
+        ],
+        "pinned_comment": "Bonus fact: a group of cats already has a name, a clowder. But that's no fun, so what would YOU call a group of cats?",
+        "scenes": [
+          {
+            "text": "You know a pack of wolves, but did you know a group of hippos is called a bloat? It gets sillier. Here are five real names for groups of animals, counted down to the funniest.",
+            "badge": "",
+            "label": "THESE ARE REAL",
+            "stock_queries": [
+              "pack of wolves walking through snow",
+              "hippos floating together in a river"
+            ],
+            "image_prompt": "Cinematic shot of a pack of wolves walking through a snowy forest, bright natural lighting, highly detailed.",
+            "stock_query": "pack of wolves walking through snow"
+          },
+          {
+            "text": "Number five, a bloat of hippos. When you weigh as much as a car and nap in a river all day, you've earned it.",
+            "badge": "",
+            "label": "#5 A bloat of hippos",
+            "stock_queries": [
+              "hippos yawning in shallow water",
+              "hippos lounging in a river"
+            ],
+            "image_prompt": "Wide shot of a bloat of hippos lounging lazily in a muddy African river, sunny day, wildlife documentary style.",
+            "stock_query": "hippos yawning in shallow water"
+          },
+          {
+            "text": "Number four, a tower of giraffes. Honestly, that's less a name and more a description.",
+            "badge": "",
+            "label": "#4 A tower of giraffes",
+            "stock_queries": [
+              "group of giraffes on savanna",
+              "giraffes standing together"
+            ],
+            "image_prompt": "A tower of giraffes standing tall together against the sunset on the African savanna, beautiful warm colors.",
+            "stock_query": "group of giraffes on savanna"
+          },
+          {
+            "text": "Number three, a crash of rhinos. That sounds less like a group and more like a warning.",
+            "badge": "",
+            "label": "#3 A crash of rhinos",
+            "stock_queries": [
+              "rhinos walking on dry grassland",
+              "rhinoceros herd together"
+            ],
+            "image_prompt": "A crash of rhinos walking purposefully across a dusty grassland, low angle shot, cinematic wildlife photography.",
+            "stock_query": "rhinos walking on dry grassland"
+          },
+          {
+            "text": "Number two, a prickle of porcupines. Group hugs are not on the schedule.",
+            "badge": "",
+            "label": "#2 A prickle of porcupines",
+            "stock_queries": [
+              "porcupine waddling through grass",
+              "porcupine close up"
+            ],
+            "image_prompt": "A cute porcupine waddling through green grass, detailed quills, soft natural lighting.",
+            "stock_query": "porcupine waddling through grass"
+          },
+          {
+            "text": "Number one, a business of ferrets. Picture them in tiny ties, holding a very serious meeting about snacks.",
+            "badge": "",
+            "label": "#1 A business of ferrets",
+            "stock_queries": [
+              "ferrets playing tumbling",
+              "ferrets together indoors"
+            ],
+            "image_prompt": "A business of ferrets tumbling and playing together on a wooden floor, curious expressions, macro lens shot.",
+            "stock_query": "ferrets playing tumbling"
+          },
+          {
+            "text": "So that's five real group names, and every one sounds like someone had way too much fun writing the dictionary.",
+            "badge": "",
+            "label": "All real words",
+            "stock_queries": [
+              "pile of old dictionaries",
+              "dictionary pages turning"
+            ],
+            "image_prompt": "A tall stack of old vintage dictionaries on a wooden desk, warm cozy study background.",
+            "stock_query": "pile of old dictionaries"
+          },
+          {
+            "text": "If you got to name a group of cats, what would you call it? And next time you see a pack of wolves,",
+            "badge": "",
+            "label": "Name a group of cats?",
+            "stock_queries": [
+              "cats sitting together on sofa",
+              "wolf pack walking toward camera"
+            ],
+            "image_prompt": "Multiple cute cats sitting together on a cozy sofa looking at the camera, soft indoor lighting.",
+            "stock_query": "cats sitting together on sofa"
+          }
+        ],
+        "key_facts": [
+          "A group of hippos is called a bloat",
+          "A group of giraffes is called a tower",
+          "A group of rhinos is called a crash",
+          "A group of porcupines is called a prickle",
+          "A group of ferrets is called a business",
+          "A group of wolves is called a pack"
+        ],
+        "format": "funny",
+        "tone": "funny",
+        "category": "23",
+        "script": "You know a pack of wolves, but did you know a group of hippos is called a bloat? It gets sillier. Here are five real names for groups of animals, counted down to the funniest. Number five, a bloat of hippos. When you weigh as much as a car and nap in a river all day, you've earned it. Number four, a tower of giraffes. Honestly, that's less a name and more a description. Number three, a crash of rhinos. That sounds less like a group and more like a warning. Number two, a prickle of porcupines. Group hugs are not on the schedule. Number one, a business of ferrets. Picture them in tiny ties, holding a very serious meeting about snacks. So that's five real group names, and every one sounds like someone had way too much fun writing the dictionary. If you got to name a group of cats, what would you call it? And next time you see a pack of wolves,",
+        "plan_id": "P2026-10-23-03",
+        "shot_plan": [
+          {
+            "subject": "wolf pack",
+            "queries": [
+              {
+                "q": "wolf pack",
+                "must": [
+                  "wolf"
+                ]
+              },
+              {
+                "q": "wolves running",
+                "must": [
+                  "wolves"
+                ]
+              },
+              {
+                "q": "gray wolf",
+                "must": [
+                  "animal"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "hippopotamus in water",
+            "queries": [
+              {
+                "q": "hippopotamus river",
+                "must": [
+                  "hippo"
+                ]
+              },
+              {
+                "q": "hippo swimming",
+                "must": [
+                  "hippopotamus"
+                ]
+              },
+              {
+                "q": "water animal",
+                "must": [
+                  "water"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "giraffes eating leaves",
+            "queries": [
+              {
+                "q": "tower of giraffes",
+                "must": [
+                  "giraffe"
+                ]
+              },
+              {
+                "q": "giraffes savanna",
+                "must": [
+                  "giraffes"
+                ]
+              },
+              {
+                "q": "tall animal",
+                "must": [
+                  "animal"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "rhinoceros charging",
+            "queries": [
+              {
+                "q": "crash of rhinos",
+                "must": [
+                  "rhino"
+                ]
+              },
+              {
+                "q": "rhinoceros running",
+                "must": [
+                  "rhinoceros"
+                ]
+              },
+              {
+                "q": "wild animal",
+                "must": [
+                  "animal"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "porcupine walking",
+            "queries": [
+              {
+                "q": "prickle of porcupines",
+                "must": [
+                  "porcupine"
+                ]
+              },
+              {
+                "q": "porcupine quills",
+                "must": [
+                  "quills"
+                ]
+              },
+              {
+                "q": "spiky animal",
+                "must": [
+                  "animal"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "ferrets playing",
+            "queries": [
+              {
+                "q": "business of ferrets",
+                "must": [
+                  "ferret"
+                ]
+              },
+              {
+                "q": "ferrets running",
+                "must": [
+                  "ferrets"
+                ]
+              },
+              {
+                "q": "cute animal",
+                "must": [
+                  "animal"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "dictionary book",
+            "queries": [
+              {
+                "q": "dictionary book",
+                "must": [
+                  "dictionary"
+                ]
+              },
+              {
+                "q": "reading book",
+                "must": [
+                  "book"
+                ]
+              },
+              {
+                "q": "pages turning",
+                "must": [
+                  "paper"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "domestic cat sitting",
+            "queries": [
+              {
+                "q": "domestic cat",
+                "must": [
+                  "cat"
+                ]
+              },
+              {
+                "q": "cute kitten",
+                "must": [
+                  "kitten"
+                ]
+              },
+              {
+                "q": "feline pet",
+                "must": [
+                  "pet"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "animal",
+          "wildlife",
+          "nature"
+        ],
+        "visual_style": "Fast-paced, family-friendly countdowns featuring real animals with surprising and funny group names, illustrated with clear stock footage clips.",
+        "visual_refs": [
+          "Funny Group Chat name ideas \ud83d\ude02\ud83e\udd23\ud83d\udcad #groupnameideas #friendship #bff",
+          "GROUP  NAME IDEAS\ud83c\udf38/ #group #names #fun #shorts\ud83c\udf80\ud83c\udf37",
+          "kindergarteners GO crazy \ud83e\udd2a Leo is now streaming on Netflix!",
+          "Funny Contact names for best friend \ud83d\udc64#funnyshorts#bestfriend#aesthetic#fyptiktok",
+          "friends group name ideas (funny name) \ud83c\udf19\ud83d\ude02\ud83e\udd8b",
+          "10 animals name in english || wild pet animals name || name of wild animals || \u091c\u0902\u0917\u0932\u0940 \u091c\u093e\u0928\u0935\u0930\u094b\u0902 \u0915\u0947 \u0928\u093e\u092e"
+        ],
+        "voice": "en-US-EmmaMultilingualNeural",
+        "visual_report": {
+          "shots": 12,
+          "checked": 12,
+          "unchecked": 0,
+          "filler": 0,
+          "ai": 0
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-EmmaMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-334768/; Joolsmagools (Pixabay) https://pixabay.com/videos/id-216389/; Joolsmagools (Pixabay) https://pixabay.com/videos/id-215533/; TheOtherKev (Pixabay) https://pixabay.com/photos/giraffe-long-neck-horns-long-legs-4366005/; garten-gg (Pixabay) https://pixabay.com/photos/animals-rhino-pachyderm-africa-4454252/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-937/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-939/; eluxirphoto (Pixabay) https://pixabay.com/photos/animal-ferret-mammal-species-fauna-4534480/; ElenLackner (Pixabay) https://pixabay.com/videos/id-21941/; NickyPe (Pixabay) https://pixabay.com/videos/id-145308/; Julianza (Pixabay) https://pixabay.com/videos/id-3092/; Marsel_beijing (Pixabay) https://pixabay.com/videos/id-132493/"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-23",
+        "name": "2026-10-23-3-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-23",
+        "name": "2026-10-23-3-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,095 --> 00:00:01,848\nYou know a pack of wolves but\n\n2\n00:00:01,848 --> 00:00:03,302\ndid you know a group of hippos\n\n3\n00:00:03,302 --> 00:00:06,209\nis called a bloat It gets sillier\n\n4\n00:00:06,209 --> 00:00:08,057\nHere are five real names for groups\n\n5\n00:00:08,057 --> 00:00:11,318\nof animals counted down to the funniest\n\n6\n00:00:11,318 --> 00:00:14,008\nNumber five a bloat of hippos When\n\n7\n00:00:14,008 --> 00:00:15,367\nyou weigh as much as a car\n\n8\n00:00:15,367 --> 00:00:17,255\nand nap in a river all day\n\n9\n00:00:17,255 --> 00:00:20,000\nyou've earned it Number four a tower\n\n10\n00:00:20,000 --> 00:00:23,288\nof giraffes Honestly that's less a name\n\n11\n00:00:23,288 --> 00:00:26,087\nand more a description Number three a\n\n12\n00:00:26,087 --> 00:00:28,818\ncrash of rhinos That sounds less like\n\n13\n00:00:28,818 --> 00:00:31,046\na group and more like a warning\n\n14\n00:00:31,046 --> 00:00:34,416\nNumber two a prickle of porcupines Group\n\n15\n00:00:34,416 --> 00:00:36,929\nhugs are not on the schedule Number\n\n16\n00:00:36,929 --> 00:00:40,231\none a business of ferrets Picture them\n\n17\n00:00:40,231 --> 00:00:43,016\nin tiny ties holding a very serious\n\n18\n00:00:43,016 --> 00:00:45,951\nmeeting about snacks So that's five real\n\n19\n00:00:45,951 --> 00:00:48,315\ngroup names and every one sounds like\n\n20\n00:00:48,315 --> 00:00:50,299\nsomeone had way too much fun writing\n\n21\n00:00:50,299 --> 00:00:52,514\nthe dictionary If you got to name\n\n22\n00:00:52,514 --> 00:00:54,402\na group of cats what would you\n\n23\n00:00:54,402 --> 00:00:56,481\ncall it And next time you see\n\n24\n00:00:56,481 --> 00:00:58,036\na pack of wolves\n",
+      "tg_msg": 721,
+      "opts_msg": 723
+    },
+    "2026-10-23-4": {
+      "topic": {
+        "title": "How 15 GPS Rocks Solved a Desert Mystery",
+        "angle": "Zack D. Films' true-story Shorts that end in a clean, surprising explanation are pulling strong views this week (e.g. 'How They Filmed An Invisible Man In Snow', 28.4M, breakout 2.11), and this story has a seventy-year mystery with a one-word answer: ice.",
+        "format": "story",
+        "tone": "normal",
+        "virality_score": 7,
+        "trend_source": "mystery-with-a-mechanism shape of How They Filmed An Invisible Man In Snow (Zack D. Films, breakout 2.11); How Electrical Outlets Work (58,949x median)",
+        "plan_id": "P2026-10-23-04"
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-23T20:43:25.226387+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "death valley sailing stones",
+        "title": "How 15 GPS Rocks Solved a Desert Mystery",
+        "hook_text": "NOBODY PUSHED THEM",
+        "thumbnail_text": "ICE DID IT",
+        "description": "This is the true story of how the sailing stones move: the moving rocks of Racetrack Playa in Death Valley. For seventy years nobody knew, until GPS trackers caught thin ice and wind pushing them in 2013.\n\nIn this Short: the mystery trails, the fifteen GPS rocks, the frozen pond, and how ice and a light breeze moved the stones.\n\nThis is a true story.\n\nSources:\nhttps://ucnature.org/mystery-death-valley-sailing-stones-solved/\nhttps://www.snexplores.org/article/solved-mystery-sailing-rocks\nhttps://www.nationalparkstraveler.org/node/9372",
+        "hashtags": [
+          "#shorts",
+          "#truestory",
+          "#deathvalley",
+          "#science",
+          "#storytime"
+        ],
+        "tags": [
+          "death valley sailing stones",
+          "moving rocks death valley",
+          "death valley moving stones",
+          "racetrack playa death valley",
+          "sailing stones",
+          "racetrack playa",
+          "sailing stones moving",
+          "true story",
+          "death valley",
+          "sailing stones explained",
+          "rocks that move by themselves",
+          "how do the sailing stones move",
+          "mystery solved",
+          "nature mysteries"
+        ],
+        "pinned_comment": "Bonus fact: the moving ice panels were only a few millimeters thick, yet they pushed rocks across the mud. What nature mystery would you want explained like this?",
+        "scenes": [
+          {
+            "text": "You'd think rocks can't move by themselves. In Death Valley, they left tracks hundreds of feet long.",
+            "badge": "NOBODY P",
+            "label": "NOBODY PUSHED THEM",
+            "stock_queries": [
+              "rock on cracked desert lakebed with trail",
+              "desert lakebed surrounded by mountains"
+            ],
+            "image_prompt": "Cinematic low angle shot of a dark rock on cracked pale desert mud with a long curving trail behind it, Death Valley Racetrack Playa, bright daylight, photorealistic.",
+            "stock_query": "rock on cracked desert lakebed with trail"
+          },
+          {
+            "text": "Here's the true story of how scientists finally caught them moving. On a dry, flat lakebed called Racetrack Playa, rocks sit at the end of long, wandering trails. Nobody had ever seen one move. Since the nineteen-forties, scientists wondered what pushed them. Wind? Mud? Something stranger?",
+            "badge": "Racetrac",
+            "label": "Racetrack Playa",
+            "stock_queries": [
+              "flat dry desert lakebed cracked mud",
+              "empty desert lakebed at sunrise"
+            ],
+            "image_prompt": "Wide drone view of a flat, dry desert lakebed with symmetrical rock trails crisscrossing the dried mud flats, surrounded by distant mountains.",
+            "stock_query": "flat dry desert lakebed cracked mud"
+          },
+          {
+            "text": "So a team of researchers fitted fifteen rocks with GPS trackers and set up cameras. They thought they might be waiting for years.",
+            "badge": "15 GPS r",
+            "label": "15 GPS rocks",
+            "stock_queries": [
+              "researcher holding small GPS device outdoors",
+              "time-lapse of clouds over desert"
+            ],
+            "image_prompt": "Close-up of a researcher's hands adjusting a small rugged GPS tracking device attached to a weathered desert stone on cracked mud.",
+            "stock_query": "researcher holding small GPS device outdoors"
+          },
+          {
+            "text": "In December twenty-thirteen, rain made a shallow pond there, and it froze overnight. In the sun, the ice cracked into huge panels thinner than a phone.",
+            "badge": "Dec 2013",
+            "label": "Dec 2013: frozen pond",
+            "stock_queries": [
+              "rain falling into shallow desert puddle",
+              "thin sheet of ice cracking on water"
+            ],
+            "image_prompt": "Shallow water on a desert lakebed partially covered by a thin, transparent sheet of ice cracking into geometric panels under bright morning sunlight.",
+            "stock_query": "rain falling into shallow desert puddle"
+          },
+          {
+            "text": "A light breeze pushed the panels, and they shoved the rocks along a few inches per second.",
+            "badge": "Wind + i",
+            "label": "Wind + ice = moving rocks",
+            "stock_queries": [
+              "wind rippling across shallow water ice",
+              "rock at the end of its trail sunset"
+            ],
+            "image_prompt": "A thin sheet of floating ice being pushed by a gentle wind across a shallow desert puddle, sliding a heavy rock across the mud underneath.",
+            "stock_query": "wind rippling across shallow water ice"
+          },
+          {
+            "text": "So the rocks never moved themselves. Thin ice and a light wind did the pushing. Would you have guessed ice, in one of the hottest places on Earth? Because for a long time, everyone just figured",
+            "badge": "Would yo",
+            "label": "Would you guess ice?",
+            "stock_queries": [
+              "heat shimmer over desert road",
+              "rock on cracked desert lakebed trail"
+            ],
+            "image_prompt": "Intense heat shimmer over a vast dry desert salt flat with distant mountains blurred by the rising heat waves.",
+            "stock_query": "heat shimmer over desert road"
+          }
+        ],
+        "key_facts": [
+          "Rocks in Death Valley's Racetrack Playa leave tracks hundreds of feet long without being manually pushed.",
+          "Scientists wondered what caused the movement since the 1940s.",
+          "Researchers fitted fifteen rocks with GPS trackers and cameras.",
+          "In December 2013, rain created a shallow pond that froze overnight.",
+          "The ice cracked into thin panels that were pushed by a light breeze, sliding the rocks a few inches per second.",
+          "Thin ice and wind were proven to be the cause of the moving rocks."
+        ],
+        "format": "story",
+        "tone": "normal",
+        "category": "24",
+        "script": "You'd think rocks can't move by themselves. In Death Valley, they left tracks hundreds of feet long. Here's the true story of how scientists finally caught them moving. On a dry, flat lakebed called Racetrack Playa, rocks sit at the end of long, wandering trails. Nobody had ever seen one move. Since the nineteen-forties, scientists wondered what pushed them. Wind? Mud? Something stranger? So a team of researchers fitted fifteen rocks with GPS trackers and set up cameras. They thought they might be waiting for years. In December twenty-thirteen, rain made a shallow pond there, and it froze overnight. In the sun, the ice cracked into huge panels thinner than a phone. A light breeze pushed the panels, and they shoved the rocks along a few inches per second. So the rocks never moved themselves. Thin ice and a light wind did the pushing. Would you have guessed ice, in one of the hottest places on Earth? Because for a long time, everyone just figured",
+        "plan_id": "P2026-10-23-04",
+        "shot_plan": [
+          {
+            "subject": "rocks with long tracks in a desert",
+            "queries": [
+              {
+                "q": "desert rock tracks",
+                "must": [
+                  "rock"
+                ]
+              },
+              {
+                "q": "rock trail desert",
+                "must": [
+                  "desert"
+                ]
+              },
+              {
+                "q": "moving rocks",
+                "must": [
+                  "stone"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "dry flat lakebed with stones and trails",
+            "queries": [
+              {
+                "q": "dry lakebed",
+                "must": [
+                  "lakebed"
+                ]
+              },
+              {
+                "q": "playa desert",
+                "must": [
+                  "playa"
+                ]
+              },
+              {
+                "q": "desert flats",
+                "must": [
+                  "desert"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "researchers with GPS trackers and cameras in desert",
+            "queries": [
+              {
+                "q": "scientists with GPS equipment",
+                "must": [
+                  "scientist"
+                ]
+              },
+              {
+                "q": "researcher desert tracker",
+                "must": [
+                  "researcher"
+                ]
+              },
+              {
+                "q": "gps tracker device",
+                "must": [
+                  "tracker"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "shallow pond freezing into thin ice panels",
+            "queries": [
+              {
+                "q": "frozen pond ice sheet",
+                "must": [
+                  "ice"
+                ]
+              },
+              {
+                "q": "ice cracked water",
+                "must": [
+                  "pond"
+                ]
+              },
+              {
+                "q": "thin ice sheet",
+                "must": [
+                  "water"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "wind pushing ice panels against rocks",
+            "queries": [
+              {
+                "q": "wind pushing ice sheet",
+                "must": [
+                  "wind"
+                ]
+              },
+              {
+                "q": "ice moving on water",
+                "must": [
+                  "ice"
+                ]
+              },
+              {
+                "q": "frozen lake wind",
+                "must": [
+                  "lake"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "hot desert landscape with rocks and ice melting",
+            "queries": [
+              {
+                "q": "hot desert landscape",
+                "must": [
+                  "desert"
+                ]
+              },
+              {
+                "q": "sun over desert",
+                "must": [
+                  "sun"
+                ]
+              },
+              {
+                "q": "arid landscape",
+                "must": [
+                  "sand"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "desert landscape",
+          "rock trail",
+          "dry lakebed"
+        ],
+        "visual_style": "Cinematic nature documentary footage of desert landscapes, tracking shots of rocks with trails, and scientific experiments in dry lakebeds.",
+        "visual_refs": [
+          "These Rocks Move BY THEMSELVES \ud83d\ude31 (Mystery SOLVED)",
+          "Death Valley&#39;s Moving Rocks Mystery Finally Solved! Scientists Left Speechless",
+          "The Sailing Stones of Death Valley: The Mystery Solved",
+          "How Do 700-Pound Rocks Move Across A Desert By Themselves?",
+          "The Rocks That Cross A Desert Alone - And The Century Nobody Saw It Happen",
+          "The Mystery of the Sailing Stones explained in 77 seconds! #deathvalley #nature"
+        ],
+        "voice": "en-AU-WilliamMultilingualNeural",
+        "visual_report": {
+          "shots": 7,
+          "checked": 7,
+          "unchecked": 0,
+          "filler": 4,
+          "ai": 0
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-AU-WilliamMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-316/; Arystan_001 (Pixabay) https://pixabay.com/videos/id-215026/",
+        "Romain Guy from San Francisco, USA / Wikimedia Commons (CC0) https://commons.wikimedia.org/wiki/File:Sailing_Stone_(3979385396).jpg"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-23",
+        "name": "2026-10-23-4-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-23",
+        "name": "2026-10-23-4-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,050 --> 00:00:02,638\nYou'd think rocks can't move by themselves\n\n2\n00:00:02,638 --> 00:00:04,875\nIn Death Valley they left tracks hundreds\n\n3\n00:00:04,875 --> 00:00:07,062\nof feet long Here's the true story\n\n4\n00:00:07,062 --> 00:00:09,713\nof how scientists finally caught them moving\n\n5\n00:00:09,713 --> 00:00:12,175\nOn a dry flat lakebed called Racetrack\n\n6\n00:00:12,175 --> 00:00:14,025\nPlaya rocks sit at the end of\n\n7\n00:00:14,025 --> 00:00:17,500\nlong wandering trails Nobody had ever seen\n\n8\n00:00:17,500 --> 00:00:20,900\none move Since the nineteen-forties scientists\n\n9\n00:00:20,900 --> 00:00:24,887\nwondered what pushed them Wind Mud Something\n\n10\n00:00:24,887 --> 00:00:27,438\nstranger So a team of researchers fitted\n\n11\n00:00:27,438 --> 00:00:29,750\nfifteen rocks with GPS trackers and set\n\n12\n00:00:29,750 --> 00:00:31,812\nup cameras They thought they might be\n\n13\n00:00:31,812 --> 00:00:34,800\nwaiting for years In December twenty-thirteen\n\n14\n00:00:34,800 --> 00:00:36,638\nrain made a shallow pond there and\n\n15\n00:00:36,638 --> 00:00:39,275\nit froze overnight In the sun the\n\n16\n00:00:39,275 --> 00:00:41,312\nice cracked into huge panels thinner than\n\n17\n00:00:41,312 --> 00:00:43,337\na phone A light breeze pushed the\n\n18\n00:00:43,337 --> 00:00:45,362\npanels and they shoved the rocks along\n\n19\n00:00:45,362 --> 00:00:47,337\na few inches per second So the\n\n20\n00:00:47,337 --> 00:00:50,125\nrocks never moved themselves Thin ice and\n\n21\n00:00:50,125 --> 00:00:52,250\na light wind did the pushing Would\n\n22\n00:00:52,250 --> 00:00:54,025\nyou have guessed ice in one of\n\n23\n00:00:54,025 --> 00:00:56,188\nthe hottest places on Earth Because for\n\n24\n00:00:56,188 --> 00:00:58,788\na long time everyone just figured\n",
+      "tg_msg": 724,
+      "opts_msg": 726
     }
   },
   "history": [
-    "Top 5 Weirdest Ways Animals Sleep \ud83d\ude34",
-    "The Great Rubber Duck Escape of 1992 \ud83e\udd86",
-    "3 School Facts That Are Actually False",
-    "5 Peppers That Make Jalape\u00f1os Look Mild",
     "Top 5 Funniest Real Sports on Earth",
     "The Cave Found by 4 Teenagers in 1940",
     "A Cloud vs 100 Elephants: Which Is Heavier?",
@@ -11881,7 +13111,11 @@
     "How A Click Pen Works in 2 Clicks",
     "30 Cats vs a Square Made of Nothing \ud83d\ude02",
     "Top 5 Hottest Planets (#1 Isn't Closest)",
-    "This 1 kg Ball Is the Roundest Ever Made"
+    "This 1 kg Ball Is the Roundest Ever Made",
+    "How Archimedes' Screw Works (2,200 Years Old)",
+    "Top 5 Fastest Animals (#1 Isn't on Land)",
+    "Top 5 Funniest Animal Group Names \ud83d\ude02",
+    "How 15 GPS Rocks Solved a Desert Mystery"
   ],
   "trend_tries": {
     "2026-10-21": {
@@ -11899,14 +13133,14 @@
   },
   "cleanup_day": "2026-10-23",
   "recent_voices": [
-    "en-AU-WilliamMultilingualNeural",
     "en-US-EmmaMultilingualNeural",
+    "en-US-AvaMultilingualNeural",
     "en-US-AndrewMultilingualNeural",
-    "en-AU-WilliamMultilingualNeural",
-    "en-US-EmmaMultilingualNeural"
+    "en-US-EmmaMultilingualNeural",
+    "en-AU-WilliamMultilingualNeural"
   ],
   "visual_searches": {
-    "2026-10-22": 3
+    "2026-10-23": 3
   },
   "signals_day": "2026-10-23"
 }
