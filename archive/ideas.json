@@ -1946,5 +1946,78 @@
   ],
   "sent_at": "2026-10-22T18:38:00.852932+00:00",
   "status": "closed"
+ },
+ "2026-10-23": {
+  "date": "2026-10-23",
+  "ideas": [
+   {
+    "angle": "Zack D. Films' 'How Electrical Outlets Work' is pulling about 238,769 views per hour (52.5M views in 5 days, breakout 4.35, and 58,949x the median in today's viral signals via a 3D-animation copycat), and 'How Plato's Alarm Clock Worked' (30,404 views/h) shows the ancient-invention version of the same see-inside 'How X Works' shape.",
+    "format": "animated",
+    "picked": false,
+    "rank": 1,
+    "title": "How Archimedes' Screw Works (2,200 Years Old)",
+    "trend_source": "title shape of How Electrical Outlets Work (238,769 views/h); also How Plato's Alarm Clock Worked (30,404 views/h)",
+    "video_id": null,
+    "virality_score": 8,
+    "why": ""
+   },
+   {
+    "angle": "Today's top outliers are all one-question, one-payoff curiosity ('How Electrical Outlets Work', 58,949x its channel median), and a 'fastest animal' countdown answers a question people already ask, with a surprise twist at number one.",
+    "format": "ranking",
+    "picked": false,
+    "rank": 2,
+    "title": "Top 5 Fastest Animals (#1 Isn't on Land)",
+    "trend_source": "How Electrical Outlets Work (58,949x median, The Question); superlative-plus-twist shape of 'Could You Move Mount Everest To America?' (Zack D. Films, breakout 2.11)",
+    "video_id": null,
+    "virality_score": 8,
+    "why": ""
+   },
+   {
+    "angle": "Today's breakout titles lean on one surprising answer to a simple question ('How Electrical Outlets Work', 58,949x median), and a funny countdown of real-but-fake-sounding names gives five of those surprises in thirty seconds, family-friendly.",
+    "format": "funny",
+    "picked": false,
+    "rank": 3,
+    "title": "Top 5 Funniest Animal Group Names 😂",
+    "trend_source": "How Electrical Outlets Work (58,949x median, The Question); 'I NEED TO WIN' (233.6x median, comedy)",
+    "video_id": null,
+    "virality_score": 7,
+    "why": ""
+   },
+   {
+    "angle": "Zack D. Films' true-story Shorts that end in a clean, surprising explanation are pulling strong views this week (e.g. 'How They Filmed An Invisible Man In Snow', 28.4M, breakout 2.11), and this story has a seventy-year mystery with a one-word answer: ice.",
+    "format": "story",
+    "picked": false,
+    "rank": 4,
+    "title": "How 15 GPS Rocks Solved a Desert Mystery",
+    "trend_source": "mystery-with-a-mechanism shape of How They Filmed An Invisible Man In Snow (Zack D. Films, breakout 2.11); How Electrical Outlets Work (58,949x median)",
+    "video_id": null,
+    "virality_score": 7,
+    "why": ""
+   },
+   {
+    "angle": "Zack D. Films' practical how-to Shorts are pulling big search-style numbers this week ('How To Get Water Out Of Your Ear', 35.9M, breakout 2.52), and a stripped screw is a problem people search for the moment it happens.",
+    "format": "tips",
+    "picked": false,
+    "rank": 5,
+    "title": "How to Remove a Stripped Screw: 3 Tricks",
+    "trend_source": "practical how-to shape of How To Get Water Out Of Your Ear (Zack D. Films, breakout 2.52, 18,848 views/h)",
+    "video_id": null,
+    "virality_score": 6,
+    "why": ""
+   },
+   {
+    "angle": "Counting down five bizarre biological traits in nature that sound entirely made up but are 100% real.",
+    "format": "ranking",
+    "picked": false,
+    "rank": 6,
+    "title": "Top 5 Weirdest Animal Superpowers",
+    "trend_source": "evergreen",
+    "video_id": null,
+    "virality_score": 9,
+    "why": "Fascinating science facts capture attention within the first two seconds and hold retention until the final reveal."
+   }
+  ],
+  "sent_at": "2026-10-23T16:31:33.594095+00:00",
+  "status": "waiting"
  }
 }
