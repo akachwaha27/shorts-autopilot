@@ -302,8 +302,13 @@
         }
       ],
       "sent_at": "2026-10-24T15:00:25.070050+00:00",
-      "selected": [],
-      "status": "waiting"
+      "selected": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "status": "closed"
     },
     "2026-10-24-2": {
       "topics": [
@@ -11595,13 +11600,1236 @@
       "opts_msg": 726,
       "approved_by": "auto",
       "quota_note": "2026-10-24"
+    },
+    "2026-10-24-1": {
+      "topic": {
+        "title": "How Zippers Work in 2 Moves",
+        "angle": "Zack D. Films' 'How Pencil Sharpeners Work' is pulling about 212,250 views per hour a day after upload (breakout 0.94), and 'How Electrical Outlets Work' about 151,941 views/h at 57M views, so the see-inside 'How [everyday object] Works' shape is this week's winner.",
+        "format": "animated",
+        "tone": "normal",
+        "virality_score": 8,
+        "trend_source": "title shape of How Pencil Sharpeners Work (212,250 views/h); also How Electrical Outlets Work (151,941 views/h)",
+        "plan_id": "P2026-10-24-01"
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-24T18:04:53.198691+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "how zippers work",
+        "title": "How Zippers Work in 2 Moves",
+        "hook_text": "ONE SECRET TUNNEL",
+        "thumbnail_text": "TINY Y TUNNEL",
+        "description": "How does a zipper work? Here's how zippers work, step by step inside the slider. A zipper slider has a Y-shaped tunnel that squeezes two rows of teeth together so every bump locks into a hollow, then a wedge pries them apart when you pull it down.\n\nIn this Short: the bump-and-hollow shape of zipper teeth, how the slider's Y-shaped tunnel locks them, why a closed zipper won't split sideways, and how the wedge unzips it.\n\nSources:\nhttps://en.wikipedia.org/wiki/Zipper\nhttps://blog.ncf-india.org/saw/zippers-how-do-they-work",
+        "hashtags": [
+          "#shorts",
+          "#howitworks",
+          "#zipper",
+          "#3danimation"
+        ],
+        "tags": [
+          "how zippers work",
+          "zipper",
+          "zipper slider",
+          "zip",
+          "zipper teeth",
+          "3d animation explained",
+          "everyday objects explained",
+          "zipper repair",
+          "inside a zipper",
+          "how things work",
+          "gideon sundback",
+          "zipper mechanism"
+        ],
+        "pinned_comment": "Bonus fact: the name \"zipper\" came from B.F. Goodrich in 1923, which used it on rubber boots. Has a zipper ever split on you right in the middle?",
+        "scenes": [
+          {
+            "text": "You zip your jacket every day, but do you know what's happening inside that tiny slider?",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "zipper slider macro",
+              "jacket zipper close up"
+            ],
+            "image_prompt": "3D animated close-up of a bright blue jacket zipper with a shiny silver slider halfway up, a cartoon hand pinching the pull tab, slow camera push-in toward the slider",
+            "shot": "3D animated close-up of a bright blue jacket zipper with a shiny silver slider halfway up, a cartoon hand pinching the pull tab, slow camera push-in toward the slider",
+            "stock_query": "zipper slider macro"
+          },
+          {
+            "text": "Each tooth has a bump on top, a hollow underneath.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "zipper teeth bump",
+              "zipper teeth macro"
+            ],
+            "image_prompt": "3D animated macro of the same two rows of silver teeth lying apart on blue fabric, camera orbiting one tooth to show the round bump on its top and the matching hollow on its underside",
+            "shot": "3D animated macro of the same two rows of silver teeth lying apart on blue fabric, camera orbiting one tooth to show the round bump on its top and the matching hollow on its underside",
+            "stock_query": "zipper teeth bump"
+          },
+          {
+            "text": "Pull up, and a Y-shaped tunnel squeezes both rows together.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "zipper inside tunnel",
+              "zipper mechanism animation"
+            ],
+            "image_prompt": "3D animated cutaway of the same silver slider turning see-through to reveal a Y-shaped tunnel inside, the two open rows of teeth feeding into the two arms of the Y as the slider moves up, camera locked from above",
+            "shot": "3D animated cutaway of the same silver slider turning see-through to reveal a Y-shaped tunnel inside, the two open rows of teeth feeding into the two arms of the Y as the slider moves up, camera locked from above",
+            "stock_query": "zipper inside tunnel"
+          },
+          {
+            "text": "The teeth meet tilted, so each bump slips past.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "zipper teeth cross section",
+              "zipper teeth slow motion"
+            ],
+            "image_prompt": "3D animated cross-section inside the same slider: two teeth from opposite rows enter tilted at an angle, one tooth's bump sliding past the edge of the tooth beside it, slow motion",
+            "shot": "3D animated cross-section inside the same slider: two teeth from opposite rows enter tilted at an angle, one tooth's bump sliding past the edge of the tooth beside it, slow motion",
+            "stock_query": "zipper teeth cross section"
+          },
+          {
+            "text": "Then they straighten, and every bump snaps into a hollow.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "zipper teeth locking",
+              "zipper click animation"
+            ],
+            "image_prompt": "3D animated cross-section of the same teeth reaching the straight bottom of the Y tunnel: they flatten into a line and each bump clicks into the hollow of the next tooth, small spark of light at each click",
+            "shot": "3D animated cross-section of the same teeth reaching the straight bottom of the Y tunnel: they flatten into a line and each bump clicks into the hollow of the next tooth, small spark of light at each click",
+            "stock_query": "zipper teeth locking"
+          },
+          {
+            "text": "Now it's one locked chain.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "closed zipper chain",
+              "zipper pull test"
+            ],
+            "image_prompt": "3D animated wide shot of the same closed zipper: a single interlocked chain of teeth, two cartoon hands tug the fabric sideways and the chain holds firm, camera pulling back",
+            "shot": "3D animated wide shot of the same closed zipper: a single interlocked chain of teeth, two cartoon hands tug the fabric sideways and the chain holds firm, camera pulling back",
+            "stock_query": "closed zipper chain"
+          },
+          {
+            "text": "Pull down, and a tiny wedge tilts them apart.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "zipper wedge mechanism",
+              "unzipping animation"
+            ],
+            "image_prompt": "3D animated cutaway of the same slider moving down: a small triangle-shaped wedge in the middle of the Y pushes between the locked teeth and tilts them back to an angle, camera tracking down",
+            "shot": "3D animated cutaway of the same slider moving down: a small triangle-shaped wedge in the middle of the Y pushes between the locked teeth and tilts them back to an angle, camera tracking down",
+            "stock_query": "zipper wedge mechanism"
+          },
+          {
+            "text": "The bumps pop free, one by one.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "zipper teeth separating",
+              "zipper macro unzipping"
+            ],
+            "image_prompt": "3D animated macro of the same row of teeth separating one after another as the slider passes, each bump popping out of its hollow with a tiny bounce, camera gliding alongside",
+            "shot": "3D animated macro of the same row of teeth separating one after another as the slider passes, each bump popping out of its hollow with a tiny bounce, camera gliding alongside",
+            "stock_query": "zipper teeth separating"
+          },
+          {
+            "text": "The trick is the slider, hidden every time",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "zipper slider closeup",
+              "jacket zipper pull"
+            ],
+            "image_prompt": "3D animated close-up dissolving from the see-through slider back to the shiny silver slider on the blue jacket, pull tab swinging gently, slow push-in",
+            "shot": "3D animated close-up dissolving from the see-through slider back to the shiny silver slider on the blue jacket, pull tab swinging gently, slow push-in",
+            "stock_query": "zipper slider closeup"
+          }
+        ],
+        "key_facts": [
+          "Each zipper tooth has a bump on top and a hollow underneath.",
+          "A zipper slider features a Y-shaped tunnel that squeezes the two rows of teeth together.",
+          "Teeth enter tilted so bumps slip past each other before straightening and locking into place.",
+          "Pulling the slider down engages a small wedge that tilts the teeth apart and releases the bumps."
+        ],
+        "visual_bible": "A clean, bright 3D animated style featuring a vibrant blue fabric jacket, shiny metallic silver teeth and sliders, and smooth macro camera movements with clean lighting.",
+        "format": "animated",
+        "tone": "normal",
+        "category": "27",
+        "script": "You zip your jacket every day, but do you know what's happening inside that tiny slider? Each tooth has a bump on top, a hollow underneath. Pull up, and a Y-shaped tunnel squeezes both rows together. The teeth meet tilted, so each bump slips past. Then they straighten, and every bump snaps into a hollow. Now it's one locked chain. Pull down, and a tiny wedge tilts them apart. The bumps pop free, one by one. The trick is the slider, hidden every time",
+        "plan_id": "P2026-10-24-01",
+        "voice": "gTTS",
+        "animated_estimate": 0.63,
+        "visual_report": {
+          "shots": 9,
+          "checked": 8,
+          "unchecked": 0,
+          "filler": 7,
+          "ai": 0
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Google Text-to-Speech).",
+        "Stock footage/photos (Pexels/Pixabay Content License): bbAAER (Pixabay) https://pixabay.com/photos/zipper-macro-close-up-closure-1060990/; ugac (Pixabay) https://pixabay.com/videos/id-15216/"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-24",
+        "name": "2026-10-24-1-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-24",
+        "name": "2026-10-24-1-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,150 --> 00:00:02,808\nYou zip your jacket every day, but\n\n2\n00:00:02,808 --> 00:00:05,845\ndo you know what's happening inside that\n\n3\n00:00:05,845 --> 00:00:06,794\ntiny slider?\n\n4\n00:00:06,794 --> 00:00:09,136\nEach tooth has a bump on top,\n\n5\n00:00:09,136 --> 00:00:10,654\na hollow underneath.\n\n6\n00:00:10,654 --> 00:00:13,628\nPull up, and a Y-shaped tunnel squeezes\n\n7\n00:00:13,628 --> 00:00:15,084\nboth rows together.\n\n8\n00:00:15,084 --> 00:00:17,805\nThe teeth meet tilted, so each bump\n\n9\n00:00:17,805 --> 00:00:18,691\nslips past.\n\n10\n00:00:18,691 --> 00:00:21,855\nThen they straighten, and every bump snaps\n\n11\n00:00:21,855 --> 00:00:22,994\ninto a hollow.\n\n12\n00:00:22,994 --> 00:00:25,019\nNow it's one locked chain.\n\n13\n00:00:25,019 --> 00:00:27,613\nPull down, and a tiny wedge tilts\n\n14\n00:00:27,613 --> 00:00:28,499\nthem apart.\n\n15\n00:00:28,499 --> 00:00:30,967\nThe bumps pop free, one by one.\n\n16\n00:00:30,967 --> 00:00:33,814\nThe trick is the slider, hidden every\n\n17\n00:00:33,814 --> 00:00:34,556\ntime\n",
+      "tg_msg": 755,
+      "opts_msg": 757
+    },
+    "2026-10-24-2": {
+      "topic": {
+        "title": "Top 5 Tiniest Animals (#1 Is a Frog)",
+        "angle": "Superlative animal countdowns keep working for Zorbly, and Zack D. Films' 'How Banana Slugs Glide Across Razor Blades' (337,527 views/h, the week's fastest) shows tiny-creature curiosity is hot right now, with a twist at number one.",
+        "format": "ranking",
+        "tone": "normal",
+        "virality_score": 7,
+        "trend_source": "How Banana Slugs Glide Across Razor Blades (Zack D. Films, 337,527 views/h); superlative-plus-twist shape of 'Top 5 Fastest Animals (#1 Isn't on Land)'",
+        "plan_id": "P2026-10-24-02"
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-24T18:14:02.986239+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "smallest animal in the world",
+        "title": "Top 5 Tiniest Animals (#1 Is a Frog)",
+        "hook_text": "SMALLEST ONE WINS",
+        "thumbnail_text": "PEA-SIZED?",
+        "description": "These are the top 5 tiniest animals with backbones, counted down by size. The smallest animal in the world with a backbone is the Brazilian flea toad, a frog only about seven millimeters long.\n\nIn this Short: the bee hummingbird, the bumblebee bat, the nano chameleon, Paedophryne amauensis and the Brazilian flea toad, from smallest bird to smallest vertebrate.\n\nSources:\nhttps://www.smithsonianmag.com/smart-news/the-worlds-smallest-vertebrate-is-a-tiny-brazilian-frog-study-finds-180983867/\nhttps://www.motherjones.com/environment/2024/02/worlds-smallest-creatures-organisms/\nhttps://www.guinnessworldrecords.com/world-records/767624-smallest-species-of-frog",
+        "hashtags": [
+          "#shorts",
+          "#animals",
+          "#smallestanimal",
+          "#top5"
+        ],
+        "tags": [
+          "smallest animal in the world",
+          "tiniest animals",
+          "top 5 smallest animals in the world",
+          "tiniest animal in the world",
+          "smallest vertebrate in the world",
+          "brazilian flea toad",
+          "tiniest frog",
+          "tiny animals",
+          "smallest animal on earth",
+          "bumblebee bat",
+          "smallest bird",
+          "nano chameleon",
+          "bee hummingbird",
+          "smallest vertebrate",
+          "paedophryne amauensis",
+          "top 5 smallest animals",
+          "smallest frog",
+          "brookesia nana",
+          "smallest mammal",
+          "smallest animals",
+          "brachycephalus pulex"
+        ],
+        "pinned_comment": "Bonus fact: the bumblebee bat and the Etruscan shrew keep trading the title of smallest mammal, depending on whether you measure length or weight. Which tiny animal surprised you most?",
+        "scenes": [
+          {
+            "text": "The smallest animal with a backbone could sit on a pea, and you'd almost never spot it. Which is it? Here are the five tiniest animals with backbones.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "tiny frog on fingertip",
+              "green pea close up"
+            ],
+            "image_prompt": "Macro shot of a tiny brown frog sitting on top of a single green pea, fingertip in corner for scale, dark green background.",
+            "stock_query": "tiny frog on fingertip"
+          },
+          {
+            "text": "Number five, the bee hummingbird from Cuba. It's the smallest bird alive, about two inches long and as light as a paperclip.",
+            "badge": "#5",
+            "label": "Bee hummingbird",
+            "stock_queries": [
+              "bee hummingbird hovering flower",
+              "small bird on branch"
+            ],
+            "image_prompt": "Tiny bee hummingbird hovering near a vibrant tropical flower, macro photography, shallow depth of field.",
+            "stock_query": "bee hummingbird hovering flower"
+          },
+          {
+            "text": "Number four, the bumblebee bat. Its body is barely over an inch long, and it weighs about two grams.",
+            "badge": "#4",
+            "label": "Bumblebee bat",
+            "stock_queries": [
+              "bumblebee bat hanging",
+              "tiny bat macro"
+            ],
+            "image_prompt": "Macro shot of a tiny bumblebee bat resting on a dark cave wall, highly detailed fur texture.",
+            "stock_query": "bumblebee bat hanging"
+          },
+          {
+            "text": "Number three, the nano chameleon from Madagascar. A grown male is under an inch long, tail included.",
+            "badge": "#3",
+            "label": "Nano chameleon",
+            "stock_queries": [
+              "nano chameleon on leaf",
+              "tiny chameleon macro"
+            ],
+            "image_prompt": "Extremely tiny nano chameleon perched on the edge of a green leaf, macro shot, natural lighting.",
+            "stock_query": "nano chameleon on leaf"
+          },
+          {
+            "text": "Number two, a frog from Papua New Guinea called Paedophryne amauensis. It's about seven point seven millimeters long.",
+            "badge": "#2",
+            "label": "Paedophryne frog",
+            "stock_queries": [
+              "tiny brown frog on leaf",
+              "frog on coin macro"
+            ],
+            "image_prompt": "Tiny brown Paedophryne amauensis frog sitting on a green leaf litter, macro shot.",
+            "stock_query": "tiny brown frog on leaf"
+          },
+          {
+            "text": "Number one, the Brazilian flea toad. Scientists measured the males at about seven millimeters on average, the smallest known vertebrate.",
+            "badge": "#1",
+            "label": "Brazilian flea toad",
+            "stock_queries": [
+              "tiny frog macro",
+              "small amphibian rainforest"
+            ],
+            "image_prompt": "Tiny Brazilian flea toad on forest floor, macro photography, extreme close-up showing tiny scale.",
+            "stock_query": "tiny frog macro"
+          },
+          {
+            "text": "So the tiniest one isn't a bird or a bat. It's a frog the size of a flea. Which of these tiny animals would you want to see up close? Just don't put it down, because",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "magnifying glass leaf",
+              "rainforest macro shot"
+            ],
+            "image_prompt": "Person looking through a magnifying glass at a tiny creature on a leaf in a rainforest.",
+            "stock_query": "magnifying glass leaf"
+          }
+        ],
+        "key_facts": [
+          "The smallest animal with a backbone could sit on a pea.",
+          "Bee hummingbird is the smallest bird alive, about 2 inches long and as light as a paperclip.",
+          "Bumblebee bat body is barely over an inch long and weighs about 2 grams.",
+          "Nano chameleon from Madagascar has a grown male under an inch long, tail included.",
+          "Paedophryne amauensis frog from Papua New Guinea is about 7.7 millimeters long.",
+          "Brazilian flea toad males measure about 7 millimeters on average, making it the smallest known vertebrate."
+        ],
+        "format": "ranking",
+        "tone": "normal",
+        "category": "27",
+        "script": "The smallest animal with a backbone could sit on a pea, and you'd almost never spot it. Which is it? Here are the five tiniest animals with backbones. Number five, the bee hummingbird from Cuba. It's the smallest bird alive, about two inches long and as light as a paperclip. Number four, the bumblebee bat. Its body is barely over an inch long, and it weighs about two grams. Number three, the nano chameleon from Madagascar. A grown male is under an inch long, tail included. Number two, a frog from Papua New Guinea called Paedophryne amauensis. It's about seven point seven millimeters long. Number one, the Brazilian flea toad. Scientists measured the males at about seven millimeters on average, the smallest known vertebrate. So the tiniest one isn't a bird or a bat. It's a frog the size of a flea. Which of these tiny animals would you want to see up close? Just don't put it down, because",
+        "plan_id": "P2026-10-24-02",
+        "shot_plan": [
+          {
+            "subject": "vertebrate animal wildlife",
+            "queries": [
+              {
+                "q": "small vertebrate",
+                "must": [
+                  "vertebrate"
+                ]
+              },
+              {
+                "q": "tiny animal",
+                "must": [
+                  "animal"
+                ]
+              },
+              {
+                "q": "wildlife macro",
+                "must": [
+                  "macro"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "bee hummingbird",
+            "queries": [
+              {
+                "q": "bee hummingbird",
+                "must": [
+                  "hummingbird"
+                ]
+              },
+              {
+                "q": "tiny bird",
+                "must": [
+                  "bird"
+                ]
+              },
+              {
+                "q": "small bird",
+                "must": [
+                  "bird"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "bumblebee bat",
+            "queries": [
+              {
+                "q": "bumblebee bat",
+                "must": [
+                  "bat"
+                ]
+              },
+              {
+                "q": "tiny bat",
+                "must": [
+                  "bat"
+                ]
+              },
+              {
+                "q": "small bat",
+                "must": [
+                  "bat"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "nano chameleon",
+            "queries": [
+              {
+                "q": "nano chameleon",
+                "must": [
+                  "chameleon"
+                ]
+              },
+              {
+                "q": "tiny chameleon",
+                "must": [
+                  "chameleon"
+                ]
+              },
+              {
+                "q": "small lizard",
+                "must": [
+                  "lizard"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "tiny frog",
+            "queries": [
+              {
+                "q": "paedophryne amauensis frog",
+                "must": [
+                  "frog"
+                ]
+              },
+              {
+                "q": "tiny frog",
+                "must": [
+                  "frog"
+                ]
+              },
+              {
+                "q": "small frog",
+                "must": [
+                  "frog"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "brazilian flea toad",
+            "queries": [
+              {
+                "q": "flea toad",
+                "must": [
+                  "toad"
+                ]
+              },
+              {
+                "q": "tiny toad",
+                "must": [
+                  "toad"
+                ]
+              },
+              {
+                "q": "small amphibian",
+                "must": [
+                  "amphibian"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "tiny frog on hand",
+            "queries": [
+              {
+                "q": "tiny frog",
+                "must": [
+                  "frog"
+                ]
+              },
+              {
+                "q": "small frog",
+                "must": [
+                  "frog"
+                ]
+              },
+              {
+                "q": "amphibian macro",
+                "must": [
+                  "amphibian"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "tiny animal macro",
+          "microscopic wildlife",
+          "small creature close up"
+        ],
+        "visual_style": "Fast-paced macro wildlife countdowns featuring extreme close-ups of tiny animals with comparison size references.",
+        "visual_refs": [
+          "\ud83d\ude31\ud83e\udd0fTop 5 tiniest animals in the world |You won&#39;t believe#1\ud83d\udc1c#animals#animal#wildlife#viral",
+          "Top 10 smallest animals in the world",
+          "Top 5 Smallest Animals Ever Discovered (You Won\u2019t Believe #1)",
+          "Top 5 Smallest Animals in the World \ud83e\udd0f\ud83d\udc3e (#1 Is Tiny Beyond Belief!)",
+          "Top 10 Smallest Animals in the Tropics!",
+          "The Top 10 Smallest Animals on Earth! #smallestanimals"
+        ],
+        "voice": "en-US-AvaMultilingualNeural",
+        "visual_report": {
+          "shots": 10,
+          "checked": 10,
+          "unchecked": 0,
+          "filler": 1,
+          "ai": 0
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AvaMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): InspiredImages (Pixabay) https://pixabay.com/videos/id-2832/; NickyPe (Pixabay) https://pixabay.com/videos/id-190183/; InspiredImages (Pixabay) https://pixabay.com/videos/id-3779/; Afzaal0001 (Pixabay) https://pixabay.com/videos/id-215937/; RoyBuri (Pixabay) https://pixabay.com/videos/id-111290/; Vilkasss (Pixabay) https://pixabay.com/photos/toadlet-pumpkin-frog-brachycephalus-10148723/; Vilkasss (Pixabay) https://pixabay.com/photos/toadlet-frog-pumpkin-brachycephalus-10148721/; MoonpetalMedia (Pixabay) https://pixabay.com/videos/id-346869/",
+        "Mnalis / Wikimedia Commons (CC BY 4.0) https://commons.wikimedia.org/wiki/File:Tiny_frog_on_Prvi%C4%87.jpg"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-24",
+        "name": "2026-10-24-2-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-24",
+        "name": "2026-10-24-2-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,100 --> 00:00:02,062\nThe smallest animal with a backbone could\n\n2\n00:00:02,062 --> 00:00:03,900\nsit on a pea and you'd almost\n\n3\n00:00:03,900 --> 00:00:06,275\nnever spot it Which is it Here\n\n4\n00:00:06,275 --> 00:00:09,400\nare the five tiniest animals with backbones\n\n5\n00:00:09,400 --> 00:00:12,550\nNumber five the bee hummingbird from Cuba\n\n6\n00:00:12,550 --> 00:00:15,000\nIt's the smallest bird alive about two\n\n7\n00:00:15,000 --> 00:00:16,988\ninches long and as light as a\n\n8\n00:00:16,988 --> 00:00:20,512\npaperclip Number four the bumblebee bat Its\n\n9\n00:00:20,512 --> 00:00:22,800\nbody is barely over an inch long\n\n10\n00:00:22,800 --> 00:00:25,350\nand it weighs about two grams Number\n\n11\n00:00:25,350 --> 00:00:28,988\nthree the nano chameleon from Madagascar A\n\n12\n00:00:28,988 --> 00:00:31,413\ngrown male is under an inch long\n\n13\n00:00:31,413 --> 00:00:34,300\ntail included Number two a frog from\n\n14\n00:00:34,300 --> 00:00:37,800\nPapua New Guinea called Paedophryne amauensis\n\n15\n00:00:37,800 --> 00:00:40,763\nIt's about seven point seven millimeters long\n\n16\n00:00:40,763 --> 00:00:43,962\nNumber one the Brazilian flea toad Scientists\n\n17\n00:00:43,962 --> 00:00:46,212\nmeasured the males at about seven millimeters\n\n18\n00:00:46,212 --> 00:00:49,413\non average the smallest known vertebrate So\n\n19\n00:00:49,413 --> 00:00:51,712\nthe tiniest one isn't a bird or\n\n20\n00:00:51,712 --> 00:00:53,725\na bat It's a frog the size\n\n21\n00:00:53,725 --> 00:00:55,788\nof a flea Which of these tiny\n\n22\n00:00:55,788 --> 00:00:57,062\nanimals would you want to see up\n\n23\n00:00:57,062 --> 00:01:00,112\nclose Just don't put it down because\n",
+      "tg_msg": 758,
+      "opts_msg": 760
+    },
+    "2026-10-24-3": {
+      "topic": {
+        "title": "Why Your Dog Tilts Its Head: 1 Study",
+        "angle": "Zack D. Films' 'Why Cats Rub Against Your Laptop' (14.2M views, breakout 1.27) shows the 'Why your pet does X' question pulls big numbers, and today's top outliers (269x, 47.6x) are all kind, light family comedy.",
+        "format": "funny",
+        "tone": "funny",
+        "virality_score": 8,
+        "trend_source": "Why Cats Rub Against Your Laptop (Zack D. Films, breakout 1.27); light family-comedy outliers in today's viral signals (Tonga tonga, 47.6x)",
+        "plan_id": "P2026-10-24-03"
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-24T18:26:44.125138+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "why your dog tilts its head",
+        "title": "Why Dogs Tilt Their Heads, According to Science",
+        "hook_text": "SCIENCE OF CUTE",
+        "thumbnail_text": "LOADING...",
+        "description": "Why do dogs tilt their heads when you talk? A 2021 study of forty dogs found genius word-learning dogs tilt their heads far more often when you say a toy's name.\n\nIn this Short: the Hungarian study, genius border collies vs regular dogs, the 43 percent vs 2 percent result, and why each dog has a favorite tilt side.\n\nSources:\nhttps://www.discovermagazine.com/why-do-dogs-tilt-their-heads-to-one-side-44903\nhttps://ttkold.elte.hu/en/content/talk-to-tilt-head-tilting-in-dogs.t.5018",
+        "hashtags": [
+          "#shorts",
+          "#dogs",
+          "#funnydogs",
+          "#dogfacts",
+          "#funny"
+        ],
+        "tags": [
+          "why your dog tilts its head",
+          "why dogs tilt their head",
+          "why does my dog tilt head when i talk to him",
+          "what does it mean when your dog tilts its head",
+          "dog tilting head",
+          "dog tilting head meaning",
+          "dogs tilt heads when you talk",
+          "dog head tilt study",
+          "border collie toy names",
+          "gifted word learner dogs",
+          "family dog project",
+          "dog facts",
+          "funny dogs",
+          "smart dogs"
+        ],
+        "pinned_comment": "Bonus fact: some of these genius dogs were found through a livestreamed Genius Dog Challenge. Does your dog know any toys by name? Which ones?",
+        "scenes": [
+          {
+            "text": "Why does your dog tilt its head when you talk? A 2021 study tested forty dogs to find out. Here's what scientists in Hungary saw.",
+            "badge": "THE HEAD",
+            "label": "Hungary, 2021",
+            "stock_queries": [
+              "dog tilting head camera",
+              "dog listening to owner"
+            ],
+            "image_prompt": "Close-up of a fluffy dog tilting its head quizzically at the camera with a curious expression.",
+            "stock_query": "dog tilting head camera"
+          },
+          {
+            "text": "Seven of the dogs were genius border collies that knew the names of at least ten toys. The other thirty-three were regular, lovable, slightly confused dogs.",
+            "badge": "GENIUS D",
+            "label": "7 genius dogs",
+            "stock_queries": [
+              "border collie with toys",
+              "happy dogs playing"
+            ],
+            "image_prompt": "A smart border collie sitting next to a pile of various colorful dog toys.",
+            "stock_query": "border collie with toys"
+          },
+          {
+            "text": "The owners asked for a toy by name, like \"Bring the rope!\" But the toys were in another room, so nobody could just look around.",
+            "badge": "THE TEST",
+            "label": "\"Bring the rope!\"",
+            "stock_queries": [
+              "owner holding rope toy",
+              "empty hallway in house"
+            ],
+            "image_prompt": "An owner holding a rope toy while a dog watches intently, waiting for a command.",
+            "stock_query": "owner holding rope toy"
+          },
+          {
+            "text": "The genius dogs tilted their heads forty-three percent of the time. The regular dogs? About two percent.",
+            "badge": "THE RESU",
+            "label": "Genius: 43%",
+            "stock_queries": [
+              "border collie tilting head",
+              "dog looking confused"
+            ],
+            "image_prompt": "A border collie tilting its head thoughtfully in slow motion while listening.",
+            "stock_query": "border collie tilting head"
+          },
+          {
+            "text": "And each dog kept tilting to its own favorite side, even two years later.",
+            "badge": "FAVORITE",
+            "label": "Same side, 2 years later",
+            "stock_queries": [
+              "dog tilting head close up",
+              "two dogs head tilt"
+            ],
+            "image_prompt": "A close-up of a dog tilting its head consistently to one preferred side.",
+            "stock_query": "dog tilting head close up"
+          },
+          {
+            "text": "So scientists think the tilt might show up when a word really means something. Like a tiny loading screen.",
+            "badge": "LOADING",
+            "label": "Loading...",
+            "stock_queries": [
+              "dog thinking puzzled",
+              "dog fetching rope toy"
+            ],
+            "image_prompt": "A dog with a puzzled look on its face, reminiscent of a loading screen.",
+            "stock_query": "dog thinking puzzled"
+          },
+          {
+            "text": "So that tilt might mean your dog is trying hard to understand you. Which way does your dog tilt, left or right? And next time you say rope and it happens, ask yourself",
+            "badge": "YOUR TUR",
+            "label": "Left or right?",
+            "stock_queries": [
+              "dog looking at owner",
+              "dog head tilt camera"
+            ],
+            "image_prompt": "A cute dog tilting its head directly at the camera with an inquisitive look.",
+            "stock_query": "dog looking at owner"
+          }
+        ],
+        "key_facts": [
+          "A 2021 study tested forty dogs regarding head tilts.",
+          "Seven dogs were genius border collies knowing at least ten toy names.",
+          "Thirty-three dogs were regular family dogs.",
+          "Genius dogs tilted their heads 43 percent of the time during the test.",
+          "Regular dogs tilted their heads about 2 percent of the time.",
+          "Each dog consistently used its own favorite side for the tilt, even two years later."
+        ],
+        "format": "funny",
+        "tone": "funny",
+        "category": "23",
+        "script": "Why does your dog tilt its head when you talk? A 2021 study tested forty dogs to find out. Here's what scientists in Hungary saw. Seven of the dogs were genius border collies that knew the names of at least ten toys. The other thirty-three were regular, lovable, slightly confused dogs. The owners asked for a toy by name, like \"Bring the rope!\" But the toys were in another room, so nobody could just look around. The genius dogs tilted their heads forty-three percent of the time. The regular dogs? About two percent. And each dog kept tilting to its own favorite side, even two years later. So scientists think the tilt might show up when a word really means something. Like a tiny loading screen. So that tilt might mean your dog is trying hard to understand you. Which way does your dog tilt, left or right? And next time you say rope and it happens, ask yourself",
+        "plan_id": "P2026-10-24-03",
+        "shot_plan": [
+          {
+            "subject": "A dog tilting its head while looking at a person.",
+            "queries": [
+              {
+                "q": "dog head tilt",
+                "must": [
+                  "dog",
+                  "tilt"
+                ]
+              },
+              {
+                "q": "dog listening",
+                "must": [
+                  "dog",
+                  "listening"
+                ]
+              },
+              {
+                "q": "pet behavior",
+                "must": [
+                  "dog"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "A border collie sitting attentively.",
+            "queries": [
+              {
+                "q": "border collie",
+                "must": [
+                  "collie"
+                ]
+              },
+              {
+                "q": "smart dog",
+                "must": [
+                  "dog"
+                ]
+              },
+              {
+                "q": "dog sitting",
+                "must": [
+                  "dog"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "A dog toy like a rope on a floor.",
+            "queries": [
+              {
+                "q": "dog rope toy",
+                "must": [
+                  "rope",
+                  "toy"
+                ]
+              },
+              {
+                "q": "dog toy",
+                "must": [
+                  "toy"
+                ]
+              },
+              {
+                "q": "dog play",
+                "must": [
+                  "dog"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "A dog looking focused and tilting its head.",
+            "queries": [
+              {
+                "q": "dog head tilt",
+                "must": [
+                  "tilt"
+                ]
+              },
+              {
+                "q": "attentive dog",
+                "must": [
+                  "dog"
+                ]
+              },
+              {
+                "q": "dog face",
+                "must": [
+                  "dog"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "A dog tilting its head to the side.",
+            "queries": [
+              {
+                "q": "dog head tilt",
+                "must": [
+                  "tilt"
+                ]
+              },
+              {
+                "q": "dog side profile",
+                "must": [
+                  "dog"
+                ]
+              },
+              {
+                "q": "dog portrait",
+                "must": [
+                  "dog"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "A close-up of a dog's eyes looking thoughtful.",
+            "queries": [
+              {
+                "q": "dog eyes",
+                "must": [
+                  "dog",
+                  "eyes"
+                ]
+              },
+              {
+                "q": "dog face",
+                "must": [
+                  "dog"
+                ]
+              },
+              {
+                "q": "dog looking",
+                "must": [
+                  "dog"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "A dog tilting its head left then right.",
+            "queries": [
+              {
+                "q": "dog head tilt",
+                "must": [
+                  "tilt"
+                ]
+              },
+              {
+                "q": "dog listening",
+                "must": [
+                  "dog"
+                ]
+              },
+              {
+                "q": "dog portrait",
+                "must": [
+                  "dog"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "dog head tilt",
+          "dog listening",
+          "dog looking at camera"
+        ],
+        "visual_style": "A fast-paced, engaging exploration of pet behavior using close-up, high-quality footage of dogs interacting with their owners.",
+        "visual_refs": [
+          "Why Do Dogs Tilt Their Heads?",
+          "Why Dogs Tilt Their Head?\ud83e\udd14\ud83d\udc36",
+          "Why Does My DOG TILT Their HEAD When I Talk to Them? \ud83d\udc36\u2757 (5 Reasons)",
+          "Why Your Dog Tilts Its Head When You Talk...",
+          "Why dogs tilt their heads",
+          "Why dogs tilt their head when you talk??"
+        ],
+        "voice": "en-US-AndrewMultilingualNeural",
+        "visual_report": {
+          "shots": 14,
+          "checked": 14,
+          "unchecked": 0,
+          "filler": 1,
+          "ai": 0
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AndrewMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): htuuli (Pixabay) https://pixabay.com/photos/swiss-white-shepherd-white-dog-dog-2878336/; carinakrammer (Pixabay) https://pixabay.com/photos/pug-dog-domestic-animal-cute-black-943499/; jeremy8 (Pixabay) https://pixabay.com/photos/puppy-dog-head-tilted-cute-406163/; brixiv (Pixabay) https://pixabay.com/videos/id-171030/; Coverr-Free-Footage (Pixabay) https://pixabay.com/videos/id-5631/; Didgeman (Pixabay) https://pixabay.com/photos/chihuahua-bite-rope-small-dog-dog-2125691/; 825545 (Pixabay) https://pixabay.com/photos/malinois-and-border-collie-788032/; JACLOU-DL (Pixabay) https://pixabay.com/photos/puppy-rough-collie-toy-sleep-10448747/; brixiv (Pixabay) https://pixabay.com/videos/id-251873/; Edward_Everidge (Pixabay) https://pixabay.com/videos/id-109816/; DistillVideos (Pixabay) https://pixabay.com/videos/id-81/; moshehar (Pixabay) https://pixabay.com/videos/id-15305/",
+        "Reid Campbell / Wikimedia Commons (CC0) https://commons.wikimedia.org/wiki/File:Black_dog_head_tilt.jpg"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-24",
+        "name": "2026-10-24-3-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-24",
+        "name": "2026-10-24-3-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,109 --> 00:00:01,508\nWhy does your dog tilt its head\n\n2\n00:00:01,508 --> 00:00:04,728\nwhen you talk A 2021 study tested\n\n3\n00:00:04,728 --> 00:00:07,554\nforty dogs to find out Here's what\n\n4\n00:00:07,554 --> 00:00:10,190\nscientists in Hungary saw Seven of the\n\n5\n00:00:10,190 --> 00:00:12,541\ndogs were genius border collies that knew\n\n6\n00:00:12,541 --> 00:00:15,027\nthe names of at least ten toys\n\n7\n00:00:15,027 --> 00:00:18,207\nThe other thirty-three were regular lovable\n\n8\n00:00:18,207 --> 00:00:21,875\nslightly confused dogs The owners asked for\n\n9\n00:00:21,875 --> 00:00:23,560\na toy by name like Bring the\n\n10\n00:00:23,560 --> 00:00:25,543\nrope But the toys were in another\n\n11\n00:00:25,543 --> 00:00:28,342\nroom so nobody could just look around\n\n12\n00:00:28,342 --> 00:00:32,269\nThe genius dogs tilted their heads forty-three\n\n13\n00:00:32,269 --> 00:00:35,122\npercent of the time The regular dogs\n\n14\n00:00:35,122 --> 00:00:37,799\nAbout two percent And each dog kept\n\n15\n00:00:37,799 --> 00:00:40,625\ntilting to its own favorite side even\n\n16\n00:00:40,625 --> 00:00:43,370\ntwo years later So scientists think the\n\n17\n00:00:43,370 --> 00:00:45,122\ntilt might show up when a word\n\n18\n00:00:45,122 --> 00:00:47,799\nreally means something Like a tiny loading\n\n19\n00:00:47,799 --> 00:00:49,810\nscreen So that tilt might mean your\n\n20\n00:00:49,810 --> 00:00:52,242\ndog is trying hard to understand you\n\n21\n00:00:52,242 --> 00:00:54,524\nWhich way does your dog tilt left\n\n22\n00:00:54,524 --> 00:00:56,277\nor right And next time you say\n\n23\n00:00:56,277 --> 00:00:59,286\nrope and it happens ask yourself\n",
+      "tg_msg": 761,
+      "opts_msg": 763
+    },
+    "2026-10-24-4": {
+      "topic": {
+        "title": "How 1 Pie Tin Became the Frisbee \ud83e\udd67",
+        "angle": "Zack D. Films' 'How Mr. Potato Head Was Invented' (26.4M views, 75,473 views/h, breakout 2.33) proves the 'how a famous toy began' origin story is breaking out this week.",
+        "format": "story",
+        "tone": "normal",
+        "virality_score": 7,
+        "trend_source": "How Mr. Potato Head Was Invented (Zack D. Films, 75,473 views/h, breakout 2.33)",
+        "plan_id": "P2026-10-24-04"
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-24T18:35:55.644623+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "frisbee history",
+        "title": "How 1 Pie Tin Became the Frisbee \ud83e\udd67",
+        "hook_text": "FROM DESSERT TO TOY",
+        "thumbnail_text": "SPELLED WRONG?",
+        "description": "Why is it called a Frisbee? Frisbee history starts with a pie: the Frisbee is named after the Frisbie Pie Company of Bridgeport, Connecticut, whose empty pie tins college students tossed across campus.\n\nIn this Short: the pie tins at Yale, Fred Morrison's Pluto Platter, how Wham-O renamed it the Frisbee, and what happened to the bakery.\n\nThis is a true story.\n\nSources:\nhttps://www.mentalfloss.com/article/29137/how-empty-dessert-plate-inspired-frisbee\nhttps://www.museumofplay.org/?p=2186\nhttps://newenglandhistoricalsociety.com/the-sweet-new-england-history-of-the-frisbee/",
+        "hashtags": [
+          "#shorts",
+          "#frisbee",
+          "#truestory",
+          "#history",
+          "#storytime"
+        ],
+        "tags": [
+          "frisbee history",
+          "pie tin",
+          "frisbie pie company",
+          "frisbee",
+          "ultimate frisbee history",
+          "frisbie",
+          "fred morrison",
+          "pluto platter",
+          "pie tin frisbee",
+          "flying disc history",
+          "who invented the frisbee",
+          "why is it called a frisbee",
+          "how a frisbee works",
+          "why does a frisbee fly",
+          "toy history",
+          "yale frisbee",
+          "bridgeport connecticut",
+          "wham-o"
+        ],
+        "pinned_comment": "Bonus fact: the Frisbee was inducted into the National Toy Hall of Fame in 1998. Ultimate, disc golf or just a beach toss: what's your favorite way to play?",
+        "scenes": [
+          {
+            "text": "You've thrown a Frisbee, but do you know why it's named after a pie company? Here's the true story.",
+            "badge": "NAMED AF",
+            "label": "NAMED AFTER PIE?",
+            "stock_queries": [
+              "person throwing flying disc beach",
+              "pie cooling on windowsill"
+            ],
+            "image_prompt": "A person throwing a flying disc on a beach at sunset with cinematic lighting, photorealistic.",
+            "stock_query": "person throwing flying disc beach"
+          },
+          {
+            "text": "In Bridgeport, Connecticut, the Frisbie Pie Company sold pies in metal tins with its name on the bottom.",
+            "badge": "Frisbie ",
+            "label": "Frisbie Pie Company",
+            "stock_queries": [
+              "vintage bakery storefront",
+              "metal pie tin"
+            ],
+            "image_prompt": "An old-fashioned metal pie tin with embossed lettering on the bottom resting on a rustic wooden table.",
+            "stock_query": "vintage bakery storefront"
+          },
+          {
+            "text": "Yale students ate the pies, then tossed the empty tins across campus. The story goes they'd yell \"Frisbie!\" so nobody got bonked on the head.",
+            "badge": "\"FRISBIE",
+            "label": "\"FRISBIE!\"",
+            "stock_queries": [
+              "college students campus quad",
+              "metal pie tin spinning"
+            ],
+            "image_prompt": "College students on a grassy campus quad laughing as an empty metal pie tin spins through the air.",
+            "stock_query": "college students campus quad"
+          },
+          {
+            "text": "Out in California, Fred Morrison made a plastic flying disc with a curved edge. He sold it as the Pluto Platter, riding the craze for flying saucers.",
+            "badge": "The Plut",
+            "label": "The Pluto Platter",
+            "stock_queries": [
+              "plastic flying disc workbench",
+              "retro flying saucer toy"
+            ],
+            "image_prompt": "A brightly colored plastic flying disc with a curved edge resting on a vintage workbench, close-up.",
+            "stock_query": "plastic flying disc workbench"
+          },
+          {
+            "text": "Then the toy company Wham-O bought the rights. They heard about those college kids, and renamed the disc the Frisbee, with the spelling changed.",
+            "badge": "Frisbie ",
+            "label": "Frisbie \u2192 Frisbee",
+            "stock_queries": [
+              "vintage toy factory",
+              "red flying disc spinning"
+            ],
+            "image_prompt": "A red plastic flying disc spinning towards the camera in a 1950s style setting, dynamic action shot.",
+            "stock_query": "vintage toy factory"
+          },
+          {
+            "text": "And the pie company? It closed around the time the toy took off. So the Frisbee is named after a bakery, thanks to college kids who threw their dessert plates.",
+            "badge": "Bakery c",
+            "label": "Bakery closes",
+            "stock_queries": [
+              "old bakery building closed sign",
+              "friends throwing disc park"
+            ],
+            "image_prompt": "An old bakery building exterior with a closed sign hanging on the door, afternoon sunlight.",
+            "stock_query": "old bakery building closed sign"
+          },
+          {
+            "text": "What would you name a flying disc today? And next time you throw one at the beach, remember",
+            "badge": "THE END",
+            "label": "THE END",
+            "stock_queries": [
+              "person thinking with disc",
+              "dog catching disc beach"
+            ],
+            "image_prompt": "A person holding a flying disc on the beach looking thoughtfully at the horizon, golden hour.",
+            "stock_query": "person thinking with disc"
+          }
+        ],
+        "key_facts": [
+          "The Frisbee is named after the Frisbie Pie Company from Bridgeport, Connecticut.",
+          "Yale students ate the pies and tossed the empty metal tins across campus, shouting Frisbie.",
+          "Fred Morrison created a plastic flying disc initially sold as the Pluto Platter.",
+          "Wham-O bought the rights and renamed the disc the Frisbee with a changed spelling.",
+          "The Frisbie Pie Company closed around the time the toy became popular."
+        ],
+        "format": "story",
+        "tone": "normal",
+        "category": "24",
+        "script": "You've thrown a Frisbee, but do you know why it's named after a pie company? Here's the true story. In Bridgeport, Connecticut, the Frisbie Pie Company sold pies in metal tins with its name on the bottom. Yale students ate the pies, then tossed the empty tins across campus. The story goes they'd yell \"Frisbie!\" so nobody got bonked on the head. Out in California, Fred Morrison made a plastic flying disc with a curved edge. He sold it as the Pluto Platter, riding the craze for flying saucers. Then the toy company Wham-O bought the rights. They heard about those college kids, and renamed the disc the Frisbee, with the spelling changed. And the pie company? It closed around the time the toy took off. So the Frisbee is named after a bakery, thanks to college kids who threw their dessert plates. What would you name a flying disc today? And next time you throw one at the beach, remember",
+        "plan_id": "P2026-10-24-04",
+        "shot_plan": [
+          {
+            "subject": "A person throwing a flying disc at a park",
+            "queries": [
+              {
+                "q": "throwing frisbee",
+                "must": [
+                  "frisbee"
+                ]
+              },
+              {
+                "q": "flying disc",
+                "must": [
+                  "disc"
+                ]
+              },
+              {
+                "q": "park activity",
+                "must": [
+                  "throwing"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "A vintage metal pie tin",
+            "queries": [
+              {
+                "q": "metal pie tin",
+                "must": [
+                  "tin"
+                ]
+              },
+              {
+                "q": "baking pan",
+                "must": [
+                  "metal"
+                ]
+              },
+              {
+                "q": "vintage kitchen",
+                "must": [
+                  "pie"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "Students on a university campus",
+            "queries": [
+              {
+                "q": "university campus",
+                "must": [
+                  "campus"
+                ]
+              },
+              {
+                "q": "college students",
+                "must": [
+                  "students"
+                ]
+              },
+              {
+                "q": "university quad",
+                "must": [
+                  "university"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "A plastic flying disc in flight",
+            "queries": [
+              {
+                "q": "plastic flying disc",
+                "must": [
+                  "plastic"
+                ]
+              },
+              {
+                "q": "toy disc",
+                "must": [
+                  "flying"
+                ]
+              },
+              {
+                "q": "spinning disc",
+                "must": [
+                  "toy"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "A toy factory production line",
+            "queries": [
+              {
+                "q": "toy factory",
+                "must": [
+                  "factory"
+                ]
+              },
+              {
+                "q": "manufacturing line",
+                "must": [
+                  "production"
+                ]
+              },
+              {
+                "q": "plastic toys",
+                "must": [
+                  "toy"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "A closed storefront or bakery",
+            "queries": [
+              {
+                "q": "bakery storefront",
+                "must": [
+                  "bakery"
+                ]
+              },
+              {
+                "q": "closed shop",
+                "must": [
+                  "closed"
+                ]
+              },
+              {
+                "q": "vintage storefront",
+                "must": [
+                  "storefront"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "A person throwing a disc on a beach",
+            "queries": [
+              {
+                "q": "beach frisbee",
+                "must": [
+                  "beach"
+                ]
+              },
+              {
+                "q": "ocean shore",
+                "must": [
+                  "sand"
+                ]
+              },
+              {
+                "q": "throwing disc",
+                "must": [
+                  "throwing"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "flying disc",
+          "metal pie tin",
+          "college campus"
+        ],
+        "visual_style": "Fast-paced, high-energy storytelling using archival-style stock footage and close-up object shots to explain the origin of a famous toy.",
+        "visual_refs": [
+          "This Day In History 1 23 1957   The Flying Disc Was Invented &amp; Was Sold To Wham-o, The  Frisbee",
+          "How To Throw Really Far",
+          "He Got His Head Stuck Between The Railings \ud83d\ude33 (@servingco/TT)",
+          "How Tom Holland found out he was Spider-Man! | Dish Podcast",
+          "Bro Can Throw Anything\ud83e\udd2f",
+          "The Boy Who Couldn\u2019t Stop Squeaking \ud83d\ude28"
+        ],
+        "voice": "en-AU-WilliamMultilingualNeural",
+        "visual_report": {
+          "shots": 11,
+          "checked": 11,
+          "unchecked": 0,
+          "filler": 3,
+          "ai": 0
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-AU-WilliamMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): domi_color (Pixabay) https://pixabay.com/videos/id-97297/; Media_Hopper_Studio (Pixabay) https://pixabay.com/videos/id-369787/; eloguers (Pixabay) https://pixabay.com/videos/id-159029/; eloguers (Pixabay) https://pixabay.com/videos/id-159024/; ClickerHappy (Pixabay) https://pixabay.com/photos/bakery-french-out-of-business-food-2653199/; StockSnap (Pixabay) https://pixabay.com/photos/sunset-dusk-sky-girl-woman-people-2617540/; zerpixelt (Pixabay) https://pixabay.com/photos/frisbee-sand-beach-sea-sports-3035033/",
+        "Virginia State Parks / Wikimedia Commons (CC BY 2.0) https://commons.wikimedia.org/wiki/File:BC_-_Playing_Frisbee_(32074224124).jpg"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-24",
+        "name": "2026-10-24-4-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-24",
+        "name": "2026-10-24-4-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,050 --> 00:00:02,061\nYou've thrown a Frisbee but do you\n\n2\n00:00:02,061 --> 00:00:03,664\nknow why it's named after a pie\n\n3\n00:00:03,664 --> 00:00:07,577\ncompany Here's the true story In Bridgeport\n\n4\n00:00:07,577 --> 00:00:10,526\nConnecticut the Frisbie Pie Company sold pies\n\n5\n00:00:10,526 --> 00:00:12,047\nin metal tins with its name on\n\n6\n00:00:12,047 --> 00:00:15,132\nthe bottom Yale students ate the pies\n\n7\n00:00:15,132 --> 00:00:17,863\nthen tossed the empty tins across campus\n\n8\n00:00:17,863 --> 00:00:20,593\nThe story goes they'd yell Frisbie so\n\n9\n00:00:20,593 --> 00:00:22,835\nnobody got bonked on the head Out\n\n10\n00:00:22,835 --> 00:00:25,702\nin California Fred Morrison made a plastic\n\n11\n00:00:25,702 --> 00:00:28,107\nflying disc with a curved edge He\n\n12\n00:00:28,107 --> 00:00:30,485\nsold it as the Pluto Platter riding\n\n13\n00:00:30,485 --> 00:00:32,998\nthe craze for flying saucers Then the\n\n14\n00:00:32,998 --> 00:00:35,770\ntoy company Wham-O bought the rights They\n\n15\n00:00:35,770 --> 00:00:38,270\nheard about those college kids and renamed\n\n16\n00:00:38,270 --> 00:00:40,322\nthe disc the Frisbee with the spelling\n\n17\n00:00:40,322 --> 00:00:43,746\nchanged And the pie company It closed\n\n18\n00:00:43,746 --> 00:00:45,933\naround the time the toy took off\n\n19\n00:00:45,933 --> 00:00:47,509\nSo the Frisbee is named after a\n\n20\n00:00:47,509 --> 00:00:49,982\nbakery thanks to college kids who threw\n\n21\n00:00:49,982 --> 00:00:52,333\ntheir dessert plates What would you name\n\n22\n00:00:52,333 --> 00:00:54,792\na flying disc today And next time\n\n23\n00:00:54,792 --> 00:00:57,325\nyou throw one at the beach remember\n",
+      "tg_msg": 764,
+      "opts_msg": 766
     }
   },
   "history": [
-    "Top 5 Funniest Real Sports on Earth",
-    "The Cave Found by 4 Teenagers in 1940",
-    "A Cloud vs 100 Elephants: Which Is Heavier?",
-    "Top 5 Animals That Became Real Mayors \ud83d\udc36",
     "How a Dog Saved the 1966 World Cup \u26bd",
     "Top 5 Strangest Animal Drinking Tricks",
     "Jack-o'-Lantern History in 60 Seconds",
@@ -11657,7 +12885,11 @@
     "How Archimedes' Screw Works (2,200 Years Old)",
     "Top 5 Fastest Animals (#1 Isn't on Land)",
     "Top 5 Funniest Animal Group Names \ud83d\ude02",
-    "How 15 GPS Rocks Solved a Desert Mystery"
+    "How 15 GPS Rocks Solved a Desert Mystery",
+    "How Zippers Work in 2 Moves",
+    "Top 5 Tiniest Animals (#1 Is a Frog)",
+    "Why Your Dog Tilts Its Head: 1 Study",
+    "How 1 Pie Tin Became the Frisbee \ud83e\udd67"
   ],
   "trend_tries": {
     "2026-10-22": {
@@ -11675,14 +12907,14 @@
   },
   "cleanup_day": "2026-10-24",
   "recent_voices": [
-    "en-US-EmmaMultilingualNeural",
+    "en-AU-WilliamMultilingualNeural",
+    "gTTS",
     "en-US-AvaMultilingualNeural",
     "en-US-AndrewMultilingualNeural",
-    "en-US-EmmaMultilingualNeural",
     "en-AU-WilliamMultilingualNeural"
   ],
   "visual_searches": {
-    "2026-10-23": 3
+    "2026-10-24": 3
   },
   "signals_day": "2026-10-24"
 }

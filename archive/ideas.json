@@ -2088,44 +2088,44 @@
    {
     "angle": "Zack D. Films' 'How Pencil Sharpeners Work' is pulling about 212,250 views per hour a day after upload (breakout 0.94), and 'How Electrical Outlets Work' about 151,941 views/h at 57M views, so the see-inside 'How [everyday object] Works' shape is this week's winner.",
     "format": "animated",
-    "picked": false,
+    "picked": true,
     "rank": 1,
     "title": "How Zippers Work in 2 Moves",
     "trend_source": "title shape of How Pencil Sharpeners Work (212,250 views/h); also How Electrical Outlets Work (151,941 views/h)",
-    "video_id": null,
+    "video_id": "2026-10-24-1",
     "virality_score": 8,
     "why": ""
    },
    {
     "angle": "Superlative animal countdowns keep working for Zorbly, and Zack D. Films' 'How Banana Slugs Glide Across Razor Blades' (337,527 views/h, the week's fastest) shows tiny-creature curiosity is hot right now, with a twist at number one.",
     "format": "ranking",
-    "picked": false,
+    "picked": true,
     "rank": 2,
     "title": "Top 5 Tiniest Animals (#1 Is a Frog)",
     "trend_source": "How Banana Slugs Glide Across Razor Blades (Zack D. Films, 337,527 views/h); superlative-plus-twist shape of 'Top 5 Fastest Animals (#1 Isn't on Land)'",
-    "video_id": null,
+    "video_id": "2026-10-24-2",
     "virality_score": 7,
     "why": ""
    },
    {
     "angle": "Zack D. Films' 'Why Cats Rub Against Your Laptop' (14.2M views, breakout 1.27) shows the 'Why your pet does X' question pulls big numbers, and today's top outliers (269x, 47.6x) are all kind, light family comedy.",
     "format": "funny",
-    "picked": false,
+    "picked": true,
     "rank": 3,
     "title": "Why Your Dog Tilts Its Head: 1 Study",
     "trend_source": "Why Cats Rub Against Your Laptop (Zack D. Films, breakout 1.27); light family-comedy outliers in today's viral signals (Tonga tonga, 47.6x)",
-    "video_id": null,
+    "video_id": "2026-10-24-3",
     "virality_score": 8,
     "why": ""
    },
    {
     "angle": "Zack D. Films' 'How Mr. Potato Head Was Invented' (26.4M views, 75,473 views/h, breakout 2.33) proves the 'how a famous toy began' origin story is breaking out this week.",
     "format": "story",
-    "picked": false,
+    "picked": true,
     "rank": 4,
     "title": "How 1 Pie Tin Became the Frisbee 🥧",
     "trend_source": "How Mr. Potato Head Was Invented (Zack D. Films, 75,473 views/h, breakout 2.33)",
-    "video_id": null,
+    "video_id": "2026-10-24-4",
     "virality_score": 7,
     "why": ""
    },
@@ -2153,7 +2153,7 @@
    }
   ],
   "sent_at": "2026-10-24T15:00:25.070050+00:00",
-  "status": "waiting"
+  "status": "closed"
  },
  "2026-10-24-2": {
   "date": "2026-10-24-2",
