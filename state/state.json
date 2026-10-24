@@ -360,7 +360,7 @@
       ],
       "sent_at": "2026-10-24T17:36:00.412971+00:00",
       "selected": [],
-      "status": "waiting"
+      "status": "closed"
     }
   },
   "videos": {
@@ -12500,7 +12500,7 @@
         "trend_source": "How Mr. Potato Head Was Invented (Zack D. Films, 75,473 views/h, breakout 2.33)",
         "plan_id": "P2026-10-24-04"
       },
-      "status": "awaiting_approval",
+      "status": "approved",
       "by": "auto",
       "updated": "2026-10-24T18:35:55.644623+00:00",
       "redos": 0,
@@ -12832,7 +12832,9 @@
       },
       "srt": "1\n00:00:00,050 --> 00:00:02,061\nYou've thrown a Frisbee but do you\n\n2\n00:00:02,061 --> 00:00:03,664\nknow why it's named after a pie\n\n3\n00:00:03,664 --> 00:00:07,577\ncompany Here's the true story In Bridgeport\n\n4\n00:00:07,577 --> 00:00:10,526\nConnecticut the Frisbie Pie Company sold pies\n\n5\n00:00:10,526 --> 00:00:12,047\nin metal tins with its name on\n\n6\n00:00:12,047 --> 00:00:15,132\nthe bottom Yale students ate the pies\n\n7\n00:00:15,132 --> 00:00:17,863\nthen tossed the empty tins across campus\n\n8\n00:00:17,863 --> 00:00:20,593\nThe story goes they'd yell Frisbie so\n\n9\n00:00:20,593 --> 00:00:22,835\nnobody got bonked on the head Out\n\n10\n00:00:22,835 --> 00:00:25,702\nin California Fred Morrison made a plastic\n\n11\n00:00:25,702 --> 00:00:28,107\nflying disc with a curved edge He\n\n12\n00:00:28,107 --> 00:00:30,485\nsold it as the Pluto Platter riding\n\n13\n00:00:30,485 --> 00:00:32,998\nthe craze for flying saucers Then the\n\n14\n00:00:32,998 --> 00:00:35,770\ntoy company Wham-O bought the rights They\n\n15\n00:00:35,770 --> 00:00:38,270\nheard about those college kids and renamed\n\n16\n00:00:38,270 --> 00:00:40,322\nthe disc the Frisbee with the spelling\n\n17\n00:00:40,322 --> 00:00:43,746\nchanged And the pie company It closed\n\n18\n00:00:43,746 --> 00:00:45,933\naround the time the toy took off\n\n19\n00:00:45,933 --> 00:00:47,509\nSo the Frisbee is named after a\n\n20\n00:00:47,509 --> 00:00:49,982\nbakery thanks to college kids who threw\n\n21\n00:00:49,982 --> 00:00:52,333\ntheir dessert plates What would you name\n\n22\n00:00:52,333 --> 00:00:54,792\na flying disc today And next time\n\n23\n00:00:54,792 --> 00:00:57,325\nyou throw one at the beach remember\n",
       "tg_msg": 764,
-      "opts_msg": 766
+      "opts_msg": 766,
+      "approved_by": "auto",
+      "quota_note": "2026-10-24"
     }
   },
   "history": [
