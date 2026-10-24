@@ -1,72 +1,6 @@
 {
   "tg_offset": 40455537,
   "batches": {
-    "2026-10-21": {
-      "topics": [
-        {
-          "title": "How 2,000-Year-Old Concrete Seals Cracks",
-          "angle": "Zack D. Films' \"How Electrical Outlets Work\" is pulling about 259,144 views per hour this week (43M views in 3 days) and \"How Plato's Alarm Clock Worked\" about 58,500/h, so a clever-old-mechanism \"How X Works\" with a cross-section payoff is the winning shape.",
-          "format": "animated",
-          "tone": "normal",
-          "virality_score": 8,
-          "trend_source": "title shape of How Electrical Outlets Work (259,144 views/h); also How Plato's Alarm Clock Worked (58,538 views/h)",
-          "plan_id": "P2026-10-21-01"
-        },
-        {
-          "title": "Top 5 Animals That Climb Sheer Walls",
-          "angle": "Today's US Shorts list has \"Cat Climbing On Straight Wall For Her Kittens\" at 16.7x its channel median (18.3M views), and a ranked countdown of animals scaling vertical walls delivers that same one-image impossible-climb payoff five times.",
-          "format": "ranking",
-          "tone": "normal",
-          "virality_score": 7,
-          "trend_source": "Cat Climbing On Straight Wall For Her Kittens (16.7x); Fastest Stationery to cut Paper (49.5x, superlative ranking hook)",
-          "plan_id": "P2026-10-21-02"
-        },
-        {
-          "title": "Dogs Kick Grass After Pooping: 1 Reason",
-          "angle": "Kind, wordless pet comedy dominates today's outliers (133.3x and 17.3x funny Shorts, 16.7x cat on a wall), and a relatable dog habit with a true twist explanation is the faceless, family-friendly version of that.",
-          "format": "funny",
-          "tone": "funny",
-          "virality_score": 8,
-          "trend_source": "She knew exactly where to put them (133.3x); Which one made you laugh? (17.3x); Cat Climbing On Straight Wall For Her Kittens (16.7x)",
-          "plan_id": "P2026-10-21-03"
-        },
-        {
-          "title": "The Bank Built From the Mail in 1916",
-          "angle": "Today's top outliers win on one absurd, instantly visual setup (1,679.8x \"fruit trick\", 49.5x \"Fastest Stationery\"), and \"a town mailed itself a bank\" is that one-image absurdity with a true, sourced payoff.",
-          "format": "story",
-          "tone": "normal",
-          "virality_score": 7,
-          "trend_source": "Haaland Fooled EVERYONE With This Fruit Trick (1,679.8x); Fastest Stationery to cut Paper (49.5x)",
-          "plan_id": "P2026-10-21-04"
-        },
-        {
-          "title": "Can You Beat This 3-Second Heat Quiz?",
-          "angle": "Today's 17.3x \"Which one made you laugh?\" shows a direct question that invites a comment answer still wins, and a 3-second hotter-or-not quiz with a surprising final answer gives every viewer a score to post.",
-          "format": "quiz",
-          "tone": "normal",
-          "virality_score": 7,
-          "trend_source": "Which one made you laugh? (17.3x); Is bar navratri pr ye hua chamatkar (4.8x, The Question)",
-          "plan_id": "P2026-10-21-05"
-        },
-        {
-          "title": "Why the Ocean Is Salty in 60 Seconds",
-          "angle": "Zack D. Films' \"Why\" and \"How\" questions dominate this week (\"How Electrical Outlets Work\" ~259,000 views/h, \"Could You Move Mount Everest To America?\" ~682,000 views/h), and \"why is the ocean salty\" is the same everyday-mystery question kids and adults actually search.",
-          "format": "explainer",
-          "tone": "normal",
-          "virality_score": 6,
-          "trend_source": "Could You Move Mount Everest To America? (682,152 views/h, Zack D. Films); How Electrical Outlets Work (259,144 views/h)",
-          "plan_id": "P2026-10-21-06"
-        }
-      ],
-      "sent_at": "2026-10-21T15:36:22.346017+00:00",
-      "selected": [
-        0,
-        1,
-        2,
-        3
-      ],
-      "status": "closed"
-    },
     "2026-10-21-2": {
       "topics": [
         {
@@ -368,6 +302,58 @@
         }
       ],
       "sent_at": "2026-10-24T15:00:25.070050+00:00",
+      "selected": [],
+      "status": "waiting"
+    },
+    "2026-10-24-2": {
+      "topics": [
+        {
+          "title": "Top 5 Birds That Are Certified Comedians \ud83e\udd9c",
+          "angle": "A countdown of five bird species known for hilariously dramatic and goofy behaviors, from cockatoo temper tantrums to the clumsy mating tap-dance of the blue-footed booby.",
+          "format": "ranking",
+          "tone": "funny",
+          "trend_source": "Evergreen animal humor / nature",
+          "virality_score": 9,
+          "why": "Pet and wildlife humor delivers proven high retention and massive shares; viewers stay until #1 to see the most ridiculous bird."
+        },
+        {
+          "title": "Why Car Windshields Shatter Into Millions of Tiny Cubes \ud83d\ude97",
+          "angle": "Unpacking the science of tempered safety glass and internal tension that turns shattering car windows into dull granules rather than razor-sharp shards.",
+          "format": "explainer",
+          "tone": "normal",
+          "trend_source": "Jeff Gordon / NASCAR safety engineering curiosity",
+          "virality_score": 9,
+          "why": "High visual satisfaction from slow-motion stress physics combined with a clean, universally understood everyday curiosity hook."
+        },
+        {
+          "title": "The Universal Physics of the 'Fake Phone Check' \ud83d\udcf1",
+          "angle": "A humorous observation breaking down the instinctive human reflex of pulling out your phone and intensely scrolling through nothing the moment you trip or take a wrong turn.",
+          "format": "funny",
+          "tone": "funny",
+          "trend_source": "Relatable situational humor evergreen",
+          "virality_score": 9,
+          "why": "Extreme relatability drives massive comment-section engagement where viewers tag friends and admit they just did this today."
+        },
+        {
+          "title": "Top 5 Cleanest Rivers Where Boats Look Like They're Flying \ud83c\udf0a",
+          "angle": "Counting down five hyper-transparent bodies of water on Earth so clear that boats appear suspended mid-air above their shadows.",
+          "format": "ranking",
+          "tone": "normal",
+          "trend_source": "Nature / travel curiosity",
+          "virality_score": 8,
+          "why": "Visual wonder grabs thumbs immediately in the first frame, driving high completion rates and bucket-list saves."
+        },
+        {
+          "title": "3 Optical Tricks to Make Any Small Room Feel 2x Bigger \ud83e\ude9e",
+          "angle": "Three practical interior design hacks using sightlines, high curtain placement, and mirror angles that trick your brain into perceiving double the square footage.",
+          "format": "tips",
+          "tone": "normal",
+          "trend_source": "Home improvement & life hacks evergreen",
+          "virality_score": 8,
+          "why": "Delivers instant, actionable value for renters and homeowners, generating high save-to-playlist rates and long shelf life."
+        }
+      ],
+      "sent_at": "2026-10-24T17:36:00.412971+00:00",
       "selected": [],
       "status": "waiting"
     }
@@ -11683,8 +11669,8 @@
       "at": "2026-10-23T18:23:33.393942+00:00"
     },
     "2026-10-24": {
-      "n": 1,
-      "at": "2026-10-24T15:00:23.914707+00:00"
+      "n": 2,
+      "at": "2026-10-24T17:27:59.451236+00:00"
     }
   },
   "cleanup_day": "2026-10-24",

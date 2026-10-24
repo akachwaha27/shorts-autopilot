@@ -2154,5 +2154,67 @@
   ],
   "sent_at": "2026-10-24T15:00:25.070050+00:00",
   "status": "waiting"
+ },
+ "2026-10-24-2": {
+  "date": "2026-10-24-2",
+  "ideas": [
+   {
+    "angle": "A countdown of five bird species known for hilariously dramatic and goofy behaviors, from cockatoo temper tantrums to the clumsy mating tap-dance of the blue-footed booby.",
+    "format": "ranking",
+    "picked": false,
+    "rank": 1,
+    "title": "Top 5 Birds That Are Certified Comedians 🦜",
+    "trend_source": "Evergreen animal humor / nature",
+    "video_id": null,
+    "virality_score": 9,
+    "why": "Pet and wildlife humor delivers proven high retention and massive shares; viewers stay until #1 to see the most ridiculous bird."
+   },
+   {
+    "angle": "Unpacking the science of tempered safety glass and internal tension that turns shattering car windows into dull granules rather than razor-sharp shards.",
+    "format": "explainer",
+    "picked": false,
+    "rank": 2,
+    "title": "Why Car Windshields Shatter Into Millions of Tiny Cubes 🚗",
+    "trend_source": "Jeff Gordon / NASCAR safety engineering curiosity",
+    "video_id": null,
+    "virality_score": 9,
+    "why": "High visual satisfaction from slow-motion stress physics combined with a clean, universally understood everyday curiosity hook."
+   },
+   {
+    "angle": "A humorous observation breaking down the instinctive human reflex of pulling out your phone and intensely scrolling through nothing the moment you trip or take a wrong turn.",
+    "format": "funny",
+    "picked": false,
+    "rank": 3,
+    "title": "The Universal Physics of the 'Fake Phone Check' 📱",
+    "trend_source": "Relatable situational humor evergreen",
+    "video_id": null,
+    "virality_score": 9,
+    "why": "Extreme relatability drives massive comment-section engagement where viewers tag friends and admit they just did this today."
+   },
+   {
+    "angle": "Counting down five hyper-transparent bodies of water on Earth so clear that boats appear suspended mid-air above their shadows.",
+    "format": "ranking",
+    "picked": false,
+    "rank": 4,
+    "title": "Top 5 Cleanest Rivers Where Boats Look Like They're Flying 🌊",
+    "trend_source": "Nature / travel curiosity",
+    "video_id": null,
+    "virality_score": 8,
+    "why": "Visual wonder grabs thumbs immediately in the first frame, driving high completion rates and bucket-list saves."
+   },
+   {
+    "angle": "Three practical interior design hacks using sightlines, high curtain placement, and mirror angles that trick your brain into perceiving double the square footage.",
+    "format": "tips",
+    "picked": false,
+    "rank": 5,
+    "title": "3 Optical Tricks to Make Any Small Room Feel 2x Bigger 🪞",
+    "trend_source": "Home improvement & life hacks evergreen",
+    "video_id": null,
+    "virality_score": 8,
+    "why": "Delivers instant, actionable value for renters and homeowners, generating high save-to-playlist rates and long shelf life."
+   }
+  ],
+  "sent_at": "2026-10-24T17:36:00.412971+00:00",
+  "status": "waiting"
  }
 }
