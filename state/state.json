@@ -1,40 +1,6 @@
 {
   "tg_offset": 40455537,
   "batches": {
-    "2026-10-20-2": {
-      "topics": [
-        {
-          "title": "Top 5 Animals That Chose Chaos Over Survival",
-          "angle": "Counting down five animals whose instinctual reactions to minor inconveniences are hilariously dramatic and completely counterproductive.",
-          "format": "ranking",
-          "tone": "funny",
-          "trend_source": "YouTube Trending comedy and animal shorts",
-          "virality_score": 10,
-          "why": "Combines a top-5 ranking structure with high-humor animal behavior, ensuring massive loop rates, high retention, and strong comment section engagement."
-        },
-        {
-          "title": "Why Modern Stadiums Are Built Like Giant Acoustic Instruments",
-          "angle": "Explaining the hidden architectural engineering that traps crowd noise inside modern arenas to make games sound ten times louder.",
-          "format": "explainer",
-          "tone": "normal",
-          "trend_source": "psg - barcelona",
-          "virality_score": 8,
-          "why": "Satisfies viewer curiosity about massive live events using fast-paced visual pacing and a compelling hook."
-        },
-        {
-          "title": "The Mystery of the Town That Moved Two Miles Overnight",
-          "angle": "A lighthearted, fictionalized mini-story about a quaint village that allegedly packed up its bakery to avoid a stubborn hill.",
-          "format": "story",
-          "tone": "normal",
-          "trend_source": "evergreen",
-          "virality_score": 7,
-          "why": "Strong storytelling hook creates instant intrigue, keeping swipe-through rates high as viewers wait for the punchline twist."
-        }
-      ],
-      "sent_at": "2026-10-20T18:35:34.309169+00:00",
-      "selected": [],
-      "status": "closed"
-    },
     "2026-10-21": {
       "topics": [
         {
@@ -343,6 +309,67 @@
       "sent_at": "2026-10-23T18:30:01.886844+00:00",
       "selected": [],
       "status": "closed"
+    },
+    "2026-10-24": {
+      "topics": [
+        {
+          "title": "How Zippers Work in 2 Moves",
+          "angle": "Zack D. Films' 'How Pencil Sharpeners Work' is pulling about 212,250 views per hour a day after upload (breakout 0.94), and 'How Electrical Outlets Work' about 151,941 views/h at 57M views, so the see-inside 'How [everyday object] Works' shape is this week's winner.",
+          "format": "animated",
+          "tone": "normal",
+          "virality_score": 8,
+          "trend_source": "title shape of How Pencil Sharpeners Work (212,250 views/h); also How Electrical Outlets Work (151,941 views/h)",
+          "plan_id": "P2026-10-24-01"
+        },
+        {
+          "title": "Top 5 Tiniest Animals (#1 Is a Frog)",
+          "angle": "Superlative animal countdowns keep working for Zorbly, and Zack D. Films' 'How Banana Slugs Glide Across Razor Blades' (337,527 views/h, the week's fastest) shows tiny-creature curiosity is hot right now, with a twist at number one.",
+          "format": "ranking",
+          "tone": "normal",
+          "virality_score": 7,
+          "trend_source": "How Banana Slugs Glide Across Razor Blades (Zack D. Films, 337,527 views/h); superlative-plus-twist shape of 'Top 5 Fastest Animals (#1 Isn't on Land)'",
+          "plan_id": "P2026-10-24-02"
+        },
+        {
+          "title": "Why Your Dog Tilts Its Head: 1 Study",
+          "angle": "Zack D. Films' 'Why Cats Rub Against Your Laptop' (14.2M views, breakout 1.27) shows the 'Why your pet does X' question pulls big numbers, and today's top outliers (269x, 47.6x) are all kind, light family comedy.",
+          "format": "funny",
+          "tone": "funny",
+          "virality_score": 8,
+          "trend_source": "Why Cats Rub Against Your Laptop (Zack D. Films, breakout 1.27); light family-comedy outliers in today's viral signals (Tonga tonga, 47.6x)",
+          "plan_id": "P2026-10-24-03"
+        },
+        {
+          "title": "How 1 Pie Tin Became the Frisbee \ud83e\udd67",
+          "angle": "Zack D. Films' 'How Mr. Potato Head Was Invented' (26.4M views, 75,473 views/h, breakout 2.33) proves the 'how a famous toy began' origin story is breaking out this week.",
+          "format": "story",
+          "tone": "normal",
+          "virality_score": 7,
+          "trend_source": "How Mr. Potato Head Was Invented (Zack D. Films, 75,473 views/h, breakout 2.33)",
+          "plan_id": "P2026-10-24-04"
+        },
+        {
+          "title": "Farther North? 3-Second City Quiz",
+          "angle": "Zack D. Films' 'Can You Solve The Missing Dollar Riddle?' (17.1M views, breakout 1.08) shows a 'can you solve it' challenge drives comments, and Zorbly's past 3-second quizzes give viewers a score to post.",
+          "format": "quiz",
+          "tone": "normal",
+          "virality_score": 7,
+          "trend_source": "Can You Solve The Missing Dollar Riddle? (Zack D. Films, breakout 1.08); Could You Move Mount Everest To America? (breakout 2.04)",
+          "plan_id": "P2026-10-24-05"
+        },
+        {
+          "title": "Zebra Stripes Explained in 60 Seconds",
+          "angle": "Zack D. Films' 'Why Baby Koalas Eat Their Mom's Poop' (15.1M views, breakout 1.32) and 'How Harris's Hawks Hunt Together' show the 'Why does this animal...' question is a reliable winner this week.",
+          "format": "explainer",
+          "tone": "normal",
+          "virality_score": 7,
+          "trend_source": "Why Baby Koalas Eat Their Mom's Poop (Zack D. Films, breakout 1.32); How Banana Slugs Glide Across Razor Blades (337,527 views/h)",
+          "plan_id": "P2026-10-24-06"
+        }
+      ],
+      "sent_at": "2026-10-24T15:00:25.070050+00:00",
+      "selected": [],
+      "status": "waiting"
     }
   },
   "videos": {
@@ -11647,10 +11674,6 @@
     "How 15 GPS Rocks Solved a Desert Mystery"
   ],
   "trend_tries": {
-    "2026-10-21": {
-      "n": 2,
-      "at": "2026-10-21T18:40:25.898636+00:00"
-    },
     "2026-10-22": {
       "n": 2,
       "at": "2026-10-22T18:33:56.560632+00:00"
@@ -11658,6 +11681,10 @@
     "2026-10-23": {
       "n": 2,
       "at": "2026-10-23T18:23:33.393942+00:00"
+    },
+    "2026-10-24": {
+      "n": 1,
+      "at": "2026-10-24T15:00:23.914707+00:00"
     }
   },
   "cleanup_day": "2026-10-24",
