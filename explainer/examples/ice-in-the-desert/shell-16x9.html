@@ -1,0 +1,60 @@
+<title>Ice in the Desert</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fredoka:wght@400;600;700&family=Silkscreen&display=block">
+<style>
+:root{--bg:#1c1712;--bar:#2a221b;--fg:#fff4e2;--muted:#c9b39c;--accent:#ff8a3d;--line:#4a3c30;color-scheme:dark}
+html,body{height:100%}
+body{background:var(--bg);color:var(--fg);font:500 14px/1.4 "Fredoka",system-ui,sans-serif;display:flex;flex-direction:column;margin:0;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));box-sizing:border-box}
+#stage{flex:1;min-height:0;display:flex;align-items:center;justify-content:center;padding-block:12px}
+canvas{max-width:100%;max-height:100%;aspect-ratio:16/9;width:auto;height:auto;background:#000;border-radius:6px;display:block}
+#stage.drag canvas{outline:3px dashed var(--accent);outline-offset:4px}
+.bar{display:flex;flex-wrap:wrap;gap:10px;align-items:center;background:var(--bar);border:1px solid var(--line);border-radius:10px;padding:8px 12px;margin-bottom:12px}
+button,.file{background:transparent;color:var(--fg);border:1px solid var(--line);border-radius:8px;padding:6px 12px;font:inherit;cursor:pointer}
+button:focus-visible,.file:focus-within,input:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+#play{background:var(--accent);border-color:var(--accent);color:#2a160a;min-width:74px}
+#scrub{flex:1 1 200px;min-width:0;accent-color:var(--accent)}
+#time{font-variant-numeric:tabular-nums;color:var(--muted);min-width:96px}
+.file input{position:absolute;opacity:0;width:1px;height:1px}
+#vo{color:var(--muted);font-size:13px}
+button[aria-pressed="false"]{color:var(--muted)}
+</style>
+<div id="stage"><canvas id="cv" width="1280" height="720"></canvas></div>
+<div class="bar">
+  <button id="play">Play</button>
+  <input id="scrub" type="range" min="0" max="1000" value="0" aria-label="Scrub">
+  <span id="time">0.0 / 0.0 s</span>
+  <button id="snd" aria-pressed="true">Sound on</button>
+  <button id="loop" aria-pressed="true">Loop on</button>
+  <label class="file">Load voiceover<input id="file" type="file" accept="audio/*"></label>
+  <span id="vo">or drop an audio file on the picture</span>
+</div>
+<script>/*HARNESS*/</script>
+<script>/*SOUND*/</script>
+<script>/*MAIN*/</script>
+<script>
+(function(){
+  const cv=document.getElementById('cv'),ctx=cv.getContext('2d',{willReadFrequently:true});
+  const D=window.DURATION;let t=0,playing=false,last=0,loop=true,soundOn=true,stopSound=null,audio=null,started=false;
+  const $=id=>document.getElementById(id);
+  function draw(tt){ctx.setTransform(1,0,0,1,0,0);ctx.globalAlpha=1;ctx.globalCompositeOperation='source-over';ctx.filter='none';ctx.clearRect(0,0,1280,720);window.explainer(ctx,1280,720,tt);}
+  window.seek=(tt)=>{t=Math.max(0,Math.min(D,tt));draw(t);};
+  function ui(){$('scrub').value=Math.round(t/D*1000);$('time').textContent=`${t.toFixed(1)} / ${D.toFixed(1)} s`;$('play').textContent=playing?'Pause':'Play';}
+  function startSound(){if(stopSound){stopSound();stopSound=null}if(soundOn&&playing)stopSound=SOUND.live(window.scoreSound,t,{voiceover:!!audio});}
+  function play(){if(t>=D-0.01)t=0;playing=true;started=true;if(audio){audio.currentTime=t;audio.play().catch(()=>{})}last=performance.now();startSound();ui();requestAnimationFrame(tick);}
+  function pause(){playing=false;if(audio)audio.pause();if(stopSound){stopSound();stopSound=null}ui();}
+  function tick(now){if(!playing)return;
+    if(audio&&!audio.paused)t=audio.currentTime;else t+=(now-last)/1000;last=now;
+    if(t>=D){if(loop){t=0;if(audio){audio.currentTime=0;audio.play().catch(()=>{})}startSound();}else{t=D;draw(t);pause();return}}
+    draw(t);ui();requestAnimationFrame(tick);}
+  $('play').onclick=()=>playing?pause():play();
+  $('scrub').oninput=e=>{t=e.target.value/1000*D;started=true;if(audio)audio.currentTime=Math.min(t,audio.duration||t);draw(t);ui();if(playing)startSound();};
+  $('snd').onclick=e=>{soundOn=!soundOn;e.currentTarget.setAttribute('aria-pressed',soundOn);e.currentTarget.textContent=soundOn?'Sound on':'Sound off';if(!soundOn&&stopSound){stopSound();stopSound=null}else if(soundOn)startSound();};
+  $('loop').onclick=e=>{loop=!loop;e.currentTarget.setAttribute('aria-pressed',loop);e.currentTarget.textContent=loop?'Loop on':'Loop off';};
+  function loadFile(f){if(!f||!/^audio\//.test(f.type))return;pause();if(audio){URL.revokeObjectURL(audio.src)}audio=new Audio(URL.createObjectURL(f));audio.preload='auto';$('vo').textContent='Voiceover: '+f.name+' (the audio now drives the clock)';audio.onended=()=>{if(!loop)pause()};t=0;draw(0);ui();}
+  $('file').onchange=e=>loadFile(e.target.files[0]);
+  const st=$('stage');st.addEventListener('dragover',e=>{e.preventDefault();st.classList.add('drag')});st.addEventListener('dragleave',()=>st.classList.remove('drag'));st.addEventListener('drop',e=>{e.preventDefault();st.classList.remove('drag');loadFile(e.dataTransfer.files[0]);});
+  document.addEventListener('keydown',e=>{if(e.code==='Space'&&e.target.tagName!=='INPUT'){e.preventDefault();playing?pause():play();}});
+  const specs=['400 8px "Silkscreen"','400 28px "Silkscreen"','400 44px "Silkscreen"','400 64px "Silkscreen"','700 44px "Fredoka"','700 64px "Fredoka"','600 34px "Fredoka"'];
+  window.READY=Promise.all(specs.map(f=>document.fonts.load(f,'AaZz09°³·?'))).catch(()=>{}).then(()=>document.fonts.ready).then(()=>{draw(30.5);ui();});
+})();
+</script>

@@ -64,7 +64,7 @@ FAL_VIDEO_MODEL = env("FAL_VIDEO_MODEL", "minimax/h3-max-turbo/text-to-video")  
 FAL_RESOLUTION = env("FAL_RESOLUTION", None)                # blank = per model: MiniMax 768P, Seedance 480p
 FAL_PRICE_PER_SECOND = env("FAL_PRICE_PER_SECOND", None, float)  # budget tracking; blank = estimated per model
 FAL_SEEDANCE_PRICE_PER_1K_TOKENS = env("FAL_SEEDANCE_PRICE_PER_1K_TOKENS", 0.0214, float)  # fal list price, Oct 2026
-FAL_DAILY_BUDGET_USD = env("FAL_DAILY_BUDGET_USD", 10.0, float)  # hard stop for the day (one 3D animated Short is ~$6-8 at 480p)
+FAL_DAILY_BUDGET_USD = env("FAL_DAILY_BUDGET_USD", 10.0, float)  # hard stop for the day (one ~50 s 3D animated Short is ~$0.80-1.20 on MiniMax 768P)
 FAL_MAX_CLIPS_PER_VIDEO = env("FAL_MAX_CLIPS_PER_VIDEO", 6, int)
 FAL_FOR_STORIES = env("FAL_FOR_STORIES", True, bool)      # story videos: AI clips first (stock rarely fits a story)
 CLIPS_PER_DAY = env("CLIPS_PER_DAY", 0, int)             # daily "funniest animal moments" ideas (off: free stock clips are rarely truly funny)

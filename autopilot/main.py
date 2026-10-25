@@ -85,8 +85,8 @@ def cmd_trends(st):
 
 
 # ---------------------------------------------------------------- helpers
-def videos_today(st):
-    return sum(1 for k in st["videos"] if k.startswith(today()))
+def videos_today(st):  # videos the bot made itself (Claude-made explainers don't count)
+    return sum(1 for k, v in st["videos"].items() if k.startswith(today()) and v.get("source") != "claude")
 
 
 def queue_topic(st, bid, idx, by="you", fmt=None):
@@ -240,6 +240,9 @@ def act(st, vid, action, arg):
     elif action == "skip":
         v.update(status="rejected", updated=state.iso())
         telegram.send(f"🗑 Skipped video #{n}.")
+    elif action in ("redo", "change", "voice") and v.get("source") == "claude":
+        telegram.send(f"Video #{n} was made in Claude, so I can't remake it here. Reply <code>publish {n}</code>, "
+                      f"<code>skip {n}</code> or <code>title {n} New title</code>.")
     elif action in ("redo", "change", "voice"):
         if v.get("redos", 0) >= MAX_REDOS:
             telegram.send(f"Video #{n} has been remade {MAX_REDOS} times already. Publish or skip it, "
@@ -445,7 +448,8 @@ def do_publish(st, vid):
         slot = schedule.next_slot(taken)
     results = publish.publish_all(path, pkg["title"], desc, pkg["hashtags"], pkg.get("tags", []),
                                   pkg.get("category", "24"), thumb, srt_path, pkg.get("pinned_comment"),
-                                  slot.isoformat().replace("+00:00", "Z") if slot else None)
+                                  slot.isoformat().replace("+00:00", "Z") if slot else None,
+                                  youtube_only=pkg.get("format") == "long")
     v["status"], v["results"], v["updated"] = "published", {k: list(r) for k, r in results.items()}, state.iso()
     v["uploaded_at"] = state.iso()
     if slot:
@@ -540,6 +544,11 @@ def poll_once(st, wait=0):
         except Exception as e:  # noqa: BLE001
             print("viral signals failed:", e)
     catch_up_trends(st)
+    try:  # explainer videos made inside Claude, waiting on drop/* branches
+        from . import drops
+        drops.ingest(st)
+    except Exception as e:  # noqa: BLE001
+        print("drop intake failed:", e)
     auto_select(st)
     state.save(st)  # save choices before long work
     for vid, v in sorted(st["videos"].items()):
@@ -558,7 +567,8 @@ def poll_once(st, wait=0):
             traceback.print_exc()
             v["status"] = "failed"
             telegram.send(f"⚠️ Making video #{num(vid)} failed: {esc(str(e)[:300])}")
-    for vid, v in sorted(st["videos"].items()):
+    # Claude-made explainers get the day's YouTube uploads first (the free API quota allows ~4 a day)
+    for vid, v in sorted(st["videos"].items(), key=lambda kv: (kv[1].get("source") != "claude", kv[0])):
         if v["status"] == "awaiting_approval" and config.APPROVE_TIMEOUT_HOURS > 0:
             if state.now() - state.parse(v["updated"]) >= timedelta(hours=config.APPROVE_TIMEOUT_HOURS):
                 v.update(status="approved", approved_by="auto")

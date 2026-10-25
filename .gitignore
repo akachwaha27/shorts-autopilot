@@ -4,3 +4,7 @@ __pycache__/
 *.pyc
 .env
 client_secret*.json
+# explainer studio: third-party AI Style Atlas prompts + their libraries stay out of this public repo
+explainer/lib/
+explainer/templates/*.txt
+explainer/examples/ice-in-the-desert/voxel-main.js

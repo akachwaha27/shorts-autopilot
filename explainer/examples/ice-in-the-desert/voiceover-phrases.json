@@ -1,0 +1,627 @@
+[
+{
+"s": 0.04,
+"e": 2.05,
+"text": "How did people keep ice all summer,",
+"words": [
+[
+"how",
+0.04
+],
+[
+"did",
+0.26
+],
+[
+"people",
+0.47
+],
+[
+"keep",
+0.9
+],
+[
+"ice",
+1.19
+],
+[
+"all",
+1.4
+],
+[
+"summer",
+1.62
+]
+]
+},
+{
+"s": 2.51,
+"e": 3.53,
+"text": "in the middle of a desert?",
+"words": [
+[
+"in",
+2.51
+],
+[
+"the",
+2.61
+],
+[
+"middle",
+2.76
+],
+[
+"of",
+3.07
+],
+[
+"a",
+3.17
+],
+[
+"desert",
+3.22
+]
+]
+},
+{
+"s": 4.69,
+"e": 7.54,
+"text": "In ancient Persia, over two thousand years ago,",
+"words": [
+[
+"in",
+4.69
+],
+[
+"ancient",
+4.84
+],
+[
+"persia",
+5.37
+],
+[
+"over",
+5.82
+],
+[
+"two",
+6.12
+],
+[
+"thousand",
+6.34
+],
+[
+"years",
+6.94
+],
+[
+"ago",
+7.31
+]
+]
+},
+{
+"s": 7.87,
+"e": 9.58,
+"text": "engineers built the yakhchal:",
+"words": [
+[
+"engineers",
+7.87
+],
+[
+"built",
+8.49
+],
+[
+"the",
+8.83
+],
+[
+"yakhchal",
+9.03
+]
+]
+},
+{
+"s": 10.02,
+"e": 10.71,
+"text": "the ice pit.",
+"words": [
+[
+"the",
+10.02
+],
+[
+"ice",
+10.25
+],
+[
+"pit",
+10.48
+]
+]
+},
+{
+"s": 11.62,
+"e": 16.09,
+"text": "Underground canals, called qanats, carried mountain water beneath the sand.",
+"words": [
+[
+"underground",
+11.62
+],
+[
+"canals",
+12.4
+],
+[
+"called",
+12.83
+],
+[
+"qanats",
+13.25
+],
+[
+"carried",
+13.68
+],
+[
+"mountain",
+14.17
+],
+[
+"water",
+14.74
+],
+[
+"beneath",
+15.1
+],
+[
+"the",
+15.59
+],
+[
+"sand",
+15.81
+]
+]
+},
+{
+"s": 16.95,
+"e": 21.99,
+"text": "On winter nights, it flooded shallow pools behind a tall wall that blocked the sun.",
+"words": [
+[
+"on",
+16.95
+],
+[
+"winter",
+17.1
+],
+[
+"nights",
+17.55
+],
+[
+"it",
+18.0
+],
+[
+"flooded",
+18.15
+],
+[
+"shallow",
+18.68
+],
+[
+"pools",
+19.21
+],
+[
+"behind",
+19.58
+],
+[
+"a",
+20.03
+],
+[
+"tall",
+20.11
+],
+[
+"wall",
+20.41
+],
+[
+"that",
+20.71
+],
+[
+"blocked",
+21.01
+],
+[
+"the",
+21.54
+],
+[
+"sun",
+21.76
+]
+]
+},
+{
+"s": 22.86,
+"e": 24.68,
+"text": "By morning: solid ice.",
+"words": [
+[
+"by",
+22.86
+],
+[
+"morning",
+23.07
+],
+[
+"solid",
+23.82
+],
+[
+"ice",
+24.36
+]
+]
+},
+{
+"s": 25.52,
+"e": 28.71,
+"text": "Workers cut it into blocks, and stacked them in a deep pit,",
+"words": [
+[
+"workers",
+25.52
+],
+[
+"cut",
+26.01
+],
+[
+"it",
+26.21
+],
+[
+"into",
+26.35
+],
+[
+"blocks",
+26.63
+],
+[
+"and",
+27.05
+],
+[
+"stacked",
+27.25
+],
+[
+"them",
+27.74
+],
+[
+"in",
+28.02
+],
+[
+"a",
+28.16
+],
+[
+"deep",
+28.22
+],
+[
+"pit",
+28.5
+]
+]
+},
+{
+"s": 29.01,
+"e": 30.96,
+"text": "up to five thousand cubic meters.",
+"words": [
+[
+"up",
+29.01
+],
+[
+"to",
+29.15
+],
+[
+"five",
+29.3
+],
+[
+"thousand",
+29.59
+],
+[
+"cubic",
+30.17
+],
+[
+"meters",
+30.53
+]
+]
+},
+{
+"s": 31.69,
+"e": 33.04,
+"text": "Straw between the layers.",
+"words": [
+[
+"straw",
+31.69
+],
+[
+"between",
+32.01
+],
+[
+"the",
+32.46
+],
+[
+"layers",
+32.65
+]
+]
+},
+{
+"s": 33.91,
+"e": 36.65,
+"text": "Walls of sarooj mortar, two meters thick.",
+"words": [
+[
+"walls",
+33.91
+],
+[
+"of",
+34.33
+],
+[
+"sarooj",
+34.49
+],
+[
+"mortar",
+34.99
+],
+[
+"two",
+35.49
+],
+[
+"meters",
+35.74
+],
+[
+"thick",
+36.23
+]
+]
+},
+{
+"s": 37.46,
+"e": 38.5,
+"text": "And a tall dome:",
+"words": [
+[
+"and",
+37.46
+],
+[
+"a",
+37.72
+],
+[
+"tall",
+37.81
+],
+[
+"dome",
+38.15
+]
+]
+},
+{
+"s": 38.9,
+"e": 42.79,
+"text": "hot air escaped through the top, while cold air sank onto the ice.",
+"words": [
+[
+"hot",
+38.9
+],
+[
+"air",
+39.12
+],
+[
+"escaped",
+39.35
+],
+[
+"through",
+39.87
+],
+[
+"the",
+40.4
+],
+[
+"top",
+40.62
+],
+[
+"while",
+40.84
+],
+[
+"cold",
+41.22
+],
+[
+"air",
+41.52
+],
+[
+"sank",
+41.74
+],
+[
+"onto",
+42.04
+],
+[
+"the",
+42.34
+],
+[
+"ice",
+42.57
+]
+]
+},
+{
+"s": 43.6,
+"e": 44.46,
+"text": "Summer came.",
+"words": [
+[
+"summer",
+43.6
+],
+[
+"came",
+44.12
+]
+]
+},
+{
+"s": 44.97,
+"e": 46.38,
+"text": "Forty degrees outside.",
+"words": [
+[
+"forty",
+44.97
+],
+[
+"degrees",
+45.34
+],
+[
+"outside",
+45.86
+]
+]
+},
+{
+"s": 46.82,
+"e": 49.06,
+"text": "Ice inside, all season long.",
+"words": [
+[
+"ice",
+46.82
+],
+[
+"inside",
+47.13
+],
+[
+"all",
+47.74
+],
+[
+"season",
+48.04
+],
+[
+"long",
+48.65
+]
+]
+},
+{
+"s": 49.8,
+"e": 50.79,
+"text": "No electricity.",
+"words": [
+[
+"no",
+49.8
+],
+[
+"electricity",
+49.95
+]
+]
+},
+{
+"s": 51.36,
+"e": 55.03,
+"text": "Just shade, straw, thick walls, and clever airflow.",
+"words": [
+[
+"just",
+51.36
+],
+[
+"shade",
+51.73
+],
+[
+"straw",
+52.19
+],
+[
+"thick",
+52.64
+],
+[
+"walls",
+53.1
+],
+[
+"and",
+53.56
+],
+[
+"clever",
+53.84
+],
+[
+"airflow",
+54.39
+]
+]
+}
+]

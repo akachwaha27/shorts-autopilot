@@ -240,13 +240,15 @@ def tiktok(path, caption):
 
 
 def publish_all(path, title, description, hashtags, tags=(), category="24", thumb=None, srt=None, comment=None,
-                publish_at=None):
+                publish_at=None, youtube_only=False):
+    """youtube_only: long (16:9) videos, which Reels/TikTok's vertical short-video APIs don't take."""
     cap = {p: social_caption(title, description, hashtags, p) for p in ("instagram", "facebook", "tiktok")}
     results = {}
-    for name, fn in (("YouTube", lambda: youtube(path, title, description, list(tags) or [h.lstrip("#") for h in hashtags], category, thumb, srt, comment, publish_at)),
-                     ("Instagram", lambda: instagram(path, cap["instagram"])),
-                     ("Facebook", lambda: facebook(path, cap["facebook"], title)),
-                     ("TikTok", lambda: tiktok(path, cap["tiktok"]))):
+    targets = (("YouTube", lambda: youtube(path, title, description, list(tags) or [h.lstrip("#") for h in hashtags], category, thumb, srt, comment, publish_at)),
+               ("Instagram", lambda: instagram(path, cap["instagram"])),
+               ("Facebook", lambda: facebook(path, cap["facebook"], title)),
+               ("TikTok", lambda: tiktok(path, cap["tiktok"])))
+    for name, fn in targets[:1] if youtube_only else targets:
         try:
             results[name] = fn()
         except Exception as e:  # noqa: BLE001

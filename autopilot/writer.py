@@ -1,7 +1,7 @@
 """Scripts + metadata for six Shorts formats, tuned for retention and YouTube policy.
 
 Formats: ranking, story, funny, quiz, tips, explainer, clips (funny animal clips ranking),
-animated (30-second "how it works" explainer drawn entirely as 3D animation by Seedance on fal.ai).
+animated (45-60 second "how it works" explainer drawn entirely as 3D animation by AI video on fal.ai).
 Each scene may carry on-screen overlays:
   badge  - big text at top ("#5", "Q1", "✓", "TIP 2")
   label  - smaller text under the badge (item name, question, answer)
@@ -29,6 +29,7 @@ def fmt_of(topic):
 
 
 WORDS_PER_SECOND = 2.6  # natural edge-tts pace at +0..5% speed
+ANIMATED_WORDS = 145  # 3D animated explainers: ~50 s at the brisk +15% voice (~170 words a minute)
 
 
 def target_words():
@@ -120,8 +121,8 @@ Intro: a hook that promises the funniest moment at number one. Ranked scenes: st
 observation, exaggerated comparison or deadpan aside, then a punchline. badge "#5" ... "#1"; label = a funny
 2-4 word name for the moment ("The Belly Flop"). Outro: ask which one made them laugh most.
 Title starts with "Ranking the" or "Top 5". Kind humor: laugh WITH the animals, never at their pain.""",
-    "animated": """FORMAT: 3D animated "how it works" explainer, about 30 seconds (70-85 spoken words).
-7-10 scenes of 2-4 seconds each, one step of the mechanism or story per scene, in order. Line 1 states the
+    "animated": """FORMAT: 3D animated "how it works" explainer, about 45-60 seconds (130-165 spoken words).
+12-16 scenes of 3-4 seconds each, one step of the mechanism or story per scene, in order. Line 1 states the
 surprising fact or question; the rest walks through HOW it works, step by step, ending on the payoff and
 flowing back into line 1. No badges; labels empty. For EVERY scene also give "shot": one vivid, literal
 description of the 3D animated shot for that beat (subject, action, camera move, cutaway/cross-section view
@@ -136,7 +137,7 @@ Badges/labels optional: use label for one key number or term on screen when it h
 
 def write_package(topic):
     """Writes the package and re-asks (max 2 times) until the narration is close to TARGET_SECONDS."""
-    want = 78 if fmt_of(topic) == "animated" else target_words()  # 3D animated explainers run ~30 s
+    want = ANIMATED_WORDS if fmt_of(topic) == "animated" else target_words()  # 3D animated explainers run ~50 s
     lo, hi = int(want * 0.88), int(want * 1.2)
     pkg, note = None, ""
     for _ in range(3):
@@ -165,7 +166,7 @@ Language: {config.LANGUAGE}.
 {('THE CLIPS, in scene order:' + chr(10) + topic['clip_notes']) if topic.get('clip_notes') else ''}
 {FUNNY_TONE if funny else ''}
 
-{RETENTION_RULES.replace('{format_tag}', info['tag']) if fmt != "animated" else RETENTION_RULES.replace('{format_tag}', info['tag']).replace(f"must be {target_words()} spoken words", "must be about 78 spoken words").replace(f"about {config.TARGET_SECONDS} seconds", "about 30 seconds")}
+{RETENTION_RULES.replace('{format_tag}', info['tag']) if fmt != "animated" else RETENTION_RULES.replace('{format_tag}', info['tag']).replace(f"must be {target_words()} spoken words", f"must be about {ANIMATED_WORDS} spoken words").replace(f"about {config.TARGET_SECONDS} seconds", "about 50 seconds")}
 
 Return JSON:
 {{"primary_keyword": "...", "title": "...", "hook_text": "...", "thumbnail_text": "...", "description": "...", "hashtags": ["#shorts", "...", "...", "{info['tag']}"],
@@ -194,7 +195,7 @@ def from_plan(topic, row):
     funny = fmt in ("funny", "clips") or str(topic.get("tone", "")).lower() == "funny"
     feedback = topic.get("feedback", "")
     prompt = f"""Turn this approved YouTube Short into the production JSON. The NARRATION MUST STAY WORD FOR WORD
-(only fix obvious typos); split it into scenes at the line breaks / natural beats (6-9 scenes).
+(only fix obvious typos); split it into scenes at the line breaks / natural beats ({'one scene per line, 12-16 scenes' if fmt == "animated" else '6-9 scenes'}).
 {f'CHANNEL OWNER FEEDBACK - apply it, you may rewrite lines to do so: {feedback}' if feedback else ''}
 
 Title: {row.get('title', '')}
