@@ -9,7 +9,7 @@ const args = process.argv.slice(2);
 const opt = (k, d) => { const i = args.indexOf('--' + k); return i >= 0 ? args[i + 1] : d; };
 const [html, outdir] = args;
 const W = +opt('w', 1280), Hh = +opt('h', 720), FPS = +opt('fps', 30), TEST = opt('test', null);
-const FONTS = [['Fredoka', 400, 'fredoka-latin-400-normal.woff2'], ['Fredoka', 600, 'fredoka-latin-600-normal.woff2'], ['Fredoka', 700, 'fredoka-latin-700-normal.woff2'], ['Silkscreen', 400, 'silkscreen-latin-400-normal.woff2']];
+const FONTS = [['Fredoka', 400, 'fredoka-latin-400-normal.woff2'], ['Fredoka', 600, 'fredoka-latin-600-normal.woff2'], ['Fredoka', 700, 'fredoka-latin-700-normal.woff2'], ['Silkscreen', 400, 'silkscreen-latin-400-normal.woff2'], ['Space Grotesk', 400, 'space-grotesk-latin-400-normal.woff2'], ['Space Grotesk', 700, 'space-grotesk-latin-700-normal.woff2']];
 (async () => {
   fs.mkdirSync(outdir, { recursive: true });
   const fontDir = process.env.FONT_DIR || path.join(__dirname, '..', 'fonts');

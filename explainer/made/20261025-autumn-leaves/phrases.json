@@ -1,0 +1,722 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.2,
+  "text": "Why do leaves turn orange in fall?",
+  "words": [
+   [
+    "why",
+    0.25
+   ],
+   [
+    "do",
+    0.47
+   ],
+   [
+    "leaves",
+    0.61
+   ],
+   [
+    "turn",
+    1.05
+   ],
+   [
+    "orange",
+    1.33
+   ],
+   [
+    "in",
+    1.77
+   ],
+   [
+    "fall",
+    1.91
+   ]
+  ]
+ },
+ {
+  "s": 2.75,
+  "e": 3.78,
+  "text": "Here's the twist:",
+  "words": [
+   [
+    "heres",
+    2.75
+   ],
+   [
+    "the",
+    3.15
+   ],
+   [
+    "twist",
+    3.38
+   ]
+  ]
+ },
+ {
+  "s": 4.08,
+  "e": 5.81,
+  "text": "the orange was there all summer.",
+  "words": [
+   [
+    "the",
+    4.08
+   ],
+   [
+    "orange",
+    4.28
+   ],
+   [
+    "was",
+    4.68
+   ],
+   [
+    "there",
+    4.88
+   ],
+   [
+    "all",
+    5.21
+   ],
+   [
+    "summer",
+    5.41
+   ]
+  ]
+ },
+ {
+  "s": 6.36,
+  "e": 8.54,
+  "text": "A leaf is packed with green chlorophyll,",
+  "words": [
+   [
+    "a",
+    6.36
+   ],
+   [
+    "leaf",
+    6.43
+   ],
+   [
+    "is",
+    6.69
+   ],
+   [
+    "packed",
+    6.82
+   ],
+   [
+    "with",
+    7.22
+   ],
+   [
+    "green",
+    7.48
+   ],
+   [
+    "chlorophyll",
+    7.81
+   ]
+  ]
+ },
+ {
+  "s": 8.84,
+  "e": 11.11,
+  "text": "the pigment that turns sunlight into sugar.",
+  "words": [
+   [
+    "the",
+    8.84
+   ],
+   [
+    "pigment",
+    9.03
+   ],
+   [
+    "that",
+    9.47
+   ],
+   [
+    "turns",
+    9.72
+   ],
+   [
+    "sunlight",
+    10.04
+   ],
+   [
+    "into",
+    10.54
+   ],
+   [
+    "sugar",
+    10.8
+   ]
+  ]
+ },
+ {
+  "s": 11.66,
+  "e": 14.38,
+  "text": "But it's also holding yellow and orange pigments,",
+  "words": [
+   [
+    "but",
+    11.66
+   ],
+   [
+    "its",
+    11.86
+   ],
+   [
+    "also",
+    12.07
+   ],
+   [
+    "holding",
+    12.34
+   ],
+   [
+    "yellow",
+    12.82
+   ],
+   [
+    "and",
+    13.22
+   ],
+   [
+    "orange",
+    13.43
+   ],
+   [
+    "pigments",
+    13.83
+   ]
+  ]
+ },
+ {
+  "s": 14.68,
+  "e": 15.94,
+  "text": "called carotenoids.",
+  "words": [
+   [
+    "called",
+    14.68
+   ],
+   [
+    "carotenoids",
+    15.12
+   ]
+  ]
+ },
+ {
+  "s": 16.49,
+  "e": 18.49,
+  "text": "All summer, the green drowns them out.",
+  "words": [
+   [
+    "all",
+    16.49
+   ],
+   [
+    "summer",
+    16.69
+   ],
+   [
+    "the",
+    17.09
+   ],
+   [
+    "green",
+    17.29
+   ],
+   [
+    "drowns",
+    17.63
+   ],
+   [
+    "them",
+    18.02
+   ],
+   [
+    "out",
+    18.29
+   ]
+  ]
+ },
+ {
+  "s": 19.04,
+  "e": 20.43,
+  "text": "Then the nights get longer,",
+  "words": [
+   [
+    "then",
+    19.04
+   ],
+   [
+    "the",
+    19.29
+   ],
+   [
+    "nights",
+    19.48
+   ],
+   [
+    "get",
+    19.86
+   ],
+   [
+    "longer",
+    20.05
+   ]
+  ]
+ },
+ {
+  "s": 20.73,
+  "e": 22.46,
+  "text": "and the tree shuts the leaf down.",
+  "words": [
+   [
+    "and",
+    20.73
+   ],
+   [
+    "the",
+    20.93
+   ],
+   [
+    "tree",
+    21.13
+   ],
+   [
+    "shuts",
+    21.4
+   ],
+   [
+    "the",
+    21.73
+   ],
+   [
+    "leaf",
+    21.93
+   ],
+   [
+    "down",
+    22.2
+   ]
+  ]
+ },
+ {
+  "s": 23.01,
+  "e": 24.75,
+  "text": "It stops making chlorophyll,",
+  "words": [
+   [
+    "it",
+    23.01
+   ],
+   [
+    "stops",
+    23.16
+   ],
+   [
+    "making",
+    23.52
+   ],
+   [
+    "chlorophyll",
+    23.95
+   ]
+  ]
+ },
+ {
+  "s": 25.05,
+  "e": 26.82,
+  "text": "and breaks the old green apart.",
+  "words": [
+   [
+    "and",
+    25.05
+   ],
+   [
+    "breaks",
+    25.26
+   ],
+   [
+    "the",
+    25.69
+   ],
+   [
+    "old",
+    25.9
+   ],
+   [
+    "green",
+    26.11
+   ],
+   [
+    "apart",
+    26.47
+   ]
+  ]
+ },
+ {
+  "s": 27.37,
+  "e": 30.73,
+  "text": "Scientists think it pulls back about half the leaf's nitrogen,",
+  "words": [
+   [
+    "scientists",
+    27.37
+   ],
+   [
+    "think",
+    28.03
+   ],
+   [
+    "it",
+    28.36
+   ],
+   [
+    "pulls",
+    28.49
+   ],
+   [
+    "back",
+    28.82
+   ],
+   [
+    "about",
+    29.09
+   ],
+   [
+    "half",
+    29.41
+   ],
+   [
+    "the",
+    29.68
+   ],
+   [
+    "leafs",
+    29.88
+   ],
+   [
+    "nitrogen",
+    30.2
+   ]
+  ]
+ },
+ {
+  "s": 31.03,
+  "e": 32.28,
+  "text": "saving it for spring.",
+  "words": [
+   [
+    "saving",
+    31.03
+   ],
+   [
+    "it",
+    31.47
+   ],
+   [
+    "for",
+    31.62
+   ],
+   [
+    "spring",
+    31.84
+   ]
+  ]
+ },
+ {
+  "s": 32.83,
+  "e": 34.02,
+  "text": "With the green gone,",
+  "words": [
+   [
+    "with",
+    32.83
+   ],
+   [
+    "the",
+    33.13
+   ],
+   [
+    "green",
+    33.35
+   ],
+   [
+    "gone",
+    33.72
+   ]
+  ]
+ },
+ {
+  "s": 34.32,
+  "e": 36.0,
+  "text": "the hidden orange shows through.",
+  "words": [
+   [
+    "the",
+    34.32
+   ],
+   [
+    "hidden",
+    34.51
+   ],
+   [
+    "orange",
+    34.88
+   ],
+   [
+    "shows",
+    35.25
+   ],
+   [
+    "through",
+    35.57
+   ]
+  ]
+ },
+ {
+  "s": 36.55,
+  "e": 37.45,
+  "text": "And the reds?",
+  "words": [
+   [
+    "and",
+    36.55
+   ],
+   [
+    "the",
+    36.82
+   ],
+   [
+    "reds",
+    37.09
+   ]
+  ]
+ },
+ {
+  "s": 38.0,
+  "e": 39.23,
+  "text": "Those are brand new.",
+  "words": [
+   [
+    "those",
+    38.0
+   ],
+   [
+    "are",
+    38.38
+   ],
+   [
+    "brand",
+    38.61
+   ],
+   [
+    "new",
+    39.0
+   ]
+  ]
+ },
+ {
+  "s": 39.78,
+  "e": 41.96,
+  "text": "Trapped sugars turn into red pigments,",
+  "words": [
+   [
+    "trapped",
+    39.78
+   ],
+   [
+    "sugars",
+    40.25
+   ],
+   [
+    "turn",
+    40.66
+   ],
+   [
+    "into",
+    40.94
+   ],
+   [
+    "red",
+    41.21
+   ],
+   [
+    "pigments",
+    41.41
+   ]
+  ]
+ },
+ {
+  "s": 42.26,
+  "e": 45.04,
+  "text": "right before a cork-like seal forms at the stem,",
+  "words": [
+   [
+    "right",
+    42.26
+   ],
+   [
+    "before",
+    42.62
+   ],
+   [
+    "a",
+    43.06
+   ],
+   [
+    "corklike",
+    43.14
+   ],
+   [
+    "seal",
+    43.72
+   ],
+   [
+    "forms",
+    44.02
+   ],
+   [
+    "at",
+    44.38
+   ],
+   [
+    "the",
+    44.53
+   ],
+   [
+    "stem",
+    44.75
+   ]
+  ]
+ },
+ {
+  "s": 45.34,
+  "e": 46.59,
+  "text": "and the leaf lets go.",
+  "words": [
+   [
+    "and",
+    45.34
+   ],
+   [
+    "the",
+    45.58
+   ],
+   [
+    "leaf",
+    45.81
+   ],
+   [
+    "lets",
+    46.12
+   ],
+   [
+    "go",
+    46.43
+   ]
+  ]
+ },
+ {
+  "s": 47.14,
+  "e": 48.98,
+  "text": "So fall doesn't paint the leaves.",
+  "words": [
+   [
+    "so",
+    47.14
+   ],
+   [
+    "fall",
+    47.28
+   ],
+   [
+    "doesnt",
+    47.57
+   ],
+   [
+    "paint",
+    47.99
+   ],
+   [
+    "the",
+    48.34
+   ],
+   [
+    "leaves",
+    48.56
+   ]
+  ]
+ },
+ {
+  "s": 49.53,
+  "e": 50.97,
+  "text": "It peels the green away.",
+  "words": [
+   [
+    "it",
+    49.53
+   ],
+   [
+    "peels",
+    49.68
+   ],
+   [
+    "the",
+    50.06
+   ],
+   [
+    "green",
+    50.29
+   ],
+   [
+    "away",
+    50.66
+   ]
+  ]
+ },
+ {
+  "s": 51.52,
+  "e": 53.77,
+  "text": "Which tree turns the brightest where you live?",
+  "words": [
+   [
+    "which",
+    51.52
+   ],
+   [
+    "tree",
+    51.81
+   ],
+   [
+    "turns",
+    52.05
+   ],
+   [
+    "the",
+    52.35
+   ],
+   [
+    "brightest",
+    52.52
+   ],
+   [
+    "where",
+    53.06
+   ],
+   [
+    "you",
+    53.35
+   ],
+   [
+    "live",
+    53.53
+   ]
+  ]
+ }
+]
