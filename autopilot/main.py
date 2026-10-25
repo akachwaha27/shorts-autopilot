@@ -435,7 +435,10 @@ def do_publish(st, vid):
         except Exception as e:  # noqa: BLE001
             print("thumbnail fetch failed:", e)
     srt_path = None
-    if v.get("srt"):
+    claude = v.get("source") == "claude"  # quota: no captions/API comment; thumbnail only on long videos
+    if claude and pkg.get("format") != "long":
+        thumb = None
+    if v.get("srt") and not claude:
         srt_path = os.path.join(dl, f"{vid}.srt")
         os.makedirs(dl, exist_ok=True)
         with open(srt_path, "w", encoding="utf-8") as f:
@@ -447,7 +450,7 @@ def do_publish(st, vid):
         taken = [x.get("slot") for x in st["videos"].values() if x.get("slot")]
         slot = schedule.next_slot(taken)
     results = publish.publish_all(path, pkg["title"], desc, pkg["hashtags"], pkg.get("tags", []),
-                                  pkg.get("category", "24"), thumb, srt_path, pkg.get("pinned_comment"),
+                                  pkg.get("category", "24"), thumb, srt_path, None if claude else pkg.get("pinned_comment"),
                                   slot.isoformat().replace("+00:00", "Z") if slot else None,
                                   youtube_only=pkg.get("format") == "long")
     v["status"], v["results"], v["updated"] = "published", {k: list(r) for k, r in results.items()}, state.iso()
@@ -478,6 +481,12 @@ def do_publish(st, vid):
     telegram.send("\n".join(lines))
 
 
+def upload_limit():
+    """Free API quota is 10,000 units a day. With the bot's own videos off, Claude-made uploads skip captions
+    (400) and the API comment (50), so 6 fit: 4 Shorts x 1,600 + 2 long x 1,650 = 9,700."""
+    return config.YT_DAILY_UPLOADS if config.OWN_VIDEOS else config.CLAUDE_DAILY_UPLOADS
+
+
 def uploads_today(st):
     """YouTube quota resets at midnight Pacific time."""
     from zoneinfo import ZoneInfo
@@ -502,7 +511,7 @@ def daily_housekeeping(st):
 
 def catch_up_trends(st):
     """If today's idea list never arrived (e.g. AI was overloaded), retry later in the day."""
-    if today() in st["batches"] or state.now().hour < 15:  # daily list goes out ~14:17 UTC (after the 9 AM ET sheet)
+    if not config.OWN_VIDEOS or today() in st["batches"] or state.now().hour < 15:  # daily list goes out ~14:17 UTC (after the 9 AM ET sheet)
         return
     t = st.get("trend_tries", {}).get(today())
     if t and (t["n"] >= 3 or state.now() - state.parse(t["at"]) < timedelta(hours=1)):
@@ -573,10 +582,10 @@ def poll_once(st, wait=0):
             if state.now() - state.parse(v["updated"]) >= timedelta(hours=config.APPROVE_TIMEOUT_HOURS):
                 v.update(status="approved", approved_by="auto")
         if v["status"] == "approved":
-            if uploads_today(st) >= config.YT_DAILY_UPLOADS:
+            if uploads_today(st) >= upload_limit():
                 if v.get("quota_note") != today():
                     v["quota_note"] = today()
-                    telegram.send(f"⏳ Video #{num(vid)} is approved, but today's {config.YT_DAILY_UPLOADS} YouTube uploads "
+                    telegram.send(f"⏳ Video #{num(vid)} is approved, but today's {upload_limit()} YouTube uploads "
                                   "are used (free API quota). I'll upload it right after the quota resets at midnight "
                                   "Pacific (3 AM ET); it still goes out at the next peak slot.")
                 continue
@@ -685,6 +694,9 @@ def main():
             return state.save(st)
         st = state.load()
         try:
+            if cmd == "trends" and not config.OWN_VIDEOS:
+                print("Bot's own daily videos are off (Variable OWN_VIDEOS); Claude makes the explainers. Polling instead.")
+                cmd = "poll"
             {"trends": cmd_trends, "poll": cmd_poll}[cmd](st)
         finally:
             state.save(st)

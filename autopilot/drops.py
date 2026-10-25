@@ -83,7 +83,8 @@ def _queue(st, folder, meta, branch):
     fmt = "long" if meta.get("kind") == "long" else "animated"
     pkg = {
         "title": str(meta["title"])[:95],
-        "description": meta.get("description", ""),
+        # the follow line also tells the Studio upkeep task this description is already optimized (it keeps the sources)
+        "description": meta.get("description", "").rstrip() + "\n\nFollow Zorbly AI for a new Short every day.",
         "hashtags": meta.get("hashtags") or ["#shorts", "#howitworks"],
         "tags": meta.get("tags", []),
         "category": str(meta.get("category", "27")),

@@ -87,6 +87,8 @@ SCHEDULE_PUBLISH = env("SCHEDULE_PUBLISH", True, bool)
 PUBLISH_TZ = env("PUBLISH_TZ", "America/New_York")
 PUBLISH_SLOTS_WEEKDAY = env("PUBLISH_SLOTS_WEEKDAY", "12:15,15:15,19:15,21:15")
 PUBLISH_SLOTS_WEEKEND = env("PUBLISH_SLOTS_WEEKEND", "10:15,14:15,19:15,21:15")
+OWN_VIDEOS = env("OWN_VIDEOS", False, bool)        # bot makes its own daily videos too (off: Claude makes them all)
+CLAUDE_DAILY_UPLOADS = env("CLAUDE_DAILY_UPLOADS", 6, int)  # Claude-made: Shorts = 1,600 units (no captions/comment), long = 1,650
 YT_DAILY_UPLOADS = env("YT_DAILY_UPLOADS", 4, int)   # ~2,100 quota units each; free quota is 10,000/day
 KEEP_VIDEOS_DAYS = env("KEEP_VIDEOS_DAYS", 30, int)  # delete stored video files older than this (your PC sync keeps copies)
 STATS_EVERY_HOURS = env("STATS_EVERY_HOURS", 2, float)  # refresh YouTube views/likes/comments for the dashboard

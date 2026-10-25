@@ -155,10 +155,14 @@ def refresh_stats(force=False):
             seen.add(item["id"])
         for missing in set(keys[i:i + 50]) - seen:
             videos[ids[missing]].setdefault("youtube_stats", {})["privacy"] = "removed"
-    # latest comments for videos from the last 30 days
-    for yid, k in ids.items():
+    # latest comments for PUBLIC videos from the last 30 days, once a day (1 quota unit per video)
+    day = state.now().date().isoformat()
+    do_comments = meta.get("_comments_day") != day
+    if do_comments:
+        meta["_comments_day"] = day
+    for yid, k in ids.items() if do_comments else ():
         rec = videos[k]
-        if (rec.get("youtube_stats") or {}).get("privacy") == "removed":
+        if (rec.get("youtube_stats") or {}).get("privacy") != "public":
             continue
         if rec.get("date", "") < _days_ago(30):
             continue
