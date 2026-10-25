@@ -1,49 +1,6 @@
 {
   "tg_offset": 40455537,
   "batches": {
-    "2026-10-21-2": {
-      "topics": [
-        {
-          "title": "Top 5 Animals That Completely Forgot How to Fly",
-          "angle": "Ranking birds that traded the sky for absolute chaos on the ground, delivering hilarious physical comedy.",
-          "format": "ranking",
-          "tone": "funny",
-          "trend_source": "YouTube Trending Animal/Gaming comedy trends",
-          "virality_score": 9,
-          "why": "Combines a top 5 ranking format with wholesome, funny animal visuals that drive high completion and replay rates."
-        },
-        {
-          "title": "Top 5 Worst Design Fails in Ancient Castles",
-          "angle": "Ranking medieval architectural blunders that would never pass modern building inspections.",
-          "format": "ranking",
-          "tone": "funny",
-          "trend_source": "Google Trends historical curiosity patterns",
-          "virality_score": 8,
-          "why": "Humorous historical commentary keeps retention high through clever pacing and relatable design frustrations."
-        },
-        {
-          "title": "Why Modern Skyscrapers Are Built Like Giant Tuning Forks",
-          "angle": "Explaining the hidden giant pendulums swinging inside supertall skyscrapers to keep them from snapping in the wind.",
-          "format": "explainer",
-          "tone": "normal",
-          "trend_source": "Google Trends architecture and structural engineering interest",
-          "virality_score": 7,
-          "why": "Mind-blowing real-world engineering facts capture immediate curiosity within the first two seconds."
-        },
-        {
-          "title": "The Mystery of the Town That Got Lost in the Mail",
-          "angle": "A short storytelling narrative about a cartography typo that accidentally put a ghost town on thousands of official maps.",
-          "format": "story",
-          "tone": "normal",
-          "trend_source": "Evergreen mystery curiosity",
-          "virality_score": 7,
-          "why": "A quirky narrative structure hooks viewers instantly and maintains a steady tension until the final punchline."
-        }
-      ],
-      "sent_at": "2026-10-21T18:41:11.690753+00:00",
-      "selected": [],
-      "status": "closed"
-    },
     "2026-10-22": {
       "topics": [
         {
@@ -361,6 +318,58 @@
       "sent_at": "2026-10-24T17:36:00.412971+00:00",
       "selected": [],
       "status": "closed"
+    },
+    "2026-10-25": {
+      "topics": [
+        {
+          "title": "How Tape Measures Work \ud83d\udccf",
+          "angle": "Zack D. Films' 'How Pencil Sharpeners Work' is running at about 346,000 views per hour this week, and the same 'How X Works' everyday-object shape also gave 'How Electrical Outlets Work' 59 million views; a tape measure's hidden spring, curve and sliding hook is the same inside-view payoff.",
+          "format": "animated",
+          "tone": "normal",
+          "virality_score": 8,
+          "trend_source": "title shape of How Pencil Sharpeners Work (345,661 views/h); also How Electrical Outlets Work (68,512 views/h)",
+          "plan_id": "P2026-10-25-01"
+        },
+        {
+          "title": "Top 5 Funniest Animal Sounds \ud83d\ude02",
+          "angle": "Funny family Shorts dominate today's outliers (He Builds Art Just to Destroy It at 12.4x its channel median, Wait For End at 10.6x), and they all promise a payoff you only get by staying to the end; a countdown to a bird that copies a chainsaw holds the same last-beat reveal.",
+          "format": "funny",
+          "tone": "funny",
+          "virality_score": 8,
+          "trend_source": "He Builds Art Just to Destroy It! (12.4x); Wait For End (10.6x)",
+          "plan_id": "P2026-10-25-02"
+        },
+        {
+          "title": "Top 5 Animals With the Biggest Eyes \ud83d\udc41\ufe0f",
+          "angle": "Superlative titles keep breaking out today (The best part of The Rookie at 7.4x its channel median uses The Superlative), and a countdown that flips the obvious answer (not the whale) is the kind of last-beat payoff that drives rewatches.",
+          "format": "ranking",
+          "tone": "normal",
+          "virality_score": 7,
+          "trend_source": "The best part of The Rookie (7.4x, The Superlative)",
+          "plan_id": "P2026-10-25-03"
+        },
+        {
+          "title": "The 5-Year Wait Behind Post-it Notes",
+          "angle": "Today's outliers reward a reveal you only get at the end (Wait For End at 10.6x its channel median), and an origin story whose answer arrives in the last beats, a bookmark that saved a failed glue, has that same twist structure.",
+          "format": "story",
+          "tone": "normal",
+          "virality_score": 7,
+          "trend_source": "Wait For End (10.6x); He Builds Art Just to Destroy It! (12.4x)",
+          "plan_id": "P2026-10-25-04"
+        },
+        {
+          "title": "3-Second Blacklight Quiz: What Glows?",
+          "angle": "Quick-reveal formats are winning the outlier list (Wait For End at 10.6x and the quiz-style 'INDIA'S FLAG CHANGED HOW MANY TIMES?!' at 5.7x its channel median), and a 3-second guess with a twist answer (all three) gives viewers the same reason to stay to the end.",
+          "format": "quiz",
+          "tone": "normal",
+          "virality_score": 7,
+          "trend_source": "INDIA'S FLAG CHANGED HOW MANY TIMES?! (5.7x); Wait For End (10.6x)",
+          "plan_id": "P2026-10-25-05"
+        }
+      ],
+      "sent_at": "2026-10-25T17:46:58.698472+00:00",
+      "selected": [],
+      "status": "waiting"
     }
   },
   "videos": {
@@ -11864,10 +11873,6 @@
     "How 1 Pie Tin Became the Frisbee \ud83e\udd67"
   ],
   "trend_tries": {
-    "2026-10-22": {
-      "n": 2,
-      "at": "2026-10-22T18:33:56.560632+00:00"
-    },
     "2026-10-23": {
       "n": 2,
       "at": "2026-10-23T18:23:33.393942+00:00"
@@ -11875,6 +11880,10 @@
     "2026-10-24": {
       "n": 2,
       "at": "2026-10-24T17:27:59.451236+00:00"
+    },
+    "2026-10-25": {
+      "n": 1,
+      "at": "2026-10-25T17:40:17.371797+00:00"
     }
   },
   "cleanup_day": "2026-10-25",
