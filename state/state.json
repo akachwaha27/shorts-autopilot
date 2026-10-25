@@ -368,781 +368,16 @@
         }
       ],
       "sent_at": "2026-10-25T17:46:58.698472+00:00",
-      "selected": [],
-      "status": "waiting"
+      "selected": [
+        0,
+        1,
+        2,
+        3
+      ],
+      "status": "closed"
     }
   },
   "videos": {
-    "2026-10-17-2": {
-      "topic": {
-        "title": "Top 5 Foods With Names That Lie \ud83d\ude02",
-        "angle": "Kind, laugh-out-loud comedy is all over today's outliers ('WHEN A KID GETS A NEW CYCLE' at 13.1x, 'what would you do?' at 14.5x, 'Try Not To Laugh Life Hacks' at 2.6x), and a Top 5 of foods whose names lie gives that gag a fact payoff every beat.",
-        "format": "funny",
-        "tone": "funny",
-        "virality_score": 8,
-        "trend_source": "what would you do? #shorts #comedy #funny (14.5x, The Question); WHEN A KID GETS A NEW CYCLE (13.1x); Try Not To Laugh Life Hacks (2.6x)",
-        "plan_id": "P2026-10-17-02"
-      },
-      "status": "published",
-      "by": "auto",
-      "updated": "2026-10-18T10:40:17.020949+00:00",
-      "redos": 0,
-      "package": {
-        "primary_keyword": "misleading food names",
-        "title": "Top 5 Foods With Names That Lie \ud83d\ude02",
-        "hook_text": "MENU LIES EXPOSED",
-        "thumbnail_text": "ZERO TOADS",
-        "description": "Why is there no egg in an egg cream, no buffalo in buffalo wings, and no toad in toad in the hole? Here are the top 5 foods with names that lie, and the real story behind each food name.\n\nIn this Short: buffalo wings, Bombay duck, Welsh rarebit, the egg cream, and toad in the hole, counted down to the biggest liar on the menu.\n\nSources:\nhttps://www.chowhound.com/1493133/origin-nyc-egg-cream-soda/\nhttps://en.wikipedia.org/wiki/Toad_in_the_hole\nhttps://dictionary.com/browse/bombay-duck",
-        "hashtags": [
-          "#shorts",
-          "#food",
-          "#funfacts",
-          "#funny"
-        ],
-        "tags": [
-          "misleading food names",
-          "egg cream",
-          "egg cream nyc",
-          "egg cream soda",
-          "funny food names",
-          "funny food names video",
-          "funny indian food names",
-          "funny british food names",
-          "why is there no egg in an egg cream",
-          "egg cream drink",
-          "food names wrong",
-          "funny food words",
-          "bombay duck",
-          "welsh rarebit",
-          "buffalo wings",
-          "toad in the hole",
-          "buffalo wings name",
-          "toad in the hole name",
-          "food names that are lies",
-          "food facts",
-          "welsh rabbit"
-        ],
-        "pinned_comment": "Bonus fact: an older cousin of toad in the hole, from 1747, was called pigeon in a hole. Which food name fooled you the longest?",
-        "scenes": [
-          {
-            "text": "What if I told you there's no egg and no cream in an egg cream? And that's not even the worst food name. Here are five foods with lying names.",
-            "badge": "",
-            "label": "NO EGG. NO CREAM.",
-            "stock_queries": [
-              "chocolate soda fountain glass",
-              "diner food table montage"
-            ],
-            "image_prompt": "A vintage American diner table showing a fizzy chocolate egg cream in a tall soda fountain glass next to an old-fashioned menu, bright cinematic lighting.",
-            "stock_query": "chocolate soda fountain glass"
-          },
-          {
-            "text": "Number five, buffalo wings. Zero buffalo. They're chicken wings named after Buffalo, New York.",
-            "badge": "",
-            "label": "#5 BUFFALO WINGS",
-            "stock_queries": [
-              "spicy chicken wings plate",
-              "buffalo new york skyline"
-            ],
-            "image_prompt": "A steaming plate of saucy red glazed chicken wings garnished with celery, with a humorous faint silhouette of a wild American bison in the background.",
-            "stock_query": "spicy chicken wings plate"
-          },
-          {
-            "text": "Number four, Bombay duck. Not a duck. It's a fish, often dried and salted until it's crunchy.",
-            "badge": "",
-            "label": "#4 BOMBAY DUCK",
-            "stock_queries": [
-              "dried salted fish racks",
-              "crispy fried fish plate"
-            ],
-            "image_prompt": "Crisp golden fried Bombay duck fish arranged on a rustic plate, humorously accompanied by a yellow rubber duck sitting on the side.",
-            "stock_query": "dried salted fish racks"
-          },
-          {
-            "text": "Number three, Welsh rarebit. It was once called Welsh rabbit, but it's just melted cheese on toast.",
-            "badge": "",
-            "label": "#3 WELSH RAREBIT",
-            "stock_queries": [
-              "melted bubbling cheese grill",
-              "pouring cheese sauce toast"
-            ],
-            "image_prompt": "Warm rich cheddar cheese sauce bubbling under a broiler on thick slices of crusty toasted bread, delicious food photography.",
-            "stock_query": "melted bubbling cheese grill"
-          },
-          {
-            "text": "Number two, the egg cream. It's just chocolate syrup, milk and seltzer.",
-            "badge": "",
-            "label": "#2 EGG CREAM",
-            "stock_queries": [
-              "pouring chocolate syrup milk",
-              "seltzer splashing fizzy drink"
-            ],
-            "image_prompt": "A dynamic splash of fizzy seltzer being poured into whole milk and thick chocolate syrup, forming a frothy white head in a classic fountain glass.",
-            "stock_query": "pouring chocolate syrup milk"
-          },
-          {
-            "text": "Number one, toad in the hole. Relax, it's sausages in Yorkshire pudding batter. One idea is they poke out like toads peeking from burrows. And it's never had a real toad.",
-            "badge": "",
-            "label": "#1 TOAD IN THE HOLE",
-            "stock_queries": [
-              "sausages baked yorkshire pudding batter",
-              "toad peeking mud burrow"
-            ],
-            "image_prompt": "Golden brown puffed Yorkshire pudding baked in a cast-iron skillet with browned sausages poking up through the fluffy batter, warm comforting lighting.",
-            "stock_query": "sausages baked yorkshire pudding batter"
-          },
-          {
-            "text": "So the biggest liar on the menu? Toad in the hole, with zero toads. Which food name fooled you longest? Tell me in the comments. And next time someone hands you an egg cream, ask them one question.",
-            "badge": "",
-            "label": "BIGGEST MENU LIAR",
-            "stock_queries": [
-              "reading restaurant menu laughing",
-              "chocolate soda glass diner counter"
-            ],
-            "image_prompt": "A puzzled diner customer holding a quirky restaurant menu with exaggerated question marks, surrounded by comic dishes like sausages in batter and soda drinks.",
-            "stock_query": "reading restaurant menu laughing"
-          }
-        ],
-        "key_facts": [
-          "An egg cream contains neither egg nor cream, but is made from chocolate syrup, milk, and seltzer.",
-          "Buffalo wings are chicken wings that originated in Buffalo, New York, not from buffalo meat.",
-          "Bombay duck is a species of lizardfish that is typically salted and dried, not poultry.",
-          "Welsh rarebit, originally known as Welsh rabbit, consists of savory melted cheese sauce served over toasted bread.",
-          "Toad in the hole is an English dish consisting of sausages baked into Yorkshire pudding batter, containing no actual amphibians."
-        ],
-        "format": "funny",
-        "tone": "funny",
-        "category": "23",
-        "script": "What if I told you there's no egg and no cream in an egg cream? And that's not even the worst food name. Here are five foods with lying names. Number five, buffalo wings. Zero buffalo. They're chicken wings named after Buffalo, New York. Number four, Bombay duck. Not a duck. It's a fish, often dried and salted until it's crunchy. Number three, Welsh rarebit. It was once called Welsh rabbit, but it's just melted cheese on toast. Number two, the egg cream. It's just chocolate syrup, milk and seltzer. Number one, toad in the hole. Relax, it's sausages in Yorkshire pudding batter. One idea is they poke out like toads peeking from burrows. And it's never had a real toad. So the biggest liar on the menu? Toad in the hole, with zero toads. Which food name fooled you longest? Tell me in the comments. And next time someone hands you an egg cream, ask them one question.",
-        "plan_id": "P2026-10-17-02",
-        "shot_plan": [
-          {
-            "subject": "egg cream drink glass",
-            "queries": [
-              {
-                "q": "egg cream beverage",
-                "must": [
-                  "beverage"
-                ]
-              },
-              {
-                "q": "milkshake glass",
-                "must": [
-                  "glass"
-                ]
-              },
-              {
-                "q": "drink",
-                "must": [
-                  "drink"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "chicken wings plate",
-            "queries": [
-              {
-                "q": "buffalo chicken wings",
-                "must": [
-                  "wings"
-                ]
-              },
-              {
-                "q": "fried chicken",
-                "must": [
-                  "chicken"
-                ]
-              },
-              {
-                "q": "food plate",
-                "must": [
-                  "plate"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "dried fish market",
-            "queries": [
-              {
-                "q": "dried fish",
-                "must": [
-                  "fish"
-                ]
-              },
-              {
-                "q": "seafood market",
-                "must": [
-                  "market"
-                ]
-              },
-              {
-                "q": "fish",
-                "must": [
-                  "fish"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "cheese on toast",
-            "queries": [
-              {
-                "q": "welsh rarebit toast",
-                "must": [
-                  "toast"
-                ]
-              },
-              {
-                "q": "melted cheese bread",
-                "must": [
-                  "cheese"
-                ]
-              },
-              {
-                "q": "bread",
-                "must": [
-                  "bread"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "egg cream drink",
-            "queries": [
-              {
-                "q": "chocolate milk soda",
-                "must": [
-                  "milk"
-                ]
-              },
-              {
-                "q": "soda glass",
-                "must": [
-                  "glass"
-                ]
-              },
-              {
-                "q": "drink",
-                "must": [
-                  "drink"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "toad in the hole sausages",
-            "queries": [
-              {
-                "q": "toad in the hole",
-                "must": [
-                  "sausages"
-                ]
-              },
-              {
-                "q": "baked sausages pastry",
-                "must": [
-                  "pastry"
-                ]
-              },
-              {
-                "q": "sausage",
-                "must": [
-                  "sausage"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "sausages in batter dish",
-            "queries": [
-              {
-                "q": "baked sausages",
-                "must": [
-                  "sausages"
-                ]
-              },
-              {
-                "q": "food dish",
-                "must": [
-                  "dish"
-                ]
-              },
-              {
-                "q": "meal",
-                "must": [
-                  "meal"
-                ]
-              }
-            ]
-          }
-        ],
-        "broll": [
-          "food",
-          "plate",
-          "kitchen"
-        ],
-        "visual_style": "Bright, fast-paced comedic top 5 countdown featuring bold on-screen labels and crisp macro food and animal stock footage.",
-        "visual_refs": [
-          "We catch ourselves saying &quot;oh, biscuits&quot; all. the. time. \ud83d\udc99 Shorts Bluey",
-          "5 Facts You DIDN&#39;T Know About Your Cat - Puss in Boots: The Last Wish",
-          "best friends name start with\ud83d\udc9e\ud83d\udc9e\ud83d\udc9e\ud83e\udd70#bestie #shorts #viralshorts #dosti #yaari @MYUNIQUEHEAVEN",
-          "Dog Thinks He\u2019s a POTATO! #fail #cute",
-          "Happy 5 Years of Bluey Cake! \ud83c\udf82 | Bluey #ytshorts",
-          "This is the only footage we could find of Jade looking happy \ud83d\ude2c Victorious #Shorts"
-        ],
-        "voice": "en-US-BrianMultilingualNeural",
-        "visual_report": {
-          "shots": 7,
-          "checked": 7,
-          "unchecked": 0,
-          "filler": 3,
-          "ai": 0
-        }
-      },
-      "credits": [
-        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-BrianMultilingualNeural).",
-        "Stock footage/photos (Pexels/Pixabay Content License): Irish83 (Pixabay) https://pixabay.com/videos/id-66865/; XiaosKitchen (Pixabay) https://pixabay.com/videos/id-11619/; MingMedia (Pixabay) https://pixabay.com/videos/id-42089/; TehzeebNoah (Pixabay) https://pixabay.com/photos/grilled-cheese-toasted-bread-10383302/"
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-17",
-        "name": "2026-10-17-2-v0.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-17",
-        "name": "2026-10-17-2-v0-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,073 --> 00:00:01,347\nWhat if I told you there's no\n\n2\n00:00:01,347 --> 00:00:02,852\negg and no cream in an egg\n\n3\n00:00:02,852 --> 00:00:04,976\ncream And that's not even the worst\n\n4\n00:00:04,976 --> 00:00:07,269\nfood name Here are five foods with\n\n5\n00:00:07,269 --> 00:00:10,826\nlying names Number five buffalo wings Zero\n\n6\n00:00:10,826 --> 00:00:14,915\nbuffalo They're chicken wings named after Buffalo, New York\n\n7\n00:00:14,915 --> 00:00:18,278\nNumber four Bombay duck Not a duck\n\n8\n00:00:18,278 --> 00:00:20,948\nIt's a fish often dried and salted\n\n9\n00:00:20,948 --> 00:00:24,551\nuntil it's crunchy Number three Welsh rarebit\n\n10\n00:00:24,551 --> 00:00:26,578\nIt was once called Welsh rabbit but\n\n11\n00:00:26,578 --> 00:00:29,078\nit's just melted cheese on toast Number\n\n12\n00:00:29,078 --> 00:00:31,385\ntwo the egg cream It's just chocolate\n\n13\n00:00:31,385 --> 00:00:34,381\nsyrup milk and seltzer Number one toad\n\n14\n00:00:34,381 --> 00:00:37,002\nin the hole Relax it's sausages in\n\n15\n00:00:37,002 --> 00:00:39,612\nYorkshire pudding batter One idea is they\n\n16\n00:00:39,612 --> 00:00:42,221\npoke out like toads peeking from burrows\n\n17\n00:00:42,221 --> 00:00:44,273\nAnd it's never had a real toad\n\n18\n00:00:44,273 --> 00:00:46,590\nSo the biggest liar on the menu\n\n19\n00:00:46,590 --> 00:00:48,859\nToad in the hole with zero toads\n\n20\n00:00:48,859 --> 00:00:51,359\nWhich food name fooled you longest Tell\n\n21\n00:00:51,359 --> 00:00:53,374\nme in the comments And next time\n\n22\n00:00:53,374 --> 00:00:55,752\nsomeone hands you an egg cream ask\n\n23\n00:00:55,752 --> 00:00:57,026\nthem one question\n",
-      "tg_msg": 485,
-      "opts_msg": 487,
-      "approved_by": "auto",
-      "quota_note": "2026-10-18",
-      "description_full": "Why is there no egg in an egg cream, no buffalo in buffalo wings, and no toad in toad in the hole? Here are the top 5 foods with names that lie, and the real story behind each food name.\n\nIn this Short: buffalo wings, Bombay duck, Welsh rarebit, the egg cream, and toad in the hole, counted down to the biggest liar on the menu.\n\nSources:\nhttps://www.chowhound.com/1493133/origin-nyc-egg-cream-soda/\nhttps://en.wikipedia.org/wiki/Toad_in_the_hole\nhttps://dictionary.com/browse/bombay-duck\n\n#shorts #food #funfacts #funny\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-BrianMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): Irish83 (Pixabay) https://pixabay.com/videos/id-66865/; XiaosKitchen (Pixabay) https://pixabay.com/videos/id-11619/; MingMedia (Pixabay) https://pixabay.com/videos/id-42089/; TehzeebNoah (Pixabay) https://pixabay.com/photos/grilled-cheese-toasted-bread-10383302/\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/tJgttCUQDA0",
-          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-18T10:40:17.020966+00:00",
-      "slot": "2026-10-19T01:15:00+00:00"
-    },
-    "2026-10-17-3": {
-      "topic": {
-        "title": "What Color Is the Sun? 3-Second Quiz",
-        "angle": "'what would you do?' (14.5x) and 'How many will we do right?' are both The Question, the only formula today's outliers matched, and a three-second color quiz puts a question the viewer has to answer in every beat.",
-        "format": "quiz",
-        "tone": "normal",
-        "virality_score": 7,
-        "trend_source": "what would you do? #shorts #comedy #funny (14.5x, The Question); How many will we do right? \ud83d\ude33\ud83e\udd23\ud83d\udd25 #shorts (1.4x, The Question)",
-        "plan_id": "P2026-10-17-03"
-      },
-      "status": "published",
-      "by": "auto",
-      "updated": "2026-10-19T09:05:24.123941+00:00",
-      "redos": 0,
-      "package": {
-        "primary_keyword": "what color is the sun",
-        "title": "What Color Is the Sun? 3-Second Quiz",
-        "hook_text": "QUICK QUIZ: 3 ROUNDS",
-        "thumbnail_text": "NOT YELLOW?",
-        "description": "What color is the sun, really? Take this 3-second color quiz on the sun, polar bear skin color and baby flamingos, and see how many you get right.\n\nIn this Short: three color questions, three seconds each, with the real answers for the sun, a polar bear's skin and a flamingo chick.\n\nSources:\nhttps://scrippsnews.com/stories/the-sun-isn-t-yellow-or-orange-it-s-white/\nhttps://polarbearsinternational.org/news-media/articles/why-polar-bears-have-black-skin\nhttps://worldatlas.com/feature/why-are-flamingos-pink.html",
-        "hashtags": [
-          "#shorts",
-          "#science",
-          "#funfacts",
-          "#quiz"
-        ],
-        "tags": [
-          "what color is the sun",
-          "polar bear skin color",
-          "polar bear have black skin",
-          "polar bear fur color",
-          "polar bear black skin",
-          "sun color white",
-          "polar bear skin colour",
-          "is the sun white or yellow",
-          "3 second quiz",
-          "is the sun white",
-          "what color is our sun",
-          "what color is the sun actually",
-          "is it true that the sun is white",
-          "color quiz",
-          "polar bear fur",
-          "baby flamingo color",
-          "what colour is the sun",
-          "science quiz",
-          "why are flamingos pink"
-        ],
-        "pinned_comment": "Bonus fact: an adult polar bear's tongue can be pink, spotted blue-ish or almost black. How many did you get right, zero, one, two or three?",
-        "scenes": [
-          {
-            "text": "Before you scroll, what color is the sun? Hint, it's not yellow. Three color questions, three seconds each. Lock in your answer.",
-            "badge": "START",
-            "label": "3 Questions, 3 Seconds",
-            "stock_queries": [
-              "bright sun clear sky",
-              "clock ticking countdown"
-            ],
-            "image_prompt": "A brilliant white sun glowing high in a deep blue sky with subtle lens flares, sharp high-resolution photography.",
-            "stock_query": "bright sun clear sky"
-          },
-          {
-            "text": "Question one. What color is the sun, really? Three, two, one.",
-            "badge": "Q1",
-            "label": "What color is the sun?",
-            "stock_queries": [
-              "sun in blue sky",
-              "analog stopwatch ticking"
-            ],
-            "image_prompt": "The sun shining brightly from space against a pitch black starry void, radiating pure white light.",
-            "stock_query": "sun in blue sky"
-          },
-          {
-            "text": "White! Sunlight is almost pure white. Our air makes it look yellow, especially when it's low in the sky.",
-            "badge": "\u2713",
-            "label": "White",
-            "stock_queries": [
-              "sunlight in space",
-              "sunset over ocean horizon"
-            ],
-            "image_prompt": "A warm golden sunset transition showing atmospheric haze scattering sunlight over a calm ocean horizon.",
-            "stock_query": "sunlight in space"
-          },
-          {
-            "text": "Question two. What color is a polar bear's skin? Three, two, one.",
-            "badge": "Q2",
-            "label": "What color is polar bear skin?",
-            "stock_queries": [
-              "polar bear walking arctic snow",
-              "ticking timer clock"
-            ],
-            "image_prompt": "A large polar bear walking across crisp white arctic snowdrifts under a bright arctic sky, realistic wildlife photo.",
-            "stock_query": "polar bear walking arctic snow"
-          },
-          {
-            "text": "Black! Cubs are born with pink skin, and it turns black after a few months. And each hair of its fur is see-through. It just looks white.",
-            "badge": "\u2713",
-            "label": "Black",
-            "stock_queries": [
-              "polar bear dark nose close up",
-              "microscopic polar bear hair"
-            ],
-            "image_prompt": "Extreme macro close-up of a polar bear showing dark black skin beneath translucent hollow white fur strands.",
-            "stock_query": "polar bear dark nose close up"
-          },
-          {
-            "text": "Question three. What color is a baby flamingo? Three, two, one.",
-            "badge": "Q3",
-            "label": "What color is a baby flamingo?",
-            "stock_queries": [
-              "flamingo chick with parent",
-              "countdown clock screen"
-            ],
-            "image_prompt": "A fluffy grey flamingo chick standing beside the slender pink legs of its parent on a sunny wetland shore.",
-            "stock_query": "flamingo chick with parent"
-          },
-          {
-            "text": "Grey! Flamingos only turn pink from pigments in the algae and tiny creatures they eat.",
-            "badge": "\u2713",
-            "label": "Grey",
-            "stock_queries": [
-              "fluffy grey flamingo chick",
-              "pink flamingos feeding water"
-            ],
-            "image_prompt": "A flock of vibrant pink flamingos wading and feeding in shallow tropical blue water, detailed nature photography.",
-            "stock_query": "fluffy grey flamingo chick"
-          },
-          {
-            "text": "So the sun is white, the polar bear is black underneath, and baby flamingos are grey. How many did you get right, zero, one, two or three? Tell me in the comments. Now try it on a friend, and start with the sun.",
-            "badge": "SCORE",
-            "label": "Your Score: 0 to 3?",
-            "stock_queries": [
-              "friends laughing looking at smartphone",
-              "sunrise over calm sea"
-            ],
-            "image_prompt": "A clean three-way split visual showing the pure white sun in space, a polar bear in the snow, and a grey flamingo chick.",
-            "stock_query": "friends laughing looking at smartphone"
-          }
-        ],
-        "key_facts": [
-          "The sun emits light across all visible wavelengths, making its actual color pure white.",
-          "Earth's atmosphere scatters shorter wavelengths of light, causing the sun to appear yellow, orange, or red.",
-          "Polar bears have completely black skin underneath their fur to absorb and retain heat.",
-          "Polar bear cubs are born with pink skin that gradually turns black within several months.",
-          "Individual strands of polar bear fur are hollow and translucent, appearing white only due to light scattering.",
-          "Baby flamingos hatch with grey or dull white down feathers.",
-          "Flamingos develop their distinctive pink color by absorbing carotenoid pigments found in their diet of brine shrimp and algae."
-        ],
-        "format": "quiz",
-        "tone": "normal",
-        "category": "24",
-        "script": "Before you scroll, what color is the sun? Hint, it's not yellow. Three color questions, three seconds each. Lock in your answer. Question one. What color is the sun, really? Three, two, one. White! Sunlight is almost pure white. Our air makes it look yellow, especially when it's low in the sky. Question two. What color is a polar bear's skin? Three, two, one. Black! Cubs are born with pink skin, and it turns black after a few months. And each hair of its fur is see-through. It just looks white. Question three. What color is a baby flamingo? Three, two, one. Grey! Flamingos only turn pink from pigments in the algae and tiny creatures they eat. So the sun is white, the polar bear is black underneath, and baby flamingos are grey. How many did you get right, zero, one, two or three? Tell me in the comments. Now try it on a friend, and start with the sun.",
-        "plan_id": "P2026-10-17-03",
-        "shot_plan": [
-          {
-            "subject": "bright glowing sun in space",
-            "queries": [
-              {
-                "q": "sun in space",
-                "must": [
-                  "sun"
-                ]
-              },
-              {
-                "q": "solar flare",
-                "must": [
-                  "solar"
-                ]
-              },
-              {
-                "q": "bright star",
-                "must": [
-                  "star"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "sun in the sky",
-            "queries": [
-              {
-                "q": "sun shining",
-                "must": [
-                  "sun"
-                ]
-              },
-              {
-                "q": "daylight sky",
-                "must": [
-                  "sky"
-                ]
-              },
-              {
-                "q": "solar disk",
-                "must": [
-                  "solar"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "white sun and bright sunlight",
-            "queries": [
-              {
-                "q": "bright sunlight",
-                "must": [
-                  "sunlight"
-                ]
-              },
-              {
-                "q": "white sun",
-                "must": [
-                  "white"
-                ]
-              },
-              {
-                "q": "solar light",
-                "must": [
-                  "light"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "polar bear walking on ice",
-            "queries": [
-              {
-                "q": "polar bear walking",
-                "must": [
-                  "polar"
-                ]
-              },
-              {
-                "q": "bear on ice",
-                "must": [
-                  "bear"
-                ]
-              },
-              {
-                "q": "arctic bear",
-                "must": [
-                  "arctic"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "polar bear close up fur",
-            "queries": [
-              {
-                "q": "polar bear fur",
-                "must": [
-                  "fur"
-                ]
-              },
-              {
-                "q": "polar bear face",
-                "must": [
-                  "bear"
-                ]
-              },
-              {
-                "q": "arctic animal",
-                "must": [
-                  "animal"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "baby flamingo standing",
-            "queries": [
-              {
-                "q": "baby flamingo",
-                "must": [
-                  "flamingo"
-                ]
-              },
-              {
-                "q": "young flamingo",
-                "must": [
-                  "bird"
-                ]
-              },
-              {
-                "q": "grey flamingo",
-                "must": [
-                  "grey"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "flock of pink flamingos in water",
-            "queries": [
-              {
-                "q": "pink flamingos",
-                "must": [
-                  "flamingos"
-                ]
-              },
-              {
-                "q": "flock of flamingos",
-                "must": [
-                  "flock"
-                ]
-              },
-              {
-                "q": "flamingo bird",
-                "must": [
-                  "bird"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "sun and polar bear and flamingo",
-            "queries": [
-              {
-                "q": "sun and animals",
-                "must": [
-                  "sun"
-                ]
-              },
-              {
-                "q": "trivia quiz",
-                "must": [
-                  "quiz"
-                ]
-              },
-              {
-                "q": "question mark",
-                "must": [
-                  "question"
-                ]
-              }
-            ]
-          }
-        ],
-        "broll": [
-          "sun",
-          "polar bear",
-          "flamingo"
-        ],
-        "visual_style": "Fast-paced trivia shorts featuring direct questions, real stock footage of subjects like animals and space, and bold text overlays.",
-        "visual_refs": [
-          "The 15 second personality test",
-          "How old are your ears? Let us know in the comments! \ud83d\udc42 #LEWITT #shorts",
-          "This Rubik\u2019s cube CHANGES colors \ud83d\ude31",
-          "How To Find Your Eye&#39;s Blind Spot #shorts",
-          "Sun Quiz - Solar System Quiz #Shorts | 5 Questions",
-          "Quest 3 vs Sunlight: The Surprising Truth. #quest3 #vr #virtualreality"
-        ],
-        "voice": "en-US-AvaMultilingualNeural",
-        "visual_report": {
-          "shots": 14,
-          "checked": 14,
-          "unchecked": 0,
-          "filler": 1,
-          "ai": 0
-        }
-      },
-      "credits": [
-        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AvaMultilingualNeural).",
-        "Stock footage/photos (Pexels/Pixabay Content License): mrpixel000 (Pixabay) https://pixabay.com/videos/id-159409/; UniverseUnique (Pixabay) https://pixabay.com/videos/id-191253/; UniverseUnique (Pixabay) https://pixabay.com/videos/id-160401/; Eartvideos (Pixabay) https://pixabay.com/videos/id-138739/; MAURICIO_BR (Pixabay) https://pixabay.com/videos/id-130930/; Kaffees\u00fcchtig (Pixabay) https://pixabay.com/videos/id-223368/; Life-Of-Vids (Pixabay) https://pixabay.com/videos/id-4753/; adege (Pixabay) https://pixabay.com/videos/id-260397/; flutie8211 (Pixabay) https://pixabay.com/videos/id-331922/; dianakuehn30010 (Pixabay) https://pixabay.com/videos/id-17715/; md579 (Pixabay) https://pixabay.com/videos/id-80024/; NickyPe (Pixabay) https://pixabay.com/videos/id-115000/; NickyPe (Pixabay) https://pixabay.com/videos/id-79749/"
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-17",
-        "name": "2026-10-17-3-v0.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-17",
-        "name": "2026-10-17-3-v0-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,071 --> 00:00:01,988\nBefore you scroll what color is the\n\n2\n00:00:01,988 --> 00:00:05,048\nsun Hint it's not yellow Three color\n\n3\n00:00:05,048 --> 00:00:08,226\nquestions three seconds each Lock in your\n\n4\n00:00:08,226 --> 00:00:10,988\nanswer Question one What color is the\n\n5\n00:00:10,988 --> 00:00:15,500\nsun really Three two one White Sunlight\n\n6\n00:00:15,500 --> 00:00:17,893\nis almost pure white Our air makes\n\n7\n00:00:17,893 --> 00:00:20,321\nit look yellow especially when it's low\n\n8\n00:00:20,321 --> 00:00:23,060\nin the sky Question two What color\n\n9\n00:00:23,060 --> 00:00:26,000\nis a polar bear's skin Three two\n\n10\n00:00:26,000 --> 00:00:28,583\none Black Cubs are born with pink\n\n11\n00:00:28,583 --> 00:00:30,821\nskin and it turns black after a\n\n12\n00:00:30,821 --> 00:00:33,143\nfew months And each hair of its\n\n13\n00:00:33,143 --> 00:00:35,845\nfur is see-through It just looks white\n\n14\n00:00:35,845 --> 00:00:38,430\nQuestion three What color is a baby\n\n15\n00:00:38,430 --> 00:00:43,119\nflamingo Three two one Grey Flamingos only\n\n16\n00:00:43,119 --> 00:00:45,179\nturn pink from pigments in the algae\n\n17\n00:00:45,179 --> 00:00:47,429\nand tiny creatures they eat So the\n\n18\n00:00:47,429 --> 00:00:49,333\nsun is white the polar bear is\n\n19\n00:00:49,333 --> 00:00:52,274\nblack underneath and baby flamingos are grey\n\n20\n00:00:52,274 --> 00:00:54,417\nHow many did you get right zero\n\n21\n00:00:54,417 --> 00:00:56,655\none two or three Tell me in\n\n22\n00:00:56,655 --> 00:00:58,440\nthe comments Now try it on a\n\n23\n00:00:58,440 --> 00:01:00,674\nfriend and start with the sun.\n",
-      "tg_msg": 488,
-      "opts_msg": 490,
-      "approved_by": "auto",
-      "quota_note": "2026-10-19",
-      "description_full": "What color is the sun, really? Take this 3-second color quiz on the sun, polar bear skin color and baby flamingos, and see how many you get right.\n\nIn this Short: three color questions, three seconds each, with the real answers for the sun, a polar bear's skin and a flamingo chick.\n\nSources:\nhttps://scrippsnews.com/stories/the-sun-isn-t-yellow-or-orange-it-s-white/\nhttps://polarbearsinternational.org/news-media/articles/why-polar-bears-have-black-skin\nhttps://worldatlas.com/feature/why-are-flamingos-pink.html\n\n#shorts #science #funfacts #quiz\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AvaMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): mrpixel000 (Pixabay) https://pixabay.com/videos/id-159409/; UniverseUnique (Pixabay) https://pixabay.com/videos/id-191253/; UniverseUnique (Pixabay) https://pixabay.com/videos/id-160401/; Eartvideos (Pixabay) https://pixabay.com/videos/id-138739/; MAURICIO_BR (Pixabay) https://pixabay.com/videos/id-130930/; Kaffees\u00fcchtig (Pixabay) https://pixabay.com/videos/id-223368/; Life-Of-Vids (Pixabay) https://pixabay.com/videos/id-4753/; adege (Pixabay) https://pixabay.com/videos/id-260397/; flutie8211 (Pixabay) https://pixabay.com/videos/id-331922/; dianakuehn30010 (Pixabay) https://pixabay.com/videos/id-17715/; md579 (Pixabay) https://pixabay.com/videos/id-80024/; NickyPe (Pixabay) https://pixabay.com/videos/id-115000/; NickyPe (Pixabay) https://pixabay.com/videos/id-79749/\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/7sb5Cm0n3aw",
-          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-19T09:05:24.123959+00:00",
-      "slot": "2026-10-19T16:15:00+00:00"
-    },
     "2026-10-17-4": {
       "topic": {
         "title": "How Popcorn Pops: 135 PSI Inside One Kernel",
@@ -10584,9 +9819,9 @@
         "trend_source": "title shape of How Pencil Sharpeners Work (212,250 views/h); also How Electrical Outlets Work (151,941 views/h)",
         "plan_id": "P2026-10-24-01"
       },
-      "status": "approved",
+      "status": "published",
       "by": "auto",
-      "updated": "2026-10-24T18:04:53.198691+00:00",
+      "updated": "2026-10-25T23:02:28.474612+00:00",
       "redos": 0,
       "package": {
         "primary_keyword": "how zippers work",
@@ -10765,7 +10000,28 @@
       "tg_msg": 755,
       "opts_msg": 757,
       "approved_by": "auto",
-      "quota_note": "2026-10-25"
+      "quota_note": "2026-10-25",
+      "description_full": "How does a zipper work? Here's how zippers work, step by step inside the slider. A zipper slider has a Y-shaped tunnel that squeezes two rows of teeth together so every bump locks into a hollow, then a wedge pries them apart when you pull it down.\n\nIn this Short: the bump-and-hollow shape of zipper teeth, how the slider's Y-shaped tunnel locks them, why a closed zipper won't split sideways, and how the wedge unzips it.\n\nSources:\nhttps://en.wikipedia.org/wiki/Zipper\nhttps://blog.ncf-india.org/saw/zippers-how-do-they-work\n\n#shorts #howitworks #zipper #3danimation\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Google Text-to-Speech).\nStock footage/photos (Pexels/Pixabay Content License): bbAAER (Pixabay) https://pixabay.com/photos/zipper-macro-close-up-closure-1060990/; ugac (Pixabay) https://pixabay.com/videos/id-15216/\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/5czzGSgZA9c",
+          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-10-25T23:02:28.474628+00:00",
+      "slot": "2026-10-26T19:15:00+00:00"
     },
     "2026-10-24-2": {
       "topic": {
@@ -11856,12 +11112,12 @@
         "format": "animated",
         "style": "Low-Poly Faceted"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261025-autumn-leaves",
       "redos": 0,
-      "updated": "2026-10-25T19:57:25.823236+00:00",
+      "updated": "2026-10-25T23:02:17.767389+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Low-Poly Faceted style). Voice: Kokoro text-to-speech."
       ],
@@ -11876,14 +11132,1406 @@
         "name": "2026-10-25-101-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:02,200\nWhy do leaves turn orange in fall?\n\n2\n00:00:02,750 --> 00:00:03,780\nHere's the twist:\n\n3\n00:00:04,080 --> 00:00:05,810\nthe orange was there all summer.\n\n4\n00:00:06,360 --> 00:00:08,540\nA leaf is packed with green chlorophyll,\n\n5\n00:00:08,840 --> 00:00:11,110\nthe pigment that turns sunlight into sugar.\n\n6\n00:00:11,660 --> 00:00:14,380\nBut it's also holding yellow and orange pigments,\n\n7\n00:00:14,680 --> 00:00:15,940\ncalled carotenoids.\n\n8\n00:00:16,490 --> 00:00:18,490\nAll summer, the green drowns them out.\n\n9\n00:00:19,040 --> 00:00:20,430\nThen the nights get longer,\n\n10\n00:00:20,730 --> 00:00:22,460\nand the tree shuts the leaf down.\n\n11\n00:00:23,010 --> 00:00:24,750\nIt stops making chlorophyll,\n\n12\n00:00:25,050 --> 00:00:26,820\nand breaks the old green apart.\n\n13\n00:00:27,370 --> 00:00:30,730\nScientists think it pulls back about half the leaf's nitrogen,\n\n14\n00:00:31,030 --> 00:00:32,280\nsaving it for spring.\n\n15\n00:00:32,830 --> 00:00:34,020\nWith the green gone,\n\n16\n00:00:34,320 --> 00:00:36,000\nthe hidden orange shows through.\n\n17\n00:00:36,550 --> 00:00:37,450\nAnd the reds?\n\n18\n00:00:38,000 --> 00:00:39,230\nThose are brand new.\n\n19\n00:00:39,780 --> 00:00:41,960\nTrapped sugars turn into red pigments,\n\n20\n00:00:42,260 --> 00:00:45,040\nright before a cork-like seal forms at the stem,\n\n21\n00:00:45,340 --> 00:00:46,590\nand the leaf lets go.\n\n22\n00:00:47,140 --> 00:00:48,980\nSo fall doesn't paint the leaves.\n\n23\n00:00:49,530 --> 00:00:50,970\nIt peels the green away.\n\n24\n00:00:51,520 --> 00:00:53,770\nWhich tree turns the brightest where you live?\n\n",
-      "tg_msg": 790
+      "tg_msg": 790,
+      "approved_by": "auto",
+      "description_full": "Why do leaves change color in autumn? The yellow and orange carotenoid pigments are in the leaf all summer, hidden by green chlorophyll, and show through when the tree stops making chlorophyll and pulls nutrients back before the leaf falls.\n\nSources:\nhttps://www.fs.usda.gov/media/217554\nhttps://earthwiseradio.org/2012/10/autumn-leaves-not-just-a-colorful-display/\nhttps://thesca.org/newsroom/why-leaves-change-color-fall\n\nAnimated in the Low-Poly Faceted style.\n\n#shorts #science #autumn #nature\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Low-Poly Faceted style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/lF2KcOeokcM",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-10-25T23:02:17.767405+00:00",
+      "slot": "2026-10-26T16:15:00+00:00"
+    },
+    "2026-10-25-102": {
+      "topic": {
+        "title": "How did the Romans heat their floors? (hypocaust)",
+        "format": "long",
+        "angle": "Claymation Set"
+      },
+      "package": {
+        "title": "How Romans Heated Their Floors 2,000 Years Ago",
+        "description": "How did the ancient Romans heat their floors without electricity? The hypocaust raised the floor on stacks of bricks called pilae, so hot air from a wood furnace could flow underneath and up hollow clay pipes in the walls, turning the whole bathhouse into a radiator.\n\nChapters:\n0:00 Warm floors 2,000 years ago\n0:21 Who invented the hypocaust\n0:40 How it worked\n1:46 Vitruvius' oddly specific rule\n2:18 How hot it got\n2:47 After Rome, and today\n\nSources:\nhttps://en.wikipedia.org/wiki/Hypocaust\nhttps://lexundria.com/vitr/5.10.2/mg\nhttps://www.carnuntum.at/tr/dergi/the-floor-is-lava-heiztechniken-im-antiken-carnuntum/1723\n\nAnimated in the Claymation Set style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#history",
+          "#ancientrome",
+          "#engineering"
+        ],
+        "tags": [
+          "hypocaust",
+          "roman hypocaust",
+          "how romans heated floors",
+          "ancient roman heating",
+          "roman baths",
+          "underfloor heating history",
+          "ancient engineering",
+          "vitruvius",
+          "sergius orata",
+          "caldarium tepidarium frigidarium",
+          "baths of caracalla",
+          "ondol",
+          "ancient technology explained",
+          "history explained",
+          "claymation animation"
+        ],
+        "category": "27",
+        "pinned_comment": "Would you swap your radiator for a Roman hypocaust floor, if someone else did the wood shoveling? \ud83d\udd25",
+        "thumbnail_text": "HEAT FROM BELOW",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "How did the Romans heat their floors,\nwithout a single wire?\nTwo thousand years ago,\nin the middle of winter,\na Roman could walk across a stone floor barefoot,\nand it would be warm.\nThe trick was hiding under their feet.\nIt's called a hypocaust,\nwhich means \"heat from below.\"\nThe Roman writer Vitruvius\ncredits a businessman named Sergius Orata,\naround 95 BC.\nOrata got rich farming oysters,\nand he sold wealthy Romans on heated \"hanging baths.\"\nSoon, no fancy villa was complete without one.\nSo how did it work?\nStart with a furnace,\ncalled the praefurnium,\nbuilt just outside the room, a little lower down.\nSlaves fed it wood all day.\nNow, instead of laying the floor on the ground,\nthe Romans lifted it up.\nThey built short stacks of square bricks,\ncalled pilae,\nrow after row.\nVitruvius says two feet tall.\nOn top went big two-foot tiles,\nthen a thick layer of concrete,\nthen the floor you'd walk on.\nThat left a hollow space underneath,\nlike a crawl space made for smoke.\nThe fire's hot air and smoke\nrushed into that gap,\nswirled between the pillars,\nand soaked heat into the floor above.\nBut it didn't stop there.\nHollow clay pipes, called tubuli,\nran up inside the walls.\nHot air climbed through them,\nwarming the walls too,\nthen escaped through vents near the roof.\nSo the whole room became a radiator.\nHere's a detail Vitruvius was oddly specific about.\nThe floor underneath should slope toward the furnace,\nso if you threw a ball in,\nit couldn't stop inside.\nIt would roll right back to the fire.\nRomans also lined up their rooms by heat.\nThe caldarium, the hot room,\nsat closest to the furnace.\nNext came the warm room,\nthe tepidarium.\nAnd the cold plunge pool, the frigidarium,\nsat farthest away.\nSo, how hot did it get?\nIn modern tests on rebuilt Roman baths,\nthe floors reached twenty to fifty degrees Celsius.\nHot enough that bathers wore wooden-soled sandals.\nThe hot room's air sat around thirty-two degrees,\nthick with steam.\nAnd all of it ran on wood.\nThe giant Baths of Caracalla in Rome\nreportedly burned around ten tons of wood,\nevery single day.\nWhen the empire fell apart,\nso did the skills and the labor\nthat kept these furnaces burning.\nFor centuries,\nmuch of Europe went back to smoky open fires.\nBut the idea never died.\nIn Korea, the ondol system\nruns fire smoke under the floor in a very similar way.\nAnd today's underfloor heating\ndoes exactly what the Romans did:\nwarm the floor,\nand let the heat rise.\nJust with pipes instead of pillars,\nand nobody shoveling wood.\nWould you trade your radiator\nfor a Roman floor?",
+        "key_facts": [
+          "Hypocaust = 'heat from below': floor raised on pilae so furnace (praefurnium) gases flow underneath (Wikipedia: Hypocaust, Praefurnium)",
+          "Vitruvius credits Sergius Orata (fl. c. 95 BC), an oyster farmer who popularised 'hanging baths'; attribution not fully established (Wikipedia: Sergius Orata)",
+          "Vitruvius 5.10.2: pillars two feet high topped with two-foot tiles; the underfloor slopes to the furnace so a thrown ball rolls back out",
+          "Hollow clay tubuli in the walls carried hot air up and out (Wikipedia: Praefurnium; vita-romae.com)",
+          "Reconstruction experiments: floors 20-50 C, walls up to 30 C, caldarium air ~32 C and very humid (Carnuntum)",
+          "Baths of Caracalla reportedly burned ~10 tons of wood a day; hypocausts declined with the Western Empire (WorldAtlas)",
+          "Korean ondol routes fire smoke under the floor in a similar way; modern underfloor heating uses pipes"
+        ],
+        "voice": "Kokoro",
+        "format": "long",
+        "style": "Claymation Set"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261025-roman-hypocaust",
+      "redos": 0,
+      "updated": "2026-10-25T22:18:39.940380+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Claymation Set style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-25",
+        "name": "2026-10-25-102.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-25",
+        "name": "2026-10-25-102-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:02,650\nHow did the Romans heat their floors,\n\n2\n00:00:02,950 --> 00:00:04,530\nwithout a single wire?\n\n3\n00:00:05,080 --> 00:00:06,760\nTwo thousand years ago,\n\n4\n00:00:07,060 --> 00:00:08,560\nin the middle of winter,\n\n5\n00:00:08,860 --> 00:00:12,000\na Roman could walk across a stone floor barefoot,\n\n6\n00:00:12,300 --> 00:00:13,710\nand it would be warm.\n\n7\n00:00:14,260 --> 00:00:16,810\nThe trick was hiding under their feet.\n\n8\n00:00:17,360 --> 00:00:19,160\nIt's called a hypocaust,\n\n9\n00:00:19,460 --> 00:00:21,450\nwhich means \"heat from below.\"\n\n10\n00:00:21,750 --> 00:00:24,030\nThe Roman writer Vitruvius\n\n11\n00:00:24,330 --> 00:00:27,490\ncredits a businessman named Sergius Orata,\n\n12\n00:00:27,790 --> 00:00:29,820\naround 95 BC.\n\n13\n00:00:30,370 --> 00:00:32,620\nOrata got rich farming oysters,\n\n14\n00:00:32,920 --> 00:00:36,510\nand he sold wealthy Romans on heated \"hanging baths.\"\n\n15\n00:00:36,810 --> 00:00:40,160\nSoon, no fancy villa was complete without one.\n\n16\n00:00:40,710 --> 00:00:42,110\nSo how did it work?\n\n17\n00:00:42,660 --> 00:00:44,040\nStart with a furnace,\n\n18\n00:00:44,340 --> 00:00:45,750\ncalled the praefurnium,\n\n19\n00:00:46,050 --> 00:00:49,230\nbuilt just outside the room, a little lower down.\n\n20\n00:00:49,780 --> 00:00:51,740\nSlaves fed it wood all day.\n\n21\n00:00:52,290 --> 00:00:54,860\nNow, instead of laying the floor on the ground,\n\n22\n00:00:55,160 --> 00:00:57,230\nthe Romans lifted it up.\n\n23\n00:00:57,780 --> 00:00:59,980\nThey built short stacks of square bricks,\n\n24\n00:01:00,280 --> 00:01:01,280\ncalled pilae,\n\n25\n00:01:01,580 --> 00:01:03,070\nrow after row.\n\n26\n00:01:03,620 --> 00:01:05,980\nVitruvius says two feet tall.\n\n27\n00:01:06,530 --> 00:01:08,860\nOn top went big two-foot tiles,\n\n28\n00:01:09,160 --> 00:01:11,280\nthen a thick layer of concrete,\n\n29\n00:01:11,580 --> 00:01:13,710\nthen the floor you'd walk on.\n\n30\n00:01:14,260 --> 00:01:16,700\nThat left a hollow space underneath,\n\n31\n00:01:17,000 --> 00:01:19,450\nlike a crawl space made for smoke.\n\n32\n00:01:20,000 --> 00:01:22,130\nThe fire's hot air and smoke\n\n33\n00:01:22,430 --> 00:01:23,890\nrushed into that gap,\n\n34\n00:01:24,190 --> 00:01:25,820\nswirled between the pillars,\n\n35\n00:01:26,120 --> 00:01:28,600\nand soaked heat into the floor above.\n\n36\n00:01:29,150 --> 00:01:30,480\nBut it didn't stop there.\n\n37\n00:01:31,030 --> 00:01:33,410\nHollow clay pipes, called tubuli,\n\n38\n00:01:33,710 --> 00:01:35,760\nran up inside the walls.\n\n39\n00:01:36,310 --> 00:01:38,180\nHot air climbed through them,\n\n40\n00:01:38,480 --> 00:01:40,120\nwarming the walls too,\n\n41\n00:01:40,420 --> 00:01:42,950\nthen escaped through vents near the roof.\n\n42\n00:01:43,500 --> 00:01:46,110\nSo the whole room became a radiator.\n\n43\n00:01:46,660 --> 00:01:50,360\nHere's a detail Vitruvius was oddly specific about.\n\n44\n00:01:50,910 --> 00:01:53,990\nThe floor underneath should slope toward the furnace,\n\n45\n00:01:54,290 --> 00:01:56,140\nso if you threw a ball in,\n\n46\n00:01:56,440 --> 00:01:58,070\nit couldn't stop inside.\n\n47\n00:01:58,620 --> 00:02:00,920\nIt would roll right back to the fire.\n\n48\n00:02:01,470 --> 00:02:04,510\nRomans also lined up their rooms by heat.\n\n49\n00:02:05,060 --> 00:02:07,070\nThe caldarium, the hot room,\n\n50\n00:02:07,370 --> 00:02:09,250\nsat closest to the furnace.\n\n51\n00:02:09,800 --> 00:02:11,490\nNext came the warm room,\n\n52\n00:02:11,790 --> 00:02:13,050\nthe tepidarium.\n\n53\n00:02:13,600 --> 00:02:16,440\nAnd the cold plunge pool, the frigidarium,\n\n54\n00:02:16,740 --> 00:02:18,170\nsat farthest away.\n\n55\n00:02:18,720 --> 00:02:20,440\nSo, how hot did it get?\n\n56\n00:02:20,990 --> 00:02:23,920\nIn modern tests on rebuilt Roman baths,\n\n57\n00:02:24,220 --> 00:02:27,440\nthe floors reached twenty to fifty degrees Celsius.\n\n58\n00:02:27,990 --> 00:02:31,240\nHot enough that bathers wore wooden-soled sandals.\n\n59\n00:02:31,790 --> 00:02:35,010\nThe hot room's air sat around thirty-two degrees,\n\n60\n00:02:35,310 --> 00:02:36,530\nthick with steam.\n\n61\n00:02:37,080 --> 00:02:39,070\nAnd all of it ran on wood.\n\n62\n00:02:39,620 --> 00:02:42,350\nThe giant Baths of Caracalla in Rome\n\n63\n00:02:42,650 --> 00:02:45,610\nreportedly burned around ten tons of wood,\n\n64\n00:02:45,910 --> 00:02:47,250\nevery single day.\n\n65\n00:02:47,800 --> 00:02:49,570\nWhen the empire fell apart,\n\n66\n00:02:49,870 --> 00:02:52,200\nso did the skills and the labor\n\n67\n00:02:52,500 --> 00:02:54,550\nthat kept these furnaces burning.\n\n68\n00:02:55,100 --> 00:02:56,160\nFor centuries,\n\n69\n00:02:56,460 --> 00:02:59,880\nmuch of Europe went back to smoky open fires.\n\n70\n00:03:00,430 --> 00:03:02,460\nBut the idea never died.\n\n71\n00:03:03,010 --> 00:03:05,170\nIn Korea, the ondol system\n\n72\n00:03:05,470 --> 00:03:09,260\nruns fire smoke under the floor in a very similar way.\n\n73\n00:03:09,810 --> 00:03:12,030\nAnd today's underfloor heating\n\n74\n00:03:12,330 --> 00:03:14,820\ndoes exactly what the Romans did:\n\n75\n00:03:15,120 --> 00:03:16,360\nwarm the floor,\n\n76\n00:03:16,660 --> 00:03:18,100\nand let the heat rise.\n\n77\n00:03:18,650 --> 00:03:20,960\nJust with pipes instead of pillars,\n\n78\n00:03:21,260 --> 00:03:23,290\nand nobody shoveling wood.\n\n79\n00:03:23,840 --> 00:03:25,810\nWould you trade your radiator\n\n80\n00:03:26,110 --> 00:03:27,580\nfor a Roman floor?\n\n",
+      "tg_msg": 791
+    },
+    "2026-10-25-1": {
+      "topic": {
+        "title": "How Tape Measures Work \ud83d\udccf",
+        "angle": "Zack D. Films' 'How Pencil Sharpeners Work' is running at about 346,000 views per hour this week, and the same 'How X Works' everyday-object shape also gave 'How Electrical Outlets Work' 59 million views; a tape measure's hidden spring, curve and sliding hook is the same inside-view payoff.",
+        "format": "animated",
+        "tone": "normal",
+        "virality_score": 8,
+        "trend_source": "title shape of How Pencil Sharpeners Work (345,661 views/h); also How Electrical Outlets Work (68,512 views/h)",
+        "plan_id": "P2026-10-25-01"
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-25T22:24:16.859429+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "how tape measures work",
+        "title": "How Tape Measures Work \ud83d\udccf",
+        "hook_text": "WIGGLES BY DESIGN",
+        "thumbnail_text": "LOOSE ON PURPOSE",
+        "description": "How do tape measures work, and why is the tape measure hook loose? See the spring that pulls the blade back, why the blade is curved, and how the wobbly hook keeps every measurement accurate.\n\nIn this Short: the coiled spring, the curved blade and the loose hook that measures inside and outside.\n\nSources:\nhttps://www.engineersupply.com/How-do-measuring-tapes-work.aspx\nhttps://www.slashgear.com/1853705/tape-measures-curved-reason/",
+        "hashtags": [
+          "#shorts",
+          "#howitworks",
+          "#tools",
+          "#science"
+        ],
+        "tags": [
+          "how tape measures work",
+          "tape measure hook",
+          "how tape measure spring works",
+          "tape measure",
+          "why is the tape measure hook loose",
+          "wobbly tape measure hook",
+          "tape measure blade curved",
+          "tape measure use",
+          "tape measure basics",
+          "measuring tape working",
+          "tape measure spring",
+          "tape measure tricks",
+          "how does a tape measure retract",
+          "true zero",
+          "3d animation",
+          "measuring tape",
+          "how it works"
+        ],
+        "pinned_comment": "Bonus: the hook moves by exactly its own thickness, so hooked or pushed, zero stays zero. Did you ever think that loose hook was broken?",
+        "visual_bible": "Claymation-style 3D animation featuring a vibrant matte yellow tape measure with polished silver steel blade and brass rivets, set upon a rustic oak wooden workbench inside a warmly lit workshop with soft blue shadows.",
+        "key_facts": [
+          "The end hook on a tape measure is intentionally loose and wobbly, not broken.",
+          "Pulling the blade winds an internal flat coiled spring around the center hub.",
+          "Releasing the blade allows the tensioned coiled spring to unwind and retract the blade automatically.",
+          "The blade is manufactured with a curved, concave cross-section that gives it structural rigidity across long spans without collapsing.",
+          "The rivets holding the hook sit in elongated slots allowing it to slide back and forth.",
+          "When hooked over an outside edge, the hook slides out by exactly its own thickness to measure from the inside face.",
+          "When pushed against an inside surface, the hook slides in by its own thickness to measure from the outside face.",
+          "This sliding mechanism ensures that both inside and outside measurements start at true zero."
+        ],
+        "scenes": [
+          {
+            "text": "You think the wobbly hook on your tape measure is broken, but why would you never fix it?",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "measuring tape hook close up",
+              "measuring tape loose hook workbench"
+            ],
+            "image_prompt": "Claymation style, close-up of a matte yellow tape measure on an oak workbench, focusing on the silver metal hook at the end of the blade slightly tilted, soft studio lighting, shallow depth of field, handcrafted stop-motion look.",
+            "shot": "3D animated shot: a yellow clay-style tape measure on a wooden workbench, camera pushes in slowly on the small metal end hook as it wiggles back and forth",
+            "stock_query": "measuring tape hook close up"
+          },
+          {
+            "text": "Pull the blade, and a coiled spring inside winds up.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "tape measure pulling blade out",
+              "measuring tape internal coil spring mechanism"
+            ],
+            "image_prompt": "Claymation style, cross-section side view cutaway of a yellow tape measure case, revealing an internal tightly wound spiral steel coil spring around a central hub, tactile clay texture, studio lighting.",
+            "shot": "3D animated cross-section of the same tape measure case cut in half, the steel blade pulls out and the flat coiled spring around the center hub winds tighter, camera static side view",
+            "stock_query": "tape measure pulling blade out"
+          },
+          {
+            "text": "Let go, and the spring pulls it home.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "tape measure retracting blade spring",
+              "tape measure blade snapping back into case"
+            ],
+            "image_prompt": "Claymation style, cross-section cutaway of a yellow tape measure, the internal spiral steel spring unwinding rapidly as the silver blade snaps back into the housing, dynamic motion blur, clay textures.",
+            "shot": "3D animated cross-section, same case: the blade is released, the coiled spring unwinds and spins the hub, the blade zips back into the case, camera follows the blade in",
+            "stock_query": "tape measure retracting blade spring"
+          },
+          {
+            "text": "The curved blade stays stiff in the air.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "extended tape measure blade curved profile",
+              "measuring tape blade straight in air"
+            ],
+            "image_prompt": "Claymation style, close-up perspective view of an extended yellow-and-silver tape measure blade hanging stiff in mid-air over a wooden workbench edge, highlighting the slight concave U-curve cross-section, tactile clay look.",
+            "shot": "3D animated close-up of the extended blade sticking out over the edge of the workbench, camera orbits to an end-on view showing the blade's curved, cupped shape keeping it straight",
+            "stock_query": "extended tape measure blade curved profile"
+          },
+          {
+            "text": "And the hook is loose on purpose.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "tape measure metal hook rivets slot",
+              "measuring tape end hook sliding mechanism"
+            ],
+            "image_prompt": "Claymation style, macro shot of the silver metal hook at the tip of a tape measure blade, showing two tiny metal rivets inside elongated sliding slots, tactile stop-motion clay aesthetic.",
+            "shot": "3D animated macro shot of the same end hook, camera circles it to show the two small rivets sitting in slightly long slots so the hook can slide",
+            "stock_query": "tape measure metal hook rivets slot"
+          },
+          {
+            "text": "Hook an edge, and it slides out by its own thickness.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "measuring tape hooked on wood edge",
+              "measuring board with tape measure hook"
+            ],
+            "image_prompt": "Claymation style, side view close-up of a tape measure hook catching the edge of a pine wooden plank, the hook pulled taut and sliding outward revealing a tiny gap equal to metal thickness, clay textures.",
+            "shot": "3D animated side view: the hook catches over the edge of a wooden board and the hook slides outward a tiny distance, a cutaway highlights the gap equal to the hook's thickness",
+            "stock_query": "measuring tape hooked on wood edge"
+          },
+          {
+            "text": "Push a wall, and it slides in the same amount.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "measuring tape hook pushed against wall",
+              "tape measure inside corner measurement"
+            ],
+            "image_prompt": "Claymation style, side view close-up of a tape measure hook pressed flush against an interior plaster wall, the hook sliding inward flat against the blade, closing the gap, handcrafted clay style.",
+            "shot": "3D animated side view: the same hook is pushed flat against a wall and slides inward the same tiny distance, the gap closes, camera holds steady",
+            "stock_query": "measuring tape hook pushed against wall"
+          },
+          {
+            "text": "So every reading starts at true zero.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "carpenter measuring tape zero mark alignment",
+              "tape measure inside outside measurement comparison"
+            ],
+            "image_prompt": "Claymation style, split-screen comparison showing a tape measure hooked onto an edge on the left and pushed against a wall on the right, both aligning perfectly to the true zero graduation mark, clay animation look.",
+            "shot": "3D animated split screen of the two same setups side by side, inside and outside, the blade's zero point lines up exactly with the board edge in both, camera pulls back",
+            "stock_query": "carpenter measuring tape zero mark alignment"
+          },
+          {
+            "text": "That wiggle keeps it accurate, so...",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "yellow tape measure on wooden workbench",
+              "tape measure tool on carpentry workshop bench"
+            ],
+            "image_prompt": "Claymation style, wide shot of the yellow tape measure resting on a rustic oak carpentry workbench with subtle wood shavings, the silver hook resting in foreground, warm workshop lighting.",
+            "shot": "3D animated shot pulling back to the full tape measure on the workbench, the hook gives one last small wiggle, camera ends on the same push-in framing as the first shot",
+            "stock_query": "yellow tape measure on wooden workbench"
+          }
+        ],
+        "format": "animated",
+        "tone": "normal",
+        "category": "27",
+        "script": "You think the wobbly hook on your tape measure is broken, but why would you never fix it? Pull the blade, and a coiled spring inside winds up. Let go, and the spring pulls it home. The curved blade stays stiff in the air. And the hook is loose on purpose. Hook an edge, and it slides out by its own thickness. Push a wall, and it slides in the same amount. So every reading starts at true zero. That wiggle keeps it accurate, so...",
+        "plan_id": "P2026-10-25-01",
+        "voice": "en-US-EmmaMultilingualNeural",
+        "animated_estimate": 0.49,
+        "visual_report": {
+          "shots": 9,
+          "checked": 5,
+          "unchecked": 0,
+          "filler": 8,
+          "ai": 0
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-EmmaMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): TungArt7 (Pixabay) https://pixabay.com/videos/id-212000/"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-25",
+        "name": "2026-10-25-1-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-25",
+        "name": "2026-10-25-1-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,087 --> 00:00:01,304\nYou think the wobbly hook on your\n\n2\n00:00:01,304 --> 00:00:03,141\ntape measure is broken but why would\n\n3\n00:00:03,141 --> 00:00:05,261\nyou never fix it Pull the blade\n\n4\n00:00:05,261 --> 00:00:07,500\nand a coiled spring inside winds up\n\n5\n00:00:07,500 --> 00:00:08,978\nLet go and the spring pulls it\n\n6\n00:00:08,978 --> 00:00:11,043\nhome The curved blade stays stiff in\n\n7\n00:00:11,043 --> 00:00:12,641\nthe air And the hook is loose\n\n8\n00:00:12,641 --> 00:00:14,783\non purpose Hook an edge and it\n\n9\n00:00:14,783 --> 00:00:16,902\nslides out by its own thickness Push\n\n10\n00:00:16,902 --> 00:00:18,359\na wall and it slides in the\n\n11\n00:00:18,359 --> 00:00:20,674\nsame amount So every reading starts at\n\n12\n00:00:20,674 --> 00:00:22,978\ntrue zero That wiggle keeps it accurate\n\n13\n00:00:22,978 --> 00:00:23,672\nso\n",
+      "tg_msg": 797,
+      "opts_msg": 799
+    },
+    "2026-10-25-2": {
+      "topic": {
+        "title": "Top 5 Funniest Animal Sounds \ud83d\ude02",
+        "angle": "Funny family Shorts dominate today's outliers (He Builds Art Just to Destroy It at 12.4x its channel median, Wait For End at 10.6x), and they all promise a payoff you only get by staying to the end; a countdown to a bird that copies a chainsaw holds the same last-beat reveal.",
+        "format": "funny",
+        "tone": "funny",
+        "virality_score": 8,
+        "trend_source": "He Builds Art Just to Destroy It! (12.4x); Wait For End (10.6x)",
+        "plan_id": "P2026-10-25-02"
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-25T22:35:55.139933+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "funniest animal sounds",
+        "title": "Top 5 Funniest Animal Sounds \ud83d\ude02",
+        "hook_text": "DUBBED? NOPE.",
+        "thumbnail_text": "CHAINSAW BIRD?",
+        "description": "What does a giraffe sound like? These are the funniest animal sounds on Earth, from a humming alpaca to a koala that sounds like a donkey, and the lyrebird that can copy a chainsaw.\n\nIn this Short: the top 5 funniest real animal sounds, counted down from the alpaca to the lyrebird.\n\nSources:\nhttps://www.livescience.com/41614-koalas-low-pitched-voice.html\nhttps://www.mentalfloss.com/animals/birds/lyrebird-best-impressionist-animal-kingdom\nhttps://www.mentalfloss.com/animals/animals-that-make-terrifying-sounds",
+        "hashtags": [
+          "#shorts",
+          "#funnyanimals",
+          "#animalsounds",
+          "#top5",
+          "#funny"
+        ],
+        "tags": [
+          "funniest animal sounds",
+          "funny animal sounds shorts",
+          "animal funny sounds and noises",
+          "funny animal sounds",
+          "top 5 animal sounds",
+          "funniest animal noises",
+          "funniest animal sounds ever",
+          "funny animal sounds compilation",
+          "funniest animal sounds in nature",
+          "funniest animal sounds in the world",
+          "great blue heron call",
+          "what does a giraffe sound like",
+          "funny animal sounds try not to laugh",
+          "lyrebird sounds",
+          "lyrebird chainsaw",
+          "superb lyrebird chainsaw",
+          "lyrebirds mimicking sounds"
+        ],
+        "pinned_comment": "Bonus: lyrebirds have been recorded copying camera shutters and car alarms too. Which sound would you want a lyrebird to copy?",
+        "scenes": [
+          {
+            "text": "You'd never guess what a giraffe sounds like, but number one can copy a chainsaw. Which animal is it?",
+            "badge": "",
+            "label": "GIRAFFE SOUNDS?",
+            "stock_queries": [
+              "giraffe chewing camera",
+              "giraffe funny close up"
+            ],
+            "image_prompt": "Close-up of a giraffe looking directly into the camera with an inquisitive and funny expression while chewing, natural sunny savanna background.",
+            "stock_query": "giraffe chewing camera"
+          },
+          {
+            "text": "Here are five real animal sounds that sound dubbed.",
+            "badge": "",
+            "label": "5 REAL, NOT DUBBED",
+            "stock_queries": [
+              "wild animals montage",
+              "zoo animals group"
+            ],
+            "image_prompt": "A dynamic collage or side-by-side shot of various wild animals in nature, clean bright outdoor lighting.",
+            "stock_query": "wild animals montage"
+          },
+          {
+            "text": "Number five, the alpaca. When it's uneasy, it hums with its mouth closed.",
+            "badge": "",
+            "label": "#5 HUMMING ALPACA",
+            "stock_queries": [
+              "alpaca chewing field",
+              "funny alpaca close up"
+            ],
+            "image_prompt": "A fluffy, cute alpaca standing in a lush green pasture with its mouth closed, tilted head, looking slightly confused.",
+            "stock_query": "alpaca chewing field"
+          },
+          {
+            "text": "Number four, the giraffe. At night, giraffes make a low hum like a ghost movie.",
+            "badge": "",
+            "label": "#4 GHOST GIRAFFE",
+            "stock_queries": [
+              "giraffes at sunset",
+              "giraffes silhouettes twilight"
+            ],
+            "image_prompt": "Silhouette of tall giraffes standing under a moody dusk sky in the African savanna, mysterious cinematic lighting.",
+            "stock_query": "giraffes at sunset"
+          },
+          {
+            "text": "Number three, the great blue heron. Its squawk sounds like a dinosaur, for up to twenty seconds.",
+            "badge": "",
+            "label": "#3 DINO HERON",
+            "stock_queries": [
+              "great blue heron calling",
+              "heron open beak wetland"
+            ],
+            "image_prompt": "A great blue heron standing in shallow wetland water with its long beak wide open as if screeching loudly, realistic wildlife photography.",
+            "stock_query": "great blue heron calling"
+          },
+          {
+            "text": "Number two, the koala. Scientists say its call sounds like a donkey braying and a frog being sick. It's about twenty times lower than you'd expect for its size.",
+            "badge": "",
+            "label": "#2 KOALA BELLOW",
+            "stock_queries": [
+              "koala calling eucalyptus tree",
+              "koala bellowing close up"
+            ],
+            "image_prompt": "A male koala perched in a eucalyptus tree with its mouth open wide, captured mid-bellow, detailed fur and funny intense expression.",
+            "stock_query": "koala calling eucalyptus tree"
+          },
+          {
+            "text": "Number one, the lyrebird. It copies camera clicks, car alarms and even chainsaws. So the chainsaw copier is a bird from Australia, the lyrebird.",
+            "badge": "",
+            "label": "#1 THE LYREBIRD",
+            "stock_queries": [
+              "superb lyrebird display",
+              "lyrebird forest floor"
+            ],
+            "image_prompt": "An Australian superb lyrebird on a mossy log on the rainforest floor, magnificent tail feathers fanned out over its head in full display display.",
+            "stock_query": "superb lyrebird display"
+          },
+          {
+            "text": "Which of these five would you pick as your ringtone? And once you hear one, you'll get why people say...",
+            "badge": "",
+            "label": "YOUR RINGTONE PICK?",
+            "stock_queries": [
+              "person checking ringing phone",
+              "funny giraffe chewing sunset"
+            ],
+            "image_prompt": "A person looking at a ringing smartphone with a broad laugh, bright modern living room background, transitioning to a funny giraffe chewing.",
+            "stock_query": "person checking ringing phone"
+          }
+        ],
+        "key_facts": [
+          "Alpacas hum with their mouths closed when they are uneasy or nervous.",
+          "Giraffes produce a low nocturnal humming vocalization that resembles eerie low-frequency sound.",
+          "The great blue heron emits harsh, prehistoric, dinosaur-like squawks that can last up to 20 seconds.",
+          "Male koalas produce deep bellows about 20 times lower in pitch than expected for their body size, using unique extra vocal folds.",
+          "The Australian superb lyrebird is renowned for mimicking artificial sounds, including car alarms, camera shutters, and chainsaws."
+        ],
+        "format": "funny",
+        "tone": "funny",
+        "category": "23",
+        "script": "You'd never guess what a giraffe sounds like, but number one can copy a chainsaw. Which animal is it? Here are five real animal sounds that sound dubbed. Number five, the alpaca. When it's uneasy, it hums with its mouth closed. Number four, the giraffe. At night, giraffes make a low hum like a ghost movie. Number three, the great blue heron. Its squawk sounds like a dinosaur, for up to twenty seconds. Number two, the koala. Scientists say its call sounds like a donkey braying and a frog being sick. It's about twenty times lower than you'd expect for its size. Number one, the lyrebird. It copies camera clicks, car alarms and even chainsaws. So the chainsaw copier is a bird from Australia, the lyrebird. Which of these five would you pick as your ringtone? And once you hear one, you'll get why people say...",
+        "plan_id": "P2026-10-25-02",
+        "shot_plan": [
+          {
+            "subject": "giraffe in the wild",
+            "queries": [
+              {
+                "q": "giraffe head close up",
+                "must": [
+                  "giraffe"
+                ]
+              },
+              {
+                "q": "giraffe Savannah",
+                "must": [
+                  "giraffe"
+                ]
+              },
+              {
+                "q": "tall giraffe",
+                "must": [
+                  "giraffe"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "various funny animals",
+            "queries": [
+              {
+                "q": "funny animal face",
+                "must": [
+                  "animal"
+                ]
+              },
+              {
+                "q": "cute wildlife close up",
+                "must": [
+                  "wildlife"
+                ]
+              },
+              {
+                "q": "quirky animal expression",
+                "must": [
+                  "animal"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "alpaca looking at camera",
+            "queries": [
+              {
+                "q": "alpaca close up",
+                "must": [
+                  "alpaca"
+                ]
+              },
+              {
+                "q": "humming alpaca",
+                "must": [
+                  "alpaca"
+                ]
+              },
+              {
+                "q": "cute alpaca face",
+                "must": [
+                  "alpaca"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "giraffe at night",
+            "queries": [
+              {
+                "q": "giraffe night silhouette",
+                "must": [
+                  "giraffe"
+                ]
+              },
+              {
+                "q": "giraffe dark landscape",
+                "must": [
+                  "giraffe"
+                ]
+              },
+              {
+                "q": "giraffe evening",
+                "must": [
+                  "giraffe"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "great blue heron standing",
+            "queries": [
+              {
+                "q": "great blue heron",
+                "must": [
+                  "heron"
+                ]
+              },
+              {
+                "q": "heron bird marsh",
+                "must": [
+                  "heron"
+                ]
+              },
+              {
+                "q": "large bird squawk",
+                "must": [
+                  "bird"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "koala sitting in eucalyptus tree",
+            "queries": [
+              {
+                "q": "koala bear close up",
+                "must": [
+                  "koala"
+                ]
+              },
+              {
+                "q": "koala tree branch",
+                "must": [
+                  "koala"
+                ]
+              },
+              {
+                "q": "koala eucalyptus",
+                "must": [
+                  "koala"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "lyrebird in natural habitat",
+            "queries": [
+              {
+                "q": "lyrebird forest ground",
+                "must": [
+                  "lyrebird"
+                ]
+              },
+              {
+                "q": "australian lyrebird",
+                "must": [
+                  "lyrebird"
+                ]
+              },
+              {
+                "q": "bird in bush",
+                "must": [
+                  "bird"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "cute animal reacting",
+            "queries": [
+              {
+                "q": "surprised animal face",
+                "must": [
+                  "animal"
+                ]
+              },
+              {
+                "q": "curious pet close up",
+                "must": [
+                  "pet"
+                ]
+              },
+              {
+                "q": "funny wildlife expression",
+                "must": [
+                  "wildlife"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "funny animal",
+          "wildlife close up",
+          "cute animal sound"
+        ],
+        "visual_style": "Engaging vertical stock footage featuring quirky animals and close-up reactions with countdown overlays.",
+        "visual_refs": [
+          "Ranking the funniest animal voiceovers \ud83e\udd23",
+          "RANKING THE BEST ANIMALS VOICEOVERS",
+          "Ranking the funniest animal voiceovers | part 12",
+          "Ranking My Funniest Dog Voiceovers \ud83d\udc36\ud83e\udd23 #FunnyDogs #animalvideos",
+          "Top 5 Best Funny Animal Voiceovers \ud83d\ude02#funny",
+          "Best Singing Animals Ranked \ud83c\udf99\ufe0f\ud83d\udc36"
+        ],
+        "voice": "en-US-BrianMultilingualNeural",
+        "visual_report": {
+          "shots": 18,
+          "checked": 18,
+          "unchecked": 0,
+          "filler": 0,
+          "ai": 0
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-BrianMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): Afzaal0001 (Pixabay) https://pixabay.com/videos/id-227950/; Eaktas06 (Pixabay) https://pixabay.com/videos/id-127479/; ucuzucuyorum (Pixabay) https://pixabay.com/videos/id-127810/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-303811/; Eaktas06 (Pixabay) https://pixabay.com/videos/id-163299/; cocoparisienne (Pixabay) https://pixabay.com/photos/giraffe-animal-africa-sunset-2073609/; OneGod_TheFather (Pixabay) https://pixabay.com/videos/id-275211/; danydory (Pixabay) https://pixabay.com/videos/id-28493/; danydory (Pixabay) https://pixabay.com/videos/id-136515/; j7126 (Pixabay) https://pixabay.com/videos/id-177369/; DavidClode (Pixabay) https://pixabay.com/videos/id-219571/; pen_ash (Pixabay) https://pixabay.com/videos/id-341430/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-329144/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-305352/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-329142/",
+        "Maurice van Creij / Wikimedia Commons (CC BY 3.0) https://commons.wikimedia.org/wiki/File:A_lyrebird_at_Lyrebird_Gully_-_panoramio.jpg",
+        "Deborah Pickett / Wikimedia Commons (CC BY 3.0) https://commons.wikimedia.org/wiki/File:Lyrebird_(142179671).jpeg",
+        "John Tann from Sydney, Australia / Wikimedia Commons (CC BY 2.0) https://commons.wikimedia.org/wiki/File:Superb_Lyrebird_(12947687595).jpg"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-25",
+        "name": "2026-10-25-2-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-25",
+        "name": "2026-10-25-2-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,068 --> 00:00:01,916\nYou'd never guess what a giraffe sounds\n\n2\n00:00:01,916 --> 00:00:04,443\nlike but number one can copy a\n\n3\n00:00:04,443 --> 00:00:07,853\nchainsaw Which animal is it Here are\n\n4\n00:00:07,853 --> 00:00:10,897\nfive real animal sounds that sound dubbed\n\n5\n00:00:10,897 --> 00:00:14,592\nNumber five the alpaca When it's uneasy\n\n6\n00:00:14,592 --> 00:00:17,296\nit hums with its mouth closed Number\n\n7\n00:00:17,296 --> 00:00:20,435\nfour the giraffe At night giraffes make\n\n8\n00:00:20,435 --> 00:00:22,663\na low hum like a ghost movie\n\n9\n00:00:22,663 --> 00:00:25,417\nNumber three the great blue heron Its\n\n10\n00:00:25,417 --> 00:00:28,175\nsquawk sounds like a dinosaur for up\n\n11\n00:00:28,175 --> 00:00:31,534\nto twenty seconds Number two the koala\n\n12\n00:00:31,534 --> 00:00:33,532\nScientists say its call sounds like a\n\n13\n00:00:33,532 --> 00:00:36,327\ndonkey braying and a frog being sick\n\n14\n00:00:36,327 --> 00:00:38,569\nIt's about twenty times lower than you'd\n\n15\n00:00:38,569 --> 00:00:41,345\nexpect for its size Number one the\n\n16\n00:00:41,345 --> 00:00:45,136\nlyrebird It copies camera clicks car alarms\n\n17\n00:00:45,136 --> 00:00:48,150\nand even chainsaws So the chainsaw copier\n\n18\n00:00:48,150 --> 00:00:51,495\nis a bird from Australia the lyrebird\n\n19\n00:00:51,495 --> 00:00:53,234\nWhich of these five would you pick\n\n20\n00:00:53,234 --> 00:00:55,542\nas your ringtone And once you hear\n\n21\n00:00:55,542 --> 00:00:57,926\none you'll get why people say\n",
+      "tg_msg": 800,
+      "opts_msg": 802
+    },
+    "2026-10-25-3": {
+      "topic": {
+        "title": "Top 5 Animals With the Biggest Eyes \ud83d\udc41\ufe0f",
+        "angle": "Superlative titles keep breaking out today (The best part of The Rookie at 7.4x its channel median uses The Superlative), and a countdown that flips the obvious answer (not the whale) is the kind of last-beat payoff that drives rewatches.",
+        "format": "ranking",
+        "tone": "normal",
+        "virality_score": 7,
+        "trend_source": "The best part of The Rookie (7.4x, The Superlative)",
+        "plan_id": "P2026-10-25-03"
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-25T22:48:49.418118+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "animals with biggest eyes",
+        "title": "Top 5 Animals With the Biggest Eyes \ud83d\udc41\ufe0f",
+        "hook_text": "PLATE-SIZED PEEPERS",
+        "thumbnail_text": "DINNER-PLATE SIZE",
+        "description": "Which animal has the biggest eyes? These are the top 5 animals with the biggest eyes on Earth, from the ostrich to the colossal squid, whose eye is wider than a blue whale's.\n\nIn this Short: the top 5 biggest eyes in the animal kingdom, counted down with their real sizes.\n\nSources:\nhttps://www.ifaw.org/international/journal/animals-biggest-eyes-world\nhttps://birda.org/what-animal-has-the-largest-eyes/",
+        "hashtags": [
+          "#shorts",
+          "#animalfacts",
+          "#ocean",
+          "#top5"
+        ],
+        "tags": [
+          "animals with biggest eyes",
+          "which animal has the biggest eyes",
+          "which animal has the biggest eyes in the world",
+          "biggest eyes",
+          "which animal has the largest eyes",
+          "which land animal has the largest eyes",
+          "blue whale eye size",
+          "top 5 animals",
+          "blue whale eyes",
+          "colossal squid eye",
+          "giant squid eye size",
+          "biggest eyes in the world",
+          "largest eye in the animal kingdom",
+          "giant squid eye",
+          "animals with big eyes",
+          "colossal squid eyeball",
+          "bigeye thresher shark",
+          "ostrich eye",
+          "animal facts"
+        ],
+        "pinned_comment": "Bonus: the tarsier's eyes are each about as big as its brain. Which animal did you think had the biggest eyes?",
+        "scenes": [
+          {
+            "text": "You'd guess a whale has the biggest eye on Earth, but why is number one more than twice as big? Let's count down the five biggest eyes in the animal kingdom.",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "blue whale swimming underwater",
+              "large animal eye blinking close up"
+            ],
+            "image_prompt": "Cinematic underwater shot of a colossal blue whale gliding through deep oceanic water, majestic lighting, 8k documentary style.",
+            "stock_query": "blue whale swimming underwater"
+          },
+          {
+            "text": "Number five, the ostrich. Its eyes are about five centimeters across, the biggest of any land animal.",
+            "badge": "#5",
+            "label": "Ostrich",
+            "stock_queries": [
+              "ostrich head eye close up",
+              "ostrich in savanna"
+            ],
+            "image_prompt": "Extreme close-up macro portrait of an ostrich head showing its massive glossy eye with long eyelashes, bright African savanna background.",
+            "stock_query": "ostrich head eye close up"
+          },
+          {
+            "text": "Number four, the swordfish, with eyes of about nine to ten centimeters.",
+            "badge": "#4",
+            "label": "Swordfish",
+            "stock_queries": [
+              "swordfish swimming open ocean",
+              "marlin underwater open water"
+            ],
+            "image_prompt": "A large swordfish swimming gracefully in deep blue pelagic waters, sun rays piercing through the water surface, detailed bill and huge eye.",
+            "stock_query": "swordfish swimming open ocean"
+          },
+          {
+            "text": "Number three, the bigeye thresher shark. About ten centimeters, the biggest eyes of any living fish.",
+            "badge": "#3",
+            "label": "Bigeye Thresher Shark",
+            "stock_queries": [
+              "thresher shark swimming deep ocean",
+              "shark eye close up underwater"
+            ],
+            "image_prompt": "Underwater shot of a bigeye thresher shark highlighting its enormous dark eye and long whip-like tail, deep blue ocean lighting.",
+            "stock_query": "thresher shark swimming deep ocean"
+          },
+          {
+            "text": "Number two, the blue whale. Its eye is about eleven centimeters, roughly a grapefruit. For the largest animal alive, that's actually pretty small.",
+            "badge": "#2",
+            "label": "Blue Whale",
+            "stock_queries": [
+              "blue whale eye close up underwater",
+              "blue whale diver scale comparison"
+            ],
+            "image_prompt": "Underwater close-up of a blue whale's eye on its massive textured head, sunbeams refracting through clear ocean water.",
+            "stock_query": "blue whale eye close up underwater"
+          },
+          {
+            "text": "Number one, the colossal squid. Each eye is about twenty-seven centimeters across, as wide as a dinner plate. So the eye that beats a whale's by more than double belongs to a squid.",
+            "badge": "#1",
+            "label": "Colossal Squid",
+            "stock_queries": [
+              "deep sea colossal squid",
+              "giant squid underwater dark"
+            ],
+            "image_prompt": "Eerie deep abyss shot of a colossal squid with a massive glowing dinner-plate-sized eye, bioluminescent particles in pitch-black deep sea.",
+            "stock_query": "deep sea colossal squid"
+          },
+          {
+            "text": "Which animal did you think would be number one? Most people say the whale, and honestly...",
+            "badge": "",
+            "label": "",
+            "stock_queries": [
+              "person looking at giant aquarium",
+              "blue whale swimming deep water"
+            ],
+            "image_prompt": "Silhouette of a person standing before a massive dark ocean aquarium viewing window, looking at deep-sea marine life, cinematic moody atmosphere.",
+            "stock_query": "person looking at giant aquarium"
+          }
+        ],
+        "key_facts": [
+          "The ostrich has the largest eye of any land animal, measuring about 5 cm across.",
+          "The swordfish has eyes measuring approximately 9 to 10 cm across.",
+          "The bigeye thresher shark has eyes measuring about 10 cm across, the largest of any living fish.",
+          "The blue whale's eye measures around 11 cm across, roughly the size of a grapefruit.",
+          "The colossal squid has the largest eyes of any animal on Earth, measuring about 27 cm across (dinner-plate sized), more than double the size of a blue whale's eye."
+        ],
+        "format": "ranking",
+        "tone": "normal",
+        "category": "27",
+        "script": "You'd guess a whale has the biggest eye on Earth, but why is number one more than twice as big? Let's count down the five biggest eyes in the animal kingdom. Number five, the ostrich. Its eyes are about five centimeters across, the biggest of any land animal. Number four, the swordfish, with eyes of about nine to ten centimeters. Number three, the bigeye thresher shark. About ten centimeters, the biggest eyes of any living fish. Number two, the blue whale. Its eye is about eleven centimeters, roughly a grapefruit. For the largest animal alive, that's actually pretty small. Number one, the colossal squid. Each eye is about twenty-seven centimeters across, as wide as a dinner plate. So the eye that beats a whale's by more than double belongs to a squid. Which animal did you think would be number one? Most people say the whale, and honestly...",
+        "plan_id": "P2026-10-25-03",
+        "shot_plan": [
+          {
+            "subject": "blue whale underwater",
+            "queries": [
+              {
+                "q": "blue whale ocean",
+                "must": [
+                  "whale"
+                ]
+              },
+              {
+                "q": "whale underwater",
+                "must": [
+                  "whale"
+                ]
+              },
+              {
+                "q": "ocean animal",
+                "must": [
+                  "ocean"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "ostrich head close up",
+            "queries": [
+              {
+                "q": "ostrich head eye",
+                "must": [
+                  "ostrich"
+                ]
+              },
+              {
+                "q": "ostrich bird",
+                "must": [
+                  "ostrich"
+                ]
+              },
+              {
+                "q": "bird eye",
+                "must": [
+                  "bird"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "swordfish swimming",
+            "queries": [
+              {
+                "q": "swordfish underwater",
+                "must": [
+                  "swordfish"
+                ]
+              },
+              {
+                "q": "marlin fish",
+                "must": [
+                  "fish"
+                ]
+              },
+              {
+                "q": "ocean fish",
+                "must": [
+                  "fish"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "thresher shark swimming",
+            "queries": [
+              {
+                "q": "thresher shark ocean",
+                "must": [
+                  "shark"
+                ]
+              },
+              {
+                "q": "bigeye thresher",
+                "must": [
+                  "shark"
+                ]
+              },
+              {
+                "q": "shark underwater",
+                "must": [
+                  "shark"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "blue whale surface",
+            "queries": [
+              {
+                "q": "blue whale breaching",
+                "must": [
+                  "whale"
+                ]
+              },
+              {
+                "q": "whale surface",
+                "must": [
+                  "whale"
+                ]
+              },
+              {
+                "q": "giant whale",
+                "must": [
+                  "whale"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "colossal squid underwater",
+            "queries": [
+              {
+                "q": "giant squid ocean",
+                "must": [
+                  "squid"
+                ]
+              },
+              {
+                "q": "colossal squid",
+                "must": [
+                  "squid"
+                ]
+              },
+              {
+                "q": "deep sea squid",
+                "must": [
+                  "squid"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "blue whale tail",
+            "queries": [
+              {
+                "q": "whale tail fluke",
+                "must": [
+                  "whale"
+                ]
+              },
+              {
+                "q": "whale diving",
+                "must": [
+                  "whale"
+                ]
+              },
+              {
+                "q": "ocean wildlife",
+                "must": [
+                  "ocean"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "animal eye close up",
+          "wildlife macro",
+          "nature documentary"
+        ],
+        "visual_style": "Cinematic close-up macro footage of animal eyes in nature with vibrant natural colors and clear subject labels",
+        "visual_refs": [
+          "Top 5 Animals With The Biggest Eyes  #facts #animals #wildlife #cute #top5",
+          "Animals With The Biggest Eyes \ud83d\ude32 | Crazy Facts | Amazing Facts | Cute Animal Facts",
+          "Top 5 Animals With Biggest Eyes \ud83d\ude31\ud83d\udc40 #shorts #animals",
+          "Top 5 Animals With The Sharpest Eyes In The World \ud83c\udf0d\ud83d\udc41\ufe0f #animals #top #trending",
+          "Top 5 Animals With the Strangest Eyes! \ud83d\udc40\ud83d\ude33 #Shorts #usa #ranking #viral #animalworld",
+          "#1 is absolutely crazy \ud83e\udd2f Top 5 Animals With the Biggest Eyes \ud83d\udc40 #cuteanimals #aww #youtubeshorts"
+        ],
+        "voice": "en-US-AvaMultilingualNeural",
+        "visual_report": {
+          "shots": 9,
+          "checked": 9,
+          "unchecked": 0,
+          "filler": 1,
+          "ai": 0
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AvaMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): 12019 (Pixabay) https://pixabay.com/photos/humpback-whale-sea-ocean-water-79855/; NickyPe (Pixabay) https://pixabay.com/videos/id-44411/; u_z325vo1ro2 (Pixabay) https://pixabay.com/videos/id-366516/; oadtz (Pixabay) https://pixabay.com/videos/id-6681/; LisaOlivia (Pixabay) https://pixabay.com/videos/id-244188/; Osckar (Pixabay) https://pixabay.com/videos/id-117702/",
+        "National Marine Sanctuaries / Wikimedia Commons (CC BY 2.0) https://commons.wikimedia.org/wiki/File:HIHWNMS_Humpback_Whale_Underwater_(49530678743).jpg",
+        "New Zealand-American Submarine Ring of Fire 2005 Exploration / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:Deep_sea_squid.jpg"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-25",
+        "name": "2026-10-25-3-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-25",
+        "name": "2026-10-25-3-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,082 --> 00:00:01,902\nYou'd guess a whale has the biggest\n\n2\n00:00:01,902 --> 00:00:03,872\neye on Earth but why is number\n\n3\n00:00:03,872 --> 00:00:06,060\none more than twice as big Let's\n\n4\n00:00:06,060 --> 00:00:08,111\ncount down the five biggest eyes in\n\n5\n00:00:08,111 --> 00:00:11,916\nthe animal kingdom Number five the ostrich\n\n6\n00:00:11,916 --> 00:00:14,647\nIts eyes are about five centimeters across\n\n7\n00:00:14,647 --> 00:00:17,731\nthe biggest of any land animal Number\n\n8\n00:00:17,731 --> 00:00:20,965\nfour the swordfish with eyes of about\n\n9\n00:00:20,965 --> 00:00:24,565\nnine to ten centimeters Number three the\n\n10\n00:00:24,565 --> 00:00:28,192\nbigeye thresher shark About ten centimeters\n\n11\n00:00:28,192 --> 00:00:31,168\nthe biggest eyes of any living fish\n\n12\n00:00:31,168 --> 00:00:34,076\nNumber two the blue whale Its eye\n\n13\n00:00:34,076 --> 00:00:37,921\nis about eleven centimeters roughly a grapefruit\n\n14\n00:00:37,921 --> 00:00:40,489\nFor the largest animal alive that's actually\n\n15\n00:00:40,489 --> 00:00:44,484\npretty small Number one the colossal squid\n\n16\n00:00:44,484 --> 00:00:46,929\nEach eye is about twenty-seven centimeters\n\n17\n00:00:46,929 --> 00:00:50,054\nacross as wide as a dinner plate\n\n18\n00:00:50,054 --> 00:00:51,753\nSo the eye that beats a whale's\n\n19\n00:00:51,753 --> 00:00:53,546\nby more than double belongs to a\n\n20\n00:00:53,546 --> 00:00:55,938\nsquid Which animal did you think would\n\n21\n00:00:55,938 --> 00:00:58,179\nbe number one Most people say the\n\n22\n00:00:58,179 --> 00:01:00,278\nwhale and honestly\n",
+      "tg_msg": 803,
+      "opts_msg": 805
+    },
+    "2026-10-25-4": {
+      "topic": {
+        "title": "The 5-Year Wait Behind Post-it Notes",
+        "angle": "Today's outliers reward a reveal you only get at the end (Wait For End at 10.6x its channel median), and an origin story whose answer arrives in the last beats, a bookmark that saved a failed glue, has that same twist structure.",
+        "format": "story",
+        "tone": "normal",
+        "virality_score": 7,
+        "trend_source": "Wait For End (10.6x); He Builds Art Just to Destroy It! (12.4x)",
+        "plan_id": "P2026-10-25-04"
+      },
+      "status": "awaiting_approval",
+      "by": "auto",
+      "updated": "2026-10-25T23:02:06.724381+00:00",
+      "redos": 0,
+      "package": {
+        "primary_keyword": "post-it note history",
+        "title": "The 5-Year Wait Behind Post-it Notes",
+        "hook_text": "TOO WEAK TO WORK",
+        "thumbnail_text": "FAILED GLUE",
+        "description": "How were Post-it notes invented, and why are Post-it notes yellow? This Post-it note history starts with a failed glue in 1968 that waited five years for a use.\n\nIn this Short: the weak glue, the falling bookmark and the free samples that turned it into the sticky note.\n\nThis is a true story.\n\nSources:\nhttps://en.wikipedia.org/wiki/Post-it_note\nhttps://www.wrtv.com/news/national/inventor-of-post-it-notes-adhesive-dies-at-age-80",
+        "hashtags": [
+          "#shorts",
+          "#history",
+          "#inventions",
+          "#truestory",
+          "#storytime"
+        ],
+        "tags": [
+          "post-it note history",
+          "who invented sticky notes",
+          "how post it notes were invented",
+          "post-it notes",
+          "who invented post its",
+          "who invented post-it notes",
+          "why are post-it notes yellow",
+          "sticky notes",
+          "post it",
+          "history facts",
+          "spencer silver",
+          "invention stories",
+          "accidental inventions",
+          "3m"
+        ],
+        "pinned_comment": "Bonus: before the name Post-it, the test version in 1977 was called Press 'n Peel. Would you have bought a 'Press 'n Peel' note?",
+        "scenes": [
+          {
+            "text": "You've stuck a Post-it note, but why did its glue sit unused for five years before a singer saved it? Here's how a failed glue became the sticky note.",
+            "badge": "A GLUE N",
+            "label": "HOW IT BECAME A HIT",
+            "stock_queries": [
+              "hand placing sticky note on monitor",
+              "desk covered in sticky notes"
+            ],
+            "image_prompt": "Close up shot of a hand placing a bright yellow sticky note onto a sleek computer monitor, dramatic studio lighting.",
+            "stock_query": "hand placing sticky note on monitor"
+          },
+          {
+            "text": "In nineteen sixty-eight, 3M scientist Spencer Silver tried to make a super strong glue. Instead, he made one so weak it peeled off, and could stick again.",
+            "badge": "1968: TO",
+            "label": "STICKS AGAIN AND AGAIN",
+            "stock_queries": [
+              "vintage science laboratory glass beakers",
+              "peeling paper off surface"
+            ],
+            "image_prompt": "A retro 1960s science lab filled with glass beakers and test tubes, realistic historical aesthetic.",
+            "stock_query": "vintage science laboratory glass beakers"
+          },
+          {
+            "text": "For five years, nobody at the company knew what it was for.",
+            "badge": "5 YEARS,",
+            "label": "NO ONE KNEW",
+            "stock_queries": [
+              "office meeting confused people",
+              "old office desk with papers"
+            ],
+            "image_prompt": "A 1970s office conference room with businessmen looking puzzled around a table covered in paper documents.",
+            "stock_query": "office meeting confused people"
+          },
+          {
+            "text": "Then in nineteen seventy-four, a coworker's bookmarks kept falling out of his choir songbook.",
+            "badge": "1974: FA",
+            "label": "CHOIR SONGBOOK",
+            "stock_queries": [
+              "choir singing open songbook",
+              "paper bookmark slipping out of book"
+            ],
+            "image_prompt": "An open vintage sheet music book resting on a wooden piano with paper bookmarks slipping out between pages.",
+            "stock_query": "choir singing open songbook"
+          },
+          {
+            "text": "He tried the weak glue, and the bookmark stayed put, then peeled off clean.",
+            "badge": "IT STAYE",
+            "label": "PEELED OFF CLEAN",
+            "stock_queries": [
+              "sticky note in open book",
+              "hand peeling paper off book page"
+            ],
+            "image_prompt": "A hand gently peeling a yellow paper note off a vintage book page without damaging the paper.",
+            "stock_query": "sticky note in open book"
+          },
+          {
+            "text": "After a flop in nineteen seventy-seven, free samples in Boise, Idaho won people over.",
+            "badge": "FREE SAM",
+            "label": "BOISE IDAHO 1978",
+            "stock_queries": [
+              "city street 1970s office workers",
+              "person handing out samples street"
+            ],
+            "image_prompt": "A vintage late 1970s American city street with office workers walking by in sunlight.",
+            "stock_query": "city street 1970s office workers"
+          },
+          {
+            "text": "They went on sale across America in nineteen eighty, yellow because that was the scrap paper next door.",
+            "badge": "1980 + S",
+            "label": "SCRAP PAPER",
+            "stock_queries": [
+              "stack of yellow sticky notes",
+              "yellow paper pads on desk"
+            ],
+            "image_prompt": "A pristine stack of bright yellow sticky note pads on a clean office desk workspace.",
+            "stock_query": "stack of yellow sticky notes"
+          },
+          {
+            "text": "So the glue waited five years because it was a solution without a problem, until a bookmark. What's the weirdest place you've stuck a sticky note? And next time you peel one off, remember...",
+            "badge": "THE END",
+            "label": "SOLUTION MEET PROBLEM",
+            "stock_queries": [
+              "fridge covered in sticky notes",
+              "hand peeling yellow sticky note"
+            ],
+            "image_prompt": "A stainless steel refrigerator door covered in colorful sticky notes with handwritten notes in a warm modern kitchen.",
+            "stock_query": "fridge covered in sticky notes"
+          }
+        ],
+        "key_facts": [
+          "In 1968, 3M scientist Spencer Silver invented a low-tack, reusable adhesive while trying to create a super strong glue.",
+          "The adhesive remained unused at 3M for five years.",
+          "In 1974, coworker Art Fry used the adhesive to keep bookmarks from falling out of his choir songbook.",
+          "After initial commercial failure in 1977, free sample distributions in Boise, Idaho in 1978 won consumers over.",
+          "Post-it notes officially launched across the United States in 1980.",
+          "The iconic yellow color was selected purely by chance because the adjacent laboratory only had yellow scrap paper available."
+        ],
+        "format": "story",
+        "tone": "normal",
+        "category": "24",
+        "script": "You've stuck a Post-it note, but why did its glue sit unused for five years before a singer saved it? Here's how a failed glue became the sticky note. In nineteen sixty-eight, 3M scientist Spencer Silver tried to make a super strong glue. Instead, he made one so weak it peeled off, and could stick again. For five years, nobody at the company knew what it was for. Then in nineteen seventy-four, a coworker's bookmarks kept falling out of his choir songbook. He tried the weak glue, and the bookmark stayed put, then peeled off clean. After a flop in nineteen seventy-seven, free samples in Boise, Idaho won people over. They went on sale across America in nineteen eighty, yellow because that was the scrap paper next door. So the glue waited five years because it was a solution without a problem, until a bookmark. What's the weirdest place you've stuck a sticky note? And next time you peel one off, remember...",
+        "plan_id": "P2026-10-25-04",
+        "shot_plan": [
+          {
+            "subject": "sticky note on a wall",
+            "queries": [
+              {
+                "q": "sticky note wall",
+                "must": [
+                  "note"
+                ]
+              },
+              {
+                "q": "yellow notepad",
+                "must": [
+                  "paper"
+                ]
+              },
+              {
+                "q": "office wall",
+                "must": [
+                  "office"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "laboratory scientist working",
+            "queries": [
+              {
+                "q": "laboratory scientist",
+                "must": [
+                  "scientist"
+                ]
+              },
+              {
+                "q": "chemistry lab",
+                "must": [
+                  "laboratory"
+                ]
+              },
+              {
+                "q": "scientific test",
+                "must": [
+                  "science"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "empty office desk",
+            "queries": [
+              {
+                "q": "empty desk",
+                "must": [
+                  "desk"
+                ]
+              },
+              {
+                "q": "office interior",
+                "must": [
+                  "office"
+                ]
+              },
+              {
+                "q": "workplace",
+                "must": [
+                  "work"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "book with bookmarks",
+            "queries": [
+              {
+                "q": "book bookmark",
+                "must": [
+                  "book"
+                ]
+              },
+              {
+                "q": "reading book",
+                "must": [
+                  "reading"
+                ]
+              },
+              {
+                "q": "library book",
+                "must": [
+                  "library"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "peeling paper bookmark",
+            "queries": [
+              {
+                "q": "peeling paper",
+                "must": [
+                  "paper"
+                ]
+              },
+              {
+                "q": "removing sticker",
+                "must": [
+                  "sticker"
+                ]
+              },
+              {
+                "q": "paper sheet",
+                "must": [
+                  "sheet"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "store shelves with products",
+            "queries": [
+              {
+                "q": "store shelf",
+                "must": [
+                  "store"
+                ]
+              },
+              {
+                "q": "retail products",
+                "must": [
+                  "retail"
+                ]
+              },
+              {
+                "q": "supermarket aisle",
+                "must": [
+                  "supermarket"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "stack of yellow paper",
+            "queries": [
+              {
+                "q": "yellow paper stack",
+                "must": [
+                  "paper"
+                ]
+              },
+              {
+                "q": "notepad stack",
+                "must": [
+                  "notepad"
+                ]
+              },
+              {
+                "q": "scrap paper",
+                "must": [
+                  "scrap"
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "peeling a sticky note",
+            "queries": [
+              {
+                "q": "peeling sticky note",
+                "must": [
+                  "note"
+                ]
+              },
+              {
+                "q": "removing notepad",
+                "must": [
+                  "notepad"
+                ]
+              },
+              {
+                "q": "ripping paper",
+                "must": [
+                  "paper"
+                ]
+              }
+            ]
+          }
+        ],
+        "broll": [
+          "sticky note",
+          "office desk",
+          "paper note"
+        ],
+        "visual_style": "clean macro close-ups and hands-on demonstrations of stationery and office supplies with bright neutral backgrounds",
+        "visual_refs": [
+          "Can I Fit My Body Through A Post-it Note?",
+          "\ud83d\ude0cBORED? Try Sticky Note Origami: The Never-Ending Flexagon\ud83d\udd04\ud83d\udcc4 #shorts #fidget #origami #fidgettoys",
+          "\u2728My notes\u2728 #shorts",
+          "If I could I would have made it all in one video but it\u2019s up already!!",
+          "TRYING WEIRD/VIRAL CANDY | KAYLAMALECC | #shorts",
+          "\u2018Where We Bout to Eat At?\u2019 Kid Antwain Fowler Dies at 6 #shorts"
+        ],
+        "voice": "en-US-EmmaMultilingualNeural",
+        "visual_report": {
+          "shots": 14,
+          "checked": 14,
+          "unchecked": 0,
+          "filler": 2,
+          "ai": 0
+        }
+      },
+      "credits": [
+        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-EmmaMultilingualNeural).",
+        "Stock footage/photos (Pexels/Pixabay Content License): EqualStock (Pixabay) https://pixabay.com/videos/id-262464/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-376592/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-377327/; klimkin (Pixabay) https://pixabay.com/videos/id-4952/; GSA_\u00c9picerie_Du_Monde (Pixabay) https://pixabay.com/videos/id-358890/; MilanWulf (Pixabay) https://pixabay.com/videos/id-20910/; ammcintosh1 (Pixabay) https://pixabay.com/photos/books-office-notepad-stacked-desk-659690/; analogicus (Pixabay) https://pixabay.com/photos/notes-memo-sticky-notes-notepad-3199392/",
+        "Phil Roeder from Des Moines, IA, USA / Wikimedia Commons (CC BY 2.0) https://commons.wikimedia.org/wiki/File:Sticky_Note_Therapy_(31135998640).jpg",
+        "Phil Roeder from Des Moines, IA, USA / Wikimedia Commons (CC BY 2.0) https://commons.wikimedia.org/wiki/File:Sticky_Note_Therapy_(31135998640)_(cropped).jpg",
+        "Phil Roeder from Des Moines, IA, USA / Wikimedia Commons (CC BY 2.0) https://commons.wikimedia.org/wiki/File:Sticky_Note_Therapy_(31135998640)_(cropped2).jpg",
+        "SmashingIt99 / Wikimedia Commons (CC0) https://commons.wikimedia.org/wiki/File:Empty_apartment_in_Berlin_with_white_desk,_chair_and_ladder_01.jpg"
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-25",
+        "name": "2026-10-25-4-v0.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-25",
+        "name": "2026-10-25-4-v0-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,093 --> 00:00:02,274\nYou've stuck a Post-it note but why\n\n2\n00:00:02,274 --> 00:00:04,096\ndid its glue sit unused for five\n\n3\n00:00:04,096 --> 00:00:06,742\nyears before a singer saved it Here's\n\n4\n00:00:06,742 --> 00:00:08,644\nhow a failed glue became the sticky\n\n5\n00:00:08,644 --> 00:00:12,793\nnote In nineteen sixty-eight 3M scientist Spencer\n\n6\n00:00:12,793 --> 00:00:14,734\nSilver tried to make a super strong\n\n7\n00:00:14,734 --> 00:00:17,247\nglue Instead he made one so weak\n\n8\n00:00:17,247 --> 00:00:19,840\nit peeled off and could stick again\n\n9\n00:00:19,840 --> 00:00:22,354\nFor five years nobody at the company\n\n10\n00:00:22,354 --> 00:00:24,295\nknew what it was for Then in\n\n11\n00:00:24,295 --> 00:00:27,367\nnineteen seventy-four a coworker's bookmarks\n\n12\n00:00:27,367 --> 00:00:30,000\nkept falling out of his choir songbook\n\n13\n00:00:30,000 --> 00:00:31,822\nHe tried the weak glue and the\n\n14\n00:00:31,822 --> 00:00:34,907\nbookmark stayed put then peeled off clean\n\n15\n00:00:34,907 --> 00:00:37,846\nAfter a flop in nineteen seventy-seven free\n\n16\n00:00:37,846 --> 00:00:41,463\nsamples in Boise, Idaho won people over They\n\n17\n00:00:41,463 --> 00:00:43,830\nwent on sale across America in nineteen\n\n18\n00:00:43,830 --> 00:00:46,144\neighty yellow because that was the scrap\n\n19\n00:00:46,144 --> 00:00:48,750\npaper next door So the glue waited\n\n20\n00:00:48,750 --> 00:00:50,851\nfive years because it was a solution\n\n21\n00:00:50,851 --> 00:00:53,910\nwithout a problem until a bookmark What's\n\n22\n00:00:53,910 --> 00:00:55,851\nthe weirdest place you've stuck a sticky\n\n23\n00:00:55,851 --> 00:00:58,112\nnote And next time you peel one\n\n24\n00:00:58,112 --> 00:00:59,443\noff remember\n",
+      "tg_msg": 806,
+      "opts_msg": 808
     }
   },
   "history": [
-    "How a Dog Saved the 1966 World Cup \u26bd",
-    "Top 5 Strangest Animal Drinking Tricks",
-    "Jack-o'-Lantern History in 60 Seconds",
-    "Top 5 Animals With Built-In Armor",
     "Top 5 Funniest Real Jobs From History \ud83d\ude02",
     "Quick Weather Quiz: 2 Fakes, 1 Real",
     "The Eiffel Tower Had a 20-Year Expiry Date",
@@ -11939,7 +12587,11 @@
     "How Zippers Work in 2 Moves",
     "Top 5 Tiniest Animals (#1 Is a Frog)",
     "Why Your Dog Tilts Its Head: 1 Study",
-    "How 1 Pie Tin Became the Frisbee \ud83e\udd67"
+    "How 1 Pie Tin Became the Frisbee \ud83e\udd67",
+    "How Tape Measures Work \ud83d\udccf",
+    "Top 5 Funniest Animal Sounds \ud83d\ude02",
+    "Top 5 Animals With the Biggest Eyes \ud83d\udc41\ufe0f",
+    "The 5-Year Wait Behind Post-it Notes"
   ],
   "trend_tries": {
     "2026-10-23": {
@@ -11958,16 +12610,17 @@
   "cleanup_day": "2026-10-25",
   "recent_voices": [
     "en-AU-WilliamMultilingualNeural",
-    "gTTS",
+    "en-US-EmmaMultilingualNeural",
+    "en-US-BrianMultilingualNeural",
     "en-US-AvaMultilingualNeural",
-    "en-US-AndrewMultilingualNeural",
-    "en-AU-WilliamMultilingualNeural"
+    "en-US-EmmaMultilingualNeural"
   ],
   "visual_searches": {
-    "2026-10-24": 3
+    "2026-10-25": 3
   },
   "signals_day": "2026-10-25",
   "drops_done": {
-    "drop/20261025-autumn-leaves": "2026-10-25-101"
+    "drop/20261025-autumn-leaves": "2026-10-25-101",
+    "drop/20261025-roman-hypocaust": "2026-10-25-102"
   }
 }

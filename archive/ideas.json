@@ -2223,44 +2223,44 @@
    {
     "angle": "Zack D. Films' 'How Pencil Sharpeners Work' is running at about 346,000 views per hour this week, and the same 'How X Works' everyday-object shape also gave 'How Electrical Outlets Work' 59 million views; a tape measure's hidden spring, curve and sliding hook is the same inside-view payoff.",
     "format": "animated",
-    "picked": false,
+    "picked": true,
     "rank": 1,
     "title": "How Tape Measures Work 📏",
     "trend_source": "title shape of How Pencil Sharpeners Work (345,661 views/h); also How Electrical Outlets Work (68,512 views/h)",
-    "video_id": null,
+    "video_id": "2026-10-25-1",
     "virality_score": 8,
     "why": ""
    },
    {
     "angle": "Funny family Shorts dominate today's outliers (He Builds Art Just to Destroy It at 12.4x its channel median, Wait For End at 10.6x), and they all promise a payoff you only get by staying to the end; a countdown to a bird that copies a chainsaw holds the same last-beat reveal.",
     "format": "funny",
-    "picked": false,
+    "picked": true,
     "rank": 2,
     "title": "Top 5 Funniest Animal Sounds 😂",
     "trend_source": "He Builds Art Just to Destroy It! (12.4x); Wait For End (10.6x)",
-    "video_id": null,
+    "video_id": "2026-10-25-2",
     "virality_score": 8,
     "why": ""
    },
    {
     "angle": "Superlative titles keep breaking out today (The best part of The Rookie at 7.4x its channel median uses The Superlative), and a countdown that flips the obvious answer (not the whale) is the kind of last-beat payoff that drives rewatches.",
     "format": "ranking",
-    "picked": false,
+    "picked": true,
     "rank": 3,
     "title": "Top 5 Animals With the Biggest Eyes 👁️",
     "trend_source": "The best part of The Rookie (7.4x, The Superlative)",
-    "video_id": null,
+    "video_id": "2026-10-25-3",
     "virality_score": 7,
     "why": ""
    },
    {
     "angle": "Today's outliers reward a reveal you only get at the end (Wait For End at 10.6x its channel median), and an origin story whose answer arrives in the last beats, a bookmark that saved a failed glue, has that same twist structure.",
     "format": "story",
-    "picked": false,
+    "picked": true,
     "rank": 4,
     "title": "The 5-Year Wait Behind Post-it Notes",
     "trend_source": "Wait For End (10.6x); He Builds Art Just to Destroy It! (12.4x)",
-    "video_id": null,
+    "video_id": "2026-10-25-4",
     "virality_score": 7,
     "why": ""
    },
@@ -2277,6 +2277,6 @@
    }
   ],
   "sent_at": "2026-10-25T17:46:58.698472+00:00",
-  "status": "waiting"
+  "status": "closed"
  }
 }
