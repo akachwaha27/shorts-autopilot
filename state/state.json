@@ -364,1126 +364,6 @@
     }
   },
   "videos": {
-    "2026-10-16-2": {
-      "topic": {
-        "title": "The 5 Weirdest Things NASA Ever Flew",
-        "angle": "Funny disbelief titles are breaking out today ('I can't believe this is a real sport' at 64.7x), and this countdown packs five true 'wait, really?' moments into space history.",
-        "format": "funny",
-        "tone": "funny",
-        "virality_score": 7,
-        "trend_source": "I can't believe this is a real sport (64.7x); Can u Do this ! (356.4x)",
-        "plan_id": "P2026-10-16-02"
-      },
-      "status": "published",
-      "by": "auto",
-      "updated": "2026-10-18T10:39:51.739210+00:00",
-      "redos": 0,
-      "package": {
-        "primary_keyword": "weird things in space",
-        "title": "The 5 Weirdest Things NASA Ever Flew",
-        "hook_text": "SMUGGLED SNACK ALERT",
-        "thumbnail_text": "NOT APPROVED",
-        "description": "The weirdest things ever taken to space by NASA, from golf balls on the Moon to the first dinosaur in space. Number one is the corned beef sandwich an astronaut smuggled into space in 1965.\n\nIn this Short: a feather on the Moon, space tortillas, a dinosaur in orbit, lunar golf balls and the sandwich nobody approved.\n\nSources:\nhttps://www.nasa.gov/missions/gemini/contraband-corned-beef-and-the-early-days-of-space-biology-the-gemini-iii-mission/\nhttps://nssdc.gsfc.nasa.gov/planetary/lunar/apollo_15_feather_drop.html\nhttps://www.clickondetroit.com/sports/2021/02/05/out-of-this-world-shepard-puts-golf-on-moon-50-years-ago/",
-        "hashtags": [
-          "#shorts",
-          "#space",
-          "#nasa",
-          "#funnyfacts",
-          "#funny"
-        ],
-        "tags": [
-          "weird things in space",
-          "corned beef sandwich space",
-          "nasa",
-          "funny things in space",
-          "weirdest thing in space",
-          "weird things about space",
-          "first dinosaur in space",
-          "weirdest things taken to space",
-          "things astronauts took to space",
-          "weird stuff in space",
-          "weird objects in space",
-          "strange things in space",
-          "unusual things in space",
-          "apollo 14 golf",
-          "apollo 15 feather",
-          "funny space facts",
-          "hammer and feather drop",
-          "space facts",
-          "golf on the moon",
-          "gemini 3 sandwich",
-          "tortillas in space"
-        ],
-        "pinned_comment": "Bonus fact: astronauts switched to tortillas because floating crumbs can get into equipment. So what would YOU sneak into space? Pick one snack.",
-        "scenes": [
-          {
-            "text": "What's the weirdest thing NASA ever flew? Nobody approved number one, but it went up anyway. Here are five real ones, counted down.",
-            "badge": "",
-            "label": "NOT APPROVED",
-            "stock_queries": [
-              "rocket launch sky",
-              "astronaut floating inside spaceship"
-            ],
-            "image_prompt": "Cinematic vertical shot of a rocket launching into orbit, framed dramatically with atmospheric smoke and fiery thrusters.",
-            "stock_query": "rocket launch sky"
-          },
-          {
-            "text": "Number five, a feather. On the Moon, an astronaut dropped a hammer and a feather together. With no air, they landed at the exact same moment. Take that, gravity.",
-            "badge": "",
-            "label": "TIE!",
-            "stock_queries": [
-              "falling feather slow motion",
-              "hammer dropping dust"
-            ],
-            "image_prompt": "A metal geological hammer and a single white falcon feather hitting the gray lunar dust simultaneously in crisp vacuum lighting.",
-            "stock_query": "falling feather slow motion"
-          },
-          {
-            "text": "Number four, tortillas. Floating bread crumbs can drift into equipment, so tortillas have been a space staple since nineteen eighty-five.",
-            "badge": "",
-            "label": "NO CRUMBS",
-            "stock_queries": [
-              "flour tortillas stack",
-              "floating bread crumbs"
-            ],
-            "image_prompt": "A stack of soft flour tortillas floating weightlessly inside a high-tech modern spacecraft cockpit with Earth outside the window.",
-            "stock_query": "flour tortillas stack"
-          },
-          {
-            "text": "Number three, a dinosaur. That same year, bones from a dinosaur called Maiasaura rode a shuttle into orbit.",
-            "badge": "",
-            "label": "DINO IN ORBIT",
-            "stock_queries": [
-              "dinosaur fossil bones",
-              "space shuttle orbiting earth"
-            ],
-            "image_prompt": "Ancient fossilized dinosaur bone fragment secured inside a clear specimen container floating against a spacecraft viewport showing planet Earth.",
-            "stock_query": "dinosaur fossil bones"
-          },
-          {
-            "text": "Number two, golf balls. In nineteen seventy-one, an astronaut golfed on the Moon, and the balls went only about twenty-four and forty yards.",
-            "badge": "",
-            "label": "LUNAR GOLF",
-            "stock_queries": [
-              "golf ball sand crater",
-              "golfer swing slow motion"
-            ],
-            "image_prompt": "A dimpled white golf ball sitting in fine powdery gray lunar soil next to a deep astronaut bootprint on the Moon.",
-            "stock_query": "golf ball sand crater"
-          },
-          {
-            "text": "Number one, a corned beef sandwich. In nineteen sixty-five, an astronaut smuggled one aboard, and it got stashed before the crumbs floated off. Basically, a sneaky packed lunch.",
-            "badge": "",
-            "label": "SMUGGLED LUNCH",
-            "stock_queries": [
-              "corned beef sandwich rye",
-              "spacesuit pocket close up"
-            ],
-            "image_prompt": "A classic corned beef sandwich on rye bread floating comically inside a vintage 1960s space capsule control room with tiny crumbs drifting nearby.",
-            "stock_query": "corned beef sandwich rye"
-          },
-          {
-            "text": "What would you sneak into space? Tell me in the comments. Now you'll know the answer to the big question.",
-            "badge": "",
-            "label": "NOW YOU KNOW",
-            "stock_queries": [
-              "space helmet visor reflection",
-              "rocket flying clouds"
-            ],
-            "image_prompt": "An astronaut helmet reflecting a bright starry universe and a question mark glowing subtly in the visor reflection.",
-            "stock_query": "space helmet visor reflection"
-          }
-        ],
-        "key_facts": [
-          "An astronaut dropped a hammer and feather on the Moon, landing simultaneously due to the vacuum.",
-          "NASA has used tortillas instead of bread since 1985 to prevent crumbs from damaging equipment.",
-          "Fossil bones of a Maiasaura dinosaur flew to orbit aboard a space shuttle in 1985.",
-          "Astronaut Alan Shepard hit two golf balls on the Moon in 1971, which traveled around 24 and 40 yards.",
-          "Astronaut John Young smuggled a corned beef sandwich aboard Gemini 3 in 1965."
-        ],
-        "format": "funny",
-        "tone": "funny",
-        "category": "23",
-        "script": "What's the weirdest thing NASA ever flew? Nobody approved number one, but it went up anyway. Here are five real ones, counted down. Number five, a feather. On the Moon, an astronaut dropped a hammer and a feather together. With no air, they landed at the exact same moment. Take that, gravity. Number four, tortillas. Floating bread crumbs can drift into equipment, so tortillas have been a space staple since nineteen eighty-five. Number three, a dinosaur. That same year, bones from a dinosaur called Maiasaura rode a shuttle into orbit. Number two, golf balls. In nineteen seventy-one, an astronaut golfed on the Moon, and the balls went only about twenty-four and forty yards. Number one, a corned beef sandwich. In nineteen sixty-five, an astronaut smuggled one aboard, and it got stashed before the crumbs floated off. Basically, a sneaky packed lunch. What would you sneak into space? Tell me in the comments. Now you'll know the answer to the big question.",
-        "plan_id": "P2026-10-16-02",
-        "shot_plan": [
-          {
-            "subject": "space shuttle launch",
-            "queries": [
-              {
-                "q": "space shuttle launch",
-                "must": [
-                  "shuttle"
-                ]
-              },
-              {
-                "q": "rocket takeoff",
-                "must": [
-                  "rocket"
-                ]
-              },
-              {
-                "q": "nasa rocket",
-                "must": [
-                  "nasa"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "feather dropping on the moon surface",
-            "queries": [
-              {
-                "q": "feather dropping surface",
-                "must": [
-                  "feather"
-                ]
-              },
-              {
-                "q": "moon surface",
-                "must": [
-                  "moon"
-                ]
-              },
-              {
-                "q": "lunar surface",
-                "must": [
-                  "lunar"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "tortillas floating in zero gravity",
-            "queries": [
-              {
-                "q": "tortilla space",
-                "must": [
-                  "tortilla"
-                ]
-              },
-              {
-                "q": "space food",
-                "must": [
-                  "food"
-                ]
-              },
-              {
-                "q": "zero gravity floating",
-                "must": [
-                  "gravity"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "dinosaur fossil bones",
-            "queries": [
-              {
-                "q": "dinosaur fossil bones",
-                "must": [
-                  "dinosaur"
-                ]
-              },
-              {
-                "q": "museum fossil",
-                "must": [
-                  "fossil"
-                ]
-              },
-              {
-                "q": "bones skeleton",
-                "must": [
-                  "bones"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "golf balls on the moon",
-            "queries": [
-              {
-                "q": "golf ball moon",
-                "must": [
-                  "golf"
-                ]
-              },
-              {
-                "q": "lunar golf",
-                "must": [
-                  "lunar"
-                ]
-              },
-              {
-                "q": "golf club swing",
-                "must": [
-                  "swing"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "corned beef sandwich",
-            "queries": [
-              {
-                "q": "corned beef sandwich",
-                "must": [
-                  "sandwich"
-                ]
-              },
-              {
-                "q": "meat sandwich",
-                "must": [
-                  "meat"
-                ]
-              },
-              {
-                "q": "packed lunch",
-                "must": [
-                  "lunch"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "astronaut floating inside space station",
-            "queries": [
-              {
-                "q": "astronaut floating",
-                "must": [
-                  "astronaut"
-                ]
-              },
-              {
-                "q": "space station interior",
-                "must": [
-                  "station"
-                ]
-              },
-              {
-                "q": "orbit view",
-                "must": [
-                  "orbit"
-                ]
-              }
-            ]
-          }
-        ],
-        "broll": [
-          "space shuttle launch",
-          "astronaut in orbit",
-          "moon surface"
-        ],
-        "visual_style": "Fast-paced vertical space documentary featuring real archival footage, dramatic countdown labels, and surprising quirky historical artifacts.",
-        "visual_refs": [
-          "Strangest Things Found In Space",
-          "Astronauts left some weird stuff on The Moon!",
-          "Strange Object Floating In Space \ud83d\ude27 (not what you think)",
-          "The Most TERRIFYING Space Photo #space #nasa #science",
-          "Top 5 STRANGEST Items Flown Into Space... #shorts #top #subscribe",
-          "The Plane That Accidentally Flew Into Space \ud83d\ude28 (EXPLAINED)"
-        ],
-        "voice": "en-US-AndrewMultilingualNeural",
-        "visual_report": {
-          "shots": 11,
-          "checked": 11,
-          "unchecked": 0,
-          "filler": 2,
-          "ai": 0
-        }
-      },
-      "credits": [
-        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AndrewMultilingualNeural).",
-        "Stock footage/photos (Pexels/Pixabay Content License): NASA-Imagery (Pixabay) https://pixabay.com/videos/id-235/; NASA-Imagery (Pixabay) https://pixabay.com/videos/id-228/; NASA-Imagery (Pixabay) https://pixabay.com/videos/id-8/; kykr (Pixabay) https://pixabay.com/videos/id-347276/; shahfaisalkhan6676 (Pixabay) https://pixabay.com/videos/id-82787/; shahfaisalkhan6676 (Pixabay) https://pixabay.com/videos/id-82786/",
-        "NASA / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:ISS-50_Peggy_Whitson_with_a_%27space_cheeseburger%27.jpg",
-        "NASA / JSC: \"Hadfield floats near CTBs\" (public domain)",
-        "NASA / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:Leland_Melvin_floating_in_Airlock.jpg"
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-16",
-        "name": "2026-10-16-2-v0.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-16",
-        "name": "2026-10-16-2-v0-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,095 --> 00:00:02,619\nWhat's the weirdest thing NASA ever flew\n\n2\n00:00:02,619 --> 00:00:04,440\nNobody approved number one but it went\n\n3\n00:00:04,440 --> 00:00:07,048\nup anyway Here are five real ones\n\n4\n00:00:07,048 --> 00:00:10,048\ncounted down Number five a feather On\n\n5\n00:00:10,048 --> 00:00:12,952\nthe Moon an astronaut dropped a hammer\n\n6\n00:00:12,952 --> 00:00:15,357\nand a feather together With no air\n\n7\n00:00:15,357 --> 00:00:17,429\nthey landed at the exact same moment\n\n8\n00:00:17,429 --> 00:00:21,012\nTake that gravity Number four tortillas Floating\n\n9\n00:00:21,012 --> 00:00:23,881\nbread crumbs can drift into equipment so\n\n10\n00:00:23,881 --> 00:00:25,631\ntortillas have been a space staple since\n\n11\n00:00:25,631 --> 00:00:29,190\nnineteen eighty-five Number three a dinosaur\n\n12\n00:00:29,190 --> 00:00:31,500\nThat same year bones from a dinosaur\n\n13\n00:00:31,500 --> 00:00:34,786\ncalled Maiasaura rode a shuttle into orbit\n\n14\n00:00:34,786 --> 00:00:37,976\nNumber two golf balls In nineteen seventy-one\n\n15\n00:00:37,976 --> 00:00:40,048\nan astronaut golfed on the Moon and\n\n16\n00:00:40,048 --> 00:00:41,786\nthe balls went only about twenty-four and\n\n17\n00:00:41,786 --> 00:00:44,524\nforty yards Number one a corned beef\n\n18\n00:00:44,524 --> 00:00:47,798\nsandwich In nineteen sixty-five an astronaut\n\n19\n00:00:47,798 --> 00:00:50,214\nsmuggled one aboard and it got stashed\n\n20\n00:00:50,214 --> 00:00:52,857\nbefore the crumbs floated off Basically a\n\n21\n00:00:52,857 --> 00:00:55,083\nsneaky packed lunch What would you sneak\n\n22\n00:00:55,083 --> 00:00:57,560\ninto space Tell me in the comments\n\n23\n00:00:57,560 --> 00:00:58,667\nNow you'll know the answer to the\n\n24\n00:00:58,667 --> 00:00:59,769\nbig question\n",
-      "tg_msg": 453,
-      "opts_msg": 455,
-      "approved_by": "auto",
-      "quota_note": "2026-10-18",
-      "description_full": "The weirdest things ever taken to space by NASA, from golf balls on the Moon to the first dinosaur in space. Number one is the corned beef sandwich an astronaut smuggled into space in 1965.\n\nIn this Short: a feather on the Moon, space tortillas, a dinosaur in orbit, lunar golf balls and the sandwich nobody approved.\n\nSources:\nhttps://www.nasa.gov/missions/gemini/contraband-corned-beef-and-the-early-days-of-space-biology-the-gemini-iii-mission/\nhttps://nssdc.gsfc.nasa.gov/planetary/lunar/apollo_15_feather_drop.html\nhttps://www.clickondetroit.com/sports/2021/02/05/out-of-this-world-shepard-puts-golf-on-moon-50-years-ago/\n\n#shorts #space #nasa #funnyfacts #funny\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AndrewMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): NASA-Imagery (Pixabay) https://pixabay.com/videos/id-235/; NASA-Imagery (Pixabay) https://pixabay.com/videos/id-228/; NASA-Imagery (Pixabay) https://pixabay.com/videos/id-8/; kykr (Pixabay) https://pixabay.com/videos/id-347276/; shahfaisalkhan6676 (Pixabay) https://pixabay.com/videos/id-82787/; shahfaisalkhan6676 (Pixabay) https://pixabay.com/videos/id-82786/\nNASA / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:ISS-50_Peggy_Whitson_with_a_%27space_cheeseburger%27.jpg\nNASA / JSC: \"Hadfield floats near CTBs\" (public domain)\nNASA / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:Leland_Melvin_floating_in_Airlock.jpg\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/9Yj3ufR1Z0I",
-          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-18T10:39:51.739227+00:00",
-      "slot": "2026-10-18T14:15:00+00:00"
-    },
-    "2026-10-16-3": {
-      "topic": {
-        "title": "Top 5 Loudest Animals on Earth \ud83d\udd0a",
-        "angle": "The 356.4x 'Can u Do this !' outlier wins on one question the viewer wants to answer, and 'What's the loudest animal?' is that kind of instant guessing game, paid off with a surprise number one.",
-        "format": "ranking",
-        "tone": "normal",
-        "virality_score": 7,
-        "trend_source": "Can u Do this ! #physics #shorts (356.4x, The Question)",
-        "plan_id": "P2026-10-16-03"
-      },
-      "status": "failed",
-      "by": "auto",
-      "updated": "2026-10-16T23:00:34.869869+00:00",
-      "redos": 0
-    },
-    "2026-10-16-4": {
-      "topic": {
-        "title": "Wobbly Table? 3 Fixes (One Is Pure Math)",
-        "angle": "The 356.4x 'Can u Do this ! #physics' outlier shows a quick physics-style trick viewers can try instantly does huge numbers, and turning a wobbly table is a try-it-now trick with real math behind it.",
-        "format": "tips",
-        "tone": "normal",
-        "virality_score": 6,
-        "trend_source": "Can u Do this ! #physics #shorts (356.4x, The Question)",
-        "plan_id": "P2026-10-16-04"
-      },
-      "status": "published",
-      "by": "auto",
-      "updated": "2026-10-18T10:40:00.498153+00:00",
-      "redos": 0,
-      "package": {
-        "primary_keyword": "fix wobbly table",
-        "title": "Wobbly Table? 3 Fixes (One Is Pure Math)",
-        "hook_text": "NO TOOLS NEEDED",
-        "thumbnail_text": "JUST ROTATE",
-        "description": "How to fix a wobbly table in seconds with 3 easy fixes. The best one is a math trick: just rotate the table and it stops wobbling.\n\nIn this Short: checking the floor, adjusting the feet, and the wobbly table math trick that mathematicians proved works.\n\nSources:\nhttps://www.scientificamerican.com/article/strange-but-true-turning\nhttps://www.smithsonianmag.com/smart-news/foolproof-way-fix-wobbly-table-180953264/",
-        "hashtags": [
-          "#shorts",
-          "#lifehacks",
-          "#math",
-          "#diy"
-        ],
-        "tags": [
-          "fix wobbly table",
-          "wobbly table",
-          "wobbly table theorem",
-          "fix uneven table legs",
-          "fix wobbly table legs",
-          "how to fix wobbly coffee table",
-          "how to fix wobbly dining table",
-          "wobbly table math",
-          "fix shaky table",
-          "wobbly table legs",
-          "stop table wobbling",
-          "adjustable table feet",
-          "home hacks",
-          "math tricks",
-          "rotate table",
-          "uneven floor",
-          "table wobbles"
-        ],
-        "pinned_comment": "Bonus fact: the proof only needs the floor to slope less than about thirty-five degrees anywhere, so almost any normal floor qualifies. Did the turning trick work for you?",
-        "scenes": [
-          {
-            "text": "Why does your table wobble? Stop wasting napkins, math actually found a better fix. Here are three fixes, weirdest last.",
-            "badge": "",
-            "label": "Wobbly Table Solutions",
-            "stock_queries": [
-              "wobbly cafe table coffee cup shaking",
-              "folded napkins under table leg"
-            ],
-            "image_prompt": "Close-up shot of a ceramic coffee cup rattling and spilling slightly on an unstable, rocking cafe table, folded paper napkins crumpled nearby on the floor, warm cafe lighting, realistic 4k photography",
-            "stock_query": "wobbly cafe table coffee cup shaking"
-          },
-          {
-            "text": "Fix one, check the floor. Slide the table a little and see if the wobble disappears. Often it's the floor that's uneven, not the table.",
-            "badge": "TIP 1",
-            "label": "Slide Along Floor",
-            "stock_queries": [
-              "person sliding wooden table",
-              "uneven wooden floor boards"
-            ],
-            "image_prompt": "Low angle view of wooden table legs being gently slid across an uneven rustic hardwood floor, showing slight gaps between planks, natural indoor daylight",
-            "stock_query": "person sliding wooden table"
-          },
-          {
-            "text": "Fix two, check the feet. Lots of tables have little screw-in feet underneath. Twist the short one out until all four legs touch.",
-            "badge": "TIP 2",
-            "label": "Adjust Screw Feet",
-            "stock_queries": [
-              "adjustable screw foot table leg",
-              "hand twisting threaded furniture foot"
-            ],
-            "image_prompt": "Close-up shot of human fingers twisting a black threaded leveling foot at the base of a metal table leg, bringing it flush against the floor, crisp focus",
-            "stock_query": "adjustable screw foot table leg"
-          },
-          {
-            "text": "Fix three, the math trick. Slowly turn the table around its middle.",
-            "badge": "TIP 3",
-            "label": "Rotate The Table",
-            "stock_queries": [
-              "overhead view rotating square table",
-              "person turning small square table"
-            ],
-            "image_prompt": "Top-down birds-eye shot of a square wooden bistro table being rotated clockwise on an uneven textured floor, subtle motion blur indicating smooth circular rotation",
-            "stock_query": "overhead view rotating square table"
-          },
-          {
-            "text": "Mathematicians proved that on a smooth, gently uneven floor, a square table with equal legs finds a spot where all four touch.",
-            "badge": "TIP 3",
-            "label": "Proven Table Theorem",
-            "stock_queries": [
-              "geometry diagram table floor chalkboard",
-              "3d graphic square table four legs"
-            ],
-            "image_prompt": "Clean graphic visualization showing a four-legged square table resting stably on a gently undulating surface with geometric vector guides illustrating contact points, bright minimal studio setting",
-            "stock_query": "geometry diagram table floor chalkboard"
-          },
-          {
-            "text": "Usually within a quarter turn, because the hovering leg has to touch down somewhere. It won't be perfectly level, and tile edges break it, but the rocking stops.",
-            "badge": "TIP 3",
-            "label": "Within Quarter Turn",
-            "stock_queries": [
-              "table leg touching floor surface",
-              "steady coffee cup sitting still"
-            ],
-            "image_prompt": "Side profile macro shot of a table foot smoothly making solid contact with an uneven floor surface, stabilizing completely without wobbling, warm ambient light",
-            "stock_query": "table leg touching floor surface"
-          },
-          {
-            "text": "So skip the napkin: check the floor, fix the feet, or just turn it. Ever tried the turning trick? Tell me if it worked. Next time your coffee rattles, you'll know what to ask.",
-            "badge": "",
-            "label": "Try The Rotation",
-            "stock_queries": [
-              "person enjoying coffee at steady table",
-              "calm cafe table cup still"
-            ],
-            "image_prompt": "Satisfying medium shot of a patron peacefully sipping from a completely stable ceramic mug at a sturdy cafe table, bright cozy cafe interior in soft background",
-            "stock_query": "person enjoying coffee at steady table"
-          }
-        ],
-        "key_facts": [
-          "Wobbling is frequently caused by uneven floor contours rather than flawed table legs.",
-          "Many commercial and home tables feature built-in adjustable threaded screw feet.",
-          "Mathematical topology proofs demonstrate that rotating a square four-legged table on a continuously uneven floor guarantees a state where all four legs touch simultaneously.",
-          "A stable contact orientation occurs within a 90-degree (quarter turn) rotation.",
-          "Abrupt discontinuities like sharp tile thresholds or steps violate the theorem's continuity premise.",
-          "A rotation-stabilized table may rest at a slight incline, but rocking motion is eliminated."
-        ],
-        "format": "tips",
-        "tone": "normal",
-        "category": "26",
-        "script": "Why does your table wobble? Stop wasting napkins, math actually found a better fix. Here are three fixes, weirdest last. Fix one, check the floor. Slide the table a little and see if the wobble disappears. Often it's the floor that's uneven, not the table. Fix two, check the feet. Lots of tables have little screw-in feet underneath. Twist the short one out until all four legs touch. Fix three, the math trick. Slowly turn the table around its middle. Mathematicians proved that on a smooth, gently uneven floor, a square table with equal legs finds a spot where all four touch. Usually within a quarter turn, because the hovering leg has to touch down somewhere. It won't be perfectly level, and tile edges break it, but the rocking stops. So skip the napkin: check the floor, fix the feet, or just turn it. Ever tried the turning trick? Tell me if it worked. Next time your coffee rattles, you'll know what to ask.",
-        "plan_id": "P2026-10-16-04",
-        "shot_plan": [
-          {
-            "subject": "wobbly table",
-            "queries": [
-              {
-                "q": "wobbly table",
-                "must": [
-                  "table"
-                ]
-              },
-              {
-                "q": "shaky table",
-                "must": [
-                  "table"
-                ]
-              },
-              {
-                "q": "furniture",
-                "must": [
-                  "furniture"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "wooden floor",
-            "queries": [
-              {
-                "q": "wooden floor",
-                "must": [
-                  "floor"
-                ]
-              },
-              {
-                "q": "uneven floor",
-                "must": [
-                  "floor"
-                ]
-              },
-              {
-                "q": "room",
-                "must": [
-                  "room"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "table leg",
-            "queries": [
-              {
-                "q": "table leg",
-                "must": [
-                  "leg"
-                ]
-              },
-              {
-                "q": "screw foot",
-                "must": [
-                  "screw"
-                ]
-              },
-              {
-                "q": "furniture hardware",
-                "must": [
-                  "hardware"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "rotating table",
-            "queries": [
-              {
-                "q": "rotating table",
-                "must": [
-                  "table"
-                ]
-              },
-              {
-                "q": "turning table",
-                "must": [
-                  "table"
-                ]
-              },
-              {
-                "q": "furniture rotation",
-                "must": [
-                  "furniture"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "mathematical formula",
-            "queries": [
-              {
-                "q": "mathematical formula",
-                "must": [
-                  "formula"
-                ]
-              },
-              {
-                "q": "math equation",
-                "must": [
-                  "equation"
-                ]
-              },
-              {
-                "q": "chalkboard",
-                "must": [
-                  "chalkboard"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "table corner",
-            "queries": [
-              {
-                "q": "table corner",
-                "must": [
-                  "table"
-                ]
-              },
-              {
-                "q": "tile floor",
-                "must": [
-                  "tile"
-                ]
-              },
-              {
-                "q": "floor surface",
-                "must": [
-                  "surface"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "coffee cup",
-            "queries": [
-              {
-                "q": "coffee cup",
-                "must": [
-                  "cup"
-                ]
-              },
-              {
-                "q": "coffee mug",
-                "must": [
-                  "mug"
-                ]
-              },
-              {
-                "q": "drink",
-                "must": [
-                  "drink"
-                ]
-              }
-            ]
-          }
-        ],
-        "broll": [
-          "table",
-          "floor",
-          "math"
-        ],
-        "visual_style": "Clean, educational close-up stock footage demonstrating a physics and math trick with real-world objects.",
-        "visual_refs": [
-          "If you think that you\u2019re not good at math, YOU need to watch this! #Shorts #math #motivation",
-          "How North Koreans Learn Math - Yeonmi Park",
-          "She Can&#39;t Do Basic Math",
-          "Why Asians are so Good at Math...\ud83e\udd13#shorts",
-          "How Math Changes Over Time",
-          "3 \u091a\u0940\u091c\u0947 \u091c\u094b Maths \u0915\u094b \u0938\u0941\u0927\u093e\u0930 \u0926\u0947\u0902\u0917\u0940 \ud83d\udd25 Gagan Pratap Sir #maths #ssc #exam"
-        ],
-        "voice": "en-US-AvaMultilingualNeural",
-        "visual_report": {
-          "shots": 14,
-          "checked": 13,
-          "unchecked": 0,
-          "filler": 3,
-          "ai": 0
-        }
-      },
-      "credits": [
-        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AvaMultilingualNeural).",
-        "Stock footage/photos (Pexels/Pixabay Content License): MoonpetalMedia (Pixabay) https://pixabay.com/videos/id-372569/; LadislavBur (Pixabay) https://pixabay.com/videos/id-43731/; SYG_Anime (Pixabay) https://pixabay.com/videos/id-267787/; olenchic (Pixabay) https://pixabay.com/videos/id-362437/; Artur_nntt (Pixabay) https://pixabay.com/videos/id-88751/; Artur_nntt (Pixabay) https://pixabay.com/videos/id-88748/; Ekoanug (Pixabay) https://pixabay.com/photos/corner-table-table-wood-5262488/; Engin_Akyurt (Pixabay) https://pixabay.com/photos/table-corner-macro-wood-wooden-2591704/; kelvinreislavras (Pixabay) https://pixabay.com/videos/id-31673/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-322244/; jeffjacobs1990 (Pixabay) https://pixabay.com/videos/id-27230/"
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-16",
-        "name": "2026-10-16-4-v0.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-16",
-        "name": "2026-10-16-4-v0-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,098 --> 00:00:02,475\nWhy does your table wobble Stop wasting\n\n2\n00:00:02,475 --> 00:00:05,858\nnapkins math actually found a better fix\n\n3\n00:00:05,858 --> 00:00:08,922\nHere are three fixes weirdest last Fix\n\n4\n00:00:08,922 --> 00:00:11,520\none check the floor Slide the table\n\n5\n00:00:11,520 --> 00:00:13,199\na little and see if the wobble\n\n6\n00:00:13,199 --> 00:00:16,630\ndisappears Often it's the floor that's uneven\n\n7\n00:00:16,630 --> 00:00:18,763\nnot the table Fix two check the\n\n8\n00:00:18,763 --> 00:00:21,238\nfeet Lots of tables have little screw-in\n\n9\n00:00:21,238 --> 00:00:23,726\nfeet underneath Twist the short one out\n\n10\n00:00:23,726 --> 00:00:26,483\nuntil all four legs touch Fix three\n\n11\n00:00:26,483 --> 00:00:29,179\nthe math trick Slowly turn the table\n\n12\n00:00:29,179 --> 00:00:31,863\naround its middle Mathematicians proved that\n\n13\n00:00:31,863 --> 00:00:34,767\non a smooth gently uneven floor a\n\n14\n00:00:34,767 --> 00:00:37,181\nsquare table with equal legs finds a\n\n15\n00:00:37,181 --> 00:00:39,902\nspot where all four touch Usually within\n\n16\n00:00:39,902 --> 00:00:41,801\na quarter turn because the hovering leg\n\n17\n00:00:41,801 --> 00:00:43,897\nhas to touch down somewhere It won't\n\n18\n00:00:43,897 --> 00:00:46,532\nbe perfectly level and tile edges break\n\n19\n00:00:46,532 --> 00:00:49,093\nit but the rocking stops So skip\n\n20\n00:00:49,093 --> 00:00:51,373\nthe napkin check the floor fix the\n\n21\n00:00:51,373 --> 00:00:54,020\nfeet or just turn it Ever tried\n\n22\n00:00:54,020 --> 00:00:55,711\nthe turning trick Tell me if it\n\n23\n00:00:55,711 --> 00:00:58,480\nworked Next time your coffee rattles you'll\n\n24\n00:00:58,480 --> 00:00:59,750\nknow what to ask\n",
-      "tg_msg": 457,
-      "opts_msg": 459,
-      "approved_by": "auto",
-      "quota_note": "2026-10-18",
-      "description_full": "How to fix a wobbly table in seconds with 3 easy fixes. The best one is a math trick: just rotate the table and it stops wobbling.\n\nIn this Short: checking the floor, adjusting the feet, and the wobbly table math trick that mathematicians proved works.\n\nSources:\nhttps://www.scientificamerican.com/article/strange-but-true-turning\nhttps://www.smithsonianmag.com/smart-news/foolproof-way-fix-wobbly-table-180953264/\n\n#shorts #lifehacks #math #diy\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AvaMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): MoonpetalMedia (Pixabay) https://pixabay.com/videos/id-372569/; LadislavBur (Pixabay) https://pixabay.com/videos/id-43731/; SYG_Anime (Pixabay) https://pixabay.com/videos/id-267787/; olenchic (Pixabay) https://pixabay.com/videos/id-362437/; Artur_nntt (Pixabay) https://pixabay.com/videos/id-88751/; Artur_nntt (Pixabay) https://pixabay.com/videos/id-88748/; Ekoanug (Pixabay) https://pixabay.com/photos/corner-table-table-wood-5262488/; Engin_Akyurt (Pixabay) https://pixabay.com/photos/table-corner-macro-wood-wooden-2591704/; kelvinreislavras (Pixabay) https://pixabay.com/videos/id-31673/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-322244/; jeffjacobs1990 (Pixabay) https://pixabay.com/videos/id-27230/\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/pw3zYlSv_-o",
-          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-18T10:40:00.498171+00:00",
-      "slot": "2026-10-18T18:15:00+00:00"
-    },
-    "2026-10-17-1": {
-      "topic": {
-        "title": "5 Animal Partners That Make No Sense",
-        "angle": "Today's top outlier, 'The Sweetest Friendship in the World!' at 1830.6x its channel median, shows an odd-couple friendship is the strongest emotional hook in the feed, and a Top 5 countdown of real animal partners gives that pull a faceless, stock-footage shape.",
-        "format": "ranking",
-        "tone": "normal",
-        "virality_score": 8,
-        "trend_source": "The Sweetest Friendship in the World! \ud83c\udf38 #shorts (1830.6x, Unclassified); what would you do? #shorts (14.5x, The Question)",
-        "plan_id": "P2026-10-17-01"
-      },
-      "status": "published",
-      "by": "auto",
-      "updated": "2026-10-18T10:40:09.839081+00:00",
-      "redos": 0,
-      "package": {
-        "primary_keyword": "unlikely animal friendships",
-        "title": "Top 5 Animal Partners That Make No Sense",
-        "hook_text": "NATURE'S WEIRDEST DUOS",
-        "thumbnail_text": "ODD COUPLES",
-        "description": "These unlikely animal friendships are real: animals that work together, from cheetahs and dogs to a coyote and badger hunting together. Five odd animal partners, counted down to the strangest team in nature.\n\nIn this Short: cheetahs with dog buddies, rhinos and their oxpecker guards, the goby and pistol shrimp, the honeyguide bird, and the coyote and badger team.\n\nSources:\nhttps://abc7news.com/5903686/\nhttps://www.npca.org/articles/4668-strange-bedfellows\nhttps://www.nbclosangeles.com/news/local/Dogs-Make-Fine-Companions-for-Cheetahs-at-San-Diego-Zoo-191441321.html",
-        "hashtags": [
-          "#shorts",
-          "#animals",
-          "#animalfacts",
-          "#top5"
-        ],
-        "tags": [
-          "unlikely animal friendships",
-          "coyote and badger hunting together",
-          "coyote and badger hunting",
-          "animals that work together",
-          "coyote and badger",
-          "odd animal friendships",
-          "unlikely animal friends",
-          "cheetah and dog friendship",
-          "animals that work together to hunt",
-          "coyote and badger working together",
-          "animals that work together to survive",
-          "goby and pistol shrimp",
-          "cheetah and dog",
-          "cheetah and dog friends",
-          "coyote and badger friends",
-          "strange animal best friends",
-          "honeyguide bird"
-        ],
-        "pinned_comment": "Bonus fact: in Swahili, the oxpecker is called the rhino's guard. Which animal would you want as your hunting buddy?",
-        "scenes": [
-          {
-            "text": "You'd never guess which two animals team up to hunt, but number one on this list is a coyote and a badger. Here are five odd animal best friends.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "coyote running meadow",
-              "badger walking grass"
-            ],
-            "image_prompt": "A wild coyote and an American badger walking near each other in a golden grassy meadow at dawn, documentary nature style.",
-            "stock_query": "coyote running meadow"
-          },
-          {
-            "text": "Number five, cheetahs and dogs. A San Diego zoo pairs shy cheetahs with calming dogs.",
-            "badge": "#5",
-            "label": "Cheetah and Dog",
-            "stock_queries": [
-              "cheetah resting grass",
-              "golden retriever playing outdoor"
-            ],
-            "image_prompt": "A cheetah resting side by side with a friendly golden retriever dog on a lush green lawn, warm sunlight.",
-            "stock_query": "cheetah resting grass"
-          },
-          {
-            "text": "Number four, rhinos and oxpeckers. These birds eat rhinos' ticks and sound the alarm when people come near.",
-            "badge": "#4",
-            "label": "Rhino and Oxpecker",
-            "stock_queries": [
-              "rhino african savanna",
-              "small bird perched on mammal"
-            ],
-            "image_prompt": "A large rhinoceros standing in the savanna with several small oxpecker birds perched along its back and head.",
-            "stock_query": "rhino african savanna"
-          },
-          {
-            "text": "Number three, a goby fish and a pistol shrimp. The shrimp digs, the goby keeps watch, and they share the burrow.",
-            "badge": "#3",
-            "label": "Goby and Shrimp",
-            "stock_queries": [
-              "goby fish sea floor",
-              "pistol shrimp underwater burrow"
-            ],
-            "image_prompt": "An underwater macro shot of a goby fish guarding the sandy entrance of an underwater burrow while a small pistol shrimp pushes sand outside.",
-            "stock_query": "goby fish sea floor"
-          },
-          {
-            "text": "Number two, a wild bird and people. In Mozambique, the honeyguide bird leads honey hunters to bees' nests. Its reward? The leftover wax.",
-            "badge": "#2",
-            "label": "Bird and Humans",
-            "stock_queries": [
-              "honeyguide bird branch",
-              "wild honeycomb tree hollow"
-            ],
-            "image_prompt": "A honeyguide bird sitting on a tree branch near an open natural bee nest in the African wilderness.",
-            "stock_query": "honeyguide bird branch"
-          },
-          {
-            "text": "Number one, the coyote and the badger. The badger digs for ground squirrels, and the coyote catches any that run. Scientists found coyotes catch more squirrels with a badger around. So the oddest hunting buddies? A coyote and a badger.",
-            "badge": "#1",
-            "label": "Coyote and Badger",
-            "stock_queries": [
-              "coyote hunting field",
-              "badger digging dirt hole"
-            ],
-            "image_prompt": "A badger digging frantically into a prairie squirrel burrow while an alert coyote stands waiting inches away to catch fleeing prey.",
-            "stock_query": "coyote hunting field"
-          },
-          {
-            "text": "Which pair surprised you most? Tell me in the comments. Now ask a friend which animals team up.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "wild animals silhouette sunset",
-              "coyote looking into camera"
-            ],
-            "image_prompt": "Silhouette of a coyote and a badger side by side against a dramatic orange and purple sunset horizon.",
-            "stock_query": "wild animals silhouette sunset"
-          }
-        ],
-        "key_facts": [
-          "Coyotes and badgers cooperate to hunt burrowing ground squirrels.",
-          "Coyotes catch more ground squirrels when hunting with a badger than when hunting alone.",
-          "The San Diego Zoo introduces domestic dogs to companion cheetahs to reduce anxiety and stress.",
-          "Oxpeckers feed on parasitic ticks found on rhinoceroses.",
-          "Oxpecker alarm calls alert rhinos to approaching humans and predators.",
-          "Pistol shrimp construct and maintain burrows that goby fish share for shelter.",
-          "Goby fish act as visual sentinels for nearly blind pistol shrimp while outside the burrow.",
-          "The greater honeyguide bird guides human foragers directly to wild honeybee colonies in Mozambique.",
-          "Honeyguide birds consume beeswax and larvae left behind after humans harvest wild beehives."
-        ],
-        "format": "ranking",
-        "tone": "normal",
-        "category": "27",
-        "script": "You'd never guess which two animals team up to hunt, but number one on this list is a coyote and a badger. Here are five odd animal best friends. Number five, cheetahs and dogs. A San Diego zoo pairs shy cheetahs with calming dogs. Number four, rhinos and oxpeckers. These birds eat rhinos' ticks and sound the alarm when people come near. Number three, a goby fish and a pistol shrimp. The shrimp digs, the goby keeps watch, and they share the burrow. Number two, a wild bird and people. In Mozambique, the honeyguide bird leads honey hunters to bees' nests. Its reward? The leftover wax. Number one, the coyote and the badger. The badger digs for ground squirrels, and the coyote catches any that run. Scientists found coyotes catch more squirrels with a badger around. So the oddest hunting buddies? A coyote and a badger. Which pair surprised you most? Tell me in the comments. Now ask a friend which animals team up.",
-        "plan_id": "P2026-10-17-01",
-        "shot_plan": [
-          {
-            "subject": "coyote and badger together",
-            "queries": [
-              {
-                "q": "coyote badger",
-                "must": [
-                  "coyote"
-                ]
-              },
-              {
-                "q": "wild animals together",
-                "must": [
-                  "badger"
-                ]
-              },
-              {
-                "q": "predator wildlife",
-                "must": [
-                  "wildlife"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "cheetah and dog",
-            "queries": [
-              {
-                "q": "cheetah dog friendship",
-                "must": [
-                  "cheetah"
-                ]
-              },
-              {
-                "q": "cheetah companion",
-                "must": [
-                  "dog"
-                ]
-              },
-              {
-                "q": "big cat animal",
-                "must": [
-                  "cheetah"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "rhino and oxpecker bird",
-            "queries": [
-              {
-                "q": "rhino oxpecker bird",
-                "must": [
-                  "rhino"
-                ]
-              },
-              {
-                "q": "rhinoceros bird",
-                "must": [
-                  "bird"
-                ]
-              },
-              {
-                "q": "african wildlife",
-                "must": [
-                  "rhinoceros"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "goby fish and pistol shrimp",
-            "queries": [
-              {
-                "q": "goby fish shrimp",
-                "must": [
-                  "fish"
-                ]
-              },
-              {
-                "q": "pistol shrimp burrow",
-                "must": [
-                  "shrimp"
-                ]
-              },
-              {
-                "q": "ocean marine life",
-                "must": [
-                  "ocean"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "honeyguide bird and honey hunter",
-            "queries": [
-              {
-                "q": "honeyguide bird human",
-                "must": [
-                  "bird"
-                ]
-              },
-              {
-                "q": "african honey hunter",
-                "must": [
-                  "forest"
-                ]
-              },
-              {
-                "q": "wild bird nature",
-                "must": [
-                  "wilderness"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "coyote and badger hunting",
-            "queries": [
-              {
-                "q": "coyote and badger team",
-                "must": [
-                  "coyote"
-                ]
-              },
-              {
-                "q": "badger digging hole",
-                "must": [
-                  "badger"
-                ]
-              },
-              {
-                "q": "wild predators",
-                "must": [
-                  "predator"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "two diverse animals looking together",
-            "queries": [
-              {
-                "q": "cute animal friends",
-                "must": [
-                  "animal"
-                ]
-              },
-              {
-                "q": "wildlife pair",
-                "must": [
-                  "wildlife"
-                ]
-              },
-              {
-                "q": "nature friendship",
-                "must": [
-                  "nature"
-                ]
-              }
-            ]
-          }
-        ],
-        "broll": [
-          "wild animals",
-          "animal friendship",
-          "nature documentary"
-        ],
-        "visual_style": "Cinematic close-ups of unexpected pairs of real animals interacting peacefully in their natural habitats.",
-        "visual_refs": [
-          "5 Animals That Could Never Be Friends With Humans! \ud83d\ude32",
-          "5 Wild Animals That Partner Up With Humans! \ud83d\ude2f",
-          "5 Animals That Became Our Best Friends! \ud83e\udd70\ud83d\udc3e",
-          "Animals was more good than friends \ud83e\udd79\ud83e\udec0\ud83e\udef0\ud83c\udffb#animals",
-          "5 Animals More Loyal Than Some Friends \ud83e\udd79\ud83d\udc15\u2764\ufe0f",
-          "5 Animals Rescued Their Own Friends! #shorts"
-        ],
-        "voice": "en-US-EmmaMultilingualNeural",
-        "visual_report": {
-          "shots": 11,
-          "checked": 9,
-          "unchecked": 0,
-          "filler": 4,
-          "ai": 0
-        }
-      },
-      "credits": [
-        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-EmmaMultilingualNeural).",
-        "Stock footage/photos (Pexels/Pixabay Content License): Pexels (Pixabay) https://pixabay.com/photos/rhinoceros-gray-animal-pachyderm-1837164/; falco (Pixabay) https://pixabay.com/photos/south-africa-rhino-white-rhinoceros-1001514/; Dannysee (Pixabay) https://pixabay.com/photos/rhino-rhinoceros-animal-wildlife-4206566/; GabruPawPixels (Pixabay) https://pixabay.com/photos/shrimp-goby-marine-ocean-10261311/; jLasWilson (Pixabay) https://pixabay.com/videos/id-39416/; veolyur (Pixabay) https://pixabay.com/videos/id-320869/; MoonpetalMedia (Pixabay) https://pixabay.com/videos/id-352172/"
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-17",
-        "name": "2026-10-17-1-v0.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-17",
-        "name": "2026-10-17-1-v0-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,100 --> 00:00:02,050\nYou'd never guess which two animals team\n\n2\n00:00:02,050 --> 00:00:03,837\nup to hunt but number one on\n\n3\n00:00:03,837 --> 00:00:05,362\nthis list is a coyote and a\n\n4\n00:00:05,362 --> 00:00:07,825\nbadger Here are five odd animal best\n\n5\n00:00:07,825 --> 00:00:11,137\nfriends Number five cheetahs and dogs A\n\n6\n00:00:11,137 --> 00:00:13,387\nSan Diego zoo pairs shy cheetahs with\n\n7\n00:00:13,387 --> 00:00:17,238\ncalming dogs Number four rhinos and oxpeckers\n\n8\n00:00:17,238 --> 00:00:19,325\nThese birds eat rhinos' ticks and sound\n\n9\n00:00:19,325 --> 00:00:21,700\nthe alarm when people come near Number\n\n10\n00:00:21,700 --> 00:00:23,738\nthree a goby fish and a pistol\n\n11\n00:00:23,738 --> 00:00:26,600\nshrimp The shrimp digs the goby keeps\n\n12\n00:00:26,600 --> 00:00:28,988\nwatch and they share the burrow Number\n\n13\n00:00:28,988 --> 00:00:31,500\ntwo a wild bird and people In\n\n14\n00:00:31,500 --> 00:00:34,038\nMozambique the honeyguide bird leads honey\n\n15\n00:00:34,038 --> 00:00:37,138\nhunters to bees' nests Its reward The\n\n16\n00:00:37,138 --> 00:00:40,375\nleftover wax Number one the coyote and\n\n17\n00:00:40,375 --> 00:00:42,763\nthe badger The badger digs for ground\n\n18\n00:00:42,763 --> 00:00:45,263\nsquirrels and the coyote catches any that\n\n19\n00:00:45,263 --> 00:00:48,600\nrun Scientists found coyotes catch more squirrels\n\n20\n00:00:48,600 --> 00:00:50,925\nwith a badger around So the oddest\n\n21\n00:00:50,925 --> 00:00:54,050\nhunting buddies A coyote and a badger\n\n22\n00:00:54,050 --> 00:00:56,500\nWhich pair surprised you most Tell me\n\n23\n00:00:56,500 --> 00:00:58,775\nin the comments Now ask a friend\n\n24\n00:00:58,775 --> 00:01:00,475\nwhich animals team up\n",
-      "tg_msg": 482,
-      "opts_msg": 484,
-      "approved_by": "auto",
-      "quota_note": "2026-10-18",
-      "description_full": "These unlikely animal friendships are real: animals that work together, from cheetahs and dogs to a coyote and badger hunting together. Five odd animal partners, counted down to the strangest team in nature.\n\nIn this Short: cheetahs with dog buddies, rhinos and their oxpecker guards, the goby and pistol shrimp, the honeyguide bird, and the coyote and badger team.\n\nSources:\nhttps://abc7news.com/5903686/\nhttps://www.npca.org/articles/4668-strange-bedfellows\nhttps://www.nbclosangeles.com/news/local/Dogs-Make-Fine-Companions-for-Cheetahs-at-San-Diego-Zoo-191441321.html\n\n#shorts #animals #animalfacts #top5\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-EmmaMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): Pexels (Pixabay) https://pixabay.com/photos/rhinoceros-gray-animal-pachyderm-1837164/; falco (Pixabay) https://pixabay.com/photos/south-africa-rhino-white-rhinoceros-1001514/; Dannysee (Pixabay) https://pixabay.com/photos/rhino-rhinoceros-animal-wildlife-4206566/; GabruPawPixels (Pixabay) https://pixabay.com/photos/shrimp-goby-marine-ocean-10261311/; jLasWilson (Pixabay) https://pixabay.com/videos/id-39416/; veolyur (Pixabay) https://pixabay.com/videos/id-320869/; MoonpetalMedia (Pixabay) https://pixabay.com/videos/id-352172/\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/MRpb6nfhQjo",
-          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-18T10:40:09.839097+00:00",
-      "slot": "2026-10-18T23:15:00+00:00"
-    },
     "2026-10-17-2": {
       "topic": {
         "title": "Top 5 Foods With Names That Lie \ud83d\ude02",
@@ -10374,9 +9254,9 @@
         "trend_source": "title shape of How Electrical Outlets Work (238,769 views/h); also How Plato's Alarm Clock Worked (30,404 views/h)",
         "plan_id": "P2026-10-23-01"
       },
-      "status": "approved",
+      "status": "published",
       "by": "auto",
-      "updated": "2026-10-23T20:18:13.789632+00:00",
+      "updated": "2026-10-25T09:53:56.497375+00:00",
       "redos": 0,
       "package": {
         "primary_keyword": "archimedes screw",
@@ -10564,7 +9444,28 @@
       "tg_msg": 715,
       "opts_msg": 717,
       "approved_by": "auto",
-      "quota_note": "2026-10-25"
+      "quota_note": "2026-10-25",
+      "description_full": "Here's how an Archimedes screw works, step by step inside the tube. This ancient water pump lifts water uphill with no motor: each turn of the spiral traps a pocket of water and carries it up.\n\nIn this Short: the spiral inside the tube, the scooped pocket, why the water's low point climbs as it turns, why too steep a tilt spills it, and where these screws are still used.\n\nSources:\nhttps://www.scientificamerican.com/article/lift-water-with-an-archimedes-screw\nhttps://www.sciencebuddies.org/stem-activities/build-archimedes-screw\nhttps://greekreporter.com/2025/03/29/archimedes-screw-ancient-greek-invention-used-today/\n\n#shorts #howitworks #archimedes #3danimation\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AvaMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): Antranias (Pixabay) https://pixabay.com/photos/cattle-trough-cow-trough-potions-239495/; 2427999 (Pixabay) https://pixabay.com/videos/id-10447/\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/T6g6AifkbvE",
+          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-10-25T09:53:56.497395+00:00",
+      "slot": "2026-10-25T14:15:00+00:00"
     },
     "2026-10-23-2": {
       "topic": {
@@ -10576,9 +9477,9 @@
         "trend_source": "How Electrical Outlets Work (58,949x median, The Question); superlative-plus-twist shape of 'Could You Move Mount Everest To America?' (Zack D. Films, breakout 2.11)",
         "plan_id": "P2026-10-23-02"
       },
-      "status": "approved",
+      "status": "published",
       "by": "auto",
-      "updated": "2026-10-23T20:29:50.763915+00:00",
+      "updated": "2026-10-25T09:54:04.063226+00:00",
       "redos": 0,
       "package": {
         "primary_keyword": "fastest animals on earth",
@@ -10912,7 +9813,28 @@
       "tg_msg": 718,
       "opts_msg": 720,
       "approved_by": "auto",
-      "quota_note": "2026-10-25"
+      "quota_note": "2026-10-25",
+      "description_full": "These are the top 5 fastest animals on Earth, ranked by measured top speed. The fastest animal in the world isn't the cheetah: it's a falcon diving at about 240 mph.\n\nIn this Short: the pronghorn, the cheetah, the free-tailed bat, the golden eagle and the peregrine falcon, counted down from slowest to fastest.\n\nSources:\nhttps://en.wikipedia.org/wiki/Fastest_animals\nhttps://en.wikipedia.org/wiki/List_of_birds_by_flight_speed\n\n#shorts #animals #fastestanimal #top5\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AndrewMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): Solarselle77 (Pixabay) https://pixabay.com/videos/id-307555/; mdherren (Pixabay) https://pixabay.com/videos/id-43293/; Sonic_Art (Pixabay) https://pixabay.com/photos/cheetah-running-speed-wildlife-10194007/; DrZoltan (Pixabay) https://pixabay.com/photos/cheetah-africa-namibia-cat-run-2859581/; BuchArena (Pixabay) https://pixabay.com/photos/cheetah-run-speed-savannah-10493645/\nU.S. Fish and Wildlife Service - Midwest Region / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:Bat_in_flight_(53718452025).jpg\nUSFWS Mountain-Prairie / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:Rough-Legged_Hawk_on_Seedskadee_NWR_(22988829524).jpg\nCaleb Putnam / Wikimedia Commons (CC BY 2.0) https://commons.wikimedia.org/wiki/File:Peregrine_Falcon_in_dive,_Miller_Beach,_Indiana,_September_29,_2012_(8039548991).jpg\nTony Hisgett from Birmingham, UK / Wikimedia Commons (CC BY 2.0) https://commons.wikimedia.org/wiki/File:Peregrine_Falcon_(5696218357).jpg\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/bxzhJ5B7Ykc",
+          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-10-25T09:54:04.063237+00:00",
+      "slot": "2026-10-25T18:15:00+00:00"
     },
     "2026-10-23-3": {
       "topic": {
@@ -10924,9 +9846,9 @@
         "trend_source": "How Electrical Outlets Work (58,949x median, The Question); 'I NEED TO WIN' (233.6x median, comedy)",
         "plan_id": "P2026-10-23-03"
       },
-      "status": "approved",
+      "status": "published",
       "by": "auto",
-      "updated": "2026-10-23T20:37:20.036122+00:00",
+      "updated": "2026-10-25T09:54:11.715974+00:00",
       "redos": 0,
       "package": {
         "primary_keyword": "funny animal group names",
@@ -11290,7 +10212,28 @@
       "tg_msg": 721,
       "opts_msg": 723,
       "approved_by": "auto",
-      "quota_note": "2026-10-25"
+      "quota_note": "2026-10-25",
+      "description_full": "These funny animal group names are all real: the top 5 funniest collective nouns for animals. From a bloat of hippos to what a group of ferrets is called, here's the countdown.\n\nIn this Short: a bloat of hippos, a tower of giraffes, a crash of rhinos, a prickle of porcupines and a business of ferrets.\n\nSources:\nhttps://www.dictionary.com/e/strange-animal-groups-listicle/\nhttps://a-z-animals.com/articles/groups-of-animal-names-the-big-list-of-collective-nouns/\nhttps://www.grammar-monster.com/list_of_collective_nouns_for_animals.htm\n\n#shorts #funny #animals #funfacts\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-EmmaMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-334768/; Joolsmagools (Pixabay) https://pixabay.com/videos/id-216389/; Joolsmagools (Pixabay) https://pixabay.com/videos/id-215533/; TheOtherKev (Pixabay) https://pixabay.com/photos/giraffe-long-neck-horns-long-legs-4366005/; garten-gg (Pixabay) https://pixabay.com/photos/animals-rhino-pachyderm-africa-4454252/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-937/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-939/; eluxirphoto (Pixabay) https://pixabay.com/photos/animal-ferret-mammal-species-fauna-4534480/; ElenLackner (Pixabay) https://pixabay.com/videos/id-21941/; NickyPe (Pixabay) https://pixabay.com/videos/id-145308/; Julianza (Pixabay) https://pixabay.com/videos/id-3092/; Marsel_beijing (Pixabay) https://pixabay.com/videos/id-132493/\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/tRMq90g5g-c",
+          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-10-25T09:54:11.715984+00:00",
+      "slot": "2026-10-25T23:15:00+00:00"
     },
     "2026-10-23-4": {
       "topic": {
@@ -11302,9 +10245,9 @@
         "trend_source": "mystery-with-a-mechanism shape of How They Filmed An Invisible Man In Snow (Zack D. Films, breakout 2.11); How Electrical Outlets Work (58,949x median)",
         "plan_id": "P2026-10-23-04"
       },
-      "status": "approved",
+      "status": "published",
       "by": "auto",
-      "updated": "2026-10-23T20:43:25.226387+00:00",
+      "updated": "2026-10-25T09:54:18.756308+00:00",
       "redos": 0,
       "package": {
         "primary_keyword": "death valley sailing stones",
@@ -11599,7 +10542,28 @@
       "tg_msg": 724,
       "opts_msg": 726,
       "approved_by": "auto",
-      "quota_note": "2026-10-25"
+      "quota_note": "2026-10-25",
+      "description_full": "This is the true story of how the sailing stones move: the moving rocks of Racetrack Playa in Death Valley. For seventy years nobody knew, until GPS trackers caught thin ice and wind pushing them in 2013.\n\nIn this Short: the mystery trails, the fifteen GPS rocks, the frozen pond, and how ice and a light breeze moved the stones.\n\nThis is a true story.\n\nSources:\nhttps://ucnature.org/mystery-death-valley-sailing-stones-solved/\nhttps://www.snexplores.org/article/solved-mystery-sailing-rocks\nhttps://www.nationalparkstraveler.org/node/9372\n\n#shorts #truestory #deathvalley #science #storytime\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-AU-WilliamMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-316/; Arystan_001 (Pixabay) https://pixabay.com/videos/id-215026/\nRomain Guy from San Francisco, USA / Wikimedia Commons (CC0) https://commons.wikimedia.org/wiki/File:Sailing_Stone_(3979385396).jpg\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/dRbKtDpBtbI",
+          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-10-25T09:54:18.756317+00:00",
+      "slot": "2026-10-26T01:15:00+00:00"
     },
     "2026-10-24-1": {
       "topic": {

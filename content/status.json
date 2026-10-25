@@ -597,28 +597,36 @@
   "updated": "2026-10-22T19:45:01.536138+00:00"
  },
  "P2026-10-23-01": {
+  "published": "2026-10-25",
   "sent": "2026-10-23",
-  "status": "Approved",
-  "updated": "2026-10-23T23:26:54.787704+00:00",
-  "video_id": "2026-10-23-1"
+  "status": "Published",
+  "updated": "2026-10-25T09:53:57.151008+00:00",
+  "video_id": "2026-10-23-1",
+  "youtube": "https://youtube.com/shorts/T6g6AifkbvE"
  },
  "P2026-10-23-02": {
+  "published": "2026-10-25",
   "sent": "2026-10-23",
-  "status": "Approved",
-  "updated": "2026-10-23T23:26:54.787718+00:00",
-  "video_id": "2026-10-23-2"
+  "status": "Published",
+  "updated": "2026-10-25T09:54:04.606925+00:00",
+  "video_id": "2026-10-23-2",
+  "youtube": "https://youtube.com/shorts/bxzhJ5B7Ykc"
  },
  "P2026-10-23-03": {
+  "published": "2026-10-25",
   "sent": "2026-10-23",
-  "status": "Approved",
-  "updated": "2026-10-23T23:26:54.787722+00:00",
-  "video_id": "2026-10-23-3"
+  "status": "Published",
+  "updated": "2026-10-25T09:54:12.216180+00:00",
+  "video_id": "2026-10-23-3",
+  "youtube": "https://youtube.com/shorts/tRMq90g5g-c"
  },
  "P2026-10-23-04": {
+  "published": "2026-10-25",
   "sent": "2026-10-23",
-  "status": "Approved",
-  "updated": "2026-10-23T23:26:54.787725+00:00",
-  "video_id": "2026-10-23-4"
+  "status": "Published",
+  "updated": "2026-10-25T09:54:19.251882+00:00",
+  "video_id": "2026-10-23-4",
+  "youtube": "https://youtube.com/shorts/dRbKtDpBtbI"
  },
  "P2026-10-23-06": {
   "sent": "2026-10-23",
