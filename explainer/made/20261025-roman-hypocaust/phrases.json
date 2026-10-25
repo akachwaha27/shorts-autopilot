@@ -1,0 +1,2370 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.65,
+  "text": "How did the Romans heat their floors,",
+  "words": [
+   [
+    "how",
+    0.25
+   ],
+   [
+    "did",
+    0.49
+   ],
+   [
+    "the",
+    0.73
+   ],
+   [
+    "romans",
+    0.97
+   ],
+   [
+    "heat",
+    1.45
+   ],
+   [
+    "their",
+    1.77
+   ],
+   [
+    "floors",
+    2.17
+   ]
+  ]
+ },
+ {
+  "s": 2.95,
+  "e": 4.53,
+  "text": "without a single wire?",
+  "words": [
+   [
+    "without",
+    2.95
+   ],
+   [
+    "a",
+    3.56
+   ],
+   [
+    "single",
+    3.65
+   ],
+   [
+    "wire",
+    4.18
+   ]
+  ]
+ },
+ {
+  "s": 5.08,
+  "e": 6.76,
+  "text": "Two thousand years ago,",
+  "words": [
+   [
+    "two",
+    5.08
+   ],
+   [
+    "thousand",
+    5.35
+   ],
+   [
+    "years",
+    6.05
+   ],
+   [
+    "ago",
+    6.5
+   ]
+  ]
+ },
+ {
+  "s": 7.06,
+  "e": 8.56,
+  "text": "in the middle of winter,",
+  "words": [
+   [
+    "in",
+    7.06
+   ],
+   [
+    "the",
+    7.22
+   ],
+   [
+    "middle",
+    7.46
+   ],
+   [
+    "of",
+    7.93
+   ],
+   [
+    "winter",
+    8.09
+   ]
+  ]
+ },
+ {
+  "s": 8.86,
+  "e": 12.0,
+  "text": "a Roman could walk across a stone floor barefoot,",
+  "words": [
+   [
+    "a",
+    8.86
+   ],
+   [
+    "roman",
+    8.94
+   ],
+   [
+    "could",
+    9.33
+   ],
+   [
+    "walk",
+    9.73
+   ],
+   [
+    "across",
+    10.04
+   ],
+   [
+    "a",
+    10.51
+   ],
+   [
+    "stone",
+    10.59
+   ],
+   [
+    "floor",
+    10.98
+   ],
+   [
+    "barefoot",
+    11.37
+   ]
+  ]
+ },
+ {
+  "s": 12.3,
+  "e": 13.71,
+  "text": "and it would be warm.",
+  "words": [
+   [
+    "and",
+    12.3
+   ],
+   [
+    "it",
+    12.56
+   ],
+   [
+    "would",
+    12.74
+   ],
+   [
+    "be",
+    13.18
+   ],
+   [
+    "warm",
+    13.36
+   ]
+  ]
+ },
+ {
+  "s": 14.26,
+  "e": 16.81,
+  "text": "The trick was hiding under their feet.",
+  "words": [
+   [
+    "the",
+    14.26
+   ],
+   [
+    "trick",
+    14.51
+   ],
+   [
+    "was",
+    14.92
+   ],
+   [
+    "hiding",
+    15.17
+   ],
+   [
+    "under",
+    15.66
+   ],
+   [
+    "their",
+    16.07
+   ],
+   [
+    "feet",
+    16.48
+   ]
+  ]
+ },
+ {
+  "s": 17.36,
+  "e": 19.16,
+  "text": "It's called a hypocaust,",
+  "words": [
+   [
+    "its",
+    17.36
+   ],
+   [
+    "called",
+    17.65
+   ],
+   [
+    "a",
+    18.22
+   ],
+   [
+    "hypocaust",
+    18.31
+   ]
+  ]
+ },
+ {
+  "s": 19.46,
+  "e": 21.45,
+  "text": "which means \"heat from below.\"",
+  "words": [
+   [
+    "which",
+    19.46
+   ],
+   [
+    "means",
+    19.9
+   ],
+   [
+    "heat",
+    20.33
+   ],
+   [
+    "from",
+    20.67
+   ],
+   [
+    "below",
+    21.02
+   ]
+  ]
+ },
+ {
+  "s": 21.75,
+  "e": 24.03,
+  "text": "The Roman writer Vitruvius",
+  "words": [
+   [
+    "the",
+    21.75
+   ],
+   [
+    "roman",
+    22.05
+   ],
+   [
+    "writer",
+    22.54
+   ],
+   [
+    "vitruvius",
+    23.14
+   ]
+  ]
+ },
+ {
+  "s": 24.33,
+  "e": 27.49,
+  "text": "credits a businessman named Sergius Orata,",
+  "words": [
+   [
+    "credits",
+    24.33
+   ],
+   [
+    "a",
+    24.94
+   ],
+   [
+    "businessman",
+    25.03
+   ],
+   [
+    "named",
+    26.0
+   ],
+   [
+    "sergius",
+    26.44
+   ],
+   [
+    "orata",
+    27.05
+   ]
+  ]
+ },
+ {
+  "s": 27.79,
+  "e": 29.82,
+  "text": "around 95 BC.",
+  "words": [
+   [
+    "around",
+    27.79
+   ],
+   [
+    "95",
+    29.01
+   ],
+   [
+    "bc",
+    29.42
+   ]
+  ]
+ },
+ {
+  "s": 30.37,
+  "e": 32.62,
+  "text": "Orata got rich farming oysters,",
+  "words": [
+   [
+    "orata",
+    30.37
+   ],
+   [
+    "got",
+    30.8
+   ],
+   [
+    "rich",
+    31.06
+   ],
+   [
+    "farming",
+    31.41
+   ],
+   [
+    "oysters",
+    32.02
+   ]
+  ]
+ },
+ {
+  "s": 32.92,
+  "e": 36.51,
+  "text": "and he sold wealthy Romans on heated \"hanging baths.\"",
+  "words": [
+   [
+    "and",
+    32.92
+   ],
+   [
+    "he",
+    33.18
+   ],
+   [
+    "sold",
+    33.35
+   ],
+   [
+    "wealthy",
+    33.69
+   ],
+   [
+    "romans",
+    34.29
+   ],
+   [
+    "on",
+    34.8
+   ],
+   [
+    "heated",
+    34.98
+   ],
+   [
+    "hanging",
+    35.49
+   ],
+   [
+    "baths",
+    36.09
+   ]
+  ]
+ },
+ {
+  "s": 36.81,
+  "e": 40.16,
+  "text": "Soon, no fancy villa was complete without one.",
+  "words": [
+   [
+    "soon",
+    36.81
+   ],
+   [
+    "no",
+    37.18
+   ],
+   [
+    "fancy",
+    37.36
+   ],
+   [
+    "villa",
+    37.81
+   ],
+   [
+    "was",
+    38.26
+   ],
+   [
+    "complete",
+    38.53
+   ],
+   [
+    "without",
+    39.26
+   ],
+   [
+    "one",
+    39.89
+   ]
+  ]
+ },
+ {
+  "s": 40.71,
+  "e": 42.11,
+  "text": "So how did it work?",
+  "words": [
+   [
+    "so",
+    40.71
+   ],
+   [
+    "how",
+    40.91
+   ],
+   [
+    "did",
+    41.21
+   ],
+   [
+    "it",
+    41.51
+   ],
+   [
+    "work",
+    41.71
+   ]
+  ]
+ },
+ {
+  "s": 42.66,
+  "e": 44.04,
+  "text": "Start with a furnace,",
+  "words": [
+   [
+    "start",
+    42.66
+   ],
+   [
+    "with",
+    43.07
+   ],
+   [
+    "a",
+    43.39
+   ],
+   [
+    "furnace",
+    43.47
+   ]
+  ]
+ },
+ {
+  "s": 44.34,
+  "e": 45.75,
+  "text": "called the praefurnium,",
+  "words": [
+   [
+    "called",
+    44.34
+   ],
+   [
+    "the",
+    44.76
+   ],
+   [
+    "praefurnium",
+    44.97
+   ]
+  ]
+ },
+ {
+  "s": 46.05,
+  "e": 49.23,
+  "text": "built just outside the room, a little lower down.",
+  "words": [
+   [
+    "built",
+    46.05
+   ],
+   [
+    "just",
+    46.46
+   ],
+   [
+    "outside",
+    46.78
+   ],
+   [
+    "the",
+    47.36
+   ],
+   [
+    "room",
+    47.6
+   ],
+   [
+    "a",
+    47.93
+   ],
+   [
+    "little",
+    48.01
+   ],
+   [
+    "lower",
+    48.5
+   ],
+   [
+    "down",
+    48.9
+   ]
+  ]
+ },
+ {
+  "s": 49.78,
+  "e": 51.74,
+  "text": "Slaves fed it wood all day.",
+  "words": [
+   [
+    "slaves",
+    49.78
+   ],
+   [
+    "fed",
+    50.34
+   ],
+   [
+    "it",
+    50.62
+   ],
+   [
+    "wood",
+    50.8
+   ],
+   [
+    "all",
+    51.18
+   ],
+   [
+    "day",
+    51.46
+   ]
+  ]
+ },
+ {
+  "s": 52.29,
+  "e": 54.86,
+  "text": "Now, instead of laying the floor on the ground,",
+  "words": [
+   [
+    "now",
+    52.29
+   ],
+   [
+    "instead",
+    52.49
+   ],
+   [
+    "of",
+    52.98
+   ],
+   [
+    "laying",
+    53.12
+   ],
+   [
+    "the",
+    53.54
+   ],
+   [
+    "floor",
+    53.74
+   ],
+   [
+    "on",
+    54.09
+   ],
+   [
+    "the",
+    54.23
+   ],
+   [
+    "ground",
+    54.44
+   ]
+  ]
+ },
+ {
+  "s": 55.16,
+  "e": 57.23,
+  "text": "the Romans lifted it up.",
+  "words": [
+   [
+    "the",
+    55.16
+   ],
+   [
+    "romans",
+    55.48
+   ],
+   [
+    "lifted",
+    56.14
+   ],
+   [
+    "it",
+    56.8
+   ],
+   [
+    "up",
+    57.01
+   ]
+  ]
+ },
+ {
+  "s": 57.78,
+  "e": 59.98,
+  "text": "They built short stacks of square bricks,",
+  "words": [
+   [
+    "they",
+    57.78
+   ],
+   [
+    "built",
+    58.04
+   ],
+   [
+    "short",
+    58.37
+   ],
+   [
+    "stacks",
+    58.69
+   ],
+   [
+    "of",
+    59.08
+   ],
+   [
+    "square",
+    59.21
+   ],
+   [
+    "bricks",
+    59.6
+   ]
+  ]
+ },
+ {
+  "s": 60.28,
+  "e": 61.28,
+  "text": "called pilae,",
+  "words": [
+   [
+    "called",
+    60.28
+   ],
+   [
+    "pilae",
+    60.83
+   ]
+  ]
+ },
+ {
+  "s": 61.58,
+  "e": 63.07,
+  "text": "row after row.",
+  "words": [
+   [
+    "row",
+    61.58
+   ],
+   [
+    "after",
+    61.99
+   ],
+   [
+    "row",
+    62.67
+   ]
+  ]
+ },
+ {
+  "s": 63.62,
+  "e": 65.98,
+  "text": "Vitruvius says two feet tall.",
+  "words": [
+   [
+    "vitruvius",
+    63.62
+   ],
+   [
+    "says",
+    64.51
+   ],
+   [
+    "two",
+    64.9
+   ],
+   [
+    "feet",
+    65.19
+   ],
+   [
+    "tall",
+    65.59
+   ]
+  ]
+ },
+ {
+  "s": 66.53,
+  "e": 68.86,
+  "text": "On top went big two-foot tiles,",
+  "words": [
+   [
+    "on",
+    66.53
+   ],
+   [
+    "top",
+    66.72
+   ],
+   [
+    "went",
+    67.02
+   ],
+   [
+    "big",
+    67.4
+   ],
+   [
+    "twofoot",
+    67.7
+   ],
+   [
+    "tiles",
+    68.38
+   ]
+  ]
+ },
+ {
+  "s": 69.16,
+  "e": 71.28,
+  "text": "then a thick layer of concrete,",
+  "words": [
+   [
+    "then",
+    69.16
+   ],
+   [
+    "a",
+    69.5
+   ],
+   [
+    "thick",
+    69.59
+   ],
+   [
+    "layer",
+    70.01
+   ],
+   [
+    "of",
+    70.43
+   ],
+   [
+    "concrete",
+    70.6
+   ]
+  ]
+ },
+ {
+  "s": 71.58,
+  "e": 73.71,
+  "text": "then the floor you'd walk on.",
+  "words": [
+   [
+    "then",
+    71.58
+   ],
+   [
+    "the",
+    71.96
+   ],
+   [
+    "floor",
+    72.25
+   ],
+   [
+    "youd",
+    72.74
+   ],
+   [
+    "walk",
+    73.13
+   ],
+   [
+    "on",
+    73.52
+   ]
+  ]
+ },
+ {
+  "s": 74.26,
+  "e": 76.7,
+  "text": "That left a hollow space underneath,",
+  "words": [
+   [
+    "that",
+    74.26
+   ],
+   [
+    "left",
+    74.59
+   ],
+   [
+    "a",
+    74.91
+   ],
+   [
+    "hollow",
+    74.99
+   ],
+   [
+    "space",
+    75.48
+   ],
+   [
+    "underneath",
+    75.89
+   ]
+  ]
+ },
+ {
+  "s": 77.0,
+  "e": 79.45,
+  "text": "like a crawl space made for smoke.",
+  "words": [
+   [
+    "like",
+    77.0
+   ],
+   [
+    "a",
+    77.36
+   ],
+   [
+    "crawl",
+    77.46
+   ],
+   [
+    "space",
+    77.91
+   ],
+   [
+    "made",
+    78.36
+   ],
+   [
+    "for",
+    78.72
+   ],
+   [
+    "smoke",
+    79.0
+   ]
+  ]
+ },
+ {
+  "s": 80.0,
+  "e": 82.13,
+  "text": "The fire's hot air and smoke",
+  "words": [
+   [
+    "the",
+    80.0
+   ],
+   [
+    "fires",
+    80.29
+   ],
+   [
+    "hot",
+    80.77
+   ],
+   [
+    "air",
+    81.06
+   ],
+   [
+    "and",
+    81.36
+   ],
+   [
+    "smoke",
+    81.65
+   ]
+  ]
+ },
+ {
+  "s": 82.43,
+  "e": 83.89,
+  "text": "rushed into that gap,",
+  "words": [
+   [
+    "rushed",
+    82.43
+   ],
+   [
+    "into",
+    82.95
+   ],
+   [
+    "that",
+    83.29
+   ],
+   [
+    "gap",
+    83.64
+   ]
+  ]
+ },
+ {
+  "s": 84.19,
+  "e": 85.82,
+  "text": "swirled between the pillars,",
+  "words": [
+   [
+    "swirled",
+    84.19
+   ],
+   [
+    "between",
+    84.67
+   ],
+   [
+    "the",
+    85.14
+   ],
+   [
+    "pillars",
+    85.35
+   ]
+  ]
+ },
+ {
+  "s": 86.12,
+  "e": 88.6,
+  "text": "and soaked heat into the floor above.",
+  "words": [
+   [
+    "and",
+    86.12
+   ],
+   [
+    "soaked",
+    86.37
+   ],
+   [
+    "heat",
+    86.86
+   ],
+   [
+    "into",
+    87.19
+   ],
+   [
+    "the",
+    87.52
+   ],
+   [
+    "floor",
+    87.77
+   ],
+   [
+    "above",
+    88.18
+   ]
+  ]
+ },
+ {
+  "s": 89.15,
+  "e": 90.48,
+  "text": "But it didn't stop there.",
+  "words": [
+   [
+    "but",
+    89.15
+   ],
+   [
+    "it",
+    89.36
+   ],
+   [
+    "didnt",
+    89.5
+   ],
+   [
+    "stop",
+    89.85
+   ],
+   [
+    "there",
+    90.13
+   ]
+  ]
+ },
+ {
+  "s": 91.03,
+  "e": 93.41,
+  "text": "Hollow clay pipes, called tubuli,",
+  "words": [
+   [
+    "hollow",
+    91.03
+   ],
+   [
+    "clay",
+    91.56
+   ],
+   [
+    "pipes",
+    91.91
+   ],
+   [
+    "called",
+    92.35
+   ],
+   [
+    "tubuli",
+    92.88
+   ]
+  ]
+ },
+ {
+  "s": 93.71,
+  "e": 95.76,
+  "text": "ran up inside the walls.",
+  "words": [
+   [
+    "ran",
+    93.71
+   ],
+   [
+    "up",
+    94.03
+   ],
+   [
+    "inside",
+    94.25
+   ],
+   [
+    "the",
+    94.9
+   ],
+   [
+    "walls",
+    95.22
+   ]
+  ]
+ },
+ {
+  "s": 96.31,
+  "e": 98.18,
+  "text": "Hot air climbed through them,",
+  "words": [
+   [
+    "hot",
+    96.31
+   ],
+   [
+    "air",
+    96.54
+   ],
+   [
+    "climbed",
+    96.78
+   ],
+   [
+    "through",
+    97.33
+   ],
+   [
+    "them",
+    97.87
+   ]
+  ]
+ },
+ {
+  "s": 98.48,
+  "e": 100.12,
+  "text": "warming the walls too,",
+  "words": [
+   [
+    "warming",
+    98.48
+   ],
+   [
+    "the",
+    99.12
+   ],
+   [
+    "walls",
+    99.39
+   ],
+   [
+    "too",
+    99.85
+   ]
+  ]
+ },
+ {
+  "s": 100.42,
+  "e": 102.95,
+  "text": "then escaped through vents near the roof.",
+  "words": [
+   [
+    "then",
+    100.42
+   ],
+   [
+    "escaped",
+    100.72
+   ],
+   [
+    "through",
+    101.24
+   ],
+   [
+    "vents",
+    101.76
+   ],
+   [
+    "near",
+    102.13
+   ],
+   [
+    "the",
+    102.43
+   ],
+   [
+    "roof",
+    102.66
+   ]
+  ]
+ },
+ {
+  "s": 103.5,
+  "e": 106.11,
+  "text": "So the whole room became a radiator.",
+  "words": [
+   [
+    "so",
+    103.5
+   ],
+   [
+    "the",
+    103.68
+   ],
+   [
+    "whole",
+    103.95
+   ],
+   [
+    "room",
+    104.4
+   ],
+   [
+    "became",
+    104.76
+   ],
+   [
+    "a",
+    105.3
+   ],
+   [
+    "radiator",
+    105.39
+   ]
+  ]
+ },
+ {
+  "s": 106.66,
+  "e": 110.36,
+  "text": "Here's a detail Vitruvius was oddly specific about.",
+  "words": [
+   [
+    "heres",
+    106.66
+   ],
+   [
+    "a",
+    107.1
+   ],
+   [
+    "detail",
+    107.19
+   ],
+   [
+    "vitruvius",
+    107.71
+   ],
+   [
+    "was",
+    108.51
+   ],
+   [
+    "oddly",
+    108.77
+   ],
+   [
+    "specific",
+    109.21
+   ],
+   [
+    "about",
+    109.92
+   ]
+  ]
+ },
+ {
+  "s": 110.91,
+  "e": 113.99,
+  "text": "The floor underneath should slope toward the furnace,",
+  "words": [
+   [
+    "the",
+    110.91
+   ],
+   [
+    "floor",
+    111.11
+   ],
+   [
+    "underneath",
+    111.46
+   ],
+   [
+    "should",
+    112.14
+   ],
+   [
+    "slope",
+    112.55
+   ],
+   [
+    "toward",
+    112.89
+   ],
+   [
+    "the",
+    113.3
+   ],
+   [
+    "furnace",
+    113.51
+   ]
+  ]
+ },
+ {
+  "s": 114.29,
+  "e": 116.14,
+  "text": "so if you threw a ball in,",
+  "words": [
+   [
+    "so",
+    114.29
+   ],
+   [
+    "if",
+    114.48
+   ],
+   [
+    "you",
+    114.68
+   ],
+   [
+    "threw",
+    114.97
+   ],
+   [
+    "a",
+    115.46
+   ],
+   [
+    "ball",
+    115.55
+   ],
+   [
+    "in",
+    115.94
+   ]
+  ]
+ },
+ {
+  "s": 116.44,
+  "e": 118.07,
+  "text": "it couldn't stop inside.",
+  "words": [
+   [
+    "it",
+    116.44
+   ],
+   [
+    "couldnt",
+    116.61
+   ],
+   [
+    "stop",
+    117.21
+   ],
+   [
+    "inside",
+    117.55
+   ]
+  ]
+ },
+ {
+  "s": 118.62,
+  "e": 120.92,
+  "text": "It would roll right back to the fire.",
+  "words": [
+   [
+    "it",
+    118.62
+   ],
+   [
+    "would",
+    118.77
+   ],
+   [
+    "roll",
+    119.17
+   ],
+   [
+    "right",
+    119.49
+   ],
+   [
+    "back",
+    119.89
+   ],
+   [
+    "to",
+    120.2
+   ],
+   [
+    "the",
+    120.36
+   ],
+   [
+    "fire",
+    120.6
+   ]
+  ]
+ },
+ {
+  "s": 121.47,
+  "e": 124.51,
+  "text": "Romans also lined up their rooms by heat.",
+  "words": [
+   [
+    "romans",
+    121.47
+   ],
+   [
+    "also",
+    122.02
+   ],
+   [
+    "lined",
+    122.39
+   ],
+   [
+    "up",
+    122.85
+   ],
+   [
+    "their",
+    123.03
+   ],
+   [
+    "rooms",
+    123.49
+   ],
+   [
+    "by",
+    123.95
+   ],
+   [
+    "heat",
+    124.14
+   ]
+  ]
+ },
+ {
+  "s": 125.06,
+  "e": 127.07,
+  "text": "The caldarium, the hot room,",
+  "words": [
+   [
+    "the",
+    125.06
+   ],
+   [
+    "caldarium",
+    125.33
+   ],
+   [
+    "the",
+    126.15
+   ],
+   [
+    "hot",
+    126.43
+   ],
+   [
+    "room",
+    126.7
+   ]
+  ]
+ },
+ {
+  "s": 127.37,
+  "e": 129.25,
+  "text": "sat closest to the furnace.",
+  "words": [
+   [
+    "sat",
+    127.37
+   ],
+   [
+    "closest",
+    127.63
+   ],
+   [
+    "to",
+    128.23
+   ],
+   [
+    "the",
+    128.4
+   ],
+   [
+    "furnace",
+    128.65
+   ]
+  ]
+ },
+ {
+  "s": 129.8,
+  "e": 131.49,
+  "text": "Next came the warm room,",
+  "words": [
+   [
+    "next",
+    129.8
+   ],
+   [
+    "came",
+    130.16
+   ],
+   [
+    "the",
+    130.51
+   ],
+   [
+    "warm",
+    130.78
+   ],
+   [
+    "room",
+    131.14
+   ]
+  ]
+ },
+ {
+  "s": 131.79,
+  "e": 133.05,
+  "text": "the tepidarium.",
+  "words": [
+   [
+    "the",
+    131.79
+   ],
+   [
+    "tepidarium",
+    132.08
+   ]
+  ]
+ },
+ {
+  "s": 133.6,
+  "e": 136.44,
+  "text": "And the cold plunge pool, the frigidarium,",
+  "words": [
+   [
+    "and",
+    133.6
+   ],
+   [
+    "the",
+    133.85
+   ],
+   [
+    "cold",
+    134.1
+   ],
+   [
+    "plunge",
+    134.44
+   ],
+   [
+    "pool",
+    134.94
+   ],
+   [
+    "the",
+    135.27
+   ],
+   [
+    "frigidarium",
+    135.52
+   ]
+  ]
+ },
+ {
+  "s": 136.74,
+  "e": 138.17,
+  "text": "sat farthest away.",
+  "words": [
+   [
+    "sat",
+    136.74
+   ],
+   [
+    "farthest",
+    137.02
+   ],
+   [
+    "away",
+    137.79
+   ]
+  ]
+ },
+ {
+  "s": 138.72,
+  "e": 140.44,
+  "text": "So, how hot did it get?",
+  "words": [
+   [
+    "so",
+    138.72
+   ],
+   [
+    "how",
+    138.94
+   ],
+   [
+    "hot",
+    139.26
+   ],
+   [
+    "did",
+    139.58
+   ],
+   [
+    "it",
+    139.9
+   ],
+   [
+    "get",
+    140.11
+   ]
+  ]
+ },
+ {
+  "s": 140.99,
+  "e": 143.92,
+  "text": "In modern tests on rebuilt Roman baths,",
+  "words": [
+   [
+    "in",
+    140.99
+   ],
+   [
+    "modern",
+    141.17
+   ],
+   [
+    "tests",
+    141.72
+   ],
+   [
+    "on",
+    142.18
+   ],
+   [
+    "rebuilt",
+    142.36
+   ],
+   [
+    "roman",
+    143.0
+   ],
+   [
+    "baths",
+    143.46
+   ]
+  ]
+ },
+ {
+  "s": 144.22,
+  "e": 147.44,
+  "text": "the floors reached twenty to fifty degrees Celsius.",
+  "words": [
+   [
+    "the",
+    144.22
+   ],
+   [
+    "floors",
+    144.44
+   ],
+   [
+    "reached",
+    144.89
+   ],
+   [
+    "twenty",
+    145.42
+   ],
+   [
+    "to",
+    145.87
+   ],
+   [
+    "fifty",
+    146.02
+   ],
+   [
+    "degrees",
+    146.39
+   ],
+   [
+    "celsius",
+    146.92
+   ]
+  ]
+ },
+ {
+  "s": 147.99,
+  "e": 151.24,
+  "text": "Hot enough that bathers wore wooden-soled sandals.",
+  "words": [
+   [
+    "hot",
+    147.99
+   ],
+   [
+    "enough",
+    148.22
+   ],
+   [
+    "that",
+    148.69
+   ],
+   [
+    "bathers",
+    149.0
+   ],
+   [
+    "wore",
+    149.54
+   ],
+   [
+    "woodensoled",
+    149.85
+   ],
+   [
+    "sandals",
+    150.7
+   ]
+  ]
+ },
+ {
+  "s": 151.79,
+  "e": 155.01,
+  "text": "The hot room's air sat around thirty-two degrees,",
+  "words": [
+   [
+    "the",
+    151.79
+   ],
+   [
+    "hot",
+    152.04
+   ],
+   [
+    "rooms",
+    152.29
+   ],
+   [
+    "air",
+    152.7
+   ],
+   [
+    "sat",
+    152.95
+   ],
+   [
+    "around",
+    153.2
+   ],
+   [
+    "thirtytwo",
+    153.69
+   ],
+   [
+    "degrees",
+    154.43
+   ]
+  ]
+ },
+ {
+  "s": 155.31,
+  "e": 156.53,
+  "text": "thick with steam.",
+  "words": [
+   [
+    "thick",
+    155.31
+   ],
+   [
+    "with",
+    155.75
+   ],
+   [
+    "steam",
+    156.1
+   ]
+  ]
+ },
+ {
+  "s": 157.08,
+  "e": 159.07,
+  "text": "And all of it ran on wood.",
+  "words": [
+   [
+    "and",
+    157.08
+   ],
+   [
+    "all",
+    157.4
+   ],
+   [
+    "of",
+    157.71
+   ],
+   [
+    "it",
+    157.92
+   ],
+   [
+    "ran",
+    158.13
+   ],
+   [
+    "on",
+    158.44
+   ],
+   [
+    "wood",
+    158.65
+   ]
+  ]
+ },
+ {
+  "s": 159.62,
+  "e": 162.35,
+  "text": "The giant Baths of Caracalla in Rome",
+  "words": [
+   [
+    "the",
+    159.62
+   ],
+   [
+    "giant",
+    159.89
+   ],
+   [
+    "baths",
+    160.35
+   ],
+   [
+    "of",
+    160.8
+   ],
+   [
+    "caracalla",
+    160.99
+   ],
+   [
+    "in",
+    161.81
+   ],
+   [
+    "rome",
+    161.99
+   ]
+  ]
+ },
+ {
+  "s": 162.65,
+  "e": 165.61,
+  "text": "reportedly burned around ten tons of wood,",
+  "words": [
+   [
+    "reportedly",
+    162.65
+   ],
+   [
+    "burned",
+    163.5
+   ],
+   [
+    "around",
+    164.01
+   ],
+   [
+    "ten",
+    164.51
+   ],
+   [
+    "tons",
+    164.77
+   ],
+   [
+    "of",
+    165.1
+   ],
+   [
+    "wood",
+    165.27
+   ]
+  ]
+ },
+ {
+  "s": 165.91,
+  "e": 167.25,
+  "text": "every single day.",
+  "words": [
+   [
+    "every",
+    165.91
+   ],
+   [
+    "single",
+    166.39
+   ],
+   [
+    "day",
+    166.96
+   ]
+  ]
+ },
+ {
+  "s": 167.8,
+  "e": 169.57,
+  "text": "When the empire fell apart,",
+  "words": [
+   [
+    "when",
+    167.8
+   ],
+   [
+    "the",
+    168.12
+   ],
+   [
+    "empire",
+    168.36
+   ],
+   [
+    "fell",
+    168.85
+   ],
+   [
+    "apart",
+    169.17
+   ]
+  ]
+ },
+ {
+  "s": 169.87,
+  "e": 172.2,
+  "text": "so did the skills and the labor",
+  "words": [
+   [
+    "so",
+    169.87
+   ],
+   [
+    "did",
+    170.06
+   ],
+   [
+    "the",
+    170.34
+   ],
+   [
+    "skills",
+    170.62
+   ],
+   [
+    "and",
+    171.17
+   ],
+   [
+    "the",
+    171.45
+   ],
+   [
+    "labor",
+    171.73
+   ]
+  ]
+ },
+ {
+  "s": 172.5,
+  "e": 174.55,
+  "text": "that kept these furnaces burning.",
+  "words": [
+   [
+    "that",
+    172.5
+   ],
+   [
+    "kept",
+    172.79
+   ],
+   [
+    "these",
+    173.08
+   ],
+   [
+    "furnaces",
+    173.45
+   ],
+   [
+    "burning",
+    174.04
+   ]
+  ]
+ },
+ {
+  "s": 175.1,
+  "e": 176.16,
+  "text": "For centuries,",
+  "words": [
+   [
+    "for",
+    175.1
+   ],
+   [
+    "centuries",
+    175.37
+   ]
+  ]
+ },
+ {
+  "s": 176.46,
+  "e": 179.88,
+  "text": "much of Europe went back to smoky open fires.",
+  "words": [
+   [
+    "much",
+    176.46
+   ],
+   [
+    "of",
+    176.84
+   ],
+   [
+    "europe",
+    177.03
+   ],
+   [
+    "went",
+    177.6
+   ],
+   [
+    "back",
+    177.98
+   ],
+   [
+    "to",
+    178.36
+   ],
+   [
+    "smoky",
+    178.55
+   ],
+   [
+    "open",
+    179.02
+   ],
+   [
+    "fires",
+    179.4
+   ]
+  ]
+ },
+ {
+  "s": 180.43,
+  "e": 182.46,
+  "text": "But the idea never died.",
+  "words": [
+   [
+    "but",
+    180.43
+   ],
+   [
+    "the",
+    180.75
+   ],
+   [
+    "idea",
+    181.07
+   ],
+   [
+    "never",
+    181.5
+   ],
+   [
+    "died",
+    182.03
+   ]
+  ]
+ },
+ {
+  "s": 183.01,
+  "e": 185.17,
+  "text": "In Korea, the ondol system",
+  "words": [
+   [
+    "in",
+    183.01
+   ],
+   [
+    "korea",
+    183.22
+   ],
+   [
+    "the",
+    183.73
+   ],
+   [
+    "ondol",
+    184.04
+   ],
+   [
+    "system",
+    184.55
+   ]
+  ]
+ },
+ {
+  "s": 185.47,
+  "e": 189.26,
+  "text": "runs fire smoke under the floor in a very similar way.",
+  "words": [
+   [
+    "runs",
+    185.47
+   ],
+   [
+    "fire",
+    185.82
+   ],
+   [
+    "smoke",
+    186.17
+   ],
+   [
+    "under",
+    186.61
+   ],
+   [
+    "the",
+    187.05
+   ],
+   [
+    "floor",
+    187.32
+   ],
+   [
+    "in",
+    187.76
+   ],
+   [
+    "a",
+    187.94
+   ],
+   [
+    "very",
+    188.03
+   ],
+   [
+    "similar",
+    188.38
+   ],
+   [
+    "way",
+    189.0
+   ]
+  ]
+ },
+ {
+  "s": 189.81,
+  "e": 192.03,
+  "text": "And today's underfloor heating",
+  "words": [
+   [
+    "and",
+    189.81
+   ],
+   [
+    "todays",
+    190.07
+   ],
+   [
+    "underfloor",
+    190.58
+   ],
+   [
+    "heating",
+    191.44
+   ]
+  ]
+ },
+ {
+  "s": 192.33,
+  "e": 194.82,
+  "text": "does exactly what the Romans did:",
+  "words": [
+   [
+    "does",
+    192.33
+   ],
+   [
+    "exactly",
+    192.7
+   ],
+   [
+    "what",
+    193.35
+   ],
+   [
+    "the",
+    193.71
+   ],
+   [
+    "romans",
+    193.99
+   ],
+   [
+    "did",
+    194.54
+   ]
+  ]
+ },
+ {
+  "s": 195.12,
+  "e": 196.36,
+  "text": "warm the floor,",
+  "words": [
+   [
+    "warm",
+    195.12
+   ],
+   [
+    "the",
+    195.53
+   ],
+   [
+    "floor",
+    195.84
+   ]
+  ]
+ },
+ {
+  "s": 196.66,
+  "e": 198.1,
+  "text": "and let the heat rise.",
+  "words": [
+   [
+    "and",
+    196.66
+   ],
+   [
+    "let",
+    196.92
+   ],
+   [
+    "the",
+    197.17
+   ],
+   [
+    "heat",
+    197.42
+   ],
+   [
+    "rise",
+    197.76
+   ]
+  ]
+ },
+ {
+  "s": 198.65,
+  "e": 200.96,
+  "text": "Just with pipes instead of pillars,",
+  "words": [
+   [
+    "just",
+    198.65
+   ],
+   [
+    "with",
+    198.97
+   ],
+   [
+    "pipes",
+    199.29
+   ],
+   [
+    "instead",
+    199.68
+   ],
+   [
+    "of",
+    200.24
+   ],
+   [
+    "pillars",
+    200.4
+   ]
+  ]
+ },
+ {
+  "s": 201.26,
+  "e": 203.29,
+  "text": "and nobody shoveling wood.",
+  "words": [
+   [
+    "and",
+    201.26
+   ],
+   [
+    "nobody",
+    201.54
+   ],
+   [
+    "shoveling",
+    202.09
+   ],
+   [
+    "wood",
+    202.92
+   ]
+  ]
+ },
+ {
+  "s": 203.84,
+  "e": 205.81,
+  "text": "Would you trade your radiator",
+  "words": [
+   [
+    "would",
+    203.84
+   ],
+   [
+    "you",
+    204.23
+   ],
+   [
+    "trade",
+    204.47
+   ],
+   [
+    "your",
+    204.87
+   ],
+   [
+    "radiator",
+    205.18
+   ]
+  ]
+ },
+ {
+  "s": 206.11,
+  "e": 207.58,
+  "text": "for a Roman floor?",
+  "words": [
+   [
+    "for",
+    206.11
+   ],
+   [
+    "a",
+    206.43
+   ],
+   [
+    "roman",
+    206.53
+   ],
+   [
+    "floor",
+    207.06
+   ]
+  ]
+ }
+]
