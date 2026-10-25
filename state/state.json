@@ -11808,6 +11808,75 @@
       "opts_msg": 766,
       "approved_by": "auto",
       "quota_note": "2026-10-25"
+    },
+    "2026-10-25-101": {
+      "topic": {
+        "title": "Why do leaves turn orange in fall?",
+        "format": "animated",
+        "angle": "Low-Poly Faceted"
+      },
+      "package": {
+        "title": "Why Do Leaves Turn Orange in Fall? \ud83c\udf42",
+        "description": "Why do leaves change color in autumn? The yellow and orange carotenoid pigments are in the leaf all summer, hidden by green chlorophyll, and show through when the tree stops making chlorophyll and pulls nutrients back before the leaf falls.\n\nSources:\nhttps://www.fs.usda.gov/media/217554\nhttps://earthwiseradio.org/2012/10/autumn-leaves-not-just-a-colorful-display/\nhttps://thesca.org/newsroom/why-leaves-change-color-fall\n\nAnimated in the Low-Poly Faceted style.",
+        "hashtags": [
+          "#shorts",
+          "#science",
+          "#autumn",
+          "#nature"
+        ],
+        "tags": [
+          "why do leaves change color",
+          "fall leaves",
+          "autumn leaves",
+          "chlorophyll",
+          "carotenoids",
+          "anthocyanin",
+          "leaf color science",
+          "why leaves turn orange",
+          "fall foliage",
+          "tree science",
+          "nature explained",
+          "science shorts",
+          "low poly animation"
+        ],
+        "category": "27",
+        "pinned_comment": "Which tree turns the brightest where you live? Maples win on my street \ud83c\udf41",
+        "thumbnail_text": "HIDING ALL SUMMER",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "Why do leaves turn orange in fall?\nHere's the twist:\nthe orange was there all summer.\nA leaf is packed with green chlorophyll,\nthe pigment that turns sunlight into sugar.\nBut it's also holding yellow and orange pigments,\ncalled carotenoids.\nAll summer, the green drowns them out.\nThen the nights get longer,\nand the tree shuts the leaf down.\nIt stops making chlorophyll,\nand breaks the old green apart.\nScientists think it pulls back about half the leaf's nitrogen,\nsaving it for spring.\nWith the green gone,\nthe hidden orange shows through.\nAnd the reds?\nThose are brand new.\nTrapped sugars turn into red pigments,\nright before a cork-like seal forms at the stem,\nand the leaf lets go.\nSo fall doesn't paint the leaves.\nIt peels the green away.\nWhich tree turns the brightest where you live?",
+        "key_facts": [
+          "Yellow/orange carotenoids are in leaves all year, masked by more abundant green chlorophyll (USDA Forest Service)",
+          "In fall, shorter days and cooler temps make trees stop replacing chlorophyll, so the green fades (USDA Forest Service)",
+          "Red pigments are newly formed in fall from sugars trapped in the leaf (USDA Forest Service)",
+          "A layer of cork cells forms at the base of the leaf stalk and the leaf falls (USDA Forest Service)",
+          "Trees pull back roughly half or more of the leaf's nitrogen before it drops; a fallen leaf keeps ~40% of its summer nitrogen (EarthWise)"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Low-Poly Faceted"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261025-autumn-leaves",
+      "redos": 0,
+      "updated": "2026-10-25T19:57:25.823236+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Low-Poly Faceted style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-25",
+        "name": "2026-10-25-101.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-25",
+        "name": "2026-10-25-101-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:02,200\nWhy do leaves turn orange in fall?\n\n2\n00:00:02,750 --> 00:00:03,780\nHere's the twist:\n\n3\n00:00:04,080 --> 00:00:05,810\nthe orange was there all summer.\n\n4\n00:00:06,360 --> 00:00:08,540\nA leaf is packed with green chlorophyll,\n\n5\n00:00:08,840 --> 00:00:11,110\nthe pigment that turns sunlight into sugar.\n\n6\n00:00:11,660 --> 00:00:14,380\nBut it's also holding yellow and orange pigments,\n\n7\n00:00:14,680 --> 00:00:15,940\ncalled carotenoids.\n\n8\n00:00:16,490 --> 00:00:18,490\nAll summer, the green drowns them out.\n\n9\n00:00:19,040 --> 00:00:20,430\nThen the nights get longer,\n\n10\n00:00:20,730 --> 00:00:22,460\nand the tree shuts the leaf down.\n\n11\n00:00:23,010 --> 00:00:24,750\nIt stops making chlorophyll,\n\n12\n00:00:25,050 --> 00:00:26,820\nand breaks the old green apart.\n\n13\n00:00:27,370 --> 00:00:30,730\nScientists think it pulls back about half the leaf's nitrogen,\n\n14\n00:00:31,030 --> 00:00:32,280\nsaving it for spring.\n\n15\n00:00:32,830 --> 00:00:34,020\nWith the green gone,\n\n16\n00:00:34,320 --> 00:00:36,000\nthe hidden orange shows through.\n\n17\n00:00:36,550 --> 00:00:37,450\nAnd the reds?\n\n18\n00:00:38,000 --> 00:00:39,230\nThose are brand new.\n\n19\n00:00:39,780 --> 00:00:41,960\nTrapped sugars turn into red pigments,\n\n20\n00:00:42,260 --> 00:00:45,040\nright before a cork-like seal forms at the stem,\n\n21\n00:00:45,340 --> 00:00:46,590\nand the leaf lets go.\n\n22\n00:00:47,140 --> 00:00:48,980\nSo fall doesn't paint the leaves.\n\n23\n00:00:49,530 --> 00:00:50,970\nIt peels the green away.\n\n24\n00:00:51,520 --> 00:00:53,770\nWhich tree turns the brightest where you live?\n\n",
+      "tg_msg": 790
     }
   },
   "history": [
@@ -11897,5 +11966,8 @@
   "visual_searches": {
     "2026-10-24": 3
   },
-  "signals_day": "2026-10-25"
+  "signals_day": "2026-10-25",
+  "drops_done": {
+    "drop/20261025-autumn-leaves": "2026-10-25-101"
+  }
 }
