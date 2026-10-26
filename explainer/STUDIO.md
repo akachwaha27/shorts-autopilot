@@ -28,17 +28,29 @@ this public repo. Fetch them from Ashu's private **Explainer Toolkit** artifact 
 `explainer/templates/` (both git-ignored). Never commit them.
 
 ## 1. Pick
-`python3 explainer/scripts/pick.py short` (or `long`) prints a random style, its template, shell and canvas size,
-and the topics made recently. Read the whole template (`MY CONTENT` / `MY VOICEOVER TIMING` are the slots, the
-`REFERENCE STYLE SOURCE` is the style guide; the H library and sound kit are the files in `lib/`).
+`python3 explainer/scripts/pick.py short` (or `long`) prints the next topic from the **explainer topic sheet**
+(`explainer/topics/queue.csv`, `topic_row`), a style for it (from the row's `styles` when it lists any, never one of the
+last 4 styles), its template, shell and canvas size, and the topics made recently. Read the whole template
+(`MY CONTENT` / `MY VOICEOVER TIMING` are the slots, the `REFERENCE STYLE SOURCE` is the style guide; the H library and
+sound kit are the files in `lib/`).
 
-Topic: a Zack D Films-shaped question with ONE mechanism, one number and one visual payoff: "How did X work?",
-"Why does X happen?", "What happens when X?", "How is X made?". Ideas: `explainer/topics/zack-d-films-style-explainers.md`
-plus your own. Match the style (ancient tech → ukiyo-e / cut-paper / claymation / voxel-like low-poly; machines →
-synthwave / pixel / flat-vector; nature → low-poly / cut-paper / napkin; body → flat-vector / kawaii / chalkboard).
-Never repeat a topic from pick.py's `recent_topics`, explainer/log.json or archive/videos.json (titles), even reworded.
-Never reuse a Zack D Films subject, script, character or scene. Content rules (content/voice.md): 13+, nothing
-gory, medical-advice, violent, tragic, political, religious, or about real living people.
+The topic sheet holds explainer ideas only, short and long, in the shape of "How Romans Heated Their Floors 2,000 Years
+Ago": one "How did X work? / Why does X happen? / How is X made?" question, one mechanism, one key number, one visual
+payoff. Ashu can edit it on GitHub (add rows, reorder, set `status` to `skip`). Rules:
+- Make the `topic_row` pick.py gives you (the first `ready` row of your kind). Its `mechanism` and `key_number` are
+  ideas, not facts: verify everything in step 2, fix the angle if the sources disagree, and if the premise turns out
+  to be false, set that row's `status` to `skip` with a reason in `notes` and take the next one.
+- If no row of your kind is ready, pick a fresh topic yourself (rules below) and append it to the sheet as you make it.
+- Keep the sheet stocked: when `ready_left` (counting the row you take) is under 6, append 3 new rows of your kind
+  (next free id: S### for shorts, L### for long; status `ready`; topic, mechanism, key_number, 2-3 fitting styles
+  joined with `|`; notes "idea only: verify every fact with a web search when making it").
+
+Topic rules (for new rows and fallback picks): match the style (ancient tech → ukiyo-e / cut-paper / claymation /
+low-poly; machines → synthwave / pixel / flat-vector; nature → low-poly / cut-paper / napkin; body → flat-vector /
+kawaii / chalkboard). Never repeat a topic from pick.py's `recent_topics`, the sheet, explainer/log.json or
+archive/videos.json (titles), even reworded. Never reuse a Zack D Films subject, script, character or scene. Content
+rules (content/voice.md): 13+, nothing gory, medical-advice, violent, tragic, political, religious, or about real
+living people. More ideas: `explainer/topics/zack-d-films-style-explainers.md`.
 Long videos: one bigger question walked through 4-6 chapters (history → how it works → a surprising detail → the
 numbers → why it matters today), each chapter with its own scenes.
 
@@ -97,8 +109,9 @@ python3 explainer/scripts/make_drop.py $W <id>   # pushes drop/<id>; the bot pic
 ```
 Then append a row to `explainer/log.json` — `{"date", "id", "kind", "style", "topic", "title", "seconds", "words"}` —
 and copy `story.js`, `script.txt`, `phrases.json`, `meta.json` into `explainer/made/<id>/` (small text files only,
-never video, audio, lib/ or templates/). Commit and push to main:
-`git add explainer/log.json explainer/made && git commit -m "explainer: <title>" && git pull --rebase && git push`.
+never video, audio, lib/ or templates/). Mark the sheet row made: `python3 explainer/scripts/pick.py --done <row id> <id>`
+(add `"sheet_id"` to the log row too). Commit and push to main:
+`git add explainer/log.json explainer/made explainer/topics/queue.csv && git commit -m "explainer: <title>" && git pull --rebase && git push`.
 
 ## If something breaks
 Fix it and carry on if you can (a bad frame, a long Short, a missing font). If the run can't finish (template
