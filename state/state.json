@@ -378,2344 +378,6 @@
     }
   },
   "videos": {
-    "2026-10-17-4": {
-      "topic": {
-        "title": "How Popcorn Pops: 135 PSI Inside One Kernel",
-        "angle": "'Didi ke Popcorn khatam ho gaye!' broke out at 8.3x on a popcorn moment, and 'what would you do?' (14.5x) shows a question opener carries; 'why does popcorn pop' answers a question everyone has with a visual slow-motion payoff.",
-        "format": "explainer",
-        "tone": "normal",
-        "virality_score": 6,
-        "trend_source": "Didi ke Popcorn khatam ho gaye! \ud83c\udf7f\ud83d\ude2d Mumma ka jugaad #shorts (8.3x, Unclassified); what would you do? (14.5x, The Question)",
-        "plan_id": "P2026-10-17-04"
-      },
-      "status": "published",
-      "by": "auto",
-      "updated": "2026-10-19T09:05:33.255999+00:00",
-      "redos": 0,
-      "package": {
-        "primary_keyword": "how popcorn pops",
-        "title": "How Popcorn Pops: 135 PSI Inside One Kernel",
-        "hook_text": "TINY KITCHEN EXPLOSION",
-        "thumbnail_text": "TINY STEAM BOMB",
-        "description": "Why does popcorn pop? Here's how popcorn pops, the popcorn science of steam building up to 135 PSI inside one kernel until the hull bursts.\n\nIn this Short: the water and starch inside a kernel, the hull that traps the steam, the 135 PSI pop, and why popcorn jumps.\n\nSources:\nhttps://www.popcorn.org/All-About-Popcorn/What-Makes-Popcorn-Pop",
-        "hashtags": [
-          "#shorts",
-          "#science",
-          "#popcorn",
-          "#funfacts",
-          "#didyouknow"
-        ],
-        "tags": [
-          "how popcorn pops",
-          "135 psi",
-          "popcorn science",
-          "how popcorn kernels pop",
-          "popcorn kernels",
-          "popcorn pressure",
-          "popcorn kernels popping",
-          "why does popcorn not pop",
-          "why does popcorn pop video",
-          "why does some popcorn not pop",
-          "why popcorn jumps",
-          "popcorn hull",
-          "food science",
-          "kitchen science",
-          "science explained"
-        ],
-        "pinned_comment": "Bonus fact: a kernel needs about fourteen percent moisture inside to pop well, which is why old, dried-out kernels often don't. What's your favorite popcorn topping?",
-        "scenes": [
-          {
-            "text": "Before a popcorn kernel pops, the pressure inside builds to about nine times the air around you. Here's why.",
-            "badge": "9X THE P",
-            "label": "9X PRESSURE",
-            "stock_queries": [
-              "popcorn kernels pan macro",
-              "corn kernels heating stove"
-            ],
-            "image_prompt": "Extreme macro close-up of golden corn kernels heating on a dark cast iron skillet, subtle heat haze shimmering over the glossy yellow skins, cinematic lighting.",
-            "stock_query": "popcorn kernels pan macro"
-          },
-          {
-            "text": "Let's look inside one tiny kernel. Each kernel holds a drop of water and soft starch, inside a tough shell called the hull.",
-            "badge": "",
-            "label": "INSIDE A KERNEL",
-            "stock_queries": [
-              "corn kernel macro cross section",
-              "single corn kernel zoom"
-            ],
-            "image_prompt": "Stylized 3D scientific cross-section diagram of a single corn kernel revealing translucent moisture droplets embedded within dense white starch, surrounded by a tough golden pericarp hull.",
-            "stock_query": "corn kernel macro cross section"
-          },
-          {
-            "text": "Heat it, and that water turns into steam. But the hull won't let the steam out.",
-            "badge": "",
-            "label": "TRAPPED STEAM",
-            "stock_queries": [
-              "steam rising cooking pan",
-              "hot oil sizzle pan macro"
-            ],
-            "image_prompt": "Extreme close-up of a single corn kernel sizzling in hot oil with delicate wisps of steam attempting to escape the hard outer shell, glowing amber backlight.",
-            "stock_query": "steam rising cooking pan"
-          },
-          {
-            "text": "So the kernel keeps heating, to around three hundred forty-seven degrees Fahrenheit. Inside, the starch turns into a hot, gooey gel.",
-            "badge": "",
-            "label": "347\u00b0F",
-            "stock_queries": [
-              "temperature gauge cooking",
-              "kernels sizzling in hot oil"
-            ],
-            "image_prompt": "Visual cutaway illustration of a corn kernel at 347 degrees Fahrenheit, the internal endosperm glowing molten white-gold and turning into a molten gel matrix under immense heat.",
-            "stock_query": "temperature gauge cooking"
-          },
-          {
-            "text": "The pressure climbs to about one hundred thirty-five pounds per square inch. Then, pop! The hull bursts.",
-            "badge": "",
-            "label": "135 PSI",
-            "stock_queries": [
-              "popcorn bursting slow motion",
-              "popcorn exploding slow motion"
-            ],
-            "image_prompt": "High-speed macro photography capturing the precise fraction of a second a popcorn hull cracks open, bright white molten starch erupting violently outward against a dark background.",
-            "stock_query": "popcorn bursting slow motion"
-          },
-          {
-            "text": "The starch puffs up and sets into that fluffy shape, up to fifty times bigger.",
-            "badge": "",
-            "label": "UP TO 50X BIGGER",
-            "stock_queries": [
-              "popcorn blooming slow motion",
-              "fresh popcorn expanding"
-            ],
-            "image_prompt": "Ultra-slow-motion capture of popped white corn foam solidifying mid-air into an intricate, fluffy cloud shape, glowing under dramatic studio spotlights.",
-            "stock_query": "popcorn blooming slow motion"
-          },
-          {
-            "text": "And the jump? The first starch out acts like a tiny leg kicking it up.",
-            "badge": "",
-            "label": "THE JUMP",
-            "stock_queries": [
-              "popcorn jumping out of pot",
-              "slow motion popcorn leaping"
-            ],
-            "image_prompt": "High-speed freeze-frame shot of an exploding popcorn piece kicking off the metallic pan surface, a starch 'leg' launching it upwards into the air.",
-            "stock_query": "popcorn jumping out of pot"
-          },
-          {
-            "text": "So that's why popcorn pops: trapped steam builds pressure until the hull gives way.",
-            "badge": "",
-            "label": "STEAM VS HULL",
-            "stock_queries": [
-              "fresh popped popcorn falling",
-              "bowl filling with popcorn"
-            ],
-            "image_prompt": "Overhead shot of freshly popped fluffy white popcorn raining down gently into a ceramic bowl, warm steam lingering in soft ambient light.",
-            "stock_query": "fresh popped popcorn falling"
-          },
-          {
-            "text": "What's your favorite popcorn topping? Tell me in the comments. And next time you hear that first pop, think about what happens before it.",
-            "badge": "",
-            "label": "THAT FIRST POP",
-            "stock_queries": [
-              "melted butter drizzled popcorn",
-              "popcorn seasoning sprinkle"
-            ],
-            "image_prompt": "Slow-motion food commercial shot of golden melted butter and fine salt cascading over a towering bowl of freshly popped popcorn, warm and appetizing.",
-            "stock_query": "melted butter drizzled popcorn"
-          }
-        ],
-        "key_facts": [
-          "Before popping, pressure inside a popcorn kernel reaches about 9 times atmospheric pressure (135 PSI).",
-          "Each kernel contains a small droplet of water surrounded by hard starch inside a tough outer shell called the hull.",
-          "Heating turns the trapped water into superheated steam that cannot escape the waterproof hull.",
-          "The kernel heats up to approximately 347 degrees Fahrenheit (175 degrees Celsius).",
-          "The intense heat turns the internal starch into a gelatinous, molten gel.",
-          "At approximately 135 PSI, the hull ruptures violently.",
-          "As the pressure drops instantly, the superheated gel inflates into airy foam that solidifies into a fluffy shape up to 50 times its original size.",
-          "Popcorn jumps because the initial burst of expanding starch pushes forcefully against the pan like a leg kicking off the ground."
-        ],
-        "format": "explainer",
-        "tone": "normal",
-        "category": "27",
-        "script": "Before a popcorn kernel pops, the pressure inside builds to about nine times the air around you. Here's why. Let's look inside one tiny kernel. Each kernel holds a drop of water and soft starch, inside a tough shell called the hull. Heat it, and that water turns into steam. But the hull won't let the steam out. So the kernel keeps heating, to around three hundred forty-seven degrees Fahrenheit. Inside, the starch turns into a hot, gooey gel. The pressure climbs to about one hundred thirty-five pounds per square inch. Then, pop! The hull bursts. The starch puffs up and sets into that fluffy shape, up to fifty times bigger. And the jump? The first starch out acts like a tiny leg kicking it up. So that's why popcorn pops: trapped steam builds pressure until the hull gives way. What's your favorite popcorn topping? Tell me in the comments. And next time you hear that first pop, think about what happens before it.",
-        "plan_id": "P2026-10-17-04",
-        "shot_plan": [
-          {
-            "subject": "popcorn kernel heating",
-            "queries": [
-              {
-                "q": "popcorn kernel",
-                "must": [
-                  "kernel"
-                ]
-              },
-              {
-                "q": "corn seed",
-                "must": [
-                  "corn"
-                ]
-              },
-              {
-                "q": "popcorn",
-                "must": [
-                  "popcorn"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "kernel close up",
-            "queries": [
-              {
-                "q": "kernel macro",
-                "must": [
-                  "kernel"
-                ]
-              },
-              {
-                "q": "corn grain",
-                "must": [
-                  "grain"
-                ]
-              },
-              {
-                "q": "popcorn kernel",
-                "must": [
-                  "kernel"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "steam rising",
-            "queries": [
-              {
-                "q": "steam boiling",
-                "must": [
-                  "steam"
-                ]
-              },
-              {
-                "q": "water vapor",
-                "must": [
-                  "water"
-                ]
-              },
-              {
-                "q": "heat steam",
-                "must": [
-                  "heat"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "heating pan",
-            "queries": [
-              {
-                "q": "pan cooking",
-                "must": [
-                  "pan"
-                ]
-              },
-              {
-                "q": "hot stove",
-                "must": [
-                  "stove"
-                ]
-              },
-              {
-                "q": "cooking oil",
-                "must": [
-                  "oil"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "popcorn popping",
-            "queries": [
-              {
-                "q": "popcorn popping",
-                "must": [
-                  "popcorn"
-                ]
-              },
-              {
-                "q": "corn explosion",
-                "must": [
-                  "corn"
-                ]
-              },
-              {
-                "q": "kernel popping",
-                "must": [
-                  "kernel"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "fluffy popcorn",
-            "queries": [
-              {
-                "q": "popped popcorn",
-                "must": [
-                  "popcorn"
-                ]
-              },
-              {
-                "q": "white popcorn",
-                "must": [
-                  "popcorn"
-                ]
-              },
-              {
-                "q": "snack food",
-                "must": [
-                  "snack"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "popcorn jumping",
-            "queries": [
-              {
-                "q": "popcorn bouncing",
-                "must": [
-                  "popcorn"
-                ]
-              },
-              {
-                "q": "kernel jumping",
-                "must": [
-                  "kernel"
-                ]
-              },
-              {
-                "q": "corn moving",
-                "must": [
-                  "corn"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "popcorn kernel",
-            "queries": [
-              {
-                "q": "single kernel",
-                "must": [
-                  "kernel"
-                ]
-              },
-              {
-                "q": "corn kernel",
-                "must": [
-                  "kernel"
-                ]
-              },
-              {
-                "q": "popcorn",
-                "must": [
-                  "popcorn"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "bowl of popcorn",
-            "queries": [
-              {
-                "q": "popcorn bowl",
-                "must": [
-                  "popcorn"
-                ]
-              },
-              {
-                "q": "bowl snack",
-                "must": [
-                  "bowl"
-                ]
-              },
-              {
-                "q": "movie snack",
-                "must": [
-                  "snack"
-                ]
-              }
-            ]
-          }
-        ],
-        "broll": [
-          "popcorn",
-          "corn",
-          "kernel"
-        ],
-        "visual_style": "extreme macro slow-motion footage of popcorn kernels heating and popping, focusing on physics and internal pressure",
-        "visual_refs": [
-          "Why Popcorn Kernels Pop \ud83e\udd28",
-          "How popcorn pops in slow motion and macro #urday #macro #satisfy #closeup",
-          "What makes Popcorn Pop? - Slow Motion Popping",
-          "Popping Corn on the Cobb is So Cool!",
-          "Popping Popcorn at 30,000 FPS in Ultra Slow Motion",
-          "Can you boil popcorn? \ud83e\udd14"
-        ],
-        "voice": "en-AU-WilliamMultilingualNeural",
-        "visual_report": {
-          "shots": 16,
-          "checked": 16,
-          "unchecked": 0,
-          "filler": 1,
-          "ai": 0
-        }
-      },
-      "credits": [
-        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-AU-WilliamMultilingualNeural).",
-        "Stock footage/photos (Pexels/Pixabay Content License): Pixabay (Pixabay) https://pixabay.com/videos/id-2742/; jLasWilson (Pixabay) https://pixabay.com/videos/id-2793/; jLasWilson (Pixabay) https://pixabay.com/videos/id-2792/; Coernl (Pixabay) https://pixabay.com/photos/corn-corn-on-the-cob-corn-kernels-5199393/; mycuppatea (Pixabay) https://pixabay.com/videos/id-360622/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-381333/; groovelanddesigns (Pixabay) https://pixabay.com/videos/id-37441/; MRubs (Pixabay) https://pixabay.com/videos/id-128186/; MRubs (Pixabay) https://pixabay.com/videos/id-128189/; jLasWilson (Pixabay) https://pixabay.com/videos/id-2795/; Vogue0987 (Pixabay) https://pixabay.com/videos/id-301691/; PublicDomainPictures (Pixabay) https://pixabay.com/photos/popcorn-corn-kernel-kernels-burst-21194/; padrinan (Pixabay) https://pixabay.com/videos/id-20738/; jeffjacobs1990 (Pixabay) https://pixabay.com/videos/id-93090/",
-        "Tony Webster from Minneapolis, Minnesota, United States / Wikimedia Commons (CC BY 2.0) https://commons.wikimedia.org/wiki/File:Air-Popped_Popcorn_(45813595124).jpg"
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-17",
-        "name": "2026-10-17-4-v0.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-17",
-        "name": "2026-10-17-4-v0-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,050 --> 00:00:02,427\nBefore a popcorn kernel pops the pressure\n\n2\n00:00:02,427 --> 00:00:04,315\ninside builds to about nine times the\n\n3\n00:00:04,315 --> 00:00:06,986\nair around you Here's why Let's look\n\n4\n00:00:06,986 --> 00:00:09,866\ninside one tiny kernel Each kernel holds\n\n5\n00:00:09,866 --> 00:00:11,851\na drop of water and soft starch\n\n6\n00:00:11,851 --> 00:00:13,923\ninside a tough shell called the hull\n\n7\n00:00:13,923 --> 00:00:16,030\nHeat it and that water turns into\n\n8\n00:00:16,030 --> 00:00:18,065\nsteam But the hull won't let the\n\n9\n00:00:18,065 --> 00:00:20,785\nsteam out So the kernel keeps heating\n\n10\n00:00:20,785 --> 00:00:22,758\nto around three hundred forty-seven degrees\n\n11\n00:00:22,758 --> 00:00:25,896\nFahrenheit Inside the starch turns into a\n\n12\n00:00:25,896 --> 00:00:28,653\nhot gooey gel The pressure climbs to\n\n13\n00:00:28,653 --> 00:00:30,761\nabout one hundred thirty-five pounds per square\n\n14\n00:00:30,761 --> 00:00:34,499\ninch Then pop The hull bursts The\n\n15\n00:00:34,499 --> 00:00:36,263\nstarch puffs up and sets into that\n\n16\n00:00:36,263 --> 00:00:38,972\nfluffy shape up to fifty times bigger\n\n17\n00:00:38,972 --> 00:00:41,300\nAnd the jump The first starch out\n\n18\n00:00:41,300 --> 00:00:42,795\nacts like a tiny leg kicking it\n\n19\n00:00:42,795 --> 00:00:45,589\nup So that's why popcorn pops trapped\n\n20\n00:00:45,589 --> 00:00:47,501\nsteam builds pressure until the hull gives\n\n21\n00:00:47,501 --> 00:00:50,761\nway What's your favorite popcorn topping Tell\n\n22\n00:00:50,761 --> 00:00:52,746\nme in the comments And next time\n\n23\n00:00:52,746 --> 00:00:54,719\nyou hear that first pop think about\n\n24\n00:00:54,719 --> 00:00:56,259\nwhat happens before it\n",
-      "tg_msg": 491,
-      "opts_msg": 493,
-      "approved_by": "auto",
-      "quota_note": "2026-10-19",
-      "description_full": "Why does popcorn pop? Here's how popcorn pops, the popcorn science of steam building up to 135 PSI inside one kernel until the hull bursts.\n\nIn this Short: the water and starch inside a kernel, the hull that traps the steam, the 135 PSI pop, and why popcorn jumps.\n\nSources:\nhttps://www.popcorn.org/All-About-Popcorn/What-Makes-Popcorn-Pop\n\n#shorts #science #popcorn #funfacts #didyouknow\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-AU-WilliamMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): Pixabay (Pixabay) https://pixabay.com/videos/id-2742/; jLasWilson (Pixabay) https://pixabay.com/videos/id-2793/; jLasWilson (Pixabay) https://pixabay.com/videos/id-2792/; Coernl (Pixabay) https://pixabay.com/photos/corn-corn-on-the-cob-corn-kernels-5199393/; mycuppatea (Pixabay) https://pixabay.com/videos/id-360622/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-381333/; groovelanddesigns (Pixabay) https://pixabay.com/videos/id-37441/; MRubs (Pixabay) https://pixabay.com/videos/id-128186/; MRubs (Pixabay) https://pixabay.com/videos/id-128189/; jLasWilson (Pixabay) https://pixabay.com/videos/id-2795/; Vogue0987 (Pixabay) https://pixabay.com/videos/id-301691/; PublicDomainPictures (Pixabay) https://pixabay.com/photos/popcorn-corn-kernel-kernels-burst-21194/; padrinan (Pixabay) https://pixabay.com/videos/id-20738/; jeffjacobs1990 (Pixabay) https://pixabay.com/videos/id-93090/\nTony Webster from Minneapolis, Minnesota, United States / Wikimedia Commons (CC BY 2.0) https://commons.wikimedia.org/wiki/File:Air-Popped_Popcorn_(45813595124).jpg\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/7Nr2grgr7WA",
-          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-19T09:05:33.256023+00:00",
-      "slot": "2026-10-19T19:15:00+00:00"
-    },
-    "2026-10-18-1": {
-      "topic": {
-        "title": "Why New Baseballs Get 30 Seconds of Mud",
-        "angle": "Today's only big classified outlier, 'Why Do Golfers Pour Sand After Every Shot?' (25.5x, The Question), asks why a sport does a strange ritual, and this is the same shape on a ritual almost nobody has explained.",
-        "format": "explainer",
-        "tone": "normal",
-        "virality_score": 8,
-        "trend_source": "Why Do Golfers Pour Sand After Every Shot? #youtubeshorts #shorts (25.5x, The Question)",
-        "plan_id": "P2026-10-18-01"
-      },
-      "status": "published",
-      "by": "auto",
-      "updated": "2026-10-19T09:05:43.402589+00:00",
-      "redos": 0,
-      "package": {
-        "primary_keyword": "baseball rubbing mud",
-        "title": "Why New Baseballs Get 30 Seconds of Mud",
-        "hook_text": "NEW BALL, DIRTY SECRET",
-        "thumbnail_text": "SECRET RIVER GOO",
-        "description": "Why do umpires rub mud on baseballs? Every new MLB baseball gets baseball rubbing mud for at least thirty seconds, because the shiny new ball is too slick for pitchers to grip.\n\nIn this Short: why new baseballs are slippery, what umpires tried before, the 1938 Lena Blackburne rubbing mud from a secret New Jersey riverbank, and why MLB still uses it.\n\nSources:\nhttps://en.wikipedia.org/wiki/Baseball_rubbing_mud\nhttps://mentalfloss.com/article/559416/why-new-jersey-mudhole-contains-baseballs-dirtiest-secret\nhttps://baseballhall.org/discover/lena-blackburne-rubbing-mud-a-secret-of-the-game",
-        "hashtags": [
-          "#shorts",
-          "#baseball",
-          "#mlb",
-          "#funfacts",
-          "#didyouknow"
-        ],
-        "tags": [
-          "baseball rubbing mud",
-          "lena blackburne baseball rubbing mud",
-          "lena blackburne rubbing mud",
-          "why do umpires rub mud on baseballs",
-          "baseball mud new jersey",
-          "mlb mud",
-          "baseball mud",
-          "mlb magic mud",
-          "baseball mud guy",
-          "mlb mudding baseballs",
-          "delaware river mud",
-          "lena blackburne mud",
-          "umpire rubbing baseballs",
-          "mlb facts",
-          "baseball facts",
-          "why are baseballs muddy"
-        ],
-        "pinned_comment": "Bonus fact: some NFL teams use the same kind of mud to prep footballs. Have you ever noticed new MLB baseballs look a little brown before the first pitch?",
-        "scenes": [
-          {
-            "text": "Did you know every Major League baseball gets rubbed with mud before you ever see a pitch? But why?",
-            "badge": "MUD SECR",
-            "label": "EVERY BALL GETS MUDDY?",
-            "stock_queries": [
-              "baseball spinning slow motion",
-              "baseball pitcher gripping ball"
-            ],
-            "image_prompt": "Close-up of a pristine white baseball spinning toward the camera under bright stadium floodlights, vertical format 9:16, cinematic sports photography.",
-            "stock_query": "baseball spinning slow motion"
-          },
-          {
-            "text": "Here's the mud, and where it comes from. New baseballs are shiny and slippery, like a wet bar of soap. Pitchers can't grip that gloss.",
-            "badge": "SLICK GR",
-            "label": "SHINY = SLIPPERY",
-            "stock_queries": [
-              "shiny new baseball",
-              "hands holding clean baseball"
-            ],
-            "image_prompt": "Studio macro shot of a glossy, reflective brand-new white leather baseball sitting under dramatic studio lighting showing smooth slick texture, vertical 9:16.",
-            "stock_query": "shiny new baseball"
-          },
-          {
-            "text": "So every ball has to be rubbed until the shine is gone. People once tried tobacco juice, shoe polish, even bleacher dirt.",
-            "badge": "OLD FIXE",
-            "label": "RULE: GLOSS OFF",
-            "stock_queries": [
-              "vintage baseball equipment",
-              "vintage baseball dugout"
-            ],
-            "image_prompt": "Vintage retro 1930s baseball dugout bench with weathered leather baseball gloves, a wooden bat, and jars of dark shoe polish and dirt, sepia toned, vertical 9:16.",
-            "stock_query": "vintage baseball equipment"
-          },
-          {
-            "text": "Then, in nineteen thirty-eight, a coach named Lena Blackburne found a special mud near a New Jersey river.",
-            "badge": "1938",
-            "label": "SECRET MUD",
-            "stock_queries": [
-              "muddy riverbank water",
-              "misty river sunrise"
-            ],
-            "image_prompt": "A quiet misty riverbank along a secluded New Jersey waterway with thick dark silky mud on the shore surrounded by tall reeds, vertical 9:16 atmospheric photography.",
-            "stock_query": "muddy riverbank water"
-          },
-          {
-            "text": "It's said to feel like chocolate pudding and cold cream. The exact spot is still a secret.",
-            "badge": "TEXTURE",
-            "label": "LOCATION: SECRET",
-            "stock_queries": [
-              "hands rubbing dark mud",
-              "wet dark mud texture"
-            ],
-            "image_prompt": "Close-up of hands rubbing rich ultra-fine dark brown river mud between fingers, creamy and smooth texture like pudding, macro detail, vertical 9:16.",
-            "stock_query": "hands rubbing dark mud"
-          },
-          {
-            "text": "Each team gets about ten pounds a season, and every ball gets at least thirty seconds of rubbing.",
-            "badge": "30 SECON",
-            "label": "10 LBS PER TEAM",
-            "stock_queries": [
-              "hands rubbing mud on baseball",
-              "baseball equipment bucket"
-            ],
-            "image_prompt": "Close-up of an equipment manager's hands firmly rubbing dark river mud onto a new white baseball, turning the leather dull and tacky, vertical 9:16.",
-            "stock_query": "hands rubbing mud on baseball"
-          },
-          {
-            "text": "That's why: the mud gives pitchers grip, and nothing's replaced it yet.",
-            "badge": "PERFECT ",
-            "label": "GRIP WINS",
-            "stock_queries": [
-              "baseball pitcher throwing fastball",
-              "pitcher mound baseball stadium"
-            ],
-            "image_prompt": "A Major League pitcher on the mound in mid-throw, fingers gripping tightly onto the red seams of a dull mud-rubbed baseball, vertical 9:16 dynamic action shot.",
-            "stock_query": "baseball pitcher throwing fastball"
-          },
-          {
-            "text": "Would you trust the mud, or invent something better? Tell me in the comments. And next time you watch a pitch, remember that ball got muddy first.",
-            "badge": "YOUR TUR",
-            "label": "WATCH THE NEXT PITCH",
-            "stock_queries": [
-              "baseball flying past batter",
-              "baseball game slow motion"
-            ],
-            "image_prompt": "Slow-motion action perspective of a baseball crossing home plate past an out-of-focus batter, stadium lights glowing in the evening air, vertical 9:16.",
-            "stock_query": "baseball flying past batter"
-          }
-        ],
-        "key_facts": [
-          "Every Major League baseball is rubbed with mud before game use to remove slickness.",
-          "Brand new factory baseballs have a glossy, slippery sheen that makes them hard for pitchers to grip.",
-          "Early teams experimented with tobacco juice, shoe polish, and bleacher dirt to dull the shine.",
-          "In 1938, coach Lena Blackburne discovered a unique silt mud along a New Jersey riverbank that perfected the process.",
-          "The mud is uniquely fine and described as feeling like chocolate pudding and cold cream.",
-          "The exact geographic location where the mud is harvested remains a closely guarded secret.",
-          "Each MLB club receives roughly 10 pounds of the mud per season.",
-          "Each individual game ball is rubbed for at least 30 seconds before use."
-        ],
-        "format": "explainer",
-        "tone": "normal",
-        "category": "27",
-        "script": "Did you know every Major League baseball gets rubbed with mud before you ever see a pitch? But why? Here's the mud, and where it comes from. New baseballs are shiny and slippery, like a wet bar of soap. Pitchers can't grip that gloss. So every ball has to be rubbed until the shine is gone. People once tried tobacco juice, shoe polish, even bleacher dirt. Then, in nineteen thirty-eight, a coach named Lena Blackburne found a special mud near a New Jersey river. It's said to feel like chocolate pudding and cold cream. The exact spot is still a secret. Each team gets about ten pounds a season, and every ball gets at least thirty seconds of rubbing. That's why: the mud gives pitchers grip, and nothing's replaced it yet. Would you trust the mud, or invent something better? Tell me in the comments. And next time you watch a pitch, remember that ball got muddy first.",
-        "plan_id": "P2026-10-18-01",
-        "shot_plan": [
-          {
-            "subject": "baseball rubbed with mud",
-            "queries": [
-              {
-                "q": "baseball mud",
-                "must": [
-                  "baseball",
-                  "mud"
-                ]
-              },
-              {
-                "q": "holding baseball",
-                "must": [
-                  "baseball"
-                ]
-              },
-              {
-                "q": "baseball game",
-                "must": [
-                  "baseball"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "shiny new baseball",
-            "queries": [
-              {
-                "q": "shiny baseball",
-                "must": [
-                  "baseball"
-                ]
-              },
-              {
-                "q": "wet soap",
-                "must": [
-                  "soap"
-                ]
-              },
-              {
-                "q": "slippery surface",
-                "must": [
-                  "water"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "rubbing mud on baseball",
-            "queries": [
-              {
-                "q": "rubbing baseball",
-                "must": [
-                  "baseball"
-                ]
-              },
-              {
-                "q": "shoe polish",
-                "must": [
-                  "polish"
-                ]
-              },
-              {
-                "q": "dirt ground",
-                "must": [
-                  "dirt"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "river bank and mud",
-            "queries": [
-              {
-                "q": "river bank",
-                "must": [
-                  "river"
-                ]
-              },
-              {
-                "q": "muddy water",
-                "must": [
-                  "mud"
-                ]
-              },
-              {
-                "q": "river mud",
-                "must": [
-                  "river"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "jar of dark mud",
-            "queries": [
-              {
-                "q": "jar of mud",
-                "must": [
-                  "jar",
-                  "mud"
-                ]
-              },
-              {
-                "q": "chocolate pudding",
-                "must": [
-                  "chocolate"
-                ]
-              },
-              {
-                "q": "dark cream",
-                "must": [
-                  "cream"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "hands rubbing baseballs",
-            "queries": [
-              {
-                "q": "rubbing baseballs",
-                "must": [
-                  "baseball"
-                ]
-              },
-              {
-                "q": "hands mud",
-                "must": [
-                  "hands",
-                  "mud"
-                ]
-              },
-              {
-                "q": "baseball equipment",
-                "must": [
-                  "baseball"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "pitcher gripping baseball",
-            "queries": [
-              {
-                "q": "pitcher grip",
-                "must": [
-                  "pitcher",
-                  "baseball"
-                ]
-              },
-              {
-                "q": "baseball hand",
-                "must": [
-                  "baseball"
-                ]
-              },
-              {
-                "q": "pitcher hand",
-                "must": [
-                  "pitcher"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "pitcher throwing baseball on field",
-            "queries": [
-              {
-                "q": "pitcher throwing",
-                "must": [
-                  "pitcher"
-                ]
-              },
-              {
-                "q": "baseball pitch",
-                "must": [
-                  "baseball"
-                ]
-              },
-              {
-                "q": "baseball stadium",
-                "must": [
-                  "stadium"
-                ]
-              }
-            ]
-          }
-        ],
-        "broll": [
-          "baseball",
-          "mud",
-          "pitcher"
-        ],
-        "visual_style": "Clean close-up shots of baseball equipment, mud, and hands rubbing balls, matching viral baseball fact shorts with bright field greens and warm tones.",
-        "visual_refs": [
-          "Why Every MLB Baseball Gets Rubbed With Secret Mud",
-          "Is He Out of the Baseline? #baseball #shorts #umpire",
-          "UNC Baseball Student Manager Grayson Guy Mudding Baseballs before Super Regional - 7.08.25",
-          "Bryce had to make sure that Acu\u00f1a was getting heckled correctly \ud83e\udd23#shorts",
-          "The BEST Advice For ANY Baseball Player",
-          "HACK to Break in a NEW Baseball Glove in 20 Minutes! #shorts"
-        ],
-        "voice": "en-US-EmmaMultilingualNeural",
-        "visual_report": {
-          "shots": 12,
-          "checked": 12,
-          "unchecked": 0,
-          "filler": 2,
-          "ai": 0
-        }
-      },
-      "credits": [
-        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-EmmaMultilingualNeural).",
-        "Stock footage/photos (Pexels/Pixabay Content License): dtneatline (Pixabay) https://pixabay.com/photos/baseball-hand-game-charity-sports-4719304/; tommyvideo (Pixabay) https://pixabay.com/videos/id-5614/; tommyvideo (Pixabay) https://pixabay.com/videos/id-5077/; abdulmoeedanwar13 (Pixabay) https://pixabay.com/videos/id-184211/; FlickrVideos (Pixabay) https://pixabay.com/videos/id-403/; KeithJJ (Pixabay) https://pixabay.com/photos/baseball-pitcher-texas-throw-pitch-1520862/; KeithJJ (Pixabay) https://pixabay.com/photos/baseball-pitcher-youth-league-mound-1625453/; 12019 (Pixabay) https://pixabay.com/photos/baseball-sports-pitcher-mound-89612/",
-        "Unknown / Wikimedia Commons (CC0) https://commons.wikimedia.org/wiki/File:Cosmetic_Jar_with_a_Mud_Stopper_MET_LC-35_3_23a_b_EGDP025642.jpg",
-        "Unknown / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:Liska%27s_Showing_Grip_-_DPLA_-_6e550bc0c1787fdd9907520b2f90203f.jpg"
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-18",
-        "name": "2026-10-18-1-v0.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-18",
-        "name": "2026-10-18-1-v0-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,095 --> 00:00:02,188\nDid you know every Major League baseball\n\n2\n00:00:02,188 --> 00:00:04,062\ngets rubbed with mud before you ever\n\n3\n00:00:04,062 --> 00:00:06,821\nsee a pitch But why Here's the\n\n4\n00:00:06,821 --> 00:00:09,552\nmud and where it comes from New\n\n5\n00:00:09,552 --> 00:00:12,242\nbaseballs are shiny and slippery like a\n\n6\n00:00:12,242 --> 00:00:14,905\nwet bar of soap Pitchers can't grip\n\n7\n00:00:14,905 --> 00:00:17,500\nthat gloss So every ball has to\n\n8\n00:00:17,500 --> 00:00:19,973\nbe rubbed until the shine is gone\n\n9\n00:00:19,973 --> 00:00:22,731\nPeople once tried tobacco juice shoe polish\n\n10\n00:00:22,731 --> 00:00:26,236\neven bleacher dirt Then in nineteen thirty-eight\n\n11\n00:00:26,236 --> 00:00:28,220\na coach named Lena Blackburne found a\n\n12\n00:00:28,220 --> 00:00:30,897\nspecial mud near a New Jersey river\n\n13\n00:00:30,897 --> 00:00:32,772\nIt's said to feel like chocolate pudding\n\n14\n00:00:32,772 --> 00:00:35,217\nand cold cream The exact spot is\n\n15\n00:00:35,217 --> 00:00:37,745\nstill a secret Each team gets about\n\n16\n00:00:37,745 --> 00:00:40,109\nten pounds a season and every ball\n\n17\n00:00:40,109 --> 00:00:42,649\ngets at least thirty seconds of rubbing\n\n18\n00:00:42,649 --> 00:00:45,788\nThat's why the mud gives pitchers grip\n\n19\n00:00:45,788 --> 00:00:48,193\nand nothing's replaced it yet Would you\n\n20\n00:00:48,193 --> 00:00:51,413\ntrust the mud or invent something better\n\n21\n00:00:51,413 --> 00:00:53,723\nTell me in the comments And next\n\n22\n00:00:53,723 --> 00:00:55,870\ntime you watch a pitch remember that\n\n23\n00:00:55,870 --> 00:00:57,764\nball got muddy first\n",
-      "tg_msg": 512,
-      "opts_msg": 514,
-      "approved_by": "auto",
-      "quota_note": "2026-10-19",
-      "description_full": "Why do umpires rub mud on baseballs? Every new MLB baseball gets baseball rubbing mud for at least thirty seconds, because the shiny new ball is too slick for pitchers to grip.\n\nIn this Short: why new baseballs are slippery, what umpires tried before, the 1938 Lena Blackburne rubbing mud from a secret New Jersey riverbank, and why MLB still uses it.\n\nSources:\nhttps://en.wikipedia.org/wiki/Baseball_rubbing_mud\nhttps://mentalfloss.com/article/559416/why-new-jersey-mudhole-contains-baseballs-dirtiest-secret\nhttps://baseballhall.org/discover/lena-blackburne-rubbing-mud-a-secret-of-the-game\n\n#shorts #baseball #mlb #funfacts #didyouknow\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-EmmaMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): dtneatline (Pixabay) https://pixabay.com/photos/baseball-hand-game-charity-sports-4719304/; tommyvideo (Pixabay) https://pixabay.com/videos/id-5614/; tommyvideo (Pixabay) https://pixabay.com/videos/id-5077/; abdulmoeedanwar13 (Pixabay) https://pixabay.com/videos/id-184211/; FlickrVideos (Pixabay) https://pixabay.com/videos/id-403/; KeithJJ (Pixabay) https://pixabay.com/photos/baseball-pitcher-texas-throw-pitch-1520862/; KeithJJ (Pixabay) https://pixabay.com/photos/baseball-pitcher-youth-league-mound-1625453/; 12019 (Pixabay) https://pixabay.com/photos/baseball-sports-pitcher-mound-89612/\nUnknown / Wikimedia Commons (CC0) https://commons.wikimedia.org/wiki/File:Cosmetic_Jar_with_a_Mud_Stopper_MET_LC-35_3_23a_b_EGDP025642.jpg\nUnknown / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:Liska%27s_Showing_Grip_-_DPLA_-_6e550bc0c1787fdd9907520b2f90203f.jpg\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/56uF8wBdnZI",
-          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-19T09:05:43.402606+00:00",
-      "slot": "2026-10-19T23:15:00+00:00"
-    },
-    "2026-10-18-2": {
-      "topic": {
-        "title": "Top 5 Words Brits and Americans Mix Up \ud83d\ude02",
-        "angle": "The top outliers today, like 'Jugadu Student in School Ram Leela' (418.1x) and 'So THAT'S why she was on the ceiling' (60.0x), are kind, relatable comedy built on one everyday mix-up, and this is that in word form with a countdown.",
-        "format": "funny",
-        "tone": "funny",
-        "virality_score": 7,
-        "trend_source": "Jugadu Student in School Ram Leela (418.1x, Unclassified); So THAT'S why she was on the ceiling... (60.0x, Unclassified)",
-        "plan_id": "P2026-10-18-02"
-      },
-      "status": "published",
-      "by": "auto",
-      "updated": "2026-10-19T09:05:54.471432+00:00",
-      "redos": 0,
-      "package": {
-        "primary_keyword": "british vs american english",
-        "title": "Top 5 Words Brits and Americans Mix Up \ud83d\ude02",
-        "hook_text": "SAME LANGUAGE? NOPE",
-        "thumbnail_text": "NICE PANTS?",
-        "description": "Five British vs American English words that mean totally different things, from boot and chips to jumper, biscuit and pants. UK vs US words with different meanings that Brits and Americans mix up every day.\n\nIn this Short: a funny Top 5 countdown of words with different meanings in British and American English.\n\nSources:\nhttps://www.mentalfloss.com/language/words/words-different-meanings-american-and-british-english\nhttps://www.upworthy.com/14-american-vs-british-words-ex1/",
-        "hashtags": [
-          "#shorts",
-          "#english",
-          "#ukvsus",
-          "#funny"
-        ],
-        "tags": [
-          "british vs american english",
-          "british vs american english words",
-          "uk vs us words",
-          "uk vs us words funny",
-          "uk vs us english words",
-          "british vs american words funny",
-          "british vs american english funny",
-          "american english vs british english funny",
-          "british english vs american english words",
-          "british vs us words",
-          "british vs american words",
-          "words with different meanings",
-          "british and american english words",
-          "english words with different meaning",
-          "british vs american english comedy"
-        ],
-        "pinned_comment": "Bonus: in the UK a trolley is a shopping cart, and in the US it rides on rails. Which one do you say, chips or crisps?",
-        "scenes": [
-          {
-            "text": "Before you visit the UK, why should you never compliment someone's pants? Here are five words that flip meaning over there.",
-            "badge": "",
-            "label": "NEVER SAY THIS",
-            "stock_queries": [
-              "london double decker bus",
-              "british and american flags waving"
-            ],
-            "image_prompt": "A bustling London street featuring a classic red double-decker bus driving past historic stone buildings under an overcast sky, cinematic composition, hyperrealistic.",
-            "stock_query": "london double decker bus"
-          },
-          {
-            "text": "Number five, boot. In America, it's a shoe. In Britain, it's also your car's trunk. So if it's in the boot, check the car.",
-            "badge": "",
-            "label": "#5 BOOT = TRUNK",
-            "stock_queries": [
-              "car trunk opening",
-              "leather boots walking puddle"
-            ],
-            "image_prompt": "Side-by-side conceptual image showing heavy leather hiking boots stepping outdoors on the left, and an open car trunk with luggage on the right, high detail, studio lighting.",
-            "stock_query": "car trunk opening"
-          },
-          {
-            "text": "Number four, chips. In London, chips are hot fries. The bagged ones are crisps.",
-            "badge": "",
-            "label": "#4 CHIPS = FRIES",
-            "stock_queries": [
-              "basket hot french fries",
-              "bag potato chips snack"
-            ],
-            "image_prompt": "A metal wire basket filled with hot golden thick-cut chips alongside an open shiny foil snack bag filled with thin crispy potato chips, commercial food photography style.",
-            "stock_query": "basket hot french fries"
-          },
-          {
-            "text": "Number three, jumper. In the UK it's a sweater. In the US, a sleeveless dress. So Grandma knitted me a jumper means two very different things.",
-            "badge": "",
-            "label": "#3 JUMPER = SWEATER",
-            "stock_queries": [
-              "knitted wool sweater closeup",
-              "elderly hands knitting yarn"
-            ],
-            "image_prompt": "Elderly hands carefully knitting a warm, cozy patterned woolen jumper sweater using wooden needles and soft yarn, warm and inviting atmosphere.",
-            "stock_query": "knitted wool sweater closeup"
-          },
-          {
-            "text": "Number two, biscuit. In Britain, it's a cookie you dunk in tea. In America, it's a fluffy bread roll. Good luck dunking that.",
-            "badge": "",
-            "label": "#2 BISCUIT",
-            "stock_queries": [
-              "cookie dunking cup tea",
-              "baked buttermilk biscuits oven"
-            ],
-            "image_prompt": "A sweet circular biscuit cookie dipping into a classic British teacup filled with milky tea, beside a warm basket of flaky Southern American buttermilk bread rolls.",
-            "stock_query": "cookie dunking cup tea"
-          },
-          {
-            "text": "And number one, pants. In America, pants go on your legs. In Britain, pants are underwear. The leg ones are trousers.",
-            "badge": "",
-            "label": "#1 PANTS = UNDERWEAR",
-            "stock_queries": [
-              "person walking in denim jeans",
-              "underwear hanging on clothesline"
-            ],
-            "image_prompt": "An outdoor laundry line holding classic blue denim jeans hanging next to bright colorful cotton boxer shorts and underwear, bright clear sunny day.",
-            "stock_query": "person walking in denim jeans"
-          },
-          {
-            "text": "So nice pants in London sounds like you can see their underwear.",
-            "badge": "",
-            "label": "SAY TROUSERS",
-            "stock_queries": [
-              "rack of folded trousers in store",
-              "two friends laughing awkwardly street"
-            ],
-            "image_prompt": "A neatly organized boutique clothing rack displaying smart, tailored formal trousers and slacks, soft retail lighting, sharp focus.",
-            "stock_query": "rack of folded trousers in store"
-          },
-          {
-            "text": "Which word got you, boot, chips, jumper, biscuit or pants? Tell me in the comments. And in the UK, just compliment their trousers.",
-            "badge": "",
-            "label": "ALWAYS TROUSERS",
-            "stock_queries": [
-              "big ben westminster london evening",
-              "friends talking at cafe table"
-            ],
-            "image_prompt": "Iconic view of Big Ben and the Houses of Parliament illuminated at dusk in London, with warm light trails from traffic crossing Westminster Bridge.",
-            "stock_query": "big ben westminster london evening"
-          }
-        ],
-        "key_facts": [
-          "In the UK, 'boot' refers to the trunk of a car, whereas in the US it refers primarily to footwear.",
-          "In British English, 'chips' refer to thick-cut hot french fries, while bagged potato chips are called 'crisps'.",
-          "In the UK, a 'jumper' is a knitted pullover sweater, while in American English it often refers to a sleeveless pinafore dress.",
-          "A British 'biscuit' is equivalent to an American cookie, whereas an American 'biscuit' is a flaky, savory or buttery quick bread roll.",
-          "In the UK, 'pants' refers exclusively to underwear, while outerwear for legs is termed 'trousers'."
-        ],
-        "format": "funny",
-        "tone": "funny",
-        "category": "23",
-        "script": "Before you visit the UK, why should you never compliment someone's pants? Here are five words that flip meaning over there. Number five, boot. In America, it's a shoe. In Britain, it's also your car's trunk. So if it's in the boot, check the car. Number four, chips. In London, chips are hot fries. The bagged ones are crisps. Number three, jumper. In the UK it's a sweater. In the US, a sleeveless dress. So Grandma knitted me a jumper means two very different things. Number two, biscuit. In Britain, it's a cookie you dunk in tea. In America, it's a fluffy bread roll. Good luck dunking that. And number one, pants. In America, pants go on your legs. In Britain, pants are underwear. The leg ones are trousers. So nice pants in London sounds like you can see their underwear. Which word got you, boot, chips, jumper, biscuit or pants? Tell me in the comments. And in the UK, just compliment their trousers.",
-        "plan_id": "P2026-10-18-02",
-        "shot_plan": [
-          {
-            "subject": "pants",
-            "queries": [
-              {
-                "q": "trouser pants clothing",
-                "must": [
-                  "pants"
-                ]
-              },
-              {
-                "q": "apparel pants",
-                "must": [
-                  "clothing"
-                ]
-              },
-              {
-                "q": "wardrobe item",
-                "must": [
-                  "garment"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "car trunk",
-            "queries": [
-              {
-                "q": "car boot trunk",
-                "must": [
-                  "trunk"
-                ]
-              },
-              {
-                "q": "vehicle boot",
-                "must": [
-                  "car"
-                ]
-              },
-              {
-                "q": "automobile storage",
-                "must": [
-                  "vehicle"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "french fries",
-            "queries": [
-              {
-                "q": "hot french fries",
-                "must": [
-                  "fries"
-                ]
-              },
-              {
-                "q": "potato chips snacks",
-                "must": [
-                  "chips"
-                ]
-              },
-              {
-                "q": "fast food",
-                "must": [
-                  "food"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "sweater jumper",
-            "queries": [
-              {
-                "q": "knitted wool sweater",
-                "must": [
-                  "sweater"
-                ]
-              },
-              {
-                "q": "winter jumper",
-                "must": [
-                  "clothing"
-                ]
-              },
-              {
-                "q": "knitted garment",
-                "must": [
-                  "wool"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "cookie biscuit",
-            "queries": [
-              {
-                "q": "sweet biscuit cookie",
-                "must": [
-                  "cookie"
-                ]
-              },
-              {
-                "q": "baked biscuit",
-                "must": [
-                  "biscuit"
-                ]
-              },
-              {
-                "q": "tea snack",
-                "must": [
-                  "bakery"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "underwear pants",
-            "queries": [
-              {
-                "q": "underwear garment",
-                "must": [
-                  "underwear"
-                ]
-              },
-              {
-                "q": "apparel shorts",
-                "must": [
-                  "clothing"
-                ]
-              },
-              {
-                "q": "lingerie",
-                "must": [
-                  "textile"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "trousers",
-            "queries": [
-              {
-                "q": "mens trousers pants",
-                "must": [
-                  "trousers"
-                ]
-              },
-              {
-                "q": "formal pants",
-                "must": [
-                  "pants"
-                ]
-              },
-              {
-                "q": "clothing",
-                "must": [
-                  "garment"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "british flag",
-            "queries": [
-              {
-                "q": "union jack flag",
-                "must": [
-                  "flag"
-                ]
-              },
-              {
-                "q": "london street",
-                "must": [
-                  "street"
-                ]
-              },
-              {
-                "q": "uk landmark",
-                "must": [
-                  "city"
-                ]
-              }
-            ]
-          }
-        ],
-        "broll": [
-          "map",
-          "flag",
-          "cityscape"
-        ],
-        "visual_style": "energetic host talking directly to the camera explaining funny vocabulary differences between British and American English with close-up objects",
-        "visual_refs": [
-          "American vs. British pronunciation",
-          "English \ud83c\uddfa\ud83c\uddf8 vs British \ud83c\uddec\ud83c\udde7 #TheManniiShow.com/series",
-          "India vs America Accent Challenge",
-          "speaking English random British people\ud83d\ude02 #funny #laugher #funnymemes #comedy #memes #funnycomment",
-          "Top Accent Slips That Went Viral! \ud83c\udf0d (You Can&#39;t Miss #1!)",
-          "Top 5 FUNNIEST British Accents Pt. 2 \ud83d\udc51\ud83c\uddec\ud83c\udde7 #uk #funny #comedy"
-        ],
-        "voice": "en-US-BrianMultilingualNeural",
-        "visual_report": {
-          "shots": 13,
-          "checked": 13,
-          "unchecked": 0,
-          "filler": 0,
-          "ai": 0
-        }
-      },
-      "credits": [
-        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-BrianMultilingualNeural).",
-        "Stock footage/photos (Pexels/Pixabay Content License): livesmart (Pixabay) https://pixabay.com/videos/id-163117/; iha31 (Pixabay) https://pixabay.com/videos/id-30703/; AutoPhotography (Pixabay) https://pixabay.com/photos/trunk-car-vehicle-automobile-2464979/; BerndSold (Pixabay) https://pixabay.com/photos/luggage-trunk-full-vacations-611004/; learningwithsultan (Pixabay) https://pixabay.com/photos/fries-burger-food-fried-souce-9878943/; Pexels (Pixabay) https://pixabay.com/photos/fashion-sweater-wool-clothing-1283863/; Openly (Pixabay) https://pixabay.com/videos/id-373559/; Openly (Pixabay) https://pixabay.com/videos/id-373556/; Pexels (Pixabay) https://pixabay.com/photos/black-blank-garment-lace-minimal-1850614/; 192635 (Pixabay) https://pixabay.com/photos/leg-dresses-underwear-nostalgia-362781/; julianmolina (Pixabay) https://pixabay.com/videos/id-20457/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-373069/",
-        "Piqua Hosiery Co / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:Brown_Wool_Knit_Cardigan_Sweater_of_Charles_Lindbergh_-_DPLA_-_c76bd59b2824736409a2eb2dbbfb58b3_(page_1).jpg"
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-18",
-        "name": "2026-10-18-2-v0.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-18",
-        "name": "2026-10-18-2-v0-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,071 --> 00:00:02,500\nBefore you visit the UK why should\n\n2\n00:00:02,500 --> 00:00:05,083\nyou never compliment someone's pants Here are\n\n3\n00:00:05,083 --> 00:00:07,583\nfive words that flip meaning over there\n\n4\n00:00:07,583 --> 00:00:10,002\nNumber five boot In America it's a\n\n5\n00:00:10,002 --> 00:00:12,443\nshoe In Britain it's also your car's\n\n6\n00:00:12,443 --> 00:00:14,680\ntrunk So if it's in the boot\n\n7\n00:00:14,680 --> 00:00:18,014\ncheck the car Number four chips In\n\n8\n00:00:18,014 --> 00:00:20,512\nLondon chips are hot fries The bagged\n\n9\n00:00:20,512 --> 00:00:23,656\nones are crisps Number three jumper In\n\n10\n00:00:23,656 --> 00:00:25,548\nthe UK it's a sweater In the\n\n11\n00:00:25,548 --> 00:00:28,549\nUS a sleeveless dress So Grandma knitted\n\n12\n00:00:28,549 --> 00:00:30,382\nme a jumper means two very different\n\n13\n00:00:30,382 --> 00:00:33,610\nthings Number two biscuit In Britain it's\n\n14\n00:00:33,610 --> 00:00:35,442\na cookie you dunk in tea In\n\n15\n00:00:35,442 --> 00:00:37,893\nAmerica it's a fluffy bread roll Good\n\n16\n00:00:37,893 --> 00:00:41,169\nluck dunking that And number one pants\n\n17\n00:00:41,169 --> 00:00:43,645\nIn America pants go on your legs\n\n18\n00:00:43,645 --> 00:00:46,167\nIn Britain pants are underwear The leg\n\n19\n00:00:46,167 --> 00:00:48,680\nones are trousers So nice pants in\n\n20\n00:00:48,680 --> 00:00:50,346\nLondon sounds like you can see their\n\n21\n00:00:50,346 --> 00:00:53,750\nunderwear Which word got you boot chips\n\n22\n00:00:53,750 --> 00:00:56,143\njumper biscuit or pants Tell me in\n\n23\n00:00:56,143 --> 00:00:58,405\nthe comments And in the UK just\n\n24\n00:00:58,405 --> 00:01:00,186\ncompliment their trousers\n",
-      "tg_msg": 515,
-      "opts_msg": 517,
-      "approved_by": "auto",
-      "quota_note": "2026-10-19",
-      "description_full": "Five British vs American English words that mean totally different things, from boot and chips to jumper, biscuit and pants. UK vs US words with different meanings that Brits and Americans mix up every day.\n\nIn this Short: a funny Top 5 countdown of words with different meanings in British and American English.\n\nSources:\nhttps://www.mentalfloss.com/language/words/words-different-meanings-american-and-british-english\nhttps://www.upworthy.com/14-american-vs-british-words-ex1/\n\n#shorts #english #ukvsus #funny\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-BrianMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): livesmart (Pixabay) https://pixabay.com/videos/id-163117/; iha31 (Pixabay) https://pixabay.com/videos/id-30703/; AutoPhotography (Pixabay) https://pixabay.com/photos/trunk-car-vehicle-automobile-2464979/; BerndSold (Pixabay) https://pixabay.com/photos/luggage-trunk-full-vacations-611004/; learningwithsultan (Pixabay) https://pixabay.com/photos/fries-burger-food-fried-souce-9878943/; Pexels (Pixabay) https://pixabay.com/photos/fashion-sweater-wool-clothing-1283863/; Openly (Pixabay) https://pixabay.com/videos/id-373559/; Openly (Pixabay) https://pixabay.com/videos/id-373556/; Pexels (Pixabay) https://pixabay.com/photos/black-blank-garment-lace-minimal-1850614/; 192635 (Pixabay) https://pixabay.com/photos/leg-dresses-underwear-nostalgia-362781/; julianmolina (Pixabay) https://pixabay.com/videos/id-20457/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-373069/\nPiqua Hosiery Co / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:Brown_Wool_Knit_Cardigan_Sweater_of_Charles_Lindbergh_-_DPLA_-_c76bd59b2824736409a2eb2dbbfb58b3_(page_1).jpg\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/osxz2UEA0gs",
-          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-19T09:05:54.471450+00:00",
-      "slot": "2026-10-20T01:15:00+00:00"
-    },
-    "2026-10-18-3": {
-      "topic": {
-        "title": "Top 5 Biggest Deserts (#1 Is Freezing)",
-        "angle": "'Why Do Golfers Pour Sand After Every Shot?' (25.5x, The Question) shows a simple why-question about something familiar beats raw spectacle, and 'biggest desert isn't the Sahara' turns that into a countdown with a twist at number one.",
-        "format": "ranking",
-        "tone": "normal",
-        "virality_score": 7,
-        "trend_source": "Why Do Golfers Pour Sand After Every Shot? (25.5x, The Question); Who has the BEST MODEL FACE (8.4x, The Superlative)",
-        "plan_id": "P2026-10-18-04"
-      },
-      "status": "published",
-      "by": "auto",
-      "updated": "2026-10-20T10:09:42.293672+00:00",
-      "redos": 0,
-      "package": {
-        "primary_keyword": "biggest desert in the world",
-        "title": "Top 5 Biggest Deserts (#1 Is Freezing)",
-        "hook_text": "THINK HOT? THINK AGAIN",
-        "thumbnail_text": "NOT SAND!",
-        "description": "What is the biggest desert in the world? It isn't the Sahara: here are the top 5 biggest deserts on Earth, and the largest desert, Antarctica, is freezing.\n\nIn this Short: a countdown of the five largest deserts by area, from the Gobi and the Arabian Desert to the Sahara, the Arctic and Antarctica.\n\nSources:\nhttps://www.worldatlas.com/articles/10-largest-deserts-in-the-world.html\nhttps://www.antarctica.gov.au/about-antarctica/weather-and-climate/weather/",
-        "hashtags": [
-          "#shorts",
-          "#geography",
-          "#desert",
-          "#top5"
-        ],
-        "tags": [
-          "biggest desert in the world",
-          "top 5 biggest deserts",
-          "top 5 biggest desert in the world",
-          "top 5 largest deserts in the world",
-          "antarctic polar desert",
-          "largest desert in the world",
-          "biggest cold desert in the world",
-          "largest cold desert in the world",
-          "second largest desert in the world",
-          "what's the biggest desert in the world",
-          "biggest deserts on earth",
-          "antarctic desert vs sahara desert",
-          "antarctic desert",
-          "is antarctica a desert",
-          "major deserts of the world",
-          "arabian desert"
-        ],
-        "pinned_comment": "Bonus fact: the Sahara is the biggest HOT desert, so it still holds a record. Did you guess Antarctica before the hint?",
-        "scenes": [
-          {
-            "text": "Before you guess the Sahara, what's the biggest desert on Earth? Hint, it's freezing. Here are the five biggest. A desert is about how little rain or snow falls, not sand.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "desert sand dunes aerial",
-              "dry cracked earth drought"
-            ],
-            "image_prompt": "Cinematic aerial view of dramatic golden sand dunes transitioning into cracked barren earth under an expansive sky, photorealistic, 8k resolution, vertical 9:16 composition",
-            "stock_query": "desert sand dunes aerial"
-          },
-          {
-            "text": "Number five, the Gobi. About half a million square miles of cold, rocky ground.",
-            "badge": "#5",
-            "label": "The Gobi",
-            "stock_queries": [
-              "gobi desert landscape",
-              "rocky desert camels"
-            ],
-            "image_prompt": "Vast cold rocky desert landscape of the Gobi with distant Bactrian camels walking across gravel plains under an overcast sky, photorealistic, 8k resolution, vertical 9:16 composition",
-            "stock_query": "gobi desert landscape"
-          },
-          {
-            "text": "Number four, the Arabian Desert. Around one million square miles, with huge dunes.",
-            "badge": "#4",
-            "label": "Arabian Desert",
-            "stock_queries": [
-              "arabian desert dunes",
-              "sand dunes wind blowing"
-            ],
-            "image_prompt": "Towering red and golden sand dunes in the Arabian desert with wind sweeping sand plumes off the sharp ridges at golden hour, photorealistic, 8k resolution, vertical 9:16 composition",
-            "stock_query": "arabian desert dunes"
-          },
-          {
-            "text": "Number three, the Sahara. About three and a half million square miles, the biggest hot desert. But it's not the biggest desert.",
-            "badge": "#3",
-            "label": "The Sahara",
-            "stock_queries": [
-              "sahara desert sunset",
-              "camel caravan sahara"
-            ],
-            "image_prompt": "Iconic endless Saharan sand dune sea with rippling golden textures stretching to the horizon under a blazing desert sun, photorealistic, 8k resolution, vertical 9:16 composition",
-            "stock_query": "sahara desert sunset"
-          },
-          {
-            "text": "Number two, the Arctic. About five point four million square miles of ice and frozen sea. It gets so little rain and snow that it counts as a desert.",
-            "badge": "#2",
-            "label": "The Arctic",
-            "stock_queries": [
-              "arctic sea ice",
-              "polar ice sheets"
-            ],
-            "image_prompt": "Expansive frozen Arctic polar desert landscape with cracked sea ice and blowing snow powder beneath a pale blue arctic sky, photorealistic, 8k resolution, vertical 9:16 composition",
-            "stock_query": "arctic sea ice"
-          },
-          {
-            "text": "And number one, Antarctica. Around five and a half million square miles. It's the coldest, windiest and driest continent on Earth.",
-            "badge": "#1",
-            "label": "Antarctica",
-            "stock_queries": [
-              "antarctica ice sheet aerial",
-              "antarctic blizzard snow"
-            ],
-            "image_prompt": "Epic aerial view of the massive Antarctic polar ice cap with wind-swept sastrugi ice patterns under a low cold sun, photorealistic, 8k resolution, vertical 9:16 composition",
-            "stock_query": "antarctica ice sheet aerial"
-          },
-          {
-            "text": "So the biggest desert isn't hot or sandy. It's frozen solid. Which would you rather cross, the Sahara or Antarctica? Tell me in the comments. And before you pick, remember which one's freezing.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "snow blizzard landscape",
-              "sand dunes and ice"
-            ],
-            "image_prompt": "Split visual concept showing extreme scorching Sahara sand dunes on one half and freezing blue Antarctic ice glacier on the other half, dramatic cinematic lighting, vertical 9:16 composition",
-            "stock_query": "snow blizzard landscape"
-          }
-        ],
-        "key_facts": [
-          "A desert is defined by low precipitation (rain or snow), not by sand or high temperatures.",
-          "The Gobi Desert ranks fifth largest at approximately 500,000 square miles.",
-          "The Arabian Desert ranks fourth largest at around 1,000,000 square miles.",
-          "The Sahara Desert covers about 3.5 million square miles and is the largest hot desert on Earth.",
-          "The Arctic polar desert covers about 5.4 million square miles across ice and frozen ocean.",
-          "Antarctica is the largest desert on Earth at roughly 5.5 million square miles.",
-          "Antarctica is officially the coldest, windiest, and driest continent on the planet."
-        ],
-        "format": "ranking",
-        "tone": "normal",
-        "category": "27",
-        "script": "Before you guess the Sahara, what's the biggest desert on Earth? Hint, it's freezing. Here are the five biggest. A desert is about how little rain or snow falls, not sand. Number five, the Gobi. About half a million square miles of cold, rocky ground. Number four, the Arabian Desert. Around one million square miles, with huge dunes. Number three, the Sahara. About three and a half million square miles, the biggest hot desert. But it's not the biggest desert. Number two, the Arctic. About five point four million square miles of ice and frozen sea. It gets so little rain and snow that it counts as a desert. And number one, Antarctica. Around five and a half million square miles. It's the coldest, windiest and driest continent on Earth. So the biggest desert isn't hot or sandy. It's frozen solid. Which would you rather cross, the Sahara or Antarctica? Tell me in the comments. And before you pick, remember which one's freezing.",
-        "plan_id": "P2026-10-18-04",
-        "shot_plan": [
-          {
-            "subject": "Antarctica glacier and ice sheet",
-            "queries": [
-              {
-                "q": "antarctica glacier ice",
-                "must": [
-                  "antarctica"
-                ]
-              },
-              {
-                "q": "ice sheet landscape",
-                "must": [
-                  "glacier"
-                ]
-              },
-              {
-                "q": "frozen desert snow",
-                "must": [
-                  "snow"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "Gobi desert rocky ground",
-            "queries": [
-              {
-                "q": "gobi desert landscape",
-                "must": [
-                  "gobi"
-                ]
-              },
-              {
-                "q": "rocky desert ground",
-                "must": [
-                  "rocky"
-                ]
-              },
-              {
-                "q": "arid stony desert",
-                "must": [
-                  "desert"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "Arabian desert sand dunes",
-            "queries": [
-              {
-                "q": "arabian desert dunes",
-                "must": [
-                  "arabian"
-                ]
-              },
-              {
-                "q": "huge sand dunes",
-                "must": [
-                  "dunes"
-                ]
-              },
-              {
-                "q": "desert sand landscape",
-                "must": [
-                  "sand"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "Sahara desert sandy dunes",
-            "queries": [
-              {
-                "q": "sahara desert dunes",
-                "must": [
-                  "sahara"
-                ]
-              },
-              {
-                "q": "hot desert sand",
-                "must": [
-                  "hot"
-                ]
-              },
-              {
-                "q": "vast desert dunes",
-                "must": [
-                  "desert"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "Arctic frozen sea and ice",
-            "queries": [
-              {
-                "q": "arctic frozen sea",
-                "must": [
-                  "arctic"
-                ]
-              },
-              {
-                "q": "polar ice ocean",
-                "must": [
-                  "ice"
-                ]
-              },
-              {
-                "q": "frozen ocean landscape",
-                "must": [
-                  "ocean"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "Antarctica icy continent landscape",
-            "queries": [
-              {
-                "q": "antarctica snow landscape",
-                "must": [
-                  "antarctica"
-                ]
-              },
-              {
-                "q": "polar continent ice",
-                "must": [
-                  "continent"
-                ]
-              },
-              {
-                "q": "frozen wasteland snow",
-                "must": [
-                  "wasteland"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "Antarctica ice sheet and glacier",
-            "queries": [
-              {
-                "q": "antarctica ice sheet",
-                "must": [
-                  "antarctica"
-                ]
-              },
-              {
-                "q": "frozen glacier landscape",
-                "must": [
-                  "glacier"
-                ]
-              },
-              {
-                "q": "polar ice mountains",
-                "must": [
-                  "ice"
-                ]
-              }
-            ]
-          }
-        ],
-        "broll": [
-          "desert",
-          "dune",
-          "landscape"
-        ],
-        "visual_style": "cinematic stock footage of deserts, sand dunes, and polar landscapes with dynamic zoom and countdown titles",
-        "visual_refs": [
-          "Top 5 Largest Deserts in the World \u2013 You Won\u2019t Believe #1! \ud83c\udfdc\ufe0f\u2744\ufe0f&quot;#facts #top5 #top5moments",
-          "TOP 10 LARGEST DESERTS IN THE WORLD #globoxgist #top10 #world #desert #sahara #antarctica #australia",
-          "Top 5 Largest Deserts in the World \ud83c\udf0d | Coldest Desert is #1",
-          "Top 5 Largest Deserts in the World",
-          "Exploring the Vast: Unveiling the World\u2019s Five Largest Deserts! \ud83c\udfdc\ufe0f\ud83c\udf0d @QuickFactsInsider",
-          "Top 5 Largest Deserts on Earth \ud83c\udf0d | #1 Will Blow Your Mind! (Part 2)"
-        ],
-        "voice": "en-US-AvaMultilingualNeural",
-        "visual_report": {
-          "shots": 19,
-          "checked": 19,
-          "unchecked": 0,
-          "filler": 0,
-          "ai": 0
-        }
-      },
-      "credits": [
-        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AvaMultilingualNeural).",
-        "Stock footage/photos (Pexels/Pixabay Content License): doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-329116/; spalla67 (Pixabay) https://pixabay.com/videos/id-53906/; santosjesus90 (Pixabay) https://pixabay.com/videos/id-185273/; Berkopasa19 (Pixabay) https://pixabay.com/videos/id-377552/; antonlukin (Pixabay) https://pixabay.com/videos/id-284568/; KarenRaven (Pixabay) https://pixabay.com/videos/id-326869/; antonlukin (Pixabay) https://pixabay.com/videos/id-284566/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-311900/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-338846/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-289849/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-369879/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-302381/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-276927/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-291733/; Afzaal0001 (Pixabay) https://pixabay.com/videos/id-230003/; TungArt7 (Pixabay) https://pixabay.com/videos/id-213424/; Afzaal0001 (Pixabay) https://pixabay.com/videos/id-213351/; kastaniubrunn (Pixabay) https://pixabay.com/videos/id-47614/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-367638/"
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-18",
-        "name": "2026-10-18-3-v0.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-18",
-        "name": "2026-10-18-3-v0-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,086 --> 00:00:02,169\nBefore you guess the Sahara what's the\n\n2\n00:00:02,169 --> 00:00:05,625\nbiggest desert on Earth Hint it's freezing\n\n3\n00:00:05,625 --> 00:00:07,868\nHere are the five biggest A desert\n\n4\n00:00:07,868 --> 00:00:09,547\nis about how little rain or snow\n\n5\n00:00:09,547 --> 00:00:13,101\nfalls not sand Number five the Gobi\n\n6\n00:00:13,101 --> 00:00:15,012\nAbout half a million square miles of\n\n7\n00:00:15,012 --> 00:00:18,480\ncold rocky ground Number four the Arabian\n\n8\n00:00:18,480 --> 00:00:21,569\nDesert Around one million square miles with\n\n9\n00:00:21,569 --> 00:00:25,748\nhuge dunes Number three the Sahara About\n\n10\n00:00:25,748 --> 00:00:28,554\nthree and a half million square miles\n\n11\n00:00:28,554 --> 00:00:30,797\nthe biggest hot desert But it's not\n\n12\n00:00:30,797 --> 00:00:33,873\nthe biggest desert Number two the Arctic\n\n13\n00:00:33,873 --> 00:00:36,189\nAbout five point four million square miles\n\n14\n00:00:36,189 --> 00:00:38,456\nof ice and frozen sea It gets\n\n15\n00:00:38,456 --> 00:00:39,890\nso little rain and snow that it\n\n16\n00:00:39,890 --> 00:00:42,218\ncounts as a desert And number one\n\n17\n00:00:42,218 --> 00:00:45,098\nAntarctica Around five and a half million\n\n18\n00:00:45,098 --> 00:00:48,468\nsquare miles It's the coldest windiest and\n\n19\n00:00:48,468 --> 00:00:51,287\ndriest continent on Earth So the biggest\n\n20\n00:00:51,287 --> 00:00:54,167\ndesert isn't hot or sandy It's frozen\n\n21\n00:00:54,167 --> 00:00:56,667\nsolid Which would you rather cross the\n\n22\n00:00:56,667 --> 00:00:59,069\nSahara or Antarctica Tell me in the\n\n23\n00:00:59,069 --> 00:01:02,328\ncomments And before you pick remember which\n\n24\n00:01:02,328 --> 00:01:03,562\none's freezing\n",
-      "tg_msg": 518,
-      "opts_msg": 520,
-      "approved_by": "auto",
-      "quota_note": "2026-10-20",
-      "description_full": "What is the biggest desert in the world? It isn't the Sahara: here are the top 5 biggest deserts on Earth, and the largest desert, Antarctica, is freezing.\n\nIn this Short: a countdown of the five largest deserts by area, from the Gobi and the Arabian Desert to the Sahara, the Arctic and Antarctica.\n\nSources:\nhttps://www.worldatlas.com/articles/10-largest-deserts-in-the-world.html\nhttps://www.antarctica.gov.au/about-antarctica/weather-and-climate/weather/\n\n#shorts #geography #desert #top5\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AvaMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-329116/; spalla67 (Pixabay) https://pixabay.com/videos/id-53906/; santosjesus90 (Pixabay) https://pixabay.com/videos/id-185273/; Berkopasa19 (Pixabay) https://pixabay.com/videos/id-377552/; antonlukin (Pixabay) https://pixabay.com/videos/id-284568/; KarenRaven (Pixabay) https://pixabay.com/videos/id-326869/; antonlukin (Pixabay) https://pixabay.com/videos/id-284566/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-311900/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-338846/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-289849/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-369879/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-302381/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-276927/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-291733/; Afzaal0001 (Pixabay) https://pixabay.com/videos/id-230003/; TungArt7 (Pixabay) https://pixabay.com/videos/id-213424/; Afzaal0001 (Pixabay) https://pixabay.com/videos/id-213351/; kastaniubrunn (Pixabay) https://pixabay.com/videos/id-47614/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-367638/\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/IGf26egrEOw",
-          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-20T10:09:42.293691+00:00",
-      "slot": "2026-10-20T16:15:00+00:00"
-    },
-    "2026-10-18-6": {
-      "topic": {
-        "title": "Top 5 Animals That Are Hilariously Terrible at Fighting",
-        "angle": "A countdown of wild creatures whose aggressive territorial brawls look more like awkward toddler hugs and slow-motion slaps than actual combat.",
-        "format": "ranking",
-        "tone": "funny",
-        "trend_source": "evergreen",
-        "virality_score": 9.5,
-        "why": "High visual comedy drives strong completion rates; viewers immediately rewatch the funniest clips and debate in the comments about red pandas and giraffes."
-      },
-      "status": "published",
-      "by": "auto",
-      "updated": "2026-10-20T10:09:50.606599+00:00",
-      "redos": 0,
-      "package": {
-        "primary_keyword": "animals terrible at fighting",
-        "title": "Top 5 Animals Terrible at Fighting \ud83d\ude02",
-        "hook_text": "Animals Terrible at Fighting",
-        "thumbnail_text": "Worst Animal Brawls",
-        "description": "Discover the top 5 animals terrible at fighting whose brawls look like awkward hugs.\nFrom slap-fighting marmots to slow-motion sloths, these funny animal fights will make your day.",
-        "hashtags": [
-          "#shorts",
-          "#animals",
-          "#funnyanimals",
-          "#top5",
-          "#funny"
-        ],
-        "tags": [
-          "animals terrible at fighting",
-          "funny animal fights",
-          "funny animal fighting moments",
-          "worst animal fights",
-          "terrible animal fights",
-          "hilarious animal fights",
-          "funny animal fight video",
-          "sloth fighting",
-          "hilarious animals",
-          "weird animal fights",
-          "sloth fighting sloth",
-          "sloth fighting video",
-          "strange animal fights",
-          "hilarious animals video",
-          "hilarious animals shorts",
-          "sloths fighting each other",
-          "animals vs animals fighting",
-          "hilarious animal compilation",
-          "animals that fight each other"
-        ],
-        "pinned_comment": "If you had to enter an arena with one of these five as your backup fighter, who are you trusting? \ud83e\udd4a",
-        "scenes": [
-          {
-            "text": "Nature is full of ferocious beasts, but these wild animals cannot fight.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "wild animals forest",
-              "funny animal face"
-            ],
-            "image_prompt": "A comical wide view of a peaceful forest clearing where various cute animals look completely bewildered and unathletic, soft morning lighting, high detail, 9:16 vertical orientation.",
-            "stock_query": "wild animals forest"
-          },
-          {
-            "text": "Number five, koalas. When rival males clash for eucalyptus trees, there's no biting. They just aggressively hug, pull fur, and screech like cranky toddlers.",
-            "badge": "#5",
-            "label": "Koala",
-            "stock_queries": [
-              "koala climbing tree",
-              "two koalas wrestling"
-            ],
-            "image_prompt": "Two fluffy koalas engaged in an awkward, clumsy wrestling match on a sturdy eucalyptus branch, wide open mouths making comical expressions, natural sunlight, 9:16 vertical aspect ratio.",
-            "stock_query": "koala climbing tree"
-          },
-          {
-            "text": "At number four, the red panda. Their ultimate intimidation tactic is standing upright with dramatic jazz hands, usually before tumbling backwards over a twig.",
-            "badge": "#4",
-            "label": "Red Panda",
-            "stock_queries": [
-              "red panda standing",
-              "red panda hind legs"
-            ],
-            "image_prompt": "A fluffy red panda standing upright on its hind legs with both front paws raised high in an exaggerated dramatic posture, bamboo background, hyper-detailed, 9:16 vertical orientation.",
-            "stock_query": "red panda standing"
-          },
-          {
-            "text": "Number three, alpine marmots. Two chubby ground squirrels stand tall, exchanging furious, feather-light face slaps that look like two grandmas enthusiastically gossiping.",
-            "badge": "#3",
-            "label": "Alpine Marmot",
-            "stock_queries": [
-              "marmots fighting meadow",
-              "marmots standing upright"
-            ],
-            "image_prompt": "Two chubby alpine marmots standing on their hind feet on a green mountain meadow, paws lightly touching each other's cheeks in a playful face-slapping stance, crisp alpine lighting, 9:16 vertical orientation.",
-            "stock_query": "marmots fighting meadow"
-          },
-          {
-            "text": "At number two, flamingos. Balanced on pencil-thin legs, their vicious territorial squabbles are basically just aggressive, tangled-neck pool noodle fights.",
-            "badge": "#2",
-            "label": "Flamingo",
-            "stock_queries": [
-              "flamingos fighting lake",
-              "flamingos neck crossing"
-            ],
-            "image_prompt": "Two bright pink flamingos standing in shallow blue water, long curved necks comically intertwining and bumping together in a gentle dispute, vibrant tropical colors, 9:16 vertical aspect ratio.",
-            "stock_query": "flamingos fighting lake"
-          },
-          {
-            "text": "And at number one, three-toed sloths. Fighting over mates in literal slow motion, one single dramatic hook takes about ten business days to land.",
-            "badge": "#1",
-            "label": "Three-toed Sloth",
-            "stock_queries": [
-              "sloth tree canopy",
-              "two sloths branch"
-            ],
-            "image_prompt": "Two three-toed sloths hanging from tropical tree vines, one sloth throwing an impossibly sluggish, slow-motion claw swipe toward the other with an unbothered expression, lush rainforest background, 9:16 vertical orientation.",
-            "stock_query": "sloth tree canopy"
-          },
-          {
-            "text": "Honestly, even a sleeping snail could dodge it. Which of these hilarious fighters would you hire as your personal bodyguard?",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "slow garden snail",
-              "sloth face closeup"
-            ],
-            "image_prompt": "A close-up of a smiling sloth face hanging upside down beside a tiny snail on a mossy branch, soft diffused jungle sunlight, whimsical nature photography style, 9:16 vertical aspect ratio.",
-            "stock_query": "slow garden snail"
-          }
-        ],
-        "key_facts": [
-          "Male koalas defend territory by grappling, pulling fur, and emitting loud bellows rather than inflicting serious physical trauma.",
-          "Red pandas use a deimatic defense display by standing upright on hind legs and raising their front paws to appear larger.",
-          "Alpine marmots engage in territorial standoffs standing on their hind legs and rapidly pawing at each other's faces.",
-          "Flamingos resolve disputes using beak jabs and neck fencing while balancing on one or two legs.",
-          "Three-toed sloths fight rivals in canopy trees using deliberate, very slow claw swiping motions."
-        ],
-        "format": "ranking",
-        "tone": "funny",
-        "category": "23",
-        "script": "Nature is full of ferocious beasts, but these wild animals cannot fight. Number five, koalas. When rival males clash for eucalyptus trees, there's no biting. They just aggressively hug, pull fur, and screech like cranky toddlers. At number four, the red panda. Their ultimate intimidation tactic is standing upright with dramatic jazz hands, usually before tumbling backwards over a twig. Number three, alpine marmots. Two chubby ground squirrels stand tall, exchanging furious, feather-light face slaps that look like two grandmas enthusiastically gossiping. At number two, flamingos. Balanced on pencil-thin legs, their vicious territorial squabbles are basically just aggressive, tangled-neck pool noodle fights. And at number one, three-toed sloths. Fighting over mates in literal slow motion, one single dramatic hook takes about ten business days to land. Honestly, even a sleeping snail could dodge it. Which of these hilarious fighters would you hire as your personal bodyguard?",
-        "shot_plan": [
-          {
-            "subject": "ferocious wild animals in nature",
-            "queries": [
-              {
-                "q": "wild animal",
-                "must": [
-                  "animal"
-                ]
-              },
-              {
-                "q": "nature beast",
-                "must": [
-                  "beast"
-                ]
-              },
-              {
-                "q": "forest predator",
-                "must": [
-                  "predator"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "koalas fighting in a tree",
-            "queries": [
-              {
-                "q": "koala",
-                "must": [
-                  "koala"
-                ]
-              },
-              {
-                "q": "koalas fighting",
-                "must": [
-                  "animal"
-                ]
-              },
-              {
-                "q": "tree marsupial",
-                "must": [
-                  "marsupial"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "red panda standing upright",
-            "queries": [
-              {
-                "q": "red panda",
-                "must": [
-                  "panda"
-                ]
-              },
-              {
-                "q": "red panda standing",
-                "must": [
-                  "animal"
-                ]
-              },
-              {
-                "q": "cute mammal",
-                "must": [
-                  "mammal"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "alpine marmots standing and fighting",
-            "queries": [
-              {
-                "q": "alpine marmot",
-                "must": [
-                  "marmot"
-                ]
-              },
-              {
-                "q": "marmots fighting",
-                "must": [
-                  "animal"
-                ]
-              },
-              {
-                "q": "ground squirrel",
-                "must": [
-                  "squirrel"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "flamingos fighting in water",
-            "queries": [
-              {
-                "q": "flamingo",
-                "must": [
-                  "flamingo"
-                ]
-              },
-              {
-                "q": "flamingos squabbling",
-                "must": [
-                  "bird"
-                ]
-              },
-              {
-                "q": "flock of flamingos",
-                "must": [
-                  "water"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "three-toed sloth moving slowly",
-            "queries": [
-              {
-                "q": "three-toed sloth",
-                "must": [
-                  "sloth"
-                ]
-              },
-              {
-                "q": "sloth hanging",
-                "must": [
-                  "animal"
-                ]
-              },
-              {
-                "q": "slow sloth",
-                "must": [
-                  "tree"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "sleeping garden snail",
-            "queries": [
-              {
-                "q": "sleeping snail",
-                "must": [
-                  "snail"
-                ]
-              },
-              {
-                "q": "garden snail",
-                "must": [
-                  "mollusk"
-                ]
-              },
-              {
-                "q": "slow snail",
-                "must": [
-                  "shell"
-                ]
-              }
-            ]
-          }
-        ],
-        "broll": [
-          "wildlife",
-          "animal",
-          "nature"
-        ],
-        "visual_style": "Engaging countdown of funny, awkward, and surprisingly non-lethal animal fights featuring real wildlife footage with playful on-screen labels.",
-        "visual_refs": [
-          "Top 5 funny cat fighting moments #funnyvideo #catvideos #catfight #catmoments",
-          "Boys Fighting Vs Girls Fighting \ud83e\udd21 \ud83d\ude08 #foryou #shorts #funny #boysvsgirls #fight #trending",
-          "Messi Fight and Funny Moment at the same time \ud83d\ude21\ud83d\ude05 #messi #lionelmessi",
-          "HE TRIED to FIGHT MICKEY \ud83d\ude2d\u2694\ufe0f #roblox #funny",
-          "MICKEY became a BOSS FIGHT \ud83d\udc80#roblox #funny",
-          "funny babies fighting shorts \ud83e\udd1c\ud83e\udd1c #shorts #short #viral #youtubeshorts #funny #cute #viralvideo"
-        ],
-        "voice": "en-AU-WilliamMultilingualNeural",
-        "visual_report": {
-          "shots": 12,
-          "checked": 12,
-          "unchecked": 0,
-          "filler": 1,
-          "ai": 0
-        }
-      },
-      "credits": [
-        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-AU-WilliamMultilingualNeural).",
-        "Stock footage/photos (Pexels/Pixabay Content License): Eaktas06 (Pixabay) https://pixabay.com/videos/id-110806/; Zethian (Pixabay) https://pixabay.com/videos/id-27400/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-327059/; Yocchi09 (Pixabay) https://pixabay.com/videos/id-367162/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-326962/; md579 (Pixabay) https://pixabay.com/videos/id-80024/; hbieser (Pixabay) https://pixabay.com/videos/id-245673/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-327056/; Alexas_Fotos (Pixabay) https://pixabay.com/videos/id-279940/; Alexas_Fotos (Pixabay) https://pixabay.com/videos/id-279905/; Alexas_Fotos (Pixabay) https://pixabay.com/videos/id-279691/"
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-18",
-        "name": "2026-10-18-6-v0.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-18",
-        "name": "2026-10-18-6-v0-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,050 --> 00:00:02,443\nNature is full of ferocious beasts but\n\n2\n00:00:02,443 --> 00:00:05,681\nthese wild animals cannot fight Number five\n\n3\n00:00:05,681 --> 00:00:08,693\nkoalas When rival males clash for eucalyptus\n\n4\n00:00:08,693 --> 00:00:11,598\ntrees there's no biting They just aggressively\n\n5\n00:00:11,598 --> 00:00:14,121\nhug pull fur and screech like cranky\n\n6\n00:00:14,121 --> 00:00:17,264\ntoddlers At number four the red panda\n\n7\n00:00:17,264 --> 00:00:19,562\nTheir ultimate intimidation tactic is standing\n\n8\n00:00:19,562 --> 00:00:22,348\nupright with dramatic jazz hands usually before\n\n9\n00:00:22,348 --> 00:00:25,312\ntumbling backwards over a twig Number three\n\n10\n00:00:25,312 --> 00:00:27,848\nalpine marmots Two chubby ground squirrels\n\n11\n00:00:27,848 --> 00:00:30,598\nstand tall exchanging furious feather-light\n\n12\n00:00:30,598 --> 00:00:32,526\nface slaps that look like two grandmas\n\n13\n00:00:32,526 --> 00:00:36,550\nenthusiastically gossiping At number two flamingos\n\n14\n00:00:36,550 --> 00:00:38,871\nBalanced on pencil-thin legs their vicious\n\n15\n00:00:38,871 --> 00:00:41,574\nterritorial squabbles are basically just aggressive\n\n16\n00:00:41,574 --> 00:00:44,062\ntangled-neck pool noodle fights And at number\n\n17\n00:00:44,062 --> 00:00:47,229\none three-toed sloths Fighting over mates in\n\n18\n00:00:47,229 --> 00:00:49,848\nliteral slow motion one single dramatic hook\n\n19\n00:00:49,848 --> 00:00:52,038\ntakes about ten business days to land\n\n20\n00:00:52,038 --> 00:00:54,455\nHonestly even a sleeping snail could dodge\n\n21\n00:00:54,455 --> 00:00:56,764\nit Which of these hilarious fighters would\n\n22\n00:00:56,764 --> 00:00:58,962\nyou hire as your personal bodyguard\n",
-      "tg_msg": 521,
-      "opts_msg": 523,
-      "approved_by": "auto",
-      "quota_note": "2026-10-20",
-      "description_full": "Discover the top 5 animals terrible at fighting whose brawls look like awkward hugs.\nFrom slap-fighting marmots to slow-motion sloths, these funny animal fights will make your day.\n\n#shorts #animals #funnyanimals #top5 #funny\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-AU-WilliamMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): Eaktas06 (Pixabay) https://pixabay.com/videos/id-110806/; Zethian (Pixabay) https://pixabay.com/videos/id-27400/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-327059/; Yocchi09 (Pixabay) https://pixabay.com/videos/id-367162/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-326962/; md579 (Pixabay) https://pixabay.com/videos/id-80024/; hbieser (Pixabay) https://pixabay.com/videos/id-245673/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-327056/; Alexas_Fotos (Pixabay) https://pixabay.com/videos/id-279940/; Alexas_Fotos (Pixabay) https://pixabay.com/videos/id-279905/; Alexas_Fotos (Pixabay) https://pixabay.com/videos/id-279691/\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/-s_IC198uJA",
-          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-20T10:09:50.606615+00:00",
-      "slot": "2026-10-20T19:15:00+00:00"
-    },
-    "2026-10-19-1": {
-      "topic": {
-        "title": "Top 5 Real Places That Look Photoshopped",
-        "angle": "Today's top outlier is a ranking (Rank Villa, 182.4x) and the next two (soap noodles 97.3x, snake chain 77.2x) are 'looks like one thing, is actually another' reveals, and five real places that look fake is that reveal told as a ranking.",
-        "format": "ranking",
-        "tone": "normal",
-        "virality_score": 8,
-        "trend_source": "Funniest Relatable Moments | Rank Villa (182.4x, Unclassified - a ranking); I Made Soap Noodles For My Boyfriend! (97.3x, Unclassified - looks like one thing, is another); Realistic snake scale chain transformation (77.2x, Unclassified - visual transformation)",
-        "plan_id": "P2026-10-19-01"
-      },
-      "status": "published",
-      "by": "auto",
-      "updated": "2026-10-20T10:09:59.421078+00:00",
-      "redos": 0,
-      "package": {
-        "primary_keyword": "places that look photoshopped",
-        "title": "Top 5 Real Places That Look Photoshopped",
-        "hook_text": "REAL, NOT EDITED",
-        "thumbnail_text": "WALK ON SKY",
-        "description": "These are five real places that look photoshopped: Lake Hillier the pink lake, Ca\u00f1o Cristales the river of five colors, the Giant's Causeway, the Zhangye rainbow mountains and Salar de Uyuni, the salt flat mirror. They look fake, but every one is a real place on Earth.\n\nIn this Short: why each place looks unreal, counting down to the salt flat that turns into a mirror.\n\nSources:\nhttps://en.wikipedia.org/wiki/Giant%27s_Causeway\nhttps://www.worldatlas.com/articles/why-is-lake-hillier-pink.html\nhttps://www.discovery.com/exploration/salar-de-uyuni-is-the-world-s-largest-natural-mirror",
-        "hashtags": [
-          "#shorts",
-          "#nature",
-          "#travel",
-          "#top5"
-        ],
-        "tags": [
-          "places that look photoshopped",
-          "places that look fake but are real",
-          "places that look unreal on earth",
-          "lake hillier",
-          "pink lake australia",
-          "places that look fake",
-          "lake hillier australia",
-          "places that look unreal",
-          "lake hillier (pink lake)",
-          "pink lake western australia",
-          "salar de uyuni",
-          "salt flat mirror",
-          "river of five colors",
-          "real places that look fake",
-          "real places that look like fantasy",
-          "ca\u00f1o cristales",
-          "bolivia salt flats",
-          "rainbow mountains china",
-          "cano cristales"
-        ],
-        "pinned_comment": "Bonus fact: Salar de Uyuni is so flat that its height changes by only a few feet across the whole thing, which is why the rain makes such a perfect mirror. Which one would you visit first?",
-        "scenes": [
-          {
-            "text": "Before you call these five places fake, know this: you can visit every one of them, and number one is in Bolivia. Five real places that look photoshopped.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "aerial view pink lake ocean",
-              "rainbow striped mountains drone"
-            ],
-            "image_prompt": "Cinematic split composition showing a surreal bright pink lake beside an ocean on one side and vibrant rainbow-striped mountain ridges on the other, hyper-realistic 4k.",
-            "stock_query": "aerial view pink lake ocean"
-          },
-          {
-            "text": "Number five, the Giant's Causeway in Northern Ireland. Forty thousand stone columns, mostly six-sided, made by cooling lava.",
-            "badge": "#5",
-            "label": "GIANT'S CAUSEWAY",
-            "stock_queries": [
-              "hexagonal basalt columns coast",
-              "basalt rock formations ocean waves"
-            ],
-            "image_prompt": "Dramatic eye-level shot of thousands of interlocking hexagonal basalt stone columns stepping down into turquoise ocean waves, misty coastal cliff background.",
-            "stock_query": "hexagonal basalt columns coast"
-          },
-          {
-            "text": "Number four, the rainbow mountains of Zhangye, China. Minerals like iron stained the rock in stripes.",
-            "badge": "#4",
-            "label": "RAINBOW MOUNTAINS",
-            "stock_queries": [
-              "colorful striped mountains aerial",
-              "red yellow mineral rock layers"
-            ],
-            "image_prompt": "Vast sweeping landscape of smooth undulating mountain ridges banded in vibrant horizontal stripes of terracotta red, sunny yellow, and turquoise green under clear blue skies.",
-            "stock_query": "colorful striped mountains aerial"
-          },
-          {
-            "text": "Number three, Lake Hillier in Australia. It's bubble-gum pink, and scientists think salt-loving algae are why. Pour some in a glass, and it's still pink.",
-            "badge": "#3",
-            "label": "LAKE HILLIER",
-            "stock_queries": [
-              "pink lake surrounded green forest",
-              "hand holding glass pink water"
-            ],
-            "image_prompt": "High aerial view of an opaque bubble-gum pink lake bordered by a sandy white rim and dark green eucalyptus forest, directly next to deep blue ocean water.",
-            "stock_query": "pink lake surrounded green forest"
-          },
-          {
-            "text": "Number two, Ca\u00f1o Cristales in Colombia, the river of five colors. A red water plant blooms when the light is just right.",
-            "badge": "#2",
-            "label": "CA\u00d1O CRISTALES",
-            "stock_queries": [
-              "red aquatic plants clear river",
-              "crystal clear river colorful riverbed"
-            ],
-            "image_prompt": "Close-up of vibrant magenta and crimson aquatic weed thriving beneath rushing crystal-clear river water flowing across ancient sandstone rock pools.",
-            "stock_query": "red aquatic plants clear river"
-          },
-          {
-            "text": "Number one, Salar de Uyuni, the biggest salt flat on Earth. After the rains, a thin layer of water turns it into a giant mirror. So number one is where you walk on the sky.",
-            "badge": "#1",
-            "label": "SALAR DE UYUNI",
-            "stock_queries": [
-              "salt flat mirror reflection clouds",
-              "person walking on mirrored water sky"
-            ],
-            "image_prompt": "A tiny silhouette of a person standing in the center of an immense flooded salt flat that creates a flawless mirror reflection of fluffy white clouds and blue sky, horizon completely seamless.",
-            "stock_query": "salt flat mirror reflection clouds"
-          },
-          {
-            "text": "Which would you visit first? Tell me in the comments. And if one still looks edited, remember this.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "salt flat sunset reflection golden hour",
-              "surreal landscape montage aerial"
-            ],
-            "image_prompt": "Stunning golden-hour panorama over a mirrored salt flat reflecting a blazing orange and purple sunset sky, peaceful and infinite natural beauty.",
-            "stock_query": "salt flat sunset reflection golden hour"
-          }
-        ],
-        "key_facts": [
-          "All five featured locations are real, natural landscapes open to visitors.",
-          "Giant's Causeway in Northern Ireland consists of approximately 40,000 predominantly hexagonal basalt columns formed by cooling volcanic lava.",
-          "Zhangye Danxia in China gets its rainbow-striped mountains from layered mineral deposits like iron oxide laid down over millions of years.",
-          "Lake Hillier in Australia maintains a permanent bubble-gum pink color caused primarily by salt-loving microalgae, remaining pink even when placed in a glass.",
-          "Ca\u00f1o Cristales in Colombia becomes the 'river of five colors' when the endemic aquatic plant Macarenia clavigera blooms bright red under specific light and water conditions.",
-          "Salar de Uyuni in Bolivia is the largest salt flat on Earth.",
-          "Seasonal rainwater over Salar de Uyuni forms an expansive, ultra-thin sheet of water that creates the world's largest natural mirror."
-        ],
-        "format": "ranking",
-        "tone": "normal",
-        "category": "27",
-        "script": "Before you call these five places fake, know this: you can visit every one of them, and number one is in Bolivia. Five real places that look photoshopped. Number five, the Giant's Causeway in Northern Ireland. Forty thousand stone columns, mostly six-sided, made by cooling lava. Number four, the rainbow mountains of Zhangye, China. Minerals like iron stained the rock in stripes. Number three, Lake Hillier in Australia. It's bubble-gum pink, and scientists think salt-loving algae are why. Pour some in a glass, and it's still pink. Number two, Ca\u00f1o Cristales in Colombia, the river of five colors. A red water plant blooms when the light is just right. Number one, Salar de Uyuni, the biggest salt flat on Earth. After the rains, a thin layer of water turns it into a giant mirror. So number one is where you walk on the sky. Which would you visit first? Tell me in the comments. And if one still looks edited, remember this.",
-        "plan_id": "P2026-10-19-01",
-        "shot_plan": [
-          {
-            "subject": "Bolivian salt flat landscape",
-            "queries": [
-              {
-                "q": "salt flat bolivia",
-                "must": [
-                  "bolivia"
-                ]
-              },
-              {
-                "q": "salar de uyuni",
-                "must": [
-                  "salt"
-                ]
-              },
-              {
-                "q": "vast landscape",
-                "must": [
-                  "landscape"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "Giant's Causeway basalt columns",
-            "queries": [
-              {
-                "q": "giants causeway",
-                "must": [
-                  "basalt"
-                ]
-              },
-              {
-                "q": "hexagonal stone columns",
-                "must": [
-                  "column"
-                ]
-              },
-              {
-                "q": "coastal rock formation",
-                "must": [
-                  "rock"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "Zhangye Danxia rainbow mountains",
-            "queries": [
-              {
-                "q": "rainbow mountains china",
-                "must": [
-                  "mountain"
-                ]
-              },
-              {
-                "q": "striped rock formation",
-                "must": [
-                  "stripe"
-                ]
-              },
-              {
-                "q": "colorful geological layers",
-                "must": [
-                  "geology"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "Lake Hillier aerial view",
-            "queries": [
-              {
-                "q": "pink lake australia",
-                "must": [
-                  "pink"
-                ]
-              },
-              {
-                "q": "lake hillier",
-                "must": [
-                  "lake"
-                ]
-              },
-              {
-                "q": "aerial water view",
-                "must": [
-                  "water"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "Ca\u00f1o Cristales river",
-            "queries": [
-              {
-                "q": "cano cristales river",
-                "must": [
-                  "river"
-                ]
-              },
-              {
-                "q": "colorful aquatic plants",
-                "must": [
-                  "plant"
-                ]
-              },
-              {
-                "q": "flowing water plants",
-                "must": [
-                  "water"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "Salar de Uyuni reflection",
-            "queries": [
-              {
-                "q": "salt flat mirror",
-                "must": [
-                  "reflection"
-                ]
-              },
-              {
-                "q": "sky reflection water",
-                "must": [
-                  "sky"
-                ]
-              },
-              {
-                "q": "walking on water",
-                "must": [
-                  "walking"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "Wide shot of a surreal landscape",
-            "queries": [
-              {
-                "q": "breathtaking landscape",
-                "must": [
-                  "scenery"
-                ]
-              },
-              {
-                "q": "natural wonder",
-                "must": [
-                  "nature"
-                ]
-              },
-              {
-                "q": "travel footage",
-                "must": [
-                  "travel"
-                ]
-              }
-            ]
-          }
-        ],
-        "broll": [
-          "aerial landscape",
-          "nature scenery",
-          "travel destination"
-        ],
-        "visual_style": "Fast-paced visual reveals of surreal, real-world locations using high-quality drone and landscape stock footage.",
-        "visual_refs": [
-          "TOP 5 REAL PLACES THAT LOOK LIKE AI \ud83d\ude31 #travel #nature #top5",
-          "These 5 places look fake but.. they are real \ud83d\ude0d#shorts #mindfuel",
-          "Top 5 Cars That Look FAKE! \ud83d\ude31\u203c\ufe0f #Shorts #CrazyCars",
-          "TOP 5 FRUITS that look AI-GENERATED but are actually REAL!!!",
-          "5 Real Nature Sounds That Sound Totally Fake \ud83d\udd0a",
-          "Top 5 Animal Records That Sound FAKE"
-        ],
-        "voice": "en-US-EmmaMultilingualNeural",
-        "visual_report": {
-          "shots": 13,
-          "checked": 13,
-          "unchecked": 0,
-          "filler": 2,
-          "ai": 0
-        }
-      },
-      "credits": [
-        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-EmmaMultilingualNeural).",
-        "Stock footage/photos (Pexels/Pixabay Content License): antonlukin (Pixabay) https://pixabay.com/videos/id-128689/; antonlukin (Pixabay) https://pixabay.com/videos/id-128114/; antonlukin (Pixabay) https://pixabay.com/videos/id-128192/; hhach (Pixabay) https://pixabay.com/photos/northern-ireland-giants-causeway-3801174/; falco (Pixabay) https://pixabay.com/photos/giants-causeway-northern-ireland-1182945/; MonicaVolpin (Pixabay) https://pixabay.com/photos/giants-causeway-basalt-columns-7227160/; ucuzucuyorum (Pixabay) https://pixabay.com/videos/id-132691/; ChristianBodhi (Pixabay) https://pixabay.com/videos/id-108056/; AttilaPergel (Pixabay) https://pixabay.com/videos/id-225408/; Osckar (Pixabay) https://pixabay.com/videos/id-1613/; MAdrian78 (Pixabay) https://pixabay.com/videos/id-371424/"
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-19",
-        "name": "2026-10-19-1-v0.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-19",
-        "name": "2026-10-19-1-v0-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,088 --> 00:00:02,188\nBefore you call these five places fake\n\n2\n00:00:02,188 --> 00:00:04,275\nknow this you can visit every one\n\n3\n00:00:04,275 --> 00:00:05,812\nof them and number one is in\n\n4\n00:00:05,812 --> 00:00:09,412\nBolivia Five real places that look photoshopped\n\n5\n00:00:09,412 --> 00:00:12,100\nNumber five the Giant's Causeway in Northern\n\n6\n00:00:12,100 --> 00:00:15,225\nIreland Forty thousand stone columns mostly\n\n7\n00:00:15,225 --> 00:00:18,637\nsix-sided made by cooling lava Number four\n\n8\n00:00:18,637 --> 00:00:21,663\nthe rainbow mountains of Zhangye China Minerals\n\n9\n00:00:21,663 --> 00:00:24,175\nlike iron stained the rock in stripes\n\n10\n00:00:24,175 --> 00:00:27,262\nNumber three Lake Hillier in Australia It's\n\n11\n00:00:27,262 --> 00:00:30,137\nbubble-gum pink and scientists think salt-loving\n\n12\n00:00:30,137 --> 00:00:32,062\nalgae are why Pour some in a\n\n13\n00:00:32,062 --> 00:00:35,250\nglass and it's still pink Number two\n\n14\n00:00:35,250 --> 00:00:37,925\nCa\u00f1o Cristales in Colombia the river of\n\n15\n00:00:37,925 --> 00:00:40,700\nfive colors A red water plant blooms\n\n16\n00:00:40,700 --> 00:00:42,875\nwhen the light is just right Number\n\n17\n00:00:42,875 --> 00:00:45,275\none Salar de Uyuni the biggest salt\n\n18\n00:00:45,275 --> 00:00:47,888\nflat on Earth After the rains a\n\n19\n00:00:47,888 --> 00:00:49,700\nthin layer of water turns it into\n\n20\n00:00:49,700 --> 00:00:52,000\na giant mirror So number one is\n\n21\n00:00:52,000 --> 00:00:53,950\nwhere you walk on the sky Which\n\n22\n00:00:53,950 --> 00:00:56,087\nwould you visit first Tell me in\n\n23\n00:00:56,087 --> 00:00:58,413\nthe comments And if one still looks\n\n24\n00:00:58,413 --> 00:01:00,487\nedited remember this\n",
-      "tg_msg": 542,
-      "opts_msg": 544,
-      "approved_by": "auto",
-      "quota_note": "2026-10-20",
-      "description_full": "These are five real places that look photoshopped: Lake Hillier the pink lake, Ca\u00f1o Cristales the river of five colors, the Giant's Causeway, the Zhangye rainbow mountains and Salar de Uyuni, the salt flat mirror. They look fake, but every one is a real place on Earth.\n\nIn this Short: why each place looks unreal, counting down to the salt flat that turns into a mirror.\n\nSources:\nhttps://en.wikipedia.org/wiki/Giant%27s_Causeway\nhttps://www.worldatlas.com/articles/why-is-lake-hillier-pink.html\nhttps://www.discovery.com/exploration/salar-de-uyuni-is-the-world-s-largest-natural-mirror\n\n#shorts #nature #travel #top5\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-EmmaMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): antonlukin (Pixabay) https://pixabay.com/videos/id-128689/; antonlukin (Pixabay) https://pixabay.com/videos/id-128114/; antonlukin (Pixabay) https://pixabay.com/videos/id-128192/; hhach (Pixabay) https://pixabay.com/photos/northern-ireland-giants-causeway-3801174/; falco (Pixabay) https://pixabay.com/photos/giants-causeway-northern-ireland-1182945/; MonicaVolpin (Pixabay) https://pixabay.com/photos/giants-causeway-basalt-columns-7227160/; ucuzucuyorum (Pixabay) https://pixabay.com/videos/id-132691/; ChristianBodhi (Pixabay) https://pixabay.com/videos/id-108056/; AttilaPergel (Pixabay) https://pixabay.com/videos/id-225408/; Osckar (Pixabay) https://pixabay.com/videos/id-1613/; MAdrian78 (Pixabay) https://pixabay.com/videos/id-371424/\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/dK85Mmhek4c",
-          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-20T10:09:59.421095+00:00",
-      "slot": "2026-10-20T23:15:00+00:00"
-    },
     "2026-10-19-2": {
       "topic": {
         "title": "Top 5 Funniest Real Museums \ud83d\ude02",
@@ -10033,9 +7695,9 @@
         "trend_source": "How Banana Slugs Glide Across Razor Blades (Zack D. Films, 337,527 views/h); superlative-plus-twist shape of 'Top 5 Fastest Animals (#1 Isn't on Land)'",
         "plan_id": "P2026-10-24-02"
       },
-      "status": "approved",
+      "status": "published",
       "by": "auto",
-      "updated": "2026-10-24T18:14:02.986239+00:00",
+      "updated": "2026-10-26T11:14:26.230566+00:00",
       "redos": 0,
       "package": {
         "primary_keyword": "smallest animal in the world",
@@ -10370,7 +8032,28 @@
       "tg_msg": 758,
       "opts_msg": 760,
       "approved_by": "auto",
-      "quota_note": "2026-10-26"
+      "quota_note": "2026-10-26",
+      "description_full": "These are the top 5 tiniest animals with backbones, counted down by size. The smallest animal in the world with a backbone is the Brazilian flea toad, a frog only about seven millimeters long.\n\nIn this Short: the bee hummingbird, the bumblebee bat, the nano chameleon, Paedophryne amauensis and the Brazilian flea toad, from smallest bird to smallest vertebrate.\n\nSources:\nhttps://www.smithsonianmag.com/smart-news/the-worlds-smallest-vertebrate-is-a-tiny-brazilian-frog-study-finds-180983867/\nhttps://www.motherjones.com/environment/2024/02/worlds-smallest-creatures-organisms/\nhttps://www.guinnessworldrecords.com/world-records/767624-smallest-species-of-frog\n\n#shorts #animals #smallestanimal #top5\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AvaMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): InspiredImages (Pixabay) https://pixabay.com/videos/id-2832/; NickyPe (Pixabay) https://pixabay.com/videos/id-190183/; InspiredImages (Pixabay) https://pixabay.com/videos/id-3779/; Afzaal0001 (Pixabay) https://pixabay.com/videos/id-215937/; RoyBuri (Pixabay) https://pixabay.com/videos/id-111290/; Vilkasss (Pixabay) https://pixabay.com/photos/toadlet-pumpkin-frog-brachycephalus-10148723/; Vilkasss (Pixabay) https://pixabay.com/photos/toadlet-frog-pumpkin-brachycephalus-10148721/; MoonpetalMedia (Pixabay) https://pixabay.com/videos/id-346869/\nMnalis / Wikimedia Commons (CC BY 4.0) https://commons.wikimedia.org/wiki/File:Tiny_frog_on_Prvi%C4%87.jpg\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/nT5sNsxak0A",
+          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-10-26T11:14:26.230580+00:00",
+      "slot": "2026-10-27T16:15:00+00:00"
     },
     "2026-10-24-3": {
       "topic": {
@@ -10382,9 +8065,9 @@
         "trend_source": "Why Cats Rub Against Your Laptop (Zack D. Films, breakout 1.27); light family-comedy outliers in today's viral signals (Tonga tonga, 47.6x)",
         "plan_id": "P2026-10-24-03"
       },
-      "status": "approved",
+      "status": "published",
       "by": "auto",
-      "updated": "2026-10-24T18:26:44.125138+00:00",
+      "updated": "2026-10-26T11:14:33.310589+00:00",
       "redos": 0,
       "package": {
         "primary_keyword": "why your dog tilts its head",
@@ -10717,7 +8400,28 @@
       "tg_msg": 761,
       "opts_msg": 763,
       "approved_by": "auto",
-      "quota_note": "2026-10-26"
+      "quota_note": "2026-10-26",
+      "description_full": "Why do dogs tilt their heads when you talk? A 2021 study of forty dogs found genius word-learning dogs tilt their heads far more often when you say a toy's name.\n\nIn this Short: the Hungarian study, genius border collies vs regular dogs, the 43 percent vs 2 percent result, and why each dog has a favorite tilt side.\n\nSources:\nhttps://www.discovermagazine.com/why-do-dogs-tilt-their-heads-to-one-side-44903\nhttps://ttkold.elte.hu/en/content/talk-to-tilt-head-tilting-in-dogs.t.5018\n\n#shorts #dogs #funnydogs #dogfacts #funny\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AndrewMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): htuuli (Pixabay) https://pixabay.com/photos/swiss-white-shepherd-white-dog-dog-2878336/; carinakrammer (Pixabay) https://pixabay.com/photos/pug-dog-domestic-animal-cute-black-943499/; jeremy8 (Pixabay) https://pixabay.com/photos/puppy-dog-head-tilted-cute-406163/; brixiv (Pixabay) https://pixabay.com/videos/id-171030/; Coverr-Free-Footage (Pixabay) https://pixabay.com/videos/id-5631/; Didgeman (Pixabay) https://pixabay.com/photos/chihuahua-bite-rope-small-dog-dog-2125691/; 825545 (Pixabay) https://pixabay.com/photos/malinois-and-border-collie-788032/; JACLOU-DL (Pixabay) https://pixabay.com/photos/puppy-rough-collie-toy-sleep-10448747/; brixiv (Pixabay) https://pixabay.com/videos/id-251873/; Edward_Everidge (Pixabay) https://pixabay.com/videos/id-109816/; DistillVideos (Pixabay) https://pixabay.com/videos/id-81/; moshehar (Pixabay) https://pixabay.com/videos/id-15305/\nReid Campbell / Wikimedia Commons (CC0) https://commons.wikimedia.org/wiki/File:Black_dog_head_tilt.jpg\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/U-aZcMGptGc",
+          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-10-26T11:14:33.310603+00:00",
+      "slot": "2026-10-27T19:15:00+00:00"
     },
     "2026-10-24-4": {
       "topic": {
@@ -10729,9 +8433,9 @@
         "trend_source": "How Mr. Potato Head Was Invented (Zack D. Films, 75,473 views/h, breakout 2.33)",
         "plan_id": "P2026-10-24-04"
       },
-      "status": "approved",
+      "status": "published",
       "by": "auto",
-      "updated": "2026-10-24T18:35:55.644623+00:00",
+      "updated": "2026-10-26T11:14:42.864403+00:00",
       "redos": 0,
       "package": {
         "primary_keyword": "frisbee history",
@@ -11063,7 +8767,28 @@
       "tg_msg": 764,
       "opts_msg": 766,
       "approved_by": "auto",
-      "quota_note": "2026-10-26"
+      "quota_note": "2026-10-26",
+      "description_full": "Why is it called a Frisbee? Frisbee history starts with a pie: the Frisbee is named after the Frisbie Pie Company of Bridgeport, Connecticut, whose empty pie tins college students tossed across campus.\n\nIn this Short: the pie tins at Yale, Fred Morrison's Pluto Platter, how Wham-O renamed it the Frisbee, and what happened to the bakery.\n\nThis is a true story.\n\nSources:\nhttps://www.mentalfloss.com/article/29137/how-empty-dessert-plate-inspired-frisbee\nhttps://www.museumofplay.org/?p=2186\nhttps://newenglandhistoricalsociety.com/the-sweet-new-england-history-of-the-frisbee/\n\n#shorts #frisbee #truestory #history #storytime\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-AU-WilliamMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): domi_color (Pixabay) https://pixabay.com/videos/id-97297/; Media_Hopper_Studio (Pixabay) https://pixabay.com/videos/id-369787/; eloguers (Pixabay) https://pixabay.com/videos/id-159029/; eloguers (Pixabay) https://pixabay.com/videos/id-159024/; ClickerHappy (Pixabay) https://pixabay.com/photos/bakery-french-out-of-business-food-2653199/; StockSnap (Pixabay) https://pixabay.com/photos/sunset-dusk-sky-girl-woman-people-2617540/; zerpixelt (Pixabay) https://pixabay.com/photos/frisbee-sand-beach-sea-sports-3035033/\nVirginia State Parks / Wikimedia Commons (CC BY 2.0) https://commons.wikimedia.org/wiki/File:BC_-_Playing_Frisbee_(32074224124).jpg\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/Mh57Xz_qHhY",
+          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-10-26T11:14:42.864418+00:00",
+      "slot": "2026-10-27T23:15:00+00:00"
     },
     "2026-10-25-101": {
       "topic": {
@@ -11206,12 +8931,12 @@
         "format": "long",
         "style": "Claymation Set"
       },
-      "status": "approved",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261025-roman-hypocaust",
       "redos": 0,
-      "updated": "2026-10-25T22:18:39.940380+00:00",
+      "updated": "2026-10-26T11:14:15.052643+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Claymation Set style). Voice: Kokoro text-to-speech."
       ],
@@ -11228,7 +8953,16 @@
       "srt": "1\n00:00:00,250 --> 00:00:02,650\nHow did the Romans heat their floors,\n\n2\n00:00:02,950 --> 00:00:04,530\nwithout a single wire?\n\n3\n00:00:05,080 --> 00:00:06,760\nTwo thousand years ago,\n\n4\n00:00:07,060 --> 00:00:08,560\nin the middle of winter,\n\n5\n00:00:08,860 --> 00:00:12,000\na Roman could walk across a stone floor barefoot,\n\n6\n00:00:12,300 --> 00:00:13,710\nand it would be warm.\n\n7\n00:00:14,260 --> 00:00:16,810\nThe trick was hiding under their feet.\n\n8\n00:00:17,360 --> 00:00:19,160\nIt's called a hypocaust,\n\n9\n00:00:19,460 --> 00:00:21,450\nwhich means \"heat from below.\"\n\n10\n00:00:21,750 --> 00:00:24,030\nThe Roman writer Vitruvius\n\n11\n00:00:24,330 --> 00:00:27,490\ncredits a businessman named Sergius Orata,\n\n12\n00:00:27,790 --> 00:00:29,820\naround 95 BC.\n\n13\n00:00:30,370 --> 00:00:32,620\nOrata got rich farming oysters,\n\n14\n00:00:32,920 --> 00:00:36,510\nand he sold wealthy Romans on heated \"hanging baths.\"\n\n15\n00:00:36,810 --> 00:00:40,160\nSoon, no fancy villa was complete without one.\n\n16\n00:00:40,710 --> 00:00:42,110\nSo how did it work?\n\n17\n00:00:42,660 --> 00:00:44,040\nStart with a furnace,\n\n18\n00:00:44,340 --> 00:00:45,750\ncalled the praefurnium,\n\n19\n00:00:46,050 --> 00:00:49,230\nbuilt just outside the room, a little lower down.\n\n20\n00:00:49,780 --> 00:00:51,740\nSlaves fed it wood all day.\n\n21\n00:00:52,290 --> 00:00:54,860\nNow, instead of laying the floor on the ground,\n\n22\n00:00:55,160 --> 00:00:57,230\nthe Romans lifted it up.\n\n23\n00:00:57,780 --> 00:00:59,980\nThey built short stacks of square bricks,\n\n24\n00:01:00,280 --> 00:01:01,280\ncalled pilae,\n\n25\n00:01:01,580 --> 00:01:03,070\nrow after row.\n\n26\n00:01:03,620 --> 00:01:05,980\nVitruvius says two feet tall.\n\n27\n00:01:06,530 --> 00:01:08,860\nOn top went big two-foot tiles,\n\n28\n00:01:09,160 --> 00:01:11,280\nthen a thick layer of concrete,\n\n29\n00:01:11,580 --> 00:01:13,710\nthen the floor you'd walk on.\n\n30\n00:01:14,260 --> 00:01:16,700\nThat left a hollow space underneath,\n\n31\n00:01:17,000 --> 00:01:19,450\nlike a crawl space made for smoke.\n\n32\n00:01:20,000 --> 00:01:22,130\nThe fire's hot air and smoke\n\n33\n00:01:22,430 --> 00:01:23,890\nrushed into that gap,\n\n34\n00:01:24,190 --> 00:01:25,820\nswirled between the pillars,\n\n35\n00:01:26,120 --> 00:01:28,600\nand soaked heat into the floor above.\n\n36\n00:01:29,150 --> 00:01:30,480\nBut it didn't stop there.\n\n37\n00:01:31,030 --> 00:01:33,410\nHollow clay pipes, called tubuli,\n\n38\n00:01:33,710 --> 00:01:35,760\nran up inside the walls.\n\n39\n00:01:36,310 --> 00:01:38,180\nHot air climbed through them,\n\n40\n00:01:38,480 --> 00:01:40,120\nwarming the walls too,\n\n41\n00:01:40,420 --> 00:01:42,950\nthen escaped through vents near the roof.\n\n42\n00:01:43,500 --> 00:01:46,110\nSo the whole room became a radiator.\n\n43\n00:01:46,660 --> 00:01:50,360\nHere's a detail Vitruvius was oddly specific about.\n\n44\n00:01:50,910 --> 00:01:53,990\nThe floor underneath should slope toward the furnace,\n\n45\n00:01:54,290 --> 00:01:56,140\nso if you threw a ball in,\n\n46\n00:01:56,440 --> 00:01:58,070\nit couldn't stop inside.\n\n47\n00:01:58,620 --> 00:02:00,920\nIt would roll right back to the fire.\n\n48\n00:02:01,470 --> 00:02:04,510\nRomans also lined up their rooms by heat.\n\n49\n00:02:05,060 --> 00:02:07,070\nThe caldarium, the hot room,\n\n50\n00:02:07,370 --> 00:02:09,250\nsat closest to the furnace.\n\n51\n00:02:09,800 --> 00:02:11,490\nNext came the warm room,\n\n52\n00:02:11,790 --> 00:02:13,050\nthe tepidarium.\n\n53\n00:02:13,600 --> 00:02:16,440\nAnd the cold plunge pool, the frigidarium,\n\n54\n00:02:16,740 --> 00:02:18,170\nsat farthest away.\n\n55\n00:02:18,720 --> 00:02:20,440\nSo, how hot did it get?\n\n56\n00:02:20,990 --> 00:02:23,920\nIn modern tests on rebuilt Roman baths,\n\n57\n00:02:24,220 --> 00:02:27,440\nthe floors reached twenty to fifty degrees Celsius.\n\n58\n00:02:27,990 --> 00:02:31,240\nHot enough that bathers wore wooden-soled sandals.\n\n59\n00:02:31,790 --> 00:02:35,010\nThe hot room's air sat around thirty-two degrees,\n\n60\n00:02:35,310 --> 00:02:36,530\nthick with steam.\n\n61\n00:02:37,080 --> 00:02:39,070\nAnd all of it ran on wood.\n\n62\n00:02:39,620 --> 00:02:42,350\nThe giant Baths of Caracalla in Rome\n\n63\n00:02:42,650 --> 00:02:45,610\nreportedly burned around ten tons of wood,\n\n64\n00:02:45,910 --> 00:02:47,250\nevery single day.\n\n65\n00:02:47,800 --> 00:02:49,570\nWhen the empire fell apart,\n\n66\n00:02:49,870 --> 00:02:52,200\nso did the skills and the labor\n\n67\n00:02:52,500 --> 00:02:54,550\nthat kept these furnaces burning.\n\n68\n00:02:55,100 --> 00:02:56,160\nFor centuries,\n\n69\n00:02:56,460 --> 00:02:59,880\nmuch of Europe went back to smoky open fires.\n\n70\n00:03:00,430 --> 00:03:02,460\nBut the idea never died.\n\n71\n00:03:03,010 --> 00:03:05,170\nIn Korea, the ondol system\n\n72\n00:03:05,470 --> 00:03:09,260\nruns fire smoke under the floor in a very similar way.\n\n73\n00:03:09,810 --> 00:03:12,030\nAnd today's underfloor heating\n\n74\n00:03:12,330 --> 00:03:14,820\ndoes exactly what the Romans did:\n\n75\n00:03:15,120 --> 00:03:16,360\nwarm the floor,\n\n76\n00:03:16,660 --> 00:03:18,100\nand let the heat rise.\n\n77\n00:03:18,650 --> 00:03:20,960\nJust with pipes instead of pillars,\n\n78\n00:03:21,260 --> 00:03:23,290\nand nobody shoveling wood.\n\n79\n00:03:23,840 --> 00:03:25,810\nWould you trade your radiator\n\n80\n00:03:26,110 --> 00:03:27,580\nfor a Roman floor?\n\n",
       "tg_msg": 791,
       "approved_by": "auto",
-      "quota_note": "2026-10-26"
+      "quota_note": "2026-10-26",
+      "description_full": "How did the ancient Romans heat their floors without electricity? The hypocaust raised the floor on stacks of bricks called pilae, so hot air from a wood furnace could flow underneath and up hollow clay pipes in the walls, turning the whole bathhouse into a radiator.\n\nChapters:\n0:00 Warm floors 2,000 years ago\n0:21 Who invented the hypocaust\n0:40 How it worked\n1:46 Vitruvius' oddly specific rule\n2:18 How hot it got\n2:47 After Rome, and today\n\nSources:\nhttps://en.wikipedia.org/wiki/Hypocaust\nhttps://lexundria.com/vitr/5.10.2/mg\nhttps://www.carnuntum.at/tr/dergi/the-floor-is-lava-heiztechniken-im-antiken-carnuntum/1723\n\nAnimated in the Claymation Set style.\n\nFollow Zorbly AI for a new Short every day.\n\n#history #ancientrome #engineering\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Claymation Set style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/yVlgAyAJn_8",
+          "private \u00b7 thumbnail \u2705"
+        ]
+      },
+      "uploaded_at": "2026-10-26T11:14:15.052662+00:00",
+      "slot": "2026-10-26T23:15:00+00:00"
     },
     "2026-10-25-1": {
       "topic": {
@@ -11240,9 +8974,9 @@
         "trend_source": "title shape of How Pencil Sharpeners Work (345,661 views/h); also How Electrical Outlets Work (68,512 views/h)",
         "plan_id": "P2026-10-25-01"
       },
-      "status": "approved",
+      "status": "published",
       "by": "auto",
-      "updated": "2026-10-25T22:24:16.859429+00:00",
+      "updated": "2026-10-26T11:14:52.164141+00:00",
       "redos": 0,
       "package": {
         "primary_keyword": "how tape measures work",
@@ -11430,7 +9164,28 @@
       "tg_msg": 797,
       "opts_msg": 799,
       "approved_by": "auto",
-      "quota_note": "2026-10-26"
+      "quota_note": "2026-10-26",
+      "description_full": "How do tape measures work, and why is the tape measure hook loose? See the spring that pulls the blade back, why the blade is curved, and how the wobbly hook keeps every measurement accurate.\n\nIn this Short: the coiled spring, the curved blade and the loose hook that measures inside and outside.\n\nSources:\nhttps://www.engineersupply.com/How-do-measuring-tapes-work.aspx\nhttps://www.slashgear.com/1853705/tape-measures-curved-reason/\n\n#shorts #howitworks #tools #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-EmmaMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): TungArt7 (Pixabay) https://pixabay.com/videos/id-212000/\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/NdyO9Qm1gOA",
+          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-10-26T11:14:52.164157+00:00",
+      "slot": "2026-10-28T01:15:00+00:00"
     },
     "2026-10-25-2": {
       "topic": {
@@ -12588,12 +10343,12 @@
         "format": "animated",
         "style": "Napkin Sketch"
       },
-      "status": "approved",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261025-thermos",
       "redos": 0,
-      "updated": "2026-10-26T00:32:20.287369+00:00",
+      "updated": "2026-10-26T11:14:19.255021+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Napkin Sketch style). Voice: Kokoro text-to-speech."
       ],
@@ -12610,7 +10365,98 @@
       "srt": "1\n00:00:00,250 --> 00:00:02,130\nHow does a thermos keep coffee hot\n\n2\n00:00:02,430 --> 00:00:03,840\nfor twelve whole hours?\n\n3\n00:00:04,390 --> 00:00:06,030\nHeat escapes in three ways.\n\n4\n00:00:06,580 --> 00:00:07,930\nIt can touch its way out,\n\n5\n00:00:08,230 --> 00:00:09,260\nthat's conduction.\n\n6\n00:00:09,810 --> 00:00:11,350\nIt can ride on moving air,\n\n7\n00:00:11,650 --> 00:00:12,700\nthat's convection.\n\n8\n00:00:13,250 --> 00:00:15,740\nOr it can glow away as invisible light,\n\n9\n00:00:16,040 --> 00:00:17,210\ncalled radiation.\n\n10\n00:00:17,760 --> 00:00:19,440\nA thermos blocks all three.\n\n11\n00:00:19,990 --> 00:00:21,420\nIt's really two bottles,\n\n12\n00:00:21,720 --> 00:00:23,030\none inside the other,\n\n13\n00:00:23,330 --> 00:00:25,590\nand the gap between them is a vacuum.\n\n14\n00:00:26,140 --> 00:00:27,360\nWith no air in there,\n\n15\n00:00:27,660 --> 00:00:29,190\nheat has nothing to touch,\n\n16\n00:00:29,490 --> 00:00:30,750\nand nothing to ride.\n\n17\n00:00:31,300 --> 00:00:32,640\nThen the walls are shiny,\n\n18\n00:00:32,940 --> 00:00:33,870\nlike a mirror,\n\n19\n00:00:34,170 --> 00:00:36,480\nso the glow bounces back into your coffee.\n\n20\n00:00:37,030 --> 00:00:38,860\nA scientist named James Dewar\n\n21\n00:00:39,160 --> 00:00:42,220\ninvented it in 1892,\n\n22\n00:00:42,520 --> 00:00:44,620\nto keep liquid gases ice cold.\n\n23\n00:00:45,170 --> 00:00:46,560\nThe only real leak?\n\n24\n00:00:47,110 --> 00:00:47,780\nThe lid.\n\n25\n00:00:48,330 --> 00:00:50,870\nSo what's the longest your coffee ever stayed hot?\n\n",
       "tg_msg": 811,
       "approved_by": "auto",
-      "quota_note": "2026-10-26"
+      "quota_note": "2026-10-26",
+      "description_full": "How does a thermos (vacuum flask) keep coffee hot for hours? Heat escapes by conduction, convection and radiation, and a thermos blocks all three with a vacuum gap between two walls and shiny, mirror-like surfaces.\n\nSources:\nhttps://www.scienceabc.com/innovation/thermos-flask-keep-hot-things-hot-cold-things-cold.html\nhttps://www.lifeventure.com/blogs/news/vacuum-flasks-explained\nhttps://greatpatent.com/the-thermos-was-a-laboratory-instrument-nobody-patented\n\nAnimated in the Napkin Sketch style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #science #howitworks #thermos\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Napkin Sketch style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/AHlCHTrQwkU",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-10-26T11:14:19.255073+00:00",
+      "slot": "2026-10-27T01:15:00+00:00"
+    },
+    "2026-10-26-102": {
+      "topic": {
+        "title": "How does a plane toilet flush at 35,000 feet?",
+        "format": "animated",
+        "angle": "Synthwave Outrun"
+      },
+      "package": {
+        "title": "How a Plane Toilet Flushes at 35,000 Feet \u2708\ufe0f",
+        "description": "How does an airplane toilet flush? Plane toilets are vacuum toilets: a valve opens the bowl to the thin air outside, the higher cabin pressure shoves everything into a tank at the back, and below 16,000 feet an electric vacuum pump does the job instead.\n\nSources:\nhttps://satelliteindustries.com/blog/vacuum-toilet-system-in-aircraft\nhttps://thepointsguy.com/news/how-airplane-toilets-work/\nhttps://aerocorner.com/blog/how-airplane-toilets-work/\n\nAnimated in the Synthwave Outrun style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#science",
+          "#howitworks",
+          "#aviation"
+        ],
+        "tags": [
+          "airplane toilet",
+          "plane toilet",
+          "how does a plane toilet work",
+          "vacuum toilet",
+          "airplane vacuum toilet",
+          "cabin pressure",
+          "aviation facts",
+          "how it works",
+          "science shorts",
+          "physics explained",
+          "flying facts",
+          "air pressure",
+          "zorbly ai"
+        ],
+        "category": "27",
+        "pinned_comment": "Have you ever jumped when a plane toilet flushed? Be honest \ud83d\ude02",
+        "thumbnail_text": "WHOOSH",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "How does a plane toilet flush\nat thirty-five thousand feet?\nIt barely uses water.\nIt uses the sky.\nYour cabin is pressurized,\npacked with air like a balloon.\nOutside, the air is super thin.\nPress the button,\nand a valve opens a pipe\nfrom the bowl to that thin outside air.\nThe high pressure in the cabin\nshoves everything down the pipe.\nThat's the whoosh.\nIt all lands in a tank at the back of the plane.\nAbout three seconds later,\nthe valve slams shut.\nBut below sixteen thousand feet,\nthe outside air isn't thin enough,\nso an electric pump makes the vacuum instead.\nAnd no, nothing gets dumped in the sky.\nGround crews empty the tank after landing.\nSo, next flight,\nare you brave enough to press it?",
+        "key_facts": [
+          "Airplane toilets are vacuum toilets (patented by James Kemper in 1975, on Boeing jets by 1982)",
+          "At altitude a valve connects the bowl to low outside pressure; higher cabin pressure pushes waste through",
+          "Waste goes to a tank at the rear of the aircraft",
+          "Valves close after about 3-4 seconds",
+          "Below about 16,000 ft (and on the ground) an electric vacuum generator creates the suction",
+          "Waste is not dumped in flight; ground service trucks empty the tank after landing"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Synthwave Outrun"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261026-plane-toilet",
+      "redos": 0,
+      "updated": "2026-10-26T11:13:55.900667+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Synthwave Outrun style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-26",
+        "name": "2026-10-26-102.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-26",
+        "name": "2026-10-26-102-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:01,840\nHow does a plane toilet flush\n\n2\n00:00:02,140 --> 00:00:03,860\nat thirty-five thousand feet?\n\n3\n00:00:04,410 --> 00:00:05,840\nIt barely uses water.\n\n4\n00:00:06,390 --> 00:00:07,700\nIt uses the sky.\n\n5\n00:00:08,250 --> 00:00:09,920\nYour cabin is pressurized,\n\n6\n00:00:10,220 --> 00:00:11,800\npacked with air like a balloon.\n\n7\n00:00:12,350 --> 00:00:14,240\nOutside, the air is super thin.\n\n8\n00:00:14,790 --> 00:00:15,770\nPress the button,\n\n9\n00:00:16,070 --> 00:00:17,530\nand a valve opens a pipe\n\n10\n00:00:17,830 --> 00:00:19,910\nfrom the bowl to that thin outside air.\n\n11\n00:00:20,460 --> 00:00:22,090\nThe high pressure in the cabin\n\n12\n00:00:22,390 --> 00:00:24,190\nshoves everything down the pipe.\n\n13\n00:00:24,740 --> 00:00:25,680\nThat's the whoosh.\n\n14\n00:00:26,230 --> 00:00:28,710\nIt all lands in a tank at the back of the plane.\n\n15\n00:00:29,260 --> 00:00:30,860\nAbout three seconds later,\n\n16\n00:00:31,160 --> 00:00:32,400\nthe valve slams shut.\n\n17\n00:00:32,950 --> 00:00:34,840\nBut below sixteen thousand feet,\n\n18\n00:00:35,140 --> 00:00:36,970\nthe outside air isn't thin enough,\n\n19\n00:00:37,270 --> 00:00:39,960\nso an electric pump makes the vacuum instead.\n\n20\n00:00:40,510 --> 00:00:42,910\nAnd no, nothing gets dumped in the sky.\n\n21\n00:00:43,460 --> 00:00:46,020\nGround crews empty the tank after landing.\n\n22\n00:00:46,570 --> 00:00:47,570\nSo, next flight,\n\n23\n00:00:47,870 --> 00:00:49,420\nare you brave enough to press it?\n\n",
+      "tg_msg": 821
     }
   },
   "history": [
@@ -12700,10 +10546,11 @@
   "visual_searches": {
     "2026-10-25": 3
   },
-  "signals_day": "2026-10-25",
+  "signals_day": "2026-10-26",
   "drops_done": {
     "drop/20261025-autumn-leaves": "2026-10-25-101",
     "drop/20261025-roman-hypocaust": "2026-10-25-102",
-    "drop/20261025-thermos": "2026-10-26-101"
+    "drop/20261025-thermos": "2026-10-26-101",
+    "drop/20261026-plane-toilet": "2026-10-26-102"
   }
 }
