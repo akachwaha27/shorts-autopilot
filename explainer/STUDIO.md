@@ -41,9 +41,18 @@ payoff. Ashu can edit it on GitHub (add rows, reorder, set `status` to `skip`). 
   ideas, not facts: verify everything in step 2, fix the angle if the sources disagree, and if the premise turns out
   to be false, set that row's `status` to `skip` with a reason in `notes` and take the next one.
 - If no row of your kind is ready, pick a fresh topic yourself (rules below) and append it to the sheet as you make it.
+- Ideas come from what is breaking out. The bot saves `content/reference_signals.json` every day: the recent uploads
+  of the explainer channels Ashu follows (`content/reference_channels.json`: Zack D Films, Peekaboo Kidz / Dr Binocs,
+  Science ABC and similar), each with `multiple` = views / that channel's median for the same format and
+  `views_per_day`. Before you start, if that file is from the last 2 days and `trend_rows_ready` is under 3, add 2-3
+  new rows of your kind built from its breakouts (multiple >= 2 first, then the highest views_per_day; Shorts for a
+  short run, long videos for a long run): take the TITLE SHAPE and the KIND OF QUESTION or subject area that is
+  winning, never the subject itself, its script, characters or scenes. Fill `inspired_by` with
+  "<channel>: <title> (<multiple>x, <views_per_day>/day)". pick.py serves rows with `inspired_by` first, so re-run it
+  after adding them. If vidIQ has credits you may also use vidiq_channel_videos / vidiq_outliers on those channels.
 - Keep the sheet stocked: when `ready_left` (counting the row you take) is under 6, append 3 new rows of your kind
-  (next free id: S### for shorts, L### for long; status `ready`; topic, mechanism, key_number, 2-3 fitting styles
-  joined with `|`; notes "idea only: verify every fact with a web search when making it").
+  the same way (next free id: S### for shorts, L### for long; status `ready`; topic, mechanism, key_number, 2-3
+  fitting styles joined with `|`; inspired_by; notes "idea only: verify every fact with a web search when making it").
 
 Topic rules (for new rows and fallback picks): match the style (ancient tech → ukiyo-e / cut-paper / claymation /
 low-poly; machines → synthwave / pixel / flat-vector; nature → low-poly / cut-paper / napkin; body → flat-vector /

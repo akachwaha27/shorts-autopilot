@@ -552,6 +552,12 @@ def poll_once(st, wait=0):
             trends.viral_signals()
         except Exception as e:  # noqa: BLE001
             print("viral signals failed:", e)
+    if st.get("refs_day") != today():  # explainer reference channels, for Claude's explainer topic sheet
+        st["refs_day"] = today()
+        try:
+            trends.reference_signals()
+        except Exception as e:  # noqa: BLE001
+            print("reference signals failed:", e)
     catch_up_trends(st)
     try:  # explainer videos made inside Claude, waiting on drop/* branches
         from . import drops

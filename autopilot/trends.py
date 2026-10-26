@@ -3,7 +3,7 @@ import json
 import os
 import re
 import xml.etree.ElementTree as ET
-from datetime import timedelta
+from datetime import datetime, timedelta
 
 import requests
 
@@ -134,6 +134,90 @@ def viral_signals():
     with open(SIGNALS, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=1, ensure_ascii=False)
     print(f"viral signals: {len(out)} Shorts, {sum(1 for x in out if (x['multiple'] or 0) >= 2)} outliers")
+    return data
+
+
+REFS = os.path.join("content", "reference_channels.json")
+REF_SIGNALS = os.path.join("content", "reference_signals.json")
+
+
+def _secs(iso):
+    m = re.match(r"P(?:(\d+)D)?T?(?:(\d+)H)?(?:(\d+)M)?(?:(\d+)S)?", iso or "")
+    if not m:
+        return 0
+    d, h, mi, se = (int(x or 0) for x in m.groups())
+    return d * 86400 + h * 3600 + mi * 60 + se
+
+
+def reference_signals():
+    """Recent uploads of the explainer channels Ashu follows (content/reference_channels.json), each scored by
+    views / that channel's median for the same format (Short or long) and by views per day. Saved for Claude's
+    explainer studio, which builds its topic sheet from it. About 3 quota units per channel."""
+    if not config.YOUTUBE_API_KEY or not os.path.exists(REFS):
+        return None
+    import statistics
+    import sys
+    sys.path.insert(0, os.path.join(os.path.dirname(__file__), "..", "tools"))
+    from yt_skill.swipe import classify
+    base, key = "https://www.googleapis.com/youtube/v3", config.YOUTUBE_API_KEY
+    cfg = json.load(open(REFS, encoding="utf-8"))
+    chan_ids, handles = set(), []
+    for c in cfg.get("channels", []):
+        (chan_ids.add(c) if c.startswith("UC") else handles.append(c.lstrip("@")))
+    vids = cfg.get("reference_videos", [])
+    if vids:
+        for v in requests.get(f"{base}/videos", timeout=30, params={"part": "snippet", "id": ",".join(vids[:50]), "key": key}).json().get("items", []):
+            chan_ids.add(v["snippet"]["channelId"])
+    chans = []
+    for h in handles:
+        try:
+            chans += requests.get(f"{base}/channels", timeout=30, params={"part": "snippet,contentDetails,statistics", "forHandle": h, "key": key}).json().get("items", [])
+        except Exception as e:  # noqa: BLE001
+            print("reference channel lookup failed:", h, e)
+    known = {c["id"] for c in chans}
+    rest = sorted(chan_ids - known)
+    if rest:
+        chans += requests.get(f"{base}/channels", timeout=30, params={"part": "snippet,contentDetails,statistics", "id": ",".join(rest[:50]), "key": key}).json().get("items", [])
+    now, out, summary = state.now(), [], []
+    for c in chans:
+        try:
+            pl = c["contentDetails"]["relatedPlaylists"]["uploads"]
+            ids = [x["contentDetails"]["videoId"] for x in requests.get(f"{base}/playlistItems", timeout=30, params={
+                "part": "contentDetails", "playlistId": pl, "maxResults": 50, "key": key}).json().get("items", [])]
+            items = requests.get(f"{base}/videos", timeout=30, params={"part": "snippet,statistics,contentDetails",
+                                                                       "id": ",".join(ids), "key": key}).json().get("items", []) if ids else []
+        except Exception as e:  # noqa: BLE001
+            print("reference uploads failed:", c.get("id"), e)
+            continue
+        rows = []
+        for v in items:
+            sn, secs = v["snippet"], _secs(v["contentDetails"].get("duration"))
+            views = int(v.get("statistics", {}).get("viewCount", 0))
+            age_d = max((now - datetime.fromisoformat(sn["publishedAt"].replace("Z", "+00:00"))).total_seconds() / 86400, 0.25)
+            rows.append({"title": sn.get("title", ""), "format": "short" if secs <= 180 else "long", "seconds": secs,
+                         "views": views, "views_per_day": int(views / age_d), "age_days": round(age_d, 1),
+                         "published": sn["publishedAt"][:10], "url": f"https://www.youtube.com/watch?v={v['id']}"})
+        for fmt in ("short", "long"):
+            vs = [r["views"] for r in rows if r["format"] == fmt]
+            med = statistics.median(vs) if len(vs) >= 3 else None
+            for r in rows:
+                if r["format"] == fmt:
+                    r["channel_median"] = int(med) if med else None
+                    r["multiple"] = round(r["views"] / med, 1) if med else None
+        name = c["snippet"].get("title", c["id"])
+        for r in rows:
+            r["channel"], r["formula"] = name, classify(r["title"])
+        out += rows
+        summary.append({"channel": name, "id": c["id"], "subscribers": int(c.get("statistics", {}).get("subscriberCount", 0) or 0),
+                        "recent_uploads": len(rows)})
+    out = [r for r in out if not BLOCKLIST.search(r["title"])]
+    out.sort(key=lambda r: (r["multiple"] or 0, r["views_per_day"]), reverse=True)
+    data = {"date": now.date().isoformat(), "channels": summary,
+            "note": "multiple = views / that channel's median for the same format (>= 2 means it broke out); learn the shape and the kind of question, never copy a subject, script, character or scene",
+            "videos": out}
+    with open(REF_SIGNALS, "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=1, ensure_ascii=False)
+    print(f"reference signals: {len(summary)} channels, {len(out)} videos, {sum(1 for r in out if (r['multiple'] or 0) >= 2)} outliers")
     return data
 
 

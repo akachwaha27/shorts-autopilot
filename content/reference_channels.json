@@ -1,0 +1,5 @@
+{
+ "note": "Channels whose recent uploads the bot measures every day (views vs that channel's own median) so Claude's explainer topic sheet follows what is breaking out. Edit freely: handles with @, or channel ids starting UC. reference_videos: a video id here adds its channel too.",
+ "channels": ["@zackdfilms", "@Peekaboo_Kidz", "@Scienceabc", "@MinuteEarth", "@TED-Ed", "@kurzgesagt"],
+ "reference_videos": ["qr_dTySMl7s"]
+}

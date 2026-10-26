@@ -28,7 +28,7 @@ STYLES = {  # style -> template file (templates/*.txt live in the Explainer Tool
 
 
 QUEUE = os.path.join(HERE, "topics", "queue.csv")
-FIELDS = ["id", "kind", "status", "topic", "mechanism", "key_number", "styles", "made_id", "notes"]
+FIELDS = ["id", "kind", "status", "topic", "mechanism", "key_number", "styles", "inspired_by", "made_id", "notes"]
 
 
 def read_queue():
@@ -57,6 +57,7 @@ def main():
     log = json.load(open(path)) if os.path.exists(path) else []
     rows = read_queue()
     ready = [r for r in rows if r["kind"] == kind and r["status"] == "ready"]
+    ready.sort(key=lambda r: not r.get("inspired_by"))  # rows built from what is breaking out go first
     row = ready[0] if ready else None
     recent = [r.get("style") for r in log[-4:]]
     wanted = [s for s in (row["styles"].split("|") if row and row.get("styles") else []) if s in STYLES]
@@ -65,6 +66,7 @@ def main():
     vertical = kind != "long"
     print(json.dumps({
         "kind": kind, "topic_row": row, "ready_left": len(ready),
+        "trend_rows_ready": sum(1 for r in ready if r.get("inspired_by")),
         "style": style, "template": f"templates/{STYLES[style]}",
         "shell": "examples/ice-in-the-desert/shell-9x16.html" if vertical else "examples/ice-in-the-desert/shell-16x9.html",
         "size": [1080, 1920] if vertical else [1280, 720],
