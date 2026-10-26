@@ -1,0 +1,699 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.11,
+  "text": "How did people in old Japan",
+  "words": [
+   [
+    "how",
+    0.25
+   ],
+   [
+    "did",
+    0.5
+   ],
+   [
+    "people",
+    0.76
+   ],
+   [
+    "in",
+    1.26
+   ],
+   [
+    "old",
+    1.43
+   ],
+   [
+    "japan",
+    1.68
+   ]
+  ]
+ },
+ {
+  "s": 2.41,
+  "e": 3.79,
+  "text": "smell what time it was?",
+  "words": [
+   [
+    "smell",
+    2.41
+   ],
+   [
+    "what",
+    2.79
+   ],
+   [
+    "time",
+    3.1
+   ],
+   [
+    "it",
+    3.41
+   ],
+   [
+    "was",
+    3.56
+   ]
+  ]
+ },
+ {
+  "s": 4.34,
+  "e": 5.81,
+  "text": "No gears. No ticking.",
+  "words": [
+   [
+    "no",
+    4.34
+   ],
+   [
+    "gears",
+    4.53
+   ],
+   [
+    "no",
+    4.98
+   ],
+   [
+    "ticking",
+    5.17
+   ]
+  ]
+ },
+ {
+  "s": 6.36,
+  "e": 7.74,
+  "text": "Just a box of ash.",
+  "words": [
+   [
+    "just",
+    6.36
+   ],
+   [
+    "a",
+    6.78
+   ],
+   [
+    "box",
+    6.89
+   ],
+   [
+    "of",
+    7.21
+   ],
+   [
+    "ash",
+    7.42
+   ]
+  ]
+ },
+ {
+  "s": 8.29,
+  "e": 10.25,
+  "text": "First, they smoothed white ash flat,",
+  "words": [
+   [
+    "first",
+    8.29
+   ],
+   [
+    "they",
+    8.63
+   ],
+   [
+    "smoothed",
+    8.9
+   ],
+   [
+    "white",
+    9.44
+   ],
+   [
+    "ash",
+    9.78
+   ],
+   [
+    "flat",
+    9.98
+   ]
+  ]
+ },
+ {
+  "s": 10.55,
+  "e": 11.93,
+  "text": "and pressed a stamp into it.",
+  "words": [
+   [
+    "and",
+    10.55
+   ],
+   [
+    "pressed",
+    10.74
+   ],
+   [
+    "a",
+    11.18
+   ],
+   [
+    "stamp",
+    11.24
+   ],
+   [
+    "into",
+    11.56
+   ],
+   [
+    "it",
+    11.81
+   ]
+  ]
+ },
+ {
+  "s": 12.48,
+  "e": 13.73,
+  "text": "That left a groove,",
+  "words": [
+   [
+    "that",
+    12.48
+   ],
+   [
+    "left",
+    12.81
+   ],
+   [
+    "a",
+    13.15
+   ],
+   [
+    "groove",
+    13.23
+   ]
+  ]
+ },
+ {
+  "s": 14.03,
+  "e": 16.03,
+  "text": "a maze that snakes back and forth.",
+  "words": [
+   [
+    "a",
+    14.03
+   ],
+   [
+    "maze",
+    14.1
+   ],
+   [
+    "that",
+    14.4
+   ],
+   [
+    "snakes",
+    14.69
+   ],
+   [
+    "back",
+    15.14
+   ],
+   [
+    "and",
+    15.43
+   ],
+   [
+    "forth",
+    15.66
+   ]
+  ]
+ },
+ {
+  "s": 16.58,
+  "e": 18.69,
+  "text": "They filled the groove with incense powder:",
+  "words": [
+   [
+    "they",
+    16.58
+   ],
+   [
+    "filled",
+    16.81
+   ],
+   [
+    "the",
+    17.16
+   ],
+   [
+    "groove",
+    17.34
+   ],
+   [
+    "with",
+    17.69
+   ],
+   [
+    "incense",
+    17.93
+   ],
+   [
+    "powder",
+    18.34
+   ]
+  ]
+ },
+ {
+  "s": 18.99,
+  "e": 20.36,
+  "text": "one long, thin trail.",
+  "words": [
+   [
+    "one",
+    18.99
+   ],
+   [
+    "long",
+    19.25
+   ],
+   [
+    "thin",
+    19.59
+   ],
+   [
+    "trail",
+    19.94
+   ]
+  ]
+ },
+ {
+  "s": 20.91,
+  "e": 21.92,
+  "text": "Light one end,",
+  "words": [
+   [
+    "light",
+    20.91
+   ],
+   [
+    "one",
+    21.37
+   ],
+   [
+    "end",
+    21.64
+   ]
+  ]
+ },
+ {
+  "s": 22.22,
+  "e": 24.38,
+  "text": "and a tiny ember crawls through the maze,",
+  "words": [
+   [
+    "and",
+    22.22
+   ],
+   [
+    "a",
+    22.41
+   ],
+   [
+    "tiny",
+    22.48
+   ],
+   [
+    "ember",
+    22.74
+   ],
+   [
+    "crawls",
+    23.07
+   ],
+   [
+    "through",
+    23.46
+   ],
+   [
+    "the",
+    23.92
+   ],
+   [
+    "maze",
+    24.12
+   ]
+  ]
+ },
+ {
+  "s": 24.68,
+  "e": 26.16,
+  "text": "at a nearly steady speed.",
+  "words": [
+   [
+    "at",
+    24.68
+   ],
+   [
+    "a",
+    24.83
+   ],
+   [
+    "nearly",
+    24.91
+   ],
+   [
+    "steady",
+    25.35
+   ],
+   [
+    "speed",
+    25.79
+   ]
+  ]
+ },
+ {
+  "s": 26.71,
+  "e": 28.02,
+  "text": "Here's the clever part.",
+  "words": [
+   [
+    "heres",
+    26.71
+   ],
+   [
+    "the",
+    27.08
+   ],
+   [
+    "clever",
+    27.3
+   ],
+   [
+    "part",
+    27.73
+   ]
+  ]
+ },
+ {
+  "s": 28.57,
+  "e": 30.28,
+  "text": "At set marks along the trail,",
+  "words": [
+   [
+    "at",
+    28.57
+   ],
+   [
+    "set",
+    28.72
+   ],
+   [
+    "marks",
+    28.94
+   ],
+   [
+    "along",
+    29.31
+   ],
+   [
+    "the",
+    29.69
+   ],
+   [
+    "trail",
+    29.91
+   ]
+  ]
+ },
+ {
+  "s": 30.58,
+  "e": 32.38,
+  "text": "they switched to a different incense.",
+  "words": [
+   [
+    "they",
+    30.58
+   ],
+   [
+    "switched",
+    30.81
+   ],
+   [
+    "to",
+    31.28
+   ],
+   [
+    "a",
+    31.39
+   ],
+   [
+    "different",
+    31.45
+   ],
+   [
+    "incense",
+    31.97
+   ]
+  ]
+ },
+ {
+  "s": 32.93,
+  "e": 34.89,
+  "text": "So when the smell in the room changed,",
+  "words": [
+   [
+    "so",
+    32.93
+   ],
+   [
+    "when",
+    33.06
+   ],
+   [
+    "the",
+    33.32
+   ],
+   [
+    "smell",
+    33.52
+   ],
+   [
+    "in",
+    33.85
+   ],
+   [
+    "the",
+    33.98
+   ],
+   [
+    "room",
+    34.17
+   ],
+   [
+    "changed",
+    34.43
+   ]
+  ]
+ },
+ {
+  "s": 35.19,
+  "e": 36.78,
+  "text": "you knew more time had passed.",
+  "words": [
+   [
+    "you",
+    35.19
+   ],
+   [
+    "knew",
+    35.39
+   ],
+   [
+    "more",
+    35.66
+   ],
+   [
+    "time",
+    35.92
+   ],
+   [
+    "had",
+    36.19
+   ],
+   [
+    "passed",
+    36.38
+   ]
+  ]
+ },
+ {
+  "s": 37.33,
+  "e": 39.51,
+  "text": "Some trails burned for twelve hours.",
+  "words": [
+   [
+    "some",
+    37.33
+   ],
+   [
+    "trails",
+    37.62
+   ],
+   [
+    "burned",
+    38.06
+   ],
+   [
+    "for",
+    38.49
+   ],
+   [
+    "twelve",
+    38.71
+   ],
+   [
+    "hours",
+    39.14
+   ]
+  ]
+ },
+ {
+  "s": 40.06,
+  "e": 41.58,
+  "text": "Some lasted a whole month.",
+  "words": [
+   [
+    "some",
+    40.06
+   ],
+   [
+    "lasted",
+    40.35
+   ],
+   [
+    "a",
+    40.78
+   ],
+   [
+    "whole",
+    40.85
+   ],
+   [
+    "month",
+    41.22
+   ]
+  ]
+ },
+ {
+  "s": 42.13,
+  "e": 44.04,
+  "text": "A few even dropped a little ball",
+  "words": [
+   [
+    "a",
+    42.13
+   ],
+   [
+    "few",
+    42.2
+   ],
+   [
+    "even",
+    42.42
+   ],
+   [
+    "dropped",
+    42.72
+   ],
+   [
+    "a",
+    43.23
+   ],
+   [
+    "little",
+    43.3
+   ],
+   [
+    "ball",
+    43.74
+   ]
+  ]
+ },
+ {
+  "s": 44.34,
+  "e": 46.1,
+  "text": "onto a tray, like an alarm.",
+  "words": [
+   [
+    "onto",
+    44.34
+   ],
+   [
+    "a",
+    44.69
+   ],
+   [
+    "tray",
+    44.78
+   ],
+   [
+    "like",
+    45.13
+   ],
+   [
+    "an",
+    45.48
+   ],
+   [
+    "alarm",
+    45.66
+   ]
+  ]
+ },
+ {
+  "s": 46.65,
+  "e": 49.43,
+  "text": "So, what time does your room smell like right now?",
+  "words": [
+   [
+    "so",
+    46.65
+   ],
+   [
+    "what",
+    46.79
+   ],
+   [
+    "time",
+    47.07
+   ],
+   [
+    "does",
+    47.36
+   ],
+   [
+    "your",
+    47.65
+   ],
+   [
+    "room",
+    47.93
+   ],
+   [
+    "smell",
+    48.22
+   ],
+   [
+    "like",
+    48.57
+   ],
+   [
+    "right",
+    48.86
+   ],
+   [
+    "now",
+    49.21
+   ]
+  ]
+ }
+]
