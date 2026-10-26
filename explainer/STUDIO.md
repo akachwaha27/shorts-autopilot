@@ -119,7 +119,7 @@ UI zones, anything that doesn't look like the style. Re-test until clean (max 3 
 node scripts/render.js $W/out.render.html $W/out --w <W> --h <H> --thumb <t>   # full render (~2 min per minute) + thumbnail.jpg
 bash scripts/mix.sh $W/out/video.mp4 $W/voice.wav $W/out/effects_vo.wav $W/final.mp4
 ```
-Check `final.mp4` with ffprobe (duration, audio stream) and look at 2 frames pulled with ffmpeg.
+Check `final.mp4` with ffprobe (duration, audio stream as long as the video: mix.sh and make_drop.py refuse a short one) and look at 2 frames pulled with ffmpeg.
 
 ## 6. Package and send
 Write `$W/meta.json`: `kind`, `title` (<=60 chars, the question; Shorts may end with one emoji), `description`

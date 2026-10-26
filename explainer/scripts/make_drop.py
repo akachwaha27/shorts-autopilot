@@ -37,6 +37,9 @@ def main():
     dur = float(run("ffprobe", "-v", "error", "-show_entries", "format=duration", "-of", "csv=p=0", video))
     if meta["kind"] == "short" and dur > 60:  # Shorts must stay under a minute
         raise SystemExit(f"Short runs {dur:.1f}s; it must be 60 s or less")
+    adur = run("ffprobe", "-v", "error", "-select_streams", "a", "-show_entries", "stream=duration", "-of", "csv=p=0", video).strip()
+    if not adur or float(adur) < dur - 0.3:  # the old mix cut the last ~3 s of voice; never ship that again
+        raise SystemExit(f"audio track ({adur or 'none'} s) is shorter than the video ({dur:.1f} s): re-run scripts/mix.sh")
     if os.path.getsize(video) > 95_000_000:
         raise SystemExit("video is over 95 MB; re-encode with a higher CRF")
     meta["duration"] = round(dur, 1)
