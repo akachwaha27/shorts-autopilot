@@ -1,5 +1,20 @@
 {
  "note": "Channels whose recent uploads the bot measures every day (views vs that channel's own median) so Claude's explainer topic sheet follows what is breaking out. Edit freely: handles with @, or channel ids starting UC. reference_videos: a video id here adds its channel too.",
- "channels": ["@zackdfilms", "@Peekaboo_Kidz", "@Scienceabc", "@MinuteEarth", "@TED-Ed", "@kurzgesagt"],
- "reference_videos": ["qr_dTySMl7s"]
+ "channels": [
+  "UCvz84_Q0BbvZThy75mbd-Dg",
+  "UCxlJ45KjG4XVcQ_hd8j227A",
+  "UCcN3IuIAR6Fn74FWMQf6lFA",
+  "@MinuteEarth",
+  "@TED-Ed",
+  "@kurzgesagt"
+ ],
+ "reference_videos": [],
+ "channel_names": {
+  "UCvz84_Q0BbvZThy75mbd-Dg": "Zack D. Films",
+  "UCxlJ45KjG4XVcQ_hd8j227A": "Peekaboo Kidz",
+  "UCcN3IuIAR6Fn74FWMQf6lFA": "Science ABC"
+ },
+ "reference_shapes": [
+  "The Story of LEGO: How It All Started (LEGO, qr_dTySMl7s, 78M views, 17 min): an animated origin story of an everyday thing - 'The Story of X: How It All Started'. Good shape for long videos (pick things whose inventors are not living people)."
+ ]
 }
