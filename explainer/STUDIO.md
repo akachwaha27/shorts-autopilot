@@ -49,7 +49,11 @@ payoff. Ashu can edit it on GitHub (add rows, reorder, set `status` to `skip`). 
   short run, long videos for a long run): take the TITLE SHAPE and the KIND OF QUESTION or subject area that is
   winning, never the subject itself, its script, characters or scenes. Fill `inspired_by` with
   "<channel>: <title> (<multiple>x, <views_per_day>/day)". pick.py serves rows with `inspired_by` first, so re-run it
-  after adding them. If vidIQ has credits you may also use vidiq_channel_videos / vidiq_outliers on those channels.
+  after adding them. Read it with the **yt-viral** skill (invoke it with the Skill tool), Shorts and long ranked
+  separately against their own channel+format median:
+  `python3 -c "import json;json.dump([dict(v,channel=v['channel']+' ('+v['format']+')',duration=v['seconds']) for v in json.load(open('content/reference_signals.json'))['videos']],open('/tmp/swipe.json','w'))" && python3 tools/yt_skill/swipe.py /tmp/swipe.json --min 2.0`
+  Also see `reference_shapes` in content/reference_channels.json (e.g. the LEGO origin-story shape for long videos).
+  If vidIQ has credits you may also use vidiq_channel_videos / vidiq_outliers on those channels.
 - Keep the sheet stocked: when `ready_left` (counting the row you take) is under 6, append 3 new rows of your kind
   the same way (next free id: S### for shorts, L### for long; status `ready`; topic, mechanism, key_number, 2-3
   fitting styles joined with `|`; inspired_by; notes "idea only: verify every fact with a web search when making it").
