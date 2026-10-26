@@ -1,0 +1,2782 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.04,
+  "text": "What actually happens to your food,",
+  "words": [
+   [
+    "what",
+    0.25
+   ],
+   [
+    "actually",
+    0.5
+   ],
+   [
+    "happens",
+    0.99
+   ],
+   [
+    "to",
+    1.42
+   ],
+   [
+    "your",
+    1.54
+   ],
+   [
+    "food",
+    1.79
+   ]
+  ]
+ },
+ {
+  "s": 2.34,
+  "e": 3.48,
+  "text": "after you swallow it?",
+  "words": [
+   [
+    "after",
+    2.34
+   ],
+   [
+    "you",
+    2.67
+   ],
+   [
+    "swallow",
+    2.87
+   ],
+   [
+    "it",
+    3.34
+   ]
+  ]
+ },
+ {
+  "s": 4.03,
+  "e": 6.21,
+  "text": "It's one of the longest trips in your body.",
+  "words": [
+   [
+    "its",
+    4.03
+   ],
+   [
+    "one",
+    4.22
+   ],
+   [
+    "of",
+    4.42
+   ],
+   [
+    "the",
+    4.56
+   ],
+   [
+    "longest",
+    4.75
+   ],
+   [
+    "trips",
+    5.22
+   ],
+   [
+    "in",
+    5.55
+   ],
+   [
+    "your",
+    5.68
+   ],
+   [
+    "body",
+    5.95
+   ]
+  ]
+ },
+ {
+  "s": 6.76,
+  "e": 8.18,
+  "text": "And for most of history,",
+  "words": [
+   [
+    "and",
+    6.76
+   ],
+   [
+    "for",
+    6.98
+   ],
+   [
+    "most",
+    7.21
+   ],
+   [
+    "of",
+    7.51
+   ],
+   [
+    "history",
+    7.66
+   ]
+  ]
+ },
+ {
+  "s": 8.48,
+  "e": 10.44,
+  "text": "nobody really knew how it worked.",
+  "words": [
+   [
+    "nobody",
+    8.48
+   ],
+   [
+    "really",
+    8.92
+   ],
+   [
+    "knew",
+    9.35
+   ],
+   [
+    "how",
+    9.64
+   ],
+   [
+    "it",
+    9.86
+   ],
+   [
+    "worked",
+    10.01
+   ]
+  ]
+ },
+ {
+  "s": 10.99,
+  "e": 13.13,
+  "text": "Many ancient doctors thought the stomach",
+  "words": [
+   [
+    "many",
+    10.99
+   ],
+   [
+    "ancient",
+    11.24
+   ],
+   [
+    "doctors",
+    11.66
+   ],
+   [
+    "thought",
+    12.09
+   ],
+   [
+    "the",
+    12.52
+   ],
+   [
+    "stomach",
+    12.7
+   ]
+  ]
+ },
+ {
+  "s": 13.43,
+  "e": 15.39,
+  "text": "simply cooked your food, like a pot.",
+  "words": [
+   [
+    "simply",
+    13.43
+   ],
+   [
+    "cooked",
+    13.85
+   ],
+   [
+    "your",
+    14.27
+   ],
+   [
+    "food",
+    14.55
+   ],
+   [
+    "like",
+    14.83
+   ],
+   [
+    "a",
+    15.11
+   ],
+   [
+    "pot",
+    15.18
+   ]
+  ]
+ },
+ {
+  "s": 15.94,
+  "e": 17.81,
+  "text": "Then, in the seventeen hundreds,",
+  "words": [
+   [
+    "then",
+    15.94
+   ],
+   [
+    "in",
+    16.23
+   ],
+   [
+    "the",
+    16.37
+   ],
+   [
+    "seventeen",
+    16.59
+   ],
+   [
+    "hundreds",
+    17.23
+   ]
+  ]
+ },
+ {
+  "s": 18.11,
+  "e": 19.65,
+  "text": "scientists fed animals",
+  "words": [
+   [
+    "scientists",
+    18.11
+   ],
+   [
+    "fed",
+    18.88
+   ],
+   [
+    "animals",
+    19.11
+   ]
+  ]
+ },
+ {
+  "s": 19.95,
+  "e": 22.3,
+  "text": "food sealed inside little metal tubes.",
+  "words": [
+   [
+    "food",
+    19.95
+   ],
+   [
+    "sealed",
+    20.24
+   ],
+   [
+    "inside",
+    20.68
+   ],
+   [
+    "little",
+    21.12
+   ],
+   [
+    "metal",
+    21.56
+   ],
+   [
+    "tubes",
+    21.93
+   ]
+  ]
+ },
+ {
+  "s": 22.85,
+  "e": 24.29,
+  "text": "The food couldn't be squished,",
+  "words": [
+   [
+    "the",
+    22.85
+   ],
+   [
+    "food",
+    23.03
+   ],
+   [
+    "couldnt",
+    23.27
+   ],
+   [
+    "be",
+    23.69
+   ],
+   [
+    "squished",
+    23.81
+   ]
+  ]
+ },
+ {
+  "s": 24.59,
+  "e": 25.89,
+  "text": "but it still dissolved.",
+  "words": [
+   [
+    "but",
+    24.59
+   ],
+   [
+    "it",
+    24.8
+   ],
+   [
+    "still",
+    24.93
+   ],
+   [
+    "dissolved",
+    25.27
+   ]
+  ]
+ },
+ {
+  "s": 26.44,
+  "e": 29.1,
+  "text": "Italian scientist Lazzaro Spallanzani",
+  "words": [
+   [
+    "italian",
+    26.44
+   ],
+   [
+    "scientist",
+    26.98
+   ],
+   [
+    "lazzaro",
+    27.69
+   ],
+   [
+    "spallanzani",
+    28.24
+   ]
+  ]
+ },
+ {
+  "s": 29.4,
+  "e": 31.01,
+  "text": "even tried it on himself,",
+  "words": [
+   [
+    "even",
+    29.4
+   ],
+   [
+    "tried",
+    29.72
+   ],
+   [
+    "it",
+    30.12
+   ],
+   [
+    "on",
+    30.28
+   ],
+   [
+    "himself",
+    30.44
+   ]
+  ]
+ },
+ {
+  "s": 31.31,
+  "e": 33.56,
+  "text": "swallowing tiny linen bags of food.",
+  "words": [
+   [
+    "swallowing",
+    31.31
+   ],
+   [
+    "tiny",
+    32.09
+   ],
+   [
+    "linen",
+    32.4
+   ],
+   [
+    "bags",
+    32.78
+   ],
+   [
+    "of",
+    33.1
+   ],
+   [
+    "food",
+    33.25
+   ]
+  ]
+ },
+ {
+  "s": 34.11,
+  "e": 35.62,
+  "text": "The answer was a liquid.",
+  "words": [
+   [
+    "the",
+    34.11
+   ],
+   [
+    "answer",
+    34.35
+   ],
+   [
+    "was",
+    34.83
+   ],
+   [
+    "a",
+    35.07
+   ],
+   [
+    "liquid",
+    35.15
+   ]
+  ]
+ },
+ {
+  "s": 36.17,
+  "e": 37.84,
+  "text": "He called it gastric juice.",
+  "words": [
+   [
+    "he",
+    36.17
+   ],
+   [
+    "called",
+    36.33
+   ],
+   [
+    "it",
+    36.78
+   ],
+   [
+    "gastric",
+    36.93
+   ],
+   [
+    "juice",
+    37.46
+   ]
+  ]
+ },
+ {
+  "s": 38.39,
+  "e": 39.88,
+  "text": "So let's follow one bite,",
+  "words": [
+   [
+    "so",
+    38.39
+   ],
+   [
+    "lets",
+    38.54
+   ],
+   [
+    "follow",
+    38.86
+   ],
+   [
+    "one",
+    39.33
+   ],
+   [
+    "bite",
+    39.57
+   ]
+  ]
+ },
+ {
+  "s": 40.18,
+  "e": 41.26,
+  "text": "all the way through.",
+  "words": [
+   [
+    "all",
+    40.18
+   ],
+   [
+    "the",
+    40.38
+   ],
+   [
+    "way",
+    40.58
+   ],
+   [
+    "through",
+    40.78
+   ]
+  ]
+ },
+ {
+  "s": 41.81,
+  "e": 43.12,
+  "text": "Step one: your mouth.",
+  "words": [
+   [
+    "step",
+    41.81
+   ],
+   [
+    "one",
+    42.13
+   ],
+   [
+    "your",
+    42.38
+   ],
+   [
+    "mouth",
+    42.71
+   ]
+  ]
+ },
+ {
+  "s": 43.67,
+  "e": 45.57,
+  "text": "Your teeth crush the bite into mush,",
+  "words": [
+   [
+    "your",
+    43.67
+   ],
+   [
+    "teeth",
+    43.93
+   ],
+   [
+    "crush",
+    44.26
+   ],
+   [
+    "the",
+    44.58
+   ],
+   [
+    "bite",
+    44.78
+   ],
+   [
+    "into",
+    45.04
+   ],
+   [
+    "mush",
+    45.31
+   ]
+  ]
+ },
+ {
+  "s": 45.87,
+  "e": 47.12,
+  "text": "and saliva soaks it.",
+  "words": [
+   [
+    "and",
+    45.87
+   ],
+   [
+    "saliva",
+    46.1
+   ],
+   [
+    "soaks",
+    46.57
+   ],
+   [
+    "it",
+    46.96
+   ]
+  ]
+ },
+ {
+  "s": 47.67,
+  "e": 50.19,
+  "text": "Saliva holds an enzyme called amylase,",
+  "words": [
+   [
+    "saliva",
+    47.67
+   ],
+   [
+    "holds",
+    48.14
+   ],
+   [
+    "an",
+    48.53
+   ],
+   [
+    "enzyme",
+    48.69
+   ],
+   [
+    "called",
+    49.16
+   ],
+   [
+    "amylase",
+    49.64
+   ]
+  ]
+ },
+ {
+  "s": 50.49,
+  "e": 52.52,
+  "text": "that starts turning starch into sugar,",
+  "words": [
+   [
+    "that",
+    50.49
+   ],
+   [
+    "starts",
+    50.74
+   ],
+   [
+    "turning",
+    51.12
+   ],
+   [
+    "starch",
+    51.57
+   ],
+   [
+    "into",
+    51.95
+   ],
+   [
+    "sugar",
+    52.2
+   ]
+  ]
+ },
+ {
+  "s": 52.82,
+  "e": 54.19,
+  "text": "before you even swallow.",
+  "words": [
+   [
+    "before",
+    52.82
+   ],
+   [
+    "you",
+    53.23
+   ],
+   [
+    "even",
+    53.43
+   ],
+   [
+    "swallow",
+    53.71
+   ]
+  ]
+ },
+ {
+  "s": 54.74,
+  "e": 56.71,
+  "text": "Then your tongue pushes the food back,",
+  "words": [
+   [
+    "then",
+    54.74
+   ],
+   [
+    "your",
+    54.99
+   ],
+   [
+    "tongue",
+    55.25
+   ],
+   [
+    "pushes",
+    55.63
+   ],
+   [
+    "the",
+    56.01
+   ],
+   [
+    "food",
+    56.2
+   ],
+   [
+    "back",
+    56.45
+   ]
+  ]
+ },
+ {
+  "s": 57.01,
+  "e": 59.03,
+  "text": "and a tiny flap, the epiglottis,",
+  "words": [
+   [
+    "and",
+    57.01
+   ],
+   [
+    "a",
+    57.25
+   ],
+   [
+    "tiny",
+    57.33
+   ],
+   [
+    "flap",
+    57.66
+   ],
+   [
+    "the",
+    57.98
+   ],
+   [
+    "epiglottis",
+    58.22
+   ]
+  ]
+ },
+ {
+  "s": 59.33,
+  "e": 61.22,
+  "text": "folds down over your windpipe,",
+  "words": [
+   [
+    "folds",
+    59.33
+   ],
+   [
+    "down",
+    59.71
+   ],
+   [
+    "over",
+    60.01
+   ],
+   [
+    "your",
+    60.31
+   ],
+   [
+    "windpipe",
+    60.62
+   ]
+  ]
+ },
+ {
+  "s": 61.52,
+  "e": 63.27,
+  "text": "so nothing goes the wrong way.",
+  "words": [
+   [
+    "so",
+    61.52
+   ],
+   [
+    "nothing",
+    61.67
+   ],
+   [
+    "goes",
+    62.18
+   ],
+   [
+    "the",
+    62.47
+   ],
+   [
+    "wrong",
+    62.69
+   ],
+   [
+    "way",
+    63.06
+   ]
+  ]
+ },
+ {
+  "s": 63.82,
+  "e": 65.93,
+  "text": "Now the food enters the esophagus,",
+  "words": [
+   [
+    "now",
+    63.82
+   ],
+   [
+    "the",
+    64.05
+   ],
+   [
+    "food",
+    64.28
+   ],
+   [
+    "enters",
+    64.58
+   ],
+   [
+    "the",
+    65.03
+   ],
+   [
+    "esophagus",
+    65.25
+   ]
+  ]
+ },
+ {
+  "s": 66.23,
+  "e": 69.19,
+  "text": "a muscle tube about twenty-five centimeters long.",
+  "words": [
+   [
+    "a",
+    66.23
+   ],
+   [
+    "muscle",
+    66.3
+   ],
+   [
+    "tube",
+    66.73
+   ],
+   [
+    "about",
+    67.02
+   ],
+   [
+    "twentyfive",
+    67.38
+   ],
+   [
+    "centimeters",
+    68.11
+   ],
+   [
+    "long",
+    68.9
+   ]
+  ]
+ },
+ {
+  "s": 69.74,
+  "e": 70.95,
+  "text": "It doesn't just fall.",
+  "words": [
+   [
+    "it",
+    69.74
+   ],
+   [
+    "doesnt",
+    69.89
+   ],
+   [
+    "just",
+    70.35
+   ],
+   [
+    "fall",
+    70.65
+   ]
+  ]
+ },
+ {
+  "s": 71.5,
+  "e": 73.48,
+  "text": "Rings of muscle squeeze behind it,",
+  "words": [
+   [
+    "rings",
+    71.5
+   ],
+   [
+    "of",
+    71.85
+   ],
+   [
+    "muscle",
+    71.99
+   ],
+   [
+    "squeeze",
+    72.42
+   ],
+   [
+    "behind",
+    72.91
+   ],
+   [
+    "it",
+    73.34
+   ]
+  ]
+ },
+ {
+  "s": 73.78,
+  "e": 75.36,
+  "text": "like toothpaste in a tube.",
+  "words": [
+   [
+    "like",
+    73.78
+   ],
+   [
+    "toothpaste",
+    74.08
+   ],
+   [
+    "in",
+    74.83
+   ],
+   [
+    "a",
+    74.98
+   ],
+   [
+    "tube",
+    75.06
+   ]
+  ]
+ },
+ {
+  "s": 75.91,
+  "e": 77.42,
+  "text": "That's called peristalsis.",
+  "words": [
+   [
+    "thats",
+    75.91
+   ],
+   [
+    "called",
+    76.25
+   ],
+   [
+    "peristalsis",
+    76.67
+   ]
+  ]
+ },
+ {
+  "s": 77.97,
+  "e": 79.94,
+  "text": "The trip takes about nine seconds,",
+  "words": [
+   [
+    "the",
+    77.97
+   ],
+   [
+    "trip",
+    78.18
+   ],
+   [
+    "takes",
+    78.46
+   ],
+   [
+    "about",
+    78.82
+   ],
+   [
+    "nine",
+    79.17
+   ],
+   [
+    "seconds",
+    79.45
+   ]
+  ]
+ },
+ {
+  "s": 80.24,
+  "e": 82.05,
+  "text": "and it works even upside down.",
+  "words": [
+   [
+    "and",
+    80.24
+   ],
+   [
+    "it",
+    80.47
+   ],
+   [
+    "works",
+    80.62
+   ],
+   [
+    "even",
+    80.99
+   ],
+   [
+    "upside",
+    81.3
+   ],
+   [
+    "down",
+    81.75
+   ]
+  ]
+ },
+ {
+  "s": 82.6,
+  "e": 83.92,
+  "text": "Next stop, the stomach.",
+  "words": [
+   [
+    "next",
+    82.6
+   ],
+   [
+    "stop",
+    82.89
+   ],
+   [
+    "the",
+    83.19
+   ],
+   [
+    "stomach",
+    83.41
+   ]
+  ]
+ },
+ {
+  "s": 84.47,
+  "e": 86.11,
+  "text": "It's a stretchy bag of muscle,",
+  "words": [
+   [
+    "its",
+    84.47
+   ],
+   [
+    "a",
+    84.69
+   ],
+   [
+    "stretchy",
+    84.76
+   ],
+   [
+    "bag",
+    85.32
+   ],
+   [
+    "of",
+    85.54
+   ],
+   [
+    "muscle",
+    85.68
+   ]
+  ]
+ },
+ {
+  "s": 86.41,
+  "e": 88.23,
+  "text": "filled with hydrochloric acid.",
+  "words": [
+   [
+    "filled",
+    86.41
+   ],
+   [
+    "with",
+    86.83
+   ],
+   [
+    "hydrochloric",
+    87.11
+   ],
+   [
+    "acid",
+    87.95
+   ]
+  ]
+ },
+ {
+  "s": 88.78,
+  "e": 91.43,
+  "text": "Stomach acid can drop to around pH two,",
+  "words": [
+   [
+    "stomach",
+    88.78
+   ],
+   [
+    "acid",
+    89.38
+   ],
+   [
+    "can",
+    89.72
+   ],
+   [
+    "drop",
+    89.98
+   ],
+   [
+    "to",
+    90.32
+   ],
+   [
+    "around",
+    90.49
+   ],
+   [
+    "ph",
+    91.0
+   ],
+   [
+    "two",
+    91.17
+   ]
+  ]
+ },
+ {
+  "s": 91.73,
+  "e": 93.62,
+  "text": "about as sour as lemon juice.",
+  "words": [
+   [
+    "about",
+    91.73
+   ],
+   [
+    "as",
+    92.14
+   ],
+   [
+    "sour",
+    92.3
+   ],
+   [
+    "as",
+    92.63
+   ],
+   [
+    "lemon",
+    92.8
+   ],
+   [
+    "juice",
+    93.21
+   ]
+  ]
+ },
+ {
+  "s": 94.17,
+  "e": 95.82,
+  "text": "It kills a lot of germs,",
+  "words": [
+   [
+    "it",
+    94.17
+   ],
+   [
+    "kills",
+    94.36
+   ],
+   [
+    "a",
+    94.81
+   ],
+   [
+    "lot",
+    94.91
+   ],
+   [
+    "of",
+    95.18
+   ],
+   [
+    "germs",
+    95.36
+   ]
+  ]
+ },
+ {
+  "s": 96.12,
+  "e": 98.0,
+  "text": "and helps an enzyme called pepsin",
+  "words": [
+   [
+    "and",
+    96.12
+   ],
+   [
+    "helps",
+    96.32
+   ],
+   [
+    "an",
+    96.66
+   ],
+   [
+    "enzyme",
+    96.79
+   ],
+   [
+    "called",
+    97.19
+   ],
+   [
+    "pepsin",
+    97.59
+   ]
+  ]
+ },
+ {
+  "s": 98.3,
+  "e": 99.84,
+  "text": "start chopping up protein.",
+  "words": [
+   [
+    "start",
+    98.3
+   ],
+   [
+    "chopping",
+    98.65
+   ],
+   [
+    "up",
+    99.21
+   ],
+   [
+    "protein",
+    99.35
+   ]
+  ]
+ },
+ {
+  "s": 100.39,
+  "e": 101.89,
+  "text": "About three times a minute,",
+  "words": [
+   [
+    "about",
+    100.39
+   ],
+   [
+    "three",
+    100.73
+   ],
+   [
+    "times",
+    101.07
+   ],
+   [
+    "a",
+    101.41
+   ],
+   [
+    "minute",
+    101.48
+   ]
+  ]
+ },
+ {
+  "s": 102.19,
+  "e": 104.19,
+  "text": "the stomach walls squeeze and churn,",
+  "words": [
+   [
+    "the",
+    102.19
+   ],
+   [
+    "stomach",
+    102.39
+   ],
+   [
+    "walls",
+    102.86
+   ],
+   [
+    "squeeze",
+    103.19
+   ],
+   [
+    "and",
+    103.66
+   ],
+   [
+    "churn",
+    103.86
+   ]
+  ]
+ },
+ {
+  "s": 104.49,
+  "e": 107.18,
+  "text": "mixing everything into a thick soup called chyme.",
+  "words": [
+   [
+    "mixing",
+    104.49
+   ],
+   [
+    "everything",
+    104.89
+   ],
+   [
+    "into",
+    105.54
+   ],
+   [
+    "a",
+    105.81
+   ],
+   [
+    "thick",
+    105.87
+   ],
+   [
+    "soup",
+    106.2
+   ],
+   [
+    "called",
+    106.46
+   ],
+   [
+    "chyme",
+    106.86
+   ]
+  ]
+ },
+ {
+  "s": 107.73,
+  "e": 109.62,
+  "text": "That can take two to four hours.",
+  "words": [
+   [
+    "that",
+    107.73
+   ],
+   [
+    "can",
+    108.04
+   ],
+   [
+    "take",
+    108.26
+   ],
+   [
+    "two",
+    108.57
+   ],
+   [
+    "to",
+    108.79
+   ],
+   [
+    "four",
+    108.94
+   ],
+   [
+    "hours",
+    109.25
+   ]
+  ]
+ },
+ {
+  "s": 110.17,
+  "e": 112.65,
+  "text": "So why doesn't your stomach digest itself?",
+  "words": [
+   [
+    "so",
+    110.17
+   ],
+   [
+    "why",
+    110.32
+   ],
+   [
+    "doesnt",
+    110.54
+   ],
+   [
+    "your",
+    110.97
+   ],
+   [
+    "stomach",
+    111.26
+   ],
+   [
+    "digest",
+    111.77
+   ],
+   [
+    "itself",
+    112.21
+   ]
+  ]
+ },
+ {
+  "s": 113.2,
+  "e": 115.46,
+  "text": "Its lining makes a thick coat of mucus,",
+  "words": [
+   [
+    "its",
+    113.2
+   ],
+   [
+    "lining",
+    113.42
+   ],
+   [
+    "makes",
+    113.85
+   ],
+   [
+    "a",
+    114.22
+   ],
+   [
+    "thick",
+    114.29
+   ],
+   [
+    "coat",
+    114.66
+   ],
+   [
+    "of",
+    114.95
+   ],
+   [
+    "mucus",
+    115.09
+   ]
+  ]
+ },
+ {
+  "s": 115.76,
+  "e": 117.97,
+  "text": "plus bicarbonate to calm the acid.",
+  "words": [
+   [
+    "plus",
+    115.76
+   ],
+   [
+    "bicarbonate",
+    116.08
+   ],
+   [
+    "to",
+    116.94
+   ],
+   [
+    "calm",
+    117.1
+   ],
+   [
+    "the",
+    117.42
+   ],
+   [
+    "acid",
+    117.65
+   ]
+  ]
+ },
+ {
+  "s": 118.52,
+  "e": 121.56,
+  "text": "And the lining cells get replaced every few days.",
+  "words": [
+   [
+    "and",
+    118.52
+   ],
+   [
+    "the",
+    118.75
+   ],
+   [
+    "lining",
+    118.98
+   ],
+   [
+    "cells",
+    119.43
+   ],
+   [
+    "get",
+    119.81
+   ],
+   [
+    "replaced",
+    120.04
+   ],
+   [
+    "every",
+    120.65
+   ],
+   [
+    "few",
+    121.03
+   ],
+   [
+    "days",
+    121.25
+   ]
+  ]
+ },
+ {
+  "s": 122.11,
+  "e": 123.71,
+  "text": "Then a little valve opens,",
+  "words": [
+   [
+    "then",
+    122.11
+   ],
+   [
+    "a",
+    122.41
+   ],
+   [
+    "little",
+    122.49
+   ],
+   [
+    "valve",
+    122.95
+   ],
+   [
+    "opens",
+    123.33
+   ]
+  ]
+ },
+ {
+  "s": 124.01,
+  "e": 126.5,
+  "text": "and lets the chyme out, a squirt at a time,",
+  "words": [
+   [
+    "and",
+    124.01
+   ],
+   [
+    "lets",
+    124.25
+   ],
+   [
+    "the",
+    124.56
+   ],
+   [
+    "chyme",
+    124.79
+   ],
+   [
+    "out",
+    125.18
+   ],
+   [
+    "a",
+    125.41
+   ],
+   [
+    "squirt",
+    125.49
+   ],
+   [
+    "at",
+    125.96
+   ],
+   [
+    "a",
+    126.11
+   ],
+   [
+    "time",
+    126.19
+   ]
+  ]
+ },
+ {
+  "s": 126.8,
+  "e": 128.32,
+  "text": "into the small intestine.",
+  "words": [
+   [
+    "into",
+    126.8
+   ],
+   [
+    "the",
+    127.09
+   ],
+   [
+    "small",
+    127.31
+   ],
+   [
+    "intestine",
+    127.67
+   ]
+  ]
+ },
+ {
+  "s": 128.87,
+  "e": 131.16,
+  "text": "This is where the real magic happens.",
+  "words": [
+   [
+    "this",
+    128.87
+   ],
+   [
+    "is",
+    129.17
+   ],
+   [
+    "where",
+    129.32
+   ],
+   [
+    "the",
+    129.71
+   ],
+   [
+    "real",
+    129.94
+   ],
+   [
+    "magic",
+    130.24
+   ],
+   [
+    "happens",
+    130.62
+   ]
+  ]
+ },
+ {
+  "s": 131.71,
+  "e": 133.33,
+  "text": "It's about five meters long,",
+  "words": [
+   [
+    "its",
+    131.71
+   ],
+   [
+    "about",
+    131.93
+   ],
+   [
+    "five",
+    132.3
+   ],
+   [
+    "meters",
+    132.6
+   ],
+   [
+    "long",
+    133.04
+   ]
+  ]
+ },
+ {
+  "s": 133.63,
+  "e": 135.26,
+  "text": "coiled up inside your belly.",
+  "words": [
+   [
+    "coiled",
+    133.63
+   ],
+   [
+    "up",
+    134.06
+   ],
+   [
+    "inside",
+    134.2
+   ],
+   [
+    "your",
+    134.62
+   ],
+   [
+    "belly",
+    134.91
+   ]
+  ]
+ },
+ {
+  "s": 135.81,
+  "e": 137.24,
+  "text": "Your liver sends in bile,",
+  "words": [
+   [
+    "your",
+    135.81
+   ],
+   [
+    "liver",
+    136.1
+   ],
+   [
+    "sends",
+    136.45
+   ],
+   [
+    "in",
+    136.81
+   ],
+   [
+    "bile",
+    136.95
+   ]
+  ]
+ },
+ {
+  "s": 137.54,
+  "e": 139.8,
+  "text": "which breaks fat into tiny droplets.",
+  "words": [
+   [
+    "which",
+    137.54
+   ],
+   [
+    "breaks",
+    137.91
+   ],
+   [
+    "fat",
+    138.37
+   ],
+   [
+    "into",
+    138.59
+   ],
+   [
+    "tiny",
+    138.9
+   ],
+   [
+    "droplets",
+    139.2
+   ]
+  ]
+ },
+ {
+  "s": 140.35,
+  "e": 142.34,
+  "text": "Your pancreas adds more enzymes,",
+  "words": [
+   [
+    "your",
+    140.35
+   ],
+   [
+    "pancreas",
+    140.65
+   ],
+   [
+    "adds",
+    141.24
+   ],
+   [
+    "more",
+    141.53
+   ],
+   [
+    "enzymes",
+    141.83
+   ]
+  ]
+ },
+ {
+  "s": 142.64,
+  "e": 144.34,
+  "text": "and neutralizes the acid.",
+  "words": [
+   [
+    "and",
+    142.64
+   ],
+   [
+    "neutralizes",
+    142.89
+   ],
+   [
+    "the",
+    143.77
+   ],
+   [
+    "acid",
+    144.02
+   ]
+  ]
+ },
+ {
+  "s": 144.89,
+  "e": 148.11,
+  "text": "The walls are covered in millions of tiny fingers,",
+  "words": [
+   [
+    "the",
+    144.89
+   ],
+   [
+    "walls",
+    145.12
+   ],
+   [
+    "are",
+    145.52
+   ],
+   [
+    "covered",
+    145.75
+   ],
+   [
+    "in",
+    146.3
+   ],
+   [
+    "millions",
+    146.46
+   ],
+   [
+    "of",
+    147.09
+   ],
+   [
+    "tiny",
+    147.25
+   ],
+   [
+    "fingers",
+    147.56
+   ]
+  ]
+ },
+ {
+  "s": 148.41,
+  "e": 149.32,
+  "text": "called villi,",
+  "words": [
+   [
+    "called",
+    148.41
+   ],
+   [
+    "villi",
+    148.91
+   ]
+  ]
+ },
+ {
+  "s": 149.62,
+  "e": 152.77,
+  "text": "and those are covered in even tinier microvilli.",
+  "words": [
+   [
+    "and",
+    149.62
+   ],
+   [
+    "those",
+    149.86
+   ],
+   [
+    "are",
+    150.25
+   ],
+   [
+    "covered",
+    150.49
+   ],
+   [
+    "in",
+    151.04
+   ],
+   [
+    "even",
+    151.2
+   ],
+   [
+    "tinier",
+    151.51
+   ],
+   [
+    "microvilli",
+    151.99
+   ]
+  ]
+ },
+ {
+  "s": 153.32,
+  "e": 156.3,
+  "text": "Spread flat, scientists estimate your gut lining",
+  "words": [
+   [
+    "spread",
+    153.32
+   ],
+   [
+    "flat",
+    153.76
+   ],
+   [
+    "scientists",
+    154.05
+   ],
+   [
+    "estimate",
+    154.77
+   ],
+   [
+    "your",
+    155.35
+   ],
+   [
+    "gut",
+    155.65
+   ],
+   [
+    "lining",
+    155.86
+   ]
+  ]
+ },
+ {
+  "s": 156.6,
+  "e": 158.85,
+  "text": "covers about thirty-two square meters.",
+  "words": [
+   [
+    "covers",
+    156.6
+   ],
+   [
+    "about",
+    157.02
+   ],
+   [
+    "thirtytwo",
+    157.37
+   ],
+   [
+    "square",
+    158.01
+   ],
+   [
+    "meters",
+    158.43
+   ]
+  ]
+ },
+ {
+  "s": 159.4,
+  "e": 161.05,
+  "text": "That's half a badminton court!",
+  "words": [
+   [
+    "thats",
+    159.4
+   ],
+   [
+    "half",
+    159.74
+   ],
+   [
+    "a",
+    160.02
+   ],
+   [
+    "badminton",
+    160.09
+   ],
+   [
+    "court",
+    160.7
+   ]
+  ]
+ },
+ {
+  "s": 161.6,
+  "e": 163.69,
+  "text": "Old textbooks said a whole tennis court,",
+  "words": [
+   [
+    "old",
+    161.6
+   ],
+   [
+    "textbooks",
+    161.79
+   ],
+   [
+    "said",
+    162.36
+   ],
+   [
+    "a",
+    162.61
+   ],
+   [
+    "whole",
+    162.68
+   ],
+   [
+    "tennis",
+    162.99
+   ],
+   [
+    "court",
+    163.37
+   ]
+  ]
+ },
+ {
+  "s": 163.99,
+  "e": 165.76,
+  "text": "but half a court is still huge.",
+  "words": [
+   [
+    "but",
+    163.99
+   ],
+   [
+    "half",
+    164.21
+   ],
+   [
+    "a",
+    164.51
+   ],
+   [
+    "court",
+    164.58
+   ],
+   [
+    "is",
+    164.95
+   ],
+   [
+    "still",
+    165.1
+   ],
+   [
+    "huge",
+    165.47
+   ]
+  ]
+ },
+ {
+  "s": 166.31,
+  "e": 168.21,
+  "text": "Right here, most of the nutrients",
+  "words": [
+   [
+    "right",
+    166.31
+   ],
+   [
+    "here",
+    166.66
+   ],
+   [
+    "most",
+    166.94
+   ],
+   [
+    "of",
+    167.23
+   ],
+   [
+    "the",
+    167.37
+   ],
+   [
+    "nutrients",
+    167.58
+   ]
+  ]
+ },
+ {
+  "s": 168.51,
+  "e": 169.78,
+  "text": "slip into your blood.",
+  "words": [
+   [
+    "slip",
+    168.51
+   ],
+   [
+    "into",
+    168.81
+   ],
+   [
+    "your",
+    169.11
+   ],
+   [
+    "blood",
+    169.41
+   ]
+  ]
+ },
+ {
+  "s": 170.33,
+  "e": 172.85,
+  "text": "What's left moves on to the large intestine.",
+  "words": [
+   [
+    "whats",
+    170.33
+   ],
+   [
+    "left",
+    170.69
+   ],
+   [
+    "moves",
+    170.98
+   ],
+   [
+    "on",
+    171.34
+   ],
+   [
+    "to",
+    171.48
+   ],
+   [
+    "the",
+    171.63
+   ],
+   [
+    "large",
+    171.84
+   ],
+   [
+    "intestine",
+    172.2
+   ]
+  ]
+ },
+ {
+  "s": 173.4,
+  "e": 176.57,
+  "text": "It's wider, but only about one and a half meters long.",
+  "words": [
+   [
+    "its",
+    173.4
+   ],
+   [
+    "wider",
+    173.64
+   ],
+   [
+    "but",
+    174.02
+   ],
+   [
+    "only",
+    174.25
+   ],
+   [
+    "about",
+    174.56
+   ],
+   [
+    "one",
+    174.95
+   ],
+   [
+    "and",
+    175.18
+   ],
+   [
+    "a",
+    175.41
+   ],
+   [
+    "half",
+    175.49
+   ],
+   [
+    "meters",
+    175.8
+   ],
+   [
+    "long",
+    176.26
+   ]
+  ]
+ },
+ {
+  "s": 177.12,
+  "e": 179.18,
+  "text": "Its main job is soaking up water.",
+  "words": [
+   [
+    "its",
+    177.12
+   ],
+   [
+    "main",
+    177.36
+   ],
+   [
+    "job",
+    177.68
+   ],
+   [
+    "is",
+    177.91
+   ],
+   [
+    "soaking",
+    178.07
+   ],
+   [
+    "up",
+    178.62
+   ],
+   [
+    "water",
+    178.78
+   ]
+  ]
+ },
+ {
+  "s": 179.73,
+  "e": 181.95,
+  "text": "And it's home to trillions of bacteria.",
+  "words": [
+   [
+    "and",
+    179.73
+   ],
+   [
+    "its",
+    179.94
+   ],
+   [
+    "home",
+    180.16
+   ],
+   [
+    "to",
+    180.45
+   ],
+   [
+    "trillions",
+    180.59
+   ],
+   [
+    "of",
+    181.23
+   ],
+   [
+    "bacteria",
+    181.38
+   ]
+  ]
+ },
+ {
+  "s": 182.5,
+  "e": 185.7,
+  "text": "Scientists estimate about thirty-eight trillion live in you,",
+  "words": [
+   [
+    "scientists",
+    182.5
+   ],
+   [
+    "estimate",
+    183.13
+   ],
+   [
+    "about",
+    183.63
+   ],
+   [
+    "thirtyeight",
+    183.95
+   ],
+   [
+    "trillion",
+    184.64
+   ],
+   [
+    "live",
+    185.14
+   ],
+   [
+    "in",
+    185.39
+   ],
+   [
+    "you",
+    185.52
+   ]
+  ]
+ },
+ {
+  "s": 186.0,
+  "e": 187.23,
+  "text": "mostly right here.",
+  "words": [
+   [
+    "mostly",
+    186.0
+   ],
+   [
+    "right",
+    186.49
+   ],
+   [
+    "here",
+    186.9
+   ]
+  ]
+ },
+ {
+  "s": 187.78,
+  "e": 189.88,
+  "text": "They munch the fiber you can't digest,",
+  "words": [
+   [
+    "they",
+    187.78
+   ],
+   [
+    "munch",
+    188.06
+   ],
+   [
+    "the",
+    188.41
+   ],
+   [
+    "fiber",
+    188.62
+   ],
+   [
+    "you",
+    188.97
+   ],
+   [
+    "cant",
+    189.18
+   ],
+   [
+    "digest",
+    189.46
+   ]
+  ]
+ },
+ {
+  "s": 190.18,
+  "e": 192.05,
+  "text": "and make some vitamins in return.",
+  "words": [
+   [
+    "and",
+    190.18
+   ],
+   [
+    "make",
+    190.38
+   ],
+   [
+    "some",
+    190.66
+   ],
+   [
+    "vitamins",
+    190.94
+   ],
+   [
+    "in",
+    191.49
+   ],
+   [
+    "return",
+    191.63
+   ]
+  ]
+ },
+ {
+  "s": 192.6,
+  "e": 194.62,
+  "text": "So how long does the whole trip take?",
+  "words": [
+   [
+    "so",
+    192.6
+   ],
+   [
+    "how",
+    192.74
+   ],
+   [
+    "long",
+    192.95
+   ],
+   [
+    "does",
+    193.23
+   ],
+   [
+    "the",
+    193.5
+   ],
+   [
+    "whole",
+    193.71
+   ],
+   [
+    "trip",
+    194.06
+   ],
+   [
+    "take",
+    194.34
+   ]
+  ]
+ },
+ {
+  "s": 195.17,
+  "e": 198.2,
+  "text": "About six hours through the stomach and small intestine,",
+  "words": [
+   [
+    "about",
+    195.17
+   ],
+   [
+    "six",
+    195.49
+   ],
+   [
+    "hours",
+    195.69
+   ],
+   [
+    "through",
+    196.01
+   ],
+   [
+    "the",
+    196.46
+   ],
+   [
+    "stomach",
+    196.66
+   ],
+   [
+    "and",
+    197.11
+   ],
+   [
+    "small",
+    197.3
+   ],
+   [
+    "intestine",
+    197.62
+   ]
+  ]
+ },
+ {
+  "s": 198.5,
+  "e": 201.55,
+  "text": "and up to another two days in the large intestine.",
+  "words": [
+   [
+    "and",
+    198.5
+   ],
+   [
+    "up",
+    198.73
+   ],
+   [
+    "to",
+    198.88
+   ],
+   [
+    "another",
+    199.04
+   ],
+   [
+    "two",
+    199.57
+   ],
+   [
+    "days",
+    199.8
+   ],
+   [
+    "in",
+    200.1
+   ],
+   [
+    "the",
+    200.25
+   ],
+   [
+    "large",
+    200.48
+   ],
+   [
+    "intestine",
+    200.86
+   ]
+  ]
+ },
+ {
+  "s": 202.1,
+  "e": 203.89,
+  "text": "Whatever your body can't use,",
+  "words": [
+   [
+    "whatever",
+    202.1
+   ],
+   [
+    "your",
+    202.72
+   ],
+   [
+    "body",
+    203.03
+   ],
+   [
+    "cant",
+    203.34
+   ],
+   [
+    "use",
+    203.66
+   ]
+  ]
+ },
+ {
+  "s": 204.19,
+  "e": 205.25,
+  "text": "leaves at the end.",
+  "words": [
+   [
+    "leaves",
+    204.19
+   ],
+   [
+    "at",
+    204.64
+   ],
+   [
+    "the",
+    204.79
+   ],
+   [
+    "end",
+    205.02
+   ]
+  ]
+ },
+ {
+  "s": 205.8,
+  "e": 206.66,
+  "text": "But the rest?",
+  "words": [
+   [
+    "but",
+    205.8
+   ],
+   [
+    "the",
+    206.06
+   ],
+   [
+    "rest",
+    206.32
+   ]
+  ]
+ },
+ {
+  "s": 207.21,
+  "e": 208.95,
+  "text": "That bite became your energy,",
+  "words": [
+   [
+    "that",
+    207.21
+   ],
+   [
+    "bite",
+    207.5
+   ],
+   [
+    "became",
+    207.79
+   ],
+   [
+    "your",
+    208.22
+   ],
+   [
+    "energy",
+    208.51
+   ]
+  ]
+ },
+ {
+  "s": 209.25,
+  "e": 210.14,
+  "text": "your muscles,",
+  "words": [
+   [
+    "your",
+    209.25
+   ],
+   [
+    "muscles",
+    209.57
+   ]
+  ]
+ },
+ {
+  "s": 210.44,
+  "e": 212.51,
+  "text": "even the thoughts you're having right now.",
+  "words": [
+   [
+    "even",
+    210.44
+   ],
+   [
+    "the",
+    210.68
+   ],
+   [
+    "thoughts",
+    210.87
+   ],
+   [
+    "youre",
+    211.35
+   ],
+   [
+    "having",
+    211.66
+   ],
+   [
+    "right",
+    212.02
+   ],
+   [
+    "now",
+    212.33
+   ]
+  ]
+ },
+ {
+  "s": 213.06,
+  "e": 214.43,
+  "text": "So which food do you think",
+  "words": [
+   [
+    "so",
+    213.06
+   ],
+   [
+    "which",
+    213.19
+   ],
+   [
+    "food",
+    213.51
+   ],
+   [
+    "do",
+    213.78
+   ],
+   [
+    "you",
+    213.91
+   ],
+   [
+    "think",
+    214.1
+   ]
+  ]
+ },
+ {
+  "s": 214.73,
+  "e": 216.1,
+  "text": "takes the longest trip?",
+  "words": [
+   [
+    "takes",
+    214.73
+   ],
+   [
+    "the",
+    215.09
+   ],
+   [
+    "longest",
+    215.3
+   ],
+   [
+    "trip",
+    215.81
+   ]
+  ]
+ }
+]
