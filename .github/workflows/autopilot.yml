@@ -98,6 +98,7 @@ jobs:
 
       - name: Install FFmpeg + fonts (if missing)
         timeout-minutes: 15
+        continue-on-error: true   # a hung apt mirror must not stop polling, trend signals and drop uploads (none of them need ffmpeg)
         run: |
           # apt mirrors occasionally hang; give each try 5 minutes and retry so one stuck mirror can't block the bot
           for i in 1 2 3; do
