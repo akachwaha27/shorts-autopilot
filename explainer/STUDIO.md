@@ -67,6 +67,17 @@ living people. More ideas: `explainer/topics/zack-d-films-style-explainers.md`.
 Long videos: one bigger question walked through 4-6 chapters (history → how it works → a surprising detail → the
 numbers → why it matters today), each chapter with its own scenes.
 
+## Growth target (set by Ashu, Oct 26): 1,000 subscribers in 30 days
+- Stay in the lane that already wins for Zorbly: animal, food and body curiosities ("Weirdest Ways Animals Sleep" 1,007
+  views / 28 likes, "Foods That Smell Terrible" 768, "Animals That Fail At Camouflage" 711). At least 2 of every 3 new
+  sheet rows are animal, food or body questions; history and machines fill the rest. A viewer subscribes when the next
+  video is predictably the same kind of fun, so keep the lane narrow.
+- Hook: the first line names the surprising thing in its first five words, with no "You'd think" / "Here's" warm-up.
+  Aim for a hookscore of 50+; re-word the opening (not the facts) before recording if it scores under 40.
+- Shorts end on ONE question that loops back to the first line and makes people answer in the comments (comments
+  push Shorts). Long videos end with a 5-second teaser of the next question.
+- Title: the question or the surprising number; one emoji at most; title.py 90+.
+
 ## 2. Facts and script
 Verify every claim with a web search; keep the URLs for the description. Use commonly cited numbers and hedge
 ("historians think") where sources disagree. Voice per content/voice.md: friendly, curious, "you", contractions,
