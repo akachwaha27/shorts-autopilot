@@ -1,0 +1,679 @@
+[
+ {
+  "s": 0.25,
+  "e": 1.84,
+  "text": "How does a plane toilet flush",
+  "words": [
+   [
+    "how",
+    0.25
+   ],
+   [
+    "does",
+    0.45
+   ],
+   [
+    "a",
+    0.72
+   ],
+   [
+    "plane",
+    0.78
+   ],
+   [
+    "toilet",
+    1.11
+   ],
+   [
+    "flush",
+    1.51
+   ]
+  ]
+ },
+ {
+  "s": 2.14,
+  "e": 3.86,
+  "text": "at thirty-five thousand feet?",
+  "words": [
+   [
+    "at",
+    2.14
+   ],
+   [
+    "thirtyfive",
+    2.29
+   ],
+   [
+    "thousand",
+    3.0
+   ],
+   [
+    "feet",
+    3.57
+   ]
+  ]
+ },
+ {
+  "s": 4.41,
+  "e": 5.84,
+  "text": "It barely uses water.",
+  "words": [
+   [
+    "it",
+    4.41
+   ],
+   [
+    "barely",
+    4.58
+   ],
+   [
+    "uses",
+    5.08
+   ],
+   [
+    "water",
+    5.42
+   ]
+  ]
+ },
+ {
+  "s": 6.39,
+  "e": 7.7,
+  "text": "It uses the sky.",
+  "words": [
+   [
+    "it",
+    6.39
+   ],
+   [
+    "uses",
+    6.61
+   ],
+   [
+    "the",
+    7.04
+   ],
+   [
+    "sky",
+    7.37
+   ]
+  ]
+ },
+ {
+  "s": 8.25,
+  "e": 9.92,
+  "text": "Your cabin is pressurized,",
+  "words": [
+   [
+    "your",
+    8.25
+   ],
+   [
+    "cabin",
+    8.55
+   ],
+   [
+    "is",
+    8.93
+   ],
+   [
+    "pressurized",
+    9.08
+   ]
+  ]
+ },
+ {
+  "s": 10.22,
+  "e": 11.8,
+  "text": "packed with air like a balloon.",
+  "words": [
+   [
+    "packed",
+    10.22
+   ],
+   [
+    "with",
+    10.6
+   ],
+   [
+    "air",
+    10.85
+   ],
+   [
+    "like",
+    11.04
+   ],
+   [
+    "a",
+    11.29
+   ],
+   [
+    "balloon",
+    11.35
+   ]
+  ]
+ },
+ {
+  "s": 12.35,
+  "e": 14.24,
+  "text": "Outside, the air is super thin.",
+  "words": [
+   [
+    "outside",
+    12.35
+   ],
+   [
+    "the",
+    12.9
+   ],
+   [
+    "air",
+    13.13
+   ],
+   [
+    "is",
+    13.37
+   ],
+   [
+    "super",
+    13.53
+   ],
+   [
+    "thin",
+    13.92
+   ]
+  ]
+ },
+ {
+  "s": 14.79,
+  "e": 15.77,
+  "text": "Press the button,",
+  "words": [
+   [
+    "press",
+    14.79
+   ],
+   [
+    "the",
+    15.14
+   ],
+   [
+    "button",
+    15.35
+   ]
+  ]
+ },
+ {
+  "s": 16.07,
+  "e": 17.53,
+  "text": "and a valve opens a pipe",
+  "words": [
+   [
+    "and",
+    16.07
+   ],
+   [
+    "a",
+    16.3
+   ],
+   [
+    "valve",
+    16.38
+   ],
+   [
+    "opens",
+    16.76
+   ],
+   [
+    "a",
+    17.15
+   ],
+   [
+    "pipe",
+    17.23
+   ]
+  ]
+ },
+ {
+  "s": 17.83,
+  "e": 19.91,
+  "text": "from the bowl to that thin outside air.",
+  "words": [
+   [
+    "from",
+    17.83
+   ],
+   [
+    "the",
+    18.1
+   ],
+   [
+    "bowl",
+    18.3
+   ],
+   [
+    "to",
+    18.57
+   ],
+   [
+    "that",
+    18.7
+   ],
+   [
+    "thin",
+    18.97
+   ],
+   [
+    "outside",
+    19.24
+   ],
+   [
+    "air",
+    19.71
+   ]
+  ]
+ },
+ {
+  "s": 20.46,
+  "e": 22.09,
+  "text": "The high pressure in the cabin",
+  "words": [
+   [
+    "the",
+    20.46
+   ],
+   [
+    "high",
+    20.65
+   ],
+   [
+    "pressure",
+    20.91
+   ],
+   [
+    "in",
+    21.44
+   ],
+   [
+    "the",
+    21.57
+   ],
+   [
+    "cabin",
+    21.77
+   ]
+  ]
+ },
+ {
+  "s": 22.39,
+  "e": 24.19,
+  "text": "shoves everything down the pipe.",
+  "words": [
+   [
+    "shoves",
+    22.39
+   ],
+   [
+    "everything",
+    22.79
+   ],
+   [
+    "down",
+    23.46
+   ],
+   [
+    "the",
+    23.72
+   ],
+   [
+    "pipe",
+    23.92
+   ]
+  ]
+ },
+ {
+  "s": 24.74,
+  "e": 25.68,
+  "text": "That's the whoosh.",
+  "words": [
+   [
+    "thats",
+    24.74
+   ],
+   [
+    "the",
+    25.08
+   ],
+   [
+    "whoosh",
+    25.28
+   ]
+  ]
+ },
+ {
+  "s": 26.23,
+  "e": 28.71,
+  "text": "It all lands in a tank at the back of the plane.",
+  "words": [
+   [
+    "it",
+    26.23
+   ],
+   [
+    "all",
+    26.37
+   ],
+   [
+    "lands",
+    26.58
+   ],
+   [
+    "in",
+    26.92
+   ],
+   [
+    "a",
+    27.06
+   ],
+   [
+    "tank",
+    27.13
+   ],
+   [
+    "at",
+    27.41
+   ],
+   [
+    "the",
+    27.54
+   ],
+   [
+    "back",
+    27.75
+   ],
+   [
+    "of",
+    28.03
+   ],
+   [
+    "the",
+    28.16
+   ],
+   [
+    "plane",
+    28.37
+   ]
+  ]
+ },
+ {
+  "s": 29.26,
+  "e": 30.86,
+  "text": "About three seconds later,",
+  "words": [
+   [
+    "about",
+    29.26
+   ],
+   [
+    "three",
+    29.63
+   ],
+   [
+    "seconds",
+    29.99
+   ],
+   [
+    "later",
+    30.5
+   ]
+  ]
+ },
+ {
+  "s": 31.16,
+  "e": 32.4,
+  "text": "the valve slams shut.",
+  "words": [
+   [
+    "the",
+    31.16
+   ],
+   [
+    "valve",
+    31.38
+   ],
+   [
+    "slams",
+    31.74
+   ],
+   [
+    "shut",
+    32.11
+   ]
+  ]
+ },
+ {
+  "s": 32.95,
+  "e": 34.84,
+  "text": "But below sixteen thousand feet,",
+  "words": [
+   [
+    "but",
+    32.95
+   ],
+   [
+    "below",
+    33.16
+   ],
+   [
+    "sixteen",
+    33.51
+   ],
+   [
+    "thousand",
+    34.0
+   ],
+   [
+    "feet",
+    34.56
+   ]
+  ]
+ },
+ {
+  "s": 35.14,
+  "e": 36.97,
+  "text": "the outside air isn't thin enough,",
+  "words": [
+   [
+    "the",
+    35.14
+   ],
+   [
+    "outside",
+    35.35
+   ],
+   [
+    "air",
+    35.82
+   ],
+   [
+    "isnt",
+    36.03
+   ],
+   [
+    "thin",
+    36.3
+   ],
+   [
+    "enough",
+    36.57
+   ]
+  ]
+ },
+ {
+  "s": 37.27,
+  "e": 39.96,
+  "text": "so an electric pump makes the vacuum instead.",
+  "words": [
+   [
+    "so",
+    37.27
+   ],
+   [
+    "an",
+    37.42
+   ],
+   [
+    "electric",
+    37.56
+   ],
+   [
+    "pump",
+    38.14
+   ],
+   [
+    "makes",
+    38.43
+   ],
+   [
+    "the",
+    38.8
+   ],
+   [
+    "vacuum",
+    39.02
+   ],
+   [
+    "instead",
+    39.45
+   ]
+  ]
+ },
+ {
+  "s": 40.51,
+  "e": 42.91,
+  "text": "And no, nothing gets dumped in the sky.",
+  "words": [
+   [
+    "and",
+    40.51
+   ],
+   [
+    "no",
+    40.75
+   ],
+   [
+    "nothing",
+    40.91
+   ],
+   [
+    "gets",
+    41.47
+   ],
+   [
+    "dumped",
+    41.79
+   ],
+   [
+    "in",
+    42.27
+   ],
+   [
+    "the",
+    42.43
+   ],
+   [
+    "sky",
+    42.67
+   ]
+  ]
+ },
+ {
+  "s": 43.46,
+  "e": 46.02,
+  "text": "Ground crews empty the tank after landing.",
+  "words": [
+   [
+    "ground",
+    43.46
+   ],
+   [
+    "crews",
+    43.9
+   ],
+   [
+    "empty",
+    44.27
+   ],
+   [
+    "the",
+    44.63
+   ],
+   [
+    "tank",
+    44.85
+   ],
+   [
+    "after",
+    45.15
+   ],
+   [
+    "landing",
+    45.51
+   ]
+  ]
+ },
+ {
+  "s": 46.57,
+  "e": 47.57,
+  "text": "So, next flight,",
+  "words": [
+   [
+    "so",
+    46.57
+   ],
+   [
+    "next",
+    46.74
+   ],
+   [
+    "flight",
+    47.07
+   ]
+  ]
+ },
+ {
+  "s": 47.87,
+  "e": 49.42,
+  "text": "are you brave enough to press it?",
+  "words": [
+   [
+    "are",
+    47.87
+   ],
+   [
+    "you",
+    48.05
+   ],
+   [
+    "brave",
+    48.23
+   ],
+   [
+    "enough",
+    48.53
+   ],
+   [
+    "to",
+    48.89
+   ],
+   [
+    "press",
+    49.0
+   ],
+   [
+    "it",
+    49.3
+   ]
+  ]
+ }
+]
