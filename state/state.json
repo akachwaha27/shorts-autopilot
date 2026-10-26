@@ -10875,7 +10875,7 @@
         "format": "animated",
         "style": "Cut-Paper Diorama"
       },
-      "status": "awaiting_approval",
+      "status": "approved",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261026-bat-sleep",
@@ -10895,7 +10895,9 @@
         "name": "2026-10-26-108-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:02,360\nYou'd pass out sleeping upside down,\n\n2\n00:00:02,660 --> 00:00:04,780\nbut some bats do it 20 hours a day.\n\n3\n00:00:05,330 --> 00:00:06,620\nSo why hang like that?\n\n4\n00:00:07,170 --> 00:00:08,820\nBats have a takeoff problem.\n\n5\n00:00:09,370 --> 00:00:11,680\nThey're the only mammals that truly fly,\n\n6\n00:00:11,980 --> 00:00:14,240\nbut their wings can't lift them off the ground,\n\n7\n00:00:14,540 --> 00:00:16,770\nand their back legs are too tiny to run.\n\n8\n00:00:17,320 --> 00:00:20,070\nSo they sleep up high, hanging by their toes.\n\n9\n00:00:20,620 --> 00:00:21,550\nTime to go?\n\n10\n00:00:22,100 --> 00:00:23,320\nThey let go, drop,\n\n11\n00:00:23,620 --> 00:00:25,770\nand they're flying before they hit anything.\n\n12\n00:00:26,320 --> 00:00:28,460\nBut doesn't hanging all day get tiring?\n\n13\n00:00:29,010 --> 00:00:29,590\nNope.\n\n14\n00:00:30,140 --> 00:00:32,660\nTheir toe tendons work like a locking clip.\n\n15\n00:00:33,210 --> 00:00:35,030\nBody weight pulls the tendon tight,\n\n16\n00:00:35,330 --> 00:00:37,880\nand the claws clamp shut, with zero effort.\n\n17\n00:00:38,430 --> 00:00:41,010\nTo let go, they use muscles to open them.\n\n18\n00:00:41,560 --> 00:00:43,080\nAnd the blood rush to the head?\n\n19\n00:00:43,630 --> 00:00:45,970\nBats are so light, it barely happens.\n\n20\n00:00:46,520 --> 00:00:49,230\nPlus, up high, most predators can't reach them.\n\n21\n00:00:49,780 --> 00:00:51,980\nSo, could you nap upside down like a bat?\n\n",
-      "tg_msg": 837
+      "tg_msg": 837,
+      "approved_by": "auto",
+      "quota_note": "2026-10-26"
     }
   },
   "history": [
