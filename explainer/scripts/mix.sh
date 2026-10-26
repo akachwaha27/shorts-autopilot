@@ -12,6 +12,10 @@ ffmpeg -y -loglevel error -i "$V" -i /tmp/_voice_pad.wav -i "$FX" -filter_comple
 # last sentence of the voiceover (every video up to Oct 26). Refuse to hand over a mix whose audio is short.
 AD=$(ffprobe -v error -select_streams a -show_entries stream=duration -of default=nw=1:nk=1 "$OUT")
 python3 -c "import sys; a,v=float('$AD'),float('$DUR'); sys.exit(0 if a >= v - 0.3 else f'audio {a:.2f}s is shorter than video {v:.2f}s: voiceover would be cut off')"
-echo "wrote $OUT (video ${DUR}s, audio ${AD}s)"
+# heavy-grain styles (synthwave, woodblock) can top the 95 MB drop limit at the render's CRF 18: re-encode smaller
+if [ "$(stat -c %s "$OUT")" -gt 90000000 ]; then
+  ffmpeg -y -loglevel error -i "$OUT" -c:v libx264 -crf 25 -preset medium -pix_fmt yuv420p -c:a copy "${OUT%.mp4}.small.mp4" && mv "${OUT%.mp4}.small.mp4" "$OUT"
+fi
+echo "wrote $OUT (video ${DUR}s, audio ${AD}s, $(( $(stat -c %s "$OUT") / 1000000 )) MB)"
 # No voiceover? Use the full effects mix instead:
 #   ffmpeg -y -i video.mp4 -i effects_full.wav -filter_complex "[1:a]loudnorm=I=-18:TP=-1.5[a]" -map 0:v -map "[a]" -c:v copy -c:a aac out.mp4
