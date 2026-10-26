@@ -1,0 +1,721 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.36,
+  "text": "You'd pass out sleeping upside down,",
+  "words": [
+   [
+    "youd",
+    0.25
+   ],
+   [
+    "pass",
+    0.54
+   ],
+   [
+    "out",
+    0.83
+   ],
+   [
+    "sleeping",
+    1.05
+   ],
+   [
+    "upside",
+    1.63
+   ],
+   [
+    "down",
+    2.07
+   ]
+  ]
+ },
+ {
+  "s": 2.66,
+  "e": 4.78,
+  "text": "but some bats do it 20 hours a day.",
+  "words": [
+   [
+    "but",
+    2.66
+   ],
+   [
+    "some",
+    2.91
+   ],
+   [
+    "bats",
+    3.23
+   ],
+   [
+    "do",
+    3.56
+   ],
+   [
+    "it",
+    3.72
+   ],
+   [
+    "20",
+    3.88
+   ],
+   [
+    "hours",
+    4.05
+   ],
+   [
+    "a",
+    4.45
+   ],
+   [
+    "day",
+    4.54
+   ]
+  ]
+ },
+ {
+  "s": 5.33,
+  "e": 6.62,
+  "text": "So why hang like that?",
+  "words": [
+   [
+    "so",
+    5.33
+   ],
+   [
+    "why",
+    5.48
+   ],
+   [
+    "hang",
+    5.71
+   ],
+   [
+    "like",
+    6.01
+   ],
+   [
+    "that",
+    6.32
+   ]
+  ]
+ },
+ {
+  "s": 7.17,
+  "e": 8.82,
+  "text": "Bats have a takeoff problem.",
+  "words": [
+   [
+    "bats",
+    7.17
+   ],
+   [
+    "have",
+    7.46
+   ],
+   [
+    "a",
+    7.74
+   ],
+   [
+    "takeoff",
+    7.82
+   ],
+   [
+    "problem",
+    8.32
+   ]
+  ]
+ },
+ {
+  "s": 9.37,
+  "e": 11.68,
+  "text": "They're the only mammals that truly fly,",
+  "words": [
+   [
+    "theyre",
+    9.37
+   ],
+   [
+    "the",
+    9.8
+   ],
+   [
+    "only",
+    10.02
+   ],
+   [
+    "mammals",
+    10.31
+   ],
+   [
+    "that",
+    10.82
+   ],
+   [
+    "truly",
+    11.1
+   ],
+   [
+    "fly",
+    11.47
+   ]
+  ]
+ },
+ {
+  "s": 11.98,
+  "e": 14.24,
+  "text": "but their wings can't lift them off the ground,",
+  "words": [
+   [
+    "but",
+    11.98
+   ],
+   [
+    "their",
+    12.17
+   ],
+   [
+    "wings",
+    12.47
+   ],
+   [
+    "cant",
+    12.78
+   ],
+   [
+    "lift",
+    13.02
+   ],
+   [
+    "them",
+    13.26
+   ],
+   [
+    "off",
+    13.51
+   ],
+   [
+    "the",
+    13.69
+   ],
+   [
+    "ground",
+    13.87
+   ]
+  ]
+ },
+ {
+  "s": 14.54,
+  "e": 16.77,
+  "text": "and their back legs are too tiny to run.",
+  "words": [
+   [
+    "and",
+    14.54
+   ],
+   [
+    "their",
+    14.76
+   ],
+   [
+    "back",
+    15.11
+   ],
+   [
+    "legs",
+    15.4
+   ],
+   [
+    "are",
+    15.69
+   ],
+   [
+    "too",
+    15.9
+   ],
+   [
+    "tiny",
+    16.12
+   ],
+   [
+    "to",
+    16.41
+   ],
+   [
+    "run",
+    16.55
+   ]
+  ]
+ },
+ {
+  "s": 17.32,
+  "e": 20.07,
+  "text": "So they sleep up high, hanging by their toes.",
+  "words": [
+   [
+    "so",
+    17.32
+   ],
+   [
+    "they",
+    17.47
+   ],
+   [
+    "sleep",
+    17.79
+   ],
+   [
+    "up",
+    18.18
+   ],
+   [
+    "high",
+    18.34
+   ],
+   [
+    "hanging",
+    18.65
+   ],
+   [
+    "by",
+    19.2
+   ],
+   [
+    "their",
+    19.36
+   ],
+   [
+    "toes",
+    19.75
+   ]
+  ]
+ },
+ {
+  "s": 20.62,
+  "e": 21.55,
+  "text": "Time to go?",
+  "words": [
+   [
+    "time",
+    20.62
+   ],
+   [
+    "to",
+    21.08
+   ],
+   [
+    "go",
+    21.31
+   ]
+  ]
+ },
+ {
+  "s": 22.1,
+  "e": 23.32,
+  "text": "They let go, drop,",
+  "words": [
+   [
+    "they",
+    22.1
+   ],
+   [
+    "let",
+    22.47
+   ],
+   [
+    "go",
+    22.76
+   ],
+   [
+    "drop",
+    22.94
+   ]
+  ]
+ },
+ {
+  "s": 23.62,
+  "e": 25.77,
+  "text": "and they're flying before they hit anything.",
+  "words": [
+   [
+    "and",
+    23.62
+   ],
+   [
+    "theyre",
+    23.8
+   ],
+   [
+    "flying",
+    24.16
+   ],
+   [
+    "before",
+    24.52
+   ],
+   [
+    "they",
+    24.88
+   ],
+   [
+    "hit",
+    25.12
+   ],
+   [
+    "anything",
+    25.3
+   ]
+  ]
+ },
+ {
+  "s": 26.32,
+  "e": 28.46,
+  "text": "But doesn't hanging all day get tiring?",
+  "words": [
+   [
+    "but",
+    26.32
+   ],
+   [
+    "doesnt",
+    26.53
+   ],
+   [
+    "hanging",
+    26.94
+   ],
+   [
+    "all",
+    27.42
+   ],
+   [
+    "day",
+    27.63
+   ],
+   [
+    "get",
+    27.84
+   ],
+   [
+    "tiring",
+    28.04
+   ]
+  ]
+ },
+ {
+  "s": 29.01,
+  "e": 29.59,
+  "text": "Nope.",
+  "words": [
+   [
+    "nope",
+    29.01
+   ]
+  ]
+ },
+ {
+  "s": 30.14,
+  "e": 32.66,
+  "text": "Their toe tendons work like a locking clip.",
+  "words": [
+   [
+    "their",
+    30.14
+   ],
+   [
+    "toe",
+    30.5
+   ],
+   [
+    "tendons",
+    30.72
+   ],
+   [
+    "work",
+    31.22
+   ],
+   [
+    "like",
+    31.51
+   ],
+   [
+    "a",
+    31.8
+   ],
+   [
+    "locking",
+    31.87
+   ],
+   [
+    "clip",
+    32.37
+   ]
+  ]
+ },
+ {
+  "s": 33.21,
+  "e": 35.03,
+  "text": "Body weight pulls the tendon tight,",
+  "words": [
+   [
+    "body",
+    33.21
+   ],
+   [
+    "weight",
+    33.46
+   ],
+   [
+    "pulls",
+    33.84
+   ],
+   [
+    "the",
+    34.15
+   ],
+   [
+    "tendon",
+    34.34
+   ],
+   [
+    "tight",
+    34.72
+   ]
+  ]
+ },
+ {
+  "s": 35.33,
+  "e": 37.88,
+  "text": "and the claws clamp shut, with zero effort.",
+  "words": [
+   [
+    "and",
+    35.33
+   ],
+   [
+    "the",
+    35.56
+   ],
+   [
+    "claws",
+    35.78
+   ],
+   [
+    "clamp",
+    36.16
+   ],
+   [
+    "shut",
+    36.53
+   ],
+   [
+    "with",
+    36.83
+   ],
+   [
+    "zero",
+    37.13
+   ],
+   [
+    "effort",
+    37.43
+   ]
+  ]
+ },
+ {
+  "s": 38.43,
+  "e": 41.01,
+  "text": "To let go, they use muscles to open them.",
+  "words": [
+   [
+    "to",
+    38.43
+   ],
+   [
+    "let",
+    38.59
+   ],
+   [
+    "go",
+    38.84
+   ],
+   [
+    "they",
+    39.01
+   ],
+   [
+    "use",
+    39.34
+   ],
+   [
+    "muscles",
+    39.59
+   ],
+   [
+    "to",
+    40.18
+   ],
+   [
+    "open",
+    40.34
+   ],
+   [
+    "them",
+    40.68
+   ]
+  ]
+ },
+ {
+  "s": 41.56,
+  "e": 43.08,
+  "text": "And the blood rush to the head?",
+  "words": [
+   [
+    "and",
+    41.56
+   ],
+   [
+    "the",
+    41.75
+   ],
+   [
+    "blood",
+    41.94
+   ],
+   [
+    "rush",
+    42.26
+   ],
+   [
+    "to",
+    42.51
+   ],
+   [
+    "the",
+    42.64
+   ],
+   [
+    "head",
+    42.83
+   ]
+  ]
+ },
+ {
+  "s": 43.63,
+  "e": 45.97,
+  "text": "Bats are so light, it barely happens.",
+  "words": [
+   [
+    "bats",
+    43.63
+   ],
+   [
+    "are",
+    43.95
+   ],
+   [
+    "so",
+    44.2
+   ],
+   [
+    "light",
+    44.36
+   ],
+   [
+    "it",
+    44.76
+   ],
+   [
+    "barely",
+    44.92
+   ],
+   [
+    "happens",
+    45.41
+   ]
+  ]
+ },
+ {
+  "s": 46.52,
+  "e": 49.23,
+  "text": "Plus, up high, most predators can't reach them.",
+  "words": [
+   [
+    "plus",
+    46.52
+   ],
+   [
+    "up",
+    46.82
+   ],
+   [
+    "high",
+    46.97
+   ],
+   [
+    "most",
+    47.27
+   ],
+   [
+    "predators",
+    47.57
+   ],
+   [
+    "cant",
+    48.25
+   ],
+   [
+    "reach",
+    48.55
+   ],
+   [
+    "them",
+    48.93
+   ]
+  ]
+ },
+ {
+  "s": 49.78,
+  "e": 51.98,
+  "text": "So, could you nap upside down like a bat?",
+  "words": [
+   [
+    "so",
+    49.78
+   ],
+   [
+    "could",
+    49.92
+   ],
+   [
+    "you",
+    50.28
+   ],
+   [
+    "nap",
+    50.49
+   ],
+   [
+    "upside",
+    50.71
+   ],
+   [
+    "down",
+    51.13
+   ],
+   [
+    "like",
+    51.42
+   ],
+   [
+    "a",
+    51.7
+   ],
+   [
+    "bat",
+    51.77
+   ]
+  ]
+ }
+]
