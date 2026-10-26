@@ -1,0 +1,669 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.13,
+  "text": "How does a thermos keep coffee hot",
+  "words": [
+   [
+    "how",
+    0.25
+   ],
+   [
+    "does",
+    0.45
+   ],
+   [
+    "a",
+    0.72
+   ],
+   [
+    "thermos",
+    0.79
+   ],
+   [
+    "keep",
+    1.26
+   ],
+   [
+    "coffee",
+    1.52
+   ],
+   [
+    "hot",
+    1.93
+   ]
+  ]
+ },
+ {
+  "s": 2.43,
+  "e": 3.84,
+  "text": "for twelve whole hours?",
+  "words": [
+   [
+    "for",
+    2.43
+   ],
+   [
+    "twelve",
+    2.65
+   ],
+   [
+    "whole",
+    3.09
+   ],
+   [
+    "hours",
+    3.47
+   ]
+  ]
+ },
+ {
+  "s": 4.39,
+  "e": 6.03,
+  "text": "Heat escapes in three ways.",
+  "words": [
+   [
+    "heat",
+    4.39
+   ],
+   [
+    "escapes",
+    4.69
+   ],
+   [
+    "in",
+    5.21
+   ],
+   [
+    "three",
+    5.36
+   ],
+   [
+    "ways",
+    5.74
+   ]
+  ]
+ },
+ {
+  "s": 6.58,
+  "e": 7.93,
+  "text": "It can touch its way out,",
+  "words": [
+   [
+    "it",
+    6.58
+   ],
+   [
+    "can",
+    6.73
+   ],
+   [
+    "touch",
+    6.94
+   ],
+   [
+    "its",
+    7.29
+   ],
+   [
+    "way",
+    7.51
+   ],
+   [
+    "out",
+    7.72
+   ]
+  ]
+ },
+ {
+  "s": 8.23,
+  "e": 9.26,
+  "text": "that's conduction.",
+  "words": [
+   [
+    "thats",
+    8.23
+   ],
+   [
+    "conduction",
+    8.58
+   ]
+  ]
+ },
+ {
+  "s": 9.81,
+  "e": 11.35,
+  "text": "It can ride on moving air,",
+  "words": [
+   [
+    "it",
+    9.81
+   ],
+   [
+    "can",
+    9.96
+   ],
+   [
+    "ride",
+    10.19
+   ],
+   [
+    "on",
+    10.5
+   ],
+   [
+    "moving",
+    10.66
+   ],
+   [
+    "air",
+    11.12
+   ]
+  ]
+ },
+ {
+  "s": 11.65,
+  "e": 12.7,
+  "text": "that's convection.",
+  "words": [
+   [
+    "thats",
+    11.65
+   ],
+   [
+    "convection",
+    12.0
+   ]
+  ]
+ },
+ {
+  "s": 13.25,
+  "e": 15.74,
+  "text": "Or it can glow away as invisible light,",
+  "words": [
+   [
+    "or",
+    13.25
+   ],
+   [
+    "it",
+    13.41
+   ],
+   [
+    "can",
+    13.57
+   ],
+   [
+    "glow",
+    13.81
+   ],
+   [
+    "away",
+    14.13
+   ],
+   [
+    "as",
+    14.45
+   ],
+   [
+    "invisible",
+    14.61
+   ],
+   [
+    "light",
+    15.34
+   ]
+  ]
+ },
+ {
+  "s": 16.04,
+  "e": 17.21,
+  "text": "called radiation.",
+  "words": [
+   [
+    "called",
+    16.04
+   ],
+   [
+    "radiation",
+    16.5
+   ]
+  ]
+ },
+ {
+  "s": 17.76,
+  "e": 19.44,
+  "text": "A thermos blocks all three.",
+  "words": [
+   [
+    "a",
+    17.76
+   ],
+   [
+    "thermos",
+    17.83
+   ],
+   [
+    "blocks",
+    18.37
+   ],
+   [
+    "all",
+    18.83
+   ],
+   [
+    "three",
+    19.06
+   ]
+  ]
+ },
+ {
+  "s": 19.99,
+  "e": 21.42,
+  "text": "It's really two bottles,",
+  "words": [
+   [
+    "its",
+    19.99
+   ],
+   [
+    "really",
+    20.22
+   ],
+   [
+    "two",
+    20.67
+   ],
+   [
+    "bottles",
+    20.9
+   ]
+  ]
+ },
+ {
+  "s": 21.72,
+  "e": 23.03,
+  "text": "one inside the other,",
+  "words": [
+   [
+    "one",
+    21.72
+   ],
+   [
+    "inside",
+    21.95
+   ],
+   [
+    "the",
+    22.41
+   ],
+   [
+    "other",
+    22.64
+   ]
+  ]
+ },
+ {
+  "s": 23.33,
+  "e": 25.59,
+  "text": "and the gap between them is a vacuum.",
+  "words": [
+   [
+    "and",
+    23.33
+   ],
+   [
+    "the",
+    23.56
+   ],
+   [
+    "gap",
+    23.8
+   ],
+   [
+    "between",
+    24.03
+   ],
+   [
+    "them",
+    24.58
+   ],
+   [
+    "is",
+    24.89
+   ],
+   [
+    "a",
+    25.05
+   ],
+   [
+    "vacuum",
+    25.12
+   ]
+  ]
+ },
+ {
+  "s": 26.14,
+  "e": 27.36,
+  "text": "With no air in there,",
+  "words": [
+   [
+    "with",
+    26.14
+   ],
+   [
+    "no",
+    26.45
+   ],
+   [
+    "air",
+    26.6
+   ],
+   [
+    "in",
+    26.83
+   ],
+   [
+    "there",
+    26.98
+   ]
+  ]
+ },
+ {
+  "s": 27.66,
+  "e": 29.19,
+  "text": "heat has nothing to touch,",
+  "words": [
+   [
+    "heat",
+    27.66
+   ],
+   [
+    "has",
+    27.95
+   ],
+   [
+    "nothing",
+    28.17
+   ],
+   [
+    "to",
+    28.68
+   ],
+   [
+    "touch",
+    28.83
+   ]
+  ]
+ },
+ {
+  "s": 29.49,
+  "e": 30.75,
+  "text": "and nothing to ride.",
+  "words": [
+   [
+    "and",
+    29.49
+   ],
+   [
+    "nothing",
+    29.73
+   ],
+   [
+    "to",
+    30.28
+   ],
+   [
+    "ride",
+    30.43
+   ]
+  ]
+ },
+ {
+  "s": 31.3,
+  "e": 32.64,
+  "text": "Then the walls are shiny,",
+  "words": [
+   [
+    "then",
+    31.3
+   ],
+   [
+    "the",
+    31.57
+   ],
+   [
+    "walls",
+    31.77
+   ],
+   [
+    "are",
+    32.1
+   ],
+   [
+    "shiny",
+    32.3
+   ]
+  ]
+ },
+ {
+  "s": 32.94,
+  "e": 33.87,
+  "text": "like a mirror,",
+  "words": [
+   [
+    "like",
+    32.94
+   ],
+   [
+    "a",
+    33.28
+   ],
+   [
+    "mirror",
+    33.36
+   ]
+  ]
+ },
+ {
+  "s": 34.17,
+  "e": 36.48,
+  "text": "so the glow bounces back into your coffee.",
+  "words": [
+   [
+    "so",
+    34.17
+   ],
+   [
+    "the",
+    34.31
+   ],
+   [
+    "glow",
+    34.51
+   ],
+   [
+    "bounces",
+    34.78
+   ],
+   [
+    "back",
+    35.26
+   ],
+   [
+    "into",
+    35.53
+   ],
+   [
+    "your",
+    35.8
+   ],
+   [
+    "coffee",
+    36.07
+   ]
+  ]
+ },
+ {
+  "s": 37.03,
+  "e": 38.86,
+  "text": "A scientist named James Dewar",
+  "words": [
+   [
+    "a",
+    37.03
+   ],
+   [
+    "scientist",
+    37.1
+   ],
+   [
+    "named",
+    37.76
+   ],
+   [
+    "james",
+    38.13
+   ],
+   [
+    "dewar",
+    38.5
+   ]
+  ]
+ },
+ {
+  "s": 39.16,
+  "e": 42.22,
+  "text": "invented it in 1892,",
+  "words": [
+   [
+    "invented",
+    39.16
+   ],
+   [
+    "it",
+    40.69
+   ],
+   [
+    "in",
+    41.07
+   ],
+   [
+    "1892",
+    41.45
+   ]
+  ]
+ },
+ {
+  "s": 42.52,
+  "e": 44.62,
+  "text": "to keep liquid gases ice cold.",
+  "words": [
+   [
+    "to",
+    42.52
+   ],
+   [
+    "keep",
+    42.69
+   ],
+   [
+    "liquid",
+    43.04
+   ],
+   [
+    "gases",
+    43.57
+   ],
+   [
+    "ice",
+    44.01
+   ],
+   [
+    "cold",
+    44.27
+   ]
+  ]
+ },
+ {
+  "s": 45.17,
+  "e": 46.56,
+  "text": "The only real leak?",
+  "words": [
+   [
+    "the",
+    45.17
+   ],
+   [
+    "only",
+    45.45
+   ],
+   [
+    "real",
+    45.82
+   ],
+   [
+    "leak",
+    46.19
+   ]
+  ]
+ },
+ {
+  "s": 47.11,
+  "e": 47.78,
+  "text": "The lid.",
+  "words": [
+   [
+    "the",
+    47.11
+   ],
+   [
+    "lid",
+    47.44
+   ]
+  ]
+ },
+ {
+  "s": 48.33,
+  "e": 50.87,
+  "text": "So what's the longest your coffee ever stayed hot?",
+  "words": [
+   [
+    "so",
+    48.33
+   ],
+   [
+    "whats",
+    48.45
+   ],
+   [
+    "the",
+    48.77
+   ],
+   [
+    "longest",
+    48.96
+   ],
+   [
+    "your",
+    49.41
+   ],
+   [
+    "coffee",
+    49.66
+   ],
+   [
+    "ever",
+    50.05
+   ],
+   [
+    "stayed",
+    50.3
+   ],
+   [
+    "hot",
+    50.68
+   ]
+  ]
+ }
+]
