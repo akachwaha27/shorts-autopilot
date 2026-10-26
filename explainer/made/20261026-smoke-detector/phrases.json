@@ -1,0 +1,704 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.84,
+  "text": "Your smoke alarm might be radioactive.",
+  "words": [
+   [
+    "your",
+    0.25
+   ],
+   [
+    "smoke",
+    0.57
+   ],
+   [
+    "alarm",
+    0.98
+   ],
+   [
+    "might",
+    1.38
+   ],
+   [
+    "be",
+    1.79
+   ],
+   [
+    "radioactive",
+    1.95
+   ]
+  ]
+ },
+ {
+  "s": 3.39,
+  "e": 4.54,
+  "text": "Nobody tells you,",
+  "words": [
+   [
+    "nobody",
+    3.39
+   ],
+   [
+    "tells",
+    3.88
+   ],
+   [
+    "you",
+    4.29
+   ]
+  ]
+ },
+ {
+  "s": 4.84,
+  "e": 6.43,
+  "text": "but that's how it smells smoke.",
+  "words": [
+   [
+    "but",
+    4.84
+   ],
+   [
+    "thats",
+    5.04
+   ],
+   [
+    "how",
+    5.37
+   ],
+   [
+    "it",
+    5.57
+   ],
+   [
+    "smells",
+    5.7
+   ],
+   [
+    "smoke",
+    6.1
+   ]
+  ]
+ },
+ {
+  "s": 6.98,
+  "e": 8.95,
+  "text": "Inside sits a speck of americium,",
+  "words": [
+   [
+    "inside",
+    6.98
+   ],
+   [
+    "sits",
+    7.42
+   ],
+   [
+    "a",
+    7.71
+   ],
+   [
+    "speck",
+    7.78
+   ],
+   [
+    "of",
+    8.15
+   ],
+   [
+    "americium",
+    8.29
+   ]
+  ]
+ },
+ {
+  "s": 9.25,
+  "e": 11.64,
+  "text": "which fires out tiny alpha particles.",
+  "words": [
+   [
+    "which",
+    9.25
+   ],
+   [
+    "fires",
+    9.64
+   ],
+   [
+    "out",
+    10.02
+   ],
+   [
+    "tiny",
+    10.25
+   ],
+   [
+    "alpha",
+    10.56
+   ],
+   [
+    "particles",
+    10.95
+   ]
+  ]
+ },
+ {
+  "s": 12.19,
+  "e": 13.51,
+  "text": "They slam into the air",
+  "words": [
+   [
+    "they",
+    12.19
+   ],
+   [
+    "slam",
+    12.48
+   ],
+   [
+    "into",
+    12.78
+   ],
+   [
+    "the",
+    13.07
+   ],
+   [
+    "air",
+    13.29
+   ]
+  ]
+ },
+ {
+  "s": 13.81,
+  "e": 15.35,
+  "text": "between two metal plates,",
+  "words": [
+   [
+    "between",
+    13.81
+   ],
+   [
+    "two",
+    14.32
+   ],
+   [
+    "metal",
+    14.54
+   ],
+   [
+    "plates",
+    14.91
+   ]
+  ]
+ },
+ {
+  "s": 15.65,
+  "e": 17.29,
+  "text": "knocking electrons loose.",
+  "words": [
+   [
+    "knocking",
+    15.65
+   ],
+   [
+    "electrons",
+    16.25
+   ],
+   [
+    "loose",
+    16.92
+   ]
+  ]
+ },
+ {
+  "s": 17.84,
+  "e": 19.76,
+  "text": "Now the air carries electricity,",
+  "words": [
+   [
+    "now",
+    17.84
+   ],
+   [
+    "the",
+    18.05
+   ],
+   [
+    "air",
+    18.27
+   ],
+   [
+    "carries",
+    18.48
+   ],
+   [
+    "electricity",
+    18.98
+   ]
+  ]
+ },
+ {
+  "s": 20.06,
+  "e": 22.09,
+  "text": "so a tiny, steady current flows.",
+  "words": [
+   [
+    "so",
+    20.06
+   ],
+   [
+    "a",
+    20.22
+   ],
+   [
+    "tiny",
+    20.3
+   ],
+   [
+    "steady",
+    20.63
+   ],
+   [
+    "current",
+    21.12
+   ],
+   [
+    "flows",
+    21.69
+   ]
+  ]
+ },
+ {
+  "s": 22.64,
+  "e": 23.87,
+  "text": "When smoke drifts in,",
+  "words": [
+   [
+    "when",
+    22.64
+   ],
+   [
+    "smoke",
+    22.93
+   ],
+   [
+    "drifts",
+    23.29
+   ],
+   [
+    "in",
+    23.73
+   ]
+  ]
+ },
+ {
+  "s": 24.17,
+  "e": 26.82,
+  "text": "bits of smoke grab those charged particles.",
+  "words": [
+   [
+    "bits",
+    24.17
+   ],
+   [
+    "of",
+    24.47
+   ],
+   [
+    "smoke",
+    24.62
+   ],
+   [
+    "grab",
+    24.98
+   ],
+   [
+    "those",
+    25.28
+   ],
+   [
+    "charged",
+    25.65
+   ],
+   [
+    "particles",
+    26.16
+   ]
+  ]
+ },
+ {
+  "s": 27.37,
+  "e": 28.5,
+  "text": "The current drops,",
+  "words": [
+   [
+    "the",
+    27.37
+   ],
+   [
+    "current",
+    27.6
+   ],
+   [
+    "drops",
+    28.13
+   ]
+  ]
+ },
+ {
+  "s": 28.8,
+  "e": 30.19,
+  "text": "and the alarm screams.",
+  "words": [
+   [
+    "and",
+    28.8
+   ],
+   [
+    "the",
+    29.03
+   ],
+   [
+    "alarm",
+    29.26
+   ],
+   [
+    "screams",
+    29.65
+   ]
+  ]
+ },
+ {
+  "s": 30.74,
+  "e": 32.7,
+  "text": "Other alarms use light instead.",
+  "words": [
+   [
+    "other",
+    30.74
+   ],
+   [
+    "alarms",
+    31.12
+   ],
+   [
+    "use",
+    31.57
+   ],
+   [
+    "light",
+    31.79
+   ],
+   [
+    "instead",
+    32.17
+   ]
+  ]
+ },
+ {
+  "s": 33.25,
+  "e": 35.66,
+  "text": "An LED shines across a dark chamber,",
+  "words": [
+   [
+    "an",
+    33.25
+   ],
+   [
+    "led",
+    33.41
+   ],
+   [
+    "shines",
+    33.66
+   ],
+   [
+    "across",
+    34.16
+   ],
+   [
+    "a",
+    34.66
+   ],
+   [
+    "dark",
+    34.74
+   ],
+   [
+    "chamber",
+    35.08
+   ]
+  ]
+ },
+ {
+  "s": 35.96,
+  "e": 37.14,
+  "text": "away from a sensor.",
+  "words": [
+   [
+    "away",
+    35.96
+   ],
+   [
+    "from",
+    36.27
+   ],
+   [
+    "a",
+    36.59
+   ],
+   [
+    "sensor",
+    36.67
+   ]
+  ]
+ },
+ {
+  "s": 37.69,
+  "e": 39.39,
+  "text": "No smoke, no light hits it.",
+  "words": [
+   [
+    "no",
+    37.69
+   ],
+   [
+    "smoke",
+    37.86
+   ],
+   [
+    "no",
+    38.29
+   ],
+   [
+    "light",
+    38.46
+   ],
+   [
+    "hits",
+    38.88
+   ],
+   [
+    "it",
+    39.22
+   ]
+  ]
+ },
+ {
+  "s": 39.94,
+  "e": 41.59,
+  "text": "But smoke scatters the beam,",
+  "words": [
+   [
+    "but",
+    39.94
+   ],
+   [
+    "smoke",
+    40.16
+   ],
+   [
+    "scatters",
+    40.52
+   ],
+   [
+    "the",
+    41.09
+   ],
+   [
+    "beam",
+    41.31
+   ]
+  ]
+ },
+ {
+  "s": 41.89,
+  "e": 43.69,
+  "text": "bouncing light into the sensor.",
+  "words": [
+   [
+    "bouncing",
+    41.89
+   ],
+   [
+    "light",
+    42.44
+   ],
+   [
+    "into",
+    42.79
+   ],
+   [
+    "the",
+    43.07
+   ],
+   [
+    "sensor",
+    43.27
+   ]
+  ]
+ },
+ {
+  "s": 44.24,
+  "e": 44.84,
+  "text": "Beep!",
+  "words": [
+   [
+    "beep",
+    44.24
+   ]
+  ]
+ },
+ {
+  "s": 45.39,
+  "e": 46.58,
+  "text": "And that americium?",
+  "words": [
+   [
+    "and",
+    45.39
+   ],
+   [
+    "that",
+    45.61
+   ],
+   [
+    "americium",
+    45.91
+   ]
+  ]
+ },
+ {
+  "s": 47.13,
+  "e": 49.95,
+  "text": "Its half-life is four hundred thirty-two years,",
+  "words": [
+   [
+    "its",
+    47.13
+   ],
+   [
+    "halflife",
+    47.35
+   ],
+   [
+    "is",
+    47.95
+   ],
+   [
+    "four",
+    48.09
+   ],
+   [
+    "hundred",
+    48.39
+   ],
+   [
+    "thirtytwo",
+    48.91
+   ],
+   [
+    "years",
+    49.58
+   ]
+  ]
+ },
+ {
+  "s": 50.25,
+  "e": 52.62,
+  "text": "so it outlasts your alarm by centuries.",
+  "words": [
+   [
+    "so",
+    50.25
+   ],
+   [
+    "it",
+    50.4
+   ],
+   [
+    "outlasts",
+    50.55
+   ],
+   [
+    "your",
+    51.14
+   ],
+   [
+    "alarm",
+    51.44
+   ],
+   [
+    "by",
+    51.81
+   ],
+   [
+    "centuries",
+    51.95
+   ]
+  ]
+ },
+ {
+  "s": 53.17,
+  "e": 54.85,
+  "text": "So, is the one above your bed",
+  "words": [
+   [
+    "so",
+    53.17
+   ],
+   [
+    "is",
+    53.32
+   ],
+   [
+    "the",
+    53.47
+   ],
+   [
+    "one",
+    53.7
+   ],
+   [
+    "above",
+    53.93
+   ],
+   [
+    "your",
+    54.32
+   ],
+   [
+    "bed",
+    54.62
+   ]
+  ]
+ },
+ {
+  "s": 55.15,
+  "e": 57.41,
+  "text": "radioactive, or running on light?",
+  "words": [
+   [
+    "radioactive",
+    55.15
+   ],
+   [
+    "or",
+    56.07
+   ],
+   [
+    "running",
+    56.24
+   ],
+   [
+    "on",
+    56.83
+   ],
+   [
+    "light",
+    57.0
+   ]
+  ]
+ }
+]

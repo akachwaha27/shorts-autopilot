@@ -1,0 +1,40 @@
+{
+ "kind": "short",
+ "title": "How Smoke Alarms Smell Smoke ☢️",
+ "description": "How does a smoke detector know there's a fire? Ionization smoke alarms use a speck of radioactive americium-241 to make the air carry a tiny current that smoke interrupts, while photoelectric alarms catch light scattered by smoke onto a hidden sensor.\n\nSources:\nhttps://wx1.ans.org/pi/np/smoke\nhttps://www.mentalfloss.com/technology/how-do-smoke-alarms-work\nhttps://www.epa.gov/node/80409\n\nAnimated in the Flat-Vector Science style.",
+ "hashtags": [
+  "#shorts",
+  "#science",
+  "#howitworks",
+  "#smokealarm"
+ ],
+ "tags": [
+  "smoke alarm",
+  "smoke detector",
+  "how does a smoke detector work",
+  "ionization smoke detector",
+  "photoelectric smoke detector",
+  "americium-241",
+  "radioactive smoke detector",
+  "alpha particles",
+  "how it works",
+  "science shorts",
+  "physics explained",
+  "everyday science",
+  "zorbly ai"
+ ],
+ "pinned_comment": "Check the label on yours: does it say ionization (radioactive) or photoelectric (light)? Tell me which one you've got 👇",
+ "thumbnail_text": "RADIOACTIVE?",
+ "style": "Flat-Vector Science",
+ "topic": "How do smoke detectors know there's a fire?",
+ "script": "Your smoke alarm might be radioactive.\nNobody tells you,\nbut that's how it smells smoke.\nInside sits a speck of americium,\nwhich fires out tiny alpha particles.\nThey slam into the air\nbetween two metal plates,\nknocking electrons loose.\nNow the air carries electricity,\nso a tiny, steady current flows.\nWhen smoke drifts in,\nbits of smoke grab those charged particles.\nThe current drops,\nand the alarm screams.\nOther alarms use light instead.\nAn LED shines across a dark chamber,\naway from a sensor.\nNo smoke, no light hits it.\nBut smoke scatters the beam,\nbouncing light into the sensor.\nBeep!\nAnd that americium?\nIts half-life is four hundred thirty-two years,\nso it outlasts your alarm by centuries.\nSo, is the one above your bed\nradioactive, or running on light?",
+ "key_facts": [
+  "Ionization smoke alarms contain a small amount of americium-241, which emits alpha particles",
+  "Alpha particles ionize air between two electrodes, sustaining a small steady current",
+  "Smoke entering the chamber disrupts/reduces the current; below a threshold the alarm sounds",
+  "Photoelectric alarms shine an LED across a chamber away from a photocell; smoke scatters light onto the sensor",
+  "Americium-241 half-life is about 432 years (EPA: 432.2)",
+  "Smoke alarms are typically replaced about every 10 years"
+ ],
+ "category": "27"
+}
