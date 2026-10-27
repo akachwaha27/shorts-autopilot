@@ -378,2267 +378,6 @@
     }
   },
   "videos": {
-    "2026-10-19-2": {
-      "topic": {
-        "title": "Top 5 Funniest Real Museums \ud83d\ude02",
-        "angle": "The day's biggest outlier, 'Funniest Relatable Moments' (182.4x), is a funny ranking, and 'Real end twist' (6.1x) saves the punchline for last, so this counts down funny real museums to the one that collects bad art.",
-        "format": "funny",
-        "tone": "funny",
-        "virality_score": 8,
-        "trend_source": "Funniest Relatable Moments | Rank Villa (182.4x, Unclassified - a ranking); Real end twist (6.1x, Unclassified - payoff saved for the end)",
-        "plan_id": "P2026-10-19-02"
-      },
-      "status": "published",
-      "by": "auto",
-      "updated": "2026-10-20T10:10:06.801560+00:00",
-      "redos": 0,
-      "package": {
-        "primary_keyword": "funniest real museums",
-        "title": "Top 5 Funniest Real Museums \ud83d\ude02",
-        "hook_text": "WEIRDEST DAY TRIPS",
-        "thumbnail_text": "ART TOO BAD",
-        "description": "These are the five funniest real museums: a pencil sharpener museum, the National Mustard Museum, the SPAM Museum, a toilet museum and the Museum of Bad Art. All five weird museums are real, and number one only collects art too bad to be ignored.\n\nIn this Short: five real museums you can look up, counting down to the one that's proud of its worst paintings.\n\nSources:\nhttps://en.wikipedia.org/wiki/Museum_of_Bad_Art\nhttps://en.wikipedia.org/wiki/National_Mustard_Museum\nhttps://en.wikipedia.org/wiki/Pencil_Sharpener_Museum",
-        "hashtags": [
-          "#shorts",
-          "#funny",
-          "#museum",
-          "#funfacts"
-        ],
-        "tags": [
-          "funniest real museums",
-          "museum of bad art",
-          "moba museum of bad art",
-          "real museums",
-          "weird museums",
-          "museum of bad art boston",
-          "national mustard museum",
-          "pencil sharpener museum",
-          "funny museum",
-          "strange museums",
-          "weird things in museums",
-          "weird museums around the world",
-          "spam museum",
-          "toilet museum",
-          "mustard museum",
-          "weird museums usa",
-          "sulabh toilet museum",
-          "crazy museums",
-          "strangest museums",
-          "strangest museums in the world",
-          "funniest museums",
-          "moba"
-        ],
-        "pinned_comment": "Bonus fact: the Museum of Bad Art's very first painting was found in the trash on a Boston-area curb. If you opened a museum of one weird thing, what would it be?",
-        "scenes": [
-          {
-            "text": "Before you laugh, know this: all five of these museums are real, and number one only collects bad art. The five funniest real museums, counting down.",
-            "badge": "",
-            "label": "REAL MUSEUMS?!",
-            "stock_queries": [
-              "museum gallery framed art",
-              "visitors in weird quirky exhibition"
-            ],
-            "image_prompt": "An empty clean art gallery with minimalist white walls and several oddly shaped colorful picture frames hanging under warm spotlights, comedic cinematic framing.",
-            "stock_query": "museum gallery framed art"
-          },
-          {
-            "text": "Number five, a pencil sharpener museum in Logan, Ohio. About three thousand four hundred sharpeners, from one man's retirement hobby.",
-            "badge": "",
-            "label": "#5 PENCIL SHARPENERS",
-            "stock_queries": [
-              "vintage pencil sharpener collection",
-              "rows of miniature pencil sharpeners"
-            ],
-            "image_prompt": "Wall-mounted glass display cases filled with thousands of quirky miniature vintage pencil sharpeners of every shape and color in a cozy room.",
-            "stock_query": "vintage pencil sharpener collection"
-          },
-          {
-            "text": "Number four, the National Mustard Museum in Wisconsin. Over five thousand six hundred mustards from more than sixty countries.",
-            "badge": "",
-            "label": "#4 MUSTARD MUSEUM",
-            "stock_queries": [
-              "mustard jars shelves display",
-              "assorted condiments jars"
-            ],
-            "image_prompt": "Bright supermarket museum style shelves packed neatly with hundreds of unique glass mustard jars and tubes featuring bright yellow labels.",
-            "stock_query": "mustard jars shelves display"
-          },
-          {
-            "text": "Number three, the SPAM Museum in Minnesota. Guides called Spambassadors hand out samples called Spamples.",
-            "badge": "",
-            "label": "#3 SPAM MUSEUM",
-            "stock_queries": [
-              "canned luncheon meat food sample",
-              "person holding toothpick snack sample"
-            ],
-            "image_prompt": "A modern colorful exhibition hall showcasing stacks of blue and yellow canned meat with visitors holding tiny sample toothpicks.",
-            "stock_query": "canned luncheon meat food sample"
-          },
-          {
-            "text": "Number two, a toilet museum in New Delhi, India. About forty-five hundred years of toilet history. Flush with facts.",
-            "badge": "",
-            "label": "#2 TOILET MUSEUM",
-            "stock_queries": [
-              "antique toilet historical exhibition",
-              "vintage porcelain commode display"
-            ],
-            "image_prompt": "A well-lit museum exhibition displaying rows of antique porcelain chamber pots, Victorian commodes, and historical sanitary ware on pedestals.",
-            "stock_query": "antique toilet historical exhibition"
-          },
-          {
-            "text": "Number one, the Museum of Bad Art in Boston. Its first painting was found in the trash. Its motto? Art too bad to be ignored.",
-            "badge": "",
-            "label": "#1 BAD ART",
-            "stock_queries": [
-              "bad painting ornate frame gallery",
-              "oil painting leaning by trash can"
-            ],
-            "image_prompt": "A funny, lopsided, hilariously amateurish portrait painting mounted inside a very fancy ornate gold frame under a single dramatic gallery spotlight.",
-            "stock_query": "bad painting ornate frame gallery"
-          },
-          {
-            "text": "Nine out of ten paintings sent in get turned away. So number one is the museum that's proud of its worst art.",
-            "badge": "",
-            "label": "9 IN 10 REJECTED",
-            "stock_queries": [
-              "art curator examining painting",
-              "stack of art canvases in studio"
-            ],
-            "image_prompt": "A humorous scene of an art curator in a museum basement rejecting an awkwardly painted canvas with comical dramatic seriousness.",
-            "stock_query": "art curator examining painting"
-          },
-          {
-            "text": "Which would you visit first? Tell me in the comments. And before you laugh, remember this.",
-            "badge": "",
-            "label": "WHICH ONE FIRST?",
-            "stock_queries": [
-              "museum entrance open doors",
-              "quirky travel destination signpost"
-            ],
-            "image_prompt": "A whimsical gallery lobby with directional signs pointing toward bizarre exhibitions, inviting atmosphere, bright cinematic lighting.",
-            "stock_query": "museum entrance open doors"
-          }
-        ],
-        "key_facts": [
-          "A pencil sharpener museum in Logan, Ohio houses about 3,400 sharpeners started as a retirement hobby.",
-          "The National Mustard Museum in Wisconsin exhibits over 5,600 mustards from more than 60 countries.",
-          "The SPAM Museum in Minnesota has guides called Spambassadors who distribute samples dubbed Spamples.",
-          "The Sulabh International Museum of Toilets in New Delhi, India covers approximately 4,500 years of sanitation history.",
-          "The Museum of Bad Art in Boston originated from a painting found in the trash and operates under the motto 'Art too bad to be ignored.'",
-          "The Museum of Bad Art rejects approximately nine out of ten donated pieces to maintain its standard of uniquely compelling bad art."
-        ],
-        "format": "funny",
-        "tone": "funny",
-        "category": "23",
-        "script": "Before you laugh, know this: all five of these museums are real, and number one only collects bad art. The five funniest real museums, counting down. Number five, a pencil sharpener museum in Logan, Ohio. About three thousand four hundred sharpeners, from one man's retirement hobby. Number four, the National Mustard Museum in Wisconsin. Over five thousand six hundred mustards from more than sixty countries. Number three, the SPAM Museum in Minnesota. Guides called Spambassadors hand out samples called Spamples. Number two, a toilet museum in New Delhi, India. About forty-five hundred years of toilet history. Flush with facts. Number one, the Museum of Bad Art in Boston. Its first painting was found in the trash. Its motto? Art too bad to be ignored. Nine out of ten paintings sent in get turned away. So number one is the museum that's proud of its worst art. Which would you visit first? Tell me in the comments. And before you laugh, remember this.",
-        "plan_id": "P2026-10-19-02",
-        "shot_plan": [
-          {
-            "subject": "museum gallery interior with quirky exhibits",
-            "queries": [
-              {
-                "q": "museum exhibit",
-                "must": [
-                  "museum"
-                ]
-              },
-              {
-                "q": "art gallery",
-                "must": [
-                  "gallery"
-                ]
-              },
-              {
-                "q": "exhibition hall",
-                "must": [
-                  "exhibit"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "pencil sharpener collection on display",
-            "queries": [
-              {
-                "q": "pencil sharpener",
-                "must": [
-                  "sharpener"
-                ]
-              },
-              {
-                "q": "desk stationery",
-                "must": [
-                  "pencil"
-                ]
-              },
-              {
-                "q": "office supplies",
-                "must": [
-                  "supplies"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "mustard jars on shelves in a specialty store",
-            "queries": [
-              {
-                "q": "mustard jar",
-                "must": [
-                  "mustard"
-                ]
-              },
-              {
-                "q": "condiment bottles",
-                "must": [
-                  "condiment"
-                ]
-              },
-              {
-                "q": "grocery shelf",
-                "must": [
-                  "shelf"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "canned meat display on supermarket shelves",
-            "queries": [
-              {
-                "q": "canned meat",
-                "must": [
-                  "canned"
-                ]
-              },
-              {
-                "q": "spam can",
-                "must": [
-                  "meat"
-                ]
-              },
-              {
-                "q": "grocery store aisle",
-                "must": [
-                  "store"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "historic toilets and bathroom fixtures in a museum",
-            "queries": [
-              {
-                "q": "historic toilet",
-                "must": [
-                  "toilet"
-                ]
-              },
-              {
-                "q": "bathroom fixture",
-                "must": [
-                  "bathroom"
-                ]
-              },
-              {
-                "q": "antique porcelain",
-                "must": [
-                  "antique"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "strange and poorly painted artwork on a gallery wall",
-            "queries": [
-              {
-                "q": "bad painting",
-                "must": [
-                  "painting"
-                ]
-              },
-              {
-                "q": "weird art",
-                "must": [
-                  "art"
-                ]
-              },
-              {
-                "q": "gallery wall",
-                "must": [
-                  "wall"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "art canvas leaning against a wall in storage",
-            "queries": [
-              {
-                "q": "art canvas",
-                "must": [
-                  "canvas"
-                ]
-              },
-              {
-                "q": "framed painting",
-                "must": [
-                  "framed"
-                ]
-              },
-              {
-                "q": "storage room",
-                "must": [
-                  "storage"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "museum visitor looking at a strange exhibit",
-            "queries": [
-              {
-                "q": "museum visitor",
-                "must": [
-                  "visitor"
-                ]
-              },
-              {
-                "q": "person looking",
-                "must": [
-                  "person"
-                ]
-              },
-              {
-                "q": "tourist attraction",
-                "must": [
-                  "attraction"
-                ]
-              }
-            ]
-          }
-        ],
-        "broll": [
-          "museum",
-          "exhibit",
-          "artifact"
-        ],
-        "visual_style": "energetic countdown of quirky, real museums featuring unusual oddities and bizarre collections with dynamic stock footage and clear on-screen labels",
-        "visual_refs": [
-          "Movie Bloopers That STAYED In The Movie\ud83d\ude02\ud83e\udd23",
-          "I Made IShowSpeed Only Using Ronaldo",
-          "Mystery Saja&#39;s Real Face EXPOSED in K-Pop Demon Hunters  \ud83d\ude31 #shorts #kpopdemonhunters #kpop #viral",
-          "Smashing a 34,000 Brick Statue",
-          "MICHEAL JACKSON HAIR SIMULATION #michaeljackson #art #shorts",
-          "Chasing Illumination\u2019s new guy \ud83e\udd86 #MigrationMovie #Minions #Illumination #Shorts"
-        ],
-        "voice": "en-US-BrianMultilingualNeural",
-        "visual_report": {
-          "shots": 11,
-          "checked": 11,
-          "unchecked": 0,
-          "filler": 3,
-          "ai": 0
-        }
-      },
-      "credits": [
-        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-BrianMultilingualNeural).",
-        "Stock footage/photos (Pexels/Pixabay Content License): StockSnap (Pixabay) https://pixabay.com/photos/man-painting-paint-museum-artist-2590655/; AsiaCultureCenter (Pixabay) https://pixabay.com/photos/gwangju-national-asian-culture-center-7642897/; stanbalik (Pixabay) https://pixabay.com/photos/shelf-store-shop-canadian-mustard-4499973/; Expatsiam (Pixabay) https://pixabay.com/videos/id-31960/; aitoff (Pixabay) https://pixabay.com/photos/water-closet-toilet-wc-lavatory-1333454/; Alexas_Fotos (Pixabay) https://pixabay.com/photos/gallery-women-pictures-despair-2932005/; Alexas_Fotos (Pixabay) https://pixabay.com/photos/gallery-pictures-peace-war-2931180/",
-        "K\u00fcrschner ( talk ) 13:32, 24 August 2008 (UTC) / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:Manchester_library_historic_toilet.jpg"
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-19",
-        "name": "2026-10-19-2-v0.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-19",
-        "name": "2026-10-19-2-v0-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,074 --> 00:00:02,500\nBefore you laugh know this all five\n\n2\n00:00:02,500 --> 00:00:04,608\nof these museums are real and number\n\n3\n00:00:04,608 --> 00:00:06,973\none only collects bad art The five\n\n4\n00:00:06,973 --> 00:00:10,184\nfunniest real museums counting down Number\n\n5\n00:00:10,184 --> 00:00:14,436\nfive a pencil sharpener museum in Logan, Ohio\n\n6\n00:00:14,436 --> 00:00:17,157\nAbout three thousand four hundred sharpeners\n\n7\n00:00:17,157 --> 00:00:20,368\nfrom one man's retirement hobby Number four\n\n8\n00:00:20,368 --> 00:00:23,480\nthe National Mustard Museum in Wisconsin Over\n\n9\n00:00:23,480 --> 00:00:25,944\nfive thousand six hundred mustards from more\n\n10\n00:00:25,944 --> 00:00:28,811\nthan sixty countries Number three the SPAM\n\n11\n00:00:28,811 --> 00:00:32,047\nMuseum in Minnesota Guides called Spambassadors\n\n12\n00:00:32,047 --> 00:00:35,735\nhand out samples called Spamples Number two\n\n13\n00:00:35,735 --> 00:00:38,346\na toilet museum in New Delhi India\n\n14\n00:00:38,346 --> 00:00:41,569\nAbout forty-five hundred years of toilet history\n\n15\n00:00:41,569 --> 00:00:44,375\nFlush with facts Number one the Museum\n\n16\n00:00:44,375 --> 00:00:46,631\nof Bad Art in Boston Its first\n\n17\n00:00:46,631 --> 00:00:49,008\npainting was found in the trash Its\n\n18\n00:00:49,008 --> 00:00:51,887\nmotto Art too bad to be ignored\n\n19\n00:00:51,887 --> 00:00:53,885\nNine out of ten paintings sent in\n\n20\n00:00:53,885 --> 00:00:56,140\nget turned away So number one is\n\n21\n00:00:56,140 --> 00:00:58,126\nthe museum that's proud of its worst\n\n22\n00:00:58,126 --> 00:01:00,895\nart Which would you visit first Tell\n\n23\n00:01:00,895 --> 00:01:02,953\nme in the comments And before you\n\n24\n00:01:02,953 --> 00:01:04,554\nlaugh remember this\n",
-      "tg_msg": 545,
-      "opts_msg": 547,
-      "approved_by": "auto",
-      "quota_note": "2026-10-20",
-      "description_full": "These are the five funniest real museums: a pencil sharpener museum, the National Mustard Museum, the SPAM Museum, a toilet museum and the Museum of Bad Art. All five weird museums are real, and number one only collects art too bad to be ignored.\n\nIn this Short: five real museums you can look up, counting down to the one that's proud of its worst paintings.\n\nSources:\nhttps://en.wikipedia.org/wiki/Museum_of_Bad_Art\nhttps://en.wikipedia.org/wiki/National_Mustard_Museum\nhttps://en.wikipedia.org/wiki/Pencil_Sharpener_Museum\n\n#shorts #funny #museum #funfacts\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-BrianMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): StockSnap (Pixabay) https://pixabay.com/photos/man-painting-paint-museum-artist-2590655/; AsiaCultureCenter (Pixabay) https://pixabay.com/photos/gwangju-national-asian-culture-center-7642897/; stanbalik (Pixabay) https://pixabay.com/photos/shelf-store-shop-canadian-mustard-4499973/; Expatsiam (Pixabay) https://pixabay.com/videos/id-31960/; aitoff (Pixabay) https://pixabay.com/photos/water-closet-toilet-wc-lavatory-1333454/; Alexas_Fotos (Pixabay) https://pixabay.com/photos/gallery-women-pictures-despair-2932005/; Alexas_Fotos (Pixabay) https://pixabay.com/photos/gallery-pictures-peace-war-2931180/\nK\u00fcrschner ( talk ) 13:32, 24 August 2008 (UTC) / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:Manchester_library_historic_toilet.jpg\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/ytjYpA_knPA",
-          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-20T10:10:06.801580+00:00",
-      "slot": "2026-10-21T01:15:00+00:00"
-    },
-    "2026-10-19-3": {
-      "topic": {
-        "title": "The Space Signal Heard Once in 1977",
-        "angle": "'Real end twist' (6.1x) and the soap-noodle reveal (97.3x) both hold the answer to the last beat, and a signal heard once, with a still-open explanation at the end, is that unresolved-payoff shape told as a true story.",
-        "format": "story",
-        "tone": "normal",
-        "virality_score": 7,
-        "trend_source": "Real end twist (6.1x, Unclassified - payoff saved for the end); I Made Soap Noodles For My Boyfriend! (97.3x, Unclassified - looks like one thing, is another)",
-        "plan_id": "P2026-10-19-03"
-      },
-      "status": "published",
-      "by": "auto",
-      "updated": "2026-10-21T10:37:13.625137+00:00",
-      "redos": 0,
-      "package": {
-        "primary_keyword": "wow signal 1977",
-        "title": "The Space Signal Heard Once in 1977",
-        "hook_text": "SPACE SENT THIS?",
-        "thumbnail_text": "WOW!",
-        "description": "The true story of the Wow signal, the 1977 space signal picked up for 72 seconds by Ohio's Big Ear radio telescope and never heard again. An astronomer circled it on the printout and wrote Wow.\n\nIn this Short: what the Wow signal was, why it lasted 72 seconds, what 6EQUJ5 means, and the 2024 idea that might explain it.\n\nThis is a true story.\n\nSources:\nhttps://www.nationalgeographic.com/science/article/wow-radio-signal-aliens-mystery\nhttps://explorersweb.com/exploration-mysteries-wow-signal/\nhttps://www.universetoday.com/articles/the-wow-signal-deciphered-it-was-hydrogen-all-along",
-        "hashtags": [
-          "#shorts",
-          "#space",
-          "#truestory",
-          "#mystery",
-          "#storytime"
-        ],
-        "tags": [
-          "wow signal 1977",
-          "big ear radio telescope",
-          "1977 space signal",
-          "wow signal",
-          "big ear telescope",
-          "1977 alien signal",
-          "wow signal from space",
-          "wow signal decoded",
-          "wow signal explained",
-          "6equj5",
-          "true story",
-          "space mystery",
-          "hydrogen line",
-          "astronomy facts",
-          "signal from space",
-          "sagittarius signal",
-          "unexplained signal",
-          "magnetar"
-        ],
-        "pinned_comment": "Bonus fact: the code 6EQUJ5 is the signal's strength over time, and letters stood for values of ten and up. Do you think it was nature or something else?",
-        "scenes": [
-          {
-            "text": "You could listen to the sky for almost fifty years and never hear it again, but in nineteen seventy-seven, Ohio's Big Ear did. This is the true story of the Wow signal.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "radio telescope night sky",
-              "milky way galaxy stars time lapse"
-            ],
-            "image_prompt": "Cinematic wide shot of a massive radio telescope observatory under a starry night sky with the glowing Milky Way arching overhead, photorealistic, 8k",
-            "stock_query": "radio telescope night sky"
-          },
-          {
-            "text": "August fifteenth, nineteen seventy-seven. Big Ear, a radio telescope, is scanning space. It didn't move. Earth's spin swept the sky past it.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "vintage radio telescope dish",
-              "earth rotation night sky stars"
-            ],
-            "image_prompt": "The historic Big Ear radio telescope structure silhouetted against a twilight horizon with stars visibly rotating across the sky, retro 1970s documentary style",
-            "stock_query": "vintage radio telescope dish"
-          },
-          {
-            "text": "It caught a strong, sharp signal from the direction of Sagittarius. It lasted seventy-two seconds, exactly as long as one spot of sky stays in view.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "sagittarius constellation stars deep space",
-              "analog stopwatch counting seconds"
-            ],
-            "image_prompt": "Dense, glowing starfield in the constellation Sagittarius with a subtle pulse of radiant blue radio frequency waves emanating through space, cinematic astrophotography",
-            "stock_query": "sagittarius constellation stars deep space"
-          },
-          {
-            "text": "The printout showed a strange code: six, E, Q, U, J, five. Letters meant extra strong. An astronomer circled it in red ink and wrote: Wow.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "vintage computer printout paper",
-              "red pen writing on paper close up"
-            ],
-            "image_prompt": "Extreme close-up of continuous-feed vintage computer paper showing alphanumeric columns, with the characters 6EQUJ5 clearly circled in red ink with the handwritten word Wow next to it",
-            "stock_query": "vintage computer printout paper"
-          },
-          {
-            "text": "Telescopes went back again and again. Nothing.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "radio telescope array night",
-              "empty dark starry night sky"
-            ],
-            "image_prompt": "A modern radio telescope array aiming upward at an empty, quiet, pitch-black space expanse filled with distant faint stars, eerie and silent atmosphere",
-            "stock_query": "radio telescope array night"
-          },
-          {
-            "text": "In twenty twenty-four, scientists suggested a magnetar flare may have made a hydrogen cloud flash. It's still just an idea.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "magnetar neutron star space animation",
-              "hydrogen nebula glowing interstellar cloud"
-            ],
-            "image_prompt": "An intense, glowing magnetar unleashing a violent magnetic flare that illuminates a massive interstellar cloud of cold hydrogen gas in deep space, scientific visualization",
-            "stock_query": "magnetar neutron star space animation"
-          },
-          {
-            "text": "So that's the Wow signal: seventy-two seconds, one word, no repeat. Nature, or something else? Tell me in the comments. Because we're still listening, and so far, nothing.",
-            "badge": "THE END",
-            "label": "",
-            "stock_queries": [
-              "silhouette person looking at stars night",
-              "radio telescope dish slowly turning"
-            ],
-            "image_prompt": "Atmospheric shot of a lone radio telescope dish slowly scanning the horizon beneath an infinite cosmos of glittering stars, cinematic and contemplative",
-            "stock_query": "silhouette person looking at stars night"
-          }
-        ],
-        "key_facts": [
-          "On August 15, 1977, the Big Ear radio telescope in Ohio detected a strong narrowband radio signal.",
-          "Big Ear was a fixed telescope that used Earth's rotation to sweep across the sky.",
-          "The signal originated from the constellation Sagittarius and lasted for 72 seconds, matching the telescope's window of observation for a celestial point source.",
-          "The alphanumeric sequence 6EQUJ5 represented signal intensity, where letters corresponded to values exceeding 9.",
-          "Astronomer Jerry Ehman discovered the signal on computer printouts, circled it in red pen, and wrote 'Wow!'.",
-          "Subsequent searches by multiple radio telescopes failed to detect a repeat signal.",
-          "In 2024, researchers proposed that a rare magnetar flare exciting an interstellar hydrogen cloud could potentially explain the emission."
-        ],
-        "format": "story",
-        "tone": "normal",
-        "category": "24",
-        "script": "You could listen to the sky for almost fifty years and never hear it again, but in nineteen seventy-seven, Ohio's Big Ear did. This is the true story of the Wow signal. August fifteenth, nineteen seventy-seven. Big Ear, a radio telescope, is scanning space. It didn't move. Earth's spin swept the sky past it. It caught a strong, sharp signal from the direction of Sagittarius. It lasted seventy-two seconds, exactly as long as one spot of sky stays in view. The printout showed a strange code: six, E, Q, U, J, five. Letters meant extra strong. An astronomer circled it in red ink and wrote: Wow. Telescopes went back again and again. Nothing. In twenty twenty-four, scientists suggested a magnetar flare may have made a hydrogen cloud flash. It's still just an idea. So that's the Wow signal: seventy-two seconds, one word, no repeat. Nature, or something else? Tell me in the comments. Because we're still listening, and so far, nothing.",
-        "plan_id": "P2026-10-19-03",
-        "shot_plan": [
-          {
-            "subject": "night sky and stars",
-            "queries": [
-              {
-                "q": "night sky",
-                "must": [
-                  "sky"
-                ]
-              },
-              {
-                "q": "starry night",
-                "must": [
-                  "stars"
-                ]
-              },
-              {
-                "q": "cosmos",
-                "must": [
-                  "galaxy"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "radio telescope dish",
-            "queries": [
-              {
-                "q": "radio telescope",
-                "must": [
-                  "telescope"
-                ]
-              },
-              {
-                "q": "satellite dish",
-                "must": [
-                  "dish"
-                ]
-              },
-              {
-                "q": "observatory",
-                "must": [
-                  "observatory"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "deep space nebula",
-            "queries": [
-              {
-                "q": "space nebula",
-                "must": [
-                  "nebula"
-                ]
-              },
-              {
-                "q": "deep space",
-                "must": [
-                  "space"
-                ]
-              },
-              {
-                "q": "constellation",
-                "must": [
-                  "stars"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "paper printout document",
-            "queries": [
-              {
-                "q": "paper printout",
-                "must": [
-                  "paper"
-                ]
-              },
-              {
-                "q": "data printout",
-                "must": [
-                  "document"
-                ]
-              },
-              {
-                "q": "computer screen",
-                "must": [
-                  "screen"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "radio telescope turning",
-            "queries": [
-              {
-                "q": "telescope dish",
-                "must": [
-                  "telescope"
-                ]
-              },
-              {
-                "q": "observatory dome",
-                "must": [
-                  "dome"
-                ]
-              },
-              {
-                "q": "radar antenna",
-                "must": [
-                  "antenna"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "magnetar star flare",
-            "queries": [
-              {
-                "q": "magnetar flare",
-                "must": [
-                  "flare"
-                ]
-              },
-              {
-                "q": "hydrogen cloud",
-                "must": [
-                  "cloud"
-                ]
-              },
-              {
-                "q": "supernova star",
-                "must": [
-                  "star"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "audio waveform monitor",
-            "queries": [
-              {
-                "q": "audio waveform",
-                "must": [
-                  "waveform"
-                ]
-              },
-              {
-                "q": "signal monitor",
-                "must": [
-                  "monitor"
-                ]
-              },
-              {
-                "q": "oscilloscope",
-                "must": [
-                  "oscilloscope"
-                ]
-              }
-            ]
-          }
-        ],
-        "broll": [
-          "galaxy",
-          "telescope",
-          "radio wave"
-        ],
-        "visual_style": "cinematic astronomy stock footage showing space signals, telescopes, and cosmic phenomena with dramatic lighting",
-        "visual_refs": [
-          "Terrifying Radio Signal Detected from Space",
-          "The 1977 \u201cWow!\u201d Signal\u2014Still Unexplained",
-          "1977: The Big Ear Radio Telescope Captures the &quot;Wow!&quot; Signal",
-          "Brian Cox Explains the Wow! Signal #astronomy #aliens #briancox",
-          "The Wow! Signal \u2014 Did We Hear Aliens in 1977?",
-          "WOW Signal recieved at SETI on Aug 15 1977"
-        ],
-        "voice": "en-US-AvaMultilingualNeural",
-        "visual_report": {
-          "shots": 17,
-          "checked": 17,
-          "unchecked": 0,
-          "filler": 1,
-          "ai": 0
-        }
-      },
-      "credits": [
-        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AvaMultilingualNeural).",
-        "Stock footage/photos (Pexels/Pixabay Content License): Kanenori (Pixabay) https://pixabay.com/videos/id-283431/; Drjhony (Pixabay) https://pixabay.com/videos/id-159300/; Relaxing_Guru (Pixabay) https://pixabay.com/videos/id-31569/; Matthias_Groeneveld (Pixabay) https://pixabay.com/videos/id-179777/; Matthias_Groeneveld (Pixabay) https://pixabay.com/videos/id-179780/; Matthias_Groeneveld (Pixabay) https://pixabay.com/videos/id-179781/; UniverseUnique (Pixabay) https://pixabay.com/videos/id-210884/; AiVreaSaStii (Pixabay) https://pixabay.com/videos/id-145739/; olenchic (Pixabay) https://pixabay.com/videos/id-222962/; markusspiske (Pixabay) https://pixabay.com/photos/internet-source-code-code-594148/; Mikkehouse (Pixabay) https://pixabay.com/videos/id-25047/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-303383/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-301126/; Damnwell_Media (Pixabay) https://pixabay.com/videos/id-150110/; fspik_now (Pixabay) https://pixabay.com/videos/id-279624/; FindingFootage (Pixabay) https://pixabay.com/videos/id-37169/"
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-19",
-        "name": "2026-10-19-3-v0.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-19",
-        "name": "2026-10-19-3-v0-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,072 --> 00:00:01,322\nYou could listen to the sky for\n\n2\n00:00:01,322 --> 00:00:03,197\nalmost fifty years and never hear it\n\n3\n00:00:03,197 --> 00:00:06,250\nagain but in nineteen seventy-seven Ohio's\n\n4\n00:00:06,250 --> 00:00:08,269\nBig Ear did This is the true\n\n5\n00:00:08,269 --> 00:00:11,274\nstory of the Wow signal August fifteenth\n\n6\n00:00:11,274 --> 00:00:14,918\nnineteen seventy-seven Big Ear a radio telescope\n\n7\n00:00:14,918 --> 00:00:17,825\nis scanning space It didn't move Earth's\n\n8\n00:00:17,825 --> 00:00:19,952\nspin swept the sky past it It\n\n9\n00:00:19,952 --> 00:00:22,188\ncaught a strong sharp signal from the\n\n10\n00:00:22,188 --> 00:00:25,409\ndirection of Sagittarius It lasted seventy-two\n\n11\n00:00:25,409 --> 00:00:28,065\nseconds exactly as long as one spot\n\n12\n00:00:28,065 --> 00:00:30,228\nof sky stays in view The printout\n\n13\n00:00:30,228 --> 00:00:33,834\nshowed a strange code six E Q\n\n14\n00:00:33,834 --> 00:00:37,620\nU J five Letters meant extra strong\n\n15\n00:00:37,620 --> 00:00:39,627\nAn astronomer circled it in red ink\n\n16\n00:00:39,627 --> 00:00:43,341\nand wrote Wow Telescopes went back again\n\n17\n00:00:43,341 --> 00:00:47,404\nand again Nothing In twenty twenty-four scientists\n\n18\n00:00:47,404 --> 00:00:49,688\nsuggested a magnetar flare may have made\n\n19\n00:00:49,688 --> 00:00:52,368\na hydrogen cloud flash It's still just\n\n20\n00:00:52,368 --> 00:00:55,168\nan idea So that's the Wow signal\n\n21\n00:00:55,168 --> 00:00:58,991\nseventy-two seconds one word no repeat Nature\n\n22\n00:00:58,991 --> 00:01:00,805\nor something else Tell me in the\n\n23\n00:01:00,805 --> 00:01:03,077\ncomments Because we're still listening and\n\n24\n00:01:03,077 --> 00:01:04,715\nso far nothing\n",
-      "tg_msg": 548,
-      "opts_msg": 550,
-      "approved_by": "auto",
-      "quota_note": "2026-10-21",
-      "description_full": "The true story of the Wow signal, the 1977 space signal picked up for 72 seconds by Ohio's Big Ear radio telescope and never heard again. An astronomer circled it on the printout and wrote Wow.\n\nIn this Short: what the Wow signal was, why it lasted 72 seconds, what 6EQUJ5 means, and the 2024 idea that might explain it.\n\nThis is a true story.\n\nSources:\nhttps://www.nationalgeographic.com/science/article/wow-radio-signal-aliens-mystery\nhttps://explorersweb.com/exploration-mysteries-wow-signal/\nhttps://www.universetoday.com/articles/the-wow-signal-deciphered-it-was-hydrogen-all-along\n\n#shorts #space #truestory #mystery #storytime\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AvaMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): Kanenori (Pixabay) https://pixabay.com/videos/id-283431/; Drjhony (Pixabay) https://pixabay.com/videos/id-159300/; Relaxing_Guru (Pixabay) https://pixabay.com/videos/id-31569/; Matthias_Groeneveld (Pixabay) https://pixabay.com/videos/id-179777/; Matthias_Groeneveld (Pixabay) https://pixabay.com/videos/id-179780/; Matthias_Groeneveld (Pixabay) https://pixabay.com/videos/id-179781/; UniverseUnique (Pixabay) https://pixabay.com/videos/id-210884/; AiVreaSaStii (Pixabay) https://pixabay.com/videos/id-145739/; olenchic (Pixabay) https://pixabay.com/videos/id-222962/; markusspiske (Pixabay) https://pixabay.com/photos/internet-source-code-code-594148/; Mikkehouse (Pixabay) https://pixabay.com/videos/id-25047/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-303383/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-301126/; Damnwell_Media (Pixabay) https://pixabay.com/videos/id-150110/; fspik_now (Pixabay) https://pixabay.com/videos/id-279624/; FindingFootage (Pixabay) https://pixabay.com/videos/id-37169/\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/xSib6qJ6WRw",
-          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-21T10:37:13.625149+00:00",
-      "slot": "2026-10-22T01:15:00+00:00"
-    },
-    "2026-10-19-4": {
-      "topic": {
-        "title": "Guess Where These 3 Foods Were Invented",
-        "angle": "'Desi Vs Electric cotton candy maker' (2.4x) and the soap-noodle reveal (97.3x) both play on food not being what you assume, and a three-question food origin quiz turns that into a game viewers score themselves on.",
-        "format": "quiz",
-        "tone": "normal",
-        "virality_score": 7,
-        "trend_source": "I Made Soap Noodles For My Boyfriend! (97.3x, Unclassified - looks like one thing, is another); Desi Vs Electric cotton candy maker! (2.4x, The Comparison)",
-        "plan_id": "P2026-10-19-04"
-      },
-      "status": "published",
-      "by": "auto",
-      "updated": "2026-10-22T11:12:07.252314+00:00",
-      "redos": 0,
-      "package": {
-        "primary_keyword": "food origins quiz",
-        "title": "Guess Where These 3 Foods Were Invented",
-        "hook_text": "FOOD PASSPORT QUIZ",
-        "thumbnail_text": "NOT HAWAII",
-        "description": "Where was Hawaiian pizza invented? This 3-second food origins quiz covers where Hawaiian pizza, fortune cookies and German chocolate cake were really invented, and none of these foods come from where their names suggest.\n\nIn this Short: three food origin questions, three seconds each, with the real answers.\n\nSources:\nhttps://thecanadianencyclopedia.ca/en/article/hawaiian-pizza\nhttps://www.snopes.com/fact-check/inscrutable-cookie/\nhttps://www.saturdayeveningpost.com/2018/12/in-a-word-german-chocolate-cake-isnt/",
-        "hashtags": [
-          "#shorts",
-          "#quiz",
-          "#food",
-          "#funfacts"
-        ],
-        "tags": [
-          "food origins quiz",
-          "where was the fortune cookie invented",
-          "guess where",
-          "where was hawaiian pizza invented",
-          "food origins",
-          "hawaiian pizza",
-          "food trivia quiz",
-          "hawaiian pizza origin",
-          "hawaiian pizza canada",
-          "fortune cookie origin",
-          "who invented hawaiian pizza",
-          "guess where the food is from",
-          "where were fortune cookies invented",
-          "german chocolate cake origin",
-          "fortune cookie history",
-          "hawaiian pizza history",
-          "guess where they're from",
-          "is german chocolate cake german",
-          "food quiz"
-        ],
-        "pinned_comment": "Bonus fact: the 'German' in German chocolate cake is a person, Samuel German, who made the sweet baking chocolate in 1852. How many did you get right?",
-        "scenes": [
-          {
-            "text": "Before you guess Hawaii, where was Hawaiian pizza invented? You've got three seconds. Three famous foods, three seconds each. Keep score. Three, two, one.",
-            "badge": "WHERE WA",
-            "label": "3 foods, 3 seconds each",
-            "stock_queries": [
-              "slice of pineapple and ham pizza cheese pull",
-              "three dishes on a table pizza cookies cake"
-            ],
-            "image_prompt": "Close-up of a hot slice of pineapple and ham pizza being lifted with a long cheese pull, colorful and vibrant lighting",
-            "stock_query": "slice of pineapple and ham pizza cheese pull"
-          },
-          {
-            "text": "Canada! A restaurant in Chatham, Ontario, came up with it in the nineteen sixties. It was named after the brand of canned pineapple they used.",
-            "badge": "\u2713",
-            "label": "CANADA!",
-            "stock_queries": [
-              "snowy small town street canada",
-              "tin cans of pineapple chunks on shelf"
-            ],
-            "image_prompt": "Vintage tin cans of pineapple chunks sitting on a wooden pantry shelf, warm cinematic lighting",
-            "stock_query": "snowy small town street canada"
-          },
-          {
-            "text": "Question two. Where were fortune cookies invented? Three, two, one.",
-            "badge": "Q2",
-            "label": "FORTUNE COOKIES?",
-            "stock_queries": [
-              "hand cracking open fortune cookie",
-              "countdown numbers bright colorful background"
-            ],
-            "image_prompt": "Hand cracking open a crispy fortune cookie with a small paper message slip sliding out",
-            "stock_query": "hand cracking open fortune cookie"
-          },
-          {
-            "text": "California! They're usually traced there, and one family links them to a Japanese cracker. They were barely known in China until the late nineteen eighties.",
-            "badge": "\u2713",
-            "label": "CALIFORNIA!",
-            "stock_queries": [
-              "golden gate bridge sunny day",
-              "plate of fortune cookies on restaurant table"
-            ],
-            "image_prompt": "Plate of crisp fortune cookies arranged neatly on a restaurant table with soft ambient lighting",
-            "stock_query": "golden gate bridge sunny day"
-          },
-          {
-            "text": "Question three. Is German chocolate cake from Germany? Three, two, one.",
-            "badge": "Q3",
-            "label": "GERMAN CHOCOLATE CAKE?",
-            "stock_queries": [
-              "slice of chocolate cake with coconut pecan frosting",
-              "countdown numbers bright colorful background"
-            ],
-            "image_prompt": "Rich slice of chocolate cake layered with thick coconut-pecan frosting on a dessert plate",
-            "stock_query": "slice of chocolate cake with coconut pecan frosting"
-          },
-          {
-            "text": "Nope! The recipe ran in a Dallas newspaper in nineteen fifty-seven. It's named after Samuel German, who made a sweet baking chocolate in eighteen fifty-two.",
-            "badge": "\u2713",
-            "label": "NOT GERMANY!",
-            "stock_queries": [
-              "dallas skyline vintage newspaper",
-              "bar of dark baking chocolate being broken"
-            ],
-            "image_prompt": "Vintage newspaper page from Dallas featuring a retro cake recipe and baking illustrations",
-            "stock_query": "dallas skyline vintage newspaper"
-          },
-          {
-            "text": "So, Canada, California and Texas, and not one is from where it sounds.",
-            "badge": "RECAP",
-            "label": "Canada, California, Texas",
-            "stock_queries": [
-              "map of north america with pins",
-              "scoreboard numbers flipping"
-            ],
-            "image_prompt": "Map of North America graphic with three location pins dropping on Canada, California, and Texas",
-            "stock_query": "map of north america with pins"
-          },
-          {
-            "text": "How many did you get, zero, one, two or all three? Tell me in the comments. Now test a friend, and don't let them say Hawaii.",
-            "badge": "COMMENT",
-            "label": "Your score?",
-            "stock_queries": [
-              "two friends laughing at a phone",
-              "scoreboard 0 1 2 3"
-            ],
-            "image_prompt": "Two friends laughing together while looking at a smartphone screen, hands only visible, vibrant lighting",
-            "stock_query": "two friends laughing at a phone"
-          }
-        ],
-        "key_facts": [
-          "Hawaiian pizza was invented in Chatham, Ontario, Canada in the 1960s and named after a canned pineapple brand.",
-          "Fortune cookies are widely traced to California and were barely known in China until the late 1980s.",
-          "German chocolate cake is not from Germany; it originated from a 1957 Dallas newspaper recipe named after Samuel German."
-        ],
-        "format": "quiz",
-        "tone": "normal",
-        "category": "24",
-        "script": "Before you guess Hawaii, where was Hawaiian pizza invented? You've got three seconds. Three famous foods, three seconds each. Keep score. Three, two, one. Canada! A restaurant in Chatham, Ontario, came up with it in the nineteen sixties. It was named after the brand of canned pineapple they used. Question two. Where were fortune cookies invented? Three, two, one. California! They're usually traced there, and one family links them to a Japanese cracker. They were barely known in China until the late nineteen eighties. Question three. Is German chocolate cake from Germany? Three, two, one. Nope! The recipe ran in a Dallas newspaper in nineteen fifty-seven. It's named after Samuel German, who made a sweet baking chocolate in eighteen fifty-two. So, Canada, California and Texas, and not one is from where it sounds. How many did you get, zero, one, two or all three? Tell me in the comments. Now test a friend, and don't let them say Hawaii.",
-        "plan_id": "P2026-10-19-04",
-        "shot_plan": [
-          {
-            "subject": "Hawaiian pizza",
-            "queries": [
-              {
-                "q": "hawaiian pizza",
-                "must": [
-                  "pizza"
-                ]
-              },
-              {
-                "q": "pizza slice",
-                "must": [
-                  "pizza"
-                ]
-              },
-              {
-                "q": "baked pizza",
-                "must": [
-                  "food"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "pineapple pizza",
-            "queries": [
-              {
-                "q": "pineapple pizza",
-                "must": [
-                  "pizza"
-                ]
-              },
-              {
-                "q": "pineapple",
-                "must": [
-                  "fruit"
-                ]
-              },
-              {
-                "q": "restaurant table",
-                "must": [
-                  "restaurant"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "fortune cookie",
-            "queries": [
-              {
-                "q": "fortune cookie",
-                "must": [
-                  "cookie"
-                ]
-              },
-              {
-                "q": "chinese cookie",
-                "must": [
-                  "cookie"
-                ]
-              },
-              {
-                "q": "baked cookie",
-                "must": [
-                  "cookie"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "japanese cracker",
-            "queries": [
-              {
-                "q": "rice cracker",
-                "must": [
-                  "cracker"
-                ]
-              },
-              {
-                "q": "japanese snack",
-                "must": [
-                  "snack"
-                ]
-              },
-              {
-                "q": "cracker",
-                "must": [
-                  "cracker"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "chocolate cake",
-            "queries": [
-              {
-                "q": "german chocolate cake",
-                "must": [
-                  "cake"
-                ]
-              },
-              {
-                "q": "chocolate cake",
-                "must": [
-                  "cake"
-                ]
-              },
-              {
-                "q": "slice of cake",
-                "must": [
-                  "cake"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "baking chocolate",
-            "queries": [
-              {
-                "q": "baking chocolate",
-                "must": [
-                  "chocolate"
-                ]
-              },
-              {
-                "q": "chocolate bar",
-                "must": [
-                  "chocolate"
-                ]
-              },
-              {
-                "q": "sweet chocolate",
-                "must": [
-                  "chocolate"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "map of north america",
-            "queries": [
-              {
-                "q": "map",
-                "must": [
-                  "map"
-                ]
-              },
-              {
-                "q": "globe",
-                "must": [
-                  "globe"
-                ]
-              },
-              {
-                "q": "atlas",
-                "must": [
-                  "map"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "question mark",
-            "queries": [
-              {
-                "q": "question mark",
-                "must": [
-                  "sign"
-                ]
-              },
-              {
-                "q": "quiz show",
-                "must": [
-                  "studio"
-                ]
-              },
-              {
-                "q": "person thinking",
-                "must": [
-                  "person"
-                ]
-              }
-            ]
-          }
-        ],
-        "broll": [
-          "pizza",
-          "cookie",
-          "cake"
-        ],
-        "visual_style": "Fast-paced food trivia quiz with high-contrast text labels and clear macro shots of iconic dishes.",
-        "visual_refs": [
-          "Countries That Invented Your Favorite Foods \ud83d\ude33",
-          "Guess The Country From The Food Version of These Flags",
-          "Can I Guess Your FOOD? \ud83c\udf5f",
-          "Guess the celebrity in 2090\ud83d\ude33 #guesswho #guessthecelebrity #quiz",
-          "Guess The Flags Made of Food Part2 #countryballs",
-          "GUESS THE COUNTRY! #shorts"
-        ],
-        "voice": "en-US-AndrewMultilingualNeural",
-        "visual_report": {
-          "shots": 9,
-          "checked": 9,
-          "unchecked": 0,
-          "filler": 1,
-          "ai": 0
-        }
-      },
-      "credits": [
-        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AndrewMultilingualNeural).",
-        "Stock footage/photos (Pexels/Pixabay Content License): kurt_BID (Pixabay) https://pixabay.com/videos/id-227127/; Citor3 (Pixabay) https://pixabay.com/videos/id-17177/; neelam279 (Pixabay) https://pixabay.com/photos/fortune-cookie-cookie-cute-8531636/; padrinan (Pixabay) https://pixabay.com/photos/chinese-cookie-dessert-fortune-3087576/; meltdown61 (Pixabay) https://pixabay.com/photos/japanese-rice-crackers-snack-2718371/; StruffelProductions (Pixabay) https://pixabay.com/videos/id-12669/; geralt (Pixabay) https://pixabay.com/photos/hand-keep-globe-earth-continents-1030565/",
-        "Kimberly Vardeman / Wikimedia Commons (CC BY 2.0) https://commons.wikimedia.org/wiki/File:German_Chocolate_Cake,_April_2008.jpg"
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-19",
-        "name": "2026-10-19-4-v0.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-19",
-        "name": "2026-10-19-4-v0-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,098 --> 00:00:02,181\nBefore you guess Hawaii where was Hawaiian\n\n2\n00:00:02,181 --> 00:00:05,441\npizza invented You've got three seconds Three\n\n3\n00:00:05,441 --> 00:00:09,265\nfamous foods three seconds each Keep score\n\n4\n00:00:09,265 --> 00:00:12,120\nThree two one Canada A restaurant in\n\n5\n00:00:12,120 --> 00:00:14,755\nChatham Ontario came up with it in\n\n6\n00:00:14,755 --> 00:00:17,230\nthe nineteen sixties It was named after\n\n7\n00:00:17,230 --> 00:00:20,037\nthe brand of canned pineapple they used\n\n8\n00:00:20,037 --> 00:00:23,186\nQuestion two Where were fortune cookies invented\n\n9\n00:00:23,186 --> 00:00:26,507\nThree two one California They're usually traced\n\n10\n00:00:26,507 --> 00:00:28,456\nthere and one family links them to\n\n11\n00:00:28,456 --> 00:00:30,907\na Japanese cracker They were barely known\n\n12\n00:00:30,907 --> 00:00:33,517\nin China until the late nineteen eighties\n\n13\n00:00:33,517 --> 00:00:36,042\nQuestion three Is German chocolate cake from\n\n14\n00:00:36,042 --> 00:00:39,706\nGermany Three two one Nope The recipe\n\n15\n00:00:39,706 --> 00:00:41,998\nran in a Dallas newspaper in nineteen\n\n16\n00:00:41,998 --> 00:00:45,098\nfifty-seven It's named after Samuel German\n\n17\n00:00:45,098 --> 00:00:47,071\nwho made a sweet baking chocolate in\n\n18\n00:00:47,071 --> 00:00:50,846\neighteen fifty-two So Canada California and\n\n19\n00:00:50,846 --> 00:00:52,733\nTexas and not one is from where\n\n20\n00:00:52,733 --> 00:00:54,902\nit sounds How many did you get\n\n21\n00:00:54,902 --> 00:00:57,978\nzero one two or all three Tell\n\n22\n00:00:57,978 --> 00:00:59,681\nme in the comments Now test a\n\n23\n00:00:59,681 --> 00:01:02,226\nfriend and don't let them say Hawaii\n",
-      "tg_msg": 551,
-      "opts_msg": 553,
-      "approved_by": "auto",
-      "quota_note": "2026-10-22",
-      "description_full": "Where was Hawaiian pizza invented? This 3-second food origins quiz covers where Hawaiian pizza, fortune cookies and German chocolate cake were really invented, and none of these foods come from where their names suggest.\n\nIn this Short: three food origin questions, three seconds each, with the real answers.\n\nSources:\nhttps://thecanadianencyclopedia.ca/en/article/hawaiian-pizza\nhttps://www.snopes.com/fact-check/inscrutable-cookie/\nhttps://www.saturdayeveningpost.com/2018/12/in-a-word-german-chocolate-cake-isnt/\n\n#shorts #quiz #food #funfacts\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AndrewMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): kurt_BID (Pixabay) https://pixabay.com/videos/id-227127/; Citor3 (Pixabay) https://pixabay.com/videos/id-17177/; neelam279 (Pixabay) https://pixabay.com/photos/fortune-cookie-cookie-cute-8531636/; padrinan (Pixabay) https://pixabay.com/photos/chinese-cookie-dessert-fortune-3087576/; meltdown61 (Pixabay) https://pixabay.com/photos/japanese-rice-crackers-snack-2718371/; StruffelProductions (Pixabay) https://pixabay.com/videos/id-12669/; geralt (Pixabay) https://pixabay.com/photos/hand-keep-globe-earth-continents-1030565/\nKimberly Vardeman / Wikimedia Commons (CC BY 2.0) https://commons.wikimedia.org/wiki/File:German_Chocolate_Cake,_April_2008.jpg\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/O8VifnBW1K4",
-          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-22T11:12:07.252325+00:00",
-      "slot": "2026-10-22T16:15:00+00:00"
-    },
-    "2026-10-19-2-1": {
-      "topic": {
-        "title": "Top 5 Useless Kitchen Gadgets That Seemed Like a Good Idea",
-        "angle": "Rank five bizarre culinary inventions that promised to revolutionize cooking but ended up in the back of the drawer.",
-        "format": "ranking",
-        "tone": "funny",
-        "trend_source": "evergreen",
-        "virality_score": 9,
-        "why": "Relatable and humorous everyday observations drive shares and comment sections filled with personal experiences."
-      },
-      "status": "published",
-      "by": "auto",
-      "updated": "2026-10-21T10:36:47.675744+00:00",
-      "redos": 0,
-      "package": {
-        "primary_keyword": "useless kitchen gadgets",
-        "title": "Top 5 Useless Kitchen Gadgets We All Bought",
-        "hook_text": "Worst Kitchen Inventions Ever",
-        "thumbnail_text": "Total Kitchen Waste!",
-        "description": "Counting down the top 5 useless kitchen gadgets that seemed brilliant on TV but ended up forgotten in the junk drawer.\nDiscover the funniest kitchen fails and bizarre cooking tools you definitely do not need.",
-        "hashtags": [
-          "#shorts",
-          "#kitchengadgets",
-          "#cookingfails",
-          "#top5",
-          "#funny"
-        ],
-        "tags": [
-          "useless kitchen gadgets",
-          "kitchen tools review",
-          "worst kitchen gadgets",
-          "funny kitchen gadgets",
-          "kitchen gadgets review",
-          "cooking gadgets review",
-          "as seen on tv kitchen",
-          "weird kitchen tools",
-          "kitchen utensils review",
-          "useless inventions food",
-          "kitchen accessories review",
-          "funny kitchen tools",
-          "kitchen drawer junk",
-          "gadgets you do not need",
-          "useless cooking inventions",
-          "egg cuber",
-          "banana slicer",
-          "dumbest inventions"
-        ],
-        "pinned_comment": "Be honest: what is the most useless kitchen gadget sitting in your drawer right now? \ud83e\udd51",
-        "scenes": [
-          {
-            "text": "Your kitchen drawer is secretly a tragic graveyard of ridiculous cooking gadgets.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "messy kitchen drawer",
-              "cluttered utensils"
-            ],
-            "image_prompt": "Vertical 9:16 macro photograph of an overflowing kitchen junk drawer stuffed with mismatched plastic gadgets, odd peelers, and a tangle of whisks, dramatic warm kitchen lighting, hyper-realistic, photorealistic.",
-            "stock_query": "messy kitchen drawer"
-          },
-          {
-            "text": "Number five, the avocado slicer. It promises safe slicing, but it'll mostly just crush delicate fruit into sad green paste while taking three times longer than a knife.",
-            "badge": "#5",
-            "label": "Avocado Slicer",
-            "stock_queries": [
-              "avocado slicer",
-              "cutting avocado"
-            ],
-            "image_prompt": "Vertical 9:16 close-up shot of a plastic avocado three-in-one tool mashed into a bruised avocado on a rustic wooden cutting board, messy green avocado pulp, bright culinary studio lighting.",
-            "stock_query": "avocado slicer"
-          },
-          {
-            "text": "At number four, multi-blade herb scissors. Ten stainless blades designed to chop cilantro, which honestly just weld wet parsley into the steel gaps forever.",
-            "badge": "#4",
-            "label": "Herb Scissors",
-            "stock_queries": [
-              "herb scissors",
-              "chopping parsley"
-            ],
-            "image_prompt": "Vertical 9:16 shot of multi-blade herb scissors heavily jammed with wet green herbs between five metal blades, resting next to fresh cilantro on a white marble kitchen counter.",
-            "stock_query": "herb scissors"
-          },
-          {
-            "text": "Number three, the plastic banana slicer. It's a tool so aggressively specific it only functions if your fruit matches the exact curvature engineered at the plastic factory.",
-            "badge": "#3",
-            "label": "Banana Slicer",
-            "stock_queries": [
-              "banana slicer",
-              "sliced banana"
-            ],
-            "image_prompt": "Vertical 9:16 high-angle shot of a bright yellow plastic banana-shaped slicer resting over an unpeeled mismatched curved banana on a modern kitchen island, vibrant colors, crisp focus.",
-            "stock_query": "banana slicer"
-          },
-          {
-            "text": "Coming in at number two, the motorized ice cream cone. For anyone who looked at licking a frozen scoop and decided their tongue needed battery-powered assistance.",
-            "badge": "#2",
-            "label": "Motorized Cone",
-            "stock_queries": [
-              "ice cream cone",
-              "spinning gadget"
-            ],
-            "image_prompt": "Vertical 9:16 studio shot of a battery-operated plastic ice cream cone gadget with melting pink strawberry ice cream swirling on top, whimsical pastel kitchen background.",
-            "stock_query": "ice cream cone"
-          },
-          {
-            "text": "And at number one, the egg cuber. Because throughout human history, humanity's biggest complaint about hardboiled eggs was clearly their utter lack of sharp right angles.",
-            "badge": "#1",
-            "label": "Egg Cuber",
-            "stock_queries": [
-              "boiled egg",
-              "square egg"
-            ],
-            "image_prompt": "Vertical 9:16 crisp macro shot of a perfectly cube-shaped hardboiled egg sitting on a pristine black slate plate next to an open clear plastic square egg press mold, minimalist food photography.",
-            "stock_query": "boiled egg"
-          },
-          {
-            "text": "Which useless gadget are you guilty of buying? Drop your confession below, because...",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "kitchen drawer",
-              "pantry shelf"
-            ],
-            "image_prompt": "Vertical 9:16 cinematic shot of an open kitchen drawer revealing strange, colorful novelty gadgets bathed in soft evening sunlight, shallow depth of field.",
-            "stock_query": "kitchen drawer"
-          }
-        ],
-        "key_facts": [
-          "Commercial three-in-one avocado tools frequently crush overly ripe avocados instead of slicing cleanly.",
-          "Multi-blade herb shears are known for packing shredded wet leaves tightly between the parallel blades.",
-          "Rigid plastic banana slicers are molded to a single fixed curve that does not fit naturally shaped bananas.",
-          "Motorized rotating ice cream cones were sold in the early 2000s as battery-operated novelty eating devices.",
-          "The egg cuber is a mechanical square mold designed to press warm peeled hardboiled eggs into cubes."
-        ],
-        "format": "ranking",
-        "tone": "funny",
-        "category": "23",
-        "script": "Your kitchen drawer is secretly a tragic graveyard of ridiculous cooking gadgets. Number five, the avocado slicer. It promises safe slicing, but it'll mostly just crush delicate fruit into sad green paste while taking three times longer than a knife. At number four, multi-blade herb scissors. Ten stainless blades designed to chop cilantro, which honestly just weld wet parsley into the steel gaps forever. Number three, the plastic banana slicer. It's a tool so aggressively specific it only functions if your fruit matches the exact curvature engineered at the plastic factory. Coming in at number two, the motorized ice cream cone. For anyone who looked at licking a frozen scoop and decided their tongue needed battery-powered assistance. And at number one, the egg cuber. Because throughout human history, humanity's biggest complaint about hardboiled eggs was clearly their utter lack of sharp right angles. Which useless gadget are you guilty of buying? Drop your confession below, because...",
-        "shot_plan": [
-          {
-            "subject": "kitchen drawer",
-            "queries": [
-              {
-                "q": "kitchen drawer",
-                "must": [
-                  "drawer"
-                ]
-              },
-              {
-                "q": "kitchen utensil drawer",
-                "must": [
-                  "kitchen"
-                ]
-              },
-              {
-                "q": "open drawer",
-                "must": [
-                  "drawer"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "avocado slicer",
-            "queries": [
-              {
-                "q": "avocado slicer",
-                "must": [
-                  "avocado"
-                ]
-              },
-              {
-                "q": "slicing avocado",
-                "must": [
-                  "avocado"
-                ]
-              },
-              {
-                "q": "avocado tool",
-                "must": [
-                  "avocado"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "herb scissors",
-            "queries": [
-              {
-                "q": "herb scissors",
-                "must": [
-                  "scissors"
-                ]
-              },
-              {
-                "q": "cutting herbs",
-                "must": [
-                  "herbs"
-                ]
-              },
-              {
-                "q": "kitchen scissors",
-                "must": [
-                  "scissors"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "banana slicer",
-            "queries": [
-              {
-                "q": "banana slicer",
-                "must": [
-                  "banana"
-                ]
-              },
-              {
-                "q": "slicing banana",
-                "must": [
-                  "banana"
-                ]
-              },
-              {
-                "q": "banana tool",
-                "must": [
-                  "banana"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "motorized ice cream cone",
-            "queries": [
-              {
-                "q": "ice cream cone",
-                "must": [
-                  "cone"
-                ]
-              },
-              {
-                "q": "eating ice cream",
-                "must": [
-                  "cream"
-                ]
-              },
-              {
-                "q": "ice cream scoop",
-                "must": [
-                  "ice"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "egg cuber",
-            "queries": [
-              {
-                "q": "hardboiled egg",
-                "must": [
-                  "egg"
-                ]
-              },
-              {
-                "q": "peeling egg",
-                "must": [
-                  "egg"
-                ]
-              },
-              {
-                "q": "boiled egg",
-                "must": [
-                  "egg"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "kitchen counter",
-            "queries": [
-              {
-                "q": "kitchen counter",
-                "must": [
-                  "kitchen"
-                ]
-              },
-              {
-                "q": "cooking utensils",
-                "must": [
-                  "utensils"
-                ]
-              },
-              {
-                "q": "kitchen gadgets",
-                "must": [
-                  "kitchen"
-                ]
-              }
-            ]
-          }
-        ],
-        "broll": [
-          "kitchen",
-          "gadget",
-          "cooking"
-        ],
-        "visual_style": "Fast-paced, humorous close-up shots of bizarre kitchen gadgets and food preparation in a brightly lit modern kitchen setting.",
-        "visual_refs": [
-          "Kitchen Tools I LOVE Anyway",
-          "what TOP 3 MOST USELESS items look like :]",
-          "Top 5 3D Printed Kitchen Hacks",
-          "top 5 kitchen tools for your home kitchen",
-          "Kitchen Appliances Worth Buying For Over $100",
-          "I&#39;ve invented literally everything."
-        ],
-        "voice": "en-US-EmmaMultilingualNeural",
-        "visual_report": {
-          "shots": 9,
-          "checked": 9,
-          "unchecked": 0,
-          "filler": 4,
-          "ai": 0
-        }
-      },
-      "credits": [
-        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-EmmaMultilingualNeural).",
-        "Stock footage/photos (Pexels/Pixabay Content License): Pezibear (Pixabay) https://pixabay.com/photos/cutlery-cooking-utensils-kitchen-6767900/; Pezibear (Pixabay) https://pixabay.com/photos/utensils-cutlery-kitchen-6771802/; stux (Pixabay) https://pixabay.com/photos/spices-chervil-lemon-balm-chives-2419055/; xBriantcx (Pixabay) https://pixabay.com/videos/id-254753/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-1261/"
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-19",
-        "name": "2026-10-19-2-1-v0.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-19",
-        "name": "2026-10-19-2-1-v0-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,086 --> 00:00:02,230\nYour kitchen drawer is secretly a tragic\n\n2\n00:00:02,230 --> 00:00:05,355\ngraveyard of ridiculous cooking gadgets Number\n\n3\n00:00:05,355 --> 00:00:08,407\nfive the avocado slicer It promises safe\n\n4\n00:00:08,407 --> 00:00:11,140\nslicing but it'll mostly just crush delicate\n\n5\n00:00:11,140 --> 00:00:13,309\nfruit into sad green paste while taking\n\n6\n00:00:13,309 --> 00:00:15,490\nthree times longer than a knife At\n\n7\n00:00:15,490 --> 00:00:18,946\nnumber four multi-blade herb scissors Ten stainless\n\n8\n00:00:18,946 --> 00:00:21,789\nblades designed to chop cilantro which honestly\n\n9\n00:00:21,789 --> 00:00:23,664\njust weld wet parsley into the steel\n\n10\n00:00:23,664 --> 00:00:26,924\ngaps forever Number three the plastic banana\n\n11\n00:00:26,924 --> 00:00:30,037\nslicer It's a tool so aggressively specific\n\n12\n00:00:30,037 --> 00:00:32,071\nit only functions if your fruit matches\n\n13\n00:00:32,071 --> 00:00:34,387\nthe exact curvature engineered at the plastic\n\n14\n00:00:34,387 --> 00:00:36,961\nfactory Coming in at number two the\n\n15\n00:00:36,961 --> 00:00:39,694\nmotorized ice cream cone For anyone who\n\n16\n00:00:39,694 --> 00:00:41,752\nlooked at licking a frozen scoop and\n\n17\n00:00:41,752 --> 00:00:43,787\ndecided their tongue needed battery-powered\n\n18\n00:00:43,787 --> 00:00:46,176\nassistance And at number one the egg\n\n19\n00:00:46,176 --> 00:00:49,608\ncuber Because throughout human history humanity's\n\n20\n00:00:49,608 --> 00:00:51,789\nbiggest complaint about hardboiled eggs was\n\n21\n00:00:51,789 --> 00:00:53,701\nclearly their utter lack of sharp right\n\n22\n00:00:53,701 --> 00:00:56,434\nangles Which useless gadget are you guilty\n\n23\n00:00:56,434 --> 00:01:00,008\nof buying Drop your confession below because\n",
-      "tg_msg": 558,
-      "opts_msg": 560,
-      "approved_by": "auto",
-      "quota_note": "2026-10-21",
-      "description_full": "Counting down the top 5 useless kitchen gadgets that seemed brilliant on TV but ended up forgotten in the junk drawer.\nDiscover the funniest kitchen fails and bizarre cooking tools you definitely do not need.\n\n#shorts #kitchengadgets #cookingfails #top5 #funny\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-EmmaMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): Pezibear (Pixabay) https://pixabay.com/photos/cutlery-cooking-utensils-kitchen-6767900/; Pezibear (Pixabay) https://pixabay.com/photos/utensils-cutlery-kitchen-6771802/; stux (Pixabay) https://pixabay.com/photos/spices-chervil-lemon-balm-chives-2419055/; xBriantcx (Pixabay) https://pixabay.com/videos/id-254753/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-1261/\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/4k2r4rZIAns",
-          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-21T10:36:47.675753+00:00",
-      "slot": "2026-10-21T16:15:00+00:00"
-    },
-    "2026-10-19-2-2": {
-      "topic": {
-        "title": "Top 5 Most Bizarre Natural Architecture Miracles",
-        "angle": "Explore five incredible structures built entirely by animals that rival modern human engineering.",
-        "format": "ranking",
-        "tone": "normal",
-        "trend_source": "evergreen",
-        "virality_score": 8,
-        "why": "Visually striking nature facts create strong curiosity hooks in the first two seconds."
-      },
-      "status": "published",
-      "by": "auto",
-      "updated": "2026-10-21T10:36:56.426781+00:00",
-      "redos": 0,
-      "package": {
-        "primary_keyword": "animal architecture",
-        "title": "Top 5 Animal Architecture Wonders in Nature",
-        "hook_text": "Built without human hands",
-        "thumbnail_text": "Built By Animals",
-        "description": "Discover five incredible animal architecture miracles built by nature that rival modern human engineering.\nExplore massive beaver dams, skyscraper termite mounds, and bird apartment complexes.",
-        "hashtags": [
-          "#shorts",
-          "#nature",
-          "#animalarchitecture",
-          "#top5"
-        ],
-        "tags": [
-          "animal architecture",
-          "sociable weaver bird nest",
-          "termite mounds",
-          "sociable weaver nest",
-          "beaver dam visible from space",
-          "animal engineering",
-          "magnetic termite mounds",
-          "top 10 animal architects",
-          "weaver ants nest",
-          "bizarre nature facts",
-          "animal buildings",
-          "compass termites",
-          "wildlife builders",
-          "nature documentary",
-          "natural architecture",
-          "animal megastructures"
-        ],
-        "pinned_comment": "Could human architects ever match this termite mega-city without machines? Which structure blew your mind most?",
-        "scenes": [
-          {
-            "text": "Humans spend billions on engineering, but tiny creatures built mega-structures first. Wait until you see the ancient metropolis that covers an entire country.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "macro ant leaf",
-              "forest canopy drone"
-            ],
-            "image_prompt": "Cinematic vertical macro shot of wild green jungle canopy with sunlight filtering through leaves, photorealistic, 9:16 aspect ratio",
-            "stock_query": "macro ant leaf"
-          },
-          {
-            "text": "Number five, Weaver Ants. They form living chains with their bodies to bend thick leaves, then use their own larvae as glue guns to stitch waterproof pavilions.",
-            "badge": "#5",
-            "label": "Weaver Ants",
-            "stock_queries": [
-              "weaver ants nest",
-              "green tree ants"
-            ],
-            "image_prompt": "Extreme macro photography of green weaver ants pulling tropical leaves together with silk in a lush rainforest, vertical 9:16, detailed textures",
-            "stock_query": "weaver ants nest"
-          },
-          {
-            "text": "At number four, Sociable Weavers. These tiny birds build colossal communal hay apartments weighing over a ton, housing hundreds of families for over a century.",
-            "badge": "#4",
-            "label": "Sociable Weavers",
-            "stock_queries": [
-              "sociable weaver nest",
-              "huge bird nest"
-            ],
-            "image_prompt": "Gigantic woven hay bird nest engulfing a dry acacia tree in the Kalahari desert, sociable weaver birds flying around it, vertical 9:16",
-            "stock_query": "sociable weaver nest"
-          },
-          {
-            "text": "Number three, Compass Termites. They construct flat, blade-like wedges strictly aligned north to south, creating nature's most precise passive air conditioning system.",
-            "badge": "#3",
-            "label": "Compass Termites",
-            "stock_queries": [
-              "magnetic termite mounds",
-              "australian outback mounds"
-            ],
-            "image_prompt": "Tall thin magnetic termite mounds rising like gravestones in the golden grassy plains of Northern Australia, vertical 9:16, dramatic sunset lighting",
-            "stock_query": "magnetic termite mounds"
-          },
-          {
-            "text": "At number two, the Wood Buffalo Beaver Dam. Stretching over eight hundred fifty meters across Canadian wetlands, it's so massive you can spot it from space.",
-            "badge": "#2",
-            "label": "Giant Beaver Dam",
-            "stock_queries": [
-              "beaver dam river",
-              "aerial boreal forest"
-            ],
-            "image_prompt": "High altitude aerial view of an enormous curving beaver dam spanning a pristine boreal wetland in Northern Canada, lush green wilderness, vertical 9:16",
-            "stock_query": "beaver dam river"
-          },
-          {
-            "text": "And number one, the Brazilian Termite Metropolis. Two hundred million mounds, built over four thousand years, spanning an area as big as Great Britain.",
-            "badge": "#1",
-            "label": "Termite Metropolis",
-            "stock_queries": [
-              "caatinga termite mounds",
-              "dry forest aerial"
-            ],
-            "image_prompt": "Wide angle landscape of endless ancient earthen conical mounds dotting the dry Brazilian caatinga scrubland stretching to the horizon, vertical 9:16",
-            "stock_query": "caatinga termite mounds"
-          },
-          {
-            "text": "Which of these animal architects surprised you the most? Tell me below, because...",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "aerial forest landscape",
-              "sunset savannah wildlife"
-            ],
-            "image_prompt": "A breathtaking cinematic vista of diverse wild landscapes at golden hour, misty wilderness, vertical 9:16, hyperrealistic",
-            "stock_query": "aerial forest landscape"
-          }
-        ],
-        "key_facts": [
-          "Weaver ants pull leaves together using worker chains and glue them with larval silk.",
-          "Sociable weaver communal nests can weigh over a ton and last for over one hundred years.",
-          "Compass termite mounds are aligned north to south to regulate internal temperature through passive solar heating.",
-          "The Wood Buffalo beaver dam in Alberta, Canada measures approximately eight hundred fifty meters long and is visible from satellite imagery.",
-          "The Syntermes dirus termite mound complex in northeastern Brazil contains around two hundred million mounds, covers roughly the area of Great Britain, and dates back up to four thousand years."
-        ],
-        "format": "ranking",
-        "tone": "normal",
-        "category": "27",
-        "script": "Humans spend billions on engineering, but tiny creatures built mega-structures first. Wait until you see the ancient metropolis that covers an entire country. Number five, Weaver Ants. They form living chains with their bodies to bend thick leaves, then use their own larvae as glue guns to stitch waterproof pavilions. At number four, Sociable Weavers. These tiny birds build colossal communal hay apartments weighing over a ton, housing hundreds of families for over a century. Number three, Compass Termites. They construct flat, blade-like wedges strictly aligned north to south, creating nature's most precise passive air conditioning system. At number two, the Wood Buffalo Beaver Dam. Stretching over eight hundred fifty meters across Canadian wetlands, it's so massive you can spot it from space. And number one, the Brazilian Termite Metropolis. Two hundred million mounds, built over four thousand years, spanning an area as big as Great Britain. Which of these animal architects surprised you the most? Tell me below, because...",
-        "shot_plan": [
-          {
-            "subject": "modern human bridge construction alongside a massive anthill",
-            "queries": [
-              {
-                "q": "construction bridge",
-                "must": [
-                  "bridge"
-                ]
-              },
-              {
-                "q": "skyscraper building",
-                "must": [
-                  "building"
-                ]
-              },
-              {
-                "q": "anthill mound",
-                "must": [
-                  "anthill"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "weaver ants bending leaves and stitching with larvae",
-            "queries": [
-              {
-                "q": "weaver ant leaf",
-                "must": [
-                  "ant"
-                ]
-              },
-              {
-                "q": "insect macro",
-                "must": [
-                  "insect"
-                ]
-              },
-              {
-                "q": "green leaf",
-                "must": [
-                  "leaf"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "sociable weaver bird massive communal nest on tree",
-            "queries": [
-              {
-                "q": "weaver bird nest",
-                "must": [
-                  "nest"
-                ]
-              },
-              {
-                "q": "bird colony",
-                "must": [
-                  "bird"
-                ]
-              },
-              {
-                "q": "tree branches",
-                "must": [
-                  "tree"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "compass termite mounds in outback landscape",
-            "queries": [
-              {
-                "q": "termite mound",
-                "must": [
-                  "mound"
-                ]
-              },
-              {
-                "q": "termite architecture",
-                "must": [
-                  "termite"
-                ]
-              },
-              {
-                "q": "desert landscape",
-                "must": [
-                  "desert"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "giant beaver dam in canadian river wetland",
-            "queries": [
-              {
-                "q": "beaver dam",
-                "must": [
-                  "dam"
-                ]
-              },
-              {
-                "q": "beaver lodge",
-                "must": [
-                  "beaver"
-                ]
-              },
-              {
-                "q": "river wetland",
-                "must": [
-                  "river"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "vast brazilian termite mounds aerial view",
-            "queries": [
-              {
-                "q": "termite mounds aerial",
-                "must": [
-                  "aerial"
-                ]
-              },
-              {
-                "q": "landscape field",
-                "must": [
-                  "field"
-                ]
-              },
-              {
-                "q": "dirt mounds",
-                "must": [
-                  "mounds"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "diverse animal architects looking at camera",
-            "queries": [
-              {
-                "q": "wildlife animal",
-                "must": [
-                  "animal"
-                ]
-              },
-              {
-                "q": "nature landscape",
-                "must": [
-                  "nature"
-                ]
-              },
-              {
-                "q": "close up animal",
-                "must": [
-                  "close"
-                ]
-              }
-            ]
-          }
-        ],
-        "broll": [
-          "nature",
-          "wildlife",
-          "architecture"
-        ],
-        "visual_style": "cinematic macro and aerial documentary footage of intricate animal architecture and natural wonders against grand landscapes",
-        "visual_refs": [
-          "Miracle Floating Pillar Architecture in Lepakshi Temple",
-          "&quot;5 Most Mysterious Places on Earth That Science Can\u2019t Explain!&quot;",
-          "&quot;Top 7 Wonders of the World - Must-See Landmarks \ud83c\udf0d&quot; #wondersoftheworld #top10vision",
-          "Miracle Architecture",
-          "What the 7 Wonders of the World Might Look Like Today #history #world #country",
-          "China&#39;s Craziest Rides &amp; Engineering Wonders! \ud83c\udde8\ud83c\uddf3\ud83e\udd2f #shorts"
-        ],
-        "voice": "en-US-BrianMultilingualNeural",
-        "visual_report": {
-          "shots": 7,
-          "checked": 6,
-          "unchecked": 0,
-          "filler": 4,
-          "ai": 0
-        }
-      },
-      "credits": [
-        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-BrianMultilingualNeural).",
-        "Stock footage/photos (Pexels/Pixabay Content License): robertwaghorn (Pixabay) https://pixabay.com/photos/green-ant-building-nest-2837657/; hbieser (Pixabay) https://pixabay.com/photos/termite-mounds-ants-landscape-695209/; Graham-H (Pixabay) https://pixabay.com/photos/beaver-dam-nature-water-castor-2397083/"
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-19",
-        "name": "2026-10-19-2-2-v0.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-19",
-        "name": "2026-10-19-2-2-v0-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,080 --> 00:00:03,114\nHumans spend billions on engineering but tiny\n\n2\n00:00:03,114 --> 00:00:05,830\ncreatures built mega-structures first Wait\n\n3\n00:00:05,830 --> 00:00:08,000\nuntil you see the ancient metropolis that\n\n4\n00:00:08,000 --> 00:00:10,807\ncovers an entire country Number five Weaver\n\n5\n00:00:10,807 --> 00:00:13,011\nAnts They form living chains with their\n\n6\n00:00:13,011 --> 00:00:15,375\nbodies to bend thick leaves then use\n\n7\n00:00:15,375 --> 00:00:16,966\ntheir own larvae as glue guns to\n\n8\n00:00:16,966 --> 00:00:19,515\nstitch waterproof pavilions At number four\n\n9\n00:00:19,515 --> 00:00:22,511\nSociable Weavers These tiny birds build colossal\n\n10\n00:00:22,511 --> 00:00:25,114\ncommunal hay apartments weighing over a ton\n\n11\n00:00:25,114 --> 00:00:26,841\nhousing hundreds of families for over a\n\n12\n00:00:26,841 --> 00:00:30,114\ncentury Number three Compass Termites They\n\n13\n00:00:30,114 --> 00:00:33,114\nconstruct flat blade-like wedges strictly aligned\n\n14\n00:00:33,114 --> 00:00:35,909\nnorth to south creating nature's most precise\n\n15\n00:00:35,909 --> 00:00:38,727\npassive air conditioning system At number two\n\n16\n00:00:38,727 --> 00:00:41,398\nthe Wood Buffalo Beaver Dam Stretching over\n\n17\n00:00:41,398 --> 00:00:43,341\neight hundred fifty meters across Canadian\n\n18\n00:00:43,341 --> 00:00:45,739\nwetlands it's so massive you can spot\n\n19\n00:00:45,739 --> 00:00:47,909\nit from space And number one the\n\n20\n00:00:47,909 --> 00:00:50,614\nBrazilian Termite Metropolis Two hundred million\n\n21\n00:00:50,614 --> 00:00:53,932\nmounds built over four thousand years spanning\n\n22\n00:00:53,932 --> 00:00:55,989\nan area as big as Great Britain\n\n23\n00:00:55,989 --> 00:00:58,205\nWhich of these animal architects surprised\n\n24\n00:00:58,205 --> 00:01:00,809\nyou the most Tell me below because\n",
-      "tg_msg": 561,
-      "opts_msg": 563,
-      "approved_by": "auto",
-      "quota_note": "2026-10-21",
-      "description_full": "Discover five incredible animal architecture miracles built by nature that rival modern human engineering.\nExplore massive beaver dams, skyscraper termite mounds, and bird apartment complexes.\n\n#shorts #nature #animalarchitecture #top5\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-BrianMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): robertwaghorn (Pixabay) https://pixabay.com/photos/green-ant-building-nest-2837657/; hbieser (Pixabay) https://pixabay.com/photos/termite-mounds-ants-landscape-695209/; Graham-H (Pixabay) https://pixabay.com/photos/beaver-dam-nature-water-castor-2397083/\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/CsnlfyT5ql0",
-          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-21T10:36:56.426793+00:00",
-      "slot": "2026-10-21T19:15:00+00:00"
-    },
-    "2026-10-19-2-3": {
-      "topic": {
-        "title": "Why Modern Movie Popcorn Always Tastes Better",
-        "angle": "Explain the surprising chemical and secret ingredient reasons why cinema popcorn hits different than homemade.",
-        "format": "explainer",
-        "tone": "normal",
-        "trend_source": "evergreen",
-        "virality_score": 8,
-        "why": "Satisfies everyday curiosity about a universally beloved snack with a fast-paced narrative structure."
-      },
-      "status": "published",
-      "by": "auto",
-      "updated": "2026-10-21T10:37:04.972771+00:00",
-      "redos": 0,
-      "package": {
-        "primary_keyword": "why movie popcorn tastes better",
-        "title": "Why Movie Theater Popcorn Tastes Better",
-        "hook_text": "Why movie popcorn hits different",
-        "thumbnail_text": "Secret Movie Popcorn",
-        "description": "Discover why movie theater popcorn tastes so much better than homemade snacks with this surprising science breakdown.",
-        "hashtags": [
-          "#shorts",
-          "#foodscience",
-          "#movietheater",
-          "#didyouknow"
-        ],
-        "tags": [
-          "why movie popcorn tastes better",
-          "movie theater popcorn",
-          "why movie theater popcorn taste so good",
-          "movie theater popcorn secret",
-          "movie theater popcorn secret ingredient",
-          "food science facts",
-          "how is movie popcorn made",
-          "movie theater popcorn hack",
-          "movie theater popcorn trick",
-          "why movie popcorn is so good",
-          "cinema popcorn",
-          "how is popcorn made",
-          "butter flavored oil",
-          "theater popcorn recipe",
-          "popcorn machine science",
-          "why popcorn tastes different",
-          "flavacol seasoning"
-        ],
-        "pinned_comment": "Have you ever tried making it with this secret ingredient at home? Let us know what happened! \ud83d\udc47",
-        "key_facts": [
-          "Movie theaters use Flavacol, a fine salt containing artificial butter flavor and yellow food dyes, to season popcorn.",
-          "The oil used in commercial popcorn machines is often coconut oil containing beta carotene.",
-          "Commercial poppers use high pressure and heat to coat every kernel evenly while popping."
-        ],
-        "scenes": [
-          {
-            "text": "Why does movie theater popcorn taste so much better than whatever you make at home?",
-            "badge": "surprisi",
-            "label": "THE MYSTERY",
-            "stock_queries": [
-              "movie theater popcorn",
-              "bucket of popcorn"
-            ],
-            "image_prompt": "vertical 9:16 shot of a glowing red popcorn machine in a dark cinema lobby, fresh golden kernels popping inside, cinematic lighting, no text, no people",
-            "stock_query": "movie theater popcorn"
-          },
-          {
-            "text": "Honestly, it is not just the butter. In fact, most places use a secret weapon called flavacol.",
-            "badge": "secret i",
-            "label": "FLAVACOL",
-            "stock_queries": [
-              "yellow seasoning powder",
-              "spoonful of salt"
-            ],
-            "image_prompt": "vertical 9:16 close up of fine yellow seasoning salt being poured into a shiny metal popcorn kettle, vibrant colors, no text, no people",
-            "stock_query": "yellow seasoning powder"
-          },
-          {
-            "text": "It is an ultra fine salt that sticks to every single square millimeter of the corn.",
-            "badge": "fine tex",
-            "label": "MICRO SALT",
-            "stock_queries": [
-              "salt falling down",
-              "fine yellow powder"
-            ],
-            "image_prompt": "vertical 9:16 macro shot of tiny golden salt crystals dusting freshly popped fluffy white corn, high contrast, no text, no people",
-            "stock_query": "salt falling down"
-          },
-          {
-            "text": "Plus, they pop the kernels in special coconut oil that gives it that distinct yellow color and rich aroma.",
-            "badge": "oil type",
-            "label": "COCONUT OIL",
-            "stock_queries": [
-              "liquid coconut oil",
-              "pouring cooking oil"
-            ],
-            "image_prompt": "vertical 9:16 shot of golden cooking oil melting in a hot stainless steel kettle, steam rising softly, no text, no people",
-            "stock_query": "liquid coconut oil"
-          },
-          {
-            "text": "Wait, here is the kicker. That artificial butter flavor is actually just a chemical called diacetyl.",
-            "badge": "science ",
-            "label": "DIACETYL",
-            "stock_queries": [
-              "chemistry beaker",
-              "science laboratory"
-            ],
-            "image_prompt": "vertical 9:16 abstract close up of golden butter droplets swirling in warm melted oil, smooth motion, no text, no people",
-            "stock_query": "chemistry beaker"
-          },
-          {
-            "text": "Your brain associates that exact smell with a fun night out at the cinema, making it impossible to resist.",
-            "badge": "psycholo",
-            "label": "BRAIN HACK",
-            "stock_queries": [
-              "cinema seat",
-              "movie theater auditorium"
-            ],
-            "image_prompt": "vertical 9:16 wide shot of glowing cinema screen casting warm light on empty red velvet theater seats, cozy atmosphere, no text, no people",
-            "stock_query": "cinema seat"
-          },
-          {
-            "text": "So, would you ever buy a tub of this special salt for your next movie night at home?",
-            "badge": "question",
-            "label": "YOU DECIDE",
-            "stock_queries": [
-              "popcorn bowl",
-              "eating snacks"
-            ],
-            "image_prompt": "vertical 9:16 cozy living room setting with a large ceramic bowl filled with fluffy golden popcorn on a wooden table, warm lamp light, no text, no people",
-            "stock_query": "popcorn bowl"
-          }
-        ],
-        "format": "explainer",
-        "tone": "normal",
-        "category": "27",
-        "script": "Why does movie theater popcorn taste so much better than whatever you make at home? Honestly, it is not just the butter. In fact, most places use a secret weapon called flavacol. It is an ultra fine salt that sticks to every single square millimeter of the corn. Plus, they pop the kernels in special coconut oil that gives it that distinct yellow color and rich aroma. Wait, here is the kicker. That artificial butter flavor is actually just a chemical called diacetyl. Your brain associates that exact smell with a fun night out at the cinema, making it impossible to resist. So, would you ever buy a tub of this special salt for your next movie night at home?",
-        "shot_plan": [
-          {
-            "subject": "movie theater popcorn",
-            "queries": [
-              {
-                "q": "movie theater popcorn",
-                "must": [
-                  "popcorn"
-                ]
-              },
-              {
-                "q": "cinema popcorn",
-                "must": [
-                  "popcorn"
-                ]
-              },
-              {
-                "q": "butter popcorn",
-                "must": [
-                  "snack"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "flavacol seasoning",
-            "queries": [
-              {
-                "q": "seasoning salt",
-                "must": [
-                  "salt"
-                ]
-              },
-              {
-                "q": "yellow powder",
-                "must": [
-                  "powder"
-                ]
-              },
-              {
-                "q": "fine salt",
-                "must": [
-                  "salt"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "salt grains",
-            "queries": [
-              {
-                "q": "salt crystals",
-                "must": [
-                  "salt"
-                ]
-              },
-              {
-                "q": "grains of salt",
-                "must": [
-                  "salt"
-                ]
-              },
-              {
-                "q": "white powder",
-                "must": [
-                  "powder"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "coconut oil",
-            "queries": [
-              {
-                "q": "coconut oil",
-                "must": [
-                  "oil"
-                ]
-              },
-              {
-                "q": "cooking oil",
-                "must": [
-                  "oil"
-                ]
-              },
-              {
-                "q": "liquid oil",
-                "must": [
-                  "oil"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "chemical bottle",
-            "queries": [
-              {
-                "q": "chemical bottle",
-                "must": [
-                  "bottle"
-                ]
-              },
-              {
-                "q": "flavor extract",
-                "must": [
-                  "bottle"
-                ]
-              },
-              {
-                "q": "liquid dropper",
-                "must": [
-                  "dropper"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "movie theater",
-            "queries": [
-              {
-                "q": "cinema auditorium",
-                "must": [
-                  "theater"
-                ]
-              },
-              {
-                "q": "movie theater",
-                "must": [
-                  "theater"
-                ]
-              },
-              {
-                "q": "cinema seats",
-                "must": [
-                  "seat"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "bowl of popcorn",
-            "queries": [
-              {
-                "q": "bowl of popcorn",
-                "must": [
-                  "popcorn"
-                ]
-              },
-              {
-                "q": "popcorn bowl",
-                "must": [
-                  "bowl"
-                ]
-              },
-              {
-                "q": "snack bowl",
-                "must": [
-                  "snack"
-                ]
-              }
-            ]
-          }
-        ],
-        "broll": [
-          "popcorn",
-          "butter",
-          "kitchen"
-        ],
-        "visual_style": "High-contrast macro close-ups of food preparation, popcorn popping, and ingredients with dynamic kitchen lighting.",
-        "visual_refs": [
-          "Why does your popcorn never taste like movie theater popcorn? #food #business #history",
-          "The Secret to Movie Theater Popcorn\ud83c\udf7f",
-          "HOW MOVIE THEATER POPCORN IS ACTUALLY MADE?!?!",
-          "Why Movie Popcorn Tastes So Good \ud83d\ude32",
-          "Movie Theater Popcorn",
-          "Is this what makes movie theater popcorn so good?!"
-        ],
-        "voice": "en-AU-WilliamMultilingualNeural",
-        "visual_report": {
-          "shots": 11,
-          "checked": 11,
-          "unchecked": 0,
-          "filler": 1,
-          "ai": 0
-        }
-      },
-      "credits": [
-        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-AU-WilliamMultilingualNeural).",
-        "Stock footage/photos (Pexels/Pixabay Content License): Vogue0987 (Pixabay) https://pixabay.com/videos/id-301691/; jeffjacobs1990 (Pixabay) https://pixabay.com/videos/id-93090/; asraf222999 (Pixabay) https://pixabay.com/videos/id-264458/; analogicus (Pixabay) https://pixabay.com/photos/pharmacy-antique-old-chemicals-3377670/; cozmicphotos (Pixabay) https://pixabay.com/photos/bottle-container-drink-glass-3374615/; EnchantedStudios (Pixabay) https://pixabay.com/videos/id-197970/; Openly (Pixabay) https://pixabay.com/videos/id-366525/; LaDoncella (Pixabay) https://pixabay.com/videos/id-246231/; u_dtemfv9uhm (Pixabay) https://pixabay.com/videos/id-190117/",
-        "McSquare1337 / Wikimedia Commons (CC0) https://commons.wikimedia.org/wiki/File:Salt_Cubes.jpg"
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-19",
-        "name": "2026-10-19-2-3-v0.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-19",
-        "name": "2026-10-19-2-3-v0-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,050 --> 00:00:02,414\nWhy does movie theater popcorn taste so\n\n2\n00:00:02,414 --> 00:00:03,963\nmuch better than whatever you make at\n\n3\n00:00:03,963 --> 00:00:06,762\nhome Honestly it is not just the\n\n4\n00:00:06,762 --> 00:00:09,656\nbutter In fact most places use a\n\n5\n00:00:09,656 --> 00:00:12,305\nsecret weapon called flavacol It is an\n\n6\n00:00:12,305 --> 00:00:14,439\nultra fine salt that sticks to every\n\n7\n00:00:14,439 --> 00:00:17,509\nsingle square millimeter of the corn Plus\n\n8\n00:00:17,509 --> 00:00:19,479\nthey pop the kernels in special coconut\n\n9\n00:00:19,479 --> 00:00:21,327\noil that gives it that distinct yellow\n\n10\n00:00:21,327 --> 00:00:24,574\ncolor and rich aroma Wait here is\n\n11\n00:00:24,574 --> 00:00:27,373\nthe kicker That artificial butter flavor is\n\n12\n00:00:27,373 --> 00:00:30,444\nactually just a chemical called diacetyl Your\n\n13\n00:00:30,444 --> 00:00:32,672\nbrain associates that exact smell with a\n\n14\n00:00:32,672 --> 00:00:34,887\nfun night out at the cinema making\n\n15\n00:00:34,887 --> 00:00:37,998\nit impossible to resist So would you\n\n16\n00:00:37,998 --> 00:00:39,507\never buy a tub of this special\n\n17\n00:00:39,507 --> 00:00:40,987\nsalt for your next movie night at\n\n18\n00:00:40,987 --> 00:00:41,849\nhome\n",
-      "tg_msg": 564,
-      "opts_msg": 566,
-      "approved_by": "auto",
-      "quota_note": "2026-10-21",
-      "description_full": "Discover why movie theater popcorn tastes so much better than homemade snacks with this surprising science breakdown.\n\n#shorts #foodscience #movietheater #didyouknow\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-AU-WilliamMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): Vogue0987 (Pixabay) https://pixabay.com/videos/id-301691/; jeffjacobs1990 (Pixabay) https://pixabay.com/videos/id-93090/; asraf222999 (Pixabay) https://pixabay.com/videos/id-264458/; analogicus (Pixabay) https://pixabay.com/photos/pharmacy-antique-old-chemicals-3377670/; cozmicphotos (Pixabay) https://pixabay.com/photos/bottle-container-drink-glass-3374615/; EnchantedStudios (Pixabay) https://pixabay.com/videos/id-197970/; Openly (Pixabay) https://pixabay.com/videos/id-366525/; LaDoncella (Pixabay) https://pixabay.com/videos/id-246231/; u_dtemfv9uhm (Pixabay) https://pixabay.com/videos/id-190117/\nMcSquare1337 / Wikimedia Commons (CC0) https://commons.wikimedia.org/wiki/File:Salt_Cubes.jpg\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/rc2inbcOHbM",
-          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-21T10:37:04.972783+00:00",
-      "slot": "2026-10-21T23:15:00+00:00"
-    },
     "2026-10-20-1": {
       "topic": {
         "title": "How Desert Ice Houses Worked 2,400 Years Ago",
@@ -10436,12 +8175,12 @@
         "format": "animated",
         "style": "Synthwave Outrun"
       },
-      "status": "approved",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261026-plane-toilet",
       "redos": 0,
-      "updated": "2026-10-26T11:13:55.900667+00:00",
+      "updated": "2026-10-27T12:28:34.765241+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Synthwave Outrun style). Voice: Kokoro text-to-speech."
       ],
@@ -10458,7 +8197,28 @@
       "srt": "1\n00:00:00,250 --> 00:00:01,840\nHow does a plane toilet flush\n\n2\n00:00:02,140 --> 00:00:03,860\nat thirty-five thousand feet?\n\n3\n00:00:04,410 --> 00:00:05,840\nIt barely uses water.\n\n4\n00:00:06,390 --> 00:00:07,700\nIt uses the sky.\n\n5\n00:00:08,250 --> 00:00:09,920\nYour cabin is pressurized,\n\n6\n00:00:10,220 --> 00:00:11,800\npacked with air like a balloon.\n\n7\n00:00:12,350 --> 00:00:14,240\nOutside, the air is super thin.\n\n8\n00:00:14,790 --> 00:00:15,770\nPress the button,\n\n9\n00:00:16,070 --> 00:00:17,530\nand a valve opens a pipe\n\n10\n00:00:17,830 --> 00:00:19,910\nfrom the bowl to that thin outside air.\n\n11\n00:00:20,460 --> 00:00:22,090\nThe high pressure in the cabin\n\n12\n00:00:22,390 --> 00:00:24,190\nshoves everything down the pipe.\n\n13\n00:00:24,740 --> 00:00:25,680\nThat's the whoosh.\n\n14\n00:00:26,230 --> 00:00:28,710\nIt all lands in a tank at the back of the plane.\n\n15\n00:00:29,260 --> 00:00:30,860\nAbout three seconds later,\n\n16\n00:00:31,160 --> 00:00:32,400\nthe valve slams shut.\n\n17\n00:00:32,950 --> 00:00:34,840\nBut below sixteen thousand feet,\n\n18\n00:00:35,140 --> 00:00:36,970\nthe outside air isn't thin enough,\n\n19\n00:00:37,270 --> 00:00:39,960\nso an electric pump makes the vacuum instead.\n\n20\n00:00:40,510 --> 00:00:42,910\nAnd no, nothing gets dumped in the sky.\n\n21\n00:00:43,460 --> 00:00:46,020\nGround crews empty the tank after landing.\n\n22\n00:00:46,570 --> 00:00:47,570\nSo, next flight,\n\n23\n00:00:47,870 --> 00:00:49,420\nare you brave enough to press it?\n\n",
       "tg_msg": 821,
       "approved_by": "auto",
-      "quota_note": "2026-10-27"
+      "quota_note": "2026-10-27",
+      "description_full": "How does an airplane toilet flush? Plane toilets are vacuum toilets: a valve opens the bowl to the thin air outside, the higher cabin pressure shoves everything into a tank at the back, and below 16,000 feet an electric vacuum pump does the job instead.\n\nSources:\nhttps://satelliteindustries.com/blog/vacuum-toilet-system-in-aircraft\nhttps://thepointsguy.com/news/how-airplane-toilets-work/\nhttps://aerocorner.com/blog/how-airplane-toilets-work/\n\nAnimated in the Synthwave Outrun style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #science #howitworks #aviation\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Synthwave Outrun style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/4QmeZfpBx58",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-10-27T12:28:34.765260+00:00",
+      "slot": "2026-10-28T16:15:00+00:00"
     },
     "2026-10-26-103": {
       "topic": {
@@ -10512,12 +8272,12 @@
         "format": "long",
         "style": "Kawaii Anime"
       },
-      "status": "approved",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261026-food-journey",
       "redos": 0,
-      "updated": "2026-10-26T17:41:13.338004+00:00",
+      "updated": "2026-10-27T12:28:40.641620+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech."
       ],
@@ -10535,7 +8295,16 @@
       "tg_msg": 828,
       "approved_by": "you",
       "publish_now": false,
-      "quota_note": "2026-10-27"
+      "quota_note": "2026-10-27",
+      "description_full": "What actually happens to your food after you swallow it? Follow one bite through the whole digestive system: chewing and saliva, the esophagus and peristalsis, stomach acid and chyme, the small intestine's villi, the large intestine and its trillions of gut bacteria.\n\nChapters:\n0:00 The digestion mystery\n0:41 The mouth\n1:22 The stomach\n2:01 The small intestine\n2:49 The large intestine\n3:12 The whole trip\n\nSources:\nhttps://www.mayoclinic.org/digestive-system/expert-answers/faq-20058340\nhttps://en.wikipedia.org/wiki/Small_intestine\nhttps://popsci.com/article/science/human-gut-has-surface-area-studio-apartment\n\nAnimated in the Kawaii Anime style.\n\nFollow Zorbly AI for a new Short every day.\n\n#science #humanbody #digestion\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review and approved by the channel owner.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/VS7jYaoVjsk",
+          "private \u00b7 thumbnail \u2705"
+        ]
+      },
+      "uploaded_at": "2026-10-27T12:28:40.641639+00:00",
+      "slot": "2026-10-28T19:15:00+00:00"
     },
     "2026-10-26-104": {
       "topic": {
@@ -10585,12 +8354,12 @@
         "format": "animated",
         "style": "Ukiyo-e Woodblock"
       },
-      "status": "approved",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261026-incense-clock",
       "redos": 0,
-      "updated": "2026-10-26T16:57:07.830668+00:00",
+      "updated": "2026-10-27T12:28:44.481397+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Ukiyo-e Woodblock style). Voice: Kokoro text-to-speech."
       ],
@@ -10607,7 +8376,28 @@
       "srt": "1\n00:00:00,250 --> 00:00:02,110\nHow did people in old Japan\n\n2\n00:00:02,410 --> 00:00:03,790\nsmell what time it was?\n\n3\n00:00:04,340 --> 00:00:05,810\nNo gears. No ticking.\n\n4\n00:00:06,360 --> 00:00:07,740\nJust a box of ash.\n\n5\n00:00:08,290 --> 00:00:10,250\nFirst, they smoothed white ash flat,\n\n6\n00:00:10,550 --> 00:00:11,930\nand pressed a stamp into it.\n\n7\n00:00:12,480 --> 00:00:13,730\nThat left a groove,\n\n8\n00:00:14,030 --> 00:00:16,030\na maze that snakes back and forth.\n\n9\n00:00:16,580 --> 00:00:18,690\nThey filled the groove with incense powder:\n\n10\n00:00:18,990 --> 00:00:20,360\none long, thin trail.\n\n11\n00:00:20,910 --> 00:00:21,920\nLight one end,\n\n12\n00:00:22,220 --> 00:00:24,380\nand a tiny ember crawls through the maze,\n\n13\n00:00:24,680 --> 00:00:26,160\nat a nearly steady speed.\n\n14\n00:00:26,710 --> 00:00:28,020\nHere's the clever part.\n\n15\n00:00:28,570 --> 00:00:30,280\nAt set marks along the trail,\n\n16\n00:00:30,580 --> 00:00:32,380\nthey switched to a different incense.\n\n17\n00:00:32,930 --> 00:00:34,890\nSo when the smell in the room changed,\n\n18\n00:00:35,190 --> 00:00:36,780\nyou knew more time had passed.\n\n19\n00:00:37,330 --> 00:00:39,510\nSome trails burned for twelve hours.\n\n20\n00:00:40,060 --> 00:00:41,580\nSome lasted a whole month.\n\n21\n00:00:42,130 --> 00:00:44,040\nA few even dropped a little ball\n\n22\n00:00:44,340 --> 00:00:46,100\nonto a tray, like an alarm.\n\n23\n00:00:46,650 --> 00:00:49,430\nSo, what time does your room smell like right now?\n\n",
       "tg_msg": 829,
       "approved_by": "auto",
-      "quota_note": "2026-10-27"
+      "quota_note": "2026-10-27",
+      "description_full": "How did people in old Japan and China tell time by smell? Incense clocks burned a trail of incense powder pressed into a maze in ash, and switching to a different incense at set marks meant the room's smell changed as time passed.\n\nSources:\nhttps://en.wikipedia.org/wiki/Incense_clock\nhttps://museum.seiko.co.jp/en/knowledge/ElementalTimepieces03/\nhttps://www.iflscience.com/in-medieval-china-and-japan-clever-devices-allowed-you-to-smell-what-time-it-is-83651\n\nAnimated in the Ukiyo-e Woodblock style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #history #howitworks #japan\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Ukiyo-e Woodblock style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/G8kuLnqTM0Q",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-10-27T12:28:44.481414+00:00",
+      "slot": "2026-10-28T23:15:00+00:00"
     },
     "2026-10-26-105": {
       "topic": {
@@ -10657,12 +8447,12 @@
         "format": "animated",
         "style": "Ukiyo-e Woodblock"
       },
-      "status": "approved",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261026-incense-clock-v2",
       "redos": 0,
-      "updated": "2026-10-26T17:41:15.803684+00:00",
+      "updated": "2026-10-27T12:28:47.911653+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Ukiyo-e Woodblock style). Voice: Kokoro text-to-speech."
       ],
@@ -10679,7 +8469,28 @@
       "srt": "1\n00:00:00,250 --> 00:00:02,110\nHow did people in old Japan\n\n2\n00:00:02,410 --> 00:00:03,790\nsmell what time it was?\n\n3\n00:00:04,340 --> 00:00:05,810\nNo gears. No ticking.\n\n4\n00:00:06,360 --> 00:00:07,740\nJust a box of ash.\n\n5\n00:00:08,290 --> 00:00:10,250\nFirst, they smoothed white ash flat,\n\n6\n00:00:10,550 --> 00:00:11,930\nand pressed a stamp into it.\n\n7\n00:00:12,480 --> 00:00:13,730\nThat left a groove,\n\n8\n00:00:14,030 --> 00:00:16,030\na maze that snakes back and forth.\n\n9\n00:00:16,580 --> 00:00:18,690\nThey filled the groove with incense powder:\n\n10\n00:00:18,990 --> 00:00:20,360\none long, thin trail.\n\n11\n00:00:20,910 --> 00:00:21,920\nLight one end,\n\n12\n00:00:22,220 --> 00:00:24,380\nand a tiny ember crawls through the maze,\n\n13\n00:00:24,680 --> 00:00:26,160\nat a nearly steady speed.\n\n14\n00:00:26,710 --> 00:00:28,020\nHere's the clever part.\n\n15\n00:00:28,570 --> 00:00:30,280\nAt set marks along the trail,\n\n16\n00:00:30,580 --> 00:00:32,380\nthey switched to a different incense.\n\n17\n00:00:32,930 --> 00:00:34,890\nSo when the smell in the room changed,\n\n18\n00:00:35,190 --> 00:00:36,780\nyou knew more time had passed.\n\n19\n00:00:37,330 --> 00:00:39,510\nSome trails burned for twelve hours.\n\n20\n00:00:40,060 --> 00:00:41,580\nSome lasted a whole month.\n\n21\n00:00:42,130 --> 00:00:44,040\nA few even dropped a little ball\n\n22\n00:00:44,340 --> 00:00:46,100\nonto a tray, like an alarm.\n\n23\n00:00:46,650 --> 00:00:49,430\nSo, what time does your room smell like right now?\n\n",
       "tg_msg": 833,
       "approved_by": "auto",
-      "quota_note": "2026-10-27"
+      "quota_note": "2026-10-27",
+      "description_full": "How did people in old Japan and China tell time by smell? Incense clocks burned a trail of incense powder pressed into a maze in ash, and switching to a different incense at set marks meant the room's smell changed as time passed.\n\nSources:\nhttps://en.wikipedia.org/wiki/Incense_clock\nhttps://museum.seiko.co.jp/en/knowledge/ElementalTimepieces03/\nhttps://www.iflscience.com/in-medieval-china-and-japan-clever-devices-allowed-you-to-smell-what-time-it-is-83651\n\nAnimated in the Ukiyo-e Woodblock style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #history #howitworks #japan\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Ukiyo-e Woodblock style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/XGJMOrHOSIM",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-10-27T12:28:47.911672+00:00",
+      "slot": "2026-10-29T01:15:00+00:00"
     },
     "2026-10-26-106": {
       "topic": {
@@ -10729,12 +8540,12 @@
         "format": "animated",
         "style": "Synthwave Outrun"
       },
-      "status": "approved",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261026-plane-toilet-v2",
       "redos": 0,
-      "updated": "2026-10-26T17:43:11.624069+00:00",
+      "updated": "2026-10-27T12:28:50.360027+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Synthwave Outrun style). Voice: Kokoro text-to-speech."
       ],
@@ -10747,7 +8558,28 @@
       "srt": "1\n00:00:00,250 --> 00:00:01,840\nHow does a plane toilet flush\n\n2\n00:00:02,140 --> 00:00:03,860\nat thirty-five thousand feet?\n\n3\n00:00:04,410 --> 00:00:05,840\nIt barely uses water.\n\n4\n00:00:06,390 --> 00:00:07,700\nIt uses the sky.\n\n5\n00:00:08,250 --> 00:00:09,920\nYour cabin is pressurized,\n\n6\n00:00:10,220 --> 00:00:11,800\npacked with air like a balloon.\n\n7\n00:00:12,350 --> 00:00:14,240\nOutside, the air is super thin.\n\n8\n00:00:14,790 --> 00:00:15,770\nPress the button,\n\n9\n00:00:16,070 --> 00:00:17,530\nand a valve opens a pipe\n\n10\n00:00:17,830 --> 00:00:19,910\nfrom the bowl to that thin outside air.\n\n11\n00:00:20,460 --> 00:00:22,090\nThe high pressure in the cabin\n\n12\n00:00:22,390 --> 00:00:24,190\nshoves everything down the pipe.\n\n13\n00:00:24,740 --> 00:00:25,680\nThat's the whoosh.\n\n14\n00:00:26,230 --> 00:00:28,710\nIt all lands in a tank at the back of the plane.\n\n15\n00:00:29,260 --> 00:00:30,860\nAbout three seconds later,\n\n16\n00:00:31,160 --> 00:00:32,400\nthe valve slams shut.\n\n17\n00:00:32,950 --> 00:00:34,840\nBut below sixteen thousand feet,\n\n18\n00:00:35,140 --> 00:00:36,970\nthe outside air isn't thin enough,\n\n19\n00:00:37,270 --> 00:00:39,960\nso an electric pump makes the vacuum instead.\n\n20\n00:00:40,510 --> 00:00:42,910\nAnd no, nothing gets dumped in the sky.\n\n21\n00:00:43,460 --> 00:00:46,020\nGround crews empty the tank after landing.\n\n22\n00:00:46,570 --> 00:00:47,570\nSo, next flight,\n\n23\n00:00:47,870 --> 00:00:49,420\nare you brave enough to press it?\n\n",
       "tg_msg": 835,
       "approved_by": "auto",
-      "quota_note": "2026-10-27"
+      "quota_note": "2026-10-27",
+      "description_full": "How does an airplane toilet flush? Plane toilets are vacuum toilets: a valve opens the bowl to the thin air outside, the higher cabin pressure shoves everything into a tank at the back, and below 16,000 feet an electric vacuum pump does the job instead.\n\nSources:\nhttps://satelliteindustries.com/blog/vacuum-toilet-system-in-aircraft\nhttps://thepointsguy.com/news/how-airplane-toilets-work/\nhttps://aerocorner.com/blog/how-airplane-toilets-work/\n\nAnimated in the Synthwave Outrun style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #science #howitworks #aviation\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Synthwave Outrun style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/iA4pHVWE1mk",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-10-27T12:28:50.360047+00:00",
+      "slot": "2026-10-29T16:15:00+00:00"
     },
     "2026-10-26-107": {
       "topic": {
@@ -10801,12 +8633,12 @@
         "format": "long",
         "style": "Kawaii Anime"
       },
-      "status": "approved",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261026-food-journey-v2",
       "redos": 0,
-      "updated": "2026-10-26T17:43:47.179313+00:00",
+      "updated": "2026-10-27T12:28:58.850685+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech."
       ],
@@ -10823,7 +8655,16 @@
       "srt": "1\n00:00:00,250 --> 00:00:02,040\nWhat actually happens to your food,\n\n2\n00:00:02,340 --> 00:00:03,480\nafter you swallow it?\n\n3\n00:00:04,030 --> 00:00:06,210\nIt's one of the longest trips in your body.\n\n4\n00:00:06,760 --> 00:00:08,180\nAnd for most of history,\n\n5\n00:00:08,480 --> 00:00:10,440\nnobody really knew how it worked.\n\n6\n00:00:10,990 --> 00:00:13,130\nMany ancient doctors thought the stomach\n\n7\n00:00:13,430 --> 00:00:15,390\nsimply cooked your food, like a pot.\n\n8\n00:00:15,940 --> 00:00:17,810\nThen, in the seventeen hundreds,\n\n9\n00:00:18,110 --> 00:00:19,650\nscientists fed animals\n\n10\n00:00:19,950 --> 00:00:22,300\nfood sealed inside little metal tubes.\n\n11\n00:00:22,850 --> 00:00:24,290\nThe food couldn't be squished,\n\n12\n00:00:24,590 --> 00:00:25,890\nbut it still dissolved.\n\n13\n00:00:26,440 --> 00:00:29,100\nItalian scientist Lazzaro Spallanzani\n\n14\n00:00:29,400 --> 00:00:31,010\neven tried it on himself,\n\n15\n00:00:31,310 --> 00:00:33,560\nswallowing tiny linen bags of food.\n\n16\n00:00:34,110 --> 00:00:35,620\nThe answer was a liquid.\n\n17\n00:00:36,170 --> 00:00:37,840\nHe called it gastric juice.\n\n18\n00:00:38,390 --> 00:00:39,880\nSo let's follow one bite,\n\n19\n00:00:40,180 --> 00:00:41,260\nall the way through.\n\n20\n00:00:41,810 --> 00:00:43,120\nStep one: your mouth.\n\n21\n00:00:43,670 --> 00:00:45,570\nYour teeth crush the bite into mush,\n\n22\n00:00:45,870 --> 00:00:47,120\nand saliva soaks it.\n\n23\n00:00:47,670 --> 00:00:50,190\nSaliva holds an enzyme called amylase,\n\n24\n00:00:50,490 --> 00:00:52,520\nthat starts turning starch into sugar,\n\n25\n00:00:52,820 --> 00:00:54,190\nbefore you even swallow.\n\n26\n00:00:54,740 --> 00:00:56,710\nThen your tongue pushes the food back,\n\n27\n00:00:57,010 --> 00:00:59,030\nand a tiny flap, the epiglottis,\n\n28\n00:00:59,330 --> 00:01:01,220\nfolds down over your windpipe,\n\n29\n00:01:01,520 --> 00:01:03,270\nso nothing goes the wrong way.\n\n30\n00:01:03,820 --> 00:01:05,930\nNow the food enters the esophagus,\n\n31\n00:01:06,230 --> 00:01:09,190\na muscle tube about twenty-five centimeters long.\n\n32\n00:01:09,740 --> 00:01:10,950\nIt doesn't just fall.\n\n33\n00:01:11,500 --> 00:01:13,480\nRings of muscle squeeze behind it,\n\n34\n00:01:13,780 --> 00:01:15,360\nlike toothpaste in a tube.\n\n35\n00:01:15,910 --> 00:01:17,420\nThat's called peristalsis.\n\n36\n00:01:17,970 --> 00:01:19,940\nThe trip takes about nine seconds,\n\n37\n00:01:20,240 --> 00:01:22,050\nand it works even upside down.\n\n38\n00:01:22,600 --> 00:01:23,920\nNext stop, the stomach.\n\n39\n00:01:24,470 --> 00:01:26,110\nIt's a stretchy bag of muscle,\n\n40\n00:01:26,410 --> 00:01:28,230\nfilled with hydrochloric acid.\n\n41\n00:01:28,780 --> 00:01:31,430\nStomach acid can drop to around pH two,\n\n42\n00:01:31,730 --> 00:01:33,620\nabout as sour as lemon juice.\n\n43\n00:01:34,170 --> 00:01:35,820\nIt kills a lot of germs,\n\n44\n00:01:36,120 --> 00:01:38,000\nand helps an enzyme called pepsin\n\n45\n00:01:38,300 --> 00:01:39,840\nstart chopping up protein.\n\n46\n00:01:40,390 --> 00:01:41,890\nAbout three times a minute,\n\n47\n00:01:42,190 --> 00:01:44,190\nthe stomach walls squeeze and churn,\n\n48\n00:01:44,490 --> 00:01:47,180\nmixing everything into a thick soup called chyme.\n\n49\n00:01:47,730 --> 00:01:49,620\nThat can take two to four hours.\n\n50\n00:01:50,170 --> 00:01:52,650\nSo why doesn't your stomach digest itself?\n\n51\n00:01:53,200 --> 00:01:55,460\nIts lining makes a thick coat of mucus,\n\n52\n00:01:55,760 --> 00:01:57,970\nplus bicarbonate to calm the acid.\n\n53\n00:01:58,520 --> 00:02:01,560\nAnd the lining cells get replaced every few days.\n\n54\n00:02:02,110 --> 00:02:03,710\nThen a little valve opens,\n\n55\n00:02:04,010 --> 00:02:06,500\nand lets the chyme out, a squirt at a time,\n\n56\n00:02:06,800 --> 00:02:08,320\ninto the small intestine.\n\n57\n00:02:08,870 --> 00:02:11,160\nThis is where the real magic happens.\n\n58\n00:02:11,710 --> 00:02:13,330\nIt's about five meters long,\n\n59\n00:02:13,630 --> 00:02:15,260\ncoiled up inside your belly.\n\n60\n00:02:15,810 --> 00:02:17,240\nYour liver sends in bile,\n\n61\n00:02:17,540 --> 00:02:19,800\nwhich breaks fat into tiny droplets.\n\n62\n00:02:20,350 --> 00:02:22,340\nYour pancreas adds more enzymes,\n\n63\n00:02:22,640 --> 00:02:24,340\nand neutralizes the acid.\n\n64\n00:02:24,890 --> 00:02:28,110\nThe walls are covered in millions of tiny fingers,\n\n65\n00:02:28,410 --> 00:02:29,320\ncalled villi,\n\n66\n00:02:29,620 --> 00:02:32,770\nand those are covered in even tinier microvilli.\n\n67\n00:02:33,320 --> 00:02:36,300\nSpread flat, scientists estimate your gut lining\n\n68\n00:02:36,600 --> 00:02:38,850\ncovers about thirty-two square meters.\n\n69\n00:02:39,400 --> 00:02:41,050\nThat's half a badminton court!\n\n70\n00:02:41,600 --> 00:02:43,690\nOld textbooks said a whole tennis court,\n\n71\n00:02:43,990 --> 00:02:45,760\nbut half a court is still huge.\n\n72\n00:02:46,310 --> 00:02:48,210\nRight here, most of the nutrients\n\n73\n00:02:48,510 --> 00:02:49,780\nslip into your blood.\n\n74\n00:02:50,330 --> 00:02:52,850\nWhat's left moves on to the large intestine.\n\n75\n00:02:53,400 --> 00:02:56,570\nIt's wider, but only about one and a half meters long.\n\n76\n00:02:57,120 --> 00:02:59,180\nIts main job is soaking up water.\n\n77\n00:02:59,730 --> 00:03:01,950\nAnd it's home to trillions of bacteria.\n\n78\n00:03:02,500 --> 00:03:05,700\nScientists estimate about thirty-eight trillion live in you,\n\n79\n00:03:06,000 --> 00:03:07,230\nmostly right here.\n\n80\n00:03:07,780 --> 00:03:09,880\nThey munch the fiber you can't digest,\n\n81\n00:03:10,180 --> 00:03:12,050\nand make some vitamins in return.\n\n82\n00:03:12,600 --> 00:03:14,620\nSo how long does the whole trip take?\n\n83\n00:03:15,170 --> 00:03:18,200\nAbout six hours through the stomach and small intestine,\n\n84\n00:03:18,500 --> 00:03:21,550\nand up to another two days in the large intestine.\n\n85\n00:03:22,100 --> 00:03:23,890\nWhatever your body can't use,\n\n86\n00:03:24,190 --> 00:03:25,250\nleaves at the end.\n\n87\n00:03:25,800 --> 00:03:26,660\nBut the rest?\n\n88\n00:03:27,210 --> 00:03:28,950\nThat bite became your energy,\n\n89\n00:03:29,250 --> 00:03:30,140\nyour muscles,\n\n90\n00:03:30,440 --> 00:03:32,510\neven the thoughts you're having right now.\n\n91\n00:03:33,060 --> 00:03:34,430\nSo which food do you think\n\n92\n00:03:34,730 --> 00:03:36,100\ntakes the longest trip?\n\n",
       "tg_msg": 836,
       "approved_by": "auto",
-      "quota_note": "2026-10-27"
+      "quota_note": "2026-10-27",
+      "description_full": "What actually happens to your food after you swallow it? Follow one bite through the whole digestive system: chewing and saliva, the esophagus and peristalsis, stomach acid and chyme, the small intestine's villi, the large intestine and its trillions of gut bacteria.\n\nChapters:\n0:00 The digestion mystery\n0:41 The mouth\n1:22 The stomach\n2:01 The small intestine\n2:49 The large intestine\n3:12 The whole trip\n\nSources:\nhttps://www.mayoclinic.org/digestive-system/expert-answers/faq-20058340\nhttps://en.wikipedia.org/wiki/Small_intestine\nhttps://popsci.com/article/science/human-gut-has-surface-area-studio-apartment\n\nAnimated in the Kawaii Anime style.\n\nFollow Zorbly AI for a new Short every day.\n\n#science #humanbody #digestion\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/loF3cKuP7tg",
+          "private \u00b7 thumbnail \u2705"
+        ]
+      },
+      "uploaded_at": "2026-10-27T12:28:58.850703+00:00",
+      "slot": "2026-10-29T19:15:00+00:00"
     },
     "2026-10-26-108": {
       "topic": {
@@ -10970,6 +8811,149 @@
       "tg_msg": 843,
       "approved_by": "auto",
       "quota_note": "2026-10-27"
+    },
+    "2026-10-27-102": {
+      "topic": {
+        "title": "Electricity Explained in Simple Words: how power gets from the plant to your outlet",
+        "format": "long",
+        "angle": "Synthwave Outrun"
+      },
+      "package": {
+        "title": "How Electricity Reaches Your Outlet in 4 Stops",
+        "description": "How does electricity get from the power plant to your outlet? Electricity explained in simple words: how a generator's spinning magnet makes alternating current, why step-up transformers push power lines up to 765,000 volts, how substations and pole transformers bring it down to 120 volts, and what the hot, neutral and ground holes in your outlet do.\n\nChapters:\n0:00 From 765,000 volts to 120\n0:17 Stop 1: The power plant\n1:11 Stop 2: The voltage jump\n1:52 Stop 3: The step back down\n2:22 Stop 4: Your walls\n2:52 The wildest part\n\nSources:\nhttps://eli.lehigh.edu/support/electricity/electricity-generation-page-6\nhttps://www.scienceabc.com/nature/what-is-the-speed-of-electricity.html\nhttps://www.eia.gov/tools/faqs/faq.php?id=105\n\nAnimated in the Synthwave Outrun style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#science",
+          "#electricity",
+          "#howitworks"
+        ],
+        "tags": [
+          "electricity explained",
+          "how electricity works",
+          "how electricity gets to your house",
+          "power grid explained",
+          "how a generator works",
+          "alternating current",
+          "step-up transformer",
+          "high voltage power lines",
+          "substation",
+          "pole transformer",
+          "electrical outlet holes",
+          "hot neutral ground",
+          "electron drift speed",
+          "science explained",
+          "synthwave animation"
+        ],
+        "category": "27",
+        "pinned_comment": "Before this video, did you think the electrons themselves raced from the power plant to your outlet? \u26a1",
+        "thumbnail_text": "765,000 VOLTS",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "Up to seven hundred sixty-five thousand volts flow through the biggest power lines, yet your outlet gives you just a hundred twenty. Here's how. It all starts with a spinning magnet, maybe hundreds of miles away. So let's follow the trip, in simple words. Stop one: the power plant. Almost every power plant does the same job. It spins something. Coal, gas and nuclear plants boil water into steam. Dams use falling water. Wind farms use, well, wind. All of it pushes the blades of a turbine, and the turbine spins a giant magnet inside coils of copper wire. Here's the trick, found by Michael Faraday back in 1831. When a magnet moves past a wire, it shoves the electrons inside that wire. Spin it nonstop, and you get a nonstop push. That push is electricity. And because the magnet keeps flipping north and south, the push swings back and forth too. In the US, it swings sixty times every second. In most of the world, it's fifty. That's called alternating current. Stop two: the voltage jump. A generator makes about twenty thousand volts. But right outside the plant, a step-up transformer cranks it way higher, up to seven hundred sixty-five thousand volts on the biggest lines. Why make it so extreme? Think of a garden hose. You can move a lot of water slowly through a fat hose, or the same water super fast through a thin one. Power lines work the same way. Crank the voltage up, and the current, the flow, drops way down. Less current means less heat wasted in the wires. Even so, about five percent of the power is lost as heat along the way. Stop three: the step back down. Seven hundred thousand volts would fry your toaster instantly. So the lines run into a substation, where big transformers drop it to a few thousand volts. Those smaller lines run down your street. Then one last transformer, that gray can on the pole, or a green box on the lawn, brings it down to what your house uses: a hundred twenty volts in the US, around two hundred thirty in much of the world. Stop four: your walls. The wire enters through a meter, which counts every bit you use, and then a breaker panel, which cuts the power if a wire gets too hot. From there, cables run to every outlet. And those holes aren't random. On a US outlet, the short slot is hot. That's where the push comes in. The tall slot is neutral, the path back. And the round hole is ground, a safety exit if something goes wrong. Now the wildest part. Flip a switch, and the light turns on instantly. But the electrons in the wire barely move. They crawl slower than a snail, mostly just wiggling back and forth. What races through the wire is the push itself, moving at close to the speed of light. So the energy in your charger left that spinning magnet a split second ago. Twenty thousand volts, then seven hundred sixty-five thousand, then down to the wall, all in the blink of an eye. Next time: if Earth is spinning so fast, why don't we fly off?",
+        "key_facts": [
+          "Most power plants spin a turbine (steam from coal, gas or nuclear; falling water; wind) that turns a magnet inside copper coils; Faraday discovered electromagnetic induction in 1831",
+          "Grid power is alternating current: 60 Hz in the US, 50 Hz in most of the world",
+          "Generators put out roughly 20,000 volts (commonly cited 10,000-25,000); step-up transformers raise it to as much as 765,000 V on the biggest US lines",
+          "Higher voltage means lower current for the same power, so less is lost as heat; about 5% of US electricity is lost in transmission and distribution (EIA estimate)",
+          "Substations step down to a few thousand volts for distribution; pole-top or pad-mounted transformers bring it to 120/240 V in US homes (about 230 V in much of the world)",
+          "On a US outlet the shorter slot is hot, the taller slot is neutral and the round hole is ground",
+          "Electrons drift slowly (fractions of a millimetre per second) while the electrical signal/energy travels at a large fraction of the speed of light"
+        ],
+        "voice": "Kokoro",
+        "format": "long",
+        "style": "Synthwave Outrun"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261027-electricity",
+      "redos": 0,
+      "updated": "2026-10-27T12:28:12.313111+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Synthwave Outrun style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-27",
+        "name": "2026-10-27-102.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-27",
+        "name": "2026-10-27-102-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:03,010\nUp to seven hundred sixty-five thousand volts\n\n2\n00:00:03,310 --> 00:00:05,220\nflow through the biggest power lines,\n\n3\n00:00:05,520 --> 00:00:08,260\nyet your outlet gives you just a hundred twenty.\n\n4\n00:00:08,810 --> 00:00:09,670\nHere's how.\n\n5\n00:00:10,220 --> 00:00:12,190\nIt all starts with a spinning magnet,\n\n6\n00:00:12,490 --> 00:00:14,330\nmaybe hundreds of miles away.\n\n7\n00:00:14,880 --> 00:00:17,330\nSo let's follow the trip, in simple words.\n\n8\n00:00:17,880 --> 00:00:19,490\nStop one: the power plant.\n\n9\n00:00:20,040 --> 00:00:22,730\nAlmost every power plant does the same job.\n\n10\n00:00:23,280 --> 00:00:24,460\nIt spins something.\n\n11\n00:00:25,010 --> 00:00:28,440\nCoal, gas and nuclear plants boil water into steam.\n\n12\n00:00:28,990 --> 00:00:30,480\nDams use falling water.\n\n13\n00:00:31,030 --> 00:00:32,960\nWind farms use, well, wind.\n\n14\n00:00:33,510 --> 00:00:35,860\nAll of it pushes the blades of a turbine,\n\n15\n00:00:36,160 --> 00:00:38,240\nand the turbine spins a giant magnet\n\n16\n00:00:38,540 --> 00:00:40,370\ninside coils of copper wire.\n\n17\n00:00:40,920 --> 00:00:46,070\nHere's the trick, found by Michael Faraday back in 1831.\n\n18\n00:00:46,620 --> 00:00:48,580\nWhen a magnet moves past a wire,\n\n19\n00:00:48,880 --> 00:00:51,320\nit shoves the electrons inside that wire.\n\n20\n00:00:51,870 --> 00:00:54,900\nSpin it nonstop, and you get a nonstop push.\n\n21\n00:00:55,450 --> 00:00:57,060\nThat push is electricity.\n\n22\n00:00:57,610 --> 00:01:00,230\nAnd because the magnet keeps flipping north and south,\n\n23\n00:01:00,530 --> 00:01:02,330\nthe push swings back and forth too.\n\n24\n00:01:02,880 --> 00:01:06,140\nIn the US, it swings sixty times every second.\n\n25\n00:01:06,690 --> 00:01:08,540\nIn most of the world, it's fifty.\n\n26\n00:01:09,090 --> 00:01:11,000\nThat's called alternating current.\n\n27\n00:01:11,550 --> 00:01:13,310\nStop two: the voltage jump.\n\n28\n00:01:13,860 --> 00:01:16,840\nA generator makes about twenty thousand volts.\n\n29\n00:01:17,390 --> 00:01:18,950\nBut right outside the plant,\n\n30\n00:01:19,250 --> 00:01:21,610\na step-up transformer cranks it way higher,\n\n31\n00:01:21,910 --> 00:01:24,670\nup to seven hundred sixty-five thousand volts\n\n32\n00:01:24,970 --> 00:01:26,280\non the biggest lines.\n\n33\n00:01:26,830 --> 00:01:28,370\nWhy make it so extreme?\n\n34\n00:01:28,920 --> 00:01:30,420\nThink of a garden hose.\n\n35\n00:01:30,970 --> 00:01:33,930\nYou can move a lot of water slowly through a fat hose,\n\n36\n00:01:34,230 --> 00:01:36,750\nor the same water super fast through a thin one.\n\n37\n00:01:37,300 --> 00:01:39,030\nPower lines work the same way.\n\n38\n00:01:39,580 --> 00:01:40,790\nCrank the voltage up,\n\n39\n00:01:41,090 --> 00:01:43,550\nand the current, the flow, drops way down.\n\n40\n00:01:44,100 --> 00:01:47,040\nLess current means less heat wasted in the wires.\n\n41\n00:01:47,590 --> 00:01:50,090\nEven so, about five percent of the power\n\n42\n00:01:50,390 --> 00:01:52,240\nis lost as heat along the way.\n\n43\n00:01:52,790 --> 00:01:54,620\nStop three: the step back down.\n\n44\n00:01:55,170 --> 00:01:59,020\nSeven hundred thousand volts would fry your toaster instantly.\n\n45\n00:01:59,570 --> 00:02:01,750\nSo the lines run into a substation,\n\n46\n00:02:02,050 --> 00:02:03,750\nwhere big transformers drop it\n\n47\n00:02:04,050 --> 00:02:05,620\nto a few thousand volts.\n\n48\n00:02:06,170 --> 00:02:08,390\nThose smaller lines run down your street.\n\n49\n00:02:08,940 --> 00:02:10,580\nThen one last transformer,\n\n50\n00:02:10,880 --> 00:02:14,240\nthat gray can on the pole, or a green box on the lawn,\n\n51\n00:02:14,540 --> 00:02:16,820\nbrings it down to what your house uses:\n\n52\n00:02:17,120 --> 00:02:19,150\na hundred twenty volts in the US,\n\n53\n00:02:19,450 --> 00:02:22,260\naround two hundred thirty in much of the world.\n\n54\n00:02:22,810 --> 00:02:24,340\nStop four: your walls.\n\n55\n00:02:24,890 --> 00:02:26,580\nThe wire enters through a meter,\n\n56\n00:02:26,880 --> 00:02:28,720\nwhich counts every bit you use,\n\n57\n00:02:29,020 --> 00:02:30,320\nand then a breaker panel,\n\n58\n00:02:30,620 --> 00:02:33,130\nwhich cuts the power if a wire gets too hot.\n\n59\n00:02:33,680 --> 00:02:36,040\nFrom there, cables run to every outlet.\n\n60\n00:02:36,590 --> 00:02:38,290\nAnd those holes aren't random.\n\n61\n00:02:38,840 --> 00:02:41,520\nOn a US outlet, the short slot is hot.\n\n62\n00:02:42,070 --> 00:02:43,510\nThat's where the push comes in.\n\n63\n00:02:44,060 --> 00:02:45,640\nThe tall slot is neutral,\n\n64\n00:02:45,940 --> 00:02:46,900\nthe path back.\n\n65\n00:02:47,450 --> 00:02:49,030\nAnd the round hole is ground,\n\n66\n00:02:49,330 --> 00:02:51,560\na safety exit if something goes wrong.\n\n67\n00:02:52,110 --> 00:02:53,490\nNow the wildest part.\n\n68\n00:02:54,040 --> 00:02:56,880\nFlip a switch, and the light turns on instantly.\n\n69\n00:02:57,430 --> 00:02:59,920\nBut the electrons in the wire barely move.\n\n70\n00:03:00,470 --> 00:03:02,110\nThey crawl slower than a snail,\n\n71\n00:03:02,410 --> 00:03:04,560\nmostly just wiggling back and forth.\n\n72\n00:03:05,110 --> 00:03:07,770\nWhat races through the wire is the push itself,\n\n73\n00:03:08,070 --> 00:03:09,910\nmoving at close to the speed of light.\n\n74\n00:03:10,460 --> 00:03:13,600\nSo the energy in your charger left that spinning magnet\n\n75\n00:03:13,900 --> 00:03:15,200\na split second ago.\n\n76\n00:03:15,750 --> 00:03:19,730\nTwenty thousand volts, then seven hundred sixty-five thousand,\n\n77\n00:03:20,030 --> 00:03:21,380\nthen down to the wall,\n\n78\n00:03:21,680 --> 00:03:23,180\nall in the blink of an eye.\n\n79\n00:03:23,730 --> 00:03:26,340\nNext time: if Earth is spinning so fast,\n\n80\n00:03:26,640 --> 00:03:27,920\nwhy don't we fly off?\n\n",
+      "tg_msg": 855
+    },
+    "2026-10-27-103": {
+      "topic": {
+        "title": "How was Velcro invented?",
+        "format": "animated",
+        "angle": "Chalkboard Lesson"
+      },
+      "package": {
+        "title": "How a Weed Invented Velcro in 1941 \ud83e\udd14",
+        "description": "How was Velcro invented? In 1941 Swiss engineer George de Mestral found burdock burrs stuck to his dog after a hike, saw tiny hooks under a microscope, and spent about ten years copying them in nylon hook-and-loop tape, patented in 1955.\n\nSources:\nhttps://en.wikipedia.org/wiki/George_de_Mestral\nhttps://www.history.com/articles/velcro-invention\n\nAnimated in the Chalkboard Lesson style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#inventions",
+          "#howitworks",
+          "#velcro"
+        ],
+        "tags": [
+          "velcro",
+          "how was velcro invented",
+          "velcro invention",
+          "george de mestral",
+          "hook and loop",
+          "burdock burrs",
+          "biomimicry",
+          "invention stories",
+          "how it works",
+          "science shorts",
+          "history of inventions",
+          "everyday science",
+          "zorbly ai"
+        ],
+        "category": "27",
+        "pinned_comment": "Be honest: when your Velcro shoes rip open, do you blame the weed or the dog? \ud83d\udc47",
+        "thumbnail_text": "HOOKS + LOOPS",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "A weed invented your Velcro,\nin nineteen forty-one,\nand almost nobody believed it.\nA Swiss engineer, George de Mestral,\ntook his dog hiking in the Alps.\nThey came home covered in burrs,\nthe spiky seed heads of burdock.\nUnder a microscope,\nevery spike ended in a tiny hook,\nand his clothes were full of tiny loops.\nHook meets loop,\nand they grab on.\nSo he tried to copy it.\nCotton wore out too fast.\nNylon worked,\nsewn under hot infrared light\ninto stiff little hooks.\nIt took him about ten years,\nand the patent came in nineteen fifty-five.\nHe named it from two French words,\nvelours, for velvet,\nand crochet, for hook.\nAstronauts used it\nto keep snack pouches from floating away.\nSo when your shoe straps rip open,\ndo you blame the weed, or the dog?",
+        "key_facts": [
+          "In 1941, after a hunting trip in the Alps with his dog, George de Mestral found burdock burrs stuck to his clothes and the dog's fur",
+          "Under a microscope the burrs showed many tiny hooks that caught on loops in fabric and fur",
+          "Early cotton versions wore out quickly; nylon proved durable",
+          "Nylon hooks were formed by sewing nylon under hot infrared light",
+          "Development took about ten years; Swiss patent filed 1951, granted 1955",
+          "The name Velcro blends French velours (velvet) and crochet (hook)",
+          "NASA used Velcro on Apollo missions, including to hold food pouches in place in zero gravity"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Chalkboard Lesson"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261027-velcro",
+      "redos": 0,
+      "updated": "2026-10-27T12:28:18.942335+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Chalkboard Lesson style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-27",
+        "name": "2026-10-27-103.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-27",
+        "name": "2026-10-27-103-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:02,100\nA weed invented your Velcro,\n\n2\n00:00:02,400 --> 00:00:03,800\nin nineteen forty-one,\n\n3\n00:00:04,100 --> 00:00:05,820\nand almost nobody believed it.\n\n4\n00:00:06,370 --> 00:00:08,780\nA Swiss engineer, George de Mestral,\n\n5\n00:00:09,080 --> 00:00:10,980\ntook his dog hiking in the Alps.\n\n6\n00:00:11,530 --> 00:00:13,450\nThey came home covered in burrs,\n\n7\n00:00:13,750 --> 00:00:15,670\nthe spiky seed heads of burdock.\n\n8\n00:00:16,220 --> 00:00:17,440\nUnder a microscope,\n\n9\n00:00:17,740 --> 00:00:19,750\nevery spike ended in a tiny hook,\n\n10\n00:00:20,050 --> 00:00:22,310\nand his clothes were full of tiny loops.\n\n11\n00:00:22,860 --> 00:00:23,980\nHook meets loop,\n\n12\n00:00:24,280 --> 00:00:25,320\nand they grab on.\n\n13\n00:00:25,870 --> 00:00:27,210\nSo he tried to copy it.\n\n14\n00:00:27,760 --> 00:00:29,320\nCotton wore out too fast.\n\n15\n00:00:29,870 --> 00:00:30,930\nNylon worked,\n\n16\n00:00:31,230 --> 00:00:33,010\nsewn under hot infrared light\n\n17\n00:00:33,310 --> 00:00:34,640\ninto stiff little hooks.\n\n18\n00:00:35,190 --> 00:00:36,730\nIt took him about ten years,\n\n19\n00:00:37,030 --> 00:00:39,300\nand the patent came in nineteen fifty-five.\n\n20\n00:00:39,850 --> 00:00:41,730\nHe named it from two French words,\n\n21\n00:00:42,030 --> 00:00:43,200\nvelours, for velvet,\n\n22\n00:00:43,500 --> 00:00:44,750\nand crochet, for hook.\n\n23\n00:00:45,300 --> 00:00:46,490\nAstronauts used it\n\n24\n00:00:46,790 --> 00:00:49,060\nto keep snack pouches from floating away.\n\n25\n00:00:49,610 --> 00:00:51,400\nSo when your shoe straps rip open,\n\n26\n00:00:51,700 --> 00:00:53,600\ndo you blame the weed, or the dog?\n\n",
+      "tg_msg": 856
     }
   },
   "history": [
@@ -11059,7 +9043,7 @@
   "visual_searches": {
     "2026-10-25": 3
   },
-  "signals_day": "2026-10-26",
+  "signals_day": "2026-10-27",
   "drops_done": {
     "drop/20261025-autumn-leaves": "2026-10-25-101",
     "drop/20261025-roman-hypocaust": "2026-10-25-102",
@@ -11071,7 +9055,9 @@
     "drop/20261026-plane-toilet-v2": "2026-10-26-106",
     "drop/20261026-food-journey-v2": "2026-10-26-107",
     "drop/20261026-bat-sleep": "2026-10-26-108",
-    "drop/20261026-smoke-detector": "2026-10-27-101"
+    "drop/20261026-smoke-detector": "2026-10-27-101",
+    "drop/20261027-electricity": "2026-10-27-102",
+    "drop/20261027-velcro": "2026-10-27-103"
   },
   "refs_day": "2026-10-27"
 }
