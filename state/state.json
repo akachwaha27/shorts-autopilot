@@ -1,5 +1,5 @@
 {
-  "tg_offset": 40455561,
+  "tg_offset": 40455562,
   "batches": {
     "2026-10-22": {
       "topics": [
@@ -9030,6 +9030,78 @@
       "approved_by": "you",
       "publish_now": false,
       "quota_note": "2026-10-27"
+    },
+    "2026-10-27-105": {
+      "topic": {
+        "title": "Why don't giraffes faint when they lift their heads?",
+        "format": "animated",
+        "angle": "Cut-Paper Diorama"
+      },
+      "package": {
+        "title": "A Giraffe's 11 kg Heart Stops It Fainting \ud83e\udd92",
+        "description": "Why don't giraffes faint when they lift their heads? A giraffe's brain sits about two meters above its heart, so it relies on an 11 kg heart pumping at about twice our blood pressure, one-way valves in its neck veins, and super-tight leg skin that works like compression socks.\n\nSources:\nhttps://knowablemagazine.org/article/living-world/2021/heads-up-cardiovascular-secrets-giraffes\nhttps://stanfordbloodcenter.org/for-giraffes-blood-circulation-is-a-tall-order/\nhttps://repository.up.ac.za/handle/2263/13994\n\nAnimated in the Cut-Paper Diorama style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#giraffe",
+          "#animalfacts",
+          "#science"
+        ],
+        "tags": [
+          "giraffe",
+          "why don't giraffes faint",
+          "giraffe heart",
+          "giraffe blood pressure",
+          "giraffe neck",
+          "animal facts",
+          "how giraffes drink",
+          "giraffe facts",
+          "animal science",
+          "explained",
+          "zorbly ai",
+          "cut paper animation"
+        ],
+        "category": "27",
+        "pinned_comment": "If you had a giraffe's heart, do you think you'd ever get dizzy again? \ud83e\udd92",
+        "thumbnail_text": "NEVER FAINTS",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "You'd faint with your brain two meters up. Giraffes never do. Why? A giraffe swings its head from the water, all the way up to the treetops, and nothing happens. First, a monster heart. It weighs about eleven kilos, with walls thick enough to pump at twice your blood pressure. Second, valves in the neck veins. When the head drops down to drink, they stop blood flooding back into the brain. Third, scientists think the neck veins store blood, and when the head swings up, it rushes to the heart for one extra-strong beat. But all that pressure would make anyone's legs swell, so giraffes wear built-in compression socks: super-tight skin around their legs. So, if you had a giraffe's heart, would you still get dizzy with your brain two meters up?",
+        "key_facts": [
+          "A giraffe's head sits about 2 m above its heart; head up to ~6 m above ground (Knowable Magazine)",
+          "Giraffe heart weighs about 25 lb / 11 kg (Stanford Blood Center)",
+          "Blood pressure at heart level ~220/180, roughly twice a human's (Knowable; Stanford)",
+          "Jugular vein valves stop backflow toward the brain when the head is lowered (Mitchell et al., Univ. of Pretoria)",
+          "Hypothesis: >1 L of blood pooled in neck veins returns to the heart when the head rises, giving a strong beat (Knowable, unconfirmed in awake giraffes)",
+          "Tight skin / dense connective tissue on the legs acts like support stockings (Knowable; Stanford)"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Cut-Paper Diorama"
+      },
+      "status": "approved",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261027-giraffe",
+      "redos": 0,
+      "updated": "2026-10-27T19:28:43.453854+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Cut-Paper Diorama style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-27",
+        "name": "2026-10-27-105.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-27",
+        "name": "2026-10-27-105-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:02,370\nYou'd faint with your brain two meters up.\n\n2\n00:00:02,920 --> 00:00:04,520\nGiraffes never do. Why?\n\n3\n00:00:05,070 --> 00:00:07,350\nA giraffe swings its head from the water,\n\n4\n00:00:07,650 --> 00:00:09,320\nall the way up to the treetops,\n\n5\n00:00:09,620 --> 00:00:10,840\nand nothing happens.\n\n6\n00:00:11,390 --> 00:00:12,880\nFirst, a monster heart.\n\n7\n00:00:13,430 --> 00:00:15,230\nIt weighs about eleven kilos,\n\n8\n00:00:15,530 --> 00:00:17,220\nwith walls thick enough to pump\n\n9\n00:00:17,520 --> 00:00:19,080\nat twice your blood pressure.\n\n10\n00:00:19,630 --> 00:00:21,560\nSecond, valves in the neck veins.\n\n11\n00:00:22,110 --> 00:00:23,960\nWhen the head drops down to drink,\n\n12\n00:00:24,260 --> 00:00:26,690\nthey stop blood flooding back into the brain.\n\n13\n00:00:27,240 --> 00:00:30,080\nThird, scientists think the neck veins store blood,\n\n14\n00:00:30,380 --> 00:00:31,750\nand when the head swings up,\n\n15\n00:00:32,050 --> 00:00:33,380\nit rushes to the heart\n\n16\n00:00:33,680 --> 00:00:35,450\nfor one extra-strong beat.\n\n17\n00:00:36,000 --> 00:00:37,150\nBut all that pressure\n\n18\n00:00:37,450 --> 00:00:39,000\nwould make anyone's legs swell,\n\n19\n00:00:39,300 --> 00:00:41,960\nso giraffes wear built-in compression socks:\n\n20\n00:00:42,260 --> 00:00:44,240\nsuper-tight skin around their legs.\n\n21\n00:00:44,790 --> 00:00:46,540\nSo, if you had a giraffe's heart,\n\n22\n00:00:46,840 --> 00:00:48,090\nwould you still get dizzy\n\n23\n00:00:48,390 --> 00:00:49,960\nwith your brain two meters up?\n\n",
+      "tg_msg": 868,
+      "approved_by": "you",
+      "publish_now": false,
+      "quota_note": "2026-10-27"
     }
   },
   "history": [
@@ -9134,7 +9206,8 @@
     "drop/20261026-smoke-detector": "2026-10-27-101",
     "drop/20261027-electricity": "2026-10-27-102",
     "drop/20261027-velcro": "2026-10-27-103",
-    "drop/20261027-pufferfish": "2026-10-27-104"
+    "drop/20261027-pufferfish": "2026-10-27-104",
+    "drop/20261027-giraffe": "2026-10-27-105"
   },
   "refs_day": "2026-10-27"
 }
