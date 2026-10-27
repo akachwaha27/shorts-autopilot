@@ -10947,7 +10947,7 @@
         "format": "animated",
         "style": "Flat-Vector Science"
       },
-      "status": "awaiting_approval",
+      "status": "approved",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261026-smoke-detector",
@@ -10967,7 +10967,9 @@
         "name": "2026-10-27-101-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:02,840\nYour smoke alarm might be radioactive.\n\n2\n00:00:03,390 --> 00:00:04,540\nNobody tells you,\n\n3\n00:00:04,840 --> 00:00:06,430\nbut that's how it smells smoke.\n\n4\n00:00:06,980 --> 00:00:08,950\nInside sits a speck of americium,\n\n5\n00:00:09,250 --> 00:00:11,640\nwhich fires out tiny alpha particles.\n\n6\n00:00:12,190 --> 00:00:13,510\nThey slam into the air\n\n7\n00:00:13,810 --> 00:00:15,350\nbetween two metal plates,\n\n8\n00:00:15,650 --> 00:00:17,290\nknocking electrons loose.\n\n9\n00:00:17,840 --> 00:00:19,760\nNow the air carries electricity,\n\n10\n00:00:20,060 --> 00:00:22,090\nso a tiny, steady current flows.\n\n11\n00:00:22,640 --> 00:00:23,870\nWhen smoke drifts in,\n\n12\n00:00:24,170 --> 00:00:26,820\nbits of smoke grab those charged particles.\n\n13\n00:00:27,370 --> 00:00:28,500\nThe current drops,\n\n14\n00:00:28,800 --> 00:00:30,190\nand the alarm screams.\n\n15\n00:00:30,740 --> 00:00:32,700\nOther alarms use light instead.\n\n16\n00:00:33,250 --> 00:00:35,660\nAn LED shines across a dark chamber,\n\n17\n00:00:35,960 --> 00:00:37,140\naway from a sensor.\n\n18\n00:00:37,690 --> 00:00:39,390\nNo smoke, no light hits it.\n\n19\n00:00:39,940 --> 00:00:41,590\nBut smoke scatters the beam,\n\n20\n00:00:41,890 --> 00:00:43,690\nbouncing light into the sensor.\n\n21\n00:00:44,240 --> 00:00:44,840\nBeep!\n\n22\n00:00:45,390 --> 00:00:46,580\nAnd that americium?\n\n23\n00:00:47,130 --> 00:00:49,950\nIts half-life is four hundred thirty-two years,\n\n24\n00:00:50,250 --> 00:00:52,620\nso it outlasts your alarm by centuries.\n\n25\n00:00:53,170 --> 00:00:54,850\nSo, is the one above your bed\n\n26\n00:00:55,150 --> 00:00:57,410\nradioactive, or running on light?\n\n",
-      "tg_msg": 843
+      "tg_msg": 843,
+      "approved_by": "auto",
+      "quota_note": "2026-10-27"
     }
   },
   "history": [
