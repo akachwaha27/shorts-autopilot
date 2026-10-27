@@ -1,5 +1,5 @@
 {
-  "tg_offset": 40455558,
+  "tg_offset": 40455561,
   "batches": {
     "2026-10-22": {
       "topics": [
@@ -8862,7 +8862,7 @@
         "format": "long",
         "style": "Synthwave Outrun"
       },
-      "status": "awaiting_approval",
+      "status": "approved",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261027-electricity",
@@ -8882,7 +8882,9 @@
         "name": "2026-10-27-102-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:03,010\nUp to seven hundred sixty-five thousand volts\n\n2\n00:00:03,310 --> 00:00:05,220\nflow through the biggest power lines,\n\n3\n00:00:05,520 --> 00:00:08,260\nyet your outlet gives you just a hundred twenty.\n\n4\n00:00:08,810 --> 00:00:09,670\nHere's how.\n\n5\n00:00:10,220 --> 00:00:12,190\nIt all starts with a spinning magnet,\n\n6\n00:00:12,490 --> 00:00:14,330\nmaybe hundreds of miles away.\n\n7\n00:00:14,880 --> 00:00:17,330\nSo let's follow the trip, in simple words.\n\n8\n00:00:17,880 --> 00:00:19,490\nStop one: the power plant.\n\n9\n00:00:20,040 --> 00:00:22,730\nAlmost every power plant does the same job.\n\n10\n00:00:23,280 --> 00:00:24,460\nIt spins something.\n\n11\n00:00:25,010 --> 00:00:28,440\nCoal, gas and nuclear plants boil water into steam.\n\n12\n00:00:28,990 --> 00:00:30,480\nDams use falling water.\n\n13\n00:00:31,030 --> 00:00:32,960\nWind farms use, well, wind.\n\n14\n00:00:33,510 --> 00:00:35,860\nAll of it pushes the blades of a turbine,\n\n15\n00:00:36,160 --> 00:00:38,240\nand the turbine spins a giant magnet\n\n16\n00:00:38,540 --> 00:00:40,370\ninside coils of copper wire.\n\n17\n00:00:40,920 --> 00:00:46,070\nHere's the trick, found by Michael Faraday back in 1831.\n\n18\n00:00:46,620 --> 00:00:48,580\nWhen a magnet moves past a wire,\n\n19\n00:00:48,880 --> 00:00:51,320\nit shoves the electrons inside that wire.\n\n20\n00:00:51,870 --> 00:00:54,900\nSpin it nonstop, and you get a nonstop push.\n\n21\n00:00:55,450 --> 00:00:57,060\nThat push is electricity.\n\n22\n00:00:57,610 --> 00:01:00,230\nAnd because the magnet keeps flipping north and south,\n\n23\n00:01:00,530 --> 00:01:02,330\nthe push swings back and forth too.\n\n24\n00:01:02,880 --> 00:01:06,140\nIn the US, it swings sixty times every second.\n\n25\n00:01:06,690 --> 00:01:08,540\nIn most of the world, it's fifty.\n\n26\n00:01:09,090 --> 00:01:11,000\nThat's called alternating current.\n\n27\n00:01:11,550 --> 00:01:13,310\nStop two: the voltage jump.\n\n28\n00:01:13,860 --> 00:01:16,840\nA generator makes about twenty thousand volts.\n\n29\n00:01:17,390 --> 00:01:18,950\nBut right outside the plant,\n\n30\n00:01:19,250 --> 00:01:21,610\na step-up transformer cranks it way higher,\n\n31\n00:01:21,910 --> 00:01:24,670\nup to seven hundred sixty-five thousand volts\n\n32\n00:01:24,970 --> 00:01:26,280\non the biggest lines.\n\n33\n00:01:26,830 --> 00:01:28,370\nWhy make it so extreme?\n\n34\n00:01:28,920 --> 00:01:30,420\nThink of a garden hose.\n\n35\n00:01:30,970 --> 00:01:33,930\nYou can move a lot of water slowly through a fat hose,\n\n36\n00:01:34,230 --> 00:01:36,750\nor the same water super fast through a thin one.\n\n37\n00:01:37,300 --> 00:01:39,030\nPower lines work the same way.\n\n38\n00:01:39,580 --> 00:01:40,790\nCrank the voltage up,\n\n39\n00:01:41,090 --> 00:01:43,550\nand the current, the flow, drops way down.\n\n40\n00:01:44,100 --> 00:01:47,040\nLess current means less heat wasted in the wires.\n\n41\n00:01:47,590 --> 00:01:50,090\nEven so, about five percent of the power\n\n42\n00:01:50,390 --> 00:01:52,240\nis lost as heat along the way.\n\n43\n00:01:52,790 --> 00:01:54,620\nStop three: the step back down.\n\n44\n00:01:55,170 --> 00:01:59,020\nSeven hundred thousand volts would fry your toaster instantly.\n\n45\n00:01:59,570 --> 00:02:01,750\nSo the lines run into a substation,\n\n46\n00:02:02,050 --> 00:02:03,750\nwhere big transformers drop it\n\n47\n00:02:04,050 --> 00:02:05,620\nto a few thousand volts.\n\n48\n00:02:06,170 --> 00:02:08,390\nThose smaller lines run down your street.\n\n49\n00:02:08,940 --> 00:02:10,580\nThen one last transformer,\n\n50\n00:02:10,880 --> 00:02:14,240\nthat gray can on the pole, or a green box on the lawn,\n\n51\n00:02:14,540 --> 00:02:16,820\nbrings it down to what your house uses:\n\n52\n00:02:17,120 --> 00:02:19,150\na hundred twenty volts in the US,\n\n53\n00:02:19,450 --> 00:02:22,260\naround two hundred thirty in much of the world.\n\n54\n00:02:22,810 --> 00:02:24,340\nStop four: your walls.\n\n55\n00:02:24,890 --> 00:02:26,580\nThe wire enters through a meter,\n\n56\n00:02:26,880 --> 00:02:28,720\nwhich counts every bit you use,\n\n57\n00:02:29,020 --> 00:02:30,320\nand then a breaker panel,\n\n58\n00:02:30,620 --> 00:02:33,130\nwhich cuts the power if a wire gets too hot.\n\n59\n00:02:33,680 --> 00:02:36,040\nFrom there, cables run to every outlet.\n\n60\n00:02:36,590 --> 00:02:38,290\nAnd those holes aren't random.\n\n61\n00:02:38,840 --> 00:02:41,520\nOn a US outlet, the short slot is hot.\n\n62\n00:02:42,070 --> 00:02:43,510\nThat's where the push comes in.\n\n63\n00:02:44,060 --> 00:02:45,640\nThe tall slot is neutral,\n\n64\n00:02:45,940 --> 00:02:46,900\nthe path back.\n\n65\n00:02:47,450 --> 00:02:49,030\nAnd the round hole is ground,\n\n66\n00:02:49,330 --> 00:02:51,560\na safety exit if something goes wrong.\n\n67\n00:02:52,110 --> 00:02:53,490\nNow the wildest part.\n\n68\n00:02:54,040 --> 00:02:56,880\nFlip a switch, and the light turns on instantly.\n\n69\n00:02:57,430 --> 00:02:59,920\nBut the electrons in the wire barely move.\n\n70\n00:03:00,470 --> 00:03:02,110\nThey crawl slower than a snail,\n\n71\n00:03:02,410 --> 00:03:04,560\nmostly just wiggling back and forth.\n\n72\n00:03:05,110 --> 00:03:07,770\nWhat races through the wire is the push itself,\n\n73\n00:03:08,070 --> 00:03:09,910\nmoving at close to the speed of light.\n\n74\n00:03:10,460 --> 00:03:13,600\nSo the energy in your charger left that spinning magnet\n\n75\n00:03:13,900 --> 00:03:15,200\na split second ago.\n\n76\n00:03:15,750 --> 00:03:19,730\nTwenty thousand volts, then seven hundred sixty-five thousand,\n\n77\n00:03:20,030 --> 00:03:21,380\nthen down to the wall,\n\n78\n00:03:21,680 --> 00:03:23,180\nall in the blink of an eye.\n\n79\n00:03:23,730 --> 00:03:26,340\nNext time: if Earth is spinning so fast,\n\n80\n00:03:26,640 --> 00:03:27,920\nwhy don't we fly off?\n\n",
-      "tg_msg": 855
+      "tg_msg": 855,
+      "approved_by": "auto",
+      "quota_note": "2026-10-27"
     },
     "2026-10-27-103": {
       "topic": {
@@ -8933,7 +8935,7 @@
         "format": "animated",
         "style": "Chalkboard Lesson"
       },
-      "status": "awaiting_approval",
+      "status": "approved",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261027-velcro",
@@ -8953,7 +8955,81 @@
         "name": "2026-10-27-103-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:02,100\nA weed invented your Velcro,\n\n2\n00:00:02,400 --> 00:00:03,800\nin nineteen forty-one,\n\n3\n00:00:04,100 --> 00:00:05,820\nand almost nobody believed it.\n\n4\n00:00:06,370 --> 00:00:08,780\nA Swiss engineer, George de Mestral,\n\n5\n00:00:09,080 --> 00:00:10,980\ntook his dog hiking in the Alps.\n\n6\n00:00:11,530 --> 00:00:13,450\nThey came home covered in burrs,\n\n7\n00:00:13,750 --> 00:00:15,670\nthe spiky seed heads of burdock.\n\n8\n00:00:16,220 --> 00:00:17,440\nUnder a microscope,\n\n9\n00:00:17,740 --> 00:00:19,750\nevery spike ended in a tiny hook,\n\n10\n00:00:20,050 --> 00:00:22,310\nand his clothes were full of tiny loops.\n\n11\n00:00:22,860 --> 00:00:23,980\nHook meets loop,\n\n12\n00:00:24,280 --> 00:00:25,320\nand they grab on.\n\n13\n00:00:25,870 --> 00:00:27,210\nSo he tried to copy it.\n\n14\n00:00:27,760 --> 00:00:29,320\nCotton wore out too fast.\n\n15\n00:00:29,870 --> 00:00:30,930\nNylon worked,\n\n16\n00:00:31,230 --> 00:00:33,010\nsewn under hot infrared light\n\n17\n00:00:33,310 --> 00:00:34,640\ninto stiff little hooks.\n\n18\n00:00:35,190 --> 00:00:36,730\nIt took him about ten years,\n\n19\n00:00:37,030 --> 00:00:39,300\nand the patent came in nineteen fifty-five.\n\n20\n00:00:39,850 --> 00:00:41,730\nHe named it from two French words,\n\n21\n00:00:42,030 --> 00:00:43,200\nvelours, for velvet,\n\n22\n00:00:43,500 --> 00:00:44,750\nand crochet, for hook.\n\n23\n00:00:45,300 --> 00:00:46,490\nAstronauts used it\n\n24\n00:00:46,790 --> 00:00:49,060\nto keep snack pouches from floating away.\n\n25\n00:00:49,610 --> 00:00:51,400\nSo when your shoe straps rip open,\n\n26\n00:00:51,700 --> 00:00:53,600\ndo you blame the weed, or the dog?\n\n",
-      "tg_msg": 856
+      "tg_msg": 856,
+      "approved_by": "auto",
+      "quota_note": "2026-10-27"
+    },
+    "2026-10-27-104": {
+      "topic": {
+        "title": "What happens when a pufferfish puffs up?",
+        "format": "animated",
+        "angle": "Kawaii Anime"
+      },
+      "package": {
+        "title": "How Does a Pufferfish Puff Up? \ud83d\udc21",
+        "description": "How does a pufferfish puff up? It gulps seawater into a folded, stretchy stomach that can expand up to 100 times, so its body balloons to about three times its size with spines sticking out.\n\nSources:\nhttps://www.texassaltwaterfishingmagazine.com/fishing/education/science-sea/a-swell-adaptation\nhttps://www.practicalfishkeeping.co.uk/fishkeeping-answers/how-do-pufferfish-inflate/\nhttps://www.mentalfloss.com/article/60545/do-pufferfish-hold-their-breath-while-inflating-themselves\n\nAnimated in the Kawaii Anime style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#pufferfish",
+          "#animalfacts",
+          "#science"
+        ],
+        "tags": [
+          "pufferfish",
+          "how does a pufferfish puff up",
+          "pufferfish inflate",
+          "puffer fish",
+          "animal facts",
+          "ocean animals",
+          "fish facts",
+          "pufferfish stomach",
+          "animal science",
+          "explained",
+          "zorbly ai",
+          "kawaii animation"
+        ],
+        "category": "27",
+        "pinned_comment": "If you could puff up like a pufferfish, what would make you do it? \ud83d\udc21",
+        "thumbnail_text": "100x BIGGER",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "A pufferfish stomach stretches 100 times bigger, and you'd never guess why it has to. When a hungry fish gets close, the pufferfish opens its mouth wide and gulps seawater, fast. Gulp after gulp, it pumps the water into its stomach. That stomach is folded like an accordion, so it unfolds and keeps on stretching. There are almost no ribs in the way, so the whole body balloons out. Its stretchy skin pulls tight, and little spines pop up all over. Now it's about three times its size, a spiky ball way too big to swallow. But puffing up is hard work. It can take hours to catch its breath, so it only puffs when it has to. Then it spits the water back out. So if you were a pufferfish, what would make you puff?",
+        "key_facts": [
+          "Pufferfish inflate by gulping water into their stomach, not air (in water)",
+          "The folded stomach can expand roughly 50-100 times (Texas Saltwater Fishing Magazine)",
+          "Puffers lack ribs (or most ribs) and a pelvis, so the body can become a ball",
+          "Stretchy collagen-rich skin goes taut; spines stand up",
+          "Inflated balloonfish reach about 3x normal volume (3-4x per Mental Floss)",
+          "Recovery: heavy breathing for up to about 5 hours afterward (Mental Floss)"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Kawaii Anime"
+      },
+      "status": "approved",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261027-pufferfish",
+      "redos": 0,
+      "updated": "2026-10-27T18:27:11.602046+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-27",
+        "name": "2026-10-27-104.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-27",
+        "name": "2026-10-27-104-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:03,220\nA pufferfish stomach stretches 100 times bigger,\n\n2\n00:00:03,520 --> 00:00:05,280\nand you'd never guess why it has to.\n\n3\n00:00:05,830 --> 00:00:07,670\nWhen a hungry fish gets close,\n\n4\n00:00:07,970 --> 00:00:10,170\nthe pufferfish opens its mouth wide\n\n5\n00:00:10,470 --> 00:00:11,990\nand gulps seawater, fast.\n\n6\n00:00:12,540 --> 00:00:13,670\nGulp after gulp,\n\n7\n00:00:13,970 --> 00:00:15,930\nit pumps the water into its stomach.\n\n8\n00:00:16,480 --> 00:00:18,820\nThat stomach is folded like an accordion,\n\n9\n00:00:19,120 --> 00:00:21,450\nso it unfolds and keeps on stretching.\n\n10\n00:00:22,000 --> 00:00:23,970\nThere are almost no ribs in the way,\n\n11\n00:00:24,270 --> 00:00:26,060\nso the whole body balloons out.\n\n12\n00:00:26,610 --> 00:00:28,260\nIts stretchy skin pulls tight,\n\n13\n00:00:28,560 --> 00:00:30,510\nand little spines pop up all over.\n\n14\n00:00:31,060 --> 00:00:33,110\nNow it's about three times its size,\n\n15\n00:00:33,410 --> 00:00:34,460\na spiky ball\n\n16\n00:00:34,760 --> 00:00:36,250\nway too big to swallow.\n\n17\n00:00:36,800 --> 00:00:38,480\nBut puffing up is hard work.\n\n18\n00:00:39,030 --> 00:00:41,160\nIt can take hours to catch its breath,\n\n19\n00:00:41,460 --> 00:00:43,190\nso it only puffs when it has to.\n\n20\n00:00:43,740 --> 00:00:45,430\nThen it spits the water back out.\n\n21\n00:00:45,980 --> 00:00:47,470\nSo if you were a pufferfish,\n\n22\n00:00:47,770 --> 00:00:48,990\nwhat would make you puff?\n\n",
+      "tg_msg": 863,
+      "approved_by": "you",
+      "publish_now": false,
+      "quota_note": "2026-10-27"
     }
   },
   "history": [
@@ -9057,7 +9133,8 @@
     "drop/20261026-bat-sleep": "2026-10-26-108",
     "drop/20261026-smoke-detector": "2026-10-27-101",
     "drop/20261027-electricity": "2026-10-27-102",
-    "drop/20261027-velcro": "2026-10-27-103"
+    "drop/20261027-velcro": "2026-10-27-103",
+    "drop/20261027-pufferfish": "2026-10-27-104"
   },
   "refs_day": "2026-10-27"
 }
