@@ -1,0 +1,732 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.1,
+  "text": "A weed invented your Velcro,",
+  "words": [
+   [
+    "a",
+    0.25
+   ],
+   [
+    "weed",
+    0.33
+   ],
+   [
+    "invented",
+    0.65
+   ],
+   [
+    "your",
+    1.3
+   ],
+   [
+    "velcro",
+    1.62
+   ]
+  ]
+ },
+ {
+  "s": 2.4,
+  "e": 3.8,
+  "text": "in nineteen forty-one,",
+  "words": [
+   [
+    "in",
+    2.4
+   ],
+   [
+    "nineteen",
+    2.56
+   ],
+   [
+    "fortyone",
+    3.18
+   ]
+  ]
+ },
+ {
+  "s": 4.1,
+  "e": 5.82,
+  "text": "and almost nobody believed it.",
+  "words": [
+   [
+    "and",
+    4.1
+   ],
+   [
+    "almost",
+    4.31
+   ],
+   [
+    "nobody",
+    4.72
+   ],
+   [
+    "believed",
+    5.13
+   ],
+   [
+    "it",
+    5.68
+   ]
+  ]
+ },
+ {
+  "s": 6.37,
+  "e": 8.78,
+  "text": "A Swiss engineer, George de Mestral,",
+  "words": [
+   [
+    "a",
+    6.37
+   ],
+   [
+    "swiss",
+    6.45
+   ],
+   [
+    "engineer",
+    6.87
+   ],
+   [
+    "george",
+    7.53
+   ],
+   [
+    "de",
+    8.03
+   ],
+   [
+    "mestral",
+    8.2
+   ]
+  ]
+ },
+ {
+  "s": 9.08,
+  "e": 10.98,
+  "text": "took his dog hiking in the Alps.",
+  "words": [
+   [
+    "took",
+    9.08
+   ],
+   [
+    "his",
+    9.38
+   ],
+   [
+    "dog",
+    9.61
+   ],
+   [
+    "hiking",
+    9.84
+   ],
+   [
+    "in",
+    10.29
+   ],
+   [
+    "the",
+    10.45
+   ],
+   [
+    "alps",
+    10.67
+   ]
+  ]
+ },
+ {
+  "s": 11.53,
+  "e": 13.45,
+  "text": "They came home covered in burrs,",
+  "words": [
+   [
+    "they",
+    11.53
+   ],
+   [
+    "came",
+    11.82
+   ],
+   [
+    "home",
+    12.12
+   ],
+   [
+    "covered",
+    12.41
+   ],
+   [
+    "in",
+    12.93
+   ],
+   [
+    "burrs",
+    13.08
+   ]
+  ]
+ },
+ {
+  "s": 13.75,
+  "e": 15.67,
+  "text": "the spiky seed heads of burdock.",
+  "words": [
+   [
+    "the",
+    13.75
+   ],
+   [
+    "spiky",
+    13.97
+   ],
+   [
+    "seed",
+    14.34
+   ],
+   [
+    "heads",
+    14.64
+   ],
+   [
+    "of",
+    15.01
+   ],
+   [
+    "burdock",
+    15.15
+   ]
+  ]
+ },
+ {
+  "s": 16.22,
+  "e": 17.44,
+  "text": "Under a microscope,",
+  "words": [
+   [
+    "under",
+    16.22
+   ],
+   [
+    "a",
+    16.6
+   ],
+   [
+    "microscope",
+    16.68
+   ]
+  ]
+ },
+ {
+  "s": 17.74,
+  "e": 19.75,
+  "text": "every spike ended in a tiny hook,",
+  "words": [
+   [
+    "every",
+    17.74
+   ],
+   [
+    "spike",
+    18.12
+   ],
+   [
+    "ended",
+    18.51
+   ],
+   [
+    "in",
+    18.9
+   ],
+   [
+    "a",
+    19.05
+   ],
+   [
+    "tiny",
+    19.13
+   ],
+   [
+    "hook",
+    19.44
+   ]
+  ]
+ },
+ {
+  "s": 20.05,
+  "e": 22.31,
+  "text": "and his clothes were full of tiny loops.",
+  "words": [
+   [
+    "and",
+    20.05
+   ],
+   [
+    "his",
+    20.26
+   ],
+   [
+    "clothes",
+    20.47
+   ],
+   [
+    "were",
+    20.97
+   ],
+   [
+    "full",
+    21.25
+   ],
+   [
+    "of",
+    21.53
+   ],
+   [
+    "tiny",
+    21.68
+   ],
+   [
+    "loops",
+    21.96
+   ]
+  ]
+ },
+ {
+  "s": 22.86,
+  "e": 23.98,
+  "text": "Hook meets loop,",
+  "words": [
+   [
+    "hook",
+    22.86
+   ],
+   [
+    "meets",
+    23.21
+   ],
+   [
+    "loop",
+    23.63
+   ]
+  ]
+ },
+ {
+  "s": 24.28,
+  "e": 25.32,
+  "text": "and they grab on.",
+  "words": [
+   [
+    "and",
+    24.28
+   ],
+   [
+    "they",
+    24.52
+   ],
+   [
+    "grab",
+    24.84
+   ],
+   [
+    "on",
+    25.16
+   ]
+  ]
+ },
+ {
+  "s": 25.87,
+  "e": 27.21,
+  "text": "So he tried to copy it.",
+  "words": [
+   [
+    "so",
+    25.87
+   ],
+   [
+    "he",
+    26.03
+   ],
+   [
+    "tried",
+    26.19
+   ],
+   [
+    "to",
+    26.58
+   ],
+   [
+    "copy",
+    26.74
+   ],
+   [
+    "it",
+    27.05
+   ]
+  ]
+ },
+ {
+  "s": 27.76,
+  "e": 29.32,
+  "text": "Cotton wore out too fast.",
+  "words": [
+   [
+    "cotton",
+    27.76
+   ],
+   [
+    "wore",
+    28.23
+   ],
+   [
+    "out",
+    28.54
+   ],
+   [
+    "too",
+    28.77
+   ],
+   [
+    "fast",
+    29.01
+   ]
+  ]
+ },
+ {
+  "s": 29.87,
+  "e": 30.93,
+  "text": "Nylon worked,",
+  "words": [
+   [
+    "nylon",
+    29.87
+   ],
+   [
+    "worked",
+    30.35
+   ]
+  ]
+ },
+ {
+  "s": 31.23,
+  "e": 33.01,
+  "text": "sewn under hot infrared light",
+  "words": [
+   [
+    "sewn",
+    31.23
+   ],
+   [
+    "under",
+    31.52
+   ],
+   [
+    "hot",
+    31.88
+   ],
+   [
+    "infrared",
+    32.09
+   ],
+   [
+    "light",
+    32.66
+   ]
+  ]
+ },
+ {
+  "s": 33.31,
+  "e": 34.64,
+  "text": "into stiff little hooks.",
+  "words": [
+   [
+    "into",
+    33.31
+   ],
+   [
+    "stiff",
+    33.58
+   ],
+   [
+    "little",
+    33.91
+   ],
+   [
+    "hooks",
+    34.31
+   ]
+  ]
+ },
+ {
+  "s": 35.19,
+  "e": 36.73,
+  "text": "It took him about ten years,",
+  "words": [
+   [
+    "it",
+    35.19
+   ],
+   [
+    "took",
+    35.33
+   ],
+   [
+    "him",
+    35.61
+   ],
+   [
+    "about",
+    35.82
+   ],
+   [
+    "ten",
+    36.17
+   ],
+   [
+    "years",
+    36.38
+   ]
+  ]
+ },
+ {
+  "s": 37.03,
+  "e": 39.3,
+  "text": "and the patent came in nineteen fifty-five.",
+  "words": [
+   [
+    "and",
+    37.03
+   ],
+   [
+    "the",
+    37.23
+   ],
+   [
+    "patent",
+    37.42
+   ],
+   [
+    "came",
+    37.81
+   ],
+   [
+    "in",
+    38.07
+   ],
+   [
+    "nineteen",
+    38.2
+   ],
+   [
+    "fiftyfive",
+    38.72
+   ]
+  ]
+ },
+ {
+  "s": 39.85,
+  "e": 41.73,
+  "text": "He named it from two French words,",
+  "words": [
+   [
+    "he",
+    39.85
+   ],
+   [
+    "named",
+    39.99
+   ],
+   [
+    "it",
+    40.34
+   ],
+   [
+    "from",
+    40.48
+   ],
+   [
+    "two",
+    40.76
+   ],
+   [
+    "french",
+    40.97
+   ],
+   [
+    "words",
+    41.38
+   ]
+  ]
+ },
+ {
+  "s": 42.03,
+  "e": 43.2,
+  "text": "velours, for velvet,",
+  "words": [
+   [
+    "velours",
+    42.03
+   ],
+   [
+    "for",
+    42.54
+   ],
+   [
+    "velvet",
+    42.76
+   ]
+  ]
+ },
+ {
+  "s": 43.5,
+  "e": 44.75,
+  "text": "and crochet, for hook.",
+  "words": [
+   [
+    "and",
+    43.5
+   ],
+   [
+    "crochet",
+    43.72
+   ],
+   [
+    "for",
+    44.24
+   ],
+   [
+    "hook",
+    44.46
+   ]
+  ]
+ },
+ {
+  "s": 45.3,
+  "e": 46.49,
+  "text": "Astronauts used it",
+  "words": [
+   [
+    "astronauts",
+    45.3
+   ],
+   [
+    "used",
+    46.05
+   ],
+   [
+    "it",
+    46.34
+   ]
+  ]
+ },
+ {
+  "s": 46.79,
+  "e": 49.06,
+  "text": "to keep snack pouches from floating away.",
+  "words": [
+   [
+    "to",
+    46.79
+   ],
+   [
+    "keep",
+    46.92
+   ],
+   [
+    "snack",
+    47.19
+   ],
+   [
+    "pouches",
+    47.53
+   ],
+   [
+    "from",
+    47.99
+   ],
+   [
+    "floating",
+    48.26
+   ],
+   [
+    "away",
+    48.79
+   ]
+  ]
+ },
+ {
+  "s": 49.61,
+  "e": 51.4,
+  "text": "So when your shoe straps rip open,",
+  "words": [
+   [
+    "so",
+    49.61
+   ],
+   [
+    "when",
+    49.74
+   ],
+   [
+    "your",
+    50.01
+   ],
+   [
+    "shoe",
+    50.27
+   ],
+   [
+    "straps",
+    50.54
+   ],
+   [
+    "rip",
+    50.94
+   ],
+   [
+    "open",
+    51.13
+   ]
+  ]
+ },
+ {
+  "s": 51.7,
+  "e": 53.6,
+  "text": "do you blame the weed, or the dog?",
+  "words": [
+   [
+    "do",
+    51.7
+   ],
+   [
+    "you",
+    51.85
+   ],
+   [
+    "blame",
+    52.08
+   ],
+   [
+    "the",
+    52.46
+   ],
+   [
+    "weed",
+    52.69
+   ],
+   [
+    "or",
+    52.99
+   ],
+   [
+    "the",
+    53.15
+   ],
+   [
+    "dog",
+    53.37
+   ]
+  ]
+ }
+]
