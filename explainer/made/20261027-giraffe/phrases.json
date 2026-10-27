@@ -1,0 +1,691 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.37,
+  "text": "You'd faint with your brain two meters up.",
+  "words": [
+   [
+    "youd",
+    0.25
+   ],
+   [
+    "faint",
+    0.51
+   ],
+   [
+    "with",
+    0.83
+   ],
+   [
+    "your",
+    1.09
+   ],
+   [
+    "brain",
+    1.34
+   ],
+   [
+    "two",
+    1.66
+   ],
+   [
+    "meters",
+    1.86
+   ],
+   [
+    "up",
+    2.24
+   ]
+  ]
+ },
+ {
+  "s": 2.92,
+  "e": 4.52,
+  "text": "Giraffes never do. Why?",
+  "words": [
+   [
+    "giraffes",
+    2.92
+   ],
+   [
+    "never",
+    3.63
+   ],
+   [
+    "do",
+    4.07
+   ],
+   [
+    "why",
+    4.25
+   ]
+  ]
+ },
+ {
+  "s": 5.07,
+  "e": 7.35,
+  "text": "A giraffe swings its head from the water,",
+  "words": [
+   [
+    "a",
+    5.07
+   ],
+   [
+    "giraffe",
+    5.14
+   ],
+   [
+    "swings",
+    5.62
+   ],
+   [
+    "its",
+    6.04
+   ],
+   [
+    "head",
+    6.24
+   ],
+   [
+    "from",
+    6.52
+   ],
+   [
+    "the",
+    6.8
+   ],
+   [
+    "water",
+    7.01
+   ]
+  ]
+ },
+ {
+  "s": 7.65,
+  "e": 9.32,
+  "text": "all the way up to the treetops,",
+  "words": [
+   [
+    "all",
+    7.65
+   ],
+   [
+    "the",
+    7.86
+   ],
+   [
+    "way",
+    8.07
+   ],
+   [
+    "up",
+    8.28
+   ],
+   [
+    "to",
+    8.42
+   ],
+   [
+    "the",
+    8.56
+   ],
+   [
+    "treetops",
+    8.77
+   ]
+  ]
+ },
+ {
+  "s": 9.62,
+  "e": 10.84,
+  "text": "and nothing happens.",
+  "words": [
+   [
+    "and",
+    9.62
+   ],
+   [
+    "nothing",
+    9.84
+   ],
+   [
+    "happens",
+    10.34
+   ]
+  ]
+ },
+ {
+  "s": 11.39,
+  "e": 12.88,
+  "text": "First, a monster heart.",
+  "words": [
+   [
+    "first",
+    11.39
+   ],
+   [
+    "a",
+    11.81
+   ],
+   [
+    "monster",
+    11.89
+   ],
+   [
+    "heart",
+    12.46
+   ]
+  ]
+ },
+ {
+  "s": 13.43,
+  "e": 15.23,
+  "text": "It weighs about eleven kilos,",
+  "words": [
+   [
+    "it",
+    13.43
+   ],
+   [
+    "weighs",
+    13.58
+   ],
+   [
+    "about",
+    14.03
+   ],
+   [
+    "eleven",
+    14.4
+   ],
+   [
+    "kilos",
+    14.85
+   ]
+  ]
+ },
+ {
+  "s": 15.53,
+  "e": 17.22,
+  "text": "with walls thick enough to pump",
+  "words": [
+   [
+    "with",
+    15.53
+   ],
+   [
+    "walls",
+    15.79
+   ],
+   [
+    "thick",
+    16.11
+   ],
+   [
+    "enough",
+    16.44
+   ],
+   [
+    "to",
+    16.83
+   ],
+   [
+    "pump",
+    16.96
+   ]
+  ]
+ },
+ {
+  "s": 17.52,
+  "e": 19.08,
+  "text": "at twice your blood pressure.",
+  "words": [
+   [
+    "at",
+    17.52
+   ],
+   [
+    "twice",
+    17.65
+   ],
+   [
+    "your",
+    17.98
+   ],
+   [
+    "blood",
+    18.24
+   ],
+   [
+    "pressure",
+    18.56
+   ]
+  ]
+ },
+ {
+  "s": 19.63,
+  "e": 21.56,
+  "text": "Second, valves in the neck veins.",
+  "words": [
+   [
+    "second",
+    19.63
+   ],
+   [
+    "valves",
+    20.08
+   ],
+   [
+    "in",
+    20.52
+   ],
+   [
+    "the",
+    20.67
+   ],
+   [
+    "neck",
+    20.89
+   ],
+   [
+    "veins",
+    21.19
+   ]
+  ]
+ },
+ {
+  "s": 22.11,
+  "e": 23.96,
+  "text": "When the head drops down to drink,",
+  "words": [
+   [
+    "when",
+    22.11
+   ],
+   [
+    "the",
+    22.38
+   ],
+   [
+    "head",
+    22.59
+   ],
+   [
+    "drops",
+    22.86
+   ],
+   [
+    "down",
+    23.2
+   ],
+   [
+    "to",
+    23.48
+   ],
+   [
+    "drink",
+    23.62
+   ]
+  ]
+ },
+ {
+  "s": 24.26,
+  "e": 26.69,
+  "text": "they stop blood flooding back into the brain.",
+  "words": [
+   [
+    "they",
+    24.26
+   ],
+   [
+    "stop",
+    24.52
+   ],
+   [
+    "blood",
+    24.78
+   ],
+   [
+    "flooding",
+    25.11
+   ],
+   [
+    "back",
+    25.64
+   ],
+   [
+    "into",
+    25.9
+   ],
+   [
+    "the",
+    26.17
+   ],
+   [
+    "brain",
+    26.36
+   ]
+  ]
+ },
+ {
+  "s": 27.24,
+  "e": 30.08,
+  "text": "Third, scientists think the neck veins store blood,",
+  "words": [
+   [
+    "third",
+    27.24
+   ],
+   [
+    "scientists",
+    27.58
+   ],
+   [
+    "think",
+    28.26
+   ],
+   [
+    "the",
+    28.59
+   ],
+   [
+    "neck",
+    28.8
+   ],
+   [
+    "veins",
+    29.07
+   ],
+   [
+    "store",
+    29.41
+   ],
+   [
+    "blood",
+    29.74
+   ]
+  ]
+ },
+ {
+  "s": 30.38,
+  "e": 31.75,
+  "text": "and when the head swings up,",
+  "words": [
+   [
+    "and",
+    30.38
+   ],
+   [
+    "when",
+    30.57
+   ],
+   [
+    "the",
+    30.82
+   ],
+   [
+    "head",
+    31.0
+   ],
+   [
+    "swings",
+    31.25
+   ],
+   [
+    "up",
+    31.62
+   ]
+  ]
+ },
+ {
+  "s": 32.05,
+  "e": 33.38,
+  "text": "it rushes to the heart",
+  "words": [
+   [
+    "it",
+    32.05
+   ],
+   [
+    "rushes",
+    32.2
+   ],
+   [
+    "to",
+    32.64
+   ],
+   [
+    "the",
+    32.79
+   ],
+   [
+    "heart",
+    33.01
+   ]
+  ]
+ },
+ {
+  "s": 33.68,
+  "e": 35.45,
+  "text": "for one extra-strong beat.",
+  "words": [
+   [
+    "for",
+    33.68
+   ],
+   [
+    "one",
+    33.94
+   ],
+   [
+    "extrastrong",
+    34.19
+   ],
+   [
+    "beat",
+    35.11
+   ]
+  ]
+ },
+ {
+  "s": 36.0,
+  "e": 37.15,
+  "text": "But all that pressure",
+  "words": [
+   [
+    "but",
+    36.0
+   ],
+   [
+    "all",
+    36.19
+   ],
+   [
+    "that",
+    36.38
+   ],
+   [
+    "pressure",
+    36.64
+   ]
+  ]
+ },
+ {
+  "s": 37.45,
+  "e": 39.0,
+  "text": "would make anyone's legs swell,",
+  "words": [
+   [
+    "would",
+    37.45
+   ],
+   [
+    "make",
+    37.76
+   ],
+   [
+    "anyones",
+    38.0
+   ],
+   [
+    "legs",
+    38.44
+   ],
+   [
+    "swell",
+    38.69
+   ]
+  ]
+ },
+ {
+  "s": 39.3,
+  "e": 41.96,
+  "text": "so giraffes wear built-in compression socks:",
+  "words": [
+   [
+    "so",
+    39.3
+   ],
+   [
+    "giraffes",
+    39.44
+   ],
+   [
+    "wear",
+    40.02
+   ],
+   [
+    "builtin",
+    40.3
+   ],
+   [
+    "compression",
+    40.81
+   ],
+   [
+    "socks",
+    41.6
+   ]
+  ]
+ },
+ {
+  "s": 42.26,
+  "e": 44.24,
+  "text": "super-tight skin around their legs.",
+  "words": [
+   [
+    "supertight",
+    42.26
+   ],
+   [
+    "skin",
+    42.94
+   ],
+   [
+    "around",
+    43.22
+   ],
+   [
+    "their",
+    43.63
+   ],
+   [
+    "legs",
+    43.97
+   ]
+  ]
+ },
+ {
+  "s": 44.79,
+  "e": 46.54,
+  "text": "So, if you had a giraffe's heart,",
+  "words": [
+   [
+    "so",
+    44.79
+   ],
+   [
+    "if",
+    44.94
+   ],
+   [
+    "you",
+    45.08
+   ],
+   [
+    "had",
+    45.3
+   ],
+   [
+    "a",
+    45.52
+   ],
+   [
+    "giraffes",
+    45.59
+   ],
+   [
+    "heart",
+    46.18
+   ]
+  ]
+ },
+ {
+  "s": 46.84,
+  "e": 48.09,
+  "text": "would you still get dizzy",
+  "words": [
+   [
+    "would",
+    46.84
+   ],
+   [
+    "you",
+    47.14
+   ],
+   [
+    "still",
+    47.32
+   ],
+   [
+    "get",
+    47.61
+   ],
+   [
+    "dizzy",
+    47.79
+   ]
+  ]
+ },
+ {
+  "s": 48.39,
+  "e": 49.96,
+  "text": "with your brain two meters up?",
+  "words": [
+   [
+    "with",
+    48.39
+   ],
+   [
+    "your",
+    48.65
+   ],
+   [
+    "brain",
+    48.91
+   ],
+   [
+    "two",
+    49.24
+   ],
+   [
+    "meters",
+    49.43
+   ],
+   [
+    "up",
+    49.83
+   ]
+  ]
+ }
+]
