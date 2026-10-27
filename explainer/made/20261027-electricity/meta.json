@@ -1,0 +1,42 @@
+{
+ "kind": "long",
+ "title": "How Electricity Reaches Your Outlet in 4 Stops",
+ "description": "How does electricity get from the power plant to your outlet? Electricity explained in simple words: how a generator's spinning magnet makes alternating current, why step-up transformers push power lines up to 765,000 volts, how substations and pole transformers bring it down to 120 volts, and what the hot, neutral and ground holes in your outlet do.\n\nChapters:\n0:00 From 765,000 volts to 120\n0:17 Stop 1: The power plant\n1:11 Stop 2: The voltage jump\n1:52 Stop 3: The step back down\n2:22 Stop 4: Your walls\n2:52 The wildest part\n\nSources:\nhttps://eli.lehigh.edu/support/electricity/electricity-generation-page-6\nhttps://www.scienceabc.com/nature/what-is-the-speed-of-electricity.html\nhttps://www.eia.gov/tools/faqs/faq.php?id=105\n\nAnimated in the Synthwave Outrun style.",
+ "hashtags": [
+  "#science",
+  "#electricity",
+  "#howitworks"
+ ],
+ "tags": [
+  "electricity explained",
+  "how electricity works",
+  "how electricity gets to your house",
+  "power grid explained",
+  "how a generator works",
+  "alternating current",
+  "step-up transformer",
+  "high voltage power lines",
+  "substation",
+  "pole transformer",
+  "electrical outlet holes",
+  "hot neutral ground",
+  "electron drift speed",
+  "science explained",
+  "synthwave animation"
+ ],
+ "pinned_comment": "Before this video, did you think the electrons themselves raced from the power plant to your outlet? ⚡",
+ "thumbnail_text": "765,000 VOLTS",
+ "style": "Synthwave Outrun",
+ "topic": "Electricity Explained in Simple Words: how power gets from the plant to your outlet",
+ "script": "Up to seven hundred sixty-five thousand volts flow through the biggest power lines, yet your outlet gives you just a hundred twenty. Here's how. It all starts with a spinning magnet, maybe hundreds of miles away. So let's follow the trip, in simple words. Stop one: the power plant. Almost every power plant does the same job. It spins something. Coal, gas and nuclear plants boil water into steam. Dams use falling water. Wind farms use, well, wind. All of it pushes the blades of a turbine, and the turbine spins a giant magnet inside coils of copper wire. Here's the trick, found by Michael Faraday back in 1831. When a magnet moves past a wire, it shoves the electrons inside that wire. Spin it nonstop, and you get a nonstop push. That push is electricity. And because the magnet keeps flipping north and south, the push swings back and forth too. In the US, it swings sixty times every second. In most of the world, it's fifty. That's called alternating current. Stop two: the voltage jump. A generator makes about twenty thousand volts. But right outside the plant, a step-up transformer cranks it way higher, up to seven hundred sixty-five thousand volts on the biggest lines. Why make it so extreme? Think of a garden hose. You can move a lot of water slowly through a fat hose, or the same water super fast through a thin one. Power lines work the same way. Crank the voltage up, and the current, the flow, drops way down. Less current means less heat wasted in the wires. Even so, about five percent of the power is lost as heat along the way. Stop three: the step back down. Seven hundred thousand volts would fry your toaster instantly. So the lines run into a substation, where big transformers drop it to a few thousand volts. Those smaller lines run down your street. Then one last transformer, that gray can on the pole, or a green box on the lawn, brings it down to what your house uses: a hundred twenty volts in the US, around two hundred thirty in much of the world. Stop four: your walls. The wire enters through a meter, which counts every bit you use, and then a breaker panel, which cuts the power if a wire gets too hot. From there, cables run to every outlet. And those holes aren't random. On a US outlet, the short slot is hot. That's where the push comes in. The tall slot is neutral, the path back. And the round hole is ground, a safety exit if something goes wrong. Now the wildest part. Flip a switch, and the light turns on instantly. But the electrons in the wire barely move. They crawl slower than a snail, mostly just wiggling back and forth. What races through the wire is the push itself, moving at close to the speed of light. So the energy in your charger left that spinning magnet a split second ago. Twenty thousand volts, then seven hundred sixty-five thousand, then down to the wall, all in the blink of an eye. Next time: if Earth is spinning so fast, why don't we fly off?",
+ "key_facts": [
+  "Most power plants spin a turbine (steam from coal, gas or nuclear; falling water; wind) that turns a magnet inside copper coils; Faraday discovered electromagnetic induction in 1831",
+  "Grid power is alternating current: 60 Hz in the US, 50 Hz in most of the world",
+  "Generators put out roughly 20,000 volts (commonly cited 10,000-25,000); step-up transformers raise it to as much as 765,000 V on the biggest US lines",
+  "Higher voltage means lower current for the same power, so less is lost as heat; about 5% of US electricity is lost in transmission and distribution (EIA estimate)",
+  "Substations step down to a few thousand volts for distribution; pole-top or pad-mounted transformers bring it to 120/240 V in US homes (about 230 V in much of the world)",
+  "On a US outlet the shorter slot is hot, the taller slot is neutral and the round hole is ground",
+  "Electrons drift slowly (fractions of a millimetre per second) while the electrical signal/energy travels at a large fraction of the speed of light"
+ ],
+ "category": "27"
+}

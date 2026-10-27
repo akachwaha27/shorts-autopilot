@@ -1,0 +1,2710 @@
+[
+ {
+  "s": 0.25,
+  "e": 3.01,
+  "text": "Up to seven hundred sixty-five thousand volts",
+  "words": [
+   [
+    "up",
+    0.25
+   ],
+   [
+    "to",
+    0.4
+   ],
+   [
+    "seven",
+    0.54
+   ],
+   [
+    "hundred",
+    0.9
+   ],
+   [
+    "sixtyfive",
+    1.41
+   ],
+   [
+    "thousand",
+    2.07
+   ],
+   [
+    "volts",
+    2.65
+   ]
+  ]
+ },
+ {
+  "s": 3.31,
+  "e": 5.22,
+  "text": "flow through the biggest power lines,",
+  "words": [
+   [
+    "flow",
+    3.31
+   ],
+   [
+    "through",
+    3.56
+   ],
+   [
+    "the",
+    3.99
+   ],
+   [
+    "biggest",
+    4.17
+   ],
+   [
+    "power",
+    4.61
+   ],
+   [
+    "lines",
+    4.92
+   ]
+  ]
+ },
+ {
+  "s": 5.52,
+  "e": 8.26,
+  "text": "yet your outlet gives you just a hundred twenty.",
+  "words": [
+   [
+    "yet",
+    5.52
+   ],
+   [
+    "your",
+    5.73
+   ],
+   [
+    "outlet",
+    6.02
+   ],
+   [
+    "gives",
+    6.44
+   ],
+   [
+    "you",
+    6.79
+   ],
+   [
+    "just",
+    7.0
+   ],
+   [
+    "a",
+    7.28
+   ],
+   [
+    "hundred",
+    7.35
+   ],
+   [
+    "twenty",
+    7.84
+   ]
+  ]
+ },
+ {
+  "s": 8.81,
+  "e": 9.67,
+  "text": "Here's how.",
+  "words": [
+   [
+    "heres",
+    8.81
+   ],
+   [
+    "how",
+    9.35
+   ]
+  ]
+ },
+ {
+  "s": 10.22,
+  "e": 12.19,
+  "text": "It all starts with a spinning magnet,",
+  "words": [
+   [
+    "it",
+    10.22
+   ],
+   [
+    "all",
+    10.35
+   ],
+   [
+    "starts",
+    10.55
+   ],
+   [
+    "with",
+    10.94
+   ],
+   [
+    "a",
+    11.2
+   ],
+   [
+    "spinning",
+    11.27
+   ],
+   [
+    "magnet",
+    11.79
+   ]
+  ]
+ },
+ {
+  "s": 12.49,
+  "e": 14.33,
+  "text": "maybe hundreds of miles away.",
+  "words": [
+   [
+    "maybe",
+    12.49
+   ],
+   [
+    "hundreds",
+    12.87
+   ],
+   [
+    "of",
+    13.48
+   ],
+   [
+    "miles",
+    13.64
+   ],
+   [
+    "away",
+    14.02
+   ]
+  ]
+ },
+ {
+  "s": 14.88,
+  "e": 17.33,
+  "text": "So let's follow the trip, in simple words.",
+  "words": [
+   [
+    "so",
+    14.88
+   ],
+   [
+    "lets",
+    15.03
+   ],
+   [
+    "follow",
+    15.34
+   ],
+   [
+    "the",
+    15.8
+   ],
+   [
+    "trip",
+    16.03
+   ],
+   [
+    "in",
+    16.33
+   ],
+   [
+    "simple",
+    16.48
+   ],
+   [
+    "words",
+    16.94
+   ]
+  ]
+ },
+ {
+  "s": 17.88,
+  "e": 19.49,
+  "text": "Stop one: the power plant.",
+  "words": [
+   [
+    "stop",
+    17.88
+   ],
+   [
+    "one",
+    18.2
+   ],
+   [
+    "the",
+    18.44
+   ],
+   [
+    "power",
+    18.68
+   ],
+   [
+    "plant",
+    19.09
+   ]
+  ]
+ },
+ {
+  "s": 20.04,
+  "e": 22.73,
+  "text": "Almost every power plant does the same job.",
+  "words": [
+   [
+    "almost",
+    20.04
+   ],
+   [
+    "every",
+    20.5
+   ],
+   [
+    "power",
+    20.89
+   ],
+   [
+    "plant",
+    21.27
+   ],
+   [
+    "does",
+    21.65
+   ],
+   [
+    "the",
+    21.96
+   ],
+   [
+    "same",
+    22.19
+   ],
+   [
+    "job",
+    22.5
+   ]
+  ]
+ },
+ {
+  "s": 23.28,
+  "e": 24.46,
+  "text": "It spins something.",
+  "words": [
+   [
+    "it",
+    23.28
+   ],
+   [
+    "spins",
+    23.43
+   ],
+   [
+    "something",
+    23.8
+   ]
+  ]
+ },
+ {
+  "s": 25.01,
+  "e": 28.44,
+  "text": "Coal, gas and nuclear plants boil water into steam.",
+  "words": [
+   [
+    "coal",
+    25.01
+   ],
+   [
+    "gas",
+    25.35
+   ],
+   [
+    "and",
+    25.6
+   ],
+   [
+    "nuclear",
+    25.85
+   ],
+   [
+    "plants",
+    26.43
+   ],
+   [
+    "boil",
+    26.94
+   ],
+   [
+    "water",
+    27.27
+   ],
+   [
+    "into",
+    27.69
+   ],
+   [
+    "steam",
+    28.02
+   ]
+  ]
+ },
+ {
+  "s": 28.99,
+  "e": 30.48,
+  "text": "Dams use falling water.",
+  "words": [
+   [
+    "dams",
+    28.99
+   ],
+   [
+    "use",
+    29.31
+   ],
+   [
+    "falling",
+    29.54
+   ],
+   [
+    "water",
+    30.09
+   ]
+  ]
+ },
+ {
+  "s": 31.03,
+  "e": 32.96,
+  "text": "Wind farms use, well, wind.",
+  "words": [
+   [
+    "wind",
+    31.03
+   ],
+   [
+    "farms",
+    31.42
+   ],
+   [
+    "use",
+    31.9
+   ],
+   [
+    "well",
+    32.19
+   ],
+   [
+    "wind",
+    32.57
+   ]
+  ]
+ },
+ {
+  "s": 33.51,
+  "e": 35.86,
+  "text": "All of it pushes the blades of a turbine,",
+  "words": [
+   [
+    "all",
+    33.51
+   ],
+   [
+    "of",
+    33.73
+   ],
+   [
+    "it",
+    33.88
+   ],
+   [
+    "pushes",
+    34.02
+   ],
+   [
+    "the",
+    34.46
+   ],
+   [
+    "blades",
+    34.68
+   ],
+   [
+    "of",
+    35.12
+   ],
+   [
+    "a",
+    35.27
+   ],
+   [
+    "turbine",
+    35.34
+   ]
+  ]
+ },
+ {
+  "s": 36.16,
+  "e": 38.24,
+  "text": "and the turbine spins a giant magnet",
+  "words": [
+   [
+    "and",
+    36.16
+   ],
+   [
+    "the",
+    36.37
+   ],
+   [
+    "turbine",
+    36.58
+   ],
+   [
+    "spins",
+    37.06
+   ],
+   [
+    "a",
+    37.41
+   ],
+   [
+    "giant",
+    37.48
+   ],
+   [
+    "magnet",
+    37.82
+   ]
+  ]
+ },
+ {
+  "s": 38.54,
+  "e": 40.37,
+  "text": "inside coils of copper wire.",
+  "words": [
+   [
+    "inside",
+    38.54
+   ],
+   [
+    "coils",
+    39.02
+   ],
+   [
+    "of",
+    39.41
+   ],
+   [
+    "copper",
+    39.57
+   ],
+   [
+    "wire",
+    40.05
+   ]
+  ]
+ },
+ {
+  "s": 40.92,
+  "e": 46.07,
+  "text": "Here's the trick, found by Michael Faraday back in 1831.",
+  "words": [
+   [
+    "heres",
+    40.92
+   ],
+   [
+    "the",
+    41.5
+   ],
+   [
+    "trick",
+    41.85
+   ],
+   [
+    "found",
+    42.44
+   ],
+   [
+    "by",
+    43.02
+   ],
+   [
+    "michael",
+    43.26
+   ],
+   [
+    "faraday",
+    44.08
+   ],
+   [
+    "back",
+    44.9
+   ],
+   [
+    "in",
+    45.37
+   ],
+   [
+    "1831",
+    45.6
+   ]
+  ]
+ },
+ {
+  "s": 46.62,
+  "e": 48.58,
+  "text": "When a magnet moves past a wire,",
+  "words": [
+   [
+    "when",
+    46.62
+   ],
+   [
+    "a",
+    46.94
+   ],
+   [
+    "magnet",
+    47.01
+   ],
+   [
+    "moves",
+    47.48
+   ],
+   [
+    "past",
+    47.88
+   ],
+   [
+    "a",
+    48.19
+   ],
+   [
+    "wire",
+    48.27
+   ]
+  ]
+ },
+ {
+  "s": 48.88,
+  "e": 51.32,
+  "text": "it shoves the electrons inside that wire.",
+  "words": [
+   [
+    "it",
+    48.88
+   ],
+   [
+    "shoves",
+    49.03
+   ],
+   [
+    "the",
+    49.46
+   ],
+   [
+    "electrons",
+    49.67
+   ],
+   [
+    "inside",
+    50.32
+   ],
+   [
+    "that",
+    50.75
+   ],
+   [
+    "wire",
+    51.03
+   ]
+  ]
+ },
+ {
+  "s": 51.87,
+  "e": 54.9,
+  "text": "Spin it nonstop, and you get a nonstop push.",
+  "words": [
+   [
+    "spin",
+    51.87
+   ],
+   [
+    "it",
+    52.23
+   ],
+   [
+    "nonstop",
+    52.41
+   ],
+   [
+    "and",
+    53.03
+   ],
+   [
+    "you",
+    53.3
+   ],
+   [
+    "get",
+    53.56
+   ],
+   [
+    "a",
+    53.83
+   ],
+   [
+    "nonstop",
+    53.92
+   ],
+   [
+    "push",
+    54.54
+   ]
+  ]
+ },
+ {
+  "s": 55.45,
+  "e": 57.06,
+  "text": "That push is electricity.",
+  "words": [
+   [
+    "that",
+    55.45
+   ],
+   [
+    "push",
+    55.75
+   ],
+   [
+    "is",
+    56.06
+   ],
+   [
+    "electricity",
+    56.21
+   ]
+  ]
+ },
+ {
+  "s": 57.61,
+  "e": 60.23,
+  "text": "And because the magnet keeps flipping north and south,",
+  "words": [
+   [
+    "and",
+    57.61
+   ],
+   [
+    "because",
+    57.78
+   ],
+   [
+    "the",
+    58.19
+   ],
+   [
+    "magnet",
+    58.36
+   ],
+   [
+    "keeps",
+    58.72
+   ],
+   [
+    "flipping",
+    59.01
+   ],
+   [
+    "north",
+    59.47
+   ],
+   [
+    "and",
+    59.77
+   ],
+   [
+    "south",
+    59.94
+   ]
+  ]
+ },
+ {
+  "s": 60.53,
+  "e": 62.33,
+  "text": "the push swings back and forth too.",
+  "words": [
+   [
+    "the",
+    60.53
+   ],
+   [
+    "push",
+    60.73
+   ],
+   [
+    "swings",
+    60.98
+   ],
+   [
+    "back",
+    61.37
+   ],
+   [
+    "and",
+    61.62
+   ],
+   [
+    "forth",
+    61.82
+   ],
+   [
+    "too",
+    62.14
+   ]
+  ]
+ },
+ {
+  "s": 62.88,
+  "e": 66.14,
+  "text": "In the US, it swings sixty times every second.",
+  "words": [
+   [
+    "in",
+    62.88
+   ],
+   [
+    "the",
+    63.06
+   ],
+   [
+    "us",
+    63.33
+   ],
+   [
+    "it",
+    63.52
+   ],
+   [
+    "swings",
+    63.7
+   ],
+   [
+    "sixty",
+    64.24
+   ],
+   [
+    "times",
+    64.69
+   ],
+   [
+    "every",
+    65.14
+   ],
+   [
+    "second",
+    65.6
+   ]
+  ]
+ },
+ {
+  "s": 66.69,
+  "e": 68.54,
+  "text": "In most of the world, it's fifty.",
+  "words": [
+   [
+    "in",
+    66.69
+   ],
+   [
+    "most",
+    66.84
+   ],
+   [
+    "of",
+    67.15
+   ],
+   [
+    "the",
+    67.31
+   ],
+   [
+    "world",
+    67.54
+   ],
+   [
+    "its",
+    67.92
+   ],
+   [
+    "fifty",
+    68.15
+   ]
+  ]
+ },
+ {
+  "s": 69.09,
+  "e": 71.0,
+  "text": "That's called alternating current.",
+  "words": [
+   [
+    "thats",
+    69.09
+   ],
+   [
+    "called",
+    69.42
+   ],
+   [
+    "alternating",
+    69.81
+   ],
+   [
+    "current",
+    70.54
+   ]
+  ]
+ },
+ {
+  "s": 71.55,
+  "e": 73.31,
+  "text": "Stop two: the voltage jump.",
+  "words": [
+   [
+    "stop",
+    71.55
+   ],
+   [
+    "two",
+    71.89
+   ],
+   [
+    "the",
+    72.14
+   ],
+   [
+    "voltage",
+    72.39
+   ],
+   [
+    "jump",
+    72.98
+   ]
+  ]
+ },
+ {
+  "s": 73.86,
+  "e": 76.84,
+  "text": "A generator makes about twenty thousand volts.",
+  "words": [
+   [
+    "a",
+    73.86
+   ],
+   [
+    "generator",
+    73.94
+   ],
+   [
+    "makes",
+    74.62
+   ],
+   [
+    "about",
+    75.01
+   ],
+   [
+    "twenty",
+    75.39
+   ],
+   [
+    "thousand",
+    75.84
+   ],
+   [
+    "volts",
+    76.46
+   ]
+  ]
+ },
+ {
+  "s": 77.39,
+  "e": 78.95,
+  "text": "But right outside the plant,",
+  "words": [
+   [
+    "but",
+    77.39
+   ],
+   [
+    "right",
+    77.59
+   ],
+   [
+    "outside",
+    77.93
+   ],
+   [
+    "the",
+    78.41
+   ],
+   [
+    "plant",
+    78.61
+   ]
+  ]
+ },
+ {
+  "s": 79.25,
+  "e": 81.61,
+  "text": "a step-up transformer cranks it way higher,",
+  "words": [
+   [
+    "a",
+    79.25
+   ],
+   [
+    "stepup",
+    79.32
+   ],
+   [
+    "transformer",
+    79.73
+   ],
+   [
+    "cranks",
+    80.47
+   ],
+   [
+    "it",
+    80.87
+   ],
+   [
+    "way",
+    81.01
+   ],
+   [
+    "higher",
+    81.21
+   ]
+  ]
+ },
+ {
+  "s": 81.91,
+  "e": 84.67,
+  "text": "up to seven hundred sixty-five thousand volts",
+  "words": [
+   [
+    "up",
+    81.91
+   ],
+   [
+    "to",
+    82.06
+   ],
+   [
+    "seven",
+    82.2
+   ],
+   [
+    "hundred",
+    82.56
+   ],
+   [
+    "sixtyfive",
+    83.07
+   ],
+   [
+    "thousand",
+    83.73
+   ],
+   [
+    "volts",
+    84.31
+   ]
+  ]
+ },
+ {
+  "s": 84.97,
+  "e": 86.28,
+  "text": "on the biggest lines.",
+  "words": [
+   [
+    "on",
+    84.97
+   ],
+   [
+    "the",
+    85.12
+   ],
+   [
+    "biggest",
+    85.36
+   ],
+   [
+    "lines",
+    85.9
+   ]
+  ]
+ },
+ {
+  "s": 86.83,
+  "e": 88.37,
+  "text": "Why make it so extreme?",
+  "words": [
+   [
+    "why",
+    86.83
+   ],
+   [
+    "make",
+    87.09
+   ],
+   [
+    "it",
+    87.43
+   ],
+   [
+    "so",
+    87.6
+   ],
+   [
+    "extreme",
+    87.77
+   ]
+  ]
+ },
+ {
+  "s": 88.92,
+  "e": 90.42,
+  "text": "Think of a garden hose.",
+  "words": [
+   [
+    "think",
+    88.92
+   ],
+   [
+    "of",
+    89.34
+   ],
+   [
+    "a",
+    89.5
+   ],
+   [
+    "garden",
+    89.59
+   ],
+   [
+    "hose",
+    90.08
+   ]
+  ]
+ },
+ {
+  "s": 90.97,
+  "e": 93.93,
+  "text": "You can move a lot of water slowly through a fat hose,",
+  "words": [
+   [
+    "you",
+    90.97
+   ],
+   [
+    "can",
+    91.18
+   ],
+   [
+    "move",
+    91.39
+   ],
+   [
+    "a",
+    91.67
+   ],
+   [
+    "lot",
+    91.74
+   ],
+   [
+    "of",
+    91.95
+   ],
+   [
+    "water",
+    92.09
+   ],
+   [
+    "slowly",
+    92.45
+   ],
+   [
+    "through",
+    92.87
+   ],
+   [
+    "a",
+    93.36
+   ],
+   [
+    "fat",
+    93.44
+   ],
+   [
+    "hose",
+    93.65
+   ]
+  ]
+ },
+ {
+  "s": 94.23,
+  "e": 96.75,
+  "text": "or the same water super fast through a thin one.",
+  "words": [
+   [
+    "or",
+    94.23
+   ],
+   [
+    "the",
+    94.36
+   ],
+   [
+    "same",
+    94.56
+   ],
+   [
+    "water",
+    94.83
+   ],
+   [
+    "super",
+    95.16
+   ],
+   [
+    "fast",
+    95.49
+   ],
+   [
+    "through",
+    95.76
+   ],
+   [
+    "a",
+    96.22
+   ],
+   [
+    "thin",
+    96.29
+   ],
+   [
+    "one",
+    96.55
+   ]
+  ]
+ },
+ {
+  "s": 97.3,
+  "e": 99.03,
+  "text": "Power lines work the same way.",
+  "words": [
+   [
+    "power",
+    97.3
+   ],
+   [
+    "lines",
+    97.66
+   ],
+   [
+    "work",
+    98.02
+   ],
+   [
+    "the",
+    98.31
+   ],
+   [
+    "same",
+    98.53
+   ],
+   [
+    "way",
+    98.82
+   ]
+  ]
+ },
+ {
+  "s": 99.58,
+  "e": 100.79,
+  "text": "Crank the voltage up,",
+  "words": [
+   [
+    "crank",
+    99.58
+   ],
+   [
+    "the",
+    99.94
+   ],
+   [
+    "voltage",
+    100.15
+   ],
+   [
+    "up",
+    100.65
+   ]
+  ]
+ },
+ {
+  "s": 101.09,
+  "e": 103.55,
+  "text": "and the current, the flow, drops way down.",
+  "words": [
+   [
+    "and",
+    101.09
+   ],
+   [
+    "the",
+    101.32
+   ],
+   [
+    "current",
+    101.56
+   ],
+   [
+    "the",
+    102.09
+   ],
+   [
+    "flow",
+    102.32
+   ],
+   [
+    "drops",
+    102.63
+   ],
+   [
+    "way",
+    103.01
+   ],
+   [
+    "down",
+    103.24
+   ]
+  ]
+ },
+ {
+  "s": 104.1,
+  "e": 107.04,
+  "text": "Less current means less heat wasted in the wires.",
+  "words": [
+   [
+    "less",
+    104.1
+   ],
+   [
+    "current",
+    104.4
+   ],
+   [
+    "means",
+    104.91
+   ],
+   [
+    "less",
+    105.28
+   ],
+   [
+    "heat",
+    105.57
+   ],
+   [
+    "wasted",
+    105.86
+   ],
+   [
+    "in",
+    106.3
+   ],
+   [
+    "the",
+    106.45
+   ],
+   [
+    "wires",
+    106.67
+   ]
+  ]
+ },
+ {
+  "s": 107.59,
+  "e": 110.09,
+  "text": "Even so, about five percent of the power",
+  "words": [
+   [
+    "even",
+    107.59
+   ],
+   [
+    "so",
+    107.9
+   ],
+   [
+    "about",
+    108.06
+   ],
+   [
+    "five",
+    108.45
+   ],
+   [
+    "percent",
+    108.76
+   ],
+   [
+    "of",
+    109.31
+   ],
+   [
+    "the",
+    109.46
+   ],
+   [
+    "power",
+    109.7
+   ]
+  ]
+ },
+ {
+  "s": 110.39,
+  "e": 112.24,
+  "text": "is lost as heat along the way.",
+  "words": [
+   [
+    "is",
+    110.39
+   ],
+   [
+    "lost",
+    110.55
+   ],
+   [
+    "as",
+    110.87
+   ],
+   [
+    "heat",
+    111.03
+   ],
+   [
+    "along",
+    111.36
+   ],
+   [
+    "the",
+    111.76
+   ],
+   [
+    "way",
+    112.0
+   ]
+  ]
+ },
+ {
+  "s": 112.79,
+  "e": 114.62,
+  "text": "Stop three: the step back down.",
+  "words": [
+   [
+    "stop",
+    112.79
+   ],
+   [
+    "three",
+    113.1
+   ],
+   [
+    "the",
+    113.48
+   ],
+   [
+    "step",
+    113.7
+   ],
+   [
+    "back",
+    114.01
+   ],
+   [
+    "down",
+    114.31
+   ]
+  ]
+ },
+ {
+  "s": 115.17,
+  "e": 119.02,
+  "text": "Seven hundred thousand volts would fry your toaster instantly.",
+  "words": [
+   [
+    "seven",
+    115.17
+   ],
+   [
+    "hundred",
+    115.53
+   ],
+   [
+    "thousand",
+    116.04
+   ],
+   [
+    "volts",
+    116.62
+   ],
+   [
+    "would",
+    116.99
+   ],
+   [
+    "fry",
+    117.35
+   ],
+   [
+    "your",
+    117.57
+   ],
+   [
+    "toaster",
+    117.86
+   ],
+   [
+    "instantly",
+    118.37
+   ]
+  ]
+ },
+ {
+  "s": 119.57,
+  "e": 121.75,
+  "text": "So the lines run into a substation,",
+  "words": [
+   [
+    "so",
+    119.57
+   ],
+   [
+    "the",
+    119.73
+   ],
+   [
+    "lines",
+    119.96
+   ],
+   [
+    "run",
+    120.35
+   ],
+   [
+    "into",
+    120.58
+   ],
+   [
+    "a",
+    120.9
+   ],
+   [
+    "substation",
+    120.97
+   ]
+  ]
+ },
+ {
+  "s": 122.05,
+  "e": 123.75,
+  "text": "where big transformers drop it",
+  "words": [
+   [
+    "where",
+    122.05
+   ],
+   [
+    "big",
+    122.38
+   ],
+   [
+    "transformers",
+    122.58
+   ],
+   [
+    "drop",
+    123.36
+   ],
+   [
+    "it",
+    123.62
+   ]
+  ]
+ },
+ {
+  "s": 124.05,
+  "e": 125.62,
+  "text": "to a few thousand volts.",
+  "words": [
+   [
+    "to",
+    124.05
+   ],
+   [
+    "a",
+    124.21
+   ],
+   [
+    "few",
+    124.3
+   ],
+   [
+    "thousand",
+    124.54
+   ],
+   [
+    "volts",
+    125.21
+   ]
+  ]
+ },
+ {
+  "s": 126.17,
+  "e": 128.39,
+  "text": "Those smaller lines run down your street.",
+  "words": [
+   [
+    "those",
+    126.17
+   ],
+   [
+    "smaller",
+    126.5
+   ],
+   [
+    "lines",
+    126.95
+   ],
+   [
+    "run",
+    127.28
+   ],
+   [
+    "down",
+    127.48
+   ],
+   [
+    "your",
+    127.74
+   ],
+   [
+    "street",
+    128.0
+   ]
+  ]
+ },
+ {
+  "s": 128.94,
+  "e": 130.58,
+  "text": "Then one last transformer,",
+  "words": [
+   [
+    "then",
+    128.94
+   ],
+   [
+    "one",
+    129.24
+   ],
+   [
+    "last",
+    129.47
+   ],
+   [
+    "transformer",
+    129.76
+   ]
+  ]
+ },
+ {
+  "s": 130.88,
+  "e": 134.24,
+  "text": "that gray can on the pole, or a green box on the lawn,",
+  "words": [
+   [
+    "that",
+    130.88
+   ],
+   [
+    "gray",
+    131.22
+   ],
+   [
+    "can",
+    131.56
+   ],
+   [
+    "on",
+    131.81
+   ],
+   [
+    "the",
+    131.97
+   ],
+   [
+    "pole",
+    132.23
+   ],
+   [
+    "or",
+    132.56
+   ],
+   [
+    "a",
+    132.73
+   ],
+   [
+    "green",
+    132.81
+   ],
+   [
+    "box",
+    133.23
+   ],
+   [
+    "on",
+    133.48
+   ],
+   [
+    "the",
+    133.65
+   ],
+   [
+    "lawn",
+    133.9
+   ]
+  ]
+ },
+ {
+  "s": 134.54,
+  "e": 136.82,
+  "text": "brings it down to what your house uses:",
+  "words": [
+   [
+    "brings",
+    134.54
+   ],
+   [
+    "it",
+    134.98
+   ],
+   [
+    "down",
+    135.13
+   ],
+   [
+    "to",
+    135.42
+   ],
+   [
+    "what",
+    135.57
+   ],
+   [
+    "your",
+    135.86
+   ],
+   [
+    "house",
+    136.16
+   ],
+   [
+    "uses",
+    136.53
+   ]
+  ]
+ },
+ {
+  "s": 137.12,
+  "e": 139.15,
+  "text": "a hundred twenty volts in the US,",
+  "words": [
+   [
+    "a",
+    137.12
+   ],
+   [
+    "hundred",
+    137.2
+   ],
+   [
+    "twenty",
+    137.74
+   ],
+   [
+    "volts",
+    138.21
+   ],
+   [
+    "in",
+    138.6
+   ],
+   [
+    "the",
+    138.76
+   ],
+   [
+    "us",
+    138.99
+   ]
+  ]
+ },
+ {
+  "s": 139.45,
+  "e": 142.26,
+  "text": "around two hundred thirty in much of the world.",
+  "words": [
+   [
+    "around",
+    139.45
+   ],
+   [
+    "two",
+    139.89
+   ],
+   [
+    "hundred",
+    140.11
+   ],
+   [
+    "thirty",
+    140.63
+   ],
+   [
+    "in",
+    141.08
+   ],
+   [
+    "much",
+    141.22
+   ],
+   [
+    "of",
+    141.52
+   ],
+   [
+    "the",
+    141.67
+   ],
+   [
+    "world",
+    141.89
+   ]
+  ]
+ },
+ {
+  "s": 142.81,
+  "e": 144.34,
+  "text": "Stop four: your walls.",
+  "words": [
+   [
+    "stop",
+    142.81
+   ],
+   [
+    "four",
+    143.17
+   ],
+   [
+    "your",
+    143.53
+   ],
+   [
+    "walls",
+    143.89
+   ]
+  ]
+ },
+ {
+  "s": 144.89,
+  "e": 146.58,
+  "text": "The wire enters through a meter,",
+  "words": [
+   [
+    "the",
+    144.89
+   ],
+   [
+    "wire",
+    145.09
+   ],
+   [
+    "enters",
+    145.35
+   ],
+   [
+    "through",
+    145.74
+   ],
+   [
+    "a",
+    146.19
+   ],
+   [
+    "meter",
+    146.26
+   ]
+  ]
+ },
+ {
+  "s": 146.88,
+  "e": 148.72,
+  "text": "which counts every bit you use,",
+  "words": [
+   [
+    "which",
+    146.88
+   ],
+   [
+    "counts",
+    147.25
+   ],
+   [
+    "every",
+    147.69
+   ],
+   [
+    "bit",
+    148.06
+   ],
+   [
+    "you",
+    148.28
+   ],
+   [
+    "use",
+    148.5
+   ]
+  ]
+ },
+ {
+  "s": 149.02,
+  "e": 150.32,
+  "text": "and then a breaker panel,",
+  "words": [
+   [
+    "and",
+    149.02
+   ],
+   [
+    "then",
+    149.21
+   ],
+   [
+    "a",
+    149.47
+   ],
+   [
+    "breaker",
+    149.54
+   ],
+   [
+    "panel",
+    149.99
+   ]
+  ]
+ },
+ {
+  "s": 150.62,
+  "e": 153.13,
+  "text": "which cuts the power if a wire gets too hot.",
+  "words": [
+   [
+    "which",
+    150.62
+   ],
+   [
+    "cuts",
+    150.98
+   ],
+   [
+    "the",
+    151.28
+   ],
+   [
+    "power",
+    151.5
+   ],
+   [
+    "if",
+    151.87
+   ],
+   [
+    "a",
+    152.02
+   ],
+   [
+    "wire",
+    152.09
+   ],
+   [
+    "gets",
+    152.39
+   ],
+   [
+    "too",
+    152.68
+   ],
+   [
+    "hot",
+    152.91
+   ]
+  ]
+ },
+ {
+  "s": 153.68,
+  "e": 156.04,
+  "text": "From there, cables run to every outlet.",
+  "words": [
+   [
+    "from",
+    153.68
+   ],
+   [
+    "there",
+    153.98
+   ],
+   [
+    "cables",
+    154.36
+   ],
+   [
+    "run",
+    154.82
+   ],
+   [
+    "to",
+    155.05
+   ],
+   [
+    "every",
+    155.2
+   ],
+   [
+    "outlet",
+    155.59
+   ]
+  ]
+ },
+ {
+  "s": 156.59,
+  "e": 158.29,
+  "text": "And those holes aren't random.",
+  "words": [
+   [
+    "and",
+    156.59
+   ],
+   [
+    "those",
+    156.8
+   ],
+   [
+    "holes",
+    157.16
+   ],
+   [
+    "arent",
+    157.51
+   ],
+   [
+    "random",
+    157.86
+   ]
+  ]
+ },
+ {
+  "s": 158.84,
+  "e": 161.52,
+  "text": "On a US outlet, the short slot is hot.",
+  "words": [
+   [
+    "on",
+    158.84
+   ],
+   [
+    "a",
+    159.03
+   ],
+   [
+    "us",
+    159.13
+   ],
+   [
+    "outlet",
+    159.32
+   ],
+   [
+    "the",
+    159.89
+   ],
+   [
+    "short",
+    160.18
+   ],
+   [
+    "slot",
+    160.66
+   ],
+   [
+    "is",
+    161.04
+   ],
+   [
+    "hot",
+    161.23
+   ]
+  ]
+ },
+ {
+  "s": 162.07,
+  "e": 163.51,
+  "text": "That's where the push comes in.",
+  "words": [
+   [
+    "thats",
+    162.07
+   ],
+   [
+    "where",
+    162.37
+   ],
+   [
+    "the",
+    162.67
+   ],
+   [
+    "push",
+    162.85
+   ],
+   [
+    "comes",
+    163.09
+   ],
+   [
+    "in",
+    163.39
+   ]
+  ]
+ },
+ {
+  "s": 164.06,
+  "e": 165.64,
+  "text": "The tall slot is neutral,",
+  "words": [
+   [
+    "the",
+    164.06
+   ],
+   [
+    "tall",
+    164.3
+   ],
+   [
+    "slot",
+    164.61
+   ],
+   [
+    "is",
+    164.93
+   ],
+   [
+    "neutral",
+    165.09
+   ]
+  ]
+ },
+ {
+  "s": 165.94,
+  "e": 166.9,
+  "text": "the path back.",
+  "words": [
+   [
+    "the",
+    165.94
+   ],
+   [
+    "path",
+    166.2
+   ],
+   [
+    "back",
+    166.55
+   ]
+  ]
+ },
+ {
+  "s": 167.45,
+  "e": 169.03,
+  "text": "And the round hole is ground,",
+  "words": [
+   [
+    "and",
+    167.45
+   ],
+   [
+    "the",
+    167.65
+   ],
+   [
+    "round",
+    167.86
+   ],
+   [
+    "hole",
+    168.21
+   ],
+   [
+    "is",
+    168.48
+   ],
+   [
+    "ground",
+    168.62
+   ]
+  ]
+ },
+ {
+  "s": 169.33,
+  "e": 171.56,
+  "text": "a safety exit if something goes wrong.",
+  "words": [
+   [
+    "a",
+    169.33
+   ],
+   [
+    "safety",
+    169.41
+   ],
+   [
+    "exit",
+    169.84
+   ],
+   [
+    "if",
+    170.12
+   ],
+   [
+    "something",
+    170.27
+   ],
+   [
+    "goes",
+    170.91
+   ],
+   [
+    "wrong",
+    171.2
+   ]
+  ]
+ },
+ {
+  "s": 172.11,
+  "e": 173.49,
+  "text": "Now the wildest part.",
+  "words": [
+   [
+    "now",
+    172.11
+   ],
+   [
+    "the",
+    172.35
+   ],
+   [
+    "wildest",
+    172.59
+   ],
+   [
+    "part",
+    173.16
+   ]
+  ]
+ },
+ {
+  "s": 174.04,
+  "e": 176.88,
+  "text": "Flip a switch, and the light turns on instantly.",
+  "words": [
+   [
+    "flip",
+    174.04
+   ],
+   [
+    "a",
+    174.34
+   ],
+   [
+    "switch",
+    174.41
+   ],
+   [
+    "and",
+    174.86
+   ],
+   [
+    "the",
+    175.09
+   ],
+   [
+    "light",
+    175.31
+   ],
+   [
+    "turns",
+    175.68
+   ],
+   [
+    "on",
+    176.06
+   ],
+   [
+    "instantly",
+    176.21
+   ]
+  ]
+ },
+ {
+  "s": 177.43,
+  "e": 179.92,
+  "text": "But the electrons in the wire barely move.",
+  "words": [
+   [
+    "but",
+    177.43
+   ],
+   [
+    "the",
+    177.65
+   ],
+   [
+    "electrons",
+    177.87
+   ],
+   [
+    "in",
+    178.53
+   ],
+   [
+    "the",
+    178.67
+   ],
+   [
+    "wire",
+    178.89
+   ],
+   [
+    "barely",
+    179.19
+   ],
+   [
+    "move",
+    179.63
+   ]
+  ]
+ },
+ {
+  "s": 180.47,
+  "e": 182.11,
+  "text": "They crawl slower than a snail,",
+  "words": [
+   [
+    "they",
+    180.47
+   ],
+   [
+    "crawl",
+    180.73
+   ],
+   [
+    "slower",
+    181.06
+   ],
+   [
+    "than",
+    181.45
+   ],
+   [
+    "a",
+    181.72
+   ],
+   [
+    "snail",
+    181.78
+   ]
+  ]
+ },
+ {
+  "s": 182.41,
+  "e": 184.56,
+  "text": "mostly just wiggling back and forth.",
+  "words": [
+   [
+    "mostly",
+    182.41
+   ],
+   [
+    "just",
+    182.84
+   ],
+   [
+    "wiggling",
+    183.13
+   ],
+   [
+    "back",
+    183.7
+   ],
+   [
+    "and",
+    183.99
+   ],
+   [
+    "forth",
+    184.2
+   ]
+  ]
+ },
+ {
+  "s": 185.11,
+  "e": 187.77,
+  "text": "What races through the wire is the push itself,",
+  "words": [
+   [
+    "what",
+    185.11
+   ],
+   [
+    "races",
+    185.39
+   ],
+   [
+    "through",
+    185.74
+   ],
+   [
+    "the",
+    186.23
+   ],
+   [
+    "wire",
+    186.44
+   ],
+   [
+    "is",
+    186.72
+   ],
+   [
+    "the",
+    186.86
+   ],
+   [
+    "push",
+    187.07
+   ],
+   [
+    "itself",
+    187.35
+   ]
+  ]
+ },
+ {
+  "s": 188.07,
+  "e": 189.91,
+  "text": "moving at close to the speed of light.",
+  "words": [
+   [
+    "moving",
+    188.07
+   ],
+   [
+    "at",
+    188.44
+   ],
+   [
+    "close",
+    188.56
+   ],
+   [
+    "to",
+    188.87
+   ],
+   [
+    "the",
+    188.99
+   ],
+   [
+    "speed",
+    189.17
+   ],
+   [
+    "of",
+    189.48
+   ],
+   [
+    "light",
+    189.61
+   ]
+  ]
+ },
+ {
+  "s": 190.46,
+  "e": 193.6,
+  "text": "So the energy in your charger left that spinning magnet",
+  "words": [
+   [
+    "so",
+    190.46
+   ],
+   [
+    "the",
+    190.6
+   ],
+   [
+    "energy",
+    190.8
+   ],
+   [
+    "in",
+    191.21
+   ],
+   [
+    "your",
+    191.35
+   ],
+   [
+    "charger",
+    191.62
+   ],
+   [
+    "left",
+    192.1
+   ],
+   [
+    "that",
+    192.37
+   ],
+   [
+    "spinning",
+    192.65
+   ],
+   [
+    "magnet",
+    193.19
+   ]
+  ]
+ },
+ {
+  "s": 193.9,
+  "e": 195.2,
+  "text": "a split second ago.",
+  "words": [
+   [
+    "a",
+    193.9
+   ],
+   [
+    "split",
+    193.99
+   ],
+   [
+    "second",
+    194.42
+   ],
+   [
+    "ago",
+    194.94
+   ]
+  ]
+ },
+ {
+  "s": 195.75,
+  "e": 199.73,
+  "text": "Twenty thousand volts, then seven hundred sixty-five thousand,",
+  "words": [
+   [
+    "twenty",
+    195.75
+   ],
+   [
+    "thousand",
+    196.21
+   ],
+   [
+    "volts",
+    196.82
+   ],
+   [
+    "then",
+    197.21
+   ],
+   [
+    "seven",
+    197.51
+   ],
+   [
+    "hundred",
+    197.9
+   ],
+   [
+    "sixtyfive",
+    198.43
+   ],
+   [
+    "thousand",
+    199.12
+   ]
+  ]
+ },
+ {
+  "s": 200.03,
+  "e": 201.38,
+  "text": "then down to the wall,",
+  "words": [
+   [
+    "then",
+    200.03
+   ],
+   [
+    "down",
+    200.35
+   ],
+   [
+    "to",
+    200.67
+   ],
+   [
+    "the",
+    200.82
+   ],
+   [
+    "wall",
+    201.06
+   ]
+  ]
+ },
+ {
+  "s": 201.68,
+  "e": 203.18,
+  "text": "all in the blink of an eye.",
+  "words": [
+   [
+    "all",
+    201.68
+   ],
+   [
+    "in",
+    201.9
+   ],
+   [
+    "the",
+    202.05
+   ],
+   [
+    "blink",
+    202.28
+   ],
+   [
+    "of",
+    202.66
+   ],
+   [
+    "an",
+    202.81
+   ],
+   [
+    "eye",
+    202.96
+   ]
+  ]
+ },
+ {
+  "s": 203.73,
+  "e": 206.34,
+  "text": "Next time: if Earth is spinning so fast,",
+  "words": [
+   [
+    "next",
+    203.73
+   ],
+   [
+    "time",
+    204.07
+   ],
+   [
+    "if",
+    204.4
+   ],
+   [
+    "earth",
+    204.57
+   ],
+   [
+    "is",
+    204.99
+   ],
+   [
+    "spinning",
+    205.16
+   ],
+   [
+    "so",
+    205.83
+   ],
+   [
+    "fast",
+    206.0
+   ]
+  ]
+ },
+ {
+  "s": 206.64,
+  "e": 207.92,
+  "text": "why don't we fly off?",
+  "words": [
+   [
+    "why",
+    206.64
+   ],
+   [
+    "dont",
+    206.89
+   ],
+   [
+    "we",
+    207.24
+   ],
+   [
+    "fly",
+    207.41
+   ],
+   [
+    "off",
+    207.67
+   ]
+  ]
+ }
+]
