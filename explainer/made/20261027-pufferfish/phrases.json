@@ -1,0 +1,700 @@
+[
+ {
+  "s": 0.25,
+  "e": 3.22,
+  "text": "A pufferfish stomach stretches 100 times bigger,",
+  "words": [
+   [
+    "a",
+    0.25
+   ],
+   [
+    "pufferfish",
+    0.32
+   ],
+   [
+    "stomach",
+    1.05
+   ],
+   [
+    "stretches",
+    1.55
+   ],
+   [
+    "100",
+    2.21
+   ],
+   [
+    "times",
+    2.42
+   ],
+   [
+    "bigger",
+    2.79
+   ]
+  ]
+ },
+ {
+  "s": 3.52,
+  "e": 5.28,
+  "text": "and you'd never guess why it has to.",
+  "words": [
+   [
+    "and",
+    3.52
+   ],
+   [
+    "youd",
+    3.72
+   ],
+   [
+    "never",
+    3.98
+   ],
+   [
+    "guess",
+    4.3
+   ],
+   [
+    "why",
+    4.63
+   ],
+   [
+    "it",
+    4.83
+   ],
+   [
+    "has",
+    4.96
+   ],
+   [
+    "to",
+    5.15
+   ]
+  ]
+ },
+ {
+  "s": 5.83,
+  "e": 7.67,
+  "text": "When a hungry fish gets close,",
+  "words": [
+   [
+    "when",
+    5.83
+   ],
+   [
+    "a",
+    6.14
+   ],
+   [
+    "hungry",
+    6.22
+   ],
+   [
+    "fish",
+    6.68
+   ],
+   [
+    "gets",
+    6.98
+   ],
+   [
+    "close",
+    7.29
+   ]
+  ]
+ },
+ {
+  "s": 7.97,
+  "e": 10.17,
+  "text": "the pufferfish opens its mouth wide",
+  "words": [
+   [
+    "the",
+    7.97
+   ],
+   [
+    "pufferfish",
+    8.19
+   ],
+   [
+    "opens",
+    8.93
+   ],
+   [
+    "its",
+    9.29
+   ],
+   [
+    "mouth",
+    9.51
+   ],
+   [
+    "wide",
+    9.88
+   ]
+  ]
+ },
+ {
+  "s": 10.47,
+  "e": 11.99,
+  "text": "and gulps seawater, fast.",
+  "words": [
+   [
+    "and",
+    10.47
+   ],
+   [
+    "gulps",
+    10.7
+   ],
+   [
+    "seawater",
+    11.08
+   ],
+   [
+    "fast",
+    11.69
+   ]
+  ]
+ },
+ {
+  "s": 12.54,
+  "e": 13.67,
+  "text": "Gulp after gulp,",
+  "words": [
+   [
+    "gulp",
+    12.54
+   ],
+   [
+    "after",
+    12.89
+   ],
+   [
+    "gulp",
+    13.32
+   ]
+  ]
+ },
+ {
+  "s": 13.97,
+  "e": 15.93,
+  "text": "it pumps the water into its stomach.",
+  "words": [
+   [
+    "it",
+    13.97
+   ],
+   [
+    "pumps",
+    14.11
+   ],
+   [
+    "the",
+    14.44
+   ],
+   [
+    "water",
+    14.65
+   ],
+   [
+    "into",
+    14.98
+   ],
+   [
+    "its",
+    15.25
+   ],
+   [
+    "stomach",
+    15.45
+   ]
+  ]
+ },
+ {
+  "s": 16.48,
+  "e": 18.82,
+  "text": "That stomach is folded like an accordion,",
+  "words": [
+   [
+    "that",
+    16.48
+   ],
+   [
+    "stomach",
+    16.75
+   ],
+   [
+    "is",
+    17.23
+   ],
+   [
+    "folded",
+    17.37
+   ],
+   [
+    "like",
+    17.79
+   ],
+   [
+    "an",
+    18.06
+   ],
+   [
+    "accordion",
+    18.2
+   ]
+  ]
+ },
+ {
+  "s": 19.12,
+  "e": 21.45,
+  "text": "so it unfolds and keeps on stretching.",
+  "words": [
+   [
+    "so",
+    19.12
+   ],
+   [
+    "it",
+    19.27
+   ],
+   [
+    "unfolds",
+    19.42
+   ],
+   [
+    "and",
+    19.95
+   ],
+   [
+    "keeps",
+    20.17
+   ],
+   [
+    "on",
+    20.55
+   ],
+   [
+    "stretching",
+    20.7
+   ]
+  ]
+ },
+ {
+  "s": 22.0,
+  "e": 23.97,
+  "text": "There are almost no ribs in the way,",
+  "words": [
+   [
+    "there",
+    22.0
+   ],
+   [
+    "are",
+    22.35
+   ],
+   [
+    "almost",
+    22.56
+   ],
+   [
+    "no",
+    22.98
+   ],
+   [
+    "ribs",
+    23.13
+   ],
+   [
+    "in",
+    23.41
+   ],
+   [
+    "the",
+    23.55
+   ],
+   [
+    "way",
+    23.76
+   ]
+  ]
+ },
+ {
+  "s": 24.27,
+  "e": 26.06,
+  "text": "so the whole body balloons out.",
+  "words": [
+   [
+    "so",
+    24.27
+   ],
+   [
+    "the",
+    24.41
+   ],
+   [
+    "whole",
+    24.63
+   ],
+   [
+    "body",
+    24.99
+   ],
+   [
+    "balloons",
+    25.27
+   ],
+   [
+    "out",
+    25.85
+   ]
+  ]
+ },
+ {
+  "s": 26.61,
+  "e": 28.26,
+  "text": "Its stretchy skin pulls tight,",
+  "words": [
+   [
+    "its",
+    26.61
+   ],
+   [
+    "stretchy",
+    26.81
+   ],
+   [
+    "skin",
+    27.34
+   ],
+   [
+    "pulls",
+    27.6
+   ],
+   [
+    "tight",
+    27.93
+   ]
+  ]
+ },
+ {
+  "s": 28.56,
+  "e": 30.51,
+  "text": "and little spines pop up all over.",
+  "words": [
+   [
+    "and",
+    28.56
+   ],
+   [
+    "little",
+    28.78
+   ],
+   [
+    "spines",
+    29.21
+   ],
+   [
+    "pop",
+    29.64
+   ],
+   [
+    "up",
+    29.86
+   ],
+   [
+    "all",
+    30.0
+   ],
+   [
+    "over",
+    30.22
+   ]
+  ]
+ },
+ {
+  "s": 31.06,
+  "e": 33.11,
+  "text": "Now it's about three times its size,",
+  "words": [
+   [
+    "now",
+    31.06
+   ],
+   [
+    "its",
+    31.28
+   ],
+   [
+    "about",
+    31.5
+   ],
+   [
+    "three",
+    31.86
+   ],
+   [
+    "times",
+    32.23
+   ],
+   [
+    "its",
+    32.6
+   ],
+   [
+    "size",
+    32.82
+   ]
+  ]
+ },
+ {
+  "s": 33.41,
+  "e": 34.46,
+  "text": "a spiky ball",
+  "words": [
+   [
+    "a",
+    33.41
+   ],
+   [
+    "spiky",
+    33.52
+   ],
+   [
+    "ball",
+    34.04
+   ]
+  ]
+ },
+ {
+  "s": 34.76,
+  "e": 36.25,
+  "text": "way too big to swallow.",
+  "words": [
+   [
+    "way",
+    34.76
+   ],
+   [
+    "too",
+    35.01
+   ],
+   [
+    "big",
+    35.26
+   ],
+   [
+    "to",
+    35.5
+   ],
+   [
+    "swallow",
+    35.67
+   ]
+  ]
+ },
+ {
+  "s": 36.8,
+  "e": 38.48,
+  "text": "But puffing up is hard work.",
+  "words": [
+   [
+    "but",
+    36.8
+   ],
+   [
+    "puffing",
+    37.03
+   ],
+   [
+    "up",
+    37.56
+   ],
+   [
+    "is",
+    37.71
+   ],
+   [
+    "hard",
+    37.87
+   ],
+   [
+    "work",
+    38.17
+   ]
+  ]
+ },
+ {
+  "s": 39.03,
+  "e": 41.16,
+  "text": "It can take hours to catch its breath,",
+  "words": [
+   [
+    "it",
+    39.03
+   ],
+   [
+    "can",
+    39.17
+   ],
+   [
+    "take",
+    39.38
+   ],
+   [
+    "hours",
+    39.67
+   ],
+   [
+    "to",
+    40.02
+   ],
+   [
+    "catch",
+    40.16
+   ],
+   [
+    "its",
+    40.52
+   ],
+   [
+    "breath",
+    40.73
+   ]
+  ]
+ },
+ {
+  "s": 41.46,
+  "e": 43.19,
+  "text": "so it only puffs when it has to.",
+  "words": [
+   [
+    "so",
+    41.46
+   ],
+   [
+    "it",
+    41.6
+   ],
+   [
+    "only",
+    41.75
+   ],
+   [
+    "puffs",
+    42.04
+   ],
+   [
+    "when",
+    42.4
+   ],
+   [
+    "it",
+    42.68
+   ],
+   [
+    "has",
+    42.83
+   ],
+   [
+    "to",
+    43.05
+   ]
+  ]
+ },
+ {
+  "s": 43.74,
+  "e": 45.43,
+  "text": "Then it spits the water back out.",
+  "words": [
+   [
+    "then",
+    43.74
+   ],
+   [
+    "it",
+    44.0
+   ],
+   [
+    "spits",
+    44.13
+   ],
+   [
+    "the",
+    44.46
+   ],
+   [
+    "water",
+    44.65
+   ],
+   [
+    "back",
+    44.98
+   ],
+   [
+    "out",
+    45.24
+   ]
+  ]
+ },
+ {
+  "s": 45.98,
+  "e": 47.47,
+  "text": "So if you were a pufferfish,",
+  "words": [
+   [
+    "so",
+    45.98
+   ],
+   [
+    "if",
+    46.12
+   ],
+   [
+    "you",
+    46.25
+   ],
+   [
+    "were",
+    46.45
+   ],
+   [
+    "a",
+    46.72
+   ],
+   [
+    "pufferfish",
+    46.79
+   ]
+  ]
+ },
+ {
+  "s": 47.77,
+  "e": 48.99,
+  "text": "what would make you puff?",
+  "words": [
+   [
+    "what",
+    47.77
+   ],
+   [
+    "would",
+    48.01
+   ],
+   [
+    "make",
+    48.32
+   ],
+   [
+    "you",
+    48.56
+   ],
+   [
+    "puff",
+    48.74
+   ]
+  ]
+ }
+]
