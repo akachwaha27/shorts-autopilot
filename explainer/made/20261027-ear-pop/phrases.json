@@ -1,0 +1,754 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.58,
+  "text": "A three and a half centimeter tube in your skull",
+  "words": [
+   [
+    "a",
+    0.25
+   ],
+   [
+    "three",
+    0.31
+   ],
+   [
+    "and",
+    0.61
+   ],
+   [
+    "a",
+    0.79
+   ],
+   [
+    "half",
+    0.85
+   ],
+   [
+    "centimeter",
+    1.09
+   ],
+   [
+    "tube",
+    1.68
+   ],
+   [
+    "in",
+    1.92
+   ],
+   [
+    "your",
+    2.04
+   ],
+   [
+    "skull",
+    2.28
+   ]
+  ]
+ },
+ {
+  "s": 2.88,
+  "e": 4.35,
+  "text": "is why your ears pop.",
+  "words": [
+   [
+    "is",
+    2.88
+   ],
+   [
+    "why",
+    3.06
+   ],
+   [
+    "your",
+    3.34
+   ],
+   [
+    "ears",
+    3.7
+   ],
+   [
+    "pop",
+    4.07
+   ]
+  ]
+ },
+ {
+  "s": 4.9,
+  "e": 6.6,
+  "text": "It's called the Eustachian tube,",
+  "words": [
+   [
+    "its",
+    4.9
+   ],
+   [
+    "called",
+    5.09
+   ],
+   [
+    "the",
+    5.48
+   ],
+   [
+    "eustachian",
+    5.68
+   ],
+   [
+    "tube",
+    6.33
+   ]
+  ]
+ },
+ {
+  "s": 6.9,
+  "e": 8.24,
+  "text": "and it links your middle ear",
+  "words": [
+   [
+    "and",
+    6.9
+   ],
+   [
+    "it",
+    7.07
+   ],
+   [
+    "links",
+    7.19
+   ],
+   [
+    "your",
+    7.48
+   ],
+   [
+    "middle",
+    7.71
+   ],
+   [
+    "ear",
+    8.07
+   ]
+  ]
+ },
+ {
+  "s": 8.54,
+  "e": 9.86,
+  "text": "to the back of your throat.",
+  "words": [
+   [
+    "to",
+    8.54
+   ],
+   [
+    "the",
+    8.67
+   ],
+   [
+    "back",
+    8.85
+   ],
+   [
+    "of",
+    9.1
+   ],
+   [
+    "your",
+    9.23
+   ],
+   [
+    "throat",
+    9.48
+   ]
+  ]
+ },
+ {
+  "s": 10.41,
+  "e": 13.09,
+  "text": "Behind your eardrum sits a tiny pocket of air.",
+  "words": [
+   [
+    "behind",
+    10.41
+   ],
+   [
+    "your",
+    10.84
+   ],
+   [
+    "eardrum",
+    11.13
+   ],
+   [
+    "sits",
+    11.64
+   ],
+   [
+    "a",
+    11.93
+   ],
+   [
+    "tiny",
+    12.0
+   ],
+   [
+    "pocket",
+    12.29
+   ],
+   [
+    "of",
+    12.73
+   ],
+   [
+    "air",
+    12.88
+   ]
+  ]
+ },
+ {
+  "s": 13.64,
+  "e": 15.91,
+  "text": "On the ground, it matches the air outside.",
+  "words": [
+   [
+    "on",
+    13.64
+   ],
+   [
+    "the",
+    13.78
+   ],
+   [
+    "ground",
+    13.99
+   ],
+   [
+    "it",
+    14.4
+   ],
+   [
+    "matches",
+    14.54
+   ],
+   [
+    "the",
+    15.02
+   ],
+   [
+    "air",
+    15.23
+   ],
+   [
+    "outside",
+    15.43
+   ]
+  ]
+ },
+ {
+  "s": 16.46,
+  "e": 18.73,
+  "text": "But a plane cabin is only pressurized",
+  "words": [
+   [
+    "but",
+    16.46
+   ],
+   [
+    "a",
+    16.68
+   ],
+   [
+    "plane",
+    16.76
+   ],
+   [
+    "cabin",
+    17.12
+   ],
+   [
+    "is",
+    17.49
+   ],
+   [
+    "only",
+    17.63
+   ],
+   [
+    "pressurized",
+    17.92
+   ]
+  ]
+ },
+ {
+  "s": 19.03,
+  "e": 20.92,
+  "text": "like an eight thousand foot mountain.",
+  "words": [
+   [
+    "like",
+    19.03
+   ],
+   [
+    "an",
+    19.27
+   ],
+   [
+    "eight",
+    19.39
+   ],
+   [
+    "thousand",
+    19.7
+   ],
+   [
+    "foot",
+    20.19
+   ],
+   [
+    "mountain",
+    20.43
+   ]
+  ]
+ },
+ {
+  "s": 21.47,
+  "e": 24.11,
+  "text": "So as you climb, the outside pressure drops,",
+  "words": [
+   [
+    "so",
+    21.47
+   ],
+   [
+    "as",
+    21.62
+   ],
+   [
+    "you",
+    21.77
+   ],
+   [
+    "climb",
+    22.0
+   ],
+   [
+    "the",
+    22.37
+   ],
+   [
+    "outside",
+    22.6
+   ],
+   [
+    "pressure",
+    23.13
+   ],
+   [
+    "drops",
+    23.73
+   ]
+  ]
+ },
+ {
+  "s": 24.41,
+  "e": 26.71,
+  "text": "and the air behind your eardrum pushes out.",
+  "words": [
+   [
+    "and",
+    24.41
+   ],
+   [
+    "the",
+    24.6
+   ],
+   [
+    "air",
+    24.8
+   ],
+   [
+    "behind",
+    25.0
+   ],
+   [
+    "your",
+    25.39
+   ],
+   [
+    "eardrum",
+    25.66
+   ],
+   [
+    "pushes",
+    26.12
+   ],
+   [
+    "out",
+    26.51
+   ]
+  ]
+ },
+ {
+  "s": 27.26,
+  "e": 29.29,
+  "text": "Your eardrum bulges like a balloon,",
+  "words": [
+   [
+    "your",
+    27.26
+   ],
+   [
+    "eardrum",
+    27.54
+   ],
+   [
+    "bulges",
+    28.03
+   ],
+   [
+    "like",
+    28.45
+   ],
+   [
+    "a",
+    28.73
+   ],
+   [
+    "balloon",
+    28.8
+   ]
+  ]
+ },
+ {
+  "s": 29.59,
+  "e": 31.13,
+  "text": "until the tube cracks open,",
+  "words": [
+   [
+    "until",
+    29.59
+   ],
+   [
+    "the",
+    29.94
+   ],
+   [
+    "tube",
+    30.15
+   ],
+   [
+    "cracks",
+    30.43
+   ],
+   [
+    "open",
+    30.85
+   ]
+  ]
+ },
+ {
+  "s": 31.43,
+  "e": 32.81,
+  "text": "air puffs out, and pop!",
+  "words": [
+   [
+    "air",
+    31.43
+   ],
+   [
+    "puffs",
+    31.67
+   ],
+   [
+    "out",
+    32.08
+   ],
+   [
+    "and",
+    32.32
+   ],
+   [
+    "pop",
+    32.57
+   ]
+  ]
+ },
+ {
+  "s": 33.36,
+  "e": 34.63,
+  "text": "Landing is trickier.",
+  "words": [
+   [
+    "landing",
+    33.36
+   ],
+   [
+    "is",
+    33.88
+   ],
+   [
+    "trickier",
+    34.03
+   ]
+  ]
+ },
+ {
+  "s": 35.18,
+  "e": 36.89,
+  "text": "Now the cabin air squeezes in,",
+  "words": [
+   [
+    "now",
+    35.18
+   ],
+   [
+    "the",
+    35.39
+   ],
+   [
+    "cabin",
+    35.6
+   ],
+   [
+    "air",
+    35.96
+   ],
+   [
+    "squeezes",
+    36.17
+   ],
+   [
+    "in",
+    36.74
+   ]
+  ]
+ },
+ {
+  "s": 37.19,
+  "e": 39.09,
+  "text": "and that pressure pinches the tube shut.",
+  "words": [
+   [
+    "and",
+    37.19
+   ],
+   [
+    "that",
+    37.36
+   ],
+   [
+    "pressure",
+    37.59
+   ],
+   [
+    "pinches",
+    38.05
+   ],
+   [
+    "the",
+    38.45
+   ],
+   [
+    "tube",
+    38.63
+   ],
+   [
+    "shut",
+    38.86
+   ]
+  ]
+ },
+ {
+  "s": 39.64,
+  "e": 41.31,
+  "text": "So you swallow, or you yawn.",
+  "words": [
+   [
+    "so",
+    39.64
+   ],
+   [
+    "you",
+    39.8
+   ],
+   [
+    "swallow",
+    40.04
+   ],
+   [
+    "or",
+    40.59
+   ],
+   [
+    "you",
+    40.75
+   ],
+   [
+    "yawn",
+    40.99
+   ]
+  ]
+ },
+ {
+  "s": 41.86,
+  "e": 44.0,
+  "text": "Tiny muscles yank the tube open,",
+  "words": [
+   [
+    "tiny",
+    41.86
+   ],
+   [
+    "muscles",
+    42.19
+   ],
+   [
+    "yank",
+    42.76
+   ],
+   [
+    "the",
+    43.09
+   ],
+   [
+    "tube",
+    43.34
+   ],
+   [
+    "open",
+    43.67
+   ]
+  ]
+ },
+ {
+  "s": 44.3,
+  "e": 45.31,
+  "text": "air rushes in,",
+  "words": [
+   [
+    "air",
+    44.3
+   ],
+   [
+    "rushes",
+    44.57
+   ],
+   [
+    "in",
+    45.13
+   ]
+  ]
+ },
+ {
+  "s": 45.61,
+  "e": 47.42,
+  "text": "and your eardrum snaps back flat.",
+  "words": [
+   [
+    "and",
+    45.61
+   ],
+   [
+    "your",
+    45.81
+   ],
+   [
+    "eardrum",
+    46.08
+   ],
+   [
+    "snaps",
+    46.55
+   ],
+   [
+    "back",
+    46.89
+   ],
+   [
+    "flat",
+    47.16
+   ]
+  ]
+ },
+ {
+  "s": 47.97,
+  "e": 48.98,
+  "text": "So next flight,",
+  "words": [
+   [
+    "so",
+    47.97
+   ],
+   [
+    "next",
+    48.14
+   ],
+   [
+    "flight",
+    48.48
+   ]
+  ]
+ },
+ {
+  "s": 49.28,
+  "e": 51.64,
+  "text": "will you open that secret tube with a yawn,",
+  "words": [
+   [
+    "will",
+    49.28
+   ],
+   [
+    "you",
+    49.56
+   ],
+   [
+    "open",
+    49.77
+   ],
+   [
+    "that",
+    50.05
+   ],
+   [
+    "secret",
+    50.32
+   ],
+   [
+    "tube",
+    50.74
+   ],
+   [
+    "with",
+    51.02
+   ],
+   [
+    "a",
+    51.3
+   ],
+   [
+    "yawn",
+    51.36
+   ]
+  ]
+ },
+ {
+  "s": 51.94,
+  "e": 52.83,
+  "text": "or a swallow?",
+  "words": [
+   [
+    "or",
+    51.94
+   ],
+   [
+    "a",
+    52.12
+   ],
+   [
+    "swallow",
+    52.21
+   ]
+  ]
+ }
+]
