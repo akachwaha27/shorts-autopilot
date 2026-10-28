@@ -1,0 +1,695 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.01,
+  "text": "Fireflies make cold light.",
+  "words": [
+   [
+    "fireflies",
+    0.25
+   ],
+   [
+    "make",
+    0.97
+   ],
+   [
+    "cold",
+    1.29
+   ],
+   [
+    "light",
+    1.61
+   ]
+  ]
+ },
+ {
+  "s": 2.56,
+  "e": 5.0,
+  "text": "Your old bulb wastes ninety percent as heat,",
+  "words": [
+   [
+    "your",
+    2.56
+   ],
+   [
+    "old",
+    2.83
+   ],
+   [
+    "bulb",
+    3.04
+   ],
+   [
+    "wastes",
+    3.31
+   ],
+   [
+    "ninety",
+    3.71
+   ],
+   [
+    "percent",
+    4.12
+   ],
+   [
+    "as",
+    4.6
+   ],
+   [
+    "heat",
+    4.73
+   ]
+  ]
+ },
+ {
+  "s": 5.3,
+  "e": 7.28,
+  "text": "so how do fireflies stay cool?",
+  "words": [
+   [
+    "so",
+    5.3
+   ],
+   [
+    "how",
+    5.47
+   ],
+   [
+    "do",
+    5.72
+   ],
+   [
+    "fireflies",
+    5.88
+   ],
+   [
+    "stay",
+    6.62
+   ],
+   [
+    "cool",
+    6.95
+   ]
+  ]
+ },
+ {
+  "s": 7.83,
+  "e": 9.5,
+  "text": "Inside a firefly's tail,",
+  "words": [
+   [
+    "inside",
+    7.83
+   ],
+   [
+    "a",
+    8.36
+   ],
+   [
+    "fireflys",
+    8.45
+   ],
+   [
+    "tail",
+    9.15
+   ]
+  ]
+ },
+ {
+  "s": 9.8,
+  "e": 11.99,
+  "text": "sits a glowing organ called the lantern.",
+  "words": [
+   [
+    "sits",
+    9.8
+   ],
+   [
+    "a",
+    10.07
+   ],
+   [
+    "glowing",
+    10.13
+   ],
+   [
+    "organ",
+    10.6
+   ],
+   [
+    "called",
+    10.93
+   ],
+   [
+    "the",
+    11.33
+   ],
+   [
+    "lantern",
+    11.53
+   ]
+  ]
+ },
+ {
+  "s": 12.54,
+  "e": 15.09,
+  "text": "Its cells are packed with a fuel, luciferin,",
+  "words": [
+   [
+    "its",
+    12.54
+   ],
+   [
+    "cells",
+    12.76
+   ],
+   [
+    "are",
+    13.12
+   ],
+   [
+    "packed",
+    13.34
+   ],
+   [
+    "with",
+    13.78
+   ],
+   [
+    "a",
+    14.07
+   ],
+   [
+    "fuel",
+    14.14
+   ],
+   [
+    "luciferin",
+    14.44
+   ]
+  ]
+ },
+ {
+  "s": 15.39,
+  "e": 17.28,
+  "text": "and an enzyme, luciferase.",
+  "words": [
+   [
+    "and",
+    15.39
+   ],
+   [
+    "an",
+    15.66
+   ],
+   [
+    "enzyme",
+    15.84
+   ],
+   [
+    "luciferase",
+    16.38
+   ]
+  ]
+ },
+ {
+  "s": 17.83,
+  "e": 19.26,
+  "text": "Add a spark of energy,",
+  "words": [
+   [
+    "add",
+    17.83
+   ],
+   [
+    "a",
+    18.09
+   ],
+   [
+    "spark",
+    18.17
+   ],
+   [
+    "of",
+    18.59
+   ],
+   [
+    "energy",
+    18.76
+   ]
+  ]
+ },
+ {
+  "s": 19.56,
+  "e": 21.06,
+  "text": "and a puff of oxygen,",
+  "words": [
+   [
+    "and",
+    19.56
+   ],
+   [
+    "a",
+    19.84
+   ],
+   [
+    "puff",
+    19.93
+   ],
+   [
+    "of",
+    20.31
+   ],
+   [
+    "oxygen",
+    20.5
+   ]
+  ]
+ },
+ {
+  "s": 21.36,
+  "e": 22.64,
+  "text": "and the fuel lights up.",
+  "words": [
+   [
+    "and",
+    21.36
+   ],
+   [
+    "the",
+    21.58
+   ],
+   [
+    "fuel",
+    21.79
+   ],
+   [
+    "lights",
+    22.07
+   ],
+   [
+    "up",
+    22.5
+   ]
+  ]
+ },
+ {
+  "s": 23.19,
+  "e": 24.8,
+  "text": "No fire, just chemistry.",
+  "words": [
+   [
+    "no",
+    23.19
+   ],
+   [
+    "fire",
+    23.36
+   ],
+   [
+    "just",
+    23.7
+   ],
+   [
+    "chemistry",
+    24.04
+   ]
+  ]
+ },
+ {
+  "s": 25.35,
+  "e": 26.6,
+  "text": "But how does it blink?",
+  "words": [
+   [
+    "but",
+    25.35
+   ],
+   [
+    "how",
+    25.57
+   ],
+   [
+    "does",
+    25.79
+   ],
+   [
+    "it",
+    26.09
+   ],
+   [
+    "blink",
+    26.23
+   ]
+  ]
+ },
+ {
+  "s": 27.15,
+  "e": 29.44,
+  "text": "The firefly controls the oxygen.",
+  "words": [
+   [
+    "the",
+    27.15
+   ],
+   [
+    "firefly",
+    27.4
+   ],
+   [
+    "controls",
+    28.0
+   ],
+   [
+    "the",
+    28.67
+   ],
+   [
+    "oxygen",
+    28.93
+   ]
+  ]
+ },
+ {
+  "s": 29.99,
+  "e": 32.7,
+  "text": "A gas called nitric oxide opens the gate,",
+  "words": [
+   [
+    "a",
+    29.99
+   ],
+   [
+    "gas",
+    30.07
+   ],
+   [
+    "called",
+    30.32
+   ],
+   [
+    "nitric",
+    30.81
+   ],
+   [
+    "oxide",
+    31.31
+   ],
+   [
+    "opens",
+    31.72
+   ],
+   [
+    "the",
+    32.13
+   ],
+   [
+    "gate",
+    32.38
+   ]
+  ]
+ },
+ {
+  "s": 33.0,
+  "e": 34.02,
+  "text": "air rushes in,",
+  "words": [
+   [
+    "air",
+    33.0
+   ],
+   [
+    "rushes",
+    33.28
+   ],
+   [
+    "in",
+    33.83
+   ]
+  ]
+ },
+ {
+  "s": 34.32,
+  "e": 34.97,
+  "text": "flash!",
+  "words": [
+   [
+    "flash",
+    34.32
+   ]
+  ]
+ },
+ {
+  "s": 35.52,
+  "e": 37.39,
+  "text": "Close the gate, and it goes dark.",
+  "words": [
+   [
+    "close",
+    35.52
+   ],
+   [
+    "the",
+    35.9
+   ],
+   [
+    "gate",
+    36.12
+   ],
+   [
+    "and",
+    36.42
+   ],
+   [
+    "it",
+    36.64
+   ],
+   [
+    "goes",
+    36.79
+   ],
+   [
+    "dark",
+    37.09
+   ]
+  ]
+ },
+ {
+  "s": 37.94,
+  "e": 39.7,
+  "text": "And every flash is a message.",
+  "words": [
+   [
+    "and",
+    37.94
+   ],
+   [
+    "every",
+    38.17
+   ],
+   [
+    "flash",
+    38.55
+   ],
+   [
+    "is",
+    38.93
+   ],
+   [
+    "a",
+    39.09
+   ],
+   [
+    "message",
+    39.17
+   ]
+  ]
+ },
+ {
+  "s": 40.25,
+  "e": 42.93,
+  "text": "There are over two thousand kinds of fireflies,",
+  "words": [
+   [
+    "there",
+    40.25
+   ],
+   [
+    "are",
+    40.6
+   ],
+   [
+    "over",
+    40.8
+   ],
+   [
+    "two",
+    41.08
+   ],
+   [
+    "thousand",
+    41.28
+   ],
+   [
+    "kinds",
+    41.83
+   ],
+   [
+    "of",
+    42.17
+   ],
+   [
+    "fireflies",
+    42.31
+   ]
+  ]
+ },
+ {
+  "s": 43.23,
+  "e": 45.2,
+  "text": "and each one blinks its own code.",
+  "words": [
+   [
+    "and",
+    43.23
+   ],
+   [
+    "each",
+    43.45
+   ],
+   [
+    "one",
+    43.76
+   ],
+   [
+    "blinks",
+    43.98
+   ],
+   [
+    "its",
+    44.44
+   ],
+   [
+    "own",
+    44.67
+   ],
+   [
+    "code",
+    44.89
+   ]
+  ]
+ },
+ {
+  "s": 45.75,
+  "e": 47.35,
+  "text": "Males flash as they fly,",
+  "words": [
+   [
+    "males",
+    45.75
+   ],
+   [
+    "flash",
+    46.17
+   ],
+   [
+    "as",
+    46.59
+   ],
+   [
+    "they",
+    46.76
+   ],
+   [
+    "fly",
+    47.1
+   ]
+  ]
+ },
+ {
+  "s": 47.65,
+  "e": 49.2,
+  "text": "and females answer back.",
+  "words": [
+   [
+    "and",
+    47.65
+   ],
+   [
+    "females",
+    47.88
+   ],
+   [
+    "answer",
+    48.43
+   ],
+   [
+    "back",
+    48.89
+   ]
+  ]
+ },
+ {
+  "s": 49.75,
+  "e": 53.44,
+  "text": "So, if you could flash one message in the dark, what would it say?",
+  "words": [
+   [
+    "so",
+    49.75
+   ],
+   [
+    "if",
+    49.9
+   ],
+   [
+    "you",
+    50.05
+   ],
+   [
+    "could",
+    50.27
+   ],
+   [
+    "flash",
+    50.64
+   ],
+   [
+    "one",
+    51.01
+   ],
+   [
+    "message",
+    51.23
+   ],
+   [
+    "in",
+    51.75
+   ],
+   [
+    "the",
+    51.89
+   ],
+   [
+    "dark",
+    52.11
+   ],
+   [
+    "what",
+    52.41
+   ],
+   [
+    "would",
+    52.7
+   ],
+   [
+    "it",
+    53.07
+   ],
+   [
+    "say",
+    53.22
+   ]
+  ]
+ }
+]
