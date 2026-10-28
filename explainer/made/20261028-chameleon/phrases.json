@@ -1,0 +1,702 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.47,
+  "text": "Chameleons don't change color to hide.",
+  "words": [
+   [
+    "chameleons",
+    0.25
+   ],
+   [
+    "dont",
+    0.97
+   ],
+   [
+    "change",
+    1.25
+   ],
+   [
+    "color",
+    1.69
+   ],
+   [
+    "to",
+    2.04
+   ],
+   [
+    "hide",
+    2.19
+   ]
+  ]
+ },
+ {
+  "s": 3.02,
+  "e": 4.93,
+  "text": "The real reason is way weirder,",
+  "words": [
+   [
+    "the",
+    3.02
+   ],
+   [
+    "real",
+    3.25
+   ],
+   [
+    "reason",
+    3.56
+   ],
+   [
+    "is",
+    4.01
+   ],
+   [
+    "way",
+    4.17
+   ],
+   [
+    "weirder",
+    4.4
+   ]
+  ]
+ },
+ {
+  "s": 5.23,
+  "e": 6.91,
+  "text": "and you've probably never heard it:",
+  "words": [
+   [
+    "and",
+    5.23
+   ],
+   [
+    "youve",
+    5.41
+   ],
+   [
+    "probably",
+    5.71
+   ],
+   [
+    "never",
+    6.19
+   ],
+   [
+    "heard",
+    6.49
+   ],
+   [
+    "it",
+    6.79
+   ]
+  ]
+ },
+ {
+  "s": 7.21,
+  "e": 9.51,
+  "text": "crystals that move thirty percent apart.",
+  "words": [
+   [
+    "crystals",
+    7.21
+   ],
+   [
+    "that",
+    7.75
+   ],
+   [
+    "move",
+    8.02
+   ],
+   [
+    "thirty",
+    8.29
+   ],
+   [
+    "percent",
+    8.7
+   ],
+   [
+    "apart",
+    9.17
+   ]
+  ]
+ },
+ {
+  "s": 10.06,
+  "e": 11.98,
+  "text": "Under their skin are special cells,",
+  "words": [
+   [
+    "under",
+    10.06
+   ],
+   [
+    "their",
+    10.39
+   ],
+   [
+    "skin",
+    10.72
+   ],
+   [
+    "are",
+    10.99
+   ],
+   [
+    "special",
+    11.18
+   ],
+   [
+    "cells",
+    11.65
+   ]
+  ]
+ },
+ {
+  "s": 12.28,
+  "e": 13.83,
+  "text": "packed with tiny crystals,",
+  "words": [
+   [
+    "packed",
+    12.28
+   ],
+   [
+    "with",
+    12.7
+   ],
+   [
+    "tiny",
+    12.98
+   ],
+   [
+    "crystals",
+    13.26
+   ]
+  ]
+ },
+ {
+  "s": 14.13,
+  "e": 15.61,
+  "text": "lined up in a neat grid.",
+  "words": [
+   [
+    "lined",
+    14.13
+   ],
+   [
+    "up",
+    14.54
+   ],
+   [
+    "in",
+    14.71
+   ],
+   [
+    "a",
+    14.87
+   ],
+   [
+    "neat",
+    14.95
+   ],
+   [
+    "grid",
+    15.28
+   ]
+  ]
+ },
+ {
+  "s": 16.16,
+  "e": 17.59,
+  "text": "When a chameleon is calm,",
+  "words": [
+   [
+    "when",
+    16.16
+   ],
+   [
+    "a",
+    16.45
+   ],
+   [
+    "chameleon",
+    16.52
+   ],
+   [
+    "is",
+    17.17
+   ],
+   [
+    "calm",
+    17.31
+   ]
+  ]
+ },
+ {
+  "s": 17.89,
+  "e": 19.56,
+  "text": "the crystals sit close together",
+  "words": [
+   [
+    "the",
+    17.89
+   ],
+   [
+    "crystals",
+    18.08
+   ],
+   [
+    "sit",
+    18.57
+   ],
+   [
+    "close",
+    18.76
+   ],
+   [
+    "together",
+    19.07
+   ]
+  ]
+ },
+ {
+  "s": 19.86,
+  "e": 21.29,
+  "text": "and bounce back blue light.",
+  "words": [
+   [
+    "and",
+    19.86
+   ],
+   [
+    "bounce",
+    20.05
+   ],
+   [
+    "back",
+    20.44
+   ],
+   [
+    "blue",
+    20.7
+   ],
+   [
+    "light",
+    20.96
+   ]
+  ]
+ },
+ {
+  "s": 21.84,
+  "e": 23.53,
+  "text": "Add the yellow skin on top,",
+  "words": [
+   [
+    "add",
+    21.84
+   ],
+   [
+    "the",
+    22.08
+   ],
+   [
+    "yellow",
+    22.32
+   ],
+   [
+    "skin",
+    22.8
+   ],
+   [
+    "on",
+    23.13
+   ],
+   [
+    "top",
+    23.29
+   ]
+  ]
+ },
+ {
+  "s": 23.83,
+  "e": 24.92,
+  "text": "and you get green.",
+  "words": [
+   [
+    "and",
+    23.83
+   ],
+   [
+    "you",
+    24.06
+   ],
+   [
+    "get",
+    24.3
+   ],
+   [
+    "green",
+    24.53
+   ]
+  ]
+ },
+ {
+  "s": 25.47,
+  "e": 26.93,
+  "text": "But when a rival shows up,",
+  "words": [
+   [
+    "but",
+    25.47
+   ],
+   [
+    "when",
+    25.69
+   ],
+   [
+    "a",
+    25.98
+   ],
+   [
+    "rival",
+    26.06
+   ],
+   [
+    "shows",
+    26.42
+   ],
+   [
+    "up",
+    26.78
+   ]
+  ]
+ },
+ {
+  "s": 27.23,
+  "e": 29.04,
+  "text": "the chameleon stretches its skin.",
+  "words": [
+   [
+    "the",
+    27.23
+   ],
+   [
+    "chameleon",
+    27.42
+   ],
+   [
+    "stretches",
+    28.0
+   ],
+   [
+    "its",
+    28.58
+   ],
+   [
+    "skin",
+    28.78
+   ]
+  ]
+ },
+ {
+  "s": 29.59,
+  "e": 31.35,
+  "text": "The crystals spread farther apart,",
+  "words": [
+   [
+    "the",
+    29.59
+   ],
+   [
+    "crystals",
+    29.77
+   ],
+   [
+    "spread",
+    30.25
+   ],
+   [
+    "farther",
+    30.62
+   ],
+   [
+    "apart",
+    31.05
+   ]
+  ]
+ },
+ {
+  "s": 31.65,
+  "e": 33.96,
+  "text": "so now they bounce back yellow and orange.",
+  "words": [
+   [
+    "so",
+    31.65
+   ],
+   [
+    "now",
+    31.79
+   ],
+   [
+    "they",
+    31.99
+   ],
+   [
+    "bounce",
+    32.26
+   ],
+   [
+    "back",
+    32.67
+   ],
+   [
+    "yellow",
+    32.94
+   ],
+   [
+    "and",
+    33.35
+   ],
+   [
+    "orange",
+    33.55
+   ]
+  ]
+ },
+ {
+  "s": 34.51,
+  "e": 36.45,
+  "text": "Green turns to fiery orange",
+  "words": [
+   [
+    "green",
+    34.51
+   ],
+   [
+    "turns",
+    34.93
+   ],
+   [
+    "to",
+    35.35
+   ],
+   [
+    "fiery",
+    35.52
+   ],
+   [
+    "orange",
+    35.94
+   ]
+  ]
+ },
+ {
+  "s": 36.75,
+  "e": 38.3,
+  "text": "in just a couple of minutes.",
+  "words": [
+   [
+    "in",
+    36.75
+   ],
+   [
+    "just",
+    36.89
+   ],
+   [
+    "a",
+    37.17
+   ],
+   [
+    "couple",
+    37.24
+   ],
+   [
+    "of",
+    37.67
+   ],
+   [
+    "minutes",
+    37.81
+   ]
+  ]
+ },
+ {
+  "s": 38.85,
+  "e": 40.74,
+  "text": "It's not hiding, it's showing off.",
+  "words": [
+   [
+    "its",
+    38.85
+   ],
+   [
+    "not",
+    39.08
+   ],
+   [
+    "hiding",
+    39.31
+   ],
+   [
+    "its",
+    39.76
+   ],
+   [
+    "showing",
+    39.99
+   ],
+   [
+    "off",
+    40.52
+   ]
+  ]
+ },
+ {
+  "s": 41.29,
+  "e": 43.03,
+  "text": "And a deeper layer of crystals",
+  "words": [
+   [
+    "and",
+    41.29
+   ],
+   [
+    "a",
+    41.5
+   ],
+   [
+    "deeper",
+    41.57
+   ],
+   [
+    "layer",
+    41.99
+   ],
+   [
+    "of",
+    42.34
+   ],
+   [
+    "crystals",
+    42.48
+   ]
+  ]
+ },
+ {
+  "s": 43.33,
+  "e": 44.67,
+  "text": "reflects the sun's heat,",
+  "words": [
+   [
+    "reflects",
+    43.33
+   ],
+   [
+    "the",
+    43.89
+   ],
+   [
+    "suns",
+    44.1
+   ],
+   [
+    "heat",
+    44.39
+   ]
+  ]
+ },
+ {
+  "s": 44.97,
+  "e": 46.42,
+  "text": "like built-in sunscreen.",
+  "words": [
+   [
+    "like",
+    44.97
+   ],
+   [
+    "builtin",
+    45.26
+   ],
+   [
+    "sunscreen",
+    45.77
+   ]
+  ]
+ },
+ {
+  "s": 46.97,
+  "e": 48.73,
+  "text": "So if your skin showed your mood,",
+  "words": [
+   [
+    "so",
+    46.97
+   ],
+   [
+    "if",
+    47.11
+   ],
+   [
+    "your",
+    47.25
+   ],
+   [
+    "skin",
+    47.52
+   ],
+   [
+    "showed",
+    47.79
+   ],
+   [
+    "your",
+    48.19
+   ],
+   [
+    "mood",
+    48.46
+   ]
+  ]
+ },
+ {
+  "s": 49.03,
+  "e": 50.78,
+  "text": "what color would you be right now?",
+  "words": [
+   [
+    "what",
+    49.03
+   ],
+   [
+    "color",
+    49.29
+   ],
+   [
+    "would",
+    49.62
+   ],
+   [
+    "you",
+    49.94
+   ],
+   [
+    "be",
+    50.13
+   ],
+   [
+    "right",
+    50.26
+   ],
+   [
+    "now",
+    50.59
+   ]
+  ]
+ }
+]
