@@ -1,0 +1,2516 @@
+[
+ {
+  "s": 0.25,
+  "e": 3.06,
+  "text": "You spin a thousand miles an hour, every day,",
+  "words": [
+   [
+    "you",
+    0.25
+   ],
+   [
+    "spin",
+    0.49
+   ],
+   [
+    "a",
+    0.81
+   ],
+   [
+    "thousand",
+    0.89
+   ],
+   [
+    "miles",
+    1.54
+   ],
+   [
+    "an",
+    1.94
+   ],
+   [
+    "hour",
+    2.1
+   ],
+   [
+    "every",
+    2.42
+   ],
+   [
+    "day",
+    2.82
+   ]
+  ]
+ },
+ {
+  "s": 3.36,
+  "e": 5.45,
+  "text": "so why don't you fly off into space?",
+  "words": [
+   [
+    "so",
+    3.36
+   ],
+   [
+    "why",
+    3.52
+   ],
+   [
+    "dont",
+    3.75
+   ],
+   [
+    "you",
+    4.06
+   ],
+   [
+    "fly",
+    4.29
+   ],
+   [
+    "off",
+    4.52
+   ],
+   [
+    "into",
+    4.75
+   ],
+   [
+    "space",
+    5.06
+   ]
+  ]
+ },
+ {
+  "s": 6.0,
+  "e": 7.41,
+  "text": "The answer is gravity,",
+  "words": [
+   [
+    "the",
+    6.0
+   ],
+   [
+    "answer",
+    6.23
+   ],
+   [
+    "is",
+    6.7
+   ],
+   [
+    "gravity",
+    6.86
+   ]
+  ]
+ },
+ {
+  "s": 7.71,
+  "e": 9.23,
+  "text": "and it's weirder than you think.",
+  "words": [
+   [
+    "and",
+    7.71
+   ],
+   [
+    "its",
+    7.89
+   ],
+   [
+    "weirder",
+    8.08
+   ],
+   [
+    "than",
+    8.5
+   ],
+   [
+    "you",
+    8.74
+   ],
+   [
+    "think",
+    8.92
+   ]
+  ]
+ },
+ {
+  "s": 9.78,
+  "e": 11.76,
+  "text": "Let's explain it in simple words.",
+  "words": [
+   [
+    "lets",
+    9.78
+   ],
+   [
+    "explain",
+    10.08
+   ],
+   [
+    "it",
+    10.62
+   ],
+   [
+    "in",
+    10.77
+   ],
+   [
+    "simple",
+    10.92
+   ],
+   [
+    "words",
+    11.38
+   ]
+  ]
+ },
+ {
+  "s": 12.31,
+  "e": 13.63,
+  "text": "Here's the big idea.",
+  "words": [
+   [
+    "heres",
+    12.31
+   ],
+   [
+    "the",
+    12.75
+   ],
+   [
+    "big",
+    13.02
+   ],
+   [
+    "idea",
+    13.28
+   ]
+  ]
+ },
+ {
+  "s": 14.18,
+  "e": 16.76,
+  "text": "Everything with mass pulls on everything else.",
+  "words": [
+   [
+    "everything",
+    14.18
+   ],
+   [
+    "with",
+    14.84
+   ],
+   [
+    "mass",
+    15.11
+   ],
+   [
+    "pulls",
+    15.37
+   ],
+   [
+    "on",
+    15.7
+   ],
+   [
+    "everything",
+    15.83
+   ],
+   [
+    "else",
+    16.49
+   ]
+  ]
+ },
+ {
+  "s": 17.31,
+  "e": 18.56,
+  "text": "The Earth pulls on you,",
+  "words": [
+   [
+    "the",
+    17.31
+   ],
+   [
+    "earth",
+    17.51
+   ],
+   [
+    "pulls",
+    17.86
+   ],
+   [
+    "on",
+    18.21
+   ],
+   [
+    "you",
+    18.35
+   ]
+  ]
+ },
+ {
+  "s": 18.86,
+  "e": 20.58,
+  "text": "your phone pulls on your coffee,",
+  "words": [
+   [
+    "your",
+    18.86
+   ],
+   [
+    "phone",
+    19.12
+   ],
+   [
+    "pulls",
+    19.45
+   ],
+   [
+    "on",
+    19.79
+   ],
+   [
+    "your",
+    19.92
+   ],
+   [
+    "coffee",
+    20.18
+   ]
+  ]
+ },
+ {
+  "s": 20.88,
+  "e": 22.66,
+  "text": "and you pull on the whole Earth too.",
+  "words": [
+   [
+    "and",
+    20.88
+   ],
+   [
+    "you",
+    21.07
+   ],
+   [
+    "pull",
+    21.26
+   ],
+   [
+    "on",
+    21.52
+   ],
+   [
+    "the",
+    21.64
+   ],
+   [
+    "whole",
+    21.84
+   ],
+   [
+    "earth",
+    22.15
+   ],
+   [
+    "too",
+    22.47
+   ]
+  ]
+ },
+ {
+  "s": 23.21,
+  "e": 27.59,
+  "text": "Isaac Newton wrote this down in 1687.",
+  "words": [
+   [
+    "isaac",
+    23.21
+   ],
+   [
+    "newton",
+    23.94
+   ],
+   [
+    "wrote",
+    24.82
+   ],
+   [
+    "this",
+    25.55
+   ],
+   [
+    "down",
+    26.13
+   ],
+   [
+    "in",
+    26.72
+   ],
+   [
+    "1687",
+    27.01
+   ]
+  ]
+ },
+ {
+  "s": 28.14,
+  "e": 29.68,
+  "text": "His rule has two parts.",
+  "words": [
+   [
+    "his",
+    28.14
+   ],
+   [
+    "rule",
+    28.4
+   ],
+   [
+    "has",
+    28.74
+   ],
+   [
+    "two",
+    29.0
+   ],
+   [
+    "parts",
+    29.25
+   ]
+  ]
+ },
+ {
+  "s": 30.23,
+  "e": 32.06,
+  "text": "More mass means a stronger pull,",
+  "words": [
+   [
+    "more",
+    30.23
+   ],
+   [
+    "mass",
+    30.51
+   ],
+   [
+    "means",
+    30.79
+   ],
+   [
+    "a",
+    31.15
+   ],
+   [
+    "stronger",
+    31.22
+   ],
+   [
+    "pull",
+    31.78
+   ]
+  ]
+ },
+ {
+  "s": 32.36,
+  "e": 34.46,
+  "text": "and more distance means a weaker one.",
+  "words": [
+   [
+    "and",
+    32.36
+   ],
+   [
+    "more",
+    32.57
+   ],
+   [
+    "distance",
+    32.85
+   ],
+   [
+    "means",
+    33.41
+   ],
+   [
+    "a",
+    33.76
+   ],
+   [
+    "weaker",
+    33.83
+   ],
+   [
+    "one",
+    34.25
+   ]
+  ]
+ },
+ {
+  "s": 35.01,
+  "e": 36.24,
+  "text": "Double the distance,",
+  "words": [
+   [
+    "double",
+    35.01
+   ],
+   [
+    "the",
+    35.44
+   ],
+   [
+    "distance",
+    35.66
+   ]
+  ]
+ },
+ {
+  "s": 36.54,
+  "e": 38.75,
+  "text": "and the pull drops to just one quarter.",
+  "words": [
+   [
+    "and",
+    36.54
+   ],
+   [
+    "the",
+    36.75
+   ],
+   [
+    "pull",
+    36.97
+   ],
+   [
+    "drops",
+    37.25
+   ],
+   [
+    "to",
+    37.61
+   ],
+   [
+    "just",
+    37.75
+   ],
+   [
+    "one",
+    38.03
+   ],
+   [
+    "quarter",
+    38.25
+   ]
+  ]
+ },
+ {
+  "s": 39.3,
+  "e": 40.5,
+  "text": "The Earth is huge,",
+  "words": [
+   [
+    "the",
+    39.3
+   ],
+   [
+    "earth",
+    39.55
+   ],
+   [
+    "is",
+    39.98
+   ],
+   [
+    "huge",
+    40.16
+   ]
+  ]
+ },
+ {
+  "s": 40.8,
+  "e": 43.1,
+  "text": "about six trillion trillion kilograms,",
+  "words": [
+   [
+    "about",
+    40.8
+   ],
+   [
+    "six",
+    41.15
+   ],
+   [
+    "trillion",
+    41.36
+   ],
+   [
+    "trillion",
+    41.91
+   ],
+   [
+    "kilograms",
+    42.47
+   ]
+  ]
+ },
+ {
+  "s": 43.4,
+  "e": 45.29,
+  "text": "so its pull on you wins easily.",
+  "words": [
+   [
+    "so",
+    43.4
+   ],
+   [
+    "its",
+    43.55
+   ],
+   [
+    "pull",
+    43.79
+   ],
+   [
+    "on",
+    44.1
+   ],
+   [
+    "you",
+    44.26
+   ],
+   [
+    "wins",
+    44.5
+   ],
+   [
+    "easily",
+    44.81
+   ]
+  ]
+ },
+ {
+  "s": 45.84,
+  "e": 47.8,
+  "text": "That pull is what you feel as weight.",
+  "words": [
+   [
+    "that",
+    45.84
+   ],
+   [
+    "pull",
+    46.11
+   ],
+   [
+    "is",
+    46.38
+   ],
+   [
+    "what",
+    46.51
+   ],
+   [
+    "you",
+    46.78
+   ],
+   [
+    "feel",
+    46.99
+   ],
+   [
+    "as",
+    47.26
+   ],
+   [
+    "weight",
+    47.39
+   ]
+  ]
+ },
+ {
+  "s": 48.35,
+  "e": 50.52,
+  "text": "On the Moon, which has much less mass,",
+  "words": [
+   [
+    "on",
+    48.35
+   ],
+   [
+    "the",
+    48.5
+   ],
+   [
+    "moon",
+    48.72
+   ],
+   [
+    "which",
+    49.02
+   ],
+   [
+    "has",
+    49.4
+   ],
+   [
+    "much",
+    49.62
+   ],
+   [
+    "less",
+    49.92
+   ],
+   [
+    "mass",
+    50.22
+   ]
+  ]
+ },
+ {
+  "s": 50.82,
+  "e": 52.79,
+  "text": "you'd weigh about one sixth as much.",
+  "words": [
+   [
+    "youd",
+    50.82
+   ],
+   [
+    "weigh",
+    51.1
+   ],
+   [
+    "about",
+    51.45
+   ],
+   [
+    "one",
+    51.81
+   ],
+   [
+    "sixth",
+    52.02
+   ],
+   [
+    "as",
+    52.37
+   ],
+   [
+    "much",
+    52.51
+   ]
+  ]
+ },
+ {
+  "s": 53.34,
+  "e": 54.7,
+  "text": "So, back to the spin.",
+  "words": [
+   [
+    "so",
+    53.34
+   ],
+   [
+    "back",
+    53.52
+   ],
+   [
+    "to",
+    53.88
+   ],
+   [
+    "the",
+    54.06
+   ],
+   [
+    "spin",
+    54.34
+   ]
+  ]
+ },
+ {
+  "s": 55.25,
+  "e": 57.34,
+  "text": "At the equator, you really are moving",
+  "words": [
+   [
+    "at",
+    55.25
+   ],
+   [
+    "the",
+    55.39
+   ],
+   [
+    "equator",
+    55.6
+   ],
+   [
+    "you",
+    56.08
+   ],
+   [
+    "really",
+    56.29
+   ],
+   [
+    "are",
+    56.71
+   ],
+   [
+    "moving",
+    56.92
+   ]
+  ]
+ },
+ {
+  "s": 57.64,
+  "e": 59.6,
+  "text": "at about a thousand miles an hour.",
+  "words": [
+   [
+    "at",
+    57.64
+   ],
+   [
+    "about",
+    57.78
+   ],
+   [
+    "a",
+    58.15
+   ],
+   [
+    "thousand",
+    58.22
+   ],
+   [
+    "miles",
+    58.8
+   ],
+   [
+    "an",
+    59.17
+   ],
+   [
+    "hour",
+    59.31
+   ]
+  ]
+ },
+ {
+  "s": 60.15,
+  "e": 62.19,
+  "text": "Spinning does try to fling you outward,",
+  "words": [
+   [
+    "spinning",
+    60.15
+   ],
+   [
+    "does",
+    60.66
+   ],
+   [
+    "try",
+    60.91
+   ],
+   [
+    "to",
+    61.11
+   ],
+   [
+    "fling",
+    61.23
+   ],
+   [
+    "you",
+    61.55
+   ],
+   [
+    "outward",
+    61.74
+   ]
+  ]
+ },
+ {
+  "s": 62.49,
+  "e": 64.56,
+  "text": "like water off a spinning bike wheel.",
+  "words": [
+   [
+    "like",
+    62.49
+   ],
+   [
+    "water",
+    62.76
+   ],
+   [
+    "off",
+    63.11
+   ],
+   [
+    "a",
+    63.31
+   ],
+   [
+    "spinning",
+    63.38
+   ],
+   [
+    "bike",
+    63.94
+   ],
+   [
+    "wheel",
+    64.21
+   ]
+  ]
+ },
+ {
+  "s": 65.11,
+  "e": 68.36,
+  "text": "But Earth's gravity is about three hundred times stronger",
+  "words": [
+   [
+    "but",
+    65.11
+   ],
+   [
+    "earths",
+    65.31
+   ],
+   [
+    "gravity",
+    65.72
+   ],
+   [
+    "is",
+    66.19
+   ],
+   [
+    "about",
+    66.33
+   ],
+   [
+    "three",
+    66.67
+   ],
+   [
+    "hundred",
+    67.01
+   ],
+   [
+    "times",
+    67.48
+   ],
+   [
+    "stronger",
+    67.82
+   ]
+  ]
+ },
+ {
+  "s": 68.66,
+  "e": 69.59,
+  "text": "than that fling.",
+  "words": [
+   [
+    "than",
+    68.66
+   ],
+   [
+    "that",
+    68.95
+   ],
+   [
+    "fling",
+    69.24
+   ]
+  ]
+ },
+ {
+  "s": 70.14,
+  "e": 72.29,
+  "text": "So you stay put, held to the ground.",
+  "words": [
+   [
+    "so",
+    70.14
+   ],
+   [
+    "you",
+    70.3
+   ],
+   [
+    "stay",
+    70.54
+   ],
+   [
+    "put",
+    70.86
+   ],
+   [
+    "held",
+    71.1
+   ],
+   [
+    "to",
+    71.42
+   ],
+   [
+    "the",
+    71.58
+   ],
+   [
+    "ground",
+    71.82
+   ]
+  ]
+ },
+ {
+  "s": 72.84,
+  "e": 74.14,
+  "text": "For you to float away,",
+  "words": [
+   [
+    "for",
+    72.84
+   ],
+   [
+    "you",
+    73.07
+   ],
+   [
+    "to",
+    73.3
+   ],
+   [
+    "float",
+    73.45
+   ],
+   [
+    "away",
+    73.84
+   ]
+  ]
+ },
+ {
+  "s": 74.44,
+  "e": 77.63,
+  "text": "Earth would have to spin about seventeen times faster.",
+  "words": [
+   [
+    "earth",
+    74.44
+   ],
+   [
+    "would",
+    74.8
+   ],
+   [
+    "have",
+    75.15
+   ],
+   [
+    "to",
+    75.44
+   ],
+   [
+    "spin",
+    75.58
+   ],
+   [
+    "about",
+    75.86
+   ],
+   [
+    "seventeen",
+    76.21
+   ],
+   [
+    "times",
+    76.85
+   ],
+   [
+    "faster",
+    77.21
+   ]
+  ]
+ },
+ {
+  "s": 78.18,
+  "e": 79.49,
+  "text": "A whole day would last",
+  "words": [
+   [
+    "a",
+    78.18
+   ],
+   [
+    "whole",
+    78.25
+   ],
+   [
+    "day",
+    78.62
+   ],
+   [
+    "would",
+    78.83
+   ],
+   [
+    "last",
+    79.2
+   ]
+  ]
+ },
+ {
+  "s": 79.79,
+  "e": 81.42,
+  "text": "less than an hour and a half.",
+  "words": [
+   [
+    "less",
+    79.79
+   ],
+   [
+    "than",
+    80.08
+   ],
+   [
+    "an",
+    80.38
+   ],
+   [
+    "hour",
+    80.53
+   ],
+   [
+    "and",
+    80.83
+   ],
+   [
+    "a",
+    81.05
+   ],
+   [
+    "half",
+    81.12
+   ]
+  ]
+ },
+ {
+  "s": 81.97,
+  "e": 83.59,
+  "text": "And you don't feel the spin at all,",
+  "words": [
+   [
+    "and",
+    81.97
+   ],
+   [
+    "you",
+    82.16
+   ],
+   [
+    "dont",
+    82.34
+   ],
+   [
+    "feel",
+    82.59
+   ],
+   [
+    "the",
+    82.84
+   ],
+   [
+    "spin",
+    83.03
+   ],
+   [
+    "at",
+    83.28
+   ],
+   [
+    "all",
+    83.4
+   ]
+  ]
+ },
+ {
+  "s": 83.89,
+  "e": 85.67,
+  "text": "because the ground, the air and you",
+  "words": [
+   [
+    "because",
+    83.89
+   ],
+   [
+    "the",
+    84.33
+   ],
+   [
+    "ground",
+    84.53
+   ],
+   [
+    "the",
+    84.91
+   ],
+   [
+    "air",
+    85.1
+   ],
+   [
+    "and",
+    85.29
+   ],
+   [
+    "you",
+    85.48
+   ]
+  ]
+ },
+ {
+  "s": 85.97,
+  "e": 87.63,
+  "text": "all move together, smoothly,",
+  "words": [
+   [
+    "all",
+    85.97
+   ],
+   [
+    "move",
+    86.19
+   ],
+   [
+    "together",
+    86.48
+   ],
+   [
+    "smoothly",
+    87.05
+   ]
+  ]
+ },
+ {
+  "s": 87.93,
+  "e": 90.01,
+  "text": "like passengers on a calm plane.",
+  "words": [
+   [
+    "like",
+    87.93
+   ],
+   [
+    "passengers",
+    88.25
+   ],
+   [
+    "on",
+    89.05
+   ],
+   [
+    "a",
+    89.21
+   ],
+   [
+    "calm",
+    89.29
+   ],
+   [
+    "plane",
+    89.61
+   ]
+  ]
+ },
+ {
+  "s": 90.56,
+  "e": 92.12,
+  "text": "Now here's the wild part.",
+  "words": [
+   [
+    "now",
+    90.56
+   ],
+   [
+    "heres",
+    90.81
+   ],
+   [
+    "the",
+    91.22
+   ],
+   [
+    "wild",
+    91.46
+   ],
+   [
+    "part",
+    91.79
+   ]
+  ]
+ },
+ {
+  "s": 92.67,
+  "e": 94.44,
+  "text": "The Moon is falling toward us,",
+  "words": [
+   [
+    "the",
+    92.67
+   ],
+   [
+    "moon",
+    92.89
+   ],
+   [
+    "is",
+    93.18
+   ],
+   [
+    "falling",
+    93.33
+   ],
+   [
+    "toward",
+    93.85
+   ],
+   [
+    "us",
+    94.29
+   ]
+  ]
+ },
+ {
+  "s": 94.74,
+  "e": 96.57,
+  "text": "right now, and it never stops.",
+  "words": [
+   [
+    "right",
+    94.74
+   ],
+   [
+    "now",
+    95.14
+   ],
+   [
+    "and",
+    95.37
+   ],
+   [
+    "it",
+    95.61
+   ],
+   [
+    "never",
+    95.77
+   ],
+   [
+    "stops",
+    96.17
+   ]
+  ]
+ },
+ {
+  "s": 97.12,
+  "e": 99.27,
+  "text": "Newton pictured a cannon on a mountain.",
+  "words": [
+   [
+    "newton",
+    97.12
+   ],
+   [
+    "pictured",
+    97.52
+   ],
+   [
+    "a",
+    98.06
+   ],
+   [
+    "cannon",
+    98.13
+   ],
+   [
+    "on",
+    98.53
+   ],
+   [
+    "a",
+    98.67
+   ],
+   [
+    "mountain",
+    98.74
+   ]
+  ]
+ },
+ {
+  "s": 99.82,
+  "e": 101.41,
+  "text": "Fire a cannonball slowly,",
+  "words": [
+   [
+    "fire",
+    99.82
+   ],
+   [
+    "a",
+    100.13
+   ],
+   [
+    "cannonball",
+    100.2
+   ],
+   [
+    "slowly",
+    100.96
+   ]
+  ]
+ },
+ {
+  "s": 101.71,
+  "e": 103.67,
+  "text": "and it curves down and hits the ground.",
+  "words": [
+   [
+    "and",
+    101.71
+   ],
+   [
+    "it",
+    101.9
+   ],
+   [
+    "curves",
+    102.02
+   ],
+   [
+    "down",
+    102.4
+   ],
+   [
+    "and",
+    102.66
+   ],
+   [
+    "hits",
+    102.85
+   ],
+   [
+    "the",
+    103.1
+   ],
+   [
+    "ground",
+    103.29
+   ]
+  ]
+ },
+ {
+  "s": 104.22,
+  "e": 106.93,
+  "text": "Fire it faster, and it lands farther away.",
+  "words": [
+   [
+    "fire",
+    104.22
+   ],
+   [
+    "it",
+    104.55
+   ],
+   [
+    "faster",
+    104.71
+   ],
+   [
+    "and",
+    105.2
+   ],
+   [
+    "it",
+    105.45
+   ],
+   [
+    "lands",
+    105.61
+   ],
+   [
+    "farther",
+    106.02
+   ],
+   [
+    "away",
+    106.6
+   ]
+  ]
+ },
+ {
+  "s": 107.48,
+  "e": 108.73,
+  "text": "Fire it fast enough,",
+  "words": [
+   [
+    "fire",
+    107.48
+   ],
+   [
+    "it",
+    107.79
+   ],
+   [
+    "fast",
+    107.95
+   ],
+   [
+    "enough",
+    108.26
+   ]
+  ]
+ },
+ {
+  "s": 109.03,
+  "e": 110.92,
+  "text": "and the ground curves away beneath it",
+  "words": [
+   [
+    "and",
+    109.03
+   ],
+   [
+    "the",
+    109.21
+   ],
+   [
+    "ground",
+    109.39
+   ],
+   [
+    "curves",
+    109.76
+   ],
+   [
+    "away",
+    110.12
+   ],
+   [
+    "beneath",
+    110.37
+   ],
+   [
+    "it",
+    110.79
+   ]
+  ]
+ },
+ {
+  "s": 111.22,
+  "e": 112.65,
+  "text": "as fast as it falls.",
+  "words": [
+   [
+    "as",
+    111.22
+   ],
+   [
+    "fast",
+    111.41
+   ],
+   [
+    "as",
+    111.79
+   ],
+   [
+    "it",
+    111.98
+   ],
+   [
+    "falls",
+    112.17
+   ]
+  ]
+ },
+ {
+  "s": 113.2,
+  "e": 115.09,
+  "text": "It keeps falling, and keeps missing.",
+  "words": [
+   [
+    "it",
+    113.2
+   ],
+   [
+    "keeps",
+    113.33
+   ],
+   [
+    "falling",
+    113.65
+   ],
+   [
+    "and",
+    114.11
+   ],
+   [
+    "keeps",
+    114.31
+   ],
+   [
+    "missing",
+    114.63
+   ]
+  ]
+ },
+ {
+  "s": 115.64,
+  "e": 116.65,
+  "text": "That's an orbit.",
+  "words": [
+   [
+    "thats",
+    115.64
+   ],
+   [
+    "an",
+    116.06
+   ],
+   [
+    "orbit",
+    116.23
+   ]
+  ]
+ },
+ {
+  "s": 117.2,
+  "e": 118.87,
+  "text": "The Moon does exactly this,",
+  "words": [
+   [
+    "the",
+    117.2
+   ],
+   [
+    "moon",
+    117.42
+   ],
+   [
+    "does",
+    117.73
+   ],
+   [
+    "exactly",
+    118.03
+   ],
+   [
+    "this",
+    118.56
+   ]
+  ]
+ },
+ {
+  "s": 119.17,
+  "e": 120.47,
+  "text": "falling around the Earth",
+  "words": [
+   [
+    "falling",
+    119.17
+   ],
+   [
+    "around",
+    119.6
+   ],
+   [
+    "the",
+    119.97
+   ],
+   [
+    "earth",
+    120.16
+   ]
+  ]
+ },
+ {
+  "s": 120.77,
+  "e": 123.03,
+  "text": "about once every twenty-seven days.",
+  "words": [
+   [
+    "about",
+    120.77
+   ],
+   [
+    "once",
+    121.16
+   ],
+   [
+    "every",
+    121.47
+   ],
+   [
+    "twentyseven",
+    121.86
+   ],
+   [
+    "days",
+    122.72
+   ]
+  ]
+ },
+ {
+  "s": 123.58,
+  "e": 125.25,
+  "text": "The Moon pulls back on us, too.",
+  "words": [
+   [
+    "the",
+    123.58
+   ],
+   [
+    "moon",
+    123.8
+   ],
+   [
+    "pulls",
+    124.09
+   ],
+   [
+    "back",
+    124.45
+   ],
+   [
+    "on",
+    124.74
+   ],
+   [
+    "us",
+    124.89
+   ],
+   [
+    "too",
+    125.03
+   ]
+  ]
+ },
+ {
+  "s": 125.8,
+  "e": 127.77,
+  "text": "Its gravity tugs on the oceans,",
+  "words": [
+   [
+    "its",
+    125.8
+   ],
+   [
+    "gravity",
+    126.04
+   ],
+   [
+    "tugs",
+    126.59
+   ],
+   [
+    "on",
+    126.91
+   ],
+   [
+    "the",
+    127.06
+   ],
+   [
+    "oceans",
+    127.3
+   ]
+  ]
+ },
+ {
+  "s": 128.07,
+  "e": 129.54,
+  "text": "making a bulge of water",
+  "words": [
+   [
+    "making",
+    128.07
+   ],
+   [
+    "a",
+    128.54
+   ],
+   [
+    "bulge",
+    128.61
+   ],
+   [
+    "of",
+    129.0
+   ],
+   [
+    "water",
+    129.15
+   ]
+  ]
+ },
+ {
+  "s": 129.84,
+  "e": 131.43,
+  "text": "on the side facing the Moon,",
+  "words": [
+   [
+    "on",
+    129.84
+   ],
+   [
+    "the",
+    129.98
+   ],
+   [
+    "side",
+    130.2
+   ],
+   [
+    "facing",
+    130.49
+   ],
+   [
+    "the",
+    130.93
+   ],
+   [
+    "moon",
+    131.14
+   ]
+  ]
+ },
+ {
+  "s": 131.73,
+  "e": 133.37,
+  "text": "and another on the far side.",
+  "words": [
+   [
+    "and",
+    131.73
+   ],
+   [
+    "another",
+    131.96
+   ],
+   [
+    "on",
+    132.48
+   ],
+   [
+    "the",
+    132.62
+   ],
+   [
+    "far",
+    132.85
+   ],
+   [
+    "side",
+    133.07
+   ]
+  ]
+ },
+ {
+  "s": 133.92,
+  "e": 135.82,
+  "text": "As Earth turns through those bulges,",
+  "words": [
+   [
+    "as",
+    133.92
+   ],
+   [
+    "earth",
+    134.04
+   ],
+   [
+    "turns",
+    134.36
+   ],
+   [
+    "through",
+    134.68
+   ],
+   [
+    "those",
+    135.12
+   ],
+   [
+    "bulges",
+    135.44
+   ]
+  ]
+ },
+ {
+  "s": 136.12,
+  "e": 138.45,
+  "text": "most beaches get two high tides a day.",
+  "words": [
+   [
+    "most",
+    136.12
+   ],
+   [
+    "beaches",
+    136.43
+   ],
+   [
+    "get",
+    136.98
+   ],
+   [
+    "two",
+    137.21
+   ],
+   [
+    "high",
+    137.44
+   ],
+   [
+    "tides",
+    137.75
+   ],
+   [
+    "a",
+    138.14
+   ],
+   [
+    "day",
+    138.21
+   ]
+  ]
+ },
+ {
+  "s": 139.0,
+  "e": 140.09,
+  "text": "And astronauts?",
+  "words": [
+   [
+    "and",
+    139.0
+   ],
+   [
+    "astronauts",
+    139.25
+   ]
+  ]
+ },
+ {
+  "s": 140.64,
+  "e": 141.87,
+  "text": "On the space station,",
+  "words": [
+   [
+    "on",
+    140.64
+   ],
+   [
+    "the",
+    140.78
+   ],
+   [
+    "space",
+    141.0
+   ],
+   [
+    "station",
+    141.36
+   ]
+  ]
+ },
+ {
+  "s": 142.17,
+  "e": 144.16,
+  "text": "about two hundred fifty miles up,",
+  "words": [
+   [
+    "about",
+    142.17
+   ],
+   [
+    "two",
+    142.54
+   ],
+   [
+    "hundred",
+    142.76
+   ],
+   [
+    "fifty",
+    143.27
+   ],
+   [
+    "miles",
+    143.64
+   ],
+   [
+    "up",
+    144.01
+   ]
+  ]
+ },
+ {
+  "s": 144.46,
+  "e": 147.06,
+  "text": "gravity is still about ninety percent as strong.",
+  "words": [
+   [
+    "gravity",
+    144.46
+   ],
+   [
+    "is",
+    144.92
+   ],
+   [
+    "still",
+    145.05
+   ],
+   [
+    "about",
+    145.37
+   ],
+   [
+    "ninety",
+    145.7
+   ],
+   [
+    "percent",
+    146.09
+   ],
+   [
+    "as",
+    146.54
+   ],
+   [
+    "strong",
+    146.67
+   ]
+  ]
+ },
+ {
+  "s": 147.61,
+  "e": 149.4,
+  "text": "They float because they're falling,",
+  "words": [
+   [
+    "they",
+    147.61
+   ],
+   [
+    "float",
+    147.86
+   ],
+   [
+    "because",
+    148.17
+   ],
+   [
+    "theyre",
+    148.6
+   ],
+   [
+    "falling",
+    148.97
+   ]
+  ]
+ },
+ {
+  "s": 149.7,
+  "e": 151.12,
+  "text": "just like that cannonball,",
+  "words": [
+   [
+    "just",
+    149.7
+   ],
+   [
+    "like",
+    149.96
+   ],
+   [
+    "that",
+    150.22
+   ],
+   [
+    "cannonball",
+    150.48
+   ]
+  ]
+ },
+ {
+  "s": 151.42,
+  "e": 154.87,
+  "text": "racing sideways at seventeen thousand miles an hour.",
+  "words": [
+   [
+    "racing",
+    151.42
+   ],
+   [
+    "sideways",
+    151.89
+   ],
+   [
+    "at",
+    152.52
+   ],
+   [
+    "seventeen",
+    152.68
+   ],
+   [
+    "thousand",
+    153.38
+   ],
+   [
+    "miles",
+    154.01
+   ],
+   [
+    "an",
+    154.4
+   ],
+   [
+    "hour",
+    154.56
+   ]
+  ]
+ },
+ {
+  "s": 155.42,
+  "e": 156.9,
+  "text": "They circle the whole Earth",
+  "words": [
+   [
+    "they",
+    155.42
+   ],
+   [
+    "circle",
+    155.68
+   ],
+   [
+    "the",
+    156.06
+   ],
+   [
+    "whole",
+    156.26
+   ],
+   [
+    "earth",
+    156.58
+   ]
+  ]
+ },
+ {
+  "s": 157.2,
+  "e": 158.5,
+  "text": "every ninety minutes.",
+  "words": [
+   [
+    "every",
+    157.2
+   ],
+   [
+    "ninety",
+    157.56
+   ],
+   [
+    "minutes",
+    157.99
+   ]
+  ]
+ },
+ {
+  "s": 159.05,
+  "e": 160.92,
+  "text": "Here's the strangest fact of all.",
+  "words": [
+   [
+    "heres",
+    159.05
+   ],
+   [
+    "the",
+    159.41
+   ],
+   [
+    "strangest",
+    159.62
+   ],
+   [
+    "fact",
+    160.27
+   ],
+   [
+    "of",
+    160.56
+   ],
+   [
+    "all",
+    160.7
+   ]
+  ]
+ },
+ {
+  "s": 161.47,
+  "e": 164.32,
+  "text": "Gravity is by far the weakest force in nature.",
+  "words": [
+   [
+    "gravity",
+    161.47
+   ],
+   [
+    "is",
+    162.01
+   ],
+   [
+    "by",
+    162.16
+   ],
+   [
+    "far",
+    162.32
+   ],
+   [
+    "the",
+    162.55
+   ],
+   [
+    "weakest",
+    162.78
+   ],
+   [
+    "force",
+    163.32
+   ],
+   [
+    "in",
+    163.7
+   ],
+   [
+    "nature",
+    163.86
+   ]
+  ]
+ },
+ {
+  "s": 164.87,
+  "e": 166.23,
+  "text": "A tiny fridge magnet",
+  "words": [
+   [
+    "a",
+    164.87
+   ],
+   [
+    "tiny",
+    164.95
+   ],
+   [
+    "fridge",
+    165.27
+   ],
+   [
+    "magnet",
+    165.75
+   ]
+  ]
+ },
+ {
+  "s": 166.53,
+  "e": 167.85,
+  "text": "can lift a paperclip",
+  "words": [
+   [
+    "can",
+    166.53
+   ],
+   [
+    "lift",
+    166.76
+   ],
+   [
+    "a",
+    167.08
+   ],
+   [
+    "paperclip",
+    167.15
+   ]
+  ]
+ },
+ {
+  "s": 168.15,
+  "e": 170.23,
+  "text": "against the pull of the entire planet.",
+  "words": [
+   [
+    "against",
+    168.15
+   ],
+   [
+    "the",
+    168.62
+   ],
+   [
+    "pull",
+    168.82
+   ],
+   [
+    "of",
+    169.09
+   ],
+   [
+    "the",
+    169.23
+   ],
+   [
+    "entire",
+    169.43
+   ],
+   [
+    "planet",
+    169.83
+   ]
+  ]
+ },
+ {
+  "s": 170.78,
+  "e": 172.12,
+  "text": "Gravity only wins",
+  "words": [
+   [
+    "gravity",
+    170.78
+   ],
+   [
+    "only",
+    171.41
+   ],
+   [
+    "wins",
+    171.77
+   ]
+  ]
+ },
+ {
+  "s": 172.42,
+  "e": 174.85,
+  "text": "because it adds up, and never switches off.",
+  "words": [
+   [
+    "because",
+    172.42
+   ],
+   [
+    "it",
+    172.92
+   ],
+   [
+    "adds",
+    173.07
+   ],
+   [
+    "up",
+    173.35
+   ],
+   [
+    "and",
+    173.5
+   ],
+   [
+    "never",
+    173.71
+   ],
+   [
+    "switches",
+    174.07
+   ],
+   [
+    "off",
+    174.64
+   ]
+  ]
+ },
+ {
+  "s": 175.4,
+  "e": 176.87,
+  "text": "So the next time you jump,",
+  "words": [
+   [
+    "so",
+    175.4
+   ],
+   [
+    "the",
+    175.55
+   ],
+   [
+    "next",
+    175.77
+   ],
+   [
+    "time",
+    176.06
+   ],
+   [
+    "you",
+    176.36
+   ],
+   [
+    "jump",
+    176.58
+   ]
+  ]
+ },
+ {
+  "s": 177.17,
+  "e": 177.85,
+  "text": "remember,",
+  "words": [
+   [
+    "remember",
+    177.17
+   ]
+  ]
+ },
+ {
+  "s": 178.15,
+  "e": 180.15,
+  "text": "you pull the whole Earth up toward you,",
+  "words": [
+   [
+    "you",
+    178.15
+   ],
+   [
+    "pull",
+    178.34
+   ],
+   [
+    "the",
+    178.6
+   ],
+   [
+    "whole",
+    178.79
+   ],
+   [
+    "earth",
+    179.12
+   ],
+   [
+    "up",
+    179.44
+   ],
+   [
+    "toward",
+    179.57
+   ],
+   [
+    "you",
+    179.96
+   ]
+  ]
+ },
+ {
+  "s": 180.45,
+  "e": 181.91,
+  "text": "just a tiny, tiny bit.",
+  "words": [
+   [
+    "just",
+    180.45
+   ],
+   [
+    "a",
+    180.82
+   ],
+   [
+    "tiny",
+    180.91
+   ],
+   [
+    "tiny",
+    181.27
+   ],
+   [
+    "bit",
+    181.64
+   ]
+  ]
+ },
+ {
+  "s": 182.46,
+  "e": 183.33,
+  "text": "Next time:",
+  "words": [
+   [
+    "next",
+    182.46
+   ],
+   [
+    "time",
+    182.9
+   ]
+  ]
+ },
+ {
+  "s": 183.63,
+  "e": 186.01,
+  "text": "what would happen if all the insects disappeared?",
+  "words": [
+   [
+    "what",
+    183.63
+   ],
+   [
+    "would",
+    183.86
+   ],
+   [
+    "happen",
+    184.15
+   ],
+   [
+    "if",
+    184.5
+   ],
+   [
+    "all",
+    184.62
+   ],
+   [
+    "the",
+    184.79
+   ],
+   [
+    "insects",
+    184.96
+   ],
+   [
+    "disappeared",
+    185.37
+   ]
+  ]
+ }
+]
