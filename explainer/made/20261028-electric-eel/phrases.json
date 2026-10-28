@@ -1,0 +1,728 @@
+[
+ {
+  "s": 0.25,
+  "e": 3.41,
+  "text": "An electric eel can zap you with 600 volts.",
+  "words": [
+   [
+    "an",
+    0.25
+   ],
+   [
+    "electric",
+    0.44
+   ],
+   [
+    "eel",
+    1.18
+   ],
+   [
+    "can",
+    1.46
+   ],
+   [
+    "zap",
+    1.74
+   ],
+   [
+    "you",
+    2.02
+   ],
+   [
+    "with",
+    2.29
+   ],
+   [
+    "600",
+    2.67
+   ],
+   [
+    "volts",
+    2.94
+   ]
+  ]
+ },
+ {
+  "s": 3.96,
+  "e": 4.7,
+  "text": "But how?",
+  "words": [
+   [
+    "but",
+    3.96
+   ],
+   [
+    "how",
+    4.33
+   ]
+  ]
+ },
+ {
+  "s": 5.25,
+  "e": 7.16,
+  "text": "That's five times your wall outlet,",
+  "words": [
+   [
+    "thats",
+    5.25
+   ],
+   [
+    "five",
+    5.59
+   ],
+   [
+    "times",
+    5.87
+   ],
+   [
+    "your",
+    6.21
+   ],
+   [
+    "wall",
+    6.48
+   ],
+   [
+    "outlet",
+    6.75
+   ]
+  ]
+ },
+ {
+  "s": 7.46,
+  "e": 9.24,
+  "text": "and there's no battery inside.",
+  "words": [
+   [
+    "and",
+    7.46
+   ],
+   [
+    "theres",
+    7.68
+   ],
+   [
+    "no",
+    8.13
+   ],
+   [
+    "battery",
+    8.27
+   ],
+   [
+    "inside",
+    8.79
+   ]
+  ]
+ },
+ {
+  "s": 9.79,
+  "e": 11.31,
+  "text": "Its body is the battery.",
+  "words": [
+   [
+    "its",
+    9.79
+   ],
+   [
+    "body",
+    10.03
+   ],
+   [
+    "is",
+    10.35
+   ],
+   [
+    "the",
+    10.51
+   ],
+   [
+    "battery",
+    10.75
+   ]
+  ]
+ },
+ {
+  "s": 11.86,
+  "e": 13.81,
+  "text": "Most of that long body is packed",
+  "words": [
+   [
+    "most",
+    11.86
+   ],
+   [
+    "of",
+    12.16
+   ],
+   [
+    "that",
+    12.31
+   ],
+   [
+    "long",
+    12.61
+   ],
+   [
+    "body",
+    12.91
+   ],
+   [
+    "is",
+    13.21
+   ],
+   [
+    "packed",
+    13.36
+   ]
+  ]
+ },
+ {
+  "s": 14.11,
+  "e": 16.51,
+  "text": "with special cells called electrocytes.",
+  "words": [
+   [
+    "with",
+    14.11
+   ],
+   [
+    "special",
+    14.39
+   ],
+   [
+    "cells",
+    14.88
+   ],
+   [
+    "called",
+    15.24
+   ],
+   [
+    "electrocytes",
+    15.66
+   ]
+  ]
+ },
+ {
+  "s": 17.06,
+  "e": 18.87,
+  "text": "Each one makes a tiny charge,",
+  "words": [
+   [
+    "each",
+    17.06
+   ],
+   [
+    "one",
+    17.37
+   ],
+   [
+    "makes",
+    17.61
+   ],
+   [
+    "a",
+    18.0
+   ],
+   [
+    "tiny",
+    18.08
+   ],
+   [
+    "charge",
+    18.39
+   ]
+  ]
+ },
+ {
+  "s": 19.17,
+  "e": 20.74,
+  "text": "less than a fifth of a volt.",
+  "words": [
+   [
+    "less",
+    19.17
+   ],
+   [
+    "than",
+    19.47
+   ],
+   [
+    "a",
+    19.77
+   ],
+   [
+    "fifth",
+    19.84
+   ],
+   [
+    "of",
+    20.22
+   ],
+   [
+    "a",
+    20.37
+   ],
+   [
+    "volt",
+    20.44
+   ]
+  ]
+ },
+ {
+  "s": 21.29,
+  "e": 22.52,
+  "text": "Alone, that's nothing.",
+  "words": [
+   [
+    "alone",
+    21.29
+   ],
+   [
+    "thats",
+    21.65
+   ],
+   [
+    "nothing",
+    22.01
+   ]
+  ]
+ },
+ {
+  "s": 23.07,
+  "e": 24.52,
+  "text": "But they're stacked in rows,",
+  "words": [
+   [
+    "but",
+    23.07
+   ],
+   [
+    "theyre",
+    23.27
+   ],
+   [
+    "stacked",
+    23.66
+   ],
+   [
+    "in",
+    24.13
+   ],
+   [
+    "rows",
+    24.26
+   ]
+  ]
+ },
+ {
+  "s": 24.82,
+  "e": 26.62,
+  "text": "thousands of them, head to tail,",
+  "words": [
+   [
+    "thousands",
+    24.82
+   ],
+   [
+    "of",
+    25.47
+   ],
+   [
+    "them",
+    25.61
+   ],
+   [
+    "head",
+    25.9
+   ],
+   [
+    "to",
+    26.19
+   ],
+   [
+    "tail",
+    26.33
+   ]
+  ]
+ },
+ {
+  "s": 26.92,
+  "e": 28.55,
+  "text": "like batteries in a flashlight.",
+  "words": [
+   [
+    "like",
+    26.92
+   ],
+   [
+    "batteries",
+    27.17
+   ],
+   [
+    "in",
+    27.74
+   ],
+   [
+    "a",
+    27.86
+   ],
+   [
+    "flashlight",
+    27.92
+   ]
+  ]
+ },
+ {
+  "s": 29.1,
+  "e": 30.69,
+  "text": "When the eel spots a fish,",
+  "words": [
+   [
+    "when",
+    29.1
+   ],
+   [
+    "the",
+    29.42
+   ],
+   [
+    "eel",
+    29.66
+   ],
+   [
+    "spots",
+    29.9
+   ],
+   [
+    "a",
+    30.29
+   ],
+   [
+    "fish",
+    30.37
+   ]
+  ]
+ },
+ {
+  "s": 30.99,
+  "e": 32.8,
+  "text": "its brain fires one signal,",
+  "words": [
+   [
+    "its",
+    30.99
+   ],
+   [
+    "brain",
+    31.24
+   ],
+   [
+    "fires",
+    31.65
+   ],
+   [
+    "one",
+    32.06
+   ],
+   [
+    "signal",
+    32.31
+   ]
+  ]
+ },
+ {
+  "s": 33.1,
+  "e": 34.91,
+  "text": "and every cell flips on at once.",
+  "words": [
+   [
+    "and",
+    33.1
+   ],
+   [
+    "every",
+    33.32
+   ],
+   [
+    "cell",
+    33.68
+   ],
+   [
+    "flips",
+    33.97
+   ],
+   [
+    "on",
+    34.33
+   ],
+   [
+    "at",
+    34.47
+   ],
+   [
+    "once",
+    34.62
+   ]
+  ]
+ },
+ {
+  "s": 35.46,
+  "e": 37.63,
+  "text": "About six thousand tiny charges",
+  "words": [
+   [
+    "about",
+    35.46
+   ],
+   [
+    "six",
+    35.86
+   ],
+   [
+    "thousand",
+    36.1
+   ],
+   [
+    "tiny",
+    36.75
+   ],
+   [
+    "charges",
+    37.07
+   ]
+  ]
+ },
+ {
+  "s": 37.93,
+  "e": 39.54,
+  "text": "add up to one giant shock.",
+  "words": [
+   [
+    "add",
+    37.93
+   ],
+   [
+    "up",
+    38.17
+   ],
+   [
+    "to",
+    38.33
+   ],
+   [
+    "one",
+    38.49
+   ],
+   [
+    "giant",
+    38.73
+   ],
+   [
+    "shock",
+    39.14
+   ]
+  ]
+ },
+ {
+  "s": 40.09,
+  "e": 40.63,
+  "text": "Zap!",
+  "words": [
+   [
+    "zap",
+    40.09
+   ]
+  ]
+ },
+ {
+  "s": 41.18,
+  "e": 42.88,
+  "text": "The fish freezes on the spot.",
+  "words": [
+   [
+    "the",
+    41.18
+   ],
+   [
+    "fish",
+    41.4
+   ],
+   [
+    "freezes",
+    41.69
+   ],
+   [
+    "on",
+    42.21
+   ],
+   [
+    "the",
+    42.36
+   ],
+   [
+    "spot",
+    42.58
+   ]
+  ]
+ },
+ {
+  "s": 43.43,
+  "e": 44.46,
+  "text": "Here's the twist:",
+  "words": [
+   [
+    "heres",
+    43.43
+   ],
+   [
+    "the",
+    43.82
+   ],
+   [
+    "twist",
+    44.06
+   ]
+  ]
+ },
+ {
+  "s": 44.76,
+  "e": 46.85,
+  "text": "an electric eel isn't even an eel.",
+  "words": [
+   [
+    "an",
+    44.76
+   ],
+   [
+    "electric",
+    44.92
+   ],
+   [
+    "eel",
+    45.56
+   ],
+   [
+    "isnt",
+    45.8
+   ],
+   [
+    "even",
+    46.13
+   ],
+   [
+    "an",
+    46.45
+   ],
+   [
+    "eel",
+    46.61
+   ]
+  ]
+ },
+ {
+  "s": 47.4,
+  "e": 48.45,
+  "text": "It's a knifefish,",
+  "words": [
+   [
+    "its",
+    47.4
+   ],
+   [
+    "a",
+    47.64
+   ],
+   [
+    "knifefish",
+    47.72
+   ]
+  ]
+ },
+ {
+  "s": 48.75,
+  "e": 50.03,
+  "text": "closer to a catfish.",
+  "words": [
+   [
+    "closer",
+    48.75
+   ],
+   [
+    "to",
+    49.23
+   ],
+   [
+    "a",
+    49.39
+   ],
+   [
+    "catfish",
+    49.47
+   ]
+  ]
+ },
+ {
+  "s": 50.58,
+  "e": 52.33,
+  "text": "So if your body were a battery,",
+  "words": [
+   [
+    "so",
+    50.58
+   ],
+   [
+    "if",
+    50.73
+   ],
+   [
+    "your",
+    50.87
+   ],
+   [
+    "body",
+    51.17
+   ],
+   [
+    "were",
+    51.46
+   ],
+   [
+    "a",
+    51.75
+   ],
+   [
+    "battery",
+    51.82
+   ]
+  ]
+ },
+ {
+  "s": 52.63,
+  "e": 53.98,
+  "text": "what would you power first?",
+  "words": [
+   [
+    "what",
+    52.63
+   ],
+   [
+    "would",
+    52.88
+   ],
+   [
+    "you",
+    53.18
+   ],
+   [
+    "power",
+    53.37
+   ],
+   [
+    "first",
+    53.68
+   ]
+  ]
+ }
+]
