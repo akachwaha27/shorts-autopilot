@@ -7930,7 +7930,7 @@
         "format": "animated",
         "style": "Kawaii Anime"
       },
-      "status": "awaiting_approval",
+      "status": "approved",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261028-chameleon",
@@ -7950,7 +7950,9 @@
         "name": "2026-10-28-104-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:02,470\nChameleons don't change color to hide.\n\n2\n00:00:03,020 --> 00:00:04,930\nThe real reason is way weirder,\n\n3\n00:00:05,230 --> 00:00:06,910\nand you've probably never heard it:\n\n4\n00:00:07,210 --> 00:00:09,510\ncrystals that move thirty percent apart.\n\n5\n00:00:10,060 --> 00:00:11,980\nUnder their skin are special cells,\n\n6\n00:00:12,280 --> 00:00:13,830\npacked with tiny crystals,\n\n7\n00:00:14,130 --> 00:00:15,610\nlined up in a neat grid.\n\n8\n00:00:16,160 --> 00:00:17,590\nWhen a chameleon is calm,\n\n9\n00:00:17,890 --> 00:00:19,560\nthe crystals sit close together\n\n10\n00:00:19,860 --> 00:00:21,290\nand bounce back blue light.\n\n11\n00:00:21,840 --> 00:00:23,530\nAdd the yellow skin on top,\n\n12\n00:00:23,830 --> 00:00:24,920\nand you get green.\n\n13\n00:00:25,470 --> 00:00:26,930\nBut when a rival shows up,\n\n14\n00:00:27,230 --> 00:00:29,040\nthe chameleon stretches its skin.\n\n15\n00:00:29,590 --> 00:00:31,350\nThe crystals spread farther apart,\n\n16\n00:00:31,650 --> 00:00:33,960\nso now they bounce back yellow and orange.\n\n17\n00:00:34,510 --> 00:00:36,450\nGreen turns to fiery orange\n\n18\n00:00:36,750 --> 00:00:38,300\nin just a couple of minutes.\n\n19\n00:00:38,850 --> 00:00:40,740\nIt's not hiding, it's showing off.\n\n20\n00:00:41,290 --> 00:00:43,030\nAnd a deeper layer of crystals\n\n21\n00:00:43,330 --> 00:00:44,670\nreflects the sun's heat,\n\n22\n00:00:44,970 --> 00:00:46,420\nlike built-in sunscreen.\n\n23\n00:00:46,970 --> 00:00:48,730\nSo if your skin showed your mood,\n\n24\n00:00:49,030 --> 00:00:50,780\nwhat color would you be right now?\n\n",
-      "tg_msg": 890
+      "tg_msg": 890,
+      "approved_by": "auto",
+      "quota_note": "2026-10-28"
     },
     "2026-10-28-105": {
       "topic": {
@@ -8000,7 +8002,7 @@
         "format": "animated",
         "style": "Synthwave Outrun"
       },
-      "status": "awaiting_approval",
+      "status": "approved",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261028-electric-eel",
@@ -8020,7 +8022,9 @@
         "name": "2026-10-28-105-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:03,410\nAn electric eel can zap you with 600 volts.\n\n2\n00:00:03,960 --> 00:00:04,700\nBut how?\n\n3\n00:00:05,250 --> 00:00:07,160\nThat's five times your wall outlet,\n\n4\n00:00:07,460 --> 00:00:09,240\nand there's no battery inside.\n\n5\n00:00:09,790 --> 00:00:11,310\nIts body is the battery.\n\n6\n00:00:11,860 --> 00:00:13,810\nMost of that long body is packed\n\n7\n00:00:14,110 --> 00:00:16,510\nwith special cells called electrocytes.\n\n8\n00:00:17,060 --> 00:00:18,870\nEach one makes a tiny charge,\n\n9\n00:00:19,170 --> 00:00:20,740\nless than a fifth of a volt.\n\n10\n00:00:21,290 --> 00:00:22,520\nAlone, that's nothing.\n\n11\n00:00:23,070 --> 00:00:24,520\nBut they're stacked in rows,\n\n12\n00:00:24,820 --> 00:00:26,620\nthousands of them, head to tail,\n\n13\n00:00:26,920 --> 00:00:28,550\nlike batteries in a flashlight.\n\n14\n00:00:29,100 --> 00:00:30,690\nWhen the eel spots a fish,\n\n15\n00:00:30,990 --> 00:00:32,800\nits brain fires one signal,\n\n16\n00:00:33,100 --> 00:00:34,910\nand every cell flips on at once.\n\n17\n00:00:35,460 --> 00:00:37,630\nAbout six thousand tiny charges\n\n18\n00:00:37,930 --> 00:00:39,540\nadd up to one giant shock.\n\n19\n00:00:40,090 --> 00:00:40,630\nZap!\n\n20\n00:00:41,180 --> 00:00:42,880\nThe fish freezes on the spot.\n\n21\n00:00:43,430 --> 00:00:44,460\nHere's the twist:\n\n22\n00:00:44,760 --> 00:00:46,850\nan electric eel isn't even an eel.\n\n23\n00:00:47,400 --> 00:00:48,450\nIt's a knifefish,\n\n24\n00:00:48,750 --> 00:00:50,030\ncloser to a catfish.\n\n25\n00:00:50,580 --> 00:00:52,330\nSo if your body were a battery,\n\n26\n00:00:52,630 --> 00:00:53,980\nwhat would you power first?\n\n",
-      "tg_msg": 891
+      "tg_msg": 891,
+      "approved_by": "auto",
+      "quota_note": "2026-10-28"
     }
   },
   "history": [
