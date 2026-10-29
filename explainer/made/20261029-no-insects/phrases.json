@@ -1,0 +1,2374 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.52,
+  "text": "Every insect on Earth vanishes tonight.",
+  "words": [
+   [
+    "every",
+    0.25
+   ],
+   [
+    "insect",
+    0.59
+   ],
+   [
+    "on",
+    1.01
+   ],
+   [
+    "earth",
+    1.14
+   ],
+   [
+    "vanishes",
+    1.49
+   ],
+   [
+    "tonight",
+    2.04
+   ]
+  ]
+ },
+ {
+  "s": 3.07,
+  "e": 4.37,
+  "text": "What would you lose first?",
+  "words": [
+   [
+    "what",
+    3.07
+   ],
+   [
+    "would",
+    3.32
+   ],
+   [
+    "you",
+    3.63
+   ],
+   [
+    "lose",
+    3.81
+   ],
+   [
+    "first",
+    4.06
+   ]
+  ]
+ },
+ {
+  "s": 4.92,
+  "e": 7.13,
+  "text": "The first thing you'd notice is the quiet,",
+  "words": [
+   [
+    "the",
+    4.92
+   ],
+   [
+    "first",
+    5.12
+   ],
+   [
+    "thing",
+    5.46
+   ],
+   [
+    "youd",
+    5.79
+   ],
+   [
+    "notice",
+    6.06
+   ],
+   [
+    "is",
+    6.46
+   ],
+   [
+    "the",
+    6.6
+   ],
+   [
+    "quiet",
+    6.8
+   ]
+  ]
+ },
+ {
+  "s": 7.43,
+  "e": 10.26,
+  "text": "no buzzing, no chirping, no crickets at night.",
+  "words": [
+   [
+    "no",
+    7.43
+   ],
+   [
+    "buzzing",
+    7.59
+   ],
+   [
+    "no",
+    8.14
+   ],
+   [
+    "chirping",
+    8.3
+   ],
+   [
+    "no",
+    8.93
+   ],
+   [
+    "crickets",
+    9.08
+   ],
+   [
+    "at",
+    9.71
+   ],
+   [
+    "night",
+    9.87
+   ]
+  ]
+ },
+ {
+  "s": 10.81,
+  "e": 13.29,
+  "text": "But the real trouble starts sooner than you think.",
+  "words": [
+   [
+    "but",
+    10.81
+   ],
+   [
+    "the",
+    10.99
+   ],
+   [
+    "real",
+    11.18
+   ],
+   [
+    "trouble",
+    11.42
+   ],
+   [
+    "starts",
+    11.84
+   ],
+   [
+    "sooner",
+    12.2
+   ],
+   [
+    "than",
+    12.57
+   ],
+   [
+    "you",
+    12.81
+   ],
+   [
+    "think",
+    12.99
+   ]
+  ]
+ },
+ {
+  "s": 13.84,
+  "e": 15.72,
+  "text": "Let's walk through it, step by step.",
+  "words": [
+   [
+    "lets",
+    13.84
+   ],
+   [
+    "walk",
+    14.12
+   ],
+   [
+    "through",
+    14.4
+   ],
+   [
+    "it",
+    14.88
+   ],
+   [
+    "step",
+    15.02
+   ],
+   [
+    "by",
+    15.3
+   ],
+   [
+    "step",
+    15.44
+   ]
+  ]
+ },
+ {
+  "s": 16.27,
+  "e": 18.67,
+  "text": "First, how many bugs are we talking about?",
+  "words": [
+   [
+    "first",
+    16.27
+   ],
+   [
+    "how",
+    16.63
+   ],
+   [
+    "many",
+    16.85
+   ],
+   [
+    "bugs",
+    17.14
+   ],
+   [
+    "are",
+    17.43
+   ],
+   [
+    "we",
+    17.65
+   ],
+   [
+    "talking",
+    17.8
+   ],
+   [
+    "about",
+    18.31
+   ]
+  ]
+ },
+ {
+  "s": 19.22,
+  "e": 21.85,
+  "text": "Scientists think about ten quintillion insects",
+  "words": [
+   [
+    "scientists",
+    19.22
+   ],
+   [
+    "think",
+    19.86
+   ],
+   [
+    "about",
+    20.18
+   ],
+   [
+    "ten",
+    20.51
+   ],
+   [
+    "quintillion",
+    20.7
+   ],
+   [
+    "insects",
+    21.4
+   ]
+  ]
+ },
+ {
+  "s": 22.15,
+  "e": 23.42,
+  "text": "are alive right now.",
+  "words": [
+   [
+    "are",
+    22.15
+   ],
+   [
+    "alive",
+    22.39
+   ],
+   [
+    "right",
+    22.78
+   ],
+   [
+    "now",
+    23.18
+   ]
+  ]
+ },
+ {
+  "s": 23.97,
+  "e": 25.72,
+  "text": "That's more than a billion insects",
+  "words": [
+   [
+    "thats",
+    23.97
+   ],
+   [
+    "more",
+    24.28
+   ],
+   [
+    "than",
+    24.53
+   ],
+   [
+    "a",
+    24.78
+   ],
+   [
+    "billion",
+    24.84
+   ],
+   [
+    "insects",
+    25.28
+   ]
+  ]
+ },
+ {
+  "s": 26.02,
+  "e": 27.57,
+  "text": "for every single person.",
+  "words": [
+   [
+    "for",
+    26.02
+   ],
+   [
+    "every",
+    26.25
+   ],
+   [
+    "single",
+    26.64
+   ],
+   [
+    "person",
+    27.1
+   ]
+  ]
+ },
+ {
+  "s": 28.12,
+  "e": 30.17,
+  "text": "Over a million kinds have names,",
+  "words": [
+   [
+    "over",
+    28.12
+   ],
+   [
+    "a",
+    28.43
+   ],
+   [
+    "million",
+    28.51
+   ],
+   [
+    "kinds",
+    29.06
+   ],
+   [
+    "have",
+    29.46
+   ],
+   [
+    "names",
+    29.77
+   ]
+  ]
+ },
+ {
+  "s": 30.47,
+  "e": 32.74,
+  "text": "and millions more are still waiting for one.",
+  "words": [
+   [
+    "and",
+    30.47
+   ],
+   [
+    "millions",
+    30.66
+   ],
+   [
+    "more",
+    31.16
+   ],
+   [
+    "are",
+    31.41
+   ],
+   [
+    "still",
+    31.6
+   ],
+   [
+    "waiting",
+    31.92
+   ],
+   [
+    "for",
+    32.36
+   ],
+   [
+    "one",
+    32.55
+   ]
+  ]
+ },
+ {
+  "s": 33.29,
+  "e": 34.75,
+  "text": "So when they all disappear,",
+  "words": [
+   [
+    "so",
+    33.29
+   ],
+   [
+    "when",
+    33.42
+   ],
+   [
+    "they",
+    33.69
+   ],
+   [
+    "all",
+    33.95
+   ],
+   [
+    "disappear",
+    34.15
+   ]
+  ]
+ },
+ {
+  "s": 35.05,
+  "e": 36.69,
+  "text": "they leave a gigantic hole.",
+  "words": [
+   [
+    "they",
+    35.05
+   ],
+   [
+    "leave",
+    35.35
+   ],
+   [
+    "a",
+    35.72
+   ],
+   [
+    "gigantic",
+    35.8
+   ],
+   [
+    "hole",
+    36.39
+   ]
+  ]
+ },
+ {
+  "s": 37.24,
+  "e": 38.55,
+  "text": "Start with the flowers.",
+  "words": [
+   [
+    "start",
+    37.24
+   ],
+   [
+    "with",
+    37.58
+   ],
+   [
+    "the",
+    37.86
+   ],
+   [
+    "flowers",
+    38.07
+   ]
+  ]
+ },
+ {
+  "s": 39.1,
+  "e": 41.33,
+  "text": "Nearly nine out of ten flowering plants",
+  "words": [
+   [
+    "nearly",
+    39.1
+   ],
+   [
+    "nine",
+    39.5
+   ],
+   [
+    "out",
+    39.77
+   ],
+   [
+    "of",
+    39.98
+   ],
+   [
+    "ten",
+    40.11
+   ],
+   [
+    "flowering",
+    40.32
+   ],
+   [
+    "plants",
+    40.92
+   ]
+  ]
+ },
+ {
+  "s": 41.63,
+  "e": 43.7,
+  "text": "need animals to carry their pollen,",
+  "words": [
+   [
+    "need",
+    41.63
+   ],
+   [
+    "animals",
+    41.91
+   ],
+   [
+    "to",
+    42.41
+   ],
+   [
+    "carry",
+    42.56
+   ],
+   [
+    "their",
+    42.91
+   ],
+   [
+    "pollen",
+    43.27
+   ]
+  ]
+ },
+ {
+  "s": 44.0,
+  "e": 46.2,
+  "text": "and most of those animals are insects.",
+  "words": [
+   [
+    "and",
+    44.0
+   ],
+   [
+    "most",
+    44.21
+   ],
+   [
+    "of",
+    44.5
+   ],
+   [
+    "those",
+    44.64
+   ],
+   [
+    "animals",
+    45.0
+   ],
+   [
+    "are",
+    45.49
+   ],
+   [
+    "insects",
+    45.71
+   ]
+  ]
+ },
+ {
+  "s": 46.75,
+  "e": 49.81,
+  "text": "Bees, flies, beetles, moths and butterflies",
+  "words": [
+   [
+    "bees",
+    46.75
+   ],
+   [
+    "flies",
+    47.1
+   ],
+   [
+    "beetles",
+    47.54
+   ],
+   [
+    "moths",
+    48.15
+   ],
+   [
+    "and",
+    48.59
+   ],
+   [
+    "butterflies",
+    48.85
+   ]
+  ]
+ },
+ {
+  "s": 50.11,
+  "e": 52.16,
+  "text": "move pollen from flower to flower,",
+  "words": [
+   [
+    "move",
+    50.11
+   ],
+   [
+    "pollen",
+    50.4
+   ],
+   [
+    "from",
+    50.84
+   ],
+   [
+    "flower",
+    51.13
+   ],
+   [
+    "to",
+    51.57
+   ],
+   [
+    "flower",
+    51.72
+   ]
+  ]
+ },
+ {
+  "s": 52.46,
+  "e": 54.5,
+  "text": "so the plant can make seeds and fruit.",
+  "words": [
+   [
+    "so",
+    52.46
+   ],
+   [
+    "the",
+    52.6
+   ],
+   [
+    "plant",
+    52.8
+   ],
+   [
+    "can",
+    53.14
+   ],
+   [
+    "make",
+    53.34
+   ],
+   [
+    "seeds",
+    53.61
+   ],
+   [
+    "and",
+    53.95
+   ],
+   [
+    "fruit",
+    54.16
+   ]
+  ]
+ },
+ {
+  "s": 55.05,
+  "e": 57.12,
+  "text": "Without them, the flowers still bloom,",
+  "words": [
+   [
+    "without",
+    55.05
+   ],
+   [
+    "them",
+    55.51
+   ],
+   [
+    "the",
+    55.78
+   ],
+   [
+    "flowers",
+    55.98
+   ],
+   [
+    "still",
+    56.45
+   ],
+   [
+    "bloom",
+    56.79
+   ]
+  ]
+ },
+ {
+  "s": 57.42,
+  "e": 59.33,
+  "text": "but most never turn into fruit.",
+  "words": [
+   [
+    "but",
+    57.42
+   ],
+   [
+    "most",
+    57.65
+   ],
+   [
+    "never",
+    57.96
+   ],
+   [
+    "turn",
+    58.34
+   ],
+   [
+    "into",
+    58.64
+   ],
+   [
+    "fruit",
+    58.95
+   ]
+  ]
+ },
+ {
+  "s": 59.88,
+  "e": 62.35,
+  "text": "About three quarters of our main food crops",
+  "words": [
+   [
+    "about",
+    59.88
+   ],
+   [
+    "three",
+    60.22
+   ],
+   [
+    "quarters",
+    60.56
+   ],
+   [
+    "of",
+    61.11
+   ],
+   [
+    "our",
+    61.25
+   ],
+   [
+    "main",
+    61.46
+   ],
+   [
+    "food",
+    61.73
+   ],
+   [
+    "crops",
+    62.0
+   ]
+  ]
+ },
+ {
+  "s": 62.65,
+  "e": 64.28,
+  "text": "get help from pollinators.",
+  "words": [
+   [
+    "get",
+    62.65
+   ],
+   [
+    "help",
+    62.87
+   ],
+   [
+    "from",
+    63.17
+   ],
+   [
+    "pollinators",
+    63.46
+   ]
+  ]
+ },
+ {
+  "s": 64.83,
+  "e": 67.66,
+  "text": "Apples, almonds, blueberries, cherries and melons",
+  "words": [
+   [
+    "apples",
+    64.83
+   ],
+   [
+    "almonds",
+    65.25
+   ],
+   [
+    "blueberries",
+    65.73
+   ],
+   [
+    "cherries",
+    66.49
+   ],
+   [
+    "and",
+    67.04
+   ],
+   [
+    "melons",
+    67.25
+   ]
+  ]
+ },
+ {
+  "s": 67.96,
+  "e": 70.16,
+  "text": "would become rare and very expensive.",
+  "words": [
+   [
+    "would",
+    67.96
+   ],
+   [
+    "become",
+    68.31
+   ],
+   [
+    "rare",
+    68.74
+   ],
+   [
+    "and",
+    69.02
+   ],
+   [
+    "very",
+    69.24
+   ],
+   [
+    "expensive",
+    69.52
+   ]
+  ]
+ },
+ {
+  "s": 70.71,
+  "e": 71.52,
+  "text": "And chocolate?",
+  "words": [
+   [
+    "and",
+    70.71
+   ],
+   [
+    "chocolate",
+    70.91
+   ]
+  ]
+ },
+ {
+  "s": 72.07,
+  "e": 76.22,
+  "text": "Cacao flowers are pollinated by tiny flies called midges,",
+  "words": [
+   [
+    "cacao",
+    72.07
+   ],
+   [
+    "flowers",
+    72.5
+   ],
+   [
+    "are",
+    73.11
+   ],
+   [
+    "pollinated",
+    73.37
+   ],
+   [
+    "by",
+    74.23
+   ],
+   [
+    "tiny",
+    74.4
+   ],
+   [
+    "flies",
+    74.75
+   ],
+   [
+    "called",
+    75.18
+   ],
+   [
+    "midges",
+    75.7
+   ]
+  ]
+ },
+ {
+  "s": 76.52,
+  "e": 78.11,
+  "text": "about the size of a pinhead.",
+  "words": [
+   [
+    "about",
+    76.52
+   ],
+   [
+    "the",
+    76.88
+   ],
+   [
+    "size",
+    77.1
+   ],
+   [
+    "of",
+    77.39
+   ],
+   [
+    "a",
+    77.53
+   ],
+   [
+    "pinhead",
+    77.6
+   ]
+  ]
+ },
+ {
+  "s": 78.66,
+  "e": 80.79,
+  "text": "No midges, almost no chocolate.",
+  "words": [
+   [
+    "no",
+    78.66
+   ],
+   [
+    "midges",
+    78.83
+   ],
+   [
+    "almost",
+    79.34
+   ],
+   [
+    "no",
+    79.85
+   ],
+   [
+    "chocolate",
+    80.02
+   ]
+  ]
+ },
+ {
+  "s": 81.34,
+  "e": 83.62,
+  "text": "Next come the animals that eat insects.",
+  "words": [
+   [
+    "next",
+    81.34
+   ],
+   [
+    "come",
+    81.62
+   ],
+   [
+    "the",
+    81.91
+   ],
+   [
+    "animals",
+    82.12
+   ],
+   [
+    "that",
+    82.62
+   ],
+   [
+    "eat",
+    82.9
+   ],
+   [
+    "insects",
+    83.12
+   ]
+  ]
+ },
+ {
+  "s": 84.17,
+  "e": 86.44,
+  "text": "Most songbirds feed their chicks on bugs,",
+  "words": [
+   [
+    "most",
+    84.17
+   ],
+   [
+    "songbirds",
+    84.43
+   ],
+   [
+    "feed",
+    85.03
+   ],
+   [
+    "their",
+    85.3
+   ],
+   [
+    "chicks",
+    85.64
+   ],
+   [
+    "on",
+    86.04
+   ],
+   [
+    "bugs",
+    86.17
+   ]
+  ]
+ },
+ {
+  "s": 86.74,
+  "e": 89.03,
+  "text": "even the ones that eat seeds as adults.",
+  "words": [
+   [
+    "even",
+    86.74
+   ],
+   [
+    "the",
+    87.03
+   ],
+   [
+    "ones",
+    87.26
+   ],
+   [
+    "that",
+    87.55
+   ],
+   [
+    "eat",
+    87.85
+   ],
+   [
+    "seeds",
+    88.07
+   ],
+   [
+    "as",
+    88.44
+   ],
+   [
+    "adults",
+    88.59
+   ]
+  ]
+ },
+ {
+  "s": 89.58,
+  "e": 90.97,
+  "text": "One pair of chickadees",
+  "words": [
+   [
+    "one",
+    89.58
+   ],
+   [
+    "pair",
+    89.8
+   ],
+   [
+    "of",
+    90.09
+   ],
+   [
+    "chickadees",
+    90.24
+   ]
+  ]
+ },
+ {
+  "s": 91.27,
+  "e": 93.63,
+  "text": "needs six to nine thousand caterpillars",
+  "words": [
+   [
+    "needs",
+    91.27
+   ],
+   [
+    "six",
+    91.61
+   ],
+   [
+    "to",
+    91.82
+   ],
+   [
+    "nine",
+    91.96
+   ],
+   [
+    "thousand",
+    92.24
+   ],
+   [
+    "caterpillars",
+    92.8
+   ]
+  ]
+ },
+ {
+  "s": 93.93,
+  "e": 95.83,
+  "text": "to raise a single nest of chicks.",
+  "words": [
+   [
+    "to",
+    93.93
+   ],
+   [
+    "raise",
+    94.08
+   ],
+   [
+    "a",
+    94.44
+   ],
+   [
+    "single",
+    94.52
+   ],
+   [
+    "nest",
+    94.95
+   ],
+   [
+    "of",
+    95.25
+   ],
+   [
+    "chicks",
+    95.39
+   ]
+  ]
+ },
+ {
+  "s": 96.38,
+  "e": 98.65,
+  "text": "Bats, frogs, lizards and spiders",
+  "words": [
+   [
+    "bats",
+    96.38
+   ],
+   [
+    "frogs",
+    96.73
+   ],
+   [
+    "lizards",
+    97.16
+   ],
+   [
+    "and",
+    97.77
+   ],
+   [
+    "spiders",
+    98.04
+   ]
+  ]
+ },
+ {
+  "s": 98.95,
+  "e": 100.26,
+  "text": "lose their dinner too.",
+  "words": [
+   [
+    "lose",
+    98.95
+   ],
+   [
+    "their",
+    99.24
+   ],
+   [
+    "dinner",
+    99.6
+   ],
+   [
+    "too",
+    100.04
+   ]
+  ]
+ },
+ {
+  "s": 100.81,
+  "e": 102.98,
+  "text": "In rivers, trout and many other fish",
+  "words": [
+   [
+    "in",
+    100.81
+   ],
+   [
+    "rivers",
+    100.96
+   ],
+   [
+    "trout",
+    101.41
+   ],
+   [
+    "and",
+    101.78
+   ],
+   [
+    "many",
+    102.01
+   ],
+   [
+    "other",
+    102.31
+   ],
+   [
+    "fish",
+    102.68
+   ]
+  ]
+ },
+ {
+  "s": 103.28,
+  "e": 105.49,
+  "text": "eat young mayflies and caddisflies.",
+  "words": [
+   [
+    "eat",
+    103.28
+   ],
+   [
+    "young",
+    103.5
+   ],
+   [
+    "mayflies",
+    103.87
+   ],
+   [
+    "and",
+    104.46
+   ],
+   [
+    "caddisflies",
+    104.68
+   ]
+  ]
+ },
+ {
+  "s": 106.04,
+  "e": 107.29,
+  "text": "Take away the bugs,",
+  "words": [
+   [
+    "take",
+    106.04
+   ],
+   [
+    "away",
+    106.37
+   ],
+   [
+    "the",
+    106.7
+   ],
+   [
+    "bugs",
+    106.95
+   ]
+  ]
+ },
+ {
+  "s": 107.59,
+  "e": 110.09,
+  "text": "and the food chain crumbles from the bottom up.",
+  "words": [
+   [
+    "and",
+    107.59
+   ],
+   [
+    "the",
+    107.78
+   ],
+   [
+    "food",
+    107.98
+   ],
+   [
+    "chain",
+    108.24
+   ],
+   [
+    "crumbles",
+    108.57
+   ],
+   [
+    "from",
+    109.1
+   ],
+   [
+    "the",
+    109.36
+   ],
+   [
+    "bottom",
+    109.56
+   ],
+   [
+    "up",
+    109.96
+   ]
+  ]
+ },
+ {
+  "s": 110.64,
+  "e": 111.95,
+  "text": "Now for the gross part.",
+  "words": [
+   [
+    "now",
+    110.64
+   ],
+   [
+    "for",
+    110.86
+   ],
+   [
+    "the",
+    111.07
+   ],
+   [
+    "gross",
+    111.29
+   ],
+   [
+    "part",
+    111.65
+   ]
+  ]
+ },
+ {
+  "s": 112.5,
+  "e": 114.39,
+  "text": "Insects are nature's cleanup crew.",
+  "words": [
+   [
+    "insects",
+    112.5
+   ],
+   [
+    "are",
+    112.97
+   ],
+   [
+    "natures",
+    113.17
+   ],
+   [
+    "cleanup",
+    113.65
+   ],
+   [
+    "crew",
+    114.12
+   ]
+  ]
+ },
+ {
+  "s": 114.94,
+  "e": 117.92,
+  "text": "Beetles and fly larvae break down dead leaves,",
+  "words": [
+   [
+    "beetles",
+    114.94
+   ],
+   [
+    "and",
+    115.49
+   ],
+   [
+    "fly",
+    115.72
+   ],
+   [
+    "larvae",
+    115.96
+   ],
+   [
+    "break",
+    116.43
+   ],
+   [
+    "down",
+    116.82
+   ],
+   [
+    "dead",
+    117.13
+   ],
+   [
+    "leaves",
+    117.45
+   ]
+  ]
+ },
+ {
+  "s": 118.22,
+  "e": 119.21,
+  "text": "dead animals,",
+  "words": [
+   [
+    "dead",
+    118.22
+   ],
+   [
+    "animals",
+    118.58
+   ]
+  ]
+ },
+ {
+  "s": 119.51,
+  "e": 120.31,
+  "text": "and poop.",
+  "words": [
+   [
+    "and",
+    119.51
+   ],
+   [
+    "poop",
+    119.86
+   ]
+  ]
+ },
+ {
+  "s": 120.86,
+  "e": 123.08,
+  "text": "Australia found this out the hard way.",
+  "words": [
+   [
+    "australia",
+    120.86
+   ],
+   [
+    "found",
+    121.51
+   ],
+   [
+    "this",
+    121.86
+   ],
+   [
+    "out",
+    122.15
+   ],
+   [
+    "the",
+    122.36
+   ],
+   [
+    "hard",
+    122.58
+   ],
+   [
+    "way",
+    122.86
+   ]
+  ]
+ },
+ {
+  "s": 123.63,
+  "e": 125.08,
+  "text": "When settlers brought cattle,",
+  "words": [
+   [
+    "when",
+    123.63
+   ],
+   [
+    "settlers",
+    123.86
+   ],
+   [
+    "brought",
+    124.32
+   ],
+   [
+    "cattle",
+    124.73
+   ]
+  ]
+ },
+ {
+  "s": 125.38,
+  "e": 128.1,
+  "text": "the local dung beetles couldn't handle cow pats.",
+  "words": [
+   [
+    "the",
+    125.38
+   ],
+   [
+    "local",
+    125.59
+   ],
+   [
+    "dung",
+    125.94
+   ],
+   [
+    "beetles",
+    126.22
+   ],
+   [
+    "couldnt",
+    126.7
+   ],
+   [
+    "handle",
+    127.19
+   ],
+   [
+    "cow",
+    127.61
+   ],
+   [
+    "pats",
+    127.82
+   ]
+  ]
+ },
+ {
+  "s": 128.65,
+  "e": 130.64,
+  "text": "The pats sat in the fields for months,",
+  "words": [
+   [
+    "the",
+    128.65
+   ],
+   [
+    "pats",
+    128.85
+   ],
+   [
+    "sat",
+    129.12
+   ],
+   [
+    "in",
+    129.31
+   ],
+   [
+    "the",
+    129.45
+   ],
+   [
+    "fields",
+    129.65
+   ],
+   [
+    "for",
+    130.05
+   ],
+   [
+    "months",
+    130.24
+   ]
+  ]
+ },
+ {
+  "s": 130.94,
+  "e": 132.02,
+  "text": "smothering the grass",
+  "words": [
+   [
+    "smothering",
+    130.94
+   ],
+   [
+    "the",
+    131.54
+   ],
+   [
+    "grass",
+    131.72
+   ]
+  ]
+ },
+ {
+  "s": 132.32,
+  "e": 134.11,
+  "text": "and breeding swarms of flies.",
+  "words": [
+   [
+    "and",
+    132.32
+   ],
+   [
+    "breeding",
+    132.54
+   ],
+   [
+    "swarms",
+    133.14
+   ],
+   [
+    "of",
+    133.59
+   ],
+   [
+    "flies",
+    133.73
+   ]
+  ]
+ },
+ {
+  "s": 134.66,
+  "e": 137.48,
+  "text": "So scientists shipped in dung beetles from abroad,",
+  "words": [
+   [
+    "so",
+    134.66
+   ],
+   [
+    "scientists",
+    134.79
+   ],
+   [
+    "shipped",
+    135.46
+   ],
+   [
+    "in",
+    135.93
+   ],
+   [
+    "dung",
+    136.07
+   ],
+   [
+    "beetles",
+    136.34
+   ],
+   [
+    "from",
+    136.81
+   ],
+   [
+    "abroad",
+    137.08
+   ]
+  ]
+ },
+ {
+  "s": 137.78,
+  "e": 139.89,
+  "text": "and about twenty-three kinds settled in.",
+  "words": [
+   [
+    "and",
+    137.78
+   ],
+   [
+    "about",
+    137.97
+   ],
+   [
+    "twentythree",
+    138.29
+   ],
+   [
+    "kinds",
+    138.99
+   ],
+   [
+    "settled",
+    139.31
+   ],
+   [
+    "in",
+    139.76
+   ]
+  ]
+ },
+ {
+  "s": 140.44,
+  "e": 142.99,
+  "text": "Now picture that problem everywhere on Earth.",
+  "words": [
+   [
+    "now",
+    140.44
+   ],
+   [
+    "picture",
+    140.64
+   ],
+   [
+    "that",
+    141.11
+   ],
+   [
+    "problem",
+    141.38
+   ],
+   [
+    "everywhere",
+    141.85
+   ],
+   [
+    "on",
+    142.52
+   ],
+   [
+    "earth",
+    142.65
+   ]
+  ]
+ },
+ {
+  "s": 143.54,
+  "e": 145.69,
+  "text": "Fungi and bacteria would keep working,",
+  "words": [
+   [
+    "fungi",
+    143.54
+   ],
+   [
+    "and",
+    143.87
+   ],
+   [
+    "bacteria",
+    144.08
+   ],
+   [
+    "would",
+    144.61
+   ],
+   [
+    "keep",
+    144.95
+   ],
+   [
+    "working",
+    145.22
+   ]
+  ]
+ },
+ {
+  "s": 145.99,
+  "e": 147.29,
+  "text": "but much more slowly.",
+  "words": [
+   [
+    "but",
+    145.99
+   ],
+   [
+    "much",
+    146.22
+   ],
+   [
+    "more",
+    146.53
+   ],
+   [
+    "slowly",
+    146.83
+   ]
+  ]
+ },
+ {
+  "s": 147.84,
+  "e": 149.33,
+  "text": "So, would humans starve?",
+  "words": [
+   [
+    "so",
+    147.84
+   ],
+   [
+    "would",
+    148.0
+   ],
+   [
+    "humans",
+    148.39
+   ],
+   [
+    "starve",
+    148.86
+   ]
+  ]
+ },
+ {
+  "s": 149.88,
+  "e": 150.96,
+  "text": "Not right away.",
+  "words": [
+   [
+    "not",
+    149.88
+   ],
+   [
+    "right",
+    150.15
+   ],
+   [
+    "away",
+    150.6
+   ]
+  ]
+ },
+ {
+  "s": 151.51,
+  "e": 154.57,
+  "text": "Wheat, rice and corn are pollinated by the wind,",
+  "words": [
+   [
+    "wheat",
+    151.51
+   ],
+   [
+    "rice",
+    151.91
+   ],
+   [
+    "and",
+    152.23
+   ],
+   [
+    "corn",
+    152.48
+   ],
+   [
+    "are",
+    152.8
+   ],
+   [
+    "pollinated",
+    153.04
+   ],
+   [
+    "by",
+    153.84
+   ],
+   [
+    "the",
+    154.01
+   ],
+   [
+    "wind",
+    154.25
+   ]
+  ]
+ },
+ {
+  "s": 154.87,
+  "e": 157.54,
+  "text": "so we'd still have bread, rice and popcorn.",
+  "words": [
+   [
+    "so",
+    154.87
+   ],
+   [
+    "wed",
+    155.03
+   ],
+   [
+    "still",
+    155.27
+   ],
+   [
+    "have",
+    155.68
+   ],
+   [
+    "bread",
+    156.0
+   ],
+   [
+    "rice",
+    156.4
+   ],
+   [
+    "and",
+    156.73
+   ],
+   [
+    "popcorn",
+    156.97
+   ]
+  ]
+ },
+ {
+  "s": 158.09,
+  "e": 159.98,
+  "text": "But our plates would get very boring,",
+  "words": [
+   [
+    "but",
+    158.09
+   ],
+   [
+    "our",
+    158.27
+   ],
+   [
+    "plates",
+    158.46
+   ],
+   [
+    "would",
+    158.84
+   ],
+   [
+    "get",
+    159.16
+   ],
+   [
+    "very",
+    159.35
+   ],
+   [
+    "boring",
+    159.6
+   ]
+  ]
+ },
+ {
+  "s": 160.28,
+  "e": 161.73,
+  "text": "and we'd lose honey, silk,",
+  "words": [
+   [
+    "and",
+    160.28
+   ],
+   [
+    "wed",
+    160.5
+   ],
+   [
+    "lose",
+    160.73
+   ],
+   [
+    "honey",
+    161.04
+   ],
+   [
+    "silk",
+    161.42
+   ]
+  ]
+ },
+ {
+  "s": 162.03,
+  "e": 164.0,
+  "text": "and lots of fruits and vegetables.",
+  "words": [
+   [
+    "and",
+    162.03
+   ],
+   [
+    "lots",
+    162.24
+   ],
+   [
+    "of",
+    162.52
+   ],
+   [
+    "fruits",
+    162.66
+   ],
+   [
+    "and",
+    163.08
+   ],
+   [
+    "vegetables",
+    163.3
+   ]
+  ]
+ },
+ {
+  "s": 164.55,
+  "e": 167.02,
+  "text": "Many wild plants would slowly fade away,",
+  "words": [
+   [
+    "many",
+    164.55
+   ],
+   [
+    "wild",
+    164.85
+   ],
+   [
+    "plants",
+    165.15
+   ],
+   [
+    "would",
+    165.6
+   ],
+   [
+    "slowly",
+    165.97
+   ],
+   [
+    "fade",
+    166.42
+   ],
+   [
+    "away",
+    166.72
+   ]
+  ]
+ },
+ {
+  "s": 167.32,
+  "e": 169.4,
+  "text": "and the animals that eat them would follow.",
+  "words": [
+   [
+    "and",
+    167.32
+   ],
+   [
+    "the",
+    167.5
+   ],
+   [
+    "animals",
+    167.68
+   ],
+   [
+    "that",
+    168.09
+   ],
+   [
+    "eat",
+    168.33
+   ],
+   [
+    "them",
+    168.51
+   ],
+   [
+    "would",
+    168.75
+   ],
+   [
+    "follow",
+    169.04
+   ]
+  ]
+ },
+ {
+  "s": 169.95,
+  "e": 171.38,
+  "text": "Even the soil would suffer,",
+  "words": [
+   [
+    "even",
+    169.95
+   ],
+   [
+    "the",
+    170.21
+   ],
+   [
+    "soil",
+    170.4
+   ],
+   [
+    "would",
+    170.66
+   ],
+   [
+    "suffer",
+    170.99
+   ]
+  ]
+ },
+ {
+  "s": 171.68,
+  "e": 174.15,
+  "text": "because insects dig it, mix it and feed it.",
+  "words": [
+   [
+    "because",
+    171.68
+   ],
+   [
+    "insects",
+    172.2
+   ],
+   [
+    "dig",
+    172.73
+   ],
+   [
+    "it",
+    172.95
+   ],
+   [
+    "mix",
+    173.1
+   ],
+   [
+    "it",
+    173.32
+   ],
+   [
+    "and",
+    173.47
+   ],
+   [
+    "feed",
+    173.7
+   ],
+   [
+    "it",
+    174.0
+   ]
+  ]
+ },
+ {
+  "s": 174.7,
+  "e": 177.36,
+  "text": "So the next time a bee buzzes past your head,",
+  "words": [
+   [
+    "so",
+    174.7
+   ],
+   [
+    "the",
+    174.85
+   ],
+   [
+    "next",
+    175.08
+   ],
+   [
+    "time",
+    175.38
+   ],
+   [
+    "a",
+    175.69
+   ],
+   [
+    "bee",
+    175.76
+   ],
+   [
+    "buzzes",
+    175.99
+   ],
+   [
+    "past",
+    176.44
+   ],
+   [
+    "your",
+    176.75
+   ],
+   [
+    "head",
+    177.05
+   ]
+  ]
+ },
+ {
+  "s": 177.66,
+  "e": 178.33,
+  "text": "remember,",
+  "words": [
+   [
+    "remember",
+    177.66
+   ]
+  ]
+ },
+ {
+  "s": 178.63,
+  "e": 181.26,
+  "text": "that tiny bug helps keep your whole plate full.",
+  "words": [
+   [
+    "that",
+    178.63
+   ],
+   [
+    "tiny",
+    178.91
+   ],
+   [
+    "bug",
+    179.19
+   ],
+   [
+    "helps",
+    179.39
+   ],
+   [
+    "keep",
+    179.74
+   ],
+   [
+    "your",
+    180.02
+   ],
+   [
+    "whole",
+    180.29
+   ],
+   [
+    "plate",
+    180.64
+   ],
+   [
+    "full",
+    180.98
+   ]
+  ]
+ },
+ {
+  "s": 181.81,
+  "e": 182.68,
+  "text": "Next time:",
+  "words": [
+   [
+    "next",
+    181.81
+   ],
+   [
+    "time",
+    182.25
+   ]
+  ]
+ },
+ {
+  "s": 182.98,
+  "e": 185.07,
+  "text": "how a bear hunt gave us the teddy bear.",
+  "words": [
+   [
+    "how",
+    182.98
+   ],
+   [
+    "a",
+    183.19
+   ],
+   [
+    "bear",
+    183.26
+   ],
+   [
+    "hunt",
+    183.54
+   ],
+   [
+    "gave",
+    183.82
+   ],
+   [
+    "us",
+    184.09
+   ],
+   [
+    "the",
+    184.23
+   ],
+   [
+    "teddy",
+    184.44
+   ],
+   [
+    "bear",
+    184.79
+   ]
+  ]
+ }
+]
