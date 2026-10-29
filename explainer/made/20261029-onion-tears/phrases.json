@@ -1,0 +1,735 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.57,
+  "text": "Onions fire tear gas at your eyes,",
+  "words": [
+   [
+    "onions",
+    0.25
+   ],
+   [
+    "fire",
+    0.77
+   ],
+   [
+    "tear",
+    1.11
+   ],
+   [
+    "gas",
+    1.45
+   ],
+   [
+    "at",
+    1.71
+   ],
+   [
+    "your",
+    1.88
+   ],
+   [
+    "eyes",
+    2.23
+   ]
+  ]
+ },
+ {
+  "s": 2.87,
+  "e": 4.86,
+  "text": "30 seconds after you cut them.",
+  "words": [
+   [
+    "30",
+    2.87
+   ],
+   [
+    "seconds",
+    3.04
+   ],
+   [
+    "after",
+    3.62
+   ],
+   [
+    "you",
+    4.03
+   ],
+   [
+    "cut",
+    4.28
+   ],
+   [
+    "them",
+    4.53
+   ]
+  ]
+ },
+ {
+  "s": 5.41,
+  "e": 5.96,
+  "text": "How?",
+  "words": [
+   [
+    "how",
+    5.41
+   ]
+  ]
+ },
+ {
+  "s": 6.51,
+  "e": 8.15,
+  "text": "Inside every onion cell,",
+  "words": [
+   [
+    "inside",
+    6.51
+   ],
+   [
+    "every",
+    7.0
+   ],
+   [
+    "onion",
+    7.41
+   ],
+   [
+    "cell",
+    7.82
+   ]
+  ]
+ },
+ {
+  "s": 8.45,
+  "e": 10.19,
+  "text": "two chemicals are kept apart,",
+  "words": [
+   [
+    "two",
+    8.45
+   ],
+   [
+    "chemicals",
+    8.67
+   ],
+   [
+    "are",
+    9.32
+   ],
+   [
+    "kept",
+    9.54
+   ],
+   [
+    "apart",
+    9.83
+   ]
+  ]
+ },
+ {
+  "s": 10.49,
+  "e": 11.92,
+  "text": "in separate little rooms.",
+  "words": [
+   [
+    "in",
+    10.49
+   ],
+   [
+    "separate",
+    10.63
+   ],
+   [
+    "little",
+    11.17
+   ],
+   [
+    "rooms",
+    11.58
+   ]
+  ]
+ },
+ {
+  "s": 12.47,
+  "e": 14.3,
+  "text": "One is a sulfur molecule.",
+  "words": [
+   [
+    "one",
+    12.47
+   ],
+   [
+    "is",
+    12.75
+   ],
+   [
+    "a",
+    12.93
+   ],
+   [
+    "sulfur",
+    13.02
+   ],
+   [
+    "molecule",
+    13.57
+   ]
+  ]
+ },
+ {
+  "s": 14.85,
+  "e": 16.29,
+  "text": "The other is an enzyme.",
+  "words": [
+   [
+    "the",
+    14.85
+   ],
+   [
+    "other",
+    15.09
+   ],
+   [
+    "is",
+    15.49
+   ],
+   [
+    "an",
+    15.65
+   ],
+   [
+    "enzyme",
+    15.81
+   ]
+  ]
+ },
+ {
+  "s": 16.84,
+  "e": 18.58,
+  "text": "Your knife smashes the walls,",
+  "words": [
+   [
+    "your",
+    16.84
+   ],
+   [
+    "knife",
+    17.13
+   ],
+   [
+    "smashes",
+    17.49
+   ],
+   [
+    "the",
+    18.0
+   ],
+   [
+    "walls",
+    18.22
+   ]
+  ]
+ },
+ {
+  "s": 18.88,
+  "e": 20.22,
+  "text": "and they finally mix.",
+  "words": [
+   [
+    "and",
+    18.88
+   ],
+   [
+    "they",
+    19.12
+   ],
+   [
+    "finally",
+    19.43
+   ],
+   [
+    "mix",
+    19.99
+   ]
+  ]
+ },
+ {
+  "s": 20.77,
+  "e": 23.3,
+  "text": "The enzyme turns the sulfur into an acid,",
+  "words": [
+   [
+    "the",
+    20.77
+   ],
+   [
+    "enzyme",
+    21.0
+   ],
+   [
+    "turns",
+    21.46
+   ],
+   [
+    "the",
+    21.84
+   ],
+   [
+    "sulfur",
+    22.07
+   ],
+   [
+    "into",
+    22.53
+   ],
+   [
+    "an",
+    22.84
+   ],
+   [
+    "acid",
+    22.99
+   ]
+  ]
+ },
+ {
+  "s": 23.6,
+  "e": 24.92,
+  "text": "then a second enzyme,",
+  "words": [
+   [
+    "then",
+    23.6
+   ],
+   [
+    "a",
+    23.91
+   ],
+   [
+    "second",
+    23.99
+   ],
+   [
+    "enzyme",
+    24.46
+   ]
+  ]
+ },
+ {
+  "s": 25.22,
+  "e": 27.34,
+  "text": "only discovered in 2002,",
+  "words": [
+   [
+    "only",
+    25.22
+   ],
+   [
+    "discovered",
+    25.65
+   ],
+   [
+    "in",
+    26.7
+   ],
+   [
+    "2002",
+    26.92
+   ]
+  ]
+ },
+ {
+  "s": 27.64,
+  "e": 29.46,
+  "text": "flips that acid into a gas.",
+  "words": [
+   [
+    "flips",
+    27.64
+   ],
+   [
+    "that",
+    28.07
+   ],
+   [
+    "acid",
+    28.42
+   ],
+   [
+    "into",
+    28.77
+   ],
+   [
+    "a",
+    29.12
+   ],
+   [
+    "gas",
+    29.2
+   ]
+  ]
+ },
+ {
+  "s": 30.01,
+  "e": 30.91,
+  "text": "It drifts up,",
+  "words": [
+   [
+    "it",
+    30.01
+   ],
+   [
+    "drifts",
+    30.19
+   ],
+   [
+    "up",
+    30.73
+   ]
+  ]
+ },
+ {
+  "s": 31.21,
+  "e": 33.56,
+  "text": "and peaks about 30 seconds after the cut.",
+  "words": [
+   [
+    "and",
+    31.21
+   ],
+   [
+    "peaks",
+    31.43
+   ],
+   [
+    "about",
+    31.78
+   ],
+   [
+    "30",
+    32.14
+   ],
+   [
+    "seconds",
+    32.28
+   ],
+   [
+    "after",
+    32.78
+   ],
+   [
+    "the",
+    33.14
+   ],
+   [
+    "cut",
+    33.35
+   ]
+  ]
+ },
+ {
+  "s": 34.11,
+  "e": 35.41,
+  "text": "When it hits your eyes,",
+  "words": [
+   [
+    "when",
+    34.11
+   ],
+   [
+    "it",
+    34.4
+   ],
+   [
+    "hits",
+    34.54
+   ],
+   [
+    "your",
+    34.83
+   ],
+   [
+    "eyes",
+    35.12
+   ]
+  ]
+ },
+ {
+  "s": 35.71,
+  "e": 37.26,
+  "text": "tiny nerves shout \"burning!\"",
+  "words": [
+   [
+    "tiny",
+    35.71
+   ],
+   [
+    "nerves",
+    35.99
+   ],
+   [
+    "shout",
+    36.41
+   ],
+   [
+    "burning",
+    36.77
+   ]
+  ]
+ },
+ {
+  "s": 37.56,
+  "e": 39.52,
+  "text": "So your tear glands flood your eyes,",
+  "words": [
+   [
+    "so",
+    37.56
+   ],
+   [
+    "your",
+    37.7
+   ],
+   [
+    "tear",
+    37.97
+   ],
+   [
+    "glands",
+    38.24
+   ],
+   [
+    "flood",
+    38.65
+   ],
+   [
+    "your",
+    38.98
+   ],
+   [
+    "eyes",
+    39.25
+   ]
+  ]
+ },
+ {
+  "s": 39.82,
+  "e": 40.91,
+  "text": "to wash it away.",
+  "words": [
+   [
+    "to",
+    39.82
+   ],
+   [
+    "wash",
+    40.0
+   ],
+   [
+    "it",
+    40.37
+   ],
+   [
+    "away",
+    40.55
+   ]
+  ]
+ },
+ {
+  "s": 41.46,
+  "e": 42.28,
+  "text": "Why bother?",
+  "words": [
+   [
+    "why",
+    41.46
+   ],
+   [
+    "bother",
+    41.73
+   ]
+  ]
+ },
+ {
+  "s": 42.83,
+  "e": 43.63,
+  "text": "It's armor.",
+  "words": [
+   [
+    "its",
+    42.83
+   ],
+   [
+    "armor",
+    43.13
+   ]
+  ]
+ },
+ {
+  "s": 44.18,
+  "e": 46.02,
+  "text": "Any animal that bites an onion,",
+  "words": [
+   [
+    "any",
+    44.18
+   ],
+   [
+    "animal",
+    44.4
+   ],
+   [
+    "that",
+    44.85
+   ],
+   [
+    "bites",
+    45.14
+   ],
+   [
+    "an",
+    45.51
+   ],
+   [
+    "onion",
+    45.66
+   ]
+  ]
+ },
+ {
+  "s": 46.32,
+  "e": 47.85,
+  "text": "gets a face full of sting.",
+  "words": [
+   [
+    "gets",
+    46.32
+   ],
+   [
+    "a",
+    46.63
+   ],
+   [
+    "face",
+    46.71
+   ],
+   [
+    "full",
+    47.01
+   ],
+   [
+    "of",
+    47.32
+   ],
+   [
+    "sting",
+    47.47
+   ]
+  ]
+ },
+ {
+  "s": 48.4,
+  "e": 49.54,
+  "text": "Want fewer tears?",
+  "words": [
+   [
+    "want",
+    48.4
+   ],
+   [
+    "fewer",
+    48.73
+   ],
+   [
+    "tears",
+    49.14
+   ]
+  ]
+ },
+ {
+  "s": 50.09,
+  "e": 51.8,
+  "text": "Cut it under running water.",
+  "words": [
+   [
+    "cut",
+    50.09
+   ],
+   [
+    "it",
+    50.33
+   ],
+   [
+    "under",
+    50.48
+   ],
+   [
+    "running",
+    50.87
+   ],
+   [
+    "water",
+    51.41
+   ]
+  ]
+ },
+ {
+  "s": 52.35,
+  "e": 55.72,
+  "text": "So, would you still eat a plant that fights back with tear gas?",
+  "words": [
+   [
+    "so",
+    52.35
+   ],
+   [
+    "would",
+    52.49
+   ],
+   [
+    "you",
+    52.83
+   ],
+   [
+    "still",
+    53.04
+   ],
+   [
+    "eat",
+    53.38
+   ],
+   [
+    "a",
+    53.59
+   ],
+   [
+    "plant",
+    53.66
+   ],
+   [
+    "that",
+    54.0
+   ],
+   [
+    "fights",
+    54.27
+   ],
+   [
+    "back",
+    54.69
+   ],
+   [
+    "with",
+    54.96
+   ],
+   [
+    "tear",
+    55.24
+   ],
+   [
+    "gas",
+    55.51
+   ]
+  ]
+ }
+]
