@@ -1,0 +1,745 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.9,
+  "text": "Spider glue almost never lets a fly go.",
+  "words": [
+   [
+    "spider",
+    0.25
+   ],
+   [
+    "glue",
+    0.76
+   ],
+   [
+    "almost",
+    1.11
+   ],
+   [
+    "never",
+    1.62
+   ],
+   [
+    "lets",
+    2.05
+   ],
+   [
+    "a",
+    2.39
+   ],
+   [
+    "fly",
+    2.47
+   ],
+   [
+    "go",
+    2.73
+   ]
+  ]
+ },
+ {
+  "s": 3.45,
+  "e": 5.76,
+  "text": "So why do you never see the spider stuck?",
+  "words": [
+   [
+    "so",
+    3.45
+   ],
+   [
+    "why",
+    3.6
+   ],
+   [
+    "do",
+    3.81
+   ],
+   [
+    "you",
+    3.96
+   ],
+   [
+    "never",
+    4.17
+   ],
+   [
+    "see",
+    4.54
+   ],
+   [
+    "the",
+    4.75
+   ],
+   [
+    "spider",
+    4.97
+   ],
+   [
+    "stuck",
+    5.4
+   ]
+  ]
+ },
+ {
+  "s": 6.31,
+  "e": 9.05,
+  "text": "Secret one: most of the web isn't sticky.",
+  "words": [
+   [
+    "secret",
+    6.31
+   ],
+   [
+    "one",
+    6.84
+   ],
+   [
+    "most",
+    7.11
+   ],
+   [
+    "of",
+    7.46
+   ],
+   [
+    "the",
+    7.64
+   ],
+   [
+    "web",
+    7.9
+   ],
+   [
+    "isnt",
+    8.17
+   ],
+   [
+    "sticky",
+    8.52
+   ]
+  ]
+ },
+ {
+  "s": 9.6,
+  "e": 11.1,
+  "text": "The spokes are dry silk.",
+  "words": [
+   [
+    "the",
+    9.6
+   ],
+   [
+    "spokes",
+    9.84
+   ],
+   [
+    "are",
+    10.31
+   ],
+   [
+    "dry",
+    10.55
+   ],
+   [
+    "silk",
+    10.79
+   ]
+  ]
+ },
+ {
+  "s": 11.65,
+  "e": 13.77,
+  "text": "Only the spiral has beads of glue,",
+  "words": [
+   [
+    "only",
+    11.65
+   ],
+   [
+    "the",
+    11.97
+   ],
+   [
+    "spiral",
+    12.2
+   ],
+   [
+    "has",
+    12.67
+   ],
+   [
+    "beads",
+    12.91
+   ],
+   [
+    "of",
+    13.3
+   ],
+   [
+    "glue",
+    13.46
+   ]
+  ]
+ },
+ {
+  "s": 14.07,
+  "e": 15.81,
+  "text": "so the spider walks the spokes.",
+  "words": [
+   [
+    "so",
+    14.07
+   ],
+   [
+    "the",
+    14.21
+   ],
+   [
+    "spider",
+    14.42
+   ],
+   [
+    "walks",
+    14.84
+   ],
+   [
+    "the",
+    15.19
+   ],
+   [
+    "spokes",
+    15.4
+   ]
+  ]
+ },
+ {
+  "s": 16.36,
+  "e": 17.79,
+  "text": "Secret two: its feet.",
+  "words": [
+   [
+    "secret",
+    16.36
+   ],
+   [
+    "two",
+    16.9
+   ],
+   [
+    "its",
+    17.17
+   ],
+   [
+    "feet",
+    17.44
+   ]
+  ]
+ },
+ {
+  "s": 18.34,
+  "e": 20.46,
+  "text": "Web spiders have three claws per foot.",
+  "words": [
+   [
+    "web",
+    18.34
+   ],
+   [
+    "spiders",
+    18.55
+   ],
+   [
+    "have",
+    19.03
+   ],
+   [
+    "three",
+    19.3
+   ],
+   [
+    "claws",
+    19.64
+   ],
+   [
+    "per",
+    19.98
+   ],
+   [
+    "foot",
+    20.18
+   ]
+  ]
+ },
+ {
+  "s": 21.01,
+  "e": 22.18,
+  "text": "Insects get two.",
+  "words": [
+   [
+    "insects",
+    21.01
+   ],
+   [
+    "get",
+    21.64
+   ],
+   [
+    "two",
+    21.91
+   ]
+  ]
+ },
+ {
+  "s": 22.73,
+  "e": 24.85,
+  "text": "The extra claw hooks a single thread,",
+  "words": [
+   [
+    "the",
+    22.73
+   ],
+   [
+    "extra",
+    22.95
+   ],
+   [
+    "claw",
+    23.3
+   ],
+   [
+    "hooks",
+    23.58
+   ],
+   [
+    "a",
+    23.93
+   ],
+   [
+    "single",
+    24.0
+   ],
+   [
+    "thread",
+    24.43
+   ]
+  ]
+ },
+ {
+  "s": 25.15,
+  "e": 26.39,
+  "text": "like a tiny hand.",
+  "words": [
+   [
+    "like",
+    25.15
+   ],
+   [
+    "a",
+    25.53
+   ],
+   [
+    "tiny",
+    25.63
+   ],
+   [
+    "hand",
+    26.01
+   ]
+  ]
+ },
+ {
+  "s": 26.94,
+  "e": 28.48,
+  "text": "But here's the wild part.",
+  "words": [
+   [
+    "but",
+    26.94
+   ],
+   [
+    "heres",
+    27.19
+   ],
+   [
+    "the",
+    27.59
+   ],
+   [
+    "wild",
+    27.83
+   ],
+   [
+    "part",
+    28.16
+   ]
+  ]
+ },
+ {
+  "s": 29.03,
+  "e": 30.16,
+  "text": "Building one web,",
+  "words": [
+   [
+    "building",
+    29.03
+   ],
+   [
+    "one",
+    29.67
+   ],
+   [
+    "web",
+    29.92
+   ]
+  ]
+ },
+ {
+  "s": 30.46,
+  "e": 32.19,
+  "text": "a spider touches its own glue",
+  "words": [
+   [
+    "a",
+    30.46
+   ],
+   [
+    "spider",
+    30.53
+   ],
+   [
+    "touches",
+    30.96
+   ],
+   [
+    "its",
+    31.47
+   ],
+   [
+    "own",
+    31.69
+   ],
+   [
+    "glue",
+    31.9
+   ]
+  ]
+ },
+ {
+  "s": 32.49,
+  "e": 33.75,
+  "text": "hundreds of times.",
+  "words": [
+   [
+    "hundreds",
+    32.49
+   ],
+   [
+    "of",
+    33.16
+   ],
+   [
+    "times",
+    33.33
+   ]
+  ]
+ },
+ {
+  "s": 34.3,
+  "e": 36.51,
+  "text": "Its legs are covered in branched hairs,",
+  "words": [
+   [
+    "its",
+    34.3
+   ],
+   [
+    "legs",
+    34.51
+   ],
+   [
+    "are",
+    34.78
+   ],
+   [
+    "covered",
+    34.99
+   ],
+   [
+    "in",
+    35.47
+   ],
+   [
+    "branched",
+    35.61
+   ],
+   [
+    "hairs",
+    36.16
+   ]
+  ]
+ },
+ {
+  "s": 36.81,
+  "e": 38.47,
+  "text": "so the glue slides along them",
+  "words": [
+   [
+    "so",
+    36.81
+   ],
+   [
+    "the",
+    36.95
+   ],
+   [
+    "glue",
+    37.16
+   ],
+   [
+    "slides",
+    37.43
+   ],
+   [
+    "along",
+    37.85
+   ],
+   [
+    "them",
+    38.19
+   ]
+  ]
+ },
+ {
+  "s": 38.77,
+  "e": 39.7,
+  "text": "and drips off.",
+  "words": [
+   [
+    "and",
+    38.77
+   ],
+   [
+    "drips",
+    39.02
+   ],
+   [
+    "off",
+    39.45
+   ]
+  ]
+ },
+ {
+  "s": 40.25,
+  "e": 42.16,
+  "text": "Scientists washed spider legs,",
+  "words": [
+   [
+    "scientists",
+    40.25
+   ],
+   [
+    "washed",
+    40.99
+   ],
+   [
+    "spider",
+    41.43
+   ],
+   [
+    "legs",
+    41.87
+   ]
+  ]
+ },
+ {
+  "s": 42.46,
+  "e": 43.51,
+  "text": "and they stuck more.",
+  "words": [
+   [
+    "and",
+    42.46
+   ],
+   [
+    "they",
+    42.66
+   ],
+   [
+    "stuck",
+    42.92
+   ],
+   [
+    "more",
+    43.25
+   ]
+  ]
+ },
+ {
+  "s": 44.06,
+  "e": 45.99,
+  "text": "So there's a non-stick coating, too.",
+  "words": [
+   [
+    "so",
+    44.06
+   ],
+   [
+    "theres",
+    44.21
+   ],
+   [
+    "a",
+    44.63
+   ],
+   [
+    "nonstick",
+    44.7
+   ],
+   [
+    "coating",
+    45.27
+   ],
+   [
+    "too",
+    45.77
+   ]
+  ]
+ },
+ {
+  "s": 46.54,
+  "e": 48.64,
+  "text": "A fly hits lots of glue at once.",
+  "words": [
+   [
+    "a",
+    46.54
+   ],
+   [
+    "fly",
+    46.62
+   ],
+   [
+    "hits",
+    46.89
+   ],
+   [
+    "lots",
+    47.24
+   ],
+   [
+    "of",
+    47.59
+   ],
+   [
+    "glue",
+    47.76
+   ],
+   [
+    "at",
+    48.11
+   ],
+   [
+    "once",
+    48.29
+   ]
+  ]
+ },
+ {
+  "s": 49.19,
+  "e": 51.27,
+  "text": "The spider barely touches a drop.",
+  "words": [
+   [
+    "the",
+    49.19
+   ],
+   [
+    "spider",
+    49.42
+   ],
+   [
+    "barely",
+    49.88
+   ],
+   [
+    "touches",
+    50.34
+   ],
+   [
+    "a",
+    50.88
+   ],
+   [
+    "drop",
+    50.96
+   ]
+  ]
+ },
+ {
+  "s": 51.82,
+  "e": 53.38,
+  "text": "So which trick would you steal:",
+  "words": [
+   [
+    "so",
+    51.82
+   ],
+   [
+    "which",
+    51.94
+   ],
+   [
+    "trick",
+    52.25
+   ],
+   [
+    "would",
+    52.57
+   ],
+   [
+    "you",
+    52.88
+   ],
+   [
+    "steal",
+    53.06
+   ]
+  ]
+ },
+ {
+  "s": 53.68,
+  "e": 55.67,
+  "text": "the claws, the hairs, or the coating?",
+  "words": [
+   [
+    "the",
+    53.68
+   ],
+   [
+    "claws",
+    53.89
+   ],
+   [
+    "the",
+    54.25
+   ],
+   [
+    "hairs",
+    54.46
+   ],
+   [
+    "or",
+    54.81
+   ],
+   [
+    "the",
+    54.96
+   ],
+   [
+    "coating",
+    55.17
+   ]
+  ]
+ }
+]
