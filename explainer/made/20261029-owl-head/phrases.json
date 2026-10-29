@@ -1,0 +1,686 @@
+[
+ {
+  "s": 0.25,
+  "e": 1.23,
+  "text": "You'd black out,",
+  "words": [
+   [
+    "youd",
+    0.25
+   ],
+   [
+    "black",
+    0.58
+   ],
+   [
+    "out",
+    0.98
+   ]
+  ]
+ },
+ {
+  "s": 1.53,
+  "e": 4.62,
+  "text": "but owls spin their heads 270 degrees.",
+  "words": [
+   [
+    "but",
+    1.53
+   ],
+   [
+    "owls",
+    1.83
+   ],
+   [
+    "spin",
+    2.23
+   ],
+   [
+    "their",
+    2.63
+   ],
+   [
+    "heads",
+    3.13
+   ],
+   [
+    "270",
+    3.62
+   ],
+   [
+    "degrees",
+    3.92
+   ]
+  ]
+ },
+ {
+  "s": 5.17,
+  "e": 5.72,
+  "text": "How?",
+  "words": [
+   [
+    "how",
+    5.17
+   ]
+  ]
+ },
+ {
+  "s": 6.27,
+  "e": 8.28,
+  "text": "First, an owl's eyes can't move.",
+  "words": [
+   [
+    "first",
+    6.27
+   ],
+   [
+    "an",
+    6.71
+   ],
+   [
+    "owls",
+    6.88
+   ],
+   [
+    "eyes",
+    7.23
+   ],
+   [
+    "cant",
+    7.58
+   ],
+   [
+    "move",
+    7.93
+   ]
+  ]
+ },
+ {
+  "s": 8.83,
+  "e": 10.24,
+  "text": "They're shaped like tubes,",
+  "words": [
+   [
+    "theyre",
+    8.83
+   ],
+   [
+    "shaped",
+    9.23
+   ],
+   [
+    "like",
+    9.64
+   ],
+   [
+    "tubes",
+    9.91
+   ]
+  ]
+ },
+ {
+  "s": 10.54,
+  "e": 11.95,
+  "text": "locked inside the skull.",
+  "words": [
+   [
+    "locked",
+    10.54
+   ],
+   [
+    "inside",
+    10.96
+   ],
+   [
+    "the",
+    11.38
+   ],
+   [
+    "skull",
+    11.6
+   ]
+  ]
+ },
+ {
+  "s": 12.5,
+  "e": 13.59,
+  "text": "So to look around,",
+  "words": [
+   [
+    "so",
+    12.5
+   ],
+   [
+    "to",
+    12.65
+   ],
+   [
+    "look",
+    12.81
+   ],
+   [
+    "around",
+    13.12
+   ]
+  ]
+ },
+ {
+  "s": 13.89,
+  "e": 15.44,
+  "text": "the whole head has to turn.",
+  "words": [
+   [
+    "the",
+    13.89
+   ],
+   [
+    "whole",
+    14.11
+   ],
+   [
+    "head",
+    14.48
+   ],
+   [
+    "has",
+    14.78
+   ],
+   [
+    "to",
+    15.0
+   ],
+   [
+    "turn",
+    15.15
+   ]
+  ]
+ },
+ {
+  "s": 15.99,
+  "e": 17.46,
+  "text": "Second, extra bones.",
+  "words": [
+   [
+    "second",
+    15.99
+   ],
+   [
+    "extra",
+    16.54
+   ],
+   [
+    "bones",
+    17.0
+   ]
+  ]
+ },
+ {
+  "s": 18.01,
+  "e": 19.56,
+  "text": "You have seven neck bones.",
+  "words": [
+   [
+    "you",
+    18.01
+   ],
+   [
+    "have",
+    18.23
+   ],
+   [
+    "seven",
+    18.52
+   ],
+   [
+    "neck",
+    18.89
+   ],
+   [
+    "bones",
+    19.19
+   ]
+  ]
+ },
+ {
+  "s": 20.11,
+  "e": 21.39,
+  "text": "An owl has fourteen,",
+  "words": [
+   [
+    "an",
+    20.11
+   ],
+   [
+    "owl",
+    20.27
+   ],
+   [
+    "has",
+    20.51
+   ],
+   [
+    "fourteen",
+    20.75
+   ]
+  ]
+ },
+ {
+  "s": 21.69,
+  "e": 23.14,
+  "text": "so the twist is shared out,",
+  "words": [
+   [
+    "so",
+    21.69
+   ],
+   [
+    "the",
+    21.83
+   ],
+   [
+    "twist",
+    22.04
+   ],
+   [
+    "is",
+    22.38
+   ],
+   [
+    "shared",
+    22.52
+   ],
+   [
+    "out",
+    22.94
+   ]
+  ]
+ },
+ {
+  "s": 23.44,
+  "e": 24.86,
+  "text": "a little at every joint.",
+  "words": [
+   [
+    "a",
+    23.44
+   ],
+   [
+    "little",
+    23.52
+   ],
+   [
+    "at",
+    23.97
+   ],
+   [
+    "every",
+    24.12
+   ],
+   [
+    "joint",
+    24.49
+   ]
+  ]
+ },
+ {
+  "s": 25.41,
+  "e": 27.29,
+  "text": "Third, the clever part: blood.",
+  "words": [
+   [
+    "third",
+    25.41
+   ],
+   [
+    "the",
+    25.82
+   ],
+   [
+    "clever",
+    26.06
+   ],
+   [
+    "part",
+    26.55
+   ],
+   [
+    "blood",
+    26.88
+   ]
+  ]
+ },
+ {
+  "s": 27.84,
+  "e": 29.7,
+  "text": "Twisting would pinch the arteries,",
+  "words": [
+   [
+    "twisting",
+    27.84
+   ],
+   [
+    "would",
+    28.35
+   ],
+   [
+    "pinch",
+    28.67
+   ],
+   [
+    "the",
+    28.99
+   ],
+   [
+    "arteries",
+    29.18
+   ]
+  ]
+ },
+ {
+  "s": 30.0,
+  "e": 32.23,
+  "text": "but an owl's run through bony tunnels,",
+  "words": [
+   [
+    "but",
+    30.0
+   ],
+   [
+    "an",
+    30.22
+   ],
+   [
+    "owls",
+    30.37
+   ],
+   [
+    "run",
+    30.67
+   ],
+   [
+    "through",
+    30.89
+   ],
+   [
+    "bony",
+    31.41
+   ],
+   [
+    "tunnels",
+    31.71
+   ]
+  ]
+ },
+ {
+  "s": 32.53,
+  "e": 34.75,
+  "text": "up to ten times wider than the vessel,",
+  "words": [
+   [
+    "up",
+    32.53
+   ],
+   [
+    "to",
+    32.67
+   ],
+   [
+    "ten",
+    32.82
+   ],
+   [
+    "times",
+    33.05
+   ],
+   [
+    "wider",
+    33.42
+   ],
+   [
+    "than",
+    33.79
+   ],
+   [
+    "the",
+    34.09
+   ],
+   [
+    "vessel",
+    34.31
+   ]
+  ]
+ },
+ {
+  "s": 35.05,
+  "e": 36.47,
+  "text": "so they don't get squeezed.",
+  "words": [
+   [
+    "so",
+    35.05
+   ],
+   [
+    "they",
+    35.19
+   ],
+   [
+    "dont",
+    35.46
+   ],
+   [
+    "get",
+    35.73
+   ],
+   [
+    "squeezed",
+    35.93
+   ]
+  ]
+ },
+ {
+  "s": 37.02,
+  "e": 38.41,
+  "text": "And at the base of the head,",
+  "words": [
+   [
+    "and",
+    37.02
+   ],
+   [
+    "at",
+    37.22
+   ],
+   [
+    "the",
+    37.35
+   ],
+   [
+    "base",
+    37.55
+   ],
+   [
+    "of",
+    37.81
+   ],
+   [
+    "the",
+    37.95
+   ],
+   [
+    "head",
+    38.15
+   ]
+  ]
+ },
+ {
+  "s": 38.71,
+  "e": 40.86,
+  "text": "the vessels balloon into little pools,",
+  "words": [
+   [
+    "the",
+    38.71
+   ],
+   [
+    "vessels",
+    38.91
+   ],
+   [
+    "balloon",
+    39.38
+   ],
+   [
+    "into",
+    39.85
+   ],
+   [
+    "little",
+    40.12
+   ],
+   [
+    "pools",
+    40.52
+   ]
+  ]
+ },
+ {
+  "s": 41.16,
+  "e": 43.11,
+  "text": "storing extra blood for the brain,",
+  "words": [
+   [
+    "storing",
+    41.16
+   ],
+   [
+    "extra",
+    41.65
+   ],
+   [
+    "blood",
+    41.99
+   ],
+   [
+    "for",
+    42.34
+   ],
+   [
+    "the",
+    42.55
+   ],
+   [
+    "brain",
+    42.76
+   ]
+  ]
+ },
+ {
+  "s": 43.41,
+  "e": 44.68,
+  "text": "while the head is turned.",
+  "words": [
+   [
+    "while",
+    43.41
+   ],
+   [
+    "the",
+    43.73
+   ],
+   [
+    "head",
+    43.92
+   ],
+   [
+    "is",
+    44.17
+   ],
+   [
+    "turned",
+    44.3
+   ]
+  ]
+ },
+ {
+  "s": 45.23,
+  "e": 46.88,
+  "text": "So, if you had an owl's neck,",
+  "words": [
+   [
+    "so",
+    45.23
+   ],
+   [
+    "if",
+    45.39
+   ],
+   [
+    "you",
+    45.56
+   ],
+   [
+    "had",
+    45.8
+   ],
+   [
+    "an",
+    46.05
+   ],
+   [
+    "owls",
+    46.22
+   ],
+   [
+    "neck",
+    46.55
+   ]
+  ]
+ },
+ {
+  "s": 47.18,
+  "e": 49.43,
+  "text": "what's the first thing you'd turn around to look at?",
+  "words": [
+   [
+    "whats",
+    47.18
+   ],
+   [
+    "the",
+    47.46
+   ],
+   [
+    "first",
+    47.63
+   ],
+   [
+    "thing",
+    47.91
+   ],
+   [
+    "youd",
+    48.19
+   ],
+   [
+    "turn",
+    48.41
+   ],
+   [
+    "around",
+    48.64
+   ],
+   [
+    "to",
+    48.98
+   ],
+   [
+    "look",
+    49.09
+   ],
+   [
+    "at",
+    49.31
+   ]
+  ]
+ }
+]
