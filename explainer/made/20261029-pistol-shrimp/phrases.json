@@ -1,0 +1,703 @@
+[
+ {
+  "s": 0.25,
+  "e": 1.93,
+  "text": "A shrimp smaller than your finger,",
+  "words": [
+   [
+    "a",
+    0.25
+   ],
+   [
+    "shrimp",
+    0.31
+   ],
+   [
+    "smaller",
+    0.67
+   ],
+   [
+    "than",
+    1.09
+   ],
+   [
+    "your",
+    1.33
+   ],
+   [
+    "finger",
+    1.57
+   ]
+  ]
+ },
+ {
+  "s": 2.23,
+  "e": 4.84,
+  "text": "fires a bubble almost as hot as the Sun.",
+  "words": [
+   [
+    "fires",
+    2.23
+   ],
+   [
+    "a",
+    2.65
+   ],
+   [
+    "bubble",
+    2.74
+   ],
+   [
+    "almost",
+    3.24
+   ],
+   [
+    "as",
+    3.75
+   ],
+   [
+    "hot",
+    3.92
+   ],
+   [
+    "as",
+    4.17
+   ],
+   [
+    "the",
+    4.34
+   ],
+   [
+    "sun",
+    4.59
+   ]
+  ]
+ },
+ {
+  "s": 5.39,
+  "e": 6.14,
+  "text": "But how?",
+  "words": [
+   [
+    "but",
+    5.39
+   ],
+   [
+    "how",
+    5.76
+   ]
+  ]
+ },
+ {
+  "s": 6.69,
+  "e": 8.04,
+  "text": "Meet the pistol shrimp.",
+  "words": [
+   [
+    "meet",
+    6.69
+   ],
+   [
+    "the",
+    6.97
+   ],
+   [
+    "pistol",
+    7.19
+   ],
+   [
+    "shrimp",
+    7.61
+   ]
+  ]
+ },
+ {
+  "s": 8.59,
+  "e": 9.89,
+  "text": "One claw is huge,",
+  "words": [
+   [
+    "one",
+    8.59
+   ],
+   [
+    "claw",
+    8.89
+   ],
+   [
+    "is",
+    9.29
+   ],
+   [
+    "huge",
+    9.49
+   ]
+  ]
+ },
+ {
+  "s": 10.19,
+  "e": 12.27,
+  "text": "and it cocks open like a gun's hammer.",
+  "words": [
+   [
+    "and",
+    10.19
+   ],
+   [
+    "it",
+    10.4
+   ],
+   [
+    "cocks",
+    10.55
+   ],
+   [
+    "open",
+    10.91
+   ],
+   [
+    "like",
+    11.2
+   ],
+   [
+    "a",
+    11.48
+   ],
+   [
+    "guns",
+    11.55
+   ],
+   [
+    "hammer",
+    11.84
+   ]
+  ]
+ },
+ {
+  "s": 12.82,
+  "e": 13.91,
+  "text": "When it snaps shut,",
+  "words": [
+   [
+    "when",
+    12.82
+   ],
+   [
+    "it",
+    13.11
+   ],
+   [
+    "snaps",
+    13.26
+   ],
+   [
+    "shut",
+    13.62
+   ]
+  ]
+ },
+ {
+  "s": 14.21,
+  "e": 15.93,
+  "text": "a plug slams into a socket,",
+  "words": [
+   [
+    "a",
+    14.21
+   ],
+   [
+    "plug",
+    14.29
+   ],
+   [
+    "slams",
+    14.62
+   ],
+   [
+    "into",
+    15.03
+   ],
+   [
+    "a",
+    15.36
+   ],
+   [
+    "socket",
+    15.44
+   ]
+  ]
+ },
+ {
+  "s": 16.23,
+  "e": 17.86,
+  "text": "and fires a jet of water,",
+  "words": [
+   [
+    "and",
+    16.23
+   ],
+   [
+    "fires",
+    16.49
+   ],
+   [
+    "a",
+    16.91
+   ],
+   [
+    "jet",
+    17.0
+   ],
+   [
+    "of",
+    17.26
+   ],
+   [
+    "water",
+    17.43
+   ]
+  ]
+ },
+ {
+  "s": 18.16,
+  "e": 20.16,
+  "text": "at about ninety kilometres an hour.",
+  "words": [
+   [
+    "at",
+    18.16
+   ],
+   [
+    "about",
+    18.29
+   ],
+   [
+    "ninety",
+    18.64
+   ],
+   [
+    "kilometres",
+    19.06
+   ],
+   [
+    "an",
+    19.75
+   ],
+   [
+    "hour",
+    19.89
+   ]
+  ]
+ },
+ {
+  "s": 20.71,
+  "e": 22.17,
+  "text": "That jet is so fast,",
+  "words": [
+   [
+    "that",
+    20.71
+   ],
+   [
+    "jet",
+    21.1
+   ],
+   [
+    "is",
+    21.39
+   ],
+   [
+    "so",
+    21.59
+   ],
+   [
+    "fast",
+    21.78
+   ]
+  ]
+ },
+ {
+  "s": 22.47,
+  "e": 24.35,
+  "text": "the water behind it rips apart,",
+  "words": [
+   [
+    "the",
+    22.47
+   ],
+   [
+    "water",
+    22.7
+   ],
+   [
+    "behind",
+    23.07
+   ],
+   [
+    "it",
+    23.52
+   ],
+   [
+    "rips",
+    23.67
+   ],
+   [
+    "apart",
+    23.97
+   ]
+  ]
+ },
+ {
+  "s": 24.65,
+  "e": 25.89,
+  "text": "into a tiny bubble.",
+  "words": [
+   [
+    "into",
+    24.65
+   ],
+   [
+    "a",
+    24.98
+   ],
+   [
+    "tiny",
+    25.06
+   ],
+   [
+    "bubble",
+    25.39
+   ]
+  ]
+ },
+ {
+  "s": 26.44,
+  "e": 27.88,
+  "text": "Then the bubble collapses,",
+  "words": [
+   [
+    "then",
+    26.44
+   ],
+   [
+    "the",
+    26.7
+   ],
+   [
+    "bubble",
+    26.9
+   ],
+   [
+    "collapses",
+    27.29
+   ]
+  ]
+ },
+ {
+  "s": 28.18,
+  "e": 30.42,
+  "text": "in less than a thousandth of a second.",
+  "words": [
+   [
+    "in",
+    28.18
+   ],
+   [
+    "less",
+    28.33
+   ],
+   [
+    "than",
+    28.63
+   ],
+   [
+    "a",
+    28.93
+   ],
+   [
+    "thousandth",
+    29.0
+   ],
+   [
+    "of",
+    29.74
+   ],
+   [
+    "a",
+    29.89
+   ],
+   [
+    "second",
+    29.97
+   ]
+  ]
+ },
+ {
+  "s": 30.97,
+  "e": 34.65,
+  "text": "Inside, it hits about four thousand seven hundred degrees,",
+  "words": [
+   [
+    "inside",
+    30.97
+   ],
+   [
+    "it",
+    31.43
+   ],
+   [
+    "hits",
+    31.58
+   ],
+   [
+    "about",
+    31.89
+   ],
+   [
+    "four",
+    32.27
+   ],
+   [
+    "thousand",
+    32.58
+   ],
+   [
+    "seven",
+    33.19
+   ],
+   [
+    "hundred",
+    33.58
+   ],
+   [
+    "degrees",
+    34.11
+   ]
+  ]
+ },
+ {
+  "s": 34.95,
+  "e": 37.05,
+  "text": "nearly as hot as the Sun's surface.",
+  "words": [
+   [
+    "nearly",
+    34.95
+   ],
+   [
+    "as",
+    35.42
+   ],
+   [
+    "hot",
+    35.57
+   ],
+   [
+    "as",
+    35.8
+   ],
+   [
+    "the",
+    35.96
+   ],
+   [
+    "suns",
+    36.19
+   ],
+   [
+    "surface",
+    36.5
+   ]
+  ]
+ },
+ {
+  "s": 37.6,
+  "e": 38.96,
+  "text": "It even flashes light.",
+  "words": [
+   [
+    "it",
+    37.6
+   ],
+   [
+    "even",
+    37.75
+   ],
+   [
+    "flashes",
+    38.05
+   ],
+   [
+    "light",
+    38.58
+   ]
+  ]
+ },
+ {
+  "s": 39.51,
+  "e": 41.06,
+  "text": "And that bang isn't the claw.",
+  "words": [
+   [
+    "and",
+    39.51
+   ],
+   [
+    "that",
+    39.72
+   ],
+   [
+    "bang",
+    40.0
+   ],
+   [
+    "isnt",
+    40.28
+   ],
+   [
+    "the",
+    40.57
+   ],
+   [
+    "claw",
+    40.78
+   ]
+  ]
+ },
+ {
+  "s": 41.61,
+  "e": 42.9,
+  "text": "It's the bubble popping,",
+  "words": [
+   [
+    "its",
+    41.61
+   ],
+   [
+    "the",
+    41.81
+   ],
+   [
+    "bubble",
+    42.02
+   ],
+   [
+    "popping",
+    42.43
+   ]
+  ]
+ },
+ {
+  "s": 43.2,
+  "e": 45.16,
+  "text": "one of the loudest sounds in the ocean,",
+  "words": [
+   [
+    "one",
+    43.2
+   ],
+   [
+    "of",
+    43.39
+   ],
+   [
+    "the",
+    43.52
+   ],
+   [
+    "loudest",
+    43.71
+   ],
+   [
+    "sounds",
+    44.15
+   ],
+   [
+    "in",
+    44.53
+   ],
+   [
+    "the",
+    44.65
+   ],
+   [
+    "ocean",
+    44.84
+   ]
+  ]
+ },
+ {
+  "s": 45.46,
+  "e": 47.41,
+  "text": "loud enough to stun a passing fish.",
+  "words": [
+   [
+    "loud",
+    45.46
+   ],
+   [
+    "enough",
+    45.74
+   ],
+   [
+    "to",
+    46.15
+   ],
+   [
+    "stun",
+    46.29
+   ],
+   [
+    "a",
+    46.57
+   ],
+   [
+    "passing",
+    46.64
+   ],
+   [
+    "fish",
+    47.13
+   ]
+  ]
+ },
+ {
+  "s": 47.96,
+  "e": 50.28,
+  "text": "So what animal could beat this shrimp's snap?",
+  "words": [
+   [
+    "so",
+    47.96
+   ],
+   [
+    "what",
+    48.09
+   ],
+   [
+    "animal",
+    48.34
+   ],
+   [
+    "could",
+    48.73
+   ],
+   [
+    "beat",
+    49.06
+   ],
+   [
+    "this",
+    49.31
+   ],
+   [
+    "shrimps",
+    49.57
+   ],
+   [
+    "snap",
+    50.03
+   ]
+  ]
+ }
+]
