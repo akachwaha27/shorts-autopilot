@@ -1,0 +1,725 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.5,
+  "text": "Your honey was once 80 percent water,",
+  "words": [
+   [
+    "your",
+    0.25
+   ],
+   [
+    "honey",
+    0.55
+   ],
+   [
+    "was",
+    0.92
+   ],
+   [
+    "once",
+    1.15
+   ],
+   [
+    "80",
+    1.45
+   ],
+   [
+    "percent",
+    1.6
+   ],
+   [
+    "water",
+    2.12
+   ]
+  ]
+ },
+ {
+  "s": 2.8,
+  "e": 4.8,
+  "text": "and you'd never guess how bees dried it.",
+  "words": [
+   [
+    "and",
+    2.8
+   ],
+   [
+    "youd",
+    2.99
+   ],
+   [
+    "never",
+    3.25
+   ],
+   [
+    "guess",
+    3.57
+   ],
+   [
+    "how",
+    3.9
+   ],
+   [
+    "bees",
+    4.09
+   ],
+   [
+    "dried",
+    4.35
+   ],
+   [
+    "it",
+    4.68
+   ]
+  ]
+ },
+ {
+  "s": 5.35,
+  "e": 6.63,
+  "text": "It starts with nectar,",
+  "words": [
+   [
+    "it",
+    5.35
+   ],
+   [
+    "starts",
+    5.5
+   ],
+   [
+    "with",
+    5.92
+   ],
+   [
+    "nectar",
+    6.2
+   ]
+  ]
+ },
+ {
+  "s": 6.93,
+  "e": 8.34,
+  "text": "sugary flower juice.",
+  "words": [
+   [
+    "sugary",
+    6.93
+   ],
+   [
+    "flower",
+    7.43
+   ],
+   [
+    "juice",
+    7.92
+   ]
+  ]
+ },
+ {
+  "s": 8.89,
+  "e": 11.02,
+  "text": "A bee sips it into a second stomach,",
+  "words": [
+   [
+    "a",
+    8.89
+   ],
+   [
+    "bee",
+    8.96
+   ],
+   [
+    "sips",
+    9.19
+   ],
+   [
+    "it",
+    9.5
+   ],
+   [
+    "into",
+    9.65
+   ],
+   [
+    "a",
+    9.95
+   ],
+   [
+    "second",
+    10.03
+   ],
+   [
+    "stomach",
+    10.48
+   ]
+  ]
+ },
+ {
+  "s": 11.32,
+  "e": 12.55,
+  "text": "called the honey stomach.",
+  "words": [
+   [
+    "called",
+    11.32
+   ],
+   [
+    "the",
+    11.67
+   ],
+   [
+    "honey",
+    11.84
+   ],
+   [
+    "stomach",
+    12.14
+   ]
+  ]
+ },
+ {
+  "s": 13.1,
+  "e": 14.27,
+  "text": "Enzymes from her spit,",
+  "words": [
+   [
+    "enzymes",
+    13.1
+   ],
+   [
+    "from",
+    13.55
+   ],
+   [
+    "her",
+    13.81
+   ],
+   [
+    "spit",
+    14.01
+   ]
+  ]
+ },
+ {
+  "s": 14.57,
+  "e": 17.07,
+  "text": "start chopping the sugar into smaller sugars.",
+  "words": [
+   [
+    "start",
+    14.57
+   ],
+   [
+    "chopping",
+    14.9
+   ],
+   [
+    "the",
+    15.42
+   ],
+   [
+    "sugar",
+    15.62
+   ],
+   [
+    "into",
+    15.95
+   ],
+   [
+    "smaller",
+    16.21
+   ],
+   [
+    "sugars",
+    16.68
+   ]
+  ]
+ },
+ {
+  "s": 17.62,
+  "e": 18.68,
+  "text": "Back at the hive,",
+  "words": [
+   [
+    "back",
+    17.62
+   ],
+   [
+    "at",
+    17.95
+   ],
+   [
+    "the",
+    18.11
+   ],
+   [
+    "hive",
+    18.36
+   ]
+  ]
+ },
+ {
+  "s": 18.98,
+  "e": 20.61,
+  "text": "she spits it mouth to mouth,",
+  "words": [
+   [
+    "she",
+    18.98
+   ],
+   [
+    "spits",
+    19.21
+   ],
+   [
+    "it",
+    19.58
+   ],
+   [
+    "mouth",
+    19.72
+   ],
+   [
+    "to",
+    20.09
+   ],
+   [
+    "mouth",
+    20.24
+   ]
+  ]
+ },
+ {
+  "s": 20.91,
+  "e": 21.97,
+  "text": "to a house bee,",
+  "words": [
+   [
+    "to",
+    20.91
+   ],
+   [
+    "a",
+    21.1
+   ],
+   [
+    "house",
+    21.2
+   ],
+   [
+    "bee",
+    21.68
+   ]
+  ]
+ },
+ {
+  "s": 22.27,
+  "e": 24.41,
+  "text": "who chews on it for up to 20 minutes.",
+  "words": [
+   [
+    "who",
+    22.27
+   ],
+   [
+    "chews",
+    22.5
+   ],
+   [
+    "on",
+    22.88
+   ],
+   [
+    "it",
+    23.03
+   ],
+   [
+    "for",
+    23.18
+   ],
+   [
+    "up",
+    23.41
+   ],
+   [
+    "to",
+    23.57
+   ],
+   [
+    "20",
+    23.72
+   ],
+   [
+    "minutes",
+    23.87
+   ]
+  ]
+ },
+ {
+  "s": 24.96,
+  "e": 26.61,
+  "text": "Then it goes into a wax cell.",
+  "words": [
+   [
+    "then",
+    24.96
+   ],
+   [
+    "it",
+    25.26
+   ],
+   [
+    "goes",
+    25.41
+   ],
+   [
+    "into",
+    25.71
+   ],
+   [
+    "a",
+    26.01
+   ],
+   [
+    "wax",
+    26.08
+   ],
+   [
+    "cell",
+    26.31
+   ]
+  ]
+ },
+ {
+  "s": 27.16,
+  "e": 28.56,
+  "text": "But it's still way too runny.",
+  "words": [
+   [
+    "but",
+    27.16
+   ],
+   [
+    "its",
+    27.35
+   ],
+   [
+    "still",
+    27.54
+   ],
+   [
+    "way",
+    27.86
+   ],
+   [
+    "too",
+    28.05
+   ],
+   [
+    "runny",
+    28.24
+   ]
+  ]
+ },
+ {
+  "s": 29.11,
+  "e": 31.06,
+  "text": "So the bees fan it with their wings,",
+  "words": [
+   [
+    "so",
+    29.11
+   ],
+   [
+    "the",
+    29.25
+   ],
+   [
+    "bees",
+    29.46
+   ],
+   [
+    "fan",
+    29.74
+   ],
+   [
+    "it",
+    29.94
+   ],
+   [
+    "with",
+    30.08
+   ],
+   [
+    "their",
+    30.36
+   ],
+   [
+    "wings",
+    30.71
+   ]
+  ]
+ },
+ {
+  "s": 31.36,
+  "e": 32.69,
+  "text": "blowing the water away,",
+  "words": [
+   [
+    "blowing",
+    31.36
+   ],
+   [
+    "the",
+    31.85
+   ],
+   [
+    "water",
+    32.06
+   ],
+   [
+    "away",
+    32.41
+   ]
+  ]
+ },
+ {
+  "s": 32.99,
+  "e": 35.6,
+  "text": "until it's only about 18 percent water.",
+  "words": [
+   [
+    "until",
+    32.99
+   ],
+   [
+    "its",
+    33.41
+   ],
+   [
+    "only",
+    33.67
+   ],
+   [
+    "about",
+    34.0
+   ],
+   [
+    "18",
+    34.42
+   ],
+   [
+    "percent",
+    34.59
+   ],
+   [
+    "water",
+    35.18
+   ]
+  ]
+ },
+ {
+  "s": 36.15,
+  "e": 37.18,
+  "text": "That's so thick,",
+  "words": [
+   [
+    "thats",
+    36.15
+   ],
+   [
+    "so",
+    36.58
+   ],
+   [
+    "thick",
+    36.75
+   ]
+  ]
+ },
+ {
+  "s": 37.48,
+  "e": 38.79,
+  "text": "germs can't grow in it.",
+  "words": [
+   [
+    "germs",
+    37.48
+   ],
+   [
+    "cant",
+    37.86
+   ],
+   [
+    "grow",
+    38.17
+   ],
+   [
+    "in",
+    38.48
+   ],
+   [
+    "it",
+    38.63
+   ]
+  ]
+ },
+ {
+  "s": 39.34,
+  "e": 40.56,
+  "text": "Then they cap each cell,",
+  "words": [
+   [
+    "then",
+    39.34
+   ],
+   [
+    "they",
+    39.59
+   ],
+   [
+    "cap",
+    39.85
+   ],
+   [
+    "each",
+    40.05
+   ],
+   [
+    "cell",
+    40.3
+   ]
+  ]
+ },
+ {
+  "s": 40.86,
+  "e": 41.68,
+  "text": "with wax.",
+  "words": [
+   [
+    "with",
+    40.86
+   ],
+   [
+    "wax",
+    41.33
+   ]
+  ]
+ },
+ {
+  "s": 42.23,
+  "e": 44.66,
+  "text": "One bee makes just a twelfth of a teaspoon,",
+  "words": [
+   [
+    "one",
+    42.23
+   ],
+   [
+    "bee",
+    42.44
+   ],
+   [
+    "makes",
+    42.66
+   ],
+   [
+    "just",
+    43.01
+   ],
+   [
+    "a",
+    43.3
+   ],
+   [
+    "twelfth",
+    43.37
+   ],
+   [
+    "of",
+    43.87
+   ],
+   [
+    "a",
+    44.01
+   ],
+   [
+    "teaspoon",
+    44.08
+   ]
+  ]
+ },
+ {
+  "s": 44.96,
+  "e": 46.14,
+  "text": "in her whole life.",
+  "words": [
+   [
+    "in",
+    44.96
+   ],
+   [
+    "her",
+    45.12
+   ],
+   [
+    "whole",
+    45.38
+   ],
+   [
+    "life",
+    45.8
+   ]
+  ]
+ },
+ {
+  "s": 46.69,
+  "e": 48.58,
+  "text": "So, is your honey flower juice,",
+  "words": [
+   [
+    "so",
+    46.69
+   ],
+   [
+    "is",
+    46.85
+   ],
+   [
+    "your",
+    47.01
+   ],
+   [
+    "honey",
+    47.32
+   ],
+   [
+    "flower",
+    47.71
+   ],
+   [
+    "juice",
+    48.18
+   ]
+  ]
+ },
+ {
+  "s": 48.88,
+  "e": 49.8,
+  "text": "or bee spit?",
+  "words": [
+   [
+    "or",
+    48.88
+   ],
+   [
+    "bee",
+    49.08
+   ],
+   [
+    "spit",
+    49.39
+   ]
+  ]
+ }
+]
