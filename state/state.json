@@ -4813,6 +4813,147 @@
       },
       "uploaded_at": "2026-10-30T07:16:02.738683+00:00",
       "slot": "2026-11-03T00:15:00+00:00"
+    },
+    "2026-10-30-102": {
+      "topic": {
+        "title": "Why is a cat's tongue so rough?",
+        "format": "animated",
+        "angle": "Chalkboard Lesson"
+      },
+      "package": {
+        "title": "Your Cat's Tongue Has 300 Tiny Hooks \ud83d\udc31",
+        "description": "Why is a cat's tongue so rough? It's covered in about 300 tiny backward-facing hooks called papillae, made of keratin, and each tip is a hollow scoop that wicks saliva down through the fur to the skin, cleaning out tangles and cooling the cat as it dries.\n\nSources:\nhttps://www.pbs.org/wgbh/nova/article/cat-tongues-keep-them-cool\nhttps://www.sci.news/biology/cat-tongues-06638.html\n\nAnimated in the Chalkboard Lesson style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#cats",
+          "#animalfacts",
+          "#science"
+        ],
+        "tags": [
+          "cat tongue",
+          "why is a cat's tongue rough",
+          "cat tongue papillae",
+          "cat facts",
+          "how cats groom",
+          "cat grooming",
+          "cat saliva",
+          "why cats lick themselves",
+          "animal facts",
+          "pets",
+          "how does it work",
+          "science explained",
+          "chalkboard animation"
+        ],
+        "category": "27",
+        "pinned_comment": "Would you try a hairbrush that works like a cat's tongue? \ud83d\udc31",
+        "thumbnail_text": "HOLLOW TIPS",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "Why does your cat's tongue feel like sandpaper?\nIt's covered in about 300 tiny hooks,\nall pointing backwards.\nEach hook is a spine called a papilla,\nmade of keratin,\nthe same stuff as your fingernails.\nBut the weirdest part?\nThe tip of every spine is hollow,\na tiny scoop, like a quill pen.\nWhen a cat licks,\nthose scoops sip up saliva,\nslide down through the fur,\nand drop it onto the skin.\nThat pulls out dirt and tangles,\nand as the spit dries,\nit cools the cat down.\nScientists think grooming handles\nup to a quarter of a cat's cooling.\nNo wonder cats spend up to a quarter\nof their waking hours licking themselves.\nResearchers built a hairbrush\ncopying the cat's tongue.\nSo would you brush your hair\nwith three hundred tiny hooks?",
+        "key_facts": [
+          "A cat's tongue has hundreds of backward-facing spines (filiform papillae); about 300 contact the fur with each lick (Noel & Hu, PNAS 2018)",
+          "The papillae are made of keratin, the same protein as fingernails",
+          "Each papilla tip has a hollow U-shaped scoop, like a quill-pen nib, that wicks saliva by surface tension",
+          "The papillae reach down through the fur to the skin, delivering saliva there and removing debris and tangles",
+          "Grooming evaporation may account for up to a quarter of a cat's cooling; domestic cats spend up to a quarter of their waking hours grooming",
+          "Researchers made a cat-tongue-inspired hairbrush that is easier to clean"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Chalkboard Lesson"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261030-cat-tongue",
+      "redos": 0,
+      "updated": "2026-10-30T14:18:28.646738+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Chalkboard Lesson style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-30",
+        "name": "2026-10-30-102.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-30",
+        "name": "2026-10-30-102-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:02,630\nWhy does your cat's tongue feel like sandpaper?\n\n2\n00:00:03,180 --> 00:00:05,800\nIt's covered in about 300 tiny hooks,\n\n3\n00:00:06,100 --> 00:00:07,520\nall pointing backwards.\n\n4\n00:00:08,070 --> 00:00:10,140\nEach hook is a spine called a papilla,\n\n5\n00:00:10,440 --> 00:00:11,580\nmade of keratin,\n\n6\n00:00:11,880 --> 00:00:13,860\nthe same stuff as your fingernails.\n\n7\n00:00:14,410 --> 00:00:15,590\nBut the weirdest part?\n\n8\n00:00:16,140 --> 00:00:18,080\nThe tip of every spine is hollow,\n\n9\n00:00:18,380 --> 00:00:20,340\na tiny scoop, like a quill pen.\n\n10\n00:00:20,890 --> 00:00:21,950\nWhen a cat licks,\n\n11\n00:00:22,250 --> 00:00:23,870\nthose scoops sip up saliva,\n\n12\n00:00:24,170 --> 00:00:25,710\nslide down through the fur,\n\n13\n00:00:26,010 --> 00:00:27,540\nand drop it onto the skin.\n\n14\n00:00:28,090 --> 00:00:29,960\nThat pulls out dirt and tangles,\n\n15\n00:00:30,260 --> 00:00:31,690\nand as the spit dries,\n\n16\n00:00:31,990 --> 00:00:33,450\nit cools the cat down.\n\n17\n00:00:34,000 --> 00:00:35,900\nScientists think grooming handles\n\n18\n00:00:36,200 --> 00:00:38,130\nup to a quarter of a cat's cooling.\n\n19\n00:00:38,680 --> 00:00:40,640\nNo wonder cats spend up to a quarter\n\n20\n00:00:40,940 --> 00:00:43,300\nof their waking hours licking themselves.\n\n21\n00:00:43,850 --> 00:00:45,480\nResearchers built a hairbrush\n\n22\n00:00:45,780 --> 00:00:47,130\ncopying the cat's tongue.\n\n23\n00:00:47,680 --> 00:00:49,020\nSo would you brush your hair\n\n24\n00:00:49,320 --> 00:00:51,020\nwith three hundred tiny hooks?\n\n",
+      "tg_msg": 934
+    },
+    "2026-10-30-103": {
+      "topic": {
+        "title": "The Story of the Teddy Bear: How It All Started",
+        "format": "long",
+        "angle": "Cut-Paper Diorama"
+      },
+      "package": {
+        "title": "Teddy Bears Exist Because of a 1902 Bear Hunt \ud83e\uddf8",
+        "description": "How did the teddy bear get its name? In 1902 President Theodore Roosevelt refused to shoot a tied-up bear, a cartoon made the moment famous, and two toy makers in Brooklyn and Germany invented the teddy bear at almost the same time.\n\n0:00 Intro\n0:11 The hunt\n0:38 The cartoon\n0:56 A shop in Brooklyn\n1:25 Meanwhile in Germany\n2:05 Teddy evolution\n2:40 Teddy bears today\n\nSources:\nhttps://www.nps.gov/articles/teddybear.htm\nhttps://en.wikipedia.org/wiki/Steiff\nhttps://www.upi.com/Odd_News/2012/02/21/35-percent-of-British-adults-sleep-with-bear/49791329806031/\n\nAnimated in the Cut-Paper Diorama style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#teddybear",
+          "#history",
+          "#explained"
+        ],
+        "tags": [
+          "teddy bear",
+          "teddy bear history",
+          "how the teddy bear was invented",
+          "why is it called a teddy bear",
+          "theodore roosevelt bear",
+          "teddy roosevelt bear hunt",
+          "steiff teddy bear",
+          "michtom teddy bear",
+          "ideal toy company",
+          "history of toys",
+          "toy history explained",
+          "animated explainer",
+          "cut paper animation",
+          "zorbly ai"
+        ],
+        "category": "27",
+        "pinned_comment": "Do you still have your first teddy bear? What's its name? \ud83e\uddf8",
+        "thumbnail_text": "HE SAID NO",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "In nineteen-oh-two, a president refused to shoot one bear, and that's why your teddy bear exists. Here's how it all started, on a muddy hunting trip in Mississippi. It's November. President Theodore Roosevelt is out in the swamps, on a bear hunt with the state's governor. After days of searching, Roosevelt hasn't seen a single bear. So his guide, Holt Collier, tracks one down with the hunting dogs, and ties it to a tree. Everyone waits for the president to shoot. But Roosevelt says no. Shooting a tied-up bear isn't fair, so he refuses. A few days later, a cartoonist named Clifford Berryman draws the moment for the Washington Post. In his cartoon, the bear is small and scared, with big round eyes. Readers love it. Berryman keeps drawing that little bear for years, like Roosevelt's furry sidekick. Now jump to Brooklyn, New York. Morris and Rose Michtom run a small shop, selling candy and toys. They see the cartoon, and Rose sews a soft, stuffed bear. They put it in the window, with a sign that says, Teddy's bear. The story goes, they even wrote to Roosevelt to ask if they could use his name. The bears sell out fast. So many people want one, the Michtoms start a whole toy company, called Ideal. But here's the twist. At almost the same time, in Germany, a toy maker called Steiff was making bears too. Margarete Steiff started the company by sewing felt elephants. Her nephew Richard loved sketching bears, and he designed one with arms and legs that move. In nineteen-oh-three, he took it to a big toy fair in Leipzig. At first, almost nobody cared. Then an American buyer ordered three thousand. By nineteen-oh-seven, Steiff was making nine hundred seventy-four thousand bears. So the teddy bear was born twice, on two continents, at almost the same moment. Now look closely at a teddy from back then. Long snout, low forehead, skinny arms. It looks like a real bear. But scientists who measured old teddies found they slowly changed over the years. The snouts got shorter. The foreheads got bigger. The eyes got rounder. Teddy bears started to look like babies. Why? Because people pick the cutest one. Our brains are wired to love baby-like faces, so the cutest bears sold best, year after year. It's evolution, but in a toy shop. Today, teddy bears are everywhere. In two thousand, one Steiff bear, with sapphire and diamond eyes, sold at an auction in Monaco for two point one million dollars. And it's not just kids who love them. In one British survey, about a third of adults said they still sleep with a teddy. All because, more than a hundred twenty years ago, one president wouldn't shoot one bear. Next time: how some animals freeze solid, and wake up again.",
+        "key_facts": [
+          "November 1902: on a hunt in Mississippi, guide Holt Collier tied a black bear to a tree and Roosevelt refused to shoot it as unsportsmanlike (NPS)",
+          "Clifford Berryman drew the scene for the Washington Post (NPS)",
+          "Morris and Rose Michtom of Brooklyn made a stuffed 'Teddy's bear'; the family said Roosevelt gave permission; they founded the Ideal Novelty and Toy Company",
+          "Richard Steiff designed a jointed bear (55 PB, 1902); at the 1903 Leipzig toy fair an American buyer ordered 3,000; by 1907 Steiff made 974,000 bears (Wikipedia)",
+          "Teddy bears' snouts shortened and foreheads grew over the decades (baby schema; Hinde & Barden 1985 and later studies)",
+          "2000: a Steiff Louis Vuitton bear with sapphire and diamond eyes sold for $2.1 million in Monaco",
+          "2012 Travelodge survey: 35% of British adults sleep with a teddy bear"
+        ],
+        "voice": "Kokoro",
+        "format": "long",
+        "style": "Cut-Paper Diorama"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261030-teddy-bear",
+      "redos": 0,
+      "updated": "2026-10-30T14:18:39.361098+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Cut-Paper Diorama style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-10-30",
+        "name": "2026-10-30-103.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-10-30",
+        "name": "2026-10-30-103-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:03,900\nIn nineteen-oh-two, a president refused to shoot one bear,\n\n2\n00:00:04,200 --> 00:00:06,150\nand that's why your teddy bear exists.\n\n3\n00:00:06,700 --> 00:00:08,270\nHere's how it all started,\n\n4\n00:00:08,570 --> 00:00:10,920\non a muddy hunting trip in Mississippi.\n\n5\n00:00:11,470 --> 00:00:12,370\nIt's November.\n\n6\n00:00:12,920 --> 00:00:15,990\nPresident Theodore Roosevelt is out in the swamps,\n\n7\n00:00:16,290 --> 00:00:18,340\non a bear hunt with the state's governor.\n\n8\n00:00:18,890 --> 00:00:20,260\nAfter days of searching,\n\n9\n00:00:20,560 --> 00:00:22,650\nRoosevelt hasn't seen a single bear.\n\n10\n00:00:23,200 --> 00:00:24,970\nSo his guide, Holt Collier,\n\n11\n00:00:25,270 --> 00:00:27,450\ntracks one down with the hunting dogs,\n\n12\n00:00:27,750 --> 00:00:29,110\nand ties it to a tree.\n\n13\n00:00:29,660 --> 00:00:31,690\nEveryone waits for the president to shoot.\n\n14\n00:00:32,240 --> 00:00:33,710\nBut Roosevelt says no.\n\n15\n00:00:34,260 --> 00:00:36,190\nShooting a tied-up bear isn't fair,\n\n16\n00:00:36,490 --> 00:00:37,730\nso he refuses.\n\n17\n00:00:38,280 --> 00:00:39,410\nA few days later,\n\n18\n00:00:39,710 --> 00:00:41,720\na cartoonist named Clifford Berryman\n\n19\n00:00:42,020 --> 00:00:44,350\ndraws the moment for the Washington Post.\n\n20\n00:00:44,900 --> 00:00:47,460\nIn his cartoon, the bear is small and scared,\n\n21\n00:00:47,760 --> 00:00:49,100\nwith big round eyes.\n\n22\n00:00:49,650 --> 00:00:50,630\nReaders love it.\n\n23\n00:00:51,180 --> 00:00:53,790\nBerryman keeps drawing that little bear for years,\n\n24\n00:00:54,090 --> 00:00:56,010\nlike Roosevelt's furry sidekick.\n\n25\n00:00:56,560 --> 00:00:58,530\nNow jump to Brooklyn, New York.\n\n26\n00:00:59,080 --> 00:01:01,750\nMorris and Rose Michtom run a small shop,\n\n27\n00:01:02,050 --> 00:01:03,630\nselling candy and toys.\n\n28\n00:01:04,180 --> 00:01:05,460\nThey see the cartoon,\n\n29\n00:01:05,760 --> 00:01:07,850\nand Rose sews a soft, stuffed bear.\n\n30\n00:01:08,400 --> 00:01:09,810\nThey put it in the window,\n\n31\n00:01:10,110 --> 00:01:12,200\nwith a sign that says, Teddy's bear.\n\n32\n00:01:12,750 --> 00:01:15,430\nThe story goes, they even wrote to Roosevelt\n\n33\n00:01:15,730 --> 00:01:17,650\nto ask if they could use his name.\n\n34\n00:01:18,200 --> 00:01:19,700\nThe bears sell out fast.\n\n35\n00:01:20,250 --> 00:01:21,710\nSo many people want one,\n\n36\n00:01:22,010 --> 00:01:25,150\nthe Michtoms start a whole toy company, called Ideal.\n\n37\n00:01:25,700 --> 00:01:26,910\nBut here's the twist.\n\n38\n00:01:27,460 --> 00:01:29,560\nAt almost the same time, in Germany,\n\n39\n00:01:29,860 --> 00:01:32,760\na toy maker called Steiff was making bears too.\n\n40\n00:01:33,310 --> 00:01:35,240\nMargarete Steiff started the company\n\n41\n00:01:35,540 --> 00:01:37,110\nby sewing felt elephants.\n\n42\n00:01:37,660 --> 00:01:40,150\nHer nephew Richard loved sketching bears,\n\n43\n00:01:40,450 --> 00:01:43,390\nand he designed one with arms and legs that move.\n\n44\n00:01:43,940 --> 00:01:45,220\nIn nineteen-oh-three,\n\n45\n00:01:45,520 --> 00:01:47,710\nhe took it to a big toy fair in Leipzig.\n\n46\n00:01:48,260 --> 00:01:50,220\nAt first, almost nobody cared.\n\n47\n00:01:50,770 --> 00:01:53,490\nThen an American buyer ordered three thousand.\n\n48\n00:01:54,040 --> 00:01:55,400\nBy nineteen-oh-seven,\n\n49\n00:01:55,700 --> 00:01:59,480\nSteiff was making nine hundred seventy-four thousand bears.\n\n50\n00:02:00,030 --> 00:02:02,100\nSo the teddy bear was born twice,\n\n51\n00:02:02,400 --> 00:02:05,370\non two continents, at almost the same moment.\n\n52\n00:02:05,920 --> 00:02:08,270\nNow look closely at a teddy from back then.\n\n53\n00:02:08,820 --> 00:02:11,260\nLong snout, low forehead, skinny arms.\n\n54\n00:02:11,810 --> 00:02:13,290\nIt looks like a real bear.\n\n55\n00:02:13,840 --> 00:02:15,950\nBut scientists who measured old teddies\n\n56\n00:02:16,250 --> 00:02:18,570\nfound they slowly changed over the years.\n\n57\n00:02:19,120 --> 00:02:20,480\nThe snouts got shorter.\n\n58\n00:02:21,030 --> 00:02:22,440\nThe foreheads got bigger.\n\n59\n00:02:22,990 --> 00:02:24,310\nThe eyes got rounder.\n\n60\n00:02:24,860 --> 00:02:27,120\nTeddy bears started to look like babies.\n\n61\n00:02:27,670 --> 00:02:29,960\nWhy? Because people pick the cutest one.\n\n62\n00:02:30,510 --> 00:02:33,550\nOur brains are wired to love baby-like faces,\n\n63\n00:02:33,850 --> 00:02:37,000\nso the cutest bears sold best, year after year.\n\n64\n00:02:37,550 --> 00:02:39,630\nIt's evolution, but in a toy shop.\n\n65\n00:02:40,180 --> 00:02:42,100\nToday, teddy bears are everywhere.\n\n66\n00:02:42,650 --> 00:02:44,590\nIn two thousand, one Steiff bear,\n\n67\n00:02:44,890 --> 00:02:46,860\nwith sapphire and diamond eyes,\n\n68\n00:02:47,160 --> 00:02:49,120\nsold at an auction in Monaco\n\n69\n00:02:49,420 --> 00:02:51,470\nfor two point one million dollars.\n\n70\n00:02:52,020 --> 00:02:53,970\nAnd it's not just kids who love them.\n\n71\n00:02:54,520 --> 00:02:55,820\nIn one British survey,\n\n72\n00:02:56,120 --> 00:02:59,170\nabout a third of adults said they still sleep with a teddy.\n\n73\n00:02:59,720 --> 00:03:02,560\nAll because, more than a hundred twenty years ago,\n\n74\n00:03:02,860 --> 00:03:04,800\none president wouldn't shoot one bear.\n\n75\n00:03:05,350 --> 00:03:06,220\nNext time:\n\n76\n00:03:06,520 --> 00:03:09,600\nhow some animals freeze solid, and wake up again.\n\n",
+      "tg_msg": 935
     }
   },
   "history": [
@@ -4902,7 +5043,7 @@
   "visual_searches": {
     "2026-10-25": 3
   },
-  "signals_day": "2026-10-29",
+  "signals_day": "2026-10-30",
   "drops_done": {
     "drop/20261025-autumn-leaves": "2026-10-25-101",
     "drop/20261025-roman-hypocaust": "2026-10-25-102",
@@ -4929,7 +5070,9 @@
     "drop/20261029-onion-tears": "2026-10-29-103",
     "drop/20261029-owl-head": "2026-10-29-104",
     "drop/20261029-bee-honey": "2026-10-29-105",
-    "drop/20261029-pistol-shrimp": "2026-10-30-101"
+    "drop/20261029-pistol-shrimp": "2026-10-30-101",
+    "drop/20261030-cat-tongue": "2026-10-30-102",
+    "drop/20261030-teddy-bear": "2026-10-30-103"
   },
   "refs_day": "2026-10-30"
 }
