@@ -1,0 +1,735 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.09,
+  "text": "You'd lose your toes on this ice.",
+  "words": [
+   [
+    "youd",
+    0.25
+   ],
+   [
+    "lose",
+    0.54
+   ],
+   [
+    "your",
+    0.84
+   ],
+   [
+    "toes",
+    1.13
+   ],
+   [
+    "on",
+    1.43
+   ],
+   [
+    "this",
+    1.58
+   ],
+   [
+    "ice",
+    1.87
+   ]
+  ]
+ },
+ {
+  "s": 2.64,
+  "e": 4.97,
+  "text": "Emperor penguins stand on it for two months.",
+  "words": [
+   [
+    "emperor",
+    2.64
+   ],
+   [
+    "penguins",
+    3.09
+   ],
+   [
+    "stand",
+    3.61
+   ],
+   [
+    "on",
+    3.93
+   ],
+   [
+    "it",
+    4.06
+   ],
+   [
+    "for",
+    4.19
+   ],
+   [
+    "two",
+    4.39
+   ],
+   [
+    "months",
+    4.58
+   ]
+  ]
+ },
+ {
+  "s": 5.52,
+  "e": 7.18,
+  "text": "The secret is in their legs.",
+  "words": [
+   [
+    "the",
+    5.52
+   ],
+   [
+    "secret",
+    5.74
+   ],
+   [
+    "is",
+    6.2
+   ],
+   [
+    "in",
+    6.35
+   ],
+   [
+    "their",
+    6.5
+   ],
+   [
+    "legs",
+    6.88
+   ]
+  ]
+ },
+ {
+  "s": 7.73,
+  "e": 9.76,
+  "text": "Warm blood flowing down to the feet",
+  "words": [
+   [
+    "warm",
+    7.73
+   ],
+   [
+    "blood",
+    8.01
+   ],
+   [
+    "flowing",
+    8.36
+   ],
+   [
+    "down",
+    8.85
+   ],
+   [
+    "to",
+    9.13
+   ],
+   [
+    "the",
+    9.27
+   ],
+   [
+    "feet",
+    9.48
+   ]
+  ]
+ },
+ {
+  "s": 10.06,
+  "e": 13.02,
+  "text": "runs right beside cold blood coming back up.",
+  "words": [
+   [
+    "runs",
+    10.06
+   ],
+   [
+    "right",
+    10.39
+   ],
+   [
+    "beside",
+    10.8
+   ],
+   [
+    "cold",
+    11.29
+   ],
+   [
+    "blood",
+    11.62
+   ],
+   [
+    "coming",
+    12.03
+   ],
+   [
+    "back",
+    12.53
+   ],
+   [
+    "up",
+    12.85
+   ]
+  ]
+ },
+ {
+  "s": 13.57,
+  "e": 15.17,
+  "text": "So the heat jumps across,",
+  "words": [
+   [
+    "so",
+    13.57
+   ],
+   [
+    "the",
+    13.73
+   ],
+   [
+    "heat",
+    13.97
+   ],
+   [
+    "jumps",
+    14.29
+   ],
+   [
+    "across",
+    14.69
+   ]
+  ]
+ },
+ {
+  "s": 15.47,
+  "e": 17.16,
+  "text": "like passing a hot potato.",
+  "words": [
+   [
+    "like",
+    15.47
+   ],
+   [
+    "passing",
+    15.8
+   ],
+   [
+    "a",
+    16.36
+   ],
+   [
+    "hot",
+    16.44
+   ],
+   [
+    "potato",
+    16.68
+   ]
+  ]
+ },
+ {
+  "s": 17.71,
+  "e": 19.79,
+  "text": "By the time blood reaches the toes,",
+  "words": [
+   [
+    "by",
+    17.71
+   ],
+   [
+    "the",
+    17.86
+   ],
+   [
+    "time",
+    18.08
+   ],
+   [
+    "blood",
+    18.38
+   ],
+   [
+    "reaches",
+    18.75
+   ],
+   [
+    "the",
+    19.27
+   ],
+   [
+    "toes",
+    19.5
+   ]
+  ]
+ },
+ {
+  "s": 20.09,
+  "e": 21.62,
+  "text": "it's just above freezing.",
+  "words": [
+   [
+    "its",
+    20.09
+   ],
+   [
+    "just",
+    20.32
+   ],
+   [
+    "above",
+    20.63
+   ],
+   [
+    "freezing",
+    21.01
+   ]
+  ]
+ },
+ {
+  "s": 22.17,
+  "e": 24.91,
+  "text": "Cold toes lose very little heat to the ice,",
+  "words": [
+   [
+    "cold",
+    22.17
+   ],
+   [
+    "toes",
+    22.5
+   ],
+   [
+    "lose",
+    22.82
+   ],
+   [
+    "very",
+    23.14
+   ],
+   [
+    "little",
+    23.46
+   ],
+   [
+    "heat",
+    23.95
+   ],
+   [
+    "to",
+    24.27
+   ],
+   [
+    "the",
+    24.43
+   ],
+   [
+    "ice",
+    24.67
+   ]
+  ]
+ },
+ {
+  "s": 25.21,
+  "e": 27.18,
+  "text": "and the warmth goes back into the body.",
+  "words": [
+   [
+    "and",
+    25.21
+   ],
+   [
+    "the",
+    25.4
+   ],
+   [
+    "warmth",
+    25.59
+   ],
+   [
+    "goes",
+    25.97
+   ],
+   [
+    "back",
+    26.23
+   ],
+   [
+    "into",
+    26.48
+   ],
+   [
+    "the",
+    26.73
+   ],
+   [
+    "body",
+    26.93
+   ]
+  ]
+ },
+ {
+  "s": 27.73,
+  "e": 29.38,
+  "text": "Feet near zero degrees,",
+  "words": [
+   [
+    "feet",
+    27.73
+   ],
+   [
+    "near",
+    28.08
+   ],
+   [
+    "zero",
+    28.43
+   ],
+   [
+    "degrees",
+    28.77
+   ]
+  ]
+ },
+ {
+  "s": 29.68,
+  "e": 31.01,
+  "text": "body near thirty-eight.",
+  "words": [
+   [
+    "body",
+    29.68
+   ],
+   [
+    "near",
+    29.96
+   ],
+   [
+    "thirtyeight",
+    30.24
+   ]
+  ]
+ },
+ {
+  "s": 31.56,
+  "e": 33.21,
+  "text": "If the toes get too cold,",
+  "words": [
+   [
+    "if",
+    31.56
+   ],
+   [
+    "the",
+    31.74
+   ],
+   [
+    "toes",
+    32.0
+   ],
+   [
+    "get",
+    32.34
+   ],
+   [
+    "too",
+    32.61
+   ],
+   [
+    "cold",
+    32.87
+   ]
+  ]
+ },
+ {
+  "s": 33.51,
+  "e": 35.6,
+  "text": "the penguin widens its arteries,",
+  "words": [
+   [
+    "the",
+    33.51
+   ],
+   [
+    "penguin",
+    33.74
+   ],
+   [
+    "widens",
+    34.28
+   ],
+   [
+    "its",
+    34.75
+   ],
+   [
+    "arteries",
+    34.98
+   ]
+  ]
+ },
+ {
+  "s": 35.9,
+  "e": 38.21,
+  "text": "and sends down a little more warm blood.",
+  "words": [
+   [
+    "and",
+    35.9
+   ],
+   [
+    "sends",
+    36.11
+   ],
+   [
+    "down",
+    36.47
+   ],
+   [
+    "a",
+    36.76
+   ],
+   [
+    "little",
+    36.84
+   ],
+   [
+    "more",
+    37.27
+   ],
+   [
+    "warm",
+    37.56
+   ],
+   [
+    "blood",
+    37.85
+   ]
+  ]
+ },
+ {
+  "s": 38.76,
+  "e": 39.67,
+  "text": "Still chilly?",
+  "words": [
+   [
+    "still",
+    38.76
+   ],
+   [
+    "chilly",
+    39.17
+   ]
+  ]
+ },
+ {
+  "s": 40.22,
+  "e": 42.59,
+  "text": "It rocks back on its heels and stiff tail,",
+  "words": [
+   [
+    "it",
+    40.22
+   ],
+   [
+    "rocks",
+    40.37
+   ],
+   [
+    "back",
+    40.72
+   ],
+   [
+    "on",
+    41.01
+   ],
+   [
+    "its",
+    41.16
+   ],
+   [
+    "heels",
+    41.37
+   ],
+   [
+    "and",
+    41.73
+   ],
+   [
+    "stiff",
+    41.95
+   ],
+   [
+    "tail",
+    42.31
+   ]
+  ]
+ },
+ {
+  "s": 42.89,
+  "e": 44.64,
+  "text": "lifting its toes off the ice,",
+  "words": [
+   [
+    "lifting",
+    42.89
+   ],
+   [
+    "its",
+    43.42
+   ],
+   [
+    "toes",
+    43.65
+   ],
+   [
+    "off",
+    43.95
+   ],
+   [
+    "the",
+    44.18
+   ],
+   [
+    "ice",
+    44.41
+   ]
+  ]
+ },
+ {
+  "s": 44.94,
+  "e": 46.08,
+  "text": "and hunches down,",
+  "words": [
+   [
+    "and",
+    44.94
+   ],
+   [
+    "hunches",
+    45.18
+   ],
+   [
+    "down",
+    45.75
+   ]
+  ]
+ },
+ {
+  "s": 46.38,
+  "e": 48.39,
+  "text": "so belly feathers blanket its feet.",
+  "words": [
+   [
+    "so",
+    46.38
+   ],
+   [
+    "belly",
+    46.52
+   ],
+   [
+    "feathers",
+    46.86
+   ],
+   [
+    "blanket",
+    47.42
+   ],
+   [
+    "its",
+    47.91
+   ],
+   [
+    "feet",
+    48.11
+   ]
+  ]
+ },
+ {
+  "s": 48.94,
+  "e": 51.44,
+  "text": "A penguin keeps its feet cold on purpose.",
+  "words": [
+   [
+    "a",
+    48.94
+   ],
+   [
+    "penguin",
+    49.02
+   ],
+   [
+    "keeps",
+    49.55
+   ],
+   [
+    "its",
+    49.93
+   ],
+   [
+    "feet",
+    50.15
+   ],
+   [
+    "cold",
+    50.46
+   ],
+   [
+    "on",
+    50.76
+   ],
+   [
+    "purpose",
+    50.91
+   ]
+  ]
+ },
+ {
+  "s": 51.99,
+  "e": 54.28,
+  "text": "So how long would your toes last out there?",
+  "words": [
+   [
+    "so",
+    51.99
+   ],
+   [
+    "how",
+    52.13
+   ],
+   [
+    "long",
+    52.33
+   ],
+   [
+    "would",
+    52.6
+   ],
+   [
+    "your",
+    52.94
+   ],
+   [
+    "toes",
+    53.21
+   ],
+   [
+    "last",
+    53.47
+   ],
+   [
+    "out",
+    53.74
+   ],
+   [
+    "there",
+    53.95
+   ]
+  ]
+ }
+]
