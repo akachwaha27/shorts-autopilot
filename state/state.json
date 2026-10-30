@@ -378,1911 +378,6 @@
     }
   },
   "videos": {
-    "2026-10-23-1": {
-      "topic": {
-        "title": "How Archimedes' Screw Works (2,200 Years Old)",
-        "angle": "Zack D. Films' 'How Electrical Outlets Work' is pulling about 238,769 views per hour (52.5M views in 5 days, breakout 4.35, and 58,949x the median in today's viral signals via a 3D-animation copycat), and 'How Plato's Alarm Clock Worked' (30,404 views/h) shows the ancient-invention version of the same see-inside 'How X Works' shape.",
-        "format": "animated",
-        "tone": "normal",
-        "virality_score": 8,
-        "trend_source": "title shape of How Electrical Outlets Work (238,769 views/h); also How Plato's Alarm Clock Worked (30,404 views/h)",
-        "plan_id": "P2026-10-23-01"
-      },
-      "status": "published",
-      "by": "auto",
-      "updated": "2026-10-25T09:53:56.497375+00:00",
-      "redos": 0,
-      "package": {
-        "primary_keyword": "archimedes screw",
-        "title": "How Archimedes' Screw Works (2,200 Years Old)",
-        "hook_text": "NO MOTOR, NO PUMP",
-        "thumbnail_text": "NO PUMP NEEDED",
-        "description": "Here's how an Archimedes screw works, step by step inside the tube. This ancient water pump lifts water uphill with no motor: each turn of the spiral traps a pocket of water and carries it up.\n\nIn this Short: the spiral inside the tube, the scooped pocket, why the water's low point climbs as it turns, why too steep a tilt spills it, and where these screws are still used.\n\nSources:\nhttps://www.scientificamerican.com/article/lift-water-with-an-archimedes-screw\nhttps://www.sciencebuddies.org/stem-activities/build-archimedes-screw\nhttps://greekreporter.com/2025/03/29/archimedes-screw-ancient-greek-invention-used-today/",
-        "hashtags": [
-          "#shorts",
-          "#howitworks",
-          "#archimedes",
-          "#3danimation"
-        ],
-        "tags": [
-          "archimedes screw",
-          "archimedes screw water pump",
-          "archimedes",
-          "screw pump animation",
-          "archimedes screw pump",
-          "archimedes screw water",
-          "how archimedes screw work",
-          "archimedes screw animation",
-          "archimedes screw explained",
-          "screw pump working animation",
-          "archimedes screw water lifter",
-          "ancient water pump",
-          "screw pump",
-          "archimedes screw working",
-          "archimedes screw principle",
-          "archimedes screw explanation",
-          "3d animation explained",
-          "how to lift water uphill",
-          "ancient greek inventions"
-        ],
-        "pinned_comment": "Bonus fact: some modern Archimedes screws run in reverse, letting water fall down them to spin a generator. If you had to lift water without a motor, how would you do it?",
-        "visual_bible": "Sunny daytime setting featuring a rustic wooden Archimedes screw tube with clear water elements set alongside a calm blue river with warm earth tones and realistic materials.",
-        "scenes": [
-          {
-            "text": "You can't pour water uphill, but you could with a two-thousand-year-old screw. How?",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "ancient water pump river",
-              "wooden screw mechanism river"
-            ],
-            "image_prompt": "3D render of a tilted ancient wooden cylinder tube resting in a flowing river on a sunny day, clear blue water, hyper-realistic, 8k",
-            "shot": "3D animated wide shot of a tilted wooden tube with its bottom end dipped in a calm blue river under a sunny sky, a wooden crank handle at the top end, slow camera push-in",
-            "stock_query": "ancient water pump river"
-          },
-          {
-            "text": "It's a spiral sealed inside a tube, tilted into a river.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "spiral screw inside pipe cross section",
-              "transparent tube spiral helical mechanism"
-            ],
-            "image_prompt": "3D cutaway animation of a transparent cylinder revealing an internal wooden helical spiral blade wrapped around a center axis, technical illustration, 8k",
-            "shot": "3D animated cutaway of the same wooden tube turning see-through to reveal a thick wooden spiral wound around a central shaft inside, camera gliding along the tube from bottom to top",
-            "stock_query": "spiral screw inside pipe cross section"
-          },
-          {
-            "text": "Turn it, and the bottom scoops a pocket of water.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "screw scooping water underwater",
-              "water intake tube close up"
-            ],
-            "image_prompt": "3D macro underwater shot of the base of a rotating wooden spiral scooping a clear pocket of water into its chamber, ray-traced lighting",
-            "shot": "3D animated close-up of the same tube's bottom end underwater: the crank turns, the lowest blade of the spiral dips and scoops a small pocket of bright blue water, camera locked off",
-            "stock_query": "screw scooping water underwater"
-          },
-          {
-            "text": "The water rolls to the lowest point of its turn.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "water sitting in curved blade",
-              "cross section water pocket"
-            ],
-            "image_prompt": "3D cross-section macro view of a single turn of an Archimedes screw with water gathered naturally at the lowest bottom curve, crisp details",
-            "shot": "3D animated cross-section macro of one turn of the same spiral: the blue water pocket settles in the lowest curve of the blade like a marble in a bowl, slow orbit",
-            "stock_query": "water sitting in curved blade"
-          },
-          {
-            "text": "But as the screw spins, that low point creeps upward.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "rotating spiral helix movement",
-              "mechanical screw motion diagram"
-            ],
-            "image_prompt": "3D diagram cross section showing a spiral blade rotating with a highlighted glowing point marking upward movement along the axis, cinematic render",
-            "shot": "3D animated cross-section of the same spiral rotating: a glowing marker on the lowest point of the curve slides steadily up the tube as the screw turns, camera tracking upward with it",
-            "stock_query": "rotating spiral helix movement"
-          },
-          {
-            "text": "So the water climbs, pocket after pocket.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "water pockets ascending spiral pipe",
-              "archimedes screw full length cross section"
-            ],
-            "image_prompt": "Full cutaway 3D view of an Archimedes screw tube showing several distinct chambers of blue water ascending like steps along the spiral, photorealistic render",
-            "shot": "3D animated full-length cutaway of the same tube: a staircase of separate blue water pockets rises turn by turn, each resting on the blade beneath it, camera slowly pulling back",
-            "stock_query": "water pockets ascending spiral pipe"
-          },
-          {
-            "text": "Too steep, and it spills back down.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "water leaking down spiral pipe",
-              "spilling water inclined plane"
-            ],
-            "image_prompt": "3D cross-section demonstration of an overly steep Archimedes screw where trapped water overflows the blade edge and splashes downward, dynamic fluids",
-            "shot": "3D animated comparison of the same tube tilted much steeper: the blue pockets slosh over the blades and slide back down to the river, camera side-on",
-            "stock_query": "water leaking down spiral pipe"
-          },
-          {
-            "text": "At the top, every turn pours out a splash.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "water pouring from wooden pipe",
-              "water splash wooden trough"
-            ],
-            "image_prompt": "Close-up 3D animation of water discharging from the top opening of an ancient wooden screw into a wooden channel, splash droplets frozen in time",
-            "shot": "3D animated close-up of the same tube's top end: with each turn of the crank a splash of blue water pours into a wooden trough, slow-motion droplets",
-            "stock_query": "water pouring from wooden pipe"
-          },
-          {
-            "text": "Plants still use giant ones, because even now,",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "modern archimedes screw pump concrete",
-              "industrial water treatment screw"
-            ],
-            "image_prompt": "Industrial large steel Archimedes screw operating in a modern concrete wastewater treatment canal dissolving into an ancient wooden design, cinematic lighting",
-            "shot": "3D animated wide shot dissolving from the same wooden screw to a huge modern steel screw turning in a concrete channel, then back to the calm river and the tilted wooden tube, gentle push-in",
-            "stock_query": "modern archimedes screw pump concrete"
-          }
-        ],
-        "key_facts": [
-          "An Archimedes screw lifts liquid uphill without a pressurized motor.",
-          "It consists of a helical spiral enclosed tightly within a cylinder placed at an incline.",
-          "Rotating the screw scoops a isolated pocket of water at the base.",
-          "Gravity keeps the water at the lowest point of each turn, which physically shifts upward as the screw rotates.",
-          "If the angle of tilt is too steep, the water slips over the blades and fails to rise.",
-          "Modern wastewater treatment and drainage plants still utilize large Archimedes screws today."
-        ],
-        "format": "animated",
-        "tone": "normal",
-        "category": "27",
-        "script": "You can't pour water uphill, but you could with a two-thousand-year-old screw. How? It's a spiral sealed inside a tube, tilted into a river. Turn it, and the bottom scoops a pocket of water. The water rolls to the lowest point of its turn. But as the screw spins, that low point creeps upward. So the water climbs, pocket after pocket. Too steep, and it spills back down. At the top, every turn pours out a splash. Plants still use giant ones, because even now,",
-        "plan_id": "P2026-10-23-01",
-        "voice": "en-US-AvaMultilingualNeural",
-        "animated_estimate": 0.52,
-        "visual_report": {
-          "shots": 9,
-          "checked": 2,
-          "unchecked": 0,
-          "filler": 7,
-          "ai": 0
-        }
-      },
-      "credits": [
-        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AvaMultilingualNeural).",
-        "Stock footage/photos (Pexels/Pixabay Content License): Antranias (Pixabay) https://pixabay.com/photos/cattle-trough-cow-trough-potions-239495/; 2427999 (Pixabay) https://pixabay.com/videos/id-10447/"
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-23",
-        "name": "2026-10-23-1-v0.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-23",
-        "name": "2026-10-23-1-v0-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,076 --> 00:00:01,891\nYou can't pour water uphill but you\n\n2\n00:00:01,891 --> 00:00:04,391\ncould with a two-thousand-year-old screw How\n\n3\n00:00:04,391 --> 00:00:06,587\nIt's a spiral sealed inside a tube\n\n4\n00:00:06,587 --> 00:00:08,717\ntilted into a river Turn it and\n\n5\n00:00:08,717 --> 00:00:10,761\nthe bottom scoops a pocket of water\n\n6\n00:00:10,761 --> 00:00:12,533\nThe water rolls to the lowest point\n\n7\n00:00:12,533 --> 00:00:14,065\nof its turn But as the screw\n\n8\n00:00:14,065 --> 00:00:16,815\nspins that low point creeps upward So\n\n9\n00:00:16,815 --> 00:00:19,359\nthe water climbs pocket after pocket Too\n\n10\n00:00:19,359 --> 00:00:21,641\nsteep and it spills back down At\n\n11\n00:00:21,641 --> 00:00:23,380\nthe top every turn pours out a\n\n12\n00:00:23,380 --> 00:00:25,880\nsplash Plants still use giant ones because\n\n13\n00:00:25,880 --> 00:00:26,911\neven now\n",
-      "tg_msg": 715,
-      "opts_msg": 717,
-      "approved_by": "auto",
-      "quota_note": "2026-10-25",
-      "description_full": "Here's how an Archimedes screw works, step by step inside the tube. This ancient water pump lifts water uphill with no motor: each turn of the spiral traps a pocket of water and carries it up.\n\nIn this Short: the spiral inside the tube, the scooped pocket, why the water's low point climbs as it turns, why too steep a tilt spills it, and where these screws are still used.\n\nSources:\nhttps://www.scientificamerican.com/article/lift-water-with-an-archimedes-screw\nhttps://www.sciencebuddies.org/stem-activities/build-archimedes-screw\nhttps://greekreporter.com/2025/03/29/archimedes-screw-ancient-greek-invention-used-today/\n\n#shorts #howitworks #archimedes #3danimation\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AvaMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): Antranias (Pixabay) https://pixabay.com/photos/cattle-trough-cow-trough-potions-239495/; 2427999 (Pixabay) https://pixabay.com/videos/id-10447/\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/T6g6AifkbvE",
-          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-25T09:53:56.497395+00:00",
-      "slot": "2026-10-25T14:15:00+00:00"
-    },
-    "2026-10-23-2": {
-      "topic": {
-        "title": "Top 5 Fastest Animals (#1 Isn't on Land)",
-        "angle": "Today's top outliers are all one-question, one-payoff curiosity ('How Electrical Outlets Work', 58,949x its channel median), and a 'fastest animal' countdown answers a question people already ask, with a surprise twist at number one.",
-        "format": "ranking",
-        "tone": "normal",
-        "virality_score": 8,
-        "trend_source": "How Electrical Outlets Work (58,949x median, The Question); superlative-plus-twist shape of 'Could You Move Mount Everest To America?' (Zack D. Films, breakout 2.11)",
-        "plan_id": "P2026-10-23-02"
-      },
-      "status": "published",
-      "by": "auto",
-      "updated": "2026-10-25T09:54:04.063226+00:00",
-      "redos": 0,
-      "package": {
-        "primary_keyword": "fastest animals on earth",
-        "title": "Top 5 Fastest Animals (#1 Isn't on Land)",
-        "hook_text": "FASTER THAN A CAR",
-        "thumbnail_text": "NOT THE CHEETAH",
-        "description": "These are the top 5 fastest animals on Earth, ranked by measured top speed. The fastest animal in the world isn't the cheetah: it's a falcon diving at about 240 mph.\n\nIn this Short: the pronghorn, the cheetah, the free-tailed bat, the golden eagle and the peregrine falcon, counted down from slowest to fastest.\n\nSources:\nhttps://en.wikipedia.org/wiki/Fastest_animals\nhttps://en.wikipedia.org/wiki/List_of_birds_by_flight_speed",
-        "hashtags": [
-          "#shorts",
-          "#animals",
-          "#fastestanimal",
-          "#top5"
-        ],
-        "tags": [
-          "fastest animals on earth",
-          "top 5 fastest animals",
-          "fastest animals",
-          "fastest animal in the world",
-          "peregrine falcon speed dive",
-          "fastest land animal on earth",
-          "top 5 fastest animal on land",
-          "top 5 fastest animals in the world",
-          "peregrine falcon speed",
-          "fastest animals on land",
-          "free-tailed bat",
-          "mexican free-tailed bat",
-          "fastest creature on earth",
-          "fastest animals comparison",
-          "fastest animals on the planet",
-          "golden eagle dive",
-          "animal speed ranking",
-          "peregrine falcon dive"
-        ],
-        "pinned_comment": "Bonus fact: the pronghorn can't beat a cheetah's sprint, but it can keep running fast for miles while the cheetah tires in under a minute. Which animal do you think should've made the list?",
-        "scenes": [
-          {
-            "text": "You'd guess the cheetah is the fastest animal on Earth. You'd be wrong, and number one isn't even on land. Here are the five fastest animals ever clocked, from the ground to the sky.",
-            "badge": "5 fastes",
-            "label": "Animal Rankings",
-            "stock_queries": [
-              "cheetah sprinting across grassland",
-              "aerial view of open prairie at sunrise"
-            ],
-            "image_prompt": "Cinematic wide shot of a cheetah sprinting across dry grassland in slow motion, bright sunny day",
-            "stock_query": "cheetah sprinting across grassland"
-          },
-          {
-            "text": "Number five, the pronghorn. This North American runner hits about fifty-five miles an hour.",
-            "badge": "#5",
-            "label": "Pronghorn",
-            "stock_queries": [
-              "pronghorn antelope running",
-              "pronghorn in open plains"
-            ],
-            "image_prompt": "Close-up shot of a pronghorn antelope running fast across open plains, natural lighting",
-            "stock_query": "pronghorn antelope running"
-          },
-          {
-            "text": "Number four, the cheetah. Its fastest reliably measured sprint is about sixty-five miles an hour.",
-            "badge": "#4",
-            "label": "Cheetah",
-            "stock_queries": [
-              "cheetah running full speed",
-              "cheetah side tracking shot"
-            ],
-            "image_prompt": "Action tracking shot of a cheetah running at full speed across the savanna, dynamic camera angle",
-            "stock_query": "cheetah running full speed"
-          },
-          {
-            "text": "Number three, the free-tailed bat. Scientists tracked it at about a hundred miles an hour, flying level.",
-            "badge": "#3",
-            "label": "Free-tailed bat",
-            "stock_queries": [
-              "bats streaming out of cave",
-              "bats flying at dusk"
-            ],
-            "image_prompt": "A large swarm of free-tailed bats streaming out of a dark cave opening at dusk",
-            "stock_query": "bats streaming out of cave"
-          },
-          {
-            "text": "Number two, the golden eagle. In a dive, it can top one hundred fifty miles an hour.",
-            "badge": "#2",
-            "label": "Golden eagle",
-            "stock_queries": [
-              "golden eagle soaring mountains",
-              "golden eagle flying"
-            ],
-            "image_prompt": "Majestic golden eagle soaring high over snow-capped mountain peaks, sunny afternoon",
-            "stock_query": "golden eagle soaring mountains"
-          },
-          {
-            "text": "Number one, the peregrine falcon. It tucks its wings into a teardrop and dives at about two hundred forty miles an hour.",
-            "badge": "#1",
-            "label": "Peregrine falcon",
-            "stock_queries": [
-              "peregrine falcon diving",
-              "falcon perched on rock"
-            ],
-            "image_prompt": "A peregrine falcon tucking its wings and diving rapidly through the open sky",
-            "stock_query": "peregrine falcon diving"
-          },
-          {
-            "text": "So the fastest animal on Earth isn't a runner at all. It's a bird that falls with style. Which of these five do you think you could beat in a race? And if you still picked the cheetah,",
-            "badge": "Bonus",
-            "label": "Outro",
-            "stock_queries": [
-              "person running on track",
-              "cheetah resting looking at camera"
-            ],
-            "image_prompt": "A cheetah resting peacefully in the grass and looking directly at the camera",
-            "stock_query": "person running on track"
-          }
-        ],
-        "key_facts": [
-          "The pronghorn runs at about 55 mph.",
-          "The cheetah sprints at about 65 mph.",
-          "The free-tailed bat flies level at about 100 mph.",
-          "The golden eagle dives at over 150 mph.",
-          "The peregrine falcon dives at about 240 mph."
-        ],
-        "format": "ranking",
-        "tone": "normal",
-        "category": "27",
-        "script": "You'd guess the cheetah is the fastest animal on Earth. You'd be wrong, and number one isn't even on land. Here are the five fastest animals ever clocked, from the ground to the sky. Number five, the pronghorn. This North American runner hits about fifty-five miles an hour. Number four, the cheetah. Its fastest reliably measured sprint is about sixty-five miles an hour. Number three, the free-tailed bat. Scientists tracked it at about a hundred miles an hour, flying level. Number two, the golden eagle. In a dive, it can top one hundred fifty miles an hour. Number one, the peregrine falcon. It tucks its wings into a teardrop and dives at about two hundred forty miles an hour. So the fastest animal on Earth isn't a runner at all. It's a bird that falls with style. Which of these five do you think you could beat in a race? And if you still picked the cheetah,",
-        "plan_id": "P2026-10-23-02",
-        "shot_plan": [
-          {
-            "subject": "cheetah running fast on grass",
-            "queries": [
-              {
-                "q": "cheetah running sprint",
-                "must": [
-                  "cheetah"
-                ]
-              },
-              {
-                "q": "fast animal",
-                "must": [
-                  "animal"
-                ]
-              },
-              {
-                "q": "wildlife running",
-                "must": [
-                  "wildlife"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "pronghorn walking in grassland",
-            "queries": [
-              {
-                "q": "pronghorn animal",
-                "must": [
-                  "pronghorn"
-                ]
-              },
-              {
-                "q": "north american mammal",
-                "must": [
-                  "mammal"
-                ]
-              },
-              {
-                "q": "grassland animal",
-                "must": [
-                  "grassland"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "cheetah running fast",
-            "queries": [
-              {
-                "q": "cheetah sprint",
-                "must": [
-                  "cheetah"
-                ]
-              },
-              {
-                "q": "fast cheetah",
-                "must": [
-                  "cheetah"
-                ]
-              },
-              {
-                "q": "running big cat",
-                "must": [
-                  "cat"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "bat flying in sky",
-            "queries": [
-              {
-                "q": "free-tailed bat flying",
-                "must": [
-                  "bat"
-                ]
-              },
-              {
-                "q": "bat in flight",
-                "must": [
-                  "bat"
-                ]
-              },
-              {
-                "q": "flying mammal",
-                "must": [
-                  "mammal"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "golden eagle diving from sky",
-            "queries": [
-              {
-                "q": "golden eagle dive",
-                "must": [
-                  "eagle"
-                ]
-              },
-              {
-                "q": "eagle in flight",
-                "must": [
-                  "eagle"
-                ]
-              },
-              {
-                "q": "bird of prey",
-                "must": [
-                  "bird"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "peregrine falcon diving rapidly",
-            "queries": [
-              {
-                "q": "peregrine falcon dive",
-                "must": [
-                  "falcon"
-                ]
-              },
-              {
-                "q": "falcon in flight",
-                "must": [
-                  "falcon"
-                ]
-              },
-              {
-                "q": "fast bird",
-                "must": [
-                  "bird"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "peregrine falcon flying in sky",
-            "queries": [
-              {
-                "q": "peregrine falcon flying",
-                "must": [
-                  "falcon"
-                ]
-              },
-              {
-                "q": "bird flying",
-                "must": [
-                  "bird"
-                ]
-              },
-              {
-                "q": "aerial wildlife",
-                "must": [
-                  "wildlife"
-                ]
-              }
-            ]
-          }
-        ],
-        "broll": [
-          "wildlife",
-          "animal sprint",
-          "nature speed"
-        ],
-        "visual_style": "dynamic wildlife countdowns featuring fast animals with clear speed rankings and surprising facts",
-        "visual_refs": [
-          "Top 4 FASTEST Animals on Earth That Don\u2019t Even Need Wheels #pets #animals #speed",
-          "Top 10 Fastest Land Animals in the World part 1 #short #animalquiz #wildlife #wildanimals",
-          "&quot;Top 5 Fastest Animals in the World You Must Know \ud83e\udd2f\ud83d\ude31&quot;",
-          "Top 10 fastest land animals on earth",
-          "The Fastest Land Animals Ranked\u2026 #1 Isn&#39;t Even Close #shorts",
-          "Fastest animal on earth"
-        ],
-        "voice": "en-US-AndrewMultilingualNeural",
-        "visual_report": {
-          "shots": 9,
-          "checked": 9,
-          "unchecked": 0,
-          "filler": 0,
-          "ai": 0
-        }
-      },
-      "credits": [
-        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AndrewMultilingualNeural).",
-        "Stock footage/photos (Pexels/Pixabay Content License): Solarselle77 (Pixabay) https://pixabay.com/videos/id-307555/; mdherren (Pixabay) https://pixabay.com/videos/id-43293/; Sonic_Art (Pixabay) https://pixabay.com/photos/cheetah-running-speed-wildlife-10194007/; DrZoltan (Pixabay) https://pixabay.com/photos/cheetah-africa-namibia-cat-run-2859581/; BuchArena (Pixabay) https://pixabay.com/photos/cheetah-run-speed-savannah-10493645/",
-        "U.S. Fish and Wildlife Service - Midwest Region / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:Bat_in_flight_(53718452025).jpg",
-        "USFWS Mountain-Prairie / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:Rough-Legged_Hawk_on_Seedskadee_NWR_(22988829524).jpg",
-        "Caleb Putnam / Wikimedia Commons (CC BY 2.0) https://commons.wikimedia.org/wiki/File:Peregrine_Falcon_in_dive,_Miller_Beach,_Indiana,_September_29,_2012_(8039548991).jpg",
-        "Tony Hisgett from Birmingham, UK / Wikimedia Commons (CC BY 2.0) https://commons.wikimedia.org/wiki/File:Peregrine_Falcon_(5696218357).jpg"
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-23",
-        "name": "2026-10-23-2-v0.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-23",
-        "name": "2026-10-23-2-v0-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,109 --> 00:00:02,473\nYou'd guess the cheetah is the fastest\n\n2\n00:00:02,473 --> 00:00:04,959\nanimal on Earth You'd be wrong and\n\n3\n00:00:04,959 --> 00:00:07,255\nnumber one isn't even on land Here\n\n4\n00:00:07,255 --> 00:00:10,584\nare the five fastest animals ever clocked\n\n5\n00:00:10,584 --> 00:00:12,500\nfrom the ground to the sky Number\n\n6\n00:00:12,500 --> 00:00:15,693\nfive the pronghorn This North American runner\n\n7\n00:00:15,693 --> 00:00:19,103\nhits about fifty-five miles an hour Number\n\n8\n00:00:19,103 --> 00:00:22,785\nfour the cheetah Its fastest reliably measured\n\n9\n00:00:22,785 --> 00:00:26,033\nsprint is about sixty-five miles an hour\n\n10\n00:00:26,033 --> 00:00:29,375\nNumber three the free-tailed bat Scientists\n\n11\n00:00:29,375 --> 00:00:31,073\ntracked it at about a hundred miles\n\n12\n00:00:31,073 --> 00:00:34,266\nan hour flying level Number two the\n\n13\n00:00:34,266 --> 00:00:36,549\ngolden eagle In a dive it can\n\n14\n00:00:36,549 --> 00:00:38,832\ntop one hundred fifty miles an hour\n\n15\n00:00:38,832 --> 00:00:41,984\nNumber one the peregrine falcon It tucks\n\n16\n00:00:41,984 --> 00:00:44,511\nits wings into a teardrop and dives\n\n17\n00:00:44,511 --> 00:00:46,155\nat about two hundred forty miles an\n\n18\n00:00:46,155 --> 00:00:49,076\nhour So the fastest animal on Earth\n\n19\n00:00:49,076 --> 00:00:50,693\nisn't a runner at all It's a\n\n20\n00:00:50,693 --> 00:00:52,894\nbird that falls with style Which of\n\n21\n00:00:52,894 --> 00:00:54,484\nthese five do you think you could\n\n22\n00:00:54,484 --> 00:00:56,304\nbeat in a race And if you\n\n23\n00:00:56,304 --> 00:00:58,376\nstill picked the cheetah\n",
-      "tg_msg": 718,
-      "opts_msg": 720,
-      "approved_by": "auto",
-      "quota_note": "2026-10-25",
-      "description_full": "These are the top 5 fastest animals on Earth, ranked by measured top speed. The fastest animal in the world isn't the cheetah: it's a falcon diving at about 240 mph.\n\nIn this Short: the pronghorn, the cheetah, the free-tailed bat, the golden eagle and the peregrine falcon, counted down from slowest to fastest.\n\nSources:\nhttps://en.wikipedia.org/wiki/Fastest_animals\nhttps://en.wikipedia.org/wiki/List_of_birds_by_flight_speed\n\n#shorts #animals #fastestanimal #top5\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AndrewMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): Solarselle77 (Pixabay) https://pixabay.com/videos/id-307555/; mdherren (Pixabay) https://pixabay.com/videos/id-43293/; Sonic_Art (Pixabay) https://pixabay.com/photos/cheetah-running-speed-wildlife-10194007/; DrZoltan (Pixabay) https://pixabay.com/photos/cheetah-africa-namibia-cat-run-2859581/; BuchArena (Pixabay) https://pixabay.com/photos/cheetah-run-speed-savannah-10493645/\nU.S. Fish and Wildlife Service - Midwest Region / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:Bat_in_flight_(53718452025).jpg\nUSFWS Mountain-Prairie / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:Rough-Legged_Hawk_on_Seedskadee_NWR_(22988829524).jpg\nCaleb Putnam / Wikimedia Commons (CC BY 2.0) https://commons.wikimedia.org/wiki/File:Peregrine_Falcon_in_dive,_Miller_Beach,_Indiana,_September_29,_2012_(8039548991).jpg\nTony Hisgett from Birmingham, UK / Wikimedia Commons (CC BY 2.0) https://commons.wikimedia.org/wiki/File:Peregrine_Falcon_(5696218357).jpg\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/bxzhJ5B7Ykc",
-          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-25T09:54:04.063237+00:00",
-      "slot": "2026-10-25T18:15:00+00:00"
-    },
-    "2026-10-23-3": {
-      "topic": {
-        "title": "Top 5 Funniest Animal Group Names \ud83d\ude02",
-        "angle": "Today's breakout titles lean on one surprising answer to a simple question ('How Electrical Outlets Work', 58,949x median), and a funny countdown of real-but-fake-sounding names gives five of those surprises in thirty seconds, family-friendly.",
-        "format": "funny",
-        "tone": "funny",
-        "virality_score": 7,
-        "trend_source": "How Electrical Outlets Work (58,949x median, The Question); 'I NEED TO WIN' (233.6x median, comedy)",
-        "plan_id": "P2026-10-23-03"
-      },
-      "status": "published",
-      "by": "auto",
-      "updated": "2026-10-25T09:54:11.715974+00:00",
-      "redos": 0,
-      "package": {
-        "primary_keyword": "funny animal group names",
-        "title": "Top 5 Funniest Animal Group Names \ud83d\ude02",
-        "hook_text": "THESE ARE REAL",
-        "thumbnail_text": "SERIOUS BUSINESS",
-        "description": "These funny animal group names are all real: the top 5 funniest collective nouns for animals. From a bloat of hippos to what a group of ferrets is called, here's the countdown.\n\nIn this Short: a bloat of hippos, a tower of giraffes, a crash of rhinos, a prickle of porcupines and a business of ferrets.\n\nSources:\nhttps://www.dictionary.com/e/strange-animal-groups-listicle/\nhttps://a-z-animals.com/articles/groups-of-animal-names-the-big-list-of-collective-nouns/\nhttps://www.grammar-monster.com/list_of_collective_nouns_for_animals.htm",
-        "hashtags": [
-          "#shorts",
-          "#funny",
-          "#animals",
-          "#funfacts"
-        ],
-        "tags": [
-          "funny animal group names",
-          "animal group names",
-          "collective nouns for animals",
-          "collective nouns for groups of animals",
-          "group of ferrets",
-          "collective name of animals",
-          "animal group names in english",
-          "animals and their group names",
-          "bloat of hippos",
-          "crash of rhinos",
-          "collective nouns",
-          "tower of giraffes",
-          "funny animal facts",
-          "business of ferrets",
-          "prickle of porcupines",
-          "group of hippos called",
-          "what is a group of animals called"
-        ],
-        "pinned_comment": "Bonus fact: a group of cats already has a name, a clowder. But that's no fun, so what would YOU call a group of cats?",
-        "scenes": [
-          {
-            "text": "You know a pack of wolves, but did you know a group of hippos is called a bloat? It gets sillier. Here are five real names for groups of animals, counted down to the funniest.",
-            "badge": "",
-            "label": "THESE ARE REAL",
-            "stock_queries": [
-              "pack of wolves walking through snow",
-              "hippos floating together in a river"
-            ],
-            "image_prompt": "Cinematic shot of a pack of wolves walking through a snowy forest, bright natural lighting, highly detailed.",
-            "stock_query": "pack of wolves walking through snow"
-          },
-          {
-            "text": "Number five, a bloat of hippos. When you weigh as much as a car and nap in a river all day, you've earned it.",
-            "badge": "",
-            "label": "#5 A bloat of hippos",
-            "stock_queries": [
-              "hippos yawning in shallow water",
-              "hippos lounging in a river"
-            ],
-            "image_prompt": "Wide shot of a bloat of hippos lounging lazily in a muddy African river, sunny day, wildlife documentary style.",
-            "stock_query": "hippos yawning in shallow water"
-          },
-          {
-            "text": "Number four, a tower of giraffes. Honestly, that's less a name and more a description.",
-            "badge": "",
-            "label": "#4 A tower of giraffes",
-            "stock_queries": [
-              "group of giraffes on savanna",
-              "giraffes standing together"
-            ],
-            "image_prompt": "A tower of giraffes standing tall together against the sunset on the African savanna, beautiful warm colors.",
-            "stock_query": "group of giraffes on savanna"
-          },
-          {
-            "text": "Number three, a crash of rhinos. That sounds less like a group and more like a warning.",
-            "badge": "",
-            "label": "#3 A crash of rhinos",
-            "stock_queries": [
-              "rhinos walking on dry grassland",
-              "rhinoceros herd together"
-            ],
-            "image_prompt": "A crash of rhinos walking purposefully across a dusty grassland, low angle shot, cinematic wildlife photography.",
-            "stock_query": "rhinos walking on dry grassland"
-          },
-          {
-            "text": "Number two, a prickle of porcupines. Group hugs are not on the schedule.",
-            "badge": "",
-            "label": "#2 A prickle of porcupines",
-            "stock_queries": [
-              "porcupine waddling through grass",
-              "porcupine close up"
-            ],
-            "image_prompt": "A cute porcupine waddling through green grass, detailed quills, soft natural lighting.",
-            "stock_query": "porcupine waddling through grass"
-          },
-          {
-            "text": "Number one, a business of ferrets. Picture them in tiny ties, holding a very serious meeting about snacks.",
-            "badge": "",
-            "label": "#1 A business of ferrets",
-            "stock_queries": [
-              "ferrets playing tumbling",
-              "ferrets together indoors"
-            ],
-            "image_prompt": "A business of ferrets tumbling and playing together on a wooden floor, curious expressions, macro lens shot.",
-            "stock_query": "ferrets playing tumbling"
-          },
-          {
-            "text": "So that's five real group names, and every one sounds like someone had way too much fun writing the dictionary.",
-            "badge": "",
-            "label": "All real words",
-            "stock_queries": [
-              "pile of old dictionaries",
-              "dictionary pages turning"
-            ],
-            "image_prompt": "A tall stack of old vintage dictionaries on a wooden desk, warm cozy study background.",
-            "stock_query": "pile of old dictionaries"
-          },
-          {
-            "text": "If you got to name a group of cats, what would you call it? And next time you see a pack of wolves,",
-            "badge": "",
-            "label": "Name a group of cats?",
-            "stock_queries": [
-              "cats sitting together on sofa",
-              "wolf pack walking toward camera"
-            ],
-            "image_prompt": "Multiple cute cats sitting together on a cozy sofa looking at the camera, soft indoor lighting.",
-            "stock_query": "cats sitting together on sofa"
-          }
-        ],
-        "key_facts": [
-          "A group of hippos is called a bloat",
-          "A group of giraffes is called a tower",
-          "A group of rhinos is called a crash",
-          "A group of porcupines is called a prickle",
-          "A group of ferrets is called a business",
-          "A group of wolves is called a pack"
-        ],
-        "format": "funny",
-        "tone": "funny",
-        "category": "23",
-        "script": "You know a pack of wolves, but did you know a group of hippos is called a bloat? It gets sillier. Here are five real names for groups of animals, counted down to the funniest. Number five, a bloat of hippos. When you weigh as much as a car and nap in a river all day, you've earned it. Number four, a tower of giraffes. Honestly, that's less a name and more a description. Number three, a crash of rhinos. That sounds less like a group and more like a warning. Number two, a prickle of porcupines. Group hugs are not on the schedule. Number one, a business of ferrets. Picture them in tiny ties, holding a very serious meeting about snacks. So that's five real group names, and every one sounds like someone had way too much fun writing the dictionary. If you got to name a group of cats, what would you call it? And next time you see a pack of wolves,",
-        "plan_id": "P2026-10-23-03",
-        "shot_plan": [
-          {
-            "subject": "wolf pack",
-            "queries": [
-              {
-                "q": "wolf pack",
-                "must": [
-                  "wolf"
-                ]
-              },
-              {
-                "q": "wolves running",
-                "must": [
-                  "wolves"
-                ]
-              },
-              {
-                "q": "gray wolf",
-                "must": [
-                  "animal"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "hippopotamus in water",
-            "queries": [
-              {
-                "q": "hippopotamus river",
-                "must": [
-                  "hippo"
-                ]
-              },
-              {
-                "q": "hippo swimming",
-                "must": [
-                  "hippopotamus"
-                ]
-              },
-              {
-                "q": "water animal",
-                "must": [
-                  "water"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "giraffes eating leaves",
-            "queries": [
-              {
-                "q": "tower of giraffes",
-                "must": [
-                  "giraffe"
-                ]
-              },
-              {
-                "q": "giraffes savanna",
-                "must": [
-                  "giraffes"
-                ]
-              },
-              {
-                "q": "tall animal",
-                "must": [
-                  "animal"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "rhinoceros charging",
-            "queries": [
-              {
-                "q": "crash of rhinos",
-                "must": [
-                  "rhino"
-                ]
-              },
-              {
-                "q": "rhinoceros running",
-                "must": [
-                  "rhinoceros"
-                ]
-              },
-              {
-                "q": "wild animal",
-                "must": [
-                  "animal"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "porcupine walking",
-            "queries": [
-              {
-                "q": "prickle of porcupines",
-                "must": [
-                  "porcupine"
-                ]
-              },
-              {
-                "q": "porcupine quills",
-                "must": [
-                  "quills"
-                ]
-              },
-              {
-                "q": "spiky animal",
-                "must": [
-                  "animal"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "ferrets playing",
-            "queries": [
-              {
-                "q": "business of ferrets",
-                "must": [
-                  "ferret"
-                ]
-              },
-              {
-                "q": "ferrets running",
-                "must": [
-                  "ferrets"
-                ]
-              },
-              {
-                "q": "cute animal",
-                "must": [
-                  "animal"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "dictionary book",
-            "queries": [
-              {
-                "q": "dictionary book",
-                "must": [
-                  "dictionary"
-                ]
-              },
-              {
-                "q": "reading book",
-                "must": [
-                  "book"
-                ]
-              },
-              {
-                "q": "pages turning",
-                "must": [
-                  "paper"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "domestic cat sitting",
-            "queries": [
-              {
-                "q": "domestic cat",
-                "must": [
-                  "cat"
-                ]
-              },
-              {
-                "q": "cute kitten",
-                "must": [
-                  "kitten"
-                ]
-              },
-              {
-                "q": "feline pet",
-                "must": [
-                  "pet"
-                ]
-              }
-            ]
-          }
-        ],
-        "broll": [
-          "animal",
-          "wildlife",
-          "nature"
-        ],
-        "visual_style": "Fast-paced, family-friendly countdowns featuring real animals with surprising and funny group names, illustrated with clear stock footage clips.",
-        "visual_refs": [
-          "Funny Group Chat name ideas \ud83d\ude02\ud83e\udd23\ud83d\udcad #groupnameideas #friendship #bff",
-          "GROUP  NAME IDEAS\ud83c\udf38/ #group #names #fun #shorts\ud83c\udf80\ud83c\udf37",
-          "kindergarteners GO crazy \ud83e\udd2a Leo is now streaming on Netflix!",
-          "Funny Contact names for best friend \ud83d\udc64#funnyshorts#bestfriend#aesthetic#fyptiktok",
-          "friends group name ideas (funny name) \ud83c\udf19\ud83d\ude02\ud83e\udd8b",
-          "10 animals name in english || wild pet animals name || name of wild animals || \u091c\u0902\u0917\u0932\u0940 \u091c\u093e\u0928\u0935\u0930\u094b\u0902 \u0915\u0947 \u0928\u093e\u092e"
-        ],
-        "voice": "en-US-EmmaMultilingualNeural",
-        "visual_report": {
-          "shots": 12,
-          "checked": 12,
-          "unchecked": 0,
-          "filler": 0,
-          "ai": 0
-        }
-      },
-      "credits": [
-        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-EmmaMultilingualNeural).",
-        "Stock footage/photos (Pexels/Pixabay Content License): doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-334768/; Joolsmagools (Pixabay) https://pixabay.com/videos/id-216389/; Joolsmagools (Pixabay) https://pixabay.com/videos/id-215533/; TheOtherKev (Pixabay) https://pixabay.com/photos/giraffe-long-neck-horns-long-legs-4366005/; garten-gg (Pixabay) https://pixabay.com/photos/animals-rhino-pachyderm-africa-4454252/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-937/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-939/; eluxirphoto (Pixabay) https://pixabay.com/photos/animal-ferret-mammal-species-fauna-4534480/; ElenLackner (Pixabay) https://pixabay.com/videos/id-21941/; NickyPe (Pixabay) https://pixabay.com/videos/id-145308/; Julianza (Pixabay) https://pixabay.com/videos/id-3092/; Marsel_beijing (Pixabay) https://pixabay.com/videos/id-132493/"
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-23",
-        "name": "2026-10-23-3-v0.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-23",
-        "name": "2026-10-23-3-v0-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,095 --> 00:00:01,848\nYou know a pack of wolves but\n\n2\n00:00:01,848 --> 00:00:03,302\ndid you know a group of hippos\n\n3\n00:00:03,302 --> 00:00:06,209\nis called a bloat It gets sillier\n\n4\n00:00:06,209 --> 00:00:08,057\nHere are five real names for groups\n\n5\n00:00:08,057 --> 00:00:11,318\nof animals counted down to the funniest\n\n6\n00:00:11,318 --> 00:00:14,008\nNumber five a bloat of hippos When\n\n7\n00:00:14,008 --> 00:00:15,367\nyou weigh as much as a car\n\n8\n00:00:15,367 --> 00:00:17,255\nand nap in a river all day\n\n9\n00:00:17,255 --> 00:00:20,000\nyou've earned it Number four a tower\n\n10\n00:00:20,000 --> 00:00:23,288\nof giraffes Honestly that's less a name\n\n11\n00:00:23,288 --> 00:00:26,087\nand more a description Number three a\n\n12\n00:00:26,087 --> 00:00:28,818\ncrash of rhinos That sounds less like\n\n13\n00:00:28,818 --> 00:00:31,046\na group and more like a warning\n\n14\n00:00:31,046 --> 00:00:34,416\nNumber two a prickle of porcupines Group\n\n15\n00:00:34,416 --> 00:00:36,929\nhugs are not on the schedule Number\n\n16\n00:00:36,929 --> 00:00:40,231\none a business of ferrets Picture them\n\n17\n00:00:40,231 --> 00:00:43,016\nin tiny ties holding a very serious\n\n18\n00:00:43,016 --> 00:00:45,951\nmeeting about snacks So that's five real\n\n19\n00:00:45,951 --> 00:00:48,315\ngroup names and every one sounds like\n\n20\n00:00:48,315 --> 00:00:50,299\nsomeone had way too much fun writing\n\n21\n00:00:50,299 --> 00:00:52,514\nthe dictionary If you got to name\n\n22\n00:00:52,514 --> 00:00:54,402\na group of cats what would you\n\n23\n00:00:54,402 --> 00:00:56,481\ncall it And next time you see\n\n24\n00:00:56,481 --> 00:00:58,036\na pack of wolves\n",
-      "tg_msg": 721,
-      "opts_msg": 723,
-      "approved_by": "auto",
-      "quota_note": "2026-10-25",
-      "description_full": "These funny animal group names are all real: the top 5 funniest collective nouns for animals. From a bloat of hippos to what a group of ferrets is called, here's the countdown.\n\nIn this Short: a bloat of hippos, a tower of giraffes, a crash of rhinos, a prickle of porcupines and a business of ferrets.\n\nSources:\nhttps://www.dictionary.com/e/strange-animal-groups-listicle/\nhttps://a-z-animals.com/articles/groups-of-animal-names-the-big-list-of-collective-nouns/\nhttps://www.grammar-monster.com/list_of_collective_nouns_for_animals.htm\n\n#shorts #funny #animals #funfacts\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-EmmaMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-334768/; Joolsmagools (Pixabay) https://pixabay.com/videos/id-216389/; Joolsmagools (Pixabay) https://pixabay.com/videos/id-215533/; TheOtherKev (Pixabay) https://pixabay.com/photos/giraffe-long-neck-horns-long-legs-4366005/; garten-gg (Pixabay) https://pixabay.com/photos/animals-rhino-pachyderm-africa-4454252/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-937/; Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-939/; eluxirphoto (Pixabay) https://pixabay.com/photos/animal-ferret-mammal-species-fauna-4534480/; ElenLackner (Pixabay) https://pixabay.com/videos/id-21941/; NickyPe (Pixabay) https://pixabay.com/videos/id-145308/; Julianza (Pixabay) https://pixabay.com/videos/id-3092/; Marsel_beijing (Pixabay) https://pixabay.com/videos/id-132493/\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/tRMq90g5g-c",
-          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-25T09:54:11.715984+00:00",
-      "slot": "2026-10-25T23:15:00+00:00"
-    },
-    "2026-10-23-4": {
-      "topic": {
-        "title": "How 15 GPS Rocks Solved a Desert Mystery",
-        "angle": "Zack D. Films' true-story Shorts that end in a clean, surprising explanation are pulling strong views this week (e.g. 'How They Filmed An Invisible Man In Snow', 28.4M, breakout 2.11), and this story has a seventy-year mystery with a one-word answer: ice.",
-        "format": "story",
-        "tone": "normal",
-        "virality_score": 7,
-        "trend_source": "mystery-with-a-mechanism shape of How They Filmed An Invisible Man In Snow (Zack D. Films, breakout 2.11); How Electrical Outlets Work (58,949x median)",
-        "plan_id": "P2026-10-23-04"
-      },
-      "status": "published",
-      "by": "auto",
-      "updated": "2026-10-25T09:54:18.756308+00:00",
-      "redos": 0,
-      "package": {
-        "primary_keyword": "death valley sailing stones",
-        "title": "How 15 GPS Rocks Solved a Desert Mystery",
-        "hook_text": "NOBODY PUSHED THEM",
-        "thumbnail_text": "ICE DID IT",
-        "description": "This is the true story of how the sailing stones move: the moving rocks of Racetrack Playa in Death Valley. For seventy years nobody knew, until GPS trackers caught thin ice and wind pushing them in 2013.\n\nIn this Short: the mystery trails, the fifteen GPS rocks, the frozen pond, and how ice and a light breeze moved the stones.\n\nThis is a true story.\n\nSources:\nhttps://ucnature.org/mystery-death-valley-sailing-stones-solved/\nhttps://www.snexplores.org/article/solved-mystery-sailing-rocks\nhttps://www.nationalparkstraveler.org/node/9372",
-        "hashtags": [
-          "#shorts",
-          "#truestory",
-          "#deathvalley",
-          "#science",
-          "#storytime"
-        ],
-        "tags": [
-          "death valley sailing stones",
-          "moving rocks death valley",
-          "death valley moving stones",
-          "racetrack playa death valley",
-          "sailing stones",
-          "racetrack playa",
-          "sailing stones moving",
-          "true story",
-          "death valley",
-          "sailing stones explained",
-          "rocks that move by themselves",
-          "how do the sailing stones move",
-          "mystery solved",
-          "nature mysteries"
-        ],
-        "pinned_comment": "Bonus fact: the moving ice panels were only a few millimeters thick, yet they pushed rocks across the mud. What nature mystery would you want explained like this?",
-        "scenes": [
-          {
-            "text": "You'd think rocks can't move by themselves. In Death Valley, they left tracks hundreds of feet long.",
-            "badge": "NOBODY P",
-            "label": "NOBODY PUSHED THEM",
-            "stock_queries": [
-              "rock on cracked desert lakebed with trail",
-              "desert lakebed surrounded by mountains"
-            ],
-            "image_prompt": "Cinematic low angle shot of a dark rock on cracked pale desert mud with a long curving trail behind it, Death Valley Racetrack Playa, bright daylight, photorealistic.",
-            "stock_query": "rock on cracked desert lakebed with trail"
-          },
-          {
-            "text": "Here's the true story of how scientists finally caught them moving. On a dry, flat lakebed called Racetrack Playa, rocks sit at the end of long, wandering trails. Nobody had ever seen one move. Since the nineteen-forties, scientists wondered what pushed them. Wind? Mud? Something stranger?",
-            "badge": "Racetrac",
-            "label": "Racetrack Playa",
-            "stock_queries": [
-              "flat dry desert lakebed cracked mud",
-              "empty desert lakebed at sunrise"
-            ],
-            "image_prompt": "Wide drone view of a flat, dry desert lakebed with symmetrical rock trails crisscrossing the dried mud flats, surrounded by distant mountains.",
-            "stock_query": "flat dry desert lakebed cracked mud"
-          },
-          {
-            "text": "So a team of researchers fitted fifteen rocks with GPS trackers and set up cameras. They thought they might be waiting for years.",
-            "badge": "15 GPS r",
-            "label": "15 GPS rocks",
-            "stock_queries": [
-              "researcher holding small GPS device outdoors",
-              "time-lapse of clouds over desert"
-            ],
-            "image_prompt": "Close-up of a researcher's hands adjusting a small rugged GPS tracking device attached to a weathered desert stone on cracked mud.",
-            "stock_query": "researcher holding small GPS device outdoors"
-          },
-          {
-            "text": "In December twenty-thirteen, rain made a shallow pond there, and it froze overnight. In the sun, the ice cracked into huge panels thinner than a phone.",
-            "badge": "Dec 2013",
-            "label": "Dec 2013: frozen pond",
-            "stock_queries": [
-              "rain falling into shallow desert puddle",
-              "thin sheet of ice cracking on water"
-            ],
-            "image_prompt": "Shallow water on a desert lakebed partially covered by a thin, transparent sheet of ice cracking into geometric panels under bright morning sunlight.",
-            "stock_query": "rain falling into shallow desert puddle"
-          },
-          {
-            "text": "A light breeze pushed the panels, and they shoved the rocks along a few inches per second.",
-            "badge": "Wind + i",
-            "label": "Wind + ice = moving rocks",
-            "stock_queries": [
-              "wind rippling across shallow water ice",
-              "rock at the end of its trail sunset"
-            ],
-            "image_prompt": "A thin sheet of floating ice being pushed by a gentle wind across a shallow desert puddle, sliding a heavy rock across the mud underneath.",
-            "stock_query": "wind rippling across shallow water ice"
-          },
-          {
-            "text": "So the rocks never moved themselves. Thin ice and a light wind did the pushing. Would you have guessed ice, in one of the hottest places on Earth? Because for a long time, everyone just figured",
-            "badge": "Would yo",
-            "label": "Would you guess ice?",
-            "stock_queries": [
-              "heat shimmer over desert road",
-              "rock on cracked desert lakebed trail"
-            ],
-            "image_prompt": "Intense heat shimmer over a vast dry desert salt flat with distant mountains blurred by the rising heat waves.",
-            "stock_query": "heat shimmer over desert road"
-          }
-        ],
-        "key_facts": [
-          "Rocks in Death Valley's Racetrack Playa leave tracks hundreds of feet long without being manually pushed.",
-          "Scientists wondered what caused the movement since the 1940s.",
-          "Researchers fitted fifteen rocks with GPS trackers and cameras.",
-          "In December 2013, rain created a shallow pond that froze overnight.",
-          "The ice cracked into thin panels that were pushed by a light breeze, sliding the rocks a few inches per second.",
-          "Thin ice and wind were proven to be the cause of the moving rocks."
-        ],
-        "format": "story",
-        "tone": "normal",
-        "category": "24",
-        "script": "You'd think rocks can't move by themselves. In Death Valley, they left tracks hundreds of feet long. Here's the true story of how scientists finally caught them moving. On a dry, flat lakebed called Racetrack Playa, rocks sit at the end of long, wandering trails. Nobody had ever seen one move. Since the nineteen-forties, scientists wondered what pushed them. Wind? Mud? Something stranger? So a team of researchers fitted fifteen rocks with GPS trackers and set up cameras. They thought they might be waiting for years. In December twenty-thirteen, rain made a shallow pond there, and it froze overnight. In the sun, the ice cracked into huge panels thinner than a phone. A light breeze pushed the panels, and they shoved the rocks along a few inches per second. So the rocks never moved themselves. Thin ice and a light wind did the pushing. Would you have guessed ice, in one of the hottest places on Earth? Because for a long time, everyone just figured",
-        "plan_id": "P2026-10-23-04",
-        "shot_plan": [
-          {
-            "subject": "rocks with long tracks in a desert",
-            "queries": [
-              {
-                "q": "desert rock tracks",
-                "must": [
-                  "rock"
-                ]
-              },
-              {
-                "q": "rock trail desert",
-                "must": [
-                  "desert"
-                ]
-              },
-              {
-                "q": "moving rocks",
-                "must": [
-                  "stone"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "dry flat lakebed with stones and trails",
-            "queries": [
-              {
-                "q": "dry lakebed",
-                "must": [
-                  "lakebed"
-                ]
-              },
-              {
-                "q": "playa desert",
-                "must": [
-                  "playa"
-                ]
-              },
-              {
-                "q": "desert flats",
-                "must": [
-                  "desert"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "researchers with GPS trackers and cameras in desert",
-            "queries": [
-              {
-                "q": "scientists with GPS equipment",
-                "must": [
-                  "scientist"
-                ]
-              },
-              {
-                "q": "researcher desert tracker",
-                "must": [
-                  "researcher"
-                ]
-              },
-              {
-                "q": "gps tracker device",
-                "must": [
-                  "tracker"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "shallow pond freezing into thin ice panels",
-            "queries": [
-              {
-                "q": "frozen pond ice sheet",
-                "must": [
-                  "ice"
-                ]
-              },
-              {
-                "q": "ice cracked water",
-                "must": [
-                  "pond"
-                ]
-              },
-              {
-                "q": "thin ice sheet",
-                "must": [
-                  "water"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "wind pushing ice panels against rocks",
-            "queries": [
-              {
-                "q": "wind pushing ice sheet",
-                "must": [
-                  "wind"
-                ]
-              },
-              {
-                "q": "ice moving on water",
-                "must": [
-                  "ice"
-                ]
-              },
-              {
-                "q": "frozen lake wind",
-                "must": [
-                  "lake"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "hot desert landscape with rocks and ice melting",
-            "queries": [
-              {
-                "q": "hot desert landscape",
-                "must": [
-                  "desert"
-                ]
-              },
-              {
-                "q": "sun over desert",
-                "must": [
-                  "sun"
-                ]
-              },
-              {
-                "q": "arid landscape",
-                "must": [
-                  "sand"
-                ]
-              }
-            ]
-          }
-        ],
-        "broll": [
-          "desert landscape",
-          "rock trail",
-          "dry lakebed"
-        ],
-        "visual_style": "Cinematic nature documentary footage of desert landscapes, tracking shots of rocks with trails, and scientific experiments in dry lakebeds.",
-        "visual_refs": [
-          "These Rocks Move BY THEMSELVES \ud83d\ude31 (Mystery SOLVED)",
-          "Death Valley&#39;s Moving Rocks Mystery Finally Solved! Scientists Left Speechless",
-          "The Sailing Stones of Death Valley: The Mystery Solved",
-          "How Do 700-Pound Rocks Move Across A Desert By Themselves?",
-          "The Rocks That Cross A Desert Alone - And The Century Nobody Saw It Happen",
-          "The Mystery of the Sailing Stones explained in 77 seconds! #deathvalley #nature"
-        ],
-        "voice": "en-AU-WilliamMultilingualNeural",
-        "visual_report": {
-          "shots": 7,
-          "checked": 7,
-          "unchecked": 0,
-          "filler": 4,
-          "ai": 0
-        }
-      },
-      "credits": [
-        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-AU-WilliamMultilingualNeural).",
-        "Stock footage/photos (Pexels/Pixabay Content License): Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-316/; Arystan_001 (Pixabay) https://pixabay.com/videos/id-215026/",
-        "Romain Guy from San Francisco, USA / Wikimedia Commons (CC0) https://commons.wikimedia.org/wiki/File:Sailing_Stone_(3979385396).jpg"
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-23",
-        "name": "2026-10-23-4-v0.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-23",
-        "name": "2026-10-23-4-v0-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,050 --> 00:00:02,638\nYou'd think rocks can't move by themselves\n\n2\n00:00:02,638 --> 00:00:04,875\nIn Death Valley they left tracks hundreds\n\n3\n00:00:04,875 --> 00:00:07,062\nof feet long Here's the true story\n\n4\n00:00:07,062 --> 00:00:09,713\nof how scientists finally caught them moving\n\n5\n00:00:09,713 --> 00:00:12,175\nOn a dry flat lakebed called Racetrack\n\n6\n00:00:12,175 --> 00:00:14,025\nPlaya rocks sit at the end of\n\n7\n00:00:14,025 --> 00:00:17,500\nlong wandering trails Nobody had ever seen\n\n8\n00:00:17,500 --> 00:00:20,900\none move Since the nineteen-forties scientists\n\n9\n00:00:20,900 --> 00:00:24,887\nwondered what pushed them Wind Mud Something\n\n10\n00:00:24,887 --> 00:00:27,438\nstranger So a team of researchers fitted\n\n11\n00:00:27,438 --> 00:00:29,750\nfifteen rocks with GPS trackers and set\n\n12\n00:00:29,750 --> 00:00:31,812\nup cameras They thought they might be\n\n13\n00:00:31,812 --> 00:00:34,800\nwaiting for years In December twenty-thirteen\n\n14\n00:00:34,800 --> 00:00:36,638\nrain made a shallow pond there and\n\n15\n00:00:36,638 --> 00:00:39,275\nit froze overnight In the sun the\n\n16\n00:00:39,275 --> 00:00:41,312\nice cracked into huge panels thinner than\n\n17\n00:00:41,312 --> 00:00:43,337\na phone A light breeze pushed the\n\n18\n00:00:43,337 --> 00:00:45,362\npanels and they shoved the rocks along\n\n19\n00:00:45,362 --> 00:00:47,337\na few inches per second So the\n\n20\n00:00:47,337 --> 00:00:50,125\nrocks never moved themselves Thin ice and\n\n21\n00:00:50,125 --> 00:00:52,250\na light wind did the pushing Would\n\n22\n00:00:52,250 --> 00:00:54,025\nyou have guessed ice in one of\n\n23\n00:00:54,025 --> 00:00:56,188\nthe hottest places on Earth Because for\n\n24\n00:00:56,188 --> 00:00:58,788\na long time everyone just figured\n",
-      "tg_msg": 724,
-      "opts_msg": 726,
-      "approved_by": "auto",
-      "quota_note": "2026-10-25",
-      "description_full": "This is the true story of how the sailing stones move: the moving rocks of Racetrack Playa in Death Valley. For seventy years nobody knew, until GPS trackers caught thin ice and wind pushing them in 2013.\n\nIn this Short: the mystery trails, the fifteen GPS rocks, the frozen pond, and how ice and a light breeze moved the stones.\n\nThis is a true story.\n\nSources:\nhttps://ucnature.org/mystery-death-valley-sailing-stones-solved/\nhttps://www.snexplores.org/article/solved-mystery-sailing-rocks\nhttps://www.nationalparkstraveler.org/node/9372\n\n#shorts #truestory #deathvalley #science #storytime\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-AU-WilliamMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): Vimeo-Free-Videos (Pixabay) https://pixabay.com/videos/id-316/; Arystan_001 (Pixabay) https://pixabay.com/videos/id-215026/\nRomain Guy from San Francisco, USA / Wikimedia Commons (CC0) https://commons.wikimedia.org/wiki/File:Sailing_Stone_(3979385396).jpg\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/dRbKtDpBtbI",
-          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-25T09:54:18.756317+00:00",
-      "slot": "2026-10-26T01:15:00+00:00"
-    },
-    "2026-10-24-1": {
-      "topic": {
-        "title": "How Zippers Work in 2 Moves",
-        "angle": "Zack D. Films' 'How Pencil Sharpeners Work' is pulling about 212,250 views per hour a day after upload (breakout 0.94), and 'How Electrical Outlets Work' about 151,941 views/h at 57M views, so the see-inside 'How [everyday object] Works' shape is this week's winner.",
-        "format": "animated",
-        "tone": "normal",
-        "virality_score": 8,
-        "trend_source": "title shape of How Pencil Sharpeners Work (212,250 views/h); also How Electrical Outlets Work (151,941 views/h)",
-        "plan_id": "P2026-10-24-01"
-      },
-      "status": "published",
-      "by": "auto",
-      "updated": "2026-10-25T23:02:28.474612+00:00",
-      "redos": 0,
-      "package": {
-        "primary_keyword": "how zippers work",
-        "title": "How Zippers Work in 2 Moves",
-        "hook_text": "ONE SECRET TUNNEL",
-        "thumbnail_text": "TINY Y TUNNEL",
-        "description": "How does a zipper work? Here's how zippers work, step by step inside the slider. A zipper slider has a Y-shaped tunnel that squeezes two rows of teeth together so every bump locks into a hollow, then a wedge pries them apart when you pull it down.\n\nIn this Short: the bump-and-hollow shape of zipper teeth, how the slider's Y-shaped tunnel locks them, why a closed zipper won't split sideways, and how the wedge unzips it.\n\nSources:\nhttps://en.wikipedia.org/wiki/Zipper\nhttps://blog.ncf-india.org/saw/zippers-how-do-they-work",
-        "hashtags": [
-          "#shorts",
-          "#howitworks",
-          "#zipper",
-          "#3danimation"
-        ],
-        "tags": [
-          "how zippers work",
-          "zipper",
-          "zipper slider",
-          "zip",
-          "zipper teeth",
-          "3d animation explained",
-          "everyday objects explained",
-          "zipper repair",
-          "inside a zipper",
-          "how things work",
-          "gideon sundback",
-          "zipper mechanism"
-        ],
-        "pinned_comment": "Bonus fact: the name \"zipper\" came from B.F. Goodrich in 1923, which used it on rubber boots. Has a zipper ever split on you right in the middle?",
-        "scenes": [
-          {
-            "text": "You zip your jacket every day, but do you know what's happening inside that tiny slider?",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "zipper slider macro",
-              "jacket zipper close up"
-            ],
-            "image_prompt": "3D animated close-up of a bright blue jacket zipper with a shiny silver slider halfway up, a cartoon hand pinching the pull tab, slow camera push-in toward the slider",
-            "shot": "3D animated close-up of a bright blue jacket zipper with a shiny silver slider halfway up, a cartoon hand pinching the pull tab, slow camera push-in toward the slider",
-            "stock_query": "zipper slider macro"
-          },
-          {
-            "text": "Each tooth has a bump on top, a hollow underneath.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "zipper teeth bump",
-              "zipper teeth macro"
-            ],
-            "image_prompt": "3D animated macro of the same two rows of silver teeth lying apart on blue fabric, camera orbiting one tooth to show the round bump on its top and the matching hollow on its underside",
-            "shot": "3D animated macro of the same two rows of silver teeth lying apart on blue fabric, camera orbiting one tooth to show the round bump on its top and the matching hollow on its underside",
-            "stock_query": "zipper teeth bump"
-          },
-          {
-            "text": "Pull up, and a Y-shaped tunnel squeezes both rows together.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "zipper inside tunnel",
-              "zipper mechanism animation"
-            ],
-            "image_prompt": "3D animated cutaway of the same silver slider turning see-through to reveal a Y-shaped tunnel inside, the two open rows of teeth feeding into the two arms of the Y as the slider moves up, camera locked from above",
-            "shot": "3D animated cutaway of the same silver slider turning see-through to reveal a Y-shaped tunnel inside, the two open rows of teeth feeding into the two arms of the Y as the slider moves up, camera locked from above",
-            "stock_query": "zipper inside tunnel"
-          },
-          {
-            "text": "The teeth meet tilted, so each bump slips past.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "zipper teeth cross section",
-              "zipper teeth slow motion"
-            ],
-            "image_prompt": "3D animated cross-section inside the same slider: two teeth from opposite rows enter tilted at an angle, one tooth's bump sliding past the edge of the tooth beside it, slow motion",
-            "shot": "3D animated cross-section inside the same slider: two teeth from opposite rows enter tilted at an angle, one tooth's bump sliding past the edge of the tooth beside it, slow motion",
-            "stock_query": "zipper teeth cross section"
-          },
-          {
-            "text": "Then they straighten, and every bump snaps into a hollow.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "zipper teeth locking",
-              "zipper click animation"
-            ],
-            "image_prompt": "3D animated cross-section of the same teeth reaching the straight bottom of the Y tunnel: they flatten into a line and each bump clicks into the hollow of the next tooth, small spark of light at each click",
-            "shot": "3D animated cross-section of the same teeth reaching the straight bottom of the Y tunnel: they flatten into a line and each bump clicks into the hollow of the next tooth, small spark of light at each click",
-            "stock_query": "zipper teeth locking"
-          },
-          {
-            "text": "Now it's one locked chain.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "closed zipper chain",
-              "zipper pull test"
-            ],
-            "image_prompt": "3D animated wide shot of the same closed zipper: a single interlocked chain of teeth, two cartoon hands tug the fabric sideways and the chain holds firm, camera pulling back",
-            "shot": "3D animated wide shot of the same closed zipper: a single interlocked chain of teeth, two cartoon hands tug the fabric sideways and the chain holds firm, camera pulling back",
-            "stock_query": "closed zipper chain"
-          },
-          {
-            "text": "Pull down, and a tiny wedge tilts them apart.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "zipper wedge mechanism",
-              "unzipping animation"
-            ],
-            "image_prompt": "3D animated cutaway of the same slider moving down: a small triangle-shaped wedge in the middle of the Y pushes between the locked teeth and tilts them back to an angle, camera tracking down",
-            "shot": "3D animated cutaway of the same slider moving down: a small triangle-shaped wedge in the middle of the Y pushes between the locked teeth and tilts them back to an angle, camera tracking down",
-            "stock_query": "zipper wedge mechanism"
-          },
-          {
-            "text": "The bumps pop free, one by one.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "zipper teeth separating",
-              "zipper macro unzipping"
-            ],
-            "image_prompt": "3D animated macro of the same row of teeth separating one after another as the slider passes, each bump popping out of its hollow with a tiny bounce, camera gliding alongside",
-            "shot": "3D animated macro of the same row of teeth separating one after another as the slider passes, each bump popping out of its hollow with a tiny bounce, camera gliding alongside",
-            "stock_query": "zipper teeth separating"
-          },
-          {
-            "text": "The trick is the slider, hidden every time",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "zipper slider closeup",
-              "jacket zipper pull"
-            ],
-            "image_prompt": "3D animated close-up dissolving from the see-through slider back to the shiny silver slider on the blue jacket, pull tab swinging gently, slow push-in",
-            "shot": "3D animated close-up dissolving from the see-through slider back to the shiny silver slider on the blue jacket, pull tab swinging gently, slow push-in",
-            "stock_query": "zipper slider closeup"
-          }
-        ],
-        "key_facts": [
-          "Each zipper tooth has a bump on top and a hollow underneath.",
-          "A zipper slider features a Y-shaped tunnel that squeezes the two rows of teeth together.",
-          "Teeth enter tilted so bumps slip past each other before straightening and locking into place.",
-          "Pulling the slider down engages a small wedge that tilts the teeth apart and releases the bumps."
-        ],
-        "visual_bible": "A clean, bright 3D animated style featuring a vibrant blue fabric jacket, shiny metallic silver teeth and sliders, and smooth macro camera movements with clean lighting.",
-        "format": "animated",
-        "tone": "normal",
-        "category": "27",
-        "script": "You zip your jacket every day, but do you know what's happening inside that tiny slider? Each tooth has a bump on top, a hollow underneath. Pull up, and a Y-shaped tunnel squeezes both rows together. The teeth meet tilted, so each bump slips past. Then they straighten, and every bump snaps into a hollow. Now it's one locked chain. Pull down, and a tiny wedge tilts them apart. The bumps pop free, one by one. The trick is the slider, hidden every time",
-        "plan_id": "P2026-10-24-01",
-        "voice": "gTTS",
-        "animated_estimate": 0.63,
-        "visual_report": {
-          "shots": 9,
-          "checked": 8,
-          "unchecked": 0,
-          "filler": 7,
-          "ai": 0
-        }
-      },
-      "credits": [
-        "Voiceover: AI-generated voice (Google Text-to-Speech).",
-        "Stock footage/photos (Pexels/Pixabay Content License): bbAAER (Pixabay) https://pixabay.com/photos/zipper-macro-close-up-closure-1060990/; ugac (Pixabay) https://pixabay.com/videos/id-15216/"
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-24",
-        "name": "2026-10-24-1-v0.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-24",
-        "name": "2026-10-24-1-v0-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,150 --> 00:00:02,808\nYou zip your jacket every day, but\n\n2\n00:00:02,808 --> 00:00:05,845\ndo you know what's happening inside that\n\n3\n00:00:05,845 --> 00:00:06,794\ntiny slider?\n\n4\n00:00:06,794 --> 00:00:09,136\nEach tooth has a bump on top,\n\n5\n00:00:09,136 --> 00:00:10,654\na hollow underneath.\n\n6\n00:00:10,654 --> 00:00:13,628\nPull up, and a Y-shaped tunnel squeezes\n\n7\n00:00:13,628 --> 00:00:15,084\nboth rows together.\n\n8\n00:00:15,084 --> 00:00:17,805\nThe teeth meet tilted, so each bump\n\n9\n00:00:17,805 --> 00:00:18,691\nslips past.\n\n10\n00:00:18,691 --> 00:00:21,855\nThen they straighten, and every bump snaps\n\n11\n00:00:21,855 --> 00:00:22,994\ninto a hollow.\n\n12\n00:00:22,994 --> 00:00:25,019\nNow it's one locked chain.\n\n13\n00:00:25,019 --> 00:00:27,613\nPull down, and a tiny wedge tilts\n\n14\n00:00:27,613 --> 00:00:28,499\nthem apart.\n\n15\n00:00:28,499 --> 00:00:30,967\nThe bumps pop free, one by one.\n\n16\n00:00:30,967 --> 00:00:33,814\nThe trick is the slider, hidden every\n\n17\n00:00:33,814 --> 00:00:34,556\ntime\n",
-      "tg_msg": 755,
-      "opts_msg": 757,
-      "approved_by": "auto",
-      "quota_note": "2026-10-25",
-      "description_full": "How does a zipper work? Here's how zippers work, step by step inside the slider. A zipper slider has a Y-shaped tunnel that squeezes two rows of teeth together so every bump locks into a hollow, then a wedge pries them apart when you pull it down.\n\nIn this Short: the bump-and-hollow shape of zipper teeth, how the slider's Y-shaped tunnel locks them, why a closed zipper won't split sideways, and how the wedge unzips it.\n\nSources:\nhttps://en.wikipedia.org/wiki/Zipper\nhttps://blog.ncf-india.org/saw/zippers-how-do-they-work\n\n#shorts #howitworks #zipper #3danimation\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Google Text-to-Speech).\nStock footage/photos (Pexels/Pixabay Content License): bbAAER (Pixabay) https://pixabay.com/photos/zipper-macro-close-up-closure-1060990/; ugac (Pixabay) https://pixabay.com/videos/id-15216/\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/5czzGSgZA9c",
-          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-25T23:02:28.474628+00:00",
-      "slot": "2026-10-26T19:15:00+00:00"
-    },
-    "2026-10-24-2": {
-      "topic": {
-        "title": "Top 5 Tiniest Animals (#1 Is a Frog)",
-        "angle": "Superlative animal countdowns keep working for Zorbly, and Zack D. Films' 'How Banana Slugs Glide Across Razor Blades' (337,527 views/h, the week's fastest) shows tiny-creature curiosity is hot right now, with a twist at number one.",
-        "format": "ranking",
-        "tone": "normal",
-        "virality_score": 7,
-        "trend_source": "How Banana Slugs Glide Across Razor Blades (Zack D. Films, 337,527 views/h); superlative-plus-twist shape of 'Top 5 Fastest Animals (#1 Isn't on Land)'",
-        "plan_id": "P2026-10-24-02"
-      },
-      "status": "published",
-      "by": "auto",
-      "updated": "2026-10-26T11:14:26.230566+00:00",
-      "redos": 0,
-      "package": {
-        "primary_keyword": "smallest animal in the world",
-        "title": "Top 5 Tiniest Animals (#1 Is a Frog)",
-        "hook_text": "SMALLEST ONE WINS",
-        "thumbnail_text": "PEA-SIZED?",
-        "description": "These are the top 5 tiniest animals with backbones, counted down by size. The smallest animal in the world with a backbone is the Brazilian flea toad, a frog only about seven millimeters long.\n\nIn this Short: the bee hummingbird, the bumblebee bat, the nano chameleon, Paedophryne amauensis and the Brazilian flea toad, from smallest bird to smallest vertebrate.\n\nSources:\nhttps://www.smithsonianmag.com/smart-news/the-worlds-smallest-vertebrate-is-a-tiny-brazilian-frog-study-finds-180983867/\nhttps://www.motherjones.com/environment/2024/02/worlds-smallest-creatures-organisms/\nhttps://www.guinnessworldrecords.com/world-records/767624-smallest-species-of-frog",
-        "hashtags": [
-          "#shorts",
-          "#animals",
-          "#smallestanimal",
-          "#top5"
-        ],
-        "tags": [
-          "smallest animal in the world",
-          "tiniest animals",
-          "top 5 smallest animals in the world",
-          "tiniest animal in the world",
-          "smallest vertebrate in the world",
-          "brazilian flea toad",
-          "tiniest frog",
-          "tiny animals",
-          "smallest animal on earth",
-          "bumblebee bat",
-          "smallest bird",
-          "nano chameleon",
-          "bee hummingbird",
-          "smallest vertebrate",
-          "paedophryne amauensis",
-          "top 5 smallest animals",
-          "smallest frog",
-          "brookesia nana",
-          "smallest mammal",
-          "smallest animals",
-          "brachycephalus pulex"
-        ],
-        "pinned_comment": "Bonus fact: the bumblebee bat and the Etruscan shrew keep trading the title of smallest mammal, depending on whether you measure length or weight. Which tiny animal surprised you most?",
-        "scenes": [
-          {
-            "text": "The smallest animal with a backbone could sit on a pea, and you'd almost never spot it. Which is it? Here are the five tiniest animals with backbones.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "tiny frog on fingertip",
-              "green pea close up"
-            ],
-            "image_prompt": "Macro shot of a tiny brown frog sitting on top of a single green pea, fingertip in corner for scale, dark green background.",
-            "stock_query": "tiny frog on fingertip"
-          },
-          {
-            "text": "Number five, the bee hummingbird from Cuba. It's the smallest bird alive, about two inches long and as light as a paperclip.",
-            "badge": "#5",
-            "label": "Bee hummingbird",
-            "stock_queries": [
-              "bee hummingbird hovering flower",
-              "small bird on branch"
-            ],
-            "image_prompt": "Tiny bee hummingbird hovering near a vibrant tropical flower, macro photography, shallow depth of field.",
-            "stock_query": "bee hummingbird hovering flower"
-          },
-          {
-            "text": "Number four, the bumblebee bat. Its body is barely over an inch long, and it weighs about two grams.",
-            "badge": "#4",
-            "label": "Bumblebee bat",
-            "stock_queries": [
-              "bumblebee bat hanging",
-              "tiny bat macro"
-            ],
-            "image_prompt": "Macro shot of a tiny bumblebee bat resting on a dark cave wall, highly detailed fur texture.",
-            "stock_query": "bumblebee bat hanging"
-          },
-          {
-            "text": "Number three, the nano chameleon from Madagascar. A grown male is under an inch long, tail included.",
-            "badge": "#3",
-            "label": "Nano chameleon",
-            "stock_queries": [
-              "nano chameleon on leaf",
-              "tiny chameleon macro"
-            ],
-            "image_prompt": "Extremely tiny nano chameleon perched on the edge of a green leaf, macro shot, natural lighting.",
-            "stock_query": "nano chameleon on leaf"
-          },
-          {
-            "text": "Number two, a frog from Papua New Guinea called Paedophryne amauensis. It's about seven point seven millimeters long.",
-            "badge": "#2",
-            "label": "Paedophryne frog",
-            "stock_queries": [
-              "tiny brown frog on leaf",
-              "frog on coin macro"
-            ],
-            "image_prompt": "Tiny brown Paedophryne amauensis frog sitting on a green leaf litter, macro shot.",
-            "stock_query": "tiny brown frog on leaf"
-          },
-          {
-            "text": "Number one, the Brazilian flea toad. Scientists measured the males at about seven millimeters on average, the smallest known vertebrate.",
-            "badge": "#1",
-            "label": "Brazilian flea toad",
-            "stock_queries": [
-              "tiny frog macro",
-              "small amphibian rainforest"
-            ],
-            "image_prompt": "Tiny Brazilian flea toad on forest floor, macro photography, extreme close-up showing tiny scale.",
-            "stock_query": "tiny frog macro"
-          },
-          {
-            "text": "So the tiniest one isn't a bird or a bat. It's a frog the size of a flea. Which of these tiny animals would you want to see up close? Just don't put it down, because",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "magnifying glass leaf",
-              "rainforest macro shot"
-            ],
-            "image_prompt": "Person looking through a magnifying glass at a tiny creature on a leaf in a rainforest.",
-            "stock_query": "magnifying glass leaf"
-          }
-        ],
-        "key_facts": [
-          "The smallest animal with a backbone could sit on a pea.",
-          "Bee hummingbird is the smallest bird alive, about 2 inches long and as light as a paperclip.",
-          "Bumblebee bat body is barely over an inch long and weighs about 2 grams.",
-          "Nano chameleon from Madagascar has a grown male under an inch long, tail included.",
-          "Paedophryne amauensis frog from Papua New Guinea is about 7.7 millimeters long.",
-          "Brazilian flea toad males measure about 7 millimeters on average, making it the smallest known vertebrate."
-        ],
-        "format": "ranking",
-        "tone": "normal",
-        "category": "27",
-        "script": "The smallest animal with a backbone could sit on a pea, and you'd almost never spot it. Which is it? Here are the five tiniest animals with backbones. Number five, the bee hummingbird from Cuba. It's the smallest bird alive, about two inches long and as light as a paperclip. Number four, the bumblebee bat. Its body is barely over an inch long, and it weighs about two grams. Number three, the nano chameleon from Madagascar. A grown male is under an inch long, tail included. Number two, a frog from Papua New Guinea called Paedophryne amauensis. It's about seven point seven millimeters long. Number one, the Brazilian flea toad. Scientists measured the males at about seven millimeters on average, the smallest known vertebrate. So the tiniest one isn't a bird or a bat. It's a frog the size of a flea. Which of these tiny animals would you want to see up close? Just don't put it down, because",
-        "plan_id": "P2026-10-24-02",
-        "shot_plan": [
-          {
-            "subject": "vertebrate animal wildlife",
-            "queries": [
-              {
-                "q": "small vertebrate",
-                "must": [
-                  "vertebrate"
-                ]
-              },
-              {
-                "q": "tiny animal",
-                "must": [
-                  "animal"
-                ]
-              },
-              {
-                "q": "wildlife macro",
-                "must": [
-                  "macro"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "bee hummingbird",
-            "queries": [
-              {
-                "q": "bee hummingbird",
-                "must": [
-                  "hummingbird"
-                ]
-              },
-              {
-                "q": "tiny bird",
-                "must": [
-                  "bird"
-                ]
-              },
-              {
-                "q": "small bird",
-                "must": [
-                  "bird"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "bumblebee bat",
-            "queries": [
-              {
-                "q": "bumblebee bat",
-                "must": [
-                  "bat"
-                ]
-              },
-              {
-                "q": "tiny bat",
-                "must": [
-                  "bat"
-                ]
-              },
-              {
-                "q": "small bat",
-                "must": [
-                  "bat"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "nano chameleon",
-            "queries": [
-              {
-                "q": "nano chameleon",
-                "must": [
-                  "chameleon"
-                ]
-              },
-              {
-                "q": "tiny chameleon",
-                "must": [
-                  "chameleon"
-                ]
-              },
-              {
-                "q": "small lizard",
-                "must": [
-                  "lizard"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "tiny frog",
-            "queries": [
-              {
-                "q": "paedophryne amauensis frog",
-                "must": [
-                  "frog"
-                ]
-              },
-              {
-                "q": "tiny frog",
-                "must": [
-                  "frog"
-                ]
-              },
-              {
-                "q": "small frog",
-                "must": [
-                  "frog"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "brazilian flea toad",
-            "queries": [
-              {
-                "q": "flea toad",
-                "must": [
-                  "toad"
-                ]
-              },
-              {
-                "q": "tiny toad",
-                "must": [
-                  "toad"
-                ]
-              },
-              {
-                "q": "small amphibian",
-                "must": [
-                  "amphibian"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "tiny frog on hand",
-            "queries": [
-              {
-                "q": "tiny frog",
-                "must": [
-                  "frog"
-                ]
-              },
-              {
-                "q": "small frog",
-                "must": [
-                  "frog"
-                ]
-              },
-              {
-                "q": "amphibian macro",
-                "must": [
-                  "amphibian"
-                ]
-              }
-            ]
-          }
-        ],
-        "broll": [
-          "tiny animal macro",
-          "microscopic wildlife",
-          "small creature close up"
-        ],
-        "visual_style": "Fast-paced macro wildlife countdowns featuring extreme close-ups of tiny animals with comparison size references.",
-        "visual_refs": [
-          "\ud83d\ude31\ud83e\udd0fTop 5 tiniest animals in the world |You won&#39;t believe#1\ud83d\udc1c#animals#animal#wildlife#viral",
-          "Top 10 smallest animals in the world",
-          "Top 5 Smallest Animals Ever Discovered (You Won\u2019t Believe #1)",
-          "Top 5 Smallest Animals in the World \ud83e\udd0f\ud83d\udc3e (#1 Is Tiny Beyond Belief!)",
-          "Top 10 Smallest Animals in the Tropics!",
-          "The Top 10 Smallest Animals on Earth! #smallestanimals"
-        ],
-        "voice": "en-US-AvaMultilingualNeural",
-        "visual_report": {
-          "shots": 10,
-          "checked": 10,
-          "unchecked": 0,
-          "filler": 1,
-          "ai": 0
-        }
-      },
-      "credits": [
-        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AvaMultilingualNeural).",
-        "Stock footage/photos (Pexels/Pixabay Content License): InspiredImages (Pixabay) https://pixabay.com/videos/id-2832/; NickyPe (Pixabay) https://pixabay.com/videos/id-190183/; InspiredImages (Pixabay) https://pixabay.com/videos/id-3779/; Afzaal0001 (Pixabay) https://pixabay.com/videos/id-215937/; RoyBuri (Pixabay) https://pixabay.com/videos/id-111290/; Vilkasss (Pixabay) https://pixabay.com/photos/toadlet-pumpkin-frog-brachycephalus-10148723/; Vilkasss (Pixabay) https://pixabay.com/photos/toadlet-frog-pumpkin-brachycephalus-10148721/; MoonpetalMedia (Pixabay) https://pixabay.com/videos/id-346869/",
-        "Mnalis / Wikimedia Commons (CC BY 4.0) https://commons.wikimedia.org/wiki/File:Tiny_frog_on_Prvi%C4%87.jpg"
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-24",
-        "name": "2026-10-24-2-v0.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-24",
-        "name": "2026-10-24-2-v0-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,100 --> 00:00:02,062\nThe smallest animal with a backbone could\n\n2\n00:00:02,062 --> 00:00:03,900\nsit on a pea and you'd almost\n\n3\n00:00:03,900 --> 00:00:06,275\nnever spot it Which is it Here\n\n4\n00:00:06,275 --> 00:00:09,400\nare the five tiniest animals with backbones\n\n5\n00:00:09,400 --> 00:00:12,550\nNumber five the bee hummingbird from Cuba\n\n6\n00:00:12,550 --> 00:00:15,000\nIt's the smallest bird alive about two\n\n7\n00:00:15,000 --> 00:00:16,988\ninches long and as light as a\n\n8\n00:00:16,988 --> 00:00:20,512\npaperclip Number four the bumblebee bat Its\n\n9\n00:00:20,512 --> 00:00:22,800\nbody is barely over an inch long\n\n10\n00:00:22,800 --> 00:00:25,350\nand it weighs about two grams Number\n\n11\n00:00:25,350 --> 00:00:28,988\nthree the nano chameleon from Madagascar A\n\n12\n00:00:28,988 --> 00:00:31,413\ngrown male is under an inch long\n\n13\n00:00:31,413 --> 00:00:34,300\ntail included Number two a frog from\n\n14\n00:00:34,300 --> 00:00:37,800\nPapua New Guinea called Paedophryne amauensis\n\n15\n00:00:37,800 --> 00:00:40,763\nIt's about seven point seven millimeters long\n\n16\n00:00:40,763 --> 00:00:43,962\nNumber one the Brazilian flea toad Scientists\n\n17\n00:00:43,962 --> 00:00:46,212\nmeasured the males at about seven millimeters\n\n18\n00:00:46,212 --> 00:00:49,413\non average the smallest known vertebrate So\n\n19\n00:00:49,413 --> 00:00:51,712\nthe tiniest one isn't a bird or\n\n20\n00:00:51,712 --> 00:00:53,725\na bat It's a frog the size\n\n21\n00:00:53,725 --> 00:00:55,788\nof a flea Which of these tiny\n\n22\n00:00:55,788 --> 00:00:57,062\nanimals would you want to see up\n\n23\n00:00:57,062 --> 00:01:00,112\nclose Just don't put it down because\n",
-      "tg_msg": 758,
-      "opts_msg": 760,
-      "approved_by": "auto",
-      "quota_note": "2026-10-26",
-      "description_full": "These are the top 5 tiniest animals with backbones, counted down by size. The smallest animal in the world with a backbone is the Brazilian flea toad, a frog only about seven millimeters long.\n\nIn this Short: the bee hummingbird, the bumblebee bat, the nano chameleon, Paedophryne amauensis and the Brazilian flea toad, from smallest bird to smallest vertebrate.\n\nSources:\nhttps://www.smithsonianmag.com/smart-news/the-worlds-smallest-vertebrate-is-a-tiny-brazilian-frog-study-finds-180983867/\nhttps://www.motherjones.com/environment/2024/02/worlds-smallest-creatures-organisms/\nhttps://www.guinnessworldrecords.com/world-records/767624-smallest-species-of-frog\n\n#shorts #animals #smallestanimal #top5\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AvaMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): InspiredImages (Pixabay) https://pixabay.com/videos/id-2832/; NickyPe (Pixabay) https://pixabay.com/videos/id-190183/; InspiredImages (Pixabay) https://pixabay.com/videos/id-3779/; Afzaal0001 (Pixabay) https://pixabay.com/videos/id-215937/; RoyBuri (Pixabay) https://pixabay.com/videos/id-111290/; Vilkasss (Pixabay) https://pixabay.com/photos/toadlet-pumpkin-frog-brachycephalus-10148723/; Vilkasss (Pixabay) https://pixabay.com/photos/toadlet-frog-pumpkin-brachycephalus-10148721/; MoonpetalMedia (Pixabay) https://pixabay.com/videos/id-346869/\nMnalis / Wikimedia Commons (CC BY 4.0) https://commons.wikimedia.org/wiki/File:Tiny_frog_on_Prvi%C4%87.jpg\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/nT5sNsxak0A",
-          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-26T11:14:26.230580+00:00",
-      "slot": "2026-10-27T16:15:00+00:00"
-    },
     "2026-10-24-3": {
       "topic": {
         "title": "Why Your Dog Tilts Its Head: 1 Study",
@@ -3425,9 +1520,9 @@
         "trend_source": "He Builds Art Just to Destroy It! (12.4x); Wait For End (10.6x)",
         "plan_id": "P2026-10-25-02"
       },
-      "status": "approved",
+      "status": "published",
       "by": "auto",
-      "updated": "2026-10-25T22:35:55.139933+00:00",
+      "updated": "2026-10-30T07:16:10.594836+00:00",
       "redos": 0,
       "package": {
         "primary_keyword": "funniest animal sounds",
@@ -3794,7 +1889,28 @@
       "tg_msg": 800,
       "opts_msg": 802,
       "approved_by": "auto",
-      "quota_note": "2026-10-30"
+      "quota_note": "2026-10-30",
+      "description_full": "What does a giraffe sound like? These are the funniest animal sounds on Earth, from a humming alpaca to a koala that sounds like a donkey, and the lyrebird that can copy a chainsaw.\n\nIn this Short: the top 5 funniest real animal sounds, counted down from the alpaca to the lyrebird.\n\nSources:\nhttps://www.livescience.com/41614-koalas-low-pitched-voice.html\nhttps://www.mentalfloss.com/animals/birds/lyrebird-best-impressionist-animal-kingdom\nhttps://www.mentalfloss.com/animals/animals-that-make-terrifying-sounds\n\n#shorts #funnyanimals #animalsounds #top5 #funny\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-BrianMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): Afzaal0001 (Pixabay) https://pixabay.com/videos/id-227950/; Eaktas06 (Pixabay) https://pixabay.com/videos/id-127479/; ucuzucuyorum (Pixabay) https://pixabay.com/videos/id-127810/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-303811/; Eaktas06 (Pixabay) https://pixabay.com/videos/id-163299/; cocoparisienne (Pixabay) https://pixabay.com/photos/giraffe-animal-africa-sunset-2073609/; OneGod_TheFather (Pixabay) https://pixabay.com/videos/id-275211/; danydory (Pixabay) https://pixabay.com/videos/id-28493/; danydory (Pixabay) https://pixabay.com/videos/id-136515/; j7126 (Pixabay) https://pixabay.com/videos/id-177369/; DavidClode (Pixabay) https://pixabay.com/videos/id-219571/; pen_ash (Pixabay) https://pixabay.com/videos/id-341430/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-329144/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-305352/; Solarselle77 (Pixabay) https://pixabay.com/videos/id-329142/\nMaurice van Creij / Wikimedia Commons (CC BY 3.0) https://commons.wikimedia.org/wiki/File:A_lyrebird_at_Lyrebird_Gully_-_panoramio.jpg\nDeborah Pickett / Wikimedia Commons (CC BY 3.0) https://commons.wikimedia.org/wiki/File:Lyrebird_(142179671).jpeg\nJohn Tann from Sydney, Australia / Wikimedia Commons (CC BY 2.0) https://commons.wikimedia.org/wiki/File:Superb_Lyrebird_(12947687595).jpg\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/EItQOoXFXN4",
+          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-10-30T07:16:10.594854+00:00",
+      "slot": "2026-11-03T02:15:00+00:00"
     },
     "2026-10-25-3": {
       "topic": {
@@ -6299,12 +4415,12 @@
         "format": "long",
         "style": "Low-Poly Faceted"
       },
-      "status": "approved",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261029-no-insects",
       "redos": 0,
-      "updated": "2026-10-29T16:17:20.332389+00:00",
+      "updated": "2026-10-30T07:15:48.525857+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Low-Poly Faceted style). Voice: Kokoro text-to-speech."
       ],
@@ -6321,7 +4437,16 @@
       "srt": "1\n00:00:00,250 --> 00:00:02,520\nEvery insect on Earth vanishes tonight.\n\n2\n00:00:03,070 --> 00:00:04,370\nWhat would you lose first?\n\n3\n00:00:04,920 --> 00:00:07,130\nThe first thing you'd notice is the quiet,\n\n4\n00:00:07,430 --> 00:00:10,260\nno buzzing, no chirping, no crickets at night.\n\n5\n00:00:10,810 --> 00:00:13,290\nBut the real trouble starts sooner than you think.\n\n6\n00:00:13,840 --> 00:00:15,720\nLet's walk through it, step by step.\n\n7\n00:00:16,270 --> 00:00:18,670\nFirst, how many bugs are we talking about?\n\n8\n00:00:19,220 --> 00:00:21,850\nScientists think about ten quintillion insects\n\n9\n00:00:22,150 --> 00:00:23,420\nare alive right now.\n\n10\n00:00:23,970 --> 00:00:25,720\nThat's more than a billion insects\n\n11\n00:00:26,020 --> 00:00:27,570\nfor every single person.\n\n12\n00:00:28,120 --> 00:00:30,170\nOver a million kinds have names,\n\n13\n00:00:30,470 --> 00:00:32,740\nand millions more are still waiting for one.\n\n14\n00:00:33,290 --> 00:00:34,750\nSo when they all disappear,\n\n15\n00:00:35,050 --> 00:00:36,690\nthey leave a gigantic hole.\n\n16\n00:00:37,240 --> 00:00:38,550\nStart with the flowers.\n\n17\n00:00:39,100 --> 00:00:41,330\nNearly nine out of ten flowering plants\n\n18\n00:00:41,630 --> 00:00:43,700\nneed animals to carry their pollen,\n\n19\n00:00:44,000 --> 00:00:46,200\nand most of those animals are insects.\n\n20\n00:00:46,750 --> 00:00:49,810\nBees, flies, beetles, moths and butterflies\n\n21\n00:00:50,110 --> 00:00:52,160\nmove pollen from flower to flower,\n\n22\n00:00:52,460 --> 00:00:54,500\nso the plant can make seeds and fruit.\n\n23\n00:00:55,050 --> 00:00:57,120\nWithout them, the flowers still bloom,\n\n24\n00:00:57,420 --> 00:00:59,330\nbut most never turn into fruit.\n\n25\n00:00:59,880 --> 00:01:02,350\nAbout three quarters of our main food crops\n\n26\n00:01:02,650 --> 00:01:04,280\nget help from pollinators.\n\n27\n00:01:04,830 --> 00:01:07,660\nApples, almonds, blueberries, cherries and melons\n\n28\n00:01:07,960 --> 00:01:10,160\nwould become rare and very expensive.\n\n29\n00:01:10,710 --> 00:01:11,520\nAnd chocolate?\n\n30\n00:01:12,070 --> 00:01:16,220\nCacao flowers are pollinated by tiny flies called midges,\n\n31\n00:01:16,520 --> 00:01:18,110\nabout the size of a pinhead.\n\n32\n00:01:18,660 --> 00:01:20,790\nNo midges, almost no chocolate.\n\n33\n00:01:21,340 --> 00:01:23,620\nNext come the animals that eat insects.\n\n34\n00:01:24,170 --> 00:01:26,440\nMost songbirds feed their chicks on bugs,\n\n35\n00:01:26,740 --> 00:01:29,030\neven the ones that eat seeds as adults.\n\n36\n00:01:29,580 --> 00:01:30,970\nOne pair of chickadees\n\n37\n00:01:31,270 --> 00:01:33,630\nneeds six to nine thousand caterpillars\n\n38\n00:01:33,930 --> 00:01:35,830\nto raise a single nest of chicks.\n\n39\n00:01:36,380 --> 00:01:38,650\nBats, frogs, lizards and spiders\n\n40\n00:01:38,950 --> 00:01:40,260\nlose their dinner too.\n\n41\n00:01:40,810 --> 00:01:42,980\nIn rivers, trout and many other fish\n\n42\n00:01:43,280 --> 00:01:45,490\neat young mayflies and caddisflies.\n\n43\n00:01:46,040 --> 00:01:47,290\nTake away the bugs,\n\n44\n00:01:47,590 --> 00:01:50,090\nand the food chain crumbles from the bottom up.\n\n45\n00:01:50,640 --> 00:01:51,950\nNow for the gross part.\n\n46\n00:01:52,500 --> 00:01:54,390\nInsects are nature's cleanup crew.\n\n47\n00:01:54,940 --> 00:01:57,920\nBeetles and fly larvae break down dead leaves,\n\n48\n00:01:58,220 --> 00:01:59,210\ndead animals,\n\n49\n00:01:59,510 --> 00:02:00,310\nand poop.\n\n50\n00:02:00,860 --> 00:02:03,080\nAustralia found this out the hard way.\n\n51\n00:02:03,630 --> 00:02:05,080\nWhen settlers brought cattle,\n\n52\n00:02:05,380 --> 00:02:08,100\nthe local dung beetles couldn't handle cow pats.\n\n53\n00:02:08,650 --> 00:02:10,640\nThe pats sat in the fields for months,\n\n54\n00:02:10,940 --> 00:02:12,020\nsmothering the grass\n\n55\n00:02:12,320 --> 00:02:14,110\nand breeding swarms of flies.\n\n56\n00:02:14,660 --> 00:02:17,480\nSo scientists shipped in dung beetles from abroad,\n\n57\n00:02:17,780 --> 00:02:19,890\nand about twenty-three kinds settled in.\n\n58\n00:02:20,440 --> 00:02:22,990\nNow picture that problem everywhere on Earth.\n\n59\n00:02:23,540 --> 00:02:25,690\nFungi and bacteria would keep working,\n\n60\n00:02:25,990 --> 00:02:27,290\nbut much more slowly.\n\n61\n00:02:27,840 --> 00:02:29,330\nSo, would humans starve?\n\n62\n00:02:29,880 --> 00:02:30,960\nNot right away.\n\n63\n00:02:31,510 --> 00:02:34,570\nWheat, rice and corn are pollinated by the wind,\n\n64\n00:02:34,870 --> 00:02:37,540\nso we'd still have bread, rice and popcorn.\n\n65\n00:02:38,090 --> 00:02:39,980\nBut our plates would get very boring,\n\n66\n00:02:40,280 --> 00:02:41,730\nand we'd lose honey, silk,\n\n67\n00:02:42,030 --> 00:02:44,000\nand lots of fruits and vegetables.\n\n68\n00:02:44,550 --> 00:02:47,020\nMany wild plants would slowly fade away,\n\n69\n00:02:47,320 --> 00:02:49,400\nand the animals that eat them would follow.\n\n70\n00:02:49,950 --> 00:02:51,380\nEven the soil would suffer,\n\n71\n00:02:51,680 --> 00:02:54,150\nbecause insects dig it, mix it and feed it.\n\n72\n00:02:54,700 --> 00:02:57,360\nSo the next time a bee buzzes past your head,\n\n73\n00:02:57,660 --> 00:02:58,330\nremember,\n\n74\n00:02:58,630 --> 00:03:01,260\nthat tiny bug helps keep your whole plate full.\n\n75\n00:03:01,810 --> 00:03:02,680\nNext time:\n\n76\n00:03:02,980 --> 00:03:05,070\nhow a bear hunt gave us the teddy bear.\n\n",
       "tg_msg": 913,
       "approved_by": "auto",
-      "quota_note": "2026-10-30"
+      "quota_note": "2026-10-30",
+      "description_full": "What would happen if all the insects on Earth disappeared? We walk through it step by step: pollination and the fruits we'd lose (including chocolate), hungry songbirds and fish, Australia's cow-pat problem and the dung beetles that fixed it, and whether humans would starve.\n\nSources:\nhttps://www.si.edu/spotlight/buginfo/bugnos\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC10517183/\nhttps://en.wikipedia.org/wiki/Australian_Dung_Beetle_Project\n\nAnimated in the Low-Poly Faceted style.\n\nFollow Zorbly AI for a new Short every day.\n\n#insects #science #explained\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Low-Poly Faceted style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/LEpfUBMYlro",
+          "private \u00b7 thumbnail \u2705"
+        ]
+      },
+      "uploaded_at": "2026-10-30T07:15:48.525877+00:00",
+      "slot": "2026-11-02T00:15:00+00:00"
     },
     "2026-10-29-103": {
       "topic": {
@@ -6371,12 +4496,12 @@
         "format": "animated",
         "style": "Flat-Vector Science"
       },
-      "status": "approved",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261029-onion-tears",
       "redos": 0,
-      "updated": "2026-10-29T16:17:36.015086+00:00",
+      "updated": "2026-10-30T07:15:52.185404+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech."
       ],
@@ -6393,7 +4518,28 @@
       "srt": "1\n00:00:00,250 --> 00:00:02,570\nOnions fire tear gas at your eyes,\n\n2\n00:00:02,870 --> 00:00:04,860\n30 seconds after you cut them.\n\n3\n00:00:05,410 --> 00:00:05,960\nHow?\n\n4\n00:00:06,510 --> 00:00:08,150\nInside every onion cell,\n\n5\n00:00:08,450 --> 00:00:10,190\ntwo chemicals are kept apart,\n\n6\n00:00:10,490 --> 00:00:11,920\nin separate little rooms.\n\n7\n00:00:12,470 --> 00:00:14,300\nOne is a sulfur molecule.\n\n8\n00:00:14,850 --> 00:00:16,290\nThe other is an enzyme.\n\n9\n00:00:16,840 --> 00:00:18,580\nYour knife smashes the walls,\n\n10\n00:00:18,880 --> 00:00:20,220\nand they finally mix.\n\n11\n00:00:20,770 --> 00:00:23,300\nThe enzyme turns the sulfur into an acid,\n\n12\n00:00:23,600 --> 00:00:24,920\nthen a second enzyme,\n\n13\n00:00:25,220 --> 00:00:27,340\nonly discovered in 2002,\n\n14\n00:00:27,640 --> 00:00:29,460\nflips that acid into a gas.\n\n15\n00:00:30,010 --> 00:00:30,910\nIt drifts up,\n\n16\n00:00:31,210 --> 00:00:33,560\nand peaks about 30 seconds after the cut.\n\n17\n00:00:34,110 --> 00:00:35,410\nWhen it hits your eyes,\n\n18\n00:00:35,710 --> 00:00:37,260\ntiny nerves shout \"burning!\"\n\n19\n00:00:37,560 --> 00:00:39,520\nSo your tear glands flood your eyes,\n\n20\n00:00:39,820 --> 00:00:40,910\nto wash it away.\n\n21\n00:00:41,460 --> 00:00:42,280\nWhy bother?\n\n22\n00:00:42,830 --> 00:00:43,630\nIt's armor.\n\n23\n00:00:44,180 --> 00:00:46,020\nAny animal that bites an onion,\n\n24\n00:00:46,320 --> 00:00:47,850\ngets a face full of sting.\n\n25\n00:00:48,400 --> 00:00:49,540\nWant fewer tears?\n\n26\n00:00:50,090 --> 00:00:51,800\nCut it under running water.\n\n27\n00:00:52,350 --> 00:00:55,720\nSo, would you still eat a plant that fights back with tear gas?\n\n",
       "tg_msg": 914,
       "approved_by": "auto",
-      "quota_note": "2026-10-30"
+      "quota_note": "2026-10-30",
+      "description_full": "Why do onions make you cry? Cutting an onion mixes a sulfur compound with an enzyme, and a second enzyme (found in 2002) turns the result into syn-propanethial-S-oxide, an irritating gas that peaks about 30 seconds after the cut and makes your tear glands wash it away.\n\nSources:\nhttps://www.scientificamerican.com/article/what-is-the-chemical-proc/\nhttps://www.thenakedscientists.com/articles/questions/why-do-onions-make-us-cry-when-we-cut-them-and-there-any-way-prevent\nhttps://pubmed.ncbi.nlm.nih.gov/12384686/\n\nAnimated in the Flat-Vector Science style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #onions #foodscience #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/JlDHpT1_4gA",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-10-30T07:15:52.185425+00:00",
+      "slot": "2026-11-02T02:15:00+00:00"
     },
     "2026-10-29-104": {
       "topic": {
@@ -6441,12 +4587,12 @@
         "format": "animated",
         "style": "Ukiyo-e Woodblock"
       },
-      "status": "approved",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261029-owl-head",
       "redos": 0,
-      "updated": "2026-10-29T16:17:45.721502+00:00",
+      "updated": "2026-10-30T07:15:55.923249+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Ukiyo-e Woodblock style). Voice: Kokoro text-to-speech."
       ],
@@ -6463,7 +4609,28 @@
       "srt": "1\n00:00:00,250 --> 00:00:01,230\nYou'd black out,\n\n2\n00:00:01,530 --> 00:00:04,620\nbut owls spin their heads 270 degrees.\n\n3\n00:00:05,170 --> 00:00:05,720\nHow?\n\n4\n00:00:06,270 --> 00:00:08,280\nFirst, an owl's eyes can't move.\n\n5\n00:00:08,830 --> 00:00:10,240\nThey're shaped like tubes,\n\n6\n00:00:10,540 --> 00:00:11,950\nlocked inside the skull.\n\n7\n00:00:12,500 --> 00:00:13,590\nSo to look around,\n\n8\n00:00:13,890 --> 00:00:15,440\nthe whole head has to turn.\n\n9\n00:00:15,990 --> 00:00:17,460\nSecond, extra bones.\n\n10\n00:00:18,010 --> 00:00:19,560\nYou have seven neck bones.\n\n11\n00:00:20,110 --> 00:00:21,390\nAn owl has fourteen,\n\n12\n00:00:21,690 --> 00:00:23,140\nso the twist is shared out,\n\n13\n00:00:23,440 --> 00:00:24,860\na little at every joint.\n\n14\n00:00:25,410 --> 00:00:27,290\nThird, the clever part: blood.\n\n15\n00:00:27,840 --> 00:00:29,700\nTwisting would pinch the arteries,\n\n16\n00:00:30,000 --> 00:00:32,230\nbut an owl's run through bony tunnels,\n\n17\n00:00:32,530 --> 00:00:34,750\nup to ten times wider than the vessel,\n\n18\n00:00:35,050 --> 00:00:36,470\nso they don't get squeezed.\n\n19\n00:00:37,020 --> 00:00:38,410\nAnd at the base of the head,\n\n20\n00:00:38,710 --> 00:00:40,860\nthe vessels balloon into little pools,\n\n21\n00:00:41,160 --> 00:00:43,110\nstoring extra blood for the brain,\n\n22\n00:00:43,410 --> 00:00:44,680\nwhile the head is turned.\n\n23\n00:00:45,230 --> 00:00:46,880\nSo, if you had an owl's neck,\n\n24\n00:00:47,180 --> 00:00:49,430\nwhat's the first thing you'd turn around to look at?\n\n",
       "tg_msg": 915,
       "approved_by": "auto",
-      "quota_note": "2026-10-30"
+      "quota_note": "2026-10-30",
+      "description_full": "How can an owl turn its head 270 degrees without cutting off blood to its brain? Owls have tube-shaped eyes locked in their skulls, 14 neck bones instead of our 7, arteries that run through bony tunnels up to ten times wider than the vessel, and blood pools at the base of the head that keep the brain fed while it turns.\n\nSources:\nhttps://www.sciencedaily.com/releases/2013/01/130131144102.htm\nhttps://www.smithsonianmag.com/science-nature/solving-the-mystery-of-owls-head-turning-abilities-9561557/\nhttps://www.reconnectwithnature.org/headlines/news/nature-curiosity-how-do-owls-turn-their-heads-so\n\nAnimated in the Ukiyo-e Woodblock style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #owls #animalfacts #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Ukiyo-e Woodblock style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/nYbhntw9WUQ",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-10-30T07:15:55.923268+00:00",
+      "slot": "2026-11-02T17:15:00+00:00"
     },
     "2026-10-29-105": {
       "topic": {
@@ -6511,12 +4678,12 @@
         "format": "animated",
         "style": "Claymation Set"
       },
-      "status": "approved",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261029-bee-honey",
       "redos": 0,
-      "updated": "2026-10-29T19:39:42.109003+00:00",
+      "updated": "2026-10-30T07:15:59.512755+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Claymation Set style). Voice: Kokoro text-to-speech."
       ],
@@ -6533,7 +4700,28 @@
       "srt": "1\n00:00:00,250 --> 00:00:02,500\nYour honey was once 80 percent water,\n\n2\n00:00:02,800 --> 00:00:04,800\nand you'd never guess how bees dried it.\n\n3\n00:00:05,350 --> 00:00:06,630\nIt starts with nectar,\n\n4\n00:00:06,930 --> 00:00:08,340\nsugary flower juice.\n\n5\n00:00:08,890 --> 00:00:11,020\nA bee sips it into a second stomach,\n\n6\n00:00:11,320 --> 00:00:12,550\ncalled the honey stomach.\n\n7\n00:00:13,100 --> 00:00:14,270\nEnzymes from her spit,\n\n8\n00:00:14,570 --> 00:00:17,070\nstart chopping the sugar into smaller sugars.\n\n9\n00:00:17,620 --> 00:00:18,680\nBack at the hive,\n\n10\n00:00:18,980 --> 00:00:20,610\nshe spits it mouth to mouth,\n\n11\n00:00:20,910 --> 00:00:21,970\nto a house bee,\n\n12\n00:00:22,270 --> 00:00:24,410\nwho chews on it for up to 20 minutes.\n\n13\n00:00:24,960 --> 00:00:26,610\nThen it goes into a wax cell.\n\n14\n00:00:27,160 --> 00:00:28,560\nBut it's still way too runny.\n\n15\n00:00:29,110 --> 00:00:31,060\nSo the bees fan it with their wings,\n\n16\n00:00:31,360 --> 00:00:32,690\nblowing the water away,\n\n17\n00:00:32,990 --> 00:00:35,600\nuntil it's only about 18 percent water.\n\n18\n00:00:36,150 --> 00:00:37,180\nThat's so thick,\n\n19\n00:00:37,480 --> 00:00:38,790\ngerms can't grow in it.\n\n20\n00:00:39,340 --> 00:00:40,560\nThen they cap each cell,\n\n21\n00:00:40,860 --> 00:00:41,680\nwith wax.\n\n22\n00:00:42,230 --> 00:00:44,660\nOne bee makes just a twelfth of a teaspoon,\n\n23\n00:00:44,960 --> 00:00:46,140\nin her whole life.\n\n24\n00:00:46,690 --> 00:00:48,580\nSo, is your honey flower juice,\n\n25\n00:00:48,880 --> 00:00:49,800\nor bee spit?\n\n",
       "tg_msg": 916,
       "approved_by": "auto",
-      "quota_note": "2026-10-30"
+      "quota_note": "2026-10-30",
+      "description_full": "How do bees make honey? Bees sip flower nectar (up to 80% water) into their honey stomach, add enzymes that split the sugar, pass it mouth to mouth in the hive, then fan it with their wings until it's about 18% water and seal it with wax.\n\nSources:\nhttps://extension.msstate.edu/blogs/extension-for-real-life/how-honey-made\nhttps://www.earthdate.org/episodes/how-bees-make-honey\nhttps://localhivehoney.com/blogs/blog/how-much-honey-does-a-bee-make\n\nAnimated in the Claymation Set style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #bees #honey #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Claymation Set style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/tcsD8LH4FpM",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-10-30T07:15:59.512773+00:00",
+      "slot": "2026-11-02T20:15:00+00:00"
     },
     "2026-10-30-101": {
       "topic": {
@@ -6582,12 +4770,12 @@
         "format": "animated",
         "style": "16-Bit Pixel Odyssey"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261029-pistol-shrimp",
       "redos": 0,
-      "updated": "2026-10-30T01:07:53.853094+00:00",
+      "updated": "2026-10-30T07:16:02.738663+00:00",
       "credits": [
         "Animation: code-drawn in Claude (16-Bit Pixel Odyssey style). Voice: Kokoro text-to-speech."
       ],
@@ -6602,7 +4790,29 @@
         "name": "2026-10-30-101-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:01,930\nA shrimp smaller than your finger,\n\n2\n00:00:02,230 --> 00:00:04,840\nfires a bubble almost as hot as the Sun.\n\n3\n00:00:05,390 --> 00:00:06,140\nBut how?\n\n4\n00:00:06,690 --> 00:00:08,040\nMeet the pistol shrimp.\n\n5\n00:00:08,590 --> 00:00:09,890\nOne claw is huge,\n\n6\n00:00:10,190 --> 00:00:12,270\nand it cocks open like a gun's hammer.\n\n7\n00:00:12,820 --> 00:00:13,910\nWhen it snaps shut,\n\n8\n00:00:14,210 --> 00:00:15,930\na plug slams into a socket,\n\n9\n00:00:16,230 --> 00:00:17,860\nand fires a jet of water,\n\n10\n00:00:18,160 --> 00:00:20,160\nat about ninety kilometres an hour.\n\n11\n00:00:20,710 --> 00:00:22,170\nThat jet is so fast,\n\n12\n00:00:22,470 --> 00:00:24,350\nthe water behind it rips apart,\n\n13\n00:00:24,650 --> 00:00:25,890\ninto a tiny bubble.\n\n14\n00:00:26,440 --> 00:00:27,880\nThen the bubble collapses,\n\n15\n00:00:28,180 --> 00:00:30,420\nin less than a thousandth of a second.\n\n16\n00:00:30,970 --> 00:00:34,650\nInside, it hits about four thousand seven hundred degrees,\n\n17\n00:00:34,950 --> 00:00:37,050\nnearly as hot as the Sun's surface.\n\n18\n00:00:37,600 --> 00:00:38,960\nIt even flashes light.\n\n19\n00:00:39,510 --> 00:00:41,060\nAnd that bang isn't the claw.\n\n20\n00:00:41,610 --> 00:00:42,900\nIt's the bubble popping,\n\n21\n00:00:43,200 --> 00:00:45,160\none of the loudest sounds in the ocean,\n\n22\n00:00:45,460 --> 00:00:47,410\nloud enough to stun a passing fish.\n\n23\n00:00:47,960 --> 00:00:50,280\nSo what animal could beat this shrimp's snap?\n\n",
-      "tg_msg": 920
+      "tg_msg": 920,
+      "approved_by": "auto",
+      "description_full": "How does a pistol shrimp (snapping shrimp) snap its claw so fast that it makes a bubble almost as hot as the surface of the Sun? Its claw fires a water jet at about 90 km/h, the water tears into a cavitation bubble, and when that bubble collapses it heats to about 4,700\u00b0C, flashes light and makes one of the loudest sounds in the ocean.\n\nSources:\nhttps://physicsworld.com/a/the-bubble-bursts-for-shrimps/\nhttps://research.utwente.nl/en/publications/on-the-sound-of-snapping-shrimp-the-collapse-of-a-cavitation-bubb/\nhttps://mentalfloss.com/article/26068/pistol-shrimp-pack-some-serious-heat\n\nAnimated in the 16-Bit Pixel Odyssey style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #pistolshrimp #animalfacts #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (16-Bit Pixel Odyssey style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/_4amUqHWio8",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-10-30T07:16:02.738683+00:00",
+      "slot": "2026-11-03T00:15:00+00:00"
     }
   },
   "history": [
