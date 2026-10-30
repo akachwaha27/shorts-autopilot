@@ -1,0 +1,699 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.73,
+  "text": "You lose one centimeter of height every day,",
+  "words": [
+   [
+    "you",
+    0.25
+   ],
+   [
+    "lose",
+    0.46
+   ],
+   [
+    "one",
+    0.73
+   ],
+   [
+    "centimeter",
+    0.94
+   ],
+   [
+    "of",
+    1.63
+   ],
+   [
+    "height",
+    1.76
+   ],
+   [
+    "every",
+    2.18
+   ],
+   [
+    "day",
+    2.52
+   ]
+  ]
+ },
+ {
+  "s": 3.03,
+  "e": 3.83,
+  "text": "but why?",
+  "words": [
+   [
+    "but",
+    3.03
+   ],
+   [
+    "why",
+    3.43
+   ]
+  ]
+ },
+ {
+  "s": 4.38,
+  "e": 6.39,
+  "text": "Your spine isn't one solid bone.",
+  "words": [
+   [
+    "your",
+    4.38
+   ],
+   [
+    "spine",
+    4.7
+   ],
+   [
+    "isnt",
+    5.1
+   ],
+   [
+    "one",
+    5.42
+   ],
+   [
+    "solid",
+    5.66
+   ],
+   [
+    "bone",
+    6.06
+   ]
+  ]
+ },
+ {
+  "s": 6.94,
+  "e": 8.5,
+  "text": "It's a stack of vertebrae,",
+  "words": [
+   [
+    "its",
+    6.94
+   ],
+   [
+    "a",
+    7.17
+   ],
+   [
+    "stack",
+    7.25
+   ],
+   [
+    "of",
+    7.64
+   ],
+   [
+    "vertebrae",
+    7.79
+   ]
+  ]
+ },
+ {
+  "s": 8.8,
+  "e": 11.2,
+  "text": "with twenty-three squishy discs in between.",
+  "words": [
+   [
+    "with",
+    8.8
+   ],
+   [
+    "twentythree",
+    9.06
+   ],
+   [
+    "squishy",
+    9.8
+   ],
+   [
+    "discs",
+    10.26
+   ],
+   [
+    "in",
+    10.6
+   ],
+   [
+    "between",
+    10.73
+   ]
+  ]
+ },
+ {
+  "s": 11.75,
+  "e": 13.68,
+  "text": "Each disc is like a jelly doughnut,",
+  "words": [
+   [
+    "each",
+    11.75
+   ],
+   [
+    "disc",
+    12.02
+   ],
+   [
+    "is",
+    12.3
+   ],
+   [
+    "like",
+    12.44
+   ],
+   [
+    "a",
+    12.71
+   ],
+   [
+    "jelly",
+    12.78
+   ],
+   [
+    "doughnut",
+    13.13
+   ]
+  ]
+ },
+ {
+  "s": 13.98,
+  "e": 15.6,
+  "text": "with a soft, watery middle.",
+  "words": [
+   [
+    "with",
+    13.98
+   ],
+   [
+    "a",
+    14.29
+   ],
+   [
+    "soft",
+    14.37
+   ],
+   [
+    "watery",
+    14.68
+   ],
+   [
+    "middle",
+    15.14
+   ]
+  ]
+ },
+ {
+  "s": 16.15,
+  "e": 18.32,
+  "text": "All day, gravity pushes down on you.",
+  "words": [
+   [
+    "all",
+    16.15
+   ],
+   [
+    "day",
+    16.39
+   ],
+   [
+    "gravity",
+    16.62
+   ],
+   [
+    "pushes",
+    17.16
+   ],
+   [
+    "down",
+    17.62
+   ],
+   [
+    "on",
+    17.93
+   ],
+   [
+    "you",
+    18.09
+   ]
+  ]
+ },
+ {
+  "s": 18.87,
+  "e": 20.26,
+  "text": "Every step and every sit",
+  "words": [
+   [
+    "every",
+    18.87
+   ],
+   [
+    "step",
+    19.21
+   ],
+   [
+    "and",
+    19.49
+   ],
+   [
+    "every",
+    19.7
+   ],
+   [
+    "sit",
+    20.05
+   ]
+  ]
+ },
+ {
+  "s": 20.56,
+  "e": 22.11,
+  "text": "squeezes a little water out,",
+  "words": [
+   [
+    "squeezes",
+    20.56
+   ],
+   [
+    "a",
+    21.1
+   ],
+   [
+    "little",
+    21.16
+   ],
+   [
+    "water",
+    21.57
+   ],
+   [
+    "out",
+    21.9
+   ]
+  ]
+ },
+ {
+  "s": 22.41,
+  "e": 24.11,
+  "text": "and the discs flatten a tiny bit.",
+  "words": [
+   [
+    "and",
+    22.41
+   ],
+   [
+    "the",
+    22.6
+   ],
+   [
+    "discs",
+    22.8
+   ],
+   [
+    "flatten",
+    23.13
+   ],
+   [
+    "a",
+    23.58
+   ],
+   [
+    "tiny",
+    23.65
+   ],
+   [
+    "bit",
+    23.91
+   ]
+  ]
+ },
+ {
+  "s": 24.66,
+  "e": 26.07,
+  "text": "Add up all twenty-three,",
+  "words": [
+   [
+    "add",
+    24.66
+   ],
+   [
+    "up",
+    24.88
+   ],
+   [
+    "all",
+    25.03
+   ],
+   [
+    "twentythree",
+    25.25
+   ]
+  ]
+ },
+ {
+  "s": 26.37,
+  "e": 28.87,
+  "text": "and you've shrunk about a centimeter by bedtime.",
+  "words": [
+   [
+    "and",
+    26.37
+   ],
+   [
+    "youve",
+    26.56
+   ],
+   [
+    "shrunk",
+    26.88
+   ],
+   [
+    "about",
+    27.27
+   ],
+   [
+    "a",
+    27.59
+   ],
+   [
+    "centimeter",
+    27.65
+   ],
+   [
+    "by",
+    28.29
+   ],
+   [
+    "bedtime",
+    28.42
+   ]
+  ]
+ },
+ {
+  "s": 29.42,
+  "e": 30.99,
+  "text": "But when you lie down to sleep,",
+  "words": [
+   [
+    "but",
+    29.42
+   ],
+   [
+    "when",
+    29.62
+   ],
+   [
+    "you",
+    29.88
+   ],
+   [
+    "lie",
+    30.07
+   ],
+   [
+    "down",
+    30.27
+   ],
+   [
+    "to",
+    30.53
+   ],
+   [
+    "sleep",
+    30.66
+   ]
+  ]
+ },
+ {
+  "s": 31.29,
+  "e": 32.9,
+  "text": "the weight comes off your spine.",
+  "words": [
+   [
+    "the",
+    31.29
+   ],
+   [
+    "weight",
+    31.47
+   ],
+   [
+    "comes",
+    31.85
+   ],
+   [
+    "off",
+    32.16
+   ],
+   [
+    "your",
+    32.34
+   ],
+   [
+    "spine",
+    32.59
+   ]
+  ]
+ },
+ {
+  "s": 33.45,
+  "e": 35.03,
+  "text": "The discs soak water back up,",
+  "words": [
+   [
+    "the",
+    33.45
+   ],
+   [
+    "discs",
+    33.66
+   ],
+   [
+    "soak",
+    34.0
+   ],
+   [
+    "water",
+    34.28
+   ],
+   [
+    "back",
+    34.62
+   ],
+   [
+    "up",
+    34.9
+   ]
+  ]
+ },
+ {
+  "s": 35.33,
+  "e": 36.64,
+  "text": "like little sponges,",
+  "words": [
+   [
+    "like",
+    35.33
+   ],
+   [
+    "little",
+    35.64
+   ],
+   [
+    "sponges",
+    36.1
+   ]
+  ]
+ },
+ {
+  "s": 36.94,
+  "e": 38.8,
+  "text": "and by morning, you're tall again.",
+  "words": [
+   [
+    "and",
+    36.94
+   ],
+   [
+    "by",
+    37.15
+   ],
+   [
+    "morning",
+    37.3
+   ],
+   [
+    "youre",
+    37.8
+   ],
+   [
+    "tall",
+    38.16
+   ],
+   [
+    "again",
+    38.44
+   ]
+  ]
+ },
+ {
+  "s": 39.35,
+  "e": 41.03,
+  "text": "In space, with no gravity,",
+  "words": [
+   [
+    "in",
+    39.35
+   ],
+   [
+    "space",
+    39.52
+   ],
+   [
+    "with",
+    39.94
+   ],
+   [
+    "no",
+    40.27
+   ],
+   [
+    "gravity",
+    40.44
+   ]
+  ]
+ },
+ {
+  "s": 41.33,
+  "e": 43.61,
+  "text": "astronauts can grow three percent taller!",
+  "words": [
+   [
+    "astronauts",
+    41.33
+   ],
+   [
+    "can",
+    41.98
+   ],
+   [
+    "grow",
+    42.18
+   ],
+   [
+    "three",
+    42.44
+   ],
+   [
+    "percent",
+    42.76
+   ],
+   [
+    "taller",
+    43.22
+   ]
+  ]
+ },
+ {
+  "s": 44.16,
+  "e": 46.6,
+  "text": "So tonight, measure yourself before bed,",
+  "words": [
+   [
+    "so",
+    44.16
+   ],
+   [
+    "tonight",
+    44.31
+   ],
+   [
+    "measure",
+    44.83
+   ],
+   [
+    "yourself",
+    45.34
+   ],
+   [
+    "before",
+    45.93
+   ],
+   [
+    "bed",
+    46.38
+   ]
+  ]
+ },
+ {
+  "s": 46.9,
+  "e": 48.53,
+  "text": "then again when you wake up.",
+  "words": [
+   [
+    "then",
+    46.9
+   ],
+   [
+    "again",
+    47.2
+   ],
+   [
+    "when",
+    47.57
+   ],
+   [
+    "you",
+    47.86
+   ],
+   [
+    "wake",
+    48.09
+   ],
+   [
+    "up",
+    48.38
+   ]
+  ]
+ },
+ {
+  "s": 49.08,
+  "e": 51.84,
+  "text": "Will you be one centimeter taller tomorrow morning?",
+  "words": [
+   [
+    "will",
+    49.08
+   ],
+   [
+    "you",
+    49.34
+   ],
+   [
+    "be",
+    49.53
+   ],
+   [
+    "one",
+    49.66
+   ],
+   [
+    "centimeter",
+    49.85
+   ],
+   [
+    "taller",
+    50.49
+   ],
+   [
+    "tomorrow",
+    50.88
+   ],
+   [
+    "morning",
+    51.39
+   ]
+  ]
+ }
+]
