@@ -1,0 +1,720 @@
+[
+ {
+  "s": 0.25,
+  "e": 1.6,
+  "text": "Hippos sweat red goo,",
+  "words": [
+   [
+    "hippos",
+    0.25
+   ],
+   [
+    "sweat",
+    0.73
+   ],
+   [
+    "red",
+    1.13
+   ],
+   [
+    "goo",
+    1.36
+   ]
+  ]
+ },
+ {
+  "s": 1.9,
+  "e": 3.66,
+  "text": "and you'll never see one sunburned.",
+  "words": [
+   [
+    "and",
+    1.9
+   ],
+   [
+    "youll",
+    2.09
+   ],
+   [
+    "never",
+    2.41
+   ],
+   [
+    "see",
+    2.72
+   ],
+   [
+    "one",
+    2.91
+   ],
+   [
+    "sunburned",
+    3.09
+   ]
+  ]
+ },
+ {
+  "s": 4.21,
+  "e": 5.01,
+  "text": "But why?",
+  "words": [
+   [
+    "but",
+    4.21
+   ],
+   [
+    "why",
+    4.61
+   ]
+  ]
+ },
+ {
+  "s": 5.56,
+  "e": 8.0,
+  "text": "A hippo spends hours in the African sun,",
+  "words": [
+   [
+    "a",
+    5.56
+   ],
+   [
+    "hippo",
+    5.63
+   ],
+   [
+    "spends",
+    6.02
+   ],
+   [
+    "hours",
+    6.47
+   ],
+   [
+    "in",
+    6.86
+   ],
+   [
+    "the",
+    7.01
+   ],
+   [
+    "african",
+    7.24
+   ],
+   [
+    "sun",
+    7.77
+   ]
+  ]
+ },
+ {
+  "s": 8.3,
+  "e": 10.2,
+  "text": "with almost no hair to protect it.",
+  "words": [
+   [
+    "with",
+    8.3
+   ],
+   [
+    "almost",
+    8.58
+   ],
+   [
+    "no",
+    9.0
+   ],
+   [
+    "hair",
+    9.14
+   ],
+   [
+    "to",
+    9.42
+   ],
+   [
+    "protect",
+    9.56
+   ],
+   [
+    "it",
+    10.06
+   ]
+  ]
+ },
+ {
+  "s": 10.75,
+  "e": 12.21,
+  "text": "So its skin fights back.",
+  "words": [
+   [
+    "so",
+    10.75
+   ],
+   [
+    "its",
+    10.9
+   ],
+   [
+    "skin",
+    11.13
+   ],
+   [
+    "fights",
+    11.44
+   ],
+   [
+    "back",
+    11.9
+   ]
+  ]
+ },
+ {
+  "s": 12.76,
+  "e": 14.01,
+  "text": "Glands under the skin",
+  "words": [
+   [
+    "glands",
+    12.76
+   ],
+   [
+    "under",
+    13.18
+   ],
+   [
+    "the",
+    13.53
+   ],
+   [
+    "skin",
+    13.73
+   ]
+  ]
+ },
+ {
+  "s": 14.31,
+  "e": 15.65,
+  "text": "ooze a thick, clear goo.",
+  "words": [
+   [
+    "ooze",
+    14.31
+   ],
+   [
+    "a",
+    14.61
+   ],
+   [
+    "thick",
+    14.68
+   ],
+   [
+    "clear",
+    15.05
+   ],
+   [
+    "goo",
+    15.42
+   ]
+  ]
+ },
+ {
+  "s": 16.2,
+  "e": 17.31,
+  "text": "Within a few minutes,",
+  "words": [
+   [
+    "within",
+    16.2
+   ],
+   [
+    "a",
+    16.59
+   ],
+   [
+    "few",
+    16.66
+   ],
+   [
+    "minutes",
+    16.85
+   ]
+  ]
+ },
+ {
+  "s": 17.61,
+  "e": 18.92,
+  "text": "it turns bright red,",
+  "words": [
+   [
+    "it",
+    17.61
+   ],
+   [
+    "turns",
+    17.77
+   ],
+   [
+    "bright",
+    18.18
+   ],
+   [
+    "red",
+    18.67
+   ]
+  ]
+ },
+ {
+  "s": 19.22,
+  "e": 20.86,
+  "text": "then a rusty orange-brown.",
+  "words": [
+   [
+    "then",
+    19.22
+   ],
+   [
+    "a",
+    19.53
+   ],
+   [
+    "rusty",
+    19.61
+   ],
+   [
+    "orangebrown",
+    20.0
+   ]
+  ]
+ },
+ {
+  "s": 21.41,
+  "e": 23.37,
+  "text": "That's why people call it blood sweat.",
+  "words": [
+   [
+    "thats",
+    21.41
+   ],
+   [
+    "why",
+    21.73
+   ],
+   [
+    "people",
+    21.93
+   ],
+   [
+    "call",
+    22.32
+   ],
+   [
+    "it",
+    22.58
+   ],
+   [
+    "blood",
+    22.71
+   ],
+   [
+    "sweat",
+    23.04
+   ]
+  ]
+ },
+ {
+  "s": 23.92,
+  "e": 25.03,
+  "text": "But it's not blood,",
+  "words": [
+   [
+    "but",
+    23.92
+   ],
+   [
+    "its",
+    24.16
+   ],
+   [
+    "not",
+    24.4
+   ],
+   [
+    "blood",
+    24.64
+   ]
+  ]
+ },
+ {
+  "s": 25.33,
+  "e": 26.65,
+  "text": "and it's not really sweat.",
+  "words": [
+   [
+    "and",
+    25.33
+   ],
+   [
+    "its",
+    25.53
+   ],
+   [
+    "not",
+    25.73
+   ],
+   [
+    "really",
+    25.93
+   ],
+   [
+    "sweat",
+    26.32
+   ]
+  ]
+ },
+ {
+  "s": 27.2,
+  "e": 29.02,
+  "text": "The color comes from two pigments,",
+  "words": [
+   [
+    "the",
+    27.2
+   ],
+   [
+    "color",
+    27.39
+   ],
+   [
+    "comes",
+    27.72
+   ],
+   [
+    "from",
+    28.04
+   ],
+   [
+    "two",
+    28.3
+   ],
+   [
+    "pigments",
+    28.5
+   ]
+  ]
+ },
+ {
+  "s": 29.32,
+  "e": 30.73,
+  "text": "one red, one orange.",
+  "words": [
+   [
+    "one",
+    29.32
+   ],
+   [
+    "red",
+    29.6
+   ],
+   [
+    "one",
+    29.88
+   ],
+   [
+    "orange",
+    30.17
+   ]
+  ]
+ },
+ {
+  "s": 31.28,
+  "e": 33.79,
+  "text": "Together, they soak up ultraviolet light,",
+  "words": [
+   [
+    "together",
+    31.28
+   ],
+   [
+    "they",
+    31.87
+   ],
+   [
+    "soak",
+    32.17
+   ],
+   [
+    "up",
+    32.46
+   ],
+   [
+    "ultraviolet",
+    32.61
+   ],
+   [
+    "light",
+    33.42
+   ]
+  ]
+ },
+ {
+  "s": 34.09,
+  "e": 35.55,
+  "text": "like built-in sunscreen.",
+  "words": [
+   [
+    "like",
+    34.09
+   ],
+   [
+    "builtin",
+    34.38
+   ],
+   [
+    "sunscreen",
+    34.89
+   ]
+  ]
+ },
+ {
+  "s": 36.1,
+  "e": 37.86,
+  "text": "And the red one does even more.",
+  "words": [
+   [
+    "and",
+    36.1
+   ],
+   [
+    "the",
+    36.32
+   ],
+   [
+    "red",
+    36.54
+   ],
+   [
+    "one",
+    36.76
+   ],
+   [
+    "does",
+    36.98
+   ],
+   [
+    "even",
+    37.27
+   ],
+   [
+    "more",
+    37.57
+   ]
+  ]
+ },
+ {
+  "s": 38.41,
+  "e": 39.51,
+  "text": "In lab tests,",
+  "words": [
+   [
+    "in",
+    38.41
+   ],
+   [
+    "lab",
+    38.63
+   ],
+   [
+    "tests",
+    38.96
+   ]
+  ]
+ },
+ {
+  "s": 39.81,
+  "e": 42.16,
+  "text": "it stopped nasty bacteria from growing.",
+  "words": [
+   [
+    "it",
+    39.81
+   ],
+   [
+    "stopped",
+    39.95
+   ],
+   [
+    "nasty",
+    40.45
+   ],
+   [
+    "bacteria",
+    40.81
+   ],
+   [
+    "from",
+    41.38
+   ],
+   [
+    "growing",
+    41.66
+   ]
+  ]
+ },
+ {
+  "s": 42.71,
+  "e": 45.67,
+  "text": "Handy, when rivals leave scratches all over you.",
+  "words": [
+   [
+    "handy",
+    42.71
+   ],
+   [
+    "when",
+    43.09
+   ],
+   [
+    "rivals",
+    43.39
+   ],
+   [
+    "leave",
+    43.85
+   ],
+   [
+    "scratches",
+    44.23
+   ],
+   [
+    "all",
+    44.91
+   ],
+   [
+    "over",
+    45.14
+   ],
+   [
+    "you",
+    45.44
+   ]
+  ]
+ },
+ {
+  "s": 46.22,
+  "e": 48.17,
+  "text": "So a hippo makes its own sunscreen,",
+  "words": [
+   [
+    "so",
+    46.22
+   ],
+   [
+    "a",
+    46.36
+   ],
+   [
+    "hippo",
+    46.43
+   ],
+   [
+    "makes",
+    46.78
+   ],
+   [
+    "its",
+    47.13
+   ],
+   [
+    "own",
+    47.34
+   ],
+   [
+    "sunscreen",
+    47.54
+   ]
+  ]
+ },
+ {
+  "s": 48.47,
+  "e": 50.14,
+  "text": "and its own antibiotic.",
+  "words": [
+   [
+    "and",
+    48.47
+   ],
+   [
+    "its",
+    48.74
+   ],
+   [
+    "own",
+    49.0
+   ],
+   [
+    "antibiotic",
+    49.26
+   ]
+  ]
+ },
+ {
+  "s": 50.69,
+  "e": 52.13,
+  "text": "If you could sweat any color,",
+  "words": [
+   [
+    "if",
+    50.69
+   ],
+   [
+    "you",
+    50.82
+   ],
+   [
+    "could",
+    51.01
+   ],
+   [
+    "sweat",
+    51.32
+   ],
+   [
+    "any",
+    51.63
+   ],
+   [
+    "color",
+    51.82
+   ]
+  ]
+ },
+ {
+  "s": 52.43,
+  "e": 53.72,
+  "text": "which one would you pick?",
+  "words": [
+   [
+    "which",
+    52.43
+   ],
+   [
+    "one",
+    52.76
+   ],
+   [
+    "would",
+    52.95
+   ],
+   [
+    "you",
+    53.27
+   ],
+   [
+    "pick",
+    53.46
+   ]
+  ]
+ }
+]
