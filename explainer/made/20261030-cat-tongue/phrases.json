@@ -1,0 +1,706 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.63,
+  "text": "Why does your cat's tongue feel like sandpaper?",
+  "words": [
+   [
+    "why",
+    0.25
+   ],
+   [
+    "does",
+    0.44
+   ],
+   [
+    "your",
+    0.69
+   ],
+   [
+    "cats",
+    0.94
+   ],
+   [
+    "tongue",
+    1.19
+   ],
+   [
+    "feel",
+    1.57
+   ],
+   [
+    "like",
+    1.82
+   ],
+   [
+    "sandpaper",
+    2.07
+   ]
+  ]
+ },
+ {
+  "s": 3.18,
+  "e": 5.8,
+  "text": "It's covered in about 300 tiny hooks,",
+  "words": [
+   [
+    "its",
+    3.18
+   ],
+   [
+    "covered",
+    3.45
+   ],
+   [
+    "in",
+    4.08
+   ],
+   [
+    "about",
+    4.26
+   ],
+   [
+    "300",
+    4.72
+   ],
+   [
+    "tiny",
+    4.99
+   ],
+   [
+    "hooks",
+    5.35
+   ]
+  ]
+ },
+ {
+  "s": 6.1,
+  "e": 7.52,
+  "text": "all pointing backwards.",
+  "words": [
+   [
+    "all",
+    6.1
+   ],
+   [
+    "pointing",
+    6.31
+   ],
+   [
+    "backwards",
+    6.88
+   ]
+  ]
+ },
+ {
+  "s": 8.07,
+  "e": 10.14,
+  "text": "Each hook is a spine called a papilla,",
+  "words": [
+   [
+    "each",
+    8.07
+   ],
+   [
+    "hook",
+    8.35
+   ],
+   [
+    "is",
+    8.62
+   ],
+   [
+    "a",
+    8.76
+   ],
+   [
+    "spine",
+    8.83
+   ],
+   [
+    "called",
+    9.17
+   ],
+   [
+    "a",
+    9.59
+   ],
+   [
+    "papilla",
+    9.65
+   ]
+  ]
+ },
+ {
+  "s": 10.44,
+  "e": 11.58,
+  "text": "made of keratin,",
+  "words": [
+   [
+    "made",
+    10.44
+   ],
+   [
+    "of",
+    10.79
+   ],
+   [
+    "keratin",
+    10.97
+   ]
+  ]
+ },
+ {
+  "s": 11.88,
+  "e": 13.86,
+  "text": "the same stuff as your fingernails.",
+  "words": [
+   [
+    "the",
+    11.88
+   ],
+   [
+    "same",
+    12.09
+   ],
+   [
+    "stuff",
+    12.36
+   ],
+   [
+    "as",
+    12.7
+   ],
+   [
+    "your",
+    12.84
+   ],
+   [
+    "fingernails",
+    13.11
+   ]
+  ]
+ },
+ {
+  "s": 14.41,
+  "e": 15.59,
+  "text": "But the weirdest part?",
+  "words": [
+   [
+    "but",
+    14.41
+   ],
+   [
+    "the",
+    14.61
+   ],
+   [
+    "weirdest",
+    14.81
+   ],
+   [
+    "part",
+    15.33
+   ]
+  ]
+ },
+ {
+  "s": 16.14,
+  "e": 18.08,
+  "text": "The tip of every spine is hollow,",
+  "words": [
+   [
+    "the",
+    16.14
+   ],
+   [
+    "tip",
+    16.36
+   ],
+   [
+    "of",
+    16.59
+   ],
+   [
+    "every",
+    16.74
+   ],
+   [
+    "spine",
+    17.11
+   ],
+   [
+    "is",
+    17.48
+   ],
+   [
+    "hollow",
+    17.63
+   ]
+  ]
+ },
+ {
+  "s": 18.38,
+  "e": 20.34,
+  "text": "a tiny scoop, like a quill pen.",
+  "words": [
+   [
+    "a",
+    18.38
+   ],
+   [
+    "tiny",
+    18.47
+   ],
+   [
+    "scoop",
+    18.81
+   ],
+   [
+    "like",
+    19.23
+   ],
+   [
+    "a",
+    19.58
+   ],
+   [
+    "quill",
+    19.66
+   ],
+   [
+    "pen",
+    20.09
+   ]
+  ]
+ },
+ {
+  "s": 20.89,
+  "e": 21.95,
+  "text": "When a cat licks,",
+  "words": [
+   [
+    "when",
+    20.89
+   ],
+   [
+    "a",
+    21.22
+   ],
+   [
+    "cat",
+    21.3
+   ],
+   [
+    "licks",
+    21.54
+   ]
+  ]
+ },
+ {
+  "s": 22.25,
+  "e": 23.87,
+  "text": "those scoops sip up saliva,",
+  "words": [
+   [
+    "those",
+    22.25
+   ],
+   [
+    "scoops",
+    22.62
+   ],
+   [
+    "sip",
+    23.06
+   ],
+   [
+    "up",
+    23.28
+   ],
+   [
+    "saliva",
+    23.43
+   ]
+  ]
+ },
+ {
+  "s": 24.17,
+  "e": 25.71,
+  "text": "slide down through the fur,",
+  "words": [
+   [
+    "slide",
+    24.17
+   ],
+   [
+    "down",
+    24.52
+   ],
+   [
+    "through",
+    24.8
+   ],
+   [
+    "the",
+    25.29
+   ],
+   [
+    "fur",
+    25.5
+   ]
+  ]
+ },
+ {
+  "s": 26.01,
+  "e": 27.54,
+  "text": "and drop it onto the skin.",
+  "words": [
+   [
+    "and",
+    26.01
+   ],
+   [
+    "drop",
+    26.24
+   ],
+   [
+    "it",
+    26.55
+   ],
+   [
+    "onto",
+    26.7
+   ],
+   [
+    "the",
+    27.01
+   ],
+   [
+    "skin",
+    27.24
+   ]
+  ]
+ },
+ {
+  "s": 28.09,
+  "e": 29.96,
+  "text": "That pulls out dirt and tangles,",
+  "words": [
+   [
+    "that",
+    28.09
+   ],
+   [
+    "pulls",
+    28.38
+   ],
+   [
+    "out",
+    28.74
+   ],
+   [
+    "dirt",
+    28.96
+   ],
+   [
+    "and",
+    29.25
+   ],
+   [
+    "tangles",
+    29.46
+   ]
+  ]
+ },
+ {
+  "s": 30.26,
+  "e": 31.69,
+  "text": "and as the spit dries,",
+  "words": [
+   [
+    "and",
+    30.26
+   ],
+   [
+    "as",
+    30.52
+   ],
+   [
+    "the",
+    30.68
+   ],
+   [
+    "spit",
+    30.93
+   ],
+   [
+    "dries",
+    31.27
+   ]
+  ]
+ },
+ {
+  "s": 31.99,
+  "e": 33.45,
+  "text": "it cools the cat down.",
+  "words": [
+   [
+    "it",
+    31.99
+   ],
+   [
+    "cools",
+    32.16
+   ],
+   [
+    "the",
+    32.59
+   ],
+   [
+    "cat",
+    32.85
+   ],
+   [
+    "down",
+    33.1
+   ]
+  ]
+ },
+ {
+  "s": 34.0,
+  "e": 35.9,
+  "text": "Scientists think grooming handles",
+  "words": [
+   [
+    "scientists",
+    34.0
+   ],
+   [
+    "think",
+    34.63
+   ],
+   [
+    "grooming",
+    34.95
+   ],
+   [
+    "handles",
+    35.46
+   ]
+  ]
+ },
+ {
+  "s": 36.2,
+  "e": 38.13,
+  "text": "up to a quarter of a cat's cooling.",
+  "words": [
+   [
+    "up",
+    36.2
+   ],
+   [
+    "to",
+    36.35
+   ],
+   [
+    "a",
+    36.5
+   ],
+   [
+    "quarter",
+    36.57
+   ],
+   [
+    "of",
+    37.09
+   ],
+   [
+    "a",
+    37.24
+   ],
+   [
+    "cats",
+    37.31
+   ],
+   [
+    "cooling",
+    37.61
+   ]
+  ]
+ },
+ {
+  "s": 38.68,
+  "e": 40.64,
+  "text": "No wonder cats spend up to a quarter",
+  "words": [
+   [
+    "no",
+    38.68
+   ],
+   [
+    "wonder",
+    38.81
+   ],
+   [
+    "cats",
+    39.22
+   ],
+   [
+    "spend",
+    39.49
+   ],
+   [
+    "up",
+    39.83
+   ],
+   [
+    "to",
+    39.96
+   ],
+   [
+    "a",
+    40.1
+   ],
+   [
+    "quarter",
+    40.16
+   ]
+  ]
+ },
+ {
+  "s": 40.94,
+  "e": 43.3,
+  "text": "of their waking hours licking themselves.",
+  "words": [
+   [
+    "of",
+    40.94
+   ],
+   [
+    "their",
+    41.07
+   ],
+   [
+    "waking",
+    41.41
+   ],
+   [
+    "hours",
+    41.81
+   ],
+   [
+    "licking",
+    42.15
+   ],
+   [
+    "themselves",
+    42.62
+   ]
+  ]
+ },
+ {
+  "s": 43.85,
+  "e": 45.48,
+  "text": "Researchers built a hairbrush",
+  "words": [
+   [
+    "researchers",
+    43.85
+   ],
+   [
+    "built",
+    44.54
+   ],
+   [
+    "a",
+    44.85
+   ],
+   [
+    "hairbrush",
+    44.91
+   ]
+  ]
+ },
+ {
+  "s": 45.78,
+  "e": 47.13,
+  "text": "copying the cat's tongue.",
+  "words": [
+   [
+    "copying",
+    45.78
+   ],
+   [
+    "the",
+    46.25
+   ],
+   [
+    "cats",
+    46.45
+   ],
+   [
+    "tongue",
+    46.72
+   ]
+  ]
+ },
+ {
+  "s": 47.68,
+  "e": 49.02,
+  "text": "So would you brush your hair",
+  "words": [
+   [
+    "so",
+    47.68
+   ],
+   [
+    "would",
+    47.8
+   ],
+   [
+    "you",
+    48.09
+   ],
+   [
+    "brush",
+    48.26
+   ],
+   [
+    "your",
+    48.56
+   ],
+   [
+    "hair",
+    48.79
+   ]
+  ]
+ },
+ {
+  "s": 49.32,
+  "e": 51.02,
+  "text": "with three hundred tiny hooks?",
+  "words": [
+   [
+    "with",
+    49.32
+   ],
+   [
+    "three",
+    49.59
+   ],
+   [
+    "hundred",
+    49.93
+   ],
+   [
+    "tiny",
+    50.41
+   ],
+   [
+    "hooks",
+    50.68
+   ]
+  ]
+ }
+]
