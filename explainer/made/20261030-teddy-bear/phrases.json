@@ -1,0 +1,2418 @@
+[
+ {
+  "s": 0.25,
+  "e": 3.9,
+  "text": "In nineteen-oh-two, a president refused to shoot one bear,",
+  "words": [
+   [
+    "in",
+    0.25
+   ],
+   [
+    "nineteenohtwo",
+    0.41
+   ],
+   [
+    "a",
+    1.44
+   ],
+   [
+    "president",
+    1.52
+   ],
+   [
+    "refused",
+    2.23
+   ],
+   [
+    "to",
+    2.79
+   ],
+   [
+    "shoot",
+    2.94
+   ],
+   [
+    "one",
+    3.34
+   ],
+   [
+    "bear",
+    3.58
+   ]
+  ]
+ },
+ {
+  "s": 4.2,
+  "e": 6.15,
+  "text": "and that's why your teddy bear exists.",
+  "words": [
+   [
+    "and",
+    4.2
+   ],
+   [
+    "thats",
+    4.39
+   ],
+   [
+    "why",
+    4.72
+   ],
+   [
+    "your",
+    4.91
+   ],
+   [
+    "teddy",
+    5.17
+   ],
+   [
+    "bear",
+    5.5
+   ],
+   [
+    "exists",
+    5.76
+   ]
+  ]
+ },
+ {
+  "s": 6.7,
+  "e": 8.27,
+  "text": "Here's how it all started,",
+  "words": [
+   [
+    "heres",
+    6.7
+   ],
+   [
+    "how",
+    7.09
+   ],
+   [
+    "it",
+    7.32
+   ],
+   [
+    "all",
+    7.48
+   ],
+   [
+    "started",
+    7.72
+   ]
+  ]
+ },
+ {
+  "s": 8.57,
+  "e": 10.92,
+  "text": "on a muddy hunting trip in Mississippi.",
+  "words": [
+   [
+    "on",
+    8.57
+   ],
+   [
+    "a",
+    8.71
+   ],
+   [
+    "muddy",
+    8.79
+   ],
+   [
+    "hunting",
+    9.16
+   ],
+   [
+    "trip",
+    9.67
+   ],
+   [
+    "in",
+    9.96
+   ],
+   [
+    "mississippi",
+    10.11
+   ]
+  ]
+ },
+ {
+  "s": 11.47,
+  "e": 12.37,
+  "text": "It's November.",
+  "words": [
+   [
+    "its",
+    11.47
+   ],
+   [
+    "november",
+    11.71
+   ]
+  ]
+ },
+ {
+  "s": 12.92,
+  "e": 15.99,
+  "text": "President Theodore Roosevelt is out in the swamps,",
+  "words": [
+   [
+    "president",
+    12.92
+   ],
+   [
+    "theodore",
+    13.57
+   ],
+   [
+    "roosevelt",
+    14.16
+   ],
+   [
+    "is",
+    14.82
+   ],
+   [
+    "out",
+    14.96
+   ],
+   [
+    "in",
+    15.18
+   ],
+   [
+    "the",
+    15.33
+   ],
+   [
+    "swamps",
+    15.55
+   ]
+  ]
+ },
+ {
+  "s": 16.29,
+  "e": 18.34,
+  "text": "on a bear hunt with the state's governor.",
+  "words": [
+   [
+    "on",
+    16.29
+   ],
+   [
+    "a",
+    16.42
+   ],
+   [
+    "bear",
+    16.48
+   ],
+   [
+    "hunt",
+    16.74
+   ],
+   [
+    "with",
+    16.99
+   ],
+   [
+    "the",
+    17.25
+   ],
+   [
+    "states",
+    17.44
+   ],
+   [
+    "governor",
+    17.82
+   ]
+  ]
+ },
+ {
+  "s": 18.89,
+  "e": 20.26,
+  "text": "After days of searching,",
+  "words": [
+   [
+    "after",
+    18.89
+   ],
+   [
+    "days",
+    19.23
+   ],
+   [
+    "of",
+    19.51
+   ],
+   [
+    "searching",
+    19.64
+   ]
+  ]
+ },
+ {
+  "s": 20.56,
+  "e": 22.65,
+  "text": "Roosevelt hasn't seen a single bear.",
+  "words": [
+   [
+    "roosevelt",
+    20.56
+   ],
+   [
+    "hasnt",
+    21.21
+   ],
+   [
+    "seen",
+    21.57
+   ],
+   [
+    "a",
+    21.86
+   ],
+   [
+    "single",
+    21.93
+   ],
+   [
+    "bear",
+    22.36
+   ]
+  ]
+ },
+ {
+  "s": 23.2,
+  "e": 24.97,
+  "text": "So his guide, Holt Collier,",
+  "words": [
+   [
+    "so",
+    23.2
+   ],
+   [
+    "his",
+    23.37
+   ],
+   [
+    "guide",
+    23.62
+   ],
+   [
+    "holt",
+    24.04
+   ],
+   [
+    "collier",
+    24.38
+   ]
+  ]
+ },
+ {
+  "s": 25.27,
+  "e": 27.45,
+  "text": "tracks one down with the hunting dogs,",
+  "words": [
+   [
+    "tracks",
+    25.27
+   ],
+   [
+    "one",
+    25.69
+   ],
+   [
+    "down",
+    25.9
+   ],
+   [
+    "with",
+    26.18
+   ],
+   [
+    "the",
+    26.46
+   ],
+   [
+    "hunting",
+    26.67
+   ],
+   [
+    "dogs",
+    27.16
+   ]
+  ]
+ },
+ {
+  "s": 27.75,
+  "e": 29.11,
+  "text": "and ties it to a tree.",
+  "words": [
+   [
+    "and",
+    27.75
+   ],
+   [
+    "ties",
+    28.0
+   ],
+   [
+    "it",
+    28.34
+   ],
+   [
+    "to",
+    28.51
+   ],
+   [
+    "a",
+    28.68
+   ],
+   [
+    "tree",
+    28.77
+   ]
+  ]
+ },
+ {
+  "s": 29.66,
+  "e": 31.69,
+  "text": "Everyone waits for the president to shoot.",
+  "words": [
+   [
+    "everyone",
+    29.66
+   ],
+   [
+    "waits",
+    30.12
+   ],
+   [
+    "for",
+    30.41
+   ],
+   [
+    "the",
+    30.59
+   ],
+   [
+    "president",
+    30.76
+   ],
+   [
+    "to",
+    31.28
+   ],
+   [
+    "shoot",
+    31.4
+   ]
+  ]
+ },
+ {
+  "s": 32.24,
+  "e": 33.71,
+  "text": "But Roosevelt says no.",
+  "words": [
+   [
+    "but",
+    32.24
+   ],
+   [
+    "roosevelt",
+    32.48
+   ],
+   [
+    "says",
+    33.22
+   ],
+   [
+    "no",
+    33.55
+   ]
+  ]
+ },
+ {
+  "s": 34.26,
+  "e": 36.19,
+  "text": "Shooting a tied-up bear isn't fair,",
+  "words": [
+   [
+    "shooting",
+    34.26
+   ],
+   [
+    "a",
+    34.83
+   ],
+   [
+    "tiedup",
+    34.9
+   ],
+   [
+    "bear",
+    35.33
+   ],
+   [
+    "isnt",
+    35.62
+   ],
+   [
+    "fair",
+    35.9
+   ]
+  ]
+ },
+ {
+  "s": 36.49,
+  "e": 37.73,
+  "text": "so he refuses.",
+  "words": [
+   [
+    "so",
+    36.49
+   ],
+   [
+    "he",
+    36.72
+   ],
+   [
+    "refuses",
+    36.94
+   ]
+  ]
+ },
+ {
+  "s": 38.28,
+  "e": 39.41,
+  "text": "A few days later,",
+  "words": [
+   [
+    "a",
+    38.28
+   ],
+   [
+    "few",
+    38.37
+   ],
+   [
+    "days",
+    38.63
+   ],
+   [
+    "later",
+    38.98
+   ]
+  ]
+ },
+ {
+  "s": 39.71,
+  "e": 41.72,
+  "text": "a cartoonist named Clifford Berryman",
+  "words": [
+   [
+    "a",
+    39.71
+   ],
+   [
+    "cartoonist",
+    39.78
+   ],
+   [
+    "named",
+    40.4
+   ],
+   [
+    "clifford",
+    40.72
+   ],
+   [
+    "berryman",
+    41.22
+   ]
+  ]
+ },
+ {
+  "s": 42.02,
+  "e": 44.35,
+  "text": "draws the moment for the Washington Post.",
+  "words": [
+   [
+    "draws",
+    42.02
+   ],
+   [
+    "the",
+    42.36
+   ],
+   [
+    "moment",
+    42.57
+   ],
+   [
+    "for",
+    42.98
+   ],
+   [
+    "the",
+    43.18
+   ],
+   [
+    "washington",
+    43.39
+   ],
+   [
+    "post",
+    44.08
+   ]
+  ]
+ },
+ {
+  "s": 44.9,
+  "e": 47.46,
+  "text": "In his cartoon, the bear is small and scared,",
+  "words": [
+   [
+    "in",
+    44.9
+   ],
+   [
+    "his",
+    45.05
+   ],
+   [
+    "cartoon",
+    45.27
+   ],
+   [
+    "the",
+    45.78
+   ],
+   [
+    "bear",
+    46.0
+   ],
+   [
+    "is",
+    46.29
+   ],
+   [
+    "small",
+    46.43
+   ],
+   [
+    "and",
+    46.8
+   ],
+   [
+    "scared",
+    47.02
+   ]
+  ]
+ },
+ {
+  "s": 47.76,
+  "e": 49.1,
+  "text": "with big round eyes.",
+  "words": [
+   [
+    "with",
+    47.76
+   ],
+   [
+    "big",
+    48.09
+   ],
+   [
+    "round",
+    48.34
+   ],
+   [
+    "eyes",
+    48.76
+   ]
+  ]
+ },
+ {
+  "s": 49.65,
+  "e": 50.63,
+  "text": "Readers love it.",
+  "words": [
+   [
+    "readers",
+    49.65
+   ],
+   [
+    "love",
+    50.18
+   ],
+   [
+    "it",
+    50.48
+   ]
+  ]
+ },
+ {
+  "s": 51.18,
+  "e": 53.79,
+  "text": "Berryman keeps drawing that little bear for years,",
+  "words": [
+   [
+    "berryman",
+    51.18
+   ],
+   [
+    "keeps",
+    51.68
+   ],
+   [
+    "drawing",
+    51.99
+   ],
+   [
+    "that",
+    52.43
+   ],
+   [
+    "little",
+    52.67
+   ],
+   [
+    "bear",
+    53.05
+   ],
+   [
+    "for",
+    53.3
+   ],
+   [
+    "years",
+    53.48
+   ]
+  ]
+ },
+ {
+  "s": 54.09,
+  "e": 56.01,
+  "text": "like Roosevelt's furry sidekick.",
+  "words": [
+   [
+    "like",
+    54.09
+   ],
+   [
+    "roosevelts",
+    54.38
+   ],
+   [
+    "furry",
+    55.09
+   ],
+   [
+    "sidekick",
+    55.44
+   ]
+  ]
+ },
+ {
+  "s": 56.56,
+  "e": 58.53,
+  "text": "Now jump to Brooklyn, New York.",
+  "words": [
+   [
+    "now",
+    56.56
+   ],
+   [
+    "jump",
+    56.81
+   ],
+   [
+    "to",
+    57.13
+   ],
+   [
+    "brooklyn",
+    57.3
+   ],
+   [
+    "new",
+    57.95
+   ],
+   [
+    "york",
+    58.2
+   ]
+  ]
+ },
+ {
+  "s": 59.08,
+  "e": 61.75,
+  "text": "Morris and Rose Michtom run a small shop,",
+  "words": [
+   [
+    "morris",
+    59.08
+   ],
+   [
+    "and",
+    59.56
+   ],
+   [
+    "rose",
+    59.8
+   ],
+   [
+    "michtom",
+    60.13
+   ],
+   [
+    "run",
+    60.69
+   ],
+   [
+    "a",
+    60.94
+   ],
+   [
+    "small",
+    61.02
+   ],
+   [
+    "shop",
+    61.42
+   ]
+  ]
+ },
+ {
+  "s": 62.05,
+  "e": 63.63,
+  "text": "selling candy and toys.",
+  "words": [
+   [
+    "selling",
+    62.05
+   ],
+   [
+    "candy",
+    62.63
+   ],
+   [
+    "and",
+    63.04
+   ],
+   [
+    "toys",
+    63.29
+   ]
+  ]
+ },
+ {
+  "s": 64.18,
+  "e": 65.46,
+  "text": "They see the cartoon,",
+  "words": [
+   [
+    "they",
+    64.18
+   ],
+   [
+    "see",
+    64.48
+   ],
+   [
+    "the",
+    64.7
+   ],
+   [
+    "cartoon",
+    64.93
+   ]
+  ]
+ },
+ {
+  "s": 65.76,
+  "e": 67.85,
+  "text": "and Rose sews a soft, stuffed bear.",
+  "words": [
+   [
+    "and",
+    65.76
+   ],
+   [
+    "rose",
+    65.99
+   ],
+   [
+    "sews",
+    66.3
+   ],
+   [
+    "a",
+    66.61
+   ],
+   [
+    "soft",
+    66.69
+   ],
+   [
+    "stuffed",
+    67.0
+   ],
+   [
+    "bear",
+    67.54
+   ]
+  ]
+ },
+ {
+  "s": 68.4,
+  "e": 69.81,
+  "text": "They put it in the window,",
+  "words": [
+   [
+    "they",
+    68.4
+   ],
+   [
+    "put",
+    68.69
+   ],
+   [
+    "it",
+    68.9
+   ],
+   [
+    "in",
+    69.04
+   ],
+   [
+    "the",
+    69.18
+   ],
+   [
+    "window",
+    69.39
+   ]
+  ]
+ },
+ {
+  "s": 70.11,
+  "e": 72.2,
+  "text": "with a sign that says, Teddy's bear.",
+  "words": [
+   [
+    "with",
+    70.11
+   ],
+   [
+    "a",
+    70.42
+   ],
+   [
+    "sign",
+    70.5
+   ],
+   [
+    "that",
+    70.81
+   ],
+   [
+    "says",
+    71.12
+   ],
+   [
+    "teddys",
+    71.43
+   ],
+   [
+    "bear",
+    71.89
+   ]
+  ]
+ },
+ {
+  "s": 72.75,
+  "e": 75.43,
+  "text": "The story goes, they even wrote to Roosevelt",
+  "words": [
+   [
+    "the",
+    72.75
+   ],
+   [
+    "story",
+    72.97
+   ],
+   [
+    "goes",
+    73.34
+   ],
+   [
+    "they",
+    73.64
+   ],
+   [
+    "even",
+    73.94
+   ],
+   [
+    "wrote",
+    74.24
+   ],
+   [
+    "to",
+    74.61
+   ],
+   [
+    "roosevelt",
+    74.76
+   ]
+  ]
+ },
+ {
+  "s": 75.73,
+  "e": 77.65,
+  "text": "to ask if they could use his name.",
+  "words": [
+   [
+    "to",
+    75.73
+   ],
+   [
+    "ask",
+    75.87
+   ],
+   [
+    "if",
+    76.1
+   ],
+   [
+    "they",
+    76.24
+   ],
+   [
+    "could",
+    76.54
+   ],
+   [
+    "use",
+    76.91
+   ],
+   [
+    "his",
+    77.13
+   ],
+   [
+    "name",
+    77.35
+   ]
+  ]
+ },
+ {
+  "s": 78.2,
+  "e": 79.7,
+  "text": "The bears sell out fast.",
+  "words": [
+   [
+    "the",
+    78.2
+   ],
+   [
+    "bears",
+    78.44
+   ],
+   [
+    "sell",
+    78.83
+   ],
+   [
+    "out",
+    79.15
+   ],
+   [
+    "fast",
+    79.39
+   ]
+  ]
+ },
+ {
+  "s": 80.25,
+  "e": 81.71,
+  "text": "So many people want one,",
+  "words": [
+   [
+    "so",
+    80.25
+   ],
+   [
+    "many",
+    80.41
+   ],
+   [
+    "people",
+    80.71
+   ],
+   [
+    "want",
+    81.17
+   ],
+   [
+    "one",
+    81.48
+   ]
+  ]
+ },
+ {
+  "s": 82.01,
+  "e": 85.15,
+  "text": "the Michtoms start a whole toy company, called Ideal.",
+  "words": [
+   [
+    "the",
+    82.01
+   ],
+   [
+    "michtoms",
+    82.23
+   ],
+   [
+    "start",
+    82.82
+   ],
+   [
+    "a",
+    83.18
+   ],
+   [
+    "whole",
+    83.25
+   ],
+   [
+    "toy",
+    83.62
+   ],
+   [
+    "company",
+    83.84
+   ],
+   [
+    "called",
+    84.35
+   ],
+   [
+    "ideal",
+    84.79
+   ]
+  ]
+ },
+ {
+  "s": 85.7,
+  "e": 86.91,
+  "text": "But here's the twist.",
+  "words": [
+   [
+    "but",
+    85.7
+   ],
+   [
+    "heres",
+    85.93
+   ],
+   [
+    "the",
+    86.31
+   ],
+   [
+    "twist",
+    86.53
+   ]
+  ]
+ },
+ {
+  "s": 87.46,
+  "e": 89.56,
+  "text": "At almost the same time, in Germany,",
+  "words": [
+   [
+    "at",
+    87.46
+   ],
+   [
+    "almost",
+    87.61
+   ],
+   [
+    "the",
+    88.06
+   ],
+   [
+    "same",
+    88.28
+   ],
+   [
+    "time",
+    88.58
+   ],
+   [
+    "in",
+    88.88
+   ],
+   [
+    "germany",
+    89.03
+   ]
+  ]
+ },
+ {
+  "s": 89.86,
+  "e": 92.76,
+  "text": "a toy maker called Steiff was making bears too.",
+  "words": [
+   [
+    "a",
+    89.86
+   ],
+   [
+    "toy",
+    89.94
+   ],
+   [
+    "maker",
+    90.16
+   ],
+   [
+    "called",
+    90.55
+   ],
+   [
+    "steiff",
+    91.0
+   ],
+   [
+    "was",
+    91.46
+   ],
+   [
+    "making",
+    91.69
+   ],
+   [
+    "bears",
+    92.15
+   ],
+   [
+    "too",
+    92.53
+   ]
+  ]
+ },
+ {
+  "s": 93.31,
+  "e": 95.24,
+  "text": "Margarete Steiff started the company",
+  "words": [
+   [
+    "margarete",
+    93.31
+   ],
+   [
+    "steiff",
+    93.85
+   ],
+   [
+    "started",
+    94.21
+   ],
+   [
+    "the",
+    94.63
+   ],
+   [
+    "company",
+    94.82
+   ]
+  ]
+ },
+ {
+  "s": 95.54,
+  "e": 97.11,
+  "text": "by sewing felt elephants.",
+  "words": [
+   [
+    "by",
+    95.54
+   ],
+   [
+    "sewing",
+    95.69
+   ],
+   [
+    "felt",
+    96.14
+   ],
+   [
+    "elephants",
+    96.44
+   ]
+  ]
+ },
+ {
+  "s": 97.66,
+  "e": 100.15,
+  "text": "Her nephew Richard loved sketching bears,",
+  "words": [
+   [
+    "her",
+    97.66
+   ],
+   [
+    "nephew",
+    97.87
+   ],
+   [
+    "richard",
+    98.3
+   ],
+   [
+    "loved",
+    98.8
+   ],
+   [
+    "sketching",
+    99.15
+   ],
+   [
+    "bears",
+    99.79
+   ]
+  ]
+ },
+ {
+  "s": 100.45,
+  "e": 103.39,
+  "text": "and he designed one with arms and legs that move.",
+  "words": [
+   [
+    "and",
+    100.45
+   ],
+   [
+    "he",
+    100.67
+   ],
+   [
+    "designed",
+    100.82
+   ],
+   [
+    "one",
+    101.43
+   ],
+   [
+    "with",
+    101.66
+   ],
+   [
+    "arms",
+    101.96
+   ],
+   [
+    "and",
+    102.26
+   ],
+   [
+    "legs",
+    102.49
+   ],
+   [
+    "that",
+    102.79
+   ],
+   [
+    "move",
+    103.09
+   ]
+  ]
+ },
+ {
+  "s": 103.94,
+  "e": 105.22,
+  "text": "In nineteen-oh-three,",
+  "words": [
+   [
+    "in",
+    103.94
+   ],
+   [
+    "nineteenohthree",
+    104.09
+   ]
+  ]
+ },
+ {
+  "s": 105.52,
+  "e": 107.71,
+  "text": "he took it to a big toy fair in Leipzig.",
+  "words": [
+   [
+    "he",
+    105.52
+   ],
+   [
+    "took",
+    105.67
+   ],
+   [
+    "it",
+    105.96
+   ],
+   [
+    "to",
+    106.11
+   ],
+   [
+    "a",
+    106.25
+   ],
+   [
+    "big",
+    106.33
+   ],
+   [
+    "toy",
+    106.55
+   ],
+   [
+    "fair",
+    106.77
+   ],
+   [
+    "in",
+    107.06
+   ],
+   [
+    "leipzig",
+    107.2
+   ]
+  ]
+ },
+ {
+  "s": 108.26,
+  "e": 110.22,
+  "text": "At first, almost nobody cared.",
+  "words": [
+   [
+    "at",
+    108.26
+   ],
+   [
+    "first",
+    108.43
+   ],
+   [
+    "almost",
+    108.83
+   ],
+   [
+    "nobody",
+    109.32
+   ],
+   [
+    "cared",
+    109.81
+   ]
+  ]
+ },
+ {
+  "s": 110.77,
+  "e": 113.49,
+  "text": "Then an American buyer ordered three thousand.",
+  "words": [
+   [
+    "then",
+    110.77
+   ],
+   [
+    "an",
+    111.05
+   ],
+   [
+    "american",
+    111.19
+   ],
+   [
+    "buyer",
+    111.75
+   ],
+   [
+    "ordered",
+    112.09
+   ],
+   [
+    "three",
+    112.58
+   ],
+   [
+    "thousand",
+    112.93
+   ]
+  ]
+ },
+ {
+  "s": 114.04,
+  "e": 115.4,
+  "text": "By nineteen-oh-seven,",
+  "words": [
+   [
+    "by",
+    114.04
+   ],
+   [
+    "nineteenohseven",
+    114.2
+   ]
+  ]
+ },
+ {
+  "s": 115.7,
+  "e": 119.48,
+  "text": "Steiff was making nine hundred seventy-four thousand bears.",
+  "words": [
+   [
+    "steiff",
+    115.7
+   ],
+   [
+    "was",
+    116.15
+   ],
+   [
+    "making",
+    116.38
+   ],
+   [
+    "nine",
+    116.83
+   ],
+   [
+    "hundred",
+    117.13
+   ],
+   [
+    "seventyfour",
+    117.66
+   ],
+   [
+    "thousand",
+    118.49
+   ],
+   [
+    "bears",
+    119.1
+   ]
+  ]
+ },
+ {
+  "s": 120.03,
+  "e": 122.1,
+  "text": "So the teddy bear was born twice,",
+  "words": [
+   [
+    "so",
+    120.03
+   ],
+   [
+    "the",
+    120.19
+   ],
+   [
+    "teddy",
+    120.43
+   ],
+   [
+    "bear",
+    120.82
+   ],
+   [
+    "was",
+    121.14
+   ],
+   [
+    "born",
+    121.38
+   ],
+   [
+    "twice",
+    121.7
+   ]
+  ]
+ },
+ {
+  "s": 122.4,
+  "e": 125.37,
+  "text": "on two continents, at almost the same moment.",
+  "words": [
+   [
+    "on",
+    122.4
+   ],
+   [
+    "two",
+    122.57
+   ],
+   [
+    "continents",
+    122.81
+   ],
+   [
+    "at",
+    123.64
+   ],
+   [
+    "almost",
+    123.8
+   ],
+   [
+    "the",
+    124.3
+   ],
+   [
+    "same",
+    124.55
+   ],
+   [
+    "moment",
+    124.88
+   ]
+  ]
+ },
+ {
+  "s": 125.92,
+  "e": 128.27,
+  "text": "Now look closely at a teddy from back then.",
+  "words": [
+   [
+    "now",
+    125.92
+   ],
+   [
+    "look",
+    126.13
+   ],
+   [
+    "closely",
+    126.41
+   ],
+   [
+    "at",
+    126.89
+   ],
+   [
+    "a",
+    127.03
+   ],
+   [
+    "teddy",
+    127.1
+   ],
+   [
+    "from",
+    127.44
+   ],
+   [
+    "back",
+    127.72
+   ],
+   [
+    "then",
+    128.0
+   ]
+  ]
+ },
+ {
+  "s": 128.82,
+  "e": 131.26,
+  "text": "Long snout, low forehead, skinny arms.",
+  "words": [
+   [
+    "long",
+    128.82
+   ],
+   [
+    "snout",
+    129.15
+   ],
+   [
+    "low",
+    129.56
+   ],
+   [
+    "forehead",
+    129.8
+   ],
+   [
+    "skinny",
+    130.45
+   ],
+   [
+    "arms",
+    130.93
+   ]
+  ]
+ },
+ {
+  "s": 131.81,
+  "e": 133.29,
+  "text": "It looks like a real bear.",
+  "words": [
+   [
+    "it",
+    131.81
+   ],
+   [
+    "looks",
+    131.96
+   ],
+   [
+    "like",
+    132.33
+   ],
+   [
+    "a",
+    132.63
+   ],
+   [
+    "real",
+    132.7
+   ],
+   [
+    "bear",
+    133.0
+   ]
+  ]
+ },
+ {
+  "s": 133.84,
+  "e": 135.95,
+  "text": "But scientists who measured old teddies",
+  "words": [
+   [
+    "but",
+    133.84
+   ],
+   [
+    "scientists",
+    134.03
+   ],
+   [
+    "who",
+    134.65
+   ],
+   [
+    "measured",
+    134.83
+   ],
+   [
+    "old",
+    135.33
+   ],
+   [
+    "teddies",
+    135.51
+   ]
+  ]
+ },
+ {
+  "s": 136.25,
+  "e": 138.57,
+  "text": "found they slowly changed over the years.",
+  "words": [
+   [
+    "found",
+    136.25
+   ],
+   [
+    "they",
+    136.59
+   ],
+   [
+    "slowly",
+    136.86
+   ],
+   [
+    "changed",
+    137.27
+   ],
+   [
+    "over",
+    137.75
+   ],
+   [
+    "the",
+    138.02
+   ],
+   [
+    "years",
+    138.23
+   ]
+  ]
+ },
+ {
+  "s": 139.12,
+  "e": 140.48,
+  "text": "The snouts got shorter.",
+  "words": [
+   [
+    "the",
+    139.12
+   ],
+   [
+    "snouts",
+    139.33
+   ],
+   [
+    "got",
+    139.76
+   ],
+   [
+    "shorter",
+    139.98
+   ]
+  ]
+ },
+ {
+  "s": 141.03,
+  "e": 142.44,
+  "text": "The foreheads got bigger.",
+  "words": [
+   [
+    "the",
+    141.03
+   ],
+   [
+    "foreheads",
+    141.23
+   ],
+   [
+    "got",
+    141.84
+   ],
+   [
+    "bigger",
+    142.04
+   ]
+  ]
+ },
+ {
+  "s": 142.99,
+  "e": 144.31,
+  "text": "The eyes got rounder.",
+  "words": [
+   [
+    "the",
+    142.99
+   ],
+   [
+    "eyes",
+    143.23
+   ],
+   [
+    "got",
+    143.54
+   ],
+   [
+    "rounder",
+    143.77
+   ]
+  ]
+ },
+ {
+  "s": 144.86,
+  "e": 147.12,
+  "text": "Teddy bears started to look like babies.",
+  "words": [
+   [
+    "teddy",
+    144.86
+   ],
+   [
+    "bears",
+    145.2
+   ],
+   [
+    "started",
+    145.54
+   ],
+   [
+    "to",
+    146.02
+   ],
+   [
+    "look",
+    146.16
+   ],
+   [
+    "like",
+    146.43
+   ],
+   [
+    "babies",
+    146.71
+   ]
+  ]
+ },
+ {
+  "s": 147.67,
+  "e": 149.96,
+  "text": "Why? Because people pick the cutest one.",
+  "words": [
+   [
+    "why",
+    147.67
+   ],
+   [
+    "because",
+    147.88
+   ],
+   [
+    "people",
+    148.38
+   ],
+   [
+    "pick",
+    148.81
+   ],
+   [
+    "the",
+    149.1
+   ],
+   [
+    "cutest",
+    149.32
+   ],
+   [
+    "one",
+    149.75
+   ]
+  ]
+ },
+ {
+  "s": 150.51,
+  "e": 153.55,
+  "text": "Our brains are wired to love baby-like faces,",
+  "words": [
+   [
+    "our",
+    150.51
+   ],
+   [
+    "brains",
+    150.76
+   ],
+   [
+    "are",
+    151.27
+   ],
+   [
+    "wired",
+    151.52
+   ],
+   [
+    "to",
+    151.94
+   ],
+   [
+    "love",
+    152.11
+   ],
+   [
+    "babylike",
+    152.45
+   ],
+   [
+    "faces",
+    153.13
+   ]
+  ]
+ },
+ {
+  "s": 153.85,
+  "e": 157.0,
+  "text": "so the cutest bears sold best, year after year.",
+  "words": [
+   [
+    "so",
+    153.85
+   ],
+   [
+    "the",
+    154.02
+   ],
+   [
+    "cutest",
+    154.27
+   ],
+   [
+    "bears",
+    154.78
+   ],
+   [
+    "sold",
+    155.21
+   ],
+   [
+    "best",
+    155.55
+   ],
+   [
+    "year",
+    155.89
+   ],
+   [
+    "after",
+    156.23
+   ],
+   [
+    "year",
+    156.66
+   ]
+  ]
+ },
+ {
+  "s": 157.55,
+  "e": 159.63,
+  "text": "It's evolution, but in a toy shop.",
+  "words": [
+   [
+    "its",
+    157.55
+   ],
+   [
+    "evolution",
+    157.8
+   ],
+   [
+    "but",
+    158.54
+   ],
+   [
+    "in",
+    158.79
+   ],
+   [
+    "a",
+    158.96
+   ],
+   [
+    "toy",
+    159.04
+   ],
+   [
+    "shop",
+    159.29
+   ]
+  ]
+ },
+ {
+  "s": 160.18,
+  "e": 162.1,
+  "text": "Today, teddy bears are everywhere.",
+  "words": [
+   [
+    "today",
+    160.18
+   ],
+   [
+    "teddy",
+    160.52
+   ],
+   [
+    "bears",
+    160.86
+   ],
+   [
+    "are",
+    161.21
+   ],
+   [
+    "everywhere",
+    161.41
+   ]
+  ]
+ },
+ {
+  "s": 162.65,
+  "e": 164.59,
+  "text": "In two thousand, one Steiff bear,",
+  "words": [
+   [
+    "in",
+    162.65
+   ],
+   [
+    "two",
+    162.8
+   ],
+   [
+    "thousand",
+    163.02
+   ],
+   [
+    "one",
+    163.62
+   ],
+   [
+    "steiff",
+    163.84
+   ],
+   [
+    "bear",
+    164.29
+   ]
+  ]
+ },
+ {
+  "s": 164.89,
+  "e": 166.86,
+  "text": "with sapphire and diamond eyes,",
+  "words": [
+   [
+    "with",
+    164.89
+   ],
+   [
+    "sapphire",
+    165.19
+   ],
+   [
+    "and",
+    165.8
+   ],
+   [
+    "diamond",
+    166.03
+   ],
+   [
+    "eyes",
+    166.56
+   ]
+  ]
+ },
+ {
+  "s": 167.16,
+  "e": 169.12,
+  "text": "sold at an auction in Monaco",
+  "words": [
+   [
+    "sold",
+    167.16
+   ],
+   [
+    "at",
+    167.5
+   ],
+   [
+    "an",
+    167.67
+   ],
+   [
+    "auction",
+    167.84
+   ],
+   [
+    "in",
+    168.44
+   ],
+   [
+    "monaco",
+    168.61
+   ]
+  ]
+ },
+ {
+  "s": 169.42,
+  "e": 171.47,
+  "text": "for two point one million dollars.",
+  "words": [
+   [
+    "for",
+    169.42
+   ],
+   [
+    "two",
+    169.64
+   ],
+   [
+    "point",
+    169.86
+   ],
+   [
+    "one",
+    170.22
+   ],
+   [
+    "million",
+    170.44
+   ],
+   [
+    "dollars",
+    170.95
+   ]
+  ]
+ },
+ {
+  "s": 172.02,
+  "e": 173.97,
+  "text": "And it's not just kids who love them.",
+  "words": [
+   [
+    "and",
+    172.02
+   ],
+   [
+    "its",
+    172.23
+   ],
+   [
+    "not",
+    172.44
+   ],
+   [
+    "just",
+    172.65
+   ],
+   [
+    "kids",
+    172.92
+   ],
+   [
+    "who",
+    173.2
+   ],
+   [
+    "love",
+    173.41
+   ],
+   [
+    "them",
+    173.69
+   ]
+  ]
+ },
+ {
+  "s": 174.52,
+  "e": 175.82,
+  "text": "In one British survey,",
+  "words": [
+   [
+    "in",
+    174.52
+   ],
+   [
+    "one",
+    174.67
+   ],
+   [
+    "british",
+    174.88
+   ],
+   [
+    "survey",
+    175.38
+   ]
+  ]
+ },
+ {
+  "s": 176.12,
+  "e": 179.17,
+  "text": "about a third of adults said they still sleep with a teddy.",
+  "words": [
+   [
+    "about",
+    176.12
+   ],
+   [
+    "a",
+    176.44
+   ],
+   [
+    "third",
+    176.51
+   ],
+   [
+    "of",
+    176.83
+   ],
+   [
+    "adults",
+    176.96
+   ],
+   [
+    "said",
+    177.35
+   ],
+   [
+    "they",
+    177.61
+   ],
+   [
+    "still",
+    177.87
+   ],
+   [
+    "sleep",
+    178.19
+   ],
+   [
+    "with",
+    178.52
+   ],
+   [
+    "a",
+    178.78
+   ],
+   [
+    "teddy",
+    178.84
+   ]
+  ]
+ },
+ {
+  "s": 179.72,
+  "e": 182.56,
+  "text": "All because, more than a hundred twenty years ago,",
+  "words": [
+   [
+    "all",
+    179.72
+   ],
+   [
+    "because",
+    179.93
+   ],
+   [
+    "more",
+    180.43
+   ],
+   [
+    "than",
+    180.71
+   ],
+   [
+    "a",
+    181.0
+   ],
+   [
+    "hundred",
+    181.07
+   ],
+   [
+    "twenty",
+    181.56
+   ],
+   [
+    "years",
+    181.99
+   ],
+   [
+    "ago",
+    182.34
+   ]
+  ]
+ },
+ {
+  "s": 182.86,
+  "e": 184.8,
+  "text": "one president wouldn't shoot one bear.",
+  "words": [
+   [
+    "one",
+    182.86
+   ],
+   [
+    "president",
+    183.04
+   ],
+   [
+    "wouldnt",
+    183.61
+   ],
+   [
+    "shoot",
+    184.05
+   ],
+   [
+    "one",
+    184.36
+   ],
+   [
+    "bear",
+    184.55
+   ]
+  ]
+ },
+ {
+  "s": 185.35,
+  "e": 186.22,
+  "text": "Next time:",
+  "words": [
+   [
+    "next",
+    185.35
+   ],
+   [
+    "time",
+    185.78
+   ]
+  ]
+ },
+ {
+  "s": 186.52,
+  "e": 189.6,
+  "text": "how some animals freeze solid, and wake up again.",
+  "words": [
+   [
+    "how",
+    186.52
+   ],
+   [
+    "some",
+    186.75
+   ],
+   [
+    "animals",
+    187.07
+   ],
+   [
+    "freeze",
+    187.62
+   ],
+   [
+    "solid",
+    188.1
+   ],
+   [
+    "and",
+    188.49
+   ],
+   [
+    "wake",
+    188.73
+   ],
+   [
+    "up",
+    189.04
+   ],
+   [
+    "again",
+    189.2
+   ]
+  ]
+ }
+]
