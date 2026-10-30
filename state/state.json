@@ -5007,7 +5007,7 @@
         "format": "animated",
         "style": "Kawaii Anime"
       },
-      "status": "awaiting_approval",
+      "status": "approved",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261030-hippo-sweat",
@@ -5027,7 +5027,9 @@
         "name": "2026-10-30-104-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:01,600\nHippos sweat red goo,\n\n2\n00:00:01,900 --> 00:00:03,660\nand you'll never see one sunburned.\n\n3\n00:00:04,210 --> 00:00:05,010\nBut why?\n\n4\n00:00:05,560 --> 00:00:08,000\nA hippo spends hours in the African sun,\n\n5\n00:00:08,300 --> 00:00:10,200\nwith almost no hair to protect it.\n\n6\n00:00:10,750 --> 00:00:12,210\nSo its skin fights back.\n\n7\n00:00:12,760 --> 00:00:14,010\nGlands under the skin\n\n8\n00:00:14,310 --> 00:00:15,650\nooze a thick, clear goo.\n\n9\n00:00:16,200 --> 00:00:17,310\nWithin a few minutes,\n\n10\n00:00:17,610 --> 00:00:18,920\nit turns bright red,\n\n11\n00:00:19,220 --> 00:00:20,860\nthen a rusty orange-brown.\n\n12\n00:00:21,410 --> 00:00:23,370\nThat's why people call it blood sweat.\n\n13\n00:00:23,920 --> 00:00:25,030\nBut it's not blood,\n\n14\n00:00:25,330 --> 00:00:26,650\nand it's not really sweat.\n\n15\n00:00:27,200 --> 00:00:29,020\nThe color comes from two pigments,\n\n16\n00:00:29,320 --> 00:00:30,730\none red, one orange.\n\n17\n00:00:31,280 --> 00:00:33,790\nTogether, they soak up ultraviolet light,\n\n18\n00:00:34,090 --> 00:00:35,550\nlike built-in sunscreen.\n\n19\n00:00:36,100 --> 00:00:37,860\nAnd the red one does even more.\n\n20\n00:00:38,410 --> 00:00:39,510\nIn lab tests,\n\n21\n00:00:39,810 --> 00:00:42,160\nit stopped nasty bacteria from growing.\n\n22\n00:00:42,710 --> 00:00:45,670\nHandy, when rivals leave scratches all over you.\n\n23\n00:00:46,220 --> 00:00:48,170\nSo a hippo makes its own sunscreen,\n\n24\n00:00:48,470 --> 00:00:50,140\nand its own antibiotic.\n\n25\n00:00:50,690 --> 00:00:52,130\nIf you could sweat any color,\n\n26\n00:00:52,430 --> 00:00:53,720\nwhich one would you pick?\n\n",
-      "tg_msg": 936
+      "tg_msg": 936,
+      "approved_by": "auto",
+      "quota_note": "2026-10-30"
     },
     "2026-10-30-105": {
       "topic": {
@@ -5076,7 +5078,7 @@
         "format": "animated",
         "style": "Low-Poly Faceted"
       },
-      "status": "awaiting_approval",
+      "status": "approved",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261030-penguin-feet",
@@ -5096,7 +5098,9 @@
         "name": "2026-10-30-105-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:02,090\nYou'd lose your toes on this ice.\n\n2\n00:00:02,640 --> 00:00:04,970\nEmperor penguins stand on it for two months.\n\n3\n00:00:05,520 --> 00:00:07,180\nThe secret is in their legs.\n\n4\n00:00:07,730 --> 00:00:09,760\nWarm blood flowing down to the feet\n\n5\n00:00:10,060 --> 00:00:13,020\nruns right beside cold blood coming back up.\n\n6\n00:00:13,570 --> 00:00:15,170\nSo the heat jumps across,\n\n7\n00:00:15,470 --> 00:00:17,160\nlike passing a hot potato.\n\n8\n00:00:17,710 --> 00:00:19,790\nBy the time blood reaches the toes,\n\n9\n00:00:20,090 --> 00:00:21,620\nit's just above freezing.\n\n10\n00:00:22,170 --> 00:00:24,910\nCold toes lose very little heat to the ice,\n\n11\n00:00:25,210 --> 00:00:27,180\nand the warmth goes back into the body.\n\n12\n00:00:27,730 --> 00:00:29,380\nFeet near zero degrees,\n\n13\n00:00:29,680 --> 00:00:31,010\nbody near thirty-eight.\n\n14\n00:00:31,560 --> 00:00:33,210\nIf the toes get too cold,\n\n15\n00:00:33,510 --> 00:00:35,600\nthe penguin widens its arteries,\n\n16\n00:00:35,900 --> 00:00:38,210\nand sends down a little more warm blood.\n\n17\n00:00:38,760 --> 00:00:39,670\nStill chilly?\n\n18\n00:00:40,220 --> 00:00:42,590\nIt rocks back on its heels and stiff tail,\n\n19\n00:00:42,890 --> 00:00:44,640\nlifting its toes off the ice,\n\n20\n00:00:44,940 --> 00:00:46,080\nand hunches down,\n\n21\n00:00:46,380 --> 00:00:48,390\nso belly feathers blanket its feet.\n\n22\n00:00:48,940 --> 00:00:51,440\nA penguin keeps its feet cold on purpose.\n\n23\n00:00:51,990 --> 00:00:54,280\nSo how long would your toes last out there?\n\n",
-      "tg_msg": 937
+      "tg_msg": 937,
+      "approved_by": "auto",
+      "quota_note": "2026-10-30"
     }
   },
   "history": [
