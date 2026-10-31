@@ -4012,7 +4012,7 @@
         "format": "animated",
         "style": "Kawaii Anime"
       },
-      "status": "awaiting_approval",
+      "status": "approved",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261031-stale-bread",
@@ -4032,7 +4032,9 @@
         "name": "2026-10-31-105-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:02,230\nYour fridge is wasting your bread.\n\n2\n00:00:02,780 --> 00:00:04,840\nIt can go stale six times faster.\n\n3\n00:00:05,390 --> 00:00:06,190\nBut why?\n\n4\n00:00:06,740 --> 00:00:08,910\nFresh bread is soft because of starch.\n\n5\n00:00:09,460 --> 00:00:11,640\nIn the oven, starch soaks up water,\n\n6\n00:00:11,940 --> 00:00:14,550\nand its tight crystals melt into a soft gel.\n\n7\n00:00:15,100 --> 00:00:16,460\nBut once the bread cools,\n\n8\n00:00:16,760 --> 00:00:18,860\nthe starch packs back into crystals.\n\n9\n00:00:19,410 --> 00:00:21,480\nScientists call it retrogradation.\n\n10\n00:00:22,030 --> 00:00:24,000\nThose crystals squeeze the water out,\n\n11\n00:00:24,300 --> 00:00:25,390\nand lock it away.\n\n12\n00:00:25,940 --> 00:00:27,460\nSo the crumb turns hard,\n\n13\n00:00:27,760 --> 00:00:29,310\neven though it's barely dried out.\n\n14\n00:00:29,860 --> 00:00:31,990\nThat's why sealed bread still goes stale.\n\n15\n00:00:32,540 --> 00:00:34,650\nAnd this crystal building runs fastest\n\n16\n00:00:34,950 --> 00:00:36,260\njust above freezing,\n\n17\n00:00:36,560 --> 00:00:38,010\nright at fridge temperature.\n\n18\n00:00:38,560 --> 00:00:40,500\nIn the freezer, it almost stops.\n\n19\n00:00:41,050 --> 00:00:41,820\nThe fix?\n\n20\n00:00:42,370 --> 00:00:44,070\nWarm stale bread in the oven,\n\n21\n00:00:44,370 --> 00:00:45,970\nand the crystals melt again.\n\n22\n00:00:46,520 --> 00:00:48,530\nIt goes soft, almost like fresh,\n\n23\n00:00:48,830 --> 00:00:50,400\nbut only for a little while.\n\n24\n00:00:50,950 --> 00:00:52,920\nSo, fridge, counter, or freezer:\n\n25\n00:00:53,220 --> 00:00:54,500\nwhere does your bread live?\n\n",
-      "tg_msg": 963
+      "tg_msg": 963,
+      "approved_by": "auto",
+      "quota_note": "2026-10-31"
     }
   },
   "history": [
