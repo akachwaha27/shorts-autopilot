@@ -1,0 +1,713 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.27,
+  "text": "Your brain cancels your own tickles",
+  "words": [
+   [
+    "your",
+    0.25
+   ],
+   [
+    "brain",
+    0.52
+   ],
+   [
+    "cancels",
+    0.86
+   ],
+   [
+    "your",
+    1.33
+   ],
+   [
+    "own",
+    1.6
+   ],
+   [
+    "tickles",
+    1.8
+   ]
+  ]
+ },
+ {
+  "s": 2.57,
+  "e": 3.78,
+  "text": "before you feel them.",
+  "words": [
+   [
+    "before",
+    2.57
+   ],
+   [
+    "you",
+    3.0
+   ],
+   [
+    "feel",
+    3.21
+   ],
+   [
+    "them",
+    3.5
+   ]
+  ]
+ },
+ {
+  "s": 4.33,
+  "e": 5.08,
+  "text": "But how?",
+  "words": [
+   [
+    "but",
+    4.33
+   ],
+   [
+    "how",
+    4.71
+   ]
+  ]
+ },
+ {
+  "s": 5.63,
+  "e": 7.0,
+  "text": "Every time you move,",
+  "words": [
+   [
+    "every",
+    5.63
+   ],
+   [
+    "time",
+    6.06
+   ],
+   [
+    "you",
+    6.4
+   ],
+   [
+    "move",
+    6.66
+   ]
+  ]
+ },
+ {
+  "s": 7.3,
+  "e": 9.27,
+  "text": "your brain sends a copy of the order",
+  "words": [
+   [
+    "your",
+    7.3
+   ],
+   [
+    "brain",
+    7.57
+   ],
+   [
+    "sends",
+    7.91
+   ],
+   [
+    "a",
+    8.25
+   ],
+   [
+    "copy",
+    8.32
+   ],
+   [
+    "of",
+    8.59
+   ],
+   [
+    "the",
+    8.73
+   ],
+   [
+    "order",
+    8.93
+   ]
+  ]
+ },
+ {
+  "s": 9.57,
+  "e": 10.69,
+  "text": "to the cerebellum,",
+  "words": [
+   [
+    "to",
+    9.57
+   ],
+   [
+    "the",
+    9.72
+   ],
+   [
+    "cerebellum",
+    9.94
+   ]
+  ]
+ },
+ {
+  "s": 10.99,
+  "e": 12.15,
+  "text": "at the back of your head.",
+  "words": [
+   [
+    "at",
+    10.99
+   ],
+   [
+    "the",
+    11.11
+   ],
+   [
+    "back",
+    11.3
+   ],
+   [
+    "of",
+    11.54
+   ],
+   [
+    "your",
+    11.66
+   ],
+   [
+    "head",
+    11.91
+   ]
+  ]
+ },
+ {
+  "s": 12.7,
+  "e": 14.81,
+  "text": "It predicts what the touch will feel like,",
+  "words": [
+   [
+    "it",
+    12.7
+   ],
+   [
+    "predicts",
+    12.83
+   ],
+   [
+    "what",
+    13.32
+   ],
+   [
+    "the",
+    13.57
+   ],
+   [
+    "touch",
+    13.76
+   ],
+   [
+    "will",
+    14.07
+   ],
+   [
+    "feel",
+    14.31
+   ],
+   [
+    "like",
+    14.56
+   ]
+  ]
+ },
+ {
+  "s": 15.11,
+  "e": 16.73,
+  "text": "then turns the feeling down.",
+  "words": [
+   [
+    "then",
+    15.11
+   ],
+   [
+    "turns",
+    15.39
+   ],
+   [
+    "the",
+    15.74
+   ],
+   [
+    "feeling",
+    15.95
+   ],
+   [
+    "down",
+    16.44
+   ]
+  ]
+ },
+ {
+  "s": 17.28,
+  "e": 18.86,
+  "text": "No surprise, no tickle.",
+  "words": [
+   [
+    "no",
+    17.28
+   ],
+   [
+    "surprise",
+    17.45
+   ],
+   [
+    "no",
+    18.16
+   ],
+   [
+    "tickle",
+    18.33
+   ]
+  ]
+ },
+ {
+  "s": 19.41,
+  "e": 20.99,
+  "text": "When someone else tickles you,",
+  "words": [
+   [
+    "when",
+    19.41
+   ],
+   [
+    "someone",
+    19.67
+   ],
+   [
+    "else",
+    20.11
+   ],
+   [
+    "tickles",
+    20.36
+   ],
+   [
+    "you",
+    20.8
+   ]
+  ]
+ },
+ {
+  "s": 21.29,
+  "e": 22.52,
+  "text": "there's no prediction.",
+  "words": [
+   [
+    "theres",
+    21.29
+   ],
+   [
+    "no",
+    21.7
+   ],
+   [
+    "prediction",
+    21.84
+   ]
+  ]
+ },
+ {
+  "s": 23.07,
+  "e": 24.79,
+  "text": "Your brain can't guess where or when,",
+  "words": [
+   [
+    "your",
+    23.07
+   ],
+   [
+    "brain",
+    23.3
+   ],
+   [
+    "cant",
+    23.6
+   ],
+   [
+    "guess",
+    23.84
+   ],
+   [
+    "where",
+    24.14
+   ],
+   [
+    "or",
+    24.43
+   ],
+   [
+    "when",
+    24.55
+   ]
+  ]
+ },
+ {
+  "s": 25.09,
+  "e": 26.48,
+  "text": "so it hits full blast.",
+  "words": [
+   [
+    "so",
+    25.09
+   ],
+   [
+    "it",
+    25.25
+   ],
+   [
+    "hits",
+    25.42
+   ],
+   [
+    "full",
+    25.74
+   ],
+   [
+    "blast",
+    26.07
+   ]
+  ]
+ },
+ {
+  "s": 27.03,
+  "e": 29.16,
+  "text": "Scientists tested this with a robot.",
+  "words": [
+   [
+    "scientists",
+    27.03
+   ],
+   [
+    "tested",
+    27.74
+   ],
+   [
+    "this",
+    28.17
+   ],
+   [
+    "with",
+    28.45
+   ],
+   [
+    "a",
+    28.73
+   ],
+   [
+    "robot",
+    28.81
+   ]
+  ]
+ },
+ {
+  "s": 29.71,
+  "e": 30.97,
+  "text": "People moved a handle,",
+  "words": [
+   [
+    "people",
+    29.71
+   ],
+   [
+    "moved",
+    30.13
+   ],
+   [
+    "a",
+    30.48
+   ],
+   [
+    "handle",
+    30.55
+   ]
+  ]
+ },
+ {
+  "s": 31.27,
+  "e": 33.03,
+  "text": "and a robot brushed their palm.",
+  "words": [
+   [
+    "and",
+    31.27
+   ],
+   [
+    "a",
+    31.48
+   ],
+   [
+    "robot",
+    31.55
+   ],
+   [
+    "brushed",
+    31.9
+   ],
+   [
+    "their",
+    32.39
+   ],
+   [
+    "palm",
+    32.75
+   ]
+  ]
+ },
+ {
+  "s": 33.58,
+  "e": 35.94,
+  "text": "Moving it themselves? Barely ticklish.",
+  "words": [
+   [
+    "moving",
+    33.58
+   ],
+   [
+    "it",
+    34.02
+   ],
+   [
+    "themselves",
+    34.17
+   ],
+   [
+    "barely",
+    34.91
+   ],
+   [
+    "ticklish",
+    35.35
+   ]
+  ]
+ },
+ {
+  "s": 36.49,
+  "e": 38.09,
+  "text": "Then the robot added a delay",
+  "words": [
+   [
+    "then",
+    36.49
+   ],
+   [
+    "the",
+    36.77
+   ],
+   [
+    "robot",
+    36.98
+   ],
+   [
+    "added",
+    37.33
+   ],
+   [
+    "a",
+    37.68
+   ],
+   [
+    "delay",
+    37.75
+   ]
+  ]
+ },
+ {
+  "s": 38.39,
+  "e": 40.04,
+  "text": "of just two tenths of a second.",
+  "words": [
+   [
+    "of",
+    38.39
+   ],
+   [
+    "just",
+    38.53
+   ],
+   [
+    "two",
+    38.81
+   ],
+   [
+    "tenths",
+    39.01
+   ],
+   [
+    "of",
+    39.42
+   ],
+   [
+    "a",
+    39.56
+   ],
+   [
+    "second",
+    39.63
+   ]
+  ]
+ },
+ {
+  "s": 40.59,
+  "e": 42.53,
+  "text": "Suddenly, it felt more ticklish.",
+  "words": [
+   [
+    "suddenly",
+    40.59
+   ],
+   [
+    "it",
+    41.19
+   ],
+   [
+    "felt",
+    41.34
+   ],
+   [
+    "more",
+    41.64
+   ],
+   [
+    "ticklish",
+    41.93
+   ]
+  ]
+ },
+ {
+  "s": 43.08,
+  "e": 44.38,
+  "text": "The prediction was off,",
+  "words": [
+   [
+    "the",
+    43.08
+   ],
+   [
+    "prediction",
+    43.29
+   ],
+   [
+    "was",
+    43.97
+   ],
+   [
+    "off",
+    44.18
+   ]
+  ]
+ },
+ {
+  "s": 44.68,
+  "e": 46.25,
+  "text": "so the brain couldn't cancel it.",
+  "words": [
+   [
+    "so",
+    44.68
+   ],
+   [
+    "the",
+    44.81
+   ],
+   [
+    "brain",
+    45.0
+   ],
+   [
+    "couldnt",
+    45.31
+   ],
+   [
+    "cancel",
+    45.75
+   ],
+   [
+    "it",
+    46.12
+   ]
+  ]
+ },
+ {
+  "s": 46.8,
+  "e": 48.79,
+  "text": "So your own brain blocks the tickle.",
+  "words": [
+   [
+    "so",
+    46.8
+   ],
+   [
+    "your",
+    46.93
+   ],
+   [
+    "own",
+    47.21
+   ],
+   [
+    "brain",
+    47.41
+   ],
+   [
+    "blocks",
+    47.76
+   ],
+   [
+    "the",
+    48.17
+   ],
+   [
+    "tickle",
+    48.38
+   ]
+  ]
+ },
+ {
+  "s": 49.34,
+  "e": 51.08,
+  "text": "Can you find a way to outsmart it?",
+  "words": [
+   [
+    "can",
+    49.34
+   ],
+   [
+    "you",
+    49.54
+   ],
+   [
+    "find",
+    49.74
+   ],
+   [
+    "a",
+    50.01
+   ],
+   [
+    "way",
+    50.08
+   ],
+   [
+    "to",
+    50.28
+   ],
+   [
+    "outsmart",
+    50.41
+   ],
+   [
+    "it",
+    50.95
+   ]
+  ]
+ }
+]
