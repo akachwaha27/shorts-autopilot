@@ -1,0 +1,691 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.73,
+  "text": "This shark will lose thirty thousand teeth.",
+  "words": [
+   [
+    "this",
+    0.25
+   ],
+   [
+    "shark",
+    0.53
+   ],
+   [
+    "will",
+    0.87
+   ],
+   [
+    "lose",
+    1.15
+   ],
+   [
+    "thirty",
+    1.42
+   ],
+   [
+    "thousand",
+    1.84
+   ],
+   [
+    "teeth",
+    2.39
+   ]
+  ]
+ },
+ {
+  "s": 3.28,
+  "e": 5.16,
+  "text": "So why does it never run out?",
+  "words": [
+   [
+    "so",
+    3.28
+   ],
+   [
+    "why",
+    3.45
+   ],
+   [
+    "does",
+    3.71
+   ],
+   [
+    "it",
+    4.05
+   ],
+   [
+    "never",
+    4.22
+   ],
+   [
+    "run",
+    4.65
+   ],
+   [
+    "out",
+    4.9
+   ]
+  ]
+ },
+ {
+  "s": 5.71,
+  "e": 7.16,
+  "text": "Look inside its jaw.",
+  "words": [
+   [
+    "look",
+    5.71
+   ],
+   [
+    "inside",
+    6.07
+   ],
+   [
+    "its",
+    6.62
+   ],
+   [
+    "jaw",
+    6.89
+   ]
+  ]
+ },
+ {
+  "s": 7.71,
+  "e": 8.96,
+  "text": "Behind the front teeth,",
+  "words": [
+   [
+    "behind",
+    7.71
+   ],
+   [
+    "the",
+    8.11
+   ],
+   [
+    "front",
+    8.3
+   ],
+   [
+    "teeth",
+    8.63
+   ]
+  ]
+ },
+ {
+  "s": 9.26,
+  "e": 11.27,
+  "text": "there are rows and rows of spares,",
+  "words": [
+   [
+    "there",
+    9.26
+   ],
+   [
+    "are",
+    9.63
+   ],
+   [
+    "rows",
+    9.85
+   ],
+   [
+    "and",
+    10.15
+   ],
+   [
+    "rows",
+    10.37
+   ],
+   [
+    "of",
+    10.67
+   ],
+   [
+    "spares",
+    10.82
+   ]
+  ]
+ },
+ {
+  "s": 11.57,
+  "e": 14.06,
+  "text": "folded back against the inside of the jaw.",
+  "words": [
+   [
+    "folded",
+    11.57
+   ],
+   [
+    "back",
+    12.01
+   ],
+   [
+    "against",
+    12.3
+   ],
+   [
+    "the",
+    12.81
+   ],
+   [
+    "inside",
+    13.03
+   ],
+   [
+    "of",
+    13.47
+   ],
+   [
+    "the",
+    13.62
+   ],
+   [
+    "jaw",
+    13.84
+   ]
+  ]
+ },
+ {
+  "s": 14.61,
+  "e": 16.82,
+  "text": "Most sharks carry about fifteen rows.",
+  "words": [
+   [
+    "most",
+    14.61
+   ],
+   [
+    "sharks",
+    14.89
+   ],
+   [
+    "carry",
+    15.32
+   ],
+   [
+    "about",
+    15.68
+   ],
+   [
+    "fifteen",
+    16.04
+   ],
+   [
+    "rows",
+    16.54
+   ]
+  ]
+ },
+ {
+  "s": 17.37,
+  "e": 19.15,
+  "text": "Your teeth are locked into bone.",
+  "words": [
+   [
+    "your",
+    17.37
+   ],
+   [
+    "teeth",
+    17.65
+   ],
+   [
+    "are",
+    17.99
+   ],
+   [
+    "locked",
+    18.2
+   ],
+   [
+    "into",
+    18.61
+   ],
+   [
+    "bone",
+    18.88
+   ]
+  ]
+ },
+ {
+  "s": 19.7,
+  "e": 21.6,
+  "text": "A shark's teeth sit in soft tissue,",
+  "words": [
+   [
+    "a",
+    19.7
+   ],
+   [
+    "sharks",
+    19.77
+   ],
+   [
+    "teeth",
+    20.2
+   ],
+   [
+    "sit",
+    20.55
+   ],
+   [
+    "in",
+    20.76
+   ],
+   [
+    "soft",
+    20.9
+   ],
+   [
+    "tissue",
+    21.18
+   ]
+  ]
+ },
+ {
+  "s": 21.9,
+  "e": 23.37,
+  "text": "so they pop out easily.",
+  "words": [
+   [
+    "so",
+    21.9
+   ],
+   [
+    "they",
+    22.06
+   ],
+   [
+    "pop",
+    22.39
+   ],
+   [
+    "out",
+    22.64
+   ],
+   [
+    "easily",
+    22.88
+   ]
+  ]
+ },
+ {
+  "s": 23.92,
+  "e": 25.12,
+  "text": "When one snaps off,",
+  "words": [
+   [
+    "when",
+    23.92
+   ],
+   [
+    "one",
+    24.24
+   ],
+   [
+    "snaps",
+    24.48
+   ],
+   [
+    "off",
+    24.88
+   ]
+  ]
+ },
+ {
+  "s": 25.42,
+  "e": 27.13,
+  "text": "the tooth behind it swings up,",
+  "words": [
+   [
+    "the",
+    25.42
+   ],
+   [
+    "tooth",
+    25.64
+   ],
+   [
+    "behind",
+    25.99
+   ],
+   [
+    "it",
+    26.42
+   ],
+   [
+    "swings",
+    26.56
+   ],
+   [
+    "up",
+    26.98
+   ]
+  ]
+ },
+ {
+  "s": 27.43,
+  "e": 28.62,
+  "text": "and takes its place,",
+  "words": [
+   [
+    "and",
+    27.43
+   ],
+   [
+    "takes",
+    27.65
+   ],
+   [
+    "its",
+    28.02
+   ],
+   [
+    "place",
+    28.24
+   ]
+  ]
+ },
+ {
+  "s": 28.92,
+  "e": 30.62,
+  "text": "sometimes in just one day.",
+  "words": [
+   [
+    "sometimes",
+    28.92
+   ],
+   [
+    "in",
+    29.64
+   ],
+   [
+    "just",
+    29.81
+   ],
+   [
+    "one",
+    30.13
+   ],
+   [
+    "day",
+    30.37
+   ]
+  ]
+ },
+ {
+  "s": 31.17,
+  "e": 32.88,
+  "text": "Meanwhile, a brand new tooth",
+  "words": [
+   [
+    "meanwhile",
+    31.17
+   ],
+   [
+    "a",
+    31.84
+   ],
+   [
+    "brand",
+    31.91
+   ],
+   [
+    "new",
+    32.28
+   ],
+   [
+    "tooth",
+    32.51
+   ]
+  ]
+ },
+ {
+  "s": 33.18,
+  "e": 35.01,
+  "text": "starts growing at the very back.",
+  "words": [
+   [
+    "starts",
+    33.18
+   ],
+   [
+    "growing",
+    33.6
+   ],
+   [
+    "at",
+    34.09
+   ],
+   [
+    "the",
+    34.23
+   ],
+   [
+    "very",
+    34.45
+   ],
+   [
+    "back",
+    34.73
+   ]
+  ]
+ },
+ {
+  "s": 35.56,
+  "e": 37.54,
+  "text": "It's like a moving staircase of teeth,",
+  "words": [
+   [
+    "its",
+    35.56
+   ],
+   [
+    "like",
+    35.76
+   ],
+   [
+    "a",
+    36.02
+   ],
+   [
+    "moving",
+    36.09
+   ],
+   [
+    "staircase",
+    36.49
+   ],
+   [
+    "of",
+    37.08
+   ],
+   [
+    "teeth",
+    37.21
+   ]
+  ]
+ },
+ {
+  "s": 37.84,
+  "e": 39.35,
+  "text": "always rolling forward.",
+  "words": [
+   [
+    "always",
+    37.84
+   ],
+   [
+    "rolling",
+    38.3
+   ],
+   [
+    "forward",
+    38.82
+   ]
+  ]
+ },
+ {
+  "s": 39.9,
+  "e": 41.33,
+  "text": "A great white goes through",
+  "words": [
+   [
+    "a",
+    39.9
+   ],
+   [
+    "great",
+    39.97
+   ],
+   [
+    "white",
+    40.29
+   ],
+   [
+    "goes",
+    40.62
+   ],
+   [
+    "through",
+    40.88
+   ]
+  ]
+ },
+ {
+  "s": 41.63,
+  "e": 43.91,
+  "text": "about twenty thousand teeth in its life.",
+  "words": [
+   [
+    "about",
+    41.63
+   ],
+   [
+    "twenty",
+    41.98
+   ],
+   [
+    "thousand",
+    42.39
+   ],
+   [
+    "teeth",
+    42.94
+   ],
+   [
+    "in",
+    43.29
+   ],
+   [
+    "its",
+    43.43
+   ],
+   [
+    "life",
+    43.63
+   ]
+  ]
+ },
+ {
+  "s": 44.46,
+  "e": 45.68,
+  "text": "And this lemon shark?",
+  "words": [
+   [
+    "and",
+    44.46
+   ],
+   [
+    "this",
+    44.67
+   ],
+   [
+    "lemon",
+    44.96
+   ],
+   [
+    "shark",
+    45.32
+   ]
+  ]
+ },
+ {
+  "s": 46.23,
+  "e": 48.48,
+  "text": "Scientists think more than thirty thousand.",
+  "words": [
+   [
+    "scientists",
+    46.23
+   ],
+   [
+    "think",
+    46.84
+   ],
+   [
+    "more",
+    47.14
+   ],
+   [
+    "than",
+    47.38
+   ],
+   [
+    "thirty",
+    47.63
+   ],
+   [
+    "thousand",
+    47.99
+   ]
+  ]
+ },
+ {
+  "s": 49.03,
+  "e": 51.35,
+  "text": "So how many teeth have you lost so far?",
+  "words": [
+   [
+    "so",
+    49.03
+   ],
+   [
+    "how",
+    49.19
+   ],
+   [
+    "many",
+    49.42
+   ],
+   [
+    "teeth",
+    49.73
+   ],
+   [
+    "have",
+    50.11
+   ],
+   [
+    "you",
+    50.42
+   ],
+   [
+    "lost",
+    50.66
+   ],
+   [
+    "so",
+    50.97
+   ],
+   [
+    "far",
+    51.12
+   ]
+  ]
+ }
+]
