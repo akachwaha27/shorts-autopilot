@@ -1,0 +1,717 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.23,
+  "text": "Your fridge is wasting your bread.",
+  "words": [
+   [
+    "your",
+    0.25
+   ],
+   [
+    "fridge",
+    0.53
+   ],
+   [
+    "is",
+    0.96
+   ],
+   [
+    "wasting",
+    1.1
+   ],
+   [
+    "your",
+    1.6
+   ],
+   [
+    "bread",
+    1.88
+   ]
+  ]
+ },
+ {
+  "s": 2.78,
+  "e": 4.84,
+  "text": "It can go stale six times faster.",
+  "words": [
+   [
+    "it",
+    2.78
+   ],
+   [
+    "can",
+    2.94
+   ],
+   [
+    "go",
+    3.18
+   ],
+   [
+    "stale",
+    3.34
+   ],
+   [
+    "six",
+    3.73
+   ],
+   [
+    "times",
+    3.97
+   ],
+   [
+    "faster",
+    4.37
+   ]
+  ]
+ },
+ {
+  "s": 5.39,
+  "e": 6.19,
+  "text": "But why?",
+  "words": [
+   [
+    "but",
+    5.39
+   ],
+   [
+    "why",
+    5.79
+   ]
+  ]
+ },
+ {
+  "s": 6.74,
+  "e": 8.91,
+  "text": "Fresh bread is soft because of starch.",
+  "words": [
+   [
+    "fresh",
+    6.74
+   ],
+   [
+    "bread",
+    7.09
+   ],
+   [
+    "is",
+    7.44
+   ],
+   [
+    "soft",
+    7.58
+   ],
+   [
+    "because",
+    7.86
+   ],
+   [
+    "of",
+    8.35
+   ],
+   [
+    "starch",
+    8.49
+   ]
+  ]
+ },
+ {
+  "s": 9.46,
+  "e": 11.64,
+  "text": "In the oven, starch soaks up water,",
+  "words": [
+   [
+    "in",
+    9.46
+   ],
+   [
+    "the",
+    9.63
+   ],
+   [
+    "oven",
+    9.87
+   ],
+   [
+    "starch",
+    10.19
+   ],
+   [
+    "soaks",
+    10.67
+   ],
+   [
+    "up",
+    11.07
+   ],
+   [
+    "water",
+    11.23
+   ]
+  ]
+ },
+ {
+  "s": 11.94,
+  "e": 14.55,
+  "text": "and its tight crystals melt into a soft gel.",
+  "words": [
+   [
+    "and",
+    11.94
+   ],
+   [
+    "its",
+    12.16
+   ],
+   [
+    "tight",
+    12.39
+   ],
+   [
+    "crystals",
+    12.76
+   ],
+   [
+    "melt",
+    13.36
+   ],
+   [
+    "into",
+    13.65
+   ],
+   [
+    "a",
+    13.95
+   ],
+   [
+    "soft",
+    14.03
+   ],
+   [
+    "gel",
+    14.33
+   ]
+  ]
+ },
+ {
+  "s": 15.1,
+  "e": 16.46,
+  "text": "But once the bread cools,",
+  "words": [
+   [
+    "but",
+    15.1
+   ],
+   [
+    "once",
+    15.3
+   ],
+   [
+    "the",
+    15.57
+   ],
+   [
+    "bread",
+    15.78
+   ],
+   [
+    "cools",
+    16.12
+   ]
+  ]
+ },
+ {
+  "s": 16.76,
+  "e": 18.86,
+  "text": "the starch packs back into crystals.",
+  "words": [
+   [
+    "the",
+    16.76
+   ],
+   [
+    "starch",
+    16.97
+   ],
+   [
+    "packs",
+    17.39
+   ],
+   [
+    "back",
+    17.74
+   ],
+   [
+    "into",
+    18.02
+   ],
+   [
+    "crystals",
+    18.3
+   ]
+  ]
+ },
+ {
+  "s": 19.41,
+  "e": 21.48,
+  "text": "Scientists call it retrogradation.",
+  "words": [
+   [
+    "scientists",
+    19.41
+   ],
+   [
+    "call",
+    20.1
+   ],
+   [
+    "it",
+    20.37
+   ],
+   [
+    "retrogradation",
+    20.51
+   ]
+  ]
+ },
+ {
+  "s": 22.03,
+  "e": 24.0,
+  "text": "Those crystals squeeze the water out,",
+  "words": [
+   [
+    "those",
+    22.03
+   ],
+   [
+    "crystals",
+    22.35
+   ],
+   [
+    "squeeze",
+    22.86
+   ],
+   [
+    "the",
+    23.3
+   ],
+   [
+    "water",
+    23.49
+   ],
+   [
+    "out",
+    23.81
+   ]
+  ]
+ },
+ {
+  "s": 24.3,
+  "e": 25.39,
+  "text": "and lock it away.",
+  "words": [
+   [
+    "and",
+    24.3
+   ],
+   [
+    "lock",
+    24.55
+   ],
+   [
+    "it",
+    24.88
+   ],
+   [
+    "away",
+    25.05
+   ]
+  ]
+ },
+ {
+  "s": 25.94,
+  "e": 27.46,
+  "text": "So the crumb turns hard,",
+  "words": [
+   [
+    "so",
+    25.94
+   ],
+   [
+    "the",
+    26.1
+   ],
+   [
+    "crumb",
+    26.34
+   ],
+   [
+    "turns",
+    26.74
+   ],
+   [
+    "hard",
+    27.14
+   ]
+  ]
+ },
+ {
+  "s": 27.76,
+  "e": 29.31,
+  "text": "even though it's barely dried out.",
+  "words": [
+   [
+    "even",
+    27.76
+   ],
+   [
+    "though",
+    27.99
+   ],
+   [
+    "its",
+    28.34
+   ],
+   [
+    "barely",
+    28.51
+   ],
+   [
+    "dried",
+    28.85
+   ],
+   [
+    "out",
+    29.14
+   ]
+  ]
+ },
+ {
+  "s": 29.86,
+  "e": 31.99,
+  "text": "That's why sealed bread still goes stale.",
+  "words": [
+   [
+    "thats",
+    29.86
+   ],
+   [
+    "why",
+    30.19
+   ],
+   [
+    "sealed",
+    30.38
+   ],
+   [
+    "bread",
+    30.76
+   ],
+   [
+    "still",
+    31.09
+   ],
+   [
+    "goes",
+    31.41
+   ],
+   [
+    "stale",
+    31.67
+   ]
+  ]
+ },
+ {
+  "s": 32.54,
+  "e": 34.65,
+  "text": "And this crystal building runs fastest",
+  "words": [
+   [
+    "and",
+    32.54
+   ],
+   [
+    "this",
+    32.73
+   ],
+   [
+    "crystal",
+    32.99
+   ],
+   [
+    "building",
+    33.43
+   ],
+   [
+    "runs",
+    33.95
+   ],
+   [
+    "fastest",
+    34.2
+   ]
+  ]
+ },
+ {
+  "s": 34.95,
+  "e": 36.26,
+  "text": "just above freezing,",
+  "words": [
+   [
+    "just",
+    34.95
+   ],
+   [
+    "above",
+    35.26
+   ],
+   [
+    "freezing",
+    35.64
+   ]
+  ]
+ },
+ {
+  "s": 36.56,
+  "e": 38.01,
+  "text": "right at fridge temperature.",
+  "words": [
+   [
+    "right",
+    36.56
+   ],
+   [
+    "at",
+    36.86
+   ],
+   [
+    "fridge",
+    36.98
+   ],
+   [
+    "temperature",
+    37.35
+   ]
+  ]
+ },
+ {
+  "s": 38.56,
+  "e": 40.5,
+  "text": "In the freezer, it almost stops.",
+  "words": [
+   [
+    "in",
+    38.56
+   ],
+   [
+    "the",
+    38.72
+   ],
+   [
+    "freezer",
+    38.95
+   ],
+   [
+    "it",
+    39.49
+   ],
+   [
+    "almost",
+    39.65
+   ],
+   [
+    "stops",
+    40.12
+   ]
+  ]
+ },
+ {
+  "s": 41.05,
+  "e": 41.82,
+  "text": "The fix?",
+  "words": [
+   [
+    "the",
+    41.05
+   ],
+   [
+    "fix",
+    41.44
+   ]
+  ]
+ },
+ {
+  "s": 42.37,
+  "e": 44.07,
+  "text": "Warm stale bread in the oven,",
+  "words": [
+   [
+    "warm",
+    42.37
+   ],
+   [
+    "stale",
+    42.67
+   ],
+   [
+    "bread",
+    43.03
+   ],
+   [
+    "in",
+    43.4
+   ],
+   [
+    "the",
+    43.55
+   ],
+   [
+    "oven",
+    43.77
+   ]
+  ]
+ },
+ {
+  "s": 44.37,
+  "e": 45.97,
+  "text": "and the crystals melt again.",
+  "words": [
+   [
+    "and",
+    44.37
+   ],
+   [
+    "the",
+    44.58
+   ],
+   [
+    "crystals",
+    44.79
+   ],
+   [
+    "melt",
+    45.35
+   ],
+   [
+    "again",
+    45.62
+   ]
+  ]
+ },
+ {
+  "s": 46.52,
+  "e": 48.53,
+  "text": "It goes soft, almost like fresh,",
+  "words": [
+   [
+    "it",
+    46.52
+   ],
+   [
+    "goes",
+    46.68
+   ],
+   [
+    "soft",
+    47.0
+   ],
+   [
+    "almost",
+    47.32
+   ],
+   [
+    "like",
+    47.81
+   ],
+   [
+    "fresh",
+    48.13
+   ]
+  ]
+ },
+ {
+  "s": 48.83,
+  "e": 50.4,
+  "text": "but only for a little while.",
+  "words": [
+   [
+    "but",
+    48.83
+   ],
+   [
+    "only",
+    49.04
+   ],
+   [
+    "for",
+    49.33
+   ],
+   [
+    "a",
+    49.54
+   ],
+   [
+    "little",
+    49.61
+   ],
+   [
+    "while",
+    50.04
+   ]
+  ]
+ },
+ {
+  "s": 50.95,
+  "e": 52.92,
+  "text": "So, fridge, counter, or freezer:",
+  "words": [
+   [
+    "so",
+    50.95
+   ],
+   [
+    "fridge",
+    51.11
+   ],
+   [
+    "counter",
+    51.6
+   ],
+   [
+    "or",
+    52.18
+   ],
+   [
+    "freezer",
+    52.34
+   ]
+  ]
+ },
+ {
+  "s": 53.22,
+  "e": 54.5,
+  "text": "where does your bread live?",
+  "words": [
+   [
+    "where",
+    53.22
+   ],
+   [
+    "does",
+    53.51
+   ],
+   [
+    "your",
+    53.74
+   ],
+   [
+    "bread",
+    53.98
+   ],
+   [
+    "live",
+    54.27
+   ]
+  ]
+ }
+]
