@@ -1,0 +1,692 @@
+[
+ {
+  "s": 0.25,
+  "e": 3.35,
+  "text": "Why does your apple grow a brown scab in 5 minutes?",
+  "words": [
+   [
+    "why",
+    0.25
+   ],
+   [
+    "does",
+    0.48
+   ],
+   [
+    "your",
+    0.79
+   ],
+   [
+    "apple",
+    1.1
+   ],
+   [
+    "grow",
+    1.49
+   ],
+   [
+    "a",
+    1.8
+   ],
+   [
+    "brown",
+    1.87
+   ],
+   [
+    "scab",
+    2.26
+   ],
+   [
+    "in",
+    2.57
+   ],
+   [
+    "5",
+    2.73
+   ],
+   [
+    "minutes",
+    2.8
+   ]
+  ]
+ },
+ {
+  "s": 3.9,
+  "e": 5.46,
+  "text": "Inside every apple cell,",
+  "words": [
+   [
+    "inside",
+    3.9
+   ],
+   [
+    "every",
+    4.37
+   ],
+   [
+    "apple",
+    4.76
+   ],
+   [
+    "cell",
+    5.15
+   ]
+  ]
+ },
+ {
+  "s": 5.76,
+  "e": 7.97,
+  "text": "two things are locked in separate rooms.",
+  "words": [
+   [
+    "two",
+    5.76
+   ],
+   [
+    "things",
+    5.96
+   ],
+   [
+    "are",
+    6.37
+   ],
+   [
+    "locked",
+    6.57
+   ],
+   [
+    "in",
+    6.97
+   ],
+   [
+    "separate",
+    7.1
+   ],
+   [
+    "rooms",
+    7.63
+   ]
+  ]
+ },
+ {
+  "s": 8.52,
+  "e": 11.66,
+  "text": "One holds an enzyme, polyphenol oxidase.",
+  "words": [
+   [
+    "one",
+    8.52
+   ],
+   [
+    "holds",
+    8.8
+   ],
+   [
+    "an",
+    9.28
+   ],
+   [
+    "enzyme",
+    9.47
+   ],
+   [
+    "polyphenol",
+    10.04
+   ],
+   [
+    "oxidase",
+    10.99
+   ]
+  ]
+ },
+ {
+  "s": 12.21,
+  "e": 15.51,
+  "text": "The other holds natural chemicals called polyphenols.",
+  "words": [
+   [
+    "the",
+    12.21
+   ],
+   [
+    "other",
+    12.42
+   ],
+   [
+    "holds",
+    12.78
+   ],
+   [
+    "natural",
+    13.14
+   ],
+   [
+    "chemicals",
+    13.65
+   ],
+   [
+    "called",
+    14.29
+   ],
+   [
+    "polyphenols",
+    14.72
+   ]
+  ]
+ },
+ {
+  "s": 16.06,
+  "e": 17.93,
+  "text": "When you bite or slice the apple,",
+  "words": [
+   [
+    "when",
+    16.06
+   ],
+   [
+    "you",
+    16.35
+   ],
+   [
+    "bite",
+    16.57
+   ],
+   [
+    "or",
+    16.85
+   ],
+   [
+    "slice",
+    17.0
+   ],
+   [
+    "the",
+    17.36
+   ],
+   [
+    "apple",
+    17.57
+   ]
+  ]
+ },
+ {
+  "s": 18.23,
+  "e": 19.92,
+  "text": "you burst thousands of cells.",
+  "words": [
+   [
+    "you",
+    18.23
+   ],
+   [
+    "burst",
+    18.44
+   ],
+   [
+    "thousands",
+    18.79
+   ],
+   [
+    "of",
+    19.43
+   ],
+   [
+    "cells",
+    19.57
+   ]
+  ]
+ },
+ {
+  "s": 20.47,
+  "e": 21.85,
+  "text": "The two finally meet,",
+  "words": [
+   [
+    "the",
+    20.47
+   ],
+   [
+    "two",
+    20.71
+   ],
+   [
+    "finally",
+    20.95
+   ],
+   [
+    "meet",
+    21.52
+   ]
+  ]
+ },
+ {
+  "s": 22.15,
+  "e": 24.29,
+  "text": "and oxygen from the air rushes in.",
+  "words": [
+   [
+    "and",
+    22.15
+   ],
+   [
+    "oxygen",
+    22.39
+   ],
+   [
+    "from",
+    22.86
+   ],
+   [
+    "the",
+    23.18
+   ],
+   [
+    "air",
+    23.42
+   ],
+   [
+    "rushes",
+    23.66
+   ],
+   [
+    "in",
+    24.14
+   ]
+  ]
+ },
+ {
+  "s": 24.84,
+  "e": 26.83,
+  "text": "The enzyme uses that oxygen",
+  "words": [
+   [
+    "the",
+    24.84
+   ],
+   [
+    "enzyme",
+    25.1
+   ],
+   [
+    "uses",
+    25.62
+   ],
+   [
+    "that",
+    25.96
+   ],
+   [
+    "oxygen",
+    26.31
+   ]
+  ]
+ },
+ {
+  "s": 27.13,
+  "e": 29.6,
+  "text": "to turn the polyphenols into brown pigment,",
+  "words": [
+   [
+    "to",
+    27.13
+   ],
+   [
+    "turn",
+    27.26
+   ],
+   [
+    "the",
+    27.54
+   ],
+   [
+    "polyphenols",
+    27.74
+   ],
+   [
+    "into",
+    28.5
+   ],
+   [
+    "brown",
+    28.78
+   ],
+   [
+    "pigment",
+    29.12
+   ]
+  ]
+ },
+ {
+  "s": 29.9,
+  "e": 31.52,
+  "text": "like the melanin in your skin.",
+  "words": [
+   [
+    "like",
+    29.9
+   ],
+   [
+    "the",
+    30.17
+   ],
+   [
+    "melanin",
+    30.37
+   ],
+   [
+    "in",
+    30.84
+   ],
+   [
+    "your",
+    30.98
+   ],
+   [
+    "skin",
+    31.25
+   ]
+  ]
+ },
+ {
+  "s": 32.07,
+  "e": 33.71,
+  "text": "Scientists think it's a defence,",
+  "words": [
+   [
+    "scientists",
+    32.07
+   ],
+   [
+    "think",
+    32.7
+   ],
+   [
+    "its",
+    33.01
+   ],
+   [
+    "a",
+    33.2
+   ],
+   [
+    "defence",
+    33.27
+   ]
+  ]
+ },
+ {
+  "s": 34.01,
+  "e": 36.29,
+  "text": "a brown shield against germs and bugs,",
+  "words": [
+   [
+    "a",
+    34.01
+   ],
+   [
+    "brown",
+    34.08
+   ],
+   [
+    "shield",
+    34.45
+   ],
+   [
+    "against",
+    34.89
+   ],
+   [
+    "germs",
+    35.41
+   ],
+   [
+    "and",
+    35.77
+   ],
+   [
+    "bugs",
+    35.99
+   ]
+  ]
+ },
+ {
+  "s": 36.59,
+  "e": 38.11,
+  "text": "just like a scab on your knee.",
+  "words": [
+   [
+    "just",
+    36.59
+   ],
+   [
+    "like",
+    36.85
+   ],
+   [
+    "a",
+    37.12
+   ],
+   [
+    "scab",
+    37.18
+   ],
+   [
+    "on",
+    37.45
+   ],
+   [
+    "your",
+    37.58
+   ],
+   [
+    "knee",
+    37.84
+   ]
+  ]
+ },
+ {
+  "s": 38.66,
+  "e": 39.61,
+  "text": "Want to stop it?",
+  "words": [
+   [
+    "want",
+    38.66
+   ],
+   [
+    "to",
+    38.97
+   ],
+   [
+    "stop",
+    39.13
+   ],
+   [
+    "it",
+    39.45
+   ]
+  ]
+ },
+ {
+  "s": 40.16,
+  "e": 41.98,
+  "text": "Squeeze on some lemon juice.",
+  "words": [
+   [
+    "squeeze",
+    40.16
+   ],
+   [
+    "on",
+    40.71
+   ],
+   [
+    "some",
+    40.87
+   ],
+   [
+    "lemon",
+    41.19
+   ],
+   [
+    "juice",
+    41.59
+   ]
+  ]
+ },
+ {
+  "s": 42.53,
+  "e": 44.61,
+  "text": "Its acid slows the enzyme down,",
+  "words": [
+   [
+    "its",
+    42.53
+   ],
+   [
+    "acid",
+    42.78
+   ],
+   [
+    "slows",
+    43.11
+   ],
+   [
+    "the",
+    43.53
+   ],
+   [
+    "enzyme",
+    43.78
+   ],
+   [
+    "down",
+    44.27
+   ]
+  ]
+ },
+ {
+  "s": 44.91,
+  "e": 47.69,
+  "text": "and its vitamin C grabs the oxygen first.",
+  "words": [
+   [
+    "and",
+    44.91
+   ],
+   [
+    "its",
+    45.16
+   ],
+   [
+    "vitamin",
+    45.41
+   ],
+   [
+    "c",
+    46.0
+   ],
+   [
+    "grabs",
+    46.09
+   ],
+   [
+    "the",
+    46.51
+   ],
+   [
+    "oxygen",
+    46.76
+   ],
+   [
+    "first",
+    47.27
+   ]
+  ]
+ },
+ {
+  "s": 48.24,
+  "e": 49.93,
+  "text": "So when your apple turns brown,",
+  "words": [
+   [
+    "so",
+    48.24
+   ],
+   [
+    "when",
+    48.37
+   ],
+   [
+    "your",
+    48.64
+   ],
+   [
+    "apple",
+    48.92
+   ],
+   [
+    "turns",
+    49.25
+   ],
+   [
+    "brown",
+    49.59
+   ]
+  ]
+ },
+ {
+  "s": 50.23,
+  "e": 51.74,
+  "text": "is it rotting, or healing?",
+  "words": [
+   [
+    "is",
+    50.23
+   ],
+   [
+    "it",
+    50.38
+   ],
+   [
+    "rotting",
+    50.53
+   ],
+   [
+    "or",
+    51.06
+   ],
+   [
+    "healing",
+    51.21
+   ]
+  ]
+ },
+ {
+  "s": 52.29,
+  "e": 53.53,
+  "text": "Tell me in the comments.",
+  "words": [
+   [
+    "tell",
+    52.29
+   ],
+   [
+    "me",
+    52.55
+   ],
+   [
+    "in",
+    52.69
+   ],
+   [
+    "the",
+    52.82
+   ],
+   [
+    "comments",
+    53.01
+   ]
+  ]
+ }
+]
