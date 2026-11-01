@@ -1,0 +1,706 @@
+[
+ {
+  "s": 0.25,
+  "e": 3.52,
+  "text": "Your skin hides five million tiny muscles. Why?",
+  "words": [
+   [
+    "your",
+    0.25
+   ],
+   [
+    "skin",
+    0.59
+   ],
+   [
+    "hides",
+    0.94
+   ],
+   [
+    "five",
+    1.37
+   ],
+   [
+    "million",
+    1.71
+   ],
+   [
+    "tiny",
+    2.31
+   ],
+   [
+    "muscles",
+    2.66
+   ],
+   [
+    "why",
+    3.26
+   ]
+  ]
+ },
+ {
+  "s": 4.07,
+  "e": 5.77,
+  "text": "Almost every hair on your body",
+  "words": [
+   [
+    "almost",
+    4.07
+   ],
+   [
+    "every",
+    4.48
+   ],
+   [
+    "hair",
+    4.82
+   ],
+   [
+    "on",
+    5.09
+   ],
+   [
+    "your",
+    5.22
+   ],
+   [
+    "body",
+    5.49
+   ]
+  ]
+ },
+ {
+  "s": 6.07,
+  "e": 7.27,
+  "text": "has its own muscle,",
+  "words": [
+   [
+    "has",
+    6.07
+   ],
+   [
+    "its",
+    6.31
+   ],
+   [
+    "own",
+    6.55
+   ],
+   [
+    "muscle",
+    6.79
+   ]
+  ]
+ },
+ {
+  "s": 7.57,
+  "e": 8.93,
+  "text": "called the arrector pili.",
+  "words": [
+   [
+    "called",
+    7.57
+   ],
+   [
+    "the",
+    7.96
+   ],
+   [
+    "arrector",
+    8.16
+   ],
+   [
+    "pili",
+    8.67
+   ]
+  ]
+ },
+ {
+  "s": 9.48,
+  "e": 10.57,
+  "text": "When you get cold,",
+  "words": [
+   [
+    "when",
+    9.48
+   ],
+   [
+    "you",
+    9.79
+   ],
+   [
+    "get",
+    10.03
+   ],
+   [
+    "cold",
+    10.26
+   ]
+  ]
+ },
+ {
+  "s": 10.87,
+  "e": 11.69,
+  "text": "or scared,",
+  "words": [
+   [
+    "or",
+    10.87
+   ],
+   [
+    "scared",
+    11.07
+   ]
+  ]
+ },
+ {
+  "s": 11.99,
+  "e": 13.69,
+  "text": "your nerves fire one signal,",
+  "words": [
+   [
+    "your",
+    11.99
+   ],
+   [
+    "nerves",
+    12.28
+   ],
+   [
+    "fire",
+    12.72
+   ],
+   [
+    "one",
+    13.02
+   ],
+   [
+    "signal",
+    13.24
+   ]
+  ]
+ },
+ {
+  "s": 13.99,
+  "e": 15.57,
+  "text": "and they all squeeze at once.",
+  "words": [
+   [
+    "and",
+    13.99
+   ],
+   [
+    "they",
+    14.19
+   ],
+   [
+    "all",
+    14.47
+   ],
+   [
+    "squeeze",
+    14.68
+   ],
+   [
+    "at",
+    15.16
+   ],
+   [
+    "once",
+    15.3
+   ]
+  ]
+ },
+ {
+  "s": 16.12,
+  "e": 17.62,
+  "text": "That yanks each hair upright,",
+  "words": [
+   [
+    "that",
+    16.12
+   ],
+   [
+    "yanks",
+    16.37
+   ],
+   [
+    "each",
+    16.69
+   ],
+   [
+    "hair",
+    16.94
+   ],
+   [
+    "upright",
+    17.19
+   ]
+  ]
+ },
+ {
+  "s": 17.92,
+  "e": 19.59,
+  "text": "and pushes up a bump of skin.",
+  "words": [
+   [
+    "and",
+    17.92
+   ],
+   [
+    "pushes",
+    18.15
+   ],
+   [
+    "up",
+    18.61
+   ],
+   [
+    "a",
+    18.76
+   ],
+   [
+    "bump",
+    18.83
+   ],
+   [
+    "of",
+    19.14
+   ],
+   [
+    "skin",
+    19.29
+   ]
+  ]
+ },
+ {
+  "s": 20.14,
+  "e": 21.25,
+  "text": "That's a goosebump.",
+  "words": [
+   [
+    "thats",
+    20.14
+   ],
+   [
+    "a",
+    20.51
+   ],
+   [
+    "goosebump",
+    20.59
+   ]
+  ]
+ },
+ {
+  "s": 21.8,
+  "e": 24.09,
+  "text": "For a furry animal, it's a superpower.",
+  "words": [
+   [
+    "for",
+    21.8
+   ],
+   [
+    "a",
+    22.04
+   ],
+   [
+    "furry",
+    22.12
+   ],
+   [
+    "animal",
+    22.51
+   ],
+   [
+    "its",
+    22.99
+   ],
+   [
+    "a",
+    23.22
+   ],
+   [
+    "superpower",
+    23.3
+   ]
+  ]
+ },
+ {
+  "s": 24.64,
+  "e": 27.02,
+  "text": "Standing fur traps a layer of warm air,",
+  "words": [
+   [
+    "standing",
+    24.64
+   ],
+   [
+    "fur",
+    25.25
+   ],
+   [
+    "traps",
+    25.48
+   ],
+   [
+    "a",
+    25.87
+   ],
+   [
+    "layer",
+    25.94
+   ],
+   [
+    "of",
+    26.33
+   ],
+   [
+    "warm",
+    26.48
+   ],
+   [
+    "air",
+    26.79
+   ]
+  ]
+ },
+ {
+  "s": 27.32,
+  "e": 28.86,
+  "text": "like a puffy winter coat.",
+  "words": [
+   [
+    "like",
+    27.32
+   ],
+   [
+    "a",
+    27.63
+   ],
+   [
+    "puffy",
+    27.7
+   ],
+   [
+    "winter",
+    28.09
+   ],
+   [
+    "coat",
+    28.55
+   ]
+  ]
+ },
+ {
+  "s": 29.41,
+  "e": 30.88,
+  "text": "And a scared cat puffs up,",
+  "words": [
+   [
+    "and",
+    29.41
+   ],
+   [
+    "a",
+    29.63
+   ],
+   [
+    "scared",
+    29.71
+   ],
+   [
+    "cat",
+    30.15
+   ],
+   [
+    "puffs",
+    30.37
+   ],
+   [
+    "up",
+    30.73
+   ]
+  ]
+ },
+ {
+  "s": 31.18,
+  "e": 32.23,
+  "text": "so it looks bigger.",
+  "words": [
+   [
+    "so",
+    31.18
+   ],
+   [
+    "it",
+    31.32
+   ],
+   [
+    "looks",
+    31.46
+   ],
+   [
+    "bigger",
+    31.81
+   ]
+  ]
+ },
+ {
+  "s": 32.78,
+  "e": 34.4,
+  "text": "But we lost most of our fur,",
+  "words": [
+   [
+    "but",
+    32.78
+   ],
+   [
+    "we",
+    33.02
+   ],
+   [
+    "lost",
+    33.17
+   ],
+   [
+    "most",
+    33.48
+   ],
+   [
+    "of",
+    33.79
+   ],
+   [
+    "our",
+    33.94
+   ],
+   [
+    "fur",
+    34.17
+   ]
+  ]
+ },
+ {
+  "s": 34.7,
+  "e": 36.33,
+  "text": "so now we just get bumps.",
+  "words": [
+   [
+    "so",
+    34.7
+   ],
+   [
+    "now",
+    34.88
+   ],
+   [
+    "we",
+    35.13
+   ],
+   [
+    "just",
+    35.3
+   ],
+   [
+    "get",
+    35.65
+   ],
+   [
+    "bumps",
+    35.9
+   ]
+  ]
+ },
+ {
+  "s": 36.88,
+  "e": 38.53,
+  "text": "Even a song can trigger them,",
+  "words": [
+   [
+    "even",
+    36.88
+   ],
+   [
+    "a",
+    37.17
+   ],
+   [
+    "song",
+    37.24
+   ],
+   [
+    "can",
+    37.53
+   ],
+   [
+    "trigger",
+    37.74
+   ],
+   [
+    "them",
+    38.24
+   ]
+  ]
+ },
+ {
+  "s": 38.83,
+  "e": 41.31,
+  "text": "because big feelings fire the same nerves.",
+  "words": [
+   [
+    "because",
+    38.83
+   ],
+   [
+    "big",
+    39.33
+   ],
+   [
+    "feelings",
+    39.54
+   ],
+   [
+    "fire",
+    40.1
+   ],
+   [
+    "the",
+    40.39
+   ],
+   [
+    "same",
+    40.6
+   ],
+   [
+    "nerves",
+    40.88
+   ]
+  ]
+ },
+ {
+  "s": 41.86,
+  "e": 43.7,
+  "text": "And in mice, scientists found",
+  "words": [
+   [
+    "and",
+    41.86
+   ],
+   [
+    "in",
+    42.09
+   ],
+   [
+    "mice",
+    42.24
+   ],
+   [
+    "scientists",
+    42.55
+   ],
+   [
+    "found",
+    43.32
+   ]
+  ]
+ },
+ {
+  "s": 44.0,
+  "e": 46.13,
+  "text": "those nerves wake up hair stem cells,",
+  "words": [
+   [
+    "those",
+    44.0
+   ],
+   [
+    "nerves",
+    44.36
+   ],
+   [
+    "wake",
+    44.78
+   ],
+   [
+    "up",
+    45.06
+   ],
+   [
+    "hair",
+    45.21
+   ],
+   [
+    "stem",
+    45.49
+   ],
+   [
+    "cells",
+    45.77
+   ]
+  ]
+ },
+ {
+  "s": 46.43,
+  "e": 48.29,
+  "text": "to grow thicker fur in the cold.",
+  "words": [
+   [
+    "to",
+    46.43
+   ],
+   [
+    "grow",
+    46.58
+   ],
+   [
+    "thicker",
+    46.87
+   ],
+   [
+    "fur",
+    47.4
+   ],
+   [
+    "in",
+    47.62
+   ],
+   [
+    "the",
+    47.77
+   ],
+   [
+    "cold",
+    47.99
+   ]
+  ]
+ },
+ {
+  "s": 48.84,
+  "e": 50.43,
+  "text": "So what gives you goosebumps?",
+  "words": [
+   [
+    "so",
+    48.84
+   ],
+   [
+    "what",
+    48.98
+   ],
+   [
+    "gives",
+    49.24
+   ],
+   [
+    "you",
+    49.57
+   ],
+   [
+    "goosebumps",
+    49.77
+   ]
+  ]
+ }
+]
