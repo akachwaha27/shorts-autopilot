@@ -3209,7 +3209,7 @@
         "format": "animated",
         "style": "Chalkboard Lesson"
       },
-      "status": "awaiting_approval",
+      "status": "approved",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261101-goosebumps",
@@ -3229,7 +3229,9 @@
         "name": "2026-11-01-104-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:03,520\nYour skin hides five million tiny muscles. Why?\n\n2\n00:00:04,070 --> 00:00:05,770\nAlmost every hair on your body\n\n3\n00:00:06,070 --> 00:00:07,270\nhas its own muscle,\n\n4\n00:00:07,570 --> 00:00:08,930\ncalled the arrector pili.\n\n5\n00:00:09,480 --> 00:00:10,570\nWhen you get cold,\n\n6\n00:00:10,870 --> 00:00:11,690\nor scared,\n\n7\n00:00:11,990 --> 00:00:13,690\nyour nerves fire one signal,\n\n8\n00:00:13,990 --> 00:00:15,570\nand they all squeeze at once.\n\n9\n00:00:16,120 --> 00:00:17,620\nThat yanks each hair upright,\n\n10\n00:00:17,920 --> 00:00:19,590\nand pushes up a bump of skin.\n\n11\n00:00:20,140 --> 00:00:21,250\nThat's a goosebump.\n\n12\n00:00:21,800 --> 00:00:24,090\nFor a furry animal, it's a superpower.\n\n13\n00:00:24,640 --> 00:00:27,020\nStanding fur traps a layer of warm air,\n\n14\n00:00:27,320 --> 00:00:28,860\nlike a puffy winter coat.\n\n15\n00:00:29,410 --> 00:00:30,880\nAnd a scared cat puffs up,\n\n16\n00:00:31,180 --> 00:00:32,230\nso it looks bigger.\n\n17\n00:00:32,780 --> 00:00:34,400\nBut we lost most of our fur,\n\n18\n00:00:34,700 --> 00:00:36,330\nso now we just get bumps.\n\n19\n00:00:36,880 --> 00:00:38,530\nEven a song can trigger them,\n\n20\n00:00:38,830 --> 00:00:41,310\nbecause big feelings fire the same nerves.\n\n21\n00:00:41,860 --> 00:00:43,700\nAnd in mice, scientists found\n\n22\n00:00:44,000 --> 00:00:46,130\nthose nerves wake up hair stem cells,\n\n23\n00:00:46,430 --> 00:00:48,290\nto grow thicker fur in the cold.\n\n24\n00:00:48,840 --> 00:00:50,430\nSo what gives you goosebumps?\n\n",
-      "tg_msg": 979
+      "tg_msg": 979,
+      "approved_by": "auto",
+      "quota_note": "2026-11-01"
     },
     "2026-11-01-105": {
       "topic": {
@@ -3279,7 +3281,7 @@
         "format": "animated",
         "style": "Low-Poly Faceted"
       },
-      "status": "awaiting_approval",
+      "status": "approved",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261101-flamingo-leg",
@@ -3299,7 +3301,9 @@
         "name": "2026-11-01-105-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:02,670\nA dead flamingo can stand on one leg.\n\n2\n00:00:03,220 --> 00:00:04,210\nWhy can't you?\n\n3\n00:00:04,760 --> 00:00:08,610\nIn 2017, scientists in Atlanta tested it.\n\n4\n00:00:09,160 --> 00:00:11,040\nThey propped up a flamingo body,\n\n5\n00:00:11,340 --> 00:00:12,900\nand it balanced on one leg,\n\n6\n00:00:13,200 --> 00:00:15,080\nwith no muscles working at all.\n\n7\n00:00:15,630 --> 00:00:16,620\nHere's the trick.\n\n8\n00:00:17,170 --> 00:00:18,940\nThat bendy joint isn't a knee.\n\n9\n00:00:19,490 --> 00:00:20,430\nIt's the ankle.\n\n10\n00:00:20,980 --> 00:00:23,270\nThe real knee is hidden up in the feathers.\n\n11\n00:00:23,820 --> 00:00:25,710\nWhen a flamingo lifts one leg,\n\n12\n00:00:26,010 --> 00:00:27,230\nit shifts its body,\n\n13\n00:00:27,530 --> 00:00:29,470\nso its weight sits right over the foot.\n\n14\n00:00:30,020 --> 00:00:32,840\nThat weight pushes the joints into a locked position,\n\n15\n00:00:33,140 --> 00:00:35,090\nlike a folding chair clicking open.\n\n16\n00:00:35,640 --> 00:00:37,830\nNo muscles needed, just gravity.\n\n17\n00:00:38,380 --> 00:00:40,460\nLive flamingos even sway less\n\n18\n00:00:40,760 --> 00:00:42,140\nwhen they're fast asleep.\n\n19\n00:00:42,690 --> 00:00:43,790\nBut on two legs,\n\n20\n00:00:44,090 --> 00:00:45,700\nthe dead bird couldn't stay up.\n\n21\n00:00:46,250 --> 00:00:49,800\nFor a flamingo, one leg is the lazy way to stand.\n\n22\n00:00:50,350 --> 00:00:52,080\nFor you, it's a muscle workout.\n\n23\n00:00:52,630 --> 00:00:54,770\nSo how long can you stand on one leg?\n\n",
-      "tg_msg": 982
+      "tg_msg": 982,
+      "approved_by": "auto",
+      "quota_note": "2026-11-01"
     }
   },
   "history": [
