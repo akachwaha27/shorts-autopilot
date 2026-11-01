@@ -378,99 +378,6 @@
     }
   },
   "videos": {
-    "2026-10-26-105": {
-      "topic": {
-        "title": "How did people in old Japan smell what time it was? (incense clocks)",
-        "format": "animated",
-        "angle": "Ukiyo-e Woodblock"
-      },
-      "package": {
-        "title": "The 1-Month Clock You Read With Your Nose",
-        "description": "How did people in old Japan and China tell time by smell? Incense clocks burned a trail of incense powder pressed into a maze in ash, and switching to a different incense at set marks meant the room's smell changed as time passed.\n\nSources:\nhttps://en.wikipedia.org/wiki/Incense_clock\nhttps://museum.seiko.co.jp/en/knowledge/ElementalTimepieces03/\nhttps://www.iflscience.com/in-medieval-china-and-japan-clever-devices-allowed-you-to-smell-what-time-it-is-83651\n\nAnimated in the Ukiyo-e Woodblock style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#history",
-          "#howitworks",
-          "#japan"
-        ],
-        "tags": [
-          "incense clock",
-          "japanese incense clock",
-          "how did people tell time",
-          "ancient clocks",
-          "history of timekeeping",
-          "old japan",
-          "edo japan",
-          "ukiyo-e",
-          "incense",
-          "how it works",
-          "history shorts",
-          "ancient technology",
-          "zorbly ai"
-        ],
-        "category": "27",
-        "pinned_comment": "If you had an incense clock, which smell would you want for the morning: pine, cedar or sandalwood?",
-        "thumbnail_text": "SMELL THE TIME",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "How did people in old Japan\nsmell what time it was?\nNo gears. No ticking.\nJust a box of ash.\nFirst, they smoothed white ash flat,\nand pressed a stamp into it.\nThat left a groove,\na maze that snakes back and forth.\nThey filled the groove with incense powder:\none long, thin trail.\nLight one end,\nand a tiny ember crawls through the maze,\nat a nearly steady speed.\nHere's the clever part.\nAt set marks along the trail,\nthey switched to a different incense.\nSo when the smell in the room changed,\nyou knew more time had passed.\nSome trails burned for twelve hours.\nSome lasted a whole month.\nA few even dropped a little ball\nonto a tray, like an alarm.\nSo, what time does your room smell like right now?",
-        "key_facts": [
-          "Seal-type incense clocks (Japanese ko-dokei) laid a continuous trail of incense powder in a pattern pressed into flattened ash with a stamp or stencil",
-          "The powder burned at a fairly steady rate, so elapsed time could be read from how far the ember had travelled",
-          "Markers or tablets of different incense placed along the trail changed the aroma when reached, so an attendant could tell the time by smell",
-          "Burn times ranged from about 12 hours to a month, depending on trail length",
-          "Some versions dropped balls into a tray when the incense burned through, as an audible signal",
-          "Incense clocks came to Japan from China and were used in Japan from the Nara period"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Ukiyo-e Woodblock"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261026-incense-clock-v2",
-      "redos": 0,
-      "updated": "2026-10-27T12:28:47.911653+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Ukiyo-e Woodblock style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-26",
-        "name": "2026-10-26-105.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-26",
-        "name": "2026-10-26-105-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:02,110\nHow did people in old Japan\n\n2\n00:00:02,410 --> 00:00:03,790\nsmell what time it was?\n\n3\n00:00:04,340 --> 00:00:05,810\nNo gears. No ticking.\n\n4\n00:00:06,360 --> 00:00:07,740\nJust a box of ash.\n\n5\n00:00:08,290 --> 00:00:10,250\nFirst, they smoothed white ash flat,\n\n6\n00:00:10,550 --> 00:00:11,930\nand pressed a stamp into it.\n\n7\n00:00:12,480 --> 00:00:13,730\nThat left a groove,\n\n8\n00:00:14,030 --> 00:00:16,030\na maze that snakes back and forth.\n\n9\n00:00:16,580 --> 00:00:18,690\nThey filled the groove with incense powder:\n\n10\n00:00:18,990 --> 00:00:20,360\none long, thin trail.\n\n11\n00:00:20,910 --> 00:00:21,920\nLight one end,\n\n12\n00:00:22,220 --> 00:00:24,380\nand a tiny ember crawls through the maze,\n\n13\n00:00:24,680 --> 00:00:26,160\nat a nearly steady speed.\n\n14\n00:00:26,710 --> 00:00:28,020\nHere's the clever part.\n\n15\n00:00:28,570 --> 00:00:30,280\nAt set marks along the trail,\n\n16\n00:00:30,580 --> 00:00:32,380\nthey switched to a different incense.\n\n17\n00:00:32,930 --> 00:00:34,890\nSo when the smell in the room changed,\n\n18\n00:00:35,190 --> 00:00:36,780\nyou knew more time had passed.\n\n19\n00:00:37,330 --> 00:00:39,510\nSome trails burned for twelve hours.\n\n20\n00:00:40,060 --> 00:00:41,580\nSome lasted a whole month.\n\n21\n00:00:42,130 --> 00:00:44,040\nA few even dropped a little ball\n\n22\n00:00:44,340 --> 00:00:46,100\nonto a tray, like an alarm.\n\n23\n00:00:46,650 --> 00:00:49,430\nSo, what time does your room smell like right now?\n\n",
-      "tg_msg": 833,
-      "approved_by": "auto",
-      "quota_note": "2026-10-27",
-      "description_full": "How did people in old Japan and China tell time by smell? Incense clocks burned a trail of incense powder pressed into a maze in ash, and switching to a different incense at set marks meant the room's smell changed as time passed.\n\nSources:\nhttps://en.wikipedia.org/wiki/Incense_clock\nhttps://museum.seiko.co.jp/en/knowledge/ElementalTimepieces03/\nhttps://www.iflscience.com/in-medieval-china-and-japan-clever-devices-allowed-you-to-smell-what-time-it-is-83651\n\nAnimated in the Ukiyo-e Woodblock style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #history #howitworks #japan\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Ukiyo-e Woodblock style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/XGJMOrHOSIM",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-27T12:28:47.911672+00:00",
-      "slot": "2026-10-29T01:15:00+00:00"
-    },
     "2026-10-26-106": {
       "topic": {
         "title": "How does a plane toilet flush at 35,000 feet?",
@@ -3136,12 +3043,12 @@
         "format": "animated",
         "style": "Flat-Vector Science"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261101-apple-browning",
       "redos": 0,
-      "updated": "2026-11-01T15:16:57.829322+00:00",
+      "updated": "2026-11-01T18:57:39.360359+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech."
       ],
@@ -3156,7 +3063,29 @@
         "name": "2026-11-01-102-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:03,350\nWhy does your apple grow a brown scab in 5 minutes?\n\n2\n00:00:03,900 --> 00:00:05,460\nInside every apple cell,\n\n3\n00:00:05,760 --> 00:00:07,970\ntwo things are locked in separate rooms.\n\n4\n00:00:08,520 --> 00:00:11,660\nOne holds an enzyme, polyphenol oxidase.\n\n5\n00:00:12,210 --> 00:00:15,510\nThe other holds natural chemicals called polyphenols.\n\n6\n00:00:16,060 --> 00:00:17,930\nWhen you bite or slice the apple,\n\n7\n00:00:18,230 --> 00:00:19,920\nyou burst thousands of cells.\n\n8\n00:00:20,470 --> 00:00:21,850\nThe two finally meet,\n\n9\n00:00:22,150 --> 00:00:24,290\nand oxygen from the air rushes in.\n\n10\n00:00:24,840 --> 00:00:26,830\nThe enzyme uses that oxygen\n\n11\n00:00:27,130 --> 00:00:29,600\nto turn the polyphenols into brown pigment,\n\n12\n00:00:29,900 --> 00:00:31,520\nlike the melanin in your skin.\n\n13\n00:00:32,070 --> 00:00:33,710\nScientists think it's a defence,\n\n14\n00:00:34,010 --> 00:00:36,290\na brown shield against germs and bugs,\n\n15\n00:00:36,590 --> 00:00:38,110\njust like a scab on your knee.\n\n16\n00:00:38,660 --> 00:00:39,610\nWant to stop it?\n\n17\n00:00:40,160 --> 00:00:41,980\nSqueeze on some lemon juice.\n\n18\n00:00:42,530 --> 00:00:44,610\nIts acid slows the enzyme down,\n\n19\n00:00:44,910 --> 00:00:47,690\nand its vitamin C grabs the oxygen first.\n\n20\n00:00:48,240 --> 00:00:49,930\nSo when your apple turns brown,\n\n21\n00:00:50,230 --> 00:00:51,740\nis it rotting, or healing?\n\n22\n00:00:52,290 --> 00:00:53,530\nTell me in the comments.\n\n",
-      "tg_msg": 977
+      "tg_msg": 977,
+      "approved_by": "auto",
+      "description_full": "Why do cut apples turn brown? Slicing an apple bursts its cells, so the enzyme polyphenol oxidase meets the apple's polyphenols and oxygen, turning them into brown pigment, and lemon juice slows it down.\n\nSources:\nhttps://www.britannica.com/story/why-do-sliced-apples-turn-brown\nhttps://www.scientificamerican.com/article/why-do-apples-turn-brown/\nhttps://news.wisc.edu/curiosities-why-do-apple-slices-turn-brown/\n\nAnimated in the Flat-Vector Science style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #apple #science #foodscience\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/1CaXo6qO-w4",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-01T18:57:39.360376+00:00",
+      "slot": "2026-11-05T20:15:00+00:00"
     },
     "2026-11-01-103": {
       "topic": {
@@ -3207,7 +3136,7 @@
         "format": "long",
         "style": "Claymation Set"
       },
-      "status": "awaiting_approval",
+      "status": "approved",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261101-chocolate-story",
@@ -3227,7 +3156,80 @@
         "name": "2026-11-01-103-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:03,140\nYou could buy a turkey with a hundred cocoa beans.\n\n2\n00:00:03,690 --> 00:00:05,990\nSo why did chocolate stop being money,\n\n3\n00:00:06,290 --> 00:00:08,050\nand how did it end up in your hand?\n\n4\n00:00:08,600 --> 00:00:10,320\nThis is the story of chocolate.\n\n5\n00:00:10,870 --> 00:00:13,160\nIt starts with a tree in the rainforest.\n\n6\n00:00:13,710 --> 00:00:16,810\nThe cacao tree grows big, football-shaped pods,\n\n7\n00:00:17,110 --> 00:00:18,240\nright on its trunk.\n\n8\n00:00:18,790 --> 00:00:21,490\nInside each pod are thirty to fifty seeds,\n\n9\n00:00:21,790 --> 00:00:23,350\nwrapped in sweet white pulp.\n\n10\n00:00:23,900 --> 00:00:25,770\nThose seeds are cocoa beans.\n\n11\n00:00:26,320 --> 00:00:28,850\nScientists found traces of cacao in pots\n\n12\n00:00:29,150 --> 00:00:30,960\nfrom the Amazon in Ecuador,\n\n13\n00:00:31,260 --> 00:00:33,730\nabout five thousand three hundred years old.\n\n14\n00:00:34,280 --> 00:00:36,040\nLater, the Olmec and the Maya\n\n15\n00:00:36,340 --> 00:00:38,050\nturned the beans into a drink.\n\n16\n00:00:38,600 --> 00:00:41,050\nThey roasted them, ground them into paste,\n\n17\n00:00:41,350 --> 00:00:43,620\nand mixed in water, chili, and cornmeal.\n\n18\n00:00:44,170 --> 00:00:45,660\nThen they poured it from high up,\n\n19\n00:00:45,960 --> 00:00:47,490\nfrom one cup into another,\n\n20\n00:00:47,790 --> 00:00:49,660\nto whip up a thick foam on top.\n\n21\n00:00:50,210 --> 00:00:51,290\nAnd here's the thing.\n\n22\n00:00:51,840 --> 00:00:53,140\nIt wasn't sweet at all.\n\n23\n00:00:53,690 --> 00:00:55,890\nIt was bitter, spicy, and very special.\n\n24\n00:00:56,440 --> 00:00:58,220\nThe Aztecs loved it so much\n\n25\n00:00:58,520 --> 00:01:00,200\nthey used the beans as money.\n\n26\n00:01:00,750 --> 00:01:03,790\nOne record from the fifteen hundreds lists prices.\n\n27\n00:01:04,340 --> 00:01:05,980\nA tomato cost one bean.\n\n28\n00:01:06,530 --> 00:01:08,290\nAn avocado, three beans.\n\n29\n00:01:08,840 --> 00:01:10,490\nA turkey hen, one hundred.\n\n30\n00:01:11,040 --> 00:01:13,220\nSome people even made fake beans,\n\n31\n00:01:13,520 --> 00:01:15,450\nby stuffing empty shells with mud.\n\n32\n00:01:16,000 --> 00:01:17,730\nThen, in the fifteen hundreds,\n\n33\n00:01:18,030 --> 00:01:21,290\nSpanish explorers carried cacao back across the ocean.\n\n34\n00:01:21,840 --> 00:01:23,790\nThe Spanish court tried the bitter drink,\n\n35\n00:01:24,090 --> 00:01:25,370\nand did something new.\n\n36\n00:01:25,920 --> 00:01:26,960\nThey added sugar,\n\n37\n00:01:27,260 --> 00:01:28,770\nplus cinnamon and vanilla.\n\n38\n00:01:29,320 --> 00:01:30,900\nSuddenly, Europe was hooked.\n\n39\n00:01:31,450 --> 00:01:34,090\nFancy chocolate houses opened in London,\n\n40\n00:01:34,390 --> 00:01:36,050\nwhere rich people sipped it hot.\n\n41\n00:01:36,600 --> 00:01:38,490\nBut for almost three hundred years,\n\n42\n00:01:38,790 --> 00:01:40,690\nchocolate was still only a drink.\n\n43\n00:01:41,240 --> 00:01:42,100\nHere's why.\n\n44\n00:01:42,650 --> 00:01:44,590\nA cocoa bean is about half fat,\n\n45\n00:01:44,890 --> 00:01:46,160\ncalled cocoa butter.\n\n46\n00:01:46,710 --> 00:01:49,600\nGrind the beans, and you get a thick, greasy paste.\n\n47\n00:01:50,150 --> 00:01:51,530\nIn eighteen twenty eight,\n\n48\n00:01:51,830 --> 00:01:54,070\na Dutch chemist named Coenraad van Houten\n\n49\n00:01:54,370 --> 00:01:57,150\nbuilt a press that squeezed out most of that butter.\n\n50\n00:01:57,700 --> 00:01:59,610\nWhat was left became a dry cake,\n\n51\n00:01:59,910 --> 00:02:02,030\nthat could be crushed into cocoa powder.\n\n52\n00:02:02,580 --> 00:02:04,410\nThen in eighteen forty seven,\n\n53\n00:02:04,710 --> 00:02:07,530\nan English company called Fry's flipped the idea.\n\n54\n00:02:08,080 --> 00:02:09,830\nThey mixed cocoa powder and sugar\n\n55\n00:02:10,130 --> 00:02:12,170\nwith extra melted cocoa butter,\n\n56\n00:02:12,470 --> 00:02:13,960\nand poured it into a mold.\n\n57\n00:02:14,510 --> 00:02:15,450\nIt set hard.\n\n58\n00:02:16,000 --> 00:02:17,990\nThe first modern chocolate bar.\n\n59\n00:02:18,540 --> 00:02:20,540\nIt was still gritty, and a bit bitter.\n\n60\n00:02:21,090 --> 00:02:22,740\nTwo Swiss makers fixed that.\n\n61\n00:02:23,290 --> 00:02:24,840\nIn eighteen seventy five,\n\n62\n00:02:25,140 --> 00:02:26,800\nDaniel Peter added milk,\n\n63\n00:02:27,100 --> 00:02:30,070\nusing milk powder from his neighbor, Henri Nestl\u00e9.\n\n64\n00:02:30,620 --> 00:02:32,190\nMilk chocolate was born.\n\n65\n00:02:32,740 --> 00:02:34,590\nThen in eighteen seventy nine,\n\n66\n00:02:34,890 --> 00:02:37,530\nRodolphe Lindt built a machine called a conche.\n\n67\n00:02:38,080 --> 00:02:41,040\nIt rolls warm chocolate back and forth for hours,\n\n68\n00:02:41,340 --> 00:02:43,600\ngrinding every bit smaller and smaller,\n\n69\n00:02:43,900 --> 00:02:45,610\nuntil it turns silky smooth.\n\n70\n00:02:46,160 --> 00:02:47,460\nSo what happens today?\n\n71\n00:02:48,010 --> 00:02:49,580\nFarmers cut open the pods\n\n72\n00:02:49,880 --> 00:02:52,070\nand let the beans ferment for about a week.\n\n73\n00:02:52,620 --> 00:02:55,250\nThat's where most of the chocolate flavor comes from.\n\n74\n00:02:55,800 --> 00:02:58,390\nThen the beans are dried, roasted, and cracked.\n\n75\n00:02:58,940 --> 00:03:01,070\nIt takes around four hundred beans\n\n76\n00:03:01,370 --> 00:03:02,960\nto make one pound of chocolate.\n\n77\n00:03:03,510 --> 00:03:05,210\nAnd the best trick is in the butter.\n\n78\n00:03:05,760 --> 00:03:09,390\nCocoa butter melts at about thirty four degrees Celsius,\n\n79\n00:03:09,690 --> 00:03:12,040\njust below the heat inside your mouth.\n\n80\n00:03:12,590 --> 00:03:14,870\nThat's why a bar stays solid in your hand,\n\n81\n00:03:15,170 --> 00:03:16,490\nbut melts on your tongue.\n\n82\n00:03:17,040 --> 00:03:18,990\nFrom a bitter drink worth real money,\n\n83\n00:03:19,290 --> 00:03:20,930\nto the bar in your lunchbox.\n\n84\n00:03:21,480 --> 00:03:23,940\nSo, would you rather have the drink, or the bar?\n\n85\n00:03:24,490 --> 00:03:28,030\nNext time, how do tiny ants build an underground city\n\n86\n00:03:28,330 --> 00:03:29,920\nfor millions of workers?\n\n",
-      "tg_msg": 978
+      "tg_msg": 978,
+      "approved_by": "auto",
+      "quota_note": "2026-11-01"
+    },
+    "2026-11-01-104": {
+      "topic": {
+        "title": "Why do we get goosebumps?",
+        "format": "animated",
+        "angle": "Chalkboard Lesson"
+      },
+      "package": {
+        "title": "Why Do We Get Goosebumps? \ud83e\udd76",
+        "description": "Why do we get goosebumps? Tiny arrector pili muscles at almost every hair squeeze when you're cold or scared, pulling the hair upright and raising a bump of skin, a leftover from furry ancestors whose fluffed-up fur trapped warm air and made them look bigger.\n\nSources:\nhttps://www.livescience.com/32349-what-causes-goose-bumps.html\nhttps://hscrb.harvard.edu/news/the-real-reason-behind-goosebumps\nhttps://www.ncbi.nlm.nih.gov/books/NBK499948/\n\nAnimated in the Chalkboard Lesson style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#goosebumps",
+          "#science",
+          "#humanbody"
+        ],
+        "tags": [
+          "why do we get goosebumps",
+          "goosebumps",
+          "goose bumps explained",
+          "arrector pili",
+          "chills",
+          "why do we get chills",
+          "human body facts",
+          "body science",
+          "science explained",
+          "fun facts",
+          "zorbly ai",
+          "animated explainer",
+          "how it works",
+          "evolution"
+        ],
+        "category": "27",
+        "pinned_comment": "What gives you goosebumps every single time: a song, a scary movie, or cold air?",
+        "thumbnail_text": "5 MILLION MUSCLES",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "Your skin hides five million tiny muscles. Why?\nAlmost every hair on your body\nhas its own muscle,\ncalled the arrector pili.\nWhen you get cold,\nor scared,\nyour nerves fire one signal,\nand they all squeeze at once.\nThat yanks each hair upright,\nand pushes up a bump of skin.\nThat's a goosebump.\nFor a furry animal, it's a superpower.\nStanding fur traps a layer of warm air,\nlike a puffy winter coat.\nAnd a scared cat puffs up,\nso it looks bigger.\nBut we lost most of our fur,\nso now we just get bumps.\nEven a song can trigger them,\nbecause big feelings fire the same nerves.\nAnd in mice, scientists found\nthose nerves wake up hair stem cells,\nto grow thicker fur in the cold.\nSo what gives you goosebumps?",
+        "key_facts": [
+          "The body has about 5 million hair follicles, and almost every body hair has a tiny arrector pili muscle attached",
+          "Cold or fear triggers the sympathetic nervous system, which makes the arrector pili muscles contract",
+          "The contraction pulls the hair upright and raises a small bump of skin: a goosebump",
+          "In furry mammals, raised fur traps a layer of insulating air and makes the animal look bigger to threats",
+          "Strong emotions, such as from music, can trigger the same nervous response",
+          "A 2020 Harvard study in mice found the sympathetic nerves tied to these muscles also activate hair follicle stem cells to grow new hair in prolonged cold"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Chalkboard Lesson"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261101-goosebumps",
+      "redos": 0,
+      "updated": "2026-11-01T18:57:26.451532+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Chalkboard Lesson style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-01",
+        "name": "2026-11-01-104.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-01",
+        "name": "2026-11-01-104-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:03,520\nYour skin hides five million tiny muscles. Why?\n\n2\n00:00:04,070 --> 00:00:05,770\nAlmost every hair on your body\n\n3\n00:00:06,070 --> 00:00:07,270\nhas its own muscle,\n\n4\n00:00:07,570 --> 00:00:08,930\ncalled the arrector pili.\n\n5\n00:00:09,480 --> 00:00:10,570\nWhen you get cold,\n\n6\n00:00:10,870 --> 00:00:11,690\nor scared,\n\n7\n00:00:11,990 --> 00:00:13,690\nyour nerves fire one signal,\n\n8\n00:00:13,990 --> 00:00:15,570\nand they all squeeze at once.\n\n9\n00:00:16,120 --> 00:00:17,620\nThat yanks each hair upright,\n\n10\n00:00:17,920 --> 00:00:19,590\nand pushes up a bump of skin.\n\n11\n00:00:20,140 --> 00:00:21,250\nThat's a goosebump.\n\n12\n00:00:21,800 --> 00:00:24,090\nFor a furry animal, it's a superpower.\n\n13\n00:00:24,640 --> 00:00:27,020\nStanding fur traps a layer of warm air,\n\n14\n00:00:27,320 --> 00:00:28,860\nlike a puffy winter coat.\n\n15\n00:00:29,410 --> 00:00:30,880\nAnd a scared cat puffs up,\n\n16\n00:00:31,180 --> 00:00:32,230\nso it looks bigger.\n\n17\n00:00:32,780 --> 00:00:34,400\nBut we lost most of our fur,\n\n18\n00:00:34,700 --> 00:00:36,330\nso now we just get bumps.\n\n19\n00:00:36,880 --> 00:00:38,530\nEven a song can trigger them,\n\n20\n00:00:38,830 --> 00:00:41,310\nbecause big feelings fire the same nerves.\n\n21\n00:00:41,860 --> 00:00:43,700\nAnd in mice, scientists found\n\n22\n00:00:44,000 --> 00:00:46,130\nthose nerves wake up hair stem cells,\n\n23\n00:00:46,430 --> 00:00:48,290\nto grow thicker fur in the cold.\n\n24\n00:00:48,840 --> 00:00:50,430\nSo what gives you goosebumps?\n\n",
+      "tg_msg": 979
     }
   },
   "history": [
@@ -3356,7 +3358,8 @@
     "drop/20261031-stale-bread": "2026-10-31-105",
     "drop/20261031-woodpecker": "2026-11-01-101",
     "drop/20261101-apple-browning": "2026-11-01-102",
-    "drop/20261101-chocolate-story": "2026-11-01-103"
+    "drop/20261101-chocolate-story": "2026-11-01-103",
+    "drop/20261101-goosebumps": "2026-11-01-104"
   },
   "refs_day": "2026-11-01"
 }
