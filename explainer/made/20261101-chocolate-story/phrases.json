@@ -1,0 +1,2756 @@
+[
+ {
+  "s": 0.25,
+  "e": 3.14,
+  "text": "You could buy a turkey with a hundred cocoa beans.",
+  "words": [
+   [
+    "you",
+    0.25
+   ],
+   [
+    "could",
+    0.47
+   ],
+   [
+    "buy",
+    0.83
+   ],
+   [
+    "a",
+    1.05
+   ],
+   [
+    "turkey",
+    1.12
+   ],
+   [
+    "with",
+    1.55
+   ],
+   [
+    "a",
+    1.84
+   ],
+   [
+    "hundred",
+    1.91
+   ],
+   [
+    "cocoa",
+    2.42
+   ],
+   [
+    "beans",
+    2.78
+   ]
+  ]
+ },
+ {
+  "s": 3.69,
+  "e": 5.99,
+  "text": "So why did chocolate stop being money,",
+  "words": [
+   [
+    "so",
+    3.69
+   ],
+   [
+    "why",
+    3.84
+   ],
+   [
+    "did",
+    4.06
+   ],
+   [
+    "chocolate",
+    4.29
+   ],
+   [
+    "stop",
+    4.95
+   ],
+   [
+    "being",
+    5.25
+   ],
+   [
+    "money",
+    5.62
+   ]
+  ]
+ },
+ {
+  "s": 6.29,
+  "e": 8.05,
+  "text": "and how did it end up in your hand?",
+  "words": [
+   [
+    "and",
+    6.29
+   ],
+   [
+    "how",
+    6.49
+   ],
+   [
+    "did",
+    6.7
+   ],
+   [
+    "it",
+    6.9
+   ],
+   [
+    "end",
+    7.03
+   ],
+   [
+    "up",
+    7.24
+   ],
+   [
+    "in",
+    7.37
+   ],
+   [
+    "your",
+    7.51
+   ],
+   [
+    "hand",
+    7.78
+   ]
+  ]
+ },
+ {
+  "s": 8.6,
+  "e": 10.32,
+  "text": "This is the story of chocolate.",
+  "words": [
+   [
+    "this",
+    8.6
+   ],
+   [
+    "is",
+    8.88
+   ],
+   [
+    "the",
+    9.01
+   ],
+   [
+    "story",
+    9.22
+   ],
+   [
+    "of",
+    9.57
+   ],
+   [
+    "chocolate",
+    9.7
+   ]
+  ]
+ },
+ {
+  "s": 10.87,
+  "e": 13.16,
+  "text": "It starts with a tree in the rainforest.",
+  "words": [
+   [
+    "it",
+    10.87
+   ],
+   [
+    "starts",
+    11.02
+   ],
+   [
+    "with",
+    11.45
+   ],
+   [
+    "a",
+    11.73
+   ],
+   [
+    "tree",
+    11.8
+   ],
+   [
+    "in",
+    12.09
+   ],
+   [
+    "the",
+    12.23
+   ],
+   [
+    "rainforest",
+    12.45
+   ]
+  ]
+ },
+ {
+  "s": 13.71,
+  "e": 16.81,
+  "text": "The cacao tree grows big, football-shaped pods,",
+  "words": [
+   [
+    "the",
+    13.71
+   ],
+   [
+    "cacao",
+    13.96
+   ],
+   [
+    "tree",
+    14.37
+   ],
+   [
+    "grows",
+    14.69
+   ],
+   [
+    "big",
+    15.1
+   ],
+   [
+    "footballshaped",
+    15.34
+   ],
+   [
+    "pods",
+    16.48
+   ]
+  ]
+ },
+ {
+  "s": 17.11,
+  "e": 18.24,
+  "text": "right on its trunk.",
+  "words": [
+   [
+    "right",
+    17.11
+   ],
+   [
+    "on",
+    17.49
+   ],
+   [
+    "its",
+    17.64
+   ],
+   [
+    "trunk",
+    17.86
+   ]
+  ]
+ },
+ {
+  "s": 18.79,
+  "e": 21.49,
+  "text": "Inside each pod are thirty to fifty seeds,",
+  "words": [
+   [
+    "inside",
+    18.79
+   ],
+   [
+    "each",
+    19.27
+   ],
+   [
+    "pod",
+    19.58
+   ],
+   [
+    "are",
+    19.82
+   ],
+   [
+    "thirty",
+    20.06
+   ],
+   [
+    "to",
+    20.54
+   ],
+   [
+    "fifty",
+    20.7
+   ],
+   [
+    "seeds",
+    21.09
+   ]
+  ]
+ },
+ {
+  "s": 21.79,
+  "e": 23.35,
+  "text": "wrapped in sweet white pulp.",
+  "words": [
+   [
+    "wrapped",
+    21.79
+   ],
+   [
+    "in",
+    22.26
+   ],
+   [
+    "sweet",
+    22.4
+   ],
+   [
+    "white",
+    22.74
+   ],
+   [
+    "pulp",
+    23.08
+   ]
+  ]
+ },
+ {
+  "s": 23.9,
+  "e": 25.77,
+  "text": "Those seeds are cocoa beans.",
+  "words": [
+   [
+    "those",
+    23.9
+   ],
+   [
+    "seeds",
+    24.31
+   ],
+   [
+    "are",
+    24.71
+   ],
+   [
+    "cocoa",
+    24.96
+   ],
+   [
+    "beans",
+    25.36
+   ]
+  ]
+ },
+ {
+  "s": 26.32,
+  "e": 28.85,
+  "text": "Scientists found traces of cacao in pots",
+  "words": [
+   [
+    "scientists",
+    26.32
+   ],
+   [
+    "found",
+    27.07
+   ],
+   [
+    "traces",
+    27.44
+   ],
+   [
+    "of",
+    27.88
+   ],
+   [
+    "cacao",
+    28.03
+   ],
+   [
+    "in",
+    28.41
+   ],
+   [
+    "pots",
+    28.56
+   ]
+  ]
+ },
+ {
+  "s": 29.15,
+  "e": 30.96,
+  "text": "from the Amazon in Ecuador,",
+  "words": [
+   [
+    "from",
+    29.15
+   ],
+   [
+    "the",
+    29.48
+   ],
+   [
+    "amazon",
+    29.73
+   ],
+   [
+    "in",
+    30.22
+   ],
+   [
+    "ecuador",
+    30.39
+   ]
+  ]
+ },
+ {
+  "s": 31.26,
+  "e": 33.73,
+  "text": "about five thousand three hundred years old.",
+  "words": [
+   [
+    "about",
+    31.26
+   ],
+   [
+    "five",
+    31.6
+   ],
+   [
+    "thousand",
+    31.86
+   ],
+   [
+    "three",
+    32.4
+   ],
+   [
+    "hundred",
+    32.73
+   ],
+   [
+    "years",
+    33.2
+   ],
+   [
+    "old",
+    33.53
+   ]
+  ]
+ },
+ {
+  "s": 34.28,
+  "e": 36.04,
+  "text": "Later, the Olmec and the Maya",
+  "words": [
+   [
+    "later",
+    34.28
+   ],
+   [
+    "the",
+    34.66
+   ],
+   [
+    "olmec",
+    34.89
+   ],
+   [
+    "and",
+    35.27
+   ],
+   [
+    "the",
+    35.5
+   ],
+   [
+    "maya",
+    35.73
+   ]
+  ]
+ },
+ {
+  "s": 36.34,
+  "e": 38.05,
+  "text": "turned the beans into a drink.",
+  "words": [
+   [
+    "turned",
+    36.34
+   ],
+   [
+    "the",
+    36.77
+   ],
+   [
+    "beans",
+    36.98
+   ],
+   [
+    "into",
+    37.34
+   ],
+   [
+    "a",
+    37.62
+   ],
+   [
+    "drink",
+    37.7
+   ]
+  ]
+ },
+ {
+  "s": 38.6,
+  "e": 41.05,
+  "text": "They roasted them, ground them into paste,",
+  "words": [
+   [
+    "they",
+    38.6
+   ],
+   [
+    "roasted",
+    38.89
+   ],
+   [
+    "them",
+    39.39
+   ],
+   [
+    "ground",
+    39.68
+   ],
+   [
+    "them",
+    40.11
+   ],
+   [
+    "into",
+    40.4
+   ],
+   [
+    "paste",
+    40.69
+   ]
+  ]
+ },
+ {
+  "s": 41.35,
+  "e": 43.62,
+  "text": "and mixed in water, chili, and cornmeal.",
+  "words": [
+   [
+    "and",
+    41.35
+   ],
+   [
+    "mixed",
+    41.57
+   ],
+   [
+    "in",
+    41.93
+   ],
+   [
+    "water",
+    42.08
+   ],
+   [
+    "chili",
+    42.45
+   ],
+   [
+    "and",
+    42.81
+   ],
+   [
+    "cornmeal",
+    43.03
+   ]
+  ]
+ },
+ {
+  "s": 44.17,
+  "e": 45.66,
+  "text": "Then they poured it from high up,",
+  "words": [
+   [
+    "then",
+    44.17
+   ],
+   [
+    "they",
+    44.4
+   ],
+   [
+    "poured",
+    44.63
+   ],
+   [
+    "it",
+    44.97
+   ],
+   [
+    "from",
+    45.09
+   ],
+   [
+    "high",
+    45.32
+   ],
+   [
+    "up",
+    45.55
+   ]
+  ]
+ },
+ {
+  "s": 45.96,
+  "e": 47.49,
+  "text": "from one cup into another,",
+  "words": [
+   [
+    "from",
+    45.96
+   ],
+   [
+    "one",
+    46.25
+   ],
+   [
+    "cup",
+    46.47
+   ],
+   [
+    "into",
+    46.69
+   ],
+   [
+    "another",
+    46.98
+   ]
+  ]
+ },
+ {
+  "s": 47.79,
+  "e": 49.66,
+  "text": "to whip up a thick foam on top.",
+  "words": [
+   [
+    "to",
+    47.79
+   ],
+   [
+    "whip",
+    47.95
+   ],
+   [
+    "up",
+    48.28
+   ],
+   [
+    "a",
+    48.44
+   ],
+   [
+    "thick",
+    48.52
+   ],
+   [
+    "foam",
+    48.93
+   ],
+   [
+    "on",
+    49.26
+   ],
+   [
+    "top",
+    49.42
+   ]
+  ]
+ },
+ {
+  "s": 50.21,
+  "e": 51.29,
+  "text": "And here's the thing.",
+  "words": [
+   [
+    "and",
+    50.21
+   ],
+   [
+    "heres",
+    50.41
+   ],
+   [
+    "the",
+    50.75
+   ],
+   [
+    "thing",
+    50.95
+   ]
+  ]
+ },
+ {
+  "s": 51.84,
+  "e": 53.14,
+  "text": "It wasn't sweet at all.",
+  "words": [
+   [
+    "it",
+    51.84
+   ],
+   [
+    "wasnt",
+    51.99
+   ],
+   [
+    "sweet",
+    52.37
+   ],
+   [
+    "at",
+    52.75
+   ],
+   [
+    "all",
+    52.91
+   ]
+  ]
+ },
+ {
+  "s": 53.69,
+  "e": 55.89,
+  "text": "It was bitter, spicy, and very special.",
+  "words": [
+   [
+    "it",
+    53.69
+   ],
+   [
+    "was",
+    53.83
+   ],
+   [
+    "bitter",
+    54.05
+   ],
+   [
+    "spicy",
+    54.49
+   ],
+   [
+    "and",
+    54.86
+   ],
+   [
+    "very",
+    55.08
+   ],
+   [
+    "special",
+    55.37
+   ]
+  ]
+ },
+ {
+  "s": 56.44,
+  "e": 58.22,
+  "text": "The Aztecs loved it so much",
+  "words": [
+   [
+    "the",
+    56.44
+   ],
+   [
+    "aztecs",
+    56.68
+   ],
+   [
+    "loved",
+    57.17
+   ],
+   [
+    "it",
+    57.57
+   ],
+   [
+    "so",
+    57.73
+   ],
+   [
+    "much",
+    57.89
+   ]
+  ]
+ },
+ {
+  "s": 58.52,
+  "e": 60.2,
+  "text": "they used the beans as money.",
+  "words": [
+   [
+    "they",
+    58.52
+   ],
+   [
+    "used",
+    58.81
+   ],
+   [
+    "the",
+    59.1
+   ],
+   [
+    "beans",
+    59.32
+   ],
+   [
+    "as",
+    59.69
+   ],
+   [
+    "money",
+    59.83
+   ]
+  ]
+ },
+ {
+  "s": 60.75,
+  "e": 63.79,
+  "text": "One record from the fifteen hundreds lists prices.",
+  "words": [
+   [
+    "one",
+    60.75
+   ],
+   [
+    "record",
+    60.97
+   ],
+   [
+    "from",
+    61.4
+   ],
+   [
+    "the",
+    61.69
+   ],
+   [
+    "fifteen",
+    61.91
+   ],
+   [
+    "hundreds",
+    62.41
+   ],
+   [
+    "lists",
+    62.99
+   ],
+   [
+    "prices",
+    63.36
+   ]
+  ]
+ },
+ {
+  "s": 64.34,
+  "e": 65.98,
+  "text": "A tomato cost one bean.",
+  "words": [
+   [
+    "a",
+    64.34
+   ],
+   [
+    "tomato",
+    64.43
+   ],
+   [
+    "cost",
+    64.98
+   ],
+   [
+    "one",
+    65.34
+   ],
+   [
+    "bean",
+    65.62
+   ]
+  ]
+ },
+ {
+  "s": 66.53,
+  "e": 68.29,
+  "text": "An avocado, three beans.",
+  "words": [
+   [
+    "an",
+    66.53
+   ],
+   [
+    "avocado",
+    66.72
+   ],
+   [
+    "three",
+    67.37
+   ],
+   [
+    "beans",
+    67.83
+   ]
+  ]
+ },
+ {
+  "s": 68.84,
+  "e": 70.49,
+  "text": "A turkey hen, one hundred.",
+  "words": [
+   [
+    "a",
+    68.84
+   ],
+   [
+    "turkey",
+    68.93
+   ],
+   [
+    "hen",
+    69.42
+   ],
+   [
+    "one",
+    69.67
+   ],
+   [
+    "hundred",
+    69.91
+   ]
+  ]
+ },
+ {
+  "s": 71.04,
+  "e": 73.22,
+  "text": "Some people even made fake beans,",
+  "words": [
+   [
+    "some",
+    71.04
+   ],
+   [
+    "people",
+    71.36
+   ],
+   [
+    "even",
+    71.85
+   ],
+   [
+    "made",
+    72.17
+   ],
+   [
+    "fake",
+    72.49
+   ],
+   [
+    "beans",
+    72.81
+   ]
+  ]
+ },
+ {
+  "s": 73.52,
+  "e": 75.45,
+  "text": "by stuffing empty shells with mud.",
+  "words": [
+   [
+    "by",
+    73.52
+   ],
+   [
+    "stuffing",
+    73.66
+   ],
+   [
+    "empty",
+    74.21
+   ],
+   [
+    "shells",
+    74.55
+   ],
+   [
+    "with",
+    74.97
+   ],
+   [
+    "mud",
+    75.24
+   ]
+  ]
+ },
+ {
+  "s": 76.0,
+  "e": 77.73,
+  "text": "Then, in the fifteen hundreds,",
+  "words": [
+   [
+    "then",
+    76.0
+   ],
+   [
+    "in",
+    76.29
+   ],
+   [
+    "the",
+    76.43
+   ],
+   [
+    "fifteen",
+    76.65
+   ],
+   [
+    "hundreds",
+    77.15
+   ]
+  ]
+ },
+ {
+  "s": 78.03,
+  "e": 81.29,
+  "text": "Spanish explorers carried cacao back across the ocean.",
+  "words": [
+   [
+    "spanish",
+    78.03
+   ],
+   [
+    "explorers",
+    78.53
+   ],
+   [
+    "carried",
+    79.16
+   ],
+   [
+    "cacao",
+    79.66
+   ],
+   [
+    "back",
+    80.02
+   ],
+   [
+    "across",
+    80.3
+   ],
+   [
+    "the",
+    80.72
+   ],
+   [
+    "ocean",
+    80.94
+   ]
+  ]
+ },
+ {
+  "s": 81.84,
+  "e": 83.79,
+  "text": "The Spanish court tried the bitter drink,",
+  "words": [
+   [
+    "the",
+    81.84
+   ],
+   [
+    "spanish",
+    82.01
+   ],
+   [
+    "court",
+    82.41
+   ],
+   [
+    "tried",
+    82.7
+   ],
+   [
+    "the",
+    82.99
+   ],
+   [
+    "bitter",
+    83.16
+   ],
+   [
+    "drink",
+    83.5
+   ]
+  ]
+ },
+ {
+  "s": 84.09,
+  "e": 85.37,
+  "text": "and did something new.",
+  "words": [
+   [
+    "and",
+    84.09
+   ],
+   [
+    "did",
+    84.3
+   ],
+   [
+    "something",
+    84.52
+   ],
+   [
+    "new",
+    85.15
+   ]
+  ]
+ },
+ {
+  "s": 85.92,
+  "e": 86.96,
+  "text": "They added sugar,",
+  "words": [
+   [
+    "they",
+    85.92
+   ],
+   [
+    "added",
+    86.22
+   ],
+   [
+    "sugar",
+    86.59
+   ]
+  ]
+ },
+ {
+  "s": 87.26,
+  "e": 88.77,
+  "text": "plus cinnamon and vanilla.",
+  "words": [
+   [
+    "plus",
+    87.26
+   ],
+   [
+    "cinnamon",
+    87.54
+   ],
+   [
+    "and",
+    88.08
+   ],
+   [
+    "vanilla",
+    88.29
+   ]
+  ]
+ },
+ {
+  "s": 89.32,
+  "e": 90.9,
+  "text": "Suddenly, Europe was hooked.",
+  "words": [
+   [
+    "suddenly",
+    89.32
+   ],
+   [
+    "europe",
+    89.87
+   ],
+   [
+    "was",
+    90.28
+   ],
+   [
+    "hooked",
+    90.48
+   ]
+  ]
+ },
+ {
+  "s": 91.45,
+  "e": 94.09,
+  "text": "Fancy chocolate houses opened in London,",
+  "words": [
+   [
+    "fancy",
+    91.45
+   ],
+   [
+    "chocolate",
+    91.84
+   ],
+   [
+    "houses",
+    92.53
+   ],
+   [
+    "opened",
+    93.0
+   ],
+   [
+    "in",
+    93.47
+   ],
+   [
+    "london",
+    93.62
+   ]
+  ]
+ },
+ {
+  "s": 94.39,
+  "e": 96.05,
+  "text": "where rich people sipped it hot.",
+  "words": [
+   [
+    "where",
+    94.39
+   ],
+   [
+    "rich",
+    94.71
+   ],
+   [
+    "people",
+    94.96
+   ],
+   [
+    "sipped",
+    95.35
+   ],
+   [
+    "it",
+    95.73
+   ],
+   [
+    "hot",
+    95.86
+   ]
+  ]
+ },
+ {
+  "s": 96.6,
+  "e": 98.49,
+  "text": "But for almost three hundred years,",
+  "words": [
+   [
+    "but",
+    96.6
+   ],
+   [
+    "for",
+    96.8
+   ],
+   [
+    "almost",
+    96.99
+   ],
+   [
+    "three",
+    97.38
+   ],
+   [
+    "hundred",
+    97.71
+   ],
+   [
+    "years",
+    98.17
+   ]
+  ]
+ },
+ {
+  "s": 98.79,
+  "e": 100.69,
+  "text": "chocolate was still only a drink.",
+  "words": [
+   [
+    "chocolate",
+    98.79
+   ],
+   [
+    "was",
+    99.43
+   ],
+   [
+    "still",
+    99.64
+   ],
+   [
+    "only",
+    99.99
+   ],
+   [
+    "a",
+    100.27
+   ],
+   [
+    "drink",
+    100.34
+   ]
+  ]
+ },
+ {
+  "s": 101.24,
+  "e": 102.1,
+  "text": "Here's why.",
+  "words": [
+   [
+    "heres",
+    101.24
+   ],
+   [
+    "why",
+    101.78
+   ]
+  ]
+ },
+ {
+  "s": 102.65,
+  "e": 104.59,
+  "text": "A cocoa bean is about half fat,",
+  "words": [
+   [
+    "a",
+    102.65
+   ],
+   [
+    "cocoa",
+    102.73
+   ],
+   [
+    "bean",
+    103.14
+   ],
+   [
+    "is",
+    103.46
+   ],
+   [
+    "about",
+    103.62
+   ],
+   [
+    "half",
+    104.03
+   ],
+   [
+    "fat",
+    104.35
+   ]
+  ]
+ },
+ {
+  "s": 104.89,
+  "e": 106.16,
+  "text": "called cocoa butter.",
+  "words": [
+   [
+    "called",
+    104.89
+   ],
+   [
+    "cocoa",
+    105.34
+   ],
+   [
+    "butter",
+    105.71
+   ]
+  ]
+ },
+ {
+  "s": 106.71,
+  "e": 109.6,
+  "text": "Grind the beans, and you get a thick, greasy paste.",
+  "words": [
+   [
+    "grind",
+    106.71
+   ],
+   [
+    "the",
+    107.08
+   ],
+   [
+    "beans",
+    107.3
+   ],
+   [
+    "and",
+    107.67
+   ],
+   [
+    "you",
+    107.89
+   ],
+   [
+    "get",
+    108.12
+   ],
+   [
+    "a",
+    108.34
+   ],
+   [
+    "thick",
+    108.41
+   ],
+   [
+    "greasy",
+    108.79
+   ],
+   [
+    "paste",
+    109.23
+   ]
+  ]
+ },
+ {
+  "s": 110.15,
+  "e": 111.53,
+  "text": "In eighteen twenty eight,",
+  "words": [
+   [
+    "in",
+    110.15
+   ],
+   [
+    "eighteen",
+    110.28
+   ],
+   [
+    "twenty",
+    110.81
+   ],
+   [
+    "eight",
+    111.2
+   ]
+  ]
+ },
+ {
+  "s": 111.83,
+  "e": 114.07,
+  "text": "a Dutch chemist named Coenraad van Houten",
+  "words": [
+   [
+    "a",
+    111.83
+   ],
+   [
+    "dutch",
+    111.89
+   ],
+   [
+    "chemist",
+    112.21
+   ],
+   [
+    "named",
+    112.66
+   ],
+   [
+    "coenraad",
+    112.98
+   ],
+   [
+    "van",
+    113.49
+   ],
+   [
+    "houten",
+    113.68
+   ]
+  ]
+ },
+ {
+  "s": 114.37,
+  "e": 117.15,
+  "text": "built a press that squeezed out most of that butter.",
+  "words": [
+   [
+    "built",
+    114.37
+   ],
+   [
+    "a",
+    114.7
+   ],
+   [
+    "press",
+    114.76
+   ],
+   [
+    "that",
+    115.1
+   ],
+   [
+    "squeezed",
+    115.36
+   ],
+   [
+    "out",
+    115.89
+   ],
+   [
+    "most",
+    116.09
+   ],
+   [
+    "of",
+    116.35
+   ],
+   [
+    "that",
+    116.49
+   ],
+   [
+    "butter",
+    116.75
+   ]
+  ]
+ },
+ {
+  "s": 117.7,
+  "e": 119.61,
+  "text": "What was left became a dry cake,",
+  "words": [
+   [
+    "what",
+    117.7
+   ],
+   [
+    "was",
+    118.01
+   ],
+   [
+    "left",
+    118.23
+   ],
+   [
+    "became",
+    118.54
+   ],
+   [
+    "a",
+    119.0
+   ],
+   [
+    "dry",
+    119.08
+   ],
+   [
+    "cake",
+    119.31
+   ]
+  ]
+ },
+ {
+  "s": 119.91,
+  "e": 122.03,
+  "text": "that could be crushed into cocoa powder.",
+  "words": [
+   [
+    "that",
+    119.91
+   ],
+   [
+    "could",
+    120.17
+   ],
+   [
+    "be",
+    120.49
+   ],
+   [
+    "crushed",
+    120.62
+   ],
+   [
+    "into",
+    121.07
+   ],
+   [
+    "cocoa",
+    121.33
+   ],
+   [
+    "powder",
+    121.65
+   ]
+  ]
+ },
+ {
+  "s": 122.58,
+  "e": 124.41,
+  "text": "Then in eighteen forty seven,",
+  "words": [
+   [
+    "then",
+    122.58
+   ],
+   [
+    "in",
+    122.89
+   ],
+   [
+    "eighteen",
+    123.04
+   ],
+   [
+    "forty",
+    123.65
+   ],
+   [
+    "seven",
+    124.03
+   ]
+  ]
+ },
+ {
+  "s": 124.71,
+  "e": 127.53,
+  "text": "an English company called Fry's flipped the idea.",
+  "words": [
+   [
+    "an",
+    124.71
+   ],
+   [
+    "english",
+    124.85
+   ],
+   [
+    "company",
+    125.35
+   ],
+   [
+    "called",
+    125.84
+   ],
+   [
+    "frys",
+    126.26
+   ],
+   [
+    "flipped",
+    126.54
+   ],
+   [
+    "the",
+    127.04
+   ],
+   [
+    "idea",
+    127.25
+   ]
+  ]
+ },
+ {
+  "s": 128.08,
+  "e": 129.83,
+  "text": "They mixed cocoa powder and sugar",
+  "words": [
+   [
+    "they",
+    128.08
+   ],
+   [
+    "mixed",
+    128.33
+   ],
+   [
+    "cocoa",
+    128.64
+   ],
+   [
+    "powder",
+    128.96
+   ],
+   [
+    "and",
+    129.33
+   ],
+   [
+    "sugar",
+    129.52
+   ]
+  ]
+ },
+ {
+  "s": 130.13,
+  "e": 132.17,
+  "text": "with extra melted cocoa butter,",
+  "words": [
+   [
+    "with",
+    130.13
+   ],
+   [
+    "extra",
+    130.45
+   ],
+   [
+    "melted",
+    130.84
+   ],
+   [
+    "cocoa",
+    131.31
+   ],
+   [
+    "butter",
+    131.7
+   ]
+  ]
+ },
+ {
+  "s": 132.47,
+  "e": 133.96,
+  "text": "and poured it into a mold.",
+  "words": [
+   [
+    "and",
+    132.47
+   ],
+   [
+    "poured",
+    132.69
+   ],
+   [
+    "it",
+    133.14
+   ],
+   [
+    "into",
+    133.29
+   ],
+   [
+    "a",
+    133.59
+   ],
+   [
+    "mold",
+    133.66
+   ]
+  ]
+ },
+ {
+  "s": 134.51,
+  "e": 135.45,
+  "text": "It set hard.",
+  "words": [
+   [
+    "it",
+    134.51
+   ],
+   [
+    "set",
+    134.72
+   ],
+   [
+    "hard",
+    135.03
+   ]
+  ]
+ },
+ {
+  "s": 136.0,
+  "e": 137.99,
+  "text": "The first modern chocolate bar.",
+  "words": [
+   [
+    "the",
+    136.0
+   ],
+   [
+    "first",
+    136.23
+   ],
+   [
+    "modern",
+    136.61
+   ],
+   [
+    "chocolate",
+    137.07
+   ],
+   [
+    "bar",
+    137.76
+   ]
+  ]
+ },
+ {
+  "s": 138.54,
+  "e": 140.54,
+  "text": "It was still gritty, and a bit bitter.",
+  "words": [
+   [
+    "it",
+    138.54
+   ],
+   [
+    "was",
+    138.68
+   ],
+   [
+    "still",
+    138.88
+   ],
+   [
+    "gritty",
+    139.23
+   ],
+   [
+    "and",
+    139.64
+   ],
+   [
+    "a",
+    139.85
+   ],
+   [
+    "bit",
+    139.92
+   ],
+   [
+    "bitter",
+    140.13
+   ]
+  ]
+ },
+ {
+  "s": 141.09,
+  "e": 142.74,
+  "text": "Two Swiss makers fixed that.",
+  "words": [
+   [
+    "two",
+    141.09
+   ],
+   [
+    "swiss",
+    141.31
+   ],
+   [
+    "makers",
+    141.66
+   ],
+   [
+    "fixed",
+    142.09
+   ],
+   [
+    "that",
+    142.45
+   ]
+  ]
+ },
+ {
+  "s": 143.29,
+  "e": 144.84,
+  "text": "In eighteen seventy five,",
+  "words": [
+   [
+    "in",
+    143.29
+   ],
+   [
+    "eighteen",
+    143.44
+   ],
+   [
+    "seventy",
+    144.03
+   ],
+   [
+    "five",
+    144.55
+   ]
+  ]
+ },
+ {
+  "s": 145.14,
+  "e": 146.8,
+  "text": "Daniel Peter added milk,",
+  "words": [
+   [
+    "daniel",
+    145.14
+   ],
+   [
+    "peter",
+    145.64
+   ],
+   [
+    "added",
+    146.05
+   ],
+   [
+    "milk",
+    146.47
+   ]
+  ]
+ },
+ {
+  "s": 147.1,
+  "e": 150.07,
+  "text": "using milk powder from his neighbor, Henri Nestl\u00e9.",
+  "words": [
+   [
+    "using",
+    147.1
+   ],
+   [
+    "milk",
+    147.46
+   ],
+   [
+    "powder",
+    147.75
+   ],
+   [
+    "from",
+    148.19
+   ],
+   [
+    "his",
+    148.48
+   ],
+   [
+    "neighbor",
+    148.69
+   ],
+   [
+    "henri",
+    149.27
+   ],
+   [
+    "nestl\u00e9",
+    149.64
+   ]
+  ]
+ },
+ {
+  "s": 150.62,
+  "e": 152.19,
+  "text": "Milk chocolate was born.",
+  "words": [
+   [
+    "milk",
+    150.62
+   ],
+   [
+    "chocolate",
+    150.94
+   ],
+   [
+    "was",
+    151.64
+   ],
+   [
+    "born",
+    151.88
+   ]
+  ]
+ },
+ {
+  "s": 152.74,
+  "e": 154.59,
+  "text": "Then in eighteen seventy nine,",
+  "words": [
+   [
+    "then",
+    152.74
+   ],
+   [
+    "in",
+    153.04
+   ],
+   [
+    "eighteen",
+    153.19
+   ],
+   [
+    "seventy",
+    153.78
+   ],
+   [
+    "nine",
+    154.3
+   ]
+  ]
+ },
+ {
+  "s": 154.89,
+  "e": 157.53,
+  "text": "Rodolphe Lindt built a machine called a conche.",
+  "words": [
+   [
+    "rodolphe",
+    154.89
+   ],
+   [
+    "lindt",
+    155.44
+   ],
+   [
+    "built",
+    155.77
+   ],
+   [
+    "a",
+    156.11
+   ],
+   [
+    "machine",
+    156.18
+   ],
+   [
+    "called",
+    156.65
+   ],
+   [
+    "a",
+    157.06
+   ],
+   [
+    "conche",
+    157.13
+   ]
+  ]
+ },
+ {
+  "s": 158.08,
+  "e": 161.04,
+  "text": "It rolls warm chocolate back and forth for hours,",
+  "words": [
+   [
+    "it",
+    158.08
+   ],
+   [
+    "rolls",
+    158.23
+   ],
+   [
+    "warm",
+    158.6
+   ],
+   [
+    "chocolate",
+    158.9
+   ],
+   [
+    "back",
+    159.56
+   ],
+   [
+    "and",
+    159.86
+   ],
+   [
+    "forth",
+    160.08
+   ],
+   [
+    "for",
+    160.45
+   ],
+   [
+    "hours",
+    160.67
+   ]
+  ]
+ },
+ {
+  "s": 161.34,
+  "e": 163.6,
+  "text": "grinding every bit smaller and smaller,",
+  "words": [
+   [
+    "grinding",
+    161.34
+   ],
+   [
+    "every",
+    161.89
+   ],
+   [
+    "bit",
+    162.23
+   ],
+   [
+    "smaller",
+    162.44
+   ],
+   [
+    "and",
+    162.91
+   ],
+   [
+    "smaller",
+    163.12
+   ]
+  ]
+ },
+ {
+  "s": 163.9,
+  "e": 165.61,
+  "text": "until it turns silky smooth.",
+  "words": [
+   [
+    "until",
+    163.9
+   ],
+   [
+    "it",
+    164.27
+   ],
+   [
+    "turns",
+    164.42
+   ],
+   [
+    "silky",
+    164.79
+   ],
+   [
+    "smooth",
+    165.16
+   ]
+  ]
+ },
+ {
+  "s": 166.16,
+  "e": 167.46,
+  "text": "So what happens today?",
+  "words": [
+   [
+    "so",
+    166.16
+   ],
+   [
+    "what",
+    166.3
+   ],
+   [
+    "happens",
+    166.59
+   ],
+   [
+    "today",
+    167.1
+   ]
+  ]
+ },
+ {
+  "s": 168.01,
+  "e": 169.58,
+  "text": "Farmers cut open the pods",
+  "words": [
+   [
+    "farmers",
+    168.01
+   ],
+   [
+    "cut",
+    168.53
+   ],
+   [
+    "open",
+    168.76
+   ],
+   [
+    "the",
+    169.06
+   ],
+   [
+    "pods",
+    169.28
+   ]
+  ]
+ },
+ {
+  "s": 169.88,
+  "e": 172.07,
+  "text": "and let the beans ferment for about a week.",
+  "words": [
+   [
+    "and",
+    169.88
+   ],
+   [
+    "let",
+    170.07
+   ],
+   [
+    "the",
+    170.27
+   ],
+   [
+    "beans",
+    170.46
+   ],
+   [
+    "ferment",
+    170.78
+   ],
+   [
+    "for",
+    171.23
+   ],
+   [
+    "about",
+    171.43
+   ],
+   [
+    "a",
+    171.75
+   ],
+   [
+    "week",
+    171.81
+   ]
+  ]
+ },
+ {
+  "s": 172.62,
+  "e": 175.25,
+  "text": "That's where most of the chocolate flavor comes from.",
+  "words": [
+   [
+    "thats",
+    172.62
+   ],
+   [
+    "where",
+    172.93
+   ],
+   [
+    "most",
+    173.23
+   ],
+   [
+    "of",
+    173.48
+   ],
+   [
+    "the",
+    173.6
+   ],
+   [
+    "chocolate",
+    173.78
+   ],
+   [
+    "flavor",
+    174.34
+   ],
+   [
+    "comes",
+    174.7
+   ],
+   [
+    "from",
+    175.01
+   ]
+  ]
+ },
+ {
+  "s": 175.8,
+  "e": 178.39,
+  "text": "Then the beans are dried, roasted, and cracked.",
+  "words": [
+   [
+    "then",
+    175.8
+   ],
+   [
+    "the",
+    176.08
+   ],
+   [
+    "beans",
+    176.29
+   ],
+   [
+    "are",
+    176.64
+   ],
+   [
+    "dried",
+    176.85
+   ],
+   [
+    "roasted",
+    177.2
+   ],
+   [
+    "and",
+    177.69
+   ],
+   [
+    "cracked",
+    177.9
+   ]
+  ]
+ },
+ {
+  "s": 178.94,
+  "e": 181.07,
+  "text": "It takes around four hundred beans",
+  "words": [
+   [
+    "it",
+    178.94
+   ],
+   [
+    "takes",
+    179.09
+   ],
+   [
+    "around",
+    179.46
+   ],
+   [
+    "four",
+    179.9
+   ],
+   [
+    "hundred",
+    180.19
+   ],
+   [
+    "beans",
+    180.71
+   ]
+  ]
+ },
+ {
+  "s": 181.37,
+  "e": 182.96,
+  "text": "to make one pound of chocolate.",
+  "words": [
+   [
+    "to",
+    181.37
+   ],
+   [
+    "make",
+    181.5
+   ],
+   [
+    "one",
+    181.75
+   ],
+   [
+    "pound",
+    181.94
+   ],
+   [
+    "of",
+    182.26
+   ],
+   [
+    "chocolate",
+    182.39
+   ]
+  ]
+ },
+ {
+  "s": 183.51,
+  "e": 185.21,
+  "text": "And the best trick is in the butter.",
+  "words": [
+   [
+    "and",
+    183.51
+   ],
+   [
+    "the",
+    183.69
+   ],
+   [
+    "best",
+    183.87
+   ],
+   [
+    "trick",
+    184.12
+   ],
+   [
+    "is",
+    184.42
+   ],
+   [
+    "in",
+    184.54
+   ],
+   [
+    "the",
+    184.66
+   ],
+   [
+    "butter",
+    184.84
+   ]
+  ]
+ },
+ {
+  "s": 185.76,
+  "e": 189.39,
+  "text": "Cocoa butter melts at about thirty four degrees Celsius,",
+  "words": [
+   [
+    "cocoa",
+    185.76
+   ],
+   [
+    "butter",
+    186.14
+   ],
+   [
+    "melts",
+    186.61
+   ],
+   [
+    "at",
+    186.99
+   ],
+   [
+    "about",
+    187.15
+   ],
+   [
+    "thirty",
+    187.53
+   ],
+   [
+    "four",
+    188.0
+   ],
+   [
+    "degrees",
+    188.3
+   ],
+   [
+    "celsius",
+    188.84
+   ]
+  ]
+ },
+ {
+  "s": 189.69,
+  "e": 192.04,
+  "text": "just below the heat inside your mouth.",
+  "words": [
+   [
+    "just",
+    189.69
+   ],
+   [
+    "below",
+    189.99
+   ],
+   [
+    "the",
+    190.37
+   ],
+   [
+    "heat",
+    190.6
+   ],
+   [
+    "inside",
+    190.9
+   ],
+   [
+    "your",
+    191.36
+   ],
+   [
+    "mouth",
+    191.66
+   ]
+  ]
+ },
+ {
+  "s": 192.59,
+  "e": 194.87,
+  "text": "That's why a bar stays solid in your hand,",
+  "words": [
+   [
+    "thats",
+    192.59
+   ],
+   [
+    "why",
+    192.95
+   ],
+   [
+    "a",
+    193.16
+   ],
+   [
+    "bar",
+    193.23
+   ],
+   [
+    "stays",
+    193.45
+   ],
+   [
+    "solid",
+    193.8
+   ],
+   [
+    "in",
+    194.16
+   ],
+   [
+    "your",
+    194.3
+   ],
+   [
+    "hand",
+    194.59
+   ]
+  ]
+ },
+ {
+  "s": 195.17,
+  "e": 196.49,
+  "text": "but melts on your tongue.",
+  "words": [
+   [
+    "but",
+    195.17
+   ],
+   [
+    "melts",
+    195.37
+   ],
+   [
+    "on",
+    195.7
+   ],
+   [
+    "your",
+    195.83
+   ],
+   [
+    "tongue",
+    196.09
+   ]
+  ]
+ },
+ {
+  "s": 197.04,
+  "e": 198.99,
+  "text": "From a bitter drink worth real money,",
+  "words": [
+   [
+    "from",
+    197.04
+   ],
+   [
+    "a",
+    197.3
+   ],
+   [
+    "bitter",
+    197.36
+   ],
+   [
+    "drink",
+    197.75
+   ],
+   [
+    "worth",
+    198.08
+   ],
+   [
+    "real",
+    198.4
+   ],
+   [
+    "money",
+    198.66
+   ]
+  ]
+ },
+ {
+  "s": 199.29,
+  "e": 200.93,
+  "text": "to the bar in your lunchbox.",
+  "words": [
+   [
+    "to",
+    199.29
+   ],
+   [
+    "the",
+    199.44
+   ],
+   [
+    "bar",
+    199.66
+   ],
+   [
+    "in",
+    199.88
+   ],
+   [
+    "your",
+    200.03
+   ],
+   [
+    "lunchbox",
+    200.33
+   ]
+  ]
+ },
+ {
+  "s": 201.48,
+  "e": 203.94,
+  "text": "So, would you rather have the drink, or the bar?",
+  "words": [
+   [
+    "so",
+    201.48
+   ],
+   [
+    "would",
+    201.61
+   ],
+   [
+    "you",
+    201.96
+   ],
+   [
+    "rather",
+    202.16
+   ],
+   [
+    "have",
+    202.57
+   ],
+   [
+    "the",
+    202.85
+   ],
+   [
+    "drink",
+    203.05
+   ],
+   [
+    "or",
+    203.39
+   ],
+   [
+    "the",
+    203.53
+   ],
+   [
+    "bar",
+    203.73
+   ]
+  ]
+ },
+ {
+  "s": 204.49,
+  "e": 208.03,
+  "text": "Next time, how do tiny ants build an underground city",
+  "words": [
+   [
+    "next",
+    204.49
+   ],
+   [
+    "time",
+    204.82
+   ],
+   [
+    "how",
+    205.15
+   ],
+   [
+    "do",
+    205.4
+   ],
+   [
+    "tiny",
+    205.56
+   ],
+   [
+    "ants",
+    205.89
+   ],
+   [
+    "build",
+    206.22
+   ],
+   [
+    "an",
+    206.63
+   ],
+   [
+    "underground",
+    206.8
+   ],
+   [
+    "city",
+    207.7
+   ]
+  ]
+ },
+ {
+  "s": 208.33,
+  "e": 209.92,
+  "text": "for millions of workers?",
+  "words": [
+   [
+    "for",
+    208.33
+   ],
+   [
+    "millions",
+    208.57
+   ],
+   [
+    "of",
+    209.21
+   ],
+   [
+    "workers",
+    209.36
+   ]
+  ]
+ }
+]
