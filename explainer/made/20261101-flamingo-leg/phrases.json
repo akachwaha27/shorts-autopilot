@@ -1,0 +1,723 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.67,
+  "text": "A dead flamingo can stand on one leg.",
+  "words": [
+   [
+    "a",
+    0.25
+   ],
+   [
+    "dead",
+    0.33
+   ],
+   [
+    "flamingo",
+    0.67
+   ],
+   [
+    "can",
+    1.33
+   ],
+   [
+    "stand",
+    1.59
+   ],
+   [
+    "on",
+    2.0
+   ],
+   [
+    "one",
+    2.17
+   ],
+   [
+    "leg",
+    2.42
+   ]
+  ]
+ },
+ {
+  "s": 3.22,
+  "e": 4.21,
+  "text": "Why can't you?",
+  "words": [
+   [
+    "why",
+    3.22
+   ],
+   [
+    "cant",
+    3.52
+   ],
+   [
+    "you",
+    3.91
+   ]
+  ]
+ },
+ {
+  "s": 4.76,
+  "e": 8.61,
+  "text": "In 2017, scientists in Atlanta tested it.",
+  "words": [
+   [
+    "in",
+    4.76
+   ],
+   [
+    "2017",
+    4.99
+   ],
+   [
+    "scientists",
+    5.46
+   ],
+   [
+    "in",
+    6.62
+   ],
+   [
+    "atlanta",
+    6.86
+   ],
+   [
+    "tested",
+    7.67
+   ],
+   [
+    "it",
+    8.37
+   ]
+  ]
+ },
+ {
+  "s": 9.16,
+  "e": 11.04,
+  "text": "They propped up a flamingo body,",
+  "words": [
+   [
+    "they",
+    9.16
+   ],
+   [
+    "propped",
+    9.44
+   ],
+   [
+    "up",
+    9.95
+   ],
+   [
+    "a",
+    10.1
+   ],
+   [
+    "flamingo",
+    10.17
+   ],
+   [
+    "body",
+    10.75
+   ]
+  ]
+ },
+ {
+  "s": 11.34,
+  "e": 12.9,
+  "text": "and it balanced on one leg,",
+  "words": [
+   [
+    "and",
+    11.34
+   ],
+   [
+    "it",
+    11.56
+   ],
+   [
+    "balanced",
+    11.71
+   ],
+   [
+    "on",
+    12.31
+   ],
+   [
+    "one",
+    12.46
+   ],
+   [
+    "leg",
+    12.68
+   ]
+  ]
+ },
+ {
+  "s": 13.2,
+  "e": 15.08,
+  "text": "with no muscles working at all.",
+  "words": [
+   [
+    "with",
+    13.2
+   ],
+   [
+    "no",
+    13.5
+   ],
+   [
+    "muscles",
+    13.65
+   ],
+   [
+    "working",
+    14.18
+   ],
+   [
+    "at",
+    14.71
+   ],
+   [
+    "all",
+    14.86
+   ]
+  ]
+ },
+ {
+  "s": 15.63,
+  "e": 16.62,
+  "text": "Here's the trick.",
+  "words": [
+   [
+    "heres",
+    15.63
+   ],
+   [
+    "the",
+    16.01
+   ],
+   [
+    "trick",
+    16.24
+   ]
+  ]
+ },
+ {
+  "s": 17.17,
+  "e": 18.94,
+  "text": "That bendy joint isn't a knee.",
+  "words": [
+   [
+    "that",
+    17.17
+   ],
+   [
+    "bendy",
+    17.48
+   ],
+   [
+    "joint",
+    17.86
+   ],
+   [
+    "isnt",
+    18.25
+   ],
+   [
+    "a",
+    18.55
+   ],
+   [
+    "knee",
+    18.63
+   ]
+  ]
+ },
+ {
+  "s": 19.49,
+  "e": 20.43,
+  "text": "It's the ankle.",
+  "words": [
+   [
+    "its",
+    19.49
+   ],
+   [
+    "the",
+    19.75
+   ],
+   [
+    "ankle",
+    20.0
+   ]
+  ]
+ },
+ {
+  "s": 20.98,
+  "e": 23.27,
+  "text": "The real knee is hidden up in the feathers.",
+  "words": [
+   [
+    "the",
+    20.98
+   ],
+   [
+    "real",
+    21.18
+   ],
+   [
+    "knee",
+    21.45
+   ],
+   [
+    "is",
+    21.72
+   ],
+   [
+    "hidden",
+    21.85
+   ],
+   [
+    "up",
+    22.26
+   ],
+   [
+    "in",
+    22.39
+   ],
+   [
+    "the",
+    22.53
+   ],
+   [
+    "feathers",
+    22.73
+   ]
+  ]
+ },
+ {
+  "s": 23.82,
+  "e": 25.71,
+  "text": "When a flamingo lifts one leg,",
+  "words": [
+   [
+    "when",
+    23.82
+   ],
+   [
+    "a",
+    24.13
+   ],
+   [
+    "flamingo",
+    24.21
+   ],
+   [
+    "lifts",
+    24.84
+   ],
+   [
+    "one",
+    25.24
+   ],
+   [
+    "leg",
+    25.47
+   ]
+  ]
+ },
+ {
+  "s": 26.01,
+  "e": 27.23,
+  "text": "it shifts its body,",
+  "words": [
+   [
+    "it",
+    26.01
+   ],
+   [
+    "shifts",
+    26.17
+   ],
+   [
+    "its",
+    26.66
+   ],
+   [
+    "body",
+    26.91
+   ]
+  ]
+ },
+ {
+  "s": 27.53,
+  "e": 29.47,
+  "text": "so its weight sits right over the foot.",
+  "words": [
+   [
+    "so",
+    27.53
+   ],
+   [
+    "its",
+    27.66
+   ],
+   [
+    "weight",
+    27.85
+   ],
+   [
+    "sits",
+    28.22
+   ],
+   [
+    "right",
+    28.47
+   ],
+   [
+    "over",
+    28.79
+   ],
+   [
+    "the",
+    29.04
+   ],
+   [
+    "foot",
+    29.22
+   ]
+  ]
+ },
+ {
+  "s": 30.02,
+  "e": 32.84,
+  "text": "That weight pushes the joints into a locked position,",
+  "words": [
+   [
+    "that",
+    30.02
+   ],
+   [
+    "weight",
+    30.28
+   ],
+   [
+    "pushes",
+    30.66
+   ],
+   [
+    "the",
+    31.05
+   ],
+   [
+    "joints",
+    31.24
+   ],
+   [
+    "into",
+    31.62
+   ],
+   [
+    "a",
+    31.88
+   ],
+   [
+    "locked",
+    31.94
+   ],
+   [
+    "position",
+    32.33
+   ]
+  ]
+ },
+ {
+  "s": 33.14,
+  "e": 35.09,
+  "text": "like a folding chair clicking open.",
+  "words": [
+   [
+    "like",
+    33.14
+   ],
+   [
+    "a",
+    33.41
+   ],
+   [
+    "folding",
+    33.48
+   ],
+   [
+    "chair",
+    33.95
+   ],
+   [
+    "clicking",
+    34.28
+   ],
+   [
+    "open",
+    34.82
+   ]
+  ]
+ },
+ {
+  "s": 35.64,
+  "e": 37.83,
+  "text": "No muscles needed, just gravity.",
+  "words": [
+   [
+    "no",
+    35.64
+   ],
+   [
+    "muscles",
+    35.81
+   ],
+   [
+    "needed",
+    36.4
+   ],
+   [
+    "just",
+    36.9
+   ],
+   [
+    "gravity",
+    37.24
+   ]
+  ]
+ },
+ {
+  "s": 38.38,
+  "e": 40.46,
+  "text": "Live flamingos even sway less",
+  "words": [
+   [
+    "live",
+    38.38
+   ],
+   [
+    "flamingos",
+    38.71
+   ],
+   [
+    "even",
+    39.46
+   ],
+   [
+    "sway",
+    39.8
+   ],
+   [
+    "less",
+    40.13
+   ]
+  ]
+ },
+ {
+  "s": 40.76,
+  "e": 42.14,
+  "text": "when they're fast asleep.",
+  "words": [
+   [
+    "when",
+    40.76
+   ],
+   [
+    "theyre",
+    41.04
+   ],
+   [
+    "fast",
+    41.45
+   ],
+   [
+    "asleep",
+    41.72
+   ]
+  ]
+ },
+ {
+  "s": 42.69,
+  "e": 43.79,
+  "text": "But on two legs,",
+  "words": [
+   [
+    "but",
+    42.69
+   ],
+   [
+    "on",
+    42.96
+   ],
+   [
+    "two",
+    43.14
+   ],
+   [
+    "legs",
+    43.42
+   ]
+  ]
+ },
+ {
+  "s": 44.09,
+  "e": 45.7,
+  "text": "the dead bird couldn't stay up.",
+  "words": [
+   [
+    "the",
+    44.09
+   ],
+   [
+    "dead",
+    44.29
+   ],
+   [
+    "bird",
+    44.56
+   ],
+   [
+    "couldnt",
+    44.83
+   ],
+   [
+    "stay",
+    45.3
+   ],
+   [
+    "up",
+    45.57
+   ]
+  ]
+ },
+ {
+  "s": 46.25,
+  "e": 49.8,
+  "text": "For a flamingo, one leg is the lazy way to stand.",
+  "words": [
+   [
+    "for",
+    46.25
+   ],
+   [
+    "a",
+    46.54
+   ],
+   [
+    "flamingo",
+    46.64
+   ],
+   [
+    "one",
+    47.4
+   ],
+   [
+    "leg",
+    47.69
+   ],
+   [
+    "is",
+    47.98
+   ],
+   [
+    "the",
+    48.17
+   ],
+   [
+    "lazy",
+    48.46
+   ],
+   [
+    "way",
+    48.84
+   ],
+   [
+    "to",
+    49.13
+   ],
+   [
+    "stand",
+    49.32
+   ]
+  ]
+ },
+ {
+  "s": 50.35,
+  "e": 52.08,
+  "text": "For you, it's a muscle workout.",
+  "words": [
+   [
+    "for",
+    50.35
+   ],
+   [
+    "you",
+    50.57
+   ],
+   [
+    "its",
+    50.8
+   ],
+   [
+    "a",
+    51.03
+   ],
+   [
+    "muscle",
+    51.1
+   ],
+   [
+    "workout",
+    51.55
+   ]
+  ]
+ },
+ {
+  "s": 52.63,
+  "e": 54.77,
+  "text": "So how long can you stand on one leg?",
+  "words": [
+   [
+    "so",
+    52.63
+   ],
+   [
+    "how",
+    52.78
+   ],
+   [
+    "long",
+    53.01
+   ],
+   [
+    "can",
+    53.32
+   ],
+   [
+    "you",
+    53.55
+   ],
+   [
+    "stand",
+    53.78
+   ],
+   [
+    "on",
+    54.16
+   ],
+   [
+    "one",
+    54.31
+   ],
+   [
+    "leg",
+    54.54
+   ]
+  ]
+ }
+]
