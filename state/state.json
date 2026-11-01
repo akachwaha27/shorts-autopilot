@@ -378,1119 +378,6 @@
     }
   },
   "videos": {
-    "2026-10-25-3": {
-      "topic": {
-        "title": "Top 5 Animals With the Biggest Eyes \ud83d\udc41\ufe0f",
-        "angle": "Superlative titles keep breaking out today (The best part of The Rookie at 7.4x its channel median uses The Superlative), and a countdown that flips the obvious answer (not the whale) is the kind of last-beat payoff that drives rewatches.",
-        "format": "ranking",
-        "tone": "normal",
-        "virality_score": 7,
-        "trend_source": "The best part of The Rookie (7.4x, The Superlative)",
-        "plan_id": "P2026-10-25-03"
-      },
-      "status": "published",
-      "by": "auto",
-      "updated": "2026-10-31T08:51:40.804702+00:00",
-      "redos": 0,
-      "package": {
-        "primary_keyword": "animals with biggest eyes",
-        "title": "Top 5 Animals With the Biggest Eyes \ud83d\udc41\ufe0f",
-        "hook_text": "PLATE-SIZED PEEPERS",
-        "thumbnail_text": "DINNER-PLATE SIZE",
-        "description": "Which animal has the biggest eyes? These are the top 5 animals with the biggest eyes on Earth, from the ostrich to the colossal squid, whose eye is wider than a blue whale's.\n\nIn this Short: the top 5 biggest eyes in the animal kingdom, counted down with their real sizes.\n\nSources:\nhttps://www.ifaw.org/international/journal/animals-biggest-eyes-world\nhttps://birda.org/what-animal-has-the-largest-eyes/",
-        "hashtags": [
-          "#shorts",
-          "#animalfacts",
-          "#ocean",
-          "#top5"
-        ],
-        "tags": [
-          "animals with biggest eyes",
-          "which animal has the biggest eyes",
-          "which animal has the biggest eyes in the world",
-          "biggest eyes",
-          "which animal has the largest eyes",
-          "which land animal has the largest eyes",
-          "blue whale eye size",
-          "top 5 animals",
-          "blue whale eyes",
-          "colossal squid eye",
-          "giant squid eye size",
-          "biggest eyes in the world",
-          "largest eye in the animal kingdom",
-          "giant squid eye",
-          "animals with big eyes",
-          "colossal squid eyeball",
-          "bigeye thresher shark",
-          "ostrich eye",
-          "animal facts"
-        ],
-        "pinned_comment": "Bonus: the tarsier's eyes are each about as big as its brain. Which animal did you think had the biggest eyes?",
-        "scenes": [
-          {
-            "text": "You'd guess a whale has the biggest eye on Earth, but why is number one more than twice as big? Let's count down the five biggest eyes in the animal kingdom.",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "blue whale swimming underwater",
-              "large animal eye blinking close up"
-            ],
-            "image_prompt": "Cinematic underwater shot of a colossal blue whale gliding through deep oceanic water, majestic lighting, 8k documentary style.",
-            "stock_query": "blue whale swimming underwater"
-          },
-          {
-            "text": "Number five, the ostrich. Its eyes are about five centimeters across, the biggest of any land animal.",
-            "badge": "#5",
-            "label": "Ostrich",
-            "stock_queries": [
-              "ostrich head eye close up",
-              "ostrich in savanna"
-            ],
-            "image_prompt": "Extreme close-up macro portrait of an ostrich head showing its massive glossy eye with long eyelashes, bright African savanna background.",
-            "stock_query": "ostrich head eye close up"
-          },
-          {
-            "text": "Number four, the swordfish, with eyes of about nine to ten centimeters.",
-            "badge": "#4",
-            "label": "Swordfish",
-            "stock_queries": [
-              "swordfish swimming open ocean",
-              "marlin underwater open water"
-            ],
-            "image_prompt": "A large swordfish swimming gracefully in deep blue pelagic waters, sun rays piercing through the water surface, detailed bill and huge eye.",
-            "stock_query": "swordfish swimming open ocean"
-          },
-          {
-            "text": "Number three, the bigeye thresher shark. About ten centimeters, the biggest eyes of any living fish.",
-            "badge": "#3",
-            "label": "Bigeye Thresher Shark",
-            "stock_queries": [
-              "thresher shark swimming deep ocean",
-              "shark eye close up underwater"
-            ],
-            "image_prompt": "Underwater shot of a bigeye thresher shark highlighting its enormous dark eye and long whip-like tail, deep blue ocean lighting.",
-            "stock_query": "thresher shark swimming deep ocean"
-          },
-          {
-            "text": "Number two, the blue whale. Its eye is about eleven centimeters, roughly a grapefruit. For the largest animal alive, that's actually pretty small.",
-            "badge": "#2",
-            "label": "Blue Whale",
-            "stock_queries": [
-              "blue whale eye close up underwater",
-              "blue whale diver scale comparison"
-            ],
-            "image_prompt": "Underwater close-up of a blue whale's eye on its massive textured head, sunbeams refracting through clear ocean water.",
-            "stock_query": "blue whale eye close up underwater"
-          },
-          {
-            "text": "Number one, the colossal squid. Each eye is about twenty-seven centimeters across, as wide as a dinner plate. So the eye that beats a whale's by more than double belongs to a squid.",
-            "badge": "#1",
-            "label": "Colossal Squid",
-            "stock_queries": [
-              "deep sea colossal squid",
-              "giant squid underwater dark"
-            ],
-            "image_prompt": "Eerie deep abyss shot of a colossal squid with a massive glowing dinner-plate-sized eye, bioluminescent particles in pitch-black deep sea.",
-            "stock_query": "deep sea colossal squid"
-          },
-          {
-            "text": "Which animal did you think would be number one? Most people say the whale, and honestly...",
-            "badge": "",
-            "label": "",
-            "stock_queries": [
-              "person looking at giant aquarium",
-              "blue whale swimming deep water"
-            ],
-            "image_prompt": "Silhouette of a person standing before a massive dark ocean aquarium viewing window, looking at deep-sea marine life, cinematic moody atmosphere.",
-            "stock_query": "person looking at giant aquarium"
-          }
-        ],
-        "key_facts": [
-          "The ostrich has the largest eye of any land animal, measuring about 5 cm across.",
-          "The swordfish has eyes measuring approximately 9 to 10 cm across.",
-          "The bigeye thresher shark has eyes measuring about 10 cm across, the largest of any living fish.",
-          "The blue whale's eye measures around 11 cm across, roughly the size of a grapefruit.",
-          "The colossal squid has the largest eyes of any animal on Earth, measuring about 27 cm across (dinner-plate sized), more than double the size of a blue whale's eye."
-        ],
-        "format": "ranking",
-        "tone": "normal",
-        "category": "27",
-        "script": "You'd guess a whale has the biggest eye on Earth, but why is number one more than twice as big? Let's count down the five biggest eyes in the animal kingdom. Number five, the ostrich. Its eyes are about five centimeters across, the biggest of any land animal. Number four, the swordfish, with eyes of about nine to ten centimeters. Number three, the bigeye thresher shark. About ten centimeters, the biggest eyes of any living fish. Number two, the blue whale. Its eye is about eleven centimeters, roughly a grapefruit. For the largest animal alive, that's actually pretty small. Number one, the colossal squid. Each eye is about twenty-seven centimeters across, as wide as a dinner plate. So the eye that beats a whale's by more than double belongs to a squid. Which animal did you think would be number one? Most people say the whale, and honestly...",
-        "plan_id": "P2026-10-25-03",
-        "shot_plan": [
-          {
-            "subject": "blue whale underwater",
-            "queries": [
-              {
-                "q": "blue whale ocean",
-                "must": [
-                  "whale"
-                ]
-              },
-              {
-                "q": "whale underwater",
-                "must": [
-                  "whale"
-                ]
-              },
-              {
-                "q": "ocean animal",
-                "must": [
-                  "ocean"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "ostrich head close up",
-            "queries": [
-              {
-                "q": "ostrich head eye",
-                "must": [
-                  "ostrich"
-                ]
-              },
-              {
-                "q": "ostrich bird",
-                "must": [
-                  "ostrich"
-                ]
-              },
-              {
-                "q": "bird eye",
-                "must": [
-                  "bird"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "swordfish swimming",
-            "queries": [
-              {
-                "q": "swordfish underwater",
-                "must": [
-                  "swordfish"
-                ]
-              },
-              {
-                "q": "marlin fish",
-                "must": [
-                  "fish"
-                ]
-              },
-              {
-                "q": "ocean fish",
-                "must": [
-                  "fish"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "thresher shark swimming",
-            "queries": [
-              {
-                "q": "thresher shark ocean",
-                "must": [
-                  "shark"
-                ]
-              },
-              {
-                "q": "bigeye thresher",
-                "must": [
-                  "shark"
-                ]
-              },
-              {
-                "q": "shark underwater",
-                "must": [
-                  "shark"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "blue whale surface",
-            "queries": [
-              {
-                "q": "blue whale breaching",
-                "must": [
-                  "whale"
-                ]
-              },
-              {
-                "q": "whale surface",
-                "must": [
-                  "whale"
-                ]
-              },
-              {
-                "q": "giant whale",
-                "must": [
-                  "whale"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "colossal squid underwater",
-            "queries": [
-              {
-                "q": "giant squid ocean",
-                "must": [
-                  "squid"
-                ]
-              },
-              {
-                "q": "colossal squid",
-                "must": [
-                  "squid"
-                ]
-              },
-              {
-                "q": "deep sea squid",
-                "must": [
-                  "squid"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "blue whale tail",
-            "queries": [
-              {
-                "q": "whale tail fluke",
-                "must": [
-                  "whale"
-                ]
-              },
-              {
-                "q": "whale diving",
-                "must": [
-                  "whale"
-                ]
-              },
-              {
-                "q": "ocean wildlife",
-                "must": [
-                  "ocean"
-                ]
-              }
-            ]
-          }
-        ],
-        "broll": [
-          "animal eye close up",
-          "wildlife macro",
-          "nature documentary"
-        ],
-        "visual_style": "Cinematic close-up macro footage of animal eyes in nature with vibrant natural colors and clear subject labels",
-        "visual_refs": [
-          "Top 5 Animals With The Biggest Eyes  #facts #animals #wildlife #cute #top5",
-          "Animals With The Biggest Eyes \ud83d\ude32 | Crazy Facts | Amazing Facts | Cute Animal Facts",
-          "Top 5 Animals With Biggest Eyes \ud83d\ude31\ud83d\udc40 #shorts #animals",
-          "Top 5 Animals With The Sharpest Eyes In The World \ud83c\udf0d\ud83d\udc41\ufe0f #animals #top #trending",
-          "Top 5 Animals With the Strangest Eyes! \ud83d\udc40\ud83d\ude33 #Shorts #usa #ranking #viral #animalworld",
-          "#1 is absolutely crazy \ud83e\udd2f Top 5 Animals With the Biggest Eyes \ud83d\udc40 #cuteanimals #aww #youtubeshorts"
-        ],
-        "voice": "en-US-AvaMultilingualNeural",
-        "visual_report": {
-          "shots": 9,
-          "checked": 9,
-          "unchecked": 0,
-          "filler": 1,
-          "ai": 0
-        }
-      },
-      "credits": [
-        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AvaMultilingualNeural).",
-        "Stock footage/photos (Pexels/Pixabay Content License): 12019 (Pixabay) https://pixabay.com/photos/humpback-whale-sea-ocean-water-79855/; NickyPe (Pixabay) https://pixabay.com/videos/id-44411/; u_z325vo1ro2 (Pixabay) https://pixabay.com/videos/id-366516/; oadtz (Pixabay) https://pixabay.com/videos/id-6681/; LisaOlivia (Pixabay) https://pixabay.com/videos/id-244188/; Osckar (Pixabay) https://pixabay.com/videos/id-117702/",
-        "National Marine Sanctuaries / Wikimedia Commons (CC BY 2.0) https://commons.wikimedia.org/wiki/File:HIHWNMS_Humpback_Whale_Underwater_(49530678743).jpg",
-        "New Zealand-American Submarine Ring of Fire 2005 Exploration / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:Deep_sea_squid.jpg"
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-25",
-        "name": "2026-10-25-3-v0.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-25",
-        "name": "2026-10-25-3-v0-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,082 --> 00:00:01,902\nYou'd guess a whale has the biggest\n\n2\n00:00:01,902 --> 00:00:03,872\neye on Earth but why is number\n\n3\n00:00:03,872 --> 00:00:06,060\none more than twice as big Let's\n\n4\n00:00:06,060 --> 00:00:08,111\ncount down the five biggest eyes in\n\n5\n00:00:08,111 --> 00:00:11,916\nthe animal kingdom Number five the ostrich\n\n6\n00:00:11,916 --> 00:00:14,647\nIts eyes are about five centimeters across\n\n7\n00:00:14,647 --> 00:00:17,731\nthe biggest of any land animal Number\n\n8\n00:00:17,731 --> 00:00:20,965\nfour the swordfish with eyes of about\n\n9\n00:00:20,965 --> 00:00:24,565\nnine to ten centimeters Number three the\n\n10\n00:00:24,565 --> 00:00:28,192\nbigeye thresher shark About ten centimeters\n\n11\n00:00:28,192 --> 00:00:31,168\nthe biggest eyes of any living fish\n\n12\n00:00:31,168 --> 00:00:34,076\nNumber two the blue whale Its eye\n\n13\n00:00:34,076 --> 00:00:37,921\nis about eleven centimeters roughly a grapefruit\n\n14\n00:00:37,921 --> 00:00:40,489\nFor the largest animal alive that's actually\n\n15\n00:00:40,489 --> 00:00:44,484\npretty small Number one the colossal squid\n\n16\n00:00:44,484 --> 00:00:46,929\nEach eye is about twenty-seven centimeters\n\n17\n00:00:46,929 --> 00:00:50,054\nacross as wide as a dinner plate\n\n18\n00:00:50,054 --> 00:00:51,753\nSo the eye that beats a whale's\n\n19\n00:00:51,753 --> 00:00:53,546\nby more than double belongs to a\n\n20\n00:00:53,546 --> 00:00:55,938\nsquid Which animal did you think would\n\n21\n00:00:55,938 --> 00:00:58,179\nbe number one Most people say the\n\n22\n00:00:58,179 --> 00:01:00,278\nwhale and honestly\n",
-      "tg_msg": 803,
-      "opts_msg": 805,
-      "approved_by": "auto",
-      "quota_note": "2026-10-31",
-      "description_full": "Which animal has the biggest eyes? These are the top 5 animals with the biggest eyes on Earth, from the ostrich to the colossal squid, whose eye is wider than a blue whale's.\n\nIn this Short: the top 5 biggest eyes in the animal kingdom, counted down with their real sizes.\n\nSources:\nhttps://www.ifaw.org/international/journal/animals-biggest-eyes-world\nhttps://birda.org/what-animal-has-the-largest-eyes/\n\n#shorts #animalfacts #ocean #top5\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nVoiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-AvaMultilingualNeural).\nStock footage/photos (Pexels/Pixabay Content License): 12019 (Pixabay) https://pixabay.com/photos/humpback-whale-sea-ocean-water-79855/; NickyPe (Pixabay) https://pixabay.com/videos/id-44411/; u_z325vo1ro2 (Pixabay) https://pixabay.com/videos/id-366516/; oadtz (Pixabay) https://pixabay.com/videos/id-6681/; LisaOlivia (Pixabay) https://pixabay.com/videos/id-244188/; Osckar (Pixabay) https://pixabay.com/videos/id-117702/\nNational Marine Sanctuaries / Wikimedia Commons (CC BY 2.0) https://commons.wikimedia.org/wiki/File:HIHWNMS_Humpback_Whale_Underwater_(49530678743).jpg\nNew Zealand-American Submarine Ring of Fire 2005 Exploration / Wikimedia Commons (Public domain) https://commons.wikimedia.org/wiki/File:Deep_sea_squid.jpg\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/4wuB23ONPHo",
-          "private \u00b7 thumbnail \u2705 \u00b7 subtitles \u2705 \u00b7 comment \u26a0\ufe0f needs a verified channel (youtube.com/verify)"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-31T08:51:40.804712+00:00",
-      "slot": "2026-11-04T20:15:00+00:00"
-    },
-    "2026-10-25-4": {
-      "topic": {
-        "title": "The 5-Year Wait Behind Post-it Notes",
-        "angle": "Today's outliers reward a reveal you only get at the end (Wait For End at 10.6x its channel median), and an origin story whose answer arrives in the last beats, a bookmark that saved a failed glue, has that same twist structure.",
-        "format": "story",
-        "tone": "normal",
-        "virality_score": 7,
-        "trend_source": "Wait For End (10.6x); He Builds Art Just to Destroy It! (12.4x)",
-        "plan_id": "P2026-10-25-04"
-      },
-      "status": "approved",
-      "by": "auto",
-      "updated": "2026-10-25T23:02:06.724381+00:00",
-      "redos": 0,
-      "package": {
-        "primary_keyword": "post-it note history",
-        "title": "The 5-Year Wait Behind Post-it Notes",
-        "hook_text": "TOO WEAK TO WORK",
-        "thumbnail_text": "FAILED GLUE",
-        "description": "How were Post-it notes invented, and why are Post-it notes yellow? This Post-it note history starts with a failed glue in 1968 that waited five years for a use.\n\nIn this Short: the weak glue, the falling bookmark and the free samples that turned it into the sticky note.\n\nThis is a true story.\n\nSources:\nhttps://en.wikipedia.org/wiki/Post-it_note\nhttps://www.wrtv.com/news/national/inventor-of-post-it-notes-adhesive-dies-at-age-80",
-        "hashtags": [
-          "#shorts",
-          "#history",
-          "#inventions",
-          "#truestory",
-          "#storytime"
-        ],
-        "tags": [
-          "post-it note history",
-          "who invented sticky notes",
-          "how post it notes were invented",
-          "post-it notes",
-          "who invented post its",
-          "who invented post-it notes",
-          "why are post-it notes yellow",
-          "sticky notes",
-          "post it",
-          "history facts",
-          "spencer silver",
-          "invention stories",
-          "accidental inventions",
-          "3m"
-        ],
-        "pinned_comment": "Bonus: before the name Post-it, the test version in 1977 was called Press 'n Peel. Would you have bought a 'Press 'n Peel' note?",
-        "scenes": [
-          {
-            "text": "You've stuck a Post-it note, but why did its glue sit unused for five years before a singer saved it? Here's how a failed glue became the sticky note.",
-            "badge": "A GLUE N",
-            "label": "HOW IT BECAME A HIT",
-            "stock_queries": [
-              "hand placing sticky note on monitor",
-              "desk covered in sticky notes"
-            ],
-            "image_prompt": "Close up shot of a hand placing a bright yellow sticky note onto a sleek computer monitor, dramatic studio lighting.",
-            "stock_query": "hand placing sticky note on monitor"
-          },
-          {
-            "text": "In nineteen sixty-eight, 3M scientist Spencer Silver tried to make a super strong glue. Instead, he made one so weak it peeled off, and could stick again.",
-            "badge": "1968: TO",
-            "label": "STICKS AGAIN AND AGAIN",
-            "stock_queries": [
-              "vintage science laboratory glass beakers",
-              "peeling paper off surface"
-            ],
-            "image_prompt": "A retro 1960s science lab filled with glass beakers and test tubes, realistic historical aesthetic.",
-            "stock_query": "vintage science laboratory glass beakers"
-          },
-          {
-            "text": "For five years, nobody at the company knew what it was for.",
-            "badge": "5 YEARS,",
-            "label": "NO ONE KNEW",
-            "stock_queries": [
-              "office meeting confused people",
-              "old office desk with papers"
-            ],
-            "image_prompt": "A 1970s office conference room with businessmen looking puzzled around a table covered in paper documents.",
-            "stock_query": "office meeting confused people"
-          },
-          {
-            "text": "Then in nineteen seventy-four, a coworker's bookmarks kept falling out of his choir songbook.",
-            "badge": "1974: FA",
-            "label": "CHOIR SONGBOOK",
-            "stock_queries": [
-              "choir singing open songbook",
-              "paper bookmark slipping out of book"
-            ],
-            "image_prompt": "An open vintage sheet music book resting on a wooden piano with paper bookmarks slipping out between pages.",
-            "stock_query": "choir singing open songbook"
-          },
-          {
-            "text": "He tried the weak glue, and the bookmark stayed put, then peeled off clean.",
-            "badge": "IT STAYE",
-            "label": "PEELED OFF CLEAN",
-            "stock_queries": [
-              "sticky note in open book",
-              "hand peeling paper off book page"
-            ],
-            "image_prompt": "A hand gently peeling a yellow paper note off a vintage book page without damaging the paper.",
-            "stock_query": "sticky note in open book"
-          },
-          {
-            "text": "After a flop in nineteen seventy-seven, free samples in Boise, Idaho won people over.",
-            "badge": "FREE SAM",
-            "label": "BOISE IDAHO 1978",
-            "stock_queries": [
-              "city street 1970s office workers",
-              "person handing out samples street"
-            ],
-            "image_prompt": "A vintage late 1970s American city street with office workers walking by in sunlight.",
-            "stock_query": "city street 1970s office workers"
-          },
-          {
-            "text": "They went on sale across America in nineteen eighty, yellow because that was the scrap paper next door.",
-            "badge": "1980 + S",
-            "label": "SCRAP PAPER",
-            "stock_queries": [
-              "stack of yellow sticky notes",
-              "yellow paper pads on desk"
-            ],
-            "image_prompt": "A pristine stack of bright yellow sticky note pads on a clean office desk workspace.",
-            "stock_query": "stack of yellow sticky notes"
-          },
-          {
-            "text": "So the glue waited five years because it was a solution without a problem, until a bookmark. What's the weirdest place you've stuck a sticky note? And next time you peel one off, remember...",
-            "badge": "THE END",
-            "label": "SOLUTION MEET PROBLEM",
-            "stock_queries": [
-              "fridge covered in sticky notes",
-              "hand peeling yellow sticky note"
-            ],
-            "image_prompt": "A stainless steel refrigerator door covered in colorful sticky notes with handwritten notes in a warm modern kitchen.",
-            "stock_query": "fridge covered in sticky notes"
-          }
-        ],
-        "key_facts": [
-          "In 1968, 3M scientist Spencer Silver invented a low-tack, reusable adhesive while trying to create a super strong glue.",
-          "The adhesive remained unused at 3M for five years.",
-          "In 1974, coworker Art Fry used the adhesive to keep bookmarks from falling out of his choir songbook.",
-          "After initial commercial failure in 1977, free sample distributions in Boise, Idaho in 1978 won consumers over.",
-          "Post-it notes officially launched across the United States in 1980.",
-          "The iconic yellow color was selected purely by chance because the adjacent laboratory only had yellow scrap paper available."
-        ],
-        "format": "story",
-        "tone": "normal",
-        "category": "24",
-        "script": "You've stuck a Post-it note, but why did its glue sit unused for five years before a singer saved it? Here's how a failed glue became the sticky note. In nineteen sixty-eight, 3M scientist Spencer Silver tried to make a super strong glue. Instead, he made one so weak it peeled off, and could stick again. For five years, nobody at the company knew what it was for. Then in nineteen seventy-four, a coworker's bookmarks kept falling out of his choir songbook. He tried the weak glue, and the bookmark stayed put, then peeled off clean. After a flop in nineteen seventy-seven, free samples in Boise, Idaho won people over. They went on sale across America in nineteen eighty, yellow because that was the scrap paper next door. So the glue waited five years because it was a solution without a problem, until a bookmark. What's the weirdest place you've stuck a sticky note? And next time you peel one off, remember...",
-        "plan_id": "P2026-10-25-04",
-        "shot_plan": [
-          {
-            "subject": "sticky note on a wall",
-            "queries": [
-              {
-                "q": "sticky note wall",
-                "must": [
-                  "note"
-                ]
-              },
-              {
-                "q": "yellow notepad",
-                "must": [
-                  "paper"
-                ]
-              },
-              {
-                "q": "office wall",
-                "must": [
-                  "office"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "laboratory scientist working",
-            "queries": [
-              {
-                "q": "laboratory scientist",
-                "must": [
-                  "scientist"
-                ]
-              },
-              {
-                "q": "chemistry lab",
-                "must": [
-                  "laboratory"
-                ]
-              },
-              {
-                "q": "scientific test",
-                "must": [
-                  "science"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "empty office desk",
-            "queries": [
-              {
-                "q": "empty desk",
-                "must": [
-                  "desk"
-                ]
-              },
-              {
-                "q": "office interior",
-                "must": [
-                  "office"
-                ]
-              },
-              {
-                "q": "workplace",
-                "must": [
-                  "work"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "book with bookmarks",
-            "queries": [
-              {
-                "q": "book bookmark",
-                "must": [
-                  "book"
-                ]
-              },
-              {
-                "q": "reading book",
-                "must": [
-                  "reading"
-                ]
-              },
-              {
-                "q": "library book",
-                "must": [
-                  "library"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "peeling paper bookmark",
-            "queries": [
-              {
-                "q": "peeling paper",
-                "must": [
-                  "paper"
-                ]
-              },
-              {
-                "q": "removing sticker",
-                "must": [
-                  "sticker"
-                ]
-              },
-              {
-                "q": "paper sheet",
-                "must": [
-                  "sheet"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "store shelves with products",
-            "queries": [
-              {
-                "q": "store shelf",
-                "must": [
-                  "store"
-                ]
-              },
-              {
-                "q": "retail products",
-                "must": [
-                  "retail"
-                ]
-              },
-              {
-                "q": "supermarket aisle",
-                "must": [
-                  "supermarket"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "stack of yellow paper",
-            "queries": [
-              {
-                "q": "yellow paper stack",
-                "must": [
-                  "paper"
-                ]
-              },
-              {
-                "q": "notepad stack",
-                "must": [
-                  "notepad"
-                ]
-              },
-              {
-                "q": "scrap paper",
-                "must": [
-                  "scrap"
-                ]
-              }
-            ]
-          },
-          {
-            "subject": "peeling a sticky note",
-            "queries": [
-              {
-                "q": "peeling sticky note",
-                "must": [
-                  "note"
-                ]
-              },
-              {
-                "q": "removing notepad",
-                "must": [
-                  "notepad"
-                ]
-              },
-              {
-                "q": "ripping paper",
-                "must": [
-                  "paper"
-                ]
-              }
-            ]
-          }
-        ],
-        "broll": [
-          "sticky note",
-          "office desk",
-          "paper note"
-        ],
-        "visual_style": "clean macro close-ups and hands-on demonstrations of stationery and office supplies with bright neutral backgrounds",
-        "visual_refs": [
-          "Can I Fit My Body Through A Post-it Note?",
-          "\ud83d\ude0cBORED? Try Sticky Note Origami: The Never-Ending Flexagon\ud83d\udd04\ud83d\udcc4 #shorts #fidget #origami #fidgettoys",
-          "\u2728My notes\u2728 #shorts",
-          "If I could I would have made it all in one video but it\u2019s up already!!",
-          "TRYING WEIRD/VIRAL CANDY | KAYLAMALECC | #shorts",
-          "\u2018Where We Bout to Eat At?\u2019 Kid Antwain Fowler Dies at 6 #shorts"
-        ],
-        "voice": "en-US-EmmaMultilingualNeural",
-        "visual_report": {
-          "shots": 14,
-          "checked": 14,
-          "unchecked": 0,
-          "filler": 2,
-          "ai": 0
-        }
-      },
-      "credits": [
-        "Voiceover: AI-generated voice (Microsoft Edge neural TTS, en-US-EmmaMultilingualNeural).",
-        "Stock footage/photos (Pexels/Pixabay Content License): EqualStock (Pixabay) https://pixabay.com/videos/id-262464/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-376592/; doktorkleinmusic (Pixabay) https://pixabay.com/videos/id-377327/; klimkin (Pixabay) https://pixabay.com/videos/id-4952/; GSA_\u00c9picerie_Du_Monde (Pixabay) https://pixabay.com/videos/id-358890/; MilanWulf (Pixabay) https://pixabay.com/videos/id-20910/; ammcintosh1 (Pixabay) https://pixabay.com/photos/books-office-notepad-stacked-desk-659690/; analogicus (Pixabay) https://pixabay.com/photos/notes-memo-sticky-notes-notepad-3199392/",
-        "Phil Roeder from Des Moines, IA, USA / Wikimedia Commons (CC BY 2.0) https://commons.wikimedia.org/wiki/File:Sticky_Note_Therapy_(31135998640).jpg",
-        "Phil Roeder from Des Moines, IA, USA / Wikimedia Commons (CC BY 2.0) https://commons.wikimedia.org/wiki/File:Sticky_Note_Therapy_(31135998640)_(cropped).jpg",
-        "Phil Roeder from Des Moines, IA, USA / Wikimedia Commons (CC BY 2.0) https://commons.wikimedia.org/wiki/File:Sticky_Note_Therapy_(31135998640)_(cropped2).jpg",
-        "SmashingIt99 / Wikimedia Commons (CC0) https://commons.wikimedia.org/wiki/File:Empty_apartment_in_Berlin_with_white_desk,_chair_and_ladder_01.jpg"
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-25",
-        "name": "2026-10-25-4-v0.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-25",
-        "name": "2026-10-25-4-v0-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,093 --> 00:00:02,274\nYou've stuck a Post-it note but why\n\n2\n00:00:02,274 --> 00:00:04,096\ndid its glue sit unused for five\n\n3\n00:00:04,096 --> 00:00:06,742\nyears before a singer saved it Here's\n\n4\n00:00:06,742 --> 00:00:08,644\nhow a failed glue became the sticky\n\n5\n00:00:08,644 --> 00:00:12,793\nnote In nineteen sixty-eight 3M scientist Spencer\n\n6\n00:00:12,793 --> 00:00:14,734\nSilver tried to make a super strong\n\n7\n00:00:14,734 --> 00:00:17,247\nglue Instead he made one so weak\n\n8\n00:00:17,247 --> 00:00:19,840\nit peeled off and could stick again\n\n9\n00:00:19,840 --> 00:00:22,354\nFor five years nobody at the company\n\n10\n00:00:22,354 --> 00:00:24,295\nknew what it was for Then in\n\n11\n00:00:24,295 --> 00:00:27,367\nnineteen seventy-four a coworker's bookmarks\n\n12\n00:00:27,367 --> 00:00:30,000\nkept falling out of his choir songbook\n\n13\n00:00:30,000 --> 00:00:31,822\nHe tried the weak glue and the\n\n14\n00:00:31,822 --> 00:00:34,907\nbookmark stayed put then peeled off clean\n\n15\n00:00:34,907 --> 00:00:37,846\nAfter a flop in nineteen seventy-seven free\n\n16\n00:00:37,846 --> 00:00:41,463\nsamples in Boise, Idaho won people over They\n\n17\n00:00:41,463 --> 00:00:43,830\nwent on sale across America in nineteen\n\n18\n00:00:43,830 --> 00:00:46,144\neighty yellow because that was the scrap\n\n19\n00:00:46,144 --> 00:00:48,750\npaper next door So the glue waited\n\n20\n00:00:48,750 --> 00:00:50,851\nfive years because it was a solution\n\n21\n00:00:50,851 --> 00:00:53,910\nwithout a problem until a bookmark What's\n\n22\n00:00:53,910 --> 00:00:55,851\nthe weirdest place you've stuck a sticky\n\n23\n00:00:55,851 --> 00:00:58,112\nnote And next time you peel one\n\n24\n00:00:58,112 --> 00:00:59,443\noff remember\n",
-      "tg_msg": 806,
-      "opts_msg": 808,
-      "approved_by": "auto",
-      "quota_note": "2026-11-01"
-    },
-    "2026-10-26-101": {
-      "topic": {
-        "title": "How does a thermos keep coffee hot for 12 hours?",
-        "format": "animated",
-        "angle": "Napkin Sketch"
-      },
-      "package": {
-        "title": "Why Your Thermos Keeps Coffee Hot for 12 Hours \u2615",
-        "description": "How does a thermos (vacuum flask) keep coffee hot for hours? Heat escapes by conduction, convection and radiation, and a thermos blocks all three with a vacuum gap between two walls and shiny, mirror-like surfaces.\n\nSources:\nhttps://www.scienceabc.com/innovation/thermos-flask-keep-hot-things-hot-cold-things-cold.html\nhttps://www.lifeventure.com/blogs/news/vacuum-flasks-explained\nhttps://greatpatent.com/the-thermos-was-a-laboratory-instrument-nobody-patented\n\nAnimated in the Napkin Sketch style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#science",
-          "#howitworks",
-          "#thermos"
-        ],
-        "tags": [
-          "thermos",
-          "vacuum flask",
-          "how does a thermos work",
-          "dewar flask",
-          "james dewar",
-          "heat transfer",
-          "conduction convection radiation",
-          "vacuum insulation",
-          "physics explained",
-          "science shorts",
-          "how it works",
-          "coffee science",
-          "zorbly ai"
-        ],
-        "category": "27",
-        "pinned_comment": "What's the longest your coffee ever stayed hot in a thermos?",
-        "thumbnail_text": "NO AIR",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "How does a thermos keep coffee hot\nfor twelve whole hours?\nHeat escapes in three ways.\nIt can touch its way out,\nthat's conduction.\nIt can ride on moving air,\nthat's convection.\nOr it can glow away as invisible light,\ncalled radiation.\nA thermos blocks all three.\nIt's really two bottles,\none inside the other,\nand the gap between them is a vacuum.\nWith no air in there,\nheat has nothing to touch,\nand nothing to ride.\nThen the walls are shiny,\nlike a mirror,\nso the glow bounces back into your coffee.\nA scientist named James Dewar\ninvented it in 1892,\nto keep liquid gases ice cold.\nThe only real leak?\nThe lid.\nSo what's the longest your coffee ever stayed hot?",
-        "key_facts": [
-          "Heat moves by conduction, convection and radiation",
-          "A vacuum flask is two walls with a vacuum between them, which blocks conduction and convection",
-          "Silvered/shiny walls reflect infrared radiation back",
-          "Invented by Scottish scientist James Dewar in 1892 to store liquefied gases",
-          "Most remaining heat loss is through the stopper/lid",
-          "Good flasks keep drinks hot for around 12 hours"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Napkin Sketch"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261025-thermos",
-      "redos": 0,
-      "updated": "2026-10-26T11:14:19.255021+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Napkin Sketch style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-26",
-        "name": "2026-10-26-101.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-26",
-        "name": "2026-10-26-101-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:02,130\nHow does a thermos keep coffee hot\n\n2\n00:00:02,430 --> 00:00:03,840\nfor twelve whole hours?\n\n3\n00:00:04,390 --> 00:00:06,030\nHeat escapes in three ways.\n\n4\n00:00:06,580 --> 00:00:07,930\nIt can touch its way out,\n\n5\n00:00:08,230 --> 00:00:09,260\nthat's conduction.\n\n6\n00:00:09,810 --> 00:00:11,350\nIt can ride on moving air,\n\n7\n00:00:11,650 --> 00:00:12,700\nthat's convection.\n\n8\n00:00:13,250 --> 00:00:15,740\nOr it can glow away as invisible light,\n\n9\n00:00:16,040 --> 00:00:17,210\ncalled radiation.\n\n10\n00:00:17,760 --> 00:00:19,440\nA thermos blocks all three.\n\n11\n00:00:19,990 --> 00:00:21,420\nIt's really two bottles,\n\n12\n00:00:21,720 --> 00:00:23,030\none inside the other,\n\n13\n00:00:23,330 --> 00:00:25,590\nand the gap between them is a vacuum.\n\n14\n00:00:26,140 --> 00:00:27,360\nWith no air in there,\n\n15\n00:00:27,660 --> 00:00:29,190\nheat has nothing to touch,\n\n16\n00:00:29,490 --> 00:00:30,750\nand nothing to ride.\n\n17\n00:00:31,300 --> 00:00:32,640\nThen the walls are shiny,\n\n18\n00:00:32,940 --> 00:00:33,870\nlike a mirror,\n\n19\n00:00:34,170 --> 00:00:36,480\nso the glow bounces back into your coffee.\n\n20\n00:00:37,030 --> 00:00:38,860\nA scientist named James Dewar\n\n21\n00:00:39,160 --> 00:00:42,220\ninvented it in 1892,\n\n22\n00:00:42,520 --> 00:00:44,620\nto keep liquid gases ice cold.\n\n23\n00:00:45,170 --> 00:00:46,560\nThe only real leak?\n\n24\n00:00:47,110 --> 00:00:47,780\nThe lid.\n\n25\n00:00:48,330 --> 00:00:50,870\nSo what's the longest your coffee ever stayed hot?\n\n",
-      "tg_msg": 811,
-      "approved_by": "auto",
-      "quota_note": "2026-10-26",
-      "description_full": "How does a thermos (vacuum flask) keep coffee hot for hours? Heat escapes by conduction, convection and radiation, and a thermos blocks all three with a vacuum gap between two walls and shiny, mirror-like surfaces.\n\nSources:\nhttps://www.scienceabc.com/innovation/thermos-flask-keep-hot-things-hot-cold-things-cold.html\nhttps://www.lifeventure.com/blogs/news/vacuum-flasks-explained\nhttps://greatpatent.com/the-thermos-was-a-laboratory-instrument-nobody-patented\n\nAnimated in the Napkin Sketch style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #science #howitworks #thermos\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Napkin Sketch style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/AHlCHTrQwkU",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-26T11:14:19.255073+00:00",
-      "slot": "2026-10-27T01:15:00+00:00"
-    },
-    "2026-10-26-102": {
-      "topic": {
-        "title": "How does a plane toilet flush at 35,000 feet?",
-        "format": "animated",
-        "angle": "Synthwave Outrun"
-      },
-      "package": {
-        "title": "How a Plane Toilet Flushes at 35,000 Feet \u2708\ufe0f",
-        "description": "How does an airplane toilet flush? Plane toilets are vacuum toilets: a valve opens the bowl to the thin air outside, the higher cabin pressure shoves everything into a tank at the back, and below 16,000 feet an electric vacuum pump does the job instead.\n\nSources:\nhttps://satelliteindustries.com/blog/vacuum-toilet-system-in-aircraft\nhttps://thepointsguy.com/news/how-airplane-toilets-work/\nhttps://aerocorner.com/blog/how-airplane-toilets-work/\n\nAnimated in the Synthwave Outrun style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#science",
-          "#howitworks",
-          "#aviation"
-        ],
-        "tags": [
-          "airplane toilet",
-          "plane toilet",
-          "how does a plane toilet work",
-          "vacuum toilet",
-          "airplane vacuum toilet",
-          "cabin pressure",
-          "aviation facts",
-          "how it works",
-          "science shorts",
-          "physics explained",
-          "flying facts",
-          "air pressure",
-          "zorbly ai"
-        ],
-        "category": "27",
-        "pinned_comment": "Have you ever jumped when a plane toilet flushed? Be honest \ud83d\ude02",
-        "thumbnail_text": "WHOOSH",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "How does a plane toilet flush\nat thirty-five thousand feet?\nIt barely uses water.\nIt uses the sky.\nYour cabin is pressurized,\npacked with air like a balloon.\nOutside, the air is super thin.\nPress the button,\nand a valve opens a pipe\nfrom the bowl to that thin outside air.\nThe high pressure in the cabin\nshoves everything down the pipe.\nThat's the whoosh.\nIt all lands in a tank at the back of the plane.\nAbout three seconds later,\nthe valve slams shut.\nBut below sixteen thousand feet,\nthe outside air isn't thin enough,\nso an electric pump makes the vacuum instead.\nAnd no, nothing gets dumped in the sky.\nGround crews empty the tank after landing.\nSo, next flight,\nare you brave enough to press it?",
-        "key_facts": [
-          "Airplane toilets are vacuum toilets (patented by James Kemper in 1975, on Boeing jets by 1982)",
-          "At altitude a valve connects the bowl to low outside pressure; higher cabin pressure pushes waste through",
-          "Waste goes to a tank at the rear of the aircraft",
-          "Valves close after about 3-4 seconds",
-          "Below about 16,000 ft (and on the ground) an electric vacuum generator creates the suction",
-          "Waste is not dumped in flight; ground service trucks empty the tank after landing"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Synthwave Outrun"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261026-plane-toilet",
-      "redos": 0,
-      "updated": "2026-10-27T12:28:34.765241+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Synthwave Outrun style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-26",
-        "name": "2026-10-26-102.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-26",
-        "name": "2026-10-26-102-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:01,840\nHow does a plane toilet flush\n\n2\n00:00:02,140 --> 00:00:03,860\nat thirty-five thousand feet?\n\n3\n00:00:04,410 --> 00:00:05,840\nIt barely uses water.\n\n4\n00:00:06,390 --> 00:00:07,700\nIt uses the sky.\n\n5\n00:00:08,250 --> 00:00:09,920\nYour cabin is pressurized,\n\n6\n00:00:10,220 --> 00:00:11,800\npacked with air like a balloon.\n\n7\n00:00:12,350 --> 00:00:14,240\nOutside, the air is super thin.\n\n8\n00:00:14,790 --> 00:00:15,770\nPress the button,\n\n9\n00:00:16,070 --> 00:00:17,530\nand a valve opens a pipe\n\n10\n00:00:17,830 --> 00:00:19,910\nfrom the bowl to that thin outside air.\n\n11\n00:00:20,460 --> 00:00:22,090\nThe high pressure in the cabin\n\n12\n00:00:22,390 --> 00:00:24,190\nshoves everything down the pipe.\n\n13\n00:00:24,740 --> 00:00:25,680\nThat's the whoosh.\n\n14\n00:00:26,230 --> 00:00:28,710\nIt all lands in a tank at the back of the plane.\n\n15\n00:00:29,260 --> 00:00:30,860\nAbout three seconds later,\n\n16\n00:00:31,160 --> 00:00:32,400\nthe valve slams shut.\n\n17\n00:00:32,950 --> 00:00:34,840\nBut below sixteen thousand feet,\n\n18\n00:00:35,140 --> 00:00:36,970\nthe outside air isn't thin enough,\n\n19\n00:00:37,270 --> 00:00:39,960\nso an electric pump makes the vacuum instead.\n\n20\n00:00:40,510 --> 00:00:42,910\nAnd no, nothing gets dumped in the sky.\n\n21\n00:00:43,460 --> 00:00:46,020\nGround crews empty the tank after landing.\n\n22\n00:00:46,570 --> 00:00:47,570\nSo, next flight,\n\n23\n00:00:47,870 --> 00:00:49,420\nare you brave enough to press it?\n\n",
-      "tg_msg": 821,
-      "approved_by": "auto",
-      "quota_note": "2026-10-27",
-      "description_full": "How does an airplane toilet flush? Plane toilets are vacuum toilets: a valve opens the bowl to the thin air outside, the higher cabin pressure shoves everything into a tank at the back, and below 16,000 feet an electric vacuum pump does the job instead.\n\nSources:\nhttps://satelliteindustries.com/blog/vacuum-toilet-system-in-aircraft\nhttps://thepointsguy.com/news/how-airplane-toilets-work/\nhttps://aerocorner.com/blog/how-airplane-toilets-work/\n\nAnimated in the Synthwave Outrun style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #science #howitworks #aviation\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Synthwave Outrun style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/4QmeZfpBx58",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-27T12:28:34.765260+00:00",
-      "slot": "2026-10-28T16:15:00+00:00"
-    },
-    "2026-10-26-103": {
-      "topic": {
-        "title": "What happens to your food after you swallow it? (the digestive journey)",
-        "format": "long",
-        "angle": "Kawaii Anime"
-      },
-      "package": {
-        "title": "What Happens to Food in the 2 Days After You Swallow It",
-        "description": "What actually happens to your food after you swallow it? Follow one bite through the whole digestive system: chewing and saliva, the esophagus and peristalsis, stomach acid and chyme, the small intestine's villi, the large intestine and its trillions of gut bacteria.\n\nChapters:\n0:00 The digestion mystery\n0:41 The mouth\n1:22 The stomach\n2:01 The small intestine\n2:49 The large intestine\n3:12 The whole trip\n\nSources:\nhttps://www.mayoclinic.org/digestive-system/expert-answers/faq-20058340\nhttps://en.wikipedia.org/wiki/Small_intestine\nhttps://popsci.com/article/science/human-gut-has-surface-area-studio-apartment\n\nAnimated in the Kawaii Anime style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#science",
-          "#humanbody",
-          "#digestion"
-        ],
-        "tags": [
-          "digestion",
-          "digestive system",
-          "what happens to food after you eat",
-          "how digestion works",
-          "stomach acid",
-          "peristalsis",
-          "small intestine villi",
-          "large intestine",
-          "gut bacteria",
-          "chyme",
-          "epiglottis",
-          "Spallanzani",
-          "human body explained",
-          "science explained",
-          "kawaii animation"
-        ],
-        "category": "27",
-        "pinned_comment": "Which food do you think takes the longest trip through your body? \ud83c\udf59",
-        "thumbnail_text": "FOOD'S SECRET TRIP",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "What actually happens to your food,\nafter you swallow it?\nIt's one of the longest trips in your body.\nAnd for most of history,\nnobody really knew how it worked.\nMany ancient doctors thought the stomach\nsimply cooked your food, like a pot.\nThen, in the seventeen hundreds,\nscientists fed animals\nfood sealed inside little metal tubes.\nThe food couldn't be squished,\nbut it still dissolved.\nItalian scientist Lazzaro Spallanzani\neven tried it on himself,\nswallowing tiny linen bags of food.\nThe answer was a liquid.\nHe called it gastric juice.\nSo let's follow one bite,\nall the way through.\nStep one: your mouth.\nYour teeth crush the bite into mush,\nand saliva soaks it.\nSaliva holds an enzyme called amylase,\nthat starts turning starch into sugar,\nbefore you even swallow.\nThen your tongue pushes the food back,\nand a tiny flap, the epiglottis,\nfolds down over your windpipe,\nso nothing goes the wrong way.\nNow the food enters the esophagus,\na muscle tube about twenty-five centimeters long.\nIt doesn't just fall.\nRings of muscle squeeze behind it,\nlike toothpaste in a tube.\nThat's called peristalsis.\nThe trip takes about nine seconds,\nand it works even upside down.\nNext stop, the stomach.\nIt's a stretchy bag of muscle,\nfilled with hydrochloric acid.\nStomach acid can drop to around pH two,\nabout as sour as lemon juice.\nIt kills a lot of germs,\nand helps an enzyme called pepsin\nstart chopping up protein.\nAbout three times a minute,\nthe stomach walls squeeze and churn,\nmixing everything into a thick soup called chyme.\nThat can take two to four hours.\nSo why doesn't your stomach digest itself?\nIts lining makes a thick coat of mucus,\nplus bicarbonate to calm the acid.\nAnd the lining cells get replaced every few days.\nThen a little valve opens,\nand lets the chyme out, a squirt at a time,\ninto the small intestine.\nThis is where the real magic happens.\nIt's about five meters long,\ncoiled up inside your belly.\nYour liver sends in bile,\nwhich breaks fat into tiny droplets.\nYour pancreas adds more enzymes,\nand neutralizes the acid.\nThe walls are covered in millions of tiny fingers,\ncalled villi,\nand those are covered in even tinier microvilli.\nSpread flat, scientists estimate your gut lining\ncovers about thirty-two square meters.\nThat's half a badminton court!\nOld textbooks said a whole tennis court,\nbut half a court is still huge.\nRight here, most of the nutrients\nslip into your blood.\nWhat's left moves on to the large intestine.\nIt's wider, but only about one and a half meters long.\nIts main job is soaking up water.\nAnd it's home to trillions of bacteria.\nScientists estimate about thirty-eight trillion live in you,\nmostly right here.\nThey munch the fiber you can't digest,\nand make some vitamins in return.\nSo how long does the whole trip take?\nAbout six hours through the stomach and small intestine,\nand up to another two days in the large intestine.\nWhatever your body can't use,\nleaves at the end.\nBut the rest?\nThat bite became your energy,\nyour muscles,\neven the thoughts you're having right now.\nSo which food do you think\ntakes the longest trip?",
-        "key_facts": [
-          "Ancient physicians described digestion as 'concoction', a kind of cooking in the stomach; in the 1750s R\u00e9aumur fed a bird food in perforated metal tubes and the food still dissolved (Popular Science Monthly, 1909)",
-          "Lazzaro Spallanzani experimented on animals and himself in the 1770s-80s and named the stomach's solvent 'gastric juice' (whonamedit; Popular Science Monthly)",
-          "Saliva's amylase starts breaking starch into sugar; the epiglottis covers the windpipe during swallowing",
-          "The esophagus is about 25 cm; peristalsis carries food to the stomach in roughly 9 seconds and works upside down (Straight Dope / standard physiology)",
-          "Stomach acid is hydrochloric acid, around pH 1.5-3.5; mucus and bicarbonate from foveolar cells protect the lining (Wikipedia: Foveolar cell)",
-          "Small intestine about 3-5 m in living adults; bile emulsifies fat, pancreatic juice neutralises acid; villi and microvilli; most nutrient absorption happens here (Wikipedia: Small intestine)",
-          "Gut lining surface ~32 m2, about half a badminton court, not a tennis court (Helander & F\u00e4ndriks 2014, via PopSci)",
-          "About 6 hours through stomach and small intestine; up to 36-48 hours in the colon (Mayo Clinic)",
-          "About 38 trillion bacteria in the body, mostly in the colon (Sender, Fuchs & Milo 2016)"
-        ],
-        "voice": "Kokoro",
-        "format": "long",
-        "style": "Kawaii Anime"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261026-food-journey",
-      "redos": 0,
-      "updated": "2026-10-27T12:28:40.641620+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-26",
-        "name": "2026-10-26-103.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-26",
-        "name": "2026-10-26-103-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:02,040\nWhat actually happens to your food,\n\n2\n00:00:02,340 --> 00:00:03,480\nafter you swallow it?\n\n3\n00:00:04,030 --> 00:00:06,210\nIt's one of the longest trips in your body.\n\n4\n00:00:06,760 --> 00:00:08,180\nAnd for most of history,\n\n5\n00:00:08,480 --> 00:00:10,440\nnobody really knew how it worked.\n\n6\n00:00:10,990 --> 00:00:13,130\nMany ancient doctors thought the stomach\n\n7\n00:00:13,430 --> 00:00:15,390\nsimply cooked your food, like a pot.\n\n8\n00:00:15,940 --> 00:00:17,810\nThen, in the seventeen hundreds,\n\n9\n00:00:18,110 --> 00:00:19,650\nscientists fed animals\n\n10\n00:00:19,950 --> 00:00:22,300\nfood sealed inside little metal tubes.\n\n11\n00:00:22,850 --> 00:00:24,290\nThe food couldn't be squished,\n\n12\n00:00:24,590 --> 00:00:25,890\nbut it still dissolved.\n\n13\n00:00:26,440 --> 00:00:29,100\nItalian scientist Lazzaro Spallanzani\n\n14\n00:00:29,400 --> 00:00:31,010\neven tried it on himself,\n\n15\n00:00:31,310 --> 00:00:33,560\nswallowing tiny linen bags of food.\n\n16\n00:00:34,110 --> 00:00:35,620\nThe answer was a liquid.\n\n17\n00:00:36,170 --> 00:00:37,840\nHe called it gastric juice.\n\n18\n00:00:38,390 --> 00:00:39,880\nSo let's follow one bite,\n\n19\n00:00:40,180 --> 00:00:41,260\nall the way through.\n\n20\n00:00:41,810 --> 00:00:43,120\nStep one: your mouth.\n\n21\n00:00:43,670 --> 00:00:45,570\nYour teeth crush the bite into mush,\n\n22\n00:00:45,870 --> 00:00:47,120\nand saliva soaks it.\n\n23\n00:00:47,670 --> 00:00:50,190\nSaliva holds an enzyme called amylase,\n\n24\n00:00:50,490 --> 00:00:52,520\nthat starts turning starch into sugar,\n\n25\n00:00:52,820 --> 00:00:54,190\nbefore you even swallow.\n\n26\n00:00:54,740 --> 00:00:56,710\nThen your tongue pushes the food back,\n\n27\n00:00:57,010 --> 00:00:59,030\nand a tiny flap, the epiglottis,\n\n28\n00:00:59,330 --> 00:01:01,220\nfolds down over your windpipe,\n\n29\n00:01:01,520 --> 00:01:03,270\nso nothing goes the wrong way.\n\n30\n00:01:03,820 --> 00:01:05,930\nNow the food enters the esophagus,\n\n31\n00:01:06,230 --> 00:01:09,190\na muscle tube about twenty-five centimeters long.\n\n32\n00:01:09,740 --> 00:01:10,950\nIt doesn't just fall.\n\n33\n00:01:11,500 --> 00:01:13,480\nRings of muscle squeeze behind it,\n\n34\n00:01:13,780 --> 00:01:15,360\nlike toothpaste in a tube.\n\n35\n00:01:15,910 --> 00:01:17,420\nThat's called peristalsis.\n\n36\n00:01:17,970 --> 00:01:19,940\nThe trip takes about nine seconds,\n\n37\n00:01:20,240 --> 00:01:22,050\nand it works even upside down.\n\n38\n00:01:22,600 --> 00:01:23,920\nNext stop, the stomach.\n\n39\n00:01:24,470 --> 00:01:26,110\nIt's a stretchy bag of muscle,\n\n40\n00:01:26,410 --> 00:01:28,230\nfilled with hydrochloric acid.\n\n41\n00:01:28,780 --> 00:01:31,430\nStomach acid can drop to around pH two,\n\n42\n00:01:31,730 --> 00:01:33,620\nabout as sour as lemon juice.\n\n43\n00:01:34,170 --> 00:01:35,820\nIt kills a lot of germs,\n\n44\n00:01:36,120 --> 00:01:38,000\nand helps an enzyme called pepsin\n\n45\n00:01:38,300 --> 00:01:39,840\nstart chopping up protein.\n\n46\n00:01:40,390 --> 00:01:41,890\nAbout three times a minute,\n\n47\n00:01:42,190 --> 00:01:44,190\nthe stomach walls squeeze and churn,\n\n48\n00:01:44,490 --> 00:01:47,180\nmixing everything into a thick soup called chyme.\n\n49\n00:01:47,730 --> 00:01:49,620\nThat can take two to four hours.\n\n50\n00:01:50,170 --> 00:01:52,650\nSo why doesn't your stomach digest itself?\n\n51\n00:01:53,200 --> 00:01:55,460\nIts lining makes a thick coat of mucus,\n\n52\n00:01:55,760 --> 00:01:57,970\nplus bicarbonate to calm the acid.\n\n53\n00:01:58,520 --> 00:02:01,560\nAnd the lining cells get replaced every few days.\n\n54\n00:02:02,110 --> 00:02:03,710\nThen a little valve opens,\n\n55\n00:02:04,010 --> 00:02:06,500\nand lets the chyme out, a squirt at a time,\n\n56\n00:02:06,800 --> 00:02:08,320\ninto the small intestine.\n\n57\n00:02:08,870 --> 00:02:11,160\nThis is where the real magic happens.\n\n58\n00:02:11,710 --> 00:02:13,330\nIt's about five meters long,\n\n59\n00:02:13,630 --> 00:02:15,260\ncoiled up inside your belly.\n\n60\n00:02:15,810 --> 00:02:17,240\nYour liver sends in bile,\n\n61\n00:02:17,540 --> 00:02:19,800\nwhich breaks fat into tiny droplets.\n\n62\n00:02:20,350 --> 00:02:22,340\nYour pancreas adds more enzymes,\n\n63\n00:02:22,640 --> 00:02:24,340\nand neutralizes the acid.\n\n64\n00:02:24,890 --> 00:02:28,110\nThe walls are covered in millions of tiny fingers,\n\n65\n00:02:28,410 --> 00:02:29,320\ncalled villi,\n\n66\n00:02:29,620 --> 00:02:32,770\nand those are covered in even tinier microvilli.\n\n67\n00:02:33,320 --> 00:02:36,300\nSpread flat, scientists estimate your gut lining\n\n68\n00:02:36,600 --> 00:02:38,850\ncovers about thirty-two square meters.\n\n69\n00:02:39,400 --> 00:02:41,050\nThat's half a badminton court!\n\n70\n00:02:41,600 --> 00:02:43,690\nOld textbooks said a whole tennis court,\n\n71\n00:02:43,990 --> 00:02:45,760\nbut half a court is still huge.\n\n72\n00:02:46,310 --> 00:02:48,210\nRight here, most of the nutrients\n\n73\n00:02:48,510 --> 00:02:49,780\nslip into your blood.\n\n74\n00:02:50,330 --> 00:02:52,850\nWhat's left moves on to the large intestine.\n\n75\n00:02:53,400 --> 00:02:56,570\nIt's wider, but only about one and a half meters long.\n\n76\n00:02:57,120 --> 00:02:59,180\nIts main job is soaking up water.\n\n77\n00:02:59,730 --> 00:03:01,950\nAnd it's home to trillions of bacteria.\n\n78\n00:03:02,500 --> 00:03:05,700\nScientists estimate about thirty-eight trillion live in you,\n\n79\n00:03:06,000 --> 00:03:07,230\nmostly right here.\n\n80\n00:03:07,780 --> 00:03:09,880\nThey munch the fiber you can't digest,\n\n81\n00:03:10,180 --> 00:03:12,050\nand make some vitamins in return.\n\n82\n00:03:12,600 --> 00:03:14,620\nSo how long does the whole trip take?\n\n83\n00:03:15,170 --> 00:03:18,200\nAbout six hours through the stomach and small intestine,\n\n84\n00:03:18,500 --> 00:03:21,550\nand up to another two days in the large intestine.\n\n85\n00:03:22,100 --> 00:03:23,890\nWhatever your body can't use,\n\n86\n00:03:24,190 --> 00:03:25,250\nleaves at the end.\n\n87\n00:03:25,800 --> 00:03:26,660\nBut the rest?\n\n88\n00:03:27,210 --> 00:03:28,950\nThat bite became your energy,\n\n89\n00:03:29,250 --> 00:03:30,140\nyour muscles,\n\n90\n00:03:30,440 --> 00:03:32,510\neven the thoughts you're having right now.\n\n91\n00:03:33,060 --> 00:03:34,430\nSo which food do you think\n\n92\n00:03:34,730 --> 00:03:36,100\ntakes the longest trip?\n\n",
-      "tg_msg": 828,
-      "approved_by": "you",
-      "publish_now": false,
-      "quota_note": "2026-10-27",
-      "description_full": "What actually happens to your food after you swallow it? Follow one bite through the whole digestive system: chewing and saliva, the esophagus and peristalsis, stomach acid and chyme, the small intestine's villi, the large intestine and its trillions of gut bacteria.\n\nChapters:\n0:00 The digestion mystery\n0:41 The mouth\n1:22 The stomach\n2:01 The small intestine\n2:49 The large intestine\n3:12 The whole trip\n\nSources:\nhttps://www.mayoclinic.org/digestive-system/expert-answers/faq-20058340\nhttps://en.wikipedia.org/wiki/Small_intestine\nhttps://popsci.com/article/science/human-gut-has-surface-area-studio-apartment\n\nAnimated in the Kawaii Anime style.\n\nFollow Zorbly AI for a new Short every day.\n\n#science #humanbody #digestion\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review and approved by the channel owner.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/VS7jYaoVjsk",
-          "private \u00b7 thumbnail \u2705"
-        ]
-      },
-      "uploaded_at": "2026-10-27T12:28:40.641639+00:00",
-      "slot": "2026-10-28T19:15:00+00:00"
-    },
-    "2026-10-26-104": {
-      "topic": {
-        "title": "How did people in old Japan smell what time it was? (incense clocks)",
-        "format": "animated",
-        "angle": "Ukiyo-e Woodblock"
-      },
-      "package": {
-        "title": "The 1-Month Clock You Read With Your Nose",
-        "description": "How did people in old Japan and China tell time by smell? Incense clocks burned a trail of incense powder pressed into a maze in ash, and switching to a different incense at set marks meant the room's smell changed as time passed.\n\nSources:\nhttps://en.wikipedia.org/wiki/Incense_clock\nhttps://museum.seiko.co.jp/en/knowledge/ElementalTimepieces03/\nhttps://www.iflscience.com/in-medieval-china-and-japan-clever-devices-allowed-you-to-smell-what-time-it-is-83651\n\nAnimated in the Ukiyo-e Woodblock style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#history",
-          "#howitworks",
-          "#japan"
-        ],
-        "tags": [
-          "incense clock",
-          "japanese incense clock",
-          "how did people tell time",
-          "ancient clocks",
-          "history of timekeeping",
-          "old japan",
-          "edo japan",
-          "ukiyo-e",
-          "incense",
-          "how it works",
-          "history shorts",
-          "ancient technology",
-          "zorbly ai"
-        ],
-        "category": "27",
-        "pinned_comment": "If you had an incense clock, which smell would you want for the morning: pine, cedar or sandalwood?",
-        "thumbnail_text": "SMELL THE TIME",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "How did people in old Japan\nsmell what time it was?\nNo gears. No ticking.\nJust a box of ash.\nFirst, they smoothed white ash flat,\nand pressed a stamp into it.\nThat left a groove,\na maze that snakes back and forth.\nThey filled the groove with incense powder:\none long, thin trail.\nLight one end,\nand a tiny ember crawls through the maze,\nat a nearly steady speed.\nHere's the clever part.\nAt set marks along the trail,\nthey switched to a different incense.\nSo when the smell in the room changed,\nyou knew more time had passed.\nSome trails burned for twelve hours.\nSome lasted a whole month.\nA few even dropped a little ball\nonto a tray, like an alarm.\nSo, what time does your room smell like right now?",
-        "key_facts": [
-          "Seal-type incense clocks (Japanese ko-dokei) laid a continuous trail of incense powder in a pattern pressed into flattened ash with a stamp or stencil",
-          "The powder burned at a fairly steady rate, so elapsed time could be read from how far the ember had travelled",
-          "Markers or tablets of different incense placed along the trail changed the aroma when reached, so an attendant could tell the time by smell",
-          "Burn times ranged from about 12 hours to a month, depending on trail length",
-          "Some versions dropped balls into a tray when the incense burned through, as an audible signal",
-          "Incense clocks came to Japan from China and were used in Japan from the Nara period"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Ukiyo-e Woodblock"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261026-incense-clock",
-      "redos": 0,
-      "updated": "2026-10-27T12:28:44.481397+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Ukiyo-e Woodblock style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-26",
-        "name": "2026-10-26-104.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-26",
-        "name": "2026-10-26-104-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:02,110\nHow did people in old Japan\n\n2\n00:00:02,410 --> 00:00:03,790\nsmell what time it was?\n\n3\n00:00:04,340 --> 00:00:05,810\nNo gears. No ticking.\n\n4\n00:00:06,360 --> 00:00:07,740\nJust a box of ash.\n\n5\n00:00:08,290 --> 00:00:10,250\nFirst, they smoothed white ash flat,\n\n6\n00:00:10,550 --> 00:00:11,930\nand pressed a stamp into it.\n\n7\n00:00:12,480 --> 00:00:13,730\nThat left a groove,\n\n8\n00:00:14,030 --> 00:00:16,030\na maze that snakes back and forth.\n\n9\n00:00:16,580 --> 00:00:18,690\nThey filled the groove with incense powder:\n\n10\n00:00:18,990 --> 00:00:20,360\none long, thin trail.\n\n11\n00:00:20,910 --> 00:00:21,920\nLight one end,\n\n12\n00:00:22,220 --> 00:00:24,380\nand a tiny ember crawls through the maze,\n\n13\n00:00:24,680 --> 00:00:26,160\nat a nearly steady speed.\n\n14\n00:00:26,710 --> 00:00:28,020\nHere's the clever part.\n\n15\n00:00:28,570 --> 00:00:30,280\nAt set marks along the trail,\n\n16\n00:00:30,580 --> 00:00:32,380\nthey switched to a different incense.\n\n17\n00:00:32,930 --> 00:00:34,890\nSo when the smell in the room changed,\n\n18\n00:00:35,190 --> 00:00:36,780\nyou knew more time had passed.\n\n19\n00:00:37,330 --> 00:00:39,510\nSome trails burned for twelve hours.\n\n20\n00:00:40,060 --> 00:00:41,580\nSome lasted a whole month.\n\n21\n00:00:42,130 --> 00:00:44,040\nA few even dropped a little ball\n\n22\n00:00:44,340 --> 00:00:46,100\nonto a tray, like an alarm.\n\n23\n00:00:46,650 --> 00:00:49,430\nSo, what time does your room smell like right now?\n\n",
-      "tg_msg": 829,
-      "approved_by": "auto",
-      "quota_note": "2026-10-27",
-      "description_full": "How did people in old Japan and China tell time by smell? Incense clocks burned a trail of incense powder pressed into a maze in ash, and switching to a different incense at set marks meant the room's smell changed as time passed.\n\nSources:\nhttps://en.wikipedia.org/wiki/Incense_clock\nhttps://museum.seiko.co.jp/en/knowledge/ElementalTimepieces03/\nhttps://www.iflscience.com/in-medieval-china-and-japan-clever-devices-allowed-you-to-smell-what-time-it-is-83651\n\nAnimated in the Ukiyo-e Woodblock style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #history #howitworks #japan\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Ukiyo-e Woodblock style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/G8kuLnqTM0Q",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-27T12:28:44.481414+00:00",
-      "slot": "2026-10-28T23:15:00+00:00"
-    },
     "2026-10-26-105": {
       "topic": {
         "title": "How did people in old Japan smell what time it was? (incense clocks)",
@@ -3799,12 +2686,12 @@
         "format": "long",
         "style": "Claymation Set"
       },
-      "status": "approved",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261031-frozen-animals",
       "redos": 0,
-      "updated": "2026-10-31T15:03:12.299608+00:00",
+      "updated": "2026-11-01T08:06:51.969655+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Claymation Set style). Voice: Kokoro text-to-speech."
       ],
@@ -3821,7 +2708,16 @@
       "srt": "1\n00:00:00,250 --> 00:00:02,230\nFrozen solid for seven months.\n\n2\n00:00:02,780 --> 00:00:04,540\nNo heartbeat. No breathing.\n\n3\n00:00:05,090 --> 00:00:05,980\nYou'd be dead.\n\n4\n00:00:06,530 --> 00:00:08,640\nThis frog just hops away in spring.\n\n5\n00:00:09,190 --> 00:00:11,680\nSo how do animals survive being frozen?\n\n6\n00:00:12,230 --> 00:00:14,340\nToday, four champions of the cold,\n\n7\n00:00:14,640 --> 00:00:16,500\neach with a totally different trick.\n\n8\n00:00:17,050 --> 00:00:18,260\nMeet the wood frog.\n\n9\n00:00:18,810 --> 00:00:20,790\nIt lives as far north as Alaska,\n\n10\n00:00:21,090 --> 00:00:22,690\nand it doesn't hide from winter.\n\n11\n00:00:23,240 --> 00:00:25,220\nIt just lies down under the leaves,\n\n12\n00:00:25,520 --> 00:00:26,860\nand lets the ice come.\n\n13\n00:00:27,410 --> 00:00:30,400\nThe problem with freezing is sharp ice crystals.\n\n14\n00:00:30,950 --> 00:00:32,560\nIf they grow inside a cell,\n\n15\n00:00:32,860 --> 00:00:35,020\nthey rip it apart like tiny knives.\n\n16\n00:00:35,570 --> 00:00:37,430\nSo the frog plays a clever game.\n\n17\n00:00:37,980 --> 00:00:39,590\nAs ice touches its skin,\n\n18\n00:00:39,890 --> 00:00:41,900\nits liver floods the body with sugar,\n\n19\n00:00:42,200 --> 00:00:44,310\nup to ten times the normal amount.\n\n20\n00:00:44,860 --> 00:00:46,780\nThat sugar soaks into every cell,\n\n21\n00:00:47,080 --> 00:00:48,820\nlike a syrup that won't freeze.\n\n22\n00:00:49,370 --> 00:00:52,010\nSo the ice can only grow outside the cells,\n\n23\n00:00:52,310 --> 00:00:53,910\nin the spaces in between.\n\n24\n00:00:54,460 --> 00:00:57,160\nUp to sixty percent of the frog turns to ice.\n\n25\n00:00:57,710 --> 00:00:59,410\nNo heartbeat. No breath.\n\n26\n00:00:59,960 --> 00:01:01,910\nIn Alaska, it can stay like this\n\n27\n00:01:02,210 --> 00:01:03,830\nfor as long as seven months.\n\n28\n00:01:04,380 --> 00:01:06,350\nThen spring comes, the ice melts,\n\n29\n00:01:06,650 --> 00:01:08,380\nand the heart starts beating again.\n\n30\n00:01:08,930 --> 00:01:10,140\nOur second champion\n\n31\n00:01:10,440 --> 00:01:12,030\nuses the opposite trick.\n\n32\n00:01:12,580 --> 00:01:15,330\nThe Arctic ground squirrel never freezes at all,\n\n33\n00:01:15,630 --> 00:01:17,970\neven when its body drops below zero.\n\n34\n00:01:18,520 --> 00:01:21,920\nScientists measured one at almost minus three degrees,\n\n35\n00:01:22,220 --> 00:01:24,740\nthe coldest body ever found in a mammal.\n\n36\n00:01:25,290 --> 00:01:27,020\nHow? It's called supercooling.\n\n37\n00:01:27,570 --> 00:01:30,100\nWater needs a tiny seed to start freezing,\n\n38\n00:01:30,400 --> 00:01:32,690\nlike a speck of dust, or a bit of ice.\n\n39\n00:01:33,240 --> 00:01:35,020\nThe squirrel's blood is so clean,\n\n40\n00:01:35,320 --> 00:01:37,220\nthere's nothing for ice to grow on.\n\n41\n00:01:37,770 --> 00:01:40,020\nSo it stays liquid, below freezing.\n\n42\n00:01:40,570 --> 00:01:41,630\nBut that's risky.\n\n43\n00:01:42,180 --> 00:01:44,530\nSo every few weeks, the squirrel shivers,\n\n44\n00:01:44,830 --> 00:01:47,000\nwarms itself back up for a little while,\n\n45\n00:01:47,300 --> 00:01:49,310\nthen drops back into the deep cold.\n\n46\n00:01:49,860 --> 00:01:52,050\nNow, dive under the Antarctic ice.\n\n47\n00:01:52,600 --> 00:01:55,190\nThe sea here is almost minus two degrees,\n\n48\n00:01:55,490 --> 00:01:57,660\ncold enough to freeze most fish solid.\n\n49\n00:01:58,210 --> 00:02:00,950\nBut these Antarctic fish swim around just fine.\n\n50\n00:02:01,500 --> 00:02:03,970\nTheir blood is full of antifreeze proteins.\n\n51\n00:02:04,520 --> 00:02:06,620\nWhen a tiny ice crystal sneaks in,\n\n52\n00:02:06,920 --> 00:02:08,510\nthe proteins grab onto it,\n\n53\n00:02:08,810 --> 00:02:10,450\nand wrap it up so it can't grow.\n\n54\n00:02:11,000 --> 00:02:12,810\nOne of their cousins, the icefish,\n\n55\n00:02:13,110 --> 00:02:14,230\nwent even further.\n\n56\n00:02:14,780 --> 00:02:16,840\nIts blood has no red cells at all.\n\n57\n00:02:17,390 --> 00:02:18,730\nIt's clear, like water.\n\n58\n00:02:19,280 --> 00:02:21,310\nAnd then there's the toughest of them all.\n\n59\n00:02:21,860 --> 00:02:23,700\nThe tardigrade, or water bear,\n\n60\n00:02:24,000 --> 00:02:25,670\nsmaller than a grain of sand.\n\n61\n00:02:26,220 --> 00:02:28,840\nWhen things get bad, it dries itself out,\n\n62\n00:02:29,140 --> 00:02:31,460\ncurls into a tiny ball called a tun,\n\n63\n00:02:31,760 --> 00:02:33,690\nand basically pauses its life.\n\n64\n00:02:34,240 --> 00:02:38,320\nIn nineteen eighty three, scientists collected moss in Antarctica,\n\n65\n00:02:38,620 --> 00:02:41,040\nand kept it in a freezer at minus twenty.\n\n66\n00:02:41,590 --> 00:02:43,850\nThirty years later, they thawed it out.\n\n67\n00:02:44,400 --> 00:02:45,880\nTwo water bears woke up,\n\n68\n00:02:46,180 --> 00:02:48,670\nand one of them went on to lay nineteen eggs.\n\n69\n00:02:49,220 --> 00:02:50,900\nSo why do scientists care?\n\n70\n00:02:51,450 --> 00:02:52,880\nBecause we can't do this yet.\n\n71\n00:02:53,430 --> 00:02:54,820\nA donor heart on ice\n\n72\n00:02:55,120 --> 00:02:57,380\nonly lasts about four to six hours.\n\n73\n00:02:57,930 --> 00:03:00,190\nResearchers are studying the frog's sugar,\n\n74\n00:03:00,490 --> 00:03:02,070\nand the fish's antifreeze,\n\n75\n00:03:02,370 --> 00:03:04,580\nto keep organs alive for much longer.\n\n76\n00:03:05,130 --> 00:03:06,840\nFour animals, four tricks:\n\n77\n00:03:07,140 --> 00:03:10,100\nsugar, supercooling, antifreeze, and drying out.\n\n78\n00:03:10,650 --> 00:03:11,930\nWhich one would you pick?\n\n79\n00:03:12,480 --> 00:03:14,150\nNext time, how did a bitter bean\n\n80\n00:03:14,450 --> 00:03:16,590\nbecome the world's favorite treat, chocolate?\n\n",
       "tg_msg": 957,
       "approved_by": "auto",
-      "quota_note": "2026-11-01"
+      "quota_note": "2026-11-01",
+      "description_full": "How do animals survive being frozen solid? Wood frogs freeze with no heartbeat for months, Arctic ground squirrels supercool below zero, Antarctic fish make antifreeze proteins, and tardigrades dry out and wake up decades later.\n\nSources:\nhttps://www.audubon.org/news/frogs-freeze-survive-alaskan-winter\nhttps://uaf.edu/centennial/uaf100/ideas/frozen-squirrels.php\nhttps://phys.org/news/2016-02-animals-revived-frozen-state-years.html\n\nAnimated in the Claymation Set style.\n\nFollow Zorbly AI for a new Short every day.\n\n#animals #science #explained\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Claymation Set style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/Mu5rA1tslBI",
+          "private \u00b7 thumbnail \u2705"
+        ]
+      },
+      "uploaded_at": "2026-11-01T08:06:51.969672+00:00",
+      "slot": "2026-11-03T02:15:00+00:00"
     },
     "2026-10-31-103": {
       "topic": {
@@ -3868,12 +2764,12 @@
         "format": "animated",
         "style": "Napkin Sketch"
       },
-      "status": "approved",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261031-self-tickle",
       "redos": 0,
-      "updated": "2026-10-31T15:03:23.836347+00:00",
+      "updated": "2026-11-01T08:06:55.952237+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Napkin Sketch style). Voice: Kokoro text-to-speech."
       ],
@@ -3890,7 +2786,28 @@
       "srt": "1\n00:00:00,250 --> 00:00:02,270\nYour brain cancels your own tickles\n\n2\n00:00:02,570 --> 00:00:03,780\nbefore you feel them.\n\n3\n00:00:04,330 --> 00:00:05,080\nBut how?\n\n4\n00:00:05,630 --> 00:00:07,000\nEvery time you move,\n\n5\n00:00:07,300 --> 00:00:09,270\nyour brain sends a copy of the order\n\n6\n00:00:09,570 --> 00:00:10,690\nto the cerebellum,\n\n7\n00:00:10,990 --> 00:00:12,150\nat the back of your head.\n\n8\n00:00:12,700 --> 00:00:14,810\nIt predicts what the touch will feel like,\n\n9\n00:00:15,110 --> 00:00:16,730\nthen turns the feeling down.\n\n10\n00:00:17,280 --> 00:00:18,860\nNo surprise, no tickle.\n\n11\n00:00:19,410 --> 00:00:20,990\nWhen someone else tickles you,\n\n12\n00:00:21,290 --> 00:00:22,520\nthere's no prediction.\n\n13\n00:00:23,070 --> 00:00:24,790\nYour brain can't guess where or when,\n\n14\n00:00:25,090 --> 00:00:26,480\nso it hits full blast.\n\n15\n00:00:27,030 --> 00:00:29,160\nScientists tested this with a robot.\n\n16\n00:00:29,710 --> 00:00:30,970\nPeople moved a handle,\n\n17\n00:00:31,270 --> 00:00:33,030\nand a robot brushed their palm.\n\n18\n00:00:33,580 --> 00:00:35,940\nMoving it themselves? Barely ticklish.\n\n19\n00:00:36,490 --> 00:00:38,090\nThen the robot added a delay\n\n20\n00:00:38,390 --> 00:00:40,040\nof just two tenths of a second.\n\n21\n00:00:40,590 --> 00:00:42,530\nSuddenly, it felt more ticklish.\n\n22\n00:00:43,080 --> 00:00:44,380\nThe prediction was off,\n\n23\n00:00:44,680 --> 00:00:46,250\nso the brain couldn't cancel it.\n\n24\n00:00:46,800 --> 00:00:48,790\nSo your own brain blocks the tickle.\n\n25\n00:00:49,340 --> 00:00:51,080\nCan you find a way to outsmart it?\n\n",
       "tg_msg": 958,
       "approved_by": "auto",
-      "quota_note": "2026-11-01"
+      "quota_note": "2026-11-01",
+      "description_full": "Why can't you tickle yourself? Your cerebellum predicts the touch from your own movement and turns the feeling down, but in a robot experiment, adding a delay of just 0.2 seconds made self-tickling feel more ticklish.\n\nSources:\nhttps://www.scientificamerican.com/article/why-cant-a-person-tickle/\nhttps://link.springer.com/article/10.1038/2870\nhttps://www.sciencealert.com/the-scientific-reason-you-can-t-tickle-yourself\n\nAnimated in the Napkin Sketch style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #brain #science #tickle\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Napkin Sketch style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/YSDo8C-FODQ",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-01T08:06:55.952253+00:00",
+      "slot": "2026-11-04T20:15:00+00:00"
     },
     "2026-10-31-104": {
       "topic": {
@@ -3940,12 +2857,12 @@
         "format": "animated",
         "style": "Low-Poly Faceted"
       },
-      "status": "approved",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261031-shark-teeth",
       "redos": 0,
-      "updated": "2026-10-31T15:03:31.372219+00:00",
+      "updated": "2026-11-01T08:06:59.173141+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Low-Poly Faceted style). Voice: Kokoro text-to-speech."
       ],
@@ -3962,7 +2879,28 @@
       "srt": "1\n00:00:00,250 --> 00:00:02,730\nThis shark will lose thirty thousand teeth.\n\n2\n00:00:03,280 --> 00:00:05,160\nSo why does it never run out?\n\n3\n00:00:05,710 --> 00:00:07,160\nLook inside its jaw.\n\n4\n00:00:07,710 --> 00:00:08,960\nBehind the front teeth,\n\n5\n00:00:09,260 --> 00:00:11,270\nthere are rows and rows of spares,\n\n6\n00:00:11,570 --> 00:00:14,060\nfolded back against the inside of the jaw.\n\n7\n00:00:14,610 --> 00:00:16,820\nMost sharks carry about fifteen rows.\n\n8\n00:00:17,370 --> 00:00:19,150\nYour teeth are locked into bone.\n\n9\n00:00:19,700 --> 00:00:21,600\nA shark's teeth sit in soft tissue,\n\n10\n00:00:21,900 --> 00:00:23,370\nso they pop out easily.\n\n11\n00:00:23,920 --> 00:00:25,120\nWhen one snaps off,\n\n12\n00:00:25,420 --> 00:00:27,130\nthe tooth behind it swings up,\n\n13\n00:00:27,430 --> 00:00:28,620\nand takes its place,\n\n14\n00:00:28,920 --> 00:00:30,620\nsometimes in just one day.\n\n15\n00:00:31,170 --> 00:00:32,880\nMeanwhile, a brand new tooth\n\n16\n00:00:33,180 --> 00:00:35,010\nstarts growing at the very back.\n\n17\n00:00:35,560 --> 00:00:37,540\nIt's like a moving staircase of teeth,\n\n18\n00:00:37,840 --> 00:00:39,350\nalways rolling forward.\n\n19\n00:00:39,900 --> 00:00:41,330\nA great white goes through\n\n20\n00:00:41,630 --> 00:00:43,910\nabout twenty thousand teeth in its life.\n\n21\n00:00:44,460 --> 00:00:45,680\nAnd this lemon shark?\n\n22\n00:00:46,230 --> 00:00:48,480\nScientists think more than thirty thousand.\n\n23\n00:00:49,030 --> 00:00:51,350\nSo how many teeth have you lost so far?\n\n",
       "tg_msg": 959,
       "approved_by": "auto",
-      "quota_note": "2026-11-01"
+      "quota_note": "2026-11-01",
+      "description_full": "Why do sharks never run out of teeth? Shark teeth sit in soft tissue instead of bone, and rows of spare teeth folded inside the jaw roll forward like a conveyor belt whenever one falls out.\n\nSources:\nhttps://saveourseas.com/worldofsharks/shark-teeth\nhttps://en.wikipedia.org/wiki/Shark_tooth\nhttps://www.smithsonianmag.com/videos/a-great-white-can-go-through-20000-teeth-in-i/\n\nAnimated in the Low-Poly Faceted style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #sharks #animalfacts #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Low-Poly Faceted style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/nUf5Y4INcNQ",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-01T08:06:59.173157+00:00",
+      "slot": "2026-11-05T00:15:00+00:00"
     },
     "2026-10-31-105": {
       "topic": {
@@ -4012,12 +2950,12 @@
         "format": "animated",
         "style": "Kawaii Anime"
       },
-      "status": "approved",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261031-stale-bread",
       "redos": 0,
-      "updated": "2026-10-31T19:13:02.976955+00:00",
+      "updated": "2026-11-01T08:07:02.130082+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech."
       ],
@@ -4034,7 +2972,28 @@
       "srt": "1\n00:00:00,250 --> 00:00:02,230\nYour fridge is wasting your bread.\n\n2\n00:00:02,780 --> 00:00:04,840\nIt can go stale six times faster.\n\n3\n00:00:05,390 --> 00:00:06,190\nBut why?\n\n4\n00:00:06,740 --> 00:00:08,910\nFresh bread is soft because of starch.\n\n5\n00:00:09,460 --> 00:00:11,640\nIn the oven, starch soaks up water,\n\n6\n00:00:11,940 --> 00:00:14,550\nand its tight crystals melt into a soft gel.\n\n7\n00:00:15,100 --> 00:00:16,460\nBut once the bread cools,\n\n8\n00:00:16,760 --> 00:00:18,860\nthe starch packs back into crystals.\n\n9\n00:00:19,410 --> 00:00:21,480\nScientists call it retrogradation.\n\n10\n00:00:22,030 --> 00:00:24,000\nThose crystals squeeze the water out,\n\n11\n00:00:24,300 --> 00:00:25,390\nand lock it away.\n\n12\n00:00:25,940 --> 00:00:27,460\nSo the crumb turns hard,\n\n13\n00:00:27,760 --> 00:00:29,310\neven though it's barely dried out.\n\n14\n00:00:29,860 --> 00:00:31,990\nThat's why sealed bread still goes stale.\n\n15\n00:00:32,540 --> 00:00:34,650\nAnd this crystal building runs fastest\n\n16\n00:00:34,950 --> 00:00:36,260\njust above freezing,\n\n17\n00:00:36,560 --> 00:00:38,010\nright at fridge temperature.\n\n18\n00:00:38,560 --> 00:00:40,500\nIn the freezer, it almost stops.\n\n19\n00:00:41,050 --> 00:00:41,820\nThe fix?\n\n20\n00:00:42,370 --> 00:00:44,070\nWarm stale bread in the oven,\n\n21\n00:00:44,370 --> 00:00:45,970\nand the crystals melt again.\n\n22\n00:00:46,520 --> 00:00:48,530\nIt goes soft, almost like fresh,\n\n23\n00:00:48,830 --> 00:00:50,400\nbut only for a little while.\n\n24\n00:00:50,950 --> 00:00:52,920\nSo, fridge, counter, or freezer:\n\n25\n00:00:53,220 --> 00:00:54,500\nwhere does your bread live?\n\n",
       "tg_msg": 963,
       "approved_by": "auto",
-      "quota_note": "2026-11-01"
+      "quota_note": "2026-11-01",
+      "description_full": "Why does bread go stale, and why is it faster in the fridge? Stale bread isn't mostly dried out: as it cools, its starch slowly packs back into crystals (retrogradation) that squeeze out and lock away water, and that happens fastest just above freezing, so the fridge can stale bread up to about six times faster, while the freezer almost stops it and warming re-melts the crystals for a while.\n\nSources:\nhttps://www.scienceabc.com/eyeopeners/why-chips-soften-but-bread-hardens-staling-moisture-starch-unstale.html\nhttps://wp.eatyourbooks.com/blog/2014/06/03/stalemate-is-the-fridge-bad-for-bread\nhttps://cosmosmagazine.com/science/chemistry/how-to-rejuvenate-stale-bread-and-crunchless-crisps\n\nAnimated in the Kawaii Anime style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #bread #food #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/uhndk1tV7YQ",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-01T08:07:02.130100+00:00",
+      "slot": "2026-11-05T02:15:00+00:00"
     },
     "2026-11-01-101": {
       "topic": {
@@ -4085,12 +3044,12 @@
         "format": "animated",
         "style": "Cut-Paper Diorama"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261031-woodpecker",
       "redos": 0,
-      "updated": "2026-11-01T01:27:16.444934+00:00",
+      "updated": "2026-11-01T08:07:05.091587+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Cut-Paper Diorama style). Voice: Kokoro text-to-speech."
       ],
@@ -4105,7 +3064,29 @@
         "name": "2026-11-01-101-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:03,110\nWoodpeckers headbang trees twenty times a second,\n\n2\n00:00:03,410 --> 00:00:05,210\nand you'd be out cold after one.\n\n3\n00:00:05,760 --> 00:00:07,370\nSo why don't they get headaches?\n\n4\n00:00:07,920 --> 00:00:09,330\nEach peck stops the head\n\n5\n00:00:09,630 --> 00:00:11,520\nin about a thousandth of a second.\n\n6\n00:00:12,070 --> 00:00:13,680\nThat's over a thousand g.\n\n7\n00:00:14,230 --> 00:00:15,940\nFor years, people thought the skull\n\n8\n00:00:16,240 --> 00:00:17,830\nwas a spongy crash helmet.\n\n9\n00:00:18,380 --> 00:00:21,710\nBut in 2022, slow-motion videos showed\n\n10\n00:00:22,010 --> 00:00:23,590\nit barely cushions anything.\n\n11\n00:00:24,140 --> 00:00:25,260\nIt's a stiff hammer,\n\n12\n00:00:25,560 --> 00:00:27,430\nbecause a soft one would hit weaker.\n\n13\n00:00:27,980 --> 00:00:29,490\nThe real trick is size.\n\n14\n00:00:30,040 --> 00:00:32,690\nA woodpecker's brain weighs just a few grams,\n\n15\n00:00:32,990 --> 00:00:35,230\npacked so snugly it barely sloshes.\n\n16\n00:00:35,780 --> 00:00:38,650\nTiny brains handle far bigger hits than ours.\n\n17\n00:00:39,200 --> 00:00:40,740\nPlus, its long tongue bone\n\n18\n00:00:41,040 --> 00:00:42,840\nwraps all the way around its skull,\n\n19\n00:00:43,140 --> 00:00:44,850\nwhich may help keep things steady.\n\n20\n00:00:45,400 --> 00:00:47,570\nThat's up to twelve thousand pecks a day,\n\n21\n00:00:47,870 --> 00:00:49,160\nand not one headache.\n\n22\n00:00:49,710 --> 00:00:51,030\nSo what would you headbang\n\n23\n00:00:51,330 --> 00:00:52,730\ntwenty times a second?\n\n",
-      "tg_msg": 965
+      "tg_msg": 965,
+      "approved_by": "auto",
+      "description_full": "Woodpeckers hammer trees up to 20 times a second at over 1,000 g, so why don't woodpeckers get brain damage or headaches? A 2022 slow-motion study found the skull is a stiff hammer, not a shock absorber, and their tiny brains can handle far bigger hits than ours.\n\nSources:\nhttps://www.npr.org/2022/07/14/1111577543/why-dont-woodpecker-brains-get-damaged-from-pecking-theyre-tiny-scientists-say\nhttps://www.audubon.org/magazine/new-study-shakes-long-held-belief-woodpecker-hammering\nhttps://www.scienceabc.com/nature/animals/how-woodpeckers-dont-get-concussions.html\n\nAnimated in the Cut-Paper Diorama style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #woodpecker #animalfacts #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Cut-Paper Diorama style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/2tvu76pNveA",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-01T08:07:05.091604+00:00",
+      "slot": "2026-11-05T17:15:00+00:00"
     }
   },
   "history": [
