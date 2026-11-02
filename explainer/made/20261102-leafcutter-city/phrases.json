@@ -1,0 +1,2700 @@
+[
+ {
+  "s": 0.25,
+  "e": 3.07,
+  "text": "Ants built farms fifty million years before you,",
+  "words": [
+   [
+    "ants",
+    0.25
+   ],
+   [
+    "built",
+    0.53
+   ],
+   [
+    "farms",
+    0.88
+   ],
+   [
+    "fifty",
+    1.24
+   ],
+   [
+    "million",
+    1.59
+   ],
+   [
+    "years",
+    2.08
+   ],
+   [
+    "before",
+    2.44
+   ],
+   [
+    "you",
+    2.86
+   ]
+  ]
+ },
+ {
+  "s": 3.37,
+  "e": 4.69,
+  "text": "and you'd never spot them.",
+  "words": [
+   [
+    "and",
+    3.37
+   ],
+   [
+    "youd",
+    3.57
+   ],
+   [
+    "never",
+    3.83
+   ],
+   [
+    "spot",
+    4.16
+   ],
+   [
+    "them",
+    4.43
+   ]
+  ]
+ },
+ {
+  "s": 5.24,
+  "e": 7.69,
+  "text": "And right now, under a rainforest floor,",
+  "words": [
+   [
+    "and",
+    5.24
+   ],
+   [
+    "right",
+    5.47
+   ],
+   [
+    "now",
+    5.85
+   ],
+   [
+    "under",
+    6.08
+   ],
+   [
+    "a",
+    6.47
+   ],
+   [
+    "rainforest",
+    6.54
+   ],
+   [
+    "floor",
+    7.31
+   ]
+  ]
+ },
+ {
+  "s": 7.99,
+  "e": 10.66,
+  "text": "there's an ant city with millions of citizens,",
+  "words": [
+   [
+    "theres",
+    7.99
+   ],
+   [
+    "an",
+    8.42
+   ],
+   [
+    "ant",
+    8.57
+   ],
+   [
+    "city",
+    8.79
+   ],
+   [
+    "with",
+    9.07
+   ],
+   [
+    "millions",
+    9.36
+   ],
+   [
+    "of",
+    9.94
+   ],
+   [
+    "citizens",
+    10.08
+   ]
+  ]
+ },
+ {
+  "s": 10.96,
+  "e": 12.2,
+  "text": "thousands of rooms,",
+  "words": [
+   [
+    "thousands",
+    10.96
+   ],
+   [
+    "of",
+    11.66
+   ],
+   [
+    "rooms",
+    11.82
+   ]
+  ]
+ },
+ {
+  "s": 12.5,
+  "e": 13.99,
+  "text": "farms, garbage dumps,",
+  "words": [
+   [
+    "farms",
+    12.5
+   ],
+   [
+    "garbage",
+    12.94
+   ],
+   [
+    "dumps",
+    13.55
+   ]
+  ]
+ },
+ {
+  "s": 14.29,
+  "e": 15.94,
+  "text": "and its own air conditioning.",
+  "words": [
+   [
+    "and",
+    14.29
+   ],
+   [
+    "its",
+    14.49
+   ],
+   [
+    "own",
+    14.7
+   ],
+   [
+    "air",
+    14.91
+   ],
+   [
+    "conditioning",
+    15.11
+   ]
+  ]
+ },
+ {
+  "s": 16.49,
+  "e": 19.51,
+  "text": "So what actually happens inside a leafcutter ant city?",
+  "words": [
+   [
+    "so",
+    16.49
+   ],
+   [
+    "what",
+    16.62
+   ],
+   [
+    "actually",
+    16.89
+   ],
+   [
+    "happens",
+    17.43
+   ],
+   [
+    "inside",
+    17.9
+   ],
+   [
+    "a",
+    18.3
+   ],
+   [
+    "leafcutter",
+    18.37
+   ],
+   [
+    "ant",
+    19.04
+   ],
+   [
+    "city",
+    19.24
+   ]
+  ]
+ },
+ {
+  "s": 20.06,
+  "e": 21.85,
+  "text": "It starts up here, on the road.",
+  "words": [
+   [
+    "it",
+    20.06
+   ],
+   [
+    "starts",
+    20.22
+   ],
+   [
+    "up",
+    20.68
+   ],
+   [
+    "here",
+    20.84
+   ],
+   [
+    "on",
+    21.15
+   ],
+   [
+    "the",
+    21.31
+   ],
+   [
+    "road",
+    21.54
+   ]
+  ]
+ },
+ {
+  "s": 22.4,
+  "e": 26.61,
+  "text": "Leafcutter ants march along forest trails in long green parades.",
+  "words": [
+   [
+    "leafcutter",
+    22.4
+   ],
+   [
+    "ants",
+    23.18
+   ],
+   [
+    "march",
+    23.49
+   ],
+   [
+    "along",
+    23.88
+   ],
+   [
+    "forest",
+    24.27
+   ],
+   [
+    "trails",
+    24.74
+   ],
+   [
+    "in",
+    25.21
+   ],
+   [
+    "long",
+    25.36
+   ],
+   [
+    "green",
+    25.67
+   ],
+   [
+    "parades",
+    26.06
+   ]
+  ]
+ },
+ {
+  "s": 27.16,
+  "e": 30.34,
+  "text": "Each worker slices off a piece of leaf with her jaws,",
+  "words": [
+   [
+    "each",
+    27.16
+   ],
+   [
+    "worker",
+    27.46
+   ],
+   [
+    "slices",
+    27.91
+   ],
+   [
+    "off",
+    28.37
+   ],
+   [
+    "a",
+    28.6
+   ],
+   [
+    "piece",
+    28.67
+   ],
+   [
+    "of",
+    29.05
+   ],
+   [
+    "leaf",
+    29.2
+   ],
+   [
+    "with",
+    29.5
+   ],
+   [
+    "her",
+    29.81
+   ],
+   [
+    "jaws",
+    30.03
+   ]
+  ]
+ },
+ {
+  "s": 30.64,
+  "e": 31.88,
+  "text": "then hauls it home,",
+  "words": [
+   [
+    "then",
+    30.64
+   ],
+   [
+    "hauls",
+    30.97
+   ],
+   [
+    "it",
+    31.38
+   ],
+   [
+    "home",
+    31.55
+   ]
+  ]
+ },
+ {
+  "s": 32.18,
+  "e": 34.33,
+  "text": "carrying up to ten times her own weight.",
+  "words": [
+   [
+    "carrying",
+    32.18
+   ],
+   [
+    "up",
+    32.72
+   ],
+   [
+    "to",
+    32.85
+   ],
+   [
+    "ten",
+    32.99
+   ],
+   [
+    "times",
+    33.19
+   ],
+   [
+    "her",
+    33.53
+   ],
+   [
+    "own",
+    33.73
+   ],
+   [
+    "weight",
+    33.93
+   ]
+  ]
+ },
+ {
+  "s": 34.88,
+  "e": 37.66,
+  "text": "That's like you jogging home with a cow on your back.",
+  "words": [
+   [
+    "thats",
+    34.88
+   ],
+   [
+    "like",
+    35.22
+   ],
+   [
+    "you",
+    35.49
+   ],
+   [
+    "jogging",
+    35.69
+   ],
+   [
+    "home",
+    36.17
+   ],
+   [
+    "with",
+    36.44
+   ],
+   [
+    "a",
+    36.71
+   ],
+   [
+    "cow",
+    36.78
+   ],
+   [
+    "on",
+    36.98
+   ],
+   [
+    "your",
+    37.12
+   ],
+   [
+    "back",
+    37.39
+   ]
+  ]
+ },
+ {
+  "s": 38.21,
+  "e": 39.22,
+  "text": "But look closer.",
+  "words": [
+   [
+    "but",
+    38.21
+   ],
+   [
+    "look",
+    38.44
+   ],
+   [
+    "closer",
+    38.75
+   ]
+  ]
+ },
+ {
+  "s": 39.77,
+  "e": 42.61,
+  "text": "There's a tiny ant riding on top of that leaf.",
+  "words": [
+   [
+    "theres",
+    39.77
+   ],
+   [
+    "a",
+    40.25
+   ],
+   [
+    "tiny",
+    40.33
+   ],
+   [
+    "ant",
+    40.66
+   ],
+   [
+    "riding",
+    40.9
+   ],
+   [
+    "on",
+    41.39
+   ],
+   [
+    "top",
+    41.55
+   ],
+   [
+    "of",
+    41.79
+   ],
+   [
+    "that",
+    41.96
+   ],
+   [
+    "leaf",
+    42.28
+   ]
+  ]
+ },
+ {
+  "s": 43.16,
+  "e": 44.43,
+  "text": "She's the bodyguard.",
+  "words": [
+   [
+    "shes",
+    43.16
+   ],
+   [
+    "the",
+    43.48
+   ],
+   [
+    "bodyguard",
+    43.71
+   ]
+  ]
+ },
+ {
+  "s": 44.98,
+  "e": 47.89,
+  "text": "Tiny flies try to lay eggs in the carriers' heads,",
+  "words": [
+   [
+    "tiny",
+    44.98
+   ],
+   [
+    "flies",
+    45.28
+   ],
+   [
+    "try",
+    45.65
+   ],
+   [
+    "to",
+    45.88
+   ],
+   [
+    "lay",
+    46.03
+   ],
+   [
+    "eggs",
+    46.25
+   ],
+   [
+    "in",
+    46.55
+   ],
+   [
+    "the",
+    46.7
+   ],
+   [
+    "carriers",
+    46.92
+   ],
+   [
+    "heads",
+    47.51
+   ]
+  ]
+ },
+ {
+  "s": 48.19,
+  "e": 50.41,
+  "text": "so this little passenger fends them off.",
+  "words": [
+   [
+    "so",
+    48.19
+   ],
+   [
+    "this",
+    48.32
+   ],
+   [
+    "little",
+    48.59
+   ],
+   [
+    "passenger",
+    48.99
+   ],
+   [
+    "fends",
+    49.6
+   ],
+   [
+    "them",
+    49.94
+   ],
+   [
+    "off",
+    50.21
+   ]
+  ]
+ },
+ {
+  "s": 50.96,
+  "e": 53.76,
+  "text": "Because in this city, everybody has a job,",
+  "words": [
+   [
+    "because",
+    50.96
+   ],
+   [
+    "in",
+    51.55
+   ],
+   [
+    "this",
+    51.72
+   ],
+   [
+    "city",
+    52.06
+   ],
+   [
+    "everybody",
+    52.4
+   ],
+   [
+    "has",
+    53.16
+   ],
+   [
+    "a",
+    53.42
+   ],
+   [
+    "job",
+    53.5
+   ]
+  ]
+ },
+ {
+  "s": 54.06,
+  "e": 56.35,
+  "text": "and your size is your job description.",
+  "words": [
+   [
+    "and",
+    54.06
+   ],
+   [
+    "your",
+    54.28
+   ],
+   [
+    "size",
+    54.57
+   ],
+   [
+    "is",
+    54.87
+   ],
+   [
+    "your",
+    55.02
+   ],
+   [
+    "job",
+    55.31
+   ],
+   [
+    "description",
+    55.54
+   ]
+  ]
+ },
+ {
+  "s": 56.9,
+  "e": 58.85,
+  "text": "The tiniest ants, called minims,",
+  "words": [
+   [
+    "the",
+    56.9
+   ],
+   [
+    "tiniest",
+    57.12
+   ],
+   [
+    "ants",
+    57.65
+   ],
+   [
+    "called",
+    57.95
+   ],
+   [
+    "minims",
+    58.4
+   ]
+  ]
+ },
+ {
+  "s": 59.15,
+  "e": 61.25,
+  "text": "have heads less than a millimeter wide.",
+  "words": [
+   [
+    "have",
+    59.15
+   ],
+   [
+    "heads",
+    59.42
+   ],
+   [
+    "less",
+    59.74
+   ],
+   [
+    "than",
+    60.01
+   ],
+   [
+    "a",
+    60.27
+   ],
+   [
+    "millimeter",
+    60.34
+   ],
+   [
+    "wide",
+    60.99
+   ]
+  ]
+ },
+ {
+  "s": 61.8,
+  "e": 64.17,
+  "text": "They look after the babies and the gardens.",
+  "words": [
+   [
+    "they",
+    61.8
+   ],
+   [
+    "look",
+    62.07
+   ],
+   [
+    "after",
+    62.34
+   ],
+   [
+    "the",
+    62.68
+   ],
+   [
+    "babies",
+    62.89
+   ],
+   [
+    "and",
+    63.29
+   ],
+   [
+    "the",
+    63.49
+   ],
+   [
+    "gardens",
+    63.7
+   ]
+  ]
+ },
+ {
+  "s": 64.72,
+  "e": 67.51,
+  "text": "Medium ants are the foragers you just met.",
+  "words": [
+   [
+    "medium",
+    64.72
+   ],
+   [
+    "ants",
+    65.21
+   ],
+   [
+    "are",
+    65.54
+   ],
+   [
+    "the",
+    65.79
+   ],
+   [
+    "foragers",
+    66.03
+   ],
+   [
+    "you",
+    66.69
+   ],
+   [
+    "just",
+    66.94
+   ],
+   [
+    "met",
+    67.27
+   ]
+  ]
+ },
+ {
+  "s": 68.06,
+  "e": 69.85,
+  "text": "And the giants are the soldiers,",
+  "words": [
+   [
+    "and",
+    68.06
+   ],
+   [
+    "the",
+    68.27
+   ],
+   [
+    "giants",
+    68.48
+   ],
+   [
+    "are",
+    68.89
+   ],
+   [
+    "the",
+    69.09
+   ],
+   [
+    "soldiers",
+    69.3
+   ]
+  ]
+ },
+ {
+  "s": 70.15,
+  "e": 72.55,
+  "text": "with heads up to seven millimeters wide.",
+  "words": [
+   [
+    "with",
+    70.15
+   ],
+   [
+    "heads",
+    70.44
+   ],
+   [
+    "up",
+    70.8
+   ],
+   [
+    "to",
+    70.95
+   ],
+   [
+    "seven",
+    71.09
+   ],
+   [
+    "millimeters",
+    71.46
+   ],
+   [
+    "wide",
+    72.26
+   ]
+  ]
+ },
+ {
+  "s": 73.1,
+  "e": 75.2,
+  "text": "Now, follow the leaves underground.",
+  "words": [
+   [
+    "now",
+    73.1
+   ],
+   [
+    "follow",
+    73.31
+   ],
+   [
+    "the",
+    73.75
+   ],
+   [
+    "leaves",
+    73.97
+   ],
+   [
+    "underground",
+    74.4
+   ]
+  ]
+ },
+ {
+  "s": 75.75,
+  "e": 76.81,
+  "text": "Here's the twist.",
+  "words": [
+   [
+    "heres",
+    75.75
+   ],
+   [
+    "the",
+    76.16
+   ],
+   [
+    "twist",
+    76.4
+   ]
+  ]
+ },
+ {
+  "s": 77.36,
+  "e": 78.69,
+  "text": "They don't really eat them.",
+  "words": [
+   [
+    "they",
+    77.36
+   ],
+   [
+    "dont",
+    77.62
+   ],
+   [
+    "really",
+    77.87
+   ],
+   [
+    "eat",
+    78.25
+   ],
+   [
+    "them",
+    78.44
+   ]
+  ]
+ },
+ {
+  "s": 79.24,
+  "e": 80.54,
+  "text": "They'll sip a little sap,",
+  "words": [
+   [
+    "theyll",
+    79.24
+   ],
+   [
+    "sip",
+    79.65
+   ],
+   [
+    "a",
+    79.86
+   ],
+   [
+    "little",
+    79.92
+   ],
+   [
+    "sap",
+    80.33
+   ]
+  ]
+ },
+ {
+  "s": 80.84,
+  "e": 82.71,
+  "text": "but the leaf is just fertilizer.",
+  "words": [
+   [
+    "but",
+    80.84
+   ],
+   [
+    "the",
+    81.05
+   ],
+   [
+    "leaf",
+    81.27
+   ],
+   [
+    "is",
+    81.56
+   ],
+   [
+    "just",
+    81.7
+   ],
+   [
+    "fertilizer",
+    81.99
+   ]
+  ]
+ },
+ {
+  "s": 83.26,
+  "e": 86.07,
+  "text": "Smaller ants snip each piece into tiny bits.",
+  "words": [
+   [
+    "smaller",
+    83.26
+   ],
+   [
+    "ants",
+    83.81
+   ],
+   [
+    "snip",
+    84.12
+   ],
+   [
+    "each",
+    84.43
+   ],
+   [
+    "piece",
+    84.74
+   ],
+   [
+    "into",
+    85.13
+   ],
+   [
+    "tiny",
+    85.45
+   ],
+   [
+    "bits",
+    85.76
+   ]
+  ]
+ },
+ {
+  "s": 86.62,
+  "e": 88.89,
+  "text": "Gardeners crush those bits into pellets,",
+  "words": [
+   [
+    "gardeners",
+    86.62
+   ],
+   [
+    "crush",
+    87.22
+   ],
+   [
+    "those",
+    87.56
+   ],
+   [
+    "bits",
+    87.89
+   ],
+   [
+    "into",
+    88.16
+   ],
+   [
+    "pellets",
+    88.42
+   ]
+  ]
+ },
+ {
+  "s": 89.19,
+  "e": 90.83,
+  "text": "add a drop of their own poop,",
+  "words": [
+   [
+    "add",
+    89.19
+   ],
+   [
+    "a",
+    89.41
+   ],
+   [
+    "drop",
+    89.49
+   ],
+   [
+    "of",
+    89.79
+   ],
+   [
+    "their",
+    89.94
+   ],
+   [
+    "own",
+    90.31
+   ],
+   [
+    "poop",
+    90.53
+   ]
+  ]
+ },
+ {
+  "s": 91.13,
+  "e": 93.83,
+  "text": "and press it all into a giant spongy garden.",
+  "words": [
+   [
+    "and",
+    91.13
+   ],
+   [
+    "press",
+    91.36
+   ],
+   [
+    "it",
+    91.75
+   ],
+   [
+    "all",
+    91.9
+   ],
+   [
+    "into",
+    92.13
+   ],
+   [
+    "a",
+    92.44
+   ],
+   [
+    "giant",
+    92.52
+   ],
+   [
+    "spongy",
+    92.91
+   ],
+   [
+    "garden",
+    93.37
+   ]
+  ]
+ },
+ {
+  "s": 94.38,
+  "e": 96.08,
+  "text": "What grows there is a fungus.",
+  "words": [
+   [
+    "what",
+    94.38
+   ],
+   [
+    "grows",
+    94.68
+   ],
+   [
+    "there",
+    95.05
+   ],
+   [
+    "is",
+    95.42
+   ],
+   [
+    "a",
+    95.57
+   ],
+   [
+    "fungus",
+    95.64
+   ]
+  ]
+ },
+ {
+  "s": 96.63,
+  "e": 97.86,
+  "text": "That's the real food.",
+  "words": [
+   [
+    "thats",
+    96.63
+   ],
+   [
+    "the",
+    97.02
+   ],
+   [
+    "real",
+    97.25
+   ],
+   [
+    "food",
+    97.55
+   ]
+  ]
+ },
+ {
+  "s": 98.41,
+  "e": 100.2,
+  "text": "It feeds babies and adults,",
+  "words": [
+   [
+    "it",
+    98.41
+   ],
+   [
+    "feeds",
+    98.57
+   ],
+   [
+    "babies",
+    98.98
+   ],
+   [
+    "and",
+    99.47
+   ],
+   [
+    "adults",
+    99.71
+   ]
+  ]
+ },
+ {
+  "s": 100.5,
+  "e": 103.68,
+  "text": "and they've been passing this crop down for millions of years.",
+  "words": [
+   [
+    "and",
+    100.5
+   ],
+   [
+    "theyve",
+    100.69
+   ],
+   [
+    "been",
+    101.07
+   ],
+   [
+    "passing",
+    101.33
+   ],
+   [
+    "this",
+    101.77
+   ],
+   [
+    "crop",
+    102.03
+   ],
+   [
+    "down",
+    102.28
+   ],
+   [
+    "for",
+    102.54
+   ],
+   [
+    "millions",
+    102.73
+   ],
+   [
+    "of",
+    103.24
+   ],
+   [
+    "years",
+    103.37
+   ]
+  ]
+ },
+ {
+  "s": 104.23,
+  "e": 106.44,
+  "text": "But every farmer has a weed problem.",
+  "words": [
+   [
+    "but",
+    104.23
+   ],
+   [
+    "every",
+    104.46
+   ],
+   [
+    "farmer",
+    104.84
+   ],
+   [
+    "has",
+    105.3
+   ],
+   [
+    "a",
+    105.52
+   ],
+   [
+    "weed",
+    105.6
+   ],
+   [
+    "problem",
+    105.9
+   ]
+  ]
+ },
+ {
+  "s": 106.99,
+  "e": 109.46,
+  "text": "A rival fungus can wreck the whole crop.",
+  "words": [
+   [
+    "a",
+    106.99
+   ],
+   [
+    "rival",
+    107.06
+   ],
+   [
+    "fungus",
+    107.45
+   ],
+   [
+    "can",
+    107.91
+   ],
+   [
+    "wreck",
+    108.15
+   ],
+   [
+    "the",
+    108.53
+   ],
+   [
+    "whole",
+    108.76
+   ],
+   [
+    "crop",
+    109.15
+   ]
+  ]
+ },
+ {
+  "s": 110.01,
+  "e": 112.66,
+  "text": "So the ants wear a white powder on their bodies.",
+  "words": [
+   [
+    "so",
+    110.01
+   ],
+   [
+    "the",
+    110.15
+   ],
+   [
+    "ants",
+    110.36
+   ],
+   [
+    "wear",
+    110.64
+   ],
+   [
+    "a",
+    110.92
+   ],
+   [
+    "white",
+    110.98
+   ],
+   [
+    "powder",
+    111.33
+   ],
+   [
+    "on",
+    111.75
+   ],
+   [
+    "their",
+    111.89
+   ],
+   [
+    "bodies",
+    112.24
+   ]
+  ]
+ },
+ {
+  "s": 113.21,
+  "e": 114.72,
+  "text": "That powder is bacteria,",
+  "words": [
+   [
+    "that",
+    113.21
+   ],
+   [
+    "powder",
+    113.51
+   ],
+   [
+    "is",
+    113.96
+   ],
+   [
+    "bacteria",
+    114.11
+   ]
+  ]
+ },
+ {
+  "s": 115.02,
+  "e": 117.74,
+  "text": "and it makes antibiotics that hold the weed back.",
+  "words": [
+   [
+    "and",
+    115.02
+   ],
+   [
+    "it",
+    115.22
+   ],
+   [
+    "makes",
+    115.36
+   ],
+   [
+    "antibiotics",
+    115.7
+   ],
+   [
+    "that",
+    116.44
+   ],
+   [
+    "hold",
+    116.72
+   ],
+   [
+    "the",
+    116.99
+   ],
+   [
+    "weed",
+    117.19
+   ],
+   [
+    "back",
+    117.46
+   ]
+  ]
+ },
+ {
+  "s": 118.29,
+  "e": 121.09,
+  "text": "Infected patches get chopped out and dragged away,",
+  "words": [
+   [
+    "infected",
+    118.29
+   ],
+   [
+    "patches",
+    118.82
+   ],
+   [
+    "get",
+    119.29
+   ],
+   [
+    "chopped",
+    119.49
+   ],
+   [
+    "out",
+    119.95
+   ],
+   [
+    "and",
+    120.15
+   ],
+   [
+    "dragged",
+    120.35
+   ],
+   [
+    "away",
+    120.82
+   ]
+  ]
+ },
+ {
+  "s": 121.39,
+  "e": 122.95,
+  "text": "which brings us to the trash.",
+  "words": [
+   [
+    "which",
+    121.39
+   ],
+   [
+    "brings",
+    121.73
+   ],
+   [
+    "us",
+    122.13
+   ],
+   [
+    "to",
+    122.27
+   ],
+   [
+    "the",
+    122.41
+   ],
+   [
+    "trash",
+    122.61
+   ]
+  ]
+ },
+ {
+  "s": 123.5,
+  "e": 125.87,
+  "text": "Waste goes to separate garbage rooms,",
+  "words": [
+   [
+    "waste",
+    123.5
+   ],
+   [
+    "goes",
+    123.88
+   ],
+   [
+    "to",
+    124.19
+   ],
+   [
+    "separate",
+    124.34
+   ],
+   [
+    "garbage",
+    124.95
+   ],
+   [
+    "rooms",
+    125.48
+   ]
+  ]
+ },
+ {
+  "s": 126.17,
+  "e": 128.41,
+  "text": "some big enough for you to stand inside.",
+  "words": [
+   [
+    "some",
+    126.17
+   ],
+   [
+    "big",
+    126.45
+   ],
+   [
+    "enough",
+    126.66
+   ],
+   [
+    "for",
+    127.08
+   ],
+   [
+    "you",
+    127.29
+   ],
+   [
+    "to",
+    127.5
+   ],
+   [
+    "stand",
+    127.64
+   ],
+   [
+    "inside",
+    127.99
+   ]
+  ]
+ },
+ {
+  "s": 128.96,
+  "e": 131.39,
+  "text": "The workers there are mostly older ants,",
+  "words": [
+   [
+    "the",
+    128.96
+   ],
+   [
+    "workers",
+    129.18
+   ],
+   [
+    "there",
+    129.69
+   ],
+   [
+    "are",
+    130.06
+   ],
+   [
+    "mostly",
+    130.28
+   ],
+   [
+    "older",
+    130.72
+   ],
+   [
+    "ants",
+    131.09
+   ]
+  ]
+ },
+ {
+  "s": 131.69,
+  "e": 133.4,
+  "text": "kept apart from everyone else.",
+  "words": [
+   [
+    "kept",
+    131.69
+   ],
+   [
+    "apart",
+    131.96
+   ],
+   [
+    "from",
+    132.3
+   ],
+   [
+    "everyone",
+    132.58
+   ],
+   [
+    "else",
+    133.12
+   ]
+  ]
+ },
+ {
+  "s": 133.95,
+  "e": 136.34,
+  "text": "A city this big has one more problem.",
+  "words": [
+   [
+    "a",
+    133.95
+   ],
+   [
+    "city",
+    134.03
+   ],
+   [
+    "this",
+    134.36
+   ],
+   [
+    "big",
+    134.69
+   ],
+   [
+    "has",
+    134.94
+   ],
+   [
+    "one",
+    135.18
+   ],
+   [
+    "more",
+    135.43
+   ],
+   [
+    "problem",
+    135.76
+   ]
+  ]
+ },
+ {
+  "s": 136.89,
+  "e": 137.57,
+  "text": "Breathing.",
+  "words": [
+   [
+    "breathing",
+    136.89
+   ]
+  ]
+ },
+ {
+  "s": 138.12,
+  "e": 141.96,
+  "text": "All that fungus and all those ants make carbon dioxide.",
+  "words": [
+   [
+    "all",
+    138.12
+   ],
+   [
+    "that",
+    138.38
+   ],
+   [
+    "fungus",
+    138.72
+   ],
+   [
+    "and",
+    139.23
+   ],
+   [
+    "all",
+    139.49
+   ],
+   [
+    "those",
+    139.74
+   ],
+   [
+    "ants",
+    140.17
+   ],
+   [
+    "make",
+    140.51
+   ],
+   [
+    "carbon",
+    140.85
+   ],
+   [
+    "dioxide",
+    141.36
+   ]
+  ]
+ },
+ {
+  "s": 142.51,
+  "e": 143.79,
+  "text": "The ants can handle it.",
+  "words": [
+   [
+    "the",
+    142.51
+   ],
+   [
+    "ants",
+    142.72
+   ],
+   [
+    "can",
+    143.01
+   ],
+   [
+    "handle",
+    143.22
+   ],
+   [
+    "it",
+    143.65
+   ]
+  ]
+ },
+ {
+  "s": 144.34,
+  "e": 145.53,
+  "text": "Their fungus can't.",
+  "words": [
+   [
+    "their",
+    144.34
+   ],
+   [
+    "fungus",
+    144.74
+   ],
+   [
+    "cant",
+    145.21
+   ]
+  ]
+ },
+ {
+  "s": 146.08,
+  "e": 148.01,
+  "text": "So one species builds chimneys.",
+  "words": [
+   [
+    "so",
+    146.08
+   ],
+   [
+    "one",
+    146.23
+   ],
+   [
+    "species",
+    146.45
+   ],
+   [
+    "builds",
+    146.97
+   ],
+   [
+    "chimneys",
+    147.42
+   ]
+  ]
+ },
+ {
+  "s": 148.56,
+  "e": 150.51,
+  "text": "When wind blows across the mound,",
+  "words": [
+   [
+    "when",
+    148.56
+   ],
+   [
+    "wind",
+    148.85
+   ],
+   [
+    "blows",
+    149.14
+   ],
+   [
+    "across",
+    149.5
+   ],
+   [
+    "the",
+    149.93
+   ],
+   [
+    "mound",
+    150.15
+   ]
+  ]
+ },
+ {
+  "s": 150.81,
+  "e": 153.05,
+  "text": "it pulls stale air out of the top holes,",
+  "words": [
+   [
+    "it",
+    150.81
+   ],
+   [
+    "pulls",
+    150.95
+   ],
+   [
+    "stale",
+    151.31
+   ],
+   [
+    "air",
+    151.68
+   ],
+   [
+    "out",
+    151.89
+   ],
+   [
+    "of",
+    152.11
+   ],
+   [
+    "the",
+    152.25
+   ],
+   [
+    "top",
+    152.47
+   ],
+   [
+    "holes",
+    152.69
+   ]
+  ]
+ },
+ {
+  "s": 153.35,
+  "e": 155.0,
+  "text": "and fresh air gets drawn in.",
+  "words": [
+   [
+    "and",
+    153.35
+   ],
+   [
+    "fresh",
+    153.58
+   ],
+   [
+    "air",
+    153.95
+   ],
+   [
+    "gets",
+    154.18
+   ],
+   [
+    "drawn",
+    154.48
+   ],
+   [
+    "in",
+    154.85
+   ]
+  ]
+ },
+ {
+  "s": 155.55,
+  "e": 158.58,
+  "text": "Those turrets can boost the airflow up to ten times.",
+  "words": [
+   [
+    "those",
+    155.55
+   ],
+   [
+    "turrets",
+    155.91
+   ],
+   [
+    "can",
+    156.42
+   ],
+   [
+    "boost",
+    156.63
+   ],
+   [
+    "the",
+    156.99
+   ],
+   [
+    "airflow",
+    157.21
+   ],
+   [
+    "up",
+    157.71
+   ],
+   [
+    "to",
+    157.86
+   ],
+   [
+    "ten",
+    158.0
+   ],
+   [
+    "times",
+    158.22
+   ]
+  ]
+ },
+ {
+  "s": 159.13,
+  "e": 161.0,
+  "text": "No fans. No electricity.",
+  "words": [
+   [
+    "no",
+    159.13
+   ],
+   [
+    "fans",
+    159.32
+   ],
+   [
+    "no",
+    159.72
+   ],
+   [
+    "electricity",
+    159.91
+   ]
+  ]
+ },
+ {
+  "s": 161.55,
+  "e": 162.99,
+  "text": "So who started all this?",
+  "words": [
+   [
+    "so",
+    161.55
+   ],
+   [
+    "who",
+    161.7
+   ],
+   [
+    "started",
+    161.93
+   ],
+   [
+    "all",
+    162.46
+   ],
+   [
+    "this",
+    162.69
+   ]
+  ]
+ },
+ {
+  "s": 163.54,
+  "e": 164.33,
+  "text": "The queen.",
+  "words": [
+   [
+    "the",
+    163.54
+   ],
+   [
+    "queen",
+    163.84
+   ]
+  ]
+ },
+ {
+  "s": 164.88,
+  "e": 166.74,
+  "text": "She can live up to fifteen years,",
+  "words": [
+   [
+    "she",
+    164.88
+   ],
+   [
+    "can",
+    165.1
+   ],
+   [
+    "live",
+    165.31
+   ],
+   [
+    "up",
+    165.6
+   ],
+   [
+    "to",
+    165.74
+   ],
+   [
+    "fifteen",
+    165.88
+   ],
+   [
+    "years",
+    166.38
+   ]
+  ]
+ },
+ {
+  "s": 167.04,
+  "e": 170.52,
+  "text": "and by one estimate, lay a hundred fifty million eggs.",
+  "words": [
+   [
+    "and",
+    167.04
+   ],
+   [
+    "by",
+    167.28
+   ],
+   [
+    "one",
+    167.44
+   ],
+   [
+    "estimate",
+    167.69
+   ],
+   [
+    "lay",
+    168.33
+   ],
+   [
+    "a",
+    168.58
+   ],
+   [
+    "hundred",
+    168.66
+   ],
+   [
+    "fifty",
+    169.23
+   ],
+   [
+    "million",
+    169.63
+   ],
+   [
+    "eggs",
+    170.2
+   ]
+  ]
+ },
+ {
+  "s": 171.07,
+  "e": 173.13,
+  "text": "But her story begins with one flight.",
+  "words": [
+   [
+    "but",
+    171.07
+   ],
+   [
+    "her",
+    171.28
+   ],
+   [
+    "story",
+    171.48
+   ],
+   [
+    "begins",
+    171.83
+   ],
+   [
+    "with",
+    172.24
+   ],
+   [
+    "one",
+    172.51
+   ],
+   [
+    "flight",
+    172.72
+   ]
+  ]
+ },
+ {
+  "s": 173.68,
+  "e": 177.66,
+  "text": "A young queen leaves home with a tiny pellet of fungus in her mouth.",
+  "words": [
+   [
+    "a",
+    173.68
+   ],
+   [
+    "young",
+    173.75
+   ],
+   [
+    "queen",
+    174.12
+   ],
+   [
+    "leaves",
+    174.49
+   ],
+   [
+    "home",
+    174.93
+   ],
+   [
+    "with",
+    175.23
+   ],
+   [
+    "a",
+    175.52
+   ],
+   [
+    "tiny",
+    175.59
+   ],
+   [
+    "pellet",
+    175.89
+   ],
+   [
+    "of",
+    176.33
+   ],
+   [
+    "fungus",
+    176.48
+   ],
+   [
+    "in",
+    176.92
+   ],
+   [
+    "her",
+    177.07
+   ],
+   [
+    "mouth",
+    177.29
+   ]
+  ]
+ },
+ {
+  "s": 178.21,
+  "e": 179.77,
+  "text": "That's her whole inheritance.",
+  "words": [
+   [
+    "thats",
+    178.21
+   ],
+   [
+    "her",
+    178.53
+   ],
+   [
+    "whole",
+    178.73
+   ],
+   [
+    "inheritance",
+    179.06
+   ]
+  ]
+ },
+ {
+  "s": 180.32,
+  "e": 183.66,
+  "text": "She digs in, seals herself underground, and plants it.",
+  "words": [
+   [
+    "she",
+    180.32
+   ],
+   [
+    "digs",
+    180.56
+   ],
+   [
+    "in",
+    180.87
+   ],
+   [
+    "seals",
+    181.02
+   ],
+   [
+    "herself",
+    181.41
+   ],
+   [
+    "underground",
+    181.95
+   ],
+   [
+    "and",
+    182.8
+   ],
+   [
+    "plants",
+    183.04
+   ],
+   [
+    "it",
+    183.5
+   ]
+  ]
+ },
+ {
+  "s": 184.21,
+  "e": 187.97,
+  "text": "Only about two and a half percent build a colony that lasts.",
+  "words": [
+   [
+    "only",
+    184.21
+   ],
+   [
+    "about",
+    184.52
+   ],
+   [
+    "two",
+    184.91
+   ],
+   [
+    "and",
+    185.15
+   ],
+   [
+    "a",
+    185.38
+   ],
+   [
+    "half",
+    185.46
+   ],
+   [
+    "percent",
+    185.77
+   ],
+   [
+    "build",
+    186.32
+   ],
+   [
+    "a",
+    186.71
+   ],
+   [
+    "colony",
+    186.79
+   ],
+   [
+    "that",
+    187.26
+   ],
+   [
+    "lasts",
+    187.58
+   ]
+  ]
+ },
+ {
+  "s": 188.52,
+  "e": 191.34,
+  "text": "But the winners can end up with seven thousand rooms,",
+  "words": [
+   [
+    "but",
+    188.52
+   ],
+   [
+    "the",
+    188.72
+   ],
+   [
+    "winners",
+    188.91
+   ],
+   [
+    "can",
+    189.37
+   ],
+   [
+    "end",
+    189.57
+   ],
+   [
+    "up",
+    189.77
+   ],
+   [
+    "with",
+    189.9
+   ],
+   [
+    "seven",
+    190.16
+   ],
+   [
+    "thousand",
+    190.49
+   ],
+   [
+    "rooms",
+    191.01
+   ]
+  ]
+ },
+ {
+  "s": 191.64,
+  "e": 193.23,
+  "text": "more than twenty feet deep.",
+  "words": [
+   [
+    "more",
+    191.64
+   ],
+   [
+    "than",
+    191.93
+   ],
+   [
+    "twenty",
+    192.22
+   ],
+   [
+    "feet",
+    192.65
+   ],
+   [
+    "deep",
+    192.94
+   ]
+  ]
+ },
+ {
+  "s": 193.78,
+  "e": 196.99,
+  "text": "So next time you see a leaf walking across the ground,",
+  "words": [
+   [
+    "so",
+    193.78
+   ],
+   [
+    "next",
+    193.93
+   ],
+   [
+    "time",
+    194.23
+   ],
+   [
+    "you",
+    194.52
+   ],
+   [
+    "see",
+    194.75
+   ],
+   [
+    "a",
+    194.97
+   ],
+   [
+    "leaf",
+    195.05
+   ],
+   [
+    "walking",
+    195.35
+   ],
+   [
+    "across",
+    195.87
+   ],
+   [
+    "the",
+    196.32
+   ],
+   [
+    "ground",
+    196.54
+   ]
+  ]
+ },
+ {
+  "s": 197.29,
+  "e": 198.62,
+  "text": "remember where it's going.",
+  "words": [
+   [
+    "remember",
+    197.29
+   ],
+   [
+    "where",
+    197.8
+   ],
+   [
+    "its",
+    198.11
+   ],
+   [
+    "going",
+    198.3
+   ]
+  ]
+ },
+ {
+  "s": 199.17,
+  "e": 201.64,
+  "text": "It's headed to a farm far older than us.",
+  "words": [
+   [
+    "its",
+    199.17
+   ],
+   [
+    "headed",
+    199.42
+   ],
+   [
+    "to",
+    199.91
+   ],
+   [
+    "a",
+    200.07
+   ],
+   [
+    "farm",
+    200.16
+   ],
+   [
+    "far",
+    200.49
+   ],
+   [
+    "older",
+    200.73
+   ],
+   [
+    "than",
+    201.14
+   ],
+   [
+    "us",
+    201.47
+   ]
+  ]
+ },
+ {
+  "s": 202.19,
+  "e": 206.14,
+  "text": "Next up, another insect city, where workers talk by dancing.",
+  "words": [
+   [
+    "next",
+    202.19
+   ],
+   [
+    "up",
+    202.52
+   ],
+   [
+    "another",
+    202.68
+   ],
+   [
+    "insect",
+    203.26
+   ],
+   [
+    "city",
+    203.75
+   ],
+   [
+    "where",
+    204.08
+   ],
+   [
+    "workers",
+    204.49
+   ],
+   [
+    "talk",
+    205.07
+   ],
+   [
+    "by",
+    205.4
+   ],
+   [
+    "dancing",
+    205.56
+   ]
+  ]
+ },
+ {
+  "s": 206.69,
+  "e": 208.5,
+  "text": "How does a honeybee hive work?",
+  "words": [
+   [
+    "how",
+    206.69
+   ],
+   [
+    "does",
+    206.92
+   ],
+   [
+    "a",
+    207.22
+   ],
+   [
+    "honeybee",
+    207.29
+   ],
+   [
+    "hive",
+    207.9
+   ],
+   [
+    "work",
+    208.2
+   ]
+  ]
+ }
+]
