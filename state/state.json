@@ -378,183 +378,6 @@
     }
   },
   "videos": {
-    "2026-10-27-102": {
-      "topic": {
-        "title": "Electricity Explained in Simple Words: how power gets from the plant to your outlet",
-        "format": "long",
-        "angle": "Synthwave Outrun"
-      },
-      "package": {
-        "title": "How Electricity Reaches Your Outlet in 4 Stops",
-        "description": "How does electricity get from the power plant to your outlet? Electricity explained in simple words: how a generator's spinning magnet makes alternating current, why step-up transformers push power lines up to 765,000 volts, how substations and pole transformers bring it down to 120 volts, and what the hot, neutral and ground holes in your outlet do.\n\nChapters:\n0:00 From 765,000 volts to 120\n0:17 Stop 1: The power plant\n1:11 Stop 2: The voltage jump\n1:52 Stop 3: The step back down\n2:22 Stop 4: Your walls\n2:52 The wildest part\n\nSources:\nhttps://eli.lehigh.edu/support/electricity/electricity-generation-page-6\nhttps://www.scienceabc.com/nature/what-is-the-speed-of-electricity.html\nhttps://www.eia.gov/tools/faqs/faq.php?id=105\n\nAnimated in the Synthwave Outrun style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#science",
-          "#electricity",
-          "#howitworks"
-        ],
-        "tags": [
-          "electricity explained",
-          "how electricity works",
-          "how electricity gets to your house",
-          "power grid explained",
-          "how a generator works",
-          "alternating current",
-          "step-up transformer",
-          "high voltage power lines",
-          "substation",
-          "pole transformer",
-          "electrical outlet holes",
-          "hot neutral ground",
-          "electron drift speed",
-          "science explained",
-          "synthwave animation"
-        ],
-        "category": "27",
-        "pinned_comment": "Before this video, did you think the electrons themselves raced from the power plant to your outlet? \u26a1",
-        "thumbnail_text": "765,000 VOLTS",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "Up to seven hundred sixty-five thousand volts flow through the biggest power lines, yet your outlet gives you just a hundred twenty. Here's how. It all starts with a spinning magnet, maybe hundreds of miles away. So let's follow the trip, in simple words. Stop one: the power plant. Almost every power plant does the same job. It spins something. Coal, gas and nuclear plants boil water into steam. Dams use falling water. Wind farms use, well, wind. All of it pushes the blades of a turbine, and the turbine spins a giant magnet inside coils of copper wire. Here's the trick, found by Michael Faraday back in 1831. When a magnet moves past a wire, it shoves the electrons inside that wire. Spin it nonstop, and you get a nonstop push. That push is electricity. And because the magnet keeps flipping north and south, the push swings back and forth too. In the US, it swings sixty times every second. In most of the world, it's fifty. That's called alternating current. Stop two: the voltage jump. A generator makes about twenty thousand volts. But right outside the plant, a step-up transformer cranks it way higher, up to seven hundred sixty-five thousand volts on the biggest lines. Why make it so extreme? Think of a garden hose. You can move a lot of water slowly through a fat hose, or the same water super fast through a thin one. Power lines work the same way. Crank the voltage up, and the current, the flow, drops way down. Less current means less heat wasted in the wires. Even so, about five percent of the power is lost as heat along the way. Stop three: the step back down. Seven hundred thousand volts would fry your toaster instantly. So the lines run into a substation, where big transformers drop it to a few thousand volts. Those smaller lines run down your street. Then one last transformer, that gray can on the pole, or a green box on the lawn, brings it down to what your house uses: a hundred twenty volts in the US, around two hundred thirty in much of the world. Stop four: your walls. The wire enters through a meter, which counts every bit you use, and then a breaker panel, which cuts the power if a wire gets too hot. From there, cables run to every outlet. And those holes aren't random. On a US outlet, the short slot is hot. That's where the push comes in. The tall slot is neutral, the path back. And the round hole is ground, a safety exit if something goes wrong. Now the wildest part. Flip a switch, and the light turns on instantly. But the electrons in the wire barely move. They crawl slower than a snail, mostly just wiggling back and forth. What races through the wire is the push itself, moving at close to the speed of light. So the energy in your charger left that spinning magnet a split second ago. Twenty thousand volts, then seven hundred sixty-five thousand, then down to the wall, all in the blink of an eye. Next time: if Earth is spinning so fast, why don't we fly off?",
-        "key_facts": [
-          "Most power plants spin a turbine (steam from coal, gas or nuclear; falling water; wind) that turns a magnet inside copper coils; Faraday discovered electromagnetic induction in 1831",
-          "Grid power is alternating current: 60 Hz in the US, 50 Hz in most of the world",
-          "Generators put out roughly 20,000 volts (commonly cited 10,000-25,000); step-up transformers raise it to as much as 765,000 V on the biggest US lines",
-          "Higher voltage means lower current for the same power, so less is lost as heat; about 5% of US electricity is lost in transmission and distribution (EIA estimate)",
-          "Substations step down to a few thousand volts for distribution; pole-top or pad-mounted transformers bring it to 120/240 V in US homes (about 230 V in much of the world)",
-          "On a US outlet the shorter slot is hot, the taller slot is neutral and the round hole is ground",
-          "Electrons drift slowly (fractions of a millimetre per second) while the electrical signal/energy travels at a large fraction of the speed of light"
-        ],
-        "voice": "Kokoro",
-        "format": "long",
-        "style": "Synthwave Outrun"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261027-electricity",
-      "redos": 0,
-      "updated": "2026-10-28T07:23:15.957548+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Synthwave Outrun style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-27",
-        "name": "2026-10-27-102.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-27",
-        "name": "2026-10-27-102-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:03,010\nUp to seven hundred sixty-five thousand volts\n\n2\n00:00:03,310 --> 00:00:05,220\nflow through the biggest power lines,\n\n3\n00:00:05,520 --> 00:00:08,260\nyet your outlet gives you just a hundred twenty.\n\n4\n00:00:08,810 --> 00:00:09,670\nHere's how.\n\n5\n00:00:10,220 --> 00:00:12,190\nIt all starts with a spinning magnet,\n\n6\n00:00:12,490 --> 00:00:14,330\nmaybe hundreds of miles away.\n\n7\n00:00:14,880 --> 00:00:17,330\nSo let's follow the trip, in simple words.\n\n8\n00:00:17,880 --> 00:00:19,490\nStop one: the power plant.\n\n9\n00:00:20,040 --> 00:00:22,730\nAlmost every power plant does the same job.\n\n10\n00:00:23,280 --> 00:00:24,460\nIt spins something.\n\n11\n00:00:25,010 --> 00:00:28,440\nCoal, gas and nuclear plants boil water into steam.\n\n12\n00:00:28,990 --> 00:00:30,480\nDams use falling water.\n\n13\n00:00:31,030 --> 00:00:32,960\nWind farms use, well, wind.\n\n14\n00:00:33,510 --> 00:00:35,860\nAll of it pushes the blades of a turbine,\n\n15\n00:00:36,160 --> 00:00:38,240\nand the turbine spins a giant magnet\n\n16\n00:00:38,540 --> 00:00:40,370\ninside coils of copper wire.\n\n17\n00:00:40,920 --> 00:00:46,070\nHere's the trick, found by Michael Faraday back in 1831.\n\n18\n00:00:46,620 --> 00:00:48,580\nWhen a magnet moves past a wire,\n\n19\n00:00:48,880 --> 00:00:51,320\nit shoves the electrons inside that wire.\n\n20\n00:00:51,870 --> 00:00:54,900\nSpin it nonstop, and you get a nonstop push.\n\n21\n00:00:55,450 --> 00:00:57,060\nThat push is electricity.\n\n22\n00:00:57,610 --> 00:01:00,230\nAnd because the magnet keeps flipping north and south,\n\n23\n00:01:00,530 --> 00:01:02,330\nthe push swings back and forth too.\n\n24\n00:01:02,880 --> 00:01:06,140\nIn the US, it swings sixty times every second.\n\n25\n00:01:06,690 --> 00:01:08,540\nIn most of the world, it's fifty.\n\n26\n00:01:09,090 --> 00:01:11,000\nThat's called alternating current.\n\n27\n00:01:11,550 --> 00:01:13,310\nStop two: the voltage jump.\n\n28\n00:01:13,860 --> 00:01:16,840\nA generator makes about twenty thousand volts.\n\n29\n00:01:17,390 --> 00:01:18,950\nBut right outside the plant,\n\n30\n00:01:19,250 --> 00:01:21,610\na step-up transformer cranks it way higher,\n\n31\n00:01:21,910 --> 00:01:24,670\nup to seven hundred sixty-five thousand volts\n\n32\n00:01:24,970 --> 00:01:26,280\non the biggest lines.\n\n33\n00:01:26,830 --> 00:01:28,370\nWhy make it so extreme?\n\n34\n00:01:28,920 --> 00:01:30,420\nThink of a garden hose.\n\n35\n00:01:30,970 --> 00:01:33,930\nYou can move a lot of water slowly through a fat hose,\n\n36\n00:01:34,230 --> 00:01:36,750\nor the same water super fast through a thin one.\n\n37\n00:01:37,300 --> 00:01:39,030\nPower lines work the same way.\n\n38\n00:01:39,580 --> 00:01:40,790\nCrank the voltage up,\n\n39\n00:01:41,090 --> 00:01:43,550\nand the current, the flow, drops way down.\n\n40\n00:01:44,100 --> 00:01:47,040\nLess current means less heat wasted in the wires.\n\n41\n00:01:47,590 --> 00:01:50,090\nEven so, about five percent of the power\n\n42\n00:01:50,390 --> 00:01:52,240\nis lost as heat along the way.\n\n43\n00:01:52,790 --> 00:01:54,620\nStop three: the step back down.\n\n44\n00:01:55,170 --> 00:01:59,020\nSeven hundred thousand volts would fry your toaster instantly.\n\n45\n00:01:59,570 --> 00:02:01,750\nSo the lines run into a substation,\n\n46\n00:02:02,050 --> 00:02:03,750\nwhere big transformers drop it\n\n47\n00:02:04,050 --> 00:02:05,620\nto a few thousand volts.\n\n48\n00:02:06,170 --> 00:02:08,390\nThose smaller lines run down your street.\n\n49\n00:02:08,940 --> 00:02:10,580\nThen one last transformer,\n\n50\n00:02:10,880 --> 00:02:14,240\nthat gray can on the pole, or a green box on the lawn,\n\n51\n00:02:14,540 --> 00:02:16,820\nbrings it down to what your house uses:\n\n52\n00:02:17,120 --> 00:02:19,150\na hundred twenty volts in the US,\n\n53\n00:02:19,450 --> 00:02:22,260\naround two hundred thirty in much of the world.\n\n54\n00:02:22,810 --> 00:02:24,340\nStop four: your walls.\n\n55\n00:02:24,890 --> 00:02:26,580\nThe wire enters through a meter,\n\n56\n00:02:26,880 --> 00:02:28,720\nwhich counts every bit you use,\n\n57\n00:02:29,020 --> 00:02:30,320\nand then a breaker panel,\n\n58\n00:02:30,620 --> 00:02:33,130\nwhich cuts the power if a wire gets too hot.\n\n59\n00:02:33,680 --> 00:02:36,040\nFrom there, cables run to every outlet.\n\n60\n00:02:36,590 --> 00:02:38,290\nAnd those holes aren't random.\n\n61\n00:02:38,840 --> 00:02:41,520\nOn a US outlet, the short slot is hot.\n\n62\n00:02:42,070 --> 00:02:43,510\nThat's where the push comes in.\n\n63\n00:02:44,060 --> 00:02:45,640\nThe tall slot is neutral,\n\n64\n00:02:45,940 --> 00:02:46,900\nthe path back.\n\n65\n00:02:47,450 --> 00:02:49,030\nAnd the round hole is ground,\n\n66\n00:02:49,330 --> 00:02:51,560\na safety exit if something goes wrong.\n\n67\n00:02:52,110 --> 00:02:53,490\nNow the wildest part.\n\n68\n00:02:54,040 --> 00:02:56,880\nFlip a switch, and the light turns on instantly.\n\n69\n00:02:57,430 --> 00:02:59,920\nBut the electrons in the wire barely move.\n\n70\n00:03:00,470 --> 00:03:02,110\nThey crawl slower than a snail,\n\n71\n00:03:02,410 --> 00:03:04,560\nmostly just wiggling back and forth.\n\n72\n00:03:05,110 --> 00:03:07,770\nWhat races through the wire is the push itself,\n\n73\n00:03:08,070 --> 00:03:09,910\nmoving at close to the speed of light.\n\n74\n00:03:10,460 --> 00:03:13,600\nSo the energy in your charger left that spinning magnet\n\n75\n00:03:13,900 --> 00:03:15,200\na split second ago.\n\n76\n00:03:15,750 --> 00:03:19,730\nTwenty thousand volts, then seven hundred sixty-five thousand,\n\n77\n00:03:20,030 --> 00:03:21,380\nthen down to the wall,\n\n78\n00:03:21,680 --> 00:03:23,180\nall in the blink of an eye.\n\n79\n00:03:23,730 --> 00:03:26,340\nNext time: if Earth is spinning so fast,\n\n80\n00:03:26,640 --> 00:03:27,920\nwhy don't we fly off?\n\n",
-      "tg_msg": 855,
-      "approved_by": "auto",
-      "quota_note": "2026-10-28",
-      "description_full": "How does electricity get from the power plant to your outlet? Electricity explained in simple words: how a generator's spinning magnet makes alternating current, why step-up transformers push power lines up to 765,000 volts, how substations and pole transformers bring it down to 120 volts, and what the hot, neutral and ground holes in your outlet do.\n\nChapters:\n0:00 From 765,000 volts to 120\n0:17 Stop 1: The power plant\n1:11 Stop 2: The voltage jump\n1:52 Stop 3: The step back down\n2:22 Stop 4: Your walls\n2:52 The wildest part\n\nSources:\nhttps://eli.lehigh.edu/support/electricity/electricity-generation-page-6\nhttps://www.scienceabc.com/nature/what-is-the-speed-of-electricity.html\nhttps://www.eia.gov/tools/faqs/faq.php?id=105\n\nAnimated in the Synthwave Outrun style.\n\nFollow Zorbly AI for a new Short every day.\n\n#science #electricity #howitworks\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Synthwave Outrun style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/itRVboUbEoc",
-          "private \u00b7 thumbnail \u2705"
-        ]
-      },
-      "uploaded_at": "2026-10-28T07:23:15.957566+00:00",
-      "slot": "2026-10-30T16:15:00+00:00"
-    },
-    "2026-10-27-103": {
-      "topic": {
-        "title": "How was Velcro invented?",
-        "format": "animated",
-        "angle": "Chalkboard Lesson"
-      },
-      "package": {
-        "title": "How a Weed Invented Velcro in 1941 \ud83e\udd14",
-        "description": "How was Velcro invented? In 1941 Swiss engineer George de Mestral found burdock burrs stuck to his dog after a hike, saw tiny hooks under a microscope, and spent about ten years copying them in nylon hook-and-loop tape, patented in 1955.\n\nSources:\nhttps://en.wikipedia.org/wiki/George_de_Mestral\nhttps://www.history.com/articles/velcro-invention\n\nAnimated in the Chalkboard Lesson style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#inventions",
-          "#howitworks",
-          "#velcro"
-        ],
-        "tags": [
-          "velcro",
-          "how was velcro invented",
-          "velcro invention",
-          "george de mestral",
-          "hook and loop",
-          "burdock burrs",
-          "biomimicry",
-          "invention stories",
-          "how it works",
-          "science shorts",
-          "history of inventions",
-          "everyday science",
-          "zorbly ai"
-        ],
-        "category": "27",
-        "pinned_comment": "Be honest: when your Velcro shoes rip open, do you blame the weed or the dog? \ud83d\udc47",
-        "thumbnail_text": "HOOKS + LOOPS",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "A weed invented your Velcro,\nin nineteen forty-one,\nand almost nobody believed it.\nA Swiss engineer, George de Mestral,\ntook his dog hiking in the Alps.\nThey came home covered in burrs,\nthe spiky seed heads of burdock.\nUnder a microscope,\nevery spike ended in a tiny hook,\nand his clothes were full of tiny loops.\nHook meets loop,\nand they grab on.\nSo he tried to copy it.\nCotton wore out too fast.\nNylon worked,\nsewn under hot infrared light\ninto stiff little hooks.\nIt took him about ten years,\nand the patent came in nineteen fifty-five.\nHe named it from two French words,\nvelours, for velvet,\nand crochet, for hook.\nAstronauts used it\nto keep snack pouches from floating away.\nSo when your shoe straps rip open,\ndo you blame the weed, or the dog?",
-        "key_facts": [
-          "In 1941, after a hunting trip in the Alps with his dog, George de Mestral found burdock burrs stuck to his clothes and the dog's fur",
-          "Under a microscope the burrs showed many tiny hooks that caught on loops in fabric and fur",
-          "Early cotton versions wore out quickly; nylon proved durable",
-          "Nylon hooks were formed by sewing nylon under hot infrared light",
-          "Development took about ten years; Swiss patent filed 1951, granted 1955",
-          "The name Velcro blends French velours (velvet) and crochet (hook)",
-          "NASA used Velcro on Apollo missions, including to hold food pouches in place in zero gravity"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Chalkboard Lesson"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261027-velcro",
-      "redos": 0,
-      "updated": "2026-10-28T07:23:19.765025+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Chalkboard Lesson style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-27",
-        "name": "2026-10-27-103.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-27",
-        "name": "2026-10-27-103-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:02,100\nA weed invented your Velcro,\n\n2\n00:00:02,400 --> 00:00:03,800\nin nineteen forty-one,\n\n3\n00:00:04,100 --> 00:00:05,820\nand almost nobody believed it.\n\n4\n00:00:06,370 --> 00:00:08,780\nA Swiss engineer, George de Mestral,\n\n5\n00:00:09,080 --> 00:00:10,980\ntook his dog hiking in the Alps.\n\n6\n00:00:11,530 --> 00:00:13,450\nThey came home covered in burrs,\n\n7\n00:00:13,750 --> 00:00:15,670\nthe spiky seed heads of burdock.\n\n8\n00:00:16,220 --> 00:00:17,440\nUnder a microscope,\n\n9\n00:00:17,740 --> 00:00:19,750\nevery spike ended in a tiny hook,\n\n10\n00:00:20,050 --> 00:00:22,310\nand his clothes were full of tiny loops.\n\n11\n00:00:22,860 --> 00:00:23,980\nHook meets loop,\n\n12\n00:00:24,280 --> 00:00:25,320\nand they grab on.\n\n13\n00:00:25,870 --> 00:00:27,210\nSo he tried to copy it.\n\n14\n00:00:27,760 --> 00:00:29,320\nCotton wore out too fast.\n\n15\n00:00:29,870 --> 00:00:30,930\nNylon worked,\n\n16\n00:00:31,230 --> 00:00:33,010\nsewn under hot infrared light\n\n17\n00:00:33,310 --> 00:00:34,640\ninto stiff little hooks.\n\n18\n00:00:35,190 --> 00:00:36,730\nIt took him about ten years,\n\n19\n00:00:37,030 --> 00:00:39,300\nand the patent came in nineteen fifty-five.\n\n20\n00:00:39,850 --> 00:00:41,730\nHe named it from two French words,\n\n21\n00:00:42,030 --> 00:00:43,200\nvelours, for velvet,\n\n22\n00:00:43,500 --> 00:00:44,750\nand crochet, for hook.\n\n23\n00:00:45,300 --> 00:00:46,490\nAstronauts used it\n\n24\n00:00:46,790 --> 00:00:49,060\nto keep snack pouches from floating away.\n\n25\n00:00:49,610 --> 00:00:51,400\nSo when your shoe straps rip open,\n\n26\n00:00:51,700 --> 00:00:53,600\ndo you blame the weed, or the dog?\n\n",
-      "tg_msg": 856,
-      "approved_by": "auto",
-      "quota_note": "2026-10-28",
-      "description_full": "How was Velcro invented? In 1941 Swiss engineer George de Mestral found burdock burrs stuck to his dog after a hike, saw tiny hooks under a microscope, and spent about ten years copying them in nylon hook-and-loop tape, patented in 1955.\n\nSources:\nhttps://en.wikipedia.org/wiki/George_de_Mestral\nhttps://www.history.com/articles/velcro-invention\n\nAnimated in the Chalkboard Lesson style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #inventions #howitworks #velcro\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Chalkboard Lesson style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/4IsJYUiyWGg",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-28T07:23:19.765043+00:00",
-      "slot": "2026-10-30T19:15:00+00:00"
-    },
     "2026-10-27-104": {
       "topic": {
         "title": "What happens when a pufferfish puffs up?",
@@ -3131,12 +2954,12 @@
         "format": "animated",
         "style": "Flat-Vector Science"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261102-cat-eyeshine",
       "redos": 0,
-      "updated": "2026-11-02T19:59:04.280210+00:00",
+      "updated": "2026-11-02T22:47:48.056637+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech."
       ],
@@ -3151,7 +2974,29 @@
         "name": "2026-11-02-102-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:01,600\nCat eyes never glow,\n\n2\n00:00:01,900 --> 00:00:04,880\nthat shine is your own flashlight bouncing back at you.\n\n3\n00:00:05,430 --> 00:00:07,060\nLight comes in through the pupil,\n\n4\n00:00:07,360 --> 00:00:09,550\nand hits the retina at the back of the eye.\n\n5\n00:00:10,100 --> 00:00:11,420\nTiny cells catch it,\n\n6\n00:00:11,720 --> 00:00:13,320\nand send a picture to the brain.\n\n7\n00:00:13,870 --> 00:00:14,850\nBut in your eye,\n\n8\n00:00:15,150 --> 00:00:16,950\nsome light slips right past them,\n\n9\n00:00:17,250 --> 00:00:18,170\nand it's gone.\n\n10\n00:00:18,720 --> 00:00:20,410\nA cat gets a second chance.\n\n11\n00:00:20,960 --> 00:00:23,260\nBehind its retina sits a shiny layer,\n\n12\n00:00:23,560 --> 00:00:25,130\ncalled the tapetum lucidum.\n\n13\n00:00:25,680 --> 00:00:26,970\nIt works like a mirror,\n\n14\n00:00:27,270 --> 00:00:29,520\nbouncing missed light back through the retina.\n\n15\n00:00:30,070 --> 00:00:32,900\nSo a cat needs just one-sixth of the light you do.\n\n16\n00:00:33,450 --> 00:00:34,910\nWhatever still isn't caught,\n\n17\n00:00:35,210 --> 00:00:36,580\nshoots back out of the eye.\n\n18\n00:00:37,130 --> 00:00:38,140\nThat's the shine,\n\n19\n00:00:38,440 --> 00:00:39,810\noften green or yellow.\n\n20\n00:00:40,360 --> 00:00:41,430\nNo light at all?\n\n21\n00:00:41,980 --> 00:00:43,780\nNo shine, and no sight either.\n\n22\n00:00:44,330 --> 00:00:46,510\nEver caught your cat's eyes shining at night?\n\n23\n00:00:47,060 --> 00:00:48,160\nWhat color were they?\n\n",
-      "tg_msg": 993
+      "tg_msg": 993,
+      "approved_by": "auto",
+      "description_full": "Why do cats' eyes glow in the dark? They don't make light: a mirror-like layer behind the retina, the tapetum lucidum, bounces light back through the eye for a second chance, which helps cats see in about one-sixth of the light humans need.\n\nSources:\nhttps://www.npr.org/2008/10/31/96414364/why-do-animals-eyes-glow-in-the-dark\nhttps://www.catster.com/lifestyle/why-do-cat-eyes-glow-in-the-dark\nhttps://www.purina.co.uk/articles/cats/behaviour/common-questions/can-cats-see-in-the-dark\n\nAnimated in the Flat-Vector Science style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #cats #science #animals\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/XF_2492Ls-w",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-02T22:47:48.056655+00:00",
+      "slot": "2026-11-07T00:15:00+00:00"
     },
     "2026-11-02-103": {
       "topic": {
@@ -3201,12 +3046,12 @@
         "format": "animated",
         "style": "Napkin Sketch"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261102-cat-purr",
       "redos": 0,
-      "updated": "2026-11-02T19:59:15.926783+00:00",
+      "updated": "2026-11-02T22:47:55.240465+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Napkin Sketch style). Voice: Kokoro text-to-speech."
       ],
@@ -3221,7 +3066,29 @@
         "name": "2026-11-02-103-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:01,800\nYour cat's purr is a twitch,\n\n2\n00:00:02,100 --> 00:00:03,740\ntwenty-five times a second.\n\n3\n00:00:04,290 --> 00:00:05,030\nBut how?\n\n4\n00:00:05,580 --> 00:00:07,830\nDeep in the throat sits the voice box,\n\n5\n00:00:08,130 --> 00:00:10,080\nwith a tiny gap called the glottis.\n\n6\n00:00:10,630 --> 00:00:11,740\nA signal from the brain\n\n7\n00:00:12,040 --> 00:00:13,890\nmakes the muscles around it twitch,\n\n8\n00:00:14,190 --> 00:00:15,930\nsnapping that gap open and shut.\n\n9\n00:00:16,480 --> 00:00:17,500\nAir rushes in,\n\n10\n00:00:17,800 --> 00:00:19,630\nand the gap chops it into bursts.\n\n11\n00:00:20,180 --> 00:00:21,150\nAir flows out,\n\n12\n00:00:21,450 --> 00:00:22,740\nand it chops it again.\n\n13\n00:00:23,290 --> 00:00:25,260\nThat's why a purr just keeps going.\n\n14\n00:00:25,810 --> 00:00:28,990\nIn twenty twenty-three, scientists found another clue:\n\n15\n00:00:29,290 --> 00:00:31,690\ntiny pads inside the vocal folds,\n\n16\n00:00:31,990 --> 00:00:34,730\nwhich may help a small cat hit such a low note.\n\n17\n00:00:35,280 --> 00:00:37,030\nBobcats and cheetahs purr too,\n\n18\n00:00:37,330 --> 00:00:39,460\nbut lions and tigers don't seem to.\n\n19\n00:00:40,010 --> 00:00:42,100\nAnd a purr doesn't always mean happy.\n\n20\n00:00:42,650 --> 00:00:44,220\nCats also purr at the vet,\n\n21\n00:00:44,520 --> 00:00:45,670\nor when they're hurt.\n\n22\n00:00:46,220 --> 00:00:48,160\nSo when yours starts twitching away,\n\n23\n00:00:48,460 --> 00:00:50,320\ndo you think it's happy, or worried?\n\n",
-      "tg_msg": 994
+      "tg_msg": 994,
+      "approved_by": "auto",
+      "description_full": "How do cats purr? Muscles in the voice box twitch about 25 times a second, snapping the glottis open and shut as the cat breathes in and out, and a 2023 study found pads in the vocal folds that may help make that low sound.\n\nSources:\nhttps://www.scientificamerican.com/article/why-do-cats-purr/\nhttps://medienportal.univie.ac.at/en/media/recent-press-releases/detailansicht-en/artikel/cats-purr-differently-than-previously-thought\nhttps://www.mentalfloss.com/animals/cats/how-do-cats-purr\n\nAnimated in the Napkin Sketch style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #cats #science #animals\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Napkin Sketch style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/tPJ0QouhF-s",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-02T22:47:55.240483+00:00",
+      "slot": "2026-11-07T02:15:00+00:00"
     },
     "2026-11-02-104": {
       "topic": {
@@ -3272,7 +3139,7 @@
         "format": "long",
         "style": "Cut-Paper Diorama"
       },
-      "status": "awaiting_approval",
+      "status": "approved",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261102-leafcutter-city",
@@ -3292,7 +3159,9 @@
         "name": "2026-11-02-104-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:03,070\nAnts built farms fifty million years before you,\n\n2\n00:00:03,370 --> 00:00:04,690\nand you'd never spot them.\n\n3\n00:00:05,240 --> 00:00:07,690\nAnd right now, under a rainforest floor,\n\n4\n00:00:07,990 --> 00:00:10,660\nthere's an ant city with millions of citizens,\n\n5\n00:00:10,960 --> 00:00:12,200\nthousands of rooms,\n\n6\n00:00:12,500 --> 00:00:13,990\nfarms, garbage dumps,\n\n7\n00:00:14,290 --> 00:00:15,940\nand its own air conditioning.\n\n8\n00:00:16,490 --> 00:00:19,510\nSo what actually happens inside a leafcutter ant city?\n\n9\n00:00:20,060 --> 00:00:21,850\nIt starts up here, on the road.\n\n10\n00:00:22,400 --> 00:00:26,610\nLeafcutter ants march along forest trails in long green parades.\n\n11\n00:00:27,160 --> 00:00:30,340\nEach worker slices off a piece of leaf with her jaws,\n\n12\n00:00:30,640 --> 00:00:31,880\nthen hauls it home,\n\n13\n00:00:32,180 --> 00:00:34,330\ncarrying up to ten times her own weight.\n\n14\n00:00:34,880 --> 00:00:37,660\nThat's like you jogging home with a cow on your back.\n\n15\n00:00:38,210 --> 00:00:39,220\nBut look closer.\n\n16\n00:00:39,770 --> 00:00:42,610\nThere's a tiny ant riding on top of that leaf.\n\n17\n00:00:43,160 --> 00:00:44,430\nShe's the bodyguard.\n\n18\n00:00:44,980 --> 00:00:47,890\nTiny flies try to lay eggs in the carriers' heads,\n\n19\n00:00:48,190 --> 00:00:50,410\nso this little passenger fends them off.\n\n20\n00:00:50,960 --> 00:00:53,760\nBecause in this city, everybody has a job,\n\n21\n00:00:54,060 --> 00:00:56,350\nand your size is your job description.\n\n22\n00:00:56,900 --> 00:00:58,850\nThe tiniest ants, called minims,\n\n23\n00:00:59,150 --> 00:01:01,250\nhave heads less than a millimeter wide.\n\n24\n00:01:01,800 --> 00:01:04,170\nThey look after the babies and the gardens.\n\n25\n00:01:04,720 --> 00:01:07,510\nMedium ants are the foragers you just met.\n\n26\n00:01:08,060 --> 00:01:09,850\nAnd the giants are the soldiers,\n\n27\n00:01:10,150 --> 00:01:12,550\nwith heads up to seven millimeters wide.\n\n28\n00:01:13,100 --> 00:01:15,200\nNow, follow the leaves underground.\n\n29\n00:01:15,750 --> 00:01:16,810\nHere's the twist.\n\n30\n00:01:17,360 --> 00:01:18,690\nThey don't really eat them.\n\n31\n00:01:19,240 --> 00:01:20,540\nThey'll sip a little sap,\n\n32\n00:01:20,840 --> 00:01:22,710\nbut the leaf is just fertilizer.\n\n33\n00:01:23,260 --> 00:01:26,070\nSmaller ants snip each piece into tiny bits.\n\n34\n00:01:26,620 --> 00:01:28,890\nGardeners crush those bits into pellets,\n\n35\n00:01:29,190 --> 00:01:30,830\nadd a drop of their own poop,\n\n36\n00:01:31,130 --> 00:01:33,830\nand press it all into a giant spongy garden.\n\n37\n00:01:34,380 --> 00:01:36,080\nWhat grows there is a fungus.\n\n38\n00:01:36,630 --> 00:01:37,860\nThat's the real food.\n\n39\n00:01:38,410 --> 00:01:40,200\nIt feeds babies and adults,\n\n40\n00:01:40,500 --> 00:01:43,680\nand they've been passing this crop down for millions of years.\n\n41\n00:01:44,230 --> 00:01:46,440\nBut every farmer has a weed problem.\n\n42\n00:01:46,990 --> 00:01:49,460\nA rival fungus can wreck the whole crop.\n\n43\n00:01:50,010 --> 00:01:52,660\nSo the ants wear a white powder on their bodies.\n\n44\n00:01:53,210 --> 00:01:54,720\nThat powder is bacteria,\n\n45\n00:01:55,020 --> 00:01:57,740\nand it makes antibiotics that hold the weed back.\n\n46\n00:01:58,290 --> 00:02:01,090\nInfected patches get chopped out and dragged away,\n\n47\n00:02:01,390 --> 00:02:02,950\nwhich brings us to the trash.\n\n48\n00:02:03,500 --> 00:02:05,870\nWaste goes to separate garbage rooms,\n\n49\n00:02:06,170 --> 00:02:08,410\nsome big enough for you to stand inside.\n\n50\n00:02:08,960 --> 00:02:11,390\nThe workers there are mostly older ants,\n\n51\n00:02:11,690 --> 00:02:13,400\nkept apart from everyone else.\n\n52\n00:02:13,950 --> 00:02:16,340\nA city this big has one more problem.\n\n53\n00:02:16,890 --> 00:02:17,570\nBreathing.\n\n54\n00:02:18,120 --> 00:02:21,960\nAll that fungus and all those ants make carbon dioxide.\n\n55\n00:02:22,510 --> 00:02:23,790\nThe ants can handle it.\n\n56\n00:02:24,340 --> 00:02:25,530\nTheir fungus can't.\n\n57\n00:02:26,080 --> 00:02:28,010\nSo one species builds chimneys.\n\n58\n00:02:28,560 --> 00:02:30,510\nWhen wind blows across the mound,\n\n59\n00:02:30,810 --> 00:02:33,050\nit pulls stale air out of the top holes,\n\n60\n00:02:33,350 --> 00:02:35,000\nand fresh air gets drawn in.\n\n61\n00:02:35,550 --> 00:02:38,580\nThose turrets can boost the airflow up to ten times.\n\n62\n00:02:39,130 --> 00:02:41,000\nNo fans. No electricity.\n\n63\n00:02:41,550 --> 00:02:42,990\nSo who started all this?\n\n64\n00:02:43,540 --> 00:02:44,330\nThe queen.\n\n65\n00:02:44,880 --> 00:02:46,740\nShe can live up to fifteen years,\n\n66\n00:02:47,040 --> 00:02:50,520\nand by one estimate, lay a hundred fifty million eggs.\n\n67\n00:02:51,070 --> 00:02:53,130\nBut her story begins with one flight.\n\n68\n00:02:53,680 --> 00:02:57,660\nA young queen leaves home with a tiny pellet of fungus in her mouth.\n\n69\n00:02:58,210 --> 00:02:59,770\nThat's her whole inheritance.\n\n70\n00:03:00,320 --> 00:03:03,660\nShe digs in, seals herself underground, and plants it.\n\n71\n00:03:04,210 --> 00:03:07,970\nOnly about two and a half percent build a colony that lasts.\n\n72\n00:03:08,520 --> 00:03:11,340\nBut the winners can end up with seven thousand rooms,\n\n73\n00:03:11,640 --> 00:03:13,230\nmore than twenty feet deep.\n\n74\n00:03:13,780 --> 00:03:16,990\nSo next time you see a leaf walking across the ground,\n\n75\n00:03:17,290 --> 00:03:18,620\nremember where it's going.\n\n76\n00:03:19,170 --> 00:03:21,640\nIt's headed to a farm far older than us.\n\n77\n00:03:22,190 --> 00:03:26,140\nNext up, another insect city, where workers talk by dancing.\n\n78\n00:03:26,690 --> 00:03:28,500\nHow does a honeybee hive work?\n\n",
-      "tg_msg": 995
+      "tg_msg": 995,
+      "approved_by": "auto",
+      "quota_note": "2026-11-02"
     },
     "2026-11-02-105": {
       "topic": {
@@ -3342,7 +3211,7 @@
         "format": "animated",
         "style": "Claymation Set"
       },
-      "status": "awaiting_approval",
+      "status": "approved",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261102-popcorn-pop",
@@ -3362,7 +3231,9 @@
         "name": "2026-11-02-105-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:02,970\nYour popcorn explodes at about 4 times,\n\n2\n00:00:03,270 --> 00:00:04,730\nyour car tire's pressure.\n\n3\n00:00:05,280 --> 00:00:07,190\nEvery kernel hides a bit of water,\n\n4\n00:00:07,490 --> 00:00:08,870\nabout 14 percent,\n\n5\n00:00:09,170 --> 00:00:10,520\npacked in soft starch,\n\n6\n00:00:10,820 --> 00:00:13,140\nlocked inside a hard shell called the hull.\n\n7\n00:00:13,690 --> 00:00:16,100\nHeat it up, and that water turns to steam.\n\n8\n00:00:16,650 --> 00:00:18,160\nBut the hull barely leaks,\n\n9\n00:00:18,460 --> 00:00:20,220\nso steam has nowhere to go.\n\n10\n00:00:20,770 --> 00:00:24,840\nPressure climbs to about 135 pounds per square inch.\n\n11\n00:00:25,390 --> 00:00:28,360\nThen, at around 180 degrees Celsius,\n\n12\n00:00:28,660 --> 00:00:29,700\nthe hull cracks.\n\n13\n00:00:30,250 --> 00:00:32,680\nThe starch blasts out and puffs into foam,\n\n14\n00:00:32,980 --> 00:00:34,550\nup to 40 times bigger.\n\n15\n00:00:35,100 --> 00:00:36,240\nAnd the pop you hear?\n\n16\n00:00:36,790 --> 00:00:38,270\nThat's not the shell breaking.\n\n17\n00:00:38,820 --> 00:00:40,250\nIt's the steam escaping.\n\n18\n00:00:40,800 --> 00:00:43,080\nThe first bit of starch forms a little leg,\n\n19\n00:00:43,380 --> 00:00:45,120\nflinging the kernel into the air.\n\n20\n00:00:45,670 --> 00:00:48,620\nThose duds in your bowl were too dry to build pressure.\n\n21\n00:00:49,170 --> 00:00:51,570\nSo, do you eat the ones that didn't explode?\n\n",
-      "tg_msg": 996
+      "tg_msg": 996,
+      "approved_by": "auto",
+      "quota_note": "2026-11-02"
     }
   },
   "history": [
