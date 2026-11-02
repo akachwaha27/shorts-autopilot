@@ -1,0 +1,703 @@
+[
+ {
+  "s": 0.25,
+  "e": 1.8,
+  "text": "Your cat's purr is a twitch,",
+  "words": [
+   [
+    "your",
+    0.25
+   ],
+   [
+    "cats",
+    0.55
+   ],
+   [
+    "purr",
+    0.84
+   ],
+   [
+    "is",
+    1.14
+   ],
+   [
+    "a",
+    1.28
+   ],
+   [
+    "twitch",
+    1.36
+   ]
+  ]
+ },
+ {
+  "s": 2.1,
+  "e": 3.74,
+  "text": "twenty-five times a second.",
+  "words": [
+   [
+    "twentyfive",
+    2.1
+   ],
+   [
+    "times",
+    2.84
+   ],
+   [
+    "a",
+    3.22
+   ],
+   [
+    "second",
+    3.29
+   ]
+  ]
+ },
+ {
+  "s": 4.29,
+  "e": 5.03,
+  "text": "But how?",
+  "words": [
+   [
+    "but",
+    4.29
+   ],
+   [
+    "how",
+    4.66
+   ]
+  ]
+ },
+ {
+  "s": 5.58,
+  "e": 7.83,
+  "text": "Deep in the throat sits the voice box,",
+  "words": [
+   [
+    "deep",
+    5.58
+   ],
+   [
+    "in",
+    5.88
+   ],
+   [
+    "the",
+    6.03
+   ],
+   [
+    "throat",
+    6.26
+   ],
+   [
+    "sits",
+    6.71
+   ],
+   [
+    "the",
+    7.01
+   ],
+   [
+    "voice",
+    7.23
+   ],
+   [
+    "box",
+    7.6
+   ]
+  ]
+ },
+ {
+  "s": 8.13,
+  "e": 10.08,
+  "text": "with a tiny gap called the glottis.",
+  "words": [
+   [
+    "with",
+    8.13
+   ],
+   [
+    "a",
+    8.41
+   ],
+   [
+    "tiny",
+    8.48
+   ],
+   [
+    "gap",
+    8.76
+   ],
+   [
+    "called",
+    8.97
+   ],
+   [
+    "the",
+    9.39
+   ],
+   [
+    "glottis",
+    9.59
+   ]
+  ]
+ },
+ {
+  "s": 10.63,
+  "e": 11.74,
+  "text": "A signal from the brain",
+  "words": [
+   [
+    "a",
+    10.63
+   ],
+   [
+    "signal",
+    10.69
+   ],
+   [
+    "from",
+    11.04
+   ],
+   [
+    "the",
+    11.27
+   ],
+   [
+    "brain",
+    11.45
+   ]
+  ]
+ },
+ {
+  "s": 12.04,
+  "e": 13.89,
+  "text": "makes the muscles around it twitch,",
+  "words": [
+   [
+    "makes",
+    12.04
+   ],
+   [
+    "the",
+    12.36
+   ],
+   [
+    "muscles",
+    12.55
+   ],
+   [
+    "around",
+    13.0
+   ],
+   [
+    "it",
+    13.38
+   ],
+   [
+    "twitch",
+    13.51
+   ]
+  ]
+ },
+ {
+  "s": 14.19,
+  "e": 15.93,
+  "text": "snapping that gap open and shut.",
+  "words": [
+   [
+    "snapping",
+    14.19
+   ],
+   [
+    "that",
+    14.73
+   ],
+   [
+    "gap",
+    15.0
+   ],
+   [
+    "open",
+    15.2
+   ],
+   [
+    "and",
+    15.47
+   ],
+   [
+    "shut",
+    15.67
+   ]
+  ]
+ },
+ {
+  "s": 16.48,
+  "e": 17.5,
+  "text": "Air rushes in,",
+  "words": [
+   [
+    "air",
+    16.48
+   ],
+   [
+    "rushes",
+    16.76
+   ],
+   [
+    "in",
+    17.31
+   ]
+  ]
+ },
+ {
+  "s": 17.8,
+  "e": 19.63,
+  "text": "and the gap chops it into bursts.",
+  "words": [
+   [
+    "and",
+    17.8
+   ],
+   [
+    "the",
+    18.01
+   ],
+   [
+    "gap",
+    18.22
+   ],
+   [
+    "chops",
+    18.43
+   ],
+   [
+    "it",
+    18.79
+   ],
+   [
+    "into",
+    18.93
+   ],
+   [
+    "bursts",
+    19.21
+   ]
+  ]
+ },
+ {
+  "s": 20.18,
+  "e": 21.15,
+  "text": "Air flows out,",
+  "words": [
+   [
+    "air",
+    20.18
+   ],
+   [
+    "flows",
+    20.45
+   ],
+   [
+    "out",
+    20.89
+   ]
+  ]
+ },
+ {
+  "s": 21.45,
+  "e": 22.74,
+  "text": "and it chops it again.",
+  "words": [
+   [
+    "and",
+    21.45
+   ],
+   [
+    "it",
+    21.68
+   ],
+   [
+    "chops",
+    21.83
+   ],
+   [
+    "it",
+    22.21
+   ],
+   [
+    "again",
+    22.36
+   ]
+  ]
+ },
+ {
+  "s": 23.29,
+  "e": 25.26,
+  "text": "That's why a purr just keeps going.",
+  "words": [
+   [
+    "thats",
+    23.29
+   ],
+   [
+    "why",
+    23.66
+   ],
+   [
+    "a",
+    23.87
+   ],
+   [
+    "purr",
+    23.95
+   ],
+   [
+    "just",
+    24.24
+   ],
+   [
+    "keeps",
+    24.53
+   ],
+   [
+    "going",
+    24.89
+   ]
+  ]
+ },
+ {
+  "s": 25.81,
+  "e": 28.99,
+  "text": "In twenty twenty-three, scientists found another clue:",
+  "words": [
+   [
+    "in",
+    25.81
+   ],
+   [
+    "twenty",
+    25.95
+   ],
+   [
+    "twentythree",
+    26.37
+   ],
+   [
+    "scientists",
+    27.15
+   ],
+   [
+    "found",
+    27.86
+   ],
+   [
+    "another",
+    28.22
+   ],
+   [
+    "clue",
+    28.71
+   ]
+  ]
+ },
+ {
+  "s": 29.29,
+  "e": 31.69,
+  "text": "tiny pads inside the vocal folds,",
+  "words": [
+   [
+    "tiny",
+    29.29
+   ],
+   [
+    "pads",
+    29.65
+   ],
+   [
+    "inside",
+    30.0
+   ],
+   [
+    "the",
+    30.54
+   ],
+   [
+    "vocal",
+    30.8
+   ],
+   [
+    "folds",
+    31.25
+   ]
+  ]
+ },
+ {
+  "s": 31.99,
+  "e": 34.73,
+  "text": "which may help a small cat hit such a low note.",
+  "words": [
+   [
+    "which",
+    31.99
+   ],
+   [
+    "may",
+    32.37
+   ],
+   [
+    "help",
+    32.6
+   ],
+   [
+    "a",
+    32.91
+   ],
+   [
+    "small",
+    32.98
+   ],
+   [
+    "cat",
+    33.36
+   ],
+   [
+    "hit",
+    33.59
+   ],
+   [
+    "such",
+    33.82
+   ],
+   [
+    "a",
+    34.12
+   ],
+   [
+    "low",
+    34.2
+   ],
+   [
+    "note",
+    34.43
+   ]
+  ]
+ },
+ {
+  "s": 35.28,
+  "e": 37.03,
+  "text": "Bobcats and cheetahs purr too,",
+  "words": [
+   [
+    "bobcats",
+    35.28
+   ],
+   [
+    "and",
+    35.77
+   ],
+   [
+    "cheetahs",
+    35.98
+   ],
+   [
+    "purr",
+    36.54
+   ],
+   [
+    "too",
+    36.82
+   ]
+  ]
+ },
+ {
+  "s": 37.33,
+  "e": 39.46,
+  "text": "but lions and tigers don't seem to.",
+  "words": [
+   [
+    "but",
+    37.33
+   ],
+   [
+    "lions",
+    37.57
+   ],
+   [
+    "and",
+    37.96
+   ],
+   [
+    "tigers",
+    38.2
+   ],
+   [
+    "dont",
+    38.67
+   ],
+   [
+    "seem",
+    38.98
+   ],
+   [
+    "to",
+    39.3
+   ]
+  ]
+ },
+ {
+  "s": 40.01,
+  "e": 42.1,
+  "text": "And a purr doesn't always mean happy.",
+  "words": [
+   [
+    "and",
+    40.01
+   ],
+   [
+    "a",
+    40.22
+   ],
+   [
+    "purr",
+    40.3
+   ],
+   [
+    "doesnt",
+    40.58
+   ],
+   [
+    "always",
+    41.02
+   ],
+   [
+    "mean",
+    41.45
+   ],
+   [
+    "happy",
+    41.74
+   ]
+  ]
+ },
+ {
+  "s": 42.65,
+  "e": 44.22,
+  "text": "Cats also purr at the vet,",
+  "words": [
+   [
+    "cats",
+    42.65
+   ],
+   [
+    "also",
+    42.96
+   ],
+   [
+    "purr",
+    43.28
+   ],
+   [
+    "at",
+    43.59
+   ],
+   [
+    "the",
+    43.75
+   ],
+   [
+    "vet",
+    43.99
+   ]
+  ]
+ },
+ {
+  "s": 44.52,
+  "e": 45.67,
+  "text": "or when they're hurt.",
+  "words": [
+   [
+    "or",
+    44.52
+   ],
+   [
+    "when",
+    44.66
+   ],
+   [
+    "theyre",
+    44.95
+   ],
+   [
+    "hurt",
+    45.38
+   ]
+  ]
+ },
+ {
+  "s": 46.22,
+  "e": 48.16,
+  "text": "So when yours starts twitching away,",
+  "words": [
+   [
+    "so",
+    46.22
+   ],
+   [
+    "when",
+    46.35
+   ],
+   [
+    "yours",
+    46.61
+   ],
+   [
+    "starts",
+    46.93
+   ],
+   [
+    "twitching",
+    47.32
+   ],
+   [
+    "away",
+    47.9
+   ]
+  ]
+ },
+ {
+  "s": 48.46,
+  "e": 50.32,
+  "text": "do you think it's happy, or worried?",
+  "words": [
+   [
+    "do",
+    48.46
+   ],
+   [
+    "you",
+    48.6
+   ],
+   [
+    "think",
+    48.81
+   ],
+   [
+    "its",
+    49.15
+   ],
+   [
+    "happy",
+    49.36
+   ],
+   [
+    "or",
+    49.7
+   ],
+   [
+    "worried",
+    49.84
+   ]
+  ]
+ }
+]
