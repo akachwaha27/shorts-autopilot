@@ -1,0 +1,695 @@
+[
+ {
+  "s": 0.25,
+  "e": 1.6,
+  "text": "Cat eyes never glow,",
+  "words": [
+   [
+    "cat",
+    0.25
+   ],
+   [
+    "eyes",
+    0.5
+   ],
+   [
+    "never",
+    0.84
+   ],
+   [
+    "glow",
+    1.26
+   ]
+  ]
+ },
+ {
+  "s": 1.9,
+  "e": 4.88,
+  "text": "that shine is your own flashlight bouncing back at you.",
+  "words": [
+   [
+    "that",
+    1.9
+   ],
+   [
+    "shine",
+    2.16
+   ],
+   [
+    "is",
+    2.5
+   ],
+   [
+    "your",
+    2.63
+   ],
+   [
+    "own",
+    2.89
+   ],
+   [
+    "flashlight",
+    3.09
+   ],
+   [
+    "bouncing",
+    3.75
+   ],
+   [
+    "back",
+    4.28
+   ],
+   [
+    "at",
+    4.55
+   ],
+   [
+    "you",
+    4.68
+   ]
+  ]
+ },
+ {
+  "s": 5.43,
+  "e": 7.06,
+  "text": "Light comes in through the pupil,",
+  "words": [
+   [
+    "light",
+    5.43
+   ],
+   [
+    "comes",
+    5.73
+   ],
+   [
+    "in",
+    6.03
+   ],
+   [
+    "through",
+    6.15
+   ],
+   [
+    "the",
+    6.58
+   ],
+   [
+    "pupil",
+    6.76
+   ]
+  ]
+ },
+ {
+  "s": 7.36,
+  "e": 9.55,
+  "text": "and hits the retina at the back of the eye.",
+  "words": [
+   [
+    "and",
+    7.36
+   ],
+   [
+    "hits",
+    7.56
+   ],
+   [
+    "the",
+    7.82
+   ],
+   [
+    "retina",
+    8.02
+   ],
+   [
+    "at",
+    8.42
+   ],
+   [
+    "the",
+    8.55
+   ],
+   [
+    "back",
+    8.75
+   ],
+   [
+    "of",
+    9.02
+   ],
+   [
+    "the",
+    9.15
+   ],
+   [
+    "eye",
+    9.35
+   ]
+  ]
+ },
+ {
+  "s": 10.1,
+  "e": 11.42,
+  "text": "Tiny cells catch it,",
+  "words": [
+   [
+    "tiny",
+    10.1
+   ],
+   [
+    "cells",
+    10.43
+   ],
+   [
+    "catch",
+    10.84
+   ],
+   [
+    "it",
+    11.25
+   ]
+  ]
+ },
+ {
+  "s": 11.72,
+  "e": 13.32,
+  "text": "and send a picture to the brain.",
+  "words": [
+   [
+    "and",
+    11.72
+   ],
+   [
+    "send",
+    11.91
+   ],
+   [
+    "a",
+    12.17
+   ],
+   [
+    "picture",
+    12.23
+   ],
+   [
+    "to",
+    12.68
+   ],
+   [
+    "the",
+    12.81
+   ],
+   [
+    "brain",
+    13.0
+   ]
+  ]
+ },
+ {
+  "s": 13.87,
+  "e": 14.85,
+  "text": "But in your eye,",
+  "words": [
+   [
+    "but",
+    13.87
+   ],
+   [
+    "in",
+    14.12
+   ],
+   [
+    "your",
+    14.28
+   ],
+   [
+    "eye",
+    14.61
+   ]
+  ]
+ },
+ {
+  "s": 15.15,
+  "e": 16.95,
+  "text": "some light slips right past them,",
+  "words": [
+   [
+    "some",
+    15.15
+   ],
+   [
+    "light",
+    15.42
+   ],
+   [
+    "slips",
+    15.75
+   ],
+   [
+    "right",
+    16.08
+   ],
+   [
+    "past",
+    16.41
+   ],
+   [
+    "them",
+    16.68
+   ]
+  ]
+ },
+ {
+  "s": 17.25,
+  "e": 18.17,
+  "text": "and it's gone.",
+  "words": [
+   [
+    "and",
+    17.25
+   ],
+   [
+    "its",
+    17.52
+   ],
+   [
+    "gone",
+    17.8
+   ]
+  ]
+ },
+ {
+  "s": 18.72,
+  "e": 20.41,
+  "text": "A cat gets a second chance.",
+  "words": [
+   [
+    "a",
+    18.72
+   ],
+   [
+    "cat",
+    18.8
+   ],
+   [
+    "gets",
+    19.04
+   ],
+   [
+    "a",
+    19.36
+   ],
+   [
+    "second",
+    19.44
+   ],
+   [
+    "chance",
+    19.93
+   ]
+  ]
+ },
+ {
+  "s": 20.96,
+  "e": 23.26,
+  "text": "Behind its retina sits a shiny layer,",
+  "words": [
+   [
+    "behind",
+    20.96
+   ],
+   [
+    "its",
+    21.42
+   ],
+   [
+    "retina",
+    21.65
+   ],
+   [
+    "sits",
+    22.11
+   ],
+   [
+    "a",
+    22.42
+   ],
+   [
+    "shiny",
+    22.5
+   ],
+   [
+    "layer",
+    22.88
+   ]
+  ]
+ },
+ {
+  "s": 23.56,
+  "e": 25.13,
+  "text": "called the tapetum lucidum.",
+  "words": [
+   [
+    "called",
+    23.56
+   ],
+   [
+    "the",
+    23.97
+   ],
+   [
+    "tapetum",
+    24.18
+   ],
+   [
+    "lucidum",
+    24.65
+   ]
+  ]
+ },
+ {
+  "s": 25.68,
+  "e": 26.97,
+  "text": "It works like a mirror,",
+  "words": [
+   [
+    "it",
+    25.68
+   ],
+   [
+    "works",
+    25.82
+   ],
+   [
+    "like",
+    26.18
+   ],
+   [
+    "a",
+    26.47
+   ],
+   [
+    "mirror",
+    26.54
+   ]
+  ]
+ },
+ {
+  "s": 27.27,
+  "e": 29.52,
+  "text": "bouncing missed light back through the retina.",
+  "words": [
+   [
+    "bouncing",
+    27.27
+   ],
+   [
+    "missed",
+    27.73
+   ],
+   [
+    "light",
+    28.07
+   ],
+   [
+    "back",
+    28.36
+   ],
+   [
+    "through",
+    28.59
+   ],
+   [
+    "the",
+    29.0
+   ],
+   [
+    "retina",
+    29.17
+   ]
+  ]
+ },
+ {
+  "s": 30.07,
+  "e": 32.9,
+  "text": "So a cat needs just one-sixth of the light you do.",
+  "words": [
+   [
+    "so",
+    30.07
+   ],
+   [
+    "a",
+    30.22
+   ],
+   [
+    "cat",
+    30.29
+   ],
+   [
+    "needs",
+    30.51
+   ],
+   [
+    "just",
+    30.89
+   ],
+   [
+    "onesixth",
+    31.18
+   ],
+   [
+    "of",
+    31.78
+   ],
+   [
+    "the",
+    31.93
+   ],
+   [
+    "light",
+    32.15
+   ],
+   [
+    "you",
+    32.52
+   ],
+   [
+    "do",
+    32.75
+   ]
+  ]
+ },
+ {
+  "s": 33.45,
+  "e": 34.91,
+  "text": "Whatever still isn't caught,",
+  "words": [
+   [
+    "whatever",
+    33.45
+   ],
+   [
+    "still",
+    33.96
+   ],
+   [
+    "isnt",
+    34.27
+   ],
+   [
+    "caught",
+    34.53
+   ]
+  ]
+ },
+ {
+  "s": 35.21,
+  "e": 36.58,
+  "text": "shoots back out of the eye.",
+  "words": [
+   [
+    "shoots",
+    35.21
+   ],
+   [
+    "back",
+    35.6
+   ],
+   [
+    "out",
+    35.86
+   ],
+   [
+    "of",
+    36.06
+   ],
+   [
+    "the",
+    36.19
+   ],
+   [
+    "eye",
+    36.38
+   ]
+  ]
+ },
+ {
+  "s": 37.13,
+  "e": 38.14,
+  "text": "That's the shine,",
+  "words": [
+   [
+    "thats",
+    37.13
+   ],
+   [
+    "the",
+    37.52
+   ],
+   [
+    "shine",
+    37.75
+   ]
+  ]
+ },
+ {
+  "s": 38.44,
+  "e": 39.81,
+  "text": "often green or yellow.",
+  "words": [
+   [
+    "often",
+    38.44
+   ],
+   [
+    "green",
+    38.82
+   ],
+   [
+    "or",
+    39.2
+   ],
+   [
+    "yellow",
+    39.36
+   ]
+  ]
+ },
+ {
+  "s": 40.36,
+  "e": 41.43,
+  "text": "No light at all?",
+  "words": [
+   [
+    "no",
+    40.36
+   ],
+   [
+    "light",
+    40.54
+   ],
+   [
+    "at",
+    40.99
+   ],
+   [
+    "all",
+    41.16
+   ]
+  ]
+ },
+ {
+  "s": 41.98,
+  "e": 43.78,
+  "text": "No shine, and no sight either.",
+  "words": [
+   [
+    "no",
+    41.98
+   ],
+   [
+    "shine",
+    42.14
+   ],
+   [
+    "and",
+    42.53
+   ],
+   [
+    "no",
+    42.76
+   ],
+   [
+    "sight",
+    42.92
+   ],
+   [
+    "either",
+    43.31
+   ]
+  ]
+ },
+ {
+  "s": 44.33,
+  "e": 46.51,
+  "text": "Ever caught your cat's eyes shining at night?",
+  "words": [
+   [
+    "ever",
+    44.33
+   ],
+   [
+    "caught",
+    44.57
+   ],
+   [
+    "your",
+    44.94
+   ],
+   [
+    "cats",
+    45.18
+   ],
+   [
+    "eyes",
+    45.42
+   ],
+   [
+    "shining",
+    45.66
+   ],
+   [
+    "at",
+    46.09
+   ],
+   [
+    "night",
+    46.21
+   ]
+  ]
+ },
+ {
+  "s": 47.06,
+  "e": 48.16,
+  "text": "What color were they?",
+  "words": [
+   [
+    "what",
+    47.06
+   ],
+   [
+    "color",
+    47.32
+   ],
+   [
+    "were",
+    47.64
+   ],
+   [
+    "they",
+    47.9
+   ]
+  ]
+ }
+]
