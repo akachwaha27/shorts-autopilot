@@ -1,0 +1,681 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.97,
+  "text": "Your popcorn explodes at about 4 times,",
+  "words": [
+   [
+    "your",
+    0.25
+   ],
+   [
+    "popcorn",
+    0.59
+   ],
+   [
+    "explodes",
+    1.18
+   ],
+   [
+    "at",
+    1.86
+   ],
+   [
+    "about",
+    2.03
+   ],
+   [
+    "4",
+    2.46
+   ],
+   [
+    "times",
+    2.54
+   ]
+  ]
+ },
+ {
+  "s": 3.27,
+  "e": 4.73,
+  "text": "your car tire's pressure.",
+  "words": [
+   [
+    "your",
+    3.27
+   ],
+   [
+    "car",
+    3.56
+   ],
+   [
+    "tires",
+    3.78
+   ],
+   [
+    "pressure",
+    4.14
+   ]
+  ]
+ },
+ {
+  "s": 5.28,
+  "e": 7.19,
+  "text": "Every kernel hides a bit of water,",
+  "words": [
+   [
+    "every",
+    5.28
+   ],
+   [
+    "kernel",
+    5.63
+   ],
+   [
+    "hides",
+    6.06
+   ],
+   [
+    "a",
+    6.41
+   ],
+   [
+    "bit",
+    6.48
+   ],
+   [
+    "of",
+    6.69
+   ],
+   [
+    "water",
+    6.84
+   ]
+  ]
+ },
+ {
+  "s": 7.49,
+  "e": 8.87,
+  "text": "about 14 percent,",
+  "words": [
+   [
+    "about",
+    7.49
+   ],
+   [
+    "14",
+    7.98
+   ],
+   [
+    "percent",
+    8.18
+   ]
+  ]
+ },
+ {
+  "s": 9.17,
+  "e": 10.52,
+  "text": "packed in soft starch,",
+  "words": [
+   [
+    "packed",
+    9.17
+   ],
+   [
+    "in",
+    9.62
+   ],
+   [
+    "soft",
+    9.77
+   ],
+   [
+    "starch",
+    10.07
+   ]
+  ]
+ },
+ {
+  "s": 10.82,
+  "e": 13.14,
+  "text": "locked inside a hard shell called the hull.",
+  "words": [
+   [
+    "locked",
+    10.82
+   ],
+   [
+    "inside",
+    11.22
+   ],
+   [
+    "a",
+    11.61
+   ],
+   [
+    "hard",
+    11.68
+   ],
+   [
+    "shell",
+    11.94
+   ],
+   [
+    "called",
+    12.28
+   ],
+   [
+    "the",
+    12.67
+   ],
+   [
+    "hull",
+    12.87
+   ]
+  ]
+ },
+ {
+  "s": 13.69,
+  "e": 16.1,
+  "text": "Heat it up, and that water turns to steam.",
+  "words": [
+   [
+    "heat",
+    13.69
+   ],
+   [
+    "it",
+    13.99
+   ],
+   [
+    "up",
+    14.14
+   ],
+   [
+    "and",
+    14.29
+   ],
+   [
+    "that",
+    14.52
+   ],
+   [
+    "water",
+    14.82
+   ],
+   [
+    "turns",
+    15.2
+   ],
+   [
+    "to",
+    15.57
+   ],
+   [
+    "steam",
+    15.73
+   ]
+  ]
+ },
+ {
+  "s": 16.65,
+  "e": 18.16,
+  "text": "But the hull barely leaks,",
+  "words": [
+   [
+    "but",
+    16.65
+   ],
+   [
+    "the",
+    16.87
+   ],
+   [
+    "hull",
+    17.08
+   ],
+   [
+    "barely",
+    17.37
+   ],
+   [
+    "leaks",
+    17.8
+   ]
+  ]
+ },
+ {
+  "s": 18.46,
+  "e": 20.22,
+  "text": "so steam has nowhere to go.",
+  "words": [
+   [
+    "so",
+    18.46
+   ],
+   [
+    "steam",
+    18.63
+   ],
+   [
+    "has",
+    19.05
+   ],
+   [
+    "nowhere",
+    19.3
+   ],
+   [
+    "to",
+    19.89
+   ],
+   [
+    "go",
+    20.05
+   ]
+  ]
+ },
+ {
+  "s": 20.77,
+  "e": 24.84,
+  "text": "Pressure climbs to about 135 pounds per square inch.",
+  "words": [
+   [
+    "pressure",
+    20.77
+   ],
+   [
+    "climbs",
+    21.53
+   ],
+   [
+    "to",
+    22.1
+   ],
+   [
+    "about",
+    22.28
+   ],
+   [
+    "135",
+    22.76
+   ],
+   [
+    "pounds",
+    23.04
+   ],
+   [
+    "per",
+    23.61
+   ],
+   [
+    "square",
+    23.89
+   ],
+   [
+    "inch",
+    24.46
+   ]
+  ]
+ },
+ {
+  "s": 25.39,
+  "e": 28.36,
+  "text": "Then, at around 180 degrees Celsius,",
+  "words": [
+   [
+    "then",
+    25.39
+   ],
+   [
+    "at",
+    25.8
+   ],
+   [
+    "around",
+    26.0
+   ],
+   [
+    "180",
+    26.62
+   ],
+   [
+    "degrees",
+    26.93
+   ],
+   [
+    "celsius",
+    27.65
+   ]
+  ]
+ },
+ {
+  "s": 28.66,
+  "e": 29.7,
+  "text": "the hull cracks.",
+  "words": [
+   [
+    "the",
+    28.66
+   ],
+   [
+    "hull",
+    28.9
+   ],
+   [
+    "cracks",
+    29.22
+   ]
+  ]
+ },
+ {
+  "s": 30.25,
+  "e": 32.68,
+  "text": "The starch blasts out and puffs into foam,",
+  "words": [
+   [
+    "the",
+    30.25
+   ],
+   [
+    "starch",
+    30.46
+   ],
+   [
+    "blasts",
+    30.89
+   ],
+   [
+    "out",
+    31.32
+   ],
+   [
+    "and",
+    31.54
+   ],
+   [
+    "puffs",
+    31.75
+   ],
+   [
+    "into",
+    32.11
+   ],
+   [
+    "foam",
+    32.4
+   ]
+  ]
+ },
+ {
+  "s": 32.98,
+  "e": 34.55,
+  "text": "up to 40 times bigger.",
+  "words": [
+   [
+    "up",
+    32.98
+   ],
+   [
+    "to",
+    33.17
+   ],
+   [
+    "40",
+    33.35
+   ],
+   [
+    "times",
+    33.54
+   ],
+   [
+    "bigger",
+    34.0
+   ]
+  ]
+ },
+ {
+  "s": 35.1,
+  "e": 36.24,
+  "text": "And the pop you hear?",
+  "words": [
+   [
+    "and",
+    35.1
+   ],
+   [
+    "the",
+    35.31
+   ],
+   [
+    "pop",
+    35.53
+   ],
+   [
+    "you",
+    35.74
+   ],
+   [
+    "hear",
+    35.96
+   ]
+  ]
+ },
+ {
+  "s": 36.79,
+  "e": 38.27,
+  "text": "That's not the shell breaking.",
+  "words": [
+   [
+    "thats",
+    36.79
+   ],
+   [
+    "not",
+    37.1
+   ],
+   [
+    "the",
+    37.28
+   ],
+   [
+    "shell",
+    37.47
+   ],
+   [
+    "breaking",
+    37.77
+   ]
+  ]
+ },
+ {
+  "s": 38.82,
+  "e": 40.25,
+  "text": "It's the steam escaping.",
+  "words": [
+   [
+    "its",
+    38.82
+   ],
+   [
+    "the",
+    39.04
+   ],
+   [
+    "steam",
+    39.27
+   ],
+   [
+    "escaping",
+    39.65
+   ]
+  ]
+ },
+ {
+  "s": 40.8,
+  "e": 43.08,
+  "text": "The first bit of starch forms a little leg,",
+  "words": [
+   [
+    "the",
+    40.8
+   ],
+   [
+    "first",
+    41.01
+   ],
+   [
+    "bit",
+    41.34
+   ],
+   [
+    "of",
+    41.54
+   ],
+   [
+    "starch",
+    41.68
+   ],
+   [
+    "forms",
+    42.08
+   ],
+   [
+    "a",
+    42.41
+   ],
+   [
+    "little",
+    42.48
+   ],
+   [
+    "leg",
+    42.88
+   ]
+  ]
+ },
+ {
+  "s": 43.38,
+  "e": 45.12,
+  "text": "flinging the kernel into the air.",
+  "words": [
+   [
+    "flinging",
+    43.38
+   ],
+   [
+    "the",
+    43.9
+   ],
+   [
+    "kernel",
+    44.09
+   ],
+   [
+    "into",
+    44.47
+   ],
+   [
+    "the",
+    44.73
+   ],
+   [
+    "air",
+    44.92
+   ]
+  ]
+ },
+ {
+  "s": 45.67,
+  "e": 48.62,
+  "text": "Those duds in your bowl were too dry to build pressure.",
+  "words": [
+   [
+    "those",
+    45.67
+   ],
+   [
+    "duds",
+    46.0
+   ],
+   [
+    "in",
+    46.27
+   ],
+   [
+    "your",
+    46.41
+   ],
+   [
+    "bowl",
+    46.67
+   ],
+   [
+    "were",
+    46.94
+   ],
+   [
+    "too",
+    47.21
+   ],
+   [
+    "dry",
+    47.41
+   ],
+   [
+    "to",
+    47.61
+   ],
+   [
+    "build",
+    47.75
+   ],
+   [
+    "pressure",
+    48.08
+   ]
+  ]
+ },
+ {
+  "s": 49.17,
+  "e": 51.57,
+  "text": "So, do you eat the ones that didn't explode?",
+  "words": [
+   [
+    "so",
+    49.17
+   ],
+   [
+    "do",
+    49.32
+   ],
+   [
+    "you",
+    49.46
+   ],
+   [
+    "eat",
+    49.68
+   ],
+   [
+    "the",
+    49.9
+   ],
+   [
+    "ones",
+    50.12
+   ],
+   [
+    "that",
+    50.41
+   ],
+   [
+    "didnt",
+    50.7
+   ],
+   [
+    "explode",
+    51.06
+   ]
+  ]
+ }
+]
