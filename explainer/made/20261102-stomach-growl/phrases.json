@@ -1,0 +1,712 @@
+[
+ {
+  "s": 0.25,
+  "e": 3.74,
+  "text": "Your empty stomach growls every two hours until you eat.",
+  "words": [
+   [
+    "your",
+    0.25
+   ],
+   [
+    "empty",
+    0.55
+   ],
+   [
+    "stomach",
+    0.93
+   ],
+   [
+    "growls",
+    1.46
+   ],
+   [
+    "every",
+    1.92
+   ],
+   [
+    "two",
+    2.3
+   ],
+   [
+    "hours",
+    2.53
+   ],
+   [
+    "until",
+    2.9
+   ],
+   [
+    "you",
+    3.28
+   ],
+   [
+    "eat",
+    3.51
+   ]
+  ]
+ },
+ {
+  "s": 4.29,
+  "e": 5.51,
+  "text": "But why won't it stop?",
+  "words": [
+   [
+    "but",
+    4.29
+   ],
+   [
+    "why",
+    4.52
+   ],
+   [
+    "wont",
+    4.75
+   ],
+   [
+    "it",
+    5.05
+   ],
+   [
+    "stop",
+    5.2
+   ]
+  ]
+ },
+ {
+  "s": 6.06,
+  "e": 8.09,
+  "text": "Your gut is one long muscle tube,",
+  "words": [
+   [
+    "your",
+    6.06
+   ],
+   [
+    "gut",
+    6.37
+   ],
+   [
+    "is",
+    6.61
+   ],
+   [
+    "one",
+    6.76
+   ],
+   [
+    "long",
+    7.0
+   ],
+   [
+    "muscle",
+    7.31
+   ],
+   [
+    "tube",
+    7.78
+   ]
+  ]
+ },
+ {
+  "s": 8.39,
+  "e": 10.28,
+  "text": "and its walls squeeze in waves.",
+  "words": [
+   [
+    "and",
+    8.39
+   ],
+   [
+    "its",
+    8.62
+   ],
+   [
+    "walls",
+    8.84
+   ],
+   [
+    "squeeze",
+    9.22
+   ],
+   [
+    "in",
+    9.75
+   ],
+   [
+    "waves",
+    9.9
+   ]
+  ]
+ },
+ {
+  "s": 10.83,
+  "e": 12.35,
+  "text": "That's called peristalsis.",
+  "words": [
+   [
+    "thats",
+    10.83
+   ],
+   [
+    "called",
+    11.18
+   ],
+   [
+    "peristalsis",
+    11.59
+   ]
+  ]
+ },
+ {
+  "s": 12.9,
+  "e": 15.34,
+  "text": "They push food, liquid and gas along,",
+  "words": [
+   [
+    "they",
+    12.9
+   ],
+   [
+    "push",
+    13.23
+   ],
+   [
+    "food",
+    13.57
+   ],
+   [
+    "liquid",
+    13.91
+   ],
+   [
+    "and",
+    14.41
+   ],
+   [
+    "gas",
+    14.66
+   ],
+   [
+    "along",
+    14.92
+   ]
+  ]
+ },
+ {
+  "s": 15.64,
+  "e": 18.04,
+  "text": "about three squeezes a minute in your stomach.",
+  "words": [
+   [
+    "about",
+    15.64
+   ],
+   [
+    "three",
+    15.95
+   ],
+   [
+    "squeezes",
+    16.27
+   ],
+   [
+    "a",
+    16.77
+   ],
+   [
+    "minute",
+    16.84
+   ],
+   [
+    "in",
+    17.22
+   ],
+   [
+    "your",
+    17.34
+   ],
+   [
+    "stomach",
+    17.59
+   ]
+  ]
+ },
+ {
+  "s": 18.59,
+  "e": 20.89,
+  "text": "After a meal, food muffles the sound.",
+  "words": [
+   [
+    "after",
+    18.59
+   ],
+   [
+    "a",
+    18.98
+   ],
+   [
+    "meal",
+    19.06
+   ],
+   [
+    "food",
+    19.38
+   ],
+   [
+    "muffles",
+    19.7
+   ],
+   [
+    "the",
+    20.26
+   ],
+   [
+    "sound",
+    20.5
+   ]
+  ]
+ },
+ {
+  "s": 21.44,
+  "e": 23.83,
+  "text": "But empty? It's mostly gas and air,",
+  "words": [
+   [
+    "but",
+    21.44
+   ],
+   [
+    "empty",
+    21.72
+   ],
+   [
+    "its",
+    22.18
+   ],
+   [
+    "mostly",
+    22.45
+   ],
+   [
+    "gas",
+    23.0
+   ],
+   [
+    "and",
+    23.28
+   ],
+   [
+    "air",
+    23.55
+   ]
+  ]
+ },
+ {
+  "s": 24.13,
+  "e": 26.38,
+  "text": "so every squeeze echoes like a drum.",
+  "words": [
+   [
+    "so",
+    24.13
+   ],
+   [
+    "every",
+    24.28
+   ],
+   [
+    "squeeze",
+    24.67
+   ],
+   [
+    "echoes",
+    25.21
+   ],
+   [
+    "like",
+    25.68
+   ],
+   [
+    "a",
+    25.99
+   ],
+   [
+    "drum",
+    26.07
+   ]
+  ]
+ },
+ {
+  "s": 26.93,
+  "e": 28.54,
+  "text": "When you've been empty a while,",
+  "words": [
+   [
+    "when",
+    26.93
+   ],
+   [
+    "youve",
+    27.2
+   ],
+   [
+    "been",
+    27.53
+   ],
+   [
+    "empty",
+    27.8
+   ],
+   [
+    "a",
+    28.14
+   ],
+   [
+    "while",
+    28.21
+   ]
+  ]
+ },
+ {
+  "s": 28.84,
+  "e": 30.51,
+  "text": "a big cleaning wave kicks in.",
+  "words": [
+   [
+    "a",
+    28.84
+   ],
+   [
+    "big",
+    28.91
+   ],
+   [
+    "cleaning",
+    29.13
+   ],
+   [
+    "wave",
+    29.71
+   ],
+   [
+    "kicks",
+    30.0
+   ],
+   [
+    "in",
+    30.37
+   ]
+  ]
+ },
+ {
+  "s": 31.06,
+  "e": 33.24,
+  "text": "It sweeps leftover food and bacteria",
+  "words": [
+   [
+    "it",
+    31.06
+   ],
+   [
+    "sweeps",
+    31.2
+   ],
+   [
+    "leftover",
+    31.62
+   ],
+   [
+    "food",
+    32.19
+   ],
+   [
+    "and",
+    32.47
+   ],
+   [
+    "bacteria",
+    32.68
+   ]
+  ]
+ },
+ {
+  "s": 33.54,
+  "e": 34.68,
+  "text": "down the whole gut.",
+  "words": [
+   [
+    "down",
+    33.54
+   ],
+   [
+    "the",
+    33.84
+   ],
+   [
+    "whole",
+    34.07
+   ],
+   [
+    "gut",
+    34.45
+   ]
+  ]
+ },
+ {
+  "s": 35.23,
+  "e": 37.28,
+  "text": "It rumbles for ten to twenty minutes,",
+  "words": [
+   [
+    "it",
+    35.23
+   ],
+   [
+    "rumbles",
+    35.36
+   ],
+   [
+    "for",
+    35.84
+   ],
+   [
+    "ten",
+    36.05
+   ],
+   [
+    "to",
+    36.25
+   ],
+   [
+    "twenty",
+    36.39
+   ],
+   [
+    "minutes",
+    36.8
+   ]
+  ]
+ },
+ {
+  "s": 37.58,
+  "e": 39.94,
+  "text": "then comes back every one to two hours,",
+  "words": [
+   [
+    "then",
+    37.58
+   ],
+   [
+    "comes",
+    37.89
+   ],
+   [
+    "back",
+    38.27
+   ],
+   [
+    "every",
+    38.57
+   ],
+   [
+    "one",
+    38.95
+   ],
+   [
+    "to",
+    39.18
+   ],
+   [
+    "two",
+    39.33
+   ],
+   [
+    "hours",
+    39.56
+   ]
+  ]
+ },
+ {
+  "s": 40.24,
+  "e": 41.48,
+  "text": "until you eat again.",
+  "words": [
+   [
+    "until",
+    40.24
+   ],
+   [
+    "you",
+    40.63
+   ],
+   [
+    "eat",
+    40.86
+   ],
+   [
+    "again",
+    41.1
+   ]
+  ]
+ },
+ {
+  "s": 42.03,
+  "e": 44.19,
+  "text": "The ancient Greeks called it borborygmi,",
+  "words": [
+   [
+    "the",
+    42.03
+   ],
+   [
+    "ancient",
+    42.22
+   ],
+   [
+    "greeks",
+    42.67
+   ],
+   [
+    "called",
+    43.05
+   ],
+   [
+    "it",
+    43.43
+   ],
+   [
+    "borborygmi",
+    43.55
+   ]
+  ]
+ },
+ {
+  "s": 44.49,
+  "e": 45.7,
+  "text": "which means rumbling.",
+  "words": [
+   [
+    "which",
+    44.49
+   ],
+   [
+    "means",
+    44.83
+   ],
+   [
+    "rumbling",
+    45.16
+   ]
+  ]
+ },
+ {
+  "s": 46.25,
+  "e": 48.14,
+  "text": "So that growl isn't just hunger.",
+  "words": [
+   [
+    "so",
+    46.25
+   ],
+   [
+    "that",
+    46.4
+   ],
+   [
+    "growl",
+    46.71
+   ],
+   [
+    "isnt",
+    47.08
+   ],
+   [
+    "just",
+    47.39
+   ],
+   [
+    "hunger",
+    47.69
+   ]
+  ]
+ },
+ {
+  "s": 48.69,
+  "e": 50.52,
+  "text": "It's your gut taking out the trash.",
+  "words": [
+   [
+    "its",
+    48.69
+   ],
+   [
+    "your",
+    48.89
+   ],
+   [
+    "gut",
+    49.16
+   ],
+   [
+    "taking",
+    49.37
+   ],
+   [
+    "out",
+    49.77
+   ],
+   [
+    "the",
+    49.98
+   ],
+   [
+    "trash",
+    50.18
+   ]
+  ]
+ },
+ {
+  "s": 51.07,
+  "e": 53.46,
+  "text": "When did your stomach growl at the worst moment?",
+  "words": [
+   [
+    "when",
+    51.07
+   ],
+   [
+    "did",
+    51.32
+   ],
+   [
+    "your",
+    51.5
+   ],
+   [
+    "stomach",
+    51.74
+   ],
+   [
+    "growl",
+    52.17
+   ],
+   [
+    "at",
+    52.48
+   ],
+   [
+    "the",
+    52.6
+   ],
+   [
+    "worst",
+    52.79
+   ],
+   [
+    "moment",
+    53.09
+   ]
+  ]
+ }
+]
