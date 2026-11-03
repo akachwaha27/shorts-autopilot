@@ -1,0 +1,722 @@
+[
+ {
+  "s": 0.25,
+  "e": 1.89,
+  "text": "Pigeon heads never bob,",
+  "words": [
+   [
+    "pigeon",
+    0.25
+   ],
+   [
+    "heads",
+    0.77
+   ],
+   [
+    "never",
+    1.2
+   ],
+   [
+    "bob",
+    1.63
+   ]
+  ]
+ },
+ {
+  "s": 2.19,
+  "e": 4.25,
+  "text": "you've been watching them freeze in midair.",
+  "words": [
+   [
+    "youve",
+    2.19
+   ],
+   [
+    "been",
+    2.49
+   ],
+   [
+    "watching",
+    2.72
+   ],
+   [
+    "them",
+    3.19
+   ],
+   [
+    "freeze",
+    3.42
+   ],
+   [
+    "in",
+    3.78
+   ],
+   [
+    "midair",
+    3.89
+   ]
+  ]
+ },
+ {
+  "s": 4.8,
+  "e": 5.89,
+  "text": "Watch one walk,",
+  "words": [
+   [
+    "watch",
+    4.8
+   ],
+   [
+    "one",
+    5.25
+   ],
+   [
+    "walk",
+    5.53
+   ]
+  ]
+ },
+ {
+  "s": 6.19,
+  "e": 7.52,
+  "text": "the head shoots forward,",
+  "words": [
+   [
+    "the",
+    6.19
+   ],
+   [
+    "head",
+    6.39
+   ],
+   [
+    "shoots",
+    6.66
+   ],
+   [
+    "forward",
+    7.05
+   ]
+  ]
+ },
+ {
+  "s": 7.82,
+  "e": 8.97,
+  "text": "about two inches.",
+  "words": [
+   [
+    "about",
+    7.82
+   ],
+   [
+    "two",
+    8.23
+   ],
+   [
+    "inches",
+    8.48
+   ]
+  ]
+ },
+ {
+  "s": 9.52,
+  "e": 10.54,
+  "text": "That's the thrust.",
+  "words": [
+   [
+    "thats",
+    9.52
+   ],
+   [
+    "the",
+    9.89
+   ],
+   [
+    "thrust",
+    10.1
+   ]
+  ]
+ },
+ {
+  "s": 11.09,
+  "e": 12.3,
+  "text": "Then it stops dead,",
+  "words": [
+   [
+    "then",
+    11.09
+   ],
+   [
+    "it",
+    11.41
+   ],
+   [
+    "stops",
+    11.57
+   ],
+   [
+    "dead",
+    11.97
+   ]
+  ]
+ },
+ {
+  "s": 12.6,
+  "e": 13.65,
+  "text": "locked in place,",
+  "words": [
+   [
+    "locked",
+    12.6
+   ],
+   [
+    "in",
+    13.08
+   ],
+   [
+    "place",
+    13.24
+   ]
+  ]
+ },
+ {
+  "s": 13.95,
+  "e": 15.62,
+  "text": "while the body walks underneath it.",
+  "words": [
+   [
+    "while",
+    13.95
+   ],
+   [
+    "the",
+    14.23
+   ],
+   [
+    "body",
+    14.41
+   ],
+   [
+    "walks",
+    14.64
+   ],
+   [
+    "underneath",
+    14.93
+   ],
+   [
+    "it",
+    15.5
+   ]
+  ]
+ },
+ {
+  "s": 16.17,
+  "e": 17.15,
+  "text": "That's the hold.",
+  "words": [
+   [
+    "thats",
+    16.17
+   ],
+   [
+    "the",
+    16.58
+   ],
+   [
+    "hold",
+    16.83
+   ]
+  ]
+ },
+ {
+  "s": 17.7,
+  "e": 18.9,
+  "text": "Then forward again,",
+  "words": [
+   [
+    "then",
+    17.7
+   ],
+   [
+    "forward",
+    18.0
+   ],
+   [
+    "again",
+    18.52
+   ]
+  ]
+ },
+ {
+  "s": 19.2,
+  "e": 21.09,
+  "text": "five to eight times every second.",
+  "words": [
+   [
+    "five",
+    19.2
+   ],
+   [
+    "to",
+    19.48
+   ],
+   [
+    "eight",
+    19.62
+   ],
+   [
+    "times",
+    19.97
+   ],
+   [
+    "every",
+    20.32
+   ],
+   [
+    "second",
+    20.67
+   ]
+  ]
+ },
+ {
+  "s": 21.64,
+  "e": 22.63,
+  "text": "But why bother?",
+  "words": [
+   [
+    "but",
+    21.64
+   ],
+   [
+    "why",
+    21.89
+   ],
+   [
+    "bother",
+    22.13
+   ]
+  ]
+ },
+ {
+  "s": 23.18,
+  "e": 24.73,
+  "text": "In nineteen seventy-eight,",
+  "words": [
+   [
+    "in",
+    23.18
+   ],
+   [
+    "nineteen",
+    23.32
+   ],
+   [
+    "seventyeight",
+    23.88
+   ]
+  ]
+ },
+ {
+  "s": 25.03,
+  "e": 27.99,
+  "text": "scientists in Canada put a pigeon on a treadmill.",
+  "words": [
+   [
+    "scientists",
+    25.03
+   ],
+   [
+    "in",
+    25.77
+   ],
+   [
+    "canada",
+    25.92
+   ],
+   [
+    "put",
+    26.36
+   ],
+   [
+    "a",
+    26.58
+   ],
+   [
+    "pigeon",
+    26.66
+   ],
+   [
+    "on",
+    27.1
+   ],
+   [
+    "a",
+    27.25
+   ],
+   [
+    "treadmill",
+    27.32
+   ]
+  ]
+ },
+ {
+  "s": 28.54,
+  "e": 29.98,
+  "text": "Its legs kept walking,",
+  "words": [
+   [
+    "its",
+    28.54
+   ],
+   [
+    "legs",
+    28.78
+   ],
+   [
+    "kept",
+    29.1
+   ],
+   [
+    "walking",
+    29.42
+   ]
+  ]
+ },
+ {
+  "s": 30.28,
+  "e": 32.14,
+  "text": "but the world around it stayed still,",
+  "words": [
+   [
+    "but",
+    30.28
+   ],
+   [
+    "the",
+    30.46
+   ],
+   [
+    "world",
+    30.65
+   ],
+   [
+    "around",
+    30.96
+   ],
+   [
+    "it",
+    31.33
+   ],
+   [
+    "stayed",
+    31.46
+   ],
+   [
+    "still",
+    31.83
+   ]
+  ]
+ },
+ {
+  "s": 32.44,
+  "e": 33.69,
+  "text": "and the bobbing stopped.",
+  "words": [
+   [
+    "and",
+    32.44
+   ],
+   [
+    "the",
+    32.63
+   ],
+   [
+    "bobbing",
+    32.82
+   ],
+   [
+    "stopped",
+    33.26
+   ]
+  ]
+ },
+ {
+  "s": 34.24,
+  "e": 35.96,
+  "text": "So it isn't about balance,",
+  "words": [
+   [
+    "so",
+    34.24
+   ],
+   [
+    "it",
+    34.42
+   ],
+   [
+    "isnt",
+    34.59
+   ],
+   [
+    "about",
+    34.93
+   ],
+   [
+    "balance",
+    35.36
+   ]
+  ]
+ },
+ {
+  "s": 36.26,
+  "e": 37.98,
+  "text": "it's about what the bird sees.",
+  "words": [
+   [
+    "its",
+    36.26
+   ],
+   [
+    "about",
+    36.48
+   ],
+   [
+    "what",
+    36.86
+   ],
+   [
+    "the",
+    37.16
+   ],
+   [
+    "bird",
+    37.38
+   ],
+   [
+    "sees",
+    37.68
+   ]
+  ]
+ },
+ {
+  "s": 38.53,
+  "e": 40.83,
+  "text": "Holding its head still keeps the view steady,",
+  "words": [
+   [
+    "holding",
+    38.53
+   ],
+   [
+    "its",
+    38.96
+   ],
+   [
+    "head",
+    39.15
+   ],
+   [
+    "still",
+    39.4
+   ],
+   [
+    "keeps",
+    39.71
+   ],
+   [
+    "the",
+    40.02
+   ],
+   [
+    "view",
+    40.21
+   ],
+   [
+    "steady",
+    40.45
+   ]
+  ]
+ },
+ {
+  "s": 41.13,
+  "e": 42.86,
+  "text": "like a camera on a tripod,",
+  "words": [
+   [
+    "like",
+    41.13
+   ],
+   [
+    "a",
+    41.47
+   ],
+   [
+    "camera",
+    41.56
+   ],
+   [
+    "on",
+    42.08
+   ],
+   [
+    "a",
+    42.26
+   ],
+   [
+    "tripod",
+    42.34
+   ]
+  ]
+ },
+ {
+  "s": 43.16,
+  "e": 44.82,
+  "text": "while the world slides past.",
+  "words": [
+   [
+    "while",
+    43.16
+   ],
+   [
+    "the",
+    43.52
+   ],
+   [
+    "world",
+    43.74
+   ],
+   [
+    "slides",
+    44.1
+   ],
+   [
+    "past",
+    44.53
+   ]
+  ]
+ },
+ {
+  "s": 45.37,
+  "e": 47.04,
+  "text": "Chickens and cranes do it too.",
+  "words": [
+   [
+    "chickens",
+    45.37
+   ],
+   [
+    "and",
+    45.93
+   ],
+   [
+    "cranes",
+    46.14
+   ],
+   [
+    "do",
+    46.55
+   ],
+   [
+    "it",
+    46.69
+   ],
+   [
+    "too",
+    46.83
+   ]
+  ]
+ },
+ {
+  "s": 47.59,
+  "e": 49.25,
+  "text": "So next time you see a pigeon,",
+  "words": [
+   [
+    "so",
+    47.59
+   ],
+   [
+    "next",
+    47.73
+   ],
+   [
+    "time",
+    48.02
+   ],
+   [
+    "you",
+    48.31
+   ],
+   [
+    "see",
+    48.53
+   ],
+   [
+    "a",
+    48.74
+   ],
+   [
+    "pigeon",
+    48.81
+   ]
+  ]
+ },
+ {
+  "s": 49.55,
+  "e": 50.47,
+  "text": "watch the head.",
+  "words": [
+   [
+    "watch",
+    49.55
+   ],
+   [
+    "the",
+    49.93
+   ],
+   [
+    "head",
+    50.17
+   ]
+  ]
+ },
+ {
+  "s": 51.02,
+  "e": 51.94,
+  "text": "Is it bobbing,",
+  "words": [
+   [
+    "is",
+    51.02
+   ],
+   [
+    "it",
+    51.19
+   ],
+   [
+    "bobbing",
+    51.36
+   ]
+  ]
+ },
+ {
+  "s": 52.24,
+  "e": 53.39,
+  "text": "or standing still?",
+  "words": [
+   [
+    "or",
+    52.24
+   ],
+   [
+    "standing",
+    52.4
+   ],
+   [
+    "still",
+    53.01
+   ]
+  ]
+ }
+]
