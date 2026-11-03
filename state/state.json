@@ -3129,7 +3129,7 @@
         "format": "animated",
         "style": "Flat-Vector Science"
       },
-      "status": "awaiting_approval",
+      "status": "approved",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261103-pigeon-head-bob",
@@ -3149,7 +3149,9 @@
         "name": "2026-11-03-105-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:01,890\nPigeon heads never bob,\n\n2\n00:00:02,190 --> 00:00:04,250\nyou've been watching them freeze in midair.\n\n3\n00:00:04,800 --> 00:00:05,890\nWatch one walk,\n\n4\n00:00:06,190 --> 00:00:07,520\nthe head shoots forward,\n\n5\n00:00:07,820 --> 00:00:08,970\nabout two inches.\n\n6\n00:00:09,520 --> 00:00:10,540\nThat's the thrust.\n\n7\n00:00:11,090 --> 00:00:12,300\nThen it stops dead,\n\n8\n00:00:12,600 --> 00:00:13,650\nlocked in place,\n\n9\n00:00:13,950 --> 00:00:15,620\nwhile the body walks underneath it.\n\n10\n00:00:16,170 --> 00:00:17,150\nThat's the hold.\n\n11\n00:00:17,700 --> 00:00:18,900\nThen forward again,\n\n12\n00:00:19,200 --> 00:00:21,090\nfive to eight times every second.\n\n13\n00:00:21,640 --> 00:00:22,630\nBut why bother?\n\n14\n00:00:23,180 --> 00:00:24,730\nIn nineteen seventy-eight,\n\n15\n00:00:25,030 --> 00:00:27,990\nscientists in Canada put a pigeon on a treadmill.\n\n16\n00:00:28,540 --> 00:00:29,980\nIts legs kept walking,\n\n17\n00:00:30,280 --> 00:00:32,140\nbut the world around it stayed still,\n\n18\n00:00:32,440 --> 00:00:33,690\nand the bobbing stopped.\n\n19\n00:00:34,240 --> 00:00:35,960\nSo it isn't about balance,\n\n20\n00:00:36,260 --> 00:00:37,980\nit's about what the bird sees.\n\n21\n00:00:38,530 --> 00:00:40,830\nHolding its head still keeps the view steady,\n\n22\n00:00:41,130 --> 00:00:42,860\nlike a camera on a tripod,\n\n23\n00:00:43,160 --> 00:00:44,820\nwhile the world slides past.\n\n24\n00:00:45,370 --> 00:00:47,040\nChickens and cranes do it too.\n\n25\n00:00:47,590 --> 00:00:49,250\nSo next time you see a pigeon,\n\n26\n00:00:49,550 --> 00:00:50,470\nwatch the head.\n\n27\n00:00:51,020 --> 00:00:51,940\nIs it bobbing,\n\n28\n00:00:52,240 --> 00:00:53,390\nor standing still?\n\n",
-      "tg_msg": 1008
+      "tg_msg": 1008,
+      "approved_by": "auto",
+      "quota_note": "2026-11-03"
     }
   },
   "history": [
