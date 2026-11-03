@@ -1,0 +1,748 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.36,
+  "text": "Your grey hairs start with stuck cells,",
+  "words": [
+   [
+    "your",
+    0.25
+   ],
+   [
+    "grey",
+    0.51
+   ],
+   [
+    "hairs",
+    0.78
+   ],
+   [
+    "start",
+    1.11
+   ],
+   [
+    "with",
+    1.44
+   ],
+   [
+    "stuck",
+    1.7
+   ],
+   [
+    "cells",
+    2.03
+   ]
+  ]
+ },
+ {
+  "s": 2.66,
+  "e": 4.28,
+  "text": "tiny ones, at your roots.",
+  "words": [
+   [
+    "tiny",
+    2.66
+   ],
+   [
+    "ones",
+    3.0
+   ],
+   [
+    "at",
+    3.34
+   ],
+   [
+    "your",
+    3.51
+   ],
+   [
+    "roots",
+    3.85
+   ]
+  ]
+ },
+ {
+  "s": 4.83,
+  "e": 6.65,
+  "text": "Hair gets its colour from melanin,",
+  "words": [
+   [
+    "hair",
+    4.83
+   ],
+   [
+    "gets",
+    5.09
+   ],
+   [
+    "its",
+    5.35
+   ],
+   [
+    "colour",
+    5.54
+   ],
+   [
+    "from",
+    5.93
+   ],
+   [
+    "melanin",
+    6.19
+   ]
+  ]
+ },
+ {
+  "s": 6.95,
+  "e": 9.67,
+  "text": "a pigment made by cells called melanocytes.",
+  "words": [
+   [
+    "a",
+    6.95
+   ],
+   [
+    "pigment",
+    7.02
+   ],
+   [
+    "made",
+    7.55
+   ],
+   [
+    "by",
+    7.85
+   ],
+   [
+    "cells",
+    8.01
+   ],
+   [
+    "called",
+    8.38
+   ],
+   [
+    "melanocytes",
+    8.84
+   ]
+  ]
+ },
+ {
+  "s": 10.22,
+  "e": 12.3,
+  "text": "They sit at the bottom of each follicle,",
+  "words": [
+   [
+    "they",
+    10.22
+   ],
+   [
+    "sit",
+    10.48
+   ],
+   [
+    "at",
+    10.68
+   ],
+   [
+    "the",
+    10.81
+   ],
+   [
+    "bottom",
+    11.0
+   ],
+   [
+    "of",
+    11.39
+   ],
+   [
+    "each",
+    11.52
+   ],
+   [
+    "follicle",
+    11.78
+   ]
+  ]
+ },
+ {
+  "s": 12.6,
+  "e": 14.65,
+  "text": "and inject colour as the hair grows.",
+  "words": [
+   [
+    "and",
+    12.6
+   ],
+   [
+    "inject",
+    12.81
+   ],
+   [
+    "colour",
+    13.24
+   ],
+   [
+    "as",
+    13.66
+   ],
+   [
+    "the",
+    13.8
+   ],
+   [
+    "hair",
+    14.02
+   ],
+   [
+    "grows",
+    14.3
+   ]
+  ]
+ },
+ {
+  "s": 15.2,
+  "e": 16.91,
+  "text": "But those cells need replacing,",
+  "words": [
+   [
+    "but",
+    15.2
+   ],
+   [
+    "those",
+    15.4
+   ],
+   [
+    "cells",
+    15.73
+   ],
+   [
+    "need",
+    16.05
+   ],
+   [
+    "replacing",
+    16.32
+   ]
+  ]
+ },
+ {
+  "s": 17.21,
+  "e": 18.98,
+  "text": "and that's the job of stem cells.",
+  "words": [
+   [
+    "and",
+    17.21
+   ],
+   [
+    "thats",
+    17.42
+   ],
+   [
+    "the",
+    17.77
+   ],
+   [
+    "job",
+    17.98
+   ],
+   [
+    "of",
+    18.2
+   ],
+   [
+    "stem",
+    18.34
+   ],
+   [
+    "cells",
+    18.62
+   ]
+  ]
+ },
+ {
+  "s": 19.53,
+  "e": 22.43,
+  "text": "In mice, scientists found these stem cells commute,",
+  "words": [
+   [
+    "in",
+    19.53
+   ],
+   [
+    "mice",
+    19.67
+   ],
+   [
+    "scientists",
+    19.94
+   ],
+   [
+    "found",
+    20.63
+   ],
+   [
+    "these",
+    20.98
+   ],
+   [
+    "stem",
+    21.32
+   ],
+   [
+    "cells",
+    21.6
+   ],
+   [
+    "commute",
+    21.94
+   ]
+  ]
+ },
+ {
+  "s": 22.73,
+  "e": 24.57,
+  "text": "moving up and down the follicle.",
+  "words": [
+   [
+    "moving",
+    22.73
+   ],
+   [
+    "up",
+    23.15
+   ],
+   [
+    "and",
+    23.29
+   ],
+   [
+    "down",
+    23.51
+   ],
+   [
+    "the",
+    23.79
+   ],
+   [
+    "follicle",
+    24.01
+   ]
+  ]
+ },
+ {
+  "s": 25.12,
+  "e": 27.9,
+  "text": "Moving is how they get the signal to make colour.",
+  "words": [
+   [
+    "moving",
+    25.12
+   ],
+   [
+    "is",
+    25.55
+   ],
+   [
+    "how",
+    25.69
+   ],
+   [
+    "they",
+    25.91
+   ],
+   [
+    "get",
+    26.19
+   ],
+   [
+    "the",
+    26.4
+   ],
+   [
+    "signal",
+    26.62
+   ],
+   [
+    "to",
+    27.04
+   ],
+   [
+    "make",
+    27.19
+   ],
+   [
+    "colour",
+    27.47
+   ]
+  ]
+ },
+ {
+  "s": 28.45,
+  "e": 30.76,
+  "text": "But as hair ages, more of them stop.",
+  "words": [
+   [
+    "but",
+    28.45
+   ],
+   [
+    "as",
+    28.7
+   ],
+   [
+    "hair",
+    28.88
+   ],
+   [
+    "ages",
+    29.22
+   ],
+   [
+    "more",
+    29.56
+   ],
+   [
+    "of",
+    29.9
+   ],
+   [
+    "them",
+    30.07
+   ],
+   [
+    "stop",
+    30.42
+   ]
+  ]
+ },
+ {
+  "s": 31.31,
+  "e": 33.44,
+  "text": "They get stuck in a spot called the bulge.",
+  "words": [
+   [
+    "they",
+    31.31
+   ],
+   [
+    "get",
+    31.57
+   ],
+   [
+    "stuck",
+    31.76
+   ],
+   [
+    "in",
+    32.08
+   ],
+   [
+    "a",
+    32.21
+   ],
+   [
+    "spot",
+    32.28
+   ],
+   [
+    "called",
+    32.54
+   ],
+   [
+    "the",
+    32.92
+   ],
+   [
+    "bulge",
+    33.12
+   ]
+  ]
+ },
+ {
+  "s": 33.99,
+  "e": 36.33,
+  "text": "In plucked mouse hair, stuck cells jumped,",
+  "words": [
+   [
+    "in",
+    33.99
+   ],
+   [
+    "plucked",
+    34.13
+   ],
+   [
+    "mouse",
+    34.61
+   ],
+   [
+    "hair",
+    34.96
+   ],
+   [
+    "stuck",
+    35.23
+   ],
+   [
+    "cells",
+    35.58
+   ],
+   [
+    "jumped",
+    35.92
+   ]
+  ]
+ },
+ {
+  "s": 36.63,
+  "e": 38.88,
+  "text": "from fifteen percent to nearly fifty.",
+  "words": [
+   [
+    "from",
+    36.63
+   ],
+   [
+    "fifteen",
+    36.92
+   ],
+   [
+    "percent",
+    37.43
+   ],
+   [
+    "to",
+    37.94
+   ],
+   [
+    "nearly",
+    38.08
+   ],
+   [
+    "fifty",
+    38.52
+   ]
+  ]
+ },
+ {
+  "s": 39.43,
+  "e": 41.6,
+  "text": "Stuck cells can't make new colour cells.",
+  "words": [
+   [
+    "stuck",
+    39.43
+   ],
+   [
+    "cells",
+    39.77
+   ],
+   [
+    "cant",
+    40.11
+   ],
+   [
+    "make",
+    40.38
+   ],
+   [
+    "new",
+    40.65
+   ],
+   [
+    "colour",
+    40.86
+   ],
+   [
+    "cells",
+    41.26
+   ]
+  ]
+ },
+ {
+  "s": 42.15,
+  "e": 43.72,
+  "text": "Less melanin means grey,",
+  "words": [
+   [
+    "less",
+    42.15
+   ],
+   [
+    "melanin",
+    42.47
+   ],
+   [
+    "means",
+    43.01
+   ],
+   [
+    "grey",
+    43.4
+   ]
+  ]
+ },
+ {
+  "s": 44.02,
+  "e": 45.62,
+  "text": "no melanin means white.",
+  "words": [
+   [
+    "no",
+    44.02
+   ],
+   [
+    "melanin",
+    44.18
+   ],
+   [
+    "means",
+    44.78
+   ],
+   [
+    "white",
+    45.2
+   ]
+  ]
+ },
+ {
+  "s": 46.17,
+  "e": 47.57,
+  "text": "By your early sixties,",
+  "words": [
+   [
+    "by",
+    46.17
+   ],
+   [
+    "your",
+    46.33
+   ],
+   [
+    "early",
+    46.64
+   ],
+   [
+    "sixties",
+    47.02
+   ]
+  ]
+ },
+ {
+  "s": 47.87,
+  "e": 50.67,
+  "text": "about ninety-one percent of people have some grey.",
+  "words": [
+   [
+    "about",
+    47.87
+   ],
+   [
+    "ninetyone",
+    48.21
+   ],
+   [
+    "percent",
+    48.82
+   ],
+   [
+    "of",
+    49.3
+   ],
+   [
+    "people",
+    49.44
+   ],
+   [
+    "have",
+    49.85
+   ],
+   [
+    "some",
+    50.12
+   ],
+   [
+    "grey",
+    50.39
+   ]
+  ]
+ },
+ {
+  "s": 51.22,
+  "e": 53.47,
+  "text": "So if scientists could unstick those cells,",
+  "words": [
+   [
+    "so",
+    51.22
+   ],
+   [
+    "if",
+    51.34
+   ],
+   [
+    "scientists",
+    51.47
+   ],
+   [
+    "could",
+    52.09
+   ],
+   [
+    "unstick",
+    52.41
+   ],
+   [
+    "those",
+    52.85
+   ],
+   [
+    "cells",
+    53.16
+   ]
+  ]
+ },
+ {
+  "s": 53.77,
+  "e": 55.69,
+  "text": "would you keep your grey, or go back?",
+  "words": [
+   [
+    "would",
+    53.77
+   ],
+   [
+    "you",
+    54.11
+   ],
+   [
+    "keep",
+    54.32
+   ],
+   [
+    "your",
+    54.59
+   ],
+   [
+    "grey",
+    54.87
+   ],
+   [
+    "or",
+    55.14
+   ],
+   [
+    "go",
+    55.28
+   ],
+   [
+    "back",
+    55.42
+   ]
+  ]
+ }
+]
