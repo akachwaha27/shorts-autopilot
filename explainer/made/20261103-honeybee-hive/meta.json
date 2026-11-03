@@ -1,0 +1,44 @@
+{
+ "kind": "long",
+ "title": "How Do 60,000 Bees Run a Hive With No Boss?",
+ "description": "How does a honeybee hive work with no one in charge? See how the queen, drones and workers split the jobs, why comb is built from hexagons, how the waggle dance gives directions, and how bees heat and cool the hive.\n\nSources:\nhttps://canr.udel.edu/maarec/honey-bee-biology/the-colony-and-its-organization/\nhttps://content.ces.ncsu.edu/honey-bee-dance-language\nhttps://extension.oregonstate.edu/es/catalog/bees-demonstrate-theyre-natures-hvac-specialists\n\nAnimated in the Cut-Paper Diorama style.",
+ "hashtags": [
+  "#bees",
+  "#science",
+  "#animals"
+ ],
+ "tags": [
+  "honeybee hive",
+  "how does a beehive work",
+  "how bees work",
+  "waggle dance",
+  "queen bee",
+  "worker bee",
+  "drone bee",
+  "why honeycomb is hexagon",
+  "hexagon honeycomb",
+  "bee colony",
+  "how bees keep warm in winter",
+  "insects explained",
+  "animal facts",
+  "science explained"
+ ],
+ "pinned_comment": "Which hive job would you want: cleaner, nurse, builder, guard, or forager?",
+ "thumbnail_text": "THEY DANCE MAPS",
+ "style": "Cut-Paper Diorama",
+ "topic": "How does a honeybee hive work?",
+ "script": "Sixty thousand bees, no boss, and you'd never guess how they run it. This hive builds perfect rooms, runs its own heating and cooling, and shares maps by dancing. So how does a honeybee hive actually work? Let's start with the queen. She sounds like the boss, but she doesn't give orders. Her real job is eggs. At her peak, she can lay up to fifteen hundred a day. That's about one egg every minute, all day and all night. Around her are a few hundred males, called drones. They're only here to mate with a new queen. And when the cold comes in fall, the workers shove them out the door. Everyone else is a worker, and every worker is female. A queen and a worker can start as the same kind of egg. The difference is food. A future queen gets loads of royal jelly, and a worker gets far less. Now, a summer worker only lives about six weeks, and she changes careers the whole way through. Day one, she's a cleaner, polishing her own cell. Around day five, she's a nurse, feeding the babies. Around day twelve, wax glands on her belly switch on, so she turns builder. Around day fifteen, she can guard the door. And after about three weeks, she finally goes outside, to spend the rest of her life hunting flowers. Wax is seriously expensive. It takes about eight pounds of honey, to make one pound of wax. So the hive can't waste a drop. Circles leave gaps. Squares and triangles fit, but they use more wall. Hexagons give you the most room, for the least wax. People suspected that for centuries, but a mathematician only proved it in nineteen ninety-nine. Bees got there first, with no math at all. Now, the coolest trick in the hive. A forager finds flowers a long way off. How does she tell her sisters, in the pitch dark, with no words? She dances. She runs in a straight line, shaking her body, loops back, and does it again. The angle of that run is the direction. Straight up means fly toward the sun. Sixty degrees to the left, means sixty degrees left of the sun. And the waggle's length is the distance. A waggle of about two and a half seconds, means flowers over a mile and a half away. Cracking that code won Karl von Frisch, a Nobel Prize in nineteen seventy-three. The babies are picky. They need to stay close to ninety-five degrees Fahrenheit. Too cold? Workers shiver their flight muscles, without flapping, and turn into tiny heaters. Too hot? They carry in water, spread it on the comb, and fan it with their wings. As it evaporates, the hive cools down. That's air conditioning, powered by bees. And in winter, they don't hibernate. Below about fifty-seven degrees, they pull into a tight ball around the queen, and burn honey to make heat. That's why they store all that honey. It's their winter fuel. So no single bee knows the plan. Each one just follows simple rules. But put sixty thousand together, and you get something that acts like one giant animal. Next up, why does cilantro taste like soap, to some people?",
+ "key_facts": [
+  "Colonies reach up to about 60,000 workers; a few hundred drones in late spring and summer (Univ. of Delaware MAAREC)",
+  "Queens may lay up to 1,500 eggs a day at peak (MAAREC)",
+  "Drones are forced out in fall (MAAREC)",
+  "Queens come from fertilized eggs or young worker larvae, fed copious royal jelly (MAAREC)",
+  "Summer workers live about 6 weeks (MAAREC). Job ages: cell cleaning from emergence, nursing about day 5, wax about day 12, guarding about day 15, foraging from about day 21 (Univ. of Arizona Extension; American Bee Journal 2024)",
+  "About 8 lb of honey for 1 lb of wax (AskNature; American Bee Journal)",
+  "Hexagonal tiling has least perimeter for equal areas; proof posted 1999 (arXiv math/9906042)",
+  "Waggle-run angle from vertical = angle from the sun; 2.5 s waggle = about 2,625 m, about 1.6 miles; Nobel 1973 (NC State Extension)",
+  "Brood kept near 92-95 F in summer; heat from shivering flight muscles; cooling by fanning and evaporating water (Oregon State Extension)",
+  "Below about 57 F bees form a cluster around the queen, not hibernating, fuelled by honey (Mississippi State Extension; MAAREC)"
+ ],
+ "category": "27"
+}

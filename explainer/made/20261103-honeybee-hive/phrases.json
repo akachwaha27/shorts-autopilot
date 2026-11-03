@@ -1,0 +1,2795 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.48,
+  "text": "Sixty thousand bees, no boss,",
+  "words": [
+   [
+    "sixty",
+    0.25
+   ],
+   [
+    "thousand",
+    0.74
+   ],
+   [
+    "bees",
+    1.51
+   ],
+   [
+    "no",
+    1.9
+   ],
+   [
+    "boss",
+    2.09
+   ]
+  ]
+ },
+ {
+  "s": 2.78,
+  "e": 4.56,
+  "text": "and you'd never guess how they run it.",
+  "words": [
+   [
+    "and",
+    2.78
+   ],
+   [
+    "youd",
+    2.97
+   ],
+   [
+    "never",
+    3.21
+   ],
+   [
+    "guess",
+    3.52
+   ],
+   [
+    "how",
+    3.82
+   ],
+   [
+    "they",
+    4.01
+   ],
+   [
+    "run",
+    4.25
+   ],
+   [
+    "it",
+    4.43
+   ]
+  ]
+ },
+ {
+  "s": 5.11,
+  "e": 6.98,
+  "text": "This hive builds perfect rooms,",
+  "words": [
+   [
+    "this",
+    5.11
+   ],
+   [
+    "hive",
+    5.39
+   ],
+   [
+    "builds",
+    5.68
+   ],
+   [
+    "perfect",
+    6.11
+   ],
+   [
+    "rooms",
+    6.62
+   ]
+  ]
+ },
+ {
+  "s": 7.28,
+  "e": 8.96,
+  "text": "runs its own heating and cooling,",
+  "words": [
+   [
+    "runs",
+    7.28
+   ],
+   [
+    "its",
+    7.53
+   ],
+   [
+    "own",
+    7.71
+   ],
+   [
+    "heating",
+    7.9
+   ],
+   [
+    "and",
+    8.34
+   ],
+   [
+    "cooling",
+    8.53
+   ]
+  ]
+ },
+ {
+  "s": 9.26,
+  "e": 10.88,
+  "text": "and shares maps by dancing.",
+  "words": [
+   [
+    "and",
+    9.26
+   ],
+   [
+    "shares",
+    9.48
+   ],
+   [
+    "maps",
+    9.92
+   ],
+   [
+    "by",
+    10.22
+   ],
+   [
+    "dancing",
+    10.36
+   ]
+  ]
+ },
+ {
+  "s": 11.43,
+  "e": 13.85,
+  "text": "So how does a honeybee hive actually work?",
+  "words": [
+   [
+    "so",
+    11.43
+   ],
+   [
+    "how",
+    11.57
+   ],
+   [
+    "does",
+    11.78
+   ],
+   [
+    "a",
+    12.07
+   ],
+   [
+    "honeybee",
+    12.14
+   ],
+   [
+    "hive",
+    12.71
+   ],
+   [
+    "actually",
+    12.99
+   ],
+   [
+    "work",
+    13.56
+   ]
+  ]
+ },
+ {
+  "s": 14.4,
+  "e": 15.76,
+  "text": "Let's start with the queen.",
+  "words": [
+   [
+    "lets",
+    14.4
+   ],
+   [
+    "start",
+    14.66
+   ],
+   [
+    "with",
+    14.98
+   ],
+   [
+    "the",
+    15.24
+   ],
+   [
+    "queen",
+    15.44
+   ]
+  ]
+ },
+ {
+  "s": 16.31,
+  "e": 17.61,
+  "text": "She sounds like the boss,",
+  "words": [
+   [
+    "she",
+    16.31
+   ],
+   [
+    "sounds",
+    16.5
+   ],
+   [
+    "like",
+    16.89
+   ],
+   [
+    "the",
+    17.15
+   ],
+   [
+    "boss",
+    17.35
+   ]
+  ]
+ },
+ {
+  "s": 17.91,
+  "e": 19.39,
+  "text": "but she doesn't give orders.",
+  "words": [
+   [
+    "but",
+    17.91
+   ],
+   [
+    "she",
+    18.11
+   ],
+   [
+    "doesnt",
+    18.31
+   ],
+   [
+    "give",
+    18.72
+   ],
+   [
+    "orders",
+    18.99
+   ]
+  ]
+ },
+ {
+  "s": 19.94,
+  "e": 21.59,
+  "text": "Her real job is eggs.",
+  "words": [
+   [
+    "her",
+    19.94
+   ],
+   [
+    "real",
+    20.25
+   ],
+   [
+    "job",
+    20.66
+   ],
+   [
+    "is",
+    20.97
+   ],
+   [
+    "eggs",
+    21.18
+   ]
+  ]
+ },
+ {
+  "s": 22.14,
+  "e": 25.24,
+  "text": "At her peak, she can lay up to fifteen hundred a day.",
+  "words": [
+   [
+    "at",
+    22.14
+   ],
+   [
+    "her",
+    22.3
+   ],
+   [
+    "peak",
+    22.53
+   ],
+   [
+    "she",
+    22.84
+   ],
+   [
+    "can",
+    23.07
+   ],
+   [
+    "lay",
+    23.3
+   ],
+   [
+    "up",
+    23.54
+   ],
+   [
+    "to",
+    23.69
+   ],
+   [
+    "fifteen",
+    23.84
+   ],
+   [
+    "hundred",
+    24.39
+   ],
+   [
+    "a",
+    24.93
+   ],
+   [
+    "day",
+    25.01
+   ]
+  ]
+ },
+ {
+  "s": 25.79,
+  "e": 27.57,
+  "text": "That's about one egg every minute,",
+  "words": [
+   [
+    "thats",
+    25.79
+   ],
+   [
+    "about",
+    26.12
+   ],
+   [
+    "one",
+    26.45
+   ],
+   [
+    "egg",
+    26.65
+   ],
+   [
+    "every",
+    26.84
+   ],
+   [
+    "minute",
+    27.17
+   ]
+  ]
+ },
+ {
+  "s": 27.87,
+  "e": 29.25,
+  "text": "all day and all night.",
+  "words": [
+   [
+    "all",
+    27.87
+   ],
+   [
+    "day",
+    28.11
+   ],
+   [
+    "and",
+    28.36
+   ],
+   [
+    "all",
+    28.6
+   ],
+   [
+    "night",
+    28.84
+   ]
+  ]
+ },
+ {
+  "s": 29.8,
+  "e": 31.88,
+  "text": "Around her are a few hundred males,",
+  "words": [
+   [
+    "around",
+    29.8
+   ],
+   [
+    "her",
+    30.24
+   ],
+   [
+    "are",
+    30.46
+   ],
+   [
+    "a",
+    30.69
+   ],
+   [
+    "few",
+    30.76
+   ],
+   [
+    "hundred",
+    30.98
+   ],
+   [
+    "males",
+    31.5
+   ]
+  ]
+ },
+ {
+  "s": 32.18,
+  "e": 33.16,
+  "text": "called drones.",
+  "words": [
+   [
+    "called",
+    32.18
+   ],
+   [
+    "drones",
+    32.67
+   ]
+  ]
+ },
+ {
+  "s": 33.71,
+  "e": 35.83,
+  "text": "They're only here to mate with a new queen.",
+  "words": [
+   [
+    "theyre",
+    33.71
+   ],
+   [
+    "only",
+    34.1
+   ],
+   [
+    "here",
+    34.35
+   ],
+   [
+    "to",
+    34.61
+   ],
+   [
+    "mate",
+    34.74
+   ],
+   [
+    "with",
+    34.99
+   ],
+   [
+    "a",
+    35.25
+   ],
+   [
+    "new",
+    35.31
+   ],
+   [
+    "queen",
+    35.51
+   ]
+  ]
+ },
+ {
+  "s": 36.38,
+  "e": 38.11,
+  "text": "And when the cold comes in fall,",
+  "words": [
+   [
+    "and",
+    36.38
+   ],
+   [
+    "when",
+    36.59
+   ],
+   [
+    "the",
+    36.86
+   ],
+   [
+    "cold",
+    37.07
+   ],
+   [
+    "comes",
+    37.35
+   ],
+   [
+    "in",
+    37.7
+   ],
+   [
+    "fall",
+    37.83
+   ]
+  ]
+ },
+ {
+  "s": 38.41,
+  "e": 40.28,
+  "text": "the workers shove them out the door.",
+  "words": [
+   [
+    "the",
+    38.41
+   ],
+   [
+    "workers",
+    38.6
+   ],
+   [
+    "shove",
+    39.05
+   ],
+   [
+    "them",
+    39.38
+   ],
+   [
+    "out",
+    39.63
+   ],
+   [
+    "the",
+    39.83
+   ],
+   [
+    "door",
+    40.02
+   ]
+  ]
+ },
+ {
+  "s": 40.83,
+  "e": 42.45,
+  "text": "Everyone else is a worker,",
+  "words": [
+   [
+    "everyone",
+    40.83
+   ],
+   [
+    "else",
+    41.44
+   ],
+   [
+    "is",
+    41.75
+   ],
+   [
+    "a",
+    41.91
+   ],
+   [
+    "worker",
+    41.99
+   ]
+  ]
+ },
+ {
+  "s": 42.75,
+  "e": 44.42,
+  "text": "and every worker is female.",
+  "words": [
+   [
+    "and",
+    42.75
+   ],
+   [
+    "every",
+    42.98
+   ],
+   [
+    "worker",
+    43.36
+   ],
+   [
+    "is",
+    43.81
+   ],
+   [
+    "female",
+    43.96
+   ]
+  ]
+ },
+ {
+  "s": 44.97,
+  "e": 48.41,
+  "text": "A queen and a worker can start as the same kind of egg.",
+  "words": [
+   [
+    "a",
+    44.97
+   ],
+   [
+    "queen",
+    45.05
+   ],
+   [
+    "and",
+    45.46
+   ],
+   [
+    "a",
+    45.7
+   ],
+   [
+    "worker",
+    45.78
+   ],
+   [
+    "can",
+    46.28
+   ],
+   [
+    "start",
+    46.52
+   ],
+   [
+    "as",
+    46.93
+   ],
+   [
+    "the",
+    47.1
+   ],
+   [
+    "same",
+    47.34
+   ],
+   [
+    "kind",
+    47.67
+   ],
+   [
+    "of",
+    48.0
+   ],
+   [
+    "egg",
+    48.16
+   ]
+  ]
+ },
+ {
+  "s": 48.96,
+  "e": 50.26,
+  "text": "The difference is food.",
+  "words": [
+   [
+    "the",
+    48.96
+   ],
+   [
+    "difference",
+    49.16
+   ],
+   [
+    "is",
+    49.85
+   ],
+   [
+    "food",
+    49.99
+   ]
+  ]
+ },
+ {
+  "s": 50.81,
+  "e": 53.39,
+  "text": "A future queen gets loads of royal jelly,",
+  "words": [
+   [
+    "a",
+    50.81
+   ],
+   [
+    "future",
+    50.89
+   ],
+   [
+    "queen",
+    51.36
+   ],
+   [
+    "gets",
+    51.75
+   ],
+   [
+    "loads",
+    52.06
+   ],
+   [
+    "of",
+    52.45
+   ],
+   [
+    "royal",
+    52.61
+   ],
+   [
+    "jelly",
+    53.0
+   ]
+  ]
+ },
+ {
+  "s": 53.69,
+  "e": 55.41,
+  "text": "and a worker gets far less.",
+  "words": [
+   [
+    "and",
+    53.69
+   ],
+   [
+    "a",
+    53.94
+   ],
+   [
+    "worker",
+    54.02
+   ],
+   [
+    "gets",
+    54.51
+   ],
+   [
+    "far",
+    54.84
+   ],
+   [
+    "less",
+    55.08
+   ]
+  ]
+ },
+ {
+  "s": 55.96,
+  "e": 58.98,
+  "text": "Now, a summer worker only lives about six weeks,",
+  "words": [
+   [
+    "now",
+    55.96
+   ],
+   [
+    "a",
+    56.2
+   ],
+   [
+    "summer",
+    56.28
+   ],
+   [
+    "worker",
+    56.75
+   ],
+   [
+    "only",
+    57.23
+   ],
+   [
+    "lives",
+    57.55
+   ],
+   [
+    "about",
+    57.94
+   ],
+   [
+    "six",
+    58.34
+   ],
+   [
+    "weeks",
+    58.58
+   ]
+  ]
+ },
+ {
+  "s": 59.28,
+  "e": 61.64,
+  "text": "and she changes careers the whole way through.",
+  "words": [
+   [
+    "and",
+    59.28
+   ],
+   [
+    "she",
+    59.46
+   ],
+   [
+    "changes",
+    59.65
+   ],
+   [
+    "careers",
+    60.08
+   ],
+   [
+    "the",
+    60.52
+   ],
+   [
+    "whole",
+    60.71
+   ],
+   [
+    "way",
+    61.02
+   ],
+   [
+    "through",
+    61.2
+   ]
+  ]
+ },
+ {
+  "s": 62.19,
+  "e": 63.64,
+  "text": "Day one, she's a cleaner,",
+  "words": [
+   [
+    "day",
+    62.19
+   ],
+   [
+    "one",
+    62.43
+   ],
+   [
+    "shes",
+    62.67
+   ],
+   [
+    "a",
+    62.99
+   ],
+   [
+    "cleaner",
+    63.07
+   ]
+  ]
+ },
+ {
+  "s": 63.94,
+  "e": 65.27,
+  "text": "polishing her own cell.",
+  "words": [
+   [
+    "polishing",
+    63.94
+   ],
+   [
+    "her",
+    64.57
+   ],
+   [
+    "own",
+    64.78
+   ],
+   [
+    "cell",
+    64.99
+   ]
+  ]
+ },
+ {
+  "s": 65.82,
+  "e": 67.58,
+  "text": "Around day five, she's a nurse,",
+  "words": [
+   [
+    "around",
+    65.82
+   ],
+   [
+    "day",
+    66.28
+   ],
+   [
+    "five",
+    66.51
+   ],
+   [
+    "shes",
+    66.81
+   ],
+   [
+    "a",
+    67.12
+   ],
+   [
+    "nurse",
+    67.19
+   ]
+  ]
+ },
+ {
+  "s": 67.88,
+  "e": 69.07,
+  "text": "feeding the babies.",
+  "words": [
+   [
+    "feeding",
+    67.88
+   ],
+   [
+    "the",
+    68.4
+   ],
+   [
+    "babies",
+    68.62
+   ]
+  ]
+ },
+ {
+  "s": 69.62,
+  "e": 73.12,
+  "text": "Around day twelve, wax glands on her belly switch on,",
+  "words": [
+   [
+    "around",
+    69.62
+   ],
+   [
+    "day",
+    70.12
+   ],
+   [
+    "twelve",
+    70.37
+   ],
+   [
+    "wax",
+    70.87
+   ],
+   [
+    "glands",
+    71.12
+   ],
+   [
+    "on",
+    71.62
+   ],
+   [
+    "her",
+    71.78
+   ],
+   [
+    "belly",
+    72.03
+   ],
+   [
+    "switch",
+    72.45
+   ],
+   [
+    "on",
+    72.95
+   ]
+  ]
+ },
+ {
+  "s": 73.42,
+  "e": 74.71,
+  "text": "so she turns builder.",
+  "words": [
+   [
+    "so",
+    73.42
+   ],
+   [
+    "she",
+    73.57
+   ],
+   [
+    "turns",
+    73.8
+   ],
+   [
+    "builder",
+    74.18
+   ]
+  ]
+ },
+ {
+  "s": 75.26,
+  "e": 77.91,
+  "text": "Around day fifteen, she can guard the door.",
+  "words": [
+   [
+    "around",
+    75.26
+   ],
+   [
+    "day",
+    75.73
+   ],
+   [
+    "fifteen",
+    75.96
+   ],
+   [
+    "she",
+    76.51
+   ],
+   [
+    "can",
+    76.74
+   ],
+   [
+    "guard",
+    76.98
+   ],
+   [
+    "the",
+    77.36
+   ],
+   [
+    "door",
+    77.6
+   ]
+  ]
+ },
+ {
+  "s": 78.46,
+  "e": 80.02,
+  "text": "And after about three weeks,",
+  "words": [
+   [
+    "and",
+    78.46
+   ],
+   [
+    "after",
+    78.66
+   ],
+   [
+    "about",
+    79.0
+   ],
+   [
+    "three",
+    79.34
+   ],
+   [
+    "weeks",
+    79.68
+   ]
+  ]
+ },
+ {
+  "s": 80.32,
+  "e": 81.99,
+  "text": "she finally goes outside,",
+  "words": [
+   [
+    "she",
+    80.32
+   ],
+   [
+    "finally",
+    80.56
+   ],
+   [
+    "goes",
+    81.12
+   ],
+   [
+    "outside",
+    81.43
+   ]
+  ]
+ },
+ {
+  "s": 82.29,
+  "e": 84.86,
+  "text": "to spend the rest of her life hunting flowers.",
+  "words": [
+   [
+    "to",
+    82.29
+   ],
+   [
+    "spend",
+    82.43
+   ],
+   [
+    "the",
+    82.78
+   ],
+   [
+    "rest",
+    82.99
+   ],
+   [
+    "of",
+    83.26
+   ],
+   [
+    "her",
+    83.4
+   ],
+   [
+    "life",
+    83.61
+   ],
+   [
+    "hunting",
+    83.89
+   ],
+   [
+    "flowers",
+    84.37
+   ]
+  ]
+ },
+ {
+  "s": 85.41,
+  "e": 87.14,
+  "text": "Wax is seriously expensive.",
+  "words": [
+   [
+    "wax",
+    85.41
+   ],
+   [
+    "is",
+    85.64
+   ],
+   [
+    "seriously",
+    85.79
+   ],
+   [
+    "expensive",
+    86.46
+   ]
+  ]
+ },
+ {
+  "s": 87.69,
+  "e": 89.59,
+  "text": "It takes about eight pounds of honey,",
+  "words": [
+   [
+    "it",
+    87.69
+   ],
+   [
+    "takes",
+    87.82
+   ],
+   [
+    "about",
+    88.14
+   ],
+   [
+    "eight",
+    88.45
+   ],
+   [
+    "pounds",
+    88.77
+   ],
+   [
+    "of",
+    89.15
+   ],
+   [
+    "honey",
+    89.27
+   ]
+  ]
+ },
+ {
+  "s": 89.89,
+  "e": 91.41,
+  "text": "to make one pound of wax.",
+  "words": [
+   [
+    "to",
+    89.89
+   ],
+   [
+    "make",
+    90.05
+   ],
+   [
+    "one",
+    90.37
+   ],
+   [
+    "pound",
+    90.61
+   ],
+   [
+    "of",
+    91.01
+   ],
+   [
+    "wax",
+    91.17
+   ]
+  ]
+ },
+ {
+  "s": 91.96,
+  "e": 93.91,
+  "text": "So the hive can't waste a drop.",
+  "words": [
+   [
+    "so",
+    91.96
+   ],
+   [
+    "the",
+    92.13
+   ],
+   [
+    "hive",
+    92.38
+   ],
+   [
+    "cant",
+    92.72
+   ],
+   [
+    "waste",
+    93.06
+   ],
+   [
+    "a",
+    93.49
+   ],
+   [
+    "drop",
+    93.57
+   ]
+  ]
+ },
+ {
+  "s": 94.46,
+  "e": 95.76,
+  "text": "Circles leave gaps.",
+  "words": [
+   [
+    "circles",
+    94.46
+   ],
+   [
+    "leave",
+    95.03
+   ],
+   [
+    "gaps",
+    95.43
+   ]
+  ]
+ },
+ {
+  "s": 96.31,
+  "e": 97.86,
+  "text": "Squares and triangles fit,",
+  "words": [
+   [
+    "squares",
+    96.31
+   ],
+   [
+    "and",
+    96.8
+   ],
+   [
+    "triangles",
+    97.01
+   ],
+   [
+    "fit",
+    97.65
+   ]
+  ]
+ },
+ {
+  "s": 98.16,
+  "e": 99.59,
+  "text": "but they use more wall.",
+  "words": [
+   [
+    "but",
+    98.16
+   ],
+   [
+    "they",
+    98.4
+   ],
+   [
+    "use",
+    98.71
+   ],
+   [
+    "more",
+    98.95
+   ],
+   [
+    "wall",
+    99.27
+   ]
+  ]
+ },
+ {
+  "s": 100.14,
+  "e": 101.99,
+  "text": "Hexagons give you the most room,",
+  "words": [
+   [
+    "hexagons",
+    100.14
+   ],
+   [
+    "give",
+    100.71
+   ],
+   [
+    "you",
+    100.99
+   ],
+   [
+    "the",
+    101.2
+   ],
+   [
+    "most",
+    101.42
+   ],
+   [
+    "room",
+    101.7
+   ]
+  ]
+ },
+ {
+  "s": 102.29,
+  "e": 103.41,
+  "text": "for the least wax.",
+  "words": [
+   [
+    "for",
+    102.29
+   ],
+   [
+    "the",
+    102.53
+   ],
+   [
+    "least",
+    102.77
+   ],
+   [
+    "wax",
+    103.17
+   ]
+  ]
+ },
+ {
+  "s": 103.96,
+  "e": 105.99,
+  "text": "People suspected that for centuries,",
+  "words": [
+   [
+    "people",
+    103.96
+   ],
+   [
+    "suspected",
+    104.35
+   ],
+   [
+    "that",
+    104.94
+   ],
+   [
+    "for",
+    105.21
+   ],
+   [
+    "centuries",
+    105.4
+   ]
+  ]
+ },
+ {
+  "s": 106.29,
+  "e": 110.01,
+  "text": "but a mathematician only proved it in nineteen ninety-nine.",
+  "words": [
+   [
+    "but",
+    106.29
+   ],
+   [
+    "a",
+    106.52
+   ],
+   [
+    "mathematician",
+    106.6
+   ],
+   [
+    "only",
+    107.58
+   ],
+   [
+    "proved",
+    107.89
+   ],
+   [
+    "it",
+    108.34
+   ],
+   [
+    "in",
+    108.49
+   ],
+   [
+    "nineteen",
+    108.64
+   ],
+   [
+    "ninetynine",
+    109.25
+   ]
+  ]
+ },
+ {
+  "s": 110.56,
+  "e": 113.24,
+  "text": "Bees got there first, with no math at all.",
+  "words": [
+   [
+    "bees",
+    110.56
+   ],
+   [
+    "got",
+    110.89
+   ],
+   [
+    "there",
+    111.14
+   ],
+   [
+    "first",
+    111.56
+   ],
+   [
+    "with",
+    111.98
+   ],
+   [
+    "no",
+    112.32
+   ],
+   [
+    "math",
+    112.49
+   ],
+   [
+    "at",
+    112.82
+   ],
+   [
+    "all",
+    112.99
+   ]
+  ]
+ },
+ {
+  "s": 113.79,
+  "e": 115.68,
+  "text": "Now, the coolest trick in the hive.",
+  "words": [
+   [
+    "now",
+    113.79
+   ],
+   [
+    "the",
+    114.0
+   ],
+   [
+    "coolest",
+    114.21
+   ],
+   [
+    "trick",
+    114.7
+   ],
+   [
+    "in",
+    115.05
+   ],
+   [
+    "the",
+    115.19
+   ],
+   [
+    "hive",
+    115.4
+   ]
+  ]
+ },
+ {
+  "s": 116.23,
+  "e": 118.79,
+  "text": "A forager finds flowers a long way off.",
+  "words": [
+   [
+    "a",
+    116.23
+   ],
+   [
+    "forager",
+    116.31
+   ],
+   [
+    "finds",
+    116.89
+   ],
+   [
+    "flowers",
+    117.3
+   ],
+   [
+    "a",
+    117.88
+   ],
+   [
+    "long",
+    117.96
+   ],
+   [
+    "way",
+    118.29
+   ],
+   [
+    "off",
+    118.54
+   ]
+  ]
+ },
+ {
+  "s": 119.34,
+  "e": 120.88,
+  "text": "How does she tell her sisters,",
+  "words": [
+   [
+    "how",
+    119.34
+   ],
+   [
+    "does",
+    119.53
+   ],
+   [
+    "she",
+    119.79
+   ],
+   [
+    "tell",
+    119.98
+   ],
+   [
+    "her",
+    120.23
+   ],
+   [
+    "sisters",
+    120.43
+   ]
+  ]
+ },
+ {
+  "s": 121.18,
+  "e": 123.01,
+  "text": "in the pitch dark, with no words?",
+  "words": [
+   [
+    "in",
+    121.18
+   ],
+   [
+    "the",
+    121.32
+   ],
+   [
+    "pitch",
+    121.54
+   ],
+   [
+    "dark",
+    121.91
+   ],
+   [
+    "with",
+    122.21
+   ],
+   [
+    "no",
+    122.5
+   ],
+   [
+    "words",
+    122.65
+   ]
+  ]
+ },
+ {
+  "s": 123.56,
+  "e": 124.45,
+  "text": "She dances.",
+  "words": [
+   [
+    "she",
+    123.56
+   ],
+   [
+    "dances",
+    123.86
+   ]
+  ]
+ },
+ {
+  "s": 125.0,
+  "e": 126.53,
+  "text": "She runs in a straight line,",
+  "words": [
+   [
+    "she",
+    125.0
+   ],
+   [
+    "runs",
+    125.21
+   ],
+   [
+    "in",
+    125.48
+   ],
+   [
+    "a",
+    125.62
+   ],
+   [
+    "straight",
+    125.69
+   ],
+   [
+    "line",
+    126.25
+   ]
+  ]
+ },
+ {
+  "s": 126.83,
+  "e": 127.96,
+  "text": "shaking her body,",
+  "words": [
+   [
+    "shaking",
+    126.83
+   ],
+   [
+    "her",
+    127.39
+   ],
+   [
+    "body",
+    127.63
+   ]
+  ]
+ },
+ {
+  "s": 128.26,
+  "e": 129.1,
+  "text": "loops back,",
+  "words": [
+   [
+    "loops",
+    128.26
+   ],
+   [
+    "back",
+    128.73
+   ]
+  ]
+ },
+ {
+  "s": 129.4,
+  "e": 130.47,
+  "text": "and does it again.",
+  "words": [
+   [
+    "and",
+    129.4
+   ],
+   [
+    "does",
+    129.63
+   ],
+   [
+    "it",
+    129.94
+   ],
+   [
+    "again",
+    130.09
+   ]
+  ]
+ },
+ {
+  "s": 131.02,
+  "e": 133.27,
+  "text": "The angle of that run is the direction.",
+  "words": [
+   [
+    "the",
+    131.02
+   ],
+   [
+    "angle",
+    131.24
+   ],
+   [
+    "of",
+    131.6
+   ],
+   [
+    "that",
+    131.74
+   ],
+   [
+    "run",
+    132.04
+   ],
+   [
+    "is",
+    132.25
+   ],
+   [
+    "the",
+    132.4
+   ],
+   [
+    "direction",
+    132.62
+   ]
+  ]
+ },
+ {
+  "s": 133.82,
+  "e": 135.84,
+  "text": "Straight up means fly toward the sun.",
+  "words": [
+   [
+    "straight",
+    133.82
+   ],
+   [
+    "up",
+    134.36
+   ],
+   [
+    "means",
+    134.49
+   ],
+   [
+    "fly",
+    134.83
+   ],
+   [
+    "toward",
+    135.03
+   ],
+   [
+    "the",
+    135.43
+   ],
+   [
+    "sun",
+    135.63
+   ]
+  ]
+ },
+ {
+  "s": 136.39,
+  "e": 137.96,
+  "text": "Sixty degrees to the left,",
+  "words": [
+   [
+    "sixty",
+    136.39
+   ],
+   [
+    "degrees",
+    136.76
+   ],
+   [
+    "to",
+    137.28
+   ],
+   [
+    "the",
+    137.43
+   ],
+   [
+    "left",
+    137.66
+   ]
+  ]
+ },
+ {
+  "s": 138.26,
+  "e": 140.41,
+  "text": "means sixty degrees left of the sun.",
+  "words": [
+   [
+    "means",
+    138.26
+   ],
+   [
+    "sixty",
+    138.63
+   ],
+   [
+    "degrees",
+    139.0
+   ],
+   [
+    "left",
+    139.52
+   ],
+   [
+    "of",
+    139.82
+   ],
+   [
+    "the",
+    139.96
+   ],
+   [
+    "sun",
+    140.19
+   ]
+  ]
+ },
+ {
+  "s": 140.96,
+  "e": 142.96,
+  "text": "And the waggle's length is the distance.",
+  "words": [
+   [
+    "and",
+    140.96
+   ],
+   [
+    "the",
+    141.15
+   ],
+   [
+    "waggles",
+    141.33
+   ],
+   [
+    "length",
+    141.77
+   ],
+   [
+    "is",
+    142.15
+   ],
+   [
+    "the",
+    142.27
+   ],
+   [
+    "distance",
+    142.46
+   ]
+  ]
+ },
+ {
+  "s": 143.51,
+  "e": 145.68,
+  "text": "A waggle of about two and a half seconds,",
+  "words": [
+   [
+    "a",
+    143.51
+   ],
+   [
+    "waggle",
+    143.57
+   ],
+   [
+    "of",
+    143.98
+   ],
+   [
+    "about",
+    144.12
+   ],
+   [
+    "two",
+    144.46
+   ],
+   [
+    "and",
+    144.66
+   ],
+   [
+    "a",
+    144.87
+   ],
+   [
+    "half",
+    144.94
+   ],
+   [
+    "seconds",
+    145.21
+   ]
+  ]
+ },
+ {
+  "s": 145.98,
+  "e": 148.55,
+  "text": "means flowers over a mile and a half away.",
+  "words": [
+   [
+    "means",
+    145.98
+   ],
+   [
+    "flowers",
+    146.37
+   ],
+   [
+    "over",
+    146.92
+   ],
+   [
+    "a",
+    147.23
+   ],
+   [
+    "mile",
+    147.3
+   ],
+   [
+    "and",
+    147.61
+   ],
+   [
+    "a",
+    147.85
+   ],
+   [
+    "half",
+    147.93
+   ],
+   [
+    "away",
+    148.24
+   ]
+  ]
+ },
+ {
+  "s": 149.1,
+  "e": 151.45,
+  "text": "Cracking that code won Karl von Frisch,",
+  "words": [
+   [
+    "cracking",
+    149.1
+   ],
+   [
+    "that",
+    149.69
+   ],
+   [
+    "code",
+    149.98
+   ],
+   [
+    "won",
+    150.27
+   ],
+   [
+    "karl",
+    150.5
+   ],
+   [
+    "von",
+    150.79
+   ],
+   [
+    "frisch",
+    151.01
+   ]
+  ]
+ },
+ {
+  "s": 151.75,
+  "e": 154.39,
+  "text": "a Nobel Prize in nineteen seventy-three.",
+  "words": [
+   [
+    "a",
+    151.75
+   ],
+   [
+    "nobel",
+    151.83
+   ],
+   [
+    "prize",
+    152.23
+   ],
+   [
+    "in",
+    152.63
+   ],
+   [
+    "nineteen",
+    152.79
+   ],
+   [
+    "seventythree",
+    153.43
+   ]
+  ]
+ },
+ {
+  "s": 154.94,
+  "e": 156.25,
+  "text": "The babies are picky.",
+  "words": [
+   [
+    "the",
+    154.94
+   ],
+   [
+    "babies",
+    155.17
+   ],
+   [
+    "are",
+    155.63
+   ],
+   [
+    "picky",
+    155.86
+   ]
+  ]
+ },
+ {
+  "s": 156.8,
+  "e": 159.91,
+  "text": "They need to stay close to ninety-five degrees Fahrenheit.",
+  "words": [
+   [
+    "they",
+    156.8
+   ],
+   [
+    "need",
+    157.06
+   ],
+   [
+    "to",
+    157.32
+   ],
+   [
+    "stay",
+    157.45
+   ],
+   [
+    "close",
+    157.7
+   ],
+   [
+    "to",
+    158.03
+   ],
+   [
+    "ninetyfive",
+    158.16
+   ],
+   [
+    "degrees",
+    158.81
+   ],
+   [
+    "fahrenheit",
+    159.26
+   ]
+  ]
+ },
+ {
+  "s": 160.46,
+  "e": 161.31,
+  "text": "Too cold?",
+  "words": [
+   [
+    "too",
+    160.46
+   ],
+   [
+    "cold",
+    160.83
+   ]
+  ]
+ },
+ {
+  "s": 161.86,
+  "e": 163.9,
+  "text": "Workers shiver their flight muscles,",
+  "words": [
+   [
+    "workers",
+    161.86
+   ],
+   [
+    "shiver",
+    162.32
+   ],
+   [
+    "their",
+    162.72
+   ],
+   [
+    "flight",
+    163.05
+   ],
+   [
+    "muscles",
+    163.44
+   ]
+  ]
+ },
+ {
+  "s": 164.2,
+  "e": 165.24,
+  "text": "without flapping,",
+  "words": [
+   [
+    "without",
+    164.2
+   ],
+   [
+    "flapping",
+    164.69
+   ]
+  ]
+ },
+ {
+  "s": 165.54,
+  "e": 167.3,
+  "text": "and turn into tiny heaters.",
+  "words": [
+   [
+    "and",
+    165.54
+   ],
+   [
+    "turn",
+    165.78
+   ],
+   [
+    "into",
+    166.1
+   ],
+   [
+    "tiny",
+    166.42
+   ],
+   [
+    "heaters",
+    166.74
+   ]
+  ]
+ },
+ {
+  "s": 167.85,
+  "e": 168.66,
+  "text": "Too hot?",
+  "words": [
+   [
+    "too",
+    167.85
+   ],
+   [
+    "hot",
+    168.26
+   ]
+  ]
+ },
+ {
+  "s": 169.21,
+  "e": 170.43,
+  "text": "They carry in water,",
+  "words": [
+   [
+    "they",
+    169.21
+   ],
+   [
+    "carry",
+    169.52
+   ],
+   [
+    "in",
+    169.9
+   ],
+   [
+    "water",
+    170.05
+   ]
+  ]
+ },
+ {
+  "s": 170.73,
+  "e": 171.95,
+  "text": "spread it on the comb,",
+  "words": [
+   [
+    "spread",
+    170.73
+   ],
+   [
+    "it",
+    171.16
+   ],
+   [
+    "on",
+    171.3
+   ],
+   [
+    "the",
+    171.45
+   ],
+   [
+    "comb",
+    171.66
+   ]
+  ]
+ },
+ {
+  "s": 172.25,
+  "e": 173.75,
+  "text": "and fan it with their wings.",
+  "words": [
+   [
+    "and",
+    172.25
+   ],
+   [
+    "fan",
+    172.45
+   ],
+   [
+    "it",
+    172.66
+   ],
+   [
+    "with",
+    172.79
+   ],
+   [
+    "their",
+    173.07
+   ],
+   [
+    "wings",
+    173.41
+   ]
+  ]
+ },
+ {
+  "s": 174.3,
+  "e": 176.75,
+  "text": "As it evaporates, the hive cools down.",
+  "words": [
+   [
+    "as",
+    174.3
+   ],
+   [
+    "it",
+    174.47
+   ],
+   [
+    "evaporates",
+    174.63
+   ],
+   [
+    "the",
+    175.45
+   ],
+   [
+    "hive",
+    175.69
+   ],
+   [
+    "cools",
+    176.02
+   ],
+   [
+    "down",
+    176.43
+   ]
+  ]
+ },
+ {
+  "s": 177.3,
+  "e": 178.59,
+  "text": "That's air conditioning,",
+  "words": [
+   [
+    "thats",
+    177.3
+   ],
+   [
+    "air",
+    177.63
+   ],
+   [
+    "conditioning",
+    177.82
+   ]
+  ]
+ },
+ {
+  "s": 178.89,
+  "e": 180.09,
+  "text": "powered by bees.",
+  "words": [
+   [
+    "powered",
+    178.89
+   ],
+   [
+    "by",
+    179.54
+   ],
+   [
+    "bees",
+    179.72
+   ]
+  ]
+ },
+ {
+  "s": 180.64,
+  "e": 182.69,
+  "text": "And in winter, they don't hibernate.",
+  "words": [
+   [
+    "and",
+    180.64
+   ],
+   [
+    "in",
+    180.86
+   ],
+   [
+    "winter",
+    181.0
+   ],
+   [
+    "they",
+    181.44
+   ],
+   [
+    "dont",
+    181.74
+   ],
+   [
+    "hibernate",
+    182.03
+   ]
+  ]
+ },
+ {
+  "s": 183.24,
+  "e": 185.37,
+  "text": "Below about fifty-seven degrees,",
+  "words": [
+   [
+    "below",
+    183.24
+   ],
+   [
+    "about",
+    183.64
+   ],
+   [
+    "fiftyseven",
+    184.03
+   ],
+   [
+    "degrees",
+    184.82
+   ]
+  ]
+ },
+ {
+  "s": 185.67,
+  "e": 187.93,
+  "text": "they pull into a tight ball around the queen,",
+  "words": [
+   [
+    "they",
+    185.67
+   ],
+   [
+    "pull",
+    185.92
+   ],
+   [
+    "into",
+    186.17
+   ],
+   [
+    "a",
+    186.42
+   ],
+   [
+    "tight",
+    186.49
+   ],
+   [
+    "ball",
+    186.8
+   ],
+   [
+    "around",
+    187.05
+   ],
+   [
+    "the",
+    187.43
+   ],
+   [
+    "queen",
+    187.62
+   ]
+  ]
+ },
+ {
+  "s": 188.23,
+  "e": 189.86,
+  "text": "and burn honey to make heat.",
+  "words": [
+   [
+    "and",
+    188.23
+   ],
+   [
+    "burn",
+    188.45
+   ],
+   [
+    "honey",
+    188.75
+   ],
+   [
+    "to",
+    189.12
+   ],
+   [
+    "make",
+    189.27
+   ],
+   [
+    "heat",
+    189.56
+   ]
+  ]
+ },
+ {
+  "s": 190.41,
+  "e": 192.3,
+  "text": "That's why they store all that honey.",
+  "words": [
+   [
+    "thats",
+    190.41
+   ],
+   [
+    "why",
+    190.74
+   ],
+   [
+    "they",
+    190.93
+   ],
+   [
+    "store",
+    191.19
+   ],
+   [
+    "all",
+    191.52
+   ],
+   [
+    "that",
+    191.72
+   ],
+   [
+    "honey",
+    191.98
+   ]
+  ]
+ },
+ {
+  "s": 192.85,
+  "e": 194.2,
+  "text": "It's their winter fuel.",
+  "words": [
+   [
+    "its",
+    192.85
+   ],
+   [
+    "their",
+    193.08
+   ],
+   [
+    "winter",
+    193.45
+   ],
+   [
+    "fuel",
+    193.9
+   ]
+  ]
+ },
+ {
+  "s": 194.75,
+  "e": 196.63,
+  "text": "So no single bee knows the plan.",
+  "words": [
+   [
+    "so",
+    194.75
+   ],
+   [
+    "no",
+    194.9
+   ],
+   [
+    "single",
+    195.05
+   ],
+   [
+    "bee",
+    195.5
+   ],
+   [
+    "knows",
+    195.73
+   ],
+   [
+    "the",
+    196.11
+   ],
+   [
+    "plan",
+    196.33
+   ]
+  ]
+ },
+ {
+  "s": 197.18,
+  "e": 199.33,
+  "text": "Each one just follows simple rules.",
+  "words": [
+   [
+    "each",
+    197.18
+   ],
+   [
+    "one",
+    197.48
+   ],
+   [
+    "just",
+    197.7
+   ],
+   [
+    "follows",
+    198.0
+   ],
+   [
+    "simple",
+    198.52
+   ],
+   [
+    "rules",
+    198.96
+   ]
+  ]
+ },
+ {
+  "s": 199.88,
+  "e": 201.66,
+  "text": "But put sixty thousand together,",
+  "words": [
+   [
+    "but",
+    199.88
+   ],
+   [
+    "put",
+    200.08
+   ],
+   [
+    "sixty",
+    200.28
+   ],
+   [
+    "thousand",
+    200.61
+   ],
+   [
+    "together",
+    201.13
+   ]
+  ]
+ },
+ {
+  "s": 201.96,
+  "e": 204.89,
+  "text": "and you get something that acts like one giant animal.",
+  "words": [
+   [
+    "and",
+    201.96
+   ],
+   [
+    "you",
+    202.16
+   ],
+   [
+    "get",
+    202.36
+   ],
+   [
+    "something",
+    202.56
+   ],
+   [
+    "that",
+    203.16
+   ],
+   [
+    "acts",
+    203.42
+   ],
+   [
+    "like",
+    203.69
+   ],
+   [
+    "one",
+    203.96
+   ],
+   [
+    "giant",
+    204.16
+   ],
+   [
+    "animal",
+    204.49
+   ]
+  ]
+ },
+ {
+  "s": 205.44,
+  "e": 208.25,
+  "text": "Next up, why does cilantro taste like soap,",
+  "words": [
+   [
+    "next",
+    205.44
+   ],
+   [
+    "up",
+    205.77
+   ],
+   [
+    "why",
+    205.93
+   ],
+   [
+    "does",
+    206.18
+   ],
+   [
+    "cilantro",
+    206.51
+   ],
+   [
+    "taste",
+    207.18
+   ],
+   [
+    "like",
+    207.59
+   ],
+   [
+    "soap",
+    207.92
+   ]
+  ]
+ },
+ {
+  "s": 208.55,
+  "e": 209.58,
+  "text": "to some people?",
+  "words": [
+   [
+    "to",
+    208.55
+   ],
+   [
+    "some",
+    208.72
+   ],
+   [
+    "people",
+    209.06
+   ]
+  ]
+ }
+]
