@@ -1,0 +1,658 @@
+[
+ {
+  "s": 0.25,
+  "e": 3.25,
+  "text": "Your dog's wet nose traps smells you'll never notice,",
+  "words": [
+   [
+    "your",
+    0.25
+   ],
+   [
+    "dogs",
+    0.54
+   ],
+   [
+    "wet",
+    0.82
+   ],
+   [
+    "nose",
+    1.03
+   ],
+   [
+    "traps",
+    1.32
+   ],
+   [
+    "smells",
+    1.68
+   ],
+   [
+    "youll",
+    2.1
+   ],
+   [
+    "never",
+    2.46
+   ],
+   [
+    "notice",
+    2.82
+   ]
+  ]
+ },
+ {
+  "s": 3.55,
+  "e": 5.02,
+  "text": "and it might even sense heat.",
+  "words": [
+   [
+    "and",
+    3.55
+   ],
+   [
+    "it",
+    3.74
+   ],
+   [
+    "might",
+    3.87
+   ],
+   [
+    "even",
+    4.19
+   ],
+   [
+    "sense",
+    4.44
+   ],
+   [
+    "heat",
+    4.77
+   ]
+  ]
+ },
+ {
+  "s": 5.57,
+  "e": 7.76,
+  "text": "That shine is a thin layer of mucus,",
+  "words": [
+   [
+    "that",
+    5.57
+   ],
+   [
+    "shine",
+    5.88
+   ],
+   [
+    "is",
+    6.27
+   ],
+   [
+    "a",
+    6.43
+   ],
+   [
+    "thin",
+    6.51
+   ],
+   [
+    "layer",
+    6.82
+   ],
+   [
+    "of",
+    7.21
+   ],
+   [
+    "mucus",
+    7.37
+   ]
+  ]
+ },
+ {
+  "s": 8.06,
+  "e": 10.07,
+  "text": "made by tiny glands in the nose.",
+  "words": [
+   [
+    "made",
+    8.06
+   ],
+   [
+    "by",
+    8.38
+   ],
+   [
+    "tiny",
+    8.54
+   ],
+   [
+    "glands",
+    8.86
+   ],
+   [
+    "in",
+    9.35
+   ],
+   [
+    "the",
+    9.51
+   ],
+   [
+    "nose",
+    9.75
+   ]
+  ]
+ },
+ {
+  "s": 10.62,
+  "e": 12.77,
+  "text": "Smells are tiny floating particles,",
+  "words": [
+   [
+    "smells",
+    10.62
+   ],
+   [
+    "are",
+    11.05
+   ],
+   [
+    "tiny",
+    11.27
+   ],
+   [
+    "floating",
+    11.55
+   ],
+   [
+    "particles",
+    12.13
+   ]
+  ]
+ },
+ {
+  "s": 13.07,
+  "e": 15.18,
+  "text": "and they stick better to damp surfaces.",
+  "words": [
+   [
+    "and",
+    13.07
+   ],
+   [
+    "they",
+    13.27
+   ],
+   [
+    "stick",
+    13.53
+   ],
+   [
+    "better",
+    13.86
+   ],
+   [
+    "to",
+    14.26
+   ],
+   [
+    "damp",
+    14.39
+   ],
+   [
+    "surfaces",
+    14.65
+   ]
+  ]
+ },
+ {
+  "s": 15.73,
+  "e": 17.47,
+  "text": "Then your dog licks its nose,",
+  "words": [
+   [
+    "then",
+    15.73
+   ],
+   [
+    "your",
+    16.03
+   ],
+   [
+    "dog",
+    16.33
+   ],
+   [
+    "licks",
+    16.56
+   ],
+   [
+    "its",
+    16.94
+   ],
+   [
+    "nose",
+    17.17
+   ]
+  ]
+ },
+ {
+  "s": 17.77,
+  "e": 20.12,
+  "text": "carrying those particles into its mouth,",
+  "words": [
+   [
+    "carrying",
+    17.77
+   ],
+   [
+    "those",
+    18.32
+   ],
+   [
+    "particles",
+    18.67
+   ],
+   [
+    "into",
+    19.29
+   ],
+   [
+    "its",
+    19.57
+   ],
+   [
+    "mouth",
+    19.77
+   ]
+  ]
+ },
+ {
+  "s": 20.42,
+  "e": 22.02,
+  "text": "up to a special scent organ.",
+  "words": [
+   [
+    "up",
+    20.42
+   ],
+   [
+    "to",
+    20.57
+   ],
+   [
+    "a",
+    20.71
+   ],
+   [
+    "special",
+    20.78
+   ],
+   [
+    "scent",
+    21.29
+   ],
+   [
+    "organ",
+    21.66
+   ]
+  ]
+ },
+ {
+  "s": 22.57,
+  "e": 25.46,
+  "text": "Dogs have over a hundred million scent receptors.",
+  "words": [
+   [
+    "dogs",
+    22.57
+   ],
+   [
+    "have",
+    22.85
+   ],
+   [
+    "over",
+    23.13
+   ],
+   [
+    "a",
+    23.42
+   ],
+   [
+    "hundred",
+    23.49
+   ],
+   [
+    "million",
+    23.98
+   ],
+   [
+    "scent",
+    24.48
+   ],
+   [
+    "receptors",
+    24.83
+   ]
+  ]
+ },
+ {
+  "s": 26.01,
+  "e": 27.51,
+  "text": "You've got about six million.",
+  "words": [
+   [
+    "youve",
+    26.01
+   ],
+   [
+    "got",
+    26.34
+   ],
+   [
+    "about",
+    26.54
+   ],
+   [
+    "six",
+    26.86
+   ],
+   [
+    "million",
+    27.06
+   ]
+  ]
+ },
+ {
+  "s": 28.06,
+  "e": 29.65,
+  "text": "But here's the strange part.",
+  "words": [
+   [
+    "but",
+    28.06
+   ],
+   [
+    "heres",
+    28.28
+   ],
+   [
+    "the",
+    28.64
+   ],
+   [
+    "strange",
+    28.86
+   ],
+   [
+    "part",
+    29.36
+   ]
+  ]
+ },
+ {
+  "s": 30.2,
+  "e": 33.2,
+  "text": "In twenty-twenty, scientists trained three dogs",
+  "words": [
+   [
+    "in",
+    30.2
+   ],
+   [
+    "twentytwenty",
+    30.35
+   ],
+   [
+    "scientists",
+    31.25
+   ],
+   [
+    "trained",
+    32.0
+   ],
+   [
+    "three",
+    32.53
+   ],
+   [
+    "dogs",
+    32.9
+   ]
+  ]
+ },
+ {
+  "s": 33.5,
+  "e": 35.55,
+  "text": "to find the warmer of two objects,",
+  "words": [
+   [
+    "to",
+    33.5
+   ],
+   [
+    "find",
+    33.65
+   ],
+   [
+    "the",
+    33.96
+   ],
+   [
+    "warmer",
+    34.18
+   ],
+   [
+    "of",
+    34.64
+   ],
+   [
+    "two",
+    34.79
+   ],
+   [
+    "objects",
+    35.02
+   ]
+  ]
+ },
+ {
+  "s": 35.85,
+  "e": 37.36,
+  "text": "from about five feet away.",
+  "words": [
+   [
+    "from",
+    35.85
+   ],
+   [
+    "about",
+    36.13
+   ],
+   [
+    "five",
+    36.49
+   ],
+   [
+    "feet",
+    36.78
+   ],
+   [
+    "away",
+    37.07
+   ]
+  ]
+ },
+ {
+  "s": 37.91,
+  "e": 39.15,
+  "text": "All three could do it.",
+  "words": [
+   [
+    "all",
+    37.91
+   ],
+   [
+    "three",
+    38.13
+   ],
+   [
+    "could",
+    38.49
+   ],
+   [
+    "do",
+    38.86
+   ],
+   [
+    "it",
+    39.0
+   ]
+  ]
+ },
+ {
+  "s": 39.7,
+  "e": 43.09,
+  "text": "That cool nose tip may work like a tiny heat sensor,",
+  "words": [
+   [
+    "that",
+    39.7
+   ],
+   [
+    "cool",
+    40.03
+   ],
+   [
+    "nose",
+    40.36
+   ],
+   [
+    "tip",
+    40.69
+   ],
+   [
+    "may",
+    40.94
+   ],
+   [
+    "work",
+    41.19
+   ],
+   [
+    "like",
+    41.52
+   ],
+   [
+    "a",
+    41.85
+   ],
+   [
+    "tiny",
+    41.93
+   ],
+   [
+    "heat",
+    42.26
+   ],
+   [
+    "sensor",
+    42.59
+   ]
+  ]
+ },
+ {
+  "s": 43.39,
+  "e": 45.38,
+  "text": "though scientists are still testing that.",
+  "words": [
+   [
+    "though",
+    43.39
+   ],
+   [
+    "scientists",
+    43.73
+   ],
+   [
+    "are",
+    44.3
+   ],
+   [
+    "still",
+    44.47
+   ],
+   [
+    "testing",
+    44.75
+   ],
+   [
+    "that",
+    45.15
+   ]
+  ]
+ },
+ {
+  "s": 45.93,
+  "e": 47.36,
+  "text": "So what's the weirdest thing",
+  "words": [
+   [
+    "so",
+    45.93
+   ],
+   [
+    "whats",
+    46.05
+   ],
+   [
+    "the",
+    46.36
+   ],
+   [
+    "weirdest",
+    46.55
+   ],
+   [
+    "thing",
+    47.05
+   ]
+  ]
+ },
+ {
+  "s": 47.66,
+  "e": 49.7,
+  "text": "your dog's wet nose ever found?",
+  "words": [
+   [
+    "your",
+    47.66
+   ],
+   [
+    "dogs",
+    48.0
+   ],
+   [
+    "wet",
+    48.34
+   ],
+   [
+    "nose",
+    48.6
+   ],
+   [
+    "ever",
+    48.94
+   ],
+   [
+    "found",
+    49.28
+   ]
+  ]
+ }
+]
