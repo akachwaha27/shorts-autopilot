@@ -1,0 +1,705 @@
+[
+ {
+  "s": 0.25,
+  "e": 3.53,
+  "text": "Pineapple digests your tongue with every bite you take.",
+  "words": [
+   [
+    "pineapple",
+    0.25
+   ],
+   [
+    "digests",
+    0.89
+   ],
+   [
+    "your",
+    1.39
+   ],
+   [
+    "tongue",
+    1.67
+   ],
+   [
+    "with",
+    2.1
+   ],
+   [
+    "every",
+    2.39
+   ],
+   [
+    "bite",
+    2.74
+   ],
+   [
+    "you",
+    3.03
+   ],
+   [
+    "take",
+    3.24
+   ]
+  ]
+ },
+ {
+  "s": 4.08,
+  "e": 5.29,
+  "text": "That sting on your tongue,",
+  "words": [
+   [
+    "that",
+    4.08
+   ],
+   [
+    "sting",
+    4.31
+   ],
+   [
+    "on",
+    4.6
+   ],
+   [
+    "your",
+    4.71
+   ],
+   [
+    "tongue",
+    4.94
+   ]
+  ]
+ },
+ {
+  "s": 5.59,
+  "e": 6.66,
+  "text": "isn't just sour.",
+  "words": [
+   [
+    "isnt",
+    5.59
+   ],
+   [
+    "just",
+    5.94
+   ],
+   [
+    "sour",
+    6.3
+   ]
+  ]
+ },
+ {
+  "s": 7.21,
+  "e": 9.15,
+  "text": "Pineapple is packed with bromelain,",
+  "words": [
+   [
+    "pineapple",
+    7.21
+   ],
+   [
+    "is",
+    7.79
+   ],
+   [
+    "packed",
+    7.92
+   ],
+   [
+    "with",
+    8.31
+   ],
+   [
+    "bromelain",
+    8.57
+   ]
+  ]
+ },
+ {
+  "s": 9.45,
+  "e": 11.78,
+  "text": "a mix of enzymes that chop up protein.",
+  "words": [
+   [
+    "a",
+    9.45
+   ],
+   [
+    "mix",
+    9.53
+   ],
+   [
+    "of",
+    9.76
+   ],
+   [
+    "enzymes",
+    9.91
+   ],
+   [
+    "that",
+    10.46
+   ],
+   [
+    "chop",
+    10.77
+   ],
+   [
+    "up",
+    11.08
+   ],
+   [
+    "protein",
+    11.24
+   ]
+  ]
+ },
+ {
+  "s": 12.33,
+  "e": 13.21,
+  "text": "And your tongue?",
+  "words": [
+   [
+    "and",
+    12.33
+   ],
+   [
+    "your",
+    12.53
+   ],
+   [
+    "tongue",
+    12.8
+   ]
+  ]
+ },
+ {
+  "s": 13.76,
+  "e": 15.04,
+  "text": "It's made of protein.",
+  "words": [
+   [
+    "its",
+    13.76
+   ],
+   [
+    "made",
+    14.0
+   ],
+   [
+    "of",
+    14.32
+   ],
+   [
+    "protein",
+    14.48
+   ]
+  ]
+ },
+ {
+  "s": 15.59,
+  "e": 16.69,
+  "text": "So while you're chewing,",
+  "words": [
+   [
+    "so",
+    15.59
+   ],
+   [
+    "while",
+    15.71
+   ],
+   [
+    "youre",
+    16.0
+   ],
+   [
+    "chewing",
+    16.29
+   ]
+  ]
+ },
+ {
+  "s": 16.99,
+  "e": 19.16,
+  "text": "bromelain cuts into the slimy coat,",
+  "words": [
+   [
+    "bromelain",
+    16.99
+   ],
+   [
+    "cuts",
+    17.67
+   ],
+   [
+    "into",
+    17.96
+   ],
+   [
+    "the",
+    18.26
+   ],
+   [
+    "slimy",
+    18.49
+   ],
+   [
+    "coat",
+    18.86
+   ]
+  ]
+ },
+ {
+  "s": 19.46,
+  "e": 20.75,
+  "text": "that protects your mouth.",
+  "words": [
+   [
+    "that",
+    19.46
+   ],
+   [
+    "protects",
+    19.71
+   ],
+   [
+    "your",
+    20.2
+   ],
+   [
+    "mouth",
+    20.44
+   ]
+  ]
+ },
+ {
+  "s": 21.3,
+  "e": 22.52,
+  "text": "Then the fruit's acid,",
+  "words": [
+   [
+    "then",
+    21.3
+   ],
+   [
+    "the",
+    21.59
+   ],
+   [
+    "fruits",
+    21.8
+   ],
+   [
+    "acid",
+    22.23
+   ]
+  ]
+ },
+ {
+  "s": 22.82,
+  "e": 24.58,
+  "text": "around pH three to four,",
+  "words": [
+   [
+    "around",
+    22.82
+   ],
+   [
+    "ph",
+    23.38
+   ],
+   [
+    "three",
+    23.56
+   ],
+   [
+    "to",
+    24.03
+   ],
+   [
+    "four",
+    24.21
+   ]
+  ]
+ },
+ {
+  "s": 24.88,
+  "e": 26.93,
+  "text": "splashes onto the exposed spots.",
+  "words": [
+   [
+    "splashes",
+    24.88
+   ],
+   [
+    "onto",
+    25.49
+   ],
+   [
+    "the",
+    25.79
+   ],
+   [
+    "exposed",
+    26.02
+   ],
+   [
+    "spots",
+    26.55
+   ]
+  ]
+ },
+ {
+  "s": 27.48,
+  "e": 28.47,
+  "text": "That's the sting.",
+  "words": [
+   [
+    "thats",
+    27.48
+   ],
+   [
+    "the",
+    27.86
+   ],
+   [
+    "sting",
+    28.09
+   ]
+  ]
+ },
+ {
+  "s": 29.02,
+  "e": 32.42,
+  "text": "Meat tenderizer powders often use the same enzyme,",
+  "words": [
+   [
+    "meat",
+    29.02
+   ],
+   [
+    "tenderizer",
+    29.35
+   ],
+   [
+    "powders",
+    30.16
+   ],
+   [
+    "often",
+    30.72
+   ],
+   [
+    "use",
+    31.13
+   ],
+   [
+    "the",
+    31.37
+   ],
+   [
+    "same",
+    31.61
+   ],
+   [
+    "enzyme",
+    31.94
+   ]
+  ]
+ },
+ {
+  "s": 32.72,
+  "e": 33.51,
+  "text": "so yes,",
+  "words": [
+   [
+    "so",
+    32.72
+   ],
+   [
+    "yes",
+    33.04
+   ]
+  ]
+ },
+ {
+  "s": 33.81,
+  "e": 35.74,
+  "text": "your tongue is getting tenderized.",
+  "words": [
+   [
+    "your",
+    33.81
+   ],
+   [
+    "tongue",
+    34.08
+   ],
+   [
+    "is",
+    34.48
+   ],
+   [
+    "getting",
+    34.61
+   ],
+   [
+    "tenderized",
+    35.08
+   ]
+  ]
+ },
+ {
+  "s": 36.29,
+  "e": 38.31,
+  "text": "But heat changes the enzyme's shape,",
+  "words": [
+   [
+    "but",
+    36.29
+   ],
+   [
+    "heat",
+    36.5
+   ],
+   [
+    "changes",
+    36.78
+   ],
+   [
+    "the",
+    37.27
+   ],
+   [
+    "enzymes",
+    37.47
+   ],
+   [
+    "shape",
+    37.96
+   ]
+  ]
+ },
+ {
+  "s": 38.61,
+  "e": 41.07,
+  "text": "at about seventy to eighty degrees Celsius,",
+  "words": [
+   [
+    "at",
+    38.61
+   ],
+   [
+    "about",
+    38.75
+   ],
+   [
+    "seventy",
+    39.09
+   ],
+   [
+    "to",
+    39.57
+   ],
+   [
+    "eighty",
+    39.7
+   ],
+   [
+    "degrees",
+    40.11
+   ],
+   [
+    "celsius",
+    40.59
+   ]
+  ]
+ },
+ {
+  "s": 41.37,
+  "e": 42.57,
+  "text": "and it stops working.",
+  "words": [
+   [
+    "and",
+    41.37
+   ],
+   [
+    "it",
+    41.58
+   ],
+   [
+    "stops",
+    41.72
+   ],
+   [
+    "working",
+    42.08
+   ]
+  ]
+ },
+ {
+  "s": 43.12,
+  "e": 45.87,
+  "text": "That's why canned or grilled pineapple doesn't bite.",
+  "words": [
+   [
+    "thats",
+    43.12
+   ],
+   [
+    "why",
+    43.45
+   ],
+   [
+    "canned",
+    43.64
+   ],
+   [
+    "or",
+    44.04
+   ],
+   [
+    "grilled",
+    44.17
+   ],
+   [
+    "pineapple",
+    44.63
+   ],
+   [
+    "doesnt",
+    45.21
+   ],
+   [
+    "bite",
+    45.61
+   ]
+  ]
+ },
+ {
+  "s": 46.42,
+  "e": 48.24,
+  "text": "Relax, your mouth heals fast,",
+  "words": [
+   [
+    "relax",
+    46.42
+   ],
+   [
+    "your",
+    46.81
+   ],
+   [
+    "mouth",
+    47.13
+   ],
+   [
+    "heals",
+    47.53
+   ],
+   [
+    "fast",
+    47.92
+   ]
+  ]
+ },
+ {
+  "s": 48.54,
+  "e": 50.82,
+  "text": "tiny damage can fade within hours.",
+  "words": [
+   [
+    "tiny",
+    48.54
+   ],
+   [
+    "damage",
+    48.86
+   ],
+   [
+    "can",
+    49.35
+   ],
+   [
+    "fade",
+    49.6
+   ],
+   [
+    "within",
+    49.92
+   ],
+   [
+    "hours",
+    50.41
+   ]
+  ]
+ },
+ {
+  "s": 51.37,
+  "e": 52.26,
+  "text": "So tell me,",
+  "words": [
+   [
+    "so",
+    51.37
+   ],
+   [
+    "tell",
+    51.59
+   ],
+   [
+    "me",
+    52.04
+   ]
+  ]
+ },
+ {
+  "s": 52.56,
+  "e": 55.04,
+  "text": "would you still eat a fruit that digests your tongue?",
+  "words": [
+   [
+    "would",
+    52.56
+   ],
+   [
+    "you",
+    52.85
+   ],
+   [
+    "still",
+    53.02
+   ],
+   [
+    "eat",
+    53.31
+   ],
+   [
+    "a",
+    53.48
+   ],
+   [
+    "fruit",
+    53.54
+   ],
+   [
+    "that",
+    53.83
+   ],
+   [
+    "digests",
+    54.06
+   ],
+   [
+    "your",
+    54.46
+   ],
+   [
+    "tongue",
+    54.69
+   ]
+  ]
+ }
+]
