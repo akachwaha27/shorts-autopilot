@@ -378,98 +378,6 @@
     }
   },
   "videos": {
-    "2026-10-28-101": {
-      "topic": {
-        "title": "Why do your ears pop on a plane?",
-        "format": "animated",
-        "angle": "Flat-Vector Science"
-      },
-      "package": {
-        "title": "Why Your Ears Pop at 8,000 Feet \u2708\ufe0f",
-        "description": "Why do your ears pop on a plane? A plane cabin is only pressurized to about 6,000 to 8,000 feet, so the air trapped behind your eardrum pushes out on the climb and gets squeezed in on landing until your 3.5 cm Eustachian tube opens and evens out the pressure.\n\nSources:\nhttps://acibademinternational.com/blog/why-do-your-ears-pop-pressure-altitude-and-the-tube-that-fixes-it/\nhttps://www.scienceabc.com/eyeopeners/ears-pop-airplane-takes-off-landing-air-pressure-difference\nhttps://www.mentalfloss.com/article/13104/why-do-our-ears-pop-when-we-ride-airplanes\n\nAnimated in the Flat-Vector Science style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#bodyfacts",
-          "#science",
-          "#airplane"
-        ],
-        "tags": [
-          "why do ears pop on a plane",
-          "ears popping",
-          "eustachian tube",
-          "airplane ear",
-          "cabin pressure",
-          "why do my ears pop",
-          "ear pressure",
-          "how ears work",
-          "body facts",
-          "science explained",
-          "flying facts",
-          "zorbly ai",
-          "flat vector animation"
-        ],
-        "category": "27",
-        "pinned_comment": "Be honest: on landing, are you a yawner or a swallower? \u2708\ufe0f",
-        "thumbnail_text": "SECRET TUBE",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "A three and a half centimeter tube in your skull is why your ears pop. It's called the Eustachian tube, and it links your middle ear to the back of your throat. Behind your eardrum sits a tiny pocket of air. On the ground, it matches the air outside. But a plane cabin is only pressurized like an eight thousand foot mountain. So as you climb, the outside pressure drops, and the air behind your eardrum pushes out. Your eardrum bulges like a balloon, until the tube cracks open, air puffs out, and pop! Landing is trickier. Now the cabin air squeezes in, and that pressure pinches the tube shut. So you swallow, or you yawn. Tiny muscles yank the tube open, air rushes in, and your eardrum snaps back flat. So next flight, will you open that secret tube with a yawn, or a swallow?",
-        "key_facts": [
-          "Adult Eustachian tube is about 3.5 cm long, linking the middle ear to the back of the nose/throat (Acibadem)",
-          "Airliner cabins are pressurized to roughly the pressure at 6,000-8,000 ft (Acibadem)",
-          "On the climb, higher pressure in the middle ear pushes the tube open from inside; the pop is pressure equalizing (Acibadem; Science ABC)",
-          "On descent, rising cabin pressure squeezes the tube shut so it must be actively opened (Acibadem; Science ABC)",
-          "Swallowing and yawning contract small soft-palate muscles that pull the tube open (Acibadem; Science ABC)"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Flat-Vector Science"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261027-ear-pop",
-      "redos": 0,
-      "updated": "2026-10-29T09:22:26.355843+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-28",
-        "name": "2026-10-28-101.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-28",
-        "name": "2026-10-28-101-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:02,580\nA three and a half centimeter tube in your skull\n\n2\n00:00:02,880 --> 00:00:04,350\nis why your ears pop.\n\n3\n00:00:04,900 --> 00:00:06,600\nIt's called the Eustachian tube,\n\n4\n00:00:06,900 --> 00:00:08,240\nand it links your middle ear\n\n5\n00:00:08,540 --> 00:00:09,860\nto the back of your throat.\n\n6\n00:00:10,410 --> 00:00:13,090\nBehind your eardrum sits a tiny pocket of air.\n\n7\n00:00:13,640 --> 00:00:15,910\nOn the ground, it matches the air outside.\n\n8\n00:00:16,460 --> 00:00:18,730\nBut a plane cabin is only pressurized\n\n9\n00:00:19,030 --> 00:00:20,920\nlike an eight thousand foot mountain.\n\n10\n00:00:21,470 --> 00:00:24,110\nSo as you climb, the outside pressure drops,\n\n11\n00:00:24,410 --> 00:00:26,710\nand the air behind your eardrum pushes out.\n\n12\n00:00:27,260 --> 00:00:29,290\nYour eardrum bulges like a balloon,\n\n13\n00:00:29,590 --> 00:00:31,130\nuntil the tube cracks open,\n\n14\n00:00:31,430 --> 00:00:32,810\nair puffs out, and pop!\n\n15\n00:00:33,360 --> 00:00:34,630\nLanding is trickier.\n\n16\n00:00:35,180 --> 00:00:36,890\nNow the cabin air squeezes in,\n\n17\n00:00:37,190 --> 00:00:39,090\nand that pressure pinches the tube shut.\n\n18\n00:00:39,640 --> 00:00:41,310\nSo you swallow, or you yawn.\n\n19\n00:00:41,860 --> 00:00:44,000\nTiny muscles yank the tube open,\n\n20\n00:00:44,300 --> 00:00:45,310\nair rushes in,\n\n21\n00:00:45,610 --> 00:00:47,420\nand your eardrum snaps back flat.\n\n22\n00:00:47,970 --> 00:00:48,980\nSo next flight,\n\n23\n00:00:49,280 --> 00:00:51,640\nwill you open that secret tube with a yawn,\n\n24\n00:00:51,940 --> 00:00:52,830\nor a swallow?\n\n",
-      "tg_msg": 871,
-      "approved_by": "auto",
-      "quota_note": "2026-10-29",
-      "description_full": "Why do your ears pop on a plane? A plane cabin is only pressurized to about 6,000 to 8,000 feet, so the air trapped behind your eardrum pushes out on the climb and gets squeezed in on landing until your 3.5 cm Eustachian tube opens and evens out the pressure.\n\nSources:\nhttps://acibademinternational.com/blog/why-do-your-ears-pop-pressure-altitude-and-the-tube-that-fixes-it/\nhttps://www.scienceabc.com/eyeopeners/ears-pop-airplane-takes-off-landing-air-pressure-difference\nhttps://www.mentalfloss.com/article/13104/why-do-our-ears-pop-when-we-ride-airplanes\n\nAnimated in the Flat-Vector Science style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #bodyfacts #science #airplane\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/P56YTjS1x4s",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-29T09:22:26.355863+00:00",
-      "slot": "2026-10-31T14:15:00+00:00"
-    },
     "2026-10-28-102": {
       "topic": {
         "title": "How do fireflies glow?",
@@ -3127,12 +3035,12 @@
         "format": "animated",
         "style": "Kawaii Anime"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261103-pineapple-sting",
       "redos": 0,
-      "updated": "2026-11-03T09:09:07.733508+00:00",
+      "updated": "2026-11-03T17:10:40.619610+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech."
       ],
@@ -3147,7 +3055,246 @@
         "name": "2026-11-03-101-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:03,530\nPineapple digests your tongue with every bite you take.\n\n2\n00:00:04,080 --> 00:00:05,290\nThat sting on your tongue,\n\n3\n00:00:05,590 --> 00:00:06,660\nisn't just sour.\n\n4\n00:00:07,210 --> 00:00:09,150\nPineapple is packed with bromelain,\n\n5\n00:00:09,450 --> 00:00:11,780\na mix of enzymes that chop up protein.\n\n6\n00:00:12,330 --> 00:00:13,210\nAnd your tongue?\n\n7\n00:00:13,760 --> 00:00:15,040\nIt's made of protein.\n\n8\n00:00:15,590 --> 00:00:16,690\nSo while you're chewing,\n\n9\n00:00:16,990 --> 00:00:19,160\nbromelain cuts into the slimy coat,\n\n10\n00:00:19,460 --> 00:00:20,750\nthat protects your mouth.\n\n11\n00:00:21,300 --> 00:00:22,520\nThen the fruit's acid,\n\n12\n00:00:22,820 --> 00:00:24,580\naround pH three to four,\n\n13\n00:00:24,880 --> 00:00:26,930\nsplashes onto the exposed spots.\n\n14\n00:00:27,480 --> 00:00:28,470\nThat's the sting.\n\n15\n00:00:29,020 --> 00:00:32,420\nMeat tenderizer powders often use the same enzyme,\n\n16\n00:00:32,720 --> 00:00:33,510\nso yes,\n\n17\n00:00:33,810 --> 00:00:35,740\nyour tongue is getting tenderized.\n\n18\n00:00:36,290 --> 00:00:38,310\nBut heat changes the enzyme's shape,\n\n19\n00:00:38,610 --> 00:00:41,070\nat about seventy to eighty degrees Celsius,\n\n20\n00:00:41,370 --> 00:00:42,570\nand it stops working.\n\n21\n00:00:43,120 --> 00:00:45,870\nThat's why canned or grilled pineapple doesn't bite.\n\n22\n00:00:46,420 --> 00:00:48,240\nRelax, your mouth heals fast,\n\n23\n00:00:48,540 --> 00:00:50,820\ntiny damage can fade within hours.\n\n24\n00:00:51,370 --> 00:00:52,260\nSo tell me,\n\n25\n00:00:52,560 --> 00:00:55,040\nwould you still eat a fruit that digests your tongue?\n\n",
-      "tg_msg": 1001
+      "tg_msg": 1001,
+      "approved_by": "auto",
+      "description_full": "Why does pineapple make your tongue sting? Bromelain, a mix of protein-cutting enzymes in fresh pineapple, breaks down the slimy mucus coat in your mouth, and the fruit's acid then stings the exposed spots. Heat changes the enzyme's shape, which is why canned or grilled pineapple doesn't bite.\n\nSources:\nhttps://sciencemeetsfood.org/bromelain-pineapples/\nhttps://www.scienceabc.com/eyeopeners/bromelain-in-pineapple-how-it-works.html\nhttps://www.inverse.com/mind-body/why-does-eating-pineapple-cause-pain-science\n\nAnimated in the Kawaii Anime style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #pineapple #foodscience #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/Se6APt-oZcM",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-03T17:10:40.619626+00:00",
+      "slot": "2026-11-08T00:15:00+00:00"
+    },
+    "2026-11-03-102": {
+      "topic": {
+        "title": "Why are dogs' noses wet?",
+        "format": "animated",
+        "angle": "Low-Poly Faceted"
+      },
+      "package": {
+        "title": "Why Are Dogs' Noses Actually Wet? \ud83d\udc36",
+        "description": "Why are dogs' noses wet? A thin layer of mucus helps trap scent particles, licking carries them to a special scent organ in the mouth, and a 2020 study suggests a dog's cool nose may also sense faint heat.\n\nSources:\nhttps://vcacanada.com/know-your-pet/why-do-dogs-have-wet-noses\nhttps://www.smithsonianmag.com/smart-news/dogs-cool-noses-may-be-able-detect-heat-180974321/\nhttps://phys.org/news/2020-03-dogs.amp\n\nAnimated in the Low-Poly Faceted style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#dogs",
+          "#animals",
+          "#science"
+        ],
+        "tags": [
+          "why are dogs noses wet",
+          "dog nose",
+          "wet dog nose",
+          "dog sense of smell",
+          "dog scent receptors",
+          "jacobson's organ",
+          "dogs sense heat",
+          "dog facts",
+          "animal facts",
+          "animal science",
+          "science explained",
+          "fun facts",
+          "zorbly ai",
+          "animated explainer",
+          "how it works"
+        ],
+        "category": "27",
+        "pinned_comment": "What's the weirdest thing your dog has ever sniffed out?",
+        "thumbnail_text": "SMELL TRAP",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "Your dog's wet nose traps smells you'll never notice, and it might even sense heat. That shine is a thin layer of mucus, made by tiny glands in the nose. Smells are tiny floating particles, and they stick better to damp surfaces. Then your dog licks its nose, carrying those particles into its mouth, up to a special scent organ. Dogs have over a hundred million scent receptors. You've got about six million. But here's the strange part. In twenty-twenty, scientists trained three dogs to find the warmer of two objects, from about five feet away. All three could do it. That cool nose tip may work like a tiny heat sensor, though scientists are still testing that. So what's the weirdest thing your dog's wet nose ever found?",
+        "key_facts": [
+          "Glands in a dog's nose produce mucus, and a thin layer clings to the nostrils and helps absorb scent chemicals (VCA)",
+          "Scent particles stick better to damp surfaces (VCA)",
+          "Dogs lick their noses, carrying scent particles to the Jacobson's organ on the roof of the mouth (VCA)",
+          "Dogs have more than 100 million scent receptor sites, humans about 6 million (VCA, Smithsonian)",
+          "In a 2020 Scientific Reports study, three trained dogs picked the warmer of two objects from about 1.6 m / five feet (Smithsonian, Phys.org)",
+          "Brain scans of 13 dogs showed the somatosensory cortex responding to weak heat; whether the nose tip is the sensor is not yet proven (Smithsonian, Phys.org)"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Low-Poly Faceted"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261103-dog-wet-nose",
+      "redos": 0,
+      "updated": "2026-11-03T17:09:33.458593+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Low-Poly Faceted style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-03",
+        "name": "2026-11-03-102.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-03",
+        "name": "2026-11-03-102-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:03,250\nYour dog's wet nose traps smells you'll never notice,\n\n2\n00:00:03,550 --> 00:00:05,020\nand it might even sense heat.\n\n3\n00:00:05,570 --> 00:00:07,760\nThat shine is a thin layer of mucus,\n\n4\n00:00:08,060 --> 00:00:10,070\nmade by tiny glands in the nose.\n\n5\n00:00:10,620 --> 00:00:12,770\nSmells are tiny floating particles,\n\n6\n00:00:13,070 --> 00:00:15,180\nand they stick better to damp surfaces.\n\n7\n00:00:15,730 --> 00:00:17,470\nThen your dog licks its nose,\n\n8\n00:00:17,770 --> 00:00:20,120\ncarrying those particles into its mouth,\n\n9\n00:00:20,420 --> 00:00:22,020\nup to a special scent organ.\n\n10\n00:00:22,570 --> 00:00:25,460\nDogs have over a hundred million scent receptors.\n\n11\n00:00:26,010 --> 00:00:27,510\nYou've got about six million.\n\n12\n00:00:28,060 --> 00:00:29,650\nBut here's the strange part.\n\n13\n00:00:30,200 --> 00:00:33,200\nIn twenty-twenty, scientists trained three dogs\n\n14\n00:00:33,500 --> 00:00:35,550\nto find the warmer of two objects,\n\n15\n00:00:35,850 --> 00:00:37,360\nfrom about five feet away.\n\n16\n00:00:37,910 --> 00:00:39,150\nAll three could do it.\n\n17\n00:00:39,700 --> 00:00:43,090\nThat cool nose tip may work like a tiny heat sensor,\n\n18\n00:00:43,390 --> 00:00:45,380\nthough scientists are still testing that.\n\n19\n00:00:45,930 --> 00:00:47,360\nSo what's the weirdest thing\n\n20\n00:00:47,660 --> 00:00:49,700\nyour dog's wet nose ever found?\n\n",
+      "tg_msg": 1004
+    },
+    "2026-11-03-103": {
+      "topic": {
+        "title": "Why does hair turn grey?",
+        "format": "animated",
+        "angle": "Napkin Sketch"
+      },
+      "package": {
+        "title": "Why Do 91% of Us Have Grey Hair by 65?",
+        "description": "Why does hair turn grey? Melanocyte stem cells in the hair follicle stop moving and get stuck, so fewer colour cells make melanin, a finding from a 2023 study in mice.\n\nSources:\nhttps://www.livescience.com/health/ageing/why-does-hair-turn-gray\nhttps://www.npr.org/2023/04/21/1171110131/gray-hair-stem-cells-reversible\n\nAnimated in the Napkin Sketch style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#greyhair",
+          "#humanbody",
+          "#science"
+        ],
+        "tags": [
+          "why does hair turn grey",
+          "why does hair turn gray",
+          "grey hair",
+          "gray hair science",
+          "melanin",
+          "melanocytes",
+          "melanocyte stem cells",
+          "hair follicle",
+          "stuck stem cells",
+          "human body facts",
+          "science explained",
+          "fun facts",
+          "zorbly ai",
+          "animated explainer",
+          "how it works"
+        ],
+        "category": "27",
+        "pinned_comment": "If scientists could unstick those cells, would you keep your grey or go back?",
+        "thumbnail_text": "STUCK CELLS",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "Your grey hairs start with stuck cells, tiny ones, at your roots. Hair gets its colour from melanin, a pigment made by cells called melanocytes. They sit at the bottom of each follicle, and inject colour as the hair grows. But those cells need replacing, and that's the job of stem cells. In mice, scientists found these stem cells commute, moving up and down the follicle. Moving is how they get the signal to make colour. But as hair ages, more of them stop. They get stuck in a spot called the bulge. In plucked mouse hair, stuck cells jumped, from fifteen percent to nearly fifty. Stuck cells can't make new colour cells. Less melanin means grey, no melanin means white. By your early sixties, about ninety-one percent of people have some grey. So if scientists could unstick those cells, would you keep your grey, or go back?",
+        "key_facts": [
+          "Melanin made by melanocytes at the base of the follicle gives hair its colour (Live Science)",
+          "2023 Nature study: melanocyte stem cells migrate up and down the follicle in mice, and with age more get stuck, unable to mature (Live Science, NPR)",
+          "Stem cells lodged in the follicle bulge rose from 15 percent to nearly 50 percent in repeatedly plucked mouse hair (NPR)",
+          "Less melanin gives grey hair, no melanin gives white (Live Science, citing the Library of Congress)",
+          "By age 61 to 65, 91% of people show some greying (Melissa Harris, UAB, in Live Science)"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Napkin Sketch"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261103-grey-hair",
+      "redos": 0,
+      "updated": "2026-11-03T17:10:07.386419+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Napkin Sketch style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-03",
+        "name": "2026-11-03-103.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-03",
+        "name": "2026-11-03-103-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:02,360\nYour grey hairs start with stuck cells,\n\n2\n00:00:02,660 --> 00:00:04,280\ntiny ones, at your roots.\n\n3\n00:00:04,830 --> 00:00:06,650\nHair gets its colour from melanin,\n\n4\n00:00:06,950 --> 00:00:09,670\na pigment made by cells called melanocytes.\n\n5\n00:00:10,220 --> 00:00:12,300\nThey sit at the bottom of each follicle,\n\n6\n00:00:12,600 --> 00:00:14,650\nand inject colour as the hair grows.\n\n7\n00:00:15,200 --> 00:00:16,910\nBut those cells need replacing,\n\n8\n00:00:17,210 --> 00:00:18,980\nand that's the job of stem cells.\n\n9\n00:00:19,530 --> 00:00:22,430\nIn mice, scientists found these stem cells commute,\n\n10\n00:00:22,730 --> 00:00:24,570\nmoving up and down the follicle.\n\n11\n00:00:25,120 --> 00:00:27,900\nMoving is how they get the signal to make colour.\n\n12\n00:00:28,450 --> 00:00:30,760\nBut as hair ages, more of them stop.\n\n13\n00:00:31,310 --> 00:00:33,440\nThey get stuck in a spot called the bulge.\n\n14\n00:00:33,990 --> 00:00:36,330\nIn plucked mouse hair, stuck cells jumped,\n\n15\n00:00:36,630 --> 00:00:38,880\nfrom fifteen percent to nearly fifty.\n\n16\n00:00:39,430 --> 00:00:41,600\nStuck cells can't make new colour cells.\n\n17\n00:00:42,150 --> 00:00:43,720\nLess melanin means grey,\n\n18\n00:00:44,020 --> 00:00:45,620\nno melanin means white.\n\n19\n00:00:46,170 --> 00:00:47,570\nBy your early sixties,\n\n20\n00:00:47,870 --> 00:00:50,670\nabout ninety-one percent of people have some grey.\n\n21\n00:00:51,220 --> 00:00:53,470\nSo if scientists could unstick those cells,\n\n22\n00:00:53,770 --> 00:00:55,690\nwould you keep your grey, or go back?\n\n",
+      "tg_msg": 1005
+    },
+    "2026-11-03-104": {
+      "topic": {
+        "title": "How does a honeybee hive work?",
+        "format": "long",
+        "angle": "Cut-Paper Diorama"
+      },
+      "package": {
+        "title": "How Do 60,000 Bees Run a Hive With No Boss?",
+        "description": "How does a honeybee hive work with no one in charge? See how the queen, drones and workers split the jobs, why comb is built from hexagons, how the waggle dance gives directions, and how bees heat and cool the hive.\n\nSources:\nhttps://canr.udel.edu/maarec/honey-bee-biology/the-colony-and-its-organization/\nhttps://content.ces.ncsu.edu/honey-bee-dance-language\nhttps://extension.oregonstate.edu/es/catalog/bees-demonstrate-theyre-natures-hvac-specialists\n\nAnimated in the Cut-Paper Diorama style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#bees",
+          "#science",
+          "#animals"
+        ],
+        "tags": [
+          "honeybee hive",
+          "how does a beehive work",
+          "how bees work",
+          "waggle dance",
+          "queen bee",
+          "worker bee",
+          "drone bee",
+          "why honeycomb is hexagon",
+          "hexagon honeycomb",
+          "bee colony",
+          "how bees keep warm in winter",
+          "insects explained",
+          "animal facts",
+          "science explained"
+        ],
+        "category": "27",
+        "pinned_comment": "Which hive job would you want: cleaner, nurse, builder, guard, or forager?",
+        "thumbnail_text": "THEY DANCE MAPS",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "Sixty thousand bees, no boss, and you'd never guess how they run it. This hive builds perfect rooms, runs its own heating and cooling, and shares maps by dancing. So how does a honeybee hive actually work? Let's start with the queen. She sounds like the boss, but she doesn't give orders. Her real job is eggs. At her peak, she can lay up to fifteen hundred a day. That's about one egg every minute, all day and all night. Around her are a few hundred males, called drones. They're only here to mate with a new queen. And when the cold comes in fall, the workers shove them out the door. Everyone else is a worker, and every worker is female. A queen and a worker can start as the same kind of egg. The difference is food. A future queen gets loads of royal jelly, and a worker gets far less. Now, a summer worker only lives about six weeks, and she changes careers the whole way through. Day one, she's a cleaner, polishing her own cell. Around day five, she's a nurse, feeding the babies. Around day twelve, wax glands on her belly switch on, so she turns builder. Around day fifteen, she can guard the door. And after about three weeks, she finally goes outside, to spend the rest of her life hunting flowers. Wax is seriously expensive. It takes about eight pounds of honey, to make one pound of wax. So the hive can't waste a drop. Circles leave gaps. Squares and triangles fit, but they use more wall. Hexagons give you the most room, for the least wax. People suspected that for centuries, but a mathematician only proved it in nineteen ninety-nine. Bees got there first, with no math at all. Now, the coolest trick in the hive. A forager finds flowers a long way off. How does she tell her sisters, in the pitch dark, with no words? She dances. She runs in a straight line, shaking her body, loops back, and does it again. The angle of that run is the direction. Straight up means fly toward the sun. Sixty degrees to the left, means sixty degrees left of the sun. And the waggle's length is the distance. A waggle of about two and a half seconds, means flowers over a mile and a half away. Cracking that code won Karl von Frisch, a Nobel Prize in nineteen seventy-three. The babies are picky. They need to stay close to ninety-five degrees Fahrenheit. Too cold? Workers shiver their flight muscles, without flapping, and turn into tiny heaters. Too hot? They carry in water, spread it on the comb, and fan it with their wings. As it evaporates, the hive cools down. That's air conditioning, powered by bees. And in winter, they don't hibernate. Below about fifty-seven degrees, they pull into a tight ball around the queen, and burn honey to make heat. That's why they store all that honey. It's their winter fuel. So no single bee knows the plan. Each one just follows simple rules. But put sixty thousand together, and you get something that acts like one giant animal. Next up, why does cilantro taste like soap, to some people?",
+        "key_facts": [
+          "Colonies reach up to about 60,000 workers; a few hundred drones in late spring and summer (Univ. of Delaware MAAREC)",
+          "Queens may lay up to 1,500 eggs a day at peak (MAAREC)",
+          "Drones are forced out in fall (MAAREC)",
+          "Queens come from fertilized eggs or young worker larvae, fed copious royal jelly (MAAREC)",
+          "Summer workers live about 6 weeks (MAAREC). Job ages: cell cleaning from emergence, nursing about day 5, wax about day 12, guarding about day 15, foraging from about day 21 (Univ. of Arizona Extension; American Bee Journal 2024)",
+          "About 8 lb of honey for 1 lb of wax (AskNature; American Bee Journal)",
+          "Hexagonal tiling has least perimeter for equal areas; proof posted 1999 (arXiv math/9906042)",
+          "Waggle-run angle from vertical = angle from the sun; 2.5 s waggle = about 2,625 m, about 1.6 miles; Nobel 1973 (NC State Extension)",
+          "Brood kept near 92-95 F in summer; heat from shivering flight muscles; cooling by fanning and evaporating water (Oregon State Extension)",
+          "Below about 57 F bees form a cluster around the queen, not hibernating, fuelled by honey (Mississippi State Extension; MAAREC)"
+        ],
+        "voice": "Kokoro",
+        "format": "long",
+        "style": "Cut-Paper Diorama"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261103-honeybee-hive",
+      "redos": 0,
+      "updated": "2026-11-03T17:10:22.430744+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Cut-Paper Diorama style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-03",
+        "name": "2026-11-03-104.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-03",
+        "name": "2026-11-03-104-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:02,480\nSixty thousand bees, no boss,\n\n2\n00:00:02,780 --> 00:00:04,560\nand you'd never guess how they run it.\n\n3\n00:00:05,110 --> 00:00:06,980\nThis hive builds perfect rooms,\n\n4\n00:00:07,280 --> 00:00:08,960\nruns its own heating and cooling,\n\n5\n00:00:09,260 --> 00:00:10,880\nand shares maps by dancing.\n\n6\n00:00:11,430 --> 00:00:13,850\nSo how does a honeybee hive actually work?\n\n7\n00:00:14,400 --> 00:00:15,760\nLet's start with the queen.\n\n8\n00:00:16,310 --> 00:00:17,610\nShe sounds like the boss,\n\n9\n00:00:17,910 --> 00:00:19,390\nbut she doesn't give orders.\n\n10\n00:00:19,940 --> 00:00:21,590\nHer real job is eggs.\n\n11\n00:00:22,140 --> 00:00:25,240\nAt her peak, she can lay up to fifteen hundred a day.\n\n12\n00:00:25,790 --> 00:00:27,570\nThat's about one egg every minute,\n\n13\n00:00:27,870 --> 00:00:29,250\nall day and all night.\n\n14\n00:00:29,800 --> 00:00:31,880\nAround her are a few hundred males,\n\n15\n00:00:32,180 --> 00:00:33,160\ncalled drones.\n\n16\n00:00:33,710 --> 00:00:35,830\nThey're only here to mate with a new queen.\n\n17\n00:00:36,380 --> 00:00:38,110\nAnd when the cold comes in fall,\n\n18\n00:00:38,410 --> 00:00:40,280\nthe workers shove them out the door.\n\n19\n00:00:40,830 --> 00:00:42,450\nEveryone else is a worker,\n\n20\n00:00:42,750 --> 00:00:44,420\nand every worker is female.\n\n21\n00:00:44,970 --> 00:00:48,410\nA queen and a worker can start as the same kind of egg.\n\n22\n00:00:48,960 --> 00:00:50,260\nThe difference is food.\n\n23\n00:00:50,810 --> 00:00:53,390\nA future queen gets loads of royal jelly,\n\n24\n00:00:53,690 --> 00:00:55,410\nand a worker gets far less.\n\n25\n00:00:55,960 --> 00:00:58,980\nNow, a summer worker only lives about six weeks,\n\n26\n00:00:59,280 --> 00:01:01,640\nand she changes careers the whole way through.\n\n27\n00:01:02,190 --> 00:01:03,640\nDay one, she's a cleaner,\n\n28\n00:01:03,940 --> 00:01:05,270\npolishing her own cell.\n\n29\n00:01:05,820 --> 00:01:07,580\nAround day five, she's a nurse,\n\n30\n00:01:07,880 --> 00:01:09,070\nfeeding the babies.\n\n31\n00:01:09,620 --> 00:01:13,120\nAround day twelve, wax glands on her belly switch on,\n\n32\n00:01:13,420 --> 00:01:14,710\nso she turns builder.\n\n33\n00:01:15,260 --> 00:01:17,910\nAround day fifteen, she can guard the door.\n\n34\n00:01:18,460 --> 00:01:20,020\nAnd after about three weeks,\n\n35\n00:01:20,320 --> 00:01:21,990\nshe finally goes outside,\n\n36\n00:01:22,290 --> 00:01:24,860\nto spend the rest of her life hunting flowers.\n\n37\n00:01:25,410 --> 00:01:27,140\nWax is seriously expensive.\n\n38\n00:01:27,690 --> 00:01:29,590\nIt takes about eight pounds of honey,\n\n39\n00:01:29,890 --> 00:01:31,410\nto make one pound of wax.\n\n40\n00:01:31,960 --> 00:01:33,910\nSo the hive can't waste a drop.\n\n41\n00:01:34,460 --> 00:01:35,760\nCircles leave gaps.\n\n42\n00:01:36,310 --> 00:01:37,860\nSquares and triangles fit,\n\n43\n00:01:38,160 --> 00:01:39,590\nbut they use more wall.\n\n44\n00:01:40,140 --> 00:01:41,990\nHexagons give you the most room,\n\n45\n00:01:42,290 --> 00:01:43,410\nfor the least wax.\n\n46\n00:01:43,960 --> 00:01:45,990\nPeople suspected that for centuries,\n\n47\n00:01:46,290 --> 00:01:50,010\nbut a mathematician only proved it in nineteen ninety-nine.\n\n48\n00:01:50,560 --> 00:01:53,240\nBees got there first, with no math at all.\n\n49\n00:01:53,790 --> 00:01:55,680\nNow, the coolest trick in the hive.\n\n50\n00:01:56,230 --> 00:01:58,790\nA forager finds flowers a long way off.\n\n51\n00:01:59,340 --> 00:02:00,880\nHow does she tell her sisters,\n\n52\n00:02:01,180 --> 00:02:03,010\nin the pitch dark, with no words?\n\n53\n00:02:03,560 --> 00:02:04,450\nShe dances.\n\n54\n00:02:05,000 --> 00:02:06,530\nShe runs in a straight line,\n\n55\n00:02:06,830 --> 00:02:07,960\nshaking her body,\n\n56\n00:02:08,260 --> 00:02:09,100\nloops back,\n\n57\n00:02:09,400 --> 00:02:10,470\nand does it again.\n\n58\n00:02:11,020 --> 00:02:13,270\nThe angle of that run is the direction.\n\n59\n00:02:13,820 --> 00:02:15,840\nStraight up means fly toward the sun.\n\n60\n00:02:16,390 --> 00:02:17,960\nSixty degrees to the left,\n\n61\n00:02:18,260 --> 00:02:20,410\nmeans sixty degrees left of the sun.\n\n62\n00:02:20,960 --> 00:02:22,960\nAnd the waggle's length is the distance.\n\n63\n00:02:23,510 --> 00:02:25,680\nA waggle of about two and a half seconds,\n\n64\n00:02:25,980 --> 00:02:28,550\nmeans flowers over a mile and a half away.\n\n65\n00:02:29,100 --> 00:02:31,450\nCracking that code won Karl von Frisch,\n\n66\n00:02:31,750 --> 00:02:34,390\na Nobel Prize in nineteen seventy-three.\n\n67\n00:02:34,940 --> 00:02:36,250\nThe babies are picky.\n\n68\n00:02:36,800 --> 00:02:39,910\nThey need to stay close to ninety-five degrees Fahrenheit.\n\n69\n00:02:40,460 --> 00:02:41,310\nToo cold?\n\n70\n00:02:41,860 --> 00:02:43,900\nWorkers shiver their flight muscles,\n\n71\n00:02:44,200 --> 00:02:45,240\nwithout flapping,\n\n72\n00:02:45,540 --> 00:02:47,300\nand turn into tiny heaters.\n\n73\n00:02:47,850 --> 00:02:48,660\nToo hot?\n\n74\n00:02:49,210 --> 00:02:50,430\nThey carry in water,\n\n75\n00:02:50,730 --> 00:02:51,950\nspread it on the comb,\n\n76\n00:02:52,250 --> 00:02:53,750\nand fan it with their wings.\n\n77\n00:02:54,300 --> 00:02:56,750\nAs it evaporates, the hive cools down.\n\n78\n00:02:57,300 --> 00:02:58,590\nThat's air conditioning,\n\n79\n00:02:58,890 --> 00:03:00,090\npowered by bees.\n\n80\n00:03:00,640 --> 00:03:02,690\nAnd in winter, they don't hibernate.\n\n81\n00:03:03,240 --> 00:03:05,370\nBelow about fifty-seven degrees,\n\n82\n00:03:05,670 --> 00:03:07,930\nthey pull into a tight ball around the queen,\n\n83\n00:03:08,230 --> 00:03:09,860\nand burn honey to make heat.\n\n84\n00:03:10,410 --> 00:03:12,300\nThat's why they store all that honey.\n\n85\n00:03:12,850 --> 00:03:14,200\nIt's their winter fuel.\n\n86\n00:03:14,750 --> 00:03:16,630\nSo no single bee knows the plan.\n\n87\n00:03:17,180 --> 00:03:19,330\nEach one just follows simple rules.\n\n88\n00:03:19,880 --> 00:03:21,660\nBut put sixty thousand together,\n\n89\n00:03:21,960 --> 00:03:24,890\nand you get something that acts like one giant animal.\n\n90\n00:03:25,440 --> 00:03:28,250\nNext up, why does cilantro taste like soap,\n\n91\n00:03:28,550 --> 00:03:29,580\nto some people?\n\n",
+      "tg_msg": 1006
     }
   },
   "history": [
@@ -3237,7 +3384,7 @@
   "visual_searches": {
     "2026-10-25": 3
   },
-  "signals_day": "2026-11-02",
+  "signals_day": "2026-11-03",
   "drops_done": {
     "drop/20261025-autumn-leaves": "2026-10-25-101",
     "drop/20261025-roman-hypocaust": "2026-10-25-102",
@@ -3284,7 +3431,10 @@
     "drop/20261102-cat-purr": "2026-11-02-103",
     "drop/20261102-leafcutter-city": "2026-11-02-104",
     "drop/20261102-popcorn-pop": "2026-11-02-105",
-    "drop/20261103-pineapple-sting": "2026-11-03-101"
+    "drop/20261103-pineapple-sting": "2026-11-03-101",
+    "drop/20261103-dog-wet-nose": "2026-11-03-102",
+    "drop/20261103-grey-hair": "2026-11-03-103",
+    "drop/20261103-honeybee-hive": "2026-11-03-104"
   },
   "refs_day": "2026-11-03"
 }
