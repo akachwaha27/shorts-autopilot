@@ -615,5 +615,17 @@
   "words": 540,
   "sheet_id": "L017",
   "note": "no storyboard step (unattended run); hook 41, title 100; effects rendered in 15 s segments because one long offline render stalled"
+ },
+ {
+  "date": "2026-11-04",
+  "id": "20261104-why-hiccups",
+  "kind": "short",
+  "style": "Ukiyo-e Woodblock",
+  "topic": "Why do you get hiccups?",
+  "title": "Why Does Your Throat Slam Shut 35 ms Into a Hiccup?",
+  "seconds": 52.1,
+  "words": 134,
+  "sheet_id": "S048",
+  "note": "no storyboard step (unattended run); hook 45, title 100; facts from one source (News-Medical), PMC/Wikipedia/Mayo fetches blocked"
  }
 ]
