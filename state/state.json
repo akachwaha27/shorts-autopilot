@@ -378,273 +378,6 @@
     }
   },
   "videos": {
-    "2026-10-29-102": {
-      "topic": {
-        "title": "What would happen if all the insects disappeared?",
-        "format": "long",
-        "angle": "Low-Poly Faceted"
-      },
-      "package": {
-        "title": "What If 10 Quintillion Insects Vanished Tonight? \ud83d\udc1d",
-        "description": "What would happen if all the insects on Earth disappeared? We walk through it step by step: pollination and the fruits we'd lose (including chocolate), hungry songbirds and fish, Australia's cow-pat problem and the dung beetles that fixed it, and whether humans would starve.\n\nSources:\nhttps://www.si.edu/spotlight/buginfo/bugnos\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC10517183/\nhttps://en.wikipedia.org/wiki/Australian_Dung_Beetle_Project\n\nAnimated in the Low-Poly Faceted style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#insects",
-          "#science",
-          "#explained"
-        ],
-        "tags": [
-          "what if all insects disappeared",
-          "insects disappear",
-          "pollination",
-          "bees",
-          "pollinators",
-          "chocolate midges",
-          "dung beetles australia",
-          "food chain",
-          "insect decline",
-          "science explained",
-          "animal facts",
-          "zorbly ai",
-          "what if",
-          "nature explained"
-        ],
-        "category": "27",
-        "pinned_comment": "Which food would you miss most if insects vanished: chocolate, apples or honey?",
-        "thumbnail_text": "Goodbye Chocolate?",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "Every insect on Earth vanishes tonight. What would you lose first? The first thing you'd notice is the quiet, no buzzing, no chirping, no crickets at night. But the real trouble starts sooner than you think. Let's walk through it, step by step. First, how many bugs are we talking about? Scientists think about ten quintillion insects are alive right now. That's more than a billion insects for every single person. Over a million kinds have names, and millions more are still waiting for one. So when they all disappear, they leave a gigantic hole. Start with the flowers. Nearly nine out of ten flowering plants need animals to carry their pollen, and most of those animals are insects. Bees, flies, beetles, moths and butterflies move pollen from flower to flower, so the plant can make seeds and fruit. Without them, the flowers still bloom, but most never turn into fruit. About three quarters of our main food crops get help from pollinators. Apples, almonds, blueberries, cherries and melons would become rare and very expensive. And chocolate? Cacao flowers are pollinated by tiny flies called midges, about the size of a pinhead. No midges, almost no chocolate. Next come the animals that eat insects. Most songbirds feed their chicks on bugs, even the ones that eat seeds as adults. One pair of chickadees needs six to nine thousand caterpillars to raise a single nest of chicks. Bats, frogs, lizards and spiders lose their dinner too. In rivers, trout and many other fish eat young mayflies and caddisflies. Take away the bugs, and the food chain crumbles from the bottom up. Now for the gross part. Insects are nature's cleanup crew. Beetles and fly larvae break down dead leaves, dead animals, and poop. Australia found this out the hard way. When settlers brought cattle, the local dung beetles couldn't handle cow pats. The pats sat in the fields for months, smothering the grass and breeding swarms of flies. So scientists shipped in dung beetles from abroad, and about twenty-three kinds settled in. Now picture that problem everywhere on Earth. Fungi and bacteria would keep working, but much more slowly. So, would humans starve? Not right away. Wheat, rice and corn are pollinated by the wind, so we'd still have bread, rice and popcorn. But our plates would get very boring, and we'd lose honey, silk, and lots of fruits and vegetables. Many wild plants would slowly fade away, and the animals that eat them would follow. Even the soil would suffer, because insects dig it, mix it and feed it. So the next time a bee buzzes past your head, remember, that tiny bug helps keep your whole plate full. Next time: how a bear hunt gave us the teddy bear.",
-        "key_facts": [
-          "About 10 quintillion insects are alive at any time (Smithsonian estimate), over a billion per person",
-          "Over a million insect species are named; millions more are thought to be undescribed",
-          "Nearly 9 in 10 flowering plant species are animal-pollinated (Ollerton et al. 2011; ~90% in 2023 update)",
-          "About three quarters of leading food crop types benefit from animal pollination (FAO/Klein 2007)",
-          "Cacao flowers are pollinated mainly by tiny ceratopogonid midges (Forcipomyia)",
-          "A pair of chickadees needs 6,000-9,000 caterpillars to raise one brood (Tallamy / NestWatch)",
-          "Australian Dung Beetle Project (1965-1985): ~23 introduced species established to clear cattle dung",
-          "Wheat, rice and corn are wind-pollinated"
-        ],
-        "voice": "Kokoro",
-        "format": "long",
-        "style": "Low-Poly Faceted"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261029-no-insects",
-      "redos": 0,
-      "updated": "2026-10-30T07:15:48.525857+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Low-Poly Faceted style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-29",
-        "name": "2026-10-29-102.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-29",
-        "name": "2026-10-29-102-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:02,520\nEvery insect on Earth vanishes tonight.\n\n2\n00:00:03,070 --> 00:00:04,370\nWhat would you lose first?\n\n3\n00:00:04,920 --> 00:00:07,130\nThe first thing you'd notice is the quiet,\n\n4\n00:00:07,430 --> 00:00:10,260\nno buzzing, no chirping, no crickets at night.\n\n5\n00:00:10,810 --> 00:00:13,290\nBut the real trouble starts sooner than you think.\n\n6\n00:00:13,840 --> 00:00:15,720\nLet's walk through it, step by step.\n\n7\n00:00:16,270 --> 00:00:18,670\nFirst, how many bugs are we talking about?\n\n8\n00:00:19,220 --> 00:00:21,850\nScientists think about ten quintillion insects\n\n9\n00:00:22,150 --> 00:00:23,420\nare alive right now.\n\n10\n00:00:23,970 --> 00:00:25,720\nThat's more than a billion insects\n\n11\n00:00:26,020 --> 00:00:27,570\nfor every single person.\n\n12\n00:00:28,120 --> 00:00:30,170\nOver a million kinds have names,\n\n13\n00:00:30,470 --> 00:00:32,740\nand millions more are still waiting for one.\n\n14\n00:00:33,290 --> 00:00:34,750\nSo when they all disappear,\n\n15\n00:00:35,050 --> 00:00:36,690\nthey leave a gigantic hole.\n\n16\n00:00:37,240 --> 00:00:38,550\nStart with the flowers.\n\n17\n00:00:39,100 --> 00:00:41,330\nNearly nine out of ten flowering plants\n\n18\n00:00:41,630 --> 00:00:43,700\nneed animals to carry their pollen,\n\n19\n00:00:44,000 --> 00:00:46,200\nand most of those animals are insects.\n\n20\n00:00:46,750 --> 00:00:49,810\nBees, flies, beetles, moths and butterflies\n\n21\n00:00:50,110 --> 00:00:52,160\nmove pollen from flower to flower,\n\n22\n00:00:52,460 --> 00:00:54,500\nso the plant can make seeds and fruit.\n\n23\n00:00:55,050 --> 00:00:57,120\nWithout them, the flowers still bloom,\n\n24\n00:00:57,420 --> 00:00:59,330\nbut most never turn into fruit.\n\n25\n00:00:59,880 --> 00:01:02,350\nAbout three quarters of our main food crops\n\n26\n00:01:02,650 --> 00:01:04,280\nget help from pollinators.\n\n27\n00:01:04,830 --> 00:01:07,660\nApples, almonds, blueberries, cherries and melons\n\n28\n00:01:07,960 --> 00:01:10,160\nwould become rare and very expensive.\n\n29\n00:01:10,710 --> 00:01:11,520\nAnd chocolate?\n\n30\n00:01:12,070 --> 00:01:16,220\nCacao flowers are pollinated by tiny flies called midges,\n\n31\n00:01:16,520 --> 00:01:18,110\nabout the size of a pinhead.\n\n32\n00:01:18,660 --> 00:01:20,790\nNo midges, almost no chocolate.\n\n33\n00:01:21,340 --> 00:01:23,620\nNext come the animals that eat insects.\n\n34\n00:01:24,170 --> 00:01:26,440\nMost songbirds feed their chicks on bugs,\n\n35\n00:01:26,740 --> 00:01:29,030\neven the ones that eat seeds as adults.\n\n36\n00:01:29,580 --> 00:01:30,970\nOne pair of chickadees\n\n37\n00:01:31,270 --> 00:01:33,630\nneeds six to nine thousand caterpillars\n\n38\n00:01:33,930 --> 00:01:35,830\nto raise a single nest of chicks.\n\n39\n00:01:36,380 --> 00:01:38,650\nBats, frogs, lizards and spiders\n\n40\n00:01:38,950 --> 00:01:40,260\nlose their dinner too.\n\n41\n00:01:40,810 --> 00:01:42,980\nIn rivers, trout and many other fish\n\n42\n00:01:43,280 --> 00:01:45,490\neat young mayflies and caddisflies.\n\n43\n00:01:46,040 --> 00:01:47,290\nTake away the bugs,\n\n44\n00:01:47,590 --> 00:01:50,090\nand the food chain crumbles from the bottom up.\n\n45\n00:01:50,640 --> 00:01:51,950\nNow for the gross part.\n\n46\n00:01:52,500 --> 00:01:54,390\nInsects are nature's cleanup crew.\n\n47\n00:01:54,940 --> 00:01:57,920\nBeetles and fly larvae break down dead leaves,\n\n48\n00:01:58,220 --> 00:01:59,210\ndead animals,\n\n49\n00:01:59,510 --> 00:02:00,310\nand poop.\n\n50\n00:02:00,860 --> 00:02:03,080\nAustralia found this out the hard way.\n\n51\n00:02:03,630 --> 00:02:05,080\nWhen settlers brought cattle,\n\n52\n00:02:05,380 --> 00:02:08,100\nthe local dung beetles couldn't handle cow pats.\n\n53\n00:02:08,650 --> 00:02:10,640\nThe pats sat in the fields for months,\n\n54\n00:02:10,940 --> 00:02:12,020\nsmothering the grass\n\n55\n00:02:12,320 --> 00:02:14,110\nand breeding swarms of flies.\n\n56\n00:02:14,660 --> 00:02:17,480\nSo scientists shipped in dung beetles from abroad,\n\n57\n00:02:17,780 --> 00:02:19,890\nand about twenty-three kinds settled in.\n\n58\n00:02:20,440 --> 00:02:22,990\nNow picture that problem everywhere on Earth.\n\n59\n00:02:23,540 --> 00:02:25,690\nFungi and bacteria would keep working,\n\n60\n00:02:25,990 --> 00:02:27,290\nbut much more slowly.\n\n61\n00:02:27,840 --> 00:02:29,330\nSo, would humans starve?\n\n62\n00:02:29,880 --> 00:02:30,960\nNot right away.\n\n63\n00:02:31,510 --> 00:02:34,570\nWheat, rice and corn are pollinated by the wind,\n\n64\n00:02:34,870 --> 00:02:37,540\nso we'd still have bread, rice and popcorn.\n\n65\n00:02:38,090 --> 00:02:39,980\nBut our plates would get very boring,\n\n66\n00:02:40,280 --> 00:02:41,730\nand we'd lose honey, silk,\n\n67\n00:02:42,030 --> 00:02:44,000\nand lots of fruits and vegetables.\n\n68\n00:02:44,550 --> 00:02:47,020\nMany wild plants would slowly fade away,\n\n69\n00:02:47,320 --> 00:02:49,400\nand the animals that eat them would follow.\n\n70\n00:02:49,950 --> 00:02:51,380\nEven the soil would suffer,\n\n71\n00:02:51,680 --> 00:02:54,150\nbecause insects dig it, mix it and feed it.\n\n72\n00:02:54,700 --> 00:02:57,360\nSo the next time a bee buzzes past your head,\n\n73\n00:02:57,660 --> 00:02:58,330\nremember,\n\n74\n00:02:58,630 --> 00:03:01,260\nthat tiny bug helps keep your whole plate full.\n\n75\n00:03:01,810 --> 00:03:02,680\nNext time:\n\n76\n00:03:02,980 --> 00:03:05,070\nhow a bear hunt gave us the teddy bear.\n\n",
-      "tg_msg": 913,
-      "approved_by": "auto",
-      "quota_note": "2026-10-30",
-      "description_full": "What would happen if all the insects on Earth disappeared? We walk through it step by step: pollination and the fruits we'd lose (including chocolate), hungry songbirds and fish, Australia's cow-pat problem and the dung beetles that fixed it, and whether humans would starve.\n\nSources:\nhttps://www.si.edu/spotlight/buginfo/bugnos\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC10517183/\nhttps://en.wikipedia.org/wiki/Australian_Dung_Beetle_Project\n\nAnimated in the Low-Poly Faceted style.\n\nFollow Zorbly AI for a new Short every day.\n\n#insects #science #explained\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Low-Poly Faceted style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/LEpfUBMYlro",
-          "private \u00b7 thumbnail \u2705"
-        ]
-      },
-      "uploaded_at": "2026-10-30T07:15:48.525877+00:00",
-      "slot": "2026-11-02T00:15:00+00:00"
-    },
-    "2026-10-29-103": {
-      "topic": {
-        "title": "Why do onions make you cry?",
-        "format": "animated",
-        "angle": "Flat-Vector Science"
-      },
-      "package": {
-        "title": "Why Do Onions Make You Cry After 30 Seconds? \ud83e\uddc5",
-        "description": "Why do onions make you cry? Cutting an onion mixes a sulfur compound with an enzyme, and a second enzyme (found in 2002) turns the result into syn-propanethial-S-oxide, an irritating gas that peaks about 30 seconds after the cut and makes your tear glands wash it away.\n\nSources:\nhttps://www.scientificamerican.com/article/what-is-the-chemical-proc/\nhttps://www.thenakedscientists.com/articles/questions/why-do-onions-make-us-cry-when-we-cut-them-and-there-any-way-prevent\nhttps://pubmed.ncbi.nlm.nih.gov/12384686/\n\nAnimated in the Flat-Vector Science style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#onions",
-          "#foodscience",
-          "#science"
-        ],
-        "tags": [
-          "why do onions make you cry",
-          "onion tears",
-          "onion tear gas",
-          "syn-propanethial-S-oxide",
-          "lachrymatory factor",
-          "onion chemistry",
-          "how to cut onions without crying",
-          "food science",
-          "kitchen science",
-          "science explained",
-          "food facts",
-          "zorbly ai",
-          "flat vector animation"
-        ],
-        "category": "27",
-        "pinned_comment": "Would you still eat a plant that fights back with tear gas? \ud83e\uddc5 Yes or no?",
-        "thumbnail_text": "TEAR GAS",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "Onions fire tear gas at your eyes, 30 seconds after you cut them. How? Inside every onion cell, two chemicals are kept apart, in separate little rooms. One is a sulfur molecule. The other is an enzyme. Your knife smashes the walls, and they finally mix. The enzyme turns the sulfur into an acid, then a second enzyme, only discovered in 2002, flips that acid into a gas. It drifts up, and peaks about 30 seconds after the cut. When it hits your eyes, tiny nerves shout \"burning!\" So your tear glands flood your eyes, to wash it away. Why bother? It's armor. Any animal that bites an onion, gets a face full of sting. Want fewer tears? Cut it under running water. So, would you still eat a plant that fights back with tear gas?",
-        "key_facts": [
-          "Onion cells keep sulfur-containing amino acid sulfoxides and the enzyme alliinase apart until the cell is damaged",
-          "Alliinase turns the sulfoxides into sulfenic acids",
-          "Lachrymatory factor synthase, reported in Nature in 2002 (Imai et al.), converts the sulfenic acid into syn-propanethial-S-oxide",
-          "The tear-causing compound peaks about 30 seconds after the onion is cut",
-          "Corneal nerve endings sense it as burning and tear glands wash it away",
-          "Cutting under running water reduces exposure"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Flat-Vector Science"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261029-onion-tears",
-      "redos": 0,
-      "updated": "2026-10-30T07:15:52.185404+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-29",
-        "name": "2026-10-29-103.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-29",
-        "name": "2026-10-29-103-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:02,570\nOnions fire tear gas at your eyes,\n\n2\n00:00:02,870 --> 00:00:04,860\n30 seconds after you cut them.\n\n3\n00:00:05,410 --> 00:00:05,960\nHow?\n\n4\n00:00:06,510 --> 00:00:08,150\nInside every onion cell,\n\n5\n00:00:08,450 --> 00:00:10,190\ntwo chemicals are kept apart,\n\n6\n00:00:10,490 --> 00:00:11,920\nin separate little rooms.\n\n7\n00:00:12,470 --> 00:00:14,300\nOne is a sulfur molecule.\n\n8\n00:00:14,850 --> 00:00:16,290\nThe other is an enzyme.\n\n9\n00:00:16,840 --> 00:00:18,580\nYour knife smashes the walls,\n\n10\n00:00:18,880 --> 00:00:20,220\nand they finally mix.\n\n11\n00:00:20,770 --> 00:00:23,300\nThe enzyme turns the sulfur into an acid,\n\n12\n00:00:23,600 --> 00:00:24,920\nthen a second enzyme,\n\n13\n00:00:25,220 --> 00:00:27,340\nonly discovered in 2002,\n\n14\n00:00:27,640 --> 00:00:29,460\nflips that acid into a gas.\n\n15\n00:00:30,010 --> 00:00:30,910\nIt drifts up,\n\n16\n00:00:31,210 --> 00:00:33,560\nand peaks about 30 seconds after the cut.\n\n17\n00:00:34,110 --> 00:00:35,410\nWhen it hits your eyes,\n\n18\n00:00:35,710 --> 00:00:37,260\ntiny nerves shout \"burning!\"\n\n19\n00:00:37,560 --> 00:00:39,520\nSo your tear glands flood your eyes,\n\n20\n00:00:39,820 --> 00:00:40,910\nto wash it away.\n\n21\n00:00:41,460 --> 00:00:42,280\nWhy bother?\n\n22\n00:00:42,830 --> 00:00:43,630\nIt's armor.\n\n23\n00:00:44,180 --> 00:00:46,020\nAny animal that bites an onion,\n\n24\n00:00:46,320 --> 00:00:47,850\ngets a face full of sting.\n\n25\n00:00:48,400 --> 00:00:49,540\nWant fewer tears?\n\n26\n00:00:50,090 --> 00:00:51,800\nCut it under running water.\n\n27\n00:00:52,350 --> 00:00:55,720\nSo, would you still eat a plant that fights back with tear gas?\n\n",
-      "tg_msg": 914,
-      "approved_by": "auto",
-      "quota_note": "2026-10-30",
-      "description_full": "Why do onions make you cry? Cutting an onion mixes a sulfur compound with an enzyme, and a second enzyme (found in 2002) turns the result into syn-propanethial-S-oxide, an irritating gas that peaks about 30 seconds after the cut and makes your tear glands wash it away.\n\nSources:\nhttps://www.scientificamerican.com/article/what-is-the-chemical-proc/\nhttps://www.thenakedscientists.com/articles/questions/why-do-onions-make-us-cry-when-we-cut-them-and-there-any-way-prevent\nhttps://pubmed.ncbi.nlm.nih.gov/12384686/\n\nAnimated in the Flat-Vector Science style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #onions #foodscience #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/JlDHpT1_4gA",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-30T07:15:52.185425+00:00",
-      "slot": "2026-11-02T02:15:00+00:00"
-    },
-    "2026-10-29-104": {
-      "topic": {
-        "title": "How can an owl turn its head almost all the way around?",
-        "format": "animated",
-        "angle": "Ukiyo-e Woodblock"
-      },
-      "package": {
-        "title": "How Do Owls Turn Their Heads 270\u00b0? \ud83e\udd89",
-        "description": "How can an owl turn its head 270 degrees without cutting off blood to its brain? Owls have tube-shaped eyes locked in their skulls, 14 neck bones instead of our 7, arteries that run through bony tunnels up to ten times wider than the vessel, and blood pools at the base of the head that keep the brain fed while it turns.\n\nSources:\nhttps://www.sciencedaily.com/releases/2013/01/130131144102.htm\nhttps://www.smithsonianmag.com/science-nature/solving-the-mystery-of-owls-head-turning-abilities-9561557/\nhttps://www.reconnectwithnature.org/headlines/news/nature-curiosity-how-do-owls-turn-their-heads-so\n\nAnimated in the Ukiyo-e Woodblock style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#owls",
-          "#animalfacts",
-          "#science"
-        ],
-        "tags": [
-          "how do owls turn their heads",
-          "owl head 270 degrees",
-          "owl neck bones",
-          "owl eyes tubes",
-          "why can owls rotate their heads",
-          "owl anatomy",
-          "owl facts",
-          "animal facts",
-          "bird facts",
-          "science explained",
-          "zorbly ai",
-          "ukiyo-e animation"
-        ],
-        "category": "27",
-        "pinned_comment": "If you had an owl's neck, what's the first thing you'd turn around to look at? \ud83e\udd89",
-        "thumbnail_text": "14 NECK BONES",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "You'd black out, but owls spin their heads 270 degrees. How? First, an owl's eyes can't move. They're shaped like tubes, locked inside the skull. So to look around, the whole head has to turn. Second, extra bones. You have seven neck bones. An owl has fourteen, so the twist is shared out, a little at every joint. Third, the clever part: blood. Twisting would pinch the arteries, but an owl's run through bony tunnels, up to ten times wider than the vessel, so they don't get squeezed. And at the base of the head, the vessels balloon into little pools, storing extra blood for the brain, while the head is turned. So, if you had an owl's neck, what's the first thing you'd turn around to look at?",
-        "key_facts": [
-          "Owls can rotate their heads up to about 270 degrees",
-          "Owl eyes are tube-shaped and fixed in the skull by a bony sclerotic ring, so they can't move their eyes",
-          "Owls have 14 neck vertebrae; humans have 7",
-          "The vertebral arteries pass through bony holes up to 10 times wider than the artery (Johns Hopkins, 2013)",
-          "Blood vessels at the base of the head balloon into reservoirs that keep the brain supplied while the head turns"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Ukiyo-e Woodblock"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261029-owl-head",
-      "redos": 0,
-      "updated": "2026-10-30T07:15:55.923249+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Ukiyo-e Woodblock style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-29",
-        "name": "2026-10-29-104.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-29",
-        "name": "2026-10-29-104-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:01,230\nYou'd black out,\n\n2\n00:00:01,530 --> 00:00:04,620\nbut owls spin their heads 270 degrees.\n\n3\n00:00:05,170 --> 00:00:05,720\nHow?\n\n4\n00:00:06,270 --> 00:00:08,280\nFirst, an owl's eyes can't move.\n\n5\n00:00:08,830 --> 00:00:10,240\nThey're shaped like tubes,\n\n6\n00:00:10,540 --> 00:00:11,950\nlocked inside the skull.\n\n7\n00:00:12,500 --> 00:00:13,590\nSo to look around,\n\n8\n00:00:13,890 --> 00:00:15,440\nthe whole head has to turn.\n\n9\n00:00:15,990 --> 00:00:17,460\nSecond, extra bones.\n\n10\n00:00:18,010 --> 00:00:19,560\nYou have seven neck bones.\n\n11\n00:00:20,110 --> 00:00:21,390\nAn owl has fourteen,\n\n12\n00:00:21,690 --> 00:00:23,140\nso the twist is shared out,\n\n13\n00:00:23,440 --> 00:00:24,860\na little at every joint.\n\n14\n00:00:25,410 --> 00:00:27,290\nThird, the clever part: blood.\n\n15\n00:00:27,840 --> 00:00:29,700\nTwisting would pinch the arteries,\n\n16\n00:00:30,000 --> 00:00:32,230\nbut an owl's run through bony tunnels,\n\n17\n00:00:32,530 --> 00:00:34,750\nup to ten times wider than the vessel,\n\n18\n00:00:35,050 --> 00:00:36,470\nso they don't get squeezed.\n\n19\n00:00:37,020 --> 00:00:38,410\nAnd at the base of the head,\n\n20\n00:00:38,710 --> 00:00:40,860\nthe vessels balloon into little pools,\n\n21\n00:00:41,160 --> 00:00:43,110\nstoring extra blood for the brain,\n\n22\n00:00:43,410 --> 00:00:44,680\nwhile the head is turned.\n\n23\n00:00:45,230 --> 00:00:46,880\nSo, if you had an owl's neck,\n\n24\n00:00:47,180 --> 00:00:49,430\nwhat's the first thing you'd turn around to look at?\n\n",
-      "tg_msg": 915,
-      "approved_by": "auto",
-      "quota_note": "2026-10-30",
-      "description_full": "How can an owl turn its head 270 degrees without cutting off blood to its brain? Owls have tube-shaped eyes locked in their skulls, 14 neck bones instead of our 7, arteries that run through bony tunnels up to ten times wider than the vessel, and blood pools at the base of the head that keep the brain fed while it turns.\n\nSources:\nhttps://www.sciencedaily.com/releases/2013/01/130131144102.htm\nhttps://www.smithsonianmag.com/science-nature/solving-the-mystery-of-owls-head-turning-abilities-9561557/\nhttps://www.reconnectwithnature.org/headlines/news/nature-curiosity-how-do-owls-turn-their-heads-so\n\nAnimated in the Ukiyo-e Woodblock style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #owls #animalfacts #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Ukiyo-e Woodblock style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/nYbhntw9WUQ",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-30T07:15:55.923268+00:00",
-      "slot": "2026-11-02T17:15:00+00:00"
-    },
     "2026-10-29-105": {
       "topic": {
         "title": "How do bees turn flower nectar into honey?",
@@ -3130,12 +2863,12 @@
         "format": "long",
         "style": "Chalkboard Lesson"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261104-cilantro-soap",
       "redos": 0,
-      "updated": "2026-11-04T17:46:47.798378+00:00",
+      "updated": "2026-11-04T20:50:17.866815+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Chalkboard Lesson style). Voice: Kokoro text-to-speech."
       ],
@@ -3150,7 +2883,17 @@
         "name": "2026-11-04-102-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:02,080\nYour cilantro tastes like soap,\n\n2\n00:00:02,380 --> 00:00:03,820\nto one in eight people,\n\n3\n00:00:04,120 --> 00:00:05,250\nand you might be one.\n\n4\n00:00:05,800 --> 00:00:07,340\nSame leaf, same taco.\n\n5\n00:00:07,890 --> 00:00:09,720\nYou get something fresh and lemony.\n\n6\n00:00:10,270 --> 00:00:12,560\nYour friend gets a mouthful of dish soap.\n\n7\n00:00:13,110 --> 00:00:14,180\nSo who's right?\n\n8\n00:00:14,730 --> 00:00:16,090\nWeirdly, you both are.\n\n9\n00:00:16,640 --> 00:00:18,460\nAnd the answer starts in your nose.\n\n10\n00:00:19,010 --> 00:00:21,740\nPeople have used this herb for thousands of years,\n\n11\n00:00:22,040 --> 00:00:24,050\nall the way back to the Babylonians.\n\n12\n00:00:24,600 --> 00:00:26,170\nAnd the haters have been loud.\n\n13\n00:00:26,720 --> 00:00:28,680\nBefore soap was the go-to insult,\n\n14\n00:00:28,980 --> 00:00:31,080\npeople said it smelled like bedbugs.\n\n15\n00:00:31,630 --> 00:00:33,350\nChef Julia Child once said,\n\n16\n00:00:33,650 --> 00:00:35,200\nshe'd pick it out of her food,\n\n17\n00:00:35,500 --> 00:00:36,950\nand throw it on the floor.\n\n18\n00:00:37,500 --> 00:00:39,530\nSo how many people really dislike it?\n\n19\n00:00:40,080 --> 00:00:44,090\nOne Canadian study asked nearly fourteen hundred young adults.\n\n20\n00:00:44,640 --> 00:00:46,680\nDislike ran from just three percent,\n\n21\n00:00:46,980 --> 00:00:49,040\nall the way up to twenty-one percent,\n\n22\n00:00:49,340 --> 00:00:51,200\ndepending on family background.\n\n23\n00:00:51,750 --> 00:00:53,390\nAnd some of the lowest numbers\n\n24\n00:00:53,690 --> 00:00:56,720\ncame from people with Hispanic and South Asian roots,\n\n25\n00:00:57,020 --> 00:00:59,410\nwhose cooking uses cilantro all the time.\n\n26\n00:00:59,960 --> 00:01:01,880\nNow, let's zoom in on one leaf.\n\n27\n00:01:02,430 --> 00:01:04,630\nThat smell is a big mix of chemicals,\n\n28\n00:01:04,930 --> 00:01:07,440\nand some of the main ones are called aldehydes.\n\n29\n00:01:07,990 --> 00:01:10,230\nPicture a long chain of carbon atoms,\n\n30\n00:01:10,530 --> 00:01:12,700\nwith one little oxygen on the end.\n\n31\n00:01:13,250 --> 00:01:14,840\nOne of them, called decenal,\n\n32\n00:01:15,140 --> 00:01:17,940\ngets described as soapy, fatty and pungent.\n\n33\n00:01:18,490 --> 00:01:19,550\nHere's the twist.\n\n34\n00:01:20,100 --> 00:01:22,130\nSoap makers use aldehydes too.\n\n35\n00:01:22,680 --> 00:01:26,120\nCilantro and soap really do share a family of smells.\n\n36\n00:01:26,670 --> 00:01:30,410\nScientists still aren't sure which exact molecule is to blame.\n\n37\n00:01:30,960 --> 00:01:33,180\nSo why does only your friend notice?\n\n38\n00:01:33,730 --> 00:01:37,360\nScientists suspect this is mostly about smell, not taste.\n\n39\n00:01:37,910 --> 00:01:40,610\nWhen you chew, scents float up the back of your throat,\n\n40\n00:01:40,910 --> 00:01:42,140\nand into your nose.\n\n41\n00:01:42,690 --> 00:01:45,690\nUp there, you've got hundreds of kinds of smell sensors.\n\n42\n00:01:46,240 --> 00:01:47,960\nThink of them as tiny locks,\n\n43\n00:01:48,260 --> 00:01:50,360\nand every scent molecule as a key.\n\n44\n00:01:50,910 --> 00:01:54,100\nIn twenty twelve, researchers at twenty-three and me,\n\n45\n00:01:54,400 --> 00:01:57,780\nlooked at the DNA of about twenty-five thousand people.\n\n46\n00:01:58,330 --> 00:01:59,750\nThey asked one question.\n\n47\n00:02:00,300 --> 00:02:02,470\nDoes cilantro taste like soap to you?\n\n48\n00:02:03,020 --> 00:02:05,520\nAnd they found one tiny spot in the DNA,\n\n49\n00:02:05,820 --> 00:02:08,110\nright next to a cluster of smell genes.\n\n50\n00:02:08,660 --> 00:02:11,330\nOne of those genes is called O R six A two,\n\n51\n00:02:11,630 --> 00:02:14,750\nand it builds a lock that's great at catching aldehydes.\n\n52\n00:02:15,300 --> 00:02:18,340\nSome people's noses may pick up that soapy note,\n\n53\n00:02:18,640 --> 00:02:19,890\na lot more loudly.\n\n54\n00:02:20,440 --> 00:02:21,530\nCase closed, right?\n\n55\n00:02:22,080 --> 00:02:22,940\nNot quite.\n\n56\n00:02:23,490 --> 00:02:25,430\nHere's the number nobody expects.\n\n57\n00:02:25,980 --> 00:02:28,420\nThat spot explains only about half a percent\n\n58\n00:02:28,720 --> 00:02:30,580\nof who tastes soap and who doesn't.\n\n59\n00:02:31,130 --> 00:02:32,360\nHalf of one percent!\n\n60\n00:02:32,910 --> 00:02:35,290\nAnother twin study turned up more genes,\n\n61\n00:02:35,590 --> 00:02:37,620\nincluding some linked to bitter taste.\n\n62\n00:02:38,170 --> 00:02:39,960\nSo there's no single soap gene.\n\n63\n00:02:40,510 --> 00:02:43,900\nIt's a small nudge, mixed with everything else about you.\n\n64\n00:02:44,450 --> 00:02:46,090\nLike what you ate growing up.\n\n65\n00:02:46,640 --> 00:02:48,270\nRemember those low numbers?\n\n66\n00:02:48,820 --> 00:02:51,420\nIf cilantro was in your food from day one,\n\n67\n00:02:51,720 --> 00:02:53,200\nyou've had a lot of practice.\n\n68\n00:02:53,750 --> 00:02:56,480\nThe lead researcher said this isn't like your height.\n\n69\n00:02:57,030 --> 00:02:58,060\nYou aren't stuck with it.\n\n70\n00:02:58,610 --> 00:03:00,900\nScientists say eating it again and again,\n\n71\n00:03:01,200 --> 00:03:02,880\ncan slowly soften the soap.\n\n72\n00:03:03,430 --> 00:03:04,730\nAnd there's a kitchen trick.\n\n73\n00:03:05,280 --> 00:03:06,330\nCrush the leaves.\n\n74\n00:03:06,880 --> 00:03:08,620\nCrushing releases enzymes,\n\n75\n00:03:08,920 --> 00:03:12,140\nthat break those soapy aldehydes into milder smells.\n\n76\n00:03:12,690 --> 00:03:16,520\nThat's why food scientists suggest starting with cilantro pesto.\n\n77\n00:03:17,070 --> 00:03:19,630\nSo next time your friend picks it out of the salsa,\n\n78\n00:03:19,930 --> 00:03:21,160\ngo easy on them.\n\n79\n00:03:21,710 --> 00:03:22,950\nThey aren't being picky.\n\n80\n00:03:23,500 --> 00:03:25,590\nTheir nose is finding something real,\n\n81\n00:03:25,890 --> 00:03:27,420\nthat yours might be missing.\n\n82\n00:03:27,970 --> 00:03:30,770\nNext up, how do dolphins sleep without drowning?\n\n",
-      "tg_msg": 1017
+      "tg_msg": 1017,
+      "approved_by": "auto",
+      "description_full": "Why does cilantro taste like soap to some people and fresh to others? See how aldehydes, the OR6A2 smell gene, a surprisingly tiny genetic effect and what you grew up eating all shape the soapy cilantro taste, plus the crushing trick that can soften it.\n\nSources:\nhttps://arxiv.org/abs/1209.2096\nhttps://www.nbcnews.com/health/body-odd/who-hates-cilantro-study-aims-find-out-flna775011\nhttps://www.wgbh.org/news/2012-09-18/love-to-hate-cilantro-its-in-your-genes-and-maybe-in-your-head\n\nAnimated in the Chalkboard Lesson style.\n\nFollow Zorbly AI for a new Short every day.\n\n#cilantro #science #food\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Chalkboard Lesson style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/ZUTtNulXd0c",
+          "private \u00b7 thumbnail \u2705"
+        ]
+      },
+      "uploaded_at": "2026-11-04T20:50:17.866835+00:00",
+      "slot": "2026-11-09T17:15:00+00:00"
     },
     "2026-11-04-103": {
       "topic": {
@@ -3199,12 +2942,12 @@
         "format": "animated",
         "style": "Ukiyo-e Woodblock"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261104-why-hiccups",
       "redos": 0,
-      "updated": "2026-11-04T17:47:04.539110+00:00",
+      "updated": "2026-11-04T20:50:21.996987+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Ukiyo-e Woodblock style). Voice: Kokoro text-to-speech."
       ],
@@ -3219,7 +2962,29 @@
         "name": "2026-11-04-103-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:04,150\nYour throat slams shut thirty-five milliseconds into every hiccup.\n\n2\n00:00:04,700 --> 00:00:06,900\nIt starts down here, in your diaphragm,\n\n3\n00:00:07,200 --> 00:00:09,070\nthe big muscle under your lungs.\n\n4\n00:00:09,620 --> 00:00:11,320\nNormally, it moves smoothly,\n\n5\n00:00:11,620 --> 00:00:13,830\npulling in air every time you breathe.\n\n6\n00:00:14,380 --> 00:00:16,940\nBut eat too fast, or gulp a fizzy drink,\n\n7\n00:00:17,240 --> 00:00:19,200\nand your stomach swells right below it.\n\n8\n00:00:19,750 --> 00:00:22,330\nThen a hiccup center in your brainstem fires,\n\n9\n00:00:22,630 --> 00:00:25,130\nand the diaphragm jerks down, all at once.\n\n10\n00:00:25,680 --> 00:00:26,690\nAir rushes in,\n\n11\n00:00:26,990 --> 00:00:28,580\nbut only for a split second.\n\n12\n00:00:29,130 --> 00:00:30,750\nYour vocal cords snap shut,\n\n13\n00:00:31,050 --> 00:00:32,820\nand the air smacks right into them.\n\n14\n00:00:33,370 --> 00:00:34,280\nThat's the hic!\n\n15\n00:00:34,830 --> 00:00:37,130\nBabies even do it before they're born.\n\n16\n00:00:37,680 --> 00:00:39,640\nAnd scientists still aren't sure why.\n\n17\n00:00:40,190 --> 00:00:43,090\nOne idea is it helps clear air from the stomach.\n\n18\n00:00:43,640 --> 00:00:46,360\nAnother says it's just a leftover reflex.\n\n19\n00:00:46,910 --> 00:00:48,960\nSo the next time your throat slams shut,\n\n20\n00:00:49,260 --> 00:00:51,100\nwhat's your go-to trick for stopping it?\n\n",
-      "tg_msg": 1018
+      "tg_msg": 1018,
+      "approved_by": "auto",
+      "description_full": "Why do you get hiccups? Your diaphragm jerks down, air rushes in, and about 35 milliseconds later your vocal cords snap shut to make the hic.\n\nSources:\nhttps://www.news-medical.net/health/What-Causes-Hiccups.aspx\n\nAnimated in the Ukiyo-e Woodblock style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #hiccups #humanbody #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Ukiyo-e Woodblock style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/WXnKP7hWaxY",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-04T20:50:21.997004+00:00",
+      "slot": "2026-11-09T20:15:00+00:00"
     },
     "2026-11-04-104": {
       "topic": {
@@ -3267,12 +3032,12 @@
         "format": "animated",
         "style": "Kawaii Anime"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261104-why-we-blink",
       "redos": 0,
-      "updated": "2026-11-04T17:47:16.692613+00:00",
+      "updated": "2026-11-04T20:50:25.491233+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech."
       ],
@@ -3287,7 +3052,99 @@
         "name": "2026-11-04-104-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:03,150\nYou go blind fifteen thousand times every day.\n\n2\n00:00:03,700 --> 00:00:04,840\nWhy can't you tell?\n\n3\n00:00:05,390 --> 00:00:06,560\nIt's called blinking.\n\n4\n00:00:07,110 --> 00:00:09,540\nEach blink lasts about a tenth of a second.\n\n5\n00:00:10,090 --> 00:00:13,010\nThe clear front of your eye has no blood vessels,\n\n6\n00:00:13,310 --> 00:00:15,690\nso it relies on a film of tears instead.\n\n7\n00:00:16,240 --> 00:00:17,730\nThat film has three parts:\n\n8\n00:00:18,030 --> 00:00:19,460\nmucus, water, and oil.\n\n9\n00:00:20,010 --> 00:00:21,840\nEvery blink wipes on a fresh coat,\n\n10\n00:00:22,140 --> 00:00:23,930\nlike a tiny windshield wiper,\n\n11\n00:00:24,230 --> 00:00:26,360\nand sweeps dust toward your eye's drain.\n\n12\n00:00:26,910 --> 00:00:28,940\nSo why doesn't the world go black?\n\n13\n00:00:29,490 --> 00:00:32,230\nScientists scanned people's brains during blinks,\n\n14\n00:00:32,530 --> 00:00:35,320\nand found parts of the visual system go quiet,\n\n15\n00:00:35,620 --> 00:00:37,480\nright as your eyelid comes down.\n\n16\n00:00:38,030 --> 00:00:39,760\nYour brain deletes the blackout,\n\n17\n00:00:40,060 --> 00:00:41,520\nbefore you can ever see it.\n\n18\n00:00:42,070 --> 00:00:45,790\nAltogether, your eyes are shut for about half an hour every day.\n\n19\n00:00:46,340 --> 00:00:48,820\nSo how many seconds can you go without blinking?\n\n20\n00:00:49,370 --> 00:00:50,470\nTell me your record.\n\n",
-      "tg_msg": 1019
+      "tg_msg": 1019,
+      "approved_by": "auto",
+      "description_full": "Why do we blink, and why doesn't the world go dark when we do? Each blink spreads a fresh tear film over your eye, while your brain quiets its visual system so you never see the blackout.\n\nSources:\nhttps://www.ucl.ac.uk/news/2005/jul/blink-and-you-miss-it\nhttps://elifesciences.org/articles/17243\nhttps://www.earth.com/news/how-eyelids-coordinate-every-blink-humans-make-fifteen-thousand-times-per-day\n\nAnimated in the Kawaii Anime style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #science #humanbody #didyouknow\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/o-5l4LEO-jM",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-04T20:50:25.491250+00:00",
+      "slot": "2026-11-10T00:15:00+00:00"
+    },
+    "2026-11-04-105": {
+      "topic": {
+        "title": "Why don't anteaters have teeth?",
+        "format": "animated",
+        "angle": "Cut-Paper Diorama"
+      },
+      "package": {
+        "title": "How Do Anteaters Eat 30,000 Ants a Day With No Teeth? \ud83d\udc1c",
+        "description": "How do anteaters eat without teeth? See how a giant anteater's two-foot sticky tongue, roof-of-the-mouth crush and muscular stomach handle up to 30,000 ants and termites a day.\n\nSources:\nhttps://animals.sandiegozoo.org/animals/giant-anteater\nhttps://seaworld.org/animals/facts/mammals/giant-anteater/\nhttps://a-z-animals.com/articles/the-science-behind-how-anteaters-feed/\n\nAnimated in the Cut-Paper Diorama style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#anteater",
+          "#animals",
+          "#science"
+        ],
+        "tags": [
+          "anteater",
+          "giant anteater",
+          "why don't anteaters have teeth",
+          "how do anteaters eat",
+          "anteater tongue",
+          "anteater no teeth",
+          "animal facts",
+          "ants",
+          "weird animals",
+          "how animals eat",
+          "science explained",
+          "animal adaptations"
+        ],
+        "category": "27",
+        "pinned_comment": "If you had to eat 30,000 of something with zero teeth, what would you pick?",
+        "thumbnail_text": "2-FOOT TONGUE",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "Zero teeth, but it'll out-eat you, thirty thousand ants a day. Meet the giant anteater. First, big claws rip open the nest. Then out comes the tongue, two feet long, flicking up to a hundred and fifty times a minute. It's covered in tiny backward spines, and thick, sticky spit, so ants come along for the ride. With no teeth to chew them, it crushes them against the roof of its mouth, and a very muscular stomach pulverizes the rest. Scientists think swallowed grit helps too, a bit like a bird's gizzard. The clever part? It stays about a minute at each mound, then moves on, before the ants can fight back. So if you had to eat thirty thousand of something, with zero teeth, what would you pick?",
+        "key_facts": [
+          "Giant anteaters have no teeth (San Diego Zoo, SeaWorld, LA Zoo)",
+          "Eat up to 30,000 ants and termites a day (San Diego Zoo, SeaWorld)",
+          "Tongue about 2 feet long, flicked up to 150 times a minute (San Diego Zoo, SeaWorld)",
+          "Tiny backward-pointing spines and sticky saliva (San Diego Zoo, SeaWorld)",
+          "Crushes insects against the roof of the mouth; very muscular stomach pulverizes the food (San Diego Zoo)",
+          "Swallowed grit may help grinding, stomach compared to a bird's gizzard (A-Z Animals, Encyclopedia.com)",
+          "Feeds at one mound for about a minute before moving on (San Diego Zoo)"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Cut-Paper Diorama"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261104-anteater-no-teeth",
+      "redos": 0,
+      "updated": "2026-11-04T20:49:59.736322+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Cut-Paper Diorama style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-04",
+        "name": "2026-11-04-105.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-04",
+        "name": "2026-11-04-105-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:02,470\nZero teeth, but it'll out-eat you,\n\n2\n00:00:02,770 --> 00:00:04,390\nthirty thousand ants a day.\n\n3\n00:00:04,940 --> 00:00:06,480\nMeet the giant anteater.\n\n4\n00:00:07,030 --> 00:00:09,210\nFirst, big claws rip open the nest.\n\n5\n00:00:09,760 --> 00:00:11,180\nThen out comes the tongue,\n\n6\n00:00:11,480 --> 00:00:12,490\ntwo feet long,\n\n7\n00:00:12,790 --> 00:00:15,510\nflicking up to a hundred and fifty times a minute.\n\n8\n00:00:16,060 --> 00:00:18,300\nIt's covered in tiny backward spines,\n\n9\n00:00:18,600 --> 00:00:19,880\nand thick, sticky spit,\n\n10\n00:00:20,180 --> 00:00:22,000\nso ants come along for the ride.\n\n11\n00:00:22,550 --> 00:00:23,990\nWith no teeth to chew them,\n\n12\n00:00:24,290 --> 00:00:26,710\nit crushes them against the roof of its mouth,\n\n13\n00:00:27,010 --> 00:00:28,600\nand a very muscular stomach\n\n14\n00:00:28,900 --> 00:00:30,290\npulverizes the rest.\n\n15\n00:00:30,840 --> 00:00:33,050\nScientists think swallowed grit helps too,\n\n16\n00:00:33,350 --> 00:00:34,920\na bit like a bird's gizzard.\n\n17\n00:00:35,470 --> 00:00:36,510\nThe clever part?\n\n18\n00:00:37,060 --> 00:00:39,120\nIt stays about a minute at each mound,\n\n19\n00:00:39,420 --> 00:00:40,450\nthen moves on,\n\n20\n00:00:40,750 --> 00:00:42,480\nbefore the ants can fight back.\n\n21\n00:00:43,030 --> 00:00:45,530\nSo if you had to eat thirty thousand of something,\n\n22\n00:00:45,830 --> 00:00:47,860\nwith zero teeth, what would you pick?\n\n",
+      "tg_msg": 1022
     }
   },
   "history": [
@@ -3432,7 +3289,8 @@
     "drop/20261104-cheese-stretch": "2026-11-04-101",
     "drop/20261104-cilantro-soap": "2026-11-04-102",
     "drop/20261104-why-hiccups": "2026-11-04-103",
-    "drop/20261104-why-we-blink": "2026-11-04-104"
+    "drop/20261104-why-we-blink": "2026-11-04-104",
+    "drop/20261104-anteater-no-teeth": "2026-11-04-105"
   },
   "refs_day": "2026-11-04"
 }
