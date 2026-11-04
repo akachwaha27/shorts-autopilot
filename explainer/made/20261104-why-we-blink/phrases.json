@@ -1,0 +1,682 @@
+[
+ {
+  "s": 0.25,
+  "e": 3.15,
+  "text": "You go blind fifteen thousand times every day.",
+  "words": [
+   [
+    "you",
+    0.25
+   ],
+   [
+    "go",
+    0.48
+   ],
+   [
+    "blind",
+    0.63
+   ],
+   [
+    "fifteen",
+    1.01
+   ],
+   [
+    "thousand",
+    1.55
+   ],
+   [
+    "times",
+    2.15
+   ],
+   [
+    "every",
+    2.54
+   ],
+   [
+    "day",
+    2.92
+   ]
+  ]
+ },
+ {
+  "s": 3.7,
+  "e": 4.84,
+  "text": "Why can't you tell?",
+  "words": [
+   [
+    "why",
+    3.7
+   ],
+   [
+    "cant",
+    3.94
+   ],
+   [
+    "you",
+    4.27
+   ],
+   [
+    "tell",
+    4.52
+   ]
+  ]
+ },
+ {
+  "s": 5.39,
+  "e": 6.56,
+  "text": "It's called blinking.",
+  "words": [
+   [
+    "its",
+    5.39
+   ],
+   [
+    "called",
+    5.6
+   ],
+   [
+    "blinking",
+    6.01
+   ]
+  ]
+ },
+ {
+  "s": 7.11,
+  "e": 9.54,
+  "text": "Each blink lasts about a tenth of a second.",
+  "words": [
+   [
+    "each",
+    7.11
+   ],
+   [
+    "blink",
+    7.4
+   ],
+   [
+    "lasts",
+    7.75
+   ],
+   [
+    "about",
+    8.11
+   ],
+   [
+    "a",
+    8.47
+   ],
+   [
+    "tenth",
+    8.54
+   ],
+   [
+    "of",
+    8.89
+   ],
+   [
+    "a",
+    9.04
+   ],
+   [
+    "second",
+    9.11
+   ]
+  ]
+ },
+ {
+  "s": 10.09,
+  "e": 13.01,
+  "text": "The clear front of your eye has no blood vessels,",
+  "words": [
+   [
+    "the",
+    10.09
+   ],
+   [
+    "clear",
+    10.31
+   ],
+   [
+    "front",
+    10.69
+   ],
+   [
+    "of",
+    11.06
+   ],
+   [
+    "your",
+    11.21
+   ],
+   [
+    "eye",
+    11.51
+   ],
+   [
+    "has",
+    11.74
+   ],
+   [
+    "no",
+    11.96
+   ],
+   [
+    "blood",
+    12.11
+   ],
+   [
+    "vessels",
+    12.49
+   ]
+  ]
+ },
+ {
+  "s": 13.31,
+  "e": 15.69,
+  "text": "so it relies on a film of tears instead.",
+  "words": [
+   [
+    "so",
+    13.31
+   ],
+   [
+    "it",
+    13.47
+   ],
+   [
+    "relies",
+    13.62
+   ],
+   [
+    "on",
+    14.08
+   ],
+   [
+    "a",
+    14.23
+   ],
+   [
+    "film",
+    14.31
+   ],
+   [
+    "of",
+    14.62
+   ],
+   [
+    "tears",
+    14.77
+   ],
+   [
+    "instead",
+    15.15
+   ]
+  ]
+ },
+ {
+  "s": 16.24,
+  "e": 17.73,
+  "text": "That film has three parts:",
+  "words": [
+   [
+    "that",
+    16.24
+   ],
+   [
+    "film",
+    16.52
+   ],
+   [
+    "has",
+    16.81
+   ],
+   [
+    "three",
+    17.02
+   ],
+   [
+    "parts",
+    17.38
+   ]
+  ]
+ },
+ {
+  "s": 18.03,
+  "e": 19.46,
+  "text": "mucus, water, and oil.",
+  "words": [
+   [
+    "mucus",
+    18.03
+   ],
+   [
+    "water",
+    18.48
+   ],
+   [
+    "and",
+    18.93
+   ],
+   [
+    "oil",
+    19.19
+   ]
+  ]
+ },
+ {
+  "s": 20.01,
+  "e": 21.84,
+  "text": "Every blink wipes on a fresh coat,",
+  "words": [
+   [
+    "every",
+    20.01
+   ],
+   [
+    "blink",
+    20.35
+   ],
+   [
+    "wipes",
+    20.69
+   ],
+   [
+    "on",
+    21.03
+   ],
+   [
+    "a",
+    21.17
+   ],
+   [
+    "fresh",
+    21.23
+   ],
+   [
+    "coat",
+    21.57
+   ]
+  ]
+ },
+ {
+  "s": 22.14,
+  "e": 23.93,
+  "text": "like a tiny windshield wiper,",
+  "words": [
+   [
+    "like",
+    22.14
+   ],
+   [
+    "a",
+    22.44
+   ],
+   [
+    "tiny",
+    22.52
+   ],
+   [
+    "windshield",
+    22.81
+   ],
+   [
+    "wiper",
+    23.55
+   ]
+  ]
+ },
+ {
+  "s": 24.23,
+  "e": 26.36,
+  "text": "and sweeps dust toward your eye's drain.",
+  "words": [
+   [
+    "and",
+    24.23
+   ],
+   [
+    "sweeps",
+    24.43
+   ],
+   [
+    "dust",
+    24.83
+   ],
+   [
+    "toward",
+    25.09
+   ],
+   [
+    "your",
+    25.5
+   ],
+   [
+    "eyes",
+    25.76
+   ],
+   [
+    "drain",
+    26.03
+   ]
+  ]
+ },
+ {
+  "s": 26.91,
+  "e": 28.94,
+  "text": "So why doesn't the world go black?",
+  "words": [
+   [
+    "so",
+    26.91
+   ],
+   [
+    "why",
+    27.07
+   ],
+   [
+    "doesnt",
+    27.3
+   ],
+   [
+    "the",
+    27.77
+   ],
+   [
+    "world",
+    28.0
+   ],
+   [
+    "go",
+    28.39
+   ],
+   [
+    "black",
+    28.55
+   ]
+  ]
+ },
+ {
+  "s": 29.49,
+  "e": 32.23,
+  "text": "Scientists scanned people's brains during blinks,",
+  "words": [
+   [
+    "scientists",
+    29.49
+   ],
+   [
+    "scanned",
+    30.14
+   ],
+   [
+    "peoples",
+    30.6
+   ],
+   [
+    "brains",
+    31.06
+   ],
+   [
+    "during",
+    31.45
+   ],
+   [
+    "blinks",
+    31.84
+   ]
+  ]
+ },
+ {
+  "s": 32.53,
+  "e": 35.32,
+  "text": "and found parts of the visual system go quiet,",
+  "words": [
+   [
+    "and",
+    32.53
+   ],
+   [
+    "found",
+    32.76
+   ],
+   [
+    "parts",
+    33.14
+   ],
+   [
+    "of",
+    33.51
+   ],
+   [
+    "the",
+    33.66
+   ],
+   [
+    "visual",
+    33.89
+   ],
+   [
+    "system",
+    34.34
+   ],
+   [
+    "go",
+    34.8
+   ],
+   [
+    "quiet",
+    34.95
+   ]
+  ]
+ },
+ {
+  "s": 35.62,
+  "e": 37.48,
+  "text": "right as your eyelid comes down.",
+  "words": [
+   [
+    "right",
+    35.62
+   ],
+   [
+    "as",
+    35.98
+   ],
+   [
+    "your",
+    36.13
+   ],
+   [
+    "eyelid",
+    36.41
+   ],
+   [
+    "comes",
+    36.84
+   ],
+   [
+    "down",
+    37.2
+   ]
+  ]
+ },
+ {
+  "s": 38.03,
+  "e": 39.76,
+  "text": "Your brain deletes the blackout,",
+  "words": [
+   [
+    "your",
+    38.03
+   ],
+   [
+    "brain",
+    38.29
+   ],
+   [
+    "deletes",
+    38.61
+   ],
+   [
+    "the",
+    39.06
+   ],
+   [
+    "blackout",
+    39.25
+   ]
+  ]
+ },
+ {
+  "s": 40.06,
+  "e": 41.52,
+  "text": "before you can ever see it.",
+  "words": [
+   [
+    "before",
+    40.06
+   ],
+   [
+    "you",
+    40.48
+   ],
+   [
+    "can",
+    40.69
+   ],
+   [
+    "ever",
+    40.9
+   ],
+   [
+    "see",
+    41.17
+   ],
+   [
+    "it",
+    41.38
+   ]
+  ]
+ },
+ {
+  "s": 42.07,
+  "e": 45.79,
+  "text": "Altogether, your eyes are shut for about half an hour every day.",
+  "words": [
+   [
+    "altogether",
+    42.07
+   ],
+   [
+    "your",
+    42.8
+   ],
+   [
+    "eyes",
+    43.09
+   ],
+   [
+    "are",
+    43.38
+   ],
+   [
+    "shut",
+    43.6
+   ],
+   [
+    "for",
+    43.9
+   ],
+   [
+    "about",
+    44.11
+   ],
+   [
+    "half",
+    44.48
+   ],
+   [
+    "an",
+    44.77
+   ],
+   [
+    "hour",
+    44.92
+   ],
+   [
+    "every",
+    45.21
+   ],
+   [
+    "day",
+    45.57
+   ]
+  ]
+ },
+ {
+  "s": 46.34,
+  "e": 48.82,
+  "text": "So how many seconds can you go without blinking?",
+  "words": [
+   [
+    "so",
+    46.34
+   ],
+   [
+    "how",
+    46.47
+   ],
+   [
+    "many",
+    46.66
+   ],
+   [
+    "seconds",
+    46.91
+   ],
+   [
+    "can",
+    47.36
+   ],
+   [
+    "you",
+    47.55
+   ],
+   [
+    "go",
+    47.74
+   ],
+   [
+    "without",
+    47.87
+   ],
+   [
+    "blinking",
+    48.31
+   ]
+  ]
+ },
+ {
+  "s": 49.37,
+  "e": 50.47,
+  "text": "Tell me your record.",
+  "words": [
+   [
+    "tell",
+    49.37
+   ],
+   [
+    "me",
+    49.65
+   ],
+   [
+    "your",
+    49.78
+   ],
+   [
+    "record",
+    50.06
+   ]
+  ]
+ }
+]
