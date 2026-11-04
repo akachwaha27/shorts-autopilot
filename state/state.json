@@ -378,97 +378,6 @@
     }
   },
   "videos": {
-    "2026-10-29-105": {
-      "topic": {
-        "title": "How do bees turn flower nectar into honey?",
-        "format": "animated",
-        "angle": "Claymation Set"
-      },
-      "package": {
-        "title": "Why Honey Starts As 80% Water \ud83d\udc1d",
-        "description": "How do bees make honey? Bees sip flower nectar (up to 80% water) into their honey stomach, add enzymes that split the sugar, pass it mouth to mouth in the hive, then fan it with their wings until it's about 18% water and seal it with wax.\n\nSources:\nhttps://extension.msstate.edu/blogs/extension-for-real-life/how-honey-made\nhttps://www.earthdate.org/episodes/how-bees-make-honey\nhttps://localhivehoney.com/blogs/blog/how-much-honey-does-a-bee-make\n\nAnimated in the Claymation Set style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#bees",
-          "#honey",
-          "#science"
-        ],
-        "tags": [
-          "how do bees make honey",
-          "how honey is made",
-          "honey bees",
-          "bee facts",
-          "honey stomach",
-          "why honey never spoils",
-          "nectar to honey",
-          "animal facts",
-          "food science",
-          "science explained",
-          "zorbly ai",
-          "claymation animation"
-        ],
-        "category": "27",
-        "pinned_comment": "So which is it: is honey flower juice, or bee spit? \ud83d\udc1d Tell me your answer!",
-        "thumbnail_text": "BEE SPIT?",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "Your honey was once 80 percent water, and you'd never guess how bees dried it. It starts with nectar, sugary flower juice. A bee sips it into a second stomach, called the honey stomach. Enzymes from her spit, start chopping the sugar into smaller sugars. Back at the hive, she spits it mouth to mouth, to a house bee, who chews on it for up to 20 minutes. Then it goes into a wax cell. But it's still way too runny. So the bees fan it with their wings, blowing the water away, until it's only about 18 percent water. That's so thick, germs can't grow in it. Then they cap each cell, with wax. One bee makes just a twelfth of a teaspoon, in her whole life. So, is your honey flower juice, or bee spit?",
-        "key_facts": [
-          "Nectar is about 70-80% water (MSU Extension; EarthDate)",
-          "Foragers store nectar in the honey stomach (crop) and add invertase, which splits sucrose into glucose and fructose (MSU Extension)",
-          "House bees pass nectar back and forth for up to ~20 minutes, then store it in cells (EarthDate)",
-          "Bees fan with their wings until honey is ~18% water, too concentrated for microbes; cells are capped with wax (MSU Extension; EarthDate)",
-          "A worker bee makes about 1/12 teaspoon of honey in her lifetime (commonly cited; PBS NOVA via Local Hive)"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Claymation Set"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261029-bee-honey",
-      "redos": 0,
-      "updated": "2026-10-30T07:15:59.512755+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Claymation Set style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-29",
-        "name": "2026-10-29-105.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-29",
-        "name": "2026-10-29-105-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:02,500\nYour honey was once 80 percent water,\n\n2\n00:00:02,800 --> 00:00:04,800\nand you'd never guess how bees dried it.\n\n3\n00:00:05,350 --> 00:00:06,630\nIt starts with nectar,\n\n4\n00:00:06,930 --> 00:00:08,340\nsugary flower juice.\n\n5\n00:00:08,890 --> 00:00:11,020\nA bee sips it into a second stomach,\n\n6\n00:00:11,320 --> 00:00:12,550\ncalled the honey stomach.\n\n7\n00:00:13,100 --> 00:00:14,270\nEnzymes from her spit,\n\n8\n00:00:14,570 --> 00:00:17,070\nstart chopping the sugar into smaller sugars.\n\n9\n00:00:17,620 --> 00:00:18,680\nBack at the hive,\n\n10\n00:00:18,980 --> 00:00:20,610\nshe spits it mouth to mouth,\n\n11\n00:00:20,910 --> 00:00:21,970\nto a house bee,\n\n12\n00:00:22,270 --> 00:00:24,410\nwho chews on it for up to 20 minutes.\n\n13\n00:00:24,960 --> 00:00:26,610\nThen it goes into a wax cell.\n\n14\n00:00:27,160 --> 00:00:28,560\nBut it's still way too runny.\n\n15\n00:00:29,110 --> 00:00:31,060\nSo the bees fan it with their wings,\n\n16\n00:00:31,360 --> 00:00:32,690\nblowing the water away,\n\n17\n00:00:32,990 --> 00:00:35,600\nuntil it's only about 18 percent water.\n\n18\n00:00:36,150 --> 00:00:37,180\nThat's so thick,\n\n19\n00:00:37,480 --> 00:00:38,790\ngerms can't grow in it.\n\n20\n00:00:39,340 --> 00:00:40,560\nThen they cap each cell,\n\n21\n00:00:40,860 --> 00:00:41,680\nwith wax.\n\n22\n00:00:42,230 --> 00:00:44,660\nOne bee makes just a twelfth of a teaspoon,\n\n23\n00:00:44,960 --> 00:00:46,140\nin her whole life.\n\n24\n00:00:46,690 --> 00:00:48,580\nSo, is your honey flower juice,\n\n25\n00:00:48,880 --> 00:00:49,800\nor bee spit?\n\n",
-      "tg_msg": 916,
-      "approved_by": "auto",
-      "quota_note": "2026-10-30",
-      "description_full": "How do bees make honey? Bees sip flower nectar (up to 80% water) into their honey stomach, add enzymes that split the sugar, pass it mouth to mouth in the hive, then fan it with their wings until it's about 18% water and seal it with wax.\n\nSources:\nhttps://extension.msstate.edu/blogs/extension-for-real-life/how-honey-made\nhttps://www.earthdate.org/episodes/how-bees-make-honey\nhttps://localhivehoney.com/blogs/blog/how-much-honey-does-a-bee-make\n\nAnimated in the Claymation Set style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #bees #honey #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Claymation Set style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/tcsD8LH4FpM",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-30T07:15:59.512773+00:00",
-      "slot": "2026-11-02T20:15:00+00:00"
-    },
     "2026-10-30-101": {
       "topic": {
         "title": "How does a tiny shrimp's snap make a bubble as hot as the Sun?",
@@ -3124,12 +3033,12 @@
         "format": "animated",
         "style": "Cut-Paper Diorama"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261104-anteater-no-teeth",
       "redos": 0,
-      "updated": "2026-11-04T20:49:59.736322+00:00",
+      "updated": "2026-11-04T23:14:20.710979+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Cut-Paper Diorama style). Voice: Kokoro text-to-speech."
       ],
@@ -3144,7 +3053,29 @@
         "name": "2026-11-04-105-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:02,470\nZero teeth, but it'll out-eat you,\n\n2\n00:00:02,770 --> 00:00:04,390\nthirty thousand ants a day.\n\n3\n00:00:04,940 --> 00:00:06,480\nMeet the giant anteater.\n\n4\n00:00:07,030 --> 00:00:09,210\nFirst, big claws rip open the nest.\n\n5\n00:00:09,760 --> 00:00:11,180\nThen out comes the tongue,\n\n6\n00:00:11,480 --> 00:00:12,490\ntwo feet long,\n\n7\n00:00:12,790 --> 00:00:15,510\nflicking up to a hundred and fifty times a minute.\n\n8\n00:00:16,060 --> 00:00:18,300\nIt's covered in tiny backward spines,\n\n9\n00:00:18,600 --> 00:00:19,880\nand thick, sticky spit,\n\n10\n00:00:20,180 --> 00:00:22,000\nso ants come along for the ride.\n\n11\n00:00:22,550 --> 00:00:23,990\nWith no teeth to chew them,\n\n12\n00:00:24,290 --> 00:00:26,710\nit crushes them against the roof of its mouth,\n\n13\n00:00:27,010 --> 00:00:28,600\nand a very muscular stomach\n\n14\n00:00:28,900 --> 00:00:30,290\npulverizes the rest.\n\n15\n00:00:30,840 --> 00:00:33,050\nScientists think swallowed grit helps too,\n\n16\n00:00:33,350 --> 00:00:34,920\na bit like a bird's gizzard.\n\n17\n00:00:35,470 --> 00:00:36,510\nThe clever part?\n\n18\n00:00:37,060 --> 00:00:39,120\nIt stays about a minute at each mound,\n\n19\n00:00:39,420 --> 00:00:40,450\nthen moves on,\n\n20\n00:00:40,750 --> 00:00:42,480\nbefore the ants can fight back.\n\n21\n00:00:43,030 --> 00:00:45,530\nSo if you had to eat thirty thousand of something,\n\n22\n00:00:45,830 --> 00:00:47,860\nwith zero teeth, what would you pick?\n\n",
-      "tg_msg": 1022
+      "tg_msg": 1022,
+      "approved_by": "auto",
+      "description_full": "How do anteaters eat without teeth? See how a giant anteater's two-foot sticky tongue, roof-of-the-mouth crush and muscular stomach handle up to 30,000 ants and termites a day.\n\nSources:\nhttps://animals.sandiegozoo.org/animals/giant-anteater\nhttps://seaworld.org/animals/facts/mammals/giant-anteater/\nhttps://a-z-animals.com/articles/the-science-behind-how-anteaters-feed/\n\nAnimated in the Cut-Paper Diorama style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #anteater #animals #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Cut-Paper Diorama style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/mgvmAa_qQVY",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-04T23:14:20.710996+00:00",
+      "slot": "2026-11-10T02:15:00+00:00"
     }
   },
   "history": [
