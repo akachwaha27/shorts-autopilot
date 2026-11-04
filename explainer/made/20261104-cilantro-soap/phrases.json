@@ -1,0 +1,2736 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.08,
+  "text": "Your cilantro tastes like soap,",
+  "words": [
+   [
+    "your",
+    0.25
+   ],
+   [
+    "cilantro",
+    0.53
+   ],
+   [
+    "tastes",
+    1.09
+   ],
+   [
+    "like",
+    1.52
+   ],
+   [
+    "soap",
+    1.8
+   ]
+  ]
+ },
+ {
+  "s": 2.38,
+  "e": 3.82,
+  "text": "to one in eight people,",
+  "words": [
+   [
+    "to",
+    2.38
+   ],
+   [
+    "one",
+    2.54
+   ],
+   [
+    "in",
+    2.78
+   ],
+   [
+    "eight",
+    2.94
+   ],
+   [
+    "people",
+    3.34
+   ]
+  ]
+ },
+ {
+  "s": 4.12,
+  "e": 5.25,
+  "text": "and you might be one.",
+  "words": [
+   [
+    "and",
+    4.12
+   ],
+   [
+    "you",
+    4.33
+   ],
+   [
+    "might",
+    4.54
+   ],
+   [
+    "be",
+    4.9
+   ],
+   [
+    "one",
+    5.04
+   ]
+  ]
+ },
+ {
+  "s": 5.8,
+  "e": 7.34,
+  "text": "Same leaf, same taco.",
+  "words": [
+   [
+    "same",
+    5.8
+   ],
+   [
+    "leaf",
+    6.18
+   ],
+   [
+    "same",
+    6.57
+   ],
+   [
+    "taco",
+    6.95
+   ]
+  ]
+ },
+ {
+  "s": 7.89,
+  "e": 9.72,
+  "text": "You get something fresh and lemony.",
+  "words": [
+   [
+    "you",
+    7.89
+   ],
+   [
+    "get",
+    8.08
+   ],
+   [
+    "something",
+    8.26
+   ],
+   [
+    "fresh",
+    8.83
+   ],
+   [
+    "and",
+    9.15
+   ],
+   [
+    "lemony",
+    9.34
+   ]
+  ]
+ },
+ {
+  "s": 10.27,
+  "e": 12.56,
+  "text": "Your friend gets a mouthful of dish soap.",
+  "words": [
+   [
+    "your",
+    10.27
+   ],
+   [
+    "friend",
+    10.55
+   ],
+   [
+    "gets",
+    10.96
+   ],
+   [
+    "a",
+    11.24
+   ],
+   [
+    "mouthful",
+    11.31
+   ],
+   [
+    "of",
+    11.86
+   ],
+   [
+    "dish",
+    12.0
+   ],
+   [
+    "soap",
+    12.28
+   ]
+  ]
+ },
+ {
+  "s": 13.11,
+  "e": 14.18,
+  "text": "So who's right?",
+  "words": [
+   [
+    "so",
+    13.11
+   ],
+   [
+    "whos",
+    13.3
+   ],
+   [
+    "right",
+    13.69
+   ]
+  ]
+ },
+ {
+  "s": 14.73,
+  "e": 16.09,
+  "text": "Weirdly, you both are.",
+  "words": [
+   [
+    "weirdly",
+    14.73
+   ],
+   [
+    "you",
+    15.29
+   ],
+   [
+    "both",
+    15.53
+   ],
+   [
+    "are",
+    15.85
+   ]
+  ]
+ },
+ {
+  "s": 16.64,
+  "e": 18.46,
+  "text": "And the answer starts in your nose.",
+  "words": [
+   [
+    "and",
+    16.64
+   ],
+   [
+    "the",
+    16.83
+   ],
+   [
+    "answer",
+    17.03
+   ],
+   [
+    "starts",
+    17.42
+   ],
+   [
+    "in",
+    17.81
+   ],
+   [
+    "your",
+    17.94
+   ],
+   [
+    "nose",
+    18.2
+   ]
+  ]
+ },
+ {
+  "s": 19.01,
+  "e": 21.74,
+  "text": "People have used this herb for thousands of years,",
+  "words": [
+   [
+    "people",
+    19.01
+   ],
+   [
+    "have",
+    19.41
+   ],
+   [
+    "used",
+    19.67
+   ],
+   [
+    "this",
+    19.94
+   ],
+   [
+    "herb",
+    20.21
+   ],
+   [
+    "for",
+    20.47
+   ],
+   [
+    "thousands",
+    20.67
+   ],
+   [
+    "of",
+    21.27
+   ],
+   [
+    "years",
+    21.4
+   ]
+  ]
+ },
+ {
+  "s": 22.04,
+  "e": 24.05,
+  "text": "all the way back to the Babylonians.",
+  "words": [
+   [
+    "all",
+    22.04
+   ],
+   [
+    "the",
+    22.25
+   ],
+   [
+    "way",
+    22.46
+   ],
+   [
+    "back",
+    22.66
+   ],
+   [
+    "to",
+    22.94
+   ],
+   [
+    "the",
+    23.08
+   ],
+   [
+    "babylonians",
+    23.29
+   ]
+  ]
+ },
+ {
+  "s": 24.6,
+  "e": 26.17,
+  "text": "And the haters have been loud.",
+  "words": [
+   [
+    "and",
+    24.6
+   ],
+   [
+    "the",
+    24.8
+   ],
+   [
+    "haters",
+    25.0
+   ],
+   [
+    "have",
+    25.39
+   ],
+   [
+    "been",
+    25.65
+   ],
+   [
+    "loud",
+    25.91
+   ]
+  ]
+ },
+ {
+  "s": 26.72,
+  "e": 28.68,
+  "text": "Before soap was the go-to insult,",
+  "words": [
+   [
+    "before",
+    26.72
+   ],
+   [
+    "soap",
+    27.17
+   ],
+   [
+    "was",
+    27.47
+   ],
+   [
+    "the",
+    27.7
+   ],
+   [
+    "goto",
+    27.92
+   ],
+   [
+    "insult",
+    28.23
+   ]
+  ]
+ },
+ {
+  "s": 28.98,
+  "e": 31.08,
+  "text": "people said it smelled like bedbugs.",
+  "words": [
+   [
+    "people",
+    28.98
+   ],
+   [
+    "said",
+    29.4
+   ],
+   [
+    "it",
+    29.68
+   ],
+   [
+    "smelled",
+    29.82
+   ],
+   [
+    "like",
+    30.31
+   ],
+   [
+    "bedbugs",
+    30.59
+   ]
+  ]
+ },
+ {
+  "s": 31.63,
+  "e": 33.35,
+  "text": "Chef Julia Child once said,",
+  "words": [
+   [
+    "chef",
+    31.63
+   ],
+   [
+    "julia",
+    31.94
+   ],
+   [
+    "child",
+    32.33
+   ],
+   [
+    "once",
+    32.72
+   ],
+   [
+    "said",
+    33.04
+   ]
+  ]
+ },
+ {
+  "s": 33.65,
+  "e": 35.2,
+  "text": "she'd pick it out of her food,",
+  "words": [
+   [
+    "shed",
+    33.65
+   ],
+   [
+    "pick",
+    33.93
+   ],
+   [
+    "it",
+    34.21
+   ],
+   [
+    "out",
+    34.36
+   ],
+   [
+    "of",
+    34.57
+   ],
+   [
+    "her",
+    34.71
+   ],
+   [
+    "food",
+    34.92
+   ]
+  ]
+ },
+ {
+  "s": 35.5,
+  "e": 36.95,
+  "text": "and throw it on the floor.",
+  "words": [
+   [
+    "and",
+    35.5
+   ],
+   [
+    "throw",
+    35.72
+   ],
+   [
+    "it",
+    36.08
+   ],
+   [
+    "on",
+    36.22
+   ],
+   [
+    "the",
+    36.37
+   ],
+   [
+    "floor",
+    36.59
+   ]
+  ]
+ },
+ {
+  "s": 37.5,
+  "e": 39.53,
+  "text": "So how many people really dislike it?",
+  "words": [
+   [
+    "so",
+    37.5
+   ],
+   [
+    "how",
+    37.64
+   ],
+   [
+    "many",
+    37.84
+   ],
+   [
+    "people",
+    38.11
+   ],
+   [
+    "really",
+    38.51
+   ],
+   [
+    "dislike",
+    38.92
+   ],
+   [
+    "it",
+    39.39
+   ]
+  ]
+ },
+ {
+  "s": 40.08,
+  "e": 44.09,
+  "text": "One Canadian study asked nearly fourteen hundred young adults.",
+  "words": [
+   [
+    "one",
+    40.08
+   ],
+   [
+    "canadian",
+    40.3
+   ],
+   [
+    "study",
+    40.91
+   ],
+   [
+    "asked",
+    41.29
+   ],
+   [
+    "nearly",
+    41.67
+   ],
+   [
+    "fourteen",
+    42.12
+   ],
+   [
+    "hundred",
+    42.73
+   ],
+   [
+    "young",
+    43.26
+   ],
+   [
+    "adults",
+    43.63
+   ]
+  ]
+ },
+ {
+  "s": 44.64,
+  "e": 46.68,
+  "text": "Dislike ran from just three percent,",
+  "words": [
+   [
+    "dislike",
+    44.64
+   ],
+   [
+    "ran",
+    45.11
+   ],
+   [
+    "from",
+    45.32
+   ],
+   [
+    "just",
+    45.59
+   ],
+   [
+    "three",
+    45.86
+   ],
+   [
+    "percent",
+    46.2
+   ]
+  ]
+ },
+ {
+  "s": 46.98,
+  "e": 49.04,
+  "text": "all the way up to twenty-one percent,",
+  "words": [
+   [
+    "all",
+    46.98
+   ],
+   [
+    "the",
+    47.19
+   ],
+   [
+    "way",
+    47.4
+   ],
+   [
+    "up",
+    47.62
+   ],
+   [
+    "to",
+    47.76
+   ],
+   [
+    "twentyone",
+    47.9
+   ],
+   [
+    "percent",
+    48.54
+   ]
+  ]
+ },
+ {
+  "s": 49.34,
+  "e": 51.2,
+  "text": "depending on family background.",
+  "words": [
+   [
+    "depending",
+    49.34
+   ],
+   [
+    "on",
+    49.96
+   ],
+   [
+    "family",
+    50.1
+   ],
+   [
+    "background",
+    50.51
+   ]
+  ]
+ },
+ {
+  "s": 51.75,
+  "e": 53.39,
+  "text": "And some of the lowest numbers",
+  "words": [
+   [
+    "and",
+    51.75
+   ],
+   [
+    "some",
+    51.95
+   ],
+   [
+    "of",
+    52.21
+   ],
+   [
+    "the",
+    52.34
+   ],
+   [
+    "lowest",
+    52.54
+   ],
+   [
+    "numbers",
+    52.93
+   ]
+  ]
+ },
+ {
+  "s": 53.69,
+  "e": 56.72,
+  "text": "came from people with Hispanic and South Asian roots,",
+  "words": [
+   [
+    "came",
+    53.69
+   ],
+   [
+    "from",
+    53.97
+   ],
+   [
+    "people",
+    54.24
+   ],
+   [
+    "with",
+    54.65
+   ],
+   [
+    "hispanic",
+    54.93
+   ],
+   [
+    "and",
+    55.48
+   ],
+   [
+    "south",
+    55.69
+   ],
+   [
+    "asian",
+    56.03
+   ],
+   [
+    "roots",
+    56.38
+   ]
+  ]
+ },
+ {
+  "s": 57.02,
+  "e": 59.41,
+  "text": "whose cooking uses cilantro all the time.",
+  "words": [
+   [
+    "whose",
+    57.02
+   ],
+   [
+    "cooking",
+    57.37
+   ],
+   [
+    "uses",
+    57.86
+   ],
+   [
+    "cilantro",
+    58.14
+   ],
+   [
+    "all",
+    58.7
+   ],
+   [
+    "the",
+    58.92
+   ],
+   [
+    "time",
+    59.13
+   ]
+  ]
+ },
+ {
+  "s": 59.96,
+  "e": 61.88,
+  "text": "Now, let's zoom in on one leaf.",
+  "words": [
+   [
+    "now",
+    59.96
+   ],
+   [
+    "lets",
+    60.22
+   ],
+   [
+    "zoom",
+    60.57
+   ],
+   [
+    "in",
+    60.92
+   ],
+   [
+    "on",
+    61.1
+   ],
+   [
+    "one",
+    61.27
+   ],
+   [
+    "leaf",
+    61.53
+   ]
+  ]
+ },
+ {
+  "s": 62.43,
+  "e": 64.63,
+  "text": "That smell is a big mix of chemicals,",
+  "words": [
+   [
+    "that",
+    62.43
+   ],
+   [
+    "smell",
+    62.74
+   ],
+   [
+    "is",
+    63.11
+   ],
+   [
+    "a",
+    63.27
+   ],
+   [
+    "big",
+    63.34
+   ],
+   [
+    "mix",
+    63.57
+   ],
+   [
+    "of",
+    63.79
+   ],
+   [
+    "chemicals",
+    63.95
+   ]
+  ]
+ },
+ {
+  "s": 64.93,
+  "e": 67.44,
+  "text": "and some of the main ones are called aldehydes.",
+  "words": [
+   [
+    "and",
+    64.93
+   ],
+   [
+    "some",
+    65.12
+   ],
+   [
+    "of",
+    65.39
+   ],
+   [
+    "the",
+    65.52
+   ],
+   [
+    "main",
+    65.72
+   ],
+   [
+    "ones",
+    65.98
+   ],
+   [
+    "are",
+    66.25
+   ],
+   [
+    "called",
+    66.45
+   ],
+   [
+    "aldehydes",
+    66.84
+   ]
+  ]
+ },
+ {
+  "s": 67.99,
+  "e": 70.23,
+  "text": "Picture a long chain of carbon atoms,",
+  "words": [
+   [
+    "picture",
+    67.99
+   ],
+   [
+    "a",
+    68.51
+   ],
+   [
+    "long",
+    68.59
+   ],
+   [
+    "chain",
+    68.88
+   ],
+   [
+    "of",
+    69.26
+   ],
+   [
+    "carbon",
+    69.41
+   ],
+   [
+    "atoms",
+    69.86
+   ]
+  ]
+ },
+ {
+  "s": 70.53,
+  "e": 72.7,
+  "text": "with one little oxygen on the end.",
+  "words": [
+   [
+    "with",
+    70.53
+   ],
+   [
+    "one",
+    70.85
+   ],
+   [
+    "little",
+    71.09
+   ],
+   [
+    "oxygen",
+    71.57
+   ],
+   [
+    "on",
+    72.06
+   ],
+   [
+    "the",
+    72.22
+   ],
+   [
+    "end",
+    72.46
+   ]
+  ]
+ },
+ {
+  "s": 73.25,
+  "e": 74.84,
+  "text": "One of them, called decenal,",
+  "words": [
+   [
+    "one",
+    73.25
+   ],
+   [
+    "of",
+    73.46
+   ],
+   [
+    "them",
+    73.61
+   ],
+   [
+    "called",
+    73.9
+   ],
+   [
+    "decenal",
+    74.33
+   ]
+  ]
+ },
+ {
+  "s": 75.14,
+  "e": 77.94,
+  "text": "gets described as soapy, fatty and pungent.",
+  "words": [
+   [
+    "gets",
+    75.14
+   ],
+   [
+    "described",
+    75.46
+   ],
+   [
+    "as",
+    76.18
+   ],
+   [
+    "soapy",
+    76.34
+   ],
+   [
+    "fatty",
+    76.74
+   ],
+   [
+    "and",
+    77.14
+   ],
+   [
+    "pungent",
+    77.38
+   ]
+  ]
+ },
+ {
+  "s": 78.49,
+  "e": 79.55,
+  "text": "Here's the twist.",
+  "words": [
+   [
+    "heres",
+    78.49
+   ],
+   [
+    "the",
+    78.9
+   ],
+   [
+    "twist",
+    79.15
+   ]
+  ]
+ },
+ {
+  "s": 80.1,
+  "e": 82.13,
+  "text": "Soap makers use aldehydes too.",
+  "words": [
+   [
+    "soap",
+    80.1
+   ],
+   [
+    "makers",
+    80.43
+   ],
+   [
+    "use",
+    80.91
+   ],
+   [
+    "aldehydes",
+    81.16
+   ],
+   [
+    "too",
+    81.88
+   ]
+  ]
+ },
+ {
+  "s": 82.68,
+  "e": 86.12,
+  "text": "Cilantro and soap really do share a family of smells.",
+  "words": [
+   [
+    "cilantro",
+    82.68
+   ],
+   [
+    "and",
+    83.32
+   ],
+   [
+    "soap",
+    83.56
+   ],
+   [
+    "really",
+    83.88
+   ],
+   [
+    "do",
+    84.36
+   ],
+   [
+    "share",
+    84.52
+   ],
+   [
+    "a",
+    84.92
+   ],
+   [
+    "family",
+    85.0
+   ],
+   [
+    "of",
+    85.48
+   ],
+   [
+    "smells",
+    85.64
+   ]
+  ]
+ },
+ {
+  "s": 86.67,
+  "e": 90.41,
+  "text": "Scientists still aren't sure which exact molecule is to blame.",
+  "words": [
+   [
+    "scientists",
+    86.67
+   ],
+   [
+    "still",
+    87.4
+   ],
+   [
+    "arent",
+    87.77
+   ],
+   [
+    "sure",
+    88.13
+   ],
+   [
+    "which",
+    88.43
+   ],
+   [
+    "exact",
+    88.79
+   ],
+   [
+    "molecule",
+    89.16
+   ],
+   [
+    "is",
+    89.75
+   ],
+   [
+    "to",
+    89.9
+   ],
+   [
+    "blame",
+    90.04
+   ]
+  ]
+ },
+ {
+  "s": 90.96,
+  "e": 93.18,
+  "text": "So why does only your friend notice?",
+  "words": [
+   [
+    "so",
+    90.96
+   ],
+   [
+    "why",
+    91.11
+   ],
+   [
+    "does",
+    91.34
+   ],
+   [
+    "only",
+    91.65
+   ],
+   [
+    "your",
+    91.95
+   ],
+   [
+    "friend",
+    92.26
+   ],
+   [
+    "notice",
+    92.72
+   ]
+  ]
+ },
+ {
+  "s": 93.73,
+  "e": 97.36,
+  "text": "Scientists suspect this is mostly about smell, not taste.",
+  "words": [
+   [
+    "scientists",
+    93.73
+   ],
+   [
+    "suspect",
+    94.5
+   ],
+   [
+    "this",
+    95.04
+   ],
+   [
+    "is",
+    95.35
+   ],
+   [
+    "mostly",
+    95.51
+   ],
+   [
+    "about",
+    95.97
+   ],
+   [
+    "smell",
+    96.36
+   ],
+   [
+    "not",
+    96.74
+   ],
+   [
+    "taste",
+    96.97
+   ]
+  ]
+ },
+ {
+  "s": 97.91,
+  "e": 100.61,
+  "text": "When you chew, scents float up the back of your throat,",
+  "words": [
+   [
+    "when",
+    97.91
+   ],
+   [
+    "you",
+    98.16
+   ],
+   [
+    "chew",
+    98.35
+   ],
+   [
+    "scents",
+    98.6
+   ],
+   [
+    "float",
+    98.98
+   ],
+   [
+    "up",
+    99.29
+   ],
+   [
+    "the",
+    99.41
+   ],
+   [
+    "back",
+    99.6
+   ],
+   [
+    "of",
+    99.85
+   ],
+   [
+    "your",
+    99.98
+   ],
+   [
+    "throat",
+    100.23
+   ]
+  ]
+ },
+ {
+  "s": 100.91,
+  "e": 102.14,
+  "text": "and into your nose.",
+  "words": [
+   [
+    "and",
+    100.91
+   ],
+   [
+    "into",
+    101.15
+   ],
+   [
+    "your",
+    101.48
+   ],
+   [
+    "nose",
+    101.81
+   ]
+  ]
+ },
+ {
+  "s": 102.69,
+  "e": 105.69,
+  "text": "Up there, you've got hundreds of kinds of smell sensors.",
+  "words": [
+   [
+    "up",
+    102.69
+   ],
+   [
+    "there",
+    102.83
+   ],
+   [
+    "youve",
+    103.17
+   ],
+   [
+    "got",
+    103.51
+   ],
+   [
+    "hundreds",
+    103.71
+   ],
+   [
+    "of",
+    104.26
+   ],
+   [
+    "kinds",
+    104.4
+   ],
+   [
+    "of",
+    104.74
+   ],
+   [
+    "smell",
+    104.87
+   ],
+   [
+    "sensors",
+    105.21
+   ]
+  ]
+ },
+ {
+  "s": 106.24,
+  "e": 107.96,
+  "text": "Think of them as tiny locks,",
+  "words": [
+   [
+    "think",
+    106.24
+   ],
+   [
+    "of",
+    106.63
+   ],
+   [
+    "them",
+    106.79
+   ],
+   [
+    "as",
+    107.1
+   ],
+   [
+    "tiny",
+    107.26
+   ],
+   [
+    "locks",
+    107.57
+   ]
+  ]
+ },
+ {
+  "s": 108.26,
+  "e": 110.36,
+  "text": "and every scent molecule as a key.",
+  "words": [
+   [
+    "and",
+    108.26
+   ],
+   [
+    "every",
+    108.49
+   ],
+   [
+    "scent",
+    108.88
+   ],
+   [
+    "molecule",
+    109.27
+   ],
+   [
+    "as",
+    109.9
+   ],
+   [
+    "a",
+    110.05
+   ],
+   [
+    "key",
+    110.13
+   ]
+  ]
+ },
+ {
+  "s": 110.91,
+  "e": 114.1,
+  "text": "In twenty twelve, researchers at twenty-three and me,",
+  "words": [
+   [
+    "in",
+    110.91
+   ],
+   [
+    "twenty",
+    111.06
+   ],
+   [
+    "twelve",
+    111.51
+   ],
+   [
+    "researchers",
+    111.95
+   ],
+   [
+    "at",
+    112.77
+   ],
+   [
+    "twentythree",
+    112.91
+   ],
+   [
+    "and",
+    113.73
+   ],
+   [
+    "me",
+    113.95
+   ]
+  ]
+ },
+ {
+  "s": 114.4,
+  "e": 117.78,
+  "text": "looked at the DNA of about twenty-five thousand people.",
+  "words": [
+   [
+    "looked",
+    114.4
+   ],
+   [
+    "at",
+    114.85
+   ],
+   [
+    "the",
+    115.0
+   ],
+   [
+    "dna",
+    115.23
+   ],
+   [
+    "of",
+    115.45
+   ],
+   [
+    "about",
+    115.6
+   ],
+   [
+    "twentyfive",
+    115.98
+   ],
+   [
+    "thousand",
+    116.73
+   ],
+   [
+    "people",
+    117.33
+   ]
+  ]
+ },
+ {
+  "s": 118.33,
+  "e": 119.75,
+  "text": "They asked one question.",
+  "words": [
+   [
+    "they",
+    118.33
+   ],
+   [
+    "asked",
+    118.62
+   ],
+   [
+    "one",
+    118.97
+   ],
+   [
+    "question",
+    119.19
+   ]
+  ]
+ },
+ {
+  "s": 120.3,
+  "e": 122.47,
+  "text": "Does cilantro taste like soap to you?",
+  "words": [
+   [
+    "does",
+    120.3
+   ],
+   [
+    "cilantro",
+    120.59
+   ],
+   [
+    "taste",
+    121.17
+   ],
+   [
+    "like",
+    121.53
+   ],
+   [
+    "soap",
+    121.82
+   ],
+   [
+    "to",
+    122.11
+   ],
+   [
+    "you",
+    122.25
+   ]
+  ]
+ },
+ {
+  "s": 123.02,
+  "e": 125.52,
+  "text": "And they found one tiny spot in the DNA,",
+  "words": [
+   [
+    "and",
+    123.02
+   ],
+   [
+    "they",
+    123.26
+   ],
+   [
+    "found",
+    123.58
+   ],
+   [
+    "one",
+    123.98
+   ],
+   [
+    "tiny",
+    124.23
+   ],
+   [
+    "spot",
+    124.55
+   ],
+   [
+    "in",
+    124.87
+   ],
+   [
+    "the",
+    125.03
+   ],
+   [
+    "dna",
+    125.28
+   ]
+  ]
+ },
+ {
+  "s": 125.82,
+  "e": 128.11,
+  "text": "right next to a cluster of smell genes.",
+  "words": [
+   [
+    "right",
+    125.82
+   ],
+   [
+    "next",
+    126.19
+   ],
+   [
+    "to",
+    126.48
+   ],
+   [
+    "a",
+    126.63
+   ],
+   [
+    "cluster",
+    126.7
+   ],
+   [
+    "of",
+    127.22
+   ],
+   [
+    "smell",
+    127.37
+   ],
+   [
+    "genes",
+    127.74
+   ]
+  ]
+ },
+ {
+  "s": 128.66,
+  "e": 131.33,
+  "text": "One of those genes is called O R six A two,",
+  "words": [
+   [
+    "one",
+    128.66
+   ],
+   [
+    "of",
+    128.91
+   ],
+   [
+    "those",
+    129.07
+   ],
+   [
+    "genes",
+    129.49
+   ],
+   [
+    "is",
+    129.91
+   ],
+   [
+    "called",
+    130.08
+   ],
+   [
+    "o",
+    130.58
+   ],
+   [
+    "r",
+    130.66
+   ],
+   [
+    "six",
+    130.75
+   ],
+   [
+    "a",
+    131.0
+   ],
+   [
+    "two",
+    131.08
+   ]
+  ]
+ },
+ {
+  "s": 131.63,
+  "e": 134.75,
+  "text": "and it builds a lock that's great at catching aldehydes.",
+  "words": [
+   [
+    "and",
+    131.63
+   ],
+   [
+    "it",
+    131.84
+   ],
+   [
+    "builds",
+    131.98
+   ],
+   [
+    "a",
+    132.4
+   ],
+   [
+    "lock",
+    132.46
+   ],
+   [
+    "thats",
+    132.74
+   ],
+   [
+    "great",
+    133.09
+   ],
+   [
+    "at",
+    133.44
+   ],
+   [
+    "catching",
+    133.57
+   ],
+   [
+    "aldehydes",
+    134.13
+   ]
+  ]
+ },
+ {
+  "s": 135.3,
+  "e": 138.34,
+  "text": "Some people's noses may pick up that soapy note,",
+  "words": [
+   [
+    "some",
+    135.3
+   ],
+   [
+    "peoples",
+    135.62
+   ],
+   [
+    "noses",
+    136.18
+   ],
+   [
+    "may",
+    136.58
+   ],
+   [
+    "pick",
+    136.82
+   ],
+   [
+    "up",
+    137.14
+   ],
+   [
+    "that",
+    137.3
+   ],
+   [
+    "soapy",
+    137.62
+   ],
+   [
+    "note",
+    138.02
+   ]
+  ]
+ },
+ {
+  "s": 138.64,
+  "e": 139.89,
+  "text": "a lot more loudly.",
+  "words": [
+   [
+    "a",
+    138.64
+   ],
+   [
+    "lot",
+    138.73
+   ],
+   [
+    "more",
+    139.0
+   ],
+   [
+    "loudly",
+    139.35
+   ]
+  ]
+ },
+ {
+  "s": 140.44,
+  "e": 141.53,
+  "text": "Case closed, right?",
+  "words": [
+   [
+    "case",
+    140.44
+   ],
+   [
+    "closed",
+    140.73
+   ],
+   [
+    "right",
+    141.17
+   ]
+  ]
+ },
+ {
+  "s": 142.08,
+  "e": 142.94,
+  "text": "Not quite.",
+  "words": [
+   [
+    "not",
+    142.08
+   ],
+   [
+    "quite",
+    142.41
+   ]
+  ]
+ },
+ {
+  "s": 143.49,
+  "e": 145.43,
+  "text": "Here's the number nobody expects.",
+  "words": [
+   [
+    "heres",
+    143.49
+   ],
+   [
+    "the",
+    143.85
+   ],
+   [
+    "number",
+    144.07
+   ],
+   [
+    "nobody",
+    144.5
+   ],
+   [
+    "expects",
+    144.93
+   ]
+  ]
+ },
+ {
+  "s": 145.98,
+  "e": 148.42,
+  "text": "That spot explains only about half a percent",
+  "words": [
+   [
+    "that",
+    145.98
+   ],
+   [
+    "spot",
+    146.25
+   ],
+   [
+    "explains",
+    146.51
+   ],
+   [
+    "only",
+    147.04
+   ],
+   [
+    "about",
+    147.3
+   ],
+   [
+    "half",
+    147.63
+   ],
+   [
+    "a",
+    147.9
+   ],
+   [
+    "percent",
+    147.96
+   ]
+  ]
+ },
+ {
+  "s": 148.72,
+  "e": 150.58,
+  "text": "of who tastes soap and who doesn't.",
+  "words": [
+   [
+    "of",
+    148.72
+   ],
+   [
+    "who",
+    148.86
+   ],
+   [
+    "tastes",
+    149.07
+   ],
+   [
+    "soap",
+    149.48
+   ],
+   [
+    "and",
+    149.76
+   ],
+   [
+    "who",
+    149.96
+   ],
+   [
+    "doesnt",
+    150.17
+   ]
+  ]
+ },
+ {
+  "s": 151.13,
+  "e": 152.36,
+  "text": "Half of one percent!",
+  "words": [
+   [
+    "half",
+    151.13
+   ],
+   [
+    "of",
+    151.44
+   ],
+   [
+    "one",
+    151.59
+   ],
+   [
+    "percent",
+    151.82
+   ]
+  ]
+ },
+ {
+  "s": 152.91,
+  "e": 155.29,
+  "text": "Another twin study turned up more genes,",
+  "words": [
+   [
+    "another",
+    152.91
+   ],
+   [
+    "twin",
+    153.41
+   ],
+   [
+    "study",
+    153.7
+   ],
+   [
+    "turned",
+    154.06
+   ],
+   [
+    "up",
+    154.49
+   ],
+   [
+    "more",
+    154.64
+   ],
+   [
+    "genes",
+    154.92
+   ]
+  ]
+ },
+ {
+  "s": 155.59,
+  "e": 157.62,
+  "text": "including some linked to bitter taste.",
+  "words": [
+   [
+    "including",
+    155.59
+   ],
+   [
+    "some",
+    156.16
+   ],
+   [
+    "linked",
+    156.41
+   ],
+   [
+    "to",
+    156.8
+   ],
+   [
+    "bitter",
+    156.92
+   ],
+   [
+    "taste",
+    157.31
+   ]
+  ]
+ },
+ {
+  "s": 158.17,
+  "e": 159.96,
+  "text": "So there's no single soap gene.",
+  "words": [
+   [
+    "so",
+    158.17
+   ],
+   [
+    "theres",
+    158.32
+   ],
+   [
+    "no",
+    158.77
+   ],
+   [
+    "single",
+    158.92
+   ],
+   [
+    "soap",
+    159.36
+   ],
+   [
+    "gene",
+    159.66
+   ]
+  ]
+ },
+ {
+  "s": 160.51,
+  "e": 163.9,
+  "text": "It's a small nudge, mixed with everything else about you.",
+  "words": [
+   [
+    "its",
+    160.51
+   ],
+   [
+    "a",
+    160.73
+   ],
+   [
+    "small",
+    160.81
+   ],
+   [
+    "nudge",
+    161.19
+   ],
+   [
+    "mixed",
+    161.56
+   ],
+   [
+    "with",
+    161.94
+   ],
+   [
+    "everything",
+    162.24
+   ],
+   [
+    "else",
+    162.99
+   ],
+   [
+    "about",
+    163.3
+   ],
+   [
+    "you",
+    163.67
+   ]
+  ]
+ },
+ {
+  "s": 164.45,
+  "e": 166.09,
+  "text": "Like what you ate growing up.",
+  "words": [
+   [
+    "like",
+    164.45
+   ],
+   [
+    "what",
+    164.74
+   ],
+   [
+    "you",
+    165.02
+   ],
+   [
+    "ate",
+    165.24
+   ],
+   [
+    "growing",
+    165.45
+   ],
+   [
+    "up",
+    165.95
+   ]
+  ]
+ },
+ {
+  "s": 166.64,
+  "e": 168.27,
+  "text": "Remember those low numbers?",
+  "words": [
+   [
+    "remember",
+    166.64
+   ],
+   [
+    "those",
+    167.21
+   ],
+   [
+    "low",
+    167.56
+   ],
+   [
+    "numbers",
+    167.77
+   ]
+  ]
+ },
+ {
+  "s": 168.82,
+  "e": 171.42,
+  "text": "If cilantro was in your food from day one,",
+  "words": [
+   [
+    "if",
+    168.82
+   ],
+   [
+    "cilantro",
+    168.97
+   ],
+   [
+    "was",
+    169.6
+   ],
+   [
+    "in",
+    169.84
+   ],
+   [
+    "your",
+    170.0
+   ],
+   [
+    "food",
+    170.31
+   ],
+   [
+    "from",
+    170.63
+   ],
+   [
+    "day",
+    170.94
+   ],
+   [
+    "one",
+    171.18
+   ]
+  ]
+ },
+ {
+  "s": 171.72,
+  "e": 173.2,
+  "text": "you've had a lot of practice.",
+  "words": [
+   [
+    "youve",
+    171.72
+   ],
+   [
+    "had",
+    172.05
+   ],
+   [
+    "a",
+    172.25
+   ],
+   [
+    "lot",
+    172.32
+   ],
+   [
+    "of",
+    172.52
+   ],
+   [
+    "practice",
+    172.66
+   ]
+  ]
+ },
+ {
+  "s": 173.75,
+  "e": 176.48,
+  "text": "The lead researcher said this isn't like your height.",
+  "words": [
+   [
+    "the",
+    173.75
+   ],
+   [
+    "lead",
+    173.94
+   ],
+   [
+    "researcher",
+    174.19
+   ],
+   [
+    "said",
+    174.83
+   ],
+   [
+    "this",
+    175.08
+   ],
+   [
+    "isnt",
+    175.33
+   ],
+   [
+    "like",
+    175.59
+   ],
+   [
+    "your",
+    175.84
+   ],
+   [
+    "height",
+    176.1
+   ]
+  ]
+ },
+ {
+  "s": 177.03,
+  "e": 178.06,
+  "text": "You aren't stuck with it.",
+  "words": [
+   [
+    "you",
+    177.03
+   ],
+   [
+    "arent",
+    177.19
+   ],
+   [
+    "stuck",
+    177.46
+   ],
+   [
+    "with",
+    177.73
+   ],
+   [
+    "it",
+    177.95
+   ]
+  ]
+ },
+ {
+  "s": 178.61,
+  "e": 180.9,
+  "text": "Scientists say eating it again and again,",
+  "words": [
+   [
+    "scientists",
+    178.61
+   ],
+   [
+    "say",
+    179.28
+   ],
+   [
+    "eating",
+    179.48
+   ],
+   [
+    "it",
+    179.89
+   ],
+   [
+    "again",
+    180.02
+   ],
+   [
+    "and",
+    180.36
+   ],
+   [
+    "again",
+    180.56
+   ]
+  ]
+ },
+ {
+  "s": 181.2,
+  "e": 182.88,
+  "text": "can slowly soften the soap.",
+  "words": [
+   [
+    "can",
+    181.2
+   ],
+   [
+    "slowly",
+    181.43
+   ],
+   [
+    "soften",
+    181.89
+   ],
+   [
+    "the",
+    182.35
+   ],
+   [
+    "soap",
+    182.58
+   ]
+  ]
+ },
+ {
+  "s": 183.43,
+  "e": 184.73,
+  "text": "And there's a kitchen trick.",
+  "words": [
+   [
+    "and",
+    183.43
+   ],
+   [
+    "theres",
+    183.61
+   ],
+   [
+    "a",
+    183.96
+   ],
+   [
+    "kitchen",
+    184.02
+   ],
+   [
+    "trick",
+    184.44
+   ]
+  ]
+ },
+ {
+  "s": 185.28,
+  "e": 186.33,
+  "text": "Crush the leaves.",
+  "words": [
+   [
+    "crush",
+    185.28
+   ],
+   [
+    "the",
+    185.66
+   ],
+   [
+    "leaves",
+    185.88
+   ]
+  ]
+ },
+ {
+  "s": 186.88,
+  "e": 188.62,
+  "text": "Crushing releases enzymes,",
+  "words": [
+   [
+    "crushing",
+    186.88
+   ],
+   [
+    "releases",
+    187.49
+   ],
+   [
+    "enzymes",
+    188.09
+   ]
+  ]
+ },
+ {
+  "s": 188.92,
+  "e": 192.14,
+  "text": "that break those soapy aldehydes into milder smells.",
+  "words": [
+   [
+    "that",
+    188.92
+   ],
+   [
+    "break",
+    189.21
+   ],
+   [
+    "those",
+    189.58
+   ],
+   [
+    "soapy",
+    189.94
+   ],
+   [
+    "aldehydes",
+    190.31
+   ],
+   [
+    "into",
+    190.97
+   ],
+   [
+    "milder",
+    191.26
+   ],
+   [
+    "smells",
+    191.7
+   ]
+  ]
+ },
+ {
+  "s": 192.69,
+  "e": 196.52,
+  "text": "That's why food scientists suggest starting with cilantro pesto.",
+  "words": [
+   [
+    "thats",
+    192.69
+   ],
+   [
+    "why",
+    193.04
+   ],
+   [
+    "food",
+    193.25
+   ],
+   [
+    "scientists",
+    193.54
+   ],
+   [
+    "suggest",
+    194.25
+   ],
+   [
+    "starting",
+    194.74
+   ],
+   [
+    "with",
+    195.31
+   ],
+   [
+    "cilantro",
+    195.6
+   ],
+   [
+    "pesto",
+    196.16
+   ]
+  ]
+ },
+ {
+  "s": 197.07,
+  "e": 199.63,
+  "text": "So next time your friend picks it out of the salsa,",
+  "words": [
+   [
+    "so",
+    197.07
+   ],
+   [
+    "next",
+    197.2
+   ],
+   [
+    "time",
+    197.45
+   ],
+   [
+    "your",
+    197.71
+   ],
+   [
+    "friend",
+    197.97
+   ],
+   [
+    "picks",
+    198.35
+   ],
+   [
+    "it",
+    198.67
+   ],
+   [
+    "out",
+    198.8
+   ],
+   [
+    "of",
+    198.99
+   ],
+   [
+    "the",
+    199.12
+   ],
+   [
+    "salsa",
+    199.31
+   ]
+  ]
+ },
+ {
+  "s": 199.93,
+  "e": 201.16,
+  "text": "go easy on them.",
+  "words": [
+   [
+    "go",
+    199.93
+   ],
+   [
+    "easy",
+    200.14
+   ],
+   [
+    "on",
+    200.55
+   ],
+   [
+    "them",
+    200.75
+   ]
+  ]
+ },
+ {
+  "s": 201.71,
+  "e": 202.95,
+  "text": "They aren't being picky.",
+  "words": [
+   [
+    "they",
+    201.71
+   ],
+   [
+    "arent",
+    201.97
+   ],
+   [
+    "being",
+    202.29
+   ],
+   [
+    "picky",
+    202.62
+   ]
+  ]
+ },
+ {
+  "s": 203.5,
+  "e": 205.59,
+  "text": "Their nose is finding something real,",
+  "words": [
+   [
+    "their",
+    203.5
+   ],
+   [
+    "nose",
+    203.83
+   ],
+   [
+    "is",
+    204.1
+   ],
+   [
+    "finding",
+    204.24
+   ],
+   [
+    "something",
+    204.71
+   ],
+   [
+    "real",
+    205.32
+   ]
+  ]
+ },
+ {
+  "s": 205.89,
+  "e": 207.42,
+  "text": "that yours might be missing.",
+  "words": [
+   [
+    "that",
+    205.89
+   ],
+   [
+    "yours",
+    206.16
+   ],
+   [
+    "might",
+    206.49
+   ],
+   [
+    "be",
+    206.82
+   ],
+   [
+    "missing",
+    206.96
+   ]
+  ]
+ },
+ {
+  "s": 207.97,
+  "e": 210.77,
+  "text": "Next up, how do dolphins sleep without drowning?",
+  "words": [
+   [
+    "next",
+    207.97
+   ],
+   [
+    "up",
+    208.26
+   ],
+   [
+    "how",
+    208.4
+   ],
+   [
+    "do",
+    208.62
+   ],
+   [
+    "dolphins",
+    208.76
+   ],
+   [
+    "sleep",
+    209.34
+   ],
+   [
+    "without",
+    209.7
+   ],
+   [
+    "drowning",
+    210.2
+   ]
+  ]
+ }
+]

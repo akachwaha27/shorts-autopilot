@@ -603,5 +603,17 @@
   "words": 135,
   "sheet_id": "S047",
   "note": "no storyboard step (unattended run)"
+ },
+ {
+  "date": "2026-11-04",
+  "id": "20261104-cilantro-soap",
+  "kind": "long",
+  "style": "Chalkboard Lesson",
+  "topic": "Why does cilantro taste like soap to some people?",
+  "title": "Why Does Cilantro Taste Like Soap to 1 in 8 People?",
+  "seconds": 211.8,
+  "words": 540,
+  "sheet_id": "L017",
+  "note": "no storyboard step (unattended run); hook 41, title 100; effects rendered in 15 s segments because one long offline render stalled"
  }
 ]
