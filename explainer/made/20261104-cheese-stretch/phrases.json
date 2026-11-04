@@ -1,0 +1,715 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.59,
+  "text": "Your pizza cheese hides a protein net,",
+  "words": [
+   [
+    "your",
+    0.25
+   ],
+   [
+    "pizza",
+    0.55
+   ],
+   [
+    "cheese",
+    0.93
+   ],
+   [
+    "hides",
+    1.38
+   ],
+   [
+    "a",
+    1.76
+   ],
+   [
+    "protein",
+    1.84
+   ],
+   [
+    "net",
+    2.37
+   ]
+  ]
+ },
+ {
+  "s": 2.89,
+  "e": 3.93,
+  "text": "you've never seen.",
+  "words": [
+   [
+    "youve",
+    2.89
+   ],
+   [
+    "never",
+    3.26
+   ],
+   [
+    "seen",
+    3.63
+   ]
+  ]
+ },
+ {
+  "s": 4.48,
+  "e": 6.17,
+  "text": "Long proteins called casein,",
+  "words": [
+   [
+    "long",
+    4.48
+   ],
+   [
+    "proteins",
+    4.76
+   ],
+   [
+    "called",
+    5.33
+   ],
+   [
+    "casein",
+    5.75
+   ]
+  ]
+ },
+ {
+  "s": 6.47,
+  "e": 9.01,
+  "text": "are tied together by tiny calcium bonds,",
+  "words": [
+   [
+    "are",
+    6.47
+   ],
+   [
+    "tied",
+    6.7
+   ],
+   [
+    "together",
+    7.01
+   ],
+   [
+    "by",
+    7.63
+   ],
+   [
+    "tiny",
+    7.78
+   ],
+   [
+    "calcium",
+    8.09
+   ],
+   [
+    "bonds",
+    8.63
+   ]
+  ]
+ },
+ {
+  "s": 9.31,
+  "e": 11.31,
+  "text": "with fat and water stuck in the gaps.",
+  "words": [
+   [
+    "with",
+    9.31
+   ],
+   [
+    "fat",
+    9.59
+   ],
+   [
+    "and",
+    9.79
+   ],
+   [
+    "water",
+    10.0
+   ],
+   [
+    "stuck",
+    10.34
+   ],
+   [
+    "in",
+    10.69
+   ],
+   [
+    "the",
+    10.82
+   ],
+   [
+    "gaps",
+    11.03
+   ]
+  ]
+ },
+ {
+  "s": 11.86,
+  "e": 13.29,
+  "text": "Cold, that net is stiff.",
+  "words": [
+   [
+    "cold",
+    11.86
+   ],
+   [
+    "that",
+    12.17
+   ],
+   [
+    "net",
+    12.49
+   ],
+   [
+    "is",
+    12.73
+   ],
+   [
+    "stiff",
+    12.89
+   ]
+  ]
+ },
+ {
+  "s": 13.84,
+  "e": 15.89,
+  "text": "Warm it up, and the fat melts first,",
+  "words": [
+   [
+    "warm",
+    13.84
+   ],
+   [
+    "it",
+    14.14
+   ],
+   [
+    "up",
+    14.29
+   ],
+   [
+    "and",
+    14.44
+   ],
+   [
+    "the",
+    14.67
+   ],
+   [
+    "fat",
+    14.9
+   ],
+   [
+    "melts",
+    15.13
+   ],
+   [
+    "first",
+    15.51
+   ]
+  ]
+ },
+ {
+  "s": 16.19,
+  "e": 17.49,
+  "text": "then the bonds loosen.",
+  "words": [
+   [
+    "then",
+    16.19
+   ],
+   [
+    "the",
+    16.48
+   ],
+   [
+    "bonds",
+    16.69
+   ],
+   [
+    "loosen",
+    17.06
+   ]
+  ]
+ },
+ {
+  "s": 18.04,
+  "e": 20.22,
+  "text": "Now the strands slide past each other,",
+  "words": [
+   [
+    "now",
+    18.04
+   ],
+   [
+    "the",
+    18.25
+   ],
+   [
+    "strands",
+    18.46
+   ],
+   [
+    "slide",
+    18.96
+   ],
+   [
+    "past",
+    19.31
+   ],
+   [
+    "each",
+    19.59
+   ],
+   [
+    "other",
+    19.87
+   ]
+  ]
+ },
+ {
+  "s": 20.52,
+  "e": 21.69,
+  "text": "without letting go.",
+  "words": [
+   [
+    "without",
+    20.52
+   ],
+   [
+    "letting",
+    21.04
+   ],
+   [
+    "go",
+    21.55
+   ]
+  ]
+ },
+ {
+  "s": 22.24,
+  "e": 24.24,
+  "text": "Mozzarella has an extra trick.",
+  "words": [
+   [
+    "mozzarella",
+    22.24
+   ],
+   [
+    "has",
+    23.04
+   ],
+   [
+    "an",
+    23.28
+   ],
+   [
+    "extra",
+    23.44
+   ],
+   [
+    "trick",
+    23.84
+   ]
+  ]
+ },
+ {
+  "s": 24.79,
+  "e": 26.96,
+  "text": "Makers dunk the curd in hot water,",
+  "words": [
+   [
+    "makers",
+    24.79
+   ],
+   [
+    "dunk",
+    25.27
+   ],
+   [
+    "the",
+    25.59
+   ],
+   [
+    "curd",
+    25.84
+   ],
+   [
+    "in",
+    26.16
+   ],
+   [
+    "hot",
+    26.32
+   ],
+   [
+    "water",
+    26.56
+   ]
+  ]
+ },
+ {
+  "s": 27.26,
+  "e": 29.65,
+  "text": "around 70 to 80 degrees Celsius,",
+  "words": [
+   [
+    "around",
+    27.26
+   ],
+   [
+    "70",
+    27.81
+   ],
+   [
+    "to",
+    28.0
+   ],
+   [
+    "80",
+    28.18
+   ],
+   [
+    "degrees",
+    28.36
+   ],
+   [
+    "celsius",
+    29.01
+   ]
+  ]
+ },
+ {
+  "s": 29.95,
+  "e": 31.88,
+  "text": "then pull and fold it like dough,",
+  "words": [
+   [
+    "then",
+    29.95
+   ],
+   [
+    "pull",
+    30.25
+   ],
+   [
+    "and",
+    30.54
+   ],
+   [
+    "fold",
+    30.77
+   ],
+   [
+    "it",
+    31.06
+   ],
+   [
+    "like",
+    31.21
+   ],
+   [
+    "dough",
+    31.51
+   ]
+  ]
+ },
+ {
+  "s": 32.18,
+  "e": 34.57,
+  "text": "lining the proteins up in long fibers.",
+  "words": [
+   [
+    "lining",
+    32.18
+   ],
+   [
+    "the",
+    32.64
+   ],
+   [
+    "proteins",
+    32.87
+   ],
+   [
+    "up",
+    33.49
+   ],
+   [
+    "in",
+    33.64
+   ],
+   [
+    "long",
+    33.8
+   ],
+   [
+    "fibers",
+    34.11
+   ]
+  ]
+ },
+ {
+  "s": 35.12,
+  "e": 36.6,
+  "text": "Old cheese is different.",
+  "words": [
+   [
+    "old",
+    35.12
+   ],
+   [
+    "cheese",
+    35.34
+   ],
+   [
+    "is",
+    35.79
+   ],
+   [
+    "different",
+    35.93
+   ]
+  ]
+ },
+ {
+  "s": 37.15,
+  "e": 39.85,
+  "text": "As it ages, enzymes snip those strands,",
+  "words": [
+   [
+    "as",
+    37.15
+   ],
+   [
+    "it",
+    37.32
+   ],
+   [
+    "ages",
+    37.5
+   ],
+   [
+    "enzymes",
+    37.85
+   ],
+   [
+    "snip",
+    38.46
+   ],
+   [
+    "those",
+    38.81
+   ],
+   [
+    "strands",
+    39.24
+   ]
+  ]
+ },
+ {
+  "s": 40.15,
+  "e": 41.91,
+  "text": "so it melts, but it won't stretch.",
+  "words": [
+   [
+    "so",
+    40.15
+   ],
+   [
+    "it",
+    40.29
+   ],
+   [
+    "melts",
+    40.43
+   ],
+   [
+    "but",
+    40.79
+   ],
+   [
+    "it",
+    41.0
+   ],
+   [
+    "wont",
+    41.14
+   ],
+   [
+    "stretch",
+    41.42
+   ]
+  ]
+ },
+ {
+  "s": 42.46,
+  "e": 44.22,
+  "text": "Ricotta barely melts at all,",
+  "words": [
+   [
+    "ricotta",
+    42.46
+   ],
+   [
+    "barely",
+    42.99
+   ],
+   [
+    "melts",
+    43.45
+   ],
+   [
+    "at",
+    43.83
+   ],
+   [
+    "all",
+    43.99
+   ]
+  ]
+ },
+ {
+  "s": 44.52,
+  "e": 47.1,
+  "text": "its proteins are locked with permanent bonds.",
+  "words": [
+   [
+    "its",
+    44.52
+   ],
+   [
+    "proteins",
+    44.72
+   ],
+   [
+    "are",
+    45.26
+   ],
+   [
+    "locked",
+    45.47
+   ],
+   [
+    "with",
+    45.88
+   ],
+   [
+    "permanent",
+    46.15
+   ],
+   [
+    "bonds",
+    46.76
+   ]
+  ]
+ },
+ {
+  "s": 47.65,
+  "e": 49.11,
+  "text": "So a cheese pull is a net,",
+  "words": [
+   [
+    "so",
+    47.65
+   ],
+   [
+    "a",
+    47.8
+   ],
+   [
+    "cheese",
+    47.88
+   ],
+   [
+    "pull",
+    48.34
+   ],
+   [
+    "is",
+    48.65
+   ],
+   [
+    "a",
+    48.8
+   ],
+   [
+    "net",
+    48.88
+   ]
+  ]
+ },
+ {
+  "s": 49.41,
+  "e": 50.85,
+  "text": "bending but not breaking.",
+  "words": [
+   [
+    "bending",
+    49.41
+   ],
+   [
+    "but",
+    49.89
+   ],
+   [
+    "not",
+    50.1
+   ],
+   [
+    "breaking",
+    50.3
+   ]
+  ]
+ },
+ {
+  "s": 51.4,
+  "e": 53.73,
+  "text": "Which cheese has the best pull on your pizza?",
+  "words": [
+   [
+    "which",
+    51.4
+   ],
+   [
+    "cheese",
+    51.73
+   ],
+   [
+    "has",
+    52.11
+   ],
+   [
+    "the",
+    52.31
+   ],
+   [
+    "best",
+    52.5
+   ],
+   [
+    "pull",
+    52.76
+   ],
+   [
+    "on",
+    53.02
+   ],
+   [
+    "your",
+    53.15
+   ],
+   [
+    "pizza",
+    53.41
+   ]
+  ]
+ }
+]
