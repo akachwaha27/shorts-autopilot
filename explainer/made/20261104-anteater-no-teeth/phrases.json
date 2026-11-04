@@ -1,0 +1,672 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.47,
+  "text": "Zero teeth, but it'll out-eat you,",
+  "words": [
+   [
+    "zero",
+    0.25
+   ],
+   [
+    "teeth",
+    0.61
+   ],
+   [
+    "but",
+    1.05
+   ],
+   [
+    "itll",
+    1.32
+   ],
+   [
+    "outeat",
+    1.67
+   ],
+   [
+    "you",
+    2.2
+   ]
+  ]
+ },
+ {
+  "s": 2.77,
+  "e": 4.39,
+  "text": "thirty thousand ants a day.",
+  "words": [
+   [
+    "thirty",
+    2.77
+   ],
+   [
+    "thousand",
+    3.21
+   ],
+   [
+    "ants",
+    3.8
+   ],
+   [
+    "a",
+    4.09
+   ],
+   [
+    "day",
+    4.17
+   ]
+  ]
+ },
+ {
+  "s": 4.94,
+  "e": 6.48,
+  "text": "Meet the giant anteater.",
+  "words": [
+   [
+    "meet",
+    4.94
+   ],
+   [
+    "the",
+    5.24
+   ],
+   [
+    "giant",
+    5.48
+   ],
+   [
+    "anteater",
+    5.86
+   ]
+  ]
+ },
+ {
+  "s": 7.03,
+  "e": 9.21,
+  "text": "First, big claws rip open the nest.",
+  "words": [
+   [
+    "first",
+    7.03
+   ],
+   [
+    "big",
+    7.43
+   ],
+   [
+    "claws",
+    7.68
+   ],
+   [
+    "rip",
+    8.08
+   ],
+   [
+    "open",
+    8.32
+   ],
+   [
+    "the",
+    8.65
+   ],
+   [
+    "nest",
+    8.89
+   ]
+  ]
+ },
+ {
+  "s": 9.76,
+  "e": 11.18,
+  "text": "Then out comes the tongue,",
+  "words": [
+   [
+    "then",
+    9.76
+   ],
+   [
+    "out",
+    10.03
+   ],
+   [
+    "comes",
+    10.23
+   ],
+   [
+    "the",
+    10.57
+   ],
+   [
+    "tongue",
+    10.77
+   ]
+  ]
+ },
+ {
+  "s": 11.48,
+  "e": 12.49,
+  "text": "two feet long,",
+  "words": [
+   [
+    "two",
+    11.48
+   ],
+   [
+    "feet",
+    11.76
+   ],
+   [
+    "long",
+    12.12
+   ]
+  ]
+ },
+ {
+  "s": 12.79,
+  "e": 15.51,
+  "text": "flicking up to a hundred and fifty times a minute.",
+  "words": [
+   [
+    "flicking",
+    12.79
+   ],
+   [
+    "up",
+    13.34
+   ],
+   [
+    "to",
+    13.47
+   ],
+   [
+    "a",
+    13.61
+   ],
+   [
+    "hundred",
+    13.67
+   ],
+   [
+    "and",
+    14.15
+   ],
+   [
+    "fifty",
+    14.35
+   ],
+   [
+    "times",
+    14.69
+   ],
+   [
+    "a",
+    15.03
+   ],
+   [
+    "minute",
+    15.1
+   ]
+  ]
+ },
+ {
+  "s": 16.06,
+  "e": 18.3,
+  "text": "It's covered in tiny backward spines,",
+  "words": [
+   [
+    "its",
+    16.06
+   ],
+   [
+    "covered",
+    16.28
+   ],
+   [
+    "in",
+    16.81
+   ],
+   [
+    "tiny",
+    16.96
+   ],
+   [
+    "backward",
+    17.26
+   ],
+   [
+    "spines",
+    17.85
+   ]
+  ]
+ },
+ {
+  "s": 18.6,
+  "e": 19.88,
+  "text": "and thick, sticky spit,",
+  "words": [
+   [
+    "and",
+    18.6
+   ],
+   [
+    "thick",
+    18.82
+   ],
+   [
+    "sticky",
+    19.17
+   ],
+   [
+    "spit",
+    19.59
+   ]
+  ]
+ },
+ {
+  "s": 20.18,
+  "e": 22.0,
+  "text": "so ants come along for the ride.",
+  "words": [
+   [
+    "so",
+    20.18
+   ],
+   [
+    "ants",
+    20.32
+   ],
+   [
+    "come",
+    20.61
+   ],
+   [
+    "along",
+    20.91
+   ],
+   [
+    "for",
+    21.27
+   ],
+   [
+    "the",
+    21.49
+   ],
+   [
+    "ride",
+    21.71
+   ]
+  ]
+ },
+ {
+  "s": 22.55,
+  "e": 23.99,
+  "text": "With no teeth to chew them,",
+  "words": [
+   [
+    "with",
+    22.55
+   ],
+   [
+    "no",
+    22.82
+   ],
+   [
+    "teeth",
+    22.96
+   ],
+   [
+    "to",
+    23.3
+   ],
+   [
+    "chew",
+    23.44
+   ],
+   [
+    "them",
+    23.72
+   ]
+  ]
+ },
+ {
+  "s": 24.29,
+  "e": 26.71,
+  "text": "it crushes them against the roof of its mouth,",
+  "words": [
+   [
+    "it",
+    24.29
+   ],
+   [
+    "crushes",
+    24.42
+   ],
+   [
+    "them",
+    24.88
+   ],
+   [
+    "against",
+    25.14
+   ],
+   [
+    "the",
+    25.6
+   ],
+   [
+    "roof",
+    25.79
+   ],
+   [
+    "of",
+    26.06
+   ],
+   [
+    "its",
+    26.19
+   ],
+   [
+    "mouth",
+    26.38
+   ]
+  ]
+ },
+ {
+  "s": 27.01,
+  "e": 28.6,
+  "text": "and a very muscular stomach",
+  "words": [
+   [
+    "and",
+    27.01
+   ],
+   [
+    "a",
+    27.22
+   ],
+   [
+    "very",
+    27.29
+   ],
+   [
+    "muscular",
+    27.56
+   ],
+   [
+    "stomach",
+    28.12
+   ]
+  ]
+ },
+ {
+  "s": 28.9,
+  "e": 30.29,
+  "text": "pulverizes the rest.",
+  "words": [
+   [
+    "pulverizes",
+    28.9
+   ],
+   [
+    "the",
+    29.72
+   ],
+   [
+    "rest",
+    29.96
+   ]
+  ]
+ },
+ {
+  "s": 30.84,
+  "e": 33.05,
+  "text": "Scientists think swallowed grit helps too,",
+  "words": [
+   [
+    "scientists",
+    30.84
+   ],
+   [
+    "think",
+    31.45
+   ],
+   [
+    "swallowed",
+    31.76
+   ],
+   [
+    "grit",
+    32.31
+   ],
+   [
+    "helps",
+    32.56
+   ],
+   [
+    "too",
+    32.87
+   ]
+  ]
+ },
+ {
+  "s": 33.35,
+  "e": 34.92,
+  "text": "a bit like a bird's gizzard.",
+  "words": [
+   [
+    "a",
+    33.35
+   ],
+   [
+    "bit",
+    33.42
+   ],
+   [
+    "like",
+    33.65
+   ],
+   [
+    "a",
+    33.95
+   ],
+   [
+    "birds",
+    34.02
+   ],
+   [
+    "gizzard",
+    34.4
+   ]
+  ]
+ },
+ {
+  "s": 35.47,
+  "e": 36.51,
+  "text": "The clever part?",
+  "words": [
+   [
+    "the",
+    35.47
+   ],
+   [
+    "clever",
+    35.71
+   ],
+   [
+    "part",
+    36.19
+   ]
+  ]
+ },
+ {
+  "s": 37.06,
+  "e": 39.12,
+  "text": "It stays about a minute at each mound,",
+  "words": [
+   [
+    "it",
+    37.06
+   ],
+   [
+    "stays",
+    37.2
+   ],
+   [
+    "about",
+    37.54
+   ],
+   [
+    "a",
+    37.88
+   ],
+   [
+    "minute",
+    37.95
+   ],
+   [
+    "at",
+    38.36
+   ],
+   [
+    "each",
+    38.5
+   ],
+   [
+    "mound",
+    38.78
+   ]
+  ]
+ },
+ {
+  "s": 39.42,
+  "e": 40.45,
+  "text": "then moves on,",
+  "words": [
+   [
+    "then",
+    39.42
+   ],
+   [
+    "moves",
+    39.79
+   ],
+   [
+    "on",
+    40.26
+   ]
+  ]
+ },
+ {
+  "s": 40.75,
+  "e": 42.48,
+  "text": "before the ants can fight back.",
+  "words": [
+   [
+    "before",
+    40.75
+   ],
+   [
+    "the",
+    41.16
+   ],
+   [
+    "ants",
+    41.37
+   ],
+   [
+    "can",
+    41.65
+   ],
+   [
+    "fight",
+    41.86
+   ],
+   [
+    "back",
+    42.2
+   ]
+  ]
+ },
+ {
+  "s": 43.03,
+  "e": 45.53,
+  "text": "So if you had to eat thirty thousand of something,",
+  "words": [
+   [
+    "so",
+    43.03
+   ],
+   [
+    "if",
+    43.15
+   ],
+   [
+    "you",
+    43.28
+   ],
+   [
+    "had",
+    43.47
+   ],
+   [
+    "to",
+    43.65
+   ],
+   [
+    "eat",
+    43.78
+   ],
+   [
+    "thirty",
+    43.96
+   ],
+   [
+    "thousand",
+    44.34
+   ],
+   [
+    "of",
+    44.84
+   ],
+   [
+    "something",
+    44.96
+   ]
+  ]
+ },
+ {
+  "s": 45.83,
+  "e": 47.86,
+  "text": "with zero teeth, what would you pick?",
+  "words": [
+   [
+    "with",
+    45.83
+   ],
+   [
+    "zero",
+    46.11
+   ],
+   [
+    "teeth",
+    46.39
+   ],
+   [
+    "what",
+    46.74
+   ],
+   [
+    "would",
+    47.02
+   ],
+   [
+    "you",
+    47.37
+   ],
+   [
+    "pick",
+    47.58
+   ]
+  ]
+ }
+]
