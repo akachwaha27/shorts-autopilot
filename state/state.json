@@ -3151,7 +3151,77 @@
       "srt": "1\n00:00:00,250 --> 00:00:01,890\nPigeon heads never bob,\n\n2\n00:00:02,190 --> 00:00:04,250\nyou've been watching them freeze in midair.\n\n3\n00:00:04,800 --> 00:00:05,890\nWatch one walk,\n\n4\n00:00:06,190 --> 00:00:07,520\nthe head shoots forward,\n\n5\n00:00:07,820 --> 00:00:08,970\nabout two inches.\n\n6\n00:00:09,520 --> 00:00:10,540\nThat's the thrust.\n\n7\n00:00:11,090 --> 00:00:12,300\nThen it stops dead,\n\n8\n00:00:12,600 --> 00:00:13,650\nlocked in place,\n\n9\n00:00:13,950 --> 00:00:15,620\nwhile the body walks underneath it.\n\n10\n00:00:16,170 --> 00:00:17,150\nThat's the hold.\n\n11\n00:00:17,700 --> 00:00:18,900\nThen forward again,\n\n12\n00:00:19,200 --> 00:00:21,090\nfive to eight times every second.\n\n13\n00:00:21,640 --> 00:00:22,630\nBut why bother?\n\n14\n00:00:23,180 --> 00:00:24,730\nIn nineteen seventy-eight,\n\n15\n00:00:25,030 --> 00:00:27,990\nscientists in Canada put a pigeon on a treadmill.\n\n16\n00:00:28,540 --> 00:00:29,980\nIts legs kept walking,\n\n17\n00:00:30,280 --> 00:00:32,140\nbut the world around it stayed still,\n\n18\n00:00:32,440 --> 00:00:33,690\nand the bobbing stopped.\n\n19\n00:00:34,240 --> 00:00:35,960\nSo it isn't about balance,\n\n20\n00:00:36,260 --> 00:00:37,980\nit's about what the bird sees.\n\n21\n00:00:38,530 --> 00:00:40,830\nHolding its head still keeps the view steady,\n\n22\n00:00:41,130 --> 00:00:42,860\nlike a camera on a tripod,\n\n23\n00:00:43,160 --> 00:00:44,820\nwhile the world slides past.\n\n24\n00:00:45,370 --> 00:00:47,040\nChickens and cranes do it too.\n\n25\n00:00:47,590 --> 00:00:49,250\nSo next time you see a pigeon,\n\n26\n00:00:49,550 --> 00:00:50,470\nwatch the head.\n\n27\n00:00:51,020 --> 00:00:51,940\nIs it bobbing,\n\n28\n00:00:52,240 --> 00:00:53,390\nor standing still?\n\n",
       "tg_msg": 1008,
       "approved_by": "auto",
-      "quota_note": "2026-11-03"
+      "quota_note": "2026-11-04"
+    },
+    "2026-11-04-101": {
+      "topic": {
+        "title": "Why does melted cheese get so stretchy?",
+        "format": "animated",
+        "angle": "Claymation Set"
+      },
+      "package": {
+        "title": "The 80\u00b0C Trick That Makes Mozzarella So Stretchy \ud83e\uddc0",
+        "description": "Why does melted cheese stretch? Melted cheese is a net of casein proteins tied by calcium bonds, and mozzarella's hot water stretching lines them up into long fibers.\n\nSources:\nhttps://www.scientificamerican.com/article/why-cheeses-such-as-mozzarella-and-cheddar-melt-differently-than-ricotta/\nhttps://cheesescientist.com/science/mozzarella-stretchy/\nhttps://cheesescientist.com/science/why-cheeses-melt/\n\nAnimated in the Claymation Set style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#cheese",
+          "#foodscience",
+          "#mozzarella"
+        ],
+        "tags": [
+          "why does cheese stretch",
+          "cheese pull",
+          "melted cheese",
+          "mozzarella",
+          "casein",
+          "food science",
+          "pizza cheese",
+          "cheese science",
+          "why is mozzarella stretchy",
+          "pasta filata",
+          "ricotta",
+          "claymation explainer",
+          "how does it work"
+        ],
+        "category": "27",
+        "pinned_comment": "Which cheese has the best pull on your pizza?",
+        "thumbnail_text": "PROTEIN NET",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "Your pizza cheese hides a protein net, you've never seen. Long proteins called casein, are tied together by tiny calcium bonds, with fat and water stuck in the gaps. Cold, that net is stiff. Warm it up, and the fat melts first, then the bonds loosen. Now the strands slide past each other, without letting go. Mozzarella has an extra trick. Makers dunk the curd in hot water, around 70 to 80 degrees Celsius, then pull and fold it like dough, lining the proteins up in long fibers. Old cheese is different. As it ages, enzymes snip those strands, so it melts, but it won't stretch. Ricotta barely melts at all, its proteins are locked with permanent bonds. So a cheese pull is a net, bending but not breaking. Which cheese has the best pull on your pizza?",
+        "key_facts": [
+          "Cheese's casein proteins form a network held by weak bonds, with water and fat in it (Scientific American)",
+          "Calcium phosphate links casein; acid dissolves some of it, loosening the network (Scientific American, Cheese Scientist)",
+          "Fats start melting near room temperature, before the proteins soften (Scientific American)",
+          "Mozzarella curd is stretched in water at 70 to 80 C, aligning casein into parallel fibres (Cheese Scientist)",
+          "With ageing, enzymes snip casein, so cheese melts more easily but stretches less (Scientific American)",
+          "Ricotta's whey proteins have permanent sulfur bonds, so it softens rather than melts (Scientific American)"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Claymation Set"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261104-cheese-stretch",
+      "redos": 0,
+      "updated": "2026-11-04T02:27:09.770684+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Claymation Set style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-04",
+        "name": "2026-11-04-101.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-04",
+        "name": "2026-11-04-101-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:02,590\nYour pizza cheese hides a protein net,\n\n2\n00:00:02,890 --> 00:00:03,930\nyou've never seen.\n\n3\n00:00:04,480 --> 00:00:06,170\nLong proteins called casein,\n\n4\n00:00:06,470 --> 00:00:09,010\nare tied together by tiny calcium bonds,\n\n5\n00:00:09,310 --> 00:00:11,310\nwith fat and water stuck in the gaps.\n\n6\n00:00:11,860 --> 00:00:13,290\nCold, that net is stiff.\n\n7\n00:00:13,840 --> 00:00:15,890\nWarm it up, and the fat melts first,\n\n8\n00:00:16,190 --> 00:00:17,490\nthen the bonds loosen.\n\n9\n00:00:18,040 --> 00:00:20,220\nNow the strands slide past each other,\n\n10\n00:00:20,520 --> 00:00:21,690\nwithout letting go.\n\n11\n00:00:22,240 --> 00:00:24,240\nMozzarella has an extra trick.\n\n12\n00:00:24,790 --> 00:00:26,960\nMakers dunk the curd in hot water,\n\n13\n00:00:27,260 --> 00:00:29,650\naround 70 to 80 degrees Celsius,\n\n14\n00:00:29,950 --> 00:00:31,880\nthen pull and fold it like dough,\n\n15\n00:00:32,180 --> 00:00:34,570\nlining the proteins up in long fibers.\n\n16\n00:00:35,120 --> 00:00:36,600\nOld cheese is different.\n\n17\n00:00:37,150 --> 00:00:39,850\nAs it ages, enzymes snip those strands,\n\n18\n00:00:40,150 --> 00:00:41,910\nso it melts, but it won't stretch.\n\n19\n00:00:42,460 --> 00:00:44,220\nRicotta barely melts at all,\n\n20\n00:00:44,520 --> 00:00:47,100\nits proteins are locked with permanent bonds.\n\n21\n00:00:47,650 --> 00:00:49,110\nSo a cheese pull is a net,\n\n22\n00:00:49,410 --> 00:00:50,850\nbending but not breaking.\n\n23\n00:00:51,400 --> 00:00:53,730\nWhich cheese has the best pull on your pizza?\n\n",
+      "tg_msg": 1013
     }
   },
   "history": [
@@ -3230,7 +3300,7 @@
       "at": "2026-10-25T17:40:17.371797+00:00"
     }
   },
-  "cleanup_day": "2026-11-03",
+  "cleanup_day": "2026-11-04",
   "recent_voices": [
     "en-AU-WilliamMultilingualNeural",
     "en-US-EmmaMultilingualNeural",
@@ -3292,7 +3362,8 @@
     "drop/20261103-dog-wet-nose": "2026-11-03-102",
     "drop/20261103-grey-hair": "2026-11-03-103",
     "drop/20261103-honeybee-hive": "2026-11-03-104",
-    "drop/20261103-pigeon-head-bob": "2026-11-03-105"
+    "drop/20261103-pigeon-head-bob": "2026-11-03-105",
+    "drop/20261104-cheese-stretch": "2026-11-04-101"
   },
-  "refs_day": "2026-11-03"
+  "refs_day": "2026-11-04"
 }
