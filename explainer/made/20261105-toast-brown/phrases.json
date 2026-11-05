@@ -1,0 +1,695 @@
+[
+ {
+  "s": 0.25,
+  "e": 1.86,
+  "text": "You just ate molecules,",
+  "words": [
+   [
+    "you",
+    0.25
+   ],
+   [
+    "just",
+    0.5
+   ],
+   [
+    "ate",
+    0.84
+   ],
+   [
+    "molecules",
+    1.1
+   ]
+  ]
+ },
+ {
+  "s": 2.16,
+  "e": 3.5,
+  "text": "your bread never had.",
+  "words": [
+   [
+    "your",
+    2.16
+   ],
+   [
+    "bread",
+    2.47
+   ],
+   [
+    "never",
+    2.87
+   ],
+   [
+    "had",
+    3.26
+   ]
+  ]
+ },
+ {
+  "s": 4.05,
+  "e": 5.29,
+  "text": "That's what toast is.",
+  "words": [
+   [
+    "thats",
+    4.05
+   ],
+   [
+    "what",
+    4.44
+   ],
+   [
+    "toast",
+    4.75
+   ],
+   [
+    "is",
+    5.14
+   ]
+  ]
+ },
+ {
+  "s": 5.84,
+  "e": 7.68,
+  "text": "So why does it taste so much better?",
+  "words": [
+   [
+    "so",
+    5.84
+   ],
+   [
+    "why",
+    5.97
+   ],
+   [
+    "does",
+    6.17
+   ],
+   [
+    "it",
+    6.43
+   ],
+   [
+    "taste",
+    6.56
+   ],
+   [
+    "so",
+    6.89
+   ],
+   [
+    "much",
+    7.02
+   ],
+   [
+    "better",
+    7.29
+   ]
+  ]
+ },
+ {
+  "s": 8.23,
+  "e": 10.18,
+  "text": "Bread holds two key ingredients:",
+  "words": [
+   [
+    "bread",
+    8.23
+   ],
+   [
+    "holds",
+    8.59
+   ],
+   [
+    "two",
+    8.95
+   ],
+   [
+    "key",
+    9.17
+   ],
+   [
+    "ingredients",
+    9.39
+   ]
+  ]
+ },
+ {
+  "s": 10.48,
+  "e": 11.19,
+  "text": "sugars,",
+  "words": [
+   [
+    "sugars",
+    10.48
+   ]
+  ]
+ },
+ {
+  "s": 11.49,
+  "e": 12.74,
+  "text": "and amino acids,",
+  "words": [
+   [
+    "and",
+    11.49
+   ],
+   [
+    "amino",
+    11.78
+   ],
+   [
+    "acids",
+    12.26
+   ]
+  ]
+ },
+ {
+  "s": 13.04,
+  "e": 14.75,
+  "text": "the building blocks of protein.",
+  "words": [
+   [
+    "the",
+    13.04
+   ],
+   [
+    "building",
+    13.24
+   ],
+   [
+    "blocks",
+    13.77
+   ],
+   [
+    "of",
+    14.16
+   ],
+   [
+    "protein",
+    14.29
+   ]
+  ]
+ },
+ {
+  "s": 15.3,
+  "e": 15.99,
+  "text": "Normally,",
+  "words": [
+   [
+    "normally",
+    15.3
+   ]
+  ]
+ },
+ {
+  "s": 16.29,
+  "e": 17.92,
+  "text": "they mostly ignore each other.",
+  "words": [
+   [
+    "they",
+    16.29
+   ],
+   [
+    "mostly",
+    16.55
+   ],
+   [
+    "ignore",
+    16.94
+   ],
+   [
+    "each",
+    17.33
+   ],
+   [
+    "other",
+    17.59
+   ]
+  ]
+ },
+ {
+  "s": 18.47,
+  "e": 19.56,
+  "text": "But in the toaster,",
+  "words": [
+   [
+    "but",
+    18.47
+   ],
+   [
+    "in",
+    18.69
+   ],
+   [
+    "the",
+    18.83
+   ],
+   [
+    "toaster",
+    19.05
+   ]
+  ]
+ },
+ {
+  "s": 19.86,
+  "e": 22.36,
+  "text": "dry heat drives water out of the surface.",
+  "words": [
+   [
+    "dry",
+    19.86
+   ],
+   [
+    "heat",
+    20.09
+   ],
+   [
+    "drives",
+    20.39
+   ],
+   [
+    "water",
+    20.85
+   ],
+   [
+    "out",
+    21.23
+   ],
+   [
+    "of",
+    21.45
+   ],
+   [
+    "the",
+    21.6
+   ],
+   [
+    "surface",
+    21.83
+   ]
+  ]
+ },
+ {
+  "s": 22.91,
+  "e": 26.16,
+  "text": "Then, at around a hundred and forty degrees Celsius,",
+  "words": [
+   [
+    "then",
+    22.91
+   ],
+   [
+    "at",
+    23.22
+   ],
+   [
+    "around",
+    23.37
+   ],
+   [
+    "a",
+    23.84
+   ],
+   [
+    "hundred",
+    23.92
+   ],
+   [
+    "and",
+    24.46
+   ],
+   [
+    "forty",
+    24.69
+   ],
+   [
+    "degrees",
+    25.07
+   ],
+   [
+    "celsius",
+    25.62
+   ]
+  ]
+ },
+ {
+  "s": 26.46,
+  "e": 27.67,
+  "text": "they start reacting.",
+  "words": [
+   [
+    "they",
+    26.46
+   ],
+   [
+    "start",
+    26.74
+   ],
+   [
+    "reacting",
+    27.1
+   ]
+  ]
+ },
+ {
+  "s": 28.22,
+  "e": 29.95,
+  "text": "It's called the Maillard reaction,",
+  "words": [
+   [
+    "its",
+    28.22
+   ],
+   [
+    "called",
+    28.4
+   ],
+   [
+    "the",
+    28.77
+   ],
+   [
+    "maillard",
+    28.96
+   ],
+   [
+    "reaction",
+    29.45
+   ]
+  ]
+ },
+ {
+  "s": 30.25,
+  "e": 32.21,
+  "text": "first described in nineteen twelve.",
+  "words": [
+   [
+    "first",
+    30.25
+   ],
+   [
+    "described",
+    30.58
+   ],
+   [
+    "in",
+    31.17
+   ],
+   [
+    "nineteen",
+    31.3
+   ],
+   [
+    "twelve",
+    31.82
+   ]
+  ]
+ },
+ {
+  "s": 32.76,
+  "e": 35.47,
+  "text": "It builds hundreds of new flavor molecules,",
+  "words": [
+   [
+    "it",
+    32.76
+   ],
+   [
+    "builds",
+    32.91
+   ],
+   [
+    "hundreds",
+    33.36
+   ],
+   [
+    "of",
+    33.96
+   ],
+   [
+    "new",
+    34.11
+   ],
+   [
+    "flavor",
+    34.34
+   ],
+   [
+    "molecules",
+    34.79
+   ]
+  ]
+ },
+ {
+  "s": 35.77,
+  "e": 37.26,
+  "text": "nutty, roasty, toasty.",
+  "words": [
+   [
+    "nutty",
+    35.77
+   ],
+   [
+    "roasty",
+    36.2
+   ],
+   [
+    "toasty",
+    36.73
+   ]
+  ]
+ },
+ {
+  "s": 37.81,
+  "e": 38.7,
+  "text": "And the brown?",
+  "words": [
+   [
+    "and",
+    37.81
+   ],
+   [
+    "the",
+    38.05
+   ],
+   [
+    "brown",
+    38.29
+   ]
+  ]
+ },
+ {
+  "s": 39.25,
+  "e": 40.51,
+  "text": "That's melanoidins,",
+  "words": [
+   [
+    "thats",
+    39.25
+   ],
+   [
+    "melanoidins",
+    39.64
+   ]
+  ]
+ },
+ {
+  "s": 40.81,
+  "e": 42.39,
+  "text": "big brown molecules.",
+  "words": [
+   [
+    "big",
+    40.81
+   ],
+   [
+    "brown",
+    41.09
+   ],
+   [
+    "molecules",
+    41.55
+   ]
+  ]
+ },
+ {
+  "s": 42.94,
+  "e": 45.04,
+  "text": "The inside stays cooler and wetter,",
+  "words": [
+   [
+    "the",
+    42.94
+   ],
+   [
+    "inside",
+    43.16
+   ],
+   [
+    "stays",
+    43.6
+   ],
+   [
+    "cooler",
+    43.96
+   ],
+   [
+    "and",
+    44.39
+   ],
+   [
+    "wetter",
+    44.61
+   ]
+  ]
+ },
+ {
+  "s": 45.34,
+  "e": 47.03,
+  "text": "so it stays soft and pale.",
+  "words": [
+   [
+    "so",
+    45.34
+   ],
+   [
+    "it",
+    45.51
+   ],
+   [
+    "stays",
+    45.68
+   ],
+   [
+    "soft",
+    46.1
+   ],
+   [
+    "and",
+    46.44
+   ],
+   [
+    "pale",
+    46.69
+   ]
+  ]
+ },
+ {
+  "s": 47.58,
+  "e": 48.83,
+  "text": "Push it too far, though,",
+  "words": [
+   [
+    "push",
+    47.58
+   ],
+   [
+    "it",
+    47.86
+   ],
+   [
+    "too",
+    47.99
+   ],
+   [
+    "far",
+    48.2
+   ],
+   [
+    "though",
+    48.41
+   ]
+  ]
+ },
+ {
+  "s": 49.13,
+  "e": 50.98,
+  "text": "and it burns to bitter black char.",
+  "words": [
+   [
+    "and",
+    49.13
+   ],
+   [
+    "it",
+    49.34
+   ],
+   [
+    "burns",
+    49.47
+   ],
+   [
+    "to",
+    49.82
+   ],
+   [
+    "bitter",
+    49.95
+   ],
+   [
+    "black",
+    50.37
+   ],
+   [
+    "char",
+    50.71
+   ]
+  ]
+ },
+ {
+  "s": 51.53,
+  "e": 53.05,
+  "text": "So what's your perfect toast:",
+  "words": [
+   [
+    "so",
+    51.53
+   ],
+   [
+    "whats",
+    51.66
+   ],
+   [
+    "your",
+    51.99
+   ],
+   [
+    "perfect",
+    52.26
+   ],
+   [
+    "toast",
+    52.72
+   ]
+  ]
+ },
+ {
+  "s": 53.35,
+  "e": 55.16,
+  "text": "pale gold, or nearly burned?",
+  "words": [
+   [
+    "pale",
+    53.35
+   ],
+   [
+    "gold",
+    53.68
+   ],
+   [
+    "or",
+    54.01
+   ],
+   [
+    "nearly",
+    54.17
+   ],
+   [
+    "burned",
+    54.67
+   ]
+  ]
+ }
+]
