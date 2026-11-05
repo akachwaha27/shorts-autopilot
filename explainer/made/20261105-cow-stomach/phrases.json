@@ -1,0 +1,703 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.37,
+  "text": "Cows burp up their lunch on purpose,",
+  "words": [
+   [
+    "cows",
+    0.25
+   ],
+   [
+    "burp",
+    0.54
+   ],
+   [
+    "up",
+    0.84
+   ],
+   [
+    "their",
+    0.98
+   ],
+   [
+    "lunch",
+    1.35
+   ],
+   [
+    "on",
+    1.71
+   ],
+   [
+    "purpose",
+    1.86
+   ]
+  ]
+ },
+ {
+  "s": 2.67,
+  "e": 4.02,
+  "text": "and you'd never guess why.",
+  "words": [
+   [
+    "and",
+    2.67
+   ],
+   [
+    "youd",
+    2.87
+   ],
+   [
+    "never",
+    3.14
+   ],
+   [
+    "guess",
+    3.48
+   ],
+   [
+    "why",
+    3.82
+   ]
+  ]
+ },
+ {
+  "s": 4.57,
+  "e": 6.6,
+  "text": "Grass is really hard to digest.",
+  "words": [
+   [
+    "grass",
+    4.57
+   ],
+   [
+    "is",
+    4.98
+   ],
+   [
+    "really",
+    5.14
+   ],
+   [
+    "hard",
+    5.63
+   ],
+   [
+    "to",
+    5.95
+   ],
+   [
+    "digest",
+    6.11
+   ]
+  ]
+ },
+ {
+  "s": 7.15,
+  "e": 8.99,
+  "text": "Its walls are made of cellulose,",
+  "words": [
+   [
+    "its",
+    7.15
+   ],
+   [
+    "walls",
+    7.36
+   ],
+   [
+    "are",
+    7.72
+   ],
+   [
+    "made",
+    7.93
+   ],
+   [
+    "of",
+    8.21
+   ],
+   [
+    "cellulose",
+    8.36
+   ]
+  ]
+ },
+ {
+  "s": 9.29,
+  "e": 11.3,
+  "text": "and cows can't break that down alone.",
+  "words": [
+   [
+    "and",
+    9.29
+   ],
+   [
+    "cows",
+    9.5
+   ],
+   [
+    "cant",
+    9.78
+   ],
+   [
+    "break",
+    10.05
+   ],
+   [
+    "that",
+    10.4
+   ],
+   [
+    "down",
+    10.68
+   ],
+   [
+    "alone",
+    10.95
+   ]
+  ]
+ },
+ {
+  "s": 11.85,
+  "e": 13.77,
+  "text": "So one stomach has four rooms.",
+  "words": [
+   [
+    "so",
+    11.85
+   ],
+   [
+    "one",
+    12.01
+   ],
+   [
+    "stomach",
+    12.25
+   ],
+   [
+    "has",
+    12.81
+   ],
+   [
+    "four",
+    13.05
+   ],
+   [
+    "rooms",
+    13.37
+   ]
+  ]
+ },
+ {
+  "s": 14.32,
+  "e": 15.65,
+  "text": "Room one is the rumen,",
+  "words": [
+   [
+    "room",
+    14.32
+   ],
+   [
+    "one",
+    14.63
+   ],
+   [
+    "is",
+    14.86
+   ],
+   [
+    "the",
+    15.02
+   ],
+   [
+    "rumen",
+    15.25
+   ]
+  ]
+ },
+ {
+  "s": 15.95,
+  "e": 18.11,
+  "text": "a vat holding up to forty gallons.",
+  "words": [
+   [
+    "a",
+    15.95
+   ],
+   [
+    "vat",
+    16.03
+   ],
+   [
+    "holding",
+    16.27
+   ],
+   [
+    "up",
+    16.83
+   ],
+   [
+    "to",
+    16.99
+   ],
+   [
+    "forty",
+    17.15
+   ],
+   [
+    "gallons",
+    17.55
+   ]
+  ]
+ },
+ {
+  "s": 18.66,
+  "e": 20.52,
+  "text": "It's packed with tiny microbes,",
+  "words": [
+   [
+    "its",
+    18.66
+   ],
+   [
+    "packed",
+    18.88
+   ],
+   [
+    "with",
+    19.33
+   ],
+   [
+    "tiny",
+    19.63
+   ],
+   [
+    "microbes",
+    19.93
+   ]
+  ]
+ },
+ {
+  "s": 20.82,
+  "e": 22.23,
+  "text": "and they ferment the grass.",
+  "words": [
+   [
+    "and",
+    20.82
+   ],
+   [
+    "they",
+    21.01
+   ],
+   [
+    "ferment",
+    21.27
+   ],
+   [
+    "the",
+    21.72
+   ],
+   [
+    "grass",
+    21.91
+   ]
+  ]
+ },
+ {
+  "s": 22.78,
+  "e": 25.22,
+  "text": "Room two, the honeycomb, sorts the pieces.",
+  "words": [
+   [
+    "room",
+    22.78
+   ],
+   [
+    "two",
+    23.08
+   ],
+   [
+    "the",
+    23.3
+   ],
+   [
+    "honeycomb",
+    23.52
+   ],
+   [
+    "sorts",
+    24.19
+   ],
+   [
+    "the",
+    24.56
+   ],
+   [
+    "pieces",
+    24.78
+   ]
+  ]
+ },
+ {
+  "s": 25.77,
+  "e": 27.58,
+  "text": "Big chunks go back up her throat,",
+  "words": [
+   [
+    "big",
+    25.77
+   ],
+   [
+    "chunks",
+    25.98
+   ],
+   [
+    "go",
+    26.4
+   ],
+   [
+    "back",
+    26.54
+   ],
+   [
+    "up",
+    26.81
+   ],
+   [
+    "her",
+    26.95
+   ],
+   [
+    "throat",
+    27.16
+   ]
+  ]
+ },
+ {
+  "s": 27.88,
+  "e": 29.64,
+  "text": "as a soggy ball called cud.",
+  "words": [
+   [
+    "as",
+    27.88
+   ],
+   [
+    "a",
+    28.05
+   ],
+   [
+    "soggy",
+    28.13
+   ],
+   [
+    "ball",
+    28.55
+   ],
+   [
+    "called",
+    28.88
+   ],
+   [
+    "cud",
+    29.39
+   ]
+  ]
+ },
+ {
+  "s": 30.19,
+  "e": 31.43,
+  "text": "She chews it again,",
+  "words": [
+   [
+    "she",
+    30.19
+   ],
+   [
+    "chews",
+    30.44
+   ],
+   [
+    "it",
+    30.85
+   ],
+   [
+    "again",
+    31.01
+   ]
+  ]
+ },
+ {
+  "s": 31.73,
+  "e": 33.34,
+  "text": "for about eight hours a day.",
+  "words": [
+   [
+    "for",
+    31.73
+   ],
+   [
+    "about",
+    31.95
+   ],
+   [
+    "eight",
+    32.31
+   ],
+   [
+    "hours",
+    32.68
+   ],
+   [
+    "a",
+    33.05
+   ],
+   [
+    "day",
+    33.12
+   ]
+  ]
+ },
+ {
+  "s": 33.89,
+  "e": 35.91,
+  "text": "Fine mush slides into room three,",
+  "words": [
+   [
+    "fine",
+    33.89
+   ],
+   [
+    "mush",
+    34.19
+   ],
+   [
+    "slides",
+    34.49
+   ],
+   [
+    "into",
+    34.94
+   ],
+   [
+    "room",
+    35.24
+   ],
+   [
+    "three",
+    35.54
+   ]
+  ]
+ },
+ {
+  "s": 36.21,
+  "e": 37.73,
+  "text": "where water gets squeezed out.",
+  "words": [
+   [
+    "where",
+    36.21
+   ],
+   [
+    "water",
+    36.51
+   ],
+   [
+    "gets",
+    36.82
+   ],
+   [
+    "squeezed",
+    37.06
+   ],
+   [
+    "out",
+    37.54
+   ]
+  ]
+ },
+ {
+  "s": 38.28,
+  "e": 40.17,
+  "text": "Room four is the true stomach,",
+  "words": [
+   [
+    "room",
+    38.28
+   ],
+   [
+    "four",
+    38.59
+   ],
+   [
+    "is",
+    38.91
+   ],
+   [
+    "the",
+    39.06
+   ],
+   [
+    "true",
+    39.3
+   ],
+   [
+    "stomach",
+    39.61
+   ]
+  ]
+ },
+ {
+  "s": 40.47,
+  "e": 42.19,
+  "text": "full of acid, like yours.",
+  "words": [
+   [
+    "full",
+    40.47
+   ],
+   [
+    "of",
+    40.83
+   ],
+   [
+    "acid",
+    41.01
+   ],
+   [
+    "like",
+    41.37
+   ],
+   [
+    "yours",
+    41.73
+   ]
+  ]
+ },
+ {
+  "s": 42.74,
+  "e": 44.57,
+  "text": "All that fermenting makes gas,",
+  "words": [
+   [
+    "all",
+    42.74
+   ],
+   [
+    "that",
+    42.95
+   ],
+   [
+    "fermenting",
+    43.25
+   ],
+   [
+    "makes",
+    43.98
+   ],
+   [
+    "gas",
+    44.35
+   ]
+  ]
+ },
+ {
+  "s": 44.87,
+  "e": 47.14,
+  "text": "hundreds of litres of methane a day,",
+  "words": [
+   [
+    "hundreds",
+    44.87
+   ],
+   [
+    "of",
+    45.49
+   ],
+   [
+    "litres",
+    45.65
+   ],
+   [
+    "of",
+    46.12
+   ],
+   [
+    "methane",
+    46.28
+   ],
+   [
+    "a",
+    46.83
+   ],
+   [
+    "day",
+    46.91
+   ]
+  ]
+ },
+ {
+  "s": 47.44,
+  "e": 48.57,
+  "text": "and she burps it out.",
+  "words": [
+   [
+    "and",
+    47.44
+   ],
+   [
+    "she",
+    47.65
+   ],
+   [
+    "burps",
+    47.86
+   ],
+   [
+    "it",
+    48.22
+   ],
+   [
+    "out",
+    48.36
+   ]
+  ]
+ },
+ {
+  "s": 49.12,
+  "e": 50.95,
+  "text": "So, would you chew your lunch twice?",
+  "words": [
+   [
+    "so",
+    49.12
+   ],
+   [
+    "would",
+    49.25
+   ],
+   [
+    "you",
+    49.58
+   ],
+   [
+    "chew",
+    49.78
+   ],
+   [
+    "your",
+    50.04
+   ],
+   [
+    "lunch",
+    50.3
+   ],
+   [
+    "twice",
+    50.63
+   ]
+  ]
+ }
+]
