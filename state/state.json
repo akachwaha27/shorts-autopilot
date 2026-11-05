@@ -378,97 +378,6 @@
     }
   },
   "videos": {
-    "2026-10-30-101": {
-      "topic": {
-        "title": "How does a tiny shrimp's snap make a bubble as hot as the Sun?",
-        "format": "animated",
-        "angle": "16-Bit Pixel Odyssey"
-      },
-      "package": {
-        "title": "How a Tiny Shrimp Makes a 4,700\u00b0C Bubble \ud83e\udd90",
-        "description": "How does a pistol shrimp (snapping shrimp) snap its claw so fast that it makes a bubble almost as hot as the surface of the Sun? Its claw fires a water jet at about 90 km/h, the water tears into a cavitation bubble, and when that bubble collapses it heats to about 4,700\u00b0C, flashes light and makes one of the loudest sounds in the ocean.\n\nSources:\nhttps://physicsworld.com/a/the-bubble-bursts-for-shrimps/\nhttps://research.utwente.nl/en/publications/on-the-sound-of-snapping-shrimp-the-collapse-of-a-cavitation-bubb/\nhttps://mentalfloss.com/article/26068/pistol-shrimp-pack-some-serious-heat\n\nAnimated in the 16-Bit Pixel Odyssey style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#pistolshrimp",
-          "#animalfacts",
-          "#science"
-        ],
-        "tags": [
-          "pistol shrimp",
-          "snapping shrimp",
-          "pistol shrimp snap",
-          "cavitation bubble",
-          "shrimp hotter than the sun",
-          "loudest animal in the ocean",
-          "shrimpoluminescence",
-          "animal facts",
-          "ocean animals",
-          "how does it work",
-          "science explained",
-          "pixel art animation",
-          "sea creatures"
-        ],
-        "category": "27",
-        "pinned_comment": "Which animal do you think could beat the pistol shrimp's snap? \ud83e\udd90",
-        "thumbnail_text": "HOT AS SUN",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "A shrimp smaller than your finger,\nfires a bubble almost as hot as the Sun.\nBut how?\nMeet the pistol shrimp.\nOne claw is huge,\nand it cocks open like a gun's hammer.\nWhen it snaps shut,\na plug slams into a socket,\nand fires a jet of water,\nat about ninety kilometres an hour.\nThat jet is so fast,\nthe water behind it rips apart,\ninto a tiny bubble.\nThen the bubble collapses,\nin less than a thousandth of a second.\nInside, it hits about four thousand seven hundred degrees,\nnearly as hot as the Sun's surface.\nIt even flashes light.\nAnd that bang isn't the claw.\nIt's the bubble popping,\none of the loudest sounds in the ocean,\nloud enough to stun a passing fish.\nSo what animal could beat this shrimp's snap?",
-        "key_facts": [
-          "The pistol shrimp's big claw has a plug that slams into a socket when it snaps shut, firing a water jet (about 90 km/h, ~25 m/s)",
-          "The jet is so fast the pressure behind it drops and the water forms a cavitation bubble (Versluis et al., Science 2000)",
-          "The bubble collapses in well under a millisecond and its inside is estimated to reach about 4,700\u00b0C (over 5,000 K), close to the Sun's surface (~5,500\u00b0C)",
-          "The collapse emits a brief flash of light (shrimpoluminescence, Lohse et al., Nature 2001)",
-          "The snap's sound comes from the bubble collapse, not the claw closing; it is among the loudest sounds in the ocean and can stun small prey"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "16-Bit Pixel Odyssey"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261029-pistol-shrimp",
-      "redos": 0,
-      "updated": "2026-10-30T07:16:02.738663+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (16-Bit Pixel Odyssey style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-30",
-        "name": "2026-10-30-101.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-30",
-        "name": "2026-10-30-101-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:01,930\nA shrimp smaller than your finger,\n\n2\n00:00:02,230 --> 00:00:04,840\nfires a bubble almost as hot as the Sun.\n\n3\n00:00:05,390 --> 00:00:06,140\nBut how?\n\n4\n00:00:06,690 --> 00:00:08,040\nMeet the pistol shrimp.\n\n5\n00:00:08,590 --> 00:00:09,890\nOne claw is huge,\n\n6\n00:00:10,190 --> 00:00:12,270\nand it cocks open like a gun's hammer.\n\n7\n00:00:12,820 --> 00:00:13,910\nWhen it snaps shut,\n\n8\n00:00:14,210 --> 00:00:15,930\na plug slams into a socket,\n\n9\n00:00:16,230 --> 00:00:17,860\nand fires a jet of water,\n\n10\n00:00:18,160 --> 00:00:20,160\nat about ninety kilometres an hour.\n\n11\n00:00:20,710 --> 00:00:22,170\nThat jet is so fast,\n\n12\n00:00:22,470 --> 00:00:24,350\nthe water behind it rips apart,\n\n13\n00:00:24,650 --> 00:00:25,890\ninto a tiny bubble.\n\n14\n00:00:26,440 --> 00:00:27,880\nThen the bubble collapses,\n\n15\n00:00:28,180 --> 00:00:30,420\nin less than a thousandth of a second.\n\n16\n00:00:30,970 --> 00:00:34,650\nInside, it hits about four thousand seven hundred degrees,\n\n17\n00:00:34,950 --> 00:00:37,050\nnearly as hot as the Sun's surface.\n\n18\n00:00:37,600 --> 00:00:38,960\nIt even flashes light.\n\n19\n00:00:39,510 --> 00:00:41,060\nAnd that bang isn't the claw.\n\n20\n00:00:41,610 --> 00:00:42,900\nIt's the bubble popping,\n\n21\n00:00:43,200 --> 00:00:45,160\none of the loudest sounds in the ocean,\n\n22\n00:00:45,460 --> 00:00:47,410\nloud enough to stun a passing fish.\n\n23\n00:00:47,960 --> 00:00:50,280\nSo what animal could beat this shrimp's snap?\n\n",
-      "tg_msg": 920,
-      "approved_by": "auto",
-      "description_full": "How does a pistol shrimp (snapping shrimp) snap its claw so fast that it makes a bubble almost as hot as the surface of the Sun? Its claw fires a water jet at about 90 km/h, the water tears into a cavitation bubble, and when that bubble collapses it heats to about 4,700\u00b0C, flashes light and makes one of the loudest sounds in the ocean.\n\nSources:\nhttps://physicsworld.com/a/the-bubble-bursts-for-shrimps/\nhttps://research.utwente.nl/en/publications/on-the-sound-of-snapping-shrimp-the-collapse-of-a-cavitation-bubb/\nhttps://mentalfloss.com/article/26068/pistol-shrimp-pack-some-serious-heat\n\nAnimated in the 16-Bit Pixel Odyssey style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #pistolshrimp #animalfacts #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (16-Bit Pixel Odyssey style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/_4amUqHWio8",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-30T07:16:02.738683+00:00",
-      "slot": "2026-11-03T00:15:00+00:00"
-    },
     "2026-10-30-102": {
       "topic": {
         "title": "Why is a cat's tongue so rough?",
@@ -3122,12 +3031,12 @@
         "format": "animated",
         "style": "Flat-Vector Science"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261105-toast-brown",
       "redos": 0,
-      "updated": "2026-11-05T03:33:41.050113+00:00",
+      "updated": "2026-11-05T11:29:29.888503+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech."
       ],
@@ -3142,7 +3051,98 @@
         "name": "2026-11-05-101-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:01,860\nYou just ate molecules,\n\n2\n00:00:02,160 --> 00:00:03,500\nyour bread never had.\n\n3\n00:00:04,050 --> 00:00:05,290\nThat's what toast is.\n\n4\n00:00:05,840 --> 00:00:07,680\nSo why does it taste so much better?\n\n5\n00:00:08,230 --> 00:00:10,180\nBread holds two key ingredients:\n\n6\n00:00:10,480 --> 00:00:11,190\nsugars,\n\n7\n00:00:11,490 --> 00:00:12,740\nand amino acids,\n\n8\n00:00:13,040 --> 00:00:14,750\nthe building blocks of protein.\n\n9\n00:00:15,300 --> 00:00:15,990\nNormally,\n\n10\n00:00:16,290 --> 00:00:17,920\nthey mostly ignore each other.\n\n11\n00:00:18,470 --> 00:00:19,560\nBut in the toaster,\n\n12\n00:00:19,860 --> 00:00:22,360\ndry heat drives water out of the surface.\n\n13\n00:00:22,910 --> 00:00:26,160\nThen, at around a hundred and forty degrees Celsius,\n\n14\n00:00:26,460 --> 00:00:27,670\nthey start reacting.\n\n15\n00:00:28,220 --> 00:00:29,950\nIt's called the Maillard reaction,\n\n16\n00:00:30,250 --> 00:00:32,210\nfirst described in nineteen twelve.\n\n17\n00:00:32,760 --> 00:00:35,470\nIt builds hundreds of new flavor molecules,\n\n18\n00:00:35,770 --> 00:00:37,260\nnutty, roasty, toasty.\n\n19\n00:00:37,810 --> 00:00:38,700\nAnd the brown?\n\n20\n00:00:39,250 --> 00:00:40,510\nThat's melanoidins,\n\n21\n00:00:40,810 --> 00:00:42,390\nbig brown molecules.\n\n22\n00:00:42,940 --> 00:00:45,040\nThe inside stays cooler and wetter,\n\n23\n00:00:45,340 --> 00:00:47,030\nso it stays soft and pale.\n\n24\n00:00:47,580 --> 00:00:48,830\nPush it too far, though,\n\n25\n00:00:49,130 --> 00:00:50,980\nand it burns to bitter black char.\n\n26\n00:00:51,530 --> 00:00:53,050\nSo what's your perfect toast:\n\n27\n00:00:53,350 --> 00:00:55,160\npale gold, or nearly burned?\n\n",
-      "tg_msg": 1027
+      "tg_msg": 1027,
+      "approved_by": "auto",
+      "description_full": "Why does toast turn brown and taste better than bread? In a toaster, dry heat starts the Maillard reaction between sugars and amino acids, building hundreds of new flavor molecules and brown melanoidins.\n\nSources:\nhttps://en.wikipedia.org/wiki/Maillard_reaction\nhttps://www.chemistryworld.com/features/the-marvellous-maillard-reaction/3009723.article\nhttps://www.scienceabc.com/pure-sciences/why-does-bread-turn-so-crispy-and-tasty-when-toasted-maillard-reaction.html\n\nAnimated in the Flat-Vector Science style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #science #foodscience #didyouknow\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/8k7FZEQFvFE",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-05T11:29:29.888522+00:00",
+      "slot": "2026-11-10T17:15:00+00:00"
+    },
+    "2026-11-05-102": {
+      "topic": {
+        "title": "Why do snakes flick their forked tongues?",
+        "format": "animated",
+        "angle": "Low-Poly Faceted"
+      },
+      "package": {
+        "title": "Snake Tongues Sample 100x More Air. Why Do They Flick? \ud83d\udc0d",
+        "description": "Why do snakes flick their forked tongues? The tongue collects scent particles for the Jacobson's organ in the roof of the mouth, and its two tips let a snake smell in stereo.\n\nSources:\nhttps://www.livescience.com/47146-explainer-why-do-snakes-flick-their-tongues.html\nhttps://www.britannica.com/story/smelling-in-stereo--the-real-reason-snakes-have-flicking-forkedtongues\nhttps://today.uconn.edu/?p=174171\n\nAnimated in the Low-Poly Faceted style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#snakes",
+          "#animals",
+          "#science"
+        ],
+        "tags": [
+          "why do snakes flick their tongues",
+          "snake tongue",
+          "forked tongue",
+          "jacobson's organ",
+          "vomeronasal organ",
+          "smelling in stereo",
+          "snake facts",
+          "how snakes smell",
+          "animal facts",
+          "reptiles",
+          "science explained",
+          "low poly animation",
+          "animal senses"
+        ],
+        "category": "27",
+        "pinned_comment": "If your tongue could smell, what would you follow first?",
+        "thumbnail_text": "Smell in stereo",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "A snake's tongue can't taste a thing, so why do you see it flick nonstop? Because it's a scent collector. Each flick grabs tiny particles, from the air and the ground. It pulls back in, and drops them inside the mouth. From there, they reach a special organ, in the roof of the mouth. That's where the smelling happens. Now look at the fork. The two tips spread apart, up to twice as wide as its head. So each tip samples a different spot, like your two ears. If the left tip smells stronger, dinner went left. That's smelling in stereo. In the air, the flicking tongue whips up tiny swirls, that pull smells in, sampling a hundred times more air, than a simple dip. If your tongue could smell, what would you follow first?",
+        "key_facts": [
+          "The tongue has no taste or smell receptors; those are in the vomeronasal (Jacobson's) organ in the roof of the mouth (Live Science)",
+          "Chemicals are deposited inside the mouth and reach the organ; X-ray work points to floor-of-mouth pads, Schwenk describes tip-to-organ delivery, so the script says only 'inside the mouth' then 'reach'",
+          "Tips can spread up to twice the head's width (Live Science)",
+          "Each tip compares sides so the brain senses which is stronger (Schwenk, Britannica)",
+          "Oscillating flicks create vortices and sample 100 times as much air as a simple downward extension (Live Science)"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Low-Poly Faceted"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261105-snake-tongue",
+      "redos": 0,
+      "updated": "2026-11-05T11:29:17.655411+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Low-Poly Faceted style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-05",
+        "name": "2026-11-05-102.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-05",
+        "name": "2026-11-05-102-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:02,100\nA snake's tongue can't taste a thing,\n\n2\n00:00:02,400 --> 00:00:04,540\nso why do you see it flick nonstop?\n\n3\n00:00:05,090 --> 00:00:06,610\nBecause it's a scent collector.\n\n4\n00:00:07,160 --> 00:00:09,210\nEach flick grabs tiny particles,\n\n5\n00:00:09,510 --> 00:00:11,050\nfrom the air and the ground.\n\n6\n00:00:11,600 --> 00:00:12,700\nIt pulls back in,\n\n7\n00:00:13,000 --> 00:00:14,780\nand drops them inside the mouth.\n\n8\n00:00:15,330 --> 00:00:17,510\nFrom there, they reach a special organ,\n\n9\n00:00:17,810 --> 00:00:19,200\nin the roof of the mouth.\n\n10\n00:00:19,750 --> 00:00:21,350\nThat's where the smelling happens.\n\n11\n00:00:21,900 --> 00:00:23,130\nNow look at the fork.\n\n12\n00:00:23,680 --> 00:00:25,050\nThe two tips spread apart,\n\n13\n00:00:25,350 --> 00:00:27,400\nup to twice as wide as its head.\n\n14\n00:00:27,950 --> 00:00:29,960\nSo each tip samples a different spot,\n\n15\n00:00:30,260 --> 00:00:31,510\nlike your two ears.\n\n16\n00:00:32,060 --> 00:00:33,830\nIf the left tip smells stronger,\n\n17\n00:00:34,130 --> 00:00:35,200\ndinner went left.\n\n18\n00:00:35,750 --> 00:00:37,250\nThat's smelling in stereo.\n\n19\n00:00:37,800 --> 00:00:38,590\nIn the air,\n\n20\n00:00:38,890 --> 00:00:41,150\nthe flicking tongue whips up tiny swirls,\n\n21\n00:00:41,450 --> 00:00:42,710\nthat pull smells in,\n\n22\n00:00:43,010 --> 00:00:44,970\nsampling a hundred times more air,\n\n23\n00:00:45,270 --> 00:00:46,420\nthan a simple dip.\n\n24\n00:00:46,970 --> 00:00:48,320\nIf your tongue could smell,\n\n25\n00:00:48,620 --> 00:00:50,020\nwhat would you follow first?\n\n",
+      "tg_msg": 1028
     }
   },
   "history": [
@@ -3232,7 +3232,7 @@
   "visual_searches": {
     "2026-10-25": 3
   },
-  "signals_day": "2026-11-04",
+  "signals_day": "2026-11-05",
   "drops_done": {
     "drop/20261025-autumn-leaves": "2026-10-25-101",
     "drop/20261025-roman-hypocaust": "2026-10-25-102",
@@ -3289,7 +3289,8 @@
     "drop/20261104-why-hiccups": "2026-11-04-103",
     "drop/20261104-why-we-blink": "2026-11-04-104",
     "drop/20261104-anteater-no-teeth": "2026-11-04-105",
-    "drop/20261105-toast-brown": "2026-11-05-101"
+    "drop/20261105-toast-brown": "2026-11-05-101",
+    "drop/20261105-snake-tongue": "2026-11-05-102"
   },
   "refs_day": "2026-11-05"
 }
