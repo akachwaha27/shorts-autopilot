@@ -1,0 +1,2682 @@
+[
+ {
+  "s": 0.25,
+  "e": 1.96,
+  "text": "You sleep with your whole brain.",
+  "words": [
+   [
+    "you",
+    0.25
+   ],
+   [
+    "sleep",
+    0.45
+   ],
+   [
+    "with",
+    0.78
+   ],
+   [
+    "your",
+    1.04
+   ],
+   [
+    "whole",
+    1.3
+   ],
+   [
+    "brain",
+    1.63
+   ]
+  ]
+ },
+ {
+  "s": 2.51,
+  "e": 5.41,
+  "text": "Dolphins can't: one full nap and they'd drown.",
+  "words": [
+   [
+    "dolphins",
+    2.51
+   ],
+   [
+    "cant",
+    3.17
+   ],
+   [
+    "one",
+    3.5
+   ],
+   [
+    "full",
+    3.75
+   ],
+   [
+    "nap",
+    4.08
+   ],
+   [
+    "and",
+    4.33
+   ],
+   [
+    "theyd",
+    4.58
+   ],
+   [
+    "drown",
+    5.0
+   ]
+  ]
+ },
+ {
+  "s": 5.96,
+  "e": 8.19,
+  "text": "So how do they sleep eight hours a day?",
+  "words": [
+   [
+    "so",
+    5.96
+   ],
+   [
+    "how",
+    6.11
+   ],
+   [
+    "do",
+    6.33
+   ],
+   [
+    "they",
+    6.48
+   ],
+   [
+    "sleep",
+    6.78
+   ],
+   [
+    "eight",
+    7.15
+   ],
+   [
+    "hours",
+    7.52
+   ],
+   [
+    "a",
+    7.9
+   ],
+   [
+    "day",
+    7.97
+   ]
+  ]
+ },
+ {
+  "s": 8.74,
+  "e": 9.99,
+  "text": "You pass out at night,",
+  "words": [
+   [
+    "you",
+    8.74
+   ],
+   [
+    "pass",
+    8.96
+   ],
+   [
+    "out",
+    9.26
+   ],
+   [
+    "at",
+    9.48
+   ],
+   [
+    "night",
+    9.62
+   ]
+  ]
+ },
+ {
+  "s": 10.29,
+  "e": 12.57,
+  "text": "and your body keeps breathing without asking.",
+  "words": [
+   [
+    "and",
+    10.29
+   ],
+   [
+    "your",
+    10.47
+   ],
+   [
+    "body",
+    10.71
+   ],
+   [
+    "keeps",
+    10.95
+   ],
+   [
+    "breathing",
+    11.25
+   ],
+   [
+    "without",
+    11.79
+   ],
+   [
+    "asking",
+    12.21
+   ]
+  ]
+ },
+ {
+  "s": 13.12,
+  "e": 14.86,
+  "text": "A dolphin doesn't get that deal.",
+  "words": [
+   [
+    "a",
+    13.12
+   ],
+   [
+    "dolphin",
+    13.19
+   ],
+   [
+    "doesnt",
+    13.67
+   ],
+   [
+    "get",
+    14.09
+   ],
+   [
+    "that",
+    14.3
+   ],
+   [
+    "deal",
+    14.58
+   ]
+  ]
+ },
+ {
+  "s": 15.41,
+  "e": 17.85,
+  "text": "Dolphins are mammals, so they breathe air,",
+  "words": [
+   [
+    "dolphins",
+    15.41
+   ],
+   [
+    "are",
+    15.98
+   ],
+   [
+    "mammals",
+    16.2
+   ],
+   [
+    "so",
+    16.7
+   ],
+   [
+    "they",
+    16.84
+   ],
+   [
+    "breathe",
+    17.13
+   ],
+   [
+    "air",
+    17.63
+   ]
+  ]
+ },
+ {
+  "s": 18.15,
+  "e": 18.95,
+  "text": "like you.",
+  "words": [
+   [
+    "like",
+    18.15
+   ],
+   [
+    "you",
+    18.6
+   ]
+  ]
+ },
+ {
+  "s": 19.5,
+  "e": 21.12,
+  "text": "But every breath is a choice.",
+  "words": [
+   [
+    "but",
+    19.5
+   ],
+   [
+    "every",
+    19.71
+   ],
+   [
+    "breath",
+    20.06
+   ],
+   [
+    "is",
+    20.49
+   ],
+   [
+    "a",
+    20.63
+   ],
+   [
+    "choice",
+    20.7
+   ]
+  ]
+ },
+ {
+  "s": 21.67,
+  "e": 24.64,
+  "text": "The blowhole on top of its head is a flap of skin,",
+  "words": [
+   [
+    "the",
+    21.67
+   ],
+   [
+    "blowhole",
+    21.91
+   ],
+   [
+    "on",
+    22.53
+   ],
+   [
+    "top",
+    22.69
+   ],
+   [
+    "of",
+    22.92
+   ],
+   [
+    "its",
+    23.08
+   ],
+   [
+    "head",
+    23.31
+   ],
+   [
+    "is",
+    23.62
+   ],
+   [
+    "a",
+    23.78
+   ],
+   [
+    "flap",
+    23.86
+   ],
+   [
+    "of",
+    24.17
+   ],
+   [
+    "skin",
+    24.32
+   ]
+  ]
+ },
+ {
+  "s": 24.94,
+  "e": 27.32,
+  "text": "and scientists think it opens on purpose,",
+  "words": [
+   [
+    "and",
+    24.94
+   ],
+   [
+    "scientists",
+    25.15
+   ],
+   [
+    "think",
+    25.85
+   ],
+   [
+    "it",
+    26.2
+   ],
+   [
+    "opens",
+    26.34
+   ],
+   [
+    "on",
+    26.69
+   ],
+   [
+    "purpose",
+    26.83
+   ]
+  ]
+ },
+ {
+  "s": 27.62,
+  "e": 28.8,
+  "text": "not automatically.",
+  "words": [
+   [
+    "not",
+    27.62
+   ],
+   [
+    "automatically",
+    27.84
+   ]
+  ]
+ },
+ {
+  "s": 29.35,
+  "e": 32.78,
+  "text": "The dolphin swims up, opens it, breathes out and in,",
+  "words": [
+   [
+    "the",
+    29.35
+   ],
+   [
+    "dolphin",
+    29.61
+   ],
+   [
+    "swims",
+    30.21
+   ],
+   [
+    "up",
+    30.64
+   ],
+   [
+    "opens",
+    30.81
+   ],
+   [
+    "it",
+    31.24
+   ],
+   [
+    "breathes",
+    31.41
+   ],
+   [
+    "out",
+    32.1
+   ],
+   [
+    "and",
+    32.35
+   ],
+   [
+    "in",
+    32.61
+   ]
+  ]
+ },
+ {
+  "s": 33.08,
+  "e": 34.24,
+  "text": "then snaps it shut.",
+  "words": [
+   [
+    "then",
+    33.08
+   ],
+   [
+    "snaps",
+    33.39
+   ],
+   [
+    "it",
+    33.78
+   ],
+   [
+    "shut",
+    33.93
+   ]
+  ]
+ },
+ {
+  "s": 34.79,
+  "e": 37.46,
+  "text": "So picture one falling fully asleep at sea.",
+  "words": [
+   [
+    "so",
+    34.79
+   ],
+   [
+    "picture",
+    34.94
+   ],
+   [
+    "one",
+    35.48
+   ],
+   [
+    "falling",
+    35.7
+   ],
+   [
+    "fully",
+    36.24
+   ],
+   [
+    "asleep",
+    36.62
+   ],
+   [
+    "at",
+    37.08
+   ],
+   [
+    "sea",
+    37.23
+   ]
+  ]
+ },
+ {
+  "s": 38.01,
+  "e": 39.71,
+  "text": "Nobody's at the controls.",
+  "words": [
+   [
+    "nobodys",
+    38.01
+   ],
+   [
+    "at",
+    38.61
+   ],
+   [
+    "the",
+    38.78
+   ],
+   [
+    "controls",
+    39.03
+   ]
+  ]
+ },
+ {
+  "s": 40.26,
+  "e": 41.52,
+  "text": "The air stops coming,",
+  "words": [
+   [
+    "the",
+    40.26
+   ],
+   [
+    "air",
+    40.48
+   ],
+   [
+    "stops",
+    40.71
+   ],
+   [
+    "coming",
+    41.08
+   ]
+  ]
+ },
+ {
+  "s": 41.82,
+  "e": 43.23,
+  "text": "and the water's right there.",
+  "words": [
+   [
+    "and",
+    41.82
+   ],
+   [
+    "the",
+    42.01
+   ],
+   [
+    "waters",
+    42.2
+   ],
+   [
+    "right",
+    42.59
+   ],
+   [
+    "there",
+    42.91
+   ]
+  ]
+ },
+ {
+  "s": 43.78,
+  "e": 46.59,
+  "text": "So how do you rest a brain that can never switch off?",
+  "words": [
+   [
+    "so",
+    43.78
+   ],
+   [
+    "how",
+    43.92
+   ],
+   [
+    "do",
+    44.12
+   ],
+   [
+    "you",
+    44.26
+   ],
+   [
+    "rest",
+    44.47
+   ],
+   [
+    "a",
+    44.74
+   ],
+   [
+    "brain",
+    44.81
+   ],
+   [
+    "that",
+    45.15
+   ],
+   [
+    "can",
+    45.42
+   ],
+   [
+    "never",
+    45.63
+   ],
+   [
+    "switch",
+    45.97
+   ],
+   [
+    "off",
+    46.38
+   ]
+  ]
+ },
+ {
+  "s": 47.14,
+  "e": 48.55,
+  "text": "You switch off half of it.",
+  "words": [
+   [
+    "you",
+    47.14
+   ],
+   [
+    "switch",
+    47.35
+   ],
+   [
+    "off",
+    47.77
+   ],
+   [
+    "half",
+    47.99
+   ],
+   [
+    "of",
+    48.27
+   ],
+   [
+    "it",
+    48.41
+   ]
+  ]
+ },
+ {
+  "s": 49.1,
+  "e": 51.0,
+  "text": "It's called unihemispheric sleep,",
+  "words": [
+   [
+    "its",
+    49.1
+   ],
+   [
+    "called",
+    49.31
+   ],
+   [
+    "unihemispheric",
+    49.71
+   ],
+   [
+    "sleep",
+    50.66
+   ]
+  ]
+ },
+ {
+  "s": 51.3,
+  "e": 53.67,
+  "text": "which is a big word for one side at a time.",
+  "words": [
+   [
+    "which",
+    51.3
+   ],
+   [
+    "is",
+    51.67
+   ],
+   [
+    "a",
+    51.82
+   ],
+   [
+    "big",
+    51.89
+   ],
+   [
+    "word",
+    52.11
+   ],
+   [
+    "for",
+    52.41
+   ],
+   [
+    "one",
+    52.63
+   ],
+   [
+    "side",
+    52.85
+   ],
+   [
+    "at",
+    53.15
+   ],
+   [
+    "a",
+    53.3
+   ],
+   [
+    "time",
+    53.37
+   ]
+  ]
+ },
+ {
+  "s": 54.22,
+  "e": 57.29,
+  "text": "One half of the brain drops into slow, deep waves.",
+  "words": [
+   [
+    "one",
+    54.22
+   ],
+   [
+    "half",
+    54.45
+   ],
+   [
+    "of",
+    54.77
+   ],
+   [
+    "the",
+    54.93
+   ],
+   [
+    "brain",
+    55.16
+   ],
+   [
+    "drops",
+    55.56
+   ],
+   [
+    "into",
+    55.95
+   ],
+   [
+    "slow",
+    56.27
+   ],
+   [
+    "deep",
+    56.58
+   ],
+   [
+    "waves",
+    56.9
+   ]
+  ]
+ },
+ {
+  "s": 57.84,
+  "e": 60.44,
+  "text": "The other half stays awake, at low power,",
+  "words": [
+   [
+    "the",
+    57.84
+   ],
+   [
+    "other",
+    58.09
+   ],
+   [
+    "half",
+    58.49
+   ],
+   [
+    "stays",
+    58.82
+   ],
+   [
+    "awake",
+    59.22
+   ],
+   [
+    "at",
+    59.63
+   ],
+   [
+    "low",
+    59.79
+   ],
+   [
+    "power",
+    60.03
+   ]
+  ]
+ },
+ {
+  "s": 60.74,
+  "e": 61.82,
+  "text": "running the breathing,",
+  "words": [
+   [
+    "running",
+    60.74
+   ],
+   [
+    "the",
+    61.14
+   ],
+   [
+    "breathing",
+    61.31
+   ]
+  ]
+ },
+ {
+  "s": 62.12,
+  "e": 63.49,
+  "text": "and watching for trouble.",
+  "words": [
+   [
+    "and",
+    62.12
+   ],
+   [
+    "watching",
+    62.32
+   ],
+   [
+    "for",
+    62.84
+   ],
+   [
+    "trouble",
+    63.03
+   ]
+  ]
+ },
+ {
+  "s": 64.04,
+  "e": 66.32,
+  "text": "And you can actually see it from the outside.",
+  "words": [
+   [
+    "and",
+    64.04
+   ],
+   [
+    "you",
+    64.23
+   ],
+   [
+    "can",
+    64.42
+   ],
+   [
+    "actually",
+    64.61
+   ],
+   [
+    "see",
+    65.12
+   ],
+   [
+    "it",
+    65.31
+   ],
+   [
+    "from",
+    65.43
+   ],
+   [
+    "the",
+    65.69
+   ],
+   [
+    "outside",
+    65.88
+   ]
+  ]
+ },
+ {
+  "s": 66.87,
+  "e": 69.69,
+  "text": "When the left half sleeps, the right eye closes.",
+  "words": [
+   [
+    "when",
+    66.87
+   ],
+   [
+    "the",
+    67.17
+   ],
+   [
+    "left",
+    67.39
+   ],
+   [
+    "half",
+    67.69
+   ],
+   [
+    "sleeps",
+    67.98
+   ],
+   [
+    "the",
+    68.43
+   ],
+   [
+    "right",
+    68.65
+   ],
+   [
+    "eye",
+    69.02
+   ],
+   [
+    "closes",
+    69.24
+   ]
+  ]
+ },
+ {
+  "s": 70.24,
+  "e": 73.05,
+  "text": "When the right half sleeps, the left eye closes.",
+  "words": [
+   [
+    "when",
+    70.24
+   ],
+   [
+    "the",
+    70.53
+   ],
+   [
+    "right",
+    70.76
+   ],
+   [
+    "half",
+    71.13
+   ],
+   [
+    "sleeps",
+    71.42
+   ],
+   [
+    "the",
+    71.87
+   ],
+   [
+    "left",
+    72.09
+   ],
+   [
+    "eye",
+    72.39
+   ],
+   [
+    "closes",
+    72.61
+   ]
+  ]
+ },
+ {
+  "s": 73.6,
+  "e": 75.5,
+  "text": "After about two hours, they swap.",
+  "words": [
+   [
+    "after",
+    73.6
+   ],
+   [
+    "about",
+    73.97
+   ],
+   [
+    "two",
+    74.33
+   ],
+   [
+    "hours",
+    74.55
+   ],
+   [
+    "they",
+    74.92
+   ],
+   [
+    "swap",
+    75.21
+   ]
+  ]
+ },
+ {
+  "s": 76.05,
+  "e": 79.04,
+  "text": "Each side gets roughly four hours across the day,",
+  "words": [
+   [
+    "each",
+    76.05
+   ],
+   [
+    "side",
+    76.35
+   ],
+   [
+    "gets",
+    76.65
+   ],
+   [
+    "roughly",
+    76.95
+   ],
+   [
+    "four",
+    77.47
+   ],
+   [
+    "hours",
+    77.77
+   ],
+   [
+    "across",
+    78.15
+   ],
+   [
+    "the",
+    78.59
+   ],
+   [
+    "day",
+    78.82
+   ]
+  ]
+ },
+ {
+  "s": 79.34,
+  "e": 83.37,
+  "text": "so a dolphin sleeps about a third of its day, around eight hours.",
+  "words": [
+   [
+    "so",
+    79.34
+   ],
+   [
+    "a",
+    79.5
+   ],
+   [
+    "dolphin",
+    79.58
+   ],
+   [
+    "sleeps",
+    80.13
+   ],
+   [
+    "about",
+    80.61
+   ],
+   [
+    "a",
+    81.0
+   ],
+   [
+    "third",
+    81.08
+   ],
+   [
+    "of",
+    81.47
+   ],
+   [
+    "its",
+    81.63
+   ],
+   [
+    "day",
+    81.87
+   ],
+   [
+    "around",
+    82.1
+   ],
+   [
+    "eight",
+    82.58
+   ],
+   [
+    "hours",
+    82.97
+   ]
+  ]
+ },
+ {
+  "s": 83.92,
+  "e": 85.4,
+  "text": "So what does that look like?",
+  "words": [
+   [
+    "so",
+    83.92
+   ],
+   [
+    "what",
+    84.05
+   ],
+   [
+    "does",
+    84.32
+   ],
+   [
+    "that",
+    84.59
+   ],
+   [
+    "look",
+    84.86
+   ],
+   [
+    "like",
+    85.13
+   ]
+  ]
+ },
+ {
+  "s": 85.95,
+  "e": 86.79,
+  "text": "Two moves.",
+  "words": [
+   [
+    "two",
+    85.95
+   ],
+   [
+    "moves",
+    86.26
+   ]
+  ]
+ },
+ {
+  "s": 87.34,
+  "e": 88.91,
+  "text": "The first is called logging.",
+  "words": [
+   [
+    "the",
+    87.34
+   ],
+   [
+    "first",
+    87.54
+   ],
+   [
+    "is",
+    87.89
+   ],
+   [
+    "called",
+    88.02
+   ],
+   [
+    "logging",
+    88.43
+   ]
+  ]
+ },
+ {
+  "s": 89.46,
+  "e": 92.4,
+  "text": "The dolphin floats at the surface, barely moving,",
+  "words": [
+   [
+    "the",
+    89.46
+   ],
+   [
+    "dolphin",
+    89.68
+   ],
+   [
+    "floats",
+    90.2
+   ],
+   [
+    "at",
+    90.64
+   ],
+   [
+    "the",
+    90.79
+   ],
+   [
+    "surface",
+    91.01
+   ],
+   [
+    "barely",
+    91.52
+   ],
+   [
+    "moving",
+    91.96
+   ]
+  ]
+ },
+ {
+  "s": 92.7,
+  "e": 94.36,
+  "text": "looking exactly like a log.",
+  "words": [
+   [
+    "looking",
+    92.7
+   ],
+   [
+    "exactly",
+    93.23
+   ],
+   [
+    "like",
+    93.76
+   ],
+   [
+    "a",
+    94.06
+   ],
+   [
+    "log",
+    94.14
+   ]
+  ]
+ },
+ {
+  "s": 94.91,
+  "e": 97.71,
+  "text": "The second is slow swimming, in big circles.",
+  "words": [
+   [
+    "the",
+    94.91
+   ],
+   [
+    "second",
+    95.15
+   ],
+   [
+    "is",
+    95.63
+   ],
+   [
+    "slow",
+    95.79
+   ],
+   [
+    "swimming",
+    96.11
+   ],
+   [
+    "in",
+    96.75
+   ],
+   [
+    "big",
+    96.91
+   ],
+   [
+    "circles",
+    97.15
+   ]
+  ]
+ },
+ {
+  "s": 98.26,
+  "e": 100.28,
+  "text": "In one study of pool dolphins,",
+  "words": [
+   [
+    "in",
+    98.26
+   ],
+   [
+    "one",
+    98.43
+   ],
+   [
+    "study",
+    98.68
+   ],
+   [
+    "of",
+    99.1
+   ],
+   [
+    "pool",
+    99.27
+   ],
+   [
+    "dolphins",
+    99.6
+   ]
+  ]
+ },
+ {
+  "s": 100.58,
+  "e": 103.08,
+  "text": "most of them circled counterclockwise.",
+  "words": [
+   [
+    "most",
+    100.58
+   ],
+   [
+    "of",
+    100.88
+   ],
+   [
+    "them",
+    101.03
+   ],
+   [
+    "circled",
+    101.33
+   ],
+   [
+    "counterclockwise",
+    101.87
+   ]
+  ]
+ },
+ {
+  "s": 103.63,
+  "e": 105.23,
+  "text": "Breathing slows down too,",
+  "words": [
+   [
+    "breathing",
+    103.63
+   ],
+   [
+    "slows",
+    104.32
+   ],
+   [
+    "down",
+    104.7
+   ],
+   [
+    "too",
+    105.01
+   ]
+  ]
+ },
+ {
+  "s": 105.53,
+  "e": 107.21,
+  "text": "from around ten breaths a minute,",
+  "words": [
+   [
+    "from",
+    105.53
+   ],
+   [
+    "around",
+    105.78
+   ],
+   [
+    "ten",
+    106.15
+   ],
+   [
+    "breaths",
+    106.34
+   ],
+   [
+    "a",
+    106.77
+   ],
+   [
+    "minute",
+    106.84
+   ]
+  ]
+ },
+ {
+  "s": 107.51,
+  "e": 108.77,
+  "text": "to as few as three.",
+  "words": [
+   [
+    "to",
+    107.51
+   ],
+   [
+    "as",
+    107.69
+   ],
+   [
+    "few",
+    107.87
+   ],
+   [
+    "as",
+    108.14
+   ],
+   [
+    "three",
+    108.32
+   ]
+  ]
+ },
+ {
+  "s": 109.32,
+  "e": 111.19,
+  "text": "And the open eye has a job.",
+  "words": [
+   [
+    "and",
+    109.32
+   ],
+   [
+    "the",
+    109.6
+   ],
+   [
+    "open",
+    109.88
+   ],
+   [
+    "eye",
+    110.25
+   ],
+   [
+    "has",
+    110.53
+   ],
+   [
+    "a",
+    110.81
+   ],
+   [
+    "job",
+    110.91
+   ]
+  ]
+ },
+ {
+  "s": 111.74,
+  "e": 113.93,
+  "text": "When two dolphins rest side by side,",
+  "words": [
+   [
+    "when",
+    111.74
+   ],
+   [
+    "two",
+    112.04
+   ],
+   [
+    "dolphins",
+    112.27
+   ],
+   [
+    "rest",
+    112.87
+   ],
+   [
+    "side",
+    113.17
+   ],
+   [
+    "by",
+    113.47
+   ],
+   [
+    "side",
+    113.63
+   ]
+  ]
+ },
+ {
+  "s": 114.23,
+  "e": 116.31,
+  "text": "it's the eye that faces the partner.",
+  "words": [
+   [
+    "its",
+    114.23
+   ],
+   [
+    "the",
+    114.45
+   ],
+   [
+    "eye",
+    114.67
+   ],
+   [
+    "that",
+    114.9
+   ],
+   [
+    "faces",
+    115.19
+   ],
+   [
+    "the",
+    115.57
+   ],
+   [
+    "partner",
+    115.79
+   ]
+  ]
+ },
+ {
+  "s": 116.86,
+  "e": 119.8,
+  "text": "Now, you'd expect half asleep to mean half useless.",
+  "words": [
+   [
+    "now",
+    116.86
+   ],
+   [
+    "youd",
+    117.08
+   ],
+   [
+    "expect",
+    117.37
+   ],
+   [
+    "half",
+    117.82
+   ],
+   [
+    "asleep",
+    118.11
+   ],
+   [
+    "to",
+    118.55
+   ],
+   [
+    "mean",
+    118.7
+   ],
+   [
+    "half",
+    118.99
+   ],
+   [
+    "useless",
+    119.28
+   ]
+  ]
+ },
+ {
+  "s": 120.35,
+  "e": 122.58,
+  "text": "Researchers tested that in twenty twelve.",
+  "words": [
+   [
+    "researchers",
+    120.35
+   ],
+   [
+    "tested",
+    121.05
+   ],
+   [
+    "that",
+    121.43
+   ],
+   [
+    "in",
+    121.69
+   ],
+   [
+    "twenty",
+    121.82
+   ],
+   [
+    "twelve",
+    122.2
+   ]
+  ]
+ },
+ {
+  "s": 123.13,
+  "e": 126.18,
+  "text": "They had two dolphins spot targets with echolocation,",
+  "words": [
+   [
+    "they",
+    123.13
+   ],
+   [
+    "had",
+    123.4
+   ],
+   [
+    "two",
+    123.61
+   ],
+   [
+    "dolphins",
+    123.81
+   ],
+   [
+    "spot",
+    124.35
+   ],
+   [
+    "targets",
+    124.62
+   ],
+   [
+    "with",
+    125.1
+   ],
+   [
+    "echolocation",
+    125.37
+   ]
+  ]
+ },
+ {
+  "s": 126.48,
+  "e": 128.16,
+  "text": "continuously, day and night.",
+  "words": [
+   [
+    "continuously",
+    126.48
+   ],
+   [
+    "day",
+    127.36
+   ],
+   [
+    "and",
+    127.58
+   ],
+   [
+    "night",
+    127.8
+   ]
+  ]
+ },
+ {
+  "s": 128.71,
+  "e": 130.72,
+  "text": "Both kept going for five days,",
+  "words": [
+   [
+    "both",
+    128.71
+   ],
+   [
+    "kept",
+    129.05
+   ],
+   [
+    "going",
+    129.38
+   ],
+   [
+    "for",
+    129.8
+   ],
+   [
+    "five",
+    130.05
+   ],
+   [
+    "days",
+    130.39
+   ]
+  ]
+ },
+ {
+  "s": 131.02,
+  "e": 132.96,
+  "text": "with no signs of getting tired.",
+  "words": [
+   [
+    "with",
+    131.02
+   ],
+   [
+    "no",
+    131.33
+   ],
+   [
+    "signs",
+    131.49
+   ],
+   [
+    "of",
+    131.87
+   ],
+   [
+    "getting",
+    132.03
+   ],
+   [
+    "tired",
+    132.57
+   ]
+  ]
+ },
+ {
+  "s": 133.51,
+  "e": 134.99,
+  "text": "Then the female kept going,",
+  "words": [
+   [
+    "then",
+    133.51
+   ],
+   [
+    "the",
+    133.78
+   ],
+   [
+    "female",
+    133.98
+   ],
+   [
+    "kept",
+    134.39
+   ],
+   [
+    "going",
+    134.66
+   ]
+  ]
+ },
+ {
+  "s": 135.29,
+  "e": 136.47,
+  "text": "for fifteen days.",
+  "words": [
+   [
+    "for",
+    135.29
+   ],
+   [
+    "fifteen",
+    135.55
+   ],
+   [
+    "days",
+    136.14
+   ]
+  ]
+ },
+ {
+  "s": 137.02,
+  "e": 139.27,
+  "text": "Fifteen, with near-perfect accuracy.",
+  "words": [
+   [
+    "fifteen",
+    137.02
+   ],
+   [
+    "with",
+    137.55
+   ],
+   [
+    "nearperfect",
+    137.85
+   ],
+   [
+    "accuracy",
+    138.67
+   ]
+  ]
+ },
+ {
+  "s": 139.82,
+  "e": 142.6,
+  "text": "Nobody knows how much longer she could've gone,",
+  "words": [
+   [
+    "nobody",
+    139.82
+   ],
+   [
+    "knows",
+    140.26
+   ],
+   [
+    "how",
+    140.62
+   ],
+   [
+    "much",
+    140.84
+   ],
+   [
+    "longer",
+    141.13
+   ],
+   [
+    "she",
+    141.57
+   ],
+   [
+    "couldve",
+    141.79
+   ],
+   [
+    "gone",
+    142.3
+   ]
+  ]
+ },
+ {
+  "s": 142.9,
+  "e": 144.41,
+  "text": "because the test just stopped.",
+  "words": [
+   [
+    "because",
+    142.9
+   ],
+   [
+    "the",
+    143.32
+   ],
+   [
+    "test",
+    143.5
+   ],
+   [
+    "just",
+    143.74
+   ],
+   [
+    "stopped",
+    143.98
+   ]
+  ]
+ },
+ {
+  "s": 144.96,
+  "e": 148.34,
+  "text": "So scientists think this trick isn't only about breathing.",
+  "words": [
+   [
+    "so",
+    144.96
+   ],
+   [
+    "scientists",
+    145.1
+   ],
+   [
+    "think",
+    145.8
+   ],
+   [
+    "this",
+    146.16
+   ],
+   [
+    "trick",
+    146.44
+   ],
+   [
+    "isnt",
+    146.79
+   ],
+   [
+    "only",
+    147.07
+   ],
+   [
+    "about",
+    147.36
+   ],
+   [
+    "breathing",
+    147.71
+   ]
+  ]
+ },
+ {
+  "s": 148.89,
+  "e": 150.66,
+  "text": "It may be about staying alert, too.",
+  "words": [
+   [
+    "it",
+    148.89
+   ],
+   [
+    "may",
+    149.02
+   ],
+   [
+    "be",
+    149.22
+   ],
+   [
+    "about",
+    149.35
+   ],
+   [
+    "staying",
+    149.68
+   ],
+   [
+    "alert",
+    150.14
+   ],
+   [
+    "too",
+    150.47
+   ]
+  ]
+ },
+ {
+  "s": 151.21,
+  "e": 152.83,
+  "text": "Then there are the newborns.",
+  "words": [
+   [
+    "then",
+    151.21
+   ],
+   [
+    "there",
+    151.5
+   ],
+   [
+    "are",
+    151.85
+   ],
+   [
+    "the",
+    152.06
+   ],
+   [
+    "newborns",
+    152.27
+   ]
+  ]
+ },
+ {
+  "s": 153.38,
+  "e": 155.96,
+  "text": "A baby dolphin rests while its mother swims,",
+  "words": [
+   [
+    "a",
+    153.38
+   ],
+   [
+    "baby",
+    153.45
+   ],
+   [
+    "dolphin",
+    153.74
+   ],
+   [
+    "rests",
+    154.24
+   ],
+   [
+    "while",
+    154.6
+   ],
+   [
+    "its",
+    154.96
+   ],
+   [
+    "mother",
+    155.17
+   ],
+   [
+    "swims",
+    155.6
+   ]
+  ]
+ },
+ {
+  "s": 156.26,
+  "e": 158.26,
+  "text": "getting towed along in her slipstream.",
+  "words": [
+   [
+    "getting",
+    156.26
+   ],
+   [
+    "towed",
+    156.7
+   ],
+   [
+    "along",
+    157.01
+   ],
+   [
+    "in",
+    157.32
+   ],
+   [
+    "her",
+    157.45
+   ],
+   [
+    "slipstream",
+    157.63
+   ]
+  ]
+ },
+ {
+  "s": 158.81,
+  "e": 161.52,
+  "text": "She can't stop swimming for the first several weeks.",
+  "words": [
+   [
+    "she",
+    158.81
+   ],
+   [
+    "cant",
+    159.0
+   ],
+   [
+    "stop",
+    159.26
+   ],
+   [
+    "swimming",
+    159.52
+   ],
+   [
+    "for",
+    160.04
+   ],
+   [
+    "the",
+    160.23
+   ],
+   [
+    "first",
+    160.43
+   ],
+   [
+    "several",
+    160.75
+   ],
+   [
+    "weeks",
+    161.2
+   ]
+  ]
+ },
+ {
+  "s": 162.07,
+  "e": 165.57,
+  "text": "One study said mothers and calves barely sleep for a month.",
+  "words": [
+   [
+    "one",
+    162.07
+   ],
+   [
+    "study",
+    162.29
+   ],
+   [
+    "said",
+    162.66
+   ],
+   [
+    "mothers",
+    162.95
+   ],
+   [
+    "and",
+    163.46
+   ],
+   [
+    "calves",
+    163.68
+   ],
+   [
+    "barely",
+    164.11
+   ],
+   [
+    "sleep",
+    164.55
+   ],
+   [
+    "for",
+    164.91
+   ],
+   [
+    "a",
+    165.13
+   ],
+   [
+    "month",
+    165.2
+   ]
+  ]
+ },
+ {
+  "s": 166.12,
+  "e": 168.01,
+  "text": "Other researchers watched closely,",
+  "words": [
+   [
+    "other",
+    166.12
+   ],
+   [
+    "researchers",
+    166.43
+   ],
+   [
+    "watched",
+    167.12
+   ],
+   [
+    "closely",
+    167.56
+   ]
+  ]
+ },
+ {
+  "s": 168.31,
+  "e": 170.59,
+  "text": "and saw eyes closing during swim rest,",
+  "words": [
+   [
+    "and",
+    168.31
+   ],
+   [
+    "saw",
+    168.53
+   ],
+   [
+    "eyes",
+    168.75
+   ],
+   [
+    "closing",
+    169.04
+   ],
+   [
+    "during",
+    169.56
+   ],
+   [
+    "swim",
+    170.0
+   ],
+   [
+    "rest",
+    170.3
+   ]
+  ]
+ },
+ {
+  "s": 170.89,
+  "e": 173.64,
+  "text": "so scientists are still arguing about that one.",
+  "words": [
+   [
+    "so",
+    170.89
+   ],
+   [
+    "scientists",
+    171.04
+   ],
+   [
+    "are",
+    171.74
+   ],
+   [
+    "still",
+    171.95
+   ],
+   [
+    "arguing",
+    172.3
+   ],
+   [
+    "about",
+    172.8
+   ],
+   [
+    "that",
+    173.15
+   ],
+   [
+    "one",
+    173.43
+   ]
+  ]
+ },
+ {
+  "s": 174.19,
+  "e": 175.7,
+  "text": "And dolphins aren't alone.",
+  "words": [
+   [
+    "and",
+    174.19
+   ],
+   [
+    "dolphins",
+    174.41
+   ],
+   [
+    "arent",
+    174.98
+   ],
+   [
+    "alone",
+    175.34
+   ]
+  ]
+ },
+ {
+  "s": 176.25,
+  "e": 178.16,
+  "text": "Mallard ducks at the edge of a group,",
+  "words": [
+   [
+    "mallard",
+    176.25
+   ],
+   [
+    "ducks",
+    176.71
+   ],
+   [
+    "at",
+    177.04
+   ],
+   [
+    "the",
+    177.17
+   ],
+   [
+    "edge",
+    177.37
+   ],
+   [
+    "of",
+    177.64
+   ],
+   [
+    "a",
+    177.77
+   ],
+   [
+    "group",
+    177.83
+   ]
+  ]
+ },
+ {
+  "s": 178.46,
+  "e": 181.51,
+  "text": "keep one eye open, pointed away from the others.",
+  "words": [
+   [
+    "keep",
+    178.46
+   ],
+   [
+    "one",
+    178.79
+   ],
+   [
+    "eye",
+    179.03
+   ],
+   [
+    "open",
+    179.27
+   ],
+   [
+    "pointed",
+    179.59
+   ],
+   [
+    "away",
+    180.15
+   ],
+   [
+    "from",
+    180.47
+   ],
+   [
+    "the",
+    180.79
+   ],
+   [
+    "others",
+    181.03
+   ]
+  ]
+ },
+ {
+  "s": 182.06,
+  "e": 183.91,
+  "text": "Frigatebirds sleep while flying,",
+  "words": [
+   [
+    "frigatebirds",
+    182.06
+   ],
+   [
+    "sleep",
+    182.86
+   ],
+   [
+    "while",
+    183.19
+   ],
+   [
+    "flying",
+    183.52
+   ]
+  ]
+ },
+ {
+  "s": 184.21,
+  "e": 185.94,
+  "text": "on trips of up to ten days,",
+  "words": [
+   [
+    "on",
+    184.21
+   ],
+   [
+    "trips",
+    184.39
+   ],
+   [
+    "of",
+    184.82
+   ],
+   [
+    "up",
+    184.99
+   ],
+   [
+    "to",
+    185.17
+   ],
+   [
+    "ten",
+    185.34
+   ],
+   [
+    "days",
+    185.6
+   ]
+  ]
+ },
+ {
+  "s": 186.24,
+  "e": 188.48,
+  "text": "averaging just forty-two minutes a day.",
+  "words": [
+   [
+    "averaging",
+    186.24
+   ],
+   [
+    "just",
+    186.87
+   ],
+   [
+    "fortytwo",
+    187.15
+   ],
+   [
+    "minutes",
+    187.71
+   ],
+   [
+    "a",
+    188.2
+   ],
+   [
+    "day",
+    188.27
+   ]
+  ]
+ },
+ {
+  "s": 189.03,
+  "e": 191.62,
+  "text": "Back on land, they sleep over twelve hours.",
+  "words": [
+   [
+    "back",
+    189.03
+   ],
+   [
+    "on",
+    189.34
+   ],
+   [
+    "land",
+    189.49
+   ],
+   [
+    "they",
+    189.79
+   ],
+   [
+    "sleep",
+    190.1
+   ],
+   [
+    "over",
+    190.48
+   ],
+   [
+    "twelve",
+    190.78
+   ],
+   [
+    "hours",
+    191.24
+   ]
+  ]
+ },
+ {
+  "s": 192.17,
+  "e": 195.2,
+  "text": "So half a brain is a trick nature keeps reusing.",
+  "words": [
+   [
+    "so",
+    192.17
+   ],
+   [
+    "half",
+    192.33
+   ],
+   [
+    "a",
+    192.65
+   ],
+   [
+    "brain",
+    192.73
+   ],
+   [
+    "is",
+    193.13
+   ],
+   [
+    "a",
+    193.29
+   ],
+   [
+    "trick",
+    193.37
+   ],
+   [
+    "nature",
+    193.77
+   ],
+   [
+    "keeps",
+    194.24
+   ],
+   [
+    "reusing",
+    194.64
+   ]
+  ]
+ },
+ {
+  "s": 195.75,
+  "e": 198.14,
+  "text": "One side rests, one side breathes,",
+  "words": [
+   [
+    "one",
+    195.75
+   ],
+   [
+    "side",
+    196.02
+   ],
+   [
+    "rests",
+    196.37
+   ],
+   [
+    "one",
+    196.81
+   ],
+   [
+    "side",
+    197.08
+   ],
+   [
+    "breathes",
+    197.43
+   ]
+  ]
+ },
+ {
+  "s": 198.44,
+  "e": 199.75,
+  "text": "and nobody drowns.",
+  "words": [
+   [
+    "and",
+    198.44
+   ],
+   [
+    "nobody",
+    198.7
+   ],
+   [
+    "drowns",
+    199.23
+   ]
+  ]
+ },
+ {
+  "s": 200.3,
+  "e": 204.16,
+  "text": "Next question: what actually happens when a jellyfish stings you?",
+  "words": [
+   [
+    "next",
+    200.3
+   ],
+   [
+    "question",
+    200.59
+   ],
+   [
+    "what",
+    201.16
+   ],
+   [
+    "actually",
+    201.45
+   ],
+   [
+    "happens",
+    202.02
+   ],
+   [
+    "when",
+    202.52
+   ],
+   [
+    "a",
+    202.8
+   ],
+   [
+    "jellyfish",
+    202.88
+   ],
+   [
+    "stings",
+    203.52
+   ],
+   [
+    "you",
+    203.95
+   ]
+  ]
+ },
+ {
+  "s": 204.71,
+  "e": 206.11,
+  "text": "It has no brain at all,",
+  "words": [
+   [
+    "it",
+    204.71
+   ],
+   [
+    "has",
+    204.88
+   ],
+   [
+    "no",
+    205.12
+   ],
+   [
+    "brain",
+    205.29
+   ],
+   [
+    "at",
+    205.7
+   ],
+   [
+    "all",
+    205.86
+   ]
+  ]
+ },
+ {
+  "s": 206.41,
+  "e": 207.7,
+  "text": "so who gives the order?",
+  "words": [
+   [
+    "so",
+    206.41
+   ],
+   [
+    "who",
+    206.55
+   ],
+   [
+    "gives",
+    206.77
+   ],
+   [
+    "the",
+    207.13
+   ],
+   [
+    "order",
+    207.35
+   ]
+  ]
+ }
+]

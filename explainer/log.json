@@ -663,5 +663,17 @@
   "words": 135,
   "sheet_id": "S051",
   "note": "no storyboard (unattended run)"
+ },
+ {
+  "date": "2026-11-05",
+  "id": "20261105-dolphin-sleep",
+  "kind": "long",
+  "style": "16-Bit Pixel Odyssey",
+  "topic": "How do dolphins sleep without drowning?",
+  "title": "How Do Dolphins Sleep 8 Hours a Day Without Drowning?",
+  "seconds": 208.7,
+  "words": 530,
+  "sheet_id": "L018",
+  "note": "no storyboard step (unattended run); hook 47, title 100; row's listed styles were all in the last 4, so pick.py chose pixel; 6 chapters, 34 scenes"
  }
 ]
