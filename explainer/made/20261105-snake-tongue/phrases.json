@@ -1,0 +1,717 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.1,
+  "text": "A snake's tongue can't taste a thing,",
+  "words": [
+   [
+    "a",
+    0.25
+   ],
+   [
+    "snakes",
+    0.32
+   ],
+   [
+    "tongue",
+    0.71
+   ],
+   [
+    "cant",
+    1.11
+   ],
+   [
+    "taste",
+    1.38
+   ],
+   [
+    "a",
+    1.71
+   ],
+   [
+    "thing",
+    1.77
+   ]
+  ]
+ },
+ {
+  "s": 2.4,
+  "e": 4.54,
+  "text": "so why do you see it flick nonstop?",
+  "words": [
+   [
+    "so",
+    2.4
+   ],
+   [
+    "why",
+    2.56
+   ],
+   [
+    "do",
+    2.8
+   ],
+   [
+    "you",
+    2.96
+   ],
+   [
+    "see",
+    3.2
+   ],
+   [
+    "it",
+    3.43
+   ],
+   [
+    "flick",
+    3.59
+   ],
+   [
+    "nonstop",
+    3.99
+   ]
+  ]
+ },
+ {
+  "s": 5.09,
+  "e": 6.61,
+  "text": "Because it's a scent collector.",
+  "words": [
+   [
+    "because",
+    5.09
+   ],
+   [
+    "its",
+    5.52
+   ],
+   [
+    "a",
+    5.7
+   ],
+   [
+    "scent",
+    5.76
+   ],
+   [
+    "collector",
+    6.06
+   ]
+  ]
+ },
+ {
+  "s": 7.16,
+  "e": 9.21,
+  "text": "Each flick grabs tiny particles,",
+  "words": [
+   [
+    "each",
+    7.16
+   ],
+   [
+    "flick",
+    7.46
+   ],
+   [
+    "grabs",
+    7.84
+   ],
+   [
+    "tiny",
+    8.22
+   ],
+   [
+    "particles",
+    8.53
+   ]
+  ]
+ },
+ {
+  "s": 9.51,
+  "e": 11.05,
+  "text": "from the air and the ground.",
+  "words": [
+   [
+    "from",
+    9.51
+   ],
+   [
+    "the",
+    9.79
+   ],
+   [
+    "air",
+    10.0
+   ],
+   [
+    "and",
+    10.21
+   ],
+   [
+    "the",
+    10.42
+   ],
+   [
+    "ground",
+    10.63
+   ]
+  ]
+ },
+ {
+  "s": 11.6,
+  "e": 12.7,
+  "text": "It pulls back in,",
+  "words": [
+   [
+    "it",
+    11.6
+   ],
+   [
+    "pulls",
+    11.77
+   ],
+   [
+    "back",
+    12.2
+   ],
+   [
+    "in",
+    12.53
+   ]
+  ]
+ },
+ {
+  "s": 13.0,
+  "e": 14.78,
+  "text": "and drops them inside the mouth.",
+  "words": [
+   [
+    "and",
+    13.0
+   ],
+   [
+    "drops",
+    13.21
+   ],
+   [
+    "them",
+    13.55
+   ],
+   [
+    "inside",
+    13.82
+   ],
+   [
+    "the",
+    14.24
+   ],
+   [
+    "mouth",
+    14.44
+   ]
+  ]
+ },
+ {
+  "s": 15.33,
+  "e": 17.51,
+  "text": "From there, they reach a special organ,",
+  "words": [
+   [
+    "from",
+    15.33
+   ],
+   [
+    "there",
+    15.61
+   ],
+   [
+    "they",
+    15.96
+   ],
+   [
+    "reach",
+    16.25
+   ],
+   [
+    "a",
+    16.6
+   ],
+   [
+    "special",
+    16.67
+   ],
+   [
+    "organ",
+    17.16
+   ]
+  ]
+ },
+ {
+  "s": 17.81,
+  "e": 19.2,
+  "text": "in the roof of the mouth.",
+  "words": [
+   [
+    "in",
+    17.81
+   ],
+   [
+    "the",
+    17.95
+   ],
+   [
+    "roof",
+    18.17
+   ],
+   [
+    "of",
+    18.47
+   ],
+   [
+    "the",
+    18.61
+   ],
+   [
+    "mouth",
+    18.83
+   ]
+  ]
+ },
+ {
+  "s": 19.75,
+  "e": 21.35,
+  "text": "That's where the smelling happens.",
+  "words": [
+   [
+    "thats",
+    19.75
+   ],
+   [
+    "where",
+    20.03
+   ],
+   [
+    "the",
+    20.32
+   ],
+   [
+    "smelling",
+    20.49
+   ],
+   [
+    "happens",
+    20.95
+   ]
+  ]
+ },
+ {
+  "s": 21.9,
+  "e": 23.13,
+  "text": "Now look at the fork.",
+  "words": [
+   [
+    "now",
+    21.9
+   ],
+   [
+    "look",
+    22.13
+   ],
+   [
+    "at",
+    22.44
+   ],
+   [
+    "the",
+    22.59
+   ],
+   [
+    "fork",
+    22.82
+   ]
+  ]
+ },
+ {
+  "s": 23.68,
+  "e": 25.05,
+  "text": "The two tips spread apart,",
+  "words": [
+   [
+    "the",
+    23.68
+   ],
+   [
+    "two",
+    23.88
+   ],
+   [
+    "tips",
+    24.07
+   ],
+   [
+    "spread",
+    24.33
+   ],
+   [
+    "apart",
+    24.73
+   ]
+  ]
+ },
+ {
+  "s": 25.35,
+  "e": 27.4,
+  "text": "up to twice as wide as its head.",
+  "words": [
+   [
+    "up",
+    25.35
+   ],
+   [
+    "to",
+    25.52
+   ],
+   [
+    "twice",
+    25.69
+   ],
+   [
+    "as",
+    26.12
+   ],
+   [
+    "wide",
+    26.29
+   ],
+   [
+    "as",
+    26.63
+   ],
+   [
+    "its",
+    26.8
+   ],
+   [
+    "head",
+    27.06
+   ]
+  ]
+ },
+ {
+  "s": 27.95,
+  "e": 29.96,
+  "text": "So each tip samples a different spot,",
+  "words": [
+   [
+    "so",
+    27.95
+   ],
+   [
+    "each",
+    28.08
+   ],
+   [
+    "tip",
+    28.35
+   ],
+   [
+    "samples",
+    28.55
+   ],
+   [
+    "a",
+    29.02
+   ],
+   [
+    "different",
+    29.09
+   ],
+   [
+    "spot",
+    29.69
+   ]
+  ]
+ },
+ {
+  "s": 30.26,
+  "e": 31.51,
+  "text": "like your two ears.",
+  "words": [
+   [
+    "like",
+    30.26
+   ],
+   [
+    "your",
+    30.6
+   ],
+   [
+    "two",
+    30.93
+   ],
+   [
+    "ears",
+    31.18
+   ]
+  ]
+ },
+ {
+  "s": 32.06,
+  "e": 33.83,
+  "text": "If the left tip smells stronger,",
+  "words": [
+   [
+    "if",
+    32.06
+   ],
+   [
+    "the",
+    32.2
+   ],
+   [
+    "left",
+    32.4
+   ],
+   [
+    "tip",
+    32.67
+   ],
+   [
+    "smells",
+    32.88
+   ],
+   [
+    "stronger",
+    33.28
+   ]
+  ]
+ },
+ {
+  "s": 34.13,
+  "e": 35.2,
+  "text": "dinner went left.",
+  "words": [
+   [
+    "dinner",
+    34.13
+   ],
+   [
+    "went",
+    34.59
+   ],
+   [
+    "left",
+    34.89
+   ]
+  ]
+ },
+ {
+  "s": 35.75,
+  "e": 37.25,
+  "text": "That's smelling in stereo.",
+  "words": [
+   [
+    "thats",
+    35.75
+   ],
+   [
+    "smelling",
+    36.11
+   ],
+   [
+    "in",
+    36.68
+   ],
+   [
+    "stereo",
+    36.82
+   ]
+  ]
+ },
+ {
+  "s": 37.8,
+  "e": 38.59,
+  "text": "In the air,",
+  "words": [
+   [
+    "in",
+    37.8
+   ],
+   [
+    "the",
+    38.0
+   ],
+   [
+    "air",
+    38.29
+   ]
+  ]
+ },
+ {
+  "s": 38.89,
+  "e": 41.15,
+  "text": "the flicking tongue whips up tiny swirls,",
+  "words": [
+   [
+    "the",
+    38.89
+   ],
+   [
+    "flicking",
+    39.09
+   ],
+   [
+    "tongue",
+    39.62
+   ],
+   [
+    "whips",
+    40.02
+   ],
+   [
+    "up",
+    40.35
+   ],
+   [
+    "tiny",
+    40.48
+   ],
+   [
+    "swirls",
+    40.75
+   ]
+  ]
+ },
+ {
+  "s": 41.45,
+  "e": 42.71,
+  "text": "that pull smells in,",
+  "words": [
+   [
+    "that",
+    41.45
+   ],
+   [
+    "pull",
+    41.76
+   ],
+   [
+    "smells",
+    42.08
+   ],
+   [
+    "in",
+    42.55
+   ]
+  ]
+ },
+ {
+  "s": 43.01,
+  "e": 44.97,
+  "text": "sampling a hundred times more air,",
+  "words": [
+   [
+    "sampling",
+    43.01
+   ],
+   [
+    "a",
+    43.57
+   ],
+   [
+    "hundred",
+    43.64
+   ],
+   [
+    "times",
+    44.13
+   ],
+   [
+    "more",
+    44.48
+   ],
+   [
+    "air",
+    44.76
+   ]
+  ]
+ },
+ {
+  "s": 45.27,
+  "e": 46.42,
+  "text": "than a simple dip.",
+  "words": [
+   [
+    "than",
+    45.27
+   ],
+   [
+    "a",
+    45.6
+   ],
+   [
+    "simple",
+    45.68
+   ],
+   [
+    "dip",
+    46.17
+   ]
+  ]
+ },
+ {
+  "s": 46.97,
+  "e": 48.32,
+  "text": "If your tongue could smell,",
+  "words": [
+   [
+    "if",
+    46.97
+   ],
+   [
+    "your",
+    47.09
+   ],
+   [
+    "tongue",
+    47.34
+   ],
+   [
+    "could",
+    47.7
+   ],
+   [
+    "smell",
+    48.01
+   ]
+  ]
+ },
+ {
+  "s": 48.62,
+  "e": 50.02,
+  "text": "what would you follow first?",
+  "words": [
+   [
+    "what",
+    48.62
+   ],
+   [
+    "would",
+    48.86
+   ],
+   [
+    "you",
+    49.16
+   ],
+   [
+    "follow",
+    49.35
+   ],
+   [
+    "first",
+    49.71
+   ]
+  ]
+ }
+]
