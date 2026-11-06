@@ -378,177 +378,6 @@
     }
   },
   "videos": {
-    "2026-10-31-102": {
-      "topic": {
-        "title": "How do animals survive being frozen solid?",
-        "format": "long",
-        "angle": "Claymation Set"
-      },
-      "package": {
-        "title": "How Do Animals Survive 7 Months Frozen Solid?",
-        "description": "How do animals survive being frozen solid? Wood frogs freeze with no heartbeat for months, Arctic ground squirrels supercool below zero, Antarctic fish make antifreeze proteins, and tardigrades dry out and wake up decades later.\n\nSources:\nhttps://www.audubon.org/news/frogs-freeze-survive-alaskan-winter\nhttps://uaf.edu/centennial/uaf100/ideas/frozen-squirrels.php\nhttps://phys.org/news/2016-02-animals-revived-frozen-state-years.html\n\nAnimated in the Claymation Set style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#animals",
-          "#science",
-          "#explained"
-        ],
-        "tags": [
-          "frozen animals",
-          "wood frog",
-          "wood frog frozen",
-          "arctic ground squirrel",
-          "supercooling",
-          "antifreeze proteins",
-          "antarctic fish",
-          "icefish",
-          "tardigrade",
-          "water bear",
-          "animals that freeze",
-          "how animals survive winter",
-          "animal facts",
-          "science explained",
-          "claymation"
-        ],
-        "category": "27",
-        "pinned_comment": "Which trick would you pick to survive the winter: sugar, supercooling, antifreeze, or drying out?",
-        "thumbnail_text": "STILL ALIVE?",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "Frozen solid for seven months. No heartbeat. No breathing. You'd be dead. This frog just hops away in spring. So how do animals survive being frozen? Today, four champions of the cold, each with a totally different trick. Meet the wood frog. It lives as far north as Alaska, and it doesn't hide from winter. It just lies down under the leaves, and lets the ice come. The problem with freezing is sharp ice crystals. If they grow inside a cell, they rip it apart like tiny knives. So the frog plays a clever game. As ice touches its skin, its liver floods the body with sugar, up to ten times the normal amount. That sugar soaks into every cell, like a syrup that won't freeze. So the ice can only grow outside the cells, in the spaces in between. Up to sixty percent of the frog turns to ice. No heartbeat. No breath. In Alaska, it can stay like this for as long as seven months. Then spring comes, the ice melts, and the heart starts beating again. Our second champion uses the opposite trick. The Arctic ground squirrel never freezes at all, even when its body drops below zero. Scientists measured one at almost minus three degrees, the coldest body ever found in a mammal. How? It's called supercooling. Water needs a tiny seed to start freezing, like a speck of dust, or a bit of ice. The squirrel's blood is so clean, there's nothing for ice to grow on. So it stays liquid, below freezing. But that's risky. So every few weeks, the squirrel shivers, warms itself back up for a little while, then drops back into the deep cold. Now, dive under the Antarctic ice. The sea here is almost minus two degrees, cold enough to freeze most fish solid. But these Antarctic fish swim around just fine. Their blood is full of antifreeze proteins. When a tiny ice crystal sneaks in, the proteins grab onto it, and wrap it up so it can't grow. One of their cousins, the icefish, went even further. Its blood has no red cells at all. It's clear, like water. And then there's the toughest of them all. The tardigrade, or water bear, smaller than a grain of sand. When things get bad, it dries itself out, curls into a tiny ball called a tun, and basically pauses its life. In nineteen eighty three, scientists collected moss in Antarctica, and kept it in a freezer at minus twenty. Thirty years later, they thawed it out. Two water bears woke up, and one of them went on to lay nineteen eggs. So why do scientists care? Because we can't do this yet. A donor heart on ice only lasts about four to six hours. Researchers are studying the frog's sugar, and the fish's antifreeze, to keep organs alive for much longer. Four animals, four tricks: sugar, supercooling, antifreeze, and drying out. Which one would you pick? Next time, how did a bitter bean become the world's favorite treat, chocolate?",
-        "key_facts": [
-          "Wood frogs: up to ~60% of the body freezes, heart and breathing stop, glucose up to ~10x normal acts as a cryoprotectant; in Alaska up to ~7 months frozen (Audubon)",
-          "Arctic ground squirrel: supercools to about -2.9 C, lowest body temperature recorded in a mammal; rewarms every few weeks (UAF)",
-          "Antarctic notothenioid fish: seawater about -1.9 C, antifreeze glycoproteins bind ice crystals; icefish have no red blood cells / hemoglobin, colorless blood (Wikipedia: Antarctic fishes)",
-          "Tardigrades: moss collected in Antarctica Nov 1983, stored at -20 C, thawed 2014; two revived, one laid 19 eggs (phys.org 2016)",
-          "Donor hearts are typically kept on ice for about 4-6 hours"
-        ],
-        "voice": "Kokoro",
-        "format": "long",
-        "style": "Claymation Set"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261031-frozen-animals",
-      "redos": 0,
-      "updated": "2026-11-01T08:06:51.969655+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Claymation Set style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-31",
-        "name": "2026-10-31-102.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-31",
-        "name": "2026-10-31-102-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:02,230\nFrozen solid for seven months.\n\n2\n00:00:02,780 --> 00:00:04,540\nNo heartbeat. No breathing.\n\n3\n00:00:05,090 --> 00:00:05,980\nYou'd be dead.\n\n4\n00:00:06,530 --> 00:00:08,640\nThis frog just hops away in spring.\n\n5\n00:00:09,190 --> 00:00:11,680\nSo how do animals survive being frozen?\n\n6\n00:00:12,230 --> 00:00:14,340\nToday, four champions of the cold,\n\n7\n00:00:14,640 --> 00:00:16,500\neach with a totally different trick.\n\n8\n00:00:17,050 --> 00:00:18,260\nMeet the wood frog.\n\n9\n00:00:18,810 --> 00:00:20,790\nIt lives as far north as Alaska,\n\n10\n00:00:21,090 --> 00:00:22,690\nand it doesn't hide from winter.\n\n11\n00:00:23,240 --> 00:00:25,220\nIt just lies down under the leaves,\n\n12\n00:00:25,520 --> 00:00:26,860\nand lets the ice come.\n\n13\n00:00:27,410 --> 00:00:30,400\nThe problem with freezing is sharp ice crystals.\n\n14\n00:00:30,950 --> 00:00:32,560\nIf they grow inside a cell,\n\n15\n00:00:32,860 --> 00:00:35,020\nthey rip it apart like tiny knives.\n\n16\n00:00:35,570 --> 00:00:37,430\nSo the frog plays a clever game.\n\n17\n00:00:37,980 --> 00:00:39,590\nAs ice touches its skin,\n\n18\n00:00:39,890 --> 00:00:41,900\nits liver floods the body with sugar,\n\n19\n00:00:42,200 --> 00:00:44,310\nup to ten times the normal amount.\n\n20\n00:00:44,860 --> 00:00:46,780\nThat sugar soaks into every cell,\n\n21\n00:00:47,080 --> 00:00:48,820\nlike a syrup that won't freeze.\n\n22\n00:00:49,370 --> 00:00:52,010\nSo the ice can only grow outside the cells,\n\n23\n00:00:52,310 --> 00:00:53,910\nin the spaces in between.\n\n24\n00:00:54,460 --> 00:00:57,160\nUp to sixty percent of the frog turns to ice.\n\n25\n00:00:57,710 --> 00:00:59,410\nNo heartbeat. No breath.\n\n26\n00:00:59,960 --> 00:01:01,910\nIn Alaska, it can stay like this\n\n27\n00:01:02,210 --> 00:01:03,830\nfor as long as seven months.\n\n28\n00:01:04,380 --> 00:01:06,350\nThen spring comes, the ice melts,\n\n29\n00:01:06,650 --> 00:01:08,380\nand the heart starts beating again.\n\n30\n00:01:08,930 --> 00:01:10,140\nOur second champion\n\n31\n00:01:10,440 --> 00:01:12,030\nuses the opposite trick.\n\n32\n00:01:12,580 --> 00:01:15,330\nThe Arctic ground squirrel never freezes at all,\n\n33\n00:01:15,630 --> 00:01:17,970\neven when its body drops below zero.\n\n34\n00:01:18,520 --> 00:01:21,920\nScientists measured one at almost minus three degrees,\n\n35\n00:01:22,220 --> 00:01:24,740\nthe coldest body ever found in a mammal.\n\n36\n00:01:25,290 --> 00:01:27,020\nHow? It's called supercooling.\n\n37\n00:01:27,570 --> 00:01:30,100\nWater needs a tiny seed to start freezing,\n\n38\n00:01:30,400 --> 00:01:32,690\nlike a speck of dust, or a bit of ice.\n\n39\n00:01:33,240 --> 00:01:35,020\nThe squirrel's blood is so clean,\n\n40\n00:01:35,320 --> 00:01:37,220\nthere's nothing for ice to grow on.\n\n41\n00:01:37,770 --> 00:01:40,020\nSo it stays liquid, below freezing.\n\n42\n00:01:40,570 --> 00:01:41,630\nBut that's risky.\n\n43\n00:01:42,180 --> 00:01:44,530\nSo every few weeks, the squirrel shivers,\n\n44\n00:01:44,830 --> 00:01:47,000\nwarms itself back up for a little while,\n\n45\n00:01:47,300 --> 00:01:49,310\nthen drops back into the deep cold.\n\n46\n00:01:49,860 --> 00:01:52,050\nNow, dive under the Antarctic ice.\n\n47\n00:01:52,600 --> 00:01:55,190\nThe sea here is almost minus two degrees,\n\n48\n00:01:55,490 --> 00:01:57,660\ncold enough to freeze most fish solid.\n\n49\n00:01:58,210 --> 00:02:00,950\nBut these Antarctic fish swim around just fine.\n\n50\n00:02:01,500 --> 00:02:03,970\nTheir blood is full of antifreeze proteins.\n\n51\n00:02:04,520 --> 00:02:06,620\nWhen a tiny ice crystal sneaks in,\n\n52\n00:02:06,920 --> 00:02:08,510\nthe proteins grab onto it,\n\n53\n00:02:08,810 --> 00:02:10,450\nand wrap it up so it can't grow.\n\n54\n00:02:11,000 --> 00:02:12,810\nOne of their cousins, the icefish,\n\n55\n00:02:13,110 --> 00:02:14,230\nwent even further.\n\n56\n00:02:14,780 --> 00:02:16,840\nIts blood has no red cells at all.\n\n57\n00:02:17,390 --> 00:02:18,730\nIt's clear, like water.\n\n58\n00:02:19,280 --> 00:02:21,310\nAnd then there's the toughest of them all.\n\n59\n00:02:21,860 --> 00:02:23,700\nThe tardigrade, or water bear,\n\n60\n00:02:24,000 --> 00:02:25,670\nsmaller than a grain of sand.\n\n61\n00:02:26,220 --> 00:02:28,840\nWhen things get bad, it dries itself out,\n\n62\n00:02:29,140 --> 00:02:31,460\ncurls into a tiny ball called a tun,\n\n63\n00:02:31,760 --> 00:02:33,690\nand basically pauses its life.\n\n64\n00:02:34,240 --> 00:02:38,320\nIn nineteen eighty three, scientists collected moss in Antarctica,\n\n65\n00:02:38,620 --> 00:02:41,040\nand kept it in a freezer at minus twenty.\n\n66\n00:02:41,590 --> 00:02:43,850\nThirty years later, they thawed it out.\n\n67\n00:02:44,400 --> 00:02:45,880\nTwo water bears woke up,\n\n68\n00:02:46,180 --> 00:02:48,670\nand one of them went on to lay nineteen eggs.\n\n69\n00:02:49,220 --> 00:02:50,900\nSo why do scientists care?\n\n70\n00:02:51,450 --> 00:02:52,880\nBecause we can't do this yet.\n\n71\n00:02:53,430 --> 00:02:54,820\nA donor heart on ice\n\n72\n00:02:55,120 --> 00:02:57,380\nonly lasts about four to six hours.\n\n73\n00:02:57,930 --> 00:03:00,190\nResearchers are studying the frog's sugar,\n\n74\n00:03:00,490 --> 00:03:02,070\nand the fish's antifreeze,\n\n75\n00:03:02,370 --> 00:03:04,580\nto keep organs alive for much longer.\n\n76\n00:03:05,130 --> 00:03:06,840\nFour animals, four tricks:\n\n77\n00:03:07,140 --> 00:03:10,100\nsugar, supercooling, antifreeze, and drying out.\n\n78\n00:03:10,650 --> 00:03:11,930\nWhich one would you pick?\n\n79\n00:03:12,480 --> 00:03:14,150\nNext time, how did a bitter bean\n\n80\n00:03:14,450 --> 00:03:16,590\nbecome the world's favorite treat, chocolate?\n\n",
-      "tg_msg": 957,
-      "approved_by": "auto",
-      "quota_note": "2026-11-01",
-      "description_full": "How do animals survive being frozen solid? Wood frogs freeze with no heartbeat for months, Arctic ground squirrels supercool below zero, Antarctic fish make antifreeze proteins, and tardigrades dry out and wake up decades later.\n\nSources:\nhttps://www.audubon.org/news/frogs-freeze-survive-alaskan-winter\nhttps://uaf.edu/centennial/uaf100/ideas/frozen-squirrels.php\nhttps://phys.org/news/2016-02-animals-revived-frozen-state-years.html\n\nAnimated in the Claymation Set style.\n\nFollow Zorbly AI for a new Short every day.\n\n#animals #science #explained\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Claymation Set style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/Mu5rA1tslBI",
-          "private \u00b7 thumbnail \u2705"
-        ]
-      },
-      "uploaded_at": "2026-11-01T08:06:51.969672+00:00",
-      "slot": "2026-11-03T02:15:00+00:00"
-    },
-    "2026-10-31-103": {
-      "topic": {
-        "title": "Why can't you tickle yourself?",
-        "format": "animated",
-        "angle": "Napkin Sketch"
-      },
-      "package": {
-        "title": "Why Can't You Tickle Yourself? 0.2 Seconds Changes It \ud83e\udd14",
-        "description": "Why can't you tickle yourself? Your cerebellum predicts the touch from your own movement and turns the feeling down, but in a robot experiment, adding a delay of just 0.2 seconds made self-tickling feel more ticklish.\n\nSources:\nhttps://www.scientificamerican.com/article/why-cant-a-person-tickle/\nhttps://link.springer.com/article/10.1038/2870\nhttps://www.sciencealert.com/the-scientific-reason-you-can-t-tickle-yourself\n\nAnimated in the Napkin Sketch style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#brain",
-          "#science",
-          "#tickle"
-        ],
-        "tags": [
-          "why can't you tickle yourself",
-          "tickle yourself",
-          "can you tickle yourself",
-          "tickling science",
-          "cerebellum",
-          "brain facts",
-          "how the brain works",
-          "body facts",
-          "why are we ticklish",
-          "tickle robot experiment",
-          "science explained",
-          "zorbly ai",
-          "napkin sketch animation"
-        ],
-        "category": "27",
-        "pinned_comment": "Have you EVER managed to tickle yourself? Tell me how \ud83d\udc47",
-        "thumbnail_text": "BRAIN BLOCK",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "Your brain cancels your own tickles before you feel them. But how? Every time you move, your brain sends a copy of the order to the cerebellum, at the back of your head. It predicts what the touch will feel like, then turns the feeling down. No surprise, no tickle. When someone else tickles you, there's no prediction. Your brain can't guess where or when, so it hits full blast. Scientists tested this with a robot. People moved a handle, and a robot brushed their palm. Moving it themselves? Barely ticklish. Then the robot added a delay of just two tenths of a second. Suddenly, it felt more ticklish. The prediction was off, so the brain couldn't cancel it. So your own brain blocks the tickle. Can you find a way to outsmart it?",
-        "key_facts": [
-          "Every movement sends a copy of the motor command to the cerebellum, which predicts the sensory result and dampens it (Blakemore, Wolpert & Frith).",
-          "Touch from someone else can't be predicted, so it isn't dampened.",
-          "In a robot-arm experiment, delaying the self-produced touch by 0.2 seconds made it feel more ticklish."
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Napkin Sketch"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261031-self-tickle",
-      "redos": 0,
-      "updated": "2026-11-01T08:06:55.952237+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Napkin Sketch style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-31",
-        "name": "2026-10-31-103.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-31",
-        "name": "2026-10-31-103-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:02,270\nYour brain cancels your own tickles\n\n2\n00:00:02,570 --> 00:00:03,780\nbefore you feel them.\n\n3\n00:00:04,330 --> 00:00:05,080\nBut how?\n\n4\n00:00:05,630 --> 00:00:07,000\nEvery time you move,\n\n5\n00:00:07,300 --> 00:00:09,270\nyour brain sends a copy of the order\n\n6\n00:00:09,570 --> 00:00:10,690\nto the cerebellum,\n\n7\n00:00:10,990 --> 00:00:12,150\nat the back of your head.\n\n8\n00:00:12,700 --> 00:00:14,810\nIt predicts what the touch will feel like,\n\n9\n00:00:15,110 --> 00:00:16,730\nthen turns the feeling down.\n\n10\n00:00:17,280 --> 00:00:18,860\nNo surprise, no tickle.\n\n11\n00:00:19,410 --> 00:00:20,990\nWhen someone else tickles you,\n\n12\n00:00:21,290 --> 00:00:22,520\nthere's no prediction.\n\n13\n00:00:23,070 --> 00:00:24,790\nYour brain can't guess where or when,\n\n14\n00:00:25,090 --> 00:00:26,480\nso it hits full blast.\n\n15\n00:00:27,030 --> 00:00:29,160\nScientists tested this with a robot.\n\n16\n00:00:29,710 --> 00:00:30,970\nPeople moved a handle,\n\n17\n00:00:31,270 --> 00:00:33,030\nand a robot brushed their palm.\n\n18\n00:00:33,580 --> 00:00:35,940\nMoving it themselves? Barely ticklish.\n\n19\n00:00:36,490 --> 00:00:38,090\nThen the robot added a delay\n\n20\n00:00:38,390 --> 00:00:40,040\nof just two tenths of a second.\n\n21\n00:00:40,590 --> 00:00:42,530\nSuddenly, it felt more ticklish.\n\n22\n00:00:43,080 --> 00:00:44,380\nThe prediction was off,\n\n23\n00:00:44,680 --> 00:00:46,250\nso the brain couldn't cancel it.\n\n24\n00:00:46,800 --> 00:00:48,790\nSo your own brain blocks the tickle.\n\n25\n00:00:49,340 --> 00:00:51,080\nCan you find a way to outsmart it?\n\n",
-      "tg_msg": 958,
-      "approved_by": "auto",
-      "quota_note": "2026-11-01",
-      "description_full": "Why can't you tickle yourself? Your cerebellum predicts the touch from your own movement and turns the feeling down, but in a robot experiment, adding a delay of just 0.2 seconds made self-tickling feel more ticklish.\n\nSources:\nhttps://www.scientificamerican.com/article/why-cant-a-person-tickle/\nhttps://link.springer.com/article/10.1038/2870\nhttps://www.sciencealert.com/the-scientific-reason-you-can-t-tickle-yourself\n\nAnimated in the Napkin Sketch style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #brain #science #tickle\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Napkin Sketch style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/YSDo8C-FODQ",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-11-01T08:06:55.952253+00:00",
-      "slot": "2026-11-04T20:15:00+00:00"
-    },
     "2026-10-31-104": {
       "topic": {
         "title": "Why do sharks never run out of teeth?",
@@ -3117,12 +2946,12 @@
         "format": "animated",
         "style": "Claymation Set"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261106-milk-yogurt",
       "redos": 0,
-      "updated": "2026-11-06T13:01:12.337247+00:00",
+      "updated": "2026-11-06T19:52:53.879678+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Claymation Set style). Voice: Kokoro text-to-speech."
       ],
@@ -3137,7 +2966,29 @@
         "name": "2026-11-06-102-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:04,830\nYour yogurt is milk that two kinds of bacteria soured in about five hours.\n\n2\n00:00:05,380 --> 00:00:07,020\nFirst, the milk gets heated,\n\n3\n00:00:07,320 --> 00:00:09,500\nto around two hundred degrees Fahrenheit.\n\n4\n00:00:10,050 --> 00:00:11,650\nThat changes its proteins,\n\n5\n00:00:11,950 --> 00:00:13,610\nso they can set together later.\n\n6\n00:00:14,160 --> 00:00:16,290\nThen it cools to about a hundred and ten,\n\n7\n00:00:16,590 --> 00:00:18,850\nand two kinds of bacteria get stirred in.\n\n8\n00:00:19,400 --> 00:00:21,560\nOne looks like chains of tiny beads,\n\n9\n00:00:21,860 --> 00:00:23,510\nthe other like little rods.\n\n10\n00:00:24,060 --> 00:00:25,470\nThey only want one thing:\n\n11\n00:00:25,770 --> 00:00:27,430\nlactose, the sugar in milk.\n\n12\n00:00:27,980 --> 00:00:29,370\nFor about five hours,\n\n13\n00:00:29,670 --> 00:00:31,730\nthey eat it, and make lactic acid.\n\n14\n00:00:32,280 --> 00:00:33,930\nThen comes the magic number:\n\n15\n00:00:34,230 --> 00:00:35,370\nfour point six.\n\n16\n00:00:35,920 --> 00:00:38,440\nAt that pH, floating proteins clump,\n\n17\n00:00:38,740 --> 00:00:40,470\ninto a soft, wobbly net.\n\n18\n00:00:41,020 --> 00:00:42,470\nThat net traps the liquid,\n\n19\n00:00:42,770 --> 00:00:44,260\nand thin milk turns thick.\n\n20\n00:00:44,810 --> 00:00:47,140\nThat tangy taste? That's the acid too.\n\n21\n00:00:47,690 --> 00:00:48,570\nSo tell me,\n\n22\n00:00:48,870 --> 00:00:51,490\nwould you still eat it, knowing bacteria made it?\n\n",
-      "tg_msg": 1038
+      "tg_msg": 1038,
+      "approved_by": "auto",
+      "description_full": "How is yogurt made? Two kinds of bacteria eat the lactose in warm milk and make lactic acid, and at about pH 4.6 the milk proteins clump into a soft net that turns thin milk thick.\n\nSources:\nhttps://ucfoodsafety.ucdavis.edu/sites/g/files/dgvnsk7366/files/inline-files/295482.pdf\nhttps://grupos.eez.csic.es/imili/wp-content/uploads/2025/07/fermented-foods-yoghurt.pdf\nhttps://brodandtaylor.com/the-science-of-great-yogurt/\n\nAnimated in the Claymation Set style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #yogurt #science #food\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Claymation Set style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/IOp6jG0AmqU",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-06T19:52:53.879698+00:00",
+      "slot": "2026-11-12T00:15:00+00:00"
     },
     "2026-11-06-103": {
       "topic": {
@@ -3186,12 +3037,12 @@
         "format": "long",
         "style": "Cut-Paper Diorama"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261106-jellyfish-sting",
       "redos": 0,
-      "updated": "2026-11-06T13:10:32.583621+00:00",
+      "updated": "2026-11-06T19:53:01.829319+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Cut-Paper Diorama style). Voice: Kokoro text-to-speech."
       ],
@@ -3206,7 +3057,154 @@
         "name": "2026-11-06-103-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:01,750\nA jellyfish can sting you,\n\n2\n00:00:02,050 --> 00:00:03,870\nin under a millionth of a second,\n\n3\n00:00:04,170 --> 00:00:05,210\nwithout a brain,\n\n4\n00:00:05,510 --> 00:00:06,930\nand you'd never see it coming.\n\n5\n00:00:07,480 --> 00:00:09,000\nSo what actually happens,\n\n6\n00:00:09,300 --> 00:00:10,660\nwhen one of them stings you?\n\n7\n00:00:11,210 --> 00:00:12,590\nFirst, meet the animal.\n\n8\n00:00:13,140 --> 00:00:15,480\nJellyfish have been drifting through the ocean,\n\n9\n00:00:15,780 --> 00:00:18,210\nfor more than 500 million years.\n\n10\n00:00:18,760 --> 00:00:20,270\nAnd they've never had a brain.\n\n11\n00:00:20,820 --> 00:00:22,320\nThey also have no heart,\n\n12\n00:00:22,620 --> 00:00:23,540\nno bones,\n\n13\n00:00:23,840 --> 00:00:24,770\nand no blood.\n\n14\n00:00:25,320 --> 00:00:26,600\nWhat they have instead,\n\n15\n00:00:26,900 --> 00:00:28,500\nis a simple net of nerves,\n\n16\n00:00:28,800 --> 00:00:30,960\nspread through a soft, see-through body.\n\n17\n00:00:31,510 --> 00:00:33,150\nSo when a jellyfish stings you,\n\n18\n00:00:33,450 --> 00:00:34,530\nit isn't angry.\n\n19\n00:00:35,080 --> 00:00:36,870\nIt isn't even really aware of you.\n\n20\n00:00:37,420 --> 00:00:38,960\nMost of them just drift,\n\n21\n00:00:39,260 --> 00:00:41,160\nand let their tentacles do the work.\n\n22\n00:00:41,710 --> 00:00:43,520\nNow zoom in on one tentacle.\n\n23\n00:00:44,070 --> 00:00:46,790\nIt's covered in thousands of tiny stinging cells.\n\n24\n00:00:47,340 --> 00:00:49,490\nAnd inside each cell sits a capsule,\n\n25\n00:00:49,790 --> 00:00:51,220\ncalled a nematocyst.\n\n26\n00:00:51,770 --> 00:00:53,020\nSeveral of them could fit,\n\n27\n00:00:53,320 --> 00:00:55,030\nacross a single human hair.\n\n28\n00:00:55,580 --> 00:00:57,140\nPacked inside that capsule,\n\n29\n00:00:57,440 --> 00:00:58,920\nis a long, hollow thread,\n\n30\n00:00:59,220 --> 00:01:00,520\ncoiled up like a spring,\n\n31\n00:01:00,820 --> 00:01:02,810\nwith a sharp tip waiting at the front.\n\n32\n00:01:03,360 --> 00:01:05,280\nThink of it as a loaded harpoon,\n\n33\n00:01:05,580 --> 00:01:07,070\nsitting in a bath of venom.\n\n34\n00:01:07,620 --> 00:01:09,260\nThe pressure in there is huge,\n\n35\n00:01:09,560 --> 00:01:12,420\nabout 150 times normal air pressure.\n\n36\n00:01:12,970 --> 00:01:14,680\nThat's dozens of times stronger,\n\n37\n00:01:14,980 --> 00:01:16,560\nthan the air in a car tire.\n\n38\n00:01:17,110 --> 00:01:18,340\nSo what sets it off?\n\n39\n00:01:18,890 --> 00:01:21,420\nEach cell has a tiny trigger on the outside.\n\n40\n00:01:21,970 --> 00:01:24,430\nBump it, or hit it with the right chemicals,\n\n41\n00:01:24,730 --> 00:01:26,090\nand the lid pops open.\n\n42\n00:01:26,640 --> 00:01:27,990\nSeawater rushes in,\n\n43\n00:01:28,290 --> 00:01:29,670\nthe pressure takes over,\n\n44\n00:01:29,970 --> 00:01:31,380\nand the harpoon fires.\n\n45\n00:01:31,930 --> 00:01:33,300\nNo brain tells it to.\n\n46\n00:01:33,850 --> 00:01:35,630\nThe cell mostly acts on its own.\n\n47\n00:01:36,180 --> 00:01:38,460\nNow here's the part that's hard to believe.\n\n48\n00:01:39,010 --> 00:01:41,810\nIn 2006, scientists filmed this,\n\n49\n00:01:42,110 --> 00:01:45,120\nin hydra, a tiny relative of the jellyfish.\n\n50\n00:01:45,670 --> 00:01:48,530\nTheir camera shot over a million frames per second.\n\n51\n00:01:49,080 --> 00:01:50,600\nAnd the first part of the shot,\n\n52\n00:01:50,900 --> 00:01:53,740\nwas over in just 700 nanoseconds.\n\n53\n00:01:54,290 --> 00:01:56,330\nThat's seven ten-millionths of a second.\n\n54\n00:01:56,880 --> 00:01:59,100\nThe tip hit up to five million g's.\n\n55\n00:01:59,650 --> 00:02:01,960\npeople tend to black out at around six.\n\n56\n00:02:02,510 --> 00:02:04,430\nAnd a mantis shrimp's famous punch,\n\n57\n00:02:04,730 --> 00:02:06,530\nreaches about ten thousand.\n\n58\n00:02:07,080 --> 00:02:08,730\nBecause that tip is so tiny,\n\n59\n00:02:09,030 --> 00:02:10,450\nthe pressure where it lands,\n\n60\n00:02:10,750 --> 00:02:12,210\nis in the range of a bullet.\n\n61\n00:02:12,760 --> 00:02:14,760\nIt's strong enough to pierce a crab's shell.\n\n62\n00:02:15,310 --> 00:02:16,840\nSo what happens in your skin?\n\n63\n00:02:17,390 --> 00:02:18,820\nAfter the tip punches in,\n\n64\n00:02:19,120 --> 00:02:21,090\nthe thread turns itself inside out,\n\n65\n00:02:21,390 --> 00:02:23,460\nand the capsule squeezes venom through it.\n\n66\n00:02:24,010 --> 00:02:26,490\nSome of those toxins punch holes in cells.\n\n67\n00:02:27,040 --> 00:02:28,500\nOthers go after nerves.\n\n68\n00:02:29,050 --> 00:02:31,190\nOne cell alone does almost nothing.\n\n69\n00:02:31,740 --> 00:02:34,170\nBut brushing a tentacle sets off thousands,\n\n70\n00:02:34,470 --> 00:02:35,350\nall at once,\n\n71\n00:02:35,650 --> 00:02:37,410\nand that's the sudden burn you feel.\n\n72\n00:02:37,960 --> 00:02:40,990\nFor most people, it's more painful than dangerous,\n\n73\n00:02:41,290 --> 00:02:44,110\nthough a few species, like some box jellyfish,\n\n74\n00:02:44,410 --> 00:02:45,960\nare seriously dangerous.\n\n75\n00:02:46,510 --> 00:02:48,470\nAnd since nothing here needs a brain,\n\n76\n00:02:48,770 --> 00:02:49,940\nthings get strange.\n\n77\n00:02:50,490 --> 00:02:52,210\nA dead jellyfish on the beach,\n\n78\n00:02:52,510 --> 00:02:53,670\ncan still sting you.\n\n79\n00:02:54,220 --> 00:02:56,560\nClownfish live among stinging anemones,\n\n80\n00:02:56,860 --> 00:02:58,330\nthe jellyfish's cousins,\n\n81\n00:02:58,630 --> 00:03:00,560\nbecause their slime lacks a chemical,\n\n82\n00:03:00,860 --> 00:03:02,510\nthat helps set those cells off.\n\n83\n00:03:03,060 --> 00:03:05,270\nAnd some sea slugs eat stinging cells,\n\n84\n00:03:05,570 --> 00:03:06,840\nwithout firing them,\n\n85\n00:03:07,140 --> 00:03:09,100\nthen store them in their own bodies,\n\n86\n00:03:09,400 --> 00:03:11,390\nand use them on their own enemies.\n\n87\n00:03:11,940 --> 00:03:13,740\nSo that sting wasn't an attack.\n\n88\n00:03:14,290 --> 00:03:16,320\nIt was thousands of tiny machines,\n\n89\n00:03:16,620 --> 00:03:18,890\neach doing the one thing it was built for,\n\n90\n00:03:19,190 --> 00:03:21,090\nhalf a billion years in the making.\n\n91\n00:03:21,640 --> 00:03:24,660\nNext up, why can you hold a crocodile's jaws shut,\n\n92\n00:03:24,960 --> 00:03:26,130\nwith your bare hands?\n\n",
-      "tg_msg": 1040
+      "tg_msg": 1040,
+      "approved_by": "auto",
+      "description_full": "What actually happens when a jellyfish stings you? See how stinging cells fire a coiled harpoon without a brain, why the first part of the shot lasts just 700 nanoseconds in hydra, and why a dead jellyfish on the beach can still sting.\n\nSources:\nhttps://www.sciencedaily.com/releases/2006/05/060508180735.htm\nhttps://oceanconservancy.org/blog/2023/08/03/do-jellyfish-have-brains/\nhttps://ocean.si.edu/ocean-life/invertebrates/how-sea-slugs-steal-defenses-their-prey\n\nAnimated in the Cut-Paper Diorama style.\n\nFollow Zorbly AI for a new Short every day.\n\n#jellyfish #science #animals\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Cut-Paper Diorama style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/eB7biWysGBU",
+          "private \u00b7 thumbnail \u2705"
+        ]
+      },
+      "uploaded_at": "2026-11-06T19:53:01.829338+00:00",
+      "slot": "2026-11-12T02:15:00+00:00"
+    },
+    "2026-11-06-104": {
+      "topic": {
+        "title": "Why does chili feel hot when it isn't?",
+        "format": "animated",
+        "angle": "Kawaii Anime"
+      },
+      "package": {
+        "title": "Why Does Chili Burn at 37\u00b0C When Nothing's Hot? \ud83c\udf36\ufe0f",
+        "description": "Why does chili feel hot when it isn't? Capsaicin in chili peppers switches on TRPV1, the heat sensor on your tongue that normally fires above 43\u00b0C, so your brain feels burning with no real heat.\n\nSources:\nhttps://www.scienceabc.com/nature/how-capsaicin-led-to-the-2021-nobel-prize-in-physiology\nhttps://theconversation.com/why-doesnt-water-help-with-spicy-food-what-about-milk-or-beer-226624\nhttps://archive.news.ufl.edu/articles/2001/07/for-peppers-hot-quite-literally-the-spice-of-life-uf-research-shows.html\n\nAnimated in the Kawaii Anime style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#science",
+          "#food",
+          "#chili"
+        ],
+        "tags": [
+          "why is chili hot",
+          "capsaicin",
+          "why does spicy food burn",
+          "TRPV1",
+          "chili pepper science",
+          "spicy food science",
+          "why milk helps spicy food",
+          "why water doesn't help spicy food",
+          "birds eat chili",
+          "food science",
+          "how taste works",
+          "explainer",
+          "kawaii animation"
+        ],
+        "category": "27",
+        "pinned_comment": "What's the spiciest chili that's ever fooled you?",
+        "thumbnail_text": "TONGUE TRICKED",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "Chili isn't hot.\nYou've been fooled every single time.\nPut one in the fridge,\nand it still burns.\nYour tongue is covered in tiny heat alarms.\nThey stay quiet,\nuntil something hits about forty-three degrees Celsius,\nthat's a hundred and nine Fahrenheit.\nBut chili carries a molecule called capsaicin,\nand it fits that alarm like a key.\nThe alarm goes off at body temperature,\nand yells to your brain: this is burning!\nSo you even start to sweat,\nbut nothing's actually heating up.\nWater won't save you,\ncapsaicin won't mix with it.\nMilk's protein, casein, wraps it up,\nand carries it away.\nBirds don't even feel it,\nso they happily eat chilis,\nand spread the seeds.\nWhat's the spiciest chili that's ever fooled you?",
+        "key_facts": [
+          "Capsaicin opens TRPV1, the heat receptor that normally fires above about 43\u00b0C (109\u00b0F)",
+          "It opens at body temperature, sending the same burning signal with no temperature change",
+          "Capsaicin is hydrophobic and doesn't mix with water",
+          "Casein in milk wraps capsaicin and carries it away",
+          "Birds don't feel capsaicin and spread chili seeds"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Kawaii Anime"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261106-chili-not-hot",
+      "redos": 0,
+      "updated": "2026-11-06T19:52:43.733381+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-06",
+        "name": "2026-11-06-104.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-06",
+        "name": "2026-11-06-104-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:01,400\nChili isn't hot.\n\n2\n00:00:01,950 --> 00:00:04,130\nYou've been fooled every single time.\n\n3\n00:00:04,680 --> 00:00:05,920\nPut one in the fridge,\n\n4\n00:00:06,220 --> 00:00:07,380\nand it still burns.\n\n5\n00:00:07,930 --> 00:00:10,410\nYour tongue is covered in tiny heat alarms.\n\n6\n00:00:10,960 --> 00:00:12,010\nThey stay quiet,\n\n7\n00:00:12,310 --> 00:00:15,590\nuntil something hits about forty-three degrees Celsius,\n\n8\n00:00:15,890 --> 00:00:17,780\nthat's a hundred and nine Fahrenheit.\n\n9\n00:00:18,330 --> 00:00:21,130\nBut chili carries a molecule called capsaicin,\n\n10\n00:00:21,430 --> 00:00:23,290\nand it fits that alarm like a key.\n\n11\n00:00:23,840 --> 00:00:26,150\nThe alarm goes off at body temperature,\n\n12\n00:00:26,450 --> 00:00:28,760\nand yells to your brain: this is burning!\n\n13\n00:00:29,310 --> 00:00:30,740\nSo you even start to sweat,\n\n14\n00:00:31,040 --> 00:00:32,970\nbut nothing's actually heating up.\n\n15\n00:00:33,520 --> 00:00:34,790\nWater won't save you,\n\n16\n00:00:35,090 --> 00:00:36,790\ncapsaicin won't mix with it.\n\n17\n00:00:37,340 --> 00:00:39,580\nMilk's protein, casein, wraps it up,\n\n18\n00:00:39,880 --> 00:00:41,110\nand carries it away.\n\n19\n00:00:41,660 --> 00:00:43,100\nBirds don't even feel it,\n\n20\n00:00:43,400 --> 00:00:44,970\nso they happily eat chilis,\n\n21\n00:00:45,270 --> 00:00:46,470\nand spread the seeds.\n\n22\n00:00:47,020 --> 00:00:49,540\nWhat's the spiciest chili that's ever fooled you?\n\n",
+      "tg_msg": 1041
+    },
+    "2026-11-06-105": {
+      "topic": {
+        "title": "Why do your nails keep growing when your arms stopped?",
+        "format": "animated",
+        "angle": "Chalkboard Lesson"
+      },
+      "package": {
+        "title": "Why Do Nails Grow 3mm a Month Forever?",
+        "description": "Why do your fingernails keep growing your whole life when your bones stopped growing in your teens? Growth plates in long bones turn to solid bone after puberty, but the nail matrix under your cuticle keeps making new cells, about 3 mm of fingernail a month.\n\nSources:\nhttps://en.wikipedia.org/wiki/Nail_(anatomy)\nhttps://en.wikipedia.org/wiki/Epiphyseal_plate\nhttps://pubmed.ncbi.nlm.nih.gov/21540578\n\nAnimated in the Chalkboard Lesson style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#science",
+          "#humanbody",
+          "#howitworks"
+        ],
+        "tags": [
+          "why do nails keep growing",
+          "how fast do nails grow",
+          "nail matrix",
+          "growth plates",
+          "why do bones stop growing",
+          "fingernails vs toenails",
+          "human body facts",
+          "how the body works",
+          "science explained",
+          "chalkboard explainer",
+          "zorbly ai",
+          "body curiosities"
+        ],
+        "category": "27",
+        "pinned_comment": "Which grows faster: your fingernails or your toenails?",
+        "thumbnail_text": "ARMS STOPPED",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "Your nails never stop growing, but your arms stopped years ago. So why does one keep going? It starts with your bones. Near each end of a long bone sits a soft strip called a growth plate. It keeps adding new bone, so your arms get longer. But by your late teens, that strip turns to solid bone. The plate closes, and your arms stop for good. Nails work differently. Under your cuticle hides the nail matrix, a tiny factory that never shuts down. It keeps making new cells, pushing the older ones forward. Those cells harden and die, which is why clipping doesn't hurt. Fingernails grow about three millimeters a month, so a whole new nail takes around six months. So which grows faster: your fingernails, or your toenails?",
+        "key_facts": [
+          "Long bones lengthen at growth plates (epiphyseal plates) near each end",
+          "Growth plates ossify and close after puberty, around the late teens",
+          "The nail matrix under the cuticle produces new cells throughout life, pushing older ones forward",
+          "Nail plate cells harden (keratinize) and are dead, so clipping is painless",
+          "Fingernails grow about 3 mm a month; a whole fingernail regrows in about 6 months; toenails grow slower"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Chalkboard Lesson"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261106-nails-keep-growing",
+      "redos": 0,
+      "updated": "2026-11-06T19:59:51.048888+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Chalkboard Lesson style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-06",
+        "name": "2026-11-06-105.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-06",
+        "name": "2026-11-06-105-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:02,110\nYour nails never stop growing,\n\n2\n00:00:02,410 --> 00:00:04,280\nbut your arms stopped years ago.\n\n3\n00:00:04,830 --> 00:00:06,570\nSo why does one keep going?\n\n4\n00:00:07,120 --> 00:00:08,570\nIt starts with your bones.\n\n5\n00:00:09,120 --> 00:00:10,820\nNear each end of a long bone\n\n6\n00:00:11,120 --> 00:00:13,170\nsits a soft strip called a growth plate.\n\n7\n00:00:13,720 --> 00:00:15,180\nIt keeps adding new bone,\n\n8\n00:00:15,480 --> 00:00:17,010\nso your arms get longer.\n\n9\n00:00:17,560 --> 00:00:18,980\nBut by your late teens,\n\n10\n00:00:19,280 --> 00:00:21,210\nthat strip turns to solid bone.\n\n11\n00:00:21,760 --> 00:00:22,880\nThe plate closes,\n\n12\n00:00:23,180 --> 00:00:24,780\nand your arms stop for good.\n\n13\n00:00:25,330 --> 00:00:26,710\nNails work differently.\n\n14\n00:00:27,260 --> 00:00:29,800\nUnder your cuticle hides the nail matrix,\n\n15\n00:00:30,100 --> 00:00:32,410\na tiny factory that never shuts down.\n\n16\n00:00:32,960 --> 00:00:34,560\nIt keeps making new cells,\n\n17\n00:00:34,860 --> 00:00:36,600\npushing the older ones forward.\n\n18\n00:00:37,150 --> 00:00:38,780\nThose cells harden and die,\n\n19\n00:00:39,080 --> 00:00:40,870\nwhich is why clipping doesn't hurt.\n\n20\n00:00:41,420 --> 00:00:44,290\nFingernails grow about three millimeters a month,\n\n21\n00:00:44,590 --> 00:00:47,030\nso a whole new nail takes around six months.\n\n22\n00:00:47,580 --> 00:00:49,020\nSo which grows faster:\n\n23\n00:00:49,320 --> 00:00:51,290\nyour fingernails, or your toenails?\n\n",
+      "tg_msg": 1044
     }
   },
   "history": [
@@ -3360,7 +3358,9 @@
     "drop/20261105-foot-asleep": "2026-11-05-105",
     "drop/20261106-mosquito-dark": "2026-11-06-101",
     "drop/20261106-milk-yogurt": "2026-11-06-102",
-    "drop/20261106-jellyfish-sting": "2026-11-06-103"
+    "drop/20261106-jellyfish-sting": "2026-11-06-103",
+    "drop/20261106-chili-not-hot": "2026-11-06-104",
+    "drop/20261106-nails-keep-growing": "2026-11-06-105"
   },
   "refs_day": "2026-11-06"
 }
