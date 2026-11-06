@@ -378,98 +378,6 @@
     }
   },
   "videos": {
-    "2026-10-30-105": {
-      "topic": {
-        "title": "How do penguins keep their feet from freezing?",
-        "format": "animated",
-        "angle": "Low-Poly Faceted"
-      },
-      "package": {
-        "title": "Penguins Keep Their Feet at 0\u00b0C On Purpose \ud83d\udc27",
-        "description": "How do penguins keep their feet from freezing on the ice? Warm blood flowing down their legs runs right beside cold blood coming back up, so heat is swapped before it reaches the feet (countercurrent heat exchange), and the feet stay just above freezing while rocking back on their heels and tail keeps the toes off the ice.\n\nSources:\nhttps://www.britannica.com/animal/penguin/Form-and-function\nhttps://www.howitworksdaily.com/why-dont-penguins-feet-freeze/\nhttps://interestingengineering.com/science/why-dont-penguins-feet-freeze-evolutionary-adaptation\n\nAnimated in the Low-Poly Faceted style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#penguins",
-          "#animalfacts",
-          "#science"
-        ],
-        "tags": [
-          "penguin feet",
-          "why don't penguin feet freeze",
-          "how penguins stay warm",
-          "countercurrent heat exchange",
-          "emperor penguin",
-          "penguin facts",
-          "animal adaptations",
-          "antarctica animals",
-          "how does it work",
-          "science explained",
-          "animal facts",
-          "low poly animation",
-          "cold weather animals"
-        ],
-        "category": "27",
-        "pinned_comment": "How long do you think YOUR bare toes would last on Antarctic ice? \ud83e\uddca",
-        "thumbnail_text": "FROZEN?",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "You'd lose your toes on this ice.\nEmperor penguins stand on it for two months.\nThe secret is in their legs.\nWarm blood flowing down to the feet\nruns right beside cold blood coming back up.\nSo the heat jumps across,\nlike passing a hot potato.\nBy the time blood reaches the toes,\nit's just above freezing.\nCold toes lose very little heat to the ice,\nand the warmth goes back into the body.\nFeet near zero degrees,\nbody near thirty-eight.\nIf the toes get too cold,\nthe penguin widens its arteries,\nand sends down a little more warm blood.\nStill chilly?\nIt rocks back on its heels and stiff tail,\nlifting its toes off the ice,\nand hunches down,\nso belly feathers blanket its feet.\nA penguin keeps its feet cold on purpose.\nSo how long would your toes last out there?",
-        "key_facts": [
-          "Penguin legs use countercurrent heat exchange: arteries and veins run closely side by side so outgoing warm blood warms the cold blood returning from the feet (Britannica, How It Works)",
-          "Penguins keep their feet just above freezing; Britannica puts foot skin temperature near 0 \u00b0C",
-          "Penguins can increase warm blood flow to the feet by widening the arteries if the feet get too cold (How It Works)",
-          "Penguins rock back on their heels and tail to lift their feet off the ice, and hunch so belly feathers cover the feet (How It Works)",
-          "Male emperor penguins stand on the sea ice incubating the egg for about two months; penguin core body temperature is about 38 \u00b0C"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Low-Poly Faceted"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261030-penguin-feet",
-      "redos": 0,
-      "updated": "2026-10-31T08:51:25.686274+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Low-Poly Faceted style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-30",
-        "name": "2026-10-30-105.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-30",
-        "name": "2026-10-30-105-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:02,090\nYou'd lose your toes on this ice.\n\n2\n00:00:02,640 --> 00:00:04,970\nEmperor penguins stand on it for two months.\n\n3\n00:00:05,520 --> 00:00:07,180\nThe secret is in their legs.\n\n4\n00:00:07,730 --> 00:00:09,760\nWarm blood flowing down to the feet\n\n5\n00:00:10,060 --> 00:00:13,020\nruns right beside cold blood coming back up.\n\n6\n00:00:13,570 --> 00:00:15,170\nSo the heat jumps across,\n\n7\n00:00:15,470 --> 00:00:17,160\nlike passing a hot potato.\n\n8\n00:00:17,710 --> 00:00:19,790\nBy the time blood reaches the toes,\n\n9\n00:00:20,090 --> 00:00:21,620\nit's just above freezing.\n\n10\n00:00:22,170 --> 00:00:24,910\nCold toes lose very little heat to the ice,\n\n11\n00:00:25,210 --> 00:00:27,180\nand the warmth goes back into the body.\n\n12\n00:00:27,730 --> 00:00:29,380\nFeet near zero degrees,\n\n13\n00:00:29,680 --> 00:00:31,010\nbody near thirty-eight.\n\n14\n00:00:31,560 --> 00:00:33,210\nIf the toes get too cold,\n\n15\n00:00:33,510 --> 00:00:35,600\nthe penguin widens its arteries,\n\n16\n00:00:35,900 --> 00:00:38,210\nand sends down a little more warm blood.\n\n17\n00:00:38,760 --> 00:00:39,670\nStill chilly?\n\n18\n00:00:40,220 --> 00:00:42,590\nIt rocks back on its heels and stiff tail,\n\n19\n00:00:42,890 --> 00:00:44,640\nlifting its toes off the ice,\n\n20\n00:00:44,940 --> 00:00:46,080\nand hunches down,\n\n21\n00:00:46,380 --> 00:00:48,390\nso belly feathers blanket its feet.\n\n22\n00:00:48,940 --> 00:00:51,440\nA penguin keeps its feet cold on purpose.\n\n23\n00:00:51,990 --> 00:00:54,280\nSo how long would your toes last out there?\n\n",
-      "tg_msg": 937,
-      "approved_by": "auto",
-      "quota_note": "2026-10-31",
-      "description_full": "How do penguins keep their feet from freezing on the ice? Warm blood flowing down their legs runs right beside cold blood coming back up, so heat is swapped before it reaches the feet (countercurrent heat exchange), and the feet stay just above freezing while rocking back on their heels and tail keeps the toes off the ice.\n\nSources:\nhttps://www.britannica.com/animal/penguin/Form-and-function\nhttps://www.howitworksdaily.com/why-dont-penguins-feet-freeze/\nhttps://interestingengineering.com/science/why-dont-penguins-feet-freeze-evolutionary-adaptation\n\nAnimated in the Low-Poly Faceted style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #penguins #animalfacts #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Low-Poly Faceted style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/-Xp4slqahyk",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-10-31T08:51:25.686285+00:00",
-      "slot": "2026-11-04T02:15:00+00:00"
-    },
     "2026-10-31-101": {
       "topic": {
         "title": "Why are you taller in the morning than at night?",
@@ -3118,12 +3026,12 @@
         "format": "animated",
         "style": "Chalkboard Lesson"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261105-foot-asleep",
       "redos": 0,
-      "updated": "2026-11-05T21:06:44.712913+00:00",
+      "updated": "2026-11-05T23:57:19.411910+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Chalkboard Lesson style). Voice: Kokoro text-to-speech."
       ],
@@ -3138,7 +3046,29 @@
         "name": "2026-11-05-105-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:02,810\nWhy does your foot lose signal when you sit on it?\n\n2\n00:00:03,360 --> 00:00:05,070\nMost people blame blood flow,\n\n3\n00:00:05,370 --> 00:00:07,580\nbut scientists call that mostly a myth.\n\n4\n00:00:08,130 --> 00:00:09,970\nThe real culprit is a nerve.\n\n5\n00:00:10,520 --> 00:00:12,370\nThink of it like a garden hose,\n\n6\n00:00:12,670 --> 00:00:14,750\ncarrying signals instead of water.\n\n7\n00:00:15,300 --> 00:00:17,690\nMessages run from your foot to your brain.\n\n8\n00:00:18,240 --> 00:00:19,620\nSo you cross your legs.\n\n9\n00:00:20,170 --> 00:00:21,910\nThat pressure pinches the nerve,\n\n10\n00:00:22,210 --> 00:00:23,680\nlike stepping on the hose.\n\n11\n00:00:24,230 --> 00:00:26,920\nSignals get blocked, or come through scrambled.\n\n12\n00:00:27,470 --> 00:00:29,220\nYour brain hears almost nothing,\n\n13\n00:00:29,520 --> 00:00:30,860\nso your foot goes numb.\n\n14\n00:00:31,410 --> 00:00:32,480\nThen you stand up.\n\n15\n00:00:33,030 --> 00:00:34,710\nThe nerve starts working again,\n\n16\n00:00:35,010 --> 00:00:36,280\nbut it isn't smooth yet.\n\n17\n00:00:36,830 --> 00:00:38,430\nMessy signals rush through,\n\n18\n00:00:38,730 --> 00:00:41,820\nand your brain probably reads them as tiny prickles.\n\n19\n00:00:42,370 --> 00:00:43,980\nThose are pins and needles,\n\n20\n00:00:44,280 --> 00:00:46,150\nand they usually fade in minutes.\n\n21\n00:00:46,700 --> 00:00:49,060\nSo which part of you loses signal first:\n\n22\n00:00:49,360 --> 00:00:51,310\nyour foot, your hand, or your arm?\n\n",
-      "tg_msg": 1033
+      "tg_msg": 1033,
+      "approved_by": "auto",
+      "description_full": "Why does your foot fall asleep and get pins and needles? It's mostly a squeezed nerve, not cut-off blood flow, and the tingling comes as the nerve starts working again.\n\nSources:\nhttps://www.sciencenorway.no/human-body/why-do-hands-arms-and-legs-fall-asleep/2638868\nhttps://www.sciencealert.com/here-s-what-happens-when-your-foot-falls-asleep\nhttps://www.mentalfloss.com/article/21035/why-do-limbs-fall-asleep\n\nAnimated in the Chalkboard Lesson style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #science #humanbody #howitworks\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Chalkboard Lesson style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/qkp5THTnhJI",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-05T23:57:19.411964+00:00",
+      "slot": "2026-11-11T17:15:00+00:00"
     }
   },
   "history": [
@@ -3217,7 +3147,7 @@
       "at": "2026-10-25T17:40:17.371797+00:00"
     }
   },
-  "cleanup_day": "2026-11-05",
+  "cleanup_day": "2026-11-06",
   "recent_voices": [
     "en-AU-WilliamMultilingualNeural",
     "en-US-EmmaMultilingualNeural",
@@ -3291,5 +3221,5 @@
     "drop/20261105-dolphin-sleep": "2026-11-05-104",
     "drop/20261105-foot-asleep": "2026-11-05-105"
   },
-  "refs_day": "2026-11-05"
+  "refs_day": "2026-11-06"
 }
