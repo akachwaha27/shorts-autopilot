@@ -3069,6 +3069,74 @@
       },
       "uploaded_at": "2026-11-05T23:57:19.411964+00:00",
       "slot": "2026-11-11T17:15:00+00:00"
+    },
+    "2026-11-06-101": {
+      "topic": {
+        "title": "How does a mosquito find you in the dark?",
+        "format": "animated",
+        "angle": "Flat-Vector Science"
+      },
+      "package": {
+        "title": "How Do Mosquitoes Find You in the Dark From 50 Meters? \ud83e\udd9f",
+        "description": "How do mosquitoes find you in the dark? They follow the carbon dioxide you breathe out, then your body odor, then the infrared heat from your skin.\n\nSources:\nhttps://experts.caltech.edu/news/mosquitoes-use-smell-see-their-hosts-47338\nhttps://sciencedaily.com/releases/2024/08/240822181042.htm\nhttps://doi.org/10.1038/s41586-024-07848-5\n\nAnimated in the Flat-Vector Science style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#science",
+          "#mosquito",
+          "#howitworks"
+        ],
+        "tags": [
+          "how do mosquitoes find you",
+          "mosquitoes in the dark",
+          "why mosquitoes bite me",
+          "mosquito carbon dioxide",
+          "mosquito infrared",
+          "mosquito body heat",
+          "insect facts",
+          "animal facts",
+          "science explained",
+          "how it works",
+          "flat vector explainer",
+          "zorbly ai"
+        ],
+        "category": "27",
+        "pinned_comment": "Do mosquitoes always pick you, or someone else in your house?",
+        "thumbnail_text": "BREATH TRAIL",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "How does a mosquito find you in the pitch dark? Your breath. Only females hunt you, because they need blood to make eggs. Every time you breathe out, you leave a trail of carbon dioxide. Scientists think she can smell it from up to fifty meters away, about half a football field. She follows that invisible trail. Closer in, she picks up your body odor. In daylight, she'd spot you from about fifteen meters, but tonight, that's no help. So here's her secret weapon. Tiny pits on her antenna tips sense the infrared heat your skin gives off, from about seventy centimeters away. In one lab study, adding that heat doubled how hard mosquitoes searched. Breath, then smell, then heat. And she lands. So tell me: do mosquitoes always pick you, or someone else?",
+        "key_facts": [
+          "Only female mosquitoes bite; they need blood to develop eggs (ScienceDaily 2024, Caltech 2015).",
+          "Researchers hypothesize mosquitoes smell a CO2 plume from 10 to 50 meters (Caltech 2015, model-based).",
+          "They begin to see a host within 5 to 15 meters (Caltech 2015).",
+          "Aedes aegypti detect thermal infrared up to about 70 cm via antenna-tip peg-in-pit structures (Nature 2024).",
+          "Adding skin-temperature infrared doubled host-seeking, only alongside CO2 and odor (Nature 2024)."
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Flat-Vector Science"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261106-mosquito-dark",
+      "redos": 0,
+      "updated": "2026-11-06T05:12:55.542449+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-06",
+        "name": "2026-11-06-101.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-06",
+        "name": "2026-11-06-101-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:02,690\nHow does a mosquito find you in the pitch dark?\n\n2\n00:00:03,240 --> 00:00:04,020\nYour breath.\n\n3\n00:00:04,570 --> 00:00:05,950\nOnly females hunt you,\n\n4\n00:00:06,250 --> 00:00:08,270\nbecause they need blood to make eggs.\n\n5\n00:00:08,820 --> 00:00:10,250\nEvery time you breathe out,\n\n6\n00:00:10,550 --> 00:00:12,830\nyou leave a trail of carbon dioxide.\n\n7\n00:00:13,380 --> 00:00:14,950\nScientists think she can smell it\n\n8\n00:00:15,250 --> 00:00:17,030\nfrom up to fifty meters away,\n\n9\n00:00:17,330 --> 00:00:18,960\nabout half a football field.\n\n10\n00:00:19,510 --> 00:00:21,620\nShe follows that invisible trail.\n\n11\n00:00:22,170 --> 00:00:24,520\nCloser in, she picks up your body odor.\n\n12\n00:00:25,070 --> 00:00:28,270\nIn daylight, she'd spot you from about fifteen meters,\n\n13\n00:00:28,570 --> 00:00:30,090\nbut tonight, that's no help.\n\n14\n00:00:30,640 --> 00:00:32,210\nSo here's her secret weapon.\n\n15\n00:00:32,760 --> 00:00:34,590\nTiny pits on her antenna tips\n\n16\n00:00:34,890 --> 00:00:37,380\nsense the infrared heat your skin gives off,\n\n17\n00:00:37,680 --> 00:00:39,680\nfrom about seventy centimeters away.\n\n18\n00:00:40,230 --> 00:00:42,460\nIn one lab study, adding that heat\n\n19\n00:00:42,760 --> 00:00:44,890\ndoubled how hard mosquitoes searched.\n\n20\n00:00:45,440 --> 00:00:47,020\nBreath, then smell, then heat.\n\n21\n00:00:47,570 --> 00:00:48,470\nAnd she lands.\n\n22\n00:00:49,020 --> 00:00:49,920\nSo tell me:\n\n23\n00:00:50,220 --> 00:00:53,050\ndo mosquitoes always pick you, or someone else?\n\n",
+      "tg_msg": 1037
     }
   },
   "history": [
@@ -3219,7 +3287,8 @@
     "drop/20261105-snake-tongue": "2026-11-05-102",
     "drop/20261105-cow-stomach": "2026-11-05-103",
     "drop/20261105-dolphin-sleep": "2026-11-05-104",
-    "drop/20261105-foot-asleep": "2026-11-05-105"
+    "drop/20261105-foot-asleep": "2026-11-05-105",
+    "drop/20261106-mosquito-dark": "2026-11-06-101"
   },
   "refs_day": "2026-11-06"
 }
