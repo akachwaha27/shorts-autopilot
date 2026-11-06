@@ -1,0 +1,683 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.11,
+  "text": "Your nails never stop growing,",
+  "words": [
+   [
+    "your",
+    0.25
+   ],
+   [
+    "nails",
+    0.55
+   ],
+   [
+    "never",
+    0.92
+   ],
+   [
+    "stop",
+    1.29
+   ],
+   [
+    "growing",
+    1.59
+   ]
+  ]
+ },
+ {
+  "s": 2.41,
+  "e": 4.28,
+  "text": "but your arms stopped years ago.",
+  "words": [
+   [
+    "but",
+    2.41
+   ],
+   [
+    "your",
+    2.62
+   ],
+   [
+    "arms",
+    2.91
+   ],
+   [
+    "stopped",
+    3.2
+   ],
+   [
+    "years",
+    3.7
+   ],
+   [
+    "ago",
+    4.06
+   ]
+  ]
+ },
+ {
+  "s": 4.83,
+  "e": 6.57,
+  "text": "So why does one keep going?",
+  "words": [
+   [
+    "so",
+    4.83
+   ],
+   [
+    "why",
+    4.99
+   ],
+   [
+    "does",
+    5.24
+   ],
+   [
+    "one",
+    5.57
+   ],
+   [
+    "keep",
+    5.82
+   ],
+   [
+    "going",
+    6.16
+   ]
+  ]
+ },
+ {
+  "s": 7.12,
+  "e": 8.57,
+  "text": "It starts with your bones.",
+  "words": [
+   [
+    "it",
+    7.12
+   ],
+   [
+    "starts",
+    7.26
+   ],
+   [
+    "with",
+    7.68
+   ],
+   [
+    "your",
+    7.95
+   ],
+   [
+    "bones",
+    8.23
+   ]
+  ]
+ },
+ {
+  "s": 9.12,
+  "e": 10.82,
+  "text": "Near each end of a long bone",
+  "words": [
+   [
+    "near",
+    9.12
+   ],
+   [
+    "each",
+    9.43
+   ],
+   [
+    "end",
+    9.74
+   ],
+   [
+    "of",
+    9.97
+   ],
+   [
+    "a",
+    10.12
+   ],
+   [
+    "long",
+    10.2
+   ],
+   [
+    "bone",
+    10.51
+   ]
+  ]
+ },
+ {
+  "s": 11.12,
+  "e": 13.17,
+  "text": "sits a soft strip called a growth plate.",
+  "words": [
+   [
+    "sits",
+    11.12
+   ],
+   [
+    "a",
+    11.37
+   ],
+   [
+    "soft",
+    11.44
+   ],
+   [
+    "strip",
+    11.7
+   ],
+   [
+    "called",
+    12.02
+   ],
+   [
+    "a",
+    12.4
+   ],
+   [
+    "growth",
+    12.47
+   ],
+   [
+    "plate",
+    12.85
+   ]
+  ]
+ },
+ {
+  "s": 13.72,
+  "e": 15.18,
+  "text": "It keeps adding new bone,",
+  "words": [
+   [
+    "it",
+    13.72
+   ],
+   [
+    "keeps",
+    13.87
+   ],
+   [
+    "adding",
+    14.23
+   ],
+   [
+    "new",
+    14.67
+   ],
+   [
+    "bone",
+    14.89
+   ]
+  ]
+ },
+ {
+  "s": 15.48,
+  "e": 17.01,
+  "text": "so your arms get longer.",
+  "words": [
+   [
+    "so",
+    15.48
+   ],
+   [
+    "your",
+    15.64
+   ],
+   [
+    "arms",
+    15.96
+   ],
+   [
+    "get",
+    16.29
+   ],
+   [
+    "longer",
+    16.53
+   ]
+  ]
+ },
+ {
+  "s": 17.56,
+  "e": 18.98,
+  "text": "But by your late teens,",
+  "words": [
+   [
+    "but",
+    17.56
+   ],
+   [
+    "by",
+    17.8
+   ],
+   [
+    "your",
+    17.95
+   ],
+   [
+    "late",
+    18.27
+   ],
+   [
+    "teens",
+    18.59
+   ]
+  ]
+ },
+ {
+  "s": 19.28,
+  "e": 21.21,
+  "text": "that strip turns to solid bone.",
+  "words": [
+   [
+    "that",
+    19.28
+   ],
+   [
+    "strip",
+    19.59
+   ],
+   [
+    "turns",
+    19.98
+   ],
+   [
+    "to",
+    20.36
+   ],
+   [
+    "solid",
+    20.52
+   ],
+   [
+    "bone",
+    20.9
+   ]
+  ]
+ },
+ {
+  "s": 21.76,
+  "e": 22.88,
+  "text": "The plate closes,",
+  "words": [
+   [
+    "the",
+    21.76
+   ],
+   [
+    "plate",
+    22.0
+   ],
+   [
+    "closes",
+    22.4
+   ]
+  ]
+ },
+ {
+  "s": 23.18,
+  "e": 24.78,
+  "text": "and your arms stop for good.",
+  "words": [
+   [
+    "and",
+    23.18
+   ],
+   [
+    "your",
+    23.4
+   ],
+   [
+    "arms",
+    23.69
+   ],
+   [
+    "stop",
+    23.98
+   ],
+   [
+    "for",
+    24.27
+   ],
+   [
+    "good",
+    24.49
+   ]
+  ]
+ },
+ {
+  "s": 25.33,
+  "e": 26.71,
+  "text": "Nails work differently.",
+  "words": [
+   [
+    "nails",
+    25.33
+   ],
+   [
+    "work",
+    25.67
+   ],
+   [
+    "differently",
+    25.95
+   ]
+  ]
+ },
+ {
+  "s": 27.26,
+  "e": 29.8,
+  "text": "Under your cuticle hides the nail matrix,",
+  "words": [
+   [
+    "under",
+    27.26
+   ],
+   [
+    "your",
+    27.63
+   ],
+   [
+    "cuticle",
+    27.93
+   ],
+   [
+    "hides",
+    28.45
+   ],
+   [
+    "the",
+    28.82
+   ],
+   [
+    "nail",
+    29.05
+   ],
+   [
+    "matrix",
+    29.35
+   ]
+  ]
+ },
+ {
+  "s": 30.1,
+  "e": 32.41,
+  "text": "a tiny factory that never shuts down.",
+  "words": [
+   [
+    "a",
+    30.1
+   ],
+   [
+    "tiny",
+    30.17
+   ],
+   [
+    "factory",
+    30.48
+   ],
+   [
+    "that",
+    31.02
+   ],
+   [
+    "never",
+    31.33
+   ],
+   [
+    "shuts",
+    31.72
+   ],
+   [
+    "down",
+    32.1
+   ]
+  ]
+ },
+ {
+  "s": 32.96,
+  "e": 34.56,
+  "text": "It keeps making new cells,",
+  "words": [
+   [
+    "it",
+    32.96
+   ],
+   [
+    "keeps",
+    33.11
+   ],
+   [
+    "making",
+    33.49
+   ],
+   [
+    "new",
+    33.95
+   ],
+   [
+    "cells",
+    34.18
+   ]
+  ]
+ },
+ {
+  "s": 34.86,
+  "e": 36.6,
+  "text": "pushing the older ones forward.",
+  "words": [
+   [
+    "pushing",
+    34.86
+   ],
+   [
+    "the",
+    35.33
+   ],
+   [
+    "older",
+    35.53
+   ],
+   [
+    "ones",
+    35.86
+   ],
+   [
+    "forward",
+    36.13
+   ]
+  ]
+ },
+ {
+  "s": 37.15,
+  "e": 38.78,
+  "text": "Those cells harden and die,",
+  "words": [
+   [
+    "those",
+    37.15
+   ],
+   [
+    "cells",
+    37.52
+   ],
+   [
+    "harden",
+    37.89
+   ],
+   [
+    "and",
+    38.33
+   ],
+   [
+    "die",
+    38.56
+   ]
+  ]
+ },
+ {
+  "s": 39.08,
+  "e": 40.87,
+  "text": "which is why clipping doesn't hurt.",
+  "words": [
+   [
+    "which",
+    39.08
+   ],
+   [
+    "is",
+    39.4
+   ],
+   [
+    "why",
+    39.53
+   ],
+   [
+    "clipping",
+    39.72
+   ],
+   [
+    "doesnt",
+    40.23
+   ],
+   [
+    "hurt",
+    40.62
+   ]
+  ]
+ },
+ {
+  "s": 41.42,
+  "e": 44.29,
+  "text": "Fingernails grow about three millimeters a month,",
+  "words": [
+   [
+    "fingernails",
+    41.42
+   ],
+   [
+    "grow",
+    42.17
+   ],
+   [
+    "about",
+    42.45
+   ],
+   [
+    "three",
+    42.79
+   ],
+   [
+    "millimeters",
+    43.13
+   ],
+   [
+    "a",
+    43.88
+   ],
+   [
+    "month",
+    43.95
+   ]
+  ]
+ },
+ {
+  "s": 44.59,
+  "e": 47.03,
+  "text": "so a whole new nail takes around six months.",
+  "words": [
+   [
+    "so",
+    44.59
+   ],
+   [
+    "a",
+    44.73
+   ],
+   [
+    "whole",
+    44.8
+   ],
+   [
+    "new",
+    45.15
+   ],
+   [
+    "nail",
+    45.36
+   ],
+   [
+    "takes",
+    45.64
+   ],
+   [
+    "around",
+    45.98
+   ],
+   [
+    "six",
+    46.4
+   ],
+   [
+    "months",
+    46.61
+   ]
+  ]
+ },
+ {
+  "s": 47.58,
+  "e": 49.02,
+  "text": "So which grows faster:",
+  "words": [
+   [
+    "so",
+    47.58
+   ],
+   [
+    "which",
+    47.74
+   ],
+   [
+    "grows",
+    48.14
+   ],
+   [
+    "faster",
+    48.54
+   ]
+  ]
+ },
+ {
+  "s": 49.32,
+  "e": 51.29,
+  "text": "your fingernails, or your toenails?",
+  "words": [
+   [
+    "your",
+    49.32
+   ],
+   [
+    "fingernails",
+    49.59
+   ],
+   [
+    "or",
+    50.34
+   ],
+   [
+    "your",
+    50.47
+   ],
+   [
+    "toenails",
+    50.74
+   ]
+  ]
+ }
+]
