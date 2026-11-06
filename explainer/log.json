@@ -734,6 +734,6 @@
   "seconds": 207.3,
   "words": 537,
   "sheet_id": "L019",
-  "note": "no storyboard step (unattended run); hook 50+ target, title 100; 6 chapters, 33 scenes; re-encoded at CRF 23 to fit the 95 MB drop limit"
+  "note": "no storyboard step (unattended run); hook 46, title 84 (no number; a 100-scoring title was found after the bot had already taken the drop); 6 chapters, 33 scenes; re-encoded at CRF 23 to fit the 95 MB drop limit"
  }
 ]
