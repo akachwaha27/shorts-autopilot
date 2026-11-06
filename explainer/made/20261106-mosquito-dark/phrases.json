@@ -1,0 +1,699 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.69,
+  "text": "How does a mosquito find you in the pitch dark?",
+  "words": [
+   [
+    "how",
+    0.25
+   ],
+   [
+    "does",
+    0.45
+   ],
+   [
+    "a",
+    0.71
+   ],
+   [
+    "mosquito",
+    0.78
+   ],
+   [
+    "find",
+    1.31
+   ],
+   [
+    "you",
+    1.57
+   ],
+   [
+    "in",
+    1.77
+   ],
+   [
+    "the",
+    1.9
+   ],
+   [
+    "pitch",
+    2.1
+   ],
+   [
+    "dark",
+    2.43
+   ]
+  ]
+ },
+ {
+  "s": 3.24,
+  "e": 4.02,
+  "text": "Your breath.",
+  "words": [
+   [
+    "your",
+    3.24
+   ],
+   [
+    "breath",
+    3.55
+   ]
+  ]
+ },
+ {
+  "s": 4.57,
+  "e": 5.95,
+  "text": "Only females hunt you,",
+  "words": [
+   [
+    "only",
+    4.57
+   ],
+   [
+    "females",
+    4.88
+   ],
+   [
+    "hunt",
+    5.41
+   ],
+   [
+    "you",
+    5.72
+   ]
+  ]
+ },
+ {
+  "s": 6.25,
+  "e": 8.27,
+  "text": "because they need blood to make eggs.",
+  "words": [
+   [
+    "because",
+    6.25
+   ],
+   [
+    "they",
+    6.72
+   ],
+   [
+    "need",
+    6.99
+   ],
+   [
+    "blood",
+    7.26
+   ],
+   [
+    "to",
+    7.6
+   ],
+   [
+    "make",
+    7.73
+   ],
+   [
+    "eggs",
+    8.0
+   ]
+  ]
+ },
+ {
+  "s": 8.82,
+  "e": 10.25,
+  "text": "Every time you breathe out,",
+  "words": [
+   [
+    "every",
+    8.82
+   ],
+   [
+    "time",
+    9.15
+   ],
+   [
+    "you",
+    9.41
+   ],
+   [
+    "breathe",
+    9.6
+   ],
+   [
+    "out",
+    10.05
+   ]
+  ]
+ },
+ {
+  "s": 10.55,
+  "e": 12.83,
+  "text": "you leave a trail of carbon dioxide.",
+  "words": [
+   [
+    "you",
+    10.55
+   ],
+   [
+    "leave",
+    10.78
+   ],
+   [
+    "a",
+    11.18
+   ],
+   [
+    "trail",
+    11.26
+   ],
+   [
+    "of",
+    11.65
+   ],
+   [
+    "carbon",
+    11.81
+   ],
+   [
+    "dioxide",
+    12.28
+   ]
+  ]
+ },
+ {
+  "s": 13.38,
+  "e": 14.95,
+  "text": "Scientists think she can smell it",
+  "words": [
+   [
+    "scientists",
+    13.38
+   ],
+   [
+    "think",
+    13.94
+   ],
+   [
+    "she",
+    14.22
+   ],
+   [
+    "can",
+    14.39
+   ],
+   [
+    "smell",
+    14.56
+   ],
+   [
+    "it",
+    14.84
+   ]
+  ]
+ },
+ {
+  "s": 15.25,
+  "e": 17.03,
+  "text": "from up to fifty meters away,",
+  "words": [
+   [
+    "from",
+    15.25
+   ],
+   [
+    "up",
+    15.56
+   ],
+   [
+    "to",
+    15.72
+   ],
+   [
+    "fifty",
+    15.87
+   ],
+   [
+    "meters",
+    16.26
+   ],
+   [
+    "away",
+    16.72
+   ]
+  ]
+ },
+ {
+  "s": 17.33,
+  "e": 18.96,
+  "text": "about half a football field.",
+  "words": [
+   [
+    "about",
+    17.33
+   ],
+   [
+    "half",
+    17.69
+   ],
+   [
+    "a",
+    17.97
+   ],
+   [
+    "football",
+    18.04
+   ],
+   [
+    "field",
+    18.61
+   ]
+  ]
+ },
+ {
+  "s": 19.51,
+  "e": 21.62,
+  "text": "She follows that invisible trail.",
+  "words": [
+   [
+    "she",
+    19.51
+   ],
+   [
+    "follows",
+    19.74
+   ],
+   [
+    "that",
+    20.26
+   ],
+   [
+    "invisible",
+    20.57
+   ],
+   [
+    "trail",
+    21.25
+   ]
+  ]
+ },
+ {
+  "s": 22.17,
+  "e": 24.52,
+  "text": "Closer in, she picks up your body odor.",
+  "words": [
+   [
+    "closer",
+    22.17
+   ],
+   [
+    "in",
+    22.64
+   ],
+   [
+    "she",
+    22.8
+   ],
+   [
+    "picks",
+    23.03
+   ],
+   [
+    "up",
+    23.43
+   ],
+   [
+    "your",
+    23.58
+   ],
+   [
+    "body",
+    23.9
+   ],
+   [
+    "odor",
+    24.21
+   ]
+  ]
+ },
+ {
+  "s": 25.07,
+  "e": 28.27,
+  "text": "In daylight, she'd spot you from about fifteen meters,",
+  "words": [
+   [
+    "in",
+    25.07
+   ],
+   [
+    "daylight",
+    25.22
+   ],
+   [
+    "shed",
+    25.82
+   ],
+   [
+    "spot",
+    26.11
+   ],
+   [
+    "you",
+    26.41
+   ],
+   [
+    "from",
+    26.63
+   ],
+   [
+    "about",
+    26.93
+   ],
+   [
+    "fifteen",
+    27.3
+   ],
+   [
+    "meters",
+    27.82
+   ]
+  ]
+ },
+ {
+  "s": 28.57,
+  "e": 30.09,
+  "text": "but tonight, that's no help.",
+  "words": [
+   [
+    "but",
+    28.57
+   ],
+   [
+    "tonight",
+    28.78
+   ],
+   [
+    "thats",
+    29.29
+   ],
+   [
+    "no",
+    29.66
+   ],
+   [
+    "help",
+    29.8
+   ]
+  ]
+ },
+ {
+  "s": 30.64,
+  "e": 32.21,
+  "text": "So here's her secret weapon.",
+  "words": [
+   [
+    "so",
+    30.64
+   ],
+   [
+    "heres",
+    30.79
+   ],
+   [
+    "her",
+    31.14
+   ],
+   [
+    "secret",
+    31.36
+   ],
+   [
+    "weapon",
+    31.78
+   ]
+  ]
+ },
+ {
+  "s": 32.76,
+  "e": 34.59,
+  "text": "Tiny pits on her antenna tips",
+  "words": [
+   [
+    "tiny",
+    32.76
+   ],
+   [
+    "pits",
+    33.07
+   ],
+   [
+    "on",
+    33.37
+   ],
+   [
+    "her",
+    33.52
+   ],
+   [
+    "antenna",
+    33.75
+   ],
+   [
+    "tips",
+    34.28
+   ]
+  ]
+ },
+ {
+  "s": 34.89,
+  "e": 37.38,
+  "text": "sense the infrared heat your skin gives off,",
+  "words": [
+   [
+    "sense",
+    34.89
+   ],
+   [
+    "the",
+    35.23
+   ],
+   [
+    "infrared",
+    35.44
+   ],
+   [
+    "heat",
+    36.0
+   ],
+   [
+    "your",
+    36.27
+   ],
+   [
+    "skin",
+    36.55
+   ],
+   [
+    "gives",
+    36.83
+   ],
+   [
+    "off",
+    37.18
+   ]
+  ]
+ },
+ {
+  "s": 37.68,
+  "e": 39.68,
+  "text": "from about seventy centimeters away.",
+  "words": [
+   [
+    "from",
+    37.68
+   ],
+   [
+    "about",
+    37.94
+   ],
+   [
+    "seventy",
+    38.26
+   ],
+   [
+    "centimeters",
+    38.72
+   ],
+   [
+    "away",
+    39.43
+   ]
+  ]
+ },
+ {
+  "s": 40.23,
+  "e": 42.46,
+  "text": "In one lab study, adding that heat",
+  "words": [
+   [
+    "in",
+    40.23
+   ],
+   [
+    "one",
+    40.4
+   ],
+   [
+    "lab",
+    40.65
+   ],
+   [
+    "study",
+    40.89
+   ],
+   [
+    "adding",
+    41.31
+   ],
+   [
+    "that",
+    41.8
+   ],
+   [
+    "heat",
+    42.13
+   ]
+  ]
+ },
+ {
+  "s": 42.76,
+  "e": 44.89,
+  "text": "doubled how hard mosquitoes searched.",
+  "words": [
+   [
+    "doubled",
+    42.76
+   ],
+   [
+    "how",
+    43.23
+   ],
+   [
+    "hard",
+    43.43
+   ],
+   [
+    "mosquitoes",
+    43.69
+   ],
+   [
+    "searched",
+    44.36
+   ]
+  ]
+ },
+ {
+  "s": 45.44,
+  "e": 47.02,
+  "text": "Breath, then smell, then heat.",
+  "words": [
+   [
+    "breath",
+    45.44
+   ],
+   [
+    "then",
+    45.85
+   ],
+   [
+    "smell",
+    46.13
+   ],
+   [
+    "then",
+    46.47
+   ],
+   [
+    "heat",
+    46.75
+   ]
+  ]
+ },
+ {
+  "s": 47.57,
+  "e": 48.47,
+  "text": "And she lands.",
+  "words": [
+   [
+    "and",
+    47.57
+   ],
+   [
+    "she",
+    47.82
+   ],
+   [
+    "lands",
+    48.06
+   ]
+  ]
+ },
+ {
+  "s": 49.02,
+  "e": 49.92,
+  "text": "So tell me:",
+  "words": [
+   [
+    "so",
+    49.02
+   ],
+   [
+    "tell",
+    49.24
+   ],
+   [
+    "me",
+    49.69
+   ]
+  ]
+ },
+ {
+  "s": 50.22,
+  "e": 53.05,
+  "text": "do mosquitoes always pick you, or someone else?",
+  "words": [
+   [
+    "do",
+    50.22
+   ],
+   [
+    "mosquitoes",
+    50.37
+   ],
+   [
+    "always",
+    51.11
+   ],
+   [
+    "pick",
+    51.56
+   ],
+   [
+    "you",
+    51.86
+   ],
+   [
+    "or",
+    52.08
+   ],
+   [
+    "someone",
+    52.23
+   ],
+   [
+    "else",
+    52.75
+   ]
+  ]
+ }
+]
