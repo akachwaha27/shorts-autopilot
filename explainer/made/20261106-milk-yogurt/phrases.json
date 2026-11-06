@@ -1,0 +1,688 @@
+[
+ {
+  "s": 0.25,
+  "e": 4.83,
+  "text": "Your yogurt is milk that two kinds of bacteria soured in about five hours.",
+  "words": [
+   [
+    "your",
+    0.25
+   ],
+   [
+    "yogurt",
+    0.56
+   ],
+   [
+    "is",
+    1.01
+   ],
+   [
+    "milk",
+    1.17
+   ],
+   [
+    "that",
+    1.47
+   ],
+   [
+    "two",
+    1.78
+   ],
+   [
+    "kinds",
+    2.01
+   ],
+   [
+    "of",
+    2.39
+   ],
+   [
+    "bacteria",
+    2.54
+   ],
+   [
+    "soured",
+    3.15
+   ],
+   [
+    "in",
+    3.61
+   ],
+   [
+    "about",
+    3.76
+   ],
+   [
+    "five",
+    4.14
+   ],
+   [
+    "hours",
+    4.45
+   ]
+  ]
+ },
+ {
+  "s": 5.38,
+  "e": 7.02,
+  "text": "First, the milk gets heated,",
+  "words": [
+   [
+    "first",
+    5.38
+   ],
+   [
+    "the",
+    5.75
+   ],
+   [
+    "milk",
+    5.97
+   ],
+   [
+    "gets",
+    6.27
+   ],
+   [
+    "heated",
+    6.57
+   ]
+  ]
+ },
+ {
+  "s": 7.32,
+  "e": 9.5,
+  "text": "to around two hundred degrees Fahrenheit.",
+  "words": [
+   [
+    "to",
+    7.32
+   ],
+   [
+    "around",
+    7.44
+   ],
+   [
+    "two",
+    7.81
+   ],
+   [
+    "hundred",
+    8.0
+   ],
+   [
+    "degrees",
+    8.44
+   ],
+   [
+    "fahrenheit",
+    8.87
+   ]
+  ]
+ },
+ {
+  "s": 10.05,
+  "e": 11.65,
+  "text": "That changes its proteins,",
+  "words": [
+   [
+    "that",
+    10.05
+   ],
+   [
+    "changes",
+    10.34
+   ],
+   [
+    "its",
+    10.85
+   ],
+   [
+    "proteins",
+    11.07
+   ]
+  ]
+ },
+ {
+  "s": 11.95,
+  "e": 13.61,
+  "text": "so they can set together later.",
+  "words": [
+   [
+    "so",
+    11.95
+   ],
+   [
+    "they",
+    12.08
+   ],
+   [
+    "can",
+    12.35
+   ],
+   [
+    "set",
+    12.55
+   ],
+   [
+    "together",
+    12.75
+   ],
+   [
+    "later",
+    13.28
+   ]
+  ]
+ },
+ {
+  "s": 14.16,
+  "e": 16.29,
+  "text": "Then it cools to about a hundred and ten,",
+  "words": [
+   [
+    "then",
+    14.16
+   ],
+   [
+    "it",
+    14.42
+   ],
+   [
+    "cools",
+    14.56
+   ],
+   [
+    "to",
+    14.89
+   ],
+   [
+    "about",
+    15.02
+   ],
+   [
+    "a",
+    15.36
+   ],
+   [
+    "hundred",
+    15.42
+   ],
+   [
+    "and",
+    15.89
+   ],
+   [
+    "ten",
+    16.09
+   ]
+  ]
+ },
+ {
+  "s": 16.59,
+  "e": 18.85,
+  "text": "and two kinds of bacteria get stirred in.",
+  "words": [
+   [
+    "and",
+    16.59
+   ],
+   [
+    "two",
+    16.79
+   ],
+   [
+    "kinds",
+    17.0
+   ],
+   [
+    "of",
+    17.34
+   ],
+   [
+    "bacteria",
+    17.48
+   ],
+   [
+    "get",
+    18.03
+   ],
+   [
+    "stirred",
+    18.23
+   ],
+   [
+    "in",
+    18.71
+   ]
+  ]
+ },
+ {
+  "s": 19.4,
+  "e": 21.56,
+  "text": "One looks like chains of tiny beads,",
+  "words": [
+   [
+    "one",
+    19.4
+   ],
+   [
+    "looks",
+    19.62
+   ],
+   [
+    "like",
+    20.0
+   ],
+   [
+    "chains",
+    20.3
+   ],
+   [
+    "of",
+    20.74
+   ],
+   [
+    "tiny",
+    20.89
+   ],
+   [
+    "beads",
+    21.19
+   ]
+  ]
+ },
+ {
+  "s": 21.86,
+  "e": 23.51,
+  "text": "the other like little rods.",
+  "words": [
+   [
+    "the",
+    21.86
+   ],
+   [
+    "other",
+    22.09
+   ],
+   [
+    "like",
+    22.46
+   ],
+   [
+    "little",
+    22.76
+   ],
+   [
+    "rods",
+    23.21
+   ]
+  ]
+ },
+ {
+  "s": 24.06,
+  "e": 25.47,
+  "text": "They only want one thing:",
+  "words": [
+   [
+    "they",
+    24.06
+   ],
+   [
+    "only",
+    24.34
+   ],
+   [
+    "want",
+    24.62
+   ],
+   [
+    "one",
+    24.91
+   ],
+   [
+    "thing",
+    25.12
+   ]
+  ]
+ },
+ {
+  "s": 25.77,
+  "e": 27.43,
+  "text": "lactose, the sugar in milk.",
+  "words": [
+   [
+    "lactose",
+    25.77
+   ],
+   [
+    "the",
+    26.33
+   ],
+   [
+    "sugar",
+    26.56
+   ],
+   [
+    "in",
+    26.96
+   ],
+   [
+    "milk",
+    27.12
+   ]
+  ]
+ },
+ {
+  "s": 27.98,
+  "e": 29.37,
+  "text": "For about five hours,",
+  "words": [
+   [
+    "for",
+    27.98
+   ],
+   [
+    "about",
+    28.23
+   ],
+   [
+    "five",
+    28.64
+   ],
+   [
+    "hours",
+    28.96
+   ]
+  ]
+ },
+ {
+  "s": 29.67,
+  "e": 31.73,
+  "text": "they eat it, and make lactic acid.",
+  "words": [
+   [
+    "they",
+    29.67
+   ],
+   [
+    "eat",
+    29.99
+   ],
+   [
+    "it",
+    30.23
+   ],
+   [
+    "and",
+    30.38
+   ],
+   [
+    "make",
+    30.62
+   ],
+   [
+    "lactic",
+    30.94
+   ],
+   [
+    "acid",
+    31.41
+   ]
+  ]
+ },
+ {
+  "s": 32.28,
+  "e": 33.93,
+  "text": "Then comes the magic number:",
+  "words": [
+   [
+    "then",
+    32.28
+   ],
+   [
+    "comes",
+    32.56
+   ],
+   [
+    "the",
+    32.92
+   ],
+   [
+    "magic",
+    33.14
+   ],
+   [
+    "number",
+    33.5
+   ]
+  ]
+ },
+ {
+  "s": 34.23,
+  "e": 35.37,
+  "text": "four point six.",
+  "words": [
+   [
+    "four",
+    34.23
+   ],
+   [
+    "point",
+    34.61
+   ],
+   [
+    "six",
+    35.09
+   ]
+  ]
+ },
+ {
+  "s": 35.92,
+  "e": 38.44,
+  "text": "At that pH, floating proteins clump,",
+  "words": [
+   [
+    "at",
+    35.92
+   ],
+   [
+    "that",
+    36.1
+   ],
+   [
+    "ph",
+    36.44
+   ],
+   [
+    "floating",
+    36.62
+   ],
+   [
+    "proteins",
+    37.31
+   ],
+   [
+    "clump",
+    38.01
+   ]
+  ]
+ },
+ {
+  "s": 38.74,
+  "e": 40.47,
+  "text": "into a soft, wobbly net.",
+  "words": [
+   [
+    "into",
+    38.74
+   ],
+   [
+    "a",
+    39.12
+   ],
+   [
+    "soft",
+    39.22
+   ],
+   [
+    "wobbly",
+    39.6
+   ],
+   [
+    "net",
+    40.18
+   ]
+  ]
+ },
+ {
+  "s": 41.02,
+  "e": 42.47,
+  "text": "That net traps the liquid,",
+  "words": [
+   [
+    "that",
+    41.02
+   ],
+   [
+    "net",
+    41.29
+   ],
+   [
+    "traps",
+    41.5
+   ],
+   [
+    "the",
+    41.85
+   ],
+   [
+    "liquid",
+    42.06
+   ]
+  ]
+ },
+ {
+  "s": 42.77,
+  "e": 44.26,
+  "text": "and thin milk turns thick.",
+  "words": [
+   [
+    "and",
+    42.77
+   ],
+   [
+    "thin",
+    42.98
+   ],
+   [
+    "milk",
+    43.27
+   ],
+   [
+    "turns",
+    43.55
+   ],
+   [
+    "thick",
+    43.9
+   ]
+  ]
+ },
+ {
+  "s": 44.81,
+  "e": 47.14,
+  "text": "That tangy taste? That's the acid too.",
+  "words": [
+   [
+    "that",
+    44.81
+   ],
+   [
+    "tangy",
+    45.13
+   ],
+   [
+    "taste",
+    45.53
+   ],
+   [
+    "thats",
+    45.93
+   ],
+   [
+    "the",
+    46.33
+   ],
+   [
+    "acid",
+    46.57
+   ],
+   [
+    "too",
+    46.9
+   ]
+  ]
+ },
+ {
+  "s": 47.69,
+  "e": 48.57,
+  "text": "So tell me,",
+  "words": [
+   [
+    "so",
+    47.69
+   ],
+   [
+    "tell",
+    47.91
+   ],
+   [
+    "me",
+    48.35
+   ]
+  ]
+ },
+ {
+  "s": 48.87,
+  "e": 51.49,
+  "text": "would you still eat it, knowing bacteria made it?",
+  "words": [
+   [
+    "would",
+    48.87
+   ],
+   [
+    "you",
+    49.21
+   ],
+   [
+    "still",
+    49.41
+   ],
+   [
+    "eat",
+    49.75
+   ],
+   [
+    "it",
+    49.95
+   ],
+   [
+    "knowing",
+    50.08
+   ],
+   [
+    "bacteria",
+    50.55
+   ],
+   [
+    "made",
+    51.09
+   ],
+   [
+    "it",
+    51.36
+   ]
+  ]
+ }
+]
