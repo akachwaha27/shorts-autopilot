@@ -1,0 +1,2794 @@
+[
+ {
+  "s": 0.25,
+  "e": 1.75,
+  "text": "A jellyfish can sting you,",
+  "words": [
+   [
+    "a",
+    0.25
+   ],
+   [
+    "jellyfish",
+    0.32
+   ],
+   [
+    "can",
+    0.96
+   ],
+   [
+    "sting",
+    1.18
+   ],
+   [
+    "you",
+    1.53
+   ]
+  ]
+ },
+ {
+  "s": 2.05,
+  "e": 3.87,
+  "text": "in under a millionth of a second,",
+  "words": [
+   [
+    "in",
+    2.05
+   ],
+   [
+    "under",
+    2.19
+   ],
+   [
+    "a",
+    2.54
+   ],
+   [
+    "millionth",
+    2.61
+   ],
+   [
+    "of",
+    3.24
+   ],
+   [
+    "a",
+    3.38
+   ],
+   [
+    "second",
+    3.45
+   ]
+  ]
+ },
+ {
+  "s": 4.17,
+  "e": 5.21,
+  "text": "without a brain,",
+  "words": [
+   [
+    "without",
+    4.17
+   ],
+   [
+    "a",
+    4.73
+   ],
+   [
+    "brain",
+    4.81
+   ]
+  ]
+ },
+ {
+  "s": 5.51,
+  "e": 6.93,
+  "text": "and you'd never see it coming.",
+  "words": [
+   [
+    "and",
+    5.51
+   ],
+   [
+    "youd",
+    5.69
+   ],
+   [
+    "never",
+    5.94
+   ],
+   [
+    "see",
+    6.25
+   ],
+   [
+    "it",
+    6.44
+   ],
+   [
+    "coming",
+    6.56
+   ]
+  ]
+ },
+ {
+  "s": 7.48,
+  "e": 9.0,
+  "text": "So what actually happens,",
+  "words": [
+   [
+    "so",
+    7.48
+   ],
+   [
+    "what",
+    7.63
+   ],
+   [
+    "actually",
+    7.92
+   ],
+   [
+    "happens",
+    8.49
+   ]
+  ]
+ },
+ {
+  "s": 9.3,
+  "e": 10.66,
+  "text": "when one of them stings you?",
+  "words": [
+   [
+    "when",
+    9.3
+   ],
+   [
+    "one",
+    9.55
+   ],
+   [
+    "of",
+    9.73
+   ],
+   [
+    "them",
+    9.86
+   ],
+   [
+    "stings",
+    10.1
+   ],
+   [
+    "you",
+    10.47
+   ]
+  ]
+ },
+ {
+  "s": 11.21,
+  "e": 12.59,
+  "text": "First, meet the animal.",
+  "words": [
+   [
+    "first",
+    11.21
+   ],
+   [
+    "meet",
+    11.59
+   ],
+   [
+    "the",
+    11.9
+   ],
+   [
+    "animal",
+    12.13
+   ]
+  ]
+ },
+ {
+  "s": 13.14,
+  "e": 15.48,
+  "text": "Jellyfish have been drifting through the ocean,",
+  "words": [
+   [
+    "jellyfish",
+    13.14
+   ],
+   [
+    "have",
+    13.67
+   ],
+   [
+    "been",
+    13.9
+   ],
+   [
+    "drifting",
+    14.13
+   ],
+   [
+    "through",
+    14.6
+   ],
+   [
+    "the",
+    15.01
+   ],
+   [
+    "ocean",
+    15.18
+   ]
+  ]
+ },
+ {
+  "s": 15.78,
+  "e": 18.21,
+  "text": "for more than 500 million years.",
+  "words": [
+   [
+    "for",
+    15.78
+   ],
+   [
+    "more",
+    16.06
+   ],
+   [
+    "than",
+    16.43
+   ],
+   [
+    "500",
+    16.81
+   ],
+   [
+    "million",
+    17.09
+   ],
+   [
+    "years",
+    17.75
+   ]
+  ]
+ },
+ {
+  "s": 18.76,
+  "e": 20.27,
+  "text": "And they've never had a brain.",
+  "words": [
+   [
+    "and",
+    18.76
+   ],
+   [
+    "theyve",
+    18.96
+   ],
+   [
+    "never",
+    19.35
+   ],
+   [
+    "had",
+    19.68
+   ],
+   [
+    "a",
+    19.88
+   ],
+   [
+    "brain",
+    19.95
+   ]
+  ]
+ },
+ {
+  "s": 20.82,
+  "e": 22.32,
+  "text": "They also have no heart,",
+  "words": [
+   [
+    "they",
+    20.82
+   ],
+   [
+    "also",
+    21.14
+   ],
+   [
+    "have",
+    21.45
+   ],
+   [
+    "no",
+    21.77
+   ],
+   [
+    "heart",
+    21.93
+   ]
+  ]
+ },
+ {
+  "s": 22.62,
+  "e": 23.54,
+  "text": "no bones,",
+  "words": [
+   [
+    "no",
+    22.62
+   ],
+   [
+    "bones",
+    22.88
+   ]
+  ]
+ },
+ {
+  "s": 23.84,
+  "e": 24.77,
+  "text": "and no blood.",
+  "words": [
+   [
+    "and",
+    23.84
+   ],
+   [
+    "no",
+    24.12
+   ],
+   [
+    "blood",
+    24.31
+   ]
+  ]
+ },
+ {
+  "s": 25.32,
+  "e": 26.6,
+  "text": "What they have instead,",
+  "words": [
+   [
+    "what",
+    25.32
+   ],
+   [
+    "they",
+    25.59
+   ],
+   [
+    "have",
+    25.86
+   ],
+   [
+    "instead",
+    26.13
+   ]
+  ]
+ },
+ {
+  "s": 26.9,
+  "e": 28.5,
+  "text": "is a simple net of nerves,",
+  "words": [
+   [
+    "is",
+    26.9
+   ],
+   [
+    "a",
+    27.06
+   ],
+   [
+    "simple",
+    27.14
+   ],
+   [
+    "net",
+    27.62
+   ],
+   [
+    "of",
+    27.86
+   ],
+   [
+    "nerves",
+    28.02
+   ]
+  ]
+ },
+ {
+  "s": 28.8,
+  "e": 30.96,
+  "text": "spread through a soft, see-through body.",
+  "words": [
+   [
+    "spread",
+    28.8
+   ],
+   [
+    "through",
+    29.2
+   ],
+   [
+    "a",
+    29.68
+   ],
+   [
+    "soft",
+    29.74
+   ],
+   [
+    "seethrough",
+    30.01
+   ],
+   [
+    "body",
+    30.69
+   ]
+  ]
+ },
+ {
+  "s": 31.51,
+  "e": 33.15,
+  "text": "So when a jellyfish stings you,",
+  "words": [
+   [
+    "so",
+    31.51
+   ],
+   [
+    "when",
+    31.64
+   ],
+   [
+    "a",
+    31.91
+   ],
+   [
+    "jellyfish",
+    31.97
+   ],
+   [
+    "stings",
+    32.56
+   ],
+   [
+    "you",
+    32.96
+   ]
+  ]
+ },
+ {
+  "s": 33.45,
+  "e": 34.53,
+  "text": "it isn't angry.",
+  "words": [
+   [
+    "it",
+    33.45
+   ],
+   [
+    "isnt",
+    33.65
+   ],
+   [
+    "angry",
+    34.04
+   ]
+  ]
+ },
+ {
+  "s": 35.08,
+  "e": 36.87,
+  "text": "It isn't even really aware of you.",
+  "words": [
+   [
+    "it",
+    35.08
+   ],
+   [
+    "isnt",
+    35.22
+   ],
+   [
+    "even",
+    35.49
+   ],
+   [
+    "really",
+    35.77
+   ],
+   [
+    "aware",
+    36.18
+   ],
+   [
+    "of",
+    36.52
+   ],
+   [
+    "you",
+    36.66
+   ]
+  ]
+ },
+ {
+  "s": 37.42,
+  "e": 38.96,
+  "text": "Most of them just drift,",
+  "words": [
+   [
+    "most",
+    37.42
+   ],
+   [
+    "of",
+    37.74
+   ],
+   [
+    "them",
+    37.91
+   ],
+   [
+    "just",
+    38.23
+   ],
+   [
+    "drift",
+    38.56
+   ]
+  ]
+ },
+ {
+  "s": 39.26,
+  "e": 41.16,
+  "text": "and let their tentacles do the work.",
+  "words": [
+   [
+    "and",
+    39.26
+   ],
+   [
+    "let",
+    39.46
+   ],
+   [
+    "their",
+    39.65
+   ],
+   [
+    "tentacles",
+    39.98
+   ],
+   [
+    "do",
+    40.57
+   ],
+   [
+    "the",
+    40.7
+   ],
+   [
+    "work",
+    40.9
+   ]
+  ]
+ },
+ {
+  "s": 41.71,
+  "e": 43.52,
+  "text": "Now zoom in on one tentacle.",
+  "words": [
+   [
+    "now",
+    41.71
+   ],
+   [
+    "zoom",
+    41.95
+   ],
+   [
+    "in",
+    42.28
+   ],
+   [
+    "on",
+    42.45
+   ],
+   [
+    "one",
+    42.61
+   ],
+   [
+    "tentacle",
+    42.86
+   ]
+  ]
+ },
+ {
+  "s": 44.07,
+  "e": 46.79,
+  "text": "It's covered in thousands of tiny stinging cells.",
+  "words": [
+   [
+    "its",
+    44.07
+   ],
+   [
+    "covered",
+    44.27
+   ],
+   [
+    "in",
+    44.75
+   ],
+   [
+    "thousands",
+    44.89
+   ],
+   [
+    "of",
+    45.5
+   ],
+   [
+    "tiny",
+    45.63
+   ],
+   [
+    "stinging",
+    45.91
+   ],
+   [
+    "cells",
+    46.45
+   ]
+  ]
+ },
+ {
+  "s": 47.34,
+  "e": 49.49,
+  "text": "And inside each cell sits a capsule,",
+  "words": [
+   [
+    "and",
+    47.34
+   ],
+   [
+    "inside",
+    47.56
+   ],
+   [
+    "each",
+    48.01
+   ],
+   [
+    "cell",
+    48.31
+   ],
+   [
+    "sits",
+    48.6
+   ],
+   [
+    "a",
+    48.9
+   ],
+   [
+    "capsule",
+    48.97
+   ]
+  ]
+ },
+ {
+  "s": 49.79,
+  "e": 51.22,
+  "text": "called a nematocyst.",
+  "words": [
+   [
+    "called",
+    49.79
+   ],
+   [
+    "a",
+    50.3
+   ],
+   [
+    "nematocyst",
+    50.38
+   ]
+  ]
+ },
+ {
+  "s": 51.77,
+  "e": 53.02,
+  "text": "Several of them could fit,",
+  "words": [
+   [
+    "several",
+    51.77
+   ],
+   [
+    "of",
+    52.19
+   ],
+   [
+    "them",
+    52.31
+   ],
+   [
+    "could",
+    52.54
+   ],
+   [
+    "fit",
+    52.84
+   ]
+  ]
+ },
+ {
+  "s": 53.32,
+  "e": 55.03,
+  "text": "across a single human hair.",
+  "words": [
+   [
+    "across",
+    53.32
+   ],
+   [
+    "a",
+    53.79
+   ],
+   [
+    "single",
+    53.86
+   ],
+   [
+    "human",
+    54.33
+   ],
+   [
+    "hair",
+    54.72
+   ]
+  ]
+ },
+ {
+  "s": 55.58,
+  "e": 57.14,
+  "text": "Packed inside that capsule,",
+  "words": [
+   [
+    "packed",
+    55.58
+   ],
+   [
+    "inside",
+    55.99
+   ],
+   [
+    "that",
+    56.39
+   ],
+   [
+    "capsule",
+    56.66
+   ]
+  ]
+ },
+ {
+  "s": 57.44,
+  "e": 58.92,
+  "text": "is a long, hollow thread,",
+  "words": [
+   [
+    "is",
+    57.44
+   ],
+   [
+    "a",
+    57.59
+   ],
+   [
+    "long",
+    57.67
+   ],
+   [
+    "hollow",
+    57.98
+   ],
+   [
+    "thread",
+    58.45
+   ]
+  ]
+ },
+ {
+  "s": 59.22,
+  "e": 60.52,
+  "text": "coiled up like a spring,",
+  "words": [
+   [
+    "coiled",
+    59.22
+   ],
+   [
+    "up",
+    59.63
+   ],
+   [
+    "like",
+    59.77
+   ],
+   [
+    "a",
+    60.04
+   ],
+   [
+    "spring",
+    60.11
+   ]
+  ]
+ },
+ {
+  "s": 60.82,
+  "e": 62.81,
+  "text": "with a sharp tip waiting at the front.",
+  "words": [
+   [
+    "with",
+    60.82
+   ],
+   [
+    "a",
+    61.09
+   ],
+   [
+    "sharp",
+    61.16
+   ],
+   [
+    "tip",
+    61.49
+   ],
+   [
+    "waiting",
+    61.68
+   ],
+   [
+    "at",
+    62.15
+   ],
+   [
+    "the",
+    62.28
+   ],
+   [
+    "front",
+    62.48
+   ]
+  ]
+ },
+ {
+  "s": 63.36,
+  "e": 65.28,
+  "text": "Think of it as a loaded harpoon,",
+  "words": [
+   [
+    "think",
+    63.36
+   ],
+   [
+    "of",
+    63.74
+   ],
+   [
+    "it",
+    63.9
+   ],
+   [
+    "as",
+    64.05
+   ],
+   [
+    "a",
+    64.2
+   ],
+   [
+    "loaded",
+    64.28
+   ],
+   [
+    "harpoon",
+    64.74
+   ]
+  ]
+ },
+ {
+  "s": 65.58,
+  "e": 67.07,
+  "text": "sitting in a bath of venom.",
+  "words": [
+   [
+    "sitting",
+    65.58
+   ],
+   [
+    "in",
+    66.08
+   ],
+   [
+    "a",
+    66.22
+   ],
+   [
+    "bath",
+    66.29
+   ],
+   [
+    "of",
+    66.57
+   ],
+   [
+    "venom",
+    66.71
+   ]
+  ]
+ },
+ {
+  "s": 67.62,
+  "e": 69.26,
+  "text": "The pressure in there is huge,",
+  "words": [
+   [
+    "the",
+    67.62
+   ],
+   [
+    "pressure",
+    67.82
+   ],
+   [
+    "in",
+    68.37
+   ],
+   [
+    "there",
+    68.51
+   ],
+   [
+    "is",
+    68.85
+   ],
+   [
+    "huge",
+    68.98
+   ]
+  ]
+ },
+ {
+  "s": 69.56,
+  "e": 72.42,
+  "text": "about 150 times normal air pressure.",
+  "words": [
+   [
+    "about",
+    69.56
+   ],
+   [
+    "150",
+    70.03
+   ],
+   [
+    "times",
+    70.32
+   ],
+   [
+    "normal",
+    70.8
+   ],
+   [
+    "air",
+    71.37
+   ],
+   [
+    "pressure",
+    71.66
+   ]
+  ]
+ },
+ {
+  "s": 72.97,
+  "e": 74.68,
+  "text": "That's dozens of times stronger,",
+  "words": [
+   [
+    "thats",
+    72.97
+   ],
+   [
+    "dozens",
+    73.3
+   ],
+   [
+    "of",
+    73.69
+   ],
+   [
+    "times",
+    73.82
+   ],
+   [
+    "stronger",
+    74.15
+   ]
+  ]
+ },
+ {
+  "s": 74.98,
+  "e": 76.56,
+  "text": "than the air in a car tire.",
+  "words": [
+   [
+    "than",
+    74.98
+   ],
+   [
+    "the",
+    75.29
+   ],
+   [
+    "air",
+    75.53
+   ],
+   [
+    "in",
+    75.77
+   ],
+   [
+    "a",
+    75.93
+   ],
+   [
+    "car",
+    76.01
+   ],
+   [
+    "tire",
+    76.24
+   ]
+  ]
+ },
+ {
+  "s": 77.11,
+  "e": 78.34,
+  "text": "So what sets it off?",
+  "words": [
+   [
+    "so",
+    77.11
+   ],
+   [
+    "what",
+    77.27
+   ],
+   [
+    "sets",
+    77.6
+   ],
+   [
+    "it",
+    77.93
+   ],
+   [
+    "off",
+    78.1
+   ]
+  ]
+ },
+ {
+  "s": 78.89,
+  "e": 81.42,
+  "text": "Each cell has a tiny trigger on the outside.",
+  "words": [
+   [
+    "each",
+    78.89
+   ],
+   [
+    "cell",
+    79.18
+   ],
+   [
+    "has",
+    79.47
+   ],
+   [
+    "a",
+    79.69
+   ],
+   [
+    "tiny",
+    79.76
+   ],
+   [
+    "trigger",
+    80.05
+   ],
+   [
+    "on",
+    80.55
+   ],
+   [
+    "the",
+    80.7
+   ],
+   [
+    "outside",
+    80.91
+   ]
+  ]
+ },
+ {
+  "s": 81.97,
+  "e": 84.43,
+  "text": "Bump it, or hit it with the right chemicals,",
+  "words": [
+   [
+    "bump",
+    81.97
+   ],
+   [
+    "it",
+    82.26
+   ],
+   [
+    "or",
+    82.4
+   ],
+   [
+    "hit",
+    82.55
+   ],
+   [
+    "it",
+    82.76
+   ],
+   [
+    "with",
+    82.91
+   ],
+   [
+    "the",
+    83.2
+   ],
+   [
+    "right",
+    83.42
+   ],
+   [
+    "chemicals",
+    83.78
+   ]
+  ]
+ },
+ {
+  "s": 84.73,
+  "e": 86.09,
+  "text": "and the lid pops open.",
+  "words": [
+   [
+    "and",
+    84.73
+   ],
+   [
+    "the",
+    84.97
+   ],
+   [
+    "lid",
+    85.21
+   ],
+   [
+    "pops",
+    85.45
+   ],
+   [
+    "open",
+    85.77
+   ]
+  ]
+ },
+ {
+  "s": 86.64,
+  "e": 87.99,
+  "text": "Seawater rushes in,",
+  "words": [
+   [
+    "seawater",
+    86.64
+   ],
+   [
+    "rushes",
+    87.31
+   ],
+   [
+    "in",
+    87.82
+   ]
+  ]
+ },
+ {
+  "s": 88.29,
+  "e": 89.67,
+  "text": "the pressure takes over,",
+  "words": [
+   [
+    "the",
+    88.29
+   ],
+   [
+    "pressure",
+    88.49
+   ],
+   [
+    "takes",
+    89.05
+   ],
+   [
+    "over",
+    89.39
+   ]
+  ]
+ },
+ {
+  "s": 89.97,
+  "e": 91.38,
+  "text": "and the harpoon fires.",
+  "words": [
+   [
+    "and",
+    89.97
+   ],
+   [
+    "the",
+    90.2
+   ],
+   [
+    "harpoon",
+    90.44
+   ],
+   [
+    "fires",
+    90.99
+   ]
+  ]
+ },
+ {
+  "s": 91.93,
+  "e": 93.3,
+  "text": "No brain tells it to.",
+  "words": [
+   [
+    "no",
+    91.93
+   ],
+   [
+    "brain",
+    92.1
+   ],
+   [
+    "tells",
+    92.53
+   ],
+   [
+    "it",
+    92.96
+   ],
+   [
+    "to",
+    93.13
+   ]
+  ]
+ },
+ {
+  "s": 93.85,
+  "e": 95.63,
+  "text": "The cell mostly acts on its own.",
+  "words": [
+   [
+    "the",
+    93.85
+   ],
+   [
+    "cell",
+    94.06
+   ],
+   [
+    "mostly",
+    94.35
+   ],
+   [
+    "acts",
+    94.77
+   ],
+   [
+    "on",
+    95.06
+   ],
+   [
+    "its",
+    95.2
+   ],
+   [
+    "own",
+    95.41
+   ]
+  ]
+ },
+ {
+  "s": 96.18,
+  "e": 98.46,
+  "text": "Now here's the part that's hard to believe.",
+  "words": [
+   [
+    "now",
+    96.18
+   ],
+   [
+    "heres",
+    96.38
+   ],
+   [
+    "the",
+    96.73
+   ],
+   [
+    "part",
+    96.94
+   ],
+   [
+    "thats",
+    97.22
+   ],
+   [
+    "hard",
+    97.56
+   ],
+   [
+    "to",
+    97.84
+   ],
+   [
+    "believe",
+    97.98
+   ]
+  ]
+ },
+ {
+  "s": 99.01,
+  "e": 101.81,
+  "text": "In 2006, scientists filmed this,",
+  "words": [
+   [
+    "in",
+    99.01
+   ],
+   [
+    "2006",
+    99.23
+   ],
+   [
+    "scientists",
+    99.66
+   ],
+   [
+    "filmed",
+    100.74
+   ],
+   [
+    "this",
+    101.38
+   ]
+  ]
+ },
+ {
+  "s": 102.11,
+  "e": 105.12,
+  "text": "in hydra, a tiny relative of the jellyfish.",
+  "words": [
+   [
+    "in",
+    102.11
+   ],
+   [
+    "hydra",
+    102.29
+   ],
+   [
+    "a",
+    102.73
+   ],
+   [
+    "tiny",
+    102.82
+   ],
+   [
+    "relative",
+    103.18
+   ],
+   [
+    "of",
+    103.88
+   ],
+   [
+    "the",
+    104.06
+   ],
+   [
+    "jellyfish",
+    104.33
+   ]
+  ]
+ },
+ {
+  "s": 105.67,
+  "e": 108.53,
+  "text": "Their camera shot over a million frames per second.",
+  "words": [
+   [
+    "their",
+    105.67
+   ],
+   [
+    "camera",
+    106.01
+   ],
+   [
+    "shot",
+    106.42
+   ],
+   [
+    "over",
+    106.69
+   ],
+   [
+    "a",
+    106.97
+   ],
+   [
+    "million",
+    107.03
+   ],
+   [
+    "frames",
+    107.51
+   ],
+   [
+    "per",
+    107.92
+   ],
+   [
+    "second",
+    108.12
+   ]
+  ]
+ },
+ {
+  "s": 109.08,
+  "e": 110.6,
+  "text": "And the first part of the shot,",
+  "words": [
+   [
+    "and",
+    109.08
+   ],
+   [
+    "the",
+    109.27
+   ],
+   [
+    "first",
+    109.46
+   ],
+   [
+    "part",
+    109.78
+   ],
+   [
+    "of",
+    110.03
+   ],
+   [
+    "the",
+    110.15
+   ],
+   [
+    "shot",
+    110.34
+   ]
+  ]
+ },
+ {
+  "s": 110.9,
+  "e": 113.74,
+  "text": "was over in just 700 nanoseconds.",
+  "words": [
+   [
+    "was",
+    110.9
+   ],
+   [
+    "over",
+    111.21
+   ],
+   [
+    "in",
+    111.63
+   ],
+   [
+    "just",
+    111.84
+   ],
+   [
+    "700",
+    112.26
+   ],
+   [
+    "nanoseconds",
+    112.58
+   ]
+  ]
+ },
+ {
+  "s": 114.29,
+  "e": 116.33,
+  "text": "That's seven ten-millionths of a second.",
+  "words": [
+   [
+    "thats",
+    114.29
+   ],
+   [
+    "seven",
+    114.61
+   ],
+   [
+    "tenmillionths",
+    114.92
+   ],
+   [
+    "of",
+    115.75
+   ],
+   [
+    "a",
+    115.88
+   ],
+   [
+    "second",
+    115.95
+   ]
+  ]
+ },
+ {
+  "s": 116.88,
+  "e": 119.1,
+  "text": "The tip hit up to five million g's.",
+  "words": [
+   [
+    "the",
+    116.88
+   ],
+   [
+    "tip",
+    117.14
+   ],
+   [
+    "hit",
+    117.39
+   ],
+   [
+    "up",
+    117.65
+   ],
+   [
+    "to",
+    117.82
+   ],
+   [
+    "five",
+    117.99
+   ],
+   [
+    "million",
+    118.33
+   ],
+   [
+    "gs",
+    118.93
+   ]
+  ]
+ },
+ {
+  "s": 119.65,
+  "e": 121.96,
+  "text": "people tend to black out at around six.",
+  "words": [
+   [
+    "people",
+    119.65
+   ],
+   [
+    "tend",
+    120.09
+   ],
+   [
+    "to",
+    120.39
+   ],
+   [
+    "black",
+    120.54
+   ],
+   [
+    "out",
+    120.92
+   ],
+   [
+    "at",
+    121.14
+   ],
+   [
+    "around",
+    121.29
+   ],
+   [
+    "six",
+    121.74
+   ]
+  ]
+ },
+ {
+  "s": 122.51,
+  "e": 124.43,
+  "text": "And a mantis shrimp's famous punch,",
+  "words": [
+   [
+    "and",
+    122.51
+   ],
+   [
+    "a",
+    122.72
+   ],
+   [
+    "mantis",
+    122.79
+   ],
+   [
+    "shrimps",
+    123.2
+   ],
+   [
+    "famous",
+    123.67
+   ],
+   [
+    "punch",
+    124.08
+   ]
+  ]
+ },
+ {
+  "s": 124.73,
+  "e": 126.53,
+  "text": "reaches about ten thousand.",
+  "words": [
+   [
+    "reaches",
+    124.73
+   ],
+   [
+    "about",
+    125.27
+   ],
+   [
+    "ten",
+    125.67
+   ],
+   [
+    "thousand",
+    125.9
+   ]
+  ]
+ },
+ {
+  "s": 127.08,
+  "e": 128.73,
+  "text": "Because that tip is so tiny,",
+  "words": [
+   [
+    "because",
+    127.08
+   ],
+   [
+    "that",
+    127.6
+   ],
+   [
+    "tip",
+    127.91
+   ],
+   [
+    "is",
+    128.13
+   ],
+   [
+    "so",
+    128.28
+   ],
+   [
+    "tiny",
+    128.43
+   ]
+  ]
+ },
+ {
+  "s": 129.03,
+  "e": 130.45,
+  "text": "the pressure where it lands,",
+  "words": [
+   [
+    "the",
+    129.03
+   ],
+   [
+    "pressure",
+    129.22
+   ],
+   [
+    "where",
+    129.71
+   ],
+   [
+    "it",
+    130.02
+   ],
+   [
+    "lands",
+    130.14
+   ]
+  ]
+ },
+ {
+  "s": 130.75,
+  "e": 132.21,
+  "text": "is in the range of a bullet.",
+  "words": [
+   [
+    "is",
+    130.75
+   ],
+   [
+    "in",
+    130.89
+   ],
+   [
+    "the",
+    131.03
+   ],
+   [
+    "range",
+    131.24
+   ],
+   [
+    "of",
+    131.58
+   ],
+   [
+    "a",
+    131.72
+   ],
+   [
+    "bullet",
+    131.79
+   ]
+  ]
+ },
+ {
+  "s": 132.76,
+  "e": 134.76,
+  "text": "It's strong enough to pierce a crab's shell.",
+  "words": [
+   [
+    "its",
+    132.76
+   ],
+   [
+    "strong",
+    132.93
+   ],
+   [
+    "enough",
+    133.29
+   ],
+   [
+    "to",
+    133.64
+   ],
+   [
+    "pierce",
+    133.76
+   ],
+   [
+    "a",
+    134.11
+   ],
+   [
+    "crabs",
+    134.17
+   ],
+   [
+    "shell",
+    134.47
+   ]
+  ]
+ },
+ {
+  "s": 135.31,
+  "e": 136.84,
+  "text": "So what happens in your skin?",
+  "words": [
+   [
+    "so",
+    135.31
+   ],
+   [
+    "what",
+    135.44
+   ],
+   [
+    "happens",
+    135.71
+   ],
+   [
+    "in",
+    136.17
+   ],
+   [
+    "your",
+    136.31
+   ],
+   [
+    "skin",
+    136.57
+   ]
+  ]
+ },
+ {
+  "s": 137.39,
+  "e": 138.82,
+  "text": "After the tip punches in,",
+  "words": [
+   [
+    "after",
+    137.39
+   ],
+   [
+    "the",
+    137.75
+   ],
+   [
+    "tip",
+    137.96
+   ],
+   [
+    "punches",
+    138.18
+   ],
+   [
+    "in",
+    138.68
+   ]
+  ]
+ },
+ {
+  "s": 139.12,
+  "e": 141.09,
+  "text": "the thread turns itself inside out,",
+  "words": [
+   [
+    "the",
+    139.12
+   ],
+   [
+    "thread",
+    139.33
+   ],
+   [
+    "turns",
+    139.74
+   ],
+   [
+    "itself",
+    140.08
+   ],
+   [
+    "inside",
+    140.48
+   ],
+   [
+    "out",
+    140.89
+   ]
+  ]
+ },
+ {
+  "s": 141.39,
+  "e": 143.46,
+  "text": "and the capsule squeezes venom through it.",
+  "words": [
+   [
+    "and",
+    141.39
+   ],
+   [
+    "the",
+    141.57
+   ],
+   [
+    "capsule",
+    141.75
+   ],
+   [
+    "squeezes",
+    142.16
+   ],
+   [
+    "venom",
+    142.63
+   ],
+   [
+    "through",
+    142.93
+   ],
+   [
+    "it",
+    143.34
+   ]
+  ]
+ },
+ {
+  "s": 144.01,
+  "e": 146.49,
+  "text": "Some of those toxins punch holes in cells.",
+  "words": [
+   [
+    "some",
+    144.01
+   ],
+   [
+    "of",
+    144.3
+   ],
+   [
+    "those",
+    144.45
+   ],
+   [
+    "toxins",
+    144.81
+   ],
+   [
+    "punch",
+    145.25
+   ],
+   [
+    "holes",
+    145.62
+   ],
+   [
+    "in",
+    145.98
+   ],
+   [
+    "cells",
+    146.13
+   ]
+  ]
+ },
+ {
+  "s": 147.04,
+  "e": 148.5,
+  "text": "Others go after nerves.",
+  "words": [
+   [
+    "others",
+    147.04
+   ],
+   [
+    "go",
+    147.5
+   ],
+   [
+    "after",
+    147.66
+   ],
+   [
+    "nerves",
+    148.04
+   ]
+  ]
+ },
+ {
+  "s": 149.05,
+  "e": 151.19,
+  "text": "One cell alone does almost nothing.",
+  "words": [
+   [
+    "one",
+    149.05
+   ],
+   [
+    "cell",
+    149.27
+   ],
+   [
+    "alone",
+    149.57
+   ],
+   [
+    "does",
+    149.94
+   ],
+   [
+    "almost",
+    150.23
+   ],
+   [
+    "nothing",
+    150.67
+   ]
+  ]
+ },
+ {
+  "s": 151.74,
+  "e": 154.17,
+  "text": "But brushing a tentacle sets off thousands,",
+  "words": [
+   [
+    "but",
+    151.74
+   ],
+   [
+    "brushing",
+    151.94
+   ],
+   [
+    "a",
+    152.48
+   ],
+   [
+    "tentacle",
+    152.55
+   ],
+   [
+    "sets",
+    153.09
+   ],
+   [
+    "off",
+    153.36
+   ],
+   [
+    "thousands",
+    153.56
+   ]
+  ]
+ },
+ {
+  "s": 154.47,
+  "e": 155.35,
+  "text": "all at once,",
+  "words": [
+   [
+    "all",
+    154.47
+   ],
+   [
+    "at",
+    154.76
+   ],
+   [
+    "once",
+    154.96
+   ]
+  ]
+ },
+ {
+  "s": 155.65,
+  "e": 157.41,
+  "text": "and that's the sudden burn you feel.",
+  "words": [
+   [
+    "and",
+    155.65
+   ],
+   [
+    "thats",
+    155.84
+   ],
+   [
+    "the",
+    156.15
+   ],
+   [
+    "sudden",
+    156.34
+   ],
+   [
+    "burn",
+    156.72
+   ],
+   [
+    "you",
+    156.97
+   ],
+   [
+    "feel",
+    157.16
+   ]
+  ]
+ },
+ {
+  "s": 157.96,
+  "e": 160.99,
+  "text": "For most people, it's more painful than dangerous,",
+  "words": [
+   [
+    "for",
+    157.96
+   ],
+   [
+    "most",
+    158.18
+   ],
+   [
+    "people",
+    158.49
+   ],
+   [
+    "its",
+    158.94
+   ],
+   [
+    "more",
+    159.17
+   ],
+   [
+    "painful",
+    159.47
+   ],
+   [
+    "than",
+    160.01
+   ],
+   [
+    "dangerous",
+    160.31
+   ]
+  ]
+ },
+ {
+  "s": 161.29,
+  "e": 164.11,
+  "text": "though a few species, like some box jellyfish,",
+  "words": [
+   [
+    "though",
+    161.29
+   ],
+   [
+    "a",
+    161.75
+   ],
+   [
+    "few",
+    161.82
+   ],
+   [
+    "species",
+    162.05
+   ],
+   [
+    "like",
+    162.59
+   ],
+   [
+    "some",
+    162.89
+   ],
+   [
+    "box",
+    163.19
+   ],
+   [
+    "jellyfish",
+    163.42
+   ]
+  ]
+ },
+ {
+  "s": 164.41,
+  "e": 165.96,
+  "text": "are seriously dangerous.",
+  "words": [
+   [
+    "are",
+    164.41
+   ],
+   [
+    "seriously",
+    164.63
+   ],
+   [
+    "dangerous",
+    165.29
+   ]
+  ]
+ },
+ {
+  "s": 166.51,
+  "e": 168.47,
+  "text": "And since nothing here needs a brain,",
+  "words": [
+   [
+    "and",
+    166.51
+   ],
+   [
+    "since",
+    166.7
+   ],
+   [
+    "nothing",
+    167.03
+   ],
+   [
+    "here",
+    167.49
+   ],
+   [
+    "needs",
+    167.75
+   ],
+   [
+    "a",
+    168.07
+   ],
+   [
+    "brain",
+    168.14
+   ]
+  ]
+ },
+ {
+  "s": 168.77,
+  "e": 169.94,
+  "text": "things get strange.",
+  "words": [
+   [
+    "things",
+    168.77
+   ],
+   [
+    "get",
+    169.21
+   ],
+   [
+    "strange",
+    169.43
+   ]
+  ]
+ },
+ {
+  "s": 170.49,
+  "e": 172.21,
+  "text": "A dead jellyfish on the beach,",
+  "words": [
+   [
+    "a",
+    170.49
+   ],
+   [
+    "dead",
+    170.56
+   ],
+   [
+    "jellyfish",
+    170.85
+   ],
+   [
+    "on",
+    171.49
+   ],
+   [
+    "the",
+    171.63
+   ],
+   [
+    "beach",
+    171.85
+   ]
+  ]
+ },
+ {
+  "s": 172.51,
+  "e": 173.67,
+  "text": "can still sting you.",
+  "words": [
+   [
+    "can",
+    172.51
+   ],
+   [
+    "still",
+    172.72
+   ],
+   [
+    "sting",
+    173.09
+   ],
+   [
+    "you",
+    173.45
+   ]
+  ]
+ },
+ {
+  "s": 174.22,
+  "e": 176.56,
+  "text": "Clownfish live among stinging anemones,",
+  "words": [
+   [
+    "clownfish",
+    174.22
+   ],
+   [
+    "live",
+    174.84
+   ],
+   [
+    "among",
+    175.12
+   ],
+   [
+    "stinging",
+    175.46
+   ],
+   [
+    "anemones",
+    176.01
+   ]
+  ]
+ },
+ {
+  "s": 176.86,
+  "e": 178.33,
+  "text": "the jellyfish's cousins,",
+  "words": [
+   [
+    "the",
+    176.86
+   ],
+   [
+    "jellyfishs",
+    177.08
+   ],
+   [
+    "cousins",
+    177.82
+   ]
+  ]
+ },
+ {
+  "s": 178.63,
+  "e": 180.56,
+  "text": "because their slime lacks a chemical,",
+  "words": [
+   [
+    "because",
+    178.63
+   ],
+   [
+    "their",
+    179.07
+   ],
+   [
+    "slime",
+    179.38
+   ],
+   [
+    "lacks",
+    179.69
+   ],
+   [
+    "a",
+    180.0
+   ],
+   [
+    "chemical",
+    180.06
+   ]
+  ]
+ },
+ {
+  "s": 180.86,
+  "e": 182.51,
+  "text": "that helps set those cells off.",
+  "words": [
+   [
+    "that",
+    180.86
+   ],
+   [
+    "helps",
+    181.12
+   ],
+   [
+    "set",
+    181.45
+   ],
+   [
+    "those",
+    181.65
+   ],
+   [
+    "cells",
+    181.98
+   ],
+   [
+    "off",
+    182.31
+   ]
+  ]
+ },
+ {
+  "s": 183.06,
+  "e": 185.27,
+  "text": "And some sea slugs eat stinging cells,",
+  "words": [
+   [
+    "and",
+    183.06
+   ],
+   [
+    "some",
+    183.27
+   ],
+   [
+    "sea",
+    183.56
+   ],
+   [
+    "slugs",
+    183.77
+   ],
+   [
+    "eat",
+    184.13
+   ],
+   [
+    "stinging",
+    184.34
+   ],
+   [
+    "cells",
+    184.91
+   ]
+  ]
+ },
+ {
+  "s": 185.57,
+  "e": 186.84,
+  "text": "without firing them,",
+  "words": [
+   [
+    "without",
+    185.57
+   ],
+   [
+    "firing",
+    186.09
+   ],
+   [
+    "them",
+    186.54
+   ]
+  ]
+ },
+ {
+  "s": 187.14,
+  "e": 189.1,
+  "text": "then store them in their own bodies,",
+  "words": [
+   [
+    "then",
+    187.14
+   ],
+   [
+    "store",
+    187.41
+   ],
+   [
+    "them",
+    187.75
+   ],
+   [
+    "in",
+    188.02
+   ],
+   [
+    "their",
+    188.15
+   ],
+   [
+    "own",
+    188.49
+   ],
+   [
+    "bodies",
+    188.7
+   ]
+  ]
+ },
+ {
+  "s": 189.4,
+  "e": 191.39,
+  "text": "and use them on their own enemies.",
+  "words": [
+   [
+    "and",
+    189.4
+   ],
+   [
+    "use",
+    189.63
+   ],
+   [
+    "them",
+    189.85
+   ],
+   [
+    "on",
+    190.14
+   ],
+   [
+    "their",
+    190.29
+   ],
+   [
+    "own",
+    190.66
+   ],
+   [
+    "enemies",
+    190.88
+   ]
+  ]
+ },
+ {
+  "s": 191.94,
+  "e": 193.74,
+  "text": "So that sting wasn't an attack.",
+  "words": [
+   [
+    "so",
+    191.94
+   ],
+   [
+    "that",
+    192.09
+   ],
+   [
+    "sting",
+    192.39
+   ],
+   [
+    "wasnt",
+    192.77
+   ],
+   [
+    "an",
+    193.14
+   ],
+   [
+    "attack",
+    193.29
+   ]
+  ]
+ },
+ {
+  "s": 194.29,
+  "e": 196.32,
+  "text": "It was thousands of tiny machines,",
+  "words": [
+   [
+    "it",
+    194.29
+   ],
+   [
+    "was",
+    194.43
+   ],
+   [
+    "thousands",
+    194.65
+   ],
+   [
+    "of",
+    195.3
+   ],
+   [
+    "tiny",
+    195.45
+   ],
+   [
+    "machines",
+    195.74
+   ]
+  ]
+ },
+ {
+  "s": 196.62,
+  "e": 198.89,
+  "text": "each doing the one thing it was built for,",
+  "words": [
+   [
+    "each",
+    196.62
+   ],
+   [
+    "doing",
+    196.9
+   ],
+   [
+    "the",
+    197.24
+   ],
+   [
+    "one",
+    197.45
+   ],
+   [
+    "thing",
+    197.65
+   ],
+   [
+    "it",
+    197.99
+   ],
+   [
+    "was",
+    198.13
+   ],
+   [
+    "built",
+    198.34
+   ],
+   [
+    "for",
+    198.68
+   ]
+  ]
+ },
+ {
+  "s": 199.19,
+  "e": 201.09,
+  "text": "half a billion years in the making.",
+  "words": [
+   [
+    "half",
+    199.19
+   ],
+   [
+    "a",
+    199.46
+   ],
+   [
+    "billion",
+    199.53
+   ],
+   [
+    "years",
+    200.0
+   ],
+   [
+    "in",
+    200.34
+   ],
+   [
+    "the",
+    200.48
+   ],
+   [
+    "making",
+    200.68
+   ]
+  ]
+ },
+ {
+  "s": 201.64,
+  "e": 204.66,
+  "text": "Next up, why can you hold a crocodile's jaws shut,",
+  "words": [
+   [
+    "next",
+    201.64
+   ],
+   [
+    "up",
+    201.96
+   ],
+   [
+    "why",
+    202.12
+   ],
+   [
+    "can",
+    202.35
+   ],
+   [
+    "you",
+    202.59
+   ],
+   [
+    "hold",
+    202.83
+   ],
+   [
+    "a",
+    203.15
+   ],
+   [
+    "crocodiles",
+    203.23
+   ],
+   [
+    "jaws",
+    204.03
+   ],
+   [
+    "shut",
+    204.34
+   ]
+  ]
+ },
+ {
+  "s": 204.96,
+  "e": 206.13,
+  "text": "with your bare hands?",
+  "words": [
+   [
+    "with",
+    204.96
+   ],
+   [
+    "your",
+    205.24
+   ],
+   [
+    "bare",
+    205.51
+   ],
+   [
+    "hands",
+    205.79
+   ]
+  ]
+ }
+]

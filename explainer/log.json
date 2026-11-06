@@ -723,5 +723,17 @@
   "words": 133,
   "sheet_id": "S055",
   "note": "no storyboard (unattended run); 13 scenes"
+ },
+ {
+  "date": "2026-11-06",
+  "id": "20261106-jellyfish-sting",
+  "kind": "long",
+  "style": "Cut-Paper Diorama",
+  "topic": "What actually happens when a jellyfish stings you?",
+  "title": "How Can a Jellyfish Sting in a Millionth of a Second?",
+  "seconds": 207.3,
+  "words": 537,
+  "sheet_id": "L019",
+  "note": "no storyboard step (unattended run); hook 50+ target, title 100; 6 chapters, 33 scenes; re-encoded at CRF 23 to fit the 95 MB drop limit"
  }
 ]
