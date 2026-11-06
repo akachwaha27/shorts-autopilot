@@ -735,5 +735,17 @@
   "words": 537,
   "sheet_id": "L019",
   "note": "no storyboard step (unattended run); hook 46, title 84 (no number; a 100-scoring title was found after the bot had already taken the drop); 6 chapters, 33 scenes; re-encoded at CRF 23 to fit the 95 MB drop limit"
+ },
+ {
+  "date": "2026-11-06",
+  "id": "20261106-chili-not-hot",
+  "kind": "short",
+  "style": "Kawaii Anime",
+  "topic": "Why does chili feel hot when it isn't?",
+  "title": "Why Does Chili Burn at 37°C When Nothing's Hot? 🌶️",
+  "seconds": 50.6,
+  "words": 124,
+  "sheet_id": "S056",
+  "note": "no storyboard (unattended run); hook 40, title 100; 11 scenes"
  }
 ]

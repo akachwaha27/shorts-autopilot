@@ -1,0 +1,652 @@
+[
+ {
+  "s": 0.25,
+  "e": 1.4,
+  "text": "Chili isn't hot.",
+  "words": [
+   [
+    "chili",
+    0.25
+   ],
+   [
+    "isnt",
+    0.73
+   ],
+   [
+    "hot",
+    1.11
+   ]
+  ]
+ },
+ {
+  "s": 1.95,
+  "e": 4.13,
+  "text": "You've been fooled every single time.",
+  "words": [
+   [
+    "youve",
+    1.95
+   ],
+   [
+    "been",
+    2.31
+   ],
+   [
+    "fooled",
+    2.6
+   ],
+   [
+    "every",
+    3.04
+   ],
+   [
+    "single",
+    3.4
+   ],
+   [
+    "time",
+    3.84
+   ]
+  ]
+ },
+ {
+  "s": 4.68,
+  "e": 5.92,
+  "text": "Put one in the fridge,",
+  "words": [
+   [
+    "put",
+    4.68
+   ],
+   [
+    "one",
+    4.9
+   ],
+   [
+    "in",
+    5.12
+   ],
+   [
+    "the",
+    5.26
+   ],
+   [
+    "fridge",
+    5.48
+   ]
+  ]
+ },
+ {
+  "s": 6.22,
+  "e": 7.38,
+  "text": "and it still burns.",
+  "words": [
+   [
+    "and",
+    6.22
+   ],
+   [
+    "it",
+    6.45
+   ],
+   [
+    "still",
+    6.61
+   ],
+   [
+    "burns",
+    7.0
+   ]
+  ]
+ },
+ {
+  "s": 7.93,
+  "e": 10.41,
+  "text": "Your tongue is covered in tiny heat alarms.",
+  "words": [
+   [
+    "your",
+    7.93
+   ],
+   [
+    "tongue",
+    8.22
+   ],
+   [
+    "is",
+    8.64
+   ],
+   [
+    "covered",
+    8.78
+   ],
+   [
+    "in",
+    9.28
+   ],
+   [
+    "tiny",
+    9.42
+   ],
+   [
+    "heat",
+    9.7
+   ],
+   [
+    "alarms",
+    9.98
+   ]
+  ]
+ },
+ {
+  "s": 10.96,
+  "e": 12.01,
+  "text": "They stay quiet,",
+  "words": [
+   [
+    "they",
+    10.96
+   ],
+   [
+    "stay",
+    11.28
+   ],
+   [
+    "quiet",
+    11.6
+   ]
+  ]
+ },
+ {
+  "s": 12.31,
+  "e": 15.59,
+  "text": "until something hits about forty-three degrees Celsius,",
+  "words": [
+   [
+    "until",
+    12.31
+   ],
+   [
+    "something",
+    12.66
+   ],
+   [
+    "hits",
+    13.29
+   ],
+   [
+    "about",
+    13.57
+   ],
+   [
+    "fortythree",
+    13.92
+   ],
+   [
+    "degrees",
+    14.61
+   ],
+   [
+    "celsius",
+    15.1
+   ]
+  ]
+ },
+ {
+  "s": 15.89,
+  "e": 17.78,
+  "text": "that's a hundred and nine Fahrenheit.",
+  "words": [
+   [
+    "thats",
+    15.89
+   ],
+   [
+    "a",
+    16.21
+   ],
+   [
+    "hundred",
+    16.27
+   ],
+   [
+    "and",
+    16.71
+   ],
+   [
+    "nine",
+    16.9
+   ],
+   [
+    "fahrenheit",
+    17.15
+   ]
+  ]
+ },
+ {
+  "s": 18.33,
+  "e": 21.13,
+  "text": "But chili carries a molecule called capsaicin,",
+  "words": [
+   [
+    "but",
+    18.33
+   ],
+   [
+    "chili",
+    18.54
+   ],
+   [
+    "carries",
+    18.9
+   ],
+   [
+    "a",
+    19.41
+   ],
+   [
+    "molecule",
+    19.48
+   ],
+   [
+    "called",
+    20.05
+   ],
+   [
+    "capsaicin",
+    20.49
+   ]
+  ]
+ },
+ {
+  "s": 21.43,
+  "e": 23.29,
+  "text": "and it fits that alarm like a key.",
+  "words": [
+   [
+    "and",
+    21.43
+   ],
+   [
+    "it",
+    21.65
+   ],
+   [
+    "fits",
+    21.79
+   ],
+   [
+    "that",
+    22.08
+   ],
+   [
+    "alarm",
+    22.36
+   ],
+   [
+    "like",
+    22.72
+   ],
+   [
+    "a",
+    23.0
+   ],
+   [
+    "key",
+    23.07
+   ]
+  ]
+ },
+ {
+  "s": 23.84,
+  "e": 26.15,
+  "text": "The alarm goes off at body temperature,",
+  "words": [
+   [
+    "the",
+    23.84
+   ],
+   [
+    "alarm",
+    24.05
+   ],
+   [
+    "goes",
+    24.41
+   ],
+   [
+    "off",
+    24.7
+   ],
+   [
+    "at",
+    24.92
+   ],
+   [
+    "body",
+    25.06
+   ],
+   [
+    "temperature",
+    25.35
+   ]
+  ]
+ },
+ {
+  "s": 26.45,
+  "e": 28.76,
+  "text": "and yells to your brain: this is burning!",
+  "words": [
+   [
+    "and",
+    26.45
+   ],
+   [
+    "yells",
+    26.66
+   ],
+   [
+    "to",
+    27.02
+   ],
+   [
+    "your",
+    27.17
+   ],
+   [
+    "brain",
+    27.46
+   ],
+   [
+    "this",
+    27.82
+   ],
+   [
+    "is",
+    28.11
+   ],
+   [
+    "burning",
+    28.25
+   ]
+  ]
+ },
+ {
+  "s": 29.31,
+  "e": 30.74,
+  "text": "So you even start to sweat,",
+  "words": [
+   [
+    "so",
+    29.31
+   ],
+   [
+    "you",
+    29.44
+   ],
+   [
+    "even",
+    29.65
+   ],
+   [
+    "start",
+    29.92
+   ],
+   [
+    "to",
+    30.26
+   ],
+   [
+    "sweat",
+    30.4
+   ]
+  ]
+ },
+ {
+  "s": 31.04,
+  "e": 32.97,
+  "text": "but nothing's actually heating up.",
+  "words": [
+   [
+    "but",
+    31.04
+   ],
+   [
+    "nothings",
+    31.25
+   ],
+   [
+    "actually",
+    31.8
+   ],
+   [
+    "heating",
+    32.35
+   ],
+   [
+    "up",
+    32.83
+   ]
+  ]
+ },
+ {
+  "s": 33.52,
+  "e": 34.79,
+  "text": "Water won't save you,",
+  "words": [
+   [
+    "water",
+    33.52
+   ],
+   [
+    "wont",
+    33.92
+   ],
+   [
+    "save",
+    34.24
+   ],
+   [
+    "you",
+    34.56
+   ]
+  ]
+ },
+ {
+  "s": 35.09,
+  "e": 36.79,
+  "text": "capsaicin won't mix with it.",
+  "words": [
+   [
+    "capsaicin",
+    35.09
+   ],
+   [
+    "wont",
+    35.79
+   ],
+   [
+    "mix",
+    36.1
+   ],
+   [
+    "with",
+    36.33
+   ],
+   [
+    "it",
+    36.64
+   ]
+  ]
+ },
+ {
+  "s": 37.34,
+  "e": 39.58,
+  "text": "Milk's protein, casein, wraps it up,",
+  "words": [
+   [
+    "milks",
+    37.34
+   ],
+   [
+    "protein",
+    37.76
+   ],
+   [
+    "casein",
+    38.34
+   ],
+   [
+    "wraps",
+    38.83
+   ],
+   [
+    "it",
+    39.25
+   ],
+   [
+    "up",
+    39.41
+   ]
+  ]
+ },
+ {
+  "s": 39.88,
+  "e": 41.11,
+  "text": "and carries it away.",
+  "words": [
+   [
+    "and",
+    39.88
+   ],
+   [
+    "carries",
+    40.11
+   ],
+   [
+    "it",
+    40.65
+   ],
+   [
+    "away",
+    40.8
+   ]
+  ]
+ },
+ {
+  "s": 41.66,
+  "e": 43.1,
+  "text": "Birds don't even feel it,",
+  "words": [
+   [
+    "birds",
+    41.66
+   ],
+   [
+    "dont",
+    42.04
+   ],
+   [
+    "even",
+    42.34
+   ],
+   [
+    "feel",
+    42.64
+   ],
+   [
+    "it",
+    42.95
+   ]
+  ]
+ },
+ {
+  "s": 43.4,
+  "e": 44.97,
+  "text": "so they happily eat chilis,",
+  "words": [
+   [
+    "so",
+    43.4
+   ],
+   [
+    "they",
+    43.54
+   ],
+   [
+    "happily",
+    43.83
+   ],
+   [
+    "eat",
+    44.33
+   ],
+   [
+    "chilis",
+    44.54
+   ]
+  ]
+ },
+ {
+  "s": 45.27,
+  "e": 46.47,
+  "text": "and spread the seeds.",
+  "words": [
+   [
+    "and",
+    45.27
+   ],
+   [
+    "spread",
+    45.49
+   ],
+   [
+    "the",
+    45.91
+   ],
+   [
+    "seeds",
+    46.12
+   ]
+  ]
+ },
+ {
+  "s": 47.02,
+  "e": 49.54,
+  "text": "What's the spiciest chili that's ever fooled you?",
+  "words": [
+   [
+    "whats",
+    47.02
+   ],
+   [
+    "the",
+    47.35
+   ],
+   [
+    "spiciest",
+    47.54
+   ],
+   [
+    "chili",
+    48.06
+   ],
+   [
+    "thats",
+    48.38
+   ],
+   [
+    "ever",
+    48.7
+   ],
+   [
+    "fooled",
+    48.96
+   ],
+   [
+    "you",
+    49.35
+   ]
+  ]
+ }
+]
