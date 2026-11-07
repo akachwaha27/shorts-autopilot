@@ -378,182 +378,6 @@
     }
   },
   "videos": {
-    "2026-11-01-103": {
-      "topic": {
-        "title": "The Story of Chocolate: How It All Started",
-        "format": "long",
-        "angle": "Claymation Set"
-      },
-      "package": {
-        "title": "How Chocolate Went From 5,300-Year-Old Bean to Bar",
-        "description": "The history of chocolate, from cacao beans used 5,300 years ago in the Amazon and the Maya's bitter foamy drink, to Aztec cocoa-bean money, the first chocolate bar in 1847 and the invention of milk chocolate. Plus why chocolate melts in your mouth but not in your hand.\n\nSources:\nhttps://www.worldhistory.org/Chocolate_in_Mesoamerica/\nhttps://popular-archaeology.com/article/the-indians-of-the-ecuadorian-amazon-were-using-cocoa-5300-years-ago/\nhttps://cocoarunners.com/2022/07/an-industrial-history-of-chocolate/\n\nAnimated in the Claymation Set style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#chocolate",
-          "#history",
-          "#howitsmade"
-        ],
-        "tags": [
-          "history of chocolate",
-          "story of chocolate",
-          "how chocolate is made",
-          "cacao",
-          "cocoa beans",
-          "aztec money",
-          "maya chocolate drink",
-          "first chocolate bar",
-          "milk chocolate history",
-          "why chocolate melts",
-          "food history",
-          "explainer",
-          "zorbly ai",
-          "claymation"
-        ],
-        "category": "27",
-        "pinned_comment": "Would you rather have the old spicy chocolate drink or a modern bar? \ud83c\udf6b",
-        "thumbnail_text": "IT WAS MONEY",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "You could buy a turkey with a hundred cocoa beans. So why did chocolate stop being money, and how did it end up in your hand? This is the story of chocolate. It starts with a tree in the rainforest. The cacao tree grows big, football-shaped pods, right on its trunk. Inside each pod are thirty to fifty seeds, wrapped in sweet white pulp. Those seeds are cocoa beans. Scientists found traces of cacao in pots from the Amazon in Ecuador, about five thousand three hundred years old. Later, the Olmec and the Maya turned the beans into a drink. They roasted them, ground them into paste, and mixed in water, chili, and cornmeal. Then they poured it from high up, from one cup into another, to whip up a thick foam on top. And here's the thing. It wasn't sweet at all. It was bitter, spicy, and very special. The Aztecs loved it so much they used the beans as money. One record from the fifteen hundreds lists prices. A tomato cost one bean. An avocado, three beans. A turkey hen, one hundred. Some people even made fake beans, by stuffing empty shells with mud. Then, in the fifteen hundreds, Spanish explorers carried cacao back across the ocean. The Spanish court tried the bitter drink, and did something new. They added sugar, plus cinnamon and vanilla. Suddenly, Europe was hooked. Fancy chocolate houses opened in London, where rich people sipped it hot. But for almost three hundred years, chocolate was still only a drink. Here's why. A cocoa bean is about half fat, called cocoa butter. Grind the beans, and you get a thick, greasy paste. In eighteen twenty eight, a Dutch chemist named Coenraad van Houten built a press that squeezed out most of that butter. What was left became a dry cake, that could be crushed into cocoa powder. Then in eighteen forty seven, an English company called Fry's flipped the idea. They mixed cocoa powder and sugar with extra melted cocoa butter, and poured it into a mold. It set hard. The first modern chocolate bar. It was still gritty, and a bit bitter. Two Swiss makers fixed that. In eighteen seventy five, Daniel Peter added milk, using milk powder from his neighbor, Henri Nestl\u00e9. Milk chocolate was born. Then in eighteen seventy nine, Rodolphe Lindt built a machine called a conche. It rolls warm chocolate back and forth for hours, grinding every bit smaller and smaller, until it turns silky smooth. So what happens today? Farmers cut open the pods and let the beans ferment for about a week. That's where most of the chocolate flavor comes from. Then the beans are dried, roasted, and cracked. It takes around four hundred beans to make one pound of chocolate. And the best trick is in the butter. Cocoa butter melts at about thirty four degrees Celsius, just below the heat inside your mouth. That's why a bar stays solid in your hand, but melts on your tongue. From a bitter drink worth real money, to the bar in your lunchbox. So, would you rather have the drink, or the bar? Next time, how do tiny ants build an underground city for millions of workers?",
-        "key_facts": [
-          "Traces of cacao in ~5,300-year-old pottery from the Ecuadorian Amazon (2018 study)",
-          "Olmec and Maya drank cacao as a bitter, foamy drink with chili and cornmeal",
-          "Aztecs used cacao beans as money; a 1545 list: tomato 1 bean, avocado 3, turkey hen 100",
-          "Spanish added sugar, cinnamon and vanilla; London chocolate houses from 1657",
-          "1828 van Houten press separates cocoa butter; 1847 Fry's first solid bar",
-          "1875 Daniel Peter milk chocolate with Nestle's milk; 1879 Lindt's conche",
-          "~400 beans per pound of chocolate; cocoa butter melts ~34 C, below mouth temperature"
-        ],
-        "voice": "Kokoro",
-        "format": "long",
-        "style": "Claymation Set"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261101-chocolate-story",
-      "redos": 0,
-      "updated": "2026-11-02T09:56:40.336822+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Claymation Set style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-01",
-        "name": "2026-11-01-103.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-01",
-        "name": "2026-11-01-103-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:03,140\nYou could buy a turkey with a hundred cocoa beans.\n\n2\n00:00:03,690 --> 00:00:05,990\nSo why did chocolate stop being money,\n\n3\n00:00:06,290 --> 00:00:08,050\nand how did it end up in your hand?\n\n4\n00:00:08,600 --> 00:00:10,320\nThis is the story of chocolate.\n\n5\n00:00:10,870 --> 00:00:13,160\nIt starts with a tree in the rainforest.\n\n6\n00:00:13,710 --> 00:00:16,810\nThe cacao tree grows big, football-shaped pods,\n\n7\n00:00:17,110 --> 00:00:18,240\nright on its trunk.\n\n8\n00:00:18,790 --> 00:00:21,490\nInside each pod are thirty to fifty seeds,\n\n9\n00:00:21,790 --> 00:00:23,350\nwrapped in sweet white pulp.\n\n10\n00:00:23,900 --> 00:00:25,770\nThose seeds are cocoa beans.\n\n11\n00:00:26,320 --> 00:00:28,850\nScientists found traces of cacao in pots\n\n12\n00:00:29,150 --> 00:00:30,960\nfrom the Amazon in Ecuador,\n\n13\n00:00:31,260 --> 00:00:33,730\nabout five thousand three hundred years old.\n\n14\n00:00:34,280 --> 00:00:36,040\nLater, the Olmec and the Maya\n\n15\n00:00:36,340 --> 00:00:38,050\nturned the beans into a drink.\n\n16\n00:00:38,600 --> 00:00:41,050\nThey roasted them, ground them into paste,\n\n17\n00:00:41,350 --> 00:00:43,620\nand mixed in water, chili, and cornmeal.\n\n18\n00:00:44,170 --> 00:00:45,660\nThen they poured it from high up,\n\n19\n00:00:45,960 --> 00:00:47,490\nfrom one cup into another,\n\n20\n00:00:47,790 --> 00:00:49,660\nto whip up a thick foam on top.\n\n21\n00:00:50,210 --> 00:00:51,290\nAnd here's the thing.\n\n22\n00:00:51,840 --> 00:00:53,140\nIt wasn't sweet at all.\n\n23\n00:00:53,690 --> 00:00:55,890\nIt was bitter, spicy, and very special.\n\n24\n00:00:56,440 --> 00:00:58,220\nThe Aztecs loved it so much\n\n25\n00:00:58,520 --> 00:01:00,200\nthey used the beans as money.\n\n26\n00:01:00,750 --> 00:01:03,790\nOne record from the fifteen hundreds lists prices.\n\n27\n00:01:04,340 --> 00:01:05,980\nA tomato cost one bean.\n\n28\n00:01:06,530 --> 00:01:08,290\nAn avocado, three beans.\n\n29\n00:01:08,840 --> 00:01:10,490\nA turkey hen, one hundred.\n\n30\n00:01:11,040 --> 00:01:13,220\nSome people even made fake beans,\n\n31\n00:01:13,520 --> 00:01:15,450\nby stuffing empty shells with mud.\n\n32\n00:01:16,000 --> 00:01:17,730\nThen, in the fifteen hundreds,\n\n33\n00:01:18,030 --> 00:01:21,290\nSpanish explorers carried cacao back across the ocean.\n\n34\n00:01:21,840 --> 00:01:23,790\nThe Spanish court tried the bitter drink,\n\n35\n00:01:24,090 --> 00:01:25,370\nand did something new.\n\n36\n00:01:25,920 --> 00:01:26,960\nThey added sugar,\n\n37\n00:01:27,260 --> 00:01:28,770\nplus cinnamon and vanilla.\n\n38\n00:01:29,320 --> 00:01:30,900\nSuddenly, Europe was hooked.\n\n39\n00:01:31,450 --> 00:01:34,090\nFancy chocolate houses opened in London,\n\n40\n00:01:34,390 --> 00:01:36,050\nwhere rich people sipped it hot.\n\n41\n00:01:36,600 --> 00:01:38,490\nBut for almost three hundred years,\n\n42\n00:01:38,790 --> 00:01:40,690\nchocolate was still only a drink.\n\n43\n00:01:41,240 --> 00:01:42,100\nHere's why.\n\n44\n00:01:42,650 --> 00:01:44,590\nA cocoa bean is about half fat,\n\n45\n00:01:44,890 --> 00:01:46,160\ncalled cocoa butter.\n\n46\n00:01:46,710 --> 00:01:49,600\nGrind the beans, and you get a thick, greasy paste.\n\n47\n00:01:50,150 --> 00:01:51,530\nIn eighteen twenty eight,\n\n48\n00:01:51,830 --> 00:01:54,070\na Dutch chemist named Coenraad van Houten\n\n49\n00:01:54,370 --> 00:01:57,150\nbuilt a press that squeezed out most of that butter.\n\n50\n00:01:57,700 --> 00:01:59,610\nWhat was left became a dry cake,\n\n51\n00:01:59,910 --> 00:02:02,030\nthat could be crushed into cocoa powder.\n\n52\n00:02:02,580 --> 00:02:04,410\nThen in eighteen forty seven,\n\n53\n00:02:04,710 --> 00:02:07,530\nan English company called Fry's flipped the idea.\n\n54\n00:02:08,080 --> 00:02:09,830\nThey mixed cocoa powder and sugar\n\n55\n00:02:10,130 --> 00:02:12,170\nwith extra melted cocoa butter,\n\n56\n00:02:12,470 --> 00:02:13,960\nand poured it into a mold.\n\n57\n00:02:14,510 --> 00:02:15,450\nIt set hard.\n\n58\n00:02:16,000 --> 00:02:17,990\nThe first modern chocolate bar.\n\n59\n00:02:18,540 --> 00:02:20,540\nIt was still gritty, and a bit bitter.\n\n60\n00:02:21,090 --> 00:02:22,740\nTwo Swiss makers fixed that.\n\n61\n00:02:23,290 --> 00:02:24,840\nIn eighteen seventy five,\n\n62\n00:02:25,140 --> 00:02:26,800\nDaniel Peter added milk,\n\n63\n00:02:27,100 --> 00:02:30,070\nusing milk powder from his neighbor, Henri Nestl\u00e9.\n\n64\n00:02:30,620 --> 00:02:32,190\nMilk chocolate was born.\n\n65\n00:02:32,740 --> 00:02:34,590\nThen in eighteen seventy nine,\n\n66\n00:02:34,890 --> 00:02:37,530\nRodolphe Lindt built a machine called a conche.\n\n67\n00:02:38,080 --> 00:02:41,040\nIt rolls warm chocolate back and forth for hours,\n\n68\n00:02:41,340 --> 00:02:43,600\ngrinding every bit smaller and smaller,\n\n69\n00:02:43,900 --> 00:02:45,610\nuntil it turns silky smooth.\n\n70\n00:02:46,160 --> 00:02:47,460\nSo what happens today?\n\n71\n00:02:48,010 --> 00:02:49,580\nFarmers cut open the pods\n\n72\n00:02:49,880 --> 00:02:52,070\nand let the beans ferment for about a week.\n\n73\n00:02:52,620 --> 00:02:55,250\nThat's where most of the chocolate flavor comes from.\n\n74\n00:02:55,800 --> 00:02:58,390\nThen the beans are dried, roasted, and cracked.\n\n75\n00:02:58,940 --> 00:03:01,070\nIt takes around four hundred beans\n\n76\n00:03:01,370 --> 00:03:02,960\nto make one pound of chocolate.\n\n77\n00:03:03,510 --> 00:03:05,210\nAnd the best trick is in the butter.\n\n78\n00:03:05,760 --> 00:03:09,390\nCocoa butter melts at about thirty four degrees Celsius,\n\n79\n00:03:09,690 --> 00:03:12,040\njust below the heat inside your mouth.\n\n80\n00:03:12,590 --> 00:03:14,870\nThat's why a bar stays solid in your hand,\n\n81\n00:03:15,170 --> 00:03:16,490\nbut melts on your tongue.\n\n82\n00:03:17,040 --> 00:03:18,990\nFrom a bitter drink worth real money,\n\n83\n00:03:19,290 --> 00:03:20,930\nto the bar in your lunchbox.\n\n84\n00:03:21,480 --> 00:03:23,940\nSo, would you rather have the drink, or the bar?\n\n85\n00:03:24,490 --> 00:03:28,030\nNext time, how do tiny ants build an underground city\n\n86\n00:03:28,330 --> 00:03:29,920\nfor millions of workers?\n\n",
-      "tg_msg": 978,
-      "approved_by": "auto",
-      "quota_note": "2026-11-02",
-      "description_full": "The history of chocolate, from cacao beans used 5,300 years ago in the Amazon and the Maya's bitter foamy drink, to Aztec cocoa-bean money, the first chocolate bar in 1847 and the invention of milk chocolate. Plus why chocolate melts in your mouth but not in your hand.\n\nSources:\nhttps://www.worldhistory.org/Chocolate_in_Mesoamerica/\nhttps://popular-archaeology.com/article/the-indians-of-the-ecuadorian-amazon-were-using-cocoa-5300-years-ago/\nhttps://cocoarunners.com/2022/07/an-industrial-history-of-chocolate/\n\nAnimated in the Claymation Set style.\n\nFollow Zorbly AI for a new Short every day.\n\n#chocolate #history #howitsmade\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Claymation Set style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/FsDGQc-uv8w",
-          "private \u00b7 thumbnail \u2705"
-        ]
-      },
-      "uploaded_at": "2026-11-02T09:56:40.336838+00:00",
-      "slot": "2026-11-06T00:15:00+00:00"
-    },
-    "2026-11-01-104": {
-      "topic": {
-        "title": "Why do we get goosebumps?",
-        "format": "animated",
-        "angle": "Chalkboard Lesson"
-      },
-      "package": {
-        "title": "Why Do We Get Goosebumps? \ud83e\udd76",
-        "description": "Why do we get goosebumps? Tiny arrector pili muscles at almost every hair squeeze when you're cold or scared, pulling the hair upright and raising a bump of skin, a leftover from furry ancestors whose fluffed-up fur trapped warm air and made them look bigger.\n\nSources:\nhttps://www.livescience.com/32349-what-causes-goose-bumps.html\nhttps://hscrb.harvard.edu/news/the-real-reason-behind-goosebumps\nhttps://www.ncbi.nlm.nih.gov/books/NBK499948/\n\nAnimated in the Chalkboard Lesson style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#goosebumps",
-          "#science",
-          "#humanbody"
-        ],
-        "tags": [
-          "why do we get goosebumps",
-          "goosebumps",
-          "goose bumps explained",
-          "arrector pili",
-          "chills",
-          "why do we get chills",
-          "human body facts",
-          "body science",
-          "science explained",
-          "fun facts",
-          "zorbly ai",
-          "animated explainer",
-          "how it works",
-          "evolution"
-        ],
-        "category": "27",
-        "pinned_comment": "What gives you goosebumps every single time: a song, a scary movie, or cold air?",
-        "thumbnail_text": "5 MILLION MUSCLES",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "Your skin hides five million tiny muscles. Why?\nAlmost every hair on your body\nhas its own muscle,\ncalled the arrector pili.\nWhen you get cold,\nor scared,\nyour nerves fire one signal,\nand they all squeeze at once.\nThat yanks each hair upright,\nand pushes up a bump of skin.\nThat's a goosebump.\nFor a furry animal, it's a superpower.\nStanding fur traps a layer of warm air,\nlike a puffy winter coat.\nAnd a scared cat puffs up,\nso it looks bigger.\nBut we lost most of our fur,\nso now we just get bumps.\nEven a song can trigger them,\nbecause big feelings fire the same nerves.\nAnd in mice, scientists found\nthose nerves wake up hair stem cells,\nto grow thicker fur in the cold.\nSo what gives you goosebumps?",
-        "key_facts": [
-          "The body has about 5 million hair follicles, and almost every body hair has a tiny arrector pili muscle attached",
-          "Cold or fear triggers the sympathetic nervous system, which makes the arrector pili muscles contract",
-          "The contraction pulls the hair upright and raises a small bump of skin: a goosebump",
-          "In furry mammals, raised fur traps a layer of insulating air and makes the animal look bigger to threats",
-          "Strong emotions, such as from music, can trigger the same nervous response",
-          "A 2020 Harvard study in mice found the sympathetic nerves tied to these muscles also activate hair follicle stem cells to grow new hair in prolonged cold"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Chalkboard Lesson"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261101-goosebumps",
-      "redos": 0,
-      "updated": "2026-11-02T09:56:43.546508+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Chalkboard Lesson style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-01",
-        "name": "2026-11-01-104.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-01",
-        "name": "2026-11-01-104-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:03,520\nYour skin hides five million tiny muscles. Why?\n\n2\n00:00:04,070 --> 00:00:05,770\nAlmost every hair on your body\n\n3\n00:00:06,070 --> 00:00:07,270\nhas its own muscle,\n\n4\n00:00:07,570 --> 00:00:08,930\ncalled the arrector pili.\n\n5\n00:00:09,480 --> 00:00:10,570\nWhen you get cold,\n\n6\n00:00:10,870 --> 00:00:11,690\nor scared,\n\n7\n00:00:11,990 --> 00:00:13,690\nyour nerves fire one signal,\n\n8\n00:00:13,990 --> 00:00:15,570\nand they all squeeze at once.\n\n9\n00:00:16,120 --> 00:00:17,620\nThat yanks each hair upright,\n\n10\n00:00:17,920 --> 00:00:19,590\nand pushes up a bump of skin.\n\n11\n00:00:20,140 --> 00:00:21,250\nThat's a goosebump.\n\n12\n00:00:21,800 --> 00:00:24,090\nFor a furry animal, it's a superpower.\n\n13\n00:00:24,640 --> 00:00:27,020\nStanding fur traps a layer of warm air,\n\n14\n00:00:27,320 --> 00:00:28,860\nlike a puffy winter coat.\n\n15\n00:00:29,410 --> 00:00:30,880\nAnd a scared cat puffs up,\n\n16\n00:00:31,180 --> 00:00:32,230\nso it looks bigger.\n\n17\n00:00:32,780 --> 00:00:34,400\nBut we lost most of our fur,\n\n18\n00:00:34,700 --> 00:00:36,330\nso now we just get bumps.\n\n19\n00:00:36,880 --> 00:00:38,530\nEven a song can trigger them,\n\n20\n00:00:38,830 --> 00:00:41,310\nbecause big feelings fire the same nerves.\n\n21\n00:00:41,860 --> 00:00:43,700\nAnd in mice, scientists found\n\n22\n00:00:44,000 --> 00:00:46,130\nthose nerves wake up hair stem cells,\n\n23\n00:00:46,430 --> 00:00:48,290\nto grow thicker fur in the cold.\n\n24\n00:00:48,840 --> 00:00:50,430\nSo what gives you goosebumps?\n\n",
-      "tg_msg": 979,
-      "approved_by": "auto",
-      "quota_note": "2026-11-02",
-      "description_full": "Why do we get goosebumps? Tiny arrector pili muscles at almost every hair squeeze when you're cold or scared, pulling the hair upright and raising a bump of skin, a leftover from furry ancestors whose fluffed-up fur trapped warm air and made them look bigger.\n\nSources:\nhttps://www.livescience.com/32349-what-causes-goose-bumps.html\nhttps://hscrb.harvard.edu/news/the-real-reason-behind-goosebumps\nhttps://www.ncbi.nlm.nih.gov/books/NBK499948/\n\nAnimated in the Chalkboard Lesson style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #goosebumps #science #humanbody\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Chalkboard Lesson style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/IH29Hv1pbM4",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-11-02T09:56:43.546526+00:00",
-      "slot": "2026-11-06T02:15:00+00:00"
-    },
     "2026-11-01-105": {
       "topic": {
         "title": "Why don't flamingos fall over standing on one leg?",
@@ -3109,12 +2933,12 @@
         "format": "long",
         "style": "Claymation Set"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261107-croc-jaws",
       "redos": 0,
-      "updated": "2026-11-07T16:54:26.186618+00:00",
+      "updated": "2026-11-07T18:55:02.625053+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Claymation Set style). Voice: Kokoro text-to-speech."
       ],
@@ -3129,7 +2953,17 @@
         "name": "2026-11-07-103-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:01,990\nWhy can your bare hands hold shut\n\n2\n00:00:02,290 --> 00:00:04,090\nthe strongest bite ever measured,\n\n3\n00:00:04,390 --> 00:00:07,320\n3,700 pounds of crocodile?\n\n4\n00:00:07,870 --> 00:00:09,850\nIt sounds impossible, but it's true.\n\n5\n00:00:10,400 --> 00:00:13,400\nLet's open up the most lopsided jaw in nature.\n\n6\n00:00:13,950 --> 00:00:17,120\nBack in 2012, a team of scientists\n\n7\n00:00:17,420 --> 00:00:20,120\nset out to measure every crocodile on Earth.\n\n8\n00:00:20,670 --> 00:00:22,630\nAll 23 living species,\n\n9\n00:00:22,930 --> 00:00:25,310\nfrom tiny caimans to giant gharials.\n\n10\n00:00:25,860 --> 00:00:27,140\nThey wrestled each one\n\n11\n00:00:27,440 --> 00:00:30,020\ninto biting down on a padded force meter.\n\n12\n00:00:30,570 --> 00:00:32,680\nThe winner was the saltwater crocodile.\n\n13\n00:00:33,230 --> 00:00:38,140\nOne big male bit down with about 3,700 pounds of force.\n\n14\n00:00:38,690 --> 00:00:41,010\nThat's more than sixteen thousand newtons.\n\n15\n00:00:41,550 --> 00:00:43,290\nFor comparison, you chew a steak\n\n16\n00:00:43,590 --> 00:00:46,900\nwith maybe 150 to 200 pounds.\n\n17\n00:00:47,450 --> 00:00:49,370\nLions, tigers and hyenas\n\n18\n00:00:49,670 --> 00:00:51,750\nland somewhere around 1,000.\n\n19\n00:00:52,300 --> 00:00:54,850\nSo the saltie bites more than three times harder\n\n20\n00:00:55,150 --> 00:00:56,270\nthan the big cats.\n\n21\n00:00:56,820 --> 00:00:58,800\nSo where does all that power come from?\n\n22\n00:00:59,350 --> 00:01:01,410\nLook at the back of a crocodile's head.\n\n23\n00:01:01,960 --> 00:01:03,940\nThose big bulging cheeks aren't fat.\n\n24\n00:01:04,490 --> 00:01:06,640\nThey're almost all jaw-closing muscle,\n\n25\n00:01:06,940 --> 00:01:08,170\npacked around the hinge\n\n26\n00:01:08,470 --> 00:01:11,530\nand pulling the lower jaw up like giant rubber bands.\n\n27\n00:01:12,080 --> 00:01:14,410\nNow look for the muscles that open the jaw.\n\n28\n00:01:14,960 --> 00:01:15,850\nThey're tiny.\n\n29\n00:01:16,400 --> 00:01:17,570\nA thin little strap\n\n30\n00:01:17,870 --> 00:01:19,760\nthat just tugs the jaw back down.\n\n31\n00:01:20,310 --> 00:01:22,720\nAnd that makes sense for how a crocodile eats.\n\n32\n00:01:23,270 --> 00:01:24,730\nIt lies still in the water,\n\n33\n00:01:25,030 --> 00:01:26,810\nthen snaps shut and holds on.\n\n34\n00:01:27,360 --> 00:01:29,060\nClamping needs huge force.\n\n35\n00:01:29,610 --> 00:01:32,360\nOpening only has to lift the jaw's own weight.\n\n36\n00:01:32,910 --> 00:01:35,140\nSo evolution poured almost everything\n\n37\n00:01:35,440 --> 00:01:36,450\ninto closing.\n\n38\n00:01:37,000 --> 00:01:39,210\nThat's the trick behind the bare-hands myth.\n\n39\n00:01:39,760 --> 00:01:41,510\nOnce the jaws are already shut,\n\n40\n00:01:41,810 --> 00:01:43,860\nthe weak opening muscles have to push\n\n41\n00:01:44,160 --> 00:01:45,240\nagainst your grip,\n\n42\n00:01:45,540 --> 00:01:46,460\nand they lose.\n\n43\n00:01:47,010 --> 00:01:49,460\nWildlife handlers use this every day.\n\n44\n00:01:50,010 --> 00:01:52,430\nThey loop a strong rubber band around the snout,\n\n45\n00:01:52,730 --> 00:01:54,710\nor wrap it with a few turns of tape,\n\n46\n00:01:55,010 --> 00:01:57,320\nand the crocodile simply can't open up.\n\n47\n00:01:57,870 --> 00:02:00,020\nBut please, never try this yourself.\n\n48\n00:02:00,570 --> 00:02:03,260\nGetting the mouth shut is the dangerous part,\n\n49\n00:02:03,560 --> 00:02:05,440\nand that tail is all muscle too.\n\n50\n00:02:05,990 --> 00:02:07,690\nHere's the most surprising part.\n\n51\n00:02:08,240 --> 00:02:11,440\nThose crushing jaws are also incredibly gentle.\n\n52\n00:02:11,990 --> 00:02:14,070\nLook closely at a crocodile's face\n\n53\n00:02:14,370 --> 00:02:16,560\nand you'll see thousands of tiny bumps.\n\n54\n00:02:17,110 --> 00:02:18,650\nEach bump is a touch sensor,\n\n55\n00:02:18,950 --> 00:02:21,040\nand scientists found they're more sensitive\n\n56\n00:02:21,340 --> 00:02:22,790\nthan your own fingertips.\n\n57\n00:02:23,340 --> 00:02:24,650\nThey can feel a ripple\n\n58\n00:02:24,950 --> 00:02:26,640\nfrom a single drop of water.\n\n59\n00:02:27,190 --> 00:02:29,760\nThey help a crocodile sense prey in the dark,\n\n60\n00:02:30,060 --> 00:02:31,760\nand they let a mother crocodile\n\n61\n00:02:32,060 --> 00:02:34,330\ncarry her newly hatched babies in her mouth\n\n62\n00:02:34,630 --> 00:02:36,290\nwithout hurting a single one.\n\n63\n00:02:36,840 --> 00:02:38,210\nAnd then there are the teeth.\n\n64\n00:02:38,760 --> 00:02:40,520\nAn alligator has about 80,\n\n65\n00:02:40,820 --> 00:02:43,630\nand each one can be replaced up to 50 times\n\n66\n00:02:43,930 --> 00:02:45,210\nover its long life.\n\n67\n00:02:45,760 --> 00:02:48,110\nA new tooth is always waiting underneath\n\n68\n00:02:48,410 --> 00:02:49,290\nthe old one.\n\n69\n00:02:49,840 --> 00:02:51,890\nScientists are studying how they do it,\n\n70\n00:02:52,190 --> 00:02:54,310\nhoping it might one day help people\n\n71\n00:02:54,610 --> 00:02:55,910\nregrow lost teeth.\n\n72\n00:02:56,460 --> 00:02:59,390\nSo the crocodile's jaw is a one-way machine.\n\n73\n00:02:59,940 --> 00:03:01,840\nRecord-breaking power to close,\n\n74\n00:03:02,140 --> 00:03:03,440\nbarely any to open,\n\n75\n00:03:03,740 --> 00:03:05,710\nand a touch as soft as a fingertip.\n\n76\n00:03:06,260 --> 00:03:08,650\nNext time, why do porcupine quills\n\n77\n00:03:08,950 --> 00:03:11,320\nget stuck in you and refuse to come out?\n\n",
-      "tg_msg": 1050
+      "tg_msg": 1050,
+      "approved_by": "auto",
+      "description_full": "A saltwater crocodile has the strongest bite ever measured, about 3,700 pounds of force, yet its jaws can be held shut by hand because the muscles that open them are tiny. We look inside the crocodile jaw, the bite force record, how wildlife handlers use rubber bands and tape, the touch sensors that make croc jaws more sensitive than fingertips, and how alligators replace each tooth up to 50 times.\n\nSources:\nhttps://www.eurekalert.org/news-releases/611994\nhttps://news.vanderbilt.edu/2012/11/alligators-and-crocodiles\nhttps://www.smithsonianmag.com/science-nature/solving-an-alligator-mystery-may-help-humans-regrow-lost-teeth-60257334/\n\nAnimated in the Claymation Set style.\n\nFollow Zorbly AI for a new Short every day.\n\n#crocodile #animals #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Claymation Set style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/YpeBzO_Ueo0",
+          "private \u00b7 thumbnail \u2705"
+        ]
+      },
+      "uploaded_at": "2026-11-07T18:55:02.625097+00:00",
+      "slot": "2026-11-13T17:15:00+00:00"
     },
     "2026-11-07-104": {
       "topic": {
@@ -3179,12 +3013,12 @@
         "format": "animated",
         "style": "Kawaii Anime"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261107-panda-bamboo",
       "redos": 0,
-      "updated": "2026-11-07T16:54:38.217036+00:00",
+      "updated": "2026-11-07T18:55:07.028442+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech."
       ],
@@ -3199,7 +3033,29 @@
         "name": "2026-11-07-104-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:03,430\nPandas waste eighty-three percent of the bamboo they eat.\n\n2\n00:00:03,980 --> 00:00:05,440\nHere's why you never see it.\n\n3\n00:00:05,990 --> 00:00:08,310\nInside, a panda has a meat-eater's gut,\n\n4\n00:00:08,610 --> 00:00:10,110\nbuilt just like a bear's:\n\n5\n00:00:10,410 --> 00:00:12,000\nshort, simple intestines,\n\n6\n00:00:12,300 --> 00:00:14,370\nand no cow-style stomach chambers.\n\n7\n00:00:14,920 --> 00:00:16,680\nSo bamboo rushes straight through,\n\n8\n00:00:16,980 --> 00:00:19,260\nand most of it comes out in less than a day.\n\n9\n00:00:19,810 --> 00:00:22,640\nSo pandas eat for up to fourteen hours a day,\n\n10\n00:00:22,940 --> 00:00:25,600\ncrunching up to thirty-eight kilos of bamboo.\n\n11\n00:00:26,150 --> 00:00:29,210\nAnd they save energy like a phone on low battery.\n\n12\n00:00:29,760 --> 00:00:31,330\nTheir thyroid runs slow,\n\n13\n00:00:31,630 --> 00:00:33,350\ntheir brain and liver are small,\n\n14\n00:00:33,650 --> 00:00:34,850\nand they nap a lot.\n\n15\n00:00:35,400 --> 00:00:38,340\nA panda burns barely forty percent of the energy\n\n16\n00:00:38,640 --> 00:00:40,230\nyou'd expect for its size.\n\n17\n00:00:40,780 --> 00:00:42,580\nScientists think it all started\n\n18\n00:00:42,880 --> 00:00:44,800\nwhen their ancestors lost a gene\n\n19\n00:00:45,100 --> 00:00:46,990\nfor tasting meat's savory flavor.\n\n20\n00:00:47,540 --> 00:00:50,600\nCould you eat just one food every day, like a panda?\n\n",
-      "tg_msg": 1051
+      "tg_msg": 1051,
+      "approved_by": "auto",
+      "description_full": "Why do pandas eat bamboo all day? Giant pandas have a carnivore's short, simple gut, so they digest only about 17% of their bamboo and survive by eating up to 14 hours a day and saving energy with a slow thyroid and lots of rest.\n\nSources:\nhttps://www.livescience.com/50871-pandas-gut-bacteria-bamboo-digestion.html\nhttps://phys.org/news/2015-07-under-active-pandas-energy-sloths.html\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC3144909\n\nAnimated in the Kawaii Anime style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #animals #panda #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/lgpwrV5JRqs",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-07T18:55:07.028458+00:00",
+      "slot": "2026-11-13T20:15:00+00:00"
     }
   },
   "history": [
