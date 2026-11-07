@@ -378,98 +378,6 @@
     }
   },
   "videos": {
-    "2026-11-01-102": {
-      "topic": {
-        "title": "Why do cut apples turn brown?",
-        "format": "animated",
-        "angle": "Flat-Vector Science"
-      },
-      "package": {
-        "title": "Why Cut Apples Turn Brown in 5 Minutes \ud83c\udf4e",
-        "description": "Why do cut apples turn brown? Slicing an apple bursts its cells, so the enzyme polyphenol oxidase meets the apple's polyphenols and oxygen, turning them into brown pigment, and lemon juice slows it down.\n\nSources:\nhttps://www.britannica.com/story/why-do-sliced-apples-turn-brown\nhttps://www.scientificamerican.com/article/why-do-apples-turn-brown/\nhttps://news.wisc.edu/curiosities-why-do-apple-slices-turn-brown/\n\nAnimated in the Flat-Vector Science style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#apple",
-          "#science",
-          "#foodscience"
-        ],
-        "tags": [
-          "why do apples turn brown",
-          "apple browning",
-          "cut apple brown",
-          "polyphenol oxidase",
-          "enzymatic browning",
-          "oxidation",
-          "lemon juice apple",
-          "food science",
-          "science explained",
-          "kitchen science",
-          "fun facts",
-          "zorbly ai",
-          "animated explainer",
-          "how it works"
-        ],
-        "category": "27",
-        "pinned_comment": "Be honest: do you still eat the brown apple slices, or do they go in the bin?",
-        "thumbnail_text": "A SCAB?",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "Why does your apple grow a brown scab in 5 minutes?\nInside every apple cell,\ntwo things are locked in separate rooms.\nOne holds an enzyme, polyphenol oxidase.\nThe other holds natural chemicals called polyphenols.\nWhen you bite or slice the apple,\nyou burst thousands of cells.\nThe two finally meet,\nand oxygen from the air rushes in.\nThe enzyme uses that oxygen\nto turn the polyphenols into brown pigment,\nlike the melanin in your skin.\nScientists think it's a defence,\na brown shield against germs and bugs,\njust like a scab on your knee.\nWant to stop it?\nSqueeze on some lemon juice.\nIts acid slows the enzyme down,\nand its vitamin C grabs the oxygen first.\nSo when your apple turns brown,\nis it rotting, or healing?\nTell me in the comments.",
-        "key_facts": [
-          "Cutting or biting bursts apple cells, letting the enzyme polyphenol oxidase (PPO) meet the apple's polyphenols, which are stored in a separate compartment",
-          "With oxygen from the air, PPO turns polyphenols into quinones that link into brown melanin-like pigments",
-          "Browning starts within minutes of cutting",
-          "Scientists think the browning helps protect the fruit against microbes and insects",
-          "Lemon juice slows browning: its acid slows the enzyme and its vitamin C (ascorbic acid) acts as an antioxidant"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Flat-Vector Science"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261101-apple-browning",
-      "redos": 0,
-      "updated": "2026-11-01T18:57:39.360359+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-01",
-        "name": "2026-11-01-102.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-01",
-        "name": "2026-11-01-102-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:03,350\nWhy does your apple grow a brown scab in 5 minutes?\n\n2\n00:00:03,900 --> 00:00:05,460\nInside every apple cell,\n\n3\n00:00:05,760 --> 00:00:07,970\ntwo things are locked in separate rooms.\n\n4\n00:00:08,520 --> 00:00:11,660\nOne holds an enzyme, polyphenol oxidase.\n\n5\n00:00:12,210 --> 00:00:15,510\nThe other holds natural chemicals called polyphenols.\n\n6\n00:00:16,060 --> 00:00:17,930\nWhen you bite or slice the apple,\n\n7\n00:00:18,230 --> 00:00:19,920\nyou burst thousands of cells.\n\n8\n00:00:20,470 --> 00:00:21,850\nThe two finally meet,\n\n9\n00:00:22,150 --> 00:00:24,290\nand oxygen from the air rushes in.\n\n10\n00:00:24,840 --> 00:00:26,830\nThe enzyme uses that oxygen\n\n11\n00:00:27,130 --> 00:00:29,600\nto turn the polyphenols into brown pigment,\n\n12\n00:00:29,900 --> 00:00:31,520\nlike the melanin in your skin.\n\n13\n00:00:32,070 --> 00:00:33,710\nScientists think it's a defence,\n\n14\n00:00:34,010 --> 00:00:36,290\na brown shield against germs and bugs,\n\n15\n00:00:36,590 --> 00:00:38,110\njust like a scab on your knee.\n\n16\n00:00:38,660 --> 00:00:39,610\nWant to stop it?\n\n17\n00:00:40,160 --> 00:00:41,980\nSqueeze on some lemon juice.\n\n18\n00:00:42,530 --> 00:00:44,610\nIts acid slows the enzyme down,\n\n19\n00:00:44,910 --> 00:00:47,690\nand its vitamin C grabs the oxygen first.\n\n20\n00:00:48,240 --> 00:00:49,930\nSo when your apple turns brown,\n\n21\n00:00:50,230 --> 00:00:51,740\nis it rotting, or healing?\n\n22\n00:00:52,290 --> 00:00:53,530\nTell me in the comments.\n\n",
-      "tg_msg": 977,
-      "approved_by": "auto",
-      "description_full": "Why do cut apples turn brown? Slicing an apple bursts its cells, so the enzyme polyphenol oxidase meets the apple's polyphenols and oxygen, turning them into brown pigment, and lemon juice slows it down.\n\nSources:\nhttps://www.britannica.com/story/why-do-sliced-apples-turn-brown\nhttps://www.scientificamerican.com/article/why-do-apples-turn-brown/\nhttps://news.wisc.edu/curiosities-why-do-apple-slices-turn-brown/\n\nAnimated in the Flat-Vector Science style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #apple #science #foodscience\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/1CaXo6qO-w4",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-11-01T18:57:39.360376+00:00",
-      "slot": "2026-11-05T20:15:00+00:00"
-    },
     "2026-11-01-103": {
       "topic": {
         "title": "The Story of Chocolate: How It All Started",
@@ -3109,12 +3017,12 @@
         "format": "animated",
         "style": "Flat-Vector Science"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261107-stomach-acid",
       "redos": 0,
-      "updated": "2026-11-07T11:21:22.679409+00:00",
+      "updated": "2026-11-07T16:54:52.582395+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech."
       ],
@@ -3129,7 +3037,169 @@
         "name": "2026-11-07-102-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:02,290\nYour stomach acid dissolves metal,\n\n2\n00:00:02,590 --> 00:00:04,320\nso how does your stomach survive it,\n\n3\n00:00:04,620 --> 00:00:05,780\nthree times a day?\n\n4\n00:00:06,330 --> 00:00:09,010\nThe acid can drop to pH one point five.\n\n5\n00:00:09,560 --> 00:00:11,230\nStrong enough to eat through zinc,\n\n6\n00:00:11,530 --> 00:00:12,880\nand turn a steak to mush.\n\n7\n00:00:13,430 --> 00:00:15,170\nBut your stomach has three tricks.\n\n8\n00:00:15,720 --> 00:00:17,910\nTrick one: a thick blanket of mucus,\n\n9\n00:00:18,210 --> 00:00:19,690\nloaded with bicarbonate,\n\n10\n00:00:19,990 --> 00:00:21,570\nbasically baking soda.\n\n11\n00:00:22,120 --> 00:00:23,590\nSo right against the wall,\n\n12\n00:00:23,890 --> 00:00:25,610\nthe acid gets neutralized.\n\n13\n00:00:26,160 --> 00:00:28,690\nTrick two: pepsin, the meat-eating enzyme,\n\n14\n00:00:28,990 --> 00:00:30,250\nis made switched off.\n\n15\n00:00:30,800 --> 00:00:32,820\nIt only turns on out in the acid,\n\n16\n00:00:33,120 --> 00:00:34,330\naway from your cells.\n\n17\n00:00:34,880 --> 00:00:38,270\nTrick three: your lining sheds around half a million cells,\n\n18\n00:00:38,570 --> 00:00:39,420\nevery minute,\n\n19\n00:00:39,720 --> 00:00:41,890\nand rebuilds itself every few days.\n\n20\n00:00:42,440 --> 00:00:45,090\nSo damage gets replaced before it spreads.\n\n21\n00:00:45,640 --> 00:00:47,510\nYour stomach isn't acid-proof.\n\n22\n00:00:48,060 --> 00:00:50,090\nIt just heals faster than it melts.\n\n23\n00:00:50,640 --> 00:00:54,230\nWhich trick would you want: the slime, the switch, or the shedding?\n\n",
-      "tg_msg": 1048
+      "tg_msg": 1048,
+      "approved_by": "auto",
+      "description_full": "Why doesn't stomach acid digest your own stomach? Your stomach acid can drop to pH 1.5, but a mucus layer full of bicarbonate, switched-off pepsin and a lining that rebuilds itself every few days keep it from eating you.\n\nSources:\nhttps://www.scientificamerican.com/article/why-the-stomach-does-not-digest-its/\nhttps://www.gi.alaska.edu/alaska-science-forum/why-doesnt-stomach-digest-itself\nhttps://en.wikipedia.org/wiki/Gastric_acid\n\nAnimated in the Flat-Vector Science style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #humanbody #science #stomach\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/oT_oF4qhIiA",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-07T16:54:52.582410+00:00",
+      "slot": "2026-11-13T02:15:00+00:00"
+    },
+    "2026-11-07-103": {
+      "topic": {
+        "title": "Why can you hold a crocodile's jaws shut with your bare hands?",
+        "format": "long",
+        "angle": "Claymation Set"
+      },
+      "package": {
+        "title": "Why Can Bare Hands Hold Shut a 3,700-Pound Crocodile Bite?",
+        "description": "A saltwater crocodile has the strongest bite ever measured, about 3,700 pounds of force, yet its jaws can be held shut by hand because the muscles that open them are tiny. We look inside the crocodile jaw, the bite force record, how wildlife handlers use rubber bands and tape, the touch sensors that make croc jaws more sensitive than fingertips, and how alligators replace each tooth up to 50 times.\n\nSources:\nhttps://www.eurekalert.org/news-releases/611994\nhttps://news.vanderbilt.edu/2012/11/alligators-and-crocodiles\nhttps://www.smithsonianmag.com/science-nature/solving-an-alligator-mystery-may-help-humans-regrow-lost-teeth-60257334/\n\nAnimated in the Claymation Set style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#crocodile",
+          "#animals",
+          "#science"
+        ],
+        "tags": [
+          "crocodile",
+          "crocodile bite force",
+          "strongest bite",
+          "saltwater crocodile",
+          "crocodile jaw",
+          "why can you hold a crocodile's mouth shut",
+          "crocodile facts",
+          "alligator",
+          "animal facts",
+          "jaw muscles",
+          "alligator teeth",
+          "crocodile sensors",
+          "animal explainer",
+          "claymation",
+          "zorbly ai"
+        ],
+        "category": "27",
+        "pinned_comment": "Which surprised you more: the 3,700-pound bite, or jaws gentle enough to carry babies?",
+        "thumbnail_text": "WEAK SPOT",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "Why can your bare hands hold shut\nthe strongest bite ever measured,\n3,700 pounds of crocodile?\nIt sounds impossible, but it's true.\nLet's open up the most lopsided jaw in nature.\nBack in 2012, a team of scientists\nset out to measure every crocodile on Earth.\nAll 23 living species,\nfrom tiny caimans to giant gharials.\nThey wrestled each one\ninto biting down on a padded force meter.\nThe winner was the saltwater crocodile.\nOne big male bit down with about 3,700 pounds of force.\nThat's more than sixteen thousand newtons.\nFor comparison, you chew a steak\nwith maybe 150 to 200 pounds.\nLions, tigers and hyenas\nland somewhere around 1,000.\nSo the saltie bites more than three times harder\nthan the big cats.\nSo where does all that power come from?\nLook at the back of a crocodile's head.\nThose big bulging cheeks aren't fat.\nThey're almost all jaw-closing muscle,\npacked around the hinge\nand pulling the lower jaw up like giant rubber bands.\nNow look for the muscles that open the jaw.\nThey're tiny.\nA thin little strap\nthat just tugs the jaw back down.\nAnd that makes sense for how a crocodile eats.\nIt lies still in the water,\nthen snaps shut and holds on.\nClamping needs huge force.\nOpening only has to lift the jaw's own weight.\nSo evolution poured almost everything\ninto closing.\nThat's the trick behind the bare-hands myth.\nOnce the jaws are already shut,\nthe weak opening muscles have to push\nagainst your grip,\nand they lose.\nWildlife handlers use this every day.\nThey loop a strong rubber band around the snout,\nor wrap it with a few turns of tape,\nand the crocodile simply can't open up.\nBut please, never try this yourself.\nGetting the mouth shut is the dangerous part,\nand that tail is all muscle too.\nHere's the most surprising part.\nThose crushing jaws are also incredibly gentle.\nLook closely at a crocodile's face\nand you'll see thousands of tiny bumps.\nEach bump is a touch sensor,\nand scientists found they're more sensitive\nthan your own fingertips.\nThey can feel a ripple\nfrom a single drop of water.\nThey help a crocodile sense prey in the dark,\nand they let a mother crocodile\ncarry her newly hatched babies in her mouth\nwithout hurting a single one.\nAnd then there are the teeth.\nAn alligator has about 80,\nand each one can be replaced up to 50 times\nover its long life.\nA new tooth is always waiting underneath\nthe old one.\nScientists are studying how they do it,\nhoping it might one day help people\nregrow lost teeth.\nSo the crocodile's jaw is a one-way machine.\nRecord-breaking power to close,\nbarely any to open,\nand a touch as soft as a fingertip.\nNext time, why do porcupine quills\nget stuck in you and refuse to come out?\n",
+        "key_facts": [
+          "Erickson et al. 2012 tested all 23 living crocodilian species; a saltwater crocodile bit with about 3,700 lb (16,460 N)",
+          "You chew a steak with about 150-200 psi; lions, tigers and hyenas around 1,000 psi (National Geographic)",
+          "Croc jaws are mostly jaw-closing muscle; the opening muscles are weak, so hands, rubber bands or tape can hold them shut",
+          "Integumentary sensory organs on croc jaws are more sensitive to pressure than human fingertips; used to carry hatchlings (Leitch & Catania 2012)",
+          "An alligator can replace each of its ~80 teeth up to 50 times (Smithsonian)"
+        ],
+        "voice": "Kokoro",
+        "format": "long",
+        "style": "Claymation Set"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261107-croc-jaws",
+      "redos": 0,
+      "updated": "2026-11-07T16:54:26.186618+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Claymation Set style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-07",
+        "name": "2026-11-07-103.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-07",
+        "name": "2026-11-07-103-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:01,990\nWhy can your bare hands hold shut\n\n2\n00:00:02,290 --> 00:00:04,090\nthe strongest bite ever measured,\n\n3\n00:00:04,390 --> 00:00:07,320\n3,700 pounds of crocodile?\n\n4\n00:00:07,870 --> 00:00:09,850\nIt sounds impossible, but it's true.\n\n5\n00:00:10,400 --> 00:00:13,400\nLet's open up the most lopsided jaw in nature.\n\n6\n00:00:13,950 --> 00:00:17,120\nBack in 2012, a team of scientists\n\n7\n00:00:17,420 --> 00:00:20,120\nset out to measure every crocodile on Earth.\n\n8\n00:00:20,670 --> 00:00:22,630\nAll 23 living species,\n\n9\n00:00:22,930 --> 00:00:25,310\nfrom tiny caimans to giant gharials.\n\n10\n00:00:25,860 --> 00:00:27,140\nThey wrestled each one\n\n11\n00:00:27,440 --> 00:00:30,020\ninto biting down on a padded force meter.\n\n12\n00:00:30,570 --> 00:00:32,680\nThe winner was the saltwater crocodile.\n\n13\n00:00:33,230 --> 00:00:38,140\nOne big male bit down with about 3,700 pounds of force.\n\n14\n00:00:38,690 --> 00:00:41,010\nThat's more than sixteen thousand newtons.\n\n15\n00:00:41,550 --> 00:00:43,290\nFor comparison, you chew a steak\n\n16\n00:00:43,590 --> 00:00:46,900\nwith maybe 150 to 200 pounds.\n\n17\n00:00:47,450 --> 00:00:49,370\nLions, tigers and hyenas\n\n18\n00:00:49,670 --> 00:00:51,750\nland somewhere around 1,000.\n\n19\n00:00:52,300 --> 00:00:54,850\nSo the saltie bites more than three times harder\n\n20\n00:00:55,150 --> 00:00:56,270\nthan the big cats.\n\n21\n00:00:56,820 --> 00:00:58,800\nSo where does all that power come from?\n\n22\n00:00:59,350 --> 00:01:01,410\nLook at the back of a crocodile's head.\n\n23\n00:01:01,960 --> 00:01:03,940\nThose big bulging cheeks aren't fat.\n\n24\n00:01:04,490 --> 00:01:06,640\nThey're almost all jaw-closing muscle,\n\n25\n00:01:06,940 --> 00:01:08,170\npacked around the hinge\n\n26\n00:01:08,470 --> 00:01:11,530\nand pulling the lower jaw up like giant rubber bands.\n\n27\n00:01:12,080 --> 00:01:14,410\nNow look for the muscles that open the jaw.\n\n28\n00:01:14,960 --> 00:01:15,850\nThey're tiny.\n\n29\n00:01:16,400 --> 00:01:17,570\nA thin little strap\n\n30\n00:01:17,870 --> 00:01:19,760\nthat just tugs the jaw back down.\n\n31\n00:01:20,310 --> 00:01:22,720\nAnd that makes sense for how a crocodile eats.\n\n32\n00:01:23,270 --> 00:01:24,730\nIt lies still in the water,\n\n33\n00:01:25,030 --> 00:01:26,810\nthen snaps shut and holds on.\n\n34\n00:01:27,360 --> 00:01:29,060\nClamping needs huge force.\n\n35\n00:01:29,610 --> 00:01:32,360\nOpening only has to lift the jaw's own weight.\n\n36\n00:01:32,910 --> 00:01:35,140\nSo evolution poured almost everything\n\n37\n00:01:35,440 --> 00:01:36,450\ninto closing.\n\n38\n00:01:37,000 --> 00:01:39,210\nThat's the trick behind the bare-hands myth.\n\n39\n00:01:39,760 --> 00:01:41,510\nOnce the jaws are already shut,\n\n40\n00:01:41,810 --> 00:01:43,860\nthe weak opening muscles have to push\n\n41\n00:01:44,160 --> 00:01:45,240\nagainst your grip,\n\n42\n00:01:45,540 --> 00:01:46,460\nand they lose.\n\n43\n00:01:47,010 --> 00:01:49,460\nWildlife handlers use this every day.\n\n44\n00:01:50,010 --> 00:01:52,430\nThey loop a strong rubber band around the snout,\n\n45\n00:01:52,730 --> 00:01:54,710\nor wrap it with a few turns of tape,\n\n46\n00:01:55,010 --> 00:01:57,320\nand the crocodile simply can't open up.\n\n47\n00:01:57,870 --> 00:02:00,020\nBut please, never try this yourself.\n\n48\n00:02:00,570 --> 00:02:03,260\nGetting the mouth shut is the dangerous part,\n\n49\n00:02:03,560 --> 00:02:05,440\nand that tail is all muscle too.\n\n50\n00:02:05,990 --> 00:02:07,690\nHere's the most surprising part.\n\n51\n00:02:08,240 --> 00:02:11,440\nThose crushing jaws are also incredibly gentle.\n\n52\n00:02:11,990 --> 00:02:14,070\nLook closely at a crocodile's face\n\n53\n00:02:14,370 --> 00:02:16,560\nand you'll see thousands of tiny bumps.\n\n54\n00:02:17,110 --> 00:02:18,650\nEach bump is a touch sensor,\n\n55\n00:02:18,950 --> 00:02:21,040\nand scientists found they're more sensitive\n\n56\n00:02:21,340 --> 00:02:22,790\nthan your own fingertips.\n\n57\n00:02:23,340 --> 00:02:24,650\nThey can feel a ripple\n\n58\n00:02:24,950 --> 00:02:26,640\nfrom a single drop of water.\n\n59\n00:02:27,190 --> 00:02:29,760\nThey help a crocodile sense prey in the dark,\n\n60\n00:02:30,060 --> 00:02:31,760\nand they let a mother crocodile\n\n61\n00:02:32,060 --> 00:02:34,330\ncarry her newly hatched babies in her mouth\n\n62\n00:02:34,630 --> 00:02:36,290\nwithout hurting a single one.\n\n63\n00:02:36,840 --> 00:02:38,210\nAnd then there are the teeth.\n\n64\n00:02:38,760 --> 00:02:40,520\nAn alligator has about 80,\n\n65\n00:02:40,820 --> 00:02:43,630\nand each one can be replaced up to 50 times\n\n66\n00:02:43,930 --> 00:02:45,210\nover its long life.\n\n67\n00:02:45,760 --> 00:02:48,110\nA new tooth is always waiting underneath\n\n68\n00:02:48,410 --> 00:02:49,290\nthe old one.\n\n69\n00:02:49,840 --> 00:02:51,890\nScientists are studying how they do it,\n\n70\n00:02:52,190 --> 00:02:54,310\nhoping it might one day help people\n\n71\n00:02:54,610 --> 00:02:55,910\nregrow lost teeth.\n\n72\n00:02:56,460 --> 00:02:59,390\nSo the crocodile's jaw is a one-way machine.\n\n73\n00:02:59,940 --> 00:03:01,840\nRecord-breaking power to close,\n\n74\n00:03:02,140 --> 00:03:03,440\nbarely any to open,\n\n75\n00:03:03,740 --> 00:03:05,710\nand a touch as soft as a fingertip.\n\n76\n00:03:06,260 --> 00:03:08,650\nNext time, why do porcupine quills\n\n77\n00:03:08,950 --> 00:03:11,320\nget stuck in you and refuse to come out?\n\n",
+      "tg_msg": 1050
+    },
+    "2026-11-07-104": {
+      "topic": {
+        "title": "The Panda Paradox: why does a meat-eater's body live on bamboo?",
+        "format": "animated",
+        "angle": "Kawaii Anime"
+      },
+      "package": {
+        "title": "Pandas Waste 83% of Their Bamboo. Why? \ud83d\udc3c",
+        "description": "Why do pandas eat bamboo all day? Giant pandas have a carnivore's short, simple gut, so they digest only about 17% of their bamboo and survive by eating up to 14 hours a day and saving energy with a slow thyroid and lots of rest.\n\nSources:\nhttps://www.livescience.com/50871-pandas-gut-bacteria-bamboo-digestion.html\nhttps://phys.org/news/2015-07-under-active-pandas-energy-sloths.html\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC3144909\n\nAnimated in the Kawaii Anime style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#animals",
+          "#panda",
+          "#science"
+        ],
+        "tags": [
+          "why do pandas eat bamboo",
+          "panda bamboo",
+          "giant panda facts",
+          "panda digestion",
+          "carnivore eating bamboo",
+          "panda gut",
+          "why are pandas lazy",
+          "panda energy",
+          "panda umami gene",
+          "animal facts",
+          "animal science",
+          "explainer",
+          "kawaii animation"
+        ],
+        "category": "27",
+        "pinned_comment": "Could you eat just one food every day, like a panda? Which food would it be?",
+        "thumbnail_text": "MEAT-EATER GUT",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "Pandas waste eighty-three percent of the bamboo they eat.\nHere's why you never see it.\nInside, a panda has a meat-eater's gut,\nbuilt just like a bear's:\nshort, simple intestines,\nand no cow-style stomach chambers.\nSo bamboo rushes straight through,\nand most of it comes out in less than a day.\nSo pandas eat for up to fourteen hours a day,\ncrunching up to thirty-eight kilos of bamboo.\nAnd they save energy like a phone on low battery.\nTheir thyroid runs slow,\ntheir brain and liver are small,\nand they nap a lot.\nA panda burns barely forty percent of the energy\nyou'd expect for its size.\nScientists think it all started\nwhen their ancestors lost a gene\nfor tasting meat's savory flavor.\nCould you eat just one food every day, like a panda?",
+        "key_facts": [
+          "Giant pandas digest only about 17% of the bamboo they eat (so ~83% passes through)",
+          "Pandas have a short, simple carnivore-type gut and gut microbes like other bears",
+          "Food passes through in under a day",
+          "Pandas eat up to ~14 hours a day, up to ~38 kg (84 lb) of bamboo",
+          "A 2015 Science study found pandas use about 38% of the energy expected for their size, with low thyroid hormone and small brain, liver and kidneys",
+          "Pandas' umami (meat taste) receptor gene Tas1r1 became a pseudogene"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Kawaii Anime"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261107-panda-bamboo",
+      "redos": 0,
+      "updated": "2026-11-07T16:54:38.217036+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-07",
+        "name": "2026-11-07-104.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-07",
+        "name": "2026-11-07-104-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:03,430\nPandas waste eighty-three percent of the bamboo they eat.\n\n2\n00:00:03,980 --> 00:00:05,440\nHere's why you never see it.\n\n3\n00:00:05,990 --> 00:00:08,310\nInside, a panda has a meat-eater's gut,\n\n4\n00:00:08,610 --> 00:00:10,110\nbuilt just like a bear's:\n\n5\n00:00:10,410 --> 00:00:12,000\nshort, simple intestines,\n\n6\n00:00:12,300 --> 00:00:14,370\nand no cow-style stomach chambers.\n\n7\n00:00:14,920 --> 00:00:16,680\nSo bamboo rushes straight through,\n\n8\n00:00:16,980 --> 00:00:19,260\nand most of it comes out in less than a day.\n\n9\n00:00:19,810 --> 00:00:22,640\nSo pandas eat for up to fourteen hours a day,\n\n10\n00:00:22,940 --> 00:00:25,600\ncrunching up to thirty-eight kilos of bamboo.\n\n11\n00:00:26,150 --> 00:00:29,210\nAnd they save energy like a phone on low battery.\n\n12\n00:00:29,760 --> 00:00:31,330\nTheir thyroid runs slow,\n\n13\n00:00:31,630 --> 00:00:33,350\ntheir brain and liver are small,\n\n14\n00:00:33,650 --> 00:00:34,850\nand they nap a lot.\n\n15\n00:00:35,400 --> 00:00:38,340\nA panda burns barely forty percent of the energy\n\n16\n00:00:38,640 --> 00:00:40,230\nyou'd expect for its size.\n\n17\n00:00:40,780 --> 00:00:42,580\nScientists think it all started\n\n18\n00:00:42,880 --> 00:00:44,800\nwhen their ancestors lost a gene\n\n19\n00:00:45,100 --> 00:00:46,990\nfor tasting meat's savory flavor.\n\n20\n00:00:47,540 --> 00:00:50,600\nCould you eat just one food every day, like a panda?\n\n",
+      "tg_msg": 1051
     }
   },
   "history": [
@@ -3287,7 +3357,9 @@
     "drop/20261106-chili-not-hot": "2026-11-06-104",
     "drop/20261106-nails-keep-growing": "2026-11-06-105",
     "drop/20261107-koala-eucalyptus": "2026-11-07-101",
-    "drop/20261107-stomach-acid": "2026-11-07-102"
+    "drop/20261107-stomach-acid": "2026-11-07-102",
+    "drop/20261107-croc-jaws": "2026-11-07-103",
+    "drop/20261107-panda-bamboo": "2026-11-07-104"
   },
   "refs_day": "2026-11-07"
 }
