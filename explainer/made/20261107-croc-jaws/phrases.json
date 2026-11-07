@@ -1,0 +1,2449 @@
+[
+ {
+  "s": 0.25,
+  "e": 1.99,
+  "text": "Why can your bare hands hold shut",
+  "words": [
+   [
+    "why",
+    0.25
+   ],
+   [
+    "can",
+    0.44
+   ],
+   [
+    "your",
+    0.64
+   ],
+   [
+    "bare",
+    0.89
+   ],
+   [
+    "hands",
+    1.15
+   ],
+   [
+    "hold",
+    1.47
+   ],
+   [
+    "shut",
+    1.73
+   ]
+  ]
+ },
+ {
+  "s": 2.29,
+  "e": 4.09,
+  "text": "the strongest bite ever measured,",
+  "words": [
+   [
+    "the",
+    2.29
+   ],
+   [
+    "strongest",
+    2.48
+   ],
+   [
+    "bite",
+    3.06
+   ],
+   [
+    "ever",
+    3.32
+   ],
+   [
+    "measured",
+    3.57
+   ]
+  ]
+ },
+ {
+  "s": 4.39,
+  "e": 7.32,
+  "text": "3,700 pounds of crocodile?",
+  "words": [
+   [
+    "3700",
+    4.39
+   ],
+   [
+    "pounds",
+    4.94
+   ],
+   [
+    "of",
+    5.78
+   ],
+   [
+    "crocodile",
+    6.06
+   ]
+  ]
+ },
+ {
+  "s": 7.87,
+  "e": 9.85,
+  "text": "It sounds impossible, but it's true.",
+  "words": [
+   [
+    "it",
+    7.87
+   ],
+   [
+    "sounds",
+    8.01
+   ],
+   [
+    "impossible",
+    8.44
+   ],
+   [
+    "but",
+    9.14
+   ],
+   [
+    "its",
+    9.35
+   ],
+   [
+    "true",
+    9.56
+   ]
+  ]
+ },
+ {
+  "s": 10.4,
+  "e": 13.4,
+  "text": "Let's open up the most lopsided jaw in nature.",
+  "words": [
+   [
+    "lets",
+    10.4
+   ],
+   [
+    "open",
+    10.73
+   ],
+   [
+    "up",
+    11.06
+   ],
+   [
+    "the",
+    11.23
+   ],
+   [
+    "most",
+    11.48
+   ],
+   [
+    "lopsided",
+    11.82
+   ],
+   [
+    "jaw",
+    12.48
+   ],
+   [
+    "in",
+    12.73
+   ],
+   [
+    "nature",
+    12.9
+   ]
+  ]
+ },
+ {
+  "s": 13.95,
+  "e": 17.12,
+  "text": "Back in 2012, a team of scientists",
+  "words": [
+   [
+    "back",
+    13.95
+   ],
+   [
+    "in",
+    14.42
+   ],
+   [
+    "2012",
+    14.66
+   ],
+   [
+    "a",
+    15.12
+   ],
+   [
+    "team",
+    15.24
+   ],
+   [
+    "of",
+    15.71
+   ],
+   [
+    "scientists",
+    15.94
+   ]
+  ]
+ },
+ {
+  "s": 17.42,
+  "e": 20.12,
+  "text": "set out to measure every crocodile on Earth.",
+  "words": [
+   [
+    "set",
+    17.42
+   ],
+   [
+    "out",
+    17.64
+   ],
+   [
+    "to",
+    17.87
+   ],
+   [
+    "measure",
+    18.02
+   ],
+   [
+    "every",
+    18.54
+   ],
+   [
+    "crocodile",
+    18.92
+   ],
+   [
+    "on",
+    19.59
+   ],
+   [
+    "earth",
+    19.74
+   ]
+  ]
+ },
+ {
+  "s": 20.67,
+  "e": 22.63,
+  "text": "All 23 living species,",
+  "words": [
+   [
+    "all",
+    20.67
+   ],
+   [
+    "23",
+    21.0
+   ],
+   [
+    "living",
+    21.21
+   ],
+   [
+    "species",
+    21.87
+   ]
+  ]
+ },
+ {
+  "s": 22.93,
+  "e": 25.31,
+  "text": "from tiny caimans to giant gharials.",
+  "words": [
+   [
+    "from",
+    22.93
+   ],
+   [
+    "tiny",
+    23.25
+   ],
+   [
+    "caimans",
+    23.56
+   ],
+   [
+    "to",
+    24.12
+   ],
+   [
+    "giant",
+    24.28
+   ],
+   [
+    "gharials",
+    24.68
+   ]
+  ]
+ },
+ {
+  "s": 25.86,
+  "e": 27.14,
+  "text": "They wrestled each one",
+  "words": [
+   [
+    "they",
+    25.86
+   ],
+   [
+    "wrestled",
+    26.13
+   ],
+   [
+    "each",
+    26.67
+   ],
+   [
+    "one",
+    26.94
+   ]
+  ]
+ },
+ {
+  "s": 27.44,
+  "e": 30.02,
+  "text": "into biting down on a padded force meter.",
+  "words": [
+   [
+    "into",
+    27.44
+   ],
+   [
+    "biting",
+    27.75
+   ],
+   [
+    "down",
+    28.22
+   ],
+   [
+    "on",
+    28.53
+   ],
+   [
+    "a",
+    28.69
+   ],
+   [
+    "padded",
+    28.77
+   ],
+   [
+    "force",
+    29.24
+   ],
+   [
+    "meter",
+    29.63
+   ]
+  ]
+ },
+ {
+  "s": 30.57,
+  "e": 32.68,
+  "text": "The winner was the saltwater crocodile.",
+  "words": [
+   [
+    "the",
+    30.57
+   ],
+   [
+    "winner",
+    30.76
+   ],
+   [
+    "was",
+    31.15
+   ],
+   [
+    "the",
+    31.34
+   ],
+   [
+    "saltwater",
+    31.53
+   ],
+   [
+    "crocodile",
+    32.11
+   ]
+  ]
+ },
+ {
+  "s": 33.23,
+  "e": 38.14,
+  "text": "One big male bit down with about 3,700 pounds of force.",
+  "words": [
+   [
+    "one",
+    33.23
+   ],
+   [
+    "big",
+    33.57
+   ],
+   [
+    "male",
+    33.92
+   ],
+   [
+    "bit",
+    34.37
+   ],
+   [
+    "down",
+    34.71
+   ],
+   [
+    "with",
+    35.17
+   ],
+   [
+    "about",
+    35.63
+   ],
+   [
+    "3700",
+    36.2
+   ],
+   [
+    "pounds",
+    36.65
+   ],
+   [
+    "of",
+    37.34
+   ],
+   [
+    "force",
+    37.57
+   ]
+  ]
+ },
+ {
+  "s": 38.69,
+  "e": 41.01,
+  "text": "That's more than sixteen thousand newtons.",
+  "words": [
+   [
+    "thats",
+    38.69
+   ],
+   [
+    "more",
+    39.02
+   ],
+   [
+    "than",
+    39.28
+   ],
+   [
+    "sixteen",
+    39.55
+   ],
+   [
+    "thousand",
+    40.01
+   ],
+   [
+    "newtons",
+    40.54
+   ]
+  ]
+ },
+ {
+  "s": 41.55,
+  "e": 43.29,
+  "text": "For comparison, you chew a steak",
+  "words": [
+   [
+    "for",
+    41.55
+   ],
+   [
+    "comparison",
+    41.76
+   ],
+   [
+    "you",
+    42.42
+   ],
+   [
+    "chew",
+    42.63
+   ],
+   [
+    "a",
+    42.89
+   ],
+   [
+    "steak",
+    42.96
+   ]
+  ]
+ },
+ {
+  "s": 43.59,
+  "e": 46.9,
+  "text": "with maybe 150 to 200 pounds.",
+  "words": [
+   [
+    "with",
+    43.59
+   ],
+   [
+    "maybe",
+    44.17
+   ],
+   [
+    "150",
+    44.89
+   ],
+   [
+    "to",
+    45.32
+   ],
+   [
+    "200",
+    45.61
+   ],
+   [
+    "pounds",
+    46.04
+   ]
+  ]
+ },
+ {
+  "s": 47.45,
+  "e": 49.37,
+  "text": "Lions, tigers and hyenas",
+  "words": [
+   [
+    "lions",
+    47.45
+   ],
+   [
+    "tigers",
+    47.93
+   ],
+   [
+    "and",
+    48.51
+   ],
+   [
+    "hyenas",
+    48.8
+   ]
+  ]
+ },
+ {
+  "s": 49.67,
+  "e": 51.75,
+  "text": "land somewhere around 1,000.",
+  "words": [
+   [
+    "land",
+    49.67
+   ],
+   [
+    "somewhere",
+    50.04
+   ],
+   [
+    "around",
+    50.85
+   ],
+   [
+    "1000",
+    51.39
+   ]
+  ]
+ },
+ {
+  "s": 52.3,
+  "e": 54.85,
+  "text": "So the saltie bites more than three times harder",
+  "words": [
+   [
+    "so",
+    52.3
+   ],
+   [
+    "the",
+    52.43
+   ],
+   [
+    "saltie",
+    52.62
+   ],
+   [
+    "bites",
+    53.01
+   ],
+   [
+    "more",
+    53.32
+   ],
+   [
+    "than",
+    53.58
+   ],
+   [
+    "three",
+    53.83
+   ],
+   [
+    "times",
+    54.15
+   ],
+   [
+    "harder",
+    54.47
+   ]
+  ]
+ },
+ {
+  "s": 55.15,
+  "e": 56.27,
+  "text": "than the big cats.",
+  "words": [
+   [
+    "than",
+    55.15
+   ],
+   [
+    "the",
+    55.47
+   ],
+   [
+    "big",
+    55.71
+   ],
+   [
+    "cats",
+    55.95
+   ]
+  ]
+ },
+ {
+  "s": 56.82,
+  "e": 58.8,
+  "text": "So where does all that power come from?",
+  "words": [
+   [
+    "so",
+    56.82
+   ],
+   [
+    "where",
+    56.95
+   ],
+   [
+    "does",
+    57.27
+   ],
+   [
+    "all",
+    57.53
+   ],
+   [
+    "that",
+    57.72
+   ],
+   [
+    "power",
+    57.97
+   ],
+   [
+    "come",
+    58.29
+   ],
+   [
+    "from",
+    58.54
+   ]
+  ]
+ },
+ {
+  "s": 59.35,
+  "e": 61.41,
+  "text": "Look at the back of a crocodile's head.",
+  "words": [
+   [
+    "look",
+    59.35
+   ],
+   [
+    "at",
+    59.62
+   ],
+   [
+    "the",
+    59.76
+   ],
+   [
+    "back",
+    59.97
+   ],
+   [
+    "of",
+    60.24
+   ],
+   [
+    "a",
+    60.38
+   ],
+   [
+    "crocodiles",
+    60.45
+   ],
+   [
+    "head",
+    61.13
+   ]
+  ]
+ },
+ {
+  "s": 61.96,
+  "e": 63.94,
+  "text": "Those big bulging cheeks aren't fat.",
+  "words": [
+   [
+    "those",
+    61.96
+   ],
+   [
+    "big",
+    62.3
+   ],
+   [
+    "bulging",
+    62.5
+   ],
+   [
+    "cheeks",
+    62.98
+   ],
+   [
+    "arent",
+    63.39
+   ],
+   [
+    "fat",
+    63.73
+   ]
+  ]
+ },
+ {
+  "s": 64.49,
+  "e": 66.64,
+  "text": "They're almost all jaw-closing muscle,",
+  "words": [
+   [
+    "theyre",
+    64.49
+   ],
+   [
+    "almost",
+    64.91
+   ],
+   [
+    "all",
+    65.32
+   ],
+   [
+    "jawclosing",
+    65.53
+   ],
+   [
+    "muscle",
+    66.22
+   ]
+  ]
+ },
+ {
+  "s": 66.94,
+  "e": 68.17,
+  "text": "packed around the hinge",
+  "words": [
+   [
+    "packed",
+    66.94
+   ],
+   [
+    "around",
+    67.31
+   ],
+   [
+    "the",
+    67.68
+   ],
+   [
+    "hinge",
+    67.86
+   ]
+  ]
+ },
+ {
+  "s": 68.47,
+  "e": 71.53,
+  "text": "and pulling the lower jaw up like giant rubber bands.",
+  "words": [
+   [
+    "and",
+    68.47
+   ],
+   [
+    "pulling",
+    68.68
+   ],
+   [
+    "the",
+    69.18
+   ],
+   [
+    "lower",
+    69.39
+   ],
+   [
+    "jaw",
+    69.75
+   ],
+   [
+    "up",
+    69.96
+   ],
+   [
+    "like",
+    70.11
+   ],
+   [
+    "giant",
+    70.39
+   ],
+   [
+    "rubber",
+    70.75
+   ],
+   [
+    "bands",
+    71.17
+   ]
+  ]
+ },
+ {
+  "s": 72.08,
+  "e": 74.41,
+  "text": "Now look for the muscles that open the jaw.",
+  "words": [
+   [
+    "now",
+    72.08
+   ],
+   [
+    "look",
+    72.29
+   ],
+   [
+    "for",
+    72.56
+   ],
+   [
+    "the",
+    72.77
+   ],
+   [
+    "muscles",
+    72.97
+   ],
+   [
+    "that",
+    73.45
+   ],
+   [
+    "open",
+    73.72
+   ],
+   [
+    "the",
+    74.0
+   ],
+   [
+    "jaw",
+    74.2
+   ]
+  ]
+ },
+ {
+  "s": 74.96,
+  "e": 75.85,
+  "text": "They're tiny.",
+  "words": [
+   [
+    "theyre",
+    74.96
+   ],
+   [
+    "tiny",
+    75.49
+   ]
+  ]
+ },
+ {
+  "s": 76.4,
+  "e": 77.57,
+  "text": "A thin little strap",
+  "words": [
+   [
+    "a",
+    76.4
+   ],
+   [
+    "thin",
+    76.47
+   ],
+   [
+    "little",
+    76.76
+   ],
+   [
+    "strap",
+    77.2
+   ]
+  ]
+ },
+ {
+  "s": 77.87,
+  "e": 79.76,
+  "text": "that just tugs the jaw back down.",
+  "words": [
+   [
+    "that",
+    77.87
+   ],
+   [
+    "just",
+    78.16
+   ],
+   [
+    "tugs",
+    78.45
+   ],
+   [
+    "the",
+    78.74
+   ],
+   [
+    "jaw",
+    78.96
+   ],
+   [
+    "back",
+    79.17
+   ],
+   [
+    "down",
+    79.46
+   ]
+  ]
+ },
+ {
+  "s": 80.31,
+  "e": 82.72,
+  "text": "And that makes sense for how a crocodile eats.",
+  "words": [
+   [
+    "and",
+    80.31
+   ],
+   [
+    "that",
+    80.5
+   ],
+   [
+    "makes",
+    80.76
+   ],
+   [
+    "sense",
+    81.09
+   ],
+   [
+    "for",
+    81.42
+   ],
+   [
+    "how",
+    81.61
+   ],
+   [
+    "a",
+    81.81
+   ],
+   [
+    "crocodile",
+    81.87
+   ],
+   [
+    "eats",
+    82.46
+   ]
+  ]
+ },
+ {
+  "s": 83.27,
+  "e": 84.73,
+  "text": "It lies still in the water,",
+  "words": [
+   [
+    "it",
+    83.27
+   ],
+   [
+    "lies",
+    83.41
+   ],
+   [
+    "still",
+    83.69
+   ],
+   [
+    "in",
+    84.04
+   ],
+   [
+    "the",
+    84.18
+   ],
+   [
+    "water",
+    84.39
+   ]
+  ]
+ },
+ {
+  "s": 85.03,
+  "e": 86.81,
+  "text": "then snaps shut and holds on.",
+  "words": [
+   [
+    "then",
+    85.03
+   ],
+   [
+    "snaps",
+    85.34
+   ],
+   [
+    "shut",
+    85.73
+   ],
+   [
+    "and",
+    86.04
+   ],
+   [
+    "holds",
+    86.27
+   ],
+   [
+    "on",
+    86.66
+   ]
+  ]
+ },
+ {
+  "s": 87.36,
+  "e": 89.06,
+  "text": "Clamping needs huge force.",
+  "words": [
+   [
+    "clamping",
+    87.36
+   ],
+   [
+    "needs",
+    87.98
+   ],
+   [
+    "huge",
+    88.36
+   ],
+   [
+    "force",
+    88.67
+   ]
+  ]
+ },
+ {
+  "s": 89.61,
+  "e": 92.36,
+  "text": "Opening only has to lift the jaw's own weight.",
+  "words": [
+   [
+    "opening",
+    89.61
+   ],
+   [
+    "only",
+    90.14
+   ],
+   [
+    "has",
+    90.45
+   ],
+   [
+    "to",
+    90.68
+   ],
+   [
+    "lift",
+    90.83
+   ],
+   [
+    "the",
+    91.14
+   ],
+   [
+    "jaws",
+    91.37
+   ],
+   [
+    "own",
+    91.68
+   ],
+   [
+    "weight",
+    91.9
+   ]
+  ]
+ },
+ {
+  "s": 92.91,
+  "e": 95.14,
+  "text": "So evolution poured almost everything",
+  "words": [
+   [
+    "so",
+    92.91
+   ],
+   [
+    "evolution",
+    93.05
+   ],
+   [
+    "poured",
+    93.66
+   ],
+   [
+    "almost",
+    94.06
+   ],
+   [
+    "everything",
+    94.46
+   ]
+  ]
+ },
+ {
+  "s": 95.44,
+  "e": 96.45,
+  "text": "into closing.",
+  "words": [
+   [
+    "into",
+    95.44
+   ],
+   [
+    "closing",
+    95.81
+   ]
+  ]
+ },
+ {
+  "s": 97.0,
+  "e": 99.21,
+  "text": "That's the trick behind the bare-hands myth.",
+  "words": [
+   [
+    "thats",
+    97.0
+   ],
+   [
+    "the",
+    97.32
+   ],
+   [
+    "trick",
+    97.51
+   ],
+   [
+    "behind",
+    97.82
+   ],
+   [
+    "the",
+    98.2
+   ],
+   [
+    "barehands",
+    98.39
+   ],
+   [
+    "myth",
+    98.96
+   ]
+  ]
+ },
+ {
+  "s": 99.76,
+  "e": 101.51,
+  "text": "Once the jaws are already shut,",
+  "words": [
+   [
+    "once",
+    99.76
+   ],
+   [
+    "the",
+    100.04
+   ],
+   [
+    "jaws",
+    100.25
+   ],
+   [
+    "are",
+    100.53
+   ],
+   [
+    "already",
+    100.74
+   ],
+   [
+    "shut",
+    101.23
+   ]
+  ]
+ },
+ {
+  "s": 101.81,
+  "e": 103.86,
+  "text": "the weak opening muscles have to push",
+  "words": [
+   [
+    "the",
+    101.81
+   ],
+   [
+    "weak",
+    102.01
+   ],
+   [
+    "opening",
+    102.27
+   ],
+   [
+    "muscles",
+    102.74
+   ],
+   [
+    "have",
+    103.2
+   ],
+   [
+    "to",
+    103.46
+   ],
+   [
+    "push",
+    103.59
+   ]
+  ]
+ },
+ {
+  "s": 104.16,
+  "e": 105.24,
+  "text": "against your grip,",
+  "words": [
+   [
+    "against",
+    104.16
+   ],
+   [
+    "your",
+    104.66
+   ],
+   [
+    "grip",
+    104.95
+   ]
+  ]
+ },
+ {
+  "s": 105.54,
+  "e": 106.46,
+  "text": "and they lose.",
+  "words": [
+   [
+    "and",
+    105.54
+   ],
+   [
+    "they",
+    105.79
+   ],
+   [
+    "lose",
+    106.12
+   ]
+  ]
+ },
+ {
+  "s": 107.01,
+  "e": 109.46,
+  "text": "Wildlife handlers use this every day.",
+  "words": [
+   [
+    "wildlife",
+    107.01
+   ],
+   [
+    "handlers",
+    107.64
+   ],
+   [
+    "use",
+    108.27
+   ],
+   [
+    "this",
+    108.51
+   ],
+   [
+    "every",
+    108.83
+   ],
+   [
+    "day",
+    109.23
+   ]
+  ]
+ },
+ {
+  "s": 110.01,
+  "e": 112.43,
+  "text": "They loop a strong rubber band around the snout,",
+  "words": [
+   [
+    "they",
+    110.01
+   ],
+   [
+    "loop",
+    110.26
+   ],
+   [
+    "a",
+    110.51
+   ],
+   [
+    "strong",
+    110.57
+   ],
+   [
+    "rubber",
+    110.94
+   ],
+   [
+    "band",
+    111.32
+   ],
+   [
+    "around",
+    111.56
+   ],
+   [
+    "the",
+    111.94
+   ],
+   [
+    "snout",
+    112.12
+   ]
+  ]
+ },
+ {
+  "s": 112.73,
+  "e": 114.71,
+  "text": "or wrap it with a few turns of tape,",
+  "words": [
+   [
+    "or",
+    112.73
+   ],
+   [
+    "wrap",
+    112.88
+   ],
+   [
+    "it",
+    113.17
+   ],
+   [
+    "with",
+    113.32
+   ],
+   [
+    "a",
+    113.61
+   ],
+   [
+    "few",
+    113.68
+   ],
+   [
+    "turns",
+    113.9
+   ],
+   [
+    "of",
+    114.27
+   ],
+   [
+    "tape",
+    114.41
+   ]
+  ]
+ },
+ {
+  "s": 115.01,
+  "e": 117.32,
+  "text": "and the crocodile simply can't open up.",
+  "words": [
+   [
+    "and",
+    115.01
+   ],
+   [
+    "the",
+    115.23
+   ],
+   [
+    "crocodile",
+    115.45
+   ],
+   [
+    "simply",
+    116.13
+   ],
+   [
+    "cant",
+    116.57
+   ],
+   [
+    "open",
+    116.87
+   ],
+   [
+    "up",
+    117.17
+   ]
+  ]
+ },
+ {
+  "s": 117.87,
+  "e": 120.02,
+  "text": "But please, never try this yourself.",
+  "words": [
+   [
+    "but",
+    117.87
+   ],
+   [
+    "please",
+    118.09
+   ],
+   [
+    "never",
+    118.54
+   ],
+   [
+    "try",
+    118.91
+   ],
+   [
+    "this",
+    119.13
+   ],
+   [
+    "yourself",
+    119.43
+   ]
+  ]
+ },
+ {
+  "s": 120.57,
+  "e": 123.26,
+  "text": "Getting the mouth shut is the dangerous part,",
+  "words": [
+   [
+    "getting",
+    120.57
+   ],
+   [
+    "the",
+    121.08
+   ],
+   [
+    "mouth",
+    121.3
+   ],
+   [
+    "shut",
+    121.66
+   ],
+   [
+    "is",
+    121.95
+   ],
+   [
+    "the",
+    122.1
+   ],
+   [
+    "dangerous",
+    122.32
+   ],
+   [
+    "part",
+    122.97
+   ]
+  ]
+ },
+ {
+  "s": 123.56,
+  "e": 125.44,
+  "text": "and that tail is all muscle too.",
+  "words": [
+   [
+    "and",
+    123.56
+   ],
+   [
+    "that",
+    123.79
+   ],
+   [
+    "tail",
+    124.09
+   ],
+   [
+    "is",
+    124.39
+   ],
+   [
+    "all",
+    124.54
+   ],
+   [
+    "muscle",
+    124.76
+   ],
+   [
+    "too",
+    125.21
+   ]
+  ]
+ },
+ {
+  "s": 125.99,
+  "e": 127.69,
+  "text": "Here's the most surprising part.",
+  "words": [
+   [
+    "heres",
+    125.99
+   ],
+   [
+    "the",
+    126.32
+   ],
+   [
+    "most",
+    126.51
+   ],
+   [
+    "surprising",
+    126.77
+   ],
+   [
+    "part",
+    127.42
+   ]
+  ]
+ },
+ {
+  "s": 128.24,
+  "e": 131.44,
+  "text": "Those crushing jaws are also incredibly gentle.",
+  "words": [
+   [
+    "those",
+    128.24
+   ],
+   [
+    "crushing",
+    128.64
+   ],
+   [
+    "jaws",
+    129.28
+   ],
+   [
+    "are",
+    129.6
+   ],
+   [
+    "also",
+    129.84
+   ],
+   [
+    "incredibly",
+    130.16
+   ],
+   [
+    "gentle",
+    130.96
+   ]
+  ]
+ },
+ {
+  "s": 131.99,
+  "e": 134.07,
+  "text": "Look closely at a crocodile's face",
+  "words": [
+   [
+    "look",
+    131.99
+   ],
+   [
+    "closely",
+    132.29
+   ],
+   [
+    "at",
+    132.81
+   ],
+   [
+    "a",
+    132.96
+   ],
+   [
+    "crocodiles",
+    133.03
+   ],
+   [
+    "face",
+    133.78
+   ]
+  ]
+ },
+ {
+  "s": 134.37,
+  "e": 136.56,
+  "text": "and you'll see thousands of tiny bumps.",
+  "words": [
+   [
+    "and",
+    134.37
+   ],
+   [
+    "youll",
+    134.59
+   ],
+   [
+    "see",
+    134.94
+   ],
+   [
+    "thousands",
+    135.15
+   ],
+   [
+    "of",
+    135.78
+   ],
+   [
+    "tiny",
+    135.92
+   ],
+   [
+    "bumps",
+    136.21
+   ]
+  ]
+ },
+ {
+  "s": 137.11,
+  "e": 138.65,
+  "text": "Each bump is a touch sensor,",
+  "words": [
+   [
+    "each",
+    137.11
+   ],
+   [
+    "bump",
+    137.39
+   ],
+   [
+    "is",
+    137.67
+   ],
+   [
+    "a",
+    137.81
+   ],
+   [
+    "touch",
+    137.88
+   ],
+   [
+    "sensor",
+    138.23
+   ]
+  ]
+ },
+ {
+  "s": 138.95,
+  "e": 141.04,
+  "text": "and scientists found they're more sensitive",
+  "words": [
+   [
+    "and",
+    138.95
+   ],
+   [
+    "scientists",
+    139.12
+   ],
+   [
+    "found",
+    139.68
+   ],
+   [
+    "theyre",
+    139.96
+   ],
+   [
+    "more",
+    140.3
+   ],
+   [
+    "sensitive",
+    140.53
+   ]
+  ]
+ },
+ {
+  "s": 141.34,
+  "e": 142.79,
+  "text": "than your own fingertips.",
+  "words": [
+   [
+    "than",
+    141.34
+   ],
+   [
+    "your",
+    141.62
+   ],
+   [
+    "own",
+    141.89
+   ],
+   [
+    "fingertips",
+    142.1
+   ]
+  ]
+ },
+ {
+  "s": 143.34,
+  "e": 144.65,
+  "text": "They can feel a ripple",
+  "words": [
+   [
+    "they",
+    143.34
+   ],
+   [
+    "can",
+    143.63
+   ],
+   [
+    "feel",
+    143.85
+   ],
+   [
+    "a",
+    144.14
+   ],
+   [
+    "ripple",
+    144.21
+   ]
+  ]
+ },
+ {
+  "s": 144.95,
+  "e": 146.64,
+  "text": "from a single drop of water.",
+  "words": [
+   [
+    "from",
+    144.95
+   ],
+   [
+    "a",
+    145.26
+   ],
+   [
+    "single",
+    145.33
+   ],
+   [
+    "drop",
+    145.79
+   ],
+   [
+    "of",
+    146.1
+   ],
+   [
+    "water",
+    146.25
+   ]
+  ]
+ },
+ {
+  "s": 147.19,
+  "e": 149.76,
+  "text": "They help a crocodile sense prey in the dark,",
+  "words": [
+   [
+    "they",
+    147.19
+   ],
+   [
+    "help",
+    147.47
+   ],
+   [
+    "a",
+    147.76
+   ],
+   [
+    "crocodile",
+    147.83
+   ],
+   [
+    "sense",
+    148.47
+   ],
+   [
+    "prey",
+    148.83
+   ],
+   [
+    "in",
+    149.11
+   ],
+   [
+    "the",
+    149.26
+   ],
+   [
+    "dark",
+    149.47
+   ]
+  ]
+ },
+ {
+  "s": 150.06,
+  "e": 151.76,
+  "text": "and they let a mother crocodile",
+  "words": [
+   [
+    "and",
+    150.06
+   ],
+   [
+    "they",
+    150.25
+   ],
+   [
+    "let",
+    150.51
+   ],
+   [
+    "a",
+    150.71
+   ],
+   [
+    "mother",
+    150.78
+   ],
+   [
+    "crocodile",
+    151.17
+   ]
+  ]
+ },
+ {
+  "s": 152.06,
+  "e": 154.33,
+  "text": "carry her newly hatched babies in her mouth",
+  "words": [
+   [
+    "carry",
+    152.06
+   ],
+   [
+    "her",
+    152.37
+   ],
+   [
+    "newly",
+    152.56
+   ],
+   [
+    "hatched",
+    152.88
+   ],
+   [
+    "babies",
+    153.32
+   ],
+   [
+    "in",
+    153.7
+   ],
+   [
+    "her",
+    153.82
+   ],
+   [
+    "mouth",
+    154.01
+   ]
+  ]
+ },
+ {
+  "s": 154.63,
+  "e": 156.29,
+  "text": "without hurting a single one.",
+  "words": [
+   [
+    "without",
+    154.63
+   ],
+   [
+    "hurting",
+    155.11
+   ],
+   [
+    "a",
+    155.6
+   ],
+   [
+    "single",
+    155.67
+   ],
+   [
+    "one",
+    156.08
+   ]
+  ]
+ },
+ {
+  "s": 156.84,
+  "e": 158.21,
+  "text": "And then there are the teeth.",
+  "words": [
+   [
+    "and",
+    156.84
+   ],
+   [
+    "then",
+    157.02
+   ],
+   [
+    "there",
+    157.26
+   ],
+   [
+    "are",
+    157.55
+   ],
+   [
+    "the",
+    157.73
+   ],
+   [
+    "teeth",
+    157.91
+   ]
+  ]
+ },
+ {
+  "s": 158.76,
+  "e": 160.52,
+  "text": "An alligator has about 80,",
+  "words": [
+   [
+    "an",
+    158.76
+   ],
+   [
+    "alligator",
+    158.92
+   ],
+   [
+    "has",
+    159.68
+   ],
+   [
+    "about",
+    159.93
+   ],
+   [
+    "80",
+    160.35
+   ]
+  ]
+ },
+ {
+  "s": 160.82,
+  "e": 163.63,
+  "text": "and each one can be replaced up to 50 times",
+  "words": [
+   [
+    "and",
+    160.82
+   ],
+   [
+    "each",
+    161.07
+   ],
+   [
+    "one",
+    161.4
+   ],
+   [
+    "can",
+    161.65
+   ],
+   [
+    "be",
+    161.89
+   ],
+   [
+    "replaced",
+    162.06
+   ],
+   [
+    "up",
+    162.72
+   ],
+   [
+    "to",
+    162.89
+   ],
+   [
+    "50",
+    163.05
+   ],
+   [
+    "times",
+    163.22
+   ]
+  ]
+ },
+ {
+  "s": 163.93,
+  "e": 165.21,
+  "text": "over its long life.",
+  "words": [
+   [
+    "over",
+    163.93
+   ],
+   [
+    "its",
+    164.27
+   ],
+   [
+    "long",
+    164.53
+   ],
+   [
+    "life",
+    164.87
+   ]
+  ]
+ },
+ {
+  "s": 165.76,
+  "e": 168.11,
+  "text": "A new tooth is always waiting underneath",
+  "words": [
+   [
+    "a",
+    165.76
+   ],
+   [
+    "new",
+    165.83
+   ],
+   [
+    "tooth",
+    166.04
+   ],
+   [
+    "is",
+    166.38
+   ],
+   [
+    "always",
+    166.52
+   ],
+   [
+    "waiting",
+    166.94
+   ],
+   [
+    "underneath",
+    167.42
+   ]
+  ]
+ },
+ {
+  "s": 168.41,
+  "e": 169.29,
+  "text": "the old one.",
+  "words": [
+   [
+    "the",
+    168.41
+   ],
+   [
+    "old",
+    168.71
+   ],
+   [
+    "one",
+    169.0
+   ]
+  ]
+ },
+ {
+  "s": 169.84,
+  "e": 171.89,
+  "text": "Scientists are studying how they do it,",
+  "words": [
+   [
+    "scientists",
+    169.84
+   ],
+   [
+    "are",
+    170.48
+   ],
+   [
+    "studying",
+    170.68
+   ],
+   [
+    "how",
+    171.19
+   ],
+   [
+    "they",
+    171.38
+   ],
+   [
+    "do",
+    171.64
+   ],
+   [
+    "it",
+    171.77
+   ]
+  ]
+ },
+ {
+  "s": 172.19,
+  "e": 174.31,
+  "text": "hoping it might one day help people",
+  "words": [
+   [
+    "hoping",
+    172.19
+   ],
+   [
+    "it",
+    172.63
+   ],
+   [
+    "might",
+    172.78
+   ],
+   [
+    "one",
+    173.14
+   ],
+   [
+    "day",
+    173.36
+   ],
+   [
+    "help",
+    173.58
+   ],
+   [
+    "people",
+    173.87
+   ]
+  ]
+ },
+ {
+  "s": 174.61,
+  "e": 175.91,
+  "text": "regrow lost teeth.",
+  "words": [
+   [
+    "regrow",
+    174.61
+   ],
+   [
+    "lost",
+    175.13
+   ],
+   [
+    "teeth",
+    175.47
+   ]
+  ]
+ },
+ {
+  "s": 176.46,
+  "e": 179.39,
+  "text": "So the crocodile's jaw is a one-way machine.",
+  "words": [
+   [
+    "so",
+    176.46
+   ],
+   [
+    "the",
+    176.63
+   ],
+   [
+    "crocodiles",
+    176.89
+   ],
+   [
+    "jaw",
+    177.75
+   ],
+   [
+    "is",
+    178.01
+   ],
+   [
+    "a",
+    178.18
+   ],
+   [
+    "oneway",
+    178.27
+   ],
+   [
+    "machine",
+    178.79
+   ]
+  ]
+ },
+ {
+  "s": 179.94,
+  "e": 181.84,
+  "text": "Record-breaking power to close,",
+  "words": [
+   [
+    "recordbreaking",
+    179.94
+   ],
+   [
+    "power",
+    180.96
+   ],
+   [
+    "to",
+    181.33
+   ],
+   [
+    "close",
+    181.47
+   ]
+  ]
+ },
+ {
+  "s": 182.14,
+  "e": 183.44,
+  "text": "barely any to open,",
+  "words": [
+   [
+    "barely",
+    182.14
+   ],
+   [
+    "any",
+    182.66
+   ],
+   [
+    "to",
+    182.92
+   ],
+   [
+    "open",
+    183.09
+   ]
+  ]
+ },
+ {
+  "s": 183.74,
+  "e": 185.71,
+  "text": "and a touch as soft as a fingertip.",
+  "words": [
+   [
+    "and",
+    183.74
+   ],
+   [
+    "a",
+    183.96
+   ],
+   [
+    "touch",
+    184.03
+   ],
+   [
+    "as",
+    184.4
+   ],
+   [
+    "soft",
+    184.54
+   ],
+   [
+    "as",
+    184.84
+   ],
+   [
+    "a",
+    184.98
+   ],
+   [
+    "fingertip",
+    185.05
+   ]
+  ]
+ },
+ {
+  "s": 186.26,
+  "e": 188.65,
+  "text": "Next time, why do porcupine quills",
+  "words": [
+   [
+    "next",
+    186.26
+   ],
+   [
+    "time",
+    186.6
+   ],
+   [
+    "why",
+    186.94
+   ],
+   [
+    "do",
+    187.2
+   ],
+   [
+    "porcupine",
+    187.37
+   ],
+   [
+    "quills",
+    188.14
+   ]
+  ]
+ },
+ {
+  "s": 188.95,
+  "e": 191.32,
+  "text": "get stuck in you and refuse to come out?",
+  "words": [
+   [
+    "get",
+    188.95
+   ],
+   [
+    "stuck",
+    189.18
+   ],
+   [
+    "in",
+    189.56
+   ],
+   [
+    "you",
+    189.72
+   ],
+   [
+    "and",
+    189.95
+   ],
+   [
+    "refuse",
+    190.18
+   ],
+   [
+    "to",
+    190.64
+   ],
+   [
+    "come",
+    190.79
+   ],
+   [
+    "out",
+    191.09
+   ]
+  ]
+ }
+]
