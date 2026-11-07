@@ -378,192 +378,6 @@
     }
   },
   "videos": {
-    "2026-10-31-104": {
-      "topic": {
-        "title": "Why do sharks never run out of teeth?",
-        "format": "animated",
-        "angle": "Low-Poly Faceted"
-      },
-      "package": {
-        "title": "Why Sharks Can Lose 30,000 Teeth \ud83e\udd88",
-        "description": "Why do sharks never run out of teeth? Shark teeth sit in soft tissue instead of bone, and rows of spare teeth folded inside the jaw roll forward like a conveyor belt whenever one falls out.\n\nSources:\nhttps://saveourseas.com/worldofsharks/shark-teeth\nhttps://en.wikipedia.org/wiki/Shark_tooth\nhttps://www.smithsonianmag.com/videos/a-great-white-can-go-through-20000-teeth-in-i/\n\nAnimated in the Low-Poly Faceted style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#sharks",
-          "#animalfacts",
-          "#science"
-        ],
-        "tags": [
-          "shark teeth",
-          "why do sharks never run out of teeth",
-          "shark tooth replacement",
-          "how many teeth does a shark have",
-          "lemon shark",
-          "great white shark teeth",
-          "shark facts",
-          "animal facts",
-          "ocean animals",
-          "science explained",
-          "how it works",
-          "marine biology",
-          "zorbly ai"
-        ],
-        "category": "27",
-        "pinned_comment": "How many teeth have you lost so far? Mine is 20 baby teeth and counting \ud83e\uddb7",
-        "thumbnail_text": "TOOTH CONVEYOR",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "This shark will lose thirty thousand teeth.\nSo why does it never run out?\nLook inside its jaw.\nBehind the front teeth,\nthere are rows and rows of spares,\nfolded back against the inside of the jaw.\nMost sharks carry about fifteen rows.\nYour teeth are locked into bone.\nA shark's teeth sit in soft tissue,\nso they pop out easily.\nWhen one snaps off,\nthe tooth behind it swings up,\nand takes its place,\nsometimes in just one day.\nMeanwhile, a brand new tooth\nstarts growing at the very back.\nIt's like a moving staircase of teeth,\nalways rolling forward.\nA great white goes through\nabout twenty thousand teeth in its life.\nAnd this lemon shark?\nScientists think more than thirty thousand.\nSo how many teeth have you lost so far?",
-        "key_facts": [
-          "Shark teeth are held by connective (soft) tissue, not set into bone, so they come out easily (Save Our Seas; Wikipedia)",
-          "Rows of replacement teeth lie folded back against the inside of the jaw and move up when a front tooth is lost (Save Our Seas)",
-          "Most sharks have about 15 rows of teeth in each jaw (Wikipedia)",
-          "A lost tooth can be replaced in as little as a day / 24 hours (Wikipedia; Save Our Seas)",
-          "A great white can grow up to 20,000 teeth in a lifetime (Smithsonian)",
-          "A lemon shark may shed more than 30,000 teeth over its lifespan (Save Our Seas, calculation)"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Low-Poly Faceted"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261031-shark-teeth",
-      "redos": 0,
-      "updated": "2026-11-01T08:06:59.173141+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Low-Poly Faceted style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-31",
-        "name": "2026-10-31-104.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-31",
-        "name": "2026-10-31-104-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:02,730\nThis shark will lose thirty thousand teeth.\n\n2\n00:00:03,280 --> 00:00:05,160\nSo why does it never run out?\n\n3\n00:00:05,710 --> 00:00:07,160\nLook inside its jaw.\n\n4\n00:00:07,710 --> 00:00:08,960\nBehind the front teeth,\n\n5\n00:00:09,260 --> 00:00:11,270\nthere are rows and rows of spares,\n\n6\n00:00:11,570 --> 00:00:14,060\nfolded back against the inside of the jaw.\n\n7\n00:00:14,610 --> 00:00:16,820\nMost sharks carry about fifteen rows.\n\n8\n00:00:17,370 --> 00:00:19,150\nYour teeth are locked into bone.\n\n9\n00:00:19,700 --> 00:00:21,600\nA shark's teeth sit in soft tissue,\n\n10\n00:00:21,900 --> 00:00:23,370\nso they pop out easily.\n\n11\n00:00:23,920 --> 00:00:25,120\nWhen one snaps off,\n\n12\n00:00:25,420 --> 00:00:27,130\nthe tooth behind it swings up,\n\n13\n00:00:27,430 --> 00:00:28,620\nand takes its place,\n\n14\n00:00:28,920 --> 00:00:30,620\nsometimes in just one day.\n\n15\n00:00:31,170 --> 00:00:32,880\nMeanwhile, a brand new tooth\n\n16\n00:00:33,180 --> 00:00:35,010\nstarts growing at the very back.\n\n17\n00:00:35,560 --> 00:00:37,540\nIt's like a moving staircase of teeth,\n\n18\n00:00:37,840 --> 00:00:39,350\nalways rolling forward.\n\n19\n00:00:39,900 --> 00:00:41,330\nA great white goes through\n\n20\n00:00:41,630 --> 00:00:43,910\nabout twenty thousand teeth in its life.\n\n21\n00:00:44,460 --> 00:00:45,680\nAnd this lemon shark?\n\n22\n00:00:46,230 --> 00:00:48,480\nScientists think more than thirty thousand.\n\n23\n00:00:49,030 --> 00:00:51,350\nSo how many teeth have you lost so far?\n\n",
-      "tg_msg": 959,
-      "approved_by": "auto",
-      "quota_note": "2026-11-01",
-      "description_full": "Why do sharks never run out of teeth? Shark teeth sit in soft tissue instead of bone, and rows of spare teeth folded inside the jaw roll forward like a conveyor belt whenever one falls out.\n\nSources:\nhttps://saveourseas.com/worldofsharks/shark-teeth\nhttps://en.wikipedia.org/wiki/Shark_tooth\nhttps://www.smithsonianmag.com/videos/a-great-white-can-go-through-20000-teeth-in-i/\n\nAnimated in the Low-Poly Faceted style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #sharks #animalfacts #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Low-Poly Faceted style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/nUf5Y4INcNQ",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-11-01T08:06:59.173157+00:00",
-      "slot": "2026-11-05T00:15:00+00:00"
-    },
-    "2026-10-31-105": {
-      "topic": {
-        "title": "Why does bread go stale (even when it stays wet)?",
-        "format": "animated",
-        "angle": "Kawaii Anime"
-      },
-      "package": {
-        "title": "Your Fridge Stales Bread 6x Faster \ud83c\udf5e",
-        "description": "Why does bread go stale, and why is it faster in the fridge? Stale bread isn't mostly dried out: as it cools, its starch slowly packs back into crystals (retrogradation) that squeeze out and lock away water, and that happens fastest just above freezing, so the fridge can stale bread up to about six times faster, while the freezer almost stops it and warming re-melts the crystals for a while.\n\nSources:\nhttps://www.scienceabc.com/eyeopeners/why-chips-soften-but-bread-hardens-staling-moisture-starch-unstale.html\nhttps://wp.eatyourbooks.com/blog/2014/06/03/stalemate-is-the-fridge-bad-for-bread\nhttps://cosmosmagazine.com/science/chemistry/how-to-rejuvenate-stale-bread-and-crunchless-crisps\n\nAnimated in the Kawaii Anime style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#bread",
-          "#food",
-          "#science"
-        ],
-        "tags": [
-          "why does bread go stale",
-          "bread in the fridge",
-          "stale bread",
-          "starch retrogradation",
-          "how to store bread",
-          "does the fridge make bread stale",
-          "how to revive stale bread",
-          "food science",
-          "kitchen science",
-          "bread facts",
-          "science explained",
-          "zorbly ai",
-          "kawaii animation"
-        ],
-        "category": "27",
-        "pinned_comment": "Fridge, counter or freezer: where does YOUR bread live? \ud83c\udf5e",
-        "thumbnail_text": "WHY?",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "Your fridge is wasting your bread. It can go stale six times faster. But why? Fresh bread is soft because of starch. In the oven, starch soaks up water, and its tight crystals melt into a soft gel. But once the bread cools, the starch packs back into crystals. Scientists call it retrogradation. Those crystals squeeze the water out, and lock it away. So the crumb turns hard, even though it's barely dried out. That's why sealed bread still goes stale. And this crystal building runs fastest just above freezing, right at fridge temperature. In the freezer, it almost stops. The fix? Warm stale bread in the oven, and the crystals melt again. It goes soft, almost like fresh, but only for a little while. So, fridge, counter, or freezer: where does your bread live?",
-        "key_facts": [
-          "Staling is mainly starch retrogradation: amylose and amylopectin recrystallize and lock water away, so the loaf feels dry though little water has left (ScienceABC; McGee via Eat Your Books)",
-          "Even hermetically sealed bread hardens and stales (McGee, quoted by Eat Your Books)",
-          "Recrystallization is faster in the cold; retrogradation peaks around 0-8 \u00b0C, so fridge temperatures stale bread fastest (ScienceABC; Eat Your Books)",
-          "Bread stales almost six times faster in a refrigerator than at room temperature (ScienceABC); script says 'can ... six times' / 'up to 6x'",
-          "Freezing (below about -8 \u00b0C) almost stops staling (ScienceABC; Eat Your Books)",
-          "Reheating stale bread (e.g. in the oven) re-softens it, but it hardens again even faster afterwards (Cosmos; ScienceABC)"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Kawaii Anime"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261031-stale-bread",
-      "redos": 0,
-      "updated": "2026-11-01T08:07:02.130082+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-10-31",
-        "name": "2026-10-31-105.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-10-31",
-        "name": "2026-10-31-105-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:02,230\nYour fridge is wasting your bread.\n\n2\n00:00:02,780 --> 00:00:04,840\nIt can go stale six times faster.\n\n3\n00:00:05,390 --> 00:00:06,190\nBut why?\n\n4\n00:00:06,740 --> 00:00:08,910\nFresh bread is soft because of starch.\n\n5\n00:00:09,460 --> 00:00:11,640\nIn the oven, starch soaks up water,\n\n6\n00:00:11,940 --> 00:00:14,550\nand its tight crystals melt into a soft gel.\n\n7\n00:00:15,100 --> 00:00:16,460\nBut once the bread cools,\n\n8\n00:00:16,760 --> 00:00:18,860\nthe starch packs back into crystals.\n\n9\n00:00:19,410 --> 00:00:21,480\nScientists call it retrogradation.\n\n10\n00:00:22,030 --> 00:00:24,000\nThose crystals squeeze the water out,\n\n11\n00:00:24,300 --> 00:00:25,390\nand lock it away.\n\n12\n00:00:25,940 --> 00:00:27,460\nSo the crumb turns hard,\n\n13\n00:00:27,760 --> 00:00:29,310\neven though it's barely dried out.\n\n14\n00:00:29,860 --> 00:00:31,990\nThat's why sealed bread still goes stale.\n\n15\n00:00:32,540 --> 00:00:34,650\nAnd this crystal building runs fastest\n\n16\n00:00:34,950 --> 00:00:36,260\njust above freezing,\n\n17\n00:00:36,560 --> 00:00:38,010\nright at fridge temperature.\n\n18\n00:00:38,560 --> 00:00:40,500\nIn the freezer, it almost stops.\n\n19\n00:00:41,050 --> 00:00:41,820\nThe fix?\n\n20\n00:00:42,370 --> 00:00:44,070\nWarm stale bread in the oven,\n\n21\n00:00:44,370 --> 00:00:45,970\nand the crystals melt again.\n\n22\n00:00:46,520 --> 00:00:48,530\nIt goes soft, almost like fresh,\n\n23\n00:00:48,830 --> 00:00:50,400\nbut only for a little while.\n\n24\n00:00:50,950 --> 00:00:52,920\nSo, fridge, counter, or freezer:\n\n25\n00:00:53,220 --> 00:00:54,500\nwhere does your bread live?\n\n",
-      "tg_msg": 963,
-      "approved_by": "auto",
-      "quota_note": "2026-11-01",
-      "description_full": "Why does bread go stale, and why is it faster in the fridge? Stale bread isn't mostly dried out: as it cools, its starch slowly packs back into crystals (retrogradation) that squeeze out and lock away water, and that happens fastest just above freezing, so the fridge can stale bread up to about six times faster, while the freezer almost stops it and warming re-melts the crystals for a while.\n\nSources:\nhttps://www.scienceabc.com/eyeopeners/why-chips-soften-but-bread-hardens-staling-moisture-starch-unstale.html\nhttps://wp.eatyourbooks.com/blog/2014/06/03/stalemate-is-the-fridge-bad-for-bread\nhttps://cosmosmagazine.com/science/chemistry/how-to-rejuvenate-stale-bread-and-crunchless-crisps\n\nAnimated in the Kawaii Anime style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #bread #food #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/uhndk1tV7YQ",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-11-01T08:07:02.130100+00:00",
-      "slot": "2026-11-05T02:15:00+00:00"
-    },
     "2026-11-01-101": {
       "topic": {
         "title": "Why don't woodpeckers get headaches?",
@@ -3116,12 +2930,12 @@
         "format": "animated",
         "style": "Kawaii Anime"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261106-chili-not-hot",
       "redos": 0,
-      "updated": "2026-11-06T19:52:43.733381+00:00",
+      "updated": "2026-11-06T23:57:43.702808+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech."
       ],
@@ -3136,7 +2950,29 @@
         "name": "2026-11-06-104-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:01,400\nChili isn't hot.\n\n2\n00:00:01,950 --> 00:00:04,130\nYou've been fooled every single time.\n\n3\n00:00:04,680 --> 00:00:05,920\nPut one in the fridge,\n\n4\n00:00:06,220 --> 00:00:07,380\nand it still burns.\n\n5\n00:00:07,930 --> 00:00:10,410\nYour tongue is covered in tiny heat alarms.\n\n6\n00:00:10,960 --> 00:00:12,010\nThey stay quiet,\n\n7\n00:00:12,310 --> 00:00:15,590\nuntil something hits about forty-three degrees Celsius,\n\n8\n00:00:15,890 --> 00:00:17,780\nthat's a hundred and nine Fahrenheit.\n\n9\n00:00:18,330 --> 00:00:21,130\nBut chili carries a molecule called capsaicin,\n\n10\n00:00:21,430 --> 00:00:23,290\nand it fits that alarm like a key.\n\n11\n00:00:23,840 --> 00:00:26,150\nThe alarm goes off at body temperature,\n\n12\n00:00:26,450 --> 00:00:28,760\nand yells to your brain: this is burning!\n\n13\n00:00:29,310 --> 00:00:30,740\nSo you even start to sweat,\n\n14\n00:00:31,040 --> 00:00:32,970\nbut nothing's actually heating up.\n\n15\n00:00:33,520 --> 00:00:34,790\nWater won't save you,\n\n16\n00:00:35,090 --> 00:00:36,790\ncapsaicin won't mix with it.\n\n17\n00:00:37,340 --> 00:00:39,580\nMilk's protein, casein, wraps it up,\n\n18\n00:00:39,880 --> 00:00:41,110\nand carries it away.\n\n19\n00:00:41,660 --> 00:00:43,100\nBirds don't even feel it,\n\n20\n00:00:43,400 --> 00:00:44,970\nso they happily eat chilis,\n\n21\n00:00:45,270 --> 00:00:46,470\nand spread the seeds.\n\n22\n00:00:47,020 --> 00:00:49,540\nWhat's the spiciest chili that's ever fooled you?\n\n",
-      "tg_msg": 1041
+      "tg_msg": 1041,
+      "approved_by": "auto",
+      "description_full": "Why does chili feel hot when it isn't? Capsaicin in chili peppers switches on TRPV1, the heat sensor on your tongue that normally fires above 43\u00b0C, so your brain feels burning with no real heat.\n\nSources:\nhttps://www.scienceabc.com/nature/how-capsaicin-led-to-the-2021-nobel-prize-in-physiology\nhttps://theconversation.com/why-doesnt-water-help-with-spicy-food-what-about-milk-or-beer-226624\nhttps://archive.news.ufl.edu/articles/2001/07/for-peppers-hot-quite-literally-the-spice-of-life-uf-research-shows.html\n\nAnimated in the Kawaii Anime style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #science #food #chili\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/gIyKch5PAeI",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-06T23:57:43.702826+00:00",
+      "slot": "2026-11-12T17:15:00+00:00"
     },
     "2026-11-06-105": {
       "topic": {
@@ -3184,12 +3020,12 @@
         "format": "animated",
         "style": "Chalkboard Lesson"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261106-nails-keep-growing",
       "redos": 0,
-      "updated": "2026-11-06T19:59:51.048888+00:00",
+      "updated": "2026-11-06T23:57:48.576971+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Chalkboard Lesson style). Voice: Kokoro text-to-speech."
       ],
@@ -3204,7 +3040,29 @@
         "name": "2026-11-06-105-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:02,110\nYour nails never stop growing,\n\n2\n00:00:02,410 --> 00:00:04,280\nbut your arms stopped years ago.\n\n3\n00:00:04,830 --> 00:00:06,570\nSo why does one keep going?\n\n4\n00:00:07,120 --> 00:00:08,570\nIt starts with your bones.\n\n5\n00:00:09,120 --> 00:00:10,820\nNear each end of a long bone\n\n6\n00:00:11,120 --> 00:00:13,170\nsits a soft strip called a growth plate.\n\n7\n00:00:13,720 --> 00:00:15,180\nIt keeps adding new bone,\n\n8\n00:00:15,480 --> 00:00:17,010\nso your arms get longer.\n\n9\n00:00:17,560 --> 00:00:18,980\nBut by your late teens,\n\n10\n00:00:19,280 --> 00:00:21,210\nthat strip turns to solid bone.\n\n11\n00:00:21,760 --> 00:00:22,880\nThe plate closes,\n\n12\n00:00:23,180 --> 00:00:24,780\nand your arms stop for good.\n\n13\n00:00:25,330 --> 00:00:26,710\nNails work differently.\n\n14\n00:00:27,260 --> 00:00:29,800\nUnder your cuticle hides the nail matrix,\n\n15\n00:00:30,100 --> 00:00:32,410\na tiny factory that never shuts down.\n\n16\n00:00:32,960 --> 00:00:34,560\nIt keeps making new cells,\n\n17\n00:00:34,860 --> 00:00:36,600\npushing the older ones forward.\n\n18\n00:00:37,150 --> 00:00:38,780\nThose cells harden and die,\n\n19\n00:00:39,080 --> 00:00:40,870\nwhich is why clipping doesn't hurt.\n\n20\n00:00:41,420 --> 00:00:44,290\nFingernails grow about three millimeters a month,\n\n21\n00:00:44,590 --> 00:00:47,030\nso a whole new nail takes around six months.\n\n22\n00:00:47,580 --> 00:00:49,020\nSo which grows faster:\n\n23\n00:00:49,320 --> 00:00:51,290\nyour fingernails, or your toenails?\n\n",
-      "tg_msg": 1044
+      "tg_msg": 1044,
+      "approved_by": "auto",
+      "description_full": "Why do your fingernails keep growing your whole life when your bones stopped growing in your teens? Growth plates in long bones turn to solid bone after puberty, but the nail matrix under your cuticle keeps making new cells, about 3 mm of fingernail a month.\n\nSources:\nhttps://en.wikipedia.org/wiki/Nail_(anatomy)\nhttps://en.wikipedia.org/wiki/Epiphyseal_plate\nhttps://pubmed.ncbi.nlm.nih.gov/21540578\n\nAnimated in the Chalkboard Lesson style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #science #humanbody #howitworks\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Chalkboard Lesson style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/6RUy-ZKBbCc",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-06T23:57:48.576992+00:00",
+      "slot": "2026-11-12T20:15:00+00:00"
     }
   },
   "history": [
@@ -3283,7 +3141,7 @@
       "at": "2026-10-25T17:40:17.371797+00:00"
     }
   },
-  "cleanup_day": "2026-11-06",
+  "cleanup_day": "2026-11-07",
   "recent_voices": [
     "en-AU-WilliamMultilingualNeural",
     "en-US-EmmaMultilingualNeural",
@@ -3362,5 +3220,5 @@
     "drop/20261106-chili-not-hot": "2026-11-06-104",
     "drop/20261106-nails-keep-growing": "2026-11-06-105"
   },
-  "refs_day": "2026-11-06"
+  "refs_day": "2026-11-07"
 }
