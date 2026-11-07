@@ -1,0 +1,696 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.89,
+  "text": "A sleeping bird never falls off its branch.",
+  "words": [
+   [
+    "a",
+    0.25
+   ],
+   [
+    "sleeping",
+    0.33
+   ],
+   [
+    "bird",
+    0.93
+   ],
+   [
+    "never",
+    1.23
+   ],
+   [
+    "falls",
+    1.61
+   ],
+   [
+    "off",
+    1.99
+   ],
+   [
+    "its",
+    2.21
+   ],
+   [
+    "branch",
+    2.44
+   ]
+  ]
+ },
+ {
+  "s": 3.44,
+  "e": 4.68,
+  "text": "You'd never guess why.",
+  "words": [
+   [
+    "youd",
+    3.44
+   ],
+   [
+    "never",
+    3.74
+   ],
+   [
+    "guess",
+    4.1
+   ],
+   [
+    "why",
+    4.46
+   ]
+  ]
+ },
+ {
+  "s": 5.23,
+  "e": 6.92,
+  "text": "When a bird bends its legs,",
+  "words": [
+   [
+    "when",
+    5.23
+   ],
+   [
+    "a",
+    5.55
+   ],
+   [
+    "bird",
+    5.63
+   ],
+   [
+    "bends",
+    5.96
+   ],
+   [
+    "its",
+    6.36
+   ],
+   [
+    "legs",
+    6.6
+   ]
+  ]
+ },
+ {
+  "s": 7.22,
+  "e": 9.32,
+  "text": "tendons behind its ankles pull tight,",
+  "words": [
+   [
+    "tendons",
+    7.22
+   ],
+   [
+    "behind",
+    7.7
+   ],
+   [
+    "its",
+    8.1
+   ],
+   [
+    "ankles",
+    8.31
+   ],
+   [
+    "pull",
+    8.71
+   ],
+   [
+    "tight",
+    8.98
+   ]
+  ]
+ },
+ {
+  "s": 9.62,
+  "e": 11.84,
+  "text": "and that curls the toes around the twig.",
+  "words": [
+   [
+    "and",
+    9.62
+   ],
+   [
+    "that",
+    9.83
+   ],
+   [
+    "curls",
+    10.11
+   ],
+   [
+    "the",
+    10.45
+   ],
+   [
+    "toes",
+    10.66
+   ],
+   [
+    "around",
+    10.94
+   ],
+   [
+    "the",
+    11.35
+   ],
+   [
+    "twig",
+    11.56
+   ]
+  ]
+ },
+ {
+  "s": 12.39,
+  "e": 15.21,
+  "text": "In songbirds, tiny bumps on those tendons",
+  "words": [
+   [
+    "in",
+    12.39
+   ],
+   [
+    "songbirds",
+    12.56
+   ],
+   [
+    "tiny",
+    13.3
+   ],
+   [
+    "bumps",
+    13.64
+   ],
+   [
+    "on",
+    14.05
+   ],
+   [
+    "those",
+    14.22
+   ],
+   [
+    "tendons",
+    14.63
+   ]
+  ]
+ },
+ {
+  "s": 15.51,
+  "e": 17.62,
+  "text": "catch on ridges, like a zip tie,",
+  "words": [
+   [
+    "catch",
+    15.51
+   ],
+   [
+    "on",
+    15.95
+   ],
+   [
+    "ridges",
+    16.13
+   ],
+   [
+    "like",
+    16.65
+   ],
+   [
+    "a",
+    17.0
+   ],
+   [
+    "zip",
+    17.09
+   ],
+   [
+    "tie",
+    17.35
+   ]
+  ]
+ },
+ {
+  "s": 17.92,
+  "e": 19.79,
+  "text": "so the grip holds with little effort.",
+  "words": [
+   [
+    "so",
+    17.92
+   ],
+   [
+    "the",
+    18.04
+   ],
+   [
+    "grip",
+    18.23
+   ],
+   [
+    "holds",
+    18.48
+   ],
+   [
+    "with",
+    18.79
+   ],
+   [
+    "little",
+    19.04
+   ],
+   [
+    "effort",
+    19.41
+   ]
+  ]
+ },
+ {
+  "s": 20.34,
+  "e": 22.13,
+  "text": "To let go, it just stands up.",
+  "words": [
+   [
+    "to",
+    20.34
+   ],
+   [
+    "let",
+    20.51
+   ],
+   [
+    "go",
+    20.76
+   ],
+   [
+    "it",
+    20.93
+   ],
+   [
+    "just",
+    21.1
+   ],
+   [
+    "stands",
+    21.45
+   ],
+   [
+    "up",
+    21.96
+   ]
+  ]
+ },
+ {
+  "s": 22.68,
+  "e": 23.88,
+  "text": "But here's the twist.",
+  "words": [
+   [
+    "but",
+    22.68
+   ],
+   [
+    "heres",
+    22.91
+   ],
+   [
+    "the",
+    23.28
+   ],
+   [
+    "twist",
+    23.51
+   ]
+  ]
+ },
+ {
+  "s": 24.43,
+  "e": 26.85,
+  "text": "When scientists filmed sleeping starlings,",
+  "words": [
+   [
+    "when",
+    24.43
+   ],
+   [
+    "scientists",
+    24.7
+   ],
+   [
+    "filmed",
+    25.35
+   ],
+   [
+    "sleeping",
+    25.74
+   ],
+   [
+    "starlings",
+    26.26
+   ]
+  ]
+ },
+ {
+  "s": 27.15,
+  "e": 29.14,
+  "text": "their legs weren't bent enough to lock.",
+  "words": [
+   [
+    "their",
+    27.15
+   ],
+   [
+    "legs",
+    27.47
+   ],
+   [
+    "werent",
+    27.73
+   ],
+   [
+    "bent",
+    28.11
+   ],
+   [
+    "enough",
+    28.37
+   ],
+   [
+    "to",
+    28.76
+   ],
+   [
+    "lock",
+    28.88
+   ]
+  ]
+ },
+ {
+  "s": 29.69,
+  "e": 31.09,
+  "text": "They were mostly balancing,",
+  "words": [
+   [
+    "they",
+    29.69
+   ],
+   [
+    "were",
+    29.93
+   ],
+   [
+    "mostly",
+    30.18
+   ],
+   [
+    "balancing",
+    30.54
+   ]
+  ]
+ },
+ {
+  "s": 31.39,
+  "e": 33.34,
+  "text": "probably helped by a balance sensor",
+  "words": [
+   [
+    "probably",
+    31.39
+   ],
+   [
+    "helped",
+    31.91
+   ],
+   [
+    "by",
+    32.3
+   ],
+   [
+    "a",
+    32.43
+   ],
+   [
+    "balance",
+    32.5
+   ],
+   [
+    "sensor",
+    32.95
+   ]
+  ]
+ },
+ {
+  "s": 33.64,
+  "e": 35.61,
+  "text": "near their hips, not just their ears.",
+  "words": [
+   [
+    "near",
+    33.64
+   ],
+   [
+    "their",
+    33.92
+   ],
+   [
+    "hips",
+    34.26
+   ],
+   [
+    "not",
+    34.53
+   ],
+   [
+    "just",
+    34.73
+   ],
+   [
+    "their",
+    35.0
+   ],
+   [
+    "ears",
+    35.34
+   ]
+  ]
+ },
+ {
+  "s": 36.16,
+  "e": 38.59,
+  "text": "Many birds even sleep with half their brain,",
+  "words": [
+   [
+    "many",
+    36.16
+   ],
+   [
+    "birds",
+    36.43
+   ],
+   [
+    "even",
+    36.77
+   ],
+   [
+    "sleep",
+    37.04
+   ],
+   [
+    "with",
+    37.38
+   ],
+   [
+    "half",
+    37.65
+   ],
+   [
+    "their",
+    37.92
+   ],
+   [
+    "brain",
+    38.25
+   ]
+  ]
+ },
+ {
+  "s": 38.89,
+  "e": 40.59,
+  "text": "one eye open for danger.",
+  "words": [
+   [
+    "one",
+    38.89
+   ],
+   [
+    "eye",
+    39.16
+   ],
+   [
+    "open",
+    39.43
+   ],
+   [
+    "for",
+    39.79
+   ],
+   [
+    "danger",
+    40.06
+   ]
+  ]
+ },
+ {
+  "s": 41.14,
+  "e": 42.64,
+  "text": "That's how perching birds,",
+  "words": [
+   [
+    "thats",
+    41.14
+   ],
+   [
+    "how",
+    41.5
+   ],
+   [
+    "perching",
+    41.72
+   ],
+   [
+    "birds",
+    42.29
+   ]
+  ]
+ },
+ {
+  "s": 42.94,
+  "e": 44.93,
+  "text": "over half of all bird species,",
+  "words": [
+   [
+    "over",
+    42.94
+   ],
+   [
+    "half",
+    43.28
+   ],
+   [
+    "of",
+    43.61
+   ],
+   [
+    "all",
+    43.77
+   ],
+   [
+    "bird",
+    44.02
+   ],
+   [
+    "species",
+    44.35
+   ]
+  ]
+ },
+ {
+  "s": 45.23,
+  "e": 46.82,
+  "text": "nap safely in the trees.",
+  "words": [
+   [
+    "nap",
+    45.23
+   ],
+   [
+    "safely",
+    45.48
+   ],
+   [
+    "in",
+    45.98
+   ],
+   [
+    "the",
+    46.15
+   ],
+   [
+    "trees",
+    46.4
+   ]
+  ]
+ },
+ {
+  "s": 47.37,
+  "e": 49.38,
+  "text": "So when a bird dozes on a wire,",
+  "words": [
+   [
+    "so",
+    47.37
+   ],
+   [
+    "when",
+    47.55
+   ],
+   [
+    "a",
+    47.9
+   ],
+   [
+    "bird",
+    47.98
+   ],
+   [
+    "dozes",
+    48.33
+   ],
+   [
+    "on",
+    48.77
+   ],
+   [
+    "a",
+    48.95
+   ],
+   [
+    "wire",
+    49.03
+   ]
+  ]
+ },
+ {
+  "s": 49.68,
+  "e": 51.66,
+  "text": "is it gripping, or just balancing?",
+  "words": [
+   [
+    "is",
+    49.68
+   ],
+   [
+    "it",
+    49.83
+   ],
+   [
+    "gripping",
+    49.98
+   ],
+   [
+    "or",
+    50.56
+   ],
+   [
+    "just",
+    50.71
+   ],
+   [
+    "balancing",
+    51.0
+   ]
+  ]
+ }
+]
