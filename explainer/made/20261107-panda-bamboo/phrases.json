@@ -1,0 +1,678 @@
+[
+ {
+  "s": 0.25,
+  "e": 3.43,
+  "text": "Pandas waste eighty-three percent of the bamboo they eat.",
+  "words": [
+   [
+    "pandas",
+    0.25
+   ],
+   [
+    "waste",
+    0.66
+   ],
+   [
+    "eightythree",
+    1.0
+   ],
+   [
+    "percent",
+    1.74
+   ],
+   [
+    "of",
+    2.21
+   ],
+   [
+    "the",
+    2.35
+   ],
+   [
+    "bamboo",
+    2.55
+   ],
+   [
+    "they",
+    2.96
+   ],
+   [
+    "eat",
+    3.23
+   ]
+  ]
+ },
+ {
+  "s": 3.98,
+  "e": 5.44,
+  "text": "Here's why you never see it.",
+  "words": [
+   [
+    "heres",
+    3.98
+   ],
+   [
+    "why",
+    4.33
+   ],
+   [
+    "you",
+    4.54
+   ],
+   [
+    "never",
+    4.75
+   ],
+   [
+    "see",
+    5.09
+   ],
+   [
+    "it",
+    5.3
+   ]
+  ]
+ },
+ {
+  "s": 5.99,
+  "e": 8.31,
+  "text": "Inside, a panda has a meat-eater's gut,",
+  "words": [
+   [
+    "inside",
+    5.99
+   ],
+   [
+    "a",
+    6.47
+   ],
+   [
+    "panda",
+    6.55
+   ],
+   [
+    "has",
+    6.95
+   ],
+   [
+    "a",
+    7.19
+   ],
+   [
+    "meateaters",
+    7.27
+   ],
+   [
+    "gut",
+    8.07
+   ]
+  ]
+ },
+ {
+  "s": 8.61,
+  "e": 10.11,
+  "text": "built just like a bear's:",
+  "words": [
+   [
+    "built",
+    8.61
+   ],
+   [
+    "just",
+    9.01
+   ],
+   [
+    "like",
+    9.32
+   ],
+   [
+    "a",
+    9.64
+   ],
+   [
+    "bears",
+    9.72
+   ]
+  ]
+ },
+ {
+  "s": 10.41,
+  "e": 12.0,
+  "text": "short, simple intestines,",
+  "words": [
+   [
+    "short",
+    10.41
+   ],
+   [
+    "simple",
+    10.79
+   ],
+   [
+    "intestines",
+    11.24
+   ]
+  ]
+ },
+ {
+  "s": 12.3,
+  "e": 14.37,
+  "text": "and no cow-style stomach chambers.",
+  "words": [
+   [
+    "and",
+    12.3
+   ],
+   [
+    "no",
+    12.52
+   ],
+   [
+    "cowstyle",
+    12.67
+   ],
+   [
+    "stomach",
+    13.26
+   ],
+   [
+    "chambers",
+    13.78
+   ]
+  ]
+ },
+ {
+  "s": 14.92,
+  "e": 16.68,
+  "text": "So bamboo rushes straight through,",
+  "words": [
+   [
+    "so",
+    14.92
+   ],
+   [
+    "bamboo",
+    15.04
+   ],
+   [
+    "rushes",
+    15.41
+   ],
+   [
+    "straight",
+    15.77
+   ],
+   [
+    "through",
+    16.25
+   ]
+  ]
+ },
+ {
+  "s": 16.98,
+  "e": 19.26,
+  "text": "and most of it comes out in less than a day.",
+  "words": [
+   [
+    "and",
+    16.98
+   ],
+   [
+    "most",
+    17.18
+   ],
+   [
+    "of",
+    17.46
+   ],
+   [
+    "it",
+    17.6
+   ],
+   [
+    "comes",
+    17.74
+   ],
+   [
+    "out",
+    18.08
+   ],
+   [
+    "in",
+    18.29
+   ],
+   [
+    "less",
+    18.43
+   ],
+   [
+    "than",
+    18.71
+   ],
+   [
+    "a",
+    18.98
+   ],
+   [
+    "day",
+    19.05
+   ]
+  ]
+ },
+ {
+  "s": 19.81,
+  "e": 22.64,
+  "text": "So pandas eat for up to fourteen hours a day,",
+  "words": [
+   [
+    "so",
+    19.81
+   ],
+   [
+    "pandas",
+    19.97
+   ],
+   [
+    "eat",
+    20.46
+   ],
+   [
+    "for",
+    20.7
+   ],
+   [
+    "up",
+    20.94
+   ],
+   [
+    "to",
+    21.1
+   ],
+   [
+    "fourteen",
+    21.27
+   ],
+   [
+    "hours",
+    21.91
+   ],
+   [
+    "a",
+    22.32
+   ],
+   [
+    "day",
+    22.4
+   ]
+  ]
+ },
+ {
+  "s": 22.94,
+  "e": 25.6,
+  "text": "crunching up to thirty-eight kilos of bamboo.",
+  "words": [
+   [
+    "crunching",
+    22.94
+   ],
+   [
+    "up",
+    23.59
+   ],
+   [
+    "to",
+    23.73
+   ],
+   [
+    "thirtyeight",
+    23.87
+   ],
+   [
+    "kilos",
+    24.66
+   ],
+   [
+    "of",
+    25.02
+   ],
+   [
+    "bamboo",
+    25.17
+   ]
+  ]
+ },
+ {
+  "s": 26.15,
+  "e": 29.21,
+  "text": "And they save energy like a phone on low battery.",
+  "words": [
+   [
+    "and",
+    26.15
+   ],
+   [
+    "they",
+    26.39
+   ],
+   [
+    "save",
+    26.7
+   ],
+   [
+    "energy",
+    27.01
+   ],
+   [
+    "like",
+    27.48
+   ],
+   [
+    "a",
+    27.8
+   ],
+   [
+    "phone",
+    27.88
+   ],
+   [
+    "on",
+    28.27
+   ],
+   [
+    "low",
+    28.43
+   ],
+   [
+    "battery",
+    28.66
+   ]
+  ]
+ },
+ {
+  "s": 29.76,
+  "e": 31.33,
+  "text": "Their thyroid runs slow,",
+  "words": [
+   [
+    "their",
+    29.76
+   ],
+   [
+    "thyroid",
+    30.15
+   ],
+   [
+    "runs",
+    30.7
+   ],
+   [
+    "slow",
+    31.02
+   ]
+  ]
+ },
+ {
+  "s": 31.63,
+  "e": 33.35,
+  "text": "their brain and liver are small,",
+  "words": [
+   [
+    "their",
+    31.63
+   ],
+   [
+    "brain",
+    31.96
+   ],
+   [
+    "and",
+    32.29
+   ],
+   [
+    "liver",
+    32.49
+   ],
+   [
+    "are",
+    32.82
+   ],
+   [
+    "small",
+    33.02
+   ]
+  ]
+ },
+ {
+  "s": 33.65,
+  "e": 34.85,
+  "text": "and they nap a lot.",
+  "words": [
+   [
+    "and",
+    33.65
+   ],
+   [
+    "they",
+    33.91
+   ],
+   [
+    "nap",
+    34.25
+   ],
+   [
+    "a",
+    34.51
+   ],
+   [
+    "lot",
+    34.59
+   ]
+  ]
+ },
+ {
+  "s": 35.4,
+  "e": 38.34,
+  "text": "A panda burns barely forty percent of the energy",
+  "words": [
+   [
+    "a",
+    35.4
+   ],
+   [
+    "panda",
+    35.47
+   ],
+   [
+    "burns",
+    35.84
+   ],
+   [
+    "barely",
+    36.21
+   ],
+   [
+    "forty",
+    36.65
+   ],
+   [
+    "percent",
+    37.02
+   ],
+   [
+    "of",
+    37.53
+   ],
+   [
+    "the",
+    37.68
+   ],
+   [
+    "energy",
+    37.9
+   ]
+  ]
+ },
+ {
+  "s": 38.64,
+  "e": 40.23,
+  "text": "you'd expect for its size.",
+  "words": [
+   [
+    "youd",
+    38.64
+   ],
+   [
+    "expect",
+    38.96
+   ],
+   [
+    "for",
+    39.44
+   ],
+   [
+    "its",
+    39.67
+   ],
+   [
+    "size",
+    39.91
+   ]
+  ]
+ },
+ {
+  "s": 40.78,
+  "e": 42.58,
+  "text": "Scientists think it all started",
+  "words": [
+   [
+    "scientists",
+    40.78
+   ],
+   [
+    "think",
+    41.45
+   ],
+   [
+    "it",
+    41.78
+   ],
+   [
+    "all",
+    41.91
+   ],
+   [
+    "started",
+    42.11
+   ]
+  ]
+ },
+ {
+  "s": 42.88,
+  "e": 44.8,
+  "text": "when their ancestors lost a gene",
+  "words": [
+   [
+    "when",
+    42.88
+   ],
+   [
+    "their",
+    43.16
+   ],
+   [
+    "ancestors",
+    43.52
+   ],
+   [
+    "lost",
+    44.16
+   ],
+   [
+    "a",
+    44.44
+   ],
+   [
+    "gene",
+    44.51
+   ]
+  ]
+ },
+ {
+  "s": 45.1,
+  "e": 46.99,
+  "text": "for tasting meat's savory flavor.",
+  "words": [
+   [
+    "for",
+    45.1
+   ],
+   [
+    "tasting",
+    45.31
+   ],
+   [
+    "meats",
+    45.8
+   ],
+   [
+    "savory",
+    46.15
+   ],
+   [
+    "flavor",
+    46.57
+   ]
+  ]
+ },
+ {
+  "s": 47.54,
+  "e": 50.6,
+  "text": "Could you eat just one food every day, like a panda?",
+  "words": [
+   [
+    "could",
+    47.54
+   ],
+   [
+    "you",
+    47.92
+   ],
+   [
+    "eat",
+    48.15
+   ],
+   [
+    "just",
+    48.38
+   ],
+   [
+    "one",
+    48.69
+   ],
+   [
+    "food",
+    48.92
+   ],
+   [
+    "every",
+    49.22
+   ],
+   [
+    "day",
+    49.61
+   ],
+   [
+    "like",
+    49.83
+   ],
+   [
+    "a",
+    50.14
+   ],
+   [
+    "panda",
+    50.22
+   ]
+  ]
+ }
+]
