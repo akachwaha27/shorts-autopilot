@@ -3056,6 +3056,77 @@
       },
       "uploaded_at": "2026-11-07T18:55:07.028458+00:00",
       "slot": "2026-11-13T20:15:00+00:00"
+    },
+    "2026-11-07-105": {
+      "topic": {
+        "title": "Why don't birds fall off branches when they sleep?",
+        "format": "animated",
+        "angle": "Cut-Paper Diorama"
+      },
+      "package": {
+        "title": "How Do 6,000 Bird Species Sleep on Twigs Without Falling?",
+        "description": "Why don't birds fall off branches when they sleep? See how a perching bird's leg tendons curl its toes around a twig, why songbirds have a zip-tie-like tendon lock, and why sleeping starlings turned out to be mostly balancing.\n\nSources:\nhttps://ornithology.com/why-dont-sleeping-birds-fall-out-of-trees/\nhttps://www.scienceabc.com/nature/animals/why-dont-birds-fall-off-branches-when-they-sleep.html\nhttps://www.birdsoutsidemywindow.org/2010/12/03/how-do-they-sleep-without-slipping/\n\nAnimated in the Cut-Paper Diorama style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#birds",
+          "#animals",
+          "#science"
+        ],
+        "tags": [
+          "why don't birds fall off branches",
+          "how do birds sleep",
+          "birds sleeping on branches",
+          "bird feet",
+          "perching birds",
+          "tendon locking mechanism",
+          "bird facts",
+          "animal facts",
+          "starlings",
+          "unihemispheric sleep",
+          "how animals sleep",
+          "science explained",
+          "animal adaptations"
+        ],
+        "category": "27",
+        "pinned_comment": "When a bird dozes on a wire, do you think it's gripping or just balancing?",
+        "thumbnail_text": "ZIP-TIE TOES",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "A sleeping bird never falls off its branch. You'd never guess why. When a bird bends its legs, tendons behind its ankles pull tight, and that curls the toes around the twig. In songbirds, tiny bumps on those tendons catch on ridges, like a zip tie, so the grip holds with little effort. To let go, it just stands up. But here's the twist. When scientists filmed sleeping starlings, their legs weren't bent enough to lock. They were mostly balancing, probably helped by a balance sensor near their hips, not just their ears. Many birds even sleep with half their brain, one eye open for danger. That's how perching birds, over half of all bird species, nap safely in the trees. So when a bird dozes on a wire, is it gripping, or just balancing?",
+        "key_facts": [
+          "Bending the leg pulls flexor tendons behind the ankle tight and curls the toes around the perch (Ornithology.com, Birds Outside My Window)",
+          "Songbirds have ridges/pads between tendon and sheath that help lock the grip (Gill, Ornithology, via Birds Outside My Window; ScienceABC)",
+          "Straightening the leg relaxes the tendon and opens the toes (Ornithology.com)",
+          "A 2012 study of sleeping European starlings found legs not bent enough to engage the lock; they balanced (Galton & Shepherd 2012, via ScienceABC)",
+          "A lumbosacral balance organ near the hips is thought to aid balance (ScienceABC, Juneau Empire; hedged 'probably')",
+          "Many birds sleep with one brain hemisphere at a time and one eye open (ScienceABC, Rattenborg)",
+          "Perching birds (passerines) are more than half of all bird species, over 6,000 species (UTK 2019, Encyclopedia.com)"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Cut-Paper Diorama"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261107-bird-perch",
+      "redos": 0,
+      "updated": "2026-11-07T20:40:08.948559+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Cut-Paper Diorama style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-07",
+        "name": "2026-11-07-105.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-07",
+        "name": "2026-11-07-105-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:02,890\nA sleeping bird never falls off its branch.\n\n2\n00:00:03,440 --> 00:00:04,680\nYou'd never guess why.\n\n3\n00:00:05,230 --> 00:00:06,920\nWhen a bird bends its legs,\n\n4\n00:00:07,220 --> 00:00:09,320\ntendons behind its ankles pull tight,\n\n5\n00:00:09,620 --> 00:00:11,840\nand that curls the toes around the twig.\n\n6\n00:00:12,390 --> 00:00:15,210\nIn songbirds, tiny bumps on those tendons\n\n7\n00:00:15,510 --> 00:00:17,620\ncatch on ridges, like a zip tie,\n\n8\n00:00:17,920 --> 00:00:19,790\nso the grip holds with little effort.\n\n9\n00:00:20,340 --> 00:00:22,130\nTo let go, it just stands up.\n\n10\n00:00:22,680 --> 00:00:23,880\nBut here's the twist.\n\n11\n00:00:24,430 --> 00:00:26,850\nWhen scientists filmed sleeping starlings,\n\n12\n00:00:27,150 --> 00:00:29,140\ntheir legs weren't bent enough to lock.\n\n13\n00:00:29,690 --> 00:00:31,090\nThey were mostly balancing,\n\n14\n00:00:31,390 --> 00:00:33,340\nprobably helped by a balance sensor\n\n15\n00:00:33,640 --> 00:00:35,610\nnear their hips, not just their ears.\n\n16\n00:00:36,160 --> 00:00:38,590\nMany birds even sleep with half their brain,\n\n17\n00:00:38,890 --> 00:00:40,590\none eye open for danger.\n\n18\n00:00:41,140 --> 00:00:42,640\nThat's how perching birds,\n\n19\n00:00:42,940 --> 00:00:44,930\nover half of all bird species,\n\n20\n00:00:45,230 --> 00:00:46,820\nnap safely in the trees.\n\n21\n00:00:47,370 --> 00:00:49,380\nSo when a bird dozes on a wire,\n\n22\n00:00:49,680 --> 00:00:51,660\nis it gripping, or just balancing?\n\n",
+      "tg_msg": 1055
     }
   },
   "history": [
@@ -3215,7 +3286,8 @@
     "drop/20261107-koala-eucalyptus": "2026-11-07-101",
     "drop/20261107-stomach-acid": "2026-11-07-102",
     "drop/20261107-croc-jaws": "2026-11-07-103",
-    "drop/20261107-panda-bamboo": "2026-11-07-104"
+    "drop/20261107-panda-bamboo": "2026-11-07-104",
+    "drop/20261107-bird-perch": "2026-11-07-105"
   },
   "refs_day": "2026-11-07"
 }
