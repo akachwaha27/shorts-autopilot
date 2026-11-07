@@ -1,0 +1,703 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.29,
+  "text": "Your stomach acid dissolves metal,",
+  "words": [
+   [
+    "your",
+    0.25
+   ],
+   [
+    "stomach",
+    0.53
+   ],
+   [
+    "acid",
+    1.03
+   ],
+   [
+    "dissolves",
+    1.31
+   ],
+   [
+    "metal",
+    1.94
+   ]
+  ]
+ },
+ {
+  "s": 2.59,
+  "e": 4.32,
+  "text": "so how does your stomach survive it,",
+  "words": [
+   [
+    "so",
+    2.59
+   ],
+   [
+    "how",
+    2.71
+   ],
+   [
+    "does",
+    2.89
+   ],
+   [
+    "your",
+    3.13
+   ],
+   [
+    "stomach",
+    3.37
+   ],
+   [
+    "survive",
+    3.79
+   ],
+   [
+    "it",
+    4.2
+   ]
+  ]
+ },
+ {
+  "s": 4.62,
+  "e": 5.78,
+  "text": "three times a day?",
+  "words": [
+   [
+    "three",
+    4.62
+   ],
+   [
+    "times",
+    5.04
+   ],
+   [
+    "a",
+    5.45
+   ],
+   [
+    "day",
+    5.53
+   ]
+  ]
+ },
+ {
+  "s": 6.33,
+  "e": 9.01,
+  "text": "The acid can drop to pH one point five.",
+  "words": [
+   [
+    "the",
+    6.33
+   ],
+   [
+    "acid",
+    6.6
+   ],
+   [
+    "can",
+    6.96
+   ],
+   [
+    "drop",
+    7.22
+   ],
+   [
+    "to",
+    7.58
+   ],
+   [
+    "ph",
+    7.76
+   ],
+   [
+    "one",
+    7.94
+   ],
+   [
+    "point",
+    8.21
+   ],
+   [
+    "five",
+    8.66
+   ]
+  ]
+ },
+ {
+  "s": 9.56,
+  "e": 11.23,
+  "text": "Strong enough to eat through zinc,",
+  "words": [
+   [
+    "strong",
+    9.56
+   ],
+   [
+    "enough",
+    9.92
+   ],
+   [
+    "to",
+    10.28
+   ],
+   [
+    "eat",
+    10.4
+   ],
+   [
+    "through",
+    10.58
+   ],
+   [
+    "zinc",
+    11.0
+   ]
+  ]
+ },
+ {
+  "s": 11.53,
+  "e": 12.88,
+  "text": "and turn a steak to mush.",
+  "words": [
+   [
+    "and",
+    11.53
+   ],
+   [
+    "turn",
+    11.75
+   ],
+   [
+    "a",
+    12.03
+   ],
+   [
+    "steak",
+    12.1
+   ],
+   [
+    "to",
+    12.45
+   ],
+   [
+    "mush",
+    12.59
+   ]
+  ]
+ },
+ {
+  "s": 13.43,
+  "e": 15.17,
+  "text": "But your stomach has three tricks.",
+  "words": [
+   [
+    "but",
+    13.43
+   ],
+   [
+    "your",
+    13.61
+   ],
+   [
+    "stomach",
+    13.86
+   ],
+   [
+    "has",
+    14.3
+   ],
+   [
+    "three",
+    14.49
+   ],
+   [
+    "tricks",
+    14.8
+   ]
+  ]
+ },
+ {
+  "s": 15.72,
+  "e": 17.91,
+  "text": "Trick one: a thick blanket of mucus,",
+  "words": [
+   [
+    "trick",
+    15.72
+   ],
+   [
+    "one",
+    16.11
+   ],
+   [
+    "a",
+    16.35
+   ],
+   [
+    "thick",
+    16.42
+   ],
+   [
+    "blanket",
+    16.81
+   ],
+   [
+    "of",
+    17.36
+   ],
+   [
+    "mucus",
+    17.52
+   ]
+  ]
+ },
+ {
+  "s": 18.21,
+  "e": 19.69,
+  "text": "loaded with bicarbonate,",
+  "words": [
+   [
+    "loaded",
+    18.21
+   ],
+   [
+    "with",
+    18.63
+   ],
+   [
+    "bicarbonate",
+    18.91
+   ]
+  ]
+ },
+ {
+  "s": 19.99,
+  "e": 21.57,
+  "text": "basically baking soda.",
+  "words": [
+   [
+    "basically",
+    19.99
+   ],
+   [
+    "baking",
+    20.74
+   ],
+   [
+    "soda",
+    21.24
+   ]
+  ]
+ },
+ {
+  "s": 22.12,
+  "e": 23.59,
+  "text": "So right against the wall,",
+  "words": [
+   [
+    "so",
+    22.12
+   ],
+   [
+    "right",
+    22.26
+   ],
+   [
+    "against",
+    22.61
+   ],
+   [
+    "the",
+    23.1
+   ],
+   [
+    "wall",
+    23.31
+   ]
+  ]
+ },
+ {
+  "s": 23.89,
+  "e": 25.61,
+  "text": "the acid gets neutralized.",
+  "words": [
+   [
+    "the",
+    23.89
+   ],
+   [
+    "acid",
+    24.12
+   ],
+   [
+    "gets",
+    24.43
+   ],
+   [
+    "neutralized",
+    24.75
+   ]
+  ]
+ },
+ {
+  "s": 26.16,
+  "e": 28.69,
+  "text": "Trick two: pepsin, the meat-eating enzyme,",
+  "words": [
+   [
+    "trick",
+    26.16
+   ],
+   [
+    "two",
+    26.54
+   ],
+   [
+    "pepsin",
+    26.77
+   ],
+   [
+    "the",
+    27.23
+   ],
+   [
+    "meateating",
+    27.46
+   ],
+   [
+    "enzyme",
+    28.23
+   ]
+  ]
+ },
+ {
+  "s": 28.99,
+  "e": 30.25,
+  "text": "is made switched off.",
+  "words": [
+   [
+    "is",
+    28.99
+   ],
+   [
+    "made",
+    29.14
+   ],
+   [
+    "switched",
+    29.44
+   ],
+   [
+    "off",
+    30.03
+   ]
+  ]
+ },
+ {
+  "s": 30.8,
+  "e": 32.82,
+  "text": "It only turns on out in the acid,",
+  "words": [
+   [
+    "it",
+    30.8
+   ],
+   [
+    "only",
+    30.96
+   ],
+   [
+    "turns",
+    31.28
+   ],
+   [
+    "on",
+    31.69
+   ],
+   [
+    "out",
+    31.85
+   ],
+   [
+    "in",
+    32.09
+   ],
+   [
+    "the",
+    32.25
+   ],
+   [
+    "acid",
+    32.49
+   ]
+  ]
+ },
+ {
+  "s": 33.12,
+  "e": 34.33,
+  "text": "away from your cells.",
+  "words": [
+   [
+    "away",
+    33.12
+   ],
+   [
+    "from",
+    33.4
+   ],
+   [
+    "your",
+    33.69
+   ],
+   [
+    "cells",
+    33.98
+   ]
+  ]
+ },
+ {
+  "s": 34.88,
+  "e": 38.27,
+  "text": "Trick three: your lining sheds around half a million cells,",
+  "words": [
+   [
+    "trick",
+    34.88
+   ],
+   [
+    "three",
+    35.24
+   ],
+   [
+    "your",
+    35.59
+   ],
+   [
+    "lining",
+    35.87
+   ],
+   [
+    "sheds",
+    36.29
+   ],
+   [
+    "around",
+    36.65
+   ],
+   [
+    "half",
+    37.07
+   ],
+   [
+    "a",
+    37.35
+   ],
+   [
+    "million",
+    37.42
+   ],
+   [
+    "cells",
+    37.91
+   ]
+  ]
+ },
+ {
+  "s": 38.57,
+  "e": 39.42,
+  "text": "every minute,",
+  "words": [
+   [
+    "every",
+    38.57
+   ],
+   [
+    "minute",
+    38.96
+   ]
+  ]
+ },
+ {
+  "s": 39.72,
+  "e": 41.89,
+  "text": "and rebuilds itself every few days.",
+  "words": [
+   [
+    "and",
+    39.72
+   ],
+   [
+    "rebuilds",
+    39.95
+   ],
+   [
+    "itself",
+    40.55
+   ],
+   [
+    "every",
+    41.0
+   ],
+   [
+    "few",
+    41.37
+   ],
+   [
+    "days",
+    41.59
+   ]
+  ]
+ },
+ {
+  "s": 42.44,
+  "e": 45.09,
+  "text": "So damage gets replaced before it spreads.",
+  "words": [
+   [
+    "so",
+    42.44
+   ],
+   [
+    "damage",
+    42.59
+   ],
+   [
+    "gets",
+    43.05
+   ],
+   [
+    "replaced",
+    43.35
+   ],
+   [
+    "before",
+    43.96
+   ],
+   [
+    "it",
+    44.41
+   ],
+   [
+    "spreads",
+    44.56
+   ]
+  ]
+ },
+ {
+  "s": 45.64,
+  "e": 47.51,
+  "text": "Your stomach isn't acid-proof.",
+  "words": [
+   [
+    "your",
+    45.64
+   ],
+   [
+    "stomach",
+    45.95
+   ],
+   [
+    "isnt",
+    46.5
+   ],
+   [
+    "acidproof",
+    46.81
+   ]
+  ]
+ },
+ {
+  "s": 48.06,
+  "e": 50.09,
+  "text": "It just heals faster than it melts.",
+  "words": [
+   [
+    "it",
+    48.06
+   ],
+   [
+    "just",
+    48.2
+   ],
+   [
+    "heals",
+    48.49
+   ],
+   [
+    "faster",
+    48.85
+   ],
+   [
+    "than",
+    49.29
+   ],
+   [
+    "it",
+    49.58
+   ],
+   [
+    "melts",
+    49.73
+   ]
+  ]
+ },
+ {
+  "s": 50.64,
+  "e": 54.23,
+  "text": "Which trick would you want: the slime, the switch, or the shedding?",
+  "words": [
+   [
+    "which",
+    50.64
+   ],
+   [
+    "trick",
+    50.98
+   ],
+   [
+    "would",
+    51.33
+   ],
+   [
+    "you",
+    51.67
+   ],
+   [
+    "want",
+    51.88
+   ],
+   [
+    "the",
+    52.16
+   ],
+   [
+    "slime",
+    52.36
+   ],
+   [
+    "the",
+    52.71
+   ],
+   [
+    "switch",
+    52.91
+   ],
+   [
+    "or",
+    53.33
+   ],
+   [
+    "the",
+    53.47
+   ],
+   [
+    "shedding",
+    53.67
+   ]
+  ]
+ }
+]

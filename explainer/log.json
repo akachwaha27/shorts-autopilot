@@ -775,5 +775,17 @@
   "hookscore": 52,
   "title_score": 98,
   "notes": "unattended run, no storyboard step; added trend rows S060-S062"
+ },
+ {
+  "date": "2026-11-07",
+  "id": "20261107-stomach-acid",
+  "kind": "short",
+  "style": "Flat-Vector Science",
+  "topic": "Why doesn't your stomach digest itself?",
+  "title": "Why Doesn't Your Stomach Digest Itself?",
+  "seconds": 55.2,
+  "words": 135,
+  "sheet_id": "S059",
+  "notes": "unattended run, no storyboard step; hookscore 55, title 98"
  }
 ]
