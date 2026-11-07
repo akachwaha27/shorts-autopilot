@@ -761,5 +761,19 @@
   "hook_score": 55,
   "title_score": 100,
   "notes": "unattended run, no storyboard step"
+ },
+ {
+  "date": "2026-11-07",
+  "id": "20261107-koala-eucalyptus",
+  "kind": "short",
+  "style": "Low-Poly Faceted",
+  "topic": "Why don't koalas eat anything but eucalyptus?",
+  "title": "Why Koalas Eat 500g of Poison Leaves a Day 🐨",
+  "seconds": 53.9,
+  "words": 133,
+  "sheet_id": "S058",
+  "hookscore": 52,
+  "title_score": 98,
+  "notes": "unattended run, no storyboard step; added trend rows S060-S062"
  }
 ]

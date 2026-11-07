@@ -1,0 +1,688 @@
+[
+ {
+  "s": 0.25,
+  "e": 3.23,
+  "text": "Koalas eat poison leaves you'd never survive.",
+  "words": [
+   [
+    "koalas",
+    0.25
+   ],
+   [
+    "eat",
+    0.73
+   ],
+   [
+    "poison",
+    0.97
+   ],
+   [
+    "leaves",
+    1.46
+   ],
+   [
+    "youd",
+    1.94
+   ],
+   [
+    "never",
+    2.26
+   ],
+   [
+    "survive",
+    2.66
+   ]
+  ]
+ },
+ {
+  "s": 3.78,
+  "e": 5.5,
+  "text": "So why only eucalyptus?",
+  "words": [
+   [
+    "so",
+    3.78
+   ],
+   [
+    "why",
+    3.96
+   ],
+   [
+    "only",
+    4.23
+   ],
+   [
+    "eucalyptus",
+    4.6
+   ]
+  ]
+ },
+ {
+  "s": 6.05,
+  "e": 7.73,
+  "text": "Eucalyptus leaves are tough,",
+  "words": [
+   [
+    "eucalyptus",
+    6.05
+   ],
+   [
+    "leaves",
+    6.75
+   ],
+   [
+    "are",
+    7.17
+   ],
+   [
+    "tough",
+    7.38
+   ]
+  ]
+ },
+ {
+  "s": 8.03,
+  "e": 9.19,
+  "text": "low in nutrients,",
+  "words": [
+   [
+    "low",
+    8.03
+   ],
+   [
+    "in",
+    8.27
+   ],
+   [
+    "nutrients",
+    8.44
+   ]
+  ]
+ },
+ {
+  "s": 9.49,
+  "e": 11.19,
+  "text": "and toxic to most animals.",
+  "words": [
+   [
+    "and",
+    9.49
+   ],
+   [
+    "toxic",
+    9.73
+   ],
+   [
+    "to",
+    10.14
+   ],
+   [
+    "most",
+    10.3
+   ],
+   [
+    "animals",
+    10.62
+   ]
+  ]
+ },
+ {
+  "s": 11.74,
+  "e": 14.12,
+  "text": "So koalas get the trees to themselves.",
+  "words": [
+   [
+    "so",
+    11.74
+   ],
+   [
+    "koalas",
+    11.89
+   ],
+   [
+    "get",
+    12.36
+   ],
+   [
+    "the",
+    12.59
+   ],
+   [
+    "trees",
+    12.82
+   ],
+   [
+    "to",
+    13.2
+   ],
+   [
+    "themselves",
+    13.35
+   ]
+  ]
+ },
+ {
+  "s": 14.67,
+  "e": 16.22,
+  "text": "Their secret is inside.",
+  "words": [
+   [
+    "their",
+    14.67
+   ],
+   [
+    "secret",
+    15.08
+   ],
+   [
+    "is",
+    15.57
+   ],
+   [
+    "inside",
+    15.73
+   ]
+  ]
+ },
+ {
+  "s": 16.77,
+  "e": 19.48,
+  "text": "A koala's gut has a pouch called the caecum,",
+  "words": [
+   [
+    "a",
+    16.77
+   ],
+   [
+    "koalas",
+    16.85
+   ],
+   [
+    "gut",
+    17.33
+   ],
+   [
+    "has",
+    17.57
+   ],
+   [
+    "a",
+    17.81
+   ],
+   [
+    "pouch",
+    17.89
+   ],
+   [
+    "called",
+    18.28
+   ],
+   [
+    "the",
+    18.76
+   ],
+   [
+    "caecum",
+    19.0
+   ]
+  ]
+ },
+ {
+  "s": 19.78,
+  "e": 21.15,
+  "text": "about two metres long,",
+  "words": [
+   [
+    "about",
+    19.78
+   ],
+   [
+    "two",
+    20.16
+   ],
+   [
+    "metres",
+    20.39
+   ],
+   [
+    "long",
+    20.85
+   ]
+  ]
+ },
+ {
+  "s": 21.45,
+  "e": 23.36,
+  "text": "packed with millions of bacteria.",
+  "words": [
+   [
+    "packed",
+    21.45
+   ],
+   [
+    "with",
+    21.86
+   ],
+   [
+    "millions",
+    22.13
+   ],
+   [
+    "of",
+    22.68
+   ],
+   [
+    "bacteria",
+    22.81
+   ]
+  ]
+ },
+ {
+  "s": 23.91,
+  "e": 25.51,
+  "text": "They break down the tough fibre,",
+  "words": [
+   [
+    "they",
+    23.91
+   ],
+   [
+    "break",
+    24.15
+   ],
+   [
+    "down",
+    24.46
+   ],
+   [
+    "the",
+    24.71
+   ],
+   [
+    "tough",
+    24.89
+   ],
+   [
+    "fibre",
+    25.2
+   ]
+  ]
+ },
+ {
+  "s": 25.81,
+  "e": 27.54,
+  "text": "and help deal with the toxins.",
+  "words": [
+   [
+    "and",
+    25.81
+   ],
+   [
+    "help",
+    26.03
+   ],
+   [
+    "deal",
+    26.31
+   ],
+   [
+    "with",
+    26.6
+   ],
+   [
+    "the",
+    26.89
+   ],
+   [
+    "toxins",
+    27.11
+   ]
+  ]
+ },
+ {
+  "s": 28.09,
+  "e": 31.39,
+  "text": "Even then, a koala absorbs only a quarter of it.",
+  "words": [
+   [
+    "even",
+    28.09
+   ],
+   [
+    "then",
+    28.45
+   ],
+   [
+    "a",
+    28.8
+   ],
+   [
+    "koala",
+    28.89
+   ],
+   [
+    "absorbs",
+    29.34
+   ],
+   [
+    "only",
+    29.96
+   ],
+   [
+    "a",
+    30.32
+   ],
+   [
+    "quarter",
+    30.41
+   ],
+   [
+    "of",
+    31.03
+   ],
+   [
+    "it",
+    31.21
+   ]
+  ]
+ },
+ {
+  "s": 31.94,
+  "e": 34.96,
+  "text": "So it eats up to five hundred grams of leaves a day,",
+  "words": [
+   [
+    "so",
+    31.94
+   ],
+   [
+    "it",
+    32.09
+   ],
+   [
+    "eats",
+    32.24
+   ],
+   [
+    "up",
+    32.54
+   ],
+   [
+    "to",
+    32.7
+   ],
+   [
+    "five",
+    32.85
+   ],
+   [
+    "hundred",
+    33.15
+   ],
+   [
+    "grams",
+    33.68
+   ],
+   [
+    "of",
+    34.06
+   ],
+   [
+    "leaves",
+    34.21
+   ],
+   [
+    "a",
+    34.66
+   ],
+   [
+    "day",
+    34.74
+   ]
+  ]
+ },
+ {
+  "s": 35.26,
+  "e": 37.26,
+  "text": "gets almost all its water from them,",
+  "words": [
+   [
+    "gets",
+    35.26
+   ],
+   [
+    "almost",
+    35.54
+   ],
+   [
+    "all",
+    35.95
+   ],
+   [
+    "its",
+    36.16
+   ],
+   [
+    "water",
+    36.37
+   ],
+   [
+    "from",
+    36.71
+   ],
+   [
+    "them",
+    36.99
+   ]
+  ]
+ },
+ {
+  "s": 37.56,
+  "e": 39.34,
+  "text": "and saves energy by sleeping,",
+  "words": [
+   [
+    "and",
+    37.56
+   ],
+   [
+    "saves",
+    37.79
+   ],
+   [
+    "energy",
+    38.16
+   ],
+   [
+    "by",
+    38.6
+   ],
+   [
+    "sleeping",
+    38.75
+   ]
+  ]
+ },
+ {
+  "s": 39.64,
+  "e": 41.42,
+  "text": "up to twenty-two hours a day.",
+  "words": [
+   [
+    "up",
+    39.64
+   ],
+   [
+    "to",
+    39.8
+   ],
+   [
+    "twentytwo",
+    39.96
+   ],
+   [
+    "hours",
+    40.69
+   ],
+   [
+    "a",
+    41.09
+   ],
+   [
+    "day",
+    41.18
+   ]
+  ]
+ },
+ {
+  "s": 41.97,
+  "e": 43.33,
+  "text": "And baby koalas?",
+  "words": [
+   [
+    "and",
+    41.97
+   ],
+   [
+    "baby",
+    42.28
+   ],
+   [
+    "koalas",
+    42.7
+   ]
+  ]
+ },
+ {
+  "s": 43.88,
+  "e": 46.09,
+  "text": "They eat a special mum poop called pap,",
+  "words": [
+   [
+    "they",
+    43.88
+   ],
+   [
+    "eat",
+    44.17
+   ],
+   [
+    "a",
+    44.38
+   ],
+   [
+    "special",
+    44.45
+   ],
+   [
+    "mum",
+    44.95
+   ],
+   [
+    "poop",
+    45.16
+   ],
+   [
+    "called",
+    45.45
+   ],
+   [
+    "pap",
+    45.88
+   ]
+  ]
+ },
+ {
+  "s": 46.39,
+  "e": 47.96,
+  "text": "to get those gut bacteria.",
+  "words": [
+   [
+    "to",
+    46.39
+   ],
+   [
+    "get",
+    46.54
+   ],
+   [
+    "those",
+    46.76
+   ],
+   [
+    "gut",
+    47.14
+   ],
+   [
+    "bacteria",
+    47.36
+   ]
+  ]
+ },
+ {
+  "s": 48.51,
+  "e": 50.35,
+  "text": "So, would you eat poison leaves,",
+  "words": [
+   [
+    "so",
+    48.51
+   ],
+   [
+    "would",
+    48.65
+   ],
+   [
+    "you",
+    49.02
+   ],
+   [
+    "eat",
+    49.24
+   ],
+   [
+    "poison",
+    49.46
+   ],
+   [
+    "leaves",
+    49.91
+   ]
+  ]
+ },
+ {
+  "s": 50.65,
+  "e": 52.71,
+  "text": "if it meant twenty-two hours of sleep?",
+  "words": [
+   [
+    "if",
+    50.65
+   ],
+   [
+    "it",
+    50.78
+   ],
+   [
+    "meant",
+    50.92
+   ],
+   [
+    "twentytwo",
+    51.27
+   ],
+   [
+    "hours",
+    51.88
+   ],
+   [
+    "of",
+    52.23
+   ],
+   [
+    "sleep",
+    52.36
+   ]
+  ]
+ }
+]
