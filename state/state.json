@@ -378,99 +378,6 @@
     }
   },
   "videos": {
-    "2026-11-01-105": {
-      "topic": {
-        "title": "Why don't flamingos fall over standing on one leg?",
-        "format": "animated",
-        "angle": "Low-Poly Faceted"
-      },
-      "package": {
-        "title": "Why Don't Flamingos Fall Over? \ud83e\udda9",
-        "description": "Why don't flamingos fall over standing on one leg? A 2017 study found a flamingo's body weight locks its leg joints in place, so standing on one leg takes almost no muscle effort; even a dead flamingo balanced on one leg but not on two.\n\nSources:\nhttps://news.emory.edu/stories/2017/05/ting_flamingoes/index.html\nhttps://www.smithsonianmag.com/smart-news/study-explores-how-flamingos-stay-stable-one-leg-180963440/\nhttps://theconversation.com/scientists-balanced-a-dead-flamingo-on-one-leg-to-unlock-the-birds-standing-secret-78231\n\nAnimated in the Low-Poly Faceted style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#flamingo",
-          "#animals",
-          "#science"
-        ],
-        "tags": [
-          "why do flamingos stand on one leg",
-          "flamingo",
-          "flamingo one leg",
-          "flamingo balance",
-          "flamingo knee",
-          "bird anatomy",
-          "animal facts",
-          "animal science",
-          "science explained",
-          "fun facts",
-          "zorbly ai",
-          "animated explainer",
-          "how it works",
-          "biology"
-        ],
-        "category": "27",
-        "pinned_comment": "How many seconds can you stand on one leg with your eyes closed?",
-        "thumbnail_text": "ONE-LEG LOCK",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "A dead flamingo can stand on one leg.\nWhy can't you?\nIn 2017, scientists in Atlanta tested it.\nThey propped up a flamingo body,\nand it balanced on one leg,\nwith no muscles working at all.\nHere's the trick.\nThat bendy joint isn't a knee.\nIt's the ankle.\nThe real knee is hidden up in the feathers.\nWhen a flamingo lifts one leg,\nit shifts its body,\nso its weight sits right over the foot.\nThat weight pushes the joints into a locked position,\nlike a folding chair clicking open.\nNo muscles needed, just gravity.\nLive flamingos even sway less\nwhen they're fast asleep.\nBut on two legs,\nthe dead bird couldn't stay up.\nFor a flamingo, one leg is the lazy way to stand.\nFor you, it's a muscle workout.\nSo how long can you stand on one leg?",
-        "key_facts": [
-          "In a 2017 Biology Letters study (Georgia Tech and Emory, Atlanta), a flamingo cadaver could be posed stably on one leg with no muscle activity, a 'passive gravitational stay mechanism'",
-          "The same cadaver could not stand stably on two legs",
-          "The backward-bending joint seen mid-leg is the ankle; the knee is hidden up in the body feathers",
-          "On one leg the bird shifts so its centre of mass sits over the foot, and body weight holds the joints in a locked position",
-          "Live juvenile flamingos swayed less when resting or asleep on one leg than when awake"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Low-Poly Faceted"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261101-flamingo-leg",
-      "redos": 0,
-      "updated": "2026-11-02T09:56:46.439775+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Low-Poly Faceted style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-01",
-        "name": "2026-11-01-105.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-01",
-        "name": "2026-11-01-105-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:02,670\nA dead flamingo can stand on one leg.\n\n2\n00:00:03,220 --> 00:00:04,210\nWhy can't you?\n\n3\n00:00:04,760 --> 00:00:08,610\nIn 2017, scientists in Atlanta tested it.\n\n4\n00:00:09,160 --> 00:00:11,040\nThey propped up a flamingo body,\n\n5\n00:00:11,340 --> 00:00:12,900\nand it balanced on one leg,\n\n6\n00:00:13,200 --> 00:00:15,080\nwith no muscles working at all.\n\n7\n00:00:15,630 --> 00:00:16,620\nHere's the trick.\n\n8\n00:00:17,170 --> 00:00:18,940\nThat bendy joint isn't a knee.\n\n9\n00:00:19,490 --> 00:00:20,430\nIt's the ankle.\n\n10\n00:00:20,980 --> 00:00:23,270\nThe real knee is hidden up in the feathers.\n\n11\n00:00:23,820 --> 00:00:25,710\nWhen a flamingo lifts one leg,\n\n12\n00:00:26,010 --> 00:00:27,230\nit shifts its body,\n\n13\n00:00:27,530 --> 00:00:29,470\nso its weight sits right over the foot.\n\n14\n00:00:30,020 --> 00:00:32,840\nThat weight pushes the joints into a locked position,\n\n15\n00:00:33,140 --> 00:00:35,090\nlike a folding chair clicking open.\n\n16\n00:00:35,640 --> 00:00:37,830\nNo muscles needed, just gravity.\n\n17\n00:00:38,380 --> 00:00:40,460\nLive flamingos even sway less\n\n18\n00:00:40,760 --> 00:00:42,140\nwhen they're fast asleep.\n\n19\n00:00:42,690 --> 00:00:43,790\nBut on two legs,\n\n20\n00:00:44,090 --> 00:00:45,700\nthe dead bird couldn't stay up.\n\n21\n00:00:46,250 --> 00:00:49,800\nFor a flamingo, one leg is the lazy way to stand.\n\n22\n00:00:50,350 --> 00:00:52,080\nFor you, it's a muscle workout.\n\n23\n00:00:52,630 --> 00:00:54,770\nSo how long can you stand on one leg?\n\n",
-      "tg_msg": 982,
-      "approved_by": "auto",
-      "quota_note": "2026-11-02",
-      "description_full": "Why don't flamingos fall over standing on one leg? A 2017 study found a flamingo's body weight locks its leg joints in place, so standing on one leg takes almost no muscle effort; even a dead flamingo balanced on one leg but not on two.\n\nSources:\nhttps://news.emory.edu/stories/2017/05/ting_flamingoes/index.html\nhttps://www.smithsonianmag.com/smart-news/study-explores-how-flamingos-stay-stable-one-leg-180963440/\nhttps://theconversation.com/scientists-balanced-a-dead-flamingo-on-one-leg-to-unlock-the-birds-standing-secret-78231\n\nAnimated in the Low-Poly Faceted style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #flamingo #animals #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Low-Poly Faceted style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/EzlEJ017o-4",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-11-02T09:56:46.439792+00:00",
-      "slot": "2026-11-06T17:15:00+00:00"
-    },
     "2026-11-02-101": {
       "topic": {
         "title": "Why does your stomach growl?",
@@ -3106,12 +3013,12 @@
         "format": "animated",
         "style": "Cut-Paper Diorama"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261107-bird-perch",
       "redos": 0,
-      "updated": "2026-11-07T20:40:08.948559+00:00",
+      "updated": "2026-11-07T23:56:44.973179+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Cut-Paper Diorama style). Voice: Kokoro text-to-speech."
       ],
@@ -3126,7 +3033,29 @@
         "name": "2026-11-07-105-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:02,890\nA sleeping bird never falls off its branch.\n\n2\n00:00:03,440 --> 00:00:04,680\nYou'd never guess why.\n\n3\n00:00:05,230 --> 00:00:06,920\nWhen a bird bends its legs,\n\n4\n00:00:07,220 --> 00:00:09,320\ntendons behind its ankles pull tight,\n\n5\n00:00:09,620 --> 00:00:11,840\nand that curls the toes around the twig.\n\n6\n00:00:12,390 --> 00:00:15,210\nIn songbirds, tiny bumps on those tendons\n\n7\n00:00:15,510 --> 00:00:17,620\ncatch on ridges, like a zip tie,\n\n8\n00:00:17,920 --> 00:00:19,790\nso the grip holds with little effort.\n\n9\n00:00:20,340 --> 00:00:22,130\nTo let go, it just stands up.\n\n10\n00:00:22,680 --> 00:00:23,880\nBut here's the twist.\n\n11\n00:00:24,430 --> 00:00:26,850\nWhen scientists filmed sleeping starlings,\n\n12\n00:00:27,150 --> 00:00:29,140\ntheir legs weren't bent enough to lock.\n\n13\n00:00:29,690 --> 00:00:31,090\nThey were mostly balancing,\n\n14\n00:00:31,390 --> 00:00:33,340\nprobably helped by a balance sensor\n\n15\n00:00:33,640 --> 00:00:35,610\nnear their hips, not just their ears.\n\n16\n00:00:36,160 --> 00:00:38,590\nMany birds even sleep with half their brain,\n\n17\n00:00:38,890 --> 00:00:40,590\none eye open for danger.\n\n18\n00:00:41,140 --> 00:00:42,640\nThat's how perching birds,\n\n19\n00:00:42,940 --> 00:00:44,930\nover half of all bird species,\n\n20\n00:00:45,230 --> 00:00:46,820\nnap safely in the trees.\n\n21\n00:00:47,370 --> 00:00:49,380\nSo when a bird dozes on a wire,\n\n22\n00:00:49,680 --> 00:00:51,660\nis it gripping, or just balancing?\n\n",
-      "tg_msg": 1055
+      "tg_msg": 1055,
+      "approved_by": "auto",
+      "description_full": "Why don't birds fall off branches when they sleep? See how a perching bird's leg tendons curl its toes around a twig, why songbirds have a zip-tie-like tendon lock, and why sleeping starlings turned out to be mostly balancing.\n\nSources:\nhttps://ornithology.com/why-dont-sleeping-birds-fall-out-of-trees/\nhttps://www.scienceabc.com/nature/animals/why-dont-birds-fall-off-branches-when-they-sleep.html\nhttps://www.birdsoutsidemywindow.org/2010/12/03/how-do-they-sleep-without-slipping/\n\nAnimated in the Cut-Paper Diorama style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #birds #animals #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Cut-Paper Diorama style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/NQIcl3_PWtg",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-07T23:56:44.973201+00:00",
+      "slot": "2026-11-14T00:15:00+00:00"
     }
   },
   "history": [
@@ -3205,7 +3134,7 @@
       "at": "2026-10-25T17:40:17.371797+00:00"
     }
   },
-  "cleanup_day": "2026-11-07",
+  "cleanup_day": "2026-11-08",
   "recent_voices": [
     "en-AU-WilliamMultilingualNeural",
     "en-US-EmmaMultilingualNeural",
@@ -3289,5 +3218,5 @@
     "drop/20261107-panda-bamboo": "2026-11-07-104",
     "drop/20261107-bird-perch": "2026-11-07-105"
   },
-  "refs_day": "2026-11-07"
+  "refs_day": "2026-11-08"
 }
