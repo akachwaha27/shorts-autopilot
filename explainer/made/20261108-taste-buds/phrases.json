@@ -1,0 +1,2505 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.48,
+  "text": "Your taste buds die every ten days,",
+  "words": [
+   [
+    "your",
+    0.25
+   ],
+   [
+    "taste",
+    0.57
+   ],
+   [
+    "buds",
+    0.97
+   ],
+   [
+    "die",
+    1.29
+   ],
+   [
+    "every",
+    1.52
+   ],
+   [
+    "ten",
+    1.92
+   ],
+   [
+    "days",
+    2.16
+   ]
+  ]
+ },
+ {
+  "s": 2.78,
+  "e": 4.82,
+  "text": "and nobody ever told you why.",
+  "words": [
+   [
+    "and",
+    2.78
+   ],
+   [
+    "nobody",
+    3.05
+   ],
+   [
+    "ever",
+    3.58
+   ],
+   [
+    "told",
+    3.93
+   ],
+   [
+    "you",
+    4.29
+   ],
+   [
+    "why",
+    4.55
+   ]
+  ]
+ },
+ {
+  "s": 5.37,
+  "e": 7.73,
+  "text": "Right now, thousands of tiny sensors",
+  "words": [
+   [
+    "right",
+    5.37
+   ],
+   [
+    "now",
+    5.76
+   ],
+   [
+    "thousands",
+    6.0
+   ],
+   [
+    "of",
+    6.71
+   ],
+   [
+    "tiny",
+    6.86
+   ],
+   [
+    "sensors",
+    7.18
+   ]
+  ]
+ },
+ {
+  "s": 8.03,
+  "e": 9.41,
+  "text": "are tasting your own spit.",
+  "words": [
+   [
+    "are",
+    8.03
+   ],
+   [
+    "tasting",
+    8.23
+   ],
+   [
+    "your",
+    8.68
+   ],
+   [
+    "own",
+    8.95
+   ],
+   [
+    "spit",
+    9.14
+   ]
+  ]
+ },
+ {
+  "s": 9.96,
+  "e": 11.01,
+  "text": "So what are they,",
+  "words": [
+   [
+    "so",
+    9.96
+   ],
+   [
+    "what",
+    10.12
+   ],
+   [
+    "are",
+    10.44
+   ],
+   [
+    "they",
+    10.68
+   ]
+  ]
+ },
+ {
+  "s": 11.31,
+  "e": 12.43,
+  "text": "how do they work,",
+  "words": [
+   [
+    "how",
+    11.31
+   ],
+   [
+    "do",
+    11.57
+   ],
+   [
+    "they",
+    11.74
+   ],
+   [
+    "work",
+    12.08
+   ]
+  ]
+ },
+ {
+  "s": 12.73,
+  "e": 14.71,
+  "text": "and what about that tongue map from school?",
+  "words": [
+   [
+    "and",
+    12.73
+   ],
+   [
+    "what",
+    12.9
+   ],
+   [
+    "about",
+    13.12
+   ],
+   [
+    "that",
+    13.41
+   ],
+   [
+    "tongue",
+    13.63
+   ],
+   [
+    "map",
+    13.97
+   ],
+   [
+    "from",
+    14.14
+   ],
+   [
+    "school",
+    14.37
+   ]
+  ]
+ },
+ {
+  "s": 15.26,
+  "e": 16.5,
+  "text": "Let's start with the map.",
+  "words": [
+   [
+    "lets",
+    15.26
+   ],
+   [
+    "start",
+    15.52
+   ],
+   [
+    "with",
+    15.85
+   ],
+   [
+    "the",
+    16.11
+   ],
+   [
+    "map",
+    16.31
+   ]
+  ]
+ },
+ {
+  "s": 17.05,
+  "e": 18.3,
+  "text": "You've probably seen it.",
+  "words": [
+   [
+    "youve",
+    17.05
+   ],
+   [
+    "probably",
+    17.38
+   ],
+   [
+    "seen",
+    17.9
+   ],
+   [
+    "it",
+    18.17
+   ]
+  ]
+ },
+ {
+  "s": 18.85,
+  "e": 19.92,
+  "text": "Sweet on the tip,",
+  "words": [
+   [
+    "sweet",
+    18.85
+   ],
+   [
+    "on",
+    19.26
+   ],
+   [
+    "the",
+    19.42
+   ],
+   [
+    "tip",
+    19.67
+   ]
+  ]
+ },
+ {
+  "s": 20.22,
+  "e": 21.31,
+  "text": "bitter at the back,",
+  "words": [
+   [
+    "bitter",
+    20.22
+   ],
+   [
+    "at",
+    20.65
+   ],
+   [
+    "the",
+    20.8
+   ],
+   [
+    "back",
+    21.02
+   ]
+  ]
+ },
+ {
+  "s": 21.61,
+  "e": 23.41,
+  "text": "sour and salty on the sides.",
+  "words": [
+   [
+    "sour",
+    21.61
+   ],
+   [
+    "and",
+    21.93
+   ],
+   [
+    "salty",
+    22.18
+   ],
+   [
+    "on",
+    22.59
+   ],
+   [
+    "the",
+    22.75
+   ],
+   [
+    "sides",
+    23.0
+   ]
+  ]
+ },
+ {
+  "s": 23.96,
+  "e": 24.76,
+  "text": "It's a myth.",
+  "words": [
+   [
+    "its",
+    23.96
+   ],
+   [
+    "a",
+    24.26
+   ],
+   [
+    "myth",
+    24.36
+   ]
+  ]
+ },
+ {
+  "s": 25.31,
+  "e": 26.57,
+  "text": "In nineteen oh one,",
+  "words": [
+   [
+    "in",
+    25.31
+   ],
+   [
+    "nineteen",
+    25.48
+   ],
+   [
+    "oh",
+    26.15
+   ],
+   [
+    "one",
+    26.32
+   ]
+  ]
+ },
+ {
+  "s": 26.87,
+  "e": 29.24,
+  "text": "a German scientist named David Hanig",
+  "words": [
+   [
+    "a",
+    26.87
+   ],
+   [
+    "german",
+    26.94
+   ],
+   [
+    "scientist",
+    27.4
+   ],
+   [
+    "named",
+    28.09
+   ],
+   [
+    "david",
+    28.47
+   ],
+   [
+    "hanig",
+    28.85
+   ]
+  ]
+ },
+ {
+  "s": 29.54,
+  "e": 32.82,
+  "text": "found that some spots were just a tiny bit more sensitive.",
+  "words": [
+   [
+    "found",
+    29.54
+   ],
+   [
+    "that",
+    29.88
+   ],
+   [
+    "some",
+    30.16
+   ],
+   [
+    "spots",
+    30.44
+   ],
+   [
+    "were",
+    30.79
+   ],
+   [
+    "just",
+    31.07
+   ],
+   [
+    "a",
+    31.35
+   ],
+   [
+    "tiny",
+    31.42
+   ],
+   [
+    "bit",
+    31.7
+   ],
+   [
+    "more",
+    31.91
+   ],
+   [
+    "sensitive",
+    32.19
+   ]
+  ]
+ },
+ {
+  "s": 33.37,
+  "e": 35.17,
+  "text": "Then in nineteen forty two,",
+  "words": [
+   [
+    "then",
+    33.37
+   ],
+   [
+    "in",
+    33.7
+   ],
+   [
+    "nineteen",
+    33.86
+   ],
+   [
+    "forty",
+    34.51
+   ],
+   [
+    "two",
+    34.92
+   ]
+  ]
+ },
+ {
+  "s": 35.47,
+  "e": 36.97,
+  "text": "his graph got redrawn,",
+  "words": [
+   [
+    "his",
+    35.47
+   ],
+   [
+    "graph",
+    35.72
+   ],
+   [
+    "got",
+    36.13
+   ],
+   [
+    "redrawn",
+    36.39
+   ]
+  ]
+ },
+ {
+  "s": 37.27,
+  "e": 38.93,
+  "text": "and people read it the wrong way.",
+  "words": [
+   [
+    "and",
+    37.27
+   ],
+   [
+    "people",
+    37.46
+   ],
+   [
+    "read",
+    37.85
+   ],
+   [
+    "it",
+    38.1
+   ],
+   [
+    "the",
+    38.23
+   ],
+   [
+    "wrong",
+    38.42
+   ],
+   [
+    "way",
+    38.74
+   ]
+  ]
+ },
+ {
+  "s": 39.48,
+  "e": 40.28,
+  "text": "The truth?",
+  "words": [
+   [
+    "the",
+    39.48
+   ],
+   [
+    "truth",
+    39.78
+   ]
+  ]
+ },
+ {
+  "s": 40.83,
+  "e": 43.25,
+  "text": "Every part of your tongue that has taste buds",
+  "words": [
+   [
+    "every",
+    40.83
+   ],
+   [
+    "part",
+    41.16
+   ],
+   [
+    "of",
+    41.42
+   ],
+   [
+    "your",
+    41.55
+   ],
+   [
+    "tongue",
+    41.81
+   ],
+   [
+    "that",
+    42.2
+   ],
+   [
+    "has",
+    42.46
+   ],
+   [
+    "taste",
+    42.66
+   ],
+   [
+    "buds",
+    42.99
+   ]
+  ]
+ },
+ {
+  "s": 43.55,
+  "e": 45.35,
+  "text": "can taste all five flavors.",
+  "words": [
+   [
+    "can",
+    43.55
+   ],
+   [
+    "taste",
+    43.79
+   ],
+   [
+    "all",
+    44.2
+   ],
+   [
+    "five",
+    44.45
+   ],
+   [
+    "flavors",
+    44.77
+   ]
+  ]
+ },
+ {
+  "s": 45.9,
+  "e": 47.43,
+  "text": "So where are the taste buds?",
+  "words": [
+   [
+    "so",
+    45.9
+   ],
+   [
+    "where",
+    46.04
+   ],
+   [
+    "are",
+    46.39
+   ],
+   [
+    "the",
+    46.6
+   ],
+   [
+    "taste",
+    46.81
+   ],
+   [
+    "buds",
+    47.16
+   ]
+  ]
+ },
+ {
+  "s": 47.98,
+  "e": 49.61,
+  "text": "Stick out your tongue in a mirror.",
+  "words": [
+   [
+    "stick",
+    47.98
+   ],
+   [
+    "out",
+    48.29
+   ],
+   [
+    "your",
+    48.47
+   ],
+   [
+    "tongue",
+    48.71
+   ],
+   [
+    "in",
+    49.07
+   ],
+   [
+    "a",
+    49.19
+   ],
+   [
+    "mirror",
+    49.25
+   ]
+  ]
+ },
+ {
+  "s": 50.16,
+  "e": 52.43,
+  "text": "Those little bumps are not taste buds.",
+  "words": [
+   [
+    "those",
+    50.16
+   ],
+   [
+    "little",
+    50.52
+   ],
+   [
+    "bumps",
+    50.97
+   ],
+   [
+    "are",
+    51.33
+   ],
+   [
+    "not",
+    51.55
+   ],
+   [
+    "taste",
+    51.77
+   ],
+   [
+    "buds",
+    52.14
+   ]
+  ]
+ },
+ {
+  "s": 52.98,
+  "e": 54.25,
+  "text": "They're called papillae,",
+  "words": [
+   [
+    "theyre",
+    52.98
+   ],
+   [
+    "called",
+    53.36
+   ],
+   [
+    "papillae",
+    53.74
+   ]
+  ]
+ },
+ {
+  "s": 54.55,
+  "e": 56.73,
+  "text": "and most taste buds hide inside them,",
+  "words": [
+   [
+    "and",
+    54.55
+   ],
+   [
+    "most",
+    54.77
+   ],
+   [
+    "taste",
+    55.06
+   ],
+   [
+    "buds",
+    55.42
+   ],
+   [
+    "hide",
+    55.71
+   ],
+   [
+    "inside",
+    56.01
+   ],
+   [
+    "them",
+    56.44
+   ]
+  ]
+ },
+ {
+  "s": 57.03,
+  "e": 58.72,
+  "text": "along the sides of each bump.",
+  "words": [
+   [
+    "along",
+    57.03
+   ],
+   [
+    "the",
+    57.4
+   ],
+   [
+    "sides",
+    57.62
+   ],
+   [
+    "of",
+    57.99
+   ],
+   [
+    "each",
+    58.14
+   ],
+   [
+    "bump",
+    58.43
+   ]
+  ]
+ },
+ {
+  "s": 59.27,
+  "e": 61.59,
+  "text": "An adult has somewhere between two thousand",
+  "words": [
+   [
+    "an",
+    59.27
+   ],
+   [
+    "adult",
+    59.4
+   ],
+   [
+    "has",
+    59.71
+   ],
+   [
+    "somewhere",
+    59.9
+   ],
+   [
+    "between",
+    60.46
+   ],
+   [
+    "two",
+    60.9
+   ],
+   [
+    "thousand",
+    61.09
+   ]
+  ]
+ },
+ {
+  "s": 61.89,
+  "e": 63.56,
+  "text": "and ten thousand taste buds.",
+  "words": [
+   [
+    "and",
+    61.89
+   ],
+   [
+    "ten",
+    62.1
+   ],
+   [
+    "thousand",
+    62.32
+   ],
+   [
+    "taste",
+    62.91
+   ],
+   [
+    "buds",
+    63.27
+   ]
+  ]
+ },
+ {
+  "s": 64.11,
+  "e": 66.52,
+  "text": "A few even live on the roof of your mouth",
+  "words": [
+   [
+    "a",
+    64.11
+   ],
+   [
+    "few",
+    64.19
+   ],
+   [
+    "even",
+    64.41
+   ],
+   [
+    "live",
+    64.72
+   ],
+   [
+    "on",
+    65.02
+   ],
+   [
+    "the",
+    65.17
+   ],
+   [
+    "roof",
+    65.39
+   ],
+   [
+    "of",
+    65.7
+   ],
+   [
+    "your",
+    65.85
+   ],
+   [
+    "mouth",
+    66.15
+   ]
+  ]
+ },
+ {
+  "s": 66.82,
+  "e": 68.1,
+  "text": "and down in your throat.",
+  "words": [
+   [
+    "and",
+    66.82
+   ],
+   [
+    "down",
+    67.03
+   ],
+   [
+    "in",
+    67.3
+   ],
+   [
+    "your",
+    67.43
+   ],
+   [
+    "throat",
+    67.7
+   ]
+  ]
+ },
+ {
+  "s": 68.65,
+  "e": 70.21,
+  "text": "Now zoom in on one bud.",
+  "words": [
+   [
+    "now",
+    68.65
+   ],
+   [
+    "zoom",
+    68.93
+   ],
+   [
+    "in",
+    69.29
+   ],
+   [
+    "on",
+    69.48
+   ],
+   [
+    "one",
+    69.66
+   ],
+   [
+    "bud",
+    69.93
+   ]
+  ]
+ },
+ {
+  "s": 70.76,
+  "e": 72.68,
+  "text": "It looks a bit like a tiny onion,",
+  "words": [
+   [
+    "it",
+    70.76
+   ],
+   [
+    "looks",
+    70.91
+   ],
+   [
+    "a",
+    71.3
+   ],
+   [
+    "bit",
+    71.37
+   ],
+   [
+    "like",
+    71.6
+   ],
+   [
+    "a",
+    71.91
+   ],
+   [
+    "tiny",
+    71.99
+   ],
+   [
+    "onion",
+    72.3
+   ]
+  ]
+ },
+ {
+  "s": 72.98,
+  "e": 75.82,
+  "text": "packed with fifty to one hundred fifty taste cells.",
+  "words": [
+   [
+    "packed",
+    72.98
+   ],
+   [
+    "with",
+    73.39
+   ],
+   [
+    "fifty",
+    73.66
+   ],
+   [
+    "to",
+    74.0
+   ],
+   [
+    "one",
+    74.13
+   ],
+   [
+    "hundred",
+    74.33
+   ],
+   [
+    "fifty",
+    74.81
+   ],
+   [
+    "taste",
+    75.15
+   ],
+   [
+    "cells",
+    75.48
+   ]
+  ]
+ },
+ {
+  "s": 76.37,
+  "e": 78.17,
+  "text": "At the top there's a little opening,",
+  "words": [
+   [
+    "at",
+    76.37
+   ],
+   [
+    "the",
+    76.5
+   ],
+   [
+    "top",
+    76.69
+   ],
+   [
+    "theres",
+    76.89
+   ],
+   [
+    "a",
+    77.27
+   ],
+   [
+    "little",
+    77.33
+   ],
+   [
+    "opening",
+    77.72
+   ]
+  ]
+ },
+ {
+  "s": 78.47,
+  "e": 79.59,
+  "text": "called a taste pore.",
+  "words": [
+   [
+    "called",
+    78.47
+   ],
+   [
+    "a",
+    78.89
+   ],
+   [
+    "taste",
+    78.96
+   ],
+   [
+    "pore",
+    79.31
+   ]
+  ]
+ },
+ {
+  "s": 80.14,
+  "e": 82.46,
+  "text": "When you eat, food dissolves in your spit,",
+  "words": [
+   [
+    "when",
+    80.14
+   ],
+   [
+    "you",
+    80.42
+   ],
+   [
+    "eat",
+    80.63
+   ],
+   [
+    "food",
+    80.84
+   ],
+   [
+    "dissolves",
+    81.13
+   ],
+   [
+    "in",
+    81.76
+   ],
+   [
+    "your",
+    81.9
+   ],
+   [
+    "spit",
+    82.18
+   ]
+  ]
+ },
+ {
+  "s": 82.76,
+  "e": 85.0,
+  "text": "and those molecules slip into the pore.",
+  "words": [
+   [
+    "and",
+    82.76
+   ],
+   [
+    "those",
+    82.97
+   ],
+   [
+    "molecules",
+    83.32
+   ],
+   [
+    "slip",
+    83.95
+   ],
+   [
+    "into",
+    84.23
+   ],
+   [
+    "the",
+    84.51
+   ],
+   [
+    "pore",
+    84.72
+   ]
+  ]
+ },
+ {
+  "s": 85.55,
+  "e": 88.15,
+  "text": "Each taste cell has receptors on its tip,",
+  "words": [
+   [
+    "each",
+    85.55
+   ],
+   [
+    "taste",
+    85.86
+   ],
+   [
+    "cell",
+    86.26
+   ],
+   [
+    "has",
+    86.57
+   ],
+   [
+    "receptors",
+    86.81
+   ],
+   [
+    "on",
+    87.52
+   ],
+   [
+    "its",
+    87.68
+   ],
+   [
+    "tip",
+    87.91
+   ]
+  ]
+ },
+ {
+  "s": 88.45,
+  "e": 90.45,
+  "text": "like locks waiting for the right key.",
+  "words": [
+   [
+    "like",
+    88.45
+   ],
+   [
+    "locks",
+    88.72
+   ],
+   [
+    "waiting",
+    89.05
+   ],
+   [
+    "for",
+    89.51
+   ],
+   [
+    "the",
+    89.71
+   ],
+   [
+    "right",
+    89.91
+   ],
+   [
+    "key",
+    90.25
+   ]
+  ]
+ },
+ {
+  "s": 91.0,
+  "e": 92.61,
+  "text": "Sugar fits the sweet lock.",
+  "words": [
+   [
+    "sugar",
+    91.0
+   ],
+   [
+    "fits",
+    91.38
+   ],
+   [
+    "the",
+    91.69
+   ],
+   [
+    "sweet",
+    91.92
+   ],
+   [
+    "lock",
+    92.3
+   ]
+  ]
+ },
+ {
+  "s": 93.16,
+  "e": 95.24,
+  "text": "Salt slips through its own little channel.",
+  "words": [
+   [
+    "salt",
+    93.16
+   ],
+   [
+    "slips",
+    93.4
+   ],
+   [
+    "through",
+    93.7
+   ],
+   [
+    "its",
+    94.11
+   ],
+   [
+    "own",
+    94.29
+   ],
+   [
+    "little",
+    94.47
+   ],
+   [
+    "channel",
+    94.82
+   ]
+  ]
+ },
+ {
+  "s": 95.79,
+  "e": 96.82,
+  "text": "When a key fits,",
+  "words": [
+   [
+    "when",
+    95.79
+   ],
+   [
+    "a",
+    96.13
+   ],
+   [
+    "key",
+    96.22
+   ],
+   [
+    "fits",
+    96.48
+   ]
+  ]
+ },
+ {
+  "s": 97.12,
+  "e": 99.22,
+  "text": "the cell fires a signal down a nerve,",
+  "words": [
+   [
+    "the",
+    97.12
+   ],
+   [
+    "cell",
+    97.34
+   ],
+   [
+    "fires",
+    97.63
+   ],
+   [
+    "a",
+    97.99
+   ],
+   [
+    "signal",
+    98.06
+   ],
+   [
+    "down",
+    98.5
+   ],
+   [
+    "a",
+    98.78
+   ],
+   [
+    "nerve",
+    98.86
+   ]
+  ]
+ },
+ {
+  "s": 99.52,
+  "e": 100.94,
+  "text": "and your brain says, sweet!",
+  "words": [
+   [
+    "and",
+    99.52
+   ],
+   [
+    "your",
+    99.72
+   ],
+   [
+    "brain",
+    99.99
+   ],
+   [
+    "says",
+    100.33
+   ],
+   [
+    "sweet",
+    100.6
+   ]
+  ]
+ },
+ {
+  "s": 101.49,
+  "e": 103.0,
+  "text": "And here's the clever part.",
+  "words": [
+   [
+    "and",
+    101.49
+   ],
+   [
+    "heres",
+    101.71
+   ],
+   [
+    "the",
+    102.07
+   ],
+   [
+    "clever",
+    102.28
+   ],
+   [
+    "part",
+    102.71
+   ]
+  ]
+ },
+ {
+  "s": 103.55,
+  "e": 105.71,
+  "text": "Each of the five tastes has a job.",
+  "words": [
+   [
+    "each",
+    103.55
+   ],
+   [
+    "of",
+    103.88
+   ],
+   [
+    "the",
+    104.05
+   ],
+   [
+    "five",
+    104.3
+   ],
+   [
+    "tastes",
+    104.63
+   ],
+   [
+    "has",
+    105.13
+   ],
+   [
+    "a",
+    105.38
+   ],
+   [
+    "job",
+    105.46
+   ]
+  ]
+ },
+ {
+  "s": 106.26,
+  "e": 107.66,
+  "text": "Sweet means energy.",
+  "words": [
+   [
+    "sweet",
+    106.26
+   ],
+   [
+    "means",
+    106.7
+   ],
+   [
+    "energy",
+    107.14
+   ]
+  ]
+ },
+ {
+  "s": 108.21,
+  "e": 110.72,
+  "text": "Salty means minerals your body needs.",
+  "words": [
+   [
+    "salty",
+    108.21
+   ],
+   [
+    "means",
+    108.62
+   ],
+   [
+    "minerals",
+    109.02
+   ],
+   [
+    "your",
+    109.67
+   ],
+   [
+    "body",
+    109.99
+   ],
+   [
+    "needs",
+    110.32
+   ]
+  ]
+ },
+ {
+  "s": 111.27,
+  "e": 113.45,
+  "text": "Sour can mean unripe, or spoiled.",
+  "words": [
+   [
+    "sour",
+    111.27
+   ],
+   [
+    "can",
+    111.61
+   ],
+   [
+    "mean",
+    111.86
+   ],
+   [
+    "unripe",
+    112.19
+   ],
+   [
+    "or",
+    112.7
+   ],
+   [
+    "spoiled",
+    112.86
+   ]
+  ]
+ },
+ {
+  "s": 114.0,
+  "e": 115.27,
+  "text": "Bitter is a warning,",
+  "words": [
+   [
+    "bitter",
+    114.0
+   ],
+   [
+    "is",
+    114.47
+   ],
+   [
+    "a",
+    114.63
+   ],
+   [
+    "warning",
+    114.71
+   ]
+  ]
+ },
+ {
+  "s": 115.57,
+  "e": 117.64,
+  "text": "because lots of poisons taste bitter.",
+  "words": [
+   [
+    "because",
+    115.57
+   ],
+   [
+    "lots",
+    116.03
+   ],
+   [
+    "of",
+    116.3
+   ],
+   [
+    "poisons",
+    116.44
+   ],
+   [
+    "taste",
+    116.91
+   ],
+   [
+    "bitter",
+    117.24
+   ]
+  ]
+ },
+ {
+  "s": 118.19,
+  "e": 119.76,
+  "text": "And umami means protein.",
+  "words": [
+   [
+    "and",
+    118.19
+   ],
+   [
+    "umami",
+    118.43
+   ],
+   [
+    "means",
+    118.82
+   ],
+   [
+    "protein",
+    119.21
+   ]
+  ]
+ },
+ {
+  "s": 120.31,
+  "e": 122.66,
+  "text": "That fifth taste was found in nineteen oh eight,",
+  "words": [
+   [
+    "that",
+    120.31
+   ],
+   [
+    "fifth",
+    120.55
+   ],
+   [
+    "taste",
+    120.85
+   ],
+   [
+    "was",
+    121.15
+   ],
+   [
+    "found",
+    121.33
+   ],
+   [
+    "in",
+    121.64
+   ],
+   [
+    "nineteen",
+    121.76
+   ],
+   [
+    "oh",
+    122.24
+   ],
+   [
+    "eight",
+    122.36
+   ]
+  ]
+ },
+ {
+  "s": 122.96,
+  "e": 125.53,
+  "text": "by a Japanese chemist named Kikunae Ikeda.",
+  "words": [
+   [
+    "by",
+    122.96
+   ],
+   [
+    "a",
+    123.1
+   ],
+   [
+    "japanese",
+    123.18
+   ],
+   [
+    "chemist",
+    123.77
+   ],
+   [
+    "named",
+    124.28
+   ],
+   [
+    "kikunae",
+    124.65
+   ],
+   [
+    "ikeda",
+    125.16
+   ]
+  ]
+ },
+ {
+  "s": 126.08,
+  "e": 128.82,
+  "text": "He wondered why seaweed soup tasted so rich,",
+  "words": [
+   [
+    "he",
+    126.08
+   ],
+   [
+    "wondered",
+    126.23
+   ],
+   [
+    "why",
+    126.84
+   ],
+   [
+    "seaweed",
+    127.07
+   ],
+   [
+    "soup",
+    127.6
+   ],
+   [
+    "tasted",
+    127.91
+   ],
+   [
+    "so",
+    128.37
+   ],
+   [
+    "rich",
+    128.52
+   ]
+  ]
+ },
+ {
+  "s": 129.12,
+  "e": 131.04,
+  "text": "and found the answer was glutamate.",
+  "words": [
+   [
+    "and",
+    129.12
+   ],
+   [
+    "found",
+    129.32
+   ],
+   [
+    "the",
+    129.65
+   ],
+   [
+    "answer",
+    129.85
+   ],
+   [
+    "was",
+    130.25
+   ],
+   [
+    "glutamate",
+    130.45
+   ]
+  ]
+ },
+ {
+  "s": 131.59,
+  "e": 133.5,
+  "text": "But taste is only half the story.",
+  "words": [
+   [
+    "but",
+    131.59
+   ],
+   [
+    "taste",
+    131.81
+   ],
+   [
+    "is",
+    132.18
+   ],
+   [
+    "only",
+    132.33
+   ],
+   [
+    "half",
+    132.62
+   ],
+   [
+    "the",
+    132.91
+   ],
+   [
+    "story",
+    133.13
+   ]
+  ]
+ },
+ {
+  "s": 134.05,
+  "e": 136.21,
+  "text": "Hold your nose and eat a jelly bean.",
+  "words": [
+   [
+    "hold",
+    134.05
+   ],
+   [
+    "your",
+    134.36
+   ],
+   [
+    "nose",
+    134.67
+   ],
+   [
+    "and",
+    134.98
+   ],
+   [
+    "eat",
+    135.21
+   ],
+   [
+    "a",
+    135.44
+   ],
+   [
+    "jelly",
+    135.52
+   ],
+   [
+    "bean",
+    135.9
+   ]
+  ]
+ },
+ {
+  "s": 136.76,
+  "e": 137.97,
+  "text": "You can tell it's sweet,",
+  "words": [
+   [
+    "you",
+    136.76
+   ],
+   [
+    "can",
+    136.96
+   ],
+   [
+    "tell",
+    137.16
+   ],
+   [
+    "its",
+    137.43
+   ],
+   [
+    "sweet",
+    137.63
+   ]
+  ]
+ },
+ {
+  "s": 138.27,
+  "e": 139.78,
+  "text": "but not what flavor it is.",
+  "words": [
+   [
+    "but",
+    138.27
+   ],
+   [
+    "not",
+    138.5
+   ],
+   [
+    "what",
+    138.72
+   ],
+   [
+    "flavor",
+    139.02
+   ],
+   [
+    "it",
+    139.48
+   ],
+   [
+    "is",
+    139.63
+   ]
+  ]
+ },
+ {
+  "s": 140.33,
+  "e": 142.66,
+  "text": "That's because most of what we call flavor",
+  "words": [
+   [
+    "thats",
+    140.33
+   ],
+   [
+    "because",
+    140.67
+   ],
+   [
+    "most",
+    141.15
+   ],
+   [
+    "of",
+    141.42
+   ],
+   [
+    "what",
+    141.56
+   ],
+   [
+    "we",
+    141.84
+   ],
+   [
+    "call",
+    141.97
+   ],
+   [
+    "flavor",
+    142.25
+   ]
+  ]
+ },
+ {
+  "s": 142.96,
+  "e": 144.46,
+  "text": "actually comes from smell.",
+  "words": [
+   [
+    "actually",
+    142.96
+   ],
+   [
+    "comes",
+    143.5
+   ],
+   [
+    "from",
+    143.85
+   ],
+   [
+    "smell",
+    144.12
+   ]
+  ]
+ },
+ {
+  "s": 145.01,
+  "e": 146.92,
+  "text": "And some animals put us to shame.",
+  "words": [
+   [
+    "and",
+    145.01
+   ],
+   [
+    "some",
+    145.23
+   ],
+   [
+    "animals",
+    145.52
+   ],
+   [
+    "put",
+    146.04
+   ],
+   [
+    "us",
+    146.26
+   ],
+   [
+    "to",
+    146.41
+   ],
+   [
+    "shame",
+    146.55
+   ]
+  ]
+ },
+ {
+  "s": 147.47,
+  "e": 151.63,
+  "text": "A catfish can have up to one hundred seventy five thousand taste buds,",
+  "words": [
+   [
+    "a",
+    147.47
+   ],
+   [
+    "catfish",
+    147.54
+   ],
+   [
+    "can",
+    148.05
+   ],
+   [
+    "have",
+    148.27
+   ],
+   [
+    "up",
+    148.57
+   ],
+   [
+    "to",
+    148.71
+   ],
+   [
+    "one",
+    148.86
+   ],
+   [
+    "hundred",
+    149.08
+   ],
+   [
+    "seventy",
+    149.59
+   ],
+   [
+    "five",
+    150.1
+   ],
+   [
+    "thousand",
+    150.39
+   ],
+   [
+    "taste",
+    150.97
+   ],
+   [
+    "buds",
+    151.34
+   ]
+  ]
+ },
+ {
+  "s": 151.93,
+  "e": 153.13,
+  "text": "all over its body.",
+  "words": [
+   [
+    "all",
+    151.93
+   ],
+   [
+    "over",
+    152.19
+   ],
+   [
+    "its",
+    152.53
+   ],
+   [
+    "body",
+    152.79
+   ]
+  ]
+ },
+ {
+  "s": 153.68,
+  "e": 155.39,
+  "text": "It's basically a swimming tongue.",
+  "words": [
+   [
+    "its",
+    153.68
+   ],
+   [
+    "basically",
+    153.87
+   ],
+   [
+    "a",
+    154.44
+   ],
+   [
+    "swimming",
+    154.5
+   ],
+   [
+    "tongue",
+    155.01
+   ]
+  ]
+ },
+ {
+  "s": 155.94,
+  "e": 157.24,
+  "text": "Now, back to that hook.",
+  "words": [
+   [
+    "now",
+    155.94
+   ],
+   [
+    "back",
+    156.17
+   ],
+   [
+    "to",
+    156.48
+   ],
+   [
+    "that",
+    156.63
+   ],
+   [
+    "hook",
+    156.94
+   ]
+  ]
+ },
+ {
+  "s": 157.79,
+  "e": 160.18,
+  "text": "Your taste cells work in a wet, rough place,",
+  "words": [
+   [
+    "your",
+    157.79
+   ],
+   [
+    "taste",
+    158.07
+   ],
+   [
+    "cells",
+    158.42
+   ],
+   [
+    "work",
+    158.78
+   ],
+   [
+    "in",
+    159.06
+   ],
+   [
+    "a",
+    159.2
+   ],
+   [
+    "wet",
+    159.27
+   ],
+   [
+    "rough",
+    159.48
+   ],
+   [
+    "place",
+    159.83
+   ]
+  ]
+ },
+ {
+  "s": 160.48,
+  "e": 162.41,
+  "text": "getting scraped by crunchy food,",
+  "words": [
+   [
+    "getting",
+    160.48
+   ],
+   [
+    "scraped",
+    160.98
+   ],
+   [
+    "by",
+    161.48
+   ],
+   [
+    "crunchy",
+    161.62
+   ],
+   [
+    "food",
+    162.12
+   ]
+  ]
+ },
+ {
+  "s": 162.71,
+  "e": 164.16,
+  "text": "and burned by hot soup.",
+  "words": [
+   [
+    "and",
+    162.71
+   ],
+   [
+    "burned",
+    162.95
+   ],
+   [
+    "by",
+    163.44
+   ],
+   [
+    "hot",
+    163.6
+   ],
+   [
+    "soup",
+    163.84
+   ]
+  ]
+ },
+ {
+  "s": 164.71,
+  "e": 166.45,
+  "text": "So your body replaces them,",
+  "words": [
+   [
+    "so",
+    164.71
+   ],
+   [
+    "your",
+    164.87
+   ],
+   [
+    "body",
+    165.19
+   ],
+   [
+    "replaces",
+    165.5
+   ],
+   [
+    "them",
+    166.14
+   ]
+  ]
+ },
+ {
+  "s": 166.75,
+  "e": 168.14,
+  "text": "about every ten days.",
+  "words": [
+   [
+    "about",
+    166.75
+   ],
+   [
+    "every",
+    167.16
+   ],
+   [
+    "ten",
+    167.57
+   ],
+   [
+    "days",
+    167.81
+   ]
+  ]
+ },
+ {
+  "s": 168.69,
+  "e": 170.07,
+  "text": "That's why a burned tongue",
+  "words": [
+   [
+    "thats",
+    168.69
+   ],
+   [
+    "why",
+    169.02
+   ],
+   [
+    "a",
+    169.22
+   ],
+   [
+    "burned",
+    169.28
+   ],
+   [
+    "tongue",
+    169.68
+   ]
+  ]
+ },
+ {
+  "s": 170.37,
+  "e": 172.31,
+  "text": "feels normal again so fast.",
+  "words": [
+   [
+    "feels",
+    170.37
+   ],
+   [
+    "normal",
+    170.81
+   ],
+   [
+    "again",
+    171.34
+   ],
+   [
+    "so",
+    171.78
+   ],
+   [
+    "fast",
+    171.96
+   ]
+  ]
+ },
+ {
+  "s": 172.86,
+  "e": 174.03,
+  "text": "Every bite you take,",
+  "words": [
+   [
+    "every",
+    172.86
+   ],
+   [
+    "bite",
+    173.23
+   ],
+   [
+    "you",
+    173.52
+   ],
+   [
+    "take",
+    173.74
+   ]
+  ]
+ },
+ {
+  "s": 174.33,
+  "e": 176.31,
+  "text": "thousands of brand new taste cells",
+  "words": [
+   [
+    "thousands",
+    174.33
+   ],
+   [
+    "of",
+    174.95
+   ],
+   [
+    "brand",
+    175.08
+   ],
+   [
+    "new",
+    175.42
+   ],
+   [
+    "taste",
+    175.63
+   ],
+   [
+    "cells",
+    175.97
+   ]
+  ]
+ },
+ {
+  "s": 176.61,
+  "e": 177.73,
+  "text": "are on the job.",
+  "words": [
+   [
+    "are",
+    176.61
+   ],
+   [
+    "on",
+    176.91
+   ],
+   [
+    "the",
+    177.12
+   ],
+   [
+    "job",
+    177.42
+   ]
+  ]
+ },
+ {
+  "s": 178.28,
+  "e": 180.98,
+  "text": "Next time, why do some people get carsick,",
+  "words": [
+   [
+    "next",
+    178.28
+   ],
+   [
+    "time",
+    178.6
+   ],
+   [
+    "why",
+    178.93
+   ],
+   [
+    "do",
+    179.18
+   ],
+   [
+    "some",
+    179.34
+   ],
+   [
+    "people",
+    179.67
+   ],
+   [
+    "get",
+    180.16
+   ],
+   [
+    "carsick",
+    180.41
+   ]
+  ]
+ },
+ {
+  "s": 181.28,
+  "e": 183.03,
+  "text": "while others feel totally fine?",
+  "words": [
+   [
+    "while",
+    181.28
+   ],
+   [
+    "others",
+    181.62
+   ],
+   [
+    "feel",
+    182.02
+   ],
+   [
+    "totally",
+    182.29
+   ],
+   [
+    "fine",
+    182.76
+   ]
+  ]
+ }
+]
