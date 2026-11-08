@@ -1,0 +1,697 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.85,
+  "text": "You've never seen a flamingo eat right-side up.",
+  "words": [
+   [
+    "youve",
+    0.25
+   ],
+   [
+    "never",
+    0.6
+   ],
+   [
+    "seen",
+    0.95
+   ],
+   [
+    "a",
+    1.23
+   ],
+   [
+    "flamingo",
+    1.3
+   ],
+   [
+    "eat",
+    1.86
+   ],
+   [
+    "rightside",
+    2.07
+   ],
+   [
+    "up",
+    2.7
+   ]
+  ]
+ },
+ {
+  "s": 3.4,
+  "e": 5.4,
+  "text": "It feeds with its head upside down,",
+  "words": [
+   [
+    "it",
+    3.4
+   ],
+   [
+    "feeds",
+    3.54
+   ],
+   [
+    "with",
+    3.9
+   ],
+   [
+    "its",
+    4.18
+   ],
+   [
+    "head",
+    4.4
+   ],
+   [
+    "upside",
+    4.69
+   ],
+   [
+    "down",
+    5.12
+   ]
+  ]
+ },
+ {
+  "s": 5.7,
+  "e": 7.71,
+  "text": "because its beak is built backwards.",
+  "words": [
+   [
+    "because",
+    5.7
+   ],
+   [
+    "its",
+    6.17
+   ],
+   [
+    "beak",
+    6.37
+   ],
+   [
+    "is",
+    6.64
+   ],
+   [
+    "built",
+    6.77
+   ],
+   [
+    "backwards",
+    7.11
+   ]
+  ]
+ },
+ {
+  "s": 8.26,
+  "e": 10.16,
+  "text": "Most birds have a big top beak,",
+  "words": [
+   [
+    "most",
+    8.26
+   ],
+   [
+    "birds",
+    8.58
+   ],
+   [
+    "have",
+    8.97
+   ],
+   [
+    "a",
+    9.29
+   ],
+   [
+    "big",
+    9.37
+   ],
+   [
+    "top",
+    9.61
+   ],
+   [
+    "beak",
+    9.84
+   ]
+  ]
+ },
+ {
+  "s": 10.46,
+  "e": 11.9,
+  "text": "and a smaller bottom one.",
+  "words": [
+   [
+    "and",
+    10.46
+   ],
+   [
+    "a",
+    10.68
+   ],
+   [
+    "smaller",
+    10.75
+   ],
+   [
+    "bottom",
+    11.25
+   ],
+   [
+    "one",
+    11.68
+   ]
+  ]
+ },
+ {
+  "s": 12.45,
+  "e": 14.75,
+  "text": "A flamingo's is the other way round.",
+  "words": [
+   [
+    "a",
+    12.45
+   ],
+   [
+    "flamingos",
+    12.53
+   ],
+   [
+    "is",
+    13.27
+   ],
+   [
+    "the",
+    13.43
+   ],
+   [
+    "other",
+    13.68
+   ],
+   [
+    "way",
+    14.09
+   ],
+   [
+    "round",
+    14.34
+   ]
+  ]
+ },
+ {
+  "s": 15.3,
+  "e": 16.73,
+  "text": "So it flips its head over,",
+  "words": [
+   [
+    "so",
+    15.3
+   ],
+   [
+    "it",
+    15.44
+   ],
+   [
+    "flips",
+    15.59
+   ],
+   [
+    "its",
+    15.94
+   ],
+   [
+    "head",
+    16.16
+   ],
+   [
+    "over",
+    16.44
+   ]
+  ]
+ },
+ {
+  "s": 17.03,
+  "e": 19.8,
+  "text": "and the big lower beak skims the water like a scoop.",
+  "words": [
+   [
+    "and",
+    17.03
+   ],
+   [
+    "the",
+    17.23
+   ],
+   [
+    "big",
+    17.44
+   ],
+   [
+    "lower",
+    17.64
+   ],
+   [
+    "beak",
+    17.98
+   ],
+   [
+    "skims",
+    18.25
+   ],
+   [
+    "the",
+    18.59
+   ],
+   [
+    "water",
+    18.79
+   ],
+   [
+    "like",
+    19.13
+   ],
+   [
+    "a",
+    19.4
+   ],
+   [
+    "scoop",
+    19.46
+   ]
+  ]
+ },
+ {
+  "s": 20.35,
+  "e": 23.77,
+  "text": "Inside, the edges are lined with tiny comb-like plates.",
+  "words": [
+   [
+    "inside",
+    20.35
+   ],
+   [
+    "the",
+    20.82
+   ],
+   [
+    "edges",
+    21.05
+   ],
+   [
+    "are",
+    21.44
+   ],
+   [
+    "lined",
+    21.67
+   ],
+   [
+    "with",
+    22.06
+   ],
+   [
+    "tiny",
+    22.37
+   ],
+   [
+    "comblike",
+    22.68
+   ],
+   [
+    "plates",
+    23.3
+   ]
+  ]
+ },
+ {
+  "s": 24.32,
+  "e": 25.89,
+  "text": "Then the tongue starts pumping,",
+  "words": [
+   [
+    "then",
+    24.32
+   ],
+   [
+    "the",
+    24.56
+   ],
+   [
+    "tongue",
+    24.74
+   ],
+   [
+    "starts",
+    25.1
+   ],
+   [
+    "pumping",
+    25.47
+   ]
+  ]
+ },
+ {
+  "s": 26.19,
+  "e": 28.15,
+  "text": "about four or five times a second,",
+  "words": [
+   [
+    "about",
+    26.19
+   ],
+   [
+    "four",
+    26.55
+   ],
+   [
+    "or",
+    26.84
+   ],
+   [
+    "five",
+    26.99
+   ],
+   [
+    "times",
+    27.28
+   ],
+   [
+    "a",
+    27.64
+   ],
+   [
+    "second",
+    27.71
+   ]
+  ]
+ },
+ {
+  "s": 28.45,
+  "e": 29.64,
+  "text": "like a little piston.",
+  "words": [
+   [
+    "like",
+    28.45
+   ],
+   [
+    "a",
+    28.73
+   ],
+   [
+    "little",
+    28.8
+   ],
+   [
+    "piston",
+    29.22
+   ]
+  ]
+ },
+ {
+  "s": 30.19,
+  "e": 32.14,
+  "text": "Water squirts out through the combs,",
+  "words": [
+   [
+    "water",
+    30.19
+   ],
+   [
+    "squirts",
+    30.52
+   ],
+   [
+    "out",
+    30.97
+   ],
+   [
+    "through",
+    31.17
+   ],
+   [
+    "the",
+    31.62
+   ],
+   [
+    "combs",
+    31.82
+   ]
+  ]
+ },
+ {
+  "s": 32.44,
+  "e": 35.03,
+  "text": "and tiny shrimp and algae get trapped inside.",
+  "words": [
+   [
+    "and",
+    32.44
+   ],
+   [
+    "tiny",
+    32.65
+   ],
+   [
+    "shrimp",
+    32.93
+   ],
+   [
+    "and",
+    33.35
+   ],
+   [
+    "algae",
+    33.56
+   ],
+   [
+    "get",
+    33.91
+   ],
+   [
+    "trapped",
+    34.12
+   ],
+   [
+    "inside",
+    34.61
+   ]
+  ]
+ },
+ {
+  "s": 35.58,
+  "e": 37.53,
+  "text": "Flamingos even stomp in the mud,",
+  "words": [
+   [
+    "flamingos",
+    35.58
+   ],
+   [
+    "even",
+    36.25
+   ],
+   [
+    "stomp",
+    36.55
+   ],
+   [
+    "in",
+    36.93
+   ],
+   [
+    "the",
+    37.08
+   ],
+   [
+    "mud",
+    37.3
+   ]
+  ]
+ },
+ {
+  "s": 37.83,
+  "e": 40.08,
+  "text": "to stir up little whirlpools full of food.",
+  "words": [
+   [
+    "to",
+    37.83
+   ],
+   [
+    "stir",
+    37.96
+   ],
+   [
+    "up",
+    38.23
+   ],
+   [
+    "little",
+    38.36
+   ],
+   [
+    "whirlpools",
+    38.76
+   ],
+   [
+    "full",
+    39.42
+   ],
+   [
+    "of",
+    39.69
+   ],
+   [
+    "food",
+    39.82
+   ]
+  ]
+ },
+ {
+  "s": 40.63,
+  "e": 42.07,
+  "text": "And those shrimp and algae?",
+  "words": [
+   [
+    "and",
+    40.63
+   ],
+   [
+    "those",
+    40.83
+   ],
+   [
+    "shrimp",
+    41.16
+   ],
+   [
+    "and",
+    41.55
+   ],
+   [
+    "algae",
+    41.74
+   ]
+  ]
+ },
+ {
+  "s": 42.62,
+  "e": 44.36,
+  "text": "They're packed with pink pigments.",
+  "words": [
+   [
+    "theyre",
+    42.62
+   ],
+   [
+    "packed",
+    42.99
+   ],
+   [
+    "with",
+    43.37
+   ],
+   [
+    "pink",
+    43.61
+   ],
+   [
+    "pigments",
+    43.86
+   ]
+  ]
+ },
+ {
+  "s": 44.91,
+  "e": 46.75,
+  "text": "That's what turns a flamingo pink.",
+  "words": [
+   [
+    "thats",
+    44.91
+   ],
+   [
+    "what",
+    45.25
+   ],
+   [
+    "turns",
+    45.52
+   ],
+   [
+    "a",
+    45.86
+   ],
+   [
+    "flamingo",
+    45.93
+   ],
+   [
+    "pink",
+    46.48
+   ]
+  ]
+ },
+ {
+  "s": 47.3,
+  "e": 49.04,
+  "text": "So, would you eat upside down,",
+  "words": [
+   [
+    "so",
+    47.3
+   ],
+   [
+    "would",
+    47.45
+   ],
+   [
+    "you",
+    47.83
+   ],
+   [
+    "eat",
+    48.06
+   ],
+   [
+    "upside",
+    48.28
+   ],
+   [
+    "down",
+    48.74
+   ]
+  ]
+ },
+ {
+  "s": 49.34,
+  "e": 50.55,
+  "text": "if it turned you pink?",
+  "words": [
+   [
+    "if",
+    49.34
+   ],
+   [
+    "it",
+    49.48
+   ],
+   [
+    "turned",
+    49.63
+   ],
+   [
+    "you",
+    50.05
+   ],
+   [
+    "pink",
+    50.26
+   ]
+  ]
+ }
+]
