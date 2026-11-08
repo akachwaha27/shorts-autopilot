@@ -1,0 +1,638 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.14,
+  "text": "Every baby tooth you ever lost,",
+  "words": [
+   [
+    "every",
+    0.25
+   ],
+   [
+    "baby",
+    0.63
+   ],
+   [
+    "tooth",
+    0.93
+   ],
+   [
+    "you",
+    1.31
+   ],
+   [
+    "ever",
+    1.54
+   ],
+   [
+    "lost",
+    1.84
+   ]
+  ]
+ },
+ {
+  "s": 2.44,
+  "e": 3.74,
+  "text": "was secretly eaten.",
+  "words": [
+   [
+    "was",
+    2.44
+   ],
+   [
+    "secretly",
+    2.69
+   ],
+   [
+    "eaten",
+    3.34
+   ]
+  ]
+ },
+ {
+  "s": 4.29,
+  "e": 5.04,
+  "text": "By what?",
+  "words": [
+   [
+    "by",
+    4.29
+   ],
+   [
+    "what",
+    4.54
+   ]
+  ]
+ },
+ {
+  "s": 5.59,
+  "e": 7.28,
+  "text": "Kids have twenty baby teeth.",
+  "words": [
+   [
+    "kids",
+    5.59
+   ],
+   [
+    "have",
+    5.88
+   ],
+   [
+    "twenty",
+    6.18
+   ],
+   [
+    "baby",
+    6.62
+   ],
+   [
+    "teeth",
+    6.91
+   ]
+  ]
+ },
+ {
+  "s": 7.83,
+  "e": 9.23,
+  "text": "Adults have thirty-two.",
+  "words": [
+   [
+    "adults",
+    7.83
+   ],
+   [
+    "have",
+    8.27
+   ],
+   [
+    "thirtytwo",
+    8.57
+   ]
+  ]
+ },
+ {
+  "s": 9.78,
+  "e": 12.3,
+  "text": "But a tiny jaw can't fit big adult teeth,",
+  "words": [
+   [
+    "but",
+    9.78
+   ],
+   [
+    "a",
+    10.02
+   ],
+   [
+    "tiny",
+    10.11
+   ],
+   [
+    "jaw",
+    10.43
+   ],
+   [
+    "cant",
+    10.67
+   ],
+   [
+    "fit",
+    11.0
+   ],
+   [
+    "big",
+    11.24
+   ],
+   [
+    "adult",
+    11.49
+   ],
+   [
+    "teeth",
+    11.89
+   ]
+  ]
+ },
+ {
+  "s": 12.6,
+  "e": 13.88,
+  "text": "so the new ones wait,",
+  "words": [
+   [
+    "so",
+    12.6
+   ],
+   [
+    "the",
+    12.76
+   ],
+   [
+    "new",
+    13.0
+   ],
+   [
+    "ones",
+    13.24
+   ],
+   [
+    "wait",
+    13.56
+   ]
+  ]
+ },
+ {
+  "s": 14.18,
+  "e": 15.84,
+  "text": "hidden in the bone underneath.",
+  "words": [
+   [
+    "hidden",
+    14.18
+   ],
+   [
+    "in",
+    14.58
+   ],
+   [
+    "the",
+    14.71
+   ],
+   [
+    "bone",
+    14.91
+   ],
+   [
+    "underneath",
+    15.18
+   ]
+  ]
+ },
+ {
+  "s": 16.39,
+  "e": 17.54,
+  "text": "Around age six,",
+  "words": [
+   [
+    "around",
+    16.39
+   ],
+   [
+    "age",
+    16.97
+   ],
+   [
+    "six",
+    17.25
+   ]
+  ]
+ },
+ {
+  "s": 17.84,
+  "e": 19.6,
+  "text": "an adult tooth starts pushing up.",
+  "words": [
+   [
+    "an",
+    17.84
+   ],
+   [
+    "adult",
+    17.97
+   ],
+   [
+    "tooth",
+    18.29
+   ],
+   [
+    "starts",
+    18.62
+   ],
+   [
+    "pushing",
+    19.01
+   ],
+   [
+    "up",
+    19.47
+   ]
+  ]
+ },
+ {
+  "s": 20.15,
+  "e": 22.14,
+  "text": "That pressure wakes up special cells,",
+  "words": [
+   [
+    "that",
+    20.15
+   ],
+   [
+    "pressure",
+    20.41
+   ],
+   [
+    "wakes",
+    20.92
+   ],
+   [
+    "up",
+    21.24
+   ],
+   [
+    "special",
+    21.37
+   ],
+   [
+    "cells",
+    21.82
+   ]
+  ]
+ },
+ {
+  "s": 22.44,
+  "e": 23.91,
+  "text": "called odontoclasts.",
+  "words": [
+   [
+    "called",
+    22.44
+   ],
+   [
+    "odontoclasts",
+    22.93
+   ]
+  ]
+ },
+ {
+  "s": 24.46,
+  "e": 26.41,
+  "text": "They dissolve the baby tooth's root,",
+  "words": [
+   [
+    "they",
+    24.46
+   ],
+   [
+    "dissolve",
+    24.73
+   ],
+   [
+    "the",
+    25.27
+   ],
+   [
+    "baby",
+    25.47
+   ],
+   [
+    "tooths",
+    25.74
+   ],
+   [
+    "root",
+    26.14
+   ]
+  ]
+ },
+ {
+  "s": 26.71,
+  "e": 27.65,
+  "text": "bit by bit.",
+  "words": [
+   [
+    "bit",
+    26.71
+   ],
+   [
+    "by",
+    27.06
+   ],
+   [
+    "bit",
+    27.29
+   ]
+  ]
+ },
+ {
+  "s": 28.2,
+  "e": 30.21,
+  "text": "No root means nothing holding on,",
+  "words": [
+   [
+    "no",
+    28.2
+   ],
+   [
+    "root",
+    28.34
+   ],
+   [
+    "means",
+    28.64
+   ],
+   [
+    "nothing",
+    29.01
+   ],
+   [
+    "holding",
+    29.54
+   ],
+   [
+    "on",
+    30.06
+   ]
+  ]
+ },
+ {
+  "s": 30.51,
+  "e": 31.54,
+  "text": "so it wobbles,",
+  "words": [
+   [
+    "so",
+    30.51
+   ],
+   [
+    "it",
+    30.69
+   ],
+   [
+    "wobbles",
+    30.88
+   ]
+  ]
+ },
+ {
+  "s": 31.84,
+  "e": 32.8,
+  "text": "and pops out.",
+  "words": [
+   [
+    "and",
+    31.84
+   ],
+   [
+    "pops",
+    32.13
+   ],
+   [
+    "out",
+    32.51
+   ]
+  ]
+ },
+ {
+  "s": 33.35,
+  "e": 35.16,
+  "text": "That's why a lost baby tooth,",
+  "words": [
+   [
+    "thats",
+    33.35
+   ],
+   [
+    "why",
+    33.76
+   ],
+   [
+    "a",
+    34.01
+   ],
+   [
+    "lost",
+    34.09
+   ],
+   [
+    "baby",
+    34.42
+   ],
+   [
+    "tooth",
+    34.75
+   ]
+  ]
+ },
+ {
+  "s": 35.46,
+  "e": 37.22,
+  "text": "looks like it has no root at all.",
+  "words": [
+   [
+    "looks",
+    35.46
+   ],
+   [
+    "like",
+    35.81
+   ],
+   [
+    "it",
+    36.09
+   ],
+   [
+    "has",
+    36.24
+   ],
+   [
+    "no",
+    36.45
+   ],
+   [
+    "root",
+    36.59
+   ],
+   [
+    "at",
+    36.87
+   ],
+   [
+    "all",
+    37.01
+   ]
+  ]
+ },
+ {
+  "s": 37.77,
+  "e": 38.76,
+  "text": "It got eaten.",
+  "words": [
+   [
+    "it",
+    37.77
+   ],
+   [
+    "got",
+    37.97
+   ],
+   [
+    "eaten",
+    38.27
+   ]
+  ]
+ },
+ {
+  "s": 39.31,
+  "e": 41.51,
+  "text": "Then the adult tooth slides into the gap.",
+  "words": [
+   [
+    "then",
+    39.31
+   ],
+   [
+    "the",
+    39.58
+   ],
+   [
+    "adult",
+    39.78
+   ],
+   [
+    "tooth",
+    40.11
+   ],
+   [
+    "slides",
+    40.45
+   ],
+   [
+    "into",
+    40.85
+   ],
+   [
+    "the",
+    41.11
+   ],
+   [
+    "gap",
+    41.31
+   ]
+  ]
+ },
+ {
+  "s": 42.06,
+  "e": 43.42,
+  "text": "By about age twelve,",
+  "words": [
+   [
+    "by",
+    42.06
+   ],
+   [
+    "about",
+    42.23
+   ],
+   [
+    "age",
+    42.66
+   ],
+   [
+    "twelve",
+    42.91
+   ]
+  ]
+ },
+ {
+  "s": 43.72,
+  "e": 45.36,
+  "text": "most baby teeth are gone.",
+  "words": [
+   [
+    "most",
+    43.72
+   ],
+   [
+    "baby",
+    44.05
+   ],
+   [
+    "teeth",
+    44.37
+   ],
+   [
+    "are",
+    44.78
+   ],
+   [
+    "gone",
+    45.03
+   ]
+  ]
+ },
+ {
+  "s": 45.91,
+  "e": 47.9,
+  "text": "So which of yours got eaten first?",
+  "words": [
+   [
+    "so",
+    45.91
+   ],
+   [
+    "which",
+    46.06
+   ],
+   [
+    "of",
+    46.43
+   ],
+   [
+    "yours",
+    46.57
+   ],
+   [
+    "got",
+    46.94
+   ],
+   [
+    "eaten",
+    47.16
+   ],
+   [
+    "first",
+    47.53
+   ]
+  ]
+ }
+]
