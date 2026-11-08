@@ -378,98 +378,6 @@
     }
   },
   "videos": {
-    "2026-11-02-101": {
-      "topic": {
-        "title": "Why does your stomach growl?",
-        "format": "animated",
-        "angle": "Kawaii Anime"
-      },
-      "package": {
-        "title": "Why Your Stomach Growls Every 2 Hours",
-        "description": "Why does your stomach growl, and why is it loudest when it's empty? Your gut is a muscle tube that squeezes food, liquid and gas along in waves (peristalsis); when it's empty there's nothing to muffle the sound, and every one to two hours a cleaning wave sweeps leftovers and bacteria down the gut, rumbling for 10 to 20 minutes until you eat.\n\nSources:\nhttps://www.scientificamerican.com/article/why-does-your-stomach-gro/\nhttps://www.livescience.com/health/food-diet/why-do-our-stomachs-growl\n\nAnimated in the Kawaii Anime style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#stomach",
-          "#humanbody",
-          "#science"
-        ],
-        "tags": [
-          "why does my stomach growl",
-          "stomach growling",
-          "stomach rumbling",
-          "borborygmi",
-          "peristalsis",
-          "migrating motor complex",
-          "why is my stomach so loud",
-          "hunger",
-          "digestion explained",
-          "human body facts",
-          "science explained",
-          "body science",
-          "zorbly ai",
-          "kawaii animation"
-        ],
-        "category": "27",
-        "pinned_comment": "When did your stomach growl at the WORST possible moment? Exam, meeting, silent library?",
-        "thumbnail_text": "GUT CLEANUP",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "Your empty stomach growls every two hours until you eat. But why won't it stop? Your gut is one long muscle tube, and its walls squeeze in waves. That's called peristalsis. They push food, liquid and gas along, about three squeezes a minute in your stomach. After a meal, food muffles the sound. But empty? It's mostly gas and air, so every squeeze echoes like a drum. When you've been empty a while, a big cleaning wave kicks in. It sweeps leftover food and bacteria down the whole gut. It rumbles for ten to twenty minutes, then comes back every one to two hours, until you eat again. The ancient Greeks called it borborygmi, which means rumbling. So that growl isn't just hunger. It's your gut taking out the trash. When did your stomach growl at the worst moment?",
-        "key_facts": [
-          "Stomach and gut noises are called borborygmi, an ancient Greek word that means rumbling (Scientific American).",
-          "Peristalsis: wave-like muscle contractions push food, liquid and gas through the stomach and small intestine; the basic rhythm is about 3 waves a minute in the stomach (Scientific American, Live Science).",
-          "Growling is louder when the stomach and intestines are empty because there's no food to muffle it; the tract is mostly gas and air (both sources).",
-          "After about two hours empty, cleaning waves (migrating motor complexes) start, last 10-20 minutes, and repeat every one to two hours until you eat, sweeping leftover food, mucus and bacteria along (Scientific American).",
-          "It can happen on an empty or a full stomach (both sources)."
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Kawaii Anime"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261102-stomach-growl",
-      "redos": 0,
-      "updated": "2026-11-02T09:56:49.972488+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-02",
-        "name": "2026-11-02-101.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-02",
-        "name": "2026-11-02-101-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:03,740\nYour empty stomach growls every two hours until you eat.\n\n2\n00:00:04,290 --> 00:00:05,510\nBut why won't it stop?\n\n3\n00:00:06,060 --> 00:00:08,090\nYour gut is one long muscle tube,\n\n4\n00:00:08,390 --> 00:00:10,280\nand its walls squeeze in waves.\n\n5\n00:00:10,830 --> 00:00:12,350\nThat's called peristalsis.\n\n6\n00:00:12,900 --> 00:00:15,340\nThey push food, liquid and gas along,\n\n7\n00:00:15,640 --> 00:00:18,040\nabout three squeezes a minute in your stomach.\n\n8\n00:00:18,590 --> 00:00:20,890\nAfter a meal, food muffles the sound.\n\n9\n00:00:21,440 --> 00:00:23,830\nBut empty? It's mostly gas and air,\n\n10\n00:00:24,130 --> 00:00:26,380\nso every squeeze echoes like a drum.\n\n11\n00:00:26,930 --> 00:00:28,540\nWhen you've been empty a while,\n\n12\n00:00:28,840 --> 00:00:30,510\na big cleaning wave kicks in.\n\n13\n00:00:31,060 --> 00:00:33,240\nIt sweeps leftover food and bacteria\n\n14\n00:00:33,540 --> 00:00:34,680\ndown the whole gut.\n\n15\n00:00:35,230 --> 00:00:37,280\nIt rumbles for ten to twenty minutes,\n\n16\n00:00:37,580 --> 00:00:39,940\nthen comes back every one to two hours,\n\n17\n00:00:40,240 --> 00:00:41,480\nuntil you eat again.\n\n18\n00:00:42,030 --> 00:00:44,190\nThe ancient Greeks called it borborygmi,\n\n19\n00:00:44,490 --> 00:00:45,700\nwhich means rumbling.\n\n20\n00:00:46,250 --> 00:00:48,140\nSo that growl isn't just hunger.\n\n21\n00:00:48,690 --> 00:00:50,520\nIt's your gut taking out the trash.\n\n22\n00:00:51,070 --> 00:00:53,460\nWhen did your stomach growl at the worst moment?\n\n",
-      "tg_msg": 985,
-      "approved_by": "auto",
-      "description_full": "Why does your stomach growl, and why is it loudest when it's empty? Your gut is a muscle tube that squeezes food, liquid and gas along in waves (peristalsis); when it's empty there's nothing to muffle the sound, and every one to two hours a cleaning wave sweeps leftovers and bacteria down the gut, rumbling for 10 to 20 minutes until you eat.\n\nSources:\nhttps://www.scientificamerican.com/article/why-does-your-stomach-gro/\nhttps://www.livescience.com/health/food-diet/why-do-our-stomachs-growl\n\nAnimated in the Kawaii Anime style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #stomach #humanbody #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/-BGGq0oe2Yc",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-11-02T09:56:49.972506+00:00",
-      "slot": "2026-11-06T20:15:00+00:00"
-    },
     "2026-11-02-102": {
       "topic": {
         "title": "Why do cats' eyes glow in the dark?",
@@ -3105,12 +3013,12 @@
         "format": "animated",
         "style": "Low-Poly Faceted"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261108-flamingo-upside-down",
       "redos": 0,
-      "updated": "2026-11-08T04:32:39.004606+00:00",
+      "updated": "2026-11-08T11:30:31.844890+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Low-Poly Faceted style). Voice: Kokoro text-to-speech."
       ],
@@ -3125,7 +3033,98 @@
         "name": "2026-11-08-101-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:02,850\nYou've never seen a flamingo eat right-side up.\n\n2\n00:00:03,400 --> 00:00:05,400\nIt feeds with its head upside down,\n\n3\n00:00:05,700 --> 00:00:07,710\nbecause its beak is built backwards.\n\n4\n00:00:08,260 --> 00:00:10,160\nMost birds have a big top beak,\n\n5\n00:00:10,460 --> 00:00:11,900\nand a smaller bottom one.\n\n6\n00:00:12,450 --> 00:00:14,750\nA flamingo's is the other way round.\n\n7\n00:00:15,300 --> 00:00:16,730\nSo it flips its head over,\n\n8\n00:00:17,030 --> 00:00:19,800\nand the big lower beak skims the water like a scoop.\n\n9\n00:00:20,350 --> 00:00:23,770\nInside, the edges are lined with tiny comb-like plates.\n\n10\n00:00:24,320 --> 00:00:25,890\nThen the tongue starts pumping,\n\n11\n00:00:26,190 --> 00:00:28,150\nabout four or five times a second,\n\n12\n00:00:28,450 --> 00:00:29,640\nlike a little piston.\n\n13\n00:00:30,190 --> 00:00:32,140\nWater squirts out through the combs,\n\n14\n00:00:32,440 --> 00:00:35,030\nand tiny shrimp and algae get trapped inside.\n\n15\n00:00:35,580 --> 00:00:37,530\nFlamingos even stomp in the mud,\n\n16\n00:00:37,830 --> 00:00:40,080\nto stir up little whirlpools full of food.\n\n17\n00:00:40,630 --> 00:00:42,070\nAnd those shrimp and algae?\n\n18\n00:00:42,620 --> 00:00:44,360\nThey're packed with pink pigments.\n\n19\n00:00:44,910 --> 00:00:46,750\nThat's what turns a flamingo pink.\n\n20\n00:00:47,300 --> 00:00:49,040\nSo, would you eat upside down,\n\n21\n00:00:49,340 --> 00:00:50,550\nif it turned you pink?\n\n",
-      "tg_msg": 1057
+      "tg_msg": 1057,
+      "approved_by": "auto",
+      "description_full": "Why do flamingos eat with their heads upside down? Their beak is built backwards: a big lower jaw, comb-like plates that sieve water, and a tongue that pumps like a piston to trap shrimp and algae.\n\nSources:\nhttps://web.stanford.edu/group/stanfordbirds/text/essays/Flamingo_Feeding.html\nhttps://ielc.libguides.com/sdzg/factsheets/americanflamingo/diet\nhttps://seaworld.org/animals/all-about/flamingos/diet/\n\nAnimated in the Low-Poly Faceted style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #flamingo #animalfacts #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Low-Poly Faceted style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/mKZRpblS4dA",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-08T11:30:31.844907+00:00",
+      "slot": "2026-11-14T02:15:00+00:00"
+    },
+    "2026-11-08-102": {
+      "topic": {
+        "title": "Why do your baby teeth fall out?",
+        "format": "animated",
+        "angle": "Flat-Vector Science"
+      },
+      "package": {
+        "title": "Why Do Your Baby Teeth Fall Out? \ud83e\uddb7",
+        "description": "Why do baby teeth fall out? The adult tooth growing underneath triggers cells called odontoclasts that dissolve the baby tooth's root, so it wobbles loose and falls out with almost no root left.\n\nSources:\nhttps://health.clevelandclinic.org/when-do-kids-start-losing-teeth\nhttps://www.colgate.com/en-us/oral-health/kids-oral-care/when-do-baby-teeth-fall-out\nhttps://www.newmouth.com/oral-health/deciduous-teeth/\n\nAnimated in the Flat-Vector Science style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#humanbody",
+          "#science",
+          "#teeth"
+        ],
+        "tags": [
+          "why do baby teeth fall out",
+          "baby teeth",
+          "losing baby teeth",
+          "adult teeth",
+          "odontoclasts",
+          "root resorption",
+          "how teeth grow",
+          "human body facts",
+          "science explained",
+          "biology for kids",
+          "tooth fairy science",
+          "animated explainer",
+          "zorbly ai"
+        ],
+        "category": "27",
+        "pinned_comment": "Which baby tooth did you lose first: a front one on the bottom, like most kids, or something else?",
+        "thumbnail_text": "EATEN?!",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "Every baby tooth you ever lost,\nwas secretly eaten.\nBy what?\nKids have twenty baby teeth.\nAdults have thirty-two.\nBut a tiny jaw can't fit big adult teeth,\nso the new ones wait,\nhidden in the bone underneath.\nAround age six,\nan adult tooth starts pushing up.\nThat pressure wakes up special cells,\ncalled odontoclasts.\nThey dissolve the baby tooth's root,\nbit by bit.\nNo root means nothing holding on,\nso it wobbles,\nand pops out.\nThat's why a lost baby tooth,\nlooks like it has no root at all.\nIt got eaten.\nThen the adult tooth slides into the gap.\nBy about age twelve,\nmost baby teeth are gone.\nSo which of yours got eaten first?",
+        "key_facts": [
+          "Children have 20 baby (primary) teeth; adults have 32 permanent teeth",
+          "Permanent teeth develop in the jawbone beneath the baby teeth",
+          "Pressure from the erupting adult tooth activates odontoclasts that resorb the baby tooth's root",
+          "With its root resorbed, the baby tooth loosens and falls out, usually starting around age 6",
+          "Most baby teeth are lost by about age 12"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Flat-Vector Science"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261108-baby-teeth",
+      "redos": 0,
+      "updated": "2026-11-08T11:30:21.950176+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-08",
+        "name": "2026-11-08-102.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-08",
+        "name": "2026-11-08-102-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:02,140\nEvery baby tooth you ever lost,\n\n2\n00:00:02,440 --> 00:00:03,740\nwas secretly eaten.\n\n3\n00:00:04,290 --> 00:00:05,040\nBy what?\n\n4\n00:00:05,590 --> 00:00:07,280\nKids have twenty baby teeth.\n\n5\n00:00:07,830 --> 00:00:09,230\nAdults have thirty-two.\n\n6\n00:00:09,780 --> 00:00:12,300\nBut a tiny jaw can't fit big adult teeth,\n\n7\n00:00:12,600 --> 00:00:13,880\nso the new ones wait,\n\n8\n00:00:14,180 --> 00:00:15,840\nhidden in the bone underneath.\n\n9\n00:00:16,390 --> 00:00:17,540\nAround age six,\n\n10\n00:00:17,840 --> 00:00:19,600\nan adult tooth starts pushing up.\n\n11\n00:00:20,150 --> 00:00:22,140\nThat pressure wakes up special cells,\n\n12\n00:00:22,440 --> 00:00:23,910\ncalled odontoclasts.\n\n13\n00:00:24,460 --> 00:00:26,410\nThey dissolve the baby tooth's root,\n\n14\n00:00:26,710 --> 00:00:27,650\nbit by bit.\n\n15\n00:00:28,200 --> 00:00:30,210\nNo root means nothing holding on,\n\n16\n00:00:30,510 --> 00:00:31,540\nso it wobbles,\n\n17\n00:00:31,840 --> 00:00:32,800\nand pops out.\n\n18\n00:00:33,350 --> 00:00:35,160\nThat's why a lost baby tooth,\n\n19\n00:00:35,460 --> 00:00:37,220\nlooks like it has no root at all.\n\n20\n00:00:37,770 --> 00:00:38,760\nIt got eaten.\n\n21\n00:00:39,310 --> 00:00:41,510\nThen the adult tooth slides into the gap.\n\n22\n00:00:42,060 --> 00:00:43,420\nBy about age twelve,\n\n23\n00:00:43,720 --> 00:00:45,360\nmost baby teeth are gone.\n\n24\n00:00:45,910 --> 00:00:47,900\nSo which of yours got eaten first?\n\n",
+      "tg_msg": 1058
     }
   },
   "history": [
@@ -3215,7 +3214,7 @@
   "visual_searches": {
     "2026-10-25": 3
   },
-  "signals_day": "2026-11-07",
+  "signals_day": "2026-11-08",
   "drops_done": {
     "drop/20261025-autumn-leaves": "2026-10-25-101",
     "drop/20261025-roman-hypocaust": "2026-10-25-102",
@@ -3287,7 +3286,8 @@
     "drop/20261107-croc-jaws": "2026-11-07-103",
     "drop/20261107-panda-bamboo": "2026-11-07-104",
     "drop/20261107-bird-perch": "2026-11-07-105",
-    "drop/20261108-flamingo-upside-down": "2026-11-08-101"
+    "drop/20261108-flamingo-upside-down": "2026-11-08-101",
+    "drop/20261108-baby-teeth": "2026-11-08-102"
   },
   "refs_day": "2026-11-08"
 }
