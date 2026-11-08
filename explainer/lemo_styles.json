@@ -1,0 +1,18 @@
+{
+ "_about": "Lemo-Opuscar film styles (github.com/lemomo-ai/lemo-opuscar, MIT) added to the explainer rotation on 2026-11-08. Each key is the style name used in log.json; slug is the folder under styles/ in that repo; lane says which topics it suits best. Only 2D-canvas styles that need no real footage and don't duplicate an AI Style Atlas style are listed. Edit freely: remove a line to drop a style, set share to change how often Lemo styles are picked.",
+ "share": 0.5,
+ "styles": {
+  "Whiteboard Explainer": {"slug": "whiteboard", "lane": "body, how-it-works, numbers"},
+  "Copperplate Engraving": {"slug": "engraving", "lane": "animals, nature, ancient tech"},
+  "Watercolor Brush": {"slug": "watercolor", "lane": "animals, nature, food"},
+  "Isometric Picture Book": {"slug": "isometric-picture-book", "lane": "everyday rules, food, how-it-works"},
+  "Isometric Infographic": {"slug": "iso-infographic", "lane": "how-it-is-made, machines, food"},
+  "Mid-century Cartoon": {"slug": "midcentury-toon", "lane": "body, everyday how-to, food"},
+  "1930s Rubber Hose Cartoon": {"slug": "rubber-hose", "lane": "food, funny, everyday objects"},
+  "Halftone Dossier": {"slug": "halftone-dossier", "lane": "funny, animals, food mysteries"},
+  "Pictogram Motion": {"slug": "pictogram-motion", "lane": "numbers, everyday objects, travel"},
+  "Brick Toy": {"slug": "brick-toy", "lane": "machines, how-it-is-made, ancient tech"},
+  "One-line Drawing": {"slug": "one-line", "lane": "animals, body, life cycles"},
+  "Data Storytelling": {"slug": "dataviz", "lane": "numbers, body, nature"}
+ }
+}

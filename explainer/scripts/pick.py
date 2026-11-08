@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Pick the next topic from the explainer topic sheet and a style for it, avoiding the styles of the last few videos.
 
-usage: python3 scripts/pick.py short|long          -> prints JSON {topic row, style, template, shell, size, recent_topics}
+usage: python3 scripts/pick.py short|long [--lemo|--atlas]  -> prints JSON {topic row, style, template, shell, size, recent_topics}
        python3 scripts/pick.py --done <row id> <video id>   -> marks that sheet row as made
 The topic sheet is explainer/topics/queue.csv (explainer topics only, short and long; Ashu can edit it on GitHub).
 Reads explainer/log.json (one row per video made, newest last).
@@ -25,6 +25,12 @@ STYLES = {  # style -> template file (templates/*.txt live in the Explainer Tool
     "Napkin Sketch": "napkin-sketch.txt",
     "Flat-Vector Science": "flat-vector-science-vertical.md",
 }
+# AK_ Lemo-Opuscar styles (MIT, github.com/lemomo-ai/lemo-opuscar): style guide = styles/<slug>/STYLE.md in that repo
+LEMO_FILE = os.path.join(HERE, "lemo_styles.json")
+LEMO_CFG = json.load(open(LEMO_FILE)) if os.path.exists(LEMO_FILE) else {"share": 0, "styles": {}}
+LEMO = LEMO_CFG.get("styles", {})
+LEMO_SHARE = float(LEMO_CFG.get("share", 0.5))
+ALL_STYLES = list(STYLES) + list(LEMO)
 
 
 QUEUE = os.path.join(HERE, "topics", "queue.csv")
@@ -60,14 +66,24 @@ def main():
     ready.sort(key=lambda r: not r.get("inspired_by"))  # rows built from what is breaking out go first
     row = ready[0] if ready else None
     recent = [r.get("style") for r in log[-4:]]
-    wanted = [s for s in (row["styles"].split("|") if row and row.get("styles") else []) if s in STYLES]
-    pool = [s for s in wanted if s not in recent] or [s for s in STYLES if s not in recent] or list(STYLES)
-    style = random.SystemRandom().choice(pool)
+    rng = random.SystemRandom()
+    wanted = [s for s in (row["styles"].split("|") if row and row.get("styles") else []) if s in ALL_STYLES]
+    # AK_ pick the source first (Lemo with probability LEMO_SHARE), then a style from it; the row's own styles
+    # narrow the choice only within that source, so older rows that list Atlas styles still get Lemo turns
+    source_pool = list(LEMO) if (LEMO and rng.random() < LEMO_SHARE) else list(STYLES)
+    if len(sys.argv) > 2 and sys.argv[2] in ("--lemo", "--atlas"):  # AK_ force a source (for tests)
+        source_pool = list(LEMO) if sys.argv[2] == "--lemo" else list(STYLES)
+    wanted = [s for s in wanted if s in source_pool]
+    pool = [s for s in wanted if s not in recent] or [s for s in source_pool if s not in recent] or source_pool
+    style = rng.choice(pool)
+    lemo = LEMO.get(style)
     vertical = kind != "long"
     print(json.dumps({
         "kind": kind, "topic_row": row, "ready_left": len(ready),
         "trend_rows_ready": sum(1 for r in ready if r.get("inspired_by")),
-        "style": style, "template": f"templates/{STYLES[style]}",
+        "style": style, "source": "lemo" if lemo else "atlas",
+        "template": f"lemo-opuscar/styles/{lemo['slug']}/STYLE.md" if lemo else f"templates/{STYLES[style]}",
+        "lemo_slug": lemo["slug"] if lemo else None, "lemo_lane": lemo["lane"] if lemo else None,
         "shell": "examples/ice-in-the-desert/shell-9x16.html" if vertical else "examples/ice-in-the-desert/shell-16x9.html",
         "size": [1080, 1920] if vertical else [1280, 720],
         "recent_topics": [r.get("topic") for r in log[-60:]],

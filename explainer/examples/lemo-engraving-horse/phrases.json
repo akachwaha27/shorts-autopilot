@@ -1,0 +1,713 @@
+[
+ {
+  "s": 0.25,
+  "e": 1.9,
+  "text": "You'd topple in seconds,",
+  "words": [
+   [
+    "youd",
+    0.25
+   ],
+   [
+    "topple",
+    0.6
+   ],
+   [
+    "in",
+    1.12
+   ],
+   [
+    "seconds",
+    1.29
+   ]
+  ]
+ },
+ {
+  "s": 2.2,
+  "e": 5.61,
+  "text": "but a 500-kilo horse sleeps standing for hours.",
+  "words": [
+   [
+    "but",
+    2.2
+   ],
+   [
+    "a",
+    2.47
+   ],
+   [
+    "500kilo",
+    2.56
+   ],
+   [
+    "horse",
+    3.19
+   ],
+   [
+    "sleeps",
+    3.63
+   ],
+   [
+    "standing",
+    4.17
+   ],
+   [
+    "for",
+    4.89
+   ],
+   [
+    "hours",
+    5.16
+   ]
+  ]
+ },
+ {
+  "s": 6.16,
+  "e": 7.8,
+  "text": "The secret is a lock,",
+  "words": [
+   [
+    "the",
+    6.16
+   ],
+   [
+    "secret",
+    6.47
+   ],
+   [
+    "is",
+    7.08
+   ],
+   [
+    "a",
+    7.29
+   ],
+   [
+    "lock",
+    7.39
+   ]
+  ]
+ },
+ {
+  "s": 8.1,
+  "e": 9.85,
+  "text": "built right into its legs.",
+  "words": [
+   [
+    "built",
+    8.1
+   ],
+   [
+    "right",
+    8.51
+   ],
+   [
+    "into",
+    8.93
+   ],
+   [
+    "its",
+    9.27
+   ],
+   [
+    "legs",
+    9.52
+   ]
+  ]
+ },
+ {
+  "s": 10.4,
+  "e": 12.24,
+  "text": "It's called the stay apparatus,",
+  "words": [
+   [
+    "its",
+    10.4
+   ],
+   [
+    "called",
+    10.62
+   ],
+   [
+    "the",
+    11.06
+   ],
+   [
+    "stay",
+    11.28
+   ],
+   [
+    "apparatus",
+    11.58
+   ]
+  ]
+ },
+ {
+  "s": 12.54,
+  "e": 14.66,
+  "text": "a web of tendons and ligaments",
+  "words": [
+   [
+    "a",
+    12.54
+   ],
+   [
+    "web",
+    12.62
+   ],
+   [
+    "of",
+    12.88
+   ],
+   [
+    "tendons",
+    13.05
+   ],
+   [
+    "and",
+    13.64
+   ],
+   [
+    "ligaments",
+    13.9
+   ]
+  ]
+ },
+ {
+  "s": 14.96,
+  "e": 16.69,
+  "text": "that holds the joints straight",
+  "words": [
+   [
+    "that",
+    14.96
+   ],
+   [
+    "holds",
+    15.23
+   ],
+   [
+    "the",
+    15.56
+   ],
+   [
+    "joints",
+    15.76
+   ],
+   [
+    "straight",
+    16.16
+   ]
+  ]
+ },
+ {
+  "s": 16.99,
+  "e": 18.86,
+  "text": "with almost no muscle effort.",
+  "words": [
+   [
+    "with",
+    16.99
+   ],
+   [
+    "almost",
+    17.3
+   ],
+   [
+    "no",
+    17.77
+   ],
+   [
+    "muscle",
+    17.93
+   ],
+   [
+    "effort",
+    18.39
+   ]
+  ]
+ },
+ {
+  "s": 19.41,
+  "e": 21.42,
+  "text": "The back leg is even cleverer.",
+  "words": [
+   [
+    "the",
+    19.41
+   ],
+   [
+    "back",
+    19.66
+   ],
+   [
+    "leg",
+    19.99
+   ],
+   [
+    "is",
+    20.25
+   ],
+   [
+    "even",
+    20.42
+   ],
+   [
+    "cleverer",
+    20.75
+   ]
+  ]
+ },
+ {
+  "s": 21.97,
+  "e": 23.44,
+  "text": "The kneecap slides up",
+  "words": [
+   [
+    "the",
+    21.97
+   ],
+   [
+    "kneecap",
+    22.22
+   ],
+   [
+    "slides",
+    22.79
+   ],
+   [
+    "up",
+    23.28
+   ]
+  ]
+ },
+ {
+  "s": 23.74,
+  "e": 26.07,
+  "text": "and hooks over a ridge on the thighbone,",
+  "words": [
+   [
+    "and",
+    23.74
+   ],
+   [
+    "hooks",
+    23.96
+   ],
+   [
+    "over",
+    24.33
+   ],
+   [
+    "a",
+    24.62
+   ],
+   [
+    "ridge",
+    24.69
+   ],
+   [
+    "on",
+    25.05
+   ],
+   [
+    "the",
+    25.2
+   ],
+   [
+    "thighbone",
+    25.41
+   ]
+  ]
+ },
+ {
+  "s": 26.37,
+  "e": 27.69,
+  "text": "so the leg locks",
+  "words": [
+   [
+    "so",
+    26.37
+   ],
+   [
+    "the",
+    26.57
+   ],
+   [
+    "leg",
+    26.88
+   ],
+   [
+    "locks",
+    27.18
+   ]
+  ]
+ },
+ {
+  "s": 27.99,
+  "e": 29.16,
+  "text": "like a kickstand.",
+  "words": [
+   [
+    "like",
+    27.99
+   ],
+   [
+    "a",
+    28.33
+   ],
+   [
+    "kickstand",
+    28.41
+   ]
+  ]
+ },
+ {
+  "s": 29.71,
+  "e": 31.73,
+  "text": "The horse leans on that leg,",
+  "words": [
+   [
+    "the",
+    29.71
+   ],
+   [
+    "horse",
+    29.99
+   ],
+   [
+    "leans",
+    30.44
+   ],
+   [
+    "on",
+    30.9
+   ],
+   [
+    "that",
+    31.09
+   ],
+   [
+    "leg",
+    31.45
+   ]
+  ]
+ },
+ {
+  "s": 32.03,
+  "e": 33.32,
+  "text": "tips the other hoof,",
+  "words": [
+   [
+    "tips",
+    32.03
+   ],
+   [
+    "the",
+    32.35
+   ],
+   [
+    "other",
+    32.59
+   ],
+   [
+    "hoof",
+    33.0
+   ]
+  ]
+ },
+ {
+  "s": 33.62,
+  "e": 34.58,
+  "text": "and dozes.",
+  "words": [
+   [
+    "and",
+    33.62
+   ],
+   [
+    "dozes",
+    33.98
+   ]
+  ]
+ },
+ {
+  "s": 35.13,
+  "e": 36.58,
+  "text": "If a predator shows up,",
+  "words": [
+   [
+    "if",
+    35.13
+   ],
+   [
+    "a",
+    35.29
+   ],
+   [
+    "predator",
+    35.37
+   ],
+   [
+    "shows",
+    36.02
+   ],
+   [
+    "up",
+    36.42
+   ]
+  ]
+ },
+ {
+  "s": 36.88,
+  "e": 38.5,
+  "text": "it's already on its feet.",
+  "words": [
+   [
+    "its",
+    36.88
+   ],
+   [
+    "already",
+    37.14
+   ],
+   [
+    "on",
+    37.73
+   ],
+   [
+    "its",
+    37.9
+   ],
+   [
+    "feet",
+    38.16
+   ]
+  ]
+ },
+ {
+  "s": 39.05,
+  "e": 40.69,
+  "text": "But that's only light sleep.",
+  "words": [
+   [
+    "but",
+    39.05
+   ],
+   [
+    "thats",
+    39.27
+   ],
+   [
+    "only",
+    39.64
+   ],
+   [
+    "light",
+    39.94
+   ],
+   [
+    "sleep",
+    40.32
+   ]
+  ]
+ },
+ {
+  "s": 41.24,
+  "e": 42.07,
+  "text": "To dream,",
+  "words": [
+   [
+    "to",
+    41.24
+   ],
+   [
+    "dream",
+    41.48
+   ]
+  ]
+ },
+ {
+  "s": 42.37,
+  "e": 44.18,
+  "text": "a horse has to lie down,",
+  "words": [
+   [
+    "a",
+    42.37
+   ],
+   [
+    "horse",
+    42.47
+   ],
+   [
+    "has",
+    42.97
+   ],
+   [
+    "to",
+    43.28
+   ],
+   [
+    "lie",
+    43.48
+   ],
+   [
+    "down",
+    43.78
+   ]
+  ]
+ },
+ {
+  "s": 44.48,
+  "e": 46.99,
+  "text": "because its muscles go totally slack.",
+  "words": [
+   [
+    "because",
+    44.48
+   ],
+   [
+    "its",
+    45.05
+   ],
+   [
+    "muscles",
+    45.29
+   ],
+   [
+    "go",
+    45.86
+   ],
+   [
+    "totally",
+    46.02
+   ],
+   [
+    "slack",
+    46.59
+   ]
+  ]
+ },
+ {
+  "s": 47.54,
+  "e": 49.84,
+  "text": "It needs about half an hour of that a day.",
+  "words": [
+   [
+    "it",
+    47.54
+   ],
+   [
+    "needs",
+    47.68
+   ],
+   [
+    "about",
+    48.04
+   ],
+   [
+    "half",
+    48.4
+   ],
+   [
+    "an",
+    48.69
+   ],
+   [
+    "hour",
+    48.83
+   ],
+   [
+    "of",
+    49.12
+   ],
+   [
+    "that",
+    49.26
+   ],
+   [
+    "a",
+    49.55
+   ],
+   [
+    "day",
+    49.62
+   ]
+  ]
+ },
+ {
+  "s": 50.39,
+  "e": 52.7,
+  "text": "So would you rather lie down to dream,",
+  "words": [
+   [
+    "so",
+    50.39
+   ],
+   [
+    "would",
+    50.54
+   ],
+   [
+    "you",
+    50.93
+   ],
+   [
+    "rather",
+    51.16
+   ],
+   [
+    "lie",
+    51.62
+   ],
+   [
+    "down",
+    51.85
+   ],
+   [
+    "to",
+    52.16
+   ],
+   [
+    "dream",
+    52.32
+   ]
+  ]
+ },
+ {
+  "s": 53.0,
+  "e": 55.32,
+  "text": "or sleep standing up, like a horse?",
+  "words": [
+   [
+    "or",
+    53.0
+   ],
+   [
+    "sleep",
+    53.17
+   ],
+   [
+    "standing",
+    53.6
+   ],
+   [
+    "up",
+    54.29
+   ],
+   [
+    "like",
+    54.46
+   ],
+   [
+    "a",
+    54.81
+   ],
+   [
+    "horse",
+    54.89
+   ]
+  ]
+ }
+]

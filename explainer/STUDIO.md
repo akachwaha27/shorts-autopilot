@@ -34,6 +34,43 @@ last 4 styles), its template, shell and canvas size, and the topics made recentl
 (`MY CONTENT` / `MY VOICEOVER TIMING` are the slots, the `REFERENCE STYLE SOURCE` is the style guide; the H library and
 sound kit are the files in `lib/`).
 
+### 1b. Lemo-Opuscar styles (added Nov 8)
+About half the picks (`share` in `explainer/lemo_styles.json`) come from **Lemo-Opuscar**
+(github.com/lemomo-ai/lemo-opuscar, MIT): 12 film styles such as Whiteboard Explainer, Copperplate Engraving, Watercolor
+Brush, Isometric Infographic, Mid-century Cartoon, Halftone Dossier and Brick Toy. pick.py then prints
+`"source": "lemo"`, `lemo_slug`, and `lemo_lane` (the topics it suits). For those runs:
+```bash
+LEMO_OPUSCAR_HOME=/home/claude/lemo-opuscar sh -c 'git clone -q --depth 1 --filter=blob:none --sparse https://github.com/lemomo-ai/lemo-opuscar "$LEMO_OPUSCAR_HOME" 2>/dev/null; cd "$LEMO_OPUSCAR_HOME" && sh plugin/skills/lemo-opuscar/scripts/setup.sh demo <lemo_slug>'
+```
+- **The style guide is `styles/<slug>/STYLE.md`** (read all of it: essence, materials, colour logic, type, motion,
+  camera grammar, sound palette, native moves, what to avoid). It replaces the Atlas template's REFERENCE STYLE SOURCE.
+- **`styles/<slug>/DEMO.md` and `demo/*.js`** are a working film in that style: read them for *technique* (how strokes,
+  textures, materials and camera are actually drawn), then write your own code. Never reuse the demo's story, shots,
+  props, characters, timings, music or voice. Its demo assets are CC BY and are not to be copied into the video.
+- **Use the style's engine when it ships one** (MIT, so it may be bundled into the video): 
+  `bash explainer/scripts/lemo_engine.sh <slug> $W/engine.js` bundles `demo/engine/index.js` or `demo/engine.js` into
+  a plain script exposing `window.LEMO` (e.g. Copperplate Engraving gives `LEMO.B` line engine, `drawSheet`,
+  `engraveText`, `writeScript`, `roundelFrame`, `leader`, `Wash`), then build with
+  `node scripts/build.js <shell> $W/story.js $W/out.html --pre $W/engine.js`. It prints `none` when there is no
+  engine entry (Whiteboard, Mid-century Cartoon, Brick Toy, One-line, Rubber Hose, Halftone ship loose files): then port
+  the drawing technique from `demo/*.js` into story.js yourself. A worked example is
+  `explainer/examples/lemo-engraving-horse/story.js` (engraving engine: figure from SVG paths + `formTone`
+  hatching, occlusion with a paper fill, roundel, wash colouring, camera as a loupe in 1/z).
+- Draw every figure yourself (SVG paths fed to the engine); never copy the demo's subjects, story or layout.
+- Also skim `DIRECTOR.md` sections on hooks, rhythm and self-checks in the Lemo repo; this file still wins on format.
+- **The contract doesn't change.** story.js is written for this repo's harness (`H` helpers, `SOUND` kit from the
+  Explainer Toolkit `lib/`, still fetched as in step 0), with the same `window.BEATS / DURATION / explainer /
+  scoreSound / thumbnail` and the Shorts safe zones in step 4. Lemo styles are designed at 1920x1080: re-lay them out
+  for 1080x1920 (Shorts) or scale to 1280x720 (long). Draw with Canvas 2D only (no WebGL/three.js; the harness has none).
+  Where a STYLE.md asks for burned subtitles, skip them, as with the Atlas styles (captions.srt goes to YouTube as
+  the caption track); keep its type for on-screen labels.
+- Fonts: if the style names a font that isn't in `explainer/fonts/`, add it from npm (`npm i @fontsource/<name>`,
+  copy the `*-latin-<weight>-<normal|italic>.woff2` files into explainer/fonts/ and add them to FONTS in render.js;
+  a 4th entry sets italic) or use the nearest one already listed. Bodoni Moda and Pinyon Script (engraving) are in.
+- Pick the topic first as usual; if the style clearly fights the topic (e.g. Rubber Hose for a sad animal fact),
+  re-run `python3 explainer/scripts/pick.py <kind> --lemo` once for another Lemo style.
+- meta.json description ends "Animated in the <style> style." like the others; log.json `style` = the Lemo style name.
+
 The topic sheet holds explainer ideas only, short and long, in the shape of "How Romans Heated Their Floors 2,000 Years
 Ago": one "How did X work? / Why does X happen? / How is X made?" question, one mechanism, one key number, one visual
 payoff. Ashu can edit it on GitHub (add rows, reorder, set `status` to `skip`). Rules:
