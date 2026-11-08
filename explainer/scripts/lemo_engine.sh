@@ -9,6 +9,20 @@ SLUG=$1; OUT=$2; LEMO=${3:-/home/claude/lemo-opuscar}
 D="$LEMO/styles/$SLUG/demo"; ENTRY=""
 for c in engine/index.js engine.js; do if [ -f "$D/$c" ]; then ENTRY="$D/$c"; break; fi; done
 [ -n "$ENTRY" ] || { echo "none"; exit 0; }
+# AK_ classic-script engines (no import/export, e.g. watercolor): wrap the source and expose its top-level names
+if ! grep -qE "^\s*(export|import)\b" "$ENTRY"; then
+  python3 - "$ENTRY" "$OUT" "$SLUG" <<'PY'
+import re, sys
+src, out, slug = sys.argv[1], sys.argv[2], sys.argv[3]
+code = open(src, encoding="utf-8").read()
+names = sorted(set(re.findall(r"^(?:async\s+)?(?:function\*?|const|let|var|class)\s+([A-Za-z_$][\w$]*)", code, re.M)))
+with open(out, "w", encoding="utf-8") as f:
+    f.write(f"// Lemo-Opuscar '{slug}' engine - MIT License, (c) LemoLab, github.com/lemomo-ai/lemo-opuscar (wrapped, unmodified)\n")
+    f.write("window.LEMO = (function () {\n" + code + "\n;return { " + ", ".join(f"{n}: typeof {n} !== 'undefined' ? {n} : undefined" for n in names) + " };\n})();\n")
+print(f"wrapped {src} -> {out} ({len(names)} names: {', '.join(names[:12])}{' ...' if len(names) > 12 else ''})")
+PY
+  exit 0
+fi
 ESB=$HOME/.cache/lemo-esbuild
 [ -d "$ESB/node_modules/esbuild" ] || npm install --silent --no-audit --no-fund --prefix "$ESB" esbuild@0.24.0 >/dev/null
 NODE_PATH="$ESB/node_modules" node -e '
