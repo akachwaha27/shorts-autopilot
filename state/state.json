@@ -378,180 +378,6 @@
     }
   },
   "videos": {
-    "2026-11-02-103": {
-      "topic": {
-        "title": "How do cats purr?",
-        "format": "animated",
-        "angle": "Napkin Sketch"
-      },
-      "package": {
-        "title": "How Do Cats Purr? 25 Throat Twitches Every Second \ud83d\udc31",
-        "description": "How do cats purr? Muscles in the voice box twitch about 25 times a second, snapping the glottis open and shut as the cat breathes in and out, and a 2023 study found pads in the vocal folds that may help make that low sound.\n\nSources:\nhttps://www.scientificamerican.com/article/why-do-cats-purr/\nhttps://medienportal.univie.ac.at/en/media/recent-press-releases/detailansicht-en/artikel/cats-purr-differently-than-previously-thought\nhttps://www.mentalfloss.com/animals/cats/how-do-cats-purr\n\nAnimated in the Napkin Sketch style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#cats",
-          "#science",
-          "#animals"
-        ],
-        "tags": [
-          "how do cats purr",
-          "why do cats purr",
-          "cat purring",
-          "cat facts",
-          "glottis",
-          "cat voice box",
-          "cat purr science",
-          "do lions purr",
-          "animal facts",
-          "why cats purr at the vet",
-          "science explained",
-          "zorbly ai",
-          "napkin sketch animation"
-        ],
-        "category": "27",
-        "pinned_comment": "When your cat purrs, is it usually happy or worried? Tell me what gives it away \ud83d\udc47",
-        "thumbnail_text": "NOT ALWAYS HAPPY",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "Your cat's purr is a twitch, twenty-five times a second. But how? Deep in the throat sits the voice box, with a tiny gap called the glottis. A signal from the brain makes the muscles around it twitch, snapping that gap open and shut. Air rushes in, and the gap chops it into bursts. Air flows out, and it chops it again. That's why a purr just keeps going. In twenty twenty-three, scientists found another clue: tiny pads inside the vocal folds, which may help a small cat hit such a low note. Bobcats and cheetahs purr too, but lions and tigers don't seem to. And a purr doesn't always mean happy. Cats also purr at the vet, or when they're hurt. So when yours starts twitching away, do you think it's happy, or worried?",
-        "key_facts": [
-          "Purring comes from laryngeal muscles opening and closing the glottis, signalled by a neural oscillator (Mental Floss, Scientific American)",
-          "Commonly cited about 25 times a second; Scientific American gives 25-150 Hz, Vienna 20-30 Hz",
-          "Cats purr breathing in and out (Scientific American)",
-          "2023 Current Biology study (Herbst et al., Vienna) found pads in the vocal folds that may explain the low sound",
-          "Bobcats and cheetahs purr; lions and tigers don't seem to (Mental Floss)",
-          "Cats also purr under duress, such as at the vet or recovering from injury (Scientific American)"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Napkin Sketch"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261102-cat-purr",
-      "redos": 0,
-      "updated": "2026-11-02T22:47:55.240465+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Napkin Sketch style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-02",
-        "name": "2026-11-02-103.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-02",
-        "name": "2026-11-02-103-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:01,800\nYour cat's purr is a twitch,\n\n2\n00:00:02,100 --> 00:00:03,740\ntwenty-five times a second.\n\n3\n00:00:04,290 --> 00:00:05,030\nBut how?\n\n4\n00:00:05,580 --> 00:00:07,830\nDeep in the throat sits the voice box,\n\n5\n00:00:08,130 --> 00:00:10,080\nwith a tiny gap called the glottis.\n\n6\n00:00:10,630 --> 00:00:11,740\nA signal from the brain\n\n7\n00:00:12,040 --> 00:00:13,890\nmakes the muscles around it twitch,\n\n8\n00:00:14,190 --> 00:00:15,930\nsnapping that gap open and shut.\n\n9\n00:00:16,480 --> 00:00:17,500\nAir rushes in,\n\n10\n00:00:17,800 --> 00:00:19,630\nand the gap chops it into bursts.\n\n11\n00:00:20,180 --> 00:00:21,150\nAir flows out,\n\n12\n00:00:21,450 --> 00:00:22,740\nand it chops it again.\n\n13\n00:00:23,290 --> 00:00:25,260\nThat's why a purr just keeps going.\n\n14\n00:00:25,810 --> 00:00:28,990\nIn twenty twenty-three, scientists found another clue:\n\n15\n00:00:29,290 --> 00:00:31,690\ntiny pads inside the vocal folds,\n\n16\n00:00:31,990 --> 00:00:34,730\nwhich may help a small cat hit such a low note.\n\n17\n00:00:35,280 --> 00:00:37,030\nBobcats and cheetahs purr too,\n\n18\n00:00:37,330 --> 00:00:39,460\nbut lions and tigers don't seem to.\n\n19\n00:00:40,010 --> 00:00:42,100\nAnd a purr doesn't always mean happy.\n\n20\n00:00:42,650 --> 00:00:44,220\nCats also purr at the vet,\n\n21\n00:00:44,520 --> 00:00:45,670\nor when they're hurt.\n\n22\n00:00:46,220 --> 00:00:48,160\nSo when yours starts twitching away,\n\n23\n00:00:48,460 --> 00:00:50,320\ndo you think it's happy, or worried?\n\n",
-      "tg_msg": 994,
-      "approved_by": "auto",
-      "description_full": "How do cats purr? Muscles in the voice box twitch about 25 times a second, snapping the glottis open and shut as the cat breathes in and out, and a 2023 study found pads in the vocal folds that may help make that low sound.\n\nSources:\nhttps://www.scientificamerican.com/article/why-do-cats-purr/\nhttps://medienportal.univie.ac.at/en/media/recent-press-releases/detailansicht-en/artikel/cats-purr-differently-than-previously-thought\nhttps://www.mentalfloss.com/animals/cats/how-do-cats-purr\n\nAnimated in the Napkin Sketch style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #cats #science #animals\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Napkin Sketch style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/tPJ0QouhF-s",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-11-02T22:47:55.240483+00:00",
-      "slot": "2026-11-07T02:15:00+00:00"
-    },
-    "2026-11-02-104": {
-      "topic": {
-        "title": "What happens inside a leafcutter ant city?",
-        "format": "long",
-        "angle": "Cut-Paper Diorama"
-      },
-      "package": {
-        "title": "How Do Ants Run a City With 7,000 Rooms?",
-        "description": "What happens inside a leafcutter ant colony? Follow the leaves underground into a city of millions, with fungus farms, bodyguard ants, garbage rooms, wind-powered chimneys and one queen who started it all.\n\nSources:\nhttps://knowablemagazine.org/content/article/living-world/2026/crazy-nests-leaf-cutter-ants-build\nhttps://www.discoverwildlife.com/animal-facts/insects-invertebrates/leafcutter-ant-nests\nhttps://www.smithsonianmag.com/science-nature/small-matters-62475975/\n\nAnimated in the Cut-Paper Diorama style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#ants",
-          "#science",
-          "#animals"
-        ],
-        "tags": [
-          "leafcutter ants",
-          "leaf cutter ants",
-          "ant colony",
-          "ant city",
-          "how ants farm",
-          "fungus farming ants",
-          "ant nest",
-          "underground ant city",
-          "ant queen",
-          "insects explained",
-          "animal facts",
-          "how do ants work",
-          "nature explained",
-          "science explained"
-        ],
-        "category": "27",
-        "pinned_comment": "Which job would you pick in the ant city: leaf hauler, bodyguard, fungus gardener, or trash duty?",
-        "thumbnail_text": "ANT FARMERS",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "Ants built farms fifty million years before you, and you'd never spot them. And right now, under a rainforest floor, there's an ant city with millions of citizens, thousands of rooms, farms, garbage dumps, and its own air conditioning. So what actually happens inside a leafcutter ant city? It starts up here, on the road. Leafcutter ants march along forest trails in long green parades. Each worker slices off a piece of leaf with her jaws, then hauls it home, carrying up to ten times her own weight. That's like you jogging home with a cow on your back. But look closer. There's a tiny ant riding on top of that leaf. She's the bodyguard. Tiny flies try to lay eggs in the carriers' heads, so this little passenger fends them off. Because in this city, everybody has a job, and your size is your job description. The tiniest ants, called minims, have heads less than a millimeter wide. They look after the babies and the gardens. Medium ants are the foragers you just met. And the giants are the soldiers, with heads up to seven millimeters wide. Now, follow the leaves underground. Here's the twist. They don't really eat them. They'll sip a little sap, but the leaf is just fertilizer. Smaller ants snip each piece into tiny bits. Gardeners crush those bits into pellets, add a drop of their own poop, and press it all into a giant spongy garden. What grows there is a fungus. That's the real food. It feeds babies and adults, and they've been passing this crop down for millions of years. But every farmer has a weed problem. A rival fungus can wreck the whole crop. So the ants wear a white powder on their bodies. That powder is bacteria, and it makes antibiotics that hold the weed back. Infected patches get chopped out and dragged away, which brings us to the trash. Waste goes to separate garbage rooms, some big enough for you to stand inside. The workers there are mostly older ants, kept apart from everyone else. A city this big has one more problem. Breathing. All that fungus and all those ants make carbon dioxide. The ants can handle it. Their fungus can't. So one species builds chimneys. When wind blows across the mound, it pulls stale air out of the top holes, and fresh air gets drawn in. Those turrets can boost the airflow up to ten times. No fans. No electricity. So who started all this? The queen. She can live up to fifteen years, and by one estimate, lay a hundred fifty million eggs. But her story begins with one flight. A young queen leaves home with a tiny pellet of fungus in her mouth. That's her whole inheritance. She digs in, seals herself underground, and plants it. Only about two and a half percent build a colony that lasts. But the winners can end up with seven thousand rooms, more than twenty feet deep. So next time you see a leaf walking across the ground, remember where it's going. It's headed to a farm far older than us. Next up, another insect city, where workers talk by dancing. How does a honeybee hive work?",
-        "key_facts": [
-          "Ants began cultivating fungus about 50 million years ago (Smithsonian; Wikipedia: Atta)",
-          "Atta laevigata nests may have more than 7,000 chambers, more than 20 feet deep (Knowable Magazine)",
-          "Leaf loads up to ten times body weight (Smithsonian; other sources say more)",
-          "Minims have heads under 1 mm wide; largest soldiers up to 7 mm (Wikipedia: Leafcutter ant)",
-          "Minims ride leaves to fend off phorid flies, which lay eggs in ants' heads (San Diego Zoo factsheet)",
-          "Queens live up to 15 years, about 150 million eggs by one estimate; about 2.5% of young queens establish a lasting colony (Wikipedia)",
-          "Turrets boost airflow 3 to 10 times in Atta vollenweideri (AskNature, Kleineidam et al.)"
-        ],
-        "voice": "Kokoro",
-        "format": "long",
-        "style": "Cut-Paper Diorama"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261102-leafcutter-city",
-      "redos": 0,
-      "updated": "2026-11-03T09:09:27.955250+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Cut-Paper Diorama style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-02",
-        "name": "2026-11-02-104.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-02",
-        "name": "2026-11-02-104-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:03,070\nAnts built farms fifty million years before you,\n\n2\n00:00:03,370 --> 00:00:04,690\nand you'd never spot them.\n\n3\n00:00:05,240 --> 00:00:07,690\nAnd right now, under a rainforest floor,\n\n4\n00:00:07,990 --> 00:00:10,660\nthere's an ant city with millions of citizens,\n\n5\n00:00:10,960 --> 00:00:12,200\nthousands of rooms,\n\n6\n00:00:12,500 --> 00:00:13,990\nfarms, garbage dumps,\n\n7\n00:00:14,290 --> 00:00:15,940\nand its own air conditioning.\n\n8\n00:00:16,490 --> 00:00:19,510\nSo what actually happens inside a leafcutter ant city?\n\n9\n00:00:20,060 --> 00:00:21,850\nIt starts up here, on the road.\n\n10\n00:00:22,400 --> 00:00:26,610\nLeafcutter ants march along forest trails in long green parades.\n\n11\n00:00:27,160 --> 00:00:30,340\nEach worker slices off a piece of leaf with her jaws,\n\n12\n00:00:30,640 --> 00:00:31,880\nthen hauls it home,\n\n13\n00:00:32,180 --> 00:00:34,330\ncarrying up to ten times her own weight.\n\n14\n00:00:34,880 --> 00:00:37,660\nThat's like you jogging home with a cow on your back.\n\n15\n00:00:38,210 --> 00:00:39,220\nBut look closer.\n\n16\n00:00:39,770 --> 00:00:42,610\nThere's a tiny ant riding on top of that leaf.\n\n17\n00:00:43,160 --> 00:00:44,430\nShe's the bodyguard.\n\n18\n00:00:44,980 --> 00:00:47,890\nTiny flies try to lay eggs in the carriers' heads,\n\n19\n00:00:48,190 --> 00:00:50,410\nso this little passenger fends them off.\n\n20\n00:00:50,960 --> 00:00:53,760\nBecause in this city, everybody has a job,\n\n21\n00:00:54,060 --> 00:00:56,350\nand your size is your job description.\n\n22\n00:00:56,900 --> 00:00:58,850\nThe tiniest ants, called minims,\n\n23\n00:00:59,150 --> 00:01:01,250\nhave heads less than a millimeter wide.\n\n24\n00:01:01,800 --> 00:01:04,170\nThey look after the babies and the gardens.\n\n25\n00:01:04,720 --> 00:01:07,510\nMedium ants are the foragers you just met.\n\n26\n00:01:08,060 --> 00:01:09,850\nAnd the giants are the soldiers,\n\n27\n00:01:10,150 --> 00:01:12,550\nwith heads up to seven millimeters wide.\n\n28\n00:01:13,100 --> 00:01:15,200\nNow, follow the leaves underground.\n\n29\n00:01:15,750 --> 00:01:16,810\nHere's the twist.\n\n30\n00:01:17,360 --> 00:01:18,690\nThey don't really eat them.\n\n31\n00:01:19,240 --> 00:01:20,540\nThey'll sip a little sap,\n\n32\n00:01:20,840 --> 00:01:22,710\nbut the leaf is just fertilizer.\n\n33\n00:01:23,260 --> 00:01:26,070\nSmaller ants snip each piece into tiny bits.\n\n34\n00:01:26,620 --> 00:01:28,890\nGardeners crush those bits into pellets,\n\n35\n00:01:29,190 --> 00:01:30,830\nadd a drop of their own poop,\n\n36\n00:01:31,130 --> 00:01:33,830\nand press it all into a giant spongy garden.\n\n37\n00:01:34,380 --> 00:01:36,080\nWhat grows there is a fungus.\n\n38\n00:01:36,630 --> 00:01:37,860\nThat's the real food.\n\n39\n00:01:38,410 --> 00:01:40,200\nIt feeds babies and adults,\n\n40\n00:01:40,500 --> 00:01:43,680\nand they've been passing this crop down for millions of years.\n\n41\n00:01:44,230 --> 00:01:46,440\nBut every farmer has a weed problem.\n\n42\n00:01:46,990 --> 00:01:49,460\nA rival fungus can wreck the whole crop.\n\n43\n00:01:50,010 --> 00:01:52,660\nSo the ants wear a white powder on their bodies.\n\n44\n00:01:53,210 --> 00:01:54,720\nThat powder is bacteria,\n\n45\n00:01:55,020 --> 00:01:57,740\nand it makes antibiotics that hold the weed back.\n\n46\n00:01:58,290 --> 00:02:01,090\nInfected patches get chopped out and dragged away,\n\n47\n00:02:01,390 --> 00:02:02,950\nwhich brings us to the trash.\n\n48\n00:02:03,500 --> 00:02:05,870\nWaste goes to separate garbage rooms,\n\n49\n00:02:06,170 --> 00:02:08,410\nsome big enough for you to stand inside.\n\n50\n00:02:08,960 --> 00:02:11,390\nThe workers there are mostly older ants,\n\n51\n00:02:11,690 --> 00:02:13,400\nkept apart from everyone else.\n\n52\n00:02:13,950 --> 00:02:16,340\nA city this big has one more problem.\n\n53\n00:02:16,890 --> 00:02:17,570\nBreathing.\n\n54\n00:02:18,120 --> 00:02:21,960\nAll that fungus and all those ants make carbon dioxide.\n\n55\n00:02:22,510 --> 00:02:23,790\nThe ants can handle it.\n\n56\n00:02:24,340 --> 00:02:25,530\nTheir fungus can't.\n\n57\n00:02:26,080 --> 00:02:28,010\nSo one species builds chimneys.\n\n58\n00:02:28,560 --> 00:02:30,510\nWhen wind blows across the mound,\n\n59\n00:02:30,810 --> 00:02:33,050\nit pulls stale air out of the top holes,\n\n60\n00:02:33,350 --> 00:02:35,000\nand fresh air gets drawn in.\n\n61\n00:02:35,550 --> 00:02:38,580\nThose turrets can boost the airflow up to ten times.\n\n62\n00:02:39,130 --> 00:02:41,000\nNo fans. No electricity.\n\n63\n00:02:41,550 --> 00:02:42,990\nSo who started all this?\n\n64\n00:02:43,540 --> 00:02:44,330\nThe queen.\n\n65\n00:02:44,880 --> 00:02:46,740\nShe can live up to fifteen years,\n\n66\n00:02:47,040 --> 00:02:50,520\nand by one estimate, lay a hundred fifty million eggs.\n\n67\n00:02:51,070 --> 00:02:53,130\nBut her story begins with one flight.\n\n68\n00:02:53,680 --> 00:02:57,660\nA young queen leaves home with a tiny pellet of fungus in her mouth.\n\n69\n00:02:58,210 --> 00:02:59,770\nThat's her whole inheritance.\n\n70\n00:03:00,320 --> 00:03:03,660\nShe digs in, seals herself underground, and plants it.\n\n71\n00:03:04,210 --> 00:03:07,970\nOnly about two and a half percent build a colony that lasts.\n\n72\n00:03:08,520 --> 00:03:11,340\nBut the winners can end up with seven thousand rooms,\n\n73\n00:03:11,640 --> 00:03:13,230\nmore than twenty feet deep.\n\n74\n00:03:13,780 --> 00:03:16,990\nSo next time you see a leaf walking across the ground,\n\n75\n00:03:17,290 --> 00:03:18,620\nremember where it's going.\n\n76\n00:03:19,170 --> 00:03:21,640\nIt's headed to a farm far older than us.\n\n77\n00:03:22,190 --> 00:03:26,140\nNext up, another insect city, where workers talk by dancing.\n\n78\n00:03:26,690 --> 00:03:28,500\nHow does a honeybee hive work?\n\n",
-      "tg_msg": 995,
-      "approved_by": "auto",
-      "quota_note": "2026-11-02",
-      "description_full": "What happens inside a leafcutter ant colony? Follow the leaves underground into a city of millions, with fungus farms, bodyguard ants, garbage rooms, wind-powered chimneys and one queen who started it all.\n\nSources:\nhttps://knowablemagazine.org/content/article/living-world/2026/crazy-nests-leaf-cutter-ants-build\nhttps://www.discoverwildlife.com/animal-facts/insects-invertebrates/leafcutter-ant-nests\nhttps://www.smithsonianmag.com/science-nature/small-matters-62475975/\n\nAnimated in the Cut-Paper Diorama style.\n\nFollow Zorbly AI for a new Short every day.\n\n#ants #science #animals\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Cut-Paper Diorama style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/B7AEdNPgnr0",
-          "private \u00b7 thumbnail \u2705"
-        ]
-      },
-      "uploaded_at": "2026-11-03T09:09:27.955271+00:00",
-      "slot": "2026-11-07T15:15:00+00:00"
-    },
     "2026-11-02-105": {
       "topic": {
         "title": "Why does popcorn pop?",
@@ -3105,12 +2931,12 @@
         "format": "animated",
         "style": "Kawaii Anime"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261108-knuckle-crack",
       "redos": 0,
-      "updated": "2026-11-08T17:14:25.802990+00:00",
+      "updated": "2026-11-08T21:14:27.402649+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech."
       ],
@@ -3125,7 +2951,29 @@
         "name": "2026-11-08-103-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:02,770\nYour knuckle crack is actually a gas bubble,\n\n2\n00:00:03,070 --> 00:00:05,280\nand it can't happen again for twenty minutes.\n\n3\n00:00:05,830 --> 00:00:08,420\nEvery finger joint sits in a tiny capsule,\n\n4\n00:00:08,720 --> 00:00:10,310\nfilled with a slippery fluid.\n\n5\n00:00:10,860 --> 00:00:12,820\nThat fluid has gas dissolved in it,\n\n6\n00:00:13,120 --> 00:00:14,740\nlike a soda with the cap on.\n\n7\n00:00:15,290 --> 00:00:17,200\nWhen you pull or bend the joint,\n\n8\n00:00:17,500 --> 00:00:18,880\nthe capsule stretches,\n\n9\n00:00:19,180 --> 00:00:20,900\nand the pressure inside drops.\n\n10\n00:00:21,450 --> 00:00:23,360\nThe gas rushes out of the fluid,\n\n11\n00:00:23,660 --> 00:00:25,450\nand a bubble forms, with a pop!\n\n12\n00:00:26,000 --> 00:00:30,290\nIn 2015, scientists filmed it in an MRI scanner,\n\n13\n00:00:30,590 --> 00:00:32,710\nand saw the bubble appear right at the crack.\n\n14\n00:00:33,260 --> 00:00:35,510\nTry that knuckle again, and... nothing.\n\n15\n00:00:36,060 --> 00:00:38,010\nThe bubble needs about twenty minutes\n\n16\n00:00:38,310 --> 00:00:40,160\nto dissolve back into the fluid.\n\n17\n00:00:40,710 --> 00:00:43,560\nAnd no, studies say it won't give you arthritis.\n\n18\n00:00:44,110 --> 00:00:46,980\nOne doctor cracked only his left hand's knuckles\n\n19\n00:00:47,280 --> 00:00:48,410\nfor sixty years,\n\n20\n00:00:48,710 --> 00:00:50,390\nand both hands stayed the same.\n\n21\n00:00:50,940 --> 00:00:53,220\nSo, how many bubbles have you made today?\n\n",
-      "tg_msg": 1060
+      "tg_msg": 1060,
+      "approved_by": "auto",
+      "description_full": "Why do knuckles crack? Pulling a finger joint apart drops the pressure in its fluid, so dissolved gas forms a bubble with a pop, and it takes about 20 minutes before that knuckle can crack again.\n\nSources:\nhttps://www.sciencenews.org/article/researchers-pull-fingers-solve-why-knuckles-crack\nhttps://www.snexplores.org/article/mystery-solved-why-knuckles-crack\nhttps://www.livescience.com/9729-knuckle-cracking-ig-nobel-prize.html\n\nAnimated in the Kawaii Anime style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #science #humanbody #facts\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/S5JDtvLpo5I",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-08T21:14:27.402664+00:00",
+      "slot": "2026-11-14T19:15:00+00:00"
     },
     "2026-11-08-104": {
       "topic": {
@@ -3174,12 +3022,12 @@
         "format": "long",
         "style": "Chalkboard Lesson"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261108-taste-buds",
       "redos": 0,
-      "updated": "2026-11-08T17:14:35.620418+00:00",
+      "updated": "2026-11-08T21:14:33.451450+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Chalkboard Lesson style). Voice: Kokoro text-to-speech."
       ],
@@ -3194,7 +3042,88 @@
         "name": "2026-11-08-104-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:02,480\nYour taste buds die every ten days,\n\n2\n00:00:02,780 --> 00:00:04,820\nand nobody ever told you why.\n\n3\n00:00:05,370 --> 00:00:07,730\nRight now, thousands of tiny sensors\n\n4\n00:00:08,030 --> 00:00:09,410\nare tasting your own spit.\n\n5\n00:00:09,960 --> 00:00:11,010\nSo what are they,\n\n6\n00:00:11,310 --> 00:00:12,430\nhow do they work,\n\n7\n00:00:12,730 --> 00:00:14,710\nand what about that tongue map from school?\n\n8\n00:00:15,260 --> 00:00:16,500\nLet's start with the map.\n\n9\n00:00:17,050 --> 00:00:18,300\nYou've probably seen it.\n\n10\n00:00:18,850 --> 00:00:19,920\nSweet on the tip,\n\n11\n00:00:20,220 --> 00:00:21,310\nbitter at the back,\n\n12\n00:00:21,610 --> 00:00:23,410\nsour and salty on the sides.\n\n13\n00:00:23,960 --> 00:00:24,760\nIt's a myth.\n\n14\n00:00:25,310 --> 00:00:26,570\nIn nineteen oh one,\n\n15\n00:00:26,870 --> 00:00:29,240\na German scientist named David Hanig\n\n16\n00:00:29,540 --> 00:00:32,820\nfound that some spots were just a tiny bit more sensitive.\n\n17\n00:00:33,370 --> 00:00:35,170\nThen in nineteen forty two,\n\n18\n00:00:35,470 --> 00:00:36,970\nhis graph got redrawn,\n\n19\n00:00:37,270 --> 00:00:38,930\nand people read it the wrong way.\n\n20\n00:00:39,480 --> 00:00:40,280\nThe truth?\n\n21\n00:00:40,830 --> 00:00:43,250\nEvery part of your tongue that has taste buds\n\n22\n00:00:43,550 --> 00:00:45,350\ncan taste all five flavors.\n\n23\n00:00:45,900 --> 00:00:47,430\nSo where are the taste buds?\n\n24\n00:00:47,980 --> 00:00:49,610\nStick out your tongue in a mirror.\n\n25\n00:00:50,160 --> 00:00:52,430\nThose little bumps are not taste buds.\n\n26\n00:00:52,980 --> 00:00:54,250\nThey're called papillae,\n\n27\n00:00:54,550 --> 00:00:56,730\nand most taste buds hide inside them,\n\n28\n00:00:57,030 --> 00:00:58,720\nalong the sides of each bump.\n\n29\n00:00:59,270 --> 00:01:01,590\nAn adult has somewhere between two thousand\n\n30\n00:01:01,890 --> 00:01:03,560\nand ten thousand taste buds.\n\n31\n00:01:04,110 --> 00:01:06,520\nA few even live on the roof of your mouth\n\n32\n00:01:06,820 --> 00:01:08,100\nand down in your throat.\n\n33\n00:01:08,650 --> 00:01:10,210\nNow zoom in on one bud.\n\n34\n00:01:10,760 --> 00:01:12,680\nIt looks a bit like a tiny onion,\n\n35\n00:01:12,980 --> 00:01:15,820\npacked with fifty to one hundred fifty taste cells.\n\n36\n00:01:16,370 --> 00:01:18,170\nAt the top there's a little opening,\n\n37\n00:01:18,470 --> 00:01:19,590\ncalled a taste pore.\n\n38\n00:01:20,140 --> 00:01:22,460\nWhen you eat, food dissolves in your spit,\n\n39\n00:01:22,760 --> 00:01:25,000\nand those molecules slip into the pore.\n\n40\n00:01:25,550 --> 00:01:28,150\nEach taste cell has receptors on its tip,\n\n41\n00:01:28,450 --> 00:01:30,450\nlike locks waiting for the right key.\n\n42\n00:01:31,000 --> 00:01:32,610\nSugar fits the sweet lock.\n\n43\n00:01:33,160 --> 00:01:35,240\nSalt slips through its own little channel.\n\n44\n00:01:35,790 --> 00:01:36,820\nWhen a key fits,\n\n45\n00:01:37,120 --> 00:01:39,220\nthe cell fires a signal down a nerve,\n\n46\n00:01:39,520 --> 00:01:40,940\nand your brain says, sweet!\n\n47\n00:01:41,490 --> 00:01:43,000\nAnd here's the clever part.\n\n48\n00:01:43,550 --> 00:01:45,710\nEach of the five tastes has a job.\n\n49\n00:01:46,260 --> 00:01:47,660\nSweet means energy.\n\n50\n00:01:48,210 --> 00:01:50,720\nSalty means minerals your body needs.\n\n51\n00:01:51,270 --> 00:01:53,450\nSour can mean unripe, or spoiled.\n\n52\n00:01:54,000 --> 00:01:55,270\nBitter is a warning,\n\n53\n00:01:55,570 --> 00:01:57,640\nbecause lots of poisons taste bitter.\n\n54\n00:01:58,190 --> 00:01:59,760\nAnd umami means protein.\n\n55\n00:02:00,310 --> 00:02:02,660\nThat fifth taste was found in nineteen oh eight,\n\n56\n00:02:02,960 --> 00:02:05,530\nby a Japanese chemist named Kikunae Ikeda.\n\n57\n00:02:06,080 --> 00:02:08,820\nHe wondered why seaweed soup tasted so rich,\n\n58\n00:02:09,120 --> 00:02:11,040\nand found the answer was glutamate.\n\n59\n00:02:11,590 --> 00:02:13,500\nBut taste is only half the story.\n\n60\n00:02:14,050 --> 00:02:16,210\nHold your nose and eat a jelly bean.\n\n61\n00:02:16,760 --> 00:02:17,970\nYou can tell it's sweet,\n\n62\n00:02:18,270 --> 00:02:19,780\nbut not what flavor it is.\n\n63\n00:02:20,330 --> 00:02:22,660\nThat's because most of what we call flavor\n\n64\n00:02:22,960 --> 00:02:24,460\nactually comes from smell.\n\n65\n00:02:25,010 --> 00:02:26,920\nAnd some animals put us to shame.\n\n66\n00:02:27,470 --> 00:02:31,630\nA catfish can have up to one hundred seventy five thousand taste buds,\n\n67\n00:02:31,930 --> 00:02:33,130\nall over its body.\n\n68\n00:02:33,680 --> 00:02:35,390\nIt's basically a swimming tongue.\n\n69\n00:02:35,940 --> 00:02:37,240\nNow, back to that hook.\n\n70\n00:02:37,790 --> 00:02:40,180\nYour taste cells work in a wet, rough place,\n\n71\n00:02:40,480 --> 00:02:42,410\ngetting scraped by crunchy food,\n\n72\n00:02:42,710 --> 00:02:44,160\nand burned by hot soup.\n\n73\n00:02:44,710 --> 00:02:46,450\nSo your body replaces them,\n\n74\n00:02:46,750 --> 00:02:48,140\nabout every ten days.\n\n75\n00:02:48,690 --> 00:02:50,070\nThat's why a burned tongue\n\n76\n00:02:50,370 --> 00:02:52,310\nfeels normal again so fast.\n\n77\n00:02:52,860 --> 00:02:54,030\nEvery bite you take,\n\n78\n00:02:54,330 --> 00:02:56,310\nthousands of brand new taste cells\n\n79\n00:02:56,610 --> 00:02:57,730\nare on the job.\n\n80\n00:02:58,280 --> 00:03:00,980\nNext time, why do some people get carsick,\n\n81\n00:03:01,280 --> 00:03:03,030\nwhile others feel totally fine?\n\n",
-      "tg_msg": 1061
+      "tg_msg": 1061,
+      "approved_by": "auto",
+      "description_full": "How do taste buds work, why is the tongue map a myth, and why do your taste cells get replaced about every 10 days? A simple explainer of papillae, taste receptors, the five basic tastes (sweet, salty, sour, bitter and umami), why smell makes most of flavor, and the catfish with 175,000 taste buds.\n\nSources:\nhttps://my.clevelandclinic.org/health/body/24684-taste-buds\nhttps://en.wikipedia.org/wiki/Tongue_map\nhttps://www.livescience.com/32970-what-animal-has-the-best-sense-of-taste.html\n\nAnimated in the Chalkboard Lesson style.\n\nFollow Zorbly AI for a new Short every day.\n\n#tastebuds #science #humanbody\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Chalkboard Lesson style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/SkmKUa5OTGY",
+          "private \u00b7 thumbnail \u2705"
+        ]
+      },
+      "uploaded_at": "2026-11-08T21:14:33.451465+00:00",
+      "slot": "2026-11-15T00:15:00+00:00"
+    },
+    "2026-11-08-105": {
+      "topic": {
+        "title": "Why can horses sleep standing up?",
+        "format": "animated",
+        "angle": "Cut-Paper Diorama"
+      },
+      "package": {
+        "title": "How Can a 500 kg Horse Sleep Standing Up? \ud83d\udc34",
+        "description": "Why can horses sleep standing up? See how the stay apparatus of tendons and ligaments locks a horse's legs, how the kneecap hooks over a bump on the thigh bone like a latch, and why horses still have to lie down for REM dream sleep.\n\nSources:\nhttps://thehorse.com/1130383/is-your-horse-getting-enough-sleep/\nhttps://smartpakequine.com/learn-health/how-horses-sleep\nhttps://thehorse.com/?p=53187\n\nAnimated in the Cut-Paper Diorama style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#horses",
+          "#animals",
+          "#science"
+        ],
+        "tags": [
+          "how do horses sleep standing up",
+          "why can horses sleep standing up",
+          "stay apparatus",
+          "horse sleep",
+          "horse REM sleep",
+          "horse kneecap lock",
+          "patella locking horse",
+          "horse facts",
+          "animal facts",
+          "how animals sleep",
+          "animal adaptations",
+          "science explained",
+          "horse anatomy"
+        ],
+        "category": "27",
+        "pinned_comment": "Could you sleep standing up, or would you fall flat on your face?",
+        "thumbnail_text": "KNEE LATCH",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "A 500-kilo horse can sleep standing up, and you'd never guess why it doesn't fall. The trick is called the stay apparatus. Tendons and ligaments brace its legs, so the joints lock with almost no muscle effort. In a back leg, the kneecap hooks over a bump on the thigh bone, like a latch clicking shut. The other back leg gets to rest, and every so often it swaps sides. But there's a catch. Dreaming sleep, called REM, relaxes every muscle, and that unlocks the legs. So for REM, a horse has to lie down, about thirty to forty-five minutes a day, often while a buddy stands guard. Miss it for a week or so, and its knees can buckle mid-nap. So, could you sleep standing up, or would you fall flat on your face?",
+        "key_facts": [
+          "The stay apparatus is a system of tendons and ligaments that stabilizes the joints of the forelimbs and hindlimbs so horses can doze standing (SmartPak, TheHorse)",
+          "In the hind leg the kneecap (patella) hooks over the medial ridge of the femur to lock the stifle; the horse rests the other hind leg and swaps (standard equine anatomy; TheHorse on the stay apparatus)",
+          "REM sleep relaxes all muscle tone, including the stay apparatus, so horses must lie down (sternal or lateral) for it (TheHorse, SmartPak)",
+          "Horses need about 30 (SmartPak) to 40-45 (TheHorse) minutes of REM per day; script says 'about thirty to forty-five minutes'",
+          "In wild herds one horse often stays awake on watch while others lie down (TheHorse, SmartPak); script hedges with 'often'",
+          "REM deprivation lasting more than a week or so can make horses drift into REM standing and collapse, with bowing knees (Houpt and Greening via TheHorse)",
+          "Average horse weight ~500 kg (common figure for a riding horse)"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Cut-Paper Diorama"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261108-horse-sleep-standing",
+      "redos": 0,
+      "updated": "2026-11-08T21:14:16.566485+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Cut-Paper Diorama style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-08",
+        "name": "2026-11-08-105.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-08",
+        "name": "2026-11-08-105-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:03,140\nA 500-kilo horse can sleep standing up,\n\n2\n00:00:03,660 --> 00:00:05,710\nand you'd never guess why it doesn't fall.\n\n3\n00:00:06,120 --> 00:00:08,170\nThe trick is called the stay apparatus.\n\n4\n00:00:08,520 --> 00:00:10,770\nTendons and ligaments brace its legs,\n\n5\n00:00:11,180 --> 00:00:13,860\nso the joints lock with almost no muscle effort.\n\n6\n00:00:14,320 --> 00:00:16,190\nIn a back leg, the kneecap hooks\n\n7\n00:00:16,190 --> 00:00:17,700\nover a bump on the thigh bone,\n\n8\n00:00:18,190 --> 00:00:19,560\nlike a latch clicking shut.\n\n9\n00:00:19,910 --> 00:00:21,580\nThe other back leg gets to rest,\n\n10\n00:00:21,990 --> 00:00:24,280\nand every so often it swaps sides.\n\n11\n00:00:24,670 --> 00:00:25,740\nBut there's a catch.\n\n12\n00:00:26,010 --> 00:00:29,480\nDreaming sleep, called REM, relaxes every muscle,\n\n13\n00:00:29,750 --> 00:00:31,310\nand that unlocks the legs.\n\n14\n00:00:31,720 --> 00:00:34,300\nSo for REM, a horse has to lie down,\n\n15\n00:00:34,300 --> 00:00:37,870\nabout thirty to forty-five minutes a day,\n\n16\n00:00:38,300 --> 00:00:40,250\noften while a buddy stands guard.\n\n17\n00:00:40,710 --> 00:00:42,190\nMiss it for a week or so,\n\n18\n00:00:42,610 --> 00:00:44,600\nand its knees can buckle mid-nap.\n\n19\n00:00:45,030 --> 00:00:46,640\nSo, could you sleep standing up,\n\n20\n00:00:47,090 --> 00:00:48,870\nor would you fall flat on your face?\n\n",
+      "tg_msg": 1063
     }
   },
   "history": [
@@ -3359,7 +3288,8 @@
     "drop/20261108-flamingo-upside-down": "2026-11-08-101",
     "drop/20261108-baby-teeth": "2026-11-08-102",
     "drop/20261108-knuckle-crack": "2026-11-08-103",
-    "drop/20261108-taste-buds": "2026-11-08-104"
+    "drop/20261108-taste-buds": "2026-11-08-104",
+    "drop/20261108-horse-sleep-standing": "2026-11-08-105"
   },
   "refs_day": "2026-11-08"
 }
