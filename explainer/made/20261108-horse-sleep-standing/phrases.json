@@ -1,0 +1,682 @@
+[
+ {
+  "s": 0.25,
+  "e": 3.14,
+  "text": "A 500-kilo horse can sleep standing up,",
+  "words": [
+   [
+    "a",
+    0.25
+   ],
+   [
+    "500kilo",
+    0.34
+   ],
+   [
+    "horse",
+    1.0
+   ],
+   [
+    "can",
+    1.46
+   ],
+   [
+    "sleep",
+    1.74
+   ],
+   [
+    "standing",
+    2.21
+   ],
+   [
+    "up",
+    2.95
+   ]
+  ]
+ },
+ {
+  "s": 3.66,
+  "e": 5.71,
+  "text": "and you'd never guess why it doesn't fall.",
+  "words": [
+   [
+    "and",
+    3.66
+   ],
+   [
+    "youd",
+    3.85
+   ],
+   [
+    "never",
+    4.11
+   ],
+   [
+    "guess",
+    4.43
+   ],
+   [
+    "why",
+    4.75
+   ],
+   [
+    "it",
+    4.94
+   ],
+   [
+    "doesnt",
+    5.07
+   ],
+   [
+    "fall",
+    5.45
+   ]
+  ]
+ },
+ {
+  "s": 6.12,
+  "e": 8.17,
+  "text": "The trick is called the stay apparatus.",
+  "words": [
+   [
+    "the",
+    6.12
+   ],
+   [
+    "trick",
+    6.31
+   ],
+   [
+    "is",
+    6.63
+   ],
+   [
+    "called",
+    6.76
+   ],
+   [
+    "the",
+    7.15
+   ],
+   [
+    "stay",
+    7.34
+   ],
+   [
+    "apparatus",
+    7.59
+   ]
+  ]
+ },
+ {
+  "s": 8.52,
+  "e": 10.77,
+  "text": "Tendons and ligaments brace its legs,",
+  "words": [
+   [
+    "tendons",
+    8.52
+   ],
+   [
+    "and",
+    9.03
+   ],
+   [
+    "ligaments",
+    9.24
+   ],
+   [
+    "brace",
+    9.9
+   ],
+   [
+    "its",
+    10.26
+   ],
+   [
+    "legs",
+    10.48
+   ]
+  ]
+ },
+ {
+  "s": 11.18,
+  "e": 13.86,
+  "text": "so the joints lock with almost no muscle effort.",
+  "words": [
+   [
+    "so",
+    11.18
+   ],
+   [
+    "the",
+    11.32
+   ],
+   [
+    "joints",
+    11.52
+   ],
+   [
+    "lock",
+    11.94
+   ],
+   [
+    "with",
+    12.21
+   ],
+   [
+    "almost",
+    12.49
+   ],
+   [
+    "no",
+    12.9
+   ],
+   [
+    "muscle",
+    13.04
+   ],
+   [
+    "effort",
+    13.45
+   ]
+  ]
+ },
+ {
+  "s": 14.32,
+  "e": 16.19,
+  "text": "In a back leg, the kneecap hooks",
+  "words": [
+   [
+    "in",
+    14.32
+   ],
+   [
+    "a",
+    14.47
+   ],
+   [
+    "back",
+    14.54
+   ],
+   [
+    "leg",
+    14.84
+   ],
+   [
+    "the",
+    15.07
+   ],
+   [
+    "kneecap",
+    15.29
+   ],
+   [
+    "hooks",
+    15.81
+   ]
+  ]
+ },
+ {
+  "s": 16.19,
+  "e": 17.7,
+  "text": "over a bump on the thigh bone,",
+  "words": [
+   [
+    "over",
+    16.19
+   ],
+   [
+    "a",
+    16.45
+   ],
+   [
+    "bump",
+    16.52
+   ],
+   [
+    "on",
+    16.78
+   ],
+   [
+    "the",
+    16.91
+   ],
+   [
+    "thigh",
+    17.11
+   ],
+   [
+    "bone",
+    17.43
+   ]
+  ]
+ },
+ {
+  "s": 18.19,
+  "e": 19.56,
+  "text": "like a latch clicking shut.",
+  "words": [
+   [
+    "like",
+    18.19
+   ],
+   [
+    "a",
+    18.44
+   ],
+   [
+    "latch",
+    18.5
+   ],
+   [
+    "clicking",
+    18.81
+   ],
+   [
+    "shut",
+    19.31
+   ]
+  ]
+ },
+ {
+  "s": 19.91,
+  "e": 21.58,
+  "text": "The other back leg gets to rest,",
+  "words": [
+   [
+    "the",
+    19.91
+   ],
+   [
+    "other",
+    20.11
+   ],
+   [
+    "back",
+    20.45
+   ],
+   [
+    "leg",
+    20.71
+   ],
+   [
+    "gets",
+    20.91
+   ],
+   [
+    "to",
+    21.18
+   ],
+   [
+    "rest",
+    21.32
+   ]
+  ]
+ },
+ {
+  "s": 21.99,
+  "e": 24.28,
+  "text": "and every so often it swaps sides.",
+  "words": [
+   [
+    "and",
+    21.99
+   ],
+   [
+    "every",
+    22.25
+   ],
+   [
+    "so",
+    22.67
+   ],
+   [
+    "often",
+    22.84
+   ],
+   [
+    "it",
+    23.26
+   ],
+   [
+    "swaps",
+    23.43
+   ],
+   [
+    "sides",
+    23.86
+   ]
+  ]
+ },
+ {
+  "s": 24.67,
+  "e": 25.74,
+  "text": "But there's a catch.",
+  "words": [
+   [
+    "but",
+    24.67
+   ],
+   [
+    "theres",
+    24.88
+   ],
+   [
+    "a",
+    25.31
+   ],
+   [
+    "catch",
+    25.39
+   ]
+  ]
+ },
+ {
+  "s": 26.01,
+  "e": 29.48,
+  "text": "Dreaming sleep, called REM, relaxes every muscle,",
+  "words": [
+   [
+    "dreaming",
+    26.01
+   ],
+   [
+    "sleep",
+    26.7
+   ],
+   [
+    "called",
+    27.14
+   ],
+   [
+    "rem",
+    27.66
+   ],
+   [
+    "relaxes",
+    27.92
+   ],
+   [
+    "every",
+    28.53
+   ],
+   [
+    "muscle",
+    28.96
+   ]
+  ]
+ },
+ {
+  "s": 29.75,
+  "e": 31.31,
+  "text": "and that unlocks the legs.",
+  "words": [
+   [
+    "and",
+    29.75
+   ],
+   [
+    "that",
+    29.97
+   ],
+   [
+    "unlocks",
+    30.27
+   ],
+   [
+    "the",
+    30.79
+   ],
+   [
+    "legs",
+    31.01
+   ]
+  ]
+ },
+ {
+  "s": 31.72,
+  "e": 34.3,
+  "text": "So for REM, a horse has to lie down,",
+  "words": [
+   [
+    "so",
+    31.72
+   ],
+   [
+    "for",
+    31.91
+   ],
+   [
+    "rem",
+    32.21
+   ],
+   [
+    "a",
+    32.51
+   ],
+   [
+    "horse",
+    32.61
+   ],
+   [
+    "has",
+    33.11
+   ],
+   [
+    "to",
+    33.4
+   ],
+   [
+    "lie",
+    33.6
+   ],
+   [
+    "down",
+    33.9
+   ]
+  ]
+ },
+ {
+  "s": 34.3,
+  "e": 37.87,
+  "text": "about thirty to forty-five minutes a day,",
+  "words": [
+   [
+    "about",
+    34.3
+   ],
+   [
+    "thirty",
+    34.84
+   ],
+   [
+    "to",
+    35.49
+   ],
+   [
+    "fortyfive",
+    35.7
+   ],
+   [
+    "minutes",
+    36.68
+   ],
+   [
+    "a",
+    37.43
+   ],
+   [
+    "day",
+    37.54
+   ]
+  ]
+ },
+ {
+  "s": 38.3,
+  "e": 40.25,
+  "text": "often while a buddy stands guard.",
+  "words": [
+   [
+    "often",
+    38.3
+   ],
+   [
+    "while",
+    38.66
+   ],
+   [
+    "a",
+    39.02
+   ],
+   [
+    "buddy",
+    39.09
+   ],
+   [
+    "stands",
+    39.46
+   ],
+   [
+    "guard",
+    39.89
+   ]
+  ]
+ },
+ {
+  "s": 40.71,
+  "e": 42.19,
+  "text": "Miss it for a week or so,",
+  "words": [
+   [
+    "miss",
+    40.71
+   ],
+   [
+    "it",
+    41.04
+   ],
+   [
+    "for",
+    41.2
+   ],
+   [
+    "a",
+    41.45
+   ],
+   [
+    "week",
+    41.53
+   ],
+   [
+    "or",
+    41.86
+   ],
+   [
+    "so",
+    42.02
+   ]
+  ]
+ },
+ {
+  "s": 42.61,
+  "e": 44.6,
+  "text": "and its knees can buckle mid-nap.",
+  "words": [
+   [
+    "and",
+    42.61
+   ],
+   [
+    "its",
+    42.84
+   ],
+   [
+    "knees",
+    43.07
+   ],
+   [
+    "can",
+    43.45
+   ],
+   [
+    "buckle",
+    43.68
+   ],
+   [
+    "midnap",
+    44.14
+   ]
+  ]
+ },
+ {
+  "s": 45.03,
+  "e": 46.64,
+  "text": "So, could you sleep standing up,",
+  "words": [
+   [
+    "so",
+    45.03
+   ],
+   [
+    "could",
+    45.15
+   ],
+   [
+    "you",
+    45.48
+   ],
+   [
+    "sleep",
+    45.67
+   ],
+   [
+    "standing",
+    45.99
+   ],
+   [
+    "up",
+    46.51
+   ]
+  ]
+ },
+ {
+  "s": 47.09,
+  "e": 48.87,
+  "text": "or would you fall flat on your face?",
+  "words": [
+   [
+    "or",
+    47.09
+   ],
+   [
+    "would",
+    47.21
+   ],
+   [
+    "you",
+    47.53
+   ],
+   [
+    "fall",
+    47.72
+   ],
+   [
+    "flat",
+    47.98
+   ],
+   [
+    "on",
+    48.23
+   ],
+   [
+    "your",
+    48.36
+   ],
+   [
+    "face",
+    48.62
+   ]
+  ]
+ }
+]
