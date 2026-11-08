@@ -127,8 +127,14 @@ where a narrator breathes; a phrase is 3-12 words).
 W=/home/claude/xwork/<id>   # <id> = YYYYMMDD-<slug>, e.g. 20261026-roman-hypocaust
 python3 explainer/scripts/tts.py $W/script.txt $W --voice am_michael   # voice.wav, phrases.json, captions.srt
 ```
-Phrase times in phrases.json are exact (each phrase is synthesised alone). A Short must come out at 58 s or less
-(cut words if not). Voices: am_michael (default), bm_george (British storyteller, good for history), am_fenrir.
+Natural mode (default since Nov 8): every whole sentence is spoken in one go, so it sounds like someone talking,
+not reading comma-chunks; phrase times are snapped to the real pauses (~0.1 s). Uses the full-quality model and adds
+light warmth and room tone. `--mode phrase` restores the old one-phrase-at-a-time voice if timing ever drifts.
+A Short must come out at 58 s or less (cut words if not). Voices: am_michael (default), af_heart (most natural,
+warm female), bm_george (British storyteller, good for history), am_fenrir, af_bella, bf_emma. Speed 1.0-1.05.
+Write for the ear so it sounds human: contractions, "you", short and long sentences mixed, one aside now and then
+("and honestly, that's kind of genius"), questions the viewer would ask. Fewer commas inside a sentence: a line
+break is a breath, not a full stop.
 
 ## 4. Build the animation
 Write `$W/story.js` exactly as the template's WHAT TO BUILD section asks, with MY CONTENT = script.txt and MY
