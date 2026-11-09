@@ -1,0 +1,2568 @@
+[
+ {
+  "s": 0.25,
+  "e": 1.65,
+  "text": "Every time you get carsick,",
+  "words": [
+   [
+    "every",
+    0.25
+   ],
+   [
+    "time",
+    0.57
+   ],
+   [
+    "you",
+    0.82
+   ],
+   [
+    "get",
+    1.01
+   ],
+   [
+    "carsick",
+    1.2
+   ]
+  ]
+ },
+ {
+  "s": 2.14,
+  "e": 4.41,
+  "text": "your brain thinks you've swallowed poison.",
+  "words": [
+   [
+    "your",
+    2.14
+   ],
+   [
+    "brain",
+    2.4
+   ],
+   [
+    "thinks",
+    2.72
+   ],
+   [
+    "youve",
+    3.11
+   ],
+   [
+    "swallowed",
+    3.44
+   ],
+   [
+    "poison",
+    4.02
+   ]
+  ]
+ },
+ {
+  "s": 4.8,
+  "e": 6.19,
+  "text": "And for one in three people,",
+  "words": [
+   [
+    "and",
+    4.8
+   ],
+   [
+    "for",
+    4.99
+   ],
+   [
+    "one",
+    5.18
+   ],
+   [
+    "in",
+    5.37
+   ],
+   [
+    "three",
+    5.49
+   ],
+   [
+    "people",
+    5.81
+   ]
+  ]
+ },
+ {
+  "s": 6.61,
+  "e": 9.26,
+  "text": "that alarm goes off on almost every ride.",
+  "words": [
+   [
+    "that",
+    6.61
+   ],
+   [
+    "alarm",
+    6.93
+   ],
+   [
+    "goes",
+    7.33
+   ],
+   [
+    "off",
+    7.65
+   ],
+   [
+    "on",
+    7.9
+   ],
+   [
+    "almost",
+    8.06
+   ],
+   [
+    "every",
+    8.54
+   ],
+   [
+    "ride",
+    8.94
+   ]
+  ]
+ },
+ {
+  "s": 9.65,
+  "e": 11.96,
+  "text": "So why does the back seat wreck some of us,",
+  "words": [
+   [
+    "so",
+    9.65
+   ],
+   [
+    "why",
+    9.79
+   ],
+   [
+    "does",
+    10.0
+   ],
+   [
+    "the",
+    10.28
+   ],
+   [
+    "back",
+    10.49
+   ],
+   [
+    "seat",
+    10.77
+   ],
+   [
+    "wreck",
+    11.05
+   ],
+   [
+    "some",
+    11.4
+   ],
+   [
+    "of",
+    11.68
+   ],
+   [
+    "us",
+    11.82
+   ]
+  ]
+ },
+ {
+  "s": 12.42,
+  "e": 15.33,
+  "text": "while others read a whole book and feel totally fine?",
+  "words": [
+   [
+    "while",
+    12.42
+   ],
+   [
+    "others",
+    12.76
+   ],
+   [
+    "read",
+    13.17
+   ],
+   [
+    "a",
+    13.44
+   ],
+   [
+    "whole",
+    13.5
+   ],
+   [
+    "book",
+    13.84
+   ],
+   [
+    "and",
+    14.11
+   ],
+   [
+    "feel",
+    14.31
+   ],
+   [
+    "totally",
+    14.58
+   ],
+   [
+    "fine",
+    15.06
+   ]
+  ]
+ },
+ {
+  "s": 15.82,
+  "e": 18.49,
+  "text": "To find out, we need to look inside your head.",
+  "words": [
+   [
+    "to",
+    15.82
+   ],
+   [
+    "find",
+    15.97
+   ],
+   [
+    "out",
+    16.28
+   ],
+   [
+    "we",
+    16.5
+   ],
+   [
+    "need",
+    16.66
+   ],
+   [
+    "to",
+    16.96
+   ],
+   [
+    "look",
+    17.12
+   ],
+   [
+    "inside",
+    17.42
+   ],
+   [
+    "your",
+    17.88
+   ],
+   [
+    "head",
+    18.18
+   ]
+  ]
+ },
+ {
+  "s": 18.89,
+  "e": 21.8,
+  "text": "You know how you're moving using two main systems.",
+  "words": [
+   [
+    "you",
+    18.89
+   ],
+   [
+    "know",
+    19.11
+   ],
+   [
+    "how",
+    19.4
+   ],
+   [
+    "youre",
+    19.62
+   ],
+   [
+    "moving",
+    19.98
+   ],
+   [
+    "using",
+    20.42
+   ],
+   [
+    "two",
+    20.78
+   ],
+   [
+    "main",
+    21.0
+   ],
+   [
+    "systems",
+    21.29
+   ]
+  ]
+ },
+ {
+  "s": 22.24,
+  "e": 23.4,
+  "text": "Your eyes are one.",
+  "words": [
+   [
+    "your",
+    22.24
+   ],
+   [
+    "eyes",
+    22.57
+   ],
+   [
+    "are",
+    22.9
+   ],
+   [
+    "one",
+    23.15
+   ]
+  ]
+ },
+ {
+  "s": 23.69,
+  "e": 26.06,
+  "text": "The other is hidden deep inside each ear.",
+  "words": [
+   [
+    "the",
+    23.69
+   ],
+   [
+    "other",
+    23.91
+   ],
+   [
+    "is",
+    24.27
+   ],
+   [
+    "hidden",
+    24.41
+   ],
+   [
+    "deep",
+    24.84
+   ],
+   [
+    "inside",
+    25.13
+   ],
+   [
+    "each",
+    25.56
+   ],
+   [
+    "ear",
+    25.85
+   ]
+  ]
+ },
+ {
+  "s": 26.41,
+  "e": 28.03,
+  "text": "It's called the vestibular system,",
+  "words": [
+   [
+    "its",
+    26.41
+   ],
+   [
+    "called",
+    26.58
+   ],
+   [
+    "the",
+    26.93
+   ],
+   [
+    "vestibular",
+    27.1
+   ],
+   [
+    "system",
+    27.68
+   ]
+  ]
+ },
+ {
+  "s": 28.54,
+  "e": 31.15,
+  "text": "and it's basically a built-in motion sensor.",
+  "words": [
+   [
+    "and",
+    28.54
+   ],
+   [
+    "its",
+    28.76
+   ],
+   [
+    "basically",
+    28.99
+   ],
+   [
+    "a",
+    29.66
+   ],
+   [
+    "builtin",
+    29.73
+   ],
+   [
+    "motion",
+    30.25
+   ],
+   [
+    "sensor",
+    30.7
+   ]
+  ]
+ },
+ {
+  "s": 31.62,
+  "e": 33.94,
+  "text": "Three tiny loops filled with fluid",
+  "words": [
+   [
+    "three",
+    31.62
+   ],
+   [
+    "tiny",
+    32.02
+   ],
+   [
+    "loops",
+    32.34
+   ],
+   [
+    "filled",
+    32.74
+   ],
+   [
+    "with",
+    33.22
+   ],
+   [
+    "fluid",
+    33.54
+   ]
+  ]
+ },
+ {
+  "s": 34.34,
+  "e": 35.94,
+  "text": "sense every time your head turns.",
+  "words": [
+   [
+    "sense",
+    34.34
+   ],
+   [
+    "every",
+    34.63
+   ],
+   [
+    "time",
+    34.93
+   ],
+   [
+    "your",
+    35.17
+   ],
+   [
+    "head",
+    35.41
+   ],
+   [
+    "turns",
+    35.65
+   ]
+  ]
+ },
+ {
+  "s": 36.37,
+  "e": 39.32,
+  "text": "And two little sacs lined with tiny crystals",
+  "words": [
+   [
+    "and",
+    36.37
+   ],
+   [
+    "two",
+    36.61
+   ],
+   [
+    "little",
+    36.85
+   ],
+   [
+    "sacs",
+    37.33
+   ],
+   [
+    "lined",
+    37.65
+   ],
+   [
+    "with",
+    38.05
+   ],
+   [
+    "tiny",
+    38.36
+   ],
+   [
+    "crystals",
+    38.68
+   ]
+  ]
+ },
+ {
+  "s": 39.39,
+  "e": 41.61,
+  "text": "feel you speed up, slow down and tip.",
+  "words": [
+   [
+    "feel",
+    39.39
+   ],
+   [
+    "you",
+    39.71
+   ],
+   [
+    "speed",
+    39.95
+   ],
+   [
+    "up",
+    40.34
+   ],
+   [
+    "slow",
+    40.5
+   ],
+   [
+    "down",
+    40.82
+   ],
+   [
+    "and",
+    41.14
+   ],
+   [
+    "tip",
+    41.37
+   ]
+  ]
+ },
+ {
+  "s": 42.06,
+  "e": 44.42,
+  "text": "Most of the time your eyes and ears agree.",
+  "words": [
+   [
+    "most",
+    42.06
+   ],
+   [
+    "of",
+    42.34
+   ],
+   [
+    "the",
+    42.49
+   ],
+   [
+    "time",
+    42.7
+   ],
+   [
+    "your",
+    42.99
+   ],
+   [
+    "eyes",
+    43.27
+   ],
+   [
+    "and",
+    43.56
+   ],
+   [
+    "ears",
+    43.78
+   ],
+   [
+    "agree",
+    44.06
+   ]
+  ]
+ },
+ {
+  "s": 44.83,
+  "e": 47.83,
+  "text": "But picture yourself in the back seat, reading a phone.",
+  "words": [
+   [
+    "but",
+    44.83
+   ],
+   [
+    "picture",
+    45.03
+   ],
+   [
+    "yourself",
+    45.51
+   ],
+   [
+    "in",
+    46.06
+   ],
+   [
+    "the",
+    46.19
+   ],
+   [
+    "back",
+    46.4
+   ],
+   [
+    "seat",
+    46.67
+   ],
+   [
+    "reading",
+    46.94
+   ],
+   [
+    "a",
+    47.42
+   ],
+   [
+    "phone",
+    47.49
+   ]
+  ]
+ },
+ {
+  "s": 48.21,
+  "e": 50.31,
+  "text": "Your eyes see a screen that isn't moving.",
+  "words": [
+   [
+    "your",
+    48.21
+   ],
+   [
+    "eyes",
+    48.47
+   ],
+   [
+    "see",
+    48.74
+   ],
+   [
+    "a",
+    48.93
+   ],
+   [
+    "screen",
+    49.0
+   ],
+   [
+    "that",
+    49.39
+   ],
+   [
+    "isnt",
+    49.66
+   ],
+   [
+    "moving",
+    49.92
+   ]
+  ]
+ },
+ {
+  "s": 50.7,
+  "e": 53.4,
+  "text": "Your inner ear feels every bump and every curve.",
+  "words": [
+   [
+    "your",
+    50.7
+   ],
+   [
+    "inner",
+    50.97
+   ],
+   [
+    "ear",
+    51.32
+   ],
+   [
+    "feels",
+    51.53
+   ],
+   [
+    "every",
+    51.87
+   ],
+   [
+    "bump",
+    52.22
+   ],
+   [
+    "and",
+    52.5
+   ],
+   [
+    "every",
+    52.7
+   ],
+   [
+    "curve",
+    53.05
+   ]
+  ]
+ },
+ {
+  "s": 53.79,
+  "e": 56.09,
+  "text": "One says still. The other says moving.",
+  "words": [
+   [
+    "one",
+    53.79
+   ],
+   [
+    "says",
+    54.02
+   ],
+   [
+    "still",
+    54.32
+   ],
+   [
+    "the",
+    54.71
+   ],
+   [
+    "other",
+    54.94
+   ],
+   [
+    "says",
+    55.32
+   ],
+   [
+    "moving",
+    55.63
+   ]
+  ]
+ },
+ {
+  "s": 56.44,
+  "e": 58.65,
+  "text": "Scientists call this sensory conflict,",
+  "words": [
+   [
+    "scientists",
+    56.44
+   ],
+   [
+    "call",
+    57.11
+   ],
+   [
+    "this",
+    57.38
+   ],
+   [
+    "sensory",
+    57.65
+   ],
+   [
+    "conflict",
+    58.12
+   ]
+  ]
+ },
+ {
+  "s": 59.26,
+  "e": 62.05,
+  "text": "and it's the leading explanation for motion sickness.",
+  "words": [
+   [
+    "and",
+    59.26
+   ],
+   [
+    "its",
+    59.45
+   ],
+   [
+    "the",
+    59.64
+   ],
+   [
+    "leading",
+    59.83
+   ],
+   [
+    "explanation",
+    60.28
+   ],
+   [
+    "for",
+    60.97
+   ],
+   [
+    "motion",
+    61.16
+   ],
+   [
+    "sickness",
+    61.55
+   ]
+  ]
+ },
+ {
+  "s": 62.51,
+  "e": 65.18,
+  "text": "So why would a mixed-up signal make you feel sick?",
+  "words": [
+   [
+    "so",
+    62.51
+   ],
+   [
+    "why",
+    62.65
+   ],
+   [
+    "would",
+    62.86
+   ],
+   [
+    "a",
+    63.2
+   ],
+   [
+    "mixedup",
+    63.27
+   ],
+   [
+    "signal",
+    63.74
+   ],
+   [
+    "make",
+    64.15
+   ],
+   [
+    "you",
+    64.43
+   ],
+   [
+    "feel",
+    64.63
+   ],
+   [
+    "sick",
+    64.9
+   ]
+  ]
+ },
+ {
+  "s": 65.68,
+  "e": 69.12,
+  "text": "One popular theory goes way back to our ancestors.",
+  "words": [
+   [
+    "one",
+    65.68
+   ],
+   [
+    "popular",
+    65.93
+   ],
+   [
+    "theory",
+    66.52
+   ],
+   [
+    "goes",
+    67.02
+   ],
+   [
+    "way",
+    67.35
+   ],
+   [
+    "back",
+    67.61
+   ],
+   [
+    "to",
+    67.94
+   ],
+   [
+    "our",
+    68.11
+   ],
+   [
+    "ancestors",
+    68.36
+   ]
+  ]
+ },
+ {
+  "s": 69.51,
+  "e": 72.42,
+  "text": "Long ago, if your senses suddenly stopped agreeing,",
+  "words": [
+   [
+    "long",
+    69.51
+   ],
+   [
+    "ago",
+    69.78
+   ],
+   [
+    "if",
+    69.99
+   ],
+   [
+    "your",
+    70.13
+   ],
+   [
+    "senses",
+    70.41
+   ],
+   [
+    "suddenly",
+    70.82
+   ],
+   [
+    "stopped",
+    71.38
+   ],
+   [
+    "agreeing",
+    71.86
+   ]
+  ]
+ },
+ {
+  "s": 72.98,
+  "e": 75.67,
+  "text": "a likely cause was something toxic you'd eaten.",
+  "words": [
+   [
+    "a",
+    72.98
+   ],
+   [
+    "likely",
+    73.05
+   ],
+   [
+    "cause",
+    73.47
+   ],
+   [
+    "was",
+    73.83
+   ],
+   [
+    "something",
+    74.04
+   ],
+   [
+    "toxic",
+    74.68
+   ],
+   [
+    "youd",
+    75.03
+   ],
+   [
+    "eaten",
+    75.32
+   ]
+  ]
+ },
+ {
+  "s": 76.04,
+  "e": 78.31,
+  "text": "So the brain may have learned a simple rule.",
+  "words": [
+   [
+    "so",
+    76.04
+   ],
+   [
+    "the",
+    76.17
+   ],
+   [
+    "brain",
+    76.36
+   ],
+   [
+    "may",
+    76.69
+   ],
+   [
+    "have",
+    76.88
+   ],
+   [
+    "learned",
+    77.14
+   ],
+   [
+    "a",
+    77.59
+   ],
+   [
+    "simple",
+    77.66
+   ],
+   [
+    "rule",
+    78.05
+   ]
+  ]
+ },
+ {
+  "s": 78.75,
+  "e": 81.14,
+  "text": "Signals don't match? Empty the stomach.",
+  "words": [
+   [
+    "signals",
+    78.75
+   ],
+   [
+    "dont",
+    79.29
+   ],
+   [
+    "match",
+    79.59
+   ],
+   [
+    "empty",
+    79.98
+   ],
+   [
+    "the",
+    80.36
+   ],
+   [
+    "stomach",
+    80.6
+   ]
+  ]
+ },
+ {
+  "s": 81.59,
+  "e": 83.68,
+  "text": "Researchers still debate this idea,",
+  "words": [
+   [
+    "researchers",
+    81.59
+   ],
+   [
+    "still",
+    82.36
+   ],
+   [
+    "debate",
+    82.71
+   ],
+   [
+    "this",
+    83.13
+   ],
+   [
+    "idea",
+    83.4
+   ]
+  ]
+ },
+ {
+  "s": 84.25,
+  "e": 85.86,
+  "text": "but it would explain why a bumpy ride",
+  "words": [
+   [
+    "but",
+    84.25
+   ],
+   [
+    "it",
+    84.41
+   ],
+   [
+    "would",
+    84.52
+   ],
+   [
+    "explain",
+    84.79
+   ],
+   [
+    "why",
+    85.17
+   ],
+   [
+    "a",
+    85.33
+   ],
+   [
+    "bumpy",
+    85.38
+   ],
+   [
+    "ride",
+    85.65
+   ]
+  ]
+ },
+ {
+  "s": 85.92,
+  "e": 88.71,
+  "text": "can feel a lot like food poisoning.",
+  "words": [
+   [
+    "can",
+    85.92
+   ],
+   [
+    "feel",
+    86.22
+   ],
+   [
+    "a",
+    86.62
+   ],
+   [
+    "lot",
+    86.72
+   ],
+   [
+    "like",
+    87.02
+   ],
+   [
+    "food",
+    87.42
+   ],
+   [
+    "poisoning",
+    87.82
+   ]
+  ]
+ },
+ {
+  "s": 89.09,
+  "e": 90.64,
+  "text": "Here's where it gets personal.",
+  "words": [
+   [
+    "heres",
+    89.09
+   ],
+   [
+    "where",
+    89.41
+   ],
+   [
+    "it",
+    89.73
+   ],
+   [
+    "gets",
+    89.86
+   ],
+   [
+    "personal",
+    90.12
+   ]
+  ]
+ },
+ {
+  "s": 91.07,
+  "e": 94.25,
+  "text": "In 2015 the genetics company 23andMe",
+  "words": [
+   [
+    "in",
+    91.07
+   ],
+   [
+    "2015",
+    91.27
+   ],
+   [
+    "the",
+    91.68
+   ],
+   [
+    "genetics",
+    91.99
+   ],
+   [
+    "company",
+    92.81
+   ],
+   [
+    "23andme",
+    93.53
+   ]
+  ]
+ },
+ {
+  "s": 94.25,
+  "e": 97.84,
+  "text": "studied more than eighty thousand people.",
+  "words": [
+   [
+    "studied",
+    94.25
+   ],
+   [
+    "more",
+    94.96
+   ],
+   [
+    "than",
+    95.37
+   ],
+   [
+    "eighty",
+    95.78
+   ],
+   [
+    "thousand",
+    96.4
+   ],
+   [
+    "people",
+    97.22
+   ]
+  ]
+ },
+ {
+  "s": 98.24,
+  "e": 100.68,
+  "text": "They found thirty-five spots in our DNA",
+  "words": [
+   [
+    "they",
+    98.24
+   ],
+   [
+    "found",
+    98.54
+   ],
+   [
+    "thirtyfive",
+    98.92
+   ],
+   [
+    "spots",
+    99.68
+   ],
+   [
+    "in",
+    100.07
+   ],
+   [
+    "our",
+    100.22
+   ],
+   [
+    "dna",
+    100.45
+   ]
+  ]
+ },
+ {
+  "s": 101.05,
+  "e": 102.53,
+  "text": "linked to motion sickness.",
+  "words": [
+   [
+    "linked",
+    101.05
+   ],
+   [
+    "to",
+    101.45
+   ],
+   [
+    "motion",
+    101.59
+   ],
+   [
+    "sickness",
+    101.99
+   ]
+  ]
+ },
+ {
+  "s": 102.92,
+  "e": 106.34,
+  "text": "And some studies suggest up to seventy percent",
+  "words": [
+   [
+    "and",
+    102.92
+   ],
+   [
+    "some",
+    103.18
+   ],
+   [
+    "studies",
+    103.53
+   ],
+   [
+    "suggest",
+    104.15
+   ],
+   [
+    "up",
+    104.76
+   ],
+   [
+    "to",
+    104.94
+   ],
+   [
+    "seventy",
+    105.11
+   ],
+   [
+    "percent",
+    105.73
+   ]
+  ]
+ },
+ {
+  "s": 106.41,
+  "e": 109.11,
+  "text": "of the difference between people comes down to genes.",
+  "words": [
+   [
+    "of",
+    106.41
+   ],
+   [
+    "the",
+    106.53
+   ],
+   [
+    "difference",
+    106.72
+   ],
+   [
+    "between",
+    107.33
+   ],
+   [
+    "people",
+    107.76
+   ],
+   [
+    "comes",
+    108.13
+   ],
+   [
+    "down",
+    108.43
+   ],
+   [
+    "to",
+    108.68
+   ],
+   [
+    "genes",
+    108.8
+   ]
+  ]
+ },
+ {
+  "s": 109.53,
+  "e": 110.71,
+  "text": "Age matters too.",
+  "words": [
+   [
+    "age",
+    109.53
+   ],
+   [
+    "matters",
+    109.81
+   ],
+   [
+    "too",
+    110.44
+   ]
+  ]
+ },
+ {
+  "s": 111.05,
+  "e": 114.22,
+  "text": "Kids between about seven and twelve get it the most,",
+  "words": [
+   [
+    "kids",
+    111.05
+   ],
+   [
+    "between",
+    111.35
+   ],
+   [
+    "about",
+    111.88
+   ],
+   [
+    "seven",
+    112.26
+   ],
+   [
+    "and",
+    112.64
+   ],
+   [
+    "twelve",
+    112.86
+   ],
+   [
+    "get",
+    113.32
+   ],
+   [
+    "it",
+    113.54
+   ],
+   [
+    "the",
+    113.69
+   ],
+   [
+    "most",
+    113.92
+   ]
+  ]
+ },
+ {
+  "s": 114.66,
+  "e": 116.97,
+  "text": "and lots of people grow out of the worst of it.",
+  "words": [
+   [
+    "and",
+    114.66
+   ],
+   [
+    "lots",
+    114.86
+   ],
+   [
+    "of",
+    115.11
+   ],
+   [
+    "people",
+    115.24
+   ],
+   [
+    "grow",
+    115.62
+   ],
+   [
+    "out",
+    115.88
+   ],
+   [
+    "of",
+    116.07
+   ],
+   [
+    "the",
+    116.2
+   ],
+   [
+    "worst",
+    116.39
+   ],
+   [
+    "of",
+    116.71
+   ],
+   [
+    "it",
+    116.84
+   ]
+  ]
+ },
+ {
+  "s": 117.42,
+  "e": 119.58,
+  "text": "Women report it more often than men,",
+  "words": [
+   [
+    "women",
+    117.42
+   ],
+   [
+    "report",
+    117.79
+   ],
+   [
+    "it",
+    118.24
+   ],
+   [
+    "more",
+    118.38
+   ],
+   [
+    "often",
+    118.68
+   ],
+   [
+    "than",
+    119.06
+   ],
+   [
+    "men",
+    119.35
+   ]
+  ]
+ },
+ {
+  "s": 120.11,
+  "e": 122.28,
+  "text": "and so do people who get migraines.",
+  "words": [
+   [
+    "and",
+    120.11
+   ],
+   [
+    "so",
+    120.34
+   ],
+   [
+    "do",
+    120.49
+   ],
+   [
+    "people",
+    120.65
+   ],
+   [
+    "who",
+    121.11
+   ],
+   [
+    "get",
+    121.35
+   ],
+   [
+    "migraines",
+    121.58
+   ]
+  ]
+ },
+ {
+  "s": 122.67,
+  "e": 125.69,
+  "text": "So if your whole family turns green on road trips,",
+  "words": [
+   [
+    "so",
+    122.67
+   ],
+   [
+    "if",
+    122.82
+   ],
+   [
+    "your",
+    122.97
+   ],
+   [
+    "whole",
+    123.27
+   ],
+   [
+    "family",
+    123.65
+   ],
+   [
+    "turns",
+    124.1
+   ],
+   [
+    "green",
+    124.48
+   ],
+   [
+    "on",
+    124.86
+   ],
+   [
+    "road",
+    125.01
+   ],
+   [
+    "trips",
+    125.31
+   ]
+  ]
+ },
+ {
+  "s": 126.11,
+  "e": 128.09,
+  "text": "that's probably not a coincidence.",
+  "words": [
+   [
+    "thats",
+    126.11
+   ],
+   [
+    "probably",
+    126.46
+   ],
+   [
+    "not",
+    127.03
+   ],
+   [
+    "a",
+    127.24
+   ],
+   [
+    "coincidence",
+    127.31
+   ]
+  ]
+ },
+ {
+  "s": 128.54,
+  "e": 130.15,
+  "text": "Now for the strangest part.",
+  "words": [
+   [
+    "now",
+    128.54
+   ],
+   [
+    "for",
+    128.76
+   ],
+   [
+    "the",
+    128.98
+   ],
+   [
+    "strangest",
+    129.2
+   ],
+   [
+    "part",
+    129.86
+   ]
+  ]
+ },
+ {
+  "s": 130.53,
+  "e": 135.07,
+  "text": "People who have completely lost the motion sensors in their inner ears",
+  "words": [
+   [
+    "people",
+    130.53
+   ],
+   [
+    "who",
+    130.99
+   ],
+   [
+    "have",
+    131.22
+   ],
+   [
+    "completely",
+    131.53
+   ],
+   [
+    "lost",
+    132.3
+   ],
+   [
+    "the",
+    132.6
+   ],
+   [
+    "motion",
+    132.83
+   ],
+   [
+    "sensors",
+    133.3
+   ],
+   [
+    "in",
+    133.84
+   ],
+   [
+    "their",
+    133.99
+   ],
+   [
+    "inner",
+    134.37
+   ],
+   [
+    "ears",
+    134.76
+   ]
+  ]
+ },
+ {
+  "s": 135.6,
+  "e": 137.39,
+  "text": "basically don't get motion sick at all.",
+  "words": [
+   [
+    "basically",
+    135.6
+   ],
+   [
+    "dont",
+    136.12
+   ],
+   [
+    "get",
+    136.35
+   ],
+   [
+    "motion",
+    136.52
+   ],
+   [
+    "sick",
+    136.87
+   ],
+   [
+    "at",
+    137.1
+   ],
+   [
+    "all",
+    137.21
+   ]
+  ]
+ },
+ {
+  "s": 137.85,
+  "e": 141.01,
+  "text": "No inner ear signal, no conflict, no alarm.",
+  "words": [
+   [
+    "no",
+    137.85
+   ],
+   [
+    "inner",
+    138.04
+   ],
+   [
+    "ear",
+    138.52
+   ],
+   [
+    "signal",
+    138.8
+   ],
+   [
+    "no",
+    139.38
+   ],
+   [
+    "conflict",
+    139.57
+   ],
+   [
+    "no",
+    140.34
+   ],
+   [
+    "alarm",
+    140.53
+   ]
+  ]
+ },
+ {
+  "s": 141.46,
+  "e": 142.94,
+  "text": "What you can see matters too.",
+  "words": [
+   [
+    "what",
+    141.46
+   ],
+   [
+    "you",
+    141.72
+   ],
+   [
+    "can",
+    141.91
+   ],
+   [
+    "see",
+    142.1
+   ],
+   [
+    "matters",
+    142.29
+   ],
+   [
+    "too",
+    142.74
+   ]
+  ]
+ },
+ {
+  "s": 143.33,
+  "e": 146.81,
+  "text": "One study found that passengers who couldn't see the road ahead",
+  "words": [
+   [
+    "one",
+    143.33
+   ],
+   [
+    "study",
+    143.53
+   ],
+   [
+    "found",
+    143.87
+   ],
+   [
+    "that",
+    144.2
+   ],
+   [
+    "passengers",
+    144.47
+   ],
+   [
+    "who",
+    145.14
+   ],
+   [
+    "couldnt",
+    145.34
+   ],
+   [
+    "see",
+    145.81
+   ],
+   [
+    "the",
+    146.01
+   ],
+   [
+    "road",
+    146.21
+   ],
+   [
+    "ahead",
+    146.48
+   ]
+  ]
+ },
+ {
+  "s": 147.31,
+  "e": 150.05,
+  "text": "were about three times more likely to feel sick.",
+  "words": [
+   [
+    "were",
+    147.31
+   ],
+   [
+    "about",
+    147.59
+   ],
+   [
+    "three",
+    147.94
+   ],
+   [
+    "times",
+    148.29
+   ],
+   [
+    "more",
+    148.64
+   ],
+   [
+    "likely",
+    148.92
+   ],
+   [
+    "to",
+    149.35
+   ],
+   [
+    "feel",
+    149.49
+   ],
+   [
+    "sick",
+    149.77
+   ]
+  ]
+ },
+ {
+  "s": 150.5,
+  "e": 152.34,
+  "text": "And the driver? Usually fine.",
+  "words": [
+   [
+    "and",
+    150.5
+   ],
+   [
+    "the",
+    150.74
+   ],
+   [
+    "driver",
+    150.98
+   ],
+   [
+    "usually",
+    151.46
+   ],
+   [
+    "fine",
+    152.02
+   ]
+  ]
+ },
+ {
+  "s": 152.69,
+  "e": 155.37,
+  "text": "The driver knows every turn before it happens,",
+  "words": [
+   [
+    "the",
+    152.69
+   ],
+   [
+    "driver",
+    152.9
+   ],
+   [
+    "knows",
+    153.32
+   ],
+   [
+    "every",
+    153.68
+   ],
+   [
+    "turn",
+    154.03
+   ],
+   [
+    "before",
+    154.31
+   ],
+   [
+    "it",
+    154.73
+   ],
+   [
+    "happens",
+    154.87
+   ]
+  ]
+ },
+ {
+  "s": 155.77,
+  "e": 158.1,
+  "text": "so the brain isn't caught by surprise.",
+  "words": [
+   [
+    "so",
+    155.77
+   ],
+   [
+    "the",
+    155.92
+   ],
+   [
+    "brain",
+    156.16
+   ],
+   [
+    "isnt",
+    156.54
+   ],
+   [
+    "caught",
+    156.86
+   ],
+   [
+    "by",
+    157.32
+   ],
+   [
+    "surprise",
+    157.48
+   ]
+  ]
+ },
+ {
+  "s": 158.46,
+  "e": 162.03,
+  "text": "This old alarm is now facing brand new problems.",
+  "words": [
+   [
+    "this",
+    158.46
+   ],
+   [
+    "old",
+    158.83
+   ],
+   [
+    "alarm",
+    159.1
+   ],
+   [
+    "is",
+    159.56
+   ],
+   [
+    "now",
+    159.74
+   ],
+   [
+    "facing",
+    160.02
+   ],
+   [
+    "brand",
+    160.57
+   ],
+   [
+    "new",
+    161.02
+   ],
+   [
+    "problems",
+    161.3
+   ]
+  ]
+ },
+ {
+  "s": 162.51,
+  "e": 165.25,
+  "text": "Virtual reality flips the conflict around.",
+  "words": [
+   [
+    "virtual",
+    162.51
+   ],
+   [
+    "reality",
+    163.04
+   ],
+   [
+    "flips",
+    163.57
+   ],
+   [
+    "the",
+    163.95
+   ],
+   [
+    "conflict",
+    164.18
+   ],
+   [
+    "around",
+    164.79
+   ]
+  ]
+ },
+ {
+  "s": 165.66,
+  "e": 169.32,
+  "text": "Your eyes see motion, but your body sits perfectly still.",
+  "words": [
+   [
+    "your",
+    165.66
+   ],
+   [
+    "eyes",
+    165.98
+   ],
+   [
+    "see",
+    166.3
+   ],
+   [
+    "motion",
+    166.54
+   ],
+   [
+    "but",
+    167.02
+   ],
+   [
+    "your",
+    167.26
+   ],
+   [
+    "body",
+    167.57
+   ],
+   [
+    "sits",
+    167.89
+   ],
+   [
+    "perfectly",
+    168.21
+   ],
+   [
+    "still",
+    168.93
+   ]
+  ]
+ },
+ {
+  "s": 169.8,
+  "e": 172.02,
+  "text": "And as cars start driving themselves,",
+  "words": [
+   [
+    "and",
+    169.8
+   ],
+   [
+    "as",
+    170.02
+   ],
+   [
+    "cars",
+    170.16
+   ],
+   [
+    "start",
+    170.44
+   ],
+   [
+    "driving",
+    170.8
+   ],
+   [
+    "themselves",
+    171.3
+   ]
+  ]
+ },
+ {
+  "s": 172.49,
+  "e": 174.06,
+  "text": "everyone becomes a passenger,",
+  "words": [
+   [
+    "everyone",
+    172.49
+   ],
+   [
+    "becomes",
+    172.99
+   ],
+   [
+    "a",
+    173.43
+   ],
+   [
+    "passenger",
+    173.5
+   ]
+  ]
+ },
+ {
+  "s": 174.52,
+  "e": 176.84,
+  "text": "staring at screens instead of the road.",
+  "words": [
+   [
+    "staring",
+    174.52
+   ],
+   [
+    "at",
+    175.03
+   ],
+   [
+    "screens",
+    175.17
+   ],
+   [
+    "instead",
+    175.68
+   ],
+   [
+    "of",
+    176.19
+   ],
+   [
+    "the",
+    176.33
+   ],
+   [
+    "road",
+    176.55
+   ]
+  ]
+ },
+ {
+  "s": 177.27,
+  "e": 179.35,
+  "text": "So engineers are testing tricks,",
+  "words": [
+   [
+    "so",
+    177.27
+   ],
+   [
+    "engineers",
+    177.43
+   ],
+   [
+    "are",
+    178.12
+   ],
+   [
+    "testing",
+    178.35
+   ],
+   [
+    "tricks",
+    178.89
+   ]
+  ]
+ },
+ {
+  "s": 179.69,
+  "e": 181.53,
+  "text": "like lights that hint at the next turn,",
+  "words": [
+   [
+    "like",
+    179.69
+   ],
+   [
+    "lights",
+    179.93
+   ],
+   [
+    "that",
+    180.28
+   ],
+   [
+    "hint",
+    180.52
+   ],
+   [
+    "at",
+    180.76
+   ],
+   [
+    "the",
+    180.88
+   ],
+   [
+    "next",
+    181.06
+   ],
+   [
+    "turn",
+    181.29
+   ]
+  ]
+ },
+ {
+  "s": 182.04,
+  "e": 184.44,
+  "text": "to help your eyes and ears agree again.",
+  "words": [
+   [
+    "to",
+    182.04
+   ],
+   [
+    "help",
+    182.2
+   ],
+   [
+    "your",
+    182.5
+   ],
+   [
+    "eyes",
+    182.81
+   ],
+   [
+    "and",
+    183.12
+   ],
+   [
+    "ears",
+    183.35
+   ],
+   [
+    "agree",
+    183.66
+   ],
+   [
+    "again",
+    184.05
+   ]
+  ]
+ },
+ {
+  "s": 184.89,
+  "e": 187.53,
+  "text": "So the next time a car ride makes you queasy,",
+  "words": [
+   [
+    "so",
+    184.89
+   ],
+   [
+    "the",
+    185.04
+   ],
+   [
+    "next",
+    185.26
+   ],
+   [
+    "time",
+    185.57
+   ],
+   [
+    "a",
+    185.87
+   ],
+   [
+    "car",
+    185.94
+   ],
+   [
+    "ride",
+    186.17
+   ],
+   [
+    "makes",
+    186.47
+   ],
+   [
+    "you",
+    186.85
+   ],
+   [
+    "queasy",
+    187.07
+   ]
+  ]
+ },
+ {
+  "s": 187.76,
+  "e": 190.06,
+  "text": "remember, your brain isn't broken.",
+  "words": [
+   [
+    "remember",
+    187.76
+   ],
+   [
+    "your",
+    188.44
+   ],
+   [
+    "brain",
+    188.78
+   ],
+   [
+    "isnt",
+    189.2
+   ],
+   [
+    "broken",
+    189.54
+   ]
+  ]
+ },
+ {
+  "s": 190.5,
+  "e": 193.33,
+  "text": "It's just protecting you from a poison that isn't there.",
+  "words": [
+   [
+    "its",
+    190.5
+   ],
+   [
+    "just",
+    190.69
+   ],
+   [
+    "protecting",
+    190.95
+   ],
+   [
+    "you",
+    191.59
+   ],
+   [
+    "from",
+    191.78
+   ],
+   [
+    "a",
+    192.04
+   ],
+   [
+    "poison",
+    192.1
+   ],
+   [
+    "that",
+    192.49
+   ],
+   [
+    "isnt",
+    192.75
+   ],
+   [
+    "there",
+    193.01
+   ]
+  ]
+ },
+ {
+  "s": 193.74,
+  "e": 195.63,
+  "text": "Next time, what really happens",
+  "words": [
+   [
+    "next",
+    193.74
+   ],
+   [
+    "time",
+    194.04
+   ],
+   [
+    "what",
+    194.34
+   ],
+   [
+    "really",
+    194.64
+   ],
+   [
+    "happens",
+    195.1
+   ]
+  ]
+ },
+ {
+  "s": 195.7,
+  "e": 198.15,
+  "text": "if a porcupine's quills get stuck in you?",
+  "words": [
+   [
+    "if",
+    195.7
+   ],
+   [
+    "a",
+    195.85
+   ],
+   [
+    "porcupines",
+    195.93
+   ],
+   [
+    "quills",
+    196.69
+   ],
+   [
+    "get",
+    197.15
+   ],
+   [
+    "stuck",
+    197.38
+   ],
+   [
+    "in",
+    197.77
+   ],
+   [
+    "you",
+    197.92
+   ]
+  ]
+ }
+]
