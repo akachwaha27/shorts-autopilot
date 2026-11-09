@@ -378,277 +378,6 @@
     }
   },
   "videos": {
-    "2026-11-03-102": {
-      "topic": {
-        "title": "Why are dogs' noses wet?",
-        "format": "animated",
-        "angle": "Low-Poly Faceted"
-      },
-      "package": {
-        "title": "Why Are Dogs' Noses Actually Wet? \ud83d\udc36",
-        "description": "Why are dogs' noses wet? A thin layer of mucus helps trap scent particles, licking carries them to a special scent organ in the mouth, and a 2020 study suggests a dog's cool nose may also sense faint heat.\n\nSources:\nhttps://vcacanada.com/know-your-pet/why-do-dogs-have-wet-noses\nhttps://www.smithsonianmag.com/smart-news/dogs-cool-noses-may-be-able-detect-heat-180974321/\nhttps://phys.org/news/2020-03-dogs.amp\n\nAnimated in the Low-Poly Faceted style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#dogs",
-          "#animals",
-          "#science"
-        ],
-        "tags": [
-          "why are dogs noses wet",
-          "dog nose",
-          "wet dog nose",
-          "dog sense of smell",
-          "dog scent receptors",
-          "jacobson's organ",
-          "dogs sense heat",
-          "dog facts",
-          "animal facts",
-          "animal science",
-          "science explained",
-          "fun facts",
-          "zorbly ai",
-          "animated explainer",
-          "how it works"
-        ],
-        "category": "27",
-        "pinned_comment": "What's the weirdest thing your dog has ever sniffed out?",
-        "thumbnail_text": "SMELL TRAP",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "Your dog's wet nose traps smells you'll never notice, and it might even sense heat. That shine is a thin layer of mucus, made by tiny glands in the nose. Smells are tiny floating particles, and they stick better to damp surfaces. Then your dog licks its nose, carrying those particles into its mouth, up to a special scent organ. Dogs have over a hundred million scent receptors. You've got about six million. But here's the strange part. In twenty-twenty, scientists trained three dogs to find the warmer of two objects, from about five feet away. All three could do it. That cool nose tip may work like a tiny heat sensor, though scientists are still testing that. So what's the weirdest thing your dog's wet nose ever found?",
-        "key_facts": [
-          "Glands in a dog's nose produce mucus, and a thin layer clings to the nostrils and helps absorb scent chemicals (VCA)",
-          "Scent particles stick better to damp surfaces (VCA)",
-          "Dogs lick their noses, carrying scent particles to the Jacobson's organ on the roof of the mouth (VCA)",
-          "Dogs have more than 100 million scent receptor sites, humans about 6 million (VCA, Smithsonian)",
-          "In a 2020 Scientific Reports study, three trained dogs picked the warmer of two objects from about 1.6 m / five feet (Smithsonian, Phys.org)",
-          "Brain scans of 13 dogs showed the somatosensory cortex responding to weak heat; whether the nose tip is the sensor is not yet proven (Smithsonian, Phys.org)"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Low-Poly Faceted"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261103-dog-wet-nose",
-      "redos": 0,
-      "updated": "2026-11-03T20:31:28.773771+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Low-Poly Faceted style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-03",
-        "name": "2026-11-03-102.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-03",
-        "name": "2026-11-03-102-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:03,250\nYour dog's wet nose traps smells you'll never notice,\n\n2\n00:00:03,550 --> 00:00:05,020\nand it might even sense heat.\n\n3\n00:00:05,570 --> 00:00:07,760\nThat shine is a thin layer of mucus,\n\n4\n00:00:08,060 --> 00:00:10,070\nmade by tiny glands in the nose.\n\n5\n00:00:10,620 --> 00:00:12,770\nSmells are tiny floating particles,\n\n6\n00:00:13,070 --> 00:00:15,180\nand they stick better to damp surfaces.\n\n7\n00:00:15,730 --> 00:00:17,470\nThen your dog licks its nose,\n\n8\n00:00:17,770 --> 00:00:20,120\ncarrying those particles into its mouth,\n\n9\n00:00:20,420 --> 00:00:22,020\nup to a special scent organ.\n\n10\n00:00:22,570 --> 00:00:25,460\nDogs have over a hundred million scent receptors.\n\n11\n00:00:26,010 --> 00:00:27,510\nYou've got about six million.\n\n12\n00:00:28,060 --> 00:00:29,650\nBut here's the strange part.\n\n13\n00:00:30,200 --> 00:00:33,200\nIn twenty-twenty, scientists trained three dogs\n\n14\n00:00:33,500 --> 00:00:35,550\nto find the warmer of two objects,\n\n15\n00:00:35,850 --> 00:00:37,360\nfrom about five feet away.\n\n16\n00:00:37,910 --> 00:00:39,150\nAll three could do it.\n\n17\n00:00:39,700 --> 00:00:43,090\nThat cool nose tip may work like a tiny heat sensor,\n\n18\n00:00:43,390 --> 00:00:45,380\nthough scientists are still testing that.\n\n19\n00:00:45,930 --> 00:00:47,360\nSo what's the weirdest thing\n\n20\n00:00:47,660 --> 00:00:49,700\nyour dog's wet nose ever found?\n\n",
-      "tg_msg": 1004,
-      "approved_by": "auto",
-      "description_full": "Why are dogs' noses wet? A thin layer of mucus helps trap scent particles, licking carries them to a special scent organ in the mouth, and a 2020 study suggests a dog's cool nose may also sense faint heat.\n\nSources:\nhttps://vcacanada.com/know-your-pet/why-do-dogs-have-wet-noses\nhttps://www.smithsonianmag.com/smart-news/dogs-cool-noses-may-be-able-detect-heat-180974321/\nhttps://phys.org/news/2020-03-dogs.amp\n\nAnimated in the Low-Poly Faceted style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #dogs #animals #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Low-Poly Faceted style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/RaMwgHjd_Zk",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-11-03T20:31:28.773784+00:00",
-      "slot": "2026-11-08T02:15:00+00:00"
-    },
-    "2026-11-03-103": {
-      "topic": {
-        "title": "Why does hair turn grey?",
-        "format": "animated",
-        "angle": "Napkin Sketch"
-      },
-      "package": {
-        "title": "Why Do 91% of Us Have Grey Hair by 65?",
-        "description": "Why does hair turn grey? Melanocyte stem cells in the hair follicle stop moving and get stuck, so fewer colour cells make melanin, a finding from a 2023 study in mice.\n\nSources:\nhttps://www.livescience.com/health/ageing/why-does-hair-turn-gray\nhttps://www.npr.org/2023/04/21/1171110131/gray-hair-stem-cells-reversible\n\nAnimated in the Napkin Sketch style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#greyhair",
-          "#humanbody",
-          "#science"
-        ],
-        "tags": [
-          "why does hair turn grey",
-          "why does hair turn gray",
-          "grey hair",
-          "gray hair science",
-          "melanin",
-          "melanocytes",
-          "melanocyte stem cells",
-          "hair follicle",
-          "stuck stem cells",
-          "human body facts",
-          "science explained",
-          "fun facts",
-          "zorbly ai",
-          "animated explainer",
-          "how it works"
-        ],
-        "category": "27",
-        "pinned_comment": "If scientists could unstick those cells, would you keep your grey or go back?",
-        "thumbnail_text": "STUCK CELLS",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "Your grey hairs start with stuck cells, tiny ones, at your roots. Hair gets its colour from melanin, a pigment made by cells called melanocytes. They sit at the bottom of each follicle, and inject colour as the hair grows. But those cells need replacing, and that's the job of stem cells. In mice, scientists found these stem cells commute, moving up and down the follicle. Moving is how they get the signal to make colour. But as hair ages, more of them stop. They get stuck in a spot called the bulge. In plucked mouse hair, stuck cells jumped, from fifteen percent to nearly fifty. Stuck cells can't make new colour cells. Less melanin means grey, no melanin means white. By your early sixties, about ninety-one percent of people have some grey. So if scientists could unstick those cells, would you keep your grey, or go back?",
-        "key_facts": [
-          "Melanin made by melanocytes at the base of the follicle gives hair its colour (Live Science)",
-          "2023 Nature study: melanocyte stem cells migrate up and down the follicle in mice, and with age more get stuck, unable to mature (Live Science, NPR)",
-          "Stem cells lodged in the follicle bulge rose from 15 percent to nearly 50 percent in repeatedly plucked mouse hair (NPR)",
-          "Less melanin gives grey hair, no melanin gives white (Live Science, citing the Library of Congress)",
-          "By age 61 to 65, 91% of people show some greying (Melissa Harris, UAB, in Live Science)"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Napkin Sketch"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261103-grey-hair",
-      "redos": 0,
-      "updated": "2026-11-03T20:31:33.056153+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Napkin Sketch style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-03",
-        "name": "2026-11-03-103.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-03",
-        "name": "2026-11-03-103-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:02,360\nYour grey hairs start with stuck cells,\n\n2\n00:00:02,660 --> 00:00:04,280\ntiny ones, at your roots.\n\n3\n00:00:04,830 --> 00:00:06,650\nHair gets its colour from melanin,\n\n4\n00:00:06,950 --> 00:00:09,670\na pigment made by cells called melanocytes.\n\n5\n00:00:10,220 --> 00:00:12,300\nThey sit at the bottom of each follicle,\n\n6\n00:00:12,600 --> 00:00:14,650\nand inject colour as the hair grows.\n\n7\n00:00:15,200 --> 00:00:16,910\nBut those cells need replacing,\n\n8\n00:00:17,210 --> 00:00:18,980\nand that's the job of stem cells.\n\n9\n00:00:19,530 --> 00:00:22,430\nIn mice, scientists found these stem cells commute,\n\n10\n00:00:22,730 --> 00:00:24,570\nmoving up and down the follicle.\n\n11\n00:00:25,120 --> 00:00:27,900\nMoving is how they get the signal to make colour.\n\n12\n00:00:28,450 --> 00:00:30,760\nBut as hair ages, more of them stop.\n\n13\n00:00:31,310 --> 00:00:33,440\nThey get stuck in a spot called the bulge.\n\n14\n00:00:33,990 --> 00:00:36,330\nIn plucked mouse hair, stuck cells jumped,\n\n15\n00:00:36,630 --> 00:00:38,880\nfrom fifteen percent to nearly fifty.\n\n16\n00:00:39,430 --> 00:00:41,600\nStuck cells can't make new colour cells.\n\n17\n00:00:42,150 --> 00:00:43,720\nLess melanin means grey,\n\n18\n00:00:44,020 --> 00:00:45,620\nno melanin means white.\n\n19\n00:00:46,170 --> 00:00:47,570\nBy your early sixties,\n\n20\n00:00:47,870 --> 00:00:50,670\nabout ninety-one percent of people have some grey.\n\n21\n00:00:51,220 --> 00:00:53,470\nSo if scientists could unstick those cells,\n\n22\n00:00:53,770 --> 00:00:55,690\nwould you keep your grey, or go back?\n\n",
-      "tg_msg": 1005,
-      "approved_by": "auto",
-      "description_full": "Why does hair turn grey? Melanocyte stem cells in the hair follicle stop moving and get stuck, so fewer colour cells make melanin, a finding from a 2023 study in mice.\n\nSources:\nhttps://www.livescience.com/health/ageing/why-does-hair-turn-gray\nhttps://www.npr.org/2023/04/21/1171110131/gray-hair-stem-cells-reversible\n\nAnimated in the Napkin Sketch style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #greyhair #humanbody #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Napkin Sketch style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/Ju_Pw4WjvYA",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-11-03T20:31:33.056170+00:00",
-      "slot": "2026-11-08T15:15:00+00:00"
-    },
-    "2026-11-03-104": {
-      "topic": {
-        "title": "How does a honeybee hive work?",
-        "format": "long",
-        "angle": "Cut-Paper Diorama"
-      },
-      "package": {
-        "title": "How Do 60,000 Bees Run a Hive With No Boss?",
-        "description": "How does a honeybee hive work with no one in charge? See how the queen, drones and workers split the jobs, why comb is built from hexagons, how the waggle dance gives directions, and how bees heat and cool the hive.\n\nSources:\nhttps://canr.udel.edu/maarec/honey-bee-biology/the-colony-and-its-organization/\nhttps://content.ces.ncsu.edu/honey-bee-dance-language\nhttps://extension.oregonstate.edu/es/catalog/bees-demonstrate-theyre-natures-hvac-specialists\n\nAnimated in the Cut-Paper Diorama style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#bees",
-          "#science",
-          "#animals"
-        ],
-        "tags": [
-          "honeybee hive",
-          "how does a beehive work",
-          "how bees work",
-          "waggle dance",
-          "queen bee",
-          "worker bee",
-          "drone bee",
-          "why honeycomb is hexagon",
-          "hexagon honeycomb",
-          "bee colony",
-          "how bees keep warm in winter",
-          "insects explained",
-          "animal facts",
-          "science explained"
-        ],
-        "category": "27",
-        "pinned_comment": "Which hive job would you want: cleaner, nurse, builder, guard, or forager?",
-        "thumbnail_text": "THEY DANCE MAPS",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "Sixty thousand bees, no boss, and you'd never guess how they run it. This hive builds perfect rooms, runs its own heating and cooling, and shares maps by dancing. So how does a honeybee hive actually work? Let's start with the queen. She sounds like the boss, but she doesn't give orders. Her real job is eggs. At her peak, she can lay up to fifteen hundred a day. That's about one egg every minute, all day and all night. Around her are a few hundred males, called drones. They're only here to mate with a new queen. And when the cold comes in fall, the workers shove them out the door. Everyone else is a worker, and every worker is female. A queen and a worker can start as the same kind of egg. The difference is food. A future queen gets loads of royal jelly, and a worker gets far less. Now, a summer worker only lives about six weeks, and she changes careers the whole way through. Day one, she's a cleaner, polishing her own cell. Around day five, she's a nurse, feeding the babies. Around day twelve, wax glands on her belly switch on, so she turns builder. Around day fifteen, she can guard the door. And after about three weeks, she finally goes outside, to spend the rest of her life hunting flowers. Wax is seriously expensive. It takes about eight pounds of honey, to make one pound of wax. So the hive can't waste a drop. Circles leave gaps. Squares and triangles fit, but they use more wall. Hexagons give you the most room, for the least wax. People suspected that for centuries, but a mathematician only proved it in nineteen ninety-nine. Bees got there first, with no math at all. Now, the coolest trick in the hive. A forager finds flowers a long way off. How does she tell her sisters, in the pitch dark, with no words? She dances. She runs in a straight line, shaking her body, loops back, and does it again. The angle of that run is the direction. Straight up means fly toward the sun. Sixty degrees to the left, means sixty degrees left of the sun. And the waggle's length is the distance. A waggle of about two and a half seconds, means flowers over a mile and a half away. Cracking that code won Karl von Frisch, a Nobel Prize in nineteen seventy-three. The babies are picky. They need to stay close to ninety-five degrees Fahrenheit. Too cold? Workers shiver their flight muscles, without flapping, and turn into tiny heaters. Too hot? They carry in water, spread it on the comb, and fan it with their wings. As it evaporates, the hive cools down. That's air conditioning, powered by bees. And in winter, they don't hibernate. Below about fifty-seven degrees, they pull into a tight ball around the queen, and burn honey to make heat. That's why they store all that honey. It's their winter fuel. So no single bee knows the plan. Each one just follows simple rules. But put sixty thousand together, and you get something that acts like one giant animal. Next up, why does cilantro taste like soap, to some people?",
-        "key_facts": [
-          "Colonies reach up to about 60,000 workers; a few hundred drones in late spring and summer (Univ. of Delaware MAAREC)",
-          "Queens may lay up to 1,500 eggs a day at peak (MAAREC)",
-          "Drones are forced out in fall (MAAREC)",
-          "Queens come from fertilized eggs or young worker larvae, fed copious royal jelly (MAAREC)",
-          "Summer workers live about 6 weeks (MAAREC). Job ages: cell cleaning from emergence, nursing about day 5, wax about day 12, guarding about day 15, foraging from about day 21 (Univ. of Arizona Extension; American Bee Journal 2024)",
-          "About 8 lb of honey for 1 lb of wax (AskNature; American Bee Journal)",
-          "Hexagonal tiling has least perimeter for equal areas; proof posted 1999 (arXiv math/9906042)",
-          "Waggle-run angle from vertical = angle from the sun; 2.5 s waggle = about 2,625 m, about 1.6 miles; Nobel 1973 (NC State Extension)",
-          "Brood kept near 92-95 F in summer; heat from shivering flight muscles; cooling by fanning and evaporating water (Oregon State Extension)",
-          "Below about 57 F bees form a cluster around the queen, not hibernating, fuelled by honey (Mississippi State Extension; MAAREC)"
-        ],
-        "voice": "Kokoro",
-        "format": "long",
-        "style": "Cut-Paper Diorama"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261103-honeybee-hive",
-      "redos": 0,
-      "updated": "2026-11-03T20:31:39.826974+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Cut-Paper Diorama style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-03",
-        "name": "2026-11-03-104.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-03",
-        "name": "2026-11-03-104-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:02,480\nSixty thousand bees, no boss,\n\n2\n00:00:02,780 --> 00:00:04,560\nand you'd never guess how they run it.\n\n3\n00:00:05,110 --> 00:00:06,980\nThis hive builds perfect rooms,\n\n4\n00:00:07,280 --> 00:00:08,960\nruns its own heating and cooling,\n\n5\n00:00:09,260 --> 00:00:10,880\nand shares maps by dancing.\n\n6\n00:00:11,430 --> 00:00:13,850\nSo how does a honeybee hive actually work?\n\n7\n00:00:14,400 --> 00:00:15,760\nLet's start with the queen.\n\n8\n00:00:16,310 --> 00:00:17,610\nShe sounds like the boss,\n\n9\n00:00:17,910 --> 00:00:19,390\nbut she doesn't give orders.\n\n10\n00:00:19,940 --> 00:00:21,590\nHer real job is eggs.\n\n11\n00:00:22,140 --> 00:00:25,240\nAt her peak, she can lay up to fifteen hundred a day.\n\n12\n00:00:25,790 --> 00:00:27,570\nThat's about one egg every minute,\n\n13\n00:00:27,870 --> 00:00:29,250\nall day and all night.\n\n14\n00:00:29,800 --> 00:00:31,880\nAround her are a few hundred males,\n\n15\n00:00:32,180 --> 00:00:33,160\ncalled drones.\n\n16\n00:00:33,710 --> 00:00:35,830\nThey're only here to mate with a new queen.\n\n17\n00:00:36,380 --> 00:00:38,110\nAnd when the cold comes in fall,\n\n18\n00:00:38,410 --> 00:00:40,280\nthe workers shove them out the door.\n\n19\n00:00:40,830 --> 00:00:42,450\nEveryone else is a worker,\n\n20\n00:00:42,750 --> 00:00:44,420\nand every worker is female.\n\n21\n00:00:44,970 --> 00:00:48,410\nA queen and a worker can start as the same kind of egg.\n\n22\n00:00:48,960 --> 00:00:50,260\nThe difference is food.\n\n23\n00:00:50,810 --> 00:00:53,390\nA future queen gets loads of royal jelly,\n\n24\n00:00:53,690 --> 00:00:55,410\nand a worker gets far less.\n\n25\n00:00:55,960 --> 00:00:58,980\nNow, a summer worker only lives about six weeks,\n\n26\n00:00:59,280 --> 00:01:01,640\nand she changes careers the whole way through.\n\n27\n00:01:02,190 --> 00:01:03,640\nDay one, she's a cleaner,\n\n28\n00:01:03,940 --> 00:01:05,270\npolishing her own cell.\n\n29\n00:01:05,820 --> 00:01:07,580\nAround day five, she's a nurse,\n\n30\n00:01:07,880 --> 00:01:09,070\nfeeding the babies.\n\n31\n00:01:09,620 --> 00:01:13,120\nAround day twelve, wax glands on her belly switch on,\n\n32\n00:01:13,420 --> 00:01:14,710\nso she turns builder.\n\n33\n00:01:15,260 --> 00:01:17,910\nAround day fifteen, she can guard the door.\n\n34\n00:01:18,460 --> 00:01:20,020\nAnd after about three weeks,\n\n35\n00:01:20,320 --> 00:01:21,990\nshe finally goes outside,\n\n36\n00:01:22,290 --> 00:01:24,860\nto spend the rest of her life hunting flowers.\n\n37\n00:01:25,410 --> 00:01:27,140\nWax is seriously expensive.\n\n38\n00:01:27,690 --> 00:01:29,590\nIt takes about eight pounds of honey,\n\n39\n00:01:29,890 --> 00:01:31,410\nto make one pound of wax.\n\n40\n00:01:31,960 --> 00:01:33,910\nSo the hive can't waste a drop.\n\n41\n00:01:34,460 --> 00:01:35,760\nCircles leave gaps.\n\n42\n00:01:36,310 --> 00:01:37,860\nSquares and triangles fit,\n\n43\n00:01:38,160 --> 00:01:39,590\nbut they use more wall.\n\n44\n00:01:40,140 --> 00:01:41,990\nHexagons give you the most room,\n\n45\n00:01:42,290 --> 00:01:43,410\nfor the least wax.\n\n46\n00:01:43,960 --> 00:01:45,990\nPeople suspected that for centuries,\n\n47\n00:01:46,290 --> 00:01:50,010\nbut a mathematician only proved it in nineteen ninety-nine.\n\n48\n00:01:50,560 --> 00:01:53,240\nBees got there first, with no math at all.\n\n49\n00:01:53,790 --> 00:01:55,680\nNow, the coolest trick in the hive.\n\n50\n00:01:56,230 --> 00:01:58,790\nA forager finds flowers a long way off.\n\n51\n00:01:59,340 --> 00:02:00,880\nHow does she tell her sisters,\n\n52\n00:02:01,180 --> 00:02:03,010\nin the pitch dark, with no words?\n\n53\n00:02:03,560 --> 00:02:04,450\nShe dances.\n\n54\n00:02:05,000 --> 00:02:06,530\nShe runs in a straight line,\n\n55\n00:02:06,830 --> 00:02:07,960\nshaking her body,\n\n56\n00:02:08,260 --> 00:02:09,100\nloops back,\n\n57\n00:02:09,400 --> 00:02:10,470\nand does it again.\n\n58\n00:02:11,020 --> 00:02:13,270\nThe angle of that run is the direction.\n\n59\n00:02:13,820 --> 00:02:15,840\nStraight up means fly toward the sun.\n\n60\n00:02:16,390 --> 00:02:17,960\nSixty degrees to the left,\n\n61\n00:02:18,260 --> 00:02:20,410\nmeans sixty degrees left of the sun.\n\n62\n00:02:20,960 --> 00:02:22,960\nAnd the waggle's length is the distance.\n\n63\n00:02:23,510 --> 00:02:25,680\nA waggle of about two and a half seconds,\n\n64\n00:02:25,980 --> 00:02:28,550\nmeans flowers over a mile and a half away.\n\n65\n00:02:29,100 --> 00:02:31,450\nCracking that code won Karl von Frisch,\n\n66\n00:02:31,750 --> 00:02:34,390\na Nobel Prize in nineteen seventy-three.\n\n67\n00:02:34,940 --> 00:02:36,250\nThe babies are picky.\n\n68\n00:02:36,800 --> 00:02:39,910\nThey need to stay close to ninety-five degrees Fahrenheit.\n\n69\n00:02:40,460 --> 00:02:41,310\nToo cold?\n\n70\n00:02:41,860 --> 00:02:43,900\nWorkers shiver their flight muscles,\n\n71\n00:02:44,200 --> 00:02:45,240\nwithout flapping,\n\n72\n00:02:45,540 --> 00:02:47,300\nand turn into tiny heaters.\n\n73\n00:02:47,850 --> 00:02:48,660\nToo hot?\n\n74\n00:02:49,210 --> 00:02:50,430\nThey carry in water,\n\n75\n00:02:50,730 --> 00:02:51,950\nspread it on the comb,\n\n76\n00:02:52,250 --> 00:02:53,750\nand fan it with their wings.\n\n77\n00:02:54,300 --> 00:02:56,750\nAs it evaporates, the hive cools down.\n\n78\n00:02:57,300 --> 00:02:58,590\nThat's air conditioning,\n\n79\n00:02:58,890 --> 00:03:00,090\npowered by bees.\n\n80\n00:03:00,640 --> 00:03:02,690\nAnd in winter, they don't hibernate.\n\n81\n00:03:03,240 --> 00:03:05,370\nBelow about fifty-seven degrees,\n\n82\n00:03:05,670 --> 00:03:07,930\nthey pull into a tight ball around the queen,\n\n83\n00:03:08,230 --> 00:03:09,860\nand burn honey to make heat.\n\n84\n00:03:10,410 --> 00:03:12,300\nThat's why they store all that honey.\n\n85\n00:03:12,850 --> 00:03:14,200\nIt's their winter fuel.\n\n86\n00:03:14,750 --> 00:03:16,630\nSo no single bee knows the plan.\n\n87\n00:03:17,180 --> 00:03:19,330\nEach one just follows simple rules.\n\n88\n00:03:19,880 --> 00:03:21,660\nBut put sixty thousand together,\n\n89\n00:03:21,960 --> 00:03:24,890\nand you get something that acts like one giant animal.\n\n90\n00:03:25,440 --> 00:03:28,250\nNext up, why does cilantro taste like soap,\n\n91\n00:03:28,550 --> 00:03:29,580\nto some people?\n\n",
-      "tg_msg": 1006,
-      "approved_by": "auto",
-      "description_full": "How does a honeybee hive work with no one in charge? See how the queen, drones and workers split the jobs, why comb is built from hexagons, how the waggle dance gives directions, and how bees heat and cool the hive.\n\nSources:\nhttps://canr.udel.edu/maarec/honey-bee-biology/the-colony-and-its-organization/\nhttps://content.ces.ncsu.edu/honey-bee-dance-language\nhttps://extension.oregonstate.edu/es/catalog/bees-demonstrate-theyre-natures-hvac-specialists\n\nAnimated in the Cut-Paper Diorama style.\n\nFollow Zorbly AI for a new Short every day.\n\n#bees #science #animals\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Cut-Paper Diorama style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/Iv0KBzuh0Wo",
-          "private \u00b7 thumbnail \u2705"
-        ]
-      },
-      "uploaded_at": "2026-11-03T20:31:39.826990+00:00",
-      "slot": "2026-11-08T19:15:00+00:00"
-    },
     "2026-11-03-105": {
       "topic": {
         "title": "Why do pigeons bob their heads when they walk?",
@@ -3105,12 +2834,12 @@
         "format": "long",
         "style": "Flat-Vector Science"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261109-carsick",
       "redos": 0,
-      "updated": "2026-11-09T17:48:12.908684+00:00",
+      "updated": "2026-11-09T23:27:44.394957+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech."
       ],
@@ -3125,7 +2854,17 @@
         "name": "2026-11-09-102-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:01,650\nEvery time you get carsick,\n\n2\n00:00:02,140 --> 00:00:04,410\nyour brain thinks you've swallowed poison.\n\n3\n00:00:04,800 --> 00:00:06,190\nAnd for one in three people,\n\n4\n00:00:06,610 --> 00:00:09,260\nthat alarm goes off on almost every ride.\n\n5\n00:00:09,650 --> 00:00:11,960\nSo why does the back seat wreck some of us,\n\n6\n00:00:12,420 --> 00:00:15,330\nwhile others read a whole book and feel totally fine?\n\n7\n00:00:15,820 --> 00:00:18,490\nTo find out, we need to look inside your head.\n\n8\n00:00:18,890 --> 00:00:21,800\nYou know how you're moving using two main systems.\n\n9\n00:00:22,240 --> 00:00:23,400\nYour eyes are one.\n\n10\n00:00:23,690 --> 00:00:26,060\nThe other is hidden deep inside each ear.\n\n11\n00:00:26,410 --> 00:00:28,030\nIt's called the vestibular system,\n\n12\n00:00:28,540 --> 00:00:31,150\nand it's basically a built-in motion sensor.\n\n13\n00:00:31,620 --> 00:00:33,940\nThree tiny loops filled with fluid\n\n14\n00:00:34,340 --> 00:00:35,940\nsense every time your head turns.\n\n15\n00:00:36,370 --> 00:00:39,320\nAnd two little sacs lined with tiny crystals\n\n16\n00:00:39,390 --> 00:00:41,610\nfeel you speed up, slow down and tip.\n\n17\n00:00:42,060 --> 00:00:44,420\nMost of the time your eyes and ears agree.\n\n18\n00:00:44,830 --> 00:00:47,830\nBut picture yourself in the back seat, reading a phone.\n\n19\n00:00:48,210 --> 00:00:50,310\nYour eyes see a screen that isn't moving.\n\n20\n00:00:50,700 --> 00:00:53,400\nYour inner ear feels every bump and every curve.\n\n21\n00:00:53,790 --> 00:00:56,090\nOne says still. The other says moving.\n\n22\n00:00:56,440 --> 00:00:58,650\nScientists call this sensory conflict,\n\n23\n00:00:59,260 --> 00:01:02,050\nand it's the leading explanation for motion sickness.\n\n24\n00:01:02,510 --> 00:01:05,180\nSo why would a mixed-up signal make you feel sick?\n\n25\n00:01:05,680 --> 00:01:09,120\nOne popular theory goes way back to our ancestors.\n\n26\n00:01:09,510 --> 00:01:12,420\nLong ago, if your senses suddenly stopped agreeing,\n\n27\n00:01:12,980 --> 00:01:15,670\na likely cause was something toxic you'd eaten.\n\n28\n00:01:16,040 --> 00:01:18,310\nSo the brain may have learned a simple rule.\n\n29\n00:01:18,750 --> 00:01:21,140\nSignals don't match? Empty the stomach.\n\n30\n00:01:21,590 --> 00:01:23,680\nResearchers still debate this idea,\n\n31\n00:01:24,250 --> 00:01:25,860\nbut it would explain why a bumpy ride\n\n32\n00:01:25,920 --> 00:01:28,710\ncan feel a lot like food poisoning.\n\n33\n00:01:29,090 --> 00:01:30,640\nHere's where it gets personal.\n\n34\n00:01:31,070 --> 00:01:34,250\nIn 2015 the genetics company 23andMe\n\n35\n00:01:34,250 --> 00:01:37,840\nstudied more than eighty thousand people.\n\n36\n00:01:38,240 --> 00:01:40,680\nThey found thirty-five spots in our DNA\n\n37\n00:01:41,050 --> 00:01:42,530\nlinked to motion sickness.\n\n38\n00:01:42,920 --> 00:01:46,340\nAnd some studies suggest up to seventy percent\n\n39\n00:01:46,410 --> 00:01:49,110\nof the difference between people comes down to genes.\n\n40\n00:01:49,530 --> 00:01:50,710\nAge matters too.\n\n41\n00:01:51,050 --> 00:01:54,220\nKids between about seven and twelve get it the most,\n\n42\n00:01:54,660 --> 00:01:56,970\nand lots of people grow out of the worst of it.\n\n43\n00:01:57,420 --> 00:01:59,580\nWomen report it more often than men,\n\n44\n00:02:00,110 --> 00:02:02,280\nand so do people who get migraines.\n\n45\n00:02:02,670 --> 00:02:05,690\nSo if your whole family turns green on road trips,\n\n46\n00:02:06,110 --> 00:02:08,090\nthat's probably not a coincidence.\n\n47\n00:02:08,540 --> 00:02:10,150\nNow for the strangest part.\n\n48\n00:02:10,530 --> 00:02:15,070\nPeople who have completely lost the motion sensors in their inner ears\n\n49\n00:02:15,600 --> 00:02:17,390\nbasically don't get motion sick at all.\n\n50\n00:02:17,850 --> 00:02:21,010\nNo inner ear signal, no conflict, no alarm.\n\n51\n00:02:21,460 --> 00:02:22,940\nWhat you can see matters too.\n\n52\n00:02:23,330 --> 00:02:26,810\nOne study found that passengers who couldn't see the road ahead\n\n53\n00:02:27,310 --> 00:02:30,050\nwere about three times more likely to feel sick.\n\n54\n00:02:30,500 --> 00:02:32,340\nAnd the driver? Usually fine.\n\n55\n00:02:32,690 --> 00:02:35,370\nThe driver knows every turn before it happens,\n\n56\n00:02:35,770 --> 00:02:38,100\nso the brain isn't caught by surprise.\n\n57\n00:02:38,460 --> 00:02:42,030\nThis old alarm is now facing brand new problems.\n\n58\n00:02:42,510 --> 00:02:45,250\nVirtual reality flips the conflict around.\n\n59\n00:02:45,660 --> 00:02:49,320\nYour eyes see motion, but your body sits perfectly still.\n\n60\n00:02:49,800 --> 00:02:52,020\nAnd as cars start driving themselves,\n\n61\n00:02:52,490 --> 00:02:54,060\neveryone becomes a passenger,\n\n62\n00:02:54,520 --> 00:02:56,840\nstaring at screens instead of the road.\n\n63\n00:02:57,270 --> 00:02:59,350\nSo engineers are testing tricks,\n\n64\n00:02:59,690 --> 00:03:01,530\nlike lights that hint at the next turn,\n\n65\n00:03:02,040 --> 00:03:04,440\nto help your eyes and ears agree again.\n\n66\n00:03:04,890 --> 00:03:07,530\nSo the next time a car ride makes you queasy,\n\n67\n00:03:07,760 --> 00:03:10,060\nremember, your brain isn't broken.\n\n68\n00:03:10,500 --> 00:03:13,330\nIt's just protecting you from a poison that isn't there.\n\n69\n00:03:13,740 --> 00:03:15,630\nNext time, what really happens\n\n70\n00:03:15,700 --> 00:03:18,150\nif a porcupine's quills get stuck in you?\n\n",
-      "tg_msg": 1069
+      "tg_msg": 1069,
+      "approved_by": "auto",
+      "description_full": "Why do some people get carsick while others can read in the back seat? Motion sickness explained in simple words: how your eyes and inner ear (the vestibular system) disagree, the poison theory, the genes behind it, and why the driver almost never feels sick.\n\nSources:\nhttps://medlineplus.gov/genetics/condition/motion-sickness/\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC4383869/\nhttps://www.popsci.com/science/why-people-get-motion-sickness/\n\nAnimated in the Flat-Vector Science style.\n\nFollow Zorbly AI for a new Short every day.\n\n#carsickness #motionsickness #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/cws5UFz4_qA",
+          "private \u00b7 thumbnail \u2705"
+        ]
+      },
+      "uploaded_at": "2026-11-09T23:27:44.394977+00:00",
+      "slot": "2026-11-15T19:15:00+00:00"
     },
     "2026-11-09-103": {
       "topic": {
@@ -3175,12 +2914,12 @@
         "format": "animated",
         "style": "Copperplate Engraving"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261109-garlic-breath",
       "redos": 0,
-      "updated": "2026-11-09T17:48:25.473511+00:00",
+      "updated": "2026-11-09T23:27:48.074739+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Copperplate Engraving style). Voice: Kokoro text-to-speech."
       ],
@@ -3195,7 +2934,29 @@
         "name": "2026-11-09-103-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:04,470\nYour garlic breath can leak out of your lungs for twenty-four hours. Why?\n\n2\n00:00:05,050 --> 00:00:06,430\nMouthwash won't stop it.\n\n3\n00:00:06,700 --> 00:00:08,050\nCrush a clove of garlic\n\n4\n00:00:08,540 --> 00:00:11,460\nand it lets off a bunch of stinky sulfur gases.\n\n5\n00:00:11,900 --> 00:00:13,440\nMost break down fast.\n\n6\n00:00:13,810 --> 00:00:15,000\nBut one is sneaky.\n\n7\n00:00:15,350 --> 00:00:17,430\nIt's called allyl methyl sulfide.\n\n8\n00:00:17,790 --> 00:00:19,620\nYour gut and liver barely touch it,\n\n9\n00:00:20,110 --> 00:00:21,420\nso it slips into your blood\n\n10\n00:00:21,420 --> 00:00:23,380\nand rides around your whole body.\n\n11\n00:00:23,770 --> 00:00:26,370\nEach time that blood passes through your lungs,\n\n12\n00:00:26,780 --> 00:00:28,310\na little leaks out on your breath.\n\n13\n00:00:28,720 --> 00:00:30,790\nSome even sneaks out through your sweat.\n\n14\n00:00:31,170 --> 00:00:32,470\nThree hours after dinner,\n\n15\n00:00:32,920 --> 00:00:35,240\nit's the main garlic smell you're breathing out.\n\n16\n00:00:35,680 --> 00:00:38,030\nAnd it keeps that up for hours and hours.\n\n17\n00:00:38,450 --> 00:00:41,150\nRaw apple, mint or milk can help a little.\n\n18\n00:00:41,510 --> 00:00:42,190\nSo really,\n\n19\n00:00:42,370 --> 00:00:44,200\ngarlic breath is garlic blood.\n\n20\n00:00:44,600 --> 00:00:46,750\nWould you still eat garlic before a date?\n\n",
-      "tg_msg": 1070
+      "tg_msg": 1070,
+      "approved_by": "auto",
+      "description_full": "Why does garlic breath last so long? One garlic gas, allyl methyl sulfide, isn't broken down by your gut or liver, so it travels in your blood and comes out through your lungs and sweat for up to a day, which is why mouthwash can't fix it.\n\nSources:\nhttps://pubmed.ncbi.nlm.nih.gov/9950816/\nhttps://en.wikipedia.org/wiki/Garlic_breath\nhttps://www.popsci.com/why-is-it-so-hard-to-get-rid-garlic-breath/\n\nAnimated in the Copperplate Engraving style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #garlic #science #facts\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Copperplate Engraving style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/fivS1hadQwM",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-09T23:27:48.074757+00:00",
+      "slot": "2026-11-16T00:15:00+00:00"
     },
     "2026-11-09-104": {
       "topic": {
@@ -3246,12 +3007,12 @@
         "format": "animated",
         "style": "Napkin Sketch"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261109-owl-silent-flight",
       "redos": 0,
-      "updated": "2026-11-09T17:48:33.468530+00:00",
+      "updated": "2026-11-09T23:27:52.140677+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Napkin Sketch style). Voice: Kokoro text-to-speech."
       ],
@@ -3266,7 +3027,98 @@
         "name": "2026-11-09-104-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:01,580\nWhy can't you hear an owl\n\n2\n00:00:01,720 --> 00:00:03,250\nuntil it's three feet from you?\n\n3\n00:00:03,780 --> 00:00:06,490\nMost birds' wings churn the air into big swirls,\n\n4\n00:00:06,630 --> 00:00:09,240\nand those swirls are the whoosh you hear.\n\n5\n00:00:09,600 --> 00:00:11,940\nBut an owl's front wing feathers have a comb,\n\n6\n00:00:12,320 --> 00:00:14,070\ntiny teeth along the edge.\n\n7\n00:00:14,500 --> 00:00:17,040\nThey split the air into small, quiet streams.\n\n8\n00:00:17,470 --> 00:00:20,160\nThen a soft, ragged fringe on the back edge\n\n9\n00:00:20,530 --> 00:00:22,400\nand a velvety coat on top\n\n10\n00:00:22,720 --> 00:00:24,130\nhush whatever noise is left.\n\n11\n00:00:24,500 --> 00:00:25,840\nBig wings help too.\n\n12\n00:00:26,120 --> 00:00:29,140\nA barn owl can fly as slowly as two miles an hour,\n\n13\n00:00:29,650 --> 00:00:31,200\nand slower means quieter.\n\n14\n00:00:31,590 --> 00:00:35,210\nIts wings mute the high sounds above sixteen hundred hertz,\n\n15\n00:00:35,690 --> 00:00:37,750\nright where a mouse's hearing begins.\n\n16\n00:00:38,170 --> 00:00:39,950\nSo the mouse never hears it coming,\n\n17\n00:00:40,440 --> 00:00:42,770\nbut the owl hears the mouse just fine.\n\n18\n00:00:43,180 --> 00:00:44,990\nIf an owl flew over you tonight,\n\n19\n00:00:45,360 --> 00:00:46,370\ndo you think you'd hear it?\n\n",
-      "tg_msg": 1071
+      "tg_msg": 1071,
+      "approved_by": "auto",
+      "description_full": "How do owls fly without making a sound? Comb-like serrations on the wing's leading edge, a soft trailing-edge fringe and velvety feathers break up and hush the air swirls that make most birds' wings whoosh, so a barn owl's flight stays quiet in the range a mouse can hear.\n\nSources:\nhttps://www.audubon.org/magazine/silent-flight-of-owls-explained\nhttps://knowablemagazine.org/article/technology/2020/how-owls-fly-without-making-a-sound\nhttps://www.smithsonianmag.com/science-nature/silence-wind-turbines-engineers-are-studying-owl-wings-180974659/\n\nAnimated in the Napkin Sketch style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #owls #animalfacts #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Napkin Sketch style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/ikwlhKVEeKM",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-09T23:27:52.140694+00:00",
+      "slot": "2026-11-16T02:15:00+00:00"
+    },
+    "2026-11-09-105": {
+      "topic": {
+        "title": "Why do geese fly in a V?",
+        "format": "animated",
+        "angle": "Pictogram Motion"
+      },
+      "package": {
+        "title": "Why Do Geese Fly in a V? \ud83e\udebf",
+        "description": "Why do geese fly in a V? Each bird rides the rising air that curls off the wingtip of the bird ahead, which saves energy: pelicans flying in formation had heart rates up to 14% lower, and ibises take turns in the tiring front spot.\n\nSources:\nhttps://www.nationalgeographic.com/science/article/birds-that-fly-in-a-v-formation-use-an-amazing-trick\nhttps://www.ox.ac.uk/node/29050\nhttps://www.audubon.org/magazine/why-birds-fly-v-formation-migration-science\n\nAnimated in the Pictogram Motion style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#birds",
+          "#science",
+          "#animals"
+        ],
+        "tags": [
+          "why do geese fly in a v",
+          "v formation",
+          "geese v formation",
+          "birds flying in v",
+          "wingtip vortex",
+          "upwash",
+          "bird migration",
+          "pelican heart rate formation",
+          "ibis v formation",
+          "animal facts",
+          "science explained",
+          "how birds fly",
+          "nature facts",
+          "pictogram animation"
+        ],
+        "category": "27",
+        "pinned_comment": "Would you rather be the leader at the front of the V, or the bird riding in the back?",
+        "thumbnail_text": "FREE LIFT",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "Birds in a V can cut their heart rate 14 percent,\nand you've never seen why.\nIt's the secret behind every V of geese.\nEach flap pushes air down behind the wing.\nBut at the wingtip, air curls up and around,\ninto a spinning swirl.\nJust outside that swirl, the air is rising.\nSo the bird behind slides into that exact spot,\nand gets free lift on every flap.\nLine everyone up like that,\nand you get a V.\nPelicans tracked in formation\nhad heart rates up to 14 percent lower than flying solo.\nIbises even time their flaps to match the bird ahead.\nBut the front bird gets no free ride.\nSo ibises take turns,\nswapping the tiring spot at the front.\nHonestly, that's teamwork with zero meetings.\nSo which bird would you rather be,\nthe leader at the front, or the one in the back?",
+        "key_facts": [
+          "Wingtip vortices create rising air (upwash) just outside each wingtip; a following bird placed there gets extra lift (Portugal et al. 2014, Nature, via National Geographic)",
+          "Great white pelicans flying in formation had heart rates 11-14% lower than flying alone (Weimerskirch et al. 2001, Nature)",
+          "Northern bald ibises time their wingbeats to match the upwash of the bird ahead (Portugal et al. 2014)",
+          "Ibises in V formation take turns leading, swapping the costly front position (Voelkl et al. 2015, PNAS, via Oxford)"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Pictogram Motion"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261109-geese-v",
+      "redos": 0,
+      "updated": "2026-11-09T23:27:27.297747+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Pictogram Motion style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-09",
+        "name": "2026-11-09-105.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-09",
+        "name": "2026-11-09-105-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:03,410\nBirds in a V can cut their heart rate 14 percent,\n\n2\n00:00:03,930 --> 00:00:05,290\nand you've never seen why.\n\n3\n00:00:05,700 --> 00:00:08,180\nIt's the secret behind every V of geese.\n\n4\n00:00:08,540 --> 00:00:10,840\nEach flap pushes air down behind the wing.\n\n5\n00:00:11,250 --> 00:00:14,310\nBut at the wingtip, air curls up and around,\n\n6\n00:00:14,380 --> 00:00:15,220\ninto a spinning swirl.\n\n7\n00:00:15,690 --> 00:00:18,370\nJust outside that swirl, the air is rising.\n\n8\n00:00:18,800 --> 00:00:21,710\nSo the bird behind slides into that exact spot,\n\n9\n00:00:22,220 --> 00:00:24,210\nand gets free lift on every flap.\n\n10\n00:00:24,570 --> 00:00:26,050\nLine everyone up like that,\n\n11\n00:00:26,410 --> 00:00:27,340\nand you get a V.\n\n12\n00:00:27,740 --> 00:00:29,550\nPelicans tracked in formation\n\n13\n00:00:29,900 --> 00:00:34,070\nhad heart rates up to 14 percent lower than flying solo.\n\n14\n00:00:34,490 --> 00:00:37,710\nIbises even time their flaps to match the bird ahead.\n\n15\n00:00:38,070 --> 00:00:40,360\nBut the front bird gets no free ride.\n\n16\n00:00:40,750 --> 00:00:41,830\nSo ibises take turns,\n\n17\n00:00:41,930 --> 00:00:44,940\nswapping the tiring spot at the front.\n\n18\n00:00:45,310 --> 00:00:47,900\nHonestly, that's teamwork with zero meetings.\n\n19\n00:00:48,340 --> 00:00:50,160\nSo which bird would you rather be,\n\n20\n00:00:50,450 --> 00:00:52,860\nthe leader at the front, or the one in the back?\n\n",
+      "tg_msg": 1072
     }
   },
   "history": [
@@ -3436,7 +3288,8 @@
     "drop/20261109-tick-grip": "2026-11-09-101",
     "drop/20261109-carsick": "2026-11-09-102",
     "drop/20261109-garlic-breath": "2026-11-09-103",
-    "drop/20261109-owl-silent-flight": "2026-11-09-104"
+    "drop/20261109-owl-silent-flight": "2026-11-09-104",
+    "drop/20261109-geese-v": "2026-11-09-105"
   },
   "refs_day": "2026-11-09"
 }
