@@ -891,5 +891,17 @@
   "words": 135,
   "sheet_id": "S066",
   "note": "unattended run, no storyboard step; added trend rows S068-S069"
+ },
+ {
+  "date": "2026-11-09",
+  "id": "20261109-tick-grip",
+  "kind": "short",
+  "style": "Brick Toy",
+  "topic": "How does a tick hold on so tight?",
+  "title": "How Does a Tick Hold On So Tight? 🪝",
+  "seconds": 45.8,
+  "words": 135,
+  "sheet_id": "S067",
+  "notes": "unattended run, no storyboard step; Lemo setup.sh not run (sandbox blocked it), style read from STYLE.md/DEMO.md, Canvas 2D bricks drawn by hand"
  }
 ]

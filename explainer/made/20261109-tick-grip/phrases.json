@@ -1,0 +1,703 @@
+[
+ {
+  "s": 0.25,
+  "e": 3.11,
+  "text": "A tick glues itself into your skin in thirty minutes,",
+  "words": [
+   [
+    "a",
+    0.25
+   ],
+   [
+    "tick",
+    0.32
+   ],
+   [
+    "glues",
+    0.58
+   ],
+   [
+    "itself",
+    0.92
+   ],
+   [
+    "into",
+    1.31
+   ],
+   [
+    "your",
+    1.58
+   ],
+   [
+    "skin",
+    1.85
+   ],
+   [
+    "in",
+    2.11
+   ],
+   [
+    "thirty",
+    2.25
+   ],
+   [
+    "minutes",
+    2.64
+   ]
+  ]
+ },
+ {
+  "s": 3.49,
+  "e": 4.49,
+  "text": "and you never feel it.",
+  "words": [
+   [
+    "and",
+    3.49
+   ],
+   [
+    "you",
+    3.67
+   ],
+   [
+    "never",
+    3.84
+   ],
+   [
+    "feel",
+    4.14
+   ],
+   [
+    "it",
+    4.37
+   ]
+  ]
+ },
+ {
+  "s": 4.88,
+  "e": 6.67,
+  "text": "First, two tiny scissor blades",
+  "words": [
+   [
+    "first",
+    4.88
+   ],
+   [
+    "two",
+    5.24
+   ],
+   [
+    "tiny",
+    5.45
+   ],
+   [
+    "scissor",
+    5.74
+   ],
+   [
+    "blades",
+    6.24
+   ]
+  ]
+ },
+ {
+  "s": 6.67,
+  "e": 8.03,
+  "text": "snip a hole in your skin.",
+  "words": [
+   [
+    "snip",
+    6.67
+   ],
+   [
+    "a",
+    6.96
+   ],
+   [
+    "hole",
+    7.03
+   ],
+   [
+    "in",
+    7.32
+   ],
+   [
+    "your",
+    7.46
+   ],
+   [
+    "skin",
+    7.75
+   ]
+  ]
+ },
+ {
+  "s": 8.48,
+  "e": 11.1,
+  "text": "Then it slides in a spear called the hypostome,",
+  "words": [
+   [
+    "then",
+    8.48
+   ],
+   [
+    "it",
+    8.75
+   ],
+   [
+    "slides",
+    8.89
+   ],
+   [
+    "in",
+    9.31
+   ],
+   [
+    "a",
+    9.44
+   ],
+   [
+    "spear",
+    9.51
+   ],
+   [
+    "called",
+    9.86
+   ],
+   [
+    "the",
+    10.27
+   ],
+   [
+    "hypostome",
+    10.48
+   ]
+  ]
+ },
+ {
+  "s": 11.67,
+  "e": 13.49,
+  "text": "covered in barbs that point backwards,",
+  "words": [
+   [
+    "covered",
+    11.67
+   ],
+   [
+    "in",
+    12.07
+   ],
+   [
+    "barbs",
+    12.18
+   ],
+   [
+    "that",
+    12.46
+   ],
+   [
+    "point",
+    12.69
+   ],
+   [
+    "backwards",
+    12.98
+   ]
+  ]
+ },
+ {
+  "s": 13.56,
+  "e": 14.77,
+  "text": "like a fishhook.",
+  "words": [
+   [
+    "like",
+    13.56
+   ],
+   [
+    "a",
+    13.93
+   ],
+   [
+    "fishhook",
+    14.03
+   ]
+  ]
+ },
+ {
+  "s": 15.12,
+  "e": 17.27,
+  "text": "Once it's in, it won't slide back out.",
+  "words": [
+   [
+    "once",
+    15.12
+   ],
+   [
+    "its",
+    15.44
+   ],
+   [
+    "in",
+    15.68
+   ],
+   [
+    "it",
+    15.84
+   ],
+   [
+    "wont",
+    16.0
+   ],
+   [
+    "slide",
+    16.32
+   ],
+   [
+    "back",
+    16.72
+   ],
+   [
+    "out",
+    17.04
+   ]
+  ]
+ },
+ {
+  "s": 17.68,
+  "e": 18.93,
+  "text": "Now the wild part.",
+  "words": [
+   [
+    "now",
+    17.68
+   ],
+   [
+    "the",
+    17.95
+   ],
+   [
+    "wild",
+    18.22
+   ],
+   [
+    "part",
+    18.57
+   ]
+  ]
+ },
+ {
+  "s": 19.31,
+  "e": 20.03,
+  "text": "Within minutes,",
+  "words": [
+   [
+    "within",
+    19.31
+   ],
+   [
+    "minutes",
+    19.64
+   ]
+  ]
+ },
+ {
+  "s": 20.37,
+  "e": 22.32,
+  "text": "some ticks start oozing saliva",
+  "words": [
+   [
+    "some",
+    20.37
+   ],
+   [
+    "ticks",
+    20.67
+   ],
+   [
+    "start",
+    21.04
+   ],
+   [
+    "oozing",
+    21.42
+   ],
+   [
+    "saliva",
+    21.87
+   ]
+  ]
+ },
+ {
+  "s": 22.32,
+  "e": 23.56,
+  "text": "that hardens into cement,",
+  "words": [
+   [
+    "that",
+    22.32
+   ],
+   [
+    "hardens",
+    22.56
+   ],
+   [
+    "into",
+    22.97
+   ],
+   [
+    "cement",
+    23.2
+   ]
+  ]
+ },
+ {
+  "s": 24.15,
+  "e": 26.34,
+  "text": "a little cone of glue around the spear.",
+  "words": [
+   [
+    "a",
+    24.15
+   ],
+   [
+    "little",
+    24.22
+   ],
+   [
+    "cone",
+    24.64
+   ],
+   [
+    "of",
+    24.93
+   ],
+   [
+    "glue",
+    25.07
+   ],
+   [
+    "around",
+    25.35
+   ],
+   [
+    "the",
+    25.77
+   ],
+   [
+    "spear",
+    25.99
+   ]
+  ]
+ },
+ {
+  "s": 26.8,
+  "e": 28.6,
+  "text": "And that spit carries a painkiller,",
+  "words": [
+   [
+    "and",
+    26.8
+   ],
+   [
+    "that",
+    26.98
+   ],
+   [
+    "spit",
+    27.23
+   ],
+   [
+    "carries",
+    27.48
+   ],
+   [
+    "a",
+    27.92
+   ],
+   [
+    "painkiller",
+    27.98
+   ]
+  ]
+ },
+ {
+  "s": 28.91,
+  "e": 30.14,
+  "text": "so you don't notice a thing.",
+  "words": [
+   [
+    "so",
+    28.91
+   ],
+   [
+    "you",
+    29.03
+   ],
+   [
+    "dont",
+    29.2
+   ],
+   [
+    "notice",
+    29.44
+   ],
+   [
+    "a",
+    29.79
+   ],
+   [
+    "thing",
+    29.85
+   ]
+  ]
+ },
+ {
+  "s": 30.61,
+  "e": 32.44,
+  "text": "It can hang on for a week or more,",
+  "words": [
+   [
+    "it",
+    30.61
+   ],
+   [
+    "can",
+    30.76
+   ],
+   [
+    "hang",
+    30.98
+   ],
+   [
+    "on",
+    31.27
+   ],
+   [
+    "for",
+    31.42
+   ],
+   [
+    "a",
+    31.64
+   ],
+   [
+    "week",
+    31.71
+   ],
+   [
+    "or",
+    32.0
+   ],
+   [
+    "more",
+    32.15
+   ]
+  ]
+ },
+ {
+  "s": 32.99,
+  "e": 34.34,
+  "text": "and some females swell up",
+  "words": [
+   [
+    "and",
+    32.99
+   ],
+   [
+    "some",
+    33.19
+   ],
+   [
+    "females",
+    33.44
+   ],
+   [
+    "swell",
+    33.89
+   ],
+   [
+    "up",
+    34.21
+   ]
+  ]
+ },
+ {
+  "s": 34.44,
+  "e": 36.48,
+  "text": "to a hundred times their size.",
+  "words": [
+   [
+    "to",
+    34.44
+   ],
+   [
+    "a",
+    34.61
+   ],
+   [
+    "hundred",
+    34.7
+   ],
+   [
+    "times",
+    35.29
+   ],
+   [
+    "their",
+    35.71
+   ],
+   [
+    "size",
+    36.14
+   ]
+  ]
+ },
+ {
+  "s": 36.94,
+  "e": 37.62,
+  "text": "When it's full,",
+  "words": [
+   [
+    "when",
+    36.94
+   ],
+   [
+    "its",
+    37.18
+   ],
+   [
+    "full",
+    37.37
+   ]
+  ]
+ },
+ {
+  "s": 37.86,
+  "e": 40.37,
+  "text": "it breaks free from its own glue in a minute or two,",
+  "words": [
+   [
+    "it",
+    37.86
+   ],
+   [
+    "breaks",
+    37.98
+   ],
+   [
+    "free",
+    38.36
+   ],
+   [
+    "from",
+    38.61
+   ],
+   [
+    "its",
+    38.86
+   ],
+   [
+    "own",
+    39.05
+   ],
+   [
+    "glue",
+    39.24
+   ],
+   [
+    "in",
+    39.49
+   ],
+   [
+    "a",
+    39.61
+   ],
+   [
+    "minute",
+    39.67
+   ],
+   [
+    "or",
+    40.05
+   ],
+   [
+    "two",
+    40.18
+   ]
+  ]
+ },
+ {
+  "s": 40.58,
+  "e": 41.54,
+  "text": "and drops off.",
+  "words": [
+   [
+    "and",
+    40.58
+   ],
+   [
+    "drops",
+    40.84
+   ],
+   [
+    "off",
+    41.28
+   ]
+  ]
+ },
+ {
+  "s": 41.96,
+  "e": 43.28,
+  "text": "So which grip is scarier,",
+  "words": [
+   [
+    "so",
+    41.96
+   ],
+   [
+    "which",
+    42.09
+   ],
+   [
+    "grip",
+    42.42
+   ],
+   [
+    "is",
+    42.68
+   ],
+   [
+    "scarier",
+    42.81
+   ]
+  ]
+ },
+ {
+  "s": 43.54,
+  "e": 44.82,
+  "text": "the barbs or the glue?",
+  "words": [
+   [
+    "the",
+    43.54
+   ],
+   [
+    "barbs",
+    43.76
+   ],
+   [
+    "or",
+    44.14
+   ],
+   [
+    "the",
+    44.29
+   ],
+   [
+    "glue",
+    44.52
+   ]
+  ]
+ }
+]
