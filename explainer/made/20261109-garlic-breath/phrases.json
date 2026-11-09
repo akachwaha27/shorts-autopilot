@@ -1,0 +1,666 @@
+[
+ {
+  "s": 0.25,
+  "e": 4.47,
+  "text": "Your garlic breath can leak out of your lungs for twenty-four hours. Why?",
+  "words": [
+   [
+    "your",
+    0.25
+   ],
+   [
+    "garlic",
+    0.54
+   ],
+   [
+    "breath",
+    0.98
+   ],
+   [
+    "can",
+    1.41
+   ],
+   [
+    "leak",
+    1.63
+   ],
+   [
+    "out",
+    1.92
+   ],
+   [
+    "of",
+    2.14
+   ],
+   [
+    "your",
+    2.29
+   ],
+   [
+    "lungs",
+    2.58
+   ],
+   [
+    "for",
+    2.94
+   ],
+   [
+    "twentyfour",
+    3.16
+   ],
+   [
+    "hours",
+    3.89
+   ],
+   [
+    "why",
+    4.25
+   ]
+  ]
+ },
+ {
+  "s": 5.05,
+  "e": 6.43,
+  "text": "Mouthwash won't stop it.",
+  "words": [
+   [
+    "mouthwash",
+    5.05
+   ],
+   [
+    "wont",
+    5.7
+   ],
+   [
+    "stop",
+    5.99
+   ],
+   [
+    "it",
+    6.28
+   ]
+  ]
+ },
+ {
+  "s": 6.7,
+  "e": 8.05,
+  "text": "Crush a clove of garlic",
+  "words": [
+   [
+    "crush",
+    6.7
+   ],
+   [
+    "a",
+    7.06
+   ],
+   [
+    "clove",
+    7.13
+   ],
+   [
+    "of",
+    7.48
+   ],
+   [
+    "garlic",
+    7.63
+   ]
+  ]
+ },
+ {
+  "s": 8.54,
+  "e": 11.46,
+  "text": "and it lets off a bunch of stinky sulfur gases.",
+  "words": [
+   [
+    "and",
+    8.54
+   ],
+   [
+    "it",
+    8.78
+   ],
+   [
+    "lets",
+    8.94
+   ],
+   [
+    "off",
+    9.25
+   ],
+   [
+    "a",
+    9.49
+   ],
+   [
+    "bunch",
+    9.57
+   ],
+   [
+    "of",
+    9.96
+   ],
+   [
+    "stinky",
+    10.12
+   ],
+   [
+    "sulfur",
+    10.59
+   ],
+   [
+    "gases",
+    11.06
+   ]
+  ]
+ },
+ {
+  "s": 11.9,
+  "e": 13.44,
+  "text": "Most break down fast.",
+  "words": [
+   [
+    "most",
+    11.9
+   ],
+   [
+    "break",
+    12.27
+   ],
+   [
+    "down",
+    12.72
+   ],
+   [
+    "fast",
+    13.08
+   ]
+  ]
+ },
+ {
+  "s": 13.81,
+  "e": 15.0,
+  "text": "But one is sneaky.",
+  "words": [
+   [
+    "but",
+    13.81
+   ],
+   [
+    "one",
+    14.07
+   ],
+   [
+    "is",
+    14.32
+   ],
+   [
+    "sneaky",
+    14.49
+   ]
+  ]
+ },
+ {
+  "s": 15.35,
+  "e": 17.43,
+  "text": "It's called allyl methyl sulfide.",
+  "words": [
+   [
+    "its",
+    15.35
+   ],
+   [
+    "called",
+    15.58
+   ],
+   [
+    "allyl",
+    16.04
+   ],
+   [
+    "methyl",
+    16.43
+   ],
+   [
+    "sulfide",
+    16.89
+   ]
+  ]
+ },
+ {
+  "s": 17.79,
+  "e": 19.62,
+  "text": "Your gut and liver barely touch it,",
+  "words": [
+   [
+    "your",
+    17.79
+   ],
+   [
+    "gut",
+    18.05
+   ],
+   [
+    "and",
+    18.25
+   ],
+   [
+    "liver",
+    18.44
+   ],
+   [
+    "barely",
+    18.77
+   ],
+   [
+    "touch",
+    19.16
+   ],
+   [
+    "it",
+    19.49
+   ]
+  ]
+ },
+ {
+  "s": 20.11,
+  "e": 21.42,
+  "text": "so it slips into your blood",
+  "words": [
+   [
+    "so",
+    20.11
+   ],
+   [
+    "it",
+    20.23
+   ],
+   [
+    "slips",
+    20.35
+   ],
+   [
+    "into",
+    20.64
+   ],
+   [
+    "your",
+    20.88
+   ],
+   [
+    "blood",
+    21.12
+   ]
+  ]
+ },
+ {
+  "s": 21.42,
+  "e": 23.38,
+  "text": "and rides around your whole body.",
+  "words": [
+   [
+    "and",
+    21.42
+   ],
+   [
+    "rides",
+    21.64
+   ],
+   [
+    "around",
+    22.0
+   ],
+   [
+    "your",
+    22.43
+   ],
+   [
+    "whole",
+    22.73
+   ],
+   [
+    "body",
+    23.09
+   ]
+  ]
+ },
+ {
+  "s": 23.77,
+  "e": 26.37,
+  "text": "Each time that blood passes through your lungs,",
+  "words": [
+   [
+    "each",
+    23.77
+   ],
+   [
+    "time",
+    24.03
+   ],
+   [
+    "that",
+    24.3
+   ],
+   [
+    "blood",
+    24.57
+   ],
+   [
+    "passes",
+    24.9
+   ],
+   [
+    "through",
+    25.3
+   ],
+   [
+    "your",
+    25.77
+   ],
+   [
+    "lungs",
+    26.03
+   ]
+  ]
+ },
+ {
+  "s": 26.78,
+  "e": 28.31,
+  "text": "a little leaks out on your breath.",
+  "words": [
+   [
+    "a",
+    26.78
+   ],
+   [
+    "little",
+    26.83
+   ],
+   [
+    "leaks",
+    27.17
+   ],
+   [
+    "out",
+    27.46
+   ],
+   [
+    "on",
+    27.63
+   ],
+   [
+    "your",
+    27.74
+   ],
+   [
+    "breath",
+    27.97
+   ]
+  ]
+ },
+ {
+  "s": 28.72,
+  "e": 30.79,
+  "text": "Some even sneaks out through your sweat.",
+  "words": [
+   [
+    "some",
+    28.72
+   ],
+   [
+    "even",
+    28.97
+   ],
+   [
+    "sneaks",
+    29.22
+   ],
+   [
+    "out",
+    29.6
+   ],
+   [
+    "through",
+    29.79
+   ],
+   [
+    "your",
+    30.23
+   ],
+   [
+    "sweat",
+    30.48
+   ]
+  ]
+ },
+ {
+  "s": 31.17,
+  "e": 32.47,
+  "text": "Three hours after dinner,",
+  "words": [
+   [
+    "three",
+    31.17
+   ],
+   [
+    "hours",
+    31.48
+   ],
+   [
+    "after",
+    31.79
+   ],
+   [
+    "dinner",
+    32.1
+   ]
+  ]
+ },
+ {
+  "s": 32.92,
+  "e": 35.24,
+  "text": "it's the main garlic smell you're breathing out.",
+  "words": [
+   [
+    "its",
+    32.92
+   ],
+   [
+    "the",
+    33.1
+   ],
+   [
+    "main",
+    33.29
+   ],
+   [
+    "garlic",
+    33.53
+   ],
+   [
+    "smell",
+    33.9
+   ],
+   [
+    "youre",
+    34.2
+   ],
+   [
+    "breathing",
+    34.51
+   ],
+   [
+    "out",
+    35.05
+   ]
+  ]
+ },
+ {
+  "s": 35.68,
+  "e": 38.03,
+  "text": "And it keeps that up for hours and hours.",
+  "words": [
+   [
+    "and",
+    35.68
+   ],
+   [
+    "it",
+    35.9
+   ],
+   [
+    "keeps",
+    36.04
+   ],
+   [
+    "that",
+    36.41
+   ],
+   [
+    "up",
+    36.71
+   ],
+   [
+    "for",
+    36.85
+   ],
+   [
+    "hours",
+    37.07
+   ],
+   [
+    "and",
+    37.44
+   ],
+   [
+    "hours",
+    37.66
+   ]
+  ]
+ },
+ {
+  "s": 38.45,
+  "e": 41.15,
+  "text": "Raw apple, mint or milk can help a little.",
+  "words": [
+   [
+    "raw",
+    38.45
+   ],
+   [
+    "apple",
+    38.71
+   ],
+   [
+    "mint",
+    39.13
+   ],
+   [
+    "or",
+    39.46
+   ],
+   [
+    "milk",
+    39.63
+   ],
+   [
+    "can",
+    39.97
+   ],
+   [
+    "help",
+    40.22
+   ],
+   [
+    "a",
+    40.56
+   ],
+   [
+    "little",
+    40.64
+   ]
+  ]
+ },
+ {
+  "s": 41.51,
+  "e": 42.19,
+  "text": "So really,",
+  "words": [
+   [
+    "so",
+    41.51
+   ],
+   [
+    "really",
+    41.68
+   ]
+  ]
+ },
+ {
+  "s": 42.37,
+  "e": 44.2,
+  "text": "garlic breath is garlic blood.",
+  "words": [
+   [
+    "garlic",
+    42.37
+   ],
+   [
+    "breath",
+    42.81
+   ],
+   [
+    "is",
+    43.24
+   ],
+   [
+    "garlic",
+    43.39
+   ],
+   [
+    "blood",
+    43.83
+   ]
+  ]
+ },
+ {
+  "s": 44.6,
+  "e": 46.75,
+  "text": "Would you still eat garlic before a date?",
+  "words": [
+   [
+    "would",
+    44.6
+   ],
+   [
+    "you",
+    44.92
+   ],
+   [
+    "still",
+    45.12
+   ],
+   [
+    "eat",
+    45.45
+   ],
+   [
+    "garlic",
+    45.64
+   ],
+   [
+    "before",
+    46.03
+   ],
+   [
+    "a",
+    46.43
+   ],
+   [
+    "date",
+    46.49
+   ]
+  ]
+ }
+]
