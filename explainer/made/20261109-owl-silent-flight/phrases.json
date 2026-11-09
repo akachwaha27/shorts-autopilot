@@ -1,0 +1,675 @@
+[
+ {
+  "s": 0.25,
+  "e": 1.58,
+  "text": "Why can't you hear an owl",
+  "words": [
+   [
+    "why",
+    0.25
+   ],
+   [
+    "cant",
+    0.46
+   ],
+   [
+    "you",
+    0.74
+   ],
+   [
+    "hear",
+    0.95
+   ],
+   [
+    "an",
+    1.23
+   ],
+   [
+    "owl",
+    1.37
+   ]
+  ]
+ },
+ {
+  "s": 1.72,
+  "e": 3.25,
+  "text": "until it's three feet from you?",
+  "words": [
+   [
+    "until",
+    1.72
+   ],
+   [
+    "its",
+    2.04
+   ],
+   [
+    "three",
+    2.23
+   ],
+   [
+    "feet",
+    2.55
+   ],
+   [
+    "from",
+    2.8
+   ],
+   [
+    "you",
+    3.06
+   ]
+  ]
+ },
+ {
+  "s": 3.78,
+  "e": 6.49,
+  "text": "Most birds' wings churn the air into big swirls,",
+  "words": [
+   [
+    "most",
+    3.78
+   ],
+   [
+    "birds",
+    4.06
+   ],
+   [
+    "wings",
+    4.42
+   ],
+   [
+    "churn",
+    4.78
+   ],
+   [
+    "the",
+    5.13
+   ],
+   [
+    "air",
+    5.35
+   ],
+   [
+    "into",
+    5.56
+   ],
+   [
+    "big",
+    5.85
+   ],
+   [
+    "swirls",
+    6.06
+   ]
+  ]
+ },
+ {
+  "s": 6.63,
+  "e": 9.24,
+  "text": "and those swirls are the whoosh you hear.",
+  "words": [
+   [
+    "and",
+    6.63
+   ],
+   [
+    "those",
+    6.87
+   ],
+   [
+    "swirls",
+    7.26
+   ],
+   [
+    "are",
+    7.74
+   ],
+   [
+    "the",
+    7.97
+   ],
+   [
+    "whoosh",
+    8.21
+   ],
+   [
+    "you",
+    8.69
+   ],
+   [
+    "hear",
+    8.93
+   ]
+  ]
+ },
+ {
+  "s": 9.6,
+  "e": 11.94,
+  "text": "But an owl's front wing feathers have a comb,",
+  "words": [
+   [
+    "but",
+    9.6
+   ],
+   [
+    "an",
+    9.8
+   ],
+   [
+    "owls",
+    9.94
+   ],
+   [
+    "front",
+    10.2
+   ],
+   [
+    "wing",
+    10.54
+   ],
+   [
+    "feathers",
+    10.8
+   ],
+   [
+    "have",
+    11.34
+   ],
+   [
+    "a",
+    11.61
+   ],
+   [
+    "comb",
+    11.67
+   ]
+  ]
+ },
+ {
+  "s": 12.32,
+  "e": 14.07,
+  "text": "tiny teeth along the edge.",
+  "words": [
+   [
+    "tiny",
+    12.32
+   ],
+   [
+    "teeth",
+    12.65
+   ],
+   [
+    "along",
+    13.07
+   ],
+   [
+    "the",
+    13.49
+   ],
+   [
+    "edge",
+    13.74
+   ]
+  ]
+ },
+ {
+  "s": 14.5,
+  "e": 17.04,
+  "text": "They split the air into small, quiet streams.",
+  "words": [
+   [
+    "they",
+    14.5
+   ],
+   [
+    "split",
+    14.78
+   ],
+   [
+    "the",
+    15.14
+   ],
+   [
+    "air",
+    15.35
+   ],
+   [
+    "into",
+    15.56
+   ],
+   [
+    "small",
+    15.84
+   ],
+   [
+    "quiet",
+    16.19
+   ],
+   [
+    "streams",
+    16.54
+   ]
+  ]
+ },
+ {
+  "s": 17.47,
+  "e": 20.16,
+  "text": "Then a soft, ragged fringe on the back edge",
+  "words": [
+   [
+    "then",
+    17.47
+   ],
+   [
+    "a",
+    17.78
+   ],
+   [
+    "soft",
+    17.86
+   ],
+   [
+    "ragged",
+    18.18
+   ],
+   [
+    "fringe",
+    18.65
+   ],
+   [
+    "on",
+    19.13
+   ],
+   [
+    "the",
+    19.29
+   ],
+   [
+    "back",
+    19.53
+   ],
+   [
+    "edge",
+    19.84
+   ]
+  ]
+ },
+ {
+  "s": 20.53,
+  "e": 22.4,
+  "text": "and a velvety coat on top",
+  "words": [
+   [
+    "and",
+    20.53
+   ],
+   [
+    "a",
+    20.81
+   ],
+   [
+    "velvety",
+    20.9
+   ],
+   [
+    "coat",
+    21.56
+   ],
+   [
+    "on",
+    21.93
+   ],
+   [
+    "top",
+    22.12
+   ]
+  ]
+ },
+ {
+  "s": 22.72,
+  "e": 24.13,
+  "text": "hush whatever noise is left.",
+  "words": [
+   [
+    "hush",
+    22.72
+   ],
+   [
+    "whatever",
+    22.96
+   ],
+   [
+    "noise",
+    23.45
+   ],
+   [
+    "is",
+    23.76
+   ],
+   [
+    "left",
+    23.88
+   ]
+  ]
+ },
+ {
+  "s": 24.5,
+  "e": 25.84,
+  "text": "Big wings help too.",
+  "words": [
+   [
+    "big",
+    24.5
+   ],
+   [
+    "wings",
+    24.77
+   ],
+   [
+    "help",
+    25.22
+   ],
+   [
+    "too",
+    25.57
+   ]
+  ]
+ },
+ {
+  "s": 26.12,
+  "e": 29.14,
+  "text": "A barn owl can fly as slowly as two miles an hour,",
+  "words": [
+   [
+    "a",
+    26.12
+   ],
+   [
+    "barn",
+    26.2
+   ],
+   [
+    "owl",
+    26.52
+   ],
+   [
+    "can",
+    26.76
+   ],
+   [
+    "fly",
+    27.0
+   ],
+   [
+    "as",
+    27.24
+   ],
+   [
+    "slowly",
+    27.4
+   ],
+   [
+    "as",
+    27.87
+   ],
+   [
+    "two",
+    28.03
+   ],
+   [
+    "miles",
+    28.27
+   ],
+   [
+    "an",
+    28.67
+   ],
+   [
+    "hour",
+    28.83
+   ]
+  ]
+ },
+ {
+  "s": 29.65,
+  "e": 31.2,
+  "text": "and slower means quieter.",
+  "words": [
+   [
+    "and",
+    29.65
+   ],
+   [
+    "slower",
+    29.87
+   ],
+   [
+    "means",
+    30.31
+   ],
+   [
+    "quieter",
+    30.68
+   ]
+  ]
+ },
+ {
+  "s": 31.59,
+  "e": 35.21,
+  "text": "Its wings mute the high sounds above sixteen hundred hertz,",
+  "words": [
+   [
+    "its",
+    31.59
+   ],
+   [
+    "wings",
+    31.81
+   ],
+   [
+    "mute",
+    32.18
+   ],
+   [
+    "the",
+    32.48
+   ],
+   [
+    "high",
+    32.7
+   ],
+   [
+    "sounds",
+    33.0
+   ],
+   [
+    "above",
+    33.44
+   ],
+   [
+    "sixteen",
+    33.81
+   ],
+   [
+    "hundred",
+    34.33
+   ],
+   [
+    "hertz",
+    34.84
+   ]
+  ]
+ },
+ {
+  "s": 35.69,
+  "e": 37.75,
+  "text": "right where a mouse's hearing begins.",
+  "words": [
+   [
+    "right",
+    35.69
+   ],
+   [
+    "where",
+    36.04
+   ],
+   [
+    "a",
+    36.38
+   ],
+   [
+    "mouses",
+    36.45
+   ],
+   [
+    "hearing",
+    36.86
+   ],
+   [
+    "begins",
+    37.34
+   ]
+  ]
+ },
+ {
+  "s": 38.17,
+  "e": 39.95,
+  "text": "So the mouse never hears it coming,",
+  "words": [
+   [
+    "so",
+    38.17
+   ],
+   [
+    "the",
+    38.3
+   ],
+   [
+    "mouse",
+    38.49
+   ],
+   [
+    "never",
+    38.81
+   ],
+   [
+    "hears",
+    39.13
+   ],
+   [
+    "it",
+    39.44
+   ],
+   [
+    "coming",
+    39.57
+   ]
+  ]
+ },
+ {
+  "s": 40.44,
+  "e": 42.77,
+  "text": "but the owl hears the mouse just fine.",
+  "words": [
+   [
+    "but",
+    40.44
+   ],
+   [
+    "the",
+    40.68
+   ],
+   [
+    "owl",
+    40.91
+   ],
+   [
+    "hears",
+    41.14
+   ],
+   [
+    "the",
+    41.53
+   ],
+   [
+    "mouse",
+    41.76
+   ],
+   [
+    "just",
+    42.15
+   ],
+   [
+    "fine",
+    42.46
+   ]
+  ]
+ },
+ {
+  "s": 43.18,
+  "e": 44.99,
+  "text": "If an owl flew over you tonight,",
+  "words": [
+   [
+    "if",
+    43.18
+   ],
+   [
+    "an",
+    43.32
+   ],
+   [
+    "owl",
+    43.47
+   ],
+   [
+    "flew",
+    43.69
+   ],
+   [
+    "over",
+    43.97
+   ],
+   [
+    "you",
+    44.26
+   ],
+   [
+    "tonight",
+    44.48
+   ]
+  ]
+ },
+ {
+  "s": 45.36,
+  "e": 46.37,
+  "text": "do you think you'd hear it?",
+  "words": [
+   [
+    "do",
+    45.36
+   ],
+   [
+    "you",
+    45.46
+   ],
+   [
+    "think",
+    45.61
+   ],
+   [
+    "youd",
+    45.86
+   ],
+   [
+    "hear",
+    46.06
+   ],
+   [
+    "it",
+    46.27
+   ]
+  ]
+ }
+]
