@@ -1,0 +1,730 @@
+[
+ {
+  "s": 0.25,
+  "e": 3.41,
+  "text": "Birds in a V can cut their heart rate 14 percent,",
+  "words": [
+   [
+    "birds",
+    0.25
+   ],
+   [
+    "in",
+    0.67
+   ],
+   [
+    "a",
+    0.83
+   ],
+   [
+    "v",
+    0.92
+   ],
+   [
+    "can",
+    1.0
+   ],
+   [
+    "cut",
+    1.25
+   ],
+   [
+    "their",
+    1.5
+   ],
+   [
+    "heart",
+    1.91
+   ],
+   [
+    "rate",
+    2.33
+   ],
+   [
+    "14",
+    2.66
+   ],
+   [
+    "percent",
+    2.83
+   ]
+  ]
+ },
+ {
+  "s": 3.93,
+  "e": 5.29,
+  "text": "and you've never seen why.",
+  "words": [
+   [
+    "and",
+    3.93
+   ],
+   [
+    "youve",
+    4.13
+   ],
+   [
+    "never",
+    4.47
+   ],
+   [
+    "seen",
+    4.81
+   ],
+   [
+    "why",
+    5.08
+   ]
+  ]
+ },
+ {
+  "s": 5.7,
+  "e": 8.18,
+  "text": "It's the secret behind every V of geese.",
+  "words": [
+   [
+    "its",
+    5.7
+   ],
+   [
+    "the",
+    5.94
+   ],
+   [
+    "secret",
+    6.18
+   ],
+   [
+    "behind",
+    6.66
+   ],
+   [
+    "every",
+    7.14
+   ],
+   [
+    "v",
+    7.54
+   ],
+   [
+    "of",
+    7.62
+   ],
+   [
+    "geese",
+    7.78
+   ]
+  ]
+ },
+ {
+  "s": 8.54,
+  "e": 10.84,
+  "text": "Each flap pushes air down behind the wing.",
+  "words": [
+   [
+    "each",
+    8.54
+   ],
+   [
+    "flap",
+    8.81
+   ],
+   [
+    "pushes",
+    9.08
+   ],
+   [
+    "air",
+    9.49
+   ],
+   [
+    "down",
+    9.69
+   ],
+   [
+    "behind",
+    9.96
+   ],
+   [
+    "the",
+    10.37
+   ],
+   [
+    "wing",
+    10.57
+   ]
+  ]
+ },
+ {
+  "s": 11.25,
+  "e": 14.31,
+  "text": "But at the wingtip, air curls up and around,",
+  "words": [
+   [
+    "but",
+    11.25
+   ],
+   [
+    "at",
+    11.52
+   ],
+   [
+    "the",
+    11.7
+   ],
+   [
+    "wingtip",
+    11.97
+   ],
+   [
+    "air",
+    12.6
+   ],
+   [
+    "curls",
+    12.87
+   ],
+   [
+    "up",
+    13.32
+   ],
+   [
+    "and",
+    13.5
+   ],
+   [
+    "around",
+    13.77
+   ]
+  ]
+ },
+ {
+  "s": 14.38,
+  "e": 15.22,
+  "text": "into a spinning swirl.",
+  "words": [
+   [
+    "into",
+    14.38
+   ],
+   [
+    "a",
+    14.57
+   ],
+   [
+    "spinning",
+    14.62
+   ],
+   [
+    "swirl",
+    14.99
+   ]
+  ]
+ },
+ {
+  "s": 15.69,
+  "e": 18.37,
+  "text": "Just outside that swirl, the air is rising.",
+  "words": [
+   [
+    "just",
+    15.69
+   ],
+   [
+    "outside",
+    16.01
+   ],
+   [
+    "that",
+    16.56
+   ],
+   [
+    "swirl",
+    16.87
+   ],
+   [
+    "the",
+    17.27
+   ],
+   [
+    "air",
+    17.5
+   ],
+   [
+    "is",
+    17.74
+   ],
+   [
+    "rising",
+    17.89
+   ]
+  ]
+ },
+ {
+  "s": 18.8,
+  "e": 21.71,
+  "text": "So the bird behind slides into that exact spot,",
+  "words": [
+   [
+    "so",
+    18.8
+   ],
+   [
+    "the",
+    18.95
+   ],
+   [
+    "bird",
+    19.18
+   ],
+   [
+    "behind",
+    19.48
+   ],
+   [
+    "slides",
+    19.94
+   ],
+   [
+    "into",
+    20.4
+   ],
+   [
+    "that",
+    20.71
+   ],
+   [
+    "exact",
+    21.02
+   ],
+   [
+    "spot",
+    21.4
+   ]
+  ]
+ },
+ {
+  "s": 22.22,
+  "e": 24.21,
+  "text": "and gets free lift on every flap.",
+  "words": [
+   [
+    "and",
+    22.22
+   ],
+   [
+    "gets",
+    22.45
+   ],
+   [
+    "free",
+    22.75
+   ],
+   [
+    "lift",
+    23.06
+   ],
+   [
+    "on",
+    23.37
+   ],
+   [
+    "every",
+    23.52
+   ],
+   [
+    "flap",
+    23.9
+   ]
+  ]
+ },
+ {
+  "s": 24.57,
+  "e": 26.05,
+  "text": "Line everyone up like that,",
+  "words": [
+   [
+    "line",
+    24.57
+   ],
+   [
+    "everyone",
+    24.84
+   ],
+   [
+    "up",
+    25.38
+   ],
+   [
+    "like",
+    25.51
+   ],
+   [
+    "that",
+    25.78
+   ]
+  ]
+ },
+ {
+  "s": 26.41,
+  "e": 27.34,
+  "text": "and you get a V.",
+  "words": [
+   [
+    "and",
+    26.41
+   ],
+   [
+    "you",
+    26.66
+   ],
+   [
+    "get",
+    26.92
+   ],
+   [
+    "a",
+    27.17
+   ],
+   [
+    "v",
+    27.26
+   ]
+  ]
+ },
+ {
+  "s": 27.74,
+  "e": 29.55,
+  "text": "Pelicans tracked in formation",
+  "words": [
+   [
+    "pelicans",
+    27.74
+   ],
+   [
+    "tracked",
+    28.3
+   ],
+   [
+    "in",
+    28.79
+   ],
+   [
+    "formation",
+    28.93
+   ]
+  ]
+ },
+ {
+  "s": 29.9,
+  "e": 34.07,
+  "text": "had heart rates up to 14 percent lower than flying solo.",
+  "words": [
+   [
+    "had",
+    29.9
+   ],
+   [
+    "heart",
+    30.18
+   ],
+   [
+    "rates",
+    30.64
+   ],
+   [
+    "up",
+    31.1
+   ],
+   [
+    "to",
+    31.29
+   ],
+   [
+    "14",
+    31.47
+   ],
+   [
+    "percent",
+    31.66
+   ],
+   [
+    "lower",
+    32.31
+   ],
+   [
+    "than",
+    32.77
+   ],
+   [
+    "flying",
+    33.14
+   ],
+   [
+    "solo",
+    33.7
+   ]
+  ]
+ },
+ {
+  "s": 34.49,
+  "e": 37.71,
+  "text": "Ibises even time their flaps to match the bird ahead.",
+  "words": [
+   [
+    "ibises",
+    34.49
+   ],
+   [
+    "even",
+    34.94
+   ],
+   [
+    "time",
+    35.24
+   ],
+   [
+    "their",
+    35.54
+   ],
+   [
+    "flaps",
+    35.91
+   ],
+   [
+    "to",
+    36.29
+   ],
+   [
+    "match",
+    36.44
+   ],
+   [
+    "the",
+    36.81
+   ],
+   [
+    "bird",
+    37.04
+   ],
+   [
+    "ahead",
+    37.33
+   ]
+  ]
+ },
+ {
+  "s": 38.07,
+  "e": 40.36,
+  "text": "But the front bird gets no free ride.",
+  "words": [
+   [
+    "but",
+    38.07
+   ],
+   [
+    "the",
+    38.31
+   ],
+   [
+    "front",
+    38.55
+   ],
+   [
+    "bird",
+    38.94
+   ],
+   [
+    "gets",
+    39.26
+   ],
+   [
+    "no",
+    39.57
+   ],
+   [
+    "free",
+    39.73
+   ],
+   [
+    "ride",
+    40.04
+   ]
+  ]
+ },
+ {
+  "s": 40.75,
+  "e": 41.83,
+  "text": "So ibises take turns,",
+  "words": [
+   [
+    "so",
+    40.75
+   ],
+   [
+    "ibises",
+    40.88
+   ],
+   [
+    "take",
+    41.26
+   ],
+   [
+    "turns",
+    41.51
+   ]
+  ]
+ },
+ {
+  "s": 41.93,
+  "e": 44.94,
+  "text": "swapping the tiring spot at the front.",
+  "words": [
+   [
+    "swapping",
+    41.93
+   ],
+   [
+    "the",
+    42.71
+   ],
+   [
+    "tiring",
+    43.0
+   ],
+   [
+    "spot",
+    43.58
+   ],
+   [
+    "at",
+    43.97
+   ],
+   [
+    "the",
+    44.17
+   ],
+   [
+    "front",
+    44.46
+   ]
+  ]
+ },
+ {
+  "s": 45.31,
+  "e": 47.9,
+  "text": "Honestly, that's teamwork with zero meetings.",
+  "words": [
+   [
+    "honestly",
+    45.31
+   ],
+   [
+    "thats",
+    45.87
+   ],
+   [
+    "teamwork",
+    46.22
+   ],
+   [
+    "with",
+    46.78
+   ],
+   [
+    "zero",
+    47.06
+   ],
+   [
+    "meetings",
+    47.34
+   ]
+  ]
+ },
+ {
+  "s": 48.34,
+  "e": 50.16,
+  "text": "So which bird would you rather be,",
+  "words": [
+   [
+    "so",
+    48.34
+   ],
+   [
+    "which",
+    48.47
+   ],
+   [
+    "bird",
+    48.81
+   ],
+   [
+    "would",
+    49.08
+   ],
+   [
+    "you",
+    49.41
+   ],
+   [
+    "rather",
+    49.62
+   ],
+   [
+    "be",
+    50.02
+   ]
+  ]
+ },
+ {
+  "s": 50.45,
+  "e": 52.86,
+  "text": "the leader at the front, or the one in the back?",
+  "words": [
+   [
+    "the",
+    50.45
+   ],
+   [
+    "leader",
+    50.65
+   ],
+   [
+    "at",
+    51.05
+   ],
+   [
+    "the",
+    51.18
+   ],
+   [
+    "front",
+    51.38
+   ],
+   [
+    "or",
+    51.72
+   ],
+   [
+    "the",
+    51.85
+   ],
+   [
+    "one",
+    52.05
+   ],
+   [
+    "in",
+    52.26
+   ],
+   [
+    "the",
+    52.39
+   ],
+   [
+    "back",
+    52.59
+   ]
+  ]
+ }
+]
