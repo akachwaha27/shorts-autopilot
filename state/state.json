@@ -3119,6 +3119,74 @@
       },
       "srt": "1\n00:00:00,250 --> 00:00:03,410\nBirds in a V can cut their heart rate 14 percent,\n\n2\n00:00:03,930 --> 00:00:05,290\nand you've never seen why.\n\n3\n00:00:05,700 --> 00:00:08,180\nIt's the secret behind every V of geese.\n\n4\n00:00:08,540 --> 00:00:10,840\nEach flap pushes air down behind the wing.\n\n5\n00:00:11,250 --> 00:00:14,310\nBut at the wingtip, air curls up and around,\n\n6\n00:00:14,380 --> 00:00:15,220\ninto a spinning swirl.\n\n7\n00:00:15,690 --> 00:00:18,370\nJust outside that swirl, the air is rising.\n\n8\n00:00:18,800 --> 00:00:21,710\nSo the bird behind slides into that exact spot,\n\n9\n00:00:22,220 --> 00:00:24,210\nand gets free lift on every flap.\n\n10\n00:00:24,570 --> 00:00:26,050\nLine everyone up like that,\n\n11\n00:00:26,410 --> 00:00:27,340\nand you get a V.\n\n12\n00:00:27,740 --> 00:00:29,550\nPelicans tracked in formation\n\n13\n00:00:29,900 --> 00:00:34,070\nhad heart rates up to 14 percent lower than flying solo.\n\n14\n00:00:34,490 --> 00:00:37,710\nIbises even time their flaps to match the bird ahead.\n\n15\n00:00:38,070 --> 00:00:40,360\nBut the front bird gets no free ride.\n\n16\n00:00:40,750 --> 00:00:41,830\nSo ibises take turns,\n\n17\n00:00:41,930 --> 00:00:44,940\nswapping the tiring spot at the front.\n\n18\n00:00:45,310 --> 00:00:47,900\nHonestly, that's teamwork with zero meetings.\n\n19\n00:00:48,340 --> 00:00:50,160\nSo which bird would you rather be,\n\n20\n00:00:50,450 --> 00:00:52,860\nthe leader at the front, or the one in the back?\n\n",
       "tg_msg": 1072
+    },
+    "2026-11-10-101": {
+      "topic": {
+        "title": "Why do dogs tilt their heads when you talk?",
+        "format": "animated",
+        "angle": "Whiteboard Explainer"
+      },
+      "package": {
+        "title": "Why Does Your Dog Tilt Its Head? \ud83d\udc36",
+        "description": "Why do dogs tilt their heads when you talk? Scientists found genius dogs tilt about 20 times more when they hear a toy's name, and a dog's snout may block its view of your mouth.\n\nSources:\nhttps://www.smithsonianmag.com/smart-news/why-do-dogs-tilt-their-heads-new-study-offers-clues-180978980/\nhttps://www.psychologytoday.com/us/blog/canine-corner/201312/why-some-dogs-tilt-their-heads-when-you-talk-to-them\nhttps://www.discovermagazine.com/why-do-dogs-tilt-their-heads-to-one-side-44903\n\nAnimated in the Whiteboard Explainer style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#dogs",
+          "#dogheadtilt",
+          "#science"
+        ],
+        "tags": [
+          "why do dogs tilt their heads",
+          "dog head tilt",
+          "dog behavior",
+          "border collie",
+          "smart dogs",
+          "dog science",
+          "dog facts",
+          "animal facts",
+          "how dogs think",
+          "dogs understand words",
+          "whiteboard animation",
+          "explainer",
+          "zorbly ai"
+        ],
+        "category": "27",
+        "pinned_comment": "Does your dog tilt left or right? Tell me below \ud83d\udc47",
+        "thumbnail_text": "LEFT OR RIGHT?",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "Why does your dog tilt its head? Genius dogs do it twenty times more. In Budapest, scientists tested some genius border collies that know the names of over ten toys. When their owner said a toy's name, those genius dogs tilted their heads forty-three percent of the time. Regular dogs? Just two percent. So the tilt might be a dog matching your word to a picture in its head. But there's another idea. A dog's snout blocks part of your face, especially your mouth. Tilting gives it a clearer view. In one survey, seventy-one percent of long-snouted dogs often tilted, but only fifty-two percent of flat-faced dogs did. And here's the fun part: each dog usually tilts to the same side, every time. So which way does your dog tilt, left or right?",
+        "key_facts": [
+          "Eotvos Lorand University (Budapest) study in Animal Cognition: 'gifted word learner' border collies tilted their heads 43% of the time when owners named toys, typical dogs 2%",
+          "Gifted dogs knew the names of at least 10 toys",
+          "Dogs usually tilt to the same side regardless of where the owner stands",
+          "Stanley Coren survey (582 owners): 71% of larger-muzzled dogs often tilted vs 52% of flat-faced dogs; muzzle may block the view of a speaker's mouth"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Whiteboard Explainer"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261110-dog-head-tilt",
+      "redos": 0,
+      "updated": "2026-11-10T01:12:49.371156+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Whiteboard Explainer style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-10",
+        "name": "2026-11-10-101.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-10",
+        "name": "2026-11-10-101-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:02,030\nWhy does your dog tilt its head?\n\n2\n00:00:02,530 --> 00:00:04,820\nGenius dogs do it twenty times more.\n\n3\n00:00:05,240 --> 00:00:09,290\nIn Budapest, scientists tested some genius border collies\n\n4\n00:00:09,420 --> 00:00:11,740\nthat know the names of over ten toys.\n\n5\n00:00:12,150 --> 00:00:13,790\nWhen their owner said a toy's name,\n\n6\n00:00:14,330 --> 00:00:16,500\nthose genius dogs tilted their heads\n\n7\n00:00:16,500 --> 00:00:18,450\nforty-three percent of the time.\n\n8\n00:00:18,880 --> 00:00:19,970\nRegular dogs?\n\n9\n00:00:20,420 --> 00:00:21,550\nJust two percent.\n\n10\n00:00:21,810 --> 00:00:24,730\nSo the tilt might be a dog matching your word\n\n11\n00:00:24,820 --> 00:00:25,830\nto a picture in its head.\n\n12\n00:00:26,300 --> 00:00:27,740\nBut there's another idea.\n\n13\n00:00:28,110 --> 00:00:30,320\nA dog's snout blocks part of your face,\n\n14\n00:00:30,680 --> 00:00:31,900\nespecially your mouth.\n\n15\n00:00:32,270 --> 00:00:33,950\nTilting gives it a clearer view.\n\n16\n00:00:34,340 --> 00:00:35,160\nIn one survey,\n\n17\n00:00:35,660 --> 00:00:39,140\nseventy-one percent of long-snouted dogs often tilted,\n\n18\n00:00:39,770 --> 00:00:43,070\nbut only fifty-two percent of flat-faced dogs did.\n\n19\n00:00:43,470 --> 00:00:44,690\nAnd here's the fun part:\n\n20\n00:00:45,250 --> 00:00:48,580\neach dog usually tilts to the same side, every time.\n\n21\n00:00:48,980 --> 00:00:50,570\nSo which way does your dog tilt,\n\n22\n00:00:50,900 --> 00:00:51,790\nleft or right?\n\n",
+      "tg_msg": 1076
     }
   },
   "history": [
@@ -3197,7 +3265,7 @@
       "at": "2026-10-25T17:40:17.371797+00:00"
     }
   },
-  "cleanup_day": "2026-11-09",
+  "cleanup_day": "2026-11-10",
   "recent_voices": [
     "en-AU-WilliamMultilingualNeural",
     "en-US-EmmaMultilingualNeural",
@@ -3289,7 +3357,8 @@
     "drop/20261109-carsick": "2026-11-09-102",
     "drop/20261109-garlic-breath": "2026-11-09-103",
     "drop/20261109-owl-silent-flight": "2026-11-09-104",
-    "drop/20261109-geese-v": "2026-11-09-105"
+    "drop/20261109-geese-v": "2026-11-09-105",
+    "drop/20261110-dog-head-tilt": "2026-11-10-101"
   },
-  "refs_day": "2026-11-09"
+  "refs_day": "2026-11-10"
 }
