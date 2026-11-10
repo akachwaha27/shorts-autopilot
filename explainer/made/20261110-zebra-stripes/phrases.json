@@ -1,0 +1,687 @@
+[
+ {
+  "s": 0.25,
+  "e": 3.38,
+  "text": "Zebra stripes stop 3 out of 4 fly landings,",
+  "words": [
+   [
+    "zebra",
+    0.25
+   ],
+   [
+    "stripes",
+    0.71
+   ],
+   [
+    "stop",
+    1.35
+   ],
+   [
+    "3",
+    1.72
+   ],
+   [
+    "out",
+    1.81
+   ],
+   [
+    "of",
+    2.09
+   ],
+   [
+    "4",
+    2.28
+   ],
+   [
+    "fly",
+    2.37
+   ],
+   [
+    "landings",
+    2.64
+   ]
+  ]
+ },
+ {
+  "s": 3.75,
+  "e": 4.9,
+  "text": "and you can see why.",
+  "words": [
+   [
+    "and",
+    3.75
+   ],
+   [
+    "you",
+    3.98
+   ],
+   [
+    "can",
+    4.21
+   ],
+   [
+    "see",
+    4.44
+   ],
+   [
+    "why",
+    4.67
+   ]
+  ]
+ },
+ {
+  "s": 5.29,
+  "e": 8.99,
+  "text": "In Africa, biting horseflies swarm grazing animals,",
+  "words": [
+   [
+    "in",
+    5.29
+   ],
+   [
+    "africa",
+    5.46
+   ],
+   [
+    "biting",
+    5.98
+   ],
+   [
+    "horseflies",
+    6.49
+   ],
+   [
+    "swarm",
+    7.35
+   ],
+   [
+    "grazing",
+    7.78
+   ],
+   [
+    "animals",
+    8.39
+   ]
+  ]
+ },
+ {
+  "s": 9.07,
+  "e": 12.11,
+  "text": "and their bites can spread nasty diseases.",
+  "words": [
+   [
+    "and",
+    9.07
+   ],
+   [
+    "their",
+    9.33
+   ],
+   [
+    "bites",
+    9.76
+   ],
+   [
+    "can",
+    10.2
+   ],
+   [
+    "spread",
+    10.46
+   ],
+   [
+    "nasty",
+    10.98
+   ],
+   [
+    "diseases",
+    11.42
+   ]
+  ]
+ },
+ {
+  "s": 12.47,
+  "e": 15.02,
+  "text": "So researchers in Britain filmed flies",
+  "words": [
+   [
+    "so",
+    12.47
+   ],
+   [
+    "researchers",
+    12.63
+   ],
+   [
+    "in",
+    13.48
+   ],
+   [
+    "britain",
+    13.63
+   ],
+   [
+    "filmed",
+    14.17
+   ],
+   [
+    "flies",
+    14.64
+   ]
+  ]
+ },
+ {
+  "s": 15.11,
+  "e": 17.25,
+  "text": "buzzing around zebras and horses.",
+  "words": [
+   [
+    "buzzing",
+    15.11
+   ],
+   [
+    "around",
+    15.65
+   ],
+   [
+    "zebras",
+    16.11
+   ],
+   [
+    "and",
+    16.56
+   ],
+   [
+    "horses",
+    16.79
+   ]
+  ]
+ },
+ {
+  "s": 17.64,
+  "e": 20.26,
+  "text": "The flies flew up to both just as often.",
+  "words": [
+   [
+    "the",
+    17.64
+   ],
+   [
+    "flies",
+    17.89
+   ],
+   [
+    "flew",
+    18.31
+   ],
+   [
+    "up",
+    18.65
+   ],
+   [
+    "to",
+    18.82
+   ],
+   [
+    "both",
+    18.99
+   ],
+   [
+    "just",
+    19.33
+   ],
+   [
+    "as",
+    19.67
+   ],
+   [
+    "often",
+    19.83
+   ]
+  ]
+ },
+ {
+  "s": 20.65,
+  "e": 23.91,
+  "text": "But they landed on zebras less than a quarter as often.",
+  "words": [
+   [
+    "but",
+    20.65
+   ],
+   [
+    "they",
+    20.88
+   ],
+   [
+    "landed",
+    21.17
+   ],
+   [
+    "on",
+    21.62
+   ],
+   [
+    "zebras",
+    21.76
+   ],
+   [
+    "less",
+    22.21
+   ],
+   [
+    "than",
+    22.5
+   ],
+   [
+    "a",
+    22.8
+   ],
+   [
+    "quarter",
+    22.87
+   ],
+   [
+    "as",
+    23.39
+   ],
+   [
+    "often",
+    23.54
+   ]
+  ]
+ },
+ {
+  "s": 24.33,
+  "e": 25.53,
+  "text": "So what's going on?",
+  "words": [
+   [
+    "so",
+    24.33
+   ],
+   [
+    "whats",
+    24.51
+   ],
+   [
+    "going",
+    24.93
+   ],
+   [
+    "on",
+    25.36
+   ]
+  ]
+ },
+ {
+  "s": 26.03,
+  "e": 29.21,
+  "text": "Near a horse, a fly slows down for a soft landing.",
+  "words": [
+   [
+    "near",
+    26.03
+   ],
+   [
+    "a",
+    26.37
+   ],
+   [
+    "horse",
+    26.45
+   ],
+   [
+    "a",
+    26.87
+   ],
+   [
+    "fly",
+    26.95
+   ],
+   [
+    "slows",
+    27.2
+   ],
+   [
+    "down",
+    27.62
+   ],
+   [
+    "for",
+    27.95
+   ],
+   [
+    "a",
+    28.2
+   ],
+   [
+    "soft",
+    28.29
+   ],
+   [
+    "landing",
+    28.62
+   ]
+  ]
+ },
+ {
+  "s": 29.63,
+  "e": 32.56,
+  "text": "Near a zebra, the stripes seem to scramble its eyes,",
+  "words": [
+   [
+    "near",
+    29.63
+   ],
+   [
+    "a",
+    29.92
+   ],
+   [
+    "zebra",
+    29.99
+   ],
+   [
+    "the",
+    30.34
+   ],
+   [
+    "stripes",
+    30.56
+   ],
+   [
+    "seem",
+    31.06
+   ],
+   [
+    "to",
+    31.34
+   ],
+   [
+    "scramble",
+    31.49
+   ],
+   [
+    "its",
+    32.06
+   ],
+   [
+    "eyes",
+    32.27
+   ]
+  ]
+ },
+ {
+  "s": 32.95,
+  "e": 33.93,
+  "text": "so it never brakes,",
+  "words": [
+   [
+    "so",
+    32.95
+   ],
+   [
+    "it",
+    33.08
+   ],
+   [
+    "never",
+    33.21
+   ],
+   [
+    "brakes",
+    33.54
+   ]
+  ]
+ },
+ {
+  "s": 34.3,
+  "e": 36.62,
+  "text": "and it bumps right off or zooms past.",
+  "words": [
+   [
+    "and",
+    34.3
+   ],
+   [
+    "it",
+    34.54
+   ],
+   [
+    "bumps",
+    34.7
+   ],
+   [
+    "right",
+    35.1
+   ],
+   [
+    "off",
+    35.5
+   ],
+   [
+    "or",
+    35.74
+   ],
+   [
+    "zooms",
+    35.9
+   ],
+   [
+    "past",
+    36.3
+   ]
+  ]
+ },
+ {
+  "s": 37.07,
+  "e": 39.3,
+  "text": "Then they dressed horses in striped coats.",
+  "words": [
+   [
+    "then",
+    37.07
+   ],
+   [
+    "they",
+    37.33
+   ],
+   [
+    "dressed",
+    37.58
+   ],
+   [
+    "horses",
+    38.03
+   ],
+   [
+    "in",
+    38.41
+   ],
+   [
+    "striped",
+    38.53
+   ],
+   [
+    "coats",
+    38.98
+   ]
+  ]
+ },
+ {
+  "s": 39.76,
+  "e": 41.42,
+  "text": "Flies kept missing the coats,",
+  "words": [
+   [
+    "flies",
+    39.76
+   ],
+   [
+    "kept",
+    40.1
+   ],
+   [
+    "missing",
+    40.38
+   ],
+   [
+    "the",
+    40.86
+   ],
+   [
+    "coats",
+    41.07
+   ]
+  ]
+ },
+ {
+  "s": 41.79,
+  "e": 43.72,
+  "text": "but still landed on their bare heads.",
+  "words": [
+   [
+    "but",
+    41.79
+   ],
+   [
+    "still",
+    41.98
+   ],
+   [
+    "landed",
+    42.3
+   ],
+   [
+    "on",
+    42.69
+   ],
+   [
+    "their",
+    42.82
+   ],
+   [
+    "bare",
+    43.14
+   ],
+   [
+    "heads",
+    43.4
+   ]
+  ]
+ },
+ {
+  "s": 44.13,
+  "e": 46.04,
+  "text": "Honestly, that's kind of genius.",
+  "words": [
+   [
+    "honestly",
+    44.13
+   ],
+   [
+    "thats",
+    44.74
+   ],
+   [
+    "kind",
+    45.12
+   ],
+   [
+    "of",
+    45.43
+   ],
+   [
+    "genius",
+    45.58
+   ]
+  ]
+ },
+ {
+  "s": 46.5,
+  "e": 50.31,
+  "text": "Camouflage? Keeping cool? The evidence for those is weaker.",
+  "words": [
+   [
+    "camouflage",
+    46.5
+   ],
+   [
+    "keeping",
+    47.3
+   ],
+   [
+    "cool",
+    47.85
+   ],
+   [
+    "the",
+    48.17
+   ],
+   [
+    "evidence",
+    48.41
+   ],
+   [
+    "for",
+    49.04
+   ],
+   [
+    "those",
+    49.28
+   ],
+   [
+    "is",
+    49.68
+   ],
+   [
+    "weaker",
+    49.84
+   ]
+  ]
+ },
+ {
+  "s": 50.79,
+  "e": 53.12,
+  "text": "So would you wear stripes to your next picnic?",
+  "words": [
+   [
+    "so",
+    50.79
+   ],
+   [
+    "would",
+    50.92
+   ],
+   [
+    "you",
+    51.23
+   ],
+   [
+    "wear",
+    51.42
+   ],
+   [
+    "stripes",
+    51.67
+   ],
+   [
+    "to",
+    52.11
+   ],
+   [
+    "your",
+    52.24
+   ],
+   [
+    "next",
+    52.49
+   ],
+   [
+    "picnic",
+    52.74
+   ]
+  ]
+ }
+]
