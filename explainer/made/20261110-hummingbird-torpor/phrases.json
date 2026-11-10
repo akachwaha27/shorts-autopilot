@@ -1,0 +1,726 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.57,
+  "text": "Hummingbirds almost shut down every night,",
+  "words": [
+   [
+    "hummingbirds",
+    0.25
+   ],
+   [
+    "almost",
+    1.02
+   ],
+   [
+    "shut",
+    1.41
+   ],
+   [
+    "down",
+    1.67
+   ],
+   [
+    "every",
+    1.93
+   ],
+   [
+    "night",
+    2.25
+   ]
+  ]
+ },
+ {
+  "s": 3.0,
+  "e": 4.08,
+  "text": "and you never notice.",
+  "words": [
+   [
+    "and",
+    3.0
+   ],
+   [
+    "you",
+    3.19
+   ],
+   [
+    "never",
+    3.38
+   ],
+   [
+    "notice",
+    3.7
+   ]
+  ]
+ },
+ {
+  "s": 4.49,
+  "e": 7.63,
+  "text": "Why would a heart drop from twelve hundred beats to fifty?",
+  "words": [
+   [
+    "why",
+    4.49
+   ],
+   [
+    "would",
+    4.69
+   ],
+   [
+    "a",
+    5.02
+   ],
+   [
+    "heart",
+    5.09
+   ],
+   [
+    "drop",
+    5.42
+   ],
+   [
+    "from",
+    5.69
+   ],
+   [
+    "twelve",
+    5.96
+   ],
+   [
+    "hundred",
+    6.36
+   ],
+   [
+    "beats",
+    6.83
+   ],
+   [
+    "to",
+    7.16
+   ],
+   [
+    "fifty",
+    7.3
+   ]
+  ]
+ },
+ {
+  "s": 8.11,
+  "e": 10.73,
+  "text": "Their tiny engine burns fuel so fast",
+  "words": [
+   [
+    "their",
+    8.11
+   ],
+   [
+    "tiny",
+    8.55
+   ],
+   [
+    "engine",
+    8.9
+   ],
+   [
+    "burns",
+    9.42
+   ],
+   [
+    "fuel",
+    9.86
+   ],
+   [
+    "so",
+    10.21
+   ],
+   [
+    "fast",
+    10.38
+   ]
+  ]
+ },
+ {
+  "s": 10.88,
+  "e": 13.67,
+  "text": "they can sip three times their weight in nectar a day.",
+  "words": [
+   [
+    "they",
+    10.88
+   ],
+   [
+    "can",
+    11.14
+   ],
+   [
+    "sip",
+    11.34
+   ],
+   [
+    "three",
+    11.53
+   ],
+   [
+    "times",
+    11.85
+   ],
+   [
+    "their",
+    12.18
+   ],
+   [
+    "weight",
+    12.5
+   ],
+   [
+    "in",
+    12.89
+   ],
+   [
+    "nectar",
+    13.02
+   ],
+   [
+    "a",
+    13.41
+   ],
+   [
+    "day",
+    13.47
+   ]
+  ]
+ },
+ {
+  "s": 14.15,
+  "e": 15.77,
+  "text": "But at night, there's no nectar.",
+  "words": [
+   [
+    "but",
+    14.15
+   ],
+   [
+    "at",
+    14.35
+   ],
+   [
+    "night",
+    14.48
+   ],
+   [
+    "theres",
+    14.82
+   ],
+   [
+    "no",
+    15.23
+   ],
+   [
+    "nectar",
+    15.37
+   ]
+  ]
+ },
+ {
+  "s": 16.14,
+  "e": 18.55,
+  "text": "A long night without food could starve them.",
+  "words": [
+   [
+    "a",
+    16.14
+   ],
+   [
+    "long",
+    16.2
+   ],
+   [
+    "night",
+    16.47
+   ],
+   [
+    "without",
+    16.81
+   ],
+   [
+    "food",
+    17.28
+   ],
+   [
+    "could",
+    17.54
+   ],
+   [
+    "starve",
+    17.88
+   ],
+   [
+    "them",
+    18.28
+   ]
+  ]
+ },
+ {
+  "s": 18.93,
+  "e": 20.47,
+  "text": "So they drop into torpor.",
+  "words": [
+   [
+    "so",
+    18.93
+   ],
+   [
+    "they",
+    19.08
+   ],
+   [
+    "drop",
+    19.39
+   ],
+   [
+    "into",
+    19.7
+   ],
+   [
+    "torpor",
+    20.01
+   ]
+  ]
+ },
+ {
+  "s": 20.89,
+  "e": 23.51,
+  "text": "Their body cools from a hundred and five degrees",
+  "words": [
+   [
+    "their",
+    20.89
+   ],
+   [
+    "body",
+    21.22
+   ],
+   [
+    "cools",
+    21.48
+   ],
+   [
+    "from",
+    21.81
+   ],
+   [
+    "a",
+    22.07
+   ],
+   [
+    "hundred",
+    22.14
+   ],
+   [
+    "and",
+    22.6
+   ],
+   [
+    "five",
+    22.79
+   ],
+   [
+    "degrees",
+    23.05
+   ]
+  ]
+ },
+ {
+  "s": 23.61,
+  "e": 24.71,
+  "text": "by almost fifty.",
+  "words": [
+   [
+    "by",
+    23.61
+   ],
+   [
+    "almost",
+    23.78
+   ],
+   [
+    "fifty",
+    24.29
+   ]
+  ]
+ },
+ {
+  "s": 25.12,
+  "e": 27.61,
+  "text": "Their heartbeat crashes to around fifty a minute.",
+  "words": [
+   [
+    "their",
+    25.12
+   ],
+   [
+    "heartbeat",
+    25.43
+   ],
+   [
+    "crashes",
+    25.97
+   ],
+   [
+    "to",
+    26.4
+   ],
+   [
+    "around",
+    26.52
+   ],
+   [
+    "fifty",
+    26.89
+   ],
+   [
+    "a",
+    27.19
+   ],
+   [
+    "minute",
+    27.25
+   ]
+  ]
+ },
+ {
+  "s": 28.01,
+  "e": 31.26,
+  "text": "Some even hang upside down, stiff as a statue.",
+  "words": [
+   [
+    "some",
+    28.01
+   ],
+   [
+    "even",
+    28.37
+   ],
+   [
+    "hang",
+    28.73
+   ],
+   [
+    "upside",
+    29.09
+   ],
+   [
+    "down",
+    29.63
+   ],
+   [
+    "stiff",
+    29.99
+   ],
+   [
+    "as",
+    30.45
+   ],
+   [
+    "a",
+    30.63
+   ],
+   [
+    "statue",
+    30.72
+   ]
+  ]
+ },
+ {
+  "s": 31.74,
+  "e": 35.39,
+  "text": "One Andes species chills to just thirty-eight degrees Fahrenheit,",
+  "words": [
+   [
+    "one",
+    31.74
+   ],
+   [
+    "andes",
+    31.94
+   ],
+   [
+    "species",
+    32.27
+   ],
+   [
+    "chills",
+    32.73
+   ],
+   [
+    "to",
+    33.13
+   ],
+   [
+    "just",
+    33.26
+   ],
+   [
+    "thirtyeight",
+    33.53
+   ],
+   [
+    "degrees",
+    34.26
+   ],
+   [
+    "fahrenheit",
+    34.72
+   ]
+  ]
+ },
+ {
+  "s": 35.93,
+  "e": 37.29,
+  "text": "barely above freezing.",
+  "words": [
+   [
+    "barely",
+    35.93
+   ],
+   [
+    "above",
+    36.36
+   ],
+   [
+    "freezing",
+    36.72
+   ]
+  ]
+ },
+ {
+  "s": 37.72,
+  "e": 41.47,
+  "text": "It slows their metabolism by up to ninety-five percent.",
+  "words": [
+   [
+    "it",
+    37.72
+   ],
+   [
+    "slows",
+    37.89
+   ],
+   [
+    "their",
+    38.3
+   ],
+   [
+    "metabolism",
+    38.72
+   ],
+   [
+    "by",
+    39.55
+   ],
+   [
+    "up",
+    39.72
+   ],
+   [
+    "to",
+    39.89
+   ],
+   [
+    "ninetyfive",
+    40.05
+   ],
+   [
+    "percent",
+    40.88
+   ]
+  ]
+ },
+ {
+  "s": 41.89,
+  "e": 44.57,
+  "text": "At sunrise, they shiver their flight muscles",
+  "words": [
+   [
+    "at",
+    41.89
+   ],
+   [
+    "sunrise",
+    42.03
+   ],
+   [
+    "they",
+    42.54
+   ],
+   [
+    "shiver",
+    42.83
+   ],
+   [
+    "their",
+    43.26
+   ],
+   [
+    "flight",
+    43.62
+   ],
+   [
+    "muscles",
+    44.06
+   ]
+  ]
+ },
+ {
+  "s": 44.88,
+  "e": 46.52,
+  "text": "and warm up for about an hour.",
+  "words": [
+   [
+    "and",
+    44.88
+   ],
+   [
+    "warm",
+    45.09
+   ],
+   [
+    "up",
+    45.38
+   ],
+   [
+    "for",
+    45.52
+   ],
+   [
+    "about",
+    45.73
+   ],
+   [
+    "an",
+    46.09
+   ],
+   [
+    "hour",
+    46.23
+   ]
+  ]
+ },
+ {
+  "s": 46.97,
+  "e": 48.5,
+  "text": "Then it's off to breakfast.",
+  "words": [
+   [
+    "then",
+    46.97
+   ],
+   [
+    "its",
+    47.26
+   ],
+   [
+    "off",
+    47.48
+   ],
+   [
+    "to",
+    47.7
+   ],
+   [
+    "breakfast",
+    47.84
+   ]
+  ]
+ },
+ {
+  "s": 48.91,
+  "e": 52.56,
+  "text": "So would you rather shut down every night like a hummingbird,",
+  "words": [
+   [
+    "so",
+    48.91
+   ],
+   [
+    "would",
+    49.06
+   ],
+   [
+    "you",
+    49.42
+   ],
+   [
+    "rather",
+    49.64
+   ],
+   [
+    "shut",
+    50.08
+   ],
+   [
+    "down",
+    50.37
+   ],
+   [
+    "every",
+    50.66
+   ],
+   [
+    "night",
+    51.03
+   ],
+   [
+    "like",
+    51.39
+   ],
+   [
+    "a",
+    51.68
+   ],
+   [
+    "hummingbird",
+    51.76
+   ]
+  ]
+ },
+ {
+  "s": 52.69,
+  "e": 54.84,
+  "text": "or eat three times your weight every day?",
+  "words": [
+   [
+    "or",
+    52.69
+   ],
+   [
+    "eat",
+    52.82
+   ],
+   [
+    "three",
+    53.02
+   ],
+   [
+    "times",
+    53.34
+   ],
+   [
+    "your",
+    53.67
+   ],
+   [
+    "weight",
+    53.93
+   ],
+   [
+    "every",
+    54.32
+   ],
+   [
+    "day",
+    54.64
+   ]
+  ]
+ }
+]
