@@ -957,5 +957,17 @@
   "words": 147,
   "sheet_id": "S070",
   "notes": "unattended run, no storyboard step; hook score 54, title score 94"
+ },
+ {
+  "date": "2026-11-10",
+  "id": "20261110-dog-head-tilt",
+  "kind": "short",
+  "style": "Whiteboard Explainer",
+  "topic": "Why do dogs tilt their heads when you talk?",
+  "title": "Why Does Your Dog Tilt Its Head? 🐶",
+  "seconds": 52.8,
+  "words": 133,
+  "sheet_id": "S071",
+  "notes": "no storyboard step (unattended run); Lemo whiteboard technique ported into story.js, EMS Tech OFL glyphs embedded"
  }
 ]

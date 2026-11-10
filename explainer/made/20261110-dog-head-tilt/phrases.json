@@ -1,0 +1,688 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.03,
+  "text": "Why does your dog tilt its head?",
+  "words": [
+   [
+    "why",
+    0.25
+   ],
+   [
+    "does",
+    0.46
+   ],
+   [
+    "your",
+    0.75
+   ],
+   [
+    "dog",
+    1.03
+   ],
+   [
+    "tilt",
+    1.25
+   ],
+   [
+    "its",
+    1.53
+   ],
+   [
+    "head",
+    1.74
+   ]
+  ]
+ },
+ {
+  "s": 2.53,
+  "e": 4.82,
+  "text": "Genius dogs do it twenty times more.",
+  "words": [
+   [
+    "genius",
+    2.53
+   ],
+   [
+    "dogs",
+    3.01
+   ],
+   [
+    "do",
+    3.32
+   ],
+   [
+    "it",
+    3.48
+   ],
+   [
+    "twenty",
+    3.64
+   ],
+   [
+    "times",
+    4.11
+   ],
+   [
+    "more",
+    4.5
+   ]
+  ]
+ },
+ {
+  "s": 5.24,
+  "e": 9.29,
+  "text": "In Budapest, scientists tested some genius border collies",
+  "words": [
+   [
+    "in",
+    5.24
+   ],
+   [
+    "budapest",
+    5.4
+   ],
+   [
+    "scientists",
+    6.06
+   ],
+   [
+    "tested",
+    6.89
+   ],
+   [
+    "some",
+    7.39
+   ],
+   [
+    "genius",
+    7.72
+   ],
+   [
+    "border",
+    8.21
+   ],
+   [
+    "collies",
+    8.71
+   ]
+  ]
+ },
+ {
+  "s": 9.42,
+  "e": 11.74,
+  "text": "that know the names of over ten toys.",
+  "words": [
+   [
+    "that",
+    9.42
+   ],
+   [
+    "know",
+    9.74
+   ],
+   [
+    "the",
+    10.06
+   ],
+   [
+    "names",
+    10.3
+   ],
+   [
+    "of",
+    10.7
+   ],
+   [
+    "over",
+    10.86
+   ],
+   [
+    "ten",
+    11.18
+   ],
+   [
+    "toys",
+    11.42
+   ]
+  ]
+ },
+ {
+  "s": 12.15,
+  "e": 13.79,
+  "text": "When their owner said a toy's name,",
+  "words": [
+   [
+    "when",
+    12.15
+   ],
+   [
+    "their",
+    12.39
+   ],
+   [
+    "owner",
+    12.69
+   ],
+   [
+    "said",
+    13.0
+   ],
+   [
+    "a",
+    13.24
+   ],
+   [
+    "toys",
+    13.3
+   ],
+   [
+    "name",
+    13.54
+   ]
+  ]
+ },
+ {
+  "s": 14.33,
+  "e": 16.5,
+  "text": "those genius dogs tilted their heads",
+  "words": [
+   [
+    "those",
+    14.33
+   ],
+   [
+    "genius",
+    14.68
+   ],
+   [
+    "dogs",
+    15.1
+   ],
+   [
+    "tilted",
+    15.38
+   ],
+   [
+    "their",
+    15.8
+   ],
+   [
+    "heads",
+    16.15
+   ]
+  ]
+ },
+ {
+  "s": 16.5,
+  "e": 18.45,
+  "text": "forty-three percent of the time.",
+  "words": [
+   [
+    "fortythree",
+    16.5
+   ],
+   [
+    "percent",
+    17.25
+   ],
+   [
+    "of",
+    17.77
+   ],
+   [
+    "the",
+    17.92
+   ],
+   [
+    "time",
+    18.15
+   ]
+  ]
+ },
+ {
+  "s": 18.88,
+  "e": 19.97,
+  "text": "Regular dogs?",
+  "words": [
+   [
+    "regular",
+    18.88
+   ],
+   [
+    "dogs",
+    19.58
+   ]
+  ]
+ },
+ {
+  "s": 20.42,
+  "e": 21.55,
+  "text": "Just two percent.",
+  "words": [
+   [
+    "just",
+    20.42
+   ],
+   [
+    "two",
+    20.74
+   ],
+   [
+    "percent",
+    20.98
+   ]
+  ]
+ },
+ {
+  "s": 21.81,
+  "e": 24.73,
+  "text": "So the tilt might be a dog matching your word",
+  "words": [
+   [
+    "so",
+    21.81
+   ],
+   [
+    "the",
+    21.97
+   ],
+   [
+    "tilt",
+    22.21
+   ],
+   [
+    "might",
+    22.54
+   ],
+   [
+    "be",
+    22.94
+   ],
+   [
+    "a",
+    23.11
+   ],
+   [
+    "dog",
+    23.19
+   ],
+   [
+    "matching",
+    23.43
+   ],
+   [
+    "your",
+    24.08
+   ],
+   [
+    "word",
+    24.4
+   ]
+  ]
+ },
+ {
+  "s": 24.82,
+  "e": 25.83,
+  "text": "to a picture in its head.",
+  "words": [
+   [
+    "to",
+    24.82
+   ],
+   [
+    "a",
+    24.93
+   ],
+   [
+    "picture",
+    24.98
+   ],
+   [
+    "in",
+    25.35
+   ],
+   [
+    "its",
+    25.46
+   ],
+   [
+    "head",
+    25.62
+   ]
+  ]
+ },
+ {
+  "s": 26.3,
+  "e": 27.74,
+  "text": "But there's another idea.",
+  "words": [
+   [
+    "but",
+    26.3
+   ],
+   [
+    "theres",
+    26.52
+   ],
+   [
+    "another",
+    26.95
+   ],
+   [
+    "idea",
+    27.45
+   ]
+  ]
+ },
+ {
+  "s": 28.11,
+  "e": 30.32,
+  "text": "A dog's snout blocks part of your face,",
+  "words": [
+   [
+    "a",
+    28.11
+   ],
+   [
+    "dogs",
+    28.18
+   ],
+   [
+    "snout",
+    28.48
+   ],
+   [
+    "blocks",
+    28.84
+   ],
+   [
+    "part",
+    29.29
+   ],
+   [
+    "of",
+    29.58
+   ],
+   [
+    "your",
+    29.73
+   ],
+   [
+    "face",
+    30.02
+   ]
+  ]
+ },
+ {
+  "s": 30.68,
+  "e": 31.9,
+  "text": "especially your mouth.",
+  "words": [
+   [
+    "especially",
+    30.68
+   ],
+   [
+    "your",
+    31.32
+   ],
+   [
+    "mouth",
+    31.58
+   ]
+  ]
+ },
+ {
+  "s": 32.27,
+  "e": 33.95,
+  "text": "Tilting gives it a clearer view.",
+  "words": [
+   [
+    "tilting",
+    32.27
+   ],
+   [
+    "gives",
+    32.72
+   ],
+   [
+    "it",
+    33.04
+   ],
+   [
+    "a",
+    33.17
+   ],
+   [
+    "clearer",
+    33.24
+   ],
+   [
+    "view",
+    33.69
+   ]
+  ]
+ },
+ {
+  "s": 34.34,
+  "e": 35.16,
+  "text": "In one survey,",
+  "words": [
+   [
+    "in",
+    34.34
+   ],
+   [
+    "one",
+    34.49
+   ],
+   [
+    "survey",
+    34.71
+   ]
+  ]
+ },
+ {
+  "s": 35.66,
+  "e": 39.14,
+  "text": "seventy-one percent of long-snouted dogs often tilted,",
+  "words": [
+   [
+    "seventyone",
+    35.66
+   ],
+   [
+    "percent",
+    36.44
+   ],
+   [
+    "of",
+    36.98
+   ],
+   [
+    "longsnouted",
+    37.13
+   ],
+   [
+    "dogs",
+    37.98
+   ],
+   [
+    "often",
+    38.29
+   ],
+   [
+    "tilted",
+    38.68
+   ]
+  ]
+ },
+ {
+  "s": 39.77,
+  "e": 43.07,
+  "text": "but only fifty-two percent of flat-faced dogs did.",
+  "words": [
+   [
+    "but",
+    39.77
+   ],
+   [
+    "only",
+    40.02
+   ],
+   [
+    "fiftytwo",
+    40.35
+   ],
+   [
+    "percent",
+    41.01
+   ],
+   [
+    "of",
+    41.59
+   ],
+   [
+    "flatfaced",
+    41.75
+   ],
+   [
+    "dogs",
+    42.49
+   ],
+   [
+    "did",
+    42.82
+   ]
+  ]
+ },
+ {
+  "s": 43.47,
+  "e": 44.69,
+  "text": "And here's the fun part:",
+  "words": [
+   [
+    "and",
+    43.47
+   ],
+   [
+    "heres",
+    43.68
+   ],
+   [
+    "the",
+    44.01
+   ],
+   [
+    "fun",
+    44.22
+   ],
+   [
+    "part",
+    44.42
+   ]
+  ]
+ },
+ {
+  "s": 45.25,
+  "e": 48.58,
+  "text": "each dog usually tilts to the same side, every time.",
+  "words": [
+   [
+    "each",
+    45.25
+   ],
+   [
+    "dog",
+    45.58
+   ],
+   [
+    "usually",
+    45.82
+   ],
+   [
+    "tilts",
+    46.39
+   ],
+   [
+    "to",
+    46.8
+   ],
+   [
+    "the",
+    46.96
+   ],
+   [
+    "same",
+    47.2
+   ],
+   [
+    "side",
+    47.53
+   ],
+   [
+    "every",
+    47.85
+   ],
+   [
+    "time",
+    48.26
+   ]
+  ]
+ },
+ {
+  "s": 48.98,
+  "e": 50.57,
+  "text": "So which way does your dog tilt,",
+  "words": [
+   [
+    "so",
+    48.98
+   ],
+   [
+    "which",
+    49.1
+   ],
+   [
+    "way",
+    49.42
+   ],
+   [
+    "does",
+    49.61
+   ],
+   [
+    "your",
+    49.87
+   ],
+   [
+    "dog",
+    50.12
+   ],
+   [
+    "tilt",
+    50.31
+   ]
+  ]
+ },
+ {
+  "s": 50.9,
+  "e": 51.79,
+  "text": "left or right?",
+  "words": [
+   [
+    "left",
+    50.9
+   ],
+   [
+    "or",
+    51.22
+   ],
+   [
+    "right",
+    51.38
+   ]
+  ]
+ }
+]
