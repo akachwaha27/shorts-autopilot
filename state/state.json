@@ -378,267 +378,6 @@
     }
   },
   "videos": {
-    "2026-11-04-102": {
-      "topic": {
-        "title": "Why does cilantro taste like soap to some people?",
-        "format": "long",
-        "angle": "Chalkboard Lesson"
-      },
-      "package": {
-        "title": "Why Does Cilantro Taste Like Soap to 1 in 8 People?",
-        "description": "Why does cilantro taste like soap to some people and fresh to others? See how aldehydes, the OR6A2 smell gene, a surprisingly tiny genetic effect and what you grew up eating all shape the soapy cilantro taste, plus the crushing trick that can soften it.\n\nSources:\nhttps://arxiv.org/abs/1209.2096\nhttps://www.nbcnews.com/health/body-odd/who-hates-cilantro-study-aims-find-out-flna775011\nhttps://www.wgbh.org/news/2012-09-18/love-to-hate-cilantro-its-in-your-genes-and-maybe-in-your-head\n\nAnimated in the Chalkboard Lesson style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#cilantro",
-          "#science",
-          "#food"
-        ],
-        "tags": [
-          "why does cilantro taste like soap",
-          "cilantro soap gene",
-          "cilantro tastes like soap",
-          "OR6A2",
-          "aldehydes",
-          "coriander soapy taste",
-          "why do people hate cilantro",
-          "food science",
-          "smell and taste",
-          "genetics of taste",
-          "cilantro pesto trick",
-          "retronasal smell",
-          "food facts",
-          "science explained"
-        ],
-        "category": "27",
-        "pinned_comment": "Team fresh or team soap: what does cilantro taste like to you?",
-        "thumbnail_text": "IT'S YOUR NOSE",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "Your cilantro tastes like soap, to one in eight people, and you might be one. Same leaf, same taco. You get something fresh and lemony. Your friend gets a mouthful of dish soap. So who's right? Weirdly, you both are. And the answer starts in your nose. People have used this herb for thousands of years, all the way back to the Babylonians. And the haters have been loud. Before soap was the go-to insult, people said it smelled like bedbugs. Chef Julia Child once said, she'd pick it out of her food, and throw it on the floor. So how many people really dislike it? One Canadian study asked nearly fourteen hundred young adults. Dislike ran from just three percent, all the way up to twenty-one percent, depending on family background. And some of the lowest numbers came from people with Hispanic and South Asian roots, whose cooking uses cilantro all the time. Now, let's zoom in on one leaf. That smell is a big mix of chemicals, and some of the main ones are called aldehydes. Picture a long chain of carbon atoms, with one little oxygen on the end. One of them, called decenal, gets described as soapy, fatty and pungent. Here's the twist. Soap makers use aldehydes too. Cilantro and soap really do share a family of smells. Scientists still aren't sure which exact molecule is to blame. So why does only your friend notice? Scientists suspect this is mostly about smell, not taste. When you chew, scents float up the back of your throat, and into your nose. Up there, you've got hundreds of kinds of smell sensors. Think of them as tiny locks, and every scent molecule as a key. In twenty twelve, researchers at twenty-three and me, looked at the DNA of about twenty-five thousand people. They asked one question. Does cilantro taste like soap to you? And they found one tiny spot in the DNA, right next to a cluster of smell genes. One of those genes is called O R six A two, and it builds a lock that's great at catching aldehydes. Some people's noses may pick up that soapy note, a lot more loudly. Case closed, right? Not quite. Here's the number nobody expects. That spot explains only about half a percent of who tastes soap and who doesn't. Half of one percent! Another twin study turned up more genes, including some linked to bitter taste. So there's no single soap gene. It's a small nudge, mixed with everything else about you. Like what you ate growing up. Remember those low numbers? If cilantro was in your food from day one, you've had a lot of practice. The lead researcher said this isn't like your height. You aren't stuck with it. Scientists say eating it again and again, can slowly soften the soap. And there's a kitchen trick. Crush the leaves. Crushing releases enzymes, that break those soapy aldehydes into milder smells. That's why food scientists suggest starting with cilantro pesto. So next time your friend picks it out of the salsa, go easy on them. They aren't being picky. Their nose is finding something real, that yours might be missing. Next up, how do dolphins sleep without drowning?",
-        "key_facts": [
-          "23andMe GWAS (Eriksson et al. 2012, arXiv 1209.2096): 14,604 discovery + 11,851 replication participants; 12.4% of all respondents in Table 3 reported soapy taste (2299/18495), about 1 in 8",
-          "SNP rs72921001 lies near a cluster of eight olfactory receptor genes including OR6A2, which has high binding specificity for aldehydes; (E)-2-decenal described as soapy, fatty, pungent (same paper)",
-          "The SNP explains only about 0.5% of the variance in perceiving soapy taste; the paper says dislike is suspected, not proven, to be odor driven",
-          "Mauer & El-Sohemy 2012 (Flavour), via NBC: nearly 1,400 Canadian young adults; dislike 3% (Middle Eastern) to 21% (East Asian), Hispanic 4%, South Asian 7%; early exposure likely helps",
-          "Twin study (Knaapila et al., 527 twins) found more genes including two tied to bitter taste; lead author Eriksson: 'It isn't like your height'; McGee: crushing releases enzymes that convert the aldehydes to milder aromas; cilantro pesto suggestion (WGBH/NPR)",
-          "Julia Child on Larry King (2002, via Tasting Table): she'd pick it out and throw it on the floor. Described as smelling of bedbugs before 'soapy' (Charles Spence, Live Science). Babylonian use (Gastropod)"
-        ],
-        "voice": "Kokoro",
-        "format": "long",
-        "style": "Chalkboard Lesson"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261104-cilantro-soap",
-      "redos": 0,
-      "updated": "2026-11-04T20:50:17.866815+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Chalkboard Lesson style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-04",
-        "name": "2026-11-04-102.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-04",
-        "name": "2026-11-04-102-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:02,080\nYour cilantro tastes like soap,\n\n2\n00:00:02,380 --> 00:00:03,820\nto one in eight people,\n\n3\n00:00:04,120 --> 00:00:05,250\nand you might be one.\n\n4\n00:00:05,800 --> 00:00:07,340\nSame leaf, same taco.\n\n5\n00:00:07,890 --> 00:00:09,720\nYou get something fresh and lemony.\n\n6\n00:00:10,270 --> 00:00:12,560\nYour friend gets a mouthful of dish soap.\n\n7\n00:00:13,110 --> 00:00:14,180\nSo who's right?\n\n8\n00:00:14,730 --> 00:00:16,090\nWeirdly, you both are.\n\n9\n00:00:16,640 --> 00:00:18,460\nAnd the answer starts in your nose.\n\n10\n00:00:19,010 --> 00:00:21,740\nPeople have used this herb for thousands of years,\n\n11\n00:00:22,040 --> 00:00:24,050\nall the way back to the Babylonians.\n\n12\n00:00:24,600 --> 00:00:26,170\nAnd the haters have been loud.\n\n13\n00:00:26,720 --> 00:00:28,680\nBefore soap was the go-to insult,\n\n14\n00:00:28,980 --> 00:00:31,080\npeople said it smelled like bedbugs.\n\n15\n00:00:31,630 --> 00:00:33,350\nChef Julia Child once said,\n\n16\n00:00:33,650 --> 00:00:35,200\nshe'd pick it out of her food,\n\n17\n00:00:35,500 --> 00:00:36,950\nand throw it on the floor.\n\n18\n00:00:37,500 --> 00:00:39,530\nSo how many people really dislike it?\n\n19\n00:00:40,080 --> 00:00:44,090\nOne Canadian study asked nearly fourteen hundred young adults.\n\n20\n00:00:44,640 --> 00:00:46,680\nDislike ran from just three percent,\n\n21\n00:00:46,980 --> 00:00:49,040\nall the way up to twenty-one percent,\n\n22\n00:00:49,340 --> 00:00:51,200\ndepending on family background.\n\n23\n00:00:51,750 --> 00:00:53,390\nAnd some of the lowest numbers\n\n24\n00:00:53,690 --> 00:00:56,720\ncame from people with Hispanic and South Asian roots,\n\n25\n00:00:57,020 --> 00:00:59,410\nwhose cooking uses cilantro all the time.\n\n26\n00:00:59,960 --> 00:01:01,880\nNow, let's zoom in on one leaf.\n\n27\n00:01:02,430 --> 00:01:04,630\nThat smell is a big mix of chemicals,\n\n28\n00:01:04,930 --> 00:01:07,440\nand some of the main ones are called aldehydes.\n\n29\n00:01:07,990 --> 00:01:10,230\nPicture a long chain of carbon atoms,\n\n30\n00:01:10,530 --> 00:01:12,700\nwith one little oxygen on the end.\n\n31\n00:01:13,250 --> 00:01:14,840\nOne of them, called decenal,\n\n32\n00:01:15,140 --> 00:01:17,940\ngets described as soapy, fatty and pungent.\n\n33\n00:01:18,490 --> 00:01:19,550\nHere's the twist.\n\n34\n00:01:20,100 --> 00:01:22,130\nSoap makers use aldehydes too.\n\n35\n00:01:22,680 --> 00:01:26,120\nCilantro and soap really do share a family of smells.\n\n36\n00:01:26,670 --> 00:01:30,410\nScientists still aren't sure which exact molecule is to blame.\n\n37\n00:01:30,960 --> 00:01:33,180\nSo why does only your friend notice?\n\n38\n00:01:33,730 --> 00:01:37,360\nScientists suspect this is mostly about smell, not taste.\n\n39\n00:01:37,910 --> 00:01:40,610\nWhen you chew, scents float up the back of your throat,\n\n40\n00:01:40,910 --> 00:01:42,140\nand into your nose.\n\n41\n00:01:42,690 --> 00:01:45,690\nUp there, you've got hundreds of kinds of smell sensors.\n\n42\n00:01:46,240 --> 00:01:47,960\nThink of them as tiny locks,\n\n43\n00:01:48,260 --> 00:01:50,360\nand every scent molecule as a key.\n\n44\n00:01:50,910 --> 00:01:54,100\nIn twenty twelve, researchers at twenty-three and me,\n\n45\n00:01:54,400 --> 00:01:57,780\nlooked at the DNA of about twenty-five thousand people.\n\n46\n00:01:58,330 --> 00:01:59,750\nThey asked one question.\n\n47\n00:02:00,300 --> 00:02:02,470\nDoes cilantro taste like soap to you?\n\n48\n00:02:03,020 --> 00:02:05,520\nAnd they found one tiny spot in the DNA,\n\n49\n00:02:05,820 --> 00:02:08,110\nright next to a cluster of smell genes.\n\n50\n00:02:08,660 --> 00:02:11,330\nOne of those genes is called O R six A two,\n\n51\n00:02:11,630 --> 00:02:14,750\nand it builds a lock that's great at catching aldehydes.\n\n52\n00:02:15,300 --> 00:02:18,340\nSome people's noses may pick up that soapy note,\n\n53\n00:02:18,640 --> 00:02:19,890\na lot more loudly.\n\n54\n00:02:20,440 --> 00:02:21,530\nCase closed, right?\n\n55\n00:02:22,080 --> 00:02:22,940\nNot quite.\n\n56\n00:02:23,490 --> 00:02:25,430\nHere's the number nobody expects.\n\n57\n00:02:25,980 --> 00:02:28,420\nThat spot explains only about half a percent\n\n58\n00:02:28,720 --> 00:02:30,580\nof who tastes soap and who doesn't.\n\n59\n00:02:31,130 --> 00:02:32,360\nHalf of one percent!\n\n60\n00:02:32,910 --> 00:02:35,290\nAnother twin study turned up more genes,\n\n61\n00:02:35,590 --> 00:02:37,620\nincluding some linked to bitter taste.\n\n62\n00:02:38,170 --> 00:02:39,960\nSo there's no single soap gene.\n\n63\n00:02:40,510 --> 00:02:43,900\nIt's a small nudge, mixed with everything else about you.\n\n64\n00:02:44,450 --> 00:02:46,090\nLike what you ate growing up.\n\n65\n00:02:46,640 --> 00:02:48,270\nRemember those low numbers?\n\n66\n00:02:48,820 --> 00:02:51,420\nIf cilantro was in your food from day one,\n\n67\n00:02:51,720 --> 00:02:53,200\nyou've had a lot of practice.\n\n68\n00:02:53,750 --> 00:02:56,480\nThe lead researcher said this isn't like your height.\n\n69\n00:02:57,030 --> 00:02:58,060\nYou aren't stuck with it.\n\n70\n00:02:58,610 --> 00:03:00,900\nScientists say eating it again and again,\n\n71\n00:03:01,200 --> 00:03:02,880\ncan slowly soften the soap.\n\n72\n00:03:03,430 --> 00:03:04,730\nAnd there's a kitchen trick.\n\n73\n00:03:05,280 --> 00:03:06,330\nCrush the leaves.\n\n74\n00:03:06,880 --> 00:03:08,620\nCrushing releases enzymes,\n\n75\n00:03:08,920 --> 00:03:12,140\nthat break those soapy aldehydes into milder smells.\n\n76\n00:03:12,690 --> 00:03:16,520\nThat's why food scientists suggest starting with cilantro pesto.\n\n77\n00:03:17,070 --> 00:03:19,630\nSo next time your friend picks it out of the salsa,\n\n78\n00:03:19,930 --> 00:03:21,160\ngo easy on them.\n\n79\n00:03:21,710 --> 00:03:22,950\nThey aren't being picky.\n\n80\n00:03:23,500 --> 00:03:25,590\nTheir nose is finding something real,\n\n81\n00:03:25,890 --> 00:03:27,420\nthat yours might be missing.\n\n82\n00:03:27,970 --> 00:03:30,770\nNext up, how do dolphins sleep without drowning?\n\n",
-      "tg_msg": 1017,
-      "approved_by": "auto",
-      "description_full": "Why does cilantro taste like soap to some people and fresh to others? See how aldehydes, the OR6A2 smell gene, a surprisingly tiny genetic effect and what you grew up eating all shape the soapy cilantro taste, plus the crushing trick that can soften it.\n\nSources:\nhttps://arxiv.org/abs/1209.2096\nhttps://www.nbcnews.com/health/body-odd/who-hates-cilantro-study-aims-find-out-flna775011\nhttps://www.wgbh.org/news/2012-09-18/love-to-hate-cilantro-its-in-your-genes-and-maybe-in-your-head\n\nAnimated in the Chalkboard Lesson style.\n\nFollow Zorbly AI for a new Short every day.\n\n#cilantro #science #food\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Chalkboard Lesson style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/ZUTtNulXd0c",
-          "private \u00b7 thumbnail \u2705"
-        ]
-      },
-      "uploaded_at": "2026-11-04T20:50:17.866835+00:00",
-      "slot": "2026-11-09T17:15:00+00:00"
-    },
-    "2026-11-04-103": {
-      "topic": {
-        "title": "Why do you get hiccups?",
-        "format": "animated",
-        "angle": "Ukiyo-e Woodblock"
-      },
-      "package": {
-        "title": "Why Does Your Throat Slam Shut 35 ms Into a Hiccup?",
-        "description": "Why do you get hiccups? Your diaphragm jerks down, air rushes in, and about 35 milliseconds later your vocal cords snap shut to make the hic.\n\nSources:\nhttps://www.news-medical.net/health/What-Causes-Hiccups.aspx\n\nAnimated in the Ukiyo-e Woodblock style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#hiccups",
-          "#humanbody",
-          "#science"
-        ],
-        "tags": [
-          "hiccups",
-          "why do we get hiccups",
-          "what causes hiccups",
-          "diaphragm",
-          "vocal cords",
-          "human body",
-          "body facts",
-          "science explained",
-          "how the body works",
-          "hiccup reflex",
-          "babies hiccup",
-          "ukiyo-e animation",
-          "zorbly ai"
-        ],
-        "category": "27",
-        "pinned_comment": "What's your go-to trick for stopping hiccups?",
-        "thumbnail_text": "THE HIC",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "Your throat slams shut thirty-five milliseconds into every hiccup.\nIt starts down here, in your diaphragm,\nthe big muscle under your lungs.\nNormally, it moves smoothly,\npulling in air every time you breathe.\nBut eat too fast, or gulp a fizzy drink,\nand your stomach swells right below it.\nThen a hiccup center in your brainstem fires,\nand the diaphragm jerks down, all at once.\nAir rushes in,\nbut only for a split second.\nYour vocal cords snap shut,\nand the air smacks right into them.\nThat's the hic!\nBabies even do it before they're born.\nAnd scientists still aren't sure why.\nOne idea is it helps clear air from the stomach.\nAnother says it's just a leftover reflex.\nSo the next time your throat slams shut,\nwhat's your go-to trick for stopping it?",
-        "key_facts": [
-          "A hiccup is an involuntary reflex controlled from the medulla in the brainstem",
-          "The glottis closes about 35 milliseconds after the respiratory muscles activate, which makes the sound",
-          "Triggers include eating too fast and carbonated drinks, which swell the stomach",
-          "Fetuses hiccup in the womb",
-          "The purpose is unsettled: ideas include clearing stomach air and a vestigial reflex"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Ukiyo-e Woodblock"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261104-why-hiccups",
-      "redos": 0,
-      "updated": "2026-11-04T20:50:21.996987+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Ukiyo-e Woodblock style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-04",
-        "name": "2026-11-04-103.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-04",
-        "name": "2026-11-04-103-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:04,150\nYour throat slams shut thirty-five milliseconds into every hiccup.\n\n2\n00:00:04,700 --> 00:00:06,900\nIt starts down here, in your diaphragm,\n\n3\n00:00:07,200 --> 00:00:09,070\nthe big muscle under your lungs.\n\n4\n00:00:09,620 --> 00:00:11,320\nNormally, it moves smoothly,\n\n5\n00:00:11,620 --> 00:00:13,830\npulling in air every time you breathe.\n\n6\n00:00:14,380 --> 00:00:16,940\nBut eat too fast, or gulp a fizzy drink,\n\n7\n00:00:17,240 --> 00:00:19,200\nand your stomach swells right below it.\n\n8\n00:00:19,750 --> 00:00:22,330\nThen a hiccup center in your brainstem fires,\n\n9\n00:00:22,630 --> 00:00:25,130\nand the diaphragm jerks down, all at once.\n\n10\n00:00:25,680 --> 00:00:26,690\nAir rushes in,\n\n11\n00:00:26,990 --> 00:00:28,580\nbut only for a split second.\n\n12\n00:00:29,130 --> 00:00:30,750\nYour vocal cords snap shut,\n\n13\n00:00:31,050 --> 00:00:32,820\nand the air smacks right into them.\n\n14\n00:00:33,370 --> 00:00:34,280\nThat's the hic!\n\n15\n00:00:34,830 --> 00:00:37,130\nBabies even do it before they're born.\n\n16\n00:00:37,680 --> 00:00:39,640\nAnd scientists still aren't sure why.\n\n17\n00:00:40,190 --> 00:00:43,090\nOne idea is it helps clear air from the stomach.\n\n18\n00:00:43,640 --> 00:00:46,360\nAnother says it's just a leftover reflex.\n\n19\n00:00:46,910 --> 00:00:48,960\nSo the next time your throat slams shut,\n\n20\n00:00:49,260 --> 00:00:51,100\nwhat's your go-to trick for stopping it?\n\n",
-      "tg_msg": 1018,
-      "approved_by": "auto",
-      "description_full": "Why do you get hiccups? Your diaphragm jerks down, air rushes in, and about 35 milliseconds later your vocal cords snap shut to make the hic.\n\nSources:\nhttps://www.news-medical.net/health/What-Causes-Hiccups.aspx\n\nAnimated in the Ukiyo-e Woodblock style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #hiccups #humanbody #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Ukiyo-e Woodblock style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/WXnKP7hWaxY",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-11-04T20:50:21.997004+00:00",
-      "slot": "2026-11-09T20:15:00+00:00"
-    },
-    "2026-11-04-104": {
-      "topic": {
-        "title": "Why do you blink thousands of times a day?",
-        "format": "animated",
-        "angle": "Kawaii Anime"
-      },
-      "package": {
-        "title": "Why Do You Go Blind 15,000 Times a Day? \ud83d\udc41\ufe0f",
-        "description": "Why do we blink, and why doesn't the world go dark when we do? Each blink spreads a fresh tear film over your eye, while your brain quiets its visual system so you never see the blackout.\n\nSources:\nhttps://www.ucl.ac.uk/news/2005/jul/blink-and-you-miss-it\nhttps://elifesciences.org/articles/17243\nhttps://www.earth.com/news/how-eyelids-coordinate-every-blink-humans-make-fifteen-thousand-times-per-day\n\nAnimated in the Kawaii Anime style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#science",
-          "#humanbody",
-          "#didyouknow"
-        ],
-        "tags": [
-          "why do we blink",
-          "blinking",
-          "how many times do you blink a day",
-          "tear film",
-          "human body facts",
-          "eye facts",
-          "brain facts",
-          "why don't we notice blinking",
-          "science explained",
-          "animated explainer",
-          "cornea",
-          "zorbly ai"
-        ],
-        "category": "27",
-        "pinned_comment": "How many seconds can you go without blinking? Tell me your record!",
-        "thumbnail_text": "BRAIN HIDES IT",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "You go blind fifteen thousand times every day. Why can't you tell? It's called blinking. Each blink lasts about a tenth of a second. The clear front of your eye has no blood vessels, so it relies on a film of tears instead. That film has three parts: mucus, water, and oil. Every blink wipes on a fresh coat, like a tiny windshield wiper, and sweeps dust toward your eye's drain. So why doesn't the world go black? Scientists scanned people's brains during blinks, and found parts of the visual system go quiet, right as your eyelid comes down. Your brain deletes the blackout, before you can ever see it. Altogether, your eyes are shut for about half an hour every day. So how many seconds can you go without blinking? Tell me your record.",
-        "key_facts": [
-          "About 15 blinks a minute, commonly cited as around 15,000 a day",
-          "A blink lasts about 100-150 ms",
-          "Tear film spreads with each blink: mucus, water, oil; cornea has no direct blood supply",
-          "Brain activity in visual areas is suppressed during blinks (Bristow 2005; Golan 2016)",
-          "Roughly half an hour a day of eyes shut, by commonly cited estimates"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Kawaii Anime"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261104-why-we-blink",
-      "redos": 0,
-      "updated": "2026-11-04T20:50:25.491233+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-04",
-        "name": "2026-11-04-104.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-04",
-        "name": "2026-11-04-104-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:03,150\nYou go blind fifteen thousand times every day.\n\n2\n00:00:03,700 --> 00:00:04,840\nWhy can't you tell?\n\n3\n00:00:05,390 --> 00:00:06,560\nIt's called blinking.\n\n4\n00:00:07,110 --> 00:00:09,540\nEach blink lasts about a tenth of a second.\n\n5\n00:00:10,090 --> 00:00:13,010\nThe clear front of your eye has no blood vessels,\n\n6\n00:00:13,310 --> 00:00:15,690\nso it relies on a film of tears instead.\n\n7\n00:00:16,240 --> 00:00:17,730\nThat film has three parts:\n\n8\n00:00:18,030 --> 00:00:19,460\nmucus, water, and oil.\n\n9\n00:00:20,010 --> 00:00:21,840\nEvery blink wipes on a fresh coat,\n\n10\n00:00:22,140 --> 00:00:23,930\nlike a tiny windshield wiper,\n\n11\n00:00:24,230 --> 00:00:26,360\nand sweeps dust toward your eye's drain.\n\n12\n00:00:26,910 --> 00:00:28,940\nSo why doesn't the world go black?\n\n13\n00:00:29,490 --> 00:00:32,230\nScientists scanned people's brains during blinks,\n\n14\n00:00:32,530 --> 00:00:35,320\nand found parts of the visual system go quiet,\n\n15\n00:00:35,620 --> 00:00:37,480\nright as your eyelid comes down.\n\n16\n00:00:38,030 --> 00:00:39,760\nYour brain deletes the blackout,\n\n17\n00:00:40,060 --> 00:00:41,520\nbefore you can ever see it.\n\n18\n00:00:42,070 --> 00:00:45,790\nAltogether, your eyes are shut for about half an hour every day.\n\n19\n00:00:46,340 --> 00:00:48,820\nSo how many seconds can you go without blinking?\n\n20\n00:00:49,370 --> 00:00:50,470\nTell me your record.\n\n",
-      "tg_msg": 1019,
-      "approved_by": "auto",
-      "description_full": "Why do we blink, and why doesn't the world go dark when we do? Each blink spreads a fresh tear film over your eye, while your brain quiets its visual system so you never see the blackout.\n\nSources:\nhttps://www.ucl.ac.uk/news/2005/jul/blink-and-you-miss-it\nhttps://elifesciences.org/articles/17243\nhttps://www.earth.com/news/how-eyelids-coordinate-every-blink-humans-make-fifteen-thousand-times-per-day\n\nAnimated in the Kawaii Anime style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #science #humanbody #didyouknow\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/o-5l4LEO-jM",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-11-04T20:50:25.491250+00:00",
-      "slot": "2026-11-10T00:15:00+00:00"
-    },
     "2026-11-04-105": {
       "topic": {
         "title": "Why don't anteaters have teeth?",
@@ -3097,12 +2836,12 @@
         "format": "animated",
         "style": "Brick Toy"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261110-hummingbird-torpor",
       "redos": 0,
-      "updated": "2026-11-10T16:36:39.643346+00:00",
+      "updated": "2026-11-10T20:50:18.597086+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Brick Toy style). Voice: Kokoro text-to-speech."
       ],
@@ -3117,7 +2856,29 @@
         "name": "2026-11-10-102-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:02,570\nHummingbirds almost shut down every night,\n\n2\n00:00:03,000 --> 00:00:04,080\nand you never notice.\n\n3\n00:00:04,490 --> 00:00:07,630\nWhy would a heart drop from twelve hundred beats to fifty?\n\n4\n00:00:08,110 --> 00:00:10,730\nTheir tiny engine burns fuel so fast\n\n5\n00:00:10,880 --> 00:00:13,670\nthey can sip three times their weight in nectar a day.\n\n6\n00:00:14,150 --> 00:00:15,770\nBut at night, there's no nectar.\n\n7\n00:00:16,140 --> 00:00:18,550\nA long night without food could starve them.\n\n8\n00:00:18,930 --> 00:00:20,470\nSo they drop into torpor.\n\n9\n00:00:20,890 --> 00:00:23,510\nTheir body cools from a hundred and five degrees\n\n10\n00:00:23,610 --> 00:00:24,710\nby almost fifty.\n\n11\n00:00:25,120 --> 00:00:27,610\nTheir heartbeat crashes to around fifty a minute.\n\n12\n00:00:28,010 --> 00:00:31,260\nSome even hang upside down, stiff as a statue.\n\n13\n00:00:31,740 --> 00:00:35,390\nOne Andes species chills to just thirty-eight degrees Fahrenheit,\n\n14\n00:00:35,930 --> 00:00:37,290\nbarely above freezing.\n\n15\n00:00:37,720 --> 00:00:41,470\nIt slows their metabolism by up to ninety-five percent.\n\n16\n00:00:41,890 --> 00:00:44,570\nAt sunrise, they shiver their flight muscles\n\n17\n00:00:44,880 --> 00:00:46,520\nand warm up for about an hour.\n\n18\n00:00:46,970 --> 00:00:48,500\nThen it's off to breakfast.\n\n19\n00:00:48,910 --> 00:00:52,560\nSo would you rather shut down every night like a hummingbird,\n\n20\n00:00:52,690 --> 00:00:54,840\nor eat three times your weight every day?\n\n",
-      "tg_msg": 1079
+      "tg_msg": 1079,
+      "approved_by": "auto",
+      "description_full": "How do hummingbirds survive the night without food? Their hearts can hit 1,200 beats a minute, so at night they drop into torpor, cooling their bodies and slowing their heartbeat to around 50 beats a minute until sunrise.\n\nSources:\nhttps://journeynorth.org/resources/how-do-hummingbirds-survive-cold-temperatures\nhttps://www.smithsonianmag.com/smart-news/hummingbirds-andes-go-chilly-extremes-good-nights-sleep-180975767/\nhttps://www.birdsandblooms.com/birding/attracting-hummingbirds/hummingbird-heart-rate/\n\nAnimated in the Brick Toy style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #hummingbird #animalfacts #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Brick Toy style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/_fbwwRB2ywc",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-10T20:50:18.597103+00:00",
+      "slot": "2026-11-17T00:15:00+00:00"
     },
     "2026-11-10-103": {
       "topic": {
@@ -3171,12 +2932,12 @@
         "format": "long",
         "style": "Claymation Set"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261110-porcupine-quills",
       "redos": 0,
-      "updated": "2026-11-10T16:36:50.725194+00:00",
+      "updated": "2026-11-10T20:50:24.331383+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Claymation Set style). Voice: Kokoro text-to-speech."
       ],
@@ -3191,7 +2952,17 @@
         "name": "2026-11-10-103-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:03,620\nA porcupine carries 30,000 tiny harpoons.\n\n2\n00:00:04,000 --> 00:00:06,080\nSo what happens when one sticks into you?\n\n3\n00:00:06,600 --> 00:00:08,200\nAnd why won't it come back out?\n\n4\n00:00:08,690 --> 00:00:12,170\nLet's take a really close look at the pointiest coat in nature.\n\n5\n00:00:12,580 --> 00:00:14,590\nFirst, let's bust the biggest myth.\n\n6\n00:00:15,010 --> 00:00:17,040\nPorcupines can't shoot their quills.\n\n7\n00:00:17,390 --> 00:00:18,490\nNot even a little.\n\n8\n00:00:18,770 --> 00:00:21,180\nPeople have believed it since ancient Greece,\n\n9\n00:00:21,550 --> 00:00:22,840\nbut it just isn't true.\n\n10\n00:00:23,220 --> 00:00:27,060\nA North American porcupine wears about 30,000 quills\n\n11\n00:00:27,130 --> 00:00:29,160\non its back, sides and tail.\n\n12\n00:00:29,530 --> 00:00:32,040\nEach one is a stiff, hollow hair,\n\n13\n00:00:32,100 --> 00:00:35,130\nmade of keratin, the same stuff as your fingernails.\n\n14\n00:00:35,490 --> 00:00:37,020\nThey're up to four inches long,\n\n15\n00:00:37,420 --> 00:00:39,810\nand they're only loosely attached to the skin.\n\n16\n00:00:40,270 --> 00:00:42,360\nSo the porcupine doesn't throw anything.\n\n17\n00:00:42,710 --> 00:00:44,100\nAn attacker bumps into it,\n\n18\n00:00:44,410 --> 00:00:45,820\nthe quills grab hold,\n\n19\n00:00:46,210 --> 00:00:48,200\nand they pull straight out of the porcupine.\n\n20\n00:00:48,650 --> 00:00:51,750\nNow let's zoom in on the very tip of one quill.\n\n21\n00:00:52,230 --> 00:00:55,950\nUnder a microscope, it's covered in hundreds of tiny barbs,\n\n22\n00:00:56,360 --> 00:01:00,140\nall pointing backwards, like the scales on a pine cone.\n\n23\n00:01:00,590 --> 00:01:04,880\nIn 2012, scientists pushed quills into meat in the lab.\n\n24\n00:01:05,220 --> 00:01:07,200\nThe barbs did something surprising.\n\n25\n00:01:07,670 --> 00:01:10,750\nThey cut the force needed to go in by about half.\n\n26\n00:01:11,220 --> 00:01:13,880\nThe tiny barbs grip the tissue and slice it,\n\n27\n00:01:14,360 --> 00:01:16,570\na bit like the teeth on a bread knife.\n\n28\n00:01:16,990 --> 00:01:19,220\nSo the quill slides in deep and easy.\n\n29\n00:01:19,680 --> 00:01:21,250\nThen they tried pulling them out.\n\n30\n00:01:21,680 --> 00:01:23,770\nNow the barbs flare open and snag,\n\n31\n00:01:24,340 --> 00:01:26,480\nand it took about four times more force\n\n32\n00:01:26,540 --> 00:01:27,590\nthan a smooth quill.\n\n33\n00:01:27,980 --> 00:01:30,040\nIn, easy. Out, really hard.\n\n34\n00:01:30,520 --> 00:01:31,720\nJust like a fishhook.\n\n35\n00:01:32,020 --> 00:01:33,830\nLess than half a centimeter in,\n\n36\n00:01:34,210 --> 00:01:35,600\nand it's already holding on.\n\n37\n00:01:36,080 --> 00:01:37,570\nAnd here's the sneaky part.\n\n38\n00:01:37,970 --> 00:01:40,110\nA quill that's stuck doesn't just sit there.\n\n39\n00:01:40,460 --> 00:01:42,230\nEvery time the animal moves,\n\n40\n00:01:42,660 --> 00:01:45,130\nits own muscles squeeze around the barbs,\n\n41\n00:01:45,550 --> 00:01:47,890\nand each one can only ratchet one way.\n\n42\n00:01:48,260 --> 00:01:49,040\nForward.\n\n43\n00:01:49,420 --> 00:01:52,060\nSo a stuck quill slowly works its way deeper.\n\n44\n00:01:52,440 --> 00:01:54,930\nThat's why a dog that noses a porcupine\n\n45\n00:01:55,330 --> 00:01:57,410\nneeds a trip to the vet, and fast.\n\n46\n00:01:57,810 --> 00:01:58,910\nBut here's the thing.\n\n47\n00:01:59,230 --> 00:02:01,940\nA porcupine would much rather not fight at all.\n\n48\n00:02:02,360 --> 00:02:04,450\nIt gives you plenty of warning first.\n\n49\n00:02:04,830 --> 00:02:05,700\nIt growls.\n\n50\n00:02:05,990 --> 00:02:07,270\nIt chatters its teeth.\n\n51\n00:02:07,620 --> 00:02:09,820\nIt raises its black and white quills\n\n52\n00:02:10,090 --> 00:02:11,390\nlike a giant pincushion.\n\n53\n00:02:11,810 --> 00:02:14,590\nAnd it releases a smell from a patch on its lower back.\n\n54\n00:02:15,030 --> 00:02:17,360\nOne scientist said it smells a bit like goat,\n\n55\n00:02:17,890 --> 00:02:19,780\nor a strange, stinky cheese.\n\n56\n00:02:20,160 --> 00:02:21,540\nIf you still don't back off,\n\n57\n00:02:21,890 --> 00:02:23,990\nit turns around and swings its tail.\n\n58\n00:02:24,390 --> 00:02:25,030\nThwack.\n\n59\n00:02:25,320 --> 00:02:26,760\nAnd there's one more twist.\n\n60\n00:02:27,170 --> 00:02:29,510\nPorcupines sometimes stab themselves,\n\n61\n00:02:29,890 --> 00:02:31,510\nlike when they fall out of a tree.\n\n62\n00:02:31,910 --> 00:02:34,990\nSo their quills come coated in greasy fats\n\n63\n00:02:35,050 --> 00:02:35,680\nthat fight off germs.\n\n64\n00:02:36,130 --> 00:02:37,770\nBuilt-in antibiotic.\n\n65\n00:02:38,080 --> 00:02:39,840\nScientists love these quills.\n\n66\n00:02:40,130 --> 00:02:42,160\nThe same team that tested the barbs\n\n67\n00:02:42,440 --> 00:02:45,150\nis copying them for medical needles and staples\n\n68\n00:02:45,210 --> 00:02:46,510\nthat slide in gently\n\n69\n00:02:46,990 --> 00:02:48,130\nand hold on tight.\n\n70\n00:02:48,580 --> 00:02:50,730\nSo a porcupine's quill is a hair\n\n71\n00:02:50,730 --> 00:02:52,870\nthat works like a fishhook,\n\n72\n00:02:52,970 --> 00:02:54,530\ngoes in easy, comes out hard,\n\n73\n00:02:54,530 --> 00:02:56,170\nand keeps itself clean.\n\n74\n00:02:56,600 --> 00:02:57,850\nNot bad for a hair.\n\n75\n00:02:58,230 --> 00:03:00,460\nNext time, how does a homing pigeon\n\n76\n00:03:00,460 --> 00:03:03,420\nfind its way home from hundreds of miles away?\n\n",
-      "tg_msg": 1080
+      "tg_msg": 1080,
+      "approved_by": "auto",
+      "description_full": "A North American porcupine carries about 30,000 quills, and each one is a hollow hair tipped with hundreds of backward-facing barbs that make it slide into skin easily and come out about four times harder. We bust the myth that porcupines shoot their quills, look at the 2012 study that tested quills in the lab, see why a stuck quill works its way deeper, the warnings a porcupine gives before it ever strikes, and the germ-fighting coating on every quill.\n\nSources:\nhttps://www.nationalgeographic.com/science/article/why-porcupine-quills-slide-in-with-ease-but-come-out-with-difficulty-2\nhttps://phys.org/news/2012-12-quills-needles-prickly-porcupine-muse.html\nhttps://harriscenter.org/story/to-the-point-porcupine-quills\n\nAnimated in the Claymation Set style.\n\nFollow Zorbly AI for a new Short every day.\n\n#porcupine #animals #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Claymation Set style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/GyaYd2UAgnw",
+          "private \u00b7 thumbnail \u2705"
+        ]
+      },
+      "uploaded_at": "2026-11-10T20:50:24.331399+00:00",
+      "slot": "2026-11-17T02:15:00+00:00"
     },
     "2026-11-10-104": {
       "topic": {
@@ -3239,12 +3010,12 @@
         "format": "animated",
         "style": "Flat-Vector Science"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261110-zebra-stripes",
       "redos": 0,
-      "updated": "2026-11-10T16:37:01.684228+00:00",
+      "updated": "2026-11-10T20:50:28.069463+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech."
       ],
@@ -3259,7 +3030,100 @@
         "name": "2026-11-10-104-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:03,380\nZebra stripes stop 3 out of 4 fly landings,\n\n2\n00:00:03,750 --> 00:00:04,900\nand you can see why.\n\n3\n00:00:05,290 --> 00:00:08,990\nIn Africa, biting horseflies swarm grazing animals,\n\n4\n00:00:09,070 --> 00:00:12,110\nand their bites can spread nasty diseases.\n\n5\n00:00:12,470 --> 00:00:15,020\nSo researchers in Britain filmed flies\n\n6\n00:00:15,110 --> 00:00:17,250\nbuzzing around zebras and horses.\n\n7\n00:00:17,640 --> 00:00:20,260\nThe flies flew up to both just as often.\n\n8\n00:00:20,650 --> 00:00:23,910\nBut they landed on zebras less than a quarter as often.\n\n9\n00:00:24,330 --> 00:00:25,530\nSo what's going on?\n\n10\n00:00:26,030 --> 00:00:29,210\nNear a horse, a fly slows down for a soft landing.\n\n11\n00:00:29,630 --> 00:00:32,560\nNear a zebra, the stripes seem to scramble its eyes,\n\n12\n00:00:32,950 --> 00:00:33,930\nso it never brakes,\n\n13\n00:00:34,300 --> 00:00:36,620\nand it bumps right off or zooms past.\n\n14\n00:00:37,070 --> 00:00:39,300\nThen they dressed horses in striped coats.\n\n15\n00:00:39,760 --> 00:00:41,420\nFlies kept missing the coats,\n\n16\n00:00:41,790 --> 00:00:43,720\nbut still landed on their bare heads.\n\n17\n00:00:44,130 --> 00:00:46,040\nHonestly, that's kind of genius.\n\n18\n00:00:46,500 --> 00:00:50,310\nCamouflage? Keeping cool? The evidence for those is weaker.\n\n19\n00:00:50,790 --> 00:00:53,120\nSo would you wear stripes to your next picnic?\n\n",
-      "tg_msg": 1081
+      "tg_msg": 1081,
+      "approved_by": "auto",
+      "description_full": "Why do zebras have stripes? Scientists filmed biting horseflies around zebras and horses and found the flies landed on zebras less than a quarter as often, because the stripes seem to stop them braking for a landing.\n\nSources:\nhttps://www.sciencedaily.com/releases/2019/02/190220145032.htm\nhttps://www.smithsonianmag.com/smart-news/scientists-dressed-horses-zebras-determine-purpose-stripes-180971540/\nhttps://doi.org/10.1371/journal.pone.0210831\n\nAnimated in the Flat-Vector Science style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #zebra #animalfacts #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/afioBmpvfSA",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-10T20:50:28.069480+00:00",
+      "slot": "2026-11-17T17:15:00+00:00"
+    },
+    "2026-11-10-105": {
+      "topic": {
+        "title": "What's really inside a camel's hump?",
+        "format": "animated",
+        "angle": "Low-Poly Faceted"
+      },
+      "package": {
+        "title": "What's Really Inside a Camel's Hump? \ud83d\udc2a",
+        "description": "What's inside a camel's hump? Not water: a dromedary's hump stores up to about 35 kg of fat for energy, while its water is spread through its whole body, it can lose about a quarter of its weight in water, and then drink around 100 litres in roughly ten minutes thanks to oval red blood cells that can swell without bursting.\n\nSources:\nhttps://www.wtamu.edu/~cbaird/sq/2013/09/18/how-much-water-can-a-camel-store-in-its-hump/\nhttps://www.clevelandzoosociety.org/z/2021/04/06/truth-or-tail-a-camels-hump\nhttps://earthsky.org/earth/do-camels-store-water-in-there-humps\n\nAnimated in the Low-Poly Faceted style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#camel",
+          "#animalfacts",
+          "#science"
+        ],
+        "tags": [
+          "camel hump",
+          "what is inside a camel hump",
+          "camel facts",
+          "do camels store water",
+          "camel fat",
+          "dromedary",
+          "desert animals",
+          "animal facts",
+          "how camels survive",
+          "camel drinking water",
+          "red blood cells",
+          "animal adaptations",
+          "science shorts",
+          "zorbly ai"
+        ],
+        "category": "27",
+        "pinned_comment": "If YOU had a hump, what would you store in it? \ud83d\udc2a",
+        "thumbnail_text": "35 KG FAT",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "A camel's hump hides up to 35 kilos of fat, not a drop of water. Here's why you never knew. Fat is food in a backpack. When there's nothing to eat, the camel burns that fat for energy, and the hump shrinks and flops over. With all the fat in one lump, the rest of the body stays lean and cool. Okay, so where's the water? It's spread through the whole body. A camel can lose a quarter of its weight in water and keep walking. Its oval blood cells keep sliding along even as its blood thickens. Then it finds a well, and drinks around a hundred litres in about ten minutes. Those blood cells swell to twice their size without bursting. So if you had a hump, what would you store in yours?",
+        "key_facts": [
+          "A dromedary's hump is fat, not water (up to about 35 kg)",
+          "Burning the fat for energy makes the hump shrink and flop over",
+          "Storing fat in one lump keeps the rest of the body lean, helping heat loss",
+          "A camel can lose about a quarter of its body weight in water",
+          "Oval red blood cells keep flowing as blood thickens and can swell to about twice their size without bursting",
+          "A thirsty camel can drink around 100 litres in about 10 minutes"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Low-Poly Faceted"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261110-camel-hump",
+      "redos": 0,
+      "updated": "2026-11-10T20:50:08.305264+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Low-Poly Faceted style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-10",
+        "name": "2026-11-10-105.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-10",
+        "name": "2026-11-10-105-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:03,540\nA camel's hump hides up to 35 kilos of fat,\n\n2\n00:00:04,050 --> 00:00:05,330\nnot a drop of water.\n\n3\n00:00:05,770 --> 00:00:07,300\nHere's why you never knew.\n\n4\n00:00:07,650 --> 00:00:09,170\nFat is food in a backpack.\n\n5\n00:00:09,520 --> 00:00:10,590\nWhen there's nothing to eat,\n\n6\n00:00:11,080 --> 00:00:13,390\nthe camel burns that fat for energy,\n\n7\n00:00:13,700 --> 00:00:15,600\nand the hump shrinks and flops over.\n\n8\n00:00:15,950 --> 00:00:17,420\nWith all the fat in one lump,\n\n9\n00:00:17,910 --> 00:00:20,290\nthe rest of the body stays lean and cool.\n\n10\n00:00:20,670 --> 00:00:22,270\nOkay, so where's the water?\n\n11\n00:00:22,810 --> 00:00:24,480\nIt's spread through the whole body.\n\n12\n00:00:24,930 --> 00:00:27,650\nA camel can lose a quarter of its weight in water\n\n13\n00:00:27,960 --> 00:00:28,880\nand keep walking.\n\n14\n00:00:29,290 --> 00:00:31,940\nIts oval blood cells keep sliding along\n\n15\n00:00:32,080 --> 00:00:33,680\neven as its blood thickens.\n\n16\n00:00:34,030 --> 00:00:35,180\nThen it finds a well,\n\n17\n00:00:35,640 --> 00:00:37,680\nand drinks around a hundred litres\n\n18\n00:00:37,780 --> 00:00:38,540\nin about ten minutes.\n\n19\n00:00:38,970 --> 00:00:41,530\nThose blood cells swell to twice their size\n\n20\n00:00:41,720 --> 00:00:42,620\nwithout bursting.\n\n21\n00:00:43,100 --> 00:00:44,190\nSo if you had a hump,\n\n22\n00:00:44,520 --> 00:00:46,100\nwhat would you store in yours?\n\n",
+      "tg_msg": 1082
     }
   },
   "history": [
@@ -3434,7 +3298,8 @@
     "drop/20261110-dog-head-tilt": "2026-11-10-101",
     "drop/20261110-hummingbird-torpor": "2026-11-10-102",
     "drop/20261110-porcupine-quills": "2026-11-10-103",
-    "drop/20261110-zebra-stripes": "2026-11-10-104"
+    "drop/20261110-zebra-stripes": "2026-11-10-104",
+    "drop/20261110-camel-hump": "2026-11-10-105"
   },
   "refs_day": "2026-11-10"
 }
