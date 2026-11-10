@@ -378,189 +378,6 @@
     }
   },
   "videos": {
-    "2026-11-03-105": {
-      "topic": {
-        "title": "Why do pigeons bob their heads when they walk?",
-        "format": "animated",
-        "angle": "Flat-Vector Science"
-      },
-      "package": {
-        "title": "Why Do Pigeons Bob Their Heads 5 Times a Second? \ud83d\udc26",
-        "description": "Why do pigeons bob their heads when they walk? The head thrusts forward, then holds still in space while the body catches up, which keeps the bird's view of the world steady, and a 1978 treadmill experiment showed the bobbing stops when the surroundings don't move.\n\nSources:\nhttps://www.livescience.com/why-pigeons-bob-heads.html\nhttps://www.snopes.com/articles/352787/why-do-pigeons-bob-their-heads/\nhttps://www.scienceabc.com/nature/animals/why-do-pigeons-bob-their-heads-when-they-walk.html\n\nAnimated in the Flat-Vector Science style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#pigeons",
-          "#science",
-          "#animals"
-        ],
-        "tags": [
-          "why do pigeons bob their heads",
-          "pigeon head bobbing",
-          "pigeon walking",
-          "head bobbing birds",
-          "pigeon treadmill experiment",
-          "why do birds bob their heads",
-          "thrust and hold phase",
-          "bird vision",
-          "animal facts",
-          "bird facts",
-          "science explained",
-          "zorbly ai",
-          "flat vector animation"
-        ],
-        "category": "27",
-        "pinned_comment": "Next time you see a pigeon, watch the head: can you catch it standing still?",
-        "thumbnail_text": "NEVER BOB",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "Pigeon heads never bob, you've been watching them freeze in midair. Watch one walk, the head shoots forward, about two inches. That's the thrust. Then it stops dead, locked in place, while the body walks underneath it. That's the hold. Then forward again, five to eight times every second. But why bother? In nineteen seventy-eight, scientists in Canada put a pigeon on a treadmill. Its legs kept walking, but the world around it stayed still, and the bobbing stopped. So it isn't about balance, it's about what the bird sees. Holding its head still keeps the view steady, like a camera on a tripod, while the world slides past. Chickens and cranes do it too. So next time you see a pigeon, watch the head. Is it bobbing, or standing still?",
-        "key_facts": [
-          "The head thrusts forward about 2 inches relative to the body, then holds still in space while the body moves forward (Michael Land via Live Science; Journal of Comparative Physiology A 2007 via Snopes).",
-          "This happens on average five to eight times a second while walking (Aaron Blaisdell via Live Science).",
-          "In 1978, researchers at Queen's University in Canada found the bobbing stopped when a pigeon walked on a treadmill with stationary surroundings, pointing to a visual response rather than balance (Live Science, Snopes).",
-          "Chickens and cranes also head-bob (Snopes)."
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Flat-Vector Science"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261103-pigeon-head-bob",
-      "redos": 0,
-      "updated": "2026-11-04T17:47:29.450795+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-03",
-        "name": "2026-11-03-105.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-03",
-        "name": "2026-11-03-105-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:01,890\nPigeon heads never bob,\n\n2\n00:00:02,190 --> 00:00:04,250\nyou've been watching them freeze in midair.\n\n3\n00:00:04,800 --> 00:00:05,890\nWatch one walk,\n\n4\n00:00:06,190 --> 00:00:07,520\nthe head shoots forward,\n\n5\n00:00:07,820 --> 00:00:08,970\nabout two inches.\n\n6\n00:00:09,520 --> 00:00:10,540\nThat's the thrust.\n\n7\n00:00:11,090 --> 00:00:12,300\nThen it stops dead,\n\n8\n00:00:12,600 --> 00:00:13,650\nlocked in place,\n\n9\n00:00:13,950 --> 00:00:15,620\nwhile the body walks underneath it.\n\n10\n00:00:16,170 --> 00:00:17,150\nThat's the hold.\n\n11\n00:00:17,700 --> 00:00:18,900\nThen forward again,\n\n12\n00:00:19,200 --> 00:00:21,090\nfive to eight times every second.\n\n13\n00:00:21,640 --> 00:00:22,630\nBut why bother?\n\n14\n00:00:23,180 --> 00:00:24,730\nIn nineteen seventy-eight,\n\n15\n00:00:25,030 --> 00:00:27,990\nscientists in Canada put a pigeon on a treadmill.\n\n16\n00:00:28,540 --> 00:00:29,980\nIts legs kept walking,\n\n17\n00:00:30,280 --> 00:00:32,140\nbut the world around it stayed still,\n\n18\n00:00:32,440 --> 00:00:33,690\nand the bobbing stopped.\n\n19\n00:00:34,240 --> 00:00:35,960\nSo it isn't about balance,\n\n20\n00:00:36,260 --> 00:00:37,980\nit's about what the bird sees.\n\n21\n00:00:38,530 --> 00:00:40,830\nHolding its head still keeps the view steady,\n\n22\n00:00:41,130 --> 00:00:42,860\nlike a camera on a tripod,\n\n23\n00:00:43,160 --> 00:00:44,820\nwhile the world slides past.\n\n24\n00:00:45,370 --> 00:00:47,040\nChickens and cranes do it too.\n\n25\n00:00:47,590 --> 00:00:49,250\nSo next time you see a pigeon,\n\n26\n00:00:49,550 --> 00:00:50,470\nwatch the head.\n\n27\n00:00:51,020 --> 00:00:51,940\nIs it bobbing,\n\n28\n00:00:52,240 --> 00:00:53,390\nor standing still?\n\n",
-      "tg_msg": 1008,
-      "approved_by": "auto",
-      "quota_note": "2026-11-04",
-      "description_full": "Why do pigeons bob their heads when they walk? The head thrusts forward, then holds still in space while the body catches up, which keeps the bird's view of the world steady, and a 1978 treadmill experiment showed the bobbing stops when the surroundings don't move.\n\nSources:\nhttps://www.livescience.com/why-pigeons-bob-heads.html\nhttps://www.snopes.com/articles/352787/why-do-pigeons-bob-their-heads/\nhttps://www.scienceabc.com/nature/animals/why-do-pigeons-bob-their-heads-when-they-walk.html\n\nAnimated in the Flat-Vector Science style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #pigeons #science #animals\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/jdWCPU7stJI",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-11-04T17:47:29.450813+00:00",
-      "slot": "2026-11-09T00:15:00+00:00"
-    },
-    "2026-11-04-101": {
-      "topic": {
-        "title": "Why does melted cheese get so stretchy?",
-        "format": "animated",
-        "angle": "Claymation Set"
-      },
-      "package": {
-        "title": "The 80\u00b0C Trick That Makes Mozzarella So Stretchy \ud83e\uddc0",
-        "description": "Why does melted cheese stretch? Melted cheese is a net of casein proteins tied by calcium bonds, and mozzarella's hot water stretching lines them up into long fibers.\n\nSources:\nhttps://www.scientificamerican.com/article/why-cheeses-such-as-mozzarella-and-cheddar-melt-differently-than-ricotta/\nhttps://cheesescientist.com/science/mozzarella-stretchy/\nhttps://cheesescientist.com/science/why-cheeses-melt/\n\nAnimated in the Claymation Set style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#cheese",
-          "#foodscience",
-          "#mozzarella"
-        ],
-        "tags": [
-          "why does cheese stretch",
-          "cheese pull",
-          "melted cheese",
-          "mozzarella",
-          "casein",
-          "food science",
-          "pizza cheese",
-          "cheese science",
-          "why is mozzarella stretchy",
-          "pasta filata",
-          "ricotta",
-          "claymation explainer",
-          "how does it work"
-        ],
-        "category": "27",
-        "pinned_comment": "Which cheese has the best pull on your pizza?",
-        "thumbnail_text": "PROTEIN NET",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "Your pizza cheese hides a protein net, you've never seen. Long proteins called casein, are tied together by tiny calcium bonds, with fat and water stuck in the gaps. Cold, that net is stiff. Warm it up, and the fat melts first, then the bonds loosen. Now the strands slide past each other, without letting go. Mozzarella has an extra trick. Makers dunk the curd in hot water, around 70 to 80 degrees Celsius, then pull and fold it like dough, lining the proteins up in long fibers. Old cheese is different. As it ages, enzymes snip those strands, so it melts, but it won't stretch. Ricotta barely melts at all, its proteins are locked with permanent bonds. So a cheese pull is a net, bending but not breaking. Which cheese has the best pull on your pizza?",
-        "key_facts": [
-          "Cheese's casein proteins form a network held by weak bonds, with water and fat in it (Scientific American)",
-          "Calcium phosphate links casein; acid dissolves some of it, loosening the network (Scientific American, Cheese Scientist)",
-          "Fats start melting near room temperature, before the proteins soften (Scientific American)",
-          "Mozzarella curd is stretched in water at 70 to 80 C, aligning casein into parallel fibres (Cheese Scientist)",
-          "With ageing, enzymes snip casein, so cheese melts more easily but stretches less (Scientific American)",
-          "Ricotta's whey proteins have permanent sulfur bonds, so it softens rather than melts (Scientific American)"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Claymation Set"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261104-cheese-stretch",
-      "redos": 0,
-      "updated": "2026-11-04T17:47:33.735798+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Claymation Set style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-04",
-        "name": "2026-11-04-101.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-04",
-        "name": "2026-11-04-101-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:02,590\nYour pizza cheese hides a protein net,\n\n2\n00:00:02,890 --> 00:00:03,930\nyou've never seen.\n\n3\n00:00:04,480 --> 00:00:06,170\nLong proteins called casein,\n\n4\n00:00:06,470 --> 00:00:09,010\nare tied together by tiny calcium bonds,\n\n5\n00:00:09,310 --> 00:00:11,310\nwith fat and water stuck in the gaps.\n\n6\n00:00:11,860 --> 00:00:13,290\nCold, that net is stiff.\n\n7\n00:00:13,840 --> 00:00:15,890\nWarm it up, and the fat melts first,\n\n8\n00:00:16,190 --> 00:00:17,490\nthen the bonds loosen.\n\n9\n00:00:18,040 --> 00:00:20,220\nNow the strands slide past each other,\n\n10\n00:00:20,520 --> 00:00:21,690\nwithout letting go.\n\n11\n00:00:22,240 --> 00:00:24,240\nMozzarella has an extra trick.\n\n12\n00:00:24,790 --> 00:00:26,960\nMakers dunk the curd in hot water,\n\n13\n00:00:27,260 --> 00:00:29,650\naround 70 to 80 degrees Celsius,\n\n14\n00:00:29,950 --> 00:00:31,880\nthen pull and fold it like dough,\n\n15\n00:00:32,180 --> 00:00:34,570\nlining the proteins up in long fibers.\n\n16\n00:00:35,120 --> 00:00:36,600\nOld cheese is different.\n\n17\n00:00:37,150 --> 00:00:39,850\nAs it ages, enzymes snip those strands,\n\n18\n00:00:40,150 --> 00:00:41,910\nso it melts, but it won't stretch.\n\n19\n00:00:42,460 --> 00:00:44,220\nRicotta barely melts at all,\n\n20\n00:00:44,520 --> 00:00:47,100\nits proteins are locked with permanent bonds.\n\n21\n00:00:47,650 --> 00:00:49,110\nSo a cheese pull is a net,\n\n22\n00:00:49,410 --> 00:00:50,850\nbending but not breaking.\n\n23\n00:00:51,400 --> 00:00:53,730\nWhich cheese has the best pull on your pizza?\n\n",
-      "tg_msg": 1013,
-      "approved_by": "auto",
-      "description_full": "Why does melted cheese stretch? Melted cheese is a net of casein proteins tied by calcium bonds, and mozzarella's hot water stretching lines them up into long fibers.\n\nSources:\nhttps://www.scientificamerican.com/article/why-cheeses-such-as-mozzarella-and-cheddar-melt-differently-than-ricotta/\nhttps://cheesescientist.com/science/mozzarella-stretchy/\nhttps://cheesescientist.com/science/why-cheeses-melt/\n\nAnimated in the Claymation Set style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #cheese #foodscience #mozzarella\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Claymation Set style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/OFV9HLuSkf8",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-11-04T17:47:33.735816+00:00",
-      "slot": "2026-11-09T02:15:00+00:00"
-    },
     "2026-11-04-102": {
       "topic": {
         "title": "Why does cilantro taste like soap to some people?",
@@ -3098,12 +2915,12 @@
         "format": "animated",
         "style": "Pictogram Motion"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261109-geese-v",
       "redos": 0,
-      "updated": "2026-11-09T23:27:27.297747+00:00",
+      "updated": "2026-11-10T08:34:31.605522+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Pictogram Motion style). Voice: Kokoro text-to-speech."
       ],
@@ -3118,7 +2935,29 @@
         "name": "2026-11-09-105-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:03,410\nBirds in a V can cut their heart rate 14 percent,\n\n2\n00:00:03,930 --> 00:00:05,290\nand you've never seen why.\n\n3\n00:00:05,700 --> 00:00:08,180\nIt's the secret behind every V of geese.\n\n4\n00:00:08,540 --> 00:00:10,840\nEach flap pushes air down behind the wing.\n\n5\n00:00:11,250 --> 00:00:14,310\nBut at the wingtip, air curls up and around,\n\n6\n00:00:14,380 --> 00:00:15,220\ninto a spinning swirl.\n\n7\n00:00:15,690 --> 00:00:18,370\nJust outside that swirl, the air is rising.\n\n8\n00:00:18,800 --> 00:00:21,710\nSo the bird behind slides into that exact spot,\n\n9\n00:00:22,220 --> 00:00:24,210\nand gets free lift on every flap.\n\n10\n00:00:24,570 --> 00:00:26,050\nLine everyone up like that,\n\n11\n00:00:26,410 --> 00:00:27,340\nand you get a V.\n\n12\n00:00:27,740 --> 00:00:29,550\nPelicans tracked in formation\n\n13\n00:00:29,900 --> 00:00:34,070\nhad heart rates up to 14 percent lower than flying solo.\n\n14\n00:00:34,490 --> 00:00:37,710\nIbises even time their flaps to match the bird ahead.\n\n15\n00:00:38,070 --> 00:00:40,360\nBut the front bird gets no free ride.\n\n16\n00:00:40,750 --> 00:00:41,830\nSo ibises take turns,\n\n17\n00:00:41,930 --> 00:00:44,940\nswapping the tiring spot at the front.\n\n18\n00:00:45,310 --> 00:00:47,900\nHonestly, that's teamwork with zero meetings.\n\n19\n00:00:48,340 --> 00:00:50,160\nSo which bird would you rather be,\n\n20\n00:00:50,450 --> 00:00:52,860\nthe leader at the front, or the one in the back?\n\n",
-      "tg_msg": 1072
+      "tg_msg": 1072,
+      "approved_by": "auto",
+      "description_full": "Why do geese fly in a V? Each bird rides the rising air that curls off the wingtip of the bird ahead, which saves energy: pelicans flying in formation had heart rates up to 14% lower, and ibises take turns in the tiring front spot.\n\nSources:\nhttps://www.nationalgeographic.com/science/article/birds-that-fly-in-a-v-formation-use-an-amazing-trick\nhttps://www.ox.ac.uk/node/29050\nhttps://www.audubon.org/magazine/why-birds-fly-v-formation-migration-science\n\nAnimated in the Pictogram Motion style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #birds #science #animals\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Pictogram Motion style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/G_tqLSzsaSA",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-10T08:34:31.605543+00:00",
+      "slot": "2026-11-16T17:15:00+00:00"
     },
     "2026-11-10-101": {
       "topic": {
@@ -3166,12 +3005,12 @@
         "format": "animated",
         "style": "Whiteboard Explainer"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261110-dog-head-tilt",
       "redos": 0,
-      "updated": "2026-11-10T01:12:49.371156+00:00",
+      "updated": "2026-11-10T08:34:35.033179+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Whiteboard Explainer style). Voice: Kokoro text-to-speech."
       ],
@@ -3186,7 +3025,29 @@
         "name": "2026-11-10-101-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:02,030\nWhy does your dog tilt its head?\n\n2\n00:00:02,530 --> 00:00:04,820\nGenius dogs do it twenty times more.\n\n3\n00:00:05,240 --> 00:00:09,290\nIn Budapest, scientists tested some genius border collies\n\n4\n00:00:09,420 --> 00:00:11,740\nthat know the names of over ten toys.\n\n5\n00:00:12,150 --> 00:00:13,790\nWhen their owner said a toy's name,\n\n6\n00:00:14,330 --> 00:00:16,500\nthose genius dogs tilted their heads\n\n7\n00:00:16,500 --> 00:00:18,450\nforty-three percent of the time.\n\n8\n00:00:18,880 --> 00:00:19,970\nRegular dogs?\n\n9\n00:00:20,420 --> 00:00:21,550\nJust two percent.\n\n10\n00:00:21,810 --> 00:00:24,730\nSo the tilt might be a dog matching your word\n\n11\n00:00:24,820 --> 00:00:25,830\nto a picture in its head.\n\n12\n00:00:26,300 --> 00:00:27,740\nBut there's another idea.\n\n13\n00:00:28,110 --> 00:00:30,320\nA dog's snout blocks part of your face,\n\n14\n00:00:30,680 --> 00:00:31,900\nespecially your mouth.\n\n15\n00:00:32,270 --> 00:00:33,950\nTilting gives it a clearer view.\n\n16\n00:00:34,340 --> 00:00:35,160\nIn one survey,\n\n17\n00:00:35,660 --> 00:00:39,140\nseventy-one percent of long-snouted dogs often tilted,\n\n18\n00:00:39,770 --> 00:00:43,070\nbut only fifty-two percent of flat-faced dogs did.\n\n19\n00:00:43,470 --> 00:00:44,690\nAnd here's the fun part:\n\n20\n00:00:45,250 --> 00:00:48,580\neach dog usually tilts to the same side, every time.\n\n21\n00:00:48,980 --> 00:00:50,570\nSo which way does your dog tilt,\n\n22\n00:00:50,900 --> 00:00:51,790\nleft or right?\n\n",
-      "tg_msg": 1076
+      "tg_msg": 1076,
+      "approved_by": "auto",
+      "description_full": "Why do dogs tilt their heads when you talk? Scientists found genius dogs tilt about 20 times more when they hear a toy's name, and a dog's snout may block its view of your mouth.\n\nSources:\nhttps://www.smithsonianmag.com/smart-news/why-do-dogs-tilt-their-heads-new-study-offers-clues-180978980/\nhttps://www.psychologytoday.com/us/blog/canine-corner/201312/why-some-dogs-tilt-their-heads-when-you-talk-to-them\nhttps://www.discovermagazine.com/why-do-dogs-tilt-their-heads-to-one-side-44903\n\nAnimated in the Whiteboard Explainer style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #dogs #dogheadtilt #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Whiteboard Explainer style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/NIYx_aWvZUI",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-10T08:34:35.033197+00:00",
+      "slot": "2026-11-16T20:15:00+00:00"
     }
   },
   "history": [
