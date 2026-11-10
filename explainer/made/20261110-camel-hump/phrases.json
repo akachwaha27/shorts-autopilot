@@ -1,0 +1,696 @@
+[
+ {
+  "s": 0.25,
+  "e": 3.54,
+  "text": "A camel's hump hides up to 35 kilos of fat,",
+  "words": [
+   [
+    "a",
+    0.25
+   ],
+   [
+    "camels",
+    0.35
+   ],
+   [
+    "hump",
+    0.97
+   ],
+   [
+    "hides",
+    1.38
+   ],
+   [
+    "up",
+    1.9
+   ],
+   [
+    "to",
+    2.1
+   ],
+   [
+    "35",
+    2.31
+   ],
+   [
+    "kilos",
+    2.51
+   ],
+   [
+    "of",
+    3.03
+   ],
+   [
+    "fat",
+    3.23
+   ]
+  ]
+ },
+ {
+  "s": 4.05,
+  "e": 5.33,
+  "text": "not a drop of water.",
+  "words": [
+   [
+    "not",
+    4.05
+   ],
+   [
+    "a",
+    4.31
+   ],
+   [
+    "drop",
+    4.39
+   ],
+   [
+    "of",
+    4.73
+   ],
+   [
+    "water",
+    4.9
+   ]
+  ]
+ },
+ {
+  "s": 5.77,
+  "e": 7.3,
+  "text": "Here's why you never knew.",
+  "words": [
+   [
+    "heres",
+    5.77
+   ],
+   [
+    "why",
+    6.15
+   ],
+   [
+    "you",
+    6.38
+   ],
+   [
+    "never",
+    6.61
+   ],
+   [
+    "knew",
+    6.99
+   ]
+  ]
+ },
+ {
+  "s": 7.65,
+  "e": 9.17,
+  "text": "Fat is food in a backpack.",
+  "words": [
+   [
+    "fat",
+    7.65
+   ],
+   [
+    "is",
+    7.88
+   ],
+   [
+    "food",
+    8.03
+   ],
+   [
+    "in",
+    8.33
+   ],
+   [
+    "a",
+    8.49
+   ],
+   [
+    "backpack",
+    8.56
+   ]
+  ]
+ },
+ {
+  "s": 9.52,
+  "e": 10.59,
+  "text": "When there's nothing to eat,",
+  "words": [
+   [
+    "when",
+    9.52
+   ],
+   [
+    "theres",
+    9.71
+   ],
+   [
+    "nothing",
+    10.01
+   ],
+   [
+    "to",
+    10.35
+   ],
+   [
+    "eat",
+    10.44
+   ]
+  ]
+ },
+ {
+  "s": 11.08,
+  "e": 13.39,
+  "text": "the camel burns that fat for energy,",
+  "words": [
+   [
+    "the",
+    11.08
+   ],
+   [
+    "camel",
+    11.32
+   ],
+   [
+    "burns",
+    11.72
+   ],
+   [
+    "that",
+    12.12
+   ],
+   [
+    "fat",
+    12.43
+   ],
+   [
+    "for",
+    12.67
+   ],
+   [
+    "energy",
+    12.91
+   ]
+  ]
+ },
+ {
+  "s": 13.7,
+  "e": 15.6,
+  "text": "and the hump shrinks and flops over.",
+  "words": [
+   [
+    "and",
+    13.7
+   ],
+   [
+    "the",
+    13.9
+   ],
+   [
+    "hump",
+    14.09
+   ],
+   [
+    "shrinks",
+    14.35
+   ],
+   [
+    "and",
+    14.81
+   ],
+   [
+    "flops",
+    15.01
+   ],
+   [
+    "over",
+    15.34
+   ]
+  ]
+ },
+ {
+  "s": 15.95,
+  "e": 17.42,
+  "text": "With all the fat in one lump,",
+  "words": [
+   [
+    "with",
+    15.95
+   ],
+   [
+    "all",
+    16.22
+   ],
+   [
+    "the",
+    16.42
+   ],
+   [
+    "fat",
+    16.62
+   ],
+   [
+    "in",
+    16.82
+   ],
+   [
+    "one",
+    16.95
+   ],
+   [
+    "lump",
+    17.15
+   ]
+  ]
+ },
+ {
+  "s": 17.91,
+  "e": 20.29,
+  "text": "the rest of the body stays lean and cool.",
+  "words": [
+   [
+    "the",
+    17.91
+   ],
+   [
+    "rest",
+    18.13
+   ],
+   [
+    "of",
+    18.43
+   ],
+   [
+    "the",
+    18.58
+   ],
+   [
+    "body",
+    18.8
+   ],
+   [
+    "stays",
+    19.1
+   ],
+   [
+    "lean",
+    19.47
+   ],
+   [
+    "and",
+    19.77
+   ],
+   [
+    "cool",
+    19.99
+   ]
+  ]
+ },
+ {
+  "s": 20.67,
+  "e": 22.27,
+  "text": "Okay, so where's the water?",
+  "words": [
+   [
+    "okay",
+    20.67
+   ],
+   [
+    "so",
+    20.99
+   ],
+   [
+    "wheres",
+    21.15
+   ],
+   [
+    "the",
+    21.63
+   ],
+   [
+    "water",
+    21.87
+   ]
+  ]
+ },
+ {
+  "s": 22.81,
+  "e": 24.48,
+  "text": "It's spread through the whole body.",
+  "words": [
+   [
+    "its",
+    22.81
+   ],
+   [
+    "spread",
+    22.99
+   ],
+   [
+    "through",
+    23.35
+   ],
+   [
+    "the",
+    23.77
+   ],
+   [
+    "whole",
+    23.95
+   ],
+   [
+    "body",
+    24.24
+   ]
+  ]
+ },
+ {
+  "s": 24.93,
+  "e": 27.65,
+  "text": "A camel can lose a quarter of its weight in water",
+  "words": [
+   [
+    "a",
+    24.93
+   ],
+   [
+    "camel",
+    25.0
+   ],
+   [
+    "can",
+    25.35
+   ],
+   [
+    "lose",
+    25.56
+   ],
+   [
+    "a",
+    25.84
+   ],
+   [
+    "quarter",
+    25.91
+   ],
+   [
+    "of",
+    26.39
+   ],
+   [
+    "its",
+    26.53
+   ],
+   [
+    "weight",
+    26.74
+   ],
+   [
+    "in",
+    27.16
+   ],
+   [
+    "water",
+    27.3
+   ]
+  ]
+ },
+ {
+  "s": 27.96,
+  "e": 28.88,
+  "text": "and keep walking.",
+  "words": [
+   [
+    "and",
+    27.96
+   ],
+   [
+    "keep",
+    28.16
+   ],
+   [
+    "walking",
+    28.42
+   ]
+  ]
+ },
+ {
+  "s": 29.29,
+  "e": 31.94,
+  "text": "Its oval blood cells keep sliding along",
+  "words": [
+   [
+    "its",
+    29.29
+   ],
+   [
+    "oval",
+    29.53
+   ],
+   [
+    "blood",
+    29.85
+   ],
+   [
+    "cells",
+    30.25
+   ],
+   [
+    "keep",
+    30.65
+   ],
+   [
+    "sliding",
+    30.97
+   ],
+   [
+    "along",
+    31.54
+   ]
+  ]
+ },
+ {
+  "s": 32.08,
+  "e": 33.68,
+  "text": "even as its blood thickens.",
+  "words": [
+   [
+    "even",
+    32.08
+   ],
+   [
+    "as",
+    32.37
+   ],
+   [
+    "its",
+    32.51
+   ],
+   [
+    "blood",
+    32.73
+   ],
+   [
+    "thickens",
+    33.1
+   ]
+  ]
+ },
+ {
+  "s": 34.03,
+  "e": 35.18,
+  "text": "Then it finds a well,",
+  "words": [
+   [
+    "then",
+    34.03
+   ],
+   [
+    "it",
+    34.32
+   ],
+   [
+    "finds",
+    34.46
+   ],
+   [
+    "a",
+    34.82
+   ],
+   [
+    "well",
+    34.89
+   ]
+  ]
+ },
+ {
+  "s": 35.64,
+  "e": 37.68,
+  "text": "and drinks around a hundred litres",
+  "words": [
+   [
+    "and",
+    35.64
+   ],
+   [
+    "drinks",
+    35.85
+   ],
+   [
+    "around",
+    36.27
+   ],
+   [
+    "a",
+    36.69
+   ],
+   [
+    "hundred",
+    36.76
+   ],
+   [
+    "litres",
+    37.26
+   ]
+  ]
+ },
+ {
+  "s": 37.78,
+  "e": 38.54,
+  "text": "in about ten minutes.",
+  "words": [
+   [
+    "in",
+    37.78
+   ],
+   [
+    "about",
+    37.87
+   ],
+   [
+    "ten",
+    38.09
+   ],
+   [
+    "minutes",
+    38.23
+   ]
+  ]
+ },
+ {
+  "s": 38.97,
+  "e": 41.53,
+  "text": "Those blood cells swell to twice their size",
+  "words": [
+   [
+    "those",
+    38.97
+   ],
+   [
+    "blood",
+    39.33
+   ],
+   [
+    "cells",
+    39.68
+   ],
+   [
+    "swell",
+    40.04
+   ],
+   [
+    "to",
+    40.39
+   ],
+   [
+    "twice",
+    40.54
+   ],
+   [
+    "their",
+    40.89
+   ],
+   [
+    "size",
+    41.25
+   ]
+  ]
+ },
+ {
+  "s": 41.72,
+  "e": 42.62,
+  "text": "without bursting.",
+  "words": [
+   [
+    "without",
+    41.72
+   ],
+   [
+    "bursting",
+    42.14
+   ]
+  ]
+ },
+ {
+  "s": 43.1,
+  "e": 44.19,
+  "text": "So if you had a hump,",
+  "words": [
+   [
+    "so",
+    43.1
+   ],
+   [
+    "if",
+    43.25
+   ],
+   [
+    "you",
+    43.39
+   ],
+   [
+    "had",
+    43.61
+   ],
+   [
+    "a",
+    43.83
+   ],
+   [
+    "hump",
+    43.9
+   ]
+  ]
+ },
+ {
+  "s": 44.52,
+  "e": 46.1,
+  "text": "what would you store in yours?",
+  "words": [
+   [
+    "what",
+    44.52
+   ],
+   [
+    "would",
+    44.78
+   ],
+   [
+    "you",
+    45.11
+   ],
+   [
+    "store",
+    45.31
+   ],
+   [
+    "in",
+    45.64
+   ],
+   [
+    "yours",
+    45.77
+   ]
+  ]
+ }
+]
