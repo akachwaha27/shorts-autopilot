@@ -3048,6 +3048,218 @@
       },
       "uploaded_at": "2026-11-10T08:34:35.033197+00:00",
       "slot": "2026-11-16T20:15:00+00:00"
+    },
+    "2026-11-10-102": {
+      "topic": {
+        "title": "The Hummingbird Paradox: how does a bird that tiny not starve overnight?",
+        "format": "animated",
+        "angle": "Brick Toy"
+      },
+      "package": {
+        "title": "How Do Hummingbirds Survive the Night? \ud83d\udc26",
+        "description": "How do hummingbirds survive the night without food? Their hearts can hit 1,200 beats a minute, so at night they drop into torpor, cooling their bodies and slowing their heartbeat to around 50 beats a minute until sunrise.\n\nSources:\nhttps://journeynorth.org/resources/how-do-hummingbirds-survive-cold-temperatures\nhttps://www.smithsonianmag.com/smart-news/hummingbirds-andes-go-chilly-extremes-good-nights-sleep-180975767/\nhttps://www.birdsandblooms.com/birding/attracting-hummingbirds/hummingbird-heart-rate/\n\nAnimated in the Brick Toy style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#hummingbird",
+          "#animalfacts",
+          "#science"
+        ],
+        "tags": [
+          "how do hummingbirds survive the night",
+          "hummingbird torpor",
+          "hummingbird heart rate",
+          "what is torpor",
+          "hummingbird facts",
+          "bird facts",
+          "animal facts",
+          "black metaltail",
+          "hummingbird sleep",
+          "animal science",
+          "brick animation",
+          "explainer",
+          "zorbly ai"
+        ],
+        "category": "27",
+        "pinned_comment": "Would you rather shut down every night or eat 3 times your weight every day? \ud83d\udc26",
+        "thumbnail_text": "1,200 \u2192 50",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "Hummingbirds almost shut down every night, and you never notice. Why would a heart drop from twelve hundred beats to fifty? Their tiny engine burns fuel so fast they can sip three times their weight in nectar a day. But at night, there's no nectar. A long night without food could starve them. So they drop into torpor. Their body cools from a hundred and five degrees by almost fifty. Their heartbeat crashes to around fifty a minute. Some even hang upside down, stiff as a statue. One Andes species chills to just thirty-eight degrees Fahrenheit, barely above freezing. It slows their metabolism by up to ninety-five percent. At sunrise, they shiver their flight muscles and warm up for about an hour. Then it's off to breakfast. So would you rather shut down every night like a hummingbird, or eat three times your weight every day?",
+        "key_facts": [
+          "Hummingbird heart rate: typically 500 to 1,200 bpm awake (Birds & Blooms); torpor can drop it below 50 (Journey North) or as low as 40 (Smithsonian)",
+          "Normal body temperature about 105\u00b0F; in torpor it can drop almost 50 degrees (Journey North)",
+          "Black metaltail in the Andes let its body temperature fall to 38\u00b0F (Smithsonian, Biology Letters study)",
+          "Costa's hummingbird can slow its metabolism by up to 95% in torpor (Birds & Blooms)",
+          "Ruby-throats can eat up to three times their weight in nectar a day (Birds & Blooms)",
+          "Rewarming takes about an hour (Journey North); they shiver/vibrate flight muscles to warm up"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Brick Toy"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261110-hummingbird-torpor",
+      "redos": 0,
+      "updated": "2026-11-10T16:36:39.643346+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Brick Toy style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-10",
+        "name": "2026-11-10-102.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-10",
+        "name": "2026-11-10-102-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:02,570\nHummingbirds almost shut down every night,\n\n2\n00:00:03,000 --> 00:00:04,080\nand you never notice.\n\n3\n00:00:04,490 --> 00:00:07,630\nWhy would a heart drop from twelve hundred beats to fifty?\n\n4\n00:00:08,110 --> 00:00:10,730\nTheir tiny engine burns fuel so fast\n\n5\n00:00:10,880 --> 00:00:13,670\nthey can sip three times their weight in nectar a day.\n\n6\n00:00:14,150 --> 00:00:15,770\nBut at night, there's no nectar.\n\n7\n00:00:16,140 --> 00:00:18,550\nA long night without food could starve them.\n\n8\n00:00:18,930 --> 00:00:20,470\nSo they drop into torpor.\n\n9\n00:00:20,890 --> 00:00:23,510\nTheir body cools from a hundred and five degrees\n\n10\n00:00:23,610 --> 00:00:24,710\nby almost fifty.\n\n11\n00:00:25,120 --> 00:00:27,610\nTheir heartbeat crashes to around fifty a minute.\n\n12\n00:00:28,010 --> 00:00:31,260\nSome even hang upside down, stiff as a statue.\n\n13\n00:00:31,740 --> 00:00:35,390\nOne Andes species chills to just thirty-eight degrees Fahrenheit,\n\n14\n00:00:35,930 --> 00:00:37,290\nbarely above freezing.\n\n15\n00:00:37,720 --> 00:00:41,470\nIt slows their metabolism by up to ninety-five percent.\n\n16\n00:00:41,890 --> 00:00:44,570\nAt sunrise, they shiver their flight muscles\n\n17\n00:00:44,880 --> 00:00:46,520\nand warm up for about an hour.\n\n18\n00:00:46,970 --> 00:00:48,500\nThen it's off to breakfast.\n\n19\n00:00:48,910 --> 00:00:52,560\nSo would you rather shut down every night like a hummingbird,\n\n20\n00:00:52,690 --> 00:00:54,840\nor eat three times your weight every day?\n\n",
+      "tg_msg": 1079
+    },
+    "2026-11-10-103": {
+      "topic": {
+        "title": "What happens if a porcupine's quills stick into you?",
+        "format": "long",
+        "angle": "Claymation Set"
+      },
+      "package": {
+        "title": "Why Won't a Porcupine Quill Come Out? (30,000 Harpoons)",
+        "description": "A North American porcupine carries about 30,000 quills, and each one is a hollow hair tipped with hundreds of backward-facing barbs that make it slide into skin easily and come out about four times harder. We bust the myth that porcupines shoot their quills, look at the 2012 study that tested quills in the lab, see why a stuck quill works its way deeper, the warnings a porcupine gives before it ever strikes, and the germ-fighting coating on every quill.\n\nSources:\nhttps://www.nationalgeographic.com/science/article/why-porcupine-quills-slide-in-with-ease-but-come-out-with-difficulty-2\nhttps://phys.org/news/2012-12-quills-needles-prickly-porcupine-muse.html\nhttps://harriscenter.org/story/to-the-point-porcupine-quills\n\nAnimated in the Claymation Set style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#porcupine",
+          "#animals",
+          "#science"
+        ],
+        "tags": [
+          "porcupine",
+          "porcupine quills",
+          "porcupine quill barbs",
+          "can porcupines shoot quills",
+          "what happens if a porcupine quill sticks you",
+          "why porcupine quills are hard to remove",
+          "porcupine facts",
+          "animal facts",
+          "animal defenses",
+          "barbs",
+          "fishhook",
+          "dog porcupine",
+          "animal explainer",
+          "claymation",
+          "zorbly ai"
+        ],
+        "category": "27",
+        "pinned_comment": "Did you think porcupines could shoot their quills before this? Be honest!",
+        "thumbnail_text": "TINY HOOKS",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "A porcupine carries 30,000 tiny harpoons.\nSo what happens when one sticks into you?\nAnd why won't it come back out?\nLet's take a really close look at the pointiest coat in nature.\nFirst, let's bust the biggest myth.\nPorcupines can't shoot their quills.\nNot even a little.\nPeople have believed it since ancient Greece,\nbut it just isn't true.\nA North American porcupine wears about 30,000 quills\non its back, sides and tail.\nEach one is a stiff, hollow hair,\nmade of keratin, the same stuff as your fingernails.\nThey're up to four inches long,\nand they're only loosely attached to the skin.\nSo the porcupine doesn't throw anything.\nAn attacker bumps into it,\nthe quills grab hold,\nand they pull straight out of the porcupine.\nNow let's zoom in on the very tip of one quill.\nUnder a microscope, it's covered in hundreds of tiny barbs,\nall pointing backwards, like the scales on a pine cone.\nIn 2012, scientists pushed quills into meat in the lab.\nThe barbs did something surprising.\nThey cut the force needed to go in by about half.\nThe tiny barbs grip the tissue and slice it,\na bit like the teeth on a bread knife.\nSo the quill slides in deep and easy.\nThen they tried pulling them out.\nNow the barbs flare open and snag,\nand it took about four times more force\nthan a smooth quill.\nIn, easy. Out, really hard.\nJust like a fishhook.\nLess than half a centimeter in,\nand it's already holding on.\nAnd here's the sneaky part.\nA quill that's stuck doesn't just sit there.\nEvery time the animal moves,\nits own muscles squeeze around the barbs,\nand each one can only ratchet one way.\nForward.\nSo a stuck quill slowly works its way deeper.\nThat's why a dog that noses a porcupine\nneeds a trip to the vet, and fast.\nBut here's the thing.\nA porcupine would much rather not fight at all.\nIt gives you plenty of warning first.\nIt growls.\nIt chatters its teeth.\nIt raises its black and white quills\nlike a giant pincushion.\nAnd it releases a smell from a patch on its lower back.\nOne scientist said it smells a bit like goat,\nor a strange, stinky cheese.\nIf you still don't back off,\nit turns around and swings its tail.\nThwack.\nAnd there's one more twist.\nPorcupines sometimes stab themselves,\nlike when they fall out of a tree.\nSo their quills come coated in greasy fats\nthat fight off germs.\nBuilt-in antibiotic.\nScientists love these quills.\nThe same team that tested the barbs\nis copying them for medical needles and staples\nthat slide in gently\nand hold on tight.\nSo a porcupine's quill is a hair\nthat works like a fishhook,\ngoes in easy, comes out hard,\nand keeps itself clean.\nNot bad for a hair.\nNext time, how does a homing pigeon\nfind its way home from hundreds of miles away?\n",
+        "key_facts": [
+          "North American porcupines have around 30,000 quills (National Geographic; Harris Center)",
+          "Porcupines cannot shoot their quills; the idea goes back to Aristotle (phys.org, Karp)",
+          "Quills are stiff, hollow, keratin hairs, up to about four inches long (Harris Center; Roze 2006)",
+          "Each quill tip has hundreds of microscopic backward-facing barbs; they halve the force to penetrate and need about four times the force to remove (Cho et al. 2012, PNAS)",
+          "Less than half a centimeter of penetration is enough for a secure grip (phys.org)",
+          "An embedded quill is pulled deeper by the victim's own muscle action (Harris Center)",
+          "Warnings: growling, tooth chattering, raised black-and-white quills, a smell from the lower back likened to goat or exotic cheese, then a tail swipe (Harris Center; Roze 2006)",
+          "Quills carry a greasy fatty-acid coating that acts as an antibiotic when porcupines quill themselves (Harris Center; Roze)",
+          "Karp's team studied the barbs to design better medical needles and adhesives/staples (phys.org)"
+        ],
+        "voice": "Kokoro",
+        "format": "long",
+        "style": "Claymation Set"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261110-porcupine-quills",
+      "redos": 0,
+      "updated": "2026-11-10T16:36:50.725194+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Claymation Set style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-10",
+        "name": "2026-11-10-103.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-10",
+        "name": "2026-11-10-103-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:03,620\nA porcupine carries 30,000 tiny harpoons.\n\n2\n00:00:04,000 --> 00:00:06,080\nSo what happens when one sticks into you?\n\n3\n00:00:06,600 --> 00:00:08,200\nAnd why won't it come back out?\n\n4\n00:00:08,690 --> 00:00:12,170\nLet's take a really close look at the pointiest coat in nature.\n\n5\n00:00:12,580 --> 00:00:14,590\nFirst, let's bust the biggest myth.\n\n6\n00:00:15,010 --> 00:00:17,040\nPorcupines can't shoot their quills.\n\n7\n00:00:17,390 --> 00:00:18,490\nNot even a little.\n\n8\n00:00:18,770 --> 00:00:21,180\nPeople have believed it since ancient Greece,\n\n9\n00:00:21,550 --> 00:00:22,840\nbut it just isn't true.\n\n10\n00:00:23,220 --> 00:00:27,060\nA North American porcupine wears about 30,000 quills\n\n11\n00:00:27,130 --> 00:00:29,160\non its back, sides and tail.\n\n12\n00:00:29,530 --> 00:00:32,040\nEach one is a stiff, hollow hair,\n\n13\n00:00:32,100 --> 00:00:35,130\nmade of keratin, the same stuff as your fingernails.\n\n14\n00:00:35,490 --> 00:00:37,020\nThey're up to four inches long,\n\n15\n00:00:37,420 --> 00:00:39,810\nand they're only loosely attached to the skin.\n\n16\n00:00:40,270 --> 00:00:42,360\nSo the porcupine doesn't throw anything.\n\n17\n00:00:42,710 --> 00:00:44,100\nAn attacker bumps into it,\n\n18\n00:00:44,410 --> 00:00:45,820\nthe quills grab hold,\n\n19\n00:00:46,210 --> 00:00:48,200\nand they pull straight out of the porcupine.\n\n20\n00:00:48,650 --> 00:00:51,750\nNow let's zoom in on the very tip of one quill.\n\n21\n00:00:52,230 --> 00:00:55,950\nUnder a microscope, it's covered in hundreds of tiny barbs,\n\n22\n00:00:56,360 --> 00:01:00,140\nall pointing backwards, like the scales on a pine cone.\n\n23\n00:01:00,590 --> 00:01:04,880\nIn 2012, scientists pushed quills into meat in the lab.\n\n24\n00:01:05,220 --> 00:01:07,200\nThe barbs did something surprising.\n\n25\n00:01:07,670 --> 00:01:10,750\nThey cut the force needed to go in by about half.\n\n26\n00:01:11,220 --> 00:01:13,880\nThe tiny barbs grip the tissue and slice it,\n\n27\n00:01:14,360 --> 00:01:16,570\na bit like the teeth on a bread knife.\n\n28\n00:01:16,990 --> 00:01:19,220\nSo the quill slides in deep and easy.\n\n29\n00:01:19,680 --> 00:01:21,250\nThen they tried pulling them out.\n\n30\n00:01:21,680 --> 00:01:23,770\nNow the barbs flare open and snag,\n\n31\n00:01:24,340 --> 00:01:26,480\nand it took about four times more force\n\n32\n00:01:26,540 --> 00:01:27,590\nthan a smooth quill.\n\n33\n00:01:27,980 --> 00:01:30,040\nIn, easy. Out, really hard.\n\n34\n00:01:30,520 --> 00:01:31,720\nJust like a fishhook.\n\n35\n00:01:32,020 --> 00:01:33,830\nLess than half a centimeter in,\n\n36\n00:01:34,210 --> 00:01:35,600\nand it's already holding on.\n\n37\n00:01:36,080 --> 00:01:37,570\nAnd here's the sneaky part.\n\n38\n00:01:37,970 --> 00:01:40,110\nA quill that's stuck doesn't just sit there.\n\n39\n00:01:40,460 --> 00:01:42,230\nEvery time the animal moves,\n\n40\n00:01:42,660 --> 00:01:45,130\nits own muscles squeeze around the barbs,\n\n41\n00:01:45,550 --> 00:01:47,890\nand each one can only ratchet one way.\n\n42\n00:01:48,260 --> 00:01:49,040\nForward.\n\n43\n00:01:49,420 --> 00:01:52,060\nSo a stuck quill slowly works its way deeper.\n\n44\n00:01:52,440 --> 00:01:54,930\nThat's why a dog that noses a porcupine\n\n45\n00:01:55,330 --> 00:01:57,410\nneeds a trip to the vet, and fast.\n\n46\n00:01:57,810 --> 00:01:58,910\nBut here's the thing.\n\n47\n00:01:59,230 --> 00:02:01,940\nA porcupine would much rather not fight at all.\n\n48\n00:02:02,360 --> 00:02:04,450\nIt gives you plenty of warning first.\n\n49\n00:02:04,830 --> 00:02:05,700\nIt growls.\n\n50\n00:02:05,990 --> 00:02:07,270\nIt chatters its teeth.\n\n51\n00:02:07,620 --> 00:02:09,820\nIt raises its black and white quills\n\n52\n00:02:10,090 --> 00:02:11,390\nlike a giant pincushion.\n\n53\n00:02:11,810 --> 00:02:14,590\nAnd it releases a smell from a patch on its lower back.\n\n54\n00:02:15,030 --> 00:02:17,360\nOne scientist said it smells a bit like goat,\n\n55\n00:02:17,890 --> 00:02:19,780\nor a strange, stinky cheese.\n\n56\n00:02:20,160 --> 00:02:21,540\nIf you still don't back off,\n\n57\n00:02:21,890 --> 00:02:23,990\nit turns around and swings its tail.\n\n58\n00:02:24,390 --> 00:02:25,030\nThwack.\n\n59\n00:02:25,320 --> 00:02:26,760\nAnd there's one more twist.\n\n60\n00:02:27,170 --> 00:02:29,510\nPorcupines sometimes stab themselves,\n\n61\n00:02:29,890 --> 00:02:31,510\nlike when they fall out of a tree.\n\n62\n00:02:31,910 --> 00:02:34,990\nSo their quills come coated in greasy fats\n\n63\n00:02:35,050 --> 00:02:35,680\nthat fight off germs.\n\n64\n00:02:36,130 --> 00:02:37,770\nBuilt-in antibiotic.\n\n65\n00:02:38,080 --> 00:02:39,840\nScientists love these quills.\n\n66\n00:02:40,130 --> 00:02:42,160\nThe same team that tested the barbs\n\n67\n00:02:42,440 --> 00:02:45,150\nis copying them for medical needles and staples\n\n68\n00:02:45,210 --> 00:02:46,510\nthat slide in gently\n\n69\n00:02:46,990 --> 00:02:48,130\nand hold on tight.\n\n70\n00:02:48,580 --> 00:02:50,730\nSo a porcupine's quill is a hair\n\n71\n00:02:50,730 --> 00:02:52,870\nthat works like a fishhook,\n\n72\n00:02:52,970 --> 00:02:54,530\ngoes in easy, comes out hard,\n\n73\n00:02:54,530 --> 00:02:56,170\nand keeps itself clean.\n\n74\n00:02:56,600 --> 00:02:57,850\nNot bad for a hair.\n\n75\n00:02:58,230 --> 00:03:00,460\nNext time, how does a homing pigeon\n\n76\n00:03:00,460 --> 00:03:03,420\nfind its way home from hundreds of miles away?\n\n",
+      "tg_msg": 1080
+    },
+    "2026-11-10-104": {
+      "topic": {
+        "title": "Why do zebras have stripes?",
+        "format": "animated",
+        "angle": "Flat-Vector Science"
+      },
+      "package": {
+        "title": "Why Do Zebras Have Stripes? \ud83e\udd93",
+        "description": "Why do zebras have stripes? Scientists filmed biting horseflies around zebras and horses and found the flies landed on zebras less than a quarter as often, because the stripes seem to stop them braking for a landing.\n\nSources:\nhttps://www.sciencedaily.com/releases/2019/02/190220145032.htm\nhttps://www.smithsonianmag.com/smart-news/scientists-dressed-horses-zebras-determine-purpose-stripes-180971540/\nhttps://doi.org/10.1371/journal.pone.0210831\n\nAnimated in the Flat-Vector Science style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#zebra",
+          "#animalfacts",
+          "#science"
+        ],
+        "tags": [
+          "why do zebras have stripes",
+          "zebra stripes",
+          "zebra stripes flies",
+          "horseflies",
+          "zebra facts",
+          "animal facts",
+          "why are zebras striped",
+          "zebra stripes study",
+          "animal explainer",
+          "science shorts",
+          "flat vector animation",
+          "zorbly ai"
+        ],
+        "category": "27",
+        "pinned_comment": "Would you wear stripes to a picnic to keep the flies off? Yes or no?",
+        "thumbnail_text": "FLY SHIELD",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "Zebra stripes stop 3 out of 4 fly landings,\nand you can see why.\nIn Africa, biting horseflies swarm grazing animals,\nand their bites can spread nasty diseases.\nSo researchers in Britain filmed flies\nbuzzing around zebras and horses.\nThe flies flew up to both just as often.\nBut they landed on zebras less than a quarter as often.\nSo what's going on?\nNear a horse, a fly slows down for a soft landing.\nNear a zebra, the stripes seem to scramble its eyes,\nso it never brakes,\nand it bumps right off or zooms past.\nThen they dressed horses in striped coats.\nFlies kept missing the coats,\nbut still landed on their bare heads.\nHonestly, that's kind of genius.\nCamouflage? Keeping cool? The evidence for those is weaker.\nSo would you wear stripes to your next picnic?",
+        "key_facts": [
+          "Horseflies approached zebras and horses at similar rates (Caro et al., PLOS ONE 2019)",
+          "Flies landed on zebras less than a quarter as often as on horses",
+          "Flies failed to slow down near zebras and bumped into them or flew past",
+          "Horses wearing striped coats got far fewer landings on the coat but not on their bare heads",
+          "Study done on a farm in Britain; camouflage and cooling ideas have weaker support"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Flat-Vector Science"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261110-zebra-stripes",
+      "redos": 0,
+      "updated": "2026-11-10T16:37:01.684228+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-10",
+        "name": "2026-11-10-104.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-10",
+        "name": "2026-11-10-104-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:03,380\nZebra stripes stop 3 out of 4 fly landings,\n\n2\n00:00:03,750 --> 00:00:04,900\nand you can see why.\n\n3\n00:00:05,290 --> 00:00:08,990\nIn Africa, biting horseflies swarm grazing animals,\n\n4\n00:00:09,070 --> 00:00:12,110\nand their bites can spread nasty diseases.\n\n5\n00:00:12,470 --> 00:00:15,020\nSo researchers in Britain filmed flies\n\n6\n00:00:15,110 --> 00:00:17,250\nbuzzing around zebras and horses.\n\n7\n00:00:17,640 --> 00:00:20,260\nThe flies flew up to both just as often.\n\n8\n00:00:20,650 --> 00:00:23,910\nBut they landed on zebras less than a quarter as often.\n\n9\n00:00:24,330 --> 00:00:25,530\nSo what's going on?\n\n10\n00:00:26,030 --> 00:00:29,210\nNear a horse, a fly slows down for a soft landing.\n\n11\n00:00:29,630 --> 00:00:32,560\nNear a zebra, the stripes seem to scramble its eyes,\n\n12\n00:00:32,950 --> 00:00:33,930\nso it never brakes,\n\n13\n00:00:34,300 --> 00:00:36,620\nand it bumps right off or zooms past.\n\n14\n00:00:37,070 --> 00:00:39,300\nThen they dressed horses in striped coats.\n\n15\n00:00:39,760 --> 00:00:41,420\nFlies kept missing the coats,\n\n16\n00:00:41,790 --> 00:00:43,720\nbut still landed on their bare heads.\n\n17\n00:00:44,130 --> 00:00:46,040\nHonestly, that's kind of genius.\n\n18\n00:00:46,500 --> 00:00:50,310\nCamouflage? Keeping cool? The evidence for those is weaker.\n\n19\n00:00:50,790 --> 00:00:53,120\nSo would you wear stripes to your next picnic?\n\n",
+      "tg_msg": 1081
     }
   },
   "history": [
@@ -3137,7 +3349,7 @@
   "visual_searches": {
     "2026-10-25": 3
   },
-  "signals_day": "2026-11-09",
+  "signals_day": "2026-11-10",
   "drops_done": {
     "drop/20261025-autumn-leaves": "2026-10-25-101",
     "drop/20261025-roman-hypocaust": "2026-10-25-102",
@@ -3219,7 +3431,10 @@
     "drop/20261109-garlic-breath": "2026-11-09-103",
     "drop/20261109-owl-silent-flight": "2026-11-09-104",
     "drop/20261109-geese-v": "2026-11-09-105",
-    "drop/20261110-dog-head-tilt": "2026-11-10-101"
+    "drop/20261110-dog-head-tilt": "2026-11-10-101",
+    "drop/20261110-hummingbird-torpor": "2026-11-10-102",
+    "drop/20261110-porcupine-quills": "2026-11-10-103",
+    "drop/20261110-zebra-stripes": "2026-11-10-104"
   },
   "refs_day": "2026-11-10"
 }
