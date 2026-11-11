@@ -378,95 +378,6 @@
     }
   },
   "videos": {
-    "2026-11-05-101": {
-      "topic": {
-        "title": "Why does toast turn brown and taste better?",
-        "format": "animated",
-        "angle": "Flat-Vector Science"
-      },
-      "package": {
-        "title": "Why Does Bread Taste Better at 140\u00b0C? \ud83c\udf5e",
-        "description": "Why does toast turn brown and taste better than bread? In a toaster, dry heat starts the Maillard reaction between sugars and amino acids, building hundreds of new flavor molecules and brown melanoidins.\n\nSources:\nhttps://en.wikipedia.org/wiki/Maillard_reaction\nhttps://www.chemistryworld.com/features/the-marvellous-maillard-reaction/3009723.article\nhttps://www.scienceabc.com/pure-sciences/why-does-bread-turn-so-crispy-and-tasty-when-toasted-maillard-reaction.html\n\nAnimated in the Flat-Vector Science style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#science",
-          "#foodscience",
-          "#didyouknow"
-        ],
-        "tags": [
-          "why does toast turn brown",
-          "maillard reaction",
-          "why does toast taste better",
-          "food science",
-          "toast science",
-          "melanoidins",
-          "browning food",
-          "cooking chemistry",
-          "science explained",
-          "animated explainer",
-          "food facts",
-          "zorbly ai"
-        ],
-        "category": "27",
-        "pinned_comment": "What's your perfect toast: pale gold, or nearly burned?",
-        "thumbnail_text": "NEW MOLECULES",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "You just ate molecules, your bread never had. That's what toast is. So why does it taste so much better? Bread holds two key ingredients: sugars, and amino acids, the building blocks of protein. Normally, they mostly ignore each other. But in the toaster, dry heat drives water out of the surface. Then, at around a hundred and forty degrees Celsius, they start reacting. It's called the Maillard reaction, first described in nineteen twelve. It builds hundreds of new flavor molecules, nutty, roasty, toasty. And the brown? That's melanoidins, big brown molecules. The inside stays cooler and wetter, so it stays soft and pale. Push it too far, though, and it burns to bitter black char. So what's your perfect toast: pale gold, or nearly burned?",
-        "key_facts": [
-          "The Maillard reaction is between amino acids and reducing sugars and typically proceeds rapidly from around 140 to 165 C (Wikipedia)",
-          "Louis Camille Maillard first described it in 1912 (Wikipedia, Chemistry World)",
-          "It can produce hundreds of different flavor compounds (Wikipedia, Science ABC)",
-          "Melanoidins are the brown molecules; dry heat drives off the bread's water, and excess water slows or halts browning (Science ABC)"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Flat-Vector Science"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261105-toast-brown",
-      "redos": 0,
-      "updated": "2026-11-05T11:29:29.888503+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-05",
-        "name": "2026-11-05-101.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-05",
-        "name": "2026-11-05-101-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:01,860\nYou just ate molecules,\n\n2\n00:00:02,160 --> 00:00:03,500\nyour bread never had.\n\n3\n00:00:04,050 --> 00:00:05,290\nThat's what toast is.\n\n4\n00:00:05,840 --> 00:00:07,680\nSo why does it taste so much better?\n\n5\n00:00:08,230 --> 00:00:10,180\nBread holds two key ingredients:\n\n6\n00:00:10,480 --> 00:00:11,190\nsugars,\n\n7\n00:00:11,490 --> 00:00:12,740\nand amino acids,\n\n8\n00:00:13,040 --> 00:00:14,750\nthe building blocks of protein.\n\n9\n00:00:15,300 --> 00:00:15,990\nNormally,\n\n10\n00:00:16,290 --> 00:00:17,920\nthey mostly ignore each other.\n\n11\n00:00:18,470 --> 00:00:19,560\nBut in the toaster,\n\n12\n00:00:19,860 --> 00:00:22,360\ndry heat drives water out of the surface.\n\n13\n00:00:22,910 --> 00:00:26,160\nThen, at around a hundred and forty degrees Celsius,\n\n14\n00:00:26,460 --> 00:00:27,670\nthey start reacting.\n\n15\n00:00:28,220 --> 00:00:29,950\nIt's called the Maillard reaction,\n\n16\n00:00:30,250 --> 00:00:32,210\nfirst described in nineteen twelve.\n\n17\n00:00:32,760 --> 00:00:35,470\nIt builds hundreds of new flavor molecules,\n\n18\n00:00:35,770 --> 00:00:37,260\nnutty, roasty, toasty.\n\n19\n00:00:37,810 --> 00:00:38,700\nAnd the brown?\n\n20\n00:00:39,250 --> 00:00:40,510\nThat's melanoidins,\n\n21\n00:00:40,810 --> 00:00:42,390\nbig brown molecules.\n\n22\n00:00:42,940 --> 00:00:45,040\nThe inside stays cooler and wetter,\n\n23\n00:00:45,340 --> 00:00:47,030\nso it stays soft and pale.\n\n24\n00:00:47,580 --> 00:00:48,830\nPush it too far, though,\n\n25\n00:00:49,130 --> 00:00:50,980\nand it burns to bitter black char.\n\n26\n00:00:51,530 --> 00:00:53,050\nSo what's your perfect toast:\n\n27\n00:00:53,350 --> 00:00:55,160\npale gold, or nearly burned?\n\n",
-      "tg_msg": 1027,
-      "approved_by": "auto",
-      "description_full": "Why does toast turn brown and taste better than bread? In a toaster, dry heat starts the Maillard reaction between sugars and amino acids, building hundreds of new flavor molecules and brown melanoidins.\n\nSources:\nhttps://en.wikipedia.org/wiki/Maillard_reaction\nhttps://www.chemistryworld.com/features/the-marvellous-maillard-reaction/3009723.article\nhttps://www.scienceabc.com/pure-sciences/why-does-bread-turn-so-crispy-and-tasty-when-toasted-maillard-reaction.html\n\nAnimated in the Flat-Vector Science style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #science #foodscience #didyouknow\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/8k7FZEQFvFE",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-11-05T11:29:29.888522+00:00",
-      "slot": "2026-11-10T17:15:00+00:00"
-    },
     "2026-11-05-102": {
       "topic": {
         "title": "Why do snakes flick their forked tongues?",
@@ -3103,12 +3014,12 @@
         "format": "animated",
         "style": "Kawaii Anime"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261111-eye-crust",
       "redos": 0,
-      "updated": "2026-11-11T01:43:16.646172+00:00",
+      "updated": "2026-11-11T08:24:04.356783+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech."
       ],
@@ -3123,7 +3034,29 @@
         "name": "2026-11-11-101-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:02,760\nYou wake up with dead skin glued in your eyes.\n\n2\n00:00:03,200 --> 00:00:03,740\nWhy?\n\n3\n00:00:04,310 --> 00:00:07,220\nAll day, your eyes wear a thin film of tears,\n\n4\n00:00:07,590 --> 00:00:10,430\nmade of water, sticky mucus and a little oil.\n\n5\n00:00:10,900 --> 00:00:13,280\nDust and old skin cells get trapped in it.\n\n6\n00:00:13,720 --> 00:00:16,620\nBut you blink about 15 to 20 times a minute.\n\n7\n00:00:17,040 --> 00:00:19,350\nThat's over 14,000 blinks a day,\n\n8\n00:00:19,820 --> 00:00:22,100\nand every blink washes that gunk away.\n\n9\n00:00:22,540 --> 00:00:23,700\nThen you fall asleep,\n\n10\n00:00:23,960 --> 00:00:25,210\nand the blinking stops.\n\n11\n00:00:25,580 --> 00:00:29,660\nNow the mucus, oil, dust and dead skin have nowhere to go.\n\n12\n00:00:30,010 --> 00:00:32,230\nThey drift into the corners of your eyes,\n\n13\n00:00:32,700 --> 00:00:34,480\nand overnight they dry out\n\n14\n00:00:34,540 --> 00:00:35,810\ninto crusty little flakes.\n\n15\n00:00:36,250 --> 00:00:37,590\nDoctors call it rheum.\n\n16\n00:00:37,890 --> 00:00:40,430\nAnd a little every morning is totally normal.\n\n17\n00:00:40,850 --> 00:00:44,250\nHonestly, it's just yesterday's cleanup, waiting for you.\n\n18\n00:00:44,590 --> 00:00:47,830\nSo what do you call it: sleep, eye boogers, or crust?\n\n",
-      "tg_msg": 1086
+      "tg_msg": 1086,
+      "approved_by": "auto",
+      "description_full": "What is the crusty 'sleep' in your eyes every morning? Eye crust, or rheum, is mucus, oil, dust and dead skin cells that your blinks normally wash away, but when you sleep the blinking stops, so it collects in the corners of your eyes and dries out.\n\nSources:\nhttps://health.clevelandclinic.org/why-your-eyes-are-crusty-in-the-morning/\nhttps://www.healthline.com/health/how-many-times-do-you-blink-a-day\n\nAnimated in the Kawaii Anime style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #eyes #humanbody #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/HJ6TTS98Tfo",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-11T08:24:04.356801+00:00",
+      "slot": "2026-11-18T00:15:00+00:00"
     }
   },
   "history": [
