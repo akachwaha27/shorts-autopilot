@@ -1,0 +1,648 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.76,
+  "text": "You wake up with dead skin glued in your eyes.",
+  "words": [
+   [
+    "you",
+    0.25
+   ],
+   [
+    "wake",
+    0.46
+   ],
+   [
+    "up",
+    0.74
+   ],
+   [
+    "with",
+    0.88
+   ],
+   [
+    "dead",
+    1.16
+   ],
+   [
+    "skin",
+    1.44
+   ],
+   [
+    "glued",
+    1.71
+   ],
+   [
+    "in",
+    2.06
+   ],
+   [
+    "your",
+    2.2
+   ],
+   [
+    "eyes",
+    2.48
+   ]
+  ]
+ },
+ {
+  "s": 3.2,
+  "e": 3.74,
+  "text": "Why?",
+  "words": [
+   [
+    "why",
+    3.2
+   ]
+  ]
+ },
+ {
+  "s": 4.31,
+  "e": 7.22,
+  "text": "All day, your eyes wear a thin film of tears,",
+  "words": [
+   [
+    "all",
+    4.31
+   ],
+   [
+    "day",
+    4.57
+   ],
+   [
+    "your",
+    4.83
+   ],
+   [
+    "eyes",
+    5.17
+   ],
+   [
+    "wear",
+    5.51
+   ],
+   [
+    "a",
+    5.86
+   ],
+   [
+    "thin",
+    5.94
+   ],
+   [
+    "film",
+    6.28
+   ],
+   [
+    "of",
+    6.63
+   ],
+   [
+    "tears",
+    6.8
+   ]
+  ]
+ },
+ {
+  "s": 7.59,
+  "e": 10.43,
+  "text": "made of water, sticky mucus and a little oil.",
+  "words": [
+   [
+    "made",
+    7.59
+   ],
+   [
+    "of",
+    7.92
+   ],
+   [
+    "water",
+    8.08
+   ],
+   [
+    "sticky",
+    8.49
+   ],
+   [
+    "mucus",
+    8.97
+   ],
+   [
+    "and",
+    9.38
+   ],
+   [
+    "a",
+    9.62
+   ],
+   [
+    "little",
+    9.7
+   ],
+   [
+    "oil",
+    10.18
+   ]
+  ]
+ },
+ {
+  "s": 10.9,
+  "e": 13.28,
+  "text": "Dust and old skin cells get trapped in it.",
+  "words": [
+   [
+    "dust",
+    10.9
+   ],
+   [
+    "and",
+    11.19
+   ],
+   [
+    "old",
+    11.4
+   ],
+   [
+    "skin",
+    11.62
+   ],
+   [
+    "cells",
+    11.91
+   ],
+   [
+    "get",
+    12.27
+   ],
+   [
+    "trapped",
+    12.48
+   ],
+   [
+    "in",
+    12.99
+   ],
+   [
+    "it",
+    13.13
+   ]
+  ]
+ },
+ {
+  "s": 13.72,
+  "e": 16.62,
+  "text": "But you blink about 15 to 20 times a minute.",
+  "words": [
+   [
+    "but",
+    13.72
+   ],
+   [
+    "you",
+    13.98
+   ],
+   [
+    "blink",
+    14.23
+   ],
+   [
+    "about",
+    14.66
+   ],
+   [
+    "15",
+    15.09
+   ],
+   [
+    "to",
+    15.26
+   ],
+   [
+    "20",
+    15.43
+   ],
+   [
+    "times",
+    15.6
+   ],
+   [
+    "a",
+    16.02
+   ],
+   [
+    "minute",
+    16.11
+   ]
+  ]
+ },
+ {
+  "s": 17.04,
+  "e": 19.35,
+  "text": "That's over 14,000 blinks a day,",
+  "words": [
+   [
+    "thats",
+    17.04
+   ],
+   [
+    "over",
+    17.52
+   ],
+   [
+    "14000",
+    17.9
+   ],
+   [
+    "blinks",
+    18.39
+   ],
+   [
+    "a",
+    18.96
+   ],
+   [
+    "day",
+    19.06
+   ]
+  ]
+ },
+ {
+  "s": 19.82,
+  "e": 22.1,
+  "text": "and every blink washes that gunk away.",
+  "words": [
+   [
+    "and",
+    19.82
+   ],
+   [
+    "every",
+    20.04
+   ],
+   [
+    "blink",
+    20.41
+   ],
+   [
+    "washes",
+    20.78
+   ],
+   [
+    "that",
+    21.22
+   ],
+   [
+    "gunk",
+    21.51
+   ],
+   [
+    "away",
+    21.81
+   ]
+  ]
+ },
+ {
+  "s": 22.54,
+  "e": 23.7,
+  "text": "Then you fall asleep,",
+  "words": [
+   [
+    "then",
+    22.54
+   ],
+   [
+    "you",
+    22.81
+   ],
+   [
+    "fall",
+    23.02
+   ],
+   [
+    "asleep",
+    23.29
+   ]
+  ]
+ },
+ {
+  "s": 23.96,
+  "e": 25.21,
+  "text": "and the blinking stops.",
+  "words": [
+   [
+    "and",
+    23.96
+   ],
+   [
+    "the",
+    24.16
+   ],
+   [
+    "blinking",
+    24.36
+   ],
+   [
+    "stops",
+    24.88
+   ]
+  ]
+ },
+ {
+  "s": 25.58,
+  "e": 29.66,
+  "text": "Now the mucus, oil, dust and dead skin have nowhere to go.",
+  "words": [
+   [
+    "now",
+    25.58
+   ],
+   [
+    "the",
+    25.86
+   ],
+   [
+    "mucus",
+    26.14
+   ],
+   [
+    "oil",
+    26.6
+   ],
+   [
+    "dust",
+    26.88
+   ],
+   [
+    "and",
+    27.25
+   ],
+   [
+    "dead",
+    27.53
+   ],
+   [
+    "skin",
+    27.9
+   ],
+   [
+    "have",
+    28.27
+   ],
+   [
+    "nowhere",
+    28.64
+   ],
+   [
+    "to",
+    29.29
+   ],
+   [
+    "go",
+    29.47
+   ]
+  ]
+ },
+ {
+  "s": 30.01,
+  "e": 32.23,
+  "text": "They drift into the corners of your eyes,",
+  "words": [
+   [
+    "they",
+    30.01
+   ],
+   [
+    "drift",
+    30.28
+   ],
+   [
+    "into",
+    30.62
+   ],
+   [
+    "the",
+    30.89
+   ],
+   [
+    "corners",
+    31.09
+   ],
+   [
+    "of",
+    31.56
+   ],
+   [
+    "your",
+    31.69
+   ],
+   [
+    "eyes",
+    31.96
+   ]
+  ]
+ },
+ {
+  "s": 32.7,
+  "e": 34.48,
+  "text": "and overnight they dry out",
+  "words": [
+   [
+    "and",
+    32.7
+   ],
+   [
+    "overnight",
+    32.95
+   ],
+   [
+    "they",
+    33.67
+   ],
+   [
+    "dry",
+    34.0
+   ],
+   [
+    "out",
+    34.24
+   ]
+  ]
+ },
+ {
+  "s": 34.54,
+  "e": 35.81,
+  "text": "into crusty little flakes.",
+  "words": [
+   [
+    "into",
+    34.54
+   ],
+   [
+    "crusty",
+    34.77
+   ],
+   [
+    "little",
+    35.12
+   ],
+   [
+    "flakes",
+    35.46
+   ]
+  ]
+ },
+ {
+  "s": 36.25,
+  "e": 37.59,
+  "text": "Doctors call it rheum.",
+  "words": [
+   [
+    "doctors",
+    36.25
+   ],
+   [
+    "call",
+    36.77
+   ],
+   [
+    "it",
+    37.07
+   ],
+   [
+    "rheum",
+    37.22
+   ]
+  ]
+ },
+ {
+  "s": 37.89,
+  "e": 40.43,
+  "text": "And a little every morning is totally normal.",
+  "words": [
+   [
+    "and",
+    37.89
+   ],
+   [
+    "a",
+    38.1
+   ],
+   [
+    "little",
+    38.17
+   ],
+   [
+    "every",
+    38.58
+   ],
+   [
+    "morning",
+    38.92
+   ],
+   [
+    "is",
+    39.4
+   ],
+   [
+    "totally",
+    39.54
+   ],
+   [
+    "normal",
+    40.02
+   ]
+  ]
+ },
+ {
+  "s": 40.85,
+  "e": 44.25,
+  "text": "Honestly, it's just yesterday's cleanup, waiting for you.",
+  "words": [
+   [
+    "honestly",
+    40.85
+   ],
+   [
+    "its",
+    41.46
+   ],
+   [
+    "just",
+    41.68
+   ],
+   [
+    "yesterdays",
+    41.98
+   ],
+   [
+    "cleanup",
+    42.74
+   ],
+   [
+    "waiting",
+    43.27
+   ],
+   [
+    "for",
+    43.8
+   ],
+   [
+    "you",
+    44.02
+   ]
+  ]
+ },
+ {
+  "s": 44.59,
+  "e": 47.83,
+  "text": "So what do you call it: sleep, eye boogers, or crust?",
+  "words": [
+   [
+    "so",
+    44.59
+   ],
+   [
+    "what",
+    44.76
+   ],
+   [
+    "do",
+    45.09
+   ],
+   [
+    "you",
+    45.26
+   ],
+   [
+    "call",
+    45.51
+   ],
+   [
+    "it",
+    45.84
+   ],
+   [
+    "sleep",
+    46.0
+   ],
+   [
+    "eye",
+    46.42
+   ],
+   [
+    "boogers",
+    46.67
+   ],
+   [
+    "or",
+    47.25
+   ],
+   [
+    "crust",
+    47.41
+   ]
+  ]
+ }
+]
