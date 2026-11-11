@@ -1,0 +1,696 @@
+[
+ {
+  "s": 0.25,
+  "e": 1.69,
+  "text": "Why does your cat knead you?",
+  "words": [
+   [
+    "why",
+    0.25
+   ],
+   [
+    "does",
+    0.45
+   ],
+   [
+    "your",
+    0.71
+   ],
+   [
+    "cat",
+    0.97
+   ],
+   [
+    "knead",
+    1.17
+   ],
+   [
+    "you",
+    1.5
+   ]
+  ]
+ },
+ {
+  "s": 2.19,
+  "e": 3.91,
+  "text": "It's a kitten trick it never quit.",
+  "words": [
+   [
+    "its",
+    2.19
+   ],
+   [
+    "a",
+    2.39
+   ],
+   [
+    "kitten",
+    2.46
+   ],
+   [
+    "trick",
+    2.86
+   ],
+   [
+    "it",
+    3.19
+   ],
+   [
+    "never",
+    3.32
+   ],
+   [
+    "quit",
+    3.65
+   ]
+  ]
+ },
+ {
+  "s": 4.37,
+  "e": 6.2,
+  "text": "Newborn kittens can barely see,",
+  "words": [
+   [
+    "newborn",
+    4.37
+   ],
+   [
+    "kittens",
+    4.86
+   ],
+   [
+    "can",
+    5.35
+   ],
+   [
+    "barely",
+    5.57
+   ],
+   [
+    "see",
+    5.99
+   ]
+  ]
+ },
+ {
+  "s": 6.41,
+  "e": 7.4,
+  "text": "but they can push.",
+  "words": [
+   [
+    "but",
+    6.41
+   ],
+   [
+    "they",
+    6.62
+   ],
+   [
+    "can",
+    6.91
+   ],
+   [
+    "push",
+    7.12
+   ]
+  ]
+ },
+ {
+  "s": 7.78,
+  "e": 10.11,
+  "text": "They press tiny front paws into their mom,",
+  "words": [
+   [
+    "they",
+    7.78
+   ],
+   [
+    "press",
+    8.05
+   ],
+   [
+    "tiny",
+    8.4
+   ],
+   [
+    "front",
+    8.67
+   ],
+   [
+    "paws",
+    9.01
+   ],
+   [
+    "into",
+    9.29
+   ],
+   [
+    "their",
+    9.56
+   ],
+   [
+    "mom",
+    9.9
+   ]
+  ]
+ },
+ {
+  "s": 10.5,
+  "e": 11.8,
+  "text": "left, right, left,",
+  "words": [
+   [
+    "left",
+    10.5
+   ],
+   [
+    "right",
+    10.9
+   ],
+   [
+    "left",
+    11.4
+   ]
+  ]
+ },
+ {
+  "s": 12.19,
+  "e": 13.75,
+  "text": "and that gets the milk flowing.",
+  "words": [
+   [
+    "and",
+    12.19
+   ],
+   [
+    "that",
+    12.38
+   ],
+   [
+    "gets",
+    12.63
+   ],
+   [
+    "the",
+    12.88
+   ],
+   [
+    "milk",
+    13.06
+   ],
+   [
+    "flowing",
+    13.31
+   ]
+  ]
+ },
+ {
+  "s": 14.16,
+  "e": 15.2,
+  "text": "Push, push, sip.",
+  "words": [
+   [
+    "push",
+    14.16
+   ],
+   [
+    "push",
+    14.54
+   ],
+   [
+    "sip",
+    14.92
+   ]
+  ]
+ },
+ {
+  "s": 15.53,
+  "e": 17.44,
+  "text": "Most cats just never outgrow it.",
+  "words": [
+   [
+    "most",
+    15.53
+   ],
+   [
+    "cats",
+    15.82
+   ],
+   [
+    "just",
+    16.11
+   ],
+   [
+    "never",
+    16.41
+   ],
+   [
+    "outgrow",
+    16.78
+   ],
+   [
+    "it",
+    17.29
+   ]
+  ]
+ },
+ {
+  "s": 17.82,
+  "e": 20.51,
+  "text": "Grown cats knead when they feel safe and calm,",
+  "words": [
+   [
+    "grown",
+    17.82
+   ],
+   [
+    "cats",
+    18.19
+   ],
+   [
+    "knead",
+    18.48
+   ],
+   [
+    "when",
+    18.84
+   ],
+   [
+    "they",
+    19.13
+   ],
+   [
+    "feel",
+    19.42
+   ],
+   [
+    "safe",
+    19.71
+   ],
+   [
+    "and",
+    20.0
+   ],
+   [
+    "calm",
+    20.22
+   ]
+  ]
+ },
+ {
+  "s": 21.08,
+  "e": 22.44,
+  "text": "so a cat kneading your lap",
+  "words": [
+   [
+    "so",
+    21.08
+   ],
+   [
+    "a",
+    21.21
+   ],
+   [
+    "cat",
+    21.28
+   ],
+   [
+    "kneading",
+    21.47
+   ],
+   [
+    "your",
+    21.99
+   ],
+   [
+    "lap",
+    22.25
+   ]
+  ]
+ },
+ {
+  "s": 22.53,
+  "e": 24.09,
+  "text": "is kind of a big compliment.",
+  "words": [
+   [
+    "is",
+    22.53
+   ],
+   [
+    "kind",
+    22.68
+   ],
+   [
+    "of",
+    22.96
+   ],
+   [
+    "a",
+    23.1
+   ],
+   [
+    "big",
+    23.17
+   ],
+   [
+    "compliment",
+    23.38
+   ]
+  ]
+ },
+ {
+  "s": 24.52,
+  "e": 26.35,
+  "text": "But there's a sneaky second job.",
+  "words": [
+   [
+    "but",
+    24.52
+   ],
+   [
+    "theres",
+    24.74
+   ],
+   [
+    "a",
+    25.18
+   ],
+   [
+    "sneaky",
+    25.25
+   ],
+   [
+    "second",
+    25.69
+   ],
+   [
+    "job",
+    26.13
+   ]
+  ]
+ },
+ {
+  "s": 26.71,
+  "e": 29.31,
+  "text": "Cats have scent glands between their paw pads.",
+  "words": [
+   [
+    "cats",
+    26.71
+   ],
+   [
+    "have",
+    26.98
+   ],
+   [
+    "scent",
+    27.26
+   ],
+   [
+    "glands",
+    27.6
+   ],
+   [
+    "between",
+    28.01
+   ],
+   [
+    "their",
+    28.49
+   ],
+   [
+    "paw",
+    28.83
+   ],
+   [
+    "pads",
+    29.03
+   ]
+  ]
+ },
+ {
+  "s": 29.75,
+  "e": 31.96,
+  "text": "Every push leaves a smell you can't notice,",
+  "words": [
+   [
+    "every",
+    29.75
+   ],
+   [
+    "push",
+    30.08
+   ],
+   [
+    "leaves",
+    30.34
+   ],
+   [
+    "a",
+    30.73
+   ],
+   [
+    "smell",
+    30.79
+   ],
+   [
+    "you",
+    31.12
+   ],
+   [
+    "cant",
+    31.31
+   ],
+   [
+    "notice",
+    31.57
+   ]
+  ]
+ },
+ {
+  "s": 32.34,
+  "e": 33.54,
+  "text": "but other cats can.",
+  "words": [
+   [
+    "but",
+    32.34
+   ],
+   [
+    "other",
+    32.58
+   ],
+   [
+    "cats",
+    32.98
+   ],
+   [
+    "can",
+    33.3
+   ]
+  ]
+ },
+ {
+  "s": 33.96,
+  "e": 36.1,
+  "text": "It's like a tiny stamp that says, mine.",
+  "words": [
+   [
+    "its",
+    33.96
+   ],
+   [
+    "like",
+    34.18
+   ],
+   [
+    "a",
+    34.48
+   ],
+   [
+    "tiny",
+    34.55
+   ],
+   [
+    "stamp",
+    34.85
+   ],
+   [
+    "that",
+    35.21
+   ],
+   [
+    "says",
+    35.51
+   ],
+   [
+    "mine",
+    35.81
+   ]
+  ]
+ },
+ {
+  "s": 36.54,
+  "e": 38.92,
+  "text": "Wild cats even knead soft grass",
+  "words": [
+   [
+    "wild",
+    36.54
+   ],
+   [
+    "cats",
+    36.91
+   ],
+   [
+    "even",
+    37.28
+   ],
+   [
+    "knead",
+    37.64
+   ],
+   [
+    "soft",
+    38.1
+   ],
+   [
+    "grass",
+    38.47
+   ]
+  ]
+ },
+ {
+  "s": 39.23,
+  "e": 41.07,
+  "text": "to make a comfy bed before a nap.",
+  "words": [
+   [
+    "to",
+    39.23
+   ],
+   [
+    "make",
+    39.38
+   ],
+   [
+    "a",
+    39.68
+   ],
+   [
+    "comfy",
+    39.75
+   ],
+   [
+    "bed",
+    40.12
+   ],
+   [
+    "before",
+    40.34
+   ],
+   [
+    "a",
+    40.78
+   ],
+   [
+    "nap",
+    40.85
+   ]
+  ]
+ },
+ {
+  "s": 41.47,
+  "e": 42.79,
+  "text": "So when your cat kneads you,",
+  "words": [
+   [
+    "so",
+    41.47
+   ],
+   [
+    "when",
+    41.59
+   ],
+   [
+    "your",
+    41.83
+   ],
+   [
+    "cat",
+    42.07
+   ],
+   [
+    "kneads",
+    42.25
+   ],
+   [
+    "you",
+    42.61
+   ]
+  ]
+ },
+ {
+  "s": 43.25,
+  "e": 44.55,
+  "text": "is it being a kitten again,",
+  "words": [
+   [
+    "is",
+    43.25
+   ],
+   [
+    "it",
+    43.38
+   ],
+   [
+    "being",
+    43.5
+   ],
+   [
+    "a",
+    43.81
+   ],
+   [
+    "kitten",
+    43.87
+   ],
+   [
+    "again",
+    44.24
+   ]
+  ]
+ },
+ {
+  "s": 44.7,
+  "e": 46.63,
+  "text": "or stamping you as its property?",
+  "words": [
+   [
+    "or",
+    44.7
+   ],
+   [
+    "stamping",
+    44.85
+   ],
+   [
+    "you",
+    45.44
+   ],
+   [
+    "as",
+    45.66
+   ],
+   [
+    "its",
+    45.81
+   ],
+   [
+    "property",
+    46.03
+   ]
+  ]
+ }
+]
