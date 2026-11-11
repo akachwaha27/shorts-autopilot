@@ -1057,5 +1057,17 @@
   "hook_score": 45,
   "title_score": 100,
   "notes": "unattended run, no storyboard step; 6 chapters, 31 scenes; base helpers reused from 20261027-electricity; added sheet rows L026-L028 from reference signals"
+ },
+ {
+  "date": "2026-11-11",
+  "id": "20261111-octopus-hearts",
+  "kind": "short",
+  "style": "Flat-Vector Science",
+  "topic": "Why does an octopus have three hearts?",
+  "title": "Why Does an Octopus Have 3 Hearts? 🐙",
+  "seconds": 49.5,
+  "words": 131,
+  "sheet_id": "S077",
+  "notes": "unattended run, no storyboard step; hook 57, title 100"
  }
 ]
