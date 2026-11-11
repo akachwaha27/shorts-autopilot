@@ -378,272 +378,6 @@
     }
   },
   "videos": {
-    "2026-11-05-102": {
-      "topic": {
-        "title": "Why do snakes flick their forked tongues?",
-        "format": "animated",
-        "angle": "Low-Poly Faceted"
-      },
-      "package": {
-        "title": "Snake Tongues Sample 100x More Air. Why Do They Flick? \ud83d\udc0d",
-        "description": "Why do snakes flick their forked tongues? The tongue collects scent particles for the Jacobson's organ in the roof of the mouth, and its two tips let a snake smell in stereo.\n\nSources:\nhttps://www.livescience.com/47146-explainer-why-do-snakes-flick-their-tongues.html\nhttps://www.britannica.com/story/smelling-in-stereo--the-real-reason-snakes-have-flicking-forkedtongues\nhttps://today.uconn.edu/?p=174171\n\nAnimated in the Low-Poly Faceted style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#snakes",
-          "#animals",
-          "#science"
-        ],
-        "tags": [
-          "why do snakes flick their tongues",
-          "snake tongue",
-          "forked tongue",
-          "jacobson's organ",
-          "vomeronasal organ",
-          "smelling in stereo",
-          "snake facts",
-          "how snakes smell",
-          "animal facts",
-          "reptiles",
-          "science explained",
-          "low poly animation",
-          "animal senses"
-        ],
-        "category": "27",
-        "pinned_comment": "If your tongue could smell, what would you follow first?",
-        "thumbnail_text": "Smell in stereo",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "A snake's tongue can't taste a thing, so why do you see it flick nonstop? Because it's a scent collector. Each flick grabs tiny particles, from the air and the ground. It pulls back in, and drops them inside the mouth. From there, they reach a special organ, in the roof of the mouth. That's where the smelling happens. Now look at the fork. The two tips spread apart, up to twice as wide as its head. So each tip samples a different spot, like your two ears. If the left tip smells stronger, dinner went left. That's smelling in stereo. In the air, the flicking tongue whips up tiny swirls, that pull smells in, sampling a hundred times more air, than a simple dip. If your tongue could smell, what would you follow first?",
-        "key_facts": [
-          "The tongue has no taste or smell receptors; those are in the vomeronasal (Jacobson's) organ in the roof of the mouth (Live Science)",
-          "Chemicals are deposited inside the mouth and reach the organ; X-ray work points to floor-of-mouth pads, Schwenk describes tip-to-organ delivery, so the script says only 'inside the mouth' then 'reach'",
-          "Tips can spread up to twice the head's width (Live Science)",
-          "Each tip compares sides so the brain senses which is stronger (Schwenk, Britannica)",
-          "Oscillating flicks create vortices and sample 100 times as much air as a simple downward extension (Live Science)"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Low-Poly Faceted"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261105-snake-tongue",
-      "redos": 0,
-      "updated": "2026-11-05T19:12:57.638619+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Low-Poly Faceted style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-05",
-        "name": "2026-11-05-102.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-05",
-        "name": "2026-11-05-102-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:02,100\nA snake's tongue can't taste a thing,\n\n2\n00:00:02,400 --> 00:00:04,540\nso why do you see it flick nonstop?\n\n3\n00:00:05,090 --> 00:00:06,610\nBecause it's a scent collector.\n\n4\n00:00:07,160 --> 00:00:09,210\nEach flick grabs tiny particles,\n\n5\n00:00:09,510 --> 00:00:11,050\nfrom the air and the ground.\n\n6\n00:00:11,600 --> 00:00:12,700\nIt pulls back in,\n\n7\n00:00:13,000 --> 00:00:14,780\nand drops them inside the mouth.\n\n8\n00:00:15,330 --> 00:00:17,510\nFrom there, they reach a special organ,\n\n9\n00:00:17,810 --> 00:00:19,200\nin the roof of the mouth.\n\n10\n00:00:19,750 --> 00:00:21,350\nThat's where the smelling happens.\n\n11\n00:00:21,900 --> 00:00:23,130\nNow look at the fork.\n\n12\n00:00:23,680 --> 00:00:25,050\nThe two tips spread apart,\n\n13\n00:00:25,350 --> 00:00:27,400\nup to twice as wide as its head.\n\n14\n00:00:27,950 --> 00:00:29,960\nSo each tip samples a different spot,\n\n15\n00:00:30,260 --> 00:00:31,510\nlike your two ears.\n\n16\n00:00:32,060 --> 00:00:33,830\nIf the left tip smells stronger,\n\n17\n00:00:34,130 --> 00:00:35,200\ndinner went left.\n\n18\n00:00:35,750 --> 00:00:37,250\nThat's smelling in stereo.\n\n19\n00:00:37,800 --> 00:00:38,590\nIn the air,\n\n20\n00:00:38,890 --> 00:00:41,150\nthe flicking tongue whips up tiny swirls,\n\n21\n00:00:41,450 --> 00:00:42,710\nthat pull smells in,\n\n22\n00:00:43,010 --> 00:00:44,970\nsampling a hundred times more air,\n\n23\n00:00:45,270 --> 00:00:46,420\nthan a simple dip.\n\n24\n00:00:46,970 --> 00:00:48,320\nIf your tongue could smell,\n\n25\n00:00:48,620 --> 00:00:50,020\nwhat would you follow first?\n\n",
-      "tg_msg": 1028,
-      "approved_by": "auto",
-      "description_full": "Why do snakes flick their forked tongues? The tongue collects scent particles for the Jacobson's organ in the roof of the mouth, and its two tips let a snake smell in stereo.\n\nSources:\nhttps://www.livescience.com/47146-explainer-why-do-snakes-flick-their-tongues.html\nhttps://www.britannica.com/story/smelling-in-stereo--the-real-reason-snakes-have-flicking-forkedtongues\nhttps://today.uconn.edu/?p=174171\n\nAnimated in the Low-Poly Faceted style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #snakes #animals #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Low-Poly Faceted style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/FOTCq9MrXRI",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-11-05T19:12:57.638636+00:00",
-      "slot": "2026-11-10T20:15:00+00:00"
-    },
-    "2026-11-05-103": {
-      "topic": {
-        "title": "Why do cows have a stomach with four compartments?",
-        "format": "animated",
-        "angle": "Kawaii Anime"
-      },
-      "package": {
-        "title": "Why Do Cows Spend 8 Hours a Day Chewing Burps? \ud83d\udc04",
-        "description": "Why do cows burp up their lunch and chew it again? A cow's one stomach has four compartments, and microbes in the giant rumen ferment tough grass that cows can't digest alone.\n\nSources:\nhttps://extension.msstate.edu/sites/default/files/publications/P2503_web.pdf\nhttps://extension.purdue.edu/news/county/crawford/2020/11/_docs/The-Digestive-Tract-of-the-Cow.pdf\nhttps://www.sciencelearn.org.nz/image_maps/104-ruminant-digestion\n\nAnimated in the Kawaii Anime style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#cows",
-          "#animalfacts",
-          "#science"
-        ],
-        "tags": [
-          "why do cows chew cud",
-          "cow stomach",
-          "four stomachs",
-          "rumen",
-          "ruminant digestion",
-          "cud",
-          "cow burps",
-          "methane",
-          "how cows digest grass",
-          "animal facts",
-          "cellulose",
-          "science explained",
-          "kawaii animation",
-          "zorbly ai"
-        ],
-        "category": "27",
-        "pinned_comment": "Would you chew your lunch twice, yes or no?",
-        "thumbnail_text": "BURPED LUNCH",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "Cows burp up their lunch on purpose, and you'd never guess why. Grass is really hard to digest. Its walls are made of cellulose, and cows can't break that down alone. So one stomach has four rooms. Room one is the rumen, a vat holding up to forty gallons. It's packed with tiny microbes, and they ferment the grass. Room two, the honeycomb, sorts the pieces. Big chunks go back up her throat, as a soggy ball called cud. She chews it again, for about eight hours a day. Fine mush slides into room three, where water gets squeezed out. Room four is the true stomach, full of acid, like yours. All that fermenting makes gas, hundreds of litres of methane a day, and she burps it out. So, would you chew your lunch twice?",
-        "key_facts": [
-          "One stomach with four compartments: rumen, reticulum, omasum, abomasum (MSU)",
-          "Rumen holds up to 40 gallons in a mature cow (MSU; other sources differ, hence 'up to')",
-          "Rumen microbes digest cellulose (MSU, Science Learning Hub)",
-          "Reticulum sorts small particles onward, larger stay for further digestion (MSU, Science Learning Hub)",
-          "Cows ruminate about a third of the day, ~8 hours (MSU; Purdue 35-40%)",
-          "Omasum absorbs water; abomasum is the true stomach with acid (all sources)",
-          "Cows burp 250-500 litres of methane a day (Science Learning Hub)"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Kawaii Anime"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261105-cow-stomach",
-      "redos": 0,
-      "updated": "2026-11-05T21:13:01.876752+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-05",
-        "name": "2026-11-05-103.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-05",
-        "name": "2026-11-05-103-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:02,370\nCows burp up their lunch on purpose,\n\n2\n00:00:02,670 --> 00:00:04,020\nand you'd never guess why.\n\n3\n00:00:04,570 --> 00:00:06,600\nGrass is really hard to digest.\n\n4\n00:00:07,150 --> 00:00:08,990\nIts walls are made of cellulose,\n\n5\n00:00:09,290 --> 00:00:11,300\nand cows can't break that down alone.\n\n6\n00:00:11,850 --> 00:00:13,770\nSo one stomach has four rooms.\n\n7\n00:00:14,320 --> 00:00:15,650\nRoom one is the rumen,\n\n8\n00:00:15,950 --> 00:00:18,110\na vat holding up to forty gallons.\n\n9\n00:00:18,660 --> 00:00:20,520\nIt's packed with tiny microbes,\n\n10\n00:00:20,820 --> 00:00:22,230\nand they ferment the grass.\n\n11\n00:00:22,780 --> 00:00:25,220\nRoom two, the honeycomb, sorts the pieces.\n\n12\n00:00:25,770 --> 00:00:27,580\nBig chunks go back up her throat,\n\n13\n00:00:27,880 --> 00:00:29,640\nas a soggy ball called cud.\n\n14\n00:00:30,190 --> 00:00:31,430\nShe chews it again,\n\n15\n00:00:31,730 --> 00:00:33,340\nfor about eight hours a day.\n\n16\n00:00:33,890 --> 00:00:35,910\nFine mush slides into room three,\n\n17\n00:00:36,210 --> 00:00:37,730\nwhere water gets squeezed out.\n\n18\n00:00:38,280 --> 00:00:40,170\nRoom four is the true stomach,\n\n19\n00:00:40,470 --> 00:00:42,190\nfull of acid, like yours.\n\n20\n00:00:42,740 --> 00:00:44,570\nAll that fermenting makes gas,\n\n21\n00:00:44,870 --> 00:00:47,140\nhundreds of litres of methane a day,\n\n22\n00:00:47,440 --> 00:00:48,570\nand she burps it out.\n\n23\n00:00:49,120 --> 00:00:50,950\nSo, would you chew your lunch twice?\n\n",
-      "tg_msg": 1030,
-      "approved_by": "auto",
-      "description_full": "Why do cows burp up their lunch and chew it again? A cow's one stomach has four compartments, and microbes in the giant rumen ferment tough grass that cows can't digest alone.\n\nSources:\nhttps://extension.msstate.edu/sites/default/files/publications/P2503_web.pdf\nhttps://extension.purdue.edu/news/county/crawford/2020/11/_docs/The-Digestive-Tract-of-the-Cow.pdf\nhttps://www.sciencelearn.org.nz/image_maps/104-ruminant-digestion\n\nAnimated in the Kawaii Anime style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #cows #animalfacts #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/2YHs3gLDYwc",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-11-05T21:13:01.876770+00:00",
-      "slot": "2026-11-11T00:15:00+00:00"
-    },
-    "2026-11-05-104": {
-      "topic": {
-        "title": "How do dolphins sleep without drowning?",
-        "format": "long",
-        "angle": "16-Bit Pixel Odyssey"
-      },
-      "package": {
-        "title": "How Do Dolphins Sleep 8 Hours a Day Without Drowning?",
-        "description": "How do dolphins sleep without drowning when every breath is a choice? They rest one half of the brain at a time with one eye open, and in a 2012 test a dolphin stayed alert for 15 days straight.\n\nSources:\nhttps://www.scientificamerican.com/article/how-do-whales-and-dolphin/\nhttps://www.sciencedaily.com/releases/2012/10/121017181244.htm\nhttps://www.mpg.de/10673637/frigatebirds-sleep\n\nAnimated in the 16-Bit Pixel Odyssey style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#dolphins",
-          "#animalfacts",
-          "#science"
-        ],
-        "tags": [
-          "how do dolphins sleep",
-          "dolphins sleep without drowning",
-          "unihemispheric sleep",
-          "half brain sleep",
-          "dolphin facts",
-          "dolphin sleep one eye open",
-          "animal sleep",
-          "why dolphins don't drown",
-          "frigatebird sleep",
-          "mallard duck one eye open",
-          "animal science explained",
-          "how animals sleep",
-          "marine mammals",
-          "pixel art explainer"
-        ],
-        "category": "27",
-        "pinned_comment": "If you could keep half your brain awake while the other half slept, what would you use the awake half for?",
-        "thumbnail_text": "HALF ASLEEP",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "You sleep with your whole brain. Dolphins can't: one full nap and they'd drown. So how do they sleep eight hours a day? You pass out at night, and your body keeps breathing without asking. A dolphin doesn't get that deal. Dolphins are mammals, so they breathe air, like you. But every breath is a choice. The blowhole on top of its head is a flap of skin, and scientists think it opens on purpose, not automatically. The dolphin swims up, opens it, breathes out and in, then snaps it shut. So picture one falling fully asleep at sea. Nobody's at the controls. The air stops coming, and the water's right there. So how do you rest a brain that can never switch off? You switch off half of it. It's called unihemispheric sleep, which is a big word for one side at a time. One half of the brain drops into slow, deep waves. The other half stays awake, at low power, running the breathing, and watching for trouble. And you can actually see it from the outside. When the left half sleeps, the right eye closes. When the right half sleeps, the left eye closes. After about two hours, they swap. Each side gets roughly four hours across the day, so a dolphin sleeps about a third of its day, around eight hours. So what does that look like? Two moves. The first is called logging. The dolphin floats at the surface, barely moving, looking exactly like a log. The second is slow swimming, in big circles. In one study of pool dolphins, most of them circled counterclockwise. Breathing slows down too, from around ten breaths a minute, to as few as three. And the open eye has a job. When two dolphins rest side by side, it's the eye that faces the partner. Now, you'd expect half asleep to mean half useless. Researchers tested that in twenty twelve. They had two dolphins spot targets with echolocation, continuously, day and night. Both kept going for five days, with no signs of getting tired. Then the female kept going, for fifteen days. Fifteen, with near-perfect accuracy. Nobody knows how much longer she could've gone, because the test just stopped. So scientists think this trick isn't only about breathing. It may be about staying alert, too. Then there are the newborns. A baby dolphin rests while its mother swims, getting towed along in her slipstream. She can't stop swimming for the first several weeks. One study said mothers and calves barely sleep for a month. Other researchers watched closely, and saw eyes closing during swim rest, so scientists are still arguing about that one. And dolphins aren't alone. Mallard ducks at the edge of a group, keep one eye open, pointed away from the others. Frigatebirds sleep while flying, on trips of up to ten days, averaging just forty-two minutes a day. Back on land, they sleep over twelve hours. So half a brain is a trick nature keeps reusing. One side rests, one side breathes, and nobody drowns. Next question: what actually happens when a jellyfish stings you? It has no brain at all, so who gives the order?",
-        "key_facts": [
-          "Dolphins are conscious breathers; the blowhole flap is thought to open under voluntary control",
-          "Unihemispheric sleep: one hemisphere sleeps and the opposite eye closes; sides swap after about two hours",
-          "Bottlenose dolphins sleep about 33% of the day by EEG, about four hours per hemisphere",
-          "Resting breaths fall from 8-12 to 3-7 a minute",
-          "2012 PLOS ONE: two dolphins echolocated for 5 days with no fatigue; the female went 15 days with near-perfect accuracy",
-          "Newborn sleep is disputed (Lyamin 2005 vs Sekiguchi and Gnone 2006)",
-          "Frigatebirds sleep 42 minutes a day in flight, over 12 hours on land"
-        ],
-        "voice": "Kokoro",
-        "format": "long",
-        "style": "16-Bit Pixel Odyssey"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261105-dolphin-sleep",
-      "redos": 0,
-      "updated": "2026-11-05T21:13:11.605085+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (16-Bit Pixel Odyssey style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-05",
-        "name": "2026-11-05-104.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-05",
-        "name": "2026-11-05-104-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:01,960\nYou sleep with your whole brain.\n\n2\n00:00:02,510 --> 00:00:05,410\nDolphins can't: one full nap and they'd drown.\n\n3\n00:00:05,960 --> 00:00:08,190\nSo how do they sleep eight hours a day?\n\n4\n00:00:08,740 --> 00:00:09,990\nYou pass out at night,\n\n5\n00:00:10,290 --> 00:00:12,570\nand your body keeps breathing without asking.\n\n6\n00:00:13,120 --> 00:00:14,860\nA dolphin doesn't get that deal.\n\n7\n00:00:15,410 --> 00:00:17,850\nDolphins are mammals, so they breathe air,\n\n8\n00:00:18,150 --> 00:00:18,950\nlike you.\n\n9\n00:00:19,500 --> 00:00:21,120\nBut every breath is a choice.\n\n10\n00:00:21,670 --> 00:00:24,640\nThe blowhole on top of its head is a flap of skin,\n\n11\n00:00:24,940 --> 00:00:27,320\nand scientists think it opens on purpose,\n\n12\n00:00:27,620 --> 00:00:28,800\nnot automatically.\n\n13\n00:00:29,350 --> 00:00:32,780\nThe dolphin swims up, opens it, breathes out and in,\n\n14\n00:00:33,080 --> 00:00:34,240\nthen snaps it shut.\n\n15\n00:00:34,790 --> 00:00:37,460\nSo picture one falling fully asleep at sea.\n\n16\n00:00:38,010 --> 00:00:39,710\nNobody's at the controls.\n\n17\n00:00:40,260 --> 00:00:41,520\nThe air stops coming,\n\n18\n00:00:41,820 --> 00:00:43,230\nand the water's right there.\n\n19\n00:00:43,780 --> 00:00:46,590\nSo how do you rest a brain that can never switch off?\n\n20\n00:00:47,140 --> 00:00:48,550\nYou switch off half of it.\n\n21\n00:00:49,100 --> 00:00:51,000\nIt's called unihemispheric sleep,\n\n22\n00:00:51,300 --> 00:00:53,670\nwhich is a big word for one side at a time.\n\n23\n00:00:54,220 --> 00:00:57,290\nOne half of the brain drops into slow, deep waves.\n\n24\n00:00:57,840 --> 00:01:00,440\nThe other half stays awake, at low power,\n\n25\n00:01:00,740 --> 00:01:01,820\nrunning the breathing,\n\n26\n00:01:02,120 --> 00:01:03,490\nand watching for trouble.\n\n27\n00:01:04,040 --> 00:01:06,320\nAnd you can actually see it from the outside.\n\n28\n00:01:06,870 --> 00:01:09,690\nWhen the left half sleeps, the right eye closes.\n\n29\n00:01:10,240 --> 00:01:13,050\nWhen the right half sleeps, the left eye closes.\n\n30\n00:01:13,600 --> 00:01:15,500\nAfter about two hours, they swap.\n\n31\n00:01:16,050 --> 00:01:19,040\nEach side gets roughly four hours across the day,\n\n32\n00:01:19,340 --> 00:01:23,370\nso a dolphin sleeps about a third of its day, around eight hours.\n\n33\n00:01:23,920 --> 00:01:25,400\nSo what does that look like?\n\n34\n00:01:25,950 --> 00:01:26,790\nTwo moves.\n\n35\n00:01:27,340 --> 00:01:28,910\nThe first is called logging.\n\n36\n00:01:29,460 --> 00:01:32,400\nThe dolphin floats at the surface, barely moving,\n\n37\n00:01:32,700 --> 00:01:34,360\nlooking exactly like a log.\n\n38\n00:01:34,910 --> 00:01:37,710\nThe second is slow swimming, in big circles.\n\n39\n00:01:38,260 --> 00:01:40,280\nIn one study of pool dolphins,\n\n40\n00:01:40,580 --> 00:01:43,080\nmost of them circled counterclockwise.\n\n41\n00:01:43,630 --> 00:01:45,230\nBreathing slows down too,\n\n42\n00:01:45,530 --> 00:01:47,210\nfrom around ten breaths a minute,\n\n43\n00:01:47,510 --> 00:01:48,770\nto as few as three.\n\n44\n00:01:49,320 --> 00:01:51,190\nAnd the open eye has a job.\n\n45\n00:01:51,740 --> 00:01:53,930\nWhen two dolphins rest side by side,\n\n46\n00:01:54,230 --> 00:01:56,310\nit's the eye that faces the partner.\n\n47\n00:01:56,860 --> 00:01:59,800\nNow, you'd expect half asleep to mean half useless.\n\n48\n00:02:00,350 --> 00:02:02,580\nResearchers tested that in twenty twelve.\n\n49\n00:02:03,130 --> 00:02:06,180\nThey had two dolphins spot targets with echolocation,\n\n50\n00:02:06,480 --> 00:02:08,160\ncontinuously, day and night.\n\n51\n00:02:08,710 --> 00:02:10,720\nBoth kept going for five days,\n\n52\n00:02:11,020 --> 00:02:12,960\nwith no signs of getting tired.\n\n53\n00:02:13,510 --> 00:02:14,990\nThen the female kept going,\n\n54\n00:02:15,290 --> 00:02:16,470\nfor fifteen days.\n\n55\n00:02:17,020 --> 00:02:19,270\nFifteen, with near-perfect accuracy.\n\n56\n00:02:19,820 --> 00:02:22,600\nNobody knows how much longer she could've gone,\n\n57\n00:02:22,900 --> 00:02:24,410\nbecause the test just stopped.\n\n58\n00:02:24,960 --> 00:02:28,340\nSo scientists think this trick isn't only about breathing.\n\n59\n00:02:28,890 --> 00:02:30,660\nIt may be about staying alert, too.\n\n60\n00:02:31,210 --> 00:02:32,830\nThen there are the newborns.\n\n61\n00:02:33,380 --> 00:02:35,960\nA baby dolphin rests while its mother swims,\n\n62\n00:02:36,260 --> 00:02:38,260\ngetting towed along in her slipstream.\n\n63\n00:02:38,810 --> 00:02:41,520\nShe can't stop swimming for the first several weeks.\n\n64\n00:02:42,070 --> 00:02:45,570\nOne study said mothers and calves barely sleep for a month.\n\n65\n00:02:46,120 --> 00:02:48,010\nOther researchers watched closely,\n\n66\n00:02:48,310 --> 00:02:50,590\nand saw eyes closing during swim rest,\n\n67\n00:02:50,890 --> 00:02:53,640\nso scientists are still arguing about that one.\n\n68\n00:02:54,190 --> 00:02:55,700\nAnd dolphins aren't alone.\n\n69\n00:02:56,250 --> 00:02:58,160\nMallard ducks at the edge of a group,\n\n70\n00:02:58,460 --> 00:03:01,510\nkeep one eye open, pointed away from the others.\n\n71\n00:03:02,060 --> 00:03:03,910\nFrigatebirds sleep while flying,\n\n72\n00:03:04,210 --> 00:03:05,940\non trips of up to ten days,\n\n73\n00:03:06,240 --> 00:03:08,480\naveraging just forty-two minutes a day.\n\n74\n00:03:09,030 --> 00:03:11,620\nBack on land, they sleep over twelve hours.\n\n75\n00:03:12,170 --> 00:03:15,200\nSo half a brain is a trick nature keeps reusing.\n\n76\n00:03:15,750 --> 00:03:18,140\nOne side rests, one side breathes,\n\n77\n00:03:18,440 --> 00:03:19,750\nand nobody drowns.\n\n78\n00:03:20,300 --> 00:03:24,160\nNext question: what actually happens when a jellyfish stings you?\n\n79\n00:03:24,710 --> 00:03:26,110\nIt has no brain at all,\n\n80\n00:03:26,410 --> 00:03:27,700\nso who gives the order?\n\n",
-      "tg_msg": 1031,
-      "approved_by": "auto",
-      "description_full": "How do dolphins sleep without drowning when every breath is a choice? They rest one half of the brain at a time with one eye open, and in a 2012 test a dolphin stayed alert for 15 days straight.\n\nSources:\nhttps://www.scientificamerican.com/article/how-do-whales-and-dolphin/\nhttps://www.sciencedaily.com/releases/2012/10/121017181244.htm\nhttps://www.mpg.de/10673637/frigatebirds-sleep\n\nAnimated in the 16-Bit Pixel Odyssey style.\n\nFollow Zorbly AI for a new Short every day.\n\n#dolphins #animalfacts #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (16-Bit Pixel Odyssey style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/aY55i3SifcE",
-          "private \u00b7 thumbnail \u2705"
-        ]
-      },
-      "uploaded_at": "2026-11-05T21:13:11.605102+00:00",
-      "slot": "2026-11-11T02:15:00+00:00"
-    },
     "2026-11-05-105": {
       "topic": {
         "title": "Why does your foot fall asleep?",
@@ -3104,12 +2838,12 @@
         "format": "animated",
         "style": "Cut-Paper Diorama"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261111-cat-kneading",
       "redos": 0,
-      "updated": "2026-11-11T16:37:18.894883+00:00",
+      "updated": "2026-11-11T21:26:42.366524+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Cut-Paper Diorama style). Voice: Kokoro text-to-speech."
       ],
@@ -3124,7 +2858,29 @@
         "name": "2026-11-11-102-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:01,690\nWhy does your cat knead you?\n\n2\n00:00:02,190 --> 00:00:03,910\nIt's a kitten trick it never quit.\n\n3\n00:00:04,370 --> 00:00:06,200\nNewborn kittens can barely see,\n\n4\n00:00:06,410 --> 00:00:07,400\nbut they can push.\n\n5\n00:00:07,780 --> 00:00:10,110\nThey press tiny front paws into their mom,\n\n6\n00:00:10,500 --> 00:00:11,800\nleft, right, left,\n\n7\n00:00:12,190 --> 00:00:13,750\nand that gets the milk flowing.\n\n8\n00:00:14,160 --> 00:00:15,200\nPush, push, sip.\n\n9\n00:00:15,530 --> 00:00:17,440\nMost cats just never outgrow it.\n\n10\n00:00:17,820 --> 00:00:20,510\nGrown cats knead when they feel safe and calm,\n\n11\n00:00:21,080 --> 00:00:22,440\nso a cat kneading your lap\n\n12\n00:00:22,530 --> 00:00:24,090\nis kind of a big compliment.\n\n13\n00:00:24,520 --> 00:00:26,350\nBut there's a sneaky second job.\n\n14\n00:00:26,710 --> 00:00:29,310\nCats have scent glands between their paw pads.\n\n15\n00:00:29,750 --> 00:00:31,960\nEvery push leaves a smell you can't notice,\n\n16\n00:00:32,340 --> 00:00:33,540\nbut other cats can.\n\n17\n00:00:33,960 --> 00:00:36,100\nIt's like a tiny stamp that says, mine.\n\n18\n00:00:36,540 --> 00:00:38,920\nWild cats even knead soft grass\n\n19\n00:00:39,230 --> 00:00:41,070\nto make a comfy bed before a nap.\n\n20\n00:00:41,470 --> 00:00:42,790\nSo when your cat kneads you,\n\n21\n00:00:43,250 --> 00:00:44,550\nis it being a kitten again,\n\n22\n00:00:44,700 --> 00:00:46,630\nor stamping you as its property?\n\n",
-      "tg_msg": 1089
+      "tg_msg": 1089,
+      "approved_by": "auto",
+      "description_full": "Why do cats knead? Kneading, or making biscuits, starts when nursing kittens press their paws on their mother to get milk flowing, and many adult cats keep doing it when they feel safe and calm, while scent glands between their paw pads leave a smell that marks you as theirs.\n\nSources:\nhttps://www.livescience.com/animals/cats/why-do-cats-knead\nhttps://www.petmd.com/cat/behavior/why-do-cats-knead\nhttps://vcahospitals.com/resources/behavior-cat/true-or-false-do-cats-knead\n\nAnimated in the Cut-Paper Diorama style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #cats #catfacts #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Cut-Paper Diorama style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/5s9B97ayPGE",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-11T21:26:42.366541+00:00",
+      "slot": "2026-11-18T02:15:00+00:00"
     },
     "2026-11-11-103": {
       "topic": {
@@ -3172,12 +2928,12 @@
         "format": "animated",
         "style": "Flat-Vector Science"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261111-octopus-hearts",
       "redos": 0,
-      "updated": "2026-11-11T16:37:37.660236+00:00",
+      "updated": "2026-11-11T21:26:46.870462+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech."
       ],
@@ -3192,7 +2948,29 @@
         "name": "2026-11-11-103-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:01,850\nThree hearts, blue blood,\n\n2\n00:00:02,310 --> 00:00:04,890\nand you'd never guess why one octopus needs 3.\n\n3\n00:00:05,300 --> 00:00:07,470\nTwo of the hearts sit right by the gills.\n\n4\n00:00:07,850 --> 00:00:10,200\nTheir only job is pushing blood through them,\n\n5\n00:00:10,710 --> 00:00:13,120\nso it can grab oxygen from the water.\n\n6\n00:00:13,520 --> 00:00:15,360\nThe third heart is the big one.\n\n7\n00:00:15,780 --> 00:00:18,300\nIt sends that fresh blood out to the whole body.\n\n8\n00:00:18,680 --> 00:00:20,110\nSo why not just one?\n\n9\n00:00:20,640 --> 00:00:24,150\nOctopus blood carries oxygen with copper, not iron.\n\n10\n00:00:24,500 --> 00:00:26,330\nThat copper is what makes it blue,\n\n11\n00:00:26,830 --> 00:00:29,610\nand it's worse at holding oxygen than ours.\n\n12\n00:00:30,020 --> 00:00:32,660\nSo the octopus needs extra pumping power.\n\n13\n00:00:33,120 --> 00:00:34,380\nNow the weird part.\n\n14\n00:00:34,730 --> 00:00:36,090\nWhen an octopus swims,\n\n15\n00:00:36,500 --> 00:00:39,210\nthat main body heart actually stops beating.\n\n16\n00:00:39,590 --> 00:00:41,510\nSwimming tires it out fast,\n\n17\n00:00:41,970 --> 00:00:44,730\nwhich is why octopuses would much rather crawl.\n\n18\n00:00:45,200 --> 00:00:46,540\nIf you had three hearts,\n\n19\n00:00:46,860 --> 00:00:48,470\nwhat would you do with the spare one?\n\n",
-      "tg_msg": 1090
+      "tg_msg": 1090,
+      "approved_by": "auto",
+      "description_full": "Why does an octopus have three hearts? Two branchial hearts pump blood through the gills, a third systemic heart sends it around the body, and because octopus blood carries oxygen with copper-based hemocyanin (which makes it blue), it needs that extra pumping power, while the body heart even stops beating when the octopus swims.\n\nSources:\nhttps://www.livescience.com/how-many-hearts-does-an-octopus-have\nhttps://www.sciencefocus.com/nature/why-does-an-octopus-have-more-than-one-heart\nhttps://www.scienceabc.com/nature/animals/why-do-octopuses-have-three-hearts\n\nAnimated in the Flat-Vector Science style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #octopus #animalfacts #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/LU9RFPFjYUw",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-11T21:26:46.870479+00:00",
+      "slot": "2026-11-18T17:15:00+00:00"
     },
     "2026-11-11-104": {
       "topic": {
@@ -3246,12 +3024,12 @@
         "format": "long",
         "style": "Synthwave Outrun"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261111-pigeon-homing",
       "redos": 0,
-      "updated": "2026-11-11T16:37:48.638646+00:00",
+      "updated": "2026-11-11T21:26:54.809634+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Synthwave Outrun style). Voice: Kokoro text-to-speech."
       ],
@@ -3266,7 +3044,88 @@
         "name": "2026-11-11-104-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:03,950\nTake a pigeon six hundred miles from home and let it go.\n\n2\n00:00:04,360 --> 00:00:05,830\nIt'll be back the same day.\n\n3\n00:00:06,210 --> 00:00:08,550\nNo map, no phone, no GPS.\n\n4\n00:00:08,970 --> 00:00:11,000\nAnd nobody fully knows how it does it.\n\n5\n00:00:11,390 --> 00:00:13,560\nSo how does a bird that small know the way?\n\n6\n00:00:14,010 --> 00:00:15,890\nLet's take a ride along its route.\n\n7\n00:00:16,350 --> 00:00:18,990\nPeople figured out this trick a long time ago.\n\n8\n00:00:19,390 --> 00:00:23,030\nThe ancient Egyptians and Romans carried pigeons on trips\n\n9\n00:00:23,410 --> 00:00:25,160\nand let them go with messages.\n\n10\n00:00:25,610 --> 00:00:30,430\nBack in 44 BC, a Roman general sent his notes by pigeon.\n\n11\n00:00:30,860 --> 00:00:31,890\nHere's the secret.\n\n12\n00:00:32,240 --> 00:00:34,190\nAny pigeon can find its own home.\n\n13\n00:00:34,580 --> 00:00:36,130\nBreeders just start them young,\n\n14\n00:00:36,590 --> 00:00:39,350\nwith short practice flights from a mile or two away,\n\n15\n00:00:39,760 --> 00:00:41,180\nthen farther and farther.\n\n16\n00:00:41,650 --> 00:00:44,120\nScientists think a pigeon needs two tools.\n\n17\n00:00:44,490 --> 00:00:46,670\nA compass, to tell which way is which.\n\n18\n00:00:47,140 --> 00:00:49,520\nAnd a map, to know where home actually is.\n\n19\n00:00:49,950 --> 00:00:51,450\nLet's start with the compass.\n\n20\n00:00:51,830 --> 00:00:54,650\nOn a sunny day, a pigeon steers by the sun.\n\n21\n00:00:55,120 --> 00:00:57,630\nBut the sun moves fifteen degrees every hour,\n\n22\n00:00:58,130 --> 00:01:00,450\nso the bird has to know what time it is.\n\n23\n00:01:00,860 --> 00:01:05,380\nDecades ago, a scientist named William Keeton played a sneaky trick.\n\n24\n00:01:05,790 --> 00:01:08,750\nHe kept pigeons under lamps that ran six hours off.\n\n25\n00:01:09,100 --> 00:01:11,060\nThen he let them go on a sunny day.\n\n26\n00:01:11,530 --> 00:01:12,360\nHome was west,\n\n27\n00:01:12,550 --> 00:01:13,900\nbut the birds flew north.\n\n28\n00:01:14,280 --> 00:01:15,990\nThey were off by ninety degrees,\n\n29\n00:01:16,410 --> 00:01:19,180\nexactly what a six-hour mistake would cause.\n\n30\n00:01:19,570 --> 00:01:21,600\nSo the sun really is their compass.\n\n31\n00:01:22,030 --> 00:01:23,640\nBut what about cloudy days?\n\n32\n00:01:24,110 --> 00:01:25,420\nPigeons still get home.\n\n33\n00:01:25,800 --> 00:01:28,250\nKeeton tried tiny magnets on their backs.\n\n34\n00:01:28,720 --> 00:01:30,980\nIn sunshine, the magnets did nothing.\n\n35\n00:01:31,380 --> 00:01:33,640\nUnder clouds, those birds got lost.\n\n36\n00:01:34,030 --> 00:01:35,610\nSo pigeons have a backup.\n\n37\n00:01:35,990 --> 00:01:38,180\nThey can feel Earth's magnetic field.\n\n38\n00:01:38,650 --> 00:01:39,780\nA compass is great,\n\n39\n00:01:40,290 --> 00:01:42,690\nbut it's useless if you don't know where home is.\n\n40\n00:01:43,120 --> 00:01:44,320\nSo where's the map?\n\n41\n00:01:44,820 --> 00:01:47,440\nMany scientists think it's up the pigeon's nose.\n\n42\n00:01:47,860 --> 00:01:48,430\nPigeons that can't smell\n\n43\n00:01:48,490 --> 00:01:51,560\nget lost when they're released somewhere new.\n\n44\n00:01:51,940 --> 00:01:55,440\nThe idea is that every region has its own mix of smells,\n\n45\n00:01:55,850 --> 00:01:57,420\ncarried along by the wind.\n\n46\n00:01:57,850 --> 00:01:59,720\nA young pigeon sitting in its loft\n\n47\n00:01:59,780 --> 00:02:02,670\nlearns which smells blow in from which direction.\n\n48\n00:02:03,060 --> 00:02:05,420\nSmell the forest, and home is that way.\n\n49\n00:02:05,820 --> 00:02:08,730\nSome researchers think pigeons might also hear\n\n50\n00:02:08,790 --> 00:02:11,030\nsuper-low sounds that travel for miles,\n\n51\n00:02:11,550 --> 00:02:13,040\nbut that's still being tested.\n\n52\n00:02:13,450 --> 00:02:15,110\nNow here's the funniest part.\n\n53\n00:02:15,480 --> 00:02:18,010\nClose to home, pigeons switch to their eyes.\n\n54\n00:02:18,360 --> 00:02:22,160\nOxford scientists put tiny GPS trackers on pigeons.\n\n55\n00:02:22,500 --> 00:02:24,320\nAnd the birds followed the roads.\n\n56\n00:02:24,710 --> 00:02:26,320\nThey flew straight down a highway,\n\n57\n00:02:26,790 --> 00:02:28,110\nturned at the traffic lights,\n\n58\n00:02:28,360 --> 00:02:30,090\nand even went around a roundabout.\n\n59\n00:02:30,540 --> 00:02:33,780\nIt's easier than thinking, so they just follow the road.\n\n60\n00:02:34,210 --> 00:02:35,400\nSo how good are they?\n\n61\n00:02:35,860 --> 00:02:39,390\nA racing pigeon averages about fifty miles an hour.\n\n62\n00:02:39,750 --> 00:02:41,780\nWith a tailwind, it can hit ninety.\n\n63\n00:02:42,220 --> 00:02:44,350\nSome races run six hundred miles,\n\n64\n00:02:44,520 --> 00:02:47,760\nand the longest have gone over a thousand miles.\n\n65\n00:02:48,160 --> 00:02:49,360\nSun for the compass.\n\n66\n00:02:49,740 --> 00:02:51,480\nMagnetism when it's cloudy.\n\n67\n00:02:51,850 --> 00:02:52,920\nSmell for the map.\n\n68\n00:02:53,290 --> 00:02:55,320\nAnd roads for the last few miles.\n\n69\n00:02:55,740 --> 00:03:00,190\nFour senses, one tiny brain, and it still beats your phone's battery.\n\n70\n00:03:00,640 --> 00:03:02,690\nNext time, your bones are alive.\n\n71\n00:03:03,060 --> 00:03:04,970\nSo how do they rebuild themselves?\n\n",
-      "tg_msg": 1091
+      "tg_msg": 1091,
+      "approved_by": "auto",
+      "description_full": "Homing pigeons can find their loft from hundreds of miles away using a sun compass, a magnetic sense on cloudy days, a smell map carried on the wind, and roads and landmarks for the last few miles. We look at William Keeton's clock-shift trick that sent pigeons 90 degrees off course, the tiny magnets that got them lost under clouds, the Oxford GPS study that caught pigeons following highways and roundabouts, and how fast racing pigeons really fly.\n\nSources:\nhttps://digfir-published.macmillanusa.com/hlw/hlw_ch45_5.html\nhttps://theconversation.com/explainer-how-do-homing-pigeons-navigate-25633\nhttps://www.earthdate.org/episodes/homing-pigeons\n\nAnimated in the Synthwave Outrun style.\n\nFollow Zorbly AI for a new Short every day.\n\n#pigeons #animals #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Synthwave Outrun style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/oU660uvq-js",
+          "private \u00b7 thumbnail \u2705"
+        ]
+      },
+      "uploaded_at": "2026-11-11T21:26:54.809652+00:00",
+      "slot": "2026-11-18T20:15:00+00:00"
+    },
+    "2026-11-11-105": {
+      "topic": {
+        "title": "Why do crabs walk sideways?",
+        "format": "animated",
+        "angle": "Low-Poly Faceted"
+      },
+      "package": {
+        "title": "Why Do Crabs Walk Sideways? (8 Legs, 1 Hinge) \ud83e\udd80",
+        "description": "Why do crabs walk sideways? A crab's wide, flat body stiffens its shoulder joints, so its legs bend at a simple hinge that only swings out to the side, which makes sideways scuttling far faster than shuffling forward, and a 2026 study of 50 crab species suggests the trick evolved just once, about 200 million years ago.\n\nSources:\nhttps://www.sciencefocus.com/nature/why-do-crabs-walk-sideways\nhttps://www.sciencedaily.com/releases/2026/05/260501052844.htm\nhttps://www.smithsonianmag.com/smart-news/when-did-crabs-evolve-their-iconic-sideways-scuttle-scientist-traced-it-to-a-200-million-year-old-common-ancestor-180988765/\n\nAnimated in the Low-Poly Faceted style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#crabs",
+          "#animalfacts",
+          "#science"
+        ],
+        "tags": [
+          "why do crabs walk sideways",
+          "crabs walk sideways",
+          "crab sideways walking",
+          "crab legs",
+          "crab joints",
+          "how crabs walk",
+          "crab evolution",
+          "crab facts",
+          "ocean animals",
+          "beach animals",
+          "animal facts",
+          "weird animal facts",
+          "science explained",
+          "marine biology"
+        ],
+        "category": "27",
+        "pinned_comment": "If your knees bent sideways, where would you scuttle first?",
+        "thumbnail_text": "THE KNEES",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "Why do crabs walk sideways? You'd never guess it's their knees. A crab's body is wide and flat, perfect for squeezing under rocks. But that shape stiffens its shoulder joints. So the real bending happens one joint down, a simple hinge, like your knee, that only swings out to the side. Eight walking legs, all hinged that way. Going forward, a crab can only shuffle. Sideways, those hinges swing wide, and it zooms. It can dart left or right in a flash, so a hungry gull can't guess where it's going. Scientists filmed fifty kinds of crabs. Thirty-five of them walked sideways. They think the trick showed up just once, about two hundred million years ago. So if your knees bent sideways, where would you scuttle first?",
+        "key_facts": [
+          "A crab's wide, flat body restricts the shoulder joint of each leg (BBC Science Focus)",
+          "The second leg joint is a simple hinge, like a knee, that only bends sideways, so sideways walking is much faster (BBC Science Focus)",
+          "Crabs have eight walking legs plus two claws",
+          "Taniguchi et al. (eLife 2026) filmed 50 true crab species: 35 moved mainly sideways, 15 forward",
+          "Sideways walking likely evolved once, about 200 million years ago, at the base of Eubrachyura",
+          "Moving sideways lets crabs dart either way, making their path harder for predators to predict"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Low-Poly Faceted"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261111-crab-sideways",
+      "redos": 0,
+      "updated": "2026-11-11T21:26:30.600701+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Low-Poly Faceted style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-11",
+        "name": "2026-11-11-105.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-11",
+        "name": "2026-11-11-105-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:02,050\nWhy do crabs walk sideways?\n\n2\n00:00:02,520 --> 00:00:04,250\nYou'd never guess it's their knees.\n\n3\n00:00:04,690 --> 00:00:06,740\nA crab's body is wide and flat,\n\n4\n00:00:07,250 --> 00:00:09,170\nperfect for squeezing under rocks.\n\n5\n00:00:09,520 --> 00:00:11,770\nBut that shape stiffens its shoulder joints.\n\n6\n00:00:12,150 --> 00:00:14,650\nSo the real bending happens one joint down,\n\n7\n00:00:15,250 --> 00:00:17,080\na simple hinge, like your knee,\n\n8\n00:00:17,480 --> 00:00:19,440\nthat only swings out to the side.\n\n9\n00:00:19,840 --> 00:00:22,260\nEight walking legs, all hinged that way.\n\n10\n00:00:22,680 --> 00:00:25,160\nGoing forward, a crab can only shuffle.\n\n11\n00:00:25,610 --> 00:00:27,620\nSideways, those hinges swing wide,\n\n12\n00:00:27,870 --> 00:00:28,730\nand it zooms.\n\n13\n00:00:29,110 --> 00:00:31,240\nIt can dart left or right in a flash,\n\n14\n00:00:31,620 --> 00:00:34,110\nso a hungry gull can't guess where it's going.\n\n15\n00:00:34,480 --> 00:00:36,980\nScientists filmed fifty kinds of crabs.\n\n16\n00:00:37,330 --> 00:00:39,350\nThirty-five of them walked sideways.\n\n17\n00:00:39,760 --> 00:00:41,880\nThey think the trick showed up just once,\n\n18\n00:00:42,280 --> 00:00:44,360\nabout two hundred million years ago.\n\n19\n00:00:44,720 --> 00:00:46,470\nSo if your knees bent sideways,\n\n20\n00:00:46,840 --> 00:00:48,290\nwhere would you scuttle first?\n\n",
+      "tg_msg": 1092
     }
   },
   "history": [
@@ -3446,7 +3305,8 @@
     "drop/20261111-eye-crust": "2026-11-11-101",
     "drop/20261111-cat-kneading": "2026-11-11-102",
     "drop/20261111-octopus-hearts": "2026-11-11-103",
-    "drop/20261111-pigeon-homing": "2026-11-11-104"
+    "drop/20261111-pigeon-homing": "2026-11-11-104",
+    "drop/20261111-crab-sideways": "2026-11-11-105"
   },
   "refs_day": "2026-11-11"
 }
