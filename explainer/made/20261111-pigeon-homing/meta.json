@@ -1,0 +1,44 @@
+{
+ "kind": "long",
+ "title": "How Do Pigeons Fly 600 Miles Home?",
+ "description": "Homing pigeons can find their loft from hundreds of miles away using a sun compass, a magnetic sense on cloudy days, a smell map carried on the wind, and roads and landmarks for the last few miles. We look at William Keeton's clock-shift trick that sent pigeons 90 degrees off course, the tiny magnets that got them lost under clouds, the Oxford GPS study that caught pigeons following highways and roundabouts, and how fast racing pigeons really fly.\n\nSources:\nhttps://digfir-published.macmillanusa.com/hlw/hlw_ch45_5.html\nhttps://theconversation.com/explainer-how-do-homing-pigeons-navigate-25633\nhttps://www.earthdate.org/episodes/homing-pigeons\n\nAnimated in the Synthwave Outrun style.",
+ "hashtags": [
+  "#pigeons",
+  "#animals",
+  "#science"
+ ],
+ "tags": [
+  "homing pigeon",
+  "how do homing pigeons navigate",
+  "pigeon navigation",
+  "how do pigeons find their way home",
+  "racing pigeon",
+  "pigeon sun compass",
+  "pigeon magnetic field",
+  "pigeons follow roads",
+  "clock shift experiment",
+  "animal navigation",
+  "bird facts",
+  "animal facts",
+  "animal explainer",
+  "synthwave",
+  "zorbly ai"
+ ],
+ "pinned_comment": "Which sense surprised you most: the sun compass, the magnetic backup, the smell map or the roads?",
+ "thumbnail_text": "NO MAP. NO GPS.",
+ "style": "Synthwave Outrun",
+ "topic": "How do homing pigeons find their way home from hundreds of miles away?",
+ "script": "Take a pigeon six hundred miles from home and let it go.\nIt'll be back the same day.\nNo map, no phone, no GPS.\nAnd nobody fully knows how it does it.\nSo how does a bird that small know the way?\nLet's take a ride along its route.\nPeople figured out this trick a long time ago.\nThe ancient Egyptians and Romans carried pigeons on trips\nand let them go with messages.\nBack in 44 BC, a Roman general sent his notes by pigeon.\nHere's the secret.\nAny pigeon can find its own home.\nBreeders just start them young,\nwith short practice flights from a mile or two away,\nthen farther and farther.\nScientists think a pigeon needs two tools.\nA compass, to tell which way is which.\nAnd a map, to know where home actually is.\nLet's start with the compass.\nOn a sunny day, a pigeon steers by the sun.\nBut the sun moves fifteen degrees every hour,\nso the bird has to know what time it is.\nDecades ago, a scientist named William Keeton played a sneaky trick.\nHe kept pigeons under lamps that ran six hours off.\nThen he let them go on a sunny day.\nHome was west,\nbut the birds flew north.\nThey were off by ninety degrees,\nexactly what a six-hour mistake would cause.\nSo the sun really is their compass.\nBut what about cloudy days?\nPigeons still get home.\nKeeton tried tiny magnets on their backs.\nIn sunshine, the magnets did nothing.\nUnder clouds, those birds got lost.\nSo pigeons have a backup.\nThey can feel Earth's magnetic field.\nA compass is great,\nbut it's useless if you don't know where home is.\nSo where's the map?\nMany scientists think it's up the pigeon's nose.\nPigeons that can't smell\nget lost when they're released somewhere new.\nThe idea is that every region has its own mix of smells,\ncarried along by the wind.\nA young pigeon sitting in its loft\nlearns which smells blow in from which direction.\nSmell the forest, and home is that way.\nSome researchers think pigeons might also hear\nsuper-low sounds that travel for miles,\nbut that's still being tested.\nNow here's the funniest part.\nClose to home, pigeons switch to their eyes.\nOxford scientists put tiny GPS trackers on pigeons.\nAnd the birds followed the roads.\nThey flew straight down a highway,\nturned at the traffic lights,\nand even went around a roundabout.\nIt's easier than thinking, so they just follow the road.\nSo how good are they?\nA racing pigeon averages about fifty miles an hour.\nWith a tailwind, it can hit ninety.\nSome races run six hundred miles,\nand the longest have gone over a thousand miles.\nSun for the compass.\nMagnetism when it's cloudy.\nSmell for the map.\nAnd roads for the last few miles.\nFour senses, one tiny brain, and it still beats your phone's battery.\nNext time, your bones are alive.\nSo how do they rebuild themselves?\n",
+ "key_facts": [
+  "Racing pigeons average about 50 mph over typical race distances, up to 85-90 mph with a tailwind (EarthDate; WCCO/CBS Minnesota)",
+  "Races commonly run up to about 600 miles; the longest races are around 1,100 miles (CBS Minnesota; EarthDate)",
+  "Pigeons were used as messengers in ancient Egypt, Greece and Rome; pigeon post was used at the siege of Modena in 44 BC (EarthDate)",
+  "Young birds are trained with short releases that get gradually farther from the loft",
+  "The sun moves about 15 degrees an hour; a 6-hour clock shift sends pigeons about 90 degrees off (Keeton 1969; textbook ch. 45.4)",
+  "Pigeons wearing magnets home fine on sunny days but fail on cloudy days (Keeton; textbook ch. 45.4)",
+  "Pigeons that cannot smell cannot navigate from unfamiliar places; the map is thought to be olfactory, built from wind-borne odours (The Conversation; Wallraff 2013 via ScienceDaily)",
+  "Infrasound has been proposed as a cue but has little support so far (The Conversation; EarthDate)",
+  "Oxford GPS tracking (Guilford) showed pigeons following roads such as the A34, turning at traffic lights and going around roundabouts (AFP via Al Jazeera, 2004)"
+ ],
+ "category": "27"
+}

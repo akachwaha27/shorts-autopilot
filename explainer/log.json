@@ -1043,5 +1043,19 @@
   "hook_score": 58,
   "title_score": 94,
   "notes": "unattended run, no storyboard step"
+ },
+ {
+  "date": "2026-11-11",
+  "id": "20261111-pigeon-homing",
+  "kind": "long",
+  "style": "Synthwave Outrun",
+  "topic": "How do homing pigeons find their way home from hundreds of miles away?",
+  "title": "How Do Pigeons Fly 600 Miles Home?",
+  "seconds": 186.0,
+  "words": 496,
+  "sheet_id": "L024",
+  "hook_score": 45,
+  "title_score": 100,
+  "notes": "unattended run, no storyboard step; 6 chapters, 31 scenes; base helpers reused from 20261027-electricity; added sheet rows L026-L028 from reference signals"
  }
 ]
