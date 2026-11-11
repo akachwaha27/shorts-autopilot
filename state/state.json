@@ -378,98 +378,6 @@
     }
   },
   "videos": {
-    "2026-11-04-105": {
-      "topic": {
-        "title": "Why don't anteaters have teeth?",
-        "format": "animated",
-        "angle": "Cut-Paper Diorama"
-      },
-      "package": {
-        "title": "How Do Anteaters Eat 30,000 Ants a Day With No Teeth? \ud83d\udc1c",
-        "description": "How do anteaters eat without teeth? See how a giant anteater's two-foot sticky tongue, roof-of-the-mouth crush and muscular stomach handle up to 30,000 ants and termites a day.\n\nSources:\nhttps://animals.sandiegozoo.org/animals/giant-anteater\nhttps://seaworld.org/animals/facts/mammals/giant-anteater/\nhttps://a-z-animals.com/articles/the-science-behind-how-anteaters-feed/\n\nAnimated in the Cut-Paper Diorama style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#anteater",
-          "#animals",
-          "#science"
-        ],
-        "tags": [
-          "anteater",
-          "giant anteater",
-          "why don't anteaters have teeth",
-          "how do anteaters eat",
-          "anteater tongue",
-          "anteater no teeth",
-          "animal facts",
-          "ants",
-          "weird animals",
-          "how animals eat",
-          "science explained",
-          "animal adaptations"
-        ],
-        "category": "27",
-        "pinned_comment": "If you had to eat 30,000 of something with zero teeth, what would you pick?",
-        "thumbnail_text": "2-FOOT TONGUE",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "Zero teeth, but it'll out-eat you, thirty thousand ants a day. Meet the giant anteater. First, big claws rip open the nest. Then out comes the tongue, two feet long, flicking up to a hundred and fifty times a minute. It's covered in tiny backward spines, and thick, sticky spit, so ants come along for the ride. With no teeth to chew them, it crushes them against the roof of its mouth, and a very muscular stomach pulverizes the rest. Scientists think swallowed grit helps too, a bit like a bird's gizzard. The clever part? It stays about a minute at each mound, then moves on, before the ants can fight back. So if you had to eat thirty thousand of something, with zero teeth, what would you pick?",
-        "key_facts": [
-          "Giant anteaters have no teeth (San Diego Zoo, SeaWorld, LA Zoo)",
-          "Eat up to 30,000 ants and termites a day (San Diego Zoo, SeaWorld)",
-          "Tongue about 2 feet long, flicked up to 150 times a minute (San Diego Zoo, SeaWorld)",
-          "Tiny backward-pointing spines and sticky saliva (San Diego Zoo, SeaWorld)",
-          "Crushes insects against the roof of the mouth; very muscular stomach pulverizes the food (San Diego Zoo)",
-          "Swallowed grit may help grinding, stomach compared to a bird's gizzard (A-Z Animals, Encyclopedia.com)",
-          "Feeds at one mound for about a minute before moving on (San Diego Zoo)"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Cut-Paper Diorama"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261104-anteater-no-teeth",
-      "redos": 0,
-      "updated": "2026-11-04T23:14:20.710979+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Cut-Paper Diorama style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-04",
-        "name": "2026-11-04-105.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-04",
-        "name": "2026-11-04-105-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:02,470\nZero teeth, but it'll out-eat you,\n\n2\n00:00:02,770 --> 00:00:04,390\nthirty thousand ants a day.\n\n3\n00:00:04,940 --> 00:00:06,480\nMeet the giant anteater.\n\n4\n00:00:07,030 --> 00:00:09,210\nFirst, big claws rip open the nest.\n\n5\n00:00:09,760 --> 00:00:11,180\nThen out comes the tongue,\n\n6\n00:00:11,480 --> 00:00:12,490\ntwo feet long,\n\n7\n00:00:12,790 --> 00:00:15,510\nflicking up to a hundred and fifty times a minute.\n\n8\n00:00:16,060 --> 00:00:18,300\nIt's covered in tiny backward spines,\n\n9\n00:00:18,600 --> 00:00:19,880\nand thick, sticky spit,\n\n10\n00:00:20,180 --> 00:00:22,000\nso ants come along for the ride.\n\n11\n00:00:22,550 --> 00:00:23,990\nWith no teeth to chew them,\n\n12\n00:00:24,290 --> 00:00:26,710\nit crushes them against the roof of its mouth,\n\n13\n00:00:27,010 --> 00:00:28,600\nand a very muscular stomach\n\n14\n00:00:28,900 --> 00:00:30,290\npulverizes the rest.\n\n15\n00:00:30,840 --> 00:00:33,050\nScientists think swallowed grit helps too,\n\n16\n00:00:33,350 --> 00:00:34,920\na bit like a bird's gizzard.\n\n17\n00:00:35,470 --> 00:00:36,510\nThe clever part?\n\n18\n00:00:37,060 --> 00:00:39,120\nIt stays about a minute at each mound,\n\n19\n00:00:39,420 --> 00:00:40,450\nthen moves on,\n\n20\n00:00:40,750 --> 00:00:42,480\nbefore the ants can fight back.\n\n21\n00:00:43,030 --> 00:00:45,530\nSo if you had to eat thirty thousand of something,\n\n22\n00:00:45,830 --> 00:00:47,860\nwith zero teeth, what would you pick?\n\n",
-      "tg_msg": 1022,
-      "approved_by": "auto",
-      "description_full": "How do anteaters eat without teeth? See how a giant anteater's two-foot sticky tongue, roof-of-the-mouth crush and muscular stomach handle up to 30,000 ants and termites a day.\n\nSources:\nhttps://animals.sandiegozoo.org/animals/giant-anteater\nhttps://seaworld.org/animals/facts/mammals/giant-anteater/\nhttps://a-z-animals.com/articles/the-science-behind-how-anteaters-feed/\n\nAnimated in the Cut-Paper Diorama style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #anteater #animals #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Cut-Paper Diorama style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/mgvmAa_qQVY",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-11-04T23:14:20.710996+00:00",
-      "slot": "2026-11-10T02:15:00+00:00"
-    },
     "2026-11-05-101": {
       "topic": {
         "title": "Why does toast turn brown and taste better?",
@@ -3103,12 +3011,12 @@
         "format": "animated",
         "style": "Low-Poly Faceted"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261110-camel-hump",
       "redos": 0,
-      "updated": "2026-11-10T20:50:08.305264+00:00",
+      "updated": "2026-11-11T01:43:28.353129+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Low-Poly Faceted style). Voice: Kokoro text-to-speech."
       ],
@@ -3123,7 +3031,99 @@
         "name": "2026-11-10-105-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:03,540\nA camel's hump hides up to 35 kilos of fat,\n\n2\n00:00:04,050 --> 00:00:05,330\nnot a drop of water.\n\n3\n00:00:05,770 --> 00:00:07,300\nHere's why you never knew.\n\n4\n00:00:07,650 --> 00:00:09,170\nFat is food in a backpack.\n\n5\n00:00:09,520 --> 00:00:10,590\nWhen there's nothing to eat,\n\n6\n00:00:11,080 --> 00:00:13,390\nthe camel burns that fat for energy,\n\n7\n00:00:13,700 --> 00:00:15,600\nand the hump shrinks and flops over.\n\n8\n00:00:15,950 --> 00:00:17,420\nWith all the fat in one lump,\n\n9\n00:00:17,910 --> 00:00:20,290\nthe rest of the body stays lean and cool.\n\n10\n00:00:20,670 --> 00:00:22,270\nOkay, so where's the water?\n\n11\n00:00:22,810 --> 00:00:24,480\nIt's spread through the whole body.\n\n12\n00:00:24,930 --> 00:00:27,650\nA camel can lose a quarter of its weight in water\n\n13\n00:00:27,960 --> 00:00:28,880\nand keep walking.\n\n14\n00:00:29,290 --> 00:00:31,940\nIts oval blood cells keep sliding along\n\n15\n00:00:32,080 --> 00:00:33,680\neven as its blood thickens.\n\n16\n00:00:34,030 --> 00:00:35,180\nThen it finds a well,\n\n17\n00:00:35,640 --> 00:00:37,680\nand drinks around a hundred litres\n\n18\n00:00:37,780 --> 00:00:38,540\nin about ten minutes.\n\n19\n00:00:38,970 --> 00:00:41,530\nThose blood cells swell to twice their size\n\n20\n00:00:41,720 --> 00:00:42,620\nwithout bursting.\n\n21\n00:00:43,100 --> 00:00:44,190\nSo if you had a hump,\n\n22\n00:00:44,520 --> 00:00:46,100\nwhat would you store in yours?\n\n",
-      "tg_msg": 1082
+      "tg_msg": 1082,
+      "approved_by": "auto",
+      "description_full": "What's inside a camel's hump? Not water: a dromedary's hump stores up to about 35 kg of fat for energy, while its water is spread through its whole body, it can lose about a quarter of its weight in water, and then drink around 100 litres in roughly ten minutes thanks to oval red blood cells that can swell without bursting.\n\nSources:\nhttps://www.wtamu.edu/~cbaird/sq/2013/09/18/how-much-water-can-a-camel-store-in-its-hump/\nhttps://www.clevelandzoosociety.org/z/2021/04/06/truth-or-tail-a-camels-hump\nhttps://earthsky.org/earth/do-camels-store-water-in-there-humps\n\nAnimated in the Low-Poly Faceted style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #camel #animalfacts #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Low-Poly Faceted style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/RPUzbO2l4vA",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-11T01:43:28.353148+00:00",
+      "slot": "2026-11-17T20:15:00+00:00"
+    },
+    "2026-11-11-101": {
+      "topic": {
+        "title": "What is the crusty 'sleep' in your eyes?",
+        "format": "animated",
+        "angle": "Kawaii Anime"
+      },
+      "package": {
+        "title": "Eye Crust: What Happens When 14,000 Blinks Stop \ud83d\udc41\ufe0f",
+        "description": "What is the crusty 'sleep' in your eyes every morning? Eye crust, or rheum, is mucus, oil, dust and dead skin cells that your blinks normally wash away, but when you sleep the blinking stops, so it collects in the corners of your eyes and dries out.\n\nSources:\nhttps://health.clevelandclinic.org/why-your-eyes-are-crusty-in-the-morning/\nhttps://www.healthline.com/health/how-many-times-do-you-blink-a-day\n\nAnimated in the Kawaii Anime style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#eyes",
+          "#humanbody",
+          "#science"
+        ],
+        "tags": [
+          "eye crust",
+          "sleep in your eyes",
+          "eye boogers",
+          "what is eye crust",
+          "rheum",
+          "why do eyes get crusty",
+          "crusty eyes in the morning",
+          "eye gunk",
+          "blinking facts",
+          "human body facts",
+          "body explainer",
+          "science shorts",
+          "kawaii animation",
+          "zorbly ai"
+        ],
+        "category": "27",
+        "pinned_comment": "What do YOU call it: sleep, eye boogers, or crust? Or something else?",
+        "thumbnail_text": "IT'S RHEUM",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "You wake up with dead skin glued in your eyes.\nWhy?\nAll day, your eyes wear a thin film of tears,\nmade of water, sticky mucus and a little oil.\nDust and old skin cells get trapped in it.\nBut you blink about 15 to 20 times a minute.\nThat's over 14,000 blinks a day,\nand every blink washes that gunk away.\nThen you fall asleep,\nand the blinking stops.\nNow the mucus, oil, dust and dead skin have nowhere to go.\nThey drift into the corners of your eyes,\nand overnight they dry out\ninto crusty little flakes.\nDoctors call it rheum.\nAnd a little every morning is totally normal.\nHonestly, it's just yesterday's cleanup, waiting for you.\nSo what do you call it: sleep, eye boogers, or crust?",
+        "key_facts": [
+          "Eye crust (rheum) is mucus, oil, dirt and skin cells that collect in the corners of the eyes (Cleveland Clinic)",
+          "During the day frequent blinking washes them away; asleep you don't blink, so they accumulate and dry into crust (Cleveland Clinic)",
+          "Most people blink 15-20 times a minute, about 14,400-19,200 times a day while awake (Healthline)",
+          "The tear film is made of water, mucus and oil",
+          "A little morning crust is normal (Cleveland Clinic)"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Kawaii Anime"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261111-eye-crust",
+      "redos": 0,
+      "updated": "2026-11-11T01:43:16.646172+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-11",
+        "name": "2026-11-11-101.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-11",
+        "name": "2026-11-11-101-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:02,760\nYou wake up with dead skin glued in your eyes.\n\n2\n00:00:03,200 --> 00:00:03,740\nWhy?\n\n3\n00:00:04,310 --> 00:00:07,220\nAll day, your eyes wear a thin film of tears,\n\n4\n00:00:07,590 --> 00:00:10,430\nmade of water, sticky mucus and a little oil.\n\n5\n00:00:10,900 --> 00:00:13,280\nDust and old skin cells get trapped in it.\n\n6\n00:00:13,720 --> 00:00:16,620\nBut you blink about 15 to 20 times a minute.\n\n7\n00:00:17,040 --> 00:00:19,350\nThat's over 14,000 blinks a day,\n\n8\n00:00:19,820 --> 00:00:22,100\nand every blink washes that gunk away.\n\n9\n00:00:22,540 --> 00:00:23,700\nThen you fall asleep,\n\n10\n00:00:23,960 --> 00:00:25,210\nand the blinking stops.\n\n11\n00:00:25,580 --> 00:00:29,660\nNow the mucus, oil, dust and dead skin have nowhere to go.\n\n12\n00:00:30,010 --> 00:00:32,230\nThey drift into the corners of your eyes,\n\n13\n00:00:32,700 --> 00:00:34,480\nand overnight they dry out\n\n14\n00:00:34,540 --> 00:00:35,810\ninto crusty little flakes.\n\n15\n00:00:36,250 --> 00:00:37,590\nDoctors call it rheum.\n\n16\n00:00:37,890 --> 00:00:40,430\nAnd a little every morning is totally normal.\n\n17\n00:00:40,850 --> 00:00:44,250\nHonestly, it's just yesterday's cleanup, waiting for you.\n\n18\n00:00:44,590 --> 00:00:47,830\nSo what do you call it: sleep, eye boogers, or crust?\n\n",
+      "tg_msg": 1086
     }
   },
   "history": [
@@ -3202,7 +3202,7 @@
       "at": "2026-10-25T17:40:17.371797+00:00"
     }
   },
-  "cleanup_day": "2026-11-10",
+  "cleanup_day": "2026-11-11",
   "recent_voices": [
     "en-AU-WilliamMultilingualNeural",
     "en-US-EmmaMultilingualNeural",
@@ -3299,7 +3299,8 @@
     "drop/20261110-hummingbird-torpor": "2026-11-10-102",
     "drop/20261110-porcupine-quills": "2026-11-10-103",
     "drop/20261110-zebra-stripes": "2026-11-10-104",
-    "drop/20261110-camel-hump": "2026-11-10-105"
+    "drop/20261110-camel-hump": "2026-11-10-105",
+    "drop/20261111-eye-crust": "2026-11-11-101"
   },
-  "refs_day": "2026-11-10"
+  "refs_day": "2026-11-11"
 }
