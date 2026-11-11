@@ -1,0 +1,650 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.05,
+  "text": "Why do crabs walk sideways?",
+  "words": [
+   [
+    "why",
+    0.25
+   ],
+   [
+    "do",
+    0.49
+   ],
+   [
+    "crabs",
+    0.66
+   ],
+   [
+    "walk",
+    1.07
+   ],
+   [
+    "sideways",
+    1.39
+   ]
+  ]
+ },
+ {
+  "s": 2.52,
+  "e": 4.25,
+  "text": "You'd never guess it's their knees.",
+  "words": [
+   [
+    "youd",
+    2.52
+   ],
+   [
+    "never",
+    2.78
+   ],
+   [
+    "guess",
+    3.1
+   ],
+   [
+    "its",
+    3.42
+   ],
+   [
+    "their",
+    3.61
+   ],
+   [
+    "knees",
+    3.93
+   ]
+  ]
+ },
+ {
+  "s": 4.69,
+  "e": 6.74,
+  "text": "A crab's body is wide and flat,",
+  "words": [
+   [
+    "a",
+    4.69
+   ],
+   [
+    "crabs",
+    4.78
+   ],
+   [
+    "body",
+    5.22
+   ],
+   [
+    "is",
+    5.58
+   ],
+   [
+    "wide",
+    5.76
+   ],
+   [
+    "and",
+    6.12
+   ],
+   [
+    "flat",
+    6.38
+   ]
+  ]
+ },
+ {
+  "s": 7.25,
+  "e": 9.17,
+  "text": "perfect for squeezing under rocks.",
+  "words": [
+   [
+    "perfect",
+    7.25
+   ],
+   [
+    "for",
+    7.71
+   ],
+   [
+    "squeezing",
+    7.91
+   ],
+   [
+    "under",
+    8.51
+   ],
+   [
+    "rocks",
+    8.84
+   ]
+  ]
+ },
+ {
+  "s": 9.52,
+  "e": 11.77,
+  "text": "But that shape stiffens its shoulder joints.",
+  "words": [
+   [
+    "but",
+    9.52
+   ],
+   [
+    "that",
+    9.7
+   ],
+   [
+    "shape",
+    9.94
+   ],
+   [
+    "stiffens",
+    10.25
+   ],
+   [
+    "its",
+    10.74
+   ],
+   [
+    "shoulder",
+    10.92
+   ],
+   [
+    "joints",
+    11.41
+   ]
+  ]
+ },
+ {
+  "s": 12.15,
+  "e": 14.65,
+  "text": "So the real bending happens one joint down,",
+  "words": [
+   [
+    "so",
+    12.15
+   ],
+   [
+    "the",
+    12.29
+   ],
+   [
+    "real",
+    12.51
+   ],
+   [
+    "bending",
+    12.79
+   ],
+   [
+    "happens",
+    13.29
+   ],
+   [
+    "one",
+    13.79
+   ],
+   [
+    "joint",
+    14.01
+   ],
+   [
+    "down",
+    14.37
+   ]
+  ]
+ },
+ {
+  "s": 15.25,
+  "e": 17.08,
+  "text": "a simple hinge, like your knee,",
+  "words": [
+   [
+    "a",
+    15.25
+   ],
+   [
+    "simple",
+    15.33
+   ],
+   [
+    "hinge",
+    15.79
+   ],
+   [
+    "like",
+    16.17
+   ],
+   [
+    "your",
+    16.47
+   ],
+   [
+    "knee",
+    16.78
+   ]
+  ]
+ },
+ {
+  "s": 17.48,
+  "e": 19.44,
+  "text": "that only swings out to the side.",
+  "words": [
+   [
+    "that",
+    17.48
+   ],
+   [
+    "only",
+    17.78
+   ],
+   [
+    "swings",
+    18.08
+   ],
+   [
+    "out",
+    18.54
+   ],
+   [
+    "to",
+    18.76
+   ],
+   [
+    "the",
+    18.91
+   ],
+   [
+    "side",
+    19.14
+   ]
+  ]
+ },
+ {
+  "s": 19.84,
+  "e": 22.26,
+  "text": "Eight walking legs, all hinged that way.",
+  "words": [
+   [
+    "eight",
+    19.84
+   ],
+   [
+    "walking",
+    20.21
+   ],
+   [
+    "legs",
+    20.74
+   ],
+   [
+    "all",
+    21.05
+   ],
+   [
+    "hinged",
+    21.27
+   ],
+   [
+    "that",
+    21.73
+   ],
+   [
+    "way",
+    22.03
+   ]
+  ]
+ },
+ {
+  "s": 22.68,
+  "e": 25.16,
+  "text": "Going forward, a crab can only shuffle.",
+  "words": [
+   [
+    "going",
+    22.68
+   ],
+   [
+    "forward",
+    23.08
+   ],
+   [
+    "a",
+    23.64
+   ],
+   [
+    "crab",
+    23.72
+   ],
+   [
+    "can",
+    24.04
+   ],
+   [
+    "only",
+    24.28
+   ],
+   [
+    "shuffle",
+    24.6
+   ]
+  ]
+ },
+ {
+  "s": 25.61,
+  "e": 27.62,
+  "text": "Sideways, those hinges swing wide,",
+  "words": [
+   [
+    "sideways",
+    25.61
+   ],
+   [
+    "those",
+    26.18
+   ],
+   [
+    "hinges",
+    26.54
+   ],
+   [
+    "swing",
+    26.97
+   ],
+   [
+    "wide",
+    27.33
+   ]
+  ]
+ },
+ {
+  "s": 27.87,
+  "e": 28.73,
+  "text": "and it zooms.",
+  "words": [
+   [
+    "and",
+    27.87
+   ],
+   [
+    "it",
+    28.13
+   ],
+   [
+    "zooms",
+    28.3
+   ]
+  ]
+ },
+ {
+  "s": 29.11,
+  "e": 31.24,
+  "text": "It can dart left or right in a flash,",
+  "words": [
+   [
+    "it",
+    29.11
+   ],
+   [
+    "can",
+    29.26
+   ],
+   [
+    "dart",
+    29.49
+   ],
+   [
+    "left",
+    29.79
+   ],
+   [
+    "or",
+    30.1
+   ],
+   [
+    "right",
+    30.25
+   ],
+   [
+    "in",
+    30.63
+   ],
+   [
+    "a",
+    30.78
+   ],
+   [
+    "flash",
+    30.86
+   ]
+  ]
+ },
+ {
+  "s": 31.62,
+  "e": 34.11,
+  "text": "so a hungry gull can't guess where it's going.",
+  "words": [
+   [
+    "so",
+    31.62
+   ],
+   [
+    "a",
+    31.76
+   ],
+   [
+    "hungry",
+    31.83
+   ],
+   [
+    "gull",
+    32.26
+   ],
+   [
+    "cant",
+    32.54
+   ],
+   [
+    "guess",
+    32.83
+   ],
+   [
+    "where",
+    33.18
+   ],
+   [
+    "its",
+    33.54
+   ],
+   [
+    "going",
+    33.75
+   ]
+  ]
+ },
+ {
+  "s": 34.48,
+  "e": 36.98,
+  "text": "Scientists filmed fifty kinds of crabs.",
+  "words": [
+   [
+    "scientists",
+    34.48
+   ],
+   [
+    "filmed",
+    35.24
+   ],
+   [
+    "fifty",
+    35.69
+   ],
+   [
+    "kinds",
+    36.07
+   ],
+   [
+    "of",
+    36.45
+   ],
+   [
+    "crabs",
+    36.6
+   ]
+  ]
+ },
+ {
+  "s": 37.33,
+  "e": 39.35,
+  "text": "Thirty-five of them walked sideways.",
+  "words": [
+   [
+    "thirtyfive",
+    37.33
+   ],
+   [
+    "of",
+    38.01
+   ],
+   [
+    "them",
+    38.14
+   ],
+   [
+    "walked",
+    38.41
+   ],
+   [
+    "sideways",
+    38.81
+   ]
+  ]
+ },
+ {
+  "s": 39.76,
+  "e": 41.88,
+  "text": "They think the trick showed up just once,",
+  "words": [
+   [
+    "they",
+    39.76
+   ],
+   [
+    "think",
+    40.02
+   ],
+   [
+    "the",
+    40.34
+   ],
+   [
+    "trick",
+    40.53
+   ],
+   [
+    "showed",
+    40.85
+   ],
+   [
+    "up",
+    41.24
+   ],
+   [
+    "just",
+    41.37
+   ],
+   [
+    "once",
+    41.62
+   ]
+  ]
+ },
+ {
+  "s": 42.28,
+  "e": 44.36,
+  "text": "about two hundred million years ago.",
+  "words": [
+   [
+    "about",
+    42.28
+   ],
+   [
+    "two",
+    42.63
+   ],
+   [
+    "hundred",
+    42.84
+   ],
+   [
+    "million",
+    43.32
+   ],
+   [
+    "years",
+    43.81
+   ],
+   [
+    "ago",
+    44.15
+   ]
+  ]
+ },
+ {
+  "s": 44.72,
+  "e": 46.47,
+  "text": "So if your knees bent sideways,",
+  "words": [
+   [
+    "so",
+    44.72
+   ],
+   [
+    "if",
+    44.86
+   ],
+   [
+    "your",
+    45.0
+   ],
+   [
+    "knees",
+    45.28
+   ],
+   [
+    "bent",
+    45.63
+   ],
+   [
+    "sideways",
+    45.91
+   ]
+  ]
+ },
+ {
+  "s": 46.84,
+  "e": 48.29,
+  "text": "where would you scuttle first?",
+  "words": [
+   [
+    "where",
+    46.84
+   ],
+   [
+    "would",
+    47.13
+   ],
+   [
+    "you",
+    47.42
+   ],
+   [
+    "scuttle",
+    47.59
+   ],
+   [
+    "first",
+    48.0
+   ]
+  ]
+ }
+]
