@@ -1,0 +1,639 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.76,
+  "text": "Why can't you stop yourself from catching a yawn?",
+  "words": [
+   [
+    "why",
+    0.25
+   ],
+   [
+    "cant",
+    0.44
+   ],
+   [
+    "you",
+    0.7
+   ],
+   [
+    "stop",
+    0.89
+   ],
+   [
+    "yourself",
+    1.15
+   ],
+   [
+    "from",
+    1.67
+   ],
+   [
+    "catching",
+    1.93
+   ],
+   [
+    "a",
+    2.44
+   ],
+   [
+    "yawn",
+    2.51
+   ]
+  ]
+ },
+ {
+  "s": 3.31,
+  "e": 6.06,
+  "text": "Even reading the word yawn can set one off.",
+  "words": [
+   [
+    "even",
+    3.31
+   ],
+   [
+    "reading",
+    3.63
+   ],
+   [
+    "the",
+    4.2
+   ],
+   [
+    "word",
+    4.44
+   ],
+   [
+    "yawn",
+    4.77
+   ],
+   [
+    "can",
+    5.09
+   ],
+   [
+    "set",
+    5.33
+   ],
+   [
+    "one",
+    5.58
+   ],
+   [
+    "off",
+    5.82
+   ]
+  ]
+ },
+ {
+  "s": 6.52,
+  "e": 8.35,
+  "text": "You might be fighting one right now.",
+  "words": [
+   [
+    "you",
+    6.52
+   ],
+   [
+    "might",
+    6.71
+   ],
+   [
+    "be",
+    7.03
+   ],
+   [
+    "fighting",
+    7.15
+   ],
+   [
+    "one",
+    7.66
+   ],
+   [
+    "right",
+    7.85
+   ],
+   [
+    "now",
+    8.16
+   ]
+  ]
+ },
+ {
+  "s": 8.78,
+  "e": 11.49,
+  "text": "Seeing, hearing, or just thinking about a yawn",
+  "words": [
+   [
+    "seeing",
+    8.78
+   ],
+   [
+    "hearing",
+    9.22
+   ],
+   [
+    "or",
+    9.73
+   ],
+   [
+    "just",
+    9.88
+   ],
+   [
+    "thinking",
+    10.17
+   ],
+   [
+    "about",
+    10.76
+   ],
+   [
+    "a",
+    11.12
+   ],
+   [
+    "yawn",
+    11.2
+   ]
+  ]
+ },
+ {
+  "s": 11.49,
+  "e": 12.73,
+  "text": "can trigger your own.",
+  "words": [
+   [
+    "can",
+    11.49
+   ],
+   [
+    "trigger",
+    11.71
+   ],
+   [
+    "your",
+    12.22
+   ],
+   [
+    "own",
+    12.51
+   ]
+  ]
+ },
+ {
+  "s": 13.11,
+  "e": 14.21,
+  "text": "In one Duke study,",
+  "words": [
+   [
+    "in",
+    13.11
+   ],
+   [
+    "one",
+    13.27
+   ],
+   [
+    "duke",
+    13.51
+   ],
+   [
+    "study",
+    13.82
+   ]
+  ]
+ },
+ {
+  "s": 14.71,
+  "e": 18.57,
+  "text": "three hundred twenty eight people watched a three minute video of yawns.",
+  "words": [
+   [
+    "three",
+    14.71
+   ],
+   [
+    "hundred",
+    15.03
+   ],
+   [
+    "twenty",
+    15.48
+   ],
+   [
+    "eight",
+    15.87
+   ],
+   [
+    "people",
+    16.19
+   ],
+   [
+    "watched",
+    16.58
+   ],
+   [
+    "a",
+    17.03
+   ],
+   [
+    "three",
+    17.09
+   ],
+   [
+    "minute",
+    17.41
+   ],
+   [
+    "video",
+    17.8
+   ],
+   [
+    "of",
+    18.12
+   ],
+   [
+    "yawns",
+    18.25
+   ]
+  ]
+ },
+ {
+  "s": 19.03,
+  "e": 21.51,
+  "text": "Two hundred twenty two of them yawned too.",
+  "words": [
+   [
+    "two",
+    19.03
+   ],
+   [
+    "hundred",
+    19.25
+   ],
+   [
+    "twenty",
+    19.76
+   ],
+   [
+    "two",
+    20.19
+   ],
+   [
+    "of",
+    20.41
+   ],
+   [
+    "them",
+    20.56
+   ],
+   [
+    "yawned",
+    20.85
+   ],
+   [
+    "too",
+    21.29
+   ]
+  ]
+ },
+ {
+  "s": 21.93,
+  "e": 23.54,
+  "text": "That's about two out of three!",
+  "words": [
+   [
+    "thats",
+    21.93
+   ],
+   [
+    "about",
+    22.28
+   ],
+   [
+    "two",
+    22.63
+   ],
+   [
+    "out",
+    22.84
+   ],
+   [
+    "of",
+    23.05
+   ],
+   [
+    "three",
+    23.19
+   ]
+  ]
+ },
+ {
+  "s": 23.98,
+  "e": 25.51,
+  "text": "And who's yawning matters.",
+  "words": [
+   [
+    "and",
+    23.98
+   ],
+   [
+    "whos",
+    24.2
+   ],
+   [
+    "yawning",
+    24.49
+   ],
+   [
+    "matters",
+    25.0
+   ]
+  ]
+ },
+ {
+  "s": 25.82,
+  "e": 29.55,
+  "text": "An Italian study found yawns spread fastest between family,",
+  "words": [
+   [
+    "an",
+    25.82
+   ],
+   [
+    "italian",
+    25.97
+   ],
+   [
+    "study",
+    26.49
+   ],
+   [
+    "found",
+    26.86
+   ],
+   [
+    "yawns",
+    27.23
+   ],
+   [
+    "spread",
+    27.61
+   ],
+   [
+    "fastest",
+    28.05
+   ],
+   [
+    "between",
+    28.58
+   ],
+   [
+    "family",
+    29.1
+   ]
+  ]
+ },
+ {
+  "s": 30.05,
+  "e": 30.91,
+  "text": "then friends,",
+  "words": [
+   [
+    "then",
+    30.05
+   ],
+   [
+    "friends",
+    30.36
+   ]
+  ]
+ },
+ {
+  "s": 31.33,
+  "e": 33.19,
+  "text": "and slowest between strangers.",
+  "words": [
+   [
+    "and",
+    31.33
+   ],
+   [
+    "slowest",
+    31.54
+   ],
+   [
+    "between",
+    32.04
+   ],
+   [
+    "strangers",
+    32.55
+   ]
+  ]
+ },
+ {
+  "s": 33.61,
+  "e": 35.85,
+  "text": "So some scientists link it to empathy,",
+  "words": [
+   [
+    "so",
+    33.61
+   ],
+   [
+    "some",
+    33.75
+   ],
+   [
+    "scientists",
+    34.04
+   ],
+   [
+    "link",
+    34.76
+   ],
+   [
+    "it",
+    35.05
+   ],
+   [
+    "to",
+    35.2
+   ],
+   [
+    "empathy",
+    35.34
+   ]
+  ]
+ },
+ {
+  "s": 36.39,
+  "e": 39.31,
+  "text": "your brain quietly copying the people you care about.",
+  "words": [
+   [
+    "your",
+    36.39
+   ],
+   [
+    "brain",
+    36.65
+   ],
+   [
+    "quietly",
+    36.98
+   ],
+   [
+    "copying",
+    37.45
+   ],
+   [
+    "the",
+    37.91
+   ],
+   [
+    "people",
+    38.11
+   ],
+   [
+    "you",
+    38.51
+   ],
+   [
+    "care",
+    38.71
+   ],
+   [
+    "about",
+    38.98
+   ]
+  ]
+ },
+ {
+  "s": 39.68,
+  "e": 42.87,
+  "text": "Little kids don't catch yawns until they're about four.",
+  "words": [
+   [
+    "little",
+    39.68
+   ],
+   [
+    "kids",
+    40.11
+   ],
+   [
+    "dont",
+    40.4
+   ],
+   [
+    "catch",
+    40.69
+   ],
+   [
+    "yawns",
+    41.06
+   ],
+   [
+    "until",
+    41.42
+   ],
+   [
+    "theyre",
+    41.78
+   ],
+   [
+    "about",
+    42.22
+   ],
+   [
+    "four",
+    42.58
+   ]
+  ]
+ },
+ {
+  "s": 43.35,
+  "e": 45.15,
+  "text": "But your dog can catch yours.",
+  "words": [
+   [
+    "but",
+    43.35
+   ],
+   [
+    "your",
+    43.58
+   ],
+   [
+    "dog",
+    43.89
+   ],
+   [
+    "can",
+    44.13
+   ],
+   [
+    "catch",
+    44.36
+   ],
+   [
+    "yours",
+    44.76
+   ]
+  ]
+ },
+ {
+  "s": 45.6,
+  "e": 46.58,
+  "text": "So be honest.",
+  "words": [
+   [
+    "so",
+    45.6
+   ],
+   [
+    "be",
+    45.8
+   ],
+   [
+    "honest",
+    45.99
+   ]
+  ]
+ },
+ {
+  "s": 46.9,
+  "e": 48.68,
+  "text": "Did you yawn while watching this?",
+  "words": [
+   [
+    "did",
+    46.9
+   ],
+   [
+    "you",
+    47.1
+   ],
+   [
+    "yawn",
+    47.29
+   ],
+   [
+    "while",
+    47.56
+   ],
+   [
+    "watching",
+    47.89
+   ],
+   [
+    "this",
+    48.41
+   ]
+  ]
+ }
+]
