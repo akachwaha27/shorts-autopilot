@@ -378,176 +378,6 @@
     }
   },
   "videos": {
-    "2026-11-06-103": {
-      "topic": {
-        "title": "What actually happens when a jellyfish stings you?",
-        "format": "long",
-        "angle": "Cut-Paper Diorama"
-      },
-      "package": {
-        "title": "How Can a Jellyfish Sting in a Millionth of a Second?",
-        "description": "What actually happens when a jellyfish stings you? See how stinging cells fire a coiled harpoon without a brain, why the first part of the shot lasts just 700 nanoseconds in hydra, and why a dead jellyfish on the beach can still sting.\n\nSources:\nhttps://www.sciencedaily.com/releases/2006/05/060508180735.htm\nhttps://oceanconservancy.org/blog/2023/08/03/do-jellyfish-have-brains/\nhttps://ocean.si.edu/ocean-life/invertebrates/how-sea-slugs-steal-defenses-their-prey\n\nAnimated in the Cut-Paper Diorama style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#jellyfish",
-          "#science",
-          "#animals"
-        ],
-        "tags": [
-          "jellyfish sting",
-          "what happens when a jellyfish stings you",
-          "how do jellyfish sting",
-          "nematocyst",
-          "stinging cells",
-          "jellyfish have no brain",
-          "dead jellyfish sting",
-          "fastest movement in nature",
-          "hydra nematocyst",
-          "clownfish anemone",
-          "sea slug stolen stings",
-          "ocean animals",
-          "animal facts",
-          "science explained"
-        ],
-        "category": "27",
-        "pinned_comment": "Have you ever been stung by a jellyfish, and what did it feel like?",
-        "thumbnail_text": "NO BRAIN",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "A jellyfish can sting you, in under a millionth of a second, without a brain, and you'd never see it coming. So what actually happens, when one of them stings you? First, meet the animal. Jellyfish have been drifting through the ocean, for more than 500 million years. And they've never had a brain. They also have no heart, no bones, and no blood. What they have instead, is a simple net of nerves, spread through a soft, see-through body. So when a jellyfish stings you, it isn't angry. It isn't even really aware of you. Most of them just drift, and let their tentacles do the work. Now zoom in on one tentacle. It's covered in thousands of tiny stinging cells. And inside each cell sits a capsule, called a nematocyst. Several of them could fit, across a single human hair. Packed inside that capsule, is a long, hollow thread, coiled up like a spring, with a sharp tip waiting at the front. Think of it as a loaded harpoon, sitting in a bath of venom. The pressure in there is huge, about 150 times normal air pressure. That's dozens of times stronger, than the air in a car tire. So what sets it off? Each cell has a tiny trigger on the outside. Bump it, or hit it with the right chemicals, and the lid pops open. Seawater rushes in, the pressure takes over, and the harpoon fires. No brain tells it to. The cell mostly acts on its own. Now here's the part that's hard to believe. In 2006, scientists filmed this, in hydra, a tiny relative of the jellyfish. Their camera shot over a million frames per second. And the first part of the shot, was over in just 700 nanoseconds. That's seven ten-millionths of a second. The tip hit up to five million g's. people tend to black out at around six. And a mantis shrimp's famous punch, reaches about ten thousand. Because that tip is so tiny, the pressure where it lands, is in the range of a bullet. It's strong enough to pierce a crab's shell. So what happens in your skin? After the tip punches in, the thread turns itself inside out, and the capsule squeezes venom through it. Some of those toxins punch holes in cells. Others go after nerves. One cell alone does almost nothing. But brushing a tentacle sets off thousands, all at once, and that's the sudden burn you feel. For most people, it's more painful than dangerous, though a few species, like some box jellyfish, are seriously dangerous. And since nothing here needs a brain, things get strange. A dead jellyfish on the beach, can still sting you. Clownfish live among stinging anemones, the jellyfish's cousins, because their slime lacks a chemical, that helps set those cells off. And some sea slugs eat stinging cells, without firing them, then store them in their own bodies, and use them on their own enemies. So that sting wasn't an attack. It was thousands of tiny machines, each doing the one thing it was built for, half a billion years in the making. Next up, why can you hold a crocodile's jaws shut, with your bare hands?",
-        "key_facts": [
-          "Hydra nematocyst discharge as short as 700 nanoseconds, up to 5.41 million g (N\u00fcchter et al. 2006, 15 MPa capsule pressure, >7 GPa at impact)",
-          "Jellyfish fossils over 500 million years old; no brain, heart, bones or blood",
-          "Nematocysts 5-15 microns; can still fire after a jellyfish dies",
-          "Clownfish mucus nearly lacks sialic acid, an anemone sting trigger",
-          "Aeolid sea slugs store unfired nematocysts and use them against predators"
-        ],
-        "voice": "Kokoro",
-        "format": "long",
-        "style": "Cut-Paper Diorama"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261106-jellyfish-sting",
-      "redos": 0,
-      "updated": "2026-11-06T19:53:01.829319+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Cut-Paper Diorama style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-06",
-        "name": "2026-11-06-103.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-06",
-        "name": "2026-11-06-103-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:01,750\nA jellyfish can sting you,\n\n2\n00:00:02,050 --> 00:00:03,870\nin under a millionth of a second,\n\n3\n00:00:04,170 --> 00:00:05,210\nwithout a brain,\n\n4\n00:00:05,510 --> 00:00:06,930\nand you'd never see it coming.\n\n5\n00:00:07,480 --> 00:00:09,000\nSo what actually happens,\n\n6\n00:00:09,300 --> 00:00:10,660\nwhen one of them stings you?\n\n7\n00:00:11,210 --> 00:00:12,590\nFirst, meet the animal.\n\n8\n00:00:13,140 --> 00:00:15,480\nJellyfish have been drifting through the ocean,\n\n9\n00:00:15,780 --> 00:00:18,210\nfor more than 500 million years.\n\n10\n00:00:18,760 --> 00:00:20,270\nAnd they've never had a brain.\n\n11\n00:00:20,820 --> 00:00:22,320\nThey also have no heart,\n\n12\n00:00:22,620 --> 00:00:23,540\nno bones,\n\n13\n00:00:23,840 --> 00:00:24,770\nand no blood.\n\n14\n00:00:25,320 --> 00:00:26,600\nWhat they have instead,\n\n15\n00:00:26,900 --> 00:00:28,500\nis a simple net of nerves,\n\n16\n00:00:28,800 --> 00:00:30,960\nspread through a soft, see-through body.\n\n17\n00:00:31,510 --> 00:00:33,150\nSo when a jellyfish stings you,\n\n18\n00:00:33,450 --> 00:00:34,530\nit isn't angry.\n\n19\n00:00:35,080 --> 00:00:36,870\nIt isn't even really aware of you.\n\n20\n00:00:37,420 --> 00:00:38,960\nMost of them just drift,\n\n21\n00:00:39,260 --> 00:00:41,160\nand let their tentacles do the work.\n\n22\n00:00:41,710 --> 00:00:43,520\nNow zoom in on one tentacle.\n\n23\n00:00:44,070 --> 00:00:46,790\nIt's covered in thousands of tiny stinging cells.\n\n24\n00:00:47,340 --> 00:00:49,490\nAnd inside each cell sits a capsule,\n\n25\n00:00:49,790 --> 00:00:51,220\ncalled a nematocyst.\n\n26\n00:00:51,770 --> 00:00:53,020\nSeveral of them could fit,\n\n27\n00:00:53,320 --> 00:00:55,030\nacross a single human hair.\n\n28\n00:00:55,580 --> 00:00:57,140\nPacked inside that capsule,\n\n29\n00:00:57,440 --> 00:00:58,920\nis a long, hollow thread,\n\n30\n00:00:59,220 --> 00:01:00,520\ncoiled up like a spring,\n\n31\n00:01:00,820 --> 00:01:02,810\nwith a sharp tip waiting at the front.\n\n32\n00:01:03,360 --> 00:01:05,280\nThink of it as a loaded harpoon,\n\n33\n00:01:05,580 --> 00:01:07,070\nsitting in a bath of venom.\n\n34\n00:01:07,620 --> 00:01:09,260\nThe pressure in there is huge,\n\n35\n00:01:09,560 --> 00:01:12,420\nabout 150 times normal air pressure.\n\n36\n00:01:12,970 --> 00:01:14,680\nThat's dozens of times stronger,\n\n37\n00:01:14,980 --> 00:01:16,560\nthan the air in a car tire.\n\n38\n00:01:17,110 --> 00:01:18,340\nSo what sets it off?\n\n39\n00:01:18,890 --> 00:01:21,420\nEach cell has a tiny trigger on the outside.\n\n40\n00:01:21,970 --> 00:01:24,430\nBump it, or hit it with the right chemicals,\n\n41\n00:01:24,730 --> 00:01:26,090\nand the lid pops open.\n\n42\n00:01:26,640 --> 00:01:27,990\nSeawater rushes in,\n\n43\n00:01:28,290 --> 00:01:29,670\nthe pressure takes over,\n\n44\n00:01:29,970 --> 00:01:31,380\nand the harpoon fires.\n\n45\n00:01:31,930 --> 00:01:33,300\nNo brain tells it to.\n\n46\n00:01:33,850 --> 00:01:35,630\nThe cell mostly acts on its own.\n\n47\n00:01:36,180 --> 00:01:38,460\nNow here's the part that's hard to believe.\n\n48\n00:01:39,010 --> 00:01:41,810\nIn 2006, scientists filmed this,\n\n49\n00:01:42,110 --> 00:01:45,120\nin hydra, a tiny relative of the jellyfish.\n\n50\n00:01:45,670 --> 00:01:48,530\nTheir camera shot over a million frames per second.\n\n51\n00:01:49,080 --> 00:01:50,600\nAnd the first part of the shot,\n\n52\n00:01:50,900 --> 00:01:53,740\nwas over in just 700 nanoseconds.\n\n53\n00:01:54,290 --> 00:01:56,330\nThat's seven ten-millionths of a second.\n\n54\n00:01:56,880 --> 00:01:59,100\nThe tip hit up to five million g's.\n\n55\n00:01:59,650 --> 00:02:01,960\npeople tend to black out at around six.\n\n56\n00:02:02,510 --> 00:02:04,430\nAnd a mantis shrimp's famous punch,\n\n57\n00:02:04,730 --> 00:02:06,530\nreaches about ten thousand.\n\n58\n00:02:07,080 --> 00:02:08,730\nBecause that tip is so tiny,\n\n59\n00:02:09,030 --> 00:02:10,450\nthe pressure where it lands,\n\n60\n00:02:10,750 --> 00:02:12,210\nis in the range of a bullet.\n\n61\n00:02:12,760 --> 00:02:14,760\nIt's strong enough to pierce a crab's shell.\n\n62\n00:02:15,310 --> 00:02:16,840\nSo what happens in your skin?\n\n63\n00:02:17,390 --> 00:02:18,820\nAfter the tip punches in,\n\n64\n00:02:19,120 --> 00:02:21,090\nthe thread turns itself inside out,\n\n65\n00:02:21,390 --> 00:02:23,460\nand the capsule squeezes venom through it.\n\n66\n00:02:24,010 --> 00:02:26,490\nSome of those toxins punch holes in cells.\n\n67\n00:02:27,040 --> 00:02:28,500\nOthers go after nerves.\n\n68\n00:02:29,050 --> 00:02:31,190\nOne cell alone does almost nothing.\n\n69\n00:02:31,740 --> 00:02:34,170\nBut brushing a tentacle sets off thousands,\n\n70\n00:02:34,470 --> 00:02:35,350\nall at once,\n\n71\n00:02:35,650 --> 00:02:37,410\nand that's the sudden burn you feel.\n\n72\n00:02:37,960 --> 00:02:40,990\nFor most people, it's more painful than dangerous,\n\n73\n00:02:41,290 --> 00:02:44,110\nthough a few species, like some box jellyfish,\n\n74\n00:02:44,410 --> 00:02:45,960\nare seriously dangerous.\n\n75\n00:02:46,510 --> 00:02:48,470\nAnd since nothing here needs a brain,\n\n76\n00:02:48,770 --> 00:02:49,940\nthings get strange.\n\n77\n00:02:50,490 --> 00:02:52,210\nA dead jellyfish on the beach,\n\n78\n00:02:52,510 --> 00:02:53,670\ncan still sting you.\n\n79\n00:02:54,220 --> 00:02:56,560\nClownfish live among stinging anemones,\n\n80\n00:02:56,860 --> 00:02:58,330\nthe jellyfish's cousins,\n\n81\n00:02:58,630 --> 00:03:00,560\nbecause their slime lacks a chemical,\n\n82\n00:03:00,860 --> 00:03:02,510\nthat helps set those cells off.\n\n83\n00:03:03,060 --> 00:03:05,270\nAnd some sea slugs eat stinging cells,\n\n84\n00:03:05,570 --> 00:03:06,840\nwithout firing them,\n\n85\n00:03:07,140 --> 00:03:09,100\nthen store them in their own bodies,\n\n86\n00:03:09,400 --> 00:03:11,390\nand use them on their own enemies.\n\n87\n00:03:11,940 --> 00:03:13,740\nSo that sting wasn't an attack.\n\n88\n00:03:14,290 --> 00:03:16,320\nIt was thousands of tiny machines,\n\n89\n00:03:16,620 --> 00:03:18,890\neach doing the one thing it was built for,\n\n90\n00:03:19,190 --> 00:03:21,090\nhalf a billion years in the making.\n\n91\n00:03:21,640 --> 00:03:24,660\nNext up, why can you hold a crocodile's jaws shut,\n\n92\n00:03:24,960 --> 00:03:26,130\nwith your bare hands?\n\n",
-      "tg_msg": 1040,
-      "approved_by": "auto",
-      "description_full": "What actually happens when a jellyfish stings you? See how stinging cells fire a coiled harpoon without a brain, why the first part of the shot lasts just 700 nanoseconds in hydra, and why a dead jellyfish on the beach can still sting.\n\nSources:\nhttps://www.sciencedaily.com/releases/2006/05/060508180735.htm\nhttps://oceanconservancy.org/blog/2023/08/03/do-jellyfish-have-brains/\nhttps://ocean.si.edu/ocean-life/invertebrates/how-sea-slugs-steal-defenses-their-prey\n\nAnimated in the Cut-Paper Diorama style.\n\nFollow Zorbly AI for a new Short every day.\n\n#jellyfish #science #animals\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Cut-Paper Diorama style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/eB7biWysGBU",
-          "private \u00b7 thumbnail \u2705"
-        ]
-      },
-      "uploaded_at": "2026-11-06T19:53:01.829338+00:00",
-      "slot": "2026-11-12T02:15:00+00:00"
-    },
-    "2026-11-06-104": {
-      "topic": {
-        "title": "Why does chili feel hot when it isn't?",
-        "format": "animated",
-        "angle": "Kawaii Anime"
-      },
-      "package": {
-        "title": "Why Does Chili Burn at 37\u00b0C When Nothing's Hot? \ud83c\udf36\ufe0f",
-        "description": "Why does chili feel hot when it isn't? Capsaicin in chili peppers switches on TRPV1, the heat sensor on your tongue that normally fires above 43\u00b0C, so your brain feels burning with no real heat.\n\nSources:\nhttps://www.scienceabc.com/nature/how-capsaicin-led-to-the-2021-nobel-prize-in-physiology\nhttps://theconversation.com/why-doesnt-water-help-with-spicy-food-what-about-milk-or-beer-226624\nhttps://archive.news.ufl.edu/articles/2001/07/for-peppers-hot-quite-literally-the-spice-of-life-uf-research-shows.html\n\nAnimated in the Kawaii Anime style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#science",
-          "#food",
-          "#chili"
-        ],
-        "tags": [
-          "why is chili hot",
-          "capsaicin",
-          "why does spicy food burn",
-          "TRPV1",
-          "chili pepper science",
-          "spicy food science",
-          "why milk helps spicy food",
-          "why water doesn't help spicy food",
-          "birds eat chili",
-          "food science",
-          "how taste works",
-          "explainer",
-          "kawaii animation"
-        ],
-        "category": "27",
-        "pinned_comment": "What's the spiciest chili that's ever fooled you?",
-        "thumbnail_text": "TONGUE TRICKED",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "Chili isn't hot.\nYou've been fooled every single time.\nPut one in the fridge,\nand it still burns.\nYour tongue is covered in tiny heat alarms.\nThey stay quiet,\nuntil something hits about forty-three degrees Celsius,\nthat's a hundred and nine Fahrenheit.\nBut chili carries a molecule called capsaicin,\nand it fits that alarm like a key.\nThe alarm goes off at body temperature,\nand yells to your brain: this is burning!\nSo you even start to sweat,\nbut nothing's actually heating up.\nWater won't save you,\ncapsaicin won't mix with it.\nMilk's protein, casein, wraps it up,\nand carries it away.\nBirds don't even feel it,\nso they happily eat chilis,\nand spread the seeds.\nWhat's the spiciest chili that's ever fooled you?",
-        "key_facts": [
-          "Capsaicin opens TRPV1, the heat receptor that normally fires above about 43\u00b0C (109\u00b0F)",
-          "It opens at body temperature, sending the same burning signal with no temperature change",
-          "Capsaicin is hydrophobic and doesn't mix with water",
-          "Casein in milk wraps capsaicin and carries it away",
-          "Birds don't feel capsaicin and spread chili seeds"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Kawaii Anime"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261106-chili-not-hot",
-      "redos": 0,
-      "updated": "2026-11-06T23:57:43.702808+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-06",
-        "name": "2026-11-06-104.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-06",
-        "name": "2026-11-06-104-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:01,400\nChili isn't hot.\n\n2\n00:00:01,950 --> 00:00:04,130\nYou've been fooled every single time.\n\n3\n00:00:04,680 --> 00:00:05,920\nPut one in the fridge,\n\n4\n00:00:06,220 --> 00:00:07,380\nand it still burns.\n\n5\n00:00:07,930 --> 00:00:10,410\nYour tongue is covered in tiny heat alarms.\n\n6\n00:00:10,960 --> 00:00:12,010\nThey stay quiet,\n\n7\n00:00:12,310 --> 00:00:15,590\nuntil something hits about forty-three degrees Celsius,\n\n8\n00:00:15,890 --> 00:00:17,780\nthat's a hundred and nine Fahrenheit.\n\n9\n00:00:18,330 --> 00:00:21,130\nBut chili carries a molecule called capsaicin,\n\n10\n00:00:21,430 --> 00:00:23,290\nand it fits that alarm like a key.\n\n11\n00:00:23,840 --> 00:00:26,150\nThe alarm goes off at body temperature,\n\n12\n00:00:26,450 --> 00:00:28,760\nand yells to your brain: this is burning!\n\n13\n00:00:29,310 --> 00:00:30,740\nSo you even start to sweat,\n\n14\n00:00:31,040 --> 00:00:32,970\nbut nothing's actually heating up.\n\n15\n00:00:33,520 --> 00:00:34,790\nWater won't save you,\n\n16\n00:00:35,090 --> 00:00:36,790\ncapsaicin won't mix with it.\n\n17\n00:00:37,340 --> 00:00:39,580\nMilk's protein, casein, wraps it up,\n\n18\n00:00:39,880 --> 00:00:41,110\nand carries it away.\n\n19\n00:00:41,660 --> 00:00:43,100\nBirds don't even feel it,\n\n20\n00:00:43,400 --> 00:00:44,970\nso they happily eat chilis,\n\n21\n00:00:45,270 --> 00:00:46,470\nand spread the seeds.\n\n22\n00:00:47,020 --> 00:00:49,540\nWhat's the spiciest chili that's ever fooled you?\n\n",
-      "tg_msg": 1041,
-      "approved_by": "auto",
-      "description_full": "Why does chili feel hot when it isn't? Capsaicin in chili peppers switches on TRPV1, the heat sensor on your tongue that normally fires above 43\u00b0C, so your brain feels burning with no real heat.\n\nSources:\nhttps://www.scienceabc.com/nature/how-capsaicin-led-to-the-2021-nobel-prize-in-physiology\nhttps://theconversation.com/why-doesnt-water-help-with-spicy-food-what-about-milk-or-beer-226624\nhttps://archive.news.ufl.edu/articles/2001/07/for-peppers-hot-quite-literally-the-spice-of-life-uf-research-shows.html\n\nAnimated in the Kawaii Anime style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #science #food #chili\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/gIyKch5PAeI",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-11-06T23:57:43.702826+00:00",
-      "slot": "2026-11-12T17:15:00+00:00"
-    },
     "2026-11-06-105": {
       "topic": {
         "title": "Why do your nails keep growing when your arms stopped?",
@@ -3114,12 +2944,12 @@
         "format": "long",
         "style": "Watercolor Brush"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261112-bones-alive",
       "redos": 0,
-      "updated": "2026-11-12T19:33:53.396172+00:00",
+      "updated": "2026-11-12T21:34:24.782363+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Watercolor Brush style). Voice: Kokoro text-to-speech."
       ],
@@ -3134,7 +2964,17 @@
         "name": "2026-11-12-103-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:02,550\nYou were born with nearly three hundred bones.\n\n2\n00:00:03,020 --> 00:00:04,870\nSo where did almost a hundred of them go?\n\n3\n00:00:05,390 --> 00:00:07,790\nThe answer is that your skeleton is alive,\n\n4\n00:00:08,260 --> 00:00:09,970\nand it's rebuilding itself right now.\n\n5\n00:00:10,330 --> 00:00:12,790\nMost of us picture bones as dry white sticks,\n\n6\n00:00:12,870 --> 00:00:15,740\nlike the plastic skeleton in a science class.\n\n7\n00:00:16,130 --> 00:00:18,350\nBut the bones inside you have blood vessels,\n\n8\n00:00:18,700 --> 00:00:21,050\nnerves, and billions of busy cells.\n\n9\n00:00:21,420 --> 00:00:23,190\nSo what's actually going on in there?\n\n10\n00:00:23,630 --> 00:00:25,790\nLet's paint it out, one bone at a time.\n\n11\n00:00:26,190 --> 00:00:28,390\nChapter one. More bones than you think.\n\n12\n00:00:28,800 --> 00:00:31,280\nA grown-up has about two hundred and six bones.\n\n13\n00:00:31,650 --> 00:00:33,820\nBut a newborn has close to three hundred.\n\n14\n00:00:34,190 --> 00:00:35,750\nThe missing ones didn't disappear.\n\n15\n00:00:36,130 --> 00:00:37,770\nThey fused together as you grew.\n\n16\n00:00:38,220 --> 00:00:40,250\nA baby's skull is a set of soft plates,\n\n17\n00:00:40,620 --> 00:00:42,670\nwith gaps that slowly close and lock.\n\n18\n00:00:43,080 --> 00:00:45,970\nFive little bones at the bottom of your spine\n\n19\n00:00:46,030 --> 00:00:47,470\njoin up into one solid piece.\n\n20\n00:00:47,900 --> 00:00:50,730\nYour hands and feet hold one hundred and six bones,\n\n21\n00:00:51,100 --> 00:00:52,710\nmore than half of your whole skeleton.\n\n22\n00:00:53,180 --> 00:00:55,260\nChapter two. What bone is made of.\n\n23\n00:00:55,640 --> 00:00:57,880\nBone is a mix of two very different things.\n\n24\n00:00:58,280 --> 00:00:59,480\nThe first is collagen,\n\n25\n00:00:59,730 --> 00:01:01,690\na stretchy protein, a bit like rope.\n\n26\n00:01:02,110 --> 00:01:04,630\nThe second is a hard mineral made of calcium,\n\n27\n00:01:05,040 --> 00:01:07,240\npacked between the ropes like tiny bricks.\n\n28\n00:01:07,590 --> 00:01:10,230\nRope alone would bend, bricks alone would shatter.\n\n29\n00:01:10,580 --> 00:01:13,290\nTogether, you get something tough and a little springy.\n\n30\n00:01:13,730 --> 00:01:15,340\nAnd your bones are also a bank.\n\n31\n00:01:15,740 --> 00:01:18,820\nThey store about ninety nine percent of your body's calcium.\n\n32\n00:01:19,290 --> 00:01:20,430\nWhen your blood runs low,\n\n33\n00:01:20,700 --> 00:01:21,820\nyour bones pay some out,\n\n34\n00:01:21,880 --> 00:01:23,960\nso your heart and muscles keep working.\n\n35\n00:01:24,340 --> 00:01:26,280\nChapter three. The demolition crew.\n\n36\n00:01:26,690 --> 00:01:29,910\nDeep inside every bone, two kinds of cells take turns.\n\n37\n00:01:30,370 --> 00:01:33,350\nOsteoclasts dissolve tiny pockets of old bone.\n\n38\n00:01:33,700 --> 00:01:35,150\nThen osteoblasts move in,\n\n39\n00:01:35,450 --> 00:01:37,240\nand fill the hole with fresh new bone.\n\n40\n00:01:37,630 --> 00:01:39,640\nDig, then fill. Dig, then fill.\n\n41\n00:01:40,030 --> 00:01:42,620\nIn adults, around ten percent of the skeleton\n\n42\n00:01:42,720 --> 00:01:44,070\ngets rebuilt every year.\n\n43\n00:01:44,450 --> 00:01:46,910\nThat works out to roughly a brand new skeleton\n\n44\n00:01:47,170 --> 00:01:48,420\nabout every ten years.\n\n45\n00:01:48,820 --> 00:01:51,250\nThis same crew is why a broken bone can heal.\n\n46\n00:01:51,640 --> 00:01:54,020\nFirst a soft bridge forms across the crack,\n\n47\n00:01:54,100 --> 00:01:57,000\nthen the crew slowly turns it into hard bone again.\n\n48\n00:01:57,450 --> 00:01:59,340\nChapter four. The blood factory.\n\n49\n00:01:59,800 --> 00:02:02,550\nNow look inside a big bone, like your thigh bone.\n\n50\n00:02:02,920 --> 00:02:04,540\nThe middle is filled with soft marrow,\n\n51\n00:02:04,880 --> 00:02:06,290\nand that marrow is a factory.\n\n52\n00:02:06,680 --> 00:02:08,190\nIt makes your red blood cells,\n\n53\n00:02:08,510 --> 00:02:10,170\nthe white cells that fight germs,\n\n54\n00:02:10,500 --> 00:02:12,200\nand the platelets that plug up cuts.\n\n55\n00:02:12,650 --> 00:02:13,980\nHow many? Scientists estimate\n\n56\n00:02:14,040 --> 00:02:16,680\naround two hundred billion red blood cells,\n\n57\n00:02:17,030 --> 00:02:18,020\nevery single day.\n\n58\n00:02:18,380 --> 00:02:20,410\nChapter five. Use it or lose it.\n\n59\n00:02:20,890 --> 00:02:22,990\nYour bones listen to how you use them.\n\n60\n00:02:23,440 --> 00:02:25,080\nPush on them, and they build up.\n\n61\n00:02:25,550 --> 00:02:27,720\nRest them for too long, and they let go.\n\n62\n00:02:28,130 --> 00:02:29,760\nAstronauts floating in space can lose\n\n63\n00:02:30,070 --> 00:02:33,290\nabout one percent of the bone in their hips each month.\n\n64\n00:02:33,760 --> 00:02:35,880\nMeanwhile, studies of tennis players find\n\n65\n00:02:36,190 --> 00:02:38,400\nthe bones in their racket arm are thicker\n\n66\n00:02:38,530 --> 00:02:40,350\nthan the bones in their other arm.\n\n67\n00:02:40,820 --> 00:02:43,610\nSo every jump, every run, every climb up the stairs\n\n68\n00:02:43,670 --> 00:02:47,130\nis a little message telling your skeleton to stay strong.\n\n69\n00:02:47,480 --> 00:02:49,900\nSo no, your skeleton isn't a dead frame.\n\n70\n00:02:50,320 --> 00:02:52,110\nIt's a living, growing part of you,\n\n71\n00:02:52,410 --> 00:02:56,020\nquietly rebuilding itself, one tiny pocket at a time.\n\n72\n00:02:56,390 --> 00:02:57,670\nNext time, your liver,\n\n73\n00:02:58,040 --> 00:03:00,430\nthe organ that does hundreds of jobs at once.\n\n",
-      "tg_msg": 1100
+      "tg_msg": 1100,
+      "approved_by": "auto",
+      "description_full": "Your bones are living tissue: you're born with nearly 300 bones that fuse down to about 206, and cells called osteoclasts and osteoblasts dig out and rebuild about 10% of your skeleton every year. We paint how bone is made of collagen and calcium mineral, why it's a calcium bank, how broken bones heal, how bone marrow makes around 200 billion red blood cells a day, and why astronauts lose bone in space while tennis players grow thicker bones in their racket arm.\n\nSources:\nhttps://www.ncbi.nlm.nih.gov/books/NBK45504/\nhttps://www.nasa.gov/reference/risk-of-spaceflight-induced-bone-changes/\nhttps://www.thebloodproject.com/ufaq/how-many-red-cells-are-produced-by-the-bone-marrow-each-day\n\nAnimated in the Watercolor Brush style.\n\nFollow Zorbly AI for a new Short every day.\n\n#bones #humanbody #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Watercolor Brush style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/bPngaIVDTJY",
+          "private \u00b7 thumbnail \u2705"
+        ]
+      },
+      "uploaded_at": "2026-11-12T21:34:24.782374+00:00",
+      "slot": "2026-11-19T20:15:00+00:00"
     },
     "2026-11-12-104": {
       "topic": {
@@ -3183,12 +3023,12 @@
         "format": "animated",
         "style": "Cut-Paper Diorama"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261112-polar-bear-skin",
       "redos": 0,
-      "updated": "2026-11-12T19:34:04.624129+00:00",
+      "updated": "2026-11-12T21:34:29.436903+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Cut-Paper Diorama style). Voice: Kokoro text-to-speech."
       ],
@@ -3203,7 +3043,99 @@
         "name": "2026-11-12-104-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:01,670\nIf you shaved a polar bear,\n\n2\n00:00:02,000 --> 00:00:03,290\nyou'd find black skin.\n\n3\n00:00:03,750 --> 00:00:05,640\nAnd zero white hairs. Why?\n\n4\n00:00:06,080 --> 00:00:07,110\nEach hair is clear,\n\n5\n00:00:07,580 --> 00:00:08,990\nlike a tiny plastic straw\n\n6\n00:00:08,990 --> 00:00:10,930\nwith a hollow core full of air.\n\n7\n00:00:11,410 --> 00:00:12,990\nThere's no white pigment in it.\n\n8\n00:00:13,390 --> 00:00:14,920\nSo why does it look white?\n\n9\n00:00:15,370 --> 00:00:18,350\nLight bounces around inside those clear hairs\n\n10\n00:00:18,410 --> 00:00:19,690\nand scatters in every direction,\n\n11\n00:00:20,300 --> 00:00:22,610\nthe same trick that makes snow look white.\n\n12\n00:00:23,030 --> 00:00:26,140\nScientists once thought the hairs piped sunlight\n\n13\n00:00:26,200 --> 00:00:28,070\ndown to the skin like fiber optics.\n\n14\n00:00:28,420 --> 00:00:29,670\nTurns out they don't.\n\n15\n00:00:29,970 --> 00:00:32,180\nMost sunlight never reaches the skin.\n\n16\n00:00:32,590 --> 00:00:36,780\nThe black skin may soak up what little warmth gets through,\n\n17\n00:00:36,890 --> 00:00:38,770\nbut the real heater is underneath:\n\n18\n00:00:38,860 --> 00:00:40,430\nup to eleven centimeters of fat,\n\n19\n00:00:40,850 --> 00:00:42,930\nplus fur that traps heat so well\n\n20\n00:00:43,000 --> 00:00:46,050\npolar bears almost vanish on heat cameras.\n\n21\n00:00:46,480 --> 00:00:47,760\nSo is a polar bear white,\n\n22\n00:00:48,120 --> 00:00:48,440\nblack,\n\n23\n00:00:48,520 --> 00:00:49,770\nor totally see-through?\n\n",
-      "tg_msg": 1101
+      "tg_msg": 1101,
+      "approved_by": "auto",
+      "description_full": "Why do polar bears have black skin under white fur? Polar bear hairs are clear and hollow with no white pigment, and they only look white because light scatters inside them, while most warmth comes from thick fat and fur that traps heat so well polar bears almost vanish on heat cameras.\n\nSources:\nhttps://www.gi.alaska.edu/alaska-science-forum/debunking-myth-polar-bear-hair\nhttps://www.livescience.com/43217-new-research-reveals-how-polar-bears-stay-warm.html\nhttps://seaworld.org/animals/all-about/polar-bears/characteristics/\n\nAnimated in the Cut-Paper Diorama style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #polarbear #animalfacts #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Cut-Paper Diorama style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/Jh0p1EqmBYY",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-12T21:34:29.436912+00:00",
+      "slot": "2026-11-20T00:15:00+00:00"
+    },
+    "2026-11-12-105": {
+      "topic": {
+        "title": "Why do your ears and nose seem to keep growing as you age?",
+        "format": "animated",
+        "angle": "Halftone Dossier"
+      },
+      "package": {
+        "title": "Your Ears Get 0.22 mm Longer Every Year \ud83d\udc42",
+        "description": "Why do your ears and nose keep getting longer as you age? Adult ears and noses aren't really growing: collagen and elastin fibers weaken with age and gravity slowly stretches the cartilage and skin, with earlobes sagging the most.\n\nSources:\nhttps://www.bmj.com/content/311/7021/1668\nhttps://www.livescience.com/health/ageing/do-ears-and-noses-get-bigger-with-age\nhttps://jadams5.github.io/aging_wiki/phenotypes/ear-nose-enlargement\n\nAnimated in the Halftone Dossier style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#bodyfacts",
+          "#science",
+          "#aging"
+        ],
+        "tags": [
+          "why do ears keep growing",
+          "do ears grow with age",
+          "do noses grow with age",
+          "why do old people have big ears",
+          "ears get longer",
+          "earlobes sag",
+          "collagen and elastin",
+          "cartilage aging",
+          "gravity and aging",
+          "0.22 mm per year",
+          "human body facts",
+          "body facts",
+          "science explained",
+          "how the body ages"
+        ],
+        "category": "27",
+        "pinned_comment": "How much longer will your ears be at 100? Do the math and drop your guess \ud83d\udc47",
+        "thumbnail_text": "NOT GROWING?",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "Your ears never stop getting longer, but they aren't growing. Your nose droops lower every year too. So what's stretching them? Your bones stopped getting longer years ago. The floppy parts of your ears and nose are cartilage and skin, held up by springy fibers called collagen and elastin. As you get older, your body makes fewer of those fibers. The springs get weaker, and gravity wins. Every single year it pulls them down a tiny bit more. Earlobes stretch the most, because there's no cartilage inside them at all. Just skin and fat. One study of two hundred and six adults found ears get about zero point two two millimeters longer every year after age thirty. That's roughly a whole centimeter by eighty. So nothing's growing. Your face is just slowly sagging. So how much longer will your ears be at a hundred?",
+        "key_facts": [
+          "Adult ears and noses lengthen and droop with age, but not from tissue growth like in childhood (Live Science)",
+          "Main cause: less collagen and elastin plus gravity, making earlobes sag and the nose tip droop (Live Science, aging wiki)",
+          "Earlobes elongate most because they have no cartilage, only fibrofatty tissue (aging wiki)",
+          "Heathcote 1995 BMJ, 206 adults aged 30-93: ear length rises about 0.22 mm per year (aging wiki summary of BMJ study)",
+          "0.22 mm x 50 years (30 to 80) is about 11 mm, roughly 1 cm"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Halftone Dossier"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261112-stretching-ears",
+      "redos": 0,
+      "updated": "2026-11-12T21:29:01.340310+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Halftone Dossier style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-12",
+        "name": "2026-11-12-105.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-12",
+        "name": "2026-11-12-105-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:02,190\nYour ears never stop getting longer,\n\n2\n00:00:02,530 --> 00:00:03,640\nbut they aren't growing.\n\n3\n00:00:04,110 --> 00:00:06,310\nYour nose droops lower every year too.\n\n4\n00:00:06,730 --> 00:00:08,030\nSo what's stretching them?\n\n5\n00:00:08,520 --> 00:00:10,900\nYour bones stopped getting longer years ago.\n\n6\n00:00:11,260 --> 00:00:13,660\nThe floppy parts of your ears and nose\n\n7\n00:00:13,730 --> 00:00:14,940\nare cartilage and skin,\n\n8\n00:00:15,570 --> 00:00:19,040\nheld up by springy fibers called collagen and elastin.\n\n9\n00:00:19,500 --> 00:00:20,400\nAs you get older,\n\n10\n00:00:20,740 --> 00:00:22,920\nyour body makes fewer of those fibers.\n\n11\n00:00:23,370 --> 00:00:24,520\nThe springs get weaker,\n\n12\n00:00:24,760 --> 00:00:25,840\nand gravity wins.\n\n13\n00:00:26,320 --> 00:00:27,490\nEvery single year\n\n14\n00:00:27,570 --> 00:00:29,450\nit pulls them down a tiny bit more.\n\n15\n00:00:29,890 --> 00:00:31,320\nEarlobes stretch the most,\n\n16\n00:00:31,750 --> 00:00:34,410\nbecause there's no cartilage inside them at all.\n\n17\n00:00:34,850 --> 00:00:36,080\nJust skin and fat.\n\n18\n00:00:36,440 --> 00:00:39,420\nOne study of two hundred and six adults found\n\n19\n00:00:39,510 --> 00:00:43,080\nears get about zero point two two millimeters longer every year\n\n20\n00:00:43,370 --> 00:00:45,060\nafter age thirty.\n\n21\n00:00:45,470 --> 00:00:47,780\nThat's roughly a whole centimeter by eighty.\n\n22\n00:00:48,200 --> 00:00:49,540\nSo nothing's growing.\n\n23\n00:00:49,880 --> 00:00:51,860\nYour face is just slowly sagging.\n\n24\n00:00:52,250 --> 00:00:54,860\nSo how much longer will your ears be at a hundred?\n\n",
+      "tg_msg": 1103
     }
   },
   "history": [
@@ -3388,7 +3320,8 @@
     "drop/20261112-banana-spots": "2026-11-12-101",
     "drop/20261112-contagious-yawn": "2026-11-12-102",
     "drop/20261112-bones-alive": "2026-11-12-103",
-    "drop/20261112-polar-bear-skin": "2026-11-12-104"
+    "drop/20261112-polar-bear-skin": "2026-11-12-104",
+    "drop/20261112-stretching-ears": "2026-11-12-105"
   },
   "refs_day": "2026-11-12"
 }
