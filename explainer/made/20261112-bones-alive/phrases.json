@@ -1,0 +1,2653 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.55,
+  "text": "You were born with nearly three hundred bones.",
+  "words": [
+   [
+    "you",
+    0.25
+   ],
+   [
+    "were",
+    0.43
+   ],
+   [
+    "born",
+    0.67
+   ],
+   [
+    "with",
+    0.92
+   ],
+   [
+    "nearly",
+    1.16
+   ],
+   [
+    "three",
+    1.52
+   ],
+   [
+    "hundred",
+    1.83
+   ],
+   [
+    "bones",
+    2.25
+   ]
+  ]
+ },
+ {
+  "s": 3.02,
+  "e": 4.87,
+  "text": "So where did almost a hundred of them go?",
+  "words": [
+   [
+    "so",
+    3.02
+   ],
+   [
+    "where",
+    3.13
+   ],
+   [
+    "did",
+    3.42
+   ],
+   [
+    "almost",
+    3.6
+   ],
+   [
+    "a",
+    3.94
+   ],
+   [
+    "hundred",
+    4.0
+   ],
+   [
+    "of",
+    4.41
+   ],
+   [
+    "them",
+    4.52
+   ],
+   [
+    "go",
+    4.75
+   ]
+  ]
+ },
+ {
+  "s": 5.39,
+  "e": 7.79,
+  "text": "The answer is that your skeleton is alive,",
+  "words": [
+   [
+    "the",
+    5.39
+   ],
+   [
+    "answer",
+    5.6
+   ],
+   [
+    "is",
+    6.02
+   ],
+   [
+    "that",
+    6.16
+   ],
+   [
+    "your",
+    6.45
+   ],
+   [
+    "skeleton",
+    6.73
+   ],
+   [
+    "is",
+    7.29
+   ],
+   [
+    "alive",
+    7.43
+   ]
+  ]
+ },
+ {
+  "s": 8.26,
+  "e": 9.97,
+  "text": "and it's rebuilding itself right now.",
+  "words": [
+   [
+    "and",
+    8.26
+   ],
+   [
+    "its",
+    8.43
+   ],
+   [
+    "rebuilding",
+    8.6
+   ],
+   [
+    "itself",
+    9.17
+   ],
+   [
+    "right",
+    9.52
+   ],
+   [
+    "now",
+    9.8
+   ]
+  ]
+ },
+ {
+  "s": 10.33,
+  "e": 12.79,
+  "text": "Most of us picture bones as dry white sticks,",
+  "words": [
+   [
+    "most",
+    10.33
+   ],
+   [
+    "of",
+    10.61
+   ],
+   [
+    "us",
+    10.74
+   ],
+   [
+    "picture",
+    10.88
+   ],
+   [
+    "bones",
+    11.36
+   ],
+   [
+    "as",
+    11.7
+   ],
+   [
+    "dry",
+    11.84
+   ],
+   [
+    "white",
+    12.04
+   ],
+   [
+    "sticks",
+    12.38
+   ]
+  ]
+ },
+ {
+  "s": 12.87,
+  "e": 15.74,
+  "text": "like the plastic skeleton in a science class.",
+  "words": [
+   [
+    "like",
+    12.87
+   ],
+   [
+    "the",
+    13.18
+   ],
+   [
+    "plastic",
+    13.42
+   ],
+   [
+    "skeleton",
+    13.96
+   ],
+   [
+    "in",
+    14.58
+   ],
+   [
+    "a",
+    14.73
+   ],
+   [
+    "science",
+    14.81
+   ],
+   [
+    "class",
+    15.35
+   ]
+  ]
+ },
+ {
+  "s": 16.13,
+  "e": 18.35,
+  "text": "But the bones inside you have blood vessels,",
+  "words": [
+   [
+    "but",
+    16.13
+   ],
+   [
+    "the",
+    16.32
+   ],
+   [
+    "bones",
+    16.5
+   ],
+   [
+    "inside",
+    16.81
+   ],
+   [
+    "you",
+    17.18
+   ],
+   [
+    "have",
+    17.36
+   ],
+   [
+    "blood",
+    17.61
+   ],
+   [
+    "vessels",
+    17.92
+   ]
+  ]
+ },
+ {
+  "s": 18.7,
+  "e": 21.05,
+  "text": "nerves, and billions of busy cells.",
+  "words": [
+   [
+    "nerves",
+    18.7
+   ],
+   [
+    "and",
+    19.2
+   ],
+   [
+    "billions",
+    19.46
+   ],
+   [
+    "of",
+    20.13
+   ],
+   [
+    "busy",
+    20.3
+   ],
+   [
+    "cells",
+    20.63
+   ]
+  ]
+ },
+ {
+  "s": 21.42,
+  "e": 23.19,
+  "text": "So what's actually going on in there?",
+  "words": [
+   [
+    "so",
+    21.42
+   ],
+   [
+    "whats",
+    21.54
+   ],
+   [
+    "actually",
+    21.85
+   ],
+   [
+    "going",
+    22.34
+   ],
+   [
+    "on",
+    22.64
+   ],
+   [
+    "in",
+    22.76
+   ],
+   [
+    "there",
+    22.88
+   ]
+  ]
+ },
+ {
+  "s": 23.63,
+  "e": 25.79,
+  "text": "Let's paint it out, one bone at a time.",
+  "words": [
+   [
+    "lets",
+    23.63
+   ],
+   [
+    "paint",
+    23.94
+   ],
+   [
+    "it",
+    24.32
+   ],
+   [
+    "out",
+    24.48
+   ],
+   [
+    "one",
+    24.71
+   ],
+   [
+    "bone",
+    24.94
+   ],
+   [
+    "at",
+    25.25
+   ],
+   [
+    "a",
+    25.4
+   ],
+   [
+    "time",
+    25.48
+   ]
+  ]
+ },
+ {
+  "s": 26.19,
+  "e": 28.39,
+  "text": "Chapter one. More bones than you think.",
+  "words": [
+   [
+    "chapter",
+    26.19
+   ],
+   [
+    "one",
+    26.68
+   ],
+   [
+    "more",
+    26.9
+   ],
+   [
+    "bones",
+    27.18
+   ],
+   [
+    "than",
+    27.54
+   ],
+   [
+    "you",
+    27.82
+   ],
+   [
+    "think",
+    28.03
+   ]
+  ]
+ },
+ {
+  "s": 28.8,
+  "e": 31.28,
+  "text": "A grown-up has about two hundred and six bones.",
+  "words": [
+   [
+    "a",
+    28.8
+   ],
+   [
+    "grownup",
+    28.87
+   ],
+   [
+    "has",
+    29.34
+   ],
+   [
+    "about",
+    29.54
+   ],
+   [
+    "two",
+    29.87
+   ],
+   [
+    "hundred",
+    30.08
+   ],
+   [
+    "and",
+    30.54
+   ],
+   [
+    "six",
+    30.75
+   ],
+   [
+    "bones",
+    30.95
+   ]
+  ]
+ },
+ {
+  "s": 31.65,
+  "e": 33.82,
+  "text": "But a newborn has close to three hundred.",
+  "words": [
+   [
+    "but",
+    31.65
+   ],
+   [
+    "a",
+    31.84
+   ],
+   [
+    "newborn",
+    31.91
+   ],
+   [
+    "has",
+    32.37
+   ],
+   [
+    "close",
+    32.57
+   ],
+   [
+    "to",
+    32.9
+   ],
+   [
+    "three",
+    33.03
+   ],
+   [
+    "hundred",
+    33.36
+   ]
+  ]
+ },
+ {
+  "s": 34.19,
+  "e": 35.75,
+  "text": "The missing ones didn't disappear.",
+  "words": [
+   [
+    "the",
+    34.19
+   ],
+   [
+    "missing",
+    34.36
+   ],
+   [
+    "ones",
+    34.75
+   ],
+   [
+    "didnt",
+    34.97
+   ],
+   [
+    "disappear",
+    35.25
+   ]
+  ]
+ },
+ {
+  "s": 36.13,
+  "e": 37.77,
+  "text": "They fused together as you grew.",
+  "words": [
+   [
+    "they",
+    36.13
+   ],
+   [
+    "fused",
+    36.38
+   ],
+   [
+    "together",
+    36.7
+   ],
+   [
+    "as",
+    37.2
+   ],
+   [
+    "you",
+    37.33
+   ],
+   [
+    "grew",
+    37.52
+   ]
+  ]
+ },
+ {
+  "s": 38.22,
+  "e": 40.25,
+  "text": "A baby's skull is a set of soft plates,",
+  "words": [
+   [
+    "a",
+    38.22
+   ],
+   [
+    "babys",
+    38.29
+   ],
+   [
+    "skull",
+    38.64
+   ],
+   [
+    "is",
+    38.99
+   ],
+   [
+    "a",
+    39.13
+   ],
+   [
+    "set",
+    39.2
+   ],
+   [
+    "of",
+    39.41
+   ],
+   [
+    "soft",
+    39.55
+   ],
+   [
+    "plates",
+    39.83
+   ]
+  ]
+ },
+ {
+  "s": 40.62,
+  "e": 42.67,
+  "text": "with gaps that slowly close and lock.",
+  "words": [
+   [
+    "with",
+    40.62
+   ],
+   [
+    "gaps",
+    40.9
+   ],
+   [
+    "that",
+    41.17
+   ],
+   [
+    "slowly",
+    41.44
+   ],
+   [
+    "close",
+    41.85
+   ],
+   [
+    "and",
+    42.19
+   ],
+   [
+    "lock",
+    42.4
+   ]
+  ]
+ },
+ {
+  "s": 43.08,
+  "e": 45.97,
+  "text": "Five little bones at the bottom of your spine",
+  "words": [
+   [
+    "five",
+    43.08
+   ],
+   [
+    "little",
+    43.39
+   ],
+   [
+    "bones",
+    43.86
+   ],
+   [
+    "at",
+    44.25
+   ],
+   [
+    "the",
+    44.41
+   ],
+   [
+    "bottom",
+    44.64
+   ],
+   [
+    "of",
+    45.11
+   ],
+   [
+    "your",
+    45.27
+   ],
+   [
+    "spine",
+    45.58
+   ]
+  ]
+ },
+ {
+  "s": 46.03,
+  "e": 47.47,
+  "text": "join up into one solid piece.",
+  "words": [
+   [
+    "join",
+    46.03
+   ],
+   [
+    "up",
+    46.28
+   ],
+   [
+    "into",
+    46.4
+   ],
+   [
+    "one",
+    46.65
+   ],
+   [
+    "solid",
+    46.84
+   ],
+   [
+    "piece",
+    47.15
+   ]
+  ]
+ },
+ {
+  "s": 47.9,
+  "e": 50.73,
+  "text": "Your hands and feet hold one hundred and six bones,",
+  "words": [
+   [
+    "your",
+    47.9
+   ],
+   [
+    "hands",
+    48.17
+   ],
+   [
+    "and",
+    48.52
+   ],
+   [
+    "feet",
+    48.72
+   ],
+   [
+    "hold",
+    49.0
+   ],
+   [
+    "one",
+    49.28
+   ],
+   [
+    "hundred",
+    49.48
+   ],
+   [
+    "and",
+    49.97
+   ],
+   [
+    "six",
+    50.17
+   ],
+   [
+    "bones",
+    50.38
+   ]
+  ]
+ },
+ {
+  "s": 51.1,
+  "e": 52.71,
+  "text": "more than half of your whole skeleton.",
+  "words": [
+   [
+    "more",
+    51.1
+   ],
+   [
+    "than",
+    51.3
+   ],
+   [
+    "half",
+    51.51
+   ],
+   [
+    "of",
+    51.72
+   ],
+   [
+    "your",
+    51.82
+   ],
+   [
+    "whole",
+    52.03
+   ],
+   [
+    "skeleton",
+    52.29
+   ]
+  ]
+ },
+ {
+  "s": 53.18,
+  "e": 55.26,
+  "text": "Chapter two. What bone is made of.",
+  "words": [
+   [
+    "chapter",
+    53.18
+   ],
+   [
+    "two",
+    53.74
+   ],
+   [
+    "what",
+    53.98
+   ],
+   [
+    "bone",
+    54.3
+   ],
+   [
+    "is",
+    54.62
+   ],
+   [
+    "made",
+    54.78
+   ],
+   [
+    "of",
+    55.1
+   ]
+  ]
+ },
+ {
+  "s": 55.64,
+  "e": 57.88,
+  "text": "Bone is a mix of two very different things.",
+  "words": [
+   [
+    "bone",
+    55.64
+   ],
+   [
+    "is",
+    55.9
+   ],
+   [
+    "a",
+    56.04
+   ],
+   [
+    "mix",
+    56.1
+   ],
+   [
+    "of",
+    56.3
+   ],
+   [
+    "two",
+    56.43
+   ],
+   [
+    "very",
+    56.63
+   ],
+   [
+    "different",
+    56.89
+   ],
+   [
+    "things",
+    57.48
+   ]
+  ]
+ },
+ {
+  "s": 58.28,
+  "e": 59.48,
+  "text": "The first is collagen,",
+  "words": [
+   [
+    "the",
+    58.28
+   ],
+   [
+    "first",
+    58.48
+   ],
+   [
+    "is",
+    58.82
+   ],
+   [
+    "collagen",
+    58.95
+   ]
+  ]
+ },
+ {
+  "s": 59.73,
+  "e": 61.69,
+  "text": "a stretchy protein, a bit like rope.",
+  "words": [
+   [
+    "a",
+    59.73
+   ],
+   [
+    "stretchy",
+    59.8
+   ],
+   [
+    "protein",
+    60.36
+   ],
+   [
+    "a",
+    60.85
+   ],
+   [
+    "bit",
+    60.92
+   ],
+   [
+    "like",
+    61.13
+   ],
+   [
+    "rope",
+    61.41
+   ]
+  ]
+ },
+ {
+  "s": 62.11,
+  "e": 64.63,
+  "text": "The second is a hard mineral made of calcium,",
+  "words": [
+   [
+    "the",
+    62.11
+   ],
+   [
+    "second",
+    62.32
+   ],
+   [
+    "is",
+    62.74
+   ],
+   [
+    "a",
+    62.88
+   ],
+   [
+    "hard",
+    62.95
+   ],
+   [
+    "mineral",
+    63.23
+   ],
+   [
+    "made",
+    63.72
+   ],
+   [
+    "of",
+    64.0
+   ],
+   [
+    "calcium",
+    64.14
+   ]
+  ]
+ },
+ {
+  "s": 65.04,
+  "e": 67.24,
+  "text": "packed between the ropes like tiny bricks.",
+  "words": [
+   [
+    "packed",
+    65.04
+   ],
+   [
+    "between",
+    65.42
+   ],
+   [
+    "the",
+    65.86
+   ],
+   [
+    "ropes",
+    66.05
+   ],
+   [
+    "like",
+    66.36
+   ],
+   [
+    "tiny",
+    66.61
+   ],
+   [
+    "bricks",
+    66.86
+   ]
+  ]
+ },
+ {
+  "s": 67.59,
+  "e": 70.23,
+  "text": "Rope alone would bend, bricks alone would shatter.",
+  "words": [
+   [
+    "rope",
+    67.59
+   ],
+   [
+    "alone",
+    67.84
+   ],
+   [
+    "would",
+    68.17
+   ],
+   [
+    "bend",
+    68.49
+   ],
+   [
+    "bricks",
+    68.74
+   ],
+   [
+    "alone",
+    69.13
+   ],
+   [
+    "would",
+    69.45
+   ],
+   [
+    "shatter",
+    69.78
+   ]
+  ]
+ },
+ {
+  "s": 70.58,
+  "e": 73.29,
+  "text": "Together, you get something tough and a little springy.",
+  "words": [
+   [
+    "together",
+    70.58
+   ],
+   [
+    "you",
+    71.06
+   ],
+   [
+    "get",
+    71.24
+   ],
+   [
+    "something",
+    71.42
+   ],
+   [
+    "tough",
+    71.96
+   ],
+   [
+    "and",
+    72.26
+   ],
+   [
+    "a",
+    72.44
+   ],
+   [
+    "little",
+    72.5
+   ],
+   [
+    "springy",
+    72.86
+   ]
+  ]
+ },
+ {
+  "s": 73.73,
+  "e": 75.34,
+  "text": "And your bones are also a bank.",
+  "words": [
+   [
+    "and",
+    73.73
+   ],
+   [
+    "your",
+    73.93
+   ],
+   [
+    "bones",
+    74.2
+   ],
+   [
+    "are",
+    74.54
+   ],
+   [
+    "also",
+    74.74
+   ],
+   [
+    "a",
+    75.0
+   ],
+   [
+    "bank",
+    75.07
+   ]
+  ]
+ },
+ {
+  "s": 75.74,
+  "e": 78.82,
+  "text": "They store about ninety nine percent of your body's calcium.",
+  "words": [
+   [
+    "they",
+    75.74
+   ],
+   [
+    "store",
+    75.99
+   ],
+   [
+    "about",
+    76.3
+   ],
+   [
+    "ninety",
+    76.62
+   ],
+   [
+    "nine",
+    77.0
+   ],
+   [
+    "percent",
+    77.25
+   ],
+   [
+    "of",
+    77.69
+   ],
+   [
+    "your",
+    77.81
+   ],
+   [
+    "bodys",
+    78.06
+   ],
+   [
+    "calcium",
+    78.38
+   ]
+  ]
+ },
+ {
+  "s": 79.29,
+  "e": 80.43,
+  "text": "When your blood runs low,",
+  "words": [
+   [
+    "when",
+    79.29
+   ],
+   [
+    "your",
+    79.51
+   ],
+   [
+    "blood",
+    79.74
+   ],
+   [
+    "runs",
+    80.03
+   ],
+   [
+    "low",
+    80.26
+   ]
+  ]
+ },
+ {
+  "s": 80.7,
+  "e": 81.82,
+  "text": "your bones pay some out,",
+  "words": [
+   [
+    "your",
+    80.7
+   ],
+   [
+    "bones",
+    80.93
+   ],
+   [
+    "pay",
+    81.23
+   ],
+   [
+    "some",
+    81.4
+   ],
+   [
+    "out",
+    81.64
+   ]
+  ]
+ },
+ {
+  "s": 81.88,
+  "e": 83.96,
+  "text": "so your heart and muscles keep working.",
+  "words": [
+   [
+    "so",
+    81.88
+   ],
+   [
+    "your",
+    82.01
+   ],
+   [
+    "heart",
+    82.27
+   ],
+   [
+    "and",
+    82.59
+   ],
+   [
+    "muscles",
+    82.79
+   ],
+   [
+    "keep",
+    83.24
+   ],
+   [
+    "working",
+    83.5
+   ]
+  ]
+ },
+ {
+  "s": 84.34,
+  "e": 86.28,
+  "text": "Chapter three. The demolition crew.",
+  "words": [
+   [
+    "chapter",
+    84.34
+   ],
+   [
+    "three",
+    84.81
+   ],
+   [
+    "the",
+    85.14
+   ],
+   [
+    "demolition",
+    85.34
+   ],
+   [
+    "crew",
+    86.01
+   ]
+  ]
+ },
+ {
+  "s": 86.69,
+  "e": 89.91,
+  "text": "Deep inside every bone, two kinds of cells take turns.",
+  "words": [
+   [
+    "deep",
+    86.69
+   ],
+   [
+    "inside",
+    86.99
+   ],
+   [
+    "every",
+    87.44
+   ],
+   [
+    "bone",
+    87.82
+   ],
+   [
+    "two",
+    88.12
+   ],
+   [
+    "kinds",
+    88.34
+   ],
+   [
+    "of",
+    88.71
+   ],
+   [
+    "cells",
+    88.86
+   ],
+   [
+    "take",
+    89.24
+   ],
+   [
+    "turns",
+    89.54
+   ]
+  ]
+ },
+ {
+  "s": 90.37,
+  "e": 93.35,
+  "text": "Osteoclasts dissolve tiny pockets of old bone.",
+  "words": [
+   [
+    "osteoclasts",
+    90.37
+   ],
+   [
+    "dissolve",
+    91.21
+   ],
+   [
+    "tiny",
+    91.82
+   ],
+   [
+    "pockets",
+    92.13
+   ],
+   [
+    "of",
+    92.66
+   ],
+   [
+    "old",
+    92.81
+   ],
+   [
+    "bone",
+    93.04
+   ]
+  ]
+ },
+ {
+  "s": 93.7,
+  "e": 95.15,
+  "text": "Then osteoblasts move in,",
+  "words": [
+   [
+    "then",
+    93.7
+   ],
+   [
+    "osteoblasts",
+    93.98
+   ],
+   [
+    "move",
+    94.73
+   ],
+   [
+    "in",
+    95.01
+   ]
+  ]
+ },
+ {
+  "s": 95.45,
+  "e": 97.24,
+  "text": "and fill the hole with fresh new bone.",
+  "words": [
+   [
+    "and",
+    95.45
+   ],
+   [
+    "fill",
+    95.63
+   ],
+   [
+    "the",
+    95.87
+   ],
+   [
+    "hole",
+    96.04
+   ],
+   [
+    "with",
+    96.28
+   ],
+   [
+    "fresh",
+    96.52
+   ],
+   [
+    "new",
+    96.82
+   ],
+   [
+    "bone",
+    97.0
+   ]
+  ]
+ },
+ {
+  "s": 97.63,
+  "e": 99.64,
+  "text": "Dig, then fill. Dig, then fill.",
+  "words": [
+   [
+    "dig",
+    97.63
+   ],
+   [
+    "then",
+    97.9
+   ],
+   [
+    "fill",
+    98.27
+   ],
+   [
+    "dig",
+    98.63
+   ],
+   [
+    "then",
+    98.91
+   ],
+   [
+    "fill",
+    99.27
+   ]
+  ]
+ },
+ {
+  "s": 100.03,
+  "e": 102.62,
+  "text": "In adults, around ten percent of the skeleton",
+  "words": [
+   [
+    "in",
+    100.03
+   ],
+   [
+    "adults",
+    100.17
+   ],
+   [
+    "around",
+    100.59
+   ],
+   [
+    "ten",
+    101.01
+   ],
+   [
+    "percent",
+    101.22
+   ],
+   [
+    "of",
+    101.71
+   ],
+   [
+    "the",
+    101.85
+   ],
+   [
+    "skeleton",
+    102.06
+   ]
+  ]
+ },
+ {
+  "s": 102.72,
+  "e": 104.07,
+  "text": "gets rebuilt every year.",
+  "words": [
+   [
+    "gets",
+    102.72
+   ],
+   [
+    "rebuilt",
+    102.99
+   ],
+   [
+    "every",
+    103.47
+   ],
+   [
+    "year",
+    103.8
+   ]
+  ]
+ },
+ {
+  "s": 104.45,
+  "e": 106.91,
+  "text": "That works out to roughly a brand new skeleton",
+  "words": [
+   [
+    "that",
+    104.45
+   ],
+   [
+    "works",
+    104.71
+   ],
+   [
+    "out",
+    105.04
+   ],
+   [
+    "to",
+    105.23
+   ],
+   [
+    "roughly",
+    105.36
+   ],
+   [
+    "a",
+    105.81
+   ],
+   [
+    "brand",
+    105.88
+   ],
+   [
+    "new",
+    106.2
+   ],
+   [
+    "skeleton",
+    106.4
+   ]
+  ]
+ },
+ {
+  "s": 107.17,
+  "e": 108.42,
+  "text": "about every ten years.",
+  "words": [
+   [
+    "about",
+    107.17
+   ],
+   [
+    "every",
+    107.52
+   ],
+   [
+    "ten",
+    107.87
+   ],
+   [
+    "years",
+    108.07
+   ]
+  ]
+ },
+ {
+  "s": 108.82,
+  "e": 111.25,
+  "text": "This same crew is why a broken bone can heal.",
+  "words": [
+   [
+    "this",
+    108.82
+   ],
+   [
+    "same",
+    109.09
+   ],
+   [
+    "crew",
+    109.37
+   ],
+   [
+    "is",
+    109.65
+   ],
+   [
+    "why",
+    109.79
+   ],
+   [
+    "a",
+    110.0
+   ],
+   [
+    "broken",
+    110.07
+   ],
+   [
+    "bone",
+    110.48
+   ],
+   [
+    "can",
+    110.76
+   ],
+   [
+    "heal",
+    110.97
+   ]
+  ]
+ },
+ {
+  "s": 111.64,
+  "e": 114.02,
+  "text": "First a soft bridge forms across the crack,",
+  "words": [
+   [
+    "first",
+    111.64
+   ],
+   [
+    "a",
+    111.98
+   ],
+   [
+    "soft",
+    112.05
+   ],
+   [
+    "bridge",
+    112.32
+   ],
+   [
+    "forms",
+    112.73
+   ],
+   [
+    "across",
+    113.07
+   ],
+   [
+    "the",
+    113.48
+   ],
+   [
+    "crack",
+    113.68
+   ]
+  ]
+ },
+ {
+  "s": 114.1,
+  "e": 117.0,
+  "text": "then the crew slowly turns it into hard bone again.",
+  "words": [
+   [
+    "then",
+    114.1
+   ],
+   [
+    "the",
+    114.38
+   ],
+   [
+    "crew",
+    114.6
+   ],
+   [
+    "slowly",
+    114.88
+   ],
+   [
+    "turns",
+    115.3
+   ],
+   [
+    "it",
+    115.66
+   ],
+   [
+    "into",
+    115.8
+   ],
+   [
+    "hard",
+    116.08
+   ],
+   [
+    "bone",
+    116.37
+   ],
+   [
+    "again",
+    116.65
+   ]
+  ]
+ },
+ {
+  "s": 117.45,
+  "e": 119.34,
+  "text": "Chapter four. The blood factory.",
+  "words": [
+   [
+    "chapter",
+    117.45
+   ],
+   [
+    "four",
+    117.96
+   ],
+   [
+    "the",
+    118.25
+   ],
+   [
+    "blood",
+    118.47
+   ],
+   [
+    "factory",
+    118.83
+   ]
+  ]
+ },
+ {
+  "s": 119.8,
+  "e": 122.55,
+  "text": "Now look inside a big bone, like your thigh bone.",
+  "words": [
+   [
+    "now",
+    119.8
+   ],
+   [
+    "look",
+    120.02
+   ],
+   [
+    "inside",
+    120.31
+   ],
+   [
+    "a",
+    120.74
+   ],
+   [
+    "big",
+    120.81
+   ],
+   [
+    "bone",
+    121.03
+   ],
+   [
+    "like",
+    121.32
+   ],
+   [
+    "your",
+    121.61
+   ],
+   [
+    "thigh",
+    121.9
+   ],
+   [
+    "bone",
+    122.26
+   ]
+  ]
+ },
+ {
+  "s": 122.92,
+  "e": 124.54,
+  "text": "The middle is filled with soft marrow,",
+  "words": [
+   [
+    "the",
+    122.92
+   ],
+   [
+    "middle",
+    123.08
+   ],
+   [
+    "is",
+    123.39
+   ],
+   [
+    "filled",
+    123.5
+   ],
+   [
+    "with",
+    123.81
+   ],
+   [
+    "soft",
+    124.02
+   ],
+   [
+    "marrow",
+    124.23
+   ]
+  ]
+ },
+ {
+  "s": 124.88,
+  "e": 126.29,
+  "text": "and that marrow is a factory.",
+  "words": [
+   [
+    "and",
+    124.88
+   ],
+   [
+    "that",
+    125.06
+   ],
+   [
+    "marrow",
+    125.31
+   ],
+   [
+    "is",
+    125.68
+   ],
+   [
+    "a",
+    125.8
+   ],
+   [
+    "factory",
+    125.86
+   ]
+  ]
+ },
+ {
+  "s": 126.68,
+  "e": 128.19,
+  "text": "It makes your red blood cells,",
+  "words": [
+   [
+    "it",
+    126.68
+   ],
+   [
+    "makes",
+    126.81
+   ],
+   [
+    "your",
+    127.12
+   ],
+   [
+    "red",
+    127.37
+   ],
+   [
+    "blood",
+    127.56
+   ],
+   [
+    "cells",
+    127.88
+   ]
+  ]
+ },
+ {
+  "s": 128.51,
+  "e": 130.17,
+  "text": "the white cells that fight germs,",
+  "words": [
+   [
+    "the",
+    128.51
+   ],
+   [
+    "white",
+    128.7
+   ],
+   [
+    "cells",
+    129.0
+   ],
+   [
+    "that",
+    129.31
+   ],
+   [
+    "fight",
+    129.56
+   ],
+   [
+    "germs",
+    129.86
+   ]
+  ]
+ },
+ {
+  "s": 130.5,
+  "e": 132.2,
+  "text": "and the platelets that plug up cuts.",
+  "words": [
+   [
+    "and",
+    130.5
+   ],
+   [
+    "the",
+    130.68
+   ],
+   [
+    "platelets",
+    130.85
+   ],
+   [
+    "that",
+    131.38
+   ],
+   [
+    "plug",
+    131.62
+   ],
+   [
+    "up",
+    131.85
+   ],
+   [
+    "cuts",
+    131.97
+   ]
+  ]
+ },
+ {
+  "s": 132.65,
+  "e": 133.98,
+  "text": "How many? Scientists estimate",
+  "words": [
+   [
+    "how",
+    132.65
+   ],
+   [
+    "many",
+    132.81
+   ],
+   [
+    "scientists",
+    133.02
+   ],
+   [
+    "estimate",
+    133.56
+   ]
+  ]
+ },
+ {
+  "s": 134.04,
+  "e": 136.68,
+  "text": "around two hundred billion red blood cells,",
+  "words": [
+   [
+    "around",
+    134.04
+   ],
+   [
+    "two",
+    134.48
+   ],
+   [
+    "hundred",
+    134.7
+   ],
+   [
+    "billion",
+    135.22
+   ],
+   [
+    "red",
+    135.73
+   ],
+   [
+    "blood",
+    135.95
+   ],
+   [
+    "cells",
+    136.32
+   ]
+  ]
+ },
+ {
+  "s": 137.03,
+  "e": 138.02,
+  "text": "every single day.",
+  "words": [
+   [
+    "every",
+    137.03
+   ],
+   [
+    "single",
+    137.38
+   ],
+   [
+    "day",
+    137.81
+   ]
+  ]
+ },
+ {
+  "s": 138.38,
+  "e": 140.41,
+  "text": "Chapter five. Use it or lose it.",
+  "words": [
+   [
+    "chapter",
+    138.38
+   ],
+   [
+    "five",
+    138.97
+   ],
+   [
+    "use",
+    139.31
+   ],
+   [
+    "it",
+    139.56
+   ],
+   [
+    "or",
+    139.73
+   ],
+   [
+    "lose",
+    139.9
+   ],
+   [
+    "it",
+    140.24
+   ]
+  ]
+ },
+ {
+  "s": 140.89,
+  "e": 142.99,
+  "text": "Your bones listen to how you use them.",
+  "words": [
+   [
+    "your",
+    140.89
+   ],
+   [
+    "bones",
+    141.17
+   ],
+   [
+    "listen",
+    141.52
+   ],
+   [
+    "to",
+    141.94
+   ],
+   [
+    "how",
+    142.08
+   ],
+   [
+    "you",
+    142.29
+   ],
+   [
+    "use",
+    142.5
+   ],
+   [
+    "them",
+    142.71
+   ]
+  ]
+ },
+ {
+  "s": 143.44,
+  "e": 145.08,
+  "text": "Push on them, and they build up.",
+  "words": [
+   [
+    "push",
+    143.44
+   ],
+   [
+    "on",
+    143.72
+   ],
+   [
+    "them",
+    143.85
+   ],
+   [
+    "and",
+    144.13
+   ],
+   [
+    "they",
+    144.33
+   ],
+   [
+    "build",
+    144.6
+   ],
+   [
+    "up",
+    144.94
+   ]
+  ]
+ },
+ {
+  "s": 145.55,
+  "e": 147.72,
+  "text": "Rest them for too long, and they let go.",
+  "words": [
+   [
+    "rest",
+    145.55
+   ],
+   [
+    "them",
+    145.84
+   ],
+   [
+    "for",
+    146.13
+   ],
+   [
+    "too",
+    146.34
+   ],
+   [
+    "long",
+    146.56
+   ],
+   [
+    "and",
+    146.85
+   ],
+   [
+    "they",
+    147.07
+   ],
+   [
+    "let",
+    147.36
+   ],
+   [
+    "go",
+    147.58
+   ]
+  ]
+ },
+ {
+  "s": 148.13,
+  "e": 149.76,
+  "text": "Astronauts floating in space can lose",
+  "words": [
+   [
+    "astronauts",
+    148.13
+   ],
+   [
+    "floating",
+    148.64
+   ],
+   [
+    "in",
+    149.04
+   ],
+   [
+    "space",
+    149.15
+   ],
+   [
+    "can",
+    149.4
+   ],
+   [
+    "lose",
+    149.55
+   ]
+  ]
+ },
+ {
+  "s": 150.07,
+  "e": 153.29,
+  "text": "about one percent of the bone in their hips each month.",
+  "words": [
+   [
+    "about",
+    150.07
+   ],
+   [
+    "one",
+    150.43
+   ],
+   [
+    "percent",
+    150.65
+   ],
+   [
+    "of",
+    151.16
+   ],
+   [
+    "the",
+    151.31
+   ],
+   [
+    "bone",
+    151.53
+   ],
+   [
+    "in",
+    151.82
+   ],
+   [
+    "their",
+    151.97
+   ],
+   [
+    "hips",
+    152.33
+   ],
+   [
+    "each",
+    152.63
+   ],
+   [
+    "month",
+    152.92
+   ]
+  ]
+ },
+ {
+  "s": 153.76,
+  "e": 155.88,
+  "text": "Meanwhile, studies of tennis players find",
+  "words": [
+   [
+    "meanwhile",
+    153.76
+   ],
+   [
+    "studies",
+    154.31
+   ],
+   [
+    "of",
+    154.73
+   ],
+   [
+    "tennis",
+    154.85
+   ],
+   [
+    "players",
+    155.21
+   ],
+   [
+    "find",
+    155.64
+   ]
+  ]
+ },
+ {
+  "s": 156.19,
+  "e": 158.4,
+  "text": "the bones in their racket arm are thicker",
+  "words": [
+   [
+    "the",
+    156.19
+   ],
+   [
+    "bones",
+    156.39
+   ],
+   [
+    "in",
+    156.71
+   ],
+   [
+    "their",
+    156.84
+   ],
+   [
+    "racket",
+    157.17
+   ],
+   [
+    "arm",
+    157.56
+   ],
+   [
+    "are",
+    157.75
+   ],
+   [
+    "thicker",
+    157.95
+   ]
+  ]
+ },
+ {
+  "s": 158.53,
+  "e": 160.35,
+  "text": "than the bones in their other arm.",
+  "words": [
+   [
+    "than",
+    158.53
+   ],
+   [
+    "the",
+    158.8
+   ],
+   [
+    "bones",
+    159.0
+   ],
+   [
+    "in",
+    159.34
+   ],
+   [
+    "their",
+    159.48
+   ],
+   [
+    "other",
+    159.81
+   ],
+   [
+    "arm",
+    160.15
+   ]
+  ]
+ },
+ {
+  "s": 160.82,
+  "e": 163.61,
+  "text": "So every jump, every run, every climb up the stairs",
+  "words": [
+   [
+    "so",
+    160.82
+   ],
+   [
+    "every",
+    160.96
+   ],
+   [
+    "jump",
+    161.31
+   ],
+   [
+    "every",
+    161.59
+   ],
+   [
+    "run",
+    161.94
+   ],
+   [
+    "every",
+    162.15
+   ],
+   [
+    "climb",
+    162.5
+   ],
+   [
+    "up",
+    162.84
+   ],
+   [
+    "the",
+    162.98
+   ],
+   [
+    "stairs",
+    163.19
+   ]
+  ]
+ },
+ {
+  "s": 163.67,
+  "e": 167.13,
+  "text": "is a little message telling your skeleton to stay strong.",
+  "words": [
+   [
+    "is",
+    163.67
+   ],
+   [
+    "a",
+    163.82
+   ],
+   [
+    "little",
+    163.89
+   ],
+   [
+    "message",
+    164.33
+   ],
+   [
+    "telling",
+    164.85
+   ],
+   [
+    "your",
+    165.36
+   ],
+   [
+    "skeleton",
+    165.66
+   ],
+   [
+    "to",
+    166.25
+   ],
+   [
+    "stay",
+    166.39
+   ],
+   [
+    "strong",
+    166.69
+   ]
+  ]
+ },
+ {
+  "s": 167.48,
+  "e": 169.9,
+  "text": "So no, your skeleton isn't a dead frame.",
+  "words": [
+   [
+    "so",
+    167.48
+   ],
+   [
+    "no",
+    167.65
+   ],
+   [
+    "your",
+    167.81
+   ],
+   [
+    "skeleton",
+    168.13
+   ],
+   [
+    "isnt",
+    168.77
+   ],
+   [
+    "a",
+    169.09
+   ],
+   [
+    "dead",
+    169.17
+   ],
+   [
+    "frame",
+    169.5
+   ]
+  ]
+ },
+ {
+  "s": 170.32,
+  "e": 172.11,
+  "text": "It's a living, growing part of you,",
+  "words": [
+   [
+    "its",
+    170.32
+   ],
+   [
+    "a",
+    170.53
+   ],
+   [
+    "living",
+    170.6
+   ],
+   [
+    "growing",
+    171.01
+   ],
+   [
+    "part",
+    171.49
+   ],
+   [
+    "of",
+    171.77
+   ],
+   [
+    "you",
+    171.9
+   ]
+  ]
+ },
+ {
+  "s": 172.41,
+  "e": 176.02,
+  "text": "quietly rebuilding itself, one tiny pocket at a time.",
+  "words": [
+   [
+    "quietly",
+    172.41
+   ],
+   [
+    "rebuilding",
+    173.0
+   ],
+   [
+    "itself",
+    173.84
+   ],
+   [
+    "one",
+    174.34
+   ],
+   [
+    "tiny",
+    174.6
+   ],
+   [
+    "pocket",
+    174.93
+   ],
+   [
+    "at",
+    175.44
+   ],
+   [
+    "a",
+    175.6
+   ],
+   [
+    "time",
+    175.69
+   ]
+  ]
+ },
+ {
+  "s": 176.39,
+  "e": 177.67,
+  "text": "Next time, your liver,",
+  "words": [
+   [
+    "next",
+    176.39
+   ],
+   [
+    "time",
+    176.69
+   ],
+   [
+    "your",
+    177.0
+   ],
+   [
+    "liver",
+    177.3
+   ]
+  ]
+ },
+ {
+  "s": 178.04,
+  "e": 180.43,
+  "text": "the organ that does hundreds of jobs at once.",
+  "words": [
+   [
+    "the",
+    178.04
+   ],
+   [
+    "organ",
+    178.24
+   ],
+   [
+    "that",
+    178.57
+   ],
+   [
+    "does",
+    178.84
+   ],
+   [
+    "hundreds",
+    179.1
+   ],
+   [
+    "of",
+    179.63
+   ],
+   [
+    "jobs",
+    179.76
+   ],
+   [
+    "at",
+    180.03
+   ],
+   [
+    "once",
+    180.16
+   ]
+  ]
+ }
+]

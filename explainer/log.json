@@ -1107,5 +1107,19 @@
   "hook_score": 54,
   "title_score": 98,
   "notes": "unattended run, no storyboard step; hook 54, title 98; base chalkboard helpers reused from 20261106-nails-keep-growing"
+ },
+ {
+  "date": "2026-11-12",
+  "id": "20261112-bones-alive",
+  "kind": "long",
+  "style": "Watercolor Brush",
+  "topic": "Your Bones Explained in Simple Words: why your skeleton is alive",
+  "title": "You Get a New Skeleton Every 10 Years",
+  "seconds": 181.4,
+  "words": 535,
+  "sheet_id": "L025",
+  "hook_score": 56,
+  "title_score": 100,
+  "notes": "unattended run, no storyboard step; 5 chapters + teaser, 32 scenes; Lemo watercolor stroke engine bundled via lemo_engine.sh (setup.sh not run, style files read via sparse checkout); voice af_heart"
  }
 ]
