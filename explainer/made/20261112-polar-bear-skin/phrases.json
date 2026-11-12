@@ -1,0 +1,699 @@
+[
+ {
+  "s": 0.25,
+  "e": 1.67,
+  "text": "If you shaved a polar bear,",
+  "words": [
+   [
+    "if",
+    0.25
+   ],
+   [
+    "you",
+    0.39
+   ],
+   [
+    "shaved",
+    0.59
+   ],
+   [
+    "a",
+    0.99
+   ],
+   [
+    "polar",
+    1.06
+   ],
+   [
+    "bear",
+    1.4
+   ]
+  ]
+ },
+ {
+  "s": 2.0,
+  "e": 3.29,
+  "text": "you'd find black skin.",
+  "words": [
+   [
+    "youd",
+    2.0
+   ],
+   [
+    "find",
+    2.3
+   ],
+   [
+    "black",
+    2.61
+   ],
+   [
+    "skin",
+    2.98
+   ]
+  ]
+ },
+ {
+  "s": 3.75,
+  "e": 5.64,
+  "text": "And zero white hairs. Why?",
+  "words": [
+   [
+    "and",
+    3.75
+   ],
+   [
+    "zero",
+    4.04
+   ],
+   [
+    "white",
+    4.41
+   ],
+   [
+    "hairs",
+    4.88
+   ],
+   [
+    "why",
+    5.35
+   ]
+  ]
+ },
+ {
+  "s": 6.08,
+  "e": 7.11,
+  "text": "Each hair is clear,",
+  "words": [
+   [
+    "each",
+    6.08
+   ],
+   [
+    "hair",
+    6.35
+   ],
+   [
+    "is",
+    6.63
+   ],
+   [
+    "clear",
+    6.77
+   ]
+  ]
+ },
+ {
+  "s": 7.58,
+  "e": 8.99,
+  "text": "like a tiny plastic straw",
+  "words": [
+   [
+    "like",
+    7.58
+   ],
+   [
+    "a",
+    7.85
+   ],
+   [
+    "tiny",
+    7.92
+   ],
+   [
+    "plastic",
+    8.18
+   ],
+   [
+    "straw",
+    8.66
+   ]
+  ]
+ },
+ {
+  "s": 8.99,
+  "e": 10.93,
+  "text": "with a hollow core full of air.",
+  "words": [
+   [
+    "with",
+    8.99
+   ],
+   [
+    "a",
+    9.32
+   ],
+   [
+    "hollow",
+    9.4
+   ],
+   [
+    "core",
+    9.88
+   ],
+   [
+    "full",
+    10.2
+   ],
+   [
+    "of",
+    10.53
+   ],
+   [
+    "air",
+    10.69
+   ]
+  ]
+ },
+ {
+  "s": 11.41,
+  "e": 12.99,
+  "text": "There's no white pigment in it.",
+  "words": [
+   [
+    "theres",
+    11.41
+   ],
+   [
+    "no",
+    11.8
+   ],
+   [
+    "white",
+    11.94
+   ],
+   [
+    "pigment",
+    12.27
+   ],
+   [
+    "in",
+    12.73
+   ],
+   [
+    "it",
+    12.86
+   ]
+  ]
+ },
+ {
+  "s": 13.39,
+  "e": 14.92,
+  "text": "So why does it look white?",
+  "words": [
+   [
+    "so",
+    13.39
+   ],
+   [
+    "why",
+    13.55
+   ],
+   [
+    "does",
+    13.77
+   ],
+   [
+    "it",
+    14.08
+   ],
+   [
+    "look",
+    14.23
+   ],
+   [
+    "white",
+    14.54
+   ]
+  ]
+ },
+ {
+  "s": 15.37,
+  "e": 18.35,
+  "text": "Light bounces around inside those clear hairs",
+  "words": [
+   [
+    "light",
+    15.37
+   ],
+   [
+    "bounces",
+    15.76
+   ],
+   [
+    "around",
+    16.29
+   ],
+   [
+    "inside",
+    16.75
+   ],
+   [
+    "those",
+    17.21
+   ],
+   [
+    "clear",
+    17.59
+   ],
+   [
+    "hairs",
+    17.97
+   ]
+  ]
+ },
+ {
+  "s": 18.41,
+  "e": 19.69,
+  "text": "and scatters in every direction,",
+  "words": [
+   [
+    "and",
+    18.41
+   ],
+   [
+    "scatters",
+    18.56
+   ],
+   [
+    "in",
+    18.94
+   ],
+   [
+    "every",
+    19.03
+   ],
+   [
+    "direction",
+    19.27
+   ]
+  ]
+ },
+ {
+  "s": 20.3,
+  "e": 22.61,
+  "text": "the same trick that makes snow look white.",
+  "words": [
+   [
+    "the",
+    20.3
+   ],
+   [
+    "same",
+    20.51
+   ],
+   [
+    "trick",
+    20.78
+   ],
+   [
+    "that",
+    21.12
+   ],
+   [
+    "makes",
+    21.39
+   ],
+   [
+    "snow",
+    21.73
+   ],
+   [
+    "look",
+    22.0
+   ],
+   [
+    "white",
+    22.27
+   ]
+  ]
+ },
+ {
+  "s": 23.03,
+  "e": 26.14,
+  "text": "Scientists once thought the hairs piped sunlight",
+  "words": [
+   [
+    "scientists",
+    23.03
+   ],
+   [
+    "once",
+    23.77
+   ],
+   [
+    "thought",
+    24.07
+   ],
+   [
+    "the",
+    24.58
+   ],
+   [
+    "hairs",
+    24.81
+   ],
+   [
+    "piped",
+    25.18
+   ],
+   [
+    "sunlight",
+    25.55
+   ]
+  ]
+ },
+ {
+  "s": 26.2,
+  "e": 28.07,
+  "text": "down to the skin like fiber optics.",
+  "words": [
+   [
+    "down",
+    26.2
+   ],
+   [
+    "to",
+    26.47
+   ],
+   [
+    "the",
+    26.6
+   ],
+   [
+    "skin",
+    26.8
+   ],
+   [
+    "like",
+    27.07
+   ],
+   [
+    "fiber",
+    27.33
+   ],
+   [
+    "optics",
+    27.67
+   ]
+  ]
+ },
+ {
+  "s": 28.42,
+  "e": 29.67,
+  "text": "Turns out they don't.",
+  "words": [
+   [
+    "turns",
+    28.42
+   ],
+   [
+    "out",
+    28.81
+   ],
+   [
+    "they",
+    29.04
+   ],
+   [
+    "dont",
+    29.36
+   ]
+  ]
+ },
+ {
+  "s": 29.97,
+  "e": 32.18,
+  "text": "Most sunlight never reaches the skin.",
+  "words": [
+   [
+    "most",
+    29.97
+   ],
+   [
+    "sunlight",
+    30.25
+   ],
+   [
+    "never",
+    30.82
+   ],
+   [
+    "reaches",
+    31.18
+   ],
+   [
+    "the",
+    31.68
+   ],
+   [
+    "skin",
+    31.89
+   ]
+  ]
+ },
+ {
+  "s": 32.59,
+  "e": 36.78,
+  "text": "The black skin may soak up what little warmth gets through,",
+  "words": [
+   [
+    "the",
+    32.59
+   ],
+   [
+    "black",
+    32.85
+   ],
+   [
+    "skin",
+    33.29
+   ],
+   [
+    "may",
+    33.64
+   ],
+   [
+    "soak",
+    33.9
+   ],
+   [
+    "up",
+    34.25
+   ],
+   [
+    "what",
+    34.42
+   ],
+   [
+    "little",
+    34.77
+   ],
+   [
+    "warmth",
+    35.29
+   ],
+   [
+    "gets",
+    35.82
+   ],
+   [
+    "through",
+    36.17
+   ]
+  ]
+ },
+ {
+  "s": 36.89,
+  "e": 38.77,
+  "text": "but the real heater is underneath:",
+  "words": [
+   [
+    "but",
+    36.89
+   ],
+   [
+    "the",
+    37.09
+   ],
+   [
+    "real",
+    37.29
+   ],
+   [
+    "heater",
+    37.56
+   ],
+   [
+    "is",
+    37.96
+   ],
+   [
+    "underneath",
+    38.1
+   ]
+  ]
+ },
+ {
+  "s": 38.86,
+  "e": 40.43,
+  "text": "up to eleven centimeters of fat,",
+  "words": [
+   [
+    "up",
+    38.86
+   ],
+   [
+    "to",
+    38.98
+   ],
+   [
+    "eleven",
+    39.1
+   ],
+   [
+    "centimeters",
+    39.46
+   ],
+   [
+    "of",
+    40.13
+   ],
+   [
+    "fat",
+    40.25
+   ]
+  ]
+ },
+ {
+  "s": 40.85,
+  "e": 42.93,
+  "text": "plus fur that traps heat so well",
+  "words": [
+   [
+    "plus",
+    40.85
+   ],
+   [
+    "fur",
+    41.17
+   ],
+   [
+    "that",
+    41.41
+   ],
+   [
+    "traps",
+    41.73
+   ],
+   [
+    "heat",
+    42.13
+   ],
+   [
+    "so",
+    42.45
+   ],
+   [
+    "well",
+    42.61
+   ]
+  ]
+ },
+ {
+  "s": 43.0,
+  "e": 46.05,
+  "text": "polar bears almost vanish on heat cameras.",
+  "words": [
+   [
+    "polar",
+    43.0
+   ],
+   [
+    "bears",
+    43.43
+   ],
+   [
+    "almost",
+    43.87
+   ],
+   [
+    "vanish",
+    44.39
+   ],
+   [
+    "on",
+    44.92
+   ],
+   [
+    "heat",
+    45.09
+   ],
+   [
+    "cameras",
+    45.44
+   ]
+  ]
+ },
+ {
+  "s": 46.48,
+  "e": 47.76,
+  "text": "So is a polar bear white,",
+  "words": [
+   [
+    "so",
+    46.48
+   ],
+   [
+    "is",
+    46.62
+   ],
+   [
+    "a",
+    46.75
+   ],
+   [
+    "polar",
+    46.82
+   ],
+   [
+    "bear",
+    47.15
+   ],
+   [
+    "white",
+    47.42
+   ]
+  ]
+ },
+ {
+  "s": 48.12,
+  "e": 48.44,
+  "text": "black,",
+  "words": [
+   [
+    "black",
+    48.12
+   ]
+  ]
+ },
+ {
+  "s": 48.52,
+  "e": 49.77,
+  "text": "or totally see-through?",
+  "words": [
+   [
+    "or",
+    48.52
+   ],
+   [
+    "totally",
+    48.65
+   ],
+   [
+    "seethrough",
+    49.11
+   ]
+  ]
+ }
+]

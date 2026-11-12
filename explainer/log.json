@@ -1121,5 +1121,19 @@
   "hook_score": 56,
   "title_score": 100,
   "notes": "unattended run, no storyboard step; 5 chapters + teaser, 32 scenes; Lemo watercolor stroke engine bundled via lemo_engine.sh (setup.sh not run, style files read via sparse checkout); voice af_heart"
+ },
+ {
+  "date": "2026-11-12",
+  "id": "20261112-polar-bear-skin",
+  "kind": "short",
+  "style": "Cut-Paper Diorama",
+  "topic": "Why do polar bears have black skin under white fur?",
+  "title": "Polar Bears Aren't White (0 White Hairs) 🐻‍❄️",
+  "seconds": 50.8,
+  "words": 134,
+  "sheet_id": "S081",
+  "hook_score": 48,
+  "title_score": 98,
+  "notes": "unattended run, no storyboard step; 7 scenes; base cut-paper helpers reused from 20261111-cat-kneading; added trend rows S083-S084"
  }
 ]
