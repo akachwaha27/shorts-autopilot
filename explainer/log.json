@@ -1135,5 +1135,19 @@
   "hook_score": 48,
   "title_score": 98,
   "notes": "unattended run, no storyboard step; 7 scenes; base cut-paper helpers reused from 20261111-cat-kneading; added trend rows S083-S084"
+ },
+ {
+  "date": "2026-11-12",
+  "id": "20261112-stretching-ears",
+  "kind": "short",
+  "style": "Halftone Dossier",
+  "topic": "Why do your ears and nose seem to keep growing as you age?",
+  "title": "Your Ears Get 0.22 mm Longer Every Year 👂",
+  "seconds": 55.9,
+  "words": 144,
+  "sheet_id": "S082",
+  "hook_score": 53,
+  "title_score": 98,
+  "notes": "unattended run, no storyboard step; Lemo Halftone Dossier (no engine; own canvas port of its print grammar: halftone dots, misregistered headlines, stamps, dot wipes); 9 scenes; Lemo setup.sh not run (sandbox blocked it), style files read via sparse checkout"
  }
 ]

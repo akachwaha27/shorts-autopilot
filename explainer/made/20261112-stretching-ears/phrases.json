@@ -1,0 +1,746 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.19,
+  "text": "Your ears never stop getting longer,",
+  "words": [
+   [
+    "your",
+    0.25
+   ],
+   [
+    "ears",
+    0.51
+   ],
+   [
+    "never",
+    0.77
+   ],
+   [
+    "stop",
+    1.09
+   ],
+   [
+    "getting",
+    1.35
+   ],
+   [
+    "longer",
+    1.8
+   ]
+  ]
+ },
+ {
+  "s": 2.53,
+  "e": 3.64,
+  "text": "but they aren't growing.",
+  "words": [
+   [
+    "but",
+    2.53
+   ],
+   [
+    "they",
+    2.71
+   ],
+   [
+    "arent",
+    2.94
+   ],
+   [
+    "growing",
+    3.23
+   ]
+  ]
+ },
+ {
+  "s": 4.11,
+  "e": 6.31,
+  "text": "Your nose droops lower every year too.",
+  "words": [
+   [
+    "your",
+    4.11
+   ],
+   [
+    "nose",
+    4.4
+   ],
+   [
+    "droops",
+    4.68
+   ],
+   [
+    "lower",
+    5.1
+   ],
+   [
+    "every",
+    5.46
+   ],
+   [
+    "year",
+    5.81
+   ],
+   [
+    "too",
+    6.1
+   ]
+  ]
+ },
+ {
+  "s": 6.73,
+  "e": 8.03,
+  "text": "So what's stretching them?",
+  "words": [
+   [
+    "so",
+    6.73
+   ],
+   [
+    "whats",
+    6.86
+   ],
+   [
+    "stretching",
+    7.16
+   ],
+   [
+    "them",
+    7.78
+   ]
+  ]
+ },
+ {
+  "s": 8.52,
+  "e": 10.9,
+  "text": "Your bones stopped getting longer years ago.",
+  "words": [
+   [
+    "your",
+    8.52
+   ],
+   [
+    "bones",
+    8.78
+   ],
+   [
+    "stopped",
+    9.1
+   ],
+   [
+    "getting",
+    9.55
+   ],
+   [
+    "longer",
+    10.0
+   ],
+   [
+    "years",
+    10.38
+   ],
+   [
+    "ago",
+    10.7
+   ]
+  ]
+ },
+ {
+  "s": 11.26,
+  "e": 13.66,
+  "text": "The floppy parts of your ears and nose",
+  "words": [
+   [
+    "the",
+    11.26
+   ],
+   [
+    "floppy",
+    11.49
+   ],
+   [
+    "parts",
+    11.95
+   ],
+   [
+    "of",
+    12.34
+   ],
+   [
+    "your",
+    12.5
+   ],
+   [
+    "ears",
+    12.81
+   ],
+   [
+    "and",
+    13.12
+   ],
+   [
+    "nose",
+    13.35
+   ]
+  ]
+ },
+ {
+  "s": 13.73,
+  "e": 14.94,
+  "text": "are cartilage and skin,",
+  "words": [
+   [
+    "are",
+    13.73
+   ],
+   [
+    "cartilage",
+    13.92
+   ],
+   [
+    "and",
+    14.49
+   ],
+   [
+    "skin",
+    14.68
+   ]
+  ]
+ },
+ {
+  "s": 15.57,
+  "e": 19.04,
+  "text": "held up by springy fibers called collagen and elastin.",
+  "words": [
+   [
+    "held",
+    15.57
+   ],
+   [
+    "up",
+    15.88
+   ],
+   [
+    "by",
+    16.03
+   ],
+   [
+    "springy",
+    16.19
+   ],
+   [
+    "fibers",
+    16.73
+   ],
+   [
+    "called",
+    17.19
+   ],
+   [
+    "collagen",
+    17.65
+   ],
+   [
+    "and",
+    18.27
+   ],
+   [
+    "elastin",
+    18.5
+   ]
+  ]
+ },
+ {
+  "s": 19.5,
+  "e": 20.4,
+  "text": "As you get older,",
+  "words": [
+   [
+    "as",
+    19.5
+   ],
+   [
+    "you",
+    19.64
+   ],
+   [
+    "get",
+    19.85
+   ],
+   [
+    "older",
+    20.06
+   ]
+  ]
+ },
+ {
+  "s": 20.74,
+  "e": 22.92,
+  "text": "your body makes fewer of those fibers.",
+  "words": [
+   [
+    "your",
+    20.74
+   ],
+   [
+    "body",
+    21.02
+   ],
+   [
+    "makes",
+    21.31
+   ],
+   [
+    "fewer",
+    21.66
+   ],
+   [
+    "of",
+    22.01
+   ],
+   [
+    "those",
+    22.15
+   ],
+   [
+    "fibers",
+    22.5
+   ]
+  ]
+ },
+ {
+  "s": 23.37,
+  "e": 24.52,
+  "text": "The springs get weaker,",
+  "words": [
+   [
+    "the",
+    23.37
+   ],
+   [
+    "springs",
+    23.55
+   ],
+   [
+    "get",
+    23.98
+   ],
+   [
+    "weaker",
+    24.16
+   ]
+  ]
+ },
+ {
+  "s": 24.76,
+  "e": 25.84,
+  "text": "and gravity wins.",
+  "words": [
+   [
+    "and",
+    24.76
+   ],
+   [
+    "gravity",
+    24.99
+   ],
+   [
+    "wins",
+    25.53
+   ]
+  ]
+ },
+ {
+  "s": 26.32,
+  "e": 27.49,
+  "text": "Every single year",
+  "words": [
+   [
+    "every",
+    26.32
+   ],
+   [
+    "single",
+    26.71
+   ],
+   [
+    "year",
+    27.18
+   ]
+  ]
+ },
+ {
+  "s": 27.57,
+  "e": 29.45,
+  "text": "it pulls them down a tiny bit more.",
+  "words": [
+   [
+    "it",
+    27.57
+   ],
+   [
+    "pulls",
+    27.71
+   ],
+   [
+    "them",
+    28.06
+   ],
+   [
+    "down",
+    28.34
+   ],
+   [
+    "a",
+    28.62
+   ],
+   [
+    "tiny",
+    28.69
+   ],
+   [
+    "bit",
+    28.96
+   ],
+   [
+    "more",
+    29.17
+   ]
+  ]
+ },
+ {
+  "s": 29.89,
+  "e": 31.32,
+  "text": "Earlobes stretch the most,",
+  "words": [
+   [
+    "earlobes",
+    29.89
+   ],
+   [
+    "stretch",
+    30.41
+   ],
+   [
+    "the",
+    30.86
+   ],
+   [
+    "most",
+    31.06
+   ]
+  ]
+ },
+ {
+  "s": 31.75,
+  "e": 34.41,
+  "text": "because there's no cartilage inside them at all.",
+  "words": [
+   [
+    "because",
+    31.75
+   ],
+   [
+    "theres",
+    32.22
+   ],
+   [
+    "no",
+    32.63
+   ],
+   [
+    "cartilage",
+    32.77
+   ],
+   [
+    "inside",
+    33.38
+   ],
+   [
+    "them",
+    33.79
+   ],
+   [
+    "at",
+    34.07
+   ],
+   [
+    "all",
+    34.2
+   ]
+  ]
+ },
+ {
+  "s": 34.85,
+  "e": 36.08,
+  "text": "Just skin and fat.",
+  "words": [
+   [
+    "just",
+    34.85
+   ],
+   [
+    "skin",
+    35.2
+   ],
+   [
+    "and",
+    35.55
+   ],
+   [
+    "fat",
+    35.82
+   ]
+  ]
+ },
+ {
+  "s": 36.44,
+  "e": 39.42,
+  "text": "One study of two hundred and six adults found",
+  "words": [
+   [
+    "one",
+    36.44
+   ],
+   [
+    "study",
+    36.68
+   ],
+   [
+    "of",
+    37.08
+   ],
+   [
+    "two",
+    37.25
+   ],
+   [
+    "hundred",
+    37.49
+   ],
+   [
+    "and",
+    38.05
+   ],
+   [
+    "six",
+    38.29
+   ],
+   [
+    "adults",
+    38.53
+   ],
+   [
+    "found",
+    39.02
+   ]
+  ]
+ },
+ {
+  "s": 39.51,
+  "e": 43.08,
+  "text": "ears get about zero point two two millimeters longer every year",
+  "words": [
+   [
+    "ears",
+    39.51
+   ],
+   [
+    "get",
+    39.78
+   ],
+   [
+    "about",
+    39.98
+   ],
+   [
+    "zero",
+    40.32
+   ],
+   [
+    "point",
+    40.59
+   ],
+   [
+    "two",
+    40.92
+   ],
+   [
+    "two",
+    41.13
+   ],
+   [
+    "millimeters",
+    41.33
+   ],
+   [
+    "longer",
+    42.07
+   ],
+   [
+    "every",
+    42.47
+   ],
+   [
+    "year",
+    42.81
+   ]
+  ]
+ },
+ {
+  "s": 43.37,
+  "e": 45.06,
+  "text": "after age thirty.",
+  "words": [
+   [
+    "after",
+    43.37
+   ],
+   [
+    "age",
+    43.97
+   ],
+   [
+    "thirty",
+    44.34
+   ]
+  ]
+ },
+ {
+  "s": 45.47,
+  "e": 47.78,
+  "text": "That's roughly a whole centimeter by eighty.",
+  "words": [
+   [
+    "thats",
+    45.47
+   ],
+   [
+    "roughly",
+    45.79
+   ],
+   [
+    "a",
+    46.24
+   ],
+   [
+    "whole",
+    46.31
+   ],
+   [
+    "centimeter",
+    46.63
+   ],
+   [
+    "by",
+    47.27
+   ],
+   [
+    "eighty",
+    47.39
+   ]
+  ]
+ },
+ {
+  "s": 48.2,
+  "e": 49.54,
+  "text": "So nothing's growing.",
+  "words": [
+   [
+    "so",
+    48.2
+   ],
+   [
+    "nothings",
+    48.36
+   ],
+   [
+    "growing",
+    48.98
+   ]
+  ]
+ },
+ {
+  "s": 49.88,
+  "e": 51.86,
+  "text": "Your face is just slowly sagging.",
+  "words": [
+   [
+    "your",
+    49.88
+   ],
+   [
+    "face",
+    50.17
+   ],
+   [
+    "is",
+    50.46
+   ],
+   [
+    "just",
+    50.61
+   ],
+   [
+    "slowly",
+    50.91
+   ],
+   [
+    "sagging",
+    51.35
+   ]
+  ]
+ },
+ {
+  "s": 52.25,
+  "e": 54.86,
+  "text": "So how much longer will your ears be at a hundred?",
+  "words": [
+   [
+    "so",
+    52.25
+   ],
+   [
+    "how",
+    52.39
+   ],
+   [
+    "much",
+    52.59
+   ],
+   [
+    "longer",
+    52.85
+   ],
+   [
+    "will",
+    53.25
+   ],
+   [
+    "your",
+    53.52
+   ],
+   [
+    "ears",
+    53.79
+   ],
+   [
+    "be",
+    54.06
+   ],
+   [
+    "at",
+    54.19
+   ],
+   [
+    "a",
+    54.32
+   ],
+   [
+    "hundred",
+    54.39
+   ]
+  ]
+ }
+]
