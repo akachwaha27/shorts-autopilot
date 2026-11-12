@@ -378,96 +378,6 @@
     }
   },
   "videos": {
-    "2026-11-06-101": {
-      "topic": {
-        "title": "How does a mosquito find you in the dark?",
-        "format": "animated",
-        "angle": "Flat-Vector Science"
-      },
-      "package": {
-        "title": "How Do Mosquitoes Find You in the Dark From 50 Meters? \ud83e\udd9f",
-        "description": "How do mosquitoes find you in the dark? They follow the carbon dioxide you breathe out, then your body odor, then the infrared heat from your skin.\n\nSources:\nhttps://experts.caltech.edu/news/mosquitoes-use-smell-see-their-hosts-47338\nhttps://sciencedaily.com/releases/2024/08/240822181042.htm\nhttps://doi.org/10.1038/s41586-024-07848-5\n\nAnimated in the Flat-Vector Science style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#science",
-          "#mosquito",
-          "#howitworks"
-        ],
-        "tags": [
-          "how do mosquitoes find you",
-          "mosquitoes in the dark",
-          "why mosquitoes bite me",
-          "mosquito carbon dioxide",
-          "mosquito infrared",
-          "mosquito body heat",
-          "insect facts",
-          "animal facts",
-          "science explained",
-          "how it works",
-          "flat vector explainer",
-          "zorbly ai"
-        ],
-        "category": "27",
-        "pinned_comment": "Do mosquitoes always pick you, or someone else in your house?",
-        "thumbnail_text": "BREATH TRAIL",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "How does a mosquito find you in the pitch dark? Your breath. Only females hunt you, because they need blood to make eggs. Every time you breathe out, you leave a trail of carbon dioxide. Scientists think she can smell it from up to fifty meters away, about half a football field. She follows that invisible trail. Closer in, she picks up your body odor. In daylight, she'd spot you from about fifteen meters, but tonight, that's no help. So here's her secret weapon. Tiny pits on her antenna tips sense the infrared heat your skin gives off, from about seventy centimeters away. In one lab study, adding that heat doubled how hard mosquitoes searched. Breath, then smell, then heat. And she lands. So tell me: do mosquitoes always pick you, or someone else?",
-        "key_facts": [
-          "Only female mosquitoes bite; they need blood to develop eggs (ScienceDaily 2024, Caltech 2015).",
-          "Researchers hypothesize mosquitoes smell a CO2 plume from 10 to 50 meters (Caltech 2015, model-based).",
-          "They begin to see a host within 5 to 15 meters (Caltech 2015).",
-          "Aedes aegypti detect thermal infrared up to about 70 cm via antenna-tip peg-in-pit structures (Nature 2024).",
-          "Adding skin-temperature infrared doubled host-seeking, only alongside CO2 and odor (Nature 2024)."
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Flat-Vector Science"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261106-mosquito-dark",
-      "redos": 0,
-      "updated": "2026-11-06T13:01:26.735781+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-06",
-        "name": "2026-11-06-101.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-06",
-        "name": "2026-11-06-101-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:02,690\nHow does a mosquito find you in the pitch dark?\n\n2\n00:00:03,240 --> 00:00:04,020\nYour breath.\n\n3\n00:00:04,570 --> 00:00:05,950\nOnly females hunt you,\n\n4\n00:00:06,250 --> 00:00:08,270\nbecause they need blood to make eggs.\n\n5\n00:00:08,820 --> 00:00:10,250\nEvery time you breathe out,\n\n6\n00:00:10,550 --> 00:00:12,830\nyou leave a trail of carbon dioxide.\n\n7\n00:00:13,380 --> 00:00:14,950\nScientists think she can smell it\n\n8\n00:00:15,250 --> 00:00:17,030\nfrom up to fifty meters away,\n\n9\n00:00:17,330 --> 00:00:18,960\nabout half a football field.\n\n10\n00:00:19,510 --> 00:00:21,620\nShe follows that invisible trail.\n\n11\n00:00:22,170 --> 00:00:24,520\nCloser in, she picks up your body odor.\n\n12\n00:00:25,070 --> 00:00:28,270\nIn daylight, she'd spot you from about fifteen meters,\n\n13\n00:00:28,570 --> 00:00:30,090\nbut tonight, that's no help.\n\n14\n00:00:30,640 --> 00:00:32,210\nSo here's her secret weapon.\n\n15\n00:00:32,760 --> 00:00:34,590\nTiny pits on her antenna tips\n\n16\n00:00:34,890 --> 00:00:37,380\nsense the infrared heat your skin gives off,\n\n17\n00:00:37,680 --> 00:00:39,680\nfrom about seventy centimeters away.\n\n18\n00:00:40,230 --> 00:00:42,460\nIn one lab study, adding that heat\n\n19\n00:00:42,760 --> 00:00:44,890\ndoubled how hard mosquitoes searched.\n\n20\n00:00:45,440 --> 00:00:47,020\nBreath, then smell, then heat.\n\n21\n00:00:47,570 --> 00:00:48,470\nAnd she lands.\n\n22\n00:00:49,020 --> 00:00:49,920\nSo tell me:\n\n23\n00:00:50,220 --> 00:00:53,050\ndo mosquitoes always pick you, or someone else?\n\n",
-      "tg_msg": 1037,
-      "approved_by": "auto",
-      "description_full": "How do mosquitoes find you in the dark? They follow the carbon dioxide you breathe out, then your body odor, then the infrared heat from your skin.\n\nSources:\nhttps://experts.caltech.edu/news/mosquitoes-use-smell-see-their-hosts-47338\nhttps://sciencedaily.com/releases/2024/08/240822181042.htm\nhttps://doi.org/10.1038/s41586-024-07848-5\n\nAnimated in the Flat-Vector Science style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #science #mosquito #howitworks\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/EmBkXoLWt0I",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-11-06T13:01:26.735797+00:00",
-      "slot": "2026-11-11T20:15:00+00:00"
-    },
     "2026-11-06-102": {
       "topic": {
         "title": "How do tiny microbes turn milk into yogurt?",
@@ -3107,12 +3017,12 @@
         "format": "animated",
         "style": "Kawaii Anime"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261112-banana-spots",
       "redos": 0,
-      "updated": "2026-11-12T03:37:53.471359+00:00",
+      "updated": "2026-11-12T11:48:43.125258+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech."
       ],
@@ -3127,7 +3037,98 @@
         "name": "2026-11-12-101-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:02,390\nWhy does a banana get brown spots?\n\n2\n00:00:02,830 --> 00:00:04,610\nYou'd never guess it's on purpose.\n\n3\n00:00:04,990 --> 00:00:07,140\nIt starts with a gas called ethylene.\n\n4\n00:00:07,500 --> 00:00:09,240\nThe banana makes it all by itself,\n\n5\n00:00:09,790 --> 00:00:12,130\nand it flips ripening on like a switch.\n\n6\n00:00:12,570 --> 00:00:15,550\nFirst, the green chlorophyll in the peel breaks down,\n\n7\n00:00:16,140 --> 00:00:18,600\nso the yellow underneath finally shows.\n\n8\n00:00:19,060 --> 00:00:21,110\nInside, starch turns into sugar.\n\n9\n00:00:21,560 --> 00:00:25,330\nSugar can climb from about 1 percent to around 17.\n\n10\n00:00:25,800 --> 00:00:27,590\nThen the peel starts getting old.\n\n11\n00:00:27,990 --> 00:00:30,660\nLittle clusters of cells shut down on schedule,\n\n12\n00:00:31,190 --> 00:00:34,060\nand an enzyme called polyphenol oxidase\n\n13\n00:00:34,350 --> 00:00:37,060\nlinks chemicals in the peel into brown pigment.\n\n14\n00:00:37,460 --> 00:00:38,480\nThat's your spot.\n\n15\n00:00:38,770 --> 00:00:40,250\nAnd here's the wild part.\n\n16\n00:00:40,680 --> 00:00:42,120\nUnder ultraviolet light,\n\n17\n00:00:42,620 --> 00:00:44,970\neach spot glows with a bright blue ring,\n\n18\n00:00:45,410 --> 00:00:47,390\nfrom leftover bits of chlorophyll.\n\n19\n00:00:47,850 --> 00:00:50,660\nSo more spots usually means a sweeter banana.\n\n20\n00:00:51,020 --> 00:00:52,000\nWhich one do you grab:\n\n21\n00:00:52,380 --> 00:00:54,560\ngreen, yellow, or totally spotty?\n\n",
-      "tg_msg": 1096
+      "tg_msg": 1096,
+      "approved_by": "auto",
+      "description_full": "Why do bananas get brown spots? Ethylene gas switches on ripening, chlorophyll breaks down, starch turns to sugar, and an enzyme called polyphenol oxidase turns tiny patches of aging peel brown, and under UV light each spot glows blue.\n\nSources:\nhttps://www.scienceabc.com/nature/bananas-change-colour-upon-ripening.html\nhttps://www.alimentarium.org/en/magazine/kitchen/bananas-sugar-and-starch\nhttps://phys.org/news/2009-09-bananas-bad-blue-uv-light.html\n\nAnimated in the Kawaii Anime style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #banana #science #foodscience\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/X9Vig4g5d88",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-12T11:48:43.125274+00:00",
+      "slot": "2026-11-19T02:15:00+00:00"
+    },
+    "2026-11-12-102": {
+      "topic": {
+        "title": "Why is yawning contagious?",
+        "format": "animated",
+        "angle": "Chalkboard Lesson"
+      },
+      "package": {
+        "title": "Why Is Yawning So Contagious? (2 in 3 Catch It) \ud83e\udd71",
+        "description": "Why is yawning contagious? Seeing, hearing or even reading about a yawn can trigger your own: in a Duke study 222 of 328 people yawned at a yawning video, and yawns spread fastest between family and friends.\n\nSources:\nhttps://www.eurekalert.org/pub_releases/2014-03/dumc-cym031114.php\nhttps://www.livescience.com/17365-yawns-contagious-friends.html\nhttps://www.psychologytoday.com/us/blog/the-athletes-way/201403/why-is-yawning-so-contagious\n\nAnimated in the Chalkboard Lesson style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#yawning",
+          "#science",
+          "#humanbody"
+        ],
+        "tags": [
+          "why is yawning contagious",
+          "contagious yawning",
+          "why do we yawn",
+          "yawning science",
+          "catching yawns",
+          "empathy and yawning",
+          "do dogs catch yawns",
+          "duke yawning study",
+          "human body facts",
+          "brain facts",
+          "psychology facts",
+          "chalkboard animation",
+          "zorbly ai"
+        ],
+        "category": "27",
+        "pinned_comment": "Be honest: did you yawn while watching this? \ud83e\udd71",
+        "thumbnail_text": "DID YOU?",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "Why can't you stop yourself from catching a yawn?\nEven reading the word yawn can set one off.\nYou might be fighting one right now.\nSeeing, hearing, or just thinking about a yawn\ncan trigger your own.\nIn one Duke study,\nthree hundred twenty eight people watched a three minute video of yawns.\nTwo hundred twenty two of them yawned too.\nThat's about two out of three!\nAnd who's yawning matters.\nAn Italian study found yawns spread fastest between family,\nthen friends,\nand slowest between strangers.\nSo some scientists link it to empathy,\nyour brain quietly copying the people you care about.\nLittle kids don't catch yawns until they're about four.\nBut your dog can catch yours.\nSo be honest.\nDid you yawn while watching this?",
+        "key_facts": [
+          "Contagious yawning happens in response to hearing, seeing or thinking about yawning (Duke Health press release, 2014)",
+          "Duke study: 328 volunteers watched a three-minute yawning video; 222 contagiously yawned at least once (EurekAlert, PLOS ONE 2014)",
+          "Norscia & Palagi (Univ. of Pisa): contagion is greatest between kin, then friends, then acquaintances and strangers; authors describe an empathic gradient (Live Science 2011)",
+          "Most children aren't susceptible to contagious yawning until about age four (2010 UConn study, via Psychology Today)",
+          "Dogs can catch yawns from humans (Live Science)"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Chalkboard Lesson"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261112-contagious-yawn",
+      "redos": 0,
+      "updated": "2026-11-12T11:48:28.913515+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Chalkboard Lesson style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-12",
+        "name": "2026-11-12-102.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-12",
+        "name": "2026-11-12-102-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:02,760\nWhy can't you stop yourself from catching a yawn?\n\n2\n00:00:03,310 --> 00:00:06,060\nEven reading the word yawn can set one off.\n\n3\n00:00:06,520 --> 00:00:08,350\nYou might be fighting one right now.\n\n4\n00:00:08,780 --> 00:00:11,490\nSeeing, hearing, or just thinking about a yawn\n\n5\n00:00:11,490 --> 00:00:12,730\ncan trigger your own.\n\n6\n00:00:13,110 --> 00:00:14,210\nIn one Duke study,\n\n7\n00:00:14,710 --> 00:00:18,570\nthree hundred twenty eight people watched a three minute video of yawns.\n\n8\n00:00:19,030 --> 00:00:21,510\nTwo hundred twenty two of them yawned too.\n\n9\n00:00:21,930 --> 00:00:23,540\nThat's about two out of three!\n\n10\n00:00:23,980 --> 00:00:25,510\nAnd who's yawning matters.\n\n11\n00:00:25,820 --> 00:00:29,550\nAn Italian study found yawns spread fastest between family,\n\n12\n00:00:30,050 --> 00:00:30,910\nthen friends,\n\n13\n00:00:31,330 --> 00:00:33,190\nand slowest between strangers.\n\n14\n00:00:33,610 --> 00:00:35,850\nSo some scientists link it to empathy,\n\n15\n00:00:36,390 --> 00:00:39,310\nyour brain quietly copying the people you care about.\n\n16\n00:00:39,680 --> 00:00:42,870\nLittle kids don't catch yawns until they're about four.\n\n17\n00:00:43,350 --> 00:00:45,150\nBut your dog can catch yours.\n\n18\n00:00:45,600 --> 00:00:46,580\nSo be honest.\n\n19\n00:00:46,900 --> 00:00:48,680\nDid you yawn while watching this?\n\n",
+      "tg_msg": 1098
     }
   },
   "history": [
@@ -3217,7 +3218,7 @@
   "visual_searches": {
     "2026-10-25": 3
   },
-  "signals_day": "2026-11-11",
+  "signals_day": "2026-11-12",
   "drops_done": {
     "drop/20261025-autumn-leaves": "2026-10-25-101",
     "drop/20261025-roman-hypocaust": "2026-10-25-102",
@@ -3309,7 +3310,8 @@
     "drop/20261111-octopus-hearts": "2026-11-11-103",
     "drop/20261111-pigeon-homing": "2026-11-11-104",
     "drop/20261111-crab-sideways": "2026-11-11-105",
-    "drop/20261112-banana-spots": "2026-11-12-101"
+    "drop/20261112-banana-spots": "2026-11-12-101",
+    "drop/20261112-contagious-yawn": "2026-11-12-102"
   },
   "refs_day": "2026-11-12"
 }
