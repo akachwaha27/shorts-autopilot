@@ -378,97 +378,6 @@
     }
   },
   "videos": {
-    "2026-11-06-102": {
-      "topic": {
-        "title": "How do tiny microbes turn milk into yogurt?",
-        "format": "animated",
-        "angle": "Claymation Set"
-      },
-      "package": {
-        "title": "How Do Bacteria Turn Milk Into Yogurt in 5 Hours? \ud83e\udd5b",
-        "description": "How is yogurt made? Two kinds of bacteria eat the lactose in warm milk and make lactic acid, and at about pH 4.6 the milk proteins clump into a soft net that turns thin milk thick.\n\nSources:\nhttps://ucfoodsafety.ucdavis.edu/sites/g/files/dgvnsk7366/files/inline-files/295482.pdf\nhttps://grupos.eez.csic.es/imili/wp-content/uploads/2025/07/fermented-foods-yoghurt.pdf\nhttps://brodandtaylor.com/the-science-of-great-yogurt/\n\nAnimated in the Claymation Set style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#yogurt",
-          "#science",
-          "#food"
-        ],
-        "tags": [
-          "how is yogurt made",
-          "yogurt",
-          "bacteria",
-          "fermentation",
-          "lactic acid",
-          "lactose",
-          "milk science",
-          "food science",
-          "how it works",
-          "streptococcus thermophilus",
-          "lactobacillus bulgaricus",
-          "claymation",
-          "explainer"
-        ],
-        "category": "27",
-        "pinned_comment": "Would you still eat yogurt, knowing bacteria made it?",
-        "thumbnail_text": "THE MAGIC NUMBER",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "Your yogurt is milk that two kinds of bacteria soured in about five hours. First, the milk gets heated, to around two hundred degrees Fahrenheit. That changes its proteins, so they can set together later. Then it cools to about a hundred and ten, and two kinds of bacteria get stirred in. One looks like chains of tiny beads, the other like little rods. They only want one thing: lactose, the sugar in milk. For about five hours, they eat it, and make lactic acid. Then comes the magic number: four point six. At that pH, floating proteins clump, into a soft, wobbly net. That net traps the liquid, and thin milk turns thick. That tangy taste? That's the acid too. So tell me, would you still eat it, knowing bacteria made it?",
-        "key_facts": [
-          "Yogurt starter: Streptococcus thermophilus (oval cells in chains) and Lactobacillus bulgaricus (rods)",
-          "Milk heated to about 200F, then incubated around 110F for about 4-7 hours",
-          "Bacteria consume lactose and make lactic acid",
-          "Milk proteins coagulate at pH 4.6",
-          "Lactic acid gives the tangy taste"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Claymation Set"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261106-milk-yogurt",
-      "redos": 0,
-      "updated": "2026-11-06T19:52:53.879678+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Claymation Set style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-06",
-        "name": "2026-11-06-102.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-06",
-        "name": "2026-11-06-102-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:04,830\nYour yogurt is milk that two kinds of bacteria soured in about five hours.\n\n2\n00:00:05,380 --> 00:00:07,020\nFirst, the milk gets heated,\n\n3\n00:00:07,320 --> 00:00:09,500\nto around two hundred degrees Fahrenheit.\n\n4\n00:00:10,050 --> 00:00:11,650\nThat changes its proteins,\n\n5\n00:00:11,950 --> 00:00:13,610\nso they can set together later.\n\n6\n00:00:14,160 --> 00:00:16,290\nThen it cools to about a hundred and ten,\n\n7\n00:00:16,590 --> 00:00:18,850\nand two kinds of bacteria get stirred in.\n\n8\n00:00:19,400 --> 00:00:21,560\nOne looks like chains of tiny beads,\n\n9\n00:00:21,860 --> 00:00:23,510\nthe other like little rods.\n\n10\n00:00:24,060 --> 00:00:25,470\nThey only want one thing:\n\n11\n00:00:25,770 --> 00:00:27,430\nlactose, the sugar in milk.\n\n12\n00:00:27,980 --> 00:00:29,370\nFor about five hours,\n\n13\n00:00:29,670 --> 00:00:31,730\nthey eat it, and make lactic acid.\n\n14\n00:00:32,280 --> 00:00:33,930\nThen comes the magic number:\n\n15\n00:00:34,230 --> 00:00:35,370\nfour point six.\n\n16\n00:00:35,920 --> 00:00:38,440\nAt that pH, floating proteins clump,\n\n17\n00:00:38,740 --> 00:00:40,470\ninto a soft, wobbly net.\n\n18\n00:00:41,020 --> 00:00:42,470\nThat net traps the liquid,\n\n19\n00:00:42,770 --> 00:00:44,260\nand thin milk turns thick.\n\n20\n00:00:44,810 --> 00:00:47,140\nThat tangy taste? That's the acid too.\n\n21\n00:00:47,690 --> 00:00:48,570\nSo tell me,\n\n22\n00:00:48,870 --> 00:00:51,490\nwould you still eat it, knowing bacteria made it?\n\n",
-      "tg_msg": 1038,
-      "approved_by": "auto",
-      "description_full": "How is yogurt made? Two kinds of bacteria eat the lactose in warm milk and make lactic acid, and at about pH 4.6 the milk proteins clump into a soft net that turns thin milk thick.\n\nSources:\nhttps://ucfoodsafety.ucdavis.edu/sites/g/files/dgvnsk7366/files/inline-files/295482.pdf\nhttps://grupos.eez.csic.es/imili/wp-content/uploads/2025/07/fermented-foods-yoghurt.pdf\nhttps://brodandtaylor.com/the-science-of-great-yogurt/\n\nAnimated in the Claymation Set style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #yogurt #science #food\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Claymation Set style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/IOp6jG0AmqU",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-11-06T19:52:53.879698+00:00",
-      "slot": "2026-11-12T00:15:00+00:00"
-    },
     "2026-11-06-103": {
       "topic": {
         "title": "What actually happens when a jellyfish stings you?",
@@ -3108,12 +3017,12 @@
         "format": "animated",
         "style": "Chalkboard Lesson"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261112-contagious-yawn",
       "redos": 0,
-      "updated": "2026-11-12T11:48:28.913515+00:00",
+      "updated": "2026-11-12T19:34:15.355044+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Chalkboard Lesson style). Voice: Kokoro text-to-speech."
       ],
@@ -3128,7 +3037,173 @@
         "name": "2026-11-12-102-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:02,760\nWhy can't you stop yourself from catching a yawn?\n\n2\n00:00:03,310 --> 00:00:06,060\nEven reading the word yawn can set one off.\n\n3\n00:00:06,520 --> 00:00:08,350\nYou might be fighting one right now.\n\n4\n00:00:08,780 --> 00:00:11,490\nSeeing, hearing, or just thinking about a yawn\n\n5\n00:00:11,490 --> 00:00:12,730\ncan trigger your own.\n\n6\n00:00:13,110 --> 00:00:14,210\nIn one Duke study,\n\n7\n00:00:14,710 --> 00:00:18,570\nthree hundred twenty eight people watched a three minute video of yawns.\n\n8\n00:00:19,030 --> 00:00:21,510\nTwo hundred twenty two of them yawned too.\n\n9\n00:00:21,930 --> 00:00:23,540\nThat's about two out of three!\n\n10\n00:00:23,980 --> 00:00:25,510\nAnd who's yawning matters.\n\n11\n00:00:25,820 --> 00:00:29,550\nAn Italian study found yawns spread fastest between family,\n\n12\n00:00:30,050 --> 00:00:30,910\nthen friends,\n\n13\n00:00:31,330 --> 00:00:33,190\nand slowest between strangers.\n\n14\n00:00:33,610 --> 00:00:35,850\nSo some scientists link it to empathy,\n\n15\n00:00:36,390 --> 00:00:39,310\nyour brain quietly copying the people you care about.\n\n16\n00:00:39,680 --> 00:00:42,870\nLittle kids don't catch yawns until they're about four.\n\n17\n00:00:43,350 --> 00:00:45,150\nBut your dog can catch yours.\n\n18\n00:00:45,600 --> 00:00:46,580\nSo be honest.\n\n19\n00:00:46,900 --> 00:00:48,680\nDid you yawn while watching this?\n\n",
-      "tg_msg": 1098
+      "tg_msg": 1098,
+      "approved_by": "auto",
+      "description_full": "Why is yawning contagious? Seeing, hearing or even reading about a yawn can trigger your own: in a Duke study 222 of 328 people yawned at a yawning video, and yawns spread fastest between family and friends.\n\nSources:\nhttps://www.eurekalert.org/pub_releases/2014-03/dumc-cym031114.php\nhttps://www.livescience.com/17365-yawns-contagious-friends.html\nhttps://www.psychologytoday.com/us/blog/the-athletes-way/201403/why-is-yawning-so-contagious\n\nAnimated in the Chalkboard Lesson style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #yawning #science #humanbody\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Chalkboard Lesson style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/dS0DXPariSU",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-12T19:34:15.355078+00:00",
+      "slot": "2026-11-19T17:15:00+00:00"
+    },
+    "2026-11-12-103": {
+      "topic": {
+        "title": "Your Bones Explained in Simple Words: why your skeleton is alive",
+        "format": "long",
+        "angle": "Watercolor Brush"
+      },
+      "package": {
+        "title": "You Get a New Skeleton Every 10 Years",
+        "description": "Your bones are living tissue: you're born with nearly 300 bones that fuse down to about 206, and cells called osteoclasts and osteoblasts dig out and rebuild about 10% of your skeleton every year. We paint how bone is made of collagen and calcium mineral, why it's a calcium bank, how broken bones heal, how bone marrow makes around 200 billion red blood cells a day, and why astronauts lose bone in space while tennis players grow thicker bones in their racket arm.\n\nSources:\nhttps://www.ncbi.nlm.nih.gov/books/NBK45504/\nhttps://www.nasa.gov/reference/risk-of-spaceflight-induced-bone-changes/\nhttps://www.thebloodproject.com/ufaq/how-many-red-cells-are-produced-by-the-bone-marrow-each-day\n\nAnimated in the Watercolor Brush style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#bones",
+          "#humanbody",
+          "#science"
+        ],
+        "tags": [
+          "bones explained",
+          "why are bones alive",
+          "how many bones in the human body",
+          "babies have more bones",
+          "bone remodeling",
+          "osteoclasts and osteoblasts",
+          "new skeleton every 10 years",
+          "bone marrow",
+          "how do broken bones heal",
+          "astronaut bone loss",
+          "calcium in bones",
+          "human body facts",
+          "science explainer",
+          "watercolor animation",
+          "zorbly ai"
+        ],
+        "category": "27",
+        "pinned_comment": "Did you know you were born with nearly 300 bones? Which fact surprised you most: the fusing bones, the new skeleton every 10 years, or the 200 billion blood cells a day?",
+        "thumbnail_text": "BONES ARE ALIVE",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "You were born with nearly three hundred bones.\nSo where did almost a hundred of them go?\nThe answer is that your skeleton is alive,\nand it's rebuilding itself right now.\nMost of us picture bones as dry white sticks,\nlike the plastic skeleton in a science class.\nBut the bones inside you have blood vessels,\nnerves, and billions of busy cells.\nSo what's actually going on in there?\nLet's paint it out, one bone at a time.\nChapter one. More bones than you think.\nA grown-up has about two hundred and six bones.\nBut a newborn has close to three hundred.\nThe missing ones didn't disappear.\nThey fused together as you grew.\nA baby's skull is a set of soft plates,\nwith gaps that slowly close and lock.\nFive little bones at the bottom of your spine\njoin up into one solid piece.\nYour hands and feet hold one hundred and six bones,\nmore than half of your whole skeleton.\nChapter two. What bone is made of.\nBone is a mix of two very different things.\nThe first is collagen,\na stretchy protein, a bit like rope.\nThe second is a hard mineral made of calcium,\npacked between the ropes like tiny bricks.\nRope alone would bend, bricks alone would shatter.\nTogether, you get something tough and a little springy.\nAnd your bones are also a bank.\nThey store about ninety nine percent of your body's calcium.\nWhen your blood runs low,\nyour bones pay some out,\nso your heart and muscles keep working.\nChapter three. The demolition crew.\nDeep inside every bone, two kinds of cells take turns.\nOsteoclasts dissolve tiny pockets of old bone.\nThen osteoblasts move in,\nand fill the hole with fresh new bone.\nDig, then fill. Dig, then fill.\nIn adults, around ten percent of the skeleton\ngets rebuilt every year.\nThat works out to roughly a brand new skeleton\nabout every ten years.\nThis same crew is why a broken bone can heal.\nFirst a soft bridge forms across the crack,\nthen the crew slowly turns it into hard bone again.\nChapter four. The blood factory.\nNow look inside a big bone, like your thigh bone.\nThe middle is filled with soft marrow,\nand that marrow is a factory.\nIt makes your red blood cells,\nthe white cells that fight germs,\nand the platelets that plug up cuts.\nHow many? Scientists estimate\naround two hundred billion red blood cells,\nevery single day.\nChapter five. Use it or lose it.\nYour bones listen to how you use them.\nPush on them, and they build up.\nRest them for too long, and they let go.\nAstronauts floating in space can lose\nabout one percent of the bone in their hips each month.\nMeanwhile, studies of tennis players find\nthe bones in their racket arm are thicker\nthan the bones in their other arm.\nSo every jump, every run, every climb up the stairs\nis a little message telling your skeleton to stay strong.\nSo no, your skeleton isn't a dead frame.\nIt's a living, growing part of you,\nquietly rebuilding itself, one tiny pocket at a time.\nNext time, your liver,\nthe organ that does hundreds of jobs at once.",
+        "key_facts": [
+          "Adults have about 206 bones; newborns have close to 300, many of which fuse during growth (Healthline; Popular Science)",
+          "A baby's skull plates are separated by sutures and soft spots (fontanelles) that close as the child grows",
+          "Five sacral vertebrae fuse into the sacrum",
+          "Hands (27 bones each) and feet (26 each) together hold 106 of the 206 bones",
+          "Bone is collagen (protein) plus calcium phosphate mineral (hydroxyapatite); it stores about 99% of the body's calcium",
+          "Osteoclasts resorb bone, osteoblasts form new bone; about 10% of the adult skeleton is remodeled each year, roughly a new skeleton every 10 years (Surgeon General's report, NBK45504)",
+          "Fractures heal via a soft callus that is remodeled into hard bone",
+          "Bone marrow makes red cells, white cells and platelets; around 200 billion red blood cells per day (The Blood Project)",
+          "Astronauts can lose about 1-1.5% of hip and spine bone mass per month in microgravity (NASA)",
+          "Tennis players' racket-arm bones are thicker/denser than the other arm (loading studies)"
+        ],
+        "voice": "Kokoro",
+        "format": "long",
+        "style": "Watercolor Brush"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261112-bones-alive",
+      "redos": 0,
+      "updated": "2026-11-12T19:33:53.396172+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Watercolor Brush style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-12",
+        "name": "2026-11-12-103.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-12",
+        "name": "2026-11-12-103-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:02,550\nYou were born with nearly three hundred bones.\n\n2\n00:00:03,020 --> 00:00:04,870\nSo where did almost a hundred of them go?\n\n3\n00:00:05,390 --> 00:00:07,790\nThe answer is that your skeleton is alive,\n\n4\n00:00:08,260 --> 00:00:09,970\nand it's rebuilding itself right now.\n\n5\n00:00:10,330 --> 00:00:12,790\nMost of us picture bones as dry white sticks,\n\n6\n00:00:12,870 --> 00:00:15,740\nlike the plastic skeleton in a science class.\n\n7\n00:00:16,130 --> 00:00:18,350\nBut the bones inside you have blood vessels,\n\n8\n00:00:18,700 --> 00:00:21,050\nnerves, and billions of busy cells.\n\n9\n00:00:21,420 --> 00:00:23,190\nSo what's actually going on in there?\n\n10\n00:00:23,630 --> 00:00:25,790\nLet's paint it out, one bone at a time.\n\n11\n00:00:26,190 --> 00:00:28,390\nChapter one. More bones than you think.\n\n12\n00:00:28,800 --> 00:00:31,280\nA grown-up has about two hundred and six bones.\n\n13\n00:00:31,650 --> 00:00:33,820\nBut a newborn has close to three hundred.\n\n14\n00:00:34,190 --> 00:00:35,750\nThe missing ones didn't disappear.\n\n15\n00:00:36,130 --> 00:00:37,770\nThey fused together as you grew.\n\n16\n00:00:38,220 --> 00:00:40,250\nA baby's skull is a set of soft plates,\n\n17\n00:00:40,620 --> 00:00:42,670\nwith gaps that slowly close and lock.\n\n18\n00:00:43,080 --> 00:00:45,970\nFive little bones at the bottom of your spine\n\n19\n00:00:46,030 --> 00:00:47,470\njoin up into one solid piece.\n\n20\n00:00:47,900 --> 00:00:50,730\nYour hands and feet hold one hundred and six bones,\n\n21\n00:00:51,100 --> 00:00:52,710\nmore than half of your whole skeleton.\n\n22\n00:00:53,180 --> 00:00:55,260\nChapter two. What bone is made of.\n\n23\n00:00:55,640 --> 00:00:57,880\nBone is a mix of two very different things.\n\n24\n00:00:58,280 --> 00:00:59,480\nThe first is collagen,\n\n25\n00:00:59,730 --> 00:01:01,690\na stretchy protein, a bit like rope.\n\n26\n00:01:02,110 --> 00:01:04,630\nThe second is a hard mineral made of calcium,\n\n27\n00:01:05,040 --> 00:01:07,240\npacked between the ropes like tiny bricks.\n\n28\n00:01:07,590 --> 00:01:10,230\nRope alone would bend, bricks alone would shatter.\n\n29\n00:01:10,580 --> 00:01:13,290\nTogether, you get something tough and a little springy.\n\n30\n00:01:13,730 --> 00:01:15,340\nAnd your bones are also a bank.\n\n31\n00:01:15,740 --> 00:01:18,820\nThey store about ninety nine percent of your body's calcium.\n\n32\n00:01:19,290 --> 00:01:20,430\nWhen your blood runs low,\n\n33\n00:01:20,700 --> 00:01:21,820\nyour bones pay some out,\n\n34\n00:01:21,880 --> 00:01:23,960\nso your heart and muscles keep working.\n\n35\n00:01:24,340 --> 00:01:26,280\nChapter three. The demolition crew.\n\n36\n00:01:26,690 --> 00:01:29,910\nDeep inside every bone, two kinds of cells take turns.\n\n37\n00:01:30,370 --> 00:01:33,350\nOsteoclasts dissolve tiny pockets of old bone.\n\n38\n00:01:33,700 --> 00:01:35,150\nThen osteoblasts move in,\n\n39\n00:01:35,450 --> 00:01:37,240\nand fill the hole with fresh new bone.\n\n40\n00:01:37,630 --> 00:01:39,640\nDig, then fill. Dig, then fill.\n\n41\n00:01:40,030 --> 00:01:42,620\nIn adults, around ten percent of the skeleton\n\n42\n00:01:42,720 --> 00:01:44,070\ngets rebuilt every year.\n\n43\n00:01:44,450 --> 00:01:46,910\nThat works out to roughly a brand new skeleton\n\n44\n00:01:47,170 --> 00:01:48,420\nabout every ten years.\n\n45\n00:01:48,820 --> 00:01:51,250\nThis same crew is why a broken bone can heal.\n\n46\n00:01:51,640 --> 00:01:54,020\nFirst a soft bridge forms across the crack,\n\n47\n00:01:54,100 --> 00:01:57,000\nthen the crew slowly turns it into hard bone again.\n\n48\n00:01:57,450 --> 00:01:59,340\nChapter four. The blood factory.\n\n49\n00:01:59,800 --> 00:02:02,550\nNow look inside a big bone, like your thigh bone.\n\n50\n00:02:02,920 --> 00:02:04,540\nThe middle is filled with soft marrow,\n\n51\n00:02:04,880 --> 00:02:06,290\nand that marrow is a factory.\n\n52\n00:02:06,680 --> 00:02:08,190\nIt makes your red blood cells,\n\n53\n00:02:08,510 --> 00:02:10,170\nthe white cells that fight germs,\n\n54\n00:02:10,500 --> 00:02:12,200\nand the platelets that plug up cuts.\n\n55\n00:02:12,650 --> 00:02:13,980\nHow many? Scientists estimate\n\n56\n00:02:14,040 --> 00:02:16,680\naround two hundred billion red blood cells,\n\n57\n00:02:17,030 --> 00:02:18,020\nevery single day.\n\n58\n00:02:18,380 --> 00:02:20,410\nChapter five. Use it or lose it.\n\n59\n00:02:20,890 --> 00:02:22,990\nYour bones listen to how you use them.\n\n60\n00:02:23,440 --> 00:02:25,080\nPush on them, and they build up.\n\n61\n00:02:25,550 --> 00:02:27,720\nRest them for too long, and they let go.\n\n62\n00:02:28,130 --> 00:02:29,760\nAstronauts floating in space can lose\n\n63\n00:02:30,070 --> 00:02:33,290\nabout one percent of the bone in their hips each month.\n\n64\n00:02:33,760 --> 00:02:35,880\nMeanwhile, studies of tennis players find\n\n65\n00:02:36,190 --> 00:02:38,400\nthe bones in their racket arm are thicker\n\n66\n00:02:38,530 --> 00:02:40,350\nthan the bones in their other arm.\n\n67\n00:02:40,820 --> 00:02:43,610\nSo every jump, every run, every climb up the stairs\n\n68\n00:02:43,670 --> 00:02:47,130\nis a little message telling your skeleton to stay strong.\n\n69\n00:02:47,480 --> 00:02:49,900\nSo no, your skeleton isn't a dead frame.\n\n70\n00:02:50,320 --> 00:02:52,110\nIt's a living, growing part of you,\n\n71\n00:02:52,410 --> 00:02:56,020\nquietly rebuilding itself, one tiny pocket at a time.\n\n72\n00:02:56,390 --> 00:02:57,670\nNext time, your liver,\n\n73\n00:02:58,040 --> 00:03:00,430\nthe organ that does hundreds of jobs at once.\n\n",
+      "tg_msg": 1100
+    },
+    "2026-11-12-104": {
+      "topic": {
+        "title": "Why do polar bears have black skin under white fur?",
+        "format": "animated",
+        "angle": "Cut-Paper Diorama"
+      },
+      "package": {
+        "title": "Polar Bears Aren't White (0 White Hairs) \ud83d\udc3b\u200d\u2744\ufe0f",
+        "description": "Why do polar bears have black skin under white fur? Polar bear hairs are clear and hollow with no white pigment, and they only look white because light scatters inside them, while most warmth comes from thick fat and fur that traps heat so well polar bears almost vanish on heat cameras.\n\nSources:\nhttps://www.gi.alaska.edu/alaska-science-forum/debunking-myth-polar-bear-hair\nhttps://www.livescience.com/43217-new-research-reveals-how-polar-bears-stay-warm.html\nhttps://seaworld.org/animals/all-about/polar-bears/characteristics/\n\nAnimated in the Cut-Paper Diorama style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#polarbear",
+          "#animalfacts",
+          "#science"
+        ],
+        "tags": [
+          "why do polar bears have black skin",
+          "polar bear skin",
+          "polar bear fur",
+          "are polar bears white",
+          "polar bear hair clear",
+          "polar bear hollow hair",
+          "polar bear fiber optics myth",
+          "polar bear blubber",
+          "polar bear heat camera",
+          "polar bear facts",
+          "animal facts",
+          "arctic animals",
+          "science explained"
+        ],
+        "category": "27",
+        "pinned_comment": "So is a polar bear white, black, or totally see-through? Pick one \ud83d\udc47",
+        "thumbnail_text": "BLACK SKIN?!",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "If you shaved a polar bear, you'd find black skin. And zero white hairs. Why? Each hair is clear, like a tiny plastic straw with a hollow core full of air. There's no white pigment in it. So why does it look white? Light bounces around inside those clear hairs and scatters in every direction, the same trick that makes snow look white. Scientists once thought the hairs piped sunlight down to the skin like fiber optics. Turns out they don't. Most sunlight never reaches the skin. The black skin may soak up what little warmth gets through, but the real heater is underneath: up to eleven centimeters of fat, plus fur that traps heat so well polar bears almost vanish on heat cameras. So is a polar bear white, black, or totally see-through?",
+        "key_facts": [
+          "Polar bears have black skin under their fur (Alaska Science Forum, SeaWorld)",
+          "Each hair is translucent with a hollow core and has no white pigment; it looks white because it scatters light (Alaska Science Forum)",
+          "The idea that hairs pipe sunlight to the skin like fiber optics was tested and found false; little sunlight reaches the skin (Alaska Science Forum, Live Science)",
+          "Blubber up to about 11 cm (4.5 in) thick (SeaWorld)",
+          "Polar bears lose so little heat they are nearly invisible to infrared cameras (Live Science)"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Cut-Paper Diorama"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261112-polar-bear-skin",
+      "redos": 0,
+      "updated": "2026-11-12T19:34:04.624129+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Cut-Paper Diorama style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-12",
+        "name": "2026-11-12-104.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-12",
+        "name": "2026-11-12-104-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:01,670\nIf you shaved a polar bear,\n\n2\n00:00:02,000 --> 00:00:03,290\nyou'd find black skin.\n\n3\n00:00:03,750 --> 00:00:05,640\nAnd zero white hairs. Why?\n\n4\n00:00:06,080 --> 00:00:07,110\nEach hair is clear,\n\n5\n00:00:07,580 --> 00:00:08,990\nlike a tiny plastic straw\n\n6\n00:00:08,990 --> 00:00:10,930\nwith a hollow core full of air.\n\n7\n00:00:11,410 --> 00:00:12,990\nThere's no white pigment in it.\n\n8\n00:00:13,390 --> 00:00:14,920\nSo why does it look white?\n\n9\n00:00:15,370 --> 00:00:18,350\nLight bounces around inside those clear hairs\n\n10\n00:00:18,410 --> 00:00:19,690\nand scatters in every direction,\n\n11\n00:00:20,300 --> 00:00:22,610\nthe same trick that makes snow look white.\n\n12\n00:00:23,030 --> 00:00:26,140\nScientists once thought the hairs piped sunlight\n\n13\n00:00:26,200 --> 00:00:28,070\ndown to the skin like fiber optics.\n\n14\n00:00:28,420 --> 00:00:29,670\nTurns out they don't.\n\n15\n00:00:29,970 --> 00:00:32,180\nMost sunlight never reaches the skin.\n\n16\n00:00:32,590 --> 00:00:36,780\nThe black skin may soak up what little warmth gets through,\n\n17\n00:00:36,890 --> 00:00:38,770\nbut the real heater is underneath:\n\n18\n00:00:38,860 --> 00:00:40,430\nup to eleven centimeters of fat,\n\n19\n00:00:40,850 --> 00:00:42,930\nplus fur that traps heat so well\n\n20\n00:00:43,000 --> 00:00:46,050\npolar bears almost vanish on heat cameras.\n\n21\n00:00:46,480 --> 00:00:47,760\nSo is a polar bear white,\n\n22\n00:00:48,120 --> 00:00:48,440\nblack,\n\n23\n00:00:48,520 --> 00:00:49,770\nor totally see-through?\n\n",
+      "tg_msg": 1101
     }
   },
   "history": [
@@ -3311,7 +3386,9 @@
     "drop/20261111-pigeon-homing": "2026-11-11-104",
     "drop/20261111-crab-sideways": "2026-11-11-105",
     "drop/20261112-banana-spots": "2026-11-12-101",
-    "drop/20261112-contagious-yawn": "2026-11-12-102"
+    "drop/20261112-contagious-yawn": "2026-11-12-102",
+    "drop/20261112-bones-alive": "2026-11-12-103",
+    "drop/20261112-polar-bear-skin": "2026-11-12-104"
   },
   "refs_day": "2026-11-12"
 }
