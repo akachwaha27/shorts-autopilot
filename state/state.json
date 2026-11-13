@@ -378,176 +378,6 @@
     }
   },
   "videos": {
-    "2026-11-07-102": {
-      "topic": {
-        "title": "Why doesn't your stomach digest itself?",
-        "format": "animated",
-        "angle": "Flat-Vector Science"
-      },
-      "package": {
-        "title": "Why Doesn't Your Stomach Digest Itself?",
-        "description": "Why doesn't stomach acid digest your own stomach? Your stomach acid can drop to pH 1.5, but a mucus layer full of bicarbonate, switched-off pepsin and a lining that rebuilds itself every few days keep it from eating you.\n\nSources:\nhttps://www.scientificamerican.com/article/why-the-stomach-does-not-digest-its/\nhttps://www.gi.alaska.edu/alaska-science-forum/why-doesnt-stomach-digest-itself\nhttps://en.wikipedia.org/wiki/Gastric_acid\n\nAnimated in the Flat-Vector Science style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#humanbody",
-          "#science",
-          "#stomach"
-        ],
-        "tags": [
-          "why doesn't your stomach digest itself",
-          "stomach acid",
-          "stomach lining",
-          "gastric mucus",
-          "bicarbonate",
-          "pepsin",
-          "how digestion works",
-          "human body facts",
-          "science explained",
-          "biology for kids",
-          "stomach acid pH",
-          "animated explainer",
-          "zorbly ai"
-        ],
-        "category": "27",
-        "pinned_comment": "Which trick would you want if you were a stomach: the slime, the switch, or the shedding?",
-        "thumbnail_text": "pH 1.5",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "Your stomach acid dissolves metal,\nso how does your stomach survive it,\nthree times a day?\nThe acid can drop to pH one point five.\nStrong enough to eat through zinc,\nand turn a steak to mush.\nBut your stomach has three tricks.\nTrick one: a thick blanket of mucus,\nloaded with bicarbonate,\nbasically baking soda.\nSo right against the wall,\nthe acid gets neutralized.\nTrick two: pepsin, the meat-eating enzyme,\nis made switched off.\nIt only turns on out in the acid,\naway from your cells.\nTrick three: your lining sheds around half a million cells,\nevery minute,\nand rebuilds itself every few days.\nSo damage gets replaced before it spreads.\nYour stomach isn't acid-proof.\nIt just heals faster than it melts.\nWhich trick would you want: the slime, the switch, or the shedding?",
-        "key_facts": [
-          "Stomach acid can reach about pH 1.5 (normal range roughly 1.5-3.5)",
-          "A mucus layer rich in bicarbonate neutralizes acid right at the stomach wall",
-          "Pepsin is secreted as inactive pepsinogen and is activated by acid in the stomach cavity",
-          "The lining sheds roughly 500,000 cells a minute and renews itself every few days (about 3-5 days)"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Flat-Vector Science"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261107-stomach-acid",
-      "redos": 0,
-      "updated": "2026-11-07T16:54:52.582395+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-07",
-        "name": "2026-11-07-102.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-07",
-        "name": "2026-11-07-102-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:02,290\nYour stomach acid dissolves metal,\n\n2\n00:00:02,590 --> 00:00:04,320\nso how does your stomach survive it,\n\n3\n00:00:04,620 --> 00:00:05,780\nthree times a day?\n\n4\n00:00:06,330 --> 00:00:09,010\nThe acid can drop to pH one point five.\n\n5\n00:00:09,560 --> 00:00:11,230\nStrong enough to eat through zinc,\n\n6\n00:00:11,530 --> 00:00:12,880\nand turn a steak to mush.\n\n7\n00:00:13,430 --> 00:00:15,170\nBut your stomach has three tricks.\n\n8\n00:00:15,720 --> 00:00:17,910\nTrick one: a thick blanket of mucus,\n\n9\n00:00:18,210 --> 00:00:19,690\nloaded with bicarbonate,\n\n10\n00:00:19,990 --> 00:00:21,570\nbasically baking soda.\n\n11\n00:00:22,120 --> 00:00:23,590\nSo right against the wall,\n\n12\n00:00:23,890 --> 00:00:25,610\nthe acid gets neutralized.\n\n13\n00:00:26,160 --> 00:00:28,690\nTrick two: pepsin, the meat-eating enzyme,\n\n14\n00:00:28,990 --> 00:00:30,250\nis made switched off.\n\n15\n00:00:30,800 --> 00:00:32,820\nIt only turns on out in the acid,\n\n16\n00:00:33,120 --> 00:00:34,330\naway from your cells.\n\n17\n00:00:34,880 --> 00:00:38,270\nTrick three: your lining sheds around half a million cells,\n\n18\n00:00:38,570 --> 00:00:39,420\nevery minute,\n\n19\n00:00:39,720 --> 00:00:41,890\nand rebuilds itself every few days.\n\n20\n00:00:42,440 --> 00:00:45,090\nSo damage gets replaced before it spreads.\n\n21\n00:00:45,640 --> 00:00:47,510\nYour stomach isn't acid-proof.\n\n22\n00:00:48,060 --> 00:00:50,090\nIt just heals faster than it melts.\n\n23\n00:00:50,640 --> 00:00:54,230\nWhich trick would you want: the slime, the switch, or the shedding?\n\n",
-      "tg_msg": 1048,
-      "approved_by": "auto",
-      "description_full": "Why doesn't stomach acid digest your own stomach? Your stomach acid can drop to pH 1.5, but a mucus layer full of bicarbonate, switched-off pepsin and a lining that rebuilds itself every few days keep it from eating you.\n\nSources:\nhttps://www.scientificamerican.com/article/why-the-stomach-does-not-digest-its/\nhttps://www.gi.alaska.edu/alaska-science-forum/why-doesnt-stomach-digest-itself\nhttps://en.wikipedia.org/wiki/Gastric_acid\n\nAnimated in the Flat-Vector Science style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #humanbody #science #stomach\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/oT_oF4qhIiA",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-11-07T16:54:52.582410+00:00",
-      "slot": "2026-11-13T02:15:00+00:00"
-    },
-    "2026-11-07-103": {
-      "topic": {
-        "title": "Why can you hold a crocodile's jaws shut with your bare hands?",
-        "format": "long",
-        "angle": "Claymation Set"
-      },
-      "package": {
-        "title": "Why Can Bare Hands Hold Shut a 3,700-Pound Crocodile Bite?",
-        "description": "A saltwater crocodile has the strongest bite ever measured, about 3,700 pounds of force, yet its jaws can be held shut by hand because the muscles that open them are tiny. We look inside the crocodile jaw, the bite force record, how wildlife handlers use rubber bands and tape, the touch sensors that make croc jaws more sensitive than fingertips, and how alligators replace each tooth up to 50 times.\n\nSources:\nhttps://www.eurekalert.org/news-releases/611994\nhttps://news.vanderbilt.edu/2012/11/alligators-and-crocodiles\nhttps://www.smithsonianmag.com/science-nature/solving-an-alligator-mystery-may-help-humans-regrow-lost-teeth-60257334/\n\nAnimated in the Claymation Set style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#crocodile",
-          "#animals",
-          "#science"
-        ],
-        "tags": [
-          "crocodile",
-          "crocodile bite force",
-          "strongest bite",
-          "saltwater crocodile",
-          "crocodile jaw",
-          "why can you hold a crocodile's mouth shut",
-          "crocodile facts",
-          "alligator",
-          "animal facts",
-          "jaw muscles",
-          "alligator teeth",
-          "crocodile sensors",
-          "animal explainer",
-          "claymation",
-          "zorbly ai"
-        ],
-        "category": "27",
-        "pinned_comment": "Which surprised you more: the 3,700-pound bite, or jaws gentle enough to carry babies?",
-        "thumbnail_text": "WEAK SPOT",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "Why can your bare hands hold shut\nthe strongest bite ever measured,\n3,700 pounds of crocodile?\nIt sounds impossible, but it's true.\nLet's open up the most lopsided jaw in nature.\nBack in 2012, a team of scientists\nset out to measure every crocodile on Earth.\nAll 23 living species,\nfrom tiny caimans to giant gharials.\nThey wrestled each one\ninto biting down on a padded force meter.\nThe winner was the saltwater crocodile.\nOne big male bit down with about 3,700 pounds of force.\nThat's more than sixteen thousand newtons.\nFor comparison, you chew a steak\nwith maybe 150 to 200 pounds.\nLions, tigers and hyenas\nland somewhere around 1,000.\nSo the saltie bites more than three times harder\nthan the big cats.\nSo where does all that power come from?\nLook at the back of a crocodile's head.\nThose big bulging cheeks aren't fat.\nThey're almost all jaw-closing muscle,\npacked around the hinge\nand pulling the lower jaw up like giant rubber bands.\nNow look for the muscles that open the jaw.\nThey're tiny.\nA thin little strap\nthat just tugs the jaw back down.\nAnd that makes sense for how a crocodile eats.\nIt lies still in the water,\nthen snaps shut and holds on.\nClamping needs huge force.\nOpening only has to lift the jaw's own weight.\nSo evolution poured almost everything\ninto closing.\nThat's the trick behind the bare-hands myth.\nOnce the jaws are already shut,\nthe weak opening muscles have to push\nagainst your grip,\nand they lose.\nWildlife handlers use this every day.\nThey loop a strong rubber band around the snout,\nor wrap it with a few turns of tape,\nand the crocodile simply can't open up.\nBut please, never try this yourself.\nGetting the mouth shut is the dangerous part,\nand that tail is all muscle too.\nHere's the most surprising part.\nThose crushing jaws are also incredibly gentle.\nLook closely at a crocodile's face\nand you'll see thousands of tiny bumps.\nEach bump is a touch sensor,\nand scientists found they're more sensitive\nthan your own fingertips.\nThey can feel a ripple\nfrom a single drop of water.\nThey help a crocodile sense prey in the dark,\nand they let a mother crocodile\ncarry her newly hatched babies in her mouth\nwithout hurting a single one.\nAnd then there are the teeth.\nAn alligator has about 80,\nand each one can be replaced up to 50 times\nover its long life.\nA new tooth is always waiting underneath\nthe old one.\nScientists are studying how they do it,\nhoping it might one day help people\nregrow lost teeth.\nSo the crocodile's jaw is a one-way machine.\nRecord-breaking power to close,\nbarely any to open,\nand a touch as soft as a fingertip.\nNext time, why do porcupine quills\nget stuck in you and refuse to come out?\n",
-        "key_facts": [
-          "Erickson et al. 2012 tested all 23 living crocodilian species; a saltwater crocodile bit with about 3,700 lb (16,460 N)",
-          "You chew a steak with about 150-200 psi; lions, tigers and hyenas around 1,000 psi (National Geographic)",
-          "Croc jaws are mostly jaw-closing muscle; the opening muscles are weak, so hands, rubber bands or tape can hold them shut",
-          "Integumentary sensory organs on croc jaws are more sensitive to pressure than human fingertips; used to carry hatchlings (Leitch & Catania 2012)",
-          "An alligator can replace each of its ~80 teeth up to 50 times (Smithsonian)"
-        ],
-        "voice": "Kokoro",
-        "format": "long",
-        "style": "Claymation Set"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261107-croc-jaws",
-      "redos": 0,
-      "updated": "2026-11-07T18:55:02.625053+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Claymation Set style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-07",
-        "name": "2026-11-07-103.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-07",
-        "name": "2026-11-07-103-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:01,990\nWhy can your bare hands hold shut\n\n2\n00:00:02,290 --> 00:00:04,090\nthe strongest bite ever measured,\n\n3\n00:00:04,390 --> 00:00:07,320\n3,700 pounds of crocodile?\n\n4\n00:00:07,870 --> 00:00:09,850\nIt sounds impossible, but it's true.\n\n5\n00:00:10,400 --> 00:00:13,400\nLet's open up the most lopsided jaw in nature.\n\n6\n00:00:13,950 --> 00:00:17,120\nBack in 2012, a team of scientists\n\n7\n00:00:17,420 --> 00:00:20,120\nset out to measure every crocodile on Earth.\n\n8\n00:00:20,670 --> 00:00:22,630\nAll 23 living species,\n\n9\n00:00:22,930 --> 00:00:25,310\nfrom tiny caimans to giant gharials.\n\n10\n00:00:25,860 --> 00:00:27,140\nThey wrestled each one\n\n11\n00:00:27,440 --> 00:00:30,020\ninto biting down on a padded force meter.\n\n12\n00:00:30,570 --> 00:00:32,680\nThe winner was the saltwater crocodile.\n\n13\n00:00:33,230 --> 00:00:38,140\nOne big male bit down with about 3,700 pounds of force.\n\n14\n00:00:38,690 --> 00:00:41,010\nThat's more than sixteen thousand newtons.\n\n15\n00:00:41,550 --> 00:00:43,290\nFor comparison, you chew a steak\n\n16\n00:00:43,590 --> 00:00:46,900\nwith maybe 150 to 200 pounds.\n\n17\n00:00:47,450 --> 00:00:49,370\nLions, tigers and hyenas\n\n18\n00:00:49,670 --> 00:00:51,750\nland somewhere around 1,000.\n\n19\n00:00:52,300 --> 00:00:54,850\nSo the saltie bites more than three times harder\n\n20\n00:00:55,150 --> 00:00:56,270\nthan the big cats.\n\n21\n00:00:56,820 --> 00:00:58,800\nSo where does all that power come from?\n\n22\n00:00:59,350 --> 00:01:01,410\nLook at the back of a crocodile's head.\n\n23\n00:01:01,960 --> 00:01:03,940\nThose big bulging cheeks aren't fat.\n\n24\n00:01:04,490 --> 00:01:06,640\nThey're almost all jaw-closing muscle,\n\n25\n00:01:06,940 --> 00:01:08,170\npacked around the hinge\n\n26\n00:01:08,470 --> 00:01:11,530\nand pulling the lower jaw up like giant rubber bands.\n\n27\n00:01:12,080 --> 00:01:14,410\nNow look for the muscles that open the jaw.\n\n28\n00:01:14,960 --> 00:01:15,850\nThey're tiny.\n\n29\n00:01:16,400 --> 00:01:17,570\nA thin little strap\n\n30\n00:01:17,870 --> 00:01:19,760\nthat just tugs the jaw back down.\n\n31\n00:01:20,310 --> 00:01:22,720\nAnd that makes sense for how a crocodile eats.\n\n32\n00:01:23,270 --> 00:01:24,730\nIt lies still in the water,\n\n33\n00:01:25,030 --> 00:01:26,810\nthen snaps shut and holds on.\n\n34\n00:01:27,360 --> 00:01:29,060\nClamping needs huge force.\n\n35\n00:01:29,610 --> 00:01:32,360\nOpening only has to lift the jaw's own weight.\n\n36\n00:01:32,910 --> 00:01:35,140\nSo evolution poured almost everything\n\n37\n00:01:35,440 --> 00:01:36,450\ninto closing.\n\n38\n00:01:37,000 --> 00:01:39,210\nThat's the trick behind the bare-hands myth.\n\n39\n00:01:39,760 --> 00:01:41,510\nOnce the jaws are already shut,\n\n40\n00:01:41,810 --> 00:01:43,860\nthe weak opening muscles have to push\n\n41\n00:01:44,160 --> 00:01:45,240\nagainst your grip,\n\n42\n00:01:45,540 --> 00:01:46,460\nand they lose.\n\n43\n00:01:47,010 --> 00:01:49,460\nWildlife handlers use this every day.\n\n44\n00:01:50,010 --> 00:01:52,430\nThey loop a strong rubber band around the snout,\n\n45\n00:01:52,730 --> 00:01:54,710\nor wrap it with a few turns of tape,\n\n46\n00:01:55,010 --> 00:01:57,320\nand the crocodile simply can't open up.\n\n47\n00:01:57,870 --> 00:02:00,020\nBut please, never try this yourself.\n\n48\n00:02:00,570 --> 00:02:03,260\nGetting the mouth shut is the dangerous part,\n\n49\n00:02:03,560 --> 00:02:05,440\nand that tail is all muscle too.\n\n50\n00:02:05,990 --> 00:02:07,690\nHere's the most surprising part.\n\n51\n00:02:08,240 --> 00:02:11,440\nThose crushing jaws are also incredibly gentle.\n\n52\n00:02:11,990 --> 00:02:14,070\nLook closely at a crocodile's face\n\n53\n00:02:14,370 --> 00:02:16,560\nand you'll see thousands of tiny bumps.\n\n54\n00:02:17,110 --> 00:02:18,650\nEach bump is a touch sensor,\n\n55\n00:02:18,950 --> 00:02:21,040\nand scientists found they're more sensitive\n\n56\n00:02:21,340 --> 00:02:22,790\nthan your own fingertips.\n\n57\n00:02:23,340 --> 00:02:24,650\nThey can feel a ripple\n\n58\n00:02:24,950 --> 00:02:26,640\nfrom a single drop of water.\n\n59\n00:02:27,190 --> 00:02:29,760\nThey help a crocodile sense prey in the dark,\n\n60\n00:02:30,060 --> 00:02:31,760\nand they let a mother crocodile\n\n61\n00:02:32,060 --> 00:02:34,330\ncarry her newly hatched babies in her mouth\n\n62\n00:02:34,630 --> 00:02:36,290\nwithout hurting a single one.\n\n63\n00:02:36,840 --> 00:02:38,210\nAnd then there are the teeth.\n\n64\n00:02:38,760 --> 00:02:40,520\nAn alligator has about 80,\n\n65\n00:02:40,820 --> 00:02:43,630\nand each one can be replaced up to 50 times\n\n66\n00:02:43,930 --> 00:02:45,210\nover its long life.\n\n67\n00:02:45,760 --> 00:02:48,110\nA new tooth is always waiting underneath\n\n68\n00:02:48,410 --> 00:02:49,290\nthe old one.\n\n69\n00:02:49,840 --> 00:02:51,890\nScientists are studying how they do it,\n\n70\n00:02:52,190 --> 00:02:54,310\nhoping it might one day help people\n\n71\n00:02:54,610 --> 00:02:55,910\nregrow lost teeth.\n\n72\n00:02:56,460 --> 00:02:59,390\nSo the crocodile's jaw is a one-way machine.\n\n73\n00:02:59,940 --> 00:03:01,840\nRecord-breaking power to close,\n\n74\n00:03:02,140 --> 00:03:03,440\nbarely any to open,\n\n75\n00:03:03,740 --> 00:03:05,710\nand a touch as soft as a fingertip.\n\n76\n00:03:06,260 --> 00:03:08,650\nNext time, why do porcupine quills\n\n77\n00:03:08,950 --> 00:03:11,320\nget stuck in you and refuse to come out?\n\n",
-      "tg_msg": 1050,
-      "approved_by": "auto",
-      "description_full": "A saltwater crocodile has the strongest bite ever measured, about 3,700 pounds of force, yet its jaws can be held shut by hand because the muscles that open them are tiny. We look inside the crocodile jaw, the bite force record, how wildlife handlers use rubber bands and tape, the touch sensors that make croc jaws more sensitive than fingertips, and how alligators replace each tooth up to 50 times.\n\nSources:\nhttps://www.eurekalert.org/news-releases/611994\nhttps://news.vanderbilt.edu/2012/11/alligators-and-crocodiles\nhttps://www.smithsonianmag.com/science-nature/solving-an-alligator-mystery-may-help-humans-regrow-lost-teeth-60257334/\n\nAnimated in the Claymation Set style.\n\nFollow Zorbly AI for a new Short every day.\n\n#crocodile #animals #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Claymation Set style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/YpeBzO_Ueo0",
-          "private \u00b7 thumbnail \u2705"
-        ]
-      },
-      "uploaded_at": "2026-11-07T18:55:02.625097+00:00",
-      "slot": "2026-11-13T17:15:00+00:00"
-    },
     "2026-11-07-104": {
       "topic": {
         "title": "The Panda Paradox: why does a meat-eater's body live on bamboo?",
@@ -3118,12 +2948,12 @@
         "format": "animated",
         "style": "Flat-Vector Science"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261113-baby-kneecaps",
       "redos": 0,
-      "updated": "2026-11-13T15:29:49.377882+00:00",
+      "updated": "2026-11-13T20:54:51.183379+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech."
       ],
@@ -3138,7 +2968,29 @@
         "name": "2026-11-13-102-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:03,080\nYour kneecaps were soft until you were about three.\n\n2\n00:00:03,450 --> 00:00:05,700\nBabies don't have bony kneecaps at all.\n\n3\n00:00:06,130 --> 00:00:08,850\nEach knee has a soft disc of cartilage instead,\n\n4\n00:00:09,460 --> 00:00:12,290\nthe same bendy stuff in the tip of your nose.\n\n5\n00:00:12,640 --> 00:00:14,000\nSo why start soft?\n\n6\n00:00:14,470 --> 00:00:16,010\nFirst, there's birth itself.\n\n7\n00:00:16,380 --> 00:00:19,300\nA hard kneecap would make that tight squeeze riskier.\n\n8\n00:00:19,700 --> 00:00:20,900\nThen comes crawling.\n\n9\n00:00:21,270 --> 00:00:23,170\nKnees hit the floor again and again,\n\n10\n00:00:23,730 --> 00:00:26,550\nand soft cartilage handles that better than bone.\n\n11\n00:00:26,980 --> 00:00:29,310\nThen somewhere between ages three and six,\n\n12\n00:00:29,770 --> 00:00:33,150\ntiny islands of bone pop up inside the cartilage.\n\n13\n00:00:33,570 --> 00:00:34,470\nThey grow,\n\n14\n00:00:34,550 --> 00:00:34,760\nthey spread,\n\n15\n00:00:35,310 --> 00:00:35,730\nand by your early teens\n\n16\n00:00:35,820 --> 00:00:38,810\nthey've fused into one solid kneecap.\n\n17\n00:00:39,230 --> 00:00:41,610\nAnd honestly, it's kind of a weird bone.\n\n18\n00:00:41,950 --> 00:00:43,840\nIt's the biggest bone in your body\n\n19\n00:00:43,900 --> 00:00:45,980\nthat grows right inside a tendon.\n\n20\n00:00:46,340 --> 00:00:49,020\nThat's why a toddler's knees are still so squishy.\n\n21\n00:00:49,390 --> 00:00:50,390\nSo be honest.\n\n22\n00:00:50,760 --> 00:00:53,050\nDid you know you were born without kneecaps?\n\n",
-      "tg_msg": 1109
+      "tg_msg": 1109,
+      "approved_by": "auto",
+      "description_full": "Why are babies born without bony kneecaps? A baby's kneecap starts as soft cartilage and only begins turning to bone between about ages 3 and 6, fusing into one solid kneecap by the early teens.\n\nSources:\nhttps://www.healthline.com/health/do-babies-have-kneecaps\nhttps://radiopaedia.org/articles/24732\n\nAnimated in the Flat-Vector Science style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #babies #anatomy #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/69bqNUobFMY",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-13T20:54:51.183397+00:00",
+      "slot": "2026-11-20T20:15:00+00:00"
     },
     "2026-11-13-103": {
       "topic": {
@@ -3189,12 +3041,12 @@
         "format": "long",
         "style": "Watercolor Brush"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261113-liver-jobs",
       "redos": 0,
-      "updated": "2026-11-13T15:29:59.101203+00:00",
+      "updated": "2026-11-13T20:54:56.760847+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Watercolor Brush style). Voice: Kokoro text-to-speech."
       ],
@@ -3209,7 +3061,154 @@
         "name": "2026-11-13-103-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:03,890\nYou could lose two thirds of your liver, and it would actually grow back.\n\n2\n00:00:04,330 --> 00:00:06,910\nIn a few weeks, it's almost back to full size.\n\n3\n00:00:07,370 --> 00:00:09,920\nNo other organ inside you can pull that off.\n\n4\n00:00:10,320 --> 00:00:13,980\nAnd while it's doing that, it's still running more than five hundred jobs.\n\n5\n00:00:14,440 --> 00:00:16,840\nSo what is this thing, and how does it do it all?\n\n6\n00:00:17,290 --> 00:00:19,570\nLet's paint it out, one job at a time.\n\n7\n00:00:19,930 --> 00:00:22,420\nChapter one. The biggest organ inside you.\n\n8\n00:00:22,860 --> 00:00:24,590\nTuck your hand under your right ribs.\n\n9\n00:00:25,010 --> 00:00:26,670\nThat's roughly where your liver sits.\n\n10\n00:00:27,010 --> 00:00:30,480\nIt's a soft, reddish-brown wedge about the size of a football,\n\n11\n00:00:30,900 --> 00:00:32,860\nand it weighs around one and a half kilos.\n\n12\n00:00:33,220 --> 00:00:35,340\nThat makes it your biggest internal organ.\n\n13\n00:00:35,710 --> 00:00:38,720\nAnd it's always full of blood, about a pint at any moment.\n\n14\n00:00:39,070 --> 00:00:41,170\nMost of that blood comes straight from your gut,\n\n15\n00:00:41,610 --> 00:00:43,860\nthrough one big pipe called the portal vein.\n\n16\n00:00:44,280 --> 00:00:47,600\nSo everything you eat and drink passes through your liver first,\n\n17\n00:00:47,990 --> 00:00:49,760\nbefore it reaches the rest of your body.\n\n18\n00:00:50,150 --> 00:00:51,730\nChapter two. The filter.\n\n19\n00:00:52,040 --> 00:00:54,400\nThink of your liver as a security checkpoint.\n\n20\n00:00:54,800 --> 00:00:58,860\nInside, it's built from millions of tiny cells called hepatocytes,\n\n21\n00:00:59,280 --> 00:01:01,620\nlined up in rows like the pages of a book.\n\n22\n00:01:02,070 --> 00:01:04,180\nBlood seeps slowly between those rows,\n\n23\n00:01:04,570 --> 00:01:06,800\nand the cells grab anything that shouldn't be there.\n\n24\n00:01:07,260 --> 00:01:11,770\nOld medicines, leftover chemicals, and alcohol all get broken down here.\n\n25\n00:01:12,150 --> 00:01:14,600\nYour muscles also make a waste called ammonia,\n\n26\n00:01:14,990 --> 00:01:16,680\nwhich is toxic if it builds up.\n\n27\n00:01:17,030 --> 00:01:18,570\nYour liver turns it into urea,\n\n28\n00:01:18,950 --> 00:01:21,460\na much safer waste that your kidneys flush out.\n\n29\n00:01:21,880 --> 00:01:23,760\nChapter three. The bile factory.\n\n30\n00:01:24,140 --> 00:01:27,130\nYour liver also makes bile, a greenish-yellow juice,\n\n31\n00:01:27,460 --> 00:01:29,270\nup to about a litre of it every day.\n\n32\n00:01:29,610 --> 00:01:31,370\nBile works a lot like dish soap.\n\n33\n00:01:31,820 --> 00:01:34,640\nIt breaks big blobs of fat into tiny droplets,\n\n34\n00:01:35,010 --> 00:01:37,110\nso your gut can actually digest them.\n\n35\n00:01:37,530 --> 00:01:41,080\nBetween meals, the bile waits in a little pouch called the gallbladder.\n\n36\n00:01:41,530 --> 00:01:42,790\nAnd here's a weird one.\n\n37\n00:01:43,170 --> 00:01:46,050\nBile carries leftovers from old red blood cells,\n\n38\n00:01:46,430 --> 00:01:48,150\nand that's what turns your poop brown.\n\n39\n00:01:48,540 --> 00:01:50,230\nChapter four. The pantry.\n\n40\n00:01:50,530 --> 00:01:53,490\nAfter a meal, your liver packs extra sugar away\n\n41\n00:01:53,640 --> 00:01:55,170\nas a starch called glycogen.\n\n42\n00:01:55,630 --> 00:01:57,790\nThen, between meals or while you sleep,\n\n43\n00:01:58,220 --> 00:02:00,400\nit turns that glycogen back into sugar,\n\n44\n00:02:00,760 --> 00:02:02,730\nso your brain never runs out of fuel.\n\n45\n00:02:03,110 --> 00:02:06,370\nIt also keeps a stash of vitamin A, vitamin D,\n\n46\n00:02:06,670 --> 00:02:09,140\nvitamin B twelve, and iron, for later.\n\n47\n00:02:09,590 --> 00:02:11,610\nAnd it builds proteins your blood needs,\n\n48\n00:02:11,960 --> 00:02:14,270\nincluding the ones that make a cut stop bleeding.\n\n49\n00:02:14,640 --> 00:02:16,620\nChapter five. The comeback organ.\n\n50\n00:02:17,070 --> 00:02:18,620\nNow back to that superpower.\n\n51\n00:02:18,960 --> 00:02:21,880\nDoctors can remove up to two thirds of a healthy liver,\n\n52\n00:02:22,290 --> 00:02:24,350\nand the rest starts growing right away.\n\n53\n00:02:24,720 --> 00:02:26,840\nThe cells that are left simply divide,\n\n54\n00:02:27,250 --> 00:02:30,070\nand the liver can get back most of its size in a few weeks.\n\n55\n00:02:30,460 --> 00:02:32,400\nThat's why living donors are possible.\n\n56\n00:02:32,750 --> 00:02:36,150\nA healthy adult gives part of their liver to someone who needs it,\n\n57\n00:02:36,670 --> 00:02:39,250\nand both pieces grow into full-size livers.\n\n58\n00:02:39,600 --> 00:02:43,550\nAnd scientists are still working out exactly how it knows when to stop.\n\n59\n00:02:43,920 --> 00:02:46,000\nSo the next time you eat a meal,\n\n60\n00:02:46,060 --> 00:02:47,720\nremember the quiet organ under your ribs,\n\n61\n00:02:48,120 --> 00:02:50,730\nfiltering, storing, building, and regrowing,\n\n62\n00:02:51,150 --> 00:02:53,510\nmore than five hundred jobs, all at once.\n\n63\n00:02:53,860 --> 00:02:56,950\nNext time, what really happens if you swallow chewing gum?\n\n64\n00:02:57,400 --> 00:02:59,880\nDoes it actually stay inside you for seven years?\n\n",
-      "tg_msg": 1110
+      "tg_msg": 1110,
+      "approved_by": "auto",
+      "description_full": "Your liver is your biggest internal organ and does more than 500 jobs: it filters your blood, turns toxic ammonia into urea, makes bile to digest fat, stores glycogen, vitamins and iron, and builds clotting proteins. We paint how the liver works, why poop is brown, and how a liver can grow back after up to two thirds is removed, which is what makes living liver donors possible.\n\nSources:\nhttps://www.hopkinsmedicine.org/health/conditions-and-diseases/liver-anatomy-and-functions\nhttps://my.clevelandclinic.org/health/body/21481-liver\nhttps://my.clevelandclinic.org/health/treatments/22930-hepatectomy-liver-resection\n\nAnimated in the Watercolor Brush style.\n\nFollow Zorbly AI for a new Short every day.\n\n#liver #humanbody #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Watercolor Brush style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/H9RtCYd2QpU",
+          "private \u00b7 thumbnail \u2705"
+        ]
+      },
+      "uploaded_at": "2026-11-13T20:54:56.760864+00:00",
+      "slot": "2026-11-21T00:15:00+00:00"
+    },
+    "2026-11-13-104": {
+      "topic": {
+        "title": "Why does ice cream give you brain freeze?",
+        "format": "animated",
+        "angle": "Kawaii Anime"
+      },
+      "package": {
+        "title": "Why Ice Cream Gives You a 30-Second Headache \ud83c\udf66",
+        "description": "Why does ice cream give you brain freeze? Cold on the roof of your mouth makes a big artery behind your eyes open wide, the rush of blood raises pressure, and your trigeminal nerve sends the pain to your forehead, which is why brain freeze fades in under 30 seconds.\n\nSources:\nhttps://sciencedaily.com/releases/2012/04/120422231742.htm\nhttps://www.healthline.com/health/sphenopalatine-ganglioneuralgia-brain-freeze\nhttps://sciencenotes.org/brain-freeze-ice-cream-headache-causes-symptoms-and-prevention/\n\nAnimated in the Kawaii Anime style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#brainfreeze",
+          "#science",
+          "#icecream"
+        ],
+        "tags": [
+          "brain freeze",
+          "why does ice cream give you brain freeze",
+          "ice cream headache",
+          "sphenopalatine ganglioneuralgia",
+          "referred pain",
+          "trigeminal nerve",
+          "how to stop brain freeze",
+          "body science",
+          "science explained",
+          "cold headache",
+          "slushie brain freeze",
+          "kawaii animation",
+          "zorbly ai"
+        ],
+        "category": "27",
+        "pinned_comment": "Be honest: what gives you worse brain freeze, ice cream or a slushie? \ud83c\udf66\ud83e\udd64",
+        "thumbnail_text": "NOT FROZEN",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "Ice cream gives you a 30-second headache,\nbut your brain never freezes.\nSo what's going on?\nIt starts on the roof of your mouth.\nIt's packed with nerves and blood vessels,\nand ice cream chills it super fast.\nScientists think a big artery behind your eyes\nsuddenly opens wide,\nto rush in warm blood.\nThat flood of blood\npushes up the pressure inside your head.\nYour trigeminal nerve feels it,\nbut it gets mixed up,\nand sends the pain to your forehead instead.\nThat's called referred pain.\nOnce things warm up,\nthe artery narrows again,\nand the ache fades, usually in under 30 seconds.\nWant it gone faster?\nPress your warm tongue\nto the roof of your mouth.\nHonestly, your head's just overreacting to dessert.\nSo which hits you harder:\nice cream or a slushie?",
+        "key_facts": [
+          "Cold on the palate triggers a sudden dilation of the anterior cerebral artery and a rush of blood flow; pain eases as it constricts (Serrador et al. 2012, via ScienceDaily)",
+          "Increased blood flow is thought to raise pressure inside the skull (ScienceDaily 2012)",
+          "The trigeminal nerve relays the signal and the pain is felt in the forehead: referred pain (Healthline)",
+          "Brain freeze usually lasts under about 30 seconds (Science Notes, Healthline)",
+          "Pressing the tongue or thumb to the roof of the mouth warms it and helps it pass (Healthline)"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Kawaii Anime"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261113-brain-freeze",
+      "redos": 0,
+      "updated": "2026-11-13T20:54:32.580546+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-13",
+        "name": "2026-11-13-104.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-13",
+        "name": "2026-11-13-104-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:02,470\nIce cream gives you a 30-second headache,\n\n2\n00:00:03,020 --> 00:00:04,860\nbut your brain never freezes.\n\n3\n00:00:05,320 --> 00:00:06,520\nSo what's going on?\n\n4\n00:00:07,040 --> 00:00:08,860\nIt starts on the roof of your mouth.\n\n5\n00:00:09,290 --> 00:00:11,490\nIt's packed with nerves and blood vessels,\n\n6\n00:00:11,890 --> 00:00:14,190\nand ice cream chills it super fast.\n\n7\n00:00:14,560 --> 00:00:17,630\nScientists think a big artery behind your eyes\n\n8\n00:00:17,720 --> 00:00:18,400\nsuddenly opens wide,\n\n9\n00:00:19,020 --> 00:00:20,560\nto rush in warm blood.\n\n10\n00:00:20,980 --> 00:00:22,000\nThat flood of blood\n\n11\n00:00:22,060 --> 00:00:24,260\npushes up the pressure inside your head.\n\n12\n00:00:24,610 --> 00:00:26,720\nYour trigeminal nerve feels it,\n\n13\n00:00:26,900 --> 00:00:27,810\nbut it gets mixed up,\n\n14\n00:00:28,250 --> 00:00:30,710\nand sends the pain to your forehead instead.\n\n15\n00:00:31,070 --> 00:00:32,670\nThat's called referred pain.\n\n16\n00:00:32,950 --> 00:00:33,940\nOnce things warm up,\n\n17\n00:00:34,080 --> 00:00:36,030\nthe artery narrows again,\n\n18\n00:00:36,100 --> 00:00:39,000\nand the ache fades, usually in under 30 seconds.\n\n19\n00:00:39,470 --> 00:00:40,670\nWant it gone faster?\n\n20\n00:00:41,170 --> 00:00:42,050\nPress your warm tongue\n\n21\n00:00:42,130 --> 00:00:43,640\nto the roof of your mouth.\n\n22\n00:00:44,020 --> 00:00:47,050\nHonestly, your head's just overreacting to dessert.\n\n23\n00:00:47,470 --> 00:00:49,240\nSo which hits you harder:\n\n24\n00:00:49,300 --> 00:00:50,530\nice cream or a slushie?\n\n",
+      "tg_msg": 1111
+    },
+    "2026-11-13-105": {
+      "topic": {
+        "title": "Why do you sneeze with your eyes shut?",
+        "format": "animated",
+        "angle": "Napkin Sketch"
+      },
+      "package": {
+        "title": "A Sneeze Flies 8 Meters, So Why Do Your Eyes Shut? \ud83e\udd27",
+        "description": "Why do your eyes close when you sneeze, and would your eyeballs really pop out if they stayed open? The sneeze reflex runs from your brainstem and fires a whole chain of muscles at once, eyelids included, while the sneeze cloud itself can drift about 8 meters (26 feet).\n\nSources:\nhttps://www.nbcnews.com/healthmain/eye-popping-truth-about-why-we-close-our-eyes-when-1c9321739\nhttps://www.iflscience.com/health-and-medicine/sneezes-can-travel-up-to-8-meters-suggesting-some-social-distancing-measures-are-inadqueate/\nhttps://wonderopolis.org/wonder/can-you-sneeze-with-your-eyes-open\n\nAnimated in the Napkin Sketch style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#sneeze",
+          "#science",
+          "#humanbody"
+        ],
+        "tags": [
+          "why do you sneeze with your eyes closed",
+          "can you sneeze with your eyes open",
+          "sneeze reflex",
+          "sneezing facts",
+          "eyes pop out sneeze myth",
+          "brainstem sneeze",
+          "how far does a sneeze travel",
+          "human body facts",
+          "science explained",
+          "body curiosities",
+          "animated explainer",
+          "zorbly ai"
+        ],
+        "category": "27",
+        "pinned_comment": "Be honest: have you ever managed to keep your eyes open during a sneeze? \ud83d\udc40",
+        "thumbnail_text": "MYTH?",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "Your eyes slam shut every time you sneeze, and you almost can't stop it. Why? People say your eyeballs would pop out if they stayed open. That's a myth. The pressure builds in your chest, not behind your eyes. So what's going on? A tickle inside your nose sends a nerve signal to your brainstem, your sneeze control center. It doesn't ask permission. It fires a chain of muscles all at once. Deep breath in, chest squeezes, throat snaps open, and your eyelids get dragged along for the ride. Then the blast. A sneeze cloud can drift about eight meters. That's twenty-six feet! Some scientists think shut eyes help keep the spray out. A few people can sneeze with their eyes open, and their eyes stay right where they are. So next time you sneeze, will yours stay shut?",
+        "key_facts": [
+          "The sneeze reflex is coordinated by the brainstem and fires many muscles at once; eyelid closure is part of that reflex",
+          "Eyeballs popping out if you sneeze with eyes open is a myth; the pressure builds in the chest and airways, not behind the eyes",
+          "A sneeze's turbulent cloud can travel about 7-8 meters (26 feet) (Bourouiba, MIT, JAMA 2020)",
+          "Some people can sneeze with their eyes open without harm",
+          "Some think closed eyes may help keep irritants or spray out (hedged)"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Napkin Sketch"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261113-sneeze-eyes",
+      "redos": 0,
+      "updated": "2026-11-13T20:54:42.725921+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Napkin Sketch style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-13",
+        "name": "2026-11-13-105.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-13",
+        "name": "2026-11-13-105-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:02,730\nYour eyes slam shut every time you sneeze,\n\n2\n00:00:02,950 --> 00:00:05,130\nand you almost can't stop it. Why?\n\n3\n00:00:05,660 --> 00:00:07,200\nPeople say your eyeballs would pop out\n\n4\n00:00:07,260 --> 00:00:08,850\nif they stayed open.\n\n5\n00:00:09,320 --> 00:00:10,220\nThat's a myth.\n\n6\n00:00:10,480 --> 00:00:12,700\nThe pressure builds in your chest,\n\n7\n00:00:12,770 --> 00:00:13,910\nnot behind your eyes.\n\n8\n00:00:14,270 --> 00:00:15,470\nSo what's going on?\n\n9\n00:00:15,930 --> 00:00:17,530\nA tickle inside your nose\n\n10\n00:00:17,530 --> 00:00:19,580\nsends a nerve signal to your brainstem,\n\n11\n00:00:20,140 --> 00:00:21,730\nyour sneeze control center.\n\n12\n00:00:22,140 --> 00:00:23,480\nIt doesn't ask permission.\n\n13\n00:00:23,770 --> 00:00:26,250\nIt fires a chain of muscles all at once.\n\n14\n00:00:26,630 --> 00:00:27,530\nDeep breath in,\n\n15\n00:00:27,660 --> 00:00:28,530\nchest squeezes,\n\n16\n00:00:28,930 --> 00:00:29,880\nthroat snaps open,\n\n17\n00:00:29,940 --> 00:00:32,890\nand your eyelids get dragged along for the ride.\n\n18\n00:00:33,340 --> 00:00:34,400\nThen the blast.\n\n19\n00:00:34,780 --> 00:00:37,400\nA sneeze cloud can drift about eight meters.\n\n20\n00:00:37,760 --> 00:00:39,100\nThat's twenty-six feet!\n\n21\n00:00:39,390 --> 00:00:41,390\nSome scientists think shut eyes\n\n22\n00:00:41,490 --> 00:00:42,400\nhelp keep the spray out.\n\n23\n00:00:42,850 --> 00:00:45,410\nA few people can sneeze with their eyes open,\n\n24\n00:00:45,880 --> 00:00:48,000\nand their eyes stay right where they are.\n\n25\n00:00:48,400 --> 00:00:49,690\nSo next time you sneeze,\n\n26\n00:00:49,990 --> 00:00:51,120\nwill yours stay shut?\n\n",
+      "tg_msg": 1112
     }
   },
   "history": [
@@ -3398,7 +3397,9 @@
     "drop/20261112-stretching-ears": "2026-11-12-105",
     "drop/20261113-cheetah-sprint": "2026-11-13-101",
     "drop/20261113-baby-kneecaps": "2026-11-13-102",
-    "drop/20261113-liver-jobs": "2026-11-13-103"
+    "drop/20261113-liver-jobs": "2026-11-13-103",
+    "drop/20261113-brain-freeze": "2026-11-13-104",
+    "drop/20261113-sneeze-eyes": "2026-11-13-105"
   },
   "refs_day": "2026-11-13"
 }
