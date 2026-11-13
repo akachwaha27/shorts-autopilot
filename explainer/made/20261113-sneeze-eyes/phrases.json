@@ -1,0 +1,740 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.73,
+  "text": "Your eyes slam shut every time you sneeze,",
+  "words": [
+   [
+    "your",
+    0.25
+   ],
+   [
+    "eyes",
+    0.54
+   ],
+   [
+    "slam",
+    0.83
+   ],
+   [
+    "shut",
+    1.13
+   ],
+   [
+    "every",
+    1.42
+   ],
+   [
+    "time",
+    1.78
+   ],
+   [
+    "you",
+    2.07
+   ],
+   [
+    "sneeze",
+    2.29
+   ]
+  ]
+ },
+ {
+  "s": 2.95,
+  "e": 5.13,
+  "text": "and you almost can't stop it. Why?",
+  "words": [
+   [
+    "and",
+    2.95
+   ],
+   [
+    "you",
+    3.21
+   ],
+   [
+    "almost",
+    3.47
+   ],
+   [
+    "cant",
+    3.99
+   ],
+   [
+    "stop",
+    4.34
+   ],
+   [
+    "it",
+    4.69
+   ],
+   [
+    "why",
+    4.86
+   ]
+  ]
+ },
+ {
+  "s": 5.66,
+  "e": 7.2,
+  "text": "People say your eyeballs would pop out",
+  "words": [
+   [
+    "people",
+    5.66
+   ],
+   [
+    "say",
+    5.95
+   ],
+   [
+    "your",
+    6.1
+   ],
+   [
+    "eyeballs",
+    6.29
+   ],
+   [
+    "would",
+    6.67
+   ],
+   [
+    "pop",
+    6.91
+   ],
+   [
+    "out",
+    7.06
+   ]
+  ]
+ },
+ {
+  "s": 7.26,
+  "e": 8.85,
+  "text": "if they stayed open.",
+  "words": [
+   [
+    "if",
+    7.26
+   ],
+   [
+    "they",
+    7.46
+   ],
+   [
+    "stayed",
+    7.86
+   ],
+   [
+    "open",
+    8.45
+   ]
+  ]
+ },
+ {
+  "s": 9.32,
+  "e": 10.22,
+  "text": "That's a myth.",
+  "words": [
+   [
+    "thats",
+    9.32
+   ],
+   [
+    "a",
+    9.77
+   ],
+   [
+    "myth",
+    9.86
+   ]
+  ]
+ },
+ {
+  "s": 10.48,
+  "e": 12.7,
+  "text": "The pressure builds in your chest,",
+  "words": [
+   [
+    "the",
+    10.48
+   ],
+   [
+    "pressure",
+    10.71
+   ],
+   [
+    "builds",
+    11.35
+   ],
+   [
+    "in",
+    11.82
+   ],
+   [
+    "your",
+    11.98
+   ],
+   [
+    "chest",
+    12.3
+   ]
+  ]
+ },
+ {
+  "s": 12.77,
+  "e": 13.91,
+  "text": "not behind your eyes.",
+  "words": [
+   [
+    "not",
+    12.77
+   ],
+   [
+    "behind",
+    12.97
+   ],
+   [
+    "your",
+    13.37
+   ],
+   [
+    "eyes",
+    13.64
+   ]
+  ]
+ },
+ {
+  "s": 14.27,
+  "e": 15.47,
+  "text": "So what's going on?",
+  "words": [
+   [
+    "so",
+    14.27
+   ],
+   [
+    "whats",
+    14.44
+   ],
+   [
+    "going",
+    14.87
+   ],
+   [
+    "on",
+    15.3
+   ]
+  ]
+ },
+ {
+  "s": 15.93,
+  "e": 17.53,
+  "text": "A tickle inside your nose",
+  "words": [
+   [
+    "a",
+    15.93
+   ],
+   [
+    "tickle",
+    16.0
+   ],
+   [
+    "inside",
+    16.46
+   ],
+   [
+    "your",
+    16.92
+   ],
+   [
+    "nose",
+    17.23
+   ]
+  ]
+ },
+ {
+  "s": 17.53,
+  "e": 19.58,
+  "text": "sends a nerve signal to your brainstem,",
+  "words": [
+   [
+    "sends",
+    17.53
+   ],
+   [
+    "a",
+    17.85
+   ],
+   [
+    "nerve",
+    17.91
+   ],
+   [
+    "signal",
+    18.23
+   ],
+   [
+    "to",
+    18.62
+   ],
+   [
+    "your",
+    18.75
+   ],
+   [
+    "brainstem",
+    19.0
+   ]
+  ]
+ },
+ {
+  "s": 20.14,
+  "e": 21.73,
+  "text": "your sneeze control center.",
+  "words": [
+   [
+    "your",
+    20.14
+   ],
+   [
+    "sneeze",
+    20.41
+   ],
+   [
+    "control",
+    20.83
+   ],
+   [
+    "center",
+    21.31
+   ]
+  ]
+ },
+ {
+  "s": 22.14,
+  "e": 23.48,
+  "text": "It doesn't ask permission.",
+  "words": [
+   [
+    "it",
+    22.14
+   ],
+   [
+    "doesnt",
+    22.26
+   ],
+   [
+    "ask",
+    22.65
+   ],
+   [
+    "permission",
+    22.84
+   ]
+  ]
+ },
+ {
+  "s": 23.77,
+  "e": 26.25,
+  "text": "It fires a chain of muscles all at once.",
+  "words": [
+   [
+    "it",
+    23.77
+   ],
+   [
+    "fires",
+    23.93
+   ],
+   [
+    "a",
+    24.33
+   ],
+   [
+    "chain",
+    24.41
+   ],
+   [
+    "of",
+    24.81
+   ],
+   [
+    "muscles",
+    24.97
+   ],
+   [
+    "all",
+    25.53
+   ],
+   [
+    "at",
+    25.77
+   ],
+   [
+    "once",
+    25.93
+   ]
+  ]
+ },
+ {
+  "s": 26.63,
+  "e": 27.53,
+  "text": "Deep breath in,",
+  "words": [
+   [
+    "deep",
+    26.63
+   ],
+   [
+    "breath",
+    26.93
+   ],
+   [
+    "in",
+    27.38
+   ]
+  ]
+ },
+ {
+  "s": 27.66,
+  "e": 28.53,
+  "text": "chest squeezes,",
+  "words": [
+   [
+    "chest",
+    27.66
+   ],
+   [
+    "squeezes",
+    27.99
+   ]
+  ]
+ },
+ {
+  "s": 28.93,
+  "e": 29.88,
+  "text": "throat snaps open,",
+  "words": [
+   [
+    "throat",
+    28.93
+   ],
+   [
+    "snaps",
+    29.31
+   ],
+   [
+    "open",
+    29.62
+   ]
+  ]
+ },
+ {
+  "s": 29.94,
+  "e": 32.89,
+  "text": "and your eyelids get dragged along for the ride.",
+  "words": [
+   [
+    "and",
+    29.94
+   ],
+   [
+    "your",
+    30.17
+   ],
+   [
+    "eyelids",
+    30.47
+   ],
+   [
+    "get",
+    31.0
+   ],
+   [
+    "dragged",
+    31.23
+   ],
+   [
+    "along",
+    31.76
+   ],
+   [
+    "for",
+    32.14
+   ],
+   [
+    "the",
+    32.36
+   ],
+   [
+    "ride",
+    32.59
+   ]
+  ]
+ },
+ {
+  "s": 33.34,
+  "e": 34.4,
+  "text": "Then the blast.",
+  "words": [
+   [
+    "then",
+    33.34
+   ],
+   [
+    "the",
+    33.69
+   ],
+   [
+    "blast",
+    33.96
+   ]
+  ]
+ },
+ {
+  "s": 34.78,
+  "e": 37.4,
+  "text": "A sneeze cloud can drift about eight meters.",
+  "words": [
+   [
+    "a",
+    34.78
+   ],
+   [
+    "sneeze",
+    34.85
+   ],
+   [
+    "cloud",
+    35.29
+   ],
+   [
+    "can",
+    35.65
+   ],
+   [
+    "drift",
+    35.87
+   ],
+   [
+    "about",
+    36.24
+   ],
+   [
+    "eight",
+    36.6
+   ],
+   [
+    "meters",
+    36.97
+   ]
+  ]
+ },
+ {
+  "s": 37.76,
+  "e": 39.1,
+  "text": "That's twenty-six feet!",
+  "words": [
+   [
+    "thats",
+    37.76
+   ],
+   [
+    "twentysix",
+    38.13
+   ],
+   [
+    "feet",
+    38.8
+   ]
+  ]
+ },
+ {
+  "s": 39.39,
+  "e": 41.39,
+  "text": "Some scientists think shut eyes",
+  "words": [
+   [
+    "some",
+    39.39
+   ],
+   [
+    "scientists",
+    39.68
+   ],
+   [
+    "think",
+    40.42
+   ],
+   [
+    "shut",
+    40.79
+   ],
+   [
+    "eyes",
+    41.09
+   ]
+  ]
+ },
+ {
+  "s": 41.49,
+  "e": 42.4,
+  "text": "help keep the spray out.",
+  "words": [
+   [
+    "help",
+    41.49
+   ],
+   [
+    "keep",
+    41.68
+   ],
+   [
+    "the",
+    41.87
+   ],
+   [
+    "spray",
+    42.01
+   ],
+   [
+    "out",
+    42.25
+   ]
+  ]
+ },
+ {
+  "s": 42.85,
+  "e": 45.41,
+  "text": "A few people can sneeze with their eyes open,",
+  "words": [
+   [
+    "a",
+    42.85
+   ],
+   [
+    "few",
+    42.92
+   ],
+   [
+    "people",
+    43.13
+   ],
+   [
+    "can",
+    43.56
+   ],
+   [
+    "sneeze",
+    43.77
+   ],
+   [
+    "with",
+    44.2
+   ],
+   [
+    "their",
+    44.48
+   ],
+   [
+    "eyes",
+    44.84
+   ],
+   [
+    "open",
+    45.12
+   ]
+  ]
+ },
+ {
+  "s": 45.88,
+  "e": 48.0,
+  "text": "and their eyes stay right where they are.",
+  "words": [
+   [
+    "and",
+    45.88
+   ],
+   [
+    "their",
+    46.07
+   ],
+   [
+    "eyes",
+    46.39
+   ],
+   [
+    "stay",
+    46.65
+   ],
+   [
+    "right",
+    46.91
+   ],
+   [
+    "where",
+    47.23
+   ],
+   [
+    "they",
+    47.55
+   ],
+   [
+    "are",
+    47.81
+   ]
+  ]
+ },
+ {
+  "s": 48.4,
+  "e": 49.69,
+  "text": "So next time you sneeze,",
+  "words": [
+   [
+    "so",
+    48.4
+   ],
+   [
+    "next",
+    48.53
+   ],
+   [
+    "time",
+    48.8
+   ],
+   [
+    "you",
+    49.08
+   ],
+   [
+    "sneeze",
+    49.28
+   ]
+  ]
+ },
+ {
+  "s": 49.99,
+  "e": 51.12,
+  "text": "will yours stay shut?",
+  "words": [
+   [
+    "will",
+    49.99
+   ],
+   [
+    "yours",
+    50.25
+   ],
+   [
+    "stay",
+    50.58
+   ],
+   [
+    "shut",
+    50.85
+   ]
+  ]
+ }
+]
