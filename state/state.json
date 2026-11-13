@@ -378,96 +378,6 @@
     }
   },
   "videos": {
-    "2026-11-06-105": {
-      "topic": {
-        "title": "Why do your nails keep growing when your arms stopped?",
-        "format": "animated",
-        "angle": "Chalkboard Lesson"
-      },
-      "package": {
-        "title": "Why Do Nails Grow 3mm a Month Forever?",
-        "description": "Why do your fingernails keep growing your whole life when your bones stopped growing in your teens? Growth plates in long bones turn to solid bone after puberty, but the nail matrix under your cuticle keeps making new cells, about 3 mm of fingernail a month.\n\nSources:\nhttps://en.wikipedia.org/wiki/Nail_(anatomy)\nhttps://en.wikipedia.org/wiki/Epiphyseal_plate\nhttps://pubmed.ncbi.nlm.nih.gov/21540578\n\nAnimated in the Chalkboard Lesson style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#science",
-          "#humanbody",
-          "#howitworks"
-        ],
-        "tags": [
-          "why do nails keep growing",
-          "how fast do nails grow",
-          "nail matrix",
-          "growth plates",
-          "why do bones stop growing",
-          "fingernails vs toenails",
-          "human body facts",
-          "how the body works",
-          "science explained",
-          "chalkboard explainer",
-          "zorbly ai",
-          "body curiosities"
-        ],
-        "category": "27",
-        "pinned_comment": "Which grows faster: your fingernails or your toenails?",
-        "thumbnail_text": "ARMS STOPPED",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "Your nails never stop growing, but your arms stopped years ago. So why does one keep going? It starts with your bones. Near each end of a long bone sits a soft strip called a growth plate. It keeps adding new bone, so your arms get longer. But by your late teens, that strip turns to solid bone. The plate closes, and your arms stop for good. Nails work differently. Under your cuticle hides the nail matrix, a tiny factory that never shuts down. It keeps making new cells, pushing the older ones forward. Those cells harden and die, which is why clipping doesn't hurt. Fingernails grow about three millimeters a month, so a whole new nail takes around six months. So which grows faster: your fingernails, or your toenails?",
-        "key_facts": [
-          "Long bones lengthen at growth plates (epiphyseal plates) near each end",
-          "Growth plates ossify and close after puberty, around the late teens",
-          "The nail matrix under the cuticle produces new cells throughout life, pushing older ones forward",
-          "Nail plate cells harden (keratinize) and are dead, so clipping is painless",
-          "Fingernails grow about 3 mm a month; a whole fingernail regrows in about 6 months; toenails grow slower"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Chalkboard Lesson"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261106-nails-keep-growing",
-      "redos": 0,
-      "updated": "2026-11-06T23:57:48.576971+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Chalkboard Lesson style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-06",
-        "name": "2026-11-06-105.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-06",
-        "name": "2026-11-06-105-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:02,110\nYour nails never stop growing,\n\n2\n00:00:02,410 --> 00:00:04,280\nbut your arms stopped years ago.\n\n3\n00:00:04,830 --> 00:00:06,570\nSo why does one keep going?\n\n4\n00:00:07,120 --> 00:00:08,570\nIt starts with your bones.\n\n5\n00:00:09,120 --> 00:00:10,820\nNear each end of a long bone\n\n6\n00:00:11,120 --> 00:00:13,170\nsits a soft strip called a growth plate.\n\n7\n00:00:13,720 --> 00:00:15,180\nIt keeps adding new bone,\n\n8\n00:00:15,480 --> 00:00:17,010\nso your arms get longer.\n\n9\n00:00:17,560 --> 00:00:18,980\nBut by your late teens,\n\n10\n00:00:19,280 --> 00:00:21,210\nthat strip turns to solid bone.\n\n11\n00:00:21,760 --> 00:00:22,880\nThe plate closes,\n\n12\n00:00:23,180 --> 00:00:24,780\nand your arms stop for good.\n\n13\n00:00:25,330 --> 00:00:26,710\nNails work differently.\n\n14\n00:00:27,260 --> 00:00:29,800\nUnder your cuticle hides the nail matrix,\n\n15\n00:00:30,100 --> 00:00:32,410\na tiny factory that never shuts down.\n\n16\n00:00:32,960 --> 00:00:34,560\nIt keeps making new cells,\n\n17\n00:00:34,860 --> 00:00:36,600\npushing the older ones forward.\n\n18\n00:00:37,150 --> 00:00:38,780\nThose cells harden and die,\n\n19\n00:00:39,080 --> 00:00:40,870\nwhich is why clipping doesn't hurt.\n\n20\n00:00:41,420 --> 00:00:44,290\nFingernails grow about three millimeters a month,\n\n21\n00:00:44,590 --> 00:00:47,030\nso a whole new nail takes around six months.\n\n22\n00:00:47,580 --> 00:00:49,020\nSo which grows faster:\n\n23\n00:00:49,320 --> 00:00:51,290\nyour fingernails, or your toenails?\n\n",
-      "tg_msg": 1044,
-      "approved_by": "auto",
-      "description_full": "Why do your fingernails keep growing your whole life when your bones stopped growing in your teens? Growth plates in long bones turn to solid bone after puberty, but the nail matrix under your cuticle keeps making new cells, about 3 mm of fingernail a month.\n\nSources:\nhttps://en.wikipedia.org/wiki/Nail_(anatomy)\nhttps://en.wikipedia.org/wiki/Epiphyseal_plate\nhttps://pubmed.ncbi.nlm.nih.gov/21540578\n\nAnimated in the Chalkboard Lesson style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #science #humanbody #howitworks\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Chalkboard Lesson style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/6RUy-ZKBbCc",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-11-06T23:57:48.576992+00:00",
-      "slot": "2026-11-12T20:15:00+00:00"
-    },
     "2026-11-07-101": {
       "topic": {
         "title": "Why don't koalas eat anything but eucalyptus?",
@@ -3115,12 +3025,12 @@
         "format": "animated",
         "style": "Halftone Dossier"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261112-stretching-ears",
       "redos": 0,
-      "updated": "2026-11-12T21:29:01.340310+00:00",
+      "updated": "2026-11-13T00:41:13.903277+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Halftone Dossier style). Voice: Kokoro text-to-speech."
       ],
@@ -3135,7 +3045,101 @@
         "name": "2026-11-12-105-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:02,190\nYour ears never stop getting longer,\n\n2\n00:00:02,530 --> 00:00:03,640\nbut they aren't growing.\n\n3\n00:00:04,110 --> 00:00:06,310\nYour nose droops lower every year too.\n\n4\n00:00:06,730 --> 00:00:08,030\nSo what's stretching them?\n\n5\n00:00:08,520 --> 00:00:10,900\nYour bones stopped getting longer years ago.\n\n6\n00:00:11,260 --> 00:00:13,660\nThe floppy parts of your ears and nose\n\n7\n00:00:13,730 --> 00:00:14,940\nare cartilage and skin,\n\n8\n00:00:15,570 --> 00:00:19,040\nheld up by springy fibers called collagen and elastin.\n\n9\n00:00:19,500 --> 00:00:20,400\nAs you get older,\n\n10\n00:00:20,740 --> 00:00:22,920\nyour body makes fewer of those fibers.\n\n11\n00:00:23,370 --> 00:00:24,520\nThe springs get weaker,\n\n12\n00:00:24,760 --> 00:00:25,840\nand gravity wins.\n\n13\n00:00:26,320 --> 00:00:27,490\nEvery single year\n\n14\n00:00:27,570 --> 00:00:29,450\nit pulls them down a tiny bit more.\n\n15\n00:00:29,890 --> 00:00:31,320\nEarlobes stretch the most,\n\n16\n00:00:31,750 --> 00:00:34,410\nbecause there's no cartilage inside them at all.\n\n17\n00:00:34,850 --> 00:00:36,080\nJust skin and fat.\n\n18\n00:00:36,440 --> 00:00:39,420\nOne study of two hundred and six adults found\n\n19\n00:00:39,510 --> 00:00:43,080\nears get about zero point two two millimeters longer every year\n\n20\n00:00:43,370 --> 00:00:45,060\nafter age thirty.\n\n21\n00:00:45,470 --> 00:00:47,780\nThat's roughly a whole centimeter by eighty.\n\n22\n00:00:48,200 --> 00:00:49,540\nSo nothing's growing.\n\n23\n00:00:49,880 --> 00:00:51,860\nYour face is just slowly sagging.\n\n24\n00:00:52,250 --> 00:00:54,860\nSo how much longer will your ears be at a hundred?\n\n",
-      "tg_msg": 1103
+      "tg_msg": 1103,
+      "approved_by": "auto",
+      "description_full": "Why do your ears and nose keep getting longer as you age? Adult ears and noses aren't really growing: collagen and elastin fibers weaken with age and gravity slowly stretches the cartilage and skin, with earlobes sagging the most.\n\nSources:\nhttps://www.bmj.com/content/311/7021/1668\nhttps://www.livescience.com/health/ageing/do-ears-and-noses-get-bigger-with-age\nhttps://jadams5.github.io/aging_wiki/phenotypes/ear-nose-enlargement\n\nAnimated in the Halftone Dossier style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #bodyfacts #science #aging\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Halftone Dossier style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/6_ezf_TOh54",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-13T00:41:13.903294+00:00",
+      "slot": "2026-11-20T02:15:00+00:00"
+    },
+    "2026-11-13-101": {
+      "topic": {
+        "title": "The Cheetah Paradox: why can the fastest land animal only sprint for about 20 seconds?",
+        "format": "animated",
+        "angle": "Low-Poly Faceted"
+      },
+      "package": {
+        "title": "Why Cheetahs Quit After 20 Seconds \ud83d\udc06",
+        "description": "Why does a cheetah, the fastest land animal at about 100 km/h, give up a chase after roughly 20 seconds? It isn't overheating: a 2013 study that put sensors on six hunting cheetahs found their body temperature barely changed during the sprint, so the real limit is how fast that springy, all-out gallop burns energy.\n\nSources:\nhttps://www.nationalgeographic.com/science/article/its-a-myth-that-cheetahs-overheat-while-hunting\nhttps://nationalzoo.si.edu/animals/cheetah\nhttps://doi.org/10.1098/rsbl.2013.0472\n\nAnimated in the Low-Poly Faceted style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#cheetah",
+          "#animalfacts",
+          "#science"
+        ],
+        "tags": [
+          "why do cheetahs stop running",
+          "cheetah speed",
+          "how fast is a cheetah",
+          "cheetah sprint",
+          "cheetah overheating myth",
+          "cheetah 20 seconds",
+          "fastest land animal",
+          "cheetah stride",
+          "cheetah hunting",
+          "cheetah facts",
+          "big cats",
+          "animal facts",
+          "weird animal facts",
+          "science explained"
+        ],
+        "category": "27",
+        "pinned_comment": "Would you rather be cheetah-fast for 20 seconds, or slower all day? \ud83d\udc06",
+        "thumbnail_text": "NOT THE HEAT",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "A cheetah quits after twenty seconds, and you'd never guess why. It hits about a hundred kilometers an hour, zero to seventy-two in two and a half seconds. Each stride covers seven meters, four strides every second. Its spine bends like a spring, its lungs and heart are huge, and its tail steers like a rudder. People thought it stopped because it overheated. But in 2013, scientists put sensors on six cheetahs. During the chase, body heat barely changed. It only jumped after a catch, probably from stress, with lions nearby. So what stops them? That springy sprint burns energy crazy fast, so a full sprint lasts about twenty seconds, just a few hundred meters. Miss by then, and the cheetah's done. Only about half its chases end in a meal. Would you rather be that fast for twenty seconds, or slower all day?",
+        "key_facts": [
+          "Top speed about 100 km/h (National Geographic); Smithsonian gives 96-112 km/h",
+          "0 to 72 km/h in about 2.5 s; stride about 7 m at about 4 strides per second (Smithsonian National Zoo)",
+          "Flexible spine works as a spring; large nostrils, lungs and heart; tail acts as a rudder (Smithsonian)",
+          "Full sprints last about 20 s, a few hundred meters (Smithsonian ~274 m; NatGeo 'a few hundred metres')",
+          "Hetem et al. 2013 (Biology Letters): sensors on six cheetahs; temperature barely changed during hunts; rose 1.3 C in 40 min after a kill vs 0.5 C after a miss, likely stress; overheating idea called a myth",
+          "About half of chases succeed (Smithsonian; NatGeo says ~40%)",
+          "Premise fixed: sheet row said heat buildup; sources show overheating is a myth, so the video says so"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Low-Poly Faceted"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261113-cheetah-sprint",
+      "redos": 0,
+      "updated": "2026-11-13T00:53:18.728367+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Low-Poly Faceted style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-13",
+        "name": "2026-11-13-101.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-13",
+        "name": "2026-11-13-101-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:02,310\nA cheetah quits after twenty seconds,\n\n2\n00:00:02,660 --> 00:00:03,940\nand you'd never guess why.\n\n3\n00:00:04,290 --> 00:00:06,620\nIt hits about a hundred kilometers an hour,\n\n4\n00:00:07,170 --> 00:00:09,890\nzero to seventy-two in two and a half seconds.\n\n5\n00:00:10,270 --> 00:00:12,080\nEach stride covers seven meters,\n\n6\n00:00:12,470 --> 00:00:14,060\nfour strides every second.\n\n7\n00:00:14,480 --> 00:00:16,210\nIts spine bends like a spring,\n\n8\n00:00:16,600 --> 00:00:18,410\nits lungs and heart are huge,\n\n9\n00:00:18,780 --> 00:00:20,600\nand its tail steers like a rudder.\n\n10\n00:00:20,950 --> 00:00:23,370\nPeople thought it stopped because it overheated.\n\n11\n00:00:23,710 --> 00:00:28,030\nBut in 2013, scientists put sensors on six cheetahs.\n\n12\n00:00:28,420 --> 00:00:31,000\nDuring the chase, body heat barely changed.\n\n13\n00:00:31,410 --> 00:00:33,080\nIt only jumped after a catch,\n\n14\n00:00:33,240 --> 00:00:36,040\nprobably from stress, with lions nearby.\n\n15\n00:00:36,520 --> 00:00:37,690\nSo what stops them?\n\n16\n00:00:38,160 --> 00:00:41,180\nThat springy sprint burns energy crazy fast,\n\n17\n00:00:41,650 --> 00:00:44,210\nso a full sprint lasts about twenty seconds,\n\n18\n00:00:44,590 --> 00:00:46,100\njust a few hundred meters.\n\n19\n00:00:46,460 --> 00:00:48,340\nMiss by then, and the cheetah's done.\n\n20\n00:00:48,770 --> 00:00:51,230\nOnly about half its chases end in a meal.\n\n21\n00:00:51,620 --> 00:00:53,810\nWould you rather be that fast for twenty seconds,\n\n22\n00:00:54,170 --> 00:00:55,510\nor slower all day?\n\n",
+      "tg_msg": 1107
     }
   },
   "history": [
@@ -3214,7 +3218,7 @@
       "at": "2026-10-25T17:40:17.371797+00:00"
     }
   },
-  "cleanup_day": "2026-11-12",
+  "cleanup_day": "2026-11-13",
   "recent_voices": [
     "en-AU-WilliamMultilingualNeural",
     "en-US-EmmaMultilingualNeural",
@@ -3321,7 +3325,8 @@
     "drop/20261112-contagious-yawn": "2026-11-12-102",
     "drop/20261112-bones-alive": "2026-11-12-103",
     "drop/20261112-polar-bear-skin": "2026-11-12-104",
-    "drop/20261112-stretching-ears": "2026-11-12-105"
+    "drop/20261112-stretching-ears": "2026-11-12-105",
+    "drop/20261113-cheetah-sprint": "2026-11-13-101"
   },
-  "refs_day": "2026-11-12"
+  "refs_day": "2026-11-13"
 }
