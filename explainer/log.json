@@ -1040,7 +1040,7 @@
   "seconds": 47.8,
   "words": 135,
   "sheet_id": "S076",
-  "hook_score": 58,
+  "hook_score": 49,
   "title_score": 94,
   "notes": "unattended run, no storyboard step"
  },
@@ -1173,5 +1173,19 @@
   "words": 142,
   "sheet_id": "S084",
   "notes": "unattended run, no storyboard step; hook 54, title 98"
+ },
+ {
+  "date": "2026-11-13",
+  "id": "20261113-liver-jobs",
+  "kind": "long",
+  "style": "Watercolor Brush",
+  "topic": "Your Liver Explained in Simple Words: the organ that does hundreds of jobs",
+  "title": "Your Liver Can Regrow 2/3 of Itself in Weeks",
+  "seconds": 180.9,
+  "words": 535,
+  "sheet_id": "L026",
+  "hook_score": 49,
+  "title_score": 98,
+  "notes": "unattended run, no storyboard step; 5 chapters + teaser (gum, L027), 34 scenes; Lemo watercolor engine wrapped via lemo_engine.sh (setup.sh not run: sandbox blocked it; style files read via sparse checkout); base helpers from 20261112-bones-alive; voice af_heart 0.97"
  }
 ]
