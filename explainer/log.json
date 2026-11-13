@@ -1187,5 +1187,17 @@
   "hook_score": 49,
   "title_score": 98,
   "notes": "unattended run, no storyboard step; 5 chapters + teaser (gum, L027), 34 scenes; Lemo watercolor engine wrapped via lemo_engine.sh (setup.sh not run: sandbox blocked it; style files read via sparse checkout); base helpers from 20261112-bones-alive; voice af_heart 0.97"
+ },
+ {
+  "date": "2026-11-13",
+  "id": "20261113-brain-freeze",
+  "kind": "short",
+  "style": "Kawaii Anime",
+  "topic": "Why does ice cream give you brain freeze?",
+  "title": "Why Ice Cream Gives You a 30-Second Headache 🍦",
+  "seconds": 51.5,
+  "words": 135,
+  "sheet_id": "S085",
+  "note": "no storyboard step (unattended run); hook 59, title 98"
  }
 ]

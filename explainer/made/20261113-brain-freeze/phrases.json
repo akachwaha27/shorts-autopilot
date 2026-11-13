@@ -1,0 +1,710 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.47,
+  "text": "Ice cream gives you a 30-second headache,",
+  "words": [
+   [
+    "ice",
+    0.25
+   ],
+   [
+    "cream",
+    0.45
+   ],
+   [
+    "gives",
+    0.79
+   ],
+   [
+    "you",
+    1.12
+   ],
+   [
+    "a",
+    1.33
+   ],
+   [
+    "30second",
+    1.39
+   ],
+   [
+    "headache",
+    1.93
+   ]
+  ]
+ },
+ {
+  "s": 3.02,
+  "e": 4.86,
+  "text": "but your brain never freezes.",
+  "words": [
+   [
+    "but",
+    3.02
+   ],
+   [
+    "your",
+    3.25
+   ],
+   [
+    "brain",
+    3.56
+   ],
+   [
+    "never",
+    3.94
+   ],
+   [
+    "freezes",
+    4.32
+   ]
+  ]
+ },
+ {
+  "s": 5.32,
+  "e": 6.52,
+  "text": "So what's going on?",
+  "words": [
+   [
+    "so",
+    5.32
+   ],
+   [
+    "whats",
+    5.49
+   ],
+   [
+    "going",
+    5.92
+   ],
+   [
+    "on",
+    6.34
+   ]
+  ]
+ },
+ {
+  "s": 7.04,
+  "e": 8.86,
+  "text": "It starts on the roof of your mouth.",
+  "words": [
+   [
+    "it",
+    7.04
+   ],
+   [
+    "starts",
+    7.17
+   ],
+   [
+    "on",
+    7.56
+   ],
+   [
+    "the",
+    7.69
+   ],
+   [
+    "roof",
+    7.89
+   ],
+   [
+    "of",
+    8.15
+   ],
+   [
+    "your",
+    8.28
+   ],
+   [
+    "mouth",
+    8.54
+   ]
+  ]
+ },
+ {
+  "s": 9.29,
+  "e": 11.49,
+  "text": "It's packed with nerves and blood vessels,",
+  "words": [
+   [
+    "its",
+    9.29
+   ],
+   [
+    "packed",
+    9.49
+   ],
+   [
+    "with",
+    9.88
+   ],
+   [
+    "nerves",
+    10.13
+   ],
+   [
+    "and",
+    10.52
+   ],
+   [
+    "blood",
+    10.72
+   ],
+   [
+    "vessels",
+    11.04
+   ]
+  ]
+ },
+ {
+  "s": 11.89,
+  "e": 14.19,
+  "text": "and ice cream chills it super fast.",
+  "words": [
+   [
+    "and",
+    11.89
+   ],
+   [
+    "ice",
+    12.14
+   ],
+   [
+    "cream",
+    12.39
+   ],
+   [
+    "chills",
+    12.8
+   ],
+   [
+    "it",
+    13.29
+   ],
+   [
+    "super",
+    13.45
+   ],
+   [
+    "fast",
+    13.86
+   ]
+  ]
+ },
+ {
+  "s": 14.56,
+  "e": 17.63,
+  "text": "Scientists think a big artery behind your eyes",
+  "words": [
+   [
+    "scientists",
+    14.56
+   ],
+   [
+    "think",
+    15.35
+   ],
+   [
+    "a",
+    15.74
+   ],
+   [
+    "big",
+    15.82
+   ],
+   [
+    "artery",
+    16.06
+   ],
+   [
+    "behind",
+    16.53
+   ],
+   [
+    "your",
+    17.0
+   ],
+   [
+    "eyes",
+    17.32
+   ]
+  ]
+ },
+ {
+  "s": 17.72,
+  "e": 18.4,
+  "text": "suddenly opens wide,",
+  "words": [
+   [
+    "suddenly",
+    17.72
+   ],
+   [
+    "opens",
+    18.04
+   ],
+   [
+    "wide",
+    18.24
+   ]
+  ]
+ },
+ {
+  "s": 19.02,
+  "e": 20.56,
+  "text": "to rush in warm blood.",
+  "words": [
+   [
+    "to",
+    19.02
+   ],
+   [
+    "rush",
+    19.2
+   ],
+   [
+    "in",
+    19.56
+   ],
+   [
+    "warm",
+    19.75
+   ],
+   [
+    "blood",
+    20.11
+   ]
+  ]
+ },
+ {
+  "s": 20.98,
+  "e": 22.0,
+  "text": "That flood of blood",
+  "words": [
+   [
+    "that",
+    20.98
+   ],
+   [
+    "flood",
+    21.24
+   ],
+   [
+    "of",
+    21.56
+   ],
+   [
+    "blood",
+    21.68
+   ]
+  ]
+ },
+ {
+  "s": 22.06,
+  "e": 24.26,
+  "text": "pushes up the pressure inside your head.",
+  "words": [
+   [
+    "pushes",
+    22.06
+   ],
+   [
+    "up",
+    22.46
+   ],
+   [
+    "the",
+    22.59
+   ],
+   [
+    "pressure",
+    22.79
+   ],
+   [
+    "inside",
+    23.33
+   ],
+   [
+    "your",
+    23.72
+   ],
+   [
+    "head",
+    23.99
+   ]
+  ]
+ },
+ {
+  "s": 24.61,
+  "e": 26.72,
+  "text": "Your trigeminal nerve feels it,",
+  "words": [
+   [
+    "your",
+    24.61
+   ],
+   [
+    "trigeminal",
+    24.93
+   ],
+   [
+    "nerve",
+    25.74
+   ],
+   [
+    "feels",
+    26.15
+   ],
+   [
+    "it",
+    26.55
+   ]
+  ]
+ },
+ {
+  "s": 26.9,
+  "e": 27.81,
+  "text": "but it gets mixed up,",
+  "words": [
+   [
+    "but",
+    26.9
+   ],
+   [
+    "it",
+    27.07
+   ],
+   [
+    "gets",
+    27.18
+   ],
+   [
+    "mixed",
+    27.41
+   ],
+   [
+    "up",
+    27.69
+   ]
+  ]
+ },
+ {
+  "s": 28.25,
+  "e": 30.71,
+  "text": "and sends the pain to your forehead instead.",
+  "words": [
+   [
+    "and",
+    28.25
+   ],
+   [
+    "sends",
+    28.45
+   ],
+   [
+    "the",
+    28.79
+   ],
+   [
+    "pain",
+    29.0
+   ],
+   [
+    "to",
+    29.27
+   ],
+   [
+    "your",
+    29.41
+   ],
+   [
+    "forehead",
+    29.69
+   ],
+   [
+    "instead",
+    30.23
+   ]
+  ]
+ },
+ {
+  "s": 31.07,
+  "e": 32.67,
+  "text": "That's called referred pain.",
+  "words": [
+   [
+    "thats",
+    31.07
+   ],
+   [
+    "called",
+    31.42
+   ],
+   [
+    "referred",
+    31.84
+   ],
+   [
+    "pain",
+    32.4
+   ]
+  ]
+ },
+ {
+  "s": 32.95,
+  "e": 33.94,
+  "text": "Once things warm up,",
+  "words": [
+   [
+    "once",
+    32.95
+   ],
+   [
+    "things",
+    33.2
+   ],
+   [
+    "warm",
+    33.57
+   ],
+   [
+    "up",
+    33.82
+   ]
+  ]
+ },
+ {
+  "s": 34.08,
+  "e": 36.03,
+  "text": "the artery narrows again,",
+  "words": [
+   [
+    "the",
+    34.08
+   ],
+   [
+    "artery",
+    34.36
+   ],
+   [
+    "narrows",
+    34.92
+   ],
+   [
+    "again",
+    35.57
+   ]
+  ]
+ },
+ {
+  "s": 36.1,
+  "e": 39.0,
+  "text": "and the ache fades, usually in under 30 seconds.",
+  "words": [
+   [
+    "and",
+    36.1
+   ],
+   [
+    "the",
+    36.33
+   ],
+   [
+    "ache",
+    36.56
+   ],
+   [
+    "fades",
+    36.86
+   ],
+   [
+    "usually",
+    37.25
+   ],
+   [
+    "in",
+    37.78
+   ],
+   [
+    "under",
+    37.93
+   ],
+   [
+    "30",
+    38.32
+   ],
+   [
+    "seconds",
+    38.47
+   ]
+  ]
+ },
+ {
+  "s": 39.47,
+  "e": 40.67,
+  "text": "Want it gone faster?",
+  "words": [
+   [
+    "want",
+    39.47
+   ],
+   [
+    "it",
+    39.77
+   ],
+   [
+    "gone",
+    39.92
+   ],
+   [
+    "faster",
+    40.22
+   ]
+  ]
+ },
+ {
+  "s": 41.17,
+  "e": 42.05,
+  "text": "Press your warm tongue",
+  "words": [
+   [
+    "press",
+    41.17
+   ],
+   [
+    "your",
+    41.4
+   ],
+   [
+    "warm",
+    41.59
+   ],
+   [
+    "tongue",
+    41.77
+   ]
+  ]
+ },
+ {
+  "s": 42.13,
+  "e": 43.64,
+  "text": "to the roof of your mouth.",
+  "words": [
+   [
+    "to",
+    42.13
+   ],
+   [
+    "the",
+    42.28
+   ],
+   [
+    "roof",
+    42.51
+   ],
+   [
+    "of",
+    42.81
+   ],
+   [
+    "your",
+    42.96
+   ],
+   [
+    "mouth",
+    43.26
+   ]
+  ]
+ },
+ {
+  "s": 44.02,
+  "e": 47.05,
+  "text": "Honestly, your head's just overreacting to dessert.",
+  "words": [
+   [
+    "honestly",
+    44.02
+   ],
+   [
+    "your",
+    44.6
+   ],
+   [
+    "heads",
+    44.89
+   ],
+   [
+    "just",
+    45.25
+   ],
+   [
+    "overreacting",
+    45.54
+   ],
+   [
+    "to",
+    46.4
+   ],
+   [
+    "dessert",
+    46.55
+   ]
+  ]
+ },
+ {
+  "s": 47.47,
+  "e": 49.24,
+  "text": "So which hits you harder:",
+  "words": [
+   [
+    "so",
+    47.47
+   ],
+   [
+    "which",
+    47.65
+   ],
+   [
+    "hits",
+    48.09
+   ],
+   [
+    "you",
+    48.44
+   ],
+   [
+    "harder",
+    48.71
+   ]
+  ]
+ },
+ {
+  "s": 49.3,
+  "e": 50.53,
+  "text": "ice cream or a slushie?",
+  "words": [
+   [
+    "ice",
+    49.3
+   ],
+   [
+    "cream",
+    49.5
+   ],
+   [
+    "or",
+    49.85
+   ],
+   [
+    "a",
+    49.98
+   ],
+   [
+    "slushie",
+    50.05
+   ]
+  ]
+ }
+]
