@@ -1149,5 +1149,17 @@
   "hook_score": 53,
   "title_score": 98,
   "notes": "unattended run, no storyboard step; Lemo Halftone Dossier (no engine; own canvas port of its print grammar: halftone dots, misregistered headlines, stamps, dot wipes); 9 scenes; Lemo setup.sh not run (sandbox blocked it), style files read via sparse checkout"
+ },
+ {
+  "date": "2026-11-13",
+  "id": "20261113-cheetah-sprint",
+  "kind": "short",
+  "style": "Low-Poly Faceted",
+  "topic": "The Cheetah Paradox: why can the fastest land animal only sprint for about 20 seconds?",
+  "title": "Why Cheetahs Quit After 20 Seconds 🐆",
+  "seconds": 56.7,
+  "words": 144,
+  "sheet_id": "S083",
+  "notes": "unattended run, no storyboard; premise fixed (overheating is a myth per Hetem 2013)"
  }
 ]

@@ -1,0 +1,732 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.31,
+  "text": "A cheetah quits after twenty seconds,",
+  "words": [
+   [
+    "a",
+    0.25
+   ],
+   [
+    "cheetah",
+    0.32
+   ],
+   [
+    "quits",
+    0.78
+   ],
+   [
+    "after",
+    1.11
+   ],
+   [
+    "twenty",
+    1.45
+   ],
+   [
+    "seconds",
+    1.84
+   ]
+  ]
+ },
+ {
+  "s": 2.66,
+  "e": 3.94,
+  "text": "and you'd never guess why.",
+  "words": [
+   [
+    "and",
+    2.66
+   ],
+   [
+    "youd",
+    2.85
+   ],
+   [
+    "never",
+    3.11
+   ],
+   [
+    "guess",
+    3.43
+   ],
+   [
+    "why",
+    3.75
+   ]
+  ]
+ },
+ {
+  "s": 4.29,
+  "e": 6.62,
+  "text": "It hits about a hundred kilometers an hour,",
+  "words": [
+   [
+    "it",
+    4.29
+   ],
+   [
+    "hits",
+    4.43
+   ],
+   [
+    "about",
+    4.69
+   ],
+   [
+    "a",
+    5.02
+   ],
+   [
+    "hundred",
+    5.09
+   ],
+   [
+    "kilometers",
+    5.56
+   ],
+   [
+    "an",
+    6.22
+   ],
+   [
+    "hour",
+    6.36
+   ]
+  ]
+ },
+ {
+  "s": 7.17,
+  "e": 9.89,
+  "text": "zero to seventy-two in two and a half seconds.",
+  "words": [
+   [
+    "zero",
+    7.17
+   ],
+   [
+    "to",
+    7.47
+   ],
+   [
+    "seventytwo",
+    7.62
+   ],
+   [
+    "in",
+    8.38
+   ],
+   [
+    "two",
+    8.53
+   ],
+   [
+    "and",
+    8.76
+   ],
+   [
+    "a",
+    8.98
+   ],
+   [
+    "half",
+    9.06
+   ],
+   [
+    "seconds",
+    9.36
+   ]
+  ]
+ },
+ {
+  "s": 10.27,
+  "e": 12.08,
+  "text": "Each stride covers seven meters,",
+  "words": [
+   [
+    "each",
+    10.27
+   ],
+   [
+    "stride",
+    10.54
+   ],
+   [
+    "covers",
+    10.94
+   ],
+   [
+    "seven",
+    11.34
+   ],
+   [
+    "meters",
+    11.68
+   ]
+  ]
+ },
+ {
+  "s": 12.47,
+  "e": 14.06,
+  "text": "four strides every second.",
+  "words": [
+   [
+    "four",
+    12.47
+   ],
+   [
+    "strides",
+    12.76
+   ],
+   [
+    "every",
+    13.26
+   ],
+   [
+    "second",
+    13.62
+   ]
+  ]
+ },
+ {
+  "s": 14.48,
+  "e": 16.21,
+  "text": "Its spine bends like a spring,",
+  "words": [
+   [
+    "its",
+    14.48
+   ],
+   [
+    "spine",
+    14.7
+   ],
+   [
+    "bends",
+    15.06
+   ],
+   [
+    "like",
+    15.42
+   ],
+   [
+    "a",
+    15.71
+   ],
+   [
+    "spring",
+    15.78
+   ]
+  ]
+ },
+ {
+  "s": 16.6,
+  "e": 18.41,
+  "text": "its lungs and heart are huge,",
+  "words": [
+   [
+    "its",
+    16.6
+   ],
+   [
+    "lungs",
+    16.84
+   ],
+   [
+    "and",
+    17.23
+   ],
+   [
+    "heart",
+    17.47
+   ],
+   [
+    "are",
+    17.86
+   ],
+   [
+    "huge",
+    18.1
+   ]
+  ]
+ },
+ {
+  "s": 18.78,
+  "e": 20.6,
+  "text": "and its tail steers like a rudder.",
+  "words": [
+   [
+    "and",
+    18.78
+   ],
+   [
+    "its",
+    18.99
+   ],
+   [
+    "tail",
+    19.19
+   ],
+   [
+    "steers",
+    19.46
+   ],
+   [
+    "like",
+    19.86
+   ],
+   [
+    "a",
+    20.13
+   ],
+   [
+    "rudder",
+    20.2
+   ]
+  ]
+ },
+ {
+  "s": 20.95,
+  "e": 23.37,
+  "text": "People thought it stopped because it overheated.",
+  "words": [
+   [
+    "people",
+    20.95
+   ],
+   [
+    "thought",
+    21.31
+   ],
+   [
+    "it",
+    21.72
+   ],
+   [
+    "stopped",
+    21.84
+   ],
+   [
+    "because",
+    22.25
+   ],
+   [
+    "it",
+    22.66
+   ],
+   [
+    "overheated",
+    22.78
+   ]
+  ]
+ },
+ {
+  "s": 23.71,
+  "e": 28.03,
+  "text": "But in 2013, scientists put sensors on six cheetahs.",
+  "words": [
+   [
+    "but",
+    23.71
+   ],
+   [
+    "in",
+    24.02
+   ],
+   [
+    "2013",
+    24.23
+   ],
+   [
+    "scientists",
+    24.64
+   ],
+   [
+    "put",
+    25.67
+   ],
+   [
+    "sensors",
+    25.97
+   ],
+   [
+    "on",
+    26.69
+   ],
+   [
+    "six",
+    26.9
+   ],
+   [
+    "cheetahs",
+    27.21
+   ]
+  ]
+ },
+ {
+  "s": 28.42,
+  "e": 31.0,
+  "text": "During the chase, body heat barely changed.",
+  "words": [
+   [
+    "during",
+    28.42
+   ],
+   [
+    "the",
+    28.86
+   ],
+   [
+    "chase",
+    29.08
+   ],
+   [
+    "body",
+    29.45
+   ],
+   [
+    "heat",
+    29.75
+   ],
+   [
+    "barely",
+    30.04
+   ],
+   [
+    "changed",
+    30.48
+   ]
+  ]
+ },
+ {
+  "s": 31.41,
+  "e": 33.08,
+  "text": "It only jumped after a catch,",
+  "words": [
+   [
+    "it",
+    31.41
+   ],
+   [
+    "only",
+    31.56
+   ],
+   [
+    "jumped",
+    31.85
+   ],
+   [
+    "after",
+    32.28
+   ],
+   [
+    "a",
+    32.65
+   ],
+   [
+    "catch",
+    32.72
+   ]
+  ]
+ },
+ {
+  "s": 33.24,
+  "e": 36.04,
+  "text": "probably from stress, with lions nearby.",
+  "words": [
+   [
+    "probably",
+    33.24
+   ],
+   [
+    "from",
+    33.92
+   ],
+   [
+    "stress",
+    34.26
+   ],
+   [
+    "with",
+    34.77
+   ],
+   [
+    "lions",
+    35.11
+   ],
+   [
+    "nearby",
+    35.53
+   ]
+  ]
+ },
+ {
+  "s": 36.52,
+  "e": 37.69,
+  "text": "So what stops them?",
+  "words": [
+   [
+    "so",
+    36.52
+   ],
+   [
+    "what",
+    36.68
+   ],
+   [
+    "stops",
+    36.99
+   ],
+   [
+    "them",
+    37.38
+   ]
+  ]
+ },
+ {
+  "s": 38.16,
+  "e": 41.18,
+  "text": "That springy sprint burns energy crazy fast,",
+  "words": [
+   [
+    "that",
+    38.16
+   ],
+   [
+    "springy",
+    38.49
+   ],
+   [
+    "sprint",
+    39.06
+   ],
+   [
+    "burns",
+    39.55
+   ],
+   [
+    "energy",
+    39.96
+   ],
+   [
+    "crazy",
+    40.44
+   ],
+   [
+    "fast",
+    40.85
+   ]
+  ]
+ },
+ {
+  "s": 41.65,
+  "e": 44.21,
+  "text": "so a full sprint lasts about twenty seconds,",
+  "words": [
+   [
+    "so",
+    41.65
+   ],
+   [
+    "a",
+    41.79
+   ],
+   [
+    "full",
+    41.86
+   ],
+   [
+    "sprint",
+    42.15
+   ],
+   [
+    "lasts",
+    42.57
+   ],
+   [
+    "about",
+    42.93
+   ],
+   [
+    "twenty",
+    43.29
+   ],
+   [
+    "seconds",
+    43.71
+   ]
+  ]
+ },
+ {
+  "s": 44.59,
+  "e": 46.1,
+  "text": "just a few hundred meters.",
+  "words": [
+   [
+    "just",
+    44.59
+   ],
+   [
+    "a",
+    44.88
+   ],
+   [
+    "few",
+    44.95
+   ],
+   [
+    "hundred",
+    45.16
+   ],
+   [
+    "meters",
+    45.67
+   ]
+  ]
+ },
+ {
+  "s": 46.46,
+  "e": 48.34,
+  "text": "Miss by then, and the cheetah's done.",
+  "words": [
+   [
+    "miss",
+    46.46
+   ],
+   [
+    "by",
+    46.73
+   ],
+   [
+    "then",
+    46.86
+   ],
+   [
+    "and",
+    47.13
+   ],
+   [
+    "the",
+    47.33
+   ],
+   [
+    "cheetahs",
+    47.53
+   ],
+   [
+    "done",
+    48.07
+   ]
+  ]
+ },
+ {
+  "s": 48.77,
+  "e": 51.23,
+  "text": "Only about half its chases end in a meal.",
+  "words": [
+   [
+    "only",
+    48.77
+   ],
+   [
+    "about",
+    49.08
+   ],
+   [
+    "half",
+    49.46
+   ],
+   [
+    "its",
+    49.77
+   ],
+   [
+    "chases",
+    50.0
+   ],
+   [
+    "end",
+    50.46
+   ],
+   [
+    "in",
+    50.69
+   ],
+   [
+    "a",
+    50.85
+   ],
+   [
+    "meal",
+    50.92
+   ]
+  ]
+ },
+ {
+  "s": 51.62,
+  "e": 53.81,
+  "text": "Would you rather be that fast for twenty seconds,",
+  "words": [
+   [
+    "would",
+    51.62
+   ],
+   [
+    "you",
+    51.89
+   ],
+   [
+    "rather",
+    52.06
+   ],
+   [
+    "be",
+    52.39
+   ],
+   [
+    "that",
+    52.5
+   ],
+   [
+    "fast",
+    52.72
+   ],
+   [
+    "for",
+    52.93
+   ],
+   [
+    "twenty",
+    53.1
+   ],
+   [
+    "seconds",
+    53.43
+   ]
+  ]
+ },
+ {
+  "s": 54.17,
+  "e": 55.51,
+  "text": "or slower all day?",
+  "words": [
+   [
+    "or",
+    54.17
+   ],
+   [
+    "slower",
+    54.36
+   ],
+   [
+    "all",
+    54.94
+   ],
+   [
+    "day",
+    55.23
+   ]
+  ]
+ }
+]
