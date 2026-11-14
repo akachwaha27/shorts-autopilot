@@ -378,178 +378,6 @@
     }
   },
   "videos": {
-    "2026-11-08-104": {
-      "topic": {
-        "title": "Your Taste Buds Explained in Simple Words: how taste buds work and why they die every ten days",
-        "format": "long",
-        "angle": "Chalkboard Lesson"
-      },
-      "package": {
-        "title": "Why Your Taste Buds Die Every 10 Days",
-        "description": "How do taste buds work, why is the tongue map a myth, and why do your taste cells get replaced about every 10 days? A simple explainer of papillae, taste receptors, the five basic tastes (sweet, salty, sour, bitter and umami), why smell makes most of flavor, and the catfish with 175,000 taste buds.\n\nSources:\nhttps://my.clevelandclinic.org/health/body/24684-taste-buds\nhttps://en.wikipedia.org/wiki/Tongue_map\nhttps://www.livescience.com/32970-what-animal-has-the-best-sense-of-taste.html\n\nAnimated in the Chalkboard Lesson style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#tastebuds",
-          "#science",
-          "#humanbody"
-        ],
-        "tags": [
-          "how do taste buds work",
-          "taste buds explained",
-          "tongue map myth",
-          "why do taste buds die",
-          "taste buds regenerate",
-          "five basic tastes",
-          "umami",
-          "papillae",
-          "taste receptors",
-          "how does taste work",
-          "catfish taste buds",
-          "smell and flavor",
-          "human body facts",
-          "science for kids"
-        ],
-        "category": "27",
-        "pinned_comment": "Were you taught the tongue map in school? Tell me which flavor you were told lives on the tip!",
-        "thumbnail_text": "TONGUE MAP MYTH",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "Your taste buds die every ten days, and nobody ever told you why. Right now, thousands of tiny sensors are tasting your own spit. So what are they, how do they work, and what about that tongue map from school? Let's start with the map. You've probably seen it. Sweet on the tip, bitter at the back, sour and salty on the sides. It's a myth. In nineteen oh one, a German scientist named David Hanig found that some spots were just a tiny bit more sensitive. Then in nineteen forty two, his graph got redrawn, and people read it the wrong way. The truth? Every part of your tongue that has taste buds can taste all five flavors. So where are the taste buds? Stick out your tongue in a mirror. Those little bumps are not taste buds. They're called papillae, and most taste buds hide inside them, along the sides of each bump. An adult has somewhere between two thousand and ten thousand taste buds. A few even live on the roof of your mouth and down in your throat. Now zoom in on one bud. It looks a bit like a tiny onion, packed with fifty to one hundred fifty taste cells. At the top there's a little opening, called a taste pore. When you eat, food dissolves in your spit, and those molecules slip into the pore. Each taste cell has receptors on its tip, like locks waiting for the right key. Sugar fits the sweet lock. Salt slips through its own little channel. When a key fits, the cell fires a signal down a nerve, and your brain says, sweet! And here's the clever part. Each of the five tastes has a job. Sweet means energy. Salty means minerals your body needs. Sour can mean unripe, or spoiled. Bitter is a warning, because lots of poisons taste bitter. And umami means protein. That fifth taste was found in nineteen oh eight, by a Japanese chemist named Kikunae Ikeda. He wondered why seaweed soup tasted so rich, and found the answer was glutamate. But taste is only half the story. Hold your nose and eat a jelly bean. You can tell it's sweet, but not what flavor it is. That's because most of what we call flavor actually comes from smell. And some animals put us to shame. A catfish can have up to one hundred seventy five thousand taste buds, all over its body. It's basically a swimming tongue. Now, back to that hook. Your taste cells work in a wet, rough place, getting scraped by crunchy food, and burned by hot soup. So your body replaces them, about every ten days. That's why a burned tongue feels normal again so fast. Every bite you take, thousands of brand new taste cells are on the job. Next time, why do some people get carsick, while others feel totally fine?",
-        "key_facts": [
-          "Adults have about 2,000 to 10,000 taste buds, each with 50 to 150 taste receptor cells; taste cells are replaced roughly every 10 days (Cleveland Clinic)",
-          "Most taste buds sit in papillae (fungiform, circumvallate, foliate); a few are on the roof of the mouth and in the throat (Cleveland Clinic)",
-          "Tongue map myth: David P. Hanig's 1901 paper found only minute threshold differences; Edwin Boring's 1942 redrawn graphs were misread; all tastes are sensed across the tongue (Wikipedia: Tongue map)",
-          "Umami identified by chemist Kikunae Ikeda in 1908 from kombu seaweed broth; the molecule is glutamate (BrainFacts)",
-          "Large catfish can have up to 175,000 taste buds, all over the body (Live Science)"
-        ],
-        "voice": "Kokoro",
-        "format": "long",
-        "style": "Chalkboard Lesson"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261108-taste-buds",
-      "redos": 0,
-      "updated": "2026-11-08T21:14:33.451450+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Chalkboard Lesson style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-08",
-        "name": "2026-11-08-104.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-08",
-        "name": "2026-11-08-104-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:02,480\nYour taste buds die every ten days,\n\n2\n00:00:02,780 --> 00:00:04,820\nand nobody ever told you why.\n\n3\n00:00:05,370 --> 00:00:07,730\nRight now, thousands of tiny sensors\n\n4\n00:00:08,030 --> 00:00:09,410\nare tasting your own spit.\n\n5\n00:00:09,960 --> 00:00:11,010\nSo what are they,\n\n6\n00:00:11,310 --> 00:00:12,430\nhow do they work,\n\n7\n00:00:12,730 --> 00:00:14,710\nand what about that tongue map from school?\n\n8\n00:00:15,260 --> 00:00:16,500\nLet's start with the map.\n\n9\n00:00:17,050 --> 00:00:18,300\nYou've probably seen it.\n\n10\n00:00:18,850 --> 00:00:19,920\nSweet on the tip,\n\n11\n00:00:20,220 --> 00:00:21,310\nbitter at the back,\n\n12\n00:00:21,610 --> 00:00:23,410\nsour and salty on the sides.\n\n13\n00:00:23,960 --> 00:00:24,760\nIt's a myth.\n\n14\n00:00:25,310 --> 00:00:26,570\nIn nineteen oh one,\n\n15\n00:00:26,870 --> 00:00:29,240\na German scientist named David Hanig\n\n16\n00:00:29,540 --> 00:00:32,820\nfound that some spots were just a tiny bit more sensitive.\n\n17\n00:00:33,370 --> 00:00:35,170\nThen in nineteen forty two,\n\n18\n00:00:35,470 --> 00:00:36,970\nhis graph got redrawn,\n\n19\n00:00:37,270 --> 00:00:38,930\nand people read it the wrong way.\n\n20\n00:00:39,480 --> 00:00:40,280\nThe truth?\n\n21\n00:00:40,830 --> 00:00:43,250\nEvery part of your tongue that has taste buds\n\n22\n00:00:43,550 --> 00:00:45,350\ncan taste all five flavors.\n\n23\n00:00:45,900 --> 00:00:47,430\nSo where are the taste buds?\n\n24\n00:00:47,980 --> 00:00:49,610\nStick out your tongue in a mirror.\n\n25\n00:00:50,160 --> 00:00:52,430\nThose little bumps are not taste buds.\n\n26\n00:00:52,980 --> 00:00:54,250\nThey're called papillae,\n\n27\n00:00:54,550 --> 00:00:56,730\nand most taste buds hide inside them,\n\n28\n00:00:57,030 --> 00:00:58,720\nalong the sides of each bump.\n\n29\n00:00:59,270 --> 00:01:01,590\nAn adult has somewhere between two thousand\n\n30\n00:01:01,890 --> 00:01:03,560\nand ten thousand taste buds.\n\n31\n00:01:04,110 --> 00:01:06,520\nA few even live on the roof of your mouth\n\n32\n00:01:06,820 --> 00:01:08,100\nand down in your throat.\n\n33\n00:01:08,650 --> 00:01:10,210\nNow zoom in on one bud.\n\n34\n00:01:10,760 --> 00:01:12,680\nIt looks a bit like a tiny onion,\n\n35\n00:01:12,980 --> 00:01:15,820\npacked with fifty to one hundred fifty taste cells.\n\n36\n00:01:16,370 --> 00:01:18,170\nAt the top there's a little opening,\n\n37\n00:01:18,470 --> 00:01:19,590\ncalled a taste pore.\n\n38\n00:01:20,140 --> 00:01:22,460\nWhen you eat, food dissolves in your spit,\n\n39\n00:01:22,760 --> 00:01:25,000\nand those molecules slip into the pore.\n\n40\n00:01:25,550 --> 00:01:28,150\nEach taste cell has receptors on its tip,\n\n41\n00:01:28,450 --> 00:01:30,450\nlike locks waiting for the right key.\n\n42\n00:01:31,000 --> 00:01:32,610\nSugar fits the sweet lock.\n\n43\n00:01:33,160 --> 00:01:35,240\nSalt slips through its own little channel.\n\n44\n00:01:35,790 --> 00:01:36,820\nWhen a key fits,\n\n45\n00:01:37,120 --> 00:01:39,220\nthe cell fires a signal down a nerve,\n\n46\n00:01:39,520 --> 00:01:40,940\nand your brain says, sweet!\n\n47\n00:01:41,490 --> 00:01:43,000\nAnd here's the clever part.\n\n48\n00:01:43,550 --> 00:01:45,710\nEach of the five tastes has a job.\n\n49\n00:01:46,260 --> 00:01:47,660\nSweet means energy.\n\n50\n00:01:48,210 --> 00:01:50,720\nSalty means minerals your body needs.\n\n51\n00:01:51,270 --> 00:01:53,450\nSour can mean unripe, or spoiled.\n\n52\n00:01:54,000 --> 00:01:55,270\nBitter is a warning,\n\n53\n00:01:55,570 --> 00:01:57,640\nbecause lots of poisons taste bitter.\n\n54\n00:01:58,190 --> 00:01:59,760\nAnd umami means protein.\n\n55\n00:02:00,310 --> 00:02:02,660\nThat fifth taste was found in nineteen oh eight,\n\n56\n00:02:02,960 --> 00:02:05,530\nby a Japanese chemist named Kikunae Ikeda.\n\n57\n00:02:06,080 --> 00:02:08,820\nHe wondered why seaweed soup tasted so rich,\n\n58\n00:02:09,120 --> 00:02:11,040\nand found the answer was glutamate.\n\n59\n00:02:11,590 --> 00:02:13,500\nBut taste is only half the story.\n\n60\n00:02:14,050 --> 00:02:16,210\nHold your nose and eat a jelly bean.\n\n61\n00:02:16,760 --> 00:02:17,970\nYou can tell it's sweet,\n\n62\n00:02:18,270 --> 00:02:19,780\nbut not what flavor it is.\n\n63\n00:02:20,330 --> 00:02:22,660\nThat's because most of what we call flavor\n\n64\n00:02:22,960 --> 00:02:24,460\nactually comes from smell.\n\n65\n00:02:25,010 --> 00:02:26,920\nAnd some animals put us to shame.\n\n66\n00:02:27,470 --> 00:02:31,630\nA catfish can have up to one hundred seventy five thousand taste buds,\n\n67\n00:02:31,930 --> 00:02:33,130\nall over its body.\n\n68\n00:02:33,680 --> 00:02:35,390\nIt's basically a swimming tongue.\n\n69\n00:02:35,940 --> 00:02:37,240\nNow, back to that hook.\n\n70\n00:02:37,790 --> 00:02:40,180\nYour taste cells work in a wet, rough place,\n\n71\n00:02:40,480 --> 00:02:42,410\ngetting scraped by crunchy food,\n\n72\n00:02:42,710 --> 00:02:44,160\nand burned by hot soup.\n\n73\n00:02:44,710 --> 00:02:46,450\nSo your body replaces them,\n\n74\n00:02:46,750 --> 00:02:48,140\nabout every ten days.\n\n75\n00:02:48,690 --> 00:02:50,070\nThat's why a burned tongue\n\n76\n00:02:50,370 --> 00:02:52,310\nfeels normal again so fast.\n\n77\n00:02:52,860 --> 00:02:54,030\nEvery bite you take,\n\n78\n00:02:54,330 --> 00:02:56,310\nthousands of brand new taste cells\n\n79\n00:02:56,610 --> 00:02:57,730\nare on the job.\n\n80\n00:02:58,280 --> 00:03:00,980\nNext time, why do some people get carsick,\n\n81\n00:03:01,280 --> 00:03:03,030\nwhile others feel totally fine?\n\n",
-      "tg_msg": 1061,
-      "approved_by": "auto",
-      "description_full": "How do taste buds work, why is the tongue map a myth, and why do your taste cells get replaced about every 10 days? A simple explainer of papillae, taste receptors, the five basic tastes (sweet, salty, sour, bitter and umami), why smell makes most of flavor, and the catfish with 175,000 taste buds.\n\nSources:\nhttps://my.clevelandclinic.org/health/body/24684-taste-buds\nhttps://en.wikipedia.org/wiki/Tongue_map\nhttps://www.livescience.com/32970-what-animal-has-the-best-sense-of-taste.html\n\nAnimated in the Chalkboard Lesson style.\n\nFollow Zorbly AI for a new Short every day.\n\n#tastebuds #science #humanbody\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Chalkboard Lesson style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/SkmKUa5OTGY",
-          "private \u00b7 thumbnail \u2705"
-        ]
-      },
-      "uploaded_at": "2026-11-08T21:14:33.451465+00:00",
-      "slot": "2026-11-15T00:15:00+00:00"
-    },
-    "2026-11-08-105": {
-      "topic": {
-        "title": "Why can horses sleep standing up?",
-        "format": "animated",
-        "angle": "Cut-Paper Diorama"
-      },
-      "package": {
-        "title": "How Can a 500 kg Horse Sleep Standing Up? \ud83d\udc34",
-        "description": "Why can horses sleep standing up? See how the stay apparatus of tendons and ligaments locks a horse's legs, how the kneecap hooks over a bump on the thigh bone like a latch, and why horses still have to lie down for REM dream sleep.\n\nSources:\nhttps://thehorse.com/1130383/is-your-horse-getting-enough-sleep/\nhttps://smartpakequine.com/learn-health/how-horses-sleep\nhttps://thehorse.com/?p=53187\n\nAnimated in the Cut-Paper Diorama style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#horses",
-          "#animals",
-          "#science"
-        ],
-        "tags": [
-          "how do horses sleep standing up",
-          "why can horses sleep standing up",
-          "stay apparatus",
-          "horse sleep",
-          "horse REM sleep",
-          "horse kneecap lock",
-          "patella locking horse",
-          "horse facts",
-          "animal facts",
-          "how animals sleep",
-          "animal adaptations",
-          "science explained",
-          "horse anatomy"
-        ],
-        "category": "27",
-        "pinned_comment": "Could you sleep standing up, or would you fall flat on your face?",
-        "thumbnail_text": "KNEE LATCH",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "A 500-kilo horse can sleep standing up, and you'd never guess why it doesn't fall. The trick is called the stay apparatus. Tendons and ligaments brace its legs, so the joints lock with almost no muscle effort. In a back leg, the kneecap hooks over a bump on the thigh bone, like a latch clicking shut. The other back leg gets to rest, and every so often it swaps sides. But there's a catch. Dreaming sleep, called REM, relaxes every muscle, and that unlocks the legs. So for REM, a horse has to lie down, about thirty to forty-five minutes a day, often while a buddy stands guard. Miss it for a week or so, and its knees can buckle mid-nap. So, could you sleep standing up, or would you fall flat on your face?",
-        "key_facts": [
-          "The stay apparatus is a system of tendons and ligaments that stabilizes the joints of the forelimbs and hindlimbs so horses can doze standing (SmartPak, TheHorse)",
-          "In the hind leg the kneecap (patella) hooks over the medial ridge of the femur to lock the stifle; the horse rests the other hind leg and swaps (standard equine anatomy; TheHorse on the stay apparatus)",
-          "REM sleep relaxes all muscle tone, including the stay apparatus, so horses must lie down (sternal or lateral) for it (TheHorse, SmartPak)",
-          "Horses need about 30 (SmartPak) to 40-45 (TheHorse) minutes of REM per day; script says 'about thirty to forty-five minutes'",
-          "In wild herds one horse often stays awake on watch while others lie down (TheHorse, SmartPak); script hedges with 'often'",
-          "REM deprivation lasting more than a week or so can make horses drift into REM standing and collapse, with bowing knees (Houpt and Greening via TheHorse)",
-          "Average horse weight ~500 kg (common figure for a riding horse)"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Cut-Paper Diorama"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261108-horse-sleep-standing",
-      "redos": 0,
-      "updated": "2026-11-09T00:59:21.882463+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Cut-Paper Diorama style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-08",
-        "name": "2026-11-08-105.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-08",
-        "name": "2026-11-08-105-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:03,140\nA 500-kilo horse can sleep standing up,\n\n2\n00:00:03,660 --> 00:00:05,710\nand you'd never guess why it doesn't fall.\n\n3\n00:00:06,120 --> 00:00:08,170\nThe trick is called the stay apparatus.\n\n4\n00:00:08,520 --> 00:00:10,770\nTendons and ligaments brace its legs,\n\n5\n00:00:11,180 --> 00:00:13,860\nso the joints lock with almost no muscle effort.\n\n6\n00:00:14,320 --> 00:00:16,190\nIn a back leg, the kneecap hooks\n\n7\n00:00:16,190 --> 00:00:17,700\nover a bump on the thigh bone,\n\n8\n00:00:18,190 --> 00:00:19,560\nlike a latch clicking shut.\n\n9\n00:00:19,910 --> 00:00:21,580\nThe other back leg gets to rest,\n\n10\n00:00:21,990 --> 00:00:24,280\nand every so often it swaps sides.\n\n11\n00:00:24,670 --> 00:00:25,740\nBut there's a catch.\n\n12\n00:00:26,010 --> 00:00:29,480\nDreaming sleep, called REM, relaxes every muscle,\n\n13\n00:00:29,750 --> 00:00:31,310\nand that unlocks the legs.\n\n14\n00:00:31,720 --> 00:00:34,300\nSo for REM, a horse has to lie down,\n\n15\n00:00:34,300 --> 00:00:37,870\nabout thirty to forty-five minutes a day,\n\n16\n00:00:38,300 --> 00:00:40,250\noften while a buddy stands guard.\n\n17\n00:00:40,710 --> 00:00:42,190\nMiss it for a week or so,\n\n18\n00:00:42,610 --> 00:00:44,600\nand its knees can buckle mid-nap.\n\n19\n00:00:45,030 --> 00:00:46,640\nSo, could you sleep standing up,\n\n20\n00:00:47,090 --> 00:00:48,870\nor would you fall flat on your face?\n\n",
-      "tg_msg": 1063,
-      "approved_by": "auto",
-      "description_full": "Why can horses sleep standing up? See how the stay apparatus of tendons and ligaments locks a horse's legs, how the kneecap hooks over a bump on the thigh bone like a latch, and why horses still have to lie down for REM dream sleep.\n\nSources:\nhttps://thehorse.com/1130383/is-your-horse-getting-enough-sleep/\nhttps://smartpakequine.com/learn-health/how-horses-sleep\nhttps://thehorse.com/?p=53187\n\nAnimated in the Cut-Paper Diorama style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #horses #animals #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Cut-Paper Diorama style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/lkluhV_hvhs",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-11-09T00:59:21.882482+00:00",
-      "slot": "2026-11-15T02:15:00+00:00"
-    },
     "2026-11-09-101": {
       "topic": {
         "title": "How does a tick hold on so tight?",
@@ -3107,12 +2935,12 @@
         "format": "animated",
         "style": "Cut-Paper Diorama"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261114-vulture-gut",
       "redos": 0,
-      "updated": "2026-11-14T19:11:20.516100+00:00",
+      "updated": "2026-11-14T23:24:08.285074+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Cut-Paper Diorama style). Voice: Kokoro text-to-speech."
       ],
@@ -3127,7 +2955,29 @@
         "name": "2026-11-14-104-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:04,460\nVultures eat rotten meat that would kill you, and never get sick. Why?\n\n2\n00:00:04,960 --> 00:00:08,070\nA carcass can be crawling with germs like anthrax,\n\n3\n00:00:08,470 --> 00:00:09,950\nand the vulture keeps eating.\n\n4\n00:00:10,340 --> 00:00:11,420\nFirst, the stomach.\n\n5\n00:00:11,740 --> 00:00:14,630\nVulture stomach acid sits close to pH 1,\n\n6\n00:00:15,140 --> 00:00:17,340\nnearly as strong as battery acid.\n\n7\n00:00:17,730 --> 00:00:19,340\nMost germs die right there.\n\n8\n00:00:19,800 --> 00:00:21,610\nIn one study of fifty vultures,\n\n9\n00:00:21,760 --> 00:00:26,780\nscientists found five hundred twenty-eight kinds of bacteria on their faces,\n\n10\n00:00:27,290 --> 00:00:29,660\nbut only seventy-six made it to the gut.\n\n11\n00:00:30,080 --> 00:00:31,560\nAnd the ones that survive?\n\n12\n00:00:32,140 --> 00:00:36,080\nTough, meat-eating microbes called Clostridia and Fusobacteria,\n\n13\n00:00:36,590 --> 00:00:39,010\ngerms that make most other animals sick.\n\n14\n00:00:39,400 --> 00:00:41,090\nIn a vulture, they're on the team,\n\n15\n00:00:41,480 --> 00:00:42,940\nhelping break down the meal.\n\n16\n00:00:43,280 --> 00:00:44,670\nBy cleaning up carcasses,\n\n17\n00:00:45,040 --> 00:00:47,470\nvultures stop those germs from spreading.\n\n18\n00:00:47,850 --> 00:00:48,810\nSo be honest.\n\n19\n00:00:49,180 --> 00:00:50,600\nWhich grosses you out more,\n\n20\n00:00:51,040 --> 00:00:54,720\nthe rotten meat, or the gut full of flesh-eating bacteria?\n\n",
-      "tg_msg": 1121
+      "tg_msg": 1121,
+      "approved_by": "auto",
+      "description_full": "Why don't vultures get sick from eating rotten meat? Their stomach acid sits close to pH 1 and kills most germs, and the tough gut bacteria that survive, Clostridia and Fusobacteria, help digest the carcass.\n\nSources:\nhttps://insider.si.edu/2014/11/vultures-remarkably-tolerant-to-deadly-bacteria-study-reveals\nhttps://www.nature.com/news/microbes-help-vultures-eat-rotting-meat-1.16345\nhttps://www.todayifoundout.com/index.php/2014/10/dont-vultures-get-sick-eating-dead-things-cant/\n\nAnimated in the Cut-Paper Diorama style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #animals #science #vultures\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Cut-Paper Diorama style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/ugPVS2yVuuA",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-14T23:24:08.285090+00:00",
+      "slot": "2026-11-22T02:15:00+00:00"
     },
     "2026-11-14-105": {
       "topic": {
@@ -3177,12 +3027,12 @@
         "format": "animated",
         "style": "Halftone Dossier"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261114-cat-sleep",
       "redos": 0,
-      "updated": "2026-11-14T19:52:51.045677+00:00",
+      "updated": "2026-11-14T23:24:13.667706+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Halftone Dossier style). Voice: Kokoro text-to-speech."
       ],
@@ -3197,7 +3047,29 @@
         "name": "2026-11-14-105-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:02,090\nYour cat sleeps 16 hours a day,\n\n2\n00:00:02,450 --> 00:00:04,040\nbut it's almost never fully asleep.\n\n3\n00:00:04,420 --> 00:00:05,600\nSo why all the napping?\n\n4\n00:00:06,150 --> 00:00:08,860\nCats are hunters built for short explosive bursts.\n\n5\n00:00:09,240 --> 00:00:12,200\nStalking and pouncing burn a ton of energy in seconds,\n\n6\n00:00:12,570 --> 00:00:13,980\nand plenty of pounces miss.\n\n7\n00:00:14,390 --> 00:00:15,920\nSo between hunts a cat powers down\n\n8\n00:00:16,020 --> 00:00:18,170\nto save fuel for the next one.\n\n9\n00:00:18,540 --> 00:00:20,190\nIt's most awake at dawn and dusk,\n\n10\n00:00:20,480 --> 00:00:21,770\nwhen mice are on the move.\n\n11\n00:00:22,200 --> 00:00:24,730\nThat's why yours goes wild at 5 a.m.\n\n12\n00:00:25,150 --> 00:00:26,970\nMost of its sleep is light dozing,\n\n13\n00:00:27,290 --> 00:00:28,910\nin naps of 15 to 30 minutes,\n\n14\n00:00:29,250 --> 00:00:30,630\nsenses still switched on.\n\n15\n00:00:31,080 --> 00:00:32,950\nOne tiny squeak, and it's awake.\n\n16\n00:00:33,310 --> 00:00:35,520\nOnly about a quarter is real deep sleep,\n\n17\n00:00:35,930 --> 00:00:37,750\nin bursts of 5 to 7 minutes.\n\n18\n00:00:38,100 --> 00:00:39,490\nSo your cat isn't lazy.\n\n19\n00:00:39,850 --> 00:00:41,580\nIt's charging up for the next sprint.\n\n20\n00:00:42,010 --> 00:00:44,630\nSo is your cat asleep right now, or just waiting?\n\n",
-      "tg_msg": 1124
+      "tg_msg": 1124,
+      "approved_by": "auto",
+      "description_full": "Why do cats sleep so much? Cats are hunters built for short bursts of energy, so they nap 12 to 16 hours a day, mostly in light 15 to 30 minute dozes with their senses still on, and only about a quarter of it in deep sleep.\n\nSources:\nhttps://www.petmd.com/cat/behavior/why-do-cats-sleep-so-much\nhttps://www.pdsa.org.uk/what-we-do/blog/why-do-cats-sleep-so-much\nhttps://www.hillspet.com.au/cat-care/behavior-appearance/why-cats-sleep-so-much\n\nAnimated in the Halftone Dossier style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #cats #animals #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Halftone Dossier style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/YO6ZPwBHHGg",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-14T23:24:13.667724+00:00",
+      "slot": "2026-11-15T00:15:00+00:00"
     }
   },
   "history": [
