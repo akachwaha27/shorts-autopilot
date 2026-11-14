@@ -1,0 +1,2498 @@
+[
+ {
+  "s": 0.25,
+  "e": 3.65,
+  "text": "Swallowed gum never stays in you for seven years.",
+  "words": [
+   [
+    "swallowed",
+    0.25
+   ],
+   [
+    "gum",
+    1.02
+   ],
+   [
+    "never",
+    1.27
+   ],
+   [
+    "stays",
+    1.7
+   ],
+   [
+    "in",
+    2.12
+   ],
+   [
+    "you",
+    2.29
+   ],
+   [
+    "for",
+    2.55
+   ],
+   [
+    "seven",
+    2.8
+   ],
+   [
+    "years",
+    3.23
+   ]
+  ]
+ },
+ {
+  "s": 4.12,
+  "e": 6.53,
+  "text": "It's actually gone in a few days.",
+  "words": [
+   [
+    "its",
+    4.12
+   ],
+   [
+    "actually",
+    4.41
+   ],
+   [
+    "gone",
+    5.18
+   ],
+   [
+    "in",
+    5.56
+   ],
+   [
+    "a",
+    5.76
+   ],
+   [
+    "few",
+    5.85
+   ],
+   [
+    "days",
+    6.14
+   ]
+  ]
+ },
+ {
+  "s": 6.87,
+  "e": 9.52,
+  "text": "So where did the seven-year story come from?",
+  "words": [
+   [
+    "so",
+    6.87
+   ],
+   [
+    "where",
+    7.02
+   ],
+   [
+    "did",
+    7.4
+   ],
+   [
+    "the",
+    7.63
+   ],
+   [
+    "sevenyear",
+    7.85
+   ],
+   [
+    "story",
+    8.54
+   ],
+   [
+    "come",
+    8.91
+   ],
+   [
+    "from",
+    9.22
+   ]
+  ]
+ },
+ {
+  "s": 9.98,
+  "e": 12.77,
+  "text": "And what actually happens to gum inside you?",
+  "words": [
+   [
+    "and",
+    9.98
+   ],
+   [
+    "what",
+    10.21
+   ],
+   [
+    "actually",
+    10.52
+   ],
+   [
+    "happens",
+    11.14
+   ],
+   [
+    "to",
+    11.68
+   ],
+   [
+    "gum",
+    11.84
+   ],
+   [
+    "inside",
+    12.07
+   ],
+   [
+    "you",
+    12.54
+   ]
+  ]
+ },
+ {
+  "s": 13.23,
+  "e": 16.54,
+  "text": "Let's follow one swallowed piece, all the way through.",
+  "words": [
+   [
+    "lets",
+    13.23
+   ],
+   [
+    "follow",
+    13.54
+   ],
+   [
+    "one",
+    14.0
+   ],
+   [
+    "swallowed",
+    14.24
+   ],
+   [
+    "piece",
+    14.93
+   ],
+   [
+    "all",
+    15.31
+   ],
+   [
+    "the",
+    15.54
+   ],
+   [
+    "way",
+    15.77
+   ],
+   [
+    "through",
+    16.0
+   ]
+  ]
+ },
+ {
+  "s": 16.97,
+  "e": 19.27,
+  "text": "Chapter one. The seven-year myth.",
+  "words": [
+   [
+    "chapter",
+    16.97
+   ],
+   [
+    "one",
+    17.59
+   ],
+   [
+    "the",
+    17.85
+   ],
+   [
+    "sevenyear",
+    18.12
+   ],
+   [
+    "myth",
+    18.91
+   ]
+  ]
+ },
+ {
+  "s": 19.73,
+  "e": 22.2,
+  "text": "Almost everyone hears it as a kid.",
+  "words": [
+   [
+    "almost",
+    19.73
+   ],
+   [
+    "everyone",
+    20.28
+   ],
+   [
+    "hears",
+    21.01
+   ],
+   [
+    "it",
+    21.47
+   ],
+   [
+    "as",
+    21.65
+   ],
+   [
+    "a",
+    21.83
+   ],
+   [
+    "kid",
+    21.92
+   ]
+  ]
+ },
+ {
+  "s": 22.56,
+  "e": 26.28,
+  "text": "Swallow your gum, and it sits in your stomach for seven years.",
+  "words": [
+   [
+    "swallow",
+    22.56
+   ],
+   [
+    "your",
+    23.09
+   ],
+   [
+    "gum",
+    23.4
+   ],
+   [
+    "and",
+    23.62
+   ],
+   [
+    "it",
+    23.85
+   ],
+   [
+    "sits",
+    24.0
+   ],
+   [
+    "in",
+    24.31
+   ],
+   [
+    "your",
+    24.46
+   ],
+   [
+    "stomach",
+    24.76
+   ],
+   [
+    "for",
+    25.29
+   ],
+   [
+    "seven",
+    25.52
+   ],
+   [
+    "years",
+    25.9
+   ]
+  ]
+ },
+ {
+  "s": 26.68,
+  "e": 29.28,
+  "text": "Nobody really knows who started it.",
+  "words": [
+   [
+    "nobody",
+    26.68
+   ],
+   [
+    "really",
+    27.22
+   ],
+   [
+    "knows",
+    27.76
+   ],
+   [
+    "who",
+    28.2
+   ],
+   [
+    "started",
+    28.47
+   ],
+   [
+    "it",
+    29.1
+   ]
+  ]
+ },
+ {
+  "s": 29.7,
+  "e": 32.47,
+  "text": "But there's a grain of truth hiding inside.",
+  "words": [
+   [
+    "but",
+    29.7
+   ],
+   [
+    "theres",
+    29.95
+   ],
+   [
+    "a",
+    30.44
+   ],
+   [
+    "grain",
+    30.52
+   ],
+   [
+    "of",
+    30.92
+   ],
+   [
+    "truth",
+    31.09
+   ],
+   [
+    "hiding",
+    31.49
+   ],
+   [
+    "inside",
+    31.98
+   ]
+  ]
+ },
+ {
+  "s": 32.93,
+  "e": 36.03,
+  "text": "Your body can't digest gum. Not properly.",
+  "words": [
+   [
+    "your",
+    32.93
+   ],
+   [
+    "body",
+    33.32
+   ],
+   [
+    "cant",
+    33.71
+   ],
+   [
+    "digest",
+    34.09
+   ],
+   [
+    "gum",
+    34.67
+   ],
+   [
+    "not",
+    34.96
+   ],
+   [
+    "properly",
+    35.25
+   ]
+  ]
+ },
+ {
+  "s": 36.44,
+  "e": 38.03,
+  "text": "It just doesn't need to.",
+  "words": [
+   [
+    "it",
+    36.44
+   ],
+   [
+    "just",
+    36.62
+   ],
+   [
+    "doesnt",
+    36.97
+   ],
+   [
+    "need",
+    37.5
+   ],
+   [
+    "to",
+    37.85
+   ]
+  ]
+ },
+ {
+  "s": 38.5,
+  "e": 40.93,
+  "text": "Chapter two. What gum is made of.",
+  "words": [
+   [
+    "chapter",
+    38.5
+   ],
+   [
+    "two",
+    39.18
+   ],
+   [
+    "what",
+    39.47
+   ],
+   [
+    "gum",
+    39.86
+   ],
+   [
+    "is",
+    40.15
+   ],
+   [
+    "made",
+    40.34
+   ],
+   [
+    "of",
+    40.73
+   ]
+  ]
+ },
+ {
+  "s": 41.29,
+  "e": 44.69,
+  "text": "People have chewed gummy stuff for thousands of years.",
+  "words": [
+   [
+    "people",
+    41.29
+   ],
+   [
+    "have",
+    41.74
+   ],
+   [
+    "chewed",
+    42.04
+   ],
+   [
+    "gummy",
+    42.5
+   ],
+   [
+    "stuff",
+    42.88
+   ],
+   [
+    "for",
+    43.26
+   ],
+   [
+    "thousands",
+    43.48
+   ],
+   [
+    "of",
+    44.16
+   ],
+   [
+    "years",
+    44.31
+   ]
+  ]
+ },
+ {
+  "s": 45.17,
+  "e": 48.8,
+  "text": "In Denmark, scientists found a lump of chewed birch tar",
+  "words": [
+   [
+    "in",
+    45.17
+   ],
+   [
+    "denmark",
+    45.33
+   ],
+   [
+    "scientists",
+    45.89
+   ],
+   [
+    "found",
+    46.7
+   ],
+   [
+    "a",
+    47.1
+   ],
+   [
+    "lump",
+    47.18
+   ],
+   [
+    "of",
+    47.51
+   ],
+   [
+    "chewed",
+    47.67
+   ],
+   [
+    "birch",
+    48.15
+   ],
+   [
+    "tar",
+    48.56
+   ]
+  ]
+ },
+ {
+  "s": 49.19,
+  "e": 51.62,
+  "text": "about five thousand seven hundred years old.",
+  "words": [
+   [
+    "about",
+    49.19
+   ],
+   [
+    "five",
+    49.52
+   ],
+   [
+    "thousand",
+    49.78
+   ],
+   [
+    "seven",
+    50.31
+   ],
+   [
+    "hundred",
+    50.63
+   ],
+   [
+    "years",
+    51.1
+   ],
+   [
+    "old",
+    51.42
+   ]
+  ]
+ },
+ {
+  "s": 52.03,
+  "e": 55.42,
+  "text": "It still held the chewer's DNA, and her tooth marks.",
+  "words": [
+   [
+    "it",
+    52.03
+   ],
+   [
+    "still",
+    52.2
+   ],
+   [
+    "held",
+    52.63
+   ],
+   [
+    "the",
+    52.97
+   ],
+   [
+    "chewers",
+    53.22
+   ],
+   [
+    "dna",
+    53.81
+   ],
+   [
+    "and",
+    54.07
+   ],
+   [
+    "her",
+    54.32
+   ],
+   [
+    "tooth",
+    54.58
+   ],
+   [
+    "marks",
+    55.0
+   ]
+  ]
+ },
+ {
+  "s": 55.78,
+  "e": 57.93,
+  "text": "Far away, the Maya chewed chicle,",
+  "words": [
+   [
+    "far",
+    55.78
+   ],
+   [
+    "away",
+    56.03
+   ],
+   [
+    "the",
+    56.36
+   ],
+   [
+    "maya",
+    56.61
+   ],
+   [
+    "chewed",
+    56.94
+   ],
+   [
+    "chicle",
+    57.44
+   ]
+  ]
+ },
+ {
+  "s": 58.28,
+  "e": 60.82,
+  "text": "a milky sap tapped from the sapodilla tree.",
+  "words": [
+   [
+    "a",
+    58.28
+   ],
+   [
+    "milky",
+    58.36
+   ],
+   [
+    "sap",
+    58.72
+   ],
+   [
+    "tapped",
+    58.94
+   ],
+   [
+    "from",
+    59.37
+   ],
+   [
+    "the",
+    59.66
+   ],
+   [
+    "sapodilla",
+    59.88
+   ],
+   [
+    "tree",
+    60.53
+   ]
+  ]
+ },
+ {
+  "s": 61.27,
+  "e": 64.89,
+  "text": "In the eighteen seventies, an inventor named Thomas Adams",
+  "words": [
+   [
+    "in",
+    61.27
+   ],
+   [
+    "the",
+    61.42
+   ],
+   [
+    "eighteen",
+    61.65
+   ],
+   [
+    "seventies",
+    62.25
+   ],
+   [
+    "an",
+    62.93
+   ],
+   [
+    "inventor",
+    63.08
+   ],
+   [
+    "named",
+    63.69
+   ],
+   [
+    "thomas",
+    64.06
+   ],
+   [
+    "adams",
+    64.52
+   ]
+  ]
+ },
+ {
+  "s": 65.15,
+  "e": 68.7,
+  "text": "started selling chicle as chewing gum in America.",
+  "words": [
+   [
+    "started",
+    65.15
+   ],
+   [
+    "selling",
+    65.76
+   ],
+   [
+    "chicle",
+    66.37
+   ],
+   [
+    "as",
+    66.88
+   ],
+   [
+    "chewing",
+    67.06
+   ],
+   [
+    "gum",
+    67.66
+   ],
+   [
+    "in",
+    67.92
+   ],
+   [
+    "america",
+    68.1
+   ]
+  ]
+ },
+ {
+  "s": 69.08,
+  "e": 71.45,
+  "text": "Today most gum starts with a gum base,",
+  "words": [
+   [
+    "today",
+    69.08
+   ],
+   [
+    "most",
+    69.48
+   ],
+   [
+    "gum",
+    69.79
+   ],
+   [
+    "starts",
+    70.03
+   ],
+   [
+    "with",
+    70.51
+   ],
+   [
+    "a",
+    70.82
+   ],
+   [
+    "gum",
+    70.9
+   ],
+   [
+    "base",
+    71.14
+   ]
+  ]
+ },
+ {
+  "s": 71.8,
+  "e": 74.21,
+  "text": "made of rubbery, food-grade polymers.",
+  "words": [
+   [
+    "made",
+    71.8
+   ],
+   [
+    "of",
+    72.12
+   ],
+   [
+    "rubbery",
+    72.29
+   ],
+   [
+    "foodgrade",
+    72.85
+   ],
+   [
+    "polymers",
+    73.57
+   ]
+  ]
+ },
+ {
+  "s": 74.57,
+  "e": 77.88,
+  "text": "Then sweetener, softeners and flavour get mixed in.",
+  "words": [
+   [
+    "then",
+    74.57
+   ],
+   [
+    "sweetener",
+    74.88
+   ],
+   [
+    "softeners",
+    75.59
+   ],
+   [
+    "and",
+    76.3
+   ],
+   [
+    "flavour",
+    76.54
+   ],
+   [
+    "get",
+    77.09
+   ],
+   [
+    "mixed",
+    77.33
+   ],
+   [
+    "in",
+    77.72
+   ]
+  ]
+ },
+ {
+  "s": 78.33,
+  "e": 80.88,
+  "text": "Chapter three. Why you can't digest it.",
+  "words": [
+   [
+    "chapter",
+    78.33
+   ],
+   [
+    "three",
+    78.93
+   ],
+   [
+    "why",
+    79.35
+   ],
+   [
+    "you",
+    79.61
+   ],
+   [
+    "cant",
+    79.86
+   ],
+   [
+    "digest",
+    80.2
+   ],
+   [
+    "it",
+    80.71
+   ]
+  ]
+ },
+ {
+  "s": 81.28,
+  "e": 83.86,
+  "text": "Digestion is mostly chemistry.",
+  "words": [
+   [
+    "digestion",
+    81.28
+   ],
+   [
+    "is",
+    82.17
+   ],
+   [
+    "mostly",
+    82.37
+   ],
+   [
+    "chemistry",
+    82.97
+   ]
+  ]
+ },
+ {
+  "s": 84.23,
+  "e": 87.03,
+  "text": "Your spit, stomach and gut make enzymes,",
+  "words": [
+   [
+    "your",
+    84.23
+   ],
+   [
+    "spit",
+    84.58
+   ],
+   [
+    "stomach",
+    84.93
+   ],
+   [
+    "and",
+    85.54
+   ],
+   [
+    "gut",
+    85.8
+   ],
+   [
+    "make",
+    86.06
+   ],
+   [
+    "enzymes",
+    86.41
+   ]
+  ]
+ },
+ {
+  "s": 87.42,
+  "e": 90.87,
+  "text": "tiny molecular scissors that snip food into pieces.",
+  "words": [
+   [
+    "tiny",
+    87.42
+   ],
+   [
+    "molecular",
+    87.74
+   ],
+   [
+    "scissors",
+    88.46
+   ],
+   [
+    "that",
+    89.1
+   ],
+   [
+    "snip",
+    89.43
+   ],
+   [
+    "food",
+    89.75
+   ],
+   [
+    "into",
+    90.07
+   ],
+   [
+    "pieces",
+    90.39
+   ]
+  ]
+ },
+ {
+  "s": 91.22,
+  "e": 95.41,
+  "text": "One kind cuts starch, one cuts protein, and one cuts fat.",
+  "words": [
+   [
+    "one",
+    91.22
+   ],
+   [
+    "kind",
+    91.51
+   ],
+   [
+    "cuts",
+    91.89
+   ],
+   [
+    "starch",
+    92.27
+   ],
+   [
+    "one",
+    92.84
+   ],
+   [
+    "cuts",
+    93.13
+   ],
+   [
+    "protein",
+    93.51
+   ],
+   [
+    "and",
+    94.17
+   ],
+   [
+    "one",
+    94.46
+   ],
+   [
+    "cuts",
+    94.74
+   ],
+   [
+    "fat",
+    95.12
+   ]
+  ]
+ },
+ {
+  "s": 95.78,
+  "e": 99.72,
+  "text": "The sugar and flavour in gum dissolve away while you chew.",
+  "words": [
+   [
+    "the",
+    95.78
+   ],
+   [
+    "sugar",
+    96.04
+   ],
+   [
+    "and",
+    96.45
+   ],
+   [
+    "flavour",
+    96.71
+   ],
+   [
+    "in",
+    97.29
+   ],
+   [
+    "gum",
+    97.46
+   ],
+   [
+    "dissolve",
+    97.71
+   ],
+   [
+    "away",
+    98.38
+   ],
+   [
+    "while",
+    98.72
+   ],
+   [
+    "you",
+    99.14
+   ],
+   [
+    "chew",
+    99.39
+   ]
+  ]
+ },
+ {
+  "s": 100.08,
+  "e": 103.34,
+  "text": "But the gum base is made of long, tangled chains",
+  "words": [
+   [
+    "but",
+    100.08
+   ],
+   [
+    "the",
+    100.34
+   ],
+   [
+    "gum",
+    100.6
+   ],
+   [
+    "base",
+    100.85
+   ],
+   [
+    "is",
+    101.2
+   ],
+   [
+    "made",
+    101.37
+   ],
+   [
+    "of",
+    101.71
+   ],
+   [
+    "long",
+    101.88
+   ],
+   [
+    "tangled",
+    102.23
+   ],
+   [
+    "chains",
+    102.83
+   ]
+  ]
+ },
+ {
+  "s": 103.74,
+  "e": 105.63,
+  "text": "that none of those scissors can cut.",
+  "words": [
+   [
+    "that",
+    103.74
+   ],
+   [
+    "none",
+    104.0
+   ],
+   [
+    "of",
+    104.26
+   ],
+   [
+    "those",
+    104.39
+   ],
+   [
+    "scissors",
+    104.72
+   ],
+   [
+    "can",
+    105.24
+   ],
+   [
+    "cut",
+    105.44
+   ]
+  ]
+ },
+ {
+  "s": 106.09,
+  "e": 108.96,
+  "text": "Even your stomach acid barely touches it.",
+  "words": [
+   [
+    "even",
+    106.09
+   ],
+   [
+    "your",
+    106.43
+   ],
+   [
+    "stomach",
+    106.77
+   ],
+   [
+    "acid",
+    107.36
+   ],
+   [
+    "barely",
+    107.7
+   ],
+   [
+    "touches",
+    108.2
+   ],
+   [
+    "it",
+    108.79
+   ]
+  ]
+ },
+ {
+  "s": 109.42,
+  "e": 112.81,
+  "text": "So the rubbery part stays rubbery, the whole way through.",
+  "words": [
+   [
+    "so",
+    109.42
+   ],
+   [
+    "the",
+    109.56
+   ],
+   [
+    "rubbery",
+    109.78
+   ],
+   [
+    "part",
+    110.3
+   ],
+   [
+    "stays",
+    110.6
+   ],
+   [
+    "rubbery",
+    110.96
+   ],
+   [
+    "the",
+    111.48
+   ],
+   [
+    "whole",
+    111.7
+   ],
+   [
+    "way",
+    112.07
+   ],
+   [
+    "through",
+    112.29
+   ]
+  ]
+ },
+ {
+  "s": 113.17,
+  "e": 115.06,
+  "text": "And honestly, that's fine.",
+  "words": [
+   [
+    "and",
+    113.17
+   ],
+   [
+    "honestly",
+    113.45
+   ],
+   [
+    "thats",
+    114.21
+   ],
+   [
+    "fine",
+    114.68
+   ]
+  ]
+ },
+ {
+  "s": 115.37,
+  "e": 119.28,
+  "text": "Your body handles stuff it can't digest every single day.",
+  "words": [
+   [
+    "your",
+    115.37
+   ],
+   [
+    "body",
+    115.71
+   ],
+   [
+    "handles",
+    116.05
+   ],
+   [
+    "stuff",
+    116.64
+   ],
+   [
+    "it",
+    117.07
+   ],
+   [
+    "cant",
+    117.24
+   ],
+   [
+    "digest",
+    117.58
+   ],
+   [
+    "every",
+    118.09
+   ],
+   [
+    "single",
+    118.51
+   ],
+   [
+    "day",
+    119.02
+   ]
+  ]
+ },
+ {
+  "s": 119.63,
+  "e": 121.79,
+  "text": "Chapter four. The journey out.",
+  "words": [
+   [
+    "chapter",
+    119.63
+   ],
+   [
+    "four",
+    120.26
+   ],
+   [
+    "the",
+    120.62
+   ],
+   [
+    "journey",
+    120.89
+   ],
+   [
+    "out",
+    121.52
+   ]
+  ]
+ },
+ {
+  "s": 122.19,
+  "e": 126.26,
+  "text": "Once you swallow, the gum slides down your food pipe in seconds.",
+  "words": [
+   [
+    "once",
+    122.19
+   ],
+   [
+    "you",
+    122.51
+   ],
+   [
+    "swallow",
+    122.75
+   ],
+   [
+    "the",
+    123.31
+   ],
+   [
+    "gum",
+    123.54
+   ],
+   [
+    "slides",
+    123.78
+   ],
+   [
+    "down",
+    124.26
+   ],
+   [
+    "your",
+    124.58
+   ],
+   [
+    "food",
+    124.9
+   ],
+   [
+    "pipe",
+    125.22
+   ],
+   [
+    "in",
+    125.54
+   ],
+   [
+    "seconds",
+    125.7
+   ]
+  ]
+ },
+ {
+  "s": 126.69,
+  "e": 130.45,
+  "text": "In your stomach, strong muscle walls churn it with your lunch.",
+  "words": [
+   [
+    "in",
+    126.69
+   ],
+   [
+    "your",
+    126.84
+   ],
+   [
+    "stomach",
+    127.14
+   ],
+   [
+    "strong",
+    127.67
+   ],
+   [
+    "muscle",
+    128.12
+   ],
+   [
+    "walls",
+    128.57
+   ],
+   [
+    "churn",
+    128.95
+   ],
+   [
+    "it",
+    129.32
+   ],
+   [
+    "with",
+    129.47
+   ],
+   [
+    "your",
+    129.77
+   ],
+   [
+    "lunch",
+    130.07
+   ]
+  ]
+ },
+ {
+  "s": 130.9,
+  "e": 133.36,
+  "text": "Then it squeezes through a little gate at the bottom,",
+  "words": [
+   [
+    "then",
+    130.9
+   ],
+   [
+    "it",
+    131.13
+   ],
+   [
+    "squeezes",
+    131.25
+   ],
+   [
+    "through",
+    131.7
+   ],
+   [
+    "a",
+    132.1
+   ],
+   [
+    "little",
+    132.16
+   ],
+   [
+    "gate",
+    132.5
+   ],
+   [
+    "at",
+    132.73
+   ],
+   [
+    "the",
+    132.85
+   ],
+   [
+    "bottom",
+    133.02
+   ]
+  ]
+ },
+ {
+  "s": 133.77,
+  "e": 135.32,
+  "text": "into your small intestine,",
+  "words": [
+   [
+    "into",
+    133.77
+   ],
+   [
+    "your",
+    134.05
+   ],
+   [
+    "small",
+    134.34
+   ],
+   [
+    "intestine",
+    134.69
+   ]
+  ]
+ },
+ {
+  "s": 135.67,
+  "e": 138.74,
+  "text": "a tube roughly six metres long, all folded up.",
+  "words": [
+   [
+    "a",
+    135.67
+   ],
+   [
+    "tube",
+    135.76
+   ],
+   [
+    "roughly",
+    136.1
+   ],
+   [
+    "six",
+    136.69
+   ],
+   [
+    "metres",
+    136.95
+   ],
+   [
+    "long",
+    137.46
+   ],
+   [
+    "all",
+    137.8
+   ],
+   [
+    "folded",
+    138.05
+   ],
+   [
+    "up",
+    138.57
+   ]
+  ]
+ },
+ {
+  "s": 139.21,
+  "e": 143.03,
+  "text": "Waves of muscle push it along, like toothpaste in a tube.",
+  "words": [
+   [
+    "waves",
+    139.21
+   ],
+   [
+    "of",
+    139.64
+   ],
+   [
+    "muscle",
+    139.81
+   ],
+   [
+    "push",
+    140.31
+   ],
+   [
+    "it",
+    140.65
+   ],
+   [
+    "along",
+    140.82
+   ],
+   [
+    "like",
+    141.25
+   ],
+   [
+    "toothpaste",
+    141.59
+   ],
+   [
+    "in",
+    142.43
+   ],
+   [
+    "a",
+    142.6
+   ],
+   [
+    "tube",
+    142.69
+   ]
+  ]
+ },
+ {
+  "s": 143.41,
+  "e": 146.89,
+  "text": "And between meals, your gut runs a cleanup cycle.",
+  "words": [
+   [
+    "and",
+    143.41
+   ],
+   [
+    "between",
+    143.68
+   ],
+   [
+    "meals",
+    144.3
+   ],
+   [
+    "your",
+    144.75
+   ],
+   [
+    "gut",
+    145.11
+   ],
+   [
+    "runs",
+    145.37
+   ],
+   [
+    "a",
+    145.73
+   ],
+   [
+    "cleanup",
+    145.82
+   ],
+   [
+    "cycle",
+    146.45
+   ]
+  ]
+ },
+ {
+  "s": 147.33,
+  "e": 149.51,
+  "text": "Every ninety minutes to two hours or so,",
+  "words": [
+   [
+    "every",
+    147.33
+   ],
+   [
+    "ninety",
+    147.67
+   ],
+   [
+    "minutes",
+    148.08
+   ],
+   [
+    "to",
+    148.56
+   ],
+   [
+    "two",
+    148.69
+   ],
+   [
+    "hours",
+    148.9
+   ],
+   [
+    "or",
+    149.24
+   ],
+   [
+    "so",
+    149.37
+   ]
+  ]
+ },
+ {
+  "s": 149.92,
+  "e": 152.85,
+  "text": "a strong wave sweeps the leftovers onward.",
+  "words": [
+   [
+    "a",
+    149.92
+   ],
+   [
+    "strong",
+    150.01
+   ],
+   [
+    "wave",
+    150.51
+   ],
+   [
+    "sweeps",
+    150.84
+   ],
+   [
+    "the",
+    151.35
+   ],
+   [
+    "leftovers",
+    151.6
+   ],
+   [
+    "onward",
+    152.35
+   ]
+  ]
+ },
+ {
+  "s": 153.24,
+  "e": 155.83,
+  "text": "Scientists nicknamed it the housekeeper.",
+  "words": [
+   [
+    "scientists",
+    153.24
+   ],
+   [
+    "nicknamed",
+    153.98
+   ],
+   [
+    "it",
+    154.64
+   ],
+   [
+    "the",
+    154.79
+   ],
+   [
+    "housekeeper",
+    155.01
+   ]
+  ]
+ },
+ {
+  "s": 156.27,
+  "e": 160.0,
+  "text": "The gum rides along with corn skins, seeds and fibre,",
+  "words": [
+   [
+    "the",
+    156.27
+   ],
+   [
+    "gum",
+    156.53
+   ],
+   [
+    "rides",
+    156.8
+   ],
+   [
+    "along",
+    157.24
+   ],
+   [
+    "with",
+    157.69
+   ],
+   [
+    "corn",
+    158.04
+   ],
+   [
+    "skins",
+    158.4
+   ],
+   [
+    "seeds",
+    158.84
+   ],
+   [
+    "and",
+    159.29
+   ],
+   [
+    "fibre",
+    159.55
+   ]
+  ]
+ },
+ {
+  "s": 160.42,
+  "e": 161.9,
+  "text": "through the large intestine,",
+  "words": [
+   [
+    "through",
+    160.42
+   ],
+   [
+    "the",
+    160.85
+   ],
+   [
+    "large",
+    161.03
+   ],
+   [
+    "intestine",
+    161.34
+   ]
+  ]
+ },
+ {
+  "s": 162.27,
+  "e": 165.72,
+  "text": "and out with everything else, usually within a few days.",
+  "words": [
+   [
+    "and",
+    162.27
+   ],
+   [
+    "out",
+    162.5
+   ],
+   [
+    "with",
+    162.73
+   ],
+   [
+    "everything",
+    163.03
+   ],
+   [
+    "else",
+    163.8
+   ],
+   [
+    "usually",
+    164.11
+   ],
+   [
+    "within",
+    164.64
+   ],
+   [
+    "a",
+    165.11
+   ],
+   [
+    "few",
+    165.18
+   ],
+   [
+    "days",
+    165.41
+   ]
+  ]
+ },
+ {
+  "s": 166.06,
+  "e": 168.43,
+  "text": "Chapter five. When it can go wrong.",
+  "words": [
+   [
+    "chapter",
+    166.06
+   ],
+   [
+    "five",
+    166.67
+   ],
+   [
+    "when",
+    167.03
+   ],
+   [
+    "it",
+    167.38
+   ],
+   [
+    "can",
+    167.55
+   ],
+   [
+    "go",
+    167.82
+   ],
+   [
+    "wrong",
+    167.99
+   ]
+  ]
+ },
+ {
+  "s": 168.83,
+  "e": 171.9,
+  "text": "So one swallowed piece is no big deal.",
+  "words": [
+   [
+    "so",
+    168.83
+   ],
+   [
+    "one",
+    169.04
+   ],
+   [
+    "swallowed",
+    169.35
+   ],
+   [
+    "piece",
+    170.27
+   ],
+   [
+    "is",
+    170.78
+   ],
+   [
+    "no",
+    170.98
+   ],
+   [
+    "big",
+    171.19
+   ],
+   [
+    "deal",
+    171.49
+   ]
+  ]
+ },
+ {
+  "s": 172.36,
+  "e": 175.42,
+  "text": "But doctors have reported rare cases in young kids",
+  "words": [
+   [
+    "but",
+    172.36
+   ],
+   [
+    "doctors",
+    172.58
+   ],
+   [
+    "have",
+    173.09
+   ],
+   [
+    "reported",
+    173.38
+   ],
+   [
+    "rare",
+    173.96
+   ],
+   [
+    "cases",
+    174.25
+   ],
+   [
+    "in",
+    174.62
+   ],
+   [
+    "young",
+    174.76
+   ],
+   [
+    "kids",
+    175.13
+   ]
+  ]
+ },
+ {
+  "s": 175.72,
+  "e": 179.12,
+  "text": "who swallowed gum every day, piece after piece.",
+  "words": [
+   [
+    "who",
+    175.72
+   ],
+   [
+    "swallowed",
+    175.99
+   ],
+   [
+    "gum",
+    176.79
+   ],
+   [
+    "every",
+    177.06
+   ],
+   [
+    "day",
+    177.51
+   ],
+   [
+    "piece",
+    177.78
+   ],
+   [
+    "after",
+    178.23
+   ],
+   [
+    "piece",
+    178.67
+   ]
+  ]
+ },
+ {
+  "s": 179.55,
+  "e": 183.22,
+  "text": "The gum clumped together, sometimes with coins or seeds,",
+  "words": [
+   [
+    "the",
+    179.55
+   ],
+   [
+    "gum",
+    179.79
+   ],
+   [
+    "clumped",
+    180.03
+   ],
+   [
+    "together",
+    180.59
+   ],
+   [
+    "sometimes",
+    181.23
+   ],
+   [
+    "with",
+    181.95
+   ],
+   [
+    "coins",
+    182.27
+   ],
+   [
+    "or",
+    182.66
+   ],
+   [
+    "seeds",
+    182.82
+   ]
+  ]
+ },
+ {
+  "s": 183.57,
+  "e": 185.6,
+  "text": "into a sticky ball that got stuck.",
+  "words": [
+   [
+    "into",
+    183.57
+   ],
+   [
+    "a",
+    183.87
+   ],
+   [
+    "sticky",
+    183.95
+   ],
+   [
+    "ball",
+    184.4
+   ],
+   [
+    "that",
+    184.7
+   ],
+   [
+    "got",
+    185.0
+   ],
+   [
+    "stuck",
+    185.22
+   ]
+  ]
+ },
+ {
+  "s": 186.03,
+  "e": 189.41,
+  "text": "Those cases are rare, and they took a lot of gum.",
+  "words": [
+   [
+    "those",
+    186.03
+   ],
+   [
+    "cases",
+    186.48
+   ],
+   [
+    "are",
+    186.94
+   ],
+   [
+    "rare",
+    187.22
+   ],
+   [
+    "and",
+    187.58
+   ],
+   [
+    "they",
+    187.86
+   ],
+   [
+    "took",
+    188.22
+   ],
+   [
+    "a",
+    188.59
+   ],
+   [
+    "lot",
+    188.68
+   ],
+   [
+    "of",
+    188.95
+   ],
+   [
+    "gum",
+    189.14
+   ]
+  ]
+ },
+ {
+  "s": 189.77,
+  "e": 193.4,
+  "text": "So the best place for gum is still the bin, not your belly.",
+  "words": [
+   [
+    "so",
+    189.77
+   ],
+   [
+    "the",
+    189.93
+   ],
+   [
+    "best",
+    190.17
+   ],
+   [
+    "place",
+    190.5
+   ],
+   [
+    "for",
+    190.9
+   ],
+   [
+    "gum",
+    191.14
+   ],
+   [
+    "is",
+    191.38
+   ],
+   [
+    "still",
+    191.54
+   ],
+   [
+    "the",
+    191.95
+   ],
+   [
+    "bin",
+    192.19
+   ],
+   [
+    "not",
+    192.43
+   ],
+   [
+    "your",
+    192.67
+   ],
+   [
+    "belly",
+    193.0
+   ]
+  ]
+ },
+ {
+  "s": 193.76,
+  "e": 195.45,
+  "text": "The seven-year myth is wrong,",
+  "words": [
+   [
+    "the",
+    193.76
+   ],
+   [
+    "sevenyear",
+    193.98
+   ],
+   [
+    "myth",
+    194.64
+   ],
+   [
+    "is",
+    194.93
+   ],
+   [
+    "wrong",
+    195.08
+   ]
+  ]
+ },
+ {
+  "s": 195.8,
+  "e": 197.75,
+  "text": "but it's wrong in an interesting way.",
+  "words": [
+   [
+    "but",
+    195.8
+   ],
+   [
+    "its",
+    196.0
+   ],
+   [
+    "wrong",
+    196.2
+   ],
+   [
+    "in",
+    196.54
+   ],
+   [
+    "an",
+    196.67
+   ],
+   [
+    "interesting",
+    196.81
+   ],
+   [
+    "way",
+    197.55
+   ]
+  ]
+ },
+ {
+  "s": 198.21,
+  "e": 200.43,
+  "text": "Your body can't break gum down.",
+  "words": [
+   [
+    "your",
+    198.21
+   ],
+   [
+    "body",
+    198.58
+   ],
+   [
+    "cant",
+    198.95
+   ],
+   [
+    "break",
+    199.32
+   ],
+   [
+    "gum",
+    199.78
+   ],
+   [
+    "down",
+    200.06
+   ]
+  ]
+ },
+ {
+  "s": 200.8,
+  "e": 203.75,
+  "text": "It simply moves it along, and shows it the door.",
+  "words": [
+   [
+    "it",
+    200.8
+   ],
+   [
+    "simply",
+    200.96
+   ],
+   [
+    "moves",
+    201.43
+   ],
+   [
+    "it",
+    201.83
+   ],
+   [
+    "along",
+    201.99
+   ],
+   [
+    "and",
+    202.39
+   ],
+   [
+    "shows",
+    202.63
+   ],
+   [
+    "it",
+    203.03
+   ],
+   [
+    "the",
+    203.19
+   ],
+   [
+    "door",
+    203.43
+   ]
+  ]
+ },
+ {
+  "s": 204.22,
+  "e": 206.59,
+  "text": "Next time, why are sloths so slow?",
+  "words": [
+   [
+    "next",
+    204.22
+   ],
+   [
+    "time",
+    204.59
+   ],
+   [
+    "why",
+    204.95
+   ],
+   [
+    "are",
+    205.22
+   ],
+   [
+    "sloths",
+    205.5
+   ],
+   [
+    "so",
+    206.04
+   ],
+   [
+    "slow",
+    206.22
+   ]
+  ]
+ },
+ {
+  "s": 207.07,
+  "e": 209.57,
+  "text": "And how does being slow keep them alive?",
+  "words": [
+   [
+    "and",
+    207.07
+   ],
+   [
+    "how",
+    207.3
+   ],
+   [
+    "does",
+    207.54
+   ],
+   [
+    "being",
+    207.85
+   ],
+   [
+    "slow",
+    208.24
+   ],
+   [
+    "keep",
+    208.55
+   ],
+   [
+    "them",
+    208.87
+   ],
+   [
+    "alive",
+    209.18
+   ]
+  ]
+ }
+]
