@@ -1,0 +1,721 @@
+[
+ {
+  "s": 0.25,
+  "e": 1.7,
+  "text": "A sea otter has no blubber,",
+  "words": [
+   [
+    "a",
+    0.25
+   ],
+   [
+    "sea",
+    0.32
+   ],
+   [
+    "otter",
+    0.53
+   ],
+   [
+    "has",
+    0.87
+   ],
+   [
+    "no",
+    1.08
+   ],
+   [
+    "blubber",
+    1.22
+   ]
+  ]
+ },
+ {
+  "s": 1.85,
+  "e": 4.1,
+  "text": "but you'd freeze long before it would. Why?",
+  "words": [
+   [
+    "but",
+    1.85
+   ],
+   [
+    "youd",
+    2.05
+   ],
+   [
+    "freeze",
+    2.33
+   ],
+   [
+    "long",
+    2.74
+   ],
+   [
+    "before",
+    3.01
+   ],
+   [
+    "it",
+    3.42
+   ],
+   [
+    "would",
+    3.55
+   ],
+   [
+    "why",
+    3.9
+   ]
+  ]
+ },
+ {
+  "s": 4.62,
+  "e": 6.86,
+  "text": "Whales and seals wrap up in thick fat.",
+  "words": [
+   [
+    "whales",
+    4.62
+   ],
+   [
+    "and",
+    5.07
+   ],
+   [
+    "seals",
+    5.29
+   ],
+   [
+    "wrap",
+    5.67
+   ],
+   [
+    "up",
+    5.97
+   ],
+   [
+    "in",
+    6.11
+   ],
+   [
+    "thick",
+    6.26
+   ],
+   [
+    "fat",
+    6.64
+   ]
+  ]
+ },
+ {
+  "s": 7.21,
+  "e": 8.56,
+  "text": "The otter's secret is fur.",
+  "words": [
+   [
+    "the",
+    7.21
+   ],
+   [
+    "otters",
+    7.41
+   ],
+   [
+    "secret",
+    7.82
+   ],
+   [
+    "is",
+    8.22
+   ],
+   [
+    "fur",
+    8.36
+   ]
+  ]
+ },
+ {
+  "s": 9.01,
+  "e": 11.38,
+  "text": "Up to a million hairs on every square inch,",
+  "words": [
+   [
+    "up",
+    9.01
+   ],
+   [
+    "to",
+    9.15
+   ],
+   [
+    "a",
+    9.29
+   ],
+   [
+    "million",
+    9.36
+   ],
+   [
+    "hairs",
+    9.85
+   ],
+   [
+    "on",
+    10.2
+   ],
+   [
+    "every",
+    10.34
+   ],
+   [
+    "square",
+    10.68
+   ],
+   [
+    "inch",
+    11.1
+   ]
+  ]
+ },
+ {
+  "s": 11.74,
+  "e": 13.37,
+  "text": "the densest fur of any animal.",
+  "words": [
+   [
+    "the",
+    11.74
+   ],
+   [
+    "densest",
+    11.94
+   ],
+   [
+    "fur",
+    12.42
+   ],
+   [
+    "of",
+    12.62
+   ],
+   [
+    "any",
+    12.76
+   ],
+   [
+    "animal",
+    12.96
+   ]
+  ]
+ },
+ {
+  "s": 13.75,
+  "e": 15.75,
+  "text": "That's more hairs on a stamp-sized patch",
+  "words": [
+   [
+    "thats",
+    13.75
+   ],
+   [
+    "more",
+    14.06
+   ],
+   [
+    "hairs",
+    14.31
+   ],
+   [
+    "on",
+    14.62
+   ],
+   [
+    "a",
+    14.75
+   ],
+   [
+    "stampsized",
+    14.81
+   ],
+   [
+    "patch",
+    15.44
+   ]
+  ]
+ },
+ {
+  "s": 15.81,
+  "e": 17.42,
+  "text": "than you have on your whole head.",
+  "words": [
+   [
+    "than",
+    15.81
+   ],
+   [
+    "you",
+    16.06
+   ],
+   [
+    "have",
+    16.24
+   ],
+   [
+    "on",
+    16.49
+   ],
+   [
+    "your",
+    16.61
+   ],
+   [
+    "whole",
+    16.86
+   ],
+   [
+    "head",
+    17.17
+   ]
+  ]
+ },
+ {
+  "s": 17.81,
+  "e": 19.37,
+  "text": "Those hairs trap a layer of air,",
+  "words": [
+   [
+    "those",
+    17.81
+   ],
+   [
+    "hairs",
+    18.12
+   ],
+   [
+    "trap",
+    18.44
+   ],
+   [
+    "a",
+    18.69
+   ],
+   [
+    "layer",
+    18.75
+   ],
+   [
+    "of",
+    19.06
+   ],
+   [
+    "air",
+    19.18
+   ]
+  ]
+ },
+ {
+  "s": 19.7,
+  "e": 21.79,
+  "text": "so cold water never touches its skin.",
+  "words": [
+   [
+    "so",
+    19.7
+   ],
+   [
+    "cold",
+    19.84
+   ],
+   [
+    "water",
+    20.12
+   ],
+   [
+    "never",
+    20.47
+   ],
+   [
+    "touches",
+    20.82
+   ],
+   [
+    "its",
+    21.3
+   ],
+   [
+    "skin",
+    21.51
+   ]
+  ]
+ },
+ {
+  "s": 22.22,
+  "e": 23.95,
+  "text": "That's why otters groom for hours,",
+  "words": [
+   [
+    "thats",
+    22.22
+   ],
+   [
+    "why",
+    22.54
+   ],
+   [
+    "otters",
+    22.73
+   ],
+   [
+    "groom",
+    23.12
+   ],
+   [
+    "for",
+    23.44
+   ],
+   [
+    "hours",
+    23.63
+   ]
+  ]
+ },
+ {
+  "s": 24.26,
+  "e": 25.73,
+  "text": "fluffing air into their coats.",
+  "words": [
+   [
+    "fluffing",
+    24.26
+   ],
+   [
+    "air",
+    24.73
+   ],
+   [
+    "into",
+    24.91
+   ],
+   [
+    "their",
+    25.14
+   ],
+   [
+    "coats",
+    25.44
+   ]
+  ]
+ },
+ {
+  "s": 26.08,
+  "e": 27.57,
+  "text": "But fur alone isn't enough.",
+  "words": [
+   [
+    "but",
+    26.08
+   ],
+   [
+    "fur",
+    26.29
+   ],
+   [
+    "alone",
+    26.5
+   ],
+   [
+    "isnt",
+    26.86
+   ],
+   [
+    "enough",
+    27.14
+   ]
+  ]
+ },
+ {
+  "s": 28.04,
+  "e": 29.84,
+  "text": "Its muscles leak energy as heat,",
+  "words": [
+   [
+    "its",
+    28.04
+   ],
+   [
+    "muscles",
+    28.25
+   ],
+   [
+    "leak",
+    28.73
+   ],
+   [
+    "energy",
+    29.01
+   ],
+   [
+    "as",
+    29.42
+   ],
+   [
+    "heat",
+    29.56
+   ]
+  ]
+ },
+ {
+  "s": 30.19,
+  "e": 32.0,
+  "text": "like an engine idling all day.",
+  "words": [
+   [
+    "like",
+    30.19
+   ],
+   [
+    "an",
+    30.49
+   ],
+   [
+    "engine",
+    30.64
+   ],
+   [
+    "idling",
+    31.09
+   ],
+   [
+    "all",
+    31.54
+   ],
+   [
+    "day",
+    31.77
+   ]
+  ]
+ },
+ {
+  "s": 32.46,
+  "e": 34.88,
+  "text": "So it burns fuel about three times faster",
+  "words": [
+   [
+    "so",
+    32.46
+   ],
+   [
+    "it",
+    32.6
+   ],
+   [
+    "burns",
+    32.74
+   ],
+   [
+    "fuel",
+    33.1
+   ],
+   [
+    "about",
+    33.38
+   ],
+   [
+    "three",
+    33.74
+   ],
+   [
+    "times",
+    34.1
+   ],
+   [
+    "faster",
+    34.45
+   ]
+  ]
+ },
+ {
+  "s": 34.88,
+  "e": 36.52,
+  "text": "than other animals its size.",
+  "words": [
+   [
+    "than",
+    34.88
+   ],
+   [
+    "other",
+    35.16
+   ],
+   [
+    "animals",
+    35.52
+   ],
+   [
+    "its",
+    36.02
+   ],
+   [
+    "size",
+    36.23
+   ]
+  ]
+ },
+ {
+  "s": 36.92,
+  "e": 39.53,
+  "text": "To keep up, it eats about a quarter of its body weight",
+  "words": [
+   [
+    "to",
+    36.92
+   ],
+   [
+    "keep",
+    37.04
+   ],
+   [
+    "up",
+    37.29
+   ],
+   [
+    "it",
+    37.42
+   ],
+   [
+    "eats",
+    37.54
+   ],
+   [
+    "about",
+    37.79
+   ],
+   [
+    "a",
+    38.1
+   ],
+   [
+    "quarter",
+    38.16
+   ],
+   [
+    "of",
+    38.6
+   ],
+   [
+    "its",
+    38.72
+   ],
+   [
+    "body",
+    38.91
+   ],
+   [
+    "weight",
+    39.16
+   ]
+  ]
+ },
+ {
+  "s": 39.75,
+  "e": 40.75,
+  "text": "every single day.",
+  "words": [
+   [
+    "every",
+    39.75
+   ],
+   [
+    "single",
+    40.11
+   ],
+   [
+    "day",
+    40.53
+   ]
+  ]
+ },
+ {
+  "s": 41.16,
+  "e": 43.41,
+  "text": "Would you trade your jacket for a million hairs,",
+  "words": [
+   [
+    "would",
+    41.16
+   ],
+   [
+    "you",
+    41.45
+   ],
+   [
+    "trade",
+    41.63
+   ],
+   [
+    "your",
+    41.91
+   ],
+   [
+    "jacket",
+    42.15
+   ],
+   [
+    "for",
+    42.49
+   ],
+   [
+    "a",
+    42.66
+   ],
+   [
+    "million",
+    42.72
+   ],
+   [
+    "hairs",
+    43.13
+   ]
+  ]
+ },
+ {
+  "s": 43.75,
+  "e": 45.4,
+  "text": "and a quarter of your weight in snacks?",
+  "words": [
+   [
+    "and",
+    43.75
+   ],
+   [
+    "a",
+    43.91
+   ],
+   [
+    "quarter",
+    43.97
+   ],
+   [
+    "of",
+    44.34
+   ],
+   [
+    "your",
+    44.45
+   ],
+   [
+    "weight",
+    44.66
+   ],
+   [
+    "in",
+    44.98
+   ],
+   [
+    "snacks",
+    45.08
+   ]
+  ]
+ }
+]
