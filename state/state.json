@@ -3128,6 +3128,76 @@
       },
       "srt": "1\n00:00:00,250 --> 00:00:04,460\nVultures eat rotten meat that would kill you, and never get sick. Why?\n\n2\n00:00:04,960 --> 00:00:08,070\nA carcass can be crawling with germs like anthrax,\n\n3\n00:00:08,470 --> 00:00:09,950\nand the vulture keeps eating.\n\n4\n00:00:10,340 --> 00:00:11,420\nFirst, the stomach.\n\n5\n00:00:11,740 --> 00:00:14,630\nVulture stomach acid sits close to pH 1,\n\n6\n00:00:15,140 --> 00:00:17,340\nnearly as strong as battery acid.\n\n7\n00:00:17,730 --> 00:00:19,340\nMost germs die right there.\n\n8\n00:00:19,800 --> 00:00:21,610\nIn one study of fifty vultures,\n\n9\n00:00:21,760 --> 00:00:26,780\nscientists found five hundred twenty-eight kinds of bacteria on their faces,\n\n10\n00:00:27,290 --> 00:00:29,660\nbut only seventy-six made it to the gut.\n\n11\n00:00:30,080 --> 00:00:31,560\nAnd the ones that survive?\n\n12\n00:00:32,140 --> 00:00:36,080\nTough, meat-eating microbes called Clostridia and Fusobacteria,\n\n13\n00:00:36,590 --> 00:00:39,010\ngerms that make most other animals sick.\n\n14\n00:00:39,400 --> 00:00:41,090\nIn a vulture, they're on the team,\n\n15\n00:00:41,480 --> 00:00:42,940\nhelping break down the meal.\n\n16\n00:00:43,280 --> 00:00:44,670\nBy cleaning up carcasses,\n\n17\n00:00:45,040 --> 00:00:47,470\nvultures stop those germs from spreading.\n\n18\n00:00:47,850 --> 00:00:48,810\nSo be honest.\n\n19\n00:00:49,180 --> 00:00:50,600\nWhich grosses you out more,\n\n20\n00:00:51,040 --> 00:00:54,720\nthe rotten meat, or the gut full of flesh-eating bacteria?\n\n",
       "tg_msg": 1121
+    },
+    "2026-11-14-105": {
+      "topic": {
+        "title": "Why do cats sleep up to 16 hours a day?",
+        "format": "animated",
+        "angle": "Halftone Dossier"
+      },
+      "package": {
+        "title": "Why Do Cats Sleep 16 Hours a Day? \ud83d\ude34",
+        "description": "Why do cats sleep so much? Cats are hunters built for short bursts of energy, so they nap 12 to 16 hours a day, mostly in light 15 to 30 minute dozes with their senses still on, and only about a quarter of it in deep sleep.\n\nSources:\nhttps://www.petmd.com/cat/behavior/why-do-cats-sleep-so-much\nhttps://www.pdsa.org.uk/what-we-do/blog/why-do-cats-sleep-so-much\nhttps://www.hillspet.com.au/cat-care/behavior-appearance/why-cats-sleep-so-much\n\nAnimated in the Halftone Dossier style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#cats",
+          "#animals",
+          "#science"
+        ],
+        "tags": [
+          "why do cats sleep so much",
+          "cat sleep",
+          "how many hours do cats sleep",
+          "cats sleep 16 hours",
+          "cat facts",
+          "crepuscular animals",
+          "why cats get zoomies at night",
+          "cat zoomies 5am",
+          "cat naps",
+          "animal facts",
+          "weird animal facts",
+          "science shorts",
+          "zorbly ai",
+          "pets explained"
+        ],
+        "category": "27",
+        "pinned_comment": "Be honest: is your cat asleep right now, or just pretending? \ud83d\ude3c",
+        "thumbnail_text": "BARELY ASLEEP",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "Your cat sleeps 16 hours a day, but it's almost never fully asleep. So why all the napping? Cats are hunters built for short explosive bursts. Stalking and pouncing burn a ton of energy in seconds, and plenty of pounces miss. So between hunts a cat powers down to save fuel for the next one. It's most awake at dawn and dusk, when mice are on the move. That's why yours goes wild at 5 a.m. Most of its sleep is light dozing, in naps of 15 to 30 minutes, senses still switched on. One tiny squeak, and it's awake. Only about a quarter is real deep sleep, in bursts of 5 to 7 minutes. So your cat isn't lazy. It's charging up for the next sprint. So is your cat asleep right now, or just waiting?",
+        "key_facts": [
+          "Cats sleep about 12-16 hours a day (PetMD, Hill's); PDSA average 15",
+          "Hunters that conserve energy between bursts of activity",
+          "Crepuscular: most active at dawn and dusk",
+          "Light dozes typically last 15-30 minutes, senses still alert (PDSA, PetMD)",
+          "About 25% of sleep is deep sleep, in 5-7 minute stretches (PDSA)"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Halftone Dossier"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261114-cat-sleep",
+      "redos": 0,
+      "updated": "2026-11-14T19:52:51.045677+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Halftone Dossier style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-14",
+        "name": "2026-11-14-105.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-14",
+        "name": "2026-11-14-105-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:02,090\nYour cat sleeps 16 hours a day,\n\n2\n00:00:02,450 --> 00:00:04,040\nbut it's almost never fully asleep.\n\n3\n00:00:04,420 --> 00:00:05,600\nSo why all the napping?\n\n4\n00:00:06,150 --> 00:00:08,860\nCats are hunters built for short explosive bursts.\n\n5\n00:00:09,240 --> 00:00:12,200\nStalking and pouncing burn a ton of energy in seconds,\n\n6\n00:00:12,570 --> 00:00:13,980\nand plenty of pounces miss.\n\n7\n00:00:14,390 --> 00:00:15,920\nSo between hunts a cat powers down\n\n8\n00:00:16,020 --> 00:00:18,170\nto save fuel for the next one.\n\n9\n00:00:18,540 --> 00:00:20,190\nIt's most awake at dawn and dusk,\n\n10\n00:00:20,480 --> 00:00:21,770\nwhen mice are on the move.\n\n11\n00:00:22,200 --> 00:00:24,730\nThat's why yours goes wild at 5 a.m.\n\n12\n00:00:25,150 --> 00:00:26,970\nMost of its sleep is light dozing,\n\n13\n00:00:27,290 --> 00:00:28,910\nin naps of 15 to 30 minutes,\n\n14\n00:00:29,250 --> 00:00:30,630\nsenses still switched on.\n\n15\n00:00:31,080 --> 00:00:32,950\nOne tiny squeak, and it's awake.\n\n16\n00:00:33,310 --> 00:00:35,520\nOnly about a quarter is real deep sleep,\n\n17\n00:00:35,930 --> 00:00:37,750\nin bursts of 5 to 7 minutes.\n\n18\n00:00:38,100 --> 00:00:39,490\nSo your cat isn't lazy.\n\n19\n00:00:39,850 --> 00:00:41,580\nIt's charging up for the next sprint.\n\n20\n00:00:42,010 --> 00:00:44,630\nSo is your cat asleep right now, or just waiting?\n\n",
+      "tg_msg": 1124
     }
   },
   "history": [
@@ -3322,7 +3392,8 @@
     "drop/20261114-sea-otter-fur": "2026-11-14-101",
     "drop/20261114-swallowed-gum": "2026-11-14-102",
     "drop/20261114-teeth-chatter": "2026-11-14-103",
-    "drop/20261114-vulture-gut": "2026-11-14-104"
+    "drop/20261114-vulture-gut": "2026-11-14-104",
+    "drop/20261114-cat-sleep": "2026-11-14-105"
   },
   "refs_day": "2026-11-14"
 }
