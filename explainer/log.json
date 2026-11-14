@@ -1225,5 +1225,17 @@
   "hook_score": 55,
   "voice": "af_heart",
   "notes": "unattended run, no storyboard; pick.py first offered Copperplate Engraving (Lemo) but cloning the Lemo repo was blocked in this sandbox, so used pick.py's Atlas pick Low-Poly Faceted (listed in the row's styles); added sheet rows S089-S090 from MinuteEarth breakouts"
+ },
+ {
+  "date": "2026-11-14",
+  "id": "20261114-teeth-chatter",
+  "kind": "short",
+  "style": "Flat-Vector Science",
+  "topic": "Why do your teeth chatter when you're cold?",
+  "title": "Why Teeth Chatter: Shivering Makes 5x the Heat 🥶",
+  "seconds": 53.9,
+  "words": 147,
+  "sheet_id": "S088",
+  "notes": "unattended run, no storyboard step"
  }
 ]

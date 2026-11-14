@@ -1,0 +1,744 @@
+[
+ {
+  "s": 0.25,
+  "e": 4.66,
+  "text": "Your chattering teeth mean your brain is burning fuel before you freeze.",
+  "words": [
+   [
+    "your",
+    0.25
+   ],
+   [
+    "chattering",
+    0.54
+   ],
+   [
+    "teeth",
+    1.28
+   ],
+   [
+    "mean",
+    1.65
+   ],
+   [
+    "your",
+    1.94
+   ],
+   [
+    "brain",
+    2.24
+   ],
+   [
+    "is",
+    2.6
+   ],
+   [
+    "burning",
+    2.75
+   ],
+   [
+    "fuel",
+    3.27
+   ],
+   [
+    "before",
+    3.56
+   ],
+   [
+    "you",
+    4.0
+   ],
+   [
+    "freeze",
+    4.22
+   ]
+  ]
+ },
+ {
+  "s": 5.07,
+  "e": 6.64,
+  "text": "When your skin senses cold,",
+  "words": [
+   [
+    "when",
+    5.07
+   ],
+   [
+    "your",
+    5.35
+   ],
+   [
+    "skin",
+    5.64
+   ],
+   [
+    "senses",
+    5.92
+   ],
+   [
+    "cold",
+    6.35
+   ]
+  ]
+ },
+ {
+  "s": 7.23,
+  "e": 10.06,
+  "text": "a spot deep in your brain called the hypothalamus",
+  "words": [
+   [
+    "a",
+    7.23
+   ],
+   [
+    "spot",
+    7.3
+   ],
+   [
+    "deep",
+    7.57
+   ],
+   [
+    "in",
+    7.85
+   ],
+   [
+    "your",
+    7.99
+   ],
+   [
+    "brain",
+    8.26
+   ],
+   [
+    "called",
+    8.61
+   ],
+   [
+    "the",
+    9.02
+   ],
+   [
+    "hypothalamus",
+    9.23
+   ]
+  ]
+ },
+ {
+  "s": 10.21,
+  "e": 11.34,
+  "text": "hits the panic button.",
+  "words": [
+   [
+    "hits",
+    10.21
+   ],
+   [
+    "the",
+    10.46
+   ],
+   [
+    "panic",
+    10.65
+   ],
+   [
+    "button",
+    10.97
+   ]
+  ]
+ },
+ {
+  "s": 11.69,
+  "e": 13.41,
+  "text": "It can't just crank up a thermostat,",
+  "words": [
+   [
+    "it",
+    11.69
+   ],
+   [
+    "cant",
+    11.81
+   ],
+   [
+    "just",
+    12.06
+   ],
+   [
+    "crank",
+    12.31
+   ],
+   [
+    "up",
+    12.61
+   ],
+   [
+    "a",
+    12.74
+   ],
+   [
+    "thermostat",
+    12.8
+   ]
+  ]
+ },
+ {
+  "s": 13.72,
+  "e": 15.24,
+  "text": "so it makes your muscles shiver.",
+  "words": [
+   [
+    "so",
+    13.72
+   ],
+   [
+    "it",
+    13.84
+   ],
+   [
+    "makes",
+    13.96
+   ],
+   [
+    "your",
+    14.25
+   ],
+   [
+    "muscles",
+    14.48
+   ],
+   [
+    "shiver",
+    14.89
+   ]
+  ]
+ },
+ {
+  "s": 15.63,
+  "e": 17.79,
+  "text": "Tiny fast squeezes, over and over,",
+  "words": [
+   [
+    "tiny",
+    15.63
+   ],
+   [
+    "fast",
+    15.95
+   ],
+   [
+    "squeezes",
+    16.27
+   ],
+   [
+    "over",
+    16.91
+   ],
+   [
+    "and",
+    17.23
+   ],
+   [
+    "over",
+    17.47
+   ]
+  ]
+ },
+ {
+  "s": 18.25,
+  "e": 20.73,
+  "text": "and every squeeze burns fuel and leaks heat.",
+  "words": [
+   [
+    "and",
+    18.25
+   ],
+   [
+    "every",
+    18.46
+   ],
+   [
+    "squeeze",
+    18.8
+   ],
+   [
+    "burns",
+    19.28
+   ],
+   [
+    "fuel",
+    19.63
+   ],
+   [
+    "and",
+    19.9
+   ],
+   [
+    "leaks",
+    20.11
+   ],
+   [
+    "heat",
+    20.46
+   ]
+  ]
+ },
+ {
+  "s": 21.12,
+  "e": 24.62,
+  "text": "At full blast, shivering can make about five times",
+  "words": [
+   [
+    "at",
+    21.12
+   ],
+   [
+    "full",
+    21.29
+   ],
+   [
+    "blast",
+    21.63
+   ],
+   [
+    "shivering",
+    22.05
+   ],
+   [
+    "can",
+    22.82
+   ],
+   [
+    "make",
+    23.08
+   ],
+   [
+    "about",
+    23.42
+   ],
+   [
+    "five",
+    23.85
+   ],
+   [
+    "times",
+    24.19
+   ]
+  ]
+ },
+ {
+  "s": 24.75,
+  "e": 26.33,
+  "text": "the heat your body makes at rest.",
+  "words": [
+   [
+    "the",
+    24.75
+   ],
+   [
+    "heat",
+    24.93
+   ],
+   [
+    "your",
+    25.17
+   ],
+   [
+    "body",
+    25.41
+   ],
+   [
+    "makes",
+    25.66
+   ],
+   [
+    "at",
+    25.96
+   ],
+   [
+    "rest",
+    26.08
+   ]
+  ]
+ },
+ {
+  "s": 26.73,
+  "e": 28.54,
+  "text": "Your jaw muscles join in too.",
+  "words": [
+   [
+    "your",
+    26.73
+   ],
+   [
+    "jaw",
+    27.04
+   ],
+   [
+    "muscles",
+    27.28
+   ],
+   [
+    "join",
+    27.83
+   ],
+   [
+    "in",
+    28.14
+   ],
+   [
+    "too",
+    28.3
+   ]
+  ]
+ },
+ {
+  "s": 28.89,
+  "e": 30.66,
+  "text": "But your jaw is small and light,",
+  "words": [
+   [
+    "but",
+    28.89
+   ],
+   [
+    "your",
+    29.1
+   ],
+   [
+    "jaw",
+    29.38
+   ],
+   [
+    "is",
+    29.6
+   ],
+   [
+    "small",
+    29.74
+   ],
+   [
+    "and",
+    30.09
+   ],
+   [
+    "light",
+    30.3
+   ]
+  ]
+ },
+ {
+  "s": 31.03,
+  "e": 32.29,
+  "text": "and it hangs on a hinge,",
+  "words": [
+   [
+    "and",
+    31.03
+   ],
+   [
+    "it",
+    31.24
+   ],
+   [
+    "hangs",
+    31.38
+   ],
+   [
+    "on",
+    31.73
+   ],
+   [
+    "a",
+    31.87
+   ],
+   [
+    "hinge",
+    31.94
+   ]
+  ]
+ },
+ {
+  "s": 32.64,
+  "e": 34.08,
+  "text": "so every twitch swings it.",
+  "words": [
+   [
+    "so",
+    32.64
+   ],
+   [
+    "every",
+    32.78
+   ],
+   [
+    "twitch",
+    33.12
+   ],
+   [
+    "swings",
+    33.53
+   ],
+   [
+    "it",
+    33.94
+   ]
+  ]
+ },
+ {
+  "s": 34.48,
+  "e": 36.28,
+  "text": "Top teeth smack bottom teeth.",
+  "words": [
+   [
+    "top",
+    34.48
+   ],
+   [
+    "teeth",
+    34.7
+   ],
+   [
+    "smack",
+    35.08
+   ],
+   [
+    "bottom",
+    35.46
+   ],
+   [
+    "teeth",
+    35.91
+   ]
+  ]
+ },
+ {
+  "s": 36.65,
+  "e": 37.71,
+  "text": "Click, click, click.",
+  "words": [
+   [
+    "click",
+    36.65
+   ],
+   [
+    "click",
+    37.0
+   ],
+   [
+    "click",
+    37.36
+   ]
+  ]
+ },
+ {
+  "s": 38.0,
+  "e": 40.11,
+  "text": "Your legs and back are shivering too,",
+  "words": [
+   [
+    "your",
+    38.0
+   ],
+   [
+    "legs",
+    38.28
+   ],
+   [
+    "and",
+    38.56
+   ],
+   [
+    "back",
+    38.77
+   ],
+   [
+    "are",
+    39.06
+   ],
+   [
+    "shivering",
+    39.27
+   ],
+   [
+    "too",
+    39.9
+   ]
+  ]
+ },
+ {
+  "s": 40.51,
+  "e": 42.04,
+  "text": "they're just too heavy to rattle.",
+  "words": [
+   [
+    "theyre",
+    40.51
+   ],
+   [
+    "just",
+    40.86
+   ],
+   [
+    "too",
+    41.1
+   ],
+   [
+    "heavy",
+    41.28
+   ],
+   [
+    "to",
+    41.57
+   ],
+   [
+    "rattle",
+    41.69
+   ]
+  ]
+ },
+ {
+  "s": 42.4,
+  "e": 44.53,
+  "text": "And honestly, that's kind of genius.",
+  "words": [
+   [
+    "and",
+    42.4
+   ],
+   [
+    "honestly",
+    42.63
+   ],
+   [
+    "thats",
+    43.24
+   ],
+   [
+    "kind",
+    43.62
+   ],
+   [
+    "of",
+    43.92
+   ],
+   [
+    "genius",
+    44.08
+   ]
+  ]
+ },
+ {
+  "s": 45.0,
+  "e": 47.78,
+  "text": "Your body turns its own muscles into a furnace.",
+  "words": [
+   [
+    "your",
+    45.0
+   ],
+   [
+    "body",
+    45.29
+   ],
+   [
+    "turns",
+    45.59
+   ],
+   [
+    "its",
+    45.95
+   ],
+   [
+    "own",
+    46.17
+   ],
+   [
+    "muscles",
+    46.39
+   ],
+   [
+    "into",
+    46.9
+   ],
+   [
+    "a",
+    47.19
+   ],
+   [
+    "furnace",
+    47.26
+   ]
+  ]
+ },
+ {
+  "s": 48.22,
+  "e": 49.2,
+  "text": "So be honest.",
+  "words": [
+   [
+    "so",
+    48.22
+   ],
+   [
+    "be",
+    48.42
+   ],
+   [
+    "honest",
+    48.61
+   ]
+  ]
+ },
+ {
+  "s": 49.49,
+  "e": 52.89,
+  "text": "When you're freezing, what chatters first, your teeth or your knees?",
+  "words": [
+   [
+    "when",
+    49.49
+   ],
+   [
+    "youre",
+    49.75
+   ],
+   [
+    "freezing",
+    50.06
+   ],
+   [
+    "what",
+    50.56
+   ],
+   [
+    "chatters",
+    50.81
+   ],
+   [
+    "first",
+    51.32
+   ],
+   [
+    "your",
+    51.63
+   ],
+   [
+    "teeth",
+    51.88
+   ],
+   [
+    "or",
+    52.2
+   ],
+   [
+    "your",
+    52.32
+   ],
+   [
+    "knees",
+    52.58
+   ]
+  ]
+ }
+]
