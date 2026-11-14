@@ -378,191 +378,6 @@
     }
   },
   "videos": {
-    "2026-11-07-104": {
-      "topic": {
-        "title": "The Panda Paradox: why does a meat-eater's body live on bamboo?",
-        "format": "animated",
-        "angle": "Kawaii Anime"
-      },
-      "package": {
-        "title": "Pandas Waste 83% of Their Bamboo. Why? \ud83d\udc3c",
-        "description": "Why do pandas eat bamboo all day? Giant pandas have a carnivore's short, simple gut, so they digest only about 17% of their bamboo and survive by eating up to 14 hours a day and saving energy with a slow thyroid and lots of rest.\n\nSources:\nhttps://www.livescience.com/50871-pandas-gut-bacteria-bamboo-digestion.html\nhttps://phys.org/news/2015-07-under-active-pandas-energy-sloths.html\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC3144909\n\nAnimated in the Kawaii Anime style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#animals",
-          "#panda",
-          "#science"
-        ],
-        "tags": [
-          "why do pandas eat bamboo",
-          "panda bamboo",
-          "giant panda facts",
-          "panda digestion",
-          "carnivore eating bamboo",
-          "panda gut",
-          "why are pandas lazy",
-          "panda energy",
-          "panda umami gene",
-          "animal facts",
-          "animal science",
-          "explainer",
-          "kawaii animation"
-        ],
-        "category": "27",
-        "pinned_comment": "Could you eat just one food every day, like a panda? Which food would it be?",
-        "thumbnail_text": "MEAT-EATER GUT",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "Pandas waste eighty-three percent of the bamboo they eat.\nHere's why you never see it.\nInside, a panda has a meat-eater's gut,\nbuilt just like a bear's:\nshort, simple intestines,\nand no cow-style stomach chambers.\nSo bamboo rushes straight through,\nand most of it comes out in less than a day.\nSo pandas eat for up to fourteen hours a day,\ncrunching up to thirty-eight kilos of bamboo.\nAnd they save energy like a phone on low battery.\nTheir thyroid runs slow,\ntheir brain and liver are small,\nand they nap a lot.\nA panda burns barely forty percent of the energy\nyou'd expect for its size.\nScientists think it all started\nwhen their ancestors lost a gene\nfor tasting meat's savory flavor.\nCould you eat just one food every day, like a panda?",
-        "key_facts": [
-          "Giant pandas digest only about 17% of the bamboo they eat (so ~83% passes through)",
-          "Pandas have a short, simple carnivore-type gut and gut microbes like other bears",
-          "Food passes through in under a day",
-          "Pandas eat up to ~14 hours a day, up to ~38 kg (84 lb) of bamboo",
-          "A 2015 Science study found pandas use about 38% of the energy expected for their size, with low thyroid hormone and small brain, liver and kidneys",
-          "Pandas' umami (meat taste) receptor gene Tas1r1 became a pseudogene"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Kawaii Anime"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261107-panda-bamboo",
-      "redos": 0,
-      "updated": "2026-11-07T18:55:07.028442+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-07",
-        "name": "2026-11-07-104.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-07",
-        "name": "2026-11-07-104-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:03,430\nPandas waste eighty-three percent of the bamboo they eat.\n\n2\n00:00:03,980 --> 00:00:05,440\nHere's why you never see it.\n\n3\n00:00:05,990 --> 00:00:08,310\nInside, a panda has a meat-eater's gut,\n\n4\n00:00:08,610 --> 00:00:10,110\nbuilt just like a bear's:\n\n5\n00:00:10,410 --> 00:00:12,000\nshort, simple intestines,\n\n6\n00:00:12,300 --> 00:00:14,370\nand no cow-style stomach chambers.\n\n7\n00:00:14,920 --> 00:00:16,680\nSo bamboo rushes straight through,\n\n8\n00:00:16,980 --> 00:00:19,260\nand most of it comes out in less than a day.\n\n9\n00:00:19,810 --> 00:00:22,640\nSo pandas eat for up to fourteen hours a day,\n\n10\n00:00:22,940 --> 00:00:25,600\ncrunching up to thirty-eight kilos of bamboo.\n\n11\n00:00:26,150 --> 00:00:29,210\nAnd they save energy like a phone on low battery.\n\n12\n00:00:29,760 --> 00:00:31,330\nTheir thyroid runs slow,\n\n13\n00:00:31,630 --> 00:00:33,350\ntheir brain and liver are small,\n\n14\n00:00:33,650 --> 00:00:34,850\nand they nap a lot.\n\n15\n00:00:35,400 --> 00:00:38,340\nA panda burns barely forty percent of the energy\n\n16\n00:00:38,640 --> 00:00:40,230\nyou'd expect for its size.\n\n17\n00:00:40,780 --> 00:00:42,580\nScientists think it all started\n\n18\n00:00:42,880 --> 00:00:44,800\nwhen their ancestors lost a gene\n\n19\n00:00:45,100 --> 00:00:46,990\nfor tasting meat's savory flavor.\n\n20\n00:00:47,540 --> 00:00:50,600\nCould you eat just one food every day, like a panda?\n\n",
-      "tg_msg": 1051,
-      "approved_by": "auto",
-      "description_full": "Why do pandas eat bamboo all day? Giant pandas have a carnivore's short, simple gut, so they digest only about 17% of their bamboo and survive by eating up to 14 hours a day and saving energy with a slow thyroid and lots of rest.\n\nSources:\nhttps://www.livescience.com/50871-pandas-gut-bacteria-bamboo-digestion.html\nhttps://phys.org/news/2015-07-under-active-pandas-energy-sloths.html\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC3144909\n\nAnimated in the Kawaii Anime style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #animals #panda #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/lgpwrV5JRqs",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-11-07T18:55:07.028458+00:00",
-      "slot": "2026-11-13T20:15:00+00:00"
-    },
-    "2026-11-07-105": {
-      "topic": {
-        "title": "Why don't birds fall off branches when they sleep?",
-        "format": "animated",
-        "angle": "Cut-Paper Diorama"
-      },
-      "package": {
-        "title": "How Do 6,000 Bird Species Sleep on Twigs Without Falling?",
-        "description": "Why don't birds fall off branches when they sleep? See how a perching bird's leg tendons curl its toes around a twig, why songbirds have a zip-tie-like tendon lock, and why sleeping starlings turned out to be mostly balancing.\n\nSources:\nhttps://ornithology.com/why-dont-sleeping-birds-fall-out-of-trees/\nhttps://www.scienceabc.com/nature/animals/why-dont-birds-fall-off-branches-when-they-sleep.html\nhttps://www.birdsoutsidemywindow.org/2010/12/03/how-do-they-sleep-without-slipping/\n\nAnimated in the Cut-Paper Diorama style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#birds",
-          "#animals",
-          "#science"
-        ],
-        "tags": [
-          "why don't birds fall off branches",
-          "how do birds sleep",
-          "birds sleeping on branches",
-          "bird feet",
-          "perching birds",
-          "tendon locking mechanism",
-          "bird facts",
-          "animal facts",
-          "starlings",
-          "unihemispheric sleep",
-          "how animals sleep",
-          "science explained",
-          "animal adaptations"
-        ],
-        "category": "27",
-        "pinned_comment": "When a bird dozes on a wire, do you think it's gripping or just balancing?",
-        "thumbnail_text": "ZIP-TIE TOES",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "A sleeping bird never falls off its branch. You'd never guess why. When a bird bends its legs, tendons behind its ankles pull tight, and that curls the toes around the twig. In songbirds, tiny bumps on those tendons catch on ridges, like a zip tie, so the grip holds with little effort. To let go, it just stands up. But here's the twist. When scientists filmed sleeping starlings, their legs weren't bent enough to lock. They were mostly balancing, probably helped by a balance sensor near their hips, not just their ears. Many birds even sleep with half their brain, one eye open for danger. That's how perching birds, over half of all bird species, nap safely in the trees. So when a bird dozes on a wire, is it gripping, or just balancing?",
-        "key_facts": [
-          "Bending the leg pulls flexor tendons behind the ankle tight and curls the toes around the perch (Ornithology.com, Birds Outside My Window)",
-          "Songbirds have ridges/pads between tendon and sheath that help lock the grip (Gill, Ornithology, via Birds Outside My Window; ScienceABC)",
-          "Straightening the leg relaxes the tendon and opens the toes (Ornithology.com)",
-          "A 2012 study of sleeping European starlings found legs not bent enough to engage the lock; they balanced (Galton & Shepherd 2012, via ScienceABC)",
-          "A lumbosacral balance organ near the hips is thought to aid balance (ScienceABC, Juneau Empire; hedged 'probably')",
-          "Many birds sleep with one brain hemisphere at a time and one eye open (ScienceABC, Rattenborg)",
-          "Perching birds (passerines) are more than half of all bird species, over 6,000 species (UTK 2019, Encyclopedia.com)"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Cut-Paper Diorama"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261107-bird-perch",
-      "redos": 0,
-      "updated": "2026-11-07T23:56:44.973179+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Cut-Paper Diorama style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-07",
-        "name": "2026-11-07-105.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-07",
-        "name": "2026-11-07-105-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:02,890\nA sleeping bird never falls off its branch.\n\n2\n00:00:03,440 --> 00:00:04,680\nYou'd never guess why.\n\n3\n00:00:05,230 --> 00:00:06,920\nWhen a bird bends its legs,\n\n4\n00:00:07,220 --> 00:00:09,320\ntendons behind its ankles pull tight,\n\n5\n00:00:09,620 --> 00:00:11,840\nand that curls the toes around the twig.\n\n6\n00:00:12,390 --> 00:00:15,210\nIn songbirds, tiny bumps on those tendons\n\n7\n00:00:15,510 --> 00:00:17,620\ncatch on ridges, like a zip tie,\n\n8\n00:00:17,920 --> 00:00:19,790\nso the grip holds with little effort.\n\n9\n00:00:20,340 --> 00:00:22,130\nTo let go, it just stands up.\n\n10\n00:00:22,680 --> 00:00:23,880\nBut here's the twist.\n\n11\n00:00:24,430 --> 00:00:26,850\nWhen scientists filmed sleeping starlings,\n\n12\n00:00:27,150 --> 00:00:29,140\ntheir legs weren't bent enough to lock.\n\n13\n00:00:29,690 --> 00:00:31,090\nThey were mostly balancing,\n\n14\n00:00:31,390 --> 00:00:33,340\nprobably helped by a balance sensor\n\n15\n00:00:33,640 --> 00:00:35,610\nnear their hips, not just their ears.\n\n16\n00:00:36,160 --> 00:00:38,590\nMany birds even sleep with half their brain,\n\n17\n00:00:38,890 --> 00:00:40,590\none eye open for danger.\n\n18\n00:00:41,140 --> 00:00:42,640\nThat's how perching birds,\n\n19\n00:00:42,940 --> 00:00:44,930\nover half of all bird species,\n\n20\n00:00:45,230 --> 00:00:46,820\nnap safely in the trees.\n\n21\n00:00:47,370 --> 00:00:49,380\nSo when a bird dozes on a wire,\n\n22\n00:00:49,680 --> 00:00:51,660\nis it gripping, or just balancing?\n\n",
-      "tg_msg": 1055,
-      "approved_by": "auto",
-      "description_full": "Why don't birds fall off branches when they sleep? See how a perching bird's leg tendons curl its toes around a twig, why songbirds have a zip-tie-like tendon lock, and why sleeping starlings turned out to be mostly balancing.\n\nSources:\nhttps://ornithology.com/why-dont-sleeping-birds-fall-out-of-trees/\nhttps://www.scienceabc.com/nature/animals/why-dont-birds-fall-off-branches-when-they-sleep.html\nhttps://www.birdsoutsidemywindow.org/2010/12/03/how-do-they-sleep-without-slipping/\n\nAnimated in the Cut-Paper Diorama style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #birds #animals #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Cut-Paper Diorama style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/NQIcl3_PWtg",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-11-07T23:56:44.973201+00:00",
-      "slot": "2026-11-14T00:15:00+00:00"
-    },
     "2026-11-08-101": {
       "topic": {
         "title": "Why do flamingos eat with their heads upside down?",
@@ -3120,12 +2935,12 @@
         "format": "animated",
         "style": "Kawaii Anime"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261113-brain-freeze",
       "redos": 0,
-      "updated": "2026-11-13T20:54:32.580546+00:00",
+      "updated": "2026-11-14T01:44:17.150329+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech."
       ],
@@ -3140,7 +2955,29 @@
         "name": "2026-11-13-104-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:02,470\nIce cream gives you a 30-second headache,\n\n2\n00:00:03,020 --> 00:00:04,860\nbut your brain never freezes.\n\n3\n00:00:05,320 --> 00:00:06,520\nSo what's going on?\n\n4\n00:00:07,040 --> 00:00:08,860\nIt starts on the roof of your mouth.\n\n5\n00:00:09,290 --> 00:00:11,490\nIt's packed with nerves and blood vessels,\n\n6\n00:00:11,890 --> 00:00:14,190\nand ice cream chills it super fast.\n\n7\n00:00:14,560 --> 00:00:17,630\nScientists think a big artery behind your eyes\n\n8\n00:00:17,720 --> 00:00:18,400\nsuddenly opens wide,\n\n9\n00:00:19,020 --> 00:00:20,560\nto rush in warm blood.\n\n10\n00:00:20,980 --> 00:00:22,000\nThat flood of blood\n\n11\n00:00:22,060 --> 00:00:24,260\npushes up the pressure inside your head.\n\n12\n00:00:24,610 --> 00:00:26,720\nYour trigeminal nerve feels it,\n\n13\n00:00:26,900 --> 00:00:27,810\nbut it gets mixed up,\n\n14\n00:00:28,250 --> 00:00:30,710\nand sends the pain to your forehead instead.\n\n15\n00:00:31,070 --> 00:00:32,670\nThat's called referred pain.\n\n16\n00:00:32,950 --> 00:00:33,940\nOnce things warm up,\n\n17\n00:00:34,080 --> 00:00:36,030\nthe artery narrows again,\n\n18\n00:00:36,100 --> 00:00:39,000\nand the ache fades, usually in under 30 seconds.\n\n19\n00:00:39,470 --> 00:00:40,670\nWant it gone faster?\n\n20\n00:00:41,170 --> 00:00:42,050\nPress your warm tongue\n\n21\n00:00:42,130 --> 00:00:43,640\nto the roof of your mouth.\n\n22\n00:00:44,020 --> 00:00:47,050\nHonestly, your head's just overreacting to dessert.\n\n23\n00:00:47,470 --> 00:00:49,240\nSo which hits you harder:\n\n24\n00:00:49,300 --> 00:00:50,530\nice cream or a slushie?\n\n",
-      "tg_msg": 1111
+      "tg_msg": 1111,
+      "approved_by": "auto",
+      "description_full": "Why does ice cream give you brain freeze? Cold on the roof of your mouth makes a big artery behind your eyes open wide, the rush of blood raises pressure, and your trigeminal nerve sends the pain to your forehead, which is why brain freeze fades in under 30 seconds.\n\nSources:\nhttps://sciencedaily.com/releases/2012/04/120422231742.htm\nhttps://www.healthline.com/health/sphenopalatine-ganglioneuralgia-brain-freeze\nhttps://sciencenotes.org/brain-freeze-ice-cream-headache-causes-symptoms-and-prevention/\n\nAnimated in the Kawaii Anime style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #brainfreeze #science #icecream\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/CLAnmENOof8",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-14T01:44:17.150347+00:00",
+      "slot": "2026-11-21T02:15:00+00:00"
     },
     "2026-11-13-105": {
       "topic": {
@@ -3188,12 +3025,12 @@
         "format": "animated",
         "style": "Napkin Sketch"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261113-sneeze-eyes",
       "redos": 0,
-      "updated": "2026-11-13T20:54:42.725921+00:00",
+      "updated": "2026-11-14T01:44:22.979634+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Napkin Sketch style). Voice: Kokoro text-to-speech."
       ],
@@ -3208,7 +3045,99 @@
         "name": "2026-11-13-105-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:02,730\nYour eyes slam shut every time you sneeze,\n\n2\n00:00:02,950 --> 00:00:05,130\nand you almost can't stop it. Why?\n\n3\n00:00:05,660 --> 00:00:07,200\nPeople say your eyeballs would pop out\n\n4\n00:00:07,260 --> 00:00:08,850\nif they stayed open.\n\n5\n00:00:09,320 --> 00:00:10,220\nThat's a myth.\n\n6\n00:00:10,480 --> 00:00:12,700\nThe pressure builds in your chest,\n\n7\n00:00:12,770 --> 00:00:13,910\nnot behind your eyes.\n\n8\n00:00:14,270 --> 00:00:15,470\nSo what's going on?\n\n9\n00:00:15,930 --> 00:00:17,530\nA tickle inside your nose\n\n10\n00:00:17,530 --> 00:00:19,580\nsends a nerve signal to your brainstem,\n\n11\n00:00:20,140 --> 00:00:21,730\nyour sneeze control center.\n\n12\n00:00:22,140 --> 00:00:23,480\nIt doesn't ask permission.\n\n13\n00:00:23,770 --> 00:00:26,250\nIt fires a chain of muscles all at once.\n\n14\n00:00:26,630 --> 00:00:27,530\nDeep breath in,\n\n15\n00:00:27,660 --> 00:00:28,530\nchest squeezes,\n\n16\n00:00:28,930 --> 00:00:29,880\nthroat snaps open,\n\n17\n00:00:29,940 --> 00:00:32,890\nand your eyelids get dragged along for the ride.\n\n18\n00:00:33,340 --> 00:00:34,400\nThen the blast.\n\n19\n00:00:34,780 --> 00:00:37,400\nA sneeze cloud can drift about eight meters.\n\n20\n00:00:37,760 --> 00:00:39,100\nThat's twenty-six feet!\n\n21\n00:00:39,390 --> 00:00:41,390\nSome scientists think shut eyes\n\n22\n00:00:41,490 --> 00:00:42,400\nhelp keep the spray out.\n\n23\n00:00:42,850 --> 00:00:45,410\nA few people can sneeze with their eyes open,\n\n24\n00:00:45,880 --> 00:00:48,000\nand their eyes stay right where they are.\n\n25\n00:00:48,400 --> 00:00:49,690\nSo next time you sneeze,\n\n26\n00:00:49,990 --> 00:00:51,120\nwill yours stay shut?\n\n",
-      "tg_msg": 1112
+      "tg_msg": 1112,
+      "approved_by": "auto",
+      "description_full": "Why do your eyes close when you sneeze, and would your eyeballs really pop out if they stayed open? The sneeze reflex runs from your brainstem and fires a whole chain of muscles at once, eyelids included, while the sneeze cloud itself can drift about 8 meters (26 feet).\n\nSources:\nhttps://www.nbcnews.com/healthmain/eye-popping-truth-about-why-we-close-our-eyes-when-1c9321739\nhttps://www.iflscience.com/health-and-medicine/sneezes-can-travel-up-to-8-meters-suggesting-some-social-distancing-measures-are-inadqueate/\nhttps://wonderopolis.org/wonder/can-you-sneeze-with-your-eyes-open\n\nAnimated in the Napkin Sketch style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #sneeze #science #humanbody\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Napkin Sketch style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/uQqX0CaocWM",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-14T01:44:22.979654+00:00",
+      "slot": "2026-11-14T02:44:20.203793+00:00"
+    },
+    "2026-11-14-101": {
+      "topic": {
+        "title": "The Sea Otter Paradox: how does an animal with no blubber stay warm in icy water?",
+        "format": "animated",
+        "angle": "Low-Poly Faceted"
+      },
+      "package": {
+        "title": "Why Sea Otters Don't Freeze With 0 Blubber \ud83e\udda6",
+        "description": "How does a sea otter stay warm in icy water with no blubber at all? Its fur is the densest of any animal, up to a million hairs per square inch, trapping air so cold water never reaches its skin, and its muscles burn energy as heat so fast it eats about a quarter of its body weight every day.\n\nSources:\nhttps://www.seattleaquarium.org/stories/the-densest-fur-of-any-animal-on-earth-all-about-sea-otters/\nhttps://www.marinemammalcenter.org/animal-care/learn-about-marine-mammals/sea-otters\nhttps://phys.org/news/2021-12-sea-otters-muscle-movement.html\n\nAnimated in the Low-Poly Faceted style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#seaotter",
+          "#animalfacts",
+          "#science"
+        ],
+        "tags": [
+          "how do sea otters stay warm",
+          "sea otter fur",
+          "sea otter no blubber",
+          "densest fur animal",
+          "million hairs per square inch",
+          "sea otter facts",
+          "why sea otters groom",
+          "sea otter metabolism",
+          "sea otter eats a quarter of its weight",
+          "otter facts",
+          "marine mammals",
+          "animal facts",
+          "weird animal facts",
+          "science explained"
+        ],
+        "category": "27",
+        "pinned_comment": "Would you trade your jacket for a million hairs, and a quarter of your weight in snacks every day? \ud83e\udda6",
+        "thumbnail_text": "STILL WARM?",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "A sea otter has no blubber, but you'd freeze long before it would. Why? Whales and seals wrap up in thick fat. The otter's secret is fur. Up to a million hairs on every square inch, the densest fur of any animal. That's more hairs on a stamp-sized patch than you have on your whole head. Those hairs trap a layer of air, so cold water never touches its skin. That's why otters groom for hours, fluffing air into their coats. But fur alone isn't enough. Its muscles leak energy as heat, like an engine idling all day. So it burns fuel about three times faster than other animals its size. To keep up, it eats about a quarter of its body weight every single day. Would you trade your jacket for a million hairs, and a quarter of your weight in snacks?",
+        "key_facts": [
+          "Sea otters have no blubber, unlike whales and seals; they rely on fur (Seattle Aquarium, Marine Mammal Center)",
+          "Densest fur of any animal: up to about 1 million hairs per square inch (Seattle Aquarium); a human head has roughly 100,000 hairs",
+          "Fur traps a layer of air so water doesn't reach the skin; otters spend hours a day grooming and blowing/fluffing air into the coat",
+          "Wright et al. 2021 (Science): skeletal muscle mitochondria 'leak' energy as heat; resting metabolic rate roughly 3x that of similar-sized mammals",
+          "Eat about 25% of body weight per day (Seattle Aquarium / Marine Mammal Center)"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Low-Poly Faceted"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261114-sea-otter-fur",
+      "redos": 0,
+      "updated": "2026-11-14T01:44:04.454573+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Low-Poly Faceted style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-14",
+        "name": "2026-11-14-101.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-14",
+        "name": "2026-11-14-101-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:01,700\nA sea otter has no blubber,\n\n2\n00:00:01,850 --> 00:00:04,100\nbut you'd freeze long before it would. Why?\n\n3\n00:00:04,620 --> 00:00:06,860\nWhales and seals wrap up in thick fat.\n\n4\n00:00:07,210 --> 00:00:08,560\nThe otter's secret is fur.\n\n5\n00:00:09,010 --> 00:00:11,380\nUp to a million hairs on every square inch,\n\n6\n00:00:11,740 --> 00:00:13,370\nthe densest fur of any animal.\n\n7\n00:00:13,750 --> 00:00:15,750\nThat's more hairs on a stamp-sized patch\n\n8\n00:00:15,810 --> 00:00:17,420\nthan you have on your whole head.\n\n9\n00:00:17,810 --> 00:00:19,370\nThose hairs trap a layer of air,\n\n10\n00:00:19,700 --> 00:00:21,790\nso cold water never touches its skin.\n\n11\n00:00:22,220 --> 00:00:23,950\nThat's why otters groom for hours,\n\n12\n00:00:24,260 --> 00:00:25,730\nfluffing air into their coats.\n\n13\n00:00:26,080 --> 00:00:27,570\nBut fur alone isn't enough.\n\n14\n00:00:28,040 --> 00:00:29,840\nIts muscles leak energy as heat,\n\n15\n00:00:30,190 --> 00:00:32,000\nlike an engine idling all day.\n\n16\n00:00:32,460 --> 00:00:34,880\nSo it burns fuel about three times faster\n\n17\n00:00:34,880 --> 00:00:36,520\nthan other animals its size.\n\n18\n00:00:36,920 --> 00:00:39,530\nTo keep up, it eats about a quarter of its body weight\n\n19\n00:00:39,750 --> 00:00:40,750\nevery single day.\n\n20\n00:00:41,160 --> 00:00:43,410\nWould you trade your jacket for a million hairs,\n\n21\n00:00:43,750 --> 00:00:45,400\nand a quarter of your weight in snacks?\n\n",
+      "tg_msg": 1115
     }
   },
   "history": [
@@ -3287,7 +3216,7 @@
       "at": "2026-10-25T17:40:17.371797+00:00"
     }
   },
-  "cleanup_day": "2026-11-13",
+  "cleanup_day": "2026-11-14",
   "recent_voices": [
     "en-AU-WilliamMultilingualNeural",
     "en-US-EmmaMultilingualNeural",
@@ -3399,7 +3328,8 @@
     "drop/20261113-baby-kneecaps": "2026-11-13-102",
     "drop/20261113-liver-jobs": "2026-11-13-103",
     "drop/20261113-brain-freeze": "2026-11-13-104",
-    "drop/20261113-sneeze-eyes": "2026-11-13-105"
+    "drop/20261113-sneeze-eyes": "2026-11-13-105",
+    "drop/20261114-sea-otter-fur": "2026-11-14-101"
   },
-  "refs_day": "2026-11-13"
+  "refs_day": "2026-11-14"
 }
