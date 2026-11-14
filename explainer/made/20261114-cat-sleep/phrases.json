@@ -1,0 +1,690 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.09,
+  "text": "Your cat sleeps 16 hours a day,",
+  "words": [
+   [
+    "your",
+    0.25
+   ],
+   [
+    "cat",
+    0.56
+   ],
+   [
+    "sleeps",
+    0.79
+   ],
+   [
+    "16",
+    1.25
+   ],
+   [
+    "hours",
+    1.4
+   ],
+   [
+    "a",
+    1.78
+   ],
+   [
+    "day",
+    1.86
+   ]
+  ]
+ },
+ {
+  "s": 2.45,
+  "e": 4.04,
+  "text": "but it's almost never fully asleep.",
+  "words": [
+   [
+    "but",
+    2.45
+   ],
+   [
+    "its",
+    2.62
+   ],
+   [
+    "almost",
+    2.79
+   ],
+   [
+    "never",
+    3.13
+   ],
+   [
+    "fully",
+    3.42
+   ],
+   [
+    "asleep",
+    3.7
+   ]
+  ]
+ },
+ {
+  "s": 4.42,
+  "e": 5.6,
+  "text": "So why all the napping?",
+  "words": [
+   [
+    "so",
+    4.42
+   ],
+   [
+    "why",
+    4.55
+   ],
+   [
+    "all",
+    4.75
+   ],
+   [
+    "the",
+    4.95
+   ],
+   [
+    "napping",
+    5.14
+   ]
+  ]
+ },
+ {
+  "s": 6.15,
+  "e": 8.86,
+  "text": "Cats are hunters built for short explosive bursts.",
+  "words": [
+   [
+    "cats",
+    6.15
+   ],
+   [
+    "are",
+    6.4
+   ],
+   [
+    "hunters",
+    6.6
+   ],
+   [
+    "built",
+    7.05
+   ],
+   [
+    "for",
+    7.37
+   ],
+   [
+    "short",
+    7.57
+   ],
+   [
+    "explosive",
+    7.89
+   ],
+   [
+    "bursts",
+    8.47
+   ]
+  ]
+ },
+ {
+  "s": 9.24,
+  "e": 12.2,
+  "text": "Stalking and pouncing burn a ton of energy in seconds,",
+  "words": [
+   [
+    "stalking",
+    9.24
+   ],
+   [
+    "and",
+    9.78
+   ],
+   [
+    "pouncing",
+    9.98
+   ],
+   [
+    "burn",
+    10.52
+   ],
+   [
+    "a",
+    10.79
+   ],
+   [
+    "ton",
+    10.86
+   ],
+   [
+    "of",
+    11.06
+   ],
+   [
+    "energy",
+    11.19
+   ],
+   [
+    "in",
+    11.6
+   ],
+   [
+    "seconds",
+    11.73
+   ]
+  ]
+ },
+ {
+  "s": 12.57,
+  "e": 13.98,
+  "text": "and plenty of pounces miss.",
+  "words": [
+   [
+    "and",
+    12.57
+   ],
+   [
+    "plenty",
+    12.76
+   ],
+   [
+    "of",
+    13.15
+   ],
+   [
+    "pounces",
+    13.28
+   ],
+   [
+    "miss",
+    13.72
+   ]
+  ]
+ },
+ {
+  "s": 14.39,
+  "e": 15.92,
+  "text": "So between hunts a cat powers down",
+  "words": [
+   [
+    "so",
+    14.39
+   ],
+   [
+    "between",
+    14.5
+   ],
+   [
+    "hunts",
+    14.88
+   ],
+   [
+    "a",
+    15.16
+   ],
+   [
+    "cat",
+    15.21
+   ],
+   [
+    "powers",
+    15.38
+   ],
+   [
+    "down",
+    15.7
+   ]
+  ]
+ },
+ {
+  "s": 16.02,
+  "e": 18.17,
+  "text": "to save fuel for the next one.",
+  "words": [
+   [
+    "to",
+    16.02
+   ],
+   [
+    "save",
+    16.21
+   ],
+   [
+    "fuel",
+    16.58
+   ],
+   [
+    "for",
+    16.96
+   ],
+   [
+    "the",
+    17.24
+   ],
+   [
+    "next",
+    17.52
+   ],
+   [
+    "one",
+    17.89
+   ]
+  ]
+ },
+ {
+  "s": 18.54,
+  "e": 20.19,
+  "text": "It's most awake at dawn and dusk,",
+  "words": [
+   [
+    "its",
+    18.54
+   ],
+   [
+    "most",
+    18.74
+   ],
+   [
+    "awake",
+    19.0
+   ],
+   [
+    "at",
+    19.33
+   ],
+   [
+    "dawn",
+    19.47
+   ],
+   [
+    "and",
+    19.73
+   ],
+   [
+    "dusk",
+    19.93
+   ]
+  ]
+ },
+ {
+  "s": 20.48,
+  "e": 21.77,
+  "text": "when mice are on the move.",
+  "words": [
+   [
+    "when",
+    20.48
+   ],
+   [
+    "mice",
+    20.74
+   ],
+   [
+    "are",
+    21.0
+   ],
+   [
+    "on",
+    21.19
+   ],
+   [
+    "the",
+    21.32
+   ],
+   [
+    "move",
+    21.51
+   ]
+  ]
+ },
+ {
+  "s": 22.2,
+  "e": 24.73,
+  "text": "That's why yours goes wild at 5 a.m.",
+  "words": [
+   [
+    "thats",
+    22.2
+   ],
+   [
+    "why",
+    22.69
+   ],
+   [
+    "yours",
+    22.98
+   ],
+   [
+    "goes",
+    23.47
+   ],
+   [
+    "wild",
+    23.85
+   ],
+   [
+    "at",
+    24.24
+   ],
+   [
+    "5",
+    24.44
+   ],
+   [
+    "am",
+    24.53
+   ]
+  ]
+ },
+ {
+  "s": 25.15,
+  "e": 26.97,
+  "text": "Most of its sleep is light dozing,",
+  "words": [
+   [
+    "most",
+    25.15
+   ],
+   [
+    "of",
+    25.42
+   ],
+   [
+    "its",
+    25.56
+   ],
+   [
+    "sleep",
+    25.76
+   ],
+   [
+    "is",
+    26.1
+   ],
+   [
+    "light",
+    26.23
+   ],
+   [
+    "dozing",
+    26.57
+   ]
+  ]
+ },
+ {
+  "s": 27.29,
+  "e": 28.91,
+  "text": "in naps of 15 to 30 minutes,",
+  "words": [
+   [
+    "in",
+    27.29
+   ],
+   [
+    "naps",
+    27.45
+   ],
+   [
+    "of",
+    27.76
+   ],
+   [
+    "15",
+    27.91
+   ],
+   [
+    "to",
+    28.06
+   ],
+   [
+    "30",
+    28.22
+   ],
+   [
+    "minutes",
+    28.37
+   ]
+  ]
+ },
+ {
+  "s": 29.25,
+  "e": 30.63,
+  "text": "senses still switched on.",
+  "words": [
+   [
+    "senses",
+    29.25
+   ],
+   [
+    "still",
+    29.65
+   ],
+   [
+    "switched",
+    29.98
+   ],
+   [
+    "on",
+    30.5
+   ]
+  ]
+ },
+ {
+  "s": 31.08,
+  "e": 32.95,
+  "text": "One tiny squeak, and it's awake.",
+  "words": [
+   [
+    "one",
+    31.08
+   ],
+   [
+    "tiny",
+    31.32
+   ],
+   [
+    "squeak",
+    31.63
+   ],
+   [
+    "and",
+    32.1
+   ],
+   [
+    "its",
+    32.33
+   ],
+   [
+    "awake",
+    32.56
+   ]
+  ]
+ },
+ {
+  "s": 33.31,
+  "e": 35.52,
+  "text": "Only about a quarter is real deep sleep,",
+  "words": [
+   [
+    "only",
+    33.31
+   ],
+   [
+    "about",
+    33.59
+   ],
+   [
+    "a",
+    33.94
+   ],
+   [
+    "quarter",
+    34.0
+   ],
+   [
+    "is",
+    34.49
+   ],
+   [
+    "real",
+    34.63
+   ],
+   [
+    "deep",
+    34.9
+   ],
+   [
+    "sleep",
+    35.18
+   ]
+  ]
+ },
+ {
+  "s": 35.93,
+  "e": 37.75,
+  "text": "in bursts of 5 to 7 minutes.",
+  "words": [
+   [
+    "in",
+    35.93
+   ],
+   [
+    "bursts",
+    36.11
+   ],
+   [
+    "of",
+    36.62
+   ],
+   [
+    "5",
+    36.8
+   ],
+   [
+    "to",
+    36.88
+   ],
+   [
+    "7",
+    37.06
+   ],
+   [
+    "minutes",
+    37.14
+   ]
+  ]
+ },
+ {
+  "s": 38.1,
+  "e": 39.49,
+  "text": "So your cat isn't lazy.",
+  "words": [
+   [
+    "so",
+    38.1
+   ],
+   [
+    "your",
+    38.27
+   ],
+   [
+    "cat",
+    38.59
+   ],
+   [
+    "isnt",
+    38.84
+   ],
+   [
+    "lazy",
+    39.16
+   ]
+  ]
+ },
+ {
+  "s": 39.85,
+  "e": 41.58,
+  "text": "It's charging up for the next sprint.",
+  "words": [
+   [
+    "its",
+    39.85
+   ],
+   [
+    "charging",
+    40.03
+   ],
+   [
+    "up",
+    40.51
+   ],
+   [
+    "for",
+    40.63
+   ],
+   [
+    "the",
+    40.81
+   ],
+   [
+    "next",
+    40.98
+   ],
+   [
+    "sprint",
+    41.22
+   ]
+  ]
+ },
+ {
+  "s": 42.01,
+  "e": 44.63,
+  "text": "So is your cat asleep right now, or just waiting?",
+  "words": [
+   [
+    "so",
+    42.01
+   ],
+   [
+    "is",
+    42.15
+   ],
+   [
+    "your",
+    42.29
+   ],
+   [
+    "cat",
+    42.56
+   ],
+   [
+    "asleep",
+    42.77
+   ],
+   [
+    "right",
+    43.18
+   ],
+   [
+    "now",
+    43.53
+   ],
+   [
+    "or",
+    43.73
+   ],
+   [
+    "just",
+    43.87
+   ],
+   [
+    "waiting",
+    44.15
+   ]
+  ]
+ }
+]

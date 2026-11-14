@@ -1263,5 +1263,20 @@
   "hook_score": 51,
   "title_score": 98,
   "notes": "unattended run, no storyboard step; 6 paper scenes slid in (carcass hook with germs, stomach + pH strip + battery, 528->76 face/gut study, Clostridia/Fusobacteria in gut, cleanup crew carcass->bones, two-card question); added trend rows S091-S093"
+ },
+ {
+  "date": "2026-11-14",
+  "id": "20261114-cat-sleep",
+  "kind": "short",
+  "style": "Halftone Dossier",
+  "topic": "Why do cats sleep up to 16 hours a day?",
+  "title": "Why Do Cats Sleep 16 Hours a Day? 😴",
+  "seconds": 45.6,
+  "words": 137,
+  "sheet_id": "S090",
+  "hook_score": 56,
+  "title_score": 100,
+  "voice": "af_heart",
+  "notes": "unattended run, no storyboard step; Lemo setup.sh blocked by sandbox, style files read via sparse checkout (no engine, own canvas code; base print helpers from 20261112-stretching-ears); 9 scenes: mugshot, hunter pounce + battery drain + MISSED, power down recharge, dawn/dusk clock (night page), 4:59->5:00 zoomies, light doze + squeak AWAKE, 3/4 vs 1/4 pie, NOT GUILTY verdict, one-eye-open question"
  }
 ]
