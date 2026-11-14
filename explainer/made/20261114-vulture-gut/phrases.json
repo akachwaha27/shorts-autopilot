@@ -1,0 +1,674 @@
+[
+ {
+  "s": 0.25,
+  "e": 4.46,
+  "text": "Vultures eat rotten meat that would kill you, and never get sick. Why?",
+  "words": [
+   [
+    "vultures",
+    0.25
+   ],
+   [
+    "eat",
+    0.86
+   ],
+   [
+    "rotten",
+    1.09
+   ],
+   [
+    "meat",
+    1.55
+   ],
+   [
+    "that",
+    1.86
+   ],
+   [
+    "would",
+    2.16
+   ],
+   [
+    "kill",
+    2.54
+   ],
+   [
+    "you",
+    2.85
+   ],
+   [
+    "and",
+    3.08
+   ],
+   [
+    "never",
+    3.31
+   ],
+   [
+    "get",
+    3.69
+   ],
+   [
+    "sick",
+    3.92
+   ],
+   [
+    "why",
+    4.23
+   ]
+  ]
+ },
+ {
+  "s": 4.96,
+  "e": 8.07,
+  "text": "A carcass can be crawling with germs like anthrax,",
+  "words": [
+   [
+    "a",
+    4.96
+   ],
+   [
+    "carcass",
+    5.03
+   ],
+   [
+    "can",
+    5.56
+   ],
+   [
+    "be",
+    5.79
+   ],
+   [
+    "crawling",
+    5.94
+   ],
+   [
+    "with",
+    6.55
+   ],
+   [
+    "germs",
+    6.85
+   ],
+   [
+    "like",
+    7.23
+   ],
+   [
+    "anthrax",
+    7.54
+   ]
+  ]
+ },
+ {
+  "s": 8.47,
+  "e": 9.95,
+  "text": "and the vulture keeps eating.",
+  "words": [
+   [
+    "and",
+    8.47
+   ],
+   [
+    "the",
+    8.65
+   ],
+   [
+    "vulture",
+    8.84
+   ],
+   [
+    "keeps",
+    9.27
+   ],
+   [
+    "eating",
+    9.58
+   ]
+  ]
+ },
+ {
+  "s": 10.34,
+  "e": 11.42,
+  "text": "First, the stomach.",
+  "words": [
+   [
+    "first",
+    10.34
+   ],
+   [
+    "the",
+    10.7
+   ],
+   [
+    "stomach",
+    10.91
+   ]
+  ]
+ },
+ {
+  "s": 11.74,
+  "e": 14.63,
+  "text": "Vulture stomach acid sits close to pH 1,",
+  "words": [
+   [
+    "vulture",
+    11.74
+   ],
+   [
+    "stomach",
+    12.37
+   ],
+   [
+    "acid",
+    13.0
+   ],
+   [
+    "sits",
+    13.36
+   ],
+   [
+    "close",
+    13.72
+   ],
+   [
+    "to",
+    14.18
+   ],
+   [
+    "ph",
+    14.36
+   ],
+   [
+    "1",
+    14.54
+   ]
+  ]
+ },
+ {
+  "s": 15.14,
+  "e": 17.34,
+  "text": "nearly as strong as battery acid.",
+  "words": [
+   [
+    "nearly",
+    15.14
+   ],
+   [
+    "as",
+    15.63
+   ],
+   [
+    "strong",
+    15.79
+   ],
+   [
+    "as",
+    16.28
+   ],
+   [
+    "battery",
+    16.44
+   ],
+   [
+    "acid",
+    17.01
+   ]
+  ]
+ },
+ {
+  "s": 17.73,
+  "e": 19.34,
+  "text": "Most germs die right there.",
+  "words": [
+   [
+    "most",
+    17.73
+   ],
+   [
+    "germs",
+    18.03
+   ],
+   [
+    "die",
+    18.39
+   ],
+   [
+    "right",
+    18.61
+   ],
+   [
+    "there",
+    18.97
+   ]
+  ]
+ },
+ {
+  "s": 19.8,
+  "e": 21.61,
+  "text": "In one study of fifty vultures,",
+  "words": [
+   [
+    "in",
+    19.8
+   ],
+   [
+    "one",
+    19.94
+   ],
+   [
+    "study",
+    20.16
+   ],
+   [
+    "of",
+    20.52
+   ],
+   [
+    "fifty",
+    20.67
+   ],
+   [
+    "vultures",
+    21.03
+   ]
+  ]
+ },
+ {
+  "s": 21.76,
+  "e": 26.78,
+  "text": "scientists found five hundred twenty-eight kinds of bacteria on their faces,",
+  "words": [
+   [
+    "scientists",
+    21.76
+   ],
+   [
+    "found",
+    22.54
+   ],
+   [
+    "five",
+    22.94
+   ],
+   [
+    "hundred",
+    23.25
+   ],
+   [
+    "twentyeight",
+    23.8
+   ],
+   [
+    "kinds",
+    24.66
+   ],
+   [
+    "of",
+    25.05
+   ],
+   [
+    "bacteria",
+    25.21
+   ],
+   [
+    "on",
+    25.84
+   ],
+   [
+    "their",
+    25.99
+   ],
+   [
+    "faces",
+    26.39
+   ]
+  ]
+ },
+ {
+  "s": 27.29,
+  "e": 29.66,
+  "text": "but only seventy-six made it to the gut.",
+  "words": [
+   [
+    "but",
+    27.29
+   ],
+   [
+    "only",
+    27.52
+   ],
+   [
+    "seventysix",
+    27.82
+   ],
+   [
+    "made",
+    28.59
+   ],
+   [
+    "it",
+    28.89
+   ],
+   [
+    "to",
+    29.05
+   ],
+   [
+    "the",
+    29.2
+   ],
+   [
+    "gut",
+    29.43
+   ]
+  ]
+ },
+ {
+  "s": 30.08,
+  "e": 31.56,
+  "text": "And the ones that survive?",
+  "words": [
+   [
+    "and",
+    30.08
+   ],
+   [
+    "the",
+    30.29
+   ],
+   [
+    "ones",
+    30.5
+   ],
+   [
+    "that",
+    30.79
+   ],
+   [
+    "survive",
+    31.07
+   ]
+  ]
+ },
+ {
+  "s": 32.14,
+  "e": 36.08,
+  "text": "Tough, meat-eating microbes called Clostridia and Fusobacteria,",
+  "words": [
+   [
+    "tough",
+    32.14
+   ],
+   [
+    "meateating",
+    32.51
+   ],
+   [
+    "microbes",
+    33.24
+   ],
+   [
+    "called",
+    33.82
+   ],
+   [
+    "clostridia",
+    34.26
+   ],
+   [
+    "and",
+    34.99
+   ],
+   [
+    "fusobacteria",
+    35.21
+   ]
+  ]
+ },
+ {
+  "s": 36.59,
+  "e": 39.01,
+  "text": "germs that make most other animals sick.",
+  "words": [
+   [
+    "germs",
+    36.59
+   ],
+   [
+    "that",
+    36.96
+   ],
+   [
+    "make",
+    37.25
+   ],
+   [
+    "most",
+    37.54
+   ],
+   [
+    "other",
+    37.84
+   ],
+   [
+    "animals",
+    38.2
+   ],
+   [
+    "sick",
+    38.72
+   ]
+  ]
+ },
+ {
+  "s": 39.4,
+  "e": 41.09,
+  "text": "In a vulture, they're on the team,",
+  "words": [
+   [
+    "in",
+    39.4
+   ],
+   [
+    "a",
+    39.53
+   ],
+   [
+    "vulture",
+    39.6
+   ],
+   [
+    "theyre",
+    40.07
+   ],
+   [
+    "on",
+    40.48
+   ],
+   [
+    "the",
+    40.61
+   ],
+   [
+    "team",
+    40.82
+   ]
+  ]
+ },
+ {
+  "s": 41.48,
+  "e": 42.94,
+  "text": "helping break down the meal.",
+  "words": [
+   [
+    "helping",
+    41.48
+   ],
+   [
+    "break",
+    41.92
+   ],
+   [
+    "down",
+    42.24
+   ],
+   [
+    "the",
+    42.49
+   ],
+   [
+    "meal",
+    42.68
+   ]
+  ]
+ },
+ {
+  "s": 43.28,
+  "e": 44.67,
+  "text": "By cleaning up carcasses,",
+  "words": [
+   [
+    "by",
+    43.28
+   ],
+   [
+    "cleaning",
+    43.42
+   ],
+   [
+    "up",
+    43.95
+   ],
+   [
+    "carcasses",
+    44.08
+   ]
+  ]
+ },
+ {
+  "s": 45.04,
+  "e": 47.47,
+  "text": "vultures stop those germs from spreading.",
+  "words": [
+   [
+    "vultures",
+    45.04
+   ],
+   [
+    "stop",
+    45.6
+   ],
+   [
+    "those",
+    45.88
+   ],
+   [
+    "germs",
+    46.22
+   ],
+   [
+    "from",
+    46.57
+   ],
+   [
+    "spreading",
+    46.85
+   ]
+  ]
+ },
+ {
+  "s": 47.85,
+  "e": 48.81,
+  "text": "So be honest.",
+  "words": [
+   [
+    "so",
+    47.85
+   ],
+   [
+    "be",
+    48.04
+   ],
+   [
+    "honest",
+    48.23
+   ]
+  ]
+ },
+ {
+  "s": 49.18,
+  "e": 50.6,
+  "text": "Which grosses you out more,",
+  "words": [
+   [
+    "which",
+    49.18
+   ],
+   [
+    "grosses",
+    49.5
+   ],
+   [
+    "you",
+    49.95
+   ],
+   [
+    "out",
+    50.15
+   ],
+   [
+    "more",
+    50.34
+   ]
+  ]
+ },
+ {
+  "s": 51.04,
+  "e": 54.72,
+  "text": "the rotten meat, or the gut full of flesh-eating bacteria?",
+  "words": [
+   [
+    "the",
+    51.04
+   ],
+   [
+    "rotten",
+    51.28
+   ],
+   [
+    "meat",
+    51.76
+   ],
+   [
+    "or",
+    52.08
+   ],
+   [
+    "the",
+    52.24
+   ],
+   [
+    "gut",
+    52.48
+   ],
+   [
+    "full",
+    52.72
+   ],
+   [
+    "of",
+    53.04
+   ],
+   [
+    "flesheating",
+    53.2
+   ],
+   [
+    "bacteria",
+    54.08
+   ]
+  ]
+ }
+]
