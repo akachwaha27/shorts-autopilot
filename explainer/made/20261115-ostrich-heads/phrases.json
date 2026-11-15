@@ -1,0 +1,682 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.65,
+  "text": "Ostriches never bury their heads in sand,",
+  "words": [
+   [
+    "ostriches",
+    0.25
+   ],
+   [
+    "never",
+    0.89
+   ],
+   [
+    "bury",
+    1.24
+   ],
+   [
+    "their",
+    1.52
+   ],
+   [
+    "heads",
+    1.87
+   ],
+   [
+    "in",
+    2.23
+   ],
+   [
+    "sand",
+    2.37
+   ]
+  ]
+ },
+ {
+  "s": 2.8,
+  "e": 4.66,
+  "text": "but you've seen it happen. Why?",
+  "words": [
+   [
+    "but",
+    2.8
+   ],
+   [
+    "youve",
+    3.04
+   ],
+   [
+    "seen",
+    3.45
+   ],
+   [
+    "it",
+    3.77
+   ],
+   [
+    "happen",
+    3.93
+   ],
+   [
+    "why",
+    4.42
+   ]
+  ]
+ },
+ {
+  "s": 5.12,
+  "e": 7.66,
+  "text": "Blame a Roman writer, Pliny the Elder,",
+  "words": [
+   [
+    "blame",
+    5.12
+   ],
+   [
+    "a",
+    5.54
+   ],
+   [
+    "roman",
+    5.63
+   ],
+   [
+    "writer",
+    6.05
+   ],
+   [
+    "pliny",
+    6.56
+   ],
+   [
+    "the",
+    6.98
+   ],
+   [
+    "elder",
+    7.24
+   ]
+  ]
+ },
+ {
+  "s": 8.0,
+  "e": 9.63,
+  "text": "nearly two thousand years ago.",
+  "words": [
+   [
+    "nearly",
+    8.0
+   ],
+   [
+    "two",
+    8.39
+   ],
+   [
+    "thousand",
+    8.59
+   ],
+   [
+    "years",
+    9.11
+   ],
+   [
+    "ago",
+    9.43
+   ]
+  ]
+ },
+ {
+  "s": 10.0,
+  "e": 12.81,
+  "text": "He wrote that ostriches hide their heads in bushes",
+  "words": [
+   [
+    "he",
+    10.0
+   ],
+   [
+    "wrote",
+    10.13
+   ],
+   [
+    "that",
+    10.46
+   ],
+   [
+    "ostriches",
+    10.73
+   ],
+   [
+    "hide",
+    11.33
+   ],
+   [
+    "their",
+    11.6
+   ],
+   [
+    "heads",
+    11.94
+   ],
+   [
+    "in",
+    12.27
+   ],
+   [
+    "bushes",
+    12.4
+   ]
+  ]
+ },
+ {
+  "s": 13.2,
+  "e": 14.79,
+  "text": "and think nobody can see them.",
+  "words": [
+   [
+    "and",
+    13.2
+   ],
+   [
+    "think",
+    13.39
+   ],
+   [
+    "nobody",
+    13.73
+   ],
+   [
+    "can",
+    14.12
+   ],
+   [
+    "see",
+    14.32
+   ],
+   [
+    "them",
+    14.52
+   ]
+  ]
+ },
+ {
+  "s": 15.16,
+  "e": 16.81,
+  "text": "Here's what's really going on.",
+  "words": [
+   [
+    "heres",
+    15.16
+   ],
+   [
+    "whats",
+    15.52
+   ],
+   [
+    "really",
+    15.88
+   ],
+   [
+    "going",
+    16.31
+   ],
+   [
+    "on",
+    16.67
+   ]
+  ]
+ },
+ {
+  "s": 17.26,
+  "e": 19.61,
+  "text": "Ostriches dig a shallow hole in the ground",
+  "words": [
+   [
+    "ostriches",
+    17.26
+   ],
+   [
+    "dig",
+    17.86
+   ],
+   [
+    "a",
+    18.06
+   ],
+   [
+    "shallow",
+    18.13
+   ],
+   [
+    "hole",
+    18.6
+   ],
+   [
+    "in",
+    18.87
+   ],
+   [
+    "the",
+    19.0
+   ],
+   [
+    "ground",
+    19.2
+   ]
+  ]
+ },
+ {
+  "s": 20.09,
+  "e": 22.05,
+  "text": "and lay their giant eggs inside.",
+  "words": [
+   [
+    "and",
+    20.09
+   ],
+   [
+    "lay",
+    20.31
+   ],
+   [
+    "their",
+    20.54
+   ],
+   [
+    "giant",
+    20.92
+   ],
+   [
+    "eggs",
+    21.29
+   ],
+   [
+    "inside",
+    21.6
+   ]
+  ]
+ },
+ {
+  "s": 22.4,
+  "e": 25.03,
+  "text": "Several times a day, mom and dad dip their heads down",
+  "words": [
+   [
+    "several",
+    22.4
+   ],
+   [
+    "times",
+    22.84
+   ],
+   [
+    "a",
+    23.15
+   ],
+   [
+    "day",
+    23.22
+   ],
+   [
+    "mom",
+    23.4
+   ],
+   [
+    "and",
+    23.59
+   ],
+   [
+    "dad",
+    23.78
+   ],
+   [
+    "dip",
+    23.97
+   ],
+   [
+    "their",
+    24.16
+   ],
+   [
+    "heads",
+    24.47
+   ],
+   [
+    "down",
+    24.78
+   ]
+  ]
+ },
+ {
+  "s": 25.14,
+  "e": 27.68,
+  "text": "and roll each egg with their beak.",
+  "words": [
+   [
+    "and",
+    25.14
+   ],
+   [
+    "roll",
+    25.42
+   ],
+   [
+    "each",
+    25.8
+   ],
+   [
+    "egg",
+    26.18
+   ],
+   [
+    "with",
+    26.46
+   ],
+   [
+    "their",
+    26.83
+   ],
+   [
+    "beak",
+    27.3
+   ]
+  ]
+ },
+ {
+  "s": 28.1,
+  "e": 30.07,
+  "text": "From far away, the head vanishes.",
+  "words": [
+   [
+    "from",
+    28.1
+   ],
+   [
+    "far",
+    28.4
+   ],
+   [
+    "away",
+    28.63
+   ],
+   [
+    "the",
+    28.94
+   ],
+   [
+    "head",
+    29.16
+   ],
+   [
+    "vanishes",
+    29.47
+   ]
+  ]
+ },
+ {
+  "s": 30.5,
+  "e": 32.86,
+  "text": "And if danger's close and they can't get away,",
+  "words": [
+   [
+    "and",
+    30.5
+   ],
+   [
+    "if",
+    30.7
+   ],
+   [
+    "dangers",
+    30.84
+   ],
+   [
+    "close",
+    31.31
+   ],
+   [
+    "and",
+    31.65
+   ],
+   [
+    "they",
+    31.85
+   ],
+   [
+    "cant",
+    32.12
+   ],
+   [
+    "get",
+    32.39
+   ],
+   [
+    "away",
+    32.59
+   ]
+  ]
+ },
+ {
+  "s": 33.32,
+  "e": 35.84,
+  "text": "they flop flat, neck stretched along the dirt,",
+  "words": [
+   [
+    "they",
+    33.32
+   ],
+   [
+    "flop",
+    33.59
+   ],
+   [
+    "flat",
+    33.87
+   ],
+   [
+    "neck",
+    34.14
+   ],
+   [
+    "stretched",
+    34.41
+   ],
+   [
+    "along",
+    35.02
+   ],
+   [
+    "the",
+    35.36
+   ],
+   [
+    "dirt",
+    35.57
+   ]
+  ]
+ },
+ {
+  "s": 36.3,
+  "e": 37.8,
+  "text": "like a big lumpy bush.",
+  "words": [
+   [
+    "like",
+    36.3
+   ],
+   [
+    "a",
+    36.66
+   ],
+   [
+    "big",
+    36.74
+   ],
+   [
+    "lumpy",
+    37.01
+   ],
+   [
+    "bush",
+    37.45
+   ]
+  ]
+ },
+ {
+  "s": 38.15,
+  "e": 39.89,
+  "text": "But mostly? They just run.",
+  "words": [
+   [
+    "but",
+    38.15
+   ],
+   [
+    "mostly",
+    38.41
+   ],
+   [
+    "they",
+    38.93
+   ],
+   [
+    "just",
+    39.28
+   ],
+   [
+    "run",
+    39.63
+   ]
+  ]
+ },
+ {
+  "s": 40.26,
+  "e": 42.11,
+  "text": "Up to seventy kilometers an hour,",
+  "words": [
+   [
+    "up",
+    40.26
+   ],
+   [
+    "to",
+    40.4
+   ],
+   [
+    "seventy",
+    40.53
+   ],
+   [
+    "kilometers",
+    41.01
+   ],
+   [
+    "an",
+    41.7
+   ],
+   [
+    "hour",
+    41.84
+   ]
+  ]
+ },
+ {
+  "s": 42.55,
+  "e": 44.61,
+  "text": "the fastest bird on two legs.",
+  "words": [
+   [
+    "the",
+    42.55
+   ],
+   [
+    "fastest",
+    42.82
+   ],
+   [
+    "bird",
+    43.44
+   ],
+   [
+    "on",
+    43.8
+   ],
+   [
+    "two",
+    43.98
+   ],
+   [
+    "legs",
+    44.25
+   ]
+  ]
+ },
+ {
+  "s": 45.04,
+  "e": 47.59,
+  "text": "So next time an ostrich looks like it's hiding,",
+  "words": [
+   [
+    "so",
+    45.04
+   ],
+   [
+    "next",
+    45.18
+   ],
+   [
+    "time",
+    45.46
+   ],
+   [
+    "an",
+    45.73
+   ],
+   [
+    "ostrich",
+    45.87
+   ],
+   [
+    "looks",
+    46.35
+   ],
+   [
+    "like",
+    46.7
+   ],
+   [
+    "its",
+    46.97
+   ],
+   [
+    "hiding",
+    47.18
+   ]
+  ]
+ },
+ {
+  "s": 47.99,
+  "e": 49.19,
+  "text": "what's it really doing?",
+  "words": [
+   [
+    "whats",
+    47.99
+   ],
+   [
+    "it",
+    48.33
+   ],
+   [
+    "really",
+    48.46
+   ],
+   [
+    "doing",
+    48.86
+   ]
+  ]
+ }
+]
