@@ -378,273 +378,6 @@
     }
   },
   "videos": {
-    "2026-11-09-102": {
-      "topic": {
-        "title": "Why do some people get carsick and others don't?",
-        "format": "long",
-        "angle": "Flat-Vector Science"
-      },
-      "package": {
-        "title": "Why Do 1 in 3 People Get Carsick? \ud83d\ude97",
-        "description": "Why do some people get carsick while others can read in the back seat? Motion sickness explained in simple words: how your eyes and inner ear (the vestibular system) disagree, the poison theory, the genes behind it, and why the driver almost never feels sick.\n\nSources:\nhttps://medlineplus.gov/genetics/condition/motion-sickness/\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC4383869/\nhttps://www.popsci.com/science/why-people-get-motion-sickness/\n\nAnimated in the Flat-Vector Science style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#carsickness",
-          "#motionsickness",
-          "#science"
-        ],
-        "tags": [
-          "carsick",
-          "car sickness",
-          "motion sickness",
-          "why do i get carsick",
-          "motion sickness explained",
-          "inner ear",
-          "vestibular system",
-          "sensory conflict",
-          "why do people get carsick",
-          "body facts",
-          "science explained",
-          "zorbly ai",
-          "animated explainer",
-          "how the body works"
-        ],
-        "category": "27",
-        "pinned_comment": "Do you get carsick, or are you the one reading a book in the back seat? \ud83d\ude97",
-        "thumbnail_text": "POISON ALARM?",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "Every time you get carsick, your brain thinks you've swallowed poison. And for one in three people, that alarm goes off on almost every ride. So why does the back seat wreck some of us, while others read a whole book and feel totally fine? To find out, we need to look inside your head. You know how you're moving using two main systems. Your eyes are one. The other is hidden deep inside each ear. It's called the vestibular system, and it's basically a built-in motion sensor. Three tiny loops filled with fluid sense every time your head turns. And two little sacs lined with tiny crystals feel you speed up, slow down and tip. Most of the time your eyes and ears agree. But picture yourself in the back seat, reading a phone. Your eyes see a screen that isn't moving. Your inner ear feels every bump and every curve. One says still. The other says moving. Scientists call this sensory conflict, and it's the leading explanation for motion sickness. So why would a mixed-up signal make you feel sick? One popular theory goes way back to our ancestors. Long ago, if your senses suddenly stopped agreeing, a likely cause was something toxic you'd eaten. So the brain may have learned a simple rule. Signals don't match? Empty the stomach. Researchers still debate this idea, but it would explain why a bumpy ride can feel a lot like food poisoning. Here's where it gets personal. In 2015 the genetics company 23andMe studied more than eighty thousand people. They found thirty-five spots in our DNA linked to motion sickness. And some studies suggest up to seventy percent of the difference between people comes down to genes. Age matters too. Kids between about seven and twelve get it the most, and lots of people grow out of the worst of it. Women report it more often than men, and so do people who get migraines. So if your whole family turns green on road trips, that's probably not a coincidence. Now for the strangest part. People who have completely lost the motion sensors in their inner ears basically don't get motion sick at all. No inner ear signal, no conflict, no alarm. What you can see matters too. One study found that passengers who couldn't see the road ahead were about three times more likely to feel sick. And the driver? Usually fine. The driver knows every turn before it happens, so the brain isn't caught by surprise. This old alarm is now facing brand new problems. Virtual reality flips the conflict around. Your eyes see motion, but your body sits perfectly still. And as cars start driving themselves, everyone becomes a passenger, staring at screens instead of the road. So engineers are testing tricks, like lights that hint at the next turn, to help your eyes and ears agree again. So the next time a car ride makes you queasy, remember, your brain isn't broken. It's just protecting you from a poison that isn't there. Next time, what really happens if a porcupine's quills get stuck in you?",
-        "key_facts": [
-          "About 1 in 3 people are highly susceptible to motion sickness (MedlinePlus; Hromatka et al. 2015)",
-          "The leading explanation is sensory conflict: eyes signal still while the inner ear signals moving",
-          "One theory: the brain treats the mismatch like a sign of poisoning and triggers nausea (debated)",
-          "A 2015 23andMe study of 80,494 people found 35 genetic variants linked to motion sickness",
-          "Heritability estimates for motion sickness range up to about 70%",
-          "Children about 7-12 are most susceptible; it is more common in women and in people with migraines",
-          "People with complete loss of vestibular function are essentially immune to motion sickness",
-          "Passengers without a view of the road ahead were about 3 times more likely to get sick"
-        ],
-        "voice": "Kokoro",
-        "format": "long",
-        "style": "Flat-Vector Science"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261109-carsick",
-      "redos": 0,
-      "updated": "2026-11-09T23:27:44.394957+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-09",
-        "name": "2026-11-09-102.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-09",
-        "name": "2026-11-09-102-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:01,650\nEvery time you get carsick,\n\n2\n00:00:02,140 --> 00:00:04,410\nyour brain thinks you've swallowed poison.\n\n3\n00:00:04,800 --> 00:00:06,190\nAnd for one in three people,\n\n4\n00:00:06,610 --> 00:00:09,260\nthat alarm goes off on almost every ride.\n\n5\n00:00:09,650 --> 00:00:11,960\nSo why does the back seat wreck some of us,\n\n6\n00:00:12,420 --> 00:00:15,330\nwhile others read a whole book and feel totally fine?\n\n7\n00:00:15,820 --> 00:00:18,490\nTo find out, we need to look inside your head.\n\n8\n00:00:18,890 --> 00:00:21,800\nYou know how you're moving using two main systems.\n\n9\n00:00:22,240 --> 00:00:23,400\nYour eyes are one.\n\n10\n00:00:23,690 --> 00:00:26,060\nThe other is hidden deep inside each ear.\n\n11\n00:00:26,410 --> 00:00:28,030\nIt's called the vestibular system,\n\n12\n00:00:28,540 --> 00:00:31,150\nand it's basically a built-in motion sensor.\n\n13\n00:00:31,620 --> 00:00:33,940\nThree tiny loops filled with fluid\n\n14\n00:00:34,340 --> 00:00:35,940\nsense every time your head turns.\n\n15\n00:00:36,370 --> 00:00:39,320\nAnd two little sacs lined with tiny crystals\n\n16\n00:00:39,390 --> 00:00:41,610\nfeel you speed up, slow down and tip.\n\n17\n00:00:42,060 --> 00:00:44,420\nMost of the time your eyes and ears agree.\n\n18\n00:00:44,830 --> 00:00:47,830\nBut picture yourself in the back seat, reading a phone.\n\n19\n00:00:48,210 --> 00:00:50,310\nYour eyes see a screen that isn't moving.\n\n20\n00:00:50,700 --> 00:00:53,400\nYour inner ear feels every bump and every curve.\n\n21\n00:00:53,790 --> 00:00:56,090\nOne says still. The other says moving.\n\n22\n00:00:56,440 --> 00:00:58,650\nScientists call this sensory conflict,\n\n23\n00:00:59,260 --> 00:01:02,050\nand it's the leading explanation for motion sickness.\n\n24\n00:01:02,510 --> 00:01:05,180\nSo why would a mixed-up signal make you feel sick?\n\n25\n00:01:05,680 --> 00:01:09,120\nOne popular theory goes way back to our ancestors.\n\n26\n00:01:09,510 --> 00:01:12,420\nLong ago, if your senses suddenly stopped agreeing,\n\n27\n00:01:12,980 --> 00:01:15,670\na likely cause was something toxic you'd eaten.\n\n28\n00:01:16,040 --> 00:01:18,310\nSo the brain may have learned a simple rule.\n\n29\n00:01:18,750 --> 00:01:21,140\nSignals don't match? Empty the stomach.\n\n30\n00:01:21,590 --> 00:01:23,680\nResearchers still debate this idea,\n\n31\n00:01:24,250 --> 00:01:25,860\nbut it would explain why a bumpy ride\n\n32\n00:01:25,920 --> 00:01:28,710\ncan feel a lot like food poisoning.\n\n33\n00:01:29,090 --> 00:01:30,640\nHere's where it gets personal.\n\n34\n00:01:31,070 --> 00:01:34,250\nIn 2015 the genetics company 23andMe\n\n35\n00:01:34,250 --> 00:01:37,840\nstudied more than eighty thousand people.\n\n36\n00:01:38,240 --> 00:01:40,680\nThey found thirty-five spots in our DNA\n\n37\n00:01:41,050 --> 00:01:42,530\nlinked to motion sickness.\n\n38\n00:01:42,920 --> 00:01:46,340\nAnd some studies suggest up to seventy percent\n\n39\n00:01:46,410 --> 00:01:49,110\nof the difference between people comes down to genes.\n\n40\n00:01:49,530 --> 00:01:50,710\nAge matters too.\n\n41\n00:01:51,050 --> 00:01:54,220\nKids between about seven and twelve get it the most,\n\n42\n00:01:54,660 --> 00:01:56,970\nand lots of people grow out of the worst of it.\n\n43\n00:01:57,420 --> 00:01:59,580\nWomen report it more often than men,\n\n44\n00:02:00,110 --> 00:02:02,280\nand so do people who get migraines.\n\n45\n00:02:02,670 --> 00:02:05,690\nSo if your whole family turns green on road trips,\n\n46\n00:02:06,110 --> 00:02:08,090\nthat's probably not a coincidence.\n\n47\n00:02:08,540 --> 00:02:10,150\nNow for the strangest part.\n\n48\n00:02:10,530 --> 00:02:15,070\nPeople who have completely lost the motion sensors in their inner ears\n\n49\n00:02:15,600 --> 00:02:17,390\nbasically don't get motion sick at all.\n\n50\n00:02:17,850 --> 00:02:21,010\nNo inner ear signal, no conflict, no alarm.\n\n51\n00:02:21,460 --> 00:02:22,940\nWhat you can see matters too.\n\n52\n00:02:23,330 --> 00:02:26,810\nOne study found that passengers who couldn't see the road ahead\n\n53\n00:02:27,310 --> 00:02:30,050\nwere about three times more likely to feel sick.\n\n54\n00:02:30,500 --> 00:02:32,340\nAnd the driver? Usually fine.\n\n55\n00:02:32,690 --> 00:02:35,370\nThe driver knows every turn before it happens,\n\n56\n00:02:35,770 --> 00:02:38,100\nso the brain isn't caught by surprise.\n\n57\n00:02:38,460 --> 00:02:42,030\nThis old alarm is now facing brand new problems.\n\n58\n00:02:42,510 --> 00:02:45,250\nVirtual reality flips the conflict around.\n\n59\n00:02:45,660 --> 00:02:49,320\nYour eyes see motion, but your body sits perfectly still.\n\n60\n00:02:49,800 --> 00:02:52,020\nAnd as cars start driving themselves,\n\n61\n00:02:52,490 --> 00:02:54,060\neveryone becomes a passenger,\n\n62\n00:02:54,520 --> 00:02:56,840\nstaring at screens instead of the road.\n\n63\n00:02:57,270 --> 00:02:59,350\nSo engineers are testing tricks,\n\n64\n00:02:59,690 --> 00:03:01,530\nlike lights that hint at the next turn,\n\n65\n00:03:02,040 --> 00:03:04,440\nto help your eyes and ears agree again.\n\n66\n00:03:04,890 --> 00:03:07,530\nSo the next time a car ride makes you queasy,\n\n67\n00:03:07,760 --> 00:03:10,060\nremember, your brain isn't broken.\n\n68\n00:03:10,500 --> 00:03:13,330\nIt's just protecting you from a poison that isn't there.\n\n69\n00:03:13,740 --> 00:03:15,630\nNext time, what really happens\n\n70\n00:03:15,700 --> 00:03:18,150\nif a porcupine's quills get stuck in you?\n\n",
-      "tg_msg": 1069,
-      "approved_by": "auto",
-      "description_full": "Why do some people get carsick while others can read in the back seat? Motion sickness explained in simple words: how your eyes and inner ear (the vestibular system) disagree, the poison theory, the genes behind it, and why the driver almost never feels sick.\n\nSources:\nhttps://medlineplus.gov/genetics/condition/motion-sickness/\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC4383869/\nhttps://www.popsci.com/science/why-people-get-motion-sickness/\n\nAnimated in the Flat-Vector Science style.\n\nFollow Zorbly AI for a new Short every day.\n\n#carsickness #motionsickness #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/cws5UFz4_qA",
-          "private \u00b7 thumbnail \u2705"
-        ]
-      },
-      "uploaded_at": "2026-11-09T23:27:44.394977+00:00",
-      "slot": "2026-11-15T19:15:00+00:00"
-    },
-    "2026-11-09-103": {
-      "topic": {
-        "title": "Why does garlic breath last a whole day?",
-        "format": "animated",
-        "angle": "Copperplate Engraving"
-      },
-      "package": {
-        "title": "Why Does Garlic Breath Last 24 Hours? \ud83e\uddc4",
-        "description": "Why does garlic breath last so long? One garlic gas, allyl methyl sulfide, isn't broken down by your gut or liver, so it travels in your blood and comes out through your lungs and sweat for up to a day, which is why mouthwash can't fix it.\n\nSources:\nhttps://pubmed.ncbi.nlm.nih.gov/9950816/\nhttps://en.wikipedia.org/wiki/Garlic_breath\nhttps://www.popsci.com/why-is-it-so-hard-to-get-rid-garlic-breath/\n\nAnimated in the Copperplate Engraving style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#garlic",
-          "#science",
-          "#facts"
-        ],
-        "tags": [
-          "why does garlic breath last",
-          "garlic breath",
-          "allyl methyl sulfide",
-          "garlic breath lungs",
-          "how to get rid of garlic breath",
-          "why mouthwash doesn't work on garlic",
-          "garlic smell sweat",
-          "food science",
-          "body facts",
-          "science explained",
-          "food facts",
-          "garlic",
-          "engraving animation"
-        ],
-        "category": "27",
-        "pinned_comment": "Would you still eat garlic before a date? Yes or no?",
-        "thumbnail_text": "IT'S YOUR LUNGS",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "Your garlic breath can leak out of your lungs for twenty-four hours. Why?\nMouthwash won't stop it.\nCrush a clove of garlic\nand it lets off a bunch of stinky sulfur gases.\nMost break down fast.\nBut one is sneaky.\nIt's called allyl methyl sulfide.\nYour gut and liver barely touch it,\nso it slips into your blood\nand rides around your whole body.\nEach time that blood passes through your lungs,\na little leaks out on your breath.\nSome even sneaks out through your sweat.\nThree hours after dinner,\nit's the main garlic smell you're breathing out.\nAnd it keeps that up for hours and hours.\nRaw apple, mint or milk can help a little.\nSo really,\ngarlic breath is garlic blood.\nWould you still eat garlic before a date?",
-        "key_facts": [
-          "Crushed garlic releases several volatile sulfur compounds; allyl methyl sulfide (AMS) is the one that lingers (Suarez et al. 1999; PopSci/Barringer)",
-          "AMS is barely metabolized by the gut and liver, so it is absorbed into the blood and exhaled through the lungs; also excreted via skin and urine (PubMed 9950816; Wikipedia)",
-          "About 3 hours after eating garlic, AMS was the main sulfur gas on the breath (Suarez et al. 1999)",
-          "Garlic can still be smelled on the breath about 24 hours later (Sheryl Barringer, Ohio State, via PopSci)",
-          "Mouthwash and mints don't help much because the compounds come from the blood (Wikipedia)",
-          "Raw apple, mint and milk reduce garlic breath volatiles (Ohio State studies, via PopSci/Wikipedia)"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Copperplate Engraving"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261109-garlic-breath",
-      "redos": 0,
-      "updated": "2026-11-09T23:27:48.074739+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Copperplate Engraving style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-09",
-        "name": "2026-11-09-103.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-09",
-        "name": "2026-11-09-103-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:04,470\nYour garlic breath can leak out of your lungs for twenty-four hours. Why?\n\n2\n00:00:05,050 --> 00:00:06,430\nMouthwash won't stop it.\n\n3\n00:00:06,700 --> 00:00:08,050\nCrush a clove of garlic\n\n4\n00:00:08,540 --> 00:00:11,460\nand it lets off a bunch of stinky sulfur gases.\n\n5\n00:00:11,900 --> 00:00:13,440\nMost break down fast.\n\n6\n00:00:13,810 --> 00:00:15,000\nBut one is sneaky.\n\n7\n00:00:15,350 --> 00:00:17,430\nIt's called allyl methyl sulfide.\n\n8\n00:00:17,790 --> 00:00:19,620\nYour gut and liver barely touch it,\n\n9\n00:00:20,110 --> 00:00:21,420\nso it slips into your blood\n\n10\n00:00:21,420 --> 00:00:23,380\nand rides around your whole body.\n\n11\n00:00:23,770 --> 00:00:26,370\nEach time that blood passes through your lungs,\n\n12\n00:00:26,780 --> 00:00:28,310\na little leaks out on your breath.\n\n13\n00:00:28,720 --> 00:00:30,790\nSome even sneaks out through your sweat.\n\n14\n00:00:31,170 --> 00:00:32,470\nThree hours after dinner,\n\n15\n00:00:32,920 --> 00:00:35,240\nit's the main garlic smell you're breathing out.\n\n16\n00:00:35,680 --> 00:00:38,030\nAnd it keeps that up for hours and hours.\n\n17\n00:00:38,450 --> 00:00:41,150\nRaw apple, mint or milk can help a little.\n\n18\n00:00:41,510 --> 00:00:42,190\nSo really,\n\n19\n00:00:42,370 --> 00:00:44,200\ngarlic breath is garlic blood.\n\n20\n00:00:44,600 --> 00:00:46,750\nWould you still eat garlic before a date?\n\n",
-      "tg_msg": 1070,
-      "approved_by": "auto",
-      "description_full": "Why does garlic breath last so long? One garlic gas, allyl methyl sulfide, isn't broken down by your gut or liver, so it travels in your blood and comes out through your lungs and sweat for up to a day, which is why mouthwash can't fix it.\n\nSources:\nhttps://pubmed.ncbi.nlm.nih.gov/9950816/\nhttps://en.wikipedia.org/wiki/Garlic_breath\nhttps://www.popsci.com/why-is-it-so-hard-to-get-rid-garlic-breath/\n\nAnimated in the Copperplate Engraving style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #garlic #science #facts\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Copperplate Engraving style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/fivS1hadQwM",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-11-09T23:27:48.074757+00:00",
-      "slot": "2026-11-16T00:15:00+00:00"
-    },
-    "2026-11-09-104": {
-      "topic": {
-        "title": "How do owls fly without making a sound?",
-        "format": "animated",
-        "angle": "Napkin Sketch"
-      },
-      "package": {
-        "title": "Why You Can't Hear an Owl Until It's 3 Feet Away \ud83e\udd89",
-        "description": "How do owls fly without making a sound? Comb-like serrations on the wing's leading edge, a soft trailing-edge fringe and velvety feathers break up and hush the air swirls that make most birds' wings whoosh, so a barn owl's flight stays quiet in the range a mouse can hear.\n\nSources:\nhttps://www.audubon.org/magazine/silent-flight-of-owls-explained\nhttps://knowablemagazine.org/article/technology/2020/how-owls-fly-without-making-a-sound\nhttps://www.smithsonianmag.com/science-nature/silence-wind-turbines-engineers-are-studying-owl-wings-180974659/\n\nAnimated in the Napkin Sketch style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#owls",
-          "#animalfacts",
-          "#science"
-        ],
-        "tags": [
-          "how do owls fly silently",
-          "owl silent flight",
-          "why are owls silent",
-          "barn owl",
-          "owl feathers",
-          "owl wing comb",
-          "owl wing serrations",
-          "animal facts",
-          "bird facts",
-          "nature explained",
-          "science explained",
-          "fun facts",
-          "zorbly ai",
-          "animated explainer",
-          "how it works"
-        ],
-        "category": "27",
-        "pinned_comment": "If an owl flew over you tonight, do you think you'd hear it? Be honest \ud83e\udd89",
-        "thumbnail_text": "SILENT WINGS",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "Why can't you hear an owl until it's three feet from you? Most birds' wings churn the air into big swirls, and those swirls are the whoosh you hear. But an owl's front wing feathers have a comb, tiny teeth along the edge. They split the air into small, quiet streams. Then a soft, ragged fringe on the back edge and a velvety coat on top hush whatever noise is left. Big wings help too. A barn owl can fly as slowly as two miles an hour, and slower means quieter. Its wings mute the high sounds above sixteen hundred hertz, right where a mouse's hearing begins. So the mouse never hears it coming, but the owl hears the mouse just fine. If an owl flew over you tonight, do you think you'd hear it?",
-        "key_facts": [
-          "Comb-like serrations on the leading edge of owl wing feathers break up turbulent air that makes a swooshing sound (Audubon)",
-          "A soft trailing-edge fringe and a velvety feather texture further dampen the noise (Audubon; Knowable/Smithsonian)",
-          "A barn owl's swoosh is below the threshold of human hearing until the owl is about three feet away (Knowable/Smithsonian)",
-          "Large wings relative to body mass let owls fly as slowly as about 2 mph for a barn owl (Audubon)",
-          "Owl wings mute frequencies above about 1,600 Hz, roughly where rodent hearing begins (Knowable/Smithsonian)"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Napkin Sketch"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261109-owl-silent-flight",
-      "redos": 0,
-      "updated": "2026-11-09T23:27:52.140677+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Napkin Sketch style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-09",
-        "name": "2026-11-09-104.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-09",
-        "name": "2026-11-09-104-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:01,580\nWhy can't you hear an owl\n\n2\n00:00:01,720 --> 00:00:03,250\nuntil it's three feet from you?\n\n3\n00:00:03,780 --> 00:00:06,490\nMost birds' wings churn the air into big swirls,\n\n4\n00:00:06,630 --> 00:00:09,240\nand those swirls are the whoosh you hear.\n\n5\n00:00:09,600 --> 00:00:11,940\nBut an owl's front wing feathers have a comb,\n\n6\n00:00:12,320 --> 00:00:14,070\ntiny teeth along the edge.\n\n7\n00:00:14,500 --> 00:00:17,040\nThey split the air into small, quiet streams.\n\n8\n00:00:17,470 --> 00:00:20,160\nThen a soft, ragged fringe on the back edge\n\n9\n00:00:20,530 --> 00:00:22,400\nand a velvety coat on top\n\n10\n00:00:22,720 --> 00:00:24,130\nhush whatever noise is left.\n\n11\n00:00:24,500 --> 00:00:25,840\nBig wings help too.\n\n12\n00:00:26,120 --> 00:00:29,140\nA barn owl can fly as slowly as two miles an hour,\n\n13\n00:00:29,650 --> 00:00:31,200\nand slower means quieter.\n\n14\n00:00:31,590 --> 00:00:35,210\nIts wings mute the high sounds above sixteen hundred hertz,\n\n15\n00:00:35,690 --> 00:00:37,750\nright where a mouse's hearing begins.\n\n16\n00:00:38,170 --> 00:00:39,950\nSo the mouse never hears it coming,\n\n17\n00:00:40,440 --> 00:00:42,770\nbut the owl hears the mouse just fine.\n\n18\n00:00:43,180 --> 00:00:44,990\nIf an owl flew over you tonight,\n\n19\n00:00:45,360 --> 00:00:46,370\ndo you think you'd hear it?\n\n",
-      "tg_msg": 1071,
-      "approved_by": "auto",
-      "description_full": "How do owls fly without making a sound? Comb-like serrations on the wing's leading edge, a soft trailing-edge fringe and velvety feathers break up and hush the air swirls that make most birds' wings whoosh, so a barn owl's flight stays quiet in the range a mouse can hear.\n\nSources:\nhttps://www.audubon.org/magazine/silent-flight-of-owls-explained\nhttps://knowablemagazine.org/article/technology/2020/how-owls-fly-without-making-a-sound\nhttps://www.smithsonianmag.com/science-nature/silence-wind-turbines-engineers-are-studying-owl-wings-180974659/\n\nAnimated in the Napkin Sketch style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #owls #animalfacts #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Napkin Sketch style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/ikwlhKVEeKM",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-11-09T23:27:52.140694+00:00",
-      "slot": "2026-11-16T02:15:00+00:00"
-    },
     "2026-11-09-105": {
       "topic": {
         "title": "Why do geese fly in a V?",
@@ -3117,12 +2850,12 @@
         "format": "animated",
         "style": "Kawaii Anime"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261115-mint-cold",
       "redos": 0,
-      "updated": "2026-11-15T17:23:55.790717+00:00",
+      "updated": "2026-11-15T19:47:38.285231+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech."
       ],
@@ -3137,7 +2870,29 @@
         "name": "2026-11-15-102-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:03,300\nMint never cools your mouth, not even one degree.\n\n2\n00:00:03,660 --> 00:00:05,360\nSo why does it feel freezing?\n\n3\n00:00:05,840 --> 00:00:08,140\nIt's a trick, and your brain falls for it.\n\n4\n00:00:08,550 --> 00:00:11,240\nYour mouth is packed with tiny cold alarms.\n\n5\n00:00:11,700 --> 00:00:13,740\nAt body temperature they stay quiet,\n\n6\n00:00:14,280 --> 00:00:18,270\nand they only start ringing below about twenty-six degrees Celsius.\n\n7\n00:00:18,750 --> 00:00:20,850\nThat's around seventy-nine Fahrenheit.\n\n8\n00:00:21,210 --> 00:00:23,700\nBut mint carries a molecule called menthol,\n\n9\n00:00:24,190 --> 00:00:26,070\nand it fits that alarm like a key.\n\n10\n00:00:26,450 --> 00:00:29,600\nNow the alarm rings at a cozy thirty-seven degrees,\n\n11\n00:00:29,820 --> 00:00:32,000\nand shouts to your brain: freezing!\n\n12\n00:00:32,350 --> 00:00:34,620\nYet your mouth hasn't cooled down one bit.\n\n13\n00:00:35,070 --> 00:00:37,680\nThat's why a sip of water after mint gum\n\n14\n00:00:37,970 --> 00:00:39,970\nfeels like you just drank a glacier.\n\n15\n00:00:40,400 --> 00:00:42,080\nThe alarms are already primed,\n\n16\n00:00:42,480 --> 00:00:44,650\nso even cool water feels icy.\n\n17\n00:00:45,040 --> 00:00:47,590\nAnd honestly, it's the same trick chili plays,\n\n18\n00:00:48,000 --> 00:00:49,920\njust on the heat alarm instead.\n\n19\n00:00:50,260 --> 00:00:53,150\nBe honest, did you think mint was actually cold?\n\n",
-      "tg_msg": 1129
+      "tg_msg": 1129,
+      "approved_by": "auto",
+      "description_full": "Why does mint make your mouth feel cold when it isn't? Menthol in mint switches on TRPM8, the cold sensor in your mouth that normally fires below about 26\u00b0C, so your brain feels freezing with no real temperature change.\n\nSources:\nhttps://www.sciencealert.com/why-does-mint-make-your-mouth-cold-a-scientist-explains-the-strange-sensation\nhttps://pubmed.ncbi.nlm.nih.gov/11893340/\nhttps://www.nature.com/articles/nature05910\n\nAnimated in the Kawaii Anime style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #science #food #mint\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/BVav7LIIq6A",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-15T19:47:38.285249+00:00",
+      "slot": "2026-11-22T19:15:00+00:00"
     },
     "2026-11-15-103": {
       "topic": {
@@ -3188,12 +2943,12 @@
         "format": "animated",
         "style": "Copperplate Engraving"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261115-pill-bug",
       "redos": 0,
-      "updated": "2026-11-15T17:24:08.683043+00:00",
+      "updated": "2026-11-15T19:47:43.883180+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Copperplate Engraving style). Voice: Kokoro text-to-speech."
       ],
@@ -3208,7 +2963,29 @@
         "name": "2026-11-15-103-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:01,860\nPill bugs roll into balls,\n\n2\n00:00:01,990 --> 00:00:04,800\nbut you've never seen the real reason why.\n\n3\n00:00:05,180 --> 00:00:06,900\nFirst, they aren't bugs at all.\n\n4\n00:00:07,360 --> 00:00:08,340\nThey're crustaceans,\n\n5\n00:00:08,800 --> 00:00:11,200\ncousins of crabs, shrimp and lobsters.\n\n6\n00:00:11,570 --> 00:00:14,000\nCount the legs. Fourteen, not six.\n\n7\n00:00:14,450 --> 00:00:17,360\nTheir back is a row of hard, overlapping plates.\n\n8\n00:00:17,770 --> 00:00:18,970\nBut their belly is soft,\n\n9\n00:00:19,290 --> 00:00:21,040\nwith legs and tiny gills.\n\n10\n00:00:21,380 --> 00:00:22,250\nYep, gills.\n\n11\n00:00:22,590 --> 00:00:24,440\nThey breathe like their sea cousins,\n\n12\n00:00:24,780 --> 00:00:26,120\nso they have to stay damp.\n\n13\n00:00:26,510 --> 00:00:28,590\nNow poke one, or shake the ground.\n\n14\n00:00:29,010 --> 00:00:31,240\nIt tucks its head, folds its tail,\n\n15\n00:00:31,570 --> 00:00:34,270\nand the plates lock into a perfect armoured ball.\n\n16\n00:00:34,640 --> 00:00:36,750\nA hungry ant just finds a smooth shell\n\n17\n00:00:37,030 --> 00:00:38,410\nwith nothing soft to grab.\n\n18\n00:00:38,860 --> 00:00:40,910\nAnd inside, the ball traps moisture,\n\n19\n00:00:41,330 --> 00:00:42,930\nso those gills don't dry out.\n\n20\n00:00:43,320 --> 00:00:45,660\nTheir cousins, sow bugs, can't roll up.\n\n21\n00:00:46,100 --> 00:00:47,320\nThey just run for it.\n\n22\n00:00:47,760 --> 00:00:49,180\nSo, armour or speed?\n\n23\n00:00:49,640 --> 00:00:50,930\nWhich one would you pick?\n\n",
-      "tg_msg": 1130
+      "tg_msg": 1130,
+      "approved_by": "auto",
+      "description_full": "Why do pill bugs (roly-polies) roll into a ball? These woodlice are land crustaceans with 14 legs and gills, and curling up shields their soft belly from predators and traps moisture so they don't dry out.\n\nSources:\nhttps://www.alabamawildlife.org/wonders-of-wildlife-pill-bug/\nhttps://edis.ifas.ufl.edu/publication/IN1099\nhttps://www.accessibility.extension.msstate.edu/newsletters/bugs-eye-view/2020/pillbugs-vol-6-no-24\n\nAnimated in the Copperplate Engraving style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #pillbug #animals #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Copperplate Engraving style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/7AtplZ05gYk",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-15T19:47:43.883198+00:00",
+      "slot": "2026-11-23T00:15:00+00:00"
     },
     "2026-11-15-104": {
       "topic": {
@@ -3262,12 +3039,12 @@
         "format": "long",
         "style": "Whiteboard Explainer"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261115-sloth-slow",
       "redos": 0,
-      "updated": "2026-11-15T17:24:20.847506+00:00",
+      "updated": "2026-11-15T19:47:50.592997+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Whiteboard Explainer style). Voice: Kokoro text-to-speech."
       ],
@@ -3282,7 +3059,89 @@
         "name": "2026-11-15-104-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:03,020\nBeing slow is the reason sloths are still alive,\n\n2\n00:00:03,610 --> 00:00:04,920\nand you'd never guess why.\n\n3\n00:00:05,340 --> 00:00:06,690\nSloths aren't lazy.\n\n4\n00:00:06,980 --> 00:00:09,140\nTheir slowness is a survival plan,\n\n5\n00:00:09,680 --> 00:00:12,050\nand every part of their body is built around it.\n\n6\n00:00:12,420 --> 00:00:13,530\nLet's draw it out.\n\n7\n00:00:13,870 --> 00:00:16,740\nChapter one. A diet with almost no fuel.\n\n8\n00:00:17,170 --> 00:00:18,490\nSloths live high up\n\n9\n00:00:18,560 --> 00:00:21,510\nin the rainforests of Central and South America.\n\n10\n00:00:21,920 --> 00:00:23,480\nAnd they mostly eat leaves.\n\n11\n00:00:23,840 --> 00:00:25,750\nLeaves are tough, full of fibre,\n\n12\n00:00:25,990 --> 00:00:27,780\nand some are even a bit toxic.\n\n13\n00:00:28,200 --> 00:00:30,490\nThey give a sloth very little energy.\n\n14\n00:00:30,910 --> 00:00:32,620\nSo a sloth runs its body\n\n15\n00:00:32,620 --> 00:00:34,600\nlike a phone on low battery.\n\n16\n00:00:35,040 --> 00:00:37,230\nIts metabolism is less than half\n\n17\n00:00:37,230 --> 00:00:40,000\nof what you'd expect for an animal its size.\n\n18\n00:00:40,440 --> 00:00:42,780\nAnd it has about thirty percent less muscle\n\n19\n00:00:43,010 --> 00:00:44,680\nthan other mammals its size.\n\n20\n00:00:45,100 --> 00:00:47,100\nChapter two. The slowest stomach.\n\n21\n00:00:47,480 --> 00:00:49,630\nA sloth's stomach has several chambers,\n\n22\n00:00:50,090 --> 00:00:53,010\nfull of microbes that slowly break leaves down.\n\n23\n00:00:53,420 --> 00:00:56,200\nA full stomach can make up a big chunk of its weight.\n\n24\n00:00:56,670 --> 00:00:59,400\nSome scientists think one leafy meal\n\n25\n00:00:59,480 --> 00:01:02,110\ncan take up to a month to pass all the way through.\n\n26\n00:01:02,530 --> 00:01:05,010\nThat's the slowest digestion of any mammal.\n\n27\n00:01:05,470 --> 00:01:07,180\nAnd to save even more energy,\n\n28\n00:01:07,720 --> 00:01:10,960\na sloth lets its body temperature drift with the weather.\n\n29\n00:01:11,340 --> 00:01:13,870\nOn chilly mornings, it sunbathes to warm up,\n\n30\n00:01:14,290 --> 00:01:15,640\nlike a lizard with fur.\n\n31\n00:01:16,080 --> 00:01:17,870\nChapter three. The weekly trip.\n\n32\n00:01:18,260 --> 00:01:19,810\nHere's the strangest part.\n\n33\n00:01:20,170 --> 00:01:21,000\nAbout once a week,\n\n34\n00:01:21,420 --> 00:01:24,560\na three-toed sloth climbs all the way down\n\n35\n00:01:25,030 --> 00:01:25,890\nto the ground, just to poop.\n\n36\n00:01:26,360 --> 00:01:28,830\nIt digs a little hole, does its business,\n\n37\n00:01:28,830 --> 00:01:29,990\nand climbs back up.\n\n38\n00:01:30,430 --> 00:01:32,330\nThat trip burns a lot of energy,\n\n39\n00:01:32,860 --> 00:01:35,870\nand it's the most dangerous thing a sloth ever does.\n\n40\n00:01:36,340 --> 00:01:37,390\nSo why bother?\n\n41\n00:01:37,920 --> 00:01:39,240\nScientists think it helps\n\n42\n00:01:39,300 --> 00:01:41,360\na tiny moth that lives in its fur.\n\n43\n00:01:41,700 --> 00:01:43,430\nThe moths lay eggs in the dung.\n\n44\n00:01:43,900 --> 00:01:46,380\nThe babies grow up, fly into the trees,\n\n45\n00:01:46,540 --> 00:01:48,300\nand find a new sloth to live on.\n\n46\n00:01:48,670 --> 00:01:50,960\nChapter four. A garden on its back.\n\n47\n00:01:51,330 --> 00:01:54,400\nSloth hair has tiny cracks that soak up rainwater.\n\n48\n00:01:54,840 --> 00:01:56,730\nGreen algae grow inside them,\n\n49\n00:01:57,130 --> 00:01:58,950\nso a sloth can look a little green.\n\n50\n00:01:59,300 --> 00:02:00,980\nThe moths seem to feed that algae,\n\n51\n00:02:01,440 --> 00:02:03,690\nand the sloth may lick some off as a snack.\n\n52\n00:02:04,050 --> 00:02:04,770\nIn one study,\n\n53\n00:02:05,230 --> 00:02:08,430\na sloth carried about a hundred and twenty grams of algae.\n\n54\n00:02:08,830 --> 00:02:11,280\nChapter five. Slow means invisible.\n\n55\n00:02:11,650 --> 00:02:13,030\nA sloth's biggest enemies\n\n56\n00:02:13,270 --> 00:02:15,290\nare harpy eagles and big cats.\n\n57\n00:02:15,700 --> 00:02:18,440\nMany of these hunters spot prey by its movement.\n\n58\n00:02:18,840 --> 00:02:20,110\nA sloth barely moves,\n\n59\n00:02:20,240 --> 00:02:22,300\nand it can look green and mossy,\n\n60\n00:02:22,630 --> 00:02:24,610\nso it blends right into the leaves.\n\n61\n00:02:24,980 --> 00:02:26,870\nTo an eagle scanning the treetops,\n\n62\n00:02:27,280 --> 00:02:29,550\na sloth just looks like part of the tree.\n\n63\n00:02:29,920 --> 00:02:32,000\nEven its body helps it hang around.\n\n64\n00:02:32,410 --> 00:02:34,410\nIts organs are anchored to its ribs,\n\n65\n00:02:34,540 --> 00:02:38,170\nso they don't squash its lungs when it hangs upside down.\n\n66\n00:02:38,620 --> 00:02:39,850\nAnd here's a bonus.\n\n67\n00:02:40,130 --> 00:02:40,710\nIn water,\n\n68\n00:02:40,920 --> 00:02:43,130\nsloths are surprisingly good swimmers.\n\n69\n00:02:43,540 --> 00:02:45,560\nThey paddle with those long arms,\n\n70\n00:02:45,970 --> 00:02:48,400\noften faster than they can crawl on land.\n\n71\n00:02:48,820 --> 00:02:51,070\nSo sloths aren't failing at being fast.\n\n72\n00:02:51,460 --> 00:02:52,980\nThey're winning at being slow.\n\n73\n00:02:53,370 --> 00:02:54,970\nIn a jungle full of hunters,\n\n74\n00:02:55,410 --> 00:02:59,240\nsaving energy and staying unseen beats speed every time.\n\n75\n00:02:59,610 --> 00:03:01,750\nNext time, how does your heart\n\n76\n00:03:01,830 --> 00:03:03,830\nbeat about a hundred thousand times a day?\n\n",
-      "tg_msg": 1131
+      "tg_msg": 1131,
+      "approved_by": "auto",
+      "description_full": "Why are sloths so slow? A leafy diet gives them almost no energy, so sloths run on the lowest metabolism of any mammal, digest a single meal for weeks, and stay alive by barely moving, which hides them from harpy eagles and big cats. We draw the whole survival plan on a whiteboard: the slowest stomach, the weekly trip down to poop, the moths and green algae living in sloth fur, and the organs anchored to their ribs.\n\nSources:\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC3906947\nhttps://a-z-animals.com/animals/sloth/what-sloths-eat-and-how-it-explains-their-famous-slowness/\nhttps://www.nationalgeographic.com/science/article/to-breathe-upside-down-sloths-tape-organs-to-their-ribs\n\nAnimated in the Whiteboard Explainer style.\n\nFollow Zorbly AI for a new Short every day.\n\n#sloth #animalfacts #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Whiteboard Explainer style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/YLUDax8r5AI",
+          "private \u00b7 thumbnail \u2705"
+        ]
+      },
+      "uploaded_at": "2026-11-15T19:47:50.593015+00:00",
+      "slot": "2026-11-16T00:15:00+00:00"
+    },
+    "2026-11-15-105": {
+      "topic": {
+        "title": "Why don't ostriches really bury their heads in sand?",
+        "format": "animated",
+        "angle": "1930s Rubber Hose Cartoon"
+      },
+      "package": {
+        "title": "Do Ostriches Bury Their Heads? A 2,000-Year-Old Myth",
+        "description": "Do ostriches really bury their heads in the sand? No: the myth goes back to Pliny the Elder about 2,000 years ago, and it likely comes from ostriches lowering their heads to turn their eggs in a shallow ground nest, or lying flat with their necks along the ground to hide from danger.\n\nSources:\nhttps://www.livescience.com/animals/birds/do-ostriches-really-bury-their-heads-in-the-sand\nhttps://www.scienceworld.ca/stories/do-ostriches-really-bury-their-heads-sand/\nhttps://www.scienceabc.com/nature/animals/ostriches-really-bury-heads-sand.html\n\nAnimated in the 1930s Rubber Hose Cartoon style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#ostrich",
+          "#animalfacts",
+          "#mythbusting"
+        ],
+        "tags": [
+          "ostrich",
+          "do ostriches bury their heads in the sand",
+          "ostrich head in sand myth",
+          "ostrich facts",
+          "pliny the elder",
+          "animal myths",
+          "ostrich nest",
+          "ostrich eggs",
+          "fastest bird",
+          "animal facts",
+          "bird facts",
+          "nature explained",
+          "science shorts",
+          "rubber hose cartoon"
+        ],
+        "category": "27",
+        "pinned_comment": "Before you watched this, did you believe ostriches really buried their heads? Be honest!",
+        "thumbnail_text": "HEAD IN SAND?",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "Ostriches never bury their heads in sand,\nbut you've seen it happen. Why?\nBlame a Roman writer, Pliny the Elder,\nnearly two thousand years ago.\nHe wrote that ostriches hide their heads in bushes\nand think nobody can see them.\nHere's what's really going on.\nOstriches dig a shallow hole in the ground\nand lay their giant eggs inside.\nSeveral times a day, mom and dad dip their heads down\nand roll each egg with their beak.\nFrom far away, the head vanishes.\nAnd if danger's close and they can't get away,\nthey flop flat, neck stretched along the dirt,\nlike a big lumpy bush.\nBut mostly? They just run.\nUp to seventy kilometers an hour,\nthe fastest bird on two legs.\nSo next time an ostrich looks like it's hiding,\nwhat's it really doing?",
+        "key_facts": [
+          "Ostriches do not bury their heads in sand",
+          "The myth is thought to come from Roman naturalist Pliny the Elder around 2,000 years ago (Natural History, Book 10), who wrote that they hide their head and neck in a bush",
+          "Ostriches dig shallow holes in the ground to lay their eggs",
+          "Both parents rotate the eggs with their beaks several times a day",
+          "If they can't escape, they may lie very flat with their necks extended along the ground to blend in",
+          "When in danger they often run away, at up to about 70 km/h (43 mph)",
+          "The ostrich is the fastest-running bird"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "1930s Rubber Hose Cartoon"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261115-ostrich-heads",
+      "redos": 0,
+      "updated": "2026-11-15T19:55:38.352448+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (1930s Rubber Hose Cartoon style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-15",
+        "name": "2026-11-15-105.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-15",
+        "name": "2026-11-15-105-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:02,650\nOstriches never bury their heads in sand,\n\n2\n00:00:02,800 --> 00:00:04,660\nbut you've seen it happen. Why?\n\n3\n00:00:05,120 --> 00:00:07,660\nBlame a Roman writer, Pliny the Elder,\n\n4\n00:00:08,000 --> 00:00:09,630\nnearly two thousand years ago.\n\n5\n00:00:10,000 --> 00:00:12,810\nHe wrote that ostriches hide their heads in bushes\n\n6\n00:00:13,200 --> 00:00:14,790\nand think nobody can see them.\n\n7\n00:00:15,160 --> 00:00:16,810\nHere's what's really going on.\n\n8\n00:00:17,260 --> 00:00:19,610\nOstriches dig a shallow hole in the ground\n\n9\n00:00:20,090 --> 00:00:22,050\nand lay their giant eggs inside.\n\n10\n00:00:22,400 --> 00:00:25,030\nSeveral times a day, mom and dad dip their heads down\n\n11\n00:00:25,140 --> 00:00:27,680\nand roll each egg with their beak.\n\n12\n00:00:28,100 --> 00:00:30,070\nFrom far away, the head vanishes.\n\n13\n00:00:30,500 --> 00:00:32,860\nAnd if danger's close and they can't get away,\n\n14\n00:00:33,320 --> 00:00:35,840\nthey flop flat, neck stretched along the dirt,\n\n15\n00:00:36,300 --> 00:00:37,800\nlike a big lumpy bush.\n\n16\n00:00:38,150 --> 00:00:39,890\nBut mostly? They just run.\n\n17\n00:00:40,260 --> 00:00:42,110\nUp to seventy kilometers an hour,\n\n18\n00:00:42,550 --> 00:00:44,610\nthe fastest bird on two legs.\n\n19\n00:00:45,040 --> 00:00:47,590\nSo next time an ostrich looks like it's hiding,\n\n20\n00:00:47,990 --> 00:00:49,190\nwhat's it really doing?\n\n",
+      "tg_msg": 1135
     }
   },
   "history": [
@@ -3482,7 +3341,8 @@
     "drop/20261115-mantis-shrimp-punch": "2026-11-15-101",
     "drop/20261115-mint-cold": "2026-11-15-102",
     "drop/20261115-pill-bug": "2026-11-15-103",
-    "drop/20261115-sloth-slow": "2026-11-15-104"
+    "drop/20261115-sloth-slow": "2026-11-15-104",
+    "drop/20261115-ostrich-heads": "2026-11-15-105"
   },
   "refs_day": "2026-11-15"
 }
