@@ -378,97 +378,6 @@
     }
   },
   "videos": {
-    "2026-11-09-105": {
-      "topic": {
-        "title": "Why do geese fly in a V?",
-        "format": "animated",
-        "angle": "Pictogram Motion"
-      },
-      "package": {
-        "title": "Why Do Geese Fly in a V? \ud83e\udebf",
-        "description": "Why do geese fly in a V? Each bird rides the rising air that curls off the wingtip of the bird ahead, which saves energy: pelicans flying in formation had heart rates up to 14% lower, and ibises take turns in the tiring front spot.\n\nSources:\nhttps://www.nationalgeographic.com/science/article/birds-that-fly-in-a-v-formation-use-an-amazing-trick\nhttps://www.ox.ac.uk/node/29050\nhttps://www.audubon.org/magazine/why-birds-fly-v-formation-migration-science\n\nAnimated in the Pictogram Motion style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#birds",
-          "#science",
-          "#animals"
-        ],
-        "tags": [
-          "why do geese fly in a v",
-          "v formation",
-          "geese v formation",
-          "birds flying in v",
-          "wingtip vortex",
-          "upwash",
-          "bird migration",
-          "pelican heart rate formation",
-          "ibis v formation",
-          "animal facts",
-          "science explained",
-          "how birds fly",
-          "nature facts",
-          "pictogram animation"
-        ],
-        "category": "27",
-        "pinned_comment": "Would you rather be the leader at the front of the V, or the bird riding in the back?",
-        "thumbnail_text": "FREE LIFT",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "Birds in a V can cut their heart rate 14 percent,\nand you've never seen why.\nIt's the secret behind every V of geese.\nEach flap pushes air down behind the wing.\nBut at the wingtip, air curls up and around,\ninto a spinning swirl.\nJust outside that swirl, the air is rising.\nSo the bird behind slides into that exact spot,\nand gets free lift on every flap.\nLine everyone up like that,\nand you get a V.\nPelicans tracked in formation\nhad heart rates up to 14 percent lower than flying solo.\nIbises even time their flaps to match the bird ahead.\nBut the front bird gets no free ride.\nSo ibises take turns,\nswapping the tiring spot at the front.\nHonestly, that's teamwork with zero meetings.\nSo which bird would you rather be,\nthe leader at the front, or the one in the back?",
-        "key_facts": [
-          "Wingtip vortices create rising air (upwash) just outside each wingtip; a following bird placed there gets extra lift (Portugal et al. 2014, Nature, via National Geographic)",
-          "Great white pelicans flying in formation had heart rates 11-14% lower than flying alone (Weimerskirch et al. 2001, Nature)",
-          "Northern bald ibises time their wingbeats to match the upwash of the bird ahead (Portugal et al. 2014)",
-          "Ibises in V formation take turns leading, swapping the costly front position (Voelkl et al. 2015, PNAS, via Oxford)"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Pictogram Motion"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261109-geese-v",
-      "redos": 0,
-      "updated": "2026-11-10T08:34:31.605522+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Pictogram Motion style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-09",
-        "name": "2026-11-09-105.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-09",
-        "name": "2026-11-09-105-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:03,410\nBirds in a V can cut their heart rate 14 percent,\n\n2\n00:00:03,930 --> 00:00:05,290\nand you've never seen why.\n\n3\n00:00:05,700 --> 00:00:08,180\nIt's the secret behind every V of geese.\n\n4\n00:00:08,540 --> 00:00:10,840\nEach flap pushes air down behind the wing.\n\n5\n00:00:11,250 --> 00:00:14,310\nBut at the wingtip, air curls up and around,\n\n6\n00:00:14,380 --> 00:00:15,220\ninto a spinning swirl.\n\n7\n00:00:15,690 --> 00:00:18,370\nJust outside that swirl, the air is rising.\n\n8\n00:00:18,800 --> 00:00:21,710\nSo the bird behind slides into that exact spot,\n\n9\n00:00:22,220 --> 00:00:24,210\nand gets free lift on every flap.\n\n10\n00:00:24,570 --> 00:00:26,050\nLine everyone up like that,\n\n11\n00:00:26,410 --> 00:00:27,340\nand you get a V.\n\n12\n00:00:27,740 --> 00:00:29,550\nPelicans tracked in formation\n\n13\n00:00:29,900 --> 00:00:34,070\nhad heart rates up to 14 percent lower than flying solo.\n\n14\n00:00:34,490 --> 00:00:37,710\nIbises even time their flaps to match the bird ahead.\n\n15\n00:00:38,070 --> 00:00:40,360\nBut the front bird gets no free ride.\n\n16\n00:00:40,750 --> 00:00:41,830\nSo ibises take turns,\n\n17\n00:00:41,930 --> 00:00:44,940\nswapping the tiring spot at the front.\n\n18\n00:00:45,310 --> 00:00:47,900\nHonestly, that's teamwork with zero meetings.\n\n19\n00:00:48,340 --> 00:00:50,160\nSo which bird would you rather be,\n\n20\n00:00:50,450 --> 00:00:52,860\nthe leader at the front, or the one in the back?\n\n",
-      "tg_msg": 1072,
-      "approved_by": "auto",
-      "description_full": "Why do geese fly in a V? Each bird rides the rising air that curls off the wingtip of the bird ahead, which saves energy: pelicans flying in formation had heart rates up to 14% lower, and ibises take turns in the tiring front spot.\n\nSources:\nhttps://www.nationalgeographic.com/science/article/birds-that-fly-in-a-v-formation-use-an-amazing-trick\nhttps://www.ox.ac.uk/node/29050\nhttps://www.audubon.org/magazine/why-birds-fly-v-formation-migration-science\n\nAnimated in the Pictogram Motion style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #birds #science #animals\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Pictogram Motion style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/G_tqLSzsaSA",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-11-10T08:34:31.605543+00:00",
-      "slot": "2026-11-16T17:15:00+00:00"
-    },
     "2026-11-10-101": {
       "topic": {
         "title": "Why do dogs tilt their heads when you talk?",
@@ -3121,12 +3030,12 @@
         "format": "animated",
         "style": "1930s Rubber Hose Cartoon"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261115-ostrich-heads",
       "redos": 0,
-      "updated": "2026-11-15T19:55:38.352448+00:00",
+      "updated": "2026-11-15T21:55:58.906092+00:00",
       "credits": [
         "Animation: code-drawn in Claude (1930s Rubber Hose Cartoon style). Voice: Kokoro text-to-speech."
       ],
@@ -3141,7 +3050,29 @@
         "name": "2026-11-15-105-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:02,650\nOstriches never bury their heads in sand,\n\n2\n00:00:02,800 --> 00:00:04,660\nbut you've seen it happen. Why?\n\n3\n00:00:05,120 --> 00:00:07,660\nBlame a Roman writer, Pliny the Elder,\n\n4\n00:00:08,000 --> 00:00:09,630\nnearly two thousand years ago.\n\n5\n00:00:10,000 --> 00:00:12,810\nHe wrote that ostriches hide their heads in bushes\n\n6\n00:00:13,200 --> 00:00:14,790\nand think nobody can see them.\n\n7\n00:00:15,160 --> 00:00:16,810\nHere's what's really going on.\n\n8\n00:00:17,260 --> 00:00:19,610\nOstriches dig a shallow hole in the ground\n\n9\n00:00:20,090 --> 00:00:22,050\nand lay their giant eggs inside.\n\n10\n00:00:22,400 --> 00:00:25,030\nSeveral times a day, mom and dad dip their heads down\n\n11\n00:00:25,140 --> 00:00:27,680\nand roll each egg with their beak.\n\n12\n00:00:28,100 --> 00:00:30,070\nFrom far away, the head vanishes.\n\n13\n00:00:30,500 --> 00:00:32,860\nAnd if danger's close and they can't get away,\n\n14\n00:00:33,320 --> 00:00:35,840\nthey flop flat, neck stretched along the dirt,\n\n15\n00:00:36,300 --> 00:00:37,800\nlike a big lumpy bush.\n\n16\n00:00:38,150 --> 00:00:39,890\nBut mostly? They just run.\n\n17\n00:00:40,260 --> 00:00:42,110\nUp to seventy kilometers an hour,\n\n18\n00:00:42,550 --> 00:00:44,610\nthe fastest bird on two legs.\n\n19\n00:00:45,040 --> 00:00:47,590\nSo next time an ostrich looks like it's hiding,\n\n20\n00:00:47,990 --> 00:00:49,190\nwhat's it really doing?\n\n",
-      "tg_msg": 1135
+      "tg_msg": 1135,
+      "approved_by": "auto",
+      "description_full": "Do ostriches really bury their heads in the sand? No: the myth goes back to Pliny the Elder about 2,000 years ago, and it likely comes from ostriches lowering their heads to turn their eggs in a shallow ground nest, or lying flat with their necks along the ground to hide from danger.\n\nSources:\nhttps://www.livescience.com/animals/birds/do-ostriches-really-bury-their-heads-in-the-sand\nhttps://www.scienceworld.ca/stories/do-ostriches-really-bury-their-heads-sand/\nhttps://www.scienceabc.com/nature/animals/ostriches-really-bury-heads-sand.html\n\nAnimated in the 1930s Rubber Hose Cartoon style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #ostrich #animalfacts #mythbusting\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (1930s Rubber Hose Cartoon style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/Q93xQ-_wJNo",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-15T21:55:58.906107+00:00",
+      "slot": "2026-11-16T02:15:00+00:00"
     }
   },
   "history": [
