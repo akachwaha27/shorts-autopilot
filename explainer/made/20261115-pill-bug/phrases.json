@@ -1,0 +1,703 @@
+[
+ {
+  "s": 0.25,
+  "e": 1.86,
+  "text": "Pill bugs roll into balls,",
+  "words": [
+   [
+    "pill",
+    0.25
+   ],
+   [
+    "bugs",
+    0.56
+   ],
+   [
+    "roll",
+    0.86
+   ],
+   [
+    "into",
+    1.17
+   ],
+   [
+    "balls",
+    1.48
+   ]
+  ]
+ },
+ {
+  "s": 1.99,
+  "e": 4.8,
+  "text": "but you've never seen the real reason why.",
+  "words": [
+   [
+    "but",
+    1.99
+   ],
+   [
+    "youve",
+    2.25
+   ],
+   [
+    "never",
+    2.67
+   ],
+   [
+    "seen",
+    3.1
+   ],
+   [
+    "the",
+    3.44
+   ],
+   [
+    "real",
+    3.69
+   ],
+   [
+    "reason",
+    4.03
+   ],
+   [
+    "why",
+    4.54
+   ]
+  ]
+ },
+ {
+  "s": 5.18,
+  "e": 6.9,
+  "text": "First, they aren't bugs at all.",
+  "words": [
+   [
+    "first",
+    5.18
+   ],
+   [
+    "they",
+    5.56
+   ],
+   [
+    "arent",
+    5.85
+   ],
+   [
+    "bugs",
+    6.23
+   ],
+   [
+    "at",
+    6.52
+   ],
+   [
+    "all",
+    6.67
+   ]
+  ]
+ },
+ {
+  "s": 7.36,
+  "e": 8.34,
+  "text": "They're crustaceans,",
+  "words": [
+   [
+    "theyre",
+    7.36
+   ],
+   [
+    "crustaceans",
+    7.71
+   ]
+  ]
+ },
+ {
+  "s": 8.8,
+  "e": 11.2,
+  "text": "cousins of crabs, shrimp and lobsters.",
+  "words": [
+   [
+    "cousins",
+    8.8
+   ],
+   [
+    "of",
+    9.34
+   ],
+   [
+    "crabs",
+    9.5
+   ],
+   [
+    "shrimp",
+    9.89
+   ],
+   [
+    "and",
+    10.35
+   ],
+   [
+    "lobsters",
+    10.58
+   ]
+  ]
+ },
+ {
+  "s": 11.57,
+  "e": 14.0,
+  "text": "Count the legs. Fourteen, not six.",
+  "words": [
+   [
+    "count",
+    11.57
+   ],
+   [
+    "the",
+    12.04
+   ],
+   [
+    "legs",
+    12.32
+   ],
+   [
+    "fourteen",
+    12.69
+   ],
+   [
+    "not",
+    13.44
+   ],
+   [
+    "six",
+    13.72
+   ]
+  ]
+ },
+ {
+  "s": 14.45,
+  "e": 17.36,
+  "text": "Their back is a row of hard, overlapping plates.",
+  "words": [
+   [
+    "their",
+    14.45
+   ],
+   [
+    "back",
+    14.84
+   ],
+   [
+    "is",
+    15.14
+   ],
+   [
+    "a",
+    15.29
+   ],
+   [
+    "row",
+    15.37
+   ],
+   [
+    "of",
+    15.6
+   ],
+   [
+    "hard",
+    15.75
+   ],
+   [
+    "overlapping",
+    16.06
+   ],
+   [
+    "plates",
+    16.9
+   ]
+  ]
+ },
+ {
+  "s": 17.77,
+  "e": 18.97,
+  "text": "But their belly is soft,",
+  "words": [
+   [
+    "but",
+    17.77
+   ],
+   [
+    "their",
+    17.96
+   ],
+   [
+    "belly",
+    18.27
+   ],
+   [
+    "is",
+    18.59
+   ],
+   [
+    "soft",
+    18.72
+   ]
+  ]
+ },
+ {
+  "s": 19.29,
+  "e": 21.04,
+  "text": "with legs and tiny gills.",
+  "words": [
+   [
+    "with",
+    19.29
+   ],
+   [
+    "legs",
+    19.64
+   ],
+   [
+    "and",
+    19.99
+   ],
+   [
+    "tiny",
+    20.25
+   ],
+   [
+    "gills",
+    20.6
+   ]
+  ]
+ },
+ {
+  "s": 21.38,
+  "e": 22.25,
+  "text": "Yep, gills.",
+  "words": [
+   [
+    "yep",
+    21.38
+   ],
+   [
+    "gills",
+    21.71
+   ]
+  ]
+ },
+ {
+  "s": 22.59,
+  "e": 24.44,
+  "text": "They breathe like their sea cousins,",
+  "words": [
+   [
+    "they",
+    22.59
+   ],
+   [
+    "breathe",
+    22.84
+   ],
+   [
+    "like",
+    23.27
+   ],
+   [
+    "their",
+    23.52
+   ],
+   [
+    "sea",
+    23.82
+   ],
+   [
+    "cousins",
+    24.01
+   ]
+  ]
+ },
+ {
+  "s": 24.78,
+  "e": 26.12,
+  "text": "so they have to stay damp.",
+  "words": [
+   [
+    "so",
+    24.78
+   ],
+   [
+    "they",
+    24.91
+   ],
+   [
+    "have",
+    25.18
+   ],
+   [
+    "to",
+    25.45
+   ],
+   [
+    "stay",
+    25.59
+   ],
+   [
+    "damp",
+    25.86
+   ]
+  ]
+ },
+ {
+  "s": 26.51,
+  "e": 28.59,
+  "text": "Now poke one, or shake the ground.",
+  "words": [
+   [
+    "now",
+    26.51
+   ],
+   [
+    "poke",
+    26.75
+   ],
+   [
+    "one",
+    27.07
+   ],
+   [
+    "or",
+    27.31
+   ],
+   [
+    "shake",
+    27.47
+   ],
+   [
+    "the",
+    27.87
+   ],
+   [
+    "ground",
+    28.11
+   ]
+  ]
+ },
+ {
+  "s": 29.01,
+  "e": 31.24,
+  "text": "It tucks its head, folds its tail,",
+  "words": [
+   [
+    "it",
+    29.01
+   ],
+   [
+    "tucks",
+    29.18
+   ],
+   [
+    "its",
+    29.61
+   ],
+   [
+    "head",
+    29.86
+   ],
+   [
+    "folds",
+    30.21
+   ],
+   [
+    "its",
+    30.64
+   ],
+   [
+    "tail",
+    30.89
+   ]
+  ]
+ },
+ {
+  "s": 31.57,
+  "e": 34.27,
+  "text": "and the plates lock into a perfect armoured ball.",
+  "words": [
+   [
+    "and",
+    31.57
+   ],
+   [
+    "the",
+    31.77
+   ],
+   [
+    "plates",
+    31.97
+   ],
+   [
+    "lock",
+    32.38
+   ],
+   [
+    "into",
+    32.65
+   ],
+   [
+    "a",
+    32.92
+   ],
+   [
+    "perfect",
+    32.98
+   ],
+   [
+    "armoured",
+    33.46
+   ],
+   [
+    "ball",
+    34.0
+   ]
+  ]
+ },
+ {
+  "s": 34.64,
+  "e": 36.75,
+  "text": "A hungry ant just finds a smooth shell",
+  "words": [
+   [
+    "a",
+    34.64
+   ],
+   [
+    "hungry",
+    34.71
+   ],
+   [
+    "ant",
+    35.11
+   ],
+   [
+    "just",
+    35.32
+   ],
+   [
+    "finds",
+    35.59
+   ],
+   [
+    "a",
+    35.93
+   ],
+   [
+    "smooth",
+    36.0
+   ],
+   [
+    "shell",
+    36.41
+   ]
+  ]
+ },
+ {
+  "s": 37.03,
+  "e": 38.41,
+  "text": "with nothing soft to grab.",
+  "words": [
+   [
+    "with",
+    37.03
+   ],
+   [
+    "nothing",
+    37.29
+   ],
+   [
+    "soft",
+    37.75
+   ],
+   [
+    "to",
+    38.01
+   ],
+   [
+    "grab",
+    38.15
+   ]
+  ]
+ },
+ {
+  "s": 38.86,
+  "e": 40.91,
+  "text": "And inside, the ball traps moisture,",
+  "words": [
+   [
+    "and",
+    38.86
+   ],
+   [
+    "inside",
+    39.07
+   ],
+   [
+    "the",
+    39.5
+   ],
+   [
+    "ball",
+    39.71
+   ],
+   [
+    "traps",
+    39.99
+   ],
+   [
+    "moisture",
+    40.35
+   ]
+  ]
+ },
+ {
+  "s": 41.33,
+  "e": 42.93,
+  "text": "so those gills don't dry out.",
+  "words": [
+   [
+    "so",
+    41.33
+   ],
+   [
+    "those",
+    41.48
+   ],
+   [
+    "gills",
+    41.84
+   ],
+   [
+    "dont",
+    42.2
+   ],
+   [
+    "dry",
+    42.49
+   ],
+   [
+    "out",
+    42.71
+   ]
+  ]
+ },
+ {
+  "s": 43.32,
+  "e": 45.66,
+  "text": "Their cousins, sow bugs, can't roll up.",
+  "words": [
+   [
+    "their",
+    43.32
+   ],
+   [
+    "cousins",
+    43.73
+   ],
+   [
+    "sow",
+    44.29
+   ],
+   [
+    "bugs",
+    44.53
+   ],
+   [
+    "cant",
+    44.85
+   ],
+   [
+    "roll",
+    45.17
+   ],
+   [
+    "up",
+    45.49
+   ]
+  ]
+ },
+ {
+  "s": 46.1,
+  "e": 47.32,
+  "text": "They just run for it.",
+  "words": [
+   [
+    "they",
+    46.1
+   ],
+   [
+    "just",
+    46.41
+   ],
+   [
+    "run",
+    46.71
+   ],
+   [
+    "for",
+    46.94
+   ],
+   [
+    "it",
+    47.17
+   ]
+  ]
+ },
+ {
+  "s": 47.76,
+  "e": 49.18,
+  "text": "So, armour or speed?",
+  "words": [
+   [
+    "so",
+    47.76
+   ],
+   [
+    "armour",
+    47.95
+   ],
+   [
+    "or",
+    48.52
+   ],
+   [
+    "speed",
+    48.71
+   ]
+  ]
+ },
+ {
+  "s": 49.64,
+  "e": 50.93,
+  "text": "Which one would you pick?",
+  "words": [
+   [
+    "which",
+    49.64
+   ],
+   [
+    "one",
+    49.96
+   ],
+   [
+    "would",
+    50.16
+   ],
+   [
+    "you",
+    50.48
+   ],
+   [
+    "pick",
+    50.67
+   ]
+  ]
+ }
+]
