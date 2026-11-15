@@ -1,0 +1,695 @@
+[
+ {
+  "s": 0.25,
+  "e": 3.3,
+  "text": "Mint never cools your mouth, not even one degree.",
+  "words": [
+   [
+    "mint",
+    0.25
+   ],
+   [
+    "never",
+    0.56
+   ],
+   [
+    "cools",
+    0.95
+   ],
+   [
+    "your",
+    1.35
+   ],
+   [
+    "mouth",
+    1.66
+   ],
+   [
+    "not",
+    2.05
+   ],
+   [
+    "even",
+    2.28
+   ],
+   [
+    "one",
+    2.6
+   ],
+   [
+    "degree",
+    2.83
+   ]
+  ]
+ },
+ {
+  "s": 3.66,
+  "e": 5.36,
+  "text": "So why does it feel freezing?",
+  "words": [
+   [
+    "so",
+    3.66
+   ],
+   [
+    "why",
+    3.81
+   ],
+   [
+    "does",
+    4.03
+   ],
+   [
+    "it",
+    4.33
+   ],
+   [
+    "feel",
+    4.47
+   ],
+   [
+    "freezing",
+    4.77
+   ]
+  ]
+ },
+ {
+  "s": 5.84,
+  "e": 8.14,
+  "text": "It's a trick, and your brain falls for it.",
+  "words": [
+   [
+    "its",
+    5.84
+   ],
+   [
+    "a",
+    6.06
+   ],
+   [
+    "trick",
+    6.14
+   ],
+   [
+    "and",
+    6.51
+   ],
+   [
+    "your",
+    6.73
+   ],
+   [
+    "brain",
+    7.03
+   ],
+   [
+    "falls",
+    7.4
+   ],
+   [
+    "for",
+    7.77
+   ],
+   [
+    "it",
+    7.99
+   ]
+  ]
+ },
+ {
+  "s": 8.55,
+  "e": 11.24,
+  "text": "Your mouth is packed with tiny cold alarms.",
+  "words": [
+   [
+    "your",
+    8.55
+   ],
+   [
+    "mouth",
+    8.86
+   ],
+   [
+    "is",
+    9.24
+   ],
+   [
+    "packed",
+    9.39
+   ],
+   [
+    "with",
+    9.85
+   ],
+   [
+    "tiny",
+    10.16
+   ],
+   [
+    "cold",
+    10.47
+   ],
+   [
+    "alarms",
+    10.78
+   ]
+  ]
+ },
+ {
+  "s": 11.7,
+  "e": 13.74,
+  "text": "At body temperature they stay quiet,",
+  "words": [
+   [
+    "at",
+    11.7
+   ],
+   [
+    "body",
+    11.83
+   ],
+   [
+    "temperature",
+    12.1
+   ],
+   [
+    "they",
+    12.85
+   ],
+   [
+    "stay",
+    13.12
+   ],
+   [
+    "quiet",
+    13.4
+   ]
+  ]
+ },
+ {
+  "s": 14.28,
+  "e": 18.27,
+  "text": "and they only start ringing below about twenty-six degrees Celsius.",
+  "words": [
+   [
+    "and",
+    14.28
+   ],
+   [
+    "they",
+    14.49
+   ],
+   [
+    "only",
+    14.78
+   ],
+   [
+    "start",
+    15.06
+   ],
+   [
+    "ringing",
+    15.42
+   ],
+   [
+    "below",
+    15.92
+   ],
+   [
+    "about",
+    16.27
+   ],
+   [
+    "twentysix",
+    16.63
+   ],
+   [
+    "degrees",
+    17.27
+   ],
+   [
+    "celsius",
+    17.77
+   ]
+  ]
+ },
+ {
+  "s": 18.75,
+  "e": 20.85,
+  "text": "That's around seventy-nine Fahrenheit.",
+  "words": [
+   [
+    "thats",
+    18.75
+   ],
+   [
+    "around",
+    19.07
+   ],
+   [
+    "seventynine",
+    19.47
+   ],
+   [
+    "fahrenheit",
+    20.19
+   ]
+  ]
+ },
+ {
+  "s": 21.21,
+  "e": 23.7,
+  "text": "But mint carries a molecule called menthol,",
+  "words": [
+   [
+    "but",
+    21.21
+   ],
+   [
+    "mint",
+    21.42
+   ],
+   [
+    "carries",
+    21.69
+   ],
+   [
+    "a",
+    22.18
+   ],
+   [
+    "molecule",
+    22.25
+   ],
+   [
+    "called",
+    22.8
+   ],
+   [
+    "menthol",
+    23.21
+   ]
+  ]
+ },
+ {
+  "s": 24.19,
+  "e": 26.07,
+  "text": "and it fits that alarm like a key.",
+  "words": [
+   [
+    "and",
+    24.19
+   ],
+   [
+    "it",
+    24.41
+   ],
+   [
+    "fits",
+    24.55
+   ],
+   [
+    "that",
+    24.84
+   ],
+   [
+    "alarm",
+    25.13
+   ],
+   [
+    "like",
+    25.49
+   ],
+   [
+    "a",
+    25.78
+   ],
+   [
+    "key",
+    25.85
+   ]
+  ]
+ },
+ {
+  "s": 26.45,
+  "e": 29.6,
+  "text": "Now the alarm rings at a cozy thirty-seven degrees,",
+  "words": [
+   [
+    "now",
+    26.45
+   ],
+   [
+    "the",
+    26.68
+   ],
+   [
+    "alarm",
+    26.91
+   ],
+   [
+    "rings",
+    27.3
+   ],
+   [
+    "at",
+    27.68
+   ],
+   [
+    "a",
+    27.84
+   ],
+   [
+    "cozy",
+    27.91
+   ],
+   [
+    "thirtyseven",
+    28.22
+   ],
+   [
+    "degrees",
+    29.07
+   ]
+  ]
+ },
+ {
+  "s": 29.82,
+  "e": 32.0,
+  "text": "and shouts to your brain: freezing!",
+  "words": [
+   [
+    "and",
+    29.82
+   ],
+   [
+    "shouts",
+    30.06
+   ],
+   [
+    "to",
+    30.52
+   ],
+   [
+    "your",
+    30.68
+   ],
+   [
+    "brain",
+    30.99
+   ],
+   [
+    "freezing",
+    31.38
+   ]
+  ]
+ },
+ {
+  "s": 32.35,
+  "e": 34.62,
+  "text": "Yet your mouth hasn't cooled down one bit.",
+  "words": [
+   [
+    "yet",
+    32.35
+   ],
+   [
+    "your",
+    32.55
+   ],
+   [
+    "mouth",
+    32.83
+   ],
+   [
+    "hasnt",
+    33.17
+   ],
+   [
+    "cooled",
+    33.52
+   ],
+   [
+    "down",
+    33.93
+   ],
+   [
+    "one",
+    34.21
+   ],
+   [
+    "bit",
+    34.41
+   ]
+  ]
+ },
+ {
+  "s": 35.07,
+  "e": 37.68,
+  "text": "That's why a sip of water after mint gum",
+  "words": [
+   [
+    "thats",
+    35.07
+   ],
+   [
+    "why",
+    35.49
+   ],
+   [
+    "a",
+    35.74
+   ],
+   [
+    "sip",
+    35.83
+   ],
+   [
+    "of",
+    36.08
+   ],
+   [
+    "water",
+    36.25
+   ],
+   [
+    "after",
+    36.67
+   ],
+   [
+    "mint",
+    37.09
+   ],
+   [
+    "gum",
+    37.42
+   ]
+  ]
+ },
+ {
+  "s": 37.97,
+  "e": 39.97,
+  "text": "feels like you just drank a glacier.",
+  "words": [
+   [
+    "feels",
+    37.97
+   ],
+   [
+    "like",
+    38.31
+   ],
+   [
+    "you",
+    38.59
+   ],
+   [
+    "just",
+    38.79
+   ],
+   [
+    "drank",
+    39.07
+   ],
+   [
+    "a",
+    39.41
+   ],
+   [
+    "glacier",
+    39.48
+   ]
+  ]
+ },
+ {
+  "s": 40.4,
+  "e": 42.08,
+  "text": "The alarms are already primed,",
+  "words": [
+   [
+    "the",
+    40.4
+   ],
+   [
+    "alarms",
+    40.6
+   ],
+   [
+    "are",
+    41.0
+   ],
+   [
+    "already",
+    41.2
+   ],
+   [
+    "primed",
+    41.67
+   ]
+  ]
+ },
+ {
+  "s": 42.48,
+  "e": 44.65,
+  "text": "so even cool water feels icy.",
+  "words": [
+   [
+    "so",
+    42.48
+   ],
+   [
+    "even",
+    42.66
+   ],
+   [
+    "cool",
+    43.04
+   ],
+   [
+    "water",
+    43.42
+   ],
+   [
+    "feels",
+    43.89
+   ],
+   [
+    "icy",
+    44.37
+   ]
+  ]
+ },
+ {
+  "s": 45.04,
+  "e": 47.59,
+  "text": "And honestly, it's the same trick chili plays,",
+  "words": [
+   [
+    "and",
+    45.04
+   ],
+   [
+    "honestly",
+    45.25
+   ],
+   [
+    "its",
+    45.82
+   ],
+   [
+    "the",
+    46.03
+   ],
+   [
+    "same",
+    46.24
+   ],
+   [
+    "trick",
+    46.53
+   ],
+   [
+    "chili",
+    46.88
+   ],
+   [
+    "plays",
+    47.24
+   ]
+  ]
+ },
+ {
+  "s": 48.0,
+  "e": 49.92,
+  "text": "just on the heat alarm instead.",
+  "words": [
+   [
+    "just",
+    48.0
+   ],
+   [
+    "on",
+    48.31
+   ],
+   [
+    "the",
+    48.46
+   ],
+   [
+    "heat",
+    48.69
+   ],
+   [
+    "alarm",
+    49.0
+   ],
+   [
+    "instead",
+    49.38
+   ]
+  ]
+ },
+ {
+  "s": 50.26,
+  "e": 53.15,
+  "text": "Be honest, did you think mint was actually cold?",
+  "words": [
+   [
+    "be",
+    50.26
+   ],
+   [
+    "honest",
+    50.41
+   ],
+   [
+    "did",
+    50.87
+   ],
+   [
+    "you",
+    51.1
+   ],
+   [
+    "think",
+    51.33
+   ],
+   [
+    "mint",
+    51.71
+   ],
+   [
+    "was",
+    52.01
+   ],
+   [
+    "actually",
+    52.24
+   ],
+   [
+    "cold",
+    52.85
+   ]
+  ]
+ }
+]
