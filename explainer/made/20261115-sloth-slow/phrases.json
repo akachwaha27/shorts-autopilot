@@ -1,0 +1,2570 @@
+[
+ {
+  "s": 0.25,
+  "e": 3.02,
+  "text": "Being slow is the reason sloths are still alive,",
+  "words": [
+   [
+    "being",
+    0.25
+   ],
+   [
+    "slow",
+    0.61
+   ],
+   [
+    "is",
+    0.89
+   ],
+   [
+    "the",
+    1.03
+   ],
+   [
+    "reason",
+    1.24
+   ],
+   [
+    "sloths",
+    1.67
+   ],
+   [
+    "are",
+    2.1
+   ],
+   [
+    "still",
+    2.31
+   ],
+   [
+    "alive",
+    2.66
+   ]
+  ]
+ },
+ {
+  "s": 3.61,
+  "e": 4.92,
+  "text": "and you'd never guess why.",
+  "words": [
+   [
+    "and",
+    3.61
+   ],
+   [
+    "youd",
+    3.81
+   ],
+   [
+    "never",
+    4.07
+   ],
+   [
+    "guess",
+    4.4
+   ],
+   [
+    "why",
+    4.73
+   ]
+  ]
+ },
+ {
+  "s": 5.34,
+  "e": 6.69,
+  "text": "Sloths aren't lazy.",
+  "words": [
+   [
+    "sloths",
+    5.34
+   ],
+   [
+    "arent",
+    5.88
+   ],
+   [
+    "lazy",
+    6.33
+   ]
+  ]
+ },
+ {
+  "s": 6.98,
+  "e": 9.14,
+  "text": "Their slowness is a survival plan,",
+  "words": [
+   [
+    "their",
+    6.98
+   ],
+   [
+    "slowness",
+    7.37
+   ],
+   [
+    "is",
+    7.98
+   ],
+   [
+    "a",
+    8.14
+   ],
+   [
+    "survival",
+    8.21
+   ],
+   [
+    "plan",
+    8.83
+   ]
+  ]
+ },
+ {
+  "s": 9.68,
+  "e": 12.05,
+  "text": "and every part of their body is built around it.",
+  "words": [
+   [
+    "and",
+    9.68
+   ],
+   [
+    "every",
+    9.87
+   ],
+   [
+    "part",
+    10.18
+   ],
+   [
+    "of",
+    10.43
+   ],
+   [
+    "their",
+    10.55
+   ],
+   [
+    "body",
+    10.87
+   ],
+   [
+    "is",
+    11.12
+   ],
+   [
+    "built",
+    11.24
+   ],
+   [
+    "around",
+    11.55
+   ],
+   [
+    "it",
+    11.93
+   ]
+  ]
+ },
+ {
+  "s": 12.42,
+  "e": 13.53,
+  "text": "Let's draw it out.",
+  "words": [
+   [
+    "lets",
+    12.42
+   ],
+   [
+    "draw",
+    12.77
+   ],
+   [
+    "it",
+    13.11
+   ],
+   [
+    "out",
+    13.28
+   ]
+  ]
+ },
+ {
+  "s": 13.87,
+  "e": 16.74,
+  "text": "Chapter one. A diet with almost no fuel.",
+  "words": [
+   [
+    "chapter",
+    13.87
+   ],
+   [
+    "one",
+    14.52
+   ],
+   [
+    "a",
+    14.8
+   ],
+   [
+    "diet",
+    14.89
+   ],
+   [
+    "with",
+    15.26
+   ],
+   [
+    "almost",
+    15.63
+   ],
+   [
+    "no",
+    16.19
+   ],
+   [
+    "fuel",
+    16.37
+   ]
+  ]
+ },
+ {
+  "s": 17.17,
+  "e": 18.49,
+  "text": "Sloths live high up",
+  "words": [
+   [
+    "sloths",
+    17.17
+   ],
+   [
+    "live",
+    17.67
+   ],
+   [
+    "high",
+    18.0
+   ],
+   [
+    "up",
+    18.33
+   ]
+  ]
+ },
+ {
+  "s": 18.56,
+  "e": 21.51,
+  "text": "in the rainforests of Central and South America.",
+  "words": [
+   [
+    "in",
+    18.56
+   ],
+   [
+    "the",
+    18.71
+   ],
+   [
+    "rainforests",
+    18.93
+   ],
+   [
+    "of",
+    19.74
+   ],
+   [
+    "central",
+    19.89
+   ],
+   [
+    "and",
+    20.4
+   ],
+   [
+    "south",
+    20.63
+   ],
+   [
+    "america",
+    20.99
+   ]
+  ]
+ },
+ {
+  "s": 21.92,
+  "e": 23.48,
+  "text": "And they mostly eat leaves.",
+  "words": [
+   [
+    "and",
+    21.92
+   ],
+   [
+    "they",
+    22.13
+   ],
+   [
+    "mostly",
+    22.42
+   ],
+   [
+    "eat",
+    22.84
+   ],
+   [
+    "leaves",
+    23.05
+   ]
+  ]
+ },
+ {
+  "s": 23.84,
+  "e": 25.75,
+  "text": "Leaves are tough, full of fibre,",
+  "words": [
+   [
+    "leaves",
+    23.84
+   ],
+   [
+    "are",
+    24.3
+   ],
+   [
+    "tough",
+    24.53
+   ],
+   [
+    "full",
+    24.91
+   ],
+   [
+    "of",
+    25.22
+   ],
+   [
+    "fibre",
+    25.37
+   ]
+  ]
+ },
+ {
+  "s": 25.99,
+  "e": 27.78,
+  "text": "and some are even a bit toxic.",
+  "words": [
+   [
+    "and",
+    25.99
+   ],
+   [
+    "some",
+    26.22
+   ],
+   [
+    "are",
+    26.54
+   ],
+   [
+    "even",
+    26.77
+   ],
+   [
+    "a",
+    27.08
+   ],
+   [
+    "bit",
+    27.16
+   ],
+   [
+    "toxic",
+    27.39
+   ]
+  ]
+ },
+ {
+  "s": 28.2,
+  "e": 30.49,
+  "text": "They give a sloth very little energy.",
+  "words": [
+   [
+    "they",
+    28.2
+   ],
+   [
+    "give",
+    28.51
+   ],
+   [
+    "a",
+    28.81
+   ],
+   [
+    "sloth",
+    28.89
+   ],
+   [
+    "very",
+    29.27
+   ],
+   [
+    "little",
+    29.57
+   ],
+   [
+    "energy",
+    30.03
+   ]
+  ]
+ },
+ {
+  "s": 30.91,
+  "e": 32.62,
+  "text": "So a sloth runs its body",
+  "words": [
+   [
+    "so",
+    30.91
+   ],
+   [
+    "a",
+    31.09
+   ],
+   [
+    "sloth",
+    31.18
+   ],
+   [
+    "runs",
+    31.63
+   ],
+   [
+    "its",
+    31.99
+   ],
+   [
+    "body",
+    32.26
+   ]
+  ]
+ },
+ {
+  "s": 32.62,
+  "e": 34.6,
+  "text": "like a phone on low battery.",
+  "words": [
+   [
+    "like",
+    32.62
+   ],
+   [
+    "a",
+    32.98
+   ],
+   [
+    "phone",
+    33.07
+   ],
+   [
+    "on",
+    33.52
+   ],
+   [
+    "low",
+    33.7
+   ],
+   [
+    "battery",
+    33.97
+   ]
+  ]
+ },
+ {
+  "s": 35.04,
+  "e": 37.23,
+  "text": "Its metabolism is less than half",
+  "words": [
+   [
+    "its",
+    35.04
+   ],
+   [
+    "metabolism",
+    35.28
+   ],
+   [
+    "is",
+    36.09
+   ],
+   [
+    "less",
+    36.26
+   ],
+   [
+    "than",
+    36.58
+   ],
+   [
+    "half",
+    36.91
+   ]
+  ]
+ },
+ {
+  "s": 37.23,
+  "e": 40.0,
+  "text": "of what you'd expect for an animal its size.",
+  "words": [
+   [
+    "of",
+    37.23
+   ],
+   [
+    "what",
+    37.4
+   ],
+   [
+    "youd",
+    37.72
+   ],
+   [
+    "expect",
+    38.05
+   ],
+   [
+    "for",
+    38.54
+   ],
+   [
+    "an",
+    38.78
+   ],
+   [
+    "animal",
+    38.94
+   ],
+   [
+    "its",
+    39.43
+   ],
+   [
+    "size",
+    39.67
+   ]
+  ]
+ },
+ {
+  "s": 40.44,
+  "e": 42.78,
+  "text": "And it has about thirty percent less muscle",
+  "words": [
+   [
+    "and",
+    40.44
+   ],
+   [
+    "it",
+    40.64
+   ],
+   [
+    "has",
+    40.77
+   ],
+   [
+    "about",
+    40.96
+   ],
+   [
+    "thirty",
+    41.29
+   ],
+   [
+    "percent",
+    41.68
+   ],
+   [
+    "less",
+    42.13
+   ],
+   [
+    "muscle",
+    42.39
+   ]
+  ]
+ },
+ {
+  "s": 43.01,
+  "e": 44.68,
+  "text": "than other mammals its size.",
+  "words": [
+   [
+    "than",
+    43.01
+   ],
+   [
+    "other",
+    43.3
+   ],
+   [
+    "mammals",
+    43.66
+   ],
+   [
+    "its",
+    44.17
+   ],
+   [
+    "size",
+    44.39
+   ]
+  ]
+ },
+ {
+  "s": 45.1,
+  "e": 47.1,
+  "text": "Chapter two. The slowest stomach.",
+  "words": [
+   [
+    "chapter",
+    45.1
+   ],
+   [
+    "two",
+    45.62
+   ],
+   [
+    "the",
+    45.84
+   ],
+   [
+    "slowest",
+    46.06
+   ],
+   [
+    "stomach",
+    46.58
+   ]
+  ]
+ },
+ {
+  "s": 47.48,
+  "e": 49.63,
+  "text": "A sloth's stomach has several chambers,",
+  "words": [
+   [
+    "a",
+    47.48
+   ],
+   [
+    "sloths",
+    47.54
+   ],
+   [
+    "stomach",
+    47.95
+   ],
+   [
+    "has",
+    48.42
+   ],
+   [
+    "several",
+    48.62
+   ],
+   [
+    "chambers",
+    49.09
+   ]
+  ]
+ },
+ {
+  "s": 50.09,
+  "e": 53.01,
+  "text": "full of microbes that slowly break leaves down.",
+  "words": [
+   [
+    "full",
+    50.09
+   ],
+   [
+    "of",
+    50.39
+   ],
+   [
+    "microbes",
+    50.54
+   ],
+   [
+    "that",
+    51.13
+   ],
+   [
+    "slowly",
+    51.43
+   ],
+   [
+    "break",
+    51.88
+   ],
+   [
+    "leaves",
+    52.26
+   ],
+   [
+    "down",
+    52.71
+   ]
+  ]
+ },
+ {
+  "s": 53.42,
+  "e": 56.2,
+  "text": "A full stomach can make up a big chunk of its weight.",
+  "words": [
+   [
+    "a",
+    53.42
+   ],
+   [
+    "full",
+    53.49
+   ],
+   [
+    "stomach",
+    53.76
+   ],
+   [
+    "can",
+    54.24
+   ],
+   [
+    "make",
+    54.44
+   ],
+   [
+    "up",
+    54.71
+   ],
+   [
+    "a",
+    54.84
+   ],
+   [
+    "big",
+    54.91
+   ],
+   [
+    "chunk",
+    55.11
+   ],
+   [
+    "of",
+    55.45
+   ],
+   [
+    "its",
+    55.59
+   ],
+   [
+    "weight",
+    55.79
+   ]
+  ]
+ },
+ {
+  "s": 56.67,
+  "e": 59.4,
+  "text": "Some scientists think one leafy meal",
+  "words": [
+   [
+    "some",
+    56.67
+   ],
+   [
+    "scientists",
+    57.03
+   ],
+   [
+    "think",
+    57.91
+   ],
+   [
+    "one",
+    58.35
+   ],
+   [
+    "leafy",
+    58.61
+   ],
+   [
+    "meal",
+    59.05
+   ]
+  ]
+ },
+ {
+  "s": 59.48,
+  "e": 62.11,
+  "text": "can take up to a month to pass all the way through.",
+  "words": [
+   [
+    "can",
+    59.48
+   ],
+   [
+    "take",
+    59.69
+   ],
+   [
+    "up",
+    59.96
+   ],
+   [
+    "to",
+    60.09
+   ],
+   [
+    "a",
+    60.22
+   ],
+   [
+    "month",
+    60.29
+   ],
+   [
+    "to",
+    60.63
+   ],
+   [
+    "pass",
+    60.76
+   ],
+   [
+    "all",
+    61.03
+   ],
+   [
+    "the",
+    61.23
+   ],
+   [
+    "way",
+    61.44
+   ],
+   [
+    "through",
+    61.64
+   ]
+  ]
+ },
+ {
+  "s": 62.53,
+  "e": 65.01,
+  "text": "That's the slowest digestion of any mammal.",
+  "words": [
+   [
+    "thats",
+    62.53
+   ],
+   [
+    "the",
+    62.88
+   ],
+   [
+    "slowest",
+    63.1
+   ],
+   [
+    "digestion",
+    63.59
+   ],
+   [
+    "of",
+    64.23
+   ],
+   [
+    "any",
+    64.37
+   ],
+   [
+    "mammal",
+    64.58
+   ]
+  ]
+ },
+ {
+  "s": 65.47,
+  "e": 67.18,
+  "text": "And to save even more energy,",
+  "words": [
+   [
+    "and",
+    65.47
+   ],
+   [
+    "to",
+    65.69
+   ],
+   [
+    "save",
+    65.84
+   ],
+   [
+    "even",
+    66.14
+   ],
+   [
+    "more",
+    66.44
+   ],
+   [
+    "energy",
+    66.74
+   ]
+  ]
+ },
+ {
+  "s": 67.72,
+  "e": 70.96,
+  "text": "a sloth lets its body temperature drift with the weather.",
+  "words": [
+   [
+    "a",
+    67.72
+   ],
+   [
+    "sloth",
+    67.79
+   ],
+   [
+    "lets",
+    68.13
+   ],
+   [
+    "its",
+    68.41
+   ],
+   [
+    "body",
+    68.62
+   ],
+   [
+    "temperature",
+    68.89
+   ],
+   [
+    "drift",
+    69.65
+   ],
+   [
+    "with",
+    69.99
+   ],
+   [
+    "the",
+    70.27
+   ],
+   [
+    "weather",
+    70.47
+   ]
+  ]
+ },
+ {
+  "s": 71.34,
+  "e": 73.87,
+  "text": "On chilly mornings, it sunbathes to warm up,",
+  "words": [
+   [
+    "on",
+    71.34
+   ],
+   [
+    "chilly",
+    71.49
+   ],
+   [
+    "mornings",
+    71.92
+   ],
+   [
+    "it",
+    72.5
+   ],
+   [
+    "sunbathes",
+    72.64
+   ],
+   [
+    "to",
+    73.29
+   ],
+   [
+    "warm",
+    73.44
+   ],
+   [
+    "up",
+    73.73
+   ]
+  ]
+ },
+ {
+  "s": 74.29,
+  "e": 75.64,
+  "text": "like a lizard with fur.",
+  "words": [
+   [
+    "like",
+    74.29
+   ],
+   [
+    "a",
+    74.59
+   ],
+   [
+    "lizard",
+    74.67
+   ],
+   [
+    "with",
+    75.12
+   ],
+   [
+    "fur",
+    75.42
+   ]
+  ]
+ },
+ {
+  "s": 76.08,
+  "e": 77.87,
+  "text": "Chapter three. The weekly trip.",
+  "words": [
+   [
+    "chapter",
+    76.08
+   ],
+   [
+    "three",
+    76.58
+   ],
+   [
+    "the",
+    76.94
+   ],
+   [
+    "weekly",
+    77.15
+   ],
+   [
+    "trip",
+    77.58
+   ]
+  ]
+ },
+ {
+  "s": 78.26,
+  "e": 79.81,
+  "text": "Here's the strangest part.",
+  "words": [
+   [
+    "heres",
+    78.26
+   ],
+   [
+    "the",
+    78.63
+   ],
+   [
+    "strangest",
+    78.85
+   ],
+   [
+    "part",
+    79.51
+   ]
+  ]
+ },
+ {
+  "s": 80.17,
+  "e": 81.0,
+  "text": "About once a week,",
+  "words": [
+   [
+    "about",
+    80.17
+   ],
+   [
+    "once",
+    80.46
+   ],
+   [
+    "a",
+    80.7
+   ],
+   [
+    "week",
+    80.76
+   ]
+  ]
+ },
+ {
+  "s": 81.42,
+  "e": 84.56,
+  "text": "a three-toed sloth climbs all the way down",
+  "words": [
+   [
+    "a",
+    81.42
+   ],
+   [
+    "threetoed",
+    81.51
+   ],
+   [
+    "sloth",
+    82.34
+   ],
+   [
+    "climbs",
+    82.8
+   ],
+   [
+    "all",
+    83.36
+   ],
+   [
+    "the",
+    83.63
+   ],
+   [
+    "way",
+    83.91
+   ],
+   [
+    "down",
+    84.19
+   ]
+  ]
+ },
+ {
+  "s": 85.03,
+  "e": 85.89,
+  "text": "to the ground, just to poop.",
+  "words": [
+   [
+    "to",
+    85.03
+   ],
+   [
+    "the",
+    85.11
+   ],
+   [
+    "ground",
+    85.23
+   ],
+   [
+    "just",
+    85.48
+   ],
+   [
+    "to",
+    85.65
+   ],
+   [
+    "poop",
+    85.73
+   ]
+  ]
+ },
+ {
+  "s": 86.36,
+  "e": 88.83,
+  "text": "It digs a little hole, does its business,",
+  "words": [
+   [
+    "it",
+    86.36
+   ],
+   [
+    "digs",
+    86.52
+   ],
+   [
+    "a",
+    86.83
+   ],
+   [
+    "little",
+    86.9
+   ],
+   [
+    "hole",
+    87.37
+   ],
+   [
+    "does",
+    87.68
+   ],
+   [
+    "its",
+    87.99
+   ],
+   [
+    "business",
+    88.22
+   ]
+  ]
+ },
+ {
+  "s": 88.83,
+  "e": 89.99,
+  "text": "and climbs back up.",
+  "words": [
+   [
+    "and",
+    88.83
+   ],
+   [
+    "climbs",
+    89.07
+   ],
+   [
+    "back",
+    89.53
+   ],
+   [
+    "up",
+    89.84
+   ]
+  ]
+ },
+ {
+  "s": 90.43,
+  "e": 92.33,
+  "text": "That trip burns a lot of energy,",
+  "words": [
+   [
+    "that",
+    90.43
+   ],
+   [
+    "trip",
+    90.74
+   ],
+   [
+    "burns",
+    91.04
+   ],
+   [
+    "a",
+    91.42
+   ],
+   [
+    "lot",
+    91.5
+   ],
+   [
+    "of",
+    91.72
+   ],
+   [
+    "energy",
+    91.88
+   ]
+  ]
+ },
+ {
+  "s": 92.86,
+  "e": 95.87,
+  "text": "and it's the most dangerous thing a sloth ever does.",
+  "words": [
+   [
+    "and",
+    92.86
+   ],
+   [
+    "its",
+    93.08
+   ],
+   [
+    "the",
+    93.3
+   ],
+   [
+    "most",
+    93.52
+   ],
+   [
+    "dangerous",
+    93.82
+   ],
+   [
+    "thing",
+    94.48
+   ],
+   [
+    "a",
+    94.85
+   ],
+   [
+    "sloth",
+    94.92
+   ],
+   [
+    "ever",
+    95.29
+   ],
+   [
+    "does",
+    95.58
+   ]
+  ]
+ },
+ {
+  "s": 96.34,
+  "e": 97.39,
+  "text": "So why bother?",
+  "words": [
+   [
+    "so",
+    96.34
+   ],
+   [
+    "why",
+    96.53
+   ],
+   [
+    "bother",
+    96.82
+   ]
+  ]
+ },
+ {
+  "s": 97.92,
+  "e": 99.24,
+  "text": "Scientists think it helps",
+  "words": [
+   [
+    "scientists",
+    97.92
+   ],
+   [
+    "think",
+    98.52
+   ],
+   [
+    "it",
+    98.82
+   ],
+   [
+    "helps",
+    98.94
+   ]
+  ]
+ },
+ {
+  "s": 99.3,
+  "e": 101.36,
+  "text": "a tiny moth that lives in its fur.",
+  "words": [
+   [
+    "a",
+    99.3
+   ],
+   [
+    "tiny",
+    99.38
+   ],
+   [
+    "moth",
+    99.7
+   ],
+   [
+    "that",
+    100.01
+   ],
+   [
+    "lives",
+    100.33
+   ],
+   [
+    "in",
+    100.72
+   ],
+   [
+    "its",
+    100.88
+   ],
+   [
+    "fur",
+    101.12
+   ]
+  ]
+ },
+ {
+  "s": 101.7,
+  "e": 103.43,
+  "text": "The moths lay eggs in the dung.",
+  "words": [
+   [
+    "the",
+    101.7
+   ],
+   [
+    "moths",
+    101.91
+   ],
+   [
+    "lay",
+    102.28
+   ],
+   [
+    "eggs",
+    102.49
+   ],
+   [
+    "in",
+    102.78
+   ],
+   [
+    "the",
+    102.93
+   ],
+   [
+    "dung",
+    103.15
+   ]
+  ]
+ },
+ {
+  "s": 103.9,
+  "e": 106.38,
+  "text": "The babies grow up, fly into the trees,",
+  "words": [
+   [
+    "the",
+    103.9
+   ],
+   [
+    "babies",
+    104.15
+   ],
+   [
+    "grow",
+    104.64
+   ],
+   [
+    "up",
+    104.97
+   ],
+   [
+    "fly",
+    105.14
+   ],
+   [
+    "into",
+    105.39
+   ],
+   [
+    "the",
+    105.72
+   ],
+   [
+    "trees",
+    105.96
+   ]
+  ]
+ },
+ {
+  "s": 106.54,
+  "e": 108.3,
+  "text": "and find a new sloth to live on.",
+  "words": [
+   [
+    "and",
+    106.54
+   ],
+   [
+    "find",
+    106.76
+   ],
+   [
+    "a",
+    107.05
+   ],
+   [
+    "new",
+    107.13
+   ],
+   [
+    "sloth",
+    107.35
+   ],
+   [
+    "to",
+    107.71
+   ],
+   [
+    "live",
+    107.86
+   ],
+   [
+    "on",
+    108.15
+   ]
+  ]
+ },
+ {
+  "s": 108.67,
+  "e": 110.96,
+  "text": "Chapter four. A garden on its back.",
+  "words": [
+   [
+    "chapter",
+    108.67
+   ],
+   [
+    "four",
+    109.26
+   ],
+   [
+    "a",
+    109.6
+   ],
+   [
+    "garden",
+    109.68
+   ],
+   [
+    "on",
+    110.19
+   ],
+   [
+    "its",
+    110.36
+   ],
+   [
+    "back",
+    110.62
+   ]
+  ]
+ },
+ {
+  "s": 111.33,
+  "e": 114.4,
+  "text": "Sloth hair has tiny cracks that soak up rainwater.",
+  "words": [
+   [
+    "sloth",
+    111.33
+   ],
+   [
+    "hair",
+    111.71
+   ],
+   [
+    "has",
+    112.01
+   ],
+   [
+    "tiny",
+    112.23
+   ],
+   [
+    "cracks",
+    112.53
+   ],
+   [
+    "that",
+    112.98
+   ],
+   [
+    "soak",
+    113.28
+   ],
+   [
+    "up",
+    113.58
+   ],
+   [
+    "rainwater",
+    113.73
+   ]
+  ]
+ },
+ {
+  "s": 114.84,
+  "e": 116.73,
+  "text": "Green algae grow inside them,",
+  "words": [
+   [
+    "green",
+    114.84
+   ],
+   [
+    "algae",
+    115.23
+   ],
+   [
+    "grow",
+    115.63
+   ],
+   [
+    "inside",
+    115.94
+   ],
+   [
+    "them",
+    116.41
+   ]
+  ]
+ },
+ {
+  "s": 117.13,
+  "e": 118.95,
+  "text": "so a sloth can look a little green.",
+  "words": [
+   [
+    "so",
+    117.13
+   ],
+   [
+    "a",
+    117.26
+   ],
+   [
+    "sloth",
+    117.33
+   ],
+   [
+    "can",
+    117.67
+   ],
+   [
+    "look",
+    117.87
+   ],
+   [
+    "a",
+    118.14
+   ],
+   [
+    "little",
+    118.21
+   ],
+   [
+    "green",
+    118.61
+   ]
+  ]
+ },
+ {
+  "s": 119.3,
+  "e": 120.98,
+  "text": "The moths seem to feed that algae,",
+  "words": [
+   [
+    "the",
+    119.3
+   ],
+   [
+    "moths",
+    119.49
+   ],
+   [
+    "seem",
+    119.8
+   ],
+   [
+    "to",
+    120.05
+   ],
+   [
+    "feed",
+    120.17
+   ],
+   [
+    "that",
+    120.42
+   ],
+   [
+    "algae",
+    120.67
+   ]
+  ]
+ },
+ {
+  "s": 121.44,
+  "e": 123.69,
+  "text": "and the sloth may lick some off as a snack.",
+  "words": [
+   [
+    "and",
+    121.44
+   ],
+   [
+    "the",
+    121.64
+   ],
+   [
+    "sloth",
+    121.85
+   ],
+   [
+    "may",
+    122.19
+   ],
+   [
+    "lick",
+    122.39
+   ],
+   [
+    "some",
+    122.67
+   ],
+   [
+    "off",
+    122.94
+   ],
+   [
+    "as",
+    123.14
+   ],
+   [
+    "a",
+    123.28
+   ],
+   [
+    "snack",
+    123.35
+   ]
+  ]
+ },
+ {
+  "s": 124.05,
+  "e": 124.77,
+  "text": "In one study,",
+  "words": [
+   [
+    "in",
+    124.05
+   ],
+   [
+    "one",
+    124.2
+   ],
+   [
+    "study",
+    124.41
+   ]
+  ]
+ },
+ {
+  "s": 125.23,
+  "e": 128.43,
+  "text": "a sloth carried about a hundred and twenty grams of algae.",
+  "words": [
+   [
+    "a",
+    125.23
+   ],
+   [
+    "sloth",
+    125.3
+   ],
+   [
+    "carried",
+    125.64
+   ],
+   [
+    "about",
+    126.12
+   ],
+   [
+    "a",
+    126.46
+   ],
+   [
+    "hundred",
+    126.53
+   ],
+   [
+    "and",
+    127.0
+   ],
+   [
+    "twenty",
+    127.21
+   ],
+   [
+    "grams",
+    127.62
+   ],
+   [
+    "of",
+    127.96
+   ],
+   [
+    "algae",
+    128.09
+   ]
+  ]
+ },
+ {
+  "s": 128.83,
+  "e": 131.28,
+  "text": "Chapter five. Slow means invisible.",
+  "words": [
+   [
+    "chapter",
+    128.83
+   ],
+   [
+    "five",
+    129.42
+   ],
+   [
+    "slow",
+    129.76
+   ],
+   [
+    "means",
+    130.1
+   ],
+   [
+    "invisible",
+    130.52
+   ]
+  ]
+ },
+ {
+  "s": 131.65,
+  "e": 133.03,
+  "text": "A sloth's biggest enemies",
+  "words": [
+   [
+    "a",
+    131.65
+   ],
+   [
+    "sloths",
+    131.72
+   ],
+   [
+    "biggest",
+    132.11
+   ],
+   [
+    "enemies",
+    132.57
+   ]
+  ]
+ },
+ {
+  "s": 133.27,
+  "e": 135.29,
+  "text": "are harpy eagles and big cats.",
+  "words": [
+   [
+    "are",
+    133.27
+   ],
+   [
+    "harpy",
+    133.53
+   ],
+   [
+    "eagles",
+    133.95
+   ],
+   [
+    "and",
+    134.45
+   ],
+   [
+    "big",
+    134.71
+   ],
+   [
+    "cats",
+    134.96
+   ]
+  ]
+ },
+ {
+  "s": 135.7,
+  "e": 138.44,
+  "text": "Many of these hunters spot prey by its movement.",
+  "words": [
+   [
+    "many",
+    135.7
+   ],
+   [
+    "of",
+    135.98
+   ],
+   [
+    "these",
+    136.12
+   ],
+   [
+    "hunters",
+    136.48
+   ],
+   [
+    "spot",
+    136.97
+   ],
+   [
+    "prey",
+    137.25
+   ],
+   [
+    "by",
+    137.53
+   ],
+   [
+    "its",
+    137.67
+   ],
+   [
+    "movement",
+    137.88
+   ]
+  ]
+ },
+ {
+  "s": 138.84,
+  "e": 140.11,
+  "text": "A sloth barely moves,",
+  "words": [
+   [
+    "a",
+    138.84
+   ],
+   [
+    "sloth",
+    138.92
+   ],
+   [
+    "barely",
+    139.29
+   ],
+   [
+    "moves",
+    139.74
+   ]
+  ]
+ },
+ {
+  "s": 140.24,
+  "e": 142.3,
+  "text": "and it can look green and mossy,",
+  "words": [
+   [
+    "and",
+    140.24
+   ],
+   [
+    "it",
+    140.49
+   ],
+   [
+    "can",
+    140.66
+   ],
+   [
+    "look",
+    140.9
+   ],
+   [
+    "green",
+    141.23
+   ],
+   [
+    "and",
+    141.64
+   ],
+   [
+    "mossy",
+    141.89
+   ]
+  ]
+ },
+ {
+  "s": 142.63,
+  "e": 144.61,
+  "text": "so it blends right into the leaves.",
+  "words": [
+   [
+    "so",
+    142.63
+   ],
+   [
+    "it",
+    142.78
+   ],
+   [
+    "blends",
+    142.92
+   ],
+   [
+    "right",
+    143.34
+   ],
+   [
+    "into",
+    143.69
+   ],
+   [
+    "the",
+    143.97
+   ],
+   [
+    "leaves",
+    144.19
+   ]
+  ]
+ },
+ {
+  "s": 144.98,
+  "e": 146.87,
+  "text": "To an eagle scanning the treetops,",
+  "words": [
+   [
+    "to",
+    144.98
+   ],
+   [
+    "an",
+    145.11
+   ],
+   [
+    "eagle",
+    145.25
+   ],
+   [
+    "scanning",
+    145.58
+   ],
+   [
+    "the",
+    146.12
+   ],
+   [
+    "treetops",
+    146.33
+   ]
+  ]
+ },
+ {
+  "s": 147.28,
+  "e": 149.55,
+  "text": "a sloth just looks like part of the tree.",
+  "words": [
+   [
+    "a",
+    147.28
+   ],
+   [
+    "sloth",
+    147.35
+   ],
+   [
+    "just",
+    147.7
+   ],
+   [
+    "looks",
+    147.99
+   ],
+   [
+    "like",
+    148.34
+   ],
+   [
+    "part",
+    148.63
+   ],
+   [
+    "of",
+    148.91
+   ],
+   [
+    "the",
+    149.05
+   ],
+   [
+    "tree",
+    149.27
+   ]
+  ]
+ },
+ {
+  "s": 149.92,
+  "e": 152.0,
+  "text": "Even its body helps it hang around.",
+  "words": [
+   [
+    "even",
+    149.92
+   ],
+   [
+    "its",
+    150.22
+   ],
+   [
+    "body",
+    150.44
+   ],
+   [
+    "helps",
+    150.74
+   ],
+   [
+    "it",
+    151.11
+   ],
+   [
+    "hang",
+    151.26
+   ],
+   [
+    "around",
+    151.56
+   ]
+  ]
+ },
+ {
+  "s": 152.41,
+  "e": 154.41,
+  "text": "Its organs are anchored to its ribs,",
+  "words": [
+   [
+    "its",
+    152.41
+   ],
+   [
+    "organs",
+    152.62
+   ],
+   [
+    "are",
+    153.03
+   ],
+   [
+    "anchored",
+    153.24
+   ],
+   [
+    "to",
+    153.79
+   ],
+   [
+    "its",
+    153.93
+   ],
+   [
+    "ribs",
+    154.14
+   ]
+  ]
+ },
+ {
+  "s": 154.54,
+  "e": 158.17,
+  "text": "so they don't squash its lungs when it hangs upside down.",
+  "words": [
+   [
+    "so",
+    154.54
+   ],
+   [
+    "they",
+    154.7
+   ],
+   [
+    "dont",
+    155.03
+   ],
+   [
+    "squash",
+    155.35
+   ],
+   [
+    "its",
+    155.83
+   ],
+   [
+    "lungs",
+    156.07
+   ],
+   [
+    "when",
+    156.48
+   ],
+   [
+    "it",
+    156.8
+   ],
+   [
+    "hangs",
+    156.96
+   ],
+   [
+    "upside",
+    157.36
+   ],
+   [
+    "down",
+    157.85
+   ]
+  ]
+ },
+ {
+  "s": 158.62,
+  "e": 159.85,
+  "text": "And here's a bonus.",
+  "words": [
+   [
+    "and",
+    158.62
+   ],
+   [
+    "heres",
+    158.89
+   ],
+   [
+    "a",
+    159.32
+   ],
+   [
+    "bonus",
+    159.41
+   ]
+  ]
+ },
+ {
+  "s": 160.13,
+  "e": 160.71,
+  "text": "In water,",
+  "words": [
+   [
+    "in",
+    160.13
+   ],
+   [
+    "water",
+    160.3
+   ]
+  ]
+ },
+ {
+  "s": 160.92,
+  "e": 163.13,
+  "text": "sloths are surprisingly good swimmers.",
+  "words": [
+   [
+    "sloths",
+    160.92
+   ],
+   [
+    "are",
+    161.32
+   ],
+   [
+    "surprisingly",
+    161.52
+   ],
+   [
+    "good",
+    162.32
+   ],
+   [
+    "swimmers",
+    162.59
+   ]
+  ]
+ },
+ {
+  "s": 163.54,
+  "e": 165.56,
+  "text": "They paddle with those long arms,",
+  "words": [
+   [
+    "they",
+    163.54
+   ],
+   [
+    "paddle",
+    163.84
+   ],
+   [
+    "with",
+    164.29
+   ],
+   [
+    "those",
+    164.59
+   ],
+   [
+    "long",
+    164.97
+   ],
+   [
+    "arms",
+    165.26
+   ]
+  ]
+ },
+ {
+  "s": 165.97,
+  "e": 168.4,
+  "text": "often faster than they can crawl on land.",
+  "words": [
+   [
+    "often",
+    165.97
+   ],
+   [
+    "faster",
+    166.34
+   ],
+   [
+    "than",
+    166.78
+   ],
+   [
+    "they",
+    167.08
+   ],
+   [
+    "can",
+    167.37
+   ],
+   [
+    "crawl",
+    167.59
+   ],
+   [
+    "on",
+    167.96
+   ],
+   [
+    "land",
+    168.11
+   ]
+  ]
+ },
+ {
+  "s": 168.82,
+  "e": 171.07,
+  "text": "So sloths aren't failing at being fast.",
+  "words": [
+   [
+    "so",
+    168.82
+   ],
+   [
+    "sloths",
+    168.96
+   ],
+   [
+    "arent",
+    169.4
+   ],
+   [
+    "failing",
+    169.76
+   ],
+   [
+    "at",
+    170.27
+   ],
+   [
+    "being",
+    170.42
+   ],
+   [
+    "fast",
+    170.78
+   ]
+  ]
+ },
+ {
+  "s": 171.46,
+  "e": 172.98,
+  "text": "They're winning at being slow.",
+  "words": [
+   [
+    "theyre",
+    171.46
+   ],
+   [
+    "winning",
+    171.84
+   ],
+   [
+    "at",
+    172.28
+   ],
+   [
+    "being",
+    172.41
+   ],
+   [
+    "slow",
+    172.73
+   ]
+  ]
+ },
+ {
+  "s": 173.37,
+  "e": 174.97,
+  "text": "In a jungle full of hunters,",
+  "words": [
+   [
+    "in",
+    173.37
+   ],
+   [
+    "a",
+    173.52
+   ],
+   [
+    "jungle",
+    173.59
+   ],
+   [
+    "full",
+    174.03
+   ],
+   [
+    "of",
+    174.32
+   ],
+   [
+    "hunters",
+    174.46
+   ]
+  ]
+ },
+ {
+  "s": 175.41,
+  "e": 179.24,
+  "text": "saving energy and staying unseen beats speed every time.",
+  "words": [
+   [
+    "saving",
+    175.41
+   ],
+   [
+    "energy",
+    175.9
+   ],
+   [
+    "and",
+    176.39
+   ],
+   [
+    "staying",
+    176.63
+   ],
+   [
+    "unseen",
+    177.21
+   ],
+   [
+    "beats",
+    177.69
+   ],
+   [
+    "speed",
+    178.1
+   ],
+   [
+    "every",
+    178.51
+   ],
+   [
+    "time",
+    178.92
+   ]
+  ]
+ },
+ {
+  "s": 179.61,
+  "e": 181.75,
+  "text": "Next time, how does your heart",
+  "words": [
+   [
+    "next",
+    179.61
+   ],
+   [
+    "time",
+    179.97
+   ],
+   [
+    "how",
+    180.33
+   ],
+   [
+    "does",
+    180.59
+   ],
+   [
+    "your",
+    180.95
+   ],
+   [
+    "heart",
+    181.31
+   ]
+  ]
+ },
+ {
+  "s": 181.83,
+  "e": 183.83,
+  "text": "beat about a hundred thousand times a day?",
+  "words": [
+   [
+    "beat",
+    181.83
+   ],
+   [
+    "about",
+    182.07
+   ],
+   [
+    "a",
+    182.36
+   ],
+   [
+    "hundred",
+    182.42
+   ],
+   [
+    "thousand",
+    182.83
+   ],
+   [
+    "times",
+    183.3
+   ],
+   [
+    "a",
+    183.59
+   ],
+   [
+    "day",
+    183.65
+   ]
+  ]
+ }
+]
