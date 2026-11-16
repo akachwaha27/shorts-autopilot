@@ -15,7 +15,9 @@ const FONTS = [['Noto Serif JP', 700, 'noto-serif-jp-latin-700-normal.woff2'], [
   // AK_ Lemo-Opuscar Pictogram Motion fonts (OFL)
   ['Inter Tight', 800, 'inter-tight-latin-800-normal.woff2'], ['Inter Tight', 900, 'inter-tight-latin-900-normal.woff2'], ['DM Mono', 500, 'dm-mono-latin-500-normal.woff2'],
   // AK_ Lemo-Opuscar Rubber Hose fonts (OFL)
-  ['Shrikhand', 400, 'shrikhand-latin-400-normal.woff2'], ['Limelight', 400, 'limelight-latin-400-normal.woff2'], ['IM Fell English SC', 400, 'im-fell-english-sc-latin-400-normal.woff2']];
+  ['Shrikhand', 400, 'shrikhand-latin-400-normal.woff2'], ['Limelight', 400, 'limelight-latin-400-normal.woff2'], ['IM Fell English SC', 400, 'im-fell-english-sc-latin-400-normal.woff2'],
+  // AK_ Lemo-Opuscar Mid-century Cartoon fonts (OFL)
+  ['Alfa Slab One', 400, 'alfa-slab-one-latin-400-normal.woff2'], ['Jost', 500, 'jost-latin-500-normal.woff2'], ['Jost', 600, 'jost-latin-600-normal.woff2'], ['Oleo Script', 700, 'oleo-script-latin-700-normal.woff2']];
 (async () => {
   fs.mkdirSync(outdir, { recursive: true });
   const fontDir = process.env.FONT_DIR || path.join(__dirname, '..', 'fonts');

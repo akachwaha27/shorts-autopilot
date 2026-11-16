@@ -1341,5 +1341,17 @@
   "words": 135,
   "sheet_id": "S094",
   "notes": "unattended run, no storyboard step; hookscore 53, title 98"
+ },
+ {
+  "date": "2026-11-16",
+  "id": "20261116-salt-sweet",
+  "kind": "short",
+  "style": "Mid-century Cartoon",
+  "topic": "Why does a pinch of salt make sweet things taste sweeter?",
+  "title": "Why Does 0.3 Grams of Salt Make Dessert Sweeter?",
+  "seconds": 52.7,
+  "words": 140,
+  "sheet_id": "S095",
+  "notes": "unattended run, no storyboard step; hookscore 55, title 100; Lemo midcentury-toon toon.js engine (MIT) wrapped as engine.js"
  }
 ]

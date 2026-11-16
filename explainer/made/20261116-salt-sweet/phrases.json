@@ -1,0 +1,709 @@
+[
+ {
+  "s": 0.25,
+  "e": 1.97,
+  "text": "Salt makes your dessert sweeter.",
+  "words": [
+   [
+    "salt",
+    0.25
+   ],
+   [
+    "makes",
+    0.51
+   ],
+   [
+    "your",
+    0.82
+   ],
+   [
+    "dessert",
+    1.08
+   ],
+   [
+    "sweeter",
+    1.53
+   ]
+  ]
+ },
+ {
+  "s": 2.38,
+  "e": 4.51,
+  "text": "You've probably never noticed why.",
+  "words": [
+   [
+    "youve",
+    2.38
+   ],
+   [
+    "probably",
+    2.76
+   ],
+   [
+    "never",
+    3.37
+   ],
+   [
+    "noticed",
+    3.75
+   ],
+   [
+    "why",
+    4.28
+   ]
+  ]
+ },
+ {
+  "s": 4.89,
+  "e": 6.6,
+  "text": "Bakers sneak it into cookies,",
+  "words": [
+   [
+    "bakers",
+    4.89
+   ],
+   [
+    "sneak",
+    5.32
+   ],
+   [
+    "it",
+    5.67
+   ],
+   [
+    "into",
+    5.82
+   ],
+   [
+    "cookies",
+    6.1
+   ]
+  ]
+ },
+ {
+  "s": 6.92,
+  "e": 8.15,
+  "text": "caramel and chocolate.",
+  "words": [
+   [
+    "caramel",
+    6.92
+   ],
+   [
+    "and",
+    7.37
+   ],
+   [
+    "chocolate",
+    7.57
+   ]
+  ]
+ },
+ {
+  "s": 8.54,
+  "e": 10.58,
+  "text": "So what's salt really doing on your tongue?",
+  "words": [
+   [
+    "so",
+    8.54
+   ],
+   [
+    "whats",
+    8.66
+   ],
+   [
+    "salt",
+    8.96
+   ],
+   [
+    "really",
+    9.2
+   ],
+   [
+    "doing",
+    9.56
+   ],
+   [
+    "on",
+    9.86
+   ],
+   [
+    "your",
+    9.98
+   ],
+   [
+    "tongue",
+    10.22
+   ]
+  ]
+ },
+ {
+  "s": 11.09,
+  "e": 12.11,
+  "text": "Trick number one.",
+  "words": [
+   [
+    "trick",
+    11.09
+   ],
+   [
+    "number",
+    11.45
+   ],
+   [
+    "one",
+    11.89
+   ]
+  ]
+ },
+ {
+  "s": 12.38,
+  "e": 14.2,
+  "text": "Most foods hide a little bitterness,",
+  "words": [
+   [
+    "most",
+    12.38
+   ],
+   [
+    "foods",
+    12.62
+   ],
+   [
+    "hide",
+    12.92
+   ],
+   [
+    "a",
+    13.17
+   ],
+   [
+    "little",
+    13.23
+   ],
+   [
+    "bitterness",
+    13.59
+   ]
+  ]
+ },
+ {
+  "s": 14.62,
+  "e": 17.35,
+  "text": "and sodium turns your bitter taste cells down,",
+  "words": [
+   [
+    "and",
+    14.62
+   ],
+   [
+    "sodium",
+    14.83
+   ],
+   [
+    "turns",
+    15.27
+   ],
+   [
+    "your",
+    15.62
+   ],
+   [
+    "bitter",
+    15.91
+   ],
+   [
+    "taste",
+    16.34
+   ],
+   [
+    "cells",
+    16.7
+   ],
+   [
+    "down",
+    17.06
+   ]
+  ]
+ },
+ {
+  "s": 17.88,
+  "e": 20.22,
+  "text": "like muting the loudest guy in the room.",
+  "words": [
+   [
+    "like",
+    17.88
+   ],
+   [
+    "muting",
+    18.17
+   ],
+   [
+    "the",
+    18.61
+   ],
+   [
+    "loudest",
+    18.83
+   ],
+   [
+    "guy",
+    19.34
+   ],
+   [
+    "in",
+    19.56
+   ],
+   [
+    "the",
+    19.7
+   ],
+   [
+    "room",
+    19.92
+   ]
+  ]
+ },
+ {
+  "s": 20.65,
+  "e": 23.08,
+  "text": "With bitter quiet, sweet gets the spotlight.",
+  "words": [
+   [
+    "with",
+    20.65
+   ],
+   [
+    "bitter",
+    20.92
+   ],
+   [
+    "quiet",
+    21.33
+   ],
+   [
+    "sweet",
+    21.66
+   ],
+   [
+    "gets",
+    22.0
+   ],
+   [
+    "the",
+    22.27
+   ],
+   [
+    "spotlight",
+    22.47
+   ]
+  ]
+ },
+ {
+  "s": 23.48,
+  "e": 24.57,
+  "text": "Trick number two.",
+  "words": [
+   [
+    "trick",
+    23.48
+   ],
+   [
+    "number",
+    23.87
+   ],
+   [
+    "two",
+    24.33
+   ]
+  ]
+ },
+ {
+  "s": 24.94,
+  "e": 29.94,
+  "text": "Scientists found your sweet taste cells have a tiny sugar door",
+  "words": [
+   [
+    "scientists",
+    24.94
+   ],
+   [
+    "found",
+    25.9
+   ],
+   [
+    "your",
+    26.39
+   ],
+   [
+    "sweet",
+    26.77
+   ],
+   [
+    "taste",
+    27.25
+   ],
+   [
+    "cells",
+    27.73
+   ],
+   [
+    "have",
+    28.21
+   ],
+   [
+    "a",
+    28.6
+   ],
+   [
+    "tiny",
+    28.69
+   ],
+   [
+    "sugar",
+    29.08
+   ],
+   [
+    "door",
+    29.56
+   ]
+  ]
+ },
+ {
+  "s": 30.01,
+  "e": 30.85,
+  "text": "called S G L T one.",
+  "words": [
+   [
+    "called",
+    30.01
+   ],
+   [
+    "s",
+    30.4
+   ],
+   [
+    "g",
+    30.46
+   ],
+   [
+    "l",
+    30.53
+   ],
+   [
+    "t",
+    30.59
+   ],
+   [
+    "one",
+    30.66
+   ]
+  ]
+ },
+ {
+  "s": 31.2,
+  "e": 33.3,
+  "text": "It pulls sugar in together with sodium,",
+  "words": [
+   [
+    "it",
+    31.2
+   ],
+   [
+    "pulls",
+    31.33
+   ],
+   [
+    "sugar",
+    31.66
+   ],
+   [
+    "in",
+    31.98
+   ],
+   [
+    "together",
+    32.12
+   ],
+   [
+    "with",
+    32.64
+   ],
+   [
+    "sodium",
+    32.9
+   ]
+  ]
+ },
+ {
+  "s": 33.88,
+  "e": 37.55,
+  "text": "so a little salt may help those cells catch even more sweetness.",
+  "words": [
+   [
+    "so",
+    33.88
+   ],
+   [
+    "a",
+    34.02
+   ],
+   [
+    "little",
+    34.09
+   ],
+   [
+    "salt",
+    34.51
+   ],
+   [
+    "may",
+    34.8
+   ],
+   [
+    "help",
+    35.01
+   ],
+   [
+    "those",
+    35.29
+   ],
+   [
+    "cells",
+    35.64
+   ],
+   [
+    "catch",
+    36.0
+   ],
+   [
+    "even",
+    36.35
+   ],
+   [
+    "more",
+    36.63
+   ],
+   [
+    "sweetness",
+    36.91
+   ]
+  ]
+ },
+ {
+  "s": 37.99,
+  "e": 39.31,
+  "text": "And you barely need any.",
+  "words": [
+   [
+    "and",
+    37.99
+   ],
+   [
+    "you",
+    38.2
+   ],
+   [
+    "barely",
+    38.4
+   ],
+   [
+    "need",
+    38.82
+   ],
+   [
+    "any",
+    39.1
+   ]
+  ]
+ },
+ {
+  "s": 39.73,
+  "e": 42.18,
+  "text": "A pinch is about a sixteenth of a teaspoon,",
+  "words": [
+   [
+    "a",
+    39.73
+   ],
+   [
+    "pinch",
+    39.8
+   ],
+   [
+    "is",
+    40.16
+   ],
+   [
+    "about",
+    40.31
+   ],
+   [
+    "a",
+    40.67
+   ],
+   [
+    "sixteenth",
+    40.74
+   ],
+   [
+    "of",
+    41.39
+   ],
+   [
+    "a",
+    41.53
+   ],
+   [
+    "teaspoon",
+    41.61
+   ]
+  ]
+ },
+ {
+  "s": 42.58,
+  "e": 43.98,
+  "text": "around a third of a gram.",
+  "words": [
+   [
+    "around",
+    42.58
+   ],
+   [
+    "a",
+    43.03
+   ],
+   [
+    "third",
+    43.1
+   ],
+   [
+    "of",
+    43.47
+   ],
+   [
+    "a",
+    43.62
+   ],
+   [
+    "gram",
+    43.69
+   ]
+  ]
+ },
+ {
+  "s": 44.45,
+  "e": 46.51,
+  "text": "Add too much and it just tastes salty.",
+  "words": [
+   [
+    "add",
+    44.45
+   ],
+   [
+    "too",
+    44.66
+   ],
+   [
+    "much",
+    44.87
+   ],
+   [
+    "and",
+    45.14
+   ],
+   [
+    "it",
+    45.35
+   ],
+   [
+    "just",
+    45.48
+   ],
+   [
+    "tastes",
+    45.76
+   ],
+   [
+    "salty",
+    46.17
+   ]
+  ]
+ },
+ {
+  "s": 46.94,
+  "e": 48.99,
+  "text": "So when you salt a slice of watermelon,",
+  "words": [
+   [
+    "so",
+    46.94
+   ],
+   [
+    "when",
+    47.07
+   ],
+   [
+    "you",
+    47.34
+   ],
+   [
+    "salt",
+    47.54
+   ],
+   [
+    "a",
+    47.8
+   ],
+   [
+    "slice",
+    47.87
+   ],
+   [
+    "of",
+    48.2
+   ],
+   [
+    "watermelon",
+    48.33
+   ]
+  ]
+ },
+ {
+  "s": 49.43,
+  "e": 51.71,
+  "text": "are you making it saltier, or sweeter?",
+  "words": [
+   [
+    "are",
+    49.43
+   ],
+   [
+    "you",
+    49.66
+   ],
+   [
+    "making",
+    49.89
+   ],
+   [
+    "it",
+    50.34
+   ],
+   [
+    "saltier",
+    50.49
+   ],
+   [
+    "or",
+    51.02
+   ],
+   [
+    "sweeter",
+    51.18
+   ]
+  ]
+ }
+]
