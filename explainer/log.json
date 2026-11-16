@@ -1365,5 +1365,17 @@
   "words": 130,
   "sheet_id": "S096",
   "notes": "unattended run, no storyboard step"
+ },
+ {
+  "date": "2026-11-16",
+  "id": "20261116-heart-explained",
+  "kind": "long",
+  "style": "Watercolor Brush",
+  "topic": "Your Heart Explained in Simple Words: how it beats about 100,000 times a day",
+  "title": "Who Tells Your Heart to Beat 100,000 Times a Day?",
+  "seconds": 180.3,
+  "words": 527,
+  "sheet_id": "L029",
+  "notes": "unattended run, no storyboard step; Lemo watercolor stroke engine; 35 scenes in 5 parts + teaser (next: L032 lungs); 1.4 s breath inserted before each part title; voice af_heart; added Cormorant Garamond + IBM Plex Mono fonts; added trend rows L031-L033"
  }
 ]

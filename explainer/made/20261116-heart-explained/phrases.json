@@ -1,0 +1,2607 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.73,
+  "text": "Your heart beats 100,000 times a day,",
+  "words": [
+   [
+    "your",
+    0.25
+   ],
+   [
+    "heart",
+    0.59
+   ],
+   [
+    "beats",
+    1.02
+   ],
+   [
+    "100000",
+    1.45
+   ],
+   [
+    "times",
+    1.96
+   ],
+   [
+    "a",
+    2.39
+   ],
+   [
+    "day",
+    2.47
+   ]
+  ]
+ },
+ {
+  "s": 3.07,
+  "e": 4.35,
+  "text": "and nobody tells it to.",
+  "words": [
+   [
+    "and",
+    3.07
+   ],
+   [
+    "nobody",
+    3.28
+   ],
+   [
+    "tells",
+    3.71
+   ],
+   [
+    "it",
+    4.07
+   ],
+   [
+    "to",
+    4.21
+   ]
+  ]
+ },
+ {
+  "s": 4.82,
+  "e": 6.78,
+  "text": "It's only about the size of your fist,",
+  "words": [
+   [
+    "its",
+    4.82
+   ],
+   [
+    "only",
+    5.02
+   ],
+   [
+    "about",
+    5.29
+   ],
+   [
+    "the",
+    5.63
+   ],
+   [
+    "size",
+    5.83
+   ],
+   [
+    "of",
+    6.1
+   ],
+   [
+    "your",
+    6.24
+   ],
+   [
+    "fist",
+    6.51
+   ]
+  ]
+ },
+ {
+  "s": 7.12,
+  "e": 8.53,
+  "text": "it weighs less than a pound,",
+  "words": [
+   [
+    "it",
+    7.12
+   ],
+   [
+    "weighs",
+    7.25
+   ],
+   [
+    "less",
+    7.63
+   ],
+   [
+    "than",
+    7.89
+   ],
+   [
+    "a",
+    8.14
+   ],
+   [
+    "pound",
+    8.21
+   ]
+  ]
+ },
+ {
+  "s": 9.02,
+  "e": 11.61,
+  "text": "and it hasn't taken a day off since before you were born.",
+  "words": [
+   [
+    "and",
+    9.02
+   ],
+   [
+    "it",
+    9.2
+   ],
+   [
+    "hasnt",
+    9.31
+   ],
+   [
+    "taken",
+    9.61
+   ],
+   [
+    "a",
+    9.9
+   ],
+   [
+    "day",
+    9.96
+   ],
+   [
+    "off",
+    10.14
+   ],
+   [
+    "since",
+    10.31
+   ],
+   [
+    "before",
+    10.61
+   ],
+   [
+    "you",
+    10.96
+   ],
+   [
+    "were",
+    11.14
+   ],
+   [
+    "born",
+    11.37
+   ]
+  ]
+ },
+ {
+  "s": 12.03,
+  "e": 14.31,
+  "text": "So how does one lump of muscle keep that up?",
+  "words": [
+   [
+    "so",
+    12.03
+   ],
+   [
+    "how",
+    12.17
+   ],
+   [
+    "does",
+    12.37
+   ],
+   [
+    "one",
+    12.64
+   ],
+   [
+    "lump",
+    12.84
+   ],
+   [
+    "of",
+    13.11
+   ],
+   [
+    "muscle",
+    13.24
+   ],
+   [
+    "keep",
+    13.64
+   ],
+   [
+    "that",
+    13.91
+   ],
+   [
+    "up",
+    14.18
+   ]
+  ]
+ },
+ {
+  "s": 14.77,
+  "e": 16.01,
+  "text": "Let's paint it open.",
+  "words": [
+   [
+    "lets",
+    14.77
+   ],
+   [
+    "paint",
+    15.1
+   ],
+   [
+    "it",
+    15.51
+   ],
+   [
+    "open",
+    15.68
+   ]
+  ]
+ },
+ {
+  "s": 17.69,
+  "e": 19.43,
+  "text": "Part one. Two pumps in one.",
+  "words": [
+   [
+    "part",
+    17.69
+   ],
+   [
+    "one",
+    18.04
+   ],
+   [
+    "two",
+    18.3
+   ],
+   [
+    "pumps",
+    18.56
+   ],
+   [
+    "in",
+    19.0
+   ],
+   [
+    "one",
+    19.17
+   ]
+  ]
+ },
+ {
+  "s": 19.88,
+  "e": 21.64,
+  "text": "Your heart isn't really one pump.",
+  "words": [
+   [
+    "your",
+    19.88
+   ],
+   [
+    "heart",
+    20.15
+   ],
+   [
+    "isnt",
+    20.49
+   ],
+   [
+    "really",
+    20.76
+   ],
+   [
+    "one",
+    21.16
+   ],
+   [
+    "pump",
+    21.37
+   ]
+  ]
+ },
+ {
+  "s": 22.03,
+  "e": 24.76,
+  "text": "It's two pumps, side by side, sharing one wall.",
+  "words": [
+   [
+    "its",
+    22.03
+   ],
+   [
+    "two",
+    22.26
+   ],
+   [
+    "pumps",
+    22.5
+   ],
+   [
+    "side",
+    22.89
+   ],
+   [
+    "by",
+    23.2
+   ],
+   [
+    "side",
+    23.36
+   ],
+   [
+    "sharing",
+    23.67
+   ],
+   [
+    "one",
+    24.21
+   ],
+   [
+    "wall",
+    24.45
+   ]
+  ]
+ },
+ {
+  "s": 25.23,
+  "e": 26.65,
+  "text": "Each side has two rooms.",
+  "words": [
+   [
+    "each",
+    25.23
+   ],
+   [
+    "side",
+    25.53
+   ],
+   [
+    "has",
+    25.83
+   ],
+   [
+    "two",
+    26.06
+   ],
+   [
+    "rooms",
+    26.28
+   ]
+  ]
+ },
+ {
+  "s": 27.04,
+  "e": 28.38,
+  "text": "A small atrium on top,",
+  "words": [
+   [
+    "a",
+    27.04
+   ],
+   [
+    "small",
+    27.11
+   ],
+   [
+    "atrium",
+    27.51
+   ],
+   [
+    "on",
+    27.98
+   ],
+   [
+    "top",
+    28.14
+   ]
+  ]
+ },
+ {
+  "s": 28.68,
+  "e": 30.67,
+  "text": "and a big, strong ventricle below.",
+  "words": [
+   [
+    "and",
+    28.68
+   ],
+   [
+    "a",
+    28.9
+   ],
+   [
+    "big",
+    28.97
+   ],
+   [
+    "strong",
+    29.19
+   ],
+   [
+    "ventricle",
+    29.64
+   ],
+   [
+    "below",
+    30.3
+   ]
+  ]
+ },
+ {
+  "s": 31.05,
+  "e": 32.45,
+  "text": "Four chambers in total.",
+  "words": [
+   [
+    "four",
+    31.05
+   ],
+   [
+    "chambers",
+    31.35
+   ],
+   [
+    "in",
+    31.93
+   ],
+   [
+    "total",
+    32.08
+   ]
+  ]
+ },
+ {
+  "s": 32.76,
+  "e": 35.35,
+  "text": "The right side gets tired blood back from your body,",
+  "words": [
+   [
+    "the",
+    32.76
+   ],
+   [
+    "right",
+    32.94
+   ],
+   [
+    "side",
+    33.25
+   ],
+   [
+    "gets",
+    33.5
+   ],
+   [
+    "tired",
+    33.74
+   ],
+   [
+    "blood",
+    34.05
+   ],
+   [
+    "back",
+    34.36
+   ],
+   [
+    "from",
+    34.61
+   ],
+   [
+    "your",
+    34.85
+   ],
+   [
+    "body",
+    35.1
+   ]
+  ]
+ },
+ {
+  "s": 35.72,
+  "e": 36.79,
+  "text": "low on oxygen.",
+  "words": [
+   [
+    "low",
+    35.72
+   ],
+   [
+    "on",
+    36.01
+   ],
+   [
+    "oxygen",
+    36.21
+   ]
+  ]
+ },
+ {
+  "s": 37.25,
+  "e": 39.89,
+  "text": "It squeezes that blood a short hop over to your lungs.",
+  "words": [
+   [
+    "it",
+    37.25
+   ],
+   [
+    "squeezes",
+    37.38
+   ],
+   [
+    "that",
+    37.87
+   ],
+   [
+    "blood",
+    38.11
+   ],
+   [
+    "a",
+    38.42
+   ],
+   [
+    "short",
+    38.48
+   ],
+   [
+    "hop",
+    38.79
+   ],
+   [
+    "over",
+    38.97
+   ],
+   [
+    "to",
+    39.22
+   ],
+   [
+    "your",
+    39.34
+   ],
+   [
+    "lungs",
+    39.59
+   ]
+  ]
+ },
+ {
+  "s": 40.25,
+  "e": 43.86,
+  "text": "There it drops off carbon dioxide and picks up fresh oxygen.",
+  "words": [
+   [
+    "there",
+    40.25
+   ],
+   [
+    "it",
+    40.62
+   ],
+   [
+    "drops",
+    40.76
+   ],
+   [
+    "off",
+    41.13
+   ],
+   [
+    "carbon",
+    41.35
+   ],
+   [
+    "dioxide",
+    41.8
+   ],
+   [
+    "and",
+    42.31
+   ],
+   [
+    "picks",
+    42.53
+   ],
+   [
+    "up",
+    42.9
+   ],
+   [
+    "fresh",
+    43.05
+   ],
+   [
+    "oxygen",
+    43.42
+   ]
+  ]
+ },
+ {
+  "s": 44.27,
+  "e": 47.19,
+  "text": "Then the bright red blood flows back into the left side.",
+  "words": [
+   [
+    "then",
+    44.27
+   ],
+   [
+    "the",
+    44.53
+   ],
+   [
+    "bright",
+    44.73
+   ],
+   [
+    "red",
+    45.11
+   ],
+   [
+    "blood",
+    45.31
+   ],
+   [
+    "flows",
+    45.63
+   ],
+   [
+    "back",
+    45.96
+   ],
+   [
+    "into",
+    46.22
+   ],
+   [
+    "the",
+    46.48
+   ],
+   [
+    "left",
+    46.67
+   ],
+   [
+    "side",
+    46.93
+   ]
+  ]
+ },
+ {
+  "s": 47.58,
+  "e": 49.39,
+  "text": "And the left side has the big job.",
+  "words": [
+   [
+    "and",
+    47.58
+   ],
+   [
+    "the",
+    47.79
+   ],
+   [
+    "left",
+    48.0
+   ],
+   [
+    "side",
+    48.28
+   ],
+   [
+    "has",
+    48.55
+   ],
+   [
+    "the",
+    48.76
+   ],
+   [
+    "big",
+    48.97
+   ],
+   [
+    "job",
+    49.18
+   ]
+  ]
+ },
+ {
+  "s": 49.74,
+  "e": 52.25,
+  "text": "It pushes blood all the way to your toes and back.",
+  "words": [
+   [
+    "it",
+    49.74
+   ],
+   [
+    "pushes",
+    49.87
+   ],
+   [
+    "blood",
+    50.25
+   ],
+   [
+    "all",
+    50.58
+   ],
+   [
+    "the",
+    50.77
+   ],
+   [
+    "way",
+    50.96
+   ],
+   [
+    "to",
+    51.15
+   ],
+   [
+    "your",
+    51.28
+   ],
+   [
+    "toes",
+    51.54
+   ],
+   [
+    "and",
+    51.8
+   ],
+   [
+    "back",
+    51.99
+   ]
+  ]
+ },
+ {
+  "s": 52.63,
+  "e": 55.52,
+  "text": "That's why its bottom wall is two to three times thicker.",
+  "words": [
+   [
+    "thats",
+    52.63
+   ],
+   [
+    "why",
+    52.96
+   ],
+   [
+    "its",
+    53.15
+   ],
+   [
+    "bottom",
+    53.34
+   ],
+   [
+    "wall",
+    53.73
+   ],
+   [
+    "is",
+    53.98
+   ],
+   [
+    "two",
+    54.11
+   ],
+   [
+    "to",
+    54.3
+   ],
+   [
+    "three",
+    54.43
+   ],
+   [
+    "times",
+    54.75
+   ],
+   [
+    "thicker",
+    55.07
+   ]
+  ]
+ },
+ {
+  "s": 55.9,
+  "e": 57.57,
+  "text": "It's the bodybuilder of the family.",
+  "words": [
+   [
+    "its",
+    55.9
+   ],
+   [
+    "the",
+    56.08
+   ],
+   [
+    "bodybuilder",
+    56.26
+   ],
+   [
+    "of",
+    56.92
+   ],
+   [
+    "the",
+    57.04
+   ],
+   [
+    "family",
+    57.21
+   ]
+  ]
+ },
+ {
+  "s": 59.38,
+  "e": 60.86,
+  "text": "Part two. The lub-dub.",
+  "words": [
+   [
+    "part",
+    59.38
+   ],
+   [
+    "two",
+    59.75
+   ],
+   [
+    "the",
+    60.03
+   ],
+   [
+    "lubdub",
+    60.3
+   ]
+  ]
+ },
+ {
+  "s": 61.23,
+  "e": 62.79,
+  "text": "Put your ear on someone's chest.",
+  "words": [
+   [
+    "put",
+    61.23
+   ],
+   [
+    "your",
+    61.42
+   ],
+   [
+    "ear",
+    61.67
+   ],
+   [
+    "on",
+    61.85
+   ],
+   [
+    "someones",
+    61.98
+   ],
+   [
+    "chest",
+    62.48
+   ]
+  ]
+ },
+ {
+  "s": 63.19,
+  "e": 64.76,
+  "text": "Lub, dub. Lub, dub.",
+  "words": [
+   [
+    "lub",
+    63.19
+   ],
+   [
+    "dub",
+    63.58
+   ],
+   [
+    "lub",
+    63.98
+   ],
+   [
+    "dub",
+    64.37
+   ]
+  ]
+ },
+ {
+  "s": 65.04,
+  "e": 66.86,
+  "text": "You might think that's the muscle squeezing.",
+  "words": [
+   [
+    "you",
+    65.04
+   ],
+   [
+    "might",
+    65.19
+   ],
+   [
+    "think",
+    65.44
+   ],
+   [
+    "thats",
+    65.7
+   ],
+   [
+    "the",
+    65.95
+   ],
+   [
+    "muscle",
+    66.1
+   ],
+   [
+    "squeezing",
+    66.4
+   ]
+  ]
+ },
+ {
+  "s": 67.23,
+  "e": 69.26,
+  "text": "It's actually the sound of doors slamming.",
+  "words": [
+   [
+    "its",
+    67.23
+   ],
+   [
+    "actually",
+    67.41
+   ],
+   [
+    "the",
+    67.88
+   ],
+   [
+    "sound",
+    68.06
+   ],
+   [
+    "of",
+    68.36
+   ],
+   [
+    "doors",
+    68.48
+   ],
+   [
+    "slamming",
+    68.78
+   ]
+  ]
+ },
+ {
+  "s": 69.7,
+  "e": 71.09,
+  "text": "Your heart has four valves,",
+  "words": [
+   [
+    "your",
+    69.7
+   ],
+   [
+    "heart",
+    69.95
+   ],
+   [
+    "has",
+    70.26
+   ],
+   [
+    "four",
+    70.45
+   ],
+   [
+    "valves",
+    70.71
+   ]
+  ]
+ },
+ {
+  "s": 71.39,
+  "e": 73.3,
+  "text": "little flaps that only open one way.",
+  "words": [
+   [
+    "little",
+    71.39
+   ],
+   [
+    "flaps",
+    71.78
+   ],
+   [
+    "that",
+    72.11
+   ],
+   [
+    "only",
+    72.38
+   ],
+   [
+    "open",
+    72.64
+   ],
+   [
+    "one",
+    72.9
+   ],
+   [
+    "way",
+    73.1
+   ]
+  ]
+ },
+ {
+  "s": 73.78,
+  "e": 74.97,
+  "text": "When the ventricles squeeze,",
+  "words": [
+   [
+    "when",
+    73.78
+   ],
+   [
+    "the",
+    73.98
+   ],
+   [
+    "ventricles",
+    74.13
+   ],
+   [
+    "squeeze",
+    74.62
+   ]
+  ]
+ },
+ {
+  "s": 75.3,
+  "e": 78.05,
+  "text": "the valves between the top and bottom rooms snap shut.",
+  "words": [
+   [
+    "the",
+    75.3
+   ],
+   [
+    "valves",
+    75.49
+   ],
+   [
+    "between",
+    75.86
+   ],
+   [
+    "the",
+    76.3
+   ],
+   [
+    "top",
+    76.49
+   ],
+   [
+    "and",
+    76.67
+   ],
+   [
+    "bottom",
+    76.86
+   ],
+   [
+    "rooms",
+    77.23
+   ],
+   [
+    "snap",
+    77.55
+   ],
+   [
+    "shut",
+    77.8
+   ]
+  ]
+ },
+ {
+  "s": 78.44,
+  "e": 79.26,
+  "text": "That's the lub.",
+  "words": [
+   [
+    "thats",
+    78.44
+   ],
+   [
+    "the",
+    78.81
+   ],
+   [
+    "lub",
+    79.04
+   ]
+  ]
+ },
+ {
+  "s": 79.61,
+  "e": 81.43,
+  "text": "A moment later the ventricles relax,",
+  "words": [
+   [
+    "a",
+    79.61
+   ],
+   [
+    "moment",
+    79.67
+   ],
+   [
+    "later",
+    80.04
+   ],
+   [
+    "the",
+    80.34
+   ],
+   [
+    "ventricles",
+    80.52
+   ],
+   [
+    "relax",
+    81.13
+   ]
+  ]
+ },
+ {
+  "s": 81.78,
+  "e": 85.32,
+  "text": "and the valves at the exits snap shut, so nothing flows backward.",
+  "words": [
+   [
+    "and",
+    81.78
+   ],
+   [
+    "the",
+    81.98
+   ],
+   [
+    "valves",
+    82.19
+   ],
+   [
+    "at",
+    82.6
+   ],
+   [
+    "the",
+    82.73
+   ],
+   [
+    "exits",
+    82.94
+   ],
+   [
+    "snap",
+    83.28
+   ],
+   [
+    "shut",
+    83.55
+   ],
+   [
+    "so",
+    83.82
+   ],
+   [
+    "nothing",
+    83.96
+   ],
+   [
+    "flows",
+    84.44
+   ],
+   [
+    "backward",
+    84.78
+   ]
+  ]
+ },
+ {
+  "s": 85.67,
+  "e": 86.48,
+  "text": "That's the dub.",
+  "words": [
+   [
+    "thats",
+    85.67
+   ],
+   [
+    "the",
+    86.04
+   ],
+   [
+    "dub",
+    86.26
+   ]
+  ]
+ },
+ {
+  "s": 86.77,
+  "e": 90.42,
+  "text": "One-way doors. That's the whole trick that keeps blood moving forward.",
+  "words": [
+   [
+    "oneway",
+    86.77
+   ],
+   [
+    "doors",
+    87.16
+   ],
+   [
+    "thats",
+    87.49
+   ],
+   [
+    "the",
+    87.81
+   ],
+   [
+    "whole",
+    88.01
+   ],
+   [
+    "trick",
+    88.34
+   ],
+   [
+    "that",
+    88.66
+   ],
+   [
+    "keeps",
+    88.92
+   ],
+   [
+    "blood",
+    89.25
+   ],
+   [
+    "moving",
+    89.57
+   ],
+   [
+    "forward",
+    89.96
+   ]
+  ]
+ },
+ {
+  "s": 92.21,
+  "e": 94.03,
+  "text": "Part three. The built-in spark.",
+  "words": [
+   [
+    "part",
+    92.21
+   ],
+   [
+    "three",
+    92.51
+   ],
+   [
+    "the",
+    92.89
+   ],
+   [
+    "builtin",
+    93.12
+   ],
+   [
+    "spark",
+    93.65
+   ]
+  ]
+ },
+ {
+  "s": 94.39,
+  "e": 95.88,
+  "text": "Now the really weird part.",
+  "words": [
+   [
+    "now",
+    94.39
+   ],
+   [
+    "the",
+    94.61
+   ],
+   [
+    "really",
+    94.82
+   ],
+   [
+    "weird",
+    95.24
+   ],
+   [
+    "part",
+    95.6
+   ]
+  ]
+ },
+ {
+  "s": 96.34,
+  "e": 99.09,
+  "text": "Your heart doesn't wait for your brain to tell it to beat.",
+  "words": [
+   [
+    "your",
+    96.34
+   ],
+   [
+    "heart",
+    96.58
+   ],
+   [
+    "doesnt",
+    96.89
+   ],
+   [
+    "wait",
+    97.26
+   ],
+   [
+    "for",
+    97.5
+   ],
+   [
+    "your",
+    97.68
+   ],
+   [
+    "brain",
+    97.93
+   ],
+   [
+    "to",
+    98.23
+   ],
+   [
+    "tell",
+    98.35
+   ],
+   [
+    "it",
+    98.6
+   ],
+   [
+    "to",
+    98.72
+   ],
+   [
+    "beat",
+    98.84
+   ]
+  ]
+ },
+ {
+  "s": 99.53,
+  "e": 100.84,
+  "text": "It has its own pacemaker,",
+  "words": [
+   [
+    "it",
+    99.53
+   ],
+   [
+    "has",
+    99.66
+   ],
+   [
+    "its",
+    99.86
+   ],
+   [
+    "own",
+    100.06
+   ],
+   [
+    "pacemaker",
+    100.25
+   ]
+  ]
+ },
+ {
+  "s": 101.25,
+  "e": 103.93,
+  "text": "a tiny patch of cells called the sinoatrial node.",
+  "words": [
+   [
+    "a",
+    101.25
+   ],
+   [
+    "tiny",
+    101.32
+   ],
+   [
+    "patch",
+    101.59
+   ],
+   [
+    "of",
+    101.92
+   ],
+   [
+    "cells",
+    102.06
+   ],
+   [
+    "called",
+    102.39
+   ],
+   [
+    "the",
+    102.79
+   ],
+   [
+    "sinoatrial",
+    102.99
+   ],
+   [
+    "node",
+    103.66
+   ]
+  ]
+ },
+ {
+  "s": 104.29,
+  "e": 107.22,
+  "text": "About once a second it fires an electrical spark.",
+  "words": [
+   [
+    "about",
+    104.29
+   ],
+   [
+    "once",
+    104.66
+   ],
+   [
+    "a",
+    104.95
+   ],
+   [
+    "second",
+    105.02
+   ],
+   [
+    "it",
+    105.46
+   ],
+   [
+    "fires",
+    105.61
+   ],
+   [
+    "an",
+    105.98
+   ],
+   [
+    "electrical",
+    106.12
+   ],
+   [
+    "spark",
+    106.86
+   ]
+  ]
+ },
+ {
+  "s": 107.61,
+  "e": 109.81,
+  "text": "The spark races across the top chambers,",
+  "words": [
+   [
+    "the",
+    107.61
+   ],
+   [
+    "spark",
+    107.81
+   ],
+   [
+    "races",
+    108.14
+   ],
+   [
+    "across",
+    108.48
+   ],
+   [
+    "the",
+    108.88
+   ],
+   [
+    "top",
+    109.08
+   ],
+   [
+    "chambers",
+    109.28
+   ]
+  ]
+ },
+ {
+  "s": 110.13,
+  "e": 111.2,
+  "text": "and they squeeze first.",
+  "words": [
+   [
+    "and",
+    110.13
+   ],
+   [
+    "they",
+    110.3
+   ],
+   [
+    "squeeze",
+    110.53
+   ],
+   [
+    "first",
+    110.92
+   ]
+  ]
+ },
+ {
+  "s": 111.58,
+  "e": 114.44,
+  "text": "Then it hits a second checkpoint, the AV node,",
+  "words": [
+   [
+    "then",
+    111.58
+   ],
+   [
+    "it",
+    111.9
+   ],
+   [
+    "hits",
+    112.05
+   ],
+   [
+    "a",
+    112.37
+   ],
+   [
+    "second",
+    112.45
+   ],
+   [
+    "checkpoint",
+    112.93
+   ],
+   [
+    "the",
+    113.72
+   ],
+   [
+    "av",
+    113.96
+   ],
+   [
+    "node",
+    114.12
+   ]
+  ]
+ },
+ {
+  "s": 114.81,
+  "e": 117.15,
+  "text": "which holds the signal for about a tenth of a second,",
+  "words": [
+   [
+    "which",
+    114.81
+   ],
+   [
+    "holds",
+    115.09
+   ],
+   [
+    "the",
+    115.36
+   ],
+   [
+    "signal",
+    115.53
+   ],
+   [
+    "for",
+    115.87
+   ],
+   [
+    "about",
+    116.03
+   ],
+   [
+    "a",
+    116.31
+   ],
+   [
+    "tenth",
+    116.37
+   ],
+   [
+    "of",
+    116.65
+   ],
+   [
+    "a",
+    116.76
+   ],
+   [
+    "second",
+    116.81
+   ]
+  ]
+ },
+ {
+  "s": 117.62,
+  "e": 118.79,
+  "text": "so the top rooms finish emptying",
+  "words": [
+   [
+    "so",
+    117.62
+   ],
+   [
+    "the",
+    117.7
+   ],
+   [
+    "top",
+    117.83
+   ],
+   [
+    "rooms",
+    117.96
+   ],
+   [
+    "finish",
+    118.18
+   ],
+   [
+    "emptying",
+    118.44
+   ]
+  ]
+ },
+ {
+  "s": 118.86,
+  "e": 121.24,
+  "text": "before the big bottom rooms fire.",
+  "words": [
+   [
+    "before",
+    118.86
+   ],
+   [
+    "the",
+    119.39
+   ],
+   [
+    "big",
+    119.65
+   ],
+   [
+    "bottom",
+    119.92
+   ],
+   [
+    "rooms",
+    120.44
+   ],
+   [
+    "fire",
+    120.88
+   ]
+  ]
+ },
+ {
+  "s": 121.65,
+  "e": 123.71,
+  "text": "Your brain can speed it up or slow it down,",
+  "words": [
+   [
+    "your",
+    121.65
+   ],
+   [
+    "brain",
+    121.9
+   ],
+   [
+    "can",
+    122.21
+   ],
+   [
+    "speed",
+    122.4
+   ],
+   [
+    "it",
+    122.71
+   ],
+   [
+    "up",
+    122.84
+   ],
+   [
+    "or",
+    122.96
+   ],
+   [
+    "slow",
+    123.08
+   ],
+   [
+    "it",
+    123.33
+   ],
+   [
+    "down",
+    123.46
+   ]
+  ]
+ },
+ {
+  "s": 123.94,
+  "e": 125.63,
+  "text": "when you run, or when you sleep.",
+  "words": [
+   [
+    "when",
+    123.94
+   ],
+   [
+    "you",
+    124.22
+   ],
+   [
+    "run",
+    124.43
+   ],
+   [
+    "or",
+    124.64
+   ],
+   [
+    "when",
+    124.79
+   ],
+   [
+    "you",
+    125.07
+   ],
+   [
+    "sleep",
+    125.28
+   ]
+  ]
+ },
+ {
+  "s": 126.06,
+  "e": 128.32,
+  "text": "But the beat itself starts inside the heart.",
+  "words": [
+   [
+    "but",
+    126.06
+   ],
+   [
+    "the",
+    126.24
+   ],
+   [
+    "beat",
+    126.43
+   ],
+   [
+    "itself",
+    126.68
+   ],
+   [
+    "starts",
+    127.06
+   ],
+   [
+    "inside",
+    127.44
+   ],
+   [
+    "the",
+    127.81
+   ],
+   [
+    "heart",
+    128.0
+   ]
+  ]
+ },
+ {
+  "s": 128.75,
+  "e": 131.73,
+  "text": "That's why a donor heart can keep beating for a little while",
+  "words": [
+   [
+    "thats",
+    128.75
+   ],
+   [
+    "why",
+    129.06
+   ],
+   [
+    "a",
+    129.25
+   ],
+   [
+    "donor",
+    129.31
+   ],
+   [
+    "heart",
+    129.62
+   ],
+   [
+    "can",
+    129.93
+   ],
+   [
+    "keep",
+    130.12
+   ],
+   [
+    "beating",
+    130.36
+   ],
+   [
+    "for",
+    130.8
+   ],
+   [
+    "a",
+    130.99
+   ],
+   [
+    "little",
+    131.05
+   ],
+   [
+    "while",
+    131.42
+   ]
+  ]
+ },
+ {
+  "s": 132.12,
+  "e": 134.03,
+  "text": "even after it's been taken out of the body.",
+  "words": [
+   [
+    "even",
+    132.12
+   ],
+   [
+    "after",
+    132.35
+   ],
+   [
+    "its",
+    132.64
+   ],
+   [
+    "been",
+    132.82
+   ],
+   [
+    "taken",
+    133.05
+   ],
+   [
+    "out",
+    133.34
+   ],
+   [
+    "of",
+    133.51
+   ],
+   [
+    "the",
+    133.63
+   ],
+   [
+    "body",
+    133.8
+   ]
+  ]
+ },
+ {
+  "s": 135.78,
+  "e": 137.19,
+  "text": "Part four. The numbers.",
+  "words": [
+   [
+    "part",
+    135.78
+   ],
+   [
+    "four",
+    136.09
+   ],
+   [
+    "the",
+    136.41
+   ],
+   [
+    "numbers",
+    136.64
+   ]
+  ]
+ },
+ {
+  "s": 137.49,
+  "e": 139.92,
+  "text": "A hundred thousand beats a day adds up fast.",
+  "words": [
+   [
+    "a",
+    137.49
+   ],
+   [
+    "hundred",
+    137.56
+   ],
+   [
+    "thousand",
+    138.04
+   ],
+   [
+    "beats",
+    138.6
+   ],
+   [
+    "a",
+    138.95
+   ],
+   [
+    "day",
+    139.02
+   ],
+   [
+    "adds",
+    139.23
+   ],
+   [
+    "up",
+    139.5
+   ],
+   [
+    "fast",
+    139.64
+   ]
+  ]
+ },
+ {
+  "s": 140.29,
+  "e": 143.48,
+  "text": "Every day your heart pumps around 2,000 gallons of blood.",
+  "words": [
+   [
+    "every",
+    140.29
+   ],
+   [
+    "day",
+    140.64
+   ],
+   [
+    "your",
+    140.85
+   ],
+   [
+    "heart",
+    141.12
+   ],
+   [
+    "pumps",
+    141.47
+   ],
+   [
+    "around",
+    141.82
+   ],
+   [
+    "2000",
+    142.23
+   ],
+   [
+    "gallons",
+    142.51
+   ],
+   [
+    "of",
+    142.99
+   ],
+   [
+    "blood",
+    143.13
+   ]
+  ]
+ },
+ {
+  "s": 143.85,
+  "e": 146.51,
+  "text": "That's roughly a full bathtub every single hour.",
+  "words": [
+   [
+    "thats",
+    143.85
+   ],
+   [
+    "roughly",
+    144.19
+   ],
+   [
+    "a",
+    144.67
+   ],
+   [
+    "full",
+    144.73
+   ],
+   [
+    "bathtub",
+    145.01
+   ],
+   [
+    "every",
+    145.49
+   ],
+   [
+    "single",
+    145.83
+   ],
+   [
+    "hour",
+    146.24
+   ]
+  ]
+ },
+ {
+  "s": 146.87,
+  "e": 149.77,
+  "text": "One blood cell can loop your whole body in about a minute.",
+  "words": [
+   [
+    "one",
+    146.87
+   ],
+   [
+    "blood",
+    147.06
+   ],
+   [
+    "cell",
+    147.37
+   ],
+   [
+    "can",
+    147.62
+   ],
+   [
+    "loop",
+    147.81
+   ],
+   [
+    "your",
+    148.06
+   ],
+   [
+    "whole",
+    148.32
+   ],
+   [
+    "body",
+    148.63
+   ],
+   [
+    "in",
+    148.88
+   ],
+   [
+    "about",
+    149.01
+   ],
+   [
+    "a",
+    149.33
+   ],
+   [
+    "minute",
+    149.39
+   ]
+  ]
+ },
+ {
+  "s": 150.2,
+  "e": 151.41,
+  "text": "And over a long life,",
+  "words": [
+   [
+    "and",
+    150.2
+   ],
+   [
+    "over",
+    150.43
+   ],
+   [
+    "a",
+    150.73
+   ],
+   [
+    "long",
+    150.8
+   ],
+   [
+    "life",
+    151.11
+   ]
+  ]
+ },
+ {
+  "s": 151.74,
+  "e": 154.5,
+  "text": "your heart will beat more than two and a half billion times.",
+  "words": [
+   [
+    "your",
+    151.74
+   ],
+   [
+    "heart",
+    151.97
+   ],
+   [
+    "will",
+    152.26
+   ],
+   [
+    "beat",
+    152.49
+   ],
+   [
+    "more",
+    152.72
+   ],
+   [
+    "than",
+    152.95
+   ],
+   [
+    "two",
+    153.18
+   ],
+   [
+    "and",
+    153.35
+   ],
+   [
+    "a",
+    153.52
+   ],
+   [
+    "half",
+    153.58
+   ],
+   [
+    "billion",
+    153.81
+   ],
+   [
+    "times",
+    154.21
+   ]
+  ]
+ },
+ {
+  "s": 154.94,
+  "e": 156.31,
+  "text": "All without a single break.",
+  "words": [
+   [
+    "all",
+    154.94
+   ],
+   [
+    "without",
+    155.13
+   ],
+   [
+    "a",
+    155.56
+   ],
+   [
+    "single",
+    155.62
+   ],
+   [
+    "break",
+    156.0
+   ]
+  ]
+ },
+ {
+  "s": 158.08,
+  "e": 159.77,
+  "text": "Part five. Feel it yourself.",
+  "words": [
+   [
+    "part",
+    158.08
+   ],
+   [
+    "five",
+    158.38
+   ],
+   [
+    "feel",
+    158.69
+   ],
+   [
+    "it",
+    159.0
+   ],
+   [
+    "yourself",
+    159.15
+   ]
+  ]
+ },
+ {
+  "s": 160.19,
+  "e": 162.16,
+  "text": "Every beat is a tiny relay race.",
+  "words": [
+   [
+    "every",
+    160.19
+   ],
+   [
+    "beat",
+    160.59
+   ],
+   [
+    "is",
+    160.9
+   ],
+   [
+    "a",
+    161.06
+   ],
+   [
+    "tiny",
+    161.14
+   ],
+   [
+    "relay",
+    161.45
+   ],
+   [
+    "race",
+    161.85
+   ]
+  ]
+ },
+ {
+  "s": 162.58,
+  "e": 164.14,
+  "text": "Spark, squeeze, lub, dub.",
+  "words": [
+   [
+    "spark",
+    162.58
+   ],
+   [
+    "squeeze",
+    163.01
+   ],
+   [
+    "lub",
+    163.62
+   ],
+   [
+    "dub",
+    163.88
+   ]
+  ]
+ },
+ {
+  "s": 164.44,
+  "e": 166.14,
+  "text": "Lungs, body, and back again.",
+  "words": [
+   [
+    "lungs",
+    164.44
+   ],
+   [
+    "body",
+    164.84
+   ],
+   [
+    "and",
+    165.17
+   ],
+   [
+    "back",
+    165.41
+   ],
+   [
+    "again",
+    165.73
+   ]
+  ]
+ },
+ {
+  "s": 166.49,
+  "e": 168.63,
+  "text": "Put two fingers on the inside of your wrist.",
+  "words": [
+   [
+    "put",
+    166.49
+   ],
+   [
+    "two",
+    166.67
+   ],
+   [
+    "fingers",
+    166.85
+   ],
+   [
+    "on",
+    167.28
+   ],
+   [
+    "the",
+    167.4
+   ],
+   [
+    "inside",
+    167.59
+   ],
+   [
+    "of",
+    167.95
+   ],
+   [
+    "your",
+    168.08
+   ],
+   [
+    "wrist",
+    168.32
+   ]
+  ]
+ },
+ {
+  "s": 169.11,
+  "e": 171.04,
+  "text": "That little tap is your left ventricle,",
+  "words": [
+   [
+    "that",
+    169.11
+   ],
+   [
+    "little",
+    169.35
+   ],
+   [
+    "tap",
+    169.71
+   ],
+   [
+    "is",
+    169.89
+   ],
+   [
+    "your",
+    170.01
+   ],
+   [
+    "left",
+    170.25
+   ],
+   [
+    "ventricle",
+    170.49
+   ]
+  ]
+ },
+ {
+  "s": 171.42,
+  "e": 173.49,
+  "text": "pushing blood all the way down to your hand.",
+  "words": [
+   [
+    "pushing",
+    171.42
+   ],
+   [
+    "blood",
+    171.83
+   ],
+   [
+    "all",
+    172.13
+   ],
+   [
+    "the",
+    172.3
+   ],
+   [
+    "way",
+    172.48
+   ],
+   [
+    "down",
+    172.66
+   ],
+   [
+    "to",
+    172.89
+   ],
+   [
+    "your",
+    173.01
+   ],
+   [
+    "hand",
+    173.25
+   ]
+  ]
+ },
+ {
+  "s": 173.89,
+  "e": 175.78,
+  "text": "Next time, we'll follow your breath.",
+  "words": [
+   [
+    "next",
+    173.89
+   ],
+   [
+    "time",
+    174.16
+   ],
+   [
+    "well",
+    174.43
+   ],
+   [
+    "follow",
+    174.7
+   ],
+   [
+    "your",
+    175.11
+   ],
+   [
+    "breath",
+    175.38
+   ]
+  ]
+ },
+ {
+  "s": 176.21,
+  "e": 179.26,
+  "text": "How do your lungs pull in air over 20,000 times a day?",
+  "words": [
+   [
+    "how",
+    176.21
+   ],
+   [
+    "do",
+    176.43
+   ],
+   [
+    "your",
+    176.58
+   ],
+   [
+    "lungs",
+    176.88
+   ],
+   [
+    "pull",
+    177.25
+   ],
+   [
+    "in",
+    177.55
+   ],
+   [
+    "air",
+    177.7
+   ],
+   [
+    "over",
+    177.92
+   ],
+   [
+    "20000",
+    178.22
+   ],
+   [
+    "times",
+    178.59
+   ],
+   [
+    "a",
+    178.96
+   ],
+   [
+    "day",
+    179.03
+   ]
+  ]
+ }
+]
