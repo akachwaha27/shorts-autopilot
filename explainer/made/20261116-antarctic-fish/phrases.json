@@ -1,0 +1,690 @@
+[
+ {
+  "s": 0.25,
+  "e": 4.71,
+  "text": "Your goldfish would freeze solid in this minus 1.9 degree water,",
+  "words": [
+   [
+    "your",
+    0.25
+   ],
+   [
+    "goldfish",
+    0.59
+   ],
+   [
+    "would",
+    1.28
+   ],
+   [
+    "freeze",
+    1.71
+   ],
+   [
+    "solid",
+    2.22
+   ],
+   [
+    "in",
+    2.65
+   ],
+   [
+    "this",
+    2.82
+   ],
+   [
+    "minus",
+    3.17
+   ],
+   [
+    "19",
+    3.59
+   ],
+   [
+    "degree",
+    3.77
+   ],
+   [
+    "water",
+    4.28
+   ]
+  ]
+ },
+ {
+  "s": 5.18,
+  "e": 6.84,
+  "text": "so how does this fish survive?",
+  "words": [
+   [
+    "so",
+    5.18
+   ],
+   [
+    "how",
+    5.32
+   ],
+   [
+    "does",
+    5.53
+   ],
+   [
+    "this",
+    5.8
+   ],
+   [
+    "fish",
+    6.08
+   ],
+   [
+    "survive",
+    6.35
+   ]
+  ]
+ },
+ {
+  "s": 7.41,
+  "e": 9.63,
+  "text": "The sea around Antarctica stays liquid",
+  "words": [
+   [
+    "the",
+    7.41
+   ],
+   [
+    "sea",
+    7.61
+   ],
+   [
+    "around",
+    7.81
+   ],
+   [
+    "antarctica",
+    8.21
+   ],
+   [
+    "stays",
+    8.89
+   ],
+   [
+    "liquid",
+    9.22
+   ]
+  ]
+ },
+ {
+  "s": 10.1,
+  "e": 12.35,
+  "text": "because salt lowers its freezing point.",
+  "words": [
+   [
+    "because",
+    10.1
+   ],
+   [
+    "salt",
+    10.58
+   ],
+   [
+    "lowers",
+    10.85
+   ],
+   [
+    "its",
+    11.26
+   ],
+   [
+    "freezing",
+    11.46
+   ],
+   [
+    "point",
+    12.01
+   ]
+  ]
+ },
+ {
+  "s": 12.74,
+  "e": 17.01,
+  "text": "But normal fish blood freezes at about minus 0.7.",
+  "words": [
+   [
+    "but",
+    12.74
+   ],
+   [
+    "normal",
+    13.07
+   ],
+   [
+    "fish",
+    13.72
+   ],
+   [
+    "blood",
+    14.16
+   ],
+   [
+    "freezes",
+    14.71
+   ],
+   [
+    "at",
+    15.48
+   ],
+   [
+    "about",
+    15.7
+   ],
+   [
+    "minus",
+    16.24
+   ],
+   [
+    "07",
+    16.79
+   ]
+  ]
+ },
+ {
+  "s": 17.43,
+  "e": 20.05,
+  "text": "So a regular fish would turn into a fishsicle.",
+  "words": [
+   [
+    "so",
+    17.43
+   ],
+   [
+    "a",
+    17.57
+   ],
+   [
+    "regular",
+    17.64
+   ],
+   [
+    "fish",
+    18.13
+   ],
+   [
+    "would",
+    18.42
+   ],
+   [
+    "turn",
+    18.77
+   ],
+   [
+    "into",
+    19.06
+   ],
+   [
+    "a",
+    19.34
+   ],
+   [
+    "fishsicle",
+    19.41
+   ]
+  ]
+ },
+ {
+  "s": 20.45,
+  "e": 22.3,
+  "text": "The trick is hiding in its blood.",
+  "words": [
+   [
+    "the",
+    20.45
+   ],
+   [
+    "trick",
+    20.67
+   ],
+   [
+    "is",
+    21.02
+   ],
+   [
+    "hiding",
+    21.16
+   ],
+   [
+    "in",
+    21.59
+   ],
+   [
+    "its",
+    21.73
+   ],
+   [
+    "blood",
+    21.94
+   ]
+  ]
+ },
+ {
+  "s": 22.7,
+  "e": 26.76,
+  "text": "Antarctic icefish and their cousins make antifreeze proteins.",
+  "words": [
+   [
+    "antarctic",
+    22.7
+   ],
+   [
+    "icefish",
+    23.39
+   ],
+   [
+    "and",
+    23.93
+   ],
+   [
+    "their",
+    24.16
+   ],
+   [
+    "cousins",
+    24.54
+   ],
+   [
+    "make",
+    25.08
+   ],
+   [
+    "antifreeze",
+    25.38
+   ],
+   [
+    "proteins",
+    26.15
+   ]
+  ]
+ },
+ {
+  "s": 27.16,
+  "e": 29.56,
+  "text": "When a tiny ice crystal sneaks inside,",
+  "words": [
+   [
+    "when",
+    27.16
+   ],
+   [
+    "a",
+    27.47
+   ],
+   [
+    "tiny",
+    27.55
+   ],
+   [
+    "ice",
+    27.86
+   ],
+   [
+    "crystal",
+    28.09
+   ],
+   [
+    "sneaks",
+    28.63
+   ],
+   [
+    "inside",
+    29.1
+   ]
+  ]
+ },
+ {
+  "s": 30.14,
+  "e": 32.4,
+  "text": "the proteins grab onto its surface",
+  "words": [
+   [
+    "the",
+    30.14
+   ],
+   [
+    "proteins",
+    30.38
+   ],
+   [
+    "grab",
+    31.0
+   ],
+   [
+    "onto",
+    31.31
+   ],
+   [
+    "its",
+    31.62
+   ],
+   [
+    "surface",
+    31.86
+   ]
+  ]
+ },
+ {
+  "s": 32.47,
+  "e": 33.5,
+  "text": "and stop it from growing.",
+  "words": [
+   [
+    "and",
+    32.47
+   ],
+   [
+    "stop",
+    32.63
+   ],
+   [
+    "it",
+    32.83
+   ],
+   [
+    "from",
+    32.93
+   ],
+   [
+    "growing",
+    33.14
+   ]
+  ]
+ },
+ {
+  "s": 33.92,
+  "e": 36.18,
+  "text": "The crystal stays too small to do harm.",
+  "words": [
+   [
+    "the",
+    33.92
+   ],
+   [
+    "crystal",
+    34.14
+   ],
+   [
+    "stays",
+    34.65
+   ],
+   [
+    "too",
+    35.01
+   ],
+   [
+    "small",
+    35.23
+   ],
+   [
+    "to",
+    35.6
+   ],
+   [
+    "do",
+    35.74
+   ],
+   [
+    "harm",
+    35.89
+   ]
+  ]
+ },
+ {
+  "s": 36.53,
+  "e": 38.46,
+  "text": "Scientists even found ice",
+  "words": [
+   [
+    "scientists",
+    36.53
+   ],
+   [
+    "even",
+    37.41
+   ],
+   [
+    "found",
+    37.76
+   ],
+   [
+    "ice",
+    38.2
+   ]
+  ]
+ },
+ {
+  "s": 38.54,
+  "e": 40.32,
+  "text": "in their spleens, all year round.",
+  "words": [
+   [
+    "in",
+    38.54
+   ],
+   [
+    "their",
+    38.68
+   ],
+   [
+    "spleens",
+    39.02
+   ],
+   [
+    "all",
+    39.5
+   ],
+   [
+    "year",
+    39.71
+   ],
+   [
+    "round",
+    39.98
+   ]
+  ]
+ },
+ {
+  "s": 40.74,
+  "e": 42.02,
+  "text": "And the wildest part?",
+  "words": [
+   [
+    "and",
+    40.74
+   ],
+   [
+    "the",
+    40.96
+   ],
+   [
+    "wildest",
+    41.19
+   ],
+   [
+    "part",
+    41.72
+   ]
+  ]
+ },
+ {
+  "s": 42.58,
+  "e": 45.28,
+  "text": "The antifreeze gene evolved from a gene",
+  "words": [
+   [
+    "the",
+    42.58
+   ],
+   [
+    "antifreeze",
+    42.82
+   ],
+   [
+    "gene",
+    43.64
+   ],
+   [
+    "evolved",
+    43.97
+   ],
+   [
+    "from",
+    44.55
+   ],
+   [
+    "a",
+    44.87
+   ],
+   [
+    "gene",
+    44.96
+   ]
+  ]
+ },
+ {
+  "s": 45.28,
+  "e": 46.84,
+  "text": "for a digestive enzyme.",
+  "words": [
+   [
+    "for",
+    45.28
+   ],
+   [
+    "a",
+    45.53
+   ],
+   [
+    "digestive",
+    45.61
+   ],
+   [
+    "enzyme",
+    46.35
+   ]
+  ]
+ },
+ {
+  "s": 47.31,
+  "e": 50.72,
+  "text": "Evolution recycled a gut gene into a winter coat.",
+  "words": [
+   [
+    "evolution",
+    47.31
+   ],
+   [
+    "recycled",
+    48.08
+   ],
+   [
+    "a",
+    48.76
+   ],
+   [
+    "gut",
+    48.85
+   ],
+   [
+    "gene",
+    49.1
+   ],
+   [
+    "into",
+    49.45
+   ],
+   [
+    "a",
+    49.79
+   ],
+   [
+    "winter",
+    49.87
+   ],
+   [
+    "coat",
+    50.38
+   ]
+  ]
+ },
+ {
+  "s": 51.14,
+  "e": 54.08,
+  "text": "So would you trade your blood for antifreeze",
+  "words": [
+   [
+    "so",
+    51.14
+   ],
+   [
+    "would",
+    51.3
+   ],
+   [
+    "you",
+    51.69
+   ],
+   [
+    "trade",
+    51.93
+   ],
+   [
+    "your",
+    52.33
+   ],
+   [
+    "blood",
+    52.65
+   ],
+   [
+    "for",
+    53.04
+   ],
+   [
+    "antifreeze",
+    53.28
+   ]
+  ]
+ },
+ {
+  "s": 54.14,
+  "e": 56.63,
+  "text": "and swim in minus 1.9 degree water?",
+  "words": [
+   [
+    "and",
+    54.14
+   ],
+   [
+    "swim",
+    54.41
+   ],
+   [
+    "in",
+    54.78
+   ],
+   [
+    "minus",
+    54.97
+   ],
+   [
+    "19",
+    55.43
+   ],
+   [
+    "degree",
+    55.61
+   ],
+   [
+    "water",
+    56.17
+   ]
+  ]
+ }
+]
