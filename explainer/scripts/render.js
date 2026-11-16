@@ -19,7 +19,7 @@ const FONTS = [['Noto Serif JP', 700, 'noto-serif-jp-latin-700-normal.woff2'], [
   // AK_ Lemo-Opuscar Mid-century Cartoon fonts (OFL)
   ['Alfa Slab One', 400, 'alfa-slab-one-latin-400-normal.woff2'], ['Jost', 500, 'jost-latin-500-normal.woff2'], ['Jost', 600, 'jost-latin-600-normal.woff2'], ['Oleo Script', 700, 'oleo-script-latin-700-normal.woff2'],
   // AK_ Lemo-Opuscar Watercolor Brush fonts (OFL)
-  ['Cormorant Garamond', 600, 'cormorant-garamond-latin-600-normal.woff2'], ['Cormorant Garamond', 700, 'cormorant-garamond-latin-700-normal.woff2'], ['Cormorant Garamond', 600, 'cormorant-garamond-latin-600-italic.woff2', 'italic'], ['IBM Plex Mono', 500, 'ibm-plex-mono-latin-500-normal.woff2']];
+  ['Cormorant Garamond', 600, 'cormorant-garamond-latin-600-normal.woff2'], ['Cormorant Garamond', 700, 'cormorant-garamond-latin-700-normal.woff2'], ['Cormorant Garamond', 600, 'cormorant-garamond-latin-600-italic.woff2', 'italic'], ['IBM Plex Mono', 500, 'ibm-plex-mono-latin-500-normal.woff2'], ['Newsreader', 500, 'newsreader-latin-500-normal.woff2']];
 (async () => {
   fs.mkdirSync(outdir, { recursive: true });
   const fontDir = process.env.FONT_DIR || path.join(__dirname, '..', 'fonts');

@@ -1,0 +1,749 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.01,
+  "text": "Penguins waddle on purpose,",
+  "words": [
+   [
+    "penguins",
+    0.25
+   ],
+   [
+    "waddle",
+    0.86
+   ],
+   [
+    "on",
+    1.32
+   ],
+   [
+    "purpose",
+    1.47
+   ]
+  ]
+ },
+ {
+  "s": 2.43,
+  "e": 4.69,
+  "text": "and you'd never guess the 80 percent reason.",
+  "words": [
+   [
+    "and",
+    2.43
+   ],
+   [
+    "youd",
+    2.62
+   ],
+   [
+    "never",
+    2.88
+   ],
+   [
+    "guess",
+    3.2
+   ],
+   [
+    "the",
+    3.53
+   ],
+   [
+    "80",
+    3.72
+   ],
+   [
+    "percent",
+    3.85
+   ],
+   [
+    "reason",
+    4.3
+   ]
+  ]
+ },
+ {
+  "s": 5.1,
+  "e": 7.65,
+  "text": "It looks clumsy, but that wobble is a trick.",
+  "words": [
+   [
+    "it",
+    5.1
+   ],
+   [
+    "looks",
+    5.25
+   ],
+   [
+    "clumsy",
+    5.63
+   ],
+   [
+    "but",
+    6.08
+   ],
+   [
+    "that",
+    6.3
+   ],
+   [
+    "wobble",
+    6.6
+   ],
+   [
+    "is",
+    7.05
+   ],
+   [
+    "a",
+    7.2
+   ],
+   [
+    "trick",
+    7.28
+   ]
+  ]
+ },
+ {
+  "s": 8.09,
+  "e": 9.74,
+  "text": "The problem is their legs.",
+  "words": [
+   [
+    "the",
+    8.09
+   ],
+   [
+    "problem",
+    8.32
+   ],
+   [
+    "is",
+    8.88
+   ],
+   [
+    "their",
+    9.03
+   ],
+   [
+    "legs",
+    9.43
+   ]
+  ]
+ },
+ {
+  "s": 10.11,
+  "e": 11.05,
+  "text": "They're super short,",
+  "words": [
+   [
+    "theyre",
+    10.11
+   ],
+   [
+    "super",
+    10.46
+   ],
+   [
+    "short",
+    10.75
+   ]
+  ]
+ },
+ {
+  "s": 11.35,
+  "e": 13.27,
+  "text": "so every step is quick and tiny,",
+  "words": [
+   [
+    "so",
+    11.35
+   ],
+   [
+    "every",
+    11.5
+   ],
+   [
+    "step",
+    11.88
+   ],
+   [
+    "is",
+    12.19
+   ],
+   [
+    "quick",
+    12.34
+   ],
+   [
+    "and",
+    12.73
+   ],
+   [
+    "tiny",
+    12.96
+   ]
+  ]
+ },
+ {
+  "s": 13.65,
+  "e": 15.63,
+  "text": "and quick steps burn fuel fast.",
+  "words": [
+   [
+    "and",
+    13.65
+   ],
+   [
+    "quick",
+    13.88
+   ],
+   [
+    "steps",
+    14.28
+   ],
+   [
+    "burn",
+    14.68
+   ],
+   [
+    "fuel",
+    14.99
+   ],
+   [
+    "fast",
+    15.31
+   ]
+  ]
+ },
+ {
+  "s": 15.97,
+  "e": 18.82,
+  "text": "Back in the seventies, scientists found",
+  "words": [
+   [
+    "back",
+    15.97
+   ],
+   [
+    "in",
+    16.32
+   ],
+   [
+    "the",
+    16.49
+   ],
+   [
+    "seventies",
+    16.75
+   ],
+   [
+    "scientists",
+    17.53
+   ],
+   [
+    "found",
+    18.39
+   ]
+  ]
+ },
+ {
+  "s": 18.88,
+  "e": 20.99,
+  "text": "walking penguins use about twice the energy",
+  "words": [
+   [
+    "walking",
+    18.88
+   ],
+   [
+    "penguins",
+    19.28
+   ],
+   [
+    "use",
+    19.74
+   ],
+   [
+    "about",
+    19.91
+   ],
+   [
+    "twice",
+    20.19
+   ],
+   [
+    "the",
+    20.48
+   ],
+   [
+    "energy",
+    20.65
+   ]
+  ]
+ },
+ {
+  "s": 21.08,
+  "e": 23.05,
+  "text": "of other animals their weight.",
+  "words": [
+   [
+    "of",
+    21.08
+   ],
+   [
+    "other",
+    21.24
+   ],
+   [
+    "animals",
+    21.63
+   ],
+   [
+    "their",
+    22.18
+   ],
+   [
+    "weight",
+    22.58
+   ]
+  ]
+ },
+ {
+  "s": 23.48,
+  "e": 26.66,
+  "text": "Then in 2000, researchers walked emperor penguins",
+  "words": [
+   [
+    "then",
+    23.48
+   ],
+   [
+    "in",
+    23.79
+   ],
+   [
+    "2000",
+    23.94
+   ],
+   [
+    "researchers",
+    24.24
+   ],
+   [
+    "walked",
+    25.07
+   ],
+   [
+    "emperor",
+    25.53
+   ],
+   [
+    "penguins",
+    26.06
+   ]
+  ]
+ },
+ {
+  "s": 26.72,
+  "e": 29.6,
+  "text": "across a plate that measures every push.",
+  "words": [
+   [
+    "across",
+    26.72
+   ],
+   [
+    "a",
+    27.25
+   ],
+   [
+    "plate",
+    27.33
+   ],
+   [
+    "that",
+    27.77
+   ],
+   [
+    "measures",
+    28.12
+   ],
+   [
+    "every",
+    28.81
+   ],
+   [
+    "push",
+    29.25
+   ]
+  ]
+ },
+ {
+  "s": 29.96,
+  "e": 32.12,
+  "text": "The waddle turned out to be a pendulum.",
+  "words": [
+   [
+    "the",
+    29.96
+   ],
+   [
+    "waddle",
+    30.17
+   ],
+   [
+    "turned",
+    30.59
+   ],
+   [
+    "out",
+    31.0
+   ],
+   [
+    "to",
+    31.21
+   ],
+   [
+    "be",
+    31.35
+   ],
+   [
+    "a",
+    31.49
+   ],
+   [
+    "pendulum",
+    31.56
+   ]
+  ]
+ },
+ {
+  "s": 32.52,
+  "e": 35.31,
+  "text": "Each lean to the side lifts the body a little,",
+  "words": [
+   [
+    "each",
+    32.52
+   ],
+   [
+    "lean",
+    32.83
+   ],
+   [
+    "to",
+    33.14
+   ],
+   [
+    "the",
+    33.29
+   ],
+   [
+    "side",
+    33.53
+   ],
+   [
+    "lifts",
+    33.84
+   ],
+   [
+    "the",
+    34.22
+   ],
+   [
+    "body",
+    34.46
+   ],
+   [
+    "a",
+    34.77
+   ],
+   [
+    "little",
+    34.84
+   ]
+  ]
+ },
+ {
+  "s": 35.87,
+  "e": 38.77,
+  "text": "then the swing back turns that lift into the next step.",
+  "words": [
+   [
+    "then",
+    35.87
+   ],
+   [
+    "the",
+    36.13
+   ],
+   [
+    "swing",
+    36.33
+   ],
+   [
+    "back",
+    36.66
+   ],
+   [
+    "turns",
+    36.93
+   ],
+   [
+    "that",
+    37.25
+   ],
+   [
+    "lift",
+    37.52
+   ],
+   [
+    "into",
+    37.78
+   ],
+   [
+    "the",
+    38.05
+   ],
+   [
+    "next",
+    38.24
+   ],
+   [
+    "step",
+    38.51
+   ]
+  ]
+ },
+ {
+  "s": 39.2,
+  "e": 43.42,
+  "text": "That way penguins win back up to 80 percent of the energy in each stride.",
+  "words": [
+   [
+    "that",
+    39.2
+   ],
+   [
+    "way",
+    39.49
+   ],
+   [
+    "penguins",
+    39.71
+   ],
+   [
+    "win",
+    40.29
+   ],
+   [
+    "back",
+    40.51
+   ],
+   [
+    "up",
+    40.8
+   ],
+   [
+    "to",
+    40.95
+   ],
+   [
+    "80",
+    41.09
+   ],
+   [
+    "percent",
+    41.24
+   ],
+   [
+    "of",
+    41.75
+   ],
+   [
+    "the",
+    41.89
+   ],
+   [
+    "energy",
+    42.11
+   ],
+   [
+    "in",
+    42.55
+   ],
+   [
+    "each",
+    42.69
+   ],
+   [
+    "stride",
+    42.99
+   ]
+  ]
+ },
+ {
+  "s": 43.83,
+  "e": 45.92,
+  "text": "You only get back about 65.",
+  "words": [
+   [
+    "you",
+    43.83
+   ],
+   [
+    "only",
+    44.13
+   ],
+   [
+    "get",
+    44.53
+   ],
+   [
+    "back",
+    44.83
+   ],
+   [
+    "about",
+    45.23
+   ],
+   [
+    "65",
+    45.72
+   ]
+  ]
+ },
+ {
+  "s": 46.38,
+  "e": 47.35,
+  "text": "Without the wobble,",
+  "words": [
+   [
+    "without",
+    46.38
+   ],
+   [
+    "the",
+    46.81
+   ],
+   [
+    "wobble",
+    46.99
+   ]
+  ]
+ },
+ {
+  "s": 47.72,
+  "e": 50.1,
+  "text": "their muscles would have to make up the difference.",
+  "words": [
+   [
+    "their",
+    47.72
+   ],
+   [
+    "muscles",
+    48.01
+   ],
+   [
+    "would",
+    48.4
+   ],
+   [
+    "have",
+    48.69
+   ],
+   [
+    "to",
+    48.91
+   ],
+   [
+    "make",
+    49.03
+   ],
+   [
+    "up",
+    49.25
+   ],
+   [
+    "the",
+    49.37
+   ],
+   [
+    "difference",
+    49.53
+   ]
+  ]
+ },
+ {
+  "s": 50.55,
+  "e": 52.78,
+  "text": "So next time a penguin waddles past,",
+  "words": [
+   [
+    "so",
+    50.55
+   ],
+   [
+    "next",
+    50.7
+   ],
+   [
+    "time",
+    51.01
+   ],
+   [
+    "a",
+    51.31
+   ],
+   [
+    "penguin",
+    51.39
+   ],
+   [
+    "waddles",
+    51.93
+   ],
+   [
+    "past",
+    52.47
+   ]
+  ]
+ },
+ {
+  "s": 53.16,
+  "e": 55.46,
+  "text": "is it clumsy, or kind of brilliant?",
+  "words": [
+   [
+    "is",
+    53.16
+   ],
+   [
+    "it",
+    53.33
+   ],
+   [
+    "clumsy",
+    53.5
+   ],
+   [
+    "or",
+    54.01
+   ],
+   [
+    "kind",
+    54.18
+   ],
+   [
+    "of",
+    54.52
+   ],
+   [
+    "brilliant",
+    54.69
+   ]
+  ]
+ }
+]

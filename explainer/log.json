@@ -1377,5 +1377,17 @@
   "words": 527,
   "sheet_id": "L029",
   "notes": "unattended run, no storyboard step; Lemo watercolor stroke engine; 35 scenes in 5 parts + teaser (next: L032 lungs); 1.4 s breath inserted before each part title; voice af_heart; added Cormorant Garamond + IBM Plex Mono fonts; added trend rows L031-L033"
+ },
+ {
+  "date": "2026-11-16",
+  "id": "20261116-penguin-waddle",
+  "kind": "short",
+  "style": "Data Storytelling",
+  "topic": "Why do penguins waddle?",
+  "title": "Why Do Penguins Waddle? The 80% Trick 🐧",
+  "seconds": 56.5,
+  "words": 150,
+  "sheet_id": "S097",
+  "notes": "unattended run, no storyboard step; hookscore 57, title 100; Lemo dataviz engine (MIT) bundled as engine.js with own 9x16 camera/paper/pencil; added Newsreader 500 font"
  }
 ]
