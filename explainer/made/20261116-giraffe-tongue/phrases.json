@@ -1,0 +1,662 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.14,
+  "text": "Giraffe tongues are almost black,",
+  "words": [
+   [
+    "giraffe",
+    0.25
+   ],
+   [
+    "tongues",
+    0.72
+   ],
+   [
+    "are",
+    1.19
+   ],
+   [
+    "almost",
+    1.4
+   ],
+   [
+    "black",
+    1.8
+   ]
+  ]
+ },
+ {
+  "s": 2.5,
+  "e": 3.79,
+  "text": "and you'd never guess why.",
+  "words": [
+   [
+    "and",
+    2.5
+   ],
+   [
+    "youd",
+    2.69
+   ],
+   [
+    "never",
+    2.95
+   ],
+   [
+    "guess",
+    3.27
+   ],
+   [
+    "why",
+    3.6
+   ]
+  ]
+ },
+ {
+  "s": 4.25,
+  "e": 7.03,
+  "text": "They can spend up to twelve hours a day out in the sun.",
+  "words": [
+   [
+    "they",
+    4.25
+   ],
+   [
+    "can",
+    4.51
+   ],
+   [
+    "spend",
+    4.71
+   ],
+   [
+    "up",
+    5.04
+   ],
+   [
+    "to",
+    5.17
+   ],
+   [
+    "twelve",
+    5.31
+   ],
+   [
+    "hours",
+    5.7
+   ],
+   [
+    "a",
+    6.03
+   ],
+   [
+    "day",
+    6.1
+   ],
+   [
+    "out",
+    6.3
+   ],
+   [
+    "in",
+    6.5
+   ],
+   [
+    "the",
+    6.63
+   ],
+   [
+    "sun",
+    6.83
+   ]
+  ]
+ },
+ {
+  "s": 7.4,
+  "e": 10.33,
+  "text": "That tongue is forty-five to fifty centimeters long,",
+  "words": [
+   [
+    "that",
+    7.4
+   ],
+   [
+    "tongue",
+    7.67
+   ],
+   [
+    "is",
+    8.08
+   ],
+   [
+    "fortyfive",
+    8.21
+   ],
+   [
+    "to",
+    8.83
+   ],
+   [
+    "fifty",
+    8.96
+   ],
+   [
+    "centimeters",
+    9.3
+   ],
+   [
+    "long",
+    10.05
+   ]
+  ]
+ },
+ {
+  "s": 10.89,
+  "e": 12.5,
+  "text": "longer than your whole forearm.",
+  "words": [
+   [
+    "longer",
+    10.89
+   ],
+   [
+    "than",
+    11.26
+   ],
+   [
+    "your",
+    11.51
+   ],
+   [
+    "whole",
+    11.76
+   ],
+   [
+    "forearm",
+    12.07
+   ]
+  ]
+ },
+ {
+  "s": 12.98,
+  "e": 15.53,
+  "text": "It wraps thorny acacia branches like a hand,",
+  "words": [
+   [
+    "it",
+    12.98
+   ],
+   [
+    "wraps",
+    13.12
+   ],
+   [
+    "thorny",
+    13.47
+   ],
+   [
+    "acacia",
+    13.9
+   ],
+   [
+    "branches",
+    14.32
+   ],
+   [
+    "like",
+    14.89
+   ],
+   [
+    "a",
+    15.17
+   ],
+   [
+    "hand",
+    15.24
+   ]
+  ]
+ },
+ {
+  "s": 16.18,
+  "e": 17.96,
+  "text": "and tough little bumps called papillae",
+  "words": [
+   [
+    "and",
+    16.18
+   ],
+   [
+    "tough",
+    16.34
+   ],
+   [
+    "little",
+    16.61
+   ],
+   [
+    "bumps",
+    16.93
+   ],
+   [
+    "called",
+    17.2
+   ],
+   [
+    "papillae",
+    17.53
+   ]
+  ]
+ },
+ {
+  "s": 18.02,
+  "e": 19.86,
+  "text": "armor it against the spikes.",
+  "words": [
+   [
+    "armor",
+    18.02
+   ],
+   [
+    "it",
+    18.42
+   ],
+   [
+    "against",
+    18.58
+   ],
+   [
+    "the",
+    19.14
+   ],
+   [
+    "spikes",
+    19.38
+   ]
+  ]
+ },
+ {
+  "s": 20.23,
+  "e": 22.85,
+  "text": "But all that eating happens in the African sun.",
+  "words": [
+   [
+    "but",
+    20.23
+   ],
+   [
+    "all",
+    20.43
+   ],
+   [
+    "that",
+    20.64
+   ],
+   [
+    "eating",
+    20.92
+   ],
+   [
+    "happens",
+    21.33
+   ],
+   [
+    "in",
+    21.81
+   ],
+   [
+    "the",
+    21.95
+   ],
+   [
+    "african",
+    22.16
+   ],
+   [
+    "sun",
+    22.64
+   ]
+  ]
+ },
+ {
+  "s": 23.23,
+  "e": 26.64,
+  "text": "So scientists think the dark color is built-in sunscreen.",
+  "words": [
+   [
+    "so",
+    23.23
+   ],
+   [
+    "scientists",
+    23.38
+   ],
+   [
+    "think",
+    24.1
+   ],
+   [
+    "the",
+    24.46
+   ],
+   [
+    "dark",
+    24.68
+   ],
+   [
+    "color",
+    24.97
+   ],
+   [
+    "is",
+    25.34
+   ],
+   [
+    "builtin",
+    25.48
+   ],
+   [
+    "sunscreen",
+    25.99
+   ]
+  ]
+ },
+ {
+  "s": 27.08,
+  "e": 29.11,
+  "text": "The front, the part that sticks out,",
+  "words": [
+   [
+    "the",
+    27.08
+   ],
+   [
+    "front",
+    27.3
+   ],
+   [
+    "the",
+    27.66
+   ],
+   [
+    "part",
+    27.88
+   ],
+   [
+    "that",
+    28.17
+   ],
+   [
+    "sticks",
+    28.46
+   ],
+   [
+    "out",
+    28.89
+   ]
+  ]
+ },
+ {
+  "s": 29.17,
+  "e": 30.55,
+  "text": "is packed with dark pigment.",
+  "words": [
+   [
+    "is",
+    29.17
+   ],
+   [
+    "packed",
+    29.29
+   ],
+   [
+    "with",
+    29.65
+   ],
+   [
+    "dark",
+    29.89
+   ],
+   [
+    "pigment",
+    30.13
+   ]
+  ]
+ },
+ {
+  "s": 30.95,
+  "e": 32.79,
+  "text": "The base, tucked inside the mouth,",
+  "words": [
+   [
+    "the",
+    30.95
+   ],
+   [
+    "base",
+    31.16
+   ],
+   [
+    "tucked",
+    31.43
+   ],
+   [
+    "inside",
+    31.84
+   ],
+   [
+    "the",
+    32.25
+   ],
+   [
+    "mouth",
+    32.45
+   ]
+  ]
+ },
+ {
+  "s": 32.87,
+  "e": 33.68,
+  "text": "is plain pink.",
+  "words": [
+   [
+    "is",
+    32.87
+   ],
+   [
+    "plain",
+    33.02
+   ],
+   [
+    "pink",
+    33.39
+   ]
+  ]
+ },
+ {
+  "s": 34.15,
+  "e": 36.28,
+  "text": "And honestly, that's kind of genius.",
+  "words": [
+   [
+    "and",
+    34.15
+   ],
+   [
+    "honestly",
+    34.38
+   ],
+   [
+    "thats",
+    34.99
+   ],
+   [
+    "kind",
+    35.37
+   ],
+   [
+    "of",
+    35.67
+   ],
+   [
+    "genius",
+    35.82
+   ]
+  ]
+ },
+ {
+  "s": 36.65,
+  "e": 37.89,
+  "text": "But it's not proven.",
+  "words": [
+   [
+    "but",
+    36.65
+   ],
+   [
+    "its",
+    36.9
+   ],
+   [
+    "not",
+    37.14
+   ],
+   [
+    "proven",
+    37.39
+   ]
+  ]
+ },
+ {
+  "s": 38.26,
+  "e": 40.52,
+  "text": "The okapi, the giraffe's forest cousin,",
+  "words": [
+   [
+    "the",
+    38.26
+   ],
+   [
+    "okapi",
+    38.48
+   ],
+   [
+    "the",
+    38.84
+   ],
+   [
+    "giraffes",
+    39.06
+   ],
+   [
+    "forest",
+    39.64
+   ],
+   [
+    "cousin",
+    40.08
+   ]
+  ]
+ },
+ {
+  "s": 40.96,
+  "e": 43.12,
+  "text": "has the same dark tongue in the shade.",
+  "words": [
+   [
+    "has",
+    40.96
+   ],
+   [
+    "the",
+    41.17
+   ],
+   [
+    "same",
+    41.39
+   ],
+   [
+    "dark",
+    41.68
+   ],
+   [
+    "tongue",
+    41.97
+   ],
+   [
+    "in",
+    42.4
+   ],
+   [
+    "the",
+    42.54
+   ],
+   [
+    "shade",
+    42.76
+   ]
+  ]
+ },
+ {
+  "s": 43.6,
+  "e": 46.08,
+  "text": "So why is a giraffe's tongue almost black?",
+  "words": [
+   [
+    "so",
+    43.6
+   ],
+   [
+    "why",
+    43.75
+   ],
+   [
+    "is",
+    43.97
+   ],
+   [
+    "a",
+    44.12
+   ],
+   [
+    "giraffes",
+    44.2
+   ],
+   [
+    "tongue",
+    44.8
+   ],
+   [
+    "almost",
+    45.25
+   ],
+   [
+    "black",
+    45.7
+   ]
+  ]
+ },
+ {
+  "s": 46.61,
+  "e": 48.26,
+  "text": "Sunscreen, or something else?",
+  "words": [
+   [
+    "sunscreen",
+    46.61
+   ],
+   [
+    "or",
+    47.23
+   ],
+   [
+    "something",
+    47.37
+   ],
+   [
+    "else",
+    47.99
+   ]
+  ]
+ }
+]
