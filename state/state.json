@@ -378,98 +378,6 @@
     }
   },
   "videos": {
-    "2026-11-11-101": {
-      "topic": {
-        "title": "What is the crusty 'sleep' in your eyes?",
-        "format": "animated",
-        "angle": "Kawaii Anime"
-      },
-      "package": {
-        "title": "Eye Crust: What Happens When 14,000 Blinks Stop \ud83d\udc41\ufe0f",
-        "description": "What is the crusty 'sleep' in your eyes every morning? Eye crust, or rheum, is mucus, oil, dust and dead skin cells that your blinks normally wash away, but when you sleep the blinking stops, so it collects in the corners of your eyes and dries out.\n\nSources:\nhttps://health.clevelandclinic.org/why-your-eyes-are-crusty-in-the-morning/\nhttps://www.healthline.com/health/how-many-times-do-you-blink-a-day\n\nAnimated in the Kawaii Anime style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#eyes",
-          "#humanbody",
-          "#science"
-        ],
-        "tags": [
-          "eye crust",
-          "sleep in your eyes",
-          "eye boogers",
-          "what is eye crust",
-          "rheum",
-          "why do eyes get crusty",
-          "crusty eyes in the morning",
-          "eye gunk",
-          "blinking facts",
-          "human body facts",
-          "body explainer",
-          "science shorts",
-          "kawaii animation",
-          "zorbly ai"
-        ],
-        "category": "27",
-        "pinned_comment": "What do YOU call it: sleep, eye boogers, or crust? Or something else?",
-        "thumbnail_text": "IT'S RHEUM",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "You wake up with dead skin glued in your eyes.\nWhy?\nAll day, your eyes wear a thin film of tears,\nmade of water, sticky mucus and a little oil.\nDust and old skin cells get trapped in it.\nBut you blink about 15 to 20 times a minute.\nThat's over 14,000 blinks a day,\nand every blink washes that gunk away.\nThen you fall asleep,\nand the blinking stops.\nNow the mucus, oil, dust and dead skin have nowhere to go.\nThey drift into the corners of your eyes,\nand overnight they dry out\ninto crusty little flakes.\nDoctors call it rheum.\nAnd a little every morning is totally normal.\nHonestly, it's just yesterday's cleanup, waiting for you.\nSo what do you call it: sleep, eye boogers, or crust?",
-        "key_facts": [
-          "Eye crust (rheum) is mucus, oil, dirt and skin cells that collect in the corners of the eyes (Cleveland Clinic)",
-          "During the day frequent blinking washes them away; asleep you don't blink, so they accumulate and dry into crust (Cleveland Clinic)",
-          "Most people blink 15-20 times a minute, about 14,400-19,200 times a day while awake (Healthline)",
-          "The tear film is made of water, mucus and oil",
-          "A little morning crust is normal (Cleveland Clinic)"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Kawaii Anime"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261111-eye-crust",
-      "redos": 0,
-      "updated": "2026-11-11T08:24:04.356783+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-11",
-        "name": "2026-11-11-101.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-11",
-        "name": "2026-11-11-101-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:02,760\nYou wake up with dead skin glued in your eyes.\n\n2\n00:00:03,200 --> 00:00:03,740\nWhy?\n\n3\n00:00:04,310 --> 00:00:07,220\nAll day, your eyes wear a thin film of tears,\n\n4\n00:00:07,590 --> 00:00:10,430\nmade of water, sticky mucus and a little oil.\n\n5\n00:00:10,900 --> 00:00:13,280\nDust and old skin cells get trapped in it.\n\n6\n00:00:13,720 --> 00:00:16,620\nBut you blink about 15 to 20 times a minute.\n\n7\n00:00:17,040 --> 00:00:19,350\nThat's over 14,000 blinks a day,\n\n8\n00:00:19,820 --> 00:00:22,100\nand every blink washes that gunk away.\n\n9\n00:00:22,540 --> 00:00:23,700\nThen you fall asleep,\n\n10\n00:00:23,960 --> 00:00:25,210\nand the blinking stops.\n\n11\n00:00:25,580 --> 00:00:29,660\nNow the mucus, oil, dust and dead skin have nowhere to go.\n\n12\n00:00:30,010 --> 00:00:32,230\nThey drift into the corners of your eyes,\n\n13\n00:00:32,700 --> 00:00:34,480\nand overnight they dry out\n\n14\n00:00:34,540 --> 00:00:35,810\ninto crusty little flakes.\n\n15\n00:00:36,250 --> 00:00:37,590\nDoctors call it rheum.\n\n16\n00:00:37,890 --> 00:00:40,430\nAnd a little every morning is totally normal.\n\n17\n00:00:40,850 --> 00:00:44,250\nHonestly, it's just yesterday's cleanup, waiting for you.\n\n18\n00:00:44,590 --> 00:00:47,830\nSo what do you call it: sleep, eye boogers, or crust?\n\n",
-      "tg_msg": 1086,
-      "approved_by": "auto",
-      "description_full": "What is the crusty 'sleep' in your eyes every morning? Eye crust, or rheum, is mucus, oil, dust and dead skin cells that your blinks normally wash away, but when you sleep the blinking stops, so it collects in the corners of your eyes and dries out.\n\nSources:\nhttps://health.clevelandclinic.org/why-your-eyes-are-crusty-in-the-morning/\nhttps://www.healthline.com/health/how-many-times-do-you-blink-a-day\n\nAnimated in the Kawaii Anime style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #eyes #humanbody #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/HJ6TTS98Tfo",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-11-11T08:24:04.356801+00:00",
-      "slot": "2026-11-18T00:15:00+00:00"
-    },
     "2026-11-11-102": {
       "topic": {
         "title": "Why do cats knead with their paws?",
@@ -3122,12 +3030,12 @@
         "format": "animated",
         "style": "Flat-Vector Science"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261117-duck-feet",
       "redos": 0,
-      "updated": "2026-11-17T02:19:06.483095+00:00",
+      "updated": "2026-11-17T10:50:41.331396+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech."
       ],
@@ -3142,7 +3050,100 @@
         "name": "2026-11-17-101-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:02,440\nDucks stand barefoot on ice for hours,\n\n2\n00:00:02,820 --> 00:00:04,350\nand their feet never freeze.\n\n3\n00:00:04,720 --> 00:00:05,880\nYours would. Why?\n\n4\n00:00:06,440 --> 00:00:07,820\nA duck's body runs hot,\n\n5\n00:00:08,250 --> 00:00:09,800\naround 41 degrees.\n\n6\n00:00:10,140 --> 00:00:12,280\nIf that warm blood rushed into its feet,\n\n7\n00:00:12,780 --> 00:00:14,760\nthe ice would suck the heat right out.\n\n8\n00:00:15,200 --> 00:00:17,480\nSo inside each leg, there's a trick.\n\n9\n00:00:17,860 --> 00:00:19,990\nThe artery carrying warm blood down\n\n10\n00:00:20,560 --> 00:00:23,060\nruns tight against the veins coming back up.\n\n11\n00:00:23,420 --> 00:00:26,130\nAs they pass, the warm blood hands its heat\n\n12\n00:00:26,200 --> 00:00:27,890\nto the cold blood heading home.\n\n13\n00:00:28,330 --> 00:00:30,990\nScientists call it countercurrent heat exchange.\n\n14\n00:00:31,410 --> 00:00:34,080\nSo the feet only get blood that's barely warm,\n\n15\n00:00:34,700 --> 00:00:36,260\njust enough to dodge frostbite,\n\n16\n00:00:36,350 --> 00:00:38,690\nand the heat goes back into the body.\n\n17\n00:00:39,120 --> 00:00:41,920\nIn one study, mallards at freezing\n\n18\n00:00:41,980 --> 00:00:45,260\nlost only about 5 percent of their body heat through their feet.\n\n19\n00:00:45,660 --> 00:00:47,890\nAnd duck feet are mostly bone and tendon,\n\n20\n00:00:48,420 --> 00:00:50,810\nwith hardly any soft tissue to freeze.\n\n21\n00:00:51,280 --> 00:00:52,510\nPretty genius, right?\n\n22\n00:00:53,080 --> 00:00:54,800\nSo would you swap feet with a duck,\n\n23\n00:00:55,140 --> 00:00:56,340\njust for one winter?\n\n",
-      "tg_msg": 1146
+      "tg_msg": 1146,
+      "approved_by": "auto",
+      "description_full": "Why don't ducks' feet freeze on ice? A countercurrent heat exchange in their legs lets warm arterial blood hand its heat to cold blood returning from the feet, so mallards lose only about 5% of their body heat through their feet.\n\nSources:\nhttps://askanaturalist.com/why-don%E2%80%99t-ducks%E2%80%99-feet-freeze/\nhttps://www.wwt.org.uk/discover-wetlands/blog/why-dont-birds-feet-freeze-and-other-amazing-avian-adaptations\nhttps://www.reconnectwithnature.org/headlines/news/nature-curiosity-why-dont-birds-feet-freeze-winter\n\nAnimated in the Flat-Vector Science style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #animals #science #ducks\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/VBIswt9ZUtg",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-17T10:50:41.331415+00:00",
+      "slot": "2026-11-17T20:15:00+00:00"
+    },
+    "2026-11-17-102": {
+      "topic": {
+        "title": "Why can a starfish regrow a whole arm?",
+        "format": "animated",
+        "angle": "Kawaii Anime"
+      },
+      "package": {
+        "title": "1 Starfish Arm Grows 4 New Arms. How? \u2b50",
+        "description": "How do starfish regrow a lost arm? Sea stars can drop an arm on purpose to escape a crab, seal the wound, and rebuild the arm from the tip back over a few months to more than a year, and Linckia sea stars can grow a whole new body from a single arm.\n\nSources:\nhttps://en.wikipedia.org/wiki/Starfish_regeneration\nhttps://www.popsci.com/environment/starfish-limb-regeneration/\n\nAnimated in the Kawaii Anime style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#starfish",
+          "#animalfacts",
+          "#science"
+        ],
+        "tags": [
+          "starfish",
+          "starfish regeneration",
+          "how do starfish regrow arms",
+          "sea star",
+          "sea star regeneration",
+          "linckia",
+          "starfish arm",
+          "regeneration",
+          "tube feet",
+          "autotomy",
+          "animal facts",
+          "ocean animals",
+          "kawaii animation",
+          "science explained"
+        ],
+        "category": "27",
+        "pinned_comment": "If one arm grows into a whole new starfish, which one is the real starfish: the original or the new one?",
+        "thumbnail_text": "WHICH IS REAL?",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "You can't regrow a finger,\nbut one starfish arm can grow\nfour new arms and a whole body.\nWhen a crab grabs one, it can drop the arm on purpose.\nA muscle at the base squeezes, and the arm lets go.\nThen the wound seals itself shut,\nand skin creeps over it in about two days.\nMuscle cells turn back into simpler cells\nand crawl toward the stump.\nThe first part to grow back?\nA tiny tube foot at the tip.\nIt works like a signal tower,\ntelling everything behind it where to grow.\nTube feet, little bones and muscle fill in, one by one.\nThe whole arm takes a few months to over a year.\nAnd in Linckia sea stars,\none arm alone can grow a brand new body.\nSo if one arm can make a whole starfish,\nwhich one is the real starfish?",
+        "key_facts": [
+          "Sea stars can autotomize (drop) an arm, triggered by a muscle at the arm base contracting (ArSK/CCK1 neurohormone study, 2024)",
+          "Wound closes by a contracting ring; skin re-covers it within about 48 hours",
+          "Dedifferentiating muscle cells migrate toward the regenerating tip",
+          "The terminal tube foot is the first structure to regrow and acts as a signalling centre; other tube feet, ossicles and muscle follow",
+          "Regrowing an arm takes a few months to over a year",
+          "Linckia can regrow a whole body from a single arm (comet form)"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Kawaii Anime"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261117-starfish-regrow",
+      "redos": 0,
+      "updated": "2026-11-17T10:50:25.424465+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-17",
+        "name": "2026-11-17-102.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-17",
+        "name": "2026-11-17-102-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:01,510\nYou can't regrow a finger,\n\n2\n00:00:01,990 --> 00:00:03,860\nbut one starfish arm can grow\n\n3\n00:00:03,860 --> 00:00:05,830\nfour new arms and a whole body.\n\n4\n00:00:06,230 --> 00:00:09,760\nWhen a crab grabs one, it can drop the arm on purpose.\n\n5\n00:00:10,120 --> 00:00:13,310\nA muscle at the base squeezes, and the arm lets go.\n\n6\n00:00:13,700 --> 00:00:15,350\nThen the wound seals itself shut,\n\n7\n00:00:15,830 --> 00:00:18,420\nand skin creeps over it in about two days.\n\n8\n00:00:18,770 --> 00:00:21,340\nMuscle cells turn back into simpler cells\n\n9\n00:00:21,700 --> 00:00:23,160\nand crawl toward the stump.\n\n10\n00:00:23,610 --> 00:00:25,200\nThe first part to grow back?\n\n11\n00:00:25,740 --> 00:00:27,440\nA tiny tube foot at the tip.\n\n12\n00:00:27,890 --> 00:00:29,590\nIt works like a signal tower,\n\n13\n00:00:30,060 --> 00:00:32,400\ntelling everything behind it where to grow.\n\n14\n00:00:32,760 --> 00:00:36,200\nTube feet, little bones and muscle fill in, one by one.\n\n15\n00:00:36,580 --> 00:00:39,160\nThe whole arm takes a few months to over a year.\n\n16\n00:00:39,600 --> 00:00:41,050\nAnd in Linckia sea stars,\n\n17\n00:00:41,450 --> 00:00:44,100\none arm alone can grow a brand new body.\n\n18\n00:00:44,480 --> 00:00:46,850\nSo if one arm can make a whole starfish,\n\n19\n00:00:47,280 --> 00:00:49,320\nwhich one is the real starfish?\n\n",
+      "tg_msg": 1148
     }
   },
   "history": [
@@ -3232,7 +3233,7 @@
   "visual_searches": {
     "2026-10-25": 3
   },
-  "signals_day": "2026-11-16",
+  "signals_day": "2026-11-17",
   "drops_done": {
     "drop/20261025-autumn-leaves": "2026-10-25-101",
     "drop/20261025-roman-hypocaust": "2026-10-25-102",
@@ -3349,7 +3350,8 @@
     "drop/20261116-heart-explained": "2026-11-16-103",
     "drop/20261116-penguin-waddle": "2026-11-16-104",
     "drop/20261116-antarctic-fish": "2026-11-16-105",
-    "drop/20261117-duck-feet": "2026-11-17-101"
+    "drop/20261117-duck-feet": "2026-11-17-101",
+    "drop/20261117-starfish-regrow": "2026-11-17-102"
   },
   "refs_day": "2026-11-17"
 }
