@@ -378,180 +378,6 @@
     }
   },
   "videos": {
-    "2026-11-11-103": {
-      "topic": {
-        "title": "Why does an octopus have three hearts?",
-        "format": "animated",
-        "angle": "Flat-Vector Science"
-      },
-      "package": {
-        "title": "Why Does an Octopus Have 3 Hearts? \ud83d\udc19",
-        "description": "Why does an octopus have three hearts? Two branchial hearts pump blood through the gills, a third systemic heart sends it around the body, and because octopus blood carries oxygen with copper-based hemocyanin (which makes it blue), it needs that extra pumping power, while the body heart even stops beating when the octopus swims.\n\nSources:\nhttps://www.livescience.com/how-many-hearts-does-an-octopus-have\nhttps://www.sciencefocus.com/nature/why-does-an-octopus-have-more-than-one-heart\nhttps://www.scienceabc.com/nature/animals/why-do-octopuses-have-three-hearts\n\nAnimated in the Flat-Vector Science style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#octopus",
-          "#animalfacts",
-          "#science"
-        ],
-        "tags": [
-          "why does an octopus have three hearts",
-          "octopus three hearts",
-          "octopus blue blood",
-          "why is octopus blood blue",
-          "hemocyanin",
-          "octopus hearts explained",
-          "octopus facts",
-          "ocean animals",
-          "marine biology",
-          "animal facts",
-          "weird animal facts",
-          "science explained",
-          "octopus swimming"
-        ],
-        "category": "27",
-        "pinned_comment": "If you had three hearts, what would you do with the spare one?",
-        "thumbnail_text": "BLUE BLOOD",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "Three hearts, blue blood, and you'd never guess why one octopus needs 3. Two of the hearts sit right by the gills. Their only job is pushing blood through them, so it can grab oxygen from the water. The third heart is the big one. It sends that fresh blood out to the whole body. So why not just one? Octopus blood carries oxygen with copper, not iron. That copper is what makes it blue, and it's worse at holding oxygen than ours. So the octopus needs extra pumping power. Now the weird part. When an octopus swims, that main body heart actually stops beating. Swimming tires it out fast, which is why octopuses would much rather crawl. If you had three hearts, what would you do with the spare one?",
-        "key_facts": [
-          "Octopuses have three hearts: two branchial hearts pump blood through the gills, one systemic heart pumps it to the body",
-          "Octopus blood uses copper-based hemocyanin, which turns blue when oxygenated",
-          "Hemocyanin carries oxygen less efficiently than our iron-based hemoglobin",
-          "The systemic heart stops beating while the octopus swims, so octopuses prefer crawling"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Flat-Vector Science"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261111-octopus-hearts",
-      "redos": 0,
-      "updated": "2026-11-11T21:26:46.870462+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-11",
-        "name": "2026-11-11-103.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-11",
-        "name": "2026-11-11-103-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:01,850\nThree hearts, blue blood,\n\n2\n00:00:02,310 --> 00:00:04,890\nand you'd never guess why one octopus needs 3.\n\n3\n00:00:05,300 --> 00:00:07,470\nTwo of the hearts sit right by the gills.\n\n4\n00:00:07,850 --> 00:00:10,200\nTheir only job is pushing blood through them,\n\n5\n00:00:10,710 --> 00:00:13,120\nso it can grab oxygen from the water.\n\n6\n00:00:13,520 --> 00:00:15,360\nThe third heart is the big one.\n\n7\n00:00:15,780 --> 00:00:18,300\nIt sends that fresh blood out to the whole body.\n\n8\n00:00:18,680 --> 00:00:20,110\nSo why not just one?\n\n9\n00:00:20,640 --> 00:00:24,150\nOctopus blood carries oxygen with copper, not iron.\n\n10\n00:00:24,500 --> 00:00:26,330\nThat copper is what makes it blue,\n\n11\n00:00:26,830 --> 00:00:29,610\nand it's worse at holding oxygen than ours.\n\n12\n00:00:30,020 --> 00:00:32,660\nSo the octopus needs extra pumping power.\n\n13\n00:00:33,120 --> 00:00:34,380\nNow the weird part.\n\n14\n00:00:34,730 --> 00:00:36,090\nWhen an octopus swims,\n\n15\n00:00:36,500 --> 00:00:39,210\nthat main body heart actually stops beating.\n\n16\n00:00:39,590 --> 00:00:41,510\nSwimming tires it out fast,\n\n17\n00:00:41,970 --> 00:00:44,730\nwhich is why octopuses would much rather crawl.\n\n18\n00:00:45,200 --> 00:00:46,540\nIf you had three hearts,\n\n19\n00:00:46,860 --> 00:00:48,470\nwhat would you do with the spare one?\n\n",
-      "tg_msg": 1090,
-      "approved_by": "auto",
-      "description_full": "Why does an octopus have three hearts? Two branchial hearts pump blood through the gills, a third systemic heart sends it around the body, and because octopus blood carries oxygen with copper-based hemocyanin (which makes it blue), it needs that extra pumping power, while the body heart even stops beating when the octopus swims.\n\nSources:\nhttps://www.livescience.com/how-many-hearts-does-an-octopus-have\nhttps://www.sciencefocus.com/nature/why-does-an-octopus-have-more-than-one-heart\nhttps://www.scienceabc.com/nature/animals/why-do-octopuses-have-three-hearts\n\nAnimated in the Flat-Vector Science style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #octopus #animalfacts #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/LU9RFPFjYUw",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-11-11T21:26:46.870479+00:00",
-      "slot": "2026-11-18T17:15:00+00:00"
-    },
-    "2026-11-11-104": {
-      "topic": {
-        "title": "How do homing pigeons find their way home from hundreds of miles away?",
-        "format": "long",
-        "angle": "Synthwave Outrun"
-      },
-      "package": {
-        "title": "How Do Pigeons Fly 600 Miles Home?",
-        "description": "Homing pigeons can find their loft from hundreds of miles away using a sun compass, a magnetic sense on cloudy days, a smell map carried on the wind, and roads and landmarks for the last few miles. We look at William Keeton's clock-shift trick that sent pigeons 90 degrees off course, the tiny magnets that got them lost under clouds, the Oxford GPS study that caught pigeons following highways and roundabouts, and how fast racing pigeons really fly.\n\nSources:\nhttps://digfir-published.macmillanusa.com/hlw/hlw_ch45_5.html\nhttps://theconversation.com/explainer-how-do-homing-pigeons-navigate-25633\nhttps://www.earthdate.org/episodes/homing-pigeons\n\nAnimated in the Synthwave Outrun style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#pigeons",
-          "#animals",
-          "#science"
-        ],
-        "tags": [
-          "homing pigeon",
-          "how do homing pigeons navigate",
-          "pigeon navigation",
-          "how do pigeons find their way home",
-          "racing pigeon",
-          "pigeon sun compass",
-          "pigeon magnetic field",
-          "pigeons follow roads",
-          "clock shift experiment",
-          "animal navigation",
-          "bird facts",
-          "animal facts",
-          "animal explainer",
-          "synthwave",
-          "zorbly ai"
-        ],
-        "category": "27",
-        "pinned_comment": "Which sense surprised you most: the sun compass, the magnetic backup, the smell map or the roads?",
-        "thumbnail_text": "NO MAP. NO GPS.",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "Take a pigeon six hundred miles from home and let it go.\nIt'll be back the same day.\nNo map, no phone, no GPS.\nAnd nobody fully knows how it does it.\nSo how does a bird that small know the way?\nLet's take a ride along its route.\nPeople figured out this trick a long time ago.\nThe ancient Egyptians and Romans carried pigeons on trips\nand let them go with messages.\nBack in 44 BC, a Roman general sent his notes by pigeon.\nHere's the secret.\nAny pigeon can find its own home.\nBreeders just start them young,\nwith short practice flights from a mile or two away,\nthen farther and farther.\nScientists think a pigeon needs two tools.\nA compass, to tell which way is which.\nAnd a map, to know where home actually is.\nLet's start with the compass.\nOn a sunny day, a pigeon steers by the sun.\nBut the sun moves fifteen degrees every hour,\nso the bird has to know what time it is.\nDecades ago, a scientist named William Keeton played a sneaky trick.\nHe kept pigeons under lamps that ran six hours off.\nThen he let them go on a sunny day.\nHome was west,\nbut the birds flew north.\nThey were off by ninety degrees,\nexactly what a six-hour mistake would cause.\nSo the sun really is their compass.\nBut what about cloudy days?\nPigeons still get home.\nKeeton tried tiny magnets on their backs.\nIn sunshine, the magnets did nothing.\nUnder clouds, those birds got lost.\nSo pigeons have a backup.\nThey can feel Earth's magnetic field.\nA compass is great,\nbut it's useless if you don't know where home is.\nSo where's the map?\nMany scientists think it's up the pigeon's nose.\nPigeons that can't smell\nget lost when they're released somewhere new.\nThe idea is that every region has its own mix of smells,\ncarried along by the wind.\nA young pigeon sitting in its loft\nlearns which smells blow in from which direction.\nSmell the forest, and home is that way.\nSome researchers think pigeons might also hear\nsuper-low sounds that travel for miles,\nbut that's still being tested.\nNow here's the funniest part.\nClose to home, pigeons switch to their eyes.\nOxford scientists put tiny GPS trackers on pigeons.\nAnd the birds followed the roads.\nThey flew straight down a highway,\nturned at the traffic lights,\nand even went around a roundabout.\nIt's easier than thinking, so they just follow the road.\nSo how good are they?\nA racing pigeon averages about fifty miles an hour.\nWith a tailwind, it can hit ninety.\nSome races run six hundred miles,\nand the longest have gone over a thousand miles.\nSun for the compass.\nMagnetism when it's cloudy.\nSmell for the map.\nAnd roads for the last few miles.\nFour senses, one tiny brain, and it still beats your phone's battery.\nNext time, your bones are alive.\nSo how do they rebuild themselves?\n",
-        "key_facts": [
-          "Racing pigeons average about 50 mph over typical race distances, up to 85-90 mph with a tailwind (EarthDate; WCCO/CBS Minnesota)",
-          "Races commonly run up to about 600 miles; the longest races are around 1,100 miles (CBS Minnesota; EarthDate)",
-          "Pigeons were used as messengers in ancient Egypt, Greece and Rome; pigeon post was used at the siege of Modena in 44 BC (EarthDate)",
-          "Young birds are trained with short releases that get gradually farther from the loft",
-          "The sun moves about 15 degrees an hour; a 6-hour clock shift sends pigeons about 90 degrees off (Keeton 1969; textbook ch. 45.4)",
-          "Pigeons wearing magnets home fine on sunny days but fail on cloudy days (Keeton; textbook ch. 45.4)",
-          "Pigeons that cannot smell cannot navigate from unfamiliar places; the map is thought to be olfactory, built from wind-borne odours (The Conversation; Wallraff 2013 via ScienceDaily)",
-          "Infrasound has been proposed as a cue but has little support so far (The Conversation; EarthDate)",
-          "Oxford GPS tracking (Guilford) showed pigeons following roads such as the A34, turning at traffic lights and going around roundabouts (AFP via Al Jazeera, 2004)"
-        ],
-        "voice": "Kokoro",
-        "format": "long",
-        "style": "Synthwave Outrun"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261111-pigeon-homing",
-      "redos": 0,
-      "updated": "2026-11-11T21:26:54.809634+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Synthwave Outrun style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-11",
-        "name": "2026-11-11-104.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-11",
-        "name": "2026-11-11-104-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:03,950\nTake a pigeon six hundred miles from home and let it go.\n\n2\n00:00:04,360 --> 00:00:05,830\nIt'll be back the same day.\n\n3\n00:00:06,210 --> 00:00:08,550\nNo map, no phone, no GPS.\n\n4\n00:00:08,970 --> 00:00:11,000\nAnd nobody fully knows how it does it.\n\n5\n00:00:11,390 --> 00:00:13,560\nSo how does a bird that small know the way?\n\n6\n00:00:14,010 --> 00:00:15,890\nLet's take a ride along its route.\n\n7\n00:00:16,350 --> 00:00:18,990\nPeople figured out this trick a long time ago.\n\n8\n00:00:19,390 --> 00:00:23,030\nThe ancient Egyptians and Romans carried pigeons on trips\n\n9\n00:00:23,410 --> 00:00:25,160\nand let them go with messages.\n\n10\n00:00:25,610 --> 00:00:30,430\nBack in 44 BC, a Roman general sent his notes by pigeon.\n\n11\n00:00:30,860 --> 00:00:31,890\nHere's the secret.\n\n12\n00:00:32,240 --> 00:00:34,190\nAny pigeon can find its own home.\n\n13\n00:00:34,580 --> 00:00:36,130\nBreeders just start them young,\n\n14\n00:00:36,590 --> 00:00:39,350\nwith short practice flights from a mile or two away,\n\n15\n00:00:39,760 --> 00:00:41,180\nthen farther and farther.\n\n16\n00:00:41,650 --> 00:00:44,120\nScientists think a pigeon needs two tools.\n\n17\n00:00:44,490 --> 00:00:46,670\nA compass, to tell which way is which.\n\n18\n00:00:47,140 --> 00:00:49,520\nAnd a map, to know where home actually is.\n\n19\n00:00:49,950 --> 00:00:51,450\nLet's start with the compass.\n\n20\n00:00:51,830 --> 00:00:54,650\nOn a sunny day, a pigeon steers by the sun.\n\n21\n00:00:55,120 --> 00:00:57,630\nBut the sun moves fifteen degrees every hour,\n\n22\n00:00:58,130 --> 00:01:00,450\nso the bird has to know what time it is.\n\n23\n00:01:00,860 --> 00:01:05,380\nDecades ago, a scientist named William Keeton played a sneaky trick.\n\n24\n00:01:05,790 --> 00:01:08,750\nHe kept pigeons under lamps that ran six hours off.\n\n25\n00:01:09,100 --> 00:01:11,060\nThen he let them go on a sunny day.\n\n26\n00:01:11,530 --> 00:01:12,360\nHome was west,\n\n27\n00:01:12,550 --> 00:01:13,900\nbut the birds flew north.\n\n28\n00:01:14,280 --> 00:01:15,990\nThey were off by ninety degrees,\n\n29\n00:01:16,410 --> 00:01:19,180\nexactly what a six-hour mistake would cause.\n\n30\n00:01:19,570 --> 00:01:21,600\nSo the sun really is their compass.\n\n31\n00:01:22,030 --> 00:01:23,640\nBut what about cloudy days?\n\n32\n00:01:24,110 --> 00:01:25,420\nPigeons still get home.\n\n33\n00:01:25,800 --> 00:01:28,250\nKeeton tried tiny magnets on their backs.\n\n34\n00:01:28,720 --> 00:01:30,980\nIn sunshine, the magnets did nothing.\n\n35\n00:01:31,380 --> 00:01:33,640\nUnder clouds, those birds got lost.\n\n36\n00:01:34,030 --> 00:01:35,610\nSo pigeons have a backup.\n\n37\n00:01:35,990 --> 00:01:38,180\nThey can feel Earth's magnetic field.\n\n38\n00:01:38,650 --> 00:01:39,780\nA compass is great,\n\n39\n00:01:40,290 --> 00:01:42,690\nbut it's useless if you don't know where home is.\n\n40\n00:01:43,120 --> 00:01:44,320\nSo where's the map?\n\n41\n00:01:44,820 --> 00:01:47,440\nMany scientists think it's up the pigeon's nose.\n\n42\n00:01:47,860 --> 00:01:48,430\nPigeons that can't smell\n\n43\n00:01:48,490 --> 00:01:51,560\nget lost when they're released somewhere new.\n\n44\n00:01:51,940 --> 00:01:55,440\nThe idea is that every region has its own mix of smells,\n\n45\n00:01:55,850 --> 00:01:57,420\ncarried along by the wind.\n\n46\n00:01:57,850 --> 00:01:59,720\nA young pigeon sitting in its loft\n\n47\n00:01:59,780 --> 00:02:02,670\nlearns which smells blow in from which direction.\n\n48\n00:02:03,060 --> 00:02:05,420\nSmell the forest, and home is that way.\n\n49\n00:02:05,820 --> 00:02:08,730\nSome researchers think pigeons might also hear\n\n50\n00:02:08,790 --> 00:02:11,030\nsuper-low sounds that travel for miles,\n\n51\n00:02:11,550 --> 00:02:13,040\nbut that's still being tested.\n\n52\n00:02:13,450 --> 00:02:15,110\nNow here's the funniest part.\n\n53\n00:02:15,480 --> 00:02:18,010\nClose to home, pigeons switch to their eyes.\n\n54\n00:02:18,360 --> 00:02:22,160\nOxford scientists put tiny GPS trackers on pigeons.\n\n55\n00:02:22,500 --> 00:02:24,320\nAnd the birds followed the roads.\n\n56\n00:02:24,710 --> 00:02:26,320\nThey flew straight down a highway,\n\n57\n00:02:26,790 --> 00:02:28,110\nturned at the traffic lights,\n\n58\n00:02:28,360 --> 00:02:30,090\nand even went around a roundabout.\n\n59\n00:02:30,540 --> 00:02:33,780\nIt's easier than thinking, so they just follow the road.\n\n60\n00:02:34,210 --> 00:02:35,400\nSo how good are they?\n\n61\n00:02:35,860 --> 00:02:39,390\nA racing pigeon averages about fifty miles an hour.\n\n62\n00:02:39,750 --> 00:02:41,780\nWith a tailwind, it can hit ninety.\n\n63\n00:02:42,220 --> 00:02:44,350\nSome races run six hundred miles,\n\n64\n00:02:44,520 --> 00:02:47,760\nand the longest have gone over a thousand miles.\n\n65\n00:02:48,160 --> 00:02:49,360\nSun for the compass.\n\n66\n00:02:49,740 --> 00:02:51,480\nMagnetism when it's cloudy.\n\n67\n00:02:51,850 --> 00:02:52,920\nSmell for the map.\n\n68\n00:02:53,290 --> 00:02:55,320\nAnd roads for the last few miles.\n\n69\n00:02:55,740 --> 00:03:00,190\nFour senses, one tiny brain, and it still beats your phone's battery.\n\n70\n00:03:00,640 --> 00:03:02,690\nNext time, your bones are alive.\n\n71\n00:03:03,060 --> 00:03:04,970\nSo how do they rebuild themselves?\n\n",
-      "tg_msg": 1091,
-      "approved_by": "auto",
-      "description_full": "Homing pigeons can find their loft from hundreds of miles away using a sun compass, a magnetic sense on cloudy days, a smell map carried on the wind, and roads and landmarks for the last few miles. We look at William Keeton's clock-shift trick that sent pigeons 90 degrees off course, the tiny magnets that got them lost under clouds, the Oxford GPS study that caught pigeons following highways and roundabouts, and how fast racing pigeons really fly.\n\nSources:\nhttps://digfir-published.macmillanusa.com/hlw/hlw_ch45_5.html\nhttps://theconversation.com/explainer-how-do-homing-pigeons-navigate-25633\nhttps://www.earthdate.org/episodes/homing-pigeons\n\nAnimated in the Synthwave Outrun style.\n\nFollow Zorbly AI for a new Short every day.\n\n#pigeons #animals #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Synthwave Outrun style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/oU660uvq-js",
-          "private \u00b7 thumbnail \u2705"
-        ]
-      },
-      "uploaded_at": "2026-11-11T21:26:54.809652+00:00",
-      "slot": "2026-11-18T20:15:00+00:00"
-    },
     "2026-11-11-105": {
       "topic": {
         "title": "Why do crabs walk sideways?",
@@ -3123,12 +2949,12 @@
         "format": "animated",
         "style": "Low-Poly Faceted"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261117-gecko-feet",
       "redos": 0,
-      "updated": "2026-11-17T19:37:38.539462+00:00",
+      "updated": "2026-11-17T22:25:47.973202+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Low-Poly Faceted style). Voice: Kokoro text-to-speech."
       ],
@@ -3143,7 +2969,29 @@
         "name": "2026-11-17-103-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:03,990\nWhat if your feet could hold 290 pounds with no glue?\n\n2\n00:00:04,470 --> 00:00:06,970\nA gecko's feet can, at least in theory.\n\n3\n00:00:07,340 --> 00:00:09,650\nIts toes are covered in tiny hairs,\n\n4\n00:00:10,100 --> 00:00:12,570\nabout six and a half million on one gecko.\n\n5\n00:00:12,940 --> 00:00:16,410\nAnd every hair splits into hundreds of even tinier tips.\n\n6\n00:00:16,810 --> 00:00:18,890\nThose tips get so close to the wall\n\n7\n00:00:19,320 --> 00:00:21,720\nthat the molecules themselves pull together.\n\n8\n00:00:22,120 --> 00:00:24,070\nIt's called the van der Waals force.\n\n9\n00:00:24,520 --> 00:00:25,460\nOne hair is weak,\n\n10\n00:00:25,550 --> 00:00:27,720\nbut millions together are mighty.\n\n11\n00:00:28,190 --> 00:00:31,010\nTo let go, a gecko just peels its toes up,\n\n12\n00:00:31,120 --> 00:00:31,810\nlike tape.\n\n13\n00:00:32,210 --> 00:00:33,610\nNow scale that up to you.\n\n14\n00:00:34,010 --> 00:00:36,870\nYou'd need sticky pads on forty percent of your body,\n\n15\n00:00:37,350 --> 00:00:39,270\nabout eighty percent of your front!\n\n16\n00:00:39,700 --> 00:00:42,870\nAnd your shoes? US size one hundred fourteen.\n\n17\n00:00:43,220 --> 00:00:47,040\nThat's why geckos are about the biggest animals that can do this.\n\n18\n00:00:47,420 --> 00:00:49,680\nSo would you trade your feet for gecko feet?\n\n",
-      "tg_msg": 1150
+      "tg_msg": 1150,
+      "approved_by": "auto",
+      "description_full": "How do geckos stick to walls with no glue? Millions of tiny hairs on gecko toes use van der Waals forces, and here's what it would take for human feet to do the same.\n\nSources:\nhttps://www.sciencedaily.com/releases/2016/01/160118184359.htm\nhttps://sicb.org/abstracts/gecko-setae-a-self-cleaning-adhesive-nanostructure/\nhttps://www.discoverwildlife.com/animal-facts/best-climbers\n\nAnimated in the Low-Poly Faceted style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #gecko #science #animals\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Low-Poly Faceted style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/bvZ02rcxoq4",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-17T22:25:47.973218+00:00",
+      "slot": "2026-11-18T02:15:00+00:00"
     },
     "2026-11-17-104": {
       "topic": {
@@ -3221,12 +3069,12 @@
         "format": "long",
         "style": "Copperplate Engraving"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261117-giraffe-sleep",
       "redos": 0,
-      "updated": "2026-11-17T19:37:52.047771+00:00",
+      "updated": "2026-11-17T22:25:54.609729+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Copperplate Engraving style). Voice: Kokoro text-to-speech."
       ],
@@ -3241,7 +3089,86 @@
         "name": "2026-11-17-104-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:02,510\nGiraffes dream for about eight minutes a night.\n\n2\n00:00:02,940 --> 00:00:04,700\nYou'd beat that before your first snooze.\n\n3\n00:00:05,150 --> 00:00:08,220\nAnd yet the tallest animal on Earth seems totally fine.\n\n4\n00:00:08,610 --> 00:00:11,010\nSo how does a giraffe get by on so little sleep?\n\n5\n00:00:11,460 --> 00:00:13,500\nAnd why does it sleep in such a weird way?\n\n6\n00:00:14,020 --> 00:00:16,180\nChapter one. The tallest short sleeper.\n\n7\n00:00:16,550 --> 00:00:19,690\nYou'll often hear that giraffes sleep about thirty minutes a day.\n\n8\n00:00:20,160 --> 00:00:22,210\nBut the truth is a little more interesting.\n\n9\n00:00:22,620 --> 00:00:25,870\nIn Namibia, scientists fitted three wild giraffes\n\n10\n00:00:25,980 --> 00:00:27,320\nwith tiny motion sensors,\n\n11\n00:00:27,760 --> 00:00:29,620\nclipped onto the little horns on their heads.\n\n12\n00:00:29,960 --> 00:00:31,760\nFor months, they logged every move,\n\n13\n00:00:31,920 --> 00:00:32,630\nall night long.\n\n14\n00:00:33,110 --> 00:00:35,750\nThe giraffes were resting for around eight hours a night.\n\n15\n00:00:36,160 --> 00:00:38,790\nBut the deepest kind of sleep, the kind where you dream,\n\n16\n00:00:39,110 --> 00:00:40,990\nadded up to only about eight minutes.\n\n17\n00:00:41,430 --> 00:00:43,040\nUsually in two short bursts.\n\n18\n00:00:43,520 --> 00:00:45,460\nChapter two. Sleeping on your feet.\n\n19\n00:00:45,930 --> 00:00:48,200\nSo what are giraffes doing the rest of the time?\n\n20\n00:00:48,740 --> 00:00:50,550\nMostly, they doze standing up.\n\n21\n00:00:50,910 --> 00:00:53,250\nEyes half open, ears still twitching,\n\n22\n00:00:53,550 --> 00:00:55,000\nfor just a few minutes at a time.\n\n23\n00:00:55,440 --> 00:00:56,890\nIf a lion creeps closer,\n\n24\n00:00:57,270 --> 00:00:59,320\na standing giraffe can run right away.\n\n25\n00:00:59,670 --> 00:01:01,790\nLying down is a whole different story.\n\n26\n00:01:02,260 --> 00:01:04,000\nChapter three. The neck problem.\n\n27\n00:01:04,350 --> 00:01:07,360\nPicture folding a five-metre animal onto the ground.\n\n28\n00:01:07,750 --> 00:01:10,780\nFirst the front knees bend, then the back legs fold,\n\n29\n00:01:11,120 --> 00:01:13,310\nGetting back up means rocking that long neck\n\n30\n00:01:13,390 --> 00:01:14,240\nto swing its weight,\n\n31\n00:01:14,610 --> 00:01:16,270\nand pushing up one end at a time.\n\n32\n00:01:16,630 --> 00:01:18,240\nIt only takes a few seconds.\n\n33\n00:01:18,620 --> 00:01:22,030\nBut with a lion nearby, a few seconds is a very long time.\n\n34\n00:01:22,450 --> 00:01:23,800\nSo why lie down at all?\n\n35\n00:01:24,340 --> 00:01:26,660\nBecause dreaming sleep relaxes the muscles.\n\n36\n00:01:27,080 --> 00:01:29,850\nA giraffe can't hold up its heavy neck while it dreams.\n\n37\n00:01:30,270 --> 00:01:32,980\nSo it curls its neck right back, like a swan,\n\n38\n00:01:33,270 --> 00:01:34,870\nand rests its head on its own rump.\n\n39\n00:01:35,270 --> 00:01:36,890\nA pillow it never has to pack.\n\n40\n00:01:37,300 --> 00:01:38,940\nChapter four. When and where.\n\n41\n00:01:39,340 --> 00:01:41,330\nThere are two favourite times for a snooze.\n\n42\n00:01:41,780 --> 00:01:44,790\nA few hours after sunset, around nine to eleven,\n\n43\n00:01:45,150 --> 00:01:48,340\nand again before sunrise, around three to five in the morning.\n\n44\n00:01:48,740 --> 00:01:50,120\nGiraffes pick resting spots\n\n45\n00:01:50,180 --> 00:01:51,340\nwith a clear view,\n\n46\n00:01:51,660 --> 00:01:54,740\noften in a small group, where more eyes can spot trouble.\n\n47\n00:01:55,140 --> 00:01:57,930\nAnd there's one more thing stealing their sleep. Lunch.\n\n48\n00:01:58,390 --> 00:02:00,640\nGiraffes eat leaves, and leaves are tough.\n\n49\n00:02:01,050 --> 00:02:03,220\nSo like cows, they chew their food twice.\n\n50\n00:02:03,650 --> 00:02:05,960\nThey bring it back up and chew it again, as cud.\n\n51\n00:02:06,420 --> 00:02:09,290\nBut a giraffe can't drift into deep sleep while it's chewing.\n\n52\n00:02:09,640 --> 00:02:11,320\nChapter five. Why so little?\n\n53\n00:02:11,840 --> 00:02:14,970\nBig plant-eaters tend to sleep much less than meat-eaters.\n\n54\n00:02:15,420 --> 00:02:18,730\nA lion can fill up on one meal and nap for most of the day.\n\n55\n00:02:19,140 --> 00:02:22,340\nA giraffe has to keep eating for a big part of every day,\n\n56\n00:02:22,760 --> 00:02:25,060\nand stay alert to the animals that want to eat it.\n\n57\n00:02:25,540 --> 00:02:27,380\nSo it sleeps in tiny slices,\n\n58\n00:02:27,780 --> 00:02:30,660\nand only lets its guard down for a few minutes of dreams.\n\n59\n00:02:31,070 --> 00:02:33,120\nAnd honestly, that's kind of genius.\n\n60\n00:02:33,530 --> 00:02:35,280\nIn zoos, where nothing hunts them,\n\n61\n00:02:35,680 --> 00:02:37,830\ngiraffes lie down for much more of the night.\n\n62\n00:02:38,190 --> 00:02:39,880\nSo the short sleep isn't a flaw.\n\n63\n00:02:40,280 --> 00:02:43,050\nIt's a survival plan, built for the open plains.\n\n64\n00:02:43,430 --> 00:02:44,980\nSo next time you hit snooze,\n\n65\n00:02:45,230 --> 00:02:46,140\nthink of the giraffe,\n\n66\n00:02:46,420 --> 00:02:49,200\ndreaming for eight minutes, with its head on its own rump.\n\n67\n00:02:49,630 --> 00:02:53,130\nNext time, why do some people get way more freckles than others?\n\n",
-      "tg_msg": 1151
+      "tg_msg": 1151,
+      "approved_by": "auto",
+      "description_full": "Why do giraffes sleep so little? A study that put motion sensors on wild giraffes in Namibia found they rest for hours each night, but their deepest, dreaming sleep adds up to only about eight minutes, taken lying down with the neck curled back and the head on the rump.\n\nSources:\nhttps://www.frontiersin.org/journals/mammal-science/articles/10.3389/fmamm.2023.1243883/full\nhttps://pubmed.ncbi.nlm.nih.gov/8795798/\nhttps://blog.londolozi.com/2017/07/17/how-long-do-giraffes-sleep/\n\nAnimated in the Copperplate Engraving style.\n\nFollow Zorbly AI for a new Short every day.\n\n# g i r a\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Copperplate Engraving style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/k_jtCESm8fI",
+          "private \u00b7 thumbnail \u2705"
+        ]
+      },
+      "uploaded_at": "2026-11-17T22:25:54.609746+00:00",
+      "slot": "2026-11-18T17:15:00+00:00"
+    },
+    "2026-11-17-105": {
+      "topic": {
+        "title": "Why don't spiders stick to their own webs?",
+        "format": "animated",
+        "angle": "Watercolor Brush"
+      },
+      "package": {
+        "title": "Spiders Touch Glue 1,000 Times a Web. Why No Sticking?",
+        "description": "Why don't spiders stick to their own webs? Only the capture spiral is sticky, and the spider's branching leg hairs, non-stick leg coating and careful footwork keep it from getting stuck.\n\nSources:\nhttps://smithsonianscience.org/2012/03/fancy-footwork-and-non-stick-leg-coating-helps-spiders-not-stick-to-their-own-webs/\nhttps://phys.org/news/2012-03-spiders-sticky-web-sites.html\nhttps://science.howstuffworks.com/environmental/life/zoology/insects-arachnids/spider5.htm\n\nAnimated in the Watercolor Brush style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#spiders",
+          "#science",
+          "#animalfacts"
+        ],
+        "tags": [
+          "spiders",
+          "spider web",
+          "why don't spiders stick to their webs",
+          "orb weaver",
+          "spider silk",
+          "animal facts",
+          "science explained",
+          "nature facts",
+          "how spiders work",
+          "spider legs",
+          "zorbly ai",
+          "explainer",
+          "animated science"
+        ],
+        "category": "27",
+        "pinned_comment": "Would a spider get stuck in ANOTHER spider's web? Guess before you look it up!",
+        "thumbnail_text": "NON-STICK FEET",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "Touch a spider web and you'll stick.\nSo how does the spider touch its glue 1,000 times a web?\nFirst, not every thread is sticky.\nThe spokes and the frame are dry silk.\nOnly the spiral is beaded with tiny glue drops,\nso the spider walks on the spokes.\nBut while building,\nit still bumps the glue hundreds to thousands of times.\nThe real secret is in its legs.\nThey're covered in tiny branching hairs.\nA glue drop only touches a few hair tips,\nand slides right off.\nThe legs also have a non-stick coating.\nWhen scientists washed it off,\nthe legs suddenly stuck way harder.\nAnd the spider moves carefully,\npeeling each foot away at just the right angle.\nDry spokes, hairy feet, and a built-in non-stick layer.\nHonestly, that's kind of genius.\nIf a spider walked onto another spider's web,\nwould it get stuck?",
+        "key_facts": [
+          "Orb webs have dry radial spokes and frame threads; only the capture spiral carries glue droplets",
+          "Orb weavers push against sticky lines hundreds to thousands of times while building one web (Briceno & Eberhard 2012)",
+          "Spider legs are covered in branching hairs that limit contact with glue",
+          "A non-stick chemical coating protects the legs: legs washed with hexane stuck more",
+          "Careful leg movements minimise adhesive forces"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Watercolor Brush"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261117-spider-web",
+      "redos": 0,
+      "updated": "2026-11-17T22:25:34.614006+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Watercolor Brush style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-17",
+        "name": "2026-11-17-105.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-17",
+        "name": "2026-11-17-105-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:02,130\nTouch a spider web and you'll stick.\n\n2\n00:00:02,470 --> 00:00:06,040\nSo how does the spider touch its glue 1,000 times a web?\n\n3\n00:00:06,520 --> 00:00:08,440\nFirst, not every thread is sticky.\n\n4\n00:00:08,800 --> 00:00:10,980\nThe spokes and the frame are dry silk.\n\n5\n00:00:11,460 --> 00:00:14,590\nOnly the spiral is beaded with tiny glue drops,\n\n6\n00:00:15,020 --> 00:00:17,090\nso the spider walks on the spokes.\n\n7\n00:00:17,520 --> 00:00:18,400\nBut while building,\n\n8\n00:00:18,820 --> 00:00:21,910\nit still bumps the glue hundreds to thousands of times.\n\n9\n00:00:22,390 --> 00:00:24,400\nThe real secret is in its legs.\n\n10\n00:00:24,850 --> 00:00:27,070\nThey're covered in tiny branching hairs.\n\n11\n00:00:27,540 --> 00:00:29,870\nA glue drop only touches a few hair tips,\n\n12\n00:00:30,200 --> 00:00:31,550\nand slides right off.\n\n13\n00:00:31,950 --> 00:00:34,290\nThe legs also have a non-stick coating.\n\n14\n00:00:34,640 --> 00:00:36,130\nWhen scientists washed it off,\n\n15\n00:00:36,530 --> 00:00:38,520\nthe legs suddenly stuck way harder.\n\n16\n00:00:38,950 --> 00:00:40,480\nAnd the spider moves carefully,\n\n17\n00:00:40,980 --> 00:00:43,590\npeeling each foot away at just the right angle.\n\n18\n00:00:44,010 --> 00:00:47,490\nDry spokes, hairy feet, and a built-in non-stick layer.\n\n19\n00:00:47,830 --> 00:00:49,750\nHonestly, that's kind of genius.\n\n20\n00:00:50,190 --> 00:00:52,770\nIf a spider walked onto another spider's web,\n\n21\n00:00:53,120 --> 00:00:53,970\nwould it get stuck?\n\n",
+      "tg_msg": 1153
     }
   },
   "history": [
@@ -3451,7 +3378,8 @@
     "drop/20261117-duck-feet": "2026-11-17-101",
     "drop/20261117-starfish-regrow": "2026-11-17-102",
     "drop/20261117-gecko-feet": "2026-11-17-103",
-    "drop/20261117-giraffe-sleep": "2026-11-17-104"
+    "drop/20261117-giraffe-sleep": "2026-11-17-104",
+    "drop/20261117-spider-web": "2026-11-17-105"
   },
   "refs_day": "2026-11-17"
 }
