@@ -1,0 +1,767 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.44,
+  "text": "Ducks stand barefoot on ice for hours,",
+  "words": [
+   [
+    "ducks",
+    0.25
+   ],
+   [
+    "stand",
+    0.6
+   ],
+   [
+    "barefoot",
+    0.96
+   ],
+   [
+    "on",
+    1.52
+   ],
+   [
+    "ice",
+    1.66
+   ],
+   [
+    "for",
+    1.87
+   ],
+   [
+    "hours",
+    2.09
+   ]
+  ]
+ },
+ {
+  "s": 2.82,
+  "e": 4.35,
+  "text": "and their feet never freeze.",
+  "words": [
+   [
+    "and",
+    2.82
+   ],
+   [
+    "their",
+    3.02
+   ],
+   [
+    "feet",
+    3.35
+   ],
+   [
+    "never",
+    3.62
+   ],
+   [
+    "freeze",
+    3.95
+   ]
+  ]
+ },
+ {
+  "s": 4.72,
+  "e": 5.88,
+  "text": "Yours would. Why?",
+  "words": [
+   [
+    "yours",
+    4.72
+   ],
+   [
+    "would",
+    5.17
+   ],
+   [
+    "why",
+    5.61
+   ]
+  ]
+ },
+ {
+  "s": 6.44,
+  "e": 7.82,
+  "text": "A duck's body runs hot,",
+  "words": [
+   [
+    "a",
+    6.44
+   ],
+   [
+    "ducks",
+    6.53
+   ],
+   [
+    "body",
+    6.93
+   ],
+   [
+    "runs",
+    7.26
+   ],
+   [
+    "hot",
+    7.58
+   ]
+  ]
+ },
+ {
+  "s": 8.25,
+  "e": 9.8,
+  "text": "around 41 degrees.",
+  "words": [
+   [
+    "around",
+    8.25
+   ],
+   [
+    "41",
+    8.87
+   ],
+   [
+    "degrees",
+    9.08
+   ]
+  ]
+ },
+ {
+  "s": 10.14,
+  "e": 12.28,
+  "text": "If that warm blood rushed into its feet,",
+  "words": [
+   [
+    "if",
+    10.14
+   ],
+   [
+    "that",
+    10.27
+   ],
+   [
+    "warm",
+    10.54
+   ],
+   [
+    "blood",
+    10.81
+   ],
+   [
+    "rushed",
+    11.14
+   ],
+   [
+    "into",
+    11.54
+   ],
+   [
+    "its",
+    11.81
+   ],
+   [
+    "feet",
+    12.01
+   ]
+  ]
+ },
+ {
+  "s": 12.78,
+  "e": 14.76,
+  "text": "the ice would suck the heat right out.",
+  "words": [
+   [
+    "the",
+    12.78
+   ],
+   [
+    "ice",
+    12.98
+   ],
+   [
+    "would",
+    13.17
+   ],
+   [
+    "suck",
+    13.5
+   ],
+   [
+    "the",
+    13.77
+   ],
+   [
+    "heat",
+    13.97
+   ],
+   [
+    "right",
+    14.23
+   ],
+   [
+    "out",
+    14.56
+   ]
+  ]
+ },
+ {
+  "s": 15.2,
+  "e": 17.48,
+  "text": "So inside each leg, there's a trick.",
+  "words": [
+   [
+    "so",
+    15.2
+   ],
+   [
+    "inside",
+    15.37
+   ],
+   [
+    "each",
+    15.87
+   ],
+   [
+    "leg",
+    16.21
+   ],
+   [
+    "theres",
+    16.46
+   ],
+   [
+    "a",
+    16.97
+   ],
+   [
+    "trick",
+    17.06
+   ]
+  ]
+ },
+ {
+  "s": 17.86,
+  "e": 19.99,
+  "text": "The artery carrying warm blood down",
+  "words": [
+   [
+    "the",
+    17.86
+   ],
+   [
+    "artery",
+    18.07
+   ],
+   [
+    "carrying",
+    18.5
+   ],
+   [
+    "warm",
+    19.07
+   ],
+   [
+    "blood",
+    19.35
+   ],
+   [
+    "down",
+    19.71
+   ]
+  ]
+ },
+ {
+  "s": 20.56,
+  "e": 23.06,
+  "text": "runs tight against the veins coming back up.",
+  "words": [
+   [
+    "runs",
+    20.56
+   ],
+   [
+    "tight",
+    20.84
+   ],
+   [
+    "against",
+    21.19
+   ],
+   [
+    "the",
+    21.67
+   ],
+   [
+    "veins",
+    21.88
+   ],
+   [
+    "coming",
+    22.23
+   ],
+   [
+    "back",
+    22.65
+   ],
+   [
+    "up",
+    22.92
+   ]
+  ]
+ },
+ {
+  "s": 23.42,
+  "e": 26.13,
+  "text": "As they pass, the warm blood hands its heat",
+  "words": [
+   [
+    "as",
+    23.42
+   ],
+   [
+    "they",
+    23.58
+   ],
+   [
+    "pass",
+    23.9
+   ],
+   [
+    "the",
+    24.22
+   ],
+   [
+    "warm",
+    24.46
+   ],
+   [
+    "blood",
+    24.78
+   ],
+   [
+    "hands",
+    25.18
+   ],
+   [
+    "its",
+    25.58
+   ],
+   [
+    "heat",
+    25.82
+   ]
+  ]
+ },
+ {
+  "s": 26.2,
+  "e": 27.89,
+  "text": "to the cold blood heading home.",
+  "words": [
+   [
+    "to",
+    26.2
+   ],
+   [
+    "the",
+    26.34
+   ],
+   [
+    "cold",
+    26.54
+   ],
+   [
+    "blood",
+    26.81
+   ],
+   [
+    "heading",
+    27.15
+   ],
+   [
+    "home",
+    27.62
+   ]
+  ]
+ },
+ {
+  "s": 28.33,
+  "e": 30.99,
+  "text": "Scientists call it countercurrent heat exchange.",
+  "words": [
+   [
+    "scientists",
+    28.33
+   ],
+   [
+    "call",
+    28.96
+   ],
+   [
+    "it",
+    29.22
+   ],
+   [
+    "countercurrent",
+    29.34
+   ],
+   [
+    "heat",
+    30.23
+   ],
+   [
+    "exchange",
+    30.48
+   ]
+  ]
+ },
+ {
+  "s": 31.41,
+  "e": 34.08,
+  "text": "So the feet only get blood that's barely warm,",
+  "words": [
+   [
+    "so",
+    31.41
+   ],
+   [
+    "the",
+    31.56
+   ],
+   [
+    "feet",
+    31.78
+   ],
+   [
+    "only",
+    32.08
+   ],
+   [
+    "get",
+    32.38
+   ],
+   [
+    "blood",
+    32.6
+   ],
+   [
+    "thats",
+    32.97
+   ],
+   [
+    "barely",
+    33.34
+   ],
+   [
+    "warm",
+    33.78
+   ]
+  ]
+ },
+ {
+  "s": 34.7,
+  "e": 36.26,
+  "text": "just enough to dodge frostbite,",
+  "words": [
+   [
+    "just",
+    34.7
+   ],
+   [
+    "enough",
+    34.94
+   ],
+   [
+    "to",
+    35.3
+   ],
+   [
+    "dodge",
+    35.42
+   ],
+   [
+    "frostbite",
+    35.72
+   ]
+  ]
+ },
+ {
+  "s": 36.35,
+  "e": 38.69,
+  "text": "and the heat goes back into the body.",
+  "words": [
+   [
+    "and",
+    36.35
+   ],
+   [
+    "the",
+    36.59
+   ],
+   [
+    "heat",
+    36.83
+   ],
+   [
+    "goes",
+    37.16
+   ],
+   [
+    "back",
+    37.48
+   ],
+   [
+    "into",
+    37.8
+   ],
+   [
+    "the",
+    38.12
+   ],
+   [
+    "body",
+    38.37
+   ]
+  ]
+ },
+ {
+  "s": 39.12,
+  "e": 41.92,
+  "text": "In one study, mallards at freezing",
+  "words": [
+   [
+    "in",
+    39.12
+   ],
+   [
+    "one",
+    39.32
+   ],
+   [
+    "study",
+    39.62
+   ],
+   [
+    "mallards",
+    40.12
+   ],
+   [
+    "at",
+    40.92
+   ],
+   [
+    "freezing",
+    41.12
+   ]
+  ]
+ },
+ {
+  "s": 41.98,
+  "e": 45.26,
+  "text": "lost only about 5 percent of their body heat through their feet.",
+  "words": [
+   [
+    "lost",
+    41.98
+   ],
+   [
+    "only",
+    42.24
+   ],
+   [
+    "about",
+    42.49
+   ],
+   [
+    "5",
+    42.8
+   ],
+   [
+    "percent",
+    42.87
+   ],
+   [
+    "of",
+    43.31
+   ],
+   [
+    "their",
+    43.43
+   ],
+   [
+    "body",
+    43.75
+   ],
+   [
+    "heat",
+    44.0
+   ],
+   [
+    "through",
+    44.25
+   ],
+   [
+    "their",
+    44.7
+   ],
+   [
+    "feet",
+    45.01
+   ]
+  ]
+ },
+ {
+  "s": 45.66,
+  "e": 47.89,
+  "text": "And duck feet are mostly bone and tendon,",
+  "words": [
+   [
+    "and",
+    45.66
+   ],
+   [
+    "duck",
+    45.87
+   ],
+   [
+    "feet",
+    46.14
+   ],
+   [
+    "are",
+    46.41
+   ],
+   [
+    "mostly",
+    46.61
+   ],
+   [
+    "bone",
+    47.02
+   ],
+   [
+    "and",
+    47.29
+   ],
+   [
+    "tendon",
+    47.49
+   ]
+  ]
+ },
+ {
+  "s": 48.42,
+  "e": 50.81,
+  "text": "with hardly any soft tissue to freeze.",
+  "words": [
+   [
+    "with",
+    48.42
+   ],
+   [
+    "hardly",
+    48.73
+   ],
+   [
+    "any",
+    49.19
+   ],
+   [
+    "soft",
+    49.43
+   ],
+   [
+    "tissue",
+    49.73
+   ],
+   [
+    "to",
+    50.19
+   ],
+   [
+    "freeze",
+    50.35
+   ]
+  ]
+ },
+ {
+  "s": 51.28,
+  "e": 52.51,
+  "text": "Pretty genius, right?",
+  "words": [
+   [
+    "pretty",
+    51.28
+   ],
+   [
+    "genius",
+    51.71
+   ],
+   [
+    "right",
+    52.15
+   ]
+  ]
+ },
+ {
+  "s": 53.08,
+  "e": 54.8,
+  "text": "So would you swap feet with a duck,",
+  "words": [
+   [
+    "so",
+    53.08
+   ],
+   [
+    "would",
+    53.2
+   ],
+   [
+    "you",
+    53.52
+   ],
+   [
+    "swap",
+    53.71
+   ],
+   [
+    "feet",
+    53.97
+   ],
+   [
+    "with",
+    54.22
+   ],
+   [
+    "a",
+    54.48
+   ],
+   [
+    "duck",
+    54.54
+   ]
+  ]
+ },
+ {
+  "s": 55.14,
+  "e": 56.34,
+  "text": "just for one winter?",
+  "words": [
+   [
+    "just",
+    55.14
+   ],
+   [
+    "for",
+    55.44
+   ],
+   [
+    "one",
+    55.66
+   ],
+   [
+    "winter",
+    55.89
+   ]
+  ]
+ }
+]
