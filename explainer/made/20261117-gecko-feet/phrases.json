@@ -1,0 +1,680 @@
+[
+ {
+  "s": 0.25,
+  "e": 3.99,
+  "text": "What if your feet could hold 290 pounds with no glue?",
+  "words": [
+   [
+    "what",
+    0.25
+   ],
+   [
+    "if",
+    0.61
+   ],
+   [
+    "your",
+    0.78
+   ],
+   [
+    "feet",
+    1.14
+   ],
+   [
+    "could",
+    1.5
+   ],
+   [
+    "hold",
+    1.94
+   ],
+   [
+    "290",
+    2.3
+   ],
+   [
+    "pounds",
+    2.56
+   ],
+   [
+    "with",
+    3.1
+   ],
+   [
+    "no",
+    3.45
+   ],
+   [
+    "glue",
+    3.63
+   ]
+  ]
+ },
+ {
+  "s": 4.47,
+  "e": 6.97,
+  "text": "A gecko's feet can, at least in theory.",
+  "words": [
+   [
+    "a",
+    4.47
+   ],
+   [
+    "geckos",
+    4.55
+   ],
+   [
+    "feet",
+    5.07
+   ],
+   [
+    "can",
+    5.42
+   ],
+   [
+    "at",
+    5.67
+   ],
+   [
+    "least",
+    5.85
+   ],
+   [
+    "in",
+    6.28
+   ],
+   [
+    "theory",
+    6.45
+   ]
+  ]
+ },
+ {
+  "s": 7.34,
+  "e": 9.65,
+  "text": "Its toes are covered in tiny hairs,",
+  "words": [
+   [
+    "its",
+    7.34
+   ],
+   [
+    "toes",
+    7.59
+   ],
+   [
+    "are",
+    7.92
+   ],
+   [
+    "covered",
+    8.17
+   ],
+   [
+    "in",
+    8.75
+   ],
+   [
+    "tiny",
+    8.91
+   ],
+   [
+    "hairs",
+    9.24
+   ]
+  ]
+ },
+ {
+  "s": 10.1,
+  "e": 12.57,
+  "text": "about six and a half million on one gecko.",
+  "words": [
+   [
+    "about",
+    10.1
+   ],
+   [
+    "six",
+    10.48
+   ],
+   [
+    "and",
+    10.7
+   ],
+   [
+    "a",
+    10.93
+   ],
+   [
+    "half",
+    11.0
+   ],
+   [
+    "million",
+    11.3
+   ],
+   [
+    "on",
+    11.82
+   ],
+   [
+    "one",
+    11.97
+   ],
+   [
+    "gecko",
+    12.2
+   ]
+  ]
+ },
+ {
+  "s": 12.94,
+  "e": 16.41,
+  "text": "And every hair splits into hundreds of even tinier tips.",
+  "words": [
+   [
+    "and",
+    12.94
+   ],
+   [
+    "every",
+    13.17
+   ],
+   [
+    "hair",
+    13.54
+   ],
+   [
+    "splits",
+    13.85
+   ],
+   [
+    "into",
+    14.3
+   ],
+   [
+    "hundreds",
+    14.6
+   ],
+   [
+    "of",
+    15.2
+   ],
+   [
+    "even",
+    15.36
+   ],
+   [
+    "tinier",
+    15.66
+   ],
+   [
+    "tips",
+    16.11
+   ]
+  ]
+ },
+ {
+  "s": 16.81,
+  "e": 18.89,
+  "text": "Those tips get so close to the wall",
+  "words": [
+   [
+    "those",
+    16.81
+   ],
+   [
+    "tips",
+    17.18
+   ],
+   [
+    "get",
+    17.47
+   ],
+   [
+    "so",
+    17.7
+   ],
+   [
+    "close",
+    17.85
+   ],
+   [
+    "to",
+    18.22
+   ],
+   [
+    "the",
+    18.37
+   ],
+   [
+    "wall",
+    18.59
+   ]
+  ]
+ },
+ {
+  "s": 19.32,
+  "e": 21.72,
+  "text": "that the molecules themselves pull together.",
+  "words": [
+   [
+    "that",
+    19.32
+   ],
+   [
+    "the",
+    19.57
+   ],
+   [
+    "molecules",
+    19.76
+   ],
+   [
+    "themselves",
+    20.33
+   ],
+   [
+    "pull",
+    20.96
+   ],
+   [
+    "together",
+    21.22
+   ]
+  ]
+ },
+ {
+  "s": 22.12,
+  "e": 24.07,
+  "text": "It's called the van der Waals force.",
+  "words": [
+   [
+    "its",
+    22.12
+   ],
+   [
+    "called",
+    22.33
+   ],
+   [
+    "the",
+    22.75
+   ],
+   [
+    "van",
+    22.96
+   ],
+   [
+    "der",
+    23.17
+   ],
+   [
+    "waals",
+    23.37
+   ],
+   [
+    "force",
+    23.72
+   ]
+  ]
+ },
+ {
+  "s": 24.52,
+  "e": 25.46,
+  "text": "One hair is weak,",
+  "words": [
+   [
+    "one",
+    24.52
+   ],
+   [
+    "hair",
+    24.74
+   ],
+   [
+    "is",
+    25.02
+   ],
+   [
+    "weak",
+    25.17
+   ]
+  ]
+ },
+ {
+  "s": 25.55,
+  "e": 27.72,
+  "text": "but millions together are mighty.",
+  "words": [
+   [
+    "but",
+    25.55
+   ],
+   [
+    "millions",
+    25.78
+   ],
+   [
+    "together",
+    26.4
+   ],
+   [
+    "are",
+    27.02
+   ],
+   [
+    "mighty",
+    27.26
+   ]
+  ]
+ },
+ {
+  "s": 28.19,
+  "e": 31.01,
+  "text": "To let go, a gecko just peels its toes up,",
+  "words": [
+   [
+    "to",
+    28.19
+   ],
+   [
+    "let",
+    28.37
+   ],
+   [
+    "go",
+    28.64
+   ],
+   [
+    "a",
+    28.82
+   ],
+   [
+    "gecko",
+    28.91
+   ],
+   [
+    "just",
+    29.37
+   ],
+   [
+    "peels",
+    29.73
+   ],
+   [
+    "its",
+    30.19
+   ],
+   [
+    "toes",
+    30.46
+   ],
+   [
+    "up",
+    30.82
+   ]
+  ]
+ },
+ {
+  "s": 31.12,
+  "e": 31.81,
+  "text": "like tape.",
+  "words": [
+   [
+    "like",
+    31.12
+   ],
+   [
+    "tape",
+    31.46
+   ]
+  ]
+ },
+ {
+  "s": 32.21,
+  "e": 33.61,
+  "text": "Now scale that up to you.",
+  "words": [
+   [
+    "now",
+    32.21
+   ],
+   [
+    "scale",
+    32.43
+   ],
+   [
+    "that",
+    32.8
+   ],
+   [
+    "up",
+    33.09
+   ],
+   [
+    "to",
+    33.24
+   ],
+   [
+    "you",
+    33.39
+   ]
+  ]
+ },
+ {
+  "s": 34.01,
+  "e": 36.87,
+  "text": "You'd need sticky pads on forty percent of your body,",
+  "words": [
+   [
+    "youd",
+    34.01
+   ],
+   [
+    "need",
+    34.28
+   ],
+   [
+    "sticky",
+    34.56
+   ],
+   [
+    "pads",
+    34.96
+   ],
+   [
+    "on",
+    35.24
+   ],
+   [
+    "forty",
+    35.37
+   ],
+   [
+    "percent",
+    35.71
+   ],
+   [
+    "of",
+    36.19
+   ],
+   [
+    "your",
+    36.33
+   ],
+   [
+    "body",
+    36.6
+   ]
+  ]
+ },
+ {
+  "s": 37.35,
+  "e": 39.27,
+  "text": "about eighty percent of your front!",
+  "words": [
+   [
+    "about",
+    37.35
+   ],
+   [
+    "eighty",
+    37.68
+   ],
+   [
+    "percent",
+    38.08
+   ],
+   [
+    "of",
+    38.54
+   ],
+   [
+    "your",
+    38.68
+   ],
+   [
+    "front",
+    38.94
+   ]
+  ]
+ },
+ {
+  "s": 39.7,
+  "e": 42.87,
+  "text": "And your shoes? US size one hundred fourteen.",
+  "words": [
+   [
+    "and",
+    39.7
+   ],
+   [
+    "your",
+    39.97
+   ],
+   [
+    "shoes",
+    40.32
+   ],
+   [
+    "us",
+    40.76
+   ],
+   [
+    "size",
+    40.94
+   ],
+   [
+    "one",
+    41.29
+   ],
+   [
+    "hundred",
+    41.55
+   ],
+   [
+    "fourteen",
+    42.17
+   ]
+  ]
+ },
+ {
+  "s": 43.22,
+  "e": 47.04,
+  "text": "That's why geckos are about the biggest animals that can do this.",
+  "words": [
+   [
+    "thats",
+    43.22
+   ],
+   [
+    "why",
+    43.58
+   ],
+   [
+    "geckos",
+    43.8
+   ],
+   [
+    "are",
+    44.25
+   ],
+   [
+    "about",
+    44.47
+   ],
+   [
+    "the",
+    44.83
+   ],
+   [
+    "biggest",
+    45.05
+   ],
+   [
+    "animals",
+    45.57
+   ],
+   [
+    "that",
+    46.08
+   ],
+   [
+    "can",
+    46.38
+   ],
+   [
+    "do",
+    46.6
+   ],
+   [
+    "this",
+    46.74
+   ]
+  ]
+ },
+ {
+  "s": 47.42,
+  "e": 49.68,
+  "text": "So would you trade your feet for gecko feet?",
+  "words": [
+   [
+    "so",
+    47.42
+   ],
+   [
+    "would",
+    47.54
+   ],
+   [
+    "you",
+    47.87
+   ],
+   [
+    "trade",
+    48.06
+   ],
+   [
+    "your",
+    48.39
+   ],
+   [
+    "feet",
+    48.64
+   ],
+   [
+    "for",
+    48.9
+   ],
+   [
+    "gecko",
+    49.1
+   ],
+   [
+    "feet",
+    49.42
+   ]
+  ]
+ }
+]
