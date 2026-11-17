@@ -1,0 +1,715 @@
+[
+ {
+  "s": 0.25,
+  "e": 1.51,
+  "text": "You can't regrow a finger,",
+  "words": [
+   [
+    "you",
+    0.25
+   ],
+   [
+    "cant",
+    0.44
+   ],
+   [
+    "regrow",
+    0.69
+   ],
+   [
+    "a",
+    1.07
+   ],
+   [
+    "finger",
+    1.13
+   ]
+  ]
+ },
+ {
+  "s": 1.99,
+  "e": 3.86,
+  "text": "but one starfish arm can grow",
+  "words": [
+   [
+    "but",
+    1.99
+   ],
+   [
+    "one",
+    2.22
+   ],
+   [
+    "starfish",
+    2.46
+   ],
+   [
+    "arm",
+    3.08
+   ],
+   [
+    "can",
+    3.32
+   ],
+   [
+    "grow",
+    3.55
+   ]
+  ]
+ },
+ {
+  "s": 3.86,
+  "e": 5.83,
+  "text": "four new arms and a whole body.",
+  "words": [
+   [
+    "four",
+    3.86
+   ],
+   [
+    "new",
+    4.19
+   ],
+   [
+    "arms",
+    4.44
+   ],
+   [
+    "and",
+    4.77
+   ],
+   [
+    "a",
+    5.01
+   ],
+   [
+    "whole",
+    5.09
+   ],
+   [
+    "body",
+    5.51
+   ]
+  ]
+ },
+ {
+  "s": 6.23,
+  "e": 9.76,
+  "text": "When a crab grabs one, it can drop the arm on purpose.",
+  "words": [
+   [
+    "when",
+    6.23
+   ],
+   [
+    "a",
+    6.57
+   ],
+   [
+    "crab",
+    6.66
+   ],
+   [
+    "grabs",
+    7.0
+   ],
+   [
+    "one",
+    7.43
+   ],
+   [
+    "it",
+    7.69
+   ],
+   [
+    "can",
+    7.86
+   ],
+   [
+    "drop",
+    8.12
+   ],
+   [
+    "the",
+    8.47
+   ],
+   [
+    "arm",
+    8.73
+   ],
+   [
+    "on",
+    8.98
+   ],
+   [
+    "purpose",
+    9.16
+   ]
+  ]
+ },
+ {
+  "s": 10.12,
+  "e": 13.31,
+  "text": "A muscle at the base squeezes, and the arm lets go.",
+  "words": [
+   [
+    "a",
+    10.12
+   ],
+   [
+    "muscle",
+    10.21
+   ],
+   [
+    "at",
+    10.7
+   ],
+   [
+    "the",
+    10.86
+   ],
+   [
+    "base",
+    11.11
+   ],
+   [
+    "squeezes",
+    11.43
+   ],
+   [
+    "and",
+    12.09
+   ],
+   [
+    "the",
+    12.33
+   ],
+   [
+    "arm",
+    12.58
+   ],
+   [
+    "lets",
+    12.82
+   ],
+   [
+    "go",
+    13.15
+   ]
+  ]
+ },
+ {
+  "s": 13.7,
+  "e": 15.35,
+  "text": "Then the wound seals itself shut,",
+  "words": [
+   [
+    "then",
+    13.7
+   ],
+   [
+    "the",
+    13.95
+   ],
+   [
+    "wound",
+    14.13
+   ],
+   [
+    "seals",
+    14.44
+   ],
+   [
+    "itself",
+    14.74
+   ],
+   [
+    "shut",
+    15.11
+   ]
+  ]
+ },
+ {
+  "s": 15.83,
+  "e": 18.42,
+  "text": "and skin creeps over it in about two days.",
+  "words": [
+   [
+    "and",
+    15.83
+   ],
+   [
+    "skin",
+    16.07
+   ],
+   [
+    "creeps",
+    16.38
+   ],
+   [
+    "over",
+    16.85
+   ],
+   [
+    "it",
+    17.17
+   ],
+   [
+    "in",
+    17.33
+   ],
+   [
+    "about",
+    17.48
+   ],
+   [
+    "two",
+    17.87
+   ],
+   [
+    "days",
+    18.11
+   ]
+  ]
+ },
+ {
+  "s": 18.77,
+  "e": 21.34,
+  "text": "Muscle cells turn back into simpler cells",
+  "words": [
+   [
+    "muscle",
+    18.77
+   ],
+   [
+    "cells",
+    19.21
+   ],
+   [
+    "turn",
+    19.58
+   ],
+   [
+    "back",
+    19.88
+   ],
+   [
+    "into",
+    20.17
+   ],
+   [
+    "simpler",
+    20.46
+   ],
+   [
+    "cells",
+    20.98
+   ]
+  ]
+ },
+ {
+  "s": 21.7,
+  "e": 23.16,
+  "text": "and crawl toward the stump.",
+  "words": [
+   [
+    "and",
+    21.7
+   ],
+   [
+    "crawl",
+    21.9
+   ],
+   [
+    "toward",
+    22.23
+   ],
+   [
+    "the",
+    22.63
+   ],
+   [
+    "stump",
+    22.83
+   ]
+  ]
+ },
+ {
+  "s": 23.61,
+  "e": 25.2,
+  "text": "The first part to grow back?",
+  "words": [
+   [
+    "the",
+    23.61
+   ],
+   [
+    "first",
+    23.82
+   ],
+   [
+    "part",
+    24.19
+   ],
+   [
+    "to",
+    24.48
+   ],
+   [
+    "grow",
+    24.62
+   ],
+   [
+    "back",
+    24.91
+   ]
+  ]
+ },
+ {
+  "s": 25.74,
+  "e": 27.44,
+  "text": "A tiny tube foot at the tip.",
+  "words": [
+   [
+    "a",
+    25.74
+   ],
+   [
+    "tiny",
+    25.82
+   ],
+   [
+    "tube",
+    26.14
+   ],
+   [
+    "foot",
+    26.47
+   ],
+   [
+    "at",
+    26.79
+   ],
+   [
+    "the",
+    26.95
+   ],
+   [
+    "tip",
+    27.2
+   ]
+  ]
+ },
+ {
+  "s": 27.89,
+  "e": 29.59,
+  "text": "It works like a signal tower,",
+  "words": [
+   [
+    "it",
+    27.89
+   ],
+   [
+    "works",
+    28.04
+   ],
+   [
+    "like",
+    28.41
+   ],
+   [
+    "a",
+    28.7
+   ],
+   [
+    "signal",
+    28.78
+   ],
+   [
+    "tower",
+    29.22
+   ]
+  ]
+ },
+ {
+  "s": 30.06,
+  "e": 32.4,
+  "text": "telling everything behind it where to grow.",
+  "words": [
+   [
+    "telling",
+    30.06
+   ],
+   [
+    "everything",
+    30.52
+   ],
+   [
+    "behind",
+    31.17
+   ],
+   [
+    "it",
+    31.56
+   ],
+   [
+    "where",
+    31.69
+   ],
+   [
+    "to",
+    32.01
+   ],
+   [
+    "grow",
+    32.14
+   ]
+  ]
+ },
+ {
+  "s": 32.76,
+  "e": 36.2,
+  "text": "Tube feet, little bones and muscle fill in, one by one.",
+  "words": [
+   [
+    "tube",
+    32.76
+   ],
+   [
+    "feet",
+    33.08
+   ],
+   [
+    "little",
+    33.41
+   ],
+   [
+    "bones",
+    33.9
+   ],
+   [
+    "and",
+    34.31
+   ],
+   [
+    "muscle",
+    34.56
+   ],
+   [
+    "fill",
+    35.05
+   ],
+   [
+    "in",
+    35.38
+   ],
+   [
+    "one",
+    35.54
+   ],
+   [
+    "by",
+    35.79
+   ],
+   [
+    "one",
+    35.95
+   ]
+  ]
+ },
+ {
+  "s": 36.58,
+  "e": 39.16,
+  "text": "The whole arm takes a few months to over a year.",
+  "words": [
+   [
+    "the",
+    36.58
+   ],
+   [
+    "whole",
+    36.79
+   ],
+   [
+    "arm",
+    37.14
+   ],
+   [
+    "takes",
+    37.35
+   ],
+   [
+    "a",
+    37.7
+   ],
+   [
+    "few",
+    37.77
+   ],
+   [
+    "months",
+    37.98
+   ],
+   [
+    "to",
+    38.4
+   ],
+   [
+    "over",
+    38.53
+   ],
+   [
+    "a",
+    38.81
+   ],
+   [
+    "year",
+    38.88
+   ]
+  ]
+ },
+ {
+  "s": 39.6,
+  "e": 41.05,
+  "text": "And in Linckia sea stars,",
+  "words": [
+   [
+    "and",
+    39.6
+   ],
+   [
+    "in",
+    39.82
+   ],
+   [
+    "linckia",
+    39.96
+   ],
+   [
+    "sea",
+    40.47
+   ],
+   [
+    "stars",
+    40.69
+   ]
+  ]
+ },
+ {
+  "s": 41.45,
+  "e": 44.1,
+  "text": "one arm alone can grow a brand new body.",
+  "words": [
+   [
+    "one",
+    41.45
+   ],
+   [
+    "arm",
+    41.71
+   ],
+   [
+    "alone",
+    41.96
+   ],
+   [
+    "can",
+    42.39
+   ],
+   [
+    "grow",
+    42.65
+   ],
+   [
+    "a",
+    42.99
+   ],
+   [
+    "brand",
+    43.07
+   ],
+   [
+    "new",
+    43.5
+   ],
+   [
+    "body",
+    43.76
+   ]
+  ]
+ },
+ {
+  "s": 44.48,
+  "e": 46.85,
+  "text": "So if one arm can make a whole starfish,",
+  "words": [
+   [
+    "so",
+    44.48
+   ],
+   [
+    "if",
+    44.63
+   ],
+   [
+    "one",
+    44.79
+   ],
+   [
+    "arm",
+    45.02
+   ],
+   [
+    "can",
+    45.25
+   ],
+   [
+    "make",
+    45.48
+   ],
+   [
+    "a",
+    45.78
+   ],
+   [
+    "whole",
+    45.86
+   ],
+   [
+    "starfish",
+    46.24
+   ]
+  ]
+ },
+ {
+  "s": 47.28,
+  "e": 49.32,
+  "text": "which one is the real starfish?",
+  "words": [
+   [
+    "which",
+    47.28
+   ],
+   [
+    "one",
+    47.69
+   ],
+   [
+    "is",
+    47.93
+   ],
+   [
+    "the",
+    48.1
+   ],
+   [
+    "real",
+    48.34
+   ],
+   [
+    "starfish",
+    48.67
+   ]
+  ]
+ }
+]
