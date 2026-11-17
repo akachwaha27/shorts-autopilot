@@ -1,0 +1,2611 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.51,
+  "text": "Giraffes dream for about eight minutes a night.",
+  "words": [
+   [
+    "giraffes",
+    0.25
+   ],
+   [
+    "dream",
+    0.71
+   ],
+   [
+    "for",
+    1.0
+   ],
+   [
+    "about",
+    1.18
+   ],
+   [
+    "eight",
+    1.47
+   ],
+   [
+    "minutes",
+    1.76
+   ],
+   [
+    "a",
+    2.16
+   ],
+   [
+    "night",
+    2.22
+   ]
+  ]
+ },
+ {
+  "s": 2.94,
+  "e": 4.7,
+  "text": "You'd beat that before your first snooze.",
+  "words": [
+   [
+    "youd",
+    2.94
+   ],
+   [
+    "beat",
+    3.16
+   ],
+   [
+    "that",
+    3.37
+   ],
+   [
+    "before",
+    3.58
+   ],
+   [
+    "your",
+    3.9
+   ],
+   [
+    "first",
+    4.11
+   ],
+   [
+    "snooze",
+    4.38
+   ]
+  ]
+ },
+ {
+  "s": 5.15,
+  "e": 8.22,
+  "text": "And yet the tallest animal on Earth seems totally fine.",
+  "words": [
+   [
+    "and",
+    5.15
+   ],
+   [
+    "yet",
+    5.35
+   ],
+   [
+    "the",
+    5.55
+   ],
+   [
+    "tallest",
+    5.76
+   ],
+   [
+    "animal",
+    6.24
+   ],
+   [
+    "on",
+    6.65
+   ],
+   [
+    "earth",
+    6.78
+   ],
+   [
+    "seems",
+    7.13
+   ],
+   [
+    "totally",
+    7.47
+   ],
+   [
+    "fine",
+    7.95
+   ]
+  ]
+ },
+ {
+  "s": 8.61,
+  "e": 11.01,
+  "text": "So how does a giraffe get by on so little sleep?",
+  "words": [
+   [
+    "so",
+    8.61
+   ],
+   [
+    "how",
+    8.74
+   ],
+   [
+    "does",
+    8.94
+   ],
+   [
+    "a",
+    9.2
+   ],
+   [
+    "giraffe",
+    9.26
+   ],
+   [
+    "get",
+    9.71
+   ],
+   [
+    "by",
+    9.91
+   ],
+   [
+    "on",
+    10.04
+   ],
+   [
+    "so",
+    10.17
+   ],
+   [
+    "little",
+    10.29
+   ],
+   [
+    "sleep",
+    10.68
+   ]
+  ]
+ },
+ {
+  "s": 11.46,
+  "e": 13.5,
+  "text": "And why does it sleep in such a weird way?",
+  "words": [
+   [
+    "and",
+    11.46
+   ],
+   [
+    "why",
+    11.65
+   ],
+   [
+    "does",
+    11.84
+   ],
+   [
+    "it",
+    12.1
+   ],
+   [
+    "sleep",
+    12.22
+   ],
+   [
+    "in",
+    12.54
+   ],
+   [
+    "such",
+    12.67
+   ],
+   [
+    "a",
+    12.93
+   ],
+   [
+    "weird",
+    12.99
+   ],
+   [
+    "way",
+    13.31
+   ]
+  ]
+ },
+ {
+  "s": 14.02,
+  "e": 16.18,
+  "text": "Chapter one. The tallest short sleeper.",
+  "words": [
+   [
+    "chapter",
+    14.02
+   ],
+   [
+    "one",
+    14.49
+   ],
+   [
+    "the",
+    14.69
+   ],
+   [
+    "tallest",
+    14.89
+   ],
+   [
+    "short",
+    15.37
+   ],
+   [
+    "sleeper",
+    15.7
+   ]
+  ]
+ },
+ {
+  "s": 16.55,
+  "e": 19.69,
+  "text": "You'll often hear that giraffes sleep about thirty minutes a day.",
+  "words": [
+   [
+    "youll",
+    16.55
+   ],
+   [
+    "often",
+    16.85
+   ],
+   [
+    "hear",
+    17.14
+   ],
+   [
+    "that",
+    17.38
+   ],
+   [
+    "giraffes",
+    17.62
+   ],
+   [
+    "sleep",
+    18.09
+   ],
+   [
+    "about",
+    18.39
+   ],
+   [
+    "thirty",
+    18.69
+   ],
+   [
+    "minutes",
+    19.04
+   ],
+   [
+    "a",
+    19.46
+   ],
+   [
+    "day",
+    19.52
+   ]
+  ]
+ },
+ {
+  "s": 20.16,
+  "e": 22.21,
+  "text": "But the truth is a little more interesting.",
+  "words": [
+   [
+    "but",
+    20.16
+   ],
+   [
+    "the",
+    20.34
+   ],
+   [
+    "truth",
+    20.51
+   ],
+   [
+    "is",
+    20.8
+   ],
+   [
+    "a",
+    20.92
+   ],
+   [
+    "little",
+    20.98
+   ],
+   [
+    "more",
+    21.33
+   ],
+   [
+    "interesting",
+    21.57
+   ]
+  ]
+ },
+ {
+  "s": 22.62,
+  "e": 25.87,
+  "text": "In Namibia, scientists fitted three wild giraffes",
+  "words": [
+   [
+    "in",
+    22.62
+   ],
+   [
+    "namibia",
+    22.77
+   ],
+   [
+    "scientists",
+    23.31
+   ],
+   [
+    "fitted",
+    24.09
+   ],
+   [
+    "three",
+    24.55
+   ],
+   [
+    "wild",
+    24.94
+   ],
+   [
+    "giraffes",
+    25.25
+   ]
+  ]
+ },
+ {
+  "s": 25.98,
+  "e": 27.32,
+  "text": "with tiny motion sensors,",
+  "words": [
+   [
+    "with",
+    25.98
+   ],
+   [
+    "tiny",
+    26.23
+   ],
+   [
+    "motion",
+    26.49
+   ],
+   [
+    "sensors",
+    26.87
+   ]
+  ]
+ },
+ {
+  "s": 27.76,
+  "e": 29.62,
+  "text": "clipped onto the little horns on their heads.",
+  "words": [
+   [
+    "clipped",
+    27.76
+   ],
+   [
+    "onto",
+    28.11
+   ],
+   [
+    "the",
+    28.31
+   ],
+   [
+    "little",
+    28.46
+   ],
+   [
+    "horns",
+    28.76
+   ],
+   [
+    "on",
+    29.01
+   ],
+   [
+    "their",
+    29.11
+   ],
+   [
+    "heads",
+    29.36
+   ]
+  ]
+ },
+ {
+  "s": 29.96,
+  "e": 31.76,
+  "text": "For months, they logged every move,",
+  "words": [
+   [
+    "for",
+    29.96
+   ],
+   [
+    "months",
+    30.16
+   ],
+   [
+    "they",
+    30.54
+   ],
+   [
+    "logged",
+    30.8
+   ],
+   [
+    "every",
+    31.18
+   ],
+   [
+    "move",
+    31.51
+   ]
+  ]
+ },
+ {
+  "s": 31.92,
+  "e": 32.63,
+  "text": "all night long.",
+  "words": [
+   [
+    "all",
+    31.92
+   ],
+   [
+    "night",
+    32.1
+   ],
+   [
+    "long",
+    32.4
+   ]
+  ]
+ },
+ {
+  "s": 33.11,
+  "e": 35.75,
+  "text": "The giraffes were resting for around eight hours a night.",
+  "words": [
+   [
+    "the",
+    33.11
+   ],
+   [
+    "giraffes",
+    33.28
+   ],
+   [
+    "were",
+    33.73
+   ],
+   [
+    "resting",
+    33.95
+   ],
+   [
+    "for",
+    34.35
+   ],
+   [
+    "around",
+    34.52
+   ],
+   [
+    "eight",
+    34.85
+   ],
+   [
+    "hours",
+    35.14
+   ],
+   [
+    "a",
+    35.42
+   ],
+   [
+    "night",
+    35.47
+   ]
+  ]
+ },
+ {
+  "s": 36.16,
+  "e": 38.79,
+  "text": "But the deepest kind of sleep, the kind where you dream,",
+  "words": [
+   [
+    "but",
+    36.16
+   ],
+   [
+    "the",
+    36.34
+   ],
+   [
+    "deepest",
+    36.52
+   ],
+   [
+    "kind",
+    36.94
+   ],
+   [
+    "of",
+    37.18
+   ],
+   [
+    "sleep",
+    37.3
+   ],
+   [
+    "the",
+    37.6
+   ],
+   [
+    "kind",
+    37.78
+   ],
+   [
+    "where",
+    38.02
+   ],
+   [
+    "you",
+    38.32
+   ],
+   [
+    "dream",
+    38.49
+   ]
+  ]
+ },
+ {
+  "s": 39.11,
+  "e": 40.99,
+  "text": "added up to only about eight minutes.",
+  "words": [
+   [
+    "added",
+    39.11
+   ],
+   [
+    "up",
+    39.43
+   ],
+   [
+    "to",
+    39.55
+   ],
+   [
+    "only",
+    39.68
+   ],
+   [
+    "about",
+    39.93
+   ],
+   [
+    "eight",
+    40.24
+   ],
+   [
+    "minutes",
+    40.55
+   ]
+  ]
+ },
+ {
+  "s": 41.43,
+  "e": 43.04,
+  "text": "Usually in two short bursts.",
+  "words": [
+   [
+    "usually",
+    41.43
+   ],
+   [
+    "in",
+    41.92
+   ],
+   [
+    "two",
+    42.06
+   ],
+   [
+    "short",
+    42.27
+   ],
+   [
+    "bursts",
+    42.62
+   ]
+  ]
+ },
+ {
+  "s": 43.52,
+  "e": 45.46,
+  "text": "Chapter two. Sleeping on your feet.",
+  "words": [
+   [
+    "chapter",
+    43.52
+   ],
+   [
+    "two",
+    44.01
+   ],
+   [
+    "sleeping",
+    44.21
+   ],
+   [
+    "on",
+    44.77
+   ],
+   [
+    "your",
+    44.91
+   ],
+   [
+    "feet",
+    45.19
+   ]
+  ]
+ },
+ {
+  "s": 45.93,
+  "e": 48.2,
+  "text": "So what are giraffes doing the rest of the time?",
+  "words": [
+   [
+    "so",
+    45.93
+   ],
+   [
+    "what",
+    46.05
+   ],
+   [
+    "are",
+    46.29
+   ],
+   [
+    "giraffes",
+    46.47
+   ],
+   [
+    "doing",
+    46.95
+   ],
+   [
+    "the",
+    47.25
+   ],
+   [
+    "rest",
+    47.42
+   ],
+   [
+    "of",
+    47.66
+   ],
+   [
+    "the",
+    47.78
+   ],
+   [
+    "time",
+    47.96
+   ]
+  ]
+ },
+ {
+  "s": 48.74,
+  "e": 50.55,
+  "text": "Mostly, they doze standing up.",
+  "words": [
+   [
+    "mostly",
+    48.74
+   ],
+   [
+    "they",
+    49.19
+   ],
+   [
+    "doze",
+    49.5
+   ],
+   [
+    "standing",
+    49.8
+   ],
+   [
+    "up",
+    50.4
+   ]
+  ]
+ },
+ {
+  "s": 50.91,
+  "e": 53.25,
+  "text": "Eyes half open, ears still twitching,",
+  "words": [
+   [
+    "eyes",
+    50.91
+   ],
+   [
+    "half",
+    51.22
+   ],
+   [
+    "open",
+    51.54
+   ],
+   [
+    "ears",
+    51.85
+   ],
+   [
+    "still",
+    52.16
+   ],
+   [
+    "twitching",
+    52.55
+   ]
+  ]
+ },
+ {
+  "s": 53.55,
+  "e": 55.0,
+  "text": "for just a few minutes at a time.",
+  "words": [
+   [
+    "for",
+    53.55
+   ],
+   [
+    "just",
+    53.73
+   ],
+   [
+    "a",
+    53.96
+   ],
+   [
+    "few",
+    54.02
+   ],
+   [
+    "minutes",
+    54.19
+   ],
+   [
+    "at",
+    54.6
+   ],
+   [
+    "a",
+    54.71
+   ],
+   [
+    "time",
+    54.77
+   ]
+  ]
+ },
+ {
+  "s": 55.44,
+  "e": 56.89,
+  "text": "If a lion creeps closer,",
+  "words": [
+   [
+    "if",
+    55.44
+   ],
+   [
+    "a",
+    55.59
+   ],
+   [
+    "lion",
+    55.67
+   ],
+   [
+    "creeps",
+    55.97
+   ],
+   [
+    "closer",
+    56.43
+   ]
+  ]
+ },
+ {
+  "s": 57.27,
+  "e": 59.32,
+  "text": "a standing giraffe can run right away.",
+  "words": [
+   [
+    "a",
+    57.27
+   ],
+   [
+    "standing",
+    57.34
+   ],
+   [
+    "giraffe",
+    57.87
+   ],
+   [
+    "can",
+    58.33
+   ],
+   [
+    "run",
+    58.53
+   ],
+   [
+    "right",
+    58.73
+   ],
+   [
+    "away",
+    59.06
+   ]
+  ]
+ },
+ {
+  "s": 59.67,
+  "e": 61.79,
+  "text": "Lying down is a whole different story.",
+  "words": [
+   [
+    "lying",
+    59.67
+   ],
+   [
+    "down",
+    60.01
+   ],
+   [
+    "is",
+    60.29
+   ],
+   [
+    "a",
+    60.42
+   ],
+   [
+    "whole",
+    60.49
+   ],
+   [
+    "different",
+    60.83
+   ],
+   [
+    "story",
+    61.44
+   ]
+  ]
+ },
+ {
+  "s": 62.26,
+  "e": 64.0,
+  "text": "Chapter three. The neck problem.",
+  "words": [
+   [
+    "chapter",
+    62.26
+   ],
+   [
+    "three",
+    62.73
+   ],
+   [
+    "the",
+    63.06
+   ],
+   [
+    "neck",
+    63.27
+   ],
+   [
+    "problem",
+    63.53
+   ]
+  ]
+ },
+ {
+  "s": 64.35,
+  "e": 67.36,
+  "text": "Picture folding a five-metre animal onto the ground.",
+  "words": [
+   [
+    "picture",
+    64.35
+   ],
+   [
+    "folding",
+    64.84
+   ],
+   [
+    "a",
+    65.33
+   ],
+   [
+    "fivemetre",
+    65.4
+   ],
+   [
+    "animal",
+    66.03
+   ],
+   [
+    "onto",
+    66.45
+   ],
+   [
+    "the",
+    66.73
+   ],
+   [
+    "ground",
+    66.94
+   ]
+  ]
+ },
+ {
+  "s": 67.75,
+  "e": 70.78,
+  "text": "First the front knees bend, then the back legs fold,",
+  "words": [
+   [
+    "first",
+    67.75
+   ],
+   [
+    "the",
+    68.12
+   ],
+   [
+    "front",
+    68.34
+   ],
+   [
+    "knees",
+    68.71
+   ],
+   [
+    "bend",
+    69.08
+   ],
+   [
+    "then",
+    69.38
+   ],
+   [
+    "the",
+    69.67
+   ],
+   [
+    "back",
+    69.89
+   ],
+   [
+    "legs",
+    70.19
+   ],
+   [
+    "fold",
+    70.48
+   ]
+  ]
+ },
+ {
+  "s": 71.12,
+  "e": 73.31,
+  "text": "Getting back up means rocking that long neck",
+  "words": [
+   [
+    "getting",
+    71.12
+   ],
+   [
+    "back",
+    71.53
+   ],
+   [
+    "up",
+    71.77
+   ],
+   [
+    "means",
+    71.89
+   ],
+   [
+    "rocking",
+    72.18
+   ],
+   [
+    "that",
+    72.6
+   ],
+   [
+    "long",
+    72.84
+   ],
+   [
+    "neck",
+    73.07
+   ]
+  ]
+ },
+ {
+  "s": 73.39,
+  "e": 74.24,
+  "text": "to swing its weight,",
+  "words": [
+   [
+    "to",
+    73.39
+   ],
+   [
+    "swing",
+    73.5
+   ],
+   [
+    "its",
+    73.76
+   ],
+   [
+    "weight",
+    73.92
+   ]
+  ]
+ },
+ {
+  "s": 74.61,
+  "e": 76.27,
+  "text": "and pushing up one end at a time.",
+  "words": [
+   [
+    "and",
+    74.61
+   ],
+   [
+    "pushing",
+    74.81
+   ],
+   [
+    "up",
+    75.27
+   ],
+   [
+    "one",
+    75.41
+   ],
+   [
+    "end",
+    75.6
+   ],
+   [
+    "at",
+    75.8
+   ],
+   [
+    "a",
+    75.94
+   ],
+   [
+    "time",
+    76.0
+   ]
+  ]
+ },
+ {
+  "s": 76.63,
+  "e": 78.24,
+  "text": "It only takes a few seconds.",
+  "words": [
+   [
+    "it",
+    76.63
+   ],
+   [
+    "only",
+    76.77
+   ],
+   [
+    "takes",
+    77.07
+   ],
+   [
+    "a",
+    77.43
+   ],
+   [
+    "few",
+    77.5
+   ],
+   [
+    "seconds",
+    77.72
+   ]
+  ]
+ },
+ {
+  "s": 78.62,
+  "e": 82.03,
+  "text": "But with a lion nearby, a few seconds is a very long time.",
+  "words": [
+   [
+    "but",
+    78.62
+   ],
+   [
+    "with",
+    78.85
+   ],
+   [
+    "a",
+    79.16
+   ],
+   [
+    "lion",
+    79.24
+   ],
+   [
+    "nearby",
+    79.55
+   ],
+   [
+    "a",
+    80.01
+   ],
+   [
+    "few",
+    80.09
+   ],
+   [
+    "seconds",
+    80.32
+   ],
+   [
+    "is",
+    80.87
+   ],
+   [
+    "a",
+    81.02
+   ],
+   [
+    "very",
+    81.1
+   ],
+   [
+    "long",
+    81.41
+   ],
+   [
+    "time",
+    81.72
+   ]
+  ]
+ },
+ {
+  "s": 82.45,
+  "e": 83.8,
+  "text": "So why lie down at all?",
+  "words": [
+   [
+    "so",
+    82.45
+   ],
+   [
+    "why",
+    82.61
+   ],
+   [
+    "lie",
+    82.84
+   ],
+   [
+    "down",
+    83.08
+   ],
+   [
+    "at",
+    83.4
+   ],
+   [
+    "all",
+    83.56
+   ]
+  ]
+ },
+ {
+  "s": 84.34,
+  "e": 86.66,
+  "text": "Because dreaming sleep relaxes the muscles.",
+  "words": [
+   [
+    "because",
+    84.34
+   ],
+   [
+    "dreaming",
+    84.78
+   ],
+   [
+    "sleep",
+    85.28
+   ],
+   [
+    "relaxes",
+    85.6
+   ],
+   [
+    "the",
+    86.04
+   ],
+   [
+    "muscles",
+    86.23
+   ]
+  ]
+ },
+ {
+  "s": 87.08,
+  "e": 89.85,
+  "text": "A giraffe can't hold up its heavy neck while it dreams.",
+  "words": [
+   [
+    "a",
+    87.08
+   ],
+   [
+    "giraffe",
+    87.14
+   ],
+   [
+    "cant",
+    87.59
+   ],
+   [
+    "hold",
+    87.85
+   ],
+   [
+    "up",
+    88.11
+   ],
+   [
+    "its",
+    88.24
+   ],
+   [
+    "heavy",
+    88.43
+   ],
+   [
+    "neck",
+    88.75
+   ],
+   [
+    "while",
+    89.01
+   ],
+   [
+    "it",
+    89.33
+   ],
+   [
+    "dreams",
+    89.46
+   ]
+  ]
+ },
+ {
+  "s": 90.27,
+  "e": 92.98,
+  "text": "So it curls its neck right back, like a swan,",
+  "words": [
+   [
+    "so",
+    90.27
+   ],
+   [
+    "it",
+    90.43
+   ],
+   [
+    "curls",
+    90.59
+   ],
+   [
+    "its",
+    90.99
+   ],
+   [
+    "neck",
+    91.23
+   ],
+   [
+    "right",
+    91.55
+   ],
+   [
+    "back",
+    91.95
+   ],
+   [
+    "like",
+    92.27
+   ],
+   [
+    "a",
+    92.58
+   ],
+   [
+    "swan",
+    92.66
+   ]
+  ]
+ },
+ {
+  "s": 93.27,
+  "e": 94.87,
+  "text": "and rests its head on its own rump.",
+  "words": [
+   [
+    "and",
+    93.27
+   ],
+   [
+    "rests",
+    93.45
+   ],
+   [
+    "its",
+    93.75
+   ],
+   [
+    "head",
+    93.92
+   ],
+   [
+    "on",
+    94.16
+   ],
+   [
+    "its",
+    94.28
+   ],
+   [
+    "own",
+    94.46
+   ],
+   [
+    "rump",
+    94.63
+   ]
+  ]
+ },
+ {
+  "s": 95.27,
+  "e": 96.89,
+  "text": "A pillow it never has to pack.",
+  "words": [
+   [
+    "a",
+    95.27
+   ],
+   [
+    "pillow",
+    95.34
+   ],
+   [
+    "it",
+    95.76
+   ],
+   [
+    "never",
+    95.9
+   ],
+   [
+    "has",
+    96.26
+   ],
+   [
+    "to",
+    96.47
+   ],
+   [
+    "pack",
+    96.61
+   ]
+  ]
+ },
+ {
+  "s": 97.3,
+  "e": 98.94,
+  "text": "Chapter four. When and where.",
+  "words": [
+   [
+    "chapter",
+    97.3
+   ],
+   [
+    "four",
+    97.8
+   ],
+   [
+    "when",
+    98.08
+   ],
+   [
+    "and",
+    98.37
+   ],
+   [
+    "where",
+    98.58
+   ]
+  ]
+ },
+ {
+  "s": 99.34,
+  "e": 101.33,
+  "text": "There are two favourite times for a snooze.",
+  "words": [
+   [
+    "there",
+    99.34
+   ],
+   [
+    "are",
+    99.63
+   ],
+   [
+    "two",
+    99.8
+   ],
+   [
+    "favourite",
+    99.97
+   ],
+   [
+    "times",
+    100.48
+   ],
+   [
+    "for",
+    100.76
+   ],
+   [
+    "a",
+    100.93
+   ],
+   [
+    "snooze",
+    100.99
+   ]
+  ]
+ },
+ {
+  "s": 101.78,
+  "e": 104.79,
+  "text": "A few hours after sunset, around nine to eleven,",
+  "words": [
+   [
+    "a",
+    101.78
+   ],
+   [
+    "few",
+    101.86
+   ],
+   [
+    "hours",
+    102.1
+   ],
+   [
+    "after",
+    102.49
+   ],
+   [
+    "sunset",
+    102.89
+   ],
+   [
+    "around",
+    103.36
+   ],
+   [
+    "nine",
+    103.84
+   ],
+   [
+    "to",
+    104.15
+   ],
+   [
+    "eleven",
+    104.31
+   ]
+  ]
+ },
+ {
+  "s": 105.15,
+  "e": 108.34,
+  "text": "and again before sunrise, around three to five in the morning.",
+  "words": [
+   [
+    "and",
+    105.15
+   ],
+   [
+    "again",
+    105.34
+   ],
+   [
+    "before",
+    105.66
+   ],
+   [
+    "sunrise",
+    106.04
+   ],
+   [
+    "around",
+    106.49
+   ],
+   [
+    "three",
+    106.87
+   ],
+   [
+    "to",
+    107.19
+   ],
+   [
+    "five",
+    107.32
+   ],
+   [
+    "in",
+    107.58
+   ],
+   [
+    "the",
+    107.7
+   ],
+   [
+    "morning",
+    107.9
+   ]
+  ]
+ },
+ {
+  "s": 108.74,
+  "e": 110.12,
+  "text": "Giraffes pick resting spots",
+  "words": [
+   [
+    "giraffes",
+    108.74
+   ],
+   [
+    "pick",
+    109.2
+   ],
+   [
+    "resting",
+    109.43
+   ],
+   [
+    "spots",
+    109.83
+   ]
+  ]
+ },
+ {
+  "s": 110.18,
+  "e": 111.34,
+  "text": "with a clear view,",
+  "words": [
+   [
+    "with",
+    110.18
+   ],
+   [
+    "a",
+    110.51
+   ],
+   [
+    "clear",
+    110.6
+   ],
+   [
+    "view",
+    111.01
+   ]
+  ]
+ },
+ {
+  "s": 111.66,
+  "e": 114.74,
+  "text": "often in a small group, where more eyes can spot trouble.",
+  "words": [
+   [
+    "often",
+    111.66
+   ],
+   [
+    "in",
+    112.0
+   ],
+   [
+    "a",
+    112.14
+   ],
+   [
+    "small",
+    112.21
+   ],
+   [
+    "group",
+    112.55
+   ],
+   [
+    "where",
+    112.89
+   ],
+   [
+    "more",
+    113.24
+   ],
+   [
+    "eyes",
+    113.51
+   ],
+   [
+    "can",
+    113.78
+   ],
+   [
+    "spot",
+    113.99
+   ],
+   [
+    "trouble",
+    114.26
+   ]
+  ]
+ },
+ {
+  "s": 115.14,
+  "e": 117.93,
+  "text": "And there's one more thing stealing their sleep. Lunch.",
+  "words": [
+   [
+    "and",
+    115.14
+   ],
+   [
+    "theres",
+    115.33
+   ],
+   [
+    "one",
+    115.71
+   ],
+   [
+    "more",
+    115.9
+   ],
+   [
+    "thing",
+    116.15
+   ],
+   [
+    "stealing",
+    116.47
+   ],
+   [
+    "their",
+    116.98
+   ],
+   [
+    "sleep",
+    117.3
+   ],
+   [
+    "lunch",
+    117.61
+   ]
+  ]
+ },
+ {
+  "s": 118.39,
+  "e": 120.64,
+  "text": "Giraffes eat leaves, and leaves are tough.",
+  "words": [
+   [
+    "giraffes",
+    118.39
+   ],
+   [
+    "eat",
+    118.92
+   ],
+   [
+    "leaves",
+    119.12
+   ],
+   [
+    "and",
+    119.51
+   ],
+   [
+    "leaves",
+    119.71
+   ],
+   [
+    "are",
+    120.11
+   ],
+   [
+    "tough",
+    120.31
+   ]
+  ]
+ },
+ {
+  "s": 121.05,
+  "e": 123.22,
+  "text": "So like cows, they chew their food twice.",
+  "words": [
+   [
+    "so",
+    121.05
+   ],
+   [
+    "like",
+    121.19
+   ],
+   [
+    "cows",
+    121.46
+   ],
+   [
+    "they",
+    121.73
+   ],
+   [
+    "chew",
+    122.0
+   ],
+   [
+    "their",
+    122.27
+   ],
+   [
+    "food",
+    122.61
+   ],
+   [
+    "twice",
+    122.88
+   ]
+  ]
+ },
+ {
+  "s": 123.65,
+  "e": 125.96,
+  "text": "They bring it back up and chew it again, as cud.",
+  "words": [
+   [
+    "they",
+    123.65
+   ],
+   [
+    "bring",
+    123.91
+   ],
+   [
+    "it",
+    124.23
+   ],
+   [
+    "back",
+    124.36
+   ],
+   [
+    "up",
+    124.61
+   ],
+   [
+    "and",
+    124.74
+   ],
+   [
+    "chew",
+    124.93
+   ],
+   [
+    "it",
+    125.19
+   ],
+   [
+    "again",
+    125.32
+   ],
+   [
+    "as",
+    125.64
+   ],
+   [
+    "cud",
+    125.77
+   ]
+  ]
+ },
+ {
+  "s": 126.42,
+  "e": 129.29,
+  "text": "But a giraffe can't drift into deep sleep while it's chewing.",
+  "words": [
+   [
+    "but",
+    126.42
+   ],
+   [
+    "a",
+    126.6
+   ],
+   [
+    "giraffe",
+    126.66
+   ],
+   [
+    "cant",
+    127.08
+   ],
+   [
+    "drift",
+    127.32
+   ],
+   [
+    "into",
+    127.62
+   ],
+   [
+    "deep",
+    127.86
+   ],
+   [
+    "sleep",
+    128.1
+   ],
+   [
+    "while",
+    128.39
+   ],
+   [
+    "its",
+    128.69
+   ],
+   [
+    "chewing",
+    128.87
+   ]
+  ]
+ },
+ {
+  "s": 129.64,
+  "e": 131.32,
+  "text": "Chapter five. Why so little?",
+  "words": [
+   [
+    "chapter",
+    129.64
+   ],
+   [
+    "five",
+    130.17
+   ],
+   [
+    "why",
+    130.48
+   ],
+   [
+    "so",
+    130.71
+   ],
+   [
+    "little",
+    130.86
+   ]
+  ]
+ },
+ {
+  "s": 131.84,
+  "e": 134.97,
+  "text": "Big plant-eaters tend to sleep much less than meat-eaters.",
+  "words": [
+   [
+    "big",
+    131.84
+   ],
+   [
+    "planteaters",
+    132.04
+   ],
+   [
+    "tend",
+    132.77
+   ],
+   [
+    "to",
+    133.04
+   ],
+   [
+    "sleep",
+    133.17
+   ],
+   [
+    "much",
+    133.5
+   ],
+   [
+    "less",
+    133.77
+   ],
+   [
+    "than",
+    134.04
+   ],
+   [
+    "meateaters",
+    134.31
+   ]
+  ]
+ },
+ {
+  "s": 135.42,
+  "e": 138.73,
+  "text": "A lion can fill up on one meal and nap for most of the day.",
+  "words": [
+   [
+    "a",
+    135.42
+   ],
+   [
+    "lion",
+    135.49
+   ],
+   [
+    "can",
+    135.79
+   ],
+   [
+    "fill",
+    136.02
+   ],
+   [
+    "up",
+    136.32
+   ],
+   [
+    "on",
+    136.47
+   ],
+   [
+    "one",
+    136.62
+   ],
+   [
+    "meal",
+    136.85
+   ],
+   [
+    "and",
+    137.15
+   ],
+   [
+    "nap",
+    137.38
+   ],
+   [
+    "for",
+    137.6
+   ],
+   [
+    "most",
+    137.83
+   ],
+   [
+    "of",
+    138.13
+   ],
+   [
+    "the",
+    138.28
+   ],
+   [
+    "day",
+    138.51
+   ]
+  ]
+ },
+ {
+  "s": 139.14,
+  "e": 142.34,
+  "text": "A giraffe has to keep eating for a big part of every day,",
+  "words": [
+   [
+    "a",
+    139.14
+   ],
+   [
+    "giraffe",
+    139.21
+   ],
+   [
+    "has",
+    139.72
+   ],
+   [
+    "to",
+    139.94
+   ],
+   [
+    "keep",
+    140.08
+   ],
+   [
+    "eating",
+    140.38
+   ],
+   [
+    "for",
+    140.81
+   ],
+   [
+    "a",
+    141.03
+   ],
+   [
+    "big",
+    141.1
+   ],
+   [
+    "part",
+    141.32
+   ],
+   [
+    "of",
+    141.61
+   ],
+   [
+    "every",
+    141.76
+   ],
+   [
+    "day",
+    142.12
+   ]
+  ]
+ },
+ {
+  "s": 142.76,
+  "e": 145.06,
+  "text": "and stay alert to the animals that want to eat it.",
+  "words": [
+   [
+    "and",
+    142.76
+   ],
+   [
+    "stay",
+    142.94
+   ],
+   [
+    "alert",
+    143.17
+   ],
+   [
+    "to",
+    143.47
+   ],
+   [
+    "the",
+    143.59
+   ],
+   [
+    "animals",
+    143.76
+   ],
+   [
+    "that",
+    144.18
+   ],
+   [
+    "want",
+    144.41
+   ],
+   [
+    "to",
+    144.65
+   ],
+   [
+    "eat",
+    144.77
+   ],
+   [
+    "it",
+    144.95
+   ]
+  ]
+ },
+ {
+  "s": 145.54,
+  "e": 147.38,
+  "text": "So it sleeps in tiny slices,",
+  "words": [
+   [
+    "so",
+    145.54
+   ],
+   [
+    "it",
+    145.71
+   ],
+   [
+    "sleeps",
+    145.88
+   ],
+   [
+    "in",
+    146.38
+   ],
+   [
+    "tiny",
+    146.55
+   ],
+   [
+    "slices",
+    146.88
+   ]
+  ]
+ },
+ {
+  "s": 147.78,
+  "e": 150.66,
+  "text": "and only lets its guard down for a few minutes of dreams.",
+  "words": [
+   [
+    "and",
+    147.78
+   ],
+   [
+    "only",
+    147.97
+   ],
+   [
+    "lets",
+    148.23
+   ],
+   [
+    "its",
+    148.49
+   ],
+   [
+    "guard",
+    148.68
+   ],
+   [
+    "down",
+    149.0
+   ],
+   [
+    "for",
+    149.25
+   ],
+   [
+    "a",
+    149.44
+   ],
+   [
+    "few",
+    149.51
+   ],
+   [
+    "minutes",
+    149.7
+   ],
+   [
+    "of",
+    150.15
+   ],
+   [
+    "dreams",
+    150.28
+   ]
+  ]
+ },
+ {
+  "s": 151.07,
+  "e": 153.12,
+  "text": "And honestly, that's kind of genius.",
+  "words": [
+   [
+    "and",
+    151.07
+   ],
+   [
+    "honestly",
+    151.29
+   ],
+   [
+    "thats",
+    151.88
+   ],
+   [
+    "kind",
+    152.25
+   ],
+   [
+    "of",
+    152.54
+   ],
+   [
+    "genius",
+    152.69
+   ]
+  ]
+ },
+ {
+  "s": 153.53,
+  "e": 155.28,
+  "text": "In zoos, where nothing hunts them,",
+  "words": [
+   [
+    "in",
+    153.53
+   ],
+   [
+    "zoos",
+    153.66
+   ],
+   [
+    "where",
+    153.92
+   ],
+   [
+    "nothing",
+    154.25
+   ],
+   [
+    "hunts",
+    154.7
+   ],
+   [
+    "them",
+    155.03
+   ]
+  ]
+ },
+ {
+  "s": 155.68,
+  "e": 157.83,
+  "text": "giraffes lie down for much more of the night.",
+  "words": [
+   [
+    "giraffes",
+    155.68
+   ],
+   [
+    "lie",
+    156.16
+   ],
+   [
+    "down",
+    156.34
+   ],
+   [
+    "for",
+    156.58
+   ],
+   [
+    "much",
+    156.76
+   ],
+   [
+    "more",
+    157.0
+   ],
+   [
+    "of",
+    157.24
+   ],
+   [
+    "the",
+    157.36
+   ],
+   [
+    "night",
+    157.54
+   ]
+  ]
+ },
+ {
+  "s": 158.19,
+  "e": 159.88,
+  "text": "So the short sleep isn't a flaw.",
+  "words": [
+   [
+    "so",
+    158.19
+   ],
+   [
+    "the",
+    158.33
+   ],
+   [
+    "short",
+    158.55
+   ],
+   [
+    "sleep",
+    158.9
+   ],
+   [
+    "isnt",
+    159.25
+   ],
+   [
+    "a",
+    159.53
+   ],
+   [
+    "flaw",
+    159.6
+   ]
+  ]
+ },
+ {
+  "s": 160.28,
+  "e": 163.05,
+  "text": "It's a survival plan, built for the open plains.",
+  "words": [
+   [
+    "its",
+    160.28
+   ],
+   [
+    "a",
+    160.5
+   ],
+   [
+    "survival",
+    160.58
+   ],
+   [
+    "plan",
+    161.18
+   ],
+   [
+    "built",
+    161.48
+   ],
+   [
+    "for",
+    161.85
+   ],
+   [
+    "the",
+    162.08
+   ],
+   [
+    "open",
+    162.3
+   ],
+   [
+    "plains",
+    162.6
+   ]
+  ]
+ },
+ {
+  "s": 163.43,
+  "e": 164.98,
+  "text": "So next time you hit snooze,",
+  "words": [
+   [
+    "so",
+    163.43
+   ],
+   [
+    "next",
+    163.57
+   ],
+   [
+    "time",
+    163.85
+   ],
+   [
+    "you",
+    164.14
+   ],
+   [
+    "hit",
+    164.35
+   ],
+   [
+    "snooze",
+    164.56
+   ]
+  ]
+ },
+ {
+  "s": 165.23,
+  "e": 166.14,
+  "text": "think of the giraffe,",
+  "words": [
+   [
+    "think",
+    165.23
+   ],
+   [
+    "of",
+    165.5
+   ],
+   [
+    "the",
+    165.61
+   ],
+   [
+    "giraffe",
+    165.77
+   ]
+  ]
+ },
+ {
+  "s": 166.42,
+  "e": 169.2,
+  "text": "dreaming for eight minutes, with its head on its own rump.",
+  "words": [
+   [
+    "dreaming",
+    166.42
+   ],
+   [
+    "for",
+    166.9
+   ],
+   [
+    "eight",
+    167.09
+   ],
+   [
+    "minutes",
+    167.39
+   ],
+   [
+    "with",
+    167.81
+   ],
+   [
+    "its",
+    168.05
+   ],
+   [
+    "head",
+    168.23
+   ],
+   [
+    "on",
+    168.48
+   ],
+   [
+    "its",
+    168.6
+   ],
+   [
+    "own",
+    168.78
+   ],
+   [
+    "rump",
+    168.96
+   ]
+  ]
+ },
+ {
+  "s": 169.63,
+  "e": 173.13,
+  "text": "Next time, why do some people get way more freckles than others?",
+  "words": [
+   [
+    "next",
+    169.63
+   ],
+   [
+    "time",
+    169.9
+   ],
+   [
+    "why",
+    170.17
+   ],
+   [
+    "do",
+    170.38
+   ],
+   [
+    "some",
+    170.52
+   ],
+   [
+    "people",
+    170.79
+   ],
+   [
+    "get",
+    171.2
+   ],
+   [
+    "way",
+    171.41
+   ],
+   [
+    "more",
+    171.62
+   ],
+   [
+    "freckles",
+    171.89
+   ],
+   [
+    "than",
+    172.44
+   ],
+   [
+    "others",
+    172.72
+   ]
+  ]
+ }
+]
