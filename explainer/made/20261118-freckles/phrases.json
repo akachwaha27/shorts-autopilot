@@ -1,0 +1,2585 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.03,
+  "text": "You were born with zero freckles.",
+  "words": [
+   [
+    "you",
+    0.25
+   ],
+   [
+    "were",
+    0.45
+   ],
+   [
+    "born",
+    0.71
+   ],
+   [
+    "with",
+    0.98
+   ],
+   [
+    "zero",
+    1.24
+   ],
+   [
+    "freckles",
+    1.5
+   ]
+  ]
+ },
+ {
+  "s": 2.49,
+  "e": 3.56,
+  "text": "Not a single one.",
+  "words": [
+   [
+    "not",
+    2.49
+   ],
+   [
+    "a",
+    2.74
+   ],
+   [
+    "single",
+    2.82
+   ],
+   [
+    "one",
+    3.31
+   ]
+  ]
+ },
+ {
+  "s": 3.91,
+  "e": 6.15,
+  "text": "They usually start showing up around age two.",
+  "words": [
+   [
+    "they",
+    3.91
+   ],
+   [
+    "usually",
+    4.15
+   ],
+   [
+    "start",
+    4.57
+   ],
+   [
+    "showing",
+    4.88
+   ],
+   [
+    "up",
+    5.3
+   ],
+   [
+    "around",
+    5.42
+   ],
+   [
+    "age",
+    5.79
+   ],
+   [
+    "two",
+    5.97
+   ]
+  ]
+ },
+ {
+  "s": 6.61,
+  "e": 7.92,
+  "text": "Then some kids get a few,",
+  "words": [
+   [
+    "then",
+    6.61
+   ],
+   [
+    "some",
+    6.89
+   ],
+   [
+    "kids",
+    7.16
+   ],
+   [
+    "get",
+    7.44
+   ],
+   [
+    "a",
+    7.65
+   ],
+   [
+    "few",
+    7.71
+   ]
+  ]
+ },
+ {
+  "s": 8.21,
+  "e": 9.82,
+  "text": "while others end up with hundreds.",
+  "words": [
+   [
+    "while",
+    8.21
+   ],
+   [
+    "others",
+    8.5
+   ],
+   [
+    "end",
+    8.84
+   ],
+   [
+    "up",
+    9.02
+   ],
+   [
+    "with",
+    9.13
+   ],
+   [
+    "hundreds",
+    9.36
+   ]
+  ]
+ },
+ {
+  "s": 10.27,
+  "e": 13.09,
+  "text": "So why do some people get way more freckles than others?",
+  "words": [
+   [
+    "so",
+    10.27
+   ],
+   [
+    "why",
+    10.39
+   ],
+   [
+    "do",
+    10.58
+   ],
+   [
+    "some",
+    10.7
+   ],
+   [
+    "people",
+    10.95
+   ],
+   [
+    "get",
+    11.33
+   ],
+   [
+    "way",
+    11.52
+   ],
+   [
+    "more",
+    11.71
+   ],
+   [
+    "freckles",
+    11.96
+   ],
+   [
+    "than",
+    12.46
+   ],
+   [
+    "others",
+    12.71
+   ]
+  ]
+ },
+ {
+  "s": 13.57,
+  "e": 15.23,
+  "text": "First, what is a freckle, really?",
+  "words": [
+   [
+    "first",
+    13.57
+   ],
+   [
+    "what",
+    13.9
+   ],
+   [
+    "is",
+    14.17
+   ],
+   [
+    "a",
+    14.3
+   ],
+   [
+    "freckle",
+    14.37
+   ],
+   [
+    "really",
+    14.83
+   ]
+  ]
+ },
+ {
+  "s": 15.8,
+  "e": 18.75,
+  "text": "Your skin gets its color from a pigment called melanin.",
+  "words": [
+   [
+    "your",
+    15.8
+   ],
+   [
+    "skin",
+    16.06
+   ],
+   [
+    "gets",
+    16.32
+   ],
+   [
+    "its",
+    16.58
+   ],
+   [
+    "color",
+    16.78
+   ],
+   [
+    "from",
+    17.11
+   ],
+   [
+    "a",
+    17.37
+   ],
+   [
+    "pigment",
+    17.44
+   ],
+   [
+    "called",
+    17.9
+   ],
+   [
+    "melanin",
+    18.29
+   ]
+  ]
+ },
+ {
+  "s": 19.17,
+  "e": 21.68,
+  "text": "It's made by special cells called melanocytes,",
+  "words": [
+   [
+    "its",
+    19.17
+   ],
+   [
+    "made",
+    19.37
+   ],
+   [
+    "by",
+    19.63
+   ],
+   [
+    "special",
+    19.76
+   ],
+   [
+    "cells",
+    20.22
+   ],
+   [
+    "called",
+    20.55
+   ],
+   [
+    "melanocytes",
+    20.95
+   ]
+  ]
+ },
+ {
+  "s": 22.08,
+  "e": 24.27,
+  "text": "tucked deep in the bottom layer of your skin.",
+  "words": [
+   [
+    "tucked",
+    22.08
+   ],
+   [
+    "deep",
+    22.44
+   ],
+   [
+    "in",
+    22.69
+   ],
+   [
+    "the",
+    22.81
+   ],
+   [
+    "bottom",
+    22.99
+   ],
+   [
+    "layer",
+    23.36
+   ],
+   [
+    "of",
+    23.66
+   ],
+   [
+    "your",
+    23.78
+   ],
+   [
+    "skin",
+    24.03
+   ]
+  ]
+ },
+ {
+  "s": 24.62,
+  "e": 27.08,
+  "text": "Each one pumps out tiny packets of pigment,",
+  "words": [
+   [
+    "each",
+    24.62
+   ],
+   [
+    "one",
+    24.91
+   ],
+   [
+    "pumps",
+    25.12
+   ],
+   [
+    "out",
+    25.47
+   ],
+   [
+    "tiny",
+    25.68
+   ],
+   [
+    "packets",
+    25.96
+   ],
+   [
+    "of",
+    26.45
+   ],
+   [
+    "pigment",
+    26.59
+   ]
+  ]
+ },
+ {
+  "s": 27.48,
+  "e": 29.46,
+  "text": "and hands them to the skin cells around it.",
+  "words": [
+   [
+    "and",
+    27.48
+   ],
+   [
+    "hands",
+    27.66
+   ],
+   [
+    "them",
+    27.95
+   ],
+   [
+    "to",
+    28.18
+   ],
+   [
+    "the",
+    28.3
+   ],
+   [
+    "skin",
+    28.47
+   ],
+   [
+    "cells",
+    28.71
+   ],
+   [
+    "around",
+    29.0
+   ],
+   [
+    "it",
+    29.35
+   ]
+  ]
+ },
+ {
+  "s": 29.81,
+  "e": 30.94,
+  "text": "Here's the surprise.",
+  "words": [
+   [
+    "heres",
+    29.81
+   ],
+   [
+    "the",
+    30.16
+   ],
+   [
+    "surprise",
+    30.37
+   ]
+  ]
+ },
+ {
+  "s": 31.27,
+  "e": 33.55,
+  "text": "A freckle doesn't have extra pigment cells.",
+  "words": [
+   [
+    "a",
+    31.27
+   ],
+   [
+    "freckle",
+    31.33
+   ],
+   [
+    "doesnt",
+    31.79
+   ],
+   [
+    "have",
+    32.18
+   ],
+   [
+    "extra",
+    32.44
+   ],
+   [
+    "pigment",
+    32.77
+   ],
+   [
+    "cells",
+    33.22
+   ]
+  ]
+ },
+ {
+  "s": 34.0,
+  "e": 36.5,
+  "text": "It has about the same number as the skin next to it.",
+  "words": [
+   [
+    "it",
+    34.0
+   ],
+   [
+    "has",
+    34.12
+   ],
+   [
+    "about",
+    34.31
+   ],
+   [
+    "the",
+    34.62
+   ],
+   [
+    "same",
+    34.81
+   ],
+   [
+    "number",
+    35.06
+   ],
+   [
+    "as",
+    35.44
+   ],
+   [
+    "the",
+    35.56
+   ],
+   [
+    "skin",
+    35.75
+   ],
+   [
+    "next",
+    36.0
+   ],
+   [
+    "to",
+    36.25
+   ],
+   [
+    "it",
+    36.37
+   ]
+  ]
+ },
+ {
+  "s": 36.92,
+  "e": 38.94,
+  "text": "Those cells are just working way harder,",
+  "words": [
+   [
+    "those",
+    36.92
+   ],
+   [
+    "cells",
+    37.23
+   ],
+   [
+    "are",
+    37.53
+   ],
+   [
+    "just",
+    37.72
+   ],
+   [
+    "working",
+    37.96
+   ],
+   [
+    "way",
+    38.39
+   ],
+   [
+    "harder",
+    38.57
+   ]
+  ]
+ },
+ {
+  "s": 39.35,
+  "e": 42.08,
+  "text": "making a lot more melanin in one tiny spot.",
+  "words": [
+   [
+    "making",
+    39.35
+   ],
+   [
+    "a",
+    39.83
+   ],
+   [
+    "lot",
+    39.91
+   ],
+   [
+    "more",
+    40.15
+   ],
+   [
+    "melanin",
+    40.47
+   ],
+   [
+    "in",
+    41.03
+   ],
+   [
+    "one",
+    41.2
+   ],
+   [
+    "tiny",
+    41.44
+   ],
+   [
+    "spot",
+    41.76
+   ]
+  ]
+ },
+ {
+  "s": 42.49,
+  "e": 45.0,
+  "text": "Most freckles are smaller than three millimeters.",
+  "words": [
+   [
+    "most",
+    42.49
+   ],
+   [
+    "freckles",
+    42.73
+   ],
+   [
+    "are",
+    43.21
+   ],
+   [
+    "smaller",
+    43.39
+   ],
+   [
+    "than",
+    43.81
+   ],
+   [
+    "three",
+    44.04
+   ],
+   [
+    "millimeters",
+    44.34
+   ]
+  ]
+ },
+ {
+  "s": 45.42,
+  "e": 47.24,
+  "text": "And they show up most on fair skin,",
+  "words": [
+   [
+    "and",
+    45.42
+   ],
+   [
+    "they",
+    45.63
+   ],
+   [
+    "show",
+    45.9
+   ],
+   [
+    "up",
+    46.16
+   ],
+   [
+    "most",
+    46.3
+   ],
+   [
+    "on",
+    46.57
+   ],
+   [
+    "fair",
+    46.7
+   ],
+   [
+    "skin",
+    46.97
+   ]
+  ]
+ },
+ {
+  "s": 47.6,
+  "e": 49.34,
+  "text": "which has less melanin to begin with.",
+  "words": [
+   [
+    "which",
+    47.6
+   ],
+   [
+    "has",
+    47.89
+   ],
+   [
+    "less",
+    48.07
+   ],
+   [
+    "melanin",
+    48.3
+   ],
+   [
+    "to",
+    48.7
+   ],
+   [
+    "begin",
+    48.82
+   ],
+   [
+    "with",
+    49.11
+   ]
+  ]
+ },
+ {
+  "s": 49.77,
+  "e": 51.89,
+  "text": "So what makes those cells work overtime?",
+  "words": [
+   [
+    "so",
+    49.77
+   ],
+   [
+    "what",
+    49.9
+   ],
+   [
+    "makes",
+    50.16
+   ],
+   [
+    "those",
+    50.48
+   ],
+   [
+    "cells",
+    50.8
+   ],
+   [
+    "work",
+    51.12
+   ],
+   [
+    "overtime",
+    51.38
+   ]
+  ]
+ },
+ {
+  "s": 52.36,
+  "e": 53.04,
+  "text": "Sunlight.",
+  "words": [
+   [
+    "sunlight",
+    52.36
+   ]
+  ]
+ },
+ {
+  "s": 53.38,
+  "e": 55.3,
+  "text": "When ultraviolet light hits your skin,",
+  "words": [
+   [
+    "when",
+    53.38
+   ],
+   [
+    "ultraviolet",
+    53.62
+   ],
+   [
+    "light",
+    54.28
+   ],
+   [
+    "hits",
+    54.58
+   ],
+   [
+    "your",
+    54.82
+   ],
+   [
+    "skin",
+    55.06
+   ]
+  ]
+ },
+ {
+  "s": 55.71,
+  "e": 57.97,
+  "text": "it switches your melanocytes into high gear.",
+  "words": [
+   [
+    "it",
+    55.71
+   ],
+   [
+    "switches",
+    55.83
+   ],
+   [
+    "your",
+    56.32
+   ],
+   [
+    "melanocytes",
+    56.56
+   ],
+   [
+    "into",
+    57.23
+   ],
+   [
+    "high",
+    57.48
+   ],
+   [
+    "gear",
+    57.72
+   ]
+  ]
+ },
+ {
+  "s": 58.32,
+  "e": 60.18,
+  "text": "Melanin is your body's sunshade.",
+  "words": [
+   [
+    "melanin",
+    58.32
+   ],
+   [
+    "is",
+    58.82
+   ],
+   [
+    "your",
+    58.96
+   ],
+   [
+    "bodys",
+    59.25
+   ],
+   [
+    "sunshade",
+    59.61
+   ]
+  ]
+ },
+ {
+  "s": 60.53,
+  "e": 63.67,
+  "text": "It soaks up UV light before it can damage your DNA.",
+  "words": [
+   [
+    "it",
+    60.53
+   ],
+   [
+    "soaks",
+    60.69
+   ],
+   [
+    "up",
+    61.08
+   ],
+   [
+    "uv",
+    61.23
+   ],
+   [
+    "light",
+    61.39
+   ],
+   [
+    "before",
+    61.78
+   ],
+   [
+    "it",
+    62.25
+   ],
+   [
+    "can",
+    62.41
+   ],
+   [
+    "damage",
+    62.65
+   ],
+   [
+    "your",
+    63.12
+   ],
+   [
+    "dna",
+    63.43
+   ]
+  ]
+ },
+ {
+  "s": 64.07,
+  "e": 67.24,
+  "text": "In most skin, that extra melanin spreads out evenly,",
+  "words": [
+   [
+    "in",
+    64.07
+   ],
+   [
+    "most",
+    64.22
+   ],
+   [
+    "skin",
+    64.52
+   ],
+   [
+    "that",
+    64.82
+   ],
+   [
+    "extra",
+    65.13
+   ],
+   [
+    "melanin",
+    65.5
+   ],
+   [
+    "spreads",
+    66.03
+   ],
+   [
+    "out",
+    66.56
+   ],
+   [
+    "evenly",
+    66.79
+   ]
+  ]
+ },
+ {
+  "s": 67.57,
+  "e": 68.46,
+  "text": "and you get a tan.",
+  "words": [
+   [
+    "and",
+    67.57
+   ],
+   [
+    "you",
+    67.77
+   ],
+   [
+    "get",
+    67.98
+   ],
+   [
+    "a",
+    68.18
+   ],
+   [
+    "tan",
+    68.25
+   ]
+  ]
+ },
+ {
+  "s": 68.91,
+  "e": 71.72,
+  "text": "But in freckly skin, it piles up in little patches.",
+  "words": [
+   [
+    "but",
+    68.91
+   ],
+   [
+    "in",
+    69.13
+   ],
+   [
+    "freckly",
+    69.27
+   ],
+   [
+    "skin",
+    69.76
+   ],
+   [
+    "it",
+    70.04
+   ],
+   [
+    "piles",
+    70.18
+   ],
+   [
+    "up",
+    70.53
+   ],
+   [
+    "in",
+    70.67
+   ],
+   [
+    "little",
+    70.81
+   ],
+   [
+    "patches",
+    71.23
+   ]
+  ]
+ },
+ {
+  "s": 72.16,
+  "e": 74.1,
+  "text": "That's why freckles darken every summer,",
+  "words": [
+   [
+    "thats",
+    72.16
+   ],
+   [
+    "why",
+    72.45
+   ],
+   [
+    "freckles",
+    72.63
+   ],
+   [
+    "darken",
+    73.1
+   ],
+   [
+    "every",
+    73.45
+   ],
+   [
+    "summer",
+    73.75
+   ]
+  ]
+ },
+ {
+  "s": 74.45,
+  "e": 76.98,
+  "text": "and fade, or even disappear, in winter.",
+  "words": [
+   [
+    "and",
+    74.45
+   ],
+   [
+    "fade",
+    74.7
+   ],
+   [
+    "or",
+    75.04
+   ],
+   [
+    "even",
+    75.21
+   ],
+   [
+    "disappear",
+    75.54
+   ],
+   [
+    "in",
+    76.3
+   ],
+   [
+    "winter",
+    76.47
+   ]
+  ]
+ },
+ {
+  "s": 77.43,
+  "e": 79.7,
+  "text": "And it's why babies, who've barely seen the sun,",
+  "words": [
+   [
+    "and",
+    77.43
+   ],
+   [
+    "its",
+    77.62
+   ],
+   [
+    "why",
+    77.81
+   ],
+   [
+    "babies",
+    78.0
+   ],
+   [
+    "whove",
+    78.38
+   ],
+   [
+    "barely",
+    78.69
+   ],
+   [
+    "seen",
+    79.07
+   ],
+   [
+    "the",
+    79.32
+   ],
+   [
+    "sun",
+    79.51
+   ]
+  ]
+ },
+ {
+  "s": 79.93,
+  "e": 80.81,
+  "text": "don't have any yet.",
+  "words": [
+   [
+    "dont",
+    79.93
+   ],
+   [
+    "have",
+    80.18
+   ],
+   [
+    "any",
+    80.43
+   ],
+   [
+    "yet",
+    80.62
+   ]
+  ]
+ },
+ {
+  "s": 81.26,
+  "e": 83.25,
+  "text": "But two kids can play in the same sun,",
+  "words": [
+   [
+    "but",
+    81.26
+   ],
+   [
+    "two",
+    81.47
+   ],
+   [
+    "kids",
+    81.67
+   ],
+   [
+    "can",
+    81.95
+   ],
+   [
+    "play",
+    82.15
+   ],
+   [
+    "in",
+    82.43
+   ],
+   [
+    "the",
+    82.56
+   ],
+   [
+    "same",
+    82.77
+   ],
+   [
+    "sun",
+    83.04
+   ]
+  ]
+ },
+ {
+  "s": 83.6,
+  "e": 85.81,
+  "text": "and only one ends up covered in freckles.",
+  "words": [
+   [
+    "and",
+    83.6
+   ],
+   [
+    "only",
+    83.8
+   ],
+   [
+    "one",
+    84.07
+   ],
+   [
+    "ends",
+    84.27
+   ],
+   [
+    "up",
+    84.54
+   ],
+   [
+    "covered",
+    84.67
+   ],
+   [
+    "in",
+    85.14
+   ],
+   [
+    "freckles",
+    85.28
+   ]
+  ]
+ },
+ {
+  "s": 86.18,
+  "e": 87.52,
+  "text": "That's where your genes come in.",
+  "words": [
+   [
+    "thats",
+    86.18
+   ],
+   [
+    "where",
+    86.45
+   ],
+   [
+    "your",
+    86.72
+   ],
+   [
+    "genes",
+    86.93
+   ],
+   [
+    "come",
+    87.2
+   ],
+   [
+    "in",
+    87.42
+   ]
+  ]
+ },
+ {
+  "s": 87.98,
+  "e": 90.36,
+  "text": "The big one is a gene called MC1R.",
+  "words": [
+   [
+    "the",
+    87.98
+   ],
+   [
+    "big",
+    88.26
+   ],
+   [
+    "one",
+    88.53
+   ],
+   [
+    "is",
+    88.81
+   ],
+   [
+    "a",
+    88.99
+   ],
+   [
+    "gene",
+    89.08
+   ],
+   [
+    "called",
+    89.45
+   ],
+   [
+    "mc1r",
+    90.0
+   ]
+  ]
+ },
+ {
+  "s": 90.75,
+  "e": 93.06,
+  "text": "Think of it as a switch on every melanocyte.",
+  "words": [
+   [
+    "think",
+    90.75
+   ],
+   [
+    "of",
+    91.08
+   ],
+   [
+    "it",
+    91.21
+   ],
+   [
+    "as",
+    91.34
+   ],
+   [
+    "a",
+    91.47
+   ],
+   [
+    "switch",
+    91.54
+   ],
+   [
+    "on",
+    91.94
+   ],
+   [
+    "every",
+    92.07
+   ],
+   [
+    "melanocyte",
+    92.4
+   ]
+  ]
+ },
+ {
+  "s": 93.51,
+  "e": 94.5,
+  "text": "When it works normally,",
+  "words": [
+   [
+    "when",
+    93.51
+   ],
+   [
+    "it",
+    93.72
+   ],
+   [
+    "works",
+    93.82
+   ],
+   [
+    "normally",
+    94.08
+   ]
+  ]
+ },
+ {
+  "s": 94.81,
+  "e": 96.06,
+  "text": "the cell makes eumelanin,",
+  "words": [
+   [
+    "the",
+    94.81
+   ],
+   [
+    "cell",
+    94.99
+   ],
+   [
+    "makes",
+    95.23
+   ],
+   [
+    "eumelanin",
+    95.52
+   ]
+  ]
+ },
+ {
+  "s": 96.45,
+  "e": 99.2,
+  "text": "a dark brown pigment that's great at blocking sun.",
+  "words": [
+   [
+    "a",
+    96.45
+   ],
+   [
+    "dark",
+    96.52
+   ],
+   [
+    "brown",
+    96.79
+   ],
+   [
+    "pigment",
+    97.14
+   ],
+   [
+    "thats",
+    97.62
+   ],
+   [
+    "great",
+    97.96
+   ],
+   [
+    "at",
+    98.31
+   ],
+   [
+    "blocking",
+    98.44
+   ],
+   [
+    "sun",
+    98.99
+   ]
+  ]
+ },
+ {
+  "s": 99.62,
+  "e": 103.13,
+  "text": "But scientists have found more than 80 versions of MC1R.",
+  "words": [
+   [
+    "but",
+    99.62
+   ],
+   [
+    "scientists",
+    99.85
+   ],
+   [
+    "have",
+    100.61
+   ],
+   [
+    "found",
+    100.92
+   ],
+   [
+    "more",
+    101.3
+   ],
+   [
+    "than",
+    101.61
+   ],
+   [
+    "80",
+    101.91
+   ],
+   [
+    "versions",
+    102.06
+   ],
+   [
+    "of",
+    102.67
+   ],
+   [
+    "mc1r",
+    102.82
+   ]
+  ]
+ },
+ {
+  "s": 103.48,
+  "e": 104.89,
+  "text": "And some of them are ancient.",
+  "words": [
+   [
+    "and",
+    103.48
+   ],
+   [
+    "some",
+    103.67
+   ],
+   [
+    "of",
+    103.91
+   ],
+   [
+    "them",
+    104.03
+   ],
+   [
+    "are",
+    104.28
+   ],
+   [
+    "ancient",
+    104.46
+   ]
+  ]
+ },
+ {
+  "s": 105.31,
+  "e": 107.83,
+  "text": "One may date back around 80,000 years.",
+  "words": [
+   [
+    "one",
+    105.31
+   ],
+   [
+    "may",
+    105.56
+   ],
+   [
+    "date",
+    105.81
+   ],
+   [
+    "back",
+    106.15
+   ],
+   [
+    "around",
+    106.49
+   ],
+   [
+    "80000",
+    106.99
+   ],
+   [
+    "years",
+    107.41
+   ]
+  ]
+ },
+ {
+  "s": 108.27,
+  "e": 111.07,
+  "text": "Some of them flip the switch toward pheomelanin instead,",
+  "words": [
+   [
+    "some",
+    108.27
+   ],
+   [
+    "of",
+    108.51
+   ],
+   [
+    "them",
+    108.63
+   ],
+   [
+    "flip",
+    108.87
+   ],
+   [
+    "the",
+    109.11
+   ],
+   [
+    "switch",
+    109.29
+   ],
+   [
+    "toward",
+    109.64
+   ],
+   [
+    "pheomelanin",
+    110.0
+   ],
+   [
+    "instead",
+    110.66
+   ]
+  ]
+ },
+ {
+  "s": 111.54,
+  "e": 114.27,
+  "text": "a reddish yellow pigment that protects much less.",
+  "words": [
+   [
+    "a",
+    111.54
+   ],
+   [
+    "reddish",
+    111.61
+   ],
+   [
+    "yellow",
+    112.07
+   ],
+   [
+    "pigment",
+    112.47
+   ],
+   [
+    "that",
+    112.94
+   ],
+   [
+    "protects",
+    113.2
+   ],
+   [
+    "much",
+    113.74
+   ],
+   [
+    "less",
+    114.0
+   ]
+  ]
+ },
+ {
+  "s": 114.69,
+  "e": 116.95,
+  "text": "Those same versions are behind red hair.",
+  "words": [
+   [
+    "those",
+    114.69
+   ],
+   [
+    "same",
+    115.03
+   ],
+   [
+    "versions",
+    115.3
+   ],
+   [
+    "are",
+    115.85
+   ],
+   [
+    "behind",
+    116.06
+   ],
+   [
+    "red",
+    116.47
+   ],
+   [
+    "hair",
+    116.67
+   ]
+  ]
+ },
+ {
+  "s": 117.31,
+  "e": 118.94,
+  "text": "Most redheads carry two of them,",
+  "words": [
+   [
+    "most",
+    117.31
+   ],
+   [
+    "redheads",
+    117.56
+   ],
+   [
+    "carry",
+    118.06
+   ],
+   [
+    "two",
+    118.37
+   ],
+   [
+    "of",
+    118.56
+   ],
+   [
+    "them",
+    118.69
+   ]
+  ]
+ },
+ {
+  "s": 119.28,
+  "e": 120.94,
+  "text": "and almost all carry at least one.",
+  "words": [
+   [
+    "and",
+    119.28
+   ],
+   [
+    "almost",
+    119.46
+   ],
+   [
+    "all",
+    119.83
+   ],
+   [
+    "carry",
+    120.02
+   ],
+   [
+    "at",
+    120.32
+   ],
+   [
+    "least",
+    120.45
+   ],
+   [
+    "one",
+    120.75
+   ]
+  ]
+ },
+ {
+  "s": 121.33,
+  "e": 124.1,
+  "text": "That's why red hair and freckles so often go together.",
+  "words": [
+   [
+    "thats",
+    121.33
+   ],
+   [
+    "why",
+    121.65
+   ],
+   [
+    "red",
+    121.84
+   ],
+   [
+    "hair",
+    122.04
+   ],
+   [
+    "and",
+    122.29
+   ],
+   [
+    "freckles",
+    122.49
+   ],
+   [
+    "so",
+    123.0
+   ],
+   [
+    "often",
+    123.13
+   ],
+   [
+    "go",
+    123.46
+   ],
+   [
+    "together",
+    123.58
+   ]
+  ]
+ },
+ {
+  "s": 124.53,
+  "e": 127.06,
+  "text": "Still, one copy doesn't guarantee freckles.",
+  "words": [
+   [
+    "still",
+    124.53
+   ],
+   [
+    "one",
+    124.89
+   ],
+   [
+    "copy",
+    125.11
+   ],
+   [
+    "doesnt",
+    125.4
+   ],
+   [
+    "guarantee",
+    125.83
+   ],
+   [
+    "freckles",
+    126.48
+   ]
+  ]
+ },
+ {
+  "s": 127.53,
+  "e": 130.17,
+  "text": "Some people without these versions freckle anyway,",
+  "words": [
+   [
+    "some",
+    127.53
+   ],
+   [
+    "people",
+    127.78
+   ],
+   [
+    "without",
+    128.15
+   ],
+   [
+    "these",
+    128.58
+   ],
+   [
+    "versions",
+    128.88
+   ],
+   [
+    "freckle",
+    129.37
+   ],
+   [
+    "anyway",
+    129.8
+   ]
+  ]
+ },
+ {
+  "s": 130.6,
+  "e": 132.83,
+  "text": "because lots of other genes play a part too.",
+  "words": [
+   [
+    "because",
+    130.6
+   ],
+   [
+    "lots",
+    131.05
+   ],
+   [
+    "of",
+    131.3
+   ],
+   [
+    "other",
+    131.43
+   ],
+   [
+    "genes",
+    131.75
+   ],
+   [
+    "play",
+    132.07
+   ],
+   [
+    "a",
+    132.32
+   ],
+   [
+    "part",
+    132.38
+   ],
+   [
+    "too",
+    132.64
+   ]
+  ]
+ },
+ {
+  "s": 133.29,
+  "e": 135.59,
+  "text": "Now, not every brown spot is a freckle.",
+  "words": [
+   [
+    "now",
+    133.29
+   ],
+   [
+    "not",
+    133.52
+   ],
+   [
+    "every",
+    133.75
+   ],
+   [
+    "brown",
+    134.13
+   ],
+   [
+    "spot",
+    134.52
+   ],
+   [
+    "is",
+    134.82
+   ],
+   [
+    "a",
+    134.97
+   ],
+   [
+    "freckle",
+    135.05
+   ]
+  ]
+ },
+ {
+  "s": 136.07,
+  "e": 138.23,
+  "text": "Doctors call real freckles ephelides.",
+  "words": [
+   [
+    "doctors",
+    136.07
+   ],
+   [
+    "call",
+    136.54
+   ],
+   [
+    "real",
+    136.81
+   ],
+   [
+    "freckles",
+    137.08
+   ],
+   [
+    "ephelides",
+    137.62
+   ]
+  ]
+ },
+ {
+  "s": 138.65,
+  "e": 140.91,
+  "text": "Real freckles come and go with the seasons,",
+  "words": [
+   [
+    "real",
+    138.65
+   ],
+   [
+    "freckles",
+    138.91
+   ],
+   [
+    "come",
+    139.43
+   ],
+   [
+    "and",
+    139.68
+   ],
+   [
+    "go",
+    139.88
+   ],
+   [
+    "with",
+    140.01
+   ],
+   [
+    "the",
+    140.26
+   ],
+   [
+    "seasons",
+    140.46
+   ]
+  ]
+ },
+ {
+  "s": 141.27,
+  "e": 142.92,
+  "text": "and many fade as you get older.",
+  "words": [
+   [
+    "and",
+    141.27
+   ],
+   [
+    "many",
+    141.48
+   ],
+   [
+    "fade",
+    141.75
+   ],
+   [
+    "as",
+    142.03
+   ],
+   [
+    "you",
+    142.17
+   ],
+   [
+    "get",
+    142.37
+   ],
+   [
+    "older",
+    142.58
+   ]
+  ]
+ },
+ {
+  "s": 143.36,
+  "e": 146.18,
+  "text": "Sun spots, or solar lentigines, are different.",
+  "words": [
+   [
+    "sun",
+    143.36
+   ],
+   [
+    "spots",
+    143.59
+   ],
+   [
+    "or",
+    143.97
+   ],
+   [
+    "solar",
+    144.12
+   ],
+   [
+    "lentigines",
+    144.5
+   ],
+   [
+    "are",
+    145.26
+   ],
+   [
+    "different",
+    145.49
+   ]
+  ]
+ },
+ {
+  "s": 146.59,
+  "e": 148.9,
+  "text": "They're larger, they show up in middle age,",
+  "words": [
+   [
+    "theyre",
+    146.59
+   ],
+   [
+    "larger",
+    147.01
+   ],
+   [
+    "they",
+    147.43
+   ],
+   [
+    "show",
+    147.71
+   ],
+   [
+    "up",
+    147.99
+   ],
+   [
+    "in",
+    148.13
+   ],
+   [
+    "middle",
+    148.27
+   ],
+   [
+    "age",
+    148.69
+   ]
+  ]
+ },
+ {
+  "s": 149.01,
+  "e": 150.02,
+  "text": "after years of sun,",
+  "words": [
+   [
+    "after",
+    149.01
+   ],
+   [
+    "years",
+    149.35
+   ],
+   [
+    "of",
+    149.69
+   ],
+   [
+    "sun",
+    149.82
+   ]
+  ]
+ },
+ {
+  "s": 150.37,
+  "e": 152.04,
+  "text": "and they stay put all winter long.",
+  "words": [
+   [
+    "and",
+    150.37
+   ],
+   [
+    "they",
+    150.56
+   ],
+   [
+    "stay",
+    150.8
+   ],
+   [
+    "put",
+    151.05
+   ],
+   [
+    "all",
+    151.24
+   ],
+   [
+    "winter",
+    151.42
+   ],
+   [
+    "long",
+    151.79
+   ]
+  ]
+ },
+ {
+  "s": 152.49,
+  "e": 156.45,
+  "text": "Under a microscope, sun spots really do have extra pigment cells.",
+  "words": [
+   [
+    "under",
+    152.49
+   ],
+   [
+    "a",
+    152.86
+   ],
+   [
+    "microscope",
+    152.93
+   ],
+   [
+    "sun",
+    153.68
+   ],
+   [
+    "spots",
+    153.91
+   ],
+   [
+    "really",
+    154.28
+   ],
+   [
+    "do",
+    154.73
+   ],
+   [
+    "have",
+    154.88
+   ],
+   [
+    "extra",
+    155.18
+   ],
+   [
+    "pigment",
+    155.55
+   ],
+   [
+    "cells",
+    156.08
+   ]
+  ]
+ },
+ {
+  "s": 156.84,
+  "e": 158.31,
+  "text": "So what do freckles tell you?",
+  "words": [
+   [
+    "so",
+    156.84
+   ],
+   [
+    "what",
+    156.96
+   ],
+   [
+    "do",
+    157.22
+   ],
+   [
+    "freckles",
+    157.35
+   ],
+   [
+    "tell",
+    157.86
+   ],
+   [
+    "you",
+    158.12
+   ]
+  ]
+ },
+ {
+  "s": 158.86,
+  "e": 162.46,
+  "text": "Freckly skin usually makes less of that protective brown melanin,",
+  "words": [
+   [
+    "freckly",
+    158.86
+   ],
+   [
+    "skin",
+    159.32
+   ],
+   [
+    "usually",
+    159.58
+   ],
+   [
+    "makes",
+    160.04
+   ],
+   [
+    "less",
+    160.37
+   ],
+   [
+    "of",
+    160.63
+   ],
+   [
+    "that",
+    160.76
+   ],
+   [
+    "protective",
+    161.02
+   ],
+   [
+    "brown",
+    161.68
+   ],
+   [
+    "melanin",
+    162.01
+   ]
+  ]
+ },
+ {
+  "s": 162.84,
+  "e": 164.31,
+  "text": "so it burns more easily.",
+  "words": [
+   [
+    "so",
+    162.84
+   ],
+   [
+    "it",
+    163.0
+   ],
+   [
+    "burns",
+    163.15
+   ],
+   [
+    "more",
+    163.54
+   ],
+   [
+    "easily",
+    163.85
+   ]
+  ]
+ },
+ {
+  "s": 164.75,
+  "e": 167.03,
+  "text": "That's why skin doctors tell freckly people,",
+  "words": [
+   [
+    "thats",
+    164.75
+   ],
+   [
+    "why",
+    165.07
+   ],
+   [
+    "skin",
+    165.26
+   ],
+   [
+    "doctors",
+    165.51
+   ],
+   [
+    "tell",
+    165.95
+   ],
+   [
+    "freckly",
+    166.21
+   ],
+   [
+    "people",
+    166.65
+   ]
+  ]
+ },
+ {
+  "s": 167.36,
+  "e": 169.28,
+  "text": "to be extra careful with sunscreen.",
+  "words": [
+   [
+    "to",
+    167.36
+   ],
+   [
+    "be",
+    167.49
+   ],
+   [
+    "extra",
+    167.62
+   ],
+   [
+    "careful",
+    167.96
+   ],
+   [
+    "with",
+    168.42
+   ],
+   [
+    "sunscreen",
+    168.68
+   ]
+  ]
+ },
+ {
+  "s": 169.69,
+  "e": 171.53,
+  "text": "So freckles aren't random dots.",
+  "words": [
+   [
+    "so",
+    169.69
+   ],
+   [
+    "freckles",
+    169.84
+   ],
+   [
+    "arent",
+    170.43
+   ],
+   [
+    "random",
+    170.8
+   ],
+   [
+    "dots",
+    171.24
+   ]
+  ]
+ },
+ {
+  "s": 171.88,
+  "e": 173.53,
+  "text": "They're tiny patches of sunshade,",
+  "words": [
+   [
+    "theyre",
+    171.88
+   ],
+   [
+    "tiny",
+    172.25
+   ],
+   [
+    "patches",
+    172.49
+   ],
+   [
+    "of",
+    172.92
+   ],
+   [
+    "sunshade",
+    173.04
+   ]
+  ]
+ },
+ {
+  "s": 173.87,
+  "e": 175.17,
+  "text": "switched on extra hard,",
+  "words": [
+   [
+    "switched",
+    173.87
+   ],
+   [
+    "on",
+    174.42
+   ],
+   [
+    "extra",
+    174.56
+   ],
+   [
+    "hard",
+    174.9
+   ]
+  ]
+ },
+ {
+  "s": 175.47,
+  "e": 177.44,
+  "text": "mostly thanks to one tiny gene.",
+  "words": [
+   [
+    "mostly",
+    175.47
+   ],
+   [
+    "thanks",
+    175.94
+   ],
+   [
+    "to",
+    176.42
+   ],
+   [
+    "one",
+    176.57
+   ],
+   [
+    "tiny",
+    176.81
+   ],
+   [
+    "gene",
+    177.12
+   ]
+  ]
+ },
+ {
+  "s": 177.87,
+  "e": 179.69,
+  "text": "Next up, how do your lungs breathe,",
+  "words": [
+   [
+    "next",
+    177.87
+   ],
+   [
+    "up",
+    178.14
+   ],
+   [
+    "how",
+    178.27
+   ],
+   [
+    "do",
+    178.47
+   ],
+   [
+    "your",
+    178.61
+   ],
+   [
+    "lungs",
+    178.88
+   ],
+   [
+    "breathe",
+    179.22
+   ]
+  ]
+ },
+ {
+  "s": 180.05,
+  "e": 181.76,
+  "text": "more than 20,000 times a day?",
+  "words": [
+   [
+    "more",
+    180.05
+   ],
+   [
+    "than",
+    180.36
+   ],
+   [
+    "20000",
+    180.67
+   ],
+   [
+    "times",
+    181.06
+   ],
+   [
+    "a",
+    181.45
+   ],
+   [
+    "day",
+    181.52
+   ]
+  ]
+ }
+]
