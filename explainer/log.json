@@ -1503,5 +1503,19 @@
   "hook_score": 44,
   "title_score": 100,
   "notes": "unattended run, no storyboard step; 5 chapters, 34 scenes + teaser (next: L032 lungs); voice af_heart; built on the jellyfish cut-paper toolbox"
+ },
+ {
+  "date": "2026-11-18",
+  "id": "20261118-lobster-growth",
+  "kind": "short",
+  "style": "Low-Poly Faceted",
+  "topic": "Why do lobsters never stop growing?",
+  "title": "Lobsters Never Stop Growing. One Hit 44 Pounds 🦞",
+  "seconds": 54.2,
+  "words": 134,
+  "sheet_id": "S105",
+  "hook_score": 60,
+  "title_score": 98,
+  "notes": "unattended run, no storyboard step; 7 scenes (hook, moult, 25 molts, telomerase cells, 20 kg record, the catch, question); voice am_michael; built on the mantis-shrimp low-poly toolbox; added trend rows S107-S108"
  }
 ]

@@ -1,0 +1,706 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.07,
+  "text": "Lobsters never stop growing.",
+  "words": [
+   [
+    "lobsters",
+    0.25
+   ],
+   [
+    "never",
+    0.86
+   ],
+   [
+    "stop",
+    1.23
+   ],
+   [
+    "growing",
+    1.54
+   ]
+  ]
+ },
+ {
+  "s": 2.4,
+  "e": 4.66,
+  "text": "So why don't you see 40-pound ones?",
+  "words": [
+   [
+    "so",
+    2.4
+   ],
+   [
+    "why",
+    2.58
+   ],
+   [
+    "dont",
+    2.84
+   ],
+   [
+    "you",
+    3.19
+   ],
+   [
+    "see",
+    3.45
+   ],
+   [
+    "40pound",
+    3.71
+   ],
+   [
+    "ones",
+    4.32
+   ]
+  ]
+ },
+ {
+  "s": 5.21,
+  "e": 8.1,
+  "text": "First, a lobster lives inside hard armor.",
+  "words": [
+   [
+    "first",
+    5.21
+   ],
+   [
+    "a",
+    5.65
+   ],
+   [
+    "lobster",
+    5.73
+   ],
+   [
+    "lives",
+    6.35
+   ],
+   [
+    "inside",
+    6.79
+   ],
+   [
+    "hard",
+    7.31
+   ],
+   [
+    "armor",
+    7.66
+   ]
+  ]
+ },
+ {
+  "s": 8.52,
+  "e": 10.68,
+  "text": "To get bigger, it climbs right out of it.",
+  "words": [
+   [
+    "to",
+    8.52
+   ],
+   [
+    "get",
+    8.66
+   ],
+   [
+    "bigger",
+    8.87
+   ],
+   [
+    "it",
+    9.29
+   ],
+   [
+    "climbs",
+    9.43
+   ],
+   [
+    "right",
+    9.85
+   ],
+   [
+    "out",
+    10.19
+   ],
+   [
+    "of",
+    10.4
+   ],
+   [
+    "it",
+    10.54
+   ]
+  ]
+ },
+ {
+  "s": 11.03,
+  "e": 13.16,
+  "text": "The old shell splits open across the back",
+  "words": [
+   [
+    "the",
+    11.03
+   ],
+   [
+    "old",
+    11.22
+   ],
+   [
+    "shell",
+    11.41
+   ],
+   [
+    "splits",
+    11.72
+   ],
+   [
+    "open",
+    12.1
+   ],
+   [
+    "across",
+    12.35
+   ],
+   [
+    "the",
+    12.72
+   ],
+   [
+    "back",
+    12.91
+   ]
+  ]
+ },
+ {
+  "s": 13.24,
+  "e": 15.68,
+  "text": "and the lobster wriggles free,",
+  "words": [
+   [
+    "and",
+    13.24
+   ],
+   [
+    "the",
+    13.53
+   ],
+   [
+    "lobster",
+    13.83
+   ],
+   [
+    "wriggles",
+    14.51
+   ],
+   [
+    "free",
+    15.29
+   ]
+  ]
+ },
+ {
+  "s": 15.75,
+  "e": 16.72,
+  "text": "claws, legs and all.",
+  "words": [
+   [
+    "claws",
+    15.75
+   ],
+   [
+    "legs",
+    16.07
+   ],
+   [
+    "and",
+    16.33
+   ],
+   [
+    "all",
+    16.52
+   ]
+  ]
+ },
+ {
+  "s": 17.15,
+  "e": 19.3,
+  "text": "Then it gulps seawater and swells up",
+  "words": [
+   [
+    "then",
+    17.15
+   ],
+   [
+    "it",
+    17.44
+   ],
+   [
+    "gulps",
+    17.58
+   ],
+   [
+    "seawater",
+    17.94
+   ],
+   [
+    "and",
+    18.51
+   ],
+   [
+    "swells",
+    18.73
+   ],
+   [
+    "up",
+    19.16
+   ]
+  ]
+ },
+ {
+  "s": 19.4,
+  "e": 21.21,
+  "text": "before the new soft shell hardens.",
+  "words": [
+   [
+    "before",
+    19.4
+   ],
+   [
+    "the",
+    19.79
+   ],
+   [
+    "new",
+    19.98
+   ],
+   [
+    "soft",
+    20.17
+   ],
+   [
+    "shell",
+    20.43
+   ],
+   [
+    "hardens",
+    20.75
+   ]
+  ]
+ },
+ {
+  "s": 21.6,
+  "e": 24.04,
+  "text": "A young lobster molts about 25 times",
+  "words": [
+   [
+    "a",
+    21.6
+   ],
+   [
+    "young",
+    21.69
+   ],
+   [
+    "lobster",
+    22.09
+   ],
+   [
+    "molts",
+    22.66
+   ],
+   [
+    "about",
+    23.07
+   ],
+   [
+    "25",
+    23.47
+   ],
+   [
+    "times",
+    23.64
+   ]
+  ]
+ },
+ {
+  "s": 24.1,
+  "e": 25.96,
+  "text": "in its first few years.",
+  "words": [
+   [
+    "in",
+    24.1
+   ],
+   [
+    "its",
+    24.31
+   ],
+   [
+    "first",
+    24.62
+   ],
+   [
+    "few",
+    25.14
+   ],
+   [
+    "years",
+    25.45
+   ]
+  ]
+ },
+ {
+  "s": 26.4,
+  "e": 27.81,
+  "text": "And deep in its cells",
+  "words": [
+   [
+    "and",
+    26.4
+   ],
+   [
+    "deep",
+    26.65
+   ],
+   [
+    "in",
+    26.98
+   ],
+   [
+    "its",
+    27.15
+   ],
+   [
+    "cells",
+    27.4
+   ]
+  ]
+ },
+ {
+  "s": 27.89,
+  "e": 29.6,
+  "text": "an enzyme called telomerase",
+  "words": [
+   [
+    "an",
+    27.89
+   ],
+   [
+    "enzyme",
+    28.04
+   ],
+   [
+    "called",
+    28.46
+   ],
+   [
+    "telomerase",
+    28.89
+   ]
+  ]
+ },
+ {
+  "s": 29.67,
+  "e": 31.28,
+  "text": "keeps repairing their DNA,",
+  "words": [
+   [
+    "keeps",
+    29.67
+   ],
+   [
+    "repairing",
+    30.04
+   ],
+   [
+    "their",
+    30.7
+   ],
+   [
+    "dna",
+    31.06
+   ]
+  ]
+ },
+ {
+  "s": 31.85,
+  "e": 33.4,
+  "text": "so the cells keep dividing.",
+  "words": [
+   [
+    "so",
+    31.85
+   ],
+   [
+    "the",
+    31.99
+   ],
+   [
+    "cells",
+    32.21
+   ],
+   [
+    "keep",
+    32.56
+   ],
+   [
+    "dividing",
+    32.84
+   ]
+  ]
+ },
+ {
+  "s": 33.8,
+  "e": 36.2,
+  "text": "That's how one lobster in Nova Scotia",
+  "words": [
+   [
+    "thats",
+    33.8
+   ],
+   [
+    "how",
+    34.2
+   ],
+   [
+    "one",
+    34.44
+   ],
+   [
+    "lobster",
+    34.68
+   ],
+   [
+    "in",
+    35.24
+   ],
+   [
+    "nova",
+    35.4
+   ],
+   [
+    "scotia",
+    35.72
+   ]
+  ]
+ },
+ {
+  "s": 36.6,
+  "e": 37.98,
+  "text": "grew to 20 kilograms.",
+  "words": [
+   [
+    "grew",
+    36.6
+   ],
+   [
+    "to",
+    36.93
+   ],
+   [
+    "20",
+    37.09
+   ],
+   [
+    "kilograms",
+    37.25
+   ]
+  ]
+ },
+ {
+  "s": 38.45,
+  "e": 39.98,
+  "text": "That's 44 pounds!",
+  "words": [
+   [
+    "thats",
+    38.45
+   ],
+   [
+    "44",
+    39.04
+   ],
+   [
+    "pounds",
+    39.28
+   ]
+  ]
+ },
+ {
+  "s": 40.28,
+  "e": 41.44,
+  "text": "But here's the catch.",
+  "words": [
+   [
+    "but",
+    40.28
+   ],
+   [
+    "heres",
+    40.49
+   ],
+   [
+    "the",
+    40.86
+   ],
+   [
+    "catch",
+    41.08
+   ]
+  ]
+ },
+ {
+  "s": 41.81,
+  "e": 43.67,
+  "text": "Every molt costs more energy.",
+  "words": [
+   [
+    "every",
+    41.81
+   ],
+   [
+    "molt",
+    42.19
+   ],
+   [
+    "costs",
+    42.51
+   ],
+   [
+    "more",
+    42.89
+   ],
+   [
+    "energy",
+    43.2
+   ]
+  ]
+ },
+ {
+  "s": 44.11,
+  "e": 47.22,
+  "text": "Some old lobsters die of exhaustion mid-molt.",
+  "words": [
+   [
+    "some",
+    44.11
+   ],
+   [
+    "old",
+    44.45
+   ],
+   [
+    "lobsters",
+    44.7
+   ],
+   [
+    "die",
+    45.37
+   ],
+   [
+    "of",
+    45.63
+   ],
+   [
+    "exhaustion",
+    45.79
+   ],
+   [
+    "midmolt",
+    46.63
+   ]
+  ]
+ },
+ {
+  "s": 47.57,
+  "e": 48.91,
+  "text": "Others just stop molting,",
+  "words": [
+   [
+    "others",
+    47.57
+   ],
+   [
+    "just",
+    47.95
+   ],
+   [
+    "stop",
+    48.21
+   ],
+   [
+    "molting",
+    48.46
+   ]
+  ]
+ },
+ {
+  "s": 49.25,
+  "e": 50.66,
+  "text": "stuck in a worn-out shell.",
+  "words": [
+   [
+    "stuck",
+    49.25
+   ],
+   [
+    "in",
+    49.6
+   ],
+   [
+    "a",
+    49.74
+   ],
+   [
+    "wornout",
+    49.81
+   ],
+   [
+    "shell",
+    50.31
+   ]
+  ]
+ },
+ {
+  "s": 51.12,
+  "e": 53.21,
+  "text": "So would you want to keep growing forever?",
+  "words": [
+   [
+    "so",
+    51.12
+   ],
+   [
+    "would",
+    51.25
+   ],
+   [
+    "you",
+    51.55
+   ],
+   [
+    "want",
+    51.74
+   ],
+   [
+    "to",
+    51.98
+   ],
+   [
+    "keep",
+    52.1
+   ],
+   [
+    "growing",
+    52.35
+   ],
+   [
+    "forever",
+    52.78
+   ]
+  ]
+ }
+]
