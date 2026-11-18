@@ -1,0 +1,702 @@
+[
+ {
+  "s": 0.25,
+  "e": 3.41,
+  "text": "Snakes never choke on meals wider than their own heads.",
+  "words": [
+   [
+    "snakes",
+    0.25
+   ],
+   [
+    "never",
+    0.67
+   ],
+   [
+    "choke",
+    1.02
+   ],
+   [
+    "on",
+    1.38
+   ],
+   [
+    "meals",
+    1.52
+   ],
+   [
+    "wider",
+    1.87
+   ],
+   [
+    "than",
+    2.22
+   ],
+   [
+    "their",
+    2.5
+   ],
+   [
+    "own",
+    2.85
+   ],
+   [
+    "heads",
+    3.06
+   ]
+  ]
+ },
+ {
+  "s": 3.77,
+  "e": 5.58,
+  "text": "Your jaw could never. So how?",
+  "words": [
+   [
+    "your",
+    3.77
+   ],
+   [
+    "jaw",
+    4.1
+   ],
+   [
+    "could",
+    4.34
+   ],
+   [
+    "never",
+    4.75
+   ],
+   [
+    "so",
+    5.16
+   ],
+   [
+    "how",
+    5.33
+   ]
+  ]
+ },
+ {
+  "s": 6.04,
+  "e": 6.95,
+  "text": "First, a myth.",
+  "words": [
+   [
+    "first",
+    6.04
+   ],
+   [
+    "a",
+    6.49
+   ],
+   [
+    "myth",
+    6.59
+   ]
+  ]
+ },
+ {
+  "s": 7.3,
+  "e": 9.34,
+  "text": "Snakes don't unhinge their jaws.",
+  "words": [
+   [
+    "snakes",
+    7.3
+   ],
+   [
+    "dont",
+    7.77
+   ],
+   [
+    "unhinge",
+    8.09
+   ],
+   [
+    "their",
+    8.64
+   ],
+   [
+    "jaws",
+    9.03
+   ]
+  ]
+ },
+ {
+  "s": 9.78,
+  "e": 12.91,
+  "text": "The two halves of the lower jaw aren't fused at the chin.",
+  "words": [
+   [
+    "the",
+    9.78
+   ],
+   [
+    "two",
+    9.99
+   ],
+   [
+    "halves",
+    10.21
+   ],
+   [
+    "of",
+    10.63
+   ],
+   [
+    "the",
+    10.78
+   ],
+   [
+    "lower",
+    10.99
+   ],
+   [
+    "jaw",
+    11.35
+   ],
+   [
+    "arent",
+    11.56
+   ],
+   [
+    "fused",
+    11.91
+   ],
+   [
+    "at",
+    12.27
+   ],
+   [
+    "the",
+    12.41
+   ],
+   [
+    "chin",
+    12.63
+   ]
+  ]
+ },
+ {
+  "s": 13.3,
+  "e": 14.94,
+  "text": "A stretchy ligament joins them,",
+  "words": [
+   [
+    "a",
+    13.3
+   ],
+   [
+    "stretchy",
+    13.37
+   ],
+   [
+    "ligament",
+    13.87
+   ],
+   [
+    "joins",
+    14.38
+   ],
+   [
+    "them",
+    14.69
+   ]
+  ]
+ },
+ {
+  "s": 15.35,
+  "e": 17.0,
+  "text": "so they spread wide apart.",
+  "words": [
+   [
+    "so",
+    15.35
+   ],
+   [
+    "they",
+    15.51
+   ],
+   [
+    "spread",
+    15.83
+   ],
+   [
+    "wide",
+    16.3
+   ],
+   [
+    "apart",
+    16.61
+   ]
+  ]
+ },
+ {
+  "s": 17.35,
+  "e": 19.23,
+  "text": "Then each side moves on its own.",
+  "words": [
+   [
+    "then",
+    17.35
+   ],
+   [
+    "each",
+    17.65
+   ],
+   [
+    "side",
+    17.95
+   ],
+   [
+    "moves",
+    18.25
+   ],
+   [
+    "on",
+    18.62
+   ],
+   [
+    "its",
+    18.77
+   ],
+   [
+    "own",
+    19.0
+   ]
+  ]
+ },
+ {
+  "s": 19.69,
+  "e": 21.75,
+  "text": "Left grips, right slides forward,",
+  "words": [
+   [
+    "left",
+    19.69
+   ],
+   [
+    "grips",
+    19.99
+   ],
+   [
+    "right",
+    20.37
+   ],
+   [
+    "slides",
+    20.75
+   ],
+   [
+    "forward",
+    21.21
+   ]
+  ]
+ },
+ {
+  "s": 21.91,
+  "e": 22.82,
+  "text": "then left again.",
+  "words": [
+   [
+    "then",
+    21.91
+   ],
+   [
+    "left",
+    22.19
+   ],
+   [
+    "again",
+    22.47
+   ]
+  ]
+ },
+ {
+  "s": 23.29,
+  "e": 26.11,
+  "text": "The snake basically walks its head over its meal.",
+  "words": [
+   [
+    "the",
+    23.29
+   ],
+   [
+    "snake",
+    23.5
+   ],
+   [
+    "basically",
+    23.86
+   ],
+   [
+    "walks",
+    24.49
+   ],
+   [
+    "its",
+    24.84
+   ],
+   [
+    "head",
+    25.05
+   ],
+   [
+    "over",
+    25.34
+   ],
+   [
+    "its",
+    25.62
+   ],
+   [
+    "meal",
+    25.83
+   ]
+  ]
+ },
+ {
+  "s": 26.58,
+  "e": 29.06,
+  "text": "But with a mouth that full, how does it breathe?",
+  "words": [
+   [
+    "but",
+    26.58
+   ],
+   [
+    "with",
+    26.78
+   ],
+   [
+    "a",
+    27.04
+   ],
+   [
+    "mouth",
+    27.11
+   ],
+   [
+    "that",
+    27.45
+   ],
+   [
+    "full",
+    27.71
+   ],
+   [
+    "how",
+    27.98
+   ],
+   [
+    "does",
+    28.18
+   ],
+   [
+    "it",
+    28.45
+   ],
+   [
+    "breathe",
+    28.59
+   ]
+  ]
+ },
+ {
+  "s": 29.63,
+  "e": 32.19,
+  "text": "Its windpipe opening sits low in the mouth,",
+  "words": [
+   [
+    "its",
+    29.63
+   ],
+   [
+    "windpipe",
+    29.85
+   ],
+   [
+    "opening",
+    30.44
+   ],
+   [
+    "sits",
+    30.95
+   ],
+   [
+    "low",
+    31.24
+   ],
+   [
+    "in",
+    31.46
+   ],
+   [
+    "the",
+    31.61
+   ],
+   [
+    "mouth",
+    31.82
+   ]
+  ]
+ },
+ {
+  "s": 32.64,
+  "e": 34.9,
+  "text": "and it can push forward and off to the side,",
+  "words": [
+   [
+    "and",
+    32.64
+   ],
+   [
+    "it",
+    32.84
+   ],
+   [
+    "can",
+    32.97
+   ],
+   [
+    "push",
+    33.17
+   ],
+   [
+    "forward",
+    33.44
+   ],
+   [
+    "and",
+    33.9
+   ],
+   [
+    "off",
+    34.1
+   ],
+   [
+    "to",
+    34.3
+   ],
+   [
+    "the",
+    34.44
+   ],
+   [
+    "side",
+    34.63
+   ]
+  ]
+ },
+ {
+  "s": 35.3,
+  "e": 36.75,
+  "text": "like a built-in snorkel.",
+  "words": [
+   [
+    "like",
+    35.3
+   ],
+   [
+    "a",
+    35.61
+   ],
+   [
+    "builtin",
+    35.68
+   ],
+   [
+    "snorkel",
+    36.21
+   ]
+  ]
+ },
+ {
+  "s": 37.18,
+  "e": 39.45,
+  "text": "And its ribs only attach to the spine,",
+  "words": [
+   [
+    "and",
+    37.18
+   ],
+   [
+    "its",
+    37.41
+   ],
+   [
+    "ribs",
+    37.64
+   ],
+   [
+    "only",
+    37.94
+   ],
+   [
+    "attach",
+    38.24
+   ],
+   [
+    "to",
+    38.69
+   ],
+   [
+    "the",
+    38.85
+   ],
+   [
+    "spine",
+    39.07
+   ]
+  ]
+ },
+ {
+  "s": 39.98,
+  "e": 42.25,
+  "text": "so the whole body stretches around the meal.",
+  "words": [
+   [
+    "so",
+    39.98
+   ],
+   [
+    "the",
+    40.11
+   ],
+   [
+    "whole",
+    40.3
+   ],
+   [
+    "body",
+    40.61
+   ],
+   [
+    "stretches",
+    40.86
+   ],
+   [
+    "around",
+    41.43
+   ],
+   [
+    "the",
+    41.81
+   ],
+   [
+    "meal",
+    41.99
+   ]
+  ]
+ },
+ {
+  "s": 42.64,
+  "e": 44.96,
+  "text": "King snakes can even swallow other snakes",
+  "words": [
+   [
+    "king",
+    42.64
+   ],
+   [
+    "snakes",
+    42.91
+   ],
+   [
+    "can",
+    43.3
+   ],
+   [
+    "even",
+    43.5
+   ],
+   [
+    "swallow",
+    43.77
+   ],
+   [
+    "other",
+    44.23
+   ],
+   [
+    "snakes",
+    44.56
+   ]
+  ]
+ },
+ {
+  "s": 45.13,
+  "e": 46.61,
+  "text": "as long as themselves.",
+  "words": [
+   [
+    "as",
+    45.13
+   ],
+   [
+    "long",
+    45.29
+   ],
+   [
+    "as",
+    45.62
+   ],
+   [
+    "themselves",
+    45.79
+   ]
+  ]
+ },
+ {
+  "s": 47.04,
+  "e": 49.92,
+  "text": "So what's the biggest thing you think a snake could swallow?",
+  "words": [
+   [
+    "so",
+    47.04
+   ],
+   [
+    "whats",
+    47.16
+   ],
+   [
+    "the",
+    47.46
+   ],
+   [
+    "biggest",
+    47.64
+   ],
+   [
+    "thing",
+    48.06
+   ],
+   [
+    "you",
+    48.36
+   ],
+   [
+    "think",
+    48.54
+   ],
+   [
+    "a",
+    48.84
+   ],
+   [
+    "snake",
+    48.9
+   ],
+   [
+    "could",
+    49.2
+   ],
+   [
+    "swallow",
+    49.5
+   ]
+  ]
+ }
+]
