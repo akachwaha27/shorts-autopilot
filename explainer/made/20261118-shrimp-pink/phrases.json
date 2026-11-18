@@ -1,0 +1,646 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.53,
+  "text": "Your shrimp was blue-gray two minutes ago.",
+  "words": [
+   [
+    "your",
+    0.25
+   ],
+   [
+    "shrimp",
+    0.52
+   ],
+   [
+    "was",
+    0.92
+   ],
+   [
+    "bluegray",
+    1.12
+   ],
+   [
+    "two",
+    1.66
+   ],
+   [
+    "minutes",
+    1.86
+   ],
+   [
+    "ago",
+    2.33
+   ]
+  ]
+ },
+ {
+  "s": 2.98,
+  "e": 4.35,
+  "text": "Why is it pink now?",
+  "words": [
+   [
+    "why",
+    2.98
+   ],
+   [
+    "is",
+    3.27
+   ],
+   [
+    "it",
+    3.47
+   ],
+   [
+    "pink",
+    3.66
+   ],
+   [
+    "now",
+    4.05
+   ]
+  ]
+ },
+ {
+  "s": 4.89,
+  "e": 6.71,
+  "text": "The pink was there the whole time.",
+  "words": [
+   [
+    "the",
+    4.89
+   ],
+   [
+    "pink",
+    5.1
+   ],
+   [
+    "was",
+    5.36
+   ],
+   [
+    "there",
+    5.57
+   ],
+   [
+    "the",
+    5.9
+   ],
+   [
+    "whole",
+    6.1
+   ],
+   [
+    "time",
+    6.44
+   ]
+  ]
+ },
+ {
+  "s": 7.06,
+  "e": 8.68,
+  "text": "Shrimp eat tiny algae",
+  "words": [
+   [
+    "shrimp",
+    7.06
+   ],
+   [
+    "eat",
+    7.6
+   ],
+   [
+    "tiny",
+    7.87
+   ],
+   [
+    "algae",
+    8.23
+   ]
+  ]
+ },
+ {
+  "s": 8.77,
+  "e": 11.33,
+  "text": "packed with a red pigment called astaxanthin.",
+  "words": [
+   [
+    "packed",
+    8.77
+   ],
+   [
+    "with",
+    9.17
+   ],
+   [
+    "a",
+    9.44
+   ],
+   [
+    "red",
+    9.51
+   ],
+   [
+    "pigment",
+    9.71
+   ],
+   [
+    "called",
+    10.18
+   ],
+   [
+    "astaxanthin",
+    10.58
+   ]
+  ]
+ },
+ {
+  "s": 11.75,
+  "e": 13.06,
+  "text": "But inside a living shrimp,",
+  "words": [
+   [
+    "but",
+    11.75
+   ],
+   [
+    "inside",
+    11.93
+   ],
+   [
+    "a",
+    12.29
+   ],
+   [
+    "living",
+    12.35
+   ],
+   [
+    "shrimp",
+    12.7
+   ]
+  ]
+ },
+ {
+  "s": 13.54,
+  "e": 14.8,
+  "text": "a protein grabs that pigment",
+  "words": [
+   [
+    "a",
+    13.54
+   ],
+   [
+    "protein",
+    13.59
+   ],
+   [
+    "grabs",
+    13.96
+   ],
+   [
+    "that",
+    14.22
+   ],
+   [
+    "pigment",
+    14.43
+   ]
+  ]
+ },
+ {
+  "s": 14.91,
+  "e": 16.66,
+  "text": "and twists it out of shape.",
+  "words": [
+   [
+    "and",
+    14.91
+   ],
+   [
+    "twists",
+    15.16
+   ],
+   [
+    "it",
+    15.66
+   ],
+   [
+    "out",
+    15.83
+   ],
+   [
+    "of",
+    16.08
+   ],
+   [
+    "shape",
+    16.24
+   ]
+  ]
+ },
+ {
+  "s": 17.09,
+  "e": 19.97,
+  "text": "And a twisted pigment looks blue-gray, not red.",
+  "words": [
+   [
+    "and",
+    17.09
+   ],
+   [
+    "a",
+    17.33
+   ],
+   [
+    "twisted",
+    17.4
+   ],
+   [
+    "pigment",
+    17.95
+   ],
+   [
+    "looks",
+    18.49
+   ],
+   [
+    "bluegray",
+    18.88
+   ],
+   [
+    "not",
+    19.5
+   ],
+   [
+    "red",
+    19.74
+   ]
+  ]
+ },
+ {
+  "s": 20.41,
+  "e": 21.44,
+  "text": "Now add heat.",
+  "words": [
+   [
+    "now",
+    20.41
+   ],
+   [
+    "add",
+    20.72
+   ],
+   [
+    "heat",
+    21.03
+   ]
+  ]
+ },
+ {
+  "s": 21.73,
+  "e": 23.96,
+  "text": "The protein unravels and lets go,",
+  "words": [
+   [
+    "the",
+    21.73
+   ],
+   [
+    "protein",
+    21.98
+   ],
+   [
+    "unravels",
+    22.55
+   ],
+   [
+    "and",
+    23.21
+   ],
+   [
+    "lets",
+    23.46
+   ],
+   [
+    "go",
+    23.79
+   ]
+  ]
+ },
+ {
+  "s": 24.49,
+  "e": 26.84,
+  "text": "and the pigment snaps back to its true color.",
+  "words": [
+   [
+    "and",
+    24.49
+   ],
+   [
+    "the",
+    24.68
+   ],
+   [
+    "pigment",
+    24.88
+   ],
+   [
+    "snaps",
+    25.34
+   ],
+   [
+    "back",
+    25.66
+   ],
+   [
+    "to",
+    25.92
+   ],
+   [
+    "its",
+    26.06
+   ],
+   [
+    "true",
+    26.25
+   ],
+   [
+    "color",
+    26.51
+   ]
+  ]
+ },
+ {
+  "s": 27.21,
+  "e": 27.79,
+  "text": "Pink!",
+  "words": [
+   [
+    "pink",
+    27.21
+   ]
+  ]
+ },
+ {
+  "s": 28.14,
+  "e": 30.86,
+  "text": "Lobsters and crabs do the exact same thing.",
+  "words": [
+   [
+    "lobsters",
+    28.14
+   ],
+   [
+    "and",
+    28.76
+   ],
+   [
+    "crabs",
+    28.99
+   ],
+   [
+    "do",
+    29.38
+   ],
+   [
+    "the",
+    29.54
+   ],
+   [
+    "exact",
+    29.77
+   ],
+   [
+    "same",
+    30.16
+   ],
+   [
+    "thing",
+    30.47
+   ]
+  ]
+ },
+ {
+  "s": 31.26,
+  "e": 33.65,
+  "text": "And that same pigment is why salmon are pink,",
+  "words": [
+   [
+    "and",
+    31.26
+   ],
+   [
+    "that",
+    31.46
+   ],
+   [
+    "same",
+    31.72
+   ],
+   [
+    "pigment",
+    31.99
+   ],
+   [
+    "is",
+    32.45
+   ],
+   [
+    "why",
+    32.59
+   ],
+   [
+    "salmon",
+    32.79
+   ],
+   [
+    "are",
+    33.18
+   ],
+   [
+    "pink",
+    33.38
+   ]
+  ]
+ },
+ {
+  "s": 34.19,
+  "e": 36.4,
+  "text": "and it helps paint flamingos pink too.",
+  "words": [
+   [
+    "and",
+    34.19
+   ],
+   [
+    "it",
+    34.4
+   ],
+   [
+    "helps",
+    34.55
+   ],
+   [
+    "paint",
+    34.9
+   ],
+   [
+    "flamingos",
+    35.26
+   ],
+   [
+    "pink",
+    35.9
+   ],
+   [
+    "too",
+    36.19
+   ]
+  ]
+ },
+ {
+  "s": 36.84,
+  "e": 38.62,
+  "text": "They all get it from what they eat.",
+  "words": [
+   [
+    "they",
+    36.84
+   ],
+   [
+    "all",
+    37.11
+   ],
+   [
+    "get",
+    37.3
+   ],
+   [
+    "it",
+    37.5
+   ],
+   [
+    "from",
+    37.63
+   ],
+   [
+    "what",
+    37.9
+   ],
+   [
+    "they",
+    38.16
+   ],
+   [
+    "eat",
+    38.42
+   ]
+  ]
+ },
+ {
+  "s": 38.97,
+  "e": 40.91,
+  "text": "So the color wasn't made in the pan.",
+  "words": [
+   [
+    "so",
+    38.97
+   ],
+   [
+    "the",
+    39.11
+   ],
+   [
+    "color",
+    39.33
+   ],
+   [
+    "wasnt",
+    39.69
+   ],
+   [
+    "made",
+    40.05
+   ],
+   [
+    "in",
+    40.33
+   ],
+   [
+    "the",
+    40.48
+   ],
+   [
+    "pan",
+    40.69
+   ]
+  ]
+ },
+ {
+  "s": 41.33,
+  "e": 42.53,
+  "text": "It was just hiding.",
+  "words": [
+   [
+    "it",
+    41.33
+   ],
+   [
+    "was",
+    41.49
+   ],
+   [
+    "just",
+    41.73
+   ],
+   [
+    "hiding",
+    42.05
+   ]
+  ]
+ },
+ {
+  "s": 42.91,
+  "e": 45.35,
+  "text": "Be honest, did you think raw shrimp were pink?",
+  "words": [
+   [
+    "be",
+    42.91
+   ],
+   [
+    "honest",
+    43.05
+   ],
+   [
+    "did",
+    43.46
+   ],
+   [
+    "you",
+    43.66
+   ],
+   [
+    "think",
+    43.86
+   ],
+   [
+    "raw",
+    44.2
+   ],
+   [
+    "shrimp",
+    44.4
+   ],
+   [
+    "were",
+    44.81
+   ],
+   [
+    "pink",
+    45.08
+   ]
+  ]
+ }
+]
