@@ -378,273 +378,6 @@
     }
   },
   "videos": {
-    "2026-11-12-102": {
-      "topic": {
-        "title": "Why is yawning contagious?",
-        "format": "animated",
-        "angle": "Chalkboard Lesson"
-      },
-      "package": {
-        "title": "Why Is Yawning So Contagious? (2 in 3 Catch It) \ud83e\udd71",
-        "description": "Why is yawning contagious? Seeing, hearing or even reading about a yawn can trigger your own: in a Duke study 222 of 328 people yawned at a yawning video, and yawns spread fastest between family and friends.\n\nSources:\nhttps://www.eurekalert.org/pub_releases/2014-03/dumc-cym031114.php\nhttps://www.livescience.com/17365-yawns-contagious-friends.html\nhttps://www.psychologytoday.com/us/blog/the-athletes-way/201403/why-is-yawning-so-contagious\n\nAnimated in the Chalkboard Lesson style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#yawning",
-          "#science",
-          "#humanbody"
-        ],
-        "tags": [
-          "why is yawning contagious",
-          "contagious yawning",
-          "why do we yawn",
-          "yawning science",
-          "catching yawns",
-          "empathy and yawning",
-          "do dogs catch yawns",
-          "duke yawning study",
-          "human body facts",
-          "brain facts",
-          "psychology facts",
-          "chalkboard animation",
-          "zorbly ai"
-        ],
-        "category": "27",
-        "pinned_comment": "Be honest: did you yawn while watching this? \ud83e\udd71",
-        "thumbnail_text": "DID YOU?",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "Why can't you stop yourself from catching a yawn?\nEven reading the word yawn can set one off.\nYou might be fighting one right now.\nSeeing, hearing, or just thinking about a yawn\ncan trigger your own.\nIn one Duke study,\nthree hundred twenty eight people watched a three minute video of yawns.\nTwo hundred twenty two of them yawned too.\nThat's about two out of three!\nAnd who's yawning matters.\nAn Italian study found yawns spread fastest between family,\nthen friends,\nand slowest between strangers.\nSo some scientists link it to empathy,\nyour brain quietly copying the people you care about.\nLittle kids don't catch yawns until they're about four.\nBut your dog can catch yours.\nSo be honest.\nDid you yawn while watching this?",
-        "key_facts": [
-          "Contagious yawning happens in response to hearing, seeing or thinking about yawning (Duke Health press release, 2014)",
-          "Duke study: 328 volunteers watched a three-minute yawning video; 222 contagiously yawned at least once (EurekAlert, PLOS ONE 2014)",
-          "Norscia & Palagi (Univ. of Pisa): contagion is greatest between kin, then friends, then acquaintances and strangers; authors describe an empathic gradient (Live Science 2011)",
-          "Most children aren't susceptible to contagious yawning until about age four (2010 UConn study, via Psychology Today)",
-          "Dogs can catch yawns from humans (Live Science)"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Chalkboard Lesson"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261112-contagious-yawn",
-      "redos": 0,
-      "updated": "2026-11-12T19:34:15.355044+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Chalkboard Lesson style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-12",
-        "name": "2026-11-12-102.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-12",
-        "name": "2026-11-12-102-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:02,760\nWhy can't you stop yourself from catching a yawn?\n\n2\n00:00:03,310 --> 00:00:06,060\nEven reading the word yawn can set one off.\n\n3\n00:00:06,520 --> 00:00:08,350\nYou might be fighting one right now.\n\n4\n00:00:08,780 --> 00:00:11,490\nSeeing, hearing, or just thinking about a yawn\n\n5\n00:00:11,490 --> 00:00:12,730\ncan trigger your own.\n\n6\n00:00:13,110 --> 00:00:14,210\nIn one Duke study,\n\n7\n00:00:14,710 --> 00:00:18,570\nthree hundred twenty eight people watched a three minute video of yawns.\n\n8\n00:00:19,030 --> 00:00:21,510\nTwo hundred twenty two of them yawned too.\n\n9\n00:00:21,930 --> 00:00:23,540\nThat's about two out of three!\n\n10\n00:00:23,980 --> 00:00:25,510\nAnd who's yawning matters.\n\n11\n00:00:25,820 --> 00:00:29,550\nAn Italian study found yawns spread fastest between family,\n\n12\n00:00:30,050 --> 00:00:30,910\nthen friends,\n\n13\n00:00:31,330 --> 00:00:33,190\nand slowest between strangers.\n\n14\n00:00:33,610 --> 00:00:35,850\nSo some scientists link it to empathy,\n\n15\n00:00:36,390 --> 00:00:39,310\nyour brain quietly copying the people you care about.\n\n16\n00:00:39,680 --> 00:00:42,870\nLittle kids don't catch yawns until they're about four.\n\n17\n00:00:43,350 --> 00:00:45,150\nBut your dog can catch yours.\n\n18\n00:00:45,600 --> 00:00:46,580\nSo be honest.\n\n19\n00:00:46,900 --> 00:00:48,680\nDid you yawn while watching this?\n\n",
-      "tg_msg": 1098,
-      "approved_by": "auto",
-      "description_full": "Why is yawning contagious? Seeing, hearing or even reading about a yawn can trigger your own: in a Duke study 222 of 328 people yawned at a yawning video, and yawns spread fastest between family and friends.\n\nSources:\nhttps://www.eurekalert.org/pub_releases/2014-03/dumc-cym031114.php\nhttps://www.livescience.com/17365-yawns-contagious-friends.html\nhttps://www.psychologytoday.com/us/blog/the-athletes-way/201403/why-is-yawning-so-contagious\n\nAnimated in the Chalkboard Lesson style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #yawning #science #humanbody\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Chalkboard Lesson style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/dS0DXPariSU",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-11-12T19:34:15.355078+00:00",
-      "slot": "2026-11-19T17:15:00+00:00"
-    },
-    "2026-11-12-103": {
-      "topic": {
-        "title": "Your Bones Explained in Simple Words: why your skeleton is alive",
-        "format": "long",
-        "angle": "Watercolor Brush"
-      },
-      "package": {
-        "title": "You Get a New Skeleton Every 10 Years",
-        "description": "Your bones are living tissue: you're born with nearly 300 bones that fuse down to about 206, and cells called osteoclasts and osteoblasts dig out and rebuild about 10% of your skeleton every year. We paint how bone is made of collagen and calcium mineral, why it's a calcium bank, how broken bones heal, how bone marrow makes around 200 billion red blood cells a day, and why astronauts lose bone in space while tennis players grow thicker bones in their racket arm.\n\nSources:\nhttps://www.ncbi.nlm.nih.gov/books/NBK45504/\nhttps://www.nasa.gov/reference/risk-of-spaceflight-induced-bone-changes/\nhttps://www.thebloodproject.com/ufaq/how-many-red-cells-are-produced-by-the-bone-marrow-each-day\n\nAnimated in the Watercolor Brush style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#bones",
-          "#humanbody",
-          "#science"
-        ],
-        "tags": [
-          "bones explained",
-          "why are bones alive",
-          "how many bones in the human body",
-          "babies have more bones",
-          "bone remodeling",
-          "osteoclasts and osteoblasts",
-          "new skeleton every 10 years",
-          "bone marrow",
-          "how do broken bones heal",
-          "astronaut bone loss",
-          "calcium in bones",
-          "human body facts",
-          "science explainer",
-          "watercolor animation",
-          "zorbly ai"
-        ],
-        "category": "27",
-        "pinned_comment": "Did you know you were born with nearly 300 bones? Which fact surprised you most: the fusing bones, the new skeleton every 10 years, or the 200 billion blood cells a day?",
-        "thumbnail_text": "BONES ARE ALIVE",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "You were born with nearly three hundred bones.\nSo where did almost a hundred of them go?\nThe answer is that your skeleton is alive,\nand it's rebuilding itself right now.\nMost of us picture bones as dry white sticks,\nlike the plastic skeleton in a science class.\nBut the bones inside you have blood vessels,\nnerves, and billions of busy cells.\nSo what's actually going on in there?\nLet's paint it out, one bone at a time.\nChapter one. More bones than you think.\nA grown-up has about two hundred and six bones.\nBut a newborn has close to three hundred.\nThe missing ones didn't disappear.\nThey fused together as you grew.\nA baby's skull is a set of soft plates,\nwith gaps that slowly close and lock.\nFive little bones at the bottom of your spine\njoin up into one solid piece.\nYour hands and feet hold one hundred and six bones,\nmore than half of your whole skeleton.\nChapter two. What bone is made of.\nBone is a mix of two very different things.\nThe first is collagen,\na stretchy protein, a bit like rope.\nThe second is a hard mineral made of calcium,\npacked between the ropes like tiny bricks.\nRope alone would bend, bricks alone would shatter.\nTogether, you get something tough and a little springy.\nAnd your bones are also a bank.\nThey store about ninety nine percent of your body's calcium.\nWhen your blood runs low,\nyour bones pay some out,\nso your heart and muscles keep working.\nChapter three. The demolition crew.\nDeep inside every bone, two kinds of cells take turns.\nOsteoclasts dissolve tiny pockets of old bone.\nThen osteoblasts move in,\nand fill the hole with fresh new bone.\nDig, then fill. Dig, then fill.\nIn adults, around ten percent of the skeleton\ngets rebuilt every year.\nThat works out to roughly a brand new skeleton\nabout every ten years.\nThis same crew is why a broken bone can heal.\nFirst a soft bridge forms across the crack,\nthen the crew slowly turns it into hard bone again.\nChapter four. The blood factory.\nNow look inside a big bone, like your thigh bone.\nThe middle is filled with soft marrow,\nand that marrow is a factory.\nIt makes your red blood cells,\nthe white cells that fight germs,\nand the platelets that plug up cuts.\nHow many? Scientists estimate\naround two hundred billion red blood cells,\nevery single day.\nChapter five. Use it or lose it.\nYour bones listen to how you use them.\nPush on them, and they build up.\nRest them for too long, and they let go.\nAstronauts floating in space can lose\nabout one percent of the bone in their hips each month.\nMeanwhile, studies of tennis players find\nthe bones in their racket arm are thicker\nthan the bones in their other arm.\nSo every jump, every run, every climb up the stairs\nis a little message telling your skeleton to stay strong.\nSo no, your skeleton isn't a dead frame.\nIt's a living, growing part of you,\nquietly rebuilding itself, one tiny pocket at a time.\nNext time, your liver,\nthe organ that does hundreds of jobs at once.",
-        "key_facts": [
-          "Adults have about 206 bones; newborns have close to 300, many of which fuse during growth (Healthline; Popular Science)",
-          "A baby's skull plates are separated by sutures and soft spots (fontanelles) that close as the child grows",
-          "Five sacral vertebrae fuse into the sacrum",
-          "Hands (27 bones each) and feet (26 each) together hold 106 of the 206 bones",
-          "Bone is collagen (protein) plus calcium phosphate mineral (hydroxyapatite); it stores about 99% of the body's calcium",
-          "Osteoclasts resorb bone, osteoblasts form new bone; about 10% of the adult skeleton is remodeled each year, roughly a new skeleton every 10 years (Surgeon General's report, NBK45504)",
-          "Fractures heal via a soft callus that is remodeled into hard bone",
-          "Bone marrow makes red cells, white cells and platelets; around 200 billion red blood cells per day (The Blood Project)",
-          "Astronauts can lose about 1-1.5% of hip and spine bone mass per month in microgravity (NASA)",
-          "Tennis players' racket-arm bones are thicker/denser than the other arm (loading studies)"
-        ],
-        "voice": "Kokoro",
-        "format": "long",
-        "style": "Watercolor Brush"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261112-bones-alive",
-      "redos": 0,
-      "updated": "2026-11-12T21:34:24.782363+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Watercolor Brush style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-12",
-        "name": "2026-11-12-103.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-12",
-        "name": "2026-11-12-103-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:02,550\nYou were born with nearly three hundred bones.\n\n2\n00:00:03,020 --> 00:00:04,870\nSo where did almost a hundred of them go?\n\n3\n00:00:05,390 --> 00:00:07,790\nThe answer is that your skeleton is alive,\n\n4\n00:00:08,260 --> 00:00:09,970\nand it's rebuilding itself right now.\n\n5\n00:00:10,330 --> 00:00:12,790\nMost of us picture bones as dry white sticks,\n\n6\n00:00:12,870 --> 00:00:15,740\nlike the plastic skeleton in a science class.\n\n7\n00:00:16,130 --> 00:00:18,350\nBut the bones inside you have blood vessels,\n\n8\n00:00:18,700 --> 00:00:21,050\nnerves, and billions of busy cells.\n\n9\n00:00:21,420 --> 00:00:23,190\nSo what's actually going on in there?\n\n10\n00:00:23,630 --> 00:00:25,790\nLet's paint it out, one bone at a time.\n\n11\n00:00:26,190 --> 00:00:28,390\nChapter one. More bones than you think.\n\n12\n00:00:28,800 --> 00:00:31,280\nA grown-up has about two hundred and six bones.\n\n13\n00:00:31,650 --> 00:00:33,820\nBut a newborn has close to three hundred.\n\n14\n00:00:34,190 --> 00:00:35,750\nThe missing ones didn't disappear.\n\n15\n00:00:36,130 --> 00:00:37,770\nThey fused together as you grew.\n\n16\n00:00:38,220 --> 00:00:40,250\nA baby's skull is a set of soft plates,\n\n17\n00:00:40,620 --> 00:00:42,670\nwith gaps that slowly close and lock.\n\n18\n00:00:43,080 --> 00:00:45,970\nFive little bones at the bottom of your spine\n\n19\n00:00:46,030 --> 00:00:47,470\njoin up into one solid piece.\n\n20\n00:00:47,900 --> 00:00:50,730\nYour hands and feet hold one hundred and six bones,\n\n21\n00:00:51,100 --> 00:00:52,710\nmore than half of your whole skeleton.\n\n22\n00:00:53,180 --> 00:00:55,260\nChapter two. What bone is made of.\n\n23\n00:00:55,640 --> 00:00:57,880\nBone is a mix of two very different things.\n\n24\n00:00:58,280 --> 00:00:59,480\nThe first is collagen,\n\n25\n00:00:59,730 --> 00:01:01,690\na stretchy protein, a bit like rope.\n\n26\n00:01:02,110 --> 00:01:04,630\nThe second is a hard mineral made of calcium,\n\n27\n00:01:05,040 --> 00:01:07,240\npacked between the ropes like tiny bricks.\n\n28\n00:01:07,590 --> 00:01:10,230\nRope alone would bend, bricks alone would shatter.\n\n29\n00:01:10,580 --> 00:01:13,290\nTogether, you get something tough and a little springy.\n\n30\n00:01:13,730 --> 00:01:15,340\nAnd your bones are also a bank.\n\n31\n00:01:15,740 --> 00:01:18,820\nThey store about ninety nine percent of your body's calcium.\n\n32\n00:01:19,290 --> 00:01:20,430\nWhen your blood runs low,\n\n33\n00:01:20,700 --> 00:01:21,820\nyour bones pay some out,\n\n34\n00:01:21,880 --> 00:01:23,960\nso your heart and muscles keep working.\n\n35\n00:01:24,340 --> 00:01:26,280\nChapter three. The demolition crew.\n\n36\n00:01:26,690 --> 00:01:29,910\nDeep inside every bone, two kinds of cells take turns.\n\n37\n00:01:30,370 --> 00:01:33,350\nOsteoclasts dissolve tiny pockets of old bone.\n\n38\n00:01:33,700 --> 00:01:35,150\nThen osteoblasts move in,\n\n39\n00:01:35,450 --> 00:01:37,240\nand fill the hole with fresh new bone.\n\n40\n00:01:37,630 --> 00:01:39,640\nDig, then fill. Dig, then fill.\n\n41\n00:01:40,030 --> 00:01:42,620\nIn adults, around ten percent of the skeleton\n\n42\n00:01:42,720 --> 00:01:44,070\ngets rebuilt every year.\n\n43\n00:01:44,450 --> 00:01:46,910\nThat works out to roughly a brand new skeleton\n\n44\n00:01:47,170 --> 00:01:48,420\nabout every ten years.\n\n45\n00:01:48,820 --> 00:01:51,250\nThis same crew is why a broken bone can heal.\n\n46\n00:01:51,640 --> 00:01:54,020\nFirst a soft bridge forms across the crack,\n\n47\n00:01:54,100 --> 00:01:57,000\nthen the crew slowly turns it into hard bone again.\n\n48\n00:01:57,450 --> 00:01:59,340\nChapter four. The blood factory.\n\n49\n00:01:59,800 --> 00:02:02,550\nNow look inside a big bone, like your thigh bone.\n\n50\n00:02:02,920 --> 00:02:04,540\nThe middle is filled with soft marrow,\n\n51\n00:02:04,880 --> 00:02:06,290\nand that marrow is a factory.\n\n52\n00:02:06,680 --> 00:02:08,190\nIt makes your red blood cells,\n\n53\n00:02:08,510 --> 00:02:10,170\nthe white cells that fight germs,\n\n54\n00:02:10,500 --> 00:02:12,200\nand the platelets that plug up cuts.\n\n55\n00:02:12,650 --> 00:02:13,980\nHow many? Scientists estimate\n\n56\n00:02:14,040 --> 00:02:16,680\naround two hundred billion red blood cells,\n\n57\n00:02:17,030 --> 00:02:18,020\nevery single day.\n\n58\n00:02:18,380 --> 00:02:20,410\nChapter five. Use it or lose it.\n\n59\n00:02:20,890 --> 00:02:22,990\nYour bones listen to how you use them.\n\n60\n00:02:23,440 --> 00:02:25,080\nPush on them, and they build up.\n\n61\n00:02:25,550 --> 00:02:27,720\nRest them for too long, and they let go.\n\n62\n00:02:28,130 --> 00:02:29,760\nAstronauts floating in space can lose\n\n63\n00:02:30,070 --> 00:02:33,290\nabout one percent of the bone in their hips each month.\n\n64\n00:02:33,760 --> 00:02:35,880\nMeanwhile, studies of tennis players find\n\n65\n00:02:36,190 --> 00:02:38,400\nthe bones in their racket arm are thicker\n\n66\n00:02:38,530 --> 00:02:40,350\nthan the bones in their other arm.\n\n67\n00:02:40,820 --> 00:02:43,610\nSo every jump, every run, every climb up the stairs\n\n68\n00:02:43,670 --> 00:02:47,130\nis a little message telling your skeleton to stay strong.\n\n69\n00:02:47,480 --> 00:02:49,900\nSo no, your skeleton isn't a dead frame.\n\n70\n00:02:50,320 --> 00:02:52,110\nIt's a living, growing part of you,\n\n71\n00:02:52,410 --> 00:02:56,020\nquietly rebuilding itself, one tiny pocket at a time.\n\n72\n00:02:56,390 --> 00:02:57,670\nNext time, your liver,\n\n73\n00:02:58,040 --> 00:03:00,430\nthe organ that does hundreds of jobs at once.\n\n",
-      "tg_msg": 1100,
-      "approved_by": "auto",
-      "description_full": "Your bones are living tissue: you're born with nearly 300 bones that fuse down to about 206, and cells called osteoclasts and osteoblasts dig out and rebuild about 10% of your skeleton every year. We paint how bone is made of collagen and calcium mineral, why it's a calcium bank, how broken bones heal, how bone marrow makes around 200 billion red blood cells a day, and why astronauts lose bone in space while tennis players grow thicker bones in their racket arm.\n\nSources:\nhttps://www.ncbi.nlm.nih.gov/books/NBK45504/\nhttps://www.nasa.gov/reference/risk-of-spaceflight-induced-bone-changes/\nhttps://www.thebloodproject.com/ufaq/how-many-red-cells-are-produced-by-the-bone-marrow-each-day\n\nAnimated in the Watercolor Brush style.\n\nFollow Zorbly AI for a new Short every day.\n\n#bones #humanbody #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Watercolor Brush style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/bPngaIVDTJY",
-          "private \u00b7 thumbnail \u2705"
-        ]
-      },
-      "uploaded_at": "2026-11-12T21:34:24.782374+00:00",
-      "slot": "2026-11-19T20:15:00+00:00"
-    },
-    "2026-11-12-104": {
-      "topic": {
-        "title": "Why do polar bears have black skin under white fur?",
-        "format": "animated",
-        "angle": "Cut-Paper Diorama"
-      },
-      "package": {
-        "title": "Polar Bears Aren't White (0 White Hairs) \ud83d\udc3b\u200d\u2744\ufe0f",
-        "description": "Why do polar bears have black skin under white fur? Polar bear hairs are clear and hollow with no white pigment, and they only look white because light scatters inside them, while most warmth comes from thick fat and fur that traps heat so well polar bears almost vanish on heat cameras.\n\nSources:\nhttps://www.gi.alaska.edu/alaska-science-forum/debunking-myth-polar-bear-hair\nhttps://www.livescience.com/43217-new-research-reveals-how-polar-bears-stay-warm.html\nhttps://seaworld.org/animals/all-about/polar-bears/characteristics/\n\nAnimated in the Cut-Paper Diorama style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#polarbear",
-          "#animalfacts",
-          "#science"
-        ],
-        "tags": [
-          "why do polar bears have black skin",
-          "polar bear skin",
-          "polar bear fur",
-          "are polar bears white",
-          "polar bear hair clear",
-          "polar bear hollow hair",
-          "polar bear fiber optics myth",
-          "polar bear blubber",
-          "polar bear heat camera",
-          "polar bear facts",
-          "animal facts",
-          "arctic animals",
-          "science explained"
-        ],
-        "category": "27",
-        "pinned_comment": "So is a polar bear white, black, or totally see-through? Pick one \ud83d\udc47",
-        "thumbnail_text": "BLACK SKIN?!",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "If you shaved a polar bear, you'd find black skin. And zero white hairs. Why? Each hair is clear, like a tiny plastic straw with a hollow core full of air. There's no white pigment in it. So why does it look white? Light bounces around inside those clear hairs and scatters in every direction, the same trick that makes snow look white. Scientists once thought the hairs piped sunlight down to the skin like fiber optics. Turns out they don't. Most sunlight never reaches the skin. The black skin may soak up what little warmth gets through, but the real heater is underneath: up to eleven centimeters of fat, plus fur that traps heat so well polar bears almost vanish on heat cameras. So is a polar bear white, black, or totally see-through?",
-        "key_facts": [
-          "Polar bears have black skin under their fur (Alaska Science Forum, SeaWorld)",
-          "Each hair is translucent with a hollow core and has no white pigment; it looks white because it scatters light (Alaska Science Forum)",
-          "The idea that hairs pipe sunlight to the skin like fiber optics was tested and found false; little sunlight reaches the skin (Alaska Science Forum, Live Science)",
-          "Blubber up to about 11 cm (4.5 in) thick (SeaWorld)",
-          "Polar bears lose so little heat they are nearly invisible to infrared cameras (Live Science)"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Cut-Paper Diorama"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261112-polar-bear-skin",
-      "redos": 0,
-      "updated": "2026-11-12T21:34:29.436903+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Cut-Paper Diorama style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-12",
-        "name": "2026-11-12-104.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-12",
-        "name": "2026-11-12-104-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:01,670\nIf you shaved a polar bear,\n\n2\n00:00:02,000 --> 00:00:03,290\nyou'd find black skin.\n\n3\n00:00:03,750 --> 00:00:05,640\nAnd zero white hairs. Why?\n\n4\n00:00:06,080 --> 00:00:07,110\nEach hair is clear,\n\n5\n00:00:07,580 --> 00:00:08,990\nlike a tiny plastic straw\n\n6\n00:00:08,990 --> 00:00:10,930\nwith a hollow core full of air.\n\n7\n00:00:11,410 --> 00:00:12,990\nThere's no white pigment in it.\n\n8\n00:00:13,390 --> 00:00:14,920\nSo why does it look white?\n\n9\n00:00:15,370 --> 00:00:18,350\nLight bounces around inside those clear hairs\n\n10\n00:00:18,410 --> 00:00:19,690\nand scatters in every direction,\n\n11\n00:00:20,300 --> 00:00:22,610\nthe same trick that makes snow look white.\n\n12\n00:00:23,030 --> 00:00:26,140\nScientists once thought the hairs piped sunlight\n\n13\n00:00:26,200 --> 00:00:28,070\ndown to the skin like fiber optics.\n\n14\n00:00:28,420 --> 00:00:29,670\nTurns out they don't.\n\n15\n00:00:29,970 --> 00:00:32,180\nMost sunlight never reaches the skin.\n\n16\n00:00:32,590 --> 00:00:36,780\nThe black skin may soak up what little warmth gets through,\n\n17\n00:00:36,890 --> 00:00:38,770\nbut the real heater is underneath:\n\n18\n00:00:38,860 --> 00:00:40,430\nup to eleven centimeters of fat,\n\n19\n00:00:40,850 --> 00:00:42,930\nplus fur that traps heat so well\n\n20\n00:00:43,000 --> 00:00:46,050\npolar bears almost vanish on heat cameras.\n\n21\n00:00:46,480 --> 00:00:47,760\nSo is a polar bear white,\n\n22\n00:00:48,120 --> 00:00:48,440\nblack,\n\n23\n00:00:48,520 --> 00:00:49,770\nor totally see-through?\n\n",
-      "tg_msg": 1101,
-      "approved_by": "auto",
-      "description_full": "Why do polar bears have black skin under white fur? Polar bear hairs are clear and hollow with no white pigment, and they only look white because light scatters inside them, while most warmth comes from thick fat and fur that traps heat so well polar bears almost vanish on heat cameras.\n\nSources:\nhttps://www.gi.alaska.edu/alaska-science-forum/debunking-myth-polar-bear-hair\nhttps://www.livescience.com/43217-new-research-reveals-how-polar-bears-stay-warm.html\nhttps://seaworld.org/animals/all-about/polar-bears/characteristics/\n\nAnimated in the Cut-Paper Diorama style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #polarbear #animalfacts #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Cut-Paper Diorama style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/Jh0p1EqmBYY",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-11-12T21:34:29.436912+00:00",
-      "slot": "2026-11-20T00:15:00+00:00"
-    },
     "2026-11-12-105": {
       "topic": {
         "title": "Why do your ears and nose seem to keep growing as you age?",
@@ -3151,12 +2884,12 @@
         "format": "long",
         "style": "Cut-Paper Diorama"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261118-freckles",
       "redos": 0,
-      "updated": "2026-11-18T18:46:25.361661+00:00",
+      "updated": "2026-11-18T21:58:38.022221+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Cut-Paper Diorama style). Voice: Kokoro text-to-speech."
       ],
@@ -3171,7 +2904,17 @@
         "name": "2026-11-18-102-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:02,030\nYou were born with zero freckles.\n\n2\n00:00:02,490 --> 00:00:03,560\nNot a single one.\n\n3\n00:00:03,910 --> 00:00:06,150\nThey usually start showing up around age two.\n\n4\n00:00:06,610 --> 00:00:07,920\nThen some kids get a few,\n\n5\n00:00:08,210 --> 00:00:09,820\nwhile others end up with hundreds.\n\n6\n00:00:10,270 --> 00:00:13,090\nSo why do some people get way more freckles than others?\n\n7\n00:00:13,570 --> 00:00:15,230\nFirst, what is a freckle, really?\n\n8\n00:00:15,800 --> 00:00:18,750\nYour skin gets its color from a pigment called melanin.\n\n9\n00:00:19,170 --> 00:00:21,680\nIt's made by special cells called melanocytes,\n\n10\n00:00:22,080 --> 00:00:24,270\ntucked deep in the bottom layer of your skin.\n\n11\n00:00:24,620 --> 00:00:27,080\nEach one pumps out tiny packets of pigment,\n\n12\n00:00:27,480 --> 00:00:29,460\nand hands them to the skin cells around it.\n\n13\n00:00:29,810 --> 00:00:30,940\nHere's the surprise.\n\n14\n00:00:31,270 --> 00:00:33,550\nA freckle doesn't have extra pigment cells.\n\n15\n00:00:34,000 --> 00:00:36,500\nIt has about the same number as the skin next to it.\n\n16\n00:00:36,920 --> 00:00:38,940\nThose cells are just working way harder,\n\n17\n00:00:39,350 --> 00:00:42,080\nmaking a lot more melanin in one tiny spot.\n\n18\n00:00:42,490 --> 00:00:45,000\nMost freckles are smaller than three millimeters.\n\n19\n00:00:45,420 --> 00:00:47,240\nAnd they show up most on fair skin,\n\n20\n00:00:47,600 --> 00:00:49,340\nwhich has less melanin to begin with.\n\n21\n00:00:49,770 --> 00:00:51,890\nSo what makes those cells work overtime?\n\n22\n00:00:52,360 --> 00:00:53,040\nSunlight.\n\n23\n00:00:53,380 --> 00:00:55,300\nWhen ultraviolet light hits your skin,\n\n24\n00:00:55,710 --> 00:00:57,970\nit switches your melanocytes into high gear.\n\n25\n00:00:58,320 --> 00:01:00,180\nMelanin is your body's sunshade.\n\n26\n00:01:00,530 --> 00:01:03,670\nIt soaks up UV light before it can damage your DNA.\n\n27\n00:01:04,070 --> 00:01:07,240\nIn most skin, that extra melanin spreads out evenly,\n\n28\n00:01:07,570 --> 00:01:08,460\nand you get a tan.\n\n29\n00:01:08,910 --> 00:01:11,720\nBut in freckly skin, it piles up in little patches.\n\n30\n00:01:12,160 --> 00:01:14,100\nThat's why freckles darken every summer,\n\n31\n00:01:14,450 --> 00:01:16,980\nand fade, or even disappear, in winter.\n\n32\n00:01:17,430 --> 00:01:19,700\nAnd it's why babies, who've barely seen the sun,\n\n33\n00:01:19,930 --> 00:01:20,810\ndon't have any yet.\n\n34\n00:01:21,260 --> 00:01:23,250\nBut two kids can play in the same sun,\n\n35\n00:01:23,600 --> 00:01:25,810\nand only one ends up covered in freckles.\n\n36\n00:01:26,180 --> 00:01:27,520\nThat's where your genes come in.\n\n37\n00:01:27,980 --> 00:01:30,360\nThe big one is a gene called MC1R.\n\n38\n00:01:30,750 --> 00:01:33,060\nThink of it as a switch on every melanocyte.\n\n39\n00:01:33,510 --> 00:01:34,500\nWhen it works normally,\n\n40\n00:01:34,810 --> 00:01:36,060\nthe cell makes eumelanin,\n\n41\n00:01:36,450 --> 00:01:39,200\na dark brown pigment that's great at blocking sun.\n\n42\n00:01:39,620 --> 00:01:43,130\nBut scientists have found more than 80 versions of MC1R.\n\n43\n00:01:43,480 --> 00:01:44,890\nAnd some of them are ancient.\n\n44\n00:01:45,310 --> 00:01:47,830\nOne may date back around 80,000 years.\n\n45\n00:01:48,270 --> 00:01:51,070\nSome of them flip the switch toward pheomelanin instead,\n\n46\n00:01:51,540 --> 00:01:54,270\na reddish yellow pigment that protects much less.\n\n47\n00:01:54,690 --> 00:01:56,950\nThose same versions are behind red hair.\n\n48\n00:01:57,310 --> 00:01:58,940\nMost redheads carry two of them,\n\n49\n00:01:59,280 --> 00:02:00,940\nand almost all carry at least one.\n\n50\n00:02:01,330 --> 00:02:04,100\nThat's why red hair and freckles so often go together.\n\n51\n00:02:04,530 --> 00:02:07,060\nStill, one copy doesn't guarantee freckles.\n\n52\n00:02:07,530 --> 00:02:10,170\nSome people without these versions freckle anyway,\n\n53\n00:02:10,600 --> 00:02:12,830\nbecause lots of other genes play a part too.\n\n54\n00:02:13,290 --> 00:02:15,590\nNow, not every brown spot is a freckle.\n\n55\n00:02:16,070 --> 00:02:18,230\nDoctors call real freckles ephelides.\n\n56\n00:02:18,650 --> 00:02:20,910\nReal freckles come and go with the seasons,\n\n57\n00:02:21,270 --> 00:02:22,920\nand many fade as you get older.\n\n58\n00:02:23,360 --> 00:02:26,180\nSun spots, or solar lentigines, are different.\n\n59\n00:02:26,590 --> 00:02:28,900\nThey're larger, they show up in middle age,\n\n60\n00:02:29,010 --> 00:02:30,020\nafter years of sun,\n\n61\n00:02:30,370 --> 00:02:32,040\nand they stay put all winter long.\n\n62\n00:02:32,490 --> 00:02:36,450\nUnder a microscope, sun spots really do have extra pigment cells.\n\n63\n00:02:36,840 --> 00:02:38,310\nSo what do freckles tell you?\n\n64\n00:02:38,860 --> 00:02:42,460\nFreckly skin usually makes less of that protective brown melanin,\n\n65\n00:02:42,840 --> 00:02:44,310\nso it burns more easily.\n\n66\n00:02:44,750 --> 00:02:47,030\nThat's why skin doctors tell freckly people,\n\n67\n00:02:47,360 --> 00:02:49,280\nto be extra careful with sunscreen.\n\n68\n00:02:49,690 --> 00:02:51,530\nSo freckles aren't random dots.\n\n69\n00:02:51,880 --> 00:02:53,530\nThey're tiny patches of sunshade,\n\n70\n00:02:53,870 --> 00:02:55,170\nswitched on extra hard,\n\n71\n00:02:55,470 --> 00:02:57,440\nmostly thanks to one tiny gene.\n\n72\n00:02:57,870 --> 00:02:59,690\nNext up, how do your lungs breathe,\n\n73\n00:03:00,050 --> 00:03:01,760\nmore than 20,000 times a day?\n\n",
-      "tg_msg": 1159
+      "tg_msg": 1159,
+      "approved_by": "auto",
+      "description_full": "Why do some people get way more freckles than others? See how sunlight switches on the pigment cells in your skin, why freckles fade in winter, how the MC1R gene links freckles to red hair, and how a freckle differs from a sun spot.\n\nSources:\nhttps://en.wikipedia.org/wiki/Freckle\nhttps://dermnetnz.org/topics/brown-spots-and-freckles\nhttps://img.medscape.com/pi/iphone/medscapeapp/html/A1119293-business.html\n\nAnimated in the Cut-Paper Diorama style.\n\nFollow Zorbly AI for a new Short every day.\n\n#freckles #science #humanbody\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Cut-Paper Diorama style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/DKrAGtivFXo",
+          "private \u00b7 thumbnail \u2705"
+        ]
+      },
+      "uploaded_at": "2026-11-18T21:58:38.022240+00:00",
+      "slot": "2026-11-19T02:15:00+00:00"
     },
     "2026-11-18-103": {
       "topic": {
@@ -3221,12 +2964,12 @@
         "format": "animated",
         "style": "Low-Poly Faceted"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261118-lobster-growth",
       "redos": 0,
-      "updated": "2026-11-18T18:46:34.710504+00:00",
+      "updated": "2026-11-18T21:58:42.833061+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Low-Poly Faceted style). Voice: Kokoro text-to-speech."
       ],
@@ -3241,7 +2984,29 @@
         "name": "2026-11-18-103-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:02,070\nLobsters never stop growing.\n\n2\n00:00:02,400 --> 00:00:04,660\nSo why don't you see 40-pound ones?\n\n3\n00:00:05,210 --> 00:00:08,100\nFirst, a lobster lives inside hard armor.\n\n4\n00:00:08,520 --> 00:00:10,680\nTo get bigger, it climbs right out of it.\n\n5\n00:00:11,030 --> 00:00:13,160\nThe old shell splits open across the back\n\n6\n00:00:13,240 --> 00:00:15,680\nand the lobster wriggles free,\n\n7\n00:00:15,750 --> 00:00:16,720\nclaws, legs and all.\n\n8\n00:00:17,150 --> 00:00:19,300\nThen it gulps seawater and swells up\n\n9\n00:00:19,400 --> 00:00:21,210\nbefore the new soft shell hardens.\n\n10\n00:00:21,600 --> 00:00:24,040\nA young lobster molts about 25 times\n\n11\n00:00:24,100 --> 00:00:25,960\nin its first few years.\n\n12\n00:00:26,400 --> 00:00:27,810\nAnd deep in its cells\n\n13\n00:00:27,890 --> 00:00:29,600\nan enzyme called telomerase\n\n14\n00:00:29,670 --> 00:00:31,280\nkeeps repairing their DNA,\n\n15\n00:00:31,850 --> 00:00:33,400\nso the cells keep dividing.\n\n16\n00:00:33,800 --> 00:00:36,200\nThat's how one lobster in Nova Scotia\n\n17\n00:00:36,600 --> 00:00:37,980\ngrew to 20 kilograms.\n\n18\n00:00:38,450 --> 00:00:39,980\nThat's 44 pounds!\n\n19\n00:00:40,280 --> 00:00:41,440\nBut here's the catch.\n\n20\n00:00:41,810 --> 00:00:43,670\nEvery molt costs more energy.\n\n21\n00:00:44,110 --> 00:00:47,220\nSome old lobsters die of exhaustion mid-molt.\n\n22\n00:00:47,570 --> 00:00:48,910\nOthers just stop molting,\n\n23\n00:00:49,250 --> 00:00:50,660\nstuck in a worn-out shell.\n\n24\n00:00:51,120 --> 00:00:53,210\nSo would you want to keep growing forever?\n\n",
-      "tg_msg": 1160
+      "tg_msg": 1160,
+      "approved_by": "auto",
+      "description_full": "Why do lobsters never stop growing? Lobsters molt their hard shell their whole lives and an enzyme called telomerase keeps their cells dividing, so a record lobster from Nova Scotia reached 20 kg, but every molt gets riskier with age.\n\nSources:\nhttps://www.smithsonianmag.com/science-nature/dont-listen-to-the-buzz-lobsters-arent-actually-immortal-88450872/\nhttps://guinnessworldrecords.com/world-records/70881-heaviest-marine-crustacean\nhttps://vineyardgazette.com/news/2017/10/19/vulnerable-state\n\nAnimated in the Low-Poly Faceted style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #lobster #science #animals\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Low-Poly Faceted style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/Ah6dRhHjgMc",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-18T21:58:42.833077+00:00",
+      "slot": "2026-11-19T17:15:00+00:00"
     },
     "2026-11-18-104": {
       "topic": {
@@ -3290,12 +3055,12 @@
         "format": "animated",
         "style": "Pictogram Motion"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261118-snake-swallow",
       "redos": 0,
-      "updated": "2026-11-18T18:46:50.483887+00:00",
+      "updated": "2026-11-18T21:58:48.379124+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Pictogram Motion style). Voice: Kokoro text-to-speech."
       ],
@@ -3310,7 +3075,98 @@
         "name": "2026-11-18-104-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:03,410\nSnakes never choke on meals wider than their own heads.\n\n2\n00:00:03,770 --> 00:00:05,580\nYour jaw could never. So how?\n\n3\n00:00:06,040 --> 00:00:06,950\nFirst, a myth.\n\n4\n00:00:07,300 --> 00:00:09,340\nSnakes don't unhinge their jaws.\n\n5\n00:00:09,780 --> 00:00:12,910\nThe two halves of the lower jaw aren't fused at the chin.\n\n6\n00:00:13,300 --> 00:00:14,940\nA stretchy ligament joins them,\n\n7\n00:00:15,350 --> 00:00:17,000\nso they spread wide apart.\n\n8\n00:00:17,350 --> 00:00:19,230\nThen each side moves on its own.\n\n9\n00:00:19,690 --> 00:00:21,750\nLeft grips, right slides forward,\n\n10\n00:00:21,910 --> 00:00:22,820\nthen left again.\n\n11\n00:00:23,290 --> 00:00:26,110\nThe snake basically walks its head over its meal.\n\n12\n00:00:26,580 --> 00:00:29,060\nBut with a mouth that full, how does it breathe?\n\n13\n00:00:29,630 --> 00:00:32,190\nIts windpipe opening sits low in the mouth,\n\n14\n00:00:32,640 --> 00:00:34,900\nand it can push forward and off to the side,\n\n15\n00:00:35,300 --> 00:00:36,750\nlike a built-in snorkel.\n\n16\n00:00:37,180 --> 00:00:39,450\nAnd its ribs only attach to the spine,\n\n17\n00:00:39,980 --> 00:00:42,250\nso the whole body stretches around the meal.\n\n18\n00:00:42,640 --> 00:00:44,960\nKing snakes can even swallow other snakes\n\n19\n00:00:45,130 --> 00:00:46,610\nas long as themselves.\n\n20\n00:00:47,040 --> 00:00:49,920\nSo what's the biggest thing you think a snake could swallow?\n\n",
-      "tg_msg": 1161
+      "tg_msg": 1161,
+      "approved_by": "auto",
+      "description_full": "How do snakes swallow prey wider than their own heads without choking? Their lower jaw halves are joined by a stretchy ligament and walk the meal in one side at a time, the windpipe opening pushes forward so they keep breathing, and their ribs only attach to the spine so the body stretches.\n\nSources:\nhttps://www.livescience.com/32096-how-do-snakes-swallow-large-animals.html\nhttps://www.nhm.ac.uk/discover/news/2022/march/mystery-how-boa-constrictor-breathes-while-crushing-prey-solved.html\nhttps://en.wikivet.net/Snake_Respiratory_System\n\nAnimated in the Pictogram Motion style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #snakes #animalfacts #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Pictogram Motion style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/rmOAI2mWhtI",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-18T21:58:48.379139+00:00",
+      "slot": "2026-11-19T20:15:00+00:00"
+    },
+    "2026-11-18-105": {
+      "topic": {
+        "title": "What if humans had a chameleon's tongue?",
+        "format": "animated",
+        "angle": "Copperplate Engraving"
+      },
+      "package": {
+        "title": "What If You Had a 3-Meter Chameleon Tongue? \ud83e\udd8e",
+        "description": "What if humans had a chameleon's tongue? A chameleon's tongue can stretch over twice its body length and the fastest ones go zero to sixty in about a hundredth of a second, launched off a bone by stretchy collagen sleeves like a slingshot, with spit about 400 times thicker than ours.\n\nSources:\nhttps://www.brown.edu/news/2016-01-04/chameleon\nhttps://www.nature.com/articles/nphys3795\nhttps://www.sciencedaily.com/releases/2016/01/160104080020.htm\n\nAnimated in the Copperplate Engraving style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#chameleon",
+          "#science",
+          "#animals"
+        ],
+        "tags": [
+          "chameleon",
+          "chameleon tongue",
+          "what if humans had a chameleon tongue",
+          "how does a chameleon tongue work",
+          "fastest tongue",
+          "chameleon tongue speed",
+          "animal facts",
+          "reptile facts",
+          "science explained",
+          "biology",
+          "zorbly ai",
+          "how does it work",
+          "what if"
+        ],
+        "category": "27",
+        "pinned_comment": "If you had a 3-meter chameleon tongue, what's the first thing you'd snatch? \ud83e\udd8e",
+        "thumbnail_text": "TWICE ITS BODY",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "You'd never miss a snack again\nwith a chameleon's tongue.\nBut talking? Ruined.\nA chameleon's tongue can stretch\nover twice its body length.\nFor you, that's more than three meters,\nbunched up inside your mouth.\nAnd it's fast.\nThe quickest ones go zero to sixty\nin about a hundredth of a second.\nThe trick is a bone.\nThe tongue sits on it like a sock on a finger.\nA ring of muscle squeezes stretchy collagen sleeves,\nloading them like a slingshot.\nThen it lets go.\nThe tongue flies off the bone,\nand the sticky tip lands first.\nThat spit is about four hundred times thicker than yours,\nso a bug can't pull free.\nYou could grab a snack\nfrom across the room\nbefore anyone saw you move.\nSo what would you snatch first\nwith a three meter tongue?",
+        "key_facts": [
+          "Chameleon tongues can extend over twice the body length (up to ~2.5x in small species)",
+          "Tiny Rhampholeon chameleons' tongues accelerate at about 264 g, 0 to 60 mph in roughly a hundredth of a second (Anderson 2016)",
+          "The tongue sits on the entoglossal (hyoid) bone; the accelerator muscle squeezes and loads elastic collagen sheaths that then launch it off the bone like a catapult",
+          "Chameleon tongue mucus is about 400 times more viscous than human saliva (Brau et al., Nature Physics 2016)",
+          "For a 1.75 m human, twice body length would be about 3.5 m"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Copperplate Engraving"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261118-chameleon-tongue",
+      "redos": 0,
+      "updated": "2026-11-18T21:58:12.111366+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Copperplate Engraving style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-18",
+        "name": "2026-11-18-105.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-18",
+        "name": "2026-11-18-105-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:01,680\nYou'd never miss a snack again\n\n2\n00:00:01,910 --> 00:00:03,160\nwith a chameleon's tongue.\n\n3\n00:00:03,560 --> 00:00:04,870\nBut talking? Ruined.\n\n4\n00:00:05,200 --> 00:00:07,560\nA chameleon's tongue can stretch\n\n5\n00:00:07,780 --> 00:00:08,750\nover twice its body length.\n\n6\n00:00:09,090 --> 00:00:11,070\nFor you, that's more than three meters,\n\n7\n00:00:11,430 --> 00:00:13,020\nbunched up inside your mouth.\n\n8\n00:00:13,380 --> 00:00:14,280\nAnd it's fast.\n\n9\n00:00:14,560 --> 00:00:16,840\nThe quickest ones go zero to sixty\n\n10\n00:00:16,960 --> 00:00:18,840\nin about a hundredth of a second.\n\n11\n00:00:19,310 --> 00:00:20,570\nThe trick is a bone.\n\n12\n00:00:20,940 --> 00:00:23,440\nThe tongue sits on it like a sock on a finger.\n\n13\n00:00:23,880 --> 00:00:26,880\nA ring of muscle squeezes stretchy collagen sleeves,\n\n14\n00:00:27,290 --> 00:00:28,830\nloading them like a slingshot.\n\n15\n00:00:29,180 --> 00:00:30,350\nThen it lets go.\n\n16\n00:00:30,630 --> 00:00:32,220\nThe tongue flies off the bone,\n\n17\n00:00:32,570 --> 00:00:34,320\nand the sticky tip lands first.\n\n18\n00:00:34,710 --> 00:00:37,760\nThat spit is about four hundred times thicker than yours,\n\n19\n00:00:38,140 --> 00:00:39,730\nso a bug can't pull free.\n\n20\n00:00:40,140 --> 00:00:41,240\nYou could grab a snack\n\n21\n00:00:41,310 --> 00:00:42,630\nfrom across the room\n\n22\n00:00:42,710 --> 00:00:43,820\nbefore anyone saw you move.\n\n23\n00:00:44,280 --> 00:00:45,570\nSo what would you snatch first\n\n24\n00:00:45,660 --> 00:00:46,770\nwith a three meter tongue?\n\n",
+      "tg_msg": 1162
     }
   },
   "history": [
@@ -3525,7 +3381,8 @@
     "drop/20261118-shrimp-pink": "2026-11-18-101",
     "drop/20261118-freckles": "2026-11-18-102",
     "drop/20261118-lobster-growth": "2026-11-18-103",
-    "drop/20261118-snake-swallow": "2026-11-18-104"
+    "drop/20261118-snake-swallow": "2026-11-18-104",
+    "drop/20261118-chameleon-tongue": "2026-11-18-105"
   },
   "refs_day": "2026-11-18"
 }
