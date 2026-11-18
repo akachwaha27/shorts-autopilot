@@ -407,7 +407,6 @@ def report(pkg):
         return ""
     return (f"🎞 Footage: {r['checked']}/{r['shots']} shots checked on-topic by AI"
             + (f", {r['unchecked']} matched by tags only" if r.get("unchecked") else "")
-            + (f", {r['ai']} AI-generated (fal.ai)" if r.get("ai") else "")
             + (f", {r['filler']} scene(s) with no matching footage" if r.get("filler") else ""))
 
 

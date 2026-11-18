@@ -625,36 +625,7 @@ def make_video(pkg, out_dir, recent_voices=()):
     hook = pkg.get("hook_text") or (pkg.get("title", "") if pkg.get("format") == "ranking" else "")
     animated = pkg.get("format") == "animated"
     ass = subtitles(words, scenes, bounds, hook, os.path.join(out_dir, "captions.ass"), group=2 if animated else 3)
-    if animated:  # all-AI 3D video: only start if today's budget covers every scene, else use stock footage
-        from . import aivideo
-        cost = aivideo.estimate([b - a for a, b in bounds])
-        left = config.FAL_DAILY_BUDGET_USD - aivideo.spent_today()
-        if not aivideo.available() or cost > left:
-            print(f"3D animated video needs ~${cost:.2f} of AI clips but only ${max(0, left):.2f} is left today "
-                  f"(or FAL_KEY is missing): using stock footage instead")
-            animated = False
-        pkg["animated_estimate"] = cost
-    ai_shots = {}
-    if animated:  # all shots at once, in parallel; the scene loop below just picks them up
-        from . import aivideo
-        jobs = [(aivideo.animated_prompt(sc, pkg), b - a, os.path.join(out_dir, f"ai{i}.mp4"))
-                for i, (sc, (a, b)) in enumerate(zip(scenes, bounds))]
-        os.makedirs(out_dir, exist_ok=True)
-        for i, j in enumerate(jobs):
-            print(f"::notice title=3D shot {i} prompt::{j[0][:300]}")
-        clips = aivideo.generate_many(jobs)
-        redo = aivideo.check_shots(scenes, clips)  # shots that don't show their line get one redraw
-        redo = {i: n for i, n in redo.items()
-                if aivideo.spent_today() + aivideo.estimate([jobs[i][1]]) <= config.FAL_DAILY_BUDGET_USD}
-        if redo:
-            again = aivideo.generate_many([(aivideo.animated_prompt(scenes[i], pkg, n), jobs[i][1],
-                                            os.path.join(out_dir, f"ai{i}b.mp4")) for i, n in redo.items()])
-            for i, c in zip(redo, again):
-                if c:
-                    clips[i] = c
-            print(f"3D animated: redrew {len(redo)} shot(s) that didn't match their line")
-        ai_shots = dict(enumerate(clips))
-        print(f"3D animated: {sum(1 for x in ai_shots.values() if x)}/{len(jobs)} shots generated")
+    # AK_ fal.ai AI video clips removed (no longer used): every scene uses stock footage / AI images
 
     used, credits, parts, plan = set(), [], [], source_plan()
     slots = []  # on-screen time of each part (without the crossfade tail)
@@ -674,24 +645,8 @@ def make_video(pkg, out_dir, recent_voices=()):
         elif config.VISUALS == "ai":
             shots = [get_visual(dict(scene), f"{i}_{k}", out_dir, used, plan) for k in range(n)]
         else:
-            from . import aivideo, visuals
-            plan_i = (pkg.get("shot_plan") or [])[i] if i < len(pkg.get("shot_plan") or []) else {}
-            subject = plan_i.get("subject") or scene.get("text", "")[:120]
-            want_ai = aivideo.available() and report["ai"] < config.FAL_MAX_CLIPS_PER_VIDEO
-            shots = []
-            if animated:  # 3D animated explainer: every scene is its own Seedance shot (made in parallel above)
-                shots = [ai_shots[i]] if ai_shots.get(i) else []
-            elif want_ai and config.FAL_FOR_STORIES and pkg.get("format") == "story":  # stories: AI first
-                clip = aivideo.generate(aivideo.prompt_for(scene, subject, pkg.get("visual_style", "")), dur,
-                                        os.path.join(out_dir, f"ai{i}.mp4"))
-                shots = [clip] if clip else []
-            if not shots:
-                shots = visuals.pick(pkg, i, n, out_dir, used)
-            if not shots and want_ai and not animated:  # stock has nothing that shows it: generate the shot
-                clip = aivideo.generate(aivideo.prompt_for(scene, subject, pkg.get("visual_style", "")), dur,
-                                        os.path.join(out_dir, f"ai{i}.mp4"))
-                shots = [clip] if clip else []
-            report["ai"] += sum(1 for x in shots if x.get("ai"))
+            from . import visuals
+            shots = visuals.pick(pkg, i, n, out_dir, used)  # AK_ fal.ai fallback clips removed
             if config.VISUALS == "mixed" and len(shots) > 1 and config.CF_ACCOUNT_ID and config.CF_API_TOKEN:
                 shots[1] = get_visual(dict(scene), f"{i}_1ai", out_dir, used, [])  # AI image for variety
             if not shots:  # nothing on-topic exists: AI image if available, else keep showing the last good shot
