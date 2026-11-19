@@ -1,0 +1,712 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.34,
+  "text": "Your apple is twenty-five percent air.",
+  "words": [
+   [
+    "your",
+    0.25
+   ],
+   [
+    "apple",
+    0.52
+   ],
+   [
+    "is",
+    0.86
+   ],
+   [
+    "twentyfive",
+    0.99
+   ],
+   [
+    "percent",
+    1.67
+   ],
+   [
+    "air",
+    2.14
+   ]
+  ]
+ },
+ {
+  "s": 2.81,
+  "e": 4.11,
+  "text": "Your potato isn't.",
+  "words": [
+   [
+    "your",
+    2.81
+   ],
+   [
+    "potato",
+    3.18
+   ],
+   [
+    "isnt",
+    3.74
+   ]
+  ]
+ },
+ {
+  "s": 4.44,
+  "e": 6.46,
+  "text": "That's why one floats and one sinks.",
+  "words": [
+   [
+    "thats",
+    4.44
+   ],
+   [
+    "why",
+    4.8
+   ],
+   [
+    "one",
+    5.02
+   ],
+   [
+    "floats",
+    5.24
+   ],
+   [
+    "and",
+    5.67
+   ],
+   [
+    "one",
+    5.88
+   ],
+   [
+    "sinks",
+    6.1
+   ]
+  ]
+ },
+ {
+  "s": 6.81,
+  "e": 8.78,
+  "text": "Drop both into a bowl of water.",
+  "words": [
+   [
+    "drop",
+    6.81
+   ],
+   [
+    "both",
+    7.13
+   ],
+   [
+    "into",
+    7.46
+   ],
+   [
+    "a",
+    7.79
+   ],
+   [
+    "bowl",
+    7.87
+   ],
+   [
+    "of",
+    8.2
+   ],
+   [
+    "water",
+    8.37
+   ]
+  ]
+ },
+ {
+  "s": 9.2,
+  "e": 11.0,
+  "text": "The apple bobs right back up.",
+  "words": [
+   [
+    "the",
+    9.2
+   ],
+   [
+    "apple",
+    9.44
+   ],
+   [
+    "bobs",
+    9.83
+   ],
+   [
+    "right",
+    10.14
+   ],
+   [
+    "back",
+    10.53
+   ],
+   [
+    "up",
+    10.84
+   ]
+  ]
+ },
+ {
+  "s": 11.35,
+  "e": 13.43,
+  "text": "The potato heads straight for the bottom.",
+  "words": [
+   [
+    "the",
+    11.35
+   ],
+   [
+    "potato",
+    11.53
+   ],
+   [
+    "heads",
+    11.9
+   ],
+   [
+    "straight",
+    12.2
+   ],
+   [
+    "for",
+    12.69
+   ],
+   [
+    "the",
+    12.87
+   ],
+   [
+    "bottom",
+    13.06
+   ]
+  ]
+ },
+ {
+  "s": 13.9,
+  "e": 15.4,
+  "text": "The secret is density.",
+  "words": [
+   [
+    "the",
+    13.9
+   ],
+   [
+    "secret",
+    14.15
+   ],
+   [
+    "is",
+    14.65
+   ],
+   [
+    "density",
+    14.81
+   ]
+  ]
+ },
+ {
+  "s": 15.75,
+  "e": 18.83,
+  "text": "Anything lighter than the same amount of water floats.",
+  "words": [
+   [
+    "anything",
+    15.75
+   ],
+   [
+    "lighter",
+    16.3
+   ],
+   [
+    "than",
+    16.78
+   ],
+   [
+    "the",
+    17.05
+   ],
+   [
+    "same",
+    17.26
+   ],
+   [
+    "amount",
+    17.53
+   ],
+   [
+    "of",
+    17.94
+   ],
+   [
+    "water",
+    18.08
+   ],
+   [
+    "floats",
+    18.42
+   ]
+  ]
+ },
+ {
+  "s": 19.26,
+  "e": 22.09,
+  "text": "Inside an apple, the cells aren't packed tightly.",
+  "words": [
+   [
+    "inside",
+    19.26
+   ],
+   [
+    "an",
+    19.69
+   ],
+   [
+    "apple",
+    19.84
+   ],
+   [
+    "the",
+    20.2
+   ],
+   [
+    "cells",
+    20.42
+   ],
+   [
+    "arent",
+    20.79
+   ],
+   [
+    "packed",
+    21.15
+   ],
+   [
+    "tightly",
+    21.59
+   ]
+  ]
+ },
+ {
+  "s": 22.49,
+  "e": 24.66,
+  "text": "Between them are tiny pockets of air,",
+  "words": [
+   [
+    "between",
+    22.49
+   ],
+   [
+    "them",
+    22.99
+   ],
+   [
+    "are",
+    23.28
+   ],
+   [
+    "tiny",
+    23.5
+   ],
+   [
+    "pockets",
+    23.79
+   ],
+   [
+    "of",
+    24.29
+   ],
+   [
+    "air",
+    24.44
+   ]
+  ]
+ },
+ {
+  "s": 25.11,
+  "e": 26.77,
+  "text": "about a quarter of the whole apple.",
+  "words": [
+   [
+    "about",
+    25.11
+   ],
+   [
+    "a",
+    25.4
+   ],
+   [
+    "quarter",
+    25.46
+   ],
+   [
+    "of",
+    25.88
+   ],
+   [
+    "the",
+    26.0
+   ],
+   [
+    "whole",
+    26.18
+   ],
+   [
+    "apple",
+    26.48
+   ]
+  ]
+ },
+ {
+  "s": 27.19,
+  "e": 29.4,
+  "text": "So the apple ends up lighter than water,",
+  "words": [
+   [
+    "so",
+    27.19
+   ],
+   [
+    "the",
+    27.32
+   ],
+   [
+    "apple",
+    27.53
+   ],
+   [
+    "ends",
+    27.88
+   ],
+   [
+    "up",
+    28.15
+   ],
+   [
+    "lighter",
+    28.29
+   ],
+   [
+    "than",
+    28.77
+   ],
+   [
+    "water",
+    29.05
+   ]
+  ]
+ },
+ {
+  "s": 29.85,
+  "e": 31.76,
+  "text": "like a life jacket made of fruit.",
+  "words": [
+   [
+    "like",
+    29.85
+   ],
+   [
+    "a",
+    30.14
+   ],
+   [
+    "life",
+    30.21
+   ],
+   [
+    "jacket",
+    30.51
+   ],
+   [
+    "made",
+    30.95
+   ],
+   [
+    "of",
+    31.25
+   ],
+   [
+    "fruit",
+    31.39
+   ]
+  ]
+ },
+ {
+  "s": 32.16,
+  "e": 33.57,
+  "text": "A potato is different.",
+  "words": [
+   [
+    "a",
+    32.16
+   ],
+   [
+    "potato",
+    32.24
+   ],
+   [
+    "is",
+    32.71
+   ],
+   [
+    "different",
+    32.87
+   ]
+  ]
+ },
+ {
+  "s": 33.83,
+  "e": 36.17,
+  "text": "Its cells are stuffed with grains of starch,",
+  "words": [
+   [
+    "its",
+    33.83
+   ],
+   [
+    "cells",
+    34.03
+   ],
+   [
+    "are",
+    34.35
+   ],
+   [
+    "stuffed",
+    34.55
+   ],
+   [
+    "with",
+    35.0
+   ],
+   [
+    "grains",
+    35.26
+   ],
+   [
+    "of",
+    35.65
+   ],
+   [
+    "starch",
+    35.78
+   ]
+  ]
+ },
+ {
+  "s": 36.58,
+  "e": 38.53,
+  "text": "and starch is heavier than water.",
+  "words": [
+   [
+    "and",
+    36.58
+   ],
+   [
+    "starch",
+    36.8
+   ],
+   [
+    "is",
+    37.23
+   ],
+   [
+    "heavier",
+    37.38
+   ],
+   [
+    "than",
+    37.88
+   ],
+   [
+    "water",
+    38.17
+   ]
+  ]
+ },
+ {
+  "s": 38.94,
+  "e": 40.44,
+  "text": "There's hardly any air in there,",
+  "words": [
+   [
+    "theres",
+    38.94
+   ],
+   [
+    "hardly",
+    39.3
+   ],
+   [
+    "any",
+    39.66
+   ],
+   [
+    "air",
+    39.84
+   ],
+   [
+    "in",
+    40.02
+   ],
+   [
+    "there",
+    40.14
+   ]
+  ]
+ },
+ {
+  "s": 40.7,
+  "e": 41.86,
+  "text": "so down it goes.",
+  "words": [
+   [
+    "so",
+    40.7
+   ],
+   [
+    "down",
+    40.89
+   ],
+   [
+    "it",
+    41.28
+   ],
+   [
+    "goes",
+    41.47
+   ]
+  ]
+ },
+ {
+  "s": 42.22,
+  "e": 44.34,
+  "text": "That's why bobbing for apples works.",
+  "words": [
+   [
+    "thats",
+    42.22
+   ],
+   [
+    "why",
+    42.58
+   ],
+   [
+    "bobbing",
+    42.8
+   ],
+   [
+    "for",
+    43.31
+   ],
+   [
+    "apples",
+    43.53
+   ],
+   [
+    "works",
+    43.97
+   ]
+  ]
+ },
+ {
+  "s": 44.78,
+  "e": 47.36,
+  "text": "If apples sank, the game would be impossible!",
+  "words": [
+   [
+    "if",
+    44.78
+   ],
+   [
+    "apples",
+    44.93
+   ],
+   [
+    "sank",
+    45.36
+   ],
+   [
+    "the",
+    45.64
+   ],
+   [
+    "game",
+    45.86
+   ],
+   [
+    "would",
+    46.14
+   ],
+   [
+    "be",
+    46.5
+   ],
+   [
+    "impossible",
+    46.64
+   ]
+  ]
+ },
+ {
+  "s": 47.78,
+  "e": 49.0,
+  "text": "So what else in your kitchen",
+  "words": [
+   [
+    "so",
+    47.78
+   ],
+   [
+    "what",
+    47.89
+   ],
+   [
+    "else",
+    48.1
+   ],
+   [
+    "in",
+    48.31
+   ],
+   [
+    "your",
+    48.42
+   ],
+   [
+    "kitchen",
+    48.63
+   ]
+  ]
+ },
+ {
+  "s": 49.29,
+  "e": 50.96,
+  "text": "is secretly full of air?",
+  "words": [
+   [
+    "is",
+    49.29
+   ],
+   [
+    "secretly",
+    49.47
+   ],
+   [
+    "full",
+    50.17
+   ],
+   [
+    "of",
+    50.52
+   ],
+   [
+    "air",
+    50.7
+   ]
+  ]
+ }
+]
