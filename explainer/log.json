@@ -1531,5 +1531,19 @@
   "hook_score": 54,
   "title_score": 98,
   "notes": "unattended run, no storyboard step"
+ },
+ {
+  "date": "2026-11-19",
+  "id": "20261119-hippo-sunscreen",
+  "kind": "short",
+  "style": "Flat-Vector Science",
+  "topic": "Why don't hippos get sunburned?",
+  "title": "Hippo Sweat Is Red: 2-in-1 Sunscreen 🦛",
+  "seconds": 51.5,
+  "words": 135,
+  "sheet_id": "S107",
+  "hook_score": 53,
+  "title_score": 100,
+  "notes": "unattended run, no storyboard step; added sheet rows S109-S111 from reference signals"
  }
 ]
