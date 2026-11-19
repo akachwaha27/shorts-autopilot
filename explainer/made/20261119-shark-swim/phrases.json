@@ -1,0 +1,681 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.79,
+  "text": "This shark drowns if you make it stop swimming.",
+  "words": [
+   [
+    "this",
+    0.25
+   ],
+   [
+    "shark",
+    0.52
+   ],
+   [
+    "drowns",
+    0.85
+   ],
+   [
+    "if",
+    1.25
+   ],
+   [
+    "you",
+    1.39
+   ],
+   [
+    "make",
+    1.59
+   ],
+   [
+    "it",
+    1.85
+   ],
+   [
+    "stop",
+    1.99
+   ],
+   [
+    "swimming",
+    2.25
+   ]
+  ]
+ },
+ {
+  "s": 3.16,
+  "e": 4.66,
+  "text": "Wait, a fish that drowns?",
+  "words": [
+   [
+    "wait",
+    3.16
+   ],
+   [
+    "a",
+    3.48
+   ],
+   [
+    "fish",
+    3.56
+   ],
+   [
+    "that",
+    3.87
+   ],
+   [
+    "drowns",
+    4.19
+   ]
+  ]
+ },
+ {
+  "s": 5.13,
+  "e": 7.09,
+  "text": "Sharks pull oxygen out of water",
+  "words": [
+   [
+    "sharks",
+    5.13
+   ],
+   [
+    "pull",
+    5.58
+   ],
+   [
+    "oxygen",
+    5.89
+   ],
+   [
+    "out",
+    6.34
+   ],
+   [
+    "of",
+    6.56
+   ],
+   [
+    "water",
+    6.71
+   ]
+  ]
+ },
+ {
+  "s": 7.32,
+  "e": 9.08,
+  "text": "as it flows over their gills.",
+  "words": [
+   [
+    "as",
+    7.32
+   ],
+   [
+    "it",
+    7.47
+   ],
+   [
+    "flows",
+    7.63
+   ],
+   [
+    "over",
+    8.01
+   ],
+   [
+    "their",
+    8.32
+   ],
+   [
+    "gills",
+    8.7
+   ]
+  ]
+ },
+ {
+  "s": 9.43,
+  "e": 11.89,
+  "text": "A nurse shark can lie still on the sea floor",
+  "words": [
+   [
+    "a",
+    9.43
+   ],
+   [
+    "nurse",
+    9.5
+   ],
+   [
+    "shark",
+    9.85
+   ],
+   [
+    "can",
+    10.2
+   ],
+   [
+    "lie",
+    10.41
+   ],
+   [
+    "still",
+    10.62
+   ],
+   [
+    "on",
+    10.97
+   ],
+   [
+    "the",
+    11.12
+   ],
+   [
+    "sea",
+    11.33
+   ],
+   [
+    "floor",
+    11.54
+   ]
+  ]
+ },
+ {
+  "s": 11.96,
+  "e": 13.81,
+  "text": "and pump water in with its cheeks.",
+  "words": [
+   [
+    "and",
+    11.96
+   ],
+   [
+    "pump",
+    12.16
+   ],
+   [
+    "water",
+    12.44
+   ],
+   [
+    "in",
+    12.78
+   ],
+   [
+    "with",
+    12.92
+   ],
+   [
+    "its",
+    13.19
+   ],
+   [
+    "cheeks",
+    13.4
+   ]
+  ]
+ },
+ {
+  "s": 14.16,
+  "e": 15.84,
+  "text": "But a great white can't do that.",
+  "words": [
+   [
+    "but",
+    14.16
+   ],
+   [
+    "a",
+    14.37
+   ],
+   [
+    "great",
+    14.44
+   ],
+   [
+    "white",
+    14.79
+   ],
+   [
+    "cant",
+    15.14
+   ],
+   [
+    "do",
+    15.42
+   ],
+   [
+    "that",
+    15.56
+   ]
+  ]
+ },
+ {
+  "s": 16.26,
+  "e": 18.48,
+  "text": "Neither can makos or whale sharks.",
+  "words": [
+   [
+    "neither",
+    16.26
+   ],
+   [
+    "can",
+    16.81
+   ],
+   [
+    "makos",
+    17.05
+   ],
+   [
+    "or",
+    17.45
+   ],
+   [
+    "whale",
+    17.61
+   ],
+   [
+    "sharks",
+    18.0
+   ]
+  ]
+ },
+ {
+  "s": 18.93,
+  "e": 20.69,
+  "text": "They use ram ventilation.",
+  "words": [
+   [
+    "they",
+    18.93
+   ],
+   [
+    "use",
+    19.26
+   ],
+   [
+    "ram",
+    19.52
+   ],
+   [
+    "ventilation",
+    19.77
+   ]
+  ]
+ },
+ {
+  "s": 20.96,
+  "e": 23.15,
+  "text": "They swim with their mouths slightly open",
+  "words": [
+   [
+    "they",
+    20.96
+   ],
+   [
+    "swim",
+    21.21
+   ],
+   [
+    "with",
+    21.46
+   ],
+   [
+    "their",
+    21.71
+   ],
+   [
+    "mouths",
+    22.03
+   ],
+   [
+    "slightly",
+    22.4
+   ],
+   [
+    "open",
+    22.9
+   ]
+  ]
+ },
+ {
+  "s": 23.55,
+  "e": 25.68,
+  "text": "so water gets pushed over their gills.",
+  "words": [
+   [
+    "so",
+    23.55
+   ],
+   [
+    "water",
+    23.69
+   ],
+   [
+    "gets",
+    24.03
+   ],
+   [
+    "pushed",
+    24.31
+   ],
+   [
+    "over",
+    24.72
+   ],
+   [
+    "their",
+    24.99
+   ],
+   [
+    "gills",
+    25.34
+   ]
+  ]
+ },
+ {
+  "s": 26.06,
+  "e": 28.12,
+  "text": "Stop swimming, and the water stops.",
+  "words": [
+   [
+    "stop",
+    26.06
+   ],
+   [
+    "swimming",
+    26.36
+   ],
+   [
+    "and",
+    26.94
+   ],
+   [
+    "the",
+    27.16
+   ],
+   [
+    "water",
+    27.38
+   ],
+   [
+    "stops",
+    27.75
+   ]
+  ]
+ },
+ {
+  "s": 28.58,
+  "e": 30.27,
+  "text": "No water, no oxygen.",
+  "words": [
+   [
+    "no",
+    28.58
+   ],
+   [
+    "water",
+    28.81
+   ],
+   [
+    "no",
+    29.37
+   ],
+   [
+    "oxygen",
+    29.6
+   ]
+  ]
+ },
+ {
+  "s": 30.61,
+  "e": 32.06,
+  "text": "So even while it's resting,",
+  "words": [
+   [
+    "so",
+    30.61
+   ],
+   [
+    "even",
+    30.75
+   ],
+   [
+    "while",
+    31.03
+   ],
+   [
+    "its",
+    31.37
+   ],
+   [
+    "resting",
+    31.58
+   ]
+  ]
+ },
+ {
+  "s": 32.62,
+  "e": 33.72,
+  "text": "a great white keeps cruising",
+  "words": [
+   [
+    "a",
+    32.62
+   ],
+   [
+    "great",
+    32.67
+   ],
+   [
+    "white",
+    32.9
+   ],
+   [
+    "keeps",
+    33.13
+   ],
+   [
+    "cruising",
+    33.36
+   ]
+  ]
+ },
+ {
+  "s": 33.8,
+  "e": 36.19,
+  "text": "at about two kilometers an hour.",
+  "words": [
+   [
+    "at",
+    33.8
+   ],
+   [
+    "about",
+    33.99
+   ],
+   [
+    "two",
+    34.45
+   ],
+   [
+    "kilometers",
+    34.72
+   ],
+   [
+    "an",
+    35.64
+   ],
+   [
+    "hour",
+    35.83
+   ]
+  ]
+ },
+ {
+  "s": 36.56,
+  "e": 37.98,
+  "text": "That's slower than you walk!",
+  "words": [
+   [
+    "thats",
+    36.56
+   ],
+   [
+    "slower",
+    36.88
+   ],
+   [
+    "than",
+    37.27
+   ],
+   [
+    "you",
+    37.53
+   ],
+   [
+    "walk",
+    37.72
+   ]
+  ]
+ },
+ {
+  "s": 38.43,
+  "e": 40.31,
+  "text": "Most sharks can take a break, though.",
+  "words": [
+   [
+    "most",
+    38.43
+   ],
+   [
+    "sharks",
+    38.69
+   ],
+   [
+    "can",
+    39.08
+   ],
+   [
+    "take",
+    39.27
+   ],
+   [
+    "a",
+    39.53
+   ],
+   [
+    "break",
+    39.6
+   ],
+   [
+    "though",
+    39.92
+   ]
+  ]
+ },
+ {
+  "s": 40.7,
+  "e": 42.45,
+  "text": "So which shark would you rather be?",
+  "words": [
+   [
+    "so",
+    40.7
+   ],
+   [
+    "which",
+    40.82
+   ],
+   [
+    "shark",
+    41.14
+   ],
+   [
+    "would",
+    41.45
+   ],
+   [
+    "you",
+    41.76
+   ],
+   [
+    "rather",
+    41.95
+   ],
+   [
+    "be",
+    42.32
+   ]
+  ]
+ },
+ {
+  "s": 42.9,
+  "e": 44.57,
+  "text": "The one that naps on the sand,",
+  "words": [
+   [
+    "the",
+    42.9
+   ],
+   [
+    "one",
+    43.12
+   ],
+   [
+    "that",
+    43.34
+   ],
+   [
+    "naps",
+    43.63
+   ],
+   [
+    "on",
+    43.92
+   ],
+   [
+    "the",
+    44.06
+   ],
+   [
+    "sand",
+    44.28
+   ]
+  ]
+ },
+ {
+  "s": 44.95,
+  "e": 46.47,
+  "text": "or the one that can never stop?",
+  "words": [
+   [
+    "or",
+    44.95
+   ],
+   [
+    "the",
+    45.08
+   ],
+   [
+    "one",
+    45.27
+   ],
+   [
+    "that",
+    45.46
+   ],
+   [
+    "can",
+    45.71
+   ],
+   [
+    "never",
+    45.9
+   ],
+   [
+    "stop",
+    46.22
+   ]
+  ]
+ }
+]

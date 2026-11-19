@@ -1569,5 +1569,17 @@
   "words": 527,
   "sheet_id": "L032",
   "notes": "unattended run, no storyboard step; 25 scenes, 5 chapters; hook 47, title 100; added trend rows L034-L035"
+ },
+ {
+  "date": "2026-11-19",
+  "id": "20261119-shark-swim",
+  "kind": "short",
+  "style": "Isometric Picture Book",
+  "topic": "Why do some sharks drown if they stop swimming?",
+  "title": "This Shark Swims 2 km/h Forever or It Drowns 🦈",
+  "seconds": 47.5,
+  "words": 133,
+  "sheet_id": "S109",
+  "notes": "unattended run, no storyboard step; Lemo isometric-picture-book kit+engine bundled (MIT)"
  }
 ]
