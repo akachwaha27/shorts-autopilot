@@ -3094,6 +3094,218 @@
       },
       "uploaded_at": "2026-11-19T08:10:34.147256+00:00",
       "slot": "2026-11-20T02:15:00+00:00"
+    },
+    "2026-11-19-102": {
+      "topic": {
+        "title": "Your Lungs Explained in Simple Words: how you breathe over 20,000 times a day",
+        "format": "long",
+        "angle": "Cut-Paper Diorama"
+      },
+      "package": {
+        "title": "How Do Your Lungs Breathe 20,000 Times a Day?",
+        "description": "How do your lungs work? Your lungs can't breathe on their own: the diaphragm pulls air down a branching airway tree into about 480 million alveoli, where oxygen swaps into your blood and carbon dioxide comes out.\n\nSources:\nhttps://www.livescience.com/52250-lung.html\nhttps://en.wikipedia.org/wiki/Pulmonary_alveolus\nhttps://www.merckmanuals.com/home/lung-and-airway-disorders/biology-of-the-lungs-and-airways/control-of-breathing\n\nAnimated in the Cut-Paper Diorama style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#lungs",
+          "#humanbody",
+          "#science"
+        ],
+        "tags": [
+          "how lungs work",
+          "lungs explained",
+          "how do we breathe",
+          "diaphragm",
+          "alveoli",
+          "respiratory system",
+          "human body facts",
+          "breathing explained",
+          "carbon dioxide",
+          "oxygen",
+          "bronchial tree",
+          "science for kids",
+          "biology explained",
+          "zorbly ai"
+        ],
+        "category": "27",
+        "pinned_comment": "Before this video, did you think your lungs did the pulling, or the diaphragm? \ud83e\udec1",
+        "thumbnail_text": "NOT A PUMP",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "Your lungs can't breathe on their own,\nyet you breathe more than 20,000 times a day,\nwithout ever thinking about it.\nSo what's really pulling the air in?\nAnd what happens to it once it's inside?\nLet's follow one breath, all the way in.\nFirst, the engine.\nAnd it isn't your lungs.\nIt's a muscle underneath them, called the diaphragm,\na dome shaped like an upside-down bowl.\nWhen you breathe in, it tightens and pulls down flat.\nYour ribs swing up and out at the same time.\nYour chest gets bigger,\nso the air pressure inside drops,\nand outside air rushes in to fill the space.\nYour lungs just stretch along, like balloons in a box.\nBreathing out at rest is even easier.\nThe diaphragm relaxes,\nand your stretchy lungs spring back like a rubber band,\npushing the air out.\nEach calm breath moves about half a liter.\nOver a whole day, that's roughly 10,000 liters of air.\nNow let's follow that air inside.\nIt goes down your windpipe, the trachea,\nwhich splits into two tubes, one for each lung.\nThen those tubes split again, and again,\nabout 23 times,\ninto thinner and thinner branches.\nDoctors call it the bronchial tree,\nbecause it looks like a tree growing upside down.\nLay every tube end to end,\nand by one estimate, they'd stretch about 2,400 kilometers.\nThe tubes are lined with sticky mucus and tiny hairs called cilia.\nThey trap dust and germs,\nand sweep them back up toward your throat,\nwhere you swallow them without noticing.\nAnd your lungs aren't twins.\nThe right one has three sections, called lobes.\nThe left one has only two,\nbecause it leaves room for your heart.\nNow here's where the magic happens.\nAt the end of every tiny branch,\nthere's a bunch of air sacs, like grapes.\nThey're called alveoli.\nAnd you've got around 480 million of them.\nEach one is wrapped in a net of tiny blood vessels.\nThe wall between the air and your blood,\nis about 200 times thinner than a sheet of paper.\nSo oxygen just slips across, into your blood.\nAt the same time, carbon dioxide, your body's waste gas,\nslips the other way, into the air sac,\nready to be breathed out.\nSpread all those sacs out flat,\nand they'd cover about 70 square meters.\nThat's roughly a badminton court,\nfolded up inside your chest.\nSo who's in charge of all this?\nNot you, most of the time.\nA spot in your brainstem runs breathing on autopilot.\nAnd here's the surprise.\nIt mostly isn't watching your oxygen.\nIt's watching carbon dioxide.\nWhen CO2 builds up in your blood,\nyour brainstem tells the diaphragm to breathe faster.\nThat burning need to breathe when you hold your breath?\nThat's mostly carbon dioxide piling up, not oxygen running out.\nIn fact, the air you breathe out still has about 16 percent oxygen,\ncompared to 21 percent going in.\nSo your lungs aren't really pumps.\nThey're a giant, folded-up trading floor,\nwhere air and blood swap gases,\nover 20,000 times a day, every day of your life.\nNext up, why can some animals see colors,\nwe can't even imagine?\n",
+        "key_facts": [
+          "The lungs have no muscle to inflate themselves; the diaphragm and rib muscles enlarge the chest, pressure drops and air flows in",
+          "Quiet exhalation is mostly passive elastic recoil",
+          "A resting breath is about 0.5 L; roughly 20,000 breaths a day",
+          "Airways branch about 23 times (bronchial tree); one estimate puts total airway length near 2,400 km",
+          "Right lung has 3 lobes, left has 2 (cardiac notch)",
+          "About 480 million alveoli, about 70 square meters of surface",
+          "The blood-air barrier is well under a micrometer thick",
+          "The brainstem drives breathing mainly from CO2 levels",
+          "Exhaled air still holds about 16% oxygen vs about 21% inhaled"
+        ],
+        "voice": "Kokoro",
+        "format": "long",
+        "style": "Cut-Paper Diorama"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261119-lungs",
+      "redos": 0,
+      "updated": "2026-11-19T17:07:31.838734+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Cut-Paper Diorama style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-19",
+        "name": "2026-11-19-102.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-19",
+        "name": "2026-11-19-102-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:02,240\nYour lungs can't breathe on their own,\n\n2\n00:00:02,600 --> 00:00:04,940\nyet you breathe more than 20,000 times a day,\n\n3\n00:00:05,330 --> 00:00:06,630\nwithout ever thinking about it.\n\n4\n00:00:07,030 --> 00:00:08,640\nSo what's really pulling the air in?\n\n5\n00:00:09,090 --> 00:00:10,890\nAnd what happens to it once it's inside?\n\n6\n00:00:11,360 --> 00:00:13,430\nLet's follow one breath, all the way in.\n\n7\n00:00:13,870 --> 00:00:14,920\nFirst, the engine.\n\n8\n00:00:15,270 --> 00:00:16,420\nAnd it isn't your lungs.\n\n9\n00:00:16,880 --> 00:00:19,390\nIt's a muscle underneath them, called the diaphragm,\n\n10\n00:00:19,850 --> 00:00:22,110\na dome shaped like an upside-down bowl.\n\n11\n00:00:22,590 --> 00:00:25,380\nWhen you breathe in, it tightens and pulls down flat.\n\n12\n00:00:25,740 --> 00:00:27,960\nYour ribs swing up and out at the same time.\n\n13\n00:00:28,380 --> 00:00:29,520\nYour chest gets bigger,\n\n14\n00:00:29,850 --> 00:00:31,720\nso the air pressure inside drops,\n\n15\n00:00:32,040 --> 00:00:34,460\nand outside air rushes in to fill the space.\n\n16\n00:00:34,860 --> 00:00:37,950\nYour lungs just stretch along, like balloons in a box.\n\n17\n00:00:38,310 --> 00:00:40,280\nBreathing out at rest is even easier.\n\n18\n00:00:40,630 --> 00:00:42,000\nThe diaphragm relaxes,\n\n19\n00:00:42,360 --> 00:00:44,910\nand your stretchy lungs spring back like a rubber band,\n\n20\n00:00:45,230 --> 00:00:46,200\npushing the air out.\n\n21\n00:00:46,680 --> 00:00:48,860\nEach calm breath moves about half a liter.\n\n22\n00:00:49,250 --> 00:00:52,430\nOver a whole day, that's roughly 10,000 liters of air.\n\n23\n00:00:52,800 --> 00:00:54,520\nNow let's follow that air inside.\n\n24\n00:00:54,930 --> 00:00:57,130\nIt goes down your windpipe, the trachea,\n\n25\n00:00:57,290 --> 00:01:00,040\nwhich splits into two tubes, one for each lung.\n\n26\n00:01:00,420 --> 00:01:02,770\nThen those tubes split again, and again,\n\n27\n00:01:03,030 --> 00:01:04,300\nabout 23 times,\n\n28\n00:01:04,370 --> 00:01:06,030\ninto thinner and thinner branches.\n\n29\n00:01:06,470 --> 00:01:08,260\nDoctors call it the bronchial tree,\n\n30\n00:01:08,650 --> 00:01:11,030\nbecause it looks like a tree growing upside down.\n\n31\n00:01:11,400 --> 00:01:12,900\nLay every tube end to end,\n\n32\n00:01:13,280 --> 00:01:17,780\nand by one estimate, they'd stretch about 2,400 kilometers.\n\n33\n00:01:18,180 --> 00:01:21,830\nThe tubes are lined with sticky mucus and tiny hairs called cilia.\n\n34\n00:01:22,180 --> 00:01:23,730\nThey trap dust and germs,\n\n35\n00:01:24,050 --> 00:01:25,780\nand sweep them back up toward your throat,\n\n36\n00:01:26,140 --> 00:01:27,800\nwhere you swallow them without noticing.\n\n37\n00:01:28,150 --> 00:01:29,510\nAnd your lungs aren't twins.\n\n38\n00:01:29,960 --> 00:01:32,350\nThe right one has three sections, called lobes.\n\n39\n00:01:32,750 --> 00:01:34,020\nThe left one has only two,\n\n40\n00:01:34,330 --> 00:01:35,910\nbecause it leaves room for your heart.\n\n41\n00:01:36,300 --> 00:01:38,090\nNow here's where the magic happens.\n\n42\n00:01:38,480 --> 00:01:40,070\nAt the end of every tiny branch,\n\n43\n00:01:40,370 --> 00:01:42,530\nthere's a bunch of air sacs, like grapes.\n\n44\n00:01:42,940 --> 00:01:44,180\nThey're called alveoli.\n\n45\n00:01:44,550 --> 00:01:47,120\nAnd you've got around 480 million of them.\n\n46\n00:01:47,580 --> 00:01:50,220\nEach one is wrapped in a net of tiny blood vessels.\n\n47\n00:01:50,630 --> 00:01:52,510\nThe wall between the air and your blood,\n\n48\n00:01:52,950 --> 00:01:55,710\nis about 200 times thinner than a sheet of paper.\n\n49\n00:01:56,170 --> 00:01:58,730\nSo oxygen just slips across, into your blood.\n\n50\n00:01:59,120 --> 00:02:02,650\nAt the same time, carbon dioxide, your body's waste gas,\n\n51\n00:02:02,810 --> 00:02:04,730\nslips the other way, into the air sac,\n\n52\n00:02:04,800 --> 00:02:06,160\nready to be breathed out.\n\n53\n00:02:06,590 --> 00:02:08,240\nSpread all those sacs out flat,\n\n54\n00:02:08,690 --> 00:02:10,910\nand they'd cover about 70 square meters.\n\n55\n00:02:11,380 --> 00:02:12,920\nThat's roughly a badminton court,\n\n56\n00:02:13,300 --> 00:02:14,870\nfolded up inside your chest.\n\n57\n00:02:15,280 --> 00:02:16,960\nSo who's in charge of all this?\n\n58\n00:02:17,450 --> 00:02:18,970\nNot you, most of the time.\n\n59\n00:02:19,390 --> 00:02:22,670\nA spot in your brainstem runs breathing on autopilot.\n\n60\n00:02:23,100 --> 00:02:24,380\nAnd here's the surprise.\n\n61\n00:02:24,730 --> 00:02:26,730\nIt mostly isn't watching your oxygen.\n\n62\n00:02:27,080 --> 00:02:28,940\nIt's watching carbon dioxide.\n\n63\n00:02:29,290 --> 00:02:31,290\nWhen CO2 builds up in your blood,\n\n64\n00:02:31,700 --> 00:02:34,470\nyour brainstem tells the diaphragm to breathe faster.\n\n65\n00:02:34,830 --> 00:02:37,220\nThat burning need to breathe when you hold your breath?\n\n66\n00:02:37,780 --> 00:02:41,840\nThat's mostly carbon dioxide piling up, not oxygen running out.\n\n67\n00:02:42,260 --> 00:02:46,490\nIn fact, the air you breathe out still has about 16 percent oxygen,\n\n68\n00:02:46,880 --> 00:02:48,890\ncompared to 21 percent going in.\n\n69\n00:02:49,270 --> 00:02:50,960\nSo your lungs aren't really pumps.\n\n70\n00:02:51,440 --> 00:02:54,110\nThey're a giant, folded-up trading floor,\n\n71\n00:02:54,210 --> 00:02:55,830\nwhere air and blood swap gases,\n\n72\n00:02:56,200 --> 00:02:59,130\nover 20,000 times a day, every day of your life.\n\n73\n00:02:59,600 --> 00:03:01,910\nNext up, why can some animals see colors,\n\n74\n00:03:02,240 --> 00:03:03,370\nwe can't even imagine?\n\n",
+      "tg_msg": 1169
+    },
+    "2026-11-19-103": {
+      "topic": {
+        "title": "Why do some sharks drown if they stop swimming?",
+        "format": "animated",
+        "angle": "Isometric Picture Book"
+      },
+      "package": {
+        "title": "This Shark Swims 2 km/h Forever or It Drowns \ud83e\udd88",
+        "description": "Why do some sharks drown if they stop swimming? Great white, mako and whale sharks use ram ventilation, swimming with their mouths open so water flows over their gills, while nurse sharks can rest on the sea floor and pump water with their cheeks.\n\nSources:\nhttps://www.britannica.com/story/do-sharks-really-die-if-they-stop-swimming\nhttps://www.livescience.com/34777-sharks-keep-swimming-or-die.html\nhttps://oceans-research.com/?p=455\n\nAnimated in the Isometric Picture Book style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#sharks",
+          "#greatwhite",
+          "#animalfacts"
+        ],
+        "tags": [
+          "sharks",
+          "great white shark",
+          "ram ventilation",
+          "do sharks drown",
+          "why sharks keep swimming",
+          "nurse shark",
+          "shark gills",
+          "how sharks breathe",
+          "mako shark",
+          "whale shark",
+          "animal facts",
+          "ocean facts",
+          "science explained",
+          "zorbly ai"
+        ],
+        "category": "27",
+        "pinned_comment": "Would you rather be the shark that naps on the sand, or the one that can never stop? \ud83e\udd88",
+        "thumbnail_text": "CAN'T STOP",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "This shark drowns if you make it stop swimming. Wait, a fish that drowns? Sharks pull oxygen out of water as it flows over their gills. A nurse shark can lie still on the sea floor and pump water in with its cheeks. But a great white can't do that. Neither can makos or whale sharks. They use ram ventilation. They swim with their mouths slightly open so water gets pushed over their gills. Stop swimming, and the water stops. No water, no oxygen. So even while it's resting, a great white keeps cruising at about two kilometers an hour. That's slower than you walk! Most sharks can take a break, though. So which shark would you rather be? The one that naps on the sand, or the one that can never stop?",
+        "key_facts": [
+          "Great white, mako and whale sharks are obligate ram ventilators: they must swim so water flows over their gills (Britannica, Live Science)",
+          "Nurse sharks can rest on the bottom and pump water over their gills with their cheek muscles (Britannica)",
+          "Most kinds of sharks won't die if they stop swimming (Britannica)",
+          "Tracked white sharks at Mossel Bay averaged about 0.5 m/s over ground, swimming speed estimated ~1.2x that, roughly 2 km/h (Johnson et al. 2009)"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Isometric Picture Book"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261119-shark-swim",
+      "redos": 0,
+      "updated": "2026-11-19T17:07:42.508220+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Isometric Picture Book style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-19",
+        "name": "2026-11-19-103.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-19",
+        "name": "2026-11-19-103-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:02,790\nThis shark drowns if you make it stop swimming.\n\n2\n00:00:03,160 --> 00:00:04,660\nWait, a fish that drowns?\n\n3\n00:00:05,130 --> 00:00:07,090\nSharks pull oxygen out of water\n\n4\n00:00:07,320 --> 00:00:09,080\nas it flows over their gills.\n\n5\n00:00:09,430 --> 00:00:11,890\nA nurse shark can lie still on the sea floor\n\n6\n00:00:11,960 --> 00:00:13,810\nand pump water in with its cheeks.\n\n7\n00:00:14,160 --> 00:00:15,840\nBut a great white can't do that.\n\n8\n00:00:16,260 --> 00:00:18,480\nNeither can makos or whale sharks.\n\n9\n00:00:18,930 --> 00:00:20,690\nThey use ram ventilation.\n\n10\n00:00:20,960 --> 00:00:23,150\nThey swim with their mouths slightly open\n\n11\n00:00:23,550 --> 00:00:25,680\nso water gets pushed over their gills.\n\n12\n00:00:26,060 --> 00:00:28,120\nStop swimming, and the water stops.\n\n13\n00:00:28,580 --> 00:00:30,270\nNo water, no oxygen.\n\n14\n00:00:30,610 --> 00:00:32,060\nSo even while it's resting,\n\n15\n00:00:32,620 --> 00:00:33,720\na great white keeps cruising\n\n16\n00:00:33,800 --> 00:00:36,190\nat about two kilometers an hour.\n\n17\n00:00:36,560 --> 00:00:37,980\nThat's slower than you walk!\n\n18\n00:00:38,430 --> 00:00:40,310\nMost sharks can take a break, though.\n\n19\n00:00:40,700 --> 00:00:42,450\nSo which shark would you rather be?\n\n20\n00:00:42,900 --> 00:00:44,570\nThe one that naps on the sand,\n\n21\n00:00:44,950 --> 00:00:46,470\nor the one that can never stop?\n\n",
+      "tg_msg": 1170
+    },
+    "2026-11-19-104": {
+      "topic": {
+        "title": "Why don't woodpeckers get headaches?",
+        "format": "animated",
+        "angle": "Kawaii Anime"
+      },
+      "package": {
+        "title": "Why Don't Woodpeckers Get Headaches at 20 Hits/Sec? \ud83d\udc26",
+        "description": "Woodpeckers hammer trees up to 20 times a second, so why don't they get concussions? High-speed video from a 2022 study shows a woodpecker's head isn't a shock absorber at all: it's a stiff hammer, and its tiny brain is what keeps it safe.\n\nSources:\nhttps://www.sci.news/biology/woodpecker-pecking-11004.html\nhttps://www.smithsonianmag.com/smart-news/woodpecker-skulls-dont-absorb-shock-like-previously-thought-180980426/\nhttps://www.scienceabc.com/nature/animals/how-woodpeckers-dont-get-concussions.html\n\nAnimated in the Kawaii Anime style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#woodpecker",
+          "#animalfacts",
+          "#science"
+        ],
+        "tags": [
+          "woodpecker",
+          "woodpeckers",
+          "why don't woodpeckers get headaches",
+          "woodpecker concussion",
+          "woodpecker brain",
+          "woodpecker skull",
+          "animal facts",
+          "bird facts",
+          "science explained",
+          "how animals work",
+          "kawaii animation",
+          "zorbly ai",
+          "explainer",
+          "shorts"
+        ],
+        "category": "27",
+        "pinned_comment": "If a woodpecker were as big as you, could it still peck? \ud83e\udd14",
+        "thumbnail_text": "NO HEADACHE?",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "Woodpecker pecks would concuss you. They do up to 20 a second, around 12,000 a day, and never get a headache. Why? For years, people said their skull was a shock absorber, like a built-in helmet. But in 2022, scientists filmed woodpeckers with high-speed cameras. And the head didn't cushion anything. The beak and the brain stopped together, like one stiff hammer. Which honestly makes sense. Nobody builds a hammer with a sponge inside. It would waste every swing. So the real secret is size. A woodpecker's brain is hundreds of times smaller than yours, and tiny brains can take much bigger jolts. That jolt that would knock you out? For them, it's well below the danger line. They'd have to hit twice as fast to get hurt. So if a woodpecker were as big as you, could it still peck?",
+        "key_facts": [
+          "Woodpeckers can peck up to about 20 times a second and around 12,000 times a day",
+          "A 2022 Current Biology study (Van Wassenbergh et al.) filmed black, pileated and great spotted woodpeckers with high-speed cameras",
+          "The head does not absorb shock: beak and brain decelerate together, so the head acts as a stiff hammer",
+          "Each peck's deceleration exceeds the concussion threshold for humans, but small brains tolerate far bigger decelerations",
+          "Normal pecking stays well below a woodpecker's concussion threshold; they would need to hit about twice as fast to be at risk"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Kawaii Anime"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261119-woodpecker",
+      "redos": 0,
+      "updated": "2026-11-19T17:07:55.100616+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-19",
+        "name": "2026-11-19-104.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-19",
+        "name": "2026-11-19-104-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:02,160\nWoodpecker pecks would concuss you.\n\n2\n00:00:02,630 --> 00:00:04,030\nThey do up to 20 a second,\n\n3\n00:00:04,210 --> 00:00:05,710\naround 12,000 a day,\n\n4\n00:00:05,990 --> 00:00:07,970\nand never get a headache. Why?\n\n5\n00:00:08,540 --> 00:00:11,590\nFor years, people said their skull was a shock absorber,\n\n6\n00:00:11,990 --> 00:00:13,140\nlike a built-in helmet.\n\n7\n00:00:13,500 --> 00:00:16,720\nBut in 2022, scientists filmed woodpeckers\n\n8\n00:00:16,800 --> 00:00:18,680\nwith high-speed cameras.\n\n9\n00:00:19,040 --> 00:00:20,860\nAnd the head didn't cushion anything.\n\n10\n00:00:21,240 --> 00:00:23,020\nThe beak and the brain stopped together,\n\n11\n00:00:23,370 --> 00:00:24,680\nlike one stiff hammer.\n\n12\n00:00:25,050 --> 00:00:26,580\nWhich honestly makes sense.\n\n13\n00:00:26,930 --> 00:00:29,550\nNobody builds a hammer with a sponge inside.\n\n14\n00:00:30,020 --> 00:00:31,480\nIt would waste every swing.\n\n15\n00:00:31,830 --> 00:00:33,610\nSo the real secret is size.\n\n16\n00:00:34,060 --> 00:00:37,590\nA woodpecker's brain is hundreds of times smaller than yours,\n\n17\n00:00:38,060 --> 00:00:40,940\nand tiny brains can take much bigger jolts.\n\n18\n00:00:41,330 --> 00:00:43,060\nThat jolt that would knock you out?\n\n19\n00:00:43,640 --> 00:00:46,070\nFor them, it's well below the danger line.\n\n20\n00:00:46,440 --> 00:00:48,770\nThey'd have to hit twice as fast to get hurt.\n\n21\n00:00:49,200 --> 00:00:51,110\nSo if a woodpecker were as big as you,\n\n22\n00:00:51,380 --> 00:00:52,260\ncould it still peck?\n\n",
+      "tg_msg": 1171
     }
   },
   "history": [
@@ -3183,7 +3395,7 @@
   "visual_searches": {
     "2026-10-25": 3
   },
-  "signals_day": "2026-11-18",
+  "signals_day": "2026-11-19",
   "drops_done": {
     "drop/20261025-autumn-leaves": "2026-10-25-101",
     "drop/20261025-roman-hypocaust": "2026-10-25-102",
@@ -3310,7 +3522,10 @@
     "drop/20261118-lobster-growth": "2026-11-18-103",
     "drop/20261118-snake-swallow": "2026-11-18-104",
     "drop/20261118-chameleon-tongue": "2026-11-18-105",
-    "drop/20261119-hippo-sunscreen": "2026-11-19-101"
+    "drop/20261119-hippo-sunscreen": "2026-11-19-101",
+    "drop/20261119-lungs": "2026-11-19-102",
+    "drop/20261119-shark-swim": "2026-11-19-103",
+    "drop/20261119-woodpecker": "2026-11-19-104"
   },
   "refs_day": "2026-11-19"
 }
