@@ -1,0 +1,683 @@
+[
+ {
+  "s": 0.25,
+  "e": 4.61,
+  "text": "Only 38 percent of people knew their own voice on a recording.",
+  "words": [
+   [
+    "only",
+    0.25
+   ],
+   [
+    "38",
+    0.6
+   ],
+   [
+    "percent",
+    0.77
+   ],
+   [
+    "of",
+    1.38
+   ],
+   [
+    "people",
+    1.56
+   ],
+   [
+    "knew",
+    2.08
+   ],
+   [
+    "their",
+    2.43
+   ],
+   [
+    "own",
+    2.87
+   ],
+   [
+    "voice",
+    3.13
+   ],
+   [
+    "on",
+    3.57
+   ],
+   [
+    "a",
+    3.74
+   ],
+   [
+    "recording",
+    3.83
+   ]
+  ]
+ },
+ {
+  "s": 5.08,
+  "e": 6.32,
+  "text": "Your skull is why.",
+  "words": [
+   [
+    "your",
+    5.08
+   ],
+   [
+    "skull",
+    5.43
+   ],
+   [
+    "is",
+    5.88
+   ],
+   [
+    "why",
+    6.06
+   ]
+  ]
+ },
+ {
+  "s": 6.66,
+  "e": 11.01,
+  "text": "That's a 1967 study, with five seconds to guess.",
+  "words": [
+   [
+    "thats",
+    6.66
+   ],
+   [
+    "a",
+    7.25
+   ],
+   [
+    "1967",
+    7.37
+   ],
+   [
+    "study",
+    7.84
+   ],
+   [
+    "with",
+    8.43
+   ],
+   [
+    "five",
+    8.9
+   ],
+   [
+    "seconds",
+    9.36
+   ],
+   [
+    "to",
+    10.19
+   ],
+   [
+    "guess",
+    10.42
+   ]
+  ]
+ },
+ {
+  "s": 11.43,
+  "e": 13.95,
+  "text": "When you talk, your vocal cords shake the air,",
+  "words": [
+   [
+    "when",
+    11.43
+   ],
+   [
+    "you",
+    11.71
+   ],
+   [
+    "talk",
+    11.92
+   ],
+   [
+    "your",
+    12.2
+   ],
+   [
+    "vocal",
+    12.48
+   ],
+   [
+    "cords",
+    12.83
+   ],
+   [
+    "shake",
+    13.18
+   ],
+   [
+    "the",
+    13.53
+   ],
+   [
+    "air",
+    13.74
+   ]
+  ]
+ },
+ {
+  "s": 14.48,
+  "e": 17.1,
+  "text": "and that sound curls around into your ears.",
+  "words": [
+   [
+    "and",
+    14.48
+   ],
+   [
+    "that",
+    14.71
+   ],
+   [
+    "sound",
+    15.01
+   ],
+   [
+    "curls",
+    15.38
+   ],
+   [
+    "around",
+    15.75
+   ],
+   [
+    "into",
+    16.2
+   ],
+   [
+    "your",
+    16.5
+   ],
+   [
+    "ears",
+    16.8
+   ]
+  ]
+ },
+ {
+  "s": 17.58,
+  "e": 19.36,
+  "text": "But the buzz also takes a shortcut,",
+  "words": [
+   [
+    "but",
+    17.58
+   ],
+   [
+    "the",
+    17.77
+   ],
+   [
+    "buzz",
+    17.96
+   ],
+   [
+    "also",
+    18.21
+   ],
+   [
+    "takes",
+    18.47
+   ],
+   [
+    "a",
+    18.78
+   ],
+   [
+    "shortcut",
+    18.85
+   ]
+  ]
+ },
+ {
+  "s": 19.81,
+  "e": 21.68,
+  "text": "straight through the bones of your skull.",
+  "words": [
+   [
+    "straight",
+    19.81
+   ],
+   [
+    "through",
+    20.25
+   ],
+   [
+    "the",
+    20.63
+   ],
+   [
+    "bones",
+    20.8
+   ],
+   [
+    "of",
+    21.07
+   ],
+   [
+    "your",
+    21.18
+   ],
+   [
+    "skull",
+    21.4
+   ]
+  ]
+ },
+ {
+  "s": 22.16,
+  "e": 24.51,
+  "text": "Your skull works like a built-in subwoofer.",
+  "words": [
+   [
+    "your",
+    22.16
+   ],
+   [
+    "skull",
+    22.42
+   ],
+   [
+    "works",
+    22.76
+   ],
+   [
+    "like",
+    23.1
+   ],
+   [
+    "a",
+    23.37
+   ],
+   [
+    "builtin",
+    23.43
+   ],
+   [
+    "subwoofer",
+    23.9
+   ]
+  ]
+ },
+ {
+  "s": 24.86,
+  "e": 26.38,
+  "text": "It boosts the deep tones,",
+  "words": [
+   [
+    "it",
+    24.86
+   ],
+   [
+    "boosts",
+    25.01
+   ],
+   [
+    "the",
+    25.47
+   ],
+   [
+    "deep",
+    25.7
+   ],
+   [
+    "tones",
+    26.0
+   ]
+  ]
+ },
+ {
+  "s": 26.76,
+  "e": 29.08,
+  "text": "so you sound fuller and deeper to yourself.",
+  "words": [
+   [
+    "so",
+    26.76
+   ],
+   [
+    "you",
+    26.89
+   ],
+   [
+    "sound",
+    27.09
+   ],
+   [
+    "fuller",
+    27.42
+   ],
+   [
+    "and",
+    27.82
+   ],
+   [
+    "deeper",
+    28.02
+   ],
+   [
+    "to",
+    28.42
+   ],
+   [
+    "yourself",
+    28.55
+   ]
+  ]
+ },
+ {
+  "s": 29.42,
+  "e": 31.9,
+  "text": "A microphone only catches the air part.",
+  "words": [
+   [
+    "a",
+    29.42
+   ],
+   [
+    "microphone",
+    29.5
+   ],
+   [
+    "only",
+    30.27
+   ],
+   [
+    "catches",
+    30.58
+   ],
+   [
+    "the",
+    31.12
+   ],
+   [
+    "air",
+    31.35
+   ],
+   [
+    "part",
+    31.59
+   ]
+  ]
+ },
+ {
+  "s": 32.3,
+  "e": 33.76,
+  "text": "No bones, no bass.",
+  "words": [
+   [
+    "no",
+    32.3
+   ],
+   [
+    "bones",
+    32.53
+   ],
+   [
+    "no",
+    33.09
+   ],
+   [
+    "bass",
+    33.31
+   ]
+  ]
+ },
+ {
+  "s": 34.15,
+  "e": 36.29,
+  "text": "So the recording sounds higher and thinner,",
+  "words": [
+   [
+    "so",
+    34.15
+   ],
+   [
+    "the",
+    34.27
+   ],
+   [
+    "recording",
+    34.45
+   ],
+   [
+    "sounds",
+    34.98
+   ],
+   [
+    "higher",
+    35.34
+   ],
+   [
+    "and",
+    35.7
+   ],
+   [
+    "thinner",
+    35.88
+   ]
+  ]
+ },
+ {
+  "s": 36.77,
+  "e": 38.92,
+  "text": "and that's the voice everyone else hears.",
+  "words": [
+   [
+    "and",
+    36.77
+   ],
+   [
+    "thats",
+    36.97
+   ],
+   [
+    "the",
+    37.29
+   ],
+   [
+    "voice",
+    37.49
+   ],
+   [
+    "everyone",
+    37.81
+   ],
+   [
+    "else",
+    38.33
+   ],
+   [
+    "hears",
+    38.59
+   ]
+  ]
+ },
+ {
+  "s": 39.26,
+  "e": 40.54,
+  "text": "And in a 2013 study,",
+  "words": [
+   [
+    "and",
+    39.26
+   ],
+   [
+    "in",
+    39.51
+   ],
+   [
+    "a",
+    39.68
+   ],
+   [
+    "2013",
+    39.77
+   ],
+   [
+    "study",
+    40.11
+   ]
+  ]
+ },
+ {
+  "s": 40.54,
+  "e": 43.86,
+  "text": "people rated their own voice more attractive",
+  "words": [
+   [
+    "people",
+    40.54
+   ],
+   [
+    "rated",
+    41.06
+   ],
+   [
+    "their",
+    41.5
+   ],
+   [
+    "own",
+    41.93
+   ],
+   [
+    "voice",
+    42.2
+   ],
+   [
+    "more",
+    42.63
+   ],
+   [
+    "attractive",
+    42.98
+   ]
+  ]
+ },
+ {
+  "s": 43.96,
+  "e": 46.15,
+  "text": "when they didn't know it was theirs.",
+  "words": [
+   [
+    "when",
+    43.96
+   ],
+   [
+    "they",
+    44.27
+   ],
+   [
+    "didnt",
+    44.58
+   ],
+   [
+    "know",
+    44.98
+   ],
+   [
+    "it",
+    45.29
+   ],
+   [
+    "was",
+    45.44
+   ],
+   [
+    "theirs",
+    45.68
+   ]
+  ]
+ },
+ {
+  "s": 46.52,
+  "e": 49.44,
+  "text": "So your voice isn't bad, it's just unfamiliar.",
+  "words": [
+   [
+    "so",
+    46.52
+   ],
+   [
+    "your",
+    46.69
+   ],
+   [
+    "voice",
+    47.02
+   ],
+   [
+    "isnt",
+    47.44
+   ],
+   [
+    "bad",
+    47.77
+   ],
+   [
+    "its",
+    48.02
+   ],
+   [
+    "just",
+    48.27
+   ],
+   [
+    "unfamiliar",
+    48.61
+   ]
+  ]
+ },
+ {
+  "s": 49.83,
+  "e": 52.63,
+  "text": "Be honest: would you have spotted your own voice?",
+  "words": [
+   [
+    "be",
+    49.83
+   ],
+   [
+    "honest",
+    49.98
+   ],
+   [
+    "would",
+    50.41
+   ],
+   [
+    "you",
+    50.77
+   ],
+   [
+    "have",
+    50.98
+   ],
+   [
+    "spotted",
+    51.27
+   ],
+   [
+    "your",
+    51.77
+   ],
+   [
+    "own",
+    52.06
+   ],
+   [
+    "voice",
+    52.27
+   ]
+  ]
+ }
+]
