@@ -1,0 +1,674 @@
+[
+ {
+  "s": 0.25,
+  "e": 1.67,
+  "text": "Your cat can't taste sugar,",
+  "words": [
+   [
+    "your",
+    0.25
+   ],
+   [
+    "cat",
+    0.52
+   ],
+   [
+    "cant",
+    0.72
+   ],
+   [
+    "taste",
+    0.99
+   ],
+   [
+    "sugar",
+    1.33
+   ]
+  ]
+ },
+ {
+  "s": 2.07,
+  "e": 3.9,
+  "text": "and one broken gene is why.",
+  "words": [
+   [
+    "and",
+    2.07
+   ],
+   [
+    "one",
+    2.33
+   ],
+   [
+    "broken",
+    2.59
+   ],
+   [
+    "gene",
+    3.11
+   ],
+   [
+    "is",
+    3.46
+   ],
+   [
+    "why",
+    3.64
+   ]
+  ]
+ },
+ {
+  "s": 4.36,
+  "e": 6.01,
+  "text": "Put a sweet treat in front of one,",
+  "words": [
+   [
+    "put",
+    4.36
+   ],
+   [
+    "a",
+    4.55
+   ],
+   [
+    "sweet",
+    4.61
+   ],
+   [
+    "treat",
+    4.93
+   ],
+   [
+    "in",
+    5.25
+   ],
+   [
+    "front",
+    5.37
+   ],
+   [
+    "of",
+    5.69
+   ],
+   [
+    "one",
+    5.82
+   ]
+  ]
+ },
+ {
+  "s": 6.37,
+  "e": 8.85,
+  "text": "and to the cat, it tastes like nothing.",
+  "words": [
+   [
+    "and",
+    6.37
+   ],
+   [
+    "to",
+    6.62
+   ],
+   [
+    "the",
+    6.78
+   ],
+   [
+    "cat",
+    7.03
+   ],
+   [
+    "it",
+    7.28
+   ],
+   [
+    "tastes",
+    7.44
+   ],
+   [
+    "like",
+    7.94
+   ],
+   [
+    "nothing",
+    8.27
+   ]
+  ]
+ },
+ {
+  "s": 9.2,
+  "e": 12.19,
+  "text": "To taste sweet, your tongue needs a tiny lock,",
+  "words": [
+   [
+    "to",
+    9.2
+   ],
+   [
+    "taste",
+    9.36
+   ],
+   [
+    "sweet",
+    9.78
+   ],
+   [
+    "your",
+    10.19
+   ],
+   [
+    "tongue",
+    10.53
+   ],
+   [
+    "needs",
+    11.02
+   ],
+   [
+    "a",
+    11.44
+   ],
+   [
+    "tiny",
+    11.52
+   ],
+   [
+    "lock",
+    11.86
+   ]
+  ]
+ },
+ {
+  "s": 12.72,
+  "e": 14.98,
+  "text": "built from two parts that work as a pair.",
+  "words": [
+   [
+    "built",
+    12.72
+   ],
+   [
+    "from",
+    13.07
+   ],
+   [
+    "two",
+    13.35
+   ],
+   [
+    "parts",
+    13.57
+   ],
+   [
+    "that",
+    13.92
+   ],
+   [
+    "work",
+    14.2
+   ],
+   [
+    "as",
+    14.48
+   ],
+   [
+    "a",
+    14.63
+   ],
+   [
+    "pair",
+    14.7
+   ]
+  ]
+ },
+ {
+  "s": 15.37,
+  "e": 18.87,
+  "text": "In 2005, scientists looked inside cat DNA,",
+  "words": [
+   [
+    "in",
+    15.37
+   ],
+   [
+    "2005",
+    15.57
+   ],
+   [
+    "scientists",
+    15.98
+   ],
+   [
+    "looked",
+    17.02
+   ],
+   [
+    "inside",
+    17.63
+   ],
+   [
+    "cat",
+    18.25
+   ],
+   [
+    "dna",
+    18.56
+   ]
+  ]
+ },
+ {
+  "s": 18.87,
+  "e": 22.17,
+  "text": "and found one of those parts was broken.",
+  "words": [
+   [
+    "and",
+    18.87
+   ],
+   [
+    "found",
+    19.18
+   ],
+   [
+    "one",
+    19.69
+   ],
+   [
+    "of",
+    20.0
+   ],
+   [
+    "those",
+    20.21
+   ],
+   [
+    "parts",
+    20.72
+   ],
+   [
+    "was",
+    21.24
+   ],
+   [
+    "broken",
+    21.55
+   ]
+  ]
+ },
+ {
+  "s": 22.54,
+  "e": 25.82,
+  "text": "The gene for it is missing 247 letters,",
+  "words": [
+   [
+    "the",
+    22.54
+   ],
+   [
+    "gene",
+    22.86
+   ],
+   [
+    "for",
+    23.28
+   ],
+   [
+    "it",
+    23.6
+   ],
+   [
+    "is",
+    23.81
+   ],
+   [
+    "missing",
+    24.02
+   ],
+   [
+    "247",
+    24.76
+   ],
+   [
+    "letters",
+    25.08
+   ]
+  ]
+ },
+ {
+  "s": 25.96,
+  "e": 28.25,
+  "text": "so the lock never gets built.",
+  "words": [
+   [
+    "so",
+    25.96
+   ],
+   [
+    "the",
+    26.16
+   ],
+   [
+    "lock",
+    26.46
+   ],
+   [
+    "never",
+    26.86
+   ],
+   [
+    "gets",
+    27.35
+   ],
+   [
+    "built",
+    27.75
+   ]
+  ]
+ },
+ {
+  "s": 28.62,
+  "e": 30.01,
+  "text": "No lock, no sweet.",
+  "words": [
+   [
+    "no",
+    28.62
+   ],
+   [
+    "lock",
+    28.84
+   ],
+   [
+    "no",
+    29.26
+   ],
+   [
+    "sweet",
+    29.48
+   ]
+  ]
+ },
+ {
+  "s": 30.3,
+  "e": 32.01,
+  "text": "And it's not just house cats.",
+  "words": [
+   [
+    "and",
+    30.3
+   ],
+   [
+    "its",
+    30.53
+   ],
+   [
+    "not",
+    30.76
+   ],
+   [
+    "just",
+    31.0
+   ],
+   [
+    "house",
+    31.31
+   ],
+   [
+    "cats",
+    31.7
+   ]
+  ]
+ },
+ {
+  "s": 32.46,
+  "e": 34.24,
+  "text": "Lions, tigers and cheetahs",
+  "words": [
+   [
+    "lions",
+    32.46
+   ],
+   [
+    "tigers",
+    32.86
+   ],
+   [
+    "and",
+    33.35
+   ],
+   [
+    "cheetahs",
+    33.59
+   ]
+  ]
+ },
+ {
+  "s": 34.41,
+  "e": 36.08,
+  "text": "carry the same broken gene.",
+  "words": [
+   [
+    "carry",
+    34.41
+   ],
+   [
+    "the",
+    34.79
+   ],
+   [
+    "same",
+    35.01
+   ],
+   [
+    "broken",
+    35.32
+   ],
+   [
+    "gene",
+    35.77
+   ]
+  ]
+ },
+ {
+  "s": 36.43,
+  "e": 37.97,
+  "text": "Which honestly makes sense.",
+  "words": [
+   [
+    "which",
+    36.43
+   ],
+   [
+    "honestly",
+    36.76
+   ],
+   [
+    "makes",
+    37.3
+   ],
+   [
+    "sense",
+    37.63
+   ]
+  ]
+ },
+ {
+  "s": 38.3,
+  "e": 40.17,
+  "text": "Cats eat almost nothing but meat,",
+  "words": [
+   [
+    "cats",
+    38.3
+   ],
+   [
+    "eat",
+    38.58
+   ],
+   [
+    "almost",
+    38.78
+   ],
+   [
+    "nothing",
+    39.2
+   ],
+   [
+    "but",
+    39.68
+   ],
+   [
+    "meat",
+    39.89
+   ]
+  ]
+ },
+ {
+  "s": 40.6,
+  "e": 42.42,
+  "text": "and meat has barely any sugar.",
+  "words": [
+   [
+    "and",
+    40.6
+   ],
+   [
+    "meat",
+    40.83
+   ],
+   [
+    "has",
+    41.13
+   ],
+   [
+    "barely",
+    41.36
+   ],
+   [
+    "any",
+    41.81
+   ],
+   [
+    "sugar",
+    42.04
+   ]
+  ]
+ },
+ {
+  "s": 42.86,
+  "e": 45.23,
+  "text": "So losing sweet cost them nothing at all.",
+  "words": [
+   [
+    "so",
+    42.86
+   ],
+   [
+    "losing",
+    43.0
+   ],
+   [
+    "sweet",
+    43.43
+   ],
+   [
+    "cost",
+    43.79
+   ],
+   [
+    "them",
+    44.08
+   ],
+   [
+    "nothing",
+    44.37
+   ],
+   [
+    "at",
+    44.87
+   ],
+   [
+    "all",
+    45.02
+   ]
+  ]
+ },
+ {
+  "s": 45.7,
+  "e": 48.26,
+  "text": "So if your cat keeps stealing your ice cream,",
+  "words": [
+   [
+    "so",
+    45.7
+   ],
+   [
+    "if",
+    45.84
+   ],
+   [
+    "your",
+    45.99
+   ],
+   [
+    "cat",
+    46.27
+   ],
+   [
+    "keeps",
+    46.48
+   ],
+   [
+    "stealing",
+    46.84
+   ],
+   [
+    "your",
+    47.41
+   ],
+   [
+    "ice",
+    47.69
+   ],
+   [
+    "cream",
+    47.91
+   ]
+  ]
+ },
+ {
+  "s": 48.65,
+  "e": 50.35,
+  "text": "what do you think it's really after?",
+  "words": [
+   [
+    "what",
+    48.65
+   ],
+   [
+    "do",
+    48.89
+   ],
+   [
+    "you",
+    49.02
+   ],
+   [
+    "think",
+    49.2
+   ],
+   [
+    "its",
+    49.5
+   ],
+   [
+    "really",
+    49.68
+   ],
+   [
+    "after",
+    50.05
+   ]
+  ]
+ }
+]
