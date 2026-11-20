@@ -378,98 +378,6 @@
     }
   },
   "videos": {
-    "2026-11-14-101": {
-      "topic": {
-        "title": "The Sea Otter Paradox: how does an animal with no blubber stay warm in icy water?",
-        "format": "animated",
-        "angle": "Low-Poly Faceted"
-      },
-      "package": {
-        "title": "Why Sea Otters Don't Freeze With 0 Blubber \ud83e\udda6",
-        "description": "How does a sea otter stay warm in icy water with no blubber at all? Its fur is the densest of any animal, up to a million hairs per square inch, trapping air so cold water never reaches its skin, and its muscles burn energy as heat so fast it eats about a quarter of its body weight every day.\n\nSources:\nhttps://www.seattleaquarium.org/stories/the-densest-fur-of-any-animal-on-earth-all-about-sea-otters/\nhttps://www.marinemammalcenter.org/animal-care/learn-about-marine-mammals/sea-otters\nhttps://phys.org/news/2021-12-sea-otters-muscle-movement.html\n\nAnimated in the Low-Poly Faceted style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#seaotter",
-          "#animalfacts",
-          "#science"
-        ],
-        "tags": [
-          "how do sea otters stay warm",
-          "sea otter fur",
-          "sea otter no blubber",
-          "densest fur animal",
-          "million hairs per square inch",
-          "sea otter facts",
-          "why sea otters groom",
-          "sea otter metabolism",
-          "sea otter eats a quarter of its weight",
-          "otter facts",
-          "marine mammals",
-          "animal facts",
-          "weird animal facts",
-          "science explained"
-        ],
-        "category": "27",
-        "pinned_comment": "Would you trade your jacket for a million hairs, and a quarter of your weight in snacks every day? \ud83e\udda6",
-        "thumbnail_text": "STILL WARM?",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "A sea otter has no blubber, but you'd freeze long before it would. Why? Whales and seals wrap up in thick fat. The otter's secret is fur. Up to a million hairs on every square inch, the densest fur of any animal. That's more hairs on a stamp-sized patch than you have on your whole head. Those hairs trap a layer of air, so cold water never touches its skin. That's why otters groom for hours, fluffing air into their coats. But fur alone isn't enough. Its muscles leak energy as heat, like an engine idling all day. So it burns fuel about three times faster than other animals its size. To keep up, it eats about a quarter of its body weight every single day. Would you trade your jacket for a million hairs, and a quarter of your weight in snacks?",
-        "key_facts": [
-          "Sea otters have no blubber, unlike whales and seals; they rely on fur (Seattle Aquarium, Marine Mammal Center)",
-          "Densest fur of any animal: up to about 1 million hairs per square inch (Seattle Aquarium); a human head has roughly 100,000 hairs",
-          "Fur traps a layer of air so water doesn't reach the skin; otters spend hours a day grooming and blowing/fluffing air into the coat",
-          "Wright et al. 2021 (Science): skeletal muscle mitochondria 'leak' energy as heat; resting metabolic rate roughly 3x that of similar-sized mammals",
-          "Eat about 25% of body weight per day (Seattle Aquarium / Marine Mammal Center)"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Low-Poly Faceted"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261114-sea-otter-fur",
-      "redos": 0,
-      "updated": "2026-11-14T08:01:55.157530+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Low-Poly Faceted style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-14",
-        "name": "2026-11-14-101.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-14",
-        "name": "2026-11-14-101-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:01,700\nA sea otter has no blubber,\n\n2\n00:00:01,850 --> 00:00:04,100\nbut you'd freeze long before it would. Why?\n\n3\n00:00:04,620 --> 00:00:06,860\nWhales and seals wrap up in thick fat.\n\n4\n00:00:07,210 --> 00:00:08,560\nThe otter's secret is fur.\n\n5\n00:00:09,010 --> 00:00:11,380\nUp to a million hairs on every square inch,\n\n6\n00:00:11,740 --> 00:00:13,370\nthe densest fur of any animal.\n\n7\n00:00:13,750 --> 00:00:15,750\nThat's more hairs on a stamp-sized patch\n\n8\n00:00:15,810 --> 00:00:17,420\nthan you have on your whole head.\n\n9\n00:00:17,810 --> 00:00:19,370\nThose hairs trap a layer of air,\n\n10\n00:00:19,700 --> 00:00:21,790\nso cold water never touches its skin.\n\n11\n00:00:22,220 --> 00:00:23,950\nThat's why otters groom for hours,\n\n12\n00:00:24,260 --> 00:00:25,730\nfluffing air into their coats.\n\n13\n00:00:26,080 --> 00:00:27,570\nBut fur alone isn't enough.\n\n14\n00:00:28,040 --> 00:00:29,840\nIts muscles leak energy as heat,\n\n15\n00:00:30,190 --> 00:00:32,000\nlike an engine idling all day.\n\n16\n00:00:32,460 --> 00:00:34,880\nSo it burns fuel about three times faster\n\n17\n00:00:34,880 --> 00:00:36,520\nthan other animals its size.\n\n18\n00:00:36,920 --> 00:00:39,530\nTo keep up, it eats about a quarter of its body weight\n\n19\n00:00:39,750 --> 00:00:40,750\nevery single day.\n\n20\n00:00:41,160 --> 00:00:43,410\nWould you trade your jacket for a million hairs,\n\n21\n00:00:43,750 --> 00:00:45,400\nand a quarter of your weight in snacks?\n\n",
-      "tg_msg": 1115,
-      "approved_by": "auto",
-      "description_full": "How does a sea otter stay warm in icy water with no blubber at all? Its fur is the densest of any animal, up to a million hairs per square inch, trapping air so cold water never reaches its skin, and its muscles burn energy as heat so fast it eats about a quarter of its body weight every day.\n\nSources:\nhttps://www.seattleaquarium.org/stories/the-densest-fur-of-any-animal-on-earth-all-about-sea-otters/\nhttps://www.marinemammalcenter.org/animal-care/learn-about-marine-mammals/sea-otters\nhttps://phys.org/news/2021-12-sea-otters-muscle-movement.html\n\nAnimated in the Low-Poly Faceted style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #seaotter #animalfacts #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Low-Poly Faceted style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/oz-F8qYqB1M",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-11-14T08:01:55.157547+00:00",
-      "slot": "2026-11-21T15:15:00+00:00"
-    },
     "2026-11-14-102": {
       "topic": {
         "title": "What really happens if you swallow chewing gum?",
@@ -3144,12 +3052,12 @@
         "format": "animated",
         "style": "Flat-Vector Science"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261120-recorded-voice",
       "redos": 0,
-      "updated": "2026-11-20T04:16:12.204784+00:00",
+      "updated": "2026-11-20T13:07:20.389708+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech."
       ],
@@ -3164,7 +3072,171 @@
         "name": "2026-11-20-101-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:04,610\nOnly 38 percent of people knew their own voice on a recording.\n\n2\n00:00:05,080 --> 00:00:06,320\nYour skull is why.\n\n3\n00:00:06,660 --> 00:00:11,010\nThat's a 1967 study, with five seconds to guess.\n\n4\n00:00:11,430 --> 00:00:13,950\nWhen you talk, your vocal cords shake the air,\n\n5\n00:00:14,480 --> 00:00:17,100\nand that sound curls around into your ears.\n\n6\n00:00:17,580 --> 00:00:19,360\nBut the buzz also takes a shortcut,\n\n7\n00:00:19,810 --> 00:00:21,680\nstraight through the bones of your skull.\n\n8\n00:00:22,160 --> 00:00:24,510\nYour skull works like a built-in subwoofer.\n\n9\n00:00:24,860 --> 00:00:26,380\nIt boosts the deep tones,\n\n10\n00:00:26,760 --> 00:00:29,080\nso you sound fuller and deeper to yourself.\n\n11\n00:00:29,420 --> 00:00:31,900\nA microphone only catches the air part.\n\n12\n00:00:32,300 --> 00:00:33,760\nNo bones, no bass.\n\n13\n00:00:34,150 --> 00:00:36,290\nSo the recording sounds higher and thinner,\n\n14\n00:00:36,770 --> 00:00:38,920\nand that's the voice everyone else hears.\n\n15\n00:00:39,260 --> 00:00:40,540\nAnd in a 2013 study,\n\n16\n00:00:40,540 --> 00:00:43,860\npeople rated their own voice more attractive\n\n17\n00:00:43,960 --> 00:00:46,150\nwhen they didn't know it was theirs.\n\n18\n00:00:46,520 --> 00:00:49,440\nSo your voice isn't bad, it's just unfamiliar.\n\n19\n00:00:49,830 --> 00:00:52,630\nBe honest: would you have spotted your own voice?\n\n",
-      "tg_msg": 1176
+      "tg_msg": 1176,
+      "approved_by": "auto",
+      "description_full": "Why does your voice sound so weird on a recording? When you talk, you hear yourself through the air and through the bones of your skull, which boosts the low tones, but a microphone only picks up the air part, so recordings sound higher and thinner than the voice in your head.\n\nSources:\nhttps://wonderopolis.org/wonder/why-does-my-voice-sound-different-on-a-recording\nhttps://www.sciencedaily.com/releases/2013/09/130912112733.htm\nhttps://www.wikiwand.com/en/articles/Voice_confrontation\n\nAnimated in the Flat-Vector Science style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #science #humanbody #funfacts\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/khgeinAKCZ0",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-20T13:07:20.389725+00:00",
+      "slot": "2026-11-23T17:15:00+00:00"
+    },
+    "2026-11-20-102": {
+      "topic": {
+        "title": "Why can some animals see colors we can't even imagine?",
+        "format": "long",
+        "angle": "Low-Poly Faceted"
+      },
+      "package": {
+        "title": "Birds Have 4 Cones, You Have 3. What Can't You See?",
+        "description": "Why can some animals see colors we can't even imagine? Your eyes have 3 color cones, while bees and many birds see ultraviolet, hummingbirds tell apart non-spectral colors like UV plus green, the mantis shrimp's 12 receptors turn out to be fast but not fine, and reindeer may spot dark lichen against UV-bright snow.\n\n0:00 Colors with no names\n0:13 How you see color\n0:57 Fewer cones\n1:10 Bees see ultraviolet\n1:28 Birds have 4 cones\n2:10 The mantis shrimp twist\n2:35 Why see UV?\n\nSources:\nhttps://www.princeton.edu/news/2020/06/15/wild-hummingbirds-see-broad-range-colors-humans-can-only-imagine\nhttps://www.nationalgeographic.com/science/article/the-mantis-shrimp-sees-like-a-satellite\nhttps://www.popsci.com/environment/reindeer-eyes-uv-light/\n\nAnimated in the Low-Poly Faceted style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#animals",
+          "#science",
+          "#colorvision"
+        ],
+        "tags": [
+          "animal vision",
+          "how animals see color",
+          "color vision explained",
+          "ultraviolet vision",
+          "tetrachromacy",
+          "hummingbird vision",
+          "mantis shrimp eyes",
+          "bee vision",
+          "dog color vision",
+          "cone cells",
+          "non-spectral colors",
+          "reindeer uv vision",
+          "animal facts",
+          "science explained",
+          "zorbly ai"
+        ],
+        "category": "27",
+        "pinned_comment": "Which animal's eyes would you borrow for a day: the bee, the hummingbird or the mantis shrimp? \ud83d\udc40",
+        "thumbnail_text": "INVISIBLE COLORS",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "Hummingbirds see colors your brain has never made.\nNot brighter colors, or sharper ones.\nWhole new colors, with no names.\nSo how can an animal see a color we can't even imagine?\nTo find out, we have to start with you.\nLight travels in waves of different lengths.\nYour eyes catch a tiny slice of them,\nfrom about 400 to 700 nanometers.\nThat slice is the rainbow,\nviolet at one end and red at the other.\nInside your eye are three kinds of color cells, called cones.\nOne likes blue light best, one likes green, and one likes red.\nEvery color you've ever seen,\nis your brain comparing how hard those three are firing.\nYellow? That's your red and green cones firing together.\nAnd here's a fun one.\nPurple isn't in the rainbow at all.\nWhen your red and blue cones fire, but green stays quiet,\nyour brain invents a color to fill the gap.\nScientists call that a non-spectral color.\nHold on to that idea.\nNow take one cone away.\nDogs have just two, tuned to blue and yellow.\nSo a red ball on green grass,\nlooks to a dog like two similar, muddy shades.\nFewer cones, fewer colors.\nSo what happens with more?\nHoneybees have three cones too, but they're shifted.\nThey see ultraviolet, blue and green.\nRed? To a bee, red mostly looks dark.\nLots of flowers that look plain yellow to us,\nhave dark ultraviolet bullseyes in the middle.\nThey work like landing lights,\npointing the bee straight to the nectar.\nMany birds go one step further.\nThey have four cone types, including one for ultraviolet.\nMale and female blue tits look almost the same to us.\nBut in ultraviolet, the males' crowns shine brighter.\nNow remember purple.\nWith three cones, you get one non-spectral color.\nWith four cones, there are way more ways to mix.\nIn 2020, scientists tested wild hummingbirds in the Rocky Mountains.\nThey lit up feeders with mixes like ultraviolet plus green.\nAnd the birds learned to tell them apart from plain green.\nThat's a color you will never see.\nIt isn't greenish, or bluish.\nIt's something your brain has no slot for,\nlike trying to picture a brand new primary color.\nSo more cones always means more colors, right?\nMeet the mantis shrimp.\nIt has around twelve kinds of color receptors.\nFor years, people said it must see a mind-blowing rainbow.\nBut in 2014, scientists actually tested it.\nAnd it was worse than you at telling close shades apart.\nInstead of comparing cones like we do,\nit seems to read colors directly, like a barcode scanner.\nFast, but not fine.\nSo why bother seeing ultraviolet at all?\nTake reindeer, out in the snowy Arctic.\nSnow reflects ultraviolet, but their favorite food, lichen, soaks it up.\nSo scientists think lichen pops out as dark patches,\nagainst the glowing snow.\nEvery animal sees the colors it needs to survive.\nYour three cones are just one version of the world.\nAnd somewhere, a hummingbird is looking at a flower,\nin a color you'll never know.\nNext up, what actually happens,\nwhen a bee stings you?\n",
+        "key_facts": [
+          "Humans see roughly 400-700 nm with 3 cone types (short/blue, medium/green, long/red)",
+          "Purple/magenta is a non-spectral color: the brain's mix of red and blue signals, not a single wavelength",
+          "Dogs have 2 cone types (blue and yellowish), so red and green look similar",
+          "Honeybees see ultraviolet, blue and green, and are not sensitive to red; many flowers have UV bullseye nectar guides",
+          "Many birds have 4 cone types including a UV/violet cone; blue tit males have more UV-reflective crowns",
+          "Stoddard et al. (Princeton, PNAS 2020) showed wild broad-tailed hummingbirds in the Rocky Mountains discriminate non-spectral colors such as UV+green",
+          "Mantis shrimp have about 12 color photoreceptor types but Thoen et al. (Science 2014) found poor discrimination of close colors; they appear to recognize colors directly",
+          "Reindeer eyes transmit UV; snow reflects UV while lichen absorbs it, so researchers think lichen stands out as dark"
+        ],
+        "voice": "Kokoro",
+        "format": "long",
+        "style": "Low-Poly Faceted"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261120-animal-colors",
+      "redos": 0,
+      "updated": "2026-11-20T13:06:53.308651+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Low-Poly Faceted style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-20",
+        "name": "2026-11-20-102.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-20",
+        "name": "2026-11-20-102-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:02,730\nHummingbirds see colors your brain has never made.\n\n2\n00:00:03,160 --> 00:00:05,210\nNot brighter colors, or sharper ones.\n\n3\n00:00:05,670 --> 00:00:07,530\nWhole new colors, with no names.\n\n4\n00:00:07,900 --> 00:00:10,980\nSo how can an animal see a color we can't even imagine?\n\n5\n00:00:11,500 --> 00:00:13,420\nTo find out, we have to start with you.\n\n6\n00:00:13,840 --> 00:00:16,010\nLight travels in waves of different lengths.\n\n7\n00:00:16,480 --> 00:00:18,610\nYour eyes catch a tiny slice of them,\n\n8\n00:00:19,000 --> 00:00:21,760\nfrom about 400 to 700 nanometers.\n\n9\n00:00:22,220 --> 00:00:23,550\nThat slice is the rainbow,\n\n10\n00:00:23,900 --> 00:00:25,990\nviolet at one end and red at the other.\n\n11\n00:00:26,470 --> 00:00:29,770\nInside your eye are three kinds of color cells, called cones.\n\n12\n00:00:30,230 --> 00:00:33,750\nOne likes blue light best, one likes green, and one likes red.\n\n13\n00:00:34,200 --> 00:00:35,670\nEvery color you've ever seen,\n\n14\n00:00:36,090 --> 00:00:39,200\nis your brain comparing how hard those three are firing.\n\n15\n00:00:39,580 --> 00:00:42,640\nYellow? That's your red and green cones firing together.\n\n16\n00:00:43,020 --> 00:00:44,170\nAnd here's a fun one.\n\n17\n00:00:44,510 --> 00:00:46,290\nPurple isn't in the rainbow at all.\n\n18\n00:00:46,720 --> 00:00:50,130\nWhen your red and blue cones fire, but green stays quiet,\n\n19\n00:00:50,570 --> 00:00:52,700\nyour brain invents a color to fill the gap.\n\n20\n00:00:53,070 --> 00:00:55,320\nScientists call that a non-spectral color.\n\n21\n00:00:55,760 --> 00:00:57,100\nHold on to that idea.\n\n22\n00:00:57,460 --> 00:00:58,890\nNow take one cone away.\n\n23\n00:00:59,330 --> 00:01:01,690\nDogs have just two, tuned to blue and yellow.\n\n24\n00:01:02,090 --> 00:01:03,930\nSo a red ball on green grass,\n\n25\n00:01:04,290 --> 00:01:06,830\nlooks to a dog like two similar, muddy shades.\n\n26\n00:01:07,270 --> 00:01:08,910\nFewer cones, fewer colors.\n\n27\n00:01:09,170 --> 00:01:10,520\nSo what happens with more?\n\n28\n00:01:11,070 --> 00:01:13,690\nHoneybees have three cones too, but they're shifted.\n\n29\n00:01:14,150 --> 00:01:16,350\nThey see ultraviolet, blue and green.\n\n30\n00:01:16,700 --> 00:01:19,010\nRed? To a bee, red mostly looks dark.\n\n31\n00:01:19,390 --> 00:01:21,740\nLots of flowers that look plain yellow to us,\n\n32\n00:01:22,090 --> 00:01:24,550\nhave dark ultraviolet bullseyes in the middle.\n\n33\n00:01:24,910 --> 00:01:26,330\nThey work like landing lights,\n\n34\n00:01:26,600 --> 00:01:28,250\npointing the bee straight to the nectar.\n\n35\n00:01:28,600 --> 00:01:30,380\nMany birds go one step further.\n\n36\n00:01:30,840 --> 00:01:34,200\nThey have four cone types, including one for ultraviolet.\n\n37\n00:01:34,670 --> 00:01:37,810\nMale and female blue tits look almost the same to us.\n\n38\n00:01:38,240 --> 00:01:41,170\nBut in ultraviolet, the males' crowns shine brighter.\n\n39\n00:01:41,540 --> 00:01:42,750\nNow remember purple.\n\n40\n00:01:43,080 --> 00:01:45,890\nWith three cones, you get one non-spectral color.\n\n41\n00:01:46,290 --> 00:01:48,900\nWith four cones, there are way more ways to mix.\n\n42\n00:01:49,260 --> 00:01:54,040\nIn 2020, scientists tested wild hummingbirds in the Rocky Mountains.\n\n43\n00:01:54,480 --> 00:01:58,060\nThey lit up feeders with mixes like ultraviolet plus green.\n\n44\n00:01:58,470 --> 00:02:01,310\nAnd the birds learned to tell them apart from plain green.\n\n45\n00:02:01,680 --> 00:02:03,220\nThat's a color you will never see.\n\n46\n00:02:03,640 --> 00:02:05,170\nIt isn't greenish, or bluish.\n\n47\n00:02:05,620 --> 00:02:07,740\nIt's something your brain has no slot for,\n\n48\n00:02:08,130 --> 00:02:10,510\nlike trying to picture a brand new primary color.\n\n49\n00:02:10,940 --> 00:02:13,520\nSo more cones always means more colors, right?\n\n50\n00:02:14,010 --> 00:02:15,290\nMeet the mantis shrimp.\n\n51\n00:02:15,570 --> 00:02:17,930\nIt has around twelve kinds of color receptors.\n\n52\n00:02:18,330 --> 00:02:21,440\nFor years, people said it must see a mind-blowing rainbow.\n\n53\n00:02:21,810 --> 00:02:25,240\nBut in 2014, scientists actually tested it.\n\n54\n00:02:25,620 --> 00:02:28,230\nAnd it was worse than you at telling close shades apart.\n\n55\n00:02:28,590 --> 00:02:30,570\nInstead of comparing cones like we do,\n\n56\n00:02:31,000 --> 00:02:34,180\nit seems to read colors directly, like a barcode scanner.\n\n57\n00:02:34,580 --> 00:02:35,830\nFast, but not fine.\n\n58\n00:02:36,200 --> 00:02:38,400\nSo why bother seeing ultraviolet at all?\n\n59\n00:02:38,850 --> 00:02:41,160\nTake reindeer, out in the snowy Arctic.\n\n60\n00:02:41,630 --> 00:02:45,930\nSnow reflects ultraviolet, but their favorite food, lichen, soaks it up.\n\n61\n00:02:46,350 --> 00:02:49,400\nSo scientists think lichen pops out as dark patches,\n\n62\n00:02:49,790 --> 00:02:51,060\nagainst the glowing snow.\n\n63\n00:02:51,450 --> 00:02:54,240\nEvery animal sees the colors it needs to survive.\n\n64\n00:02:54,700 --> 00:02:57,450\nYour three cones are just one version of the world.\n\n65\n00:02:57,810 --> 00:03:00,360\nAnd somewhere, a hummingbird is looking at a flower,\n\n66\n00:03:00,730 --> 00:03:01,950\nin a color you'll never know.\n\n67\n00:03:02,370 --> 00:03:04,020\nNext up, what actually happens,\n\n68\n00:03:04,250 --> 00:03:05,210\nwhen a bee stings you?\n\n",
+      "tg_msg": 1178
+    },
+    "2026-11-20-103": {
+      "topic": {
+        "title": "Why can't cats taste anything sweet?",
+        "format": "animated",
+        "angle": "Kawaii Anime"
+      },
+      "package": {
+        "title": "Why Can't Cats Taste Sugar? 1 Broken Gene \ud83d\udc31",
+        "description": "Why can't cats taste sweet things? In 2005, scientists found that cats carry a broken copy of the Tas1r2 gene, one half of the sweet taste receptor, so sugar tastes like nothing to them, and lions, tigers and cheetahs share the same broken gene.\n\nSources:\nhttps://www.sciencedaily.com/releases/2005/07/050725065702.htm\nhttps://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.0010003\nhttps://www.nature.com/news/2005/050718/full/news050718-16.html\n\nAnimated in the Kawaii Anime style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#cats",
+          "#science",
+          "#animalfacts"
+        ],
+        "tags": [
+          "why cant cats taste sweet",
+          "cats sweet taste",
+          "cat taste buds",
+          "Tas1r2",
+          "sweet taste receptor",
+          "cat facts",
+          "cat genetics",
+          "big cats",
+          "carnivore",
+          "animal facts",
+          "science explained",
+          "zorbly ai",
+          "kawaii animation",
+          "explainer short"
+        ],
+        "category": "27",
+        "pinned_comment": "Does your cat beg for ice cream, butter or yogurt? What do you think it's really after? \ud83d\udc31",
+        "thumbnail_text": "NO SWEET",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "Your cat can't taste sugar, and one broken gene is why. Put a sweet treat in front of one, and to the cat, it tastes like nothing. To taste sweet, your tongue needs a tiny lock, built from two parts that work as a pair. In 2005, scientists looked inside cat DNA, and found one of those parts was broken. The gene for it is missing 247 letters, so the lock never gets built. No lock, no sweet. And it's not just house cats. Lions, tigers and cheetahs carry the same broken gene. Which honestly makes sense. Cats eat almost nothing but meat, and meat has barely any sugar. So losing sweet cost them nothing at all. So if your cat keeps stealing your ice cream, what do you think it's really after?",
+        "key_facts": [
+          "Sweet taste needs a receptor made of two proteins, T1R2 and T1R3",
+          "Cats' Tas1r2 gene is a pseudogene missing 247 base pairs (Li et al., PLoS Genetics, 2005)",
+          "Lions, tigers and cheetahs carry the same broken gene",
+          "Cats are obligate carnivores and meat has almost no sugar"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Kawaii Anime"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261120-cat-sweet",
+      "redos": 0,
+      "updated": "2026-11-20T13:07:06.868344+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-20",
+        "name": "2026-11-20-103.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-20",
+        "name": "2026-11-20-103-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:01,670\nYour cat can't taste sugar,\n\n2\n00:00:02,070 --> 00:00:03,900\nand one broken gene is why.\n\n3\n00:00:04,360 --> 00:00:06,010\nPut a sweet treat in front of one,\n\n4\n00:00:06,370 --> 00:00:08,850\nand to the cat, it tastes like nothing.\n\n5\n00:00:09,200 --> 00:00:12,190\nTo taste sweet, your tongue needs a tiny lock,\n\n6\n00:00:12,720 --> 00:00:14,980\nbuilt from two parts that work as a pair.\n\n7\n00:00:15,370 --> 00:00:18,870\nIn 2005, scientists looked inside cat DNA,\n\n8\n00:00:18,870 --> 00:00:22,170\nand found one of those parts was broken.\n\n9\n00:00:22,540 --> 00:00:25,820\nThe gene for it is missing 247 letters,\n\n10\n00:00:25,960 --> 00:00:28,250\nso the lock never gets built.\n\n11\n00:00:28,620 --> 00:00:30,010\nNo lock, no sweet.\n\n12\n00:00:30,300 --> 00:00:32,010\nAnd it's not just house cats.\n\n13\n00:00:32,460 --> 00:00:34,240\nLions, tigers and cheetahs\n\n14\n00:00:34,410 --> 00:00:36,080\ncarry the same broken gene.\n\n15\n00:00:36,430 --> 00:00:37,970\nWhich honestly makes sense.\n\n16\n00:00:38,300 --> 00:00:40,170\nCats eat almost nothing but meat,\n\n17\n00:00:40,600 --> 00:00:42,420\nand meat has barely any sugar.\n\n18\n00:00:42,860 --> 00:00:45,230\nSo losing sweet cost them nothing at all.\n\n19\n00:00:45,700 --> 00:00:48,260\nSo if your cat keeps stealing your ice cream,\n\n20\n00:00:48,650 --> 00:00:50,350\nwhat do you think it's really after?\n\n",
+      "tg_msg": 1179
     }
   },
   "history": [
@@ -3254,7 +3326,7 @@
   "visual_searches": {
     "2026-10-25": 3
   },
-  "signals_day": "2026-11-19",
+  "signals_day": "2026-11-20",
   "drops_done": {
     "drop/20261025-autumn-leaves": "2026-10-25-101",
     "drop/20261025-roman-hypocaust": "2026-10-25-102",
@@ -3386,7 +3458,9 @@
     "drop/20261119-shark-swim": "2026-11-19-103",
     "drop/20261119-woodpecker": "2026-11-19-104",
     "drop/20261119-apple-float": "2026-11-19-105",
-    "drop/20261120-recorded-voice": "2026-11-20-101"
+    "drop/20261120-recorded-voice": "2026-11-20-101",
+    "drop/20261120-animal-colors": "2026-11-20-102",
+    "drop/20261120-cat-sweet": "2026-11-20-103"
   },
   "refs_day": "2026-11-20"
 }
