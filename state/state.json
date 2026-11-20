@@ -378,178 +378,6 @@
     }
   },
   "videos": {
-    "2026-11-14-102": {
-      "topic": {
-        "title": "What really happens if you swallow chewing gum?",
-        "format": "long",
-        "angle": "Copperplate Engraving"
-      },
-      "package": {
-        "title": "Swallowed Gum Doesn't Stay 7 Years. So Where Does It Go?",
-        "description": "What really happens if you swallow chewing gum? Your body can't digest gum base, but it doesn't need to: swallowed gum moves through your stomach and intestines like corn skins and seeds and usually leaves within a few days, not seven years. We engrave the whole journey, from 5,700-year-old birch tar gum and Maya chicle to enzymes, peristalsis and the gut's 'housekeeper' cleanup wave.\n\nSources:\nhttps://www.dukehealth.org/blog/myth-or-fact-it-takes-seven-years-digest-chewing-gum\nhttps://www.scientificamerican.com/article/ancient-chewing-gum-reveals-a-5-700-year-old-microbiome1/\nhttps://pubmed.ncbi.nlm.nih.gov/9685468/\n\nAnimated in the Copperplate Engraving style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#chewinggum",
-          "#humanbody",
-          "#science"
-        ],
-        "tags": [
-          "what happens if you swallow gum",
-          "does gum stay in your stomach for 7 years",
-          "swallowed gum",
-          "chewing gum myth",
-          "can you digest gum",
-          "gum base",
-          "history of chewing gum",
-          "chicle",
-          "birch tar gum",
-          "digestive system explained",
-          "peristalsis",
-          "migrating motor complex",
-          "how digestion works",
-          "human body facts",
-          "science explained"
-        ],
-        "category": "27",
-        "pinned_comment": "Be honest: how many pieces of gum have you swallowed, and did you believe the seven-year myth as a kid?",
-        "thumbnail_text": "GONE IN DAYS",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "Swallowed gum never stays in you for seven years.\nIt's actually gone in a few days.\nSo where did the seven-year story come from?\nAnd what actually happens to gum inside you?\nLet's follow one swallowed piece, all the way through.\nChapter one. The seven-year myth.\nAlmost everyone hears it as a kid.\nSwallow your gum, and it sits in your stomach for seven years.\nNobody really knows who started it.\nBut there's a grain of truth hiding inside.\nYour body can't digest gum. Not properly.\nIt just doesn't need to.\nChapter two. What gum is made of.\nPeople have chewed gummy stuff for thousands of years.\nIn Denmark, scientists found a lump of chewed birch tar\nabout five thousand seven hundred years old.\nIt still held the chewer's DNA, and her tooth marks.\nFar away, the Maya chewed chicle,\na milky sap tapped from the sapodilla tree.\nIn the eighteen seventies, an inventor named Thomas Adams\nstarted selling chicle as chewing gum in America.\nToday most gum starts with a gum base,\nmade of rubbery, food-grade polymers.\nThen sweetener, softeners and flavour get mixed in.\nChapter three. Why you can't digest it.\nDigestion is mostly chemistry.\nYour spit, stomach and gut make enzymes,\ntiny molecular scissors that snip food into pieces.\nOne kind cuts starch, one cuts protein, and one cuts fat.\nThe sugar and flavour in gum dissolve away while you chew.\nBut the gum base is made of long, tangled chains\nthat none of those scissors can cut.\nEven your stomach acid barely touches it.\nSo the rubbery part stays rubbery, the whole way through.\nAnd honestly, that's fine.\nYour body handles stuff it can't digest every single day.\nChapter four. The journey out.\nOnce you swallow, the gum slides down your food pipe in seconds.\nIn your stomach, strong muscle walls churn it with your lunch.\nThen it squeezes through a little gate at the bottom,\ninto your small intestine,\na tube roughly six metres long, all folded up.\nWaves of muscle push it along, like toothpaste in a tube.\nAnd between meals, your gut runs a cleanup cycle.\nEvery ninety minutes to two hours or so,\na strong wave sweeps the leftovers onward.\nScientists nicknamed it the housekeeper.\nThe gum rides along with corn skins, seeds and fibre,\nthrough the large intestine,\nand out with everything else, usually within a few days.\nChapter five. When it can go wrong.\nSo one swallowed piece is no big deal.\nBut doctors have reported rare cases in young kids\nwho swallowed gum every day, piece after piece.\nThe gum clumped together, sometimes with coins or seeds,\ninto a sticky ball that got stuck.\nThose cases are rare, and they took a lot of gum.\nSo the best place for gum is still the bin, not your belly.\nThe seven-year myth is wrong,\nbut it's wrong in an interesting way.\nYour body can't break gum down.\nIt simply moves it along, and shows it the door.\nNext time, why are sloths so slow?\nAnd how does being slow keep them alive?",
-        "key_facts": [
-          "Swallowed gum is not digested but passes through the digestive tract and out in stool, usually within days; the seven-year claim is a myth (Duke Health)",
-          "Gum base (food-grade polymers, resins, elastomers) resists digestive enzymes; sweeteners and flavours dissolve or are absorbed",
-          "A ~5,700-year-old chewed birch-pitch 'gum' from Syltholm, Denmark yielded a full human genome and oral microbes (Scientific American / Nature Communications 2019)",
-          "The Maya and Aztecs chewed chicle, sap from the sapodilla tree (Manilkara zapota); Thomas Adams began selling chicle chewing gum in New York in the early 1870s",
-          "Between meals the migrating motor complex sweeps the stomach and small intestine roughly every 90-120 minutes ('housekeeper' wave)",
-          "The small intestine is roughly 6 m (about 20 ft) long",
-          "Rare gum bezoars have been reported in children who habitually swallowed large amounts of gum, sometimes with coins or seeds (Milov et al., Pediatrics 1998)"
-        ],
-        "voice": "Kokoro",
-        "format": "long",
-        "style": "Copperplate Engraving"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261114-swallowed-gum",
-      "redos": 0,
-      "updated": "2026-11-14T19:11:39.402482+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Copperplate Engraving style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-14",
-        "name": "2026-11-14-102.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-14",
-        "name": "2026-11-14-102-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:03,650\nSwallowed gum never stays in you for seven years.\n\n2\n00:00:04,120 --> 00:00:06,530\nIt's actually gone in a few days.\n\n3\n00:00:06,870 --> 00:00:09,520\nSo where did the seven-year story come from?\n\n4\n00:00:09,980 --> 00:00:12,770\nAnd what actually happens to gum inside you?\n\n5\n00:00:13,230 --> 00:00:16,540\nLet's follow one swallowed piece, all the way through.\n\n6\n00:00:16,970 --> 00:00:19,270\nChapter one. The seven-year myth.\n\n7\n00:00:19,730 --> 00:00:22,200\nAlmost everyone hears it as a kid.\n\n8\n00:00:22,560 --> 00:00:26,280\nSwallow your gum, and it sits in your stomach for seven years.\n\n9\n00:00:26,680 --> 00:00:29,280\nNobody really knows who started it.\n\n10\n00:00:29,700 --> 00:00:32,470\nBut there's a grain of truth hiding inside.\n\n11\n00:00:32,930 --> 00:00:36,030\nYour body can't digest gum. Not properly.\n\n12\n00:00:36,440 --> 00:00:38,030\nIt just doesn't need to.\n\n13\n00:00:38,500 --> 00:00:40,930\nChapter two. What gum is made of.\n\n14\n00:00:41,290 --> 00:00:44,690\nPeople have chewed gummy stuff for thousands of years.\n\n15\n00:00:45,170 --> 00:00:48,800\nIn Denmark, scientists found a lump of chewed birch tar\n\n16\n00:00:49,190 --> 00:00:51,620\nabout five thousand seven hundred years old.\n\n17\n00:00:52,030 --> 00:00:55,420\nIt still held the chewer's DNA, and her tooth marks.\n\n18\n00:00:55,780 --> 00:00:57,930\nFar away, the Maya chewed chicle,\n\n19\n00:00:58,280 --> 00:01:00,820\na milky sap tapped from the sapodilla tree.\n\n20\n00:01:01,270 --> 00:01:04,890\nIn the eighteen seventies, an inventor named Thomas Adams\n\n21\n00:01:05,150 --> 00:01:08,700\nstarted selling chicle as chewing gum in America.\n\n22\n00:01:09,080 --> 00:01:11,450\nToday most gum starts with a gum base,\n\n23\n00:01:11,800 --> 00:01:14,210\nmade of rubbery, food-grade polymers.\n\n24\n00:01:14,570 --> 00:01:17,880\nThen sweetener, softeners and flavour get mixed in.\n\n25\n00:01:18,330 --> 00:01:20,880\nChapter three. Why you can't digest it.\n\n26\n00:01:21,280 --> 00:01:23,860\nDigestion is mostly chemistry.\n\n27\n00:01:24,230 --> 00:01:27,030\nYour spit, stomach and gut make enzymes,\n\n28\n00:01:27,420 --> 00:01:30,870\ntiny molecular scissors that snip food into pieces.\n\n29\n00:01:31,220 --> 00:01:35,410\nOne kind cuts starch, one cuts protein, and one cuts fat.\n\n30\n00:01:35,780 --> 00:01:39,720\nThe sugar and flavour in gum dissolve away while you chew.\n\n31\n00:01:40,080 --> 00:01:43,340\nBut the gum base is made of long, tangled chains\n\n32\n00:01:43,740 --> 00:01:45,630\nthat none of those scissors can cut.\n\n33\n00:01:46,090 --> 00:01:48,960\nEven your stomach acid barely touches it.\n\n34\n00:01:49,420 --> 00:01:52,810\nSo the rubbery part stays rubbery, the whole way through.\n\n35\n00:01:53,170 --> 00:01:55,060\nAnd honestly, that's fine.\n\n36\n00:01:55,370 --> 00:01:59,280\nYour body handles stuff it can't digest every single day.\n\n37\n00:01:59,630 --> 00:02:01,790\nChapter four. The journey out.\n\n38\n00:02:02,190 --> 00:02:06,260\nOnce you swallow, the gum slides down your food pipe in seconds.\n\n39\n00:02:06,690 --> 00:02:10,450\nIn your stomach, strong muscle walls churn it with your lunch.\n\n40\n00:02:10,900 --> 00:02:13,360\nThen it squeezes through a little gate at the bottom,\n\n41\n00:02:13,770 --> 00:02:15,320\ninto your small intestine,\n\n42\n00:02:15,670 --> 00:02:18,740\na tube roughly six metres long, all folded up.\n\n43\n00:02:19,210 --> 00:02:23,030\nWaves of muscle push it along, like toothpaste in a tube.\n\n44\n00:02:23,410 --> 00:02:26,890\nAnd between meals, your gut runs a cleanup cycle.\n\n45\n00:02:27,330 --> 00:02:29,510\nEvery ninety minutes to two hours or so,\n\n46\n00:02:29,920 --> 00:02:32,850\na strong wave sweeps the leftovers onward.\n\n47\n00:02:33,240 --> 00:02:35,830\nScientists nicknamed it the housekeeper.\n\n48\n00:02:36,270 --> 00:02:40,000\nThe gum rides along with corn skins, seeds and fibre,\n\n49\n00:02:40,420 --> 00:02:41,900\nthrough the large intestine,\n\n50\n00:02:42,270 --> 00:02:45,720\nand out with everything else, usually within a few days.\n\n51\n00:02:46,060 --> 00:02:48,430\nChapter five. When it can go wrong.\n\n52\n00:02:48,830 --> 00:02:51,900\nSo one swallowed piece is no big deal.\n\n53\n00:02:52,360 --> 00:02:55,420\nBut doctors have reported rare cases in young kids\n\n54\n00:02:55,720 --> 00:02:59,120\nwho swallowed gum every day, piece after piece.\n\n55\n00:02:59,550 --> 00:03:03,220\nThe gum clumped together, sometimes with coins or seeds,\n\n56\n00:03:03,570 --> 00:03:05,600\ninto a sticky ball that got stuck.\n\n57\n00:03:06,030 --> 00:03:09,410\nThose cases are rare, and they took a lot of gum.\n\n58\n00:03:09,770 --> 00:03:13,400\nSo the best place for gum is still the bin, not your belly.\n\n59\n00:03:13,760 --> 00:03:15,450\nThe seven-year myth is wrong,\n\n60\n00:03:15,800 --> 00:03:17,750\nbut it's wrong in an interesting way.\n\n61\n00:03:18,210 --> 00:03:20,430\nYour body can't break gum down.\n\n62\n00:03:20,800 --> 00:03:23,750\nIt simply moves it along, and shows it the door.\n\n63\n00:03:24,220 --> 00:03:26,590\nNext time, why are sloths so slow?\n\n64\n00:03:27,070 --> 00:03:29,570\nAnd how does being slow keep them alive?\n\n",
-      "tg_msg": 1119,
-      "approved_by": "auto",
-      "description_full": "What really happens if you swallow chewing gum? Your body can't digest gum base, but it doesn't need to: swallowed gum moves through your stomach and intestines like corn skins and seeds and usually leaves within a few days, not seven years. We engrave the whole journey, from 5,700-year-old birch tar gum and Maya chicle to enzymes, peristalsis and the gut's 'housekeeper' cleanup wave.\n\nSources:\nhttps://www.dukehealth.org/blog/myth-or-fact-it-takes-seven-years-digest-chewing-gum\nhttps://www.scientificamerican.com/article/ancient-chewing-gum-reveals-a-5-700-year-old-microbiome1/\nhttps://pubmed.ncbi.nlm.nih.gov/9685468/\n\nAnimated in the Copperplate Engraving style.\n\nFollow Zorbly AI for a new Short every day.\n\n#chewinggum #humanbody #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Copperplate Engraving style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/3nUU0L-UQCQ",
-          "private \u00b7 thumbnail \u2705"
-        ]
-      },
-      "uploaded_at": "2026-11-14T19:11:39.402499+00:00",
-      "slot": "2026-11-21T19:15:00+00:00"
-    },
-    "2026-11-14-103": {
-      "topic": {
-        "title": "Why do your teeth chatter when you're cold?",
-        "format": "animated",
-        "angle": "Flat-Vector Science"
-      },
-      "package": {
-        "title": "Why Teeth Chatter: Shivering Makes 5x the Heat \ud83e\udd76",
-        "description": "Why do your teeth chatter when you're cold? Your brain's hypothalamus makes your muscles shiver to generate heat, and your small, light, hinged jaw rattles so your teeth click together.\n\nSources:\nhttps://www.scienceabc.com/humans/why-do-your-teeth-chatter-when-youre-cold.html\nhttps://pubmed.ncbi.nlm.nih.gov/11394237/\nhttps://www.popsci.com/science/what-is-shivering/\n\nAnimated in the Flat-Vector Science style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#humanbody",
-          "#science",
-          "#cold"
-        ],
-        "tags": [
-          "why do teeth chatter",
-          "teeth chattering",
-          "why do we shiver",
-          "shivering explained",
-          "hypothalamus",
-          "body heat",
-          "cold weather science",
-          "human body facts",
-          "weird body facts",
-          "science shorts",
-          "how shivering works",
-          "zorbly ai",
-          "chattering teeth cold"
-        ],
-        "category": "27",
-        "pinned_comment": "When you're freezing, what chatters first: your teeth or your knees? \ud83e\udd76",
-        "thumbnail_text": "BRAIN HEATER",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "Your chattering teeth mean your brain is burning fuel before you freeze. When your skin senses cold, a spot deep in your brain called the hypothalamus hits the panic button. It can't just crank up a thermostat, so it makes your muscles shiver. Tiny fast squeezes, over and over, and every squeeze burns fuel and leaks heat. At full blast, shivering can make about five times the heat your body makes at rest. Your jaw muscles join in too. But your jaw is small and light, and it hangs on a hinge, so every twitch swings it. Top teeth smack bottom teeth. Click, click, click. Your legs and back are shivering too, they're just too heavy to rattle. And honestly, that's kind of genius. Your body turns its own muscles into a furnace. So be honest. When you're freezing, what chatters first, your teeth or your knees?",
-        "key_facts": [
-          "Shivering is involuntary rapid muscle contraction triggered by the brain (hypothalamus) to make heat (PopSci)",
-          "Peak shivering measured at 4.9x resting metabolism; ~5x reported (Eur J Appl Physiol 2001, PubMed 11394237)",
-          "Chattering happens because face and jaw muscles shiver too, banging the teeth together (ScienceABC)",
-          "Jaw is a light, hinged bone, so its shivering is visible/audible while bigger muscles' shivering isn't (explanatory)"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Flat-Vector Science"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261114-teeth-chatter",
-      "redos": 0,
-      "updated": "2026-11-14T19:11:42.914500+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-14",
-        "name": "2026-11-14-103.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-14",
-        "name": "2026-11-14-103-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:04,660\nYour chattering teeth mean your brain is burning fuel before you freeze.\n\n2\n00:00:05,070 --> 00:00:06,640\nWhen your skin senses cold,\n\n3\n00:00:07,230 --> 00:00:10,060\na spot deep in your brain called the hypothalamus\n\n4\n00:00:10,210 --> 00:00:11,340\nhits the panic button.\n\n5\n00:00:11,690 --> 00:00:13,410\nIt can't just crank up a thermostat,\n\n6\n00:00:13,720 --> 00:00:15,240\nso it makes your muscles shiver.\n\n7\n00:00:15,630 --> 00:00:17,790\nTiny fast squeezes, over and over,\n\n8\n00:00:18,250 --> 00:00:20,730\nand every squeeze burns fuel and leaks heat.\n\n9\n00:00:21,120 --> 00:00:24,620\nAt full blast, shivering can make about five times\n\n10\n00:00:24,750 --> 00:00:26,330\nthe heat your body makes at rest.\n\n11\n00:00:26,730 --> 00:00:28,540\nYour jaw muscles join in too.\n\n12\n00:00:28,890 --> 00:00:30,660\nBut your jaw is small and light,\n\n13\n00:00:31,030 --> 00:00:32,290\nand it hangs on a hinge,\n\n14\n00:00:32,640 --> 00:00:34,080\nso every twitch swings it.\n\n15\n00:00:34,480 --> 00:00:36,280\nTop teeth smack bottom teeth.\n\n16\n00:00:36,650 --> 00:00:37,710\nClick, click, click.\n\n17\n00:00:38,000 --> 00:00:40,110\nYour legs and back are shivering too,\n\n18\n00:00:40,510 --> 00:00:42,040\nthey're just too heavy to rattle.\n\n19\n00:00:42,400 --> 00:00:44,530\nAnd honestly, that's kind of genius.\n\n20\n00:00:45,000 --> 00:00:47,780\nYour body turns its own muscles into a furnace.\n\n21\n00:00:48,220 --> 00:00:49,200\nSo be honest.\n\n22\n00:00:49,490 --> 00:00:52,890\nWhen you're freezing, what chatters first, your teeth or your knees?\n\n",
-      "tg_msg": 1120,
-      "approved_by": "auto",
-      "description_full": "Why do your teeth chatter when you're cold? Your brain's hypothalamus makes your muscles shiver to generate heat, and your small, light, hinged jaw rattles so your teeth click together.\n\nSources:\nhttps://www.scienceabc.com/humans/why-do-your-teeth-chatter-when-youre-cold.html\nhttps://pubmed.ncbi.nlm.nih.gov/11394237/\nhttps://www.popsci.com/science/what-is-shivering/\n\nAnimated in the Flat-Vector Science style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #humanbody #science #cold\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/629LpIFEKLw",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-11-14T19:11:42.914516+00:00",
-      "slot": "2026-11-22T00:15:00+00:00"
-    },
     "2026-11-14-104": {
       "topic": {
         "title": "Why don't vultures get sick from eating rotten meat?",
@@ -3147,12 +2975,12 @@
         "format": "long",
         "style": "Low-Poly Faceted"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261120-animal-colors",
       "redos": 0,
-      "updated": "2026-11-20T13:06:53.308651+00:00",
+      "updated": "2026-11-20T21:16:30.869880+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Low-Poly Faceted style). Voice: Kokoro text-to-speech."
       ],
@@ -3167,7 +2995,17 @@
         "name": "2026-11-20-102-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:02,730\nHummingbirds see colors your brain has never made.\n\n2\n00:00:03,160 --> 00:00:05,210\nNot brighter colors, or sharper ones.\n\n3\n00:00:05,670 --> 00:00:07,530\nWhole new colors, with no names.\n\n4\n00:00:07,900 --> 00:00:10,980\nSo how can an animal see a color we can't even imagine?\n\n5\n00:00:11,500 --> 00:00:13,420\nTo find out, we have to start with you.\n\n6\n00:00:13,840 --> 00:00:16,010\nLight travels in waves of different lengths.\n\n7\n00:00:16,480 --> 00:00:18,610\nYour eyes catch a tiny slice of them,\n\n8\n00:00:19,000 --> 00:00:21,760\nfrom about 400 to 700 nanometers.\n\n9\n00:00:22,220 --> 00:00:23,550\nThat slice is the rainbow,\n\n10\n00:00:23,900 --> 00:00:25,990\nviolet at one end and red at the other.\n\n11\n00:00:26,470 --> 00:00:29,770\nInside your eye are three kinds of color cells, called cones.\n\n12\n00:00:30,230 --> 00:00:33,750\nOne likes blue light best, one likes green, and one likes red.\n\n13\n00:00:34,200 --> 00:00:35,670\nEvery color you've ever seen,\n\n14\n00:00:36,090 --> 00:00:39,200\nis your brain comparing how hard those three are firing.\n\n15\n00:00:39,580 --> 00:00:42,640\nYellow? That's your red and green cones firing together.\n\n16\n00:00:43,020 --> 00:00:44,170\nAnd here's a fun one.\n\n17\n00:00:44,510 --> 00:00:46,290\nPurple isn't in the rainbow at all.\n\n18\n00:00:46,720 --> 00:00:50,130\nWhen your red and blue cones fire, but green stays quiet,\n\n19\n00:00:50,570 --> 00:00:52,700\nyour brain invents a color to fill the gap.\n\n20\n00:00:53,070 --> 00:00:55,320\nScientists call that a non-spectral color.\n\n21\n00:00:55,760 --> 00:00:57,100\nHold on to that idea.\n\n22\n00:00:57,460 --> 00:00:58,890\nNow take one cone away.\n\n23\n00:00:59,330 --> 00:01:01,690\nDogs have just two, tuned to blue and yellow.\n\n24\n00:01:02,090 --> 00:01:03,930\nSo a red ball on green grass,\n\n25\n00:01:04,290 --> 00:01:06,830\nlooks to a dog like two similar, muddy shades.\n\n26\n00:01:07,270 --> 00:01:08,910\nFewer cones, fewer colors.\n\n27\n00:01:09,170 --> 00:01:10,520\nSo what happens with more?\n\n28\n00:01:11,070 --> 00:01:13,690\nHoneybees have three cones too, but they're shifted.\n\n29\n00:01:14,150 --> 00:01:16,350\nThey see ultraviolet, blue and green.\n\n30\n00:01:16,700 --> 00:01:19,010\nRed? To a bee, red mostly looks dark.\n\n31\n00:01:19,390 --> 00:01:21,740\nLots of flowers that look plain yellow to us,\n\n32\n00:01:22,090 --> 00:01:24,550\nhave dark ultraviolet bullseyes in the middle.\n\n33\n00:01:24,910 --> 00:01:26,330\nThey work like landing lights,\n\n34\n00:01:26,600 --> 00:01:28,250\npointing the bee straight to the nectar.\n\n35\n00:01:28,600 --> 00:01:30,380\nMany birds go one step further.\n\n36\n00:01:30,840 --> 00:01:34,200\nThey have four cone types, including one for ultraviolet.\n\n37\n00:01:34,670 --> 00:01:37,810\nMale and female blue tits look almost the same to us.\n\n38\n00:01:38,240 --> 00:01:41,170\nBut in ultraviolet, the males' crowns shine brighter.\n\n39\n00:01:41,540 --> 00:01:42,750\nNow remember purple.\n\n40\n00:01:43,080 --> 00:01:45,890\nWith three cones, you get one non-spectral color.\n\n41\n00:01:46,290 --> 00:01:48,900\nWith four cones, there are way more ways to mix.\n\n42\n00:01:49,260 --> 00:01:54,040\nIn 2020, scientists tested wild hummingbirds in the Rocky Mountains.\n\n43\n00:01:54,480 --> 00:01:58,060\nThey lit up feeders with mixes like ultraviolet plus green.\n\n44\n00:01:58,470 --> 00:02:01,310\nAnd the birds learned to tell them apart from plain green.\n\n45\n00:02:01,680 --> 00:02:03,220\nThat's a color you will never see.\n\n46\n00:02:03,640 --> 00:02:05,170\nIt isn't greenish, or bluish.\n\n47\n00:02:05,620 --> 00:02:07,740\nIt's something your brain has no slot for,\n\n48\n00:02:08,130 --> 00:02:10,510\nlike trying to picture a brand new primary color.\n\n49\n00:02:10,940 --> 00:02:13,520\nSo more cones always means more colors, right?\n\n50\n00:02:14,010 --> 00:02:15,290\nMeet the mantis shrimp.\n\n51\n00:02:15,570 --> 00:02:17,930\nIt has around twelve kinds of color receptors.\n\n52\n00:02:18,330 --> 00:02:21,440\nFor years, people said it must see a mind-blowing rainbow.\n\n53\n00:02:21,810 --> 00:02:25,240\nBut in 2014, scientists actually tested it.\n\n54\n00:02:25,620 --> 00:02:28,230\nAnd it was worse than you at telling close shades apart.\n\n55\n00:02:28,590 --> 00:02:30,570\nInstead of comparing cones like we do,\n\n56\n00:02:31,000 --> 00:02:34,180\nit seems to read colors directly, like a barcode scanner.\n\n57\n00:02:34,580 --> 00:02:35,830\nFast, but not fine.\n\n58\n00:02:36,200 --> 00:02:38,400\nSo why bother seeing ultraviolet at all?\n\n59\n00:02:38,850 --> 00:02:41,160\nTake reindeer, out in the snowy Arctic.\n\n60\n00:02:41,630 --> 00:02:45,930\nSnow reflects ultraviolet, but their favorite food, lichen, soaks it up.\n\n61\n00:02:46,350 --> 00:02:49,400\nSo scientists think lichen pops out as dark patches,\n\n62\n00:02:49,790 --> 00:02:51,060\nagainst the glowing snow.\n\n63\n00:02:51,450 --> 00:02:54,240\nEvery animal sees the colors it needs to survive.\n\n64\n00:02:54,700 --> 00:02:57,450\nYour three cones are just one version of the world.\n\n65\n00:02:57,810 --> 00:03:00,360\nAnd somewhere, a hummingbird is looking at a flower,\n\n66\n00:03:00,730 --> 00:03:01,950\nin a color you'll never know.\n\n67\n00:03:02,370 --> 00:03:04,020\nNext up, what actually happens,\n\n68\n00:03:04,250 --> 00:03:05,210\nwhen a bee stings you?\n\n",
-      "tg_msg": 1178
+      "tg_msg": 1178,
+      "approved_by": "auto",
+      "description_full": "Why can some animals see colors we can't even imagine? Your eyes have 3 color cones, while bees and many birds see ultraviolet, hummingbirds tell apart non-spectral colors like UV plus green, the mantis shrimp's 12 receptors turn out to be fast but not fine, and reindeer may spot dark lichen against UV-bright snow.\n\n0:00 Colors with no names\n0:13 How you see color\n0:57 Fewer cones\n1:10 Bees see ultraviolet\n1:28 Birds have 4 cones\n2:10 The mantis shrimp twist\n2:35 Why see UV?\n\nSources:\nhttps://www.princeton.edu/news/2020/06/15/wild-hummingbirds-see-broad-range-colors-humans-can-only-imagine\nhttps://www.nationalgeographic.com/science/article/the-mantis-shrimp-sees-like-a-satellite\nhttps://www.popsci.com/environment/reindeer-eyes-uv-light/\n\nAnimated in the Low-Poly Faceted style.\n\nFollow Zorbly AI for a new Short every day.\n\n#animals #science #colorvision\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Low-Poly Faceted style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/0CqBaW3JCRg",
+          "private \u00b7 thumbnail \u2705"
+        ]
+      },
+      "uploaded_at": "2026-11-20T21:16:30.869897+00:00",
+      "slot": "2026-11-21T15:15:00+00:00"
     },
     "2026-11-20-103": {
       "topic": {
@@ -3216,12 +3054,12 @@
         "format": "animated",
         "style": "Kawaii Anime"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261120-cat-sweet",
       "redos": 0,
-      "updated": "2026-11-20T13:07:06.868344+00:00",
+      "updated": "2026-11-20T21:16:36.025943+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech."
       ],
@@ -3236,7 +3074,165 @@
         "name": "2026-11-20-103-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:01,670\nYour cat can't taste sugar,\n\n2\n00:00:02,070 --> 00:00:03,900\nand one broken gene is why.\n\n3\n00:00:04,360 --> 00:00:06,010\nPut a sweet treat in front of one,\n\n4\n00:00:06,370 --> 00:00:08,850\nand to the cat, it tastes like nothing.\n\n5\n00:00:09,200 --> 00:00:12,190\nTo taste sweet, your tongue needs a tiny lock,\n\n6\n00:00:12,720 --> 00:00:14,980\nbuilt from two parts that work as a pair.\n\n7\n00:00:15,370 --> 00:00:18,870\nIn 2005, scientists looked inside cat DNA,\n\n8\n00:00:18,870 --> 00:00:22,170\nand found one of those parts was broken.\n\n9\n00:00:22,540 --> 00:00:25,820\nThe gene for it is missing 247 letters,\n\n10\n00:00:25,960 --> 00:00:28,250\nso the lock never gets built.\n\n11\n00:00:28,620 --> 00:00:30,010\nNo lock, no sweet.\n\n12\n00:00:30,300 --> 00:00:32,010\nAnd it's not just house cats.\n\n13\n00:00:32,460 --> 00:00:34,240\nLions, tigers and cheetahs\n\n14\n00:00:34,410 --> 00:00:36,080\ncarry the same broken gene.\n\n15\n00:00:36,430 --> 00:00:37,970\nWhich honestly makes sense.\n\n16\n00:00:38,300 --> 00:00:40,170\nCats eat almost nothing but meat,\n\n17\n00:00:40,600 --> 00:00:42,420\nand meat has barely any sugar.\n\n18\n00:00:42,860 --> 00:00:45,230\nSo losing sweet cost them nothing at all.\n\n19\n00:00:45,700 --> 00:00:48,260\nSo if your cat keeps stealing your ice cream,\n\n20\n00:00:48,650 --> 00:00:50,350\nwhat do you think it's really after?\n\n",
-      "tg_msg": 1179
+      "tg_msg": 1179,
+      "approved_by": "auto",
+      "description_full": "Why can't cats taste sweet things? In 2005, scientists found that cats carry a broken copy of the Tas1r2 gene, one half of the sweet taste receptor, so sugar tastes like nothing to them, and lions, tigers and cheetahs share the same broken gene.\n\nSources:\nhttps://www.sciencedaily.com/releases/2005/07/050725065702.htm\nhttps://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.0010003\nhttps://www.nature.com/news/2005/050718/full/news050718-16.html\n\nAnimated in the Kawaii Anime style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #cats #science #animalfacts\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/AIr0jIdQraQ",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-20T21:16:36.025962+00:00",
+      "slot": "2026-11-21T19:15:00+00:00"
+    },
+    "2026-11-20-104": {
+      "topic": {
+        "title": "Why do your feet grow before the rest of you?",
+        "format": "animated",
+        "angle": "Chalkboard Lesson"
+      },
+      "package": {
+        "title": "Feet First, Torso Last: The 3-Step Teen Growth Spurt \ud83e\uddb6",
+        "description": "Why do your feet grow before the rest of your body? In the teen growth spurt, growth runs from the outside in: hands and feet first, then arms and legs, then the torso, and growth plates harden into solid bone around 13 to 17.\n\nSources:\nhttps://healthychildren.org/English/ages-stages/gradeschool/puberty/Pages/Physical-Development-Whats-Normal-Whats-Not.aspx\nhttps://kidshealth.org/en/parents/growth-plates.html\nhttps://www.nichd.nih.gov/newsroom/news/072318-bone-maturation\n\nAnimated in the Chalkboard Lesson style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#growthspurt",
+          "#science",
+          "#humanbody"
+        ],
+        "tags": [
+          "why do feet grow first",
+          "growth spurt",
+          "growth plates",
+          "puberty growth order",
+          "teen growth spurt",
+          "big feet teenager",
+          "when do feet stop growing",
+          "distal to proximal growth",
+          "human body facts",
+          "bone growth",
+          "science explained",
+          "zorbly ai",
+          "chalkboard animation",
+          "explainer short"
+        ],
+        "category": "27",
+        "pinned_comment": "Be honest: did your shoe size jump before you got taller? \ud83e\uddb6",
+        "thumbnail_text": "BABY GIRAFFE",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "Your feet grow before the rest of your body. It's why teenagers can look like baby giraffes. Big feet, long legs, and a body still catching up. So what's going on? Inside your bones are growth plates, soft strips of cartilage near each end. They keep adding new bone, until they harden into solid bone and close for good. When puberty kicks in, growth starts at the edges and works inward. Hands and feet go first, then your arms and legs, and your torso grows last. Small bones, like the ones in your fingers and toes, mature faster than the long bones in your legs. That's why teens trip over their own feet. Then, somewhere around 13 to 17, the last growth plates close, and the rest of you finally catches up. So, did your feet show up before the rest of you?",
+        "key_facts": [
+          "Teen growth runs from the extremities inward: hands and feet first, then arms and legs, then the torso (AAP HealthyChildren; Lumen Lifespan Development)",
+          "Growth plates are cartilage near bone ends that harden into solid bone; they usually close around 13-15 for girls and 15-17 for boys (KidsHealth)",
+          "Short bones like those in fingers and toes mature faster than long bones in the arms and legs (NIH/NICHD 2018)"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Chalkboard Lesson"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261120-feet-first",
+      "redos": 0,
+      "updated": "2026-11-20T21:15:56.203409+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Chalkboard Lesson style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-20",
+        "name": "2026-11-20-104.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-20",
+        "name": "2026-11-20-104-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:02,700\nYour feet grow before the rest of your body.\n\n2\n00:00:03,070 --> 00:00:06,120\nIt's why teenagers can look like baby giraffes.\n\n3\n00:00:06,580 --> 00:00:08,070\nBig feet, long legs,\n\n4\n00:00:08,350 --> 00:00:09,800\nand a body still catching up.\n\n5\n00:00:10,270 --> 00:00:11,470\nSo what's going on?\n\n6\n00:00:11,920 --> 00:00:14,030\nInside your bones are growth plates,\n\n7\n00:00:14,420 --> 00:00:16,820\nsoft strips of cartilage near each end.\n\n8\n00:00:17,210 --> 00:00:18,630\nThey keep adding new bone,\n\n9\n00:00:19,180 --> 00:00:22,250\nuntil they harden into solid bone and close for good.\n\n10\n00:00:22,650 --> 00:00:23,850\nWhen puberty kicks in,\n\n11\n00:00:24,270 --> 00:00:26,630\ngrowth starts at the edges and works inward.\n\n12\n00:00:27,080 --> 00:00:28,540\nHands and feet go first,\n\n13\n00:00:28,990 --> 00:00:30,750\nthen your arms and legs,\n\n14\n00:00:30,810 --> 00:00:32,150\nand your torso grows last.\n\n15\n00:00:32,530 --> 00:00:33,410\nSmall bones,\n\n16\n00:00:33,530 --> 00:00:35,640\nlike the ones in your fingers and toes,\n\n17\n00:00:36,090 --> 00:00:39,030\nmature faster than the long bones in your legs.\n\n18\n00:00:39,400 --> 00:00:41,640\nThat's why teens trip over their own feet.\n\n19\n00:00:42,030 --> 00:00:44,590\nThen, somewhere around 13 to 17,\n\n20\n00:00:45,080 --> 00:00:46,370\nthe last growth plates close,\n\n21\n00:00:46,440 --> 00:00:49,350\nand the rest of you finally catches up.\n\n22\n00:00:49,760 --> 00:00:52,270\nSo, did your feet show up before the rest of you?\n\n",
+      "tg_msg": 1181
+    },
+    "2026-11-20-105": {
+      "topic": {
+        "title": "Why don't birds fly into each other in a flock?",
+        "format": "animated",
+        "angle": "Pictogram Motion"
+      },
+      "package": {
+        "title": "Why Don't 10,000 Starlings Ever Crash? \ud83d\udc26",
+        "description": "Why don't starlings crash into each other in a murmuration? Each bird tracks only about seven nearest neighbours, so a turn ripples through the flock as a wave that travels roughly three times faster than one bird can react.\n\nSources:\nhttps://www.princeton.edu/news/2013/02/07/birds-feather-track-seven-neighbors-flock-together\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC2234121\nhttps://www.audubon.org/magazine/how-flock-birds-can-fly-and-move-together\n\nAnimated in the Pictogram Motion style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#starlings",
+          "#birds",
+          "#animalfacts"
+        ],
+        "tags": [
+          "starlings",
+          "murmuration",
+          "bird flock",
+          "why don't birds crash",
+          "how do birds flock",
+          "seven neighbours",
+          "bird science",
+          "animal facts",
+          "flocking behaviour",
+          "collective motion",
+          "nature explained",
+          "zorbly ai",
+          "science shorts"
+        ],
+        "category": "27",
+        "pinned_comment": "Could you dodge a crowd of 10,000 people while watching just 7 of them? Who would your 7 be?",
+        "thumbnail_text": "ONLY 7",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "You'd crash in this flock, but ten thousand starlings never do. They swerve just inches apart, so why don't they slam into each other? There's no leader giving orders. Instead, each starling watches about seven neighbours. Close or far, it doesn't matter, it's always roughly seven. It copies their speed and their turns, and keeps a tiny gap. So when one bird turns, its seven neighbours turn too, then their neighbours, and the turn ripples through the flock like a wave. Scientists found that wave travels about three times faster than a single bird can react. Each bird sees it coming, like dancers in a chorus line. And seven seems to be the sweet spot, enough to stay together, without watching everyone at once. So could you dodge ten thousand people watching just seven?",
+        "key_facts": [
+          "Each starling in a flock interacts with about 6-7 nearest neighbours regardless of distance (Ballerini et al., PNAS 2008; Young et al. 2013).",
+          "There is no leader; the flock's turns emerge from local copying of speed and direction.",
+          "Maneuver waves spread through flocks about three times faster than a single bird's reaction time, as birds anticipate the oncoming wave like a chorus line (Potts, Nature 1984).",
+          "Seven neighbours balances group cohesion against the effort of tracking others (Princeton, 2013)."
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Pictogram Motion"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261120-starling-flock",
+      "redos": 0,
+      "updated": "2026-11-20T21:16:08.123071+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Pictogram Motion style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-20",
+        "name": "2026-11-20-105.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-20",
+        "name": "2026-11-20-105-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:01,540\nYou'd crash in this flock,\n\n2\n00:00:01,840 --> 00:00:04,160\nbut ten thousand starlings never do.\n\n3\n00:00:04,580 --> 00:00:06,210\nThey swerve just inches apart,\n\n4\n00:00:06,660 --> 00:00:08,570\nso why don't they slam into each other?\n\n5\n00:00:09,040 --> 00:00:10,920\nThere's no leader giving orders.\n\n6\n00:00:11,330 --> 00:00:14,480\nInstead, each starling watches about seven neighbours.\n\n7\n00:00:14,890 --> 00:00:16,530\nClose or far, it doesn't matter,\n\n8\n00:00:16,950 --> 00:00:18,530\nit's always roughly seven.\n\n9\n00:00:18,900 --> 00:00:20,990\nIt copies their speed and their turns,\n\n10\n00:00:21,350 --> 00:00:22,730\nand keeps a tiny gap.\n\n11\n00:00:23,180 --> 00:00:24,530\nSo when one bird turns,\n\n12\n00:00:24,530 --> 00:00:26,380\nits seven neighbours turn too,\n\n13\n00:00:26,840 --> 00:00:27,770\nthen their neighbours,\n\n14\n00:00:28,180 --> 00:00:30,900\nand the turn ripples through the flock like a wave.\n\n15\n00:00:31,270 --> 00:00:33,580\nScientists found that wave travels\n\n16\n00:00:33,760 --> 00:00:37,110\nabout three times faster than a single bird can react.\n\n17\n00:00:37,510 --> 00:00:38,920\nEach bird sees it coming,\n\n18\n00:00:39,320 --> 00:00:41,240\nlike dancers in a chorus line.\n\n19\n00:00:41,700 --> 00:00:43,730\nAnd seven seems to be the sweet spot,\n\n20\n00:00:44,220 --> 00:00:45,400\nenough to stay together,\n\n21\n00:00:45,760 --> 00:00:47,760\nwithout watching everyone at once.\n\n22\n00:00:48,180 --> 00:00:50,310\nSo could you dodge ten thousand people\n\n23\n00:00:50,310 --> 00:00:51,440\nwatching just seven?\n\n",
+      "tg_msg": 1182
     }
   },
   "history": [
@@ -3460,7 +3456,9 @@
     "drop/20261119-apple-float": "2026-11-19-105",
     "drop/20261120-recorded-voice": "2026-11-20-101",
     "drop/20261120-animal-colors": "2026-11-20-102",
-    "drop/20261120-cat-sweet": "2026-11-20-103"
+    "drop/20261120-cat-sweet": "2026-11-20-103",
+    "drop/20261120-feet-first": "2026-11-20-104",
+    "drop/20261120-starling-flock": "2026-11-20-105"
   },
   "refs_day": "2026-11-20"
 }
