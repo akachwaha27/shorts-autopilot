@@ -1633,5 +1633,17 @@
   "words": 521,
   "sheet_id": "L033",
   "notes": "unattended run, no storyboard step; 20 scenes / 6 chapters; voice af_heart"
+ },
+ {
+  "date": "2026-11-20",
+  "id": "20261120-feet-first",
+  "kind": "short",
+  "style": "Chalkboard Lesson",
+  "topic": "Why do your feet grow before the rest of you?",
+  "title": "Feet First, Torso Last: The 3-Step Teen Growth Spurt 🦶",
+  "seconds": 53.3,
+  "words": 143,
+  "sheet_id": "S113",
+  "notes": "unattended run, no storyboard step; hook 52, title 98; pick.py offered Isometric Infographic (Lemo) but running the Lemo setup script was blocked, so used the row's Chalkboard style; premise reframed to growth order (sources don't support feet finishing years before height)"
  }
 ]
