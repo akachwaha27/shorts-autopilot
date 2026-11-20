@@ -1,7 +1,8 @@
 """Scripts + metadata for six Shorts formats, tuned for retention and YouTube policy.
 
-Formats: ranking, story, funny, quiz, tips, explainer, clips (funny animal clips ranking),
-animated (45-60 second "how it works" explainer drawn entirely as 3D animation by AI video on fal.ai).
+Formats: ranking, story, funny, quiz, tips, explainer, clips (funny animal clips ranking).
+"animated" is only a label for pre-made 3D explainers dropped in from Claude/OpenMontage (see drops.py);
+AK_ the bot no longer generates them itself (fal.ai AI video was removed), so plan rows marked animated become explainers.
 Each scene may carry on-screen overlays:
   badge  - big text at top ("#5", "Q1", "✓", "TIP 2")
   label  - smaller text under the badge (item name, question, answer)
@@ -25,6 +26,8 @@ FORMATS = {
 
 def fmt_of(topic):
     f = str(topic.get("format", "explainer")).lower()
+    if f.startswith("anim"):  # AK_ AI-animated videos needed fal.ai (removed): make a normal explainer instead
+        return "explainer"
     return next((k for k in FORMATS if f.startswith(k[:4])), "explainer")
 
 
