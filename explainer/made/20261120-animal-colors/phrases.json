@@ -1,0 +1,2562 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.73,
+  "text": "Hummingbirds see colors your brain has never made.",
+  "words": [
+   [
+    "hummingbirds",
+    0.25
+   ],
+   [
+    "see",
+    0.96
+   ],
+   [
+    "colors",
+    1.14
+   ],
+   [
+    "your",
+    1.49
+   ],
+   [
+    "brain",
+    1.73
+   ],
+   [
+    "has",
+    2.02
+   ],
+   [
+    "never",
+    2.2
+   ],
+   [
+    "made",
+    2.5
+   ]
+  ]
+ },
+ {
+  "s": 3.16,
+  "e": 5.21,
+  "text": "Not brighter colors, or sharper ones.",
+  "words": [
+   [
+    "not",
+    3.16
+   ],
+   [
+    "brighter",
+    3.36
+   ],
+   [
+    "colors",
+    3.91
+   ],
+   [
+    "or",
+    4.32
+   ],
+   [
+    "sharper",
+    4.46
+   ],
+   [
+    "ones",
+    4.93
+   ]
+  ]
+ },
+ {
+  "s": 5.67,
+  "e": 7.53,
+  "text": "Whole new colors, with no names.",
+  "words": [
+   [
+    "whole",
+    5.67
+   ],
+   [
+    "new",
+    6.04
+   ],
+   [
+    "colors",
+    6.26
+   ],
+   [
+    "with",
+    6.71
+   ],
+   [
+    "no",
+    7.01
+   ],
+   [
+    "names",
+    7.16
+   ]
+  ]
+ },
+ {
+  "s": 7.9,
+  "e": 10.98,
+  "text": "So how can an animal see a color we can't even imagine?",
+  "words": [
+   [
+    "so",
+    7.9
+   ],
+   [
+    "how",
+    8.04
+   ],
+   [
+    "can",
+    8.26
+   ],
+   [
+    "an",
+    8.48
+   ],
+   [
+    "animal",
+    8.63
+   ],
+   [
+    "see",
+    9.07
+   ],
+   [
+    "a",
+    9.29
+   ],
+   [
+    "color",
+    9.37
+   ],
+   [
+    "we",
+    9.73
+   ],
+   [
+    "cant",
+    9.88
+   ],
+   [
+    "even",
+    10.17
+   ],
+   [
+    "imagine",
+    10.47
+   ]
+  ]
+ },
+ {
+  "s": 11.5,
+  "e": 13.42,
+  "text": "To find out, we have to start with you.",
+  "words": [
+   [
+    "to",
+    11.5
+   ],
+   [
+    "find",
+    11.63
+   ],
+   [
+    "out",
+    11.9
+   ],
+   [
+    "we",
+    12.1
+   ],
+   [
+    "have",
+    12.23
+   ],
+   [
+    "to",
+    12.49
+   ],
+   [
+    "start",
+    12.63
+   ],
+   [
+    "with",
+    12.96
+   ],
+   [
+    "you",
+    13.22
+   ]
+  ]
+ },
+ {
+  "s": 13.84,
+  "e": 16.01,
+  "text": "Light travels in waves of different lengths.",
+  "words": [
+   [
+    "light",
+    13.84
+   ],
+   [
+    "travels",
+    14.13
+   ],
+   [
+    "in",
+    14.54
+   ],
+   [
+    "waves",
+    14.66
+   ],
+   [
+    "of",
+    14.95
+   ],
+   [
+    "different",
+    15.07
+   ],
+   [
+    "lengths",
+    15.6
+   ]
+  ]
+ },
+ {
+  "s": 16.48,
+  "e": 18.61,
+  "text": "Your eyes catch a tiny slice of them,",
+  "words": [
+   [
+    "your",
+    16.48
+   ],
+   [
+    "eyes",
+    16.77
+   ],
+   [
+    "catch",
+    17.06
+   ],
+   [
+    "a",
+    17.43
+   ],
+   [
+    "tiny",
+    17.5
+   ],
+   [
+    "slice",
+    17.8
+   ],
+   [
+    "of",
+    18.16
+   ],
+   [
+    "them",
+    18.31
+   ]
+  ]
+ },
+ {
+  "s": 19.0,
+  "e": 21.76,
+  "text": "from about 400 to 700 nanometers.",
+  "words": [
+   [
+    "from",
+    19.0
+   ],
+   [
+    "about",
+    19.41
+   ],
+   [
+    "400",
+    19.92
+   ],
+   [
+    "to",
+    20.23
+   ],
+   [
+    "700",
+    20.43
+   ],
+   [
+    "nanometers",
+    20.74
+   ]
+  ]
+ },
+ {
+  "s": 22.22,
+  "e": 23.55,
+  "text": "That slice is the rainbow,",
+  "words": [
+   [
+    "that",
+    22.22
+   ],
+   [
+    "slice",
+    22.47
+   ],
+   [
+    "is",
+    22.79
+   ],
+   [
+    "the",
+    22.91
+   ],
+   [
+    "rainbow",
+    23.1
+   ]
+  ]
+ },
+ {
+  "s": 23.9,
+  "e": 25.99,
+  "text": "violet at one end and red at the other.",
+  "words": [
+   [
+    "violet",
+    23.9
+   ],
+   [
+    "at",
+    24.32
+   ],
+   [
+    "one",
+    24.45
+   ],
+   [
+    "end",
+    24.66
+   ],
+   [
+    "and",
+    24.87
+   ],
+   [
+    "red",
+    25.08
+   ],
+   [
+    "at",
+    25.29
+   ],
+   [
+    "the",
+    25.43
+   ],
+   [
+    "other",
+    25.64
+   ]
+  ]
+ },
+ {
+  "s": 26.47,
+  "e": 29.77,
+  "text": "Inside your eye are three kinds of color cells, called cones.",
+  "words": [
+   [
+    "inside",
+    26.47
+   ],
+   [
+    "your",
+    26.87
+   ],
+   [
+    "eye",
+    27.14
+   ],
+   [
+    "are",
+    27.35
+   ],
+   [
+    "three",
+    27.55
+   ],
+   [
+    "kinds",
+    27.88
+   ],
+   [
+    "of",
+    28.22
+   ],
+   [
+    "color",
+    28.36
+   ],
+   [
+    "cells",
+    28.69
+   ],
+   [
+    "called",
+    29.03
+   ],
+   [
+    "cones",
+    29.43
+   ]
+  ]
+ },
+ {
+  "s": 30.23,
+  "e": 33.75,
+  "text": "One likes blue light best, one likes green, and one likes red.",
+  "words": [
+   [
+    "one",
+    30.23
+   ],
+   [
+    "likes",
+    30.45
+   ],
+   [
+    "blue",
+    30.82
+   ],
+   [
+    "light",
+    31.11
+   ],
+   [
+    "best",
+    31.48
+   ],
+   [
+    "one",
+    31.77
+   ],
+   [
+    "likes",
+    31.99
+   ],
+   [
+    "green",
+    32.36
+   ],
+   [
+    "and",
+    32.73
+   ],
+   [
+    "one",
+    32.95
+   ],
+   [
+    "likes",
+    33.17
+   ],
+   [
+    "red",
+    33.53
+   ]
+  ]
+ },
+ {
+  "s": 34.2,
+  "e": 35.67,
+  "text": "Every color you've ever seen,",
+  "words": [
+   [
+    "every",
+    34.2
+   ],
+   [
+    "color",
+    34.52
+   ],
+   [
+    "youve",
+    34.84
+   ],
+   [
+    "ever",
+    35.16
+   ],
+   [
+    "seen",
+    35.41
+   ]
+  ]
+ },
+ {
+  "s": 36.09,
+  "e": 39.2,
+  "text": "is your brain comparing how hard those three are firing.",
+  "words": [
+   [
+    "is",
+    36.09
+   ],
+   [
+    "your",
+    36.22
+   ],
+   [
+    "brain",
+    36.49
+   ],
+   [
+    "comparing",
+    36.83
+   ],
+   [
+    "how",
+    37.44
+   ],
+   [
+    "hard",
+    37.65
+   ],
+   [
+    "those",
+    37.92
+   ],
+   [
+    "three",
+    38.26
+   ],
+   [
+    "are",
+    38.59
+   ],
+   [
+    "firing",
+    38.8
+   ]
+  ]
+ },
+ {
+  "s": 39.58,
+  "e": 42.64,
+  "text": "Yellow? That's your red and green cones firing together.",
+  "words": [
+   [
+    "yellow",
+    39.58
+   ],
+   [
+    "thats",
+    39.99
+   ],
+   [
+    "your",
+    40.33
+   ],
+   [
+    "red",
+    40.6
+   ],
+   [
+    "and",
+    40.8
+   ],
+   [
+    "green",
+    41.01
+   ],
+   [
+    "cones",
+    41.35
+   ],
+   [
+    "firing",
+    41.69
+   ],
+   [
+    "together",
+    42.09
+   ]
+  ]
+ },
+ {
+  "s": 43.02,
+  "e": 44.17,
+  "text": "And here's a fun one.",
+  "words": [
+   [
+    "and",
+    43.02
+   ],
+   [
+    "heres",
+    43.25
+   ],
+   [
+    "a",
+    43.63
+   ],
+   [
+    "fun",
+    43.71
+   ],
+   [
+    "one",
+    43.94
+   ]
+  ]
+ },
+ {
+  "s": 44.51,
+  "e": 46.29,
+  "text": "Purple isn't in the rainbow at all.",
+  "words": [
+   [
+    "purple",
+    44.51
+   ],
+   [
+    "isnt",
+    44.91
+   ],
+   [
+    "in",
+    45.17
+   ],
+   [
+    "the",
+    45.3
+   ],
+   [
+    "rainbow",
+    45.5
+   ],
+   [
+    "at",
+    45.96
+   ],
+   [
+    "all",
+    46.09
+   ]
+  ]
+ },
+ {
+  "s": 46.72,
+  "e": 50.13,
+  "text": "When your red and blue cones fire, but green stays quiet,",
+  "words": [
+   [
+    "when",
+    46.72
+   ],
+   [
+    "your",
+    47.02
+   ],
+   [
+    "red",
+    47.32
+   ],
+   [
+    "and",
+    47.55
+   ],
+   [
+    "blue",
+    47.78
+   ],
+   [
+    "cones",
+    48.08
+   ],
+   [
+    "fire",
+    48.46
+   ],
+   [
+    "but",
+    48.76
+   ],
+   [
+    "green",
+    48.99
+   ],
+   [
+    "stays",
+    49.37
+   ],
+   [
+    "quiet",
+    49.75
+   ]
+  ]
+ },
+ {
+  "s": 50.57,
+  "e": 52.7,
+  "text": "your brain invents a color to fill the gap.",
+  "words": [
+   [
+    "your",
+    50.57
+   ],
+   [
+    "brain",
+    50.82
+   ],
+   [
+    "invents",
+    51.13
+   ],
+   [
+    "a",
+    51.57
+   ],
+   [
+    "color",
+    51.63
+   ],
+   [
+    "to",
+    51.94
+   ],
+   [
+    "fill",
+    52.07
+   ],
+   [
+    "the",
+    52.32
+   ],
+   [
+    "gap",
+    52.51
+   ]
+  ]
+ },
+ {
+  "s": 53.07,
+  "e": 55.32,
+  "text": "Scientists call that a non-spectral color.",
+  "words": [
+   [
+    "scientists",
+    53.07
+   ],
+   [
+    "call",
+    53.71
+   ],
+   [
+    "that",
+    53.97
+   ],
+   [
+    "a",
+    54.23
+   ],
+   [
+    "nonspectral",
+    54.29
+   ],
+   [
+    "color",
+    55.0
+   ]
+  ]
+ },
+ {
+  "s": 55.76,
+  "e": 57.1,
+  "text": "Hold on to that idea.",
+  "words": [
+   [
+    "hold",
+    55.76
+   ],
+   [
+    "on",
+    56.09
+   ],
+   [
+    "to",
+    56.26
+   ],
+   [
+    "that",
+    56.43
+   ],
+   [
+    "idea",
+    56.76
+   ]
+  ]
+ },
+ {
+  "s": 57.46,
+  "e": 58.89,
+  "text": "Now take one cone away.",
+  "words": [
+   [
+    "now",
+    57.46
+   ],
+   [
+    "take",
+    57.7
+   ],
+   [
+    "one",
+    58.02
+   ],
+   [
+    "cone",
+    58.25
+   ],
+   [
+    "away",
+    58.57
+   ]
+  ]
+ },
+ {
+  "s": 59.33,
+  "e": 61.69,
+  "text": "Dogs have just two, tuned to blue and yellow.",
+  "words": [
+   [
+    "dogs",
+    59.33
+   ],
+   [
+    "have",
+    59.6
+   ],
+   [
+    "just",
+    59.87
+   ],
+   [
+    "two",
+    60.14
+   ],
+   [
+    "tuned",
+    60.34
+   ],
+   [
+    "to",
+    60.68
+   ],
+   [
+    "blue",
+    60.82
+   ],
+   [
+    "and",
+    61.08
+   ],
+   [
+    "yellow",
+    61.29
+   ]
+  ]
+ },
+ {
+  "s": 62.09,
+  "e": 63.93,
+  "text": "So a red ball on green grass,",
+  "words": [
+   [
+    "so",
+    62.09
+   ],
+   [
+    "a",
+    62.26
+   ],
+   [
+    "red",
+    62.34
+   ],
+   [
+    "ball",
+    62.59
+   ],
+   [
+    "on",
+    62.93
+   ],
+   [
+    "green",
+    63.09
+   ],
+   [
+    "grass",
+    63.51
+   ]
+  ]
+ },
+ {
+  "s": 64.29,
+  "e": 66.83,
+  "text": "looks to a dog like two similar, muddy shades.",
+  "words": [
+   [
+    "looks",
+    64.29
+   ],
+   [
+    "to",
+    64.64
+   ],
+   [
+    "a",
+    64.78
+   ],
+   [
+    "dog",
+    64.85
+   ],
+   [
+    "like",
+    65.07
+   ],
+   [
+    "two",
+    65.35
+   ],
+   [
+    "similar",
+    65.56
+   ],
+   [
+    "muddy",
+    66.05
+   ],
+   [
+    "shades",
+    66.4
+   ]
+  ]
+ },
+ {
+  "s": 67.27,
+  "e": 68.91,
+  "text": "Fewer cones, fewer colors.",
+  "words": [
+   [
+    "fewer",
+    67.27
+   ],
+   [
+    "cones",
+    67.66
+   ],
+   [
+    "fewer",
+    68.05
+   ],
+   [
+    "colors",
+    68.44
+   ]
+  ]
+ },
+ {
+  "s": 69.17,
+  "e": 70.52,
+  "text": "So what happens with more?",
+  "words": [
+   [
+    "so",
+    69.17
+   ],
+   [
+    "what",
+    69.3
+   ],
+   [
+    "happens",
+    69.55
+   ],
+   [
+    "with",
+    70.0
+   ],
+   [
+    "more",
+    70.26
+   ]
+  ]
+ },
+ {
+  "s": 71.07,
+  "e": 73.69,
+  "text": "Honeybees have three cones too, but they're shifted.",
+  "words": [
+   [
+    "honeybees",
+    71.07
+   ],
+   [
+    "have",
+    71.63
+   ],
+   [
+    "three",
+    71.88
+   ],
+   [
+    "cones",
+    72.19
+   ],
+   [
+    "too",
+    72.5
+   ],
+   [
+    "but",
+    72.69
+   ],
+   [
+    "theyre",
+    72.88
+   ],
+   [
+    "shifted",
+    73.25
+   ]
+  ]
+ },
+ {
+  "s": 74.15,
+  "e": 76.35,
+  "text": "They see ultraviolet, blue and green.",
+  "words": [
+   [
+    "they",
+    74.15
+   ],
+   [
+    "see",
+    74.44
+   ],
+   [
+    "ultraviolet",
+    74.66
+   ],
+   [
+    "blue",
+    75.47
+   ],
+   [
+    "and",
+    75.77
+   ],
+   [
+    "green",
+    75.99
+   ]
+  ]
+ },
+ {
+  "s": 76.7,
+  "e": 79.01,
+  "text": "Red? To a bee, red mostly looks dark.",
+  "words": [
+   [
+    "red",
+    76.7
+   ],
+   [
+    "to",
+    76.95
+   ],
+   [
+    "a",
+    77.12
+   ],
+   [
+    "bee",
+    77.21
+   ],
+   [
+    "red",
+    77.47
+   ],
+   [
+    "mostly",
+    77.72
+   ],
+   [
+    "looks",
+    78.24
+   ],
+   [
+    "dark",
+    78.66
+   ]
+  ]
+ },
+ {
+  "s": 79.39,
+  "e": 81.74,
+  "text": "Lots of flowers that look plain yellow to us,",
+  "words": [
+   [
+    "lots",
+    79.39
+   ],
+   [
+    "of",
+    79.65
+   ],
+   [
+    "flowers",
+    79.78
+   ],
+   [
+    "that",
+    80.24
+   ],
+   [
+    "look",
+    80.5
+   ],
+   [
+    "plain",
+    80.76
+   ],
+   [
+    "yellow",
+    81.09
+   ],
+   [
+    "to",
+    81.48
+   ],
+   [
+    "us",
+    81.61
+   ]
+  ]
+ },
+ {
+  "s": 82.09,
+  "e": 84.55,
+  "text": "have dark ultraviolet bullseyes in the middle.",
+  "words": [
+   [
+    "have",
+    82.09
+   ],
+   [
+    "dark",
+    82.35
+   ],
+   [
+    "ultraviolet",
+    82.6
+   ],
+   [
+    "bullseyes",
+    83.29
+   ],
+   [
+    "in",
+    83.86
+   ],
+   [
+    "the",
+    83.99
+   ],
+   [
+    "middle",
+    84.18
+   ]
+  ]
+ },
+ {
+  "s": 84.91,
+  "e": 86.33,
+  "text": "They work like landing lights,",
+  "words": [
+   [
+    "they",
+    84.91
+   ],
+   [
+    "work",
+    85.14
+   ],
+   [
+    "like",
+    85.37
+   ],
+   [
+    "landing",
+    85.59
+   ],
+   [
+    "lights",
+    85.99
+   ]
+  ]
+ },
+ {
+  "s": 86.6,
+  "e": 88.25,
+  "text": "pointing the bee straight to the nectar.",
+  "words": [
+   [
+    "pointing",
+    86.6
+   ],
+   [
+    "the",
+    87.0
+   ],
+   [
+    "bee",
+    87.15
+   ],
+   [
+    "straight",
+    87.3
+   ],
+   [
+    "to",
+    87.7
+   ],
+   [
+    "the",
+    87.8
+   ],
+   [
+    "nectar",
+    87.95
+   ]
+  ]
+ },
+ {
+  "s": 88.6,
+  "e": 90.38,
+  "text": "Many birds go one step further.",
+  "words": [
+   [
+    "many",
+    88.6
+   ],
+   [
+    "birds",
+    88.89
+   ],
+   [
+    "go",
+    89.24
+   ],
+   [
+    "one",
+    89.39
+   ],
+   [
+    "step",
+    89.6
+   ],
+   [
+    "further",
+    89.88
+   ]
+  ]
+ },
+ {
+  "s": 90.84,
+  "e": 94.2,
+  "text": "They have four cone types, including one for ultraviolet.",
+  "words": [
+   [
+    "they",
+    90.84
+   ],
+   [
+    "have",
+    91.13
+   ],
+   [
+    "four",
+    91.42
+   ],
+   [
+    "cone",
+    91.7
+   ],
+   [
+    "types",
+    91.99
+   ],
+   [
+    "including",
+    92.34
+   ],
+   [
+    "one",
+    92.99
+   ],
+   [
+    "for",
+    93.2
+   ],
+   [
+    "ultraviolet",
+    93.42
+   ]
+  ]
+ },
+ {
+  "s": 94.67,
+  "e": 97.81,
+  "text": "Male and female blue tits look almost the same to us.",
+  "words": [
+   [
+    "male",
+    94.67
+   ],
+   [
+    "and",
+    94.97
+   ],
+   [
+    "female",
+    95.19
+   ],
+   [
+    "blue",
+    95.64
+   ],
+   [
+    "tits",
+    95.94
+   ],
+   [
+    "look",
+    96.24
+   ],
+   [
+    "almost",
+    96.54
+   ],
+   [
+    "the",
+    96.99
+   ],
+   [
+    "same",
+    97.21
+   ],
+   [
+    "to",
+    97.51
+   ],
+   [
+    "us",
+    97.66
+   ]
+  ]
+ },
+ {
+  "s": 98.24,
+  "e": 101.17,
+  "text": "But in ultraviolet, the males' crowns shine brighter.",
+  "words": [
+   [
+    "but",
+    98.24
+   ],
+   [
+    "in",
+    98.45
+   ],
+   [
+    "ultraviolet",
+    98.58
+   ],
+   [
+    "the",
+    99.33
+   ],
+   [
+    "males",
+    99.54
+   ],
+   [
+    "crowns",
+    99.88
+   ],
+   [
+    "shine",
+    100.29
+   ],
+   [
+    "brighter",
+    100.63
+   ]
+  ]
+ },
+ {
+  "s": 101.54,
+  "e": 102.75,
+  "text": "Now remember purple.",
+  "words": [
+   [
+    "now",
+    101.54
+   ],
+   [
+    "remember",
+    101.75
+   ],
+   [
+    "purple",
+    102.32
+   ]
+  ]
+ },
+ {
+  "s": 103.08,
+  "e": 105.89,
+  "text": "With three cones, you get one non-spectral color.",
+  "words": [
+   [
+    "with",
+    103.08
+   ],
+   [
+    "three",
+    103.37
+   ],
+   [
+    "cones",
+    103.73
+   ],
+   [
+    "you",
+    104.09
+   ],
+   [
+    "get",
+    104.3
+   ],
+   [
+    "one",
+    104.52
+   ],
+   [
+    "nonspectral",
+    104.73
+   ],
+   [
+    "color",
+    105.53
+   ]
+  ]
+ },
+ {
+  "s": 106.29,
+  "e": 108.9,
+  "text": "With four cones, there are way more ways to mix.",
+  "words": [
+   [
+    "with",
+    106.29
+   ],
+   [
+    "four",
+    106.57
+   ],
+   [
+    "cones",
+    106.85
+   ],
+   [
+    "there",
+    107.2
+   ],
+   [
+    "are",
+    107.56
+   ],
+   [
+    "way",
+    107.77
+   ],
+   [
+    "more",
+    107.98
+   ],
+   [
+    "ways",
+    108.26
+   ],
+   [
+    "to",
+    108.54
+   ],
+   [
+    "mix",
+    108.68
+   ]
+  ]
+ },
+ {
+  "s": 109.26,
+  "e": 114.04,
+  "text": "In 2020, scientists tested wild hummingbirds in the Rocky Mountains.",
+  "words": [
+   [
+    "in",
+    109.26
+   ],
+   [
+    "2020",
+    109.43
+   ],
+   [
+    "scientists",
+    109.77
+   ],
+   [
+    "tested",
+    110.6
+   ],
+   [
+    "wild",
+    111.11
+   ],
+   [
+    "hummingbirds",
+    111.44
+   ],
+   [
+    "in",
+    112.45
+   ],
+   [
+    "the",
+    112.61
+   ],
+   [
+    "rocky",
+    112.86
+   ],
+   [
+    "mountains",
+    113.28
+   ]
+  ]
+ },
+ {
+  "s": 114.48,
+  "e": 118.06,
+  "text": "They lit up feeders with mixes like ultraviolet plus green.",
+  "words": [
+   [
+    "they",
+    114.48
+   ],
+   [
+    "lit",
+    114.78
+   ],
+   [
+    "up",
+    115.0
+   ],
+   [
+    "feeders",
+    115.14
+   ],
+   [
+    "with",
+    115.65
+   ],
+   [
+    "mixes",
+    115.95
+   ],
+   [
+    "like",
+    116.31
+   ],
+   [
+    "ultraviolet",
+    116.6
+   ],
+   [
+    "plus",
+    117.41
+   ],
+   [
+    "green",
+    117.7
+   ]
+  ]
+ },
+ {
+  "s": 118.47,
+  "e": 121.31,
+  "text": "And the birds learned to tell them apart from plain green.",
+  "words": [
+   [
+    "and",
+    118.47
+   ],
+   [
+    "the",
+    118.65
+   ],
+   [
+    "birds",
+    118.83
+   ],
+   [
+    "learned",
+    119.13
+   ],
+   [
+    "to",
+    119.55
+   ],
+   [
+    "tell",
+    119.67
+   ],
+   [
+    "them",
+    119.92
+   ],
+   [
+    "apart",
+    120.16
+   ],
+   [
+    "from",
+    120.46
+   ],
+   [
+    "plain",
+    120.7
+   ],
+   [
+    "green",
+    121.01
+   ]
+  ]
+ },
+ {
+  "s": 121.68,
+  "e": 123.22,
+  "text": "That's a color you will never see.",
+  "words": [
+   [
+    "thats",
+    121.68
+   ],
+   [
+    "a",
+    121.98
+   ],
+   [
+    "color",
+    122.04
+   ],
+   [
+    "you",
+    122.33
+   ],
+   [
+    "will",
+    122.51
+   ],
+   [
+    "never",
+    122.75
+   ],
+   [
+    "see",
+    123.04
+   ]
+  ]
+ },
+ {
+  "s": 123.64,
+  "e": 125.17,
+  "text": "It isn't greenish, or bluish.",
+  "words": [
+   [
+    "it",
+    123.64
+   ],
+   [
+    "isnt",
+    123.78
+   ],
+   [
+    "greenish",
+    124.06
+   ],
+   [
+    "or",
+    124.61
+   ],
+   [
+    "bluish",
+    124.75
+   ]
+  ]
+ },
+ {
+  "s": 125.62,
+  "e": 127.74,
+  "text": "It's something your brain has no slot for,",
+  "words": [
+   [
+    "its",
+    125.62
+   ],
+   [
+    "something",
+    125.81
+   ],
+   [
+    "your",
+    126.39
+   ],
+   [
+    "brain",
+    126.64
+   ],
+   [
+    "has",
+    126.96
+   ],
+   [
+    "no",
+    127.16
+   ],
+   [
+    "slot",
+    127.29
+   ],
+   [
+    "for",
+    127.54
+   ]
+  ]
+ },
+ {
+  "s": 128.13,
+  "e": 130.51,
+  "text": "like trying to picture a brand new primary color.",
+  "words": [
+   [
+    "like",
+    128.13
+   ],
+   [
+    "trying",
+    128.36
+   ],
+   [
+    "to",
+    128.72
+   ],
+   [
+    "picture",
+    128.84
+   ],
+   [
+    "a",
+    129.26
+   ],
+   [
+    "brand",
+    129.32
+   ],
+   [
+    "new",
+    129.62
+   ],
+   [
+    "primary",
+    129.8
+   ],
+   [
+    "color",
+    130.22
+   ]
+  ]
+ },
+ {
+  "s": 130.94,
+  "e": 133.52,
+  "text": "So more cones always means more colors, right?",
+  "words": [
+   [
+    "so",
+    130.94
+   ],
+   [
+    "more",
+    131.08
+   ],
+   [
+    "cones",
+    131.36
+   ],
+   [
+    "always",
+    131.71
+   ],
+   [
+    "means",
+    132.12
+   ],
+   [
+    "more",
+    132.47
+   ],
+   [
+    "colors",
+    132.75
+   ],
+   [
+    "right",
+    133.17
+   ]
+  ]
+ },
+ {
+  "s": 134.01,
+  "e": 135.29,
+  "text": "Meet the mantis shrimp.",
+  "words": [
+   [
+    "meet",
+    134.01
+   ],
+   [
+    "the",
+    134.28
+   ],
+   [
+    "mantis",
+    134.48
+   ],
+   [
+    "shrimp",
+    134.88
+   ]
+  ]
+ },
+ {
+  "s": 135.57,
+  "e": 137.93,
+  "text": "It has around twelve kinds of color receptors.",
+  "words": [
+   [
+    "it",
+    135.57
+   ],
+   [
+    "has",
+    135.69
+   ],
+   [
+    "around",
+    135.88
+   ],
+   [
+    "twelve",
+    136.25
+   ],
+   [
+    "kinds",
+    136.62
+   ],
+   [
+    "of",
+    136.94
+   ],
+   [
+    "color",
+    137.06
+   ],
+   [
+    "receptors",
+    137.37
+   ]
+  ]
+ },
+ {
+  "s": 138.33,
+  "e": 141.44,
+  "text": "For years, people said it must see a mind-blowing rainbow.",
+  "words": [
+   [
+    "for",
+    138.33
+   ],
+   [
+    "years",
+    138.53
+   ],
+   [
+    "people",
+    138.87
+   ],
+   [
+    "said",
+    139.28
+   ],
+   [
+    "it",
+    139.55
+   ],
+   [
+    "must",
+    139.68
+   ],
+   [
+    "see",
+    139.95
+   ],
+   [
+    "a",
+    140.16
+   ],
+   [
+    "mindblowing",
+    140.22
+   ],
+   [
+    "rainbow",
+    140.97
+   ]
+  ]
+ },
+ {
+  "s": 141.81,
+  "e": 145.24,
+  "text": "But in 2014, scientists actually tested it.",
+  "words": [
+   [
+    "but",
+    141.81
+   ],
+   [
+    "in",
+    142.1
+   ],
+   [
+    "2014",
+    142.3
+   ],
+   [
+    "scientists",
+    142.69
+   ],
+   [
+    "actually",
+    143.67
+   ],
+   [
+    "tested",
+    144.46
+   ],
+   [
+    "it",
+    145.05
+   ]
+  ]
+ },
+ {
+  "s": 145.62,
+  "e": 148.23,
+  "text": "And it was worse than you at telling close shades apart.",
+  "words": [
+   [
+    "and",
+    145.62
+   ],
+   [
+    "it",
+    145.79
+   ],
+   [
+    "was",
+    145.91
+   ],
+   [
+    "worse",
+    146.08
+   ],
+   [
+    "than",
+    146.37
+   ],
+   [
+    "you",
+    146.61
+   ],
+   [
+    "at",
+    146.78
+   ],
+   [
+    "telling",
+    146.9
+   ],
+   [
+    "close",
+    147.3
+   ],
+   [
+    "shades",
+    147.59
+   ],
+   [
+    "apart",
+    147.94
+   ]
+  ]
+ },
+ {
+  "s": 148.59,
+  "e": 150.57,
+  "text": "Instead of comparing cones like we do,",
+  "words": [
+   [
+    "instead",
+    148.59
+   ],
+   [
+    "of",
+    149.04
+   ],
+   [
+    "comparing",
+    149.17
+   ],
+   [
+    "cones",
+    149.74
+   ],
+   [
+    "like",
+    150.06
+   ],
+   [
+    "we",
+    150.32
+   ],
+   [
+    "do",
+    150.45
+   ]
+  ]
+ },
+ {
+  "s": 151.0,
+  "e": 154.18,
+  "text": "it seems to read colors directly, like a barcode scanner.",
+  "words": [
+   [
+    "it",
+    151.0
+   ],
+   [
+    "seems",
+    151.14
+   ],
+   [
+    "to",
+    151.49
+   ],
+   [
+    "read",
+    151.63
+   ],
+   [
+    "colors",
+    151.9
+   ],
+   [
+    "directly",
+    152.32
+   ],
+   [
+    "like",
+    152.87
+   ],
+   [
+    "a",
+    153.15
+   ],
+   [
+    "barcode",
+    153.22
+   ],
+   [
+    "scanner",
+    153.7
+   ]
+  ]
+ },
+ {
+  "s": 154.58,
+  "e": 155.83,
+  "text": "Fast, but not fine.",
+  "words": [
+   [
+    "fast",
+    154.58
+   ],
+   [
+    "but",
+    154.94
+   ],
+   [
+    "not",
+    155.2
+   ],
+   [
+    "fine",
+    155.47
+   ]
+  ]
+ },
+ {
+  "s": 156.2,
+  "e": 158.4,
+  "text": "So why bother seeing ultraviolet at all?",
+  "words": [
+   [
+    "so",
+    156.2
+   ],
+   [
+    "why",
+    156.33
+   ],
+   [
+    "bother",
+    156.53
+   ],
+   [
+    "seeing",
+    156.93
+   ],
+   [
+    "ultraviolet",
+    157.33
+   ],
+   [
+    "at",
+    158.06
+   ],
+   [
+    "all",
+    158.2
+   ]
+  ]
+ },
+ {
+  "s": 158.85,
+  "e": 161.16,
+  "text": "Take reindeer, out in the snowy Arctic.",
+  "words": [
+   [
+    "take",
+    158.85
+   ],
+   [
+    "reindeer",
+    159.15
+   ],
+   [
+    "out",
+    159.74
+   ],
+   [
+    "in",
+    159.97
+   ],
+   [
+    "the",
+    160.12
+   ],
+   [
+    "snowy",
+    160.34
+   ],
+   [
+    "arctic",
+    160.71
+   ]
+  ]
+ },
+ {
+  "s": 161.63,
+  "e": 165.93,
+  "text": "Snow reflects ultraviolet, but their favorite food, lichen, soaks it up.",
+  "words": [
+   [
+    "snow",
+    161.63
+   ],
+   [
+    "reflects",
+    161.93
+   ],
+   [
+    "ultraviolet",
+    162.52
+   ],
+   [
+    "but",
+    163.34
+   ],
+   [
+    "their",
+    163.56
+   ],
+   [
+    "favorite",
+    163.93
+   ],
+   [
+    "food",
+    164.52
+   ],
+   [
+    "lichen",
+    164.82
+   ],
+   [
+    "soaks",
+    165.26
+   ],
+   [
+    "it",
+    165.63
+   ],
+   [
+    "up",
+    165.78
+   ]
+  ]
+ },
+ {
+  "s": 166.35,
+  "e": 169.4,
+  "text": "So scientists think lichen pops out as dark patches,",
+  "words": [
+   [
+    "so",
+    166.35
+   ],
+   [
+    "scientists",
+    166.5
+   ],
+   [
+    "think",
+    167.2
+   ],
+   [
+    "lichen",
+    167.56
+   ],
+   [
+    "pops",
+    167.98
+   ],
+   [
+    "out",
+    168.27
+   ],
+   [
+    "as",
+    168.48
+   ],
+   [
+    "dark",
+    168.62
+   ],
+   [
+    "patches",
+    168.91
+   ]
+  ]
+ },
+ {
+  "s": 169.79,
+  "e": 171.06,
+  "text": "against the glowing snow.",
+  "words": [
+   [
+    "against",
+    169.79
+   ],
+   [
+    "the",
+    170.22
+   ],
+   [
+    "glowing",
+    170.4
+   ],
+   [
+    "snow",
+    170.82
+   ]
+  ]
+ },
+ {
+  "s": 171.45,
+  "e": 174.24,
+  "text": "Every animal sees the colors it needs to survive.",
+  "words": [
+   [
+    "every",
+    171.45
+   ],
+   [
+    "animal",
+    171.8
+   ],
+   [
+    "sees",
+    172.22
+   ],
+   [
+    "the",
+    172.5
+   ],
+   [
+    "colors",
+    172.71
+   ],
+   [
+    "it",
+    173.12
+   ],
+   [
+    "needs",
+    173.26
+   ],
+   [
+    "to",
+    173.61
+   ],
+   [
+    "survive",
+    173.75
+   ]
+  ]
+ },
+ {
+  "s": 174.7,
+  "e": 177.45,
+  "text": "Your three cones are just one version of the world.",
+  "words": [
+   [
+    "your",
+    174.7
+   ],
+   [
+    "three",
+    174.97
+   ],
+   [
+    "cones",
+    175.3
+   ],
+   [
+    "are",
+    175.64
+   ],
+   [
+    "just",
+    175.84
+   ],
+   [
+    "one",
+    176.11
+   ],
+   [
+    "version",
+    176.31
+   ],
+   [
+    "of",
+    176.78
+   ],
+   [
+    "the",
+    176.91
+   ],
+   [
+    "world",
+    177.12
+   ]
+  ]
+ },
+ {
+  "s": 177.81,
+  "e": 180.36,
+  "text": "And somewhere, a hummingbird is looking at a flower,",
+  "words": [
+   [
+    "and",
+    177.81
+   ],
+   [
+    "somewhere",
+    177.99
+   ],
+   [
+    "a",
+    178.54
+   ],
+   [
+    "hummingbird",
+    178.6
+   ],
+   [
+    "is",
+    179.27
+   ],
+   [
+    "looking",
+    179.39
+   ],
+   [
+    "at",
+    179.82
+   ],
+   [
+    "a",
+    179.94
+   ],
+   [
+    "flower",
+    180.0
+   ]
+  ]
+ },
+ {
+  "s": 180.73,
+  "e": 181.95,
+  "text": "in a color you'll never know.",
+  "words": [
+   [
+    "in",
+    180.73
+   ],
+   [
+    "a",
+    180.84
+   ],
+   [
+    "color",
+    180.9
+   ],
+   [
+    "youll",
+    181.17
+   ],
+   [
+    "never",
+    181.45
+   ],
+   [
+    "know",
+    181.72
+   ]
+  ]
+ },
+ {
+  "s": 182.37,
+  "e": 184.02,
+  "text": "Next up, what actually happens,",
+  "words": [
+   [
+    "next",
+    182.37
+   ],
+   [
+    "up",
+    182.63
+   ],
+   [
+    "what",
+    182.77
+   ],
+   [
+    "actually",
+    183.03
+   ],
+   [
+    "happens",
+    183.56
+   ]
+  ]
+ },
+ {
+  "s": 184.25,
+  "e": 185.21,
+  "text": "when a bee stings you?",
+  "words": [
+   [
+    "when",
+    184.25
+   ],
+   [
+    "a",
+    184.48
+   ],
+   [
+    "bee",
+    184.53
+   ],
+   [
+    "stings",
+    184.7
+   ],
+   [
+    "you",
+    185.04
+   ]
+  ]
+ }
+]

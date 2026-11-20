@@ -1,0 +1,43 @@
+{
+ "kind": "long",
+ "title": "Birds Have 4 Cones, You Have 3. What Can't You See?",
+ "description": "Why can some animals see colors we can't even imagine? Your eyes have 3 color cones, while bees and many birds see ultraviolet, hummingbirds tell apart non-spectral colors like UV plus green, the mantis shrimp's 12 receptors turn out to be fast but not fine, and reindeer may spot dark lichen against UV-bright snow.\n\n0:00 Colors with no names\n0:13 How you see color\n0:57 Fewer cones\n1:10 Bees see ultraviolet\n1:28 Birds have 4 cones\n2:10 The mantis shrimp twist\n2:35 Why see UV?\n\nSources:\nhttps://www.princeton.edu/news/2020/06/15/wild-hummingbirds-see-broad-range-colors-humans-can-only-imagine\nhttps://www.nationalgeographic.com/science/article/the-mantis-shrimp-sees-like-a-satellite\nhttps://www.popsci.com/environment/reindeer-eyes-uv-light/\n\nAnimated in the Low-Poly Faceted style.",
+ "hashtags": [
+  "#animals",
+  "#science",
+  "#colorvision"
+ ],
+ "tags": [
+  "animal vision",
+  "how animals see color",
+  "color vision explained",
+  "ultraviolet vision",
+  "tetrachromacy",
+  "hummingbird vision",
+  "mantis shrimp eyes",
+  "bee vision",
+  "dog color vision",
+  "cone cells",
+  "non-spectral colors",
+  "reindeer uv vision",
+  "animal facts",
+  "science explained",
+  "zorbly ai"
+ ],
+ "pinned_comment": "Which animal's eyes would you borrow for a day: the bee, the hummingbird or the mantis shrimp? 👀",
+ "thumbnail_text": "INVISIBLE COLORS",
+ "style": "Low-Poly Faceted",
+ "topic": "Why can some animals see colors we can't even imagine?",
+ "script": "Hummingbirds see colors your brain has never made.\nNot brighter colors, or sharper ones.\nWhole new colors, with no names.\nSo how can an animal see a color we can't even imagine?\nTo find out, we have to start with you.\nLight travels in waves of different lengths.\nYour eyes catch a tiny slice of them,\nfrom about 400 to 700 nanometers.\nThat slice is the rainbow,\nviolet at one end and red at the other.\nInside your eye are three kinds of color cells, called cones.\nOne likes blue light best, one likes green, and one likes red.\nEvery color you've ever seen,\nis your brain comparing how hard those three are firing.\nYellow? That's your red and green cones firing together.\nAnd here's a fun one.\nPurple isn't in the rainbow at all.\nWhen your red and blue cones fire, but green stays quiet,\nyour brain invents a color to fill the gap.\nScientists call that a non-spectral color.\nHold on to that idea.\nNow take one cone away.\nDogs have just two, tuned to blue and yellow.\nSo a red ball on green grass,\nlooks to a dog like two similar, muddy shades.\nFewer cones, fewer colors.\nSo what happens with more?\nHoneybees have three cones too, but they're shifted.\nThey see ultraviolet, blue and green.\nRed? To a bee, red mostly looks dark.\nLots of flowers that look plain yellow to us,\nhave dark ultraviolet bullseyes in the middle.\nThey work like landing lights,\npointing the bee straight to the nectar.\nMany birds go one step further.\nThey have four cone types, including one for ultraviolet.\nMale and female blue tits look almost the same to us.\nBut in ultraviolet, the males' crowns shine brighter.\nNow remember purple.\nWith three cones, you get one non-spectral color.\nWith four cones, there are way more ways to mix.\nIn 2020, scientists tested wild hummingbirds in the Rocky Mountains.\nThey lit up feeders with mixes like ultraviolet plus green.\nAnd the birds learned to tell them apart from plain green.\nThat's a color you will never see.\nIt isn't greenish, or bluish.\nIt's something your brain has no slot for,\nlike trying to picture a brand new primary color.\nSo more cones always means more colors, right?\nMeet the mantis shrimp.\nIt has around twelve kinds of color receptors.\nFor years, people said it must see a mind-blowing rainbow.\nBut in 2014, scientists actually tested it.\nAnd it was worse than you at telling close shades apart.\nInstead of comparing cones like we do,\nit seems to read colors directly, like a barcode scanner.\nFast, but not fine.\nSo why bother seeing ultraviolet at all?\nTake reindeer, out in the snowy Arctic.\nSnow reflects ultraviolet, but their favorite food, lichen, soaks it up.\nSo scientists think lichen pops out as dark patches,\nagainst the glowing snow.\nEvery animal sees the colors it needs to survive.\nYour three cones are just one version of the world.\nAnd somewhere, a hummingbird is looking at a flower,\nin a color you'll never know.\nNext up, what actually happens,\nwhen a bee stings you?\n",
+ "key_facts": [
+  "Humans see roughly 400-700 nm with 3 cone types (short/blue, medium/green, long/red)",
+  "Purple/magenta is a non-spectral color: the brain's mix of red and blue signals, not a single wavelength",
+  "Dogs have 2 cone types (blue and yellowish), so red and green look similar",
+  "Honeybees see ultraviolet, blue and green, and are not sensitive to red; many flowers have UV bullseye nectar guides",
+  "Many birds have 4 cone types including a UV/violet cone; blue tit males have more UV-reflective crowns",
+  "Stoddard et al. (Princeton, PNAS 2020) showed wild broad-tailed hummingbirds in the Rocky Mountains discriminate non-spectral colors such as UV+green",
+  "Mantis shrimp have about 12 color photoreceptor types but Thoen et al. (Science 2014) found poor discrimination of close colors; they appear to recognize colors directly",
+  "Reindeer eyes transmit UV; snow reflects UV while lichen absorbs it, so researchers think lichen stands out as dark"
+ ],
+ "category": "27"
+}
