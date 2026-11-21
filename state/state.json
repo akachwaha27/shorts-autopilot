@@ -378,273 +378,6 @@
     }
   },
   "videos": {
-    "2026-11-15-102": {
-      "topic": {
-        "title": "Why does mint make your mouth feel cold when it isn't?",
-        "format": "animated",
-        "angle": "Kawaii Anime"
-      },
-      "package": {
-        "title": "Why Does Mint Feel Freezing at 37\u00b0C? \ud83c\udf3f",
-        "description": "Why does mint make your mouth feel cold when it isn't? Menthol in mint switches on TRPM8, the cold sensor in your mouth that normally fires below about 26\u00b0C, so your brain feels freezing with no real temperature change.\n\nSources:\nhttps://www.sciencealert.com/why-does-mint-make-your-mouth-cold-a-scientist-explains-the-strange-sensation\nhttps://pubmed.ncbi.nlm.nih.gov/11893340/\nhttps://www.nature.com/articles/nature05910\n\nAnimated in the Kawaii Anime style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#science",
-          "#food",
-          "#mint"
-        ],
-        "tags": [
-          "why does mint feel cold",
-          "menthol",
-          "TRPM8",
-          "mint gum cold water",
-          "why does water feel cold after mint",
-          "cold receptor",
-          "how taste works",
-          "food science",
-          "body science",
-          "mint science",
-          "menthol cooling",
-          "explainer",
-          "kawaii animation"
-        ],
-        "category": "27",
-        "pinned_comment": "Be honest: did you think mint was actually cold?",
-        "thumbnail_text": "BRAIN TRICKED",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "Mint never cools your mouth, not even one degree.\nSo why does it feel freezing?\nIt's a trick, and your brain falls for it.\nYour mouth is packed with tiny cold alarms.\nAt body temperature they stay quiet,\nand they only start ringing below about twenty-six degrees Celsius.\nThat's around seventy-nine Fahrenheit.\nBut mint carries a molecule called menthol,\nand it fits that alarm like a key.\nNow the alarm rings at a cozy thirty-seven degrees,\nand shouts to your brain: freezing!\nYet your mouth hasn't cooled down one bit.\nThat's why a sip of water after mint gum\nfeels like you just drank a glacier.\nThe alarms are already primed,\nso even cool water feels icy.\nAnd honestly, it's the same trick chili plays,\njust on the heat alarm instead.\nBe honest, did you think mint was actually cold?",
-        "key_facts": [
-          "Menthol opens TRPM8, the cold receptor that normally fires below about 26\u00b0C (79\u00b0F)",
-          "With menthol the receptor fires at body temperature, so the brain reads cold with no temperature change",
-          "Primed receptors make cool water after mint feel much colder than it is",
-          "Chili's capsaicin plays the same trick on the heat receptor TRPV1"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Kawaii Anime"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261115-mint-cold",
-      "redos": 0,
-      "updated": "2026-11-15T19:47:38.285231+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-15",
-        "name": "2026-11-15-102.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-15",
-        "name": "2026-11-15-102-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:03,300\nMint never cools your mouth, not even one degree.\n\n2\n00:00:03,660 --> 00:00:05,360\nSo why does it feel freezing?\n\n3\n00:00:05,840 --> 00:00:08,140\nIt's a trick, and your brain falls for it.\n\n4\n00:00:08,550 --> 00:00:11,240\nYour mouth is packed with tiny cold alarms.\n\n5\n00:00:11,700 --> 00:00:13,740\nAt body temperature they stay quiet,\n\n6\n00:00:14,280 --> 00:00:18,270\nand they only start ringing below about twenty-six degrees Celsius.\n\n7\n00:00:18,750 --> 00:00:20,850\nThat's around seventy-nine Fahrenheit.\n\n8\n00:00:21,210 --> 00:00:23,700\nBut mint carries a molecule called menthol,\n\n9\n00:00:24,190 --> 00:00:26,070\nand it fits that alarm like a key.\n\n10\n00:00:26,450 --> 00:00:29,600\nNow the alarm rings at a cozy thirty-seven degrees,\n\n11\n00:00:29,820 --> 00:00:32,000\nand shouts to your brain: freezing!\n\n12\n00:00:32,350 --> 00:00:34,620\nYet your mouth hasn't cooled down one bit.\n\n13\n00:00:35,070 --> 00:00:37,680\nThat's why a sip of water after mint gum\n\n14\n00:00:37,970 --> 00:00:39,970\nfeels like you just drank a glacier.\n\n15\n00:00:40,400 --> 00:00:42,080\nThe alarms are already primed,\n\n16\n00:00:42,480 --> 00:00:44,650\nso even cool water feels icy.\n\n17\n00:00:45,040 --> 00:00:47,590\nAnd honestly, it's the same trick chili plays,\n\n18\n00:00:48,000 --> 00:00:49,920\njust on the heat alarm instead.\n\n19\n00:00:50,260 --> 00:00:53,150\nBe honest, did you think mint was actually cold?\n\n",
-      "tg_msg": 1129,
-      "approved_by": "auto",
-      "description_full": "Why does mint make your mouth feel cold when it isn't? Menthol in mint switches on TRPM8, the cold sensor in your mouth that normally fires below about 26\u00b0C, so your brain feels freezing with no real temperature change.\n\nSources:\nhttps://www.sciencealert.com/why-does-mint-make-your-mouth-cold-a-scientist-explains-the-strange-sensation\nhttps://pubmed.ncbi.nlm.nih.gov/11893340/\nhttps://www.nature.com/articles/nature05910\n\nAnimated in the Kawaii Anime style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #science #food #mint\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/BVav7LIIq6A",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-11-15T19:47:38.285249+00:00",
-      "slot": "2026-11-22T19:15:00+00:00"
-    },
-    "2026-11-15-103": {
-      "topic": {
-        "title": "Why do woodlice roll into a ball?",
-        "format": "animated",
-        "angle": "Copperplate Engraving"
-      },
-      "package": {
-        "title": "Why Does a 14-Legged Pill Bug Roll Into a Ball?",
-        "description": "Why do pill bugs (roly-polies) roll into a ball? These woodlice are land crustaceans with 14 legs and gills, and curling up shields their soft belly from predators and traps moisture so they don't dry out.\n\nSources:\nhttps://www.alabamawildlife.org/wonders-of-wildlife-pill-bug/\nhttps://edis.ifas.ufl.edu/publication/IN1099\nhttps://www.accessibility.extension.msstate.edu/newsletters/bugs-eye-view/2020/pillbugs-vol-6-no-24\n\nAnimated in the Copperplate Engraving style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#pillbug",
-          "#animals",
-          "#science"
-        ],
-        "tags": [
-          "pill bug",
-          "roly poly",
-          "why do pill bugs roll into a ball",
-          "woodlouse",
-          "woodlice",
-          "conglobation",
-          "isopod",
-          "crustacean",
-          "sow bug",
-          "animal facts",
-          "bug facts",
-          "nature explained",
-          "science shorts",
-          "how animals defend themselves"
-        ],
-        "category": "27",
-        "pinned_comment": "Armour like the pill bug or speed like the sow bug: which one would you pick, and why?",
-        "thumbnail_text": "IT HAS GILLS",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "Pill bugs roll into balls,\nbut you've never seen the real reason why.\nFirst, they aren't bugs at all.\nThey're crustaceans,\ncousins of crabs, shrimp and lobsters.\nCount the legs. Fourteen, not six.\nTheir back is a row of hard, overlapping plates.\nBut their belly is soft,\nwith legs and tiny gills.\nYep, gills.\nThey breathe like their sea cousins,\nso they have to stay damp.\nNow poke one, or shake the ground.\nIt tucks its head, folds its tail,\nand the plates lock into a perfect armoured ball.\nA hungry ant just finds a smooth shell\nwith nothing soft to grab.\nAnd inside, the ball traps moisture,\nso those gills don't dry out.\nTheir cousins, sow bugs, can't roll up.\nThey just run for it.\nSo, armour or speed?\nWhich one would you pick?",
-        "key_facts": [
-          "Pill bugs (Armadillidium vulgare) are crustaceans, more closely related to shrimp and crayfish than to insects",
-          "They have seven pairs of legs (14 legs)",
-          "They breathe with gill-like structures and need humid conditions; they can't breathe if it's too dry",
-          "Rolling up (conglobation) when threatened or when the ground vibrates puts the tough plates outward and shields the soft belly and legs",
-          "Rolling up also helps them hold in moisture and avoid drying out",
-          "Sow bugs, close relatives, cannot roll into a ball"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Copperplate Engraving"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261115-pill-bug",
-      "redos": 0,
-      "updated": "2026-11-15T19:47:43.883180+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Copperplate Engraving style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-15",
-        "name": "2026-11-15-103.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-15",
-        "name": "2026-11-15-103-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:01,860\nPill bugs roll into balls,\n\n2\n00:00:01,990 --> 00:00:04,800\nbut you've never seen the real reason why.\n\n3\n00:00:05,180 --> 00:00:06,900\nFirst, they aren't bugs at all.\n\n4\n00:00:07,360 --> 00:00:08,340\nThey're crustaceans,\n\n5\n00:00:08,800 --> 00:00:11,200\ncousins of crabs, shrimp and lobsters.\n\n6\n00:00:11,570 --> 00:00:14,000\nCount the legs. Fourteen, not six.\n\n7\n00:00:14,450 --> 00:00:17,360\nTheir back is a row of hard, overlapping plates.\n\n8\n00:00:17,770 --> 00:00:18,970\nBut their belly is soft,\n\n9\n00:00:19,290 --> 00:00:21,040\nwith legs and tiny gills.\n\n10\n00:00:21,380 --> 00:00:22,250\nYep, gills.\n\n11\n00:00:22,590 --> 00:00:24,440\nThey breathe like their sea cousins,\n\n12\n00:00:24,780 --> 00:00:26,120\nso they have to stay damp.\n\n13\n00:00:26,510 --> 00:00:28,590\nNow poke one, or shake the ground.\n\n14\n00:00:29,010 --> 00:00:31,240\nIt tucks its head, folds its tail,\n\n15\n00:00:31,570 --> 00:00:34,270\nand the plates lock into a perfect armoured ball.\n\n16\n00:00:34,640 --> 00:00:36,750\nA hungry ant just finds a smooth shell\n\n17\n00:00:37,030 --> 00:00:38,410\nwith nothing soft to grab.\n\n18\n00:00:38,860 --> 00:00:40,910\nAnd inside, the ball traps moisture,\n\n19\n00:00:41,330 --> 00:00:42,930\nso those gills don't dry out.\n\n20\n00:00:43,320 --> 00:00:45,660\nTheir cousins, sow bugs, can't roll up.\n\n21\n00:00:46,100 --> 00:00:47,320\nThey just run for it.\n\n22\n00:00:47,760 --> 00:00:49,180\nSo, armour or speed?\n\n23\n00:00:49,640 --> 00:00:50,930\nWhich one would you pick?\n\n",
-      "tg_msg": 1130,
-      "approved_by": "auto",
-      "description_full": "Why do pill bugs (roly-polies) roll into a ball? These woodlice are land crustaceans with 14 legs and gills, and curling up shields their soft belly from predators and traps moisture so they don't dry out.\n\nSources:\nhttps://www.alabamawildlife.org/wonders-of-wildlife-pill-bug/\nhttps://edis.ifas.ufl.edu/publication/IN1099\nhttps://www.accessibility.extension.msstate.edu/newsletters/bugs-eye-view/2020/pillbugs-vol-6-no-24\n\nAnimated in the Copperplate Engraving style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #pillbug #animals #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Copperplate Engraving style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/7AtplZ05gYk",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-11-15T19:47:43.883198+00:00",
-      "slot": "2026-11-23T00:15:00+00:00"
-    },
-    "2026-11-15-104": {
-      "topic": {
-        "title": "Why are sloths so slow? (and why it keeps them alive)",
-        "format": "long",
-        "angle": "Whiteboard Explainer"
-      },
-      "package": {
-        "title": "Why Sloths Take Up to 30 Days to Digest a Meal \ud83e\udda5",
-        "description": "Why are sloths so slow? A leafy diet gives them almost no energy, so sloths run on the lowest metabolism of any mammal, digest a single meal for weeks, and stay alive by barely moving, which hides them from harpy eagles and big cats. We draw the whole survival plan on a whiteboard: the slowest stomach, the weekly trip down to poop, the moths and green algae living in sloth fur, and the organs anchored to their ribs.\n\nSources:\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC3906947\nhttps://a-z-animals.com/animals/sloth/what-sloths-eat-and-how-it-explains-their-famous-slowness/\nhttps://www.nationalgeographic.com/science/article/to-breathe-upside-down-sloths-tape-organs-to-their-ribs\n\nAnimated in the Whiteboard Explainer style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#sloth",
-          "#animalfacts",
-          "#science"
-        ],
-        "tags": [
-          "why are sloths so slow",
-          "sloth facts",
-          "how do sloths digest food",
-          "sloth digestion",
-          "sloth metabolism",
-          "why do sloths come down to poop",
-          "sloth moths",
-          "sloth algae",
-          "three toed sloth",
-          "harpy eagle",
-          "animal facts",
-          "rainforest animals",
-          "animal science explained",
-          "weird animal facts",
-          "whiteboard animation"
-        ],
-        "category": "27",
-        "pinned_comment": "Before this video, did you think sloths were just lazy? And which fact surprised you most: the month-long meal, the weekly poop trip, or the algae garden?",
-        "thumbnail_text": "SLOW = ALIVE?",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "Being slow is the reason sloths are still alive,\nand you'd never guess why.\nSloths aren't lazy.\nTheir slowness is a survival plan,\nand every part of their body is built around it.\nLet's draw it out.\nChapter one. A diet with almost no fuel.\nSloths live high up\nin the rainforests of Central and South America.\nAnd they mostly eat leaves.\nLeaves are tough, full of fibre,\nand some are even a bit toxic.\nThey give a sloth very little energy.\nSo a sloth runs its body\nlike a phone on low battery.\nIts metabolism is less than half\nof what you'd expect for an animal its size.\nAnd it has about thirty percent less muscle\nthan other mammals its size.\nChapter two. The slowest stomach.\nA sloth's stomach has several chambers,\nfull of microbes that slowly break leaves down.\nA full stomach can make up a big chunk of its weight.\nSome scientists think one leafy meal\ncan take up to a month to pass all the way through.\nThat's the slowest digestion of any mammal.\nAnd to save even more energy,\na sloth lets its body temperature drift with the weather.\nOn chilly mornings, it sunbathes to warm up,\nlike a lizard with fur.\nChapter three. The weekly trip.\nHere's the strangest part.\nAbout once a week,\na three-toed sloth climbs all the way down\nto the ground, just to poop.\nIt digs a little hole, does its business,\nand climbs back up.\nThat trip burns a lot of energy,\nand it's the most dangerous thing a sloth ever does.\nSo why bother?\nScientists think it helps\na tiny moth that lives in its fur.\nThe moths lay eggs in the dung.\nThe babies grow up, fly into the trees,\nand find a new sloth to live on.\nChapter four. A garden on its back.\nSloth hair has tiny cracks that soak up rainwater.\nGreen algae grow inside them,\nso a sloth can look a little green.\nThe moths seem to feed that algae,\nand the sloth may lick some off as a snack.\nIn one study,\na sloth carried about a hundred and twenty grams of algae.\nChapter five. Slow means invisible.\nA sloth's biggest enemies\nare harpy eagles and big cats.\nMany of these hunters spot prey by its movement.\nA sloth barely moves,\nand it can look green and mossy,\nso it blends right into the leaves.\nTo an eagle scanning the treetops,\na sloth just looks like part of the tree.\nEven its body helps it hang around.\nIts organs are anchored to its ribs,\nso they don't squash its lungs when it hangs upside down.\nAnd here's a bonus.\nIn water,\nsloths are surprisingly good swimmers.\nThey paddle with those long arms,\noften faster than they can crawl on land.\nSo sloths aren't failing at being fast.\nThey're winning at being slow.\nIn a jungle full of hunters,\nsaving energy and staying unseen beats speed every time.\nNext time, how does your heart\nbeat about a hundred thousand times a day?",
-        "key_facts": [
-          "Three-toed sloths have an exceedingly low metabolic rate, less than half that expected for their body mass, and the slowest digestion of any mammal (Pauli et al. 2014, Proc R Soc B)",
-          "Sloths have the lowest basal metabolic rate of any mammal; muscle is about 25-30% of body mass vs 40-45% in most mammals (A-Z Animals; Sloth Conservation Foundation: ~30% less muscle)",
-          "Some sources say a leaf can take up to ~30 days to pass through a sloth's gut; the exact rate is debated",
-          "Sloths' body temperature varies with the environment and they bask to warm up",
-          "About once a week three-toed sloths descend to defecate at the base of the tree; the trip costs energy and most adult deaths are predation (Pauli et al. 2014)",
-          "Sloth moths (Cryptoses) lay eggs in sloth dung; larvae develop there and adults fly up to colonise sloths; moths are linked to more algae (Trichophilus) in the cracked hair, which sloths may eat; algal biomass averaged ~125 g (Pauli et al. 2014)",
-          "Harpy eagles are the primary aerial predator; algae may camouflage sloths from above (Live Science)",
-          "Fibrinous adhesions anchor sloths' abdominal organs to the lower ribs so they don't press on the lungs when hanging upside down (Cliffe et al. 2014, Biology Letters; National Geographic)",
-          "Sloths are capable swimmers, reported to move faster in water than on the ground (Sloth Conservation Foundation)"
-        ],
-        "voice": "Kokoro",
-        "format": "long",
-        "style": "Whiteboard Explainer"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261115-sloth-slow",
-      "redos": 0,
-      "updated": "2026-11-15T19:47:50.592997+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Whiteboard Explainer style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-15",
-        "name": "2026-11-15-104.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-15",
-        "name": "2026-11-15-104-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:03,020\nBeing slow is the reason sloths are still alive,\n\n2\n00:00:03,610 --> 00:00:04,920\nand you'd never guess why.\n\n3\n00:00:05,340 --> 00:00:06,690\nSloths aren't lazy.\n\n4\n00:00:06,980 --> 00:00:09,140\nTheir slowness is a survival plan,\n\n5\n00:00:09,680 --> 00:00:12,050\nand every part of their body is built around it.\n\n6\n00:00:12,420 --> 00:00:13,530\nLet's draw it out.\n\n7\n00:00:13,870 --> 00:00:16,740\nChapter one. A diet with almost no fuel.\n\n8\n00:00:17,170 --> 00:00:18,490\nSloths live high up\n\n9\n00:00:18,560 --> 00:00:21,510\nin the rainforests of Central and South America.\n\n10\n00:00:21,920 --> 00:00:23,480\nAnd they mostly eat leaves.\n\n11\n00:00:23,840 --> 00:00:25,750\nLeaves are tough, full of fibre,\n\n12\n00:00:25,990 --> 00:00:27,780\nand some are even a bit toxic.\n\n13\n00:00:28,200 --> 00:00:30,490\nThey give a sloth very little energy.\n\n14\n00:00:30,910 --> 00:00:32,620\nSo a sloth runs its body\n\n15\n00:00:32,620 --> 00:00:34,600\nlike a phone on low battery.\n\n16\n00:00:35,040 --> 00:00:37,230\nIts metabolism is less than half\n\n17\n00:00:37,230 --> 00:00:40,000\nof what you'd expect for an animal its size.\n\n18\n00:00:40,440 --> 00:00:42,780\nAnd it has about thirty percent less muscle\n\n19\n00:00:43,010 --> 00:00:44,680\nthan other mammals its size.\n\n20\n00:00:45,100 --> 00:00:47,100\nChapter two. The slowest stomach.\n\n21\n00:00:47,480 --> 00:00:49,630\nA sloth's stomach has several chambers,\n\n22\n00:00:50,090 --> 00:00:53,010\nfull of microbes that slowly break leaves down.\n\n23\n00:00:53,420 --> 00:00:56,200\nA full stomach can make up a big chunk of its weight.\n\n24\n00:00:56,670 --> 00:00:59,400\nSome scientists think one leafy meal\n\n25\n00:00:59,480 --> 00:01:02,110\ncan take up to a month to pass all the way through.\n\n26\n00:01:02,530 --> 00:01:05,010\nThat's the slowest digestion of any mammal.\n\n27\n00:01:05,470 --> 00:01:07,180\nAnd to save even more energy,\n\n28\n00:01:07,720 --> 00:01:10,960\na sloth lets its body temperature drift with the weather.\n\n29\n00:01:11,340 --> 00:01:13,870\nOn chilly mornings, it sunbathes to warm up,\n\n30\n00:01:14,290 --> 00:01:15,640\nlike a lizard with fur.\n\n31\n00:01:16,080 --> 00:01:17,870\nChapter three. The weekly trip.\n\n32\n00:01:18,260 --> 00:01:19,810\nHere's the strangest part.\n\n33\n00:01:20,170 --> 00:01:21,000\nAbout once a week,\n\n34\n00:01:21,420 --> 00:01:24,560\na three-toed sloth climbs all the way down\n\n35\n00:01:25,030 --> 00:01:25,890\nto the ground, just to poop.\n\n36\n00:01:26,360 --> 00:01:28,830\nIt digs a little hole, does its business,\n\n37\n00:01:28,830 --> 00:01:29,990\nand climbs back up.\n\n38\n00:01:30,430 --> 00:01:32,330\nThat trip burns a lot of energy,\n\n39\n00:01:32,860 --> 00:01:35,870\nand it's the most dangerous thing a sloth ever does.\n\n40\n00:01:36,340 --> 00:01:37,390\nSo why bother?\n\n41\n00:01:37,920 --> 00:01:39,240\nScientists think it helps\n\n42\n00:01:39,300 --> 00:01:41,360\na tiny moth that lives in its fur.\n\n43\n00:01:41,700 --> 00:01:43,430\nThe moths lay eggs in the dung.\n\n44\n00:01:43,900 --> 00:01:46,380\nThe babies grow up, fly into the trees,\n\n45\n00:01:46,540 --> 00:01:48,300\nand find a new sloth to live on.\n\n46\n00:01:48,670 --> 00:01:50,960\nChapter four. A garden on its back.\n\n47\n00:01:51,330 --> 00:01:54,400\nSloth hair has tiny cracks that soak up rainwater.\n\n48\n00:01:54,840 --> 00:01:56,730\nGreen algae grow inside them,\n\n49\n00:01:57,130 --> 00:01:58,950\nso a sloth can look a little green.\n\n50\n00:01:59,300 --> 00:02:00,980\nThe moths seem to feed that algae,\n\n51\n00:02:01,440 --> 00:02:03,690\nand the sloth may lick some off as a snack.\n\n52\n00:02:04,050 --> 00:02:04,770\nIn one study,\n\n53\n00:02:05,230 --> 00:02:08,430\na sloth carried about a hundred and twenty grams of algae.\n\n54\n00:02:08,830 --> 00:02:11,280\nChapter five. Slow means invisible.\n\n55\n00:02:11,650 --> 00:02:13,030\nA sloth's biggest enemies\n\n56\n00:02:13,270 --> 00:02:15,290\nare harpy eagles and big cats.\n\n57\n00:02:15,700 --> 00:02:18,440\nMany of these hunters spot prey by its movement.\n\n58\n00:02:18,840 --> 00:02:20,110\nA sloth barely moves,\n\n59\n00:02:20,240 --> 00:02:22,300\nand it can look green and mossy,\n\n60\n00:02:22,630 --> 00:02:24,610\nso it blends right into the leaves.\n\n61\n00:02:24,980 --> 00:02:26,870\nTo an eagle scanning the treetops,\n\n62\n00:02:27,280 --> 00:02:29,550\na sloth just looks like part of the tree.\n\n63\n00:02:29,920 --> 00:02:32,000\nEven its body helps it hang around.\n\n64\n00:02:32,410 --> 00:02:34,410\nIts organs are anchored to its ribs,\n\n65\n00:02:34,540 --> 00:02:38,170\nso they don't squash its lungs when it hangs upside down.\n\n66\n00:02:38,620 --> 00:02:39,850\nAnd here's a bonus.\n\n67\n00:02:40,130 --> 00:02:40,710\nIn water,\n\n68\n00:02:40,920 --> 00:02:43,130\nsloths are surprisingly good swimmers.\n\n69\n00:02:43,540 --> 00:02:45,560\nThey paddle with those long arms,\n\n70\n00:02:45,970 --> 00:02:48,400\noften faster than they can crawl on land.\n\n71\n00:02:48,820 --> 00:02:51,070\nSo sloths aren't failing at being fast.\n\n72\n00:02:51,460 --> 00:02:52,980\nThey're winning at being slow.\n\n73\n00:02:53,370 --> 00:02:54,970\nIn a jungle full of hunters,\n\n74\n00:02:55,410 --> 00:02:59,240\nsaving energy and staying unseen beats speed every time.\n\n75\n00:02:59,610 --> 00:03:01,750\nNext time, how does your heart\n\n76\n00:03:01,830 --> 00:03:03,830\nbeat about a hundred thousand times a day?\n\n",
-      "tg_msg": 1131,
-      "approved_by": "auto",
-      "description_full": "Why are sloths so slow? A leafy diet gives them almost no energy, so sloths run on the lowest metabolism of any mammal, digest a single meal for weeks, and stay alive by barely moving, which hides them from harpy eagles and big cats. We draw the whole survival plan on a whiteboard: the slowest stomach, the weekly trip down to poop, the moths and green algae living in sloth fur, and the organs anchored to their ribs.\n\nSources:\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC3906947\nhttps://a-z-animals.com/animals/sloth/what-sloths-eat-and-how-it-explains-their-famous-slowness/\nhttps://www.nationalgeographic.com/science/article/to-breathe-upside-down-sloths-tape-organs-to-their-ribs\n\nAnimated in the Whiteboard Explainer style.\n\nFollow Zorbly AI for a new Short every day.\n\n#sloth #animalfacts #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Whiteboard Explainer style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/YLUDax8r5AI",
-          "private \u00b7 thumbnail \u2705"
-        ]
-      },
-      "uploaded_at": "2026-11-15T19:47:50.593015+00:00",
-      "slot": "2026-11-16T00:15:00+00:00"
-    },
     "2026-11-15-105": {
       "topic": {
         "title": "Why don't ostriches really bury their heads in sand?",
@@ -3140,12 +2873,12 @@
         "format": "animated",
         "style": "Flat-Vector Science"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261121-archerfish",
       "redos": 0,
-      "updated": "2026-11-21T17:38:20.081385+00:00",
+      "updated": "2026-11-21T20:32:50.907850+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech."
       ],
@@ -3160,7 +2893,29 @@
         "name": "2026-11-21-102-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:02,870\nCould you spit a bug off a leaf 3 meters away?\n\n2\n00:00:03,410 --> 00:00:04,480\nThis fish can.\n\n3\n00:00:04,770 --> 00:00:06,220\nIt's called the archerfish.\n\n4\n00:00:06,520 --> 00:00:08,340\nIt hides just under the surface,\n\n5\n00:00:08,750 --> 00:00:10,940\nand spots a bug sitting on a leaf above.\n\n6\n00:00:11,410 --> 00:00:12,990\nIt doesn't jump. It spits.\n\n7\n00:00:13,360 --> 00:00:14,670\nSo how does that work?\n\n8\n00:00:15,140 --> 00:00:18,790\nIt presses its tongue against a groove in the roof of its mouth.\n\n9\n00:00:19,160 --> 00:00:21,820\nThat makes a tiny tube, like a gun barrel.\n\n10\n00:00:22,200 --> 00:00:24,000\nThen it snaps its gill covers shut,\n\n11\n00:00:24,460 --> 00:00:26,400\nand water blasts out of that tube.\n\n12\n00:00:26,800 --> 00:00:28,320\nAnd here's the clever part.\n\n13\n00:00:28,710 --> 00:00:31,030\nThe back of the jet moves faster than the front,\n\n14\n00:00:31,600 --> 00:00:34,170\nso the water bunches into one big blob,\n\n15\n00:00:34,560 --> 00:00:35,800\nright before it hits.\n\n16\n00:00:36,180 --> 00:00:39,540\nBig archerfish can hit a bug two to three meters away.\n\n17\n00:00:39,960 --> 00:00:41,180\nSmack! The bug drops,\n\n18\n00:00:41,250 --> 00:00:43,600\nand dinner falls right into the water.\n\n19\n00:00:43,950 --> 00:00:44,930\nSo be honest.\n\n20\n00:00:45,290 --> 00:00:47,030\nHow far do you think you could spit?\n\n",
-      "tg_msg": 1189
+      "tg_msg": 1189,
+      "approved_by": "auto",
+      "description_full": "How does an archerfish shoot bugs off leaves with a jet of water? It presses its tongue into a groove in the roof of its mouth to make a tube, then snaps its gill covers shut to fire a water jet that can hit insects 2-3 meters away.\n\nSources:\nhttps://australian.museum/learn/animals/fishes/banded-archerfish-toxotes-jaculatrix/\nhttps://denverzoo.org/animals/archerfish/\nhttps://phys.org/news/2013-12-uncover-amazing-physics-feat-archerfish.html\n\nAnimated in the Flat-Vector Science style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #archerfish #animalfacts #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/atOo0urDx7w",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-21T20:32:50.907865+00:00",
+      "slot": "2026-11-22T15:15:00+00:00"
     },
     "2026-11-21-103": {
       "topic": {
@@ -3214,12 +2969,12 @@
         "format": "long",
         "style": "Mid-century Cartoon"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261121-bee-sting",
       "redos": 0,
-      "updated": "2026-11-21T17:38:33.439857+00:00",
+      "updated": "2026-11-21T20:33:00.436845+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Mid-century Cartoon style). Voice: Kokoro text-to-speech."
       ],
@@ -3234,7 +2989,17 @@
         "name": "2026-11-21-103-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:04,640\nWhy does a bee stinger keep pumping venom into you for up to seventy seconds,\n\n2\n00:00:05,060 --> 00:00:06,690\nafter the bee flies away?\n\n3\n00:00:07,130 --> 00:00:10,180\nIt's ripped out of her body, and it still works on its own.\n\n4\n00:00:10,540 --> 00:00:13,860\nSo what actually happens in those few seconds after a sting?\n\n5\n00:00:14,390 --> 00:00:17,570\nLet's take it apart, one tiny piece at a time.\n\n6\n00:00:17,970 --> 00:00:20,910\nPart one. A saw that started as an egg tube.\n\n7\n00:00:21,260 --> 00:00:23,080\nOnly female bees can sting.\n\n8\n00:00:23,510 --> 00:00:26,390\nThat's because the stinger began as an egg-laying tube,\n\n9\n00:00:26,950 --> 00:00:30,530\nand male bees, called drones, don't have one at all.\n\n10\n00:00:30,980 --> 00:00:33,010\nLook closely and it isn't a needle.\n\n11\n00:00:33,420 --> 00:00:35,260\nIt's three parts sliding together.\n\n12\n00:00:35,690 --> 00:00:37,440\nA central shaft called the stylet,\n\n13\n00:00:37,840 --> 00:00:40,030\nand two thin blades called lancets.\n\n14\n00:00:40,440 --> 00:00:43,890\nEach lancet is covered in backward-pointing barbs,\n\n15\n00:00:43,970 --> 00:00:45,860\nlike the teeth on a tiny saw.\n\n16\n00:00:46,220 --> 00:00:48,860\nPart two. The stinger that walks itself in.\n\n17\n00:00:49,230 --> 00:00:52,630\nThe two lancets slide up and down, one after the other.\n\n18\n00:00:53,010 --> 00:00:55,960\nOne grips with its barbs, the other pushes deeper,\n\n19\n00:00:56,020 --> 00:00:59,390\nso the stinger actually walks itself into your skin.\n\n20\n00:00:59,860 --> 00:01:01,340\nAnd here's the wild part.\n\n21\n00:01:01,810 --> 00:01:04,460\nWhen the bee pulls away, the barbs hold tight,\n\n22\n00:01:04,970 --> 00:01:07,160\nand she leaves behind the whole pumping kit.\n\n23\n00:01:07,590 --> 00:01:10,860\nThe venom sac, the muscles, and a little bundle of nerves.\n\n24\n00:01:11,220 --> 00:01:16,440\nIn 2026, scientists filmed stingers in clear skin-like gel.\n\n25\n00:01:16,920 --> 00:01:18,750\nThey saw a double piston pump.\n\n26\n00:01:19,160 --> 00:01:20,980\nTwo pistons pushing in turns,\n\n27\n00:01:21,390 --> 00:01:24,160\nso venom only ever flows one way, into you.\n\n28\n00:01:24,570 --> 00:01:27,900\nThe strong pumping kept going for fifteen to seventy seconds,\n\n29\n00:01:28,280 --> 00:01:29,650\nwith no bee attached.\n\n30\n00:01:30,050 --> 00:01:32,170\nPart three. Why it hurts so much.\n\n31\n00:01:32,650 --> 00:01:36,770\nUp to half of dry bee venom is one ingredient, called melittin.\n\n32\n00:01:37,160 --> 00:01:40,450\nMelittin punches tiny holes in the cells it touches.\n\n33\n00:01:40,890 --> 00:01:44,010\nIt also flips on your pain nerves and keeps them firing,\n\n34\n00:01:44,540 --> 00:01:46,500\nlike someone leaning on a doorbell.\n\n35\n00:01:46,880 --> 00:01:48,400\nThen your body fights back.\n\n36\n00:01:48,820 --> 00:01:52,510\nIt floods the spot with fluid from your blood to wash the venom away,\n\n37\n00:01:53,050 --> 00:01:55,340\nand that's the red, puffy bump you get.\n\n38\n00:01:55,800 --> 00:01:57,940\nPart four. Why the bee doesn't make it.\n\n39\n00:01:58,350 --> 00:02:00,130\nYour skin is thick and stretchy,\n\n40\n00:02:00,540 --> 00:02:02,730\nso those barbs can't slide back out.\n\n41\n00:02:03,140 --> 00:02:04,300\nWhen the bee flies off,\n\n42\n00:02:04,370 --> 00:02:07,090\npart of her belly tears away with the stinger.\n\n43\n00:02:07,460 --> 00:02:08,810\nShe dies soon after.\n\n44\n00:02:09,080 --> 00:02:11,380\nBut honeybees didn't evolve to sting us.\n\n45\n00:02:11,850 --> 00:02:13,700\nThey usually fight other insects,\n\n46\n00:02:14,100 --> 00:02:17,220\nand a thin insect shell lets the stinger pull right out.\n\n47\n00:02:17,690 --> 00:02:20,320\nWasps and bumblebees have smoother stingers,\n\n48\n00:02:20,710 --> 00:02:22,600\nso they can sting again and again.\n\n49\n00:02:23,000 --> 00:02:25,560\nPart five. A sting that calls for backup.\n\n50\n00:02:26,030 --> 00:02:28,330\nA sting also releases an alarm scent,\n\n51\n00:02:28,840 --> 00:02:30,990\nand it smells a lot like bananas.\n\n52\n00:02:31,380 --> 00:02:33,800\nTo other bees, that smell means one thing.\n\n53\n00:02:34,150 --> 00:02:35,370\nDanger, right here.\n\n54\n00:02:35,710 --> 00:02:39,230\nIt tags you as the target, so more bees can find you.\n\n55\n00:02:39,700 --> 00:02:41,580\nThat's why bees act like a team.\n\n56\n00:02:42,020 --> 00:02:43,630\nOne worker gives up her life,\n\n57\n00:02:43,990 --> 00:02:46,120\nand the whole hive stays protected.\n\n58\n00:02:46,530 --> 00:02:49,630\nAnd here's what scientists found about that leftover stinger.\n\n59\n00:02:50,020 --> 00:02:53,090\nScraping it off or pinching it out works about the same.\n\n60\n00:02:53,520 --> 00:02:54,900\nWhat matters is speed.\n\n61\n00:02:55,170 --> 00:02:58,020\nEvery second it stays in, it pumps a little more.\n\n62\n00:02:58,360 --> 00:03:04,040\nNext time, find out why your stomach is full of acid strong enough to eat through some metals,\n\n63\n00:03:04,490 --> 00:03:06,540\nand still doesn't digest itself.\n\n",
-      "tg_msg": 1190
+      "tg_msg": 1190,
+      "approved_by": "auto",
+      "description_full": "What actually happens when a bee stings you? A honeybee's barbed stinger saws itself into your skin, tears away with its venom sac, muscles and nerves, and keeps pumping venom on its own, while melittin sets off your pain nerves and an alarm scent that smells like bananas calls in more bees.\n\n0:00 A stinger with no bee\n0:17 A saw that started as an egg tube\n0:46 The stinger that walks itself in\n1:29 Why it hurts so much\n1:55 Why the bee doesn't make it\n2:22 A sting that calls for backup\n2:46 Why speed matters\n\nSources:\nhttps://www.unsw.edu.au/news/2026/10/the-stinger-that-keeps-pumping-venom-after-the-bee-is-gone\nhttps://ucanr.edu/blog/bug-squad/article/why-do-honey-bees-die-when-they-sting\nhttps://www.livescience.com/do-bees-die-after-stinging\n\nAnimated in the Mid-century Cartoon style.\n\nFollow Zorbly AI for a new Short every day.\n\n#bees #science #animalfacts\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Mid-century Cartoon style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/wnsaQZ4YM8s",
+          "private \u00b7 thumbnail \u2705"
+        ]
+      },
+      "uploaded_at": "2026-11-21T20:33:00.436864+00:00",
+      "slot": "2026-11-22T19:15:00+00:00"
     },
     "2026-11-21-104": {
       "topic": {
@@ -3282,12 +3047,12 @@
         "format": "animated",
         "style": "Kawaii Anime"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261121-eyebrows",
       "redos": 0,
-      "updated": "2026-11-21T17:38:45.002437+00:00",
+      "updated": "2026-11-21T20:33:04.983694+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech."
       ],
@@ -3302,7 +3067,96 @@
         "name": "2026-11-21-104-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:04,580\nLose your eyebrows and 54% of people can't name your face.\n\n2\n00:00:04,980 --> 00:00:08,070\nMIT scientists tested it in 2003.\n\n3\n00:00:08,420 --> 00:00:11,460\nThey showed people famous faces with the eyes erased,\n\n4\n00:00:11,920 --> 00:00:13,640\nand they still named sixty percent.\n\n5\n00:00:14,020 --> 00:00:15,680\nBut erase just the eyebrows,\n\n6\n00:00:16,010 --> 00:00:17,610\nand it dropped to forty-six.\n\n7\n00:00:18,000 --> 00:00:19,750\nSo why do we even have them?\n\n8\n00:00:20,210 --> 00:00:22,490\nPicture sweat rolling down your forehead.\n\n9\n00:00:22,870 --> 00:00:25,810\nYour brow bone and that arch catch it like a gutter,\n\n10\n00:00:26,320 --> 00:00:28,830\nand the hairs all point out toward your ears,\n\n11\n00:00:29,250 --> 00:00:31,570\nso the drops slide off to the sides,\n\n12\n00:00:31,920 --> 00:00:33,290\nand not into your eyes.\n\n13\n00:00:33,750 --> 00:00:34,620\nRain too.\n\n14\n00:00:35,020 --> 00:00:38,420\nEach brow has about 250 hairs on the job.\n\n15\n00:00:38,880 --> 00:00:40,210\nBut their biggest job?\n\n16\n00:00:40,670 --> 00:00:42,070\nTalking without words.\n\n17\n00:00:42,410 --> 00:00:44,000\nOne brow up means, really?\n\n18\n00:00:44,470 --> 00:00:46,060\nBoth up means surprise!\n\n19\n00:00:46,430 --> 00:00:49,130\nPulled down and together? Somebody's grumpy.\n\n20\n00:00:49,530 --> 00:00:51,520\nSo can you raise just one eyebrow?\n\n21\n00:00:52,000 --> 00:00:53,280\nLeft, right, or neither?\n\n",
-      "tg_msg": 1191
+      "tg_msg": 1191,
+      "approved_by": "auto",
+      "description_full": "Why do we have eyebrows? Their outward-pointing hairs and arch steer sweat and rain off to the sides so it stays out of your eyes, and a 2003 MIT study found people recognized famous faces less often without eyebrows (46%) than without eyes (60%).\n\nSources:\nhttps://www.healthline.com/health/why-do-we-have-eyebrows\nhttps://www.mentalfloss.com/science/body/why-do-we-have-eyebrows\nhttps://jaepakmd.com/resources/why-do-we-have-eyebrows/\n\nAnimated in the Kawaii Anime style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #eyebrows #science #humanbody\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/gFF21QplfK0",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-21T20:33:04.983709+00:00",
+      "slot": "2026-11-23T00:15:00+00:00"
+    },
+    "2026-11-21-105": {
+      "topic": {
+        "title": "Why do frogs blink when they swallow?",
+        "format": "animated",
+        "angle": "Cut-Paper Diorama"
+      },
+      "package": {
+        "title": "Frogs Swallow With Their Eyeballs (74% Harder Without) \ud83d\udc38",
+        "description": "Why do frogs blink when they swallow? They're not blinking: frogs pull their eyeballs down into the roof of the mouth to push food toward the throat, and without that eye push a leopard frog needs about 74% more swallows per cricket.\n\nSources:\nhttps://sicb.org/abstracts/contribution-of-eye-retraction-to-swallowing-performance-in-the-northern-leopard-frog-rana-pipiens/\nhttps://www.discovermagazine.com/frogs-use-their-eyes-to-push-food-down-while-swallowing-1818\nhttps://www.mentalfloss.com/animals/amphibians/frogs-eat-their-eyes-literally\n\nAnimated in the Cut-Paper Diorama style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#frogs",
+          "#animalfacts",
+          "#science"
+        ],
+        "tags": [
+          "why do frogs blink when they swallow",
+          "frogs swallow with eyes",
+          "frog eyes",
+          "frog facts",
+          "how frogs eat",
+          "leopard frog",
+          "animal facts",
+          "weird animal facts",
+          "amphibians",
+          "science explained",
+          "animals explained",
+          "zorbly ai"
+        ],
+        "category": "27",
+        "pinned_comment": "Be honest: before this, did you think frogs were just blinking? \ud83d\udc38",
+        "thumbnail_text": "NOT A BLINK",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "Frogs actually swallow with their eyeballs.\nYou've just never noticed why.\nWatch a frog gulp down a cricket,\nand its eyes squeeze shut\nand sink right into its head.\nThat's not a blink.\nA frog's eye sockets are open underneath,\nwith no solid bone floor.\nSo muscles yank each eyeball down,\ninto the roof of its mouth.\nNow those eyes press on the bug like two thumbs,\nshoving it back toward the throat.\nWhy bother?\nFrogs don't chew.\nTheir tiny teeth only grip,\nso dinner goes down whole.\nScientists tested this on leopard frogs.\nWith those eye muscles switched off,\neach cricket took 74 percent more swallows.\nAbout four gulps instead of two.\nSo a frog's eyes spot the bug,\nthen help push it down.\nNext time a frog blinks at you,\nis it winking,\nor eating?\n",
+        "key_facts": [
+          "Most frogs retract and close their eyes repeatedly while swallowing (Levine, Monroy & Brainerd, northern leopard frog study, 2004)",
+          "Retractor bulbi muscles pull the eyes down into the mouth, where they press on the prey and push it toward the throat",
+          "With those muscles denervated, swallows per cricket rose 74%, from about 2.3 to 4.0",
+          "Frogs swallow prey whole; their small teeth only hold it"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Cut-Paper Diorama"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261121-frog-eyes",
+      "redos": 0,
+      "updated": "2026-11-21T20:32:34.532033+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Cut-Paper Diorama style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-21",
+        "name": "2026-11-21-105.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-21",
+        "name": "2026-11-21-105-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:02,720\nFrogs actually swallow with their eyeballs.\n\n2\n00:00:03,100 --> 00:00:04,950\nYou've just never noticed why.\n\n3\n00:00:05,430 --> 00:00:07,150\nWatch a frog gulp down a cricket,\n\n4\n00:00:07,630 --> 00:00:08,970\nand its eyes squeeze shut\n\n5\n00:00:08,970 --> 00:00:10,700\nand sink right into its head.\n\n6\n00:00:11,060 --> 00:00:12,220\nThat's not a blink.\n\n7\n00:00:12,600 --> 00:00:15,010\nA frog's eye sockets are open underneath,\n\n8\n00:00:15,460 --> 00:00:17,210\nwith no solid bone floor.\n\n9\n00:00:17,590 --> 00:00:19,930\nSo muscles yank each eyeball down,\n\n10\n00:00:20,380 --> 00:00:21,780\ninto the roof of its mouth.\n\n11\n00:00:22,130 --> 00:00:24,790\nNow those eyes press on the bug like two thumbs,\n\n12\n00:00:24,900 --> 00:00:26,920\nshoving it back toward the throat.\n\n13\n00:00:27,320 --> 00:00:28,160\nWhy bother?\n\n14\n00:00:28,690 --> 00:00:29,840\nFrogs don't chew.\n\n15\n00:00:30,220 --> 00:00:31,700\nTheir tiny teeth only grip,\n\n16\n00:00:32,110 --> 00:00:33,670\nso dinner goes down whole.\n\n17\n00:00:34,150 --> 00:00:36,580\nScientists tested this on leopard frogs.\n\n18\n00:00:36,920 --> 00:00:39,500\nWith those eye muscles switched off,\n\n19\n00:00:39,590 --> 00:00:42,260\neach cricket took 74 percent more swallows.\n\n20\n00:00:42,660 --> 00:00:44,540\nAbout four gulps instead of two.\n\n21\n00:00:44,910 --> 00:00:46,750\nSo a frog's eyes spot the bug,\n\n22\n00:00:47,120 --> 00:00:48,360\nthen help push it down.\n\n23\n00:00:48,710 --> 00:00:50,270\nNext time a frog blinks at you,\n\n24\n00:00:50,670 --> 00:00:51,760\nis it winking,\n\n25\n00:00:51,870 --> 00:00:52,280\nor eating?\n\n",
+      "tg_msg": 1192
     }
   },
   "history": [
@@ -3532,7 +3386,8 @@
     "drop/20261120-hamster-cheeks": "2026-11-21-101",
     "drop/20261121-archerfish": "2026-11-21-102",
     "drop/20261121-bee-sting": "2026-11-21-103",
-    "drop/20261121-eyebrows": "2026-11-21-104"
+    "drop/20261121-eyebrows": "2026-11-21-104",
+    "drop/20261121-frog-eyes": "2026-11-21-105"
   },
   "refs_day": "2026-11-21"
 }
