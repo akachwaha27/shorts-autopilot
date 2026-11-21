@@ -378,189 +378,6 @@
     }
   },
   "videos": {
-    "2026-11-14-104": {
-      "topic": {
-        "title": "Why don't vultures get sick from eating rotten meat?",
-        "format": "animated",
-        "angle": "Cut-Paper Diorama"
-      },
-      "package": {
-        "title": "Why Vultures Eat Rot: Stomach Acid at pH 1 \ud83e\udd85",
-        "description": "Why don't vultures get sick from eating rotten meat? Their stomach acid sits close to pH 1 and kills most germs, and the tough gut bacteria that survive, Clostridia and Fusobacteria, help digest the carcass.\n\nSources:\nhttps://insider.si.edu/2014/11/vultures-remarkably-tolerant-to-deadly-bacteria-study-reveals\nhttps://www.nature.com/news/microbes-help-vultures-eat-rotting-meat-1.16345\nhttps://www.todayifoundout.com/index.php/2014/10/dont-vultures-get-sick-eating-dead-things-cant/\n\nAnimated in the Cut-Paper Diorama style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#animals",
-          "#science",
-          "#vultures"
-        ],
-        "tags": [
-          "why don't vultures get sick",
-          "vulture stomach acid",
-          "vultures eat rotten meat",
-          "vulture gut bacteria",
-          "clostridia",
-          "fusobacteria",
-          "animal facts",
-          "weird animal facts",
-          "science shorts",
-          "how vultures digest",
-          "scavengers",
-          "zorbly ai",
-          "nature explained"
-        ],
-        "category": "27",
-        "pinned_comment": "Which grosses you out more: the rotten meat, or the gut full of flesh-eating bacteria? \ud83e\udd85",
-        "thumbnail_text": "GERM GUT",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "Vultures eat rotten meat that would kill you, and never get sick. Why? A carcass can be crawling with germs like anthrax, and the vulture keeps eating. First, the stomach. Vulture stomach acid sits close to pH 1, nearly as strong as battery acid. Most germs die right there. In one study of fifty vultures, scientists found five hundred twenty-eight kinds of bacteria on their faces, but only seventy-six made it to the gut. And the ones that survive? Tough, meat-eating microbes called Clostridia and Fusobacteria, germs that make most other animals sick. In a vulture, they're on the team, helping break down the meal. By cleaning up carcasses, vultures stop those germs from spreading. So be honest. Which grosses you out more, the rotten meat, or the gut full of flesh-eating bacteria?",
-        "key_facts": [
-          "Vulture stomach acid is commonly cited near pH 1, killing most ingested bacteria (Smithsonian Insider: 'extremely harsh chemical environment'; TodayIFoundOut)",
-          "2014 Nature Communications study sampled 50 vultures (25 turkey, 25 black) in Tennessee (Smithsonian Insider)",
-          "On average 528 microbe types on the face, only 76 in the large intestine (Smithsonian Insider)",
-          "Gut dominated by Clostridia and Fusobacteria, flesh-digesting bacteria toxic to most other animals (Smithsonian Insider / Nature news)",
-          "Carcasses can carry pathogens like anthrax; vultures tolerate them and remove carcasses (TodayIFoundOut)"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Cut-Paper Diorama"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261114-vulture-gut",
-      "redos": 0,
-      "updated": "2026-11-14T23:24:08.285074+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Cut-Paper Diorama style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-14",
-        "name": "2026-11-14-104.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-14",
-        "name": "2026-11-14-104-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:04,460\nVultures eat rotten meat that would kill you, and never get sick. Why?\n\n2\n00:00:04,960 --> 00:00:08,070\nA carcass can be crawling with germs like anthrax,\n\n3\n00:00:08,470 --> 00:00:09,950\nand the vulture keeps eating.\n\n4\n00:00:10,340 --> 00:00:11,420\nFirst, the stomach.\n\n5\n00:00:11,740 --> 00:00:14,630\nVulture stomach acid sits close to pH 1,\n\n6\n00:00:15,140 --> 00:00:17,340\nnearly as strong as battery acid.\n\n7\n00:00:17,730 --> 00:00:19,340\nMost germs die right there.\n\n8\n00:00:19,800 --> 00:00:21,610\nIn one study of fifty vultures,\n\n9\n00:00:21,760 --> 00:00:26,780\nscientists found five hundred twenty-eight kinds of bacteria on their faces,\n\n10\n00:00:27,290 --> 00:00:29,660\nbut only seventy-six made it to the gut.\n\n11\n00:00:30,080 --> 00:00:31,560\nAnd the ones that survive?\n\n12\n00:00:32,140 --> 00:00:36,080\nTough, meat-eating microbes called Clostridia and Fusobacteria,\n\n13\n00:00:36,590 --> 00:00:39,010\ngerms that make most other animals sick.\n\n14\n00:00:39,400 --> 00:00:41,090\nIn a vulture, they're on the team,\n\n15\n00:00:41,480 --> 00:00:42,940\nhelping break down the meal.\n\n16\n00:00:43,280 --> 00:00:44,670\nBy cleaning up carcasses,\n\n17\n00:00:45,040 --> 00:00:47,470\nvultures stop those germs from spreading.\n\n18\n00:00:47,850 --> 00:00:48,810\nSo be honest.\n\n19\n00:00:49,180 --> 00:00:50,600\nWhich grosses you out more,\n\n20\n00:00:51,040 --> 00:00:54,720\nthe rotten meat, or the gut full of flesh-eating bacteria?\n\n",
-      "tg_msg": 1121,
-      "approved_by": "auto",
-      "description_full": "Why don't vultures get sick from eating rotten meat? Their stomach acid sits close to pH 1 and kills most germs, and the tough gut bacteria that survive, Clostridia and Fusobacteria, help digest the carcass.\n\nSources:\nhttps://insider.si.edu/2014/11/vultures-remarkably-tolerant-to-deadly-bacteria-study-reveals\nhttps://www.nature.com/news/microbes-help-vultures-eat-rotting-meat-1.16345\nhttps://www.todayifoundout.com/index.php/2014/10/dont-vultures-get-sick-eating-dead-things-cant/\n\nAnimated in the Cut-Paper Diorama style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #animals #science #vultures\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Cut-Paper Diorama style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/ugPVS2yVuuA",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-11-14T23:24:08.285090+00:00",
-      "slot": "2026-11-22T02:15:00+00:00"
-    },
-    "2026-11-14-105": {
-      "topic": {
-        "title": "Why do cats sleep up to 16 hours a day?",
-        "format": "animated",
-        "angle": "Halftone Dossier"
-      },
-      "package": {
-        "title": "Why Do Cats Sleep 16 Hours a Day? \ud83d\ude34",
-        "description": "Why do cats sleep so much? Cats are hunters built for short bursts of energy, so they nap 12 to 16 hours a day, mostly in light 15 to 30 minute dozes with their senses still on, and only about a quarter of it in deep sleep.\n\nSources:\nhttps://www.petmd.com/cat/behavior/why-do-cats-sleep-so-much\nhttps://www.pdsa.org.uk/what-we-do/blog/why-do-cats-sleep-so-much\nhttps://www.hillspet.com.au/cat-care/behavior-appearance/why-cats-sleep-so-much\n\nAnimated in the Halftone Dossier style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#cats",
-          "#animals",
-          "#science"
-        ],
-        "tags": [
-          "why do cats sleep so much",
-          "cat sleep",
-          "how many hours do cats sleep",
-          "cats sleep 16 hours",
-          "cat facts",
-          "crepuscular animals",
-          "why cats get zoomies at night",
-          "cat zoomies 5am",
-          "cat naps",
-          "animal facts",
-          "weird animal facts",
-          "science shorts",
-          "zorbly ai",
-          "pets explained"
-        ],
-        "category": "27",
-        "pinned_comment": "Be honest: is your cat asleep right now, or just pretending? \ud83d\ude3c",
-        "thumbnail_text": "BARELY ASLEEP",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "Your cat sleeps 16 hours a day, but it's almost never fully asleep. So why all the napping? Cats are hunters built for short explosive bursts. Stalking and pouncing burn a ton of energy in seconds, and plenty of pounces miss. So between hunts a cat powers down to save fuel for the next one. It's most awake at dawn and dusk, when mice are on the move. That's why yours goes wild at 5 a.m. Most of its sleep is light dozing, in naps of 15 to 30 minutes, senses still switched on. One tiny squeak, and it's awake. Only about a quarter is real deep sleep, in bursts of 5 to 7 minutes. So your cat isn't lazy. It's charging up for the next sprint. So is your cat asleep right now, or just waiting?",
-        "key_facts": [
-          "Cats sleep about 12-16 hours a day (PetMD, Hill's); PDSA average 15",
-          "Hunters that conserve energy between bursts of activity",
-          "Crepuscular: most active at dawn and dusk",
-          "Light dozes typically last 15-30 minutes, senses still alert (PDSA, PetMD)",
-          "About 25% of sleep is deep sleep, in 5-7 minute stretches (PDSA)"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Halftone Dossier"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261114-cat-sleep",
-      "redos": 0,
-      "updated": "2026-11-14T23:24:13.667706+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Halftone Dossier style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-14",
-        "name": "2026-11-14-105.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-14",
-        "name": "2026-11-14-105-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:02,090\nYour cat sleeps 16 hours a day,\n\n2\n00:00:02,450 --> 00:00:04,040\nbut it's almost never fully asleep.\n\n3\n00:00:04,420 --> 00:00:05,600\nSo why all the napping?\n\n4\n00:00:06,150 --> 00:00:08,860\nCats are hunters built for short explosive bursts.\n\n5\n00:00:09,240 --> 00:00:12,200\nStalking and pouncing burn a ton of energy in seconds,\n\n6\n00:00:12,570 --> 00:00:13,980\nand plenty of pounces miss.\n\n7\n00:00:14,390 --> 00:00:15,920\nSo between hunts a cat powers down\n\n8\n00:00:16,020 --> 00:00:18,170\nto save fuel for the next one.\n\n9\n00:00:18,540 --> 00:00:20,190\nIt's most awake at dawn and dusk,\n\n10\n00:00:20,480 --> 00:00:21,770\nwhen mice are on the move.\n\n11\n00:00:22,200 --> 00:00:24,730\nThat's why yours goes wild at 5 a.m.\n\n12\n00:00:25,150 --> 00:00:26,970\nMost of its sleep is light dozing,\n\n13\n00:00:27,290 --> 00:00:28,910\nin naps of 15 to 30 minutes,\n\n14\n00:00:29,250 --> 00:00:30,630\nsenses still switched on.\n\n15\n00:00:31,080 --> 00:00:32,950\nOne tiny squeak, and it's awake.\n\n16\n00:00:33,310 --> 00:00:35,520\nOnly about a quarter is real deep sleep,\n\n17\n00:00:35,930 --> 00:00:37,750\nin bursts of 5 to 7 minutes.\n\n18\n00:00:38,100 --> 00:00:39,490\nSo your cat isn't lazy.\n\n19\n00:00:39,850 --> 00:00:41,580\nIt's charging up for the next sprint.\n\n20\n00:00:42,010 --> 00:00:44,630\nSo is your cat asleep right now, or just waiting?\n\n",
-      "tg_msg": 1124,
-      "approved_by": "auto",
-      "description_full": "Why do cats sleep so much? Cats are hunters built for short bursts of energy, so they nap 12 to 16 hours a day, mostly in light 15 to 30 minute dozes with their senses still on, and only about a quarter of it in deep sleep.\n\nSources:\nhttps://www.petmd.com/cat/behavior/why-do-cats-sleep-so-much\nhttps://www.pdsa.org.uk/what-we-do/blog/why-do-cats-sleep-so-much\nhttps://www.hillspet.com.au/cat-care/behavior-appearance/why-cats-sleep-so-much\n\nAnimated in the Halftone Dossier style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #cats #animals #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Halftone Dossier style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/YO6ZPwBHHGg",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-11-14T23:24:13.667724+00:00",
-      "slot": "2026-11-15T00:15:00+00:00"
-    },
     "2026-11-15-101": {
       "topic": {
         "title": "The Mantis Shrimp Paradox: how does a thumb-sized shrimp punch hard enough to crack glass?",
@@ -3144,12 +2961,12 @@
         "format": "animated",
         "style": "Chalkboard Lesson"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261120-feet-first",
       "redos": 0,
-      "updated": "2026-11-20T21:15:56.203409+00:00",
+      "updated": "2026-11-21T02:27:25.654771+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Chalkboard Lesson style). Voice: Kokoro text-to-speech."
       ],
@@ -3164,7 +2981,29 @@
         "name": "2026-11-20-104-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:02,700\nYour feet grow before the rest of your body.\n\n2\n00:00:03,070 --> 00:00:06,120\nIt's why teenagers can look like baby giraffes.\n\n3\n00:00:06,580 --> 00:00:08,070\nBig feet, long legs,\n\n4\n00:00:08,350 --> 00:00:09,800\nand a body still catching up.\n\n5\n00:00:10,270 --> 00:00:11,470\nSo what's going on?\n\n6\n00:00:11,920 --> 00:00:14,030\nInside your bones are growth plates,\n\n7\n00:00:14,420 --> 00:00:16,820\nsoft strips of cartilage near each end.\n\n8\n00:00:17,210 --> 00:00:18,630\nThey keep adding new bone,\n\n9\n00:00:19,180 --> 00:00:22,250\nuntil they harden into solid bone and close for good.\n\n10\n00:00:22,650 --> 00:00:23,850\nWhen puberty kicks in,\n\n11\n00:00:24,270 --> 00:00:26,630\ngrowth starts at the edges and works inward.\n\n12\n00:00:27,080 --> 00:00:28,540\nHands and feet go first,\n\n13\n00:00:28,990 --> 00:00:30,750\nthen your arms and legs,\n\n14\n00:00:30,810 --> 00:00:32,150\nand your torso grows last.\n\n15\n00:00:32,530 --> 00:00:33,410\nSmall bones,\n\n16\n00:00:33,530 --> 00:00:35,640\nlike the ones in your fingers and toes,\n\n17\n00:00:36,090 --> 00:00:39,030\nmature faster than the long bones in your legs.\n\n18\n00:00:39,400 --> 00:00:41,640\nThat's why teens trip over their own feet.\n\n19\n00:00:42,030 --> 00:00:44,590\nThen, somewhere around 13 to 17,\n\n20\n00:00:45,080 --> 00:00:46,370\nthe last growth plates close,\n\n21\n00:00:46,440 --> 00:00:49,350\nand the rest of you finally catches up.\n\n22\n00:00:49,760 --> 00:00:52,270\nSo, did your feet show up before the rest of you?\n\n",
-      "tg_msg": 1181
+      "tg_msg": 1181,
+      "approved_by": "auto",
+      "description_full": "Why do your feet grow before the rest of your body? In the teen growth spurt, growth runs from the outside in: hands and feet first, then arms and legs, then the torso, and growth plates harden into solid bone around 13 to 17.\n\nSources:\nhttps://healthychildren.org/English/ages-stages/gradeschool/puberty/Pages/Physical-Development-Whats-Normal-Whats-Not.aspx\nhttps://kidshealth.org/en/parents/growth-plates.html\nhttps://www.nichd.nih.gov/newsroom/news/072318-bone-maturation\n\nAnimated in the Chalkboard Lesson style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #growthspurt #science #humanbody\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Chalkboard Lesson style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/vJh_GCIIC78",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-21T02:27:25.654789+00:00",
+      "slot": "2026-11-22T00:15:00+00:00"
     },
     "2026-11-20-105": {
       "topic": {
@@ -3212,12 +3051,12 @@
         "format": "animated",
         "style": "Pictogram Motion"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261120-starling-flock",
       "redos": 0,
-      "updated": "2026-11-20T21:16:08.123071+00:00",
+      "updated": "2026-11-21T02:27:31.242481+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Pictogram Motion style). Voice: Kokoro text-to-speech."
       ],
@@ -3232,7 +3071,98 @@
         "name": "2026-11-20-105-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:01,540\nYou'd crash in this flock,\n\n2\n00:00:01,840 --> 00:00:04,160\nbut ten thousand starlings never do.\n\n3\n00:00:04,580 --> 00:00:06,210\nThey swerve just inches apart,\n\n4\n00:00:06,660 --> 00:00:08,570\nso why don't they slam into each other?\n\n5\n00:00:09,040 --> 00:00:10,920\nThere's no leader giving orders.\n\n6\n00:00:11,330 --> 00:00:14,480\nInstead, each starling watches about seven neighbours.\n\n7\n00:00:14,890 --> 00:00:16,530\nClose or far, it doesn't matter,\n\n8\n00:00:16,950 --> 00:00:18,530\nit's always roughly seven.\n\n9\n00:00:18,900 --> 00:00:20,990\nIt copies their speed and their turns,\n\n10\n00:00:21,350 --> 00:00:22,730\nand keeps a tiny gap.\n\n11\n00:00:23,180 --> 00:00:24,530\nSo when one bird turns,\n\n12\n00:00:24,530 --> 00:00:26,380\nits seven neighbours turn too,\n\n13\n00:00:26,840 --> 00:00:27,770\nthen their neighbours,\n\n14\n00:00:28,180 --> 00:00:30,900\nand the turn ripples through the flock like a wave.\n\n15\n00:00:31,270 --> 00:00:33,580\nScientists found that wave travels\n\n16\n00:00:33,760 --> 00:00:37,110\nabout three times faster than a single bird can react.\n\n17\n00:00:37,510 --> 00:00:38,920\nEach bird sees it coming,\n\n18\n00:00:39,320 --> 00:00:41,240\nlike dancers in a chorus line.\n\n19\n00:00:41,700 --> 00:00:43,730\nAnd seven seems to be the sweet spot,\n\n20\n00:00:44,220 --> 00:00:45,400\nenough to stay together,\n\n21\n00:00:45,760 --> 00:00:47,760\nwithout watching everyone at once.\n\n22\n00:00:48,180 --> 00:00:50,310\nSo could you dodge ten thousand people\n\n23\n00:00:50,310 --> 00:00:51,440\nwatching just seven?\n\n",
-      "tg_msg": 1182
+      "tg_msg": 1182,
+      "approved_by": "auto",
+      "description_full": "Why don't starlings crash into each other in a murmuration? Each bird tracks only about seven nearest neighbours, so a turn ripples through the flock as a wave that travels roughly three times faster than one bird can react.\n\nSources:\nhttps://www.princeton.edu/news/2013/02/07/birds-feather-track-seven-neighbors-flock-together\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC2234121\nhttps://www.audubon.org/magazine/how-flock-birds-can-fly-and-move-together\n\nAnimated in the Pictogram Motion style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #starlings #birds #animalfacts\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Pictogram Motion style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/JY7xuXG2_Zs",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-21T02:27:31.242498+00:00",
+      "slot": "2026-11-22T02:15:00+00:00"
+    },
+    "2026-11-21-101": {
+      "topic": {
+        "title": "Why do hamsters stuff food in their cheeks?",
+        "format": "animated",
+        "angle": "Brick Toy"
+      },
+      "package": {
+        "title": "Why Do Hamster Cheeks Stretch Almost 3x? \ud83d\udc39",
+        "description": "Why do hamsters stuff food in their cheeks? Their stretchy cheek pouches run all the way back to the shoulders and can nearly triple in size, so wild hamsters can carry food home to an underground pantry and push it out with their front paws.\n\nSources:\nhttps://www.nationalgeographic.com/animals/article/cheek-pouches-stuffed-animals-news\nhttps://www.chewy.com/education/small-pet/hamster/hamsters-fun-facts\nhttps://www.pbs.org/wnet/nature/hamster-hoards-food-hidden-cheek-pouches/12753\n\nAnimated in the Brick Toy style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#hamster",
+          "#animalfacts",
+          "#science"
+        ],
+        "tags": [
+          "why do hamsters stuff their cheeks",
+          "hamster cheek pouches",
+          "hamster cheeks",
+          "hamster facts",
+          "how big are hamster cheeks",
+          "hamster hoarding food",
+          "pet hamster",
+          "animal facts",
+          "rodent facts",
+          "brick animation",
+          "explainer",
+          "zorbly ai"
+        ],
+        "category": "27",
+        "pinned_comment": "If you had two secret pockets that stretched to your shoulders, what would you carry home first? \ud83d\udc39",
+        "thumbnail_text": "TO THE SHOULDERS",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "Your hamster hides two secret pockets that nearly triple in size. Why? Inside each cheek is a long stretchy pouch, a dead-end sleeve that runs all the way back to the shoulders. Stuffed full, it balloons out like a backpack. Some hamsters fit a whole baby carrot in there. Wild hamsters live where food is scarce and the weather's harsh. So they don't eat on the spot. They fill up fast, run home, and stash it all in an underground pantry. To unload, they push from the back with their front paws, and out it all pours. A special muscle pulls the empty pouch back in. And here's a bonus: some puff their pouches with air to float when they swim. So if you had two secret pockets, what would you carry home first?",
+        "key_facts": [
+          "Hamster cheek pouches start at the cheek and can extend across the shoulders (National Geographic; Chewy, Dr. Campbell)",
+          "Pouches are extremely elastic, expanding to nearly triple their size; Syrian hamsters can fit whole baby carrots (National Geographic)",
+          "Pouches are dead-end sleeves of the mouth lining, retracted by a muscle that evolved from the trapezius (Chewy)",
+          "Hamsters empty pouches by pushing the contents forward with their paws (Chewy)",
+          "Wild hamsters carry food back to underground storage chambers (PBS Nature); elastic pouches tied to cold climate and harsh terrain where food storage matters (National Geographic)",
+          "Hamsters can inflate their cheek pouches with air to help them float when swimming (Chewy; Dictionary.com)"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Brick Toy"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261120-hamster-cheeks",
+      "redos": 0,
+      "updated": "2026-11-21T02:27:07.564501+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Brick Toy style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-21",
+        "name": "2026-11-21-101.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-21",
+        "name": "2026-11-21-101-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:04,220\nYour hamster hides two secret pockets that nearly triple in size.\n\n2\n00:00:04,610 --> 00:00:05,150\nWhy?\n\n3\n00:00:05,610 --> 00:00:08,420\nInside each cheek is a long stretchy pouch,\n\n4\n00:00:08,900 --> 00:00:12,480\na dead-end sleeve that runs all the way back to the shoulders.\n\n5\n00:00:12,940 --> 00:00:15,440\nStuffed full, it balloons out like a backpack.\n\n6\n00:00:15,910 --> 00:00:18,540\nSome hamsters fit a whole baby carrot in there.\n\n7\n00:00:18,920 --> 00:00:22,650\nWild hamsters live where food is scarce and the weather's harsh.\n\n8\n00:00:23,090 --> 00:00:24,650\nSo they don't eat on the spot.\n\n9\n00:00:25,040 --> 00:00:27,040\nThey fill up fast, run home,\n\n10\n00:00:27,320 --> 00:00:29,590\nand stash it all in an underground pantry.\n\n11\n00:00:30,040 --> 00:00:33,640\nTo unload, they push from the back with their front paws,\n\n12\n00:00:33,720 --> 00:00:34,810\nand out it all pours.\n\n13\n00:00:35,260 --> 00:00:38,000\nA special muscle pulls the empty pouch back in.\n\n14\n00:00:38,350 --> 00:00:41,360\nAnd here's a bonus: some puff their pouches with air\n\n15\n00:00:41,420 --> 00:00:42,940\nto float when they swim.\n\n16\n00:00:43,410 --> 00:00:45,360\nSo if you had two secret pockets,\n\n17\n00:00:45,710 --> 00:00:47,300\nwhat would you carry home first?\n\n",
+      "tg_msg": 1185
     }
   },
   "history": [
@@ -3311,7 +3241,7 @@
       "at": "2026-10-25T17:40:17.371797+00:00"
     }
   },
-  "cleanup_day": "2026-11-20",
+  "cleanup_day": "2026-11-21",
   "recent_voices": [
     "en-AU-WilliamMultilingualNeural",
     "en-US-EmmaMultilingualNeural",
@@ -3458,7 +3388,8 @@
     "drop/20261120-animal-colors": "2026-11-20-102",
     "drop/20261120-cat-sweet": "2026-11-20-103",
     "drop/20261120-feet-first": "2026-11-20-104",
-    "drop/20261120-starling-flock": "2026-11-20-105"
+    "drop/20261120-starling-flock": "2026-11-20-105",
+    "drop/20261120-hamster-cheeks": "2026-11-21-101"
   },
-  "refs_day": "2026-11-20"
+  "refs_day": "2026-11-21"
 }
