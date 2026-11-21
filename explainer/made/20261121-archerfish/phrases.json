@@ -1,0 +1,698 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.87,
+  "text": "Could you spit a bug off a leaf 3 meters away?",
+  "words": [
+   [
+    "could",
+    0.25
+   ],
+   [
+    "you",
+    0.62
+   ],
+   [
+    "spit",
+    0.85
+   ],
+   [
+    "a",
+    1.15
+   ],
+   [
+    "bug",
+    1.22
+   ],
+   [
+    "off",
+    1.45
+   ],
+   [
+    "a",
+    1.67
+   ],
+   [
+    "leaf",
+    1.75
+   ],
+   [
+    "3",
+    2.05
+   ],
+   [
+    "meters",
+    2.12
+   ],
+   [
+    "away",
+    2.57
+   ]
+  ]
+ },
+ {
+  "s": 3.41,
+  "e": 4.48,
+  "text": "This fish can.",
+  "words": [
+   [
+    "this",
+    3.41
+   ],
+   [
+    "fish",
+    3.8
+   ],
+   [
+    "can",
+    4.19
+   ]
+  ]
+ },
+ {
+  "s": 4.77,
+  "e": 6.22,
+  "text": "It's called the archerfish.",
+  "words": [
+   [
+    "its",
+    4.77
+   ],
+   [
+    "called",
+    4.97
+   ],
+   [
+    "the",
+    5.36
+   ],
+   [
+    "archerfish",
+    5.56
+   ]
+  ]
+ },
+ {
+  "s": 6.52,
+  "e": 8.34,
+  "text": "It hides just under the surface,",
+  "words": [
+   [
+    "it",
+    6.52
+   ],
+   [
+    "hides",
+    6.66
+   ],
+   [
+    "just",
+    7.01
+   ],
+   [
+    "under",
+    7.29
+   ],
+   [
+    "the",
+    7.64
+   ],
+   [
+    "surface",
+    7.85
+   ]
+  ]
+ },
+ {
+  "s": 8.75,
+  "e": 10.94,
+  "text": "and spots a bug sitting on a leaf above.",
+  "words": [
+   [
+    "and",
+    8.75
+   ],
+   [
+    "spots",
+    8.96
+   ],
+   [
+    "a",
+    9.31
+   ],
+   [
+    "bug",
+    9.39
+   ],
+   [
+    "sitting",
+    9.6
+   ],
+   [
+    "on",
+    10.09
+   ],
+   [
+    "a",
+    10.23
+   ],
+   [
+    "leaf",
+    10.3
+   ],
+   [
+    "above",
+    10.59
+   ]
+  ]
+ },
+ {
+  "s": 11.41,
+  "e": 12.99,
+  "text": "It doesn't jump. It spits.",
+  "words": [
+   [
+    "it",
+    11.41
+   ],
+   [
+    "doesnt",
+    11.58
+   ],
+   [
+    "jump",
+    12.07
+   ],
+   [
+    "it",
+    12.41
+   ],
+   [
+    "spits",
+    12.57
+   ]
+  ]
+ },
+ {
+  "s": 13.36,
+  "e": 14.67,
+  "text": "So how does that work?",
+  "words": [
+   [
+    "so",
+    13.36
+   ],
+   [
+    "how",
+    13.52
+   ],
+   [
+    "does",
+    13.75
+   ],
+   [
+    "that",
+    14.05
+   ],
+   [
+    "work",
+    14.36
+   ]
+  ]
+ },
+ {
+  "s": 15.14,
+  "e": 18.79,
+  "text": "It presses its tongue against a groove in the roof of its mouth.",
+  "words": [
+   [
+    "it",
+    15.14
+   ],
+   [
+    "presses",
+    15.28
+   ],
+   [
+    "its",
+    15.78
+   ],
+   [
+    "tongue",
+    15.99
+   ],
+   [
+    "against",
+    16.42
+   ],
+   [
+    "a",
+    16.93
+   ],
+   [
+    "groove",
+    17.0
+   ],
+   [
+    "in",
+    17.43
+   ],
+   [
+    "the",
+    17.57
+   ],
+   [
+    "roof",
+    17.78
+   ],
+   [
+    "of",
+    18.07
+   ],
+   [
+    "its",
+    18.21
+   ],
+   [
+    "mouth",
+    18.43
+   ]
+  ]
+ },
+ {
+  "s": 19.16,
+  "e": 21.82,
+  "text": "That makes a tiny tube, like a gun barrel.",
+  "words": [
+   [
+    "that",
+    19.16
+   ],
+   [
+    "makes",
+    19.49
+   ],
+   [
+    "a",
+    19.9
+   ],
+   [
+    "tiny",
+    19.99
+   ],
+   [
+    "tube",
+    20.32
+   ],
+   [
+    "like",
+    20.65
+   ],
+   [
+    "a",
+    20.98
+   ],
+   [
+    "gun",
+    21.07
+   ],
+   [
+    "barrel",
+    21.32
+   ]
+  ]
+ },
+ {
+  "s": 22.2,
+  "e": 24.0,
+  "text": "Then it snaps its gill covers shut,",
+  "words": [
+   [
+    "then",
+    22.2
+   ],
+   [
+    "it",
+    22.46
+   ],
+   [
+    "snaps",
+    22.59
+   ],
+   [
+    "its",
+    22.91
+   ],
+   [
+    "gill",
+    23.1
+   ],
+   [
+    "covers",
+    23.36
+   ],
+   [
+    "shut",
+    23.74
+   ]
+  ]
+ },
+ {
+  "s": 24.46,
+  "e": 26.4,
+  "text": "and water blasts out of that tube.",
+  "words": [
+   [
+    "and",
+    24.46
+   ],
+   [
+    "water",
+    24.68
+   ],
+   [
+    "blasts",
+    25.04
+   ],
+   [
+    "out",
+    25.47
+   ],
+   [
+    "of",
+    25.68
+   ],
+   [
+    "that",
+    25.83
+   ],
+   [
+    "tube",
+    26.11
+   ]
+  ]
+ },
+ {
+  "s": 26.8,
+  "e": 28.32,
+  "text": "And here's the clever part.",
+  "words": [
+   [
+    "and",
+    26.8
+   ],
+   [
+    "heres",
+    27.02
+   ],
+   [
+    "the",
+    27.38
+   ],
+   [
+    "clever",
+    27.59
+   ],
+   [
+    "part",
+    28.03
+   ]
+  ]
+ },
+ {
+  "s": 28.71,
+  "e": 31.03,
+  "text": "The back of the jet moves faster than the front,",
+  "words": [
+   [
+    "the",
+    28.71
+   ],
+   [
+    "back",
+    28.9
+   ],
+   [
+    "of",
+    29.14
+   ],
+   [
+    "the",
+    29.26
+   ],
+   [
+    "jet",
+    29.45
+   ],
+   [
+    "moves",
+    29.63
+   ],
+   [
+    "faster",
+    29.93
+   ],
+   [
+    "than",
+    30.3
+   ],
+   [
+    "the",
+    30.54
+   ],
+   [
+    "front",
+    30.73
+   ]
+  ]
+ },
+ {
+  "s": 31.6,
+  "e": 34.17,
+  "text": "so the water bunches into one big blob,",
+  "words": [
+   [
+    "so",
+    31.6
+   ],
+   [
+    "the",
+    31.77
+   ],
+   [
+    "water",
+    32.02
+   ],
+   [
+    "bunches",
+    32.43
+   ],
+   [
+    "into",
+    33.01
+   ],
+   [
+    "one",
+    33.34
+   ],
+   [
+    "big",
+    33.59
+   ],
+   [
+    "blob",
+    33.84
+   ]
+  ]
+ },
+ {
+  "s": 34.56,
+  "e": 35.8,
+  "text": "right before it hits.",
+  "words": [
+   [
+    "right",
+    34.56
+   ],
+   [
+    "before",
+    34.93
+   ],
+   [
+    "it",
+    35.36
+   ],
+   [
+    "hits",
+    35.51
+   ]
+  ]
+ },
+ {
+  "s": 36.18,
+  "e": 39.54,
+  "text": "Big archerfish can hit a bug two to three meters away.",
+  "words": [
+   [
+    "big",
+    36.18
+   ],
+   [
+    "archerfish",
+    36.41
+   ],
+   [
+    "can",
+    37.2
+   ],
+   [
+    "hit",
+    37.43
+   ],
+   [
+    "a",
+    37.66
+   ],
+   [
+    "bug",
+    37.74
+   ],
+   [
+    "two",
+    37.98
+   ],
+   [
+    "to",
+    38.21
+   ],
+   [
+    "three",
+    38.37
+   ],
+   [
+    "meters",
+    38.76
+   ],
+   [
+    "away",
+    39.23
+   ]
+  ]
+ },
+ {
+  "s": 39.96,
+  "e": 41.18,
+  "text": "Smack! The bug drops,",
+  "words": [
+   [
+    "smack",
+    39.96
+   ],
+   [
+    "the",
+    40.35
+   ],
+   [
+    "bug",
+    40.57
+   ],
+   [
+    "drops",
+    40.8
+   ]
+  ]
+ },
+ {
+  "s": 41.25,
+  "e": 43.6,
+  "text": "and dinner falls right into the water.",
+  "words": [
+   [
+    "and",
+    41.25
+   ],
+   [
+    "dinner",
+    41.48
+   ],
+   [
+    "falls",
+    41.94
+   ],
+   [
+    "right",
+    42.32
+   ],
+   [
+    "into",
+    42.69
+   ],
+   [
+    "the",
+    43.0
+   ],
+   [
+    "water",
+    43.23
+   ]
+  ]
+ },
+ {
+  "s": 43.95,
+  "e": 44.93,
+  "text": "So be honest.",
+  "words": [
+   [
+    "so",
+    43.95
+   ],
+   [
+    "be",
+    44.15
+   ],
+   [
+    "honest",
+    44.34
+   ]
+  ]
+ },
+ {
+  "s": 45.29,
+  "e": 47.03,
+  "text": "How far do you think you could spit?",
+  "words": [
+   [
+    "how",
+    45.29
+   ],
+   [
+    "far",
+    45.47
+   ],
+   [
+    "do",
+    45.66
+   ],
+   [
+    "you",
+    45.79
+   ],
+   [
+    "think",
+    45.97
+   ],
+   [
+    "you",
+    46.28
+   ],
+   [
+    "could",
+    46.47
+   ],
+   [
+    "spit",
+    46.78
+   ]
+  ]
+ }
+]
