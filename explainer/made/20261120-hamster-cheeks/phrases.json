@@ -1,0 +1,657 @@
+[
+ {
+  "s": 0.25,
+  "e": 4.22,
+  "text": "Your hamster hides two secret pockets that nearly triple in size.",
+  "words": [
+   [
+    "your",
+    0.25
+   ],
+   [
+    "hamster",
+    0.54
+   ],
+   [
+    "hides",
+    1.06
+   ],
+   [
+    "two",
+    1.43
+   ],
+   [
+    "secret",
+    1.65
+   ],
+   [
+    "pockets",
+    2.09
+   ],
+   [
+    "that",
+    2.6
+   ],
+   [
+    "nearly",
+    2.9
+   ],
+   [
+    "triple",
+    3.34
+   ],
+   [
+    "in",
+    3.78
+   ],
+   [
+    "size",
+    3.93
+   ]
+  ]
+ },
+ {
+  "s": 4.61,
+  "e": 5.15,
+  "text": "Why?",
+  "words": [
+   [
+    "why",
+    4.61
+   ]
+  ]
+ },
+ {
+  "s": 5.61,
+  "e": 8.42,
+  "text": "Inside each cheek is a long stretchy pouch,",
+  "words": [
+   [
+    "inside",
+    5.61
+   ],
+   [
+    "each",
+    6.1
+   ],
+   [
+    "cheek",
+    6.42
+   ],
+   [
+    "is",
+    6.82
+   ],
+   [
+    "a",
+    6.98
+   ],
+   [
+    "long",
+    7.06
+   ],
+   [
+    "stretchy",
+    7.38
+   ],
+   [
+    "pouch",
+    8.02
+   ]
+  ]
+ },
+ {
+  "s": 8.9,
+  "e": 12.48,
+  "text": "a dead-end sleeve that runs all the way back to the shoulders.",
+  "words": [
+   [
+    "a",
+    8.9
+   ],
+   [
+    "deadend",
+    8.98
+   ],
+   [
+    "sleeve",
+    9.49
+   ],
+   [
+    "that",
+    9.93
+   ],
+   [
+    "runs",
+    10.22
+   ],
+   [
+    "all",
+    10.51
+   ],
+   [
+    "the",
+    10.73
+   ],
+   [
+    "way",
+    10.95
+   ],
+   [
+    "back",
+    11.17
+   ],
+   [
+    "to",
+    11.46
+   ],
+   [
+    "the",
+    11.6
+   ],
+   [
+    "shoulders",
+    11.82
+   ]
+  ]
+ },
+ {
+  "s": 12.94,
+  "e": 15.44,
+  "text": "Stuffed full, it balloons out like a backpack.",
+  "words": [
+   [
+    "stuffed",
+    12.94
+   ],
+   [
+    "full",
+    13.41
+   ],
+   [
+    "it",
+    13.68
+   ],
+   [
+    "balloons",
+    13.82
+   ],
+   [
+    "out",
+    14.36
+   ],
+   [
+    "like",
+    14.56
+   ],
+   [
+    "a",
+    14.83
+   ],
+   [
+    "backpack",
+    14.9
+   ]
+  ]
+ },
+ {
+  "s": 15.91,
+  "e": 18.54,
+  "text": "Some hamsters fit a whole baby carrot in there.",
+  "words": [
+   [
+    "some",
+    15.91
+   ],
+   [
+    "hamsters",
+    16.19
+   ],
+   [
+    "fit",
+    16.74
+   ],
+   [
+    "a",
+    16.95
+   ],
+   [
+    "whole",
+    17.02
+   ],
+   [
+    "baby",
+    17.36
+   ],
+   [
+    "carrot",
+    17.64
+   ],
+   [
+    "in",
+    18.05
+   ],
+   [
+    "there",
+    18.19
+   ]
+  ]
+ },
+ {
+  "s": 18.92,
+  "e": 22.65,
+  "text": "Wild hamsters live where food is scarce and the weather's harsh.",
+  "words": [
+   [
+    "wild",
+    18.92
+   ],
+   [
+    "hamsters",
+    19.21
+   ],
+   [
+    "live",
+    19.78
+   ],
+   [
+    "where",
+    20.07
+   ],
+   [
+    "food",
+    20.43
+   ],
+   [
+    "is",
+    20.71
+   ],
+   [
+    "scarce",
+    20.86
+   ],
+   [
+    "and",
+    21.29
+   ],
+   [
+    "the",
+    21.5
+   ],
+   [
+    "weathers",
+    21.72
+   ],
+   [
+    "harsh",
+    22.29
+   ]
+  ]
+ },
+ {
+  "s": 23.09,
+  "e": 24.65,
+  "text": "So they don't eat on the spot.",
+  "words": [
+   [
+    "so",
+    23.09
+   ],
+   [
+    "they",
+    23.23
+   ],
+   [
+    "dont",
+    23.52
+   ],
+   [
+    "eat",
+    23.8
+   ],
+   [
+    "on",
+    24.01
+   ],
+   [
+    "the",
+    24.16
+   ],
+   [
+    "spot",
+    24.37
+   ]
+  ]
+ },
+ {
+  "s": 25.04,
+  "e": 27.04,
+  "text": "They fill up fast, run home,",
+  "words": [
+   [
+    "they",
+    25.04
+   ],
+   [
+    "fill",
+    25.42
+   ],
+   [
+    "up",
+    25.8
+   ],
+   [
+    "fast",
+    25.99
+   ],
+   [
+    "run",
+    26.38
+   ],
+   [
+    "home",
+    26.66
+   ]
+  ]
+ },
+ {
+  "s": 27.32,
+  "e": 29.59,
+  "text": "and stash it all in an underground pantry.",
+  "words": [
+   [
+    "and",
+    27.32
+   ],
+   [
+    "stash",
+    27.52
+   ],
+   [
+    "it",
+    27.86
+   ],
+   [
+    "all",
+    27.99
+   ],
+   [
+    "in",
+    28.19
+   ],
+   [
+    "an",
+    28.32
+   ],
+   [
+    "underground",
+    28.46
+   ],
+   [
+    "pantry",
+    29.19
+   ]
+  ]
+ },
+ {
+  "s": 30.04,
+  "e": 33.64,
+  "text": "To unload, they push from the back with their front paws,",
+  "words": [
+   [
+    "to",
+    30.04
+   ],
+   [
+    "unload",
+    30.2
+   ],
+   [
+    "they",
+    30.68
+   ],
+   [
+    "push",
+    31.0
+   ],
+   [
+    "from",
+    31.32
+   ],
+   [
+    "the",
+    31.64
+   ],
+   [
+    "back",
+    31.88
+   ],
+   [
+    "with",
+    32.2
+   ],
+   [
+    "their",
+    32.52
+   ],
+   [
+    "front",
+    32.92
+   ],
+   [
+    "paws",
+    33.32
+   ]
+  ]
+ },
+ {
+  "s": 33.72,
+  "e": 34.81,
+  "text": "and out it all pours.",
+  "words": [
+   [
+    "and",
+    33.72
+   ],
+   [
+    "out",
+    33.93
+   ],
+   [
+    "it",
+    34.13
+   ],
+   [
+    "all",
+    34.26
+   ],
+   [
+    "pours",
+    34.47
+   ]
+  ]
+ },
+ {
+  "s": 35.26,
+  "e": 38.0,
+  "text": "A special muscle pulls the empty pouch back in.",
+  "words": [
+   [
+    "a",
+    35.26
+   ],
+   [
+    "special",
+    35.34
+   ],
+   [
+    "muscle",
+    35.84
+   ],
+   [
+    "pulls",
+    36.27
+   ],
+   [
+    "the",
+    36.63
+   ],
+   [
+    "empty",
+    36.85
+   ],
+   [
+    "pouch",
+    37.21
+   ],
+   [
+    "back",
+    37.57
+   ],
+   [
+    "in",
+    37.86
+   ]
+  ]
+ },
+ {
+  "s": 38.35,
+  "e": 41.36,
+  "text": "And here's a bonus: some puff their pouches with air",
+  "words": [
+   [
+    "and",
+    38.35
+   ],
+   [
+    "heres",
+    38.57
+   ],
+   [
+    "a",
+    38.94
+   ],
+   [
+    "bonus",
+    39.01
+   ],
+   [
+    "some",
+    39.38
+   ],
+   [
+    "puff",
+    39.67
+   ],
+   [
+    "their",
+    39.96
+   ],
+   [
+    "pouches",
+    40.33
+   ],
+   [
+    "with",
+    40.84
+   ],
+   [
+    "air",
+    41.14
+   ]
+  ]
+ },
+ {
+  "s": 41.42,
+  "e": 42.94,
+  "text": "to float when they swim.",
+  "words": [
+   [
+    "to",
+    41.42
+   ],
+   [
+    "float",
+    41.58
+   ],
+   [
+    "when",
+    41.98
+   ],
+   [
+    "they",
+    42.3
+   ],
+   [
+    "swim",
+    42.62
+   ]
+  ]
+ },
+ {
+  "s": 43.41,
+  "e": 45.36,
+  "text": "So if you had two secret pockets,",
+  "words": [
+   [
+    "so",
+    43.41
+   ],
+   [
+    "if",
+    43.56
+   ],
+   [
+    "you",
+    43.71
+   ],
+   [
+    "had",
+    43.94
+   ],
+   [
+    "two",
+    44.16
+   ],
+   [
+    "secret",
+    44.39
+   ],
+   [
+    "pockets",
+    44.84
+   ]
+  ]
+ },
+ {
+  "s": 45.71,
+  "e": 47.3,
+  "text": "what would you carry home first?",
+  "words": [
+   [
+    "what",
+    45.71
+   ],
+   [
+    "would",
+    45.96
+   ],
+   [
+    "you",
+    46.26
+   ],
+   [
+    "carry",
+    46.45
+   ],
+   [
+    "home",
+    46.75
+   ],
+   [
+    "first",
+    47.0
+   ]
+  ]
+ }
+]
