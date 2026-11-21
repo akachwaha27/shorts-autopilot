@@ -1,0 +1,725 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.72,
+  "text": "Frogs actually swallow with their eyeballs.",
+  "words": [
+   [
+    "frogs",
+    0.25
+   ],
+   [
+    "actually",
+    0.58
+   ],
+   [
+    "swallow",
+    1.12
+   ],
+   [
+    "with",
+    1.58
+   ],
+   [
+    "their",
+    1.85
+   ],
+   [
+    "eyeballs",
+    2.18
+   ]
+  ]
+ },
+ {
+  "s": 3.1,
+  "e": 4.95,
+  "text": "You've just never noticed why.",
+  "words": [
+   [
+    "youve",
+    3.1
+   ],
+   [
+    "just",
+    3.48
+   ],
+   [
+    "never",
+    3.79
+   ],
+   [
+    "noticed",
+    4.18
+   ],
+   [
+    "why",
+    4.72
+   ]
+  ]
+ },
+ {
+  "s": 5.43,
+  "e": 7.15,
+  "text": "Watch a frog gulp down a cricket,",
+  "words": [
+   [
+    "watch",
+    5.43
+   ],
+   [
+    "a",
+    5.76
+   ],
+   [
+    "frog",
+    5.82
+   ],
+   [
+    "gulp",
+    6.09
+   ],
+   [
+    "down",
+    6.35
+   ],
+   [
+    "a",
+    6.62
+   ],
+   [
+    "cricket",
+    6.68
+   ]
+  ]
+ },
+ {
+  "s": 7.63,
+  "e": 8.97,
+  "text": "and its eyes squeeze shut",
+  "words": [
+   [
+    "and",
+    7.63
+   ],
+   [
+    "its",
+    7.82
+   ],
+   [
+    "eyes",
+    8.01
+   ],
+   [
+    "squeeze",
+    8.27
+   ],
+   [
+    "shut",
+    8.71
+   ]
+  ]
+ },
+ {
+  "s": 8.97,
+  "e": 10.7,
+  "text": "and sink right into its head.",
+  "words": [
+   [
+    "and",
+    8.97
+   ],
+   [
+    "sink",
+    9.2
+   ],
+   [
+    "right",
+    9.5
+   ],
+   [
+    "into",
+    9.87
+   ],
+   [
+    "its",
+    10.17
+   ],
+   [
+    "head",
+    10.4
+   ]
+  ]
+ },
+ {
+  "s": 11.06,
+  "e": 12.22,
+  "text": "That's not a blink.",
+  "words": [
+   [
+    "thats",
+    11.06
+   ],
+   [
+    "not",
+    11.48
+   ],
+   [
+    "a",
+    11.73
+   ],
+   [
+    "blink",
+    11.81
+   ]
+  ]
+ },
+ {
+  "s": 12.6,
+  "e": 15.01,
+  "text": "A frog's eye sockets are open underneath,",
+  "words": [
+   [
+    "a",
+    12.6
+   ],
+   [
+    "frogs",
+    12.67
+   ],
+   [
+    "eye",
+    13.04
+   ],
+   [
+    "sockets",
+    13.26
+   ],
+   [
+    "are",
+    13.77
+   ],
+   [
+    "open",
+    13.99
+   ],
+   [
+    "underneath",
+    14.28
+   ]
+  ]
+ },
+ {
+  "s": 15.46,
+  "e": 17.21,
+  "text": "with no solid bone floor.",
+  "words": [
+   [
+    "with",
+    15.46
+   ],
+   [
+    "no",
+    15.81
+   ],
+   [
+    "solid",
+    15.98
+   ],
+   [
+    "bone",
+    16.42
+   ],
+   [
+    "floor",
+    16.77
+   ]
+  ]
+ },
+ {
+  "s": 17.59,
+  "e": 19.93,
+  "text": "So muscles yank each eyeball down,",
+  "words": [
+   [
+    "so",
+    17.59
+   ],
+   [
+    "muscles",
+    17.76
+   ],
+   [
+    "yank",
+    18.34
+   ],
+   [
+    "each",
+    18.68
+   ],
+   [
+    "eyeball",
+    19.01
+   ],
+   [
+    "down",
+    19.6
+   ]
+  ]
+ },
+ {
+  "s": 20.38,
+  "e": 21.78,
+  "text": "into the roof of its mouth.",
+  "words": [
+   [
+    "into",
+    20.38
+   ],
+   [
+    "the",
+    20.65
+   ],
+   [
+    "roof",
+    20.85
+   ],
+   [
+    "of",
+    21.11
+   ],
+   [
+    "its",
+    21.25
+   ],
+   [
+    "mouth",
+    21.45
+   ]
+  ]
+ },
+ {
+  "s": 22.13,
+  "e": 24.79,
+  "text": "Now those eyes press on the bug like two thumbs,",
+  "words": [
+   [
+    "now",
+    22.13
+   ],
+   [
+    "those",
+    22.34
+   ],
+   [
+    "eyes",
+    22.69
+   ],
+   [
+    "press",
+    22.97
+   ],
+   [
+    "on",
+    23.32
+   ],
+   [
+    "the",
+    23.46
+   ],
+   [
+    "bug",
+    23.67
+   ],
+   [
+    "like",
+    23.88
+   ],
+   [
+    "two",
+    24.16
+   ],
+   [
+    "thumbs",
+    24.37
+   ]
+  ]
+ },
+ {
+  "s": 24.9,
+  "e": 26.92,
+  "text": "shoving it back toward the throat.",
+  "words": [
+   [
+    "shoving",
+    24.9
+   ],
+   [
+    "it",
+    25.41
+   ],
+   [
+    "back",
+    25.55
+   ],
+   [
+    "toward",
+    25.84
+   ],
+   [
+    "the",
+    26.27
+   ],
+   [
+    "throat",
+    26.49
+   ]
+  ]
+ },
+ {
+  "s": 27.32,
+  "e": 28.16,
+  "text": "Why bother?",
+  "words": [
+   [
+    "why",
+    27.32
+   ],
+   [
+    "bother",
+    27.6
+   ]
+  ]
+ },
+ {
+  "s": 28.69,
+  "e": 29.84,
+  "text": "Frogs don't chew.",
+  "words": [
+   [
+    "frogs",
+    28.69
+   ],
+   [
+    "dont",
+    29.13
+   ],
+   [
+    "chew",
+    29.48
+   ]
+  ]
+ },
+ {
+  "s": 30.22,
+  "e": 31.7,
+  "text": "Their tiny teeth only grip,",
+  "words": [
+   [
+    "their",
+    30.22
+   ],
+   [
+    "tiny",
+    30.56
+   ],
+   [
+    "teeth",
+    30.83
+   ],
+   [
+    "only",
+    31.17
+   ],
+   [
+    "grip",
+    31.43
+   ]
+  ]
+ },
+ {
+  "s": 32.11,
+  "e": 33.67,
+  "text": "so dinner goes down whole.",
+  "words": [
+   [
+    "so",
+    32.11
+   ],
+   [
+    "dinner",
+    32.26
+   ],
+   [
+    "goes",
+    32.7
+   ],
+   [
+    "down",
+    33.0
+   ],
+   [
+    "whole",
+    33.3
+   ]
+  ]
+ },
+ {
+  "s": 34.15,
+  "e": 36.58,
+  "text": "Scientists tested this on leopard frogs.",
+  "words": [
+   [
+    "scientists",
+    34.15
+   ],
+   [
+    "tested",
+    34.86
+   ],
+   [
+    "this",
+    35.29
+   ],
+   [
+    "on",
+    35.58
+   ],
+   [
+    "leopard",
+    35.72
+   ],
+   [
+    "frogs",
+    36.22
+   ]
+  ]
+ },
+ {
+  "s": 36.92,
+  "e": 39.5,
+  "text": "With those eye muscles switched off,",
+  "words": [
+   [
+    "with",
+    36.92
+   ],
+   [
+    "those",
+    37.27
+   ],
+   [
+    "eye",
+    37.7
+   ],
+   [
+    "muscles",
+    37.95
+   ],
+   [
+    "switched",
+    38.56
+   ],
+   [
+    "off",
+    39.24
+   ]
+  ]
+ },
+ {
+  "s": 39.59,
+  "e": 42.26,
+  "text": "each cricket took 74 percent more swallows.",
+  "words": [
+   [
+    "each",
+    39.59
+   ],
+   [
+    "cricket",
+    39.89
+   ],
+   [
+    "took",
+    40.41
+   ],
+   [
+    "74",
+    40.7
+   ],
+   [
+    "percent",
+    40.85
+   ],
+   [
+    "more",
+    41.37
+   ],
+   [
+    "swallows",
+    41.67
+   ]
+  ]
+ },
+ {
+  "s": 42.66,
+  "e": 44.54,
+  "text": "About four gulps instead of two.",
+  "words": [
+   [
+    "about",
+    42.66
+   ],
+   [
+    "four",
+    43.02
+   ],
+   [
+    "gulps",
+    43.31
+   ],
+   [
+    "instead",
+    43.67
+   ],
+   [
+    "of",
+    44.18
+   ],
+   [
+    "two",
+    44.33
+   ]
+  ]
+ },
+ {
+  "s": 44.91,
+  "e": 46.75,
+  "text": "So a frog's eyes spot the bug,",
+  "words": [
+   [
+    "so",
+    44.91
+   ],
+   [
+    "a",
+    45.07
+   ],
+   [
+    "frogs",
+    45.16
+   ],
+   [
+    "eyes",
+    45.58
+   ],
+   [
+    "spot",
+    45.91
+   ],
+   [
+    "the",
+    46.24
+   ],
+   [
+    "bug",
+    46.5
+   ]
+  ]
+ },
+ {
+  "s": 47.12,
+  "e": 48.36,
+  "text": "then help push it down.",
+  "words": [
+   [
+    "then",
+    47.12
+   ],
+   [
+    "help",
+    47.39
+   ],
+   [
+    "push",
+    47.67
+   ],
+   [
+    "it",
+    47.95
+   ],
+   [
+    "down",
+    48.09
+   ]
+  ]
+ },
+ {
+  "s": 48.71,
+  "e": 50.27,
+  "text": "Next time a frog blinks at you,",
+  "words": [
+   [
+    "next",
+    48.71
+   ],
+   [
+    "time",
+    48.97
+   ],
+   [
+    "a",
+    49.23
+   ],
+   [
+    "frog",
+    49.29
+   ],
+   [
+    "blinks",
+    49.55
+   ],
+   [
+    "at",
+    49.94
+   ],
+   [
+    "you",
+    50.07
+   ]
+  ]
+ },
+ {
+  "s": 50.67,
+  "e": 51.76,
+  "text": "is it winking,",
+  "words": [
+   [
+    "is",
+    50.67
+   ],
+   [
+    "it",
+    50.87
+   ],
+   [
+    "winking",
+    51.06
+   ]
+  ]
+ },
+ {
+  "s": 51.87,
+  "e": 52.28,
+  "text": "or eating?",
+  "words": [
+   [
+    "or",
+    51.87
+   ],
+   [
+    "eating",
+    51.97
+   ]
+  ]
+ }
+]
