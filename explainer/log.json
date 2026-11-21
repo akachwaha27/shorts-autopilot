@@ -1681,5 +1681,20 @@
   "words": 139,
   "sheet_id": "S116",
   "notes": "unattended run, no storyboard step; hook 45, title 98"
+ },
+ {
+  "date": "2026-11-21",
+  "id": "20261121-bee-sting",
+  "kind": "long",
+  "style": "Mid-century Cartoon",
+  "topic": "What actually happens when a bee stings you?",
+  "title": "Why a Bee Stinger Pumps Venom for 70 Seconds Alone 🐝",
+  "seconds": 187.6,
+  "words": 507,
+  "sheet_id": "L034",
+  "chapters": 5,
+  "hook_score": 50,
+  "title_score": 98,
+  "notes": "unattended run, no storyboard step; 5 parts + intro and speed outro, 34 scenes; Lemo midcentury-toon toon.js engine (MIT) bundled as engine.js (setup.sh not run: sandbox blocked it); voice am_michael; teaser for L035 stomach; added trend rows L036-L037"
  }
 ]
