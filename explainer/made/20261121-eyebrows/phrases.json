@@ -1,0 +1,677 @@
+[
+ {
+  "s": 0.25,
+  "e": 4.58,
+  "text": "Lose your eyebrows and 54% of people can't name your face.",
+  "words": [
+   [
+    "lose",
+    0.25
+   ],
+   [
+    "your",
+    0.63
+   ],
+   [
+    "eyebrows",
+    1.02
+   ],
+   [
+    "and",
+    1.79
+   ],
+   [
+    "54",
+    2.08
+   ],
+   [
+    "of",
+    2.27
+   ],
+   [
+    "people",
+    2.46
+   ],
+   [
+    "cant",
+    3.04
+   ],
+   [
+    "name",
+    3.42
+   ],
+   [
+    "your",
+    3.81
+   ],
+   [
+    "face",
+    4.19
+   ]
+  ]
+ },
+ {
+  "s": 4.98,
+  "e": 8.07,
+  "text": "MIT scientists tested it in 2003.",
+  "words": [
+   [
+    "mit",
+    4.98
+   ],
+   [
+    "scientists",
+    5.33
+   ],
+   [
+    "tested",
+    6.47
+   ],
+   [
+    "it",
+    7.16
+   ],
+   [
+    "in",
+    7.39
+   ],
+   [
+    "2003",
+    7.61
+   ]
+  ]
+ },
+ {
+  "s": 8.42,
+  "e": 11.46,
+  "text": "They showed people famous faces with the eyes erased,",
+  "words": [
+   [
+    "they",
+    8.42
+   ],
+   [
+    "showed",
+    8.7
+   ],
+   [
+    "people",
+    9.12
+   ],
+   [
+    "famous",
+    9.53
+   ],
+   [
+    "faces",
+    9.94
+   ],
+   [
+    "with",
+    10.29
+   ],
+   [
+    "the",
+    10.57
+   ],
+   [
+    "eyes",
+    10.77
+   ],
+   [
+    "erased",
+    11.05
+   ]
+  ]
+ },
+ {
+  "s": 11.92,
+  "e": 13.64,
+  "text": "and they still named sixty percent.",
+  "words": [
+   [
+    "and",
+    11.92
+   ],
+   [
+    "they",
+    12.1
+   ],
+   [
+    "still",
+    12.34
+   ],
+   [
+    "named",
+    12.64
+   ],
+   [
+    "sixty",
+    12.93
+   ],
+   [
+    "percent",
+    13.23
+   ]
+  ]
+ },
+ {
+  "s": 14.02,
+  "e": 15.68,
+  "text": "But erase just the eyebrows,",
+  "words": [
+   [
+    "but",
+    14.02
+   ],
+   [
+    "erase",
+    14.24
+   ],
+   [
+    "just",
+    14.6
+   ],
+   [
+    "the",
+    14.89
+   ],
+   [
+    "eyebrows",
+    15.1
+   ]
+  ]
+ },
+ {
+  "s": 16.01,
+  "e": 17.61,
+  "text": "and it dropped to forty-six.",
+  "words": [
+   [
+    "and",
+    16.01
+   ],
+   [
+    "it",
+    16.23
+   ],
+   [
+    "dropped",
+    16.37
+   ],
+   [
+    "to",
+    16.88
+   ],
+   [
+    "fortysix",
+    17.03
+   ]
+  ]
+ },
+ {
+  "s": 18.0,
+  "e": 19.75,
+  "text": "So why do we even have them?",
+  "words": [
+   [
+    "so",
+    18.0
+   ],
+   [
+    "why",
+    18.16
+   ],
+   [
+    "do",
+    18.41
+   ],
+   [
+    "we",
+    18.58
+   ],
+   [
+    "even",
+    18.75
+   ],
+   [
+    "have",
+    19.08
+   ],
+   [
+    "them",
+    19.42
+   ]
+  ]
+ },
+ {
+  "s": 20.21,
+  "e": 22.49,
+  "text": "Picture sweat rolling down your forehead.",
+  "words": [
+   [
+    "picture",
+    20.21
+   ],
+   [
+    "sweat",
+    20.67
+   ],
+   [
+    "rolling",
+    20.99
+   ],
+   [
+    "down",
+    21.45
+   ],
+   [
+    "your",
+    21.71
+   ],
+   [
+    "forehead",
+    21.97
+   ]
+  ]
+ },
+ {
+  "s": 22.87,
+  "e": 25.81,
+  "text": "Your brow bone and that arch catch it like a gutter,",
+  "words": [
+   [
+    "your",
+    22.87
+   ],
+   [
+    "brow",
+    23.16
+   ],
+   [
+    "bone",
+    23.44
+   ],
+   [
+    "and",
+    23.73
+   ],
+   [
+    "that",
+    23.95
+   ],
+   [
+    "arch",
+    24.23
+   ],
+   [
+    "catch",
+    24.52
+   ],
+   [
+    "it",
+    24.88
+   ],
+   [
+    "like",
+    25.02
+   ],
+   [
+    "a",
+    25.31
+   ],
+   [
+    "gutter",
+    25.38
+   ]
+  ]
+ },
+ {
+  "s": 26.32,
+  "e": 28.83,
+  "text": "and the hairs all point out toward your ears,",
+  "words": [
+   [
+    "and",
+    26.32
+   ],
+   [
+    "the",
+    26.53
+   ],
+   [
+    "hairs",
+    26.74
+   ],
+   [
+    "all",
+    27.09
+   ],
+   [
+    "point",
+    27.3
+   ],
+   [
+    "out",
+    27.64
+   ],
+   [
+    "toward",
+    27.85
+   ],
+   [
+    "your",
+    28.27
+   ],
+   [
+    "ears",
+    28.55
+   ]
+  ]
+ },
+ {
+  "s": 29.25,
+  "e": 31.57,
+  "text": "so the drops slide off to the sides,",
+  "words": [
+   [
+    "so",
+    29.25
+   ],
+   [
+    "the",
+    29.42
+   ],
+   [
+    "drops",
+    29.66
+   ],
+   [
+    "slide",
+    30.08
+   ],
+   [
+    "off",
+    30.49
+   ],
+   [
+    "to",
+    30.74
+   ],
+   [
+    "the",
+    30.91
+   ],
+   [
+    "sides",
+    31.16
+   ]
+  ]
+ },
+ {
+  "s": 31.92,
+  "e": 33.29,
+  "text": "and not into your eyes.",
+  "words": [
+   [
+    "and",
+    31.92
+   ],
+   [
+    "not",
+    32.15
+   ],
+   [
+    "into",
+    32.38
+   ],
+   [
+    "your",
+    32.68
+   ],
+   [
+    "eyes",
+    32.99
+   ]
+  ]
+ },
+ {
+  "s": 33.75,
+  "e": 34.62,
+  "text": "Rain too.",
+  "words": [
+   [
+    "rain",
+    33.75
+   ],
+   [
+    "too",
+    34.25
+   ]
+  ]
+ },
+ {
+  "s": 35.02,
+  "e": 38.42,
+  "text": "Each brow has about 250 hairs on the job.",
+  "words": [
+   [
+    "each",
+    35.02
+   ],
+   [
+    "brow",
+    35.45
+   ],
+   [
+    "has",
+    35.87
+   ],
+   [
+    "about",
+    36.19
+   ],
+   [
+    "250",
+    36.72
+   ],
+   [
+    "hairs",
+    37.04
+   ],
+   [
+    "on",
+    37.57
+   ],
+   [
+    "the",
+    37.79
+   ],
+   [
+    "job",
+    38.11
+   ]
+  ]
+ },
+ {
+  "s": 38.88,
+  "e": 40.21,
+  "text": "But their biggest job?",
+  "words": [
+   [
+    "but",
+    38.88
+   ],
+   [
+    "their",
+    39.1
+   ],
+   [
+    "biggest",
+    39.47
+   ],
+   [
+    "job",
+    39.99
+   ]
+  ]
+ },
+ {
+  "s": 40.67,
+  "e": 42.07,
+  "text": "Talking without words.",
+  "words": [
+   [
+    "talking",
+    40.67
+   ],
+   [
+    "without",
+    41.19
+   ],
+   [
+    "words",
+    41.7
+   ]
+  ]
+ },
+ {
+  "s": 42.41,
+  "e": 44.0,
+  "text": "One brow up means, really?",
+  "words": [
+   [
+    "one",
+    42.41
+   ],
+   [
+    "brow",
+    42.65
+   ],
+   [
+    "up",
+    42.97
+   ],
+   [
+    "means",
+    43.13
+   ],
+   [
+    "really",
+    43.52
+   ]
+  ]
+ },
+ {
+  "s": 44.47,
+  "e": 46.06,
+  "text": "Both up means surprise!",
+  "words": [
+   [
+    "both",
+    44.47
+   ],
+   [
+    "up",
+    44.81
+   ],
+   [
+    "means",
+    44.97
+   ],
+   [
+    "surprise",
+    45.39
+   ]
+  ]
+ },
+ {
+  "s": 46.43,
+  "e": 49.13,
+  "text": "Pulled down and together? Somebody's grumpy.",
+  "words": [
+   [
+    "pulled",
+    46.43
+   ],
+   [
+    "down",
+    46.88
+   ],
+   [
+    "and",
+    47.18
+   ],
+   [
+    "together",
+    47.41
+   ],
+   [
+    "somebodys",
+    48.01
+   ],
+   [
+    "grumpy",
+    48.68
+   ]
+  ]
+ },
+ {
+  "s": 49.53,
+  "e": 51.52,
+  "text": "So can you raise just one eyebrow?",
+  "words": [
+   [
+    "so",
+    49.53
+   ],
+   [
+    "can",
+    49.68
+   ],
+   [
+    "you",
+    49.9
+   ],
+   [
+    "raise",
+    50.12
+   ],
+   [
+    "just",
+    50.49
+   ],
+   [
+    "one",
+    50.78
+   ],
+   [
+    "eyebrow",
+    51.0
+   ]
+  ]
+ },
+ {
+  "s": 52.0,
+  "e": 53.28,
+  "text": "Left, right, or neither?",
+  "words": [
+   [
+    "left",
+    52.0
+   ],
+   [
+    "right",
+    52.28
+   ],
+   [
+    "or",
+    52.64
+   ],
+   [
+    "neither",
+    52.78
+   ]
+  ]
+ }
+]

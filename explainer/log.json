@@ -1696,5 +1696,17 @@
   "hook_score": 50,
   "title_score": 98,
   "notes": "unattended run, no storyboard step; 5 parts + intro and speed outro, 34 scenes; Lemo midcentury-toon toon.js engine (MIT) bundled as engine.js (setup.sh not run: sandbox blocked it); voice am_michael; teaser for L035 stomach; added trend rows L036-L037"
+ },
+ {
+  "date": "2026-11-21",
+  "id": "20261121-eyebrows",
+  "kind": "short",
+  "style": "Kawaii Anime",
+  "topic": "Why do we have eyebrows?",
+  "title": "No Eyebrows? 54% Can't Recognize You 🤨",
+  "seconds": 54.3,
+  "words": 132,
+  "sheet_id": "S117",
+  "notes": "unattended run, no storyboard step; added trend rows S119-S120"
  }
 ]
