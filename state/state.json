@@ -3092,6 +3092,217 @@
       },
       "uploaded_at": "2026-11-21T10:11:05.169266+00:00",
       "slot": "2026-11-23T20:15:00+00:00"
+    },
+    "2026-11-21-102": {
+      "topic": {
+        "title": "How does an archerfish shoot bugs out of the air?",
+        "format": "animated",
+        "angle": "Flat-Vector Science"
+      },
+      "package": {
+        "title": "This Fish Snipes Bugs From 3 Meters Away \ud83c\udfaf",
+        "description": "How does an archerfish shoot bugs off leaves with a jet of water? It presses its tongue into a groove in the roof of its mouth to make a tube, then snaps its gill covers shut to fire a water jet that can hit insects 2-3 meters away.\n\nSources:\nhttps://australian.museum/learn/animals/fishes/banded-archerfish-toxotes-jaculatrix/\nhttps://denverzoo.org/animals/archerfish/\nhttps://phys.org/news/2013-12-uncover-amazing-physics-feat-archerfish.html\n\nAnimated in the Flat-Vector Science style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#archerfish",
+          "#animalfacts",
+          "#science"
+        ],
+        "tags": [
+          "archerfish",
+          "archer fish",
+          "fish that spits",
+          "archerfish water jet",
+          "how archerfish hunt",
+          "animal facts",
+          "fish facts",
+          "weird animals",
+          "science explained",
+          "nature facts",
+          "animal hunting",
+          "zorbly ai",
+          "explainer",
+          "shorts"
+        ],
+        "category": "27",
+        "pinned_comment": "How far do you think YOU could spit? Be honest \ud83d\ude04",
+        "thumbnail_text": "SPIT SNIPER",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "Could you spit a bug off a leaf 3 meters away?\nThis fish can.\nIt's called the archerfish.\nIt hides just under the surface,\nand spots a bug sitting on a leaf above.\nIt doesn't jump. It spits.\nSo how does that work?\nIt presses its tongue against a groove in the roof of its mouth.\nThat makes a tiny tube, like a gun barrel.\nThen it snaps its gill covers shut,\nand water blasts out of that tube.\nAnd here's the clever part.\nThe back of the jet moves faster than the front,\nso the water bunches into one big blob,\nright before it hits.\nBig archerfish can hit a bug two to three meters away.\nSmack! The bug drops,\nand dinner falls right into the water.\nSo be honest.\nHow far do you think you could spit?",
+        "key_facts": [
+          "Archerfish press the tongue against a groove in the roof of the mouth, forming a tube (Denver Zoo, Australian Museum)",
+          "Closing the gill covers forces water out through the tube (Australian Museum)",
+          "The rear of the jet moves faster than the front, so water gathers into a big drop just before impact (Vailati et al. 2012, via phys.org)",
+          "Large archerfish can hit targets 2-3 m away (Australian Museum)"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Flat-Vector Science"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261121-archerfish",
+      "redos": 0,
+      "updated": "2026-11-21T17:38:20.081385+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-21",
+        "name": "2026-11-21-102.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-21",
+        "name": "2026-11-21-102-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:02,870\nCould you spit a bug off a leaf 3 meters away?\n\n2\n00:00:03,410 --> 00:00:04,480\nThis fish can.\n\n3\n00:00:04,770 --> 00:00:06,220\nIt's called the archerfish.\n\n4\n00:00:06,520 --> 00:00:08,340\nIt hides just under the surface,\n\n5\n00:00:08,750 --> 00:00:10,940\nand spots a bug sitting on a leaf above.\n\n6\n00:00:11,410 --> 00:00:12,990\nIt doesn't jump. It spits.\n\n7\n00:00:13,360 --> 00:00:14,670\nSo how does that work?\n\n8\n00:00:15,140 --> 00:00:18,790\nIt presses its tongue against a groove in the roof of its mouth.\n\n9\n00:00:19,160 --> 00:00:21,820\nThat makes a tiny tube, like a gun barrel.\n\n10\n00:00:22,200 --> 00:00:24,000\nThen it snaps its gill covers shut,\n\n11\n00:00:24,460 --> 00:00:26,400\nand water blasts out of that tube.\n\n12\n00:00:26,800 --> 00:00:28,320\nAnd here's the clever part.\n\n13\n00:00:28,710 --> 00:00:31,030\nThe back of the jet moves faster than the front,\n\n14\n00:00:31,600 --> 00:00:34,170\nso the water bunches into one big blob,\n\n15\n00:00:34,560 --> 00:00:35,800\nright before it hits.\n\n16\n00:00:36,180 --> 00:00:39,540\nBig archerfish can hit a bug two to three meters away.\n\n17\n00:00:39,960 --> 00:00:41,180\nSmack! The bug drops,\n\n18\n00:00:41,250 --> 00:00:43,600\nand dinner falls right into the water.\n\n19\n00:00:43,950 --> 00:00:44,930\nSo be honest.\n\n20\n00:00:45,290 --> 00:00:47,030\nHow far do you think you could spit?\n\n",
+      "tg_msg": 1189
+    },
+    "2026-11-21-103": {
+      "topic": {
+        "title": "What actually happens when a bee stings you?",
+        "format": "long",
+        "angle": "Mid-century Cartoon"
+      },
+      "package": {
+        "title": "Why a Bee Stinger Pumps Venom for 70 Seconds Alone \ud83d\udc1d",
+        "description": "What actually happens when a bee stings you? A honeybee's barbed stinger saws itself into your skin, tears away with its venom sac, muscles and nerves, and keeps pumping venom on its own, while melittin sets off your pain nerves and an alarm scent that smells like bananas calls in more bees.\n\n0:00 A stinger with no bee\n0:17 A saw that started as an egg tube\n0:46 The stinger that walks itself in\n1:29 Why it hurts so much\n1:55 Why the bee doesn't make it\n2:22 A sting that calls for backup\n2:46 Why speed matters\n\nSources:\nhttps://www.unsw.edu.au/news/2026/10/the-stinger-that-keeps-pumping-venom-after-the-bee-is-gone\nhttps://ucanr.edu/blog/bug-squad/article/why-do-honey-bees-die-when-they-sting\nhttps://www.livescience.com/do-bees-die-after-stinging\n\nAnimated in the Mid-century Cartoon style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#bees",
+          "#science",
+          "#animalfacts"
+        ],
+        "tags": [
+          "bee sting",
+          "what happens when a bee stings you",
+          "bee stinger",
+          "why do bees die when they sting",
+          "honeybee stinger",
+          "bee venom",
+          "melittin",
+          "bee sting explained",
+          "wasp vs bee sting",
+          "bee alarm pheromone",
+          "bee facts",
+          "insect facts",
+          "science explained",
+          "animal facts",
+          "zorbly ai"
+        ],
+        "category": "27",
+        "pinned_comment": "Before this video, did you know a bee stinger keeps pumping venom with no bee attached? \ud83d\udc1d",
+        "thumbnail_text": "STILL PUMPING",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "Why does a bee stinger keep pumping venom into you for up to seventy seconds,\nafter the bee flies away?\nIt's ripped out of her body, and it still works on its own.\nSo what actually happens in those few seconds after a sting?\nLet's take it apart, one tiny piece at a time.\nPart one. A saw that started as an egg tube.\nOnly female bees can sting.\nThat's because the stinger began as an egg-laying tube,\nand male bees, called drones, don't have one at all.\nLook closely and it isn't a needle.\nIt's three parts sliding together.\nA central shaft called the stylet,\nand two thin blades called lancets.\nEach lancet is covered in backward-pointing barbs,\nlike the teeth on a tiny saw.\nPart two. The stinger that walks itself in.\nThe two lancets slide up and down, one after the other.\nOne grips with its barbs, the other pushes deeper,\nso the stinger actually walks itself into your skin.\nAnd here's the wild part.\nWhen the bee pulls away, the barbs hold tight,\nand she leaves behind the whole pumping kit.\nThe venom sac, the muscles, and a little bundle of nerves.\nIn 2026, scientists filmed stingers in clear skin-like gel.\nThey saw a double piston pump.\nTwo pistons pushing in turns,\nso venom only ever flows one way, into you.\nThe strong pumping kept going for fifteen to seventy seconds,\nwith no bee attached.\nPart three. Why it hurts so much.\nUp to half of dry bee venom is one ingredient, called melittin.\nMelittin punches tiny holes in the cells it touches.\nIt also flips on your pain nerves and keeps them firing,\nlike someone leaning on a doorbell.\nThen your body fights back.\nIt floods the spot with fluid from your blood to wash the venom away,\nand that's the red, puffy bump you get.\nPart four. Why the bee doesn't make it.\nYour skin is thick and stretchy,\nso those barbs can't slide back out.\nWhen the bee flies off,\npart of her belly tears away with the stinger.\nShe dies soon after.\nBut honeybees didn't evolve to sting us.\nThey usually fight other insects,\nand a thin insect shell lets the stinger pull right out.\nWasps and bumblebees have smoother stingers,\nso they can sting again and again.\nPart five. A sting that calls for backup.\nA sting also releases an alarm scent,\nand it smells a lot like bananas.\nTo other bees, that smell means one thing.\nDanger, right here.\nIt tags you as the target, so more bees can find you.\nThat's why bees act like a team.\nOne worker gives up her life,\nand the whole hive stays protected.\nAnd here's what scientists found about that leftover stinger.\nScraping it off or pinching it out works about the same.\nWhat matters is speed.\nEvery second it stays in, it pumps a little more.\nNext time, find out why your stomach is full of acid strong enough to eat through some metals,\nand still doesn't digest itself.\n",
+        "key_facts": [
+          "Only female bees (workers and queens) sting; the stinger is a modified egg-laying tube (ovipositor); drones have none",
+          "The stinger is a central stylet plus two barbed lancets that slide alternately and drive it deeper",
+          "A detached honeybee stinger keeps pumping: UNSW (Oct 2026) filmed strong regular pumping for 15-70 seconds, via a double-piston pump",
+          "Melittin is about 40-60% of dry honeybee venom; it forms pores in cells and activates pain receptors",
+          "Redness and swelling come from fluid released from the blood to flush the venom",
+          "Barbs catch in thick mammal skin, so the honeybee's abdomen ruptures and she dies; she can usually sting insects and pull free",
+          "Wasps and bumblebees have smooth stingers and can sting repeatedly",
+          "The alarm pheromone (isoamyl acetate) smells like bananas and recruits other bees",
+          "Scraping vs pinching makes no real difference; removing the stinger quickly is what matters"
+        ],
+        "voice": "Kokoro",
+        "format": "long",
+        "style": "Mid-century Cartoon"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261121-bee-sting",
+      "redos": 0,
+      "updated": "2026-11-21T17:38:33.439857+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Mid-century Cartoon style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-21",
+        "name": "2026-11-21-103.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-21",
+        "name": "2026-11-21-103-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:04,640\nWhy does a bee stinger keep pumping venom into you for up to seventy seconds,\n\n2\n00:00:05,060 --> 00:00:06,690\nafter the bee flies away?\n\n3\n00:00:07,130 --> 00:00:10,180\nIt's ripped out of her body, and it still works on its own.\n\n4\n00:00:10,540 --> 00:00:13,860\nSo what actually happens in those few seconds after a sting?\n\n5\n00:00:14,390 --> 00:00:17,570\nLet's take it apart, one tiny piece at a time.\n\n6\n00:00:17,970 --> 00:00:20,910\nPart one. A saw that started as an egg tube.\n\n7\n00:00:21,260 --> 00:00:23,080\nOnly female bees can sting.\n\n8\n00:00:23,510 --> 00:00:26,390\nThat's because the stinger began as an egg-laying tube,\n\n9\n00:00:26,950 --> 00:00:30,530\nand male bees, called drones, don't have one at all.\n\n10\n00:00:30,980 --> 00:00:33,010\nLook closely and it isn't a needle.\n\n11\n00:00:33,420 --> 00:00:35,260\nIt's three parts sliding together.\n\n12\n00:00:35,690 --> 00:00:37,440\nA central shaft called the stylet,\n\n13\n00:00:37,840 --> 00:00:40,030\nand two thin blades called lancets.\n\n14\n00:00:40,440 --> 00:00:43,890\nEach lancet is covered in backward-pointing barbs,\n\n15\n00:00:43,970 --> 00:00:45,860\nlike the teeth on a tiny saw.\n\n16\n00:00:46,220 --> 00:00:48,860\nPart two. The stinger that walks itself in.\n\n17\n00:00:49,230 --> 00:00:52,630\nThe two lancets slide up and down, one after the other.\n\n18\n00:00:53,010 --> 00:00:55,960\nOne grips with its barbs, the other pushes deeper,\n\n19\n00:00:56,020 --> 00:00:59,390\nso the stinger actually walks itself into your skin.\n\n20\n00:00:59,860 --> 00:01:01,340\nAnd here's the wild part.\n\n21\n00:01:01,810 --> 00:01:04,460\nWhen the bee pulls away, the barbs hold tight,\n\n22\n00:01:04,970 --> 00:01:07,160\nand she leaves behind the whole pumping kit.\n\n23\n00:01:07,590 --> 00:01:10,860\nThe venom sac, the muscles, and a little bundle of nerves.\n\n24\n00:01:11,220 --> 00:01:16,440\nIn 2026, scientists filmed stingers in clear skin-like gel.\n\n25\n00:01:16,920 --> 00:01:18,750\nThey saw a double piston pump.\n\n26\n00:01:19,160 --> 00:01:20,980\nTwo pistons pushing in turns,\n\n27\n00:01:21,390 --> 00:01:24,160\nso venom only ever flows one way, into you.\n\n28\n00:01:24,570 --> 00:01:27,900\nThe strong pumping kept going for fifteen to seventy seconds,\n\n29\n00:01:28,280 --> 00:01:29,650\nwith no bee attached.\n\n30\n00:01:30,050 --> 00:01:32,170\nPart three. Why it hurts so much.\n\n31\n00:01:32,650 --> 00:01:36,770\nUp to half of dry bee venom is one ingredient, called melittin.\n\n32\n00:01:37,160 --> 00:01:40,450\nMelittin punches tiny holes in the cells it touches.\n\n33\n00:01:40,890 --> 00:01:44,010\nIt also flips on your pain nerves and keeps them firing,\n\n34\n00:01:44,540 --> 00:01:46,500\nlike someone leaning on a doorbell.\n\n35\n00:01:46,880 --> 00:01:48,400\nThen your body fights back.\n\n36\n00:01:48,820 --> 00:01:52,510\nIt floods the spot with fluid from your blood to wash the venom away,\n\n37\n00:01:53,050 --> 00:01:55,340\nand that's the red, puffy bump you get.\n\n38\n00:01:55,800 --> 00:01:57,940\nPart four. Why the bee doesn't make it.\n\n39\n00:01:58,350 --> 00:02:00,130\nYour skin is thick and stretchy,\n\n40\n00:02:00,540 --> 00:02:02,730\nso those barbs can't slide back out.\n\n41\n00:02:03,140 --> 00:02:04,300\nWhen the bee flies off,\n\n42\n00:02:04,370 --> 00:02:07,090\npart of her belly tears away with the stinger.\n\n43\n00:02:07,460 --> 00:02:08,810\nShe dies soon after.\n\n44\n00:02:09,080 --> 00:02:11,380\nBut honeybees didn't evolve to sting us.\n\n45\n00:02:11,850 --> 00:02:13,700\nThey usually fight other insects,\n\n46\n00:02:14,100 --> 00:02:17,220\nand a thin insect shell lets the stinger pull right out.\n\n47\n00:02:17,690 --> 00:02:20,320\nWasps and bumblebees have smoother stingers,\n\n48\n00:02:20,710 --> 00:02:22,600\nso they can sting again and again.\n\n49\n00:02:23,000 --> 00:02:25,560\nPart five. A sting that calls for backup.\n\n50\n00:02:26,030 --> 00:02:28,330\nA sting also releases an alarm scent,\n\n51\n00:02:28,840 --> 00:02:30,990\nand it smells a lot like bananas.\n\n52\n00:02:31,380 --> 00:02:33,800\nTo other bees, that smell means one thing.\n\n53\n00:02:34,150 --> 00:02:35,370\nDanger, right here.\n\n54\n00:02:35,710 --> 00:02:39,230\nIt tags you as the target, so more bees can find you.\n\n55\n00:02:39,700 --> 00:02:41,580\nThat's why bees act like a team.\n\n56\n00:02:42,020 --> 00:02:43,630\nOne worker gives up her life,\n\n57\n00:02:43,990 --> 00:02:46,120\nand the whole hive stays protected.\n\n58\n00:02:46,530 --> 00:02:49,630\nAnd here's what scientists found about that leftover stinger.\n\n59\n00:02:50,020 --> 00:02:53,090\nScraping it off or pinching it out works about the same.\n\n60\n00:02:53,520 --> 00:02:54,900\nWhat matters is speed.\n\n61\n00:02:55,170 --> 00:02:58,020\nEvery second it stays in, it pumps a little more.\n\n62\n00:02:58,360 --> 00:03:04,040\nNext time, find out why your stomach is full of acid strong enough to eat through some metals,\n\n63\n00:03:04,490 --> 00:03:06,540\nand still doesn't digest itself.\n\n",
+      "tg_msg": 1190
+    },
+    "2026-11-21-104": {
+      "topic": {
+        "title": "Why do we have eyebrows?",
+        "format": "animated",
+        "angle": "Kawaii Anime"
+      },
+      "package": {
+        "title": "No Eyebrows? 54% Can't Recognize You \ud83e\udd28",
+        "description": "Why do we have eyebrows? Their outward-pointing hairs and arch steer sweat and rain off to the sides so it stays out of your eyes, and a 2003 MIT study found people recognized famous faces less often without eyebrows (46%) than without eyes (60%).\n\nSources:\nhttps://www.healthline.com/health/why-do-we-have-eyebrows\nhttps://www.mentalfloss.com/science/body/why-do-we-have-eyebrows\nhttps://jaepakmd.com/resources/why-do-we-have-eyebrows/\n\nAnimated in the Kawaii Anime style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#eyebrows",
+          "#science",
+          "#humanbody"
+        ],
+        "tags": [
+          "why do we have eyebrows",
+          "eyebrows",
+          "what are eyebrows for",
+          "eyebrow facts",
+          "face recognition",
+          "eyebrows sweat",
+          "facial expressions",
+          "human body facts",
+          "body explained",
+          "science explained",
+          "zorbly ai",
+          "kawaii animation",
+          "explainer short"
+        ],
+        "category": "27",
+        "pinned_comment": "Can you raise just one eyebrow? Left, right, or neither? \ud83e\udd28",
+        "thumbnail_text": "WHO?",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "Lose your eyebrows and 54% of people can't name your face. MIT scientists tested it in 2003. They showed people famous faces with the eyes erased, and they still named sixty percent. But erase just the eyebrows, and it dropped to forty-six. So why do we even have them? Picture sweat rolling down your forehead. Your brow bone and that arch catch it like a gutter, and the hairs all point out toward your ears, so the drops slide off to the sides, and not into your eyes. Rain too. Each brow has about 250 hairs on the job. But their biggest job? Talking without words. One brow up means, really? Both up means surprise! Pulled down and together? Somebody's grumpy. So can you raise just one eyebrow? Left, right, or neither?",
+        "key_facts": [
+          "Eyebrow hairs grow outward toward the sides of the face, steering sweat and moisture away from the eyes (Healthline, Mental Floss)",
+          "In a 2003 MIT study (Sadr et al., Perception), famous faces were identified 60% of the time with eyes removed but only 46% with eyebrows removed (Healthline)",
+          "An average eyebrow has roughly 250 hairs (Jae Pak MD)",
+          "Eyebrows are key to expressions: one raised for skepticism, both raised for surprise, lowered for anger or concern (Healthline, Mental Floss)"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Kawaii Anime"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261121-eyebrows",
+      "redos": 0,
+      "updated": "2026-11-21T17:38:45.002437+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-21",
+        "name": "2026-11-21-104.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-21",
+        "name": "2026-11-21-104-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:04,580\nLose your eyebrows and 54% of people can't name your face.\n\n2\n00:00:04,980 --> 00:00:08,070\nMIT scientists tested it in 2003.\n\n3\n00:00:08,420 --> 00:00:11,460\nThey showed people famous faces with the eyes erased,\n\n4\n00:00:11,920 --> 00:00:13,640\nand they still named sixty percent.\n\n5\n00:00:14,020 --> 00:00:15,680\nBut erase just the eyebrows,\n\n6\n00:00:16,010 --> 00:00:17,610\nand it dropped to forty-six.\n\n7\n00:00:18,000 --> 00:00:19,750\nSo why do we even have them?\n\n8\n00:00:20,210 --> 00:00:22,490\nPicture sweat rolling down your forehead.\n\n9\n00:00:22,870 --> 00:00:25,810\nYour brow bone and that arch catch it like a gutter,\n\n10\n00:00:26,320 --> 00:00:28,830\nand the hairs all point out toward your ears,\n\n11\n00:00:29,250 --> 00:00:31,570\nso the drops slide off to the sides,\n\n12\n00:00:31,920 --> 00:00:33,290\nand not into your eyes.\n\n13\n00:00:33,750 --> 00:00:34,620\nRain too.\n\n14\n00:00:35,020 --> 00:00:38,420\nEach brow has about 250 hairs on the job.\n\n15\n00:00:38,880 --> 00:00:40,210\nBut their biggest job?\n\n16\n00:00:40,670 --> 00:00:42,070\nTalking without words.\n\n17\n00:00:42,410 --> 00:00:44,000\nOne brow up means, really?\n\n18\n00:00:44,470 --> 00:00:46,060\nBoth up means surprise!\n\n19\n00:00:46,430 --> 00:00:49,130\nPulled down and together? Somebody's grumpy.\n\n20\n00:00:49,530 --> 00:00:51,520\nSo can you raise just one eyebrow?\n\n21\n00:00:52,000 --> 00:00:53,280\nLeft, right, or neither?\n\n",
+      "tg_msg": 1191
     }
   },
   "history": [
@@ -3181,7 +3392,7 @@
   "visual_searches": {
     "2026-10-25": 3
   },
-  "signals_day": "2026-11-20",
+  "signals_day": "2026-11-21",
   "drops_done": {
     "drop/20261025-autumn-leaves": "2026-10-25-101",
     "drop/20261025-roman-hypocaust": "2026-10-25-102",
@@ -3318,7 +3529,10 @@
     "drop/20261120-cat-sweet": "2026-11-20-103",
     "drop/20261120-feet-first": "2026-11-20-104",
     "drop/20261120-starling-flock": "2026-11-20-105",
-    "drop/20261120-hamster-cheeks": "2026-11-21-101"
+    "drop/20261120-hamster-cheeks": "2026-11-21-101",
+    "drop/20261121-archerfish": "2026-11-21-102",
+    "drop/20261121-bee-sting": "2026-11-21-103",
+    "drop/20261121-eyebrows": "2026-11-21-104"
   },
   "refs_day": "2026-11-21"
 }
