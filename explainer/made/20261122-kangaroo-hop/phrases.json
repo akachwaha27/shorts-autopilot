@@ -1,0 +1,696 @@
+[
+ {
+  "s": 0.25,
+  "e": 4.94,
+  "text": "How do kangaroos hit 50 kilometres an hour with almost no extra energy,",
+  "words": [
+   [
+    "how",
+    0.25
+   ],
+   [
+    "do",
+    0.49
+   ],
+   [
+    "kangaroos",
+    0.65
+   ],
+   [
+    "hit",
+    1.38
+   ],
+   [
+    "50",
+    1.62
+   ],
+   [
+    "kilometres",
+    1.79
+   ],
+   [
+    "an",
+    2.59
+   ],
+   [
+    "hour",
+    2.76
+   ],
+   [
+    "with",
+    3.08
+   ],
+   [
+    "almost",
+    3.4
+   ],
+   [
+    "no",
+    3.89
+   ],
+   [
+    "extra",
+    4.05
+   ],
+   [
+    "energy",
+    4.45
+   ]
+  ]
+ },
+ {
+  "s": 5.41,
+  "e": 6.51,
+  "text": "when you'd be gasping?",
+  "words": [
+   [
+    "when",
+    5.41
+   ],
+   [
+    "youd",
+    5.67
+   ],
+   [
+    "be",
+    5.93
+   ],
+   [
+    "gasping",
+    6.06
+   ]
+  ]
+ },
+ {
+  "s": 6.96,
+  "e": 8.9,
+  "text": "As a red kangaroo hops faster,",
+  "words": [
+   [
+    "as",
+    6.96
+   ],
+   [
+    "a",
+    7.12
+   ],
+   [
+    "red",
+    7.21
+   ],
+   [
+    "kangaroo",
+    7.45
+   ],
+   [
+    "hops",
+    8.09
+   ],
+   [
+    "faster",
+    8.42
+   ]
+  ]
+ },
+ {
+  "s": 9.38,
+  "e": 11.58,
+  "text": "its oxygen use barely changes.",
+  "words": [
+   [
+    "its",
+    9.38
+   ],
+   [
+    "oxygen",
+    9.65
+   ],
+   [
+    "use",
+    10.18
+   ],
+   [
+    "barely",
+    10.44
+   ],
+   [
+    "changes",
+    10.97
+   ]
+  ]
+ },
+ {
+  "s": 11.98,
+  "e": 13.66,
+  "text": "So why hop instead of run?",
+  "words": [
+   [
+    "so",
+    11.98
+   ],
+   [
+    "why",
+    12.15
+   ],
+   [
+    "hop",
+    12.4
+   ],
+   [
+    "instead",
+    12.66
+   ],
+   [
+    "of",
+    13.24
+   ],
+   [
+    "run",
+    13.41
+   ]
+  ]
+ },
+ {
+  "s": 14.2,
+  "e": 15.46,
+  "text": "It's all in the legs.",
+  "words": [
+   [
+    "its",
+    14.2
+   ],
+   [
+    "all",
+    14.45
+   ],
+   [
+    "in",
+    14.71
+   ],
+   [
+    "the",
+    14.87
+   ],
+   [
+    "legs",
+    15.13
+   ]
+  ]
+ },
+ {
+  "s": 15.9,
+  "e": 18.23,
+  "text": "Each one has a huge Achilles tendon,",
+  "words": [
+   [
+    "each",
+    15.9
+   ],
+   [
+    "one",
+    16.22
+   ],
+   [
+    "has",
+    16.46
+   ],
+   [
+    "a",
+    16.71
+   ],
+   [
+    "huge",
+    16.79
+   ],
+   [
+    "achilles",
+    17.11
+   ],
+   [
+    "tendon",
+    17.75
+   ]
+  ]
+ },
+ {
+  "s": 18.7,
+  "e": 20.44,
+  "text": "and it works like a pogo spring.",
+  "words": [
+   [
+    "and",
+    18.7
+   ],
+   [
+    "it",
+    18.91
+   ],
+   [
+    "works",
+    19.05
+   ],
+   [
+    "like",
+    19.4
+   ],
+   [
+    "a",
+    19.67
+   ],
+   [
+    "pogo",
+    19.74
+   ],
+   [
+    "spring",
+    20.02
+   ]
+  ]
+ },
+ {
+  "s": 20.84,
+  "e": 23.33,
+  "text": "When the kangaroo lands, the tendon stretches,",
+  "words": [
+   [
+    "when",
+    20.84
+   ],
+   [
+    "the",
+    21.1
+   ],
+   [
+    "kangaroo",
+    21.3
+   ],
+   [
+    "lands",
+    21.83
+   ],
+   [
+    "the",
+    22.15
+   ],
+   [
+    "tendon",
+    22.35
+   ],
+   [
+    "stretches",
+    22.74
+   ]
+  ]
+ },
+ {
+  "s": 23.4,
+  "e": 24.47,
+  "text": "storing energy.",
+  "words": [
+   [
+    "storing",
+    23.4
+   ],
+   [
+    "energy",
+    23.98
+   ]
+  ]
+ },
+ {
+  "s": 24.92,
+  "e": 25.9,
+  "text": "Then it snaps back",
+  "words": [
+   [
+    "then",
+    24.92
+   ],
+   [
+    "it",
+    25.18
+   ],
+   [
+    "snaps",
+    25.31
+   ],
+   [
+    "back",
+    25.64
+   ]
+  ]
+ },
+ {
+  "s": 25.97,
+  "e": 27.41,
+  "text": "and launches the next hop.",
+  "words": [
+   [
+    "and",
+    25.97
+   ],
+   [
+    "launches",
+    26.18
+   ],
+   [
+    "the",
+    26.73
+   ],
+   [
+    "next",
+    26.93
+   ],
+   [
+    "hop",
+    27.21
+   ]
+  ]
+ },
+ {
+  "s": 27.87,
+  "e": 30.21,
+  "text": "One bound can cover up to nine metres.",
+  "words": [
+   [
+    "one",
+    27.87
+   ],
+   [
+    "bound",
+    28.1
+   ],
+   [
+    "can",
+    28.49
+   ],
+   [
+    "cover",
+    28.73
+   ],
+   [
+    "up",
+    29.12
+   ],
+   [
+    "to",
+    29.27
+   ],
+   [
+    "nine",
+    29.43
+   ],
+   [
+    "metres",
+    29.74
+   ]
+  ]
+ },
+ {
+  "s": 30.63,
+  "e": 31.75,
+  "text": "And there's a bonus.",
+  "words": [
+   [
+    "and",
+    30.63
+   ],
+   [
+    "theres",
+    30.85
+   ],
+   [
+    "a",
+    31.3
+   ],
+   [
+    "bonus",
+    31.37
+   ]
+  ]
+ },
+ {
+  "s": 32.07,
+  "e": 34.43,
+  "text": "Every bounce sloshes its gut up and down,",
+  "words": [
+   [
+    "every",
+    32.07
+   ],
+   [
+    "bounce",
+    32.43
+   ],
+   [
+    "sloshes",
+    32.86
+   ],
+   [
+    "its",
+    33.36
+   ],
+   [
+    "gut",
+    33.58
+   ],
+   [
+    "up",
+    33.79
+   ],
+   [
+    "and",
+    33.93
+   ],
+   [
+    "down",
+    34.15
+   ]
+  ]
+ },
+ {
+  "s": 34.94,
+  "e": 37.16,
+  "text": "which pumps air in and out of its lungs.",
+  "words": [
+   [
+    "which",
+    34.94
+   ],
+   [
+    "pumps",
+    35.3
+   ],
+   [
+    "air",
+    35.66
+   ],
+   [
+    "in",
+    35.87
+   ],
+   [
+    "and",
+    36.02
+   ],
+   [
+    "out",
+    36.23
+   ],
+   [
+    "of",
+    36.45
+   ],
+   [
+    "its",
+    36.59
+   ],
+   [
+    "lungs",
+    36.8
+   ]
+  ]
+ },
+ {
+  "s": 37.55,
+  "e": 39.27,
+  "text": "So hopping helps it breathe too.",
+  "words": [
+   [
+    "so",
+    37.55
+   ],
+   [
+    "hopping",
+    37.68
+   ],
+   [
+    "helps",
+    38.14
+   ],
+   [
+    "it",
+    38.47
+   ],
+   [
+    "breathe",
+    38.61
+   ],
+   [
+    "too",
+    39.07
+   ]
+  ]
+ },
+ {
+  "s": 39.73,
+  "e": 41.67,
+  "text": "Going slow is the clumsy part.",
+  "words": [
+   [
+    "going",
+    39.73
+   ],
+   [
+    "slow",
+    40.13
+   ],
+   [
+    "is",
+    40.45
+   ],
+   [
+    "the",
+    40.62
+   ],
+   [
+    "clumsy",
+    40.86
+   ],
+   [
+    "part",
+    41.34
+   ]
+  ]
+ },
+ {
+  "s": 42.09,
+  "e": 43.63,
+  "text": "Then it walks on five legs,",
+  "words": [
+   [
+    "then",
+    42.09
+   ],
+   [
+    "it",
+    42.38
+   ],
+   [
+    "walks",
+    42.53
+   ],
+   [
+    "on",
+    42.89
+   ],
+   [
+    "five",
+    43.04
+   ],
+   [
+    "legs",
+    43.33
+   ]
+  ]
+ },
+ {
+  "s": 44.0,
+  "e": 45.62,
+  "text": "using its tail as the fifth.",
+  "words": [
+   [
+    "using",
+    44.0
+   ],
+   [
+    "its",
+    44.37
+   ],
+   [
+    "tail",
+    44.59
+   ],
+   [
+    "as",
+    44.88
+   ],
+   [
+    "the",
+    45.03
+   ],
+   [
+    "fifth",
+    45.25
+   ]
+  ]
+ },
+ {
+  "s": 46.03,
+  "e": 48.01,
+  "text": "So if you had pogo-spring legs,",
+  "words": [
+   [
+    "so",
+    46.03
+   ],
+   [
+    "if",
+    46.2
+   ],
+   [
+    "you",
+    46.36
+   ],
+   [
+    "had",
+    46.61
+   ],
+   [
+    "pogospring",
+    46.86
+   ],
+   [
+    "legs",
+    47.68
+   ]
+  ]
+ },
+ {
+  "s": 48.34,
+  "e": 49.53,
+  "text": "would you ever walk again?",
+  "words": [
+   [
+    "would",
+    48.34
+   ],
+   [
+    "you",
+    48.63
+   ],
+   [
+    "ever",
+    48.8
+   ],
+   [
+    "walk",
+    49.02
+   ],
+   [
+    "again",
+    49.25
+   ]
+  ]
+ }
+]
