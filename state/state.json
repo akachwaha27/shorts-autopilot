@@ -378,98 +378,6 @@
     }
   },
   "videos": {
-    "2026-11-16-101": {
-      "topic": {
-        "title": "Why does a pinch of salt make sweet things taste sweeter?",
-        "format": "animated",
-        "angle": "Mid-century Cartoon"
-      },
-      "package": {
-        "title": "Why Does 0.3 Grams of Salt Make Dessert Sweeter?",
-        "description": "Why does a pinch of salt make sweet food taste sweeter? Sodium turns down your bitter taste signals so sweetness stands out, and scientists found sweet taste cells carry a sugar transporter, SGLT1, that pulls sugar in together with sodium.\n\nSources:\nhttps://www.nature.com/articles/42388\nhttps://www.foodnavigator.com/Science/Study-suggests-why-salt-can-boost-sweet-taste-perception\nhttps://culinarylore.com/measurements:how-much-is-a-pinch-of-salt/\n\nAnimated in the Mid-century Cartoon style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#foodscience",
-          "#tastebuds",
-          "#bakingtips"
-        ],
-        "tags": [
-          "why does salt make things sweeter",
-          "salt and sweet",
-          "pinch of salt",
-          "salt in desserts",
-          "salted caramel science",
-          "salt on watermelon",
-          "taste buds",
-          "bitter taste",
-          "SGLT1",
-          "sweet taste receptor",
-          "food science",
-          "how taste works",
-          "baking tips",
-          "science shorts",
-          "mid-century cartoon"
-        ],
-        "category": "27",
-        "pinned_comment": "Have you ever tried salt on watermelon or pineapple? Did it taste sweeter to you?",
-        "thumbnail_text": "2 TRICKS",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "Salt makes your dessert sweeter.\nYou've probably never noticed why.\nBakers sneak it into cookies,\ncaramel and chocolate.\nSo what's salt really doing on your tongue?\nTrick number one.\nMost foods hide a little bitterness,\nand sodium turns your bitter taste cells down,\nlike muting the loudest guy in the room.\nWith bitter quiet, sweet gets the spotlight.\nTrick number two.\nScientists found your sweet taste cells have a tiny sugar door\ncalled S G L T one.\nIt pulls sugar in together with sodium,\nso a little salt may help those cells catch even more sweetness.\nAnd you barely need any.\nA pinch is about a sixteenth of a teaspoon,\naround a third of a gram.\nAdd too much and it just tastes salty.\nSo when you salt a slice of watermelon,\nare you making it saltier, or sweeter?",
-        "key_facts": [
-          "Sodium suppresses bitter taste, which releases sweetness from suppression (Breslin & Beauchamp, Nature 1997)",
-          "Sweet taste cells express SGLT1, a sodium-glucose cotransporter, a second sugar-sensing route (Monell Center, 2011)",
-          "A pinch is about 1/16 teaspoon, roughly 0.3-0.4 g of table salt",
-          "Too much salt just tastes salty"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Mid-century Cartoon"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261116-salt-sweet",
-      "redos": 0,
-      "updated": "2026-11-16T08:34:59.393281+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Mid-century Cartoon style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-16",
-        "name": "2026-11-16-101.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-16",
-        "name": "2026-11-16-101-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:01,970\nSalt makes your dessert sweeter.\n\n2\n00:00:02,380 --> 00:00:04,510\nYou've probably never noticed why.\n\n3\n00:00:04,890 --> 00:00:06,600\nBakers sneak it into cookies,\n\n4\n00:00:06,920 --> 00:00:08,150\ncaramel and chocolate.\n\n5\n00:00:08,540 --> 00:00:10,580\nSo what's salt really doing on your tongue?\n\n6\n00:00:11,090 --> 00:00:12,110\nTrick number one.\n\n7\n00:00:12,380 --> 00:00:14,200\nMost foods hide a little bitterness,\n\n8\n00:00:14,620 --> 00:00:17,350\nand sodium turns your bitter taste cells down,\n\n9\n00:00:17,880 --> 00:00:20,220\nlike muting the loudest guy in the room.\n\n10\n00:00:20,650 --> 00:00:23,080\nWith bitter quiet, sweet gets the spotlight.\n\n11\n00:00:23,480 --> 00:00:24,570\nTrick number two.\n\n12\n00:00:24,940 --> 00:00:29,940\nScientists found your sweet taste cells have a tiny sugar door\n\n13\n00:00:30,010 --> 00:00:30,850\ncalled S G L T one.\n\n14\n00:00:31,200 --> 00:00:33,300\nIt pulls sugar in together with sodium,\n\n15\n00:00:33,880 --> 00:00:37,550\nso a little salt may help those cells catch even more sweetness.\n\n16\n00:00:37,990 --> 00:00:39,310\nAnd you barely need any.\n\n17\n00:00:39,730 --> 00:00:42,180\nA pinch is about a sixteenth of a teaspoon,\n\n18\n00:00:42,580 --> 00:00:43,980\naround a third of a gram.\n\n19\n00:00:44,450 --> 00:00:46,510\nAdd too much and it just tastes salty.\n\n20\n00:00:46,940 --> 00:00:48,990\nSo when you salt a slice of watermelon,\n\n21\n00:00:49,430 --> 00:00:51,710\nare you making it saltier, or sweeter?\n\n",
-      "tg_msg": 1137,
-      "approved_by": "auto",
-      "description_full": "Why does a pinch of salt make sweet food taste sweeter? Sodium turns down your bitter taste signals so sweetness stands out, and scientists found sweet taste cells carry a sugar transporter, SGLT1, that pulls sugar in together with sodium.\n\nSources:\nhttps://www.nature.com/articles/42388\nhttps://www.foodnavigator.com/Science/Study-suggests-why-salt-can-boost-sweet-taste-perception\nhttps://culinarylore.com/measurements:how-much-is-a-pinch-of-salt/\n\nAnimated in the Mid-century Cartoon style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #foodscience #tastebuds #bakingtips\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Mid-century Cartoon style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/wccmlyTTtuY",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-11-16T08:34:59.393298+00:00",
-      "slot": "2026-11-16T17:15:00+00:00"
-    },
     "2026-11-16-102": {
       "topic": {
         "title": "Why is a giraffe's tongue dark purple?",
@@ -3133,12 +3041,12 @@
         "format": "animated",
         "style": "Brick Toy"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261121-goat-pupils",
       "redos": 0,
-      "updated": "2026-11-22T02:20:17.148154+00:00",
+      "updated": "2026-11-22T09:54:21.852563+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Brick Toy style). Voice: Kokoro text-to-speech."
       ],
@@ -3153,7 +3061,29 @@
         "name": "2026-11-22-101-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:03,910\nRectangle pupils let your goat see 320 degrees,\n\n2\n00:00:04,030 --> 00:00:06,340\nalmost behind its own head.\n\n3\n00:00:06,780 --> 00:00:07,980\nWhy rectangles?\n\n4\n00:00:08,430 --> 00:00:11,240\nGoats are on the menu for wolves and big cats,\n\n5\n00:00:11,380 --> 00:00:14,870\nso they need to spot danger from almost any direction.\n\n6\n00:00:15,220 --> 00:00:18,370\nA long sideways slit stretches their view out wide,\n\n7\n00:00:18,820 --> 00:00:19,920\nright along the ground,\n\n8\n00:00:20,400 --> 00:00:22,310\nwhere predators actually sneak up.\n\n9\n00:00:22,700 --> 00:00:24,470\nWith eyes on the sides of the head,\n\n10\n00:00:25,010 --> 00:00:27,840\nonly a thin blind spot is left behind it.\n\n11\n00:00:28,260 --> 00:00:31,080\nThe slit also blocks glare from the bright sky.\n\n12\n00:00:31,550 --> 00:00:33,090\nNow here's the weird part.\n\n13\n00:00:33,480 --> 00:00:34,980\nWhen a goat drops its head\n\n14\n00:00:35,040 --> 00:00:35,800\nto eat grass,\n\n15\n00:00:36,220 --> 00:00:38,030\nits eyeballs roll the other way,\n\n16\n00:00:38,340 --> 00:00:39,760\nabout 50 degrees each,\n\n17\n00:00:39,840 --> 00:00:42,710\nso the slits stay level with the horizon.\n\n18\n00:00:43,160 --> 00:00:45,410\nYou can only do that a few degrees.\n\n19\n00:00:45,810 --> 00:00:47,690\nSo would you swap your round pupils,\n\n20\n00:00:48,040 --> 00:00:49,520\nfor a goat's rectangles?\n\n",
-      "tg_msg": 1197
+      "tg_msg": 1197,
+      "approved_by": "auto",
+      "description_full": "Why do goats have rectangle-shaped pupils? Their wide horizontal pupils give goats panoramic vision of about 320 degrees along the ground to spot predators, block glare from the sky, and their eyeballs rotate about 50 degrees to stay level with the horizon while grazing.\n\nSources:\nhttps://theconversation.com/revealed-why-animals-pupils-come-in-different-shapes-and-sizes-45796\nhttps://www.mentalfloss.com/animals/why-do-goats-have-such-weird-eyes\nhttps://goatjournal.iamcountryside.com/ownership/goat-eyes-senses/\n\nAnimated in the Brick Toy style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #goats #animalfacts #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Brick Toy style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/uO5gF0fK5-0",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-22T09:54:21.852580+00:00",
+      "slot": "2026-11-24T02:15:00+00:00"
     }
   },
   "history": [
