@@ -3085,6 +3085,75 @@
       },
       "uploaded_at": "2026-11-21T22:32:59.614702+00:00",
       "slot": "2026-11-24T00:15:00+00:00"
+    },
+    "2026-11-22-101": {
+      "topic": {
+        "title": "Why do goats have rectangle-shaped pupils?",
+        "format": "animated",
+        "angle": "Brick Toy"
+      },
+      "package": {
+        "title": "Why Do Goats Have Rectangle Pupils? \ud83d\udc10",
+        "description": "Why do goats have rectangle-shaped pupils? Their wide horizontal pupils give goats panoramic vision of about 320 degrees along the ground to spot predators, block glare from the sky, and their eyeballs rotate about 50 degrees to stay level with the horizon while grazing.\n\nSources:\nhttps://theconversation.com/revealed-why-animals-pupils-come-in-different-shapes-and-sizes-45796\nhttps://www.mentalfloss.com/animals/why-do-goats-have-such-weird-eyes\nhttps://goatjournal.iamcountryside.com/ownership/goat-eyes-senses/\n\nAnimated in the Brick Toy style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#goats",
+          "#animalfacts",
+          "#science"
+        ],
+        "tags": [
+          "goat eyes",
+          "goat pupils",
+          "rectangle pupils",
+          "why do goats have rectangular pupils",
+          "horizontal pupils",
+          "goat vision",
+          "animal eyes",
+          "animal facts",
+          "how goats see",
+          "panoramic vision",
+          "cyclovergence",
+          "prey animal eyes",
+          "science explained",
+          "brick animation"
+        ],
+        "category": "27",
+        "pinned_comment": "Be honest: round pupils or goat rectangles? Which would you pick and why? \ud83d\udc10",
+        "thumbnail_text": "320\u00b0 VISION",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "Rectangle pupils let your goat see 320 degrees,\nalmost behind its own head.\nWhy rectangles?\nGoats are on the menu for wolves and big cats,\nso they need to spot danger from almost any direction.\nA long sideways slit stretches their view out wide,\nright along the ground,\nwhere predators actually sneak up.\nWith eyes on the sides of the head,\nonly a thin blind spot is left behind it.\nThe slit also blocks glare from the bright sky.\nNow here's the weird part.\nWhen a goat drops its head\nto eat grass,\nits eyeballs roll the other way,\nabout 50 degrees each,\nso the slits stay level with the horizon.\nYou can only do that a few degrees.\nSo would you swap your round pupils,\nfor a goat's rectangles?",
+        "key_facts": [
+          "Horizontal pupils widen the panoramic view along the ground to spot predators early (Banks et al. 2015, via The Conversation)",
+          "Goats see roughly 320-340 degrees with a narrow blind spot behind the head (Goat Journal)",
+          "Horizontal pupils let in more light from front and behind, less from above (The Conversation)",
+          "Each eye rotates about 50 degrees, possibly more, when the head goes down; humans manage only a few degrees (The Conversation)"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Brick Toy"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261121-goat-pupils",
+      "redos": 0,
+      "updated": "2026-11-22T02:20:17.148154+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Brick Toy style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-22",
+        "name": "2026-11-22-101.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-22",
+        "name": "2026-11-22-101-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:03,910\nRectangle pupils let your goat see 320 degrees,\n\n2\n00:00:04,030 --> 00:00:06,340\nalmost behind its own head.\n\n3\n00:00:06,780 --> 00:00:07,980\nWhy rectangles?\n\n4\n00:00:08,430 --> 00:00:11,240\nGoats are on the menu for wolves and big cats,\n\n5\n00:00:11,380 --> 00:00:14,870\nso they need to spot danger from almost any direction.\n\n6\n00:00:15,220 --> 00:00:18,370\nA long sideways slit stretches their view out wide,\n\n7\n00:00:18,820 --> 00:00:19,920\nright along the ground,\n\n8\n00:00:20,400 --> 00:00:22,310\nwhere predators actually sneak up.\n\n9\n00:00:22,700 --> 00:00:24,470\nWith eyes on the sides of the head,\n\n10\n00:00:25,010 --> 00:00:27,840\nonly a thin blind spot is left behind it.\n\n11\n00:00:28,260 --> 00:00:31,080\nThe slit also blocks glare from the bright sky.\n\n12\n00:00:31,550 --> 00:00:33,090\nNow here's the weird part.\n\n13\n00:00:33,480 --> 00:00:34,980\nWhen a goat drops its head\n\n14\n00:00:35,040 --> 00:00:35,800\nto eat grass,\n\n15\n00:00:36,220 --> 00:00:38,030\nits eyeballs roll the other way,\n\n16\n00:00:38,340 --> 00:00:39,760\nabout 50 degrees each,\n\n17\n00:00:39,840 --> 00:00:42,710\nso the slits stay level with the horizon.\n\n18\n00:00:43,160 --> 00:00:45,410\nYou can only do that a few degrees.\n\n19\n00:00:45,810 --> 00:00:47,690\nSo would you swap your round pupils,\n\n20\n00:00:48,040 --> 00:00:49,520\nfor a goat's rectangles?\n\n",
+      "tg_msg": 1197
     }
   },
   "history": [
@@ -3163,7 +3232,7 @@
       "at": "2026-10-25T17:40:17.371797+00:00"
     }
   },
-  "cleanup_day": "2026-11-21",
+  "cleanup_day": "2026-11-22",
   "recent_voices": [
     "en-AU-WilliamMultilingualNeural",
     "en-US-EmmaMultilingualNeural",
@@ -3315,7 +3384,8 @@
     "drop/20261121-archerfish": "2026-11-21-102",
     "drop/20261121-bee-sting": "2026-11-21-103",
     "drop/20261121-eyebrows": "2026-11-21-104",
-    "drop/20261121-frog-eyes": "2026-11-21-105"
+    "drop/20261121-frog-eyes": "2026-11-21-105",
+    "drop/20261121-goat-pupils": "2026-11-22-101"
   },
-  "refs_day": "2026-11-21"
+  "refs_day": "2026-11-22"
 }
