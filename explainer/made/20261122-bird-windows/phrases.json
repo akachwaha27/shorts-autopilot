@@ -1,0 +1,728 @@
+[
+ {
+  "s": 0.25,
+  "e": 1.71,
+  "text": "Your window kills birds,",
+  "words": [
+   [
+    "your",
+    0.25
+   ],
+   [
+    "window",
+    0.54
+   ],
+   [
+    "kills",
+    0.98
+   ],
+   [
+    "birds",
+    1.34
+   ]
+  ]
+ },
+ {
+  "s": 1.71,
+  "e": 3.82,
+  "text": "and they never see it coming. But why?",
+  "words": [
+   [
+    "and",
+    1.71
+   ],
+   [
+    "they",
+    1.93
+   ],
+   [
+    "never",
+    2.22
+   ],
+   [
+    "see",
+    2.58
+   ],
+   [
+    "it",
+    2.8
+   ],
+   [
+    "coming",
+    2.95
+   ],
+   [
+    "but",
+    3.38
+   ],
+   [
+    "why",
+    3.6
+   ]
+  ]
+ },
+ {
+  "s": 4.31,
+  "e": 6.85,
+  "text": "To a bird, your window is just more sky.",
+  "words": [
+   [
+    "to",
+    4.31
+   ],
+   [
+    "a",
+    4.48
+   ],
+   [
+    "bird",
+    4.56
+   ],
+   [
+    "your",
+    4.9
+   ],
+   [
+    "window",
+    5.24
+   ],
+   [
+    "is",
+    5.75
+   ],
+   [
+    "just",
+    5.92
+   ],
+   [
+    "more",
+    6.25
+   ],
+   [
+    "sky",
+    6.59
+   ]
+  ]
+ },
+ {
+  "s": 7.29,
+  "e": 9.58,
+  "text": "Clear glass lets a bird look straight through,",
+  "words": [
+   [
+    "clear",
+    7.29
+   ],
+   [
+    "glass",
+    7.59
+   ],
+   [
+    "lets",
+    7.89
+   ],
+   [
+    "a",
+    8.13
+   ],
+   [
+    "bird",
+    8.19
+   ],
+   [
+    "look",
+    8.43
+   ],
+   [
+    "straight",
+    8.67
+   ],
+   [
+    "through",
+    9.15
+   ]
+  ]
+ },
+ {
+  "s": 10.0,
+  "e": 11.52,
+  "text": "right at the plants inside.",
+  "words": [
+   [
+    "right",
+    10.0
+   ],
+   [
+    "at",
+    10.34
+   ],
+   [
+    "the",
+    10.48
+   ],
+   [
+    "plants",
+    10.69
+   ],
+   [
+    "inside",
+    11.11
+   ]
+  ]
+ },
+ {
+  "s": 11.89,
+  "e": 13.43,
+  "text": "Or the glass acts like a mirror,",
+  "words": [
+   [
+    "or",
+    11.89
+   ],
+   [
+    "the",
+    12.01
+   ],
+   [
+    "glass",
+    12.2
+   ],
+   [
+    "acts",
+    12.5
+   ],
+   [
+    "like",
+    12.75
+   ],
+   [
+    "a",
+    13.0
+   ],
+   [
+    "mirror",
+    13.06
+   ]
+  ]
+ },
+ {
+  "s": 13.86,
+  "e": 16.07,
+  "text": "showing trees and clouds behind it.",
+  "words": [
+   [
+    "showing",
+    13.86
+   ],
+   [
+    "trees",
+    14.39
+   ],
+   [
+    "and",
+    14.77
+   ],
+   [
+    "clouds",
+    15.0
+   ],
+   [
+    "behind",
+    15.46
+   ],
+   [
+    "it",
+    15.92
+   ]
+  ]
+ },
+ {
+  "s": 16.55,
+  "e": 18.53,
+  "text": "Either way, it sees an open path,",
+  "words": [
+   [
+    "either",
+    16.55
+   ],
+   [
+    "way",
+    17.02
+   ],
+   [
+    "it",
+    17.26
+   ],
+   [
+    "sees",
+    17.42
+   ],
+   [
+    "an",
+    17.74
+   ],
+   [
+    "open",
+    17.9
+   ],
+   [
+    "path",
+    18.21
+   ]
+  ]
+ },
+ {
+  "s": 19.1,
+  "e": 21.86,
+  "text": "and flies full speed into a wall it never saw.",
+  "words": [
+   [
+    "and",
+    19.1
+   ],
+   [
+    "flies",
+    19.33
+   ],
+   [
+    "full",
+    19.71
+   ],
+   [
+    "speed",
+    20.02
+   ],
+   [
+    "into",
+    20.4
+   ],
+   [
+    "a",
+    20.71
+   ],
+   [
+    "wall",
+    20.79
+   ],
+   [
+    "it",
+    21.09
+   ],
+   [
+    "never",
+    21.25
+   ],
+   [
+    "saw",
+    21.63
+   ]
+  ]
+ },
+ {
+  "s": 22.22,
+  "e": 24.63,
+  "text": "Nothing in nature is solid and see-through,",
+  "words": [
+   [
+    "nothing",
+    22.22
+   ],
+   [
+    "in",
+    22.7
+   ],
+   [
+    "nature",
+    22.84
+   ],
+   [
+    "is",
+    23.25
+   ],
+   [
+    "solid",
+    23.39
+   ],
+   [
+    "and",
+    23.73
+   ],
+   [
+    "seethrough",
+    23.94
+   ]
+  ]
+ },
+ {
+  "s": 25.1,
+  "e": 27.07,
+  "text": "so birds never learned to expect it.",
+  "words": [
+   [
+    "so",
+    25.1
+   ],
+   [
+    "birds",
+    25.23
+   ],
+   [
+    "never",
+    25.57
+   ],
+   [
+    "learned",
+    25.91
+   ],
+   [
+    "to",
+    26.39
+   ],
+   [
+    "expect",
+    26.53
+   ],
+   [
+    "it",
+    26.93
+   ]
+  ]
+ },
+ {
+  "s": 27.43,
+  "e": 28.12,
+  "text": "In the US,",
+  "words": [
+   [
+    "in",
+    27.43
+   ],
+   [
+    "the",
+    27.63
+   ],
+   [
+    "us",
+    27.92
+   ]
+  ]
+ },
+ {
+  "s": 28.18,
+  "e": 32.15,
+  "text": "scientists think windows kill up to a billion birds a year.",
+  "words": [
+   [
+    "scientists",
+    28.18
+   ],
+   [
+    "think",
+    29.01
+   ],
+   [
+    "windows",
+    29.42
+   ],
+   [
+    "kill",
+    30.0
+   ],
+   [
+    "up",
+    30.33
+   ],
+   [
+    "to",
+    30.5
+   ],
+   [
+    "a",
+    30.66
+   ],
+   [
+    "billion",
+    30.75
+   ],
+   [
+    "birds",
+    31.33
+   ],
+   [
+    "a",
+    31.74
+   ],
+   [
+    "year",
+    31.82
+   ]
+  ]
+ },
+ {
+  "s": 32.55,
+  "e": 33.97,
+  "text": "So what actually helps?",
+  "words": [
+   [
+    "so",
+    32.55
+   ],
+   [
+    "what",
+    32.7
+   ],
+   [
+    "actually",
+    33.0
+   ],
+   [
+    "helps",
+    33.6
+   ]
+  ]
+ },
+ {
+  "s": 34.5,
+  "e": 36.32,
+  "text": "One hawk sticker barely helps.",
+  "words": [
+   [
+    "one",
+    34.5
+   ],
+   [
+    "hawk",
+    34.71
+   ],
+   [
+    "sticker",
+    35.01
+   ],
+   [
+    "barely",
+    35.52
+   ],
+   [
+    "helps",
+    35.96
+   ]
+  ]
+ },
+ {
+  "s": 36.75,
+  "e": 38.48,
+  "text": "The bird just flies around it.",
+  "words": [
+   [
+    "the",
+    36.75
+   ],
+   [
+    "bird",
+    36.96
+   ],
+   [
+    "just",
+    37.25
+   ],
+   [
+    "flies",
+    37.54
+   ],
+   [
+    "around",
+    37.9
+   ],
+   [
+    "it",
+    38.34
+   ]
+  ]
+ },
+ {
+  "s": 38.87,
+  "e": 41.25,
+  "text": "But dots spaced about two inches apart",
+  "words": [
+   [
+    "but",
+    38.87
+   ],
+   [
+    "dots",
+    39.16
+   ],
+   [
+    "spaced",
+    39.54
+   ],
+   [
+    "about",
+    40.0
+   ],
+   [
+    "two",
+    40.35
+   ],
+   [
+    "inches",
+    40.55
+   ],
+   [
+    "apart",
+    40.95
+   ]
+  ]
+ },
+ {
+  "s": 41.3,
+  "e": 42.15,
+  "text": "look like a fence,",
+  "words": [
+   [
+    "look",
+    41.3
+   ],
+   [
+    "like",
+    41.5
+   ],
+   [
+    "a",
+    41.65
+   ],
+   [
+    "fence",
+    41.75
+   ]
+  ]
+ },
+ {
+  "s": 42.56,
+  "e": 44.15,
+  "text": "so the bird turns away.",
+  "words": [
+   [
+    "so",
+    42.56
+   ],
+   [
+    "the",
+    42.73
+   ],
+   [
+    "bird",
+    43.0
+   ],
+   [
+    "turns",
+    43.35
+   ],
+   [
+    "away",
+    43.79
+   ]
+  ]
+ },
+ {
+  "s": 44.57,
+  "e": 45.96,
+  "text": "Next time you hear a thump,",
+  "words": [
+   [
+    "next",
+    44.57
+   ],
+   [
+    "time",
+    44.83
+   ],
+   [
+    "you",
+    45.1
+   ],
+   [
+    "hear",
+    45.3
+   ],
+   [
+    "a",
+    45.56
+   ],
+   [
+    "thump",
+    45.63
+   ]
+  ]
+ },
+ {
+  "s": 46.43,
+  "e": 48.48,
+  "text": "go look at your window from outside.",
+  "words": [
+   [
+    "go",
+    46.43
+   ],
+   [
+    "look",
+    46.57
+   ],
+   [
+    "at",
+    46.85
+   ],
+   [
+    "your",
+    46.99
+   ],
+   [
+    "window",
+    47.27
+   ],
+   [
+    "from",
+    47.7
+   ],
+   [
+    "outside",
+    47.98
+   ]
+  ]
+ },
+ {
+  "s": 48.88,
+  "e": 50.21,
+  "text": "What does a bird see in it?",
+  "words": [
+   [
+    "what",
+    48.88
+   ],
+   [
+    "does",
+    49.15
+   ],
+   [
+    "a",
+    49.42
+   ],
+   [
+    "bird",
+    49.48
+   ],
+   [
+    "see",
+    49.75
+   ],
+   [
+    "in",
+    49.95
+   ],
+   [
+    "it",
+    50.08
+   ]
+  ]
+ }
+]

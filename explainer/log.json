@@ -1775,5 +1775,19 @@
   "hook_score": 52,
   "title_score": 98,
   "notes": "unattended run, no storyboard step"
+ },
+ {
+  "date": "2026-11-22",
+  "id": "20261122-bird-windows",
+  "kind": "short",
+  "style": "Whiteboard Explainer",
+  "topic": "Why do birds fly straight into windows?",
+  "title": "Why Do Birds Hit Windows? Up to 1 Billion a Year 🐦",
+  "seconds": 51.2,
+  "words": 143,
+  "sheet_id": "S122",
+  "hook_score": 57,
+  "title_score": 98,
+  "notes": "unattended run, no storyboard step; Lemo whiteboard (no engine; whiteboard engine reused from 20261119-apple-float), 9 regions; fixed one mis-snapped phrase time by hand"
  }
 ]
