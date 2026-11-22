@@ -1746,5 +1746,20 @@
   "hook_score": 52,
   "title_score": 98,
   "notes": "unattended run, no storyboard step"
+ },
+ {
+  "date": "2026-11-22",
+  "id": "20261122-stomach",
+  "kind": "long",
+  "style": "Flat-Vector Science",
+  "topic": "Your Stomach Explained in Simple Words: why it doesn't digest itself",
+  "title": "Why Doesn't Your Stomach Digest Itself?",
+  "seconds": 196.9,
+  "words": 533,
+  "sheet_id": "L035",
+  "chapters": 5,
+  "hook_score": 49,
+  "title_score": 98,
+  "notes": "unattended run, no storyboard step; 5 chapters + intro and outro, 35 scenes; voice am_michael; teaser for L036 sweat; Beaumont history skipped (violent injury), used Spallanzani + Bernard instead"
  }
 ]
