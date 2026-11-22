@@ -1,0 +1,688 @@
+[
+ {
+  "s": 0.25,
+  "e": 1.96,
+  "text": "Male seahorses get pregnant,",
+  "words": [
+   [
+    "male",
+    0.25
+   ],
+   [
+    "seahorses",
+    0.54
+   ],
+   [
+    "get",
+    1.18
+   ],
+   [
+    "pregnant",
+    1.39
+   ]
+  ]
+ },
+ {
+  "s": 2.34,
+  "e": 4.83,
+  "text": "and you've never seen a weirder birth:",
+  "words": [
+   [
+    "and",
+    2.34
+   ],
+   [
+    "youve",
+    2.59
+   ],
+   [
+    "never",
+    3.0
+   ],
+   [
+    "seen",
+    3.42
+   ],
+   [
+    "a",
+    3.75
+   ],
+   [
+    "weirder",
+    3.83
+   ],
+   [
+    "birth",
+    4.42
+   ]
+  ]
+ },
+ {
+  "s": 4.92,
+  "e": 6.81,
+  "text": "up to a thousand babies at once.",
+  "words": [
+   [
+    "up",
+    4.92
+   ],
+   [
+    "to",
+    5.07
+   ],
+   [
+    "a",
+    5.22
+   ],
+   [
+    "thousand",
+    5.3
+   ],
+   [
+    "babies",
+    5.9
+   ],
+   [
+    "at",
+    6.35
+   ],
+   [
+    "once",
+    6.51
+   ]
+  ]
+ },
+ {
+  "s": 7.26,
+  "e": 8.76,
+  "text": "So why him, and not her?",
+  "words": [
+   [
+    "so",
+    7.26
+   ],
+   [
+    "why",
+    7.44
+   ],
+   [
+    "him",
+    7.7
+   ],
+   [
+    "and",
+    7.97
+   ],
+   [
+    "not",
+    8.23
+   ],
+   [
+    "her",
+    8.5
+   ]
+  ]
+ },
+ {
+  "s": 9.22,
+  "e": 11.05,
+  "text": "After a twirly mating dance,",
+  "words": [
+   [
+    "after",
+    9.22
+   ],
+   [
+    "a",
+    9.62
+   ],
+   [
+    "twirly",
+    9.7
+   ],
+   [
+    "mating",
+    10.18
+   ],
+   [
+    "dance",
+    10.65
+   ]
+  ]
+ },
+ {
+  "s": 11.46,
+  "e": 12.51,
+  "text": "the female drops her eggs",
+  "words": [
+   [
+    "the",
+    11.46
+   ],
+   [
+    "female",
+    11.61
+   ],
+   [
+    "drops",
+    11.91
+   ],
+   [
+    "her",
+    12.16
+   ],
+   [
+    "eggs",
+    12.31
+   ]
+  ]
+ },
+ {
+  "s": 12.6,
+  "e": 14.82,
+  "text": "into a pouch on the male's belly.",
+  "words": [
+   [
+    "into",
+    12.6
+   ],
+   [
+    "a",
+    12.96
+   ],
+   [
+    "pouch",
+    13.05
+   ],
+   [
+    "on",
+    13.49
+   ],
+   [
+    "the",
+    13.67
+   ],
+   [
+    "males",
+    13.93
+   ],
+   [
+    "belly",
+    14.38
+   ]
+  ]
+ },
+ {
+  "s": 15.25,
+  "e": 17.05,
+  "text": "He seals them inside",
+  "words": [
+   [
+    "he",
+    15.25
+   ],
+   [
+    "seals",
+    15.46
+   ],
+   [
+    "them",
+    15.99
+   ],
+   [
+    "inside",
+    16.42
+   ]
+  ]
+ },
+ {
+  "s": 17.13,
+  "e": 18.89,
+  "text": "and grows tiny blood vessels around them,",
+  "words": [
+   [
+    "and",
+    17.13
+   ],
+   [
+    "grows",
+    17.29
+   ],
+   [
+    "tiny",
+    17.55
+   ],
+   [
+    "blood",
+    17.75
+   ],
+   [
+    "vessels",
+    18.01
+   ],
+   [
+    "around",
+    18.37
+   ],
+   [
+    "them",
+    18.68
+   ]
+  ]
+ },
+ {
+  "s": 19.4,
+  "e": 20.69,
+  "text": "a lot like a placenta.",
+  "words": [
+   [
+    "a",
+    19.4
+   ],
+   [
+    "lot",
+    19.48
+   ],
+   [
+    "like",
+    19.71
+   ],
+   [
+    "a",
+    20.01
+   ],
+   [
+    "placenta",
+    20.08
+   ]
+  ]
+ },
+ {
+  "s": 21.06,
+  "e": 23.37,
+  "text": "He feeds them oxygen and nutrients",
+  "words": [
+   [
+    "he",
+    21.06
+   ],
+   [
+    "feeds",
+    21.22
+   ],
+   [
+    "them",
+    21.62
+   ],
+   [
+    "oxygen",
+    21.94
+   ],
+   [
+    "and",
+    22.41
+   ],
+   [
+    "nutrients",
+    22.65
+   ]
+  ]
+ },
+ {
+  "s": 23.76,
+  "e": 25.87,
+  "text": "and keeps the water just salty enough.",
+  "words": [
+   [
+    "and",
+    23.76
+   ],
+   [
+    "keeps",
+    23.96
+   ],
+   [
+    "the",
+    24.31
+   ],
+   [
+    "water",
+    24.51
+   ],
+   [
+    "just",
+    24.85
+   ],
+   [
+    "salty",
+    25.12
+   ],
+   [
+    "enough",
+    25.46
+   ]
+  ]
+ },
+ {
+  "s": 26.35,
+  "e": 27.82,
+  "text": "About two to four weeks later,",
+  "words": [
+   [
+    "about",
+    26.35
+   ],
+   [
+    "two",
+    26.66
+   ],
+   [
+    "to",
+    26.84
+   ],
+   [
+    "four",
+    26.96
+   ],
+   [
+    "weeks",
+    27.21
+   ],
+   [
+    "later",
+    27.51
+   ]
+  ]
+ },
+ {
+  "s": 28.33,
+  "e": 29.38,
+  "text": "he goes into labor,",
+  "words": [
+   [
+    "he",
+    28.33
+   ],
+   [
+    "goes",
+    28.47
+   ],
+   [
+    "into",
+    28.75
+   ],
+   [
+    "labor",
+    29.03
+   ]
+  ]
+ },
+ {
+  "s": 29.75,
+  "e": 33.15,
+  "text": "pumping and squeezing until the babies shoot out in a cloud.",
+  "words": [
+   [
+    "pumping",
+    29.75
+   ],
+   [
+    "and",
+    30.24
+   ],
+   [
+    "squeezing",
+    30.44
+   ],
+   [
+    "until",
+    31.07
+   ],
+   [
+    "the",
+    31.42
+   ],
+   [
+    "babies",
+    31.62
+   ],
+   [
+    "shoot",
+    32.04
+   ],
+   [
+    "out",
+    32.39
+   ],
+   [
+    "in",
+    32.59
+   ],
+   [
+    "a",
+    32.73
+   ],
+   [
+    "cloud",
+    32.8
+   ]
+  ]
+ },
+ {
+  "s": 33.6,
+  "e": 34.81,
+  "text": "Here's the clever bit.",
+  "words": [
+   [
+    "heres",
+    33.6
+   ],
+   [
+    "the",
+    33.96
+   ],
+   [
+    "clever",
+    34.17
+   ],
+   [
+    "bit",
+    34.6
+   ]
+  ]
+ },
+ {
+  "s": 35.12,
+  "e": 36.37,
+  "text": "While he's busy carrying,",
+  "words": [
+   [
+    "while",
+    35.12
+   ],
+   [
+    "hes",
+    35.43
+   ],
+   [
+    "busy",
+    35.62
+   ],
+   [
+    "carrying",
+    35.87
+   ]
+  ]
+ },
+ {
+  "s": 36.83,
+  "e": 39.19,
+  "text": "she's already making her next batch of eggs.",
+  "words": [
+   [
+    "shes",
+    36.83
+   ],
+   [
+    "already",
+    37.1
+   ],
+   [
+    "making",
+    37.57
+   ],
+   [
+    "her",
+    37.98
+   ],
+   [
+    "next",
+    38.18
+   ],
+   [
+    "batch",
+    38.45
+   ],
+   [
+    "of",
+    38.79
+   ],
+   [
+    "eggs",
+    38.92
+   ]
+  ]
+ },
+ {
+  "s": 39.58,
+  "e": 41.59,
+  "text": "Some dads give birth in the morning",
+  "words": [
+   [
+    "some",
+    39.58
+   ],
+   [
+    "dads",
+    39.86
+   ],
+   [
+    "give",
+    40.13
+   ],
+   [
+    "birth",
+    40.41
+   ],
+   [
+    "in",
+    40.76
+   ],
+   [
+    "the",
+    40.9
+   ],
+   [
+    "morning",
+    41.1
+   ]
+  ]
+ },
+ {
+  "s": 41.98,
+  "e": 43.74,
+  "text": "and are pregnant again by evening.",
+  "words": [
+   [
+    "and",
+    41.98
+   ],
+   [
+    "are",
+    42.17
+   ],
+   [
+    "pregnant",
+    42.36
+   ],
+   [
+    "again",
+    42.86
+   ],
+   [
+    "by",
+    43.18
+   ],
+   [
+    "evening",
+    43.3
+   ]
+  ]
+ },
+ {
+  "s": 44.15,
+  "e": 45.74,
+  "text": "More babies, way faster.",
+  "words": [
+   [
+    "more",
+    44.15
+   ],
+   [
+    "babies",
+    44.49
+   ],
+   [
+    "way",
+    44.99
+   ],
+   [
+    "faster",
+    45.24
+   ]
+  ]
+ },
+ {
+  "s": 46.09,
+  "e": 48.51,
+  "text": "So would you trade jobs with a seahorse dad?",
+  "words": [
+   [
+    "so",
+    46.09
+   ],
+   [
+    "would",
+    46.23
+   ],
+   [
+    "you",
+    46.57
+   ],
+   [
+    "trade",
+    46.78
+   ],
+   [
+    "jobs",
+    47.13
+   ],
+   [
+    "with",
+    47.41
+   ],
+   [
+    "a",
+    47.68
+   ],
+   [
+    "seahorse",
+    47.75
+   ],
+   [
+    "dad",
+    48.31
+   ]
+  ]
+ }
+]
