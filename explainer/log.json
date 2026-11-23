@@ -1827,5 +1827,19 @@
   "words": 524,
   "sheet_id": "L036",
   "notes": "unattended run, no storyboard step; Lemo pick (Mid-century Cartoon) skipped because its setup script was blocked, fell back to the row's Atlas style"
+ },
+ {
+  "date": "2026-11-23",
+  "id": "20261123-egg-hen",
+  "kind": "short",
+  "style": "Brick Toy",
+  "topic": "Why doesn't an egg crack when a hen sits on it?",
+  "title": "An Egg Holds 3 kg, So How Does a Chick Get Out? 🐣",
+  "seconds": 47.8,
+  "words": 139,
+  "sheet_id": "S125",
+  "hook_score": 42,
+  "title_score": 98,
+  "notes": "unattended run, no storyboard step; Lemo brick-toy (no engine, three.js demo not used; brick helpers ported from 20261121-goat-pupils); Lemo setup.sh not run (sparse clone of the style folder only)"
  }
 ]

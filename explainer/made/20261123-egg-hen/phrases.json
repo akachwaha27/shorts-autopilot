@@ -1,0 +1,691 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.88,
+  "text": "A hen sits on her eggs for 21 days,",
+  "words": [
+   [
+    "a",
+    0.25
+   ],
+   [
+    "hen",
+    0.35
+   ],
+   [
+    "sits",
+    0.65
+   ],
+   [
+    "on",
+    1.06
+   ],
+   [
+    "her",
+    1.26
+   ],
+   [
+    "eggs",
+    1.56
+   ],
+   [
+    "for",
+    1.97
+   ],
+   [
+    "21",
+    2.27
+   ],
+   [
+    "days",
+    2.48
+   ]
+  ]
+ },
+ {
+  "s": 3.26,
+  "e": 4.28,
+  "text": "and they don't crack.",
+  "words": [
+   [
+    "and",
+    3.26
+   ],
+   [
+    "they",
+    3.45
+   ],
+   [
+    "dont",
+    3.7
+   ],
+   [
+    "crack",
+    3.96
+   ]
+  ]
+ },
+ {
+  "s": 4.74,
+  "e": 6.68,
+  "text": "So how does a tiny chick break out?",
+  "words": [
+   [
+    "so",
+    4.74
+   ],
+   [
+    "how",
+    4.88
+   ],
+   [
+    "does",
+    5.1
+   ],
+   [
+    "a",
+    5.39
+   ],
+   [
+    "tiny",
+    5.46
+   ],
+   [
+    "chick",
+    5.75
+   ],
+   [
+    "break",
+    6.11
+   ],
+   [
+    "out",
+    6.47
+   ]
+  ]
+ },
+ {
+  "s": 7.19,
+  "e": 8.44,
+  "text": "It's all about the shape.",
+  "words": [
+   [
+    "its",
+    7.19
+   ],
+   [
+    "all",
+    7.39
+   ],
+   [
+    "about",
+    7.59
+   ],
+   [
+    "the",
+    7.92
+   ],
+   [
+    "shape",
+    8.11
+   ]
+  ]
+ },
+ {
+  "s": 8.89,
+  "e": 11.25,
+  "text": "An egg is a dome, like a stone arch.",
+  "words": [
+   [
+    "an",
+    8.89
+   ],
+   [
+    "egg",
+    9.07
+   ],
+   [
+    "is",
+    9.35
+   ],
+   [
+    "a",
+    9.53
+   ],
+   [
+    "dome",
+    9.62
+   ],
+   [
+    "like",
+    9.98
+   ],
+   [
+    "a",
+    10.34
+   ],
+   [
+    "stone",
+    10.43
+   ],
+   [
+    "arch",
+    10.89
+   ]
+  ]
+ },
+ {
+  "s": 11.67,
+  "e": 12.9,
+  "text": "Push on the outside,",
+  "words": [
+   [
+    "push",
+    11.67
+   ],
+   [
+    "on",
+    11.98
+   ],
+   [
+    "the",
+    12.13
+   ],
+   [
+    "outside",
+    12.36
+   ]
+  ]
+ },
+ {
+  "s": 13.18,
+  "e": 15.22,
+  "text": "and the force spreads across the whole shell,",
+  "words": [
+   [
+    "and",
+    13.18
+   ],
+   [
+    "the",
+    13.34
+   ],
+   [
+    "force",
+    13.51
+   ],
+   [
+    "spreads",
+    13.79
+   ],
+   [
+    "across",
+    14.17
+   ],
+   [
+    "the",
+    14.5
+   ],
+   [
+    "whole",
+    14.67
+   ],
+   [
+    "shell",
+    14.94
+   ]
+  ]
+ },
+ {
+  "s": 15.7,
+  "e": 17.92,
+  "text": "so no single spot takes the load.",
+  "words": [
+   [
+    "so",
+    15.7
+   ],
+   [
+    "no",
+    15.87
+   ],
+   [
+    "single",
+    16.04
+   ],
+   [
+    "spot",
+    16.55
+   ],
+   [
+    "takes",
+    16.89
+   ],
+   [
+    "the",
+    17.32
+   ],
+   [
+    "load",
+    17.58
+   ]
+  ]
+ },
+ {
+  "s": 18.3,
+  "e": 19.53,
+  "text": "Squeezed end to end,",
+  "words": [
+   [
+    "squeezed",
+    18.3
+   ],
+   [
+    "end",
+    18.92
+   ],
+   [
+    "to",
+    19.15
+   ],
+   [
+    "end",
+    19.3
+   ]
+  ]
+ },
+ {
+  "s": 19.91,
+  "e": 22.08,
+  "text": "an egg can hold about three kilos.",
+  "words": [
+   [
+    "an",
+    19.91
+   ],
+   [
+    "egg",
+    20.07
+   ],
+   [
+    "can",
+    20.31
+   ],
+   [
+    "hold",
+    20.55
+   ],
+   [
+    "about",
+    20.87
+   ],
+   [
+    "three",
+    21.28
+   ],
+   [
+    "kilos",
+    21.68
+   ]
+  ]
+ },
+ {
+  "s": 22.46,
+  "e": 25.92,
+  "text": "Plus the hen's weight is shared by the nest and the other eggs.",
+  "words": [
+   [
+    "plus",
+    22.46
+   ],
+   [
+    "the",
+    22.74
+   ],
+   [
+    "hens",
+    22.96
+   ],
+   [
+    "weight",
+    23.24
+   ],
+   [
+    "is",
+    23.66
+   ],
+   [
+    "shared",
+    23.8
+   ],
+   [
+    "by",
+    24.23
+   ],
+   [
+    "the",
+    24.37
+   ],
+   [
+    "nest",
+    24.58
+   ],
+   [
+    "and",
+    24.86
+   ],
+   [
+    "the",
+    25.08
+   ],
+   [
+    "other",
+    25.29
+   ],
+   [
+    "eggs",
+    25.64
+   ]
+  ]
+ },
+ {
+  "s": 26.32,
+  "e": 28.45,
+  "text": "From the inside, it's a different story.",
+  "words": [
+   [
+    "from",
+    26.32
+   ],
+   [
+    "the",
+    26.59
+   ],
+   [
+    "inside",
+    26.8
+   ],
+   [
+    "its",
+    27.21
+   ],
+   [
+    "a",
+    27.42
+   ],
+   [
+    "different",
+    27.48
+   ],
+   [
+    "story",
+    28.1
+   ]
+  ]
+ },
+ {
+  "s": 28.87,
+  "e": 30.68,
+  "text": "The chick pecks one tiny spot,",
+  "words": [
+   [
+    "the",
+    28.87
+   ],
+   [
+    "chick",
+    29.09
+   ],
+   [
+    "pecks",
+    29.47
+   ],
+   [
+    "one",
+    29.85
+   ],
+   [
+    "tiny",
+    30.07
+   ],
+   [
+    "spot",
+    30.37
+   ]
+  ]
+ },
+ {
+  "s": 31.17,
+  "e": 33.83,
+  "text": "and a dome is weak against a push from inside.",
+  "words": [
+   [
+    "and",
+    31.17
+   ],
+   [
+    "a",
+    31.39
+   ],
+   [
+    "dome",
+    31.46
+   ],
+   [
+    "is",
+    31.76
+   ],
+   [
+    "weak",
+    31.9
+   ],
+   [
+    "against",
+    32.2
+   ],
+   [
+    "a",
+    32.72
+   ],
+   [
+    "push",
+    32.79
+   ],
+   [
+    "from",
+    33.09
+   ],
+   [
+    "inside",
+    33.38
+   ]
+  ]
+ },
+ {
+  "s": 34.29,
+  "e": 35.64,
+  "text": "Here's the clever part.",
+  "words": [
+   [
+    "heres",
+    34.29
+   ],
+   [
+    "the",
+    34.67
+   ],
+   [
+    "clever",
+    34.89
+   ],
+   [
+    "part",
+    35.34
+   ]
+  ]
+ },
+ {
+  "s": 35.93,
+  "e": 39.07,
+  "text": "The chick pulls calcium from the shell to build its bones,",
+  "words": [
+   [
+    "the",
+    35.93
+   ],
+   [
+    "chick",
+    36.13
+   ],
+   [
+    "pulls",
+    36.47
+   ],
+   [
+    "calcium",
+    36.8
+   ],
+   [
+    "from",
+    37.27
+   ],
+   [
+    "the",
+    37.53
+   ],
+   [
+    "shell",
+    37.73
+   ],
+   [
+    "to",
+    38.07
+   ],
+   [
+    "build",
+    38.2
+   ],
+   [
+    "its",
+    38.54
+   ],
+   [
+    "bones",
+    38.74
+   ]
+  ]
+ },
+ {
+  "s": 39.52,
+  "e": 41.66,
+  "text": "so the shell gets thinner as it grows.",
+  "words": [
+   [
+    "so",
+    39.52
+   ],
+   [
+    "the",
+    39.66
+   ],
+   [
+    "shell",
+    39.88
+   ],
+   [
+    "gets",
+    40.23
+   ],
+   [
+    "thinner",
+    40.52
+   ],
+   [
+    "as",
+    41.02
+   ],
+   [
+    "it",
+    41.16
+   ],
+   [
+    "grows",
+    41.3
+   ]
+  ]
+ },
+ {
+  "s": 42.0,
+  "e": 43.88,
+  "text": "Strong outside, weak inside.",
+  "words": [
+   [
+    "strong",
+    42.0
+   ],
+   [
+    "outside",
+    42.49
+   ],
+   [
+    "weak",
+    43.06
+   ],
+   [
+    "inside",
+    43.39
+   ]
+  ]
+ },
+ {
+  "s": 44.17,
+  "e": 46.81,
+  "text": "So could you crack an egg squeezing it end to end?",
+  "words": [
+   [
+    "so",
+    44.17
+   ],
+   [
+    "could",
+    44.3
+   ],
+   [
+    "you",
+    44.64
+   ],
+   [
+    "crack",
+    44.85
+   ],
+   [
+    "an",
+    45.19
+   ],
+   [
+    "egg",
+    45.32
+   ],
+   [
+    "squeezing",
+    45.52
+   ],
+   [
+    "it",
+    46.13
+   ],
+   [
+    "end",
+    46.27
+   ],
+   [
+    "to",
+    46.47
+   ],
+   [
+    "end",
+    46.61
+   ]
+  ]
+ }
+]
