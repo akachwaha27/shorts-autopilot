@@ -378,97 +378,6 @@
     }
   },
   "videos": {
-    "2026-11-17-101": {
-      "topic": {
-        "title": "Why don't ducks' feet freeze on ice?",
-        "format": "animated",
-        "angle": "Flat-Vector Science"
-      },
-      "package": {
-        "title": "Why Don't Duck Feet Freeze at 0\u00b0C? \ud83e\udd86",
-        "description": "Why don't ducks' feet freeze on ice? A countercurrent heat exchange in their legs lets warm arterial blood hand its heat to cold blood returning from the feet, so mallards lose only about 5% of their body heat through their feet.\n\nSources:\nhttps://askanaturalist.com/why-don%E2%80%99t-ducks%E2%80%99-feet-freeze/\nhttps://www.wwt.org.uk/discover-wetlands/blog/why-dont-birds-feet-freeze-and-other-amazing-avian-adaptations\nhttps://www.reconnectwithnature.org/headlines/news/nature-curiosity-why-dont-birds-feet-freeze-winter\n\nAnimated in the Flat-Vector Science style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#animals",
-          "#science",
-          "#ducks"
-        ],
-        "tags": [
-          "why don't ducks feet freeze",
-          "duck feet ice",
-          "countercurrent heat exchange",
-          "how ducks stay warm",
-          "bird feet winter",
-          "animal adaptations",
-          "mallard facts",
-          "animal facts",
-          "weird animal facts",
-          "science shorts",
-          "how animals survive cold",
-          "zorbly ai",
-          "duck facts"
-        ],
-        "category": "27",
-        "pinned_comment": "Would you swap feet with a duck for one winter? Yes or no way? \ud83e\udd86",
-        "thumbnail_text": "HEAT TRADE",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "Ducks stand barefoot on ice for hours, and their feet never freeze. Yours would. Why? A duck's body runs hot, around 41 degrees. If that warm blood rushed into its feet, the ice would suck the heat right out. So inside each leg, there's a trick. The artery carrying warm blood down runs tight against the veins coming back up. As they pass, the warm blood hands its heat to the cold blood heading home. Scientists call it countercurrent heat exchange. So the feet only get blood that's barely warm, just enough to dodge frostbite, and the heat goes back into the body. In one study, mallards at freezing lost only about 5 percent of their body heat through their feet. And duck feet are mostly bone and tendon, with hardly any soft tissue to freeze. Pretty genius, right? So would you swap feet with a duck, just for one winter?",
-        "key_facts": [
-          "Ducks and many waterbirds use a counter-current heat exchange between leg arteries and veins (askanaturalist, WWT)",
-          "Warm arterial blood heading to the feet passes close to cold venous blood returning, warming it and leaving the feet just warm enough to avoid frostbite (askanaturalist)",
-          "Mallards lost only about 5% of their body heat through their feet at 0 C (askanaturalist, citing study)",
-          "Bird legs and feet are relatively free of soft tissue; foot muscles sit higher in the leg and work via long tendons (askanaturalist)",
-          "Bird body temperature is about 106 F / ~41 C (Audubon via Forest Preserve District of Will County)"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Flat-Vector Science"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261117-duck-feet",
-      "redos": 0,
-      "updated": "2026-11-17T10:50:41.331396+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-17",
-        "name": "2026-11-17-101.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-17",
-        "name": "2026-11-17-101-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:02,440\nDucks stand barefoot on ice for hours,\n\n2\n00:00:02,820 --> 00:00:04,350\nand their feet never freeze.\n\n3\n00:00:04,720 --> 00:00:05,880\nYours would. Why?\n\n4\n00:00:06,440 --> 00:00:07,820\nA duck's body runs hot,\n\n5\n00:00:08,250 --> 00:00:09,800\naround 41 degrees.\n\n6\n00:00:10,140 --> 00:00:12,280\nIf that warm blood rushed into its feet,\n\n7\n00:00:12,780 --> 00:00:14,760\nthe ice would suck the heat right out.\n\n8\n00:00:15,200 --> 00:00:17,480\nSo inside each leg, there's a trick.\n\n9\n00:00:17,860 --> 00:00:19,990\nThe artery carrying warm blood down\n\n10\n00:00:20,560 --> 00:00:23,060\nruns tight against the veins coming back up.\n\n11\n00:00:23,420 --> 00:00:26,130\nAs they pass, the warm blood hands its heat\n\n12\n00:00:26,200 --> 00:00:27,890\nto the cold blood heading home.\n\n13\n00:00:28,330 --> 00:00:30,990\nScientists call it countercurrent heat exchange.\n\n14\n00:00:31,410 --> 00:00:34,080\nSo the feet only get blood that's barely warm,\n\n15\n00:00:34,700 --> 00:00:36,260\njust enough to dodge frostbite,\n\n16\n00:00:36,350 --> 00:00:38,690\nand the heat goes back into the body.\n\n17\n00:00:39,120 --> 00:00:41,920\nIn one study, mallards at freezing\n\n18\n00:00:41,980 --> 00:00:45,260\nlost only about 5 percent of their body heat through their feet.\n\n19\n00:00:45,660 --> 00:00:47,890\nAnd duck feet are mostly bone and tendon,\n\n20\n00:00:48,420 --> 00:00:50,810\nwith hardly any soft tissue to freeze.\n\n21\n00:00:51,280 --> 00:00:52,510\nPretty genius, right?\n\n22\n00:00:53,080 --> 00:00:54,800\nSo would you swap feet with a duck,\n\n23\n00:00:55,140 --> 00:00:56,340\njust for one winter?\n\n",
-      "tg_msg": 1146,
-      "approved_by": "auto",
-      "description_full": "Why don't ducks' feet freeze on ice? A countercurrent heat exchange in their legs lets warm arterial blood hand its heat to cold blood returning from the feet, so mallards lose only about 5% of their body heat through their feet.\n\nSources:\nhttps://askanaturalist.com/why-don%E2%80%99t-ducks%E2%80%99-feet-freeze/\nhttps://www.wwt.org.uk/discover-wetlands/blog/why-dont-birds-feet-freeze-and-other-amazing-avian-adaptations\nhttps://www.reconnectwithnature.org/headlines/news/nature-curiosity-why-dont-birds-feet-freeze-winter\n\nAnimated in the Flat-Vector Science style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #animals #science #ducks\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/VBIswt9ZUtg",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-11-17T10:50:41.331415+00:00",
-      "slot": "2026-11-17T20:15:00+00:00"
-    },
     "2026-11-17-102": {
       "topic": {
         "title": "Why can a starfish regrow a whole arm?",
@@ -3132,12 +3041,12 @@
         "format": "animated",
         "style": "Pictogram Motion"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261122-arm-hair",
       "redos": 0,
-      "updated": "2026-11-23T03:31:17.517692+00:00",
+      "updated": "2026-11-23T13:38:28.600982+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Pictogram Motion style). Voice: Kokoro text-to-speech."
       ],
@@ -3152,7 +3061,171 @@
         "name": "2026-11-23-101-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:02,180\nWhy does your arm hair stop growing,\n\n2\n00:00:02,640 --> 00:00:04,910\nbut your head hair keeps going for years?\n\n3\n00:00:05,360 --> 00:00:08,230\nEvery hair grows from a tiny pocket in your skin\n\n4\n00:00:08,440 --> 00:00:09,460\ncalled a follicle.\n\n5\n00:00:09,830 --> 00:00:11,970\nAnd every follicle runs on a loop.\n\n6\n00:00:12,450 --> 00:00:14,250\nGrow. Stop. Rest. Fall out.\n\n7\n00:00:14,670 --> 00:00:16,920\nThen a new hair starts in the same spot.\n\n8\n00:00:17,360 --> 00:00:19,940\nThe trick is how long the growing part lasts.\n\n9\n00:00:20,300 --> 00:00:22,920\nOn your head, it can run two to seven years.\n\n10\n00:00:23,320 --> 00:00:24,900\nAt about a centimeter a month,\n\n11\n00:00:25,300 --> 00:00:27,230\nthat's long enough to reach your waist.\n\n12\n00:00:27,590 --> 00:00:30,060\nOn your arms, it lasts just a few months.\n\n13\n00:00:30,410 --> 00:00:31,860\nSo the hair hits its limit,\n\n14\n00:00:32,300 --> 00:00:34,560\nand falls out before it ever gets long.\n\n15\n00:00:34,960 --> 00:00:36,580\nArm hair doesn't grow slower.\n\n16\n00:00:36,960 --> 00:00:38,460\nIt just quits way sooner.\n\n17\n00:00:38,830 --> 00:00:40,980\nYour eyebrows have a short timer too.\n\n18\n00:00:41,450 --> 00:00:43,870\nSo if your arm hair had a seven year timer,\n\n19\n00:00:44,330 --> 00:00:45,860\nhow long would you let it grow?\n\n",
-      "tg_msg": 1207
+      "tg_msg": 1207,
+      "approved_by": "auto",
+      "description_full": "Why does arm hair stay short while the hair on your head keeps growing? Every hair follicle has a growing phase of a set length: two to seven years on the scalp, but only a few months on the arms, so arm hair falls out before it gets long.\n\nSources:\nhttps://www.sciencefocus.com/the-human-body/how-your-hairs-growth-cycle-impacts-its-length\nhttps://www.howstuffworks.com/question100.htm\nhttps://pubmed.ncbi.nlm.nih.gov/24385126/\n\nAnimated in the Pictogram Motion style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #science #humanbody #facts\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Pictogram Motion style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/U3AhcXL-Zaw",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-23T13:38:28.601000+00:00",
+      "slot": "2026-11-25T02:15:00+00:00"
+    },
+    "2026-11-23-102": {
+      "topic": {
+        "title": "Why is a toucan's beak so huge?",
+        "format": "animated",
+        "angle": "Isometric Infographic"
+      },
+      "package": {
+        "title": "Toucan Beaks Are Radiators: 1/20 of the Bird's Weight \ud83e\udd9c",
+        "description": "Why is a toucan's beak so huge? The toco toucan's bill is about a third of its length but mostly air inside, and a web of blood vessels lets it work like a radiator that dumps body heat when it's hot and holds it in when it's cold.\n\nSources:\nhttps://www.nationalgeographic.com/science/article/toucan-play-at-reducing-the-heating-bill\nhttps://www.smithsonianmag.com/science-nature/oversized-beak-keeps-toucan-cool-15023806/\nhttps://jacobsschool.ucsd.edu/news/release/417\n\nAnimated in the Isometric Infographic style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#animals",
+          "#toucan",
+          "#facts"
+        ],
+        "tags": [
+          "why is a toucan's beak so big",
+          "toucan beak",
+          "toco toucan",
+          "toucan beak radiator",
+          "how toucans stay cool",
+          "animal adaptations",
+          "bird facts",
+          "thermoregulation",
+          "toucan beak weight",
+          "weird animal facts",
+          "science explained",
+          "isometric animation",
+          "animals for kids"
+        ],
+        "category": "27",
+        "pinned_comment": "Would you trade your nose for a radiator on your face? Yes or no \ud83d\udc47",
+        "thumbnail_text": "MOSTLY AIR",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "A toucan's beak is secretly a radiator.\nHere's why you never noticed.\nThat giant bill is a third of the bird's length,\nbut barely a twentieth of its weight.\nIt's mostly air.\nThin sheets of keratin, the stuff in your nails,\nwrap a foam of tiny bone struts.\nNow the clever part.\nUnder that shell runs a web of blood vessels.\nWhen the toucan gets hot,\nit pumps warm blood into the beak,\nand the heat pours out into the air.\nScientists filmed it with a heat camera\nand watched the beak light up.\nWhen it's chilly, it shuts the flow off\nand keeps that heat inside.\nFor short bursts,\nalmost all the heat it loses\ngoes out through that beak.\nBe honest, would you trade your nose\nfor a radiator on your face?",
+        "key_facts": [
+          "A toco toucan's beak is about one third of its body length (Wikipedia, Toco toucan beak)",
+          "The beak is only about 1/20 of the bird's mass; Wikipedia also cites under 3% (Wikipedia, Toco toucan beak)",
+          "Inside is a rigid foam of bony fibers and membranes under thin keratin tiles; 'the beak is mostly air' (UCSD, Meyers 2005)",
+          "Blood flow to the bill is adjusted to dump or keep heat; adults can cut bill heat loss to about 5% or briefly lose almost all body heat through it (Tattersall et al., Science 2009, via National Geographic)",
+          "Researchers used infrared (thermal) cameras to see the bill heat up (Tattersall et al. 2009)"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Isometric Infographic"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261123-toucan-beak",
+      "redos": 0,
+      "updated": "2026-11-23T13:38:00.658995+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Isometric Infographic style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-23",
+        "name": "2026-11-23-102.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-23",
+        "name": "2026-11-23-102-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:02,870\nA toucan's beak is secretly a radiator.\n\n2\n00:00:03,270 --> 00:00:04,960\nHere's why you never noticed.\n\n3\n00:00:05,320 --> 00:00:08,040\nThat giant bill is a third of the bird's length,\n\n4\n00:00:08,490 --> 00:00:10,510\nbut barely a twentieth of its weight.\n\n5\n00:00:10,930 --> 00:00:12,100\nIt's mostly air.\n\n6\n00:00:12,440 --> 00:00:15,480\nThin sheets of keratin, the stuff in your nails,\n\n7\n00:00:15,550 --> 00:00:17,580\nwrap a foam of tiny bone struts.\n\n8\n00:00:18,040 --> 00:00:19,290\nNow the clever part.\n\n9\n00:00:19,690 --> 00:00:22,530\nUnder that shell runs a web of blood vessels.\n\n10\n00:00:23,000 --> 00:00:24,250\nWhen the toucan gets hot,\n\n11\n00:00:24,710 --> 00:00:26,640\nit pumps warm blood into the beak,\n\n12\n00:00:26,760 --> 00:00:29,110\nand the heat pours out into the air.\n\n13\n00:00:29,480 --> 00:00:31,510\nScientists filmed it with a heat camera\n\n14\n00:00:31,890 --> 00:00:33,450\nand watched the beak light up.\n\n15\n00:00:33,850 --> 00:00:36,570\nWhen it's chilly, it shuts the flow off\n\n16\n00:00:36,670 --> 00:00:37,530\nand keeps that heat inside.\n\n17\n00:00:37,970 --> 00:00:38,990\nFor short bursts,\n\n18\n00:00:39,370 --> 00:00:40,210\nalmost all the heat it loses\n\n19\n00:00:40,280 --> 00:00:42,560\ngoes out through that beak.\n\n20\n00:00:42,960 --> 00:00:45,140\nBe honest, would you trade your nose\n\n21\n00:00:45,140 --> 00:00:46,800\nfor a radiator on your face?\n\n",
+      "tg_msg": 1208
+    },
+    "2026-11-23-103": {
+      "topic": {
+        "title": "Why do some people sweat so much more than others?",
+        "format": "long",
+        "angle": "Flat-Vector Science"
+      },
+      "package": {
+        "title": "4 Million Sweat Glands: Why Do Some People Sweat More?",
+        "description": "Why do some people sweat so much more than others? This animated explainer shows how your 2 to 4 million sweat glands switch on, why body size, genes and fitness change how much you sweat, and why sweating a lot often means you're fitter.\n\nSources:\nhttps://my.clevelandclinic.org/health/body/eccrine-glands\nhttps://www.livescience.com/8725-women-sweat-effectively-men.html\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC3710196\n\nAnimated in the Flat-Vector Science style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#sweat",
+          "#humanbody",
+          "#science"
+        ],
+        "tags": [
+          "why do some people sweat more",
+          "sweat glands",
+          "how sweating works",
+          "why do we sweat",
+          "sweating explained",
+          "heat acclimation",
+          "does sweating mean you are fit",
+          "hypothalamus",
+          "evaporative cooling",
+          "human body facts",
+          "science explained",
+          "animated explainer",
+          "Zorbly AI",
+          "body curiosities"
+        ],
+        "category": "27",
+        "pinned_comment": "Are you the one dripping at the gym or the one who barely sweats? \ud83d\udca7",
+        "thumbnail_text": "SWEATY = FITTER?",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "You have up to four million sweat glands.\nSo why do some people drip,\nwhile others barely look damp?\nPicture two people, same hot room, same workout.\nOne is soaked. The other is fine.\nIt's not about being healthy or unhealthy.\nIt comes down to your body's cooling system,\nand how hard it's been trained.\nLet's start with the hardware.\nYour skin is packed with two to four million sweat glands.\nEach one is a tiny coiled tube,\nburied in your skin like a curly straw.\nThey cover almost your whole body,\nwith the most on your palms, the soles of your feet,\nand your forehead.\nNow here's how they switch on.\nDeep in your brain sits a thermostat called the hypothalamus.\nWhen your core gets even slightly too warm,\nit fires a signal down your nerves.\nThe glands squeeze out salty water onto your skin.\nAnd then comes the clever part.\nSweat doesn't cool you by being wet.\nIt cools you by disappearing.\nWhen it evaporates, it carries heat away with it.\nThat's why a humid day feels so awful.\nThe air is already full of water,\nso your sweat just sits there and drips.\nAnd fresh sweat barely smells at all.\nThe smell comes from bacteria\nmunching on sweat from your armpit glands.\nSo why does one person drip while another stays dry?\nFirst, size.\nA bigger body makes more heat when it moves,\nso it needs more sweat to dump it.\nSecond, your genes.\nSome people simply have more active glands,\nor glands that pump harder.\nThird, men and women tend to differ.\nIn a study in Japan,\nfit men started sweating fastest of everyone,\nand inactive women sweated the least.\nBut here's the twist most people get backwards.\nSweating a lot usually means you're fitter, not less fit.\nA trained body is like an upgraded air conditioner.\nIt turns on sooner,\nbefore you even feel hot,\nand it pumps out more sweat once it gets going.\nHeat training does the same thing.\nSpend around one to two weeks exercising in the heat,\nand your body starts sweating earlier,\npours out more,\nand holds on to more of its salt.\nNow let's talk numbers.\nSitting still on a cool day,\nyou lose a little sweat without ever noticing.\nBut during hard exercise in the heat,\nan adult can sweat more than a litre an hour.\nSome athletes lose two litres or more.\nThat's a big bottle of water,\nleaving your body through your skin.\nAnd every drop that evaporates\npulls a surprising amount of heat out with it.\nSo why does all this matter?\nBecause sweating is one of humanity's superpowers.\nMost furry animals cool down by panting.\nWe cool our whole body surface at once,\nwhich is part of why humans are so good\nat long, slow runs in the heat.\nSo if you're the one dripping at the gym,\ndon't be embarrassed.\nYour cooling system might just be top of the line.\nJust remember to drink water and replace what you lose.\nNext time, why do you have two nostrils,\nand why is one of them always more blocked?\n",
+        "key_facts": [
+          "Humans have about 2-4 million eccrine sweat glands (Cleveland Clinic)",
+          "The hypothalamus acts as the body's thermostat and triggers sweating",
+          "Sweat cools by evaporating; humid air slows evaporation",
+          "Fresh sweat is nearly odourless; smell comes from bacteria breaking down apocrine (armpit) sweat",
+          "Bigger bodies make more heat and sweat more",
+          "2010 Osaka International University study: fit men sweated most readily, inactive women least (LiveScience)",
+          "Fit people start sweating at a lower core temperature and can sweat more (LiveScience, Precision Hydration)",
+          "Heat acclimation over roughly 1-2 weeks: earlier onset, higher sweat rate, more salt conserved",
+          "Hard exercise in heat: over 1 L/hour, some athletes 2 L+ (PMC3710196)"
+        ],
+        "voice": "Kokoro",
+        "format": "long",
+        "style": "Flat-Vector Science"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261123-why-some-sweat",
+      "redos": 0,
+      "updated": "2026-11-23T13:38:13.576946+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-23",
+        "name": "2026-11-23-103.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-23",
+        "name": "2026-11-23-103-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:02,570\nYou have up to four million sweat glands.\n\n2\n00:00:02,930 --> 00:00:04,430\nSo why do some people drip,\n\n3\n00:00:04,800 --> 00:00:06,450\nwhile others barely look damp?\n\n4\n00:00:06,980 --> 00:00:09,990\nPicture two people, same hot room, same workout.\n\n5\n00:00:10,450 --> 00:00:12,440\nOne is soaked. The other is fine.\n\n6\n00:00:12,890 --> 00:00:15,300\nIt's not about being healthy or unhealthy.\n\n7\n00:00:15,650 --> 00:00:18,040\nIt comes down to your body's cooling system,\n\n8\n00:00:18,430 --> 00:00:20,220\nand how hard it's been trained.\n\n9\n00:00:20,600 --> 00:00:22,150\nLet's start with the hardware.\n\n10\n00:00:22,550 --> 00:00:25,940\nYour skin is packed with two to four million sweat glands.\n\n11\n00:00:26,420 --> 00:00:28,280\nEach one is a tiny coiled tube,\n\n12\n00:00:28,740 --> 00:00:31,020\nburied in your skin like a curly straw.\n\n13\n00:00:31,480 --> 00:00:33,390\nThey cover almost your whole body,\n\n14\n00:00:33,890 --> 00:00:36,660\nwith the most on your palms, the soles of your feet,\n\n15\n00:00:36,900 --> 00:00:37,810\nand your forehead.\n\n16\n00:00:38,160 --> 00:00:39,790\nNow here's how they switch on.\n\n17\n00:00:40,240 --> 00:00:44,050\nDeep in your brain sits a thermostat called the hypothalamus.\n\n18\n00:00:44,390 --> 00:00:46,810\nWhen your core gets even slightly too warm,\n\n19\n00:00:47,350 --> 00:00:49,580\nit fires a signal down your nerves.\n\n20\n00:00:49,970 --> 00:00:52,710\nThe glands squeeze out salty water onto your skin.\n\n21\n00:00:53,110 --> 00:00:54,720\nAnd then comes the clever part.\n\n22\n00:00:55,160 --> 00:00:57,190\nSweat doesn't cool you by being wet.\n\n23\n00:00:57,620 --> 00:00:59,370\nIt cools you by disappearing.\n\n24\n00:00:59,730 --> 00:01:02,390\nWhen it evaporates, it carries heat away with it.\n\n25\n00:01:02,840 --> 00:01:05,150\nThat's why a humid day feels so awful.\n\n26\n00:01:05,550 --> 00:01:07,360\nThe air is already full of water,\n\n27\n00:01:07,770 --> 00:01:09,950\nso your sweat just sits there and drips.\n\n28\n00:01:10,420 --> 00:01:12,460\nAnd fresh sweat barely smells at all.\n\n29\n00:01:12,830 --> 00:01:14,450\nThe smell comes from bacteria\n\n30\n00:01:14,850 --> 00:01:17,200\nmunching on sweat from your armpit glands.\n\n31\n00:01:17,570 --> 00:01:20,880\nSo why does one person drip while another stays dry?\n\n32\n00:01:21,390 --> 00:01:22,350\nFirst, size.\n\n33\n00:01:22,690 --> 00:01:25,170\nA bigger body makes more heat when it moves,\n\n34\n00:01:25,520 --> 00:01:27,270\nso it needs more sweat to dump it.\n\n35\n00:01:27,660 --> 00:01:28,880\nSecond, your genes.\n\n36\n00:01:29,260 --> 00:01:31,680\nSome people simply have more active glands,\n\n37\n00:01:32,080 --> 00:01:33,680\nor glands that pump harder.\n\n38\n00:01:34,120 --> 00:01:36,180\nThird, men and women tend to differ.\n\n39\n00:01:36,600 --> 00:01:37,880\nIn a study in Japan,\n\n40\n00:01:38,300 --> 00:01:40,910\nfit men started sweating fastest of everyone,\n\n41\n00:01:41,480 --> 00:01:43,460\nand inactive women sweated the least.\n\n42\n00:01:43,830 --> 00:01:46,700\nBut here's the twist most people get backwards.\n\n43\n00:01:47,050 --> 00:01:50,390\nSweating a lot usually means you're fitter, not less fit.\n\n44\n00:01:50,840 --> 00:01:54,010\nA trained body is like an upgraded air conditioner.\n\n45\n00:01:54,350 --> 00:01:55,650\nIt turns on sooner,\n\n46\n00:01:55,980 --> 00:01:57,260\nbefore you even feel hot,\n\n47\n00:01:57,790 --> 00:02:00,330\nand it pumps out more sweat once it gets going.\n\n48\n00:02:00,790 --> 00:02:02,720\nHeat training does the same thing.\n\n49\n00:02:03,180 --> 00:02:06,300\nSpend around one to two weeks exercising in the heat,\n\n50\n00:02:06,770 --> 00:02:08,780\nand your body starts sweating earlier,\n\n51\n00:02:09,210 --> 00:02:10,150\npours out more,\n\n52\n00:02:10,620 --> 00:02:12,560\nand holds on to more of its salt.\n\n53\n00:02:13,020 --> 00:02:14,460\nNow let's talk numbers.\n\n54\n00:02:14,820 --> 00:02:16,290\nSitting still on a cool day,\n\n55\n00:02:16,760 --> 00:02:19,120\nyou lose a little sweat without ever noticing.\n\n56\n00:02:19,510 --> 00:02:21,640\nBut during hard exercise in the heat,\n\n57\n00:02:22,190 --> 00:02:24,820\nan adult can sweat more than a litre an hour.\n\n58\n00:02:25,240 --> 00:02:27,540\nSome athletes lose two litres or more.\n\n59\n00:02:27,980 --> 00:02:29,450\nThat's a big bottle of water,\n\n60\n00:02:29,900 --> 00:02:31,640\nleaving your body through your skin.\n\n61\n00:02:32,040 --> 00:02:33,800\nAnd every drop that evaporates\n\n62\n00:02:33,880 --> 00:02:36,400\npulls a surprising amount of heat out with it.\n\n63\n00:02:36,800 --> 00:02:38,420\nSo why does all this matter?\n\n64\n00:02:38,860 --> 00:02:41,910\nBecause sweating is one of humanity's superpowers.\n\n65\n00:02:42,320 --> 00:02:44,890\nMost furry animals cool down by panting.\n\n66\n00:02:45,270 --> 00:02:47,600\nWe cool our whole body surface at once,\n\n67\n00:02:48,080 --> 00:02:50,870\nwhich is part of why humans are so good\n\n68\n00:02:51,110 --> 00:02:52,530\nat long, slow runs in the heat.\n\n69\n00:02:53,000 --> 00:02:55,000\nSo if you're the one dripping at the gym,\n\n70\n00:02:55,350 --> 00:02:56,500\ndon't be embarrassed.\n\n71\n00:02:56,900 --> 00:02:59,950\nYour cooling system might just be top of the line.\n\n72\n00:03:00,300 --> 00:03:03,790\nJust remember to drink water and replace what you lose.\n\n73\n00:03:04,180 --> 00:03:06,540\nNext time, why do you have two nostrils,\n\n74\n00:03:06,630 --> 00:03:09,520\nand why is one of them always more blocked?\n\n",
+      "tg_msg": 1209
     }
   },
   "history": [
@@ -3242,7 +3315,7 @@
   "visual_searches": {
     "2026-10-25": 3
   },
-  "signals_day": "2026-11-22",
+  "signals_day": "2026-11-23",
   "drops_done": {
     "drop/20261025-autumn-leaves": "2026-10-25-101",
     "drop/20261025-roman-hypocaust": "2026-10-25-102",
@@ -3389,7 +3462,9 @@
     "drop/20261122-seahorse-dads": "2026-11-22-103",
     "drop/20261122-stomach": "2026-11-22-104",
     "drop/20261122-bird-windows": "2026-11-22-105",
-    "drop/20261122-arm-hair": "2026-11-23-101"
+    "drop/20261122-arm-hair": "2026-11-23-101",
+    "drop/20261123-toucan-beak": "2026-11-23-102",
+    "drop/20261123-why-some-sweat": "2026-11-23-103"
   },
   "refs_day": "2026-11-23"
 }
