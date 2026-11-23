@@ -1,0 +1,687 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.18,
+  "text": "Why does your arm hair stop growing,",
+  "words": [
+   [
+    "why",
+    0.25
+   ],
+   [
+    "does",
+    0.45
+   ],
+   [
+    "your",
+    0.72
+   ],
+   [
+    "arm",
+    0.98
+   ],
+   [
+    "hair",
+    1.18
+   ],
+   [
+    "stop",
+    1.45
+   ],
+   [
+    "growing",
+    1.71
+   ]
+  ]
+ },
+ {
+  "s": 2.64,
+  "e": 4.91,
+  "text": "but your head hair keeps going for years?",
+  "words": [
+   [
+    "but",
+    2.64
+   ],
+   [
+    "your",
+    2.85
+   ],
+   [
+    "head",
+    3.12
+   ],
+   [
+    "hair",
+    3.4
+   ],
+   [
+    "keeps",
+    3.67
+   ],
+   [
+    "going",
+    4.02
+   ],
+   [
+    "for",
+    4.36
+   ],
+   [
+    "years",
+    4.57
+   ]
+  ]
+ },
+ {
+  "s": 5.36,
+  "e": 8.23,
+  "text": "Every hair grows from a tiny pocket in your skin",
+  "words": [
+   [
+    "every",
+    5.36
+   ],
+   [
+    "hair",
+    5.73
+   ],
+   [
+    "grows",
+    6.02
+   ],
+   [
+    "from",
+    6.39
+   ],
+   [
+    "a",
+    6.69
+   ],
+   [
+    "tiny",
+    6.76
+   ],
+   [
+    "pocket",
+    7.05
+   ],
+   [
+    "in",
+    7.5
+   ],
+   [
+    "your",
+    7.64
+   ],
+   [
+    "skin",
+    7.94
+   ]
+  ]
+ },
+ {
+  "s": 8.44,
+  "e": 9.46,
+  "text": "called a follicle.",
+  "words": [
+   [
+    "called",
+    8.44
+   ],
+   [
+    "a",
+    8.85
+   ],
+   [
+    "follicle",
+    8.92
+   ]
+  ]
+ },
+ {
+  "s": 9.83,
+  "e": 11.97,
+  "text": "And every follicle runs on a loop.",
+  "words": [
+   [
+    "and",
+    9.83
+   ],
+   [
+    "every",
+    10.07
+   ],
+   [
+    "follicle",
+    10.47
+   ],
+   [
+    "runs",
+    11.1
+   ],
+   [
+    "on",
+    11.42
+   ],
+   [
+    "a",
+    11.58
+   ],
+   [
+    "loop",
+    11.65
+   ]
+  ]
+ },
+ {
+  "s": 12.45,
+  "e": 14.25,
+  "text": "Grow. Stop. Rest. Fall out.",
+  "words": [
+   [
+    "grow",
+    12.45
+   ],
+   [
+    "stop",
+    12.83
+   ],
+   [
+    "rest",
+    13.21
+   ],
+   [
+    "fall",
+    13.58
+   ],
+   [
+    "out",
+    13.96
+   ]
+  ]
+ },
+ {
+  "s": 14.67,
+  "e": 16.92,
+  "text": "Then a new hair starts in the same spot.",
+  "words": [
+   [
+    "then",
+    14.67
+   ],
+   [
+    "a",
+    14.96
+   ],
+   [
+    "new",
+    15.03
+   ],
+   [
+    "hair",
+    15.25
+   ],
+   [
+    "starts",
+    15.54
+   ],
+   [
+    "in",
+    15.97
+   ],
+   [
+    "the",
+    16.12
+   ],
+   [
+    "same",
+    16.34
+   ],
+   [
+    "spot",
+    16.63
+   ]
+  ]
+ },
+ {
+  "s": 17.36,
+  "e": 19.94,
+  "text": "The trick is how long the growing part lasts.",
+  "words": [
+   [
+    "the",
+    17.36
+   ],
+   [
+    "trick",
+    17.58
+   ],
+   [
+    "is",
+    17.93
+   ],
+   [
+    "how",
+    18.08
+   ],
+   [
+    "long",
+    18.29
+   ],
+   [
+    "the",
+    18.58
+   ],
+   [
+    "growing",
+    18.79
+   ],
+   [
+    "part",
+    19.29
+   ],
+   [
+    "lasts",
+    19.58
+   ]
+  ]
+ },
+ {
+  "s": 20.3,
+  "e": 22.92,
+  "text": "On your head, it can run two to seven years.",
+  "words": [
+   [
+    "on",
+    20.3
+   ],
+   [
+    "your",
+    20.46
+   ],
+   [
+    "head",
+    20.78
+   ],
+   [
+    "it",
+    21.1
+   ],
+   [
+    "can",
+    21.25
+   ],
+   [
+    "run",
+    21.49
+   ],
+   [
+    "two",
+    21.73
+   ],
+   [
+    "to",
+    21.97
+   ],
+   [
+    "seven",
+    22.13
+   ],
+   [
+    "years",
+    22.52
+   ]
+  ]
+ },
+ {
+  "s": 23.32,
+  "e": 24.9,
+  "text": "At about a centimeter a month,",
+  "words": [
+   [
+    "at",
+    23.32
+   ],
+   [
+    "about",
+    23.45
+   ],
+   [
+    "a",
+    23.78
+   ],
+   [
+    "centimeter",
+    23.84
+   ],
+   [
+    "a",
+    24.5
+   ],
+   [
+    "month",
+    24.57
+   ]
+  ]
+ },
+ {
+  "s": 25.3,
+  "e": 27.23,
+  "text": "that's long enough to reach your waist.",
+  "words": [
+   [
+    "thats",
+    25.3
+   ],
+   [
+    "long",
+    25.61
+   ],
+   [
+    "enough",
+    25.86
+   ],
+   [
+    "to",
+    26.23
+   ],
+   [
+    "reach",
+    26.36
+   ],
+   [
+    "your",
+    26.67
+   ],
+   [
+    "waist",
+    26.92
+   ]
+  ]
+ },
+ {
+  "s": 27.59,
+  "e": 30.06,
+  "text": "On your arms, it lasts just a few months.",
+  "words": [
+   [
+    "on",
+    27.59
+   ],
+   [
+    "your",
+    27.75
+   ],
+   [
+    "arms",
+    28.06
+   ],
+   [
+    "it",
+    28.38
+   ],
+   [
+    "lasts",
+    28.54
+   ],
+   [
+    "just",
+    28.94
+   ],
+   [
+    "a",
+    29.26
+   ],
+   [
+    "few",
+    29.34
+   ],
+   [
+    "months",
+    29.58
+   ]
+  ]
+ },
+ {
+  "s": 30.41,
+  "e": 31.86,
+  "text": "So the hair hits its limit,",
+  "words": [
+   [
+    "so",
+    30.41
+   ],
+   [
+    "the",
+    30.55
+   ],
+   [
+    "hair",
+    30.76
+   ],
+   [
+    "hits",
+    31.03
+   ],
+   [
+    "its",
+    31.31
+   ],
+   [
+    "limit",
+    31.51
+   ]
+  ]
+ },
+ {
+  "s": 32.3,
+  "e": 34.56,
+  "text": "and falls out before it ever gets long.",
+  "words": [
+   [
+    "and",
+    32.3
+   ],
+   [
+    "falls",
+    32.52
+   ],
+   [
+    "out",
+    32.88
+   ],
+   [
+    "before",
+    33.1
+   ],
+   [
+    "it",
+    33.54
+   ],
+   [
+    "ever",
+    33.68
+   ],
+   [
+    "gets",
+    33.98
+   ],
+   [
+    "long",
+    34.27
+   ]
+  ]
+ },
+ {
+  "s": 34.96,
+  "e": 36.58,
+  "text": "Arm hair doesn't grow slower.",
+  "words": [
+   [
+    "arm",
+    34.96
+   ],
+   [
+    "hair",
+    35.17
+   ],
+   [
+    "doesnt",
+    35.45
+   ],
+   [
+    "grow",
+    35.87
+   ],
+   [
+    "slower",
+    36.15
+   ]
+  ]
+ },
+ {
+  "s": 36.96,
+  "e": 38.46,
+  "text": "It just quits way sooner.",
+  "words": [
+   [
+    "it",
+    36.96
+   ],
+   [
+    "just",
+    37.11
+   ],
+   [
+    "quits",
+    37.41
+   ],
+   [
+    "way",
+    37.79
+   ],
+   [
+    "sooner",
+    38.01
+   ]
+  ]
+ },
+ {
+  "s": 38.83,
+  "e": 40.98,
+  "text": "Your eyebrows have a short timer too.",
+  "words": [
+   [
+    "your",
+    38.83
+   ],
+   [
+    "eyebrows",
+    39.12
+   ],
+   [
+    "have",
+    39.69
+   ],
+   [
+    "a",
+    39.98
+   ],
+   [
+    "short",
+    40.05
+   ],
+   [
+    "timer",
+    40.41
+   ],
+   [
+    "too",
+    40.77
+   ]
+  ]
+ },
+ {
+  "s": 41.45,
+  "e": 43.87,
+  "text": "So if your arm hair had a seven year timer,",
+  "words": [
+   [
+    "so",
+    41.45
+   ],
+   [
+    "if",
+    41.6
+   ],
+   [
+    "your",
+    41.75
+   ],
+   [
+    "arm",
+    42.04
+   ],
+   [
+    "hair",
+    42.26
+   ],
+   [
+    "had",
+    42.55
+   ],
+   [
+    "a",
+    42.77
+   ],
+   [
+    "seven",
+    42.85
+   ],
+   [
+    "year",
+    43.21
+   ],
+   [
+    "timer",
+    43.51
+   ]
+  ]
+ },
+ {
+  "s": 44.33,
+  "e": 45.86,
+  "text": "how long would you let it grow?",
+  "words": [
+   [
+    "how",
+    44.33
+   ],
+   [
+    "long",
+    44.52
+   ],
+   [
+    "would",
+    44.78
+   ],
+   [
+    "you",
+    45.09
+   ],
+   [
+    "let",
+    45.28
+   ],
+   [
+    "it",
+    45.47
+   ],
+   [
+    "grow",
+    45.6
+   ]
+  ]
+ }
+]

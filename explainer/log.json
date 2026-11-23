@@ -1789,5 +1789,19 @@
   "hook_score": 57,
   "title_score": 98,
   "notes": "unattended run, no storyboard step; Lemo whiteboard (no engine; whiteboard engine reused from 20261119-apple-float), 9 regions; fixed one mis-snapped phrase time by hand"
+ },
+ {
+  "date": "2026-11-22",
+  "id": "20261122-arm-hair",
+  "kind": "short",
+  "style": "Pictogram Motion",
+  "topic": "Why does your arm hair stay short but your head hair keeps growing?",
+  "title": "Why Doesn't Arm Hair Grow Long? Head Hair Gets 7 Years",
+  "seconds": 46.9,
+  "words": 138,
+  "sheet_id": "S123",
+  "hook_score": 56,
+  "title_score": 98,
+  "notes": "unattended run, no storyboard step; Lemo pictogram-motion, drawing ported into story.js (engine is fixed at 1920x1080), shell copy preloads Inter Tight/DM Mono; Lemo setup.sh not run (sparse clone of the style folder only)"
  }
 ]
