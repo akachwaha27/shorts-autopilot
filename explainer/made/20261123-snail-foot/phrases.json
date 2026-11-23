@@ -1,0 +1,653 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.25,
+  "text": "A snail never lifts its one foot.",
+  "words": [
+   [
+    "a",
+    0.25
+   ],
+   [
+    "snail",
+    0.33
+   ],
+   [
+    "never",
+    0.71
+   ],
+   [
+    "lifts",
+    1.09
+   ],
+   [
+    "its",
+    1.48
+   ],
+   [
+    "one",
+    1.71
+   ],
+   [
+    "foot",
+    1.94
+   ]
+  ]
+ },
+ {
+  "s": 2.62,
+  "e": 4.13,
+  "text": "Can you guess how it moves?",
+  "words": [
+   [
+    "can",
+    2.62
+   ],
+   [
+    "you",
+    2.83
+   ],
+   [
+    "guess",
+    3.05
+   ],
+   [
+    "how",
+    3.41
+   ],
+   [
+    "it",
+    3.62
+   ],
+   [
+    "moves",
+    3.77
+   ]
+  ]
+ },
+ {
+  "s": 4.7,
+  "e": 7.05,
+  "text": "Put a snail on glass and look underneath.",
+  "words": [
+   [
+    "put",
+    4.7
+   ],
+   [
+    "a",
+    4.91
+   ],
+   [
+    "snail",
+    4.98
+   ],
+   [
+    "on",
+    5.34
+   ],
+   [
+    "glass",
+    5.48
+   ],
+   [
+    "and",
+    5.84
+   ],
+   [
+    "look",
+    6.05
+   ],
+   [
+    "underneath",
+    6.34
+   ]
+  ]
+ },
+ {
+  "s": 7.41,
+  "e": 9.45,
+  "text": "Dark stripes ripple along the sole,",
+  "words": [
+   [
+    "dark",
+    7.41
+   ],
+   [
+    "stripes",
+    7.69
+   ],
+   [
+    "ripple",
+    8.18
+   ],
+   [
+    "along",
+    8.61
+   ],
+   [
+    "the",
+    8.96
+   ],
+   [
+    "sole",
+    9.17
+   ]
+  ]
+ },
+ {
+  "s": 9.81,
+  "e": 11.29,
+  "text": "from the tail toward the head.",
+  "words": [
+   [
+    "from",
+    9.81
+   ],
+   [
+    "the",
+    10.06
+   ],
+   [
+    "tail",
+    10.24
+   ],
+   [
+    "toward",
+    10.49
+   ],
+   [
+    "the",
+    10.86
+   ],
+   [
+    "head",
+    11.04
+   ]
+  ]
+ },
+ {
+  "s": 11.71,
+  "e": 13.13,
+  "text": "Those are waves of muscle,",
+  "words": [
+   [
+    "those",
+    11.71
+   ],
+   [
+    "are",
+    12.05
+   ],
+   [
+    "waves",
+    12.25
+   ],
+   [
+    "of",
+    12.59
+   ],
+   [
+    "muscle",
+    12.72
+   ]
+  ]
+ },
+ {
+  "s": 13.47,
+  "e": 15.14,
+  "text": "squeezing and stretching the foot.",
+  "words": [
+   [
+    "squeezing",
+    13.47
+   ],
+   [
+    "and",
+    13.99
+   ],
+   [
+    "stretching",
+    14.16
+   ],
+   [
+    "the",
+    14.74
+   ],
+   [
+    "foot",
+    14.91
+   ]
+  ]
+ },
+ {
+  "s": 15.6,
+  "e": 17.37,
+  "text": "But the real trick is the slime.",
+  "words": [
+   [
+    "but",
+    15.6
+   ],
+   [
+    "the",
+    15.81
+   ],
+   [
+    "real",
+    16.03
+   ],
+   [
+    "trick",
+    16.31
+   ],
+   [
+    "is",
+    16.66
+   ],
+   [
+    "the",
+    16.8
+   ],
+   [
+    "slime",
+    17.02
+   ]
+  ]
+ },
+ {
+  "s": 17.78,
+  "e": 19.92,
+  "text": "Under the still parts of the foot,",
+  "words": [
+   [
+    "under",
+    17.78
+   ],
+   [
+    "the",
+    18.18
+   ],
+   [
+    "still",
+    18.42
+   ],
+   [
+    "parts",
+    18.82
+   ],
+   [
+    "of",
+    19.21
+   ],
+   [
+    "the",
+    19.37
+   ],
+   [
+    "foot",
+    19.61
+   ]
+  ]
+ },
+ {
+  "s": 19.98,
+  "e": 21.44,
+  "text": "it's thick and sticky, like glue.",
+  "words": [
+   [
+    "its",
+    19.98
+   ],
+   [
+    "thick",
+    20.16
+   ],
+   [
+    "and",
+    20.45
+   ],
+   [
+    "sticky",
+    20.63
+   ],
+   [
+    "like",
+    20.97
+   ],
+   [
+    "glue",
+    21.21
+   ]
+  ]
+ },
+ {
+  "s": 21.82,
+  "e": 23.14,
+  "text": "Where a wave pushes on it,",
+  "words": [
+   [
+    "where",
+    21.82
+   ],
+   [
+    "a",
+    22.15
+   ],
+   [
+    "wave",
+    22.21
+   ],
+   [
+    "pushes",
+    22.48
+   ],
+   [
+    "on",
+    22.87
+   ],
+   [
+    "it",
+    23.0
+   ]
+  ]
+ },
+ {
+  "s": 23.49,
+  "e": 25.06,
+  "text": "it turns runny and slippery.",
+  "words": [
+   [
+    "it",
+    23.49
+   ],
+   [
+    "turns",
+    23.62
+   ],
+   [
+    "runny",
+    23.97
+   ],
+   [
+    "and",
+    24.31
+   ],
+   [
+    "slippery",
+    24.51
+   ]
+  ]
+ },
+ {
+  "s": 25.42,
+  "e": 27.72,
+  "text": "So each wave slides forward on liquid,",
+  "words": [
+   [
+    "so",
+    25.42
+   ],
+   [
+    "each",
+    25.57
+   ],
+   [
+    "wave",
+    25.86
+   ],
+   [
+    "slides",
+    26.16
+   ],
+   [
+    "forward",
+    26.61
+   ],
+   [
+    "on",
+    27.12
+   ],
+   [
+    "liquid",
+    27.27
+   ]
+  ]
+ },
+ {
+  "s": 28.16,
+  "e": 29.85,
+  "text": "while the rest stays stuck down.",
+  "words": [
+   [
+    "while",
+    28.16
+   ],
+   [
+    "the",
+    28.48
+   ],
+   [
+    "rest",
+    28.68
+   ],
+   [
+    "stays",
+    28.94
+   ],
+   [
+    "stuck",
+    29.26
+   ],
+   [
+    "down",
+    29.59
+   ]
+  ]
+ },
+ {
+  "s": 30.32,
+  "e": 31.9,
+  "text": "Glue, slide, glue, slide.",
+  "words": [
+   [
+    "glue",
+    30.32
+   ],
+   [
+    "slide",
+    30.67
+   ],
+   [
+    "glue",
+    31.11
+   ],
+   [
+    "slide",
+    31.46
+   ]
+  ]
+ },
+ {
+  "s": 32.18,
+  "e": 34.79,
+  "text": "That grip lets a snail climb straight up a stem,",
+  "words": [
+   [
+    "that",
+    32.18
+   ],
+   [
+    "grip",
+    32.45
+   ],
+   [
+    "lets",
+    32.73
+   ],
+   [
+    "a",
+    33.0
+   ],
+   [
+    "snail",
+    33.07
+   ],
+   [
+    "climb",
+    33.41
+   ],
+   [
+    "straight",
+    33.76
+   ],
+   [
+    "up",
+    34.31
+   ],
+   [
+    "a",
+    34.44
+   ],
+   [
+    "stem",
+    34.51
+   ]
+  ]
+ },
+ {
+  "s": 35.24,
+  "e": 36.56,
+  "text": "or hang under a leaf.",
+  "words": [
+   [
+    "or",
+    35.24
+   ],
+   [
+    "hang",
+    35.4
+   ],
+   [
+    "under",
+    35.73
+   ],
+   [
+    "a",
+    36.14
+   ],
+   [
+    "leaf",
+    36.23
+   ]
+  ]
+ },
+ {
+  "s": 36.99,
+  "e": 38.27,
+  "text": "The catch? It's slow.",
+  "words": [
+   [
+    "the",
+    36.99
+   ],
+   [
+    "catch",
+    37.25
+   ],
+   [
+    "its",
+    37.67
+   ],
+   [
+    "slow",
+    37.93
+   ]
+  ]
+ },
+ {
+  "s": 38.65,
+  "e": 40.66,
+  "text": "Roughly one millimetre a second.",
+  "words": [
+   [
+    "roughly",
+    38.65
+   ],
+   [
+    "one",
+    39.17
+   ],
+   [
+    "millimetre",
+    39.4
+   ],
+   [
+    "a",
+    40.14
+   ],
+   [
+    "second",
+    40.21
+   ]
+  ]
+ },
+ {
+  "s": 41.1,
+  "e": 42.51,
+  "text": "So would you trade your two feet",
+  "words": [
+   [
+    "so",
+    41.1
+   ],
+   [
+    "would",
+    41.21
+   ],
+   [
+    "you",
+    41.48
+   ],
+   [
+    "trade",
+    41.64
+   ],
+   [
+    "your",
+    41.91
+   ],
+   [
+    "two",
+    42.13
+   ],
+   [
+    "feet",
+    42.29
+   ]
+  ]
+ },
+ {
+  "s": 42.59,
+  "e": 43.78,
+  "text": "for one slimy one?",
+  "words": [
+   [
+    "for",
+    42.59
+   ],
+   [
+    "one",
+    42.85
+   ],
+   [
+    "slimy",
+    43.1
+   ],
+   [
+    "one",
+    43.53
+   ]
+  ]
+ }
+]

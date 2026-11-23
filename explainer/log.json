@@ -1841,5 +1841,19 @@
   "hook_score": 42,
   "title_score": 98,
   "notes": "unattended run, no storyboard step; Lemo brick-toy (no engine, three.js demo not used; brick helpers ported from 20261121-goat-pupils); Lemo setup.sh not run (sparse clone of the style folder only)"
+ },
+ {
+  "date": "2026-11-23",
+  "id": "20261123-snail-foot",
+  "kind": "short",
+  "style": "Kawaii Anime",
+  "topic": "How does a snail crawl on just one foot?",
+  "title": "How Does a Snail Move on Just 1 Foot? 🐌",
+  "seconds": 44.8,
+  "words": 126,
+  "sheet_id": "S126",
+  "hook_score": 51,
+  "title_score": 100,
+  "notes": "unattended run, no storyboard step; kana sound words swapped for English (no JP glyph font in render); helpers reused from 20261122-kangaroo-hop; added trend rows S128-S129"
  }
 ]
