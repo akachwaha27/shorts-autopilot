@@ -3083,6 +3083,76 @@
       },
       "uploaded_at": "2026-11-22T22:46:27.141195+00:00",
       "slot": "2026-11-25T00:15:00+00:00"
+    },
+    "2026-11-23-101": {
+      "topic": {
+        "title": "Why does your arm hair stay short but your head hair keeps growing?",
+        "format": "animated",
+        "angle": "Pictogram Motion"
+      },
+      "package": {
+        "title": "Why Doesn't Arm Hair Grow Long? Head Hair Gets 7 Years",
+        "description": "Why does arm hair stay short while the hair on your head keeps growing? Every hair follicle has a growing phase of a set length: two to seven years on the scalp, but only a few months on the arms, so arm hair falls out before it gets long.\n\nSources:\nhttps://www.sciencefocus.com/the-human-body/how-your-hairs-growth-cycle-impacts-its-length\nhttps://www.howstuffworks.com/question100.htm\nhttps://pubmed.ncbi.nlm.nih.gov/24385126/\n\nAnimated in the Pictogram Motion style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#science",
+          "#humanbody",
+          "#facts"
+        ],
+        "tags": [
+          "why does arm hair stay short",
+          "arm hair vs head hair",
+          "hair growth cycle",
+          "anagen phase",
+          "hair follicle",
+          "why does hair stop growing",
+          "how hair grows",
+          "body hair",
+          "eyebrow hair",
+          "human body facts",
+          "science explained",
+          "biology for kids",
+          "pictogram animation",
+          "weird body facts"
+        ],
+        "category": "27",
+        "pinned_comment": "If your arm hair grew for 7 years, how long would you let it get before cutting it?",
+        "thumbnail_text": "WHY SO SHORT?",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "Why does your arm hair stop growing,\nbut your head hair keeps going for years?\nEvery hair grows from a tiny pocket in your skin\ncalled a follicle.\nAnd every follicle runs on a loop.\nGrow. Stop. Rest. Fall out.\nThen a new hair starts in the same spot.\nThe trick is how long the growing part lasts.\nOn your head, it can run two to seven years.\nAt about a centimeter a month,\nthat's long enough to reach your waist.\nOn your arms, it lasts just a few months.\nSo the hair hits its limit,\nand falls out before it ever gets long.\nArm hair doesn't grow slower.\nIt just quits way sooner.\nYour eyebrows have a short timer too.\nSo if your arm hair had a seven year timer,\nhow long would you let it grow?",
+        "key_facts": [
+          "Scalp hair's growing (anagen) phase lasts about two to seven years, varying between people (BBC Science Focus)",
+          "Arm and leg hair's anagen phase lasts only a few months; arm hair follicles stop growing every couple of months (Science Focus; HowStuffWorks)",
+          "After anagen comes catagen and telogen; the hair falls out and a new one grows in the same follicle (Science Focus; HowStuffWorks)",
+          "Hair grows roughly half an inch (about 1 to 1.25 cm) a month, a commonly cited dermatology figure",
+          "Eyebrow hairs also have a short growth phase (Biology of eyebrow hair, PubMed 24385126)"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Pictogram Motion"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261122-arm-hair",
+      "redos": 0,
+      "updated": "2026-11-23T03:31:17.517692+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Pictogram Motion style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-23",
+        "name": "2026-11-23-101.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-23",
+        "name": "2026-11-23-101-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:02,180\nWhy does your arm hair stop growing,\n\n2\n00:00:02,640 --> 00:00:04,910\nbut your head hair keeps going for years?\n\n3\n00:00:05,360 --> 00:00:08,230\nEvery hair grows from a tiny pocket in your skin\n\n4\n00:00:08,440 --> 00:00:09,460\ncalled a follicle.\n\n5\n00:00:09,830 --> 00:00:11,970\nAnd every follicle runs on a loop.\n\n6\n00:00:12,450 --> 00:00:14,250\nGrow. Stop. Rest. Fall out.\n\n7\n00:00:14,670 --> 00:00:16,920\nThen a new hair starts in the same spot.\n\n8\n00:00:17,360 --> 00:00:19,940\nThe trick is how long the growing part lasts.\n\n9\n00:00:20,300 --> 00:00:22,920\nOn your head, it can run two to seven years.\n\n10\n00:00:23,320 --> 00:00:24,900\nAt about a centimeter a month,\n\n11\n00:00:25,300 --> 00:00:27,230\nthat's long enough to reach your waist.\n\n12\n00:00:27,590 --> 00:00:30,060\nOn your arms, it lasts just a few months.\n\n13\n00:00:30,410 --> 00:00:31,860\nSo the hair hits its limit,\n\n14\n00:00:32,300 --> 00:00:34,560\nand falls out before it ever gets long.\n\n15\n00:00:34,960 --> 00:00:36,580\nArm hair doesn't grow slower.\n\n16\n00:00:36,960 --> 00:00:38,460\nIt just quits way sooner.\n\n17\n00:00:38,830 --> 00:00:40,980\nYour eyebrows have a short timer too.\n\n18\n00:00:41,450 --> 00:00:43,870\nSo if your arm hair had a seven year timer,\n\n19\n00:00:44,330 --> 00:00:45,860\nhow long would you let it grow?\n\n",
+      "tg_msg": 1207
     }
   },
   "history": [
@@ -3161,7 +3231,7 @@
       "at": "2026-10-25T17:40:17.371797+00:00"
     }
   },
-  "cleanup_day": "2026-11-22",
+  "cleanup_day": "2026-11-23",
   "recent_voices": [
     "en-AU-WilliamMultilingualNeural",
     "en-US-EmmaMultilingualNeural",
@@ -3318,7 +3388,8 @@
     "drop/20261122-kangaroo-hop": "2026-11-22-102",
     "drop/20261122-seahorse-dads": "2026-11-22-103",
     "drop/20261122-stomach": "2026-11-22-104",
-    "drop/20261122-bird-windows": "2026-11-22-105"
+    "drop/20261122-bird-windows": "2026-11-22-105",
+    "drop/20261122-arm-hair": "2026-11-23-101"
   },
-  "refs_day": "2026-11-22"
+  "refs_day": "2026-11-23"
 }
