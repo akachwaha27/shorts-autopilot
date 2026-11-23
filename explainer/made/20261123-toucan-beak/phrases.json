@@ -1,0 +1,685 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.87,
+  "text": "A toucan's beak is secretly a radiator.",
+  "words": [
+   [
+    "a",
+    0.25
+   ],
+   [
+    "toucans",
+    0.33
+   ],
+   [
+    "beak",
+    0.92
+   ],
+   [
+    "is",
+    1.26
+   ],
+   [
+    "secretly",
+    1.43
+   ],
+   [
+    "a",
+    2.11
+   ],
+   [
+    "radiator",
+    2.19
+   ]
+  ]
+ },
+ {
+  "s": 3.27,
+  "e": 4.96,
+  "text": "Here's why you never noticed.",
+  "words": [
+   [
+    "heres",
+    3.27
+   ],
+   [
+    "why",
+    3.64
+   ],
+   [
+    "you",
+    3.86
+   ],
+   [
+    "never",
+    4.08
+   ],
+   [
+    "noticed",
+    4.45
+   ]
+  ]
+ },
+ {
+  "s": 5.32,
+  "e": 8.04,
+  "text": "That giant bill is a third of the bird's length,",
+  "words": [
+   [
+    "that",
+    5.32
+   ],
+   [
+    "giant",
+    5.61
+   ],
+   [
+    "bill",
+    5.98
+   ],
+   [
+    "is",
+    6.27
+   ],
+   [
+    "a",
+    6.42
+   ],
+   [
+    "third",
+    6.49
+   ],
+   [
+    "of",
+    6.86
+   ],
+   [
+    "the",
+    7.01
+   ],
+   [
+    "birds",
+    7.23
+   ],
+   [
+    "length",
+    7.6
+   ]
+  ]
+ },
+ {
+  "s": 8.49,
+  "e": 10.51,
+  "text": "but barely a twentieth of its weight.",
+  "words": [
+   [
+    "but",
+    8.49
+   ],
+   [
+    "barely",
+    8.69
+   ],
+   [
+    "a",
+    9.09
+   ],
+   [
+    "twentieth",
+    9.16
+   ],
+   [
+    "of",
+    9.77
+   ],
+   [
+    "its",
+    9.9
+   ],
+   [
+    "weight",
+    10.1
+   ]
+  ]
+ },
+ {
+  "s": 10.93,
+  "e": 12.1,
+  "text": "It's mostly air.",
+  "words": [
+   [
+    "its",
+    10.93
+   ],
+   [
+    "mostly",
+    11.23
+   ],
+   [
+    "air",
+    11.81
+   ]
+  ]
+ },
+ {
+  "s": 12.44,
+  "e": 15.48,
+  "text": "Thin sheets of keratin, the stuff in your nails,",
+  "words": [
+   [
+    "thin",
+    12.44
+   ],
+   [
+    "sheets",
+    12.76
+   ],
+   [
+    "of",
+    13.24
+   ],
+   [
+    "keratin",
+    13.4
+   ],
+   [
+    "the",
+    13.96
+   ],
+   [
+    "stuff",
+    14.2
+   ],
+   [
+    "in",
+    14.6
+   ],
+   [
+    "your",
+    14.76
+   ],
+   [
+    "nails",
+    15.08
+   ]
+  ]
+ },
+ {
+  "s": 15.55,
+  "e": 17.58,
+  "text": "wrap a foam of tiny bone struts.",
+  "words": [
+   [
+    "wrap",
+    15.55
+   ],
+   [
+    "a",
+    15.87
+   ],
+   [
+    "foam",
+    15.96
+   ],
+   [
+    "of",
+    16.28
+   ],
+   [
+    "tiny",
+    16.44
+   ],
+   [
+    "bone",
+    16.77
+   ],
+   [
+    "struts",
+    17.09
+   ]
+  ]
+ },
+ {
+  "s": 18.04,
+  "e": 19.29,
+  "text": "Now the clever part.",
+  "words": [
+   [
+    "now",
+    18.04
+   ],
+   [
+    "the",
+    18.27
+   ],
+   [
+    "clever",
+    18.51
+   ],
+   [
+    "part",
+    18.98
+   ]
+  ]
+ },
+ {
+  "s": 19.69,
+  "e": 22.53,
+  "text": "Under that shell runs a web of blood vessels.",
+  "words": [
+   [
+    "under",
+    19.69
+   ],
+   [
+    "that",
+    20.08
+   ],
+   [
+    "shell",
+    20.4
+   ],
+   [
+    "runs",
+    20.8
+   ],
+   [
+    "a",
+    21.11
+   ],
+   [
+    "web",
+    21.19
+   ],
+   [
+    "of",
+    21.43
+   ],
+   [
+    "blood",
+    21.59
+   ],
+   [
+    "vessels",
+    21.98
+   ]
+  ]
+ },
+ {
+  "s": 23.0,
+  "e": 24.25,
+  "text": "When the toucan gets hot,",
+  "words": [
+   [
+    "when",
+    23.0
+   ],
+   [
+    "the",
+    23.25
+   ],
+   [
+    "toucan",
+    23.43
+   ],
+   [
+    "gets",
+    23.81
+   ],
+   [
+    "hot",
+    24.06
+   ]
+  ]
+ },
+ {
+  "s": 24.71,
+  "e": 26.64,
+  "text": "it pumps warm blood into the beak,",
+  "words": [
+   [
+    "it",
+    24.71
+   ],
+   [
+    "pumps",
+    24.85
+   ],
+   [
+    "warm",
+    25.21
+   ],
+   [
+    "blood",
+    25.49
+   ],
+   [
+    "into",
+    25.85
+   ],
+   [
+    "the",
+    26.13
+   ],
+   [
+    "beak",
+    26.35
+   ]
+  ]
+ },
+ {
+  "s": 26.76,
+  "e": 29.11,
+  "text": "and the heat pours out into the air.",
+  "words": [
+   [
+    "and",
+    26.76
+   ],
+   [
+    "the",
+    27.01
+   ],
+   [
+    "heat",
+    27.26
+   ],
+   [
+    "pours",
+    27.6
+   ],
+   [
+    "out",
+    28.02
+   ],
+   [
+    "into",
+    28.27
+   ],
+   [
+    "the",
+    28.6
+   ],
+   [
+    "air",
+    28.86
+   ]
+  ]
+ },
+ {
+  "s": 29.48,
+  "e": 31.51,
+  "text": "Scientists filmed it with a heat camera",
+  "words": [
+   [
+    "scientists",
+    29.48
+   ],
+   [
+    "filmed",
+    30.09
+   ],
+   [
+    "it",
+    30.46
+   ],
+   [
+    "with",
+    30.59
+   ],
+   [
+    "a",
+    30.83
+   ],
+   [
+    "heat",
+    30.89
+   ],
+   [
+    "camera",
+    31.14
+   ]
+  ]
+ },
+ {
+  "s": 31.89,
+  "e": 33.45,
+  "text": "and watched the beak light up.",
+  "words": [
+   [
+    "and",
+    31.89
+   ],
+   [
+    "watched",
+    32.08
+   ],
+   [
+    "the",
+    32.54
+   ],
+   [
+    "beak",
+    32.74
+   ],
+   [
+    "light",
+    33.0
+   ],
+   [
+    "up",
+    33.32
+   ]
+  ]
+ },
+ {
+  "s": 33.85,
+  "e": 36.57,
+  "text": "When it's chilly, it shuts the flow off",
+  "words": [
+   [
+    "when",
+    33.85
+   ],
+   [
+    "its",
+    34.21
+   ],
+   [
+    "chilly",
+    34.49
+   ],
+   [
+    "it",
+    35.03
+   ],
+   [
+    "shuts",
+    35.21
+   ],
+   [
+    "the",
+    35.66
+   ],
+   [
+    "flow",
+    35.94
+   ],
+   [
+    "off",
+    36.3
+   ]
+  ]
+ },
+ {
+  "s": 36.67,
+  "e": 37.53,
+  "text": "and keeps that heat inside.",
+  "words": [
+   [
+    "and",
+    36.67
+   ],
+   [
+    "keeps",
+    36.79
+   ],
+   [
+    "that",
+    36.98
+   ],
+   [
+    "heat",
+    37.14
+   ],
+   [
+    "inside",
+    37.29
+   ]
+  ]
+ },
+ {
+  "s": 37.97,
+  "e": 38.99,
+  "text": "For short bursts,",
+  "words": [
+   [
+    "for",
+    37.97
+   ],
+   [
+    "short",
+    38.18
+   ],
+   [
+    "bursts",
+    38.55
+   ]
+  ]
+ },
+ {
+  "s": 39.37,
+  "e": 40.21,
+  "text": "almost all the heat it loses",
+  "words": [
+   [
+    "almost",
+    39.37
+   ],
+   [
+    "all",
+    39.59
+   ],
+   [
+    "the",
+    39.7
+   ],
+   [
+    "heat",
+    39.8
+   ],
+   [
+    "it",
+    39.95
+   ],
+   [
+    "loses",
+    40.02
+   ]
+  ]
+ },
+ {
+  "s": 40.28,
+  "e": 42.56,
+  "text": "goes out through that beak.",
+  "words": [
+   [
+    "goes",
+    40.28
+   ],
+   [
+    "out",
+    40.69
+   ],
+   [
+    "through",
+    41.0
+   ],
+   [
+    "that",
+    41.73
+   ],
+   [
+    "beak",
+    42.15
+   ]
+  ]
+ },
+ {
+  "s": 42.96,
+  "e": 45.14,
+  "text": "Be honest, would you trade your nose",
+  "words": [
+   [
+    "be",
+    42.96
+   ],
+   [
+    "honest",
+    43.11
+   ],
+   [
+    "would",
+    43.56
+   ],
+   [
+    "you",
+    43.94
+   ],
+   [
+    "trade",
+    44.16
+   ],
+   [
+    "your",
+    44.54
+   ],
+   [
+    "nose",
+    44.84
+   ]
+  ]
+ },
+ {
+  "s": 45.14,
+  "e": 46.8,
+  "text": "for a radiator on your face?",
+  "words": [
+   [
+    "for",
+    45.14
+   ],
+   [
+    "a",
+    45.37
+   ],
+   [
+    "radiator",
+    45.45
+   ],
+   [
+    "on",
+    46.05
+   ],
+   [
+    "your",
+    46.2
+   ],
+   [
+    "face",
+    46.5
+   ]
+  ]
+ }
+]

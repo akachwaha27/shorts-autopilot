@@ -1803,5 +1803,17 @@
   "hook_score": 56,
   "title_score": 98,
   "notes": "unattended run, no storyboard step; Lemo pictogram-motion, drawing ported into story.js (engine is fixed at 1920x1080), shell copy preloads Inter Tight/DM Mono; Lemo setup.sh not run (sparse clone of the style folder only)"
+ },
+ {
+  "date": "2026-11-23",
+  "id": "20261123-toucan-beak",
+  "kind": "short",
+  "style": "Isometric Infographic",
+  "topic": "Why is a toucan's beak so huge?",
+  "title": "Toucan Beaks Are Radiators: 1/20 of the Bird's Weight 🦜",
+  "seconds": 47.8,
+  "words": 134,
+  "sheet_id": "S124",
+  "notes": "unattended run, no storyboard step; Lemo iso-infographic engine"
  }
 ]
