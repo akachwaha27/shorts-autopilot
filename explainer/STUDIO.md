@@ -122,6 +122,22 @@ numbers as said. Hook first (<3 s, the question itself), the key number spoken, 
 comment question that loops back to the hook. Save `script.txt` with one phrase per line (split at commas/colons
 where a narrator breathes; a phrase is 3-12 words).
 
+### 2b. Proven-recipe check (every run, added Nov 24 at Ashu's request)
+Before recording, load the **yt-viral** and **yt-shorts** skills with the Skill tool and check the script and
+packaging against what is actually winning. Don't skip this because `trend_rows_ready` is already 3.
+- Run the swipe (the command in step 1) and read only YOUR format's outliers (Shorts for a short run). Write down
+  the ONE structural thing the top 5 share: title shape, title length, whether a number or emoji shows up, and the
+  kind of question. Then compare with Zorbly's own top 10 by views in `archive/videos.json` (`youtube_stats.views`,
+  public videos only). Copy the shared title shape, never the subject.
+- yt-shorts rules for the script: the first line must make sense with no context, there is a turn (a claim, then
+  something that complicates it), the video ends on a line and not a trail-off, and the last line sets up a loop back
+  to the first. On-screen text for the first 2 seconds uses DIFFERENT words from the spoken hook (say the stakes or
+  the number, not the same sentence).
+- Description: the first 2 sentences hold the exact question people search for, plus the main keyword. Hashtags:
+  `#shorts` plus 3 topic tags that the channel's best performers use (check them in archive/videos.json).
+- Put a `recipe` field in meta.json and in the log row: one line on the pattern you copied and where it came from
+  (for example "MinuteEarth Shorts 7.2x: plain 'Why do X?' 5-6 words, no number").
+
 ## 3. Voiceover (free, offline)
 ```bash
 W=/home/claude/xwork/<id>   # <id> = YYYYMMDD-<slug>, e.g. 20261026-roman-hypocaust
