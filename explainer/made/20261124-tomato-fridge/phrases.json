@@ -1,0 +1,693 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.81,
+  "text": "Your fridge is killing your tomatoes' flavor.",
+  "words": [
+   [
+    "your",
+    0.25
+   ],
+   [
+    "fridge",
+    0.53
+   ],
+   [
+    "is",
+    0.94
+   ],
+   [
+    "killing",
+    1.08
+   ],
+   [
+    "your",
+    1.56
+   ],
+   [
+    "tomatoes",
+    1.84
+   ],
+   [
+    "flavor",
+    2.39
+   ]
+  ]
+ },
+ {
+  "s": 3.18,
+  "e": 4.97,
+  "text": "Most people never notice why.",
+  "words": [
+   [
+    "most",
+    3.18
+   ],
+   [
+    "people",
+    3.48
+   ],
+   [
+    "never",
+    3.93
+   ],
+   [
+    "notice",
+    4.3
+   ],
+   [
+    "why",
+    4.75
+   ]
+  ]
+ },
+ {
+  "s": 5.33,
+  "e": 8.2,
+  "text": "A ripe tomato's taste isn't just sweet and sour.",
+  "words": [
+   [
+    "a",
+    5.33
+   ],
+   [
+    "ripe",
+    5.41
+   ],
+   [
+    "tomatos",
+    5.72
+   ],
+   [
+    "taste",
+    6.26
+   ],
+   [
+    "isnt",
+    6.65
+   ],
+   [
+    "just",
+    6.96
+   ],
+   [
+    "sweet",
+    7.27
+   ],
+   [
+    "and",
+    7.66
+   ],
+   [
+    "sour",
+    7.89
+   ]
+  ]
+ },
+ {
+  "s": 8.58,
+  "e": 11.05,
+  "text": "It's hundreds of tiny smell molecules,",
+  "words": [
+   [
+    "its",
+    8.58
+   ],
+   [
+    "hundreds",
+    8.82
+   ],
+   [
+    "of",
+    9.46
+   ],
+   [
+    "tiny",
+    9.62
+   ],
+   [
+    "smell",
+    9.94
+   ],
+   [
+    "molecules",
+    10.34
+   ]
+  ]
+ },
+ {
+  "s": 11.14,
+  "e": 13.72,
+  "text": "and your nose does most of the tasting.",
+  "words": [
+   [
+    "and",
+    11.14
+   ],
+   [
+    "your",
+    11.39
+   ],
+   [
+    "nose",
+    11.72
+   ],
+   [
+    "does",
+    12.06
+   ],
+   [
+    "most",
+    12.39
+   ],
+   [
+    "of",
+    12.72
+   ],
+   [
+    "the",
+    12.89
+   ],
+   [
+    "tasting",
+    13.14
+   ]
+  ]
+ },
+ {
+  "s": 14.18,
+  "e": 16.76,
+  "text": "Those smells are made by genes inside the fruit,",
+  "words": [
+   [
+    "those",
+    14.18
+   ],
+   [
+    "smells",
+    14.51
+   ],
+   [
+    "are",
+    14.91
+   ],
+   [
+    "made",
+    15.11
+   ],
+   [
+    "by",
+    15.37
+   ],
+   [
+    "genes",
+    15.5
+   ],
+   [
+    "inside",
+    15.83
+   ],
+   [
+    "the",
+    16.23
+   ],
+   [
+    "fruit",
+    16.43
+   ]
+  ]
+ },
+ {
+  "s": 17.3,
+  "e": 19.46,
+  "text": "switched on while it sits somewhere warm.",
+  "words": [
+   [
+    "switched",
+    17.3
+   ],
+   [
+    "on",
+    17.81
+   ],
+   [
+    "while",
+    17.93
+   ],
+   [
+    "it",
+    18.25
+   ],
+   [
+    "sits",
+    18.38
+   ],
+   [
+    "somewhere",
+    18.63
+   ],
+   [
+    "warm",
+    19.2
+   ]
+  ]
+ },
+ {
+  "s": 19.84,
+  "e": 21.64,
+  "text": "But scientists kept tomatoes",
+  "words": [
+   [
+    "but",
+    19.84
+   ],
+   [
+    "scientists",
+    20.06
+   ],
+   [
+    "kept",
+    20.78
+   ],
+   [
+    "tomatoes",
+    21.07
+   ]
+  ]
+ },
+ {
+  "s": 21.79,
+  "e": 23.6,
+  "text": "at five degrees Celsius for a week.",
+  "words": [
+   [
+    "at",
+    21.79
+   ],
+   [
+    "five",
+    21.92
+   ],
+   [
+    "degrees",
+    22.18
+   ],
+   [
+    "celsius",
+    22.63
+   ],
+   [
+    "for",
+    23.08
+   ],
+   [
+    "a",
+    23.28
+   ],
+   [
+    "week",
+    23.34
+   ]
+  ]
+ },
+ {
+  "s": 24.02,
+  "e": 26.2,
+  "text": "The cold turned those genes way down.",
+  "words": [
+   [
+    "the",
+    24.02
+   ],
+   [
+    "cold",
+    24.23
+   ],
+   [
+    "turned",
+    24.53
+   ],
+   [
+    "those",
+    24.96
+   ],
+   [
+    "genes",
+    25.33
+   ],
+   [
+    "way",
+    25.69
+   ],
+   [
+    "down",
+    25.91
+   ]
+  ]
+ },
+ {
+  "s": 26.62,
+  "e": 28.31,
+  "text": "The smell molecules dropped",
+  "words": [
+   [
+    "the",
+    26.62
+   ],
+   [
+    "smell",
+    26.83
+   ],
+   [
+    "molecules",
+    27.19
+   ],
+   [
+    "dropped",
+    27.82
+   ]
+  ]
+ },
+ {
+  "s": 28.38,
+  "e": 29.99,
+  "text": "by up to sixty-five percent!",
+  "words": [
+   [
+    "by",
+    28.38
+   ],
+   [
+    "up",
+    28.53
+   ],
+   [
+    "to",
+    28.67
+   ],
+   [
+    "sixtyfive",
+    28.82
+   ],
+   [
+    "percent",
+    29.48
+   ]
+  ]
+ },
+ {
+  "s": 30.45,
+  "e": 32.71,
+  "text": "The sugar and acid didn't change at all.",
+  "words": [
+   [
+    "the",
+    30.45
+   ],
+   [
+    "sugar",
+    30.67
+   ],
+   [
+    "and",
+    31.03
+   ],
+   [
+    "acid",
+    31.25
+   ],
+   [
+    "didnt",
+    31.54
+   ],
+   [
+    "change",
+    31.91
+   ],
+   [
+    "at",
+    32.34
+   ],
+   [
+    "all",
+    32.49
+   ]
+  ]
+ },
+ {
+  "s": 33.13,
+  "e": 34.05,
+  "text": "So it's still sweet,",
+  "words": [
+   [
+    "so",
+    33.13
+   ],
+   [
+    "its",
+    33.25
+   ],
+   [
+    "still",
+    33.43
+   ],
+   [
+    "sweet",
+    33.74
+   ]
+  ]
+ },
+ {
+  "s": 34.35,
+  "e": 36.1,
+  "text": "but it tastes like wet cardboard.",
+  "words": [
+   [
+    "but",
+    34.35
+   ],
+   [
+    "it",
+    34.54
+   ],
+   [
+    "tastes",
+    34.67
+   ],
+   [
+    "like",
+    35.06
+   ],
+   [
+    "wet",
+    35.32
+   ],
+   [
+    "cardboard",
+    35.51
+   ]
+  ]
+ },
+ {
+  "s": 36.5,
+  "e": 39.25,
+  "text": "Seventy-six taste testers noticed right away.",
+  "words": [
+   [
+    "seventysix",
+    36.5
+   ],
+   [
+    "taste",
+    37.22
+   ],
+   [
+    "testers",
+    37.58
+   ],
+   [
+    "noticed",
+    38.09
+   ],
+   [
+    "right",
+    38.6
+   ],
+   [
+    "away",
+    38.96
+   ]
+  ]
+ },
+ {
+  "s": 39.7,
+  "e": 41.28,
+  "text": "And a week in the cold",
+  "words": [
+   [
+    "and",
+    39.7
+   ],
+   [
+    "a",
+    39.98
+   ],
+   [
+    "week",
+    40.07
+   ],
+   [
+    "in",
+    40.45
+   ],
+   [
+    "the",
+    40.63
+   ],
+   [
+    "cold",
+    40.91
+   ]
+  ]
+ },
+ {
+  "s": 41.53,
+  "e": 43.58,
+  "text": "leaves marks on the fruit's DNA switches,",
+  "words": [
+   [
+    "leaves",
+    41.53
+   ],
+   [
+    "marks",
+    41.9
+   ],
+   [
+    "on",
+    42.21
+   ],
+   [
+    "the",
+    42.34
+   ],
+   [
+    "fruits",
+    42.53
+   ],
+   [
+    "dna",
+    42.9
+   ],
+   [
+    "switches",
+    43.08
+   ]
+  ]
+ },
+ {
+  "s": 44.03,
+  "e": 46.23,
+  "text": "so warming it back up barely helps.",
+  "words": [
+   [
+    "so",
+    44.03
+   ],
+   [
+    "warming",
+    44.19
+   ],
+   [
+    "it",
+    44.74
+   ],
+   [
+    "back",
+    44.9
+   ],
+   [
+    "up",
+    45.21
+   ],
+   [
+    "barely",
+    45.37
+   ],
+   [
+    "helps",
+    45.84
+   ]
+  ]
+ },
+ {
+  "s": 46.69,
+  "e": 48.93,
+  "text": "Keep ripe ones on the counter instead.",
+  "words": [
+   [
+    "keep",
+    46.69
+   ],
+   [
+    "ripe",
+    46.98
+   ],
+   [
+    "ones",
+    47.27
+   ],
+   [
+    "on",
+    47.56
+   ],
+   [
+    "the",
+    47.7
+   ],
+   [
+    "counter",
+    47.92
+   ],
+   [
+    "instead",
+    48.42
+   ]
+  ]
+ },
+ {
+  "s": 49.33,
+  "e": 51.53,
+  "text": "So, where are your tomatoes right now?",
+  "words": [
+   [
+    "so",
+    49.33
+   ],
+   [
+    "where",
+    49.47
+   ],
+   [
+    "are",
+    49.84
+   ],
+   [
+    "your",
+    50.06
+   ],
+   [
+    "tomatoes",
+    50.36
+   ],
+   [
+    "right",
+    50.94
+   ],
+   [
+    "now",
+    51.31
+   ]
+  ]
+ }
+]
