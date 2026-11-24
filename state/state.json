@@ -378,297 +378,6 @@
     }
   },
   "videos": {
-    "2026-11-17-104": {
-      "topic": {
-        "title": "Why do giraffes sleep only about half an hour a day?",
-        "format": "long",
-        "angle": "Copperplate Engraving"
-      },
-      "package": {
-        "title": "Giraffes Dream 8 Minutes a Night. So How Do They Survive?",
-        "description": "Why do giraffes sleep so little? A study that put motion sensors on wild giraffes in Namibia found they rest for hours each night, but their deepest, dreaming sleep adds up to only about eight minutes, taken lying down with the neck curled back and the head on the rump.\n\nSources:\nhttps://www.frontiersin.org/journals/mammal-science/articles/10.3389/fmamm.2023.1243883/full\nhttps://pubmed.ncbi.nlm.nih.gov/8795798/\nhttps://blog.londolozi.com/2017/07/17/how-long-do-giraffes-sleep/\n\nAnimated in the Copperplate Engraving style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#",
-          "g",
-          "i",
-          "r",
-          "a",
-          "f",
-          "f",
-          "e",
-          " ",
-          "#",
-          "a",
-          "n",
-          "i",
-          "m",
-          "a",
-          "l",
-          "f",
-          "a",
-          "c",
-          "t",
-          "s",
-          " ",
-          "#",
-          "s",
-          "c",
-          "i",
-          "e",
-          "n",
-          "c",
-          "e"
-        ],
-        "tags": [
-          "giraffe",
-          "how do giraffes sleep",
-          "giraffe sleep",
-          "giraffes sleep standing up",
-          "rem sleep",
-          "animal sleep",
-          "why do giraffes sleep so little",
-          "giraffe facts",
-          "animal facts",
-          "chewing the cud",
-          "savanna animals",
-          "sleep science",
-          "nature explained",
-          "zorbly ai"
-        ],
-        "category": "27",
-        "pinned_comment": "A giraffe gets about eight minutes of dream sleep a night. How many minutes do you think you'd last on that?",
-        "thumbnail_text": "RUMP PILLOW",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "Giraffes dream for about eight minutes a night. You'd beat that before your first snooze. And yet the tallest animal on Earth seems totally fine. So how does a giraffe get by on so little sleep? And why does it sleep in such a weird way? Chapter one. The tallest short sleeper. You'll often hear that giraffes sleep about thirty minutes a day. But the truth is a little more interesting. In Namibia, scientists fitted three wild giraffes with tiny motion sensors, clipped onto the little horns on their heads. For months, they logged every move, all night long. The giraffes were resting for around eight hours a night. But the deepest kind of sleep, the kind where you dream, added up to only about eight minutes. Usually in two short bursts. Chapter two. Sleeping on your feet. So what are giraffes doing the rest of the time? Mostly, they doze standing up. Eyes half open, ears still twitching, for just a few minutes at a time. If a lion creeps closer, a standing giraffe can run right away. Lying down is a whole different story. Chapter three. The neck problem. Picture folding a five-metre animal onto the ground. First the front knees bend, then the back legs fold, Getting back up means rocking that long neck to swing its weight, and pushing up one end at a time. It only takes a few seconds. But with a lion nearby, a few seconds is a very long time. So why lie down at all? Because dreaming sleep relaxes the muscles. A giraffe can't hold up its heavy neck while it dreams. So it curls its neck right back, like a swan, and rests its head on its own rump. A pillow it never has to pack. Chapter four. When and where. There are two favourite times for a snooze. A few hours after sunset, around nine to eleven, and again before sunrise, around three to five in the morning. Giraffes pick resting spots with a clear view, often in a small group, where more eyes can spot trouble. And there's one more thing stealing their sleep. Lunch. Giraffes eat leaves, and leaves are tough. So like cows, they chew their food twice. They bring it back up and chew it again, as cud. But a giraffe can't drift into deep sleep while it's chewing. Chapter five. Why so little? Big plant-eaters tend to sleep much less than meat-eaters. A lion can fill up on one meal and nap for most of the day. A giraffe has to keep eating for a big part of every day, and stay alert to the animals that want to eat it. So it sleeps in tiny slices, and only lets its guard down for a few minutes of dreams. And honestly, that's kind of genius. In zoos, where nothing hunts them, giraffes lie down for much more of the night. So the short sleep isn't a flaw. It's a survival plan, built for the open plains. So next time you hit snooze, think of the giraffe, dreaming for eight minutes, with its head on its own rump. Next time, why do some people get way more freckles than others?",
-        "key_facts": [
-          "Dierkes et al. 2023 (Front. Mammal Sci.): 3 wild Angolan giraffes, Okapuka Ranch near Windhoek, Namibia; accelerometer+GPS on an ossicone, 1 reading/min, 19:00-07:00",
-          "inactive ~491 min (~8 h) per night; REM sleep posture ~8.6 min per night in ~2 events",
-          "sleep peaks 21:00-23:00 and 03:00-05:00 (biphasic)",
-          "REM posture: lying, neck arched back, head resting on flank/rump",
-          "ruminants re-chew cud; no deep sleep while ruminating (Londolozi)",
-          "zoo giraffes lie down a larger share of the night (Burger et al. 2020, cited in Dierkes 2023)",
-          "herbivores sleep less per day than carnivores"
-        ],
-        "voice": "Kokoro",
-        "format": "long",
-        "style": "Copperplate Engraving"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261117-giraffe-sleep",
-      "redos": 0,
-      "updated": "2026-11-17T22:25:54.609729+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Copperplate Engraving style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-17",
-        "name": "2026-11-17-104.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-17",
-        "name": "2026-11-17-104-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:02,510\nGiraffes dream for about eight minutes a night.\n\n2\n00:00:02,940 --> 00:00:04,700\nYou'd beat that before your first snooze.\n\n3\n00:00:05,150 --> 00:00:08,220\nAnd yet the tallest animal on Earth seems totally fine.\n\n4\n00:00:08,610 --> 00:00:11,010\nSo how does a giraffe get by on so little sleep?\n\n5\n00:00:11,460 --> 00:00:13,500\nAnd why does it sleep in such a weird way?\n\n6\n00:00:14,020 --> 00:00:16,180\nChapter one. The tallest short sleeper.\n\n7\n00:00:16,550 --> 00:00:19,690\nYou'll often hear that giraffes sleep about thirty minutes a day.\n\n8\n00:00:20,160 --> 00:00:22,210\nBut the truth is a little more interesting.\n\n9\n00:00:22,620 --> 00:00:25,870\nIn Namibia, scientists fitted three wild giraffes\n\n10\n00:00:25,980 --> 00:00:27,320\nwith tiny motion sensors,\n\n11\n00:00:27,760 --> 00:00:29,620\nclipped onto the little horns on their heads.\n\n12\n00:00:29,960 --> 00:00:31,760\nFor months, they logged every move,\n\n13\n00:00:31,920 --> 00:00:32,630\nall night long.\n\n14\n00:00:33,110 --> 00:00:35,750\nThe giraffes were resting for around eight hours a night.\n\n15\n00:00:36,160 --> 00:00:38,790\nBut the deepest kind of sleep, the kind where you dream,\n\n16\n00:00:39,110 --> 00:00:40,990\nadded up to only about eight minutes.\n\n17\n00:00:41,430 --> 00:00:43,040\nUsually in two short bursts.\n\n18\n00:00:43,520 --> 00:00:45,460\nChapter two. Sleeping on your feet.\n\n19\n00:00:45,930 --> 00:00:48,200\nSo what are giraffes doing the rest of the time?\n\n20\n00:00:48,740 --> 00:00:50,550\nMostly, they doze standing up.\n\n21\n00:00:50,910 --> 00:00:53,250\nEyes half open, ears still twitching,\n\n22\n00:00:53,550 --> 00:00:55,000\nfor just a few minutes at a time.\n\n23\n00:00:55,440 --> 00:00:56,890\nIf a lion creeps closer,\n\n24\n00:00:57,270 --> 00:00:59,320\na standing giraffe can run right away.\n\n25\n00:00:59,670 --> 00:01:01,790\nLying down is a whole different story.\n\n26\n00:01:02,260 --> 00:01:04,000\nChapter three. The neck problem.\n\n27\n00:01:04,350 --> 00:01:07,360\nPicture folding a five-metre animal onto the ground.\n\n28\n00:01:07,750 --> 00:01:10,780\nFirst the front knees bend, then the back legs fold,\n\n29\n00:01:11,120 --> 00:01:13,310\nGetting back up means rocking that long neck\n\n30\n00:01:13,390 --> 00:01:14,240\nto swing its weight,\n\n31\n00:01:14,610 --> 00:01:16,270\nand pushing up one end at a time.\n\n32\n00:01:16,630 --> 00:01:18,240\nIt only takes a few seconds.\n\n33\n00:01:18,620 --> 00:01:22,030\nBut with a lion nearby, a few seconds is a very long time.\n\n34\n00:01:22,450 --> 00:01:23,800\nSo why lie down at all?\n\n35\n00:01:24,340 --> 00:01:26,660\nBecause dreaming sleep relaxes the muscles.\n\n36\n00:01:27,080 --> 00:01:29,850\nA giraffe can't hold up its heavy neck while it dreams.\n\n37\n00:01:30,270 --> 00:01:32,980\nSo it curls its neck right back, like a swan,\n\n38\n00:01:33,270 --> 00:01:34,870\nand rests its head on its own rump.\n\n39\n00:01:35,270 --> 00:01:36,890\nA pillow it never has to pack.\n\n40\n00:01:37,300 --> 00:01:38,940\nChapter four. When and where.\n\n41\n00:01:39,340 --> 00:01:41,330\nThere are two favourite times for a snooze.\n\n42\n00:01:41,780 --> 00:01:44,790\nA few hours after sunset, around nine to eleven,\n\n43\n00:01:45,150 --> 00:01:48,340\nand again before sunrise, around three to five in the morning.\n\n44\n00:01:48,740 --> 00:01:50,120\nGiraffes pick resting spots\n\n45\n00:01:50,180 --> 00:01:51,340\nwith a clear view,\n\n46\n00:01:51,660 --> 00:01:54,740\noften in a small group, where more eyes can spot trouble.\n\n47\n00:01:55,140 --> 00:01:57,930\nAnd there's one more thing stealing their sleep. Lunch.\n\n48\n00:01:58,390 --> 00:02:00,640\nGiraffes eat leaves, and leaves are tough.\n\n49\n00:02:01,050 --> 00:02:03,220\nSo like cows, they chew their food twice.\n\n50\n00:02:03,650 --> 00:02:05,960\nThey bring it back up and chew it again, as cud.\n\n51\n00:02:06,420 --> 00:02:09,290\nBut a giraffe can't drift into deep sleep while it's chewing.\n\n52\n00:02:09,640 --> 00:02:11,320\nChapter five. Why so little?\n\n53\n00:02:11,840 --> 00:02:14,970\nBig plant-eaters tend to sleep much less than meat-eaters.\n\n54\n00:02:15,420 --> 00:02:18,730\nA lion can fill up on one meal and nap for most of the day.\n\n55\n00:02:19,140 --> 00:02:22,340\nA giraffe has to keep eating for a big part of every day,\n\n56\n00:02:22,760 --> 00:02:25,060\nand stay alert to the animals that want to eat it.\n\n57\n00:02:25,540 --> 00:02:27,380\nSo it sleeps in tiny slices,\n\n58\n00:02:27,780 --> 00:02:30,660\nand only lets its guard down for a few minutes of dreams.\n\n59\n00:02:31,070 --> 00:02:33,120\nAnd honestly, that's kind of genius.\n\n60\n00:02:33,530 --> 00:02:35,280\nIn zoos, where nothing hunts them,\n\n61\n00:02:35,680 --> 00:02:37,830\ngiraffes lie down for much more of the night.\n\n62\n00:02:38,190 --> 00:02:39,880\nSo the short sleep isn't a flaw.\n\n63\n00:02:40,280 --> 00:02:43,050\nIt's a survival plan, built for the open plains.\n\n64\n00:02:43,430 --> 00:02:44,980\nSo next time you hit snooze,\n\n65\n00:02:45,230 --> 00:02:46,140\nthink of the giraffe,\n\n66\n00:02:46,420 --> 00:02:49,200\ndreaming for eight minutes, with its head on its own rump.\n\n67\n00:02:49,630 --> 00:02:53,130\nNext time, why do some people get way more freckles than others?\n\n",
-      "tg_msg": 1151,
-      "approved_by": "auto",
-      "description_full": "Why do giraffes sleep so little? A study that put motion sensors on wild giraffes in Namibia found they rest for hours each night, but their deepest, dreaming sleep adds up to only about eight minutes, taken lying down with the neck curled back and the head on the rump.\n\nSources:\nhttps://www.frontiersin.org/journals/mammal-science/articles/10.3389/fmamm.2023.1243883/full\nhttps://pubmed.ncbi.nlm.nih.gov/8795798/\nhttps://blog.londolozi.com/2017/07/17/how-long-do-giraffes-sleep/\n\nAnimated in the Copperplate Engraving style.\n\nFollow Zorbly AI for a new Short every day.\n\n# g i r a\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Copperplate Engraving style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/k_jtCESm8fI",
-          "private \u00b7 thumbnail \u2705"
-        ]
-      },
-      "uploaded_at": "2026-11-17T22:25:54.609746+00:00",
-      "slot": "2026-11-18T17:15:00+00:00"
-    },
-    "2026-11-17-105": {
-      "topic": {
-        "title": "Why don't spiders stick to their own webs?",
-        "format": "animated",
-        "angle": "Watercolor Brush"
-      },
-      "package": {
-        "title": "Spiders Touch Glue 1,000 Times a Web. Why No Sticking?",
-        "description": "Why don't spiders stick to their own webs? Only the capture spiral is sticky, and the spider's branching leg hairs, non-stick leg coating and careful footwork keep it from getting stuck.\n\nSources:\nhttps://smithsonianscience.org/2012/03/fancy-footwork-and-non-stick-leg-coating-helps-spiders-not-stick-to-their-own-webs/\nhttps://phys.org/news/2012-03-spiders-sticky-web-sites.html\nhttps://science.howstuffworks.com/environmental/life/zoology/insects-arachnids/spider5.htm\n\nAnimated in the Watercolor Brush style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#spiders",
-          "#science",
-          "#animalfacts"
-        ],
-        "tags": [
-          "spiders",
-          "spider web",
-          "why don't spiders stick to their webs",
-          "orb weaver",
-          "spider silk",
-          "animal facts",
-          "science explained",
-          "nature facts",
-          "how spiders work",
-          "spider legs",
-          "zorbly ai",
-          "explainer",
-          "animated science"
-        ],
-        "category": "27",
-        "pinned_comment": "Would a spider get stuck in ANOTHER spider's web? Guess before you look it up!",
-        "thumbnail_text": "NON-STICK FEET",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "Touch a spider web and you'll stick.\nSo how does the spider touch its glue 1,000 times a web?\nFirst, not every thread is sticky.\nThe spokes and the frame are dry silk.\nOnly the spiral is beaded with tiny glue drops,\nso the spider walks on the spokes.\nBut while building,\nit still bumps the glue hundreds to thousands of times.\nThe real secret is in its legs.\nThey're covered in tiny branching hairs.\nA glue drop only touches a few hair tips,\nand slides right off.\nThe legs also have a non-stick coating.\nWhen scientists washed it off,\nthe legs suddenly stuck way harder.\nAnd the spider moves carefully,\npeeling each foot away at just the right angle.\nDry spokes, hairy feet, and a built-in non-stick layer.\nHonestly, that's kind of genius.\nIf a spider walked onto another spider's web,\nwould it get stuck?",
-        "key_facts": [
-          "Orb webs have dry radial spokes and frame threads; only the capture spiral carries glue droplets",
-          "Orb weavers push against sticky lines hundreds to thousands of times while building one web (Briceno & Eberhard 2012)",
-          "Spider legs are covered in branching hairs that limit contact with glue",
-          "A non-stick chemical coating protects the legs: legs washed with hexane stuck more",
-          "Careful leg movements minimise adhesive forces"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Watercolor Brush"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261117-spider-web",
-      "redos": 0,
-      "updated": "2026-11-18T01:51:53.725345+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Watercolor Brush style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-17",
-        "name": "2026-11-17-105.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-17",
-        "name": "2026-11-17-105-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:02,130\nTouch a spider web and you'll stick.\n\n2\n00:00:02,470 --> 00:00:06,040\nSo how does the spider touch its glue 1,000 times a web?\n\n3\n00:00:06,520 --> 00:00:08,440\nFirst, not every thread is sticky.\n\n4\n00:00:08,800 --> 00:00:10,980\nThe spokes and the frame are dry silk.\n\n5\n00:00:11,460 --> 00:00:14,590\nOnly the spiral is beaded with tiny glue drops,\n\n6\n00:00:15,020 --> 00:00:17,090\nso the spider walks on the spokes.\n\n7\n00:00:17,520 --> 00:00:18,400\nBut while building,\n\n8\n00:00:18,820 --> 00:00:21,910\nit still bumps the glue hundreds to thousands of times.\n\n9\n00:00:22,390 --> 00:00:24,400\nThe real secret is in its legs.\n\n10\n00:00:24,850 --> 00:00:27,070\nThey're covered in tiny branching hairs.\n\n11\n00:00:27,540 --> 00:00:29,870\nA glue drop only touches a few hair tips,\n\n12\n00:00:30,200 --> 00:00:31,550\nand slides right off.\n\n13\n00:00:31,950 --> 00:00:34,290\nThe legs also have a non-stick coating.\n\n14\n00:00:34,640 --> 00:00:36,130\nWhen scientists washed it off,\n\n15\n00:00:36,530 --> 00:00:38,520\nthe legs suddenly stuck way harder.\n\n16\n00:00:38,950 --> 00:00:40,480\nAnd the spider moves carefully,\n\n17\n00:00:40,980 --> 00:00:43,590\npeeling each foot away at just the right angle.\n\n18\n00:00:44,010 --> 00:00:47,490\nDry spokes, hairy feet, and a built-in non-stick layer.\n\n19\n00:00:47,830 --> 00:00:49,750\nHonestly, that's kind of genius.\n\n20\n00:00:50,190 --> 00:00:52,770\nIf a spider walked onto another spider's web,\n\n21\n00:00:53,120 --> 00:00:53,970\nwould it get stuck?\n\n",
-      "tg_msg": 1153,
-      "approved_by": "auto",
-      "description_full": "Why don't spiders stick to their own webs? Only the capture spiral is sticky, and the spider's branching leg hairs, non-stick leg coating and careful footwork keep it from getting stuck.\n\nSources:\nhttps://smithsonianscience.org/2012/03/fancy-footwork-and-non-stick-leg-coating-helps-spiders-not-stick-to-their-own-webs/\nhttps://phys.org/news/2012-03-spiders-sticky-web-sites.html\nhttps://science.howstuffworks.com/environmental/life/zoology/insects-arachnids/spider5.htm\n\nAnimated in the Watercolor Brush style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #spiders #science #animalfacts\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Watercolor Brush style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/arD0uYGnMPU",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-11-18T01:51:53.725363+00:00",
-      "slot": "2026-11-18T20:15:00+00:00"
-    },
-    "2026-11-18-101": {
-      "topic": {
-        "title": "Why do shrimp turn pink when you cook them?",
-        "format": "animated",
-        "angle": "Flat-Vector Science"
-      },
-      "package": {
-        "title": "Shrimp Hide Red Pigment. 2 Minutes of Heat Reveals It \ud83e\udd90",
-        "description": "Why do shrimp turn pink when you cook them? Raw shrimp look blue-gray because a protein twists their red pigment, astaxanthin, and heat unravels that protein so the pink shows, the same pigment that colors salmon and flamingos.\n\nSources:\nhttps://www.howitworksdaily.com/why-do-shrimp-turn-pink-when-they-are-cooked/\nhttps://www.chm.bris.ac.uk/motm/astaxanthin/astaxanthinh.htm\nhttps://asc-aqua.org/blog/how-does-salmon-get-its-colour\n\nAnimated in the Flat-Vector Science style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#shrimp",
-          "#foodscience",
-          "#science"
-        ],
-        "tags": [
-          "why do shrimp turn pink",
-          "shrimp turn pink when cooked",
-          "astaxanthin",
-          "food science",
-          "cooking science",
-          "why is cooked shrimp pink",
-          "raw shrimp color",
-          "lobster turns red",
-          "why are flamingos pink",
-          "why is salmon pink",
-          "crustacyanin",
-          "science explained",
-          "animated explainer",
-          "zorbly ai"
-        ],
-        "category": "27",
-        "pinned_comment": "Be honest: did you think raw shrimp were already pink? \ud83e\udd90",
-        "thumbnail_text": "HIDDEN PINK",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "Your shrimp was blue-gray two minutes ago.\nWhy is it pink now?\nThe pink was there the whole time.\nShrimp eat tiny algae\npacked with a red pigment called astaxanthin.\nBut inside a living shrimp,\na protein grabs that pigment\nand twists it out of shape.\nAnd a twisted pigment looks blue-gray, not red.\nNow add heat.\nThe protein unravels and lets go,\nand the pigment snaps back to its true color.\nPink!\nLobsters and crabs do the exact same thing.\nAnd that same pigment is why salmon are pink,\nand it helps paint flamingos pink too.\nThey all get it from what they eat.\nSo the color wasn't made in the pan.\nIt was just hiding.\nBe honest, did you think raw shrimp were pink?\n",
-        "key_facts": [
-          "Shrimp get the red pigment astaxanthin from the algae (and tiny organisms) they eat",
-          "In a living shrimp, a protein (crustacyanin) binds and twists astaxanthin so it looks blue-gray",
-          "Heat denatures the protein, freeing astaxanthin, which shows its natural red-orange color",
-          "Lobsters and crabs change color the same way",
-          "Astaxanthin is what makes salmon flesh pink and helps color flamingos, all from their diet"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Flat-Vector Science"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261118-shrimp-pink",
-      "redos": 0,
-      "updated": "2026-11-18T09:45:31.291275+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-18",
-        "name": "2026-11-18-101.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-18",
-        "name": "2026-11-18-101-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:02,530\nYour shrimp was blue-gray two minutes ago.\n\n2\n00:00:02,980 --> 00:00:04,350\nWhy is it pink now?\n\n3\n00:00:04,890 --> 00:00:06,710\nThe pink was there the whole time.\n\n4\n00:00:07,060 --> 00:00:08,680\nShrimp eat tiny algae\n\n5\n00:00:08,770 --> 00:00:11,330\npacked with a red pigment called astaxanthin.\n\n6\n00:00:11,750 --> 00:00:13,060\nBut inside a living shrimp,\n\n7\n00:00:13,540 --> 00:00:14,800\na protein grabs that pigment\n\n8\n00:00:14,910 --> 00:00:16,660\nand twists it out of shape.\n\n9\n00:00:17,090 --> 00:00:19,970\nAnd a twisted pigment looks blue-gray, not red.\n\n10\n00:00:20,410 --> 00:00:21,440\nNow add heat.\n\n11\n00:00:21,730 --> 00:00:23,960\nThe protein unravels and lets go,\n\n12\n00:00:24,490 --> 00:00:26,840\nand the pigment snaps back to its true color.\n\n13\n00:00:27,210 --> 00:00:27,790\nPink!\n\n14\n00:00:28,140 --> 00:00:30,860\nLobsters and crabs do the exact same thing.\n\n15\n00:00:31,260 --> 00:00:33,650\nAnd that same pigment is why salmon are pink,\n\n16\n00:00:34,190 --> 00:00:36,400\nand it helps paint flamingos pink too.\n\n17\n00:00:36,840 --> 00:00:38,620\nThey all get it from what they eat.\n\n18\n00:00:38,970 --> 00:00:40,910\nSo the color wasn't made in the pan.\n\n19\n00:00:41,330 --> 00:00:42,530\nIt was just hiding.\n\n20\n00:00:42,910 --> 00:00:45,350\nBe honest, did you think raw shrimp were pink?\n\n",
-      "tg_msg": 1156,
-      "approved_by": "auto",
-      "description_full": "Why do shrimp turn pink when you cook them? Raw shrimp look blue-gray because a protein twists their red pigment, astaxanthin, and heat unravels that protein so the pink shows, the same pigment that colors salmon and flamingos.\n\nSources:\nhttps://www.howitworksdaily.com/why-do-shrimp-turn-pink-when-they-are-cooked/\nhttps://www.chm.bris.ac.uk/motm/astaxanthin/astaxanthinh.htm\nhttps://asc-aqua.org/blog/how-does-salmon-get-its-colour\n\nAnimated in the Flat-Vector Science style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #shrimp #foodscience #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/h7i9BVf_kZI",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-11-18T09:45:31.291295+00:00",
-      "slot": "2026-11-19T00:15:00+00:00"
-    },
     "2026-11-18-102": {
       "topic": {
         "title": "Why do some people get way more freckles than others?",
@@ -3125,12 +2834,12 @@
         "format": "animated",
         "style": "Brick Toy"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261123-egg-hen",
       "redos": 0,
-      "updated": "2026-11-24T01:12:10.981825+00:00",
+      "updated": "2026-11-24T11:05:25.058600+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Brick Toy style). Voice: Kokoro text-to-speech."
       ],
@@ -3145,7 +2854,29 @@
         "name": "2026-11-24-101-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:02,880\nA hen sits on her eggs for 21 days,\n\n2\n00:00:03,260 --> 00:00:04,280\nand they don't crack.\n\n3\n00:00:04,740 --> 00:00:06,680\nSo how does a tiny chick break out?\n\n4\n00:00:07,190 --> 00:00:08,440\nIt's all about the shape.\n\n5\n00:00:08,890 --> 00:00:11,250\nAn egg is a dome, like a stone arch.\n\n6\n00:00:11,670 --> 00:00:12,900\nPush on the outside,\n\n7\n00:00:13,180 --> 00:00:15,220\nand the force spreads across the whole shell,\n\n8\n00:00:15,700 --> 00:00:17,920\nso no single spot takes the load.\n\n9\n00:00:18,300 --> 00:00:19,530\nSqueezed end to end,\n\n10\n00:00:19,910 --> 00:00:22,080\nan egg can hold about three kilos.\n\n11\n00:00:22,460 --> 00:00:25,920\nPlus the hen's weight is shared by the nest and the other eggs.\n\n12\n00:00:26,320 --> 00:00:28,450\nFrom the inside, it's a different story.\n\n13\n00:00:28,870 --> 00:00:30,680\nThe chick pecks one tiny spot,\n\n14\n00:00:31,170 --> 00:00:33,830\nand a dome is weak against a push from inside.\n\n15\n00:00:34,290 --> 00:00:35,640\nHere's the clever part.\n\n16\n00:00:35,930 --> 00:00:39,070\nThe chick pulls calcium from the shell to build its bones,\n\n17\n00:00:39,520 --> 00:00:41,660\nso the shell gets thinner as it grows.\n\n18\n00:00:42,000 --> 00:00:43,880\nStrong outside, weak inside.\n\n19\n00:00:44,170 --> 00:00:46,810\nSo could you crack an egg squeezing it end to end?\n\n",
-      "tg_msg": 1211
+      "tg_msg": 1211,
+      "approved_by": "auto",
+      "description_full": "Why doesn't an egg crack when a hen sits on it? The egg's dome shape spreads outside pressure across the whole shell, so an egg squeezed end to end can hold about 3 kg, while a chick pecking one spot from the inside, and pulling calcium from the shell as it grows, breaks out easily.\n\nSources:\nhttps://www.scienceworld.ca/resource/unsqueezable-egg/\nhttps://scienceinsights.org/how-much-force-does-it-take-to-break-an-egg/\nhttps://www.sciencebuddies.org/stem-activities/eggshells-strength\n\nAnimated in the Brick Toy style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #eggs #sciencefacts #chickens\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Brick Toy style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/xvtUrMRhmzs",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-24T11:05:25.058618+00:00",
+      "slot": "2026-11-26T00:15:00+00:00"
     },
     "2026-11-24-102": {
       "topic": {
@@ -3193,12 +2924,12 @@
         "format": "animated",
         "style": "Kawaii Anime"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261123-snail-foot",
       "redos": 0,
-      "updated": "2026-11-24T01:12:22.118341+00:00",
+      "updated": "2026-11-24T11:05:28.883896+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech."
       ],
@@ -3213,7 +2944,29 @@
         "name": "2026-11-24-102-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:02,250\nA snail never lifts its one foot.\n\n2\n00:00:02,620 --> 00:00:04,130\nCan you guess how it moves?\n\n3\n00:00:04,700 --> 00:00:07,050\nPut a snail on glass and look underneath.\n\n4\n00:00:07,410 --> 00:00:09,450\nDark stripes ripple along the sole,\n\n5\n00:00:09,810 --> 00:00:11,290\nfrom the tail toward the head.\n\n6\n00:00:11,710 --> 00:00:13,130\nThose are waves of muscle,\n\n7\n00:00:13,470 --> 00:00:15,140\nsqueezing and stretching the foot.\n\n8\n00:00:15,600 --> 00:00:17,370\nBut the real trick is the slime.\n\n9\n00:00:17,780 --> 00:00:19,920\nUnder the still parts of the foot,\n\n10\n00:00:19,980 --> 00:00:21,440\nit's thick and sticky, like glue.\n\n11\n00:00:21,820 --> 00:00:23,140\nWhere a wave pushes on it,\n\n12\n00:00:23,490 --> 00:00:25,060\nit turns runny and slippery.\n\n13\n00:00:25,420 --> 00:00:27,720\nSo each wave slides forward on liquid,\n\n14\n00:00:28,160 --> 00:00:29,850\nwhile the rest stays stuck down.\n\n15\n00:00:30,320 --> 00:00:31,900\nGlue, slide, glue, slide.\n\n16\n00:00:32,180 --> 00:00:34,790\nThat grip lets a snail climb straight up a stem,\n\n17\n00:00:35,240 --> 00:00:36,560\nor hang under a leaf.\n\n18\n00:00:36,990 --> 00:00:38,270\nThe catch? It's slow.\n\n19\n00:00:38,650 --> 00:00:40,660\nRoughly one millimetre a second.\n\n20\n00:00:41,100 --> 00:00:42,510\nSo would you trade your two feet\n\n21\n00:00:42,590 --> 00:00:43,780\nfor one slimy one?\n\n",
-      "tg_msg": 1212
+      "tg_msg": 1212,
+      "approved_by": "auto",
+      "description_full": "How do snails move on one foot? Waves of muscle ripple along a snail's foot while its slime acts as glue under the still parts and turns runny where a wave pushes, so the snail slides forward at roughly a millimetre a second.\n\nSources:\nhttps://www.nature.com/articles/285160a0\nhttps://www.popsci.com/environment/why-snail-slug-slow/\nhttps://scienceinsights.org/how-fast-can-a-snail-travel-the-science-explained/\n\nAnimated in the Kawaii Anime style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #snail #animalfacts #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/0HZ1metkgig",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-24T11:05:28.883915+00:00",
+      "slot": "2026-11-26T02:15:00+00:00"
     },
     "2026-11-24-103": {
       "topic": {
@@ -3261,12 +3014,12 @@
         "format": "animated",
         "style": "One-line Drawing"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261123-squirrel-nuts",
       "redos": 0,
-      "updated": "2026-11-24T01:12:29.934009+00:00",
+      "updated": "2026-11-24T11:05:33.328045+00:00",
       "credits": [
         "Animation: code-drawn in Claude (One-line Drawing style). Voice: Kokoro text-to-speech."
       ],
@@ -3281,7 +3034,97 @@
         "name": "2026-11-24-103-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:03,460\nYour backyard squirrel buries 3,000 nuts a year.\n\n2\n00:00:03,860 --> 00:00:05,120\nHow does it find them?\n\n3\n00:00:05,610 --> 00:00:07,690\nEach one goes in its own little hole.\n\n4\n00:00:08,100 --> 00:00:09,570\nMostly, it remembers.\n\n5\n00:00:09,960 --> 00:00:11,400\nIt builds a map in its head,\n\n6\n00:00:11,750 --> 00:00:13,570\na tree, a rock, a fence post,\n\n7\n00:00:13,630 --> 00:00:16,620\nand that map can last up to two months.\n\n8\n00:00:17,090 --> 00:00:19,180\nThen its nose finds the exact spot.\n\n9\n00:00:19,650 --> 00:00:21,640\nBut what if another squirrel is watching?\n\n10\n00:00:22,190 --> 00:00:23,030\nIt fakes it.\n\n11\n00:00:23,420 --> 00:00:25,630\nIt digs a hole, pretends to drop the nut,\n\n12\n00:00:25,730 --> 00:00:28,560\nand sneaks off with it still in its mouth.\n\n13\n00:00:29,020 --> 00:00:30,030\nSneaky, right?\n\n14\n00:00:30,520 --> 00:00:32,470\nStill, some nuts never get dug up.\n\n15\n00:00:32,920 --> 00:00:34,050\nThe squirrel moves on,\n\n16\n00:00:34,380 --> 00:00:35,920\nor it just has plenty to eat.\n\n17\n00:00:36,280 --> 00:00:38,730\nAnd that forgotten nut is already planted.\n\n18\n00:00:39,150 --> 00:00:40,540\nCome spring, it sprouts.\n\n19\n00:00:40,880 --> 00:00:42,450\nSo some trees around you\n\n20\n00:00:42,510 --> 00:00:44,470\nwere planted by a squirrel that forgot.\n\n21\n00:00:44,940 --> 00:00:46,890\nWhich tree near you did a squirrel plant?\n\n",
-      "tg_msg": 1213
+      "tg_msg": 1213,
+      "approved_by": "auto",
+      "description_full": "A squirrel can bury around 3,000 nuts in one season, and it finds most of them again using a memory map of landmarks plus its sense of smell. The nuts it never digs up are already planted, which is how squirrels help new trees grow.\n\nSources:\nhttps://www.popsci.com/science/how-squirrels-find-nuts/\nhttps://www.reconnectwithnature.org/headlines/news/nature-curiosity-why-do-squirrels-bury-nuts\nhttps://www.livescience.com/64104-how-do-squirrels-find-buried-nuts.html\n\nAnimated in the One-line Drawing style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #squirrels #animalfacts #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (One-line Drawing style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/A2Jnn2NopRM",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-24T11:05:33.328064+00:00",
+      "slot": "2026-11-26T17:15:00+00:00"
+    },
+    "2026-11-24-104": {
+      "topic": {
+        "title": "Why do earthworms come up when it rains?",
+        "format": "animated",
+        "angle": "Claymation Set"
+      },
+      "package": {
+        "title": "Why Do Worms Come Out When It Rains? 2 Theories \ud83e\udeb1",
+        "description": "Why do earthworms come out when it rains if they don't drown? Worms breathe through their wet skin and can survive days underwater, so scientists think rain vibrations or an easy chance to travel far on wet ground bring them up.\n\nSources:\nhttps://www.scientificamerican.com/article/why-earthworms-surface-after-rain/\nhttps://blog.nature.org/2019/04/15/the-real-reason-you-see-earthworms-after-rain\nhttps://www.earthwormsoc.org.uk/node/60\n\nAnimated in the Claymation Set style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#earthworms",
+          "#animalfacts",
+          "#science"
+        ],
+        "tags": [
+          "earthworms",
+          "why do worms come out when it rains",
+          "worms after rain",
+          "earthworm facts",
+          "do worms drown",
+          "how do worms breathe",
+          "worm migration",
+          "animal facts",
+          "nature facts",
+          "science for kids",
+          "claymation",
+          "explainer",
+          "zorbly ai"
+        ],
+        "category": "27",
+        "pinned_comment": "Be honest: do you move stranded sidewalk worms back to the grass, or leave them? \ud83e\udeb1",
+        "thumbnail_text": "NOT DROWNING",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "That worm on your sidewalk isn't drowning.\nSo why did it crawl out?\nWe're told rain floods their tunnels.\nBut a worm doesn't have lungs.\nIt breathes through its skin,\nand that skin has to stay wet.\nScientists have kept worms underwater for days,\nand they just keep wiggling.\nSo what's going on?\nOne idea is drumming.\nRaindrops tap the ground like a digging mole,\nand worms escape moles by heading up.\nBut lots of experts doubt it.\nThe favorite theory is simpler.\nUnderground, a worm squeezes through dirt bit by bit.\nOn wet ground it slides fast and far,\nto find food, a new home, or a mate.\nDry ground would dry out its skin,\nso rain is the perfect chance.\nBasically, a worm highway.\nSo next time you spot one,\nis it escaping a flood,\nor going on a road trip?",
+        "key_facts": [
+          "Earthworms have no lungs and breathe through their skin, which must stay moist (Scientific American, Earthworm Society)",
+          "Earthworms can survive several days fully submerged; many species two weeks or more (Scientific American; The Nature Conservancy)",
+          "Rain vibrations resembling digging moles is one theory, but it has never been shown in lab tests and many experts doubt it (The Nature Conservancy, Live Science)",
+          "The theory with the most evidence: wet ground lets worms travel faster and farther on the surface to find food, new habitat or mates (Earthworm Society; Scientific American)"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Claymation Set"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261124-worms-rain",
+      "redos": 0,
+      "updated": "2026-11-24T11:05:09.448698+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Claymation Set style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-24",
+        "name": "2026-11-24-104.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-24",
+        "name": "2026-11-24-104-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:02,530\nThat worm on your sidewalk isn't drowning.\n\n2\n00:00:02,890 --> 00:00:04,250\nSo why did it crawl out?\n\n3\n00:00:04,760 --> 00:00:06,810\nWe're told rain floods their tunnels.\n\n4\n00:00:07,150 --> 00:00:08,820\nBut a worm doesn't have lungs.\n\n5\n00:00:09,210 --> 00:00:10,570\nIt breathes through its skin,\n\n6\n00:00:10,940 --> 00:00:12,620\nand that skin has to stay wet.\n\n7\n00:00:13,080 --> 00:00:15,710\nScientists have kept worms underwater for days,\n\n8\n00:00:15,820 --> 00:00:17,530\nand they just keep wiggling.\n\n9\n00:00:17,920 --> 00:00:19,110\nSo what's going on?\n\n10\n00:00:19,560 --> 00:00:21,020\nOne idea is drumming.\n\n11\n00:00:21,280 --> 00:00:23,610\nRaindrops tap the ground like a digging mole,\n\n12\n00:00:24,050 --> 00:00:26,460\nand worms escape moles by heading up.\n\n13\n00:00:26,890 --> 00:00:28,500\nBut lots of experts doubt it.\n\n14\n00:00:28,850 --> 00:00:30,630\nThe favorite theory is simpler.\n\n15\n00:00:31,080 --> 00:00:34,250\nUnderground, a worm squeezes through dirt bit by bit.\n\n16\n00:00:34,690 --> 00:00:36,810\nOn wet ground it slides fast and far,\n\n17\n00:00:37,260 --> 00:00:39,830\nto find food, a new home, or a mate.\n\n18\n00:00:40,190 --> 00:00:41,980\nDry ground would dry out its skin,\n\n19\n00:00:42,390 --> 00:00:44,320\nso rain is the perfect chance.\n\n20\n00:00:44,780 --> 00:00:46,490\nBasically, a worm highway.\n\n21\n00:00:46,810 --> 00:00:48,300\nSo next time you spot one,\n\n22\n00:00:48,720 --> 00:00:50,080\nis it escaping a flood,\n\n23\n00:00:50,330 --> 00:00:51,750\nor going on a road trip?\n\n",
+      "tg_msg": 1216
     }
   },
   "history": [
@@ -3371,7 +3214,7 @@
   "visual_searches": {
     "2026-10-25": 3
   },
-  "signals_day": "2026-11-23",
+  "signals_day": "2026-11-24",
   "drops_done": {
     "drop/20261025-autumn-leaves": "2026-10-25-101",
     "drop/20261025-roman-hypocaust": "2026-10-25-102",
@@ -3523,7 +3366,8 @@
     "drop/20261123-why-some-sweat": "2026-11-23-103",
     "drop/20261123-egg-hen": "2026-11-24-101",
     "drop/20261123-snail-foot": "2026-11-24-102",
-    "drop/20261123-squirrel-nuts": "2026-11-24-103"
+    "drop/20261123-squirrel-nuts": "2026-11-24-103",
+    "drop/20261124-worms-rain": "2026-11-24-104"
   },
   "refs_day": "2026-11-24"
 }
