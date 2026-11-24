@@ -378,189 +378,6 @@
     }
   },
   "videos": {
-    "2026-11-17-102": {
-      "topic": {
-        "title": "Why can a starfish regrow a whole arm?",
-        "format": "animated",
-        "angle": "Kawaii Anime"
-      },
-      "package": {
-        "title": "1 Starfish Arm Grows 4 New Arms. How? \u2b50",
-        "description": "How do starfish regrow a lost arm? Sea stars can drop an arm on purpose to escape a crab, seal the wound, and rebuild the arm from the tip back over a few months to more than a year, and Linckia sea stars can grow a whole new body from a single arm.\n\nSources:\nhttps://en.wikipedia.org/wiki/Starfish_regeneration\nhttps://www.popsci.com/environment/starfish-limb-regeneration/\n\nAnimated in the Kawaii Anime style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#starfish",
-          "#animalfacts",
-          "#science"
-        ],
-        "tags": [
-          "starfish",
-          "starfish regeneration",
-          "how do starfish regrow arms",
-          "sea star",
-          "sea star regeneration",
-          "linckia",
-          "starfish arm",
-          "regeneration",
-          "tube feet",
-          "autotomy",
-          "animal facts",
-          "ocean animals",
-          "kawaii animation",
-          "science explained"
-        ],
-        "category": "27",
-        "pinned_comment": "If one arm grows into a whole new starfish, which one is the real starfish: the original or the new one?",
-        "thumbnail_text": "WHICH IS REAL?",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "You can't regrow a finger,\nbut one starfish arm can grow\nfour new arms and a whole body.\nWhen a crab grabs one, it can drop the arm on purpose.\nA muscle at the base squeezes, and the arm lets go.\nThen the wound seals itself shut,\nand skin creeps over it in about two days.\nMuscle cells turn back into simpler cells\nand crawl toward the stump.\nThe first part to grow back?\nA tiny tube foot at the tip.\nIt works like a signal tower,\ntelling everything behind it where to grow.\nTube feet, little bones and muscle fill in, one by one.\nThe whole arm takes a few months to over a year.\nAnd in Linckia sea stars,\none arm alone can grow a brand new body.\nSo if one arm can make a whole starfish,\nwhich one is the real starfish?",
-        "key_facts": [
-          "Sea stars can autotomize (drop) an arm, triggered by a muscle at the arm base contracting (ArSK/CCK1 neurohormone study, 2024)",
-          "Wound closes by a contracting ring; skin re-covers it within about 48 hours",
-          "Dedifferentiating muscle cells migrate toward the regenerating tip",
-          "The terminal tube foot is the first structure to regrow and acts as a signalling centre; other tube feet, ossicles and muscle follow",
-          "Regrowing an arm takes a few months to over a year",
-          "Linckia can regrow a whole body from a single arm (comet form)"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Kawaii Anime"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261117-starfish-regrow",
-      "redos": 0,
-      "updated": "2026-11-17T19:38:04.801266+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-17",
-        "name": "2026-11-17-102.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-17",
-        "name": "2026-11-17-102-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:01,510\nYou can't regrow a finger,\n\n2\n00:00:01,990 --> 00:00:03,860\nbut one starfish arm can grow\n\n3\n00:00:03,860 --> 00:00:05,830\nfour new arms and a whole body.\n\n4\n00:00:06,230 --> 00:00:09,760\nWhen a crab grabs one, it can drop the arm on purpose.\n\n5\n00:00:10,120 --> 00:00:13,310\nA muscle at the base squeezes, and the arm lets go.\n\n6\n00:00:13,700 --> 00:00:15,350\nThen the wound seals itself shut,\n\n7\n00:00:15,830 --> 00:00:18,420\nand skin creeps over it in about two days.\n\n8\n00:00:18,770 --> 00:00:21,340\nMuscle cells turn back into simpler cells\n\n9\n00:00:21,700 --> 00:00:23,160\nand crawl toward the stump.\n\n10\n00:00:23,610 --> 00:00:25,200\nThe first part to grow back?\n\n11\n00:00:25,740 --> 00:00:27,440\nA tiny tube foot at the tip.\n\n12\n00:00:27,890 --> 00:00:29,590\nIt works like a signal tower,\n\n13\n00:00:30,060 --> 00:00:32,400\ntelling everything behind it where to grow.\n\n14\n00:00:32,760 --> 00:00:36,200\nTube feet, little bones and muscle fill in, one by one.\n\n15\n00:00:36,580 --> 00:00:39,160\nThe whole arm takes a few months to over a year.\n\n16\n00:00:39,600 --> 00:00:41,050\nAnd in Linckia sea stars,\n\n17\n00:00:41,450 --> 00:00:44,100\none arm alone can grow a brand new body.\n\n18\n00:00:44,480 --> 00:00:46,850\nSo if one arm can make a whole starfish,\n\n19\n00:00:47,280 --> 00:00:49,320\nwhich one is the real starfish?\n\n",
-      "tg_msg": 1148,
-      "approved_by": "auto",
-      "description_full": "How do starfish regrow a lost arm? Sea stars can drop an arm on purpose to escape a crab, seal the wound, and rebuild the arm from the tip back over a few months to more than a year, and Linckia sea stars can grow a whole new body from a single arm.\n\nSources:\nhttps://en.wikipedia.org/wiki/Starfish_regeneration\nhttps://www.popsci.com/environment/starfish-limb-regeneration/\n\nAnimated in the Kawaii Anime style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #starfish #animalfacts #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/xYc5Gy82TRQ",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-11-17T19:38:04.801286+00:00",
-      "slot": "2026-11-18T00:15:00+00:00"
-    },
-    "2026-11-17-103": {
-      "topic": {
-        "title": "What if humans had a gecko's sticky feet?",
-        "format": "animated",
-        "angle": "Low-Poly Faceted"
-      },
-      "package": {
-        "title": "Gecko Feet Hold 290 Pounds. What If You Had Them? \ud83e\udd8e",
-        "description": "How do geckos stick to walls with no glue? Millions of tiny hairs on gecko toes use van der Waals forces, and here's what it would take for human feet to do the same.\n\nSources:\nhttps://www.sciencedaily.com/releases/2016/01/160118184359.htm\nhttps://sicb.org/abstracts/gecko-setae-a-self-cleaning-adhesive-nanostructure/\nhttps://www.discoverwildlife.com/animal-facts/best-climbers\n\nAnimated in the Low-Poly Faceted style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#gecko",
-          "#science",
-          "#animals"
-        ],
-        "tags": [
-          "gecko feet",
-          "how do geckos stick to walls",
-          "gecko",
-          "van der Waals force",
-          "setae",
-          "gecko toes",
-          "animal facts",
-          "science explained",
-          "spiderman science",
-          "sticky feet",
-          "biomimicry",
-          "zorbly ai",
-          "how does it work"
-        ],
-        "category": "27",
-        "pinned_comment": "Would you trade your feet for gecko feet if it meant size 114 shoes? \ud83e\udd8e",
-        "thumbnail_text": "NO GLUE",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "What if your feet could hold 290 pounds with no glue?\nA gecko's feet can, at least in theory.\nIts toes are covered in tiny hairs,\nabout six and a half million on one gecko.\nAnd every hair splits into hundreds of even tinier tips.\nThose tips get so close to the wall\nthat the molecules themselves pull together.\nIt's called the van der Waals force.\nOne hair is weak,\nbut millions together are mighty.\nTo let go, a gecko just peels its toes up,\nlike tape.\nNow scale that up to you.\nYou'd need sticky pads on forty percent of your body,\nabout eighty percent of your front!\nAnd your shoes? US size one hundred fourteen.\nThat's why geckos are about the biggest animals that can do this.\nSo would you trade your feet for gecko feet?",
-        "key_facts": [
-          "A gecko has about 6.5 million setae (hairs); together they could theoretically support about 130 kg / 290 lb (Autumn & Hansen, SICB)",
-          "Setae stick by van der Waals forces; each splits into many tiny spatula tips",
-          "A human would need adhesive pads on about 40% of body surface (~80% of the front), shoes EU 145 / US 114 (Labonte et al., PNAS 2016, Cambridge)",
-          "Geckos are about the largest animals that can climb smooth walls with sticky pads"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Low-Poly Faceted"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261117-gecko-feet",
-      "redos": 0,
-      "updated": "2026-11-17T22:25:47.973202+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Low-Poly Faceted style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-17",
-        "name": "2026-11-17-103.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-17",
-        "name": "2026-11-17-103-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:03,990\nWhat if your feet could hold 290 pounds with no glue?\n\n2\n00:00:04,470 --> 00:00:06,970\nA gecko's feet can, at least in theory.\n\n3\n00:00:07,340 --> 00:00:09,650\nIts toes are covered in tiny hairs,\n\n4\n00:00:10,100 --> 00:00:12,570\nabout six and a half million on one gecko.\n\n5\n00:00:12,940 --> 00:00:16,410\nAnd every hair splits into hundreds of even tinier tips.\n\n6\n00:00:16,810 --> 00:00:18,890\nThose tips get so close to the wall\n\n7\n00:00:19,320 --> 00:00:21,720\nthat the molecules themselves pull together.\n\n8\n00:00:22,120 --> 00:00:24,070\nIt's called the van der Waals force.\n\n9\n00:00:24,520 --> 00:00:25,460\nOne hair is weak,\n\n10\n00:00:25,550 --> 00:00:27,720\nbut millions together are mighty.\n\n11\n00:00:28,190 --> 00:00:31,010\nTo let go, a gecko just peels its toes up,\n\n12\n00:00:31,120 --> 00:00:31,810\nlike tape.\n\n13\n00:00:32,210 --> 00:00:33,610\nNow scale that up to you.\n\n14\n00:00:34,010 --> 00:00:36,870\nYou'd need sticky pads on forty percent of your body,\n\n15\n00:00:37,350 --> 00:00:39,270\nabout eighty percent of your front!\n\n16\n00:00:39,700 --> 00:00:42,870\nAnd your shoes? US size one hundred fourteen.\n\n17\n00:00:43,220 --> 00:00:47,040\nThat's why geckos are about the biggest animals that can do this.\n\n18\n00:00:47,420 --> 00:00:49,680\nSo would you trade your feet for gecko feet?\n\n",
-      "tg_msg": 1150,
-      "approved_by": "auto",
-      "description_full": "How do geckos stick to walls with no glue? Millions of tiny hairs on gecko toes use van der Waals forces, and here's what it would take for human feet to do the same.\n\nSources:\nhttps://www.sciencedaily.com/releases/2016/01/160118184359.htm\nhttps://sicb.org/abstracts/gecko-setae-a-self-cleaning-adhesive-nanostructure/\nhttps://www.discoverwildlife.com/animal-facts/best-climbers\n\nAnimated in the Low-Poly Faceted style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #gecko #science #animals\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Low-Poly Faceted style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/bvZ02rcxoq4",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-11-17T22:25:47.973218+00:00",
-      "slot": "2026-11-18T02:15:00+00:00"
-    },
     "2026-11-17-104": {
       "topic": {
         "title": "Why do giraffes sleep only about half an hour a day?",
@@ -3132,12 +2949,12 @@
         "format": "animated",
         "style": "Isometric Infographic"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261123-toucan-beak",
       "redos": 0,
-      "updated": "2026-11-23T13:38:00.658995+00:00",
+      "updated": "2026-11-24T01:12:40.468211+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Isometric Infographic style). Voice: Kokoro text-to-speech."
       ],
@@ -3152,7 +2969,29 @@
         "name": "2026-11-23-102-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:02,870\nA toucan's beak is secretly a radiator.\n\n2\n00:00:03,270 --> 00:00:04,960\nHere's why you never noticed.\n\n3\n00:00:05,320 --> 00:00:08,040\nThat giant bill is a third of the bird's length,\n\n4\n00:00:08,490 --> 00:00:10,510\nbut barely a twentieth of its weight.\n\n5\n00:00:10,930 --> 00:00:12,100\nIt's mostly air.\n\n6\n00:00:12,440 --> 00:00:15,480\nThin sheets of keratin, the stuff in your nails,\n\n7\n00:00:15,550 --> 00:00:17,580\nwrap a foam of tiny bone struts.\n\n8\n00:00:18,040 --> 00:00:19,290\nNow the clever part.\n\n9\n00:00:19,690 --> 00:00:22,530\nUnder that shell runs a web of blood vessels.\n\n10\n00:00:23,000 --> 00:00:24,250\nWhen the toucan gets hot,\n\n11\n00:00:24,710 --> 00:00:26,640\nit pumps warm blood into the beak,\n\n12\n00:00:26,760 --> 00:00:29,110\nand the heat pours out into the air.\n\n13\n00:00:29,480 --> 00:00:31,510\nScientists filmed it with a heat camera\n\n14\n00:00:31,890 --> 00:00:33,450\nand watched the beak light up.\n\n15\n00:00:33,850 --> 00:00:36,570\nWhen it's chilly, it shuts the flow off\n\n16\n00:00:36,670 --> 00:00:37,530\nand keeps that heat inside.\n\n17\n00:00:37,970 --> 00:00:38,990\nFor short bursts,\n\n18\n00:00:39,370 --> 00:00:40,210\nalmost all the heat it loses\n\n19\n00:00:40,280 --> 00:00:42,560\ngoes out through that beak.\n\n20\n00:00:42,960 --> 00:00:45,140\nBe honest, would you trade your nose\n\n21\n00:00:45,140 --> 00:00:46,800\nfor a radiator on your face?\n\n",
-      "tg_msg": 1208
+      "tg_msg": 1208,
+      "approved_by": "auto",
+      "description_full": "Why is a toucan's beak so huge? The toco toucan's bill is about a third of its length but mostly air inside, and a web of blood vessels lets it work like a radiator that dumps body heat when it's hot and holds it in when it's cold.\n\nSources:\nhttps://www.nationalgeographic.com/science/article/toucan-play-at-reducing-the-heating-bill\nhttps://www.smithsonianmag.com/science-nature/oversized-beak-keeps-toucan-cool-15023806/\nhttps://jacobsschool.ucsd.edu/news/release/417\n\nAnimated in the Isometric Infographic style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #animals #toucan #facts\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Isometric Infographic style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/U_5vMv7tvYg",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-24T01:12:40.468227+00:00",
+      "slot": "2026-11-25T17:15:00+00:00"
     },
     "2026-11-23-103": {
       "topic": {
@@ -3205,12 +3044,12 @@
         "format": "long",
         "style": "Flat-Vector Science"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261123-why-some-sweat",
       "redos": 0,
-      "updated": "2026-11-23T13:38:13.576946+00:00",
+      "updated": "2026-11-24T01:12:46.505135+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech."
       ],
@@ -3225,7 +3064,224 @@
         "name": "2026-11-23-103-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:02,570\nYou have up to four million sweat glands.\n\n2\n00:00:02,930 --> 00:00:04,430\nSo why do some people drip,\n\n3\n00:00:04,800 --> 00:00:06,450\nwhile others barely look damp?\n\n4\n00:00:06,980 --> 00:00:09,990\nPicture two people, same hot room, same workout.\n\n5\n00:00:10,450 --> 00:00:12,440\nOne is soaked. The other is fine.\n\n6\n00:00:12,890 --> 00:00:15,300\nIt's not about being healthy or unhealthy.\n\n7\n00:00:15,650 --> 00:00:18,040\nIt comes down to your body's cooling system,\n\n8\n00:00:18,430 --> 00:00:20,220\nand how hard it's been trained.\n\n9\n00:00:20,600 --> 00:00:22,150\nLet's start with the hardware.\n\n10\n00:00:22,550 --> 00:00:25,940\nYour skin is packed with two to four million sweat glands.\n\n11\n00:00:26,420 --> 00:00:28,280\nEach one is a tiny coiled tube,\n\n12\n00:00:28,740 --> 00:00:31,020\nburied in your skin like a curly straw.\n\n13\n00:00:31,480 --> 00:00:33,390\nThey cover almost your whole body,\n\n14\n00:00:33,890 --> 00:00:36,660\nwith the most on your palms, the soles of your feet,\n\n15\n00:00:36,900 --> 00:00:37,810\nand your forehead.\n\n16\n00:00:38,160 --> 00:00:39,790\nNow here's how they switch on.\n\n17\n00:00:40,240 --> 00:00:44,050\nDeep in your brain sits a thermostat called the hypothalamus.\n\n18\n00:00:44,390 --> 00:00:46,810\nWhen your core gets even slightly too warm,\n\n19\n00:00:47,350 --> 00:00:49,580\nit fires a signal down your nerves.\n\n20\n00:00:49,970 --> 00:00:52,710\nThe glands squeeze out salty water onto your skin.\n\n21\n00:00:53,110 --> 00:00:54,720\nAnd then comes the clever part.\n\n22\n00:00:55,160 --> 00:00:57,190\nSweat doesn't cool you by being wet.\n\n23\n00:00:57,620 --> 00:00:59,370\nIt cools you by disappearing.\n\n24\n00:00:59,730 --> 00:01:02,390\nWhen it evaporates, it carries heat away with it.\n\n25\n00:01:02,840 --> 00:01:05,150\nThat's why a humid day feels so awful.\n\n26\n00:01:05,550 --> 00:01:07,360\nThe air is already full of water,\n\n27\n00:01:07,770 --> 00:01:09,950\nso your sweat just sits there and drips.\n\n28\n00:01:10,420 --> 00:01:12,460\nAnd fresh sweat barely smells at all.\n\n29\n00:01:12,830 --> 00:01:14,450\nThe smell comes from bacteria\n\n30\n00:01:14,850 --> 00:01:17,200\nmunching on sweat from your armpit glands.\n\n31\n00:01:17,570 --> 00:01:20,880\nSo why does one person drip while another stays dry?\n\n32\n00:01:21,390 --> 00:01:22,350\nFirst, size.\n\n33\n00:01:22,690 --> 00:01:25,170\nA bigger body makes more heat when it moves,\n\n34\n00:01:25,520 --> 00:01:27,270\nso it needs more sweat to dump it.\n\n35\n00:01:27,660 --> 00:01:28,880\nSecond, your genes.\n\n36\n00:01:29,260 --> 00:01:31,680\nSome people simply have more active glands,\n\n37\n00:01:32,080 --> 00:01:33,680\nor glands that pump harder.\n\n38\n00:01:34,120 --> 00:01:36,180\nThird, men and women tend to differ.\n\n39\n00:01:36,600 --> 00:01:37,880\nIn a study in Japan,\n\n40\n00:01:38,300 --> 00:01:40,910\nfit men started sweating fastest of everyone,\n\n41\n00:01:41,480 --> 00:01:43,460\nand inactive women sweated the least.\n\n42\n00:01:43,830 --> 00:01:46,700\nBut here's the twist most people get backwards.\n\n43\n00:01:47,050 --> 00:01:50,390\nSweating a lot usually means you're fitter, not less fit.\n\n44\n00:01:50,840 --> 00:01:54,010\nA trained body is like an upgraded air conditioner.\n\n45\n00:01:54,350 --> 00:01:55,650\nIt turns on sooner,\n\n46\n00:01:55,980 --> 00:01:57,260\nbefore you even feel hot,\n\n47\n00:01:57,790 --> 00:02:00,330\nand it pumps out more sweat once it gets going.\n\n48\n00:02:00,790 --> 00:02:02,720\nHeat training does the same thing.\n\n49\n00:02:03,180 --> 00:02:06,300\nSpend around one to two weeks exercising in the heat,\n\n50\n00:02:06,770 --> 00:02:08,780\nand your body starts sweating earlier,\n\n51\n00:02:09,210 --> 00:02:10,150\npours out more,\n\n52\n00:02:10,620 --> 00:02:12,560\nand holds on to more of its salt.\n\n53\n00:02:13,020 --> 00:02:14,460\nNow let's talk numbers.\n\n54\n00:02:14,820 --> 00:02:16,290\nSitting still on a cool day,\n\n55\n00:02:16,760 --> 00:02:19,120\nyou lose a little sweat without ever noticing.\n\n56\n00:02:19,510 --> 00:02:21,640\nBut during hard exercise in the heat,\n\n57\n00:02:22,190 --> 00:02:24,820\nan adult can sweat more than a litre an hour.\n\n58\n00:02:25,240 --> 00:02:27,540\nSome athletes lose two litres or more.\n\n59\n00:02:27,980 --> 00:02:29,450\nThat's a big bottle of water,\n\n60\n00:02:29,900 --> 00:02:31,640\nleaving your body through your skin.\n\n61\n00:02:32,040 --> 00:02:33,800\nAnd every drop that evaporates\n\n62\n00:02:33,880 --> 00:02:36,400\npulls a surprising amount of heat out with it.\n\n63\n00:02:36,800 --> 00:02:38,420\nSo why does all this matter?\n\n64\n00:02:38,860 --> 00:02:41,910\nBecause sweating is one of humanity's superpowers.\n\n65\n00:02:42,320 --> 00:02:44,890\nMost furry animals cool down by panting.\n\n66\n00:02:45,270 --> 00:02:47,600\nWe cool our whole body surface at once,\n\n67\n00:02:48,080 --> 00:02:50,870\nwhich is part of why humans are so good\n\n68\n00:02:51,110 --> 00:02:52,530\nat long, slow runs in the heat.\n\n69\n00:02:53,000 --> 00:02:55,000\nSo if you're the one dripping at the gym,\n\n70\n00:02:55,350 --> 00:02:56,500\ndon't be embarrassed.\n\n71\n00:02:56,900 --> 00:02:59,950\nYour cooling system might just be top of the line.\n\n72\n00:03:00,300 --> 00:03:03,790\nJust remember to drink water and replace what you lose.\n\n73\n00:03:04,180 --> 00:03:06,540\nNext time, why do you have two nostrils,\n\n74\n00:03:06,630 --> 00:03:09,520\nand why is one of them always more blocked?\n\n",
-      "tg_msg": 1209
+      "tg_msg": 1209,
+      "approved_by": "auto",
+      "description_full": "Why do some people sweat so much more than others? This animated explainer shows how your 2 to 4 million sweat glands switch on, why body size, genes and fitness change how much you sweat, and why sweating a lot often means you're fitter.\n\nSources:\nhttps://my.clevelandclinic.org/health/body/eccrine-glands\nhttps://www.livescience.com/8725-women-sweat-effectively-men.html\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC3710196\n\nAnimated in the Flat-Vector Science style.\n\nFollow Zorbly AI for a new Short every day.\n\n#sweat #humanbody #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Flat-Vector Science style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/EG36G6OjQP8",
+          "private \u00b7 thumbnail \u2705"
+        ]
+      },
+      "uploaded_at": "2026-11-24T01:12:46.505153+00:00",
+      "slot": "2026-11-25T20:15:00+00:00"
+    },
+    "2026-11-24-101": {
+      "topic": {
+        "title": "Why doesn't an egg crack when a hen sits on it?",
+        "format": "animated",
+        "angle": "Brick Toy"
+      },
+      "package": {
+        "title": "An Egg Holds 3 kg, So How Does a Chick Get Out? \ud83d\udc23",
+        "description": "Why doesn't an egg crack when a hen sits on it? The egg's dome shape spreads outside pressure across the whole shell, so an egg squeezed end to end can hold about 3 kg, while a chick pecking one spot from the inside, and pulling calcium from the shell as it grows, breaks out easily.\n\nSources:\nhttps://www.scienceworld.ca/resource/unsqueezable-egg/\nhttps://scienceinsights.org/how-much-force-does-it-take-to-break-an-egg/\nhttps://www.sciencebuddies.org/stem-activities/eggshells-strength\n\nAnimated in the Brick Toy style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#eggs",
+          "#sciencefacts",
+          "#chickens"
+        ],
+        "tags": [
+          "egg shell strength",
+          "why don't eggs break under a hen",
+          "egg dome shape",
+          "how does a chick hatch",
+          "egg arch strength",
+          "squeeze an egg end to end",
+          "eggshell calcium",
+          "chicken facts",
+          "hatching",
+          "science explained",
+          "animal facts",
+          "egg science",
+          "brick animation",
+          "how eggs work"
+        ],
+        "category": "27",
+        "pinned_comment": "Have you ever tried squeezing an egg end to end in one hand? Did it crack? \ud83e\udd5a",
+        "thumbnail_text": "WHY NO CRACK?",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "A hen sits on her eggs for 21 days,\nand they don't crack.\nSo how does a tiny chick break out?\nIt's all about the shape.\nAn egg is a dome, like a stone arch.\nPush on the outside,\nand the force spreads across the whole shell,\nso no single spot takes the load.\nSqueezed end to end,\nan egg can hold about three kilos.\nPlus the hen's weight is shared by the nest and the other eggs.\nFrom the inside, it's a different story.\nThe chick pecks one tiny spot,\nand a dome is weak against a push from inside.\nHere's the clever part.\nThe chick pulls calcium from the shell to build its bones,\nso the shell gets thinner as it grows.\nStrong outside, weak inside.\nSo could you crack an egg squeezing it end to end?\n",
+        "key_facts": [
+          "A chicken egg takes about 21 days to hatch",
+          "The dome/arch shape spreads an outside load across the whole shell",
+          "A fresh egg pressed evenly takes roughly 30-40 N (about 3-4 kg) to break",
+          "A hen's weight is spread over the nest and the clutch",
+          "Pressure from inside on one spot is the shell's weak direction",
+          "During incubation the embryo draws calcium from the shell's inner layers, thinning it"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Brick Toy"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261123-egg-hen",
+      "redos": 0,
+      "updated": "2026-11-24T01:12:10.981825+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Brick Toy style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-24",
+        "name": "2026-11-24-101.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-24",
+        "name": "2026-11-24-101-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:02,880\nA hen sits on her eggs for 21 days,\n\n2\n00:00:03,260 --> 00:00:04,280\nand they don't crack.\n\n3\n00:00:04,740 --> 00:00:06,680\nSo how does a tiny chick break out?\n\n4\n00:00:07,190 --> 00:00:08,440\nIt's all about the shape.\n\n5\n00:00:08,890 --> 00:00:11,250\nAn egg is a dome, like a stone arch.\n\n6\n00:00:11,670 --> 00:00:12,900\nPush on the outside,\n\n7\n00:00:13,180 --> 00:00:15,220\nand the force spreads across the whole shell,\n\n8\n00:00:15,700 --> 00:00:17,920\nso no single spot takes the load.\n\n9\n00:00:18,300 --> 00:00:19,530\nSqueezed end to end,\n\n10\n00:00:19,910 --> 00:00:22,080\nan egg can hold about three kilos.\n\n11\n00:00:22,460 --> 00:00:25,920\nPlus the hen's weight is shared by the nest and the other eggs.\n\n12\n00:00:26,320 --> 00:00:28,450\nFrom the inside, it's a different story.\n\n13\n00:00:28,870 --> 00:00:30,680\nThe chick pecks one tiny spot,\n\n14\n00:00:31,170 --> 00:00:33,830\nand a dome is weak against a push from inside.\n\n15\n00:00:34,290 --> 00:00:35,640\nHere's the clever part.\n\n16\n00:00:35,930 --> 00:00:39,070\nThe chick pulls calcium from the shell to build its bones,\n\n17\n00:00:39,520 --> 00:00:41,660\nso the shell gets thinner as it grows.\n\n18\n00:00:42,000 --> 00:00:43,880\nStrong outside, weak inside.\n\n19\n00:00:44,170 --> 00:00:46,810\nSo could you crack an egg squeezing it end to end?\n\n",
+      "tg_msg": 1211
+    },
+    "2026-11-24-102": {
+      "topic": {
+        "title": "How does a snail crawl on just one foot?",
+        "format": "animated",
+        "angle": "Kawaii Anime"
+      },
+      "package": {
+        "title": "How Does a Snail Move on Just 1 Foot? \ud83d\udc0c",
+        "description": "How do snails move on one foot? Waves of muscle ripple along a snail's foot while its slime acts as glue under the still parts and turns runny where a wave pushes, so the snail slides forward at roughly a millimetre a second.\n\nSources:\nhttps://www.nature.com/articles/285160a0\nhttps://www.popsci.com/environment/why-snail-slug-slow/\nhttps://scienceinsights.org/how-fast-can-a-snail-travel-the-science-explained/\n\nAnimated in the Kawaii Anime style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#snail",
+          "#animalfacts",
+          "#science"
+        ],
+        "tags": [
+          "how do snails move",
+          "snail slime",
+          "snail foot",
+          "how snails crawl",
+          "snail mucus",
+          "pedal waves",
+          "snail facts",
+          "animal facts",
+          "why is snail slime sticky",
+          "how fast is a snail",
+          "snail science",
+          "gastropod locomotion",
+          "explainer"
+        ],
+        "category": "27",
+        "pinned_comment": "Would you trade your two feet for one slimy snail foot? \ud83d\udc0c Be honest.",
+        "thumbnail_text": "GLUE OR SLIDE?",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "A snail never lifts its one foot.\nCan you guess how it moves?\nPut a snail on glass and look underneath.\nDark stripes ripple along the sole,\nfrom the tail toward the head.\nThose are waves of muscle,\nsqueezing and stretching the foot.\nBut the real trick is the slime.\nUnder the still parts of the foot,\nit's thick and sticky, like glue.\nWhere a wave pushes on it,\nit turns runny and slippery.\nSo each wave slides forward on liquid,\nwhile the rest stays stuck down.\nGlue, slide, glue, slide.\nThat grip lets a snail climb straight up a stem,\nor hang under a leaf.\nThe catch? It's slow.\nRoughly one millimetre a second.\nSo would you trade your two feet\nfor one slimy one?",
+        "key_facts": [
+          "Snails crawl on one muscular foot; waves of muscle contraction (pedal waves) ripple along the sole, tail to head (Conversation/PopSci; ScienceInsights)",
+          "Pedal mucus acts as a glue for adhesion, and shear-thins to flow where a wave passes, then re-gels (Denny 1980, Nature; ScienceInsights)",
+          "Adhesion lets snails resist gravity on plants (Denny 1980)",
+          "A common garden snail moves roughly 1 mm per second (ScienceInsights; sources vary)"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Kawaii Anime"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261123-snail-foot",
+      "redos": 0,
+      "updated": "2026-11-24T01:12:22.118341+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-24",
+        "name": "2026-11-24-102.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-24",
+        "name": "2026-11-24-102-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:02,250\nA snail never lifts its one foot.\n\n2\n00:00:02,620 --> 00:00:04,130\nCan you guess how it moves?\n\n3\n00:00:04,700 --> 00:00:07,050\nPut a snail on glass and look underneath.\n\n4\n00:00:07,410 --> 00:00:09,450\nDark stripes ripple along the sole,\n\n5\n00:00:09,810 --> 00:00:11,290\nfrom the tail toward the head.\n\n6\n00:00:11,710 --> 00:00:13,130\nThose are waves of muscle,\n\n7\n00:00:13,470 --> 00:00:15,140\nsqueezing and stretching the foot.\n\n8\n00:00:15,600 --> 00:00:17,370\nBut the real trick is the slime.\n\n9\n00:00:17,780 --> 00:00:19,920\nUnder the still parts of the foot,\n\n10\n00:00:19,980 --> 00:00:21,440\nit's thick and sticky, like glue.\n\n11\n00:00:21,820 --> 00:00:23,140\nWhere a wave pushes on it,\n\n12\n00:00:23,490 --> 00:00:25,060\nit turns runny and slippery.\n\n13\n00:00:25,420 --> 00:00:27,720\nSo each wave slides forward on liquid,\n\n14\n00:00:28,160 --> 00:00:29,850\nwhile the rest stays stuck down.\n\n15\n00:00:30,320 --> 00:00:31,900\nGlue, slide, glue, slide.\n\n16\n00:00:32,180 --> 00:00:34,790\nThat grip lets a snail climb straight up a stem,\n\n17\n00:00:35,240 --> 00:00:36,560\nor hang under a leaf.\n\n18\n00:00:36,990 --> 00:00:38,270\nThe catch? It's slow.\n\n19\n00:00:38,650 --> 00:00:40,660\nRoughly one millimetre a second.\n\n20\n00:00:41,100 --> 00:00:42,510\nSo would you trade your two feet\n\n21\n00:00:42,590 --> 00:00:43,780\nfor one slimy one?\n\n",
+      "tg_msg": 1212
+    },
+    "2026-11-24-103": {
+      "topic": {
+        "title": "Why do squirrels bury nuts they never dig up?",
+        "format": "animated",
+        "angle": "One-line Drawing"
+      },
+      "package": {
+        "title": "How Does a Squirrel Find 3,000 Buried Nuts? \ud83d\udc3f\ufe0f",
+        "description": "A squirrel can bury around 3,000 nuts in one season, and it finds most of them again using a memory map of landmarks plus its sense of smell. The nuts it never digs up are already planted, which is how squirrels help new trees grow.\n\nSources:\nhttps://www.popsci.com/science/how-squirrels-find-nuts/\nhttps://www.reconnectwithnature.org/headlines/news/nature-curiosity-why-do-squirrels-bury-nuts\nhttps://www.livescience.com/64104-how-do-squirrels-find-buried-nuts.html\n\nAnimated in the One-line Drawing style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#squirrels",
+          "#animalfacts",
+          "#science"
+        ],
+        "tags": [
+          "squirrels",
+          "why do squirrels bury nuts",
+          "how do squirrels find nuts",
+          "squirrel memory",
+          "scatter hoarding",
+          "animal facts",
+          "nature facts",
+          "squirrels plant trees",
+          "acorns",
+          "oak trees",
+          "animal behavior",
+          "science shorts",
+          "explainer"
+        ],
+        "category": "27",
+        "pinned_comment": "Which tree near you do you think a squirrel planted? \ud83c\udf33",
+        "thumbnail_text": "Forgot = Tree",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "Your backyard squirrel buries 3,000 nuts a year. How does it find them? Each one goes in its own little hole. Mostly, it remembers. It builds a map in its head, a tree, a rock, a fence post, and that map can last up to two months. Then its nose finds the exact spot. But what if another squirrel is watching? It fakes it. It digs a hole, pretends to drop the nut, and sneaks off with it still in its mouth. Sneaky, right? Still, some nuts never get dug up. The squirrel moves on, or it just has plenty to eat. And that forgotten nut is already planted. Come spring, it sprouts. So some trees around you were planted by a squirrel that forgot. Which tree near you did a squirrel plant?",
+        "key_facts": [
+          "A squirrel can bury up to about 3,000 nuts in a single season (PopSci, Reconnect With Nature)",
+          "Spatial memory does most of the work; smell helps; memory is strong for weeks and up to about two months (PopSci)",
+          "Squirrels sometimes fake-bury a nut while keeping it in their mouth when watched (PopSci)",
+          "Forgotten nuts can grow into trees and aid forest regeneration (Reconnect With Nature)"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "One-line Drawing"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261123-squirrel-nuts",
+      "redos": 0,
+      "updated": "2026-11-24T01:12:29.934009+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (One-line Drawing style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-24",
+        "name": "2026-11-24-103.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-24",
+        "name": "2026-11-24-103-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:03,460\nYour backyard squirrel buries 3,000 nuts a year.\n\n2\n00:00:03,860 --> 00:00:05,120\nHow does it find them?\n\n3\n00:00:05,610 --> 00:00:07,690\nEach one goes in its own little hole.\n\n4\n00:00:08,100 --> 00:00:09,570\nMostly, it remembers.\n\n5\n00:00:09,960 --> 00:00:11,400\nIt builds a map in its head,\n\n6\n00:00:11,750 --> 00:00:13,570\na tree, a rock, a fence post,\n\n7\n00:00:13,630 --> 00:00:16,620\nand that map can last up to two months.\n\n8\n00:00:17,090 --> 00:00:19,180\nThen its nose finds the exact spot.\n\n9\n00:00:19,650 --> 00:00:21,640\nBut what if another squirrel is watching?\n\n10\n00:00:22,190 --> 00:00:23,030\nIt fakes it.\n\n11\n00:00:23,420 --> 00:00:25,630\nIt digs a hole, pretends to drop the nut,\n\n12\n00:00:25,730 --> 00:00:28,560\nand sneaks off with it still in its mouth.\n\n13\n00:00:29,020 --> 00:00:30,030\nSneaky, right?\n\n14\n00:00:30,520 --> 00:00:32,470\nStill, some nuts never get dug up.\n\n15\n00:00:32,920 --> 00:00:34,050\nThe squirrel moves on,\n\n16\n00:00:34,380 --> 00:00:35,920\nor it just has plenty to eat.\n\n17\n00:00:36,280 --> 00:00:38,730\nAnd that forgotten nut is already planted.\n\n18\n00:00:39,150 --> 00:00:40,540\nCome spring, it sprouts.\n\n19\n00:00:40,880 --> 00:00:42,450\nSo some trees around you\n\n20\n00:00:42,510 --> 00:00:44,470\nwere planted by a squirrel that forgot.\n\n21\n00:00:44,940 --> 00:00:46,890\nWhich tree near you did a squirrel plant?\n\n",
+      "tg_msg": 1213
     }
   },
   "history": [
@@ -3304,7 +3360,7 @@
       "at": "2026-10-25T17:40:17.371797+00:00"
     }
   },
-  "cleanup_day": "2026-11-23",
+  "cleanup_day": "2026-11-24",
   "recent_voices": [
     "en-AU-WilliamMultilingualNeural",
     "en-US-EmmaMultilingualNeural",
@@ -3464,7 +3520,10 @@
     "drop/20261122-bird-windows": "2026-11-22-105",
     "drop/20261122-arm-hair": "2026-11-23-101",
     "drop/20261123-toucan-beak": "2026-11-23-102",
-    "drop/20261123-why-some-sweat": "2026-11-23-103"
+    "drop/20261123-why-some-sweat": "2026-11-23-103",
+    "drop/20261123-egg-hen": "2026-11-24-101",
+    "drop/20261123-snail-foot": "2026-11-24-102",
+    "drop/20261123-squirrel-nuts": "2026-11-24-103"
   },
-  "refs_day": "2026-11-23"
+  "refs_day": "2026-11-24"
 }
