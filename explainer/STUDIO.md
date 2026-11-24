@@ -74,6 +74,17 @@ LEMO_OPUSCAR_HOME=/home/claude/lemo-opuscar sh -c 'git clone -q --depth 1 --filt
 The topic sheet holds explainer ideas only, short and long, in the shape of "How Romans Heated Their Floors 2,000 Years
 Ago": one "How did X work? / Why does X happen? / How is X made?" question, one mechanism, one key number, one visual
 payoff. Ashu can edit it on GitHub (add rows, reorder, set `status` to `skip`). Rules:
+- **Proven topics only (Ashu, Nov 24; this overrides the "never the subject itself" and "never reuse a Zack D
+  Films subject" lines below).** Every video's SUBJECT must already be a proven winner: a video on that same subject
+  has 1,000,000+ views. Sources: Shorts in `content/reference_signals.json` with `views` >= 1,000,000 (a Short run
+  takes Shorts; a long run takes any format), ranked by `multiple`, then `views`. You can also use web search for
+  million-view videos on the subject. Use the subject only, never the script, characters, scenes, shots or title
+  wording: re-verify every fact, write the script fresh in the Zorbly voice, draw your own visuals. Keep the lane and
+  content rules below (animals, food and body first; nothing gory, violent, tragic, political or about real living
+  people), so skip proven subjects that break them (e.g. bullets, skydiving, disasters). Before taking a sheet row,
+  check that its subject is proven. If it isn't, take the next row that is, or append a proven row first (fill
+  `inspired_by` with the million-view source: "<channel>: <title> (<views> views, <multiple>x)"). Record the source
+  in meta.json and the log row as `proven_by`.
 - Make the `topic_row` pick.py gives you (the first `ready` row of your kind). Its `mechanism` and `key_number` are
   ideas, not facts: verify everything in step 2, fix the angle if the sources disagree, and if the premise turns out
   to be false, set that row's `status` to `skip` with a reason in `notes` and take the next one.
