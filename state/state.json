@@ -378,89 +378,6 @@
     }
   },
   "videos": {
-    "2026-11-18-102": {
-      "topic": {
-        "title": "Why do some people get way more freckles than others?",
-        "format": "long",
-        "angle": "Cut-Paper Diorama"
-      },
-      "package": {
-        "title": "Born With 0 Freckles. Why Do Some People Get Hundreds?",
-        "description": "Why do some people get way more freckles than others? See how sunlight switches on the pigment cells in your skin, why freckles fade in winter, how the MC1R gene links freckles to red hair, and how a freckle differs from a sun spot.\n\nSources:\nhttps://en.wikipedia.org/wiki/Freckle\nhttps://dermnetnz.org/topics/brown-spots-and-freckles\nhttps://img.medscape.com/pi/iphone/medscapeapp/html/A1119293-business.html\n\nAnimated in the Cut-Paper Diorama style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#freckles",
-          "#science",
-          "#humanbody"
-        ],
-        "tags": [
-          "freckles",
-          "why do people get freckles",
-          "why do some people have more freckles",
-          "what causes freckles",
-          "MC1R gene",
-          "red hair and freckles",
-          "melanin",
-          "melanocytes",
-          "freckles in winter",
-          "freckles vs sun spots",
-          "ephelides",
-          "solar lentigines",
-          "skin science",
-          "human body facts",
-          "science explained"
-        ],
-        "category": "27",
-        "pinned_comment": "Do your freckles fade in winter, or do they stick around all year?",
-        "thumbnail_text": "ZERO AT BIRTH",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "You were born with zero freckles. Not a single one. They usually start showing up around age two. Then some kids get a few, while others end up with hundreds. So why do some people get way more freckles than others? First, what is a freckle, really? Your skin gets its color from a pigment called melanin. It's made by special cells called melanocytes, tucked deep in the bottom layer of your skin. Each one pumps out tiny packets of pigment, and hands them to the skin cells around it. Here's the surprise. A freckle doesn't have extra pigment cells. It has about the same number as the skin next to it. Those cells are just working way harder, making a lot more melanin in one tiny spot. Most freckles are smaller than three millimeters. And they show up most on fair skin, which has less melanin to begin with. So what makes those cells work overtime? Sunlight. When ultraviolet light hits your skin, it switches your melanocytes into high gear. Melanin is your body's sunshade. It soaks up UV light before it can damage your DNA. In most skin, that extra melanin spreads out evenly, and you get a tan. But in freckly skin, it piles up in little patches. That's why freckles darken every summer, and fade, or even disappear, in winter. And it's why babies, who've barely seen the sun, don't have any yet. But two kids can play in the same sun, and only one ends up covered in freckles. That's where your genes come in. The big one is a gene called MC1R. Think of it as a switch on every melanocyte. When it works normally, the cell makes eumelanin, a dark brown pigment that's great at blocking sun. But scientists have found more than 80 versions of MC1R. And some of them are ancient. One may date back around 80,000 years. Some of them flip the switch toward pheomelanin instead, a reddish yellow pigment that protects much less. Those same versions are behind red hair. Most redheads carry two of them, and almost all carry at least one. That's why red hair and freckles so often go together. Still, one copy doesn't guarantee freckles. Some people without these versions freckle anyway, because lots of other genes play a part too. Now, not every brown spot is a freckle. Doctors call real freckles ephelides. Real freckles come and go with the seasons, and many fade as you get older. Sun spots, or solar lentigines, are different. They're larger, they show up in middle age, after years of sun, and they stay put all winter long. Under a microscope, sun spots really do have extra pigment cells. So what do freckles tell you? Freckly skin usually makes less of that protective brown melanin, so it burns more easily. That's why skin doctors tell freckly people, to be extra careful with sunscreen. So freckles aren't random dots. They're tiny patches of sunshade, switched on extra hard, mostly thanks to one tiny gene. Next up, how do your lungs breathe, more than 20,000 times a day?",
-        "key_facts": [
-          "Freckles are rare on infants and commonly first appear around age 2 (Medscape)",
-          "Freckles have about the same number of melanocytes as nearby skin; the cells make more melanin (Wikipedia, DermNet, Medscape)",
-          "UV light increases melanin production; freckles darken in summer and fade in winter (DermNet)",
-          "Ephelides are usually under 3 mm across (DermNet)",
-          "More than 80 MC1R variants have been identified (Helix); some MC1R variants linked to freckling and red hair, one (Arg160Trp) estimated ~80,000 years old (Wikipedia)",
-          "Most redheads have two MC1R variants and almost all have one (Wikipedia)",
-          "Solar lentigines are larger, appear in middle age, persist in winter and have more melanocytes (DermNet, Medscape)",
-          "Freckly skin has less photo-protective melanin and is more susceptible to UV damage (Wikipedia)"
-        ],
-        "voice": "Kokoro",
-        "format": "long",
-        "style": "Cut-Paper Diorama"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261118-freckles",
-      "redos": 0,
-      "updated": "2026-11-18T21:58:38.022221+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Cut-Paper Diorama style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-18",
-        "name": "2026-11-18-102.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-18",
-        "name": "2026-11-18-102-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:02,030\nYou were born with zero freckles.\n\n2\n00:00:02,490 --> 00:00:03,560\nNot a single one.\n\n3\n00:00:03,910 --> 00:00:06,150\nThey usually start showing up around age two.\n\n4\n00:00:06,610 --> 00:00:07,920\nThen some kids get a few,\n\n5\n00:00:08,210 --> 00:00:09,820\nwhile others end up with hundreds.\n\n6\n00:00:10,270 --> 00:00:13,090\nSo why do some people get way more freckles than others?\n\n7\n00:00:13,570 --> 00:00:15,230\nFirst, what is a freckle, really?\n\n8\n00:00:15,800 --> 00:00:18,750\nYour skin gets its color from a pigment called melanin.\n\n9\n00:00:19,170 --> 00:00:21,680\nIt's made by special cells called melanocytes,\n\n10\n00:00:22,080 --> 00:00:24,270\ntucked deep in the bottom layer of your skin.\n\n11\n00:00:24,620 --> 00:00:27,080\nEach one pumps out tiny packets of pigment,\n\n12\n00:00:27,480 --> 00:00:29,460\nand hands them to the skin cells around it.\n\n13\n00:00:29,810 --> 00:00:30,940\nHere's the surprise.\n\n14\n00:00:31,270 --> 00:00:33,550\nA freckle doesn't have extra pigment cells.\n\n15\n00:00:34,000 --> 00:00:36,500\nIt has about the same number as the skin next to it.\n\n16\n00:00:36,920 --> 00:00:38,940\nThose cells are just working way harder,\n\n17\n00:00:39,350 --> 00:00:42,080\nmaking a lot more melanin in one tiny spot.\n\n18\n00:00:42,490 --> 00:00:45,000\nMost freckles are smaller than three millimeters.\n\n19\n00:00:45,420 --> 00:00:47,240\nAnd they show up most on fair skin,\n\n20\n00:00:47,600 --> 00:00:49,340\nwhich has less melanin to begin with.\n\n21\n00:00:49,770 --> 00:00:51,890\nSo what makes those cells work overtime?\n\n22\n00:00:52,360 --> 00:00:53,040\nSunlight.\n\n23\n00:00:53,380 --> 00:00:55,300\nWhen ultraviolet light hits your skin,\n\n24\n00:00:55,710 --> 00:00:57,970\nit switches your melanocytes into high gear.\n\n25\n00:00:58,320 --> 00:01:00,180\nMelanin is your body's sunshade.\n\n26\n00:01:00,530 --> 00:01:03,670\nIt soaks up UV light before it can damage your DNA.\n\n27\n00:01:04,070 --> 00:01:07,240\nIn most skin, that extra melanin spreads out evenly,\n\n28\n00:01:07,570 --> 00:01:08,460\nand you get a tan.\n\n29\n00:01:08,910 --> 00:01:11,720\nBut in freckly skin, it piles up in little patches.\n\n30\n00:01:12,160 --> 00:01:14,100\nThat's why freckles darken every summer,\n\n31\n00:01:14,450 --> 00:01:16,980\nand fade, or even disappear, in winter.\n\n32\n00:01:17,430 --> 00:01:19,700\nAnd it's why babies, who've barely seen the sun,\n\n33\n00:01:19,930 --> 00:01:20,810\ndon't have any yet.\n\n34\n00:01:21,260 --> 00:01:23,250\nBut two kids can play in the same sun,\n\n35\n00:01:23,600 --> 00:01:25,810\nand only one ends up covered in freckles.\n\n36\n00:01:26,180 --> 00:01:27,520\nThat's where your genes come in.\n\n37\n00:01:27,980 --> 00:01:30,360\nThe big one is a gene called MC1R.\n\n38\n00:01:30,750 --> 00:01:33,060\nThink of it as a switch on every melanocyte.\n\n39\n00:01:33,510 --> 00:01:34,500\nWhen it works normally,\n\n40\n00:01:34,810 --> 00:01:36,060\nthe cell makes eumelanin,\n\n41\n00:01:36,450 --> 00:01:39,200\na dark brown pigment that's great at blocking sun.\n\n42\n00:01:39,620 --> 00:01:43,130\nBut scientists have found more than 80 versions of MC1R.\n\n43\n00:01:43,480 --> 00:01:44,890\nAnd some of them are ancient.\n\n44\n00:01:45,310 --> 00:01:47,830\nOne may date back around 80,000 years.\n\n45\n00:01:48,270 --> 00:01:51,070\nSome of them flip the switch toward pheomelanin instead,\n\n46\n00:01:51,540 --> 00:01:54,270\na reddish yellow pigment that protects much less.\n\n47\n00:01:54,690 --> 00:01:56,950\nThose same versions are behind red hair.\n\n48\n00:01:57,310 --> 00:01:58,940\nMost redheads carry two of them,\n\n49\n00:01:59,280 --> 00:02:00,940\nand almost all carry at least one.\n\n50\n00:02:01,330 --> 00:02:04,100\nThat's why red hair and freckles so often go together.\n\n51\n00:02:04,530 --> 00:02:07,060\nStill, one copy doesn't guarantee freckles.\n\n52\n00:02:07,530 --> 00:02:10,170\nSome people without these versions freckle anyway,\n\n53\n00:02:10,600 --> 00:02:12,830\nbecause lots of other genes play a part too.\n\n54\n00:02:13,290 --> 00:02:15,590\nNow, not every brown spot is a freckle.\n\n55\n00:02:16,070 --> 00:02:18,230\nDoctors call real freckles ephelides.\n\n56\n00:02:18,650 --> 00:02:20,910\nReal freckles come and go with the seasons,\n\n57\n00:02:21,270 --> 00:02:22,920\nand many fade as you get older.\n\n58\n00:02:23,360 --> 00:02:26,180\nSun spots, or solar lentigines, are different.\n\n59\n00:02:26,590 --> 00:02:28,900\nThey're larger, they show up in middle age,\n\n60\n00:02:29,010 --> 00:02:30,020\nafter years of sun,\n\n61\n00:02:30,370 --> 00:02:32,040\nand they stay put all winter long.\n\n62\n00:02:32,490 --> 00:02:36,450\nUnder a microscope, sun spots really do have extra pigment cells.\n\n63\n00:02:36,840 --> 00:02:38,310\nSo what do freckles tell you?\n\n64\n00:02:38,860 --> 00:02:42,460\nFreckly skin usually makes less of that protective brown melanin,\n\n65\n00:02:42,840 --> 00:02:44,310\nso it burns more easily.\n\n66\n00:02:44,750 --> 00:02:47,030\nThat's why skin doctors tell freckly people,\n\n67\n00:02:47,360 --> 00:02:49,280\nto be extra careful with sunscreen.\n\n68\n00:02:49,690 --> 00:02:51,530\nSo freckles aren't random dots.\n\n69\n00:02:51,880 --> 00:02:53,530\nThey're tiny patches of sunshade,\n\n70\n00:02:53,870 --> 00:02:55,170\nswitched on extra hard,\n\n71\n00:02:55,470 --> 00:02:57,440\nmostly thanks to one tiny gene.\n\n72\n00:02:57,870 --> 00:02:59,690\nNext up, how do your lungs breathe,\n\n73\n00:03:00,050 --> 00:03:01,760\nmore than 20,000 times a day?\n\n",
-      "tg_msg": 1159,
-      "approved_by": "auto",
-      "description_full": "Why do some people get way more freckles than others? See how sunlight switches on the pigment cells in your skin, why freckles fade in winter, how the MC1R gene links freckles to red hair, and how a freckle differs from a sun spot.\n\nSources:\nhttps://en.wikipedia.org/wiki/Freckle\nhttps://dermnetnz.org/topics/brown-spots-and-freckles\nhttps://img.medscape.com/pi/iphone/medscapeapp/html/A1119293-business.html\n\nAnimated in the Cut-Paper Diorama style.\n\nFollow Zorbly AI for a new Short every day.\n\n#freckles #science #humanbody\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Cut-Paper Diorama style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/DKrAGtivFXo",
-          "private \u00b7 thumbnail \u2705"
-        ]
-      },
-      "uploaded_at": "2026-11-18T21:58:38.022240+00:00",
-      "slot": "2026-11-19T02:15:00+00:00"
-    },
     "2026-11-18-103": {
       "topic": {
         "title": "Why do lobsters never stop growing?",
@@ -3104,12 +3021,12 @@
         "format": "animated",
         "style": "Claymation Set"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261124-worms-rain",
       "redos": 0,
-      "updated": "2026-11-24T11:05:09.448698+00:00",
+      "updated": "2026-11-24T21:22:09.246741+00:00",
       "credits": [
         "Animation: code-drawn in Claude (Claymation Set style). Voice: Kokoro text-to-speech."
       ],
@@ -3124,7 +3041,237 @@
         "name": "2026-11-24-104-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:02,530\nThat worm on your sidewalk isn't drowning.\n\n2\n00:00:02,890 --> 00:00:04,250\nSo why did it crawl out?\n\n3\n00:00:04,760 --> 00:00:06,810\nWe're told rain floods their tunnels.\n\n4\n00:00:07,150 --> 00:00:08,820\nBut a worm doesn't have lungs.\n\n5\n00:00:09,210 --> 00:00:10,570\nIt breathes through its skin,\n\n6\n00:00:10,940 --> 00:00:12,620\nand that skin has to stay wet.\n\n7\n00:00:13,080 --> 00:00:15,710\nScientists have kept worms underwater for days,\n\n8\n00:00:15,820 --> 00:00:17,530\nand they just keep wiggling.\n\n9\n00:00:17,920 --> 00:00:19,110\nSo what's going on?\n\n10\n00:00:19,560 --> 00:00:21,020\nOne idea is drumming.\n\n11\n00:00:21,280 --> 00:00:23,610\nRaindrops tap the ground like a digging mole,\n\n12\n00:00:24,050 --> 00:00:26,460\nand worms escape moles by heading up.\n\n13\n00:00:26,890 --> 00:00:28,500\nBut lots of experts doubt it.\n\n14\n00:00:28,850 --> 00:00:30,630\nThe favorite theory is simpler.\n\n15\n00:00:31,080 --> 00:00:34,250\nUnderground, a worm squeezes through dirt bit by bit.\n\n16\n00:00:34,690 --> 00:00:36,810\nOn wet ground it slides fast and far,\n\n17\n00:00:37,260 --> 00:00:39,830\nto find food, a new home, or a mate.\n\n18\n00:00:40,190 --> 00:00:41,980\nDry ground would dry out its skin,\n\n19\n00:00:42,390 --> 00:00:44,320\nso rain is the perfect chance.\n\n20\n00:00:44,780 --> 00:00:46,490\nBasically, a worm highway.\n\n21\n00:00:46,810 --> 00:00:48,300\nSo next time you spot one,\n\n22\n00:00:48,720 --> 00:00:50,080\nis it escaping a flood,\n\n23\n00:00:50,330 --> 00:00:51,750\nor going on a road trip?\n\n",
-      "tg_msg": 1216
+      "tg_msg": 1216,
+      "approved_by": "auto",
+      "description_full": "Why do earthworms come out when it rains if they don't drown? Worms breathe through their wet skin and can survive days underwater, so scientists think rain vibrations or an easy chance to travel far on wet ground bring them up.\n\nSources:\nhttps://www.scientificamerican.com/article/why-earthworms-surface-after-rain/\nhttps://blog.nature.org/2019/04/15/the-real-reason-you-see-earthworms-after-rain\nhttps://www.earthwormsoc.org.uk/node/60\n\nAnimated in the Claymation Set style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #earthworms #animalfacts #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Claymation Set style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/i7JA1E6W2OQ",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-24T21:22:09.246756+00:00",
+      "slot": "2026-11-26T20:15:00+00:00"
+    },
+    "2026-11-24-105": {
+      "topic": {
+        "title": "Your Kidneys Explained in Simple Words: how they clean all your blood",
+        "format": "long",
+        "angle": "Cut-Paper Diorama"
+      },
+      "package": {
+        "title": "Your Kidneys Filter 180 Litres a Day. Why Don't You Pee It?",
+        "description": "How do your kidneys work? About a million tiny filters called nephrons in each kidney sieve around 180 litres of fluid a day, then take back about 99 percent of it, so only 1 to 2 litres leaves as urine.\n\nSources:\nhttps://kidneycareuk.org/kidney-disease-information/about-kidney-health/facts-about-your-kidneys/\nhttps://courses.lumenlearning.com/suny-ap2/chapter/physiology-of-urine-formation/\nhttps://www.informedhealth.org/how-do-the-kidneys-work.html\n\nAnimated in the Cut-Paper Diorama style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#kidneys",
+          "#humanbody",
+          "#science"
+        ],
+        "tags": [
+          "how kidneys work",
+          "kidneys explained",
+          "how do kidneys filter blood",
+          "nephron",
+          "glomerulus",
+          "urine",
+          "180 litres a day",
+          "human body facts",
+          "biology explained",
+          "science for kids",
+          "renal system",
+          "urinary system",
+          "kidney facts",
+          "zorbly ai"
+        ],
+        "category": "27",
+        "pinned_comment": "Did you know your kidneys sit up under your ribs, not down by your lower back? \ud83e\uded8",
+        "thumbnail_text": "99% RECYCLED",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "Your kidneys filter 180 litres a day, so why don't you pee 180 litres? That's like 180 big bottles of water, every single day. And each kidney is only about the size of your fist. So how do two little beans wash all of your blood, and still know exactly what to keep? Let's go inside. First, where are they? Not down low where most people point. Your kidneys sit high up in your back, tucked under your bottom ribs, one on each side. Each one weighs about 150 grams, about as much as a smartphone. But they're hungry for blood. Around one fifth of everything your heart pumps, goes straight to your kidneys. That's about a litre of blood, every minute. So over a day, your blood passes through them again and again. Now let's zoom in. Each kidney is packed with about a million tiny filters, called nephrons. And every nephron starts with a little ball of blood vessels, called the glomerulus. Think of it like a coffee filter made of blood vessels. Or a kitchen sieve that lets the water through but keeps the pasta. Blood squeezes through it under pressure. Water, salt, sugar and waste slip through the thin walls. But big things, like blood cells and proteins, are too large, so they stay in the blood. That liquid that slips through is called filtrate. And this is where those 180 litres come from. But wait. If you peed out 180 litres a day, you'd be in the bathroom nonstop. So here's the clever part. The filtrate flows down a long, twisty tube. And along the way, the tube grabs back almost everything useful. Sugar, back into the blood. Most of the salt, back into the blood. And water, back into the blood. In fact, about 99 percent of the filtrate gets reabsorbed. What's left is mostly extra water and waste, like urea, a leftover from breaking down protein. That's your urine. Only about one to two litres a day. So out of 180 litres filtered, you keep almost all of it. That's some serious recycling. It drips down a tube called the ureter, into your bladder, and waits there until you're ready to go. So the kidneys don't just throw out the trash. They pick the treasure back out of it. And cleaning is only half the job. Your kidneys also keep your water balanced. Drink a lot, and they let more water go. Get thirsty, and they hold on to it. That's why your pee changes color during the day. They also make chemical messengers. One, called renin, helps control your blood pressure. Another, called EPO, tells your bone marrow to make more red blood cells. And they turn vitamin D into its active form, which helps keep your bones strong. They even keep your blood from getting too acidic, and when your blood sugar runs low, they can make a little sugar of their own. So a million filters, a litre of blood a minute, and 180 litres cleaned every day, all from two organs the size of your fist. Pretty amazing for something you never even feel working. Next time, why do you have two nostrils, and why is one always more blocked?",
+        "key_facts": [
+          "Each kidney has about a million nephrons (KCUK)",
+          "Kidneys filter roughly 180 L of fluid a day (Lumen: ~180 L/day men, ~150 L/day women; KCUK says ~200 L)",
+          "About 99 percent of the filtrate is reabsorbed; 1-2 L of urine a day",
+          "About 20 percent of the heart's output, roughly 1 L of blood per minute, goes to the kidneys",
+          "Each kidney is about fist-sized and about 150 g",
+          "Glomerulus: cluster of tiny blood vessels whose thin walls let water, salts, wastes through; blood cells and large proteins stay",
+          "Kidneys release renin (blood pressure), EPO (red blood cells), activate vitamin D, balance water and acid, and can make glucose"
+        ],
+        "voice": "Kokoro",
+        "format": "long",
+        "style": "Cut-Paper Diorama"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261124-kidneys",
+      "redos": 0,
+      "updated": "2026-11-24T21:21:30.947572+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Cut-Paper Diorama style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-24",
+        "name": "2026-11-24-105.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-24",
+        "name": "2026-11-24-105-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:02,810\nYour kidneys filter 180 litres a day,\n\n2\n00:00:03,190 --> 00:00:05,500\nso why don't you pee 180 litres?\n\n3\n00:00:05,950 --> 00:00:09,590\nThat's like 180 big bottles of water, every single day.\n\n4\n00:00:10,010 --> 00:00:12,890\nAnd each kidney is only about the size of your fist.\n\n5\n00:00:13,350 --> 00:00:15,910\nSo how do two little beans wash all of your blood,\n\n6\n00:00:16,300 --> 00:00:18,020\nand still know exactly what to keep?\n\n7\n00:00:18,590 --> 00:00:19,710\nLet's go inside.\n\n8\n00:00:20,090 --> 00:00:21,120\nFirst, where are they?\n\n9\n00:00:21,580 --> 00:00:23,650\nNot down low where most people point.\n\n10\n00:00:24,000 --> 00:00:25,810\nYour kidneys sit high up in your back,\n\n11\n00:00:26,090 --> 00:00:28,730\ntucked under your bottom ribs, one on each side.\n\n12\n00:00:29,110 --> 00:00:31,530\nEach one weighs about 150 grams,\n\n13\n00:00:31,870 --> 00:00:33,350\nabout as much as a smartphone.\n\n14\n00:00:33,720 --> 00:00:35,080\nBut they're hungry for blood.\n\n15\n00:00:35,420 --> 00:00:37,590\nAround one fifth of everything your heart pumps,\n\n16\n00:00:37,910 --> 00:00:39,230\ngoes straight to your kidneys.\n\n17\n00:00:39,610 --> 00:00:41,840\nThat's about a litre of blood, every minute.\n\n18\n00:00:42,220 --> 00:00:45,210\nSo over a day, your blood passes through them again and again.\n\n19\n00:00:45,590 --> 00:00:46,630\nNow let's zoom in.\n\n20\n00:00:46,950 --> 00:00:49,860\nEach kidney is packed with about a million tiny filters,\n\n21\n00:00:50,180 --> 00:00:51,120\ncalled nephrons.\n\n22\n00:00:51,540 --> 00:00:54,620\nAnd every nephron starts with a little ball of blood vessels,\n\n23\n00:00:54,990 --> 00:00:56,160\ncalled the glomerulus.\n\n24\n00:00:56,550 --> 00:00:59,440\nThink of it like a coffee filter made of blood vessels.\n\n25\n00:00:59,790 --> 00:01:03,360\nOr a kitchen sieve that lets the water through but keeps the pasta.\n\n26\n00:01:03,790 --> 00:01:05,680\nBlood squeezes through it under pressure.\n\n27\n00:01:06,150 --> 00:01:09,250\nWater, salt, sugar and waste slip through the thin walls.\n\n28\n00:01:09,630 --> 00:01:12,240\nBut big things, like blood cells and proteins,\n\n29\n00:01:12,400 --> 00:01:14,670\nare too large, so they stay in the blood.\n\n30\n00:01:15,020 --> 00:01:17,530\nThat liquid that slips through is called filtrate.\n\n31\n00:01:18,000 --> 00:01:21,060\nAnd this is where those 180 litres come from.\n\n32\n00:01:21,480 --> 00:01:22,200\nBut wait.\n\n33\n00:01:22,490 --> 00:01:24,730\nIf you peed out 180 litres a day,\n\n34\n00:01:25,140 --> 00:01:26,790\nyou'd be in the bathroom nonstop.\n\n35\n00:01:27,230 --> 00:01:28,660\nSo here's the clever part.\n\n36\n00:01:29,010 --> 00:01:31,400\nThe filtrate flows down a long, twisty tube.\n\n37\n00:01:31,870 --> 00:01:35,410\nAnd along the way, the tube grabs back almost everything useful.\n\n38\n00:01:35,880 --> 00:01:37,360\nSugar, back into the blood.\n\n39\n00:01:37,830 --> 00:01:39,810\nMost of the salt, back into the blood.\n\n40\n00:01:40,220 --> 00:01:41,880\nAnd water, back into the blood.\n\n41\n00:01:42,230 --> 00:01:45,980\nIn fact, about 99 percent of the filtrate gets reabsorbed.\n\n42\n00:01:46,320 --> 00:01:48,830\nWhat's left is mostly extra water and waste,\n\n43\n00:01:49,010 --> 00:01:52,080\nlike urea, a leftover from breaking down protein.\n\n44\n00:01:52,530 --> 00:01:53,410\nThat's your urine.\n\n45\n00:01:53,740 --> 00:01:55,710\nOnly about one to two litres a day.\n\n46\n00:01:56,130 --> 00:01:59,750\nSo out of 180 litres filtered, you keep almost all of it.\n\n47\n00:02:00,180 --> 00:02:01,760\nThat's some serious recycling.\n\n48\n00:02:02,080 --> 00:02:03,900\nIt drips down a tube called the ureter,\n\n49\n00:02:04,280 --> 00:02:05,030\ninto your bladder,\n\n50\n00:02:05,420 --> 00:02:07,340\nand waits there until you're ready to go.\n\n51\n00:02:07,730 --> 00:02:09,780\nSo the kidneys don't just throw out the trash.\n\n52\n00:02:10,250 --> 00:02:11,850\nThey pick the treasure back out of it.\n\n53\n00:02:12,240 --> 00:02:14,120\nAnd cleaning is only half the job.\n\n54\n00:02:14,580 --> 00:02:16,930\nYour kidneys also keep your water balanced.\n\n55\n00:02:17,310 --> 00:02:19,500\nDrink a lot, and they let more water go.\n\n56\n00:02:19,970 --> 00:02:21,970\nGet thirsty, and they hold on to it.\n\n57\n00:02:22,340 --> 00:02:24,630\nThat's why your pee changes color during the day.\n\n58\n00:02:25,000 --> 00:02:26,920\nThey also make chemical messengers.\n\n59\n00:02:27,390 --> 00:02:30,220\nOne, called renin, helps control your blood pressure.\n\n60\n00:02:30,620 --> 00:02:35,020\nAnother, called EPO, tells your bone marrow to make more red blood cells.\n\n61\n00:02:35,490 --> 00:02:38,050\nAnd they turn vitamin D into its active form,\n\n62\n00:02:38,390 --> 00:02:39,990\nwhich helps keep your bones strong.\n\n63\n00:02:40,450 --> 00:02:42,780\nThey even keep your blood from getting too acidic,\n\n64\n00:02:43,210 --> 00:02:47,030\nand when your blood sugar runs low, they can make a little sugar of their own.\n\n65\n00:02:47,400 --> 00:02:50,070\nSo a million filters, a litre of blood a minute,\n\n66\n00:02:50,470 --> 00:02:52,930\nand 180 litres cleaned every day,\n\n67\n00:02:53,370 --> 00:02:55,750\nall from two organs the size of your fist.\n\n68\n00:02:56,210 --> 00:02:59,130\nPretty amazing for something you never even feel working.\n\n69\n00:02:59,550 --> 00:03:01,750\nNext time, why do you have two nostrils,\n\n70\n00:03:02,080 --> 00:03:03,850\nand why is one always more blocked?\n\n",
+      "tg_msg": 1220
+    },
+    "2026-11-24-106": {
+      "topic": {
+        "title": "How does a clam (the shipworm) eat through wood?",
+        "format": "animated",
+        "angle": "Kawaii Anime"
+      },
+      "package": {
+        "title": "How Does a Clam Eat Through Wood? \ud83e\udeb5",
+        "description": "How does a shipworm eat wood? This clam grinds tunnels with two tiny shell plates, then relies on bacteria in its gills to make the enzymes that digest the wood.\n\nSources:\nhttps://news.northeastern.edu/2022/11/23/how-do-shipworms-eat/\nhttps://www.osti.gov/pages/biblio/1347687-gill-bacteria-enable-novel-digestive-strategy-wood-feeding-mollusk\nhttps://www.smithsonianmag.com/science-nature/tunneling-clam-bedeviled-humans-sank-ships-conquered-oceans-180961288/\n\nAnimated in the Kawaii Anime style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#animals",
+          "#science",
+          "#animalfacts"
+        ],
+        "tags": [
+          "shipworm",
+          "shipworms",
+          "clam that eats wood",
+          "teredo",
+          "termites of the sea",
+          "how do shipworms eat wood",
+          "wood eating clam",
+          "animal facts",
+          "ocean animals",
+          "marine biology",
+          "weird animals",
+          "science shorts",
+          "bacteria",
+          "kawaii animation"
+        ],
+        "category": "27",
+        "pinned_comment": "Termites or a hungry clam: which would you rather find in your boat? \ud83e\udeb5",
+        "thumbnail_text": "EATS BOATS",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "This clam can eat your wooden boat,\nand you'd never guess how.\nIt's called a shipworm.\nIt looks like a worm, but it's really a clam.\nIts shell? Just two tiny plates on its head.\nIt grinds them into wood like a rasp\nand tunnels deeper as it grows.\nThe sawdust goes straight to its stomach.\nBut there's a problem.\nWood is really hard to digest.\nSo the shipworm keeps helpers in its gills.\nBacteria that make wood-melting enzymes.\nThey send those enzymes down to the gut,\nand the clam turns timber into food.\nIts tail stays at the hole, breathing seawater.\nThat's how shipworms chewed through wooden ships for centuries.\nSailors called them the termites of the sea.\nSo which would you rather find in your boat?\nTermites, or a hungry clam?",
+        "key_facts": [
+          "Shipworms are clams (bivalves), not worms",
+          "Their shell is reduced to two small plates at the head, used to bore into wood",
+          "Bacteria living in the gills make wood-digesting enzymes that are carried to the gut",
+          "They keep their tail siphons at the entrance hole to the seawater",
+          "Shipworms have damaged wooden ships for centuries and are called termites of the sea"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Kawaii Anime"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261124-shipworm",
+      "redos": 0,
+      "updated": "2026-11-24T21:21:40.498551+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-24",
+        "name": "2026-11-24-106.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-24",
+        "name": "2026-11-24-106-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:02,140\nThis clam can eat your wooden boat,\n\n2\n00:00:02,580 --> 00:00:03,880\nand you'd never guess how.\n\n3\n00:00:04,280 --> 00:00:05,580\nIt's called a shipworm.\n\n4\n00:00:05,940 --> 00:00:08,260\nIt looks like a worm, but it's really a clam.\n\n5\n00:00:08,650 --> 00:00:11,020\nIts shell? Just two tiny plates on its head.\n\n6\n00:00:11,450 --> 00:00:13,450\nIt grinds them into wood like a rasp\n\n7\n00:00:13,810 --> 00:00:15,660\nand tunnels deeper as it grows.\n\n8\n00:00:16,120 --> 00:00:18,240\nThe sawdust goes straight to its stomach.\n\n9\n00:00:18,650 --> 00:00:19,910\nBut there's a problem.\n\n10\n00:00:20,270 --> 00:00:22,310\nWood is really hard to digest.\n\n11\n00:00:22,780 --> 00:00:25,180\nSo the shipworm keeps helpers in its gills.\n\n12\n00:00:25,560 --> 00:00:28,100\nBacteria that make wood-melting enzymes.\n\n13\n00:00:28,470 --> 00:00:30,580\nThey send those enzymes down to the gut,\n\n14\n00:00:31,100 --> 00:00:33,300\nand the clam turns timber into food.\n\n15\n00:00:33,690 --> 00:00:36,230\nIts tail stays at the hole, breathing seawater.\n\n16\n00:00:36,700 --> 00:00:39,780\nThat's how shipworms chewed through wooden ships for centuries.\n\n17\n00:00:40,250 --> 00:00:42,500\nSailors called them the termites of the sea.\n\n18\n00:00:42,860 --> 00:00:45,110\nSo which would you rather find in your boat?\n\n19\n00:00:45,610 --> 00:00:47,250\nTermites, or a hungry clam?\n\n",
+      "tg_msg": 1221
+    },
+    "2026-11-24-107": {
+      "topic": {
+        "title": "Why do tomatoes lose their flavor in the fridge?",
+        "format": "animated",
+        "angle": "Napkin Sketch"
+      },
+      "package": {
+        "title": "Why Fridges Steal 65% of Tomato Flavor \ud83c\udf45",
+        "description": "Why do tomatoes lose their flavor in the fridge? Cold storage turns down the genes that make a tomato's aroma, cutting its smell molecules by up to 65% while the sugar and acid stay the same.\n\nSources:\nhttps://www.pnas.org/doi/10.1073/pnas.1613910113\nhttps://cosmosmagazine.com/science/chemistry/why-you-shouldnt-store-tomatoes-in-the-fridge\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC5098663/\n\nAnimated in the Napkin Sketch style.\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#tomatoes",
+          "#foodscience",
+          "#kitchenhacks"
+        ],
+        "tags": [
+          "tomatoes",
+          "tomato fridge",
+          "why tomatoes lose flavor",
+          "food science",
+          "tomato storage",
+          "should you refrigerate tomatoes",
+          "flavor science",
+          "smell and taste",
+          "kitchen tips",
+          "explainer",
+          "zorbly ai",
+          "science shorts"
+        ],
+        "category": "27",
+        "pinned_comment": "Be honest: are your tomatoes in the fridge or on the counter right now? \ud83c\udf45",
+        "thumbnail_text": "WET CARDBOARD",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "Your fridge is killing your tomatoes' flavor. Most people never notice why. A ripe tomato's taste isn't just sweet and sour. It's hundreds of tiny smell molecules, and your nose does most of the tasting. Those smells are made by genes inside the fruit, switched on while it sits somewhere warm. But scientists kept tomatoes at five degrees Celsius for a week. The cold turned those genes way down. The smell molecules dropped by up to sixty-five percent! The sugar and acid didn't change at all. So it's still sweet, but it tastes like wet cardboard. Seventy-six taste testers noticed right away. And a week in the cold leaves marks on the fruit's DNA switches, so warming it back up barely helps. Keep ripe ones on the counter instead. So, where are your tomatoes right now?",
+        "key_facts": [
+          "University of Florida researchers (Klee lab, PNAS 2016) stored ripe tomatoes at 5 C for up to 7 days",
+          "Flavor volatiles dropped by as much as 65%; sugar and acid did not change",
+          "Chilling turned down the activity of genes that make aroma volatiles and changed DNA methylation",
+          "A 76-person taste panel rated 7-day chilled tomatoes far less tasty; warming them afterwards barely helped"
+        ],
+        "voice": "Kokoro",
+        "format": "animated",
+        "style": "Napkin Sketch"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261124-tomato-fridge",
+      "redos": 0,
+      "updated": "2026-11-24T21:21:54.340523+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Napkin Sketch style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-24",
+        "name": "2026-11-24-107.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-24",
+        "name": "2026-11-24-107-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:02,810\nYour fridge is killing your tomatoes' flavor.\n\n2\n00:00:03,180 --> 00:00:04,970\nMost people never notice why.\n\n3\n00:00:05,330 --> 00:00:08,200\nA ripe tomato's taste isn't just sweet and sour.\n\n4\n00:00:08,580 --> 00:00:11,050\nIt's hundreds of tiny smell molecules,\n\n5\n00:00:11,140 --> 00:00:13,720\nand your nose does most of the tasting.\n\n6\n00:00:14,180 --> 00:00:16,760\nThose smells are made by genes inside the fruit,\n\n7\n00:00:17,300 --> 00:00:19,460\nswitched on while it sits somewhere warm.\n\n8\n00:00:19,840 --> 00:00:21,640\nBut scientists kept tomatoes\n\n9\n00:00:21,790 --> 00:00:23,600\nat five degrees Celsius for a week.\n\n10\n00:00:24,020 --> 00:00:26,200\nThe cold turned those genes way down.\n\n11\n00:00:26,620 --> 00:00:28,310\nThe smell molecules dropped\n\n12\n00:00:28,380 --> 00:00:29,990\nby up to sixty-five percent!\n\n13\n00:00:30,450 --> 00:00:32,710\nThe sugar and acid didn't change at all.\n\n14\n00:00:33,130 --> 00:00:34,050\nSo it's still sweet,\n\n15\n00:00:34,350 --> 00:00:36,100\nbut it tastes like wet cardboard.\n\n16\n00:00:36,500 --> 00:00:39,250\nSeventy-six taste testers noticed right away.\n\n17\n00:00:39,700 --> 00:00:41,280\nAnd a week in the cold\n\n18\n00:00:41,530 --> 00:00:43,580\nleaves marks on the fruit's DNA switches,\n\n19\n00:00:44,030 --> 00:00:46,230\nso warming it back up barely helps.\n\n20\n00:00:46,690 --> 00:00:48,930\nKeep ripe ones on the counter instead.\n\n21\n00:00:49,330 --> 00:00:51,530\nSo, where are your tomatoes right now?\n\n",
+      "tg_msg": 1222
     }
   },
   "history": [
@@ -3367,7 +3514,10 @@
     "drop/20261123-egg-hen": "2026-11-24-101",
     "drop/20261123-snail-foot": "2026-11-24-102",
     "drop/20261123-squirrel-nuts": "2026-11-24-103",
-    "drop/20261124-worms-rain": "2026-11-24-104"
+    "drop/20261124-worms-rain": "2026-11-24-104",
+    "drop/20261124-kidneys": "2026-11-24-105",
+    "drop/20261124-shipworm": "2026-11-24-106",
+    "drop/20261124-tomato-fridge": "2026-11-24-107"
   },
   "refs_day": "2026-11-24"
 }
