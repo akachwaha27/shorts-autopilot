@@ -1,0 +1,667 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.14,
+  "text": "This clam can eat your wooden boat,",
+  "words": [
+   [
+    "this",
+    0.25
+   ],
+   [
+    "clam",
+    0.52
+   ],
+   [
+    "can",
+    0.79
+   ],
+   [
+    "eat",
+    0.99
+   ],
+   [
+    "your",
+    1.19
+   ],
+   [
+    "wooden",
+    1.46
+   ],
+   [
+    "boat",
+    1.87
+   ]
+  ]
+ },
+ {
+  "s": 2.58,
+  "e": 3.88,
+  "text": "and you'd never guess how.",
+  "words": [
+   [
+    "and",
+    2.58
+   ],
+   [
+    "youd",
+    2.78
+   ],
+   [
+    "never",
+    3.04
+   ],
+   [
+    "guess",
+    3.36
+   ],
+   [
+    "how",
+    3.69
+   ]
+  ]
+ },
+ {
+  "s": 4.28,
+  "e": 5.58,
+  "text": "It's called a shipworm.",
+  "words": [
+   [
+    "its",
+    4.28
+   ],
+   [
+    "called",
+    4.49
+   ],
+   [
+    "a",
+    4.93
+   ],
+   [
+    "shipworm",
+    5.0
+   ]
+  ]
+ },
+ {
+  "s": 5.94,
+  "e": 8.26,
+  "text": "It looks like a worm, but it's really a clam.",
+  "words": [
+   [
+    "it",
+    5.94
+   ],
+   [
+    "looks",
+    6.08
+   ],
+   [
+    "like",
+    6.43
+   ],
+   [
+    "a",
+    6.71
+   ],
+   [
+    "worm",
+    6.78
+   ],
+   [
+    "but",
+    7.06
+   ],
+   [
+    "its",
+    7.27
+   ],
+   [
+    "really",
+    7.48
+   ],
+   [
+    "a",
+    7.91
+   ],
+   [
+    "clam",
+    7.98
+   ]
+  ]
+ },
+ {
+  "s": 8.65,
+  "e": 11.02,
+  "text": "Its shell? Just two tiny plates on its head.",
+  "words": [
+   [
+    "its",
+    8.65
+   ],
+   [
+    "shell",
+    8.86
+   ],
+   [
+    "just",
+    9.21
+   ],
+   [
+    "two",
+    9.49
+   ],
+   [
+    "tiny",
+    9.7
+   ],
+   [
+    "plates",
+    9.98
+   ],
+   [
+    "on",
+    10.4
+   ],
+   [
+    "its",
+    10.53
+   ],
+   [
+    "head",
+    10.74
+   ]
+  ]
+ },
+ {
+  "s": 11.45,
+  "e": 13.45,
+  "text": "It grinds them into wood like a rasp",
+  "words": [
+   [
+    "it",
+    11.45
+   ],
+   [
+    "grinds",
+    11.59
+   ],
+   [
+    "them",
+    12.0
+   ],
+   [
+    "into",
+    12.28
+   ],
+   [
+    "wood",
+    12.55
+   ],
+   [
+    "like",
+    12.83
+   ],
+   [
+    "a",
+    13.1
+   ],
+   [
+    "rasp",
+    13.17
+   ]
+  ]
+ },
+ {
+  "s": 13.81,
+  "e": 15.66,
+  "text": "and tunnels deeper as it grows.",
+  "words": [
+   [
+    "and",
+    13.81
+   ],
+   [
+    "tunnels",
+    14.03
+   ],
+   [
+    "deeper",
+    14.55
+   ],
+   [
+    "as",
+    14.99
+   ],
+   [
+    "it",
+    15.14
+   ],
+   [
+    "grows",
+    15.29
+   ]
+  ]
+ },
+ {
+  "s": 16.12,
+  "e": 18.24,
+  "text": "The sawdust goes straight to its stomach.",
+  "words": [
+   [
+    "the",
+    16.12
+   ],
+   [
+    "sawdust",
+    16.31
+   ],
+   [
+    "goes",
+    16.74
+   ],
+   [
+    "straight",
+    16.99
+   ],
+   [
+    "to",
+    17.49
+   ],
+   [
+    "its",
+    17.62
+   ],
+   [
+    "stomach",
+    17.81
+   ]
+  ]
+ },
+ {
+  "s": 18.65,
+  "e": 19.91,
+  "text": "But there's a problem.",
+  "words": [
+   [
+    "but",
+    18.65
+   ],
+   [
+    "theres",
+    18.87
+   ],
+   [
+    "a",
+    19.32
+   ],
+   [
+    "problem",
+    19.39
+   ]
+  ]
+ },
+ {
+  "s": 20.27,
+  "e": 22.31,
+  "text": "Wood is really hard to digest.",
+  "words": [
+   [
+    "wood",
+    20.27
+   ],
+   [
+    "is",
+    20.61
+   ],
+   [
+    "really",
+    20.78
+   ],
+   [
+    "hard",
+    21.29
+   ],
+   [
+    "to",
+    21.63
+   ],
+   [
+    "digest",
+    21.8
+   ]
+  ]
+ },
+ {
+  "s": 22.78,
+  "e": 25.18,
+  "text": "So the shipworm keeps helpers in its gills.",
+  "words": [
+   [
+    "so",
+    22.78
+   ],
+   [
+    "the",
+    22.92
+   ],
+   [
+    "shipworm",
+    23.12
+   ],
+   [
+    "keeps",
+    23.67
+   ],
+   [
+    "helpers",
+    24.01
+   ],
+   [
+    "in",
+    24.49
+   ],
+   [
+    "its",
+    24.63
+   ],
+   [
+    "gills",
+    24.84
+   ]
+  ]
+ },
+ {
+  "s": 25.56,
+  "e": 28.1,
+  "text": "Bacteria that make wood-melting enzymes.",
+  "words": [
+   [
+    "bacteria",
+    25.56
+   ],
+   [
+    "that",
+    26.16
+   ],
+   [
+    "make",
+    26.46
+   ],
+   [
+    "woodmelting",
+    26.76
+   ],
+   [
+    "enzymes",
+    27.57
+   ]
+  ]
+ },
+ {
+  "s": 28.47,
+  "e": 30.58,
+  "text": "They send those enzymes down to the gut,",
+  "words": [
+   [
+    "they",
+    28.47
+   ],
+   [
+    "send",
+    28.73
+   ],
+   [
+    "those",
+    28.99
+   ],
+   [
+    "enzymes",
+    29.32
+   ],
+   [
+    "down",
+    29.79
+   ],
+   [
+    "to",
+    30.05
+   ],
+   [
+    "the",
+    30.18
+   ],
+   [
+    "gut",
+    30.38
+   ]
+  ]
+ },
+ {
+  "s": 31.1,
+  "e": 33.3,
+  "text": "and the clam turns timber into food.",
+  "words": [
+   [
+    "and",
+    31.1
+   ],
+   [
+    "the",
+    31.33
+   ],
+   [
+    "clam",
+    31.55
+   ],
+   [
+    "turns",
+    31.86
+   ],
+   [
+    "timber",
+    32.24
+   ],
+   [
+    "into",
+    32.69
+   ],
+   [
+    "food",
+    33.0
+   ]
+  ]
+ },
+ {
+  "s": 33.69,
+  "e": 36.23,
+  "text": "Its tail stays at the hole, breathing seawater.",
+  "words": [
+   [
+    "its",
+    33.69
+   ],
+   [
+    "tail",
+    33.89
+   ],
+   [
+    "stays",
+    34.16
+   ],
+   [
+    "at",
+    34.49
+   ],
+   [
+    "the",
+    34.63
+   ],
+   [
+    "hole",
+    34.83
+   ],
+   [
+    "breathing",
+    35.1
+   ],
+   [
+    "seawater",
+    35.7
+   ]
+  ]
+ },
+ {
+  "s": 36.7,
+  "e": 39.78,
+  "text": "That's how shipworms chewed through wooden ships for centuries.",
+  "words": [
+   [
+    "thats",
+    36.7
+   ],
+   [
+    "how",
+    36.99
+   ],
+   [
+    "shipworms",
+    37.16
+   ],
+   [
+    "chewed",
+    37.69
+   ],
+   [
+    "through",
+    38.03
+   ],
+   [
+    "wooden",
+    38.44
+   ],
+   [
+    "ships",
+    38.79
+   ],
+   [
+    "for",
+    39.08
+   ],
+   [
+    "centuries",
+    39.25
+   ]
+  ]
+ },
+ {
+  "s": 40.25,
+  "e": 42.5,
+  "text": "Sailors called them the termites of the sea.",
+  "words": [
+   [
+    "sailors",
+    40.25
+   ],
+   [
+    "called",
+    40.69
+   ],
+   [
+    "them",
+    41.06
+   ],
+   [
+    "the",
+    41.31
+   ],
+   [
+    "termites",
+    41.5
+   ],
+   [
+    "of",
+    42.0
+   ],
+   [
+    "the",
+    42.12
+   ],
+   [
+    "sea",
+    42.31
+   ]
+  ]
+ },
+ {
+  "s": 42.86,
+  "e": 45.11,
+  "text": "So which would you rather find in your boat?",
+  "words": [
+   [
+    "so",
+    42.86
+   ],
+   [
+    "which",
+    42.99
+   ],
+   [
+    "would",
+    43.31
+   ],
+   [
+    "you",
+    43.63
+   ],
+   [
+    "rather",
+    43.82
+   ],
+   [
+    "find",
+    44.21
+   ],
+   [
+    "in",
+    44.47
+   ],
+   [
+    "your",
+    44.6
+   ],
+   [
+    "boat",
+    44.86
+   ]
+  ]
+ },
+ {
+  "s": 45.61,
+  "e": 47.25,
+  "text": "Termites, or a hungry clam?",
+  "words": [
+   [
+    "termites",
+    45.61
+   ],
+   [
+    "or",
+    46.24
+   ],
+   [
+    "a",
+    46.39
+   ],
+   [
+    "hungry",
+    46.47
+   ],
+   [
+    "clam",
+    46.94
+   ]
+  ]
+ }
+]
