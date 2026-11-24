@@ -1,0 +1,681 @@
+[
+ {
+  "s": 0.25,
+  "e": 3.46,
+  "text": "Your backyard squirrel buries 3,000 nuts a year.",
+  "words": [
+   [
+    "your",
+    0.25
+   ],
+   [
+    "backyard",
+    0.58
+   ],
+   [
+    "squirrel",
+    1.24
+   ],
+   [
+    "buries",
+    1.9
+   ],
+   [
+    "3000",
+    2.39
+   ],
+   [
+    "nuts",
+    2.72
+   ],
+   [
+    "a",
+    3.05
+   ],
+   [
+    "year",
+    3.13
+   ]
+  ]
+ },
+ {
+  "s": 3.86,
+  "e": 5.12,
+  "text": "How does it find them?",
+  "words": [
+   [
+    "how",
+    3.86
+   ],
+   [
+    "does",
+    4.08
+   ],
+   [
+    "it",
+    4.38
+   ],
+   [
+    "find",
+    4.53
+   ],
+   [
+    "them",
+    4.82
+   ]
+  ]
+ },
+ {
+  "s": 5.61,
+  "e": 7.69,
+  "text": "Each one goes in its own little hole.",
+  "words": [
+   [
+    "each",
+    5.61
+   ],
+   [
+    "one",
+    5.89
+   ],
+   [
+    "goes",
+    6.11
+   ],
+   [
+    "in",
+    6.4
+   ],
+   [
+    "its",
+    6.54
+   ],
+   [
+    "own",
+    6.76
+   ],
+   [
+    "little",
+    6.97
+   ],
+   [
+    "hole",
+    7.4
+   ]
+  ]
+ },
+ {
+  "s": 8.1,
+  "e": 9.57,
+  "text": "Mostly, it remembers.",
+  "words": [
+   [
+    "mostly",
+    8.1
+   ],
+   [
+    "it",
+    8.62
+   ],
+   [
+    "remembers",
+    8.79
+   ]
+  ]
+ },
+ {
+  "s": 9.96,
+  "e": 11.4,
+  "text": "It builds a map in its head,",
+  "words": [
+   [
+    "it",
+    9.96
+   ],
+   [
+    "builds",
+    10.09
+   ],
+   [
+    "a",
+    10.5
+   ],
+   [
+    "map",
+    10.57
+   ],
+   [
+    "in",
+    10.78
+   ],
+   [
+    "its",
+    10.92
+   ],
+   [
+    "head",
+    11.12
+   ]
+  ]
+ },
+ {
+  "s": 11.75,
+  "e": 13.57,
+  "text": "a tree, a rock, a fence post,",
+  "words": [
+   [
+    "a",
+    11.75
+   ],
+   [
+    "tree",
+    11.84
+   ],
+   [
+    "a",
+    12.2
+   ],
+   [
+    "rock",
+    12.29
+   ],
+   [
+    "a",
+    12.66
+   ],
+   [
+    "fence",
+    12.75
+   ],
+   [
+    "post",
+    13.2
+   ]
+  ]
+ },
+ {
+  "s": 13.63,
+  "e": 16.62,
+  "text": "and that map can last up to two months.",
+  "words": [
+   [
+    "and",
+    13.63
+   ],
+   [
+    "that",
+    13.93
+   ],
+   [
+    "map",
+    14.33
+   ],
+   [
+    "can",
+    14.63
+   ],
+   [
+    "last",
+    14.92
+   ],
+   [
+    "up",
+    15.32
+   ],
+   [
+    "to",
+    15.52
+   ],
+   [
+    "two",
+    15.72
+   ],
+   [
+    "months",
+    16.02
+   ]
+  ]
+ },
+ {
+  "s": 17.09,
+  "e": 19.18,
+  "text": "Then its nose finds the exact spot.",
+  "words": [
+   [
+    "then",
+    17.09
+   ],
+   [
+    "its",
+    17.39
+   ],
+   [
+    "nose",
+    17.61
+   ],
+   [
+    "finds",
+    17.91
+   ],
+   [
+    "the",
+    18.28
+   ],
+   [
+    "exact",
+    18.51
+   ],
+   [
+    "spot",
+    18.88
+   ]
+  ]
+ },
+ {
+  "s": 19.65,
+  "e": 21.64,
+  "text": "But what if another squirrel is watching?",
+  "words": [
+   [
+    "but",
+    19.65
+   ],
+   [
+    "what",
+    19.83
+   ],
+   [
+    "if",
+    20.06
+   ],
+   [
+    "another",
+    20.18
+   ],
+   [
+    "squirrel",
+    20.59
+   ],
+   [
+    "is",
+    21.05
+   ],
+   [
+    "watching",
+    21.17
+   ]
+  ]
+ },
+ {
+  "s": 22.19,
+  "e": 23.03,
+  "text": "It fakes it.",
+  "words": [
+   [
+    "it",
+    22.19
+   ],
+   [
+    "fakes",
+    22.38
+   ],
+   [
+    "it",
+    22.84
+   ]
+  ]
+ },
+ {
+  "s": 23.42,
+  "e": 25.63,
+  "text": "It digs a hole, pretends to drop the nut,",
+  "words": [
+   [
+    "it",
+    23.42
+   ],
+   [
+    "digs",
+    23.56
+   ],
+   [
+    "a",
+    23.85
+   ],
+   [
+    "hole",
+    23.92
+   ],
+   [
+    "pretends",
+    24.21
+   ],
+   [
+    "to",
+    24.78
+   ],
+   [
+    "drop",
+    24.92
+   ],
+   [
+    "the",
+    25.2
+   ],
+   [
+    "nut",
+    25.42
+   ]
+  ]
+ },
+ {
+  "s": 25.73,
+  "e": 28.56,
+  "text": "and sneaks off with it still in its mouth.",
+  "words": [
+   [
+    "and",
+    25.73
+   ],
+   [
+    "sneaks",
+    25.99
+   ],
+   [
+    "off",
+    26.5
+   ],
+   [
+    "with",
+    26.76
+   ],
+   [
+    "it",
+    27.1
+   ],
+   [
+    "still",
+    27.27
+   ],
+   [
+    "in",
+    27.7
+   ],
+   [
+    "its",
+    27.87
+   ],
+   [
+    "mouth",
+    28.13
+   ]
+  ]
+ },
+ {
+  "s": 29.02,
+  "e": 30.03,
+  "text": "Sneaky, right?",
+  "words": [
+   [
+    "sneaky",
+    29.02
+   ],
+   [
+    "right",
+    29.57
+   ]
+  ]
+ },
+ {
+  "s": 30.52,
+  "e": 32.47,
+  "text": "Still, some nuts never get dug up.",
+  "words": [
+   [
+    "still",
+    30.52
+   ],
+   [
+    "some",
+    30.89
+   ],
+   [
+    "nuts",
+    31.19
+   ],
+   [
+    "never",
+    31.49
+   ],
+   [
+    "get",
+    31.87
+   ],
+   [
+    "dug",
+    32.09
+   ],
+   [
+    "up",
+    32.32
+   ]
+  ]
+ },
+ {
+  "s": 32.92,
+  "e": 34.05,
+  "text": "The squirrel moves on,",
+  "words": [
+   [
+    "the",
+    32.92
+   ],
+   [
+    "squirrel",
+    33.11
+   ],
+   [
+    "moves",
+    33.61
+   ],
+   [
+    "on",
+    33.92
+   ]
+  ]
+ },
+ {
+  "s": 34.38,
+  "e": 35.92,
+  "text": "or it just has plenty to eat.",
+  "words": [
+   [
+    "or",
+    34.38
+   ],
+   [
+    "it",
+    34.52
+   ],
+   [
+    "just",
+    34.66
+   ],
+   [
+    "has",
+    34.94
+   ],
+   [
+    "plenty",
+    35.15
+   ],
+   [
+    "to",
+    35.57
+   ],
+   [
+    "eat",
+    35.71
+   ]
+  ]
+ },
+ {
+  "s": 36.28,
+  "e": 38.73,
+  "text": "And that forgotten nut is already planted.",
+  "words": [
+   [
+    "and",
+    36.28
+   ],
+   [
+    "that",
+    36.49
+   ],
+   [
+    "forgotten",
+    36.77
+   ],
+   [
+    "nut",
+    37.4
+   ],
+   [
+    "is",
+    37.61
+   ],
+   [
+    "already",
+    37.75
+   ],
+   [
+    "planted",
+    38.24
+   ]
+  ]
+ },
+ {
+  "s": 39.15,
+  "e": 40.54,
+  "text": "Come spring, it sprouts.",
+  "words": [
+   [
+    "come",
+    39.15
+   ],
+   [
+    "spring",
+    39.44
+   ],
+   [
+    "it",
+    39.88
+   ],
+   [
+    "sprouts",
+    40.03
+   ]
+  ]
+ },
+ {
+  "s": 40.88,
+  "e": 42.45,
+  "text": "So some trees around you",
+  "words": [
+   [
+    "so",
+    40.88
+   ],
+   [
+    "some",
+    41.04
+   ],
+   [
+    "trees",
+    41.35
+   ],
+   [
+    "around",
+    41.75
+   ],
+   [
+    "you",
+    42.22
+   ]
+  ]
+ },
+ {
+  "s": 42.51,
+  "e": 44.47,
+  "text": "were planted by a squirrel that forgot.",
+  "words": [
+   [
+    "were",
+    42.51
+   ],
+   [
+    "planted",
+    42.76
+   ],
+   [
+    "by",
+    43.18
+   ],
+   [
+    "a",
+    43.31
+   ],
+   [
+    "squirrel",
+    43.37
+   ],
+   [
+    "that",
+    43.86
+   ],
+   [
+    "forgot",
+    44.1
+   ]
+  ]
+ },
+ {
+  "s": 44.94,
+  "e": 46.89,
+  "text": "Which tree near you did a squirrel plant?",
+  "words": [
+   [
+    "which",
+    44.94
+   ],
+   [
+    "tree",
+    45.23
+   ],
+   [
+    "near",
+    45.47
+   ],
+   [
+    "you",
+    45.71
+   ],
+   [
+    "did",
+    45.88
+   ],
+   [
+    "a",
+    46.06
+   ],
+   [
+    "squirrel",
+    46.12
+   ],
+   [
+    "plant",
+    46.59
+   ]
+  ]
+ }
+]

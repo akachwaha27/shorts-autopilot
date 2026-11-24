@@ -1855,5 +1855,17 @@
   "hook_score": 51,
   "title_score": 100,
   "notes": "unattended run, no storyboard step; kana sound words swapped for English (no JP glyph font in render); helpers reused from 20261122-kangaroo-hop; added trend rows S128-S129"
+ },
+ {
+  "date": "2026-11-23",
+  "id": "20261123-squirrel-nuts",
+  "kind": "short",
+  "style": "One-line Drawing",
+  "topic": "Why do squirrels bury nuts they never dig up?",
+  "title": "How Does a Squirrel Find 3,000 Buried Nuts? 🐿️",
+  "seconds": 47.9,
+  "words": 133,
+  "sheet_id": "S127",
+  "notes": "unattended run, no storyboard step; Lemo One-line engine ported (no engine bundle)"
  }
 ]
