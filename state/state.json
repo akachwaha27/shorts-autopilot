@@ -3122,7 +3122,75 @@
       "srt": "1\n00:00:00,250 --> 00:00:02,810\nYour fridge is killing your tomatoes' flavor.\n\n2\n00:00:03,180 --> 00:00:04,970\nMost people never notice why.\n\n3\n00:00:05,330 --> 00:00:08,200\nA ripe tomato's taste isn't just sweet and sour.\n\n4\n00:00:08,580 --> 00:00:11,050\nIt's hundreds of tiny smell molecules,\n\n5\n00:00:11,140 --> 00:00:13,720\nand your nose does most of the tasting.\n\n6\n00:00:14,180 --> 00:00:16,760\nThose smells are made by genes inside the fruit,\n\n7\n00:00:17,300 --> 00:00:19,460\nswitched on while it sits somewhere warm.\n\n8\n00:00:19,840 --> 00:00:21,640\nBut scientists kept tomatoes\n\n9\n00:00:21,790 --> 00:00:23,600\nat five degrees Celsius for a week.\n\n10\n00:00:24,020 --> 00:00:26,200\nThe cold turned those genes way down.\n\n11\n00:00:26,620 --> 00:00:28,310\nThe smell molecules dropped\n\n12\n00:00:28,380 --> 00:00:29,990\nby up to sixty-five percent!\n\n13\n00:00:30,450 --> 00:00:32,710\nThe sugar and acid didn't change at all.\n\n14\n00:00:33,130 --> 00:00:34,050\nSo it's still sweet,\n\n15\n00:00:34,350 --> 00:00:36,100\nbut it tastes like wet cardboard.\n\n16\n00:00:36,500 --> 00:00:39,250\nSeventy-six taste testers noticed right away.\n\n17\n00:00:39,700 --> 00:00:41,280\nAnd a week in the cold\n\n18\n00:00:41,530 --> 00:00:43,580\nleaves marks on the fruit's DNA switches,\n\n19\n00:00:44,030 --> 00:00:46,230\nso warming it back up barely helps.\n\n20\n00:00:46,690 --> 00:00:48,930\nKeep ripe ones on the counter instead.\n\n21\n00:00:49,330 --> 00:00:51,530\nSo, where are your tomatoes right now?\n\n",
       "tg_msg": 1222,
       "approved_by": "auto",
-      "quota_note": "2026-11-24"
+      "quota_note": "2026-11-25"
+    },
+    "2026-11-25-101": {
+      "topic": {
+        "title": "Why does coffee wake you up? (caffeine blocks adenosine)",
+        "format": "animated",
+        "angle": "kawaii-anime"
+      },
+      "package": {
+        "title": "Why Does Coffee Wake You Up? \u2615",
+        "description": "Why does coffee wake you up? Caffeine doesn't give you energy: it blocks adenosine, the sleepy molecule your brain builds up all day, until the crash hits.\n\nFollow Zorbly for a new mystery every day.\n\n#shorts #science #humanbody #coffee\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#science",
+          "#humanbody",
+          "#coffee"
+        ],
+        "tags": [
+          "why does coffee wake you up",
+          "how does caffeine work",
+          "caffeine",
+          "adenosine",
+          "caffeine crash",
+          "coffee science",
+          "how caffeine keeps you awake",
+          "brain science",
+          "human body facts",
+          "sleep science",
+          "caffeine half life",
+          "science shorts",
+          "kawaii animation"
+        ],
+        "category": "27",
+        "pinned_comment": "What time do you drink your last coffee of the day?",
+        "thumbnail_text": "IT'S A TRICK",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "Coffee doesn't give you energy.\nIt hides how tired you already are.\nYour brain makes a molecule called adenosine.\nThe longer you're awake,\nthe more it piles up,\nand when it locks onto your brain cells,\nyou feel sleepy.\nCaffeine is shaped almost exactly like adenosine.\nSo it jumps into those docks first,\nand just sits there,\nblocking the sleepy signal.\nBut the adenosine doesn't leave.\nIt keeps piling up outside.\nFive hours later, half the caffeine's gone,\nand all that tiredness hits at once.\nThat's the crash.\nThe weirdest part?\nPlants didn't make caffeine for us.\nIt's probably bug poison.\nSo, what time is your last coffee?",
+        "key_facts": [
+          "Adenosine builds up in the brain the longer you are awake and binds receptors that make you feel sleepy",
+          "Caffeine is shaped like adenosine and blocks its receptors without activating them",
+          "Caffeine's half-life is about 5 hours on average",
+          "Scientists think plants make caffeine as a natural pesticide (Nathanson, Science 1984)"
+        ],
+        "voice": "af_heart",
+        "format": "animated",
+        "style": "kawaii-anime"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261125-coffee-awake",
+      "redos": 0,
+      "updated": "2026-11-25T04:20:10.929036+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (kawaii-anime style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-25",
+        "name": "2026-11-25-101.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-25",
+        "name": "2026-11-25-101-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:01,770\nCoffee doesn't give you energy.\n\n2\n00:00:02,240 --> 00:00:04,110\nIt hides how tired you already are.\n\n3\n00:00:04,530 --> 00:00:07,120\nYour brain makes a molecule called adenosine.\n\n4\n00:00:07,480 --> 00:00:08,540\nThe longer you're awake,\n\n5\n00:00:08,800 --> 00:00:09,720\nthe more it piles up,\n\n6\n00:00:09,800 --> 00:00:11,900\nand when it locks onto your brain cells,\n\n7\n00:00:11,960 --> 00:00:12,790\nyou feel sleepy.\n\n8\n00:00:13,140 --> 00:00:16,460\nCaffeine is shaped almost exactly like adenosine.\n\n9\n00:00:16,930 --> 00:00:18,680\nSo it jumps into those docks first,\n\n10\n00:00:18,920 --> 00:00:19,790\nand just sits there,\n\n11\n00:00:20,120 --> 00:00:21,490\nblocking the sleepy signal.\n\n12\n00:00:21,880 --> 00:00:23,580\nBut the adenosine doesn't leave.\n\n13\n00:00:24,030 --> 00:00:25,530\nIt keeps piling up outside.\n\n14\n00:00:25,930 --> 00:00:28,330\nFive hours later, half the caffeine's gone,\n\n15\n00:00:28,640 --> 00:00:30,520\nand all that tiredness hits at once.\n\n16\n00:00:30,980 --> 00:00:31,860\nThat's the crash.\n\n17\n00:00:32,180 --> 00:00:33,190\nThe weirdest part?\n\n18\n00:00:33,680 --> 00:00:35,370\nPlants didn't make caffeine for us.\n\n19\n00:00:35,790 --> 00:00:37,260\nIt's probably bug poison.\n\n20\n00:00:37,570 --> 00:00:39,370\nSo, what time is your last coffee?\n\n",
+      "tg_msg": 1227
     }
   },
   "history": [
@@ -3201,7 +3269,7 @@
       "at": "2026-10-25T17:40:17.371797+00:00"
     }
   },
-  "cleanup_day": "2026-11-24",
+  "cleanup_day": "2026-11-25",
   "recent_voices": [
     "en-AU-WilliamMultilingualNeural",
     "en-US-EmmaMultilingualNeural",
@@ -3368,7 +3436,8 @@
     "drop/20261124-worms-rain": "2026-11-24-104",
     "drop/20261124-kidneys": "2026-11-24-105",
     "drop/20261124-shipworm": "2026-11-24-106",
-    "drop/20261124-tomato-fridge": "2026-11-24-107"
+    "drop/20261124-tomato-fridge": "2026-11-24-107",
+    "drop/20261125-coffee-awake": "2026-11-25-101"
   },
-  "refs_day": "2026-11-24"
+  "refs_day": "2026-11-25"
 }
