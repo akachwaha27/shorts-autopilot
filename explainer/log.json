@@ -1941,5 +1941,24 @@
   "first_frame": "big finished chibi teal coffee mug with star eyes in front of a sunny cafe window, 'IT'S A TRICK / COFFEE' at full size",
   "drop": "drop/20261125-coffee-awake",
   "note": "no storyboard step (unattended run); 5:37/19:37 slot -> body explainer"
+ },
+ {
+  "date": "2026-11-25",
+  "id": "20261125-doorway-forget",
+  "kind": "short",
+  "style": "kawaii-anime",
+  "topic": "Why do you forget why you walked into a room? (the doorway effect)",
+  "title": "Why Do You Forget Why You Walked In? 🚪",
+  "seconds": 44.4,
+  "words": 100,
+  "sheet_id": "S134",
+  "voice": "bm_george",
+  "proven_by": "TED-Ed: Ever walk into a room and forget what you were doing? - Gabriel Radvansky (1,013,398 views)",
+  "recipe": "plain 'Why do you X?' question + one emoji; first frame = finished subject + 2-4 word hook text",
+  "hook_score": 47,
+  "title_score": 94,
+  "first_frame": "anime girl with big blue eyes standing in an open doorway to a warm kitchen, thought bubble with a glass of water, 'DOORS DELETE / YOUR PLANS' at full size",
+  "drop": "drop/20261125-doorway-forget",
+  "note": "no storyboard step (unattended run); 5:37 slot -> body/brain explainer; cat-righting idea dropped because no 1M+ source could be confirmed"
  }
 ]

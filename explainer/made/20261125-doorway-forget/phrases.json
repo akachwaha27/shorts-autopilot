@@ -1,0 +1,500 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.81,
+  "text": "Why do you forget why you walked into a room?",
+  "words": [
+   [
+    "why",
+    0.25
+   ],
+   [
+    "do",
+    0.47
+   ],
+   [
+    "you",
+    0.62
+   ],
+   [
+    "forget",
+    0.83
+   ],
+   [
+    "why",
+    1.27
+   ],
+   [
+    "you",
+    1.49
+   ],
+   [
+    "walked",
+    1.71
+   ],
+   [
+    "into",
+    2.15
+   ],
+   [
+    "a",
+    2.44
+   ],
+   [
+    "room",
+    2.51
+   ]
+  ]
+ },
+ {
+  "s": 3.28,
+  "e": 4.37,
+  "text": "Blame the door.",
+  "words": [
+   [
+    "blame",
+    3.28
+   ],
+   [
+    "the",
+    3.73
+   ],
+   [
+    "door",
+    4.01
+   ]
+  ]
+ },
+ {
+  "s": 4.67,
+  "e": 9.1,
+  "text": "In 2011, psychologist Gabriel Radvansky tested it.",
+  "words": [
+   [
+    "in",
+    4.67
+   ],
+   [
+    "2011",
+    4.88
+   ],
+   [
+    "psychologist",
+    5.31
+   ],
+   [
+    "gabriel",
+    6.57
+   ],
+   [
+    "radvansky",
+    7.31
+   ],
+   [
+    "tested",
+    8.26
+   ],
+   [
+    "it",
+    8.89
+   ]
+  ]
+ },
+ {
+  "s": 9.5,
+  "e": 13.25,
+  "text": "People carried objects between tables, in virtual rooms.",
+  "words": [
+   [
+    "people",
+    9.5
+   ],
+   [
+    "carried",
+    9.98
+   ],
+   [
+    "objects",
+    10.54
+   ],
+   [
+    "between",
+    11.1
+   ],
+   [
+    "tables",
+    11.65
+   ],
+   [
+    "in",
+    12.13
+   ],
+   [
+    "virtual",
+    12.29
+   ],
+   [
+    "rooms",
+    12.85
+   ]
+  ]
+ },
+ {
+  "s": 13.63,
+  "e": 16.47,
+  "text": "Crossing one big room, they remembered better.",
+  "words": [
+   [
+    "crossing",
+    13.63
+   ],
+   [
+    "one",
+    14.23
+   ],
+   [
+    "big",
+    14.45
+   ],
+   [
+    "room",
+    14.68
+   ],
+   [
+    "they",
+    14.97
+   ],
+   [
+    "remembered",
+    15.27
+   ],
+   [
+    "better",
+    16.02
+   ]
+  ]
+ },
+ {
+  "s": 16.95,
+  "e": 19.66,
+  "text": "Walking through a doorway, they forgot more.",
+  "words": [
+   [
+    "walking",
+    16.95
+   ],
+   [
+    "through",
+    17.47
+   ],
+   [
+    "a",
+    18.0
+   ],
+   [
+    "doorway",
+    18.08
+   ],
+   [
+    "they",
+    18.61
+   ],
+   [
+    "forgot",
+    18.91
+   ],
+   [
+    "more",
+    19.36
+   ]
+  ]
+ },
+ {
+  "s": 20.02,
+  "e": 23.17,
+  "text": "Your brain saves life in chapters, called events.",
+  "words": [
+   [
+    "your",
+    20.02
+   ],
+   [
+    "brain",
+    20.34
+   ],
+   [
+    "saves",
+    20.73
+   ],
+   [
+    "life",
+    21.12
+   ],
+   [
+    "in",
+    21.44
+   ],
+   [
+    "chapters",
+    21.59
+   ],
+   [
+    "called",
+    22.22
+   ],
+   [
+    "events",
+    22.69
+   ]
+  ]
+ },
+ {
+  "s": 23.54,
+  "e": 25.68,
+  "text": "A doorway tells it: new scene.",
+  "words": [
+   [
+    "a",
+    23.54
+   ],
+   [
+    "doorway",
+    23.63
+   ],
+   [
+    "tells",
+    24.28
+   ],
+   [
+    "it",
+    24.75
+   ],
+   [
+    "new",
+    24.93
+   ],
+   [
+    "scene",
+    25.21
+   ]
+  ]
+ },
+ {
+  "s": 26.06,
+  "e": 28.11,
+  "text": "So it files the last chapter away,",
+  "words": [
+   [
+    "so",
+    26.06
+   ],
+   [
+    "it",
+    26.21
+   ],
+   [
+    "files",
+    26.36
+   ],
+   [
+    "the",
+    26.74
+   ],
+   [
+    "last",
+    26.97
+   ],
+   [
+    "chapter",
+    27.28
+   ],
+   [
+    "away",
+    27.81
+   ]
+  ]
+ },
+ {
+  "s": 28.41,
+  "e": 29.84,
+  "text": "with your plan inside.",
+  "words": [
+   [
+    "with",
+    28.41
+   ],
+   [
+    "your",
+    28.73
+   ],
+   [
+    "plan",
+    29.05
+   ],
+   [
+    "inside",
+    29.37
+   ]
+  ]
+ },
+ {
+  "s": 30.32,
+  "e": 33.5,
+  "text": "Weirdly, walking back into the first room didn't help.",
+  "words": [
+   [
+    "weirdly",
+    30.32
+   ],
+   [
+    "walking",
+    30.83
+   ],
+   [
+    "back",
+    31.35
+   ],
+   [
+    "into",
+    31.65
+   ],
+   [
+    "the",
+    31.95
+   ],
+   [
+    "first",
+    32.17
+   ],
+   [
+    "room",
+    32.54
+   ],
+   [
+    "didnt",
+    32.83
+   ],
+   [
+    "help",
+    33.2
+   ]
+  ]
+ },
+ {
+  "s": 33.89,
+  "e": 35.66,
+  "text": "A 2021 study found it hits hardest",
+  "words": [
+   [
+    "a",
+    33.89
+   ],
+   [
+    "2021",
+    33.95
+   ],
+   [
+    "study",
+    34.2
+   ],
+   [
+    "found",
+    34.52
+   ],
+   [
+    "it",
+    34.83
+   ],
+   [
+    "hits",
+    34.96
+   ],
+   [
+    "hardest",
+    35.21
+   ]
+  ]
+ },
+ {
+  "s": 35.98,
+  "e": 40.25,
+  "text": "when your mind is already juggling something else.",
+  "words": [
+   [
+    "when",
+    35.98
+   ],
+   [
+    "your",
+    36.38
+   ],
+   [
+    "mind",
+    36.79
+   ],
+   [
+    "is",
+    37.2
+   ],
+   [
+    "already",
+    37.4
+   ],
+   [
+    "juggling",
+    38.11
+   ],
+   [
+    "something",
+    38.93
+   ],
+   [
+    "else",
+    39.84
+   ]
+  ]
+ },
+ {
+  "s": 40.68,
+  "e": 43.35,
+  "text": "So what did a door make you forget today?",
+  "words": [
+   [
+    "so",
+    40.68
+   ],
+   [
+    "what",
+    40.84
+   ],
+   [
+    "did",
+    41.18
+   ],
+   [
+    "a",
+    41.43
+   ],
+   [
+    "door",
+    41.51
+   ],
+   [
+    "make",
+    41.85
+   ],
+   [
+    "you",
+    42.18
+   ],
+   [
+    "forget",
+    42.43
+   ],
+   [
+    "today",
+    42.93
+   ]
+  ]
+ }
+]
