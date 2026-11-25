@@ -1922,5 +1922,24 @@
   "hook_score": 52,
   "title_score": 94,
   "note": "no storyboard step (unattended run); S130 clownfish skipped this run because no million-view source could be confirmed"
+ },
+ {
+  "date": "2026-11-25",
+  "id": "20261125-coffee-awake",
+  "kind": "short",
+  "style": "kawaii-anime",
+  "topic": "Why does coffee wake you up? (caffeine blocks adenosine)",
+  "title": "Why Does Coffee Wake You Up? ☕",
+  "seconds": 40.4,
+  "words": 108,
+  "sheet_id": "S133",
+  "voice": "af_heart",
+  "proven_by": "Kurzgesagt – In a Nutshell: How Caffeine Works (Short, 1,382,143 views)",
+  "recipe": "plain 'Why does X?' question, 5-6 words, one emoji; first frame = finished subject + 2-4 word hook text",
+  "hook_score": 45,
+  "title_score": 94,
+  "first_frame": "big finished chibi teal coffee mug with star eyes in front of a sunny cafe window, 'IT'S A TRICK / COFFEE' at full size",
+  "drop": "drop/20261125-coffee-awake",
+  "note": "no storyboard step (unattended run); 5:37/19:37 slot -> body explainer"
  }
 ]

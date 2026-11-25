@@ -1,0 +1,574 @@
+[
+ {
+  "s": 0.25,
+  "e": 1.77,
+  "text": "Coffee doesn't give you energy.",
+  "words": [
+   [
+    "coffee",
+    0.25
+   ],
+   [
+    "doesnt",
+    0.62
+   ],
+   [
+    "give",
+    0.98
+   ],
+   [
+    "you",
+    1.22
+   ],
+   [
+    "energy",
+    1.41
+   ]
+  ]
+ },
+ {
+  "s": 2.24,
+  "e": 4.11,
+  "text": "It hides how tired you already are.",
+  "words": [
+   [
+    "it",
+    2.24
+   ],
+   [
+    "hides",
+    2.38
+   ],
+   [
+    "how",
+    2.71
+   ],
+   [
+    "tired",
+    2.91
+   ],
+   [
+    "you",
+    3.24
+   ],
+   [
+    "already",
+    3.44
+   ],
+   [
+    "are",
+    3.91
+   ]
+  ]
+ },
+ {
+  "s": 4.53,
+  "e": 7.12,
+  "text": "Your brain makes a molecule called adenosine.",
+  "words": [
+   [
+    "your",
+    4.53
+   ],
+   [
+    "brain",
+    4.8
+   ],
+   [
+    "makes",
+    5.15
+   ],
+   [
+    "a",
+    5.49
+   ],
+   [
+    "molecule",
+    5.55
+   ],
+   [
+    "called",
+    6.1
+   ],
+   [
+    "adenosine",
+    6.51
+   ]
+  ]
+ },
+ {
+  "s": 7.48,
+  "e": 8.54,
+  "text": "The longer you're awake,",
+  "words": [
+   [
+    "the",
+    7.48
+   ],
+   [
+    "longer",
+    7.65
+   ],
+   [
+    "youre",
+    7.99
+   ],
+   [
+    "awake",
+    8.26
+   ]
+  ]
+ },
+ {
+  "s": 8.8,
+  "e": 9.72,
+  "text": "the more it piles up,",
+  "words": [
+   [
+    "the",
+    8.8
+   ],
+   [
+    "more",
+    8.98
+   ],
+   [
+    "it",
+    9.21
+   ],
+   [
+    "piles",
+    9.32
+   ],
+   [
+    "up",
+    9.61
+   ]
+  ]
+ },
+ {
+  "s": 9.8,
+  "e": 11.9,
+  "text": "and when it locks onto your brain cells,",
+  "words": [
+   [
+    "and",
+    9.8
+   ],
+   [
+    "when",
+    10.0
+   ],
+   [
+    "it",
+    10.26
+   ],
+   [
+    "locks",
+    10.39
+   ],
+   [
+    "onto",
+    10.72
+   ],
+   [
+    "your",
+    10.98
+   ],
+   [
+    "brain",
+    11.25
+   ],
+   [
+    "cells",
+    11.58
+   ]
+  ]
+ },
+ {
+  "s": 11.96,
+  "e": 12.79,
+  "text": "you feel sleepy.",
+  "words": [
+   [
+    "you",
+    11.96
+   ],
+   [
+    "feel",
+    12.16
+   ],
+   [
+    "sleepy",
+    12.41
+   ]
+  ]
+ },
+ {
+  "s": 13.14,
+  "e": 16.46,
+  "text": "Caffeine is shaped almost exactly like adenosine.",
+  "words": [
+   [
+    "caffeine",
+    13.14
+   ],
+   [
+    "is",
+    13.77
+   ],
+   [
+    "shaped",
+    13.93
+   ],
+   [
+    "almost",
+    14.4
+   ],
+   [
+    "exactly",
+    14.88
+   ],
+   [
+    "like",
+    15.43
+   ],
+   [
+    "adenosine",
+    15.75
+   ]
+  ]
+ },
+ {
+  "s": 16.93,
+  "e": 18.68,
+  "text": "So it jumps into those docks first,",
+  "words": [
+   [
+    "so",
+    16.93
+   ],
+   [
+    "it",
+    17.06
+   ],
+   [
+    "jumps",
+    17.18
+   ],
+   [
+    "into",
+    17.49
+   ],
+   [
+    "those",
+    17.74
+   ],
+   [
+    "docks",
+    18.06
+   ],
+   [
+    "first",
+    18.37
+   ]
+  ]
+ },
+ {
+  "s": 18.92,
+  "e": 19.79,
+  "text": "and just sits there,",
+  "words": [
+   [
+    "and",
+    18.92
+   ],
+   [
+    "just",
+    19.08
+   ],
+   [
+    "sits",
+    19.3
+   ],
+   [
+    "there",
+    19.52
+   ]
+  ]
+ },
+ {
+  "s": 20.12,
+  "e": 21.49,
+  "text": "blocking the sleepy signal.",
+  "words": [
+   [
+    "blocking",
+    20.12
+   ],
+   [
+    "the",
+    20.6
+   ],
+   [
+    "sleepy",
+    20.78
+   ],
+   [
+    "signal",
+    21.13
+   ]
+  ]
+ },
+ {
+  "s": 21.88,
+  "e": 23.58,
+  "text": "But the adenosine doesn't leave.",
+  "words": [
+   [
+    "but",
+    21.88
+   ],
+   [
+    "the",
+    22.07
+   ],
+   [
+    "adenosine",
+    22.27
+   ],
+   [
+    "doesnt",
+    22.86
+   ],
+   [
+    "leave",
+    23.26
+   ]
+  ]
+ },
+ {
+  "s": 24.03,
+  "e": 25.53,
+  "text": "It keeps piling up outside.",
+  "words": [
+   [
+    "it",
+    24.03
+   ],
+   [
+    "keeps",
+    24.17
+   ],
+   [
+    "piling",
+    24.51
+   ],
+   [
+    "up",
+    24.92
+   ],
+   [
+    "outside",
+    25.05
+   ]
+  ]
+ },
+ {
+  "s": 25.93,
+  "e": 28.33,
+  "text": "Five hours later, half the caffeine's gone,",
+  "words": [
+   [
+    "five",
+    25.93
+   ],
+   [
+    "hours",
+    26.22
+   ],
+   [
+    "later",
+    26.57
+   ],
+   [
+    "half",
+    26.92
+   ],
+   [
+    "the",
+    27.21
+   ],
+   [
+    "caffeines",
+    27.42
+   ],
+   [
+    "gone",
+    28.05
+   ]
+  ]
+ },
+ {
+  "s": 28.64,
+  "e": 30.52,
+  "text": "and all that tiredness hits at once.",
+  "words": [
+   [
+    "and",
+    28.64
+   ],
+   [
+    "all",
+    28.84
+   ],
+   [
+    "that",
+    29.03
+   ],
+   [
+    "tiredness",
+    29.29
+   ],
+   [
+    "hits",
+    29.87
+   ],
+   [
+    "at",
+    30.13
+   ],
+   [
+    "once",
+    30.26
+   ]
+  ]
+ },
+ {
+  "s": 30.98,
+  "e": 31.86,
+  "text": "That's the crash.",
+  "words": [
+   [
+    "thats",
+    30.98
+   ],
+   [
+    "the",
+    31.32
+   ],
+   [
+    "crash",
+    31.52
+   ]
+  ]
+ },
+ {
+  "s": 32.18,
+  "e": 33.19,
+  "text": "The weirdest part?",
+  "words": [
+   [
+    "the",
+    32.18
+   ],
+   [
+    "weirdest",
+    32.39
+   ],
+   [
+    "part",
+    32.92
+   ]
+  ]
+ },
+ {
+  "s": 33.68,
+  "e": 35.37,
+  "text": "Plants didn't make caffeine for us.",
+  "words": [
+   [
+    "plants",
+    33.68
+   ],
+   [
+    "didnt",
+    34.04
+   ],
+   [
+    "make",
+    34.35
+   ],
+   [
+    "caffeine",
+    34.59
+   ],
+   [
+    "for",
+    35.07
+   ],
+   [
+    "us",
+    35.25
+   ]
+  ]
+ },
+ {
+  "s": 35.79,
+  "e": 37.26,
+  "text": "It's probably bug poison.",
+  "words": [
+   [
+    "its",
+    35.79
+   ],
+   [
+    "probably",
+    36.01
+   ],
+   [
+    "bug",
+    36.6
+   ],
+   [
+    "poison",
+    36.82
+   ]
+  ]
+ },
+ {
+  "s": 37.57,
+  "e": 39.37,
+  "text": "So, what time is your last coffee?",
+  "words": [
+   [
+    "so",
+    37.57
+   ],
+   [
+    "what",
+    37.71
+   ],
+   [
+    "time",
+    37.99
+   ],
+   [
+    "is",
+    38.26
+   ],
+   [
+    "your",
+    38.4
+   ],
+   [
+    "last",
+    38.68
+   ],
+   [
+    "coffee",
+    38.95
+   ]
+  ]
+ }
+]
