@@ -1,0 +1,527 @@
+[
+ {
+  "s": 0.25,
+  "e": 1.72,
+  "text": "Hitler never won a majority.",
+  "words": [
+   [
+    "hitler",
+    0.25
+   ],
+   [
+    "never",
+    0.63
+   ],
+   [
+    "won",
+    0.95
+   ],
+   [
+    "a",
+    1.14
+   ],
+   [
+    "majority",
+    1.21
+   ]
+  ]
+ },
+ {
+  "s": 2.11,
+  "e": 3.87,
+  "text": "So how did he get handed Germany?",
+  "words": [
+   [
+    "so",
+    2.11
+   ],
+   [
+    "how",
+    2.24
+   ],
+   [
+    "did",
+    2.45
+   ],
+   [
+    "he",
+    2.65
+   ],
+   [
+    "get",
+    2.79
+   ],
+   [
+    "handed",
+    2.99
+   ],
+   [
+    "germany",
+    3.39
+   ]
+  ]
+ },
+ {
+  "s": 4.44,
+  "e": 7.32,
+  "text": "In 1929, the Great Depression hit.",
+  "words": [
+   [
+    "in",
+    4.44
+   ],
+   [
+    "1929",
+    4.65
+   ],
+   [
+    "the",
+    5.08
+   ],
+   [
+    "great",
+    5.4
+   ],
+   [
+    "depression",
+    5.93
+   ],
+   [
+    "hit",
+    7.0
+   ]
+  ]
+ },
+ {
+  "s": 7.75,
+  "e": 11.97,
+  "text": "By 1932, about six million Germans had no job.",
+  "words": [
+   [
+    "by",
+    7.75
+   ],
+   [
+    "1932",
+    7.98
+   ],
+   [
+    "about",
+    8.45
+   ],
+   [
+    "six",
+    9.04
+   ],
+   [
+    "million",
+    9.39
+   ],
+   [
+    "germans",
+    10.21
+   ],
+   [
+    "had",
+    11.03
+   ],
+   [
+    "no",
+    11.38
+   ],
+   [
+    "job",
+    11.62
+   ]
+  ]
+ },
+ {
+  "s": 12.37,
+  "e": 15.04,
+  "text": "Angry voters drifted to the extremes,",
+  "words": [
+   [
+    "angry",
+    12.37
+   ],
+   [
+    "voters",
+    12.8
+   ],
+   [
+    "drifted",
+    13.32
+   ],
+   [
+    "to",
+    13.92
+   ],
+   [
+    "the",
+    14.1
+   ],
+   [
+    "extremes",
+    14.35
+   ]
+  ]
+ },
+ {
+  "s": 15.11,
+  "e": 17.23,
+  "text": "and his party peaked at 37 percent.",
+  "words": [
+   [
+    "and",
+    15.11
+   ],
+   [
+    "his",
+    15.34
+   ],
+   [
+    "party",
+    15.57
+   ],
+   [
+    "peaked",
+    15.95
+   ],
+   [
+    "at",
+    16.4
+   ],
+   [
+    "37",
+    16.55
+   ],
+   [
+    "percent",
+    16.7
+   ]
+  ]
+ },
+ {
+  "s": 17.58,
+  "e": 19.55,
+  "text": "By November, it slipped to 33.",
+  "words": [
+   [
+    "by",
+    17.58
+   ],
+   [
+    "november",
+    17.75
+   ],
+   [
+    "it",
+    18.44
+   ],
+   [
+    "slipped",
+    18.61
+   ],
+   [
+    "to",
+    19.21
+   ],
+   [
+    "33",
+    19.38
+   ]
+  ]
+ },
+ {
+  "s": 19.91,
+  "e": 21.57,
+  "text": "Then a few insiders made a deal.",
+  "words": [
+   [
+    "then",
+    19.91
+   ],
+   [
+    "a",
+    20.17
+   ],
+   [
+    "few",
+    20.24
+   ],
+   [
+    "insiders",
+    20.44
+   ],
+   [
+    "made",
+    20.97
+   ],
+   [
+    "a",
+    21.23
+   ],
+   [
+    "deal",
+    21.3
+   ]
+  ]
+ },
+ {
+  "s": 21.95,
+  "e": 24.78,
+  "text": "They got President Hindenburg to name him chancellor,",
+  "words": [
+   [
+    "they",
+    21.95
+   ],
+   [
+    "got",
+    22.2
+   ],
+   [
+    "president",
+    22.39
+   ],
+   [
+    "hindenburg",
+    22.95
+   ],
+   [
+    "to",
+    23.58
+   ],
+   [
+    "name",
+    23.71
+   ],
+   [
+    "him",
+    23.96
+   ],
+   [
+    "chancellor",
+    24.15
+   ]
+  ]
+ },
+ {
+  "s": 24.94,
+  "e": 26.46,
+  "text": "sure they could control him.",
+  "words": [
+   [
+    "sure",
+    24.94
+   ],
+   [
+    "they",
+    25.2
+   ],
+   [
+    "could",
+    25.47
+   ],
+   [
+    "control",
+    25.8
+   ],
+   [
+    "him",
+    26.26
+   ]
+  ]
+ },
+ {
+  "s": 26.91,
+  "e": 30.13,
+  "text": "One bragged he'd be squeezed into a corner within two months.",
+  "words": [
+   [
+    "one",
+    26.91
+   ],
+   [
+    "bragged",
+    27.11
+   ],
+   [
+    "hed",
+    27.57
+   ],
+   [
+    "be",
+    27.77
+   ],
+   [
+    "squeezed",
+    27.9
+   ],
+   [
+    "into",
+    28.42
+   ],
+   [
+    "a",
+    28.69
+   ],
+   [
+    "corner",
+    28.75
+   ],
+   [
+    "within",
+    29.15
+   ],
+   [
+    "two",
+    29.54
+   ],
+   [
+    "months",
+    29.74
+   ]
+  ]
+ },
+ {
+  "s": 30.52,
+  "e": 32.3,
+  "text": "Four weeks later, the Reichstag burned.",
+  "words": [
+   [
+    "four",
+    30.52
+   ],
+   [
+    "weeks",
+    30.74
+   ],
+   [
+    "later",
+    31.02
+   ],
+   [
+    "the",
+    31.29
+   ],
+   [
+    "reichstag",
+    31.46
+   ],
+   [
+    "burned",
+    31.96
+   ]
+  ]
+ },
+ {
+  "s": 32.74,
+  "e": 34.55,
+  "text": "A decree suspended basic rights.",
+  "words": [
+   [
+    "a",
+    32.74
+   ],
+   [
+    "decree",
+    32.8
+   ],
+   [
+    "suspended",
+    33.21
+   ],
+   [
+    "basic",
+    33.81
+   ],
+   [
+    "rights",
+    34.15
+   ]
+  ]
+ },
+ {
+  "s": 34.9,
+  "e": 38.44,
+  "text": "In March, the Enabling Act let him make laws without parliament.",
+  "words": [
+   [
+    "in",
+    34.9
+   ],
+   [
+    "march",
+    35.04
+   ],
+   [
+    "the",
+    35.38
+   ],
+   [
+    "enabling",
+    35.58
+   ],
+   [
+    "act",
+    36.13
+   ],
+   [
+    "let",
+    36.33
+   ],
+   [
+    "him",
+    36.54
+   ],
+   [
+    "make",
+    36.74
+   ],
+   [
+    "laws",
+    37.01
+   ],
+   [
+    "without",
+    37.28
+   ],
+   [
+    "parliament",
+    37.76
+   ]
+  ]
+ },
+ {
+  "s": 38.83,
+  "e": 40.25,
+  "text": "So who really opened the door?",
+  "words": [
+   [
+    "so",
+    38.83
+   ],
+   [
+    "who",
+    38.95
+   ],
+   [
+    "really",
+    39.13
+   ],
+   [
+    "opened",
+    39.48
+   ],
+   [
+    "the",
+    39.84
+   ],
+   [
+    "door",
+    40.01
+   ]
+  ]
+ }
+]

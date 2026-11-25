@@ -1960,5 +1960,23 @@
   "first_frame": "anime girl with big blue eyes standing in an open doorway to a warm kitchen, thought bubble with a glass of water, 'DOORS DELETE / YOUR PLANS' at full size",
   "drop": "drop/20261125-doorway-forget",
   "note": "no storyboard step (unattended run); 5:37 slot -> body/brain explainer; cat-righting idea dropped because no 1M+ source could be confirmed"
+ },
+ {
+  "date": "2026-11-25",
+  "id": "20261125-hitler-rise",
+  "kind": "short",
+  "style": "kawaii-anime",
+  "topic": "How did Hitler rise to power? (never won a majority; appointed by insiders, then the Reichstag Fire Decree and Enabling Act)",
+  "title": "How Did Hitler Get Power With Just 33%? 🗳️",
+  "seconds": 41.3,
+  "words": 105,
+  "voice": "am_fenrir",
+  "proven_by": "TED-Ed: How did Hitler rise to power? - Alex Gendler and Anthony Hazard (11,657,316 views)",
+  "recipe": "'How did X...?' question with a concrete number + one emoji; first frame = finished subject + 2-4 word hook text",
+  "hook_score": 43,
+  "title_score": 98,
+  "first_frame": "the Reichstag at dusk, big and centred, a dark-coated figure seen from behind, pie chart stuck at 37% under a 50% line, 'NEVER WON 50%' at full size",
+  "drop": "drop/20261125-hitler-rise",
+  "note": "no storyboard step (unattended run); 12:37 slot -> one-liner story from the story bank (first unmade: How Hitler rose to power); serious muted anime palette, no symbols, neutral framing"
  }
 ]
