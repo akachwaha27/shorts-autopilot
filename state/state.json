@@ -378,89 +378,6 @@
     }
   },
   "videos": {
-    "2026-11-19-102": {
-      "topic": {
-        "title": "Your Lungs Explained in Simple Words: how you breathe over 20,000 times a day",
-        "format": "long",
-        "angle": "Cut-Paper Diorama"
-      },
-      "package": {
-        "title": "How Do Your Lungs Breathe 20,000 Times a Day?",
-        "description": "How do your lungs work? Your lungs can't breathe on their own: the diaphragm pulls air down a branching airway tree into about 480 million alveoli, where oxygen swaps into your blood and carbon dioxide comes out.\n\nSources:\nhttps://www.livescience.com/52250-lung.html\nhttps://en.wikipedia.org/wiki/Pulmonary_alveolus\nhttps://www.merckmanuals.com/home/lung-and-airway-disorders/biology-of-the-lungs-and-airways/control-of-breathing\n\nAnimated in the Cut-Paper Diorama style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#lungs",
-          "#humanbody",
-          "#science"
-        ],
-        "tags": [
-          "how lungs work",
-          "lungs explained",
-          "how do we breathe",
-          "diaphragm",
-          "alveoli",
-          "respiratory system",
-          "human body facts",
-          "breathing explained",
-          "carbon dioxide",
-          "oxygen",
-          "bronchial tree",
-          "science for kids",
-          "biology explained",
-          "zorbly ai"
-        ],
-        "category": "27",
-        "pinned_comment": "Before this video, did you think your lungs did the pulling, or the diaphragm? \ud83e\udec1",
-        "thumbnail_text": "NOT A PUMP",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "Your lungs can't breathe on their own,\nyet you breathe more than 20,000 times a day,\nwithout ever thinking about it.\nSo what's really pulling the air in?\nAnd what happens to it once it's inside?\nLet's follow one breath, all the way in.\nFirst, the engine.\nAnd it isn't your lungs.\nIt's a muscle underneath them, called the diaphragm,\na dome shaped like an upside-down bowl.\nWhen you breathe in, it tightens and pulls down flat.\nYour ribs swing up and out at the same time.\nYour chest gets bigger,\nso the air pressure inside drops,\nand outside air rushes in to fill the space.\nYour lungs just stretch along, like balloons in a box.\nBreathing out at rest is even easier.\nThe diaphragm relaxes,\nand your stretchy lungs spring back like a rubber band,\npushing the air out.\nEach calm breath moves about half a liter.\nOver a whole day, that's roughly 10,000 liters of air.\nNow let's follow that air inside.\nIt goes down your windpipe, the trachea,\nwhich splits into two tubes, one for each lung.\nThen those tubes split again, and again,\nabout 23 times,\ninto thinner and thinner branches.\nDoctors call it the bronchial tree,\nbecause it looks like a tree growing upside down.\nLay every tube end to end,\nand by one estimate, they'd stretch about 2,400 kilometers.\nThe tubes are lined with sticky mucus and tiny hairs called cilia.\nThey trap dust and germs,\nand sweep them back up toward your throat,\nwhere you swallow them without noticing.\nAnd your lungs aren't twins.\nThe right one has three sections, called lobes.\nThe left one has only two,\nbecause it leaves room for your heart.\nNow here's where the magic happens.\nAt the end of every tiny branch,\nthere's a bunch of air sacs, like grapes.\nThey're called alveoli.\nAnd you've got around 480 million of them.\nEach one is wrapped in a net of tiny blood vessels.\nThe wall between the air and your blood,\nis about 200 times thinner than a sheet of paper.\nSo oxygen just slips across, into your blood.\nAt the same time, carbon dioxide, your body's waste gas,\nslips the other way, into the air sac,\nready to be breathed out.\nSpread all those sacs out flat,\nand they'd cover about 70 square meters.\nThat's roughly a badminton court,\nfolded up inside your chest.\nSo who's in charge of all this?\nNot you, most of the time.\nA spot in your brainstem runs breathing on autopilot.\nAnd here's the surprise.\nIt mostly isn't watching your oxygen.\nIt's watching carbon dioxide.\nWhen CO2 builds up in your blood,\nyour brainstem tells the diaphragm to breathe faster.\nThat burning need to breathe when you hold your breath?\nThat's mostly carbon dioxide piling up, not oxygen running out.\nIn fact, the air you breathe out still has about 16 percent oxygen,\ncompared to 21 percent going in.\nSo your lungs aren't really pumps.\nThey're a giant, folded-up trading floor,\nwhere air and blood swap gases,\nover 20,000 times a day, every day of your life.\nNext up, why can some animals see colors,\nwe can't even imagine?\n",
-        "key_facts": [
-          "The lungs have no muscle to inflate themselves; the diaphragm and rib muscles enlarge the chest, pressure drops and air flows in",
-          "Quiet exhalation is mostly passive elastic recoil",
-          "A resting breath is about 0.5 L; roughly 20,000 breaths a day",
-          "Airways branch about 23 times (bronchial tree); one estimate puts total airway length near 2,400 km",
-          "Right lung has 3 lobes, left has 2 (cardiac notch)",
-          "About 480 million alveoli, about 70 square meters of surface",
-          "The blood-air barrier is well under a micrometer thick",
-          "The brainstem drives breathing mainly from CO2 levels",
-          "Exhaled air still holds about 16% oxygen vs about 21% inhaled"
-        ],
-        "voice": "Kokoro",
-        "format": "long",
-        "style": "Cut-Paper Diorama"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261119-lungs",
-      "redos": 0,
-      "updated": "2026-11-19T22:10:49.467410+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Cut-Paper Diorama style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-19",
-        "name": "2026-11-19-102.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-19",
-        "name": "2026-11-19-102-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:02,240\nYour lungs can't breathe on their own,\n\n2\n00:00:02,600 --> 00:00:04,940\nyet you breathe more than 20,000 times a day,\n\n3\n00:00:05,330 --> 00:00:06,630\nwithout ever thinking about it.\n\n4\n00:00:07,030 --> 00:00:08,640\nSo what's really pulling the air in?\n\n5\n00:00:09,090 --> 00:00:10,890\nAnd what happens to it once it's inside?\n\n6\n00:00:11,360 --> 00:00:13,430\nLet's follow one breath, all the way in.\n\n7\n00:00:13,870 --> 00:00:14,920\nFirst, the engine.\n\n8\n00:00:15,270 --> 00:00:16,420\nAnd it isn't your lungs.\n\n9\n00:00:16,880 --> 00:00:19,390\nIt's a muscle underneath them, called the diaphragm,\n\n10\n00:00:19,850 --> 00:00:22,110\na dome shaped like an upside-down bowl.\n\n11\n00:00:22,590 --> 00:00:25,380\nWhen you breathe in, it tightens and pulls down flat.\n\n12\n00:00:25,740 --> 00:00:27,960\nYour ribs swing up and out at the same time.\n\n13\n00:00:28,380 --> 00:00:29,520\nYour chest gets bigger,\n\n14\n00:00:29,850 --> 00:00:31,720\nso the air pressure inside drops,\n\n15\n00:00:32,040 --> 00:00:34,460\nand outside air rushes in to fill the space.\n\n16\n00:00:34,860 --> 00:00:37,950\nYour lungs just stretch along, like balloons in a box.\n\n17\n00:00:38,310 --> 00:00:40,280\nBreathing out at rest is even easier.\n\n18\n00:00:40,630 --> 00:00:42,000\nThe diaphragm relaxes,\n\n19\n00:00:42,360 --> 00:00:44,910\nand your stretchy lungs spring back like a rubber band,\n\n20\n00:00:45,230 --> 00:00:46,200\npushing the air out.\n\n21\n00:00:46,680 --> 00:00:48,860\nEach calm breath moves about half a liter.\n\n22\n00:00:49,250 --> 00:00:52,430\nOver a whole day, that's roughly 10,000 liters of air.\n\n23\n00:00:52,800 --> 00:00:54,520\nNow let's follow that air inside.\n\n24\n00:00:54,930 --> 00:00:57,130\nIt goes down your windpipe, the trachea,\n\n25\n00:00:57,290 --> 00:01:00,040\nwhich splits into two tubes, one for each lung.\n\n26\n00:01:00,420 --> 00:01:02,770\nThen those tubes split again, and again,\n\n27\n00:01:03,030 --> 00:01:04,300\nabout 23 times,\n\n28\n00:01:04,370 --> 00:01:06,030\ninto thinner and thinner branches.\n\n29\n00:01:06,470 --> 00:01:08,260\nDoctors call it the bronchial tree,\n\n30\n00:01:08,650 --> 00:01:11,030\nbecause it looks like a tree growing upside down.\n\n31\n00:01:11,400 --> 00:01:12,900\nLay every tube end to end,\n\n32\n00:01:13,280 --> 00:01:17,780\nand by one estimate, they'd stretch about 2,400 kilometers.\n\n33\n00:01:18,180 --> 00:01:21,830\nThe tubes are lined with sticky mucus and tiny hairs called cilia.\n\n34\n00:01:22,180 --> 00:01:23,730\nThey trap dust and germs,\n\n35\n00:01:24,050 --> 00:01:25,780\nand sweep them back up toward your throat,\n\n36\n00:01:26,140 --> 00:01:27,800\nwhere you swallow them without noticing.\n\n37\n00:01:28,150 --> 00:01:29,510\nAnd your lungs aren't twins.\n\n38\n00:01:29,960 --> 00:01:32,350\nThe right one has three sections, called lobes.\n\n39\n00:01:32,750 --> 00:01:34,020\nThe left one has only two,\n\n40\n00:01:34,330 --> 00:01:35,910\nbecause it leaves room for your heart.\n\n41\n00:01:36,300 --> 00:01:38,090\nNow here's where the magic happens.\n\n42\n00:01:38,480 --> 00:01:40,070\nAt the end of every tiny branch,\n\n43\n00:01:40,370 --> 00:01:42,530\nthere's a bunch of air sacs, like grapes.\n\n44\n00:01:42,940 --> 00:01:44,180\nThey're called alveoli.\n\n45\n00:01:44,550 --> 00:01:47,120\nAnd you've got around 480 million of them.\n\n46\n00:01:47,580 --> 00:01:50,220\nEach one is wrapped in a net of tiny blood vessels.\n\n47\n00:01:50,630 --> 00:01:52,510\nThe wall between the air and your blood,\n\n48\n00:01:52,950 --> 00:01:55,710\nis about 200 times thinner than a sheet of paper.\n\n49\n00:01:56,170 --> 00:01:58,730\nSo oxygen just slips across, into your blood.\n\n50\n00:01:59,120 --> 00:02:02,650\nAt the same time, carbon dioxide, your body's waste gas,\n\n51\n00:02:02,810 --> 00:02:04,730\nslips the other way, into the air sac,\n\n52\n00:02:04,800 --> 00:02:06,160\nready to be breathed out.\n\n53\n00:02:06,590 --> 00:02:08,240\nSpread all those sacs out flat,\n\n54\n00:02:08,690 --> 00:02:10,910\nand they'd cover about 70 square meters.\n\n55\n00:02:11,380 --> 00:02:12,920\nThat's roughly a badminton court,\n\n56\n00:02:13,300 --> 00:02:14,870\nfolded up inside your chest.\n\n57\n00:02:15,280 --> 00:02:16,960\nSo who's in charge of all this?\n\n58\n00:02:17,450 --> 00:02:18,970\nNot you, most of the time.\n\n59\n00:02:19,390 --> 00:02:22,670\nA spot in your brainstem runs breathing on autopilot.\n\n60\n00:02:23,100 --> 00:02:24,380\nAnd here's the surprise.\n\n61\n00:02:24,730 --> 00:02:26,730\nIt mostly isn't watching your oxygen.\n\n62\n00:02:27,080 --> 00:02:28,940\nIt's watching carbon dioxide.\n\n63\n00:02:29,290 --> 00:02:31,290\nWhen CO2 builds up in your blood,\n\n64\n00:02:31,700 --> 00:02:34,470\nyour brainstem tells the diaphragm to breathe faster.\n\n65\n00:02:34,830 --> 00:02:37,220\nThat burning need to breathe when you hold your breath?\n\n66\n00:02:37,780 --> 00:02:41,840\nThat's mostly carbon dioxide piling up, not oxygen running out.\n\n67\n00:02:42,260 --> 00:02:46,490\nIn fact, the air you breathe out still has about 16 percent oxygen,\n\n68\n00:02:46,880 --> 00:02:48,890\ncompared to 21 percent going in.\n\n69\n00:02:49,270 --> 00:02:50,960\nSo your lungs aren't really pumps.\n\n70\n00:02:51,440 --> 00:02:54,110\nThey're a giant, folded-up trading floor,\n\n71\n00:02:54,210 --> 00:02:55,830\nwhere air and blood swap gases,\n\n72\n00:02:56,200 --> 00:02:59,130\nover 20,000 times a day, every day of your life.\n\n73\n00:02:59,600 --> 00:03:01,910\nNext up, why can some animals see colors,\n\n74\n00:03:02,240 --> 00:03:03,370\nwe can't even imagine?\n\n",
-      "tg_msg": 1169,
-      "approved_by": "auto",
-      "description_full": "How do your lungs work? Your lungs can't breathe on their own: the diaphragm pulls air down a branching airway tree into about 480 million alveoli, where oxygen swaps into your blood and carbon dioxide comes out.\n\nSources:\nhttps://www.livescience.com/52250-lung.html\nhttps://en.wikipedia.org/wiki/Pulmonary_alveolus\nhttps://www.merckmanuals.com/home/lung-and-airway-disorders/biology-of-the-lungs-and-airways/control-of-breathing\n\nAnimated in the Cut-Paper Diorama style.\n\nFollow Zorbly AI for a new Short every day.\n\n#lungs #humanbody #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Cut-Paper Diorama style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/LUzqmHyZAa0",
-          "private \u00b7 thumbnail \u2705"
-        ]
-      },
-      "uploaded_at": "2026-11-19T22:10:49.467431+00:00",
-      "slot": "2026-11-20T17:15:00+00:00"
-    },
     "2026-11-19-103": {
       "topic": {
         "title": "Why do some sharks drown if they stop swimming?",
@@ -3099,12 +3016,12 @@
         "format": "animated",
         "style": "kawaii-anime"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261125-doorway-forget",
       "redos": 0,
-      "updated": "2026-11-25T14:34:28.952357+00:00",
+      "updated": "2026-11-25T23:07:17.782624+00:00",
       "credits": [
         "Animation: code-drawn in Claude (kawaii-anime style). Voice: Kokoro text-to-speech."
       ],
@@ -3119,7 +3036,98 @@
         "name": "2026-11-25-102-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:02,810\nWhy do you forget why you walked into a room?\n\n2\n00:00:03,280 --> 00:00:04,370\nBlame the door.\n\n3\n00:00:04,670 --> 00:00:09,100\nIn 2011, psychologist Gabriel Radvansky tested it.\n\n4\n00:00:09,500 --> 00:00:13,250\nPeople carried objects between tables, in virtual rooms.\n\n5\n00:00:13,630 --> 00:00:16,470\nCrossing one big room, they remembered better.\n\n6\n00:00:16,950 --> 00:00:19,660\nWalking through a doorway, they forgot more.\n\n7\n00:00:20,020 --> 00:00:23,170\nYour brain saves life in chapters, called events.\n\n8\n00:00:23,540 --> 00:00:25,680\nA doorway tells it: new scene.\n\n9\n00:00:26,060 --> 00:00:28,110\nSo it files the last chapter away,\n\n10\n00:00:28,410 --> 00:00:29,840\nwith your plan inside.\n\n11\n00:00:30,320 --> 00:00:33,500\nWeirdly, walking back into the first room didn't help.\n\n12\n00:00:33,890 --> 00:00:35,660\nA 2021 study found it hits hardest\n\n13\n00:00:35,980 --> 00:00:40,250\nwhen your mind is already juggling something else.\n\n14\n00:00:40,680 --> 00:00:43,350\nSo what did a door make you forget today?\n\n",
-      "tg_msg": 1229
+      "tg_msg": 1229,
+      "approved_by": "auto",
+      "description_full": "Why do you forget why you walked into a room? Walking through a doorway is an event boundary, so your brain files the last scene away, and your plan goes with it.\n\nFollow Zorbly for a new mystery every day.\n\n#shorts #science #brain #memory\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #science #brain #memory\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (kawaii-anime style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/c7fKYxXyxjo",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-25T23:07:17.782641+00:00",
+      "slot": "2026-11-28T00:15:00+00:00"
+    },
+    "2026-11-25-103": {
+      "topic": {
+        "title": "How did Hitler rise to power? (never won a majority; appointed by insiders, then the Reichstag Fire Decree and Enabling Act)",
+        "format": "animated",
+        "angle": "kawaii-anime"
+      },
+      "package": {
+        "title": "How Did Hitler Get Power With Just 33%? \ud83d\uddf3\ufe0f",
+        "description": "How did Hitler rise to power when he never won a majority in a free election? After his party slipped to 33% in November 1932, conservative insiders talked President Hindenburg into making him chancellor, and within eight weeks the Enabling Act let him rule without parliament.\n\nFollow Zorbly for a new mystery every day.\n\n#shorts #history #ww2 #germany\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#history",
+          "#ww2",
+          "#germany"
+        ],
+        "tags": [
+          "how did hitler rise to power",
+          "hitler rise to power",
+          "enabling act 1933",
+          "reichstag fire",
+          "weimar republic",
+          "hindenburg",
+          "1932 german election",
+          "great depression germany",
+          "history shorts",
+          "ww2 history",
+          "how hitler became chancellor",
+          "german history",
+          "anime history"
+        ],
+        "category": "27",
+        "pinned_comment": "Who do you think really opened the door: the voters or the insiders?",
+        "thumbnail_text": "NEVER WON 50%",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "Hitler never won a majority.\nSo how did he get handed Germany?\nIn 1929, the Great Depression hit.\nBy 1932, about six million Germans had no job.\nAngry voters drifted to the extremes,\nand his party peaked at 37 percent.\nBy November, it slipped to 33.\nThen a few insiders made a deal.\nThey got President Hindenburg to name him chancellor,\nsure they could control him.\nOne bragged he'd be squeezed into a corner within two months.\nFour weeks later, the Reichstag burned.\nA decree suspended basic rights.\nIn March, the Enabling Act let him make laws without parliament.\nSo who really opened the door?",
+        "key_facts": [
+          "Nazi party won 37.3% (July 1932) and 33.1% (Nov 1932) in Reichstag elections; never a majority in a free election",
+          "About 6 million Germans registered unemployed in 1932",
+          "Hindenburg appointed Hitler chancellor on 30 January 1933 after a deal brokered by Franz von Papen and other conservatives, who believed they could control him; Papen is widely quoted as saying they would push Hitler into a corner within two months",
+          "Reichstag fire 27 February 1933; the next day's emergency decree suspended civil liberties incl. free press, free speech and assembly",
+          "Enabling Act passed 23 March 1933, 444 to 94, letting the cabinet make laws without parliament"
+        ],
+        "voice": "am_fenrir",
+        "format": "animated",
+        "style": "kawaii-anime"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261125-hitler-rise",
+      "redos": 0,
+      "updated": "2026-11-25T23:07:05.133822+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (kawaii-anime style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-25",
+        "name": "2026-11-25-103.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-25",
+        "name": "2026-11-25-103-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:01,720\nHitler never won a majority.\n\n2\n00:00:02,110 --> 00:00:03,870\nSo how did he get handed Germany?\n\n3\n00:00:04,440 --> 00:00:07,320\nIn 1929, the Great Depression hit.\n\n4\n00:00:07,750 --> 00:00:11,970\nBy 1932, about six million Germans had no job.\n\n5\n00:00:12,370 --> 00:00:15,040\nAngry voters drifted to the extremes,\n\n6\n00:00:15,110 --> 00:00:17,230\nand his party peaked at 37 percent.\n\n7\n00:00:17,580 --> 00:00:19,550\nBy November, it slipped to 33.\n\n8\n00:00:19,910 --> 00:00:21,570\nThen a few insiders made a deal.\n\n9\n00:00:21,950 --> 00:00:24,780\nThey got President Hindenburg to name him chancellor,\n\n10\n00:00:24,940 --> 00:00:26,460\nsure they could control him.\n\n11\n00:00:26,910 --> 00:00:30,130\nOne bragged he'd be squeezed into a corner within two months.\n\n12\n00:00:30,520 --> 00:00:32,300\nFour weeks later, the Reichstag burned.\n\n13\n00:00:32,740 --> 00:00:34,550\nA decree suspended basic rights.\n\n14\n00:00:34,900 --> 00:00:38,440\nIn March, the Enabling Act let him make laws without parliament.\n\n15\n00:00:38,830 --> 00:00:40,250\nSo who really opened the door?\n\n",
+      "tg_msg": 1232
     }
   },
   "history": [
@@ -3367,7 +3375,8 @@
     "drop/20261124-shipworm": "2026-11-24-106",
     "drop/20261124-tomato-fridge": "2026-11-24-107",
     "drop/20261125-coffee-awake": "2026-11-25-101",
-    "drop/20261125-doorway-forget": "2026-11-25-102"
+    "drop/20261125-doorway-forget": "2026-11-25-102",
+    "drop/20261125-hitler-rise": "2026-11-25-103"
   },
   "refs_day": "2026-11-25"
 }
