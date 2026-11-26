@@ -378,97 +378,6 @@
     }
   },
   "videos": {
-    "2026-11-19-103": {
-      "topic": {
-        "title": "Why do some sharks drown if they stop swimming?",
-        "format": "animated",
-        "angle": "Isometric Picture Book"
-      },
-      "package": {
-        "title": "This Shark Swims 2 km/h Forever or It Drowns \ud83e\udd88",
-        "description": "Why do some sharks drown if they stop swimming? Great white, mako and whale sharks use ram ventilation, swimming with their mouths open so water flows over their gills, while nurse sharks can rest on the sea floor and pump water with their cheeks.\n\nSources:\nhttps://www.britannica.com/story/do-sharks-really-die-if-they-stop-swimming\nhttps://www.livescience.com/34777-sharks-keep-swimming-or-die.html\nhttps://oceans-research.com/?p=455\n\nAnimated in the Isometric Picture Book style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#sharks",
-          "#greatwhite",
-          "#animalfacts"
-        ],
-        "tags": [
-          "sharks",
-          "great white shark",
-          "ram ventilation",
-          "do sharks drown",
-          "why sharks keep swimming",
-          "nurse shark",
-          "shark gills",
-          "how sharks breathe",
-          "mako shark",
-          "whale shark",
-          "animal facts",
-          "ocean facts",
-          "science explained",
-          "zorbly ai"
-        ],
-        "category": "27",
-        "pinned_comment": "Would you rather be the shark that naps on the sand, or the one that can never stop? \ud83e\udd88",
-        "thumbnail_text": "CAN'T STOP",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "This shark drowns if you make it stop swimming. Wait, a fish that drowns? Sharks pull oxygen out of water as it flows over their gills. A nurse shark can lie still on the sea floor and pump water in with its cheeks. But a great white can't do that. Neither can makos or whale sharks. They use ram ventilation. They swim with their mouths slightly open so water gets pushed over their gills. Stop swimming, and the water stops. No water, no oxygen. So even while it's resting, a great white keeps cruising at about two kilometers an hour. That's slower than you walk! Most sharks can take a break, though. So which shark would you rather be? The one that naps on the sand, or the one that can never stop?",
-        "key_facts": [
-          "Great white, mako and whale sharks are obligate ram ventilators: they must swim so water flows over their gills (Britannica, Live Science)",
-          "Nurse sharks can rest on the bottom and pump water over their gills with their cheek muscles (Britannica)",
-          "Most kinds of sharks won't die if they stop swimming (Britannica)",
-          "Tracked white sharks at Mossel Bay averaged about 0.5 m/s over ground, swimming speed estimated ~1.2x that, roughly 2 km/h (Johnson et al. 2009)"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Isometric Picture Book"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261119-shark-swim",
-      "redos": 0,
-      "updated": "2026-11-19T22:11:06.875447+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Isometric Picture Book style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-19",
-        "name": "2026-11-19-103.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-19",
-        "name": "2026-11-19-103-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:02,790\nThis shark drowns if you make it stop swimming.\n\n2\n00:00:03,160 --> 00:00:04,660\nWait, a fish that drowns?\n\n3\n00:00:05,130 --> 00:00:07,090\nSharks pull oxygen out of water\n\n4\n00:00:07,320 --> 00:00:09,080\nas it flows over their gills.\n\n5\n00:00:09,430 --> 00:00:11,890\nA nurse shark can lie still on the sea floor\n\n6\n00:00:11,960 --> 00:00:13,810\nand pump water in with its cheeks.\n\n7\n00:00:14,160 --> 00:00:15,840\nBut a great white can't do that.\n\n8\n00:00:16,260 --> 00:00:18,480\nNeither can makos or whale sharks.\n\n9\n00:00:18,930 --> 00:00:20,690\nThey use ram ventilation.\n\n10\n00:00:20,960 --> 00:00:23,150\nThey swim with their mouths slightly open\n\n11\n00:00:23,550 --> 00:00:25,680\nso water gets pushed over their gills.\n\n12\n00:00:26,060 --> 00:00:28,120\nStop swimming, and the water stops.\n\n13\n00:00:28,580 --> 00:00:30,270\nNo water, no oxygen.\n\n14\n00:00:30,610 --> 00:00:32,060\nSo even while it's resting,\n\n15\n00:00:32,620 --> 00:00:33,720\na great white keeps cruising\n\n16\n00:00:33,800 --> 00:00:36,190\nat about two kilometers an hour.\n\n17\n00:00:36,560 --> 00:00:37,980\nThat's slower than you walk!\n\n18\n00:00:38,430 --> 00:00:40,310\nMost sharks can take a break, though.\n\n19\n00:00:40,700 --> 00:00:42,450\nSo which shark would you rather be?\n\n20\n00:00:42,900 --> 00:00:44,570\nThe one that naps on the sand,\n\n21\n00:00:44,950 --> 00:00:46,470\nor the one that can never stop?\n\n",
-      "tg_msg": 1170,
-      "approved_by": "auto",
-      "description_full": "Why do some sharks drown if they stop swimming? Great white, mako and whale sharks use ram ventilation, swimming with their mouths open so water flows over their gills, while nurse sharks can rest on the sea floor and pump water with their cheeks.\n\nSources:\nhttps://www.britannica.com/story/do-sharks-really-die-if-they-stop-swimming\nhttps://www.livescience.com/34777-sharks-keep-swimming-or-die.html\nhttps://oceans-research.com/?p=455\n\nAnimated in the Isometric Picture Book style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #sharks #greatwhite #animalfacts\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Isometric Picture Book style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/FC8ZpWivA_s",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-11-19T22:11:06.875466+00:00",
-      "slot": "2026-11-20T20:15:00+00:00"
-    },
     "2026-11-19-104": {
       "topic": {
         "title": "Why don't woodpeckers get headaches?",
@@ -3107,12 +3016,12 @@
         "format": "animated",
         "style": "kawaii-anime"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261125-hitler-rise",
       "redos": 0,
-      "updated": "2026-11-25T23:07:05.133822+00:00",
+      "updated": "2026-11-26T05:10:16.605866+00:00",
       "credits": [
         "Animation: code-drawn in Claude (kawaii-anime style). Voice: Kokoro text-to-speech."
       ],
@@ -3127,7 +3036,98 @@
         "name": "2026-11-25-103-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:01,720\nHitler never won a majority.\n\n2\n00:00:02,110 --> 00:00:03,870\nSo how did he get handed Germany?\n\n3\n00:00:04,440 --> 00:00:07,320\nIn 1929, the Great Depression hit.\n\n4\n00:00:07,750 --> 00:00:11,970\nBy 1932, about six million Germans had no job.\n\n5\n00:00:12,370 --> 00:00:15,040\nAngry voters drifted to the extremes,\n\n6\n00:00:15,110 --> 00:00:17,230\nand his party peaked at 37 percent.\n\n7\n00:00:17,580 --> 00:00:19,550\nBy November, it slipped to 33.\n\n8\n00:00:19,910 --> 00:00:21,570\nThen a few insiders made a deal.\n\n9\n00:00:21,950 --> 00:00:24,780\nThey got President Hindenburg to name him chancellor,\n\n10\n00:00:24,940 --> 00:00:26,460\nsure they could control him.\n\n11\n00:00:26,910 --> 00:00:30,130\nOne bragged he'd be squeezed into a corner within two months.\n\n12\n00:00:30,520 --> 00:00:32,300\nFour weeks later, the Reichstag burned.\n\n13\n00:00:32,740 --> 00:00:34,550\nA decree suspended basic rights.\n\n14\n00:00:34,900 --> 00:00:38,440\nIn March, the Enabling Act let him make laws without parliament.\n\n15\n00:00:38,830 --> 00:00:40,250\nSo who really opened the door?\n\n",
-      "tg_msg": 1232
+      "tg_msg": 1232,
+      "approved_by": "auto",
+      "description_full": "How did Hitler rise to power when he never won a majority in a free election? After his party slipped to 33% in November 1932, conservative insiders talked President Hindenburg into making him chancellor, and within eight weeks the Enabling Act let him rule without parliament.\n\nFollow Zorbly for a new mystery every day.\n\n#shorts #history #ww2 #germany\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #history #ww2 #germany\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (kawaii-anime style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/ny1jWm0f6x4",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-26T05:10:16.605881+00:00",
+      "slot": "2026-11-28T02:15:00+00:00"
+    },
+    "2026-11-26-101": {
+      "topic": {
+        "title": "How does a cat always land on its feet? (the righting reflex)",
+        "format": "animated",
+        "angle": "kawaii-anime"
+      },
+      "package": {
+        "title": "How Did a Cat Baffle Scientists in 1894? \ud83d\udc31",
+        "description": "How do cats always land on their feet? A falling cat twists its front half, then its back half, to flip upright in under a second, with nothing to push against.\n\nFollow Zorbly for a new mystery every day.\n\n#shorts #cats #animals #science\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#cats",
+          "#animals",
+          "#science"
+        ],
+        "tags": [
+          "how do cats always land on their feet",
+          "cat righting reflex",
+          "why do cats land on their feet",
+          "falling cat",
+          "cat flip",
+          "cat physics",
+          "cat facts",
+          "animal facts",
+          "science shorts",
+          "falling cat problem",
+          "kitten",
+          "cat science",
+          "kawaii animation"
+        ],
+        "category": "27",
+        "pinned_comment": "Have you ever seen your cat pull off the midair flip?",
+        "thumbnail_text": "IMPOSSIBLE FLIP",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "Your cat can do a flip that baffled scientists in 1894.\nFalling upside down, with nothing to push against,\nit still turns over.\nSo how?\nFirst, its inner ear senses which way is down.\nThen it bends in the middle,\nlike two cats glued together.\nIt tucks its front legs in,\nso the front half spins fast,\nwhile the stretched back legs barely turn.\nThen it swaps,\nand the back half catches up.\nA bendy spine and a loose collarbone make it possible,\nall in under a second.\nKittens master it by about seven weeks.\nSo, have you ever seen your cat pull off the flip?",
+        "key_facts": [
+          "Etienne-Jules Marey's 1894 chronophotographs of a falling cat puzzled the French Academy of Sciences, since the cat turned with no external push",
+          "The vestibular system in the inner ear tells the cat which way is up",
+          "The cat bends at the middle and rotates front and back halves separately: tucked legs spin fast, extended legs slowly (tuck-and-turn), then it swaps",
+          "A very flexible backbone and no functional (free-floating) collarbone help",
+          "The righting reflex appears at 3-4 weeks and is perfected by about 7 weeks"
+        ],
+        "voice": "af_bella",
+        "format": "animated",
+        "style": "kawaii-anime"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261126-cat-feet",
+      "redos": 0,
+      "updated": "2026-11-26T05:10:05.225362+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (kawaii-anime style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-26",
+        "name": "2026-11-26-101.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-26",
+        "name": "2026-11-26-101-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:05,260\nYour cat can do a flip that baffled scientists in 1894.\n\n2\n00:00:05,630 --> 00:00:08,480\nFalling upside down, with nothing to push against,\n\n3\n00:00:08,750 --> 00:00:09,860\nit still turns over.\n\n4\n00:00:10,240 --> 00:00:10,830\nSo how?\n\n5\n00:00:11,320 --> 00:00:14,120\nFirst, its inner ear senses which way is down.\n\n6\n00:00:14,500 --> 00:00:16,020\nThen it bends in the middle,\n\n7\n00:00:16,100 --> 00:00:17,510\nlike two cats glued together.\n\n8\n00:00:17,900 --> 00:00:19,170\nIt tucks its front legs in,\n\n9\n00:00:19,510 --> 00:00:21,180\nso the front half spins fast,\n\n10\n00:00:21,540 --> 00:00:23,740\nwhile the stretched back legs barely turn.\n\n11\n00:00:24,140 --> 00:00:24,940\nThen it swaps,\n\n12\n00:00:25,230 --> 00:00:26,710\nand the back half catches up.\n\n13\n00:00:27,090 --> 00:00:30,150\nA bendy spine and a loose collarbone make it possible,\n\n14\n00:00:30,580 --> 00:00:31,680\nall in under a second.\n\n15\n00:00:32,130 --> 00:00:34,200\nKittens master it by about seven weeks.\n\n16\n00:00:34,670 --> 00:00:37,040\nSo, have you ever seen your cat pull off the flip?\n\n",
+      "tg_msg": 1235
     }
   },
   "history": [
@@ -3206,7 +3206,7 @@
       "at": "2026-10-25T17:40:17.371797+00:00"
     }
   },
-  "cleanup_day": "2026-11-25",
+  "cleanup_day": "2026-11-26",
   "recent_voices": [
     "en-AU-WilliamMultilingualNeural",
     "en-US-EmmaMultilingualNeural",
@@ -3376,7 +3376,8 @@
     "drop/20261124-tomato-fridge": "2026-11-24-107",
     "drop/20261125-coffee-awake": "2026-11-25-101",
     "drop/20261125-doorway-forget": "2026-11-25-102",
-    "drop/20261125-hitler-rise": "2026-11-25-103"
+    "drop/20261125-hitler-rise": "2026-11-25-103",
+    "drop/20261126-cat-feet": "2026-11-26-101"
   },
-  "refs_day": "2026-11-25"
+  "refs_day": "2026-11-26"
 }
