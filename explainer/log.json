@@ -2012,5 +2012,21 @@
   "hook_score": 40,
   "title_score": 98,
   "note": "no storyboard step (unattended run); 5:37 slot -> animal explainer; S130 clownfish skipped again (still no million-view source)"
+ },
+ {
+  "date": "2026-11-26",
+  "id": "20261126-hitler-tape",
+  "kind": "short",
+  "style": "kawaii-anime",
+  "topic": "The only recording of Hitler's normal voice (the 1942 Hitler–Mannerheim recording)",
+  "title": "How Did a Mic Left On Catch Hitler in 1942? 🎙️",
+  "seconds": 43.5,
+  "words": 100,
+  "voice": "bm_george",
+  "proven_by": "YouTube: The Only Secret Recording of Hitler's Normal Voice | The Hitler-Mannerheim Recording (WE6mnPmztoQ, 16,677,330 views)",
+  "recipe": "12:37 story slot: 'How did...' question with a year (1942) and one emoji; first frame = finished tape recorder + THE SECRET TAPE hook text",
+  "hook_score": 41,
+  "title_score": 98,
+  "note": "no storyboard step (unattended run); 12:37 slot -> story bank #2 (Hitler's normal voice); muted pine/steel/amber palette, Hitler only as a figure from behind; no sheet row (story bank topic)"
  }
 ]
