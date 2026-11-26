@@ -1978,5 +1978,22 @@
   "first_frame": "the Reichstag at dusk, big and centred, a dark-coated figure seen from behind, pie chart stuck at 37% under a 50% line, 'NEVER WON 50%' at full size",
   "drop": "drop/20261125-hitler-rise",
   "note": "no storyboard step (unattended run); 12:37 slot -> one-liner story from the story bank (first unmade: How Hitler rose to power); serious muted anime palette, no symbols, neutral framing"
+ },
+ {
+  "date": "2026-11-26",
+  "id": "20261126-cat-feet",
+  "kind": "short",
+  "style": "kawaii-anime",
+  "topic": "How does a cat always land on its feet? (the righting reflex)",
+  "title": "How Did a Cat Baffle Scientists in 1894? 🐱",
+  "seconds": 38.1,
+  "words": 106,
+  "voice": "af_bella",
+  "sheet_id": "S004",
+  "proven_by": "Smarter Every Day: Slow Motion Flipping Cat Physics | Smarter Every Day 58 (11,255,261 views)",
+  "recipe": "'How did...' question with a concrete number (1894), one emoji; first frame = finished cat + hook text",
+  "hook_score": 45,
+  "title_score": 98,
+  "note": "no storyboard step (unattended run); 5:37 slot -> animal explainer; S130 clownfish skipped again (biggest clownfish sex-change videos found have ~2.6K views)"
  }
 ]

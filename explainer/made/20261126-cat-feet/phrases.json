@@ -1,0 +1,538 @@
+[
+ {
+  "s": 0.25,
+  "e": 5.26,
+  "text": "Your cat can do a flip that baffled scientists in 1894.",
+  "words": [
+   [
+    "your",
+    0.25
+   ],
+   [
+    "cat",
+    0.71
+   ],
+   [
+    "can",
+    1.05
+   ],
+   [
+    "do",
+    1.39
+   ],
+   [
+    "a",
+    1.62
+   ],
+   [
+    "flip",
+    1.73
+   ],
+   [
+    "that",
+    2.18
+   ],
+   [
+    "baffled",
+    2.64
+   ],
+   [
+    "scientists",
+    3.44
+   ],
+   [
+    "in",
+    4.57
+   ],
+   [
+    "1894",
+    4.8
+   ]
+  ]
+ },
+ {
+  "s": 5.63,
+  "e": 8.48,
+  "text": "Falling upside down, with nothing to push against,",
+  "words": [
+   [
+    "falling",
+    5.63
+   ],
+   [
+    "upside",
+    6.12
+   ],
+   [
+    "down",
+    6.53
+   ],
+   [
+    "with",
+    6.81
+   ],
+   [
+    "nothing",
+    7.09
+   ],
+   [
+    "to",
+    7.57
+   ],
+   [
+    "push",
+    7.71
+   ],
+   [
+    "against",
+    7.99
+   ]
+  ]
+ },
+ {
+  "s": 8.75,
+  "e": 9.86,
+  "text": "it still turns over.",
+  "words": [
+   [
+    "it",
+    8.75
+   ],
+   [
+    "still",
+    8.89
+   ],
+   [
+    "turns",
+    9.23
+   ],
+   [
+    "over",
+    9.58
+   ]
+  ]
+ },
+ {
+  "s": 10.24,
+  "e": 10.83,
+  "text": "So how?",
+  "words": [
+   [
+    "so",
+    10.24
+   ],
+   [
+    "how",
+    10.48
+   ]
+  ]
+ },
+ {
+  "s": 11.32,
+  "e": 14.12,
+  "text": "First, its inner ear senses which way is down.",
+  "words": [
+   [
+    "first",
+    11.32
+   ],
+   [
+    "its",
+    11.7
+   ],
+   [
+    "inner",
+    11.94
+   ],
+   [
+    "ear",
+    12.33
+   ],
+   [
+    "senses",
+    12.56
+   ],
+   [
+    "which",
+    13.03
+   ],
+   [
+    "way",
+    13.42
+   ],
+   [
+    "is",
+    13.65
+   ],
+   [
+    "down",
+    13.8
+   ]
+  ]
+ },
+ {
+  "s": 14.5,
+  "e": 16.02,
+  "text": "Then it bends in the middle,",
+  "words": [
+   [
+    "then",
+    14.5
+   ],
+   [
+    "it",
+    14.78
+   ],
+   [
+    "bends",
+    14.91
+   ],
+   [
+    "in",
+    15.26
+   ],
+   [
+    "the",
+    15.4
+   ],
+   [
+    "middle",
+    15.6
+   ]
+  ]
+ },
+ {
+  "s": 16.1,
+  "e": 17.51,
+  "text": "like two cats glued together.",
+  "words": [
+   [
+    "like",
+    16.1
+   ],
+   [
+    "two",
+    16.33
+   ],
+   [
+    "cats",
+    16.51
+   ],
+   [
+    "glued",
+    16.74
+   ],
+   [
+    "together",
+    17.04
+   ]
+  ]
+ },
+ {
+  "s": 17.9,
+  "e": 19.17,
+  "text": "It tucks its front legs in,",
+  "words": [
+   [
+    "it",
+    17.9
+   ],
+   [
+    "tucks",
+    18.02
+   ],
+   [
+    "its",
+    18.33
+   ],
+   [
+    "front",
+    18.51
+   ],
+   [
+    "legs",
+    18.81
+   ],
+   [
+    "in",
+    19.05
+   ]
+  ]
+ },
+ {
+  "s": 19.51,
+  "e": 21.18,
+  "text": "so the front half spins fast,",
+  "words": [
+   [
+    "so",
+    19.51
+   ],
+   [
+    "the",
+    19.66
+   ],
+   [
+    "front",
+    19.88
+   ],
+   [
+    "half",
+    20.24
+   ],
+   [
+    "spins",
+    20.53
+   ],
+   [
+    "fast",
+    20.89
+   ]
+  ]
+ },
+ {
+  "s": 21.54,
+  "e": 23.74,
+  "text": "while the stretched back legs barely turn.",
+  "words": [
+   [
+    "while",
+    21.54
+   ],
+   [
+    "the",
+    21.86
+   ],
+   [
+    "stretched",
+    22.05
+   ],
+   [
+    "back",
+    22.61
+   ],
+   [
+    "legs",
+    22.86
+   ],
+   [
+    "barely",
+    23.11
+   ],
+   [
+    "turn",
+    23.49
+   ]
+  ]
+ },
+ {
+  "s": 24.14,
+  "e": 24.94,
+  "text": "Then it swaps,",
+  "words": [
+   [
+    "then",
+    24.14
+   ],
+   [
+    "it",
+    24.43
+   ],
+   [
+    "swaps",
+    24.58
+   ]
+  ]
+ },
+ {
+  "s": 25.23,
+  "e": 26.71,
+  "text": "and the back half catches up.",
+  "words": [
+   [
+    "and",
+    25.23
+   ],
+   [
+    "the",
+    25.42
+   ],
+   [
+    "back",
+    25.62
+   ],
+   [
+    "half",
+    25.87
+   ],
+   [
+    "catches",
+    26.13
+   ],
+   [
+    "up",
+    26.58
+   ]
+  ]
+ },
+ {
+  "s": 27.09,
+  "e": 30.15,
+  "text": "A bendy spine and a loose collarbone make it possible,",
+  "words": [
+   [
+    "a",
+    27.09
+   ],
+   [
+    "bendy",
+    27.16
+   ],
+   [
+    "spine",
+    27.51
+   ],
+   [
+    "and",
+    27.86
+   ],
+   [
+    "a",
+    28.07
+   ],
+   [
+    "loose",
+    28.14
+   ],
+   [
+    "collarbone",
+    28.48
+   ],
+   [
+    "make",
+    29.18
+   ],
+   [
+    "it",
+    29.46
+   ],
+   [
+    "possible",
+    29.6
+   ]
+  ]
+ },
+ {
+  "s": 30.58,
+  "e": 31.68,
+  "text": "all in under a second.",
+  "words": [
+   [
+    "all",
+    30.58
+   ],
+   [
+    "in",
+    30.78
+   ],
+   [
+    "under",
+    30.91
+   ],
+   [
+    "a",
+    31.23
+   ],
+   [
+    "second",
+    31.3
+   ]
+  ]
+ },
+ {
+  "s": 32.13,
+  "e": 34.2,
+  "text": "Kittens master it by about seven weeks.",
+  "words": [
+   [
+    "kittens",
+    32.13
+   ],
+   [
+    "master",
+    32.58
+   ],
+   [
+    "it",
+    32.97
+   ],
+   [
+    "by",
+    33.1
+   ],
+   [
+    "about",
+    33.23
+   ],
+   [
+    "seven",
+    33.55
+   ],
+   [
+    "weeks",
+    33.87
+   ]
+  ]
+ },
+ {
+  "s": 34.67,
+  "e": 37.04,
+  "text": "So, have you ever seen your cat pull off the flip?",
+  "words": [
+   [
+    "so",
+    34.67
+   ],
+   [
+    "have",
+    34.8
+   ],
+   [
+    "you",
+    35.05
+   ],
+   [
+    "ever",
+    35.23
+   ],
+   [
+    "seen",
+    35.48
+   ],
+   [
+    "your",
+    35.73
+   ],
+   [
+    "cat",
+    35.98
+   ],
+   [
+    "pull",
+    36.17
+   ],
+   [
+    "off",
+    36.42
+   ],
+   [
+    "the",
+    36.61
+   ],
+   [
+    "flip",
+    36.79
+   ]
+  ]
+ }
+]
