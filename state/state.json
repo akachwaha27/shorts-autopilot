@@ -378,96 +378,6 @@
     }
   },
   "videos": {
-    "2026-11-19-105": {
-      "topic": {
-        "title": "Why do apples float but potatoes sink?",
-        "format": "animated",
-        "angle": "Whiteboard Explainer"
-      },
-      "package": {
-        "title": "Why Do Apples Float but Potatoes Sink? \ud83c\udf4e",
-        "description": "Why do apples float in water while potatoes sink? About a quarter of an apple is air trapped between its cells, so it's less dense than water, while a potato is packed with heavy starch grains.\n\nSources:\nhttps://www.mashed.com/906273/the-real-reason-apples-float\nhttps://www.freshplaza.com/north-america/article/2162560/why-do-apples-float\nhttps://www.nwpotatoresearch.com/images/documents/theSpecificGravityofPotatoes.pdf\n\nAnimated in the Whiteboard Explainer style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#science",
-          "#food",
-          "#funfacts"
-        ],
-        "tags": [
-          "why do apples float",
-          "apples float potatoes sink",
-          "density explained",
-          "apple 25 percent air",
-          "potato starch",
-          "food science",
-          "kitchen science",
-          "bobbing for apples",
-          "sink or float",
-          "science for kids",
-          "how things work",
-          "whiteboard animation",
-          "zorbly ai"
-        ],
-        "category": "27",
-        "pinned_comment": "What else in your kitchen do you think floats? \ud83c\udf4b\ud83e\udd5a\ud83c\udf5e",
-        "thumbnail_text": "25% AIR",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "Your apple is twenty-five percent air. Your potato isn't. That's why one floats and one sinks. Drop both into a bowl of water. The apple bobs right back up. The potato heads straight for the bottom. The secret is density. Anything lighter than the same amount of water floats. Inside an apple, the cells aren't packed tightly. Between them are tiny pockets of air, about a quarter of the whole apple. So the apple ends up lighter than water, like a life jacket made of fruit. A potato is different. Its cells are stuffed with grains of starch, and starch is heavier than water. There's hardly any air in there, so down it goes. That's why bobbing for apples works. If apples sank, the game would be impossible! So what else in your kitchen is secretly full of air?",
-        "key_facts": [
-          "About 25% of an apple's volume is air in pockets between its cells",
-          "That makes an apple less dense than water, so it floats",
-          "Potato cells are packed with starch grains; starch is denser than water",
-          "A potato's specific gravity is roughly 1.06-1.10, so it sinks"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Whiteboard Explainer"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261119-apple-float",
-      "redos": 0,
-      "updated": "2026-11-20T04:16:39.775472+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Whiteboard Explainer style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-19",
-        "name": "2026-11-19-105.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-19",
-        "name": "2026-11-19-105-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:02,340\nYour apple is twenty-five percent air.\n\n2\n00:00:02,810 --> 00:00:04,110\nYour potato isn't.\n\n3\n00:00:04,440 --> 00:00:06,460\nThat's why one floats and one sinks.\n\n4\n00:00:06,810 --> 00:00:08,780\nDrop both into a bowl of water.\n\n5\n00:00:09,200 --> 00:00:11,000\nThe apple bobs right back up.\n\n6\n00:00:11,350 --> 00:00:13,430\nThe potato heads straight for the bottom.\n\n7\n00:00:13,900 --> 00:00:15,400\nThe secret is density.\n\n8\n00:00:15,750 --> 00:00:18,830\nAnything lighter than the same amount of water floats.\n\n9\n00:00:19,260 --> 00:00:22,090\nInside an apple, the cells aren't packed tightly.\n\n10\n00:00:22,490 --> 00:00:24,660\nBetween them are tiny pockets of air,\n\n11\n00:00:25,110 --> 00:00:26,770\nabout a quarter of the whole apple.\n\n12\n00:00:27,190 --> 00:00:29,400\nSo the apple ends up lighter than water,\n\n13\n00:00:29,850 --> 00:00:31,760\nlike a life jacket made of fruit.\n\n14\n00:00:32,160 --> 00:00:33,570\nA potato is different.\n\n15\n00:00:33,830 --> 00:00:36,170\nIts cells are stuffed with grains of starch,\n\n16\n00:00:36,580 --> 00:00:38,530\nand starch is heavier than water.\n\n17\n00:00:38,940 --> 00:00:40,440\nThere's hardly any air in there,\n\n18\n00:00:40,700 --> 00:00:41,860\nso down it goes.\n\n19\n00:00:42,220 --> 00:00:44,340\nThat's why bobbing for apples works.\n\n20\n00:00:44,780 --> 00:00:47,360\nIf apples sank, the game would be impossible!\n\n21\n00:00:47,780 --> 00:00:49,000\nSo what else in your kitchen\n\n22\n00:00:49,290 --> 00:00:50,960\nis secretly full of air?\n\n",
-      "tg_msg": 1172,
-      "approved_by": "auto",
-      "description_full": "Why do apples float in water while potatoes sink? About a quarter of an apple is air trapped between its cells, so it's less dense than water, while a potato is packed with heavy starch grains.\n\nSources:\nhttps://www.mashed.com/906273/the-real-reason-apples-float\nhttps://www.freshplaza.com/north-america/article/2162560/why-do-apples-float\nhttps://www.nwpotatoresearch.com/images/documents/theSpecificGravityofPotatoes.pdf\n\nAnimated in the Whiteboard Explainer style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #science #food #funfacts\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Whiteboard Explainer style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/iDzd-WoIw0Y",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-11-20T04:16:39.775488+00:00",
-      "slot": "2026-11-21T02:15:00+00:00"
-    },
     "2026-11-20-101": {
       "topic": {
         "title": "Why does your voice sound so weird on a recording?",
@@ -3106,12 +3016,12 @@
         "format": "animated",
         "style": "kawaii-anime"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261126-crows-count",
       "redos": 0,
-      "updated": "2026-11-26T15:26:19.718147+00:00",
+      "updated": "2026-11-26T22:59:59.384333+00:00",
       "credits": [
         "Animation: code-drawn in Claude (kawaii-anime style). Voice: Kokoro text-to-speech."
       ],
@@ -3126,7 +3036,100 @@
         "name": "2026-11-26-102-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:04,370\nCrows count out loud, and they plan every caw before the first one.\n\n2\n00:00:04,800 --> 00:00:08,260\nIn Germany, scientists trained three carrion crows\n\n3\n00:00:08,260 --> 00:00:09,690\nto look at a number on a screen\n\n4\n00:00:10,160 --> 00:00:12,280\nand caw exactly that many times.\n\n5\n00:00:12,720 --> 00:00:14,820\nThen peck an enter key when they're done.\n\n6\n00:00:15,270 --> 00:00:16,810\nAt first, the crows cheated.\n\n7\n00:00:17,210 --> 00:00:19,460\nThey just kept cawing until a snack showed up.\n\n8\n00:00:19,880 --> 00:00:22,040\nSo the team made them stop and confirm.\n\n9\n00:00:22,450 --> 00:00:23,710\nNow the wild part.\n\n10\n00:00:24,000 --> 00:00:25,380\nFrom the very first caw,\n\n11\n00:00:25,770 --> 00:00:28,080\na computer could predict how many were coming.\n\n12\n00:00:28,460 --> 00:00:30,620\nThe whole count was ready in their heads.\n\n13\n00:00:30,970 --> 00:00:34,060\nBigger numbers made them pause longer, just like us.\n\n14\n00:00:34,440 --> 00:00:36,770\nSo how high do you think a crow could count?\n\n",
-      "tg_msg": 1237
+      "tg_msg": 1237,
+      "approved_by": "auto",
+      "description_full": "Can crows count? Three carrion crows learned to see a number and caw exactly that many times, and their very first caw gave the whole count away.\n\nFollow Zorbly for a new mystery every day.\n\n#shorts #crows #animals #science\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #crows #animals #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (kawaii-anime style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/EICUxQPa498",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-26T22:59:59.384349+00:00",
+      "slot": "2026-11-28T19:15:00+00:00"
+    },
+    "2026-11-26-103": {
+      "topic": {
+        "title": "The only recording of Hitler's normal voice (the 1942 Hitler\u2013Mannerheim recording)",
+        "format": "animated",
+        "angle": "kawaii-anime"
+      },
+      "package": {
+        "title": "How Did a Mic Left On Catch Hitler in 1942? \ud83c\udf99\ufe0f",
+        "description": "The only known recording of Hitler's normal speaking voice exists because a Finnish radio engineer left his microphone running during the Hitler\u2013Mannerheim meeting in June 1942.\n\nFollow Zorbly for a new mystery every day.\n\n#shorts #history #ww2 #finland\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#history",
+          "#ww2",
+          "#finland"
+        ],
+        "tags": [
+          "hitler mannerheim recording",
+          "hitler normal voice",
+          "hitler real voice",
+          "secret recording 1942",
+          "thor damen",
+          "mannerheim",
+          "finland ww2",
+          "bruno ganz downfall",
+          "yle recording",
+          "ww2 history",
+          "history shorts",
+          "anime history",
+          "hitler calm voice"
+        ],
+        "category": "27",
+        "pinned_comment": "Does hearing him talk calmly make him less scary, or more?",
+        "thumbnail_text": "THE SECRET TAPE",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "This is the only known tape of Hitler not shouting.\nYou were never supposed to hear it.\nJune 1942: Hitler visits Finland for Marshal Mannerheim's birthday.\nA Finnish engineer records the speeches,\nthen leaves his mic running.\nIn a railway car, Hitler just talks.\nNo shouting.\nHe admits Soviet factories shocked him.\nEleven minutes in, the SS guards spot the mic.\nOne draws a finger across his throat.\nThey want the tape destroyed.\nInstead, it's sealed, never to be opened.\nLater, actor Bruno Ganz studied it to play him.\nSo does the calm voice make him less scary, or more?",
+        "key_facts": [
+          "4 June 1942: Hitler made a secret visit to Finland for Marshal Mannerheim's 75th birthday (Imatra / Immola)",
+          "Yle sound engineer Thor Damen kept recording after the official speeches, in Mannerheim's railway carriage, without permission",
+          "About 11 minutes were recorded before SS guards noticed and signalled him to stop with a cutthroat gesture",
+          "SS demanded the tape be destroyed; Yle kept it in a sealed container promised never to be opened; returned to Yle in 1957, released a few years later",
+          "Hitler was shocked by the Red Army's production capability",
+          "Bruno Ganz used it to study Hitler's speaking for Downfall (2004)",
+          "Described as the only known recording of Hitler speaking in an unofficial tone"
+        ],
+        "voice": "bm_george",
+        "format": "animated",
+        "style": "kawaii-anime"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261126-hitler-tape",
+      "redos": 0,
+      "updated": "2026-11-26T22:59:47.450520+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (kawaii-anime style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-26",
+        "name": "2026-11-26-103.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-26",
+        "name": "2026-11-26-103-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:03,640\nThis is the only known tape of Hitler not shouting.\n\n2\n00:00:04,070 --> 00:00:05,820\nYou were never supposed to hear it.\n\n3\n00:00:06,290 --> 00:00:11,810\nJune 1942: Hitler visits Finland for Marshal Mannerheim's birthday.\n\n4\n00:00:12,170 --> 00:00:14,670\nA Finnish engineer records the speeches,\n\n5\n00:00:15,020 --> 00:00:16,550\nthen leaves his mic running.\n\n6\n00:00:16,990 --> 00:00:19,540\nIn a railway car, Hitler just talks.\n\n7\n00:00:19,900 --> 00:00:20,940\nNo shouting.\n\n8\n00:00:21,250 --> 00:00:23,690\nHe admits Soviet factories shocked him.\n\n9\n00:00:24,170 --> 00:00:27,340\nEleven minutes in, the SS guards spot the mic.\n\n10\n00:00:27,820 --> 00:00:30,350\nOne draws a finger across his throat.\n\n11\n00:00:30,720 --> 00:00:32,640\nThey want the tape destroyed.\n\n12\n00:00:33,080 --> 00:00:35,710\nInstead, it's sealed, never to be opened.\n\n13\n00:00:36,090 --> 00:00:38,890\nLater, actor Bruno Ganz studied it to play him.\n\n14\n00:00:39,360 --> 00:00:42,480\nSo does the calm voice make him less scary, or more?\n\n",
+      "tg_msg": 1239
     }
   },
   "history": [
@@ -3377,7 +3380,8 @@
     "drop/20261125-doorway-forget": "2026-11-25-102",
     "drop/20261125-hitler-rise": "2026-11-25-103",
     "drop/20261126-cat-feet": "2026-11-26-101",
-    "drop/20261126-crows-count": "2026-11-26-102"
+    "drop/20261126-crows-count": "2026-11-26-102",
+    "drop/20261126-hitler-tape": "2026-11-26-103"
   },
   "refs_day": "2026-11-26"
 }
