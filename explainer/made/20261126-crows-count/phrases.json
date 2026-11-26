@@ -1,0 +1,532 @@
+[
+ {
+  "s": 0.25,
+  "e": 4.37,
+  "text": "Crows count out loud, and they plan every caw before the first one.",
+  "words": [
+   [
+    "crows",
+    0.25
+   ],
+   [
+    "count",
+    0.64
+   ],
+   [
+    "out",
+    1.03
+   ],
+   [
+    "loud",
+    1.26
+   ],
+   [
+    "and",
+    1.57
+   ],
+   [
+    "they",
+    1.8
+   ],
+   [
+    "plan",
+    2.11
+   ],
+   [
+    "every",
+    2.42
+   ],
+   [
+    "caw",
+    2.81
+   ],
+   [
+    "before",
+    3.05
+   ],
+   [
+    "the",
+    3.51
+   ],
+   [
+    "first",
+    3.75
+   ],
+   [
+    "one",
+    4.13
+   ]
+  ]
+ },
+ {
+  "s": 4.8,
+  "e": 8.26,
+  "text": "In Germany, scientists trained three carrion crows",
+  "words": [
+   [
+    "in",
+    4.8
+   ],
+   [
+    "germany",
+    4.96
+   ],
+   [
+    "scientists",
+    5.52
+   ],
+   [
+    "trained",
+    6.33
+   ],
+   [
+    "three",
+    6.89
+   ],
+   [
+    "carrion",
+    7.29
+   ],
+   [
+    "crows",
+    7.86
+   ]
+  ]
+ },
+ {
+  "s": 8.26,
+  "e": 9.69,
+  "text": "to look at a number on a screen",
+  "words": [
+   [
+    "to",
+    8.26
+   ],
+   [
+    "look",
+    8.38
+   ],
+   [
+    "at",
+    8.62
+   ],
+   [
+    "a",
+    8.73
+   ],
+   [
+    "number",
+    8.79
+   ],
+   [
+    "on",
+    9.15
+   ],
+   [
+    "a",
+    9.27
+   ],
+   [
+    "screen",
+    9.33
+   ]
+  ]
+ },
+ {
+  "s": 10.16,
+  "e": 12.28,
+  "text": "and caw exactly that many times.",
+  "words": [
+   [
+    "and",
+    10.16
+   ],
+   [
+    "caw",
+    10.4
+   ],
+   [
+    "exactly",
+    10.65
+   ],
+   [
+    "that",
+    11.22
+   ],
+   [
+    "many",
+    11.55
+   ],
+   [
+    "times",
+    11.87
+   ]
+  ]
+ },
+ {
+  "s": 12.72,
+  "e": 14.82,
+  "text": "Then peck an enter key when they're done.",
+  "words": [
+   [
+    "then",
+    12.72
+   ],
+   [
+    "peck",
+    12.99
+   ],
+   [
+    "an",
+    13.25
+   ],
+   [
+    "enter",
+    13.38
+   ],
+   [
+    "key",
+    13.7
+   ],
+   [
+    "when",
+    13.9
+   ],
+   [
+    "theyre",
+    14.16
+   ],
+   [
+    "done",
+    14.55
+   ]
+  ]
+ },
+ {
+  "s": 15.27,
+  "e": 16.81,
+  "text": "At first, the crows cheated.",
+  "words": [
+   [
+    "at",
+    15.27
+   ],
+   [
+    "first",
+    15.41
+   ],
+   [
+    "the",
+    15.76
+   ],
+   [
+    "crows",
+    15.97
+   ],
+   [
+    "cheated",
+    16.32
+   ]
+  ]
+ },
+ {
+  "s": 17.21,
+  "e": 19.46,
+  "text": "They just kept cawing until a snack showed up.",
+  "words": [
+   [
+    "they",
+    17.21
+   ],
+   [
+    "just",
+    17.45
+   ],
+   [
+    "kept",
+    17.69
+   ],
+   [
+    "cawing",
+    17.94
+   ],
+   [
+    "until",
+    18.3
+   ],
+   [
+    "a",
+    18.61
+   ],
+   [
+    "snack",
+    18.67
+   ],
+   [
+    "showed",
+    18.97
+   ],
+   [
+    "up",
+    19.34
+   ]
+  ]
+ },
+ {
+  "s": 19.88,
+  "e": 22.04,
+  "text": "So the team made them stop and confirm.",
+  "words": [
+   [
+    "so",
+    19.88
+   ],
+   [
+    "the",
+    20.02
+   ],
+   [
+    "team",
+    20.23
+   ],
+   [
+    "made",
+    20.51
+   ],
+   [
+    "them",
+    20.79
+   ],
+   [
+    "stop",
+    21.07
+   ],
+   [
+    "and",
+    21.34
+   ],
+   [
+    "confirm",
+    21.55
+   ]
+  ]
+ },
+ {
+  "s": 22.45,
+  "e": 23.71,
+  "text": "Now the wild part.",
+  "words": [
+   [
+    "now",
+    22.45
+   ],
+   [
+    "the",
+    22.72
+   ],
+   [
+    "wild",
+    22.99
+   ],
+   [
+    "part",
+    23.35
+   ]
+  ]
+ },
+ {
+  "s": 24.0,
+  "e": 25.38,
+  "text": "From the very first caw,",
+  "words": [
+   [
+    "from",
+    24.0
+   ],
+   [
+    "the",
+    24.29
+   ],
+   [
+    "very",
+    24.51
+   ],
+   [
+    "first",
+    24.8
+   ],
+   [
+    "caw",
+    25.16
+   ]
+  ]
+ },
+ {
+  "s": 25.77,
+  "e": 28.08,
+  "text": "a computer could predict how many were coming.",
+  "words": [
+   [
+    "a",
+    25.77
+   ],
+   [
+    "computer",
+    25.83
+   ],
+   [
+    "could",
+    26.32
+   ],
+   [
+    "predict",
+    26.62
+   ],
+   [
+    "how",
+    27.05
+   ],
+   [
+    "many",
+    27.23
+   ],
+   [
+    "were",
+    27.47
+   ],
+   [
+    "coming",
+    27.72
+   ]
+  ]
+ },
+ {
+  "s": 28.46,
+  "e": 30.62,
+  "text": "The whole count was ready in their heads.",
+  "words": [
+   [
+    "the",
+    28.46
+   ],
+   [
+    "whole",
+    28.65
+   ],
+   [
+    "count",
+    28.98
+   ],
+   [
+    "was",
+    29.31
+   ],
+   [
+    "ready",
+    29.51
+   ],
+   [
+    "in",
+    29.83
+   ],
+   [
+    "their",
+    29.96
+   ],
+   [
+    "heads",
+    30.29
+   ]
+  ]
+ },
+ {
+  "s": 30.97,
+  "e": 34.06,
+  "text": "Bigger numbers made them pause longer, just like us.",
+  "words": [
+   [
+    "bigger",
+    30.97
+   ],
+   [
+    "numbers",
+    31.41
+   ],
+   [
+    "made",
+    31.93
+   ],
+   [
+    "them",
+    32.22
+   ],
+   [
+    "pause",
+    32.52
+   ],
+   [
+    "longer",
+    32.88
+   ],
+   [
+    "just",
+    33.33
+   ],
+   [
+    "like",
+    33.62
+   ],
+   [
+    "us",
+    33.91
+   ]
+  ]
+ },
+ {
+  "s": 34.44,
+  "e": 36.77,
+  "text": "So how high do you think a crow could count?",
+  "words": [
+   [
+    "so",
+    34.44
+   ],
+   [
+    "how",
+    34.58
+   ],
+   [
+    "high",
+    34.79
+   ],
+   [
+    "do",
+    35.06
+   ],
+   [
+    "you",
+    35.2
+   ],
+   [
+    "think",
+    35.4
+   ],
+   [
+    "a",
+    35.75
+   ],
+   [
+    "crow",
+    35.81
+   ],
+   [
+    "could",
+    36.09
+   ],
+   [
+    "count",
+    36.43
+   ]
+  ]
+ }
+]
