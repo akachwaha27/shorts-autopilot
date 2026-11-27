@@ -3208,7 +3208,7 @@
       "at": "2026-10-25T17:40:17.371797+00:00"
     }
   },
-  "cleanup_day": "2026-11-26",
+  "cleanup_day": "2026-11-27",
   "recent_voices": [
     "en-AU-WilliamMultilingualNeural",
     "en-US-EmmaMultilingualNeural",
@@ -3383,5 +3383,5 @@
     "drop/20261126-crows-count": "2026-11-26-102",
     "drop/20261126-hitler-tape": "2026-11-26-103"
   },
-  "refs_day": "2026-11-26"
+  "refs_day": "2026-11-27"
 }
