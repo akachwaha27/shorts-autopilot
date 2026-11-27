@@ -378,89 +378,6 @@
     }
   },
   "videos": {
-    "2026-11-20-102": {
-      "topic": {
-        "title": "Why can some animals see colors we can't even imagine?",
-        "format": "long",
-        "angle": "Low-Poly Faceted"
-      },
-      "package": {
-        "title": "Birds Have 4 Cones, You Have 3. What Can't You See?",
-        "description": "Why can some animals see colors we can't even imagine? Your eyes have 3 color cones, while bees and many birds see ultraviolet, hummingbirds tell apart non-spectral colors like UV plus green, the mantis shrimp's 12 receptors turn out to be fast but not fine, and reindeer may spot dark lichen against UV-bright snow.\n\n0:00 Colors with no names\n0:13 How you see color\n0:57 Fewer cones\n1:10 Bees see ultraviolet\n1:28 Birds have 4 cones\n2:10 The mantis shrimp twist\n2:35 Why see UV?\n\nSources:\nhttps://www.princeton.edu/news/2020/06/15/wild-hummingbirds-see-broad-range-colors-humans-can-only-imagine\nhttps://www.nationalgeographic.com/science/article/the-mantis-shrimp-sees-like-a-satellite\nhttps://www.popsci.com/environment/reindeer-eyes-uv-light/\n\nAnimated in the Low-Poly Faceted style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#animals",
-          "#science",
-          "#colorvision"
-        ],
-        "tags": [
-          "animal vision",
-          "how animals see color",
-          "color vision explained",
-          "ultraviolet vision",
-          "tetrachromacy",
-          "hummingbird vision",
-          "mantis shrimp eyes",
-          "bee vision",
-          "dog color vision",
-          "cone cells",
-          "non-spectral colors",
-          "reindeer uv vision",
-          "animal facts",
-          "science explained",
-          "zorbly ai"
-        ],
-        "category": "27",
-        "pinned_comment": "Which animal's eyes would you borrow for a day: the bee, the hummingbird or the mantis shrimp? \ud83d\udc40",
-        "thumbnail_text": "INVISIBLE COLORS",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "Hummingbirds see colors your brain has never made.\nNot brighter colors, or sharper ones.\nWhole new colors, with no names.\nSo how can an animal see a color we can't even imagine?\nTo find out, we have to start with you.\nLight travels in waves of different lengths.\nYour eyes catch a tiny slice of them,\nfrom about 400 to 700 nanometers.\nThat slice is the rainbow,\nviolet at one end and red at the other.\nInside your eye are three kinds of color cells, called cones.\nOne likes blue light best, one likes green, and one likes red.\nEvery color you've ever seen,\nis your brain comparing how hard those three are firing.\nYellow? That's your red and green cones firing together.\nAnd here's a fun one.\nPurple isn't in the rainbow at all.\nWhen your red and blue cones fire, but green stays quiet,\nyour brain invents a color to fill the gap.\nScientists call that a non-spectral color.\nHold on to that idea.\nNow take one cone away.\nDogs have just two, tuned to blue and yellow.\nSo a red ball on green grass,\nlooks to a dog like two similar, muddy shades.\nFewer cones, fewer colors.\nSo what happens with more?\nHoneybees have three cones too, but they're shifted.\nThey see ultraviolet, blue and green.\nRed? To a bee, red mostly looks dark.\nLots of flowers that look plain yellow to us,\nhave dark ultraviolet bullseyes in the middle.\nThey work like landing lights,\npointing the bee straight to the nectar.\nMany birds go one step further.\nThey have four cone types, including one for ultraviolet.\nMale and female blue tits look almost the same to us.\nBut in ultraviolet, the males' crowns shine brighter.\nNow remember purple.\nWith three cones, you get one non-spectral color.\nWith four cones, there are way more ways to mix.\nIn 2020, scientists tested wild hummingbirds in the Rocky Mountains.\nThey lit up feeders with mixes like ultraviolet plus green.\nAnd the birds learned to tell them apart from plain green.\nThat's a color you will never see.\nIt isn't greenish, or bluish.\nIt's something your brain has no slot for,\nlike trying to picture a brand new primary color.\nSo more cones always means more colors, right?\nMeet the mantis shrimp.\nIt has around twelve kinds of color receptors.\nFor years, people said it must see a mind-blowing rainbow.\nBut in 2014, scientists actually tested it.\nAnd it was worse than you at telling close shades apart.\nInstead of comparing cones like we do,\nit seems to read colors directly, like a barcode scanner.\nFast, but not fine.\nSo why bother seeing ultraviolet at all?\nTake reindeer, out in the snowy Arctic.\nSnow reflects ultraviolet, but their favorite food, lichen, soaks it up.\nSo scientists think lichen pops out as dark patches,\nagainst the glowing snow.\nEvery animal sees the colors it needs to survive.\nYour three cones are just one version of the world.\nAnd somewhere, a hummingbird is looking at a flower,\nin a color you'll never know.\nNext up, what actually happens,\nwhen a bee stings you?\n",
-        "key_facts": [
-          "Humans see roughly 400-700 nm with 3 cone types (short/blue, medium/green, long/red)",
-          "Purple/magenta is a non-spectral color: the brain's mix of red and blue signals, not a single wavelength",
-          "Dogs have 2 cone types (blue and yellowish), so red and green look similar",
-          "Honeybees see ultraviolet, blue and green, and are not sensitive to red; many flowers have UV bullseye nectar guides",
-          "Many birds have 4 cone types including a UV/violet cone; blue tit males have more UV-reflective crowns",
-          "Stoddard et al. (Princeton, PNAS 2020) showed wild broad-tailed hummingbirds in the Rocky Mountains discriminate non-spectral colors such as UV+green",
-          "Mantis shrimp have about 12 color photoreceptor types but Thoen et al. (Science 2014) found poor discrimination of close colors; they appear to recognize colors directly",
-          "Reindeer eyes transmit UV; snow reflects UV while lichen absorbs it, so researchers think lichen stands out as dark"
-        ],
-        "voice": "Kokoro",
-        "format": "long",
-        "style": "Low-Poly Faceted"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261120-animal-colors",
-      "redos": 0,
-      "updated": "2026-11-20T21:16:30.869880+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Low-Poly Faceted style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-20",
-        "name": "2026-11-20-102.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-20",
-        "name": "2026-11-20-102-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:02,730\nHummingbirds see colors your brain has never made.\n\n2\n00:00:03,160 --> 00:00:05,210\nNot brighter colors, or sharper ones.\n\n3\n00:00:05,670 --> 00:00:07,530\nWhole new colors, with no names.\n\n4\n00:00:07,900 --> 00:00:10,980\nSo how can an animal see a color we can't even imagine?\n\n5\n00:00:11,500 --> 00:00:13,420\nTo find out, we have to start with you.\n\n6\n00:00:13,840 --> 00:00:16,010\nLight travels in waves of different lengths.\n\n7\n00:00:16,480 --> 00:00:18,610\nYour eyes catch a tiny slice of them,\n\n8\n00:00:19,000 --> 00:00:21,760\nfrom about 400 to 700 nanometers.\n\n9\n00:00:22,220 --> 00:00:23,550\nThat slice is the rainbow,\n\n10\n00:00:23,900 --> 00:00:25,990\nviolet at one end and red at the other.\n\n11\n00:00:26,470 --> 00:00:29,770\nInside your eye are three kinds of color cells, called cones.\n\n12\n00:00:30,230 --> 00:00:33,750\nOne likes blue light best, one likes green, and one likes red.\n\n13\n00:00:34,200 --> 00:00:35,670\nEvery color you've ever seen,\n\n14\n00:00:36,090 --> 00:00:39,200\nis your brain comparing how hard those three are firing.\n\n15\n00:00:39,580 --> 00:00:42,640\nYellow? That's your red and green cones firing together.\n\n16\n00:00:43,020 --> 00:00:44,170\nAnd here's a fun one.\n\n17\n00:00:44,510 --> 00:00:46,290\nPurple isn't in the rainbow at all.\n\n18\n00:00:46,720 --> 00:00:50,130\nWhen your red and blue cones fire, but green stays quiet,\n\n19\n00:00:50,570 --> 00:00:52,700\nyour brain invents a color to fill the gap.\n\n20\n00:00:53,070 --> 00:00:55,320\nScientists call that a non-spectral color.\n\n21\n00:00:55,760 --> 00:00:57,100\nHold on to that idea.\n\n22\n00:00:57,460 --> 00:00:58,890\nNow take one cone away.\n\n23\n00:00:59,330 --> 00:01:01,690\nDogs have just two, tuned to blue and yellow.\n\n24\n00:01:02,090 --> 00:01:03,930\nSo a red ball on green grass,\n\n25\n00:01:04,290 --> 00:01:06,830\nlooks to a dog like two similar, muddy shades.\n\n26\n00:01:07,270 --> 00:01:08,910\nFewer cones, fewer colors.\n\n27\n00:01:09,170 --> 00:01:10,520\nSo what happens with more?\n\n28\n00:01:11,070 --> 00:01:13,690\nHoneybees have three cones too, but they're shifted.\n\n29\n00:01:14,150 --> 00:01:16,350\nThey see ultraviolet, blue and green.\n\n30\n00:01:16,700 --> 00:01:19,010\nRed? To a bee, red mostly looks dark.\n\n31\n00:01:19,390 --> 00:01:21,740\nLots of flowers that look plain yellow to us,\n\n32\n00:01:22,090 --> 00:01:24,550\nhave dark ultraviolet bullseyes in the middle.\n\n33\n00:01:24,910 --> 00:01:26,330\nThey work like landing lights,\n\n34\n00:01:26,600 --> 00:01:28,250\npointing the bee straight to the nectar.\n\n35\n00:01:28,600 --> 00:01:30,380\nMany birds go one step further.\n\n36\n00:01:30,840 --> 00:01:34,200\nThey have four cone types, including one for ultraviolet.\n\n37\n00:01:34,670 --> 00:01:37,810\nMale and female blue tits look almost the same to us.\n\n38\n00:01:38,240 --> 00:01:41,170\nBut in ultraviolet, the males' crowns shine brighter.\n\n39\n00:01:41,540 --> 00:01:42,750\nNow remember purple.\n\n40\n00:01:43,080 --> 00:01:45,890\nWith three cones, you get one non-spectral color.\n\n41\n00:01:46,290 --> 00:01:48,900\nWith four cones, there are way more ways to mix.\n\n42\n00:01:49,260 --> 00:01:54,040\nIn 2020, scientists tested wild hummingbirds in the Rocky Mountains.\n\n43\n00:01:54,480 --> 00:01:58,060\nThey lit up feeders with mixes like ultraviolet plus green.\n\n44\n00:01:58,470 --> 00:02:01,310\nAnd the birds learned to tell them apart from plain green.\n\n45\n00:02:01,680 --> 00:02:03,220\nThat's a color you will never see.\n\n46\n00:02:03,640 --> 00:02:05,170\nIt isn't greenish, or bluish.\n\n47\n00:02:05,620 --> 00:02:07,740\nIt's something your brain has no slot for,\n\n48\n00:02:08,130 --> 00:02:10,510\nlike trying to picture a brand new primary color.\n\n49\n00:02:10,940 --> 00:02:13,520\nSo more cones always means more colors, right?\n\n50\n00:02:14,010 --> 00:02:15,290\nMeet the mantis shrimp.\n\n51\n00:02:15,570 --> 00:02:17,930\nIt has around twelve kinds of color receptors.\n\n52\n00:02:18,330 --> 00:02:21,440\nFor years, people said it must see a mind-blowing rainbow.\n\n53\n00:02:21,810 --> 00:02:25,240\nBut in 2014, scientists actually tested it.\n\n54\n00:02:25,620 --> 00:02:28,230\nAnd it was worse than you at telling close shades apart.\n\n55\n00:02:28,590 --> 00:02:30,570\nInstead of comparing cones like we do,\n\n56\n00:02:31,000 --> 00:02:34,180\nit seems to read colors directly, like a barcode scanner.\n\n57\n00:02:34,580 --> 00:02:35,830\nFast, but not fine.\n\n58\n00:02:36,200 --> 00:02:38,400\nSo why bother seeing ultraviolet at all?\n\n59\n00:02:38,850 --> 00:02:41,160\nTake reindeer, out in the snowy Arctic.\n\n60\n00:02:41,630 --> 00:02:45,930\nSnow reflects ultraviolet, but their favorite food, lichen, soaks it up.\n\n61\n00:02:46,350 --> 00:02:49,400\nSo scientists think lichen pops out as dark patches,\n\n62\n00:02:49,790 --> 00:02:51,060\nagainst the glowing snow.\n\n63\n00:02:51,450 --> 00:02:54,240\nEvery animal sees the colors it needs to survive.\n\n64\n00:02:54,700 --> 00:02:57,450\nYour three cones are just one version of the world.\n\n65\n00:02:57,810 --> 00:03:00,360\nAnd somewhere, a hummingbird is looking at a flower,\n\n66\n00:03:00,730 --> 00:03:01,950\nin a color you'll never know.\n\n67\n00:03:02,370 --> 00:03:04,020\nNext up, what actually happens,\n\n68\n00:03:04,250 --> 00:03:05,210\nwhen a bee stings you?\n\n",
-      "tg_msg": 1178,
-      "approved_by": "auto",
-      "description_full": "Why can some animals see colors we can't even imagine? Your eyes have 3 color cones, while bees and many birds see ultraviolet, hummingbirds tell apart non-spectral colors like UV plus green, the mantis shrimp's 12 receptors turn out to be fast but not fine, and reindeer may spot dark lichen against UV-bright snow.\n\n0:00 Colors with no names\n0:13 How you see color\n0:57 Fewer cones\n1:10 Bees see ultraviolet\n1:28 Birds have 4 cones\n2:10 The mantis shrimp twist\n2:35 Why see UV?\n\nSources:\nhttps://www.princeton.edu/news/2020/06/15/wild-hummingbirds-see-broad-range-colors-humans-can-only-imagine\nhttps://www.nationalgeographic.com/science/article/the-mantis-shrimp-sees-like-a-satellite\nhttps://www.popsci.com/environment/reindeer-eyes-uv-light/\n\nAnimated in the Low-Poly Faceted style.\n\nFollow Zorbly AI for a new Short every day.\n\n#animals #science #colorvision\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Low-Poly Faceted style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/0CqBaW3JCRg",
-          "private \u00b7 thumbnail \u2705"
-        ]
-      },
-      "uploaded_at": "2026-11-20T21:16:30.869897+00:00",
-      "slot": "2026-11-21T15:15:00+00:00"
-    },
     "2026-11-20-103": {
       "topic": {
         "title": "Why can't cats taste anything sweet?",
@@ -3110,12 +3027,12 @@
         "format": "animated",
         "style": "kawaii-anime"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261127-wrinkly-fingers",
       "redos": 0,
-      "updated": "2026-11-27T06:49:07.507262+00:00",
+      "updated": "2026-11-27T17:14:41.348568+00:00",
       "credits": [
         "Animation: code-drawn in Claude (kawaii-anime style). Voice: Kokoro text-to-speech."
       ],
@@ -3130,7 +3047,98 @@
         "name": "2026-11-27-101-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:01,620\nStop blaming the water.\n\n2\n00:00:02,000 --> 00:00:04,310\nYour nerves wrinkle your fingers on purpose.\n\n3\n00:00:04,690 --> 00:00:07,600\nFor years, people blamed water soaking into the skin.\n\n4\n00:00:07,940 --> 00:00:11,430\nBut since the 1930s, doctors noticed something odd.\n\n5\n00:00:11,890 --> 00:00:13,440\nIf a finger's nerves are damaged,\n\n6\n00:00:13,780 --> 00:00:15,730\nthat finger stays perfectly smooth.\n\n7\n00:00:16,080 --> 00:00:17,860\nSo it isn't the water. It's you.\n\n8\n00:00:18,330 --> 00:00:21,410\nAfter a long soak, your nervous system squeezes\n\n9\n00:00:21,480 --> 00:00:23,700\nthe tiny blood vessels under your fingertips.\n\n10\n00:00:24,110 --> 00:00:26,950\nThe pads shrink, and the skin folds into ridges,\n\n11\n00:00:27,290 --> 00:00:28,910\nlike the treads on a rain tire.\n\n12\n00:00:29,290 --> 00:00:32,620\nIn 2013, scientists tested it with marbles.\n\n13\n00:00:33,070 --> 00:00:35,920\nWith wrinkly fingers, people moved wet marbles\n\n14\n00:00:35,990 --> 00:00:36,880\ntwelve percent faster.\n\n15\n00:00:37,310 --> 00:00:39,410\nDry marbles? No difference at all.\n\n16\n00:00:39,850 --> 00:00:41,340\nSo, are those soggy fingers,\n\n17\n00:00:41,620 --> 00:00:43,100\nor your built-in rain tires?\n\n",
-      "tg_msg": 1241
+      "tg_msg": 1241,
+      "approved_by": "auto",
+      "description_full": "Why do your fingers wrinkle in water? It isn't soggy skin: your nerves wrinkle your fingertips on purpose, and wrinkly fingers move wet objects 12% faster.\n\nFollow Zorbly for a new mystery every day.\n\n#shorts #humanbody #science #facts\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #humanbody #science #facts\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (kawaii-anime style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/osfcsNe2fsM",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-27T17:14:41.348584+00:00",
+      "slot": "2026-11-29T02:15:00+00:00"
+    },
+    "2026-11-27-102": {
+      "topic": {
+        "title": "Why does the axolotl never grow up? (neoteny: low thyroid hormone signal, keeps larval gills for life, still breeds; 1865 Paris metamorphosis)",
+        "format": "animated",
+        "angle": "kawaii-anime"
+      },
+      "package": {
+        "title": "Why Does the Axolotl Never Grow Up? \ud83e\udd8e",
+        "description": "Why does the axolotl never grow up? This smiling salamander keeps its baby gills its whole life, because its body barely sends the thyroid hormone signal to grow up.\n\nFollow Zorbly for a new mystery every day.\n\n#shorts #axolotl #animalfacts #science\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#axolotl",
+          "#animalfacts",
+          "#science"
+        ],
+        "tags": [
+          "why does the axolotl never grow up",
+          "axolotl",
+          "axolotl facts",
+          "neoteny",
+          "axolotl gills",
+          "salamander",
+          "axolotl metamorphosis",
+          "thyroid hormone",
+          "animal facts",
+          "weird animals",
+          "science shorts",
+          "kawaii animation",
+          "axolotl baby forever"
+        ],
+        "category": "27",
+        "pinned_comment": "Be honest: would you stay a kid forever, or grow up?",
+        "thumbnail_text": "FOREVER A BABY",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "You grew up. This axolotl refuses to, for 15 years.\nMost salamanders hatch in water,\nthen lose their gills and crawl onto land.\nBut the axolotl keeps its feathery gills,\nits tail fin, and its baby face,\nits whole life.\nThe reason is a tiny switch.\nGrowing up needs thyroid hormone,\nand an axolotl's body barely sends that signal.\nSo it just skips adulthood,\nand still has babies of its own.\nIn 1865, scientists in Paris got a shock.\nA few of their axolotls suddenly lost their gills,\nand walked out as land salamanders.\nSo the switch was never broken.\nWould you rather stay a kid forever, or grow up?",
+        "key_facts": [
+          "Axolotls are neotenic/paedomorphic: they keep larval traits such as external gills and a tail fin, and never naturally metamorphose, yet become sexually mature (~1 year) (NHM London)",
+          "Axolotl paedomorphosis is linked to low thyroid hormone signalling; metamorphosis can be induced with thyroid hormone or iodine (Frontiers in Endocrinology 2019, 'Forever young')",
+          "Lifespan 10-15 years (NHM London)",
+          "In 1865, some axolotls kept by Auguste Dum\u00e9ril in Paris metamorphosed into land-dwelling salamanders, surprising scientists (Frontiers in Cell and Developmental Biology 2022 review)",
+          "Wild axolotls live only in the canals of Xochimilco, Mexico City, and are Critically Endangered"
+        ],
+        "voice": "am_fenrir",
+        "format": "animated",
+        "style": "kawaii-anime"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261127-axolotl",
+      "redos": 0,
+      "updated": "2026-11-27T17:14:31.163684+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (kawaii-anime style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-27",
+        "name": "2026-11-27-102.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-27",
+        "name": "2026-11-27-102-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:03,740\nYou grew up. This axolotl refuses to, for 15 years.\n\n2\n00:00:04,140 --> 00:00:06,000\nMost salamanders hatch in water,\n\n3\n00:00:06,260 --> 00:00:08,610\nthen lose their gills and crawl onto land.\n\n4\n00:00:09,070 --> 00:00:11,710\nBut the axolotl keeps its feathery gills,\n\n5\n00:00:11,710 --> 00:00:13,500\nits tail fin, and its baby face,\n\n6\n00:00:13,580 --> 00:00:14,510\nits whole life.\n\n7\n00:00:14,960 --> 00:00:16,520\nThe reason is a tiny switch.\n\n8\n00:00:16,930 --> 00:00:18,950\nGrowing up needs thyroid hormone,\n\n9\n00:00:19,070 --> 00:00:21,900\nand an axolotl's body barely sends that signal.\n\n10\n00:00:22,340 --> 00:00:23,720\nSo it just skips adulthood,\n\n11\n00:00:23,800 --> 00:00:25,500\nand still has babies of its own.\n\n12\n00:00:25,970 --> 00:00:30,360\nIn 1865, scientists in Paris got a shock.\n\n13\n00:00:30,760 --> 00:00:33,670\nA few of their axolotls suddenly lost their gills,\n\n14\n00:00:33,800 --> 00:00:35,790\nand walked out as land salamanders.\n\n15\n00:00:36,180 --> 00:00:37,830\nSo the switch was never broken.\n\n16\n00:00:38,250 --> 00:00:40,600\nWould you rather stay a kid forever, or grow up?\n\n",
+      "tg_msg": 1243
     }
   },
   "history": [
@@ -3220,7 +3228,7 @@
   "visual_searches": {
     "2026-10-25": 3
   },
-  "signals_day": "2026-11-26",
+  "signals_day": "2026-11-27",
   "drops_done": {
     "drop/20261025-autumn-leaves": "2026-10-25-101",
     "drop/20261025-roman-hypocaust": "2026-10-25-102",
@@ -3383,7 +3391,8 @@
     "drop/20261126-cat-feet": "2026-11-26-101",
     "drop/20261126-crows-count": "2026-11-26-102",
     "drop/20261126-hitler-tape": "2026-11-26-103",
-    "drop/20261127-wrinkly-fingers": "2026-11-27-101"
+    "drop/20261127-wrinkly-fingers": "2026-11-27-101",
+    "drop/20261127-axolotl": "2026-11-27-102"
   },
   "refs_day": "2026-11-27"
 }
