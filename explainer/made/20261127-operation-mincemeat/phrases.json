@@ -1,0 +1,500 @@
+[
+ {
+  "s": 0.25,
+  "e": 4.33,
+  "text": "Britain's best spy of 1943 never said a word.",
+  "words": [
+   [
+    "britains",
+    0.25
+   ],
+   [
+    "best",
+    1.18
+   ],
+   [
+    "spy",
+    1.65
+   ],
+   [
+    "of",
+    2.0
+   ],
+   [
+    "1943",
+    2.23
+   ],
+   [
+    "never",
+    2.7
+   ],
+   [
+    "said",
+    3.28
+   ],
+   [
+    "a",
+    3.75
+   ],
+   [
+    "word",
+    3.87
+   ]
+  ]
+ },
+ {
+  "s": 4.79,
+  "e": 7.01,
+  "text": "His papers said Major William Martin,",
+  "words": [
+   [
+    "his",
+    4.79
+   ],
+   [
+    "papers",
+    5.0
+   ],
+   [
+    "said",
+    5.43
+   ],
+   [
+    "major",
+    5.72
+   ],
+   [
+    "william",
+    6.08
+   ],
+   [
+    "martin",
+    6.58
+   ]
+  ]
+ },
+ {
+  "s": 7.32,
+  "e": 8.43,
+  "text": "who never existed.",
+  "words": [
+   [
+    "who",
+    7.32
+   ],
+   [
+    "never",
+    7.54
+   ],
+   [
+    "existed",
+    7.91
+   ]
+  ]
+ },
+ {
+  "s": 8.81,
+  "e": 11.39,
+  "text": "His pockets held love letters, theatre tickets,",
+  "words": [
+   [
+    "his",
+    8.81
+   ],
+   [
+    "pockets",
+    9.01
+   ],
+   [
+    "held",
+    9.47
+   ],
+   [
+    "love",
+    9.74
+   ],
+   [
+    "letters",
+    10.0
+   ],
+   [
+    "theatre",
+    10.46
+   ],
+   [
+    "tickets",
+    10.93
+   ]
+  ]
+ },
+ {
+  "s": 11.67,
+  "e": 13.15,
+  "text": "and an angry tailor's bill.",
+  "words": [
+   [
+    "and",
+    11.67
+   ],
+   [
+    "an",
+    11.88
+   ],
+   [
+    "angry",
+    12.02
+   ],
+   [
+    "tailors",
+    12.38
+   ],
+   [
+    "bill",
+    12.87
+   ]
+  ]
+ },
+ {
+  "s": 13.5,
+  "e": 16.49,
+  "text": "A briefcase chained to his wrist held secret letters:",
+  "words": [
+   [
+    "a",
+    13.5
+   ],
+   [
+    "briefcase",
+    13.57
+   ],
+   [
+    "chained",
+    14.18
+   ],
+   [
+    "to",
+    14.65
+   ],
+   [
+    "his",
+    14.79
+   ],
+   [
+    "wrist",
+    14.99
+   ],
+   [
+    "held",
+    15.33
+   ],
+   [
+    "secret",
+    15.61
+   ],
+   [
+    "letters",
+    16.01
+   ]
+  ]
+ },
+ {
+  "s": 16.91,
+  "e": 19.31,
+  "text": "the Allies would hit Greece and Sardinia.",
+  "words": [
+   [
+    "the",
+    16.91
+   ],
+   [
+    "allies",
+    17.12
+   ],
+   [
+    "would",
+    17.55
+   ],
+   [
+    "hit",
+    17.9
+   ],
+   [
+    "greece",
+    18.11
+   ],
+   [
+    "and",
+    18.54
+   ],
+   [
+    "sardinia",
+    18.75
+   ]
+  ]
+ },
+ {
+  "s": 19.77,
+  "e": 23.42,
+  "text": "The body was really Glyndwr Michael, a homeless Welshman.",
+  "words": [
+   [
+    "the",
+    19.77
+   ],
+   [
+    "body",
+    19.99
+   ],
+   [
+    "was",
+    20.29
+   ],
+   [
+    "really",
+    20.51
+   ],
+   [
+    "glyndwr",
+    20.96
+   ],
+   [
+    "michael",
+    21.63
+   ],
+   [
+    "a",
+    22.15
+   ],
+   [
+    "homeless",
+    22.22
+   ],
+   [
+    "welshman",
+    22.82
+   ]
+  ]
+ },
+ {
+  "s": 23.8,
+  "e": 26.57,
+  "text": "A submarine left him floating off Spain.",
+  "words": [
+   [
+    "a",
+    23.8
+   ],
+   [
+    "submarine",
+    23.89
+   ],
+   [
+    "left",
+    24.64
+   ],
+   [
+    "him",
+    24.98
+   ],
+   [
+    "floating",
+    25.23
+   ],
+   [
+    "off",
+    25.9
+   ],
+   [
+    "spain",
+    26.15
+   ]
+  ]
+ },
+ {
+  "s": 26.98,
+  "e": 30.6,
+  "text": "Spanish officers let German agents copy everything.",
+  "words": [
+   [
+    "spanish",
+    26.98
+   ],
+   [
+    "officers",
+    27.56
+   ],
+   [
+    "let",
+    28.21
+   ],
+   [
+    "german",
+    28.46
+   ],
+   [
+    "agents",
+    28.95
+   ],
+   [
+    "copy",
+    29.45
+   ],
+   [
+    "everything",
+    29.78
+   ]
+  ]
+ },
+ {
+  "s": 31.06,
+  "e": 33.59,
+  "text": "Hitler bought it and sent tanks to Greece.",
+  "words": [
+   [
+    "hitler",
+    31.06
+   ],
+   [
+    "bought",
+    31.5
+   ],
+   [
+    "it",
+    31.95
+   ],
+   [
+    "and",
+    32.1
+   ],
+   [
+    "sent",
+    32.32
+   ],
+   [
+    "tanks",
+    32.62
+   ],
+   [
+    "to",
+    32.99
+   ],
+   [
+    "greece",
+    33.14
+   ]
+  ]
+ },
+ {
+  "s": 34.02,
+  "e": 35.95,
+  "text": "The real target was Sicily.",
+  "words": [
+   [
+    "the",
+    34.02
+   ],
+   [
+    "real",
+    34.28
+   ],
+   [
+    "target",
+    34.63
+   ],
+   [
+    "was",
+    35.16
+   ],
+   [
+    "sicily",
+    35.43
+   ]
+  ]
+ },
+ {
+  "s": 36.41,
+  "e": 40.52,
+  "text": "The message to Churchill: Mincemeat swallowed rod, line and sinker.",
+  "words": [
+   [
+    "the",
+    36.41
+   ],
+   [
+    "message",
+    36.63
+   ],
+   [
+    "to",
+    37.15
+   ],
+   [
+    "churchill",
+    37.3
+   ],
+   [
+    "mincemeat",
+    37.98
+   ],
+   [
+    "swallowed",
+    38.65
+   ],
+   [
+    "rod",
+    39.32
+   ],
+   [
+    "line",
+    39.55
+   ],
+   [
+    "and",
+    39.85
+   ],
+   [
+    "sinker",
+    40.07
+   ]
+  ]
+ },
+ {
+  "s": 40.88,
+  "e": 43.03,
+  "text": "So would a tailor's bill have fooled you?",
+  "words": [
+   [
+    "so",
+    40.88
+   ],
+   [
+    "would",
+    41.02
+   ],
+   [
+    "a",
+    41.35
+   ],
+   [
+    "tailors",
+    41.42
+   ],
+   [
+    "bill",
+    41.89
+   ],
+   [
+    "have",
+    42.16
+   ],
+   [
+    "fooled",
+    42.43
+   ],
+   [
+    "you",
+    42.83
+   ]
+  ]
+ }
+]

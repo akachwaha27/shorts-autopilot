@@ -2062,5 +2062,21 @@
   "hook_score": 45,
   "title_score": 94,
   "note": "no storyboard step (unattended run); 5:37 slot -> animal explainer; S130 clownfish skipped again (still no million-view source), added S136 axolotl (Deep Look 1.07M); picked the 94 'Never Grow Up' title over 'How Did Axolotls Shock Paris in 1865?' (100) because it is the searched question and matches the 7.2x MinuteEarth outlier"
+ },
+ {
+  "date": "2026-11-27",
+  "id": "20261127-operation-mincemeat",
+  "kind": "short",
+  "style": "kawaii-anime",
+  "topic": "Operation Mincemeat (1943: a fake officer's body with forged letters fooled Hitler into reinforcing Greece and Sardinia instead of Sicily)",
+  "title": "How Did a Fake Spy Fool Hitler in 1943? 🕵️",
+  "seconds": 44.0,
+  "words": 100,
+  "voice": "bm_george",
+  "proven_by": "Thoughty2: How the Nazis Lost the War Because of a Single Corpse (5.7M views); MrBallen: The Gov't Waited Over 50 Years To Reveal This Bizarre Mission (5.2M views)",
+  "recipe": "12:37 story slot: 'How did...' question with a year (1943) and one emoji, 42 chars; first frame = finished Major Martin with chained briefcase on a dusk beach + HE NEVER EXISTED hook text",
+  "hook_score": 40,
+  "title_score": 98,
+  "note": "no storyboard step (unattended run); 12:37 slot -> story bank #3 (Operation Mincemeat); muted dusk/khaki palette, Hitler only as a figure from behind, Glyndwr Michael scene kept quiet and serious; TTS read 'Glyndwr' phonetically, captions keep the real spelling; no sheet row (story bank topic)"
  }
 ]
