@@ -378,97 +378,6 @@
     }
   },
   "videos": {
-    "2026-11-20-103": {
-      "topic": {
-        "title": "Why can't cats taste anything sweet?",
-        "format": "animated",
-        "angle": "Kawaii Anime"
-      },
-      "package": {
-        "title": "Why Can't Cats Taste Sugar? 1 Broken Gene \ud83d\udc31",
-        "description": "Why can't cats taste sweet things? In 2005, scientists found that cats carry a broken copy of the Tas1r2 gene, one half of the sweet taste receptor, so sugar tastes like nothing to them, and lions, tigers and cheetahs share the same broken gene.\n\nSources:\nhttps://www.sciencedaily.com/releases/2005/07/050725065702.htm\nhttps://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.0010003\nhttps://www.nature.com/news/2005/050718/full/news050718-16.html\n\nAnimated in the Kawaii Anime style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#cats",
-          "#science",
-          "#animalfacts"
-        ],
-        "tags": [
-          "why cant cats taste sweet",
-          "cats sweet taste",
-          "cat taste buds",
-          "Tas1r2",
-          "sweet taste receptor",
-          "cat facts",
-          "cat genetics",
-          "big cats",
-          "carnivore",
-          "animal facts",
-          "science explained",
-          "zorbly ai",
-          "kawaii animation",
-          "explainer short"
-        ],
-        "category": "27",
-        "pinned_comment": "Does your cat beg for ice cream, butter or yogurt? What do you think it's really after? \ud83d\udc31",
-        "thumbnail_text": "NO SWEET",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "Your cat can't taste sugar, and one broken gene is why. Put a sweet treat in front of one, and to the cat, it tastes like nothing. To taste sweet, your tongue needs a tiny lock, built from two parts that work as a pair. In 2005, scientists looked inside cat DNA, and found one of those parts was broken. The gene for it is missing 247 letters, so the lock never gets built. No lock, no sweet. And it's not just house cats. Lions, tigers and cheetahs carry the same broken gene. Which honestly makes sense. Cats eat almost nothing but meat, and meat has barely any sugar. So losing sweet cost them nothing at all. So if your cat keeps stealing your ice cream, what do you think it's really after?",
-        "key_facts": [
-          "Sweet taste needs a receptor made of two proteins, T1R2 and T1R3",
-          "Cats' Tas1r2 gene is a pseudogene missing 247 base pairs (Li et al., PLoS Genetics, 2005)",
-          "Lions, tigers and cheetahs carry the same broken gene",
-          "Cats are obligate carnivores and meat has almost no sugar"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Kawaii Anime"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261120-cat-sweet",
-      "redos": 0,
-      "updated": "2026-11-20T21:16:36.025943+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-20",
-        "name": "2026-11-20-103.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-20",
-        "name": "2026-11-20-103-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:01,670\nYour cat can't taste sugar,\n\n2\n00:00:02,070 --> 00:00:03,900\nand one broken gene is why.\n\n3\n00:00:04,360 --> 00:00:06,010\nPut a sweet treat in front of one,\n\n4\n00:00:06,370 --> 00:00:08,850\nand to the cat, it tastes like nothing.\n\n5\n00:00:09,200 --> 00:00:12,190\nTo taste sweet, your tongue needs a tiny lock,\n\n6\n00:00:12,720 --> 00:00:14,980\nbuilt from two parts that work as a pair.\n\n7\n00:00:15,370 --> 00:00:18,870\nIn 2005, scientists looked inside cat DNA,\n\n8\n00:00:18,870 --> 00:00:22,170\nand found one of those parts was broken.\n\n9\n00:00:22,540 --> 00:00:25,820\nThe gene for it is missing 247 letters,\n\n10\n00:00:25,960 --> 00:00:28,250\nso the lock never gets built.\n\n11\n00:00:28,620 --> 00:00:30,010\nNo lock, no sweet.\n\n12\n00:00:30,300 --> 00:00:32,010\nAnd it's not just house cats.\n\n13\n00:00:32,460 --> 00:00:34,240\nLions, tigers and cheetahs\n\n14\n00:00:34,410 --> 00:00:36,080\ncarry the same broken gene.\n\n15\n00:00:36,430 --> 00:00:37,970\nWhich honestly makes sense.\n\n16\n00:00:38,300 --> 00:00:40,170\nCats eat almost nothing but meat,\n\n17\n00:00:40,600 --> 00:00:42,420\nand meat has barely any sugar.\n\n18\n00:00:42,860 --> 00:00:45,230\nSo losing sweet cost them nothing at all.\n\n19\n00:00:45,700 --> 00:00:48,260\nSo if your cat keeps stealing your ice cream,\n\n20\n00:00:48,650 --> 00:00:50,350\nwhat do you think it's really after?\n\n",
-      "tg_msg": 1179,
-      "approved_by": "auto",
-      "description_full": "Why can't cats taste sweet things? In 2005, scientists found that cats carry a broken copy of the Tas1r2 gene, one half of the sweet taste receptor, so sugar tastes like nothing to them, and lions, tigers and cheetahs share the same broken gene.\n\nSources:\nhttps://www.sciencedaily.com/releases/2005/07/050725065702.htm\nhttps://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.0010003\nhttps://www.nature.com/news/2005/050718/full/news050718-16.html\n\nAnimated in the Kawaii Anime style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #cats #science #animalfacts\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Kawaii Anime style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/AIr0jIdQraQ",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-11-20T21:16:36.025962+00:00",
-      "slot": "2026-11-21T19:15:00+00:00"
-    },
     "2026-11-20-104": {
       "topic": {
         "title": "Why do your feet grow before the rest of you?",
@@ -3118,12 +3027,12 @@
         "format": "animated",
         "style": "kawaii-anime"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261127-axolotl",
       "redos": 0,
-      "updated": "2026-11-27T17:14:31.163684+00:00",
+      "updated": "2026-11-27T22:44:17.214596+00:00",
       "credits": [
         "Animation: code-drawn in Claude (kawaii-anime style). Voice: Kokoro text-to-speech."
       ],
@@ -3138,7 +3047,101 @@
         "name": "2026-11-27-102-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:03,740\nYou grew up. This axolotl refuses to, for 15 years.\n\n2\n00:00:04,140 --> 00:00:06,000\nMost salamanders hatch in water,\n\n3\n00:00:06,260 --> 00:00:08,610\nthen lose their gills and crawl onto land.\n\n4\n00:00:09,070 --> 00:00:11,710\nBut the axolotl keeps its feathery gills,\n\n5\n00:00:11,710 --> 00:00:13,500\nits tail fin, and its baby face,\n\n6\n00:00:13,580 --> 00:00:14,510\nits whole life.\n\n7\n00:00:14,960 --> 00:00:16,520\nThe reason is a tiny switch.\n\n8\n00:00:16,930 --> 00:00:18,950\nGrowing up needs thyroid hormone,\n\n9\n00:00:19,070 --> 00:00:21,900\nand an axolotl's body barely sends that signal.\n\n10\n00:00:22,340 --> 00:00:23,720\nSo it just skips adulthood,\n\n11\n00:00:23,800 --> 00:00:25,500\nand still has babies of its own.\n\n12\n00:00:25,970 --> 00:00:30,360\nIn 1865, scientists in Paris got a shock.\n\n13\n00:00:30,760 --> 00:00:33,670\nA few of their axolotls suddenly lost their gills,\n\n14\n00:00:33,800 --> 00:00:35,790\nand walked out as land salamanders.\n\n15\n00:00:36,180 --> 00:00:37,830\nSo the switch was never broken.\n\n16\n00:00:38,250 --> 00:00:40,600\nWould you rather stay a kid forever, or grow up?\n\n",
-      "tg_msg": 1243
+      "tg_msg": 1243,
+      "approved_by": "auto",
+      "description_full": "Why does the axolotl never grow up? This smiling salamander keeps its baby gills its whole life, because its body barely sends the thyroid hormone signal to grow up.\n\nFollow Zorbly for a new mystery every day.\n\n#shorts #axolotl #animalfacts #science\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #axolotl #animalfacts #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (kawaii-anime style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/qvVmCw5Pkq4",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-27T22:44:17.214613+00:00",
+      "slot": "2026-11-29T15:15:00+00:00"
+    },
+    "2026-11-27-103": {
+      "topic": {
+        "title": "Operation Mincemeat (1943: a fake officer's body with forged letters fooled Hitler into reinforcing Greece and Sardinia instead of Sicily)",
+        "format": "animated",
+        "angle": "kawaii-anime"
+      },
+      "package": {
+        "title": "How Did a Fake Spy Fool Hitler in 1943? \ud83d\udd75\ufe0f",
+        "description": "Operation Mincemeat: how British intelligence fooled Hitler in 1943 with a fake officer, a chained briefcase and forged letters washed up in Spain.\n\nFollow Zorbly for a new mystery every day.\n\n#shorts #history #ww2 #operationmincemeat\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#history",
+          "#ww2",
+          "#operationmincemeat"
+        ],
+        "tags": [
+          "operation mincemeat",
+          "the man who never was",
+          "major william martin",
+          "glyndwr michael",
+          "ww2 deception",
+          "fooled hitler",
+          "sicily invasion 1943",
+          "hms seraph",
+          "ewen montagu",
+          "ww2 history",
+          "history shorts",
+          "anime history",
+          "spy story"
+        ],
+        "category": "27",
+        "pinned_comment": "Which detail would have convinced you: the love letters, the theatre tickets, or the angry tailor's bill?",
+        "thumbnail_text": "HE NEVER EXISTED",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "Britain's best spy of 1943 never said a word.\nHis papers said Major William Martin,\nwho never existed.\nHis pockets held love letters, theatre tickets,\nand an angry tailor's bill.\nA briefcase chained to his wrist held secret letters:\nthe Allies would hit Greece and Sardinia.\nThe body was really Glyndwr Michael, a homeless Welshman.\nA submarine left him floating off Spain.\nSpanish officers let German agents copy everything.\nHitler bought it and sent tanks to Greece.\nThe real target was Sicily.\nThe message to Churchill: Mincemeat swallowed rod, line and sinker.\nSo would a tailor's bill have fooled you?",
+        "key_facts": [
+          "April 1943: HMS Seraph released a body off Huelva, Spain; a fisherman found it on 30 April",
+          "Fake identity: Major William Martin, Royal Marines; real man Glyndwr Michael, a homeless Welshman",
+          "Pocket litter: letters from his fianc\u00e9e and father, theatre ticket stubs, tailor's bills complaining about late payment",
+          "Briefcase chained to the wrist held a letter implying attacks on Greece and Sardinia",
+          "Pro-German Spanish officers let German agents copy the letters",
+          "Hitler ordered Greece and Sardinia reinforced; the 1st Panzer Division moved from France to Greece",
+          "The Allies invaded Sicily in July 1943",
+          "Message to Churchill: 'Mincemeat swallowed rod, line and sinker'"
+        ],
+        "voice": "bm_george",
+        "format": "animated",
+        "style": "kawaii-anime"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261127-operation-mincemeat",
+      "redos": 0,
+      "updated": "2026-11-27T22:44:07.479337+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (kawaii-anime style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-27",
+        "name": "2026-11-27-103.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-27",
+        "name": "2026-11-27-103-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:04,330\nBritain's best spy of 1943 never said a word.\n\n2\n00:00:04,790 --> 00:00:07,010\nHis papers said Major William Martin,\n\n3\n00:00:07,320 --> 00:00:08,430\nwho never existed.\n\n4\n00:00:08,810 --> 00:00:11,390\nHis pockets held love letters, theatre tickets,\n\n5\n00:00:11,670 --> 00:00:13,150\nand an angry tailor's bill.\n\n6\n00:00:13,500 --> 00:00:16,490\nA briefcase chained to his wrist held secret letters:\n\n7\n00:00:16,910 --> 00:00:19,310\nthe Allies would hit Greece and Sardinia.\n\n8\n00:00:19,770 --> 00:00:23,420\nThe body was really Glyndwr Michael, a homeless Welshman.\n\n9\n00:00:23,800 --> 00:00:26,570\nA submarine left him floating off Spain.\n\n10\n00:00:26,980 --> 00:00:30,600\nSpanish officers let German agents copy everything.\n\n11\n00:00:31,060 --> 00:00:33,590\nHitler bought it and sent tanks to Greece.\n\n12\n00:00:34,020 --> 00:00:35,950\nThe real target was Sicily.\n\n13\n00:00:36,410 --> 00:00:40,520\nThe message to Churchill: Mincemeat swallowed rod, line and sinker.\n\n14\n00:00:40,880 --> 00:00:43,030\nSo would a tailor's bill have fooled you?\n\n",
+      "tg_msg": 1245
     }
   },
   "history": [
@@ -3392,7 +3395,8 @@
     "drop/20261126-crows-count": "2026-11-26-102",
     "drop/20261126-hitler-tape": "2026-11-26-103",
     "drop/20261127-wrinkly-fingers": "2026-11-27-101",
-    "drop/20261127-axolotl": "2026-11-27-102"
+    "drop/20261127-axolotl": "2026-11-27-102",
+    "drop/20261127-operation-mincemeat": "2026-11-27-103"
   },
   "refs_day": "2026-11-27"
 }
