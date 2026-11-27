@@ -2028,5 +2028,22 @@
   "hook_score": 41,
   "title_score": 98,
   "note": "no storyboard step (unattended run); 12:37 slot -> story bank #2 (Hitler's normal voice); muted pine/steel/amber palette, Hitler only as a figure from behind; no sheet row (story bank topic)"
+ },
+ {
+  "date": "2026-11-27",
+  "id": "20261127-wrinkly-fingers",
+  "kind": "short",
+  "style": "kawaii-anime",
+  "topic": "Why do your fingers wrinkle in water? (nerves constrict blood vessels; wrinkles help grip wet objects)",
+  "title": "How Do Wrinkly Fingers Grab 12% Faster? 🖐️",
+  "seconds": 44.1,
+  "words": 110,
+  "voice": "af_heart",
+  "sheet_id": "S008",
+  "proven_by": "SciShow: Why Do We Wrinkle When Wet? (1,179,507 views)",
+  "recipe": "Monetization rules + Zorbly top Shorts: 'How do...' question with a concrete number (12%), 42 chars, one emoji; first frame = finished hand mascot + SECRET GRIP?! hook text",
+  "hook_score": 47,
+  "title_score": 98,
+  "note": "no storyboard step (unattended run); 19:37 slot -> body explainer; S130 clownfish skipped again (no million-view source), took S008 (proven by SciShow 1.18M)"
  }
 ]
