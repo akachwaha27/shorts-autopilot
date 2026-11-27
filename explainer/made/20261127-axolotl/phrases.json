@@ -1,0 +1,554 @@
+[
+ {
+  "s": 0.25,
+  "e": 3.74,
+  "text": "You grew up. This axolotl refuses to, for 15 years.",
+  "words": [
+   [
+    "you",
+    0.25
+   ],
+   [
+    "grew",
+    0.52
+   ],
+   [
+    "up",
+    0.88
+   ],
+   [
+    "this",
+    1.06
+   ],
+   [
+    "axolotl",
+    1.41
+   ],
+   [
+    "refuses",
+    2.04
+   ],
+   [
+    "to",
+    2.67
+   ],
+   [
+    "for",
+    2.85
+   ],
+   [
+    "15",
+    3.11
+   ],
+   [
+    "years",
+    3.29
+   ]
+  ]
+ },
+ {
+  "s": 4.14,
+  "e": 6.0,
+  "text": "Most salamanders hatch in water,",
+  "words": [
+   [
+    "most",
+    4.14
+   ],
+   [
+    "salamanders",
+    4.41
+   ],
+   [
+    "hatch",
+    5.17
+   ],
+   [
+    "in",
+    5.52
+   ],
+   [
+    "water",
+    5.65
+   ]
+  ]
+ },
+ {
+  "s": 6.26,
+  "e": 8.61,
+  "text": "then lose their gills and crawl onto land.",
+  "words": [
+   [
+    "then",
+    6.26
+   ],
+   [
+    "lose",
+    6.54
+   ],
+   [
+    "their",
+    6.81
+   ],
+   [
+    "gills",
+    7.16
+   ],
+   [
+    "and",
+    7.5
+   ],
+   [
+    "crawl",
+    7.71
+   ],
+   [
+    "onto",
+    8.06
+   ],
+   [
+    "land",
+    8.33
+   ]
+  ]
+ },
+ {
+  "s": 9.07,
+  "e": 11.71,
+  "text": "But the axolotl keeps its feathery gills,",
+  "words": [
+   [
+    "but",
+    9.07
+   ],
+   [
+    "the",
+    9.3
+   ],
+   [
+    "axolotl",
+    9.54
+   ],
+   [
+    "keeps",
+    10.08
+   ],
+   [
+    "its",
+    10.47
+   ],
+   [
+    "feathery",
+    10.7
+   ],
+   [
+    "gills",
+    11.32
+   ]
+  ]
+ },
+ {
+  "s": 11.71,
+  "e": 13.5,
+  "text": "its tail fin, and its baby face,",
+  "words": [
+   [
+    "its",
+    11.71
+   ],
+   [
+    "tail",
+    11.94
+   ],
+   [
+    "fin",
+    12.23
+   ],
+   [
+    "and",
+    12.46
+   ],
+   [
+    "its",
+    12.68
+   ],
+   [
+    "baby",
+    12.9
+   ],
+   [
+    "face",
+    13.2
+   ]
+  ]
+ },
+ {
+  "s": 13.58,
+  "e": 14.51,
+  "text": "its whole life.",
+  "words": [
+   [
+    "its",
+    13.58
+   ],
+   [
+    "whole",
+    13.81
+   ],
+   [
+    "life",
+    14.2
+   ]
+  ]
+ },
+ {
+  "s": 14.96,
+  "e": 16.52,
+  "text": "The reason is a tiny switch.",
+  "words": [
+   [
+    "the",
+    14.96
+   ],
+   [
+    "reason",
+    15.18
+   ],
+   [
+    "is",
+    15.6
+   ],
+   [
+    "a",
+    15.74
+   ],
+   [
+    "tiny",
+    15.81
+   ],
+   [
+    "switch",
+    16.1
+   ]
+  ]
+ },
+ {
+  "s": 16.93,
+  "e": 18.95,
+  "text": "Growing up needs thyroid hormone,",
+  "words": [
+   [
+    "growing",
+    16.93
+   ],
+   [
+    "up",
+    17.44
+   ],
+   [
+    "needs",
+    17.58
+   ],
+   [
+    "thyroid",
+    17.94
+   ],
+   [
+    "hormone",
+    18.45
+   ]
+  ]
+ },
+ {
+  "s": 19.07,
+  "e": 21.9,
+  "text": "and an axolotl's body barely sends that signal.",
+  "words": [
+   [
+    "and",
+    19.07
+   ],
+   [
+    "an",
+    19.29
+   ],
+   [
+    "axolotls",
+    19.44
+   ],
+   [
+    "body",
+    20.04
+   ],
+   [
+    "barely",
+    20.33
+   ],
+   [
+    "sends",
+    20.78
+   ],
+   [
+    "that",
+    21.15
+   ],
+   [
+    "signal",
+    21.45
+   ]
+  ]
+ },
+ {
+  "s": 22.34,
+  "e": 23.72,
+  "text": "So it just skips adulthood,",
+  "words": [
+   [
+    "so",
+    22.34
+   ],
+   [
+    "it",
+    22.46
+   ],
+   [
+    "just",
+    22.59
+   ],
+   [
+    "skips",
+    22.84
+   ],
+   [
+    "adulthood",
+    23.15
+   ]
+  ]
+ },
+ {
+  "s": 23.8,
+  "e": 25.5,
+  "text": "and still has babies of its own.",
+  "words": [
+   [
+    "and",
+    23.8
+   ],
+   [
+    "still",
+    24.0
+   ],
+   [
+    "has",
+    24.34
+   ],
+   [
+    "babies",
+    24.55
+   ],
+   [
+    "of",
+    24.96
+   ],
+   [
+    "its",
+    25.09
+   ],
+   [
+    "own",
+    25.3
+   ]
+  ]
+ },
+ {
+  "s": 25.97,
+  "e": 30.36,
+  "text": "In 1865, scientists in Paris got a shock.",
+  "words": [
+   [
+    "in",
+    25.97
+   ],
+   [
+    "1865",
+    26.25
+   ],
+   [
+    "scientists",
+    26.8
+   ],
+   [
+    "in",
+    28.17
+   ],
+   [
+    "paris",
+    28.44
+   ],
+   [
+    "got",
+    29.12
+   ],
+   [
+    "a",
+    29.53
+   ],
+   [
+    "shock",
+    29.67
+   ]
+  ]
+ },
+ {
+  "s": 30.76,
+  "e": 33.67,
+  "text": "A few of their axolotls suddenly lost their gills,",
+  "words": [
+   [
+    "a",
+    30.76
+   ],
+   [
+    "few",
+    30.83
+   ],
+   [
+    "of",
+    31.04
+   ],
+   [
+    "their",
+    31.19
+   ],
+   [
+    "axolotls",
+    31.54
+   ],
+   [
+    "suddenly",
+    32.11
+   ],
+   [
+    "lost",
+    32.68
+   ],
+   [
+    "their",
+    32.96
+   ],
+   [
+    "gills",
+    33.31
+   ]
+  ]
+ },
+ {
+  "s": 33.8,
+  "e": 35.79,
+  "text": "and walked out as land salamanders.",
+  "words": [
+   [
+    "and",
+    33.8
+   ],
+   [
+    "walked",
+    34.01
+   ],
+   [
+    "out",
+    34.42
+   ],
+   [
+    "as",
+    34.63
+   ],
+   [
+    "land",
+    34.76
+   ],
+   [
+    "salamanders",
+    35.04
+   ]
+  ]
+ },
+ {
+  "s": 36.18,
+  "e": 37.83,
+  "text": "So the switch was never broken.",
+  "words": [
+   [
+    "so",
+    36.18
+   ],
+   [
+    "the",
+    36.31
+   ],
+   [
+    "switch",
+    36.51
+   ],
+   [
+    "was",
+    36.91
+   ],
+   [
+    "never",
+    37.1
+   ],
+   [
+    "broken",
+    37.43
+   ]
+  ]
+ },
+ {
+  "s": 38.25,
+  "e": 40.6,
+  "text": "Would you rather stay a kid forever, or grow up?",
+  "words": [
+   [
+    "would",
+    38.25
+   ],
+   [
+    "you",
+    38.57
+   ],
+   [
+    "rather",
+    38.76
+   ],
+   [
+    "stay",
+    39.14
+   ],
+   [
+    "a",
+    39.39
+   ],
+   [
+    "kid",
+    39.46
+   ],
+   [
+    "forever",
+    39.65
+   ],
+   [
+    "or",
+    40.1
+   ],
+   [
+    "grow",
+    40.22
+   ],
+   [
+    "up",
+    40.48
+   ]
+  ]
+ }
+]

@@ -2045,5 +2045,22 @@
   "hook_score": 47,
   "title_score": 98,
   "note": "no storyboard step (unattended run); 19:37 slot -> body explainer; S130 clownfish skipped again (no million-view source), took S008 (proven by SciShow 1.18M)"
+ },
+ {
+  "date": "2026-11-27",
+  "id": "20261127-axolotl",
+  "kind": "short",
+  "style": "kawaii-anime",
+  "topic": "Why does the axolotl never grow up? (neoteny: low thyroid hormone signal, keeps larval gills for life, still breeds; 1865 Paris metamorphosis)",
+  "title": "Why Does the Axolotl Never Grow Up? 🦎",
+  "seconds": 41.6,
+  "words": 110,
+  "voice": "am_fenrir",
+  "sheet_id": "S136",
+  "proven_by": "Deep Look (KQED): The Axolotl Salamander Doesn't Wanna Grow Up (1,066,127 views)",
+  "recipe": "MinuteEarth Shorts 7.2x 'Why do humans stop growing?': plain 'Why does X never grow up?' question, 37 chars, one emoji; first frame = finished axolotl + FOREVER A BABY?! hook text",
+  "hook_score": 45,
+  "title_score": 94,
+  "note": "no storyboard step (unattended run); 5:37 slot -> animal explainer; S130 clownfish skipped again (still no million-view source), added S136 axolotl (Deep Look 1.07M); picked the 94 'Never Grow Up' title over 'How Did Axolotls Shock Paris in 1865?' (100) because it is the searched question and matches the 7.2x MinuteEarth outlier"
  }
 ]
