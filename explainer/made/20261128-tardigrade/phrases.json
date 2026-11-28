@@ -1,0 +1,554 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.42,
+  "text": "You'd pass out in 15 seconds in space.",
+  "words": [
+   [
+    "youd",
+    0.25
+   ],
+   [
+    "pass",
+    0.55
+   ],
+   [
+    "out",
+    0.85
+   ],
+   [
+    "in",
+    1.07
+   ],
+   [
+    "15",
+    1.22
+   ],
+   [
+    "seconds",
+    1.37
+   ],
+   [
+    "in",
+    1.9
+   ],
+   [
+    "space",
+    2.05
+   ]
+  ]
+ },
+ {
+  "s": 2.88,
+  "e": 4.69,
+  "text": "How did this animal last 10 days?",
+  "words": [
+   [
+    "how",
+    2.88
+   ],
+   [
+    "did",
+    3.09
+   ],
+   [
+    "this",
+    3.3
+   ],
+   [
+    "animal",
+    3.58
+   ],
+   [
+    "last",
+    4.0
+   ],
+   [
+    "10",
+    4.27
+   ],
+   [
+    "days",
+    4.41
+   ]
+  ]
+ },
+ {
+  "s": 5.13,
+  "e": 7.21,
+  "text": "Meet the tardigrade, or water bear,",
+  "words": [
+   [
+    "meet",
+    5.13
+   ],
+   [
+    "the",
+    5.43
+   ],
+   [
+    "tardigrade",
+    5.65
+   ],
+   [
+    "or",
+    6.4
+   ],
+   [
+    "water",
+    6.55
+   ],
+   [
+    "bear",
+    6.92
+   ]
+  ]
+ },
+ {
+  "s": 7.48,
+  "e": 10.17,
+  "text": "half a millimeter long, with eight chubby legs.",
+  "words": [
+   [
+    "half",
+    7.48
+   ],
+   [
+    "a",
+    7.77
+   ],
+   [
+    "millimeter",
+    7.84
+   ],
+   [
+    "long",
+    8.54
+   ],
+   [
+    "with",
+    8.83
+   ],
+   [
+    "eight",
+    9.11
+   ],
+   [
+    "chubby",
+    9.46
+   ],
+   [
+    "legs",
+    9.89
+   ]
+  ]
+ },
+ {
+  "s": 10.53,
+  "e": 12.18,
+  "text": "When its home dries out,",
+  "words": [
+   [
+    "when",
+    10.53
+   ],
+   [
+    "its",
+    10.88
+   ],
+   [
+    "home",
+    11.14
+   ],
+   [
+    "dries",
+    11.49
+   ],
+   [
+    "out",
+    11.92
+   ]
+  ]
+ },
+ {
+  "s": 12.25,
+  "e": 13.25,
+  "text": "it pulls in its legs,",
+  "words": [
+   [
+    "it",
+    12.25
+   ],
+   [
+    "pulls",
+    12.38
+   ],
+   [
+    "in",
+    12.69
+   ],
+   [
+    "its",
+    12.81
+   ],
+   [
+    "legs",
+    13.0
+   ]
+  ]
+ },
+ {
+  "s": 13.63,
+  "e": 15.43,
+  "text": "squeezes out almost all its water,",
+  "words": [
+   [
+    "squeezes",
+    13.63
+   ],
+   [
+    "out",
+    14.15
+   ],
+   [
+    "almost",
+    14.34
+   ],
+   [
+    "all",
+    14.72
+   ],
+   [
+    "its",
+    14.92
+   ],
+   [
+    "water",
+    15.11
+   ]
+  ]
+ },
+ {
+  "s": 15.69,
+  "e": 18.2,
+  "text": "and curls into a tiny ball called a tun.",
+  "words": [
+   [
+    "and",
+    15.69
+   ],
+   [
+    "curls",
+    15.93
+   ],
+   [
+    "into",
+    16.34
+   ],
+   [
+    "a",
+    16.66
+   ],
+   [
+    "tiny",
+    16.74
+   ],
+   [
+    "ball",
+    17.07
+   ],
+   [
+    "called",
+    17.39
+   ],
+   [
+    "a",
+    17.88
+   ],
+   [
+    "tun",
+    17.96
+   ]
+  ]
+ },
+ {
+  "s": 18.67,
+  "e": 21.51,
+  "text": "Inside, special proteins set like glass,",
+  "words": [
+   [
+    "inside",
+    18.67
+   ],
+   [
+    "special",
+    19.19
+   ],
+   [
+    "proteins",
+    19.79
+   ],
+   [
+    "set",
+    20.48
+   ],
+   [
+    "like",
+    20.73
+   ],
+   [
+    "glass",
+    21.08
+   ]
+  ]
+ },
+ {
+  "s": 21.87,
+  "e": 23.35,
+  "text": "holding every cell in place,",
+  "words": [
+   [
+    "holding",
+    21.87
+   ],
+   [
+    "every",
+    22.32
+   ],
+   [
+    "cell",
+    22.64
+   ],
+   [
+    "in",
+    22.9
+   ],
+   [
+    "place",
+    23.03
+   ]
+  ]
+ },
+ {
+  "s": 23.66,
+  "e": 24.98,
+  "text": "and its body switches off.",
+  "words": [
+   [
+    "and",
+    23.66
+   ],
+   [
+    "its",
+    23.85
+   ],
+   [
+    "body",
+    24.04
+   ],
+   [
+    "switches",
+    24.29
+   ],
+   [
+    "off",
+    24.79
+   ]
+  ]
+ },
+ {
+  "s": 25.44,
+  "e": 29.72,
+  "text": "In 2007, scientists flew dried tardigrades into orbit.",
+  "words": [
+   [
+    "in",
+    25.44
+   ],
+   [
+    "2007",
+    25.63
+   ],
+   [
+    "scientists",
+    26.01
+   ],
+   [
+    "flew",
+    26.96
+   ],
+   [
+    "dried",
+    27.34
+   ],
+   [
+    "tardigrades",
+    27.82
+   ],
+   [
+    "into",
+    28.86
+   ],
+   [
+    "orbit",
+    29.24
+   ]
+  ]
+ },
+ {
+  "s": 30.18,
+  "e": 32.18,
+  "text": "Back on Earth, they added water,",
+  "words": [
+   [
+    "back",
+    30.18
+   ],
+   [
+    "on",
+    30.5
+   ],
+   [
+    "earth",
+    30.66
+   ],
+   [
+    "they",
+    31.06
+   ],
+   [
+    "added",
+    31.38
+   ],
+   [
+    "water",
+    31.78
+   ]
+  ]
+ },
+ {
+  "s": 32.4,
+  "e": 34.06,
+  "text": "and most woke up within half an hour.",
+  "words": [
+   [
+    "and",
+    32.4
+   ],
+   [
+    "most",
+    32.57
+   ],
+   [
+    "woke",
+    32.8
+   ],
+   [
+    "up",
+    33.03
+   ],
+   [
+    "within",
+    33.15
+   ],
+   [
+    "half",
+    33.49
+   ],
+   [
+    "an",
+    33.72
+   ],
+   [
+    "hour",
+    33.83
+   ]
+  ]
+ },
+ {
+  "s": 34.48,
+  "e": 37.51,
+  "text": "They can take a thousand times more radiation than you.",
+  "words": [
+   [
+    "they",
+    34.48
+   ],
+   [
+    "can",
+    34.75
+   ],
+   [
+    "take",
+    34.96
+   ],
+   [
+    "a",
+    35.22
+   ],
+   [
+    "thousand",
+    35.29
+   ],
+   [
+    "times",
+    35.83
+   ],
+   [
+    "more",
+    36.16
+   ],
+   [
+    "radiation",
+    36.43
+   ],
+   [
+    "than",
+    37.04
+   ],
+   [
+    "you",
+    37.31
+   ]
+  ]
+ },
+ {
+  "s": 37.95,
+  "e": 39.64,
+  "text": "So how long would you last up there?",
+  "words": [
+   [
+    "so",
+    37.95
+   ],
+   [
+    "how",
+    38.07
+   ],
+   [
+    "long",
+    38.25
+   ],
+   [
+    "would",
+    38.49
+   ],
+   [
+    "you",
+    38.79
+   ],
+   [
+    "last",
+    38.97
+   ],
+   [
+    "up",
+    39.21
+   ],
+   [
+    "there",
+    39.34
+   ]
+  ]
+ }
+]
