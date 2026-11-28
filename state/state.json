@@ -378,96 +378,6 @@
     }
   },
   "videos": {
-    "2026-11-20-104": {
-      "topic": {
-        "title": "Why do your feet grow before the rest of you?",
-        "format": "animated",
-        "angle": "Chalkboard Lesson"
-      },
-      "package": {
-        "title": "Feet First, Torso Last: The 3-Step Teen Growth Spurt \ud83e\uddb6",
-        "description": "Why do your feet grow before the rest of your body? In the teen growth spurt, growth runs from the outside in: hands and feet first, then arms and legs, then the torso, and growth plates harden into solid bone around 13 to 17.\n\nSources:\nhttps://healthychildren.org/English/ages-stages/gradeschool/puberty/Pages/Physical-Development-Whats-Normal-Whats-Not.aspx\nhttps://kidshealth.org/en/parents/growth-plates.html\nhttps://www.nichd.nih.gov/newsroom/news/072318-bone-maturation\n\nAnimated in the Chalkboard Lesson style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#growthspurt",
-          "#science",
-          "#humanbody"
-        ],
-        "tags": [
-          "why do feet grow first",
-          "growth spurt",
-          "growth plates",
-          "puberty growth order",
-          "teen growth spurt",
-          "big feet teenager",
-          "when do feet stop growing",
-          "distal to proximal growth",
-          "human body facts",
-          "bone growth",
-          "science explained",
-          "zorbly ai",
-          "chalkboard animation",
-          "explainer short"
-        ],
-        "category": "27",
-        "pinned_comment": "Be honest: did your shoe size jump before you got taller? \ud83e\uddb6",
-        "thumbnail_text": "BABY GIRAFFE",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "Your feet grow before the rest of your body. It's why teenagers can look like baby giraffes. Big feet, long legs, and a body still catching up. So what's going on? Inside your bones are growth plates, soft strips of cartilage near each end. They keep adding new bone, until they harden into solid bone and close for good. When puberty kicks in, growth starts at the edges and works inward. Hands and feet go first, then your arms and legs, and your torso grows last. Small bones, like the ones in your fingers and toes, mature faster than the long bones in your legs. That's why teens trip over their own feet. Then, somewhere around 13 to 17, the last growth plates close, and the rest of you finally catches up. So, did your feet show up before the rest of you?",
-        "key_facts": [
-          "Teen growth runs from the extremities inward: hands and feet first, then arms and legs, then the torso (AAP HealthyChildren; Lumen Lifespan Development)",
-          "Growth plates are cartilage near bone ends that harden into solid bone; they usually close around 13-15 for girls and 15-17 for boys (KidsHealth)",
-          "Short bones like those in fingers and toes mature faster than long bones in the arms and legs (NIH/NICHD 2018)"
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Chalkboard Lesson"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261120-feet-first",
-      "redos": 0,
-      "updated": "2026-11-21T02:27:25.654771+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Chalkboard Lesson style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-20",
-        "name": "2026-11-20-104.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-20",
-        "name": "2026-11-20-104-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:02,700\nYour feet grow before the rest of your body.\n\n2\n00:00:03,070 --> 00:00:06,120\nIt's why teenagers can look like baby giraffes.\n\n3\n00:00:06,580 --> 00:00:08,070\nBig feet, long legs,\n\n4\n00:00:08,350 --> 00:00:09,800\nand a body still catching up.\n\n5\n00:00:10,270 --> 00:00:11,470\nSo what's going on?\n\n6\n00:00:11,920 --> 00:00:14,030\nInside your bones are growth plates,\n\n7\n00:00:14,420 --> 00:00:16,820\nsoft strips of cartilage near each end.\n\n8\n00:00:17,210 --> 00:00:18,630\nThey keep adding new bone,\n\n9\n00:00:19,180 --> 00:00:22,250\nuntil they harden into solid bone and close for good.\n\n10\n00:00:22,650 --> 00:00:23,850\nWhen puberty kicks in,\n\n11\n00:00:24,270 --> 00:00:26,630\ngrowth starts at the edges and works inward.\n\n12\n00:00:27,080 --> 00:00:28,540\nHands and feet go first,\n\n13\n00:00:28,990 --> 00:00:30,750\nthen your arms and legs,\n\n14\n00:00:30,810 --> 00:00:32,150\nand your torso grows last.\n\n15\n00:00:32,530 --> 00:00:33,410\nSmall bones,\n\n16\n00:00:33,530 --> 00:00:35,640\nlike the ones in your fingers and toes,\n\n17\n00:00:36,090 --> 00:00:39,030\nmature faster than the long bones in your legs.\n\n18\n00:00:39,400 --> 00:00:41,640\nThat's why teens trip over their own feet.\n\n19\n00:00:42,030 --> 00:00:44,590\nThen, somewhere around 13 to 17,\n\n20\n00:00:45,080 --> 00:00:46,370\nthe last growth plates close,\n\n21\n00:00:46,440 --> 00:00:49,350\nand the rest of you finally catches up.\n\n22\n00:00:49,760 --> 00:00:52,270\nSo, did your feet show up before the rest of you?\n\n",
-      "tg_msg": 1181,
-      "approved_by": "auto",
-      "description_full": "Why do your feet grow before the rest of your body? In the teen growth spurt, growth runs from the outside in: hands and feet first, then arms and legs, then the torso, and growth plates harden into solid bone around 13 to 17.\n\nSources:\nhttps://healthychildren.org/English/ages-stages/gradeschool/puberty/Pages/Physical-Development-Whats-Normal-Whats-Not.aspx\nhttps://kidshealth.org/en/parents/growth-plates.html\nhttps://www.nichd.nih.gov/newsroom/news/072318-bone-maturation\n\nAnimated in the Chalkboard Lesson style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #growthspurt #science #humanbody\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Chalkboard Lesson style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/vJh_GCIIC78",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-11-21T02:27:25.654789+00:00",
-      "slot": "2026-11-22T00:15:00+00:00"
-    },
     "2026-11-20-105": {
       "topic": {
         "title": "Why don't birds fly into each other in a flock?",
@@ -3121,12 +3031,12 @@
         "format": "animated",
         "style": "kawaii-anime"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261127-operation-mincemeat",
       "redos": 0,
-      "updated": "2026-11-27T22:44:07.479337+00:00",
+      "updated": "2026-11-28T00:44:20.084696+00:00",
       "credits": [
         "Animation: code-drawn in Claude (kawaii-anime style). Voice: Kokoro text-to-speech."
       ],
@@ -3141,7 +3051,29 @@
         "name": "2026-11-27-103-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:04,330\nBritain's best spy of 1943 never said a word.\n\n2\n00:00:04,790 --> 00:00:07,010\nHis papers said Major William Martin,\n\n3\n00:00:07,320 --> 00:00:08,430\nwho never existed.\n\n4\n00:00:08,810 --> 00:00:11,390\nHis pockets held love letters, theatre tickets,\n\n5\n00:00:11,670 --> 00:00:13,150\nand an angry tailor's bill.\n\n6\n00:00:13,500 --> 00:00:16,490\nA briefcase chained to his wrist held secret letters:\n\n7\n00:00:16,910 --> 00:00:19,310\nthe Allies would hit Greece and Sardinia.\n\n8\n00:00:19,770 --> 00:00:23,420\nThe body was really Glyndwr Michael, a homeless Welshman.\n\n9\n00:00:23,800 --> 00:00:26,570\nA submarine left him floating off Spain.\n\n10\n00:00:26,980 --> 00:00:30,600\nSpanish officers let German agents copy everything.\n\n11\n00:00:31,060 --> 00:00:33,590\nHitler bought it and sent tanks to Greece.\n\n12\n00:00:34,020 --> 00:00:35,950\nThe real target was Sicily.\n\n13\n00:00:36,410 --> 00:00:40,520\nThe message to Churchill: Mincemeat swallowed rod, line and sinker.\n\n14\n00:00:40,880 --> 00:00:43,030\nSo would a tailor's bill have fooled you?\n\n",
-      "tg_msg": 1245
+      "tg_msg": 1245,
+      "approved_by": "auto",
+      "description_full": "Operation Mincemeat: how British intelligence fooled Hitler in 1943 with a fake officer, a chained briefcase and forged letters washed up in Spain.\n\nFollow Zorbly for a new mystery every day.\n\n#shorts #history #ww2 #operationmincemeat\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #history #ww2 #operationmincemeat\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (kawaii-anime style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/mC0tVe6893w",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-28T00:44:20.084714+00:00",
+      "slot": "2026-11-29T19:15:00+00:00"
     }
   },
   "history": [
@@ -3220,7 +3152,7 @@
       "at": "2026-10-25T17:40:17.371797+00:00"
     }
   },
-  "cleanup_day": "2026-11-27",
+  "cleanup_day": "2026-11-28",
   "recent_voices": [
     "en-AU-WilliamMultilingualNeural",
     "en-US-EmmaMultilingualNeural",
@@ -3398,5 +3330,5 @@
     "drop/20261127-axolotl": "2026-11-27-102",
     "drop/20261127-operation-mincemeat": "2026-11-27-103"
   },
-  "refs_day": "2026-11-27"
+  "refs_day": "2026-11-28"
 }
