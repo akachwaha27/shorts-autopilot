@@ -378,96 +378,6 @@
     }
   },
   "videos": {
-    "2026-11-20-105": {
-      "topic": {
-        "title": "Why don't birds fly into each other in a flock?",
-        "format": "animated",
-        "angle": "Pictogram Motion"
-      },
-      "package": {
-        "title": "Why Don't 10,000 Starlings Ever Crash? \ud83d\udc26",
-        "description": "Why don't starlings crash into each other in a murmuration? Each bird tracks only about seven nearest neighbours, so a turn ripples through the flock as a wave that travels roughly three times faster than one bird can react.\n\nSources:\nhttps://www.princeton.edu/news/2013/02/07/birds-feather-track-seven-neighbors-flock-together\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC2234121\nhttps://www.audubon.org/magazine/how-flock-birds-can-fly-and-move-together\n\nAnimated in the Pictogram Motion style.\n\nFollow Zorbly AI for a new Short every day.",
-        "hashtags": [
-          "#shorts",
-          "#starlings",
-          "#birds",
-          "#animalfacts"
-        ],
-        "tags": [
-          "starlings",
-          "murmuration",
-          "bird flock",
-          "why don't birds crash",
-          "how do birds flock",
-          "seven neighbours",
-          "bird science",
-          "animal facts",
-          "flocking behaviour",
-          "collective motion",
-          "nature explained",
-          "zorbly ai",
-          "science shorts"
-        ],
-        "category": "27",
-        "pinned_comment": "Could you dodge a crowd of 10,000 people while watching just 7 of them? Who would your 7 be?",
-        "thumbnail_text": "ONLY 7",
-        "hook_text": "",
-        "primary_keyword": "",
-        "script": "You'd crash in this flock, but ten thousand starlings never do. They swerve just inches apart, so why don't they slam into each other? There's no leader giving orders. Instead, each starling watches about seven neighbours. Close or far, it doesn't matter, it's always roughly seven. It copies their speed and their turns, and keeps a tiny gap. So when one bird turns, its seven neighbours turn too, then their neighbours, and the turn ripples through the flock like a wave. Scientists found that wave travels about three times faster than a single bird can react. Each bird sees it coming, like dancers in a chorus line. And seven seems to be the sweet spot, enough to stay together, without watching everyone at once. So could you dodge ten thousand people watching just seven?",
-        "key_facts": [
-          "Each starling in a flock interacts with about 6-7 nearest neighbours regardless of distance (Ballerini et al., PNAS 2008; Young et al. 2013).",
-          "There is no leader; the flock's turns emerge from local copying of speed and direction.",
-          "Maneuver waves spread through flocks about three times faster than a single bird's reaction time, as birds anticipate the oncoming wave like a chorus line (Potts, Nature 1984).",
-          "Seven neighbours balances group cohesion against the effort of tracking others (Princeton, 2013)."
-        ],
-        "voice": "Kokoro",
-        "format": "animated",
-        "style": "Pictogram Motion"
-      },
-      "status": "published",
-      "by": "claude",
-      "source": "claude",
-      "branch": "drop/20261120-starling-flock",
-      "redos": 0,
-      "updated": "2026-11-21T02:27:31.242481+00:00",
-      "credits": [
-        "Animation: code-drawn in Claude (Pictogram Motion style). Voice: Kokoro text-to-speech."
-      ],
-      "file": {
-        "type": "release",
-        "tag": "videos-2026-11-20",
-        "name": "2026-11-20-105.mp4"
-      },
-      "thumb": {
-        "type": "release",
-        "tag": "videos-2026-11-20",
-        "name": "2026-11-20-105-thumb.jpg"
-      },
-      "srt": "1\n00:00:00,250 --> 00:00:01,540\nYou'd crash in this flock,\n\n2\n00:00:01,840 --> 00:00:04,160\nbut ten thousand starlings never do.\n\n3\n00:00:04,580 --> 00:00:06,210\nThey swerve just inches apart,\n\n4\n00:00:06,660 --> 00:00:08,570\nso why don't they slam into each other?\n\n5\n00:00:09,040 --> 00:00:10,920\nThere's no leader giving orders.\n\n6\n00:00:11,330 --> 00:00:14,480\nInstead, each starling watches about seven neighbours.\n\n7\n00:00:14,890 --> 00:00:16,530\nClose or far, it doesn't matter,\n\n8\n00:00:16,950 --> 00:00:18,530\nit's always roughly seven.\n\n9\n00:00:18,900 --> 00:00:20,990\nIt copies their speed and their turns,\n\n10\n00:00:21,350 --> 00:00:22,730\nand keeps a tiny gap.\n\n11\n00:00:23,180 --> 00:00:24,530\nSo when one bird turns,\n\n12\n00:00:24,530 --> 00:00:26,380\nits seven neighbours turn too,\n\n13\n00:00:26,840 --> 00:00:27,770\nthen their neighbours,\n\n14\n00:00:28,180 --> 00:00:30,900\nand the turn ripples through the flock like a wave.\n\n15\n00:00:31,270 --> 00:00:33,580\nScientists found that wave travels\n\n16\n00:00:33,760 --> 00:00:37,110\nabout three times faster than a single bird can react.\n\n17\n00:00:37,510 --> 00:00:38,920\nEach bird sees it coming,\n\n18\n00:00:39,320 --> 00:00:41,240\nlike dancers in a chorus line.\n\n19\n00:00:41,700 --> 00:00:43,730\nAnd seven seems to be the sweet spot,\n\n20\n00:00:44,220 --> 00:00:45,400\nenough to stay together,\n\n21\n00:00:45,760 --> 00:00:47,760\nwithout watching everyone at once.\n\n22\n00:00:48,180 --> 00:00:50,310\nSo could you dodge ten thousand people\n\n23\n00:00:50,310 --> 00:00:51,440\nwatching just seven?\n\n",
-      "tg_msg": 1182,
-      "approved_by": "auto",
-      "description_full": "Why don't starlings crash into each other in a murmuration? Each bird tracks only about seven nearest neighbours, so a turn ripples through the flock as a wave that travels roughly three times faster than one bird can react.\n\nSources:\nhttps://www.princeton.edu/news/2013/02/07/birds-feather-track-seven-neighbors-flock-together\nhttps://pmc.ncbi.nlm.nih.gov/articles/PMC2234121\nhttps://www.audubon.org/magazine/how-flock-birds-can-fly-and-move-together\n\nAnimated in the Pictogram Motion style.\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #starlings #birds #animalfacts\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (Pictogram Motion style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
-      "results": {
-        "YouTube": [
-          "https://youtube.com/shorts/JY7xuXG2_Zs",
-          "private"
-        ],
-        "Instagram": [
-          null,
-          "skipped (not configured)"
-        ],
-        "Facebook": [
-          null,
-          "skipped (not configured)"
-        ],
-        "TikTok": [
-          null,
-          "skipped (not configured)"
-        ]
-      },
-      "uploaded_at": "2026-11-21T02:27:31.242498+00:00",
-      "slot": "2026-11-22T02:15:00+00:00"
-    },
     "2026-11-21-101": {
       "topic": {
         "title": "Why do hamsters stuff food in their cheeks?",
@@ -3122,12 +3032,12 @@
         "format": "animated",
         "style": "kawaii-anime"
       },
-      "status": "awaiting_approval",
+      "status": "published",
       "by": "claude",
       "source": "claude",
       "branch": "drop/20261128-tardigrade",
       "redos": 0,
-      "updated": "2026-11-28T08:24:23.774984+00:00",
+      "updated": "2026-11-28T17:01:10.282916+00:00",
       "credits": [
         "Animation: code-drawn in Claude (kawaii-anime style). Voice: Kokoro text-to-speech."
       ],
@@ -3142,7 +3052,172 @@
         "name": "2026-11-28-101-thumb.jpg"
       },
       "srt": "1\n00:00:00,250 --> 00:00:02,420\nYou'd pass out in 15 seconds in space.\n\n2\n00:00:02,880 --> 00:00:04,690\nHow did this animal last 10 days?\n\n3\n00:00:05,130 --> 00:00:07,210\nMeet the tardigrade, or water bear,\n\n4\n00:00:07,480 --> 00:00:10,170\nhalf a millimeter long, with eight chubby legs.\n\n5\n00:00:10,530 --> 00:00:12,180\nWhen its home dries out,\n\n6\n00:00:12,250 --> 00:00:13,250\nit pulls in its legs,\n\n7\n00:00:13,630 --> 00:00:15,430\nsqueezes out almost all its water,\n\n8\n00:00:15,690 --> 00:00:18,200\nand curls into a tiny ball called a tun.\n\n9\n00:00:18,670 --> 00:00:21,510\nInside, special proteins set like glass,\n\n10\n00:00:21,870 --> 00:00:23,350\nholding every cell in place,\n\n11\n00:00:23,660 --> 00:00:24,980\nand its body switches off.\n\n12\n00:00:25,440 --> 00:00:29,720\nIn 2007, scientists flew dried tardigrades into orbit.\n\n13\n00:00:30,180 --> 00:00:32,180\nBack on Earth, they added water,\n\n14\n00:00:32,400 --> 00:00:34,060\nand most woke up within half an hour.\n\n15\n00:00:34,480 --> 00:00:37,510\nThey can take a thousand times more radiation than you.\n\n16\n00:00:37,950 --> 00:00:39,640\nSo how long would you last up there?\n\n",
-      "tg_msg": 1248
+      "tg_msg": 1248,
+      "approved_by": "auto",
+      "description_full": "How did a tardigrade, the half-millimeter water bear, survive 10 days in open space? It dries itself into a glassy 'tun' and switches its body off.\n\nFollow Zorbly for a new mystery every day.\n\n#shorts #tardigrade #animalfacts #science\n\nFollow Zorbly AI for a new Short every day.\n\n#shorts #tardigrade #animalfacts #science\n\n\u2014 Credits & disclosure \u2014\nOriginal script written with AI assistance, checked by an automated safety review.\nThis video contains AI-generated or AI-assisted content.\nAnimation: code-drawn in Claude (kawaii-anime style). Voice: Kokoro text-to-speech.\nNo other creators' videos were reused; stock footage and images are used under the licenses credited above.",
+      "results": {
+        "YouTube": [
+          "https://youtube.com/shorts/65Y5bTRZJxs",
+          "private"
+        ],
+        "Instagram": [
+          null,
+          "skipped (not configured)"
+        ],
+        "Facebook": [
+          null,
+          "skipped (not configured)"
+        ],
+        "TikTok": [
+          null,
+          "skipped (not configured)"
+        ]
+      },
+      "uploaded_at": "2026-11-28T17:01:10.282934+00:00",
+      "slot": "2026-11-30T00:15:00+00:00"
+    },
+    "2026-11-28-102": {
+      "topic": {
+        "title": "Compilation: 10 human-body Shorts",
+        "format": "long",
+        "angle": "Compilation: Copperplate Engraving, Flat-Vector Science, Kawaii Anime, Napkin Sketch"
+      },
+      "package": {
+        "title": "10 Facts About Your Body That Sound Fake",
+        "description": "Why are you taller in the morning, and why doesn't your stomach digest itself? Here are 10 weird facts about your body that sound fake but are 100% true, from cracking knuckles to why you can't tickle yourself.\n\nChapters:\n0:00 Why you're 1 cm taller every morning\n0:52 Why your stomach doesn't digest itself\n1:48 Why your knuckles crack\n2:42 Why your baby teeth fall out\n3:31 Why pineapple digests your tongue\n4:27 Why your stomach growls every 2 hours\n5:21 Why chili burns when nothing's hot\n6:12 Why garlic breath lasts 24 hours\n7:00 Why you can't tickle yourself\n7:52 Why you go blind 15,000 times a day\n\nFollow Zorbly for a new mystery every day.\n\n#humanbody #sciencefacts #didyouknow\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#humanbody",
+          "#sciencefacts",
+          "#didyouknow"
+        ],
+        "tags": [
+          "human body facts",
+          "body facts",
+          "weird body facts",
+          "facts that sound fake",
+          "science compilation",
+          "why do knuckles crack",
+          "why am i taller in the morning",
+          "stomach acid",
+          "why does my stomach growl",
+          "why can't you tickle yourself",
+          "why do we blink",
+          "garlic breath",
+          "pineapple tongue",
+          "baby teeth",
+          "zorbly"
+        ],
+        "category": "27",
+        "pinned_comment": "Which one sounded the MOST fake to you before you watched it?",
+        "thumbnail_text": "YOUR BODY IS WEIRD",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "Compilation of 10 Zorbly Shorts (scripts in explainer/made/<id>/script.txt): 20261030-morning-height, 20261107-stomach-acid, 20261108-knuckle-crack, 20261108-baby-teeth, 20261103-pineapple-sting, 20261102-stomach-growl, 20261106-chili-not-hot, 20261109-garlic-breath, 20261031-self-tickle, 20261104-why-we-blink",
+        "key_facts": [
+          "Why you're 1 cm taller every morning",
+          "Why your stomach doesn't digest itself",
+          "Why your knuckles crack",
+          "Why your baby teeth fall out",
+          "Why pineapple digests your tongue",
+          "Why your stomach growls every 2 hours",
+          "Why chili burns when nothing's hot",
+          "Why garlic breath lasts 24 hours",
+          "Why you can't tickle yourself",
+          "Why you go blind 15,000 times a day"
+        ],
+        "voice": "Kokoro",
+        "format": "long",
+        "style": "Compilation: Copperplate Engraving, Flat-Vector Science, Kawaii Anime, Napkin Sketch"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261128-comp-body-facts",
+      "redos": 0,
+      "updated": "2026-11-28T17:00:43.549121+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (Compilation: Copperplate Engraving, Flat-Vector Science, Kawaii Anime, Napkin Sketch style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-28",
+        "name": "2026-11-28-102.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-28",
+        "name": "2026-11-28-102-thumb.jpg"
+      },
+      "srt": null,
+      "tg_msg": 1249
+    },
+    "2026-11-28-103": {
+      "topic": {
+        "title": "Why do we dream? (~2 h of dreaming a night, vivid dreams in REM; amygdala active while prefrontal logic areas quiet down, so odd dreams feel normal; Stickgold 2000 Tetris study: most players, even some amnesic patients who couldn't remember playing, saw falling blocks at sleep onset; sleep may replay the day to consolidate memory)",
+        "format": "animated",
+        "angle": "kawaii-anime"
+      },
+      "package": {
+        "title": "Why Do You Dream 2 Hours Every Night? \ud83d\udca4",
+        "description": "Why do we dream every night? Your brain spends about two hours a night making dreams in REM sleep, and a famous Tetris study hints it is replaying your day.\n\nFollow Zorbly for a new mystery every day.\n\n#shorts #dreams #brain #sleep\n\nFollow Zorbly AI for a new Short every day.",
+        "hashtags": [
+          "#shorts",
+          "#dreams",
+          "#brain",
+          "#sleep"
+        ],
+        "tags": [
+          "why do we dream",
+          "why do we dream at night",
+          "dreams explained",
+          "rem sleep",
+          "what happens when you dream",
+          "tetris effect",
+          "sleep and memory",
+          "brain facts",
+          "human body facts",
+          "science shorts",
+          "kawaii animation",
+          "dream science",
+          "how dreams work"
+        ],
+        "category": "27",
+        "pinned_comment": "What's the weirdest thing your brain replayed in a dream last night? \ud83d\udc47",
+        "thumbnail_text": "BRAIN CINEMA",
+        "hook_text": "",
+        "primary_keyword": "",
+        "script": "Your brain makes two hours of movies every night. So why does it even bother? Most vivid dreams happen in REM sleep, when your eyes dart around under your eyelids. Your brain's emotion center fires up, while the part that checks logic goes quiet. That's why riding a giant cat to school feels totally normal. Now the weird part. In 2000, Harvard scientists had people play Tetris for three days. At night, most saw falling blocks as they drifted off. Even some patients with amnesia, who couldn't remember playing at all. Scientists think sleep may replay your day to save it. So what did your brain replay last night?",
+        "key_facts": [
+          "Most people dream about 2 hours per night across several REM cycles (Sleep Foundation: How Long Do Dreams Last?)",
+          "The most vivid dreams happen in REM (rapid eye movement) sleep; emotional/limbic areas such as the amygdala are highly active while prefrontal areas tied to logic are less active, which helps explain bizarre dreams feeling normal (Wikipedia: REM sleep; PsyPost neuroscience of dreaming)",
+          "Stickgold et al., Science 2000 (Harvard Medical School): after playing Tetris over 3 days, 17 of 27 participants reported Tetris images as they fell asleep, including 3 of 5 amnesic patients who could not remember playing (Science 290:350; Harvard Gazette)",
+          "Memory consolidation is a leading (not proven) theory of why we dream; hedged as 'scientists think ... may' in the script"
+        ],
+        "voice": "am_michael",
+        "format": "animated",
+        "style": "kawaii-anime"
+      },
+      "status": "awaiting_approval",
+      "by": "claude",
+      "source": "claude",
+      "branch": "drop/20261128-why-dream",
+      "redos": 0,
+      "updated": "2026-11-28T17:00:55.312185+00:00",
+      "credits": [
+        "Animation: code-drawn in Claude (kawaii-anime style). Voice: Kokoro text-to-speech."
+      ],
+      "file": {
+        "type": "release",
+        "tag": "videos-2026-11-28",
+        "name": "2026-11-28-103.mp4"
+      },
+      "thumb": {
+        "type": "release",
+        "tag": "videos-2026-11-28",
+        "name": "2026-11-28-103-thumb.jpg"
+      },
+      "srt": "1\n00:00:00,250 --> 00:00:02,960\nYour brain makes two hours of movies every night.\n\n2\n00:00:03,410 --> 00:00:05,210\nSo why does it even bother?\n\n3\n00:00:05,680 --> 00:00:08,390\nMost vivid dreams happen in REM sleep,\n\n4\n00:00:08,960 --> 00:00:11,540\nwhen your eyes dart around under your eyelids.\n\n5\n00:00:11,910 --> 00:00:14,060\nYour brain's emotion center fires up,\n\n6\n00:00:14,540 --> 00:00:16,970\nwhile the part that checks logic goes quiet.\n\n7\n00:00:17,430 --> 00:00:21,330\nThat's why riding a giant cat to school feels totally normal.\n\n8\n00:00:21,690 --> 00:00:22,950\nNow the weird part.\n\n9\n00:00:23,340 --> 00:00:28,180\nIn 2000, Harvard scientists had people play Tetris for three days.\n\n10\n00:00:28,560 --> 00:00:31,620\nAt night, most saw falling blocks as they drifted off.\n\n11\n00:00:32,060 --> 00:00:33,970\nEven some patients with amnesia,\n\n12\n00:00:34,420 --> 00:00:36,210\nwho couldn't remember playing at all.\n\n13\n00:00:36,600 --> 00:00:39,630\nScientists think sleep may replay your day to save it.\n\n14\n00:00:39,980 --> 00:00:42,300\nSo what did your brain replay last night?\n\n",
+      "tg_msg": 1250
     }
   },
   "history": [
@@ -3232,7 +3307,7 @@
   "visual_searches": {
     "2026-10-25": 3
   },
-  "signals_day": "2026-11-27",
+  "signals_day": "2026-11-28",
   "drops_done": {
     "drop/20261025-autumn-leaves": "2026-10-25-101",
     "drop/20261025-roman-hypocaust": "2026-10-25-102",
@@ -3398,7 +3473,9 @@
     "drop/20261127-wrinkly-fingers": "2026-11-27-101",
     "drop/20261127-axolotl": "2026-11-27-102",
     "drop/20261127-operation-mincemeat": "2026-11-27-103",
-    "drop/20261128-tardigrade": "2026-11-28-101"
+    "drop/20261128-tardigrade": "2026-11-28-101",
+    "drop/20261128-comp-body-facts": "2026-11-28-102",
+    "drop/20261128-why-dream": "2026-11-28-103"
   },
   "refs_day": "2026-11-28"
 }
