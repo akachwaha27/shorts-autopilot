@@ -1,0 +1,536 @@
+[
+ {
+  "s": 0.25,
+  "e": 2.96,
+  "text": "Your brain makes two hours of movies every night.",
+  "words": [
+   [
+    "your",
+    0.25
+   ],
+   [
+    "brain",
+    0.52
+   ],
+   [
+    "makes",
+    0.86
+   ],
+   [
+    "two",
+    1.2
+   ],
+   [
+    "hours",
+    1.4
+   ],
+   [
+    "of",
+    1.74
+   ],
+   [
+    "movies",
+    1.88
+   ],
+   [
+    "every",
+    2.29
+   ],
+   [
+    "night",
+    2.63
+   ]
+  ]
+ },
+ {
+  "s": 3.41,
+  "e": 5.21,
+  "text": "So why does it even bother?",
+  "words": [
+   [
+    "so",
+    3.41
+   ],
+   [
+    "why",
+    3.58
+   ],
+   [
+    "does",
+    3.84
+   ],
+   [
+    "it",
+    4.18
+   ],
+   [
+    "even",
+    4.35
+   ],
+   [
+    "bother",
+    4.69
+   ]
+  ]
+ },
+ {
+  "s": 5.68,
+  "e": 8.39,
+  "text": "Most vivid dreams happen in REM sleep,",
+  "words": [
+   [
+    "most",
+    5.68
+   ],
+   [
+    "vivid",
+    6.03
+   ],
+   [
+    "dreams",
+    6.47
+   ],
+   [
+    "happen",
+    6.99
+   ],
+   [
+    "in",
+    7.51
+   ],
+   [
+    "rem",
+    7.69
+   ],
+   [
+    "sleep",
+    7.95
+   ]
+  ]
+ },
+ {
+  "s": 8.96,
+  "e": 11.54,
+  "text": "when your eyes dart around under your eyelids.",
+  "words": [
+   [
+    "when",
+    8.96
+   ],
+   [
+    "your",
+    9.23
+   ],
+   [
+    "eyes",
+    9.5
+   ],
+   [
+    "dart",
+    9.77
+   ],
+   [
+    "around",
+    10.04
+   ],
+   [
+    "under",
+    10.45
+   ],
+   [
+    "your",
+    10.79
+   ],
+   [
+    "eyelids",
+    11.06
+   ]
+  ]
+ },
+ {
+  "s": 11.91,
+  "e": 14.06,
+  "text": "Your brain's emotion center fires up,",
+  "words": [
+   [
+    "your",
+    11.91
+   ],
+   [
+    "brains",
+    12.19
+   ],
+   [
+    "emotion",
+    12.62
+   ],
+   [
+    "center",
+    13.12
+   ],
+   [
+    "fires",
+    13.55
+   ],
+   [
+    "up",
+    13.91
+   ]
+  ]
+ },
+ {
+  "s": 14.54,
+  "e": 16.97,
+  "text": "while the part that checks logic goes quiet.",
+  "words": [
+   [
+    "while",
+    14.54
+   ],
+   [
+    "the",
+    14.87
+   ],
+   [
+    "part",
+    15.08
+   ],
+   [
+    "that",
+    15.35
+   ],
+   [
+    "checks",
+    15.62
+   ],
+   [
+    "logic",
+    16.02
+   ],
+   [
+    "goes",
+    16.36
+   ],
+   [
+    "quiet",
+    16.63
+   ]
+  ]
+ },
+ {
+  "s": 17.43,
+  "e": 21.33,
+  "text": "That's why riding a giant cat to school feels totally normal.",
+  "words": [
+   [
+    "thats",
+    17.43
+   ],
+   [
+    "why",
+    17.82
+   ],
+   [
+    "riding",
+    18.06
+   ],
+   [
+    "a",
+    18.54
+   ],
+   [
+    "giant",
+    18.62
+   ],
+   [
+    "cat",
+    19.02
+   ],
+   [
+    "to",
+    19.26
+   ],
+   [
+    "school",
+    19.42
+   ],
+   [
+    "feels",
+    19.89
+   ],
+   [
+    "totally",
+    20.29
+   ],
+   [
+    "normal",
+    20.85
+   ]
+  ]
+ },
+ {
+  "s": 21.69,
+  "e": 22.95,
+  "text": "Now the weird part.",
+  "words": [
+   [
+    "now",
+    21.69
+   ],
+   [
+    "the",
+    21.94
+   ],
+   [
+    "weird",
+    22.19
+   ],
+   [
+    "part",
+    22.61
+   ]
+  ]
+ },
+ {
+  "s": 23.34,
+  "e": 28.18,
+  "text": "In 2000, Harvard scientists had people play Tetris for three days.",
+  "words": [
+   [
+    "in",
+    23.34
+   ],
+   [
+    "2000",
+    23.52
+   ],
+   [
+    "harvard",
+    23.88
+   ],
+   [
+    "scientists",
+    24.51
+   ],
+   [
+    "had",
+    25.4
+   ],
+   [
+    "people",
+    25.67
+   ],
+   [
+    "play",
+    26.21
+   ],
+   [
+    "tetris",
+    26.57
+   ],
+   [
+    "for",
+    27.11
+   ],
+   [
+    "three",
+    27.38
+   ],
+   [
+    "days",
+    27.83
+   ]
+  ]
+ },
+ {
+  "s": 28.56,
+  "e": 31.62,
+  "text": "At night, most saw falling blocks as they drifted off.",
+  "words": [
+   [
+    "at",
+    28.56
+   ],
+   [
+    "night",
+    28.7
+   ],
+   [
+    "most",
+    29.06
+   ],
+   [
+    "saw",
+    29.34
+   ],
+   [
+    "falling",
+    29.55
+   ],
+   [
+    "blocks",
+    30.05
+   ],
+   [
+    "as",
+    30.48
+   ],
+   [
+    "they",
+    30.62
+   ],
+   [
+    "drifted",
+    30.91
+   ],
+   [
+    "off",
+    31.41
+   ]
+  ]
+ },
+ {
+  "s": 32.06,
+  "e": 33.97,
+  "text": "Even some patients with amnesia,",
+  "words": [
+   [
+    "even",
+    32.06
+   ],
+   [
+    "some",
+    32.34
+   ],
+   [
+    "patients",
+    32.62
+   ],
+   [
+    "with",
+    33.19
+   ],
+   [
+    "amnesia",
+    33.47
+   ]
+  ]
+ },
+ {
+  "s": 34.42,
+  "e": 36.21,
+  "text": "who couldn't remember playing at all.",
+  "words": [
+   [
+    "who",
+    34.42
+   ],
+   [
+    "couldnt",
+    34.59
+   ],
+   [
+    "remember",
+    35.01
+   ],
+   [
+    "playing",
+    35.49
+   ],
+   [
+    "at",
+    35.91
+   ],
+   [
+    "all",
+    36.03
+   ]
+  ]
+ },
+ {
+  "s": 36.6,
+  "e": 39.63,
+  "text": "Scientists think sleep may replay your day to save it.",
+  "words": [
+   [
+    "scientists",
+    36.6
+   ],
+   [
+    "think",
+    37.29
+   ],
+   [
+    "sleep",
+    37.63
+   ],
+   [
+    "may",
+    37.98
+   ],
+   [
+    "replay",
+    38.18
+   ],
+   [
+    "your",
+    38.59
+   ],
+   [
+    "day",
+    38.87
+   ],
+   [
+    "to",
+    39.08
+   ],
+   [
+    "save",
+    39.21
+   ],
+   [
+    "it",
+    39.49
+   ]
+  ]
+ },
+ {
+  "s": 39.98,
+  "e": 42.3,
+  "text": "So what did your brain replay last night?",
+  "words": [
+   [
+    "so",
+    39.98
+   ],
+   [
+    "what",
+    40.12
+   ],
+   [
+    "did",
+    40.4
+   ],
+   [
+    "your",
+    40.61
+   ],
+   [
+    "brain",
+    40.89
+   ],
+   [
+    "replay",
+    41.25
+   ],
+   [
+    "last",
+    41.67
+   ],
+   [
+    "night",
+    41.95
+   ]
+  ]
+ }
+]
