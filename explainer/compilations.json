@@ -1,0 +1,45 @@
+{
+ "compilations": [
+  {
+   "date": "(earlier)",
+   "title": "15 Animal Facts That Sound Fake",
+   "shorts": [
+    "20261107-bird-perch",
+    "20261102-cat-eyeshine",
+    "20261028-spider-web",
+    "20261027-pufferfish",
+    "20261102-cat-purr",
+    "20261103-pigeon-head-bob",
+    "20261029-owl-head",
+    "20261101-flamingo-leg",
+    "20261106-mosquito-dark",
+    "20261027-giraffe",
+    "20261031-shark-teeth",
+    "20261105-cow-stomach",
+    "20261028-chameleon",
+    "20261031-woodpecker",
+    "20261028-firefly-glow"
+   ]
+  },
+  {
+   "date": "2026-11-28",
+   "id": "20261128-comp-body-facts",
+   "title": "10 Facts About Your Body That Sound Fake",
+   "theme": "human body",
+   "shorts": [
+    "20261030-morning-height",
+    "20261107-stomach-acid",
+    "20261108-knuckle-crack",
+    "20261108-baby-teeth",
+    "20261103-pineapple-sting",
+    "20261102-stomach-growl",
+    "20261106-chili-not-hot",
+    "20261109-garlic-breath",
+    "20261031-self-tickle",
+    "20261104-why-we-blink"
+   ],
+   "drop": "drop/20261128-comp-body-facts"
+  }
+ ],
+ "notes": "Shorts listed here are used; skip them in future compilations. 20261029-onion-tears and 20261027-ear-pop were skipped on 2026-11-28 because their GitHub releases (videos-2026-10-29, videos-2026-10-28) no longer exist, so the original audio track can't be downloaded."
+}

@@ -2112,5 +2112,33 @@
   "hook_score": 40,
   "title_score": 100,
   "note": "no storyboard step (unattended run); 5:37 slot -> body explainer; S130 clownfish skipped again (no million-view source), added S138 dreaming (TED-Ed 9.26M); voice rotated from af_bella to am_michael"
+ },
+ {
+  "date": "2026-11-28",
+  "id": "20261128-comp-body-facts",
+  "kind": "long",
+  "format": "compilation",
+  "style": "Compilation: Copperplate Engraving, Flat-Vector Science, Kawaii Anime, Napkin Sketch",
+  "topic": "Compilation: 10 human-body Shorts",
+  "title": "10 Facts About Your Body That Sound Fake",
+  "seconds": 523.7,
+  "words": null,
+  "chapters": 10,
+  "shorts": [
+   "20261030-morning-height",
+   "20261107-stomach-acid",
+   "20261108-knuckle-crack",
+   "20261108-baby-teeth",
+   "20261103-pineapple-sting",
+   "20261102-stomach-growl",
+   "20261106-chili-not-hot",
+   "20261109-garlic-breath",
+   "20261031-self-tickle",
+   "20261104-why-we-blink"
+  ],
+  "proven_by": "Zorbly's own top Shorts by views (archive/videos.json youtube_stats, 141-1,368 views each); compilation shape proven by '15 Animal Facts That Sound Fake'",
+  "recipe": "'<N> Facts About X That Sound Fake' compilation, best-viewed Short first",
+  "title_score": 94,
+  "notes": "Saturday compilation, unattended run. Each Short's story.js re-laid out natively for 1920x1080 (parallel subagents), 6-20 test frames each, full render, muxed with the original Short's audio from its GitHub release, concatenated best-viewed first. Onion tears and ear pop skipped (releases gone). No Synthwave Shorts."
  }
 ]
